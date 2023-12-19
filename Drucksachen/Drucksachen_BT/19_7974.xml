@@ -1,0 +1,248 @@
+<document>
+    <id>226650</id>
+    <drucksachetyp>Kleine Anfrage</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>35</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/7974</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>670fb6e02f547623b768fd27273585da</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:15+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>244486</id>
+      <titel>Gesetz zum Schutz vor Manipulationen an digitalen Grundaufzeichnungen</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>FDP</bezeichnung>
+      <titel>Fraktion der FDP</titel>
+    </urheber>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/079/1907974.pdf</pdf_url>
+      <id>226650</id>
+      <dokumentnummer>19/7974</dokumentnummer>
+      <datum>2019-02-21</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Kleine Anfrage</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Fraktion der FDP</urheber>
+    </fundstelle>
+    <autoren_anzeige>
+      <id>7530</id>
+      <titel>Katja Hessel, MdB, FDP</titel>
+      <autor_titel>Katja Hessel</autor_titel>
+    </autoren_anzeige>
+    <autoren_anzeige>
+      <id>2127</id>
+      <titel>Christian D&#252;rr, MdB, FDP</titel>
+      <autor_titel>Christian D&#252;rr</autor_titel>
+    </autoren_anzeige>
+    <text>[Deutscher Bundestag  Drucksache 19/7974 
+19. Wahlperiode 21.02.2019 
+Kleine Anfrage 
+der Abgeordneten Katja Hessel, Christian D&#252;rr, Grigorios Aggelidis, Renata Alt,  
+Jens Beeck, Nicola Beer, Dr. Jens Brandenburg (Rhein-Neckar),  
+Dr. Marco Buschmann, Dr. Marcus Faber, Otto Fricke, Thomas Hacker,  
+Katrin Helling-Plahr, Markus Herbrand, Dr. Christoph Hoffmann,  
+Reinhard Houben, Ulla Ihnen, Olaf in der Beek, Thomas L. Kemmerich,  
+Dr. Marcel Klinge, Pascal Kober, Ulrich Lechte, Oliver Luksic, Till Mansmann,  
+Alexander M&#252;ller, Frank M&#252;ller-Rosentritt, Bernd Reuther, Christian Sauter,  
+Frank Sch&#228;ffler, Matthias Seestern-Pauly, Judith Skudelny,  
+Bettina Stark-Watzinger, Katja Suding, Michael Theurer, Stephan Thomae,  
+Gerald Ullrich und der Fraktion der FDP 
+Gesetz zum Schutz vor Manipulationen an digitalen Grundaufzeichnungen 
+Durch das Gesetz zum Schutz vor Manipulationen an digitalen
+Grundaufzeichnungen sind elektronische Aufzeichnungssysteme grunds&#228;tzlich ab dem 1. Januar 
+2020 durch eine zertifizierte technische Sicherheitseinrichtung (TSE) zu
+sch&#252;tzen. Weiter wurde geregelt, dass die elektronischen Grundaufzeichnungen
+einzeln, vollst&#228;ndig, richtig, zeitgerecht, geordnet und unver&#228;nderbar aufzuzeichnen 
+sind (Einzelaufzeichnungspflicht) und auf einem Speichermedium gesichert und 
+verf&#252;gbar gehalten werden m&#252;ssen. 
+Mit der Verordnung zur Bestimmung der technischen Anforderungen an
+elektronische Aufzeichnungs- und Sicherungssysteme im Gesch&#228;ftsverkehr
+(Kassensicherungsverordnung &#8211; KassenSichV) werden die Anforderungen des &#167; 146a der 
+Abgabenordung (AO) pr&#228;zisiert. 
+Das Bundesamt f&#252;r Sicherheit in der Informationstechnik (BSI) hat in
+Technischen Richtlinien und Schutzprofilen die Anforderungen an das
+Sicherheitsmodul, das Speichermedium, die einheitliche digitale Schnittstelle sowie die
+organisatorischen Anforderungen zur Vergabe der Seriennummer des elektronischen 
+Aufzeichnungssystems festgelegt. 
+Anwendungszeitpunkt 
+Fraglich erscheint aus Sicht der Fragesteller, ob der vorgesehene
+Anwendungszeitpunkt zum Einsatz einer TSE am 1. Januar 2020 eingehalten werden kann. 
+Das Problem besteht haupts&#228;chlich darin, dass derzeit am Markt noch keine
+technischen Sicherheitsmodule angeboten werden, weder zertifiziert noch
+unzertifiziert. Die f&#252;r die TSE erforderliche interne Zeitquelle kann erst durch einen neuen 
+Java-Card-Standard abgebildet werden, der erst in diesem Jahr verf&#252;gbar sein 
+soll. Kassenhersteller k&#246;nnen in der Folge nicht mit der Entwicklung n&#246;tiger
+Anpassungen der Kassensoftware beginnen, die f&#252;r die Einbindung des
+Sicherheitsmoduls erforderlich ist.
+Das BSI hat am 25. Juli 2018 das &#8222;Projekt 380 &#8211; Zertifizierung eines
+Sicherheitsmoduls f&#252;r Registrierkassen und weitere Aufzeichnungssysteme (Zersika)&#8220;
+ausgeschrieben. Auftragsgegenstand ist die praktische Erprobung des neuartigen 
+Konzeptes f&#252;r die Zertifizierung eines Sicherheitsmoduls f&#252;r Registrierkassen 
+und weitere Aufzeichnungssysteme sowie die Mitwirkung bei der Optimierung 
+des Konzeptes. 
+Zun&#228;chst ist ein Zertifizierungsverfahren f&#252;r eine bestehende Implementierung 
+eines Sicherheitsmoduls f&#252;r Registrierkassenanwendungen nach den vom BSI 
+vorgegebenen Schutzprofilen BSI-CC-PP-x-y &#8222;Cryptographic Service Provider&#8220; 
+(CSP) oder BSI-CC-PP-x-y &#8222;Cryptographic Service Provider Light&#8220; (CSP light) 
+sowie BSI-CC-PP-x-y &#8222;Security Module Application for Electronic
+Recordkeeping Systems&#8220; (SMAERS) nach CC zu durchlaufen. Anschlie&#223;end ist zudem 
+ein Zertifizierungsverfahren f&#252;r ein Gesamtsystem einer technischen
+Sicherheitseinrichtung, bestehend aus Sicherheitsmodul, der zugeh&#246;rigen
+Registrierkassenanwendung, einer digitalen Schnittstelle zur Einbindung in ein
+Aufzeichnungssystem sowie ein Speichermedium, nach der Technischen Richtlinie BSI  
+TR-03153 &#8222;Technische Sicherheitseinrichtung f&#252;r elektronische
+Aufzeichnungssysteme&#8220; (funktionale Anforderungen) durchzuf&#252;hren. 
+Die Laufzeit des Vertrages betr&#228;gt 15 Monate (vgl. https://ausschreibungen- 
+deutschland.de/462419_Projekt_380_-_Zertifizierung_eines_Sicherheitsmoduls_ 
+fuer_Registrierkassen_und_weitere_2018_Bonn). 
+Ausweislich der Begr&#252;ndung des Gesetzes zum Schutz vor Manipulationen an 
+digitalen Grundaufzeichnungen hat das BSI gesch&#228;tzt, dass etwa f&#252;nf
+Unternehmen die TSE herstellen k&#246;nnten (vgl. Gesetzesbegr&#252;ndung Ziffer V.4 zum
+Erf&#252;llungsaufwand f&#252;r die Wirtschaft S. 16; Bundestagsdrucksache 18/9535). 
+Ver&#246;ffentlichung des noch ausstehenden Anwendungserlasses durch das
+Bundesministerium der Finanzen (BMF) 
+Ausdr&#252;cklich wurde in der Gesetzesbegr&#252;ndung zu &#167; 146a AO ausgef&#252;hrt, dass 
+die Regelungen &#167;&#167; 148 und 158 AO unber&#252;hrt bleiben. In den Beratungen des 
+Bundestagsfinanzausschusses haben die Koalitionsfraktionen der CDU, CSU und 
+SPD darauf ausdr&#252;cklich hingewiesen (Bundestagsdrucksache 18/10667, S. 21). 
+&#8222;Danach k&#246;nnten Steuerpflichtige auch weiterhin einen Antrag zur Bewilligung 
+von Erleichterungen stellen, z. B. zum Absehen von der Verwendung einer
+zertifizierten technischen Sicherheitseinrichtung. Dies k&#246;nnte insbesondere dann der 
+Fall sein, wenn geschlossene Warenwirtschaftssysteme verwendet w&#252;rden, bei 
+denen Manipulationen an digitalen Grundaufzeichnungen mit an Sicherheit
+grenzender Wahrscheinlichkeit ausgeschlossen seien, und die Besteuerung durch die 
+Erleichterung nicht beeintr&#228;chtigt werde. Die Entscheidung &#252;ber einen Antrag 
+nach &#167; 148 AO liege im pflichtgem&#228;&#223;en Ermessen der zust&#228;ndigen
+Finanzbeh&#246;rde. Das Bundesministerium der Finanzen werde gebeten, in Abstimmung mit 
+den obersten Finanzbeh&#246;rden der L&#228;nder den bundeseinheitlichen
+Anwendungserlass zu &#167; 148 AO entsprechend zu &#252;berarbeiten.&#8220; 
+Im Hinblick auf den Anwendungszeitpunkt 1. Januar 2020 ben&#246;tigen die
+Unternehmen Planungssicherheit, ob diese ggf. mit Aussicht auf Erfolg einen Antrag 
+auf Bewilligung von Erleichterungen in Form einer Befreiung von der Nutzung 
+einer zertifizierten technischen Sicherheitseinrichtung oder von der
+Belegausgabepflicht gem&#228;&#223; &#167; 148 AO stellen k&#246;nnen. 
+Aufzeichnung von Transaktionen (&#167; 2 KassenSichV) 
+F&#252;r jeden aufzeichnungspflichtigen Gesch&#228;ftsvorfall oder anderen Vorgang im 
+Sinne &#167; 146a Absatz 1 Satz 1 AO muss von dem eingesetzten elektronischen
+Aufzeichnungssystem unmittelbar, d. h. zeitgleich, eine neue Transaktion gestartet
+werden. Die Transaktion dient der Zusammenf&#252;hrung von Daten in einem
+einheitlichen Prozess, wodurch die protokollierten einzelnen digitalen
+Grundaufzeichnungen nachfolgend nicht mehr manipuliert werden k&#246;nnen. 
+Gem&#228;&#223; &#167; 2 KassenSichV muss die Transaktion 
+1. den Zeitpunkt des Vorgangbeginns, 
+2. eine eindeutige und fortlaufende Transaktionsnummer, 
+3. die Art des Vorgangs, 
+4. die Daten des Vorgangs, 
+5. die Zahlungsart, 
+6. den Zeitpunkt der Vorgangsbeendigung oder des Vorgangsabbruchs, 
+7. einen Pr&#252;fwert sowie 
+8. die Seriennummer des elektronischen Aufzeichnungssystems oder die
+Seriennummer des Sicherheitsmoduls enthalten. 
+Ausweislich der TR-03153 erfolgt die Protokollierung eines aufzuzeichnenden 
+Vorgangs mit der TSE in mehreren Phasen und Absicherungsschritten. In der
+Regel bestehen diese Phasen aus Beginn der Transaktion (StartTransaction),
+Aktualisierung der Transaktion (UpdateTransaction) und Beendigung der Transaktion 
+(FinishTransaction). Eine Aktualisierung der Transaktion ist dann erforderlich, 
+wenn nach dem Start und vor Beendigung der Transaktion neue
+Anwendungsdaten entstehen. 
+Ausweislich der Begr&#252;ndung von &#167; 2 KassenSichV sind andere Vorg&#228;nge solche, 
+die unmittelbar durch Bet&#228;tigung der Kasse erfolgen (z. B. Tastendruck,
+Scanvorgang eines Barcodes), unabh&#228;ngig davon, ob sich daraus ein Gesch&#228;ftsvorfall 
+entwickelt. Das hei&#223;t durch jede Bet&#228;tigung der Kasse erfolgt eine
+Protokollierung. 
+In der Praxis sind Prozesse vorhanden, in denen im Rahmen der Erfassung eines 
+Gesch&#228;ftsvorfalls unterschiedliche elektronische Aufzeichnungssysteme &#8211; beim 
+sog. Durchbedienen &#8222;reine&#8220; Waagen und Waagen mit Kassenfunktion &#8211; mit
+divergierenden Anforderungen eingebunden sind. 
+Arbeiten an einer Neufassung der KassenSichV 
+Ausweislich der Protokollerkl&#228;rung des Bundesministeriums der Finanzen im 
+Zuge des Verordnungsgebungsverfahrens (vgl. Beschlussempfehlung und
+Bericht des Finanzausschusses vom 31. Mai 2017, Bundestagsdrucksache 18/12581, 
+S. 6) soll der Anwendungsbereich der Kassensicherungsverordnung auf
+betrugsanf&#228;llige kassen&#228;hnliche Systeme ausgedehnt werden. Das Bundesministerium 
+der Finanzen hatte angestrebt, diese Arbeiten im ersten Halbjahr 2018
+abzuschlie&#223;en. 
+B&#252;rokratiekosten 
+Im Rahmen der Absch&#228;tzung der B&#252;rokratiekosten wurde angenommen, dass der 
+Preis einer zertifizierten technischen Sicherheitseinrichtung etwa 10 Euro pro 
+Einheit betragen wird (vgl. Gesetzesbegr&#252;ndung Gesetz zum Schutz vor
+Manipulationen an digitalen Grundaufzeichnungen Ziffer V.4 zum Erf&#252;llungsaufwand 
+f&#252;r die Wirtschaft S. 16; Bundestagsdrucksache 18/9535).
+Wir fragen die Bundesregierung: 
+1. Wann ist mit dem Abschluss des neuartigen Zertifizierungsverfahrens zu 
+rechnen? 
+2. Wurden beim BSI weitere Antr&#228;ge zur Zertifizierung von
+Sicherheitsmodulen f&#252;r Registrierkassen und weitere Aufzeichnungssysteme gestellt?  
+Wenn ja, wurde mit den Verfahren bereits begonnen, oder werden diese erst 
+nach Abschluss des Zersika-Projektes durchgef&#252;hrt? 
+3. Kann nach Ansicht der Bundesregierung unter Ber&#252;cksichtigung des noch 
+erforderlichen Entwicklungsbedarfs der Kassenhersteller f&#252;r die
+Anpassungen der Kassensoftware, und der sich anschlie&#223;enden &#8222;Ausrollung&#8220; in den 
+Markt, der Termin 1. Januar 2020 realistisch absehbar gehalten werden? 
+4. Aus welchen Gr&#252;nden wird eine Zertifizierung nach BSI-CC-PP-x-y
+&#8222;Cryptographic Service Provider Light&#8220; (CSP light) alternativ erm&#246;glicht? 
+5. Soll f&#252;r sp&#228;tere Zertifizierungsverfahren auch diese Alternative (siehe 
+Frage 4) bestehen?  
+Wenn nicht, welche Konsequenzen sind damit auch im Hinblick auf die
+Sicherheitseinrichtungen verbunden, die im Rahmen von Zersika zertifiziert 
+wurden? 
+6. Ist im Rahmen des Zersika-Projektes eine Erprobung der TSE hinsichtlich 
+von Prozessen, Schnittstellen und Funktionalit&#228;ten im Gesamtablauf Kasse &#8211; 
+zertifizierte technische Sicherheitseinrichtung sowie hinsichtlich Exporte f&#252;r 
+Pr&#252;fungszwecke auf Praxis- und Massentauglichkeit sowie auf m&#246;gliche 
+Fehlerquellen vorgesehen? 
+7. Wann ist mit der Ver&#246;ffentlichung des Anwendungserlasses zu &#167; 148 AO zu 
+rechnen? 
+8. Mit wie vielen Updates jeder Transaktion ist durchschnittlich vor dem
+Abschluss einer Transaktion zu rechnen? 
+9. Welche Datenvolumina werden dadurch erzeugt, und wie wirkt sich die
+vermehrte komplexe Kommunikation zwischen der TSE und mindestens einem 
+elektronischen Aufzeichnungssystem auf die Anforderungen an die
+Leistungsf&#228;higkeit von elektronischen Aufzeichnungssystemen und auf die
+Verarbeitungsdauer und damit auf die Dauer des Bedienvorgangs aus? 
+10. Wie wird sichergestellt, dass bei Nutzung unterschiedlicher Arten von
+elektronischen Aufzeichnungssystemen im Verbund wie im Rahmen des sog. 
+Durchbedienens, z. B. durch das Update-Erfordernis keine faktische
+Erweiterung des Anwendungsbereiches von &#167; 1 KassenSichV auf andere
+elektronische Aufzeichnungssysteme erfolgt? 
+11. Wie wird sichergestellt, dass Gesch&#228;ftsprozesse, welche sich seit
+Jahrzehnten bew&#228;hrt haben, auch in Zukunft zur Anwendung kommen k&#246;nnen? 
+12. Wann ist mit der Ver&#246;ffentlichung eines Referentenentwurfs der Neufassung 
+der KassenSichV zu rechnen? 
+13. Gab es im Rahmen der Erstellung der Technischen Richtlinien oder des 
+Zersika-Projektes Erkenntnisse, die einen Nachbesserungsbedarf &#252;ber die 
+Erweiterung des Anwendungsbereiches hinaus erforderlich machen? 
+14. Kann die in der Vorbemerkung genannte Kostensch&#228;tzung von 10 Euro
+B&#252;rokratiekosten aufgrund der bisherigen Erfahrungen u. a. im Rahmen des 
+Zersika-Projektes aufrechterhalten werden, oder ist absehbar, dass sich die 
+Kosten f&#252;r eine zertifizierte technische Sicherheitseinrichtung erh&#246;hen
+werden?  
+Wenn ja, mit welchen Kosten ist nunmehr zu rechnen?
+15. Ist aus heutiger Bewertung bzw. Auslegung der Richtlinien und
+Ausschreibungen denkbar bzw. geplant, dass eine Sicherheitseinrichtung zertifiziert 
+werden k&#246;nnte, die filialisierte Handelsunternehmen zentral
+(&#8222;cloudbasiert&#8220;), das hei&#223;t ohne TSE-Hardware-Module in einer Filiale/an der Kasse 
+betreiben? 
+Berlin, den 30. Januar 2019 
+Christian Lindner und Fraktion
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Satz: Satzweiss.com Print, Web, Software GmbH, Mainzer Stra&#223;e 116, 66121 Saarbr&#252;cken, www.satzweiss.com 
+Druck: Printsystem GmbH, Schafw&#228;sche 1-3, 71296 Heimsheim, www.printsystem.de 
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de 
+ISSN 0722-8333]</text>
+    <titel>Gesetz zum Schutz vor Manipulationen an digitalen Grundaufzeichnungen</titel>
+    <datum>2019-02-21</datum>
+  </document>
+  

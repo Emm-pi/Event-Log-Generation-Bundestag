@@ -1,0 +1,234 @@
+<document>
+    <id>241758</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/19679</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>20082e6088158880667184f9e9d2ae9c</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>262457</id>
+      <titel>Staatliche Leistungserbringung f&#252;r sichere Pflanzenschutzmittelanwendung</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium f&#252;r Ern&#228;hrung und Landwirtschaft</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/196/1919679.pdf</pdf_url>
+      <id>241758</id>
+      <dokumentnummer>19/19679</dokumentnummer>
+      <datum>2020-05-29</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Antwort
+der Bundesregierung
+auf die Kleine Anfrage der Abgeordneten Carina Konrad, Frank Sitta,
+Dr. Gero Clemens Hocker, weiterer Abgeordneter und der Fraktion der FDP
+&#8211; Drucksache 19/19293 &#8211;
+Staatliche Leistungserbringung f&#252;r sichere Pflanzenschutzmittelanwendung
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Die Digitalisierung der Landwirtschaft erfordert in vielen Bereichen die
+Bereitstellung von &#246;ffentlich erhobenen Daten. Beispielsweise sind auf der 
+Homepage des Bundesamtes f&#252;r Verbraucherschutz und
+Lebensmittelsicherheit (BVL) Zulassungsdaten von Pflanzenschutzmitteln in PDF und in einem 
+Datenbankformat verf&#252;gbar. Diese Datei wird laut Angaben des Bundesamts 
+monatlich auf Basis von MS-Access 2000 aktualisiert. Sie enth&#228;lt die Daten, 
+die in PDF auch in der Online-Datenbank und den
+Pflanzenschutzmittelverzeichnissen erscheinen. F&#252;r Beh&#246;rden, die diese Datei ausschlie&#223;lich zur
+Erf&#252;llung hoheitlicher Aufgaben ben&#246;tigen, ist sie unentgeltlich. F&#252;r sonstige 
+Nutzer betr&#228;gt der Bezugspreis (netto) f&#252;r ein Jahresabonnement 497,49 Euro, 
+f&#252;r eine Monatslieferung 78,70 Euro (https://www.bvl.bund.de/DE/Arbeitsber
+eiche/04_Pflanzenschutzmittel/01_Aufgaben/02_ZulassungPSM/01_ZugelPS
+M/06_Datenbank/psm_ZugelPSM_Datenbank_node.html). Die Anwendung 
+von Pflanzenschutzmitteln unterliegt strengen, dynamischen Regeln. Um die 
+Chancen der Digitalisierung zu nutzen, ist die Bereitstellung von
+Pflanzenschutzmittelzulassungsdaten in maschinenlesbarer Form zwingend notwendig.
+V o r b e m e r k u n g  d e r  B u n d e s r e g i e r u n g
+Die Beantwortung der Fragen orientiert sich grunds&#228;tzlich an der
+Begriffsbestimmung des maschinenlesbaren Formats auf EU-Ebene: Im Vorschlag f&#252;r
+eine Richtlinie des Europ&#228;ischen Parlaments und des Rates &#252;ber die
+Weiterverwendung von Informationen des &#246;ffentlichen Sektors (Neufassung) (COM 
+(2018) 234 final), Artikel 2, Nummer 10, Seite 27 [41/52], bezeichnet der
+Ausdruck &#8222;maschinenlesbares Format&#8220; ein Dateiformat, &#8222;das so strukturiert ist, 
+dass Softwareanwendungen konkrete Daten, einschlie&#223;lich einzelner
+Sachverhaltsdarstellungen und deren interner Struktur, leicht identifizieren, erkennen 
+und extrahieren k&#246;nnen&#8220; (https://ec.europa.eu/transparency/regdoc/rep/1/2018/
+DE/COM-2018-234-F1-DE-MAIN-PART-1.PDF).
+Deutscher Bundestag Drucksache 19/19679
+19. Wahlperiode 29.05.2020
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums f&#252;r Ern&#228;hrung und Landwirtschaft 
+vom 29. Mai 2020 &#252;bermittelt.
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext.
+&#8199;1. Welche Daten stellt das BVL in maschinenlesbarer Form zur Verf&#252;gung?
+Das Bundesamt f&#252;r Verbraucherschutz und Lebensmittelsicherheit (BVL) stellt 
+Daten in maschinenlesbarer Form einerseits &#252;ber das Internet durch die 
+&#8222;Online-Datenbank Pflanzenschutzmittel&#8220; (in HTML) zur Verf&#252;gung (https://w
+ww.bvl.bund.de/DE/Arbeitsbereiche/04_Pflanzenschutzmittel/01_Aufgaben/0
+2_ZulassungPSM/01_ZugelPSM/01_OnlineDatenbank/psm_onlineDB_nod
+e .html), andererseits zus&#228;tzlich als &#8222;Zulassungsdaten im Datenbankformat&#8220; 
+(https://www.bvl.bund.de/DE/Arbeitsbereiche/04_Pflanzenschutzmittel/01_Auf
+gaben/02_ZulassungPSM/01_ZugelPSM/06_Datenbank/psm_ZugelPSM_Date
+nbank_node.html).
+Im Rahmen beider Bereitstellungsformen beinhalten die Daten die Angaben 
+&#252;ber die zum Erstellungszeitpunkt zugelassenen Pflanzenschutzmittel und
+deren Anwendungsgebiete (Kultur, Schadorganismus), Zulassungsende,
+Kennzeichnungen, Anwendungsbestimmungen, Auflagen, Hinweise,
+Wirkstoffgehalte, Wirkungsbereiche und Anwendungsdetails.
+&#8199;2. Wem stellt das BVL diese Daten in maschinenlesbarer Form kostenfrei 
+zur Verf&#252;gung (bitte die Beh&#246;rden auflisten)?
+In der &#8222;Online-Datenbank Pflanzenschutzmittel&#8220; stellt das BVL die Daten
+kostenfrei der Allgemeinheit &#252;ber das Internet zur Verf&#252;gung. Als
+&#8222;Zulassungsdaten im Datenbankformat&#8220; stellt das BVL die Daten Beh&#246;rden kostenfrei &#252;ber 
+eine Nutzergruppe im &#8222;FIS-VL Fachinformationssystem f&#252;r Verbraucherschutz 
+und Lebensmittelsicherheit&#8220; (https://fis-vl.bvl.bund.de/share/page/) zur
+Verf&#252;gung. Nach derzeitiger Konfiguration k&#246;nnen folgende Personen sowie
+Mitarbeiter folgender Beh&#246;rden Mitglieder dieser Nutzergruppe sein:
+&#8226; Amtliche Tier&#228;rzte
+&#8226; Bundesamt f&#252;r Verbraucherschutz und Lebensmittelsicherheit (BVL)
+&#8226; Max Rubner-Institut (MRI) &#8211; Bundesforschungsinstitut f&#252;r Ern&#228;hrung und 
+Lebensmittel
+&#8226; Julius K&#252;hn-Institut (JKI) &#8211; Bundesforschungsinstitut f&#252;r Kulturpflanzen
+&#8226; Friedrich-Loeffler-Institut (FLI) &#8211; Bundesforschungsinstitut f&#252;r
+Tiergesundheit
+&#8226; Bundesinstitut f&#252;r Risikobewertung (BfR)
+&#8226; Bundesministerium der Verteidigung (BMVg)
+&#8226; Bundesministerium f&#252;r Ern&#228;hrung und Landwirtschaft (BMEL)
+&#8226; Bundesministerium f&#252;r Gesundheit (BMG)
+&#8226; Bundesministerium f&#252;r Umwelt, Naturschutz und Reaktorsicherheit (BMU)
+&#8226; weitere Bundesbeh&#246;rden im Ressort des BMEL (z. B. Bundessortenamt 
+(BSA), Bundesanstalt f&#252;r Landwirtschaft und Ern&#228;hrung (BLE))
+&#8226; Bundeswehrangeh&#246;rige
+&#8226; Zust&#228;ndige L&#228;nderbeh&#246;rden aus den Bereichen Lebensmittel, Futtermittel, 
+Tiergesundheit, Tierschutz, Pflanzengesundheit, Kosmetik,
+Bedarfsgegenst&#228;nde und Tabak
+&#8226; Pflanzenschutz&#228;mter und Pflanzenschutzdienste
+&#8226; Robert Koch-Institut (RKI)
+&#8199;3. Zu welchem Zweck stellt das BVL Daten in maschinenlesbarer Form 
+kostenfrei zur Verf&#252;gung?
+Das BVL stellt gem&#228;&#223; &#167; 33 Absatz 4 des Gesetzes zum Schutz der
+Kulturpflanzen (Pflanzenschutzgesetz &#8211; PflSchG) die Daten in Form der &#8222;Online-
+Datenbank Pflanzenschutzmittel&#8220; kostenfrei der Allgemeinheit zur Verf&#252;gung. 
+Die kostenfreie Zurverf&#252;gungstellung der Daten an Beh&#246;rden als
+&#8222;Zulassungsdaten im Datenbankformat&#8220; erfolgt, um diese bei der Erf&#252;llung ihrer
+hoheitlichen Aufgaben zu unterst&#252;tzen.
+&#8199;4. Stellt das BVL dem Julius-K&#252;hn-Institut (JKI) maschinenlesbare
+Pflanzenschutzmittelzulassungsdaten kostenfrei oder gegen Entgelt zur
+Verf&#252;gung?
+&#8199;5. Stellt das BVL den Bundesl&#228;ndern maschinenlesbare
+Pflanzenschutzmittelzulassungsdaten kostenfrei oder gegen Entgelt zur Verf&#252;gung?
+&#8199;6. Stellt das BVL der Wirtschaft maschinenlesbare
+Pflanzenschutzmittelzulassungsdaten kostenfrei oder ausschlie&#223;lich gegen Entgelt zur
+Verf&#252;gung?
+&#8199;7. Stellt das BVL Forschungseinrichtungen, wie z. B. Hochschulen,
+Universit&#228;ten oder Landwirtschaftskammern, maschinenlesbare
+Pflanzenschutzmittelzulassungsdaten kostenfrei oder ausschlie&#223;lich gegen Entgelt zur 
+Verf&#252;gung?
+Die Fragen 4 bis 7 werden gemeinsam beantwortet.
+Das BVL stellt dem Julius K&#252;hn-Institut, den Bundesl&#228;ndern, der Wirtschaft 
+und Forschungseinrichtungen die maschinenlesbaren
+Pflanzenschutzmittelzulassungsdaten in unterschiedlicher Form kostenfrei zur Verf&#252;gung:
+&#8226; Dem Julius K&#252;hn-Institut einerseits in Form der &#8222;Zulassungsdaten im
+Datenbankformat&#8220; durch sowohl Zusendung per E-Mail und als auch die
+Bereitstellung im FIS-VL und andererseits in Form der &#8222;Online-Datenbank 
+Pflanzenschutzmittel&#8220;.
+&#8226; Den Bundesl&#228;ndern einerseits in Form der &#8222;Zulassungsdaten im
+Datenbankformat&#8220; durch die Bereitstellung im FIS-VL und andererseits in Form der 
+&#8222;Online-Datenbank Pflanzenschutzmittel&#8220;.
+&#8226; Der Wirtschaft und Forschungseinrichtungen in Form der &#8222;Online-
+Datenbank Pflanzenschutzmittel&#8220;.
+Des Weiteren stellt das BVL anderen Nutzern als Beh&#246;rden im Rahmen der 
+Wahrnehmung ihrer hoheitlichen Aufgaben (insbesondere der Wirtschaft und 
+Forschungseinrichtungen) maschinenlesbare Pflanzenschutzmitteldaten in 
+Form von &#8222;Zulassungsdaten im Datenbankformat&#8220; entgeltlich im Rahmen eines 
+Jahresabonnements oder einer Monatslieferung zur Verf&#252;gung. F&#252;r solche
+Nutzer betr&#228;gt der Bezugspreis (netto) zuzeit f&#252;r ein Jahresabonnement 497,49
+Euro und f&#252;r eine Monatslieferung 78,70 Euro.
+&#8199;8. Plant das BVL, maschinenlesbare Pflanzenschutzmittelzulassungsdaten 
+generell kostenfrei zur Verf&#252;gung zu stellen, und falls nein, warum 
+nicht?
+Das BVL stellt in Form der &#8222;Online-Datenbank Pflanzenschutzmittel&#8220;
+maschinenlesbare Pflanzenschutzmittelzulassungsdaten bereits jetzt generell
+kostenfrei zur Verf&#252;gung.
+&#8199;9. Welche weiteren Ma&#223;nahmen zur Standardisierung und Bereitstellung 
+von Daten sind derzeit geplant?
+10. Welche Projekte laufen derzeit zur Standardisierung und Bereitstellung 
+von &#246;ffentlich erhobenen Daten in der Landwirtschaft im Rahmen der 
+Digitalisierungsstrategie des Bundes?
+Fragen 9 und 10 werden aufgrund des Sachzusammenhangs gemeinsam wie 
+folgt beantwortet.
+Es bestehen verschiedene Kooperationsprojekte, die eine Standardisierung und 
+verbesserte Bereitstellung von Daten fokussieren. So wird im Rahmen der
+Initiative Tech4Germany mit dem BMEL-Projekt
+&#8222;Pflanzenschutzmittelzulassungsdaten&#8220; daran gearbeitet, die Daten aus der Pflanzenschutzmitteldatenbank des 
+BVL besser nutzbar zu machen. Ziel des Projektes ist die Erstellung einer
+maschinenlesbaren Schnittstelle, die die vorhandenen maschinenlesbaren Daten zu 
+Pflanzenschutzmitteln besser durchsuchbar und allgemein zug&#228;nglich macht. 
+Ferner sollen vorliegende Daten in optimierte maschinenlesbare Strukturen
+gebracht werden, um eine Anwendbarkeit in den landwirtschaftlichen
+Unternehmen zu verbessern. Das Projekt soll als Blaupause f&#252;r Datenbanken in weiteren 
+Bundesbeh&#246;rden genutzt werden.
+Dar&#252;ber hinaus finanziert das BMEL eine Machbarkeitsstudie zu einer
+staatlichen, digitalen Agrarplattform. Hier wird untersucht, welche Daten in welcher 
+Form von wem (Staat oder Privatwirtschaft) zur Verf&#252;gung gestellt werden
+sollen. Ergebnisse werden ab Herbst 2020 vorliegen.
+Ein weiteres Projekt der Bundesregierung ist das Projekt GAIA-X. Dieses hat 
+zum Ziel, eine leistungs- und wettbewerbsf&#228;hige, sichere und
+vertrauensw&#252;rdige Dateninfrastruktur f&#252;r Deutschland und Europa zu etablieren. Das BMEL 
+hat hierbei die Federf&#252;hrung in der Dom&#228;ne Landwirtschaft &#252;bernommen.
+11. Werden die Daten des Kuratoriums f&#252;r Technik und Bauwesen in der 
+Landwirtschaft (KTBL) standardisiert zur Verf&#252;gung gestellt?
+a) Wenn nein, wann ist mit der Bereitstellung standardisierter Daten des 
+KTBL zu rechnen?
+b) Werden diese kostenfrei zur Verf&#252;gung gestellt?
+Fragen 11 bis 11b werden aufgrund des Sachzusammenhangs gemeinsam wie 
+folgt beantwortet.
+Das Kuratorium f&#252;r Technik und Bauwesen in der Landwirtschaft e.V. (KTBL) 
+nutzt semantische Technologien, Linked Data, Vokabulare und Ontologien als 
+technische Grundlage f&#252;r die Bereitstellung von Daten. &#220;ber interaktive
+Anwendungen sind Daten landwirtschaftlicher Maschinen, Arbeitsg&#228;nge der
+Au&#223;enwirtschaft sowie Produktionsverfahren des Pflanzenbaus und der
+Tierhaltung abrufbar. Diese Daten werden auf Nachfrage in strukturierter Form
+abgegeben.
+Direkt &#252;ber einen Server des KTBL k&#246;nnen aktuell Planungsdaten zu mehreren 
+tausend landwirtschaftlichen Arbeitsmaschinen &#8211; beispielsweise
+Abschreibungsdauern, Reparaturkosten oder Betriebsstoffverbr&#228;uche &#8211; abgerufen
+werden. Die bereitgestellten Dienste liefern Daten in maschinenlesbarer Form und 
+sind konform zu einschl&#228;gigen Standards des World Wide Web Consortiums 
+f&#252;r das Semantic Web, wie dem Resource Description Framework (RDF) als 
+Datenformat und der SPARQL-Abfragesprache zur gezielten Selektion von
+Objekten und Eigenschaften. An der entsprechenden Bereitstellung weiterer Daten 
+zu Arbeitsg&#228;ngen der Au&#223;enwirtschaft sowie vertiefender Dokumentation und
+begleitendem Informationsmaterial wird aktuell gearbeitet. Andere
+Datenbereiche werden folgen.
+Die genannten &#246;konomischen Planungsdaten des KTBL stehen in digitaler 
+Form kostenfrei zur Verf&#252;gung. Ebenfalls kostenfrei sind die
+Onlineanwendungen zur detaillierten Kalkulation der unterschiedlichsten Fragestellungen in der 
+Landwirtschaft (https://www.ktbl.de/). Die &#252;ber Webdienste abrufbaren Daten 
+werden unter der international verwendeten Lizenz &#8222;Creative Commons&#8220; allen 
+interessierten Nutzern zur Verf&#252;gung gestellt (Creative Commons
+Namensnennung &#8211; Nicht kommerziell &#8211; Weitergabe unter gleichen Bedingungen 4.0
+International (CC BY-NC-SA 4.0), https://creativecommons.org/licenses/by-nc-sa/4.
+0/deed.de).
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/19293 -
+Staatliche Leistungserbringung f&#252;r sichere Pflanzenschutzmittelanwendung</titel>
+    <datum>2020-05-29</datum>
+  </document>
+  

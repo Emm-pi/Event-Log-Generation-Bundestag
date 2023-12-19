@@ -1,0 +1,124 @@
+<document>
+    <id>248803</id>
+    <drucksachetyp>Kleine Anfrage</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>17</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/25438</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>6dc76dfe570963405a2c1ebbf6698a87</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:15+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>271527</id>
+      <titel>Moderne digitale Rechtsetzung</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>LINKE</bezeichnung>
+      <titel>Fraktion DIE LINKE</titel>
+    </urheber>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/254/1925438.pdf</pdf_url>
+      <id>248803</id>
+      <dokumentnummer>19/25438</dokumentnummer>
+      <datum>2020-12-18</datum>
+      <verteildatum>2020-12-23</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Kleine Anfrage</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Fraktion DIE LINKE</urheber>
+    </fundstelle>
+    <autoren_anzeige>
+      <id>2040</id>
+      <titel>Victor Perli, MdB, DIE LINKE</titel>
+      <autor_titel>Victor Perli</autor_titel>
+    </autoren_anzeige>
+    <autoren_anzeige>
+      <id>1201</id>
+      <titel>Niema Movassat, MdB, DIE LINKE</titel>
+      <autor_titel>Niema Movassat</autor_titel>
+    </autoren_anzeige>
+    <text>[Kleine Anfrage
+der Abgeordneten Victor Perli, Niema Movassat, Dr. Gesine L&#246;tzsch, Lorenz 
+G&#246;sta Beutin, Heidrun Bluhm-F&#246;rster, J&#246;rg Cezanne, Ulla Jelpke, Kerstin 
+Kassner, Caren Lay, Sabine Leidig, Ralph Lenkert, Michael Leutert, Petra Pau, 
+Ingrid Remmers, Friedrich Straetmanns, Andreas Wagner, Hubertus Zdebel und 
+der Fraktion DIE LINKE.
+Moderne digitale Rechtsetzung
+Die Rechtsetzung des Bundes erfolgt heute noch nicht auf dem Stand neuester 
+digitaler Formate. Das Bundesministerium des Inneren, f&#252;r Bau und Heimat 
+(BMI) und das Bundesministerium der Justiz und f&#252;r Verbraucherschutz 
+(BMJV) planen deshalb die Einf&#252;hrung eines modernen, maschinenlesbaren 
+und volldigitalen Rechtsetzungskreislaufs &#252;ber LegalDocML.de, einer Variante 
+des internationalen Standards LegalDocML bzw. &#8222;Akoma Ntoso&#8220;, der auf 
+XML basiert und als Open Source mit der Creative-Commons-Lizenz 4.0
+gestaltet sein soll (vgl. http://egesetzgebung.bund.de/legaldocml.html). Damit die 
+Nutzung optimal ist, m&#252;ssen m&#246;glichst alle Anwendungen, Tools und Stellen in 
+LegalDocML.de eingebunden sein. Bisher scheint noch nicht klar, ob eine
+einheitliche Anwendung des neuen Standards tats&#228;chlich gew&#228;hrleistet ist.
+Wir fragen die Bundesregierung:
+&#8199;1. Was ist nach Kenntnis der Bundesregierung der Stand der Einf&#252;hrung von 
+LegalDocML.de, und gibt es einen Umsetzungs- und Einf&#252;hrungsplan 
+(bitte den Plan ggf. zusenden)?
+&#8199;2. Besteht Einigkeit zwischen dem BMI und dem BMJV dar&#252;ber, dass der 
+Standard LegalDocML.de &#252;ber den gesamten Rechtsetzungskreislauf
+medienbruchfrei genutzt werden soll?
+&#8199;3. Welche Anwendungen bzw. Tools werden f&#252;r welche Zwecke derzeit und 
+in Zukunft auf LegalDocML umgesetzt bzw. umgestellt, insbesondere aus 
+den Bereichen Rechtsetzung, Kabinetts- und Programmplanung sowie 
+Normendokumentation, und wann ist dies voraussichtlich der Fall?
+&#8199;4. Wann genau sollen welche Dokumente und Tools unterst&#252;tzt werden?
+Wann ist eine Ver&#246;ffentlichung geplant?
+&#8199;5. Welche Dokumente sollen im Standard LegalDocML.de maschinenlesbar 
+ausgezeichnet werden?
+Werden alle Bundesministerien ihn anwenden?
+Wird auch erwogen, damit Gerichtsdokumente auszuzeichnen?
+Deutscher Bundestag Drucksache 19/25438
+19. Wahlperiode 18.12.2020
+&#8199;6. Wird auch das Rechtsinformationssystem eine Bereitstellung in Legal-
+DocML.de unterst&#252;tzen?
+Wenn ja, wann?
+Wenn nein, wie ist geplant, einen vollst&#228;ndigen Rechtsetzungskreislauf in 
+LegalDocML.de zu gew&#228;hrleisten?
+&#8199;7. Wird das Word-Plugin eNorm im Zuge der Einf&#252;hrung von Legal-
+DocML.de eingestellt?
+Wenn nein, sieht das BMJV keine gravierenden Nachteile durch diesen 
+Formatbruch?
+&#8199;8. Wird die IT-Architekturrichtlinie des Bundes bei der Planung beachtet?
+&#8199;9. Welche der Anwendungen wird Open Source sein (bitte einzeln auflisten)?
+10. Wird der Editor auf Basis von &#8222;LEOS&#8220; programmiert, und wird er mit 
+anderen Beh&#246;rden teilbar sein (ggf. bitte gesondert f&#252;r EU, andere EU-
+Staaten, Bundesl&#228;nder und Kommunen antworten)?
+11. Inwiefern ist eine Verschr&#228;nkung mit dem internationalen Standard
+&#8222;Akoma Ntoso&#8220;, der unter anderem zur Rechtsetzung der EU und UN genutzt 
+wird (AKN4EU und AKN4UN), auch auf technischer Ebene geplant, etwa 
+durch Nutzung von URIs f&#252;r digitale Verweise oder Unterst&#252;tzung der
+jeweiligen Standards in den Tools des Bundes?
+Wenn nein, warum nicht?
+12. Ist aufgrund des f&#246;deralen Rechtssystems auch im Kontext des IT-
+Planungsrats eine Entwicklung von LegalDocML.de im Bund-L&#228;nder-
+Kontext geplant, etwa durch Unterst&#252;tzung und Koordination der Einf&#252;hrung 
+entsprechender Tools und Auspr&#228;gungen des Standards in den L&#228;ndern?
+Unterst&#252;tzt die Bundesregierung dies, und ggf. wie?
+13. Welche Kosten entstehen durch die Einf&#252;hrung von LegalDocML.de im 
+Aufbau und Dauerbetrieb (bitte die entsprechenden Haushaltstitel
+angeben)?
+14. Welche Kosten k&#246;nnen durch die Einf&#252;hrung von LegalDocML.de
+eingespart werden?
+15. Wie viel w&#252;rde es zus&#228;tzlich kosten, wenn neben LegalDocML.de
+weiterhin stellenweise eNorm f&#252;r die Rechtsetzung genutzt werden w&#252;rde?
+16. Entstehen Zusatzkosten durch weitere Rechtsetzungssysteme au&#223;er Legal-
+DocML.de und eNorm?
+Wenn ja, in welcher H&#246;he (bitte nach System aufschl&#252;sseln)?
+Berlin, den 11. Dezember 2020
+Amira Mohamed Ali, Dr. Dietmar Bartsch und Fraktion
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>Moderne digitale Rechtsetzung</titel>
+    <datum>2020-12-18</datum>
+  </document>
+  

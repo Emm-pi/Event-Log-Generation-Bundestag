@@ -1,0 +1,393 @@
+<document>
+    <id>248880</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/25540</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>225b00ba6f1c8cd2877bed4f601d88e5</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>270866</id>
+      <titel>Stand der digitalen Auf- und Ausr&#252;stung des &#214;ffentlichen Gesundheitsdienstes</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium f&#252;r Gesundheit</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/255/1925540.pdf</pdf_url>
+      <id>248880</id>
+      <dokumentnummer>19/25540</dokumentnummer>
+      <datum>2020-12-21</datum>
+      <verteildatum>2020-12-30</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Antwort
+der Bundesregierung
+auf die Kleine Anfrage der Abgeordneten Frank Sitta, Grigorios Aggelidis,
+Renata Alt, weiterer Abgeordneter und der Fraktion der FDP
+&#8211; Drucksache 19/24833 &#8211;
+Stand der digitalen Auf- und Ausr&#252;stung des &#214;ffentlichen Gesundheitsdienstes
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Die Corona-Pandemie mit einer aktuell hohen Zahl an COVID-19-Infizierten 
+fordert den &#214;ffentliche Gesundheitsdienst (&#214;GD) und seine
+Gesundheitsbeh&#246;rden bei der Registrierung und Nachverfolgung von Infizierten heraus. Die 
+weitestgehend manuelle Kontaktnachverfolgung ist f&#252;r den &#214;GD mit einem 
+hohen Aufwand verbunden. Die Mitarbeiter der Gesundheits&#228;mter arbeiten 
+unter Hochdruck, schnellstm&#246;glich die Symptome der Infizierten telefonisch 
+abzufragen und deren Kontaktpersonen ausfindig zu machen. Die technische 
+Modernisierung im Zuge der digitalen Transformation kann auch hier Abhilfe 
+schaffen, die Nachverfolgung zu vereinfachen und somit Infektionsketten 
+schneller und sicherer nachzuvollziehen.
+In den vom Koalitionsausschuss am 3. Juni 2020 beschlossenen Eckpunkten 
+eines Konjunkturprogramms (&#8222;Corona-Folgen bek&#228;mpfen, Wohlstand sichern, 
+Zukunftsf&#228;higkeit st&#228;rken&#8220;) wird die Wichtigkeit einer St&#228;rkung des
+&#214;ffentlichen Gesundheitsdienstes angesichts der enormen Herausforderungen, vor die 
+die gegenw&#228;rtige pandemische Lage den &#214;GD stellt, betont. (https://www.bun
+desfinanzministerium.de/Content/DE/Standardartikel/Themen/Schlaglichter/K
+onjunkturpaket/2020-06-03-eckpunktepapier.pdf?__blob=publicationFile).
+Die Gesundheitsminister von Bund und L&#228;ndern einigten sich auf einen mit 
+4 Mrd. Euro durch den Bund ausgestatteten &#8222;Pakt(es) f&#252;r den &#214;ffentlichen
+Gesundheitsdienst&#8220;. Dieser wurde am 29. September 2020 von der
+Bundeskanzlerin und den Regierungschefinnen und Regierungschefs der L&#228;nder
+beschlossen. Insbesondere sollen diese Mittel zur digitalen &#8222;Auf- und Ausr&#252;stung&#8220; des 
+&#214;ffentlichen Gesundheitsdiensts verwendet werden, wobei Ausbau,
+Harmonisierung und Beschleunigung der Digitalisierung des &#214;GD als zentrale Ziele 
+genannt werden. Die Gesundheits&#228;mter sollen zudem in der technischen und 
+digitalen Auf- und Ausr&#252;stung gest&#228;rkt werden. Die Gelder k&#246;nnen den
+beschlossenen Ma&#223;nahmen zufolge f&#252;r &#8222;Hard- und Software-Ausstattung und 
+zur Verbesserung des Meldewesens und der Krisenreaktion, in Informations- 
+und Kommunikationstechnologie sowie in die daf&#252;r notwendigen Schulungen 
+der Mitarbeiter investiert werden&#8220; (https://www.bundesgesundheitsministeriu
+m.de/service/begriffe-von-a-z/o/oeffentlicher-gesundheitsheitsdienst-pak
+t.html).
+Deutscher Bundestag Drucksache 19/25540
+19. Wahlperiode 21.12.2020
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums f&#252;r Gesundheit vom
+21. Dezember 2020 &#252;bermittelt.
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext.
+Gegenw&#228;rtig befinden wir uns in einer sogenannten zweiten Welle der 
+Corona-Pandemie. Die Zahlen positiv getesteter B&#252;rgerinnen und B&#252;rger 
+&#252;bersteigen die Zahlen vom M&#228;rz und April dieses Jahres bei Weitem. Die
+Lage spitzt sich in einem solchen Ma&#223;e zu, dass die Gesundheits&#228;mter
+Medienberichten zufolge bei der Kontaktnachverfolgung an ihre Grenzen sto&#223;en und 
+es insgesamt zunehmend schwierig wird, die Entwicklung der
+epidemiologischen Lage zu &#252;berblicken (https://www.handelsblatt.com/politik/deutschland/
+nachverfolgung-gesundheitsaemter-tappen-im-dunkeln-woher-kommen-die-in
+fektionen/26572738.html?ticket=ST-7017407-6LqfxdiNzkfuXFk9cVRB-
+ap1).
+Angesichts dieser Situation wird im j&#252;ngst vorgelegten Entwurf eines &#8222;Dritten 
+Gesetzes zum Schutz der Bev&#246;lkerung bei einer epidemischen Lage von
+nationaler Tragweite&#8220; (IfSG) seitens der Bundesregierung erneut auf den &#8222;Pakt f&#252;r 
+den &#214;ffentlichen Gesundheitsdienst&#8220; verwiesen. So hei&#223;t es auf Seite 2 des 
+Entwurfs: &#8222;Die im ,Pakt f&#252;r den &#214;ffentlichen Gesundheitsdienst&#699; angestrebte 
+St&#228;rkung der Digitalisierung des &#214;GD soll durch ein [sic.] F&#246;rderprogramm 
+des Bundes und eine Unterst&#252;tzung im Bereich zentraler Dienste umgesetzt 
+werden.&#8220; Hervorgehoben wird in diesem Zusammenhang insbesondere die 
+Wichtigkeit des &#8222;Deutschen Elektronischen Melde- und Informationssystems 
+f&#252;r den Infektionsschutz&#8220; (DEMIS). So sieht der Entwurf unter anderem vor, 
+dass die meldepflichtigen Labore verpflichtet werden, &#8222;k&#252;nftig eine SARS-
+CoV-2-Meldung &#252;ber dieses System vorzunehmen&#8220;. Dies solle zur
+&#8222;Entlastung der Gesundheits&#228;mter&#8220; sowie zur &#8222;St&#228;rkung der Informationssicherheit&#8220; 
+beitragen (Bundestagsdrucksache 19/23944).
+Konkret ist laut Neufassung von &#167; 14 Nummer 11 des vorliegenden Entwurfs 
+die Nutzung von DEMIS ab dem 1. Januar 2021 f&#252;r folgende Akteure des
+Gesundheitswesens verpflichtend:
+&#8226; f&#252;r &#8222;die zust&#228;ndigen Beh&#246;rden der L&#228;nder&#8220;;
+&#8226; f&#252;r Meldepflichtige nach &#167; 8 Absatz 1 Nummer 2 IfSG, d. h. f&#252;r &#8222;Leiter 
+von Medizinaluntersuchungs&#228;mtern und sonstigen privaten oder
+&#246;ffentlichen Untersuchungsstellen einschlie&#223;lich von Arztpraxen mit
+Infektionserregerdiagnostik und Krankenhauslaboratorien&#8220;. Dies gilt allerdings
+ausschlie&#223;lich f&#252;r Nachweise von Infektionen mit dem in &#167; 7 Absatz 1 Satz 1 
+Nummer 44a genannten Krankheitserreger, also SARS-CoV und SARS-
+CoV-2.
+V o r b e m e r k u n g  d e r  B u n d e s r e g i e r u n g
+Um den &#214;ffentlichen Gesundheitsdienst (&#214;GD) w&#228;hrend der andauernden
+Pandemie, aber auch dar&#252;ber hinaus zu st&#228;rken, hat die Bundesregierung zahlreiche 
+Ma&#223;nahmen ergriffen. Neben der personellen Unterst&#252;tzung &#8211; wie zum
+Beispiel durch die so genannten &#8222;Containment Scouts&#8220; des Robert Koch-Institutes, 
+die in den Gesundheits&#228;mtern bei der Kontaktpersonennachverfolgung im
+Einsatz sind &#8211; spielt die Digitalisierung eine wesentliche Rolle. Der Nutzen
+digitaler Anwendungen ist vielf&#228;ltig. Sie vereinfachen und beschleunigen Prozesse, 
+entlasten so die Besch&#228;ftigten des &#214;GD und stellen schnell Daten und
+Informationen &#252;ber die Ausbreitung der Pandemie zur Verf&#252;gung, die f&#252;r die
+Entscheidung &#252;ber weitere Infektionsschutzma&#223;nahmen hilfreich sein k&#246;nnen. Bereits 
+mit dem &#8222;Zweiten Gesetz zum Schutz der Bev&#246;lkerung bei einer epidemischen 
+Lage von nationaler Tragweite&#8220; vom 19. Mai 2020 wurde die rechtliche
+Grundlage f&#252;r Finanzhilfen gem&#228;&#223; Artikel 104b Absatz 1 des Grundgesetzes f&#252;r
+Investitionen der L&#228;nder, Gemeinden und Gemeindeverb&#228;nde zur technischen 
+Modernisierung der Gesundheits&#228;mter und zum Anschluss dieser an das
+elektronische Melde- und Informationssystem nach &#167; 14 Infektionsschutzgesetz 
+(IfSG) geschaffen. Die Bundesregierung hat f&#252;r diese Finanzhilfen insgesamt 
+50 Mio. Euro zur Verf&#252;gung gestellt.
+Um den &#214;GD tiefgreifend und umfassend zu st&#228;rken, haben Bund und L&#228;nder, 
+einschlie&#223;lich der Kommunen, den &#8222;Pakt f&#252;r den &#214;GD&#8220; beschlossen. Die 
+Bundesregierung stellt f&#252;r die Umsetzung des Paktes 4 Mrd. Euro zur
+Verf&#252;gung. Der Pakt hat eine Laufzeit von 6 Jahren und startet 2021. Neben dem 
+Personalaufbau ist die Digitalisierung der zweite gro&#223;e Schwerpunkt. &#220;ber ein 
+F&#246;rderprogramm des Bundes in H&#246;he von 800 Mio. Euro wird der digitale 
+Ausbau des &#214;GD insbesondere im Bereich des Infektionsschutzes, u. a. zum 
+Aufbau und der Bereitstellung einheitlicher Systeme und Tools, unterst&#252;tzt.
+Wichtiges Ziel des Paktes ist zudem, dass das &#8222;Deutsche Elektronische Melde- 
+und Informationssystem f&#252;r den Infektionsschutz&#8220; (DEMIS) nach &#167; 14 IfSG bis 
+Ende 2022 fl&#228;chendeckend allen Gesundheitsbeh&#246;rden in Bund und L&#228;ndern 
+zur Verf&#252;gung stehen soll. Entsprechend wurde mit dem &#8222;Dritten Gesetz zum 
+Schutz der Bev&#246;lkerung bei einer epidemischen Lage von nationaler
+Tragweite&#8220; vom 18. November 2020 geregelt, dass ab dem 1. Januar 2023 der
+Meldepflicht nach dem Infektionsschutzgesetz auf allen Ebenen mit DEMIS
+nachzukommen ist. Ab dem 1. Januar 2021 besteht die Pflicht der zust&#228;ndigen
+Beh&#246;rden der L&#228;nder DEMIS zu nutzen. Alle SARS-CoV und SARS-CoV-2
+testenden Labore sind ebenfalls ab 1. Januar 2021 verpflichtet, positive Nachweise 
+&#252;ber DEMIS zu melden.
+&#8199;1. Wie viele Meldepflichtige nach &#167; 8 Absatz 1 Nummer 2 IfSG nutzen,
+gemessen an der Gesamtzahl der entsprechenden Meldepflichtigen, derzeit 
+DEMIS f&#252;r die &#220;bermittlung von Nachweisen einer Infektion mit SARS-
+CoV und SARS-CoV-2 nach Kenntnis der Bundesregierung?
+Bisher nutzen ca. 120 Labore DEMIS f&#252;r die Meldung von SARS-CoV-2-
+Nachweisen. Darunter sind einige Gro&#223;labore, so dass derzeit an einzelnen
+Tagen bis zu 18 000 Meldungen &#252;ber DEMIS erfolgen. Die genaue Anzahl der 
+Labore, die SARS-CoV-2-Erregernachweise durchf&#252;hren, ist nicht bekannt.
+&#8199;2. Welche alternativen Meldewege werden derzeit von den in Frage 1
+angesprochen Meldepflichtigen verwendet (bitte nach alternativem Meldeweg 
+der jeweiligen Meldepflichtigen und ihren jeweiligen prozentualen
+Anteilen auflisten)?
+Labore, die bisher nicht die M&#246;glichkeit der elektronischen Meldung von 
+SARS-CoV-2-Nachweisen &#252;ber DEMIS nutzen, melden in der Regel per
+automatisiertem Faxversand.
+&#8199;3. Wie viele SARS-CoV-2-Infektionen wurden nach Kenntnis der
+Bundesregierung bislang insgesamt &#252;ber DEMIS an das Robert Koch-Institut 
+(RKI) gemeldet, wie viele auf alternativen Meldewegen?
+Die Anzahl an Meldungen kann nicht mit der Anzahl an F&#228;llen, die in der
+Statistik ausgewiesen werden, gleichgesetzt werden, da bei einem Teil der F&#228;lle 
+mehrere Laboruntersuchungen durchgef&#252;hrt werden und ggf. mehrere positive 
+Labormeldungen f&#252;r einen Fall vorliegen k&#246;nnen. Mehrere Meldungen, die sich 
+auf den gleichen Fall beziehen, werden in den Gesundheits&#228;mtern zu einem 
+Fall zusammengef&#252;hrt. Dem RKI liegen nur Informationen vor, wie viele
+Meldungen &#252;ber DEMIS insgesamt erfolgt sind. Das waren seit Juni 2020 ca. 
+420 000 Labormeldungen. Der Anteil an allen Meldungen nimmt mit der
+zunehmenden Nutzung von DEMIS durch die Labore t&#228;glich zu.
+&#8199;4. Welche Beh&#246;rden sind unter Nummer 11 d) des Entwurfs eines &#8222;Dritten 
+Gesetzes zum Schutz der Bev&#246;lkerung bei einer epidemischen Lage von 
+nationaler Tragweite&#8220; (Bundestagsdrucksache 19/23944) zur Neufassung 
+von &#167; 14 Absatz 8 IfSG konkret mit den &#8222;zust&#228;ndigen Beh&#246;rden der
+L&#228;nder&#8220; gemeint?
+F&#252;r die erste Ausbaustufe von DEMIS betrifft dies zun&#228;chst die
+Gesundheits&#228;mter.
+&#8199;5. Welche, und wie viele dieser Beh&#246;rden nutzen derzeit DEMIS (bitte nach 
+Beh&#246;rde auflisten)?
+Bisher sind 363 von 375 (97 Prozent) der Gesundheits&#228;mter an DEMIS
+angebunden (Stand: 15. Dezember 2020, siehe auch www.rki.de/demis).
+&#8199;6. Welche, und wie viele dieser Beh&#246;rden nutzen derzeit DEMIS nicht, und 
+aus welchen Gr&#252;nden erfolgt die Nutzung nicht (bitte nach Beh&#246;rde
+auflisten)?
+Zw&#246;lf Gesundheits&#228;mter (Stand: 15. Dezember 2020, siehe auch www.rki.de/d
+emis) sind bisher nicht angebunden &#8211; entweder fehlt das notwendige Update 
+der Software, das zwar generell zur Verf&#252;gung steht, aber noch nicht installiert 
+worden ist, oder es wurde noch kein Zertifikat bei der DEMIS-Gesch&#228;ftsstelle 
+beantragt. Sp&#228;testens zum 1. Januar 2021 m&#252;ssen alle Gesundheits&#228;mter an 
+DEMIS angeschlossen sein.
+&#8199;7. Stehen prinzipiell bereits alle ben&#246;tigten technischen Komponenten f&#252;r 
+die &#220;bertragung von Nachweisen von SARS-CoV-2-Erregern &#252;ber
+DEMIS zur Verf&#252;gung?
+a) Falls ja, was sind die wesentlichen Gr&#252;nde, die einer Nutzung von 
+DEMIS durch die zust&#228;ndigen Beh&#246;rden einerseits und durch
+Meldepflichtige nach &#167; 8 Absatz 1 Nummer 2 IfSG andererseits im Wege 
+stehen?
+b) Falls nein, welche technischen Komponenten stehen bislang noch 
+nicht zu Verf&#252;gung, und welche Ma&#223;nahmen ergreift die
+Bundesregierung, damit die zust&#228;ndigen Beh&#246;rden der L&#228;nder sowie
+Meldepflichtige nach &#167; 8 Absatz 1 Nummer 2 IfSG der angedachten
+Verpflichtung, DEMIS ab dem 1. Januar 2021 zu nutzen, gerecht werden 
+k&#246;nnen?
+Die Fragen 7 bis 7b werden gemeinsam beantwortet.
+Es stehen alle notwendigen Komponenten f&#252;r die Anbindung an DEMIS zur 
+Verf&#252;gung.
+&#8199;8. Ist seitens der Bundesregierung geplant, private Meldepflichtige nach &#167; 8 
+Absatz 1 Nummer 2 IfSG finanziell dabei zu unterst&#252;tzen, k&#252;nftig
+DEMIS zu nutzen?
+Falls ja, in welcher H&#246;he, und innerhalb welchen Zeitraums werden
+hierf&#252;r seitens des Bundes finanzielle Mittel zur Verf&#252;gung gestellt (bitte 
+nach Titel und F&#246;rdersumme auflisten)?
+&#8199;9. Ist seitens der Bundesregierung geplant, &#246;ffentliche Meldepflichtige nach 
+&#167; 8 Absatz 1 Nummer 2 IfSG finanziell dabei zu unterst&#252;tzen, k&#252;nftig 
+DEMIS zu nutzen?
+Falls ja, in welcher H&#246;he, und innerhalb welchen Zeitraums werden
+hierf&#252;r seitens des Bundes finanzielle Mittel zur Verf&#252;gung gestellt (bitte 
+nach Titel und F&#246;rdersumme auflisten)?
+Die Fragen 8 und 9 werden aufgrund des Sachzusammenhangs gemeinsam
+beantwortet.
+Gem&#228;&#223; &#167; 14 Absatz 1 IfSG ist den Anwendern mindestens eine kostenlose 
+Software-L&#246;sung bereitzustellen, sofern eine Nutzungspflicht f&#252;r das
+elektronische Melde- und Informationssystem besteht. F&#252;r eine schnelle Anbindung an 
+DEMIS wird f&#252;r Labore der DEMIS-Adapter kostenlos zur Verf&#252;gung gestellt, 
+der mit wenig Aufwand konfiguriert werden kann:
+https://gematik-ext.atlassian.net/wiki/spaces/DSKB/pages/76611807/Informati
+onen+f+r+Labore.
+10. Liegen die in &#167; 14 IfSG vorgesehenen Leitlinien f&#252;r die Zusammenarbeit 
+von Bund und L&#228;ndern bei der Umsetzung von DEMIS in
+abgeschlossener Form vor?
+Vor Beginn der Pandemie wurde der DEMIS-Planungsrat eingerichtet, der
+jedoch in diesem Jahr aufgrund der Pandemie bisher nicht in Vor-Ort-Pr&#228;senz
+tagen konnte. Die L&#228;nder werden jedoch in verschiedenen Gremien eng &#252;ber die 
+Entwicklung von DEMIS informiert und regelm&#228;&#223;ig eingebunden.
+11. Gibt es, wie in &#167; 14 IfSG vorgesehen, mindestens eine kostenlose 
+Software-L&#246;sung, die Anwendern, welche ab dem 1. Januar 2021
+DEMIS verpflichtend nutzen m&#252;ssen, zur Verf&#252;gung gestellt werden 
+kann?
+Es wird auf die Antworten zu den Fragen 8 und 9 verwiesen.
+12. Wie hoch ist der Anteil an Gesundheits&#228;mtern, die nach Kenntnis der 
+Bundesregierung SORMAS (Surveillance Outbreak Response
+Management and Analysis System) zum Management von Kontaktpersonen und 
+Kontaktketten derzeit nutzen?
+SORMAS ist in 101 von 375 (27 Prozent) Gesundheits&#228;mtern betriebsbereit 
+bzw. bereits im Betrieb (Stand: 14. Dezember 2020).
+13. Wie hoch ist der Anteil an Gesundheits&#228;mtern, bei denen nach Kenntnis 
+der Bundesregierung ein digitales Symptomtagebuch, welches in
+SORMAS integriert ist, derzeit eingerichtet ist?
+Das sogenannte digitale Symptom-Tagebuch der Climedo Health GmbH wird 
+derzeit in 24 von 375 (6 Prozent) Gesundheits&#228;mtern eingesetzt (Stand: 14.
+Dezember 2020).
+14. Wie hoch ist der Anteil an Gesundheits&#228;mtern, die nach Kenntnis der 
+Bundesregierung den KI-gest&#252;tzten Telefonassistenten CoVBot derzeit 
+nutzen?
+Der KI-gest&#252;tzte Telefonassistent CovBot wird entsprechend der Planung des 
+Forschungsvorhabens derzeit von 3 Gesundheits&#228;mtern eingesetzt und pilotiert.
+15. Welcher Anteil von den Finanzhilfen des Bundes zur Unterst&#252;tzung des 
+&#214;GD (gem&#228;&#223; Artikel 104b Absatz 1 des Grundgesetzes f&#252;r Investitionen 
+der L&#228;nder, Gemeinden und Gemeindeverb&#228;nde zur technischen
+Modernisierung der Gesundheits&#228;mter und zum Anschluss dieser an das
+elektronische Melde- und Informationssystem nach &#167; 14 des zweiten
+Infektionsschutzgesetzes) in H&#246;he von 50 Mio. Euro sind nach Kenntnis der 
+Bundesregierung bereits abgerufen (bitte nach Bundesland angeben)?
+Die Finanzmittel in H&#246;he von 50 Mio. Euro sind den L&#228;ndern vollst&#228;ndig
+zugewiesen. Die Verteilung der Mittel erfolgte nach dem &#8222;K&#246;nigsteiner Schl&#252;ssel&#8220;.
+16. Wie viele digitale Einreiseanmeldungen und wie viele schriftliche
+Ersatzmitteilungen erfolgten seit 8. November 2020?
+Laut Bundesdruckerei lagen am 14. Dezember 2020 412 011 Anmeldungen 
+vor. Seit dem 8. November 2020 sind 249 287 Ersatzmitteilungen gescannt 
+worden (Stand: 50. KW). Die Tendenz ist r&#252;ckl&#228;ufig, derzeit werden ca. 20 000 
+Ersatzmitteilungen innerhalb einer Woche gescannt.
+17. Wie viele unbefristete Vollzeitstellen (Vollzeit&#228;quivalente) f&#252;r &#196;rztinnen 
+und &#196;rzte, weiteres Fachpersonal sowie Verwaltungspersonal in den
+Beh&#246;rden des &#214;ffentlichen Gesundheitsdienstes wurden vor dem
+Hintergrund der im Rahmen des sogenannten Paktes f&#252;r den &#214;GD unter
+Nummer 1 der Ma&#223;nahmen &#8222;Personalaufbau&#8220; geschaffen und besetzt (bitte 
+nach Bundesland und geschaffener Vollzeitstellen angeben)?
+Die L&#228;nder haben sich mit dem &#8222;Pakt f&#252;r den &#214;GD&#8220; verpflichtet, im Zeitraum 
+vom 1. Februar 2020 bis zum 31. Dezember 2021 mindestens 1 500 neue,
+unbefristete Vollzeitstellen f&#252;r &#196;rztinnen und &#196;rzte, weiteres Fachpersonal sowie 
+Verwaltungspersonal in den Beh&#246;rden des &#214;ffentlichen Gesundheitsdienstes zu 
+schaffen und zu besetzen. Die Verfahren zum Personalaufbau laufen aktuell. 
+Ein Bericht der L&#228;nder dazu wird Ende 2021 vorliegen.
+18. In welchen Bereichen der Bundesverwaltung sollen die zur Umsetzung 
+des Paktes f&#252;r den &#214;GD sowie zur Evaluierung der Ma&#223;nahmen
+angedachten 40 Stellen geschaffen werden, und wie viele davon wurden nach 
+Kenntnis der Bundesregierung bereits besetzt?
+Die Haushaltsmittel f&#252;r die oben genannten Personalma&#223;nahmen wurden vom 
+Deutschen Bundestag im Dezember 2020 bewilligt und stehen dem
+Bundesministerium f&#252;r Gesundheit erst f&#252;r das Haushaltsjahr 2021 zur Verf&#252;gung.
+Es handelt sich dabei um befristetes Personal. Dieses verteilt sich auf das 
+Bundesministerium f&#252;r Gesundheit und seine nachgeordneten Beh&#246;rden, dem 
+Robert Koch-Institut und der Bundeszentrale f&#252;r gesundheitliche Aufkl&#228;rung, 
+sowie das Bundesverwaltungsamt.
+19. Welche Flug- und Seeh&#228;fen in Deutschland sind im Rahmen der
+Internationalen Gesundheitsvorschriften (IGV) benannt, die bestimmte
+Bedingungen erf&#252;llen und definierte Kapazit&#228;ten personeller wie
+infrastruktureller Art vorhalten m&#252;ssen?
+Nach &#167; 8 Absatz 1 des Gesetzes zur Durchf&#252;hrung der Internationalen
+Gesundheitsvorschriften (IGV-DG) m&#252;ssen an den Flugh&#228;fen Berlin Brandenburg, 
+D&#252;sseldorf, Frankfurt am Main, Hamburg und M&#252;nchen ab dem 15. Juni 2012 
+die in Anlage 1 Teil B IGV aufgef&#252;hrten Kapazit&#228;ten zum Schutz der
+&#246;ffentlichen Gesundheit vorhanden sein.
+Nach &#167; 13 Absatz 1 IGV-DG m&#252;ssen an den H&#228;fen der St&#228;dte Bremen und
+Bremerhaven, Hamburg, Kiel, Rostock und am Jade-Weser-Port in Wilhelmshaven 
+ab dem 15. Juni 2012 die in Anlage 1 Teil B der IGV aufgef&#252;hrten Kapazit&#228;ten 
+zum Schutz der &#246;ffentlichen Gesundheit vorhanden sein.
+20. Erfolgten nach Bekanntwerden des ersten SARS-CoV-2-Falles in 
+Deutschland Anlandungen an anderen Flug- und Seeh&#228;fen, au&#223;er denen 
+mit besonderen Bedingungen, die im Rahmen der IGV benannt sind 
+(wenn ja, an welchen)?
+Generelle Anordnungen gem&#228;&#223; &#167; 9 Abs. 1 IGV-DG, dass Luftfahrzeuge, die 
+aus betroffenen Gebieten ankommen, im Inland zun&#228;chst nur auf einem
+Flughafen mit Kapazit&#228;ten nach Anlage 1 Teil B IGV landen d&#252;rfen, sowie gem&#228;&#223; 
+&#167; 14 Absatz 1 IGV-DG, dass Schiffe, die aus betroffenen Gebieten ankommen, 
+im Inland zun&#228;chst nur einen Hafen mit Kapazit&#228;ten nach Anlage 1 Teil B IGV 
+anlaufen d&#252;rfen, wurden unter Ber&#252;cksichtigung der epidemiologischen Lage 
+nicht getroffen.
+21. Hat der Bund bereits, wie im Pakt f&#252;r den &#214;GD beschlossen wurde, ein 
+F&#246;rderprogramm zur Umsetzung der IGV aufgelegt, um die gesetzlich 
+benannten Flug- und Seeh&#228;fen in Deutschland, die bestimmte
+Bedingungen erf&#252;llen und definierte Kapazit&#228;ten, personeller wie infrastruktureller 
+Art, vorhalten m&#252;ssen, zu st&#228;rken, und sind schon Gelder aus diesem 
+F&#246;rderprogramm abgeflossen?
+Die Haushaltsmittel f&#252;r das oben genannte F&#246;rderprogramm wurden vom
+Deutschen Bundestag im Dezember 2020 bewilligt und stehen dem
+Bundesministerium f&#252;r Gesundheit erst f&#252;r das Haushaltsjahr 2021 zur Verf&#252;gung.
+22. Welcher Anteil der im Pakt f&#252;r den &#214;GD beschlossenen 50 Mio. Euro 
+zur &#8222;St&#228;rkung der den L&#228;ndern dienenden Strukturen auf Bundesebene&#8220; 
+ist bereits abgeflossen?
+a) Welcher Anteil der bereitgestellten 24 Mio. Euro f&#252;r den Aufbau von 
+DEMIS beim Robert Koch-Institut ist bereits in Projekten und
+Vorhaben bereitgestellt, und welcher Anteil davon ist bereits abgeflossen?
+b) Welcher Anteil der bereitgestellten 10 Mio. Euro f&#252;r Forschungs- 
+und Evaluierungszwecke ist bereits in Projekten und Vorhaben
+bereitgestellt, und welcher Anteil davon ist bereits abgeflossen?
+c) Welcher Anteil der bereitgestellten 16 Mio. Euro zur personellen 
+St&#228;rkung der beteiligten Bundesbeh&#246;rden ist bereits in Projekten und 
+Vorhaben bereitgestellt, und welcher Anteil davon ist bereits
+abgeflossen?
+Die Fragen 22 bis 22c werden gemeinsam beantwortet.
+Die Haushaltsmittel f&#252;r die oben genannten Ma&#223;nahmen wurden vom
+Deutschen Bundestag im Dezember 2020 bewilligt und stehen dem
+Bundesministerium f&#252;r Gesundheit erst f&#252;r das Haushaltsjahr 2021 zur Verf&#252;gung.
+23. Welcher Anteil des im Pakt f&#252;r den &#214;GD beschlossenen
+F&#246;rderprogramms f&#252;r den weiteren Ausbau der digitalen Infrastruktur im Sinne
+eines Reifegrad-Modells, die Festlegung und Schaffung interoperabler 
+Standards und Schnittstellen sowie die beschriebenen notwendigen
+zentralen Systeme und Tools in H&#246;he von 800 Mio. Euro sind bereits
+abgeflossen, und wie viele der neu zu schaffenden zw&#246;lf Stellen im Bereich 
+des Bundes sind besetzt?
+Sofern noch keine Mittel abgeflossen sind, wie ist der aktuelle Stand der 
+Planungen dazu nach Kenntnis der Bundesregierung?
+Die Haushaltsmittel f&#252;r die oben genannten Ma&#223;nahmen wurden vom
+Deutschen Bundestag im Dezember 2020 bewilligt und stehen dem
+Bundesministerium f&#252;r Gesundheit erst f&#252;r das Haushaltsjahr 2021 zur Verf&#252;gung.
+F&#252;r das genannte F&#246;rderprogramm ist der erste Mittelabfluss daher f&#252;r das Jahr 
+2021 geplant. Nachdem die Mittel erst 2021 zur Verf&#252;gung stehen, konnte noch 
+kein Personal im Bereich des Bundes hierf&#252;r eingestellt werden.
+24. In wie vielen F&#228;llen bzw. an wie vielen Tagen gab es laut Kenntnis der 
+Bundesregierung St&#246;rungen bei der Daten&#252;bermittlung der
+Infektionszahlen an das RKI?
+Was waren nach Kenntnis der Bundesregierung Umfang und Ursachen 
+derartiger technischer St&#246;rungen (https://rp-online.de/panorama/coronavi
+rus/corona-infektionszahlen-rki-meldet-verfaelschung-durch-
+technischepanne-nrw-besonders-betroffen_aid-54209407)?
+Die elektronische &#220;bermittlung der Daten ist seit Jahren etabliert und erfolgt in 
+der Regel zuverl&#228;ssig. St&#246;rungen bei der Daten&#252;bermittlung k&#246;nnen an
+verschiedenen Stellen des &#220;bermittlungswegs auftreten und unterschiedliche
+Ursachen haben. Wenn Gesundheits&#228;mter bzw. zust&#228;ndige Landesbeh&#246;rden an
+einigen Tagen nicht &#252;bermitteln, muss dies nicht unbedingt an einer technischen 
+St&#246;rung liegen, sondern kann auch andere, z. B. organisatorische Gr&#252;nde
+haben.
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/24833 -
+Stand der digitalen Auf- und Ausr&#252;stung des &#214;ffentlichen Gesundheitsdienstes</titel>
+    <datum>2020-12-21</datum>
+  </document>
+  

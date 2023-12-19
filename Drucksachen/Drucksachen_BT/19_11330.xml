@@ -1,0 +1,254 @@
+<document>
+    <id>231699</id>
+    <drucksachetyp>Kleine Anfrage</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>8</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/11330</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>2a3450fd2ab9369d19cf546f1da4a8fc</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:15+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>250356</id>
+      <titel>Rechtlich-organisatorischer Rahmen milit&#228;rischer Cyber-Operationen</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>LINKE</bezeichnung>
+      <titel>Fraktion DIE LINKE</titel>
+    </urheber>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/113/1911330.pdf</pdf_url>
+      <id>231699</id>
+      <dokumentnummer>19/11330</dokumentnummer>
+      <datum>2019-07-03</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Kleine Anfrage</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Fraktion DIE LINKE</urheber>
+    </fundstelle>
+    <autoren_anzeige>
+      <id>2043</id>
+      <titel>Tobias Pfl&#252;ger, MdB, DIE LINKE</titel>
+      <autor_titel>Tobias Pfl&#252;ger</autor_titel>
+    </autoren_anzeige>
+    <autoren_anzeige>
+      <id>1066</id>
+      <titel>Andrej Hunko, MdB, DIE LINKE</titel>
+      <autor_titel>Andrej Hunko</autor_titel>
+    </autoren_anzeige>
+    <text>[Deutscher Bundestag  Drucksache 19/11330 
+19. Wahlperiode 03.07.2019 
+Kleine Anfrage 
+der Abgeordneten Tobias Pfl&#252;ger, Andrej Hunko, Michel Brandt,  
+Christine Buchholz, Ulla Jelpke, Niema Movassat, Helin Evrim Sommer,  
+Kathrin Vogler und der Fraktion DIE LINKE. 
+Rechtlich-organisatorischer Rahmen milit&#228;rischer Cyber-Operationen 
+Im Jahr 2017 wurden verschiedene Dienststellen der Bundeswehr im Kommando 
+Cyber- und Informationsraum (KdoCIR) zusammengelegt und mit dem Aufbau 
+operativer F&#228;higkeiten begonnen (https://bit.ly/2Qj0wJ9). Das CERT (Computer-
+Emergency-Response-Team) der Bundeswehr (CERTBw) war bis dahin als
+defensive Einrichtung zum Schutz der IT-Netze der Bundeswehr bis zur Gr&#252;ndung 
+des KdoCIR dem IT-Amt der Bundeswehr unterstellt und von der Gruppe
+Computer Netzwerk Operationen (CNO) im Kommando Strategische Aufkl&#228;rung 
+(KSA) getrennt. Mit der Aufstellung des KdoCIR wurden CERTBw und CNO 
+den beiden neuen Dienststellen Zentrum Cyber-Operationen und Zentrum f&#252;r  
+Cyber-Sicherheit der Bundeswehr zugewiesen (https://bit.ly/2QwUGUQ). Das 
+CERTBw hat bisher am CERT-Verbund mit Unternehmen, wissenschaftlichen 
+Organisationen und zivilen Beh&#246;rden teilgenommen und konnte sich so der
+Kompetenz und Erfahrung ziviler Akteure bedienen (www.cert-verbund.de/).  
+W&#228;hrend f&#252;r den Schutz der Sicherheit und Vertraulichkeit von IT-Systemen nur 
+m&#228;&#223;ige Aufw&#252;chse zu erkennen sind, baut die Bundesregierung im Bereich des 
+Milit&#228;rs und der Geheimdienste mit erheblichen finanziellen und personellen
+Ressourcen Strukturen auf, die aus Sicht der Fragestellerinnen und Fragesteller nicht 
+mehr allein den Schutz vor bzw. die Abwehr von Cyberangriffen zur Aufgabe 
+haben.  
+So wird von Vertretern der Bundesregierung und einschl&#228;giger Stellen diskutiert, 
+offensive Cyber-Operationen &#8211; sogenannte Hackbacks &#8211; in den Aufgabenkatalog 
+aufzunehmen (z. B. hier: http://gleft.de/2Wo). Mit diesen offensiven Cyber-
+Operationen sind Eingriffe in Computersysteme in anderen Staaten gemeint, die aus 
+Sicht der Fragestellerinnen und Fragesteller den Verpflichtungen aus
+internationalen Abkommen zuwider laufen und erhebliche sicherheitspolitische und
+milit&#228;rische Risiken verursachen. Ein vom NATO Cooperative Cyber Defence Centre 
+of Excellence berufenes Expertengremium hat im sog. Tallinn-Handbuch in einer 
+Bewertung internationalen Rechts formuliert, dass Cyber-Angriffe, die von einem 
+Staatsgebiet ausgehen und nicht unterbunden werden, einen Bruch
+internationalen Rechts darstellen (https://ccdcoe.org/research/tallinn-manual/). Werden diese 
+von staatlichen Stellen ver&#252;bt, k&#246;nnen sie als Kriegshandlungen gewertet werden, 
+die dem angegriffenen Staat die Rechtfertigung geben, gleichwertige
+Gegenma&#223;nahmen zu ergreifen &#8211; bei schweren Sch&#228;den auch in Form milit&#228;rischer Aktionen 
+(http://csef.ru/media/articles/3990/3990.pdf).
+Die US-Administration hat in ihrer im September 2018 vorgelegten &#8222;National 
+Cyber Strategy&#8220; angek&#252;ndigt, eine internationale Cyber-Abschreckungs-
+Initiative zu verfolgen und daf&#252;r gleichgesinnte Staaten in eine gemeinsame
+Abwehrstrategie einzubinden (vgl. https://bit.ly/2xrQ0XK). 
+Im Aachener Vertrag einigten sich die Bundesrepublik Deutschland und
+Frankreich auf die Zusammenarbeit im Bereich der Forschung und des digitalen
+Wandels, einschlie&#223;lich der Themen K&#252;nstliche Intelligenz und Sprunginnovationen 
+(vgl. Aachener Vertrag, Artikel 21, https://bit.ly/2IM1Lxf). 
+Wir fragen die Bundesregierung: 
+1. Kann die Bundesregierung Presseberichte best&#228;tigen, wonach die meisten 
+weltweiten Cyberangriffe im Jahr 2018 von Servern in den USA ausgingen 
+und an zweiter Stelle die Niederlande und an dritter Stelle Deutschland
+stehen (http://gleft.de/2Wr)? 
+2. Falls die Bundesregierung von anderen Zahlen ausgeht, auf welche Quellen 
+st&#252;tzt sie sich dabei? 
+3. Was kann die Bundesregierung zum aktuellen Stand ihrer &#220;berlegungen f&#252;r 
+eine &#8222;aktive Cyber-Abwehr&#8220; mitteilen (&#8222;Seehofer plant den Gegenangriff&#8220;, 
+www.tagesschau.de vom 29. Mai 2019), und inwiefern betreffen diese  
+auch die Bundeswehr und deren Kommando Cyber- und Informationsraum 
+(KdoCIR)? 
+4. Inwiefern erw&#228;gt die Bundesregierung Hackbacks auch bei Angriffen, die 
+von Systemen traditioneller Geheimdienste ausgehen?  
+5. Inwiefern erw&#228;gt die Bundesregierung Hackbacks auch bei Angriffen, die 
+von Systemen befreundeter Geheimdienste ausgehen? 
+6. Inwiefern w&#228;re ein Hackback durch deutsche milit&#228;rische Stellen aus Sicht 
+der Bundesregierung von der Budapest Convention on Cybercrime gedeckt, 
+bzw. welche &#196;nderungen w&#228;ren diesbez&#252;glich erforderlich?  
+7. Inwiefern war die Bundesregierung bez&#252;glich einer internationalen Cyber-
+Abschreckungs-Initiative bereits in Kontakt mit US-Stellen, und unter
+welchen Rahmenbedingungen w&#252;rde sie sich an einer solchen Initiative
+beteiligen?  
+8. In welchen Formaten hat sich die Bundesregierung an internationalen
+Gespr&#228;chsrunden, Verhandlungen oder Gremien  
+a) zum Thema Cybersicherheit allgemein seit 2011 beteiligt (bitte nach
+Ressorts aufschl&#252;sseln), 
+b) zu Fragen der Abr&#252;stung und R&#252;stungskontrolle in der Cyber-
+Kriegsf&#252;hrung seit 2011 beteiligt (bitte nach Ressorts aufschl&#252;sseln)?  
+9. Schlie&#223;t die Bundesregierung  
+a) das Vorhandensein von Software-Implantaten anderer Staaten zum
+Monitoring von Computersystemen (vgl. https://nyti.ms/30BlFmK) in
+kritischen Infrastrukturen in Deutschland bzw. 
+b) die Entwicklung oder Beschaffung vergleichbarer Software-Artefakte zur 
+Verwendung in kritischen Infrastrukturen anderer Staaten aus?  
+10. Welche rechtlichen Studien, Einsch&#228;tzungen und Bewertungen zieht die 
+Bundesregierung f&#252;r ihre &#220;berlegungen zu Hackback-Ma&#223;nahmen und der 
+damit einhergehenden Gefahr einer milit&#228;rischen Eskalation heran?
+11. Teilt die Bundesregierung die Sichtweise der in der Vorbemerkung der
+Fragesteller genannten NATO-Expertinnen und NATO-Experten, dass durch 
+staatliche Stellen ausgef&#252;hrte Cyberangriffe eine Form milit&#228;rischer
+Angriffe darstellen k&#246;nnen, und inwiefern ber&#252;cksichtigt sie dies bei ihren 
+&#220;berlegungen zu Hackback-Ma&#223;nahmen? 
+12. Erw&#228;gt die Bundesregierung Mechanismen zur Bewertung von
+Eskalationsrisiken von Hackbacks und anderen Cyber-Operationen?  
+a) Wenn ja, welche?  
+Ist dabei auch eine politische Bewertungsinstanz vorgesehen? 
+b) Wenn nein, weshalb nicht? 
+13. Legt die Bundesregierung Datensammlungen zur Analyse der Urheberschaft 
+von Cyber-Angriffen an?  
+a) Wenn ja, seit wann und auf welcher Rechtsgrundlage? 
+b) Werden diese auch mit anderen Stellen der IT-Sicherheit ausgetauscht? 
+c) Wenn ja, mit welchen? 
+d) Plant die Bundesregierung die Anlegung von Datensammlungen und
+Zug&#228;ngen zu Datenstr&#246;men zur Analyse der Urheberschaft von Cyber-
+Angriffen?  
+14. Inwiefern ist das CERT der Bundeswehr (CERTBw) von den operativen
+Teilen der Bundeswehr getrennt, bzw. wie wird diese Trennung aufgehoben? 
+15. Inwiefern wird das CERTBw nach Integration in das KdoCIR (https://bit.ly/ 
+2QwUGUQ) auch bei unklarer Trennung zwischen offensiven und
+defensiven Aufgaben im KdoCIR am zivilen CERT-Verbund teilnehmen k&#246;nnen?  
+Auf welche formale Handlungsgrundlage des CERT-Verbundes wird dabei 
+Bezug genommen? 
+16. Inwiefern plant die Bundesregierung, ihre Erkenntnisse aus Cyber-Angriffen 
+auch weiterhin mit dem zivilen CERT-Verbund zu teilen?  
+17. Welche personellen Ressourcen und Mittel erw&#228;gt die Bundesregierung f&#252;r 
+offensive Cyber-Operationen einzusetzen, und welche Einrichtungen und 
+Kapazit&#228;ten bestehen diesbez&#252;glich zum jetzigen Zeitpunkt (bitte nach
+Beh&#246;rden bzw. GmbHs etc., z. B. BND &#8211; Bundesnachrichtendienst &#8211;, BfV &#8211; 
+Bundesamt f&#252;r Verfassungsschutz &#8211;, ZITIS &#8211; Zentrale Stelle f&#252;r
+Informationstechnik im Sicherheitsbereich &#8211;, KdoCIR, Agentur f&#252;r Innovation in der 
+Cybersicherheit, Bundespolizei aufschl&#252;sseln)? 
+18. Welche Trainings oder &#8222;Cyber- Man&#246;ver&#8220; haben das KdoCIR bzw. das
+Zentrum Cyber-Operationen (ZCO) seit deren Gr&#252;ndung mit privaten Firmen 
+durchgef&#252;hrt (&#8222;Zentrum Cyber-Operationen kooperiert erfolgreich mit Firma 
+CGI&#8220;, https://cir.bundeswehr.de ohne Datum), und in welchen dieser
+Veranstaltungen &#252;bernahm das ZCO die Rolle des &#8222;Red-Teams&#8220;? 
+19. An welchen Cyber&#252;bungen der Europ&#228;ischen Union oder der NATO hat sich 
+die Bundeswehr seit der Antwort der Bundesregierung auf
+Bundestagsdrucksache 19/1900 mit &#8222;Red-Teams&#8220; beteiligt?
+20. Welche Details kann die Bundesregierung zu der bilateralen Kooperation 
+zwischen dem Allied Command Transformation (ACT) der NATO sowie 
+dem Forschungsinstitut Center for Intelligence and Security Studies (CISS) 
+an der Universit&#228;t der Bundeswehr M&#252;nchen (Schriftliche Frage 114 des
+Abgeordneten Andrej Hunko auf Bundestagsdrucksache 19/8434) mitteilen, 
+und welche Projekte in den Bereichen strategische Vorausschau,
+Krisenfr&#252;herkennung bzw. Krisenmonitoring &#8222;auch unter R&#252;ckgriff auf gro&#223;e
+Datenmengen&#8220; sind dort geplant? 
+21. Inwiefern ist die konzeptionelle Pr&#252;fung der Einrichtung eines
+&#8222;Kompetenzzentrums Krisenfr&#252;herkennung&#8220; bei der Bundeswehr inzwischen
+abgeschlossen, und welche Details kann die Bundesregierung zu dessen Standort, 
+Zielsetzung und technischer Infrastruktur mitteilen?  
+Wer leitet das Zentrum? 
+22. Wann wird entschieden, ob das durch einen Lehrstuhlinhaber f&#252;r
+Internationale Politik an der Universit&#228;t der Bundeswehr M&#252;nchen geleitete
+Pilotprojekt &#8222;Metis&#8220; &#252;ber die Dauer von zwei Jahren fortgef&#252;hrt und demnach nicht 
+am 1. Dezember 2019 endet (http://gleft.de/2WA), und inwiefern zeichnet 
+sich bereits ab, dass das Projekt als erfolgreich oder erfolglos bewertet wird? 
+23. Welche Ergebnisse kann die Bundesregierung zu Pr&#252;fungen des
+Ausw&#228;rtigen Amts mitteilen, f&#252;r seine &#8222;strategischen Kommunikationsbedarfe&#8220; die 
+computergest&#252;tzte Auswertung von sozialen Medien zum Erkennen von 
+deutsche Au&#223;enpolitik betreffenden Desinformationen und
+Kampagnendynamiken in den sozialen Medien zu nutzen, und wie k&#246;nnte dies technisch 
+umgesetzt werden (Bundestagsdrucksache 19/7604, Antwort zu Frage 15)? 
+24. Wie will die Bundesregierung den geplanten EU-Ratsschlussfolgerungen 
+nachkommen, wonach die Mitgliedstaaten &#8222;als Beitrag zu einem EU-weit 
+gemeinsamen Verst&#228;ndnis der hybriden Bedrohungen auch k&#252;nftig freiwillig 
+Informationen und bew&#228;hrte Verfahren&#8220; austauschen sollen (Ratsdokument 
+9675/19), &#252;ber welche Kan&#228;le wird dies jetzt schon von der Bundesregierung 
+umgesetzt, und inwiefern ist darin das Bundesministerium der Verteidigung 
+eingebunden? 
+25. Inwiefern hat die Bundesregierung in Verhandlungen zur Etablierung des 
+Rahmens &#8222;f&#252;r eine gemeinsame diplomatische Reaktion der EU auf
+b&#246;swillige Cyberaktivit&#228;ten&#8220; (&#8222;Cyberdiplomatischer Reaktionsrahmen&#8220;;
+Ratsdokument 9916/17 im Rahmen der &#8222;Cyber Diplomacy Toolbox&#8220;) daf&#252;r votiert, 
+Listungen f&#252;r Sanktion im Mehrheitsverfahren zu beschlie&#223;en (vgl.
+Bundestagsdrucksache 19/10273, Frage 8; falls ja, bitte die Gr&#252;nde darlegen)? 
+26. Enth&#228;lt der EU-Rahmen zur Beantwortung b&#246;swilliger Cyberaktivit&#228;ten 
+nach Auslegung der Bundesregierung auch Bestimmungen, die &#8211; nach
+Vorliegen rechtlicher Voraussetzungen &#8211; ein Eindringen der Bundeswehr in
+ausl&#228;ndische staatliche Informationssysteme und das St&#246;ren oder Abschalten 
+derselben diplomatisch unterst&#252;tzen kann? 
+27. Wie viele Mitarbeiterinnen und Mitarbeiter hat das Gemeinsame
+Lagezentrum Cyber- und Informationsraum (GLZ CIR) bei der Bundeswehr?
+28. Welche Einstufung tragen die Lageberichte der nachgeordneten
+Bundeswehrdienststellen Kommando Strategische Aufkl&#228;rung und Zentrum f&#252;r 
+Operative Kommunikation, die im Rahmen des Projekts &#8222;Lagebild f&#252;r den 
+Cyber- und Informationsraum&#8220; als Datenquellen dienen
+(Bundestagsdrucksache 19/10391, Antwort zu Frage 3)? 
+a) Welche Fachpublikationen werden hierf&#252;r ausgewertet, und wer sucht 
+diese aus? 
+b) Welche Einstufung tr&#228;gt die aus den verschiedenen Datenquellen erstellte 
+&#8222;Lage f&#252;r den Cyber- und Informationsraum&#8220;, die auch an den
+Milit&#228;rischen Abschirmdienst und das Nationale Cyber-Abwehrzentrum verteilt 
+wird? 
+29. Welche Rolle haben die Cyber-Abwehr und damit verbundene Fragen in der 
+Kooperation mit Frankreich und insbesondere im Rahmen des Aachener 
+Vertrags gespielt, und inwiefern sind zuk&#252;nftige gemeinsame Projekte dazu 
+vorgesehen? 
+30. Mit welchen franz&#246;sischen Stellen hat sich die Bundesregierung
+entsprechend des Artikels 21 des Aachener Vertrags zur Frage ethischer Leitlinien 
+f&#252;r neue Technologien auf internationaler Ebene ausgetauscht, welche
+ethischen Fragestellungen und Probleme wurden dabei zugrunde gelegt, welche 
+gemeinsamen Positionen wurden erarbeitet, und auf welchen internationalen 
+Ebenen (UN, OSZE, Europarat, EU und andere) setzen sich Frankreich und 
+Deutschland auf welche Weise f&#252;r solche ethischen Leitlinien ein? 
+Berlin, den 24. Juni 2019  
+Dr. Sahra Wagenknecht, Dr. Dietmar Bartsch und Fraktion
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Satz: Satzweiss.com Print, Web, Software GmbH, Mainzer Stra&#223;e 116, 66121 Saarbr&#252;cken, www.satzweiss.com 
+Druck: Printsystem GmbH, Schafw&#228;sche 1-3, 71296 Heimsheim, www.printsystem.de 
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de 
+ISSN 0722-8333]</text>
+    <titel>Rechtlich-organisatorischer Rahmen milit&#228;rischer Cyber-Operationen</titel>
+    <datum>2019-07-03</datum>
+  </document>
+  

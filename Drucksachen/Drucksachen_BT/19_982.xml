@@ -1,0 +1,422 @@
+<document>
+    <id>217837</id>
+    <drucksachetyp>Kleine Anfrage</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>19</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/982</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>19c4d8da157f16c60a87a311e19b47cd</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:15+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>232673</id>
+      <titel>Staatliches Hacking von Internetkommunikation - Transparenz rechtlicher und tats&#228;chlicher Voraussetzungen</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>B90/GR</bezeichnung>
+      <titel>Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN</titel>
+    </urheber>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/009/1900982.pdf</pdf_url>
+      <id>217837</id>
+      <dokumentnummer>19/982</dokumentnummer>
+      <datum>2018-02-22</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Kleine Anfrage</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN</urheber>
+    </fundstelle>
+    <autoren_anzeige>
+      <id>1191</id>
+      <titel>Dr. Konstantin von Notz, MdB, B&#220;NDNIS 90/DIE GR&#220;NEN</titel>
+      <autor_titel>Konstantin von Notz</autor_titel>
+    </autoren_anzeige>
+    <autoren_anzeige>
+      <id>1496</id>
+      <titel>Luise Amtsberg, MdB, B&#220;NDNIS 90/DIE GR&#220;NEN</titel>
+      <autor_titel>Luise Amtsberg</autor_titel>
+    </autoren_anzeige>
+    <text>[Deutscher Bundestag  Drucksache 19/982 
+19. Wahlperiode 22.02.2018 
+Kleine Anfrage 
+der Abgeordneten Dr. Konstantin von Notz, Luise Amtsberg, Canan Bayram,  
+Dr. Anna Christmann, Kai Gehring, Erhard Grundl, Anja Hajduk,  
+Britta Ha&#223;elmann, Dieter Janecek, Katja Keul, Sven-Christian Kindler,  
+Monika Lazar, Irene Mihalic, Filiz Polat, Tabea R&#246;&#223;ner, Dr. Manuela Rottmann,  
+Stefan Schmidt, Kordula Schulz-Asche, Margit Stumpp und der Fraktion 
+B&#220;NDNIS 90/DIE GR&#220;NEN 
+Staatliches Hacking von Internetkommunikation &#8211; Transparenz rechtlicher und 
+tats&#228;chlicher Voraussetzungen 
+Die Kommunikation von Zivilgesellschaft und Wirtschaft findet zunehmend
+online statt. Die meist kommerziellen Angebote und Produkte waren und sind
+strukturell nicht prim&#228;r auf Datensicherheit ausgelegt. Der Erhalt des Vertrauens in  
+die Privatheit von Kommunikation ist rechtsstaatlich essentiell. In Wahrnehmung 
+seiner Aufgaben der Sicherheitsverantwortung er&#246;ffnen sich Staaten durch  
+die Digitalisierung mehr &#220;berwachungsm&#246;glichkeiten als je zuvor (vgl. dazu 
+etwa Studie der Heinrich-B&#246;ll-Stiftung unter www.boell.de/sites/default/files/ 
+e-paper_internationalpolitik_verschluesselung.pdf?dimension1=startseite).
+Zugleich treffen staatliche Stellen umf&#228;ngliche Schutzpflichten zur Gew&#228;hrleistung 
+der Rechte auf Privatheit, auf Vertraulichkeit und Integrit&#228;t
+informationstechnischer Systeme als auch zum Schutz des Telekommunikationsgeheimnisses. Denn 
+diese Rechte z&#228;hlen zu den Funktionsbedingungen freiheitlich-demokratischer 
+Rechtsstaaten (vgl. etwa BVerfG, www.bundesverfassungsgericht.de/SharedDocs/ 
+Entscheidungen/DE/2008/02/rs20080227_1bvr037007.html). Die Snowden-
+Ver&#246;ffentlichungen und die daraus resultierende parlamentarische Aufkl&#228;rung, unter 
+anderem auch im Deutschen Bundestag, haben nach Auffassung der
+Oppositionsfraktionen im 1. Untersuchungsausschuss der 18. Wahlperiode ein
+fl&#228;chendeckend angelegtes internationales Netzwerk staatlicher Massen&#252;berwachung
+internetgest&#252;tzter Kommunikation durch westliche Geheimdienste offengelegt. Auch 
+vor dem Hintergrund einer hohen Anf&#228;lligkeit gegen&#252;ber zunehmenden IT-
+Angriffen stellen Bestrebungen von Wirtschaft, Regierungen und Zivilgesellschaft, 
+Kommunikationen durch Kryptographie und starke Verschl&#252;sselungen vor
+unbefugter Kenntnisnahme zu sch&#252;tzen, wichtige und unterst&#252;tzenswerte
+Schutzma&#223;nahmen dar. Dass diese Ma&#223;nahmen Herausforderungen f&#252;r die
+Aufgabenwahrnehmung der Sicherheitsbeh&#246;rden darstellen k&#246;nnen, ist unbestritten. 
+Anhaltende Bestrebungen von Regierungen weltweit, sich durch Verpflichtungen 
+zum Einbau von staatlichen Hintert&#252;ren in kommerzielle
+Kommunikationsplattformen und/oder das Hacken von informationstechnischen Systemen und
+Verschl&#252;sselungssoftware in Gestalt des staatlichen Einsatzes u. a. von
+Spionagesoftware und &#8222;Trojanern&#8220; Zugang zu Daten und Kommunikationen zu verschaffen, 
+sind vor diesem Hintergrund umstritten. Staatliche Ma&#223;nahmen wie
+beispielsweise das bewusste Offenhalten und Ausnutzen von Schwachstellen und
+Sicherheitsl&#252;cken schw&#228;chen IT-Systeme oft dergestalt, dass die Integrit&#228;t digitaler
+Infrastrukturen und Produkte insgesamt geschw&#228;cht und auch unbefugte Dritte 
+missbr&#228;uchlich davon Nutzen ziehen k&#246;nnen. Eine koh&#228;rente Position der
+Bundesregierung in Bezug auf den Umgang mit Verschl&#252;sselungstechnologien ist aus 
+Sicht der Fragesteller bis heute nicht erkennbar. So formuliert die Bundesregierung 
+in ihrer &#8222;Digitalen Agenda 2014 &#8211; 2017&#8220; einerseits das Ziel,
+&#8222;Verschl&#252;sselungsland Nummer eins auf der Welt&#8220; zu werden, schafft andererseits aber mit ZITiS &#8211; 
+Zentrale Stelle f&#252;r Informationstechnik im Sicherheitsbereich eine Beh&#246;rde, die 
+darauf abzielt, Schwachstellen auszumachen und Kryptografie zu brechen.  
+Die Zulassung staatlichen Hackings verschiebt das Interesse zumindest der
+Sicherheitsbeh&#246;rden auch auf die systematische Geheimhaltung, Offenhaltung und 
+Nutzung von Schwachstellen und Sicherheitsl&#252;cken in IT-Systemen, Hard- und 
+Software. Besonders brisant erscheint, dass f&#252;r das Aufspielen von
+Spionagesoftware auf Zielrechner oftmals nicht allein kriminalistische List, sondern erst der 
+staatliche Ankauf von Schwarzmarktinformationen &#252;ber bislang unerkannte
+Sicherheitsl&#252;cken ausreicht (vgl. u. a. dazu www.kas.de/wf/doc/kas_51506-544-1- 
+30.pdf?180209124944). Durch die Zusammenarbeit mit Privatfirmen wird der 
+Schwarzmarkt f&#252;r Sicherheitsl&#252;cken zudem zumindest indirekt weiter befeuert. 
+Das Bundesverfassungsgericht nahm den Konflikt um staatliches Hacking zum 
+Anlass, die Grundrechtsdogmatik weiterzuentwickeln und das Grundrecht auf 
+Gew&#228;hrleistung der Integrit&#228;t und Vertraulichkeit informationstechnischer
+Systeme aus Artikel 2 Absatz 1 des Grundgesetzes (GG) herauszuarbeiten.
+Umstritten bleibt, ob und in welchem Umfang die Anforderungen des Gerichts f&#252;r einen 
+rechtsstaatlich vertretbaren Einsatz von Spionagesoftware rechtlich wie
+tats&#228;chlich &#252;berhaupt umgesetzt werden k&#246;nnen. Vorherige Versionen des sogenannten 
+Staatstrojaners haben sich nach einer Analyse des Quellcodes durch den Chaos 
+Computer Club e. V. als mit rechtlichen Vorgaben nicht vereinbar erwiesen.
+Bem&#252;hungen der Sicherheitsbeh&#246;rden, geeignetes Personal zu finden und eigene 
+&#220;berwachungsprogramme zu entwickeln, haben nicht zum erw&#252;nschten Erfolg 
+gef&#252;hrt, so dass heute erneut auf Programme von Privatfirmen zur&#252;ckgegriffen 
+wird (www.heise.de/newsticker/meldung/BKA-will-maechtigeren-Staatstrojaner- 
+angeblich-noch-2017-einsatzbereit-haben-3779770.html). Dies ist insofern
+fragw&#252;rdig, als dass einzelnen Anbietern nachgewiesen werden konnte, dass &#8211; auch 
+durch &#246;ffentliche Mittel &#8211; programmierte Programme, sp&#228;ter mit Hilfe einer
+sogenannten Nachladefunktion um zus&#228;tzliche Funktionen erweitert, in autorit&#228;re 
+Staaten exportiert wurden und dort zu Menschenrechtsverletzungen beigetragen 
+haben (www.heise.de/newsticker/meldung/Generalbundesanwalt-nimmt-
+Einsatzvon-Ueberwachungssoftware-FinFisher-ins-Visier-2551400.html). Die
+Verfassungskonformit&#228;t dieser Programme steht zumindest in Zweifel. Eine
+(Quellcode-)&#220;berpr&#252;fung durch die Bundesbeauftragte f&#252;r den Datenschutz und die
+Informationsfreiheit (BfDI) hat nach Kenntnis der Fragesteller bis heute nicht
+stattgefunden. 
+Die Beantwortung der Kleinen Anfrage der Fraktion B&#220;NDNIS 90/DIE  
+GR&#220;NEN (Bundestagsdrucksache 18/13413) und der Fraktion DIE LINKE.
+(Bundestagsdrucksache 19/522), wonach inzwischen die auch und gerade unter autorit&#228;ren 
+Staaten beliebte (vgl. www.heise.de/newsticker/meldung/
+Generalbundesanwaltnimmt-Einsatz-von-Ueberwachungssoftware-FinFisher-ins-Visier-2551400.html) 
+kommerzielle Hacking-Software Gamma/FinFisher/FinSpy vom Bundesminister 
+des Innern zum Einsatz durch das Bundeskriminalamt (BKA) freigegeben sei, 
+geben dringenden Anlass zu weiterer parlamentarischer Befassung. 
+Der TeleTrusT &#8211; Bundesverband IT-Sicherheit e. V., dem auch das BKA und das 
+Bundesamt f&#252;r Sicherheit in der Informationstechnik (BSI) angeh&#246;ren, wird
+gegen die neu geschaffenen Rechtsgrundlagen zur Onlinedurchsuchung/Quellen-
+Telekommunikations&#252;berwachung Verfassungsbeschwerde erheben (vgl. www. 
+golem.de/news/teletrust-it-sicherheitsverband-will-gegen-staatstrojaner-klagen- 
+1708-129395.html).
+Wir fragen die Bundesregierung: 
+1. H&#228;lt die Bundesregierung ihre bisherige IT-Sicherheitspolitik, vor allem
+bez&#252;glich des staatlichen Aufkaufs von Sicherheitsl&#252;cken, f&#252;r die Integrit&#228;t
+digitaler Infrastrukturen und Angebote f&#252;r f&#246;rderlich? 
+2. H&#228;lt die Bundesregierung ihre bisherige IT-Sicherheitspolitik, vor allem
+hinsichtlich der eigenen Positionierung zum Umgang mit
+Verschl&#252;sselungstechnologien, f&#252;r die Integrit&#228;t digitaler Infrastrukturen und Angebote f&#252;r
+f&#246;rderlich? 
+3. Teilt die Bundesregierung die kritische Auffassung des
+Bundesrechnungshofs vom 5. Februar 2015 (https://netzpolitik.org/2016/kritik-vom-bundes 
+rechnungshof-das-bundeskriminalamt-will-gleich-zwei-staatstrojaner-ein 
+setzen/), wonach der zus&#228;tzliche Ankauf der umstrittenen kommerziellen 
+Hacking-Software FinSpy letztlich auf technische Schwierigkeiten mit der 
+Schaffung eines einsatzf&#228;higen eigenen Spionagetrojaners (RCIS)
+zur&#252;ckzuf&#252;hren ist? 
+4. In der Konkurrenz mit welchen Unternehmen erhielt die T&#220;V
+Informationstechnik GmbH Essen in der Auswahl den Zuschlag, und aufgrund  
+welcher ma&#223;gebenden Kriterien (https://netzpolitik.org/2016/kritik-vom- 
+bundesrechnungshof-das-bundeskriminalamt-will-gleich-zwei-
+staatstrojanereinsetzen/)? 
+5. Trifft es zu, dass f&#252;r die Pr&#252;fung von FinSpy auf Einhaltung der
+Leistungsvorgaben das Unternehmen CSC Deutschland Solutions GmbH beauftragt wurde 
+(www.spiegel.de/netzwelt/netzpolitik/staatstrojaner-die-bundesregierung- 
+schweigt-sich-aus-a-1190424.html), und worauf st&#252;tzt sich ggf. die
+regierungsseitige Annahme der Vertrauensw&#252;rdigkeit dieses Unternehmens f&#252;r 
+die betraute Aufgabe? 
+6. Warum wurde in diesem Fall nicht ebenfalls die in der Presse erw&#228;hnte T&#220;V 
+Informationstechnik Essen beauftragt (www.spiegel.de/netzwelt/netzpolitik/ 
+staatstrojaner-die-bundesregierung-schweigt-sich-aus-a-1190424.html)? 
+7. Was bedeutet die Bescheinigung der Einhaltung von IT-Standards (z. B. 
+Common Criteria) in Bezug auf die BKA-Spionagesoftware RCIS konkret? 
+8. Wurde eine vollst&#228;ndige Quellcode-&#220;berpr&#252;fung von FinSpy durchgef&#252;hrt, 
+und wenn ja, durch welche Stelle, und mit welchem Ergebnis? 
+9. Wurden Penetrationstests der Software FinSpy durchgef&#252;hrt, und wenn ja, 
+durch welche Stelle, und mit welchem Ergebnis? 
+10. Ist die Bundesregierung der Ansicht, dass die derzeit durch Bundes- oder 
+Landesbeh&#246;rden eingesetzten IT-&#220;berwachungs- oder Spionageprogramme 
+einer erneuten &#220;berpr&#252;fung hinsichtlich ihrer Verfassungskonformit&#228;t Stand 
+halten?  
+11. H&#228;lt die Bundesregierung die Zusammenarbeit mit Privatfirmen in diesem 
+verfassungsrechtlich heiklen Bereich im Allgemeinen und mit den erw&#228;hnten 
+Firmen im Speziellen f&#252;r g&#228;nzlich unproblematisch, oder welche
+Herausforderungen ergeben sich hier aus Sicht der Bundesregierung? 
+12. Welche Unternehmen haben die Bundesregierung und/oder ihr
+nachgeordnete Beh&#246;rden bez&#252;glich des Ankaufs von Wissen um
+Softwaresicherheitsl&#252;cken (Exploits) kontaktiert (bitte um Auflistung der Firmen und Daten der 
+Kontaktaufnahme)? 
+13. Gab es diesbez&#252;glich bereits Treffen mit Unternehmensvertretern (bitte um 
+Auflistung der Unternehmen, Ort und Daten der Treffen)?
+14. Haben die Bundesregierung und/oder ihr nachgeordnete Beh&#246;rden bereits 
+das Wissen um Sicherheitsl&#252;cken von kommerziellen oder
+nichtkommerziellen Anbietern erworben (bitte um Auflistung von wem, wann, und wie hoch 
+waren die Kosten)? 
+15. Welche Ma&#223;nahmen hat die Bundesregierung unternommen, um
+sicherzustellen, dass entsprechende Programme, sowohl im unver&#228;nderten wie im 
+modifizierten Zustand, nicht an Dritte weiterverkauft werden, z. B. durch 
+entsprechende Vertragsvereinbarungen? 
+16. Welche Ma&#223;nahmen hat die Bundesregierung unternommen, um
+sicherzustellen, dass eine regelm&#228;&#223;ige Quellcodepr&#252;fung der im Einsatz befindlichen 
+Programme vor allem hinsichtlich einer &#220;berpr&#252;fung der
+Verfassungskonformit&#228;t m&#246;glich ist, z. B. durch entsprechende Vertragsvereinbarungen? 
+17. Bedeutet die Bereitstellung des sog. Protokollierungssystems ProSys, dass 
+mit Hilfe dieser Software eine vollst&#228;ndige Revisionsf&#228;higkeit von Eins&#228;tzen 
+der den Sicherheitsbeh&#246;rden zur Verf&#252;gung stehenden Spionageprogramme 
+erzielt werden kann? 
+18. Auf welche Weise werden mittels des Protokollierungssystems ProSys
+welche Daten des Trojanereinsatzes protokolliert? 
+19. Welche Kosten sind durch die BKA-Entwicklung des
+Protokollierungssystems ProSys bis heute angefallen? 
+20. Ist die Weiterentwicklung der Protokollierungssoftware ProSys f&#252;r den
+Einsatz in den L&#228;ndern bereits erfolgt, und wurde sie Sicherheitsbeh&#246;rden der 
+L&#228;nder bereits zur Verf&#252;gung gestellt?  
+Wenn ja, welchen? 
+21. Trifft es, wie in der Presse berichtet (www.welt.de/politik/deutschland/article 
+173121473/Verdeckte-Ueberwachung-Ministerium-gibt-neuen-Bundestrojaner- 
+fuer-den-Einsatz-frei.html) zu, dass die BKA-Eigenentwicklung RCIS bis 
+heute keine Zugriffe auf Betriebssysteme mobiler Endger&#228;te wie
+Smartphones erm&#246;glicht? 
+22. Welche Kosten sind durch die BKA-Eigenentwicklung der
+Spionagesoftware RCIS bis heute angefallen? 
+23. In wie vielen F&#228;llen ist RCIS seit der Betriebsbereitschaft und der
+Einsatzfreigabe bislang je unter welcher Befugnisnorm zum Einsatz gekommen? 
+24. In wie vielen dieser F&#228;lle wurde der Einsatz aufgrund welcher Kriterien
+intern als erfolgreich im Sinne der Aufgabenstellung bewertet? 
+25. Wie viele sog. Zero-Day-Sicherheitsl&#252;cken sind den Bundesbeh&#246;rden
+zwischenzeitlich (zumindest seit der Antwort auf die letzte Kleine Anfrage der 
+Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN vom 13. September 2017 auf
+Bundestagsdrucksache 18/13413) bekannt und werden vor der &#214;ffentlichkeit
+geheim gehalten? 
+a) Wie lange werden diese bereits zur&#252;ckgehalten, bzw. sind diese den
+einschl&#228;gigen Meldepflichten staatlicher Stellen bereits entzogen?
+b) Auf der Basis welcher Rechtsgrundlage bzw. welchen Verfahrens wird 
+die Entscheidung dar&#252;ber getroffen, ob und f&#252;r welche Dauer eine IT-
+Sicherheitsl&#252;cke f&#252;r die Nutzung zu eigenen Zwecken von der Meldung
+zur&#252;ckgehalten wird? 
+c) Wer &#252;bernimmt nach Auffassung der Bundesregierung die ma&#223;gebende 
+Verantwortung daf&#252;r, welche Informationen &#252;ber Schwachstellen die
+Sicherheitsbeh&#246;rden f&#252;r sich behalten und welche sie dem Hersteller und/ 
+oder dem BSI melden, damit diese zum Schutz der Allgemeinheit
+behoben werden k&#246;nnen? 
+d) Liegen bislang &#252;berhaupt Vorgaben f&#252;r ein derartiges rechtsstaatliches 
+Verfahren u. a. zur Vornahme einer Bewertung der Risiken f&#252;r die
+Allgemeinheit vor, und wenn nein, warum nicht? 
+e) Wird das BSI in jedem Falle in einen derartigen Entscheidungsprozess 
+einbezogen, und wenn nein, warum nicht? 
+f) Wie viele dem sog. Telegram-Fall (https://netzpolitik.org/2016/bundes 
+kriminalamt-knackt-telegram-accounts/) vergleichbare Verfahren der
+gezielten Ausnutzung einer Schwachstelle eines g&#228;ngigen IT-Systems 
+und/oder Messengerprodukts sind den Sicherheitsbeh&#246;rden noch bekannt 
+und werden von diesen intern f&#252;r die Infiltration im Rahmen bereits
+bestehender, allgemeiner Eingriffsnormen ebenfalls f&#252;r zul&#228;ssig erachtet? 
+g) Wie oft wurden diese weiteren Verfahren der Ausnutzung von
+Schwachstellen bislang im Rahmen welcher Verfahren durch Bundesbeh&#246;rden
+eingesetzt (bitte einschl&#228;gige Rechtsgrundlage angeben)? 
+h) Teilt die Bundesregierung die Auffassung, dass auch die Entscheidung 
+&#252;ber die Nutzung dieser Schwachstellen und die damit einhergehende 
+Nichtmeldung an das BSI und/oder die &#214;ffentlichkeit zumindest einem 
+rechtsstaatlichen Verfahren und ggf. einer hinreichend bestimmten,
+bereichsspezifischen rechtlichen Regelung unterliegen sollte, und wenn 
+nein, warum nicht? 
+i) Besteht zumindest auf Seite der Bundesregierung Transparenz
+hinsichtlich der verschiedenen, im Einsatz befindlichen oder in der Entwicklung 
+befindlichen Verfahren zur gezielten staatlichen Ausnutzung von IT-
+Schwachstellen durch bundesdeutsche Sicherheitsbeh&#246;rden, um ein
+insoweit umfassenderes Lagebild der Risikosteigerung f&#252;r die IT-Sicherheit 
+erhalten zu k&#246;nnen, und wenn ja, wie erreicht die Bundesregierung diesen 
+&#220;berblick derzeit? 
+j) Bedarf es aus Sicht der Bundesregierung, auch unabh&#228;ngig von der Frage 
+rechtlicher Zul&#228;ssigkeit des bisherigen Vorgehens, deshalb zumindest
+eines internen IT-Schwachstellenmanagements (Beschaffung, Bewertung 
+und Abw&#228;gung, Verwendung und Sicherung), um z. B. doppelte Ank&#228;ufe 
+von Zero Day Exploits auf den illegalen M&#228;rkten zu verhindern? 
+k) Worin bestehen nach Ansicht der Bundesregierung derzeit die
+verbindlichen ethischen wie rechtsstaatlichen Rahmenbedingungen f&#252;r die
+Beschaffung von Sicherheitsl&#252;cken, um die staatliche F&#246;rderung eines
+illegalen Marktes zu verhindern, auf dem auch autorit&#228;re Staaten ihre
+Software zur &#220;berwachung von Zivilgesellschaft und politischen Gegnern  
+sowie Straft&#228;ter ihre Instrumente beziehen (vgl. dazu Herpig/Schmitz, 
+www.security-insider.de/oeffentliche-sicherheit-kontra-it-sicherheit-a- 
+658471/)? 
+l) Welche internationalen Gremien und Stellen sind nach Auffassung der 
+Bundesregierung zu beteiligen, wenn durch diese bislang nicht
+ver&#246;ffentlichte ZeroDays zum Einsatz kommen?
+26. Wurden bereits oder werden derzeit bereits entsprechend den Vorgaben des 
+Entwurfs des aktuellen Koalitionsvertrages zwischen CDU, CSU und SPD 
+seitens der Bundesministerien der gesch&#228;ftsf&#252;hrenden Bundesregierung
+Vorbereitungen f&#252;r die Schaffung weiterer Rechtsgrundlagen f&#252;r den Einsatz 
+von Trojanerspionagesoftware durch das Bundesamt f&#252;r Verfassungsschutz 
+(BfV) sowie den Bundesnachrichtendienst (BND) getroffen, und wenn ja, 
+welche? 
+27. Welche weiteren &#8222;rechtlichen, organisatorischen sowie technischen
+Rahmenbedingungen&#8220; plant die Bundesregierung entsprechend den Vorgaben 
+des Entwurfs des Koalitionsvertrages zu schaffen, um &#8222;die
+Sicherheitsbeh&#246;rden bei der Verfolgung und Pr&#228;vention von Cyberkriminalit&#228;t zu st&#228;rken&#8220; 
+(vgl. Entwurf des Koalitionsvertrages zwischen CDU, CSU und SPD)? 
+28. Welche Position vertritt die Bundesregierung gegenw&#228;rtig im Rahmen von 
+Diskussionsprozessen von EU-Institutionen in Bezug auf die weiterhin
+vernehmbare Forderung nach staatlichen Verpflichtungen von IT-Unternehmen 
+zur Bereitstellung von Hintert&#252;ren zur Erm&#246;glichung verdeckter Zugriffe 
+von Sicherheitsbeh&#246;rden (sog. Backdoors)? 
+a) Wurden oder werden die Spionagetrojaner von Bundesbeh&#246;rden bereits 
+in ihrer Funktion als sog. Keylogger eingesetzt? 
+b) Wenn ja, kann der Einsatz f&#252;r diesen Zweck nachweislich auf diese
+Funktion beschr&#228;nkt werden? 
+c) Welche Rechtsgrundlage steht nach Auffassung der Bundesregierung f&#252;r 
+diese Form des Einsatzes zur Verf&#252;gung? 
+29. Kommt es im Rahmen des Einsatzes von FinFisher zu einer &#8211; wenn auch nur 
+vor&#252;bergehenden &#8211; Speicherung personenbezogener Daten auf Servern des 
+Betreiberunternehmens?  
+30. Erfolgte bislang eine datenschutzrechtliche Kontrolle auch des
+kommerziellen Spionagetrojaners FinSpy durch die BfDI, und wenn ja, mit welchem
+Ergebnis? 
+31. Hat die Bundesregierung der BfDI vollumf&#228;nglich alle von ihr zur
+datenschutzrechtlichen Pr&#252;fung gem&#228;&#223; dem Bundesdatenschutzgesetz
+angeforderten Unterlagen, Daten und Informationen zu beiden Vorg&#228;ngen (RCIS und 
+FinSpy) vorgelegt, und wenn nein, warum nicht? 
+32. Liegt zwischenzeitlich ein abschlie&#223;ender Pr&#252;fbericht der BfDI zur
+eigenentwickelten Spionagesoftware des BKA vor, und wenn ja, mit welchem
+Ergebnis? 
+33. Wurde bei den bislang zum Einsatz gekommenen Nutzungen von IT-
+Schwachstellen von Zielsystemen jeweils in Absprache oder zumindest
+Inkenntnissetzung oder informell mit dem BSI gehandelt? 
+34. Welche konkreten Verbesserungen der technischen M&#246;glichkeiten der
+Sicherheitsbeh&#246;rden zur Entschl&#252;sselung verschl&#252;sselter Datentr&#228;ger kann die 
+neu geschaffene Arbeitseinheit ZITiS bereits vorweisen (bitte nach
+Dienstleistungen f&#252;r Bundeswehr, Kommando Cyberraum, BKA,
+Verfassungsschutz/BfV, andere aufschl&#252;sseln)? 
+a) Wie viele Fachleute stehen der ZITiS f&#252;r die ihr zugedachten operativen 
+Aufgaben inzwischen tats&#228;chlich zur Verf&#252;gung?
+b) Ist es daf&#252;r bislang zu Personalwechseln aus anderen, mit der
+Entwicklung von IT-Angriffen befassten Arbeitseinheiten (etwa des
+Kompetenzzentrums Informationstechnische &#220;berwachung des BKA, Referaten des 
+Bundesministeriums des Innern, des BND usw.) gekommen?  
+Wenn ja, welchen genau? 
+c) Ist die Bundesregierung auch weiterhin der Ansicht, dass es keiner 
+Rechtsgrundlage f&#252;r ZITiS bedarf? 
+35. In wie vielen F&#228;llen wurde nach Kenntnis der Bundesregierung bereits
+Software des israelischen Sicherheitsunternehmens Cellebrite (z. B. UFED) zur 
+Extraktion von Daten in Strafverfahren und/oder polizeilichen Verfahren 
+eingesetzt (bitte getrennt anf&#252;hren)? 
+a) In wie vielen F&#228;llen wurde Software des israelischen
+Sicherheitsunternehmens Cellebrite (z. B. UFED) zur Extraktion von Daten nach &#167; 15a des 
+Asylgesetzes eingesetzt? 
+b) Welche Kosten sind hierbei jeweils und insgesamt angefallen? 
+c) Auf welcher datenschutzrechtlichen und sonstigen vertraglichen Basis 
+kommen nach Kenntnis der Bundesregierung Produkte dieses
+Unternehmens in bundesdeutschen hoheitlichen Verfahren zum Einsatz? 
+d) Wurden nach Kenntnis der Bundesregierung bereits oder werden
+inzwischen FinFisher/RCIS vergleichbare &#220;berpr&#252;fungen der Funktionalit&#228;t 
+und der Datensicherheit der zum Einsatz kommenden Cellebrite-Software 
+durchgef&#252;hrt (etwa Quellcode-Pr&#252;fungen), um z. B. den Abfluss von
+Daten aus Verfahren bundesdeutscher Beh&#246;rden an unbefugte dritte Stellen 
+(z. B. Drittstaaten) ausschlie&#223;en zu k&#246;nnen, und wenn ja, mit welchem 
+Ergebnis? 
+e) F&#252;hrt die Verwendung der Cellebrite-Software zur &#8211; wenn auch nur
+vor&#252;bergehenden &#8211; Speicherung von personenbeziehbaren Daten auf
+Servern des Unternehmens Cellebrite selbst? 
+36. Welche Vorgehensweisen der kriminalistischen List unterscheidet die
+Bundesregierung, mit denen auf rechtlich de lege lata noch zul&#228;ssige Weise ein 
+Aufbringen der Spionagesoftware auf Zielrechner erfolgen kann (bitte im 
+Einzelnen darlegen)? 
+37. Welche dieser Vorgehensweisen haben Bundesbeh&#246;rden bislang in jeweils 
+welchem Umfang eingesetzt (etwa durch verdeckte Ma&#223;nahmen an
+Rechnern in der Wohnung von Tatverd&#228;chtigen, bei unbeobachteten Ma&#223;nahmen 
+im Rahmen von Zollkontrollen oder Personenkontrollen, durch staatlichen 
+Phishing-Einsatz per E-Mail; durch Drive-By-Infektionen auf manipulierten 
+Webseiten usw.)? 
+38. Welche Anstrengungen hat die Bundesregierung unternommen, um eine
+wissenschaftlich verl&#228;ssliche und valide Datenbasis zur Bewertung zu erhalten, 
+in wie vielen F&#228;llen Ermittlungen oder Verfahren eingestellt werden
+mussten, weil Zielrechner/Smartphones usw. aufgrund von Verschl&#252;sselung nicht 
+&#252;berwacht werden konnten? 
+39. Falls die Bundesregierung &#252;ber eine solche Datenbasis verf&#252;gt, wie lautet 
+das Ergebnis zu der in Frage 38 genannten Bewertung?
+40. Welche grundrechtsschonenderen Alternativen zur rechtsstaatlich
+fragw&#252;rdigen Schw&#228;chung starker Verschl&#252;sselung beforscht und pr&#252;ft die
+Bundesregierung in welchem Umfang derzeit konkret (bitte im Einzelnen anf&#252;hren), 
+bzw. welche weiteren politischen wie operativen Vorschl&#228;ge bietet sie an, 
+um die Aufgabenverfolgung der Sicherheitsbeh&#246;rden unter gleichzeitiger 
+Wahrung der Selbstschutzm&#246;glichkeiten von Kryptographie und
+Verschl&#252;sselung zu erm&#246;glichen? 
+41. H&#228;lt die Bundesregierung es f&#252;r rechtlich tragf&#228;hig, angesichts der
+Komplexit&#228;t und des Umfangs der gegebenen Weltverh&#228;ltnisse, den
+geheimdienstlichen Einsatz technischer Aufkl&#228;rung mit dem Argument zu rechtfertigen, ein 
+vollst&#228;ndiges Lagebild sei ansonsten (auf herk&#246;mmlichem Wege) nicht zu 
+erreichen (vgl. Vorbemerkung, S. 2 unten der Antwort der Bundesregierung 
+auf die Kleine Anfrage der Fraktion DIE LINKE., Bundestagsdrucksache 
+19/522), und wie definiert die Bundesregierung das Leitbild vom
+&#8222;vollst&#228;ndigen Lagebild&#8220;? 
+42. Wie viele internationale Partnerbeh&#246;rden haben in der Vergangenheit nach 
+der Nennung von Kontaktinformationen in der &#214;ffentlichkeit durch die
+Bundesregierung ihre Zusammenarbeit mit dem BKA eingestellt, und f&#252;r welche 
+Dauer erfolgte die Einstellung der Zusammenarbeit (vgl. Vorbemerkung der 
+Bundesregierung auf die Kleine Anfrage der Fraktion DIE LINKE. auf
+Bundestagsdrucksache 19/522, S. 4)? 
+43. F&#252;hrte das BfV in der Vergangenheit Onlinedurchsuchungen durch, und 
+wenn ja, wie h&#228;ufig, auf welcher Rechtsgrundlage, und mit welchen
+Softwareprodukten? 
+44. F&#252;hrte der BND in der Vergangenheit und bis heute Quellen-
+Telekommunikations&#252;berwachungen sowie Onlinedurchsuchungen durch, und wenn ja, 
+wie h&#228;ufig, und mit welchen Softwareprodukten? 
+45. Welche Rechtsgrundlagen standen/stehen dem BND nach Auffassung der 
+Bundesregierung derzeit und in der Vergangenheit zur Verf&#252;gung, um
+Quellen-Telekommunikations&#252;berwachungen und/oder Onlinedurchsuchungen 
+durchzuf&#252;hren? 
+46. Teilt die Bundesregierung die Auffassung der franz&#246;sischen Regierung,
+dargelegt in der &#8222;Revue strat&#233;gique de cyberd&#233;fense&#8220; vom 12. Februar 2018 
+(www.sgdsn.gouv.fr/uploads/2018/02/20180206-np-revue-cyber-public-v3.3- 
+publication.pdf), dass es eines internationalen Verbotes von offensiven
+digitalen Reaktionen auf Hackerangriffe (Hack Back) durch Private bedarf, und 
+wird sie sich daf&#252;r einsetzen? 
+Berlin, den 20. Februar 2018 
+Katrin G&#246;ring-Eckardt, Dr. Anton Hofreiter und Fraktion 
+Satz: Satzweiss.com Print, Web, Software GmbH, Mainzer Stra&#223;e 116, 66121 Saarbr&#252;cken, www.satzweiss.com 
+Druck: Printsystem GmbH, Schafw&#228;sche 1-3, 71296 Heimsheim, www.printsystem.de 
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de 
+ISSN 0722-8333]</text>
+    <titel>Staatliches Hacking von Internetkommunikation - Transparenz rechtlicher und tats&#228;chlicher Voraussetzungen</titel>
+    <datum>2018-02-22</datum>
+  </document>
+  

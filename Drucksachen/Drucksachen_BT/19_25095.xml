@@ -1,0 +1,1192 @@
+<document>
+    <id>248402</id>
+    <drucksachetyp>Unterrichtung</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/25095</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>4fc459b3af99acc500356345417a41e4</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>271105</id>
+      <titel>Strategie K&#252;nstliche Intelligenz der Bundesregierung - Fortschreibung 2020</titel>
+      <vorgangstyp>Bericht, Gutachten, Programm</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium f&#252;r Arbeit und Soziales</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/250/1925095.pdf</pdf_url>
+      <id>248402</id>
+      <dokumentnummer>19/25095</dokumentnummer>
+      <datum>2020-12-08</datum>
+      <verteildatum>2020-12-10</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Unterrichtung</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Deutscher Bundestag Drucksache 19/25095
+19. Wahlperiode 08.12.2020 
+Unterrichtung
+durch die Bundesregierung
+Strategie K&#252;nstliche Intelligenz der Bundesregierung &#8211; Fortschreibung 2020
+Inhal tsverzeichnis
+Seite
+Zusammenfassung ........................................................................................ 2
+Einleitung ...................................................................................................... 3
+Zwischenbilanz ............................................................................................. 4
+Ausgangslage 2020........................................................................................ 6
+Schwerpunkte der KI-Strategie .................................................................. 8
+K&#246;pfe.............................................................................................................. 8
+Forschung ....................................................................................................... 10
+Transfer und Anwendung............................................................................... 14
+Ordnungsrahmen ............................................................................................ 18
+Gesellschaft .................................................................................................... 20
+Anhang .......................................................................................................... 22
+Weitere Schritte in der Umsetzung der KI-Strategie...................................... 22
+K&#246;pfe.............................................................................................................. 22
+Forschung ....................................................................................................... 22
+Transfer und Anwendung............................................................................... 23
+Ordnungsrahmen ............................................................................................ 25
+Gesellschaft .................................................................................................... 25
+Zugeleitet mit Schreiben des Bundesministeriums f&#252;r Arbeit und Soziales vom 2. Dezember 2020.
+Zusammenfassung
+Mit der Fortschreibung der Strategie K&#252;nstliche Intelligenz fokussiert die Bundesregierung ihre Ma&#223;nahmen in
+Hinblick auf aktuelle Entwicklungen im Bereich der K&#252;nstlichen Intelligenz (KI) seit Beschluss der Strategie
+im November 2018. Ziel der Fortschreibung ist es, den Standort Deutschland in Erforschung, Entwicklung und
+Anwendung von KI im internationalen Wettbewerb zu st&#228;rken. Dazu gilt es, KI-&#214;kosysteme1 in Deutschland
+und Europa weiter auf- und auszubauen, um die Anwendung von KI in der Breite zu st&#228;rken und zugleich die
+Sichtbarkeit herausragender Initiativen und Strukturen zu f&#246;rdern. Verantwortungsvolle und
+gemeinwohlorientierte Entwicklung und Anwendung von KI-Systemen soll zu einem integralen Bestandteil und damit
+Markenzeichen einer &#8222;AI Made in Europe&#8220; gemacht werden. Zudem stehen insbesondere die Themen
+Pandemiebek&#228;mpfung, Nachhaltigkeit, insbesondere Umwelt- und Klimaschutz sowie internationale und europ&#228;ische
+Vernetzung im Zentrum neuer Initiativen.  
+Daf&#252;r gilt es
+&#8226; mehr KI-Fachkr&#228;fte auszubilden, anzuwerben und in Deutschland zu halten,
+&#8226; leistungsstarke und international sichtbare Forschungsstrukturen zu etablieren und insbesondere modernste
+KI- und Rechnerinfrastrukturen auf international konkurrenzf&#228;higem Niveau bereitzustellen,
+&#8226; ausgehend von exzellenten Forschungs- und Transferstrukturen KI-&#214;kosysteme von internationaler
+Strahlkraft zu etablieren, um die Anwendung von Forschungsergebnissen in der betrieblichen Praxis,
+insbesondere im Mittelstand, zu forcieren und die Gr&#252;ndungsdynamik anzukurbeln,
+&#8226; die Rahmenbedingungen f&#252;r innovative und menschenzentrierte KI-Anwendungen in Deutschland und
+Europa durch den Auf- und Ausbau der Qualit&#228;tsinfrastruktur auf der Basis eines angemessenen
+Ordnungsrahmens zu einem System f&#252;r sichere und vertrauensw&#252;rdige KI zu st&#228;rken; und 
+&#8226; die zivilgesellschaftliche Vernetzung und die Einbeziehung in die Entwicklung und Nutzung von
+gemeinwohlorientierter KI zu unterst&#252;tzen.  
+KI-&#214;kosysteme sind hier nicht im Sinne eines nat&#252;rlichen &#214;kosystems zu verstehen.1
+Einleitung
+K&#252;nstliche Intelligenz (KI)2 ist eine Schl&#252;sseltechnologie, die gro&#223;es Potenzial f&#252;r zus&#228;tzliches
+Wirtschaftswachstum und Produktivit&#228;tszuw&#228;chse birgt &#8722; in Deutschland, Europa und weltweit. Um dieses Potenzial zu
+f&#246;rdern und zu nutzen, hat die Bundesregierung mit der Strategie K&#252;nstliche Intelligenz (KI-Strategie) einen
+Handlungsrahmen entwickelt und weitreichende Ma&#223;nahmen verabschiedet. Mit Hilfe dieser Ma&#223;nahmen
+werden die verantwortungsvolle Erforschung, Entwicklung und Anwendung von KI in Deutschland zum Wohle
+der B&#252;rgerinnen und B&#252;rger und der Umwelt ganzheitlich politisch gestaltet. Daf&#252;r setzt die Bundesregierung
+auf einen breiten gesellschaftlichen Dialog, der auch gesellschaftliche Akteure zur Gestaltung von KI bef&#228;higen
+soll, und eine aktive politische Gestaltung. 
+Das Leitbild der KI-Strategie ist ein europ&#228;isches KI-&#214;kosystem f&#252;r Innovationen, das die
+Wettbewerbsf&#228;higkeit der europ&#228;ischen Forschung und Wirtschaft ausbaut, die vielf&#228;ltigen Anwendungsm&#246;glichkeiten von KI in 
+allen Bereichen der Gesellschaft im Interesse der B&#252;rgerinnen und B&#252;rger f&#246;rdert und auf gemeinsamen
+europ&#228;ischen Regeln und Werten basiert. Bei der Entwicklung und Nutzung von KI werden wir den Nutzen f&#252;r den
+Menschen, das Gemeinwohl sowie die Umwelt und das Klima in den Mittelpunkt stellen. Das KI-&#214;kosystem 
+besteht branchen&#252;bergreifend aus unterschiedlich gro&#223;en Akteuren, die &#252;ber L&#228;ndergrenzen hinweg
+miteinander vernetzt sind, und erm&#246;glicht eine Beteiligung aller. Dazu z&#228;hlt neben Wissenschaft, Forschung und
+Wirtschaft auch die breite Zivilgesellschaft. Das KI-&#214;kosystem soll die Attraktivit&#228;t Deutschlands und Europas als
+Forschungs- und Wirtschaftsstandort im internationalen Vergleich deutlich steigern. Deutschland und Europa
+haben das Potenzial, den weltweit gr&#246;&#223;ten Datenraum f&#252;r Maschinen, Betriebs- und Mobilit&#228;tsdaten
+aufzubauen. Zudem wird das KI-&#214;kosystem auf einer sicheren und souver&#228;nen Dateninfrastruktur basieren und damit 
+Wettbewerbsf&#228;higkeit sichern. B&#252;rgerinnen und B&#252;rger sollen in die Lage versetzt werden, qualifiziert mit KI-
+Anwendungen in jeglichen Lebenslagen souver&#228;n umzugehen.
+Seit der Ver&#246;ffentlichung der KI-Strategie im November 2018 sind zwei Jahre vergangen (Kapitel
+Zwischenbilanz). W&#228;hrend dieser Zeit hat sich viel getan (Kapitel Ausgangslage 2020). Mit der Fortschreibung der KI-
+Strategie reagiert die Bundesregierung auf diese Entwicklungen und erg&#228;nzt sie um weitere Ma&#223;nahmen
+(Kapitel Schwerpunkte der KI-Strategie). Dabei spielen die aktuellen Entwicklungen infolge der COVID-19-
+Pandemie und Nachhaltigkeitsthemen, insbesondere Umwelt- und Klimaschutz sowie europ&#228;ische und
+internationale Vernetzung eine &#252;bergeordnete Rolle. Dar&#252;ber hinaus werden konkrete Schritte zur Umsetzung der KI-
+Strategie dargestellt (Kapitel Weitere Schritte in der Umsetzung der KI-Strategie).
+Der vorliegende Bericht ist das Ergebnis von sieben thematischen Fachforen, die im Rahmen der Fortschreibung
+der KI-Strategie mit Expertinnen und Experten aus Wirtschaft, Wissenschaft, Politik und Gesellschaft
+durchgef&#252;hrt wurden. Die Themenschwerpunkte der Fachforen waren: Forschung, Transfer, Industrie 4.0, Mobilit&#228;t, 
+Gesundheit und Pflege, Umwelt- und Klimaschutz sowie Ordnungsrahmen f&#252;r den menschenzentrierten Einsatz
+von KI in Arbeit und Gesellschaft. In den Fachforen waren die Expertinnen und Experten dazu aufgerufen,
+Feedback zur bisherigen Umsetzung der KI-Strategie zu geben, neue Entwicklungen aufzuzeigen und
+Handlungsempfehlungen auszusprechen. 
+Eckdaten der KI-Strategie der Bundesregierung
+&#8226; 15. November 2018: Das Kabinett verabschiedet die KI-Strategie. Die Webseite www.ki-strategie-
+deutschland.de stellt die Strategie, Ma&#223;nahmen und aktuelle Entwicklungen dar.
+&#8226; 15. November 2019: Zum ersten Jahrestag der Strategie hat die Bundesregierung einen Zwischenbericht
+ver&#246;ffentlicht, der Auskunft &#252;ber einzelne Ma&#223;nahmen zur Umsetzung der Strategie gibt. 
+&#8226; Juni 2020: Die Regierungskoalition beschlie&#223;t mit ihrem Zukunftspaket, die bis 2025 geplanten
+Ausgaben zur F&#246;rderung von KI in H&#246;he von 3 Mrd. Euro um zus&#228;tzliche 2 Mrd. Euro auf insgesamt 5 Mrd.
+Euro zu erh&#246;hen. 
+&#8226; Dezember 2020: Mit der Fortschreibung der KI-Strategie greift die Bundesregierung aktuelle
+Entwicklungen im Bereich KI auf und sch&#228;rft, verst&#228;rkt und erg&#228;nzt ihre Ma&#223;nahmen zur F&#246;rderung der KI in
+Deutschland und Europa. 
+Zur Definition siehe www.ki-strategie-deutschland.de.2
+Zwischenbilanz
+Seit der Ver&#246;ffentlichung der KI-Strategie wurden zahlreiche Initiativen und Ma&#223;nahmen zur F&#246;rderung von
+KI umgesetzt und viele weitere auf den Weg gebracht. Zum ersten Jahrestag der Strategie hat die
+Bundesregierung einen Zwischenbericht ver&#246;ffentlicht, der Auskunft &#252;ber einzelne Ma&#223;nahmen zur Umsetzung der
+KI-Strategie gibt.
+Die Expertinnen und Experten der Fachforen zur Fortschreibung der KI-Strategie haben die Notwendigkeit
+betont, dass KI als Grundlagentechnologie in verschiedensten Anwendungsbereichen st&#228;rker nutzbar gemacht
+werden muss als bisher. Dazu m&#252;ssen die relevanten Akteurinnen und Akteure und Initiativen vernetzt und 
+gest&#228;rkt sowie der Auf -und Ausbau von KI-&#214;kosystemen gef&#246;rdert werden. Die Fachforen zur Fortschreibung
+der KI-Strategie haben zudem eine Fokussierung der KI-Strategie auf die im Folgenden dargestellten
+Schwerpunkte aufgezeigt.
+KI-Forschung ist in Deutschland schon lange etabliert und befindet sich in einer guten Ausgangssituation:
+Studien zufolge belegte Deutschland im internationalen Vergleich gemessen an der Anzahl der wissenschaftlichen
+KI-Publikationen in den vergangenen Jahren den f&#252;nften Platz 3. Gleichzeitig weisen die Studien auf ein sehr
+dynamisches Wachstum der KI-Forschung in der Welt hin, dem Deutschland durch einen Ausbau seiner
+Forschungskapazit&#228;ten Rechnung tragen muss, um mit der internationalen Entwicklung Schritt zu halten. Zur
+nachhaltigen Steigerung der Attraktivit&#228;t des KI-Forschungsstandortes Deutschland gilt es, neben einer breiten
+Verankerung von KI in der deutschen Forschungslandschaft insbesondere sichtbare Forschungsstrukturen im
+KI-Bereich zu etablieren. Mit dem Aufbau eines Nationalen Forschungskonsortiums f&#252;r KI wurde bereits der
+Grundstein f&#252;r ein international beachtetes Forschungsnetzwerk gelegt, das besonders durch die Verbindung 
+verschiedener Forschungsbereiche ein gro&#223;es Entwicklungspotenzial aufweist.
+Neben Unternehmen konkurrieren auch Universit&#228;ten und Forschungseinrichtungen im internationalen
+Wettbewerb um gut ausgebildete KI-Fachkr&#228;fte und KI-Expertinnen und -Experten. International gibt es staatliche
+Talentf&#246;rderprogramme, die sich speziell an KI-Expertinnen und -Experten richten. Die Nachfrage nach
+Besch&#228;ftigten f&#252;r KI zeigt sich auch in einer aktuellen Studie: 30 Prozent der KI einsetzenden Unternehmen in 
+Deutschland hatten im Jahr 2019 offene Stellen im Bereich KI zu besetzen. Davon konnten 47 Prozent der 
+Stellen wie geplant besetzt werden, jedoch 11 Prozent nur versp&#228;tet oder nicht mit den gew&#252;nschten
+Besch&#228;ftigten, und 43 Prozent der Stellen blieben unbesetzt. Vor diesem Hintergrund ist die St&#228;rkung der KI-Expertise
+in Deutschland f&#252;r die Bundesregierung von &#252;bergeordneter Bedeutung. Dies umfasst vielf&#228;ltige Ma&#223;nahmen:
+von der Gewinnung f&#252;hrender KI-Expertinnen und Experten aus dem Ausland, der F&#246;rderung des
+wissenschaftlichen Nachwuchses an Deutschlands Hochschulen, der Aus- und Weiterbildung von Arbeitnehmerinnen und
+Arbeitnehmern bis zur Bef&#228;higung des regionalen innovativen Mittelstandes sowie der Verankerung von
+Grundkenntnissen in breiten Teilen der Gesellschaft. Diese Ma&#223;nahmen gilt es weiter zu st&#228;rken und im Sinne
+einer nachhaltigen Wirksamkeit &#252;ber einen l&#228;ngeren Zeitraum auf- und auszubauen. Neben der Attraktivit&#228;t des
+Standortes Deutschland f&#252;r international renommierte Expertinnen und Experten gilt es zudem, nationale
+Talente gezielter zu f&#246;rdern.
+Im Zuge der KI-Strategie hat die Bundesregierung bereits den Transfer von KI-Forschungsergebnissen in die
+Wirtschaft sowie die Anwendung von KI in die Breite des Mittelstandes forciert. Um Marktbarrieren abzubauen
+und das Vertrauen in Technologien weiter zu festigen, hat die Bundesregierung ihre Informations- und
+Beratungsangebote f&#252;r kleine und mittlere Unternehmen (KMU) weiter ausgebaut und die Rahmenbedingungen f&#252;r
+Start-ups verbessert. Damit hat die Bundesregierung in Zusammenarbeit mit Wissenschaft und Wirtschaft unter
+besonderer Ber&#252;cksichtigung von KMU den internationalen Standort Deutschland als KI-Innovationsland
+gest&#228;rkt. Besondere Schwerpunkte lagen dabei auf der Anwendung von KI in den Bereichen Mobilit&#228;t,
+Gesundheit, Umwelt und Landwirtschaft. Eine aktuelle Studie4 zeigt jedoch, dass bisher erst rund sechs Prozent der
+befragten Unternehmen KI einsetzen. Die Bundesregierung verst&#228;rkt und erweitert deswegen mit der
+Fortschreibung der KI-Strategie Ma&#223;nahmen, die darauf abzielen, Transferhemmnisse weiter ab- und
+Unterst&#252;tzungsangebote auszubauen. 
+3 Nach dem Bericht &#8222;Artificial Intelligence: How knowledge is created, transferred and used&#8221; des Wissenschaftsverlags Elsevier von 
+2018 steht Deutschland im internationalen Vergleich der Anzahl wissenschaftlicher Publikationen auf Platz f&#252;nf, hinter China, USA,
+Japan und Gro&#223;britannien. Nach dem AI Index 2019 belegt Deutschland weltweit Rang f&#252;nf bei der Anzahl wissenschaftlicher
+KI-Ver&#246;ffentlichungen.
+4 BMWi (2020) Einsatz von KI in der deutschen Wirtschaft
+KI-basierte Produkte und Dienstleistungen m&#252;ssen in der Anwendung genauso sicher sein wie jedes andere
+Produkt auch. Eine wichtige Rolle bei der Entwicklung und Anwendung von KI kommt auch den
+Rahmenbedingungen zu. Rechtssicherheit und Anreize f&#252;r die Entwicklung und den Einsatz sicherer und
+vertrauensw&#252;rdiger KI k&#246;nnen Vorbehalte und Ungewissheiten bei Anwenderinnen und Anwendern abbauen und
+Investitionssicherheit f&#252;r Unternehmen bieten. Die Bundesregierung setzt sich deshalb f&#252;r einen geeigneten, ggf. an
+KI-spezifischen Belangen angepassten Ordnungsrahmen ein, in dem die bestehende Qualit&#228;tsinfrastruktur
+ausgebaut und wenn n&#246;tig weiterentwickelt wird. Durch das Setzen klarer Regeln sowie Standards und Normen 
+k&#246;nnen die Grundrechte von B&#252;rgerinnen und B&#252;rgern gesch&#252;tzt, Vertrauen in die KI gest&#228;rkt, ein nachhaltiger
+Einsatz sowie Innovation und Wettbewerb gef&#246;rdert werden. 
+Die bisherige Umsetzung der KI-Strategie der Bundesregierung hat dazu beigetragen, den Innovationsschub,
+der mit der Entwicklung von KI einhergeht, f&#252;r die Wirtschaft, Wissenschaft und Gesellschaft zu nutzen. Dabei
+ist es auch gelungen, die Diskussion &#252;ber Chancen und Risiken von KI, digitale Souver&#228;nit&#228;t und ethische
+Aspekte anzusto&#223;en und zu versachlichen. Die Bundesregierung hat zudem neue Strukturen zur Beobachtung
+von Auswirkungen der KI in Arbeit und Gesellschaft etabliert. Die Bundesregierung wird dieses Moment
+nutzen, um eine nachhaltige und verantwortungsvolle Entwicklung und Anwendung von KI zum Wohl der
+B&#252;rgerinnen und B&#252;rger weiter zu f&#246;rdern und auch gemeinsam mit ihnen zu gestalten. Damit geht auch eine st&#228;rkere
+F&#246;rderung, Einbindung und Vernetzung zivilgesellschaftlicher Projekte und Initiativen einher. 
+Beobachtung der KI-Landschaft
+Um Trends und Entwicklungen in der deutschen, europ&#228;ischen und internationalen KI-Landschaft zu erfassen
+und die Umsetzungsma&#223;nahmen der KI-Strategie darauf auszurichten und zu bewerten, stellt die
+Bundesregierung Indikatoren zusammen. Aktuell umfassen diese unter anderem Indikatoren zum Einsatz von KI in der
+Wirtschaft, in Studium und Lehre sowie zur Anzahl von KI-Publikationen im internationalen Vergleich und zur 
+Wahrnehmung von KI in der Gesellschaft. Die Indikatoren werden stetig weiterentwickelt und durch
+Indikatoren aus weiteren Bereichen erg&#228;nzt.
+Eine im Fr&#252;hjahr 2020 ver&#246;ffentlichte Studie zum &#8222;Einsatz von K&#252;nstlicher Intelligenz in der Deutschen
+Wirtschaft&#8220; gibt erstmalig einen &#220;berblick zum aktuellen Stand der Nutzung von KI in den Unternehmen. Anhand
+von Indikatoren wird aufgezeigt, in welchen Branchen, welchem Umfang und mit welcher Zielrichtung KI im
+Jahr 2019 eingesetzt worden ist. Die Studie ist Teil eines umfassenden Forschungsauftrags zum Thema
+Digitalisierung, den die Bundesregierung f&#252;r einen Zeitraum von zun&#228;chst drei Jahren beauftragt hat.5 Auch k&#252;nftig 
+wird es im Rahmen des Forschungsvorhabens weitere Studienberichte zum Einsatz von KI in den Unternehmen
+geben, um die Entwicklung und m&#246;gliche Bedarfe im Bereich des Einsatzes von KI in der Wirtschaft zu
+erfassen.
+Zudem wird das Observatorium K&#252;nstliche Intelligenz in Arbeit und Gesellschaft der Bundesregierung
+(KI-Observatorium) Indikatoren entwickeln, die speziell den Einsatz von KI in Arbeit und Gesellschaft erfassen
+und bewerten. Dazu organisierte das KI-Observatorium im Mai 2020 einen Workshop mit Expertinnen und 
+Experten aus Wirtschaft, Wissenschaft, Politik, Sozialpartnern und zivilgesellschaftlichen Organisationen, um
+&#252;ber die Potenziale und Herausforderungen bei der Entwicklung von geeigneten KI-Indikatoren f&#252;r den Bereich
+Arbeit und Gesellschaft zu diskutieren und bereits erste konkrete Indikatoren anzudenken. Diese Indikatoren
+werden nun im Austausch mit den Expertinnen und Experten weiterentwickelt. Im Jahr 2021 sollen erste
+Indikatoren zu KI in Arbeit und Gesellschaft auf der Webseite des KI-Observatoriums ver&#246;ffentlicht werden.  
+Auch die Plattform Lernende Systeme analysiert in ihren Arbeitsgruppen fortlaufend den Einsatz von KI in
+unterschiedlichen Bereichen und er&#246;rtert die Chancen, Herausforderungen und Rahmenbedingungen f&#252;r die
+Entwicklung und den verantwortungsvollen Einsatz Lernender Systeme. Aus den Ergebnissen leitet sie
+Szenarien, Empfehlungen, Gestaltungsoptionen oder Roadmaps ab. Auf einer KI-Landkarte stellt die Plattform zudem 
+aktuelle Anwendungen und Projekte, Forschungsinstitutionen und Transferaktivit&#228;ten zusammen.
+Das Projekt &#8222;Messung des Digitalisierungsgrades der deutschen Wirtschaft&#8220; wird von einem Projektkonsortium, bestehend aus dem
+ZEW &#8211; Leibniz-Zentrum f&#252;r Europ&#228;ische Wirtschaftsforschung GmbH Mannheim (Konsortialf&#252;hrer), dem Institut der deutschen
+Wirtschaft K&#246;ln e. V., das Institut der deutschen Wirtschaft K&#246;ln Consult GmbH, dem Forschungsinstitut f&#252;r Rationalisierung e. V. 
+an der RWTH Aachen und dem Deutschen Institut f&#252;r Wirtschaftsforschung e. V. durchgef&#252;hrt.
+5
+Ausgangslage 2020 
+Seit November 2018, dem Zeitpunkt der Verabschiedung der Strategie K&#252;nstliche Intelligenz der
+Bundesregierung, hat es eine Reihe von Entwicklungen gegeben, die sowohl die nationale als auch die europ&#228;ische und
+internationale Ebene betreffen. Insbesondere die COVID-19-Pandemie hat die Menschen, das gesellschaftliche
+Leben und die Wirtschaft vor gro&#223;e und neue Herausforderungen gestellt. Das Potenzial von KI, hierauf
+Antworten zu finden, muss genutzt werden. KI kann bei der Bew&#228;ltigung von Pandemien unterst&#252;tzen, zum Beispiel 
+bei der Pandemievorhersage, zur Beobachtung und Modellierung des Verlaufs der Epidemie oder der
+Wirksamkeit unterschiedlicher Interventionen und bei der Forschung, unter anderem bei der Impfstoffentwicklung.
+Gleichzeitig sind die Anwendungsf&#228;lle von KI-Technologien durch Nebeneffekte der Pandemie an vielen
+Stellen gestiegen, beispielsweise durch die vermehrte Nutzung von Kaufangeboten in Onlineshops, steigende
+Nutzung KI-basierter Cybersecurity in der Wirtschaft und um KI-gest&#252;tzte Desinformation und individualisierte
+Phishing-Angriffe durch diffuse Akteure entgegenzuwirken.
+Um Deutschland im Kampf gegen die COVID-19 Pandemie zu st&#228;rken und die Grundlagen f&#252;r die
+Wettbewerbsf&#228;higkeit Deutschlands in und nach der Pandemie zu legen, hat die Bundesregierung ihr Engagement f&#252;r
+Zukunftstechnologien wie KI noch einmal deutlich verst&#228;rkt. Mit dem Konjunktur- und Zukunftspaket werden
+die Investitionen des Bundes in KI bis 2025 von drei auf f&#252;nf Milliarden Euro erh&#246;ht. Aus diesen Mitteln sollen
+insbesondere die Recheninfrastruktur modernisiert und Rechenkapazit&#228;ten durch neue Supercomputer erh&#246;ht, 
+die systematische digitale Bereitstellung von Daten bisher nicht zug&#228;nglicher Datenpools gef&#246;rdert, die
+KI-Kompetenzzentren langfristig gest&#228;rkt und mit der regionalen Wirtschaft in Anwendungshubs verzahnt
+und KI-&#214;kosysteme von internationaler Strahlkraft aufgebaut werden, um so die Basis f&#252;r ein europ&#228;isches
+KI-Netzwerk und die Wettbewerbsf&#228;higkeit von KI &#8222;Made in Europe&#8220; zu legen. 
+Die Bundesregierung hat im November 2019 Eckpunkte einer Datenstrategie ver&#246;ffentlicht. Im Rahmen einer
+breiten &#246;ffentlichen Konsultation und einer Vielzahl von Expertengespr&#228;chen erarbeitet die Bundesregierung
+aktuell eine Datenstrategie, die unter anderem darauf abzielt, verantwortungsvoll und unter Beachtung der
+datenschutzrechtlichen Regelungen die Datenbereitstellung und -nutzung f&#252;r s&#228;mtliche Beteiligte zu steigern.
+Datengetriebene Innovationen sollen dadurch gef&#246;rdert werden. Die Datenstrategie wird die Themen der
+Datenverf&#252;gbarkeit und -infrastrukturen adressieren.
+Aber auch vor dem Auftreten der aktuellen Pandemie und den sich daraus ergebenden Fragestellungen hat es
+bereits in vielen Bereichen KI-spezifische Entwicklungen gegeben:
+In Deutschland hat 2019 die Kommission Wettbewerbsrecht 4.0 ihren Bericht &#8222;Ein neuer Wettbewerbsrahmen
+f&#252;r die Digitalwirtschaft&#8220; vorgelegt. Das am 9. September 2020 vom Kabinett verabschiedete GWB-
+Digitalisierungsgesetz6 greift mehrere Empfehlungen der Kommission auf und setzt diese um, wo dies essentiell f&#252;r
+funktionierenden Wettbewerb ist, etwa mit Blick auf die Verbesserung des Zugangs zu Daten. Die Enquete-
+Kommission K&#252;nstliche Intelligenz &#8211; Gesellschaftliche Verantwortung und wirtschaftliche, soziale und
+&#246;kologische Potenziale des 19. Deutschen Bundestages hat im Oktober 2020 ihren Abschlussbericht mit konkreten 
+Handlungsempfehlungen vorgelegt, der am 5. November vom Deutschen Bundestag abschlie&#223;end beraten
+wurde. Am 23. Oktober 2019 hat die Datenethikkommission einen Bericht mit 75 Handlungsempfehlungen zum
+Umgang mit Daten und mit algorithmischen Systemen (einschlie&#223;lich KI-Systemen) vorgelegt. 2019 hat auch
+der Wissenschaftliche Beirat der Bundesregierung Globale Umweltver&#228;nderungen sein Hauptgutachten
+&#8222;Unsere gemeinsame digitale Zukunft&#8222; sowie zwei weitere Papiere erstellt, in denen Zusammenh&#228;nge zwischen
+Digitalisierung und Nachhaltigkeit umfassend analysiert sowie Handlungs- und Forschungsempfehlungen in
+konkreten Handlungsfeldern aufgezeigt werden. Auch verschiedene Branchenverb&#228;nde haben
+Handlungsempfehlungen f&#252;r den Umgang mit KI ver&#246;ffentlicht. 
+Die Europ&#228;ische Kommission ver&#246;ffentlichte im Dezember 2018 einen koordinierten Plan f&#252;r KI mit
+Vorschl&#228;gen f&#252;r konkrete Ma&#223;nahmen der Europ&#228;ischen Union (EU), die aus Programmen sowohl des aktuellen als auch
+des zuk&#252;nftigen Mehrj&#228;hrigen Finanzrahmens durchzuf&#252;hren sind (Horizon 2020, Digital Europe und Horizon
+Europe). Erg&#228;nzend werden die Mitgliedstaaten zu entsprechenden Investitionen aufgefordert. Am 8. April
+2019 ver&#246;ffentlichte die durch die Kommission eingesetzte Hochrangige Expertengruppe f&#252;r KI &#8222;Ethische
+Leitlinien f&#252;r vertrauensw&#252;rdige KI&#8222; und am 26. Juni 2019 &#8222;Policy and Investment Recommendations for
+Trustworthy AI&#8220;. Darauf aufbauend hat die Kommission am 19. Februar 2020 das &#8222;Wei&#223;buch zur K&#252;nstlichen
+Intelligenz &#8722; ein europ&#228;isches Konzept f&#252;r Exzellenz und Vertrauen&#8222; vorgelegt. Das Wei&#223;buch umfasst politische
+Zehntes Gesetz zur &#196;nderung des Gesetzes gegen Wettbewerbsbeschr&#228;nkungen f&#252;r ein fokussiertes, proaktives und digitales
+Wettbewerbsrecht 4.0
+6
+Ma&#223;nahmen und Handlungsoptionen, um zum einen die Anwendung von KI im europ&#228;ischen Binnenmarkt zu 
+f&#246;rdern und zum anderen damit verbundene Risiken zu adressieren. Begleitend wurde ein &#8222;Bericht &#252;ber die
+Auswirkungen k&#252;nstlicher Intelligenz, des Internets der Dinge und der Robotik in Hinblick auf Sicherheit und
+Haftung&#8222; ver&#246;ffentlicht. An dem damit verbundenen Konsultationsverfahren hat sich auch die Bundesregierung
+in Form einer Stellungnahme beteiligt. Das Europ&#228;ische Parlament hat im Juni 2020 einen Sonderausschuss zu
+KI im digitalen Zeitalter eingesetzt. Au&#223;erdem wurden im Oktober 2020 Empfehlungen zu einem Rahmen f&#252;r
+die ethischen Aspekte von KI, Robotik und damit zusammenh&#228;ngenden Technologien sowie Empfehlungen zu 
+zivilrechtlicher Haftung beim Einsatz von KI ver&#246;ffentlicht. 
+Die Organisation f&#252;r wirtschaftliche Zusammenarbeit und Entwicklung (OECD) hat am 22. Mai 2019 die ersten,
+auf internationaler Ebene abgestimmten Empfehlungen zu KI beschlossen. Sie umfassen Prinzipien zum
+zuverl&#228;ssigen Umgang mit vertrauensw&#252;rdiger KI (&#8222;responsible stewardship of trustworthy AI&#8220;) sowie Politik- und
+Kooperationsempfehlungen. Gleichlautende Prinzipien haben im Juni 2019 &#252;berdies die G20-Staaten
+angenommen. Ferner wurde durch die OECD das AI Policy Observatory er&#246;ffnet und ein umfangreiches
+Arbeitsprogramm zu KI und Arbeit, Innovation, Produktivit&#228;t und Kompetenzen aufgelegt, das Deutschland ma&#223;geblich
+unterst&#252;tzt. Am 15. Juni 2020 wurde auf Initiative von Kanada und Frankreich die Global Partnership on AI
+(GPAI) gestartet, bei der auch Deutschland Gr&#252;ndungsmitglied ist. Diese langfristig angelegte internationale
+Multistakeholder-Initiative, die f&#252;hrende und unabh&#228;ngige Expertinnen und Experten aus Wissenschaft,
+Wirtschaft und Zivilgesellschaft aus verschiedensten L&#228;ndern zusammenbringt, soll komplement&#228;r zur OECD die
+verantwortungsbewusste Anwendung von KI unterst&#252;tzen. Eine erste Multistakeholder-Konferenz ist f&#252;r Ende
+2020 geplant. Auf Ebene des Europarats hat im November 2019 der neu eingerichtete Ad-hoc Ausschuss f&#252;r
+K&#252;nstliche Intelligenz (CAHAI) seine Arbeit aufgenommen. Innerhalb eines zweij&#228;hrigen Mandats wird er im
+Rahmen eines breit angelegten Stakeholder-Dialogs die Machbarkeit sowie m&#246;gliche Elemente eines
+Rechtsrahmens f&#252;r die Entwicklung, Gestaltung und Anwendung von KI auf der Grundlage der Normen des Europarats
+auf dem Gebiet der Menschenrechte, Demokratie und Rechtsstaatlichkeit untersuchen. Die Bundesregierung
+begleitet die Arbeit des CAHAI aktiv.
+Enquete-Kommission &#8222;K&#252;nstliche Intelligenz &#8211; Gesellschaftliche Verantwortung und wirtschaftliche,
+soziale und &#246;kologische Potentiale&#8220; 
+Die Enquete-Kommission &#8222;K&#252;nstliche Intelligenz &#8211; Gesellschaftliche Verantwortung und wirtschaftliche, 
+soziale und &#246;kologische Potentiale&#8220; des 19. Deutschen Bundestages hat den Einfluss von KI auf unser
+(Zusammen-)Leben, die deutsche Wirtschaft und die zuk&#252;nftige Arbeitswelt untersucht und die Chancen und 
+Herausforderungen von KI f&#252;r Gesellschaft, Staat und Wirtschaft er&#246;rtert. Darauf aufbauend hat die Enquete-
+Kommission staatliche Handlungsbedarfe identifiziert. Die Bundesregierung hat die Arbeit der Enquete-
+Kommission KI aufmerksam verfolgt und nimmt in der Fortschreibung der KI-Strategie in allen
+Handlungsfeldern relevante Impulse aus der Arbeit der Enquete-Kommission auf.
+Schwerpunkte der KI-Strategie
+Aufgrund der rasant fortschreitenden technologischen Entwicklung und der sich wandelnden wirtschaftlichen,
+gesellschaftlichen und politischen Rahmenbedingungen werden auch die Initiativen der KI-Strategie fortlaufend
+weiterentwickelt. Dazu steht die Bundesregierung in engem Austausch mit Wissenschaft, Wirtschaft, und
+Gesellschaft sowie den L&#228;ndern, der EU und anderen nationalen und internationalen Akteuren. 
+Die im Folgenden vorgenommene Fortschreibung der Ma&#223;nahmen der Bundesregierung gliedert sich
+entsprechend folgender Schwerpunkte der Strategie: K&#246;pfe (fachliche Expertise), Forschung, Transfer und
+Anwendung, Ordnungsrahmen sowie Gesellschaft. Dabei stehen insbesondere die Themen Pandemiebek&#228;mpfung, 
+Umwelt- und Klimaschutz sowie europ&#228;ische und internationale Vernetzung im Zentrum der Initiativen. 
+Mit der Fortschreibung setzt sich die Bundesregierung daf&#252;r ein, dass Technologie dem Menschen nutzt und
+die weitere Entwicklung und Anwendung von KI an den Zielen f&#252;r nachhaltige Entwicklung (SDGs7)
+ausgerichtet wird, denen sie sich im Rahmen der Agenda 2030 der Vereinten Nationen (VN) verpflichtet hat. Sie setzt
+sich ebenso daf&#252;r ein, dass alle Stakeholder im Bereich der KI ihrer jeweiligen Verantwortung zur Achtung von
+Menschenrechten gerecht werden. Dabei spielt auch die internationale Vernetzung mit Entwicklungs- und 
+Schwellenl&#228;ndern eine wichtige Rolle, um diesen L&#228;ndern eine Teilhabe an der Nutzung von KI-Technologien
+und Entwicklung von KI-Anwendungen f&#252;r nachhaltige wirtschaftliche, &#246;kologische und soziale Entwicklung
+zu erm&#246;glichen. 
+Zudem wird sich die Bundesregierung daf&#252;r einsetzen, dass die Technologie sowohl energie- und
+ressourcenschonend gestaltet als auch als Instrumentarium f&#252;r den Erhalt der Umwelt genutzt wird. Dabei werden auch
+die direkten und indirekten Umweltwirkungen in den Blick genommen, um Rebound-Effekte und
+Verlagerungen der Umweltlasten zu beachten.
+Zahlreiche Ma&#223;nahmen zur F&#246;rderung und Anwendung von KI befinden sich bereits in der Umsetzung und
+sind in ihren finanziellen Auswirkungen im geltenden Finanzplan abgebildet. &#220;ber die urspr&#252;nglich
+vorgesehenen Mittel hinaus stehen zus&#228;tzlich 2 Mrd. Euro aus dem Zukunftspaket der Bundesregierung zur Verf&#252;gung,
+f&#252;r deren Aufteilung ein Gesamtkonzept erstellt wird. F&#252;r einen dar&#252;ber hinausgehenden Finanzierungsbedarf
+zur Umsetzung der Strategie bedarf es einer unmittelbaren, vollst&#228;ndigen und dauerhaften Gegenfinanzierung.
+K&#246;pfe
+Der sehr kompetitive Arbeitsmarkt f&#252;r KI-Expertinnen und Experten stellt Unternehmen, Hochschulen und
+Forschungseinrichtungen vor gro&#223;e Herausforderungen, qualifizierte Personen f&#252;r offene Stellen im KI-Bereich
+zu finden. Insbesondere im Wettbewerb um hochqualifizierte KI-Fachkr&#228;fte in Forschung und Entwicklung
+konkurriert Deutschland mit anderen L&#228;ndern und zahlreichen global agierenden Unternehmen8. Vor allem an
+Standorten ohne bereits existierenden KI-Schwerpunkt wird es zunehmend schwieriger, KI-Forschung zu
+etablieren. Daher ist es f&#252;r die Bundesregierung von herausragender Bedeutung, durch Studium sowie Aus- und
+Weiterbildung mehr Fachkr&#228;fte zu gewinnen und ein attraktives Arbeits- und Forschungsumfeld f&#252;r
+Wissenschaftlerinnen und Wissenschaftler zu schaffen.
+Attraktive Arbeitsbedingungen am Wissenschaftsstandort Deutschland
+Die Bundesregierung will gemeinsam mit den L&#228;ndern und der Wirtschaft langfristig international
+herausragende fachliche Expertise am Wissenschaftsstandort Deutschland sichern und bekr&#228;ftigt in diesem
+Zusammenhang ihr Ziel, die Einrichtung von 100 neuen Professuren f&#252;r KI an deutschen Hochschulen zu f&#246;rdern. Ein
+Beispiel ist die neu geschaffene Alexander von Humboldt-Professur f&#252;r KI f&#252;r international renommierte
+Wissenschaftlerinnen und Wissenschaftler. Weitere KI-Professuren sind an den Kompetenzzentren f&#252;r KI-
+Forschung geplant. Hier wird das enge Forschungsnetzwerk der Zentren f&#252;r besonders attraktive
+Rahmenbedingungen f&#252;r Wissenschaftlerinnen und Wissenschaftler aus dem In- und Ausland sorgen. Gemeinsam mit den
+L&#228;ndern f&#246;rdert der Bund auch im Rahmen des Tenure-Track-Programms und der Exzellenzstrategie die
+Schaffung von KI-Professuren.
+7 Am 25. September 2015 verabschiedeten die 193 Mitgliedstaaten der Vereinten Nationen die Agenda 2030 mit 17 Zielen f&#252;r
+nachhaltige Entwicklung (Sustainable Development Goals, SDGs)
+8 Der Global Talent Report 2019 weist eine Nettoabwanderung promovierter KI-Expertinnen und -Experten aus.
+Der Aufbau von KI-Professuren an Fachhochschulen / Hochschulen f&#252;r Angewandte Wissenschaften soll
+insbesondere KMU einbinden und eine st&#228;rkere Implementierung von KI im Mittelstand vorantreiben. Dar&#252;ber
+hinaus soll ein Sonderprogramm des DAAD f&#252;r Masterstudierende und Doktorandinnen und Doktoranden
+aufgebaut werden, das internationalen Nachwuchs in ausgew&#228;hlten Programmen anwirbt und mit entsprechenden
+Anreizen f&#252;r KI-Spitzenforschung eine langfristige und wirkungsvolle Anziehungskraft in Deutschland
+entfaltet. Des Weiteren sollen KI-Challenges durchgef&#252;hrt werden, die das KI-anwendungsorientierte
+Innovationsgeschehen bef&#246;rdern und durch die entstehende Dynamik eine starke internationale Sichtbarkeit entfalten. In 
+diesem Rahmen soll ein deutscher KI-Preis &#8222;KI &#8211; Made in Germany&#8220; mit internationaler Strahlkraft etabliert 
+werden. Die Anschlussf&#228;higkeit der Ma&#223;nahmen der Bundesregierung f&#252;r ein kraftvolles Engagement der
+Bundesl&#228;nder wird sichergestellt.
+Vor dem Hintergrund der angespannten Arbeitsmarktsituation und um Karrierewege auch f&#252;r nachfolgende
+Generationen exzellenter Wissenschaftlerinnen und Wissenschaftlern zu erschlie&#223;en, ist die F&#246;rderung neuer
+KI-Professuren auf einen mehrj&#228;hrigen Zeitraum ausgelegt. Dar&#252;ber hinaus wird die Bundesregierung in
+Gespr&#228;chen mit den L&#228;ndern die Bedeutung attraktiver Bedingungen am Wissenschaftsstandort Deutschland
+betonen und f&#252;r verbesserte Gehaltsstrukturen f&#252;r KI-Professuren werben.
+Die Bundesregierung wird zudem einen besonderen Schwerpunkt auf die F&#246;rderung von
+Nachwuchswissenschaftlerinnen und -wissenschaftlern legen und bereits f&#252;r Promovierende und herausragende
+Masterstudierende attraktive Perspektiven im Wissenschaftssystem aufzeigen, denn sie sind die Professorinnen und
+Professoren von morgen. Dabei werden insbesondere Forschende an der Schnittstelle von KI zu anderen Disziplinen
+gef&#246;rdert. In Abstimmung mit ihren Zuwendungsgebern f&#246;rdert die Deutsche Forschungsgemeinschaft (DFG)
+interdisziplin&#228;re KI-Forschungsgruppen sowie Nachwuchsgruppen im renommierten Emmy-Noether-
+Programm und erschlie&#223;t so Karrierewege f&#252;r Nachwuchswissenschaftlerinnen- und wissenschaftler.
+KI-Fachkompetenzen st&#228;rken
+Um Deutschland zu einem weltweit f&#252;hrenden Standort f&#252;r die Erforschung, Entwicklung und Anwendung von
+KI zu machen, bedarf es einer breiten und bestens ausgebildeten Fachkr&#228;ftebasis. 
+Die Bundesregierung wird daher gemeinsam mit den L&#228;ndern die wissenschaftliche Qualifizierung von
+Studierenden mit KI-Kompetenzen ebenso wie die Verbesserung der Qualit&#228;t und Leistungsf&#228;higkeit der
+Hochschulbildung durch den verantwortungsvollen Einsatz von KI st&#228;rken. Die Bundesregierung wird Innovationen in
+der Hochschulbildung durch KI und Big Data, wie beispielsweise KI-gest&#252;tzte Entwicklungen von
+Hochschulkursen oder die Gestaltung von Lernumgebungen, weiter vorantreiben. Dadurch soll nicht nur die Forschung
+auf diesem Feld gef&#246;rdert, sondern auch der Transfer in den Regelbetrieb eingeleitet werden. So sollen sich 
+Projekte innerhalb spezifischer Schwerpunktthemen zum Beispiel der KI-gest&#252;tzten und automatischen
+Erstellung von Pr&#252;fungsaufgaben oder Lernpfaden, der KI-gest&#252;tzten R&#252;ckmeldung zu Lernprozessen oder KI-
+gest&#252;tzten Assistenten zur Analyse, Planung oder Organisation des Studiums widmen.  
+F&#252;r eine nachhaltige Sicherung von KI-Kompetenzen in Deutschland gilt es zugleich, bereits Jugendliche
+systematisch f&#252;r MINT-Themen, also Mathematik, Informatik, Naturwissenschaft und Technik, und darauf
+aufbauende Berufsperspektiven zu begeistern. Dieses Ziel verfolgt die Bundesregierung mit dem MINT-
+Aktionsplan, u. a. durch bundesweit gef&#246;rderte MINT-Cluster und die Kommunikationsoffensive #mintmagie. Die
+Bundesregierung will insbesondere Frauen st&#228;rker f&#252;r MINT-Berufe begeistern und so den Anteil an Studentinnen
+in MINT-F&#228;chern erh&#246;hen. Auch setzt sich die Bundesregierung daf&#252;r ein, dem bestehenden Fachkr&#228;ftemangel
+mit einem gezielteren Abbau von Benachteiligungen von qualifizierten Frauen zu begegnen.
+Bei der Sicherung des Fachkr&#228;ftebedarfs im Bereich KI setzt die Bundesregierung auf eine branchenorientierte 
+Herangehensweise, um passgenaue L&#246;sungen zu finden. Ausbildungsverordnungen werden angepasst. Neben
+der Schul-, Berufs- und Hochschulausbildung steht auch die betriebliche Qualifizierung und Weiterbildung f&#252;r
+die Entwicklung und Nutzung von KI im Fokus. Ebenso werden in der &#246;ffentlichen Verwaltung KI-
+Kompetenzen aufgebaut.
+Mit der &#8222;Nationalen Weiterbildungsstrategie&#8220; setzt die Bundesregierung bereits ein breitenwirksames
+Instrumentarium zur F&#246;rderung der Kompetenzen von Erwerbst&#228;tigen im demografischen, digitalen und &#246;kologischen
+Wandel um. In Zukunft werden dabei verst&#228;rkt sowohl KI-spezifische Kompetenzen als auch KI-unterst&#252;tzte
+Anwendungen in den Blick genommen. 
+Die Bundesregierung wird die gesundheitsbezogene KI-Forschung und Entwicklung gezielter f&#246;rdern, um
+wissenschaftliche KI-Expertise auch im deutschen Gesundheitswesen zu halten. Dabei wird sie auch die Integration 
+von KI-Modulen in Aus- und Weiterbildung im Gesundheits- und Pflegebereich unterst&#252;tzen.
+Im Mobilit&#228;tssektor plant die Bundesregierung ein Ma&#223;nahmenpaket &#8222;KI f&#252;r innovative Mobilit&#228;tsl&#246;sungen&#8220;, 
+das unter anderem zur Sicherung des Fachkr&#228;ftenachwuchses und der KI-Kompetenzentwicklung im Bereich
+Mobilit&#228;tsforschung beitragen soll. 
+Zudem wird die Bundesregierung gemeinsam mit der Plattform Lernende Systeme Initiativen entwickeln, um
+hilfreiche Anwendungsf&#228;lle als Best Practice-Beispiele aufzubereiten und detailliert darzustellen, damit
+entsprechende Anreize auch f&#252;r andere Unternehmen geschaffen werden. 
+Dar&#252;ber hinaus f&#246;rdert die Bundesregierung den Aufbau und die Entwicklung technischer KI-Expertise im
+Globalen S&#252;den, um der hohen globalen Nachfrage effektiv zu begegnen. Dabei unterst&#252;tzt sie L&#228;nder effektiv, mit
+den Ver&#228;nderungen auf lokalen Arbeitsm&#228;rkten umzugehen.
+Forschung
+Die Bundesregierung f&#246;rdert KI-Forschung in Deutschland seit &#252;ber 30 Jahren. Im Ergebnis hat Deutschland
+im internationalen Vergleich eine gute Ausgangsposition: Deutsche KI-Forscherinnen und -Forscher
+kooperieren mit den renommiertesten Forschungsinstituten weltweit und ver&#246;ffentlichen ihre Arbeiten in den
+angesehensten Fachzeitschriften9. Dieses Fundament gilt es zu festigen und weiter auszubauen, um die technologische
+Souver&#228;nit&#228;t Deutschlands und Europas zu sichern und zu st&#228;rken.
+St&#228;rkung nationaler Forschungsstrukturen
+Zur weiteren St&#228;rkung des Wissenschaftsstandortes Deutschland wird die Bundesregierung den Ausbau der
+sechs schon bestehenden Kompetenzzentren f&#252;r KI-Forschung und deren Vernetzung regional, national und
+international weiter forcieren. Ziel ist es, einen Forschungs- und Lehrverbund an deutschen Universit&#228;ten zu 
+etablieren, der unterschiedliche KI-Expertise lokal b&#252;ndelt, mit Unternehmen der Regionen vor Ort und im
+Verbund mit Anwendungshubs Innovationen bef&#246;rdert und als renommiertes Netzwerk auch internationales
+Ansehen genie&#223;t. Vorgesehen ist, die bestehenden Zentren an den Universit&#228;ten in Berlin, Dresden/Leipzig,
+Dortmund/St. Augustin, M&#252;nchen und T&#252;bingen sowie das Deutsche Forschungszentrum f&#252;r K&#252;nstliche
+Intelligenz mit weiteren einzurichtenden Anwendungshubs zu einem Netzwerk aus mindestens zw&#246;lf Zentren und
+Hubs zu verzahnen. In diesem Rahmen ist auch die Einrichtung zus&#228;tzlicher Innovationszentren f&#252;r intelligente
+Mobilit&#228;t geplant. Unter der Pr&#228;misse einer exzellenten wissenschaftlichen Evaluierung wird die
+Bundesregierung gemeinsam mit den L&#228;ndern die F&#246;rderung der f&#252;nf universit&#228;ren Kompetenzzentren verstetigen. Der
+zunehmende Einsatz von KI geht in erster Linie auf die gestiegene Verf&#252;gbarkeit gro&#223;er Rechenkapazit&#228;ten
+zur&#252;ck, die den praktischen Einsatz von KI-Anwendungen erm&#246;glichen. Auch die KI-Forschung in Deutschland
+muss &#252;ber Zugang zu modernen und leistungsf&#228;higen Rechnerinfrastrukturen verf&#252;gen. Die Bundesregierung
+leistet dazu einen wichtigen Beitrag im Zuge des Ausbaus der Kompetenzzentren f&#252;r KI-Forschung und &#252;ber
+die F&#246;rderung des High Performance Computing (HPC): Um deutschlandweit passende Rechenkapazit&#228;ten
+aufzubauen, wird die Bundesregierung gemeinsam mit den jeweiligen Bundesl&#228;ndern &#8211; neben dem Aufbau des
+Nationalen Hochleistungsrechnens (NHR) &#8211; den Ausbau des Gauss Centre for Supercomputing auf Exascale-
+Kapazit&#228;t beschleunigt vorantreiben. Dabei werden insbesondere auch k&#252;nftige Spitzenbedarfe von KI-
+Anwendungen und f&#252;r die Analyse gro&#223;er Datenmengen ber&#252;cksichtigt sowie ein besonderes Augenmerk auf Energie-
+und Ressourceneffizienz sowie Nutzungsm&#246;glichkeiten durch die Industrie gelegt. Eine Anbindung an 
+GAIA-X und den Datenraum Mobilit&#228;t soll dabei eine neue und vertrauensw&#252;rdige Br&#252;cke in die wirtschaftliche
+Anwendung wie bspw. Industrie 4.0 schaffen.
+Die stetig zunehmende Beschleunigung technologischer Entwicklungen hat auch Auswirkungen auf das
+wissenschaftliche Arbeiten und den Transfer von Ergebnissen in die Praxis. Die Bundesregierung reagiert auf diese
+Entwicklungen beispielsweise mit der Agentur f&#252;r Sprunginnovationen, die ein neues flexibles und schnelles
+staatliches F&#246;rderinstrument auch im Bereich KI darstellt. Auch mit Initiativen wie dem
+Pilotinnovationswettbewerb &#8222;Energieeffizientes KI-System&#8220; schafft die Bundesregierung neue Agilit&#228;t in der Forschungsf&#246;rderung.
+Dar&#252;ber hinaus hat die Bundesregierung die Agentur f&#252;r Innovation in der Cybersicherheit (Cyberagentur)
+gegr&#252;ndet, welche Forschungsvorhaben &#8211; auch zu KI-Themen &#8211; zur Deckung des Bedarfs auf dem Gebiet der
+inneren und &#228;u&#223;eren Sicherheit Deutschlands im Cyberraum beauftragen wird. Mit der Cyberagentur will die
+Bundesregierung Deutschland zu mehr Technologie-Souver&#228;nit&#228;t in der Cybersicherheit verhelfen. Zus&#228;tzlich
+arbeitet die Zentralstelle f&#252;r Informationstechnik im Sicherheitsbereich (ZITiS) als Forschungs- und
+Entwicklungsdienstleister f&#252;r alle Sicherheitsbeh&#246;rden des Bundes daran die F&#228;higkeiten und Kompetenzen im Rahmen 
+Nach dem AI Index 2019 belegt Deutschland weltweit Rang f&#252;nf bei der Anzahl wissenschaftlicher KI-Ver&#246;ffentlichungen.9
+von KI-Themen auszubauen. So stellen die Cyberagentur und ZITiS einen wesentlichen Baustein der
+Bundesregierung zum Schutz der B&#252;rgerinnen und B&#252;rger, Verwaltung und Wirtschaft im Cyberraum dar.
+Europ&#228;ische und internationale Forschungskooperationen
+Die Bundesregierung wird die Internationalisierung der KI-Forschung weiter bef&#246;rdern und strebt den Aufbau
+eines weltweit f&#252;hrenden Europ&#228;ischen KI-Netzwerkes unter der Dachmarke &#8222;AI Made in Europe&#8220; an. Die EU
+ist der gr&#246;&#223;te KI-Think-Tank der Welt. Die Bundesregierung wird die Europ&#228;ische Kommission auch im
+Rahmen einer Teilfinanzierung darin unterst&#252;tzen, bestehende exzellente Strukturen auszubauen sowie vorhandene
+Expertise in einem europ&#228;ischen KI-Netzwerk mit internationaler Strahlkraft zu b&#252;ndeln und entsprechend der
+Maxime &#8222;St&#228;rken st&#228;rken&#8220; substanziell zu f&#246;rdern. Die Bundesregierung verfolgt das Ziel, die europ&#228;ische
+Vernetzung zu st&#228;rken und die europ&#228;ische Expertise in der gesamten Bandbreite zu mobilisieren, damit sich die
+EU als weltweit f&#252;hrender Taktgeber (AI Made in Europe) und Vorreiter &#8211; insbesondere in der Etablierung
+klarer ethischer Leitplanken, im Bereich der Grundlagenforschung und angewandten Forschung &#8211; mittel- wie
+langfristig durchsetzt und etabliert.
+Dar&#252;ber hinaus wird die Bundesregierung einen besonderen Schwerpunkt auf Kooperationen mit Frankreich,
+Kanada und Japan legen. Sie wird insbesondere die Vernetzung der deutschen KI-Kompetenzzentren und
+franz&#246;sischen KI-Institute in Form eines gemeinsamen deutsch-franz&#246;sischen KI-Forschungs- und
+Innovationnetzwerks weiter vorantreiben und dabei auch immer auf eine europ&#228;ische Erweiterbarkeit achten. Ziel ist die
+Etablierung eines europaweiten KI-Netzwerks im Einklang mit der KI-Strategie der Europ&#228;ischen Kommission, das
+dezentral den Transfer von KI-Anwendungen in die Praxis umsetzt und die konsequente Weiterentwicklung
+von Kompetenzen in Wissenschaft, Wirtschaft und Gesellschaft bef&#246;rdert. Die Bundesregierung unterst&#252;tzt
+zudem die &#252;bergreifende Initiative der EUREKA-Cluster eines gemeinsamen F&#246;rderaufrufs &#8211; &#8222;Synchronized
+Call&#8220; &#8211; zu KI.
+Bei Kooperationen mit anderen Drittstaaten wird die Bundesregierung darauf achten, dass sie den deutschen
+und europ&#228;ischen Interessen dienen und gemeinsame europ&#228;ische Werte gew&#228;hrt sind, einschlie&#223;lich
+Menschenrechte und Sicherheitsinteressen.
+Interdisziplin&#228;re Forschung und nachhaltige Verwertung
+Die Anwendung von KI-Methoden birgt f&#252;r sehr verschiedene Wissenschaftsbereiche ein innovatives Potenzial,
+etwa in den Bereichen Energie, Mobilit&#228;t, Klima, Umwelt und Kreislaufwirtschaft, der Bio&#246;konomie, der
+Physik, der Biologie, der Biotechnologie, der Medizin sowie der Materialentwicklung und Materialforschung und
+in Produktionsabl&#228;ufen. KI ist hier als sogenannte &#8222;enabling technology&#8220; zu verstehen, die in ihrer Anwendung
+die korrespondierenden Wissenschaftsfelder zu neuen Leistungen und Ergebnissen bef&#228;higen wird. Deshalb gilt
+es insbesondere, die Interdisziplinarit&#228;t der KI-Forschung weiter zu st&#228;rken und KI-Expertise mit
+sektorspezifischem Fachwissen zu verbinden. Die Bundesregierung wird daher besonders die Verkn&#252;pfung und den
+Austausch zwischen Informatik und angewandter Mathematik mit weiteren Disziplinen unterst&#252;tzen, auch im
+Umfeld von nationalen und internationalen Forschungsinfrastrukturen. Die F&#246;rderung von KI-Forschung und -
+Entwicklung durch die Bundesregierung erfolgt grunds&#228;tzlich anwendungs- und l&#246;sungsorientiert. Die Auswahl
+der eingesetzten oder weiterzuentwickelnden KI-Verfahren leitet sich aus den dom&#228;nen- oder
+problemspezifischen Besonderheiten ab. So kommen sowohl symbolische als auch lernende Verfahren und Kombinationen
+daraus gleicherma&#223;en in Betracht.
+Die Bundesregierung wird insbesondere in k&#252;nftigen F&#246;rderprogrammen projekt&#252;bergreifende Anreize f&#252;r eine
+nachhaltige Ergebnisverwertung schaffen, etwa durch Bereitstellung von Algorithmen in Form von Open
+Source, durch eine Weitergabe der aufbereiteten Projektdaten zum Beispiel als Open AI Training Data oder den
+intensiven Erfahrungsaustausch zwischen Wissenschaftlerinnen und Wissenschaftlern zu Best Practices ebenso
+wie zu etwaigen R&#252;ckschl&#228;gen. Zur Qualit&#228;tssicherung wird die Bundesregierung zudem ein besonderes
+Augenmerk auf die Nachvollziehbarkeit und &#220;berpr&#252;fbarkeit von Forschungsergebnissen bei der Bewertung oder
+Evaluation von Vorhaben legen. 
+In der Forschungsf&#246;rderung zur KI-Methodik wird die Bundesregierung einen neuen Schwerpunkt auf die
+Verbesserung von bestehenden Simulationsmodellen zur synthetischen Erzeugung realistischer und repr&#228;sentativer
+Daten f&#252;r besonders relevante Anwendungsgebiete sowie auf das Zusammenspiel von KI und komplexen
+Systemen legen. Indem die anwendungsorientierte Forschung an Fachhochschulen / Hochschulen f&#252;r Angewandte
+Wissenschaften intensiv gef&#246;rdert wird, soll deren Rolle als Innovationsmotor in den Regionen gest&#228;rkt werden.
+KI-Forschung f&#252;r Gesundheit und Pflege
+Die Bundesregierung wird die Medizininformatik-Initiative um eine weitere vierj&#228;hrige F&#246;rderphase erg&#228;nzen
+und die entwickelten L&#246;sungen und Use Cases in weitere Einrichtungen der Gesundheitsversorgung ausrollen.
+So k&#246;nnen auch Patientinnen und Patienten von den Entwicklungen profitieren, die au&#223;erhalb von Unikliniken
+behandelt werden. Durch den Aufbau digitaler FortschrittsHubs Gesundheit wird der in den
+Universit&#228;tskliniken entwickelte Ansatz f&#252;r eine datenunterst&#252;tzte digitale Medizin in der breiten Krankenversorgung erprobt
+und dabei insbesondere der Einsatz KI gef&#246;rdert. Der Fokus liegt hier zun&#228;chst auf definierten
+Anwendungsfeldern, wie etwa Krebserkrankungen und Infektiologie. Mit strukturellen Ma&#223;nahmen wird die Bundesregierung
+zudem die Krankenversorgung sowie Forschung durch Datenaustausch und digitale L&#246;sungen im Pandemie-
+Fall verbessern und zugleich den Schutz personenbezogener Daten gew&#228;hrleisten.
+Die Bundesregierung wird die wissenschaftsbasierten Qualit&#228;tskriterien f&#252;r medizinische Studiendesigns (zum
+Beispiel zur Nutzung externer Datens&#228;tze) sowie die Forschungsf&#246;rderung zu spezifischen Herausforderungen
+der KI in der Gesundheit weiter st&#228;rken. Zudem soll die Qualit&#228;tsinfrastruktur in der Universit&#228;tsmedizin
+weiterentwickelt und gef&#246;rdert werden, damit standardisiert erhobene und qualitativ hochwertige,
+gesundheitsrelevante Daten f&#252;r die KI-getriebene Gesundheitsforschung schnell und breit zur Verf&#252;gung stehen. Ferner wird 
+die Bundesregierung den Einsatz von KI in der Arzneimittelforschung, in der Modellierung von Epidemie-
+Verl&#228;ufen und bei Forschung und Entwicklung medizintechnischer L&#246;sungen f&#252;r die digitale
+Gesundheitsversorgung unterst&#252;tzen.
+Derzeit sondiert die Bundesregierung im Rahmen der Initiative Pflegeinnovationen 2030 den Einsatz von 
+KI-Systemen im Hinblick auf Bedarfe, Anwendungsszenarien, Rahmen- und Gelingensbedingungen f&#252;r
+Forschung und Entwicklung. Mit einem daraus resultierenden neuen F&#246;rderschwerpunkt im Bereich der
+interaktiven Technologien f&#252;r Gesundheit und Lebensqualit&#228;t werden wir die Chancen von Digitalisierung und KI in
+der Pflege bedarfsorientiert erschlie&#223;en.
+KI-Forschung zum Schutz von Umwelt und Klima
+Die Bundesregierung wird die Potenziale von KI f&#252;r eine nachhaltige, insbesondere umwelt- und klimagerechte
+Lebens- und Wirtschaftsweise systematisch identifizieren und durch die F&#246;rderung KI-basierter Instrumente
+zur L&#246;sung konkreter Herausforderungen f&#252;r eine nachhaltige Entwicklung heben. KI kann entscheidend dazu
+beitragen, die Ziele des Europ&#228;ischen Gr&#252;nen Deals und die Nachhaltigkeitsziele der Agenda 2030 der Vereinen
+Nationen zu erreichen. Konkrete Chancen liegen beispielsweise in den Anwendungsfeldern Erneuerbare
+Energien und Energiesysteme, Energieeffizienz, Ressourcenschutz und Kreislaufwirtschaft, Gew&#228;sserschutz und
+Wasserwirtschaft, Immissionsschutz und Gesundheit, Naturschutz und Mobilit&#228;t. Auch f&#252;r die Nationale
+Bio&#246;konomiestrategie, die die Etablierung einer nachhaltigen biobasierten Wirtschaftsweise umsetzt, besitzt die
+KI immense Potenziale, um sowohl die Prim&#228;rproduktion von Biomasse als auch ihre Nutzung in vielf&#228;ltigen 
+Produktions- und verfahrenstechnischen Prozessen zu optimieren und weiterzuentwickeln. 
+Die Bundesregierung wird die erfolgreich gestartete F&#246;rderinitiative KI-Leuchtt&#252;rme f&#252;r Umwelt, Klima, Natur
+und Ressourcen fortf&#252;hren, ausbauen und mit Schwerpunkten auf die F&#246;rderung von KI-Innovationen f&#252;r den
+Klimaschutz sowie die Ressourceneffizienz von KI-Anwendungen weiterentwickeln. Dabei st&#228;rkt sie die
+Verkn&#252;pfung von KMU, Start-ups und gemeinwohlorientierten Akteurinnen und Akteuren mit der Forschung, um
+den Transfer und die Anwendung von Forschungsergebnissen in die Breite von Wirtschaft und Gesellschaft zu 
+bef&#246;rdern. Die Bundesregierung wird in der Forschung zu Klimawandel, Klimaschutz und Klimaanpassung
+zudem Potenziale heben, die in der Verkn&#252;pfung von KI und dem High Performance Computing liegen, sowie
+den Einsatz von KI in der Satellitenerdbeobachtung zur Entwicklung innovativer Anwendungen f&#252;r
+nachhaltiges Wirtschaften weiter f&#246;rdern. Die rechenintensive Analyse komplexer Klima- und Umweltdaten erm&#246;glicht
+es, fr&#252;hzeitig relevante Umweltver&#228;nderungen zu erkennen und ihnen zu begegnen.
+Um die Anwendung von KI in &#246;kologisch und gesellschaftlich besonders wichtigen Anwendungsfeldern
+voranzutreiben, plant die Bundesregierung den Aufbau eines Anwendungshubs im Bereich der Kreislaufwirtschaft
+zu f&#246;rdern. Ziel der Forschungs- und Entwicklungsarbeiten des Hubs ist es, durch KI-gest&#252;tztes
+kreislaufgerechtes Produktdesign, smarte Sensorik und Tracking-Technologien f&#252;r Sammlung, Sortierung und Recycling 
+den Rezyklateinsatz zu erh&#246;hen, Kunststoffe l&#228;nger und effizienter zu nutzen und Plastikeintr&#228;ge in die Umwelt
+zu vermeiden. Der Hub soll die Innovationskraft Deutschlands in den wichtigen M&#228;rkten der Umwelt- und 
+Nachhaltigkeitstechnologien st&#228;rken und die Technologief&#252;hrerschaft deutscher Unternehmen in der
+Kreislaufwirtschaft sichern.
+KI umweltvertr&#228;glich gestalten
+Die Bundesregierung wird die F&#246;rderung von Forschung in der Verbindung von Digitalisierung und
+&#246;kologischer Nachhaltigkeitsziele konsequent weiter ausbauen. Ziel ist es, energie- und ressourcensparsame
+Informations- und Kommunikationstechnik (Green ICT) und die Anwendung intelligenter digitaler L&#246;sungen f&#252;r mehr
+Klima- und Ressourcenschutz sowie Nachhaltigkeit (Digital GreenTech) voran zu bringen. F&#252;r die Nutzung
+von rechenintensiven KI-Methoden ist eine optimierte Mikroelektronik essentiell, um Anforderungen an die
+Energieeffizienz und Rechenleistung angemessen zu adressieren. Deshalb sollen Investitionen an Hochschulen
+f&#252;r das dynamische Forschungsgebiet der KI-Elektronik gef&#246;rdert werden. Mit Ma&#223;nahmen zur Entwicklung
+spezifischer KI-Hardware wird sichergestellt, dass die typischerweise besonders ressourcenintensiven KI-
+Anwendungen in verschiedenen herausfordernden Anwendungsgebieten, wie z. B. beim autonomen Fahren, zum
+Einsatz kommen k&#246;nnen und gleichzeitig der Energie- und Ressourcenverbrauch deutlich reduziert werden
+kann. Um einen umwelt- und klimagerechten Einsatz von KI-Anwendungen voranzubringen, wird die
+Bundesregierung ein Konzept zur Umweltfolgenabsch&#228;tzung von KI entwickeln und ihre F&#246;rderung der Forschung zu
+den Umweltwirkungen von KI intensivieren. Sie wird dabei insbesondere die Erhebung empirischer Daten
+sowie eine systematische Analyse des CO2-Minderungspotenzials von KI unter Ber&#252;cksichtigung m&#246;glicher
+negativer Effekte (beispielsweise Rebound-Effekte) veranlassen.
+KI-Forschung in der Luft- und Raumfahrt
+Durch KI entstehen in der Luftfahrt neue Einsatzm&#246;glichkeiten im Bereich der adaptiven Fertigung und ganzen
+Fertigungsnetzwerken (Smart Factory), neue Marktmodelle f&#252;r Wartung und Reparatur von komplexen
+Flugzeugsystemen, aber auch neue M&#246;glichkeiten, den &#246;kologischen Fu&#223;abdruck des Flugzeuges zu verringern. 
+Datenplattformen stellen eine wichtige Grundlage dar, maschinelles Lernen und Mustererkennung wirkungsvoll
+in den operativen Betrieb zu integrieren. Um das ganze Potenzial dieser Systeme auch f&#252;r sicherheitskritische
+Anwendungen in der Luftfahrt erschlie&#223;en zu k&#246;nnen, wird an neuen Ans&#228;tzen zur Nachvollziehbarkeit von
+Entscheidungsfindungen innerhalb der lernf&#228;higen Algorithmen gearbeitet. Eine der vielversprechendsten
+Anwendungen wartet in der Urban Air Mobility, dem pilotenlosen Fliegen in der Zukunft. Aus diesem Grund
+m&#252;ssen KI-Systeme f&#252;r luftfahrtrelevante Anwendungen in besonderer Weise vor Cyber-Attacken gesch&#252;tzt
+werden. Auch hieran wird bereits mit Hochdruck geforscht. 
+Satelliten generieren Erdbeobachtungsinformationen, die z. B. bei der Entwicklung von Rohstoffpreisen, bei
+der Beobachtung und beim Monitoring der Auswirkungen des Klimawandels und der Risikovorsorge hohe
+Relevanz haben. Um diese Informationen im Zusammenspiel mit anderen Geoinformationen sowie Citizen-
+Science- und SocialMedia-Daten zu analysieren, zu bewerten und in wertvolle Geoinformation zu verwandeln,
+wird die Bundesregierung die Entwicklung neuer spezifischer KI-Verfahren f&#246;rdern. Dabei ist die Einbindung
+relevanter Anwenderdom&#228;nenexpertise in spezifische KI-Analyseverfahren zur Auswertung der
+Erdbeobachtungsdaten essentiell. Durch Open-Source Angebote wird dar&#252;ber hinaus die Implementierung
+erdbeobachtungsspezifischer Verfahren in Unternehmen unterst&#252;tzt.
+Durch die verst&#228;rkte F&#246;rderung von Satellitenerdbeobachtung k&#246;nnen umweltschonende Entwicklungen in den
+Bereichen Stadtentwicklung, Verkehr und Mobilit&#228;t vorangebracht sowie die Nachhaltigkeit in der Nutzung
+nat&#252;rlicher Ressourcen etwa in der Land- und Forstwirtschaft, Rohstoffgewinnung, Wasser- und
+Energiewirtschaft &#252;berpr&#252;fbar gemacht und besser gesteuert werden.
+KI-Forschung f&#252;r Mobilit&#228;t
+KI und selbstlernende Systeme sind f&#252;r die Mobilit&#228;t der Zukunft von zentraler Bedeutung. Sie helfen bei der
+Steigerung der Verkehrssicherheit ebenso wie bei der nachhaltigen Gestaltung des Verkehrssystems. Mit KI-
+gest&#252;tzten Logistiksystemen werden Kapazit&#228;ten so optimiert, dass die Umwelt von unn&#246;tigem Leerverkehr
+effektiv entlastet wird. Diese Entwicklung wird die Bundesregierung mit Innovationszentren f&#252;r intelligente
+Mobilit&#228;t gezielt st&#228;rken.
+Das automatisierte Fahren ist ein Standbein der Wettbewerbsf&#228;higkeit Deutschlands. Daher wird die
+Bundesregierung die F&#246;rderung der anwendungsnahen Forschung, Entwicklung und Erprobung zu komplexen Szenarien
+des autonomen Fahrens weiter ausbauen. Damit unterst&#252;tzt sie verkehrstr&#228;ger&#252;bergreifend den Aufbau von
+europ&#228;isch vernetzten Testfeldern und Reallaboren zur Erprobung neuer, KI-basierter Technologien in der Praxis
+gerade mit Blick auf eine ressourcenschonende und klimaneutrale Mobilit&#228;t. Neben Fragen der
+Umweltwirkungen sind zudem solche des Daten- und Verbraucherschutzes zu ber&#252;cksichtigen.
+KI in der Landwirtschaft
+Die Digitalisierung und KI spielen im Bereich der Ern&#228;hrung und Landwirtschaft eine immer gr&#246;&#223;ere Rolle.
+Die Bundesregierung hat deshalb eine Reihe von Forschungsvorhaben hierzu auf den Weg gebracht. Hierzu
+z&#228;hlen die digitalen Experimentierfelder in der Landwirtschaft, auf denen gezeigt wird, wie digitale und KI-
+Techniken optimal zum Schutz der Umwelt, Steigerung des Tierwohls und der Biodiversit&#228;t sowie zur
+Arbeitserleichterung eingesetzt werden k&#246;nnen. Sie sind auch Anlaufstellen f&#252;r interessierte Praktikerinnen und
+Praktiker und unterst&#252;tzen den Wissens- und Informationstransfer. Durch die Anwendung der KI in der
+Prim&#228;rproduktion von Biomasse wird sie ebenfalls die Umsetzung der Nationalen Bio&#246;konomiestrategie vorantreiben. 
+Transfer und Anwendung
+Mit den Ma&#223;nahmen zur Verst&#228;rkung des Transfers von KI-Wissen in die Anwendung verfolgt die
+Bundesregierung das Ziel, die Wettbewerbsf&#228;higkeit der deutschen und europ&#228;ischen Wirtschaft zu erhalten und durch
+breite Anwendung innovativer Technologien auszubauen.
+Implementierung in die Wirtschaft
+Speziell f&#252;r Start-ups leistet das etablierte F&#246;rderprogramm EXIST &#8211; Existenzgr&#252;ndungen aus der Wissenschaft
+einen wichtigen Beitrag, indem es den Transfer aus der Forschung in den Markt unterst&#252;tzt. Hierbei soll ein 
+neuer Schwerpunkt f&#252;r KI mit unterschiedlichen Einzelma&#223;nahmen den Anteil KI-basierter Ausgr&#252;ndungen
+steigern. Auch das internationale Startup-F&#246;rderprogramm German Accelerator soll aufgrund seiner
+bestehenden Vernetzung in Deutschland und aufgrund seiner Pr&#228;senz in den wichtigsten KI-Hubs weltweit (u. a. Silicon
+Valley, Boston f&#252;r Life Sciences sowie z. B. Singapur in Asien) einen deutlichen Beitrag zur
+Wettbewerbsf&#228;higkeit im Startup-Bereich leisten. Es dient dazu, den Anteil von High-Tech-Gr&#252;ndungen mit KI-Bezug zu
+erh&#246;hen und unterst&#252;tzt KI-basierte Gesch&#228;ftsmodelle dabei, schneller international zu wachsen.
+Wenngleich erhebliche Potenziale f&#252;r Effizienzsteigerungen und Wachstum f&#252;r Unternehmen aller Gr&#246;&#223;en
+bestehen, liegt politischer Handlungsbedarf vor allem in der Vermittlung von KI-Kompetenz an KMU. Eine Ende
+M&#228;rz 2020 von der Bundesregierung ver&#246;ffentlichte Studie zeigt, dass erst sechs Prozent aller befragten
+Unternehmen KI einsetzen. Davon verwenden rund vier Prozent KI in Produkten oder Dienstleistungen und erzielten 
+damit 2019 einen Umsatz von knapp 60 Milliarden Euro. Das entspricht rund einem Prozent des Umsatzes aller
+Unternehmen und rund acht Prozent des Umsatzes der KI einsetzenden Unternehmen.
+Die Bundesregierung wird Transfer- und Einsatzhemmnisse gezielt weiter abbauen und
+Unterst&#252;tzungsangebote ausbauen, um die Anwendung von KI in Unternehmen zu steigern. Dazu werden u. a. Informations- und
+Qualifikationsangebote zur Digitalisierung f&#252;r Unternehmen, insbesondere das erfolgreiche KI-Trainer-
+Programm bei den Mittelstand 4.0 Kompetenzzentren, erweitert und noch st&#228;rker in die Fl&#228;che gebracht. Ein 
+Schl&#252;ssel, um mehr KI in die Wirtschaft zu bringen, ist die Zusammenarbeit mit Multiplikatorinnen und
+Multiplikatoren. Deshalb werden Train-the-Trainer-Programme f&#252;r Multiplikatoren in Kammern und Verb&#228;nden
+unterst&#252;tzt und von den Mittelstand 4.0-Kompetenzzentren initiiert. Auf diese Weise kann eine intensivere
+Ansprache potenziell f&#252;r KI erschlie&#223;barer Unternehmen erfolgen und k&#246;nnen konkrete KI-Konzepte durch
+qualifizierte Berater entwickelt werden. Wichtig ist dabei, dass eine Wissensvermittlung auch an
+Entscheidungstragende gelingt. 
+Die Bundesregierung wird auch die engere Anbindung an KI-Forschungszentren f&#246;rdern, um aktuelle
+Forschung noch schneller in die Anwendung zu bringen.
+Die Bundesregierung wird Ma&#223;nahmen zur Steigerung des Bewusstseins des Energie- und
+Ressourcenverbrauchs von KI entwickeln. Die Entwicklung einer digitalen EMAS-Plattform soll Unternehmen darin
+unterst&#252;tzen, ihre Umweltauswirkungen so digital abzubilden, dass ihnen die Handhabung des
+Umweltmanagementsystems deutlich erleichtert wird. Gleichzeitig soll die neue Plattform dazu dienen, Verwaltungs- und
+Pr&#252;faufwand bei den Vollzugsbeh&#246;rden und Registrierungsstellen zu reduzieren, die am System beteiligt sind. 
+Der durch die Digitalisierung und KI-Methoden getriebene Aufschwung innovativer Mobilit&#228;tskonzepte, wie
+etwa zur Verkn&#252;pfung verschiedener Mobilit&#228;tsangebote oder im Bereich der unbemannten Luftfahrt, er&#246;ffnet
+eine Vielzahl neuer Angebots- und Anwendungsperspektiven. Die Bundesregierung wird die F&#246;rderung der
+technologischen Entwicklung solch innovativer Mobilit&#228;tskonzepte auf Grundlage von KI-Anwendungen
+weiter ausbauen. Schwerpunkte sind die &#252;bergeordneten Politikfelder urbane Mobilit&#228;t, Anbindung des l&#228;ndlichen
+Raums und gesellschaftliche Akzeptanz. Die Ma&#223;nahmen f&#252;gen sich in die Umsetzung des Aktionsplans
+&#8222;Digitalisierung und K&#252;nstliche Intelligenz in der Mobilit&#228;t&#8220;.
+Die Bundesregierung f&#246;rdert gezielt die Anpassung und Weiterentwicklung von KI als Schl&#252;sseltechnologie
+der Raumfahrt. Der f&#252;r Anwendungen im Weltraum notwendige hohe Autonomiegrad robotischer Systeme
+f&#252;hrt zur Entwicklung miniaturisierter und energieeffizienter KI. Ein neues Einsatzfeld ist die ergonomische
+Kooperation von Mensch und Maschine in Raumfahrtsystemen. Anpassungen von aktuellen Technologien wie
+dem Digitalen Zwilling und Business Information Management an die Raumfahrt kurbeln mittels KI die
+Kosteneffizienz, Qualit&#228;t und Zuverl&#228;ssigkeit an. Diese Entwicklungen wiederum werden durch den Transfer in 
+andere Branchen und Wirtschaftszweige in einen &#246;konomischen und wettbewerblichen Vorteil umgewandelt. 
+KI-Anwendungen werden in Gesundheitsversorgung und Pflege immer wichtiger. Die Bundesregierung schafft
+daher die Grundlagen f&#252;r eine datenunterst&#252;tzte und qualit&#228;tsgesicherte Gesundheitsversorgung und Pflege und
+pilotiert erste Anwendungen im Versorgungsalltag. Um mehr &#252;ber den konkreten Nutzen von KI f&#252;r die
+Gesundheitsversorgung zu erfahren, wird die Bundesregierung zahlreiche Projekte f&#246;rdern. Sie sollen bis
+einschlie&#223;lich 2024 in versorgungsnahen Anwendungsszenarien, mit hoher klinischer Relevanz den Einsatz von 
+Entscheidungsunterst&#252;tzungs- und Expertensystemen und von smarten Sensoren untersuchen und die
+Grundlagen f&#252;r eine vertrauensw&#252;rdige und sichere Anwendung schaffen. Hierzu z&#228;hlen auch innovative Formen der
+Datennutzung und Einsatzbereiche von KI f&#252;r die Pandemiebew&#228;ltigung.  
+Vernetzung und internationale Zusammenarbeit
+Mit GAIA-X treibt die Bundesregierung den Aufbau einer leistungs- und wettbewerbsf&#228;higen, sicheren und
+vertrauensw&#252;rdigen vernetzten Dateninfrastruktur voran, um das Entstehen eines innovativen digitalen
+&#214;kosystems zu beschleunigen. Zu diesem Zweck wird in verschiedenen Arbeitsgruppen intensiv an der
+technologischen Umsetzung gearbeitet. Der International Data Space (IDS) ist in den GAIA-X-Prozess eng eingebunden 
+und wirkt unter anderem an der Entwicklung einer skalierbaren und sicheren Referenzarchitektur mit. Dar&#252;ber
+hinaus sind auch anwenderseitig zahlreiche Unternehmen an GAIA-X beteiligt, die die Anforderungen an das
+Projekt aus Nutzerperspektive einbringen Dazu werden zahlreiche Use Cases bspw. im Bereich Industrie 4.0
+entwickelt und von der Bundesregierung unterst&#252;tzt. Flankierend wird die Bundesregierung Vernetzungs- und 
+Matchmaking-Angebote forcieren, um Start-ups, KMU und Gro&#223;unternehmen st&#228;rker zusammenzubringen.  
+Mit Blick auf die besondere Bedeutung von Daten f&#252;r innovative Mobilit&#228;tsanwendungen treibt die
+Bundesregierung den Aufbau eines Datenraums Mobilit&#228;t gezielt voran. Der Prozess zielt auf einen sicheren europ&#228;ischen
+Datenraum Mobilit&#228;t, der private und &#246;ffentliche Mobilit&#228;tsdienstleister, Initiativen der L&#228;nder, Kommunen 
+und des Bundes zusammenf&#252;hrt. Damit entsteht ein nachhaltiges Mobilit&#228;tsdaten&#246;kosystem f&#252;r die Entwicklung 
+innovativer KI-Anwendungen. 
+Mit einer j&#228;hrlichen KI-Transfer-Konferenz und KI-Thementagen f&#252;r unterschiedliche Anwendungsfelder wird
+die Bundesregierung unterschiedliche Initiativen und Institutionen zusammenbringen, die sich dem Transfer
+von KI in die Anwendung widmen. Die Konferenz wird die handelnden Akteurinnen und Akteure vernetzen,
+den Austausch &#252;ber Ideen und Vorschl&#228;ge erm&#246;glichen und gemeinsame Impulse ausl&#246;sen. 
+Die Bundesregierung wird Internationalisierungsangebote f&#252;r Unternehmen schaffen, etwa durch
+Markterkundungs- und Erschlie&#223;ungsaktivit&#228;ten in und mit interessanten Ziell&#228;ndern, um die internationale
+Zusammenarbeit zu st&#228;rken.
+In den USA, insbesondere der Bay Area, werden in weltweit beispiellosem Ma&#223;e Zukunftsthemen wie KI, 
+Robotik und digitale Plattformen gepr&#228;gt. Zug&#228;nge in dieses &#214;kosystem sind ein wesentlicher Teil der
+Bef&#228;higung der Bundesressorts zur Gestaltung und Bew&#228;ltigung der Herausforderungen des digitalen Wandels.
+Deswegen soll dort im Silicon Valley eine Anlaufstelle als Vernetzungszentrum insbesondere f&#252;r Ministerien,
+Institutionen und Personen aus Deutschland eingerichtet werden.
+Um KI erfolgreich zu entwickeln und zu gestalten, reichen nationale Ma&#223;nahmen in der Regel nicht aus.
+Deshalb wird die Bundesregierung ihre Aktivit&#228;ten auch weiterhin eng mit den Ma&#223;nahmen der EU und anderen
+internationalen Akteuren verzahnen. Die Bundesregierung setzt sich auf EU-Ebene daf&#252;r ein, dass im Rahmen
+eines Europ&#228;ischen Gesundheitsdatenraums gemeinsam Rahmenbedingungen f&#252;r die EU-weite
+datenschutzkonforme Sekund&#228;rnutzung von Gesundheitsdaten geschaffen werden. Es wird eine enge Zusammenarbeit unter
+anderem mit dem Forschungsinstitut der Europ&#228;ischen Kommission AI Watch und dem AI Observatory der
+OECD gepflegt. Au&#223;erdem unterst&#252;tzt die Bundesregierung das OECD-Programm Artificial Intelligence in
+Work, Innovation, Productivity and Skills (AI-WIPS), dessen Ergebnisse und Erkenntnisse einen wesentlichen 
+inhaltlichen Beitrag zur Gestaltung der globalen KI-Debatte leisten werden. Die Bundesregierung setzt sich f&#252;r
+internationale Standards und Leitlinien f&#252;r den Umgang mit KI ein und gestaltet den internationalen Dialog
+hierzu mit. Unter anderem wirkt die Bundesregierung dazu an den Arbeiten des vom Europarat eingesetzten
+Ad-hoc Ausschusses f&#252;r K&#252;nstliche Intelligenz (CAHAI) mit. Die Bundesregierung unterst&#252;tzt au&#223;erdem den 
+Aufbau von internationalen und multilateralen Strukturen in diesem Bereich, wie die Global Partnership on
+Artificial Intelligence (GPAI).
+KI bietet auch in Entwicklungs- und Schwellenl&#228;ndern neue M&#246;glichkeiten, Hindernisse zu &#252;berwinden und
+die SDGs der Agenda 2030 zu erreichen. Die Bundesregierung verst&#228;rkt den Aufbau von lokalen KI-
+Kapazit&#228;ten und den besseren Zugang zu offenen KI-Trainingsdaten.  
+Dar&#252;ber hinaus unterst&#252;tzt die Bundesregierung die Entwicklung von geeigneten politischen und
+regulatorischen Rahmenbedingungen f&#252;r KI im Globalen S&#252;den. Mit dem afrikanischen Regierungsb&#252;ndnis &#8222;Smart
+Africa&#8220; werden etwa Regulierungsempfehlungen zu KI f&#252;r 30 afrikanische Mitgliedsl&#228;nder entwickelt. Dabei setzt
+sich die Bundesregierung f&#252;r Grunds&#228;tze ein wie die Achtung der Menschenrechte, Datenschutz sowie weitere
+europ&#228;ische und internationale Pr&#228;missen wie Transparenz und Nachvollziehbarkeit und Entscheidungen.
+Normung, Standardisierung und Testr&#228;ume f&#252;r Innovationen
+Technische Normen und Standards erleichtern Wirtschaftsprozesse, k&#246;nnen gerichtsfeste
+Vermutungswirkungen hinsichtlich der Qualit&#228;t erzeugen und den Technologietransfer beg&#252;nstigen. Dazu f&#246;rdert die
+Bundesregierung, den aktuellen Stand der Normung und Standardisierung national und international darzustellen sowie den
+zuk&#252;nftigen Normungsbedarf aufzuzeigen und zu strukturieren. Das Deutsche Institut f&#252;r Normung e. V. (DIN)
+und die Deutsche Kommission Elektrotechnik Elektronik Informationstechnik in DIN und VDE (DKE) haben
+zusammen mit Unternehmensvertretern, Fach-Verb&#228;nden und f&#252;hrenden Wissenschaftlerinnen und
+Wissenschaftlern im Auftrag der Bundesregierung eine umfassende Normungsroadmap f&#252;r KI, einschlie&#223;lich
+Ethikfragen, erstellt und diese beim Digital-Gipfel 2020 pr&#228;sentiert. Dies bildet die Basis f&#252;r ein nachfolgendes
+Umsetzungsprogramm, das auf Grundlage der Roadmap konkrete Normungsvorhaben einleiten,
+Zertifizierungsfragen lernender Systeme bearbeiten und die schnelle &#220;bertragbarkeit gewonnener Erkenntnisse in internationale
+Standards und Pr&#252;fkriterien einleiten soll. Zentrale Themen hierbei sind unter anderem Sicherheit, Robustheit, 
+Transparenz, und Nicht-Diskriminierung bei KI-Systemen.
+Zusammen mit Metrologie, Akkreditierung, Konformit&#228;tsbewertung, Markt&#252;berwachung und
+Umweltpr&#252;fungen bilden Regeln, Normen und Standards die Qualit&#228;tsinfrastruktur &#8211; das R&#252;ckgrat der Marke &#8222;Made in
+Germany&#8220;. Die Qualit&#228;tsinfrastruktur ist somit ein wesentlicher Garant unseres wirtschaftlichen Erfolges und des
+Vertrauens in Produkte und Dienstleistungen. Die Bundesregierung wird die Weiterentwicklung und St&#228;rkung
+der nationalen und europ&#228;ischen Qualit&#228;tsinfrastruktur hinsichtlich der Nutzung und Behandlung von KI-
+Methoden f&#246;rdern, um damit den Marktzugang insbesondere von KMU in Europa und weltweit zu unterst&#252;tzen. 
+Auch die Qualit&#228;tssicherung der Daten, zum Beispiel durch Benchmark-Tests, Referenzdaten, Aufbau und
+Kuratierung von Trainingsdatenpools und Einrichtung von Testdatens&#228;tzen zur Validierung von Algorithmen ist
+sicherzustellen, damit eine vertrauensw&#252;rdige Anwendung von KI-Methoden erm&#246;glicht wird. Die Einbindung
+der Anwendenden sollte ebenfalls ber&#252;cksichtigt werden.
+Die Erprobung in Reallaboren ist wichtig f&#252;r den Innovationstransfer und bei der Weiterentwicklung des
+rechtlichen Rahmens, um die Innovationsf&#228;higkeit im Bereich KI zu st&#228;rken. Ein wesentlicher Schwerpunkt der
+weiteren Umsetzung der themen&#252;bergreifenden Strategie zu Reallaboren als Testr&#228;ume f&#252;r Innovation und
+Regulierung ist es, auf Basis laufender Gutachten (zum Beispiel zu Generalexperimentierklauseln oder zu
+Formulierungshilfen f&#252;r Experimentierklauseln) konkrete Vorschl&#228;ge zur St&#228;rkung rechtlicher Spielr&#228;ume f&#252;r die
+Erprobung in Reallaboren zu erarbeiten. Zugleich werden Reallabore durch etablierte Vernetzungs- und
+Informationsangebote wie das Netzwerk Reallabore, das Handbuch Reallabore und den Innovationspreis Reallabore
+unterst&#252;tzt, die mit Blick auf neue Bedarfe aus der praktischen Anwendung fortgef&#252;hrt und weiterentwickelt
+werden. Ein umfassendes Beispiel f&#252;r die Umsetzung des Reallabore-Ansatzes ist das Reallabor digitale
+Mobilit&#228;t Hamburg.
+Die Bundesregierung unterst&#252;tzt durch Ausbau und Weiterentwicklung ihrer F&#246;rderinstrumente praktische
+Anwendungen und digitale Testfelder f&#252;r das Innovationscluster KI in der Logistik. Damit soll ein &#8222;Leuchtturm 
+Logistik&#8220; am Wirtschaftsstandort Deutschland f&#252;r den Wettbewerb in der Daten- und Plattform&#246;konomie
+entstehen.
+KI in Gesundheit und Pflege
+KI-Anwendungen werden in Gesundheitsversorgung und Pflege immer wichtiger. Die Bundesregierung schafft
+daher die Grundlagen f&#252;r eine datenunterst&#252;tzte und qualit&#228;tsgesicherte Gesundheitsversorgung und Pflege und
+pilotiert erste Anwendungen im Versorgungsalltag. Um mehr &#252;ber den konkreten Nutzen von KI f&#252;r die
+Gesundheitsversorgung zu erfahren, wird die Bundesregierung zahlreiche Projekte f&#246;rdern. Sie sollen bis
+einschlie&#223;lich 2024 in versorgungsnahen Anwendungsszenarien, mit hoher klinischer Relevanz den Einsatz von
+Entscheidungsunterst&#252;tzungs- und Expertensystemen und von smarten Sensoren untersuchen und die
+Grundlagen f&#252;r eine vertrauensw&#252;rdige und sichere Anwendung schaffen. Hierzu z&#228;hlen auch innovative Formen der
+Datennutzung und Einsatzbereiche von KI f&#252;r die Pandemiebew&#228;ltigung. Sowohl bei den gef&#246;rderten
+Pilotprojekten als auch bei sp&#228;teren KI-Anwendungen in Gesundheitsversorgung und Pflege werden die bestehenden
+datenschutzrechtlichen Regelungen beachtet.
+KI in der Arbeitswelt
+Das neu eingerichtete Observatorium K&#252;nstliche Intelligenz in Arbeit und Gesellschaft (KI-Observatorium)
+untersucht die Auswirkungen von KI auf Arbeit und Gesellschaft, beobachtet Entwicklungen und entwickelt 
+L&#246;sungsans&#228;tze und Empfehlungen f&#252;r eine menschenzentrierte und gemeinwohlorientierte Gestaltung von KI. 
+Dabei wird ein weitgefasster Kreis aus Wissenschaft, Unternehmen, Gewerkschaften und Zivilgesellschaft in
+die Arbeit des KI-Observatoriums eingebunden. Im Rahmen des KI-Observatoriums entwickelt die
+Bundesregierung Indikatoren f&#252;r ein KI-Monitoring im Bereich Arbeit und Gesellschaft, um die Umsetzung der KI-
+Strategie zu &#252;berpr&#252;fen. Weiterhin untersucht das KI-Observatorium die Interaktion von Menschen und KI am
+Arbeitsplatz f&#252;r einen sicheren und menschenzentrierten Einsatz von KI-basierten Anwendungen, f&#252;r deren
+Gestaltung das KI-Observatorium Vorschl&#228;ge vorlegen wird. 
+Um Betriebe bei der Einf&#252;hrung menschenzentrierter KI zu unterst&#252;tzen, wird das Modell der Zukunftszentren,
+die zun&#228;chst in Ostdeutschland eingerichtet wurden, deutschlandweit ausgeweitet. Sie sollen unter anderem
+Unternehmen und deren Besch&#228;ftigte bef&#228;higen, den digitalen Wandel insbesondere im Hinblick auf KI zu
+gestalten. Ziel ist das Wissen um die Wirkungsweise von KI-basierten Systemen konkret f&#252;r den
+Anwendungsfall des Betriebes verf&#252;gbar zu machen und in der Lage zu sein, Einf&#252;hrungs- und Anwendungsprozesse
+sozialpartnerschaftlich beziehungsweise, beteiligungsorientiert zu gestalten und die erforderlichen Kompetenzen zu 
+vermitteln.
+Die F&#246;rderung der betrieblichen Lern- und Experimentierr&#228;ume wird erweitert. Die Experimentierr&#228;ume
+erm&#246;glichen es Unternehmen bzw. Verwaltungen und deren Besch&#228;ftigten, gemeinsam in einem kreativen und
+wissenschaftlich begleiteten Prozess L&#246;sungen f&#252;r die menschenzentrierte Einf&#252;hrung und Implementierung 
+von KI-Prozessen in der betrieblichen Praxis zu entwickeln und zu erproben. 
+KI in der &#246;ffentlichen Verwaltung  
+KI birgt nicht nur f&#252;r Unternehmen, sondern ebenso f&#252;r die &#246;ffentliche Verwaltung gro&#223;es Potenzial. Der 
+Einsatz von KI bietet in diesem Bereich die Chance, nicht nur Informationen und Leistungen zielgerichteter,
+passgenauer und niedrigschwelliger verwaltungsintern sowie f&#252;r Wirtschaft und Wissenschaft bereitzustellen, 
+sondern auch das Ziel der klimaneutralen Bundesverwaltung bis 2030 zu unterst&#252;tzen. Die Bundesregierung
+wird untersuchen, inwieweit KI zur Verbesserung f&#252;r die allgemeine (Informations-) Sicherheit und
+Leistungsf&#228;higkeit von Kommunikations- und Informationssystemen, zur m&#246;glichen Abwehr von Cyber-Angriffen und
+als m&#246;gliche Grundlage k&#252;nftiger Sicherheitsarchitekturen in der &#246;ffentlichen Verwaltung genutzt werden kann.
+KI k&#246;nnte beispielsweise durch die Nutzung (teil-) automatisierter Verfahren oder KI-basierter Dienste im
+Bereich der Angriffsdetektion der Kommunikationsnetze der &#246;ffentlichen Verwaltung Anwendung finden.
+In einigen Aufgabenbereichen der Verwaltung mit stetig steigendem Datenaufkommen, wie z. B.
+Erdbeobachtung/Fernerkundung, erm&#246;glicht die Weiterentwicklung von automatischen Verfahren zur Datenanalyse, mit
+Methoden der KI &#252;berhaupt erst die Potenziale f&#252;r die Aufgaben der Bundesverwaltung, u. a. beim
+Katastrophenschutz, auszusch&#246;pfen. Die in den letzten Jahren vor allem durch die Wissenschaft entwickelten Methoden
+der KI m&#252;ssen auf die spezifischen Aufgaben der Bundesbeh&#246;rden &#252;bertragen und ggfs. angepasst werden.
+Es ist von gro&#223;er Bedeutung, weiterhin hohe Standards an die Einf&#252;hrung und Nutzung von KI anzulegen und
+diese diskriminierungsfrei und nachvollziehbar im Einklang mit den bestehenden Regelungen zum Schutz
+personenbezogener Daten, Informations-Sicherheitsvorgaben und dem Vertrauensschutz der B&#252;rgerinnen und
+B&#252;rger zu gestalten. Nachvollziehbarkeit und &#220;berpr&#252;fbarkeit von Entscheidungen sowie Transparenz, Fairness
+und Diskriminierungsfreiheit, Sicherheit und Partizipation sind zentral, um Vertrauen in die Nutzung von KI in 
+der &#246;ffentlichen Verwaltung zu schaffen. Auch M&#246;glichkeiten des individuellen opting out k&#246;nnen &#8211; je nach
+Anwendungsfall &#8211; dazu beitragen.
+Das KI-Observatorium besch&#228;ftigt sich mit den Fragen der menschenzentrierten und gemeinwohlorientierten
+Gestaltung, Einf&#252;hrung und Anwendung von KI in geeigneten Prozessen in der Arbeits- und Sozialverwaltung
+und bietet Unterst&#252;tzung f&#252;r interessierte Beh&#246;rden an. 
+Bei &#246;ffentlichen Beschaffungsvorg&#228;ngen wird die Bundesregierung verst&#228;rkt auf innovative KI-L&#246;sungen
+setzen und so die Nachfrage der &#246;ffentlichen Hand und &#246;ffentliche Ausschreibungen als Steuerungsmittel nutzen. 
+Sie wird das Kompetenzzentrum Innovative Beschaffung (KOINNO) fortentwickeln, um die
+Innovationsorientierung der &#246;ffentlichen Beschaffung themen- und technologieoffen dauerhaft zu st&#228;rken. Ferner wird sie den
+Austausch von Best Practices in der Verwaltung f&#246;rdern. Um Beh&#246;rden zu unterst&#252;tzen, wird die
+Bundesregierung f&#252;r Entscheidungen, Einkauf, Implementierung und Betrieb von KI-Anwendungen in der Verwaltung
+Standardprozesse definieren. Bei der Beschaffung sollen zudem verst&#228;rkt Open Source-L&#246;sungen ber&#252;cksichtigt
+werden. Die Bundesregierung selbst kann Start-ups und KMU mit KI-L&#246;sungen unterst&#252;tzen, indem diese bei
+&#246;ffentlichen Auftr&#228;gen unter Beachtung haushalts- und vergaberechtlicher Vorgaben st&#228;rker Ber&#252;cksichtigung
+finden. 
+Die systematische Bereitstellung, Zusammenf&#252;hrung, Modellierung und Auswertung umweltbezogener
+Massendaten kann durch KI-Anwendungen beispielsweise im Bereich der Klimafolgenabsch&#228;tzung, der
+&#214;kosystemanalyse oder der Analyse des Mobilit&#228;ts- und Energieverbrauchsverhaltens Ver&#228;nderungen und Muster
+identifizieren sowie Effizienzpotenziale heben. Die Bundesregierung wird daher ein &#8222;Anwendungslabor KI und
+Big Data&#8220; mit dem Ziel aufbauen, datenbasierte Anwendungen f&#252;r das Erreichen der Nachhaltigkeitsziele zu
+entwickeln und die Zusammenarbeit zwischen Bund und L&#228;ndern f&#252;r KI-Anwendungen im Umweltbereich zu 
+st&#228;rken. 
+KI bietet f&#252;r die Sicherheitsbeh&#246;rden Potenzial, wenn es darum geht, hybride Bedrohungen abzuwehren zur
+Wahrung der territorialen Integrit&#228;t und zum Schutz der Bev&#246;lkerung. Im polizeilichen Kontext ist die Nutzung
+von KI f&#252;r die innere Sicherheit ein wichtiger strategischer Aspekt. Sie kann beispielsweise dabei helfen, die 
+existierende Leistungsf&#228;higkeit in besonderem Ma&#223;e weiter zu erh&#246;hen und die Arbeit gezielter und effektiver
+zu gestalteten. Zudem k&#246;nnen Polizistinnen und Polizisten auch psychisch entlastet werden, wenn z. B. KI zur 
+Identifizierung von Kinderpornografie eingesetzt wird. Es ist jedoch jeweils f&#252;r den konkreten Anwendungsfall
+zu pr&#252;fen, ob und wie KI im polizeilichen Kontext grundrechtskonform eingesetzt werden kann. 
+Die Bundeswehr pr&#252;ft die Nutzung von KI einerseits zur Erf&#252;llung des Kernauftrages ihrer Streitkr&#228;fte und zur
+Gewinnung von Informations-, Entscheidungs- und Wirkungs&#252;berlegenheit, andererseits in der Optimierung 
+von administrativen und logistischen Prozessen und in der vorausschauenden Wartung von komplexen
+Systemen. Zudem kommt KI zur Unterst&#252;tzung des Fachpersonals im Rahmen der zivil-milit&#228;rischen,
+ressort&#252;bergreifenden Krisenfr&#252;herkennung bei der Analyse von Massendaten und f&#252;r Prognosen zum Einsatz. KI ist
+integraler Bestandteil wesentlicher R&#252;stungsprojekte, welche auch im europ&#228;ischen Kontext umgesetzt werden
+und somit zum Erhalt und zur F&#246;rderung europ&#228;ischer, technologischer Exzellenz beitragen. Ein Beispiel ist
+das gemeinsam mit Frankreich und Spanien aufgelegte Projekt Next Generation Weapon System (NGWS) in
+der Vernetzung mit luftgest&#252;tzten Plattformen des Verbundes Future Combat Air System (FCAS). KI dient mit
+Blick auf die nationale und internationale technologische Entwicklung im R&#252;stungsbereich der Sicherstellung
+der f&#252;r die Landes- und B&#252;ndnisverteidigung k&#252;nftig erforderlichen F&#228;higkeiten. Die Entwicklung von KI-
+Anwendungsm&#246;glichkeiten insbesondere zum Schutz der &#228;u&#223;eren Sicherheit und f&#252;r milit&#228;rische Zwecke wird im
+Rahmen der Ressortzust&#228;ndigkeiten durchgef&#252;hrt. Davon unbenommen werden KI-Technologien und KI-
+Anwendungen mit Sicherheitsrelevanz in der KI-Strategie verortet.
+Ordnungsrahmen 
+Neben der F&#246;rderung von Wettbewerbsf&#228;higkeit und Innovation in der Europ&#228;ischen Union ist eine
+verantwortungsvolle und gemeinwohlorientierte Entwicklung und Nutzung von KI erkl&#228;rtes Ziel der Bundesregierung.
+W&#228;hrend mit den vielf&#228;ltigen und stetig wachsenden Einsatzm&#246;glichkeiten von KI ein gro&#223;er wirtschaftlicher, 
+gesellschaftlicher und individueller Nutzen einhergehen kann, k&#246;nnen mit ihnen auch Risiken verbunden sein. 
+Um diesen wirksam zu begegnen, sind konkrete Anforderungen an die Entwicklung und den Einsatz von KI-
+Systemen zu stellen und der Rahmen f&#252;r eine verantwortungsvolle und gemeinwohlorientierte Entwicklung
+sowie Nutzung muss entsprechend ausgestaltet sein.
+Rahmenbedingen f&#252;r sichere und vertrauensw&#252;rdige KI-Anwendungen 
+Zum Ordnungsrahmen z&#228;hlen Gesetze, untergesetzliche Normen sowie technische Standards und Normen. Zur
+Ausgestaltung geh&#246;ren insbesondere ein risikoad&#228;quates Ma&#223; an Transparenz und Nachvollziehbarkeit sowie, 
+falls erforderlich, eine angemessene Kontrollstruktur und &#220;berpr&#252;fbarkeit von KI-Anwendungen und ihren
+Ergebnissen. Normung und Standardisierung k&#246;nnen zur Beschleunigung von Entwicklungsprozessen, zur
+Rechtssicherheit f&#252;r Unternehmen und zur weiteren Vertrauensbildung der Menschen in die Technologie
+beitragen. In Bereichen, in denen der Einsatz von KI ein enormes Innovationspotenzial besitzt, ist bei der
+Regulierung sorgf&#228;ltig darauf zu achten, dass Innovationen gef&#246;rdert und nicht gehemmt werden.
+Die Bundesregierung begr&#252;&#223;t den von der Europ&#228;ischen Kommission im KI-Wei&#223;buch vorgeschlagenen
+Ansatz, den bestehenden EU-Rechtsrahmen dahingehend zu &#252;berpr&#252;fen, ob die geltenden Rechtsvorschriften den
+Risiken und Anforderungen von KI-Anwendungen gewachsen sind und wirksam durchgesetzt werden k&#246;nnen
+und ggf. welche Anpassungen oder neue Rechtsvorschriften notwendig sind. Dabei ist die Frage zu beantworten,
+ob der derzeitige Rechtsrahmen der Produktsicherheit und Produkthaftung bei KI-Systemen, die in Produkte
+eingebettet sind, ausreicht oder neue Regelungen auch vor dem Hintergrund von Rechtssicherheit geschaffen
+werden m&#252;ssen. Insbesondere h&#228;lt die Bundesregierung es im Sinne einer prinzipienbasierten Regulierung f&#252;r
+zielf&#252;hrend, dass unionsweit harmonisierte zentrale Grunds&#228;tze und Prinzipien f&#252;r eine vertrauensw&#252;rdige KI
+formuliert werden. Zudem begleitet die Bundesregierung aktiv die Prozesse und Initiativen, die dazu auf Ebene
+der EU und des Europarats bereits angesto&#223;en wurden. 
+Wie die COVID-19-Pandemie gezeigt hat, muss der Rechtsrahmen eine ausreichende Flexibilit&#228;t besitzen, um
+Innovationen auch beschleunigen zu k&#246;nnen, wenn es darum geht, gro&#223;e Sch&#228;den f&#252;r die Gemeinschaft
+abzuwenden. Der mit dem KI-Wei&#223;buch der EU-Kommission ver&#246;ffentlichte &#8222;Bericht &#252;ber die Auswirkungen
+k&#252;nstlicher Intelligenz, des Internets der Dinge und der Robotik in Hinblick auf Sicherheit und Haftung&#8222;
+verdeutlicht die Anforderungen f&#252;r eine sichere KI. Daraus ergeben sich neue Herausforderungen f&#252;r den
+Ordnungsrahmen, der heute im Bereich des Binnenmarktes f&#252;r Produkte durch den New Legislative Framework
+(NLF) gepr&#228;gt ist, und hier insbesondere f&#252;r die Qualit&#228;tsinfrastruktur - bestehend aus Messwesen, Normung
+und Standardisierung, Akkreditierung, Konformit&#228;tsbewertung und Markt&#252;berwachung. Aufgabe ist es, die
+bestehenden Strukturen hin zu Systemen f&#252;r eine sichere und vertrauensw&#252;rdige KI weiterzuentwickeln. 
+Regelungsbedarfe im betrieblichen Kontext und f&#252;r die Produktsicherheit
+Um diesen Anforderungen gerecht zu werden gilt es, zun&#228;chst die bestehenden technischen, regulatorischen
+und strukturellen Voraussetzungen zu &#252;berpr&#252;fen und dort anzupassen oder zu neu schaffen, wo diese
+notwendig oder noch nicht ausreichend sind. Dies umfasst den Ausbau und die Weiterentwicklung einer
+Qualit&#228;tsinfrastruktur und die Bef&#228;higung der in ihr Handelnden sowie Anreize zu Innovativen f&#252;r sichere und
+vertrauensw&#252;rde KI-Anwendungen. Dazu sollen die entsprechenden institutionellen Kompetenzen und Kapazit&#228;ten
+insbesondere im Arbeitsschutz und in der Produktsicherheit aufgebaut werden. 
+Durch den Einsatz von KI werden Regelungsbereiche wie Besch&#228;ftigtendatenschutz und Mitbestimmung, aber
+auch die Sozialpartner vor neue Herausforderungen gestellt. Der Einsatz von KI in Unternehmen kann zur
+Verarbeitung gr&#246;&#223;erer personenbezogener Datenmengen f&#252;hren. Dabei sind die Chancen des KI-Einsatzes mit den
+Risiken der zus&#228;tzlichen Datenverarbeitungen abzuw&#228;gen. Der Koalitionsvertrag sieht zum
+Besch&#228;ftigtendatenschutz vor, die &#214;ffnungsklausel der EU-Datenschutzgrundverordnung zu nutzen und die Schaffung eines
+eigenst&#228;ndigen Gesetzes zum Besch&#228;ftigtendatenschutz zu pr&#252;fen.
+Mit dem Einsatz von KI basierten Produkten und Dienstleistungen ergeben sich dar&#252;ber hinaus ver&#228;nderte, teils
+neuartige Anforderungen an die Nachweisf&#252;hrung der funktionalen Sicherheit. Etablierte
+Sicherheitsanforderungen aus den Bereichen der Maschinensicherheit und des Arbeits- und Gesundheitsschutzes hinsichtlich
+psychischer und physischer Gef&#228;hrdungen unter Ber&#252;cksichtigung der Interaktion von Mensch und Technik d&#252;rfen
+nicht abgeschw&#228;cht werden. Der regulatorische Rahmen ist dabei f&#252;r die einzelnen Bereiche sehr
+unterschiedlich. Daher ist eine fr&#252;hzeitige Ber&#252;cksichtigung von Standards und Normen sowie m&#246;glichen Regularien in
+der Entwicklung von KI-Anwendungen notwendig, um den sp&#228;teren Zulassungsprozess und damit den
+Marktzugang zu beschleunigen.
+Sicherheit, Robustheit und Nachhaltigkeit von KI
+Dem Aspekt der Informationssicherheit muss eine starke Aufmerksamkeit gewidmet werden. Die
+Bundesregierung wird auf vom jeweiligen Einsatzzweck abh&#228;ngige IT-Sicherheitsstandards f&#252;r KI-Systeme (z. B. im
+Bereich Kritischer Infrastrukturen) hinwirken. Zentral ist die Sicherstellung der Vertraulichkeit, Integrit&#228;t und
+Verf&#252;gbarkeit bestimmter KI-Systeme &#252;ber deren gesamten Lebenszyklus. Bei der Entwicklung von KI-
+Systemen sollte daher die Erkennung von Angriffen im Rahmen einer Risikobewertung mitgedacht werden. 
+Auch beim Einsatz von KI muss sichergestellt sein, dass ein effektiver Schutz gegen Diskriminierung,
+Manipulation oder sonstige missbr&#228;uchliche Nutzung gew&#228;hrleistet ist. Je mehr sich die gesellschaftliche Vielfalt - auch
+&#252;ber das Verh&#228;ltnis aller Geschlechter hinaus - in den Teams widerspiegelt, die KI-Anwendungen entwickeln,
+desto eher k&#246;nnen Bias und Diskriminierung von vornherein verhindert werden. F&#252;r diese Grunds&#228;tze wird sich
+die Bundesregierung sowohl auf nationaler, europ&#228;ischer als auch internationaler Ebene einsetzen.
+Das gro&#223;e Potenzial von &#8222;AI Made in Europe&#8220; soll f&#252;r den Green Deal ausgesch&#246;pft werden. Um rasch einen
+rechtssicheren Einsatz von KI durch die Umweltverwaltung zu erm&#246;glichen und das Ziel einer &#8222;Sustainable AI&#8220;
+als wichtigen Baustein einer nachhaltigen Digitalisierung wirksam zu unterst&#252;tzen wird, das Umweltrecht
+dahingehend untersucht, ob Anpassungen sinnvoll sein k&#246;nnten. 
+Gesellschaft
+KI ist l&#228;ngst im Alltag der Menschen angekommen. Dabei zeigt sich, dass das Vertrauen in KI w&#228;chst10, Teile
+der Bev&#246;lkerung aber Informationsbedarf und Bedenken oder Sorgen haben. Die Bundesregierung wird
+Hilfestellung bei der menschenzentrierten Einf&#252;hrung und Anwendung dieser Technologie geben. Daf&#252;r gilt es den
+gesellschaftlichen Dialog und M&#246;glichkeiten der Mitgestaltung zu st&#228;rken und neue Formen f&#252;r eine wirksame
+Beteiligung zu nutzen, etwa f&#252;r die Anwendenden oder die Zivilgesellschaft. Auch die Belange von Menschen
+mit Behinderungen sind zu ber&#252;cksichtigen. Dies soll ein &#252;bergreifendes gemeinsames Verst&#228;ndnis aller
+Beteiligten schaffen und tragf&#228;hige L&#246;sungen erm&#246;glichen.
+Mitgestaltungsm&#246;glichkeiten bei der Entwicklung, Einf&#252;hrung und Anwendung von KI kommt eine gro&#223;e Rolle
+zu. Je fr&#252;her die direkt oder indirekt betroffenen Gruppen oder Institutionen einbezogen werden, desto besser
+k&#246;nnen sie ihre Kenntnisse, Erfahrungen und Bed&#252;rfnisse in den Prozess einspeisen &#8211; und damit dazu beitragen, 
+dass die positiven Potenziale der KI ausgesch&#246;pft werden. Die Bundesregierung b&#252;ndelt deshalb ihre
+Infrastrukturen und F&#246;rderprogramme im Bereich der gemeinwohlorientierten KI-Nutzung und treibt den Ausbau eines
+&#214;kosystems f&#252;r gemeinwohlorientierte KI voran. Hierzu geh&#246;ren das Projekt Civic Innovation Platform zur
+Vernetzung zivilgesellschaftlicher Akteurinnen und Akteure aus allen Teilen der Gesellschaft. Die Plattform
+erm&#246;glicht ihnen, ihre Ideen zu ver&#246;ffentlichen und potenzielle Projektpartnerinnen und -Partnern aus
+Zivilgesellschaft, Bildungseinrichtungen, Wissenschaft, Verwaltung, KMU sowie KI-Entwicklerinnen und -
+Entwicklern wie auch Start-ups zu finden. Dar&#252;ber hinaus entwickelt die Bundesregierung ein Civic Data Lab zur
+Aufbereitung von gemeinsam geteilten und bereitgestellten Datenbest&#228;nden verschiedener zivilgesellschaftlicher
+Akteurinnen und Akteure und Zugangs- bzw. Austauschstrukturen sowie Civic Tech Labs for Green zur
+partizipativen Entwicklung und Bereitstellung umweltgerechter Techniktools. 
+KI im Kultur- und Medienbereich ist weit mehr als blo&#223;er Gegenstand k&#252;nstlerischer Auseinandersetzung. So
+wird KI an vielen Stellen auch bei der Produktion von Kunst und Medieninhalten eingesetzt. Menschen und KI
+k&#246;nnen dabei kreativ zusammenwirken. Dar&#252;ber hinaus leistet KI in vielen Kulturinstitutionen einen wertvollen 
+Beitrag bei der Verarbeitung von gro&#223;en Datenmengen, bei der Sammlungst&#228;tigkeit (z. B. von Museen,
+Bibliotheken und Archiven), der Kuratierung oder bei der kulturellen Vermittlungsarbeit. So wird die
+Bundesregierung auch k&#252;nftig in unterschiedlichen kulturellen und medialen Kontexten die Entwicklung von KI-
+Anwendungen weiter vorantreiben.  
+KI-Kompetenzen f&#252;r alle 
+Jede B&#252;rgerin und jeder B&#252;rger in Deutschland sollte &#252;ber die Bedeutung von KI sowie die mit ihr verbundenen 
+Chancen und Herausforderungen gut informiert sein, um Vorurteile abzubauen und KI zu entmystifizieren. 
+Dazu geh&#246;rt auch, dass bei der Diskussion von Risiken klarer solche Bereiche abgegrenzt werden, in denen
+bestimmte Risiken nicht vorkommen k&#246;nnen, wenn zum Beispiel &#8211; wie im Bereich industrieller KI &#8211; keine 
+personengebundenen Daten verwendet werden. Es bedarf zum einen der St&#228;rkung digitaler Kompetenzen im
+10 Statista (2019): Das Vertrauen der Deutschen in KI w&#228;chst: Der Anteil von Deutschen, die sagen &#8222;Ich kann mir vorstellen, mit
+K&#252;nstlicher Intelligenz zu kommunizieren&#8220; wuchs von 58% im Jahr 2018 auf 83% im Jahr 2019.
+Umgang mit alltagsbezogener KI, zum anderen sollen die Potenziale von KI-Anwendungen zum Empowerment
+von B&#252;rgerinnen und B&#252;rgern eingesetzt werden, beispielsweise zur Gestaltung von Lehr- und Lernprozessen.
+Die Bundesregierung unterst&#252;tzt mit einer Schirmherrschaft den kostenlosen Online-Kurs &#8222;Elements of AI&#8222;. 
+Dieser richtet sich an die ganze Breite der Bev&#246;lkerung und hat zum Ziel, m&#246;glichst vielen Menschen &#8211; auch
+ohne fachliche Vorkenntnisse &#8211; die Mechanismen der KI und deren Anwendungsm&#246;glichkeiten besser
+verst&#228;ndlich zu machen.
+Um den Energie- und Ressourcenbedarf von KI-Systemen zu begrenzen, wird in einem partizipativen Prozess
+eine Marke Sustainable AI erarbeitet und Anforderungen und Anreize entwickelt. Voraussetzung daf&#252;r sind der
+Ausbau der Datenbasis zum Energie- und Ressourcenbedarf, die Erh&#246;hung der Transparenz des Energie- und 
+Ressourcenbedarfs sowie &#246;kologische Anforderungen an die KI-Anwendung inkl. KI-Infrastruktur. Die Marke
+Sustainable AI kann deutsche L&#246;sungsans&#228;tze unter den Prinzipien &#8222;Sustainability by Design&#8220; und &#8222;Ethics by
+Design&#8220; b&#252;ndeln und diese international teilen &#8211; etwa f&#252;r ressourcenschonende KI sowie eine wirtschaftlich 
+nachhaltigere und sozial ausgewogenere KI.
+Anhang
+Weitere Schritte in der Umsetzung der KI-Strategie
+Die Bundesregierung wird in den n&#228;chsten Jahren zur weiteren Umsetzung der KI-Strategie folgende
+Ma&#223;nahmen ergreifen:
+K&#246;pfe
+&#8226; Ausbau der F&#246;rderung attraktiver Arbeits- und Forschungsbedingungen f&#252;r den wissenschaftlichen 
+Nachwuchs an Fachhochschulen / Hochschulen f&#252;r Angewandte Wissenschaften
+&#8226; Durchf&#252;hrung von KI-Challenges und Etablierung eines Deutschen Preises f&#252;r &#8222;KI Made in Germany&#8220;
+&#8226; Start weiterer Initiativen zur F&#246;rderung von Nachwuchswissenschaftlerinnen und Naturwissenschaftlern, 
+unter anderem mit dem DAAD
+&#8226; F&#246;rderung von Innovationen in der digitalen Hochschulbildung durch K&#252;nstliche Intelligenz und Big
+Data 
+&#8226; F&#246;rderung von Ma&#223;nahmen zur Qualifizierung von zuk&#252;nftigen akademischen Fachkr&#228;ften durch 
+Implementierung von KI als Studieninhalt sowie von Ma&#223;nahmen zur Verbesserung der Qualit&#228;t und 
+Leistungsf&#228;higkeit der Hochschulbildung durch den Einsatz von KI (gemeinsam mit den L&#228;ndern)
+&#8226; Aufbau eines neuen KI-gest&#252;tzten Online-Einstiegsportals f&#252;r berufliche Weiterbildung  
+&#8226; Start der Projekte des Innovationswettbewerbs INVITE (Digitale Plattform berufliche Weiterbildung) f&#252;r
+die Gestaltung eines innovativen, nutzerorientierten und koh&#228;renten digitalen Weiterbildungsraums
+&#8226; In Gespr&#228;chen mit den L&#228;ndern auf die Etablierung verbesserter Gehaltsstrukturen f&#252;r KI-Professorinnen
+und -Professoren hinwirken
+&#8226; KI-Bildungsprogramme f&#252;r junge Frauen durch Kompetenztr&#228;ger regionaler Innovationssysteme und  
+-Cluster
+Forschung
+&#8226; Aufbau eines weltweit f&#252;hrenden Europ&#228;ischen KI-Netzwerkes unter der Dachmarke &#8222;KI &#8211; Made in
+Europe&#8220;
+&#8226; Beschleunigter Ausbau des Gauss Centre for Supercomputing auf Exascale-Kapazit&#228;t und begleitende
+Ma&#223;nahmen im High-Performance Computing  
+&#8226; Aufbau bedarfsgerechter HPC-Infrastruktur im Rahmen der Bund-L&#228;nder-F&#246;rderung des Nationalen 
+Hochleistungsrechnen zur bundesweiten Nutzung durch Hochschulangeh&#246;rige
+&#8226; Ausbau der Forschung und Entwicklung f&#252;r sichere KI-Systeme bei volkswirtschaftlich
+systemrelevanten Infrastrukturen durch das DLR
+&#8226; Start einer neuen F&#246;rderinitiative f&#252;r Forschung und Entwicklung im Bereich KI-gest&#252;tzter
+Assistenzsysteme f&#252;r die medizinische Versorgung und f&#252;r epidemiologische Vorhersagen.
+&#8226; Initiierung einer neuen Ma&#223;nahme zur F&#246;rderung von Forschung und Entwicklung von KI-Systemen f&#252;r 
+den Pflegebereich
+&#8226; Ausbau der F&#246;rderma&#223;nahme &#8222;Computational Life Sciences&#8220; mit dem Fokus &#8222;KI f&#252;r die digitale
+Infektionsepidemiologie&#8220;
+&#8226; Ausbau der F&#246;rderma&#223;nahme &#8222;KI in der Erdbeobachtung&#8220; mit dem Schwerpunkt innovativer
+Anwendungen f&#252;r nachhaltiges Wirtschaften  
+&#8226; Intensivierung der Forschung zur Anwendung von vertrauensw&#252;rdiger KI f&#252;r die zivile Sicherheit
+&#8226; Start einer F&#246;rderma&#223;nahme zu Lernender Produktionstechnik &#8211; Einsatz k&#252;nstlicher Intelligenz in der
+Produktion 
+&#8226; Start einer F&#246;rderma&#223;nahme zur Erzeugung synthetischer Daten
+&#8226; Start einer neuen Initiative zur Forschungsf&#246;rderung f&#252;r eine zuverl&#228;ssige und vertrauensw&#252;rdige KI
+&#8226; Intensivierung der KI-Nutzung im Rahmen des Projekts quantitative Krisenfr&#252;herkennung und 
+Informationsmanagement (PREVIEW) im Ausw&#228;rtigen Amt
+&#8226; Aufbau von Digitalen FortschrittsHubs Gesundheit zur F&#246;rderung datenunterst&#252;tzter digitaler Medizin 
+mit Fokus auf definierten Anwendungsfeldern (z. B. Krebserkrankungen, Infektiologie)
+&#8226; Start der Projekte aus den F&#246;rderma&#223;nahmen K&#252;nstliche Intelligenz f&#252;r IT-Sicherheit und K&#252;nstliche
+Intelligenz in Kommunikationsnetzen 
+&#8226; Start von Gr&#252;ndungsvorhaben aus der F&#246;rderinitiative StartUpSecure, die zur Sicherheit von 
+KI-basierten Gesch&#228;ftsmodellen und Produkten beitragen 
+&#8226; Start von Projekten aus den F&#246;rderma&#223;nahmen Pilotinnovationswettbewerb &#8222;Energieeffizientes
+KI-System&#8220;, Zukunftsf&#228;hige Spezialprozessoren und Entwicklungsplattformen (ZUSE) und Investitionen
+an Hochschulen zur Erschlie&#223;ung neuer Forschungsfelder f&#252;r neue KI-Elektronik 
+&#8226; Intensivierung der Zusammenarbeit zwischen Verwaltung und Forschung zur
+Gesetzesfolgenabsch&#228;tzung im Hinblick auf steuerliche Auswirkungen mit KI
+&#8226; Start der Projekte aus den F&#246;rderma&#223;nahmen KI in der Landwirtschaft, der Lebensmittelkette, der
+gesundheitlichen Ern&#228;hrung und den L&#228;ndlichen R&#228;umen im Rahmen von Forschungsvorhaben 
+&#8226; Erforschung und Anwendung von KI-Systemen im Rahmen der digitalen Experimentierfelder in der
+Landwirtschaft 
+&#8226; St&#228;rkung der Forschung zur Sicherheit und Robustheit von KI-Systemen
+&#8226; Entwicklung von Methodologie und Pr&#252;fwerkzeugen zur Pr&#252;fung von Eigenschaften von KI-Systemen
+&#8226; Einrichtung von Innovationszentren f&#252;r KI und selbstlernende Systeme in der Mobilit&#228;t
+&#8226; Ausbau der anwendungsnahen Forschung, Entwicklung und Erprobung zu komplexen Szenarien des
+autonomen Fahrens &#252;ber europ&#228;isch vernetzte Testfelder und Reallabore
+&#8226; Ausbau und Weiterentwicklung der F&#246;rderinitiative KI-Leuchtt&#252;rme f&#252;r Umwelt, Klima, Natur und 
+Ressourcen mit den F&#246;rderschwerpunkten KI-Innovationen f&#252;r den Klimaschutz und 
+&#8222;Ressourceneffiziente KI&#8220;
+&#8226; Intensivierung der Forschung zur Umweltwirkung von KI, inkl. einer systematischen Analyse des CO2-
+Minderungspotenzials von KI
+&#8226; Umsetzung einer Initiative &#8222;Ressourceneffiziente KI&#8220; als Zielsystem f&#252;r die Ressourcen- und 
+Energieeffizienz von KI-Systemen
+&#8226; Aufbau eines Datenraums Mobilit&#228;t f&#252;r ein nachhaltiges Mobilit&#228;tsdaten&#246;kosystem, das private und 
+&#246;ffentliche Mobilit&#228;tsdienstleister vernetzt
+Transfer und Anwendung 
+&#8226; Etablierung eines neuen Schwerpunkts f&#252;r KI innerhalb des bestehenden F&#246;rderprogramms
+EXIST- Existenzgr&#252;ndungen aus der Wissenschaft mit mehreren Einzelma&#223;nahmen  
+&#8226; Implementierung eines gezielten F&#246;rderprogramms f&#252;r KI-basierte Start-ups beim internationalen
+German Accelerator Programm
+&#8226; Entwicklung von (auch virtuellen) Anwendungszentren, die die Mittelstand 4.0-Kompetenzzentren aktiv
+mit den KI-Forschungszentren verbinden und KMU fr&#252;hzeitig in die Forschung einbinden 
+&#8226; Erweiterung des KI-Trainer-Programms bei den Mittelstand-4.0-Kompetenzzentren durch F&#246;rderung von 
+Train-the-Trainer-Programmen und gezielte Zusammenarbeit mit Multiplikatoren  
+&#8226; Aufbau einer Anlauf- und Servicestelle als Vernetzungszentrum im Silicon Valley, insbesondere f&#252;r
+Ministerien, Institutionen und Personen aus Deutschland
+&#8226; Aufbau einer leistungs- und wettbewerbsf&#228;higen, sicheren und vertrauensw&#252;rdigen vernetzten 
+Dateninfrastruktur durch das Projekt GAIA-X 
+&#8226; F&#246;rderung anwendungsorientierter Beispiele (Use-Cases) f&#252;r den Mittelstand (bspw. Im Bereich 
+Industrie 4.0) und die Landwirtschaft auf Basis von GAIA-X
+&#8226; F&#246;rderung innovativer Mobilit&#228;tskonzepte auf Basis von KI mit den Schwerpunkten urbane Mobilit&#228;t, 
+Anbindung des l&#228;ndlichen Raums und gesellschaftliche Akzeptanz
+&#8226; Ma&#223;nahmen zur Sch&#228;rfung des Bewusstseins- und zur F&#246;rderung des Best-Practice-Austausch zum
+Energie- und Ressourcenverbrauch von KI
+&#8226; Entwicklung einer digitalen EMAS-Plattform
+&#8226; Evaluation und Erprobung von KI-Technologien in IT-Projekten des Bundes wie z. B. im Rahmen der 
+IT-Ma&#223;nahmen Chatbot und Analytics der Dienstekonsolidierung 
+&#8226; Etablierung einer j&#228;hrlichen KI-Transfer-Konferenz zur Vernetzung der Initiativen und Institutionen, die
+sich dem Transfer von KI in die Anwendung widmen
+&#8226; F&#246;rderung von KI zur Bew&#228;ltigung epidemischer Krisen mit einem Innovationswettbewerb 
+&#8226; Start einer neuen Initiative zur F&#246;rderung kollaborativer Forschungs- und Entwicklungsvorhaben zur
+Anwendung von KI im Kontext von Industrie 4.0 zwischen der deutschen und kanadischen Wirtschaft
+und Wissenschaft 
+&#8226; Ausbau der F&#246;rderung von Erforschung, Entwicklung und Nutzung von Methoden der K&#252;nstlichen 
+Intelligenz in KMU
+&#8226; Aufbau weiterer branchen- und dom&#228;nenspezifischer KI-Anwendungshubs, unter anderem im Bereich 
+der Kreislaufwirtschaft
+&#8226; Verst&#228;rkung der F&#246;rderung der Diffusion von KI-Technologie unter Nutzung etablierter
+Innovationsstrukturen  
+&#8226; F&#246;rderung von KI in der Grundlagenforschung f&#252;r die Erforschung von Universum und Materie an 
+gro&#223;en Forschungsinfrastrukturen  
+&#8226; Anwendung und Weiterentwicklung von KI-Methoden in der mathematischen Modellierung, Simulation 
+und Optimierung
+&#8226; Transdisziplin&#228;re Anwendung und Transfer von KI-Methoden in der datenintensiven Systemforschung in 
+Physik, Erdsystemforschung und Systembiologie
+&#8226; F&#246;rderung von KI in der Raumfahrt als Schl&#252;sseltechnologie sowie f&#252;r den Transfer in andere Branchen
+wie Automobilbau und moderne Mobilit&#228;t, Schiffbau, Landwirtschaft und Pflege
+&#8226; KI-basierte Analyse in der Fernerkundung - durch den Einsatz von KI Fernerkundungsinformationen f&#252;r
+die Bedarfe der Bundesverwaltung aufbereiten und auswerten
+&#8226; Schaffung von globalen &#246;ffentlichen G&#252;ter- und Umsetzungskapazit&#228;ten im Bereich KI gemeinsam mit
+Partnerregierungen aus dem Globalen S&#252;den 
+&#8226; Fortsetzung des themen&#252;bergreifenden Innovationspreises Reallabore
+&#8226; Rechtliche Spielr&#228;ume f&#252;r die Erprobung von Innovationen in Reallaboren st&#228;rken: Erarbeitung 
+konkreter Vorschl&#228;ge, wie rechtliche Spielr&#228;ume f&#252;r Reallabore und der Ergebnistransfer in das
+allgemeine Recht gest&#228;rkt werden k&#246;nnen, dies auf Basis einer Reihe laufender Gutachten (zum Beispiel 
+zu Generalexperimentierklauseln, zu Formulierungshilfen f&#252;r Experimentierklauseln sowie zu 
+internationalen Reallabore-Ans&#228;tzen)
+&#8226; Netzwerk Reallabore: Angebote des Netzwerks im Jahr 2020 weiterentwickeln und ausbauen auf
+Grundlage einer Umfrage unter den Netzwerk-Mitgliedern
+&#8226; Aufbau eines Innovationsclusters KI in der Logistik zur St&#228;rkung des &#8222;Leuchtturms Logistik&#8220; am
+Wirtschaftsstandort Deutschland f&#252;r den Wettbewerb in der Daten- und Plattform&#246;konomie
+&#8226; F&#246;rderung von Lern- und Experimentierr&#228;umen KI
+&#8226; Fortentwicklung des Kompetenzzentrums Innovative Beschaffung (KOINNO), um den Anteil der
+Beschaffung von Innovationen am Gesamtvolumen des &#246;ffentlichen Einkaufs in Deutschland zu erh&#246;hen 
+&#8226; Aufbau eines &#8222;Anwendungslabors KI und Big Data&#8220; zur systematischen Nutzung von KI-Verfahren f&#252;r
+ein verbessertes Monitoring des Umweltzustandes (u. a. auf der Basis von In-situ-, Sensor-, und 
+Fernerkundungsdaten), f&#252;r die Ableitung umweltrelevanter Ma&#223;nahmen sowie zur
+Vollzugsunterst&#252;tzung f&#252;r die Umweltverwaltungen des Bundes und der L&#228;nder
+&#8226; Ausbau des KI-Observatoriums mit Fokus auf die Entwicklung einer Indikatorik, um Entwicklungen und 
+Trends von KI in Arbeit und Gesellschaft zu beobachten, Besch&#228;ftigung mit Fragen der
+menschenzentrierten Einf&#252;hrung und Anwendung von KI, besonders in der Arbeits- und 
+Sozialverwaltung und der Erforschung und Gestaltung der Mensch-Maschine Interaktion
+&#8226; Begleitung und Ausbau des GPAI
+&#8226; Ausbau der &#8222;Zukunftszentren-Ost&#8220; zu einem Bundesprogramm &#8222;Zukunftszentren KI&#8220; f&#252;r
+Zukunftszentren auch in Westdeutschland und Berlin 
+&#8226; Untersuchungen zur Nutzung von KI zur Verbesserung der Sicherheit und Leistungsf&#228;higkeit von 
+Kommunikations- und Informationssystemen in der &#246;ffentlichen Verwaltung (Netzinfrastrukturen und 
+Digitalfunk BOS)
+&#8226; Pilotierung von KI-Anwendungen im Energiesektor unter dem Dach des Future Energy Lab bei der
+Deutschen Energie-Agentur
+&#8226; F&#246;rderung von Projekten bis 2023 im Rahmen des F&#246;rderschwerpunkts: &#8222;Digitale Innovationen f&#252;r die
+Verbesserung der patientenzentrierten Versorgung im Gesundheitswesen&#8220;
+&#8226; Umsetzung der polizeilichen KI-Strategie
+Ordnungsrahmen 
+&#8226; Begleitung des angek&#252;ndigten Vorschlages der Europ&#228;ischen Kommission f&#252;r einen KI Rechtsakt durch 
+Untersuchung, ob die geltenden Rechtsvorschriften den Risiken und Anforderungen von 
+KI-Anwendungen gewachsen sind und wirksam durchgesetzt werden k&#246;nnen
+&#8226; Untersuchung der Machbarkeit einschlie&#223;lich m&#246;glicher Elemente eines v&#246;lkerrechtlichen
+Rechtsrahmens f&#252;r die Entwicklung, Gestaltung und Anwendung von KI
+&#8226; Aufbau eines Systems f&#252;r Arbeitsschutz und Arbeitssicherheit
+&#8226; Initiierung einer Dialog- und Austauschplattform zur Qualit&#228;tsinfrastruktur f&#252;r K&#252;nstliche Intelligenz;
+insbesondere in den Bereichen Gesundheitswesen und Autonome Systeme zur fr&#252;hzeitigen Einbeziehung 
+des regulatorischen Rahmens f&#252;r schnellere Zulassungsverfahren Pr&#252;fung von 
+menschenrechtspolitischen Aspekten und Definition m&#246;glicher roter Linien  
+&#8226; Umsetzung der in der Normungsroadmap KI definierten Roadmap: Entwicklung von Pr&#252;fkriterien auf
+der Basis etablierter und zu entwickelnder Pr&#252;ftechnologien zur Pr&#252;fung der Robustheit, Sicherheit, 
+Verl&#228;sslichkeit, Integrit&#228;t, Transparenz, Erkl&#228;rbarkeit, Interpretierbarkeit und Nichtdiskriminierung von 
+(hybriden) KI-Systemen
+&#8226; Schaffung eines rechtssicheren Ordnungsrahmens f&#252;r KI-Akteure in Wissenschaft und Forschung, 
+Unternehmen und Start-ups sowie f&#252;r die Bev&#246;lkerung und die &#246;ffentliche Verwaltung
+&#8226; Kartierung des durch KI ausgel&#246;sten Anpassungsbedarfs im Arbeits- und Sozialrecht sowie anderer
+Rechtsgebiete (z. B. Umwelt) und Pr&#252;fung m&#246;glicher Vorschl&#228;ge in Reaktion darauf
+&#8226; Aufbau eines Netzwerkes aus Think Tanks und f&#252;r die globale KI-Governance relevanten internationalen
+Normungs- und Regulierungsforen und technischen Standardsetzungsgremien im Rahmen des Projekts
+&#8222;International AI Governance&#8220; des Ausw&#228;rtigen Amts mit der Stiftung Neue Verantwortung e. V. 
+&#8226; Einrichtung einer zentralen Stelle zur Zertifizierung bzw. Konformit&#228;tsbewertung etwaiger bei den 
+Sicherheitsbeh&#246;rden eingesetzter KI-Systeme f&#252;r hoheitliche Aufgaben im Sicherheitsbereich
+Gesellschaft
+&#8226; Ausbau eines &#214;kosystems f&#252;r gemeinwohlorientierte KI, inklusive Start des Projekts Civic Innovation 
+Platform, des Civic Data Lab und der Civic Tech Labs for Green
+&#8226; F&#246;rderung von KI-Anwendungen zur Unterst&#252;tzung des Verbraucheralltags (sogenannter &#8222;consumer
+enabling technologies&#8220;)
+&#8226; F&#246;rderung und Ausbau von KI-Projekten zur Bewahrung, Erschlie&#223;ung, Zug&#228;nglichmachung,
+Vernetzung und Vermittlung von Kulturangeboten 
+&#8226; Aufbau von KI-Kompetenz bei der Erschlie&#223;ung und Verifizierung von Medieninhalten zur Sicherung 
+der Meinungsvielfalt 
+
+
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>Strategie K&#252;nstliche Intelligenz der Bundesregierung - Fortschreibung 2020</titel>
+    <datum>2020-12-08</datum>
+  </document>
+  

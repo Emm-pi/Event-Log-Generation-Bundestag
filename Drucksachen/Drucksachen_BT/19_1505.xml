@@ -1,0 +1,501 @@
+<document>
+    <id>218492</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/1505</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>e1f4bd08ac75c85abe06244211e2dcd5</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>232764</id>
+      <titel>Rechtsgrundlagen und Einsatz der Quellen-Telekommunikations&#252;berwachung</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium des Innern, f&#252;r Bau und Heimat</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/015/1901505.pdf</pdf_url>
+      <id>218492</id>
+      <dokumentnummer>19/1505</dokumentnummer>
+      <datum>2018-04-03</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums des Innern, f&#252;r Bau und Heimat 
+vom 27. M&#228;rz 2018 &#252;bermittelt.  
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext. 
+Deutscher Bundestag  Drucksache 19/1505 
+19. Wahlperiode 03.04.2018 
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Konstantin Kuhle, Jimmy Schulz,  
+Manuel H&#246;ferlin, weiterer Abgeordneter und der Fraktion der FDP 
+&#8211; Drucksache 19/1020 &#8211; 
+Rechtsgrundlagen und Einsatz der Quellen-Telekommunikations&#252;berwachung 
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r  
+Personen, die einer Straftat verd&#228;chtig sind, nutzen zunehmend standardm&#228;&#223;ig 
+verschl&#252;sselte Kommunikationsmittel wie beispielsweise Skype, WhatsApp
+oder Telegram. Vor diesem Hintergrund hat der Deutsche Bundestag in der 18. 
+Wahlperiode mit den Stimmen der Fraktionen der CDU/CSU und SPD den
+Einsatz der Onlinedurchsuchung und der Quellen-
+Telekommunikations&#252;berwachung (Quellen-TK&#220;) durch die Strafverfolgungsbeh&#246;rden erm&#246;glicht. Ihre 
+Rechtsgrundlage findet die Quellen-TK&#220; zu repressiven Zwecken in &#167; 100a 
+Absatz 1 Satz 2 und 3 der Strafprozessordnung (StPO). Dabei soll &#167; 100a Absatz 
+1 Satz 3 StPO eine spezifische Erm&#228;chtigungsgrundlage f&#252;r verschl&#252;sselte 
+Kommunikationsmittel enthalten, w&#228;hrend &#167; 100a Absatz 1 Satz 2 StPO die
+Erm&#228;chtigungsgrundlage f&#252;r unverschl&#252;sselte Kommunikationsmittel enthalten 
+soll (vgl. Formulierungshilfe der Bundesregierung f&#252;r einen &#196;nderungsantrag 
+der Fraktionen der CDU/CSU und SPD zu dem Gesetzentwurf der
+Bundesregierung auf Bundestagsdrucksache 18/11272, Ausschussdrucksache 18(6)334).  
+Medienberichten zufolge hat das Bundeskriminalamt (BKA) nun damit
+begonnen, dieses Instrument zu nutzen, um so auch verschl&#252;sselte Botschaften lesen  
+zu k&#246;nnen (vgl. www.sueddeutsche.de/digital/ueberwachung-polizei-
+spionierthandynutzer-mit-trojaner-aus-1.3842439, letzter Abruf: 20. Februar 2018).
+Neben der eigens konzeptionierten Remote Communication Interception Software 
+(RCIS) stehe dem BKA hierf&#252;r die von der FinFisher GmbH entwickelte
+Software FinSpy zur Verf&#252;gung. Unbekannt ist, wie oft und mit welchem Erfolg die  
+Programme bereits zur Strafverfolgung eingesetzt wurden (vgl. https://netzpolitik. 
+org/2018/breitseite-gegen-staatstrojaner-in-hessen-verfassungswidrig-
+undgefaehrlich/, letzter Abruf: 20. Februar 2018). 
+Das Bundesverfassungsgericht (BVerfG) legte im Jahr 2008 f&#252;r die
+&#220;berwachung informationstechnischer Systeme zu pr&#228;ventiven Zwecken einen
+differenzierten Pr&#252;fungsma&#223;stab fest. Wenn und solange sich eine &#220;berwachung 
+ausschlie&#223;lich auf Daten aus einem laufenden Telekommunikationsvorgang
+beschr&#228;nkt, ist ihre Rechtsgrundlage nur an Artikel 10 des Grundgesetzes (GG) 
+(Fernmeldegeheimnis) zu messen. Sind daneben weitere personenbezogene
+Daten umfasst, die einen Einblick in wesentliche Teile der Lebensgestaltung des
+Betroffenen oder gar ein aussagekr&#228;ftiges Bild seiner Pers&#246;nlichkeit geben,
+betrifft die Ma&#223;nahme zugleich das Grundrecht auf Gew&#228;hrleistung der
+Vertraulichkeit und Integrit&#228;t informationstechnischer Systeme aus Artikel 2 Absatz 1 
+i. V. m. Artikel 1 Absatz 1 GG. Dieser spezifische Grundrechtsschutz erstrecke 
+sich auch &#8222;auf solche Mobiltelefone oder elektronische Terminkalender, die 
+&#252;ber einen gro&#223;en Funktionsumfang verf&#252;gen und personenbezogene Daten 
+vielf&#228;ltiger Art erfassen und speichern k&#246;nnen&#8220; (vgl. BVerfG, Urteil vom  
+27. Februar 2008 &#8211; 1 BvR 370/07, 1 BvR 595/07, Rn. 203).  
+In Bezug auf die Eingriffserm&#228;chtigung forderte das BVerfG, dass diese
+&#8222;tats&#228;chliche Anhaltspunkte einer konkreten Gefahr f&#252;r ein &#252;berragend wichtiges 
+Rechtsgut&#8220; voraussetzen m&#252;sse, und stellte fest: &#8222;Zum Schutz sonstiger
+Rechtsg&#252;ter Einzelner oder der Allgemeinheit in Situationen, in denen eine
+existenzielle Bedrohungslage nicht besteht, ist eine staatliche Ma&#223;nahme grunds&#228;tzlich 
+nicht angemessen&#8220; (vgl. BVerfG, Urteil vom 27. Februar 2008 &#8211; 1 BvR 370/07, 
+1 BvR 595/07, Rn. 247 bis 248). Ferner seien &#8211; neben der Erforderlichkeit einer 
+richterlichen Anordnung &#8211;Vorkehrungen f&#252;r den Schutz des Kernbereichs
+privater Lebensgestaltung zu treffen. 
+In einer j&#252;ngeren Entscheidung zur pr&#228;ventiven Quellen-TK&#220; nach &#167; 20l
+Absatz 2 des Bundeskriminalamtgesetzes (BKAG) hob das BVerfG hervor, dass 
+ma&#223;geblich sei, dass &#8222;das Gesetz keinen Zweifel lasse, dass eine Quellen-TK&#220; 
+nur bei einer technisch sichergestellten Begrenzung der &#220;berwachung auf die 
+laufende Kommunikation erlaubt ist&#8220;. Anderenfalls k&#228;me nur ein Vorgehen in 
+Form einer Online-Durchsuchung unter den Voraussetzungen von &#167; 20k Absatz 
+1 BKAG in Betracht (vgl. BVerfG, Urteil vom 20. April 2016 &#8211; 1 BvR 966/09, 
+1 BvR 1140/09, Rn. 234).  
+Das BKA ist der Auffassung, dass die eingesetzte Quellen-TK&#220;
+ausschlie&#223;lich Inhalte der laufenden Kommunikation zug&#228;nglich mache (vgl. www. 
+bka.de/DE/UnsereAufgaben/Ermittlungsunterstuetzung/Technologien/ 
+QuellentkueOnlinedurchsuchung/quellentkueOnlinedurchsuchung_node. 
+html, letzter Abruf: 20. Februar 2018). Demzufolge w&#228;ren die vom BVerfG im 
+Urteil vom 27. Februar 2008 geforderten Voraussetzungen zum Eingriff in das 
+Grundrecht auf Gew&#228;hrleistung der Vertraulichkeit und Integrit&#228;t
+informationstechnischer Systeme nicht einschl&#228;gig (vgl. auch Bundestagsdrucksache 
+18/12785, S. 50). 
+Diese Annahme wurde im Rahmen der &#246;ffentlichen Anh&#246;rung zur
+Formulierungshilfe der Bundesregierung zum &#196;nderungsantrag der Fraktionen der 
+CDU/CSU und SPD zu dem Gesetzentwurf der Bundesregierung bezweifelt (vgl. 
+Stellungnahme des Sachverst&#228;ndigen Dr. Ulf Buermeyer, S. 9, www.bundestag. 
+de/blob/508848/bdf7512e32578b699819a5aa33dde93c/buermeyer-data.pdf, 
+letzter Abruf 23. Februar 2018). Die systematische Einordnung der Quellen-
+TK&#220; gemeinsam mit der konventionellen Telekommunikations&#252;berwachung in 
+&#167; 100a StPO suggeriere f&#228;lschlicherweise, dass es sich um einen vergleichbaren 
+Eingriff handele. Bezogen auf die Eingriffsintensit&#228;t stehe sie in Wahrheit der 
+Online-Durchsuchung nahe, da beide Ma&#223;nahmen die Infiltration des Systems 
+erforderten (vgl. auch Blechschmitt, Zur Einf&#252;hrung von Quellen-TK&#220; und
+Online-Durchsuchung, StraFo 9/2017 S. 361 bis 365). Der Wortlaut des &#167; 100a 
+Absatz 1 Satz 3 StPO verdeutliche, dass technisch m&#246;glich sei, was rechtlich 
+nicht m&#246;glich sein soll: &#8222;Auf dem informationstechnischen System des
+Betroffenen gespeicherte Inhalte und Umst&#228;nde der Kommunikation d&#252;rfen
+&#252;berwacht und aufgezeichnet werden, wenn sie auch w&#228;hrend des laufenden
+&#220;bertragungsvorgangs im &#246;ffentlichen Telekommunikationsnetz in verschl&#252;sselter 
+Form h&#228;tten &#252;berwacht und aufgezeichnet werden k&#246;nnen.&#8220; 
+Diese Regelung zeige, dass die Ermittlungsbeh&#246;rden auf s&#228;mtliche
+gespeicherten Kommunikationen zugreifen k&#246;nnen. Zwar sehe &#167; 100a Absatz 5 Nummer 
+1 Buchstabe b StPO vor, dass bei Ma&#223;nahmen nach Absatz 1 Satz 3 technisch 
+sicherzustellen ist, dass ausschlie&#223;lich solche gespeicherten Inhalte und
+Kommunikationen &#252;berwacht und aufgezeichnet werden k&#246;nnen, die ab dem
+Zeitpunkt der Anordnung h&#228;tten &#252;berwacht und aufgezeichnet werden k&#246;nnen. Um 
+diese Pr&#252;fung aber ausf&#252;hren zu k&#246;nnen, m&#252;sse das Programm zun&#228;chst alle 
+gespeicherten Kommunikationsinhalte auslesen und auswerten, um entscheiden 
+zu k&#246;nnen, welche davon nach dem Beginn der Ma&#223;nahme gespeichert wurden 
+(vgl. Stellungnahme des Sachverst&#228;ndigen Dr. Ulf Buermeyer, S. 17, Link s. o., 
+dies voraussetzend auch Bundestagsdrucksache 18/12785, S. 52). Das aber
+bedeute, dass technisch bereits die &#8222;entscheidende H&#252;rde genommen ist, um das 
+System insgesamt auszusp&#228;hen&#8220;, mit der Folge, dass der Eingriff an Artikel 2 
+Absatz 1 i. V. m. Artikel 1 Absatz 1 GG zu messen sei (vgl. BVerfG, Urteil von 
+27. Februar 2008 &#8211; 1 BvR 370/07, 1 BvR 595/07, Rn. 188). 
+Vor diesem Hintergrund bestehen erhebliche praktische und
+verfassungsrechtliche Unsicherheiten im Zusammenhang mit den geltenden Regelungen zur 
+Quellen-TK&#220;. 
+V o r b e me r k u n g  d e r  B u n d e s r e g i e r u n g  
+Die vorliegend in den Fragen 11, 16, 17 und 18 erbetenen Ausk&#252;nfte betreffen 
+zum Teil geheimhaltungsbed&#252;rftige Informationen zur Arbeitsweise, Methodik 
+und den Aufkl&#228;rungsaktivit&#228;ten des Bundesnachrichtendienstes (BND) sowie im 
+Hinblick auf Frage 11 und 18 des Bundesamts f&#252;r Verfassungsschutz (BfV). Sie 
+ber&#252;hren in besonders hohem Ma&#223;e das Wohl des Bundes und k&#246;nnen deshalb 
+im konkreten Fall selbst in eingestufter Form nicht erteilt werden. Zu dieser
+Entscheidung ist die Bundesregierung nach sorgf&#228;ltiger Abw&#228;gung der
+widerstreitenden Interessen gelangt. In einen angemessenen Ausgleich zu bringen waren in 
+diesem Fall einerseits das verfassungsrechtlich verb&#252;rgte Frage- und
+Informationsrecht des Parlaments (Artikel 38 Absatz 1 Satz 2 und Artikel 20 Absatz 2 
+Satz 2 des Grundgesetzes) und andererseits das ebenfalls Verfassungsrang
+genie&#223;ende schutzw&#252;rdige Interesse des Wohls des Bundes (Staatswohl) sowie das
+Interesse an einer funktionsgerechten Aufgabenwahrnehmung des BND als
+deutscher Auslandsnachrichtendienst. 
+Im Einzelnen: 
+Die Fragen 11 und 18 in Bezug auf den BND und das BfV sowie die Fragen 16 
+und 17 in Bezug auf den BND zielen auf solche Informationen, die in besonders 
+hohem Ma&#223;e das Staatswohl ber&#252;hren und daher durch die Bundesregierung nicht 
+beantwortet werden k&#246;nnen. Das verfassungsrechtlich verb&#252;rgte Frage- und
+Informationsrecht des Deutschen Bundestages gegen&#252;ber der Bundesregierung
+findet seine Grenzen durch das gleichfalls Verfassungsrang genie&#223;ende
+schutzw&#252;rdige Interesse des Staatswohls. Mit einer Beantwortung dieser Fragen w&#252;rden 
+Einzelheiten zur Methodik des BND und des BfV offengelegt, welche die weitere 
+Arbeitsf&#228;higkeit und Aufgabenerf&#252;llung auf dem spezifischen Gebiet der
+technischen Aufkl&#228;rung gef&#228;hrden w&#252;rde. Die Offenlegung der konkreten
+nachrichtendienstlichen technischen Methoden birgt das Risiko der Kenntniserlangung dieser 
+Ma&#223;nahmen durch beobachtete Akteure. Es best&#252;nde die Gefahr, dass diese
+Mittel zur Informationsgewinnung unwirksam werden. Eine Auflistung der
+konkreten Verfahrensweisen beim Einsatz von IT-gest&#252;tzten technischen
+Aufkl&#228;rungsmitteln w&#252;rde dar&#252;ber hinaus weitgehende R&#252;ckschl&#252;sse auf technische
+Ausstattungen und M&#246;glichkeiten des BND und des BfV und somit mittelbar auch auf 
+das Aufkl&#228;rungsprofil des BND zulassen, so dass unmittelbare, schutzw&#252;rdige 
+Geheimhaltungsinteressen ber&#252;hrt sind.
+Des Weiteren k&#246;nnten die F&#228;higkeiten des BND und des BfV,
+nachrichtendienstliche Erkenntnisse im Wege der technischen Aufkl&#228;rung zu gewinnen, durch ein 
+Bekanntwerden bei den Betreibern entsprechender Dienste in erheblicher Weise 
+negativ beeinflusst werden. 
+Die Gewinnung von Informationen durch technische Aufkl&#228;rung ist f&#252;r die
+Sicherheit der Bundesrepublik Deutschland und f&#252;r die sich aus &#167; 1 Absatz 2 des 
+BND-Gesetzes (BNDG) bzw. &#167; 3 Absatz 1 des Gesetzes &#252;ber die
+Zusammenarbeit des Bundes und der L&#228;nder in Angelegenheiten des Verfassungsschutzes und 
+&#252;ber das Bundesamt f&#252;r Verfassungsschutz (BVerfSchG) ergebende
+Aufgabenerf&#252;llung von BND und BfV jedoch unerl&#228;sslich. Sofern solche Informationen 
+entfallen oder wesentlich zur&#252;ckgehen sollten, w&#252;rden empfindliche
+Informationsl&#252;cken auch im Hinblick auf die Sicherheitslage der Bundesrepublik
+Deutschland drohen. Insbesondere ist das sonstige Informationsaufkommen des BND 
+nicht ausreichend, um ein vollst&#228;ndiges Lagebild zu erhalten und
+Informationsdefizite im Bereich der technischen Aufkl&#228;rung auszugleichen. Insofern birgt eine 
+Offenlegung der angefragten Informationen die Gefahr, dass Einzelheiten zur 
+konkreten Methodik und zu aus den vorgenannten Gr&#252;nden im hohen Ma&#223;e 
+schutzw&#252;rdigen, spezifischen technischen F&#228;higkeiten des BND und des BfV
+bekannt w&#252;rden. Infolgedessen k&#246;nnten sowohl ausl&#228;ndische staatliche als auch 
+nichtstaatliche Akteure R&#252;ckschl&#252;sse auf spezifische Vorgehensweisen und
+technische F&#228;higkeiten des BND und des BfV ziehen. Dies w&#252;rde folgenschwere
+Einschr&#228;nkungen der Informationsgewinnung bedeuten, womit letztlich der
+gesetzliche Auftrag des BND &#8211; die Sammlung und Auswertung von Informationen &#252;ber 
+das Ausland, die von au&#223;en- und sicherheitspolitischer Bedeutung f&#252;r die
+Bundesrepublik Deutschland sind (&#167; 1 Absatz 2 BNDG) &#8211; und des BfV &#8211; die
+Sammlung und Auswertung von Informationen insbesondere &#252;ber Bestrebungen, die 
+gegen die freiheitliche demokratische Grundordnung, den Bestand oder die
+Sicherheit des Bundes oder eines Landes gerichtet sind, sowie &#252;ber
+sicherheitsgef&#228;hrdende oder geheimdienstliche T&#228;tigkeiten f&#252;r eine fremde Macht (&#167; 3
+Absatz 1 BVerfSchG) &#8211; nicht mehr sachgerecht erf&#252;llt werden k&#246;nnten. 
+Eine VS-Einstufung und Weiterleitung der angefragten Informationen an die
+Geheimschutzstelle des Deutschen Bundestages kommt angesichts ihrer erheblichen 
+Brisanz im Hinblick auf die Bedeutung der technischen Aufkl&#228;rung f&#252;r die
+Aufgabenerf&#252;llung des BND und des BfV und den zuvor benannten Gr&#252;nden nicht 
+in Betracht, weil insoweit auch ein geringf&#252;giges Risiko des Bekanntwerdens
+unter keinen Umst&#228;nden hingenommen werden kann (vgl. BVerfGE 124, 78 [139]). 
+Die angefragten Inhalte erfordern eine derart detaillierte Darstellung der
+technischen F&#228;higkeiten des BND und des BfV, dass eine Bekanntgabe auch gegen&#252;ber 
+einem begrenzten Kreis von Empf&#228;ngern ihrem Schutzbed&#252;rfnis nicht Rechnung 
+tragen kann. Dies gilt umso mehr, als sie u. a. Spezifika betreffen, deren
+technische Umsetzung nur durch bestimmte Verfahren erfolgen kann. Bei einem
+Bekanntwerden der schutzbed&#252;rftigen Informationen w&#228;re kein Ersatz durch andere 
+Instrumente der Informationsbeschaffung m&#246;glich. 
+Aus dem Vorgesagten ergibt sich, dass die mit den Fragen 11 und 18 zu BND und 
+BfV und den Fragen 16 und 17 zu BND erbetenen Informationen derart
+schutzbed&#252;rftige Geheimhaltungsinteressen ber&#252;hren, dass das Staatswohl gegen&#252;ber 
+dem parlamentarischen Informationsrecht in diesem Fall wesentlich &#252;berwiegt. 
+Insofern muss ausnahmsweise das Fragerecht der Abgeordneten gegen&#252;ber den 
+Geheimhaltungsinteressen des BND und des BfV zur&#252;ckstehen.
+Die in den Fragen 1, 2, 4, 5, 6, 7, 11, 12, 13, 16 und 17 erbetenen Ausk&#252;nfte sind 
+geheimhaltungsbed&#252;rftig, weil sie Informationen enthalten, die im
+Zusammenhang mit der Arbeitsweise und Methodik der von der Kleinen Anfrage
+betroffenen Dienststellen des Bundes und insbesondere deren technischen F&#228;higkeiten 
+stehen und damit mittelbar R&#252;ckschl&#252;sse auch auf die (geplante) technische
+Ausstattung und das Know-how der Dienststellen zulassen. Die Antworten auf die 
+Kleine Anfrage beinhalten zum Teil detaillierte Einzelheiten zu ihren technischen 
+F&#228;higkeiten und ermittlungstaktischen Verfahrensweisen. Aus ihrem
+Bekanntwerden k&#246;nnten R&#252;ckschl&#252;sse auf ihre Vorgehensweise, F&#228;higkeiten und
+Methoden gezogen werden. Deshalb sind einzelne Informationen gem&#228;&#223; der
+Allgemeinen Verwaltungsvorschrift des Bundesministeriums des Innern zum materiellen 
+und organisatorischen Schutz von Verschlusssachen (VS-Anweisung &#8211; VSA) als 
+&#8222;VS-Nur f&#252;r den Dienstgebrauch&#8220; eingestuft und werden als nicht zur
+Ver&#246;ffentlichung in einer Bundestagsdrucksache bestimmte Anlage &#252;bermittelt.* 
+Dar&#252;ber hinaus kann die Bundesregierung die mit den Fragen 1, 2, 5, 7, 8, 9, 10, 
+16, 17, 18 und 22 erbetenen Ausk&#252;nfte selbst in eingestufter Form nicht oder nicht 
+vollst&#228;ndig erteilen. Zu dieser Entscheidung ist die Bundesregierung nach
+sorgf&#228;ltiger Abw&#228;gung der widerstreitenden Interessen gelangt. In einen
+angemessenen Ausgleich zu bringen waren auch in diesem Fall einerseits das
+verfassungsrechtlich verb&#252;rgte Frage- und Informationsrecht des Parlaments (Artikel 38
+Absatz 1 Satz 2 und Artikel 20 Absatz 2 Satz 2 des Grundgesetzes) und andererseits 
+das ebenfalls Verfassungsrang genie&#223;ende schutzw&#252;rdige Interesse des Wohls 
+des Bundes (Staatswohl) sowie das Interesse an einer funktionsgerechten
+Aufgabenwahrnehmung des BKA, der BPOL und des Zolls im Zusammenhang mit der 
+(internationalen) Verbrechensbek&#228;mpfung. 
+Im Einzelnen: 
+Die Fragen zielen auf einen &#228;u&#223;erst sensiblen Bereich der verdeckten
+informationstechnischen Informationsgewinnung und ber&#252;hren daher in besonders hohem 
+Ma&#223;e das Wohl des Bundes. 
+Die Informationen sind besonders geheimhaltungsbed&#252;rftig, weil sie im Ergebnis 
+weitgehende R&#252;ckschl&#252;sse auf die technischen F&#228;higkeiten und damit mittelbar 
+auch auf die (geplante) technische Ausstattung und das Know-how des BKA, der 
+BPOL und des Zolls zulassen. Dadurch k&#246;nnten die zur effektiven
+Strafverfolgung und Gefahrenabwehr notwendigen F&#228;higkeiten des BKA, der BPOL und 
+des Zolls in erheblicher Weise negativ beeinflusst und somit auch zuk&#252;nftige 
+Ma&#223;nahmen der informationstechnischen &#220;berwachung erheblich erschwert 
+bzw. unm&#246;glich werden. 
+Die Gewinnung von Informationen durch Ma&#223;nahmen der
+informationstechnischen &#220;berwachung ist f&#252;r die Aufgabenerf&#252;llung des BKA, der BPOL und des 
+Zolls sowie weiterer hierf&#252;r gesetzlich befugter Sicherheitsbeh&#246;rden und damit 
+f&#252;r die Sicherheit der Bundesrepublik Deutschland unerl&#228;sslich. 
+Eine VS-Einstufung und Weiterleitung der angefragten Informationen an die
+Geheimschutzstelle des Deutschen Bundestages kommt angesichts ihrer erheblichen 
+Brisanz im Hinblick auf die Bedeutung der technischen Aufkl&#228;rung f&#252;r die
+Aufgabenerf&#252;llung der betroffenen Beh&#246;rden und den zuvor benannten Gr&#252;nden 
+nicht in Betracht, weil insoweit auch ein geringf&#252;giges Risiko des
+Bekanntwerdens unter keinen Umst&#228;nden hingenommen werden kann (vgl. BVerfGE 124, 78 
+                                                     
+* Das Bundesministerium des Innern, f&#252;r Bau und Heimat hat Teile der Antworten zu den Fragen 1, 2, 4 bis 7, 11 bis 13, 16 und 17 als 
+&#8222;VS &#8211; Nur f&#252;r den Dienstgebrauch&#8220; eingestuft. 
+Die Antwort ist im Parlamentssekretariat des Deutschen Bundestages hinterlegt und kann dort von Berechtigten eingesehen werden.
+[139]). Bereits Angaben z. B. zu Installationsversuchen, Funktionsumfang oder 
+konkreten Diensten bzw. Betriebssystemen seitens des BKA bei Ma&#223;nahmen der 
+Informationstechnischen &#220;berwachung k&#246;nnte die weitere Gewinnung von
+Informationen durch Ma&#223;nahmen der informationstechnischen &#220;berwachung
+erheblich erschweren bzw. gar unm&#246;glich machen. In diesem Fall w&#228;re ein Ersatz 
+durch andere Instrumente nicht m&#246;glich. Aus dem Vorgesagten ergibt sich, dass 
+die erbetenen Informationen derart schutzbed&#252;rftige Geheimhaltungsinteressen 
+ber&#252;hren, dass das Staatswohl gegen&#252;ber dem parlamentarischen
+Informationsrecht &#252;berwiegt. Insofern muss ausnahmsweise das Fragerecht der Abgeordneten 
+gegen&#252;ber den Geheimhaltungsinteressen der betroffenen Sicherheitsbeh&#246;rden 
+zur&#252;ckstehen. 
+1. In wie vielen F&#228;llen wurde vom BKA bereits Software zur &#220;berwachung 
+informationstechnischer Systeme zur Gefahrenabwehr eingesetzt, und in wie 
+vielen F&#228;llen erfolgt dies derzeit? 
+2. In wie vielen F&#228;llen wurde vom BKA bereits Software zur &#220;berwachung 
+informationstechnischer Systeme zur Strafverfolgung eingesetzt, und in wie 
+vielen F&#228;llen erfolgt dies derzeit?  
+In wie vielen F&#228;llen wurde die Ma&#223;nahme dabei auf &#167; 100a Absatz 1 Satz 3 
+und in wie vielen F&#228;llen auf &#167; 100a Absatz 1 Satz 2 StPO gest&#252;tzt (bitte
+aufschl&#252;sseln)? 
+Es wird auf die Vorbemerkung und den als Verschlusssache mit dem
+Einstufungsgrad &#8222;VS &#8211; Nur f&#252;r den Dienstgebrauch&#8220; eingestuften Antwortteil verwiesen.* 
+3. Wie erfolgt die praktische Abgrenzung zwischen &#167; 100a Absatz 1 Satz 2 und 
+&#167; 100a Absatz 1 Satz 3 StPO? 
+Produkte zur Durchf&#252;hrung von Ma&#223;nahmen der Quellen-TK&#220; nach &#167; 100a
+Absatz 1 Satz 2 und 3 der Strafprozessordnung (StPO) sind entsprechend der
+rechtlichen Rahmenbedingungen ausgestaltet. Hinsichtlich der rechtlichen
+Voraussetzungen der Quellen-TK&#220; in &#167; 100a Absatz 1 Satz 2 und Satz 3 StPO wird auf die 
+Antwort zu Frage 19 verwiesen. 
+4. Auf welche Arten informationstechnischer Systeme (Hardware) wurde bei 
+der &#220;berwachung informationstechnischer Systeme zur Strafverfolgung
+jeweils, d. h. nach beiden Rechtsgrundlagen &#167; 100a Absatz 1 Satz 2 und 3 
+StPO, zugegriffen (Tablets, PCs, Smartphones) (bitte aufschl&#252;sseln)? 
+Es wird auf die Vorbemerkung und im &#220;brigen auf den als Verschlusssache mit 
+dem Einstufungsgrad &#8222;VS &#8211; Nur f&#252;r den Dienstgebrauch&#8220; eingestuften
+Antwortteil verwiesen.*
+5. Auf welche konkreten Messenger-Dienste (Software wie z. B. Skype, 
+WhatsApp) wurde in diesen F&#228;llen jeweils zugegriffen?  
+Auf welchen Betriebssystemen liefen die &#252;berwachten Dienste (Windows, 
+Linux, Android etc.) (bitte aufschl&#252;sseln)? 
+Auf den als Verschlusssache mit dem Einstufungsgrad &#8222;VS &#8211; Nur f&#252;r den
+Dienstgebrauch&#8220; eingestuften Antwortteil wird verwiesen. Im &#220;brigen kann die
+Bundesregierung unter Bezugnahme auf die Vorbemerkung hierzu keine weitere
+Aussage treffen. 
+6. Aufgrund des Verdachts welcher Straftatbest&#228;nde wurde die Software zur 
+&#220;berwachung informationstechnischer Systeme bereits eingesetzt (bitte 
+nach Straftatbest&#228;nden und Erm&#228;chtigungsgrundlagen &#167; 100a Absatz 1 
+Satz 2 und Satz 3 StPO aufschl&#252;sseln)? 
+Es wird auf den als Verschlusssache mit dem Einstufungsgrad &#8222;VS &#8211; Nur f&#252;r den 
+Dienstgebrauch&#8220; eingestuften Antwortteil verwiesen. 
+7. Wie vieler Versuche bedurfte es bei diesen Eins&#228;tzen f&#252;r die erfolgreiche 
+Installation der Software? 
+Auf den als Verschlusssache mit dem Einstufungsgrad &#8222;VS &#8211; Nur f&#252;r den
+Dienstgebrauch&#8220; eingestuften Antwortteil wird verwiesen. Im &#220;brigen kann die
+Bundesregierung unter Bezugnahme auf die Vorbemerkung hierzu keine weitere
+Aussage treffen. 
+8. Wie lange dauert der durchschnittliche Einsatz von Software zur
+&#220;berwachung informationstechnischer Systeme durch das BKA in diesen F&#228;llen an? 
+9. Welche Unterschiede bestehen konkret zwischen den eingesetzten
+Programmen &#8222;RCIS&#8220; und &#8222;FinSpy&#8220;? 
+10. Nach welchen Kriterien trifft das BKA die Entscheidung, welches
+Softwarepaket (z. B. &#8222;RCIS&#8220; oder &#8222;FinSpy&#8220;) zur &#220;berwachung
+informationstechnischer Systeme zum Einsatz kommt? 
+Unter Bezugnahme auf die Vorbemerkung kann die Bundesregierung hierzu 
+keine Aussage treffen. 
+11. Verwenden neben dem BKA auch andere Beh&#246;rden auf Bundesebene bereits 
+Software zur &#220;berwachung informationstechnischer Systeme nach den
+Regeln der Quellen-TK&#220;?  
+Wenn ja, welche Beh&#246;rden sind dies, und in vielen F&#228;llen erfolgte der
+Einsatz? 
+F&#252;r den BND und das BfV wird auf die Vorbemerkung verwiesen. Im &#220;brigen 
+wird auf den als Verschlusssache mit dem Einstufungsgrad &#8222;VS &#8211; Nur f&#252;r den 
+Dienstgebrauch&#8220; eingestuften Antwortteil verwiesen.
+12. In wie vielen Strafverfahren sind die durch den Einsatz von Software zur 
+&#220;berwachung informationstechnischer Systeme nach den Regeln der
+Quellen-TK&#220; gewonnenen Erkenntnisse bereits als Beweis eingebracht worden, 
+und welche Straftatbest&#228;nde wurden angeklagt (bitte aufschl&#252;sseln)? 
+13. In wie vielen Strafverfahren und aufgrund welcher Straftatbest&#228;nde, in denen 
+durch den Einsatz von Software zur &#220;berwachung informationstechnischer 
+Systeme gewonnene Erkenntnisse als Beweis eingebracht wurden, erfolgte 
+eine Verurteilung der Angeklagten? 
+Die Fragen 12 und 13 werden gemeinsam beantwortet. 
+In Strafverfahren des Generalbundesanwalts wurden bislang keine unter
+Anwendung des neuen &#167; 100a Absatz 1 Satz 2 und 3 StPO erlangten Beweismittel in ein 
+Strafverfahren eingebracht. &#220;ber den Einsatz im Bereich der Strafverfolgung auf 
+L&#228;nderebene liegen der Bundesregierung keine Erkenntnisse vor. 
+Im &#220;brigen wird auf den als Verschlusssache mit dem Einstufungsgrad &#8222;VS &#8211; 
+Nur f&#252;r den Dienstgebrauch&#8220; eingestuften Antwortteil verwiesen. 
+14. Entspricht es der Auffassung der Bundesregierung, dass die Quellen-TK&#220; 
+technisch mit einer Onlinedurchsuchung vergleichbar ist?  
+Wenn ja, warum?  
+Wenn nein, warum nicht? 
+Die technische Umsetzung richtet sich nach den rechtlichen Vorgaben. Auf die 
+Antwort zu Frage 15 wird verwiesen. 
+15. Entspricht es der Auffassung der Bundesregierung, dass die Quellen-TK&#220; 
+hinsichtlich ihrer rechtlichen Anforderungen, insbesondere im Hinblick auf 
+einen Eingriff in das Grundrecht auf Gew&#228;hrleistung der Vertraulichkeit und 
+Integrit&#228;t informationstechnischer Systeme aus Artikel 2 Absatz 1 i. V. m. 
+Artikel 1 Absatz 1 GG mit einer Onlinedurchsuchung vergleichbar ist?  
+Wenn ja, warum?  
+Wenn nein, warum nicht? 
+Die rechtlichen Anforderungen f&#252;r die Quellen-TK&#220; zu repressiven Zwecken
+ergeben sich aus &#167; 100a StPO. Die rechtlichen Anforderungen f&#252;r die Online-
+Durchsuchung sind dann in &#167; 100b geregelt. Die rechtliche Ausgestaltung der
+Befugnisse ist entsprechend den Anforderungen des Bundesverfassungsgerichts f&#252;r 
+Eingriffe in das Fernmeldegeheimnis nach Artikel 10 Absatz 1 des Grundgesetz 
+(GG) und in das Grundrecht auf Gew&#228;hrleistung der Vertraulichkeit und Integrit&#228;t 
+informationstechnischer Systeme nach Artikel 2 Absatz 1 in Verbindung mit
+Artikel 1 Absatz 1 GG erfolgt. Auf die Ausf&#252;hrungen in der Beschlussempfehlung 
+und Bericht des Ausschusses f&#252;r Recht und Verbraucherschutz (6. Ausschuss &#8211; 
+Bundestagsdrucksache 18/12785, S. 47 ff.) wird verwiesen.
+16. Wird f&#252;r die Onlinedurchsuchung und f&#252;r die Quellen-TK&#220; dieselbe
+Software eingesetzt?  
+17. Ist die zur &#220;berwachung informationstechnischer Systeme verwandte
+Software grunds&#228;tzlich in der Lage, sowohl eine Quellen-TK&#220; als auch eine
+Onlinedurchsuchung auszuf&#252;hren, und wie unterscheiden sich die verwandten 
+Programme diesbez&#252;glich?  
+18. Wie kann nach Auffassung der Bundesregierung technisch sichergestellt 
+werden, dass die zur Quellen-TK&#220; eingesetzte Software ausschlie&#223;lich auf 
+Inhalte der laufenden Kommunikation zugreift, sie also &#8222;nicht mehr kann, 
+als sie darf&#8220;?  
+Wie geschieht dies in der Praxis? 
+Die Fragen 16 bis 18 werden gemeinsam beantwortet. 
+Gesetzlich befugte Sicherheitsbeh&#246;rden nutzen zur Durchf&#252;hrung von
+Ma&#223;nahmen der Quellen-TK&#220; und Online-Durchsuchung verschiedene
+Softwareprodukte, um die operativen Bedarfslagen abzudecken. Zum individuellen
+Funktionsumfang und den taktischen Einsatzm&#246;glichkeiten k&#246;nnen unter Bezugnahme auf 
+die Vorbemerkung keine Aussagen getroffen werden. 
+Produkte zur Durchf&#252;hrung von Ma&#223;nahmen der informationstechnischen
+&#220;berwachung werden vor ihrem Einsatz auf Konformit&#228;t mit der aktuellen Rechtslage 
+gepr&#252;ft. Erst nach positivem Abschluss dieser Pr&#252;fungen werden die Produkte f&#252;r 
+den Einsatz freigegeben. 
+Im &#220;brigen wird bzgl. der Fragen 16 und 17 auf den als Verschlusssache mit dem 
+Einstufungsgrad &#8222;VS &#8211; Nur f&#252;r den Dienstgebrauch&#8220; eingestuften Antwortteil 
+verwiesen. 
+19. Welchen Anwendungsbereich hat &#167; 100a Absatz 1 Satz 3 StPO f&#252;r den Fall, 
+dass die von deutschen Ermittlungsbeh&#246;rden eingesetzte Software zur
+&#220;berwachung informationstechnischer Systeme ausschlie&#223;lich auf die laufende 
+Kommunikation zugreifen kann? 
+Auf die Ausf&#252;hrungen in der Beschlussempfehlung und Bericht des Ausschusses 
+f&#252;r Recht und Verbraucherschutz (6. Ausschuss &#8211; Bundestagsdrucksache 18/12785, 
+S. 47 ff.) wird verwiesen. 
+20. Erlaubt &#167; 100a Absatz 1 Satz 3 StPO nach Ansicht der Bundesregierung auch 
+den Zugriff auf gespeicherte Kommunikationsinhalte, wenn sie nicht in
+verschl&#252;sselter Form &#252;bertragen worden sind?  
+Wie kann technisch zwischen gespeicherten Kommunikationsinhalten
+unterschieden werden, die einerseits verschl&#252;sselt und andererseits
+unverschl&#252;sselt &#252;bermittelt worden sind? 
+Auf die Antwort zu Frage 19 wird verwiesen. 
+21. Erfasst die &#220;berwachung nach &#167; 100a Absatz 1 Satz 2 und 3 StPO auch den 
+blo&#223;en Datenaustausch zwischen digitalen Endger&#228;ten oder den einseitigen 
+Informationsabruf (z. B. beim Surfen im Internet, vgl. BVerfG,
+Beschluss vom 6. Juli 2016 &#8211; 2 BvR 1454/13, Rn. 32 ff., oder der Nutzung von 
+Cloud-Inhalten), oder ist in diesen F&#228;llen &#167; 100b StPO anwendbar? 
+&#167; 100a Absatz 1 Satz 2 und 3 StPO erfasst die &#220;berwachung und Aufzeichnung 
+der Telekommunikation. Der Begriff der Telekommunikation umfasst alle
+Formen der Nachrichten&#252;bermittlung unter Raum&#252;berwindung in nichtk&#246;rperlicher
+Weise mittels technischer Einrichtungen, auch von Maschine zu Maschine. 
+&#167; 100b StPO erlaubt die Erhebung von Daten, die sich auf einem von dem
+Betroffenen genutzten informationstechnischen System befinden. 
+22. Ist nach Ansicht der Bundesregierung mit der zur Verf&#252;gung stehenden
+Software ein Zugriff auf gespeicherte Kommunikationsinhalte im Sinne von 
+&#167; 100a Absatz 1 Satz 3 StPO m&#246;glich, ohne zugleich technisch auf s&#228;mtliche 
+auf dem informationstechnischen System gespeicherte
+Kommunikationsinhalte zuzugreifen?  
+Wenn ja, wie ist dies nach Ansicht der Bundesregierung m&#246;glich, und wie 
+stellt sie es in der Praxis sicher? 
+Es wird auf die Antwort zu den Fragen 16 bis 18 verwiesen. 
+23. Ist der Zugriff auf Kommunikationsinhalte, die vor der Anordnung der
+&#220;berwachung des informationstechnischen Systems &#252;bermittelt worden sind nach 
+Auffassung der Bundesregierung rechtlich zul&#228;ssig, und wenn ja, aufgrund 
+welcher Rechtsgrundlage?  
+Eine Ma&#223;nahme nach &#167; 100a Absatz 1 Satz 3 StPO ist zeitlich auf
+Kommunikationsinhalte begrenzt, die nach dem Ergehen des richterlichen Beschlusses
+abgesendet werden. &#196;ltere Nachrichten, die vor Erlass des richterlichen Beschlusses 
+versandt wurden, d&#252;rfen auf der Grundlage des &#167; 100a Absatz 1 Satz 3 StPO nicht 
+erhoben werden. Solche Kommunikationsinhalte k&#246;nnen auf der Grundlage des 
+&#167; 100b StPO erhoben werden, soweit die Voraussetzungen im &#220;brigen vorliegen. 
+24. Wie kann nach Ansicht der Bundesregierung technisch und praktisch
+zwischen Kommunikationsinhalten unterschieden werden, die vor der
+Anordnung der &#220;berwachungsma&#223;nahme &#252;bermittelt worden sind, und solchen, 
+die erst danach &#252;bermittelt worden sind?  
+Produkte zur Durchf&#252;hrung von Ma&#223;nahmen einer Quellen-TK&#220; durch
+Sicherheits- oder Strafverfolgungsbeh&#246;rden des Bundes sind entsprechend der
+rechtlichen Rahmenbedingungen ausgestaltet und erm&#246;glichen eine Anpassung der
+Produkte an die rechtlichen Anforderungen der Ma&#223;nahme. 
+25. Erlaubt &#167; 100a Absatz 1 Satz 2 und 3 StPO nach Auffassung der
+Bundesregierung auch die Erhebung von Informationen, die erforderlich sind, um auf 
+laufende oder gespeicherte Kommunikation zuzugreifen (z. B. die Erhebung 
+von Passw&#246;rtern)? 
+Auf die Antworten zu den Fragen 19 und 21 wird verwiesen.
+26. Wurden und werden im Rahmen der Quellen-TK&#220; oder zu deren
+Vorbereitung auch andere Informationen als Kommunikationsinhalte vom
+informationstechnischen Ger&#228;t ausgelesen (z. B. Art und Version des Betriebssystems, 
+Informationen zur Identifikation des Nutzers des informationstechnischen 
+Systems, Existenz von Antivirensoftware, verwendete
+Kommunikationsprogramme, Speicherort)?  
+27. Sofern auch andere Informationen als Kommunikationsinhalte ausgelesen 
+werden, was ist nach Ansicht der Bundesregierung hierf&#252;r die
+Rechtsgrundlage? 
+Die Fragen 26 und 27 werden gemeinsam beantwortet. 
+Der zul&#228;ssige Umfang der Erhebung von Inhalten und Umst&#228;nden der
+Kommunikation richtet sich nach den Vorgaben in &#167; 100a Absatz 1 Satz 2 und 3 StPO. 
+Die Erhebung anderer Informationen als Kommunikationsinhalte richtet sich 
+nach den jeweiligen Befugnisnormen.
+ 
+ 
+ 
+Satz: Satzweiss.com Print, Web, Software GmbH, Mainzer Stra&#223;e 116, 66121 Saarbr&#252;cken, www.satzweiss.com 
+Druck: Printsystem GmbH, Schafw&#228;sche 1-3, 71296 Heimsheim, www.printsystem.de 
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de 
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/1020 -
+Rechtsgrundlagen und Einsatz der Quellen-Telekommunikations&#252;berwachung</titel>
+    <datum>2018-04-03</datum>
+  </document>
+  

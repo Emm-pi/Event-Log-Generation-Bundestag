@@ -1,0 +1,1549 @@
+<document>
+    <id>228118</id>
+    <drucksachetyp>Gesetzesantrag</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>168/19</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BR</herausgeber>
+    <pdf_hash>63f82d7b5810a97c53a508aa64fbae75</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:15+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>246308</id>
+      <titel>Strafrechts&#228;nderungsgesetz - Gesetz zur Verbesserung der Bek&#228;mpfung der Cyberkriminalit&#228;t</titel>
+      <vorgangstyp>Gesetzgebung</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>true</einbringer>
+      <rolle>U</rolle>
+      <bezeichnung>BY</bezeichnung>
+      <titel>Bayern</titel>
+    </urheber>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/brd/2019/0168-19.pdf</pdf_url>
+      <id>228118</id>
+      <dokumentnummer>168/19</dokumentnummer>
+      <datum>2019-04-09</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Gesetzesantrag</drucksachetyp>
+      <herausgeber>BR</herausgeber>
+      <urheber>Bayern</urheber>
+    </fundstelle>
+    <text>[Bundesrat Drucksache 168/19
+09.04.19
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln 
+Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de 
+ISSN 0720-2946
+Gesetzesantrag
+des Freistaates Bayern
+Entwurf eines Strafrechts&#228;nderungsgesetzes - Gesetz zur 
+Verbesserung der Bek&#228;mpfung der Cyberkriminalit&#228;t
+A. Problem und Ziel
+Die fortschreitende Digitalisierung, insbesondere die immer st&#228;rkere Nutzung des 
+Internets, wirkt sich in allen Bereichen von Staat, Wirtschaft und Gesellschaft aus. 
+Sie bringt neben gro&#223;en Potentialen und Freir&#228;umen aufgrund vielf&#228;ltiger
+Missbrauchsm&#246;glichkeiten auch ein neues Ma&#223; an Verwundbarkeit. Diese
+Verwundbarkeit nutzen insbesondere sogenannte Hacker aus, die immer h&#228;ufiger fremde
+Computersysteme infiltrieren und dabei auch immer gr&#246;&#223;ere Mengen an sensiblen Daten 
+unbefugt abgreifen, manipulieren oder zerst&#246;ren sowie diese Daten f&#252;r weitere 
+Straftaten missbrauchen. 
+Die bekannt gewordenen "Datenleaks" der letzten Jahre verdeutlichen dabei die 
+enorme Dimension, die diese Datenabgriffe inzwischen erlangt haben. So wurden 
+bei MySpace 360 Mio. Datens&#228;tze, bei Sony 102 Mio. Datens&#228;tze, bei Dropbox 69 
+Mio. Datens&#228;tze, bei LinkedIn 177 Mio. Datens&#228;tze, bei Yahoo 500 Mio.
+Datens&#228;tze und bei Ashley Madison 36 Mio. Datens&#228;tze unbefugt abgegriffen. Eine im
+Januar 2019 bekanntgewordene Sammlung von Passwort-Leaks enthielt bei einem 
+Volumen von 935 Gigabyte &#252;ber 2,2 Milliarden Accounts. Bundesweites Aufsehen 
+erregte Ende des Jahres 2018/Anfang 2019 die Meldung, dass ein Hacker mit
+offenbar einfachen Mitteln massenhaft pers&#246;nliche Daten von mehreren hundert
+Politikern, Prominenten und Journalisten ausgesp&#228;ht und auf der Internetplattform
+Twitter verbreitet hatte. Neben diesen "Datenleaks" kam es zuletzt auch vermehrt zu 
+Cyberattacken, bei denen Verschl&#252;sselungstrojaner (sog. Ransomware) in die IT-
+Infrastruktur von Unternehmen oder Krankenh&#228;usern eingeschleust wurden, die dort 
+zu massiven Betriebsst&#246;rungen und Sch&#228;den f&#252;hrten.
+Diese aktuellen Vorf&#228;lle zeigen, dass die Cyberkriminalit&#228;t inzwischen ein Ausma&#223; 
+erreicht hat, das die Privatsph&#228;re und das Sicherheitsgef&#252;hl der Menschen massiv 
+bedroht und das Potential hat, die Grundlagen von Demokratie, Staat und Wirtschaft 
+zu gef&#228;hrden. Die Cyberkriminalit&#228;t ist geeignet, das Vertrauen in die
+Handlungsf&#228;higkeit staatlicher Organe und in den Rechtsstaat nachhaltig zu beeintr&#228;chtigen. Die 
+wirtschaftlichen Sch&#228;den, die etwa durch Produktionsausf&#228;lle, den Verlust von
+Gesch&#228;ftsgeheimnissen oder die Kosten f&#252;r eine Wiederherstellung von Daten
+entstehen, sind gro&#223;. Gleiches gilt f&#252;r die negativen Folgen, die f&#252;r den Einzelnen oder 
+staatliche Institutionen mit der Ver&#246;ffentlichung sensibler Informationen verbunden 
+sein k&#246;nnen. Im Extremfall k&#246;nnen Cyberangriffe etwa auf Krankenh&#228;user,
+Flugh&#228;fen oder Verteidigungseinrichtungen sogar den Verlust von Menschenleben fordern. 
+Es ist Aufgabe des Strafrechts, die f&#252;r solche Angriffe verantwortlichen Personen 
+z&#252;gig zu ermitteln und schuldangemessen zu bestrafen - nicht zuletzt um andere 
+potentielle T&#228;ter abzuschrecken, die Gesellschaft zu sch&#252;tzen und das Vertrauen in 
+die staatliche Handlungsf&#228;higkeit zu erhalten. Diese Aufgabe kann das Strafrecht 
+derzeit jedoch nur bedingt erf&#252;llen. 
+Der materiell-strafrechtliche Schutz vor Delikten aus dem Ph&#228;nomenbereich der 
+Cyberkriminalit&#228;t, der gegenw&#228;rtig im Wesentlichen durch die &#167;&#167; 202a ff., &#167;&#167; 303a 
+f. StGB gew&#228;hrt wird, ist unzureichend. Digitale Daten sind de lege lata
+strafrechtlich nicht vergleichbar gesch&#252;tzt wie k&#246;rperliche Gegenst&#228;nde, da die Computer-
+und Datendelikte im Gegensatz zu den klassischen Eigentums- und
+Verm&#246;gensdelikten (wie Diebstahl oder Betrug) ganz &#252;berwiegend als "Bagatellkriminalit&#228;t"
+ausgestaltet sind. So liegen die Strafrahmen der &#167;&#167; 202a ff., 303a f. StGB ganz
+&#252;berwiegend im unteren Bereich. Zudem fehlt es - anders als bei den klassischen
+Deliktsbereichen - auch weitgehend an Qualifikationstatbest&#228;nden und Regelbespielen 
+mit erh&#246;hten Strafdrohungen, um auf schwerwiegende Taten mit einem gesteigerten 
+Unrechtsgehalt tat- und schuldangemessen reagieren zu k&#246;nnen. 
+Dies hat zur Folge, dass beispielsweise ein Hacker, der sich unbefugt Zugang zu 
+einer Datenbank verschafft und dabei mehrere Millionen Datens&#228;tze abgreift,
+derzeit lediglich eine Freiheitsstrafe von maximal drei Jahren oder eine Geldstrafe zu 
+bef&#252;rchten hat - selbst wenn er gewerbsm&#228;&#223;ig handelt und gro&#223;e Sch&#228;den f&#252;r den 
+Einzelnen oder das Gemeinwesen verursacht. Auch k&#246;nnen Firmen als Opfer eines 
+Angriffs existentiell betroffen sein, wenn beispielsweise die gesamte
+Kundendatenbank oder wichtige Betriebsgeheimnisse ausgesp&#228;ht werden. Datenabgriffe dieses 
+Ausma&#223;es, die infolge der heutigen technischen M&#246;glichkeiten immer leichter
+m&#246;glich werden und das Vertrauen gro&#223;er Teile der Bev&#246;lkerung in die Sicherheit der
+modernen Informationstechnologie beeintr&#228;chtigen, entsprechen ersichtlich nicht 
+mehr dem, was der Gesetzgeber im Blick hatte, als er 1986 im Zeitalter der
+Magnetb&#228;nder und Disketten das Aussp&#228;hen von Daten in &#167; 202a StGB unter Strafe 
+stellte.
+Die Bagatellisierung der Computer- und Datendelikte im materiellen Strafrecht setzt 
+sich im Strafprozessrecht fort. Denn beim Verdacht einer Straftat nach den 
+&#167;&#167; 202a ff., &#167;&#167; 303a f. StGB k&#246;nnen derzeit h&#228;ufig die T&#228;ter nicht ermittelt und 
+&#252;berf&#252;hrt werden, weil den Strafverfolgungsbeh&#246;rden die strafprozessualen
+Befugnisse f&#252;r erfolgversprechende Ermittlungen in der digitalen Welt nicht oder nur
+eingeschr&#228;nkt zur Verf&#252;gung stehen. So ist eine &#220;berwachung der Telekommunikation 
+in Form der &#8222;Server&#252;berwachung&#8220; oder eine Online-Durchsuchung zur
+Identifizierung der T&#228;ter, zur Aufhellung der verwendeten Infrastruktur und zum F&#252;hren des 
+Tatnachweises mangels Vorliegens einer Katalogtat nach &#167; 100a Absatz 2 bzw. 
+&#167; 100b Absatz 2 StPO derzeit rechtlich nicht zul&#228;ssig. Die Erhebung von
+Verkehrsdaten ist de lege lata nur eingeschr&#228;nkt nach &#167; 100g Absatz 1 Satz 1 Nummer 2 
+StPO zul&#228;ssig, mangels Vorliegens einer Katalogtat aber nicht nach &#167; 100g
+Absatz 1 Satz 1 Nummer 1 oder &#167; 100g Absatz 2 StPO. Diese technischen
+Ermittlungsma&#223;nahmen stellen aber oftmals den einzig erfolgversprechenden
+Ermittlungsansatz dar, da die Delikte der Cyberkriminalit&#228;t in den allermeisten F&#228;llen 
+auch oder ausschlie&#223;lich unter Zuhilfenahme von Telekommunikationsdiensten
+begangen werden. 
+Die geschilderten Defizite im materiellen Strafrecht und Strafprozessrecht werden 
+weder der gesellschaftlichen und wirtschaftlichen Bedeutung digitaler Daten noch 
+der Bedeutung des Grundrechts auf informationelle Selbstbestimmung in der
+heutigen digitalen Welt gerecht. 
+Vor diesem Hintergrund hat der Strafrechtsausschuss der Justizministerkonferenz 
+und der Arbeitskreis II der Innenministerkonferenz die Gemeinsame Arbeitsgruppe 
+Justiz/Polizei (GAG) bereits im Jahr 2011 beauftragt, sich unter anderem mit dem 
+Thema Cybercrime zu befassen. Die Unterarbeitsgruppe "Cybercrime" unter
+Federf&#252;hrung des Bayerischen Staatsministeriums der Justiz und f&#252;r Verbraucherschutz 
+hat sich mit den aktuellen Rechtsfragen bei der Bek&#228;mpfung von Cybercrime
+befasst und in ihrem 2013 vorgelegten Abschlussbericht u.a. die Schaffung
+qualifizierter Begehungsweisen f&#252;r den Bereich der Computerdelikte empfohlen.
+Zuletzt hat sich im Jahr 2018 die durch die Justizministerkonferenz eingesetzte und 
+unter dem Vorsitz Hessens arbeitende L&#228;nder-Arbeitsgruppe &#8222;Digitale Agenda f&#252;r 
+das Straf- und Strafprozessrecht&#8220; in ihrem Abschlussbericht mit der Thematik der 
+Bagatellisierung der Cyberkriminalit&#228;t befasst und gesetzgeberischen
+Handlungsbedarf gesehen. Die Justizministerinnen und Justizminister der L&#228;nder haben auf ihrer 
+Herbstkonferenz am 15. November 2018 den Abschlussbericht der Arbeitsgruppe 
+des Strafrechtsausschusses &#8222;Digitale Agenda f&#252;r das Straf- und Strafprozessrecht&#8220; 
+als Bestandsaufnahme der sich aus der technischen Entwicklung f&#252;r die
+Strafverfolgungspraxis ergebenden Anforderungen und als Beitrag zur rechtspolitischen
+Diskussion zur Kenntnis genommen. Au&#223;erdem haben sie die Bundesministerin der 
+Justiz und f&#252;r Verbraucherschutz darum gebeten, die in dem Bericht enthaltenen 
+Empfehlungen der Arbeitsgruppe zu w&#252;rdigen und die ggf. erforderlichen
+gesetzgeberischen Schritte zu unternehmen.
+B. L&#246;sung 
+Der Entwurf beseitigt die unangemessene Bagatellisierung der Computer- und
+Datendelikte, indem er die Strafrahmen der &#167;&#167; 202a ff., 303a f. StGB an die heutige 
+digitale Welt anpasst und dabei insbesondere auch Qualifikationstatbest&#228;nde und 
+Regelbeispiele mit erh&#246;hten Strafdrohungen schafft, um den differenzierten
+Unrechtsgehalt der in Betracht kommenden Fallgestaltungen sachgerecht erfassen zu 
+k&#246;nnen. Daneben f&#252;hrt er bei den &#167;&#167; 202a, 202b und 202d StGB auch eine
+Versuchsstrafbarkeit ein, um den Rechtsgutsschutz rechtzeitig beginnen zu lassen. 
+Ferner verbessert der Entwurf die M&#246;glichkeiten der T&#228;terermittlung und
+Sachverhaltsaufkl&#228;rung, indem er unter Wahrung der Vorgaben des
+Bundesverfassungsgerichts die Straftatkataloge der &#167;&#167; 100a Absatz 2, 100b Absatz 2 und 100g Absatz 2 
+StPO um bestimmte, qualifizierte Begehungsweisen der Cybercrime-Delikte
+erg&#228;nzt und damit den Anwendungsbereich der Telekommunikations&#252;berwachung, 
+Online-Durchsuchung und Verkehrsdatenerhebung an die Bed&#252;rfnisse einer
+effektiven Strafverfolgung anpasst. Der Entwurf tr&#228;gt damit dem Umstand Rechnung, dass 
+die Strafverfolgungsbeh&#246;rden bei Delikten in der digitalen Welt darauf angewiesen 
+sind, auch digital ermitteln zu k&#246;nnen.
+C. Alternativen
+Beibehaltung des bisherigen, unbefriedigenden Zustands.
+D. Haushaltsaufgaben ohne Erf&#252;llungsaufwand
+Keine.
+E. Erf&#252;llungsaufwand 
+E.1 Erf&#252;llungsaufwand f&#252;r B&#252;rgerinnen und B&#252;rger 
+Keiner.
+E.2 Erf&#252;llungsaufwand f&#252;r die Wirtschaft 
+Keiner. 
+Davon B&#252;rokratiekosten aus Informationspflichten. 
+Keine.
+E.3 Erf&#252;llungsaufwand der Verwaltung
+Keiner.
+F. Weitere Kosten
+Die vorgeschlagenen Neuregelungen im materiellen Strafrecht und die Erweiterung 
+des Anwendungsbereichs der technischen Ermittlungsma&#223;nahmen k&#246;nnen zu einem 
+Mehraufwand f&#252;r Polizei und Justiz f&#252;hren, dessen Umfang derzeit noch nicht 
+quantifizierbar ist. Der Mehraufwand ist angesichts des verbesserten
+Rechtsg&#252;terschutzes gerechtfertigt.
+
+Bundesrat Drucksache 168/19
+09.04.19
+Gesetzesantrag
+des Freistaates Bayern
+Entwurf eines Strafrechts&#228;nderungsgesetzes - Gesetz zur 
+Verbesserung der Bek&#228;mpfung der Cyberkriminalit&#228;t
+Der Bayerische Ministerpr&#228;sident M&#252;nchen, 9. April 2019
+An den 
+Pr&#228;sidenten des Bundesrates 
+Herrn Ministerpr&#228;sidenten 
+Daniel G&#252;nther
+Sehr geehrter Herr Pr&#228;sident,
+gem&#228;&#223; dem Beschluss der Bayerischen Staatsregierung wird der als Anlage mit  
+Vorblatt und Begr&#252;ndung beigef&#252;gte
+Entwurf eines Strafrechts&#228;nderungsgesetzes &#8211; Gesetz zur Verbesserung   
+der Bek&#228;mpfung der Cyberkriminalit&#228;t 
+mit dem Antrag &#252;bermittelt, dass der Bundesrat diesen gem&#228;&#223; Artikel 76 Absatz 1 GG 
+im Bundestag einbringen m&#246;ge.
+Es wird gebeten, den Gesetzentwurf gem&#228;&#223; &#167; 36 Absatz 2 GO BR auf die  
+Tagesordnung der 976. Sitzung am 12. April 2019 zu setzen und anschlie&#223;end den  
+zust&#228;ndigen Aussch&#252;ssen zur Beratung zuzuweisen.
+Mit freundlichen Gr&#252;&#223;en  
+Dr. Markus S&#246;der
+
+Entwurf eines Strafrechts&#228;nderungsgesetzes - 
+Gesetz zur Verbesserung der Bek&#228;mpfung der Cyberkriminalit&#228;t
+Vom &#8230;
+Der Bundestag hat das folgende Gesetz beschlossen:
+Artikel 1
+&#196;nderung des Strafgesetzbuchs
+Das Strafgesetzbuch in der Fassung der Bekanntmachung vom 13. November 1998 
+(BGBl. I S. 3322), zuletzt ge&#228;ndert durch &#8230; vom &#8230; (BGBl. I S. &#8230;), wird wie folgt
+ge&#228;ndert:
+1. &#167; 202a wird wie folgt ge&#228;ndert: 
+a) In Absatz 1 wird das Wort "drei" durch das Wort "f&#252;nf" ersetzt. 
+b) Nach Absatz 2 werden folgende Abs&#228;tze 3 bis 5 neu eingef&#252;gt: 
+"(3) Der Versuch ist strafbar.
+(4) In besonders schweren F&#228;llen des Absatzes 1 ist die Strafe
+Freiheitsstrafe von drei Monaten bis zu zehn Jahren. Ein besonders schwerer Fall 
+liegt in der Regel vor, wenn der T&#228;ter
+1. gewerbsm&#228;&#223;ig oder als Mitglied einer Bande handelt, die sich zur 
+fortgesetzten Begehung von Straftaten nach &#167;&#167; 202a bis 202d, 263a, 
+269, 303a oder 303b verbunden hat,
+2. eine gro&#223;e Menge von Daten aussp&#228;ht oder in der Absicht handelt, 
+durch die fortgesetzte Begehung von Taten nach Absatz 1 Daten
+einer gro&#223;en Anzahl von Personen auszusp&#228;hen,
+&#8211; 2 &#8211;
+3. Daten kritischer Infrastrukturen aussp&#228;ht oder durch die Tat die
+Sicherheit der Bundesrepublik Deutschland oder eines ihrer L&#228;nder
+gef&#228;hrdet oder
+4. Daten aussp&#228;ht, die den h&#246;chstpers&#246;nlichen Lebensbereich
+ber&#252;hren.
+(5) Mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren, in minder
+schweren F&#228;llen mit Freiheitsstrafe von sechs Monaten bis zu f&#252;nf Jahren, wird 
+bestraft, wer in den F&#228;llen des Absatzes 4 Satz 2 Nummer 1 erste
+Alternative oder Nummern 2 bis 4 als Mitglied einer Bande handelt, die sich 
+zur fortgesetzten Begehung von Straftaten nach &#167;&#167; 202a bis 202d, 263a, 
+269, 303a oder 303b verbunden hat."
+2. &#167; 202b wird wie folgt ge&#228;ndert: 
+a) Der bisherige &#167; 202b wird &#167; 202b Absatz 1. Zugleich wird im bisherigen 
+&#167; 202b das Wort "zwei" durch das Wort "drei" ersetzt. 
+b) Nach Absatz 1 werden folgende Abs&#228;tze 2 bis 4 neu eingef&#252;gt: 
+"(2) Der Versuch ist strafbar.
+(3) In besonders schweren F&#228;llen des Absatzes 1 ist die Strafe
+Freiheitsstrafe von drei Monaten bis zu f&#252;nf Jahren. Ein besonders schwerer Fall liegt 
+in der Regel vor, wenn der T&#228;ter
+1. gewerbsm&#228;&#223;ig oder als Mitglied einer Bande handelt, die sich zur 
+fortgesetzten Begehung von Straftaten nach &#167;&#167; 202a bis 202d, 263a, 
+269, 303a oder 303b verbunden hat,
+2. eine gro&#223;e Menge von Daten abf&#228;ngt oder in der Absicht handelt, 
+durch die fortgesetzte Begehung von Taten nach Absatz 1 Daten
+einer gro&#223;en Anzahl von Personen abzufangen,
+&#8211; 3 &#8211;
+3. Daten kritischer Infrastrukturen abf&#228;ngt oder durch die Tat die
+Sicherheit der Bundesrepublik Deutschland oder eines ihrer L&#228;nder
+gef&#228;hrdet oder
+4. Daten abf&#228;ngt, die den h&#246;chstpers&#246;nlichen Lebensbereich ber&#252;hren.
+(4) Mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren, in minder 
+schweren F&#228;llen mit Freiheitsstrafe von drei Monaten bis zu f&#252;nf Jahren, 
+wird bestraft, wer in den F&#228;llen des Absatzes 3 Satz 2 Nummer 1 erste 
+Alternative oder Nummern 2 bis 4 als Mitglied einer Bande handelt, die 
+sich zur fortgesetzten Begehung von Straftaten nach &#167;&#167; 202a bis 202d, 
+263a, 269, 303a oder 303b verbunden hat."
+3. &#167; 202c StGB wird wie folgt ge&#228;ndert:
+a) In Absatz 1 wird das Wort ",verbreitet" gestrichen und 
+das Wort "zwei" durch das Wort "drei" ersetzt.
+b) Nach Absatz 2 werden folgende Abs&#228;tze 3 und 4 neu eingef&#252;gt:
+"(3) In besonders schweren F&#228;llen des Absatzes 1 ist die Strafe
+Freiheitsstrafe bis zu f&#252;nf Jahren oder Geldstrafe. Ein besonders schwerer Fall liegt 
+in der Regel vor, wenn der T&#228;ter
+1. gewerbsm&#228;&#223;ig oder als Mitglied einer Bande handelt, die sich zur 
+fortgesetzten Begehung von Straftaten nach &#167;&#167; 202a bis 202d, 263a, 
+269, 303a oder 303b verbunden hat, oder
+2. die in Absatz 1 genannten Sicherungscodes und
+Computerprogramme einer gro&#223;en Anzahl von Personen zug&#228;nglich macht.
+(4) Mit Freiheitsstrafe von drei Monaten bis zu zehn Jahren wird bestraft, 
+wer in den F&#228;llen des Absatzes 3 Satz 2 Nummer 1 erste Alternative
+oder Nummer 2 als Mitglied einer Bande handelt, die sich zur
+fortgesetzten Begehung von Straftaten nach &#167;&#167; 202a bis 202d, 263a, 269, 303a 
+oder 303b verbunden hat."
+&#8211; 4 &#8211;
+4. &#167; 202d StGB wird wie folgt gefasst: 
+a) In Absatz 1 wird das Wort ",verbreitet" gestrichen und das Wort "drei" durch 
+das Wort "f&#252;nf" ersetzt und. 
+b) Nach Absatz 1 werden folgende Abs&#228;tze 2 bis 4 neu eingef&#252;gt: 
+"(2) Der Versuch ist strafbar.
+(3) In besonders schweren F&#228;llen des Absatzes 1 ist die Strafe
+Freiheitsstrafe von sechs Monaten bis zu zehn Jahren. Ein besonders schwerer Fall 
+liegt in der Regel vor, wenn der T&#228;ter
+1. gewerbsm&#228;&#223;ig oder als Mitglied einer Bande handelt, die sich zur 
+fortgesetzten Begehung von Straftaten nach &#167;&#167; 202a bis 202d, 263a, 
+269, 303a oder 303b verbunden hat,
+2. die Datenhehlerei einer gro&#223;en Menge von Daten oder in der Absicht 
+begeht, durch die fortgesetzte Tatbegehung sich oder einem anderen 
+die Daten einer gro&#223;en Anzahl von Personen zu verschaffen oder die 
+Daten einer gro&#223;en Anzahl von Personen zug&#228;nglich zu machen,
+3. die Datenhehlerei von Daten kritischer Infrastrukturen begeht oder 
+durch die Tat die Sicherheit der Bundesrepublik Deutschland oder 
+eines ihrer L&#228;nder gef&#228;hrdet oder
+4. die Datenhehlerei von Daten begeht, die den h&#246;chstpers&#246;nlichen
+Lebensbereich ber&#252;hren.
+(4) Mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren, in minder
+schweren F&#228;llen mit Freiheitsstrafe von sechs Monaten bis zu f&#252;nf Jahren, wird 
+bestraft, wer in den F&#228;llen des Absatzes 3 Satz 2 Nummer 1 erste
+Alternative oder Nummern 2 bis 4 als Mitglied einer Bande handelt, die sich 
+zur fortgesetzten Begehung von Straftaten nach &#167;&#167; 202a bis 202d, 263a, 
+269, 303a oder 303b verbunden hat."
+&#8211; 5 &#8211; 
+c) Der bisherige Absatz 2 wird Absatz 5; der bisherige Absatz 3 wird Absatz 6. 
+5. &#167; 205 wird wie folgt ge&#228;ndert: 
+a) In &#167; 205 Absatz 1 Satz 2 wird hinter den Angaben "202a", "202b" und "202d" 
+jeweils die Angabe "Abs. 1" eingef&#252;gt. 
+b) In &#167; 205 Absatz 2 Satz 1 werden die W&#246;rter "; dies gilt nicht in den F&#228;llen der 
+&#167;&#167; 202a, 202b und 202d" gestrichen. 
+6. &#167; 303a wird wie folgt ge&#228;ndert: 
+a) Nach Absatz 2 werden die folgenden Abs&#228;tze 3 und 4 neu eingef&#252;gt:
+"(3) In besonders schweren F&#228;llen des Absatzes 1 ist die Strafe
+Freiheitsstrafe bis zu f&#252;nf Jahren oder Geldstrafe. Ein besonders schwerer Fall liegt 
+in der Regel vor, wenn der T&#228;ter
+1. gewerbsm&#228;&#223;ig oder als Mitglied einer Bande handelt, die sich zur 
+fortgesetzten Begehung von Straftaten nach &#167;&#167; 202a bis 202d, 263a, 
+269, 303a oder 303b verbunden hat,
+2. die Datenver&#228;nderung einer gro&#223;en Menge von Daten oder in der 
+Absicht begeht, durch die fortgesetzte Tatbegehung die Daten einer 
+gro&#223;en Anzahl von Personen zu l&#246;schen, zu unterdr&#252;cken,
+unbrauchbar zu machen oder zu ver&#228;ndern,
+3. die Datenver&#228;nderung von Daten kritischer Infrastrukturen begeht 
+oder durch die Tat die Sicherheit der Bundesrepublik Deutschland 
+oder eines ihrer L&#228;nder gef&#228;hrdet, oder
+4. die Datenver&#228;nderung von Daten begeht, die den
+h&#246;chstpers&#246;nlichen Lebensbereich ber&#252;hren.
+&#8211; 6 &#8211;
+(4) Mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren, in minder 
+schweren F&#228;llen mit Freiheitsstrafe von drei Monaten bis zu f&#252;nf Jahren, 
+wird bestraft, wer in den F&#228;llen des Absatzes 3 Satz 2 Nummer 1 erste 
+Alternative oder Nummern 2 bis 4 als Mitglied einer Bande handelt, die 
+sich zur fortgesetzten Begehung von Straftaten nach &#167;&#167; 202a bis 202d, 
+263a, 269, 303a oder 303b verbunden hat."
+b) Der bisherige Absatz 3 wird Absatz 5.
+7. &#167; 303b wird wie folgt ge&#228;ndert: 
+a) Absatz 4 wird wie folgt ge&#228;ndert: 
+aa) In Satz 1 werden die W&#246;rter "des Absatzes 2" durch die W&#246;rter "der
+Abs&#228;tze 1 und 2" ersetzt.
+bb) In Satz 2 Nummer 1 werden nach dem Wort "herbeif&#252;hrt" die W&#246;rter
+"oder in der Absicht handelt, durch die fortgesetzte Begehung von
+Computersabotage eine gro&#223;e Zahl von Menschen in die Gefahr des Verlustes 
+von Verm&#246;genswerten zu bringen" eingef&#252;gt.
+cc) In Satz 2 Nummer 2 wird das Wort "Computersabotage" durch die W&#246;rter 
+"Straftaten nach &#167;&#167; 202a bis 202d, 263a, 269, 303a oder 303b" ersetzt.
+dd) Satz 2 Nummer 3 wird wie folgt neu gefasst: 
+"durch die Tat die Datenverarbeitung einer kritischen Infrastruktur
+erheblich st&#246;rt oder die Sicherheit der Bundesrepublik Deutschland oder eines 
+ihrer L&#228;nder gef&#228;hrdet."
+b) Nach Absatz 4 werden die folgenden Abs&#228;tze 5 und 6 neu eingef&#252;gt:
+"(5) Mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren, in minder
+schweren F&#228;llen mit Freiheitsstrafe von sechs Monaten bis zu f&#252;nf Jahren, wird
+&#8211; 7 &#8211;
+bestraft, wer in den F&#228;llen des Absatzes 4 Satz 2 Nummer 1, Nummer 2 
+erste Alternative oder Nummer 3 als Mitglied einer Bande handelt, die 
+sich zur fortgesetzten Begehung von Straftaten nach &#167;&#167; 202a bis 202d, 
+263a, 269, 303a oder 303b verbunden hat.
+(6) Verursacht der T&#228;ter durch die Computersabotage wenigstens leichtfertig 
+den Tod eines anderen Menschen, so ist die Strafe Freiheitsstrafe nicht 
+unter drei Jahren, in minder schweren F&#228;llen von einem Jahr bis zu zehn 
+Jahren. Verursacht der T&#228;ter durch die Computersabotage wenigstens 
+leichtfertig eine schwere Gesundheitssch&#228;digung eines anderen
+Menschen, so ist die Strafe Freiheitsstrafe von einem Jahr bis zu zehn
+Jahren, in minder schweren F&#228;llen von sechs Monaten bis zu f&#252;nf Jahren."
+c) Der bisherige Absatz 5 wird Absatz 7.
+Artikel 2
+&#196;nderung der Strafprozessordnung
+Die Strafprozessordnung in der Fassung der Bekanntmachung vom 7. April 1987 
+(BGBl. I S. 1074, 1319), die zuletzt durch ... ge&#228;ndert worden ist, wird wie folgt
+ge&#228;ndert:
+1. &#167; 100a Absatz 2 Nummer 1 wird wie folgt ge&#228;ndert:
+a) Nach Buchstabe g) wird folgender Buchstabe h) neu eingef&#252;gt:
+"h) Computer- und Datendelikte nach &#167;&#167; 202a, 202b Absatz 3 und 4, 202c 
+Absatz 3 und 4, 202d, 303a Absatz 3 und 4, 303b Absatz 2 bis 6,"
+b) Die bisherigen Buchstaben h) bis u) werden zu Buchstaben i) bis v).
+2. &#167; 100b Absatz 2 Nummer 1 wird wie folgt ge&#228;ndert:
+a) Nach Buchstabe e) wird folgender Buchstabe f) neu eingef&#252;gt:
+&#8211; 8 &#8211;
+"f) Computer- und Datendelikte nach &#167;&#167; 202a Absatz 4 und 5, 202b Absatz 
+4, 202c Absatz 4, 202d Absatz 3 und 4, 303a Absatz 4 und 303b Absatz 
+4 bis 6,"
+b) Die bisherigen Buchstaben f) bis m) werden zu Buchstaben g) bis n).
+3. &#167; 100g Absatz 2 Satz 2 Nummer 1 wird wie folgt ge&#228;ndert:
+a) Nach Buchstabe d) wird folgender Buchstabe e) neu eingef&#252;gt:
+"e) Computer- und Datendelikte nach &#167;&#167; 202a Absatz 4 und 5, 202b Absatz 
+4, 202c Absatz 4, 202d Absatz 3 und 4, 303a Absatz 4 und 303b Absatz 
+4 bis 6,"
+b) Die bisherigen Buchstaben e) bis h) werden zu Buchstaben f) bis i).
+Artikel 3 
+Inkrafttreten 
+Dieses Gesetz tritt am Tag nach der Verk&#252;ndung in Kraft.
+&#8211; 9 &#8211;
+Begr&#252;ndung 
+A. Allgemeiner Teil
+I. Zielsetzung des Entwurfs und Notwendigkeit der Regelungen
+Die fortschreitende Digitalisierung, insbesondere die immer st&#228;rkere Nutzung des 
+Internets, wirkt sich in allen Bereichen von Staat, Wirtschaft und Gesellschaft aus. 
+Sie bringt neben gro&#223;en Potentialen und Freir&#228;umen aufgrund vielf&#228;ltiger
+Missbrauchsm&#246;glichkeiten auch ein neues Ma&#223; an Verwundbarkeit. Diese
+Verwundbarkeit nutzen insbesondere sogenannte Hacker aus, die immer h&#228;ufiger fremde
+Computersysteme infiltrieren und dabei auch immer gr&#246;&#223;ere Mengen an sensiblen Daten 
+unbefugt abgreifen, manipulieren oder zerst&#246;ren sowie diese Daten f&#252;r weitere
+Straftaten missbrauchen.
+Die bekannt gewordenen "Datenleaks" der letzten Jahre verdeutlichen dabei die 
+enorme Dimension, die diese Datenabgriffe inzwischen erlangt haben. So wurden bei 
+MySpace 360 Mio. Datens&#228;tze, bei Sony 102 Mio. Datens&#228;tze, bei Dropbox 69 Mio. 
+Datens&#228;tze, bei LinkedIn 177 Mio. Datens&#228;tze, bei Yahoo 500 Mio. Datens&#228;tze und 
+bei Ashley Madison 36 Mio. Datens&#228;tze unbefugt abgegriffen. Eine im Januar 2019 
+bekanntgewordene Sammlung von Passwort-Leaks enthielt bei einem Volumen von 
+935 Gigabyte &#252;ber 2,2 Milliarden Accounts. Bundesweites Aufsehen erregte Ende 
+des Jahres 2018/Ende 2019 die Meldung, dass ein Hacker mit offenbar einfachen 
+Mitteln massenhaft pers&#246;nliche Daten von mehreren hundert Politikern, Prominenten 
+und Journalisten ausgesp&#228;ht und auf der Internetplattform Twitter verbreitet hatte. 
+Neben diesen "Datenleaks" kam es zuletzt auch vermehrt zu Cyberattacken, bei
+denen Verschl&#252;sselungstrojaner (sog. Ransomware) in die IT-Infrastruktur von
+Unternehmen oder Krankenh&#228;usern eingeschleust wurden, die dort zu massiven
+Betriebsst&#246;rungen und Sch&#228;den f&#252;hrten.
+Diese aktuellen Vorf&#228;lle zeigen, dass die Cyberkriminalit&#228;t inzwischen ein Ausma&#223; 
+erreicht hat, das die Privatsph&#228;re und das Sicherheitsgef&#252;hl der Menschen massiv 
+bedroht und das Potential hat, die Grundlagen von Demokratie, Staat und Wirtschaft 
+zu gef&#228;hrden. Die Cyberkriminalit&#228;t ist geeignet, das Vertrauen in die
+Handlungsf&#228;higkeit staatlicher Organe und in den Rechtsstaat nachhaltig zu beeintr&#228;chtigen. Die 
+wirtschaftlichen Sch&#228;den, die etwa durch Produktionsausf&#228;lle, den Verlust von Ge-
+&#8211; 10 &#8211;
+sch&#228;ftsgeheimnissen oder die Kosten f&#252;r eine Wiederherstellung von Daten
+entstehen, sind gro&#223;. Gleiches gilt f&#252;r die negativen Folgen, die f&#252;r den Einzelnen oder 
+staatliche Institutionen mit der Ver&#246;ffentlichung sensibler Informationen verbunden 
+sein k&#246;nnen. Im Extremfall k&#246;nnen Cyberangriffe etwa auf Krankenh&#228;user, Flugh&#228;fen 
+oder Verteidigungseinrichtungen sogar den Verlust von Menschenleben fordern.
+Es ist Aufgabe des Strafrechts, die f&#252;r solche Angriffe verantwortlichen Personen 
+z&#252;gig zu ermitteln und schuldangemessen zu bestrafen - nicht zuletzt um andere
+potentielle T&#228;ter abzuschrecken, die Gesellschaft vor Cyberangriffen zu sch&#252;tzen und 
+das Vertrauen in die staatliche Handlungsf&#228;higkeit zu erhalten. Diese Aufgabe kann 
+das Strafrecht derzeit jedoch nur bedingt erf&#252;llen.
+Der materiell-strafrechtliche Schutz vor Delikten aus dem Ph&#228;nomenbereich der
+Cyberkriminalit&#228;t, der gegenw&#228;rtig im Wesentlichen durch die &#167;&#167; 202a ff., &#167;&#167; 303a f. 
+StGB gew&#228;hrt wird, ist unzureichend. Digitale Daten sind de lege lata strafrechtlich 
+nicht genauso gesch&#252;tzt wie k&#246;rperliche Gegenst&#228;nde, da die Computer- und
+Datendelikte im Gegensatz zu den klassischen Eigentums- und Verm&#246;gensdelikten (wie 
+Diebstahl oder Betrug) ganz &#252;berwiegend als "Bagatellkriminalit&#228;t" ausgestaltet sind. 
+So ist etwa f&#252;r das Aussp&#228;hen von Daten (&#167; 202a Absatz 1 StGB), die Datenhehlerei 
+(&#167; 202d Absatz 1 StGB) und den Grundtatbestand der Computersabotage (&#167; 303b 
+Absatz 1 StGB) lediglich eine Freiheitsstrafe von bis zu drei Jahren oder Geldstrafe 
+vorgesehen. Das Abfangen von Daten (&#167; 202b StGB), das Vorbereiten des
+Aussp&#228;hens und Abfangens von Daten (&#167; 202c Absatz 1 StGB) und die Datenver&#228;nderung 
+(&#167; 303a Absatz 1 StGB) werden sogar nur mit einer Freiheitsstrafe von maximal zwei 
+Jahren oder mit Geldstrafe bestraft. Diese Strafrahmen liegen alle im unteren
+Bereich, w&#228;hrend bei den klassischen Eigentums- und Verm&#246;gensdelikten bereits f&#252;r 
+den einfachen Diebstahl oder Betrug eine Freiheitsstrafe von bis zu f&#252;nf Jahren oder 
+Geldstrafe vorgesehen ist.
+Anders als bei den klassischen Eigentums- und Verm&#246;gensdelikten fehlt es auch an 
+Qualifikationstatbest&#228;nden und Regelbespielen mit erh&#246;hten Strafdrohungen, um 
+Fallgestaltungen mit einem gesteigerten Unrechtsgehalt in einer angemessenen 
+Weise erfassen zu k&#246;nnen und der Bedeutung der Daten in der digitalen Welt von 
+heute gerecht zu werden. Lediglich bei der Computersabotage finden sich
+Regelungen f&#252;r qualifizierende und besonders schwere F&#228;lle (&#167;&#167; 303b Abs&#228;tze 2 und 4 
+StGB), wobei die Computersabotage im Fall des &#167; 303b Absatz 1 Nummer 1 StGB
+&#8211; 11 &#8211;
+ihrerseits eine Qualifikation der Datenver&#228;nderung nach &#167; 303a StGB darstellt. Im 
+&#220;brigen fehlt es im Bereich der Cybercrime-Delikte aber an der M&#246;glichkeit, auf 
+schwerwiegende Taten mit einem gesteigerten Unrechtsgehalt tat- und
+schuldangemessen zu reagieren.
+Dies hat zur Folge, dass beispielsweise ein Hacker, der sich unbefugt Zugang zu 
+einer Datenbank verschafft und dabei mehrere Millionen Datens&#228;tze abgreift, derzeit 
+lediglich eine Freiheitsstrafe von maximal drei Jahren oder eine Geldstrafe zu
+bef&#252;rchten hat - selbst wenn er gewerbsm&#228;&#223;ig handelt und gro&#223;e Sch&#228;den f&#252;r den
+Einzelnen oder das Gemeinwesen verursacht. Datenabgriffe dieses Ausma&#223;es, die
+infolge der heutigen technischen M&#246;glichkeiten immer leichter m&#246;glich werden und das 
+Vertrauen gro&#223;er Teile der Bev&#246;lkerung in die Sicherheit der modernen
+Informationstechnologie ersch&#252;ttern, entsprechen ersichtlich nicht mehr dem, was der
+Gesetzgeber im Blick hatte, als er 1986 im Zeitalter der Magnetb&#228;nder und Disketten das
+Aussp&#228;hen von Daten in &#167; 202a StGB unter Strafe stellte. Die technische Entwicklung 
+und damit einhergehend auch die wachsende Bedrohung durch die Cyberkriminalit&#228;t 
+haben dazu gef&#252;hrt, dass die im Kerncomputerstrafrecht vorgesehenen Strafrahmen 
+dem verwirklichen Unrecht und general- wie spezialpr&#228;ventiven Strafbed&#252;rfnissen in 
+vielen F&#228;llen nicht mehr gerecht werden.
+Ferner sehen einige Delikte aus der digitalen Welt keine Versuchsstrafbarkeit vor, 
+ohne dass dies sachlich zu rechtfertigen w&#228;re. So ist beispielsweise der Versuch der 
+Datenaussp&#228;hung nach &#167; 202a StGB oder der Datenhehlerei nach &#167; 202d StGB 
+nicht strafbar, der Versuch des Diebstahls nach &#167; 242 Absatz 2 StGB oder der
+Sachhehlerei nach &#167; 259 Absatz 3 StGB aber schon. Ein virtueller Einbruchsversuch bleibt 
+damit straflos, gleichg&#252;ltig ob der Erfolg aus Unf&#228;higkeit des T&#228;ters oder aufgrund 
+der Effektivit&#228;t der Zugangssicherung ausbleibt. Dies ist nicht sachgerecht.
+Die Bagatellisierung der Computer- und Datendelikte im materiellen Strafrecht setzt 
+sich im Strafprozessrecht fort. Denn beim Verdacht einer Straftat nach den 
+&#167;&#167; 202a ff., &#167;&#167; 303a f. StGB k&#246;nnen derzeit h&#228;ufig die T&#228;ter nicht ermittelt und
+&#252;berf&#252;hrt werden, weil den Strafverfolgungsbeh&#246;rden die strafprozessualen Befugnisse 
+f&#252;r erfolgversprechende Ermittlungen in der digitalen Welt nicht oder nur
+eingeschr&#228;nkt zu Verf&#252;gung stehen. So ist eine &#220;berwachung der Telekommunikation in 
+Form der &#8222;Server&#252;berwachung&#8220; oder eine Online-Durchsuchung zur Identifizierung 
+der T&#228;ter, zur Aufhellung der verwendeten Infrastruktur und zum F&#252;hren des Tat-
+&#8211; 12 &#8211;
+nachweises mangels Vorliegen einer Katalogtat nach &#167; 100a Absatz 2 bzw. &#167; 100b 
+Absatz 2 StPO derzeit rechtlich nicht zul&#228;ssig. Die Erhebung von Verkehrsdaten ist 
+de lege lata nur eingeschr&#228;nkt nach &#167; 100g Absatz 1 Satz 1 Nummer 2 StPO
+zul&#228;ssig, mangels Vorliegens einer Katalogtat aber nicht nach &#167; 100g Absatz 1 Satz 1 
+Nummer 1 oder &#167; 100g Absatz 2 StPO. Diese technischen Ermittlungsma&#223;nahmen 
+stellen aber oftmals den einzig erfolgversprechenden Ermittlungsansatz dar, da die 
+Delikte der Cyberkriminalit&#228;t in den allermeisten F&#228;llen auch oder ausschlie&#223;lich
+unter Zuhilfenahme von Telekommunikationsdiensten begangen werden.
+Das gilt zum Beispiel insbesondere f&#252;r die Straftaten im Zusammenhang mit der sog. 
+Botnetzkriminalit&#228;t, bei der zahlreiche Computersysteme &#252;ber das Internet mittels 
+einer Schadsoftware infiltriert und zu einem mitunter mehrere Millionen Ger&#228;te
+umfassenden Verbund, einem sog. Botnetz, zusammengeschlossen werden. Dieser 
+Verbund l&#228;sst sich durch den Angreifer &#252;ber das Internet fernsteuern und
+beispielsweise f&#252;r sog. "Distributed-denial-of-service (DDos) - Attacken" benutzen, die darauf 
+abzielen, ein bestimmtes Zielsystem durch eine Vielzahl von gleichzeitigen Anfragen 
+der zum Botnetz geh&#246;renden Rechner derart zu belasten, dass dieses unter der Last 
+des Datenaufkommens zusammenbricht. So f&#252;hrte im Oktober 2016 der Angriff des 
+&#8222;Mirai-Botnetzes&#8220;, bestehend aus ca. 300.000 Ger&#228;ten internetf&#228;higer Steuerungs-
+und &#220;berwachungshardware (IoT), zum Ausfall eines gro&#223;en DNS-Dienstes, 
+wodurch mehrere gro&#223;e Plattformen nicht mehr erreichbar waren. Derartige
+Straftaten k&#246;nnen nur mit Mitteln der modernen Informationstechnik, insbesondere des
+Internets, begangen werden, so dass die oben genannten technischen
+Ermittlungsma&#223;nahmen oftmals den einzigen Ermittlungsansatz darstellen, um die T&#228;ter zu 
+identifizieren und die dahinter stehenden Netzwerke aufzudecken.
+Die geschilderten Defizite im materiellen Strafrecht und Strafprozessrecht werden 
+weder der gesellschaftlichen und wirtschaftlichen Bedeutung digitaler Daten und
+informationstechnischer Systeme noch der Bedeutung des Grundrechts auf
+informationelle Selbstbestimmung gerecht.
+Diese Defizite sollen durch den Entwurf behoben werden. Der Entwurf zielt darauf 
+ab, den strafrechtlichen Schutz digitaler Daten und informationstechnischer Systeme 
+an deren gestiegene gesellschaftliche und wirtschaftliche Bedeutung anzupassen 
+und den Strafverfolgungsbeh&#246;rden die rechtlichen Ermittlungsbefugnisse an die 
+Hand zu geben, die zur effektiven Bek&#228;mpfung der Cyberkriminalit&#228;t unabdingbar
+&#8211; 13 &#8211;
+sind. Der Entwurf dient damit letztlich dem Schutz der modernen
+Informationsgesellschaft vor der wachsenden Bedrohung durch die Cyberkriminalit&#228;t.
+Zu diesem Zweck sieht der Entwurf vor, die Strafdrohungen der Straftatbest&#228;nde f&#252;r 
+die digitale Welt zu versch&#228;rfen und bei bestimmten Delikten auch die
+Versuchsstrafbarkeit einzuf&#252;hren. Dazu geh&#246;rt neben einer Anhebung der Strafrahmen bei
+manchen (Grund-) Tatbest&#228;nden der &#167;&#167; 202a ff., &#167;&#167; 303a f. StGB auch,
+Strafzumessungsregeln f&#252;r besonders schwere F&#228;lle, Qualifikationstatbest&#228;nde und
+erfolgsqualifizierte Tatbest&#228;nde mit erh&#246;hten Strafdrohungen zu schaffen. Der Entwurf
+beschr&#228;nkt sich dabei mit Blick auf den Schuld- und Verh&#228;ltnism&#228;&#223;igkeitsgrundsatz auf 
+solche Fallgestaltungen, die typischerweise einen deutlich gesteigerten
+Unrechtsgehalt aufweisen. So sieht der Entwurf aufgrund der hohen kriminellen Energie bzw. 
+des hohen Schadens- und Gefahrenpotentials - f&#252;r die einzelnen Straftatbest&#228;nde 
+differenziert - erh&#246;hte Strafdrohungen f&#252;r solche Taten vor, die gewerbs- und/oder 
+bandenm&#228;&#223;ig begangen werden, eine gro&#223;e Menge an Daten oder eine gro&#223;e
+Anzahl von Personen betreffen, Daten kritischer Infrastrukturen angehen, die Sicherheit 
+der Bundesrepublik Deutschland oder der L&#228;nder gef&#228;hrden, h&#246;chstpers&#246;nliche und 
+damit besonders sensible Daten zum Gegenstand haben oder leichtfertig den Tod 
+eines Menschen verursachen.
+Soweit sich der Entwurf dabei f&#252;r die Strafrahmen der Delikte aus der digitalen Welt 
+an die Straftatbest&#228;nde aus der analogen Welt anlehnt, wird nicht verkannt, dass die 
+in beiden Deliktsbereichen betroffenen Tatobjekte ihrem Wesen nach durchaus
+Unterschiede aufweisen. So sind digitale Daten im Gegensatz zu k&#246;rperlichen
+Gegenst&#228;nden nicht exklusiv und nicht abnutzbar, das hei&#223;t, prinzipiell beliebig kopierbar 
+und von mehreren Personen zur gleichen Zeit ohne Verschlei&#223; nutzbar. Daher ist es 
+zum Beispiel im Falle eines "Datendiebstahls" m&#246;glich, dass dem Opfer die Nutzung 
+der vom T&#228;ter kopierten Daten erhalten bleibt, w&#228;hrend das Opfer eines
+Sachdiebstahls den entwendeten k&#246;rperlichen Gegenstand nicht mehr nutzen kann. Jedoch 
+hindern diese Wesensunterschiede den Gesetzgeber nicht, f&#252;r digitale Daten
+angesichts ihres Bedeutungszuwachses ein vergleichbares Schutzniveau wie f&#252;r
+k&#246;rperliche Gegenst&#228;nde vorzusehen, zumal die Bev&#246;lkerung inzwischen die
+Cyberkriminalit&#228;t ebenso als massive Bedrohung ihrer Sicherheit im privatesten Lebensbereich 
+wahrnimmt wie die klassische Eigentums- und Verm&#246;genskriminalit&#228;t. Zudem
+k&#246;nnen die Folgen f&#252;r das Opfer bei Taten in der digitalen Welt mindesten ebenso
+&#8211; 14 &#8211;
+schwer sein wie bei Taten in der analogen Welt. Mag das Opfer seine Daten unter 
+Umst&#228;nden auch nach dem "Datendiebstahl" noch nutzen k&#246;nnen, so k&#246;nnen mit der 
+Tat doch schwerwiegende Folgen f&#252;r das Opfer verbunden sein, die weit &#252;ber die 
+Frage der fortbestehenden Nutzungsm&#246;glichkeit hinausgehen. So haben die Opfer, 
+gerade wenn vom T&#228;ter Daten mit Details etwa aus ihrem Intimleben erbeutet und im 
+Internet verbreitet werden, oftmals lange mit Schockzust&#228;nden, Schamgef&#252;hlen und 
+empfindlichen Beeintr&#228;chtigungen im privaten wie beruflichen Bereich zu k&#228;mpfen.
+In Erg&#228;nzung zu den materiell-rechtlichen Strafsch&#228;rfungen sieht der Entwurf vor, die 
+strafprozessualen Ermittlungsbefugnisse der Strafverfolgungsbeh&#246;rden auszubauen, 
+indem er - bei Wahrung der Vorgaben des Bundesverfassungsgerichts und unter
+Ber&#252;cksichtigung der Bed&#252;rfnisse einer effektiven Strafverfolgung - die
+Straftatenkataloge der &#167;&#167; 100a Absatz 2, 100b Absatz 2, 100g Absatz 2 StPO und damit den
+Anwendungsbereich der Telekommunikations&#252;berwachung, Online-Durchsuchung und 
+Verkehrsdatenerhebung erweitert. Der Entwurf erm&#246;glicht es somit den
+Strafverfolgungsbeh&#246;rden, bei digitalen Delikten auch digital ermitteln zu k&#246;nnen. Er
+beschr&#228;nkt diese M&#246;glichkeit zur Wahrung des Verh&#228;ltnism&#228;&#223;igkeitsgrundsatzes aber 
+von vornherein auf solche Delikte, die als schwer bzw. besonders schwer einzustufen 
+sind. Damit tr&#228;gt er den Vorgaben des Bundesverfassungsgerichts Rechnung,
+wonach die genannten Ermittlungsma&#223;nahmen zur Rechtfertigung der mit ihnen
+verbunden, nicht unerheblichen Grundrechtseingriffe auf die Verfolgung von Straftaten 
+mit einem entsprechenden Schweregrad zu beschr&#228;nken sind (vgl. etwa BVerfG 
+NJW 2016, 1781 [1784]; NJW 2012, 833 [836]; NJW 2010, 833 [841]). Soweit die 
+Delikte aber den notwendigen Schweregrad erreichen, ist ihre Aufnahme in die
+Anlasstatenkataloge der technischen Ermittlungsma&#223;nahmen nach &#167;&#167; 100a, 100b und 
+100g StPO nicht zur zul&#228;ssig, sondern auch geboten, da die wirksame Aufkl&#228;rung 
+gerade schwerer Straftaten - wie das Bundesverfassungsgericht wiederholt betont 
+hat (BVerfG NJW 2004, 999 [1008]) - ein wesentlicher Auftrag des rechtsstaatlichen 
+Gemeinwesens ist. In Erf&#252;llung dieses Auftrags bestimmt der Entwurf zur effektiven 
+Bek&#228;mpfung der Cyberkriminalit&#228;t in den neuen &#167; 100a Absatz 2 Nummer 1
+Buchstabe h, &#167; 100b Absatz 2 Nummer 1 Buchstabe f und &#167; 100g Absatz 2 Satz 2
+Nummer 1 Buchstabe e StPO-E, dass auch schwere bzw. besonders schwere Computer-
+und Datendelikte als Anlasstaten f&#252;r die dort geregelten Ermittlungsma&#223;nahmen in 
+Betracht kommen.
+&#8211; 15 &#8211;
+Insgesamt betrachtet, schafft der Entwurf durch das Zusammenspiel der materiellen 
+Strafsch&#228;rfungen mit den verbesserten strafprozessualen Ermittlungsbefugnissen die 
+M&#246;glichkeit, der wachsenden Bedrohung durch die Cyberkriminalit&#228;t nachhaltig und 
+effektiv entgegenzutreten und das Vertrauen der Bev&#246;lkerung in die
+Handlungsf&#228;higkeit staatlicher Organe und in den Rechtsstaat zu erhalten.
+II. Gesetzgebungskompetenz
+Die Gesetzgebungskompetenz des Bundes folgt aus Art. 74 Absatz 1 Nummer 1 des 
+Grundgesetzes (Strafrecht).
+III. Auswirkungen 
+Durch die vorgeschlagenen &#196;nderungen im materiellen Strafrecht und
+Strafprozessrecht, insbesondere durch die Erweiterung des Anwendungsbereichs der
+technischen Ermittlungsma&#223;nahmen nach &#167;&#167; 100a, 100b und 100g StPO kann ein
+Mehraufwand f&#252;r die Strafverfolgungsbeh&#246;rden entstehen, dessen Umfang derzeit noch 
+nicht quantifizierbar ist. Der Mehraufwand ist jedoch angesichts des verbesserten 
+Rechtsg&#252;terschutzes gerechtfertigt. F&#252;r B&#252;rgerinnen und B&#252;rger entsteht kein
+Erf&#252;llungsaufwand.
+B. Besonderer Teil
+Zu Artikel 1 (&#196;nderung des Strafgesetzbuchs) 
+Zu Nummer 1 (&#167; 202a StGB-E) 
+Zu Buchstabe a (Absatz 1 StGB-E)
+Der Entwurf sieht in Absatz 1 des &#167; 202a eine Erh&#246;hung der H&#246;chststrafe von drei 
+auf f&#252;nf Jahren vor, um dem in der zunehmend von Digitalisierung gepr&#228;gten Welt 
+steigenden Interesse des Berechtigten am Schutz der in gespeicherten Daten
+verk&#246;rperten Informationen gerecht zu werden sowie den Strafrahmen des Aussp&#228;hens 
+von Daten an den des Diebstahls von Sachen anzugleichen. Die kriminelle Energie, 
+die ein T&#228;ter beim unberechtigten Zugriff auf informationstechnische Systeme und 
+digitale Daten aufwenden muss, kann mindestens ebenso so gro&#223; - wenn nicht sogar 
+gr&#246;&#223;er - sein wie diejenige, die f&#252;r die Begehung eines einfachen Diebstahls
+erforderlich ist, zumal der T&#228;ter f&#252;r die Verwirklichung des &#167; 202a StGB - anders als f&#252;r
+&#8211; 16 &#8211;
+die Verwirklichung des &#167; 242 StGB - sogar eine besondere Zugangssicherung
+&#252;berwinden muss. Wenn einem T&#228;ter ein automatisierter Angriff auf &#252;ber 100 Webseiten 
+gelingt und er hierbei Millionen von Kunden- und Zahlungsdaten aussp&#228;ht, um durch 
+den Verkauf dieser Daten seinen Lebensunterhalt zu bestreiten, verbleibt es bei dem 
+Strafrahmen des Grunddelikts von derzeit bis zu drei Jahren. &#220;ber die
+Verh&#228;ltnism&#228;&#223;igkeitspr&#252;fung hat dieser geringe Strafrahmen auch Auswirkungen f&#252;r die Haftfrage, 
+selbst wenn konkrete Anhaltspunkte f&#252;r eine Verdunkelungsgefahr bestehen.
+Die derzeitige Ausgestaltung der Datenaussp&#228;hung als Bagatelldelikt wird im
+&#220;brigen auch der gewachsenen gesellschaftlichen und wirtschaftlichen Bedeutung
+digitaler Daten nicht gerecht. Die Nutzung informationstechnischer Systeme ist f&#252;r die
+Lebensf&#252;hrung vieler B&#252;rger von zentraler Bedeutung und aus ihrem Alltagsleben kaum 
+noch wegzudenken. Aber auch andere Bereiche des modernen Lebens, wie etwa die 
+&#246;ffentliche Verwaltung oder der Unternehmenssektor, sind angesichts der
+fortschreitenden Digitalisierung mehr denn je auf informationstechnische Systeme
+angewiesen. Vor diesem Hintergrund ist es angemessen, informationstechnische Systeme 
+und Daten strafrechtlich besser vor unberechtigten Zugriffen zu sch&#252;tzen. Da die
+Gefahren und Sch&#228;den durch unberechtigte Datenabgriffe f&#252;r die Gesch&#228;digten ebenso 
+gro&#223; sein k&#246;nnen wie etwa bei den klassischen Eigentumsdelikten, ist eine
+Anhebung des Strafrahmens auch aus general- und spezialpr&#228;ventiven Gr&#252;nden geboten.
+Zu Buchstabe b (Absatz 3 bis 5 StGB-E)
+Der Entwurf schafft mit den Abs&#228;tzen 4 und 5 des &#167; 202a StGB-E einen
+Qualifikationstatbestand und eine Strafzumessungsregel f&#252;r besonders schwere F&#228;lle der
+Datenaussp&#228;hung, die sich vom Strafrahmen des Grundtatbestandes nicht immer
+angemessen erfassen lassen. &#167; 202a StGB sieht de lege lata keine M&#246;glichkeit vor, 
+Taten mit einem besonderen Unrechtsgehalt sch&#228;rfer und damit schuldangemessen 
+zu bestrafen. Insbesondere haben bisher bestimmte Tatvarianten, die sich in vielen 
+Bereichen des Kernstrafrechts strafsch&#228;rfend auswirken, wie etwa eine
+gewerbsoder bandenm&#228;&#223;ige Tatbegehung, bei der Datenaussp&#228;hung keine Auswirkung auf 
+den in Betracht kommenden Strafrahmen. Dies ist insbesondere bei einem Vergleich 
+mit den klassischen Diebstahlsdelikten, die in den &#167;&#167; 243 ff. StGB Strafsch&#228;rfungen 
+f&#252;r qualifizierte Begehungsweisen erhalten, nicht sachgerecht. Ebenso wenig ist es 
+sach- und systemgerecht, dass &#167; 202a StGB-E bislang keine Versuchsstrafbarkeit
+&#8211; 17 &#8211;
+vorsieht, weshalb der Entwurf mit dem neuen Absatz 3 den Versuch der
+Datenaussp&#228;hung f&#252;r strafbar erkl&#228;rt. Im Einzelnen:
+1. Der Entwurf erkl&#228;rt in Absatz 3 des &#167; 202a StGB-E den Versuch der
+Datenaussp&#228;hung f&#252;r strafbar. Damit wird nicht nur der strafrechtliche Schutz f&#252;r digitale 
+Daten an denjenigen f&#252;r k&#246;rperliche Gegenst&#228;nde angeglichen, sondern zugleich 
+auch die derzeit bestehende Inkonsistenz beseitigt, dass zwar die Vorbereitung 
+einer Datenaussp&#228;hung nach &#167; 202c StGB strafbar ist, der Versuch aber nicht. 
+De lege lata bleiben damit selbst massenhaft begangene Versuchshandlungen 
+straflos, unabh&#228;ngig davon, ob diese an dem Unverm&#246;gen des T&#228;ters oder an 
+der Qualit&#228;t der Zugangssicherung scheitern (Ernst NJW 2007, 2661 [2662]; Graf 
+in: M&#252;Ko-StGB, 3. Aufl. 2017, &#167; 202a Rn. 109). Straflos sind derzeit
+beispielsweise computergesteuerte Cyberangriffe auf Firmen, bei denen in einem "trial and
+error - Verfahren" unter Umst&#228;nden mehrere Tage lang mittels eines automatisiert 
+ablaufenden Hacking-Tools erfolglos versucht wird, den Zugang zur
+Firmendatenbank zu hacken, um an die Kunden- und Kreditkartendaten zu gelangen (Graf 
+in: M&#252;Ko-StGB, 3. Aufl. 2017, &#167; 202a Fn. 360). Gleiches gilt f&#252;r automatisierte 
+Versuche mittels spezieller Programme, Passw&#246;rter von Privatpersonen,
+Unternehmen oder der &#246;ffentlichen Verwaltung zu "knacken". Den Opfern dieses
+Vorgehens stehen derzeit bestenfalls technische Gegenma&#223;nahmen zur Verf&#252;gung. 
+Solche Handlungen im Versuchsstadium sind aber mindestens ebenso - wenn 
+nicht sogar noch eher - strafw&#252;rdig als vorgelagerte Handlungen im blo&#223;en
+Vorbereitungsstadium, wo bereits die einmalige Verschaffung eines entsprechenden 
+Hacking-Tools in &#167; 202c StGB unter Strafe gestellt ist. Die fehlende
+Versuchsstrafbarkeit im geltenden Recht ist daher sachlich nicht nachvollziehbar. Auch aus 
+dogmatischer Sicht vermag es zu nicht zu &#252;berzeugen, dass das geltende Recht 
+zwar vor der blo&#223; abstrakten Rechtsgutsgef&#228;hrdung durch eine
+Vorbereitungshandlung, nicht aber vor der im Versuch liegenden konkreten
+Rechtsgutsgef&#228;hrdung sch&#252;tzt.
+Um diese Inkonsistenzen zu beseitigen, sieht der Entwurf mit dem neuen
+Absatz 3 die Einf&#252;hrung einer Versuchsstrafbarkeit vor. Danach ist der Versuch
+eines Vergehens nach &#167; 202a Absatz 1 StGB-E gem&#228;&#223; &#167; 202a Absatz 3 StGB-E in 
+Verbindung mit &#167;&#167; 23 Absatz 1 Alternative 2, 12 Absatz 2 StGB strafbar. Die
+&#8211; 18 &#8211;
+Strafbarkeit des vorgeschlagenen Verbrechenstatbestandes nach &#167; 202a Abs. 5 
+StGB-E ergibt sich aus &#167;&#167; 23 Absatz 1 erste Alternative, 12 Absatz 1 StGB.
+2. Der vorgeschlagene Absatz 4 des &#167; 202a StGB-E sieht eine
+Strafzumessungsregel f&#252;r besonders schwere F&#228;lle der Datenaussp&#228;hung mit einem erh&#246;hten
+Strafrahmen von drei Monaten bis zu zehn Jahren vor. Dabei werden in Nummer 1 
+bis 4 des &#167; 202a Absatz 4 Satz 2 StGB-E zur Konkretisierung mehrere
+Regelbeispiele benannt:
+&#8226; Nach Nummer 1 des &#167; 202a Absatz 4 Satz 2 StGB-E liegt ein besonders 
+schwerer Fall in der Regel dann vor, wenn das Aussp&#228;hen von Daten
+gewerbs- oder bandenm&#228;&#223;ig begangen wird. Die Auslegung dieser Merkmale 
+kann sich an der Auslegung der entsprechenden Merkmale in anderen
+Regelungen im StGB orientieren (vgl. etwa &#167;&#167; 243 Absatz 1 Satz 2 Nummer 3, 244 
+Absatz 1 Nummer 2, 263 Absatz 3 Satz 2 Nummer 1 StGB). Im Falle der
+bandenm&#228;&#223;igen Begehung muss sich die Bandenabrede auf eine Tat nach 
+&#167;&#167; 202a bis 202d, 263a, 269, 303a oder 303b beziehen. Erfasst sind also 
+nicht nur die Computer- und Datendelikte im engeren Sinn nach &#167;&#167; 202a bis 
+202d, 303a oder 303b StGB, sondern auch die oftmals mitverwirklichten
+Delikte des Computerbetrugs nach &#167; 263a StGB und der F&#228;lschung
+beweiserheblicher Daten nach &#167; 269 StGB. Dadurch wird sichergestellt, dass auch solche 
+Banden unter das Regelbeispiel fallen, deren &#252;berwiegendes Ziel die
+Begehung von Verwertungstaten ist und f&#252;r die die Begehung etwa einer
+Datenaussp&#228;hung lediglich einen den eigentlichen Bandenzweck vorbereitenden 
+Charakter aufweist.
+Der im Vergleich zum Grundtatbestand erh&#246;hte Strafrahmen rechtfertigt sich 
+aus der erh&#246;hten kriminellen Energie, die mit der gewerbs- oder
+bandenm&#228;&#223;igen Tatbegehung im Regelfall verbunden ist. Hinzu kommt bei Bandendelikten 
+die erh&#246;hte Gef&#228;hrlichkeit, die aus dem auf eine gewisse Dauer angelegten 
+Zusammenschluss von mehr als zwei T&#228;tern zu einer Bande und dem damit 
+einhergehenden Anreiz zur Begehung weiterer Straftaten resultiert.
+&#8211; 19 &#8211;
+Anders als bei den Diebstahlsdelikten (vgl. &#167; 244 Absatz 1 Nummer 2 StGB), 
+aber entsprechend den Betrugsdelikten (&#167; 263 Absatz 3 Satz 2 Nummer 1 
+StGB), gestaltet der Entwurf die bandenm&#228;&#223;ige Tatbegehung lediglich als
+Regelbeispiel und nicht als Qualifikation aus, um unverh&#228;ltnism&#228;&#223;ige Sanktionen 
+im Einzelfall zu verhindern. Dies gilt umso mehr, als der Entwurf - anders als 
+&#167; 244 Absatz 1 Nummer 2 StGB, aber wie &#167; 263 Absatz 3 Satz 2 Nummer 1 
+StGB - auf das Erfordernis der Mitwirkung eines anderen Bandenmitglieds an 
+der Tat verzichtet, so dass aufgrund der fehlenden Mitwirkung eines zweiten 
+Bandenmitglieds bei der Tatausf&#252;hrung die Gefahr f&#252;r das gesch&#252;tzte
+Rechtsgut im Einzelfall auch geringer sein kann als beim Bandendiebstahl nach 
+&#167; 244 Absatz 1 Nummer 2 StGB.
+&#8226; Nummer 2 des &#167; 202a Absatz 4 Satz 2 StGB-E sieht ein Regelbeispiel f&#252;r den 
+Fall vor, dass der T&#228;ter eine gro&#223;e Menge von Daten aussp&#228;ht oder in der 
+Absicht handelt, durch die fortgesetzte Tatbegehung Daten einer gro&#223;en
+Anzahl von Personen auszusp&#228;hen. Mit dem Wort "aussp&#228;hen" wird auf die
+Tathandlung des Grundtatbestandes nach &#167; 202a Absatz 1 StGB Bezug
+genommen, so dass - wie beim Grundtatbestand - auch f&#252;r die Verwirklichung des 
+Regelbeispiels die blo&#223;e Zugangsverschaffung ausreicht. Das Regelbeispiel 
+ist erf&#252;llt, wenn der T&#228;ter sich oder einem anderen den Zugang zu einer
+gro&#223;en Menge von Daten verschafft oder in der Absicht handelt, sich oder einem 
+anderen durch die fortgesetzte Tatbegehung den Zugang zu Daten von einer 
+gro&#223;en Anzahl von Personen zu verschaffen. F&#252;r die Zugangsverschaffung 
+gen&#252;gt es dabei, wenn der T&#228;ter so weit in ein informationstechnisches
+System eindringt, dass er ohne weiteres Hindernis im n&#228;chsten Schritt auf die 
+nicht f&#252;r ihn bestimmten Daten zugreifen kann. Er muss sich also nicht diese 
+Daten, sondern lediglich den Zugang zu den Daten verschaffen (indem er sich 
+etwa das Passwort oder einen anderen Zugangsschl&#252;ssel besorgt). Dies
+betrifft die in der Praxis auftretenden F&#228;lle, in denen der T&#228;ter den erlangten
+Zugang nicht unmittelbar f&#252;r den Download der Daten nutzt, sondern sich, um 
+unentdeckt zu bleiben, lediglich den konkreten Zugriff auf wertvoll
+erscheinende Daten sichert.
+Bei der "gro&#223;en Menge an Daten" und "gro&#223;en Anzahl von Personen" handelt
+&#8211; 20 &#8211;
+es sich um unbestimmte Rechtsbegriffe, die nach objektiven Gesichtspunkten 
+unter Ber&#252;cksichtigung des technischen Fortschritts zu bestimmen sind.
+Ob eine gro&#223;e Menge von Daten vorliegt, bestimmt sich nach dem
+Informationsgehalt der Daten. Die absolute physikalische Gr&#246;&#223;e des Datenvolumens 
+ist als ma&#223;gebliches Kriterium unzureichend. Entscheidend sind hier auch das 
+Datenformat und der Dateityp. Eine hochaufl&#246;sende Videodatei kann
+beispielsweise bei nur drei Minuten Laufzeit des Videos eine Dateigr&#246;&#223;e von
+einem Gigabyte (=1000 Megabyte) erreichen, ohne dass eine gro&#223;e Menge an 
+Daten vorliegen w&#252;rde. F&#252;r eine komprimierte Textdatei, die 30.000 E-Mail-
+Adressen und die dazugeh&#246;rigen Passw&#246;rter umfasst, w&#228;re dagegen ein 
+Speicherplatz von nur einem Megabyte ausreichend. Hinsichtlich einer
+Addition der Datenmengen kommt es darauf an, ob eine Tat im Sinne von &#167; 52 
+StGB vorliegt.
+Eine gro&#223;e Anzahl von Personen liegt entsprechend zu den zu &#167; 263 Absatz 3 
+Nr. 2 StGB entwickelten Grunds&#228;tzen jedenfalls dann vor, wenn die Daten von 
+mehr als f&#252;nfzig Personen ausgesp&#228;ht werden. Mit diesem Regelbeispiel
+sollen insbesondere auch solche F&#228;lle erfasst werden, in denen ein T&#228;ter bei
+einer Vielzahl von unterschiedlichen Personen jeweils nur eine kleine Menge an 
+Daten aussp&#228;ht. Das Regelbeispiel ist dabei - ebenso wie das &#228;hnliche
+Regelbeispiel in &#167; 263 Absatz 3 Satz 2 Nummer 2 Alternative 2 StGB - nicht erst 
+dann erf&#252;llt, wenn der T&#228;ter eine gro&#223;e Anzahl von Personen ausgesp&#228;ht hat, 
+sondern bereits dann, wenn er in der Absicht handelt, die Daten einer gro&#223;en 
+Zahl von Personen auszusp&#228;hen. Liegt eine solche Absicht vor, reicht schon 
+die erste Tatbegehung f&#252;r die Erf&#252;llung des Regelbeispiels aus, auch wenn es 
+dann entgegen der Intention des T&#228;ters nicht zu weiteren Aussp&#228;hhandlungen 
+bei anderen Personen kommt.
+&#8226; Nach Nummer 3 des &#167; 202a Absatz 4 Satz 2 StGB-E liegt ein besonders 
+schwerer Fall in der Regel vor, wenn der T&#228;ter sich oder einem anderen den 
+Zugang zu Daten kritischer Infrastrukturen verschafft oder durch die Tat die 
+Sicherheit der Bundesrepublik Deutschland oder eines ihrer L&#228;nder gef&#228;hrdet.
+&#8211; 21 &#8211;
+Kritische Infrastrukturen sind nach der allgemeinen Definition der KRITIS-
+Strategie der Bundesregierung "Organisationen und Einrichtungen mit
+wichtiger Bedeutung f&#252;r das staatliche Gemeinwesen, bei deren Ausfall oder
+Beeintr&#228;chtigung nachhaltig wirkende Versorgungsengp&#228;sse, erhebliche St&#246;rungen 
+der &#246;ffentlichen Sicherheit oder andere dramatische Folgen eintreten w&#252;rden" 
+(siehe Bundesministerium des Innern, f&#252;r Bau und Heimat: Nationale Strategie 
+zum Schutz Kritischer Infrastrukturen [KRITIS-Strategie], S. 3, abrufbar unter: 
+https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/ 
+bevoelkerungsschutz/kritis.html). Diese allgemeine Definition kann zur
+n&#228;heren Konkretisierung auf die Begriffsbestimmung des &#167; 2 Absatz 10 des
+Gesetzes &#252;ber das Bundesamt f&#252;r Sicherheit in der Informationstechnik (BSIG) und 
+die dazugeh&#246;rige Verordnung zur Bestimmung Kritischer Infrastrukturen nach 
+dem BSI-Gesetz (BSI-KritisV) zur&#252;ckgreifen, geht aber dar&#252;ber hinaus. Denn 
+&#167; 2 Absatz 10 BSIG benennt nur die Sektoren Energie, Informationstechnik 
+und Telekommunikation, Transport und Verkehr, Gesundheit, Wasser,
+Ern&#228;hrung sowie Finanz- und Versicherungswesen, w&#228;hrend nach der allgemeinen 
+Definition der Bundesregierung auch die Sektoren Staat und Verwaltung sowie 
+Medien und Kultur erfasst sind (vgl. 
+https://www.kritis.bund.de/SubSites/Kritis/DE/Einfuehrung/Sektoren/ 
+sekto-
+ren_node.html;jsessionid=B129E95380725F74369887B463F1F0F9.2_cid330; 
+Buchberger in: Schenke/Graulich/Ruthig, Sicherheitsrecht des Bundes, 2.
+Auflage 2019, BSIG, &#167; 2 Rn. 12). Kritische Infrastrukturen im Sinne des hier
+vorgeschlagenen Regelbeispiels k&#246;nnen also zum Beispiel nicht nur
+Krankenh&#228;user, Kernkraftwerke, Flugh&#228;fen oder Banken, sondern auch Regierungs-, 
+Verwaltungs- oder Justizbeh&#246;rden, der Deutsche Bundestag oder
+Rundfunkeinrichtungen sein. Die Aufnahme dieser kritischen Infrastrukturen in den
+Katalog der Regelbeispiele tr&#228;gt den Umstand Rechnung, dass diese
+Infrastruktur besonders schutzw&#252;rdig sind, da sie aufgrund der fortschreitenden
+Digitalisierung in hohem Ma&#223;e auf informationstechnische Systeme angewiesen sind 
+und unberechtigte Zugriffe auf diese Systeme schwerwiegende Folgen auch 
+f&#252;r die Allgemeinheit haben k&#246;nnen.
+Die Sicherheit der Bundesrepublik Deutschland umfasst die innere und &#228;u&#223;ere
+&#8211; 22 &#8211;
+Sicherheit. Die Begriffsbestimmung kann sich - wie bei &#167; 303b Absatz 4 Satz 2 
+Nummer 3 StGB - an &#167; 92 Absatz 3 Nummer 2 StGB orientieren. Gemeint ist 
+also die F&#228;higkeit der Bundesrepublik, sich nach au&#223;en und innen gegen
+St&#246;rungen zur Wehr zu setzen. Entsprechendes gilt f&#252;r die Sicherheit eines der 
+L&#228;nder der Bundesrepublik Deutschland. Allerdings ist nach dem Entwurf nicht 
+erforderlich, dass diese F&#228;higkeit durch die Tat konkret beeintr&#228;chtigt wird. 
+Vielmehr soll aus generalpr&#228;ventiven Gr&#252;nden bereits die blo&#223;e Gef&#228;hrdung 
+der Sicherheit gen&#252;gen, um die erh&#246;hte Strafdrohung der
+Strafzumessungsregel auszul&#246;sen.
+&#8226; Nummer 4 des &#167; 202a Absatz 4 Satz 2 StGB-E bestimmt schlie&#223;lich, dass ein 
+besonders schwerer Fall in der Regel vorliegt, wenn der T&#228;ter sich oder einem 
+anderen den Zugang zu Daten verschafft, die den h&#246;chstpers&#246;nlichen
+Lebensbereich ber&#252;hren. Die Aufnahme in den Regelbeispielskatalog f&#252;r
+besonders schwere F&#228;lle ist geboten, da es sich bei diesen Daten um &#228;u&#223;erst
+sensible und damit besonders schutzw&#252;rdige Daten handelt. Das
+Bundesverfassungsgericht rechnet solche Daten in st&#228;ndiger Rechtsprechung dem
+Kernbereich privater Lebensgestaltung eines Menschen zu und unterstellt sie damit 
+dem Schutz des aus der Menschenw&#252;rdegarantie (Art. 1 Absatz 1 GG)
+flie&#223;enden Achtungs- und Schutzanspruchs, was die besondere
+Schutzw&#252;rdigkeit dieser Daten belegt.
+Bei der Auslegung des Begriffs des "h&#246;chstpers&#246;nlichen Lebensbereichs" 
+kann auf die zu &#167; 201a StGB entwickelten Grunds&#228;tze, die sich ihrerseits an 
+der Rechtsprechung des Bundesverfassungsgerichts zum Kernbereich
+privater Lebensgestaltung orientieren, zur&#252;ckgegriffen werden. H&#246;chstpers&#246;nlich 
+sind danach zum Beispiel Daten, die innere Vorg&#228;nge wie Gedanken,
+Empfinden oder Gef&#252;hle wiedergeben (etwa in einer digitalen "Tagebuchdatei") oder 
+intime Nacktaufnahmen aus dem privaten Sexualleben eines Menschen
+enthalten (vgl. BT-Drs. 15/2466, S. 5, BVerfG NJW 2016, 1781 [1786]).
+3. Der vorgeschlagene Absatz 5 des &#167; 202a StGB-E sieht schlie&#223;lich einen
+Qualifikationstatbestand vor. Danach wird mit Freiheitsstrafe von einem Jahr bis zu zehn 
+Jahren, in minder schweren F&#228;llen mit Freiheitsstrafe von sechs Monaten bis zu
+&#8211; 23 &#8211;
+f&#252;nf Jahren, bestraft, wer in den F&#228;llen des Absatzes 4 Satz 2 Nummer 1 erste
+Alternative und Nummern 2 bis 4 als Mitglied einer Bande handelt, die sich zur
+fortgesetzten Begehung von Delikten nach &#167;&#167; 202a bis 202d, 263a, 269, 303a oder 
+303b verbunden hat.
+Der Entwurf erhebt damit - in Anlehnung an die Regelungen in &#167;&#167; 244a, 260a und 
+263 Absatz 5 StGB - die bandenm&#228;&#223;ige Begehung von Datenaussp&#228;hungen
+unter erschwerenden Umst&#228;nden (n&#228;mlich unter den Umst&#228;nden des Absatz 4 Satz 
+2 Nummer 1 erste Alternative oder Nummer 2 bis 4) zu einem
+Verbrechenstatbestand. Hierdurch wird erreicht, dass zur schweren Kriminalit&#228;t z&#228;hlende
+Cyberattacken insbesondere aus dem Bereich des Organisierten Cybercrime von den 
+Gerichten in einer schuldangemessenen Weise bestraft werden k&#246;nnen.
+Zum Organisierten Cybercrime z&#228;hlt die vom Gewinn- oder Machtstreben
+bestimmte planm&#228;&#223;ige Begehung von Computer- und Datendelikten, die einzeln 
+oder in ihrer Gesamtheit von erheblicher Bedeutung sind und an denen mehr als 
+zwei Beteiligte auf l&#228;ngere oder unbestimmte Dauer arbeitsteilig unter
+Verwendung gewerblicher oder gesch&#228;fts&#228;hnlicher Strukturen, unter Anwendung von 
+Gewalt oder anderer zur Einsch&#252;chterung geeigneter Mittel oder unter
+Einflussnahme auf Politik, Medien, &#246;ffentliche Verwaltung, Justiz oder Wirtschaft
+zusammenwirken (vgl. Ziff. 2. 1 der Gemeinsamen Richtlinien der Justizminister/-
+senatoren und der Innenminister/-senatoren der L&#228;nder &#252;ber die Zusammenarbeit 
+bei der Verfolgung der Organisierten Kriminalit&#228;t; Kochheim, Cybercrime und 
+Strafrecht in der Informations- und Kommunikationstechnik, 2. Auflage 2018,
+Kapitel 1 Rn. 37). Der Bek&#228;mpfung dieser besonders schwerwiegenden
+Kriminalit&#228;tsform dient Absatz 5, der insbesondere durch die kumulative Verbindung der 
+gewerbsm&#228;&#223;igen mit der bandenm&#228;&#223;igen Begehungsweise wesentliche Bereiche 
+der Organisierten Cyber-Kriminalit&#228;t erfasst.
+&#8211; 24 &#8211;
+Zu Nummer 2 (&#167; 202b StGB-E)
+Zu Buchstabe a (Absatz 1 StGB-E)
+Der Entwurf sieht vor, dass der bisherige Normtext des &#167; 202b als neuer Absatz 1 
+des &#167; 202b StGB-E den Grundtatbestand f&#252;r das Abfangen von Daten bildet. In
+Anlehnung an &#167; 201 StGB wird dabei das H&#246;chstma&#223; der zul&#228;ssigen Freiheitsstrafe von 
+zwei auf drei Jahre erh&#246;ht.
+Das Abfangen von Daten nach &#167; 202b StGB stellt in gewisser Weise das digitale 
+Pendant zum unbefugten Abh&#246;ren und Aufzeichnen von Telefongespr&#228;chen dar
+(Fischer, Strafgesetzbuch, 66. Auflage, 2019, &#167; 202b Rn. 2: &#167; 202b StGB "entspricht" 
+insoweit &#167; 201 StGB), das in &#167; 201 StGB als Verletzung der Vertraulichkeit des
+Wortes mit einer Freiheitsstrafe von bis zu drei Jahren oder mit Geldstrafe bedroht ist. 
+Ein Gro&#223;teil moderner Kommunikation findet nicht mehr im direkten verbalen
+Austausch in Echtzeit statt, sondern verlagert sich auf datenbasierte
+Kommunikationsplattformen. Dennoch ist auch diese Form der Kommunikation in Chats und
+Messenger-Diensten nicht &#246;ffentlich und daher besonders schutzw&#252;rdig. Es erscheint daher 
+auch sachgerecht, beide Konstellationen im Strafrahmen gleich zu behandeln.
+Im Vergleich zum Aussp&#228;hen von Daten nach &#167; 202a Absatz 1 StGB-E, f&#252;r das der 
+Entwurf eine H&#246;chststrafe von f&#252;nf Jahren vorschl&#228;gt, ist bei &#167; 202b Absatz 1 StGB-E 
+eine Strafdrohung von maximal drei Jahren Freiheitsstrafe ausreichend, aber auch 
+erforderlich. Die bereits bisher vorgesehene Abstufung des Strafrahmens zwischen 
+&#167; 202a und &#167; 202b StGB bleibt damit durch den Entwurf erhalten. Diese Abstufung 
+ist mit Blick auf den unterschiedlichen Unrechtsgehalt beider Delikte auch
+angemessen, zumal &#167; 202b StGB - im Gegensatz zu &#167; 202a StGB - nicht verlangt, dass der 
+T&#228;ter eine besondere Zugangssicherung &#252;berwindet.
+Zu Buchstabe b (Abs&#228;tze 2 bis 4 StGB-E)
+Der Entwurf f&#252;gt in &#167; 202b StGB zudem einen neuen Absatz 3 mit einer
+Strafzumessungsregel f&#252;r besonders schwere F&#228;lle des Abfangens von Daten und einen neuen 
+Absatz 4 mit einem Qualifikationstatbestand ein, um auch Taten mit einem
+gesteigerten Unrechtsgehalt in einer schuldangemessenen, den Bed&#252;rfnissen der General-
+und Spezialpr&#228;vention gen&#252;genden Weise bestrafen zu k&#246;nnen. Ferner sieht der
+&#8211; 25 &#8211;
+Entwurf mit dem neuen Absatz 2 vor, die Versuchsstrafbarkeit f&#252;r das Abfangen von 
+Daten einzuf&#252;hren. Im Einzelnen:
+1. In Parallele zu der in &#167; 202a Absatz 3 StGB-E vorgeschlagenen
+Versuchsstrafbarkeit f&#252;r das Aussp&#228;hen von Daten sieht der Entwurf mit dem neuen Absatz 2 
+des &#167; 202b StGB-E auch f&#252;r das Abfangen von Daten vor, den Versuch f&#252;r
+strafbar zu erkl&#228;ren. Dadurch reagiert der Entwurf - wie bei &#167; 202a StGB - auf die
+derzeit bestehende und nicht hinnehmbare Inkonsistenz, dass die (blo&#223;) abstrakte 
+Gef&#228;hrdung des gesch&#252;tzten Rechtsguts im Vorbereitungsstadium nach &#167; 202c 
+StGB strafrechtlich sanktioniert wird, die konkrete Rechtsgutsgef&#228;hrdung im
+Versuchsstadium nach geltendem Recht aber straflos bleibt. Dar&#252;ber hinaus ist es 
+auch wenig stimmig, dass der Versuch des unbefugten Abh&#246;rens und
+Aufzeichnens von Telefongespr&#228;chen nach &#167; 201 Absatz 4 StGB strafbar ist, der Versuch 
+des Abfangens von Daten als digitales Pendant zum unbefugten Zugriff auf
+Telefongespr&#228;che hingegen straflos. Diese Inkonsistenzen werden mit dem
+vorgeschlagenen Absatz 2 des &#167; 202b StGB-E beseitigt.
+2. In diesem Sinne sieht Absatz 3 des &#167; 202b StGB-E vor, besonders schwere F&#228;lle 
+des Abfangens von Daten mit einer Freiheitsstrafe von drei Monaten bis zu f&#252;nf 
+Jahren zu bestrafen. Zur Konkretisierung werden in den Nummern 1 bis 4 des 
+&#167; 202b Absatz 3 Satz 2 StGB-E - in Anlehnung an &#167; 202a Absatz 4 Satz 2 
+StGB-E - Regelbeispiele f&#252;r besonders schwere F&#228;lle benannt. Ein besonders 
+schwerer Fall liegt danach in der Regel vor, wenn das Abfangen von Daten
+gewerbs- oder bandenm&#228;&#223;ig begangen wird (Nummer 1), eine gro&#223;e Menge an
+Daten oder eine gro&#223;e Anzahl von Personen betrifft (Nummer 2), sich auf Daten
+kritischer Infrastrukturen bezieht oder die Sicherheit der Bundesrepublik
+Deutschland oder eines ihrer L&#228;nder gef&#228;hrdet (Nummer 3) oder h&#246;chstpers&#246;nliche Daten 
+erfasst (Nummer 4).
+F&#252;r diese Regelbeispiele gelten die obigen Ausf&#252;hrungen zu &#167; 202a Absatz 4 
+StGB-E entsprechend mit der Ma&#223;gabe, dass in den F&#228;llen des &#167; 202b Absatz 3 
+StGB-E im Gegensatz zu &#167; 202a Absatz 4 StGB-E ein Verschaffen der Daten und 
+nicht des blo&#223;en Zugangs zu Daten erforderlich ist. Dies ergibt sich daraus, dass 
+bereits der Grundtatbestand des Abfangens von Daten nach &#167; 202b Absatz 1
+&#8211; 26 &#8211;
+StGB-E - im Unterschied zum Aussp&#228;hen von Daten nach &#167; 202a Absatz 1  
+StGB-E - eine blo&#223;e Zugangsverschaffung nicht ausreichen l&#228;sst.
+3. Der in Absatz 4 des &#167; 202b StGB-E vorgesehene Qualifikationstatbestand dient in 
+Anlehnung an &#167; 202a Absatz 5 StGB-E insbesondere der Bek&#228;mpfung der 
+schweren Kriminalit&#228;tsform des Organisierten Cybercrime, indem er die
+bandenm&#228;&#223;ige Tatbegehung unter erschwerten Umst&#228;nden (n&#228;mlich unter den
+Umst&#228;nden des Absatz 3 Satz 2 Nummer 1 erste Alternative oder Nummer 2 bis 4) mit 
+einer erh&#246;hten Strafdrohung von sechs Monaten bis zu zehn Jahren, in minder 
+schweren F&#228;llen mit Freiheitsstrafe von drei Monaten bis zu f&#252;nf Jahren, belegt. 
+Anders als &#167; 202a Absatz 5 StGB-E wurde dabei davon abgesehen, den &#167; 202b 
+Absatz 4 StGB als Verbrechenstatbestand auszugestalten, um dem auch bereits 
+im jeweiligen Grundtatbestand zum Ausdruck kommenden abgestuften
+Unrechtsgehalt beider Straftatbest&#228;nde Rechnung zu tragen.
+Zu Nummer 3 (&#167; 202c StGB-E)
+Zu Buchstabe a (Absatz 1 StGB-E)
+Absatz 1 des &#167; 202c StGB, der das Vorbereiten des Aussp&#228;hens und Abfangens von 
+Daten als abstraktes Gef&#228;hrdungsdelikt unter Strafe stellt, wird durch den Entwurf in 
+zweierlei Hinsicht ge&#228;ndert:
+Zum einen wird die zul&#228;ssige H&#246;chststrafe von zwei auf drei Jahren angehoben. Der 
+Entwurf tr&#228;gt damit dem Umstand Rechnung, dass die derzeit vorgesehene
+Strafrahmenobergrenze von zwei Jahren jedenfalls dann nicht mehr ausreichend ist, 
+wenn ein besonders schwerer oder qualifizierter Fall des Aussp&#228;hens oder
+Abfangens von Daten im Sinne &#167;&#167; 202a Absatz 4 und 5, 202b Absatz 3 und 4 StGB-E
+vorbereitet wird. Denn wer beispielsweise einen besonders schweren Fall des
+Aussp&#228;hens von Daten vorbereitet, verwirklicht ein h&#246;heres Unrecht als derjenige, der nur 
+den Grundtatbestand einer Datenaussp&#228;hung vorbereitet. Verschafft ein T&#228;ter einem 
+anderen eine selbst programmierte Software zum Aussp&#228;hen von Accounts in dem 
+Wissen, dass diese f&#252;r ein gewerbsm&#228;&#223;iges Handeln verwendet wird, erscheint der 
+vorgegebene Strafrahmen zu gering, auch wenn der T&#228;ter selbst nicht
+gewerbsm&#228;&#223;ig vorging. Um dem differenzierten Unrechtsgehalt der in Betracht kommenden
+&#8211; 27 &#8211;
+Fallgestaltungen in einer schuldangemessenen Weise erfassen zu k&#246;nnen, erscheint 
+daher die Anhebung des Strafrahmenobergrenze f&#252;r das Vorbereitungsdelikt des 
+&#167; 202c Absatz 1 StGB von zwei auf drei Jahren geboten.
+Zum anderen verzichtet der Entwurf im Vergleich zur bisherigen Fassung darauf, die 
+Tathandlung des Verbreitens in &#167; 202c Absatz 1 StGB explizit im Grundtatbestand zu 
+erw&#228;hnen, da die Verbreitung nur eine Form des ebenfalls in Absatz 1 erw&#228;hnten 
+Zug&#228;nglichmachens ist, bei der die Tatobjekte an einen gr&#246;&#223;eren, nach Zahl und
+Individualit&#228;t unbestimmten oder f&#252;r den T&#228;ter nicht mehr kontrollierbaren
+Personenkreis weitergeben werden (vgl. zur Definition der Tathandlung des Verbreitens etwa 
+Eisele in: Sch&#246;nke/Schr&#246;der, 30. Auflage 2018, &#167; 202d Rn. 12). Diese Form der
+Zug&#228;nglichmachung soll k&#252;nftig aufgrund des gesteigerten Unrechtsgehalts in &#167; 202c 
+Absatz 3 Satz 2 Nummer 2 StGB-E als Regelbeispiel f&#252;r einen besonders schweren 
+Fall einer Vorbereitungshandlung erfasst werden.
+Zu Buchstabe b (Abs&#228;tze 3 und 4 StGB-E)
+Der Entwurf sieht ferner vor, zwei neue Abs&#228;tze 3 und 4 in &#167; 202c StGB einzuf&#252;gen, 
+um auch dem erh&#246;hten Unrechtsgehalt besonders schwerer oder qualifizierter
+Vorbereitungshandlungen in einer schuldangemessenen Weise Rechnung tragen zu
+k&#246;nnen.
+1. Zu diesem Zweck schafft der Entwurf mit dem neuen Absatz 3 des &#167; 202c 
+StGB-E eine Strafzumessungsregel f&#252;r besonders schwere F&#228;lle von
+Vorbereitungshandlungen. Ein besonders schwerer Fall liegt nach Satz 2 des &#167; 202c
+Absatz 3 StGB-E in der Regel vor, wenn die Vorbereitungshandlung gewerbs- oder 
+bandenm&#228;&#223;ig begangen wird (Nummer 1) oder die in Absatz 1 genannten
+Tatobjekte in Form von Sicherungscodes oder Computerprogrammen einer gro&#223;en
+Anzahl von Personen zug&#228;nglich gemacht werden (Nummer 2). Eine gro&#223;e Anzahl 
+von Personen liegt dabei entsprechend der zu &#167; 263 Absatz 3 Nr. 2 StGB
+entwickelten Ma&#223;st&#228;be jedenfalls dann vor, wenn der Personenkreis mehr als f&#252;nfzig 
+Personen umfasst. Die vorgeschlagenen Regelbeispiele weisen einen &#252;ber den 
+Normalfall hinausgehenden, gesteigerten Unrechtsgehalt auf, der sich mit dem 
+Strafrahmen des Grundtatbestandes des &#167; 202c Absatz 1 StGB nicht immer
+angemessen erfassen l&#228;sst.
+&#8211; 28 &#8211;
+2. Der vorgeschlagene neue Absatz 4 des &#167; 202c StGB enth&#228;lt einen
+Qualifikationstatbestand f&#252;r den Fall, dass die Vorbereitungshandlung bandenm&#228;&#223;ig begangen 
+wird und dabei zugleich eines der Regelbeispiele aus &#167; 202c Absatzes 3 Satz 2 
+Nummer 1 erste Alternative oder Nummer 2 StGB verwirklicht. Wer also bei der 
+Vorbereitung eines Aussp&#228;hens oder Abfangens von Daten banden- und zugleich 
+gewerbsm&#228;&#223;ig handelt oder wer bei der Vorbereitung als Mitglied einer Bande die 
+Sicherungscodes bzw. Computerprogramme einer gro&#223;en Anzahl von Personen 
+zug&#228;nglich macht, hat nach dem Entwurf eine Freiheitsstrafe von drei Monaten 
+bis zu zehn Jahren zu bef&#252;rchten. Diese Strafdrohung ist aus general- und
+spezialpr&#228;ventiven Gr&#252;nden geboten und mit Blick auf das verwirklichte Unrecht auch 
+gerechtfertigt.
+Zu Nummer 4 (&#167; 202d StGB-E)
+Zu Buchstabe a (Absatz 1 StGB-E)
+In Anlehnung an die Sachhehlerei (&#167; 259 Absatz 1 StGB) hebt der Entwurf die
+zul&#228;ssige H&#246;chststrafe bei der Datenhehlerei (&#167; 202d Absatz 1 StGB) von drei auf f&#252;nf 
+Jahren Freiheitsstrafe an, mit der Folge, dass digitale Daten strafrechtlich gegen 
+Hehlerei gesch&#252;tzt werden wie k&#246;rperliche Gegenst&#228;nde. Dies ist angesichts der
+gewachsenen gesellschaftlichen und wirtschaftlichen Bedeutung digitaler Daten nicht 
+nur angemessen, sondern auch die konsequente Schlussfolgerung aus dem
+Umstand, dass die Datenhehlerei vom Gesetzgeber urspr&#252;nglich weitgehend nach dem 
+Vorbild der Sachhehlerei konzipiert worden ist (vgl. BT-Drs. 18/5088, S. 24 ff., 45 ff.).
+Selbst wenn man sich - wie der historische Gesetzgeber - f&#252;r den Strafrahmen der 
+Datenhehlerei an der Strafdrohung der praktisch wohl bedeutsamsten Vortat, n&#228;mlich 
+der Datenaussp&#228;hung nach &#167; 202a Absatz 1 StGB, orientieren will (vgl. BT-Drs. 
+18/5088, S. 47), ist eine Anhebung der Strafobergrenze von drei auf f&#252;nf Jahre
+Freiheitsstrafe nur konsequent, da der Entwurf die Strafobergrenze in &#167; 202a Absatz 1 
+StGB ebenfalls von drei auf f&#252;nf Jahre anhebt.
+Schlie&#223;lich st&#228;rkt die Anhebung der Strafobergrenze bei &#167; 202d Absatz 1 StGB mit 
+Blick auf die spezial- und generalpr&#228;ventive Wirkung nicht nur den strafrechtlichen 
+Schutz gegen Datenhehlerei, sondern in letzter Konsequenz auch den strafrechtli-
+&#8211; 29 &#8211;
+chen Schutz digitaler Daten gegen die Vortaten (wie etwa &#167;&#167; 202a, 202b StGB), da 
+die Abschreckung potentieller Datenhehler auch den durch die Hehlerei
+geschaffenen Anreiz zur Ver&#252;bung von Vortaten minimiert.
+Der Entwurf streicht in &#167; 202d Absatz 1 StGB - wie bei &#167; 202c Absatz 1 StGB - das 
+Wort "verbreiten", da die Verbreitung nur eine Form des ebenfalls in Absatz 1
+erw&#228;hnten Zug&#228;nglichmachens ist, bei der die Daten an einen gr&#246;&#223;eren, nicht mehr 
+&#252;berschaubaren Personenkreis weitergegeben werden (vgl. zur Definition der
+Tathandlung des Verbreitens etwa Eisele in: Sch&#246;nke/Schr&#246;der, 30. Auflage 2018, 
+&#167; 202d Rn. 12). Diese Form der Zug&#228;nglichmachung soll k&#252;nftig aufgrund des
+gesteigerten Unrechtsgehalts in &#167; 202d Absatz 3 Satz 2 Nummer 2 StGB-E als
+Regelbeispiel f&#252;r einen besonders schweren Fall erfasst werden.
+Zu Buchstabe b (Abs&#228;tze 2 bis 4 StGB-E)
+Der Entwurf f&#252;hrt mit dem neuen Absatz 2 auch f&#252;r die Datenhehlerei eine
+Versuchsstrafbarkeit ein. Ferner schafft er mit den Abs&#228;tzen 3 und 4 eine
+Strafzumessungsregel f&#252;r besonders schwere F&#228;lle und einen Qualifikationstatbestand, um auch Taten 
+mit einem erh&#246;hten Unrechtsgehalt in einer schuldangemessenen Weise bestrafen 
+zu k&#246;nnen. Ein praktisches Bed&#252;rfnis f&#252;r erh&#246;hte Strafdrohungen bei der
+Datenhehlerei besteht insbesondere mit Blick auf den lebhaften Handel mit "gestohlenen
+Daten" im Darknet. So stellt der Handel mit Kreditkartendaten oder Accounts bei
+Zahlungsdienstleistern und Verkaufsplattformen auf den universellen Marktpl&#228;tzen im 
+Darknet, gleich nach dem Angebot von Bet&#228;ubungsmitteln, derzeit eine der gr&#246;&#223;ten 
+Kategorien dar (z.B. Kategorie &#8222;Fraud&#8220; auf den Plattformen &#8222;Dream Market&#8220; oder 
+&#8222;Wallstreet Market&#8220;). Im Einzelnen:
+1. In Parallele zu &#167; 259 Absatz 3 StGB, wo die Versuchsstrafbarkeit f&#252;r die
+Sachhehlerei geregelt ist, erkl&#228;rt der Entwurf mit dem neuen Absatz 2 des &#167; 202d 
+StGB-E auch den Versuch des Vergehens der Datenhehlerei nach &#167; 202d
+Absatz 1 StGB f&#252;r strafbar. Die Strafbarkeit des Versuchs des vorgeschlagenen 
+Verbrechenstatbestandes nach &#167; 202d Absatz 4 StGB-E ergibt sich aus &#167;&#167; 23 
+Absatz 1 erste Alternative, 12 Absatz 1 StGB.
+2. Der Entwurf schafft mit dem neuen Absatz 3 des &#167; 202d StGB-E die M&#246;glichkeit, 
+besonders schwere F&#228;lle der Datenhehlerei mit Freiheitsstrafe von sechs Mona-
+&#8211; 30 &#8211;
+ten bis zu zehn Jahren zu bestrafen. Die besonders schweren F&#228;lle werden dabei 
+in den Nummern 1 bis 4 des &#167; 202d Absatz 3 Satz 2 StGB-E mit vier
+Regelbeispielen konkretisiert, die weitgehend den Regelbeispielen aus &#167; 202a Absatz 4 
+Satz 2 Nummer 1 bis 4 und &#167; 202b Absatz 3 Satz 2 Nummer 1 bis 4 StGB
+entsprechen bzw. zumindest an diese angelehnt sind.
+So werden als erschwerende Umst&#228;nde in Nummer 1 die Gewerbs- oder
+Bandenm&#228;&#223;igkeit genannt. Nummer 2 stuft die Datenhehlerei in der Regel als
+besonders schweren Fall ein, wenn sie eine gro&#223;e Menge von Daten betrifft oder in der 
+Absicht begangen wird, durch die fortgesetzte Tatbegehung sich oder einem
+anderen die Daten einer gro&#223;en Anzahl von Personen zu verschaffen oder die
+Daten einer gro&#223;en Anzahl von Personen zug&#228;nglich zu machen. &#220;ber dieses
+Regelbeispiel sollen insbesondere auch solche F&#228;lle erfasst werden, in denen der 
+T&#228;ter an eine gro&#223;e Anzahl von Personen jeweils nur eine kleine Datenmenge 
+verbreitet. Gerade auf den Marketplaces im Darknet ist es durchaus &#252;blich, dass 
+gro&#223;e Mengen von aktuellen und daher werthaltigen Zahlungsdaten in kleinere 
+Tranchen geteilt und ver&#228;u&#223;ert werden, da hierdurch ein weitaus h&#246;herer Gewinn 
+zu erzielen ist. Nummer 3 stellt auf die Betroffenheit von Daten kritischer
+Infrastrukturen oder die Gef&#228;hrdung der Sicherheit der Bundesrepublik Deutschland 
+oder eines ihrer L&#228;nder ab. Schlie&#223;lich ist nach Nummer 4 ein besonders
+schwerer Fall in der Regel anzunehmen, wenn h&#246;chstpers&#246;nliche Daten Gegenstand 
+der Datenhehlerei sind. Zur n&#228;heren Konkretisierung dieser Regelbeispiele kann 
+weitgehend auf die obigen Ausf&#252;hrungen zu &#167; 202a Absatz 4 StGB-E Bezug
+genommen werden, die an dieser Stelle entsprechend gelten.
+3. Der vorgeschlagene Absatz 4 des &#167; 202d StGB-E erhebt in Anlehnung an &#167; 202a 
+Absatz 5 StGB-E und &#167; 260a Absatz 1 StGB die bandenm&#228;&#223;ig begangene
+Datenhehlerei zum Verbrechen, sofern der T&#228;ter zugleich einen der erschwerenden 
+Umst&#228;nde aus &#167; 202d Absatz 3 Satz 2 Nummer 1 erste Alternative oder Nummer 
+2 bis 4 StGB-E verwirklicht. Hierdurch soll vor allem dem organisierten
+Schwarzmarkthandel mit "gestohlenen" Daten im Darknet Rechnung getragen werden.
+&#8211; 31 &#8211;
+Zu Buchstabe c (Abs&#228;tze 5 und 6 StGB-E)
+Es handelt sich lediglich um eine Folge&#228;nderung aus der Einf&#252;gung der neuen
+Abs&#228;tze 2 bis 4, die dazu f&#252;hrt, dass die bisherigen Abs&#228;tze 2 und 3 zu den Abs&#228;tzen 5 
+und 6 werden.
+Zu Nummer 5 (&#167; 205 StGB-E)
+Zu Buchstabe a (Absatz 1 Satz 2 StGB-E)
+Nach dem Entwurf soll im Ergebnis in dem Umfang an dem Strafantragserfordernis 
+f&#252;r das Aussp&#228;hen von Daten (&#167; 202a StGB), das Abfangen von Daten (&#167; 202b 
+StGB) und die Datenhehlerei (&#167; 202d StGB) festgehalten werden, in dem es bislang 
+nach &#167; 205 Absatz 1 Satz 2 StGB gilt. Die Strafantragsregelung in &#167; 205 Absatz 1 
+Satz 2 StGB ist daher dahingehend abzu&#228;ndern, dass sie nur die Grundtatbest&#228;nde 
+der vorgenannten Delikte (&#167;&#167; 202a Absatz 1, 202b Absatz 1, 202d Absatz 1StGB-E) 
+erfasst, nicht aber auch die Strafzumessungsregeln und die
+Qualifikationstatbest&#228;nde (&#167;&#167; 202a Abs&#228;tze 4 und 5, 202b Abs&#228;tze 3 und 4, 202d Abs&#228;tze 3 und 4 StGB-E), 
+die der Entwurf f&#252;r die vorgenannten Delikte vorschl&#228;gt.
+Eine Einbeziehung der Regelungen zu den besonders schweren und qualifizierten 
+F&#228;llen in das Strafantragserfordernis des &#167; 205 Absatz 1 Satz 2 StGB erscheint mit 
+Blick auf den erh&#246;hten Unrechtsgehalt dieser Taten nicht sachgerecht, zumal die 
+Strafverfolgungsbeh&#246;rden in diesen F&#228;llen aufgrund der Schwere der Taten ohnehin 
+in aller Regel das besondere &#246;ffentliche Interesse an der Strafverfolgung zu bejahen 
+h&#228;tten. Dementsprechend hat der Gesetzgeber im &#220;brigen auch bei den
+Diebstahlsdelikten in &#167; 248a StGB davon abgesehen, die besonders schweren und
+qualifizierten Fallgestaltungen der &#167;&#167; 243 ff. StGB dem Strafantragserfordernis zu unterstellen.
+Zu Buchstabe b (Absatz 2 Satz 1 StGB-E)
+In &#167; 205 Absatz 2 Satz 1 StGB, der den &#220;bergang des Antragsrechts im Falle des 
+Todes des Verletzten auf die Angeh&#246;rigen nach &#167; 77 Absatz 2 StGB regelt, wird 
+durch den Entwurf der einschr&#228;nkende zweite Halbsatz, der diesen &#220;bergang bei 
+Taten nach &#167;&#167; 202a, 202b und 202 StGB bislang ausschlie&#223;t, gestrichen. Diese 
+Rechtsverk&#252;rzung ist gerade angesichts der zunehmenden Werthaltigkeit vieler 
+elektronischer Daten heute nicht mehr angemessen und zeitgem&#228;&#223; (so Graf in M&#252;-
+&#8211; 32 &#8211;
+Ko-StGB, 3. Auflage 2017, &#167; 205 Rn. 13). Die Streichung erscheint ferner
+sachgerecht, weil beim Aussp&#228;hen und anschlie&#223;enden Ver&#246;ffentlichen von
+h&#246;chstpers&#246;nlichen Daten ein Bed&#252;rfnis besteht, es auch den Angeh&#246;rigen zu erm&#246;glichen, gem&#228;&#223; 
+&#167; 77 Absatz. 2 StGB eine Strafverfolgung in die Wege leiten zu k&#246;nnen.
+Zu Nummer 6 (&#167; 303a StGB-E)
+Zu Buchstabe a (Abs&#228;tze 3 und 4 StGB-E)
+Der Entwurf sieht in den neuen Abs&#228;tzen 3 und 4 des &#167; 303a StGB-E erh&#246;hte
+Strafdrohungen f&#252;r besonders schwere und qualifizierte F&#228;lle vor, die sich vom
+Strafrahmen des Grundtatbestandes in &#167; 303a Absatz 1 StGB und des bereits vorhandenen 
+Qualifikationstatbestandes in &#167; 303b Absatz 1 Nummer 1 StGB nicht immer
+angemessen erfassen lassen. Das Interesse der Verf&#252;gungsberechtigten an der
+ungest&#246;rten, jederzeit m&#246;glichen Nutzung ihrer in Datenspeichern enthaltenen Informationen 
+erfordert angesichts der gestiegenen gesellschaftlichen und wirtschaftlichen
+Bedeutung digitaler Daten und des starken Anstiegs der Fallzahlen in diesem
+Deliktsbereich in den letzten Jahren aus general- und spezialpr&#228;ventiven Gr&#252;nden einen
+verst&#228;rkten strafrechtlichen Schutz (vgl. zum Anstieg der Fallzahlen Wieck-Noodt in: 
+M&#252;Ko-StGB, 3. Auflage 2019, &#167; 303a Rn. 5).
+1. Zu diesem Zweck schafft der Entwurf in dem neuen Absatz 3 des &#167; 303a StGB-E 
+eine Strafzumessungsregel f&#252;r besonders schwere F&#228;lle, die in ihrem Satz 2 zur 
+Konkretisierung auch vier Regelbeispiele mit erschwerenden Umst&#228;nden
+benennt, n&#228;mlich die Gewerbs- oder Bandenm&#228;&#223;igkeit (Nummer 1), die gro&#223;e
+Menge an betroffenen Daten oder die gro&#223;e Anzahl betroffener Personen (Nummer 
+2), die Daten kritischer Infrastrukturen oder die Gef&#228;hrdung der Sicherheit der 
+Bundesrepublik Deutschland oder eines ihrer L&#228;nder (Nummer 3) sowie der 
+h&#246;chstpers&#246;nliche Charakter der tatgegenst&#228;ndlichen Daten (Nummer 4). Die 
+Auslegung dieser Regelbeispiele kann sich weitgehend an den entsprechenden 
+bzw. &#228;hnlichen Regelbeispielen in &#167; 202a Absatz 4 Satz 2 StGB-E, &#167; 202b
+Absatz 3 Satz 2 StGB-E, &#167; 202d Absatz 3 Satz 2 StGB-E orientieren.
+Die vorgeschlagene Strafdrohung (Freiheitsstrafe bis zu f&#252;nf Jahre oder
+Geldstrafe ) erscheint unter Ber&#252;cksichtigung der drohenden Sch&#228;den f&#252;r das gesch&#252;tzte 
+Rechtsgut erforderlich, aber auch ausreichend. Insbesondere sieht der Entwurf
+&#8211; 33 &#8211;
+davon ab, eine im Mindestma&#223; erh&#246;hte Strafdrohung festzusetzen. Hintergrund 
+ist, dass der Gesetzgeber den Tatbestand der Datenver&#228;nderung (&#167; 303a StGB) 
+weitgehend in Anlehnung an und als Erg&#228;nzung zum Tatbestand der
+Sachbesch&#228;digung (&#167; 303 StGB) geschaffen und ausgestaltet hat (vgl. BT-Drs. 10/5058, 
+S. 34 f.). Die in den qualifizierten F&#228;llen der Sachbesch&#228;digung vorgesehenen 
+Strafrahmen nach &#167;&#167; 304 ff. StGB enthalten aber ganz &#252;berwiegend (mit
+Ausnahme des Sonderfalls der einfachen Brandstiftung nach &#167; 306 StGB) auch keine 
+im Mindestma&#223; erh&#246;hte Strafdrohung. Vielmehr sehen beispielsweise die &#167;&#167; 305 
+Absatz 1, 305a Absatz 1 StGB f&#252;r die Zerst&#246;rung von Bauwerken (wie etwa
+Br&#252;cken oder Schienennetz der Eisenbahn) und von wichtigen Arbeitsmitteln (etwa 
+der Polizei, der Bundeswehr oder des Katastrophenschutzes) eine Freiheitsstrafe 
+von bis zu f&#252;nf Jahren oder Geldstrafe vor, ohne die untere Grenze des
+Strafrahmens &#252;ber das Mindestma&#223; hinaus zu erh&#246;hen.
+2. Der Entwurf sieht zudem in dem vorgeschlagenen Absatz 4 des &#167; 303a StGB-E 
+eine Qualifikationstatbestand vor, wonach mit Freiheitsstrafe von sechs Monaten 
+bis zu zehn Jahren, in minder schweren F&#228;llen mit Freiheitsstrafe von drei
+Monaten bis zu f&#252;nf Jahren bestraft wird, wer die Datenver&#228;nderung bandenm&#228;&#223;ig 
+begeht und dabei zugleich einen der erschwerenden Umst&#228;nde verwirklicht, die in 
+Absatz 3 Satz 2 Nummer 1 erste Alternative oder Nummer 2 bis 4 genannt sind. 
+Dieser erh&#246;hte Strafrahmen scheint insbesondere zur Bek&#228;mpfung der
+schwerwiegenden Kriminalit&#228;tsform des Organisierten Cybercrime geboten. Durch die 
+gleichzeitige Regelung eines minder schweren Falls bleibt es den Gerichten
+zudem m&#246;glich, auch auf Fallgestaltungen, in denen die strafmildernden Umst&#228;nde 
+betr&#228;chtlich &#252;berwiegen, angemessen zu reagieren.
+Zu Buchstabe b (Absatz 5 StGB-E)
+Der bisherige Absatz 3, der f&#252;r die Vorbereitung einer Datenver&#228;nderung die
+entsprechende Anwendung des &#167; 202c StGB anordnet, wird Absatz 5. Es handelt sich 
+um eine redaktionelle Folge&#228;nderung.
+&#8211; 34 &#8211;
+Zu Nummer 7 (&#167; 303b StGB-E) 
+Zu Buchstabe a (Absatz 4 StGB-E) 
+Zu Buchstabe aa (Absatz 4 Satz 1 StGB-E)
+Der Entwurf erweitert den Anwendungsbereich der Strafzumessungsregel f&#252;r
+besonders schwere F&#228;lle in &#167; 303b Absatz 4 StGB, der bislang nach Satz 1 auf die F&#228;lle 
+des Absatzes 2 beschr&#228;nkt ist, auf die F&#228;lle des Absatzes 1. Dies hat zur Folge, dass 
+eine Strafsch&#228;rfung nicht mehr nur dann m&#246;glich ist, wenn die Computersabotage 
+nach Absatz 2 einen fremden Betrieb, ein fremdes Unternehmen oder eine Beh&#246;rde 
+betrifft, sondern auch dann, wenn die Computersabotage nach Absatz 1 zum
+Nachteil einer Privatperson begangen wird.
+Diese Erweiterung des Anwendungsbereichs der Strafzumessungsregel erscheint 
+aus general- und spezialpr&#228;ventiven Gr&#252;nden zum Schutz von Privatpersonen
+geboten, da auch deren informationstechnische Systeme zunehmend von Sabotageakten 
+betroffen sind. Breites Aufsehen in der &#214;ffentlichkeit erregten in den letzten Jahren 
+insbesondere die Schadprogramme "Locky", "WannaCry" und &#8222;GrandCrab&#8220;, sowie 
+andere Verschl&#252;sselungs- bzw. Erpressungstrojaner, die massenhaft
+Computersysteme auch von Privatpersonen infizierten, den Zugriff auf die Systeme sperrten bzw. 
+die darauf gespeicherten Daten verschl&#252;sselten und die Freigabe von der Zahlung 
+eines "L&#246;segeldes" abh&#228;ngig machten. Anders als im gewerblichen Umfeld sind im 
+privaten Bereich ausreichende Backups h&#228;ufig nicht vorhanden. Der Verlust der
+gesamten privaten &#8222;digitalen Vergangenheit&#8220;, bestehend aus unersetzbaren
+Dokumenten, Lichtbildern und sonstigen wichtigen Daten, f&#252;hrt dann zu einer erheblichen
+Beeintr&#228;chtigung des Sicherheitsgef&#252;hls der Opfer.
+Die Erweiterung des Anwendungsbereichs der Strafzumessungsregel ist aber nicht 
+nur aus Gr&#252;nden der General- und Spezialpr&#228;vention geboten, sondern mit Blick auf 
+das von &#167; 303b StGB gesch&#252;tzte Rechtsgut auch sachgerecht und konsequent, da 
+der Straftatbestand der Computersabotage ganz allgemein das Interesse der
+Betreiber und Nutzer von Datenverarbeitungen an deren ordnungsgem&#228;&#223;er
+Funktionsweise sch&#252;tzt. Mag die Computersabotage im betrieblichen, unternehmerischen oder 
+beh&#246;rdlichen Bereich auch zu h&#246;heren Sch&#228;den f&#252;hren k&#246;nnen, so kann es doch 
+nicht &#252;berzeugen, dass beispielsweise der Eintritt eines Verm&#246;gensverlusts gro&#223;en
+&#8211; 35 &#8211;
+Ausma&#223;es (&#167; 303b Absatz 4 Satz 2 Nummer 1 StGB) nur deshalb keine Auswirkung 
+auf den in Betracht kommenden Strafrahmen haben soll, weil es eine Privatperson 
+ist, die den Verlust erleidet. Der Verlust von 50.000 EUR oder mehr d&#252;rfte eine
+Privatperson typischerweise sogar noch empfindlicher treffen als ein gro&#223;es
+Unternehmen.
+Zu Buchstabe bb (Absatz 4 Satz 2 Nummer 1 StGB-E)
+Der Entwurf erg&#228;nzt den in Nummer 1 des &#167; 303b Absatz 4 Satz 2 StGB genannten 
+erschwerenden Umstand der Herbeif&#252;hrung eines Verm&#246;gensverlusts gro&#223;en
+Ausma&#223;es um ein weiteres Regelbeispiel. Danach soll k&#252;nftig in Anlehnung an &#167; 263 
+Absatz 3 Satz 2 Nummer 2 StGB ein besonders schwerer Fall nicht mehr nur dann 
+vorliegen, wenn der T&#228;ter einen Verm&#246;gensverlust gro&#223;en Ausma&#223;es herbeif&#252;hrt 
+(erste Alternative), sondern auch dann, wenn der T&#228;ter in der Absicht handelt, durch 
+die fortgesetzte Begehung von Computersabotage eine gro&#223;e Zahl von Menschen in 
+die Gefahr des Verlustes von Verm&#246;genswerten zu bringen (Alternative 2). Diese 
+Erg&#228;nzung tr&#228;gt dem Umstand Rechnung, dass das Handeln eines T&#228;ters, der durch 
+mehrere rechtlich selbst&#228;ndige Sabotagehandlungen zwar eine gro&#223;e Zahl von
+Menschen sch&#228;digt oder sch&#228;digen will, wobei die Sch&#228;den jeweils aber kein gro&#223;es 
+Ausma&#223; erreichen, nicht unter die bisherige Regelung in &#167; 303b Absatz 4 Satz 2 
+Nummer 1 StGB subsumiert werden kann. Denn eine Addition der Einzelsch&#228;den 
+kommt weder bei mehreren Tatopfern noch bei mehreren rechtlich selbst&#228;ndigen 
+Handlungen in Betracht. Bei der Auslegung der vom Entwurf vorgeschlagenen
+Neuregelung der Regelbeispiele in Nummer 1 kann auf die Auslegung der
+gleichlautenden Regelung in &#167; 263 Absatz 3 Satz 2 Nummer 2 StGB zur&#252;ckgegriffen werden.
+Zu Buchstabe cc (Absatz 4 Satz 2 Nummer 2 StGB-E)
+Der Entwurf tr&#228;gt mit der Ersetzung des Wortes "Computersabotage" in Nummer 2 
+des &#167; 303b Absatz 4 Satz 2 StGB durch die allgemeine Formulierung "Taten nach 
+&#167;&#167; 202a bis 202d, 263a, 269, 303a oder 303b" dem Umstand Rechnung, dass sich 
+Banden im Bereich der Cyberkriminalit&#228;t in aller Regel nicht ausschlie&#223;lich zur
+Begehung von Delikten der Computersabotage, sondern allgemein zur Begehung von
+Delikten nach &#167;&#167; 202a bis 202d, 263a, 269, 303a oder 303b StGB zusammenschlie&#223;en.
+&#8211; 36 &#8211; 
+Zu Buchstabe dd (Absatz 4 Satz 2 Nummer 3 StGB-E) 
+Die Nummer 3 des &#167; 303b Absatz 4 Satz 2 StGB wird durch die Neufassung im
+Entwurf in zweierlei Hinsicht ge&#228;ndert:
+Zum einen ersetzt der Entwurf die bisherige Fassung der ersten Alternative der 
+Nummer 3, die eine Beeintr&#228;chtigung der Versorgung der Bev&#246;lkerung mit
+lebenswichtigen G&#252;tern oder Dienstleistungen verlangt, durch die etwas allgemeiner
+gefasste Formulierung, dass die Datenverarbeitung einer kritischen Infrastruktur
+erheblich gest&#246;rt sein muss. Damit soll einem zu engen Verst&#228;ndnis, das sich etwa aus 
+dem Begriff "lebenswichtig" ergeben k&#246;nnte, vorgebeugt und gew&#228;hrleistet werden, 
+dass alle kritischen Infrastrukturen den gleichen strafrechtlichen Schutz erhalten.
+Zugleich wird damit eine begriffliche Anpassung an die entsprechenden Regelbeispiele 
+bei den anderen Straftatbest&#228;nden aus &#167; 202a, 202b, 202d, 303a StGB-E erreicht 
+(vgl. &#167; 202a Absatz 4 Satz 2 Nummer 3, &#167; 202b Absatz 3 Satz 2 Nummer 3, &#167; 202d 
+Absatz 3 Satz 2 Nummer 3, &#167; 303a Absatz 3 Satz 2 Nummer 3 StGB-E).
+Zum anderen passt der Entwurf auch die Alternative 2 der Nummer 3 an die
+entsprechenden Regelungen bei den vorgenannten Straftatbest&#228;nden an. Hierf&#252;r wird die 
+bereits jetzt im Gesetz erw&#228;hnte Sicherheit der Bundesrepublik Deutschland um die 
+Sicherheit eines der L&#228;nder erg&#228;nzt. Ferner erweitert der Entwurf den
+Anwendungsbereich der Alternative 2 auch insofern, als er keine Beeintr&#228;chtigung der Sicherheit 
+mehr verlangt, sondern eine Gef&#228;hrdung der Sicherheit ausreichen l&#228;sst. Diese
+Erweiterung ist mit Blick auf das Ausma&#223; der potentiell drohenden Sch&#228;den
+sachgerecht, zumal es oftmals nur vom Zufall abh&#228;ngen wird, ob sich die geschaffene
+Gefahr auch in konkreten Sicherheitsbeeintr&#228;chtigungen realisiert. Vor diesem
+Hintergrund stellt es auch keine unverh&#228;ltnism&#228;&#223;ige Sanktion dar, wenn derjenige, der eine 
+Computersabotage begeht und dabei billigend in Kauf nimmt, beispielsweise die
+Verteidigungsf&#228;higkeit und damit die &#228;u&#223;ere Sicherheit der Bundesrepublik Deutschland 
+zu gef&#228;hrden, eine Freiheitsstrafe von mindestens sechs Monaten bis maximal zehn 
+Jahren zu bef&#252;rchten hat. Eine solche Strafdrohung scheint vielmehr - wie bei einem 
+Cyberangriff auf kritische Infrastrukturen - aufgrund des hohen Gefahrenpotentials 
+aus generalpr&#228;ventiven Gr&#252;nden geboten, um potentielle T&#228;ter von vornherein von 
+der Begehung entsprechender Taten abzuschrecken.
+&#8211; 37 &#8211;
+Zu Buchstabe b (Abs&#228;tze 5 und 6 StGB-E)
+Der Entwurf schl&#228;gt des Weiteren vor, in &#167; 303b StGB zwei neue Abs&#228;tze 5 und 6 mit 
+einem qualifizierten und einem erfolgsqualifizierten Tatbestand f&#252;r Fallgestaltungen 
+einzuf&#252;gen, die sich aufgrund ihres erh&#246;hten Unrechtsgehalts mit den bestehenden 
+Strafrahmen der Abs&#228;tze 1, 2 oder 4 nicht in einer schuldangemessenen Weise
+erfassen und bestrafen lassen.
+1. Der in Absatz 5 des &#167; 303b StGB-E vorgeschlagene Qualifikationstatbestand
+erhebt in Anlehnung an &#167; 202a Absatz 5 StGB-E die bandenm&#228;&#223;ig begangene 
+Computersabotage unter erschwerten Umst&#228;nden zum Verbrechenstatbestand. 
+Wer also als Mitglied einer Bande handelt und dabei zugleich kumulativ einen der 
+in &#167; 303b Absatz 4 Satz 2 Nummer 1, Nummer 2 erste Alternative oder Nummer 3 
+genannten, erschwerenden Umst&#228;nde verwirklicht, hat nach dem Entwurf eine 
+Freiheitsstrafe von einem Jahr bis zu zehn Jahren, in minder schweren F&#228;llen
+eine Freiheitstrafe von sechs Monaten bis zu f&#252;nf Jahren zu erwarten. Der
+Qualifikationstatbestand erfasst insbesondere durch die kumulative Verbindung der
+gewerbs- und bandenm&#228;&#223;igen Begehungsweise wesentliche Bereiche der
+organisierten und damit schweren Cyberkriminalit&#228;t, so dass die Ausgestaltung als
+Verbrechenstatbestand sachgerecht ist. Dies gilt umso mehr, als alle Bereiche des 
+modernen Lebens aufgrund der fortschreitenden Digitalisierung in einem
+zunehmenden Ma&#223;e von einem st&#246;rungsfreien Funktionieren ihrer
+Datenverarbeitungsanlagen abh&#228;ngig sind und mit Akten der Computersabotage gerade im Bereich 
+der Wirtschaft immense wirtschaftliche Sch&#228;den verbunden sein k&#246;nnen, die etwa 
+im Falle von Produktionsausf&#228;llen bis zum wirtschaftlichen Ruin eines
+Unternehmens und dem Verlust von Arbeitspl&#228;tzen reichen k&#246;nnen.
+2. Der Entwurf schl&#228;gt zudem vor, in einem neuen Absatz 6 eine als
+Verbrechenstatbestand ausgestaltete Erfolgsqualifikation f&#252;r den Fall zu schaffen, dass der 
+T&#228;ter durch die Computersabotage wenigstens leichtfertig den Tod (Satz 1) oder 
+eine schwere Gesundheitssch&#228;digung (Satz 2) eines anderen Menschen
+verursacht. Hierdurch sollen insbesondere Fallgestaltungen angemessen erfasst
+werden, in denen der T&#228;ter durch die Computersabotage vors&#228;tzlich eine erhebliche 
+St&#246;rung der informationstechnischen Systeme von Krankenh&#228;usern, Flugh&#228;fen 
+oder anderen kritischen Infrastrukturen herbeif&#252;hrt und dadurch wenigstens leicht-
+&#8211; 38 &#8211;
+fertig den Tod oder eine schwere Gesundheitssch&#228;digung eines Menschen
+verursacht (etwa weil lebenserhaltende Ger&#228;te in einem Krankenhaus oder die
+Steuerungselektronik von Ampelanlagen oder Herzschrittmachern ausfallen, oder weil 
+die Flugsicherungssysteme eines Fluglotsen derart gest&#246;rt werden, dass es zu 
+einem Absturz oder Zusammensto&#223; zweier Flugzeuge kommt). Angesichts der 
+schweren Tatfolgen ist - in Anlehnung an die Strafrahmen der &#167;&#167; 226 Absatz 1, 
+227 Absatz 1 StGB - beim Verlust eines Menschenlebens eine im Mindestma&#223; 
+erh&#246;hte Strafdrohung von nicht unter drei Jahren und bei einer schweren
+Gesundheitssch&#228;digung eine Strafdrohung von einem bis zu zehn Jahren
+sachgerecht, um eine schuldangemessene Bestrafung zu gew&#228;hrleisten und
+generalwie spezialpr&#228;ventiven Strafbed&#252;rfnissen gerecht zu werden. Sofern im konkreten 
+Einzelfall strafmildernde Umst&#228;nde betr&#228;chtlich &#252;berwiegen sollten, ist durch die 
+gleichzeitige Regelung von minder schweren F&#228;llen mit niedrigeren Strafrahmen 
+von einem bis zehn Jahren (im Fall der Verursachung des Todes eines
+Menschen) und von sechs Monaten bis zu f&#252;nf Jahren (im Fall der Verursachung
+einer schweren Gesundheitssch&#228;digung) sichergestellt, dass die Gerichte auch in 
+solchen F&#228;llen schuldangemessen reagieren k&#246;nnen.
+Zu Buchstabe c (Absatz 7 StGB-E)
+Der bisherige Absatz 5, der f&#252;r die Vorbereitung einer Computersabotage die
+entsprechende Anwendung des &#167; 202c StGB anordnet, wird Absatz 7. Es handelt sich 
+um eine redaktionelle Folge&#228;nderung.
+Zu Artikel 2 (&#196;nderung der Strafprozessordnung)
+Zu Nummer 1 (&#167; 100a Absatz 2 Nummer 1 StPO)
+Zu Buchstabe a (Buchstabe h StPO-E)
+Der Entwurf erweitert den Anwendungsbereich der
+Telekommunikations&#252;berwachung, indem er den Straftatenkatalog des &#167; 100a Absatz 2 StPO um die schweren 
+Computer- und Datendelikte nach &#167;&#167; 202a, 202b Absatz 3 und 4, 202c Absatz 3 und 
+4, 202d, 303a Absatz 3 und 4, 303b Absatz 2 bis 6 StGB-E erg&#228;nzt. Diese Delikte 
+werden entsprechend der bisherigen Gesetzessystematik, welche die Katalogtaten
+&#8211; 39 &#8211;
+nach ihrer Paragraphenzahl in aufsteigender Reihenfolge anordnet, in den Katalog 
+als neuer Buchstabe h aufgenommen.
+Die Aufnahme dieser Delikte in den Anlasstatenkatalog des &#167; 100a Absatz 2 Satz 1 
+StPO ist zur effektiven Bek&#228;mpfung der schweren Cyberkriminalit&#228;t kriminalpolitisch 
+notwendig und unter Ber&#252;cksichtigung der bundesverfassungsgerichtlichen
+Vorgaben auch zul&#228;ssig.
+Notwendig ist die Aufnahme, da ohne die Er&#246;ffnung technischer
+Ermittlungsma&#223;nahmen wie der Telekommunikations&#252;berwachung Straftaten aus dem Bereich der 
+Cyberkriminalit&#228;t kaum erfolgreich aufgekl&#228;rt werden k&#246;nnen. Diese Taten werden 
+der Natur der Sache nach in den allermeisten F&#228;llen auch oder ausschlie&#223;lich unter 
+Zuhilfenahme von Telekommunikationsdiensten begangen, so dass die
+&#220;berwachung der Telekommunikation zum Beispiel in Form der Server- oder DSL-
+&#220;berwachung oftmals den einzigen Ermittlungsansatz zur Identifizierung der T&#228;ter 
+und zur Aufkl&#228;rung des Sachverhalts darstellen. Der Entwurf tr&#228;gt damit den
+Bed&#252;rfnissen der Strafverfolgungspraxis Rechnung, die seit l&#228;ngerem eine entsprechende 
+Erweiterung des Anwendungsbereichs der Telekommunikations&#252;berwachung fordert.
+Die Aufnahme der genannten Computer- und Datendelikte in den Katalog des &#167; 100a 
+Absatz 2 StPO ist verfassungsrechtlich auch zul&#228;ssig. Das
+Bundesverfassungsgericht gew&#228;hrt dem Gesetzgeber ausdr&#252;cklich einen Beurteilungsspielraum bei der 
+Bestimmung des Unrechtsgehalts eines Delikts und bei der Entscheidung dar&#252;ber, 
+welche Straftaten er zum Anlass f&#252;r bestimmte strafprozessuale
+Ermittlungsma&#223;nahmen machen will (BVerfG NJW 2012, 833 [836]). Erforderlich f&#252;r die Aufnahme in 
+den Katalog von Anlasstaten ist aufgrund des Eingriffs in das Fernmeldegeheimnis 
+aus Art. 10 GG zur Wahrung der Verh&#228;ltnism&#228;&#223;igkeit lediglich, dass es sich um eine 
+schwere Straftat handelt. F&#252;r die Qualifizierung einer Straftat als schwer k&#246;nnen
+insbesondere der Strafrahmen, aber auch das gesch&#252;tzte Rechtsgut und dessen
+Bedeutung f&#252;r die Rechtsgemeinschaft von Bedeutung sein (BVerfG NJW 2012, 833 
+[836]). 
+Schwere Straftaten sind nach der Definition des Gesetzgebers grunds&#228;tzlich solche 
+Straftaten, die mit einer Mindesth&#246;chststrafe von f&#252;nf Jahren Freiheitsstrafe bedroht 
+sind (BT-Drs 16/5846, S. 40). In Einzelf&#228;llen kann aufgrund der besonderen
+Bedeutung des gesch&#252;tzten Rechtsguts oder des besonderen &#246;ffentlichen Interesses an
+&#8211; 40 &#8211;
+der Strafverfolgung sogar auch eine geringere Freiheitsstrafe ausreichen. Bei dieser 
+Strafrahmenbetrachtung bleiben Strafmilderungen, die das Gesetz f&#252;r minder
+schwere F&#228;lle vorsieht, unber&#252;cksichtigt (BT-Drs 16/5846, S. 40). Das
+Bundesverfassungsgericht hat diese Definition mit der Einschr&#228;nkung gebilligt, dass neben der
+Strafrahmenbetrachtung auch eine Gesamtschau, die insbesondere die jeweils gesch&#252;tzten 
+Rechtsg&#252;ter in den Blick nimmt, die Qualifizierung einer Straftat als "schwer"
+rechtfertigten muss (BVerfG NJW 2012, 833 [836]).
+Nach diesen Ma&#223;st&#228;ben ist die Aufnahme der Computer- und Datendelikte nach 
+&#167;&#167; 202a, 202b Absatz 3 und 4, 202c Absatz 3 und 4, 202d, 303a Absatz 3 und 4, 
+303b Absatz 2 bis 6 StGB-E in den Katalog der schweren Straftaten aus &#167; 100a
+Absatz 2 StPO nicht zu beanstanden:
+1. Die besonders schweren bzw. qualifizierten F&#228;lle des Aussp&#228;hens von Daten 
+nach &#167; 202a Absatz 4 und 5 StGB-E, des Abfangens von Daten nach &#167; 202b
+Absatz 4 StGB-E, des Vorbereitens von bestimmten Delikten nach &#167; 202c Absatz 4 
+StGB-E, der Datenhehlerei nach &#167; 202d Absatz 3 und 4 StGB-E, der
+Datenver&#228;nderung nach &#167; 303a Absatz 4 StGB-E und der Computersabotage nach &#167; 303b 
+Absatz 4 bis 6 StGB-E sehen alle eine h&#246;here H&#246;chststrafe als f&#252;nf Jahre vor, so 
+dass es sich nach dem Begriffsverst&#228;ndnis des Bundesverfassungsgerichts 
+(BVerfG NJW 2004, 999 [1011]) abstrakt nicht blo&#223; um schwere, sondern sogar 
+um besonders schwere Straftaten handelt.
+2. Soweit der Entwurf dar&#252;ber hinaus vorschl&#228;gt, den Straftatenkatlog auch um die 
+Grundtatbest&#228;nde des Aussp&#228;hens von Daten nach &#167; 202a Absatz 1 StGB-E und 
+der Datenhehlerei nach &#167; 202d Absatz 1 StGB-E, um die besonders schweren 
+F&#228;lle des Abfangens von Daten nach 202b Absatz 3 StGB-E, des Vorbereitens 
+bestimmter Datendelikte nach &#167; 202c Absatz 3 StGB-E und der
+Datenver&#228;nderung nach &#167; 303a Absatz 3 StGB sowie um den Qualifikationstatbestand der 
+Computersabotage nach &#167; 303b Absatz 2 StGB zu erg&#228;nzen, handelt es sich um 
+Delikte, deren Begehung mit einer H&#246;chststrafe von f&#252;nf Jahren Freiheitsstrafe 
+bedroht ist.
+Diese Delikte sind auch bei einer Gesamtschau, welche die gesch&#252;tzten
+Rechtsg&#252;ter und deren Bedeutung f&#252;r die Rechtsgemeinschaft in den Blick nimmt, als
+&#8211; 41 &#8211;
+"schwer" einzustufen. Die &#167;&#167; 202a bis 202d StGB sch&#252;tzen das formelle
+Datengeheimnis, &#167; 303a StGB das Interesse des Berechtigten an der unversehrten 
+Verwendbarkeit seiner Daten und &#167; 303b StGB das Interesse aller Betreiber und 
+Nutzer von Datenverarbeitungen allgemein an deren ordnungsgem&#228;&#223;er
+Funktionsweise (vgl. Graf in: M&#252;Ko-StGB, 3. Aufl. 2017, &#167; 202a Rn. 2, &#167; 202b Rn. 2, 
+&#167; 202c Rn. 2, &#167; 202d Rn. 3, &#167; 303a Rn. 2, &#167; 303b Rn. 1). Diesen Rechtsg&#252;tern 
+kommt in der modernen Informationsgesellschaft, in der informationstechnische 
+Systeme allgegenw&#228;rtig und die Menschen auf die Nutzung dieser Systeme
+zunehmend angewiesen sind, eine hohe Bedeutung zu. Das
+Bundesverfassungsgericht hat daraus sogar ein grundrechtlich erhebliches Schutzbed&#252;rfnis gefolgert 
+und aus dem allgemeinen Pers&#246;nlichkeitsrecht das Grundrecht auf
+Gew&#228;hrleistung der Vertraulichkeit und Integrit&#228;t informationstechnischer Systeme abgeleitet 
+(BVerfG NJW 2008, 822 [825]). Vor diesem Hintergrund besteht ein hohes
+&#246;ffentliches Aufkl&#228;rungsinteresse in Bezug auf solche Delikte, die sich gegen die
+vorgenannten Rechtsg&#252;ter richten. Dies gilt umso mehr, als die Cyberkriminalit&#228;t
+inzwischen ein Ausma&#223; erreicht hat, das die Privatsph&#228;re und das
+Sicherheitsgef&#252;hl der Bev&#246;lkerung massiv bedroht, die Grundlagen von Staat, Wirtschaft und 
+Gesellschaft gef&#228;hrdet und zudem geeignet ist, das Vertrauen in den Rechtsstaat 
+und die Handlungsf&#228;higkeit staatlicher Organe nachhaltig zu ersch&#252;ttern. Die
+Zuordnung der vorgenannten Delikte zu den schweren Straftaten ist daher vom
+Beurteilungsspielraum des Gesetzgebers umfasst.
+Zu Buchstabe b (Buchstabe i bis v StPO-E) 
+Es handelt sich um eine redaktionelle Folge&#228;nderung. 
+Zu Nummer 2 (&#167; 100b Absatz 2 Nummer 1 StPO-E) 
+Zu Buchstabe a (Buchstabe f StPO-E)
+Zur effektiven Bek&#228;mpfung von Cyberkriminalit&#228;t erweitert der Entwurf ferner den 
+Anwendungsbereich der Online-Durchsuchung, indem er den Straftatenkatalog des 
+&#167; 100b Absatz 2 StPO um die besonders schweren Computer- und Datendelikte 
+nach &#167;&#167; 202a Absatz 4 und 5, 202b Absatz 4, 202c Absatz 4, 202d Absatz 3 und 4, 
+303a Absatz 4 und 303b Absatz 4 bis 6 StGB-E erg&#228;nzt.
+&#8211; 42 &#8211;
+Diese Erg&#228;nzung ist notwendig, da mit der fortschreitenden, alle Lebensbereiche 
+durchdringenden Digitalisierung auch die Bedrohung durch die Cyberkriminalit&#228;t 
+drastisch zugenommen hat. Die T&#228;ter sind dabei derzeit f&#252;r die
+Strafverfolgungsbeh&#246;rden nicht oder nur schwer zu ermitteln, da diese vermehrt die M&#246;glichkeiten der 
+Anonymisierung nutzen, die ihnen das Internet und die moderne Informationstechnik 
+bietet. Die Telekommunikations&#252;berwachung nach &#167; 100a StPO reicht dabei alleine 
+nicht aus, um die T&#228;ter und Teilnehmer zu identifizieren, die verwendete Infrastruktur 
+aufzuhellen und die dahinter stehenden Netzwerke aufzudecken. Denn die
+Ma&#223;nahme nach &#167; 100a StPO erlaubt nur die &#220;berwachung der laufenden
+Telekommunikation, nicht aber den Zugriff auf die auf einem informationstechnischen System 
+gespeicherten Daten (etwa aus einer bereits beendeten Telekommunikation des
+T&#228;ters). Diese Daten k&#246;nnen f&#252;r die T&#228;teridentifizierung, die Aufhellung der
+verwendeten Infrastruktur und das F&#252;hren des Tatnachweises im Bereich der schwer
+ermittelbaren Cyberkriminalit&#228;t aber von entscheidender Bedeutung sein. Umso wichtiger ist 
+es daher, dass die Strafverfolgungsbeh&#246;rden bei Taten in der digitalen Welt auch 
+digital ermitteln k&#246;nnen. Daf&#252;r ist es unabdingbar, dass den
+Strafverfolgungsbeh&#246;rden bei besonders schweren Computer- und Datendelikten die M&#246;glichkeit
+einger&#228;umt wird, im Wege der Online-Durchsuchung verdeckt auf fremde
+informationstechnische Systeme und die darauf gespeicherten Daten zuzugreifen.
+Diese Notwendigkeit rechtfertigt indes nicht, die Online-Durchsuchung f&#252;r alle
+Formen der Cyberkriminalit&#228;t zuzulassen. Denn mit dieser Ermittlungsma&#223;nahme ist ein 
+schwerwiegender Eingriff in das allgemeine Pers&#246;nlichkeitsrecht nach Art. 2 Absatz 1 
+in Verbindung mit Artikel 1 Absatz 1 GG in seiner Auspr&#228;gung als Grundrecht auf 
+Gew&#228;hrleistung der Vertraulichkeit und Integrit&#228;t informationstechnischer Systeme 
+verbunden, der nach der Rechtsprechung des Bundesverfassungsgerichts in seiner 
+Intensit&#228;t mit der Eingriffsintensit&#228;t einer Wohnraum&#252;berwachung vergleichbar ist 
+(BVerfG NJW 2016, 1781 [1794]). Folglich kommt eine Online-Durchsuchung mit 
+Blick auf den Verh&#228;ltnism&#228;&#223;igkeitsgrundsatz nur bei besonders schweren Straftaten 
+in Betracht. Diese besondere Schwere weisen nach den Vorgaben des
+Bundesverfassungsgerichts nur solche Straftaten auf, die mit einer h&#246;heren H&#246;chststrafe als 
+f&#252;nf Jahre Freiheitsstrafe bedroht sind (BVerfG NJW 2004, 999 [1011]).
+Eine solche Mindesth&#246;chststrafe von mehr als f&#252;nf Jahren sehen all diejenigen
+Delikte vor, die nach dem Entwurf in den Katalog des &#167; 100b Absatz 2 StPO aufgenom-
+&#8211; 43 &#8211;
+men werden sollen. So sehen die besonders schweren bzw. qualifizierten F&#228;lle des 
+Aussp&#228;hens von Daten nach &#167; 202a Absatz 4 und 5 StGB-E, des Abfangens von 
+Daten nach &#167; 202b Absatz 4 StGB-E, des Vorbereitens von bestimmten Delikten 
+nach &#167; 202c Absatz 4 StGB-E, der Datenhehlerei nach &#167; 202d Absatz 3 und 4 StGB-
+E, der Datenver&#228;nderung nach &#167; 303a Absatz 4 StGB-E und der Computersabotage 
+nach &#167; 303b Absatz 4 bis 5 StGB-E alle eine H&#246;chststrafe von zehn Jahren vor. Der 
+erfolgsqualifizierte Verbrechenstatbestand nach &#167; 303b Absatz 6 StGB-E (in
+Verbindung mit &#167; 38 Absatz 2 StGB) sieht sogar eine H&#246;chststrafe von f&#252;nfzehn Jahren vor. 
+Es handelt sich damit um besonders schwere Straftaten, die insbesondere mit Blick 
+auf die betroffenen Rechtsg&#252;ter ein besonders schweres Tatunrecht aufweisen und 
+damit den Bereich der mittleren Kriminalit&#228;t eindeutig deutlich &#252;bersteigen. Die
+genannten Straftaten f&#252;gen sich daher in verfassungsrechtlich nicht zu beanstandender 
+Weise in den bereits bestehenden Straftatenkatalog des &#167; 100b Absatz 2 StPO ein.
+Zu Buchstabe b (Buchstabe g bis n StPO-E) 
+Es handelt sich um eine redaktionelle Folge&#228;nderung. 
+Zu Nummer 3 (&#167; 100g Absatz 2 Satz 2 Nummer 1 StPO-E) 
+Zu Buchstabe a (Buchstabe e StPO-E)
+Der Entwurf sieht schlie&#223;lich vor, die in den &#167;&#167; 202a Absatz 4 und 5, 202b Absatz 4, 
+202c Absatz 4, 202d Absatz 3 und 4, 303a Absatz 4 und 303b Absatz 4 bis 6 StGB-E 
+vorgeschlagenen Delikte in den Katalog des &#167; 100g Absatz 2 StPO f&#252;r die Erhebung 
+von anlassunabh&#228;ngig gespeicherten Verkehrsdaten nach &#167; 113b TKG
+aufzunehmen.
+Die vorgenannten Delikte f&#252;gen sich nahtlos in den Kreis der besonders schweren 
+Katalogtaten des &#167; 100g Absatz 2 StPO ein, da sie allesamt mit einer h&#246;heren 
+H&#246;chststrafe als f&#252;nf Jahre Freiheitsstrafe bedroht sind. Insoweit wird auf die
+Begr&#252;ndung zu &#167; 100b Absatz 2 Nummer 1 Buchstabe f StPO-E Bezug genommen. 
+Verfassungsrechtlich ist die Aufnahme dieser besonders schweren Computer- und 
+Datendelikte in den Katalog des &#167; 100g Absatz 2 StPO im &#220;brigen schon deshalb 
+unproblematisch, weil das Bundesverfassungsgericht f&#252;r den Abruf der Daten als 
+Anlasstat "nur" eine schwere und keine besonders schwere Straftat gefordert hat
+&#8211; 44 &#8211;
+(BVerfG NJW 2010, 833 [841]). Indem der Entwurf also nur die Aufnahme von
+besonders schweren Computer- und Datendelikte in den Anlasstatenkatalog vorschl&#228;gt, 
+geht er sogar &#252;ber die Vorgaben des Bundesverfassungsgerichts hinaus.
+Die Aufnahme der vorgeschlagenen besonders schweren Computer- und
+Datendelikte in den Katalog des &#167; 100g Absatz 2 StPO ist mit Blick auf die gesetzgeberische 
+Intention bei der Schaffung des Katalogs auch konsequent. Denn nach der
+Vorstellung des historischen Gesetzgebers sollten in Ankn&#252;pfung an die
+bundesverfassungsgerichtlichen Vorgaben von dem Katalog namentlich auch solche besonders 
+schweren Straftaten erfasst werden, bei denen die gespeicherten Verkehrsdaten 
+nach kriminalistischer Erfahrung besonders wertvolle Dienste leisten k&#246;nnen und 
+damit eine besondere Bedeutung haben (BT-Drs. 18/5088, S. 32; vgl. auch BVerfG 
+NJW 2010, 833 [841]). Eben dies ist aber gerade bei den besonders schweren
+Straftaten im Bereich der Cyberkriminalit&#228;t der Fall, da diese Taten in den allermeisten 
+F&#228;llen auch oder ausschlie&#223;lich unter Zuhilfenahme von
+Telekommunikationsdiensten begangen werden. Die dabei anfallenden Verkehrsdaten stellen daher schon 
+aufgrund der Art und Weise der Tatbegehung, die sich praktisch ausschlie&#223;lich in 
+oder &#252;ber die digitale Welt vollzieht, h&#228;ufig den einzig erfolgversprechenden
+Ermittlungsansatz dar. Spuren in der realen Welt gibt es meist nicht.
+Von besonderer Bedeutung sind hier die nach &#167; 113b Abs. 3 TKG gespeicherten
+Daten der Internetzugangsdienste, sowie die von den Telefondiensten gem&#228;&#223; &#167; 113b 
+Abs. 2 Nr. 5 TKG gespeicherten Internetprotokolladressen. Denn auch wenn viele 
+gewerbs- und bandenm&#228;&#223;ig agierende T&#228;ter durch technische Vorkehrungen
+versuchen, ihre wahren Adressen zu verschleiern, so ben&#246;tigen sie dennoch f&#252;r den
+ersten Zugang zum Internet eine origin&#228;re Internetprotokolladresse. Gelingt es den
+Ermittlungsbeh&#246;rden, diese zu ermitteln, f&#252;hrt erst die Zuordnung der Adresse zu
+einem konkreten Teilnehmer zur Identifizierung der T&#228;ter.
+Zu Buchstabe b (Buchstabe f bis i StPO-E) 
+Es handelt sich um eine redaktionelle Folge&#228;nderung. 
+Zu Artikel 3 (Inkrafttreten)
+Die Vorschrift regelt das Inkrafttreten des Gesetzes.
+Drucksache 168/19]</text>
+    <titel>Entwurf eines Strafrechts&#228;nderungsgesetzes - Gesetz zur Verbesserung der Bek&#228;mpfung der Cyberkriminalit&#228;t</titel>
+    <datum>2019-04-09</datum>
+  </document>

@@ -1,0 +1,409 @@
+<document>
+    <id>250145</id>
+    <drucksachetyp>Kleine Anfrage</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>14</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/26560</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>350d75f999635083e9b5b18fa8bf4863</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:15+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>273627</id>
+      <titel>Der IT-Angriff auf "SolarWinds" und dessen Auswirkungen</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>B90/GR</bezeichnung>
+      <titel>Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN</titel>
+    </urheber>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/265/1926560.pdf</pdf_url>
+      <id>250145</id>
+      <dokumentnummer>19/26560</dokumentnummer>
+      <datum>2021-02-10</datum>
+      <verteildatum>2021-02-15</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Kleine Anfrage</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN</urheber>
+    </fundstelle>
+    <autoren_anzeige>
+      <id>1191</id>
+      <titel>Dr. Konstantin von Notz, MdB, B&#220;NDNIS 90/DIE GR&#220;NEN</titel>
+      <autor_titel>Konstantin von Notz</autor_titel>
+    </autoren_anzeige>
+    <autoren_anzeige>
+      <id>1081</id>
+      <titel>Tabea R&#246;&#223;ner, MdB, B&#220;NDNIS 90/DIE GR&#220;NEN</titel>
+      <autor_titel>Tabea R&#246;&#223;ner</autor_titel>
+    </autoren_anzeige>
+    <text>[Kleine Anfrage
+der Abgeordneten Dr. Konstantin von Notz, Tabea R&#246;&#223;ner, Dr. Irene Mihalic, 
+Margit Stumpp, Dr. Ingrid Nestle, Dieter Janecek, Luise Amtsberg, Canan 
+Bayram, Britta Ha&#223;elmann, Katja Keul, Monika Lazar, Filiz Polat, Dr. Manuela 
+Rottmann, Wolfgang Wetzel und der Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN
+Der IT-Angriff auf &#8222;SolarWinds&#8220; und dessen Auswirkungen
+Mitte Dezember letzten Jahres wurde bekannt, dass ein IT-Angriff auf weite 
+Teile der digitalen Infrastruktur und die Netzwerksoftware der Orion-Reihe des 
+US-amerikanischen Netzwerkherstellers SolarWinds, der im Bereich Netzwerk-
+Management-Software als einer der weltweit gr&#246;&#223;ten Anbieter gilt, stattfand. 
+Kompromittiert wurde dieser vermutlich durch als Update f&#252;r die SolarWinds-
+Software Orion getarnte Malware. Der genaue Vorgang, die Intention und
+Zielsetzung sowie die Identit&#228;t der Angreifenden sind bis heute nicht hinreichend 
+bekannt bzw. unbekannt. Gleiches gilt f&#252;r die konkrete Anzahl der betroffenen 
+Unternehmen, Beh&#246;rden oder Privatpersonen und f&#252;r das genaue Ausma&#223; des 
+Schadens. Auch bleibt die Frage weiterhin offen, ob es sich bei dem Solar-
+Winds-Angriff um einen gezielten, m&#246;glicherweise staatlicherseits in Auftrag 
+gegebenen Spionageangriff handelt. Wie bei beinahe allen IT-Angriffen
+gestaltet sich die Attribution, also die genaue Zuordnung der Angreifer, auch hier 
+schwierig. Gleichzeitig wird &#246;ffentlich bereits &#252;ber eine Verbindung der
+Angreifenden nach Russland spekuliert und auf Indizien, die hierauf hindeuten 
+k&#246;nnten, verwiesen (vgl. https://www.spiegel.de/netzwelt/web/solarwinds-hac
+k-spur-zeigt-nach-russland-a-ab1acfa8-bd33-4ac0-a8d4-06e265141fb0).
+Medienberichten zufolge soll es sich bei dem SolarWinds-Angriff um einen 
+langfristig geplanten Angriff handeln, der gezielt breit gestreut wurde, um eine 
+klare Anvisierung fester Ziele zu vernebeln. Die erste Manipulation einer 
+Orion-Datei, die diese zun&#228;chst digital aufblasen sollte, soll bereits im
+November 2019 durchgef&#252;hrt worden sein. Sp&#228;ter, vermutlich erst im M&#228;rz 2020,
+wurde der so erzeugte erweiterte Raum mit Malware gef&#252;llt. Dieses Vorgehen
+erlaubte wom&#246;glich, dass auch moderne Abwehrsysteme, die auf das Anwachsen 
+bekannter Dateien reagieren, zun&#228;chst nichts Sch&#228;dliches feststellen konnten 
+und sp&#228;ter, als die Hintert&#252;r bereits integriert war, diese nicht als auff&#228;llig oder 
+sch&#228;dlich identifizierten, da die neue Dateigr&#246;&#223;e bereits adaptiert wurde.
+Hintert&#252;ren, bewusste Sicherheitsl&#252;cken und Bewegungen der Angreifenden in den 
+Netzwerken blieben so &#252;ber einen enorm langen Zeitraum unbemerkt. Sp&#228;ter 
+wurden im System legitim erscheinende Generalschl&#252;ssel f&#252;r diverse Zug&#228;nge 
+angelegt und verwendet (vgl. https://www.rnd.de/politik/us-ministerien-gehack
+t-offenbar-cyberangriffe-gegen-finanz-und-handelsministerium-der-usa-moska
+u-unter-verdacht-D6ZNVO7R75FB7HFDWULOJR4N74.html).
+Das auf diese Weise erzeugte Ausma&#223; des Angriffs wird &#8211; soweit es bislang
+bekannt ist &#8211; vielfach als sehr weitreichend und die Folgen werden als gravierend 
+Deutscher Bundestag Drucksache 19/26560
+19. Wahlperiode 10.02.2021
+beschrieben. Fachleute sprechen mit Blick auf das hochprofessionelle
+Vorgehen, die hierf&#252;r notwendige technische Expertise und das Ausma&#223; des Angriffs 
+&#8222;vom bedeutendsten, gef&#228;hrlichsten Hack des Jahrhunderts&#8220; (vgl. https://ww
+w.deutschlandfunk.de/it-sicherheit-solarwind-attacke-betrifft-auch-deutsche.68
+4.de.html?dram:article_id=490528).
+SolarWinds hatte weltweit rund 300 000 Kundinnen und Kunden und auch in 
+Deutschland ist die Software im &#246;ffentlichen und privaten Sektor sehr weit
+verbreitet. (vgl. https://edition.cnn.com/2020/12/14/politics/us-agencies-hack-sola
+r-wind-russia/index.html) Neben etlichen gro&#223;en deutschen Unternehmen, wie 
+Siemens, nutzen auch zahlreiche Wasserwerke, Pharmaunternehmen oder
+Telekommunikationsunternehmen sowie Landes- und Bundesbeh&#246;rden die Solar-
+Winds-Netzwerk-Management-Software.
+Insbesondere seit Beginn der Corona-Pandemie warnen die
+Sicherheitsbeh&#246;rden verst&#228;rkt vor Angriffen auf IT-Systeme Kritischer Infrastrukturen
+(KRITIS), wie z. B. Krankenh&#228;user, Energieversorger oder (K&#252;hlketten der) 
+Impfstoffhersteller (vgl. Kleine Anfrage der Fraktion B&#220;NDNIS 90/DIE 
+GR&#220;NEN &#8222;Aktuelle Entwicklungen in der Organisierten Kriminalit&#228;t im Zuge 
+der COVID-19-Pandemie&#8220; auf Bundestagsdrucksache 19/19708). Das
+Bundesamt f&#252;r Sicherheit in der Informationstechnik (BSI) warnt vor der hohen
+Vulnerabilit&#228;t &#246;ffentlicher Einrichtungen gegen&#252;ber entsprechenden IT-Angriffen 
+(vgl. https://www.bsi.bund.de/DE/Presse/Pressemitteilungen/Presse2020/Cybe
+r-Kriminell_02042020.html). Die Auswirkungen derartiger Angriffe k&#246;nnen in 
+Krisenzeiten insofern besonders verheerend wirken, als dass etwa
+Verwaltungseinrichtungen oder Kliniken oftmals ohnehin bereits an ihren
+Kapazit&#228;tsgrenzen arbeiten, wie beispielsweise der Angriff vom 10. September 2020 auf das 
+D&#252;sseldorfer Uniklinikum gezeigt hat (vgl. https://www.faz.net/aktuell/feuillet
+on/toedliche-folgen-hackerangriff-auf-universitaetsklinik-duesseldorf-1696939
+0.html).
+Zum Kundenstamm von SolarWinds z&#228;hlten auch zahlreiche Regierungs- und 
+Nichtregierungsorganisationen sowie eine gro&#223;e Anzahl deutscher Ministerien. 
+Die Antwort auf die Frage, welche und inwieweit diese betroffen sind, bleibt 
+die Bunderegierung nach Ansicht der fragestellenden Fraktion bislang
+weitgehend schuldig. Nach bisherigen Sch&#228;tzungen haben sich die Angreifenden
+Zugangsm&#246;glichkeiten bei weltweit mehr als 18 000 Kunden von SolarWinds
+verschafft (vgl. https://www.cisa.gov/news/2021/01/05/joint-statement-federal-bur
+eau-investigation-fbi-cybersecurity-and-infrastructure), wie viele hiervon bis 
+heute tats&#228;chlich ausgenutzt wurden, bleibt bislang offen.
+Deutlich wurde nach Ansicht der fragestellenden Fraktion erneut, dass die
+Sicherheit digitaler Infrastrukturen und die staatlichen Bem&#252;hungen, diese
+angemessen zu sch&#252;tzen, trotz jahrelanger Diskussionen um die Bedeutung dieses 
+zentralen sicherheitspolitischen Themas weiterhin unzureichend sind, um
+bestehenden und k&#252;nftigen Risiken angemessen zu begegnen. Das zentrale, seit
+Jahren &#252;berf&#228;llige Gesetzesvorhaben zum Schutz digitaler Infrastrukturen, das
+sogenannte IT-Sicherheitsgesetz 2.0, ist bis heute nicht verabschiedet. Dies stellt 
+nach Ansicht der fragestellenden Fraktion ein schweres sicherheitspolitisches 
+Vers&#228;umnis dar.
+Eine von der fragenstellenden Fraktion und anderen Akteuren seit Jahren
+geforderte 180-Grad-Kehrtwende im Bereich der IT-Sicherheitspolitik und die
+Umsetzung eines ganzheitlichen, proaktiven Ansatzes zur effektiven Erh&#246;hung der 
+IT-Sicherheit bleiben als Antwort auf systemische Risiken &#252;berf&#228;llig. Auch vor 
+dem Hintergrund der anstehenden parlamentarischen Beratungen &#252;ber das &#8222;IT-
+Sicherheitsgesetz 2.0&#8220; muss die Bundesregierung schnellstm&#246;glich aufkl&#228;ren, 
+welche Erkenntnisse ihr &#252;ber den SolarWinds-Angriff vorliegen und welche 
+Konsequenzen sie daraus zieht. Der Angriff muss ihrerseits zum Anlass
+genommen werden, &#252;berf&#228;llige Kurskorrekturen bez&#252;glich ihrer bisherigen IT-
+Sicherheitspolitik anzugehen und tats&#228;chlich zielf&#252;hrende und effektive
+Ma&#223;nahmen zur Verringerung der Vulnerabilit&#228;t und zur Erh&#246;hung der IT-Sicherheit 
+umzusetzen.
+Wir fragen die Bundesregierung:
+&#8199;1. Wann konkret, von wem, und wie haben die Bundesregierung bzw. das
+zust&#228;ndige Bundesministerium des Innern, f&#252;r Bau und Heimat und/oder 
+nachgeordnete Beh&#246;rden von dem Angriff auf SolarWinds und/oder
+Nutzerinnen und Nutzer der Netzwerk-Management-Software erstmalig
+Kenntnis erlangt?
+&#8199;2. Wann wurden diese Informationen an wen weitergeleitet?
+&#8199;3. Welche Ma&#223;nahmen wurden daraufhin konkret veranlasst, und welche
+Beh&#246;rde und Stelle innerhalb dieser Beh&#246;rde trug daf&#252;r jeweils die
+Verantwortung?
+&#8199;4. Welche Erkenntnisse liegen der Bunderegierung dar&#252;ber vor, wo und auf 
+welche Art und Weise die Zugriffe erfolgt sind?
+&#8199;5. Wie viele verschiedene Hintert&#252;ren sowie bewusste Sicherheitsl&#252;cken sind 
+der Bunderegierung im Zusammenhang mit dem SolarWinds-Angriff
+bislang bekannt, und wie viele vermutet sie?
+&#8199;6. Welche weiteren Sicherheitsl&#252;cken sind der Bunderegierung im
+Zusammenhang mit dem SolarWinds-Angriff &#252;ber das Sunburst-Schadprogramm 
+in der Software &#8222;Solarwinds Orion&#8220; hinaus bekannt?
+&#8199;7. Welche aktuellen Erkenntnisse liegen der Bunderegierung &#252;ber die
+Supernova-Schadsoftware vor, und wurden mittels dieser nach Kenntnis der 
+Bundesregierung unberechtigte Zugriffe auf Systeme deutscher
+Unternehmen und/oder der Landes- und Bundesministerien oder Landes- und
+Bundesbeh&#246;rden vorgenommen (wenn ja, bitte m&#246;glichst genau
+aufschl&#252;sseln)?
+&#8199;8. Erfolgte eine konkrete Warnung der bislang bekannten sowie der
+m&#246;glicherweise Betroffenen?
+Wenn ja, inwiefern, wann, und durch wen?
+Wenn nein, warum nicht?
+&#8199;9. Wie viele deutsche Unternehmen und private Einrichtungen sind dem
+Angriff durch das Aufspielen des Updates nach Kenntnis der
+Bundesregierung zumindest mittelbar ausgesetzt bzw. ausgesetzt gewesen?
+10. Wie viele der in Frage 9 genannten Betroffenen wurden durch gezielte, 
+weitere hiermit in Zusammenhang stehende Angriffe erfolgreich attackiert, 
+und welcher Schaden entstand hierbei nach Kenntnis oder Sch&#228;tzung der 
+Bundesregierung?
+11. Welche Unternehmen oder Einrichtungen im Bereich der KRITIS
+(Wasserwerke, Krankenh&#228;user etc., insbesondere auch der Energiewirtschaft) sind 
+nach Kenntnis der Bundesregierung vom SolarWinds-Angriff betroffen 
+(bitte genau aufschl&#252;sseln, m&#246;glichst auch zu Sch&#228;den)?
+12. Inwiefern ist nach Kenntnis der Bundesregierung der SolarWinds-Angriff 
+dazu geeignet, den Betrieb von KRITIS so zu st&#246;ren, dass die
+Versorgungsicherheit (z. B. bei der Versorgung mit Strom oder Trinkwasser)
+gef&#228;hrdet gewesen ist?
+13. Welche Unternehmen aus dem Bereich Telematik, Pharma- und
+Gesundheitsunternehmen und Pharma- und Gesundheitsbeh&#246;rden sind nach 
+Kenntnis der Bundesregierung vom SolarWinds-Angriff betroffen (bitte 
+genau aufschl&#252;sseln, m&#246;glichst auch zu Sch&#228;den)?
+14. Wie viele der in Frage 11 erfragten Unternehmen fielen nach Kenntnis der 
+Bundesregierung unter die bisherigen gesetzlichen Regelungen und
+Verordnungen des &#8222;IT-Sicherheitsgesetzes 1.0&#8220;?
+15. Wie viele der in Frage 11 erfragten Unternehmen w&#252;rden nach Kenntnis 
+der Bundesregierung unter die bisherigen gesetzlichen Regelungen und 
+Verordnungen des &#8222;IT-Sicherheitsgesetzes 2.0&#8220; fallen, wenn das Gesetz in 
+der Version des Kabinettsbeschlusses verabschiedet werden w&#252;rde?
+16. Sieht die Bundesregierung als Reaktion auf den SolarWinds-Angriff die 
+Notwendigkeit einer nochmaligen &#220;berarbeitung des Gesetzentwurfs
+beispielsweise bez&#252;glich der unter die Verordnung fallenden Anbieter oder 
+hinsichtlich anderer Punkte, und wenn ja, welcher konkret?
+17. In welchem Umfang wurden nach aktueller Kenntnis der Bundesregierung 
+durch den oben beschriebenen Angriff bundeseigene Systeme infiltriert, 
+und inwieweit wurden, wenn ja, durch den Angriff Datens&#228;tze abgegriffen 
+oder Informationen hinterlassen (bitte m&#246;glichst genau nach betroffener 
+Beh&#246;rde und Art des Schadens aufschl&#252;sseln)?
+18. Hat die Bundesregierung (&#252;ber die Antworten der Bundesregierung auf die 
+Schriftliche Frage 24 der Abgeordneten Canan Bayram, auf
+Bundestagsdrucksache 19/25571 sowie auf die Schriftliche Frage 5 Abgeordneten 
+Manuel H&#246;ferlin auf Bundestagsdrucksache 19/25731 hinaus) aktuellere 
+und vollumf&#228;ngliche Informationen dar&#252;ber, welche Landes- oder
+Bundesbeh&#246;rden, Organisationen oder sonstigen &#246;ffentlichen Einrichtungen des 
+Bundes (Bundesministerien, Forschungseinrichtungen, KRITIS) oder
+&#246;ffentlich-rechtlichen K&#246;rperschaften eine manipulierte Version der Solar-
+Winds-Software &#8222;Orion&#8220; (auch &#252;ber das in der oben genannten Antwort 
+erw&#228;hnte Schadprogramm Sunburst hinaus) oder ein Tool der gehackten 
+IT-Sicherheitsfirma FireEye nutzten oder nutzen, und wenn ja, welche
+(bitte nach Einrichtung, konkret verwendeter und betroffener Software, Datum 
+des Updates und Datum der Kenntnisnahme des Angriffs aufschl&#252;sseln, 
+sowie, wenn bekannt, ob und welcher Datenabgriff oder Schadensfall &#252;ber 
+welchen Zeitraum stattfand)?
+19. Welche dieser Betroffenen haben nach Kenntnis der Bundesregierung
+bereits Strafanzeige gestellt?
+20. Wird eine &#220;berpr&#252;fung aller eingesetzten SolarWinds-Software in allen 
+Bundesbeh&#246;rden, die solche nutzten oder nutzen auf m&#246;gliche
+Angriffsspuren und versteckte Schadsoftware hin analysiert, und wenn nein,
+warum nicht?
+21. Welche Kenntnisse hat die Bunderegierung dazu, ob die Angreifenden an 
+deutsche sicherheitsrelevante und/oder vertrauliche bzw. unter Verschluss 
+stehende Daten, Dokumente oder andere Informationen gelangten, und 
+wenn ja, welche, und in welchem Umfang?
+22. Gibt es Bundesbeh&#246;rden, und wenn ja, welche, die die SolarWinds-
+Software trotz bislang nicht abgestellter Sicherheitsrisiken weiterhin
+verwenden, und wenn ja, warum, und wenn vorhanden, mit welchen zus&#228;tzlich 
+begleitenden Sicherheitsma&#223;nahmen, und welche Empfehlungen gibt das 
+BSI hierzu?
+23. Zu welchem Zeitpunkt nach Kenntniserlangung &#252;ber die Sicherheitsrisiken 
+haben welche Bundesbeh&#246;rden die SolarWinds-Software aus der
+Verwendung genommen (bitte einzeln auflisten)?
+24. Welche Schl&#252;sse zieht die Bundesregierung mit Blick auf den Angriff 
+grunds&#228;tzlich f&#252;r den k&#252;nftigen Einsatz von SolarWinds-Software oder
+anderer zugekaufter Software, auch vor dem Hintergrund ihrer &#220;berlegungen 
+und Pl&#228;ne, die das Ziel einer h&#246;heren digitalen Souver&#228;nit&#228;t verfolgen?
+25. Inwiefern waren der Bundesregierung die verschiedentlichen Warnungen 
+von Securityberaterinnen bzw. Securityberatern bez&#252;glich des Einsatzes 
+von SolarWinds-Software bekannt (https://www.golem.de/news/sicherheit
+sluecke-solarwinds-veroeffentlichte-passwort-auf-github-2012-15292
+1.html), und wurden die Sicherheitsstandards von SolarWinds vor und 
+w&#228;hrend des Einsatzes der Software in deutschen Bundesbeh&#246;rden
+&#252;berpr&#252;ft?
+Wenn ja, wann, durch wen, und mit welchem Ergebnis?
+Falls nein, warum nicht?
+26. Erkennt die Bundesregierung, auch mit Blick auf den aktuellen Fall,
+Probleme bei der Herstellerhaftung?
+Wenn ja, wie will sie diesen konkret gesetzgeberisch begegnen, und
+welche Ma&#223;nahmen enth&#228;lt das &#8222;IT-Sicherheitsgesetz 2.0&#8220; (ITSiG2.0) hierzu?
+Wenn nein, warum nicht?
+27. Welche Gegenma&#223;nahmen unternahmen und unternehmen
+Sicherheitsbeh&#246;rden des Bundes seit dem Zeitpunkt der ersten Kenntnisnahme der
+Vorf&#228;lle, auch damit keine weiteren Sch&#228;den eintreten?
+28. Welche Kenntnis hat die Bunderegierung dar&#252;ber, inwieweit die Solar-
+Winds-Systeme vom Netz genommen wurden und daraufhin untersucht 
+wurden oder werden, wie viele und welche konkreten bewussten
+Sicherheitsl&#252;cken &#8211; &#252;ber die beiden gefundenen hinaus &#8211; es gibt, und zu welchen 
+Ergebnissen die &#220;berpr&#252;fungen ggf. kamen?
+29. Werden nach Kenntnis der Bundesregierung bez&#252;glich des Angriffs aktuell 
+Ermittlungen seitens der Strafverfolgungsbeh&#246;rden eingeleitet und/oder 
+durchgef&#252;hrt, und wenn ja, wie viele Strafanzeigen sind bereits bei denen 
+in Deutschland von Unternehmen oder Beh&#246;rden eingegangen?
+30. Liegen der Bundesregierung bzw. den zust&#228;ndigen Sicherheitsbeh&#246;rden 
+nach gegenw&#228;rtigem Stand der Ermittlungen Erkenntnisse zu m&#246;glichen 
+T&#228;terinnen und T&#228;tern oder Tatverd&#228;chtigen im Zusammenhang mit dem 
+Angriff vor, und wenn ja, welche?
+31. Liegen der Bundesregierung bzw. den zust&#228;ndigen Sicherheitsbeh&#246;rden 
+nach gegenw&#228;rtigem Stand der Ermittlungen Erkenntnisse zur Intention 
+und Zielsetzung der Angreifenden vor, und wenn ja, welche konkret?
+32. Welche Kenntnisse hat die Bundesregierung &#252;ber Anzeichen dar&#252;ber, dass 
+es sich um einen Fall von Spionage handeln k&#246;nnte, und welche
+Kenntnisse hat sie &#252;ber m&#246;gliche Verbindungen des Angriffs zur russischen
+Hackergruppe &#8222;Turla&#8220; (https://www.spiegel.de/netzwelt/web/solarwinds-hac
+k-spur-zeigt-nach-russland-a-ab1acfa8-bd33-4ac0-a8d4-06e265141fb0), 
+zu Cosy Bear (https://www.bbc.com/news/technology-55321643), der 
+Gruppe ShadowBrokers (https://www.computerbild.de/artikel/cb-News-Si
+cherheit-Windows-Hacker-Solarwinds-Microsoft-Cisco-29641689.html) 
+oder anderen?
+33. Inwiefern stehen die deutschen Nachrichtendienste im Austausch mit den 
+verschiedenen US-Beh&#246;rden, die eine Attribution des Angriffs
+vorgenommen haben (https://www.cisa.gov/news/2021/01/05/joint-statement-federa
+l-bureau-investigation-fbi-cybersecurity-and-infrastructure)?
+34. Welche Kenntnisse hat die Bunderegierung bez&#252;glich des verschafften
+Zugangs der Angreifenden zum Quellcode u. a. von Microsoft, Cisco, Fire-
+Eye und anderen (https://www.computerbild.de/artikel/cb-News-Sicherhei
+t-Windows-Hacker-Solarwinds-Microsoft-Cisco-29641689.html), und 
+welche Ma&#223;nahmen werden nach ihrer Kenntnis von deutschen und/oder 
+Sicherheitsbeh&#246;rden anderer L&#228;nder oder den betroffenen Unternehmen
+ergriffen, um zu verhindern, dass &#252;ber diese Kenntnisse weitere Angriffe 
+ausgef&#252;hrt werden k&#246;nnen?
+35. Welche Kenntnisse hat die Bunderegierung zu m&#246;glichen &#196;hnlichkeiten 
+im Code der Sunburst-Backdoor mit denen der im .NET Framework
+geschriebenen Backdoor Kazuar, wie z. B. dem UID-
+Generierungsalgorithmus, Sleep-Algorithmus oder der umfassenden Verwendung des FNV1a-
+Hashs, die Sicherheitsforscher von Kaspersky bei einer Analyse gefunden 
+haben sollen, die auf eine Verbindung zwischen beiden hindeuten (https://
+www.spiegel.de/netzwelt/web/solarwinds-hack-spur-zeigt-nach-
+russlanda-ab1acfa8-bd33-4ac0-a8d4-06e265141fb0)?
+36. Welche Schlussfolgerungen zieht die Bundesregierung aus der oben
+erw&#228;hnten Analyse von Kaspersky (https://www.kaspersky.de/about/press-re
+leases/2021_solarwinds-hack-kaspersky-findet-code-aehnlichkeiten-zwisc
+hen-sunburst-und-kazuar-backdoor)?
+37. Verwendete oder verwendet der Bundesnachrichtendienst (BND) und/oder 
+das Bundesamt f&#252;r Verfassungsschutz (BfV) und/oder der Milit&#228;rische
+Abschirmdienst (MAD) Software von SolarWinds?
+38. Kann die Bunderegierung ausschlie&#223;en, dass der BND und/oder das BfV 
+und/oder der MAD Opfer des IT-Angriffs wurden und Daten abgeflossen 
+sind, und wenn nein, warum nicht?
+39. Wie bewertet die Bundesregierung die aufgetretenen Sicherheitsl&#252;cken im 
+Hinblick auf die einschl&#228;gigen Sicherheitsstandards und die damit
+verbundenen Risiken f&#252;r die Allgemeinheit?
+40. F&#252;hrte der Angriff zu einer Aufnahme des Vorgangs in die
+nachrichtendienstliche Lage des Bundeskanzleramtes, und wenn nein, warum nicht?
+41. Welche inl&#228;ndischen und ausl&#228;ndischen Nachrichtendienste wurden nach 
+Auffinden der Datenbank benachrichtigt, und soweit keine
+Benachrichtigungen erfolgten, weshalb nicht?
+42. Bis wann will die Bundesregierung eine umfassende Schadensanalyse
+vorlegen, auch damit Vorsorgema&#223;nahmen bez&#252;glich der durch den Angriff 
+entstandenen, zuk&#252;nftigen IT-Sicherheitsrisiken getroffen und
+entsprechende Warnungen ausgesprochen werden k&#246;nnen?
+43. Welche Konsequenzen zieht die Bundesregierung aus dem Angriff
+hinsichtlich bestehender Sicherheitsstandards, insbesondere der betroffenen 
+Beh&#246;rden und Einrichtungen in ihrem Verantwortungsbereich, vor allem 
+mit Blick auf die Auswahl von Netzwerksicherheitsdienstleistern und der 
+&#220;berpr&#252;fung der verwendeten Software?
+44. Teilt die Bundesregierung die Einsch&#228;tzung der fragestellenden Fraktion, 
+dass es sich hier um einen Angriff einer g&#228;nzlich neuen Dimension
+handelt, und wenn nein, warum nicht?
+45. Erkennt die Bundesregierung seit Beginn der Pandemie einen Anstieg von 
+versuchten oder erfolgten IT-Angriffen, und wie bewertet sie die aktuell 
+bestehende IT-Sicherheitsinfrastruktur mit Blick auf die aktuellen
+Entwicklungen?
+46. Wenn ja zu Frage 45, welche Schl&#252;sse zieht die Bunderegierung mit Blick 
+auf die vermehrt aufgetretenen Angriffe der vergangenen Wochen und
+Monate auf Kritische Infrastruktur wie Krankenh&#228;user, Lieferketten,
+K&#252;hlketten und Verteilung der Impfstoffe, und welche Schl&#252;sse zieht sie daraus f&#252;r 
+die Reform des ITSiG2.0?
+47. F&#252;r wie wahrscheinlich h&#228;lt die Bundesregierung den Eintritt eines IT-
+Lockdowns, und was tut sie dagegen, um einen solchen zu verhindern?
+48. Hat die Bundesregierung Pl&#228;ne, die Systeme m&#246;glicherweise betroffener 
+Beh&#246;rden und/oder Unternehmen (mit bzw. ohne Bundesbeteiligung)
+testen zu lassen, um ein Gesamtlagebild zu bekommen, wenn ja wie, und 
+durch wen, wenn nein, warum nicht?
+49. Hat die Bunderegierung ggf. vor, eine Risikoanalyse zur Bedingung f&#252;r die 
+Trennung vom Netz, Installation neuer Ger&#228;te und Software und
+&#220;berpr&#252;fung aller gespeicherten Daten erarbeiten zu lassen, und wenn nein, warum 
+nicht?
+50. Welche Ma&#223;nahmen plant die Bunderegierung, um sichere Software zu 
+f&#246;rdern?
+51. Sieht die Bundesregierung eine Notwendigkeit f&#252;r bessere
+Sicherheits&#252;berpr&#252;fungen sowie klare gesetzliche Vorgaben und Zertifizierungen 
+beim Erstellen und Verbauen von Software, und wenn ja, mit welchen 
+Ma&#223;nahmen will sie dem nachkommen, und wenn nein, warum nicht?
+52. Welche Schl&#252;sse zieht die Bundesregierung daraus, dass das Update in 
+diesem Fall signiert ausgeliefert wurde, auch hinsichtlich der bestehenden 
+Signaturinfrastruktur und ggf. zus&#228;tzlicher, vorzunehmender
+Sicherheitsma&#223;nahmen?
+53. Wie bewertet es die Bundesregierung, dass der Angriff &#252;ber Monate lang 
+nicht aufgefallen war, und welche Schl&#252;sse zieht sie hieraus f&#252;r
+notwendige Ma&#223;nahmen, um eine solche l&#228;nger w&#228;hrende Unkenntnis k&#252;nftig zu 
+verhindern?
+54. Welche Konsequenzen zieht die Bundesregierung vor dem Hintergrund 
+des SolarWinds-Angriffs bez&#252;glich ihrer bisherigen IT-Sicherheitspolitik, 
+insbesondere was den Handel mit Sicherheitsl&#252;cken, die Forderungen nach 
+sogenannten Hackbacks und die Ausweitung des Einsatzes von
+sogenannten Staatstrojanern anbelangt (vgl. ebd.)?
+55. Hat die Bundesregierung vor, die IT-Sicherheit durch mehr Transparenz 
+und Standardisierung bei Z&#228;hlweisen und Klassifizierungen von IT-
+Angriffen zu erh&#246;hen, wenn ja, mit welchen Ma&#223;nahmen, und wenn nein,
+warum nicht?
+56. Welche Unternehmen wurden aus welchem Grund vom BSI aufgrund des 
+SolarWinds-Angriffs kontaktiert, und welche haben sich mit welcher
+Anzeige bis heute zur&#252;ckgemeldet?
+57. Verf&#252;gt das BSI &#252;ber die ausreichenden Zust&#228;ndigkeiten, Kompetenzen 
+und Befugnisse, um in vergleichbaren F&#228;llen der Gefahrenabwehr
+sch&#252;tzend im Sinne der gef&#228;hrdeten oder betroffenen B&#252;rgerinnen und B&#252;rger 
+t&#228;tig zu werden, und wenn ja, auf welche Rechtsnormen st&#252;tzt die
+Bundesregierung diese Auffassung?
+58. Soweit die Bundesregierung Regelungsbedarf f&#252;r das BSI im Hinblick auf 
+F&#228;lle der Gefahrenabwehr sieht, wann wird sie welche Vorschl&#228;ge &#8211; &#252;ber 
+die geplanten Regelungen im ITSiG2.0 hinaus &#8211; hierzu vorlegen, und 
+wenn nein, warum nicht?
+59. Inwiefern spielte oder spielt im Fall des SolarWinds-Angriffs das
+Cyberabwehrzentrum (CAZ) eine Rolle?
+60. Erkennt die Bundesregierung eine Notwendigkeit mit Blick auf das neue 
+IT-Sicherheitsgesetz eine gleichzeitige Harmonisierung anderer
+Rechtsnormen wie im Zivilrecht einzuf&#252;hren und so f&#252;r einen gr&#246;&#223;eren
+Handlungsspielraum zu sorgen, und wenn nein, warum nicht?
+61. Erkennt die Bundesregierung eine Notwendigkeit f&#252;r besonders
+gefahrgeneigte Technologien, &#252;ber bestehende Verfahren hinaus, Ma&#223;nahmen und 
+Regelungen zu treffen, um diese zu sichern (wenn ja, wie, und wenn nein, 
+warum nicht)?
+Berlin, den 26. Januar 2021
+Katrin G&#246;ring-Eckardt, Dr. Anton Hofreiter und Fraktion
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>Der IT-Angriff auf "SolarWinds" und dessen Auswirkungen</titel>
+    <datum>2021-02-10</datum>
+  </document>
+  

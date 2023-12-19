@@ -1,0 +1,1988 @@
+<document>
+    <id>235147</id>
+    <drucksachetyp>Unterrichtung</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>2</vorgangsbezug_anzahl>
+    <dokumentnummer>19/14140</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>a81890c6cf493a7bd7c4cbd70766cf95</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>254689</id>
+      <titel>Erster Bericht der Bundesregierung &#252;ber die Fortschritte bei der Bereitstellung von Daten 
+(1. Open-Data-Fortschrittsbericht)</titel>
+      <vorgangstyp>Bericht, Gutachten, Programm</vorgangstyp>
+    </vorgangsbezug>
+    <vorgangsbezug>
+      <id>285979</id>
+      <titel>Erster Bericht der Bundesregierung &#252;ber die Fortschritte bei der Bereitstellung von Daten 
+(1. Open-Data-Fortschrittsbericht)</titel>
+      <vorgangstyp>Bericht, Gutachten, Programm</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium des Innern, f&#252;r Bau und Heimat</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/141/1914140.pdf</pdf_url>
+      <id>235147</id>
+      <dokumentnummer>19/14140</dokumentnummer>
+      <datum>2019-10-10</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Unterrichtung</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Deutscher Bundestag Drucksache 19/14140 
+19. Wahlperiode 10.10.2019 
+Unterrichtung
+durch die Bundesregierung
+Erster Bericht der Bundesregierung &#252;ber die Fortschritte 
+bei der Bereitstellung von Daten
+(1. Open-Data-Fortschrittsbericht)
+Inhaltsverzeichnis
+Seite
+1 Vorwort............................................................................................ 3
+2 Einleitung......................................................................................... 4
+2.1 Berichtspflicht gem&#228;&#223; &#167; 12a Absatz 10 EGovG ............................... 4
+2.2 Koalitionsvertrag 19. Legislaturperiode............................................ 4
+3 Rahmenbedingungen ...................................................................... 5
+3.1 Gesetzliche Ziele und Gegenstand des Berichts ............................... 5
+3.2 Gesetzliche Regelungen.................................................................... 5
+4 Ausgangssituation: aktueller Stand und Fortschritte
+seit Inkrafttreten des Gesetzes ....................................................... 8
+4.1 Austausch auf Ressortebene.............................................................. 8
+4.2 Zentrale Stelle / Kompetenzzentrum Open Data............................... 8
+4.3 Nationaler Aktionsplan Open Government Partnership (OGP) ........ 9
+4.4 Internationaler Austausch ................................................................. 9
+4.5 Technische Infrastruktur ................................................................... 10
+4.5.1 Das nationale Metadatenportal GovData .......................................... 10
+4.5.2 IT-Unterst&#252;tzung............................................................................... 10
+5 Umfrage zum Stand der Umsetzung in den Beh&#246;rden ................ 12
+5.1 Vorgehen........................................................................................... 12
+5.2 Detaillierte Auswertung nach Teilbereichen..................................... 12
+5.2.1 Allgemeines (Umfrage Teilbereich A).............................................. 12
+5.2.2 Zentrale Stelle (Umfrage Teilbereich B)........................................... 17
+Zugeleitet mit Schreiben des Bundesministeriums des Innern, f&#252;r Bau und Heimat vom 8. Oktober 2019 gem&#228;&#223;
+&#167; 12a Absatz 10 des E-Government-Gesetzes.
+Seite
+5.2.3 Ver&#246;ffentlichung von Daten und begleitende Ma&#223;nahmen 
+(Umfrage Teilbereich C)................................................................... 20
+5.2.4 Erf&#252;llungsaufwand (Umfrage Teilbereich D) ................................... 25
+5.2.5 Hebel und Hemmnisse der Datenbereitstellung
+(Umfrage Teilbereich E) ................................................................... 27
+6 Wirkungen des Gesetzes ................................................................. 29
+6.1 Einsch&#228;tzung zum Erreichungsgrad der gesetzlichen Ziele .............. 29
+6.1.1 Kulturwandel in den Beh&#246;rden ......................................................... 29
+6.1.2 Zentrale Stelle / Kompetenzzentrum Open Data............................... 30
+6.1.3 Hebel und  Hemmnisse f&#252;r die Datenbereitstellung.......................... 30
+6.2 Einsch&#228;tzung zum Erf&#252;llungsaufwand.............................................. 31
+7 2. Open-Data-Gesetz ...................................................................... 32 
+7.1 Mittelbare Bundesverwaltung ........................................................... 32
+7.2 Forschungsdaten ............................................................................... 33
+7.3 Open-Data-Verantwortliche.............................................................. 33
+8 Weitere Ma&#223;nahmen ...................................................................... 35
+9 Anlagen ............................................................................................ 36
+10 Tabellen- und Abbildungsverzeichnis ........................................... 37
+10.1 Tabellen ............................................................................................ 37
+10.2 Abbildungen...................................................................................... 38
+11 Abk&#252;rzungsverzeichnis .................................................................. 39
+      
+  
+  
+     
+    
+   
+       
+   
+  
+ 
+  
+   
+  
+    
+     
+   
+   
+    
+      
+   
+   
+   
+  
+   
+     
+  
+       
+  
+    
+    
+     
+     
+  
+1
+Vorwort
+Im digitalen Zeitalter wird die Verf&#252;gbarkeit von Daten zunehmend zu einem wichtigen Wirtschaftsfaktor. Die
+Daten werden zu einem Teil einer modernen Infrastruktur. In einem Daten-&#214;kosystem k&#246;nnen Wirtschaft,
+Verwaltung und Zivilgesellschaft gegenseitig von einer guten Datenbasis profitieren.
+Durch die &#246;ffentliche Verwaltung werden zahlreiche Daten erhoben: statistische Daten, Mobilit&#228;ts- und
+Verkehrsdaten, Geodaten &#8211; um nur einige Beispiele zu nennen. Diese Daten sollen nicht nur f&#252;r die Arbeit der 
+Verwaltung genutzt werden, sondern allen zur Verf&#252;gung stehen. Der offene und strukturierte Zugang zu frei
+verf&#252;gbaren Datenbest&#228;nden der &#246;ffentlichen Hand ist ein wichtiger Beitrag zur Weiterentwicklung einer
+Wissensgesellschaft im digitalen Zeitalter.
+B&#252;rgerinnen und B&#252;rger, Unternehmen und zivilgesellschaftliche Akteure k&#246;nnen mit offenen Daten innovative
+Anwendungen zur Erleichterung des Alltags schaffen, neue Gesch&#228;ftsmodelle erschlie&#223;en oder neue
+Bedeutungszusammenh&#228;nge aufzeigen. Die Nutzung und Auswertung der Daten kann auch das Vertrauen zwischen 
+Politik und Zivilgesellschaft, zwischen Verwaltung, Wirtschaft und Medien st&#228;rken. Nur wer die Fakten kennt,
+kann passende Ideen und L&#246;sungen finden. Sie sind ein wichtiger Baustein daf&#252;r, Entscheidungsprozesse in
+Staat und Verwaltung transparent zu machen und eine Beteiligung gut informierter B&#252;rgerinnen und B&#252;rger an
+Entscheidungsprozessen zu erm&#246;glichen. Auch die &#246;ffentliche Verwaltung kann von der &#214;ffnung der Daten
+profitieren, etwa indem Beh&#246;rden die Daten untereinander einfacher finden, und dadurch ihre &#246;ffentlich-
+rechtlichen Aufgaben besser erf&#252;llen k&#246;nnen.
+Das Prinzip der offenen Daten &#8211; &#8222;Open Data&#8220; &#8211; bekommt weltweit eine immer gr&#246;&#223;ere Bedeutung. Die
+Europ&#228;ische Union hat mit der PSI-Richtlinie1 (Public Sector Information Directive) bereits 2003 einen Rahmen
+f&#252;r die Weiterverwendung von Informationen des &#246;ffentlichen Sektors durch Dritte geschaffen. Die diesj&#228;hrige
+Novellierung der Richtlinie als &#8222;Open Data and Public Sector Information Directive&#8220; soll die Verf&#252;gbarkeit und 
+die innovative Nutzung von &#246;ffentlichen und &#246;ffentlich finanzierten Daten verbessern und die Entwicklung
+datenintensiver Technologien, wie K&#252;nstliche Intelligenz vorantreiben.
+Wichtige Weichen f&#252;r die &#214;ffnung der Daten der unmittelbaren Bundesverwaltung hat die erste &#196;nderung
+des E-Government-Gesetzes im Juli 2017 gestellt.
+Die dadurch geschaffene Verpflichtung zur Bereitstellung von Open Data unter Ber&#252;cksichtigung des
+Datenschutzes will die Bundesregierung noch weiter ausbauen. Denn im Hinblick auf die Bedeutung eines freien 
+Zugangs zu Daten f&#252;r das Gemeinwohl und einer auf Freiheit und Wettbewerb beruhenden Wissensgesellschaft 
+und Wirtschaftsordnung muss die Verwaltung selbst eine Vorreiterrolle beim Datenteilen einnehmen.
+Der vorliegende 1. Open-Data-Fortschrittsbericht berichtet &#252;ber den aktuellen Stand der Umsetzung von &#167; 12a
+EGovG seit dessen Inkrafttreten am 13. Juli 2017.
+Richtlinie 2003/98/EG des Europ&#228;ischen Parlaments und des Rates vom 17. November 2003 &#252;ber die Weiterverwendung von
+Informationen des &#246;ffentlichen Sektors.
+1
+2 Einleitung
+Am 12. Juli 2017 wurde das Erste Gesetz zur &#196;nderung des E-Government-Gesetzes durch den Deutschen
+Bundestag beschlossen. Mit der Aufnahme des &#167; 12a in das E-Government-Gesetz (EGovG) werden die
+Beh&#246;rden der unmittelbaren Bundesverwaltung verpflichtet, unbearbeitete Daten, die sie in Erf&#252;llung ihrer
+&#246;ffentlich-rechtlichen Aufgaben erhoben haben oder durch Dritte in ihrem Auftrag haben erheben lassen, zum
+Datenabruf &#252;ber &#246;ffentlich zug&#228;ngliche Netze bereitzustellen. Die Verpflichtung zur erstmaligen Bereitstellung
+offener Daten gilt aufgrund der &#220;bergangsregelung des &#167; 19 Absatz 2 EGovG sp&#228;testens zw&#246;lf Monate nach
+Inkrafttreten des 1. &#8222;Open-Data-Gesetzes&#8220; auf Bundesebene am 13. Juli 2017.
+In Zeiten der Digitalisierung sind offene Daten eine sich kontinuierlich potenzierende Ressource, die vor allem
+durch eine breite und vielf&#228;ltige Nutzung Mehrwerte generiert. Offene Daten beschreiben ein Konzept, bei dem
+diese in unbearbeiteter Form, maschinenlesbar ohne Zugangsbeschr&#228;nkung von jedermann frei verwendet,
+nachgenutzt und verbreitet werden k&#246;nnen, soweit keine Rechte Dritter entgegenstehen. 
+Die Bereitstellung offener Daten erfordert einen Kulturwandel der Beh&#246;rden im Umgang mit ihren Daten. Die 
+Bundesregierung hatte im Rahmen des Nationalen Aktionsplans zur Umsetzung der Open-Data-Charta der G8 
+eine Initiative gestartet, um dem Prinzip der offenen Daten zum Durchbruch zu verhelfen. Eine gesetzlich
+normierte Bereitstellung wurde jedoch als unumg&#228;nglich erachtet, um ein gleicherma&#223;en h&#246;heres
+Datenbereitstellungsniveau bei den Beh&#246;rden der unmittelbaren Bundesverwaltung zu erreichen.
+Durch die Umsetzung der Open-Data-Ziele entstehende Mehrausgaben und Mindereinnahmen sind von den
+Ressorts vollst&#228;ndig und dauerhaft gegenzufinanzieren. Zus&#228;tzliche Stellen sind zu kompensieren.
+2.1 Berichtspflicht gem&#228;&#223; &#167; 12a Absatz 10 EGovG
+Die Bundesregierung ist verpflichtet, dem Deutschen Bundestag alle zwei Jahre &#252;ber die Fortschritte bei der
+Bereitstellung von Daten durch die Beh&#246;rden der unmittelbaren Bundesverwaltung als offene Daten zu
+berichten (&#167; 12a Absatz 10 EGovG). Dieser Verpflichtung kommt die Bundesregierung mit dem vorliegenden Bericht,
+dem 1. Open-Data-Fortschrittsbericht, nach.
+2.2 Koalitionsvertrag f&#252;r die 19. Legislaturperiode
+Im Koalitionsvertrag f&#252;r die 19. Legislaturperiode haben sich die Regierungsparteien dazu verpflichtet, &#8222;die 
+Bereitstellung von Open Data im Rahmen eines zweiten Open-Data-Gesetzes auszuweiten&#8220;2. Aus diesem Grund 
+soll innerhalb des 1. Open-Data-Fortschrittsberichts zu M&#246;glichkeiten der Weiterentwicklung des Gesetzes
+Stellung genommen werden. Insbesondere soll entsprechend Artikel 2 des Ersten Gesetzes zur &#196;nderung des
+E-Government-Gesetzes darauf eingegangen werden, ob
+&#8226; es sich bew&#228;hrt hat, dass gem&#228;&#223; &#167; 12a Absatz 1 des E-Government-Gesetzes nur Beh&#246;rden der
+unmittelbaren Bundesverwaltung Daten zum Datenabruf &#252;ber &#246;ffentlich zug&#228;ngliche Netze bereitstellen, und 
+&#8226; sich die Ausnahme nach &#167; 12a Absatz 2 Nummer 5 des E-Government-Gesetzes bew&#228;hrt hat, dass zu
+Forschungszwecken erhobene Daten nicht offen zum Datenabruf &#252;ber &#246;ffentlich zug&#228;ngliche Netze
+bereitgestellt werden m&#252;ssen. 
+https://www.cdu.de/system/tdf/media/dokumente/koalitionsvertrag_2018.pdf?file=1, letzter Zugriff 02.04.2019.2
+3 Rahmenbedingungen
+&#167; 12a EGovG dient der aktiven Bereitstellung von Daten der Beh&#246;rden der unmittelbaren Bundesverwaltung. 
+&#167; 19 Absatz 2 EGovG regelt, dass die Beh&#246;rden der unmittelbaren Bundesverwaltung zur erstmaligen
+Bereitstellung von Daten sp&#228;testens zw&#246;lf Monate nach dem 13. Juli 2017 verpflichtet sind. Erfordert die
+Bereitstellung der Daten erhebliche technische Anpassungen, verl&#228;ngert sich der Zeitraum auf bis zu zwei Jahre (13. Juli
+2019).
+3.1 Gesetzliche Ziele und Gegenstand des Berichts
+Anlass f&#252;r das erste &#8222;Open-Data-Gesetz&#8220; war die Sorge, dass Deutschland aus den Chancen, die die
+Bereitstellung elektronischer Daten der Beh&#246;rden als offene Daten bietet, keinen hinreichenden Nutzen zieht. Als
+Chancen werden insbesondere mehr Partizipation durch B&#252;rgerinnen und B&#252;rger, ein Image- und Akzeptanzgewinn 
+f&#252;r die Verwaltung durch die verbesserte Nachvollziehbarkeit ihres Handelns, ein Angebot an die
+Zivilgesellschaft sich an politisch-administrativen Entscheidungsprozessen zu beteiligen sowie Impulse f&#252;r neue
+Gesch&#228;ftsmodelle und Innovationen und damit ein volkswirtschaftlicher Nutzen gesehen.
+Um diese Vorteile offener Daten in vollem Umfang nutzen zu k&#246;nnen, bedarf es eines Kulturwandels der
+Beh&#246;rden im Umgang mit den im Rahmen der &#246;ffentlich-rechtlichen Aufgabenerf&#252;llung erlangten Daten hin zu
+mehr &#214;ffentlichkeit und Weiterverwendung durch jedermann.
+Ziel der gesetzlichen Regelung ist es somit auch, diesen Kulturwandel zu bef&#246;rdern, so dass trotz heterogener
+Aufgabengebiete der Beh&#246;rden in absehbarer Zeit ein &#252;berall gleicherma&#223;en h&#246;heres Niveau bei der
+Datenbereitstellung erreicht wird.
+Gegenstand des Berichts ist daher die Frage, welche Fortschritte im Rahmen der Umsetzung des &#167; 12a EGovG
+bereits erzielt wurden, welche Hemmnisse bestehen und inwieweit der gew&#252;nschte und erforderliche
+Kulturwandel in der Verwaltung durch die gesetzliche Regelung bereits erfolgt ist.
+3.2 Gesetzliche Regelungen
+Die Ausgestaltung des &#167; 12a EGovG orientiert sich an international anerkannten Open-Data-Prinzipien, wie sie
+beispielsweise in der Internationalen Open-Data-Charta (IODC) oder in der Open-Data-Charta der G8-Staaten
+beschrieben werden.
+Grundlage dieses Berichts sind die Erfahrungen der Beh&#246;rden mit der Umsetzung des &#167; 12a EGovG unter
+Ber&#252;cksichtigung der &#220;bergangsvorschrift des &#167; 19 EGovG. Der Inhalt der Vorschriften wird daher nachfolgend
+noch einmal dargestellt und die einzelnen Abs&#228;tze mit Blick auf die Leitfragen des Berichts schlagwortartig
+zusammengefasst.
+Tabelle 1 
+&#220;bersicht &#167; 12a EGovG
+&#167; 12a EGovG 
+Absatz Inhalt Zusammenfassung
+1 Die Beh&#246;rden der unmittelbaren Bundesverwaltung 
+stellen unbearbeitete Daten, die sie zur Erf&#252;llung ihrer 
+&#246;ffentlich-rechtlichen Aufgaben erhoben haben oder 
+durch Dritte in ihrem Auftrag haben erheben lassen,
+zum Datenabruf &#252;ber &#246;ffentlich zug&#228;ngliche Netze
+bereit. Ein Anspruch auf die Bereitstellung dieser
+Daten wird hierdurch nicht begr&#252;ndet.
+Geltungsbereich
+&#8226; unmittelbare Bundesverwaltung 
+&#8226; unbearbeitete Daten (&#8222;Rohdaten&#8220;), d. h. auf den 
+Tatsachenkern reduzierte Aufzeichnungen 
+&#8226; Erhebung aufgrund &#246;ffentlich-rechtlicher 
+Aufgaben 
+&#8226; Bereitstellung &#252;ber &#246;ffentlich zug&#228;ngliche Netze 
+2 Absatz 1 Satz 1 gilt nur f&#252;r Daten, die
+1. der Beh&#246;rde elektronisch gespeichert und in 
+Sammlungen strukturiert vorliegen, insbesondere
+in Tabellen oder Listen,
+Bedingungen an die Daten
+&#8226; elektronisch gespeichert und strukturiert 
+vorliegend 
+&#8226; Tatsachen au&#223;erhalb der Beh&#246;rde betreffend
+&#167; 12a EGovG 
+Absatz Inhalt Zusammenfassung
+2. ausschlie&#223;lich Tatsachen enthalten, die au&#223;erhalb 
+der Beh&#246;rde liegende Verh&#228;ltnisse betreffen, 
+3. nicht das Ergebnis einer Bearbeitung anderer 
+Daten durch eine Beh&#246;rde der unmittelbaren 
+Bundesverwaltung sind, 
+4. nach der Erhebung keine Bearbeitung erfahren 
+haben, ausgenommen eine Bearbeitung, die aus 
+rechtlichen oder aus tats&#228;chlichen Gr&#252;nden 
+erfolgt ist und ohne die eine Ver&#246;ffentlichung der 
+Daten nicht m&#246;glich w&#228;re, und 
+5. nicht f&#252;r Forschungszwecke erhoben worden 
+sind. 
+&#8226; unbearbeitet 
+&#8226; keine Forschungsdaten 
+3 Abweichend von Absatz 1 Satz 1 m&#252;ssen die Daten
+nicht bereitgestellt werden, wenn
+1. an den Daten 
+a) kein oder nur ein eingeschr&#228;nktes 
+Zugangsrecht insbesondere gem&#228;&#223; den 
+&#167;&#167; 3 bis 6 des Informationsfreiheitsgesetzes 
+besteht oder 
+b) ein Zugangsrecht erst nach der Beteiligung 
+Dritter best&#252;nde, 
+2. die Daten ohne Auftrag der Beh&#246;rde von Dritten 
+erstellt und ihr ohne rechtliche Verpflichtung 
+&#252;bermittelt werden oder 
+3. die Daten bereits &#252;ber &#246;ffentlich zug&#228;ngliche 
+Netze entgeltfrei bereitgestellt werden. 
+Ausnahmetatbest&#228;nde
+Daten m&#252;ssen nicht als Open Data zur Verf&#252;gung
+gestellt werden, wenn
+&#8226; eingeschr&#228;nktes Zugangsrecht 
+&#8226; Beteiligung Dritter notwendig 
+&#8226; Erhebung der Daten von Dritten 
+&#8226; bereits entgeltfrei &#246;ffentlich zug&#228;nglich 
+4 Die Bereitstellung der Daten nach Absatz 1 Satz 1 
+erfolgt unverz&#252;glich nach der Erhebung, sofern der 
+Zweck der Erhebung dadurch nicht beeintr&#228;chtigt
+wird, andernfalls unverz&#252;glich nach Wegfall der 
+Beeintr&#228;chtigung. Ist aus technischen oder sonstigen 
+gewichtigen Gr&#252;nden eine unverz&#252;gliche
+Bereitstellung nicht m&#246;glich, sind die Daten 
+unverz&#252;glich nach Wegfall dieser Gr&#252;nde
+bereitzustellen.
+Zeitpunkt der Bereitstellung
+&#8226; unverz&#252;glich 
+5 Die Daten werden grunds&#228;tzlich maschinenlesbar
+bereitgestellt. Sie sind mit Metadaten zu versehen. Die
+Metadaten werden im nationalen Metadatenportal
+GovData eingestellt.
+Bedingungen, wie Daten bereitgestellt werden
+&#8226; maschinenlesbar 
+&#8226; beschreibende Metadaten bei GovData 
+6 Der Abruf von Daten nach Absatz 1 Satz 1 muss
+entgeltfrei und zur uneingeschr&#228;nkten 
+Weiterverwendung der Daten durch jedermann 
+erm&#246;glicht werden. Der Abruf von Daten nach
+Absatz 1 Satz 1 soll jederzeit, ohne verpflichtende
+Registrierung und ohne Begr&#252;ndung m&#246;glich sein.
+Bedingungen, wie Daten bereitgestellt werden
+&#8226; entgeltfreie Bereitstellung &#252;ber &#246;ffentliche Netze 
+&#8226; freier Zugang und Weiterverwendung 
+7 Die Beh&#246;rden der unmittelbaren Bundesverwaltung 
+sollen die Anforderungen an die Bereitstellung von 
+Daten im Sinne des Absatzes 1 Satz 1 bereits
+fr&#252;hzeitig ber&#252;cksichtigen bei:
+1. der Optimierung von Verwaltungsabl&#228;ufen 
+gem&#228;&#223; &#167; 9, 
+2. dem Abschluss von vertraglichen Regelungen zur 
+Erhebung oder Verarbeitung der Daten sowie 
+Fr&#252;hzeitige Ber&#252;cksichtigung von Open Data und 
+Integration in innerbeh&#246;rdlichen Prozessen
+&#8226; Prozessoptimierung 
+&#8226; Vertragsabschluss 
+&#8226; IT-Beschaffung
+&#167; 12a EGovG 
+Absatz Inhalt Zusammenfassung
+3. bei der Beschaffung von informationstechnischen 
+Systemen f&#252;r die Speicherung und Verarbeitung 
+der Daten. 
+8 Die Beh&#246;rden der unmittelbaren Bundesverwaltung 
+sind nicht verpflichtet, die bereitzustellenden Daten 
+auf Richtigkeit, Vollst&#228;ndigkeit, Plausibilit&#228;t oder in 
+sonstiger Weise zu pr&#252;fen.
+Verzicht auf Pr&#252;fpflicht vor Datenver&#246;ffentlichung
+&#8226; kein Haftungstatbestand f&#252;r die Beh&#246;rden 
+9 Die Bundesregierung richtet eine zentrale Stelle ein,
+die die Beh&#246;rden der Bundesverwaltung zu Fragen der
+Bereitstellung von Daten als offene Daten ber&#228;t und 
+Ansprechpartner f&#252;r entsprechende Stellen der L&#228;nder 
+ist.
+Aufgaben der zentralen Stelle
+&#8226; Beratung und fachliche Unterst&#252;tzung der 
+Beh&#246;rden 
+&#8226; Austausch mit den L&#228;ndern 
+10 Die Bundesregierung berichtet dem Bundestag alle
+zwei Jahre &#252;ber die Fortschritte bei der Bereitstellung 
+von Daten durch die Beh&#246;rden der unmittelbaren 
+Bundesverwaltung als offene Daten.
+Regelm&#228;&#223;ige Berichtspflicht
+&#8226; Stand der Umsetzung 
+Tabelle 2 
+&#220;bersicht &#167; 19 EGovG
+&#167; 19 EGovG 
+Absatz Inhalt Zusammenfassung
+1 &#167; 12a gilt f&#252;r Daten, die nach dem 13. Juli 2017 
+erhoben werden. F&#252;r Daten, die vor dem 13. Juli 2017 
+erhoben wurden, gilt &#167; 12a nur, soweit diese Daten 
+nach dem 13. Juli 2017 zur Erf&#252;llung
+&#246;ffentlichrechtlicher Aufgaben der Beh&#246;rden nach &#167; 12a
+Absatz 1 Satz 1 verwendet werden.
+Erhebungszeitraum
+&#8226; Erhebungszeitraum ab dem 13. Juli 2017 
+2 Die Beh&#246;rden der unmittelbaren Bundesverwaltung 
+stellen die Daten nach &#167; 12a sp&#228;testens zw&#246;lf Monate
+nach dem 13. Juli 2017 erstmals bereit. Erfordert die
+Bereitstellung der Daten erhebliche technische
+Anpassungen und ist sie deshalb innerhalb des in Satz
+1 genannten Zeitraums nur mit unverh&#228;ltnism&#228;&#223;ig 
+hohem Aufwand m&#246;glich, verl&#228;ngert sich der 
+Zeitraum f&#252;r die erstmalige Bereitstellung der Daten 
+auf bis zu zwei Jahre, um die technischen 
+Anpassungen durchzuf&#252;hren. Im Fall des Satzes 2
+m&#252;ssen bei der erstmaligen Bereitstellung nur die
+aktuellen Daten bereitgestellt werden.
+Umsetzungsfrist
+&#8226; Das Gesetz ist seit dem 13. Juli 2017 in Kraft, 
+erstmalige Bereitstellung offener Daten sp&#228;testes
+ab 13. Juli 2018, wenn erhebliche technische
+Anpassungen erforderlich, ab 13. Juli 2019
+4 Ausgangssituation: aktueller Stand und Fortschritte seit Inkrafttreten des Gesetzes
+Eine standardm&#228;&#223;ige Ver&#246;ffentlichung von Daten bedeutet einen Paradigmenwechsel in der deutschen
+Verwaltungskultur und stellt neue Anforderungen an die Mitarbeiterinnen und Mitarbeiter. Es gilt, Open Data in
+laufende Arbeitsprozesse als Teil des t&#228;glichen Verwaltungshandelns einzubeziehen und dabei den Zusatzaufwand
+m&#246;glichst gering zu halten.
+4.1 Austausch auf Ressortebene
+Die Umsetzung des &#167; 12a EGovG durch die Beh&#246;rden der unmittelbaren Bundesverwaltung erfolgt innerhalb
+der Verantwortung der jeweiligen Beh&#246;rden bzw. im Rahmen der Rechts- und Fachaufsicht der Ressorts f&#252;r
+ihre jeweiligen Gesch&#228;ftsbereichsbeh&#246;rden.
+Als federf&#252;hrend zust&#228;ndiges Ressort f&#252;r das E-Government-Gesetz in der Bundesregierung hat das
+Bundesministerium des Innern, f&#252;r Bau und Heimat (BMI) dar&#252;ber hinaus eine koordinierende Rolle &#252;bernommen und
+die Ressorts gebeten, jeweils Ansprechpersonen f&#252;r Open Data zu benennen. Diese l&#228;dt das BMI regelm&#228;&#223;ig zu
+Ressortbesprechungen ein. Gegenstand der Besprechungen sind u. a. operative und strategische Fragen zur
+Umsetzung des &#167; 12a EGovG, Erkenntnisse aktueller internationaler Studien und Umfragen sowie die Umsetzung
+des IT-Rahmenkonzepts der Bundesregierung im Hinblick auf IT-Ma&#223;nahmen im Bereich Open Data. In
+diesem Zusammenhang wurden auch Gastreferentinnen und -referenten zu den Besprechungen eingeladen, wie 
+z. B. der Leiter der Gesch&#228;fts- und Koordinierungsstelle (GKSt) GovData zu einem Bericht &#252;ber das nationale 
+Metadatenportal GovData und die Bereitstellung von Metadaten, eine Vertreterin des European Data Portal
+(EDP) zu einem Vortrag &#252;ber die Maturit&#228;tsstudie 2018 und eine Mitarbeiterin des Sprachendienstes im BMI
+zur Bereitstellung von &#220;bersetzungstexten als Open Data und deren Bedeutung f&#252;r lernende elektronische
+&#220;bersetzungs- und Sprachsysteme bzw. -dienste.
+4.2 Zentrale Stelle / Kompetenzzentrum Open Data
+Um den notwendigen Kulturwandel zu bef&#246;rdern, sieht &#167; 12a Absatz 9 EGovG die Einrichtung einer zentralen 
+Stelle durch die Bundesregierung vor, die die Beh&#246;rden der unmittelbaren Bundesverwaltung zu Fragen der
+Bereitstellung von Daten als offene Daten ber&#228;t und Ansprechpartner f&#252;r entsprechende Stellen der L&#228;nder ist.
+Das BMI hat formal durch Erlass aufgrund von &#167; 1 Absatz 2 des Gesetzes &#252;ber die Errichtung des
+Bundesverwaltungsamtes vom 28. Dezember 1959 in der im Bundesgesetzblatt Teil III, Gliederungsnummer 200-2
+bereinigten Fassung, das zuletzt durch Artikel 1 des Gesetzes vom 5. Juli 2017 ge&#228;ndert worden ist, die Aufgabe der
+zentralen Stelle gem&#228;&#223; &#167; 12a Absatz 9 EGovG mit Wirkung zum 1. September 2018 dem
+Bundesverwaltungsamt K&#246;ln (BVA) &#252;bertragen.
+Entsprechend dem Erlass ist die zentrale Stelle sukzessive in Abh&#228;ngigkeit einer Bereitstellung der im Ersten
+Gesetz zur &#196;nderung des E-Government-Gesetzes vorgesehenen Planstellen aufzubauen. Bislang wurden die
+Planstellen nicht vom Haushaltsgesetzgeber bewilligt.
+Das BVA hat deshalb bis dato &#252;bergangsweise zwei Stellen aus seinem f&#252;r andere Aufgaben vorgesehenen 
+Stellenhaushalt f&#252;r die zentrale Stelle zur Verf&#252;gung gestellt. Aus diesem Grund konnten Besch&#228;ftigte des 
+BVA in Wahrnehmung der Aufgaben der zentralen Stelle u. a. an den Ressortbesprechungen sowie an
+Informationsveranstaltungen zu Open Data f&#252;r Gesch&#228;ftsbereichsbeh&#246;rden teilnehmen und seit Juli 2018 auf der
+Internetseite verwaltung-innovativ.de (https://www.verwaltung-innovativ.de/DE/E_Government/Open_Data/o-
+pen_data_node.html) ein Handbuch f&#252;r offene Verwaltungsdaten sowie praxisorientierte Arbeitshilfen f&#252;r die
+einzelnen Umsetzungsschritte, wie Checklisten und Leitf&#228;den zur Verf&#252;gung stellen, die kontinuierlich
+angepasst und weiterentwickelt werden. 
+Neben dem Aufbau und der Pflege eines Open-Data-Wissensmanagements geh&#246;rt zu den Aufgaben der
+zentralen Stelle auch das aktive in Erscheinung treten durch &#214;ffentlichkeitsarbeit. Ziel ist es, auf die Datenbereitsteller
+zuzugehen, um &#252;ber die Ziele und die Umsetzung von &#167; 12a EGovG zu informieren. Zudem sollen durch einen 
+Austausch mit den Datennutzern deren Anforderungen an offene Daten aufgenommen werden. Bei
+verschiedenen Veranstaltungen u. a. beim Zukunftskongress 2018 und 2019 in Berlin hat das BVA &#252;ber Open Data
+informiert. Der Austausch mit den Datenbereitstellern ebenso wie der mit den Datennutzern soll k&#252;nftig ausgeweitet
+werden.
+Der Name der zentralen Stelle &#8211; Kompetenzzentrum Open Data (CCOD) &#8211; und das eigene Logo, mit denen die
+zentrale Stelle seit Mai 2019, u. a. beim 7. Zukunftskongress Staat und Verwaltung, nach au&#223;en auftritt, dienen
+der Erh&#246;hung des Wiedererkennungswertes. Ebenso wie die Erstellung einer eigenen Internetseite zur besseren
+Auffindbarkeit der Unterst&#252;tzungsunterlagen, die derzeit im Aufbau ist, sind dies Teile eines Konzepts
+&#214;ffentlichkeitsarbeit, das sukzessive umgesetzt wird.
+Ein Schulungskonzept f&#252;r die Mitarbeiterinnen und Mitarbeiter der Beh&#246;rden ist derzeit in der Erstellung.
+Zu den Aufgaben der zentralen Stelle geh&#246;rt es ferner, als Dialogschnittstelle zwischen der Bundesverwaltung 
+und den Bundesl&#228;ndern zu fungieren und einen Erfahrungsaustausch zwischen den verschiedenen f&#246;deralen
+Ebenen zu erm&#246;glichen, um auf diese Weise die Bereitstellung von offenen Daten in Deutschland zu bef&#246;rdern
+und zu einem Kulturwandel auf den verschiedenen f&#246;deralen Verwaltungsebenen beizutragen. Erste Gespr&#228;che
+haben u. a. mit der Open Data Informationsstelle Berlin (ODIS) und dem Open-Government- und Open-Data-
+Portal der Landesregierung Nordrhein-Westfalen (Open.NRW) stattgefunden. Daneben hat die zentrale Stelle 
+am 11. August 2018 am Berlin Open Data Day teilgenommen. Der Leiter der Unterabteilung DG I der Abteilung
+Digitale Gesellschaft, Verwaltungsdigitalisierung und Informationstechnik im BMI hat als Keynotespeaker
+dieser Veranstaltung &#252;ber Open Data in der Bundesverwaltung referiert.
+4.3 Nationaler Aktionsplan Open Government Partnership (OGP)
+Im August 2017 wurde der Erste Nationale Aktionsplan 2017 bis 2019 im Rahmen der Teilnahme Deutschlands
+an der Open Government Partnership (OGP) verabschiedet. Von insgesamt f&#252;nfzehn Verpflichtungen der
+Bundesregierung, aus unterschiedlichen Themenbereichen, befassen sich insgesamt drei Verpflichtungen mit Open
+Data, hiervon zwei in der Verantwortung des BMI &#8211; Umsetzung von Open Data in die Verwaltungspraxis
+(Verpflichtung 2), F&#246;rderung des Open-Data-Umfeldes (Verpflichtung 3) &#8211; und eine in der Verantwortung des
+Bundesministeriums f&#252;r Verkehr und Digitale Infrastruktur (BMVI) &#8211; Open Data f&#252;r intelligente Mobilit&#228;t
+(Verpflichtung 7).
+Schwerpunkte der Verpflichtung 2 waren, die gemeinsame Wissensbasis von Open Data in der unmittelbaren
+Bundesverwaltung zu st&#228;rken und koh&#228;rente Kriterien f&#252;r die Umsetzung von Open Data zu erarbeiten.
+Verpflichtung 3 diente hingegen dazu, den Austausch mit Wissenschaft, Zivilgesellschaft, Wirtschaft und
+internationalen Partnern zu intensivieren. Mit der Verpflichtung 7 sollte zudem ein Beitrag geleistet werden, kreative
+Innovationen f&#252;r verkehrspolitische Themen zu f&#246;rdern. Alle Einzelma&#223;nahmen, mit denen diese
+Verpflichtungen jeweils hinterlegt sind, konnten innerhalb der Laufzeit des ersten Nationalen Aktionsplans erfolgreich
+umgesetzt werden.
+In Vorbereitung des Zweiten Nationalen Aktionsplans 2019 bis 2021 hat das BMI am 6. M&#228;rz 2019 an der vom
+Bundeskanzleramt organisierten Auftaktveranstaltung f&#252;r die Open Government Partnership teilgenommen und
+einen mehrst&#252;ndigen Workshop zum Thema Open Data mit Vertreterinnen und Vertretern der Wissenschaft,
+der Zivilgesellschaft und der Verwaltung aus unterschiedlichen f&#246;deralen Ebenen durchgef&#252;hrt. Auch der
+Zweite Nationale Aktionsplan enth&#228;lt eine Verpflichtung des Bundes zu Open Data. Ziel dieser Verpflichtung
+ist insbesondere eine st&#228;rkere Einbindung der Datennutzer sowie die weitere Vertiefung des in der
+Bundesverwaltung bereits vorhandenen Wissens zu Open Data.
+Die Bundesregierung nahm im Mai 2019 vertreten durch eine ressort&#252;bergreifende Delegation am OGP Global
+Summit in Ottawa, Kanada unter der Leitung der Beauftragten der Bundesregierung f&#252;r Digitalisierung teil. Die
+Delegation tauschte sich dabei mit anderen Konferenzteilnehmern unter anderem zur Open Data Politik etwa in
+Kanada, Frankreich und den USA aus. Ab Oktober 2019 ist Deutschland f&#252;r die n&#228;chsten drei Jahre Teil des
+internationalen Lenkungsausschusses. Zuvor hatte Frankreich den europ&#228;ischen Sitz inne.
+4.4 Internationaler Austausch
+Deutschland engagiert sich im Rahmen des zweimal j&#228;hrlich stattfindenden informellen Austausch OGD D-A-
+CH-Li (Deutschland-&#214;sterreich-Schweiz-Liechtenstein). Auf Einladung Deutschlands fand das letzte interne
+Treffen am 21. November 2018 im BMI in Berlin statt. F&#252;r Oktober 2019 ist die Durchf&#252;hrung einer D-A-CH-
+Li-Konferenz in Deutschland geplant. Diese hat zum Ziel, einen gro&#223;en Besucherkreis &#252;ber verschiedene
+Initiativen und Aktivit&#228;ten zu Open Data in den vier deutschsprachigen europ&#228;ischen L&#228;ndern zu informieren.
+In regelm&#228;&#223;igen Abst&#228;nden veranstaltet das EDP Workshops zu verschiedenen Fragen der Bereitstellung von 
+offenen Daten, um den Erfahrungsaustausch zwischen den Mitgliedstaaten zu st&#228;rken. Am 25. und 26. M&#228;rz
+2019 fand erstmals in Deutschland eine Veranstaltung des EDP gemeinsam mit der GKSt GovData in Hamburg 
+statt. Beim Workshop &#8222;Metadata and Data Quality &#8211; Practice and Tools; Tailored Support Activity&#8221;, an dem 
+Vertreter aus zw&#246;lf europ&#228;ischen L&#228;ndern teilgenommen haben, war BMI mit einem Vortrag zu &#8222;Open Data
+Activities in Germany&#8220; vertreten.
+Dar&#252;ber hinaus nimmt die Bundesregierung regelm&#228;&#223;ig an den mitgliedstaatlichen Treffen der Europ&#228;ischen
+Kommission in Luxemburg zum Thema Public Sector Information und Open Data teil und bringt sich aktiv ein,
+um die europ&#228;ische Politik der offenen Daten mitzugestalten und &#252;ber Initiativen und Strategien anderer L&#228;nder
+zu lernen.
+4.5 Technische Infrastruktur
+Gem&#228;&#223; &#167; 12a Absatz 5 EGovG sind die Beh&#246;rden der unmittelbaren Bundesverwaltung dazu verpflichtet,
+offene Daten grunds&#228;tzlich maschinenlesbar zu ver&#246;ffentlichen und beschreibende Informationen &#8211; Metadaten &#8211;
+auf dem nationalen Metadatenportal GovData einzustellen, um deren Auffindbarkeit zu gew&#228;hrleisten.
+4.5.1 Das nationale Metadatenportal GovData
+GovData ist eine gemeinsame Infrastruktur von Bund und L&#228;ndern im Sinne des Artikel 91c GG. Die als
+Webportal konzipierte IT-L&#246;sung wird als eine Anwendung des IT-Planungsrates auf der Grundlage von &#167; 1
+Absatz 1 Nummer 3 des Vertrages zur Ausf&#252;hrung von Artikel 91c GG gef&#252;hrt und bildet den zentralen
+Zugangspunkt f&#252;r offene Verwaltungsdaten (Metadaten) von Bund, L&#228;ndern und &#8211; &#252;ber die entsprechenden
+L&#228;nderportale &#8211; der Kommunen.
+Die auf GovData ver&#246;ffentlichten Metadaten zu Datens&#228;tzen (DS) des Bundes sowie von L&#228;ndern und
+Kommunen werden, ebenso wie die Daten der anderen europ&#228;ischen Datenportale vom Europ&#228;ischen Datenportal
+&#8222;geharvested&#8220;, d. h. angefragt, kopiert und gespeichert. GovData tr&#228;gt damit zur Erf&#252;llung europ&#228;ischer und 
+internationaler Verpflichtungen zur Bereitstellung von Daten bei und ist Teil einer europ&#228;ischen
+Dateninfrastruktur.3 
+Grundlage f&#252;r die Regelung des technischen Betriebs von GovData und die notwendigen organisatorischen
+Voraussetzungen f&#252;r die koordinierte Datenbereitstellung ist die Verwaltungsvereinbarung GovData.4 Danach 
+verantworten die Vereinbarungspartner gemeinschaftlich den Betrieb, die Pflege und die Fortentwicklung des
+Metadatenportals und stellen dessen Finanzierung sicher.
+Die Vereinbarungspartner finanzieren den Regelbetrieb von GovData gemeinsam auf der Grundlage des
+Beschlusses des IT-Planungsrats vom 2. Oktober 2013. Die jeweiligen Anteile sind festgelegt und unabh&#228;ngig von
+der Anzahl der Vereinbarungspartner. Da einige L&#228;nder noch nicht der Verwaltungsvereinbarung GovData5 
+beigetreten sind, fehlen bei GovData nicht nur deren offene Daten sowie die offenen Daten der jeweiligen
+Kommunen, es stehen GovData auch weniger Haushaltsmittel zur Verf&#252;gung als f&#252;r den Regelbetrieb
+urspr&#252;nglich geplant waren.
+Die gemeinsame GKSt GovData mit Sitz in Hamburg ist gem&#228;&#223; &#167; 7 der Verwaltungsvereinbarung f&#252;r
+verschiedene Aufgaben im Bereich Strategie und Grundsatz sowie f&#252;r Betrieb, Entwicklung, Pflege und Kommunikation
+und Marketing zust&#228;ndig. Dies beinhaltet, u. a. die fachliche Unterst&#252;tzung f&#252;r datenbereitstellende Stellen und
+Datennutzer, die qualitative Pr&#252;fung der Metadaten und die operative Steuerung des technischen Dienstleisters.
+Ihre Personalausstattung richtet sich nach der Finanzplanung der Vereinbarungspartner, derzeit hat sie zwei
+Stellen.
+Die Fachgruppe GovData setzt sich aus jeweils einer namentlich benannten Person als Vertretung eines jeden
+dieser Vereinbarung beigetretenden Landes und des Bundes zusammen und tagt mindestens zweimal j&#228;hrlich.
+Der Bund wird dabei durch das BMI vertreten.
+4.5.2 IT-Unterst&#252;tzung
+Bund und L&#228;nder sind gleicherma&#223;en berechtigte und verpflichtete Partner hinsichtlich des Betriebs des
+nationalen Metadatenportals GovData als dem zentralen Anlaufpunkt f&#252;r die Verlinkung von Open-Data-Inhalten in 
+Deutschland. Die technische Anbindung aller Beh&#246;rden der unmittelbaren Bundesverwaltung an GovData ist 
+auf Grund mangelnder Ressourcen bei der GKSt GovData nicht m&#246;glich. Die Bereitstellung der Metadaten des
+Bundes an GovData muss daher zentral koordiniert &#252;ber eine Schnittstelle erfolgen.
+3 Nationaler Aktionsplan der Bundesregierung zur Umsetzung der Open-Data-Charta der G8, S. 13, Verpflichtung 4.8,
+https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/2014/aktionsplan-open-data.pdf?__blob=publication-
+File&amp;v=1
+4 Vereinbarung des Bundes und der L&#228;nder zum gemeinsamen Betrieb von &#8222;GovData &#8211; Das Datenportal f&#252;r Deutschland&#8220;.
+5 https://www.govdata.de/hilfe
+Das IT-Rahmenkonzept des Bundes f&#252;r das Haushaltsjahr 2019, das vom IT-Rat am 24. Januar 2018
+beschlossen wurde, enth&#228;lt u. a. die Ma&#223;nahme &#8222;Evaluierung Open Data Plattform&#8220;. Ziel dieser Ma&#223;nahme ist es, den
+gemeinsamen Bedarf der Ressorts und die Anforderungen an ein k&#252;nftiges System zur Unterst&#252;tzung bei der
+Open-Data-Bereitstellung zu bewerten.
+Im Zuge einer Ist-Analyse, die verschiedene Gespr&#228;che, Workshops und Experteninterviews mit den Ressorts,
+ausgew&#228;hlten Bundesbeh&#246;rden und der GKSt GovData beinhaltete, erfolgte eine erste Bestandsaufnahme der
+gegenw&#228;rtigen IT-Unterst&#252;tzung bei der Bereitstellung von Open Data innerhalb der unmittelbaren
+Bundesverwaltung. Dabei zeigte sich, dass die IT-Unterst&#252;tzung vergleichsweise heterogen ausgepr&#228;gt ist und in Teilen
+umfassende Funktionsl&#252;cken hinsichtlich einer automatisierten Prozessunterst&#252;tzung aufweist. Eine Folge
+dessen ist eine stark variierende und teils unzureichende Qualit&#228;t der bereitgestellten Open Data und Metadaten.
+Die differente &#220;bergabe der Metadaten an das nationale Metadatenportal GovData f&#252;hrt zu erheblichen
+Mehraufw&#228;nden bei allen Beteiligten.
+Bereits aus diesen Erkenntnissen heraus wurde f&#252;r das IT-Rahmenkonzept des Bundes 2020 eine
+Ma&#223;nahme&#228;nderung zur Entwicklung bzw. Beschaffung einer IT-L&#246;sung f&#252;r Open Data aufgenommen, das von der
+Konferenz der IT-Beauftragten der Ressorts (KoITB) am 18. Dezember 2018 beschlossen wurde. Die Umsetzung
+dieser Ma&#223;nahme wird durch eine ma&#223;nahmenspezifische Fachgruppe begleitet, die sich aus Vertreterinnen
+und Vertretern der Ressorts zusammensetzt.
+F&#252;r die weitere Evaluierung der IT-Ma&#223;nahme wurde auf Grundlage der Ist-Analyse eine ressortweite
+vertiefende Online-Umfrage vom 22. Januar 2019 bis zum 22. Februar 2019 zur Konkretisierung der aktuellen
+Bedarfe durchgef&#252;hrt. Die Umfrageergebnisse auf Basis von 51 ausgewerteten Frageb&#246;gen haben gezeigt, dass
+fast zwei Drittel der Beh&#246;rden einen Metadateneditor nutzt, vorrangig das Webformular von GovData (bei
+69,6 Prozent). Die Erfassung der Metadaten erfolgt dabei bei ca. 65 Prozent der Befragten manuell.
+Die Arbeiten an der Umsetzung einer IT-Ma&#223;nahme zur einheitlichen &#220;bergabe der Metadaten der Beh&#246;rden 
+der unmittelbaren Bundesverwaltung &#252;ber einen zentralen Metadatenkatalog Bund an GovData und ein
+zentrales Nutzermanagement Bund f&#252;r die Metadatenbereitstellung haben begonnen. Ziel der Umsetzung ist es, eine
+deutliche Aufwandsreduzierung f&#252;r alle Beh&#246;rden der unmittelbaren Bundesverwaltung sowie eine verbesserte
+Qualit&#228;t der Daten und Metadaten sicherzustellen.
+5 Umfrage zum Stand der Umsetzung in den Beh&#246;rden
+5.1 Vorgehen
+Zur Erstellung dieses Berichts wurden die Beh&#246;rden der unmittelbaren Bundesverwaltung nach ihren
+Erfahrungen mit der Umsetzung des &#167; 12a EGovG, im Rahmen einer Online-Umfrage vom 12. M&#228;rz 2019 bis 29. M&#228;rz 
+2019, befragt. Hierf&#252;r wurde der Fragebogen durch BMI an die jeweiligen Open-Data-Ansprechpartner der
+Bundesministerien und an das Bundeskanzleramt, die Beauftragte der Bundesregierung f&#252;r Kultur und Medien
+sowie das Bundespresseamt verbunden mit der Bitte, diesen an die jeweiligen Gesch&#228;ftsbereichsbeh&#246;rden
+weiterzuleiten, ausgesteuert. F&#252;r den Bericht konnten ausgef&#252;llte Frageb&#246;gen von 53 Beh&#246;rden (siehe Anlage 1)
+ausgewertet werden.
+Der Fragebogen gliedert sich in f&#252;nf Teilbereiche mit insgesamt 33 Fragen zu organisatorischen
+Voraussetzungen sowie Hemmnissen und Potentialen f&#252;r die Bereitstellung von Open Data (siehe Anlage 2).
+Tabelle 3 
+Gliederung des Fragenkatalogs der Online-Umfrage
+Teilbereich Beschreibung
+A Organisatorische und strategische Ausgestaltung des Themas Open Data
+B Bekanntheitsgrad und Inanspruchnahme zentrale Stelle
+C Ver&#246;ffentlichung von Daten und begleitende Ma&#223;nahmen
+D Erf&#252;llungsaufwand in den Beh&#246;rden
+E Hebel und Hemmnisse der Datenbereitstellung 
+5.2 Detaillierte Auswertung nach Teilbereichen
+Im Folgenden werden die Ergebnisse der Umfrage entlang der f&#252;nf Teilbereiche zusammengefasst.
+5.2.1 Allgemeines (Umfrage Teilbereich A)
+Dieser Abschnitt der Umfrage fragte allgemeine Informationen und Rahmenbedingungen zur organisatorischen
+und strategischen Ausgestaltung des Themas Open Data sowie der Rolle des Open-Data-Verantwortlichen in
+den Beh&#246;rden ab.
+      
+  
+ 
+  
+  
+    
+ 
+  
+      
+ 
+  
+  
+  
+ 
+ 
+   
+       
+ 
+ 
+ 
+  
+ 
+  
+  
+ 
+   
+  
+  
+  
+     
+ 
+  
+    
+  
+- -
+- -
+0%
+Organisatorische Verankerung des Themas Open Data in den Beh&#246;rden / Open Data Verantwortliche in den Beh&#246;rden (I)
+Wesentliche Erkenntnisse:
+&#8226; Mehr als zwei Drittel der Beh&#246;rden geben an, mindestens einen Open-Data-Verantwortlichen6 in ihrer Beh&#246;rde verortet 
+zu haben (74 Prozent).
+&#8226; Davon geben 31 Prozent der Befragten an, dass es mehr als einen Open-Data-Verantwortlichen in ihrer Beh&#246;rde gibt 
+(zwei bis vier Verantwortliche).
+&#8226; 26 Prozent der Beh&#246;rden geben an, dass in ihrer Beh&#246;rde kein Open-Data-Verantwortlicher f&#252;r die Bereitstellung offener 
+Daten gem&#228;&#223; &#167; 12a EGovG verantwortlich ist. Als Gr&#252;nde daf&#252;r werden u. a. mangelnde Ressourcen, anderweitige
+Priorit&#228;ten, keine oder geringe Anzahl von offenen Daten oder eine dezentrale Verantwortung f&#252;r die Datenbereitstellung 
+genannt.
+Abbi ldung 1 Abbi ldung 2 
+Vorhandensein Open-Data-Verantwortliche/r Anzahl Open-Data-Verantwortliche/r 
+Frage A2); n=53 (Frage A3); n=39
+74% 
+26% 
+69% 
+31% 
+1 Open-Data-Verantowrtliche/r 
+Ja Nein 
+2 - 4 Verantwortliche 
+&gt; 4 Verantwortliche 
+Hinweis: Die Frage A3 wurde den Umfrageteilnehmern nur angezeigt, wenn Frage A2 mit &#8222;Ja&#8220; beantwortet wurde.
+Organisatorische Verankerung des Themas Open Data in den Beh&#246;rden / Open Data Verantwortliche in den Beh&#246;rden (II)
+Wesentliche Erkenntnisse:
+&#8226; Die organisatorische Verortung der Open-Data-Verantwortlichen ist sehr heterogen. Auch die T&#228;tigkeiten im
+Aufgabenfeld der Verantwortlichen unterscheiden sich voneinander.
+&#8226; Genannt werden u. a. die Abfrage, Pr&#252;fung, Ver&#246;ffentlichung und Aktualisierung von Daten, die Koordinierung des 
+Themas in der Beh&#246;rde, Information und Beratung sowie die Organisation und der Besuch von Veranstaltungen. Weiter 
+werden Berichterstattung, Monitoring, Anfragen, Evaluierung und konzeptionelle T&#228;tigkeiten, wie Strategiekonzeption,
+sowie die Online-Redaktion, bzw. Website-Pflege als T&#228;tigkeiten der Open-Data-Verantwortlichen angef&#252;hrt.
+Abbi ldung 3 
+Organisatorische Verortung Open-Data-Verantwortliche/r 
+(Frage A4); n=39
+Sonstiger Bereich (z. B. Fachreferat) 46 %
+Organisation 33 %
+IT-Bereich 21 %
+&#214;ffentlichkeitsarbeit 18 %
+Hinweis: Die Frage A4 erlaubte eine Mehrfachauswahl. Frage A4 wurde nur gezeigt, wenn Frage A2 mit &#8222;Ja&#8220; beantwortet
+wurde.
+Im Sinne einer koordinierenden Stelle ist der/die Open-Data-Verantwortliche zentrale/r Ansprechpartner/in einer Beh&#246;rde und
+fungiert als Anlaufstelle f&#252;r Besch&#228;ftigte sowie die Leitung.
+6
+Inanspruchnahme durch Besch&#228;ftigte
+Wesentliche Erkenntnisse:
+&#8226; 26 Prozent der Beh&#246;rden geben an, dass die Besch&#228;ftigten in ihrer Beh&#246;rde aktiv auf die Open-Data-Verantwortlichen 
+bez&#252;glich einer Datenver&#246;ffentlichung gem&#228;&#223; &#167; 12a EGovG zukommen.
+&#8226; 74 Prozent der Beh&#246;rden geben an, dass die Besch&#228;ftigten in ihrer Beh&#246;rde nicht aktiv auf die Open-Data-
+Verantwortlichen bez&#252;glich einer Datenver&#246;ffentlichung gem. &#167; 12a EGovG zukommen. Als Gr&#252;nde daf&#252;r werden u. a. kein Bedarf, 
+andere Priorit&#228;ten, keine Zeit oder Kenntnis dieser M&#246;glichkeit oder Initiative von Open-Data-Verantwortlichen
+ausgehend genannt.
+Abbi ldung 4 
+Aktive Inanspruchnahme der/s Verantwortlichen zur Datenbereitstellung
+(Frage A6); n=39
+26% 
+74% 
+Ja Nein 
+Hinweis: Die Frage A6 wurde nur gezeigt, wenn Frage A2 mit &#8222;Ja&#8220; beantwortet wurde.
+Strategische Verankerung des Themas Open Data in den Beh&#246;rden 
+ 
+ 
+ 
+ 
+       
+     
+    
+    
+  
+  
+  
+ 
+ 
+ 
+  
+                                                        
+         
+  
+    
+Wesentliche Erkenntnisse:
+&#8226; 28 Prozent Befragten geben an, dass es eine Open-Data-Strategie, ein Leitbild oder eine Positionierung zur Bereitstellung
+von Verwaltungsdaten als offene Daten (z. B. auch als Teil einer E-Government-, Digital- oder Datenstrategie) in ihrer
+Beh&#246;rde gibt7. 17 Prozent haben eine Open-Data-Strategie in Planung.
+&#8226; &#220;ber die H&#228;lfte der Befragten gibt an, dass in ihrer Beh&#246;rde keine strategische Ausrichtung zum Thema Open Data
+existiert (55 Prozent).
+Abbi ldung 5 
+Vorhandensein einer Open-Data-Strategie
+(Frage A9); n=53
+28% 
+55% 
+17% 
+Ja Nein In Planung 
+Beh&#246;rden aus dem Gesch&#228;ftsbereich des BMVI haben das &#8222;Positionspapier Open Data des BMVI&#8220; angegeben, welches innerhalb des
+Gesch&#228;ftsbereichs des BMVI ein einheitliches Verst&#228;ndnis f&#252;r Open Data schaffen soll. https://www.bmvi.de/SharedDocs/DE/An-
+lage/DG/positionierung-des-bmvi.pdf?__blob=publicationFile, letzter Zugriff 16.04.2019.
+7
+Beh&#246;rdeninterner und beh&#246;rden&#252;bergreifender Austausch zum Thema Open Data
+Wesentliche Erkenntnisse:
+&#8226; In Beh&#246;rden mit mehr als einem Open-Data-Verantwortlichen findet in 75 Prozent der F&#228;lle innerhalb der Beh&#246;rde ein 
+regelm&#228;&#223;iger Austausch zwischen den Open-Data-Verantwortlichen statt (z. B. Jour fixe). In 25 Prozent der Beh&#246;rden 
+ist dies nicht der Fall.
+&#8226; Knapp 59 Prozent der Befragten Befragten geben an, dass die Open-Data-Verantwortlichen in ihrer Beh&#246;rde an einem 
+beh&#246;rden&#252;bergreifenden Austausch zwischen Open-Data-Verantwortlichen teilnehmen (z. B. Jour fixe). 41 Prozent
+geben an, an keinem Austauschformat teilzunehmen.
+&#8226; Im Rahmen des beh&#246;rden&#252;bergreifenden Austauschs werden als institutionalisierte Formate die Ressortrunde der Open-
+Data-Ansprechpartner, unter Federf&#252;hrung des BMI sowie eine halbj&#228;hrliche Ressortbesprechung innerhalb des
+Gesch&#228;ftsbereichs des BMVI angef&#252;hrt.
+Abbi ldung 6 Abbi ldung 7 
+Innerbeh&#246;rdlicher Austausch &#220;berbeh&#246;rdlicher Austausch 
+der Open-Data-Verantwortlichen der Open-Data-Verantwortlichen
+(Frage A7); n=12 (Frage A8); n=39
+75% 
+25% 
+59% 
+41% 
+Ja Nein Ja Nein 
+Hinweis: Die Frage A7 wurde nur gezeigt, wenn die Frage A3 mit &#8222;2 &#8211; 4 Verantwortliche&#8220; oder &#8222;&gt; 4 Verantwortliche&#8220;
+beantwortet wurde. Die Frage A8 wurde nur gezeigt, wenn die Frage A2 mit &#8222;ja&#8220; beantwortet wurde.
+5.2.2 Zentrale Stelle (Umfrage Teilbereich B)
+Dieser Abschnitt der Umfrage fragte den Bekanntheitsgrad und die Nutzung des Beratungsangebots der
+zentralen Stelle (&#167; 12a Absatz 9 EGovG) ab.
+Bekanntheit der zentralen Stelle
+Wesentliche Erkenntnisse:
+&#8226; 81 Prozent der Beh&#246;rdengeben an, dass ihnen oder ihrer Beh&#246;rde die gem&#228;&#223; &#167; 12a Absatz 9 EGovG eingerichtete zentrale 
+Stelle bekannt ist.
+&#8226; 19 Prozent ist die zentrale Stelle nicht bekannt.
+Abbi ldung 8 
+Bekanntheit der zentralen Stelle 
+(Frage B1); n=53
+81% 
+19% 
+Ja Nein
+Nutzung des Angebots der zentralen Stelle
+Wesentliche Erkenntnisse:
+&#8226; 21 Prozent der Befragten geben an, dass sie oder ihre Beh&#246;rde das Beratungsangebot der zentralen Stelle genutzt haben. 
+&#8226; 79 Prozent der Beh&#246;rden geben an, dass sie das Beratungsangebot noch nicht in Anspruch genommen haben. Als Gr&#252;nde 
+werden u. a. genannt: kein Bedarf, Beratung ist durch das Ressort erfolgt, keine zu ver&#246;ffentlichenden Daten, bisher zu 
+fr&#252;h im Prozess oder zeitliche Kapazit&#228;ten bzw. andere Priorit&#228;ten. 
+&#8226; 79 Prozent der Befragten geben an, dass ihnen bzw. ihrer Beh&#246;rde die Unterst&#252;tzungsmaterialen8 der zentralen Stelle 
+bekannt sind. Davon geben knapp 65 Prozent der Beh&#246;rden an, dass sie die Unterst&#252;tzungsmaterialien auch zur
+Umsetzung von &#167; 12a EGovG in ihrer Beh&#246;rde genutzt haben. 
+&#8226; 21 Prozent der Befragten kennen die Unterst&#252;tzungsmaterialien nicht. 
+Abbi ldung 9 
+Bekanntheit und Nutzung des Beratungsangebots und der Unterst&#252;tzungsmaterialien 
+(Fragen B2 &amp; B4); n=43 (beide) 
+B2: Beratungsangebot
+Genutzt 21 %
+Nicht genutzt 79 %
+B4: Unterst&#252;tzungsmaterialien
+Bekannt 79 %
+Nicht bekannt 21 %
+Hinweis: Die Fragen B2 und B4 wurden nur gezeigt, wenn die Frage B1 mit &#8222;Ja&#8220; beantwortet wurde.
+Abbi ldung 10
+Nutzung der Unterst&#252;tzungsmaterialien zur Umsetzung in Beh&#246;rde
+(Frage B5); n=34
+65% 
+35% 
+Ja Nein 
+Hinweis: Die Frage B5 wurde nur gezeigt, wenn die Frage B4 mit &#8222;Ja&#8220; beantwortet wurde.
+Die Unterst&#252;tzungsmaterialien der zentralen Stelle finden Sie hier: https://www.verwaltung-innovativ.de/DE/E_Government/O-
+pen_Data/open_data_node.html, letzter Zugriff: 24.04.2019.
+8
+Unterst&#252;tzungsbedarf durch die zentrale Stelle
+Wesentliche Erkenntnisse:
+&#8226; 43 Prozent der Beh&#246;rden sehen einen weiteren Unterst&#252;tzungsbedarf durch die zentrale Stelle in der Information bzw.
+Unterst&#252;tzung bei der Identifikation von Open-Data-f&#228;higen Daten.
+&#8226; 40 Prozent der Beh&#246;rden w&#252;nschen sich mehr Information bzw. Unterst&#252;tzung bei der Arbeit mit Metadaten, 28 Prozent
+ben&#246;tigen Unterst&#252;tzung beim Ausbau standardisierter Prozesse.
+Abbi ldung 11
+Weiterer Unterst&#252;tzungsbedarf durch die zentrale Stelle 
+(Frage B6); n=53
+Daten-Kompetenzaufbau 
+Informationen / Unterst&#252;tzung bei Metadaten 
+Informationen / Unterst&#252;tzung bei Identifikation von 
+Open-Data-f&#228;higen Daten 
+Ausbau standardisierter Prozesse 
+St&#228;rkung des Austauschs zwischen
+Datenbereitsteller/innen der Bundesverwaltung 
+St&#228;rkung des Austauschs zwischen
+Datenbereitsteller/innen auf Bundes- und Landesebene 
+St&#228;rkung des Austauschs mit Datennutzer/innen 
+Sonstiger Bedarf 
+Hinweis: Die Frage B6 erlaubte eine Mehrfachauswahl.
+11 % 
+40 % 
+43 % 
+28 % 
+19 % 
+11 % 
+26 % 
+9 %
+5.2.3 Ver&#246;ffentlichung von Daten und begleitende Ma&#223;nahmen
+(Umfrage Teilbereich C)
+Dieser Abschnitt der Umfrage fragte die Fortschritte bei der Bereitstellung offener Daten gem&#228;&#223; &#167; 12a EGovG 
+seit dem Inkrafttreten des Gesetzes sowie begleitende Ma&#223;nahmen, die einen Kulturwandel bef&#246;rdern, ab.
+Einsch&#228;tzung zur Datenbereitstellung
+Wesentliche Erkenntnisse:
+&#8226; 26 Prozent der Befragten geben an, dass das Inkrafttreten von &#167; 12a EGovG nach ihrer Einsch&#228;tzung dazu gef&#252;hrt hat, 
+dass in ihrer Beh&#246;rde mehr Daten ver&#246;ffentlicht werden.
+&#8226; Ma&#223;nahmen, die nach Einsch&#228;tzung der Befragten besonders dazu gef&#252;hrt haben, dass in ihrer Beh&#246;rde mehr Daten 
+bereitgestellt werden, sind u. a. die Mitarbeiterinformation und Bestandsdatenpr&#252;fung aufgrund der gesetzlichen
+Verpflichtung, die Sensibilisierung bzw. positive Einstellung der Beh&#246;rdenleitung oder Abfragen im Haus9.
+&#8226; 72 Prozent der Befragten geben an, dass das Inkrafttreten des Open-Data-Gesetzes nach ihrer Einsch&#228;tzung nicht dazu 
+gef&#252;hrt hat, dass mehr Daten bereitgestellt werden.
+Abbi ldung 12
+H&#246;here Datenbereitstellung aufgrund &#167;12 a EGovG
+(Frage C5); n=53
+2% 
+26% 
+72% 
+Ja Nein Keine Antwort 
+Die Frage C6 wurde nur gezeigt, wenn die Frage C5 mit &#8222;ja&#8220; beantwortet wurde.9
+Pr&#252;fung und Ver&#246;ffentlichung von Datens&#228;tzen
+Wesentliche Erkenntnisse10:
+Pr&#252;fung:
+&#8226; 53 Prozent der Befragten geben an, dass in ihrer Beh&#246;rde seit dem Inkrafttreten des &#8222;Open-Data-Gesetzes&#8220; am 13. Juli 
+2017 weniger als 50 Datens&#228;tze auf Ver&#246;ffentlichung gem&#228;&#223; &#167; 12a EGovG gepr&#252;ft wurden.
+&#8226; 6 Prozent geben an, dass es sich um 50 bis 100 Datens&#228;tze handelt.
+&#8226; 15 Prozent geben an, dass mehr als 100 Datens&#228;tze gepr&#252;ft wurden.
+&#8226; 23 Prozent geben an, dass ihnen dazu keine Aussage m&#246;glich ist.
+Ver&#246;ffentlichung11:
+&#8226; 64 Prozent der Befragten geben an, dass in ihrer Beh&#246;rde seit dem Inkrafttreten des &#8222;Open-Data-Gesetzes&#8220; am 13. Juli 
+2017 weniger als 50 Datens&#228;tze ver&#246;ffentlicht und mit Metadaten versehen im nationalen Metadatenportal GovData
+eingestellt wurden.
+&#8226; 6 Prozent geben an, dass zwischen 50 bis 100 Datens&#228;tzen gem&#228;&#223; &#167; 12a Absatz 5 EGovG ver&#246;ffentlicht wurden.
+&#8226; 8 Prozent geben an, dass mehr als 100 Datens&#228;tze gem&#228;&#223; &#167; 12a Absatz 5 EGovG ver&#246;ffentlicht wurden.
+&#8226; 19 Prozent geben an, dass ihnen dazu keine Aussage m&#246;glich ist.
+Abbi ldung 13
+Menge gepr&#252;fter und ver&#246;ffentlichter Datens&#228;tze 
+(Fragen C7 &amp; C8); n=53 (beide)
+4% 4% 
+15 % 8 % 
+53 % 64 % 
+23 % 19 % 
+Gepr&#252;ft Ver&#246;ffentlicht 
+Keine Aussage m&#246;glich 
+&lt; 50 Datens&#228;tze 
+50 - 100 Datens&#228;tze 
+&gt; 100 Datens&#228;tze 
+Keine Antwort 
+6% 6% 
+Hinweis: Die Summe der angegeben Werte weicht aufgrund von Rundung leicht von 100 Prozent ab.
+10 Im Rahmen der Gesetzesfolgenabsch&#228;tzung wurde angenommen, dass jede Beh&#246;rde Datens&#228;tze in einer Gr&#246;&#223;enordnung von 50 bis
+100 pro Jahr zur Verf&#252;gung stellen wird. Diese Gr&#246;&#223;enordnung entspricht vergleichbaren Erfahrungswerten aus anderen
+Industrienationen, die bereits erste Erfahrungen im Bereich Open Data gesammelt haben (vgl. Bundestagsdrucksache 18/11614).
+11 Eine einheitliche und zentral koordinierte &#220;bergabe der Metadaten des Bundes an GovData ist derzeit nicht gew&#228;hrleistet. Aufgrund
+der unterschiedlichen Ausgestaltungen bei der Anbindung der Bundesbeh&#246;rden an GovData k&#246;nnen die Angaben der Beh&#246;rden zur
+Datenver&#246;ffentlichung nicht &#252;ber GovData verifiziert werden. Nicht alle Bundesbeh&#246;rden, die offene Daten ver&#246;ffentlichen, sind als
+Datenbereitsteller bei GovData auffindbar (vgl. Kapitel 4.3).
+Weiterverwendung und Anwendungsf&#228;lle
+Wesentliche Erkenntnisse:
+&#8226; Ca. ein Drittel der Befragten gibt an, dass ihnen Anwendungsf&#228;lle f&#252;r die Weiterverwendung und Nutzung der
+ver&#246;ffentlichten Datens&#228;tze ihrer Beh&#246;rde bekannt sind (30 Prozent).
+&#8226; Fast zwei Drittel geben an, dass ihnen keine Anwendungsf&#228;lle f&#252;r die Weiterverwendung und Nutzung der
+ver&#246;ffentlichten Datens&#228;tze ihrer Beh&#246;rde bekannt sind (64 Prozent).
+Abbi ldung 14
+Bekanntheitsgrad von Anwendungsf&#228;llen der Weiterverwendung von Daten
+(Frage C9); n=53
+6% 
+30% 
+64% 
+Ja Nein Keine Antwort
+Begleitende Ma&#223;nahmen und Kulturwandel 
+ 
+  
+     
+  
+  
+     
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+  
+ 
+Wesentliche Erkenntnisse:
+&#8226; Wenige Beh&#246;rden haben die Verpflichtung des &#167; 12a EGovG mit Ma&#223;nahmen zum Thema Open Data und/oder zur 
+Umsetzung des Gesetzes begleitet: Informationsveranstaltungen (26 Prozent), Informationsmaterialien (34 Prozent),
+Schulungen (2 Prozent).
+&#8226; Die Mehrzahl der Beh&#246;rden hat die Verpflichtung des &#167; 12a EGovG nicht mit Ver&#228;nderungsma&#223;nahmen begleitet: keine 
+Informationsveranstaltungen (70 Prozent), keine Informationsmaterialien (64 Prozent), keine Schulungen (96 Prozent).
+Abbi ldung 15 Abbi ldung 16
+Organisation von Informationsveranstaltungen Erstellung von Informationsmaterialien
+aufgrund von &#167; 12a EGovG aufgrund von &#167; 12a EGovG
+(Frage C1); n=53 (Frage C2); n=53
+4% 2% 
+26% 
+70% 
+34% 
+64% 
+Ja Nein Keine Antwort Ja Nein Keine Antwort 
+Abbi ldung 17
+Trainings oder Schulungen f&#252;r Mitarbeiter/innen 
+aufgrund von &#167; 12a EGovG
+(Frage C3); n=53
+2% 
+96% 
+2% 
+Ja Nein Keine Antwort
+Fr&#252;hzeitige Ber&#252;cksichtigung von Open Data 
+ 
+    
+ 
+  
+ 
+ 
+   
+  
+  
+    
+ 
+  
+ 
+ 
+ 
+Wesentliche Erkenntnisse:
+&#8226; Knapp 28 Prozent der Beh&#246;rden ber&#252;cksichtigen Open Data bei der Beschaffung von informationstechnischen 
+Systemen f&#252;r die Speicherung und Verarbeitung von Daten.
+&#8226; 25 Prozent geben an, die Ver&#246;ffentlichung von Verwaltungsdaten bei dem Abschluss von vertraglichen Regelungen zur 
+Erhebung oder Verarbeitung von Daten mitzudenken.
+&#8226; 19 Prozent ber&#252;cksichtigen die Bereitstellung offener Daten bereits bei der Optimierung von Verwaltungsabl&#228;ufen. 
+&#8226; Etwa die H&#228;lfte der Beh&#246;rden ber&#252;cksichtigt die Anforderungen an die Bereitstellung von Open Data gem&#228;&#223; &#167; 12a 
+Absatz 7 EGovG noch nicht fr&#252;hzeitig (51 Prozent). 
+Abbi ldung 18
+Ber&#252;cksichtigung der Anforderungen gem&#228;&#223; &#167; 12a Absatz 7 EGovG
+(Frage C4); n=53
+Optimierung von Verwaltungsabl&#228;ufen 
+Abschluss von vertrag. Regelungen zur Erhebung 
+oder Verarbeitung der Daten 
+Beschaffung von informationstech. Systemen f&#252;r die 
+Speicherung und Verarbeitung der Daten 
+Anforderungen werden noch nicht ber&#252;cksichtigt 
+19 % 
+25 % 
+28 % 
+51 % 
+Hinweis: Die Frage C4 erlaubte eine Mehrfachauswahl.
+5.2.4 Erf&#252;llungsaufwand (Umfrage Teilbereich D) 
+Dieser Abschnitt der Umfrage fragte die Erf&#252;llungsaufw&#228;nde, die durch die Umsetzung des &#167; 12a EGovG f&#252;r 
+die Verwaltung entstanden sind, ab. 
+Einmalige Erf&#252;llungsaufw&#228;nde 
+ 
+ 
+ 
+       
+   
+     
+  
+      
+       
+    
+      
+    
+   
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+    
+ 
+  
+                                                        
+    
+          
+ 
+ 
+ 
+ 
+Wesentliche Erkenntnisse:
+&#8226; Rund die H&#228;lfte der Beh&#246;rden hatte einmalige Erf&#252;llungsaufw&#228;nde, um &#167; 12a EGovG umzusetzen (49 Prozent). Dazu
+f&#252;hrten Ma&#223;nahmen wie Personalkosten (73 Prozent), Aufbau/ &#196;nderung einer IT-Infrastruktur (54 Prozent), Erstellung
+eines Ver&#246;ffentlichungskonzepts (35 Prozent), externe Personalaufw&#228;nde (23 Prozent) und sonstige Ma&#223;nahmen
+(15 Prozent). (Hinweis: F&#252;r die Angabe der Erf&#252;llungsaufw&#228;nde war in Frage D2 eine Mehrfachauswahl m&#246;glich.)
+&#8226; 47 Prozent geben an, dass ihnen keine einmaligen Erf&#252;llungsaufw&#228;nde durch &#167; 12a EGovG entstanden sind.
+&#8226; Im Hinblick auf die erwarteten Kosten12 beziffern 11 Prozent der Befragten die einmaligen Erf&#252;llungsaufw&#228;nde f&#252;r ihre
+Beh&#246;rde &lt; 16.000 eEro. 27 Prozent geben an, dass die Aufw&#228;nde f&#252;r einmalige Ma&#223;nahmen zwischen 16.000 Euro und 
+94.000 Euro lagen. Mehr als 94.000 Euro Ausgaben f&#252;r einmalige Ausgaben hatten 8 Prozent der Beh&#246;rden.
+&#8226; &#220;ber die H&#228;lfte gibt an, dass sie die Ausgaben, die hinter den Ma&#223;nahmen stehen, f&#252;r ihre Beh&#246;rde nicht beziffern k&#246;nnen
+(54 Prozent).
+Abbi ldung 19 Abbi ldung 20
+Einmalige Erf&#252;llungsaufw&#228;nde Ausgabenh&#246;he einmalige Ma&#223;nahmen 
+(Frage D1); n=53 (Frage D3); n=26
+49% 
+47% 
+4% 
+Ja Nein Keine Antwort 
+11% 
+27% 
+8% 
+54% 
+&lt; 16.000&#8364; 
+16.000&#8364; bis 94.000&#8364; 
+&gt; 94.000&#8364; 
+keine Aussage m&#246;glich 
+Hinweis: Die Frage D3 erlaubte eine Mehrfachauswahl. Sie wurde zudem nur gezeigt, wenn die Frage D1 mit &#8222;Ja&#8220; beantwortet
+wurde.
+12 Im Rahmen der Gesetzesfolgenabsch&#228;tzung wurde angenommen, dass ein einmaliger Erf&#252;llungsaufwand in H&#246;he von rund
+16.000 Euro bis 94.000 Euro je Beh&#246;rde zu ber&#252;cksichtigen ist (vgl. Bundestagsdrucksache 18/11614).
+J&#228;hrliche Erf&#252;llungsaufw&#228;nde 
+    
+    
+     
+ 
+   
+ 
+  
+  
+ 
+ 
+ 
+  
+   
+  
+     
+  
+ 
+Wesentliche Erkenntnisse13: 
+&#8226; Rund die H&#228;lfte der Beh&#246;rden hat j&#228;hrliche Erf&#252;llungsaufw&#228;nde, um &#167; 12a EGovG umzusetzen (49 Prozent). Dazu 
+f&#252;hren Aktivit&#228;ten wie Zeitaufwand f&#252;r Ver&#246;ffentlichung (85 Prozent), Zeitaufwand f&#252;r Pr&#252;fung eines Datensatzes (DS)
+auf Ver&#246;ffentlichung (62 Prozent), kontextbezogene Dienstreisen (15 Prozent) und sonstige Aktivit&#228;ten (38 Prozent).
+(Hinweis: F&#252;r die Angabe der Erf&#252;llungsaufw&#228;nde war in Frage D5 eine Mehrfachauswahl m&#246;glich.)
+&#8226; 47 Prozent der Beh&#246;rden geben an, dass ihnen keine j&#228;hrlichen Erf&#252;llungsaufw&#228;nde entstehen, um &#167; 12a EGovG 
+umzusetzen.
+Abbi ldung 21
+J&#228;hrliche Erf&#252;llungsaufw&#228;nde
+(Frage D4); n=53
+4% 
+49% 
+47% 
+Ja Nein Keine Antwort 
+&#8226; Der durchschnittliche Zeitaufwand f&#252;r die Pr&#252;fung eines Datensatzes auf Ver&#246;ffentlichung gem&#228;&#223; &#167; 12a EGovG wird 
+durch die Beh&#246;rden sehr unterschiedlich eingesch&#228;tzt. Am h&#228;ufigsten genannt wird eine Zeitspanne zwischen 15 und 
+60 Minuten pro Datensatz. (Ergebnis einer qualitativen Auswertung der Kommentare zu Frage D6.) 
+&#8226; Die Angaben zum ben&#246;tigten Zeitaufwand (in Minuten) f&#252;r die Ver&#246;ffentlichung eines Datensatzes gem&#228;&#223; &#167; 12a EGovG 
+und das Einstellen von Metadaten im nationalen Metadatenportal GovData variieren. Am h&#228;ufigsten genannt wird eine 
+Zeitspanne zwischen 10 und 30 Minuten pro Datensatz. Ergebnis einer qualitativen Auswertung der Kommentare zu 
+Frage D7.) 
+13 Im Rahmen der Gesetzesfolgenabsch&#228;tzung wurde angenommen, dass f&#252;r die Zurverf&#252;gungstellung elektronisch gespeicherter
+unbearbeiteter Daten als offene Daten gem&#228;&#223; &#167; 12a Absatz 1 Kosten in H&#246;he von 12 Euro bis 24 Euro je Datenbereitstellung entstehen 
+(vgl. Bundestagsdrucksache 18/11614).
+5.2.5 Hebel und Hemmnisse der Datenbereitstellung (Umfrage Teilbereich E)
+In diesem Abschnitt der Umfrage wurden basierend auf den Erfahrungen in den Beh&#246;rden Einsch&#228;tzungen zu
+Hebeln und Hemmnissen der Bereitstellung offener Daten in der unmittelbaren Bundesverwaltung abgefragt.
+Hemmnisse f&#252;r eine aktive Datenbereitstellung
+Wesentliche Erkenntnisse:
+&#8226; Durch die Befragten werden unzureichende (personelle) Ressourcen um sich mit dem Thema Open Data
+auseinanderzusetzen, am h&#228;ufigsten genannt (57 Prozent). Unzureichendes Wissen der Mitarbeiter im Umgang mit offenen Daten
+(40 Prozent) sowie &#252;ber die Potenziale der Weiterverwendung bereitgestellter Daten (38 Prozent) folgen.
+&#8226; Ein unzureichender Austausch mit den Datennutzern (21 Prozent) sowie eine unzureichende Ver&#228;nderungsbegleitung in
+den Beh&#246;rden (15 Prozent) hemmen nach Einsch&#228;tzung der Befragten die Datenbereitstellung in geringerem Ma&#223;e.
+&#8226; 28 Prozent geben sonstige Gr&#252;nde an, wie Sicherheitsbedenken, Unsicherheit der Besch&#228;ftigten, Umst&#228;ndlichkeit der
+Datenbereitstellung oder fehlende Rechte an den Daten.
+Abbi ldung 22
+Hemmnisse der Datenbereitstellung
+(Frage E1); n=53
+Unzureichendes Wissen der Mitarbeiter/innen im 
+Umgang mit offenen Daten 
+Unzureichende Ressourcen, um sich mit dem 
+Thema Open Data auseinanderzusetzen 
+Unzureichender Austausch mit den 
+Datennutzer/innen 
+Unzureichende Ver&#228;nderungsbegleitung in den 
+Beh&#246;rden 
+Unzureichendes Wissen der Mitarbeiter/innen &#252;ber 
+die Potenziale der Weiterverwendung 
+bereitgestellter Daten 
+Sonstige Hemmnisse 
+Hinweis: Die Frage E1 erlaubte eine Mehrfachauswahl.
+40 % 
+57 % 
+21 % 
+15 % 
+38 % 
+28 %
+Hebel f&#252;r eine aktive Datenbereitstellung
+Wesentliche Erkenntnisse:
+&#8226; Nach Einsch&#228;tzung der Befragten k&#246;nnen Ma&#223;nahmen, wie u. a. die Information, Beratung und Aufkl&#228;rung &#252;ber den 
+Nutzen von Open Data, Beispiele erfolgreicher Weiterverwendung und Nutzer-Feedback sowie die Schaffung von
+Ressourcen und Stellen eine aktive Bereitstellung von Daten durch die Beh&#246;rden der unmittelbaren Bundesverwaltung und 
+den gew&#252;nschten Kulturwandel bef&#246;rdern.
+Abbi ldung 23
+Hebel f&#252;r aktive Datenbereitstellung (nach H&#228;ufigkeit der Nennung als Kommentar)
+(Frage E2); n=53
+Information und Beratung sowie Aufkl&#228;rung &#252;ber den 
+Nutzen von Open Data 
+Beispiele erfolgreicher Weiterverwendung von Daten, 
+bzw. Nutzer-Feedback 
+Ressourcen, Stellen, Definition von Zust&#228;ndigkeiten und 
+Schulungen 
+Austausch mit Nutzer/innen zu ihren Datenbed&#252;rfnissen 
+Rechtliche Hemmnisse beseitigen; gesetzliche 
+Verpflichtung zur Bereitstellung spezifizieren 
+Nutzerfreundlichkeit und Feedback zu Daten auf 
+GovData 
+10% 
+8% 
+8% 
+5% 
+5% 
+4% 
+Hinweis: Ergebnis einer qualitativen Auswertung der Kommentare zu Frage E2. Die Grafik dient allein der Visualisierung der
+H&#228;ufigkeit.
+6 Wirkungen des Gesetzes
+Ziel der gesetzlich veranlassten Bereitstellung der in den Beh&#246;rden der unmittelbaren Bundesverwaltung
+vorliegenden Daten als offene Daten (&#8222;Open-by-Default&#8220;) ist es, einen Kulturwandel im Umgang mit den im
+Rahmen der &#246;ffentlich-rechtlichen Aufgabenerf&#252;llung erlangten Daten zu erreichen.
+6.1 Einsch&#228;tzung zum Erreichungsgrad der gesetzlichen Ziele
+Die standardm&#228;&#223;ige Ver&#246;ffentlichung von Daten erfordert von der Verwaltung ein Umdenken im Umgang mit
+ihren eigenen Daten. Neben neuen Arbeitsschritten sowie &#196;nderungen organisatorischer und technischer
+Prozesse bedarf es vor allem eines Verst&#228;ndnisses hinsichtlich der Potenziale von offenen Daten, die f&#252;r Dritte
+innerhalb und au&#223;erhalb der Verwaltung zug&#228;nglich und nutzbar gemacht werden.
+Wissen und Bewusstsein f&#252;r den Umgang mit diesen Daten m&#252;ssen den Mitarbeiterinnen und Mitarbeitern in
+den Beh&#246;rden vermittelt und m&#246;gliche bestehende Vorbehalte im Hinblick auf die erforderlichen
+Ver&#228;nderungen abgebaut werden. Hierf&#252;r bedarf es insbesondere einer langfristigen und nachhaltigen kommunikativen 
+Begleitung der &#196;nderungsprozesse.
+6.1.1 Kulturwandel in den Beh&#246;rden
+Die Umfrageergebnisse (siehe Kapitel 5) zeigen, dass allein das Inkrafttreten einer gesetzlichen Regelung nicht
+ausreichend ist, um einen Kulturwandel in den Beh&#246;rden herbeizuf&#252;hren.
+72 Prozent der Beh&#246;rden haben im Rahmen der Befragung angegeben, dass das Inkrafttreten des Open-Data-
+Gesetzes nach ihrer Einsch&#228;tzung nicht dazu gef&#252;hrt hat, dass mehr Daten bereitgestellt werden. Aufgrund von 
+Erfahrungswerten aus anderen Industrienationen, die bereits erste Erfahrungen im Bereich Open Data
+gesammelt haben, war im Gesetzentwurf davon ausgegangen worden, dass jede Beh&#246;rde Datens&#228;tze in einer
+Gr&#246;&#223;enordnung von 50 bis 100 pro Jahr zur Verf&#252;gung stellen wird. 64 Prozent der Befragten haben hingegen
+angegeben, dass in ihrer Beh&#246;rde seit dem Inkrafttreten des &#8222;Open-Data-Gesetzes&#8220; weniger als 50 Datens&#228;tze
+ver&#246;ffentlicht und beschreibenden Metadaten bei GovData eingestellt wurden. Nur rund einem Drittel der Beh&#246;rden
+sind Anwendungsf&#228;lle f&#252;r die Nachnutzung ihrer ver&#246;ffentlichten Daten bekannt (30 Prozent).
+F&#252;r die Herbeif&#252;hrung des notwendigen Kulturwandels ist auch die Konzeption und Umsetzung eines
+Ver&#228;nderungsmanagements in den Beh&#246;rden erforderlich. Bereits im Rahmen des Gesetzgebungsverfahrens war
+betont worden, dass die &#252;berwiegende Mehrzahl der Bundesbeh&#246;rden mit der Umsetzung einer Open-Data-
+Strategie nicht begonnen und deshalb keinerlei Erfahrung in diesem Bereich hat. Vielmehr wurde erwartet, dass erst
+im Zuge der Einf&#252;hrung einer Open-Data-Regelung &#252;ber eine konkrete Umsetzung nachgedacht wird.
+Insofern ist positiv hervorzuheben, dass 74 Prozent der an der Umfrage teilgenommenen Beh&#246;rden angeben,
+bereits mindestens einen Open-Data-Verantwortlichen14 zu haben, zu dessen Aufgaben u. a. die Koordinierung 
+des Themas in der Beh&#246;rde, die Abfrage, Pr&#252;fung, Ver&#246;ffentlichung und Aktualisierung von Daten, Information
+und Beratung sowie konzeptionelle T&#228;tigkeiten wie die Erstellung einer Open-Data-Strategie geh&#246;ren werden. 
+15 Beh&#246;rden verf&#252;gen zudem bereits &#252;ber eine Open-Data-Strategie, bei 9 Beh&#246;rden ist eine solche Strategie in
+Planung.
+Die Mehrzahl der Beh&#246;rden hat allerdings die Umsetzung des &#167; 12a EGovG bisher nicht mit
+Ver&#228;nderungsma&#223;nahmen wie Schulungen (nur 2 Prozent) und Informationsveranstaltungen (nur 26 Prozent) begleitet sowie
+keine Informationsmaterialien (nur 34 Prozent) f&#252;r die Mitarbeiterinnen und Mitarbeiter erstellt.
+Dar&#252;ber hinaus gibt &#252;ber die H&#228;lfte der an der Umfrage teilgenommenen Beh&#246;rden an, die Anforderungen an 
+die Bereitstellung von offenen Daten noch nicht gem&#228;&#223; &#167; 12a Absatz 7 EGovG fr&#252;hzeitig bei der Optimierung
+von Verwaltungsabl&#228;ufen, dem Abschluss von vertraglichen Regelungen zur Erhebung oder Verarbeitung der
+Daten sowie bei der Beschaffung von informationstechnischen Systemen f&#252;r die Speicherung und Verarbeitung
+der Daten zu ber&#252;cksichtigen. Als Gr&#252;nde hierf&#252;r werden u. a. angegeben, dass Open Data allgemein bzw. der
+Ver&#246;ffentlichungsprozess sich noch in der Aufbauphase befindet und personelle Ressourcen fehlen.
+14 vgl. hierzu auch Open Data Handbuch, S. 37, 2.4.3.
+6.1.2 Zentrale Stelle / Kompetenzzentrum Open Data
+Ziel der Errichtung einer zentralen Stelle f&#252;r die Beratung der Beh&#246;rden der unmittelbaren Bundesverwaltung
+zu Fragen der Bereitstellung von offenen Daten ist es, den notwendigen Kulturwandel zu bef&#246;rdern.
+Positiv ist daher hervorzuheben, dass 81 Prozent der Beh&#246;rden die beim BVA eingerichtete zentrale Stelle und
+79 Prozent die von der zentralen Stelle unter www.verwaltung-innovativ.de bereitgestellten
+Unterst&#252;tzungsmaterialien kennen. 79 Prozent haben das Beratungsangebot der zentralen Stelle allerdings noch nicht genutzt,
+obwohl Unterst&#252;tzungsbedarf durch die zentrale Stelle insbesondere bei der Identifikation von Open-Data-
+f&#228;higen Daten (43 Prozent), der Bereitstellung von Metadaten (40 Prozent) und dem Ausbau standardisierter
+Prozesse (28 Prozent) gesehen wird.
+W&#228;hrend die zentrale Stelle erste Arbeiten im Hinblick auf ihre gesetzliche Aufgabe umgesetzt hat, wie die
+Bereitstellung von Informationsmaterialien, k&#246;nnen andere Bereiche nur sukzessive umgesetzt werden, wie die
+&#214;ffentlichkeitsarbeit oder befinden sich derzeit noch in der Konzeptionsphase, wie etwa ein Schulungskonzept.
+Zu ber&#252;cksichtigen ist dabei, dass der Gesetzentwurf f&#252;r das Einrichten einer zentralen Stelle zur Beratung bei
+der Einf&#252;hrung von Open Data von einem Bedarf von vier Stellen &#8211; eine h&#246;herer Dienst, drei gehobener Dienst
+&#8211; ausgeht sowie &#252;bergangsweise f&#252;r den erh&#246;hten Beratungsbedarf zu Beginn von zwei weiteren Stellen &#8211; eine 
+h&#246;herer Dienst, eine gehobener Dienst. Bisher sind f&#252;r das Einrichten der zentralen Stelle keine zus&#228;tzlichen 
+Planstellen bewilligt worden. Die Arbeiten werden gegenw&#228;rtig durch zwei Besch&#228;ftigte des gehobenen
+Dienstes mit Planstellen des BVA f&#252;r die Organisationsberatung durchgef&#252;hrt.
+Die M&#246;glichkeiten, die die Einrichtung einer zentralen Stelle f&#252;r die notwendige Begleitung der Beh&#246;rden im
+Hinblick auf den Kulturwandel im Umgang mit den eigenen Daten bietet, konnten bisher nicht umfassend zum
+Tragen kommen. Es ist anzunehmen, dass viele der bereits geplanten Ma&#223;nahmen zur Unterst&#252;tzung der
+Beh&#246;rden weiter vorangeschritten w&#228;ren, wenn der zentralen Stelle bereits die im Gesetzentwurf angenommenen
+Planstellen zur Verf&#252;gung st&#252;nden. Insgesamt ist die Begleitung eines Kulturwandels ein Prozess, der eines
+l&#228;ngeren als des bisher betrachteten Zeitraums bedarf.
+6.1.3 Hebel und Hemmnisse f&#252;r die Datenbereitstellung
+Trotz Fortschritten bei der Bereitstellung offener Daten in einer Vielzahl von Beh&#246;rden seit Inkrafttreten des
+&#167; 12a EGovG, werden auch Hemmnisse f&#252;r dessen Umsetzung ausgemacht. Am h&#228;ufigsten (57 Prozent) haben 
+die Beh&#246;rden im Rahmen der Umfrage unzureichende (personelle) Ressourcen, um sich mit dem Thema Open
+Data auseinanderzusetzen, angegeben. Auch bei anderen Fragen, etwa nach den Gr&#252;nden warum es keinen
+Open-Data-Verantwortlichen gibt, der Nichtinanspruchnahme des Unterst&#252;tzungsangebots der zentralen Stelle,
+der fehlenden Ber&#252;cksichtigung von Open Data bei der Optimierung von Verwaltungsabl&#228;ufen, dem Abschluss
+von vertraglichen Regelungen und der Beschaffung von Datenverarbeitungssystemen gem&#228;&#223; &#167; 12a Absatz 7 
+EGovG werden insbesondere fehlende zeitliche Kapazit&#228;ten oder Personalmangel genannt. Als weitere
+Hemmnisse folgen unzureichendes Wissen der Mitarbeiterinnen und Mitarbeiter &#252;ber den Umgang mit offenen Daten
+(40 Prozent) sowie &#252;ber die Potenziale der Weiterverwendung bereitgestellter Daten (38 Prozent).
+Ein unzureichender Austausch mit den Datennutzerinnen und -nutzern (21 Prozent) sowie eine unzureichende 
+Ver&#228;nderungsbegleitung in den Beh&#246;rden (15 Prozent) hemmen nach Einsch&#228;tzung der Befragten die
+Datenbereitstellung in geringerem Ma&#223;e. 28 Prozent der Befragten geben sonstige Gr&#252;nde an, wie Sicherheitsbedenken,
+Umst&#228;ndlichkeit der Datenbereitstellung oder fehlende Rechte an den Daten.
+Neben den Hemmnissen wurden die Beh&#246;rden danach befragt, was nach ihrer Einsch&#228;tzung die aktive
+Bereitstellung von offenen Daten und den daf&#252;r erforderlichen Kulturwandel weiter bef&#246;rdern w&#252;rde. Am h&#228;ufigsten
+genannt wurden Information und Beratung sowie die Aufkl&#228;rung &#252;ber den Nutzen von Open Data, gefolgt von
+der Schaffung von Personalstellen, Durchf&#252;hrung von Schulungen, Anwendungsbeispiele (Use-Cases) f&#252;r die
+erfolgreiche Weiterverwendung von Daten sowie Nutzer-Feedback. 
+Weitere Vorschl&#228;ge f&#252;r Ma&#223;nahmen, um den Kulturwandel in den Beh&#246;rden zu bef&#246;rdern sind ein st&#228;rkerer
+Austausch mit den Datennutzerinnen und -nutzern, die Spezifizierung der gesetzlichen Verpflichtung zur
+Datenbereitstellung, die Beseitigung rechtlicher Hemmnisse und eine gr&#246;&#223;ere Nutzerfreundlichkeit des
+Metadatenportals GovData.
+6.2 Einsch&#228;tzung zum Erf&#252;llungsaufwand
+Dem Gesetz liegt die Annahme zugrunde, dass f&#252;r jede Beh&#246;rde, insbesondere durch den Aufbau einer
+IT-Infrastruktur und die Erstellung eines Ver&#246;ffentlichungskonzepts, ein einmaliger Erf&#252;llungsaufwand in H&#246;he
+von rund 16 000 bis 94 000 Euro zu ber&#252;cksichtigen ist. Hintergrund f&#252;r diese Spannweite ist die
+unterschiedliche Ausgangssituation der Beh&#246;rden im Hinblick darauf, dass einige bereits mit der Zulieferung von Daten
+vertraut sind und andere dagegen keinerlei ankn&#252;pfbare Strukturen f&#252;r die Zurverf&#252;gungstellung offener Daten
+haben.
+Im Rahmen der Umfrage haben etwa 47 Prozent der Beh&#246;rden angegeben, dass Ihnen keine einmaligen
+Erf&#252;llungsaufw&#228;nde entstanden sind. &#220;ber die H&#228;lfte der Befragten (54 Prozent) gibt zudem an, dass sie die
+Ausgaben f&#252;r Personalkosten, Aufbau oder &#196;nderung einer IT-Infrastruktur und der Erstellung eines
+Ver&#246;ffentlichungskonzepts f&#252;r ihre Beh&#246;rde nicht beziffern k&#246;nnen. Aus diesen Gr&#252;nden ist zum derzeitigen Zeitpunkt 
+eine belastbare Aussage zum einmaligen Erf&#252;llungsaufwand nicht m&#246;glich.
+Nach Angaben der Beh&#246;rden in der Umfrage vom April 2019 hat rund die H&#228;lfte der Befragten (49 Prozent) 
+j&#228;hrliche Erf&#252;llungsaufw&#228;nde f&#252;r die Umsetzung von &#167; 12a EGovG aufgrund des Zeitaufwands f&#252;r die
+Ver&#246;ffentlichung (85 Prozent), den Zeitaufwand f&#252;r die Pr&#252;fung eines Datensatzes auf Ver&#246;ffentlichung (62 Prozent), 
+kontextbezogene Dienstreisen (15 Prozent) und sonstige Aktivit&#228;ten (38 Prozent).
+47 Prozent der Beh&#246;rden haben angegeben, dass ihnen keine j&#228;hrlichen Erf&#252;llungsaufw&#228;nde entstehen. Auch
+der durchschnittliche Zeitaufwand f&#252;r die Pr&#252;fung eines Datensatzes auf Ver&#246;ffentlichung gem&#228;&#223; &#167; 12a EGovG
+wird durch die Beh&#246;rden sehr unterschiedlich eingesch&#228;tzt. Aus diesen Gr&#252;nden ist eine belastbare Aussage
+zum j&#228;hrlichen Erf&#252;llungsaufwand gegenw&#228;rtig nicht m&#246;glich.
+7 &#220;berlegungen f&#252;r ein 2. Open Data Gesetz
+Im Koalitionsvertrag haben sich die Regierungsparteien verpflichtet, &#8222;die Bereitstellung von Open Data im
+Rahmen eines zweiten Open-Data-Gesetzes auszuweiten&#8220;. Anhaltspunkte f&#252;r M&#246;glichkeiten zur Ausweitung
+der Bereitstellung von Open Data bietet zun&#228;chst Artikel 2 des Ersten Gesetzes zur &#196;nderung des E-
+Government-Gesetzes. Danach soll untersucht werden, ob es sich bew&#228;hrt hat, dass nur Beh&#246;rden der unmittelbaren
+Bundesverwaltung verpflichtet sind, offene Daten bereitzustellen und zu Forschungszwecken erhobene Daten
+von der Bereitstellungsverpflichtung ausgenommen bleiben sollen. Dar&#252;ber hinaus sollen f&#252;r &#220;berlegungen zur
+Weiterentwicklung des Gesetzes insbesondere die ersten Erfahrungen der Beh&#246;rden mit der Umsetzung des
+&#167; 12a EGovG ber&#252;cksichtigt werden. 
+7.1 Mittelbare Bundesverwaltung
+Nach &#167; 1 Absatz 1 EGovG gilt dieses Gesetz f&#252;r die &#246;ffentlich-rechtliche Verwaltungst&#228;tigkeit der Beh&#246;rden
+des Bundes einschlie&#223;lich der bundesunmittelbaren K&#246;rperschaften, Anstalten und Stiftungen des &#246;ffentlichen
+Rechts. F&#252;r die Bereitstellung von offenen Daten gilt eine Ausnahme von dem Anwendungsbereich dieses
+Gesetzes im Hinblick darauf, dass &#167; 12a EGovG ausschlie&#223;lich die Beh&#246;rden der unmittelbaren Bundesverwaltung
+zur Bereitstellung von offenen Daten verpflichtet.
+Um den Gedanken einer m&#246;glichst umfassenden Ver&#246;ffentlichung von Daten aus der von Deutschland
+unterzeichneten Open-Data-Charta der G8-Staaten zu st&#228;rken, wurde allerdings als besonderer
+Untersuchungsgegenstand der Evaluierung der Geltungsbereich der Regelung aufgenommen.
+Dem Gesetzgebungsverfahren zum Ersten Gesetz zur &#196;nderung des EGovG lag die Annahme zu Grunde, dass
+viele Beh&#246;rden erst mit Inkrafttreten des Gesetzes &#252;ber eine konkrete Umsetzung der Open-Data-Regelung 
+nachdenken w&#252;rden. Diese Annahme wird durch die Online-Umfrage vom April 2019 best&#228;tigt. Der
+gew&#252;nschte und notwendige Kulturwandel hat gerade erst begonnen. Bei den meisten Beh&#246;rden der unmittelbaren
+Bundesverwaltung findet die notwendige Ver&#228;nderungsbegleitung noch nicht statt oder befindet sich noch in
+den Anf&#228;ngen. Die Anforderungen an Open Data werden noch nicht bei allen Beh&#246;rden gem&#228;&#223; &#167; 12a Absatz 7 
+EGovG bei der Optimierung von Verwaltungsabl&#228;ufen, bei Vertragsabschl&#252;ssen und der Beschaffung von
+Informationssystemen fr&#252;hzeitig ber&#252;cksichtigt, die zentrale Beratungsstelle f&#252;r die Beh&#246;rden &#8211; das
+Kompetenzzentrum Open Data &#8211; der eine Schl&#252;sselrolle f&#252;r den Kulturwandel zugedacht ist, befindet sich noch im Aufbau
+und auch die Anbindung an das nationale Metadatenportal GovData f&#252;r alle Beh&#246;rden der unmittelbaren
+Bundesverwaltung, die eine teilautomatisierte und damit vereinfachte Bereitstellung von Metadaten erm&#246;glicht,
+steht gegenw&#228;rtig noch nicht zur Verf&#252;gung.
+Insofern hat es sich bew&#228;hrt, dass nicht alle Beh&#246;rden des Bundes, sondern nur die der unmittelbaren
+Bundesverwaltung, gesetzlich verpflichtet sind, offene Daten bereit zu stellen. Diese gesetzliche Ausnahme schlie&#223;t
+zudem eine freiwillige Bereitstellung offener Daten durch die bundesunmittelbaren K&#246;rperschaften, Anstalten
+und Stiftungen des &#246;ffentlichen Rechts nicht aus.
+Seit Inkrafttreten des Ersten Gesetzes zur &#196;nderung des E-Government Gesetzes hat allerdings die Erkenntnis
+&#252;ber die Bedeutsamkeit der Bereitstellung offener Daten durch die Beh&#246;rden der Bundesverwaltung weiter
+zugenommen. Das Thema Open Data findet zahlreiche Ankn&#252;pfungspunkte und ist ein wichtiger Baustein f&#252;r die
+digitale Transformation der Bundesregierung. So findet sich beispielsweise in der Strategie K&#252;nstliche
+Intelligenz der Bundesregierung (KI-Strategie) der Hinweis, dass die datenschutzkonforme Bereitstellung offener
+Verwaltungsdaten f&#252;r die uneingeschr&#228;nkte Weiterverwendung k&#252;nftig ausgeweitet werden soll.15 Sollen
+k&#252;nftig mehr offene Daten bereitgestellt werden, so ist auch mit Blick auf eine m&#246;glichst umfassende
+Ver&#246;ffentlichung von Daten des Bundes zu &#252;berlegen, den Kreis der verpflichteten Datenbereitsteller auszuweiten. Da
+gerade die schwerpunktm&#228;&#223;ig operativ t&#228;tigen Gesch&#228;ftsbereichsbeh&#246;rden der Bundesverwaltung, weniger die
+Ministerien, zur Erf&#252;llung ihrer &#246;ffentlich-rechtlichen Aufgaben Daten erheben, liegen auch bei der mittelbaren
+Bundesverwaltung zahlreiche Daten vor. Vor diesem Hintergrund sollte gepr&#252;ft werden, den
+Anwendungsbereich des &#167; 12a EGovG auf die bundesunmittelbaren K&#246;rperschaften, Anstalten und Stiftungen des &#246;ffentlichen 
+Rechts auszuweiten. Entscheidend f&#252;r eine Ausweitung w&#228;re allerdings, dass der Aufbau des
+Kompetenzzentrums Open Data bis dahin abgeschlossen ist und mit Blick auf mehr Datenbereitsteller auf Bundesebene,
+zus&#228;tzlich noch weitere Planstellen zur Verf&#252;gung st&#252;nden, die deren Beratung erm&#246;glichen.
+15 KI-Strategie der Bundesregierung, S. 32.
+7.2 Forschungsdaten
+Die Pflicht zur Bereitstellung unbearbeiteter Daten durch die Beh&#246;rden der unmittelbaren Bundesverwaltung
+gilt gem&#228;&#223; &#167; 12a Absatz 2 Nummer 5 EGovG nicht f&#252;r Daten, die f&#252;r Forschungszwecke erhoben wurden.
+Aus Sicht der Bundesregierung hat sich diese Ausnahme bew&#228;hrt. Die Regelung soll daher beibehalten werden.
+Der Bereich der Forschungsdaten ist &#8211; auch &#252;ber die unmittelbare Bundesverwaltung hinaus &#8211; eine gesondert
+gelagerte, komplexe Materie, die individuelle L&#246;sungen und spezifische, forschungsad&#228;quate Regelungen zur
+Offenlegung erfordert. Dies w&#228;re durch die pauschale Einbeziehung von Forschungsdaten der Verwaltung in
+die Bereitstellungspflicht nach &#167; 12a EGovG nicht gew&#228;hrleistet. Umgekehrt erm&#246;glicht es die
+Ausnahmeregelung zu den Forschungsdaten im EGovG, dass sich &#8211; entsprechend der gesetzgeberischen Intention &#8211; spezifische
+Initiativen und passgenaue Regelungen zur Ver&#246;ffentlichung von Forschungsdaten entwickeln k&#246;nnen, bereits
+initiiert wurden oder k&#252;nftig geplant sind. Beispiele hierf&#252;r sind die erheblichen Anstrengungen zum Aufbau 
+der Nationalen Forschungsdateninfrastruktur (NFDI). Diese wird von Bund und L&#228;ndern bis 2028 mit bis zu
+90 Mio. Euro j&#228;hrlich unterst&#252;tzt. Sie wird nicht nur zu einem verbesserten Angebot, sondern auch zu einem
+tats&#228;chlich verbesserten Zugang zu Forschungsdaten nach den FAIR-Prinzipien (auffindbar &#8211; Findable,
+zug&#228;nglich &#8211; Accessible, interoperabel &#8211; Interoperable, wiederverwendbar &#8211; Reusable) f&#252;hren.
+Im Bereich Open Access (als Unterpunkt zu Open Science) im Sinne des unentgeltlichen Zugangs zu
+wissenschaftlichen Publikationen &#252;ber das Internet gew&#228;hrleistet die Umsetzung der Open-Access-Strategie des
+Bundesministeriums f&#252;r Bildung und Forschung (BMBF), die u. a. die Aufnahme einer Open Access-Klausel in die
+F&#246;rderregularien der BMBF-Projektf&#246;rderung umfasst, einen effektiven Zugang zu den Ergebnissen
+wissenschaftlicher Forschung. Sie wird zu einer nationalen Open-Access-Strategie weiterentwickelt mit der Zielmarke,
+bis 2025 70 Prozent aller wissenschaftlichen Publikationen (auch) per Open Access zu ver&#246;ffentlichen.
+Bei der aktuell geplanten Neufassung der PSI-Richtlinie zur Weiterverwendung von &#246;ffentlichen Informationen
+(Re-use of Public Sector Information) wurde die bisher enthaltene Ausnahme f&#252;r Forschungsdaten gestrichen
+und die Weiterverwendung von &#246;ffentlich finanzierten Forschungsdaten f&#252;r bereits &#246;ffentlich zug&#228;ngliche
+Daten zugelassen (Artikel 10 Absatz 2 RL). Die Richtlinie verpflichtet zus&#228;tzlich die Mitgliedstaaten, die
+Verf&#252;gbarkeit von Forschungsdaten durch die Annahme nationaler Strategien und einschl&#228;giger Ma&#223;nahmen mit dem
+Ziel, &#246;ffentlich finanzierte Forschungsdaten nach dem Grundsatz der &#8222;standardm&#228;&#223;ig offenen Daten&#8220; und im
+Einklang mit den FAIR-Grunds&#228;tzen offen zug&#228;nglich zu machen (Artikel 10 Absatz 1 der RL). Rechte des
+geistigen Eigentums, der Schutz personenbezogener Daten sowie Vertraulichkeit, Sicherheit und legitime
+Gesch&#228;ftsinteressen sind dabei nach dem Grundsatz &#8222;so offen wie m&#246;glich, so geschlossen wie n&#246;tig&#8220; zu
+ber&#252;cksichtigen. Die Umsetzung der PSI-RL wird im Informationsweiterverwendungsgesetz (IWG), die Umsetzung
+der &#8222;nationalen Strategie&#8220; wird durch das BMBF erfolgen.
+Die genannten &#252;bergreifenden Ans&#228;tze werden durch zahlreiche Einzelinitiativen zum Umgang und zur
+Ver&#246;ffentlichung von Forschungsdaten erg&#228;nzt, auch im Verwaltungsbereich (z. B. Data Policy f&#252;r das Robert Koch-
+Institut; Konzept zum Forschungsdatenmanagement der Physikalisch-Technischen Bundesanstalt). Diese und
+andere Initiativen orientieren sich passgenau an den spezifischen Bedarfen von Forschung und Wissenschaft.
+Erforderlich ist stets ein umfassendes, qualit&#228;tsgesichertes Forschungsdatenmanagement, und zwar unabh&#228;ngig
+davon, ob es sich um Verwaltungsdaten oder sonstige Datenquellen handelt. Das Forschungsdatenmanagement 
+dient nicht nur der Transparenz der erbrachten Forschungsleistung. Einmal erhobene Daten k&#246;nnen
+Ausgangspunkt f&#252;r neue Fragestellungen sein und sollen, wenn es m&#246;glich ist, in geeigneter Form zur Nachnutzung
+aufbereitet und zur Verf&#252;gung gestellt werden. Den spezifischen Besonderheiten der deutschen
+Forschungslandschaft muss dabei jedoch Rechnung getragen werden. Das Ziel sind daher individuelle L&#246;sungen im Sinne einer
+optimalen Weiterverwendung von Forschungsdaten anstatt einer pauschalen und undifferenzierten Offenheit.
+Hierf&#252;r hat sich die Bundesregierung bei den Verhandlungen zur Novellierung der PSI-Richtlinie erfolgreich
+eingesetzt.
+Eine ungefilterte, nicht qualit&#228;tsgesicherte Ver&#246;ffentlichung von Rohdaten k&#246;nnte dagegen bedeuten, dass auch
+Datenfehler, Dubletten und Widerspr&#252;che, die bei jeder Erhebung auftreten, frei zug&#228;nglich w&#228;ren. Ohne
+sachgerechte Einordnung der Daten best&#252;nde ein erhebliches Risiko f&#252;r Fehlinterpretationen.
+7.3 Open-Data-Verantwortliche
+Ausgehend von dem Ziel der Bundesregierung, die Bereitstellung von Open Data auszuweiten, sind auch die
+bisherigen Erfahrungen der Beh&#246;rden bei der Umsetzung des &#167; 12a EGovG f&#252;r die Weiterentwicklung des
+Gesetzes zu ber&#252;cksichtigen. Im Rahmen der Umfrage haben diese unzureichende Ressourcen, um sich mit dem
+Thema Open Data auseinanderzusetzen, als das gr&#246;&#223;te Hemmnis f&#252;r eine aktive Datenbereitstellung genannt.
+Auch bei der Frage nach den Gr&#252;nden f&#252;r das Fehlen eines Open-Data-Verantwortlichen, der
+Nichtinanspruchnahme des Beratungsangebots der zentralen Stelle, der fehlenden Ber&#252;cksichtigung von Open Data bei der
+Optimierung von Verwaltungsabl&#228;ufen und dem ausstehenden Ver&#228;nderungsmanagement in den Beh&#246;rden werden 
+jeweils Personalmangel, fehlende zeitliche Kapazit&#228;ten oder anderweitige Priorit&#228;ten angegeben.
+Auf der anderen Seite werden Information und Beratung sowie Aufkl&#228;rung &#252;ber den Nutzen von Open Data am
+h&#228;ufigsten als Hebel f&#252;r mehr Open Data angenommen. Eine wichtige Rolle spielt hier das Beratungs- und
+Informationsangebot des Kompetenzzentrums Open Data. Im Hinblick auf die Bedeutung, denen offene Daten
+f&#252;r das Gemeinwohl zuerkannt werden sowie auf die Vorreiterrolle, die die Verwaltung hier einnehmen will,
+muss jedoch auch in den einzelnen Beh&#246;rden selbst der notwendige Kulturwandel aktiv angegangen werden. 
+Die gesetzliche Verpflichtung zur Bereitstellung von Open Data hat bei den Beh&#246;rden dazu gef&#252;hrt, dass sich
+diese mit dem Thema befassen. Um die Umsetzung von Open nachhaltig voranzutreiben und die Bereitstellung
+von Open Data Teil des t&#228;glichen Verwaltungshandelns werden zu lassen, bedarf es in den einzelnen Beh&#246;rden
+weiterer Anstrengungen, insbesondere einer eindeutigen Verortung der mit dieser Verantwortlichkeit f&#252;r das
+Thema im Haus einhergehenden Aufgaben.
+Die Festschreibung von Funktion und Aufgaben eines Open Data-Verantwortlichen in &#167; 12a EGovG kann einen 
+wichtigen Beitrag zu dessen Sichtbarkeit f&#252;r die Mitarbeiterinnen und Mitarbeiter sowie f&#252;r die Beh&#246;rdenleitung
+leisten und der Umsetzung von Open Data in den Beh&#246;rden eine gr&#246;&#223;ere Priorit&#228;t zukommen lassen. Zudem
+h&#228;tte das Kompetenzzentrum Open Data eindeutige Ansprechpartner im Hinblick auf Schulungs- und
+Informationsveranstaltungen ebenso wie die jeweiligen Open-Data-Verantwortlichen anderer Beh&#246;rden im Hinblick auf
+einen gemeinsamen Erfahrungsaustausch zu Open Data.
+Die konkrete Organisation und Ausgestaltung dieser Verantwortung sollten die Beh&#246;rden, ebenso wie dies bei
+anderen Beauftragten der Fall ist, in eigener Verantwortung entscheiden k&#246;nnen. Damit der Open-Data-
+Verantwortliche die Aufgaben auch effektiv umsetzen kann, erscheint es empfehlenswert, diese Funktion in
+Abh&#228;ngigkeit von der Gr&#246;&#223;e der Beh&#246;rde mit eigenen Ressourcen auszustatten.
+        
+ 
+ 
+   
+     
+     
+   
+       
+   
+ 
+     
+    
+  
+   
+    
+      
+     
+ 
+ 
+     
+    
+     
+    
+        
+   
+      
+        
+   
+        
+  
+   
+     
+   
+    
+  
+ 
+      
+       
+    
+ 
+  
+                                                        
+      
+  
+8
+Weitere Ma&#223;nahmen
+Die Umsetzung des &#167; 12a EGovG durch die Beh&#246;rden der unmittelbaren Bundesverwaltung hat begonnen. Die 
+Aufnahme einer gesetzlichen Verpflichtung offene Daten bereit zu stellen, war ein wichtiger Schritt, um den
+f&#252;r die verbesserte quantitative und qualitative Bereitstellung von Open Data notwendigen Kulturwandel in den
+Beh&#246;rden hin zu mehr &#214;ffentlichkeit anzusto&#223;en. Entscheidend ist es nun, neben den genannten weiteren
+rechtlichen Regelungen, um die Bereitstellung von mehr offenen Daten zu f&#246;rdern, die Umsetzung dieses Gesetzes
+auch durch untergesetzliche Ma&#223;nahmen zu begleiten.
+Verschiedene Ma&#223;nahmen, wie bspw. die personelle St&#228;rkung des Kompetenzzentrums Open Data, um dieses
+auch personell in die Lage zu versetzen, die angedachte Rolle und die Ziele des Open-Data-Gesetzes durch 
+Kommunikationsma&#223;nahmen, Beratung und Schulungen umzusetzen und wahrzunehmen, sind in diesem
+Bericht bereits an verschiedenen Stellen erw&#228;hnt worden.
+Weiterhin beabsichtigt die Bundesregierung den Austausch mit potenziellen Datennutzern wie Zivilgesellschaft
+und Wirtschaft zu st&#228;rken. Der 1. Nationale Aktionsplan zur Teilnahme Deutschlands an der Open Government 
+Partnership enth&#228;lt bereits die Verpflichtung, &#8222;zur F&#246;rderung der Bereitstellung von Open Data soll der Dialog
+mit Wissenschaft, Zivilgesellschaft, Wirtschaft und internationalen Partnern intensiviert werden, um den Bedarf
+an Open Data zu er&#246;rtern, die Qualit&#228;t der Ver&#246;ffentlichungspraxis zu erh&#246;hen und Erfahrungen
+auszutauschen&#8220;.16 Hieran soll im 2. Nationalen Aktionsplan f&#252;r die Jahre 2019 bis 2021 angekn&#252;pft werden, um einen 
+regelm&#228;&#223;igen Austausch auszubauen und zu verstetigen.
+Um dem im Koalitionsvertrag formulierten Anspruch &#8211; im Bereich Open Data international f&#252;hrend zu werden
+&#8211; nachzukommen, muss das Metadatenportal GovData verbessert werden. Laut der EDP-Maturit&#228;tsstudie 2018 
+(&#8222;Open Data Maturity in Europe 2018&#8220;) sind die Portalfunktionalit&#228;ten von GovData der in Deutschland am
+schw&#228;chsten bewertete Open-Data-Bereich, welcher zudem im europ&#228;ischen Vergleich unter dem Durchschnitt
+liegt. Ein modernes und zeitgem&#228;&#223;es Metadatenportal kann einen Beitrag dazu leisten, dass mehr offene Daten
+von der Verwaltung bereitgestellt werden, etwa indem hier Beispiele f&#252;r die Nachnutzung von Daten
+ver&#246;ffentlicht werden, und diese durch die Datennutzer auch besser aufgefunden werden.
+Die mit &#167; 12a EGovG einhergehenden Ziele bedeuten einen langfristigen und begleiteten Kulturwandel, einen
+Paradigmenwechsel hin zu mehr Offenheit und Transparenz. Die Bundesregierung beabsichtigt, eine Open-
+Data-Strategie zu erstellen, die sowohl die Ziele der Bereitstellung offener Daten als auch Meilensteine zu deren
+Erreichung zusammenfasst. Auf diese Weise soll beh&#246;rden- und ebenen&#252;bergreifend ein gemeinsames,
+einheitliches Bekenntnis zu Open Data und dessen Umsetzung festgeschrieben werden. Gleichzeitig ist es erforderlich,
+dass Thema Open Data querschnittlich zu denken und auch strategisch in Bezug zu anderen Aufgaben zu setzen.
+Hierf&#252;r kann eine Open-Data-Strategie des Bundes einen wichtigen Beitrag leisten.
+Die verschiedenen Ma&#223;nahmen zur Verbesserung der Bereitstellung von offenen Daten durch die
+Bundesverwaltung sollen in der Strategie zusammenfassend aufgef&#252;hrt und regelm&#228;&#223;ig fortgeschrieben werden, denn es
+bedarf langfristiger Anstrengungen, wenn die Verwaltung im Hinblick auf die Bedeutung offener Daten f&#252;r das
+Gemeinwohl und f&#252;r die Entwicklung k&#252;nftiger digitaler Technologien und Ideen eine Vorreiterrolle beim
+Datenteilen einnehmen will.
+16 Vgl. 1. Nationaler Aktionsplan zur Teilnahme Deutschlands an der Open Government Partnership, Verpflichtung 3, F&#246;rderung des
+Open Data Umfeldes.
+     
+  
+ 
+  
+   
+   
+9
+Anlagen
+Anlage
+Nr. Titel
+1 &#220;bersicht der zur&#252;ckmeldenden Beh&#246;rden
+2 Fragenkatalog zur Umfrage Berichtspflicht &#167; 12a EGovG und Evaluierung
+10 Tabellen- und Abbildungsverzeichnis
+10.1 Tabellen
+Seite
+Tabelle 1: &#220;bersicht &#167; 12a EGovG....................................................... 5
+Tabelle 2: &#220;bersicht &#167; 19 EGovG ........................................................ 7
+Tabelle 3: Gliederung des Fragenkatalogs der Online-Umfrage .......... 12
+10.2 Abbildungen
+Abbildung 1: Vorhandensein Open-Data-Verantwortliche/r
+(Frage A2); n=53 ................................................................. 13
+Abbildung 2: Anzahl Open-Data-Verantwortliche/r
+(Frage A3); n=39 ................................................................. 13
+Abbildung 3: Organisatorische Verortung Open-Data-Verantwortliche/r
+(Frage A4); n=39 ................................................................. 13
+Abbildung 4: Aktive Inanspruchnahme der/s Verantwortlichen zur
+Datenbereitstellung (Frage A6); n=39................................. 14
+Abbildung 5: Vorhandensein einer Open-Data-Strategie
+(Frage A9); n=53 ................................................................. 15
+Abbildung 6: Innerbeh&#246;rdlicher Austausch der
+Open-Data-Verantwortlichen (Frage A7); n=12 ................. 16
+Abbildung 7: &#220;berbeh&#246;rdlicher Austausch der
+Open-Data-Verantwortlichen (Frage A8); n=39 ................. 16
+Abbildung 8: Bekanntheit der zentralen Stelle (Frage B1); n=53 ............. 17
+Abbildung 9: Bekanntheit und Nutzung des Beratungsangebots und
+der Unterst&#252;tzungsmaterialien
+(Fragen B2 &amp; B4); n=43 (beide) ......................................... 18
+Abbildung 10: Nutzung der Unterst&#252;tzungsmaterialien zur
+Umsetzung in Beh&#246;rde (Frage B5); n=34............................ 18
+Abbildung 11: Weiterer Unterst&#252;tzungsbedarf durch die zentrale Stelle 
+(Frage B6); n=53 ................................................................. 19
+Abbildung 12: H&#246;here Datenbereitstellung aufgrund &#167;12 a EGovG
+(Frage C5); n=53 ................................................................. 20
+Abbildung 13: Menge gepr&#252;fter und ver&#246;ffentlichter Datens&#228;tze 
+(Fragen C7 &amp; C8); n=53 (beide) ......................................... 21
+Abbildung 14: Bekanntheitsgrad von Anwendungsf&#228;llen der
+Weiterverwendung von Daten (Frage C9); n=53 ................ 22
+Abbildung 15: Organisation von Informationsveranstaltungen 
+aufgrund von &#167; 12a EGovG (Frage C1); n=53 .................... 23
+Abbildung 16: Erstellung von Informationsmaterialien aufgrund
+von &#167; 12a EGovG (Frage C2); n=53 ................................... 23
+Abbildung 17: Trainings oder Schulungen f&#252;r Mitarbeiter/innen
+aufgrund von &#167; 12a EGovG................................................. 23
+Abbildung 18: Ber&#252;cksichtigung der Anforderungen gem. &#167; 12a
+Absatz 7 EGovG (Frage C4); n=53 ..................................... 24
+Abbildung 19: Einmalige Erf&#252;llungsaufw&#228;nde (Frage D1); n=53 .............. 25
+Abbildung 20: Ausgabenh&#246;he einmalige Ma&#223;nahmen (Frage D3); 
+n=26..................................................................................... 25
+Abbildung 21: J&#228;hrliche Erf&#252;llungsaufw&#228;nde (Frage D4); n=53 ................ 26
+Abbildung 22: Hemmnisse der Datenbereitstellung (Frage E1); n=53........ 27
+Abbildung 23: Hebel f&#252;r aktive Datenbereitstellung (nach H&#228;ufigkeit
+der Nennung als Kommentar) (Frage E2); n=53 ................. 28
+      
+  
+  
+    
+  
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+   
+  
+   
+  
+   
+   
+  
+  
+  
+  
+  
+   
+ 
+  
+  
+11
+Abk&#252;rzungsverzeichnis
+BKAmt Bundeskanzleramt
+BKM Beauftragte der Bundesregierung f&#252;r Kultur und Medien
+BMBF Bundesministerium f&#252;r Bildung und Forschung
+BMI Bundesministerium des Innern, f&#252;r Bau und Heimat
+BMVI Bundesministerium f&#252;r Verkehr und digitale Infrastruktur
+BPA Bundespresseamt
+BVA Bundesverwaltungsamt
+BT-Drs. Bundestagsdrucksache
+CCOD Kompetenzzentrum Open Data
+DS Datensatz / Datens&#228;tze
+EDP European Data Portal
+EGovG E-Government-Gesetz
+GG Grundgesetz
+GKSt GovData Gesch&#228;fts- und Koordinierungsstelle GovData
+GovData Nationales Metadatenportal
+IODC Internationale Open Data Charta
+IWG Informationsweiterverwendungsgesetz
+KI-Strategie Strategie K&#252;nstliche Intelligenz der Bundesregierung
+KoITB Konferenz der IT-Beauftragten der Ressorts
+n Grundgesamtheit
+NFDI Nationale Forschungsdateninfrastruktur
+ODIS Open Data Informationsstelle Berlin
+OGD D-A-CH-Li Open Government Data Deutschland-&#214;sterreich-Schweiz-Liechtenstein
+OGP Open Government Partnership
+OPEN.NRW Open-Government- und Open-Data-Portal der Landesregierung Nordrhein-
+Westfalen
+PSI Public Sector Information
+RL Richtlinie
+Anlage 1
+&#220;bersicht R&#252;ckmeldungen Online-Umfrage
+Berichtspflicht &#167; 12a EGovG und Evaluierung (n=53)
+Ressort Beh&#246;rde
+AA Ausw&#228;rtiges Amt
+BKAmt Bundeskanzleramt
+BKM Beauftragte der Bundesregierung f&#252;r Kultur und Medien
+BKM Bundesarchiv
+BKM Der Bundesbeauftragte f&#252;r die Unterlagen des Staatssicherheitsdienstes der
+ehemaligen Deutschen Demokratischen Republik
+BMAS Bundesanstalt f&#252;r Arbeitsschutz und Arbeitsmedizin
+BMAS Bundesministerium f&#252;r Arbeit und Soziales
+BMAS Bundesversicherungsamt
+BMBF Bundesministerium f&#252;r Bildung und Forschung
+BMEL Bundesanstalt f&#252;r Landwirtschaft und Ern&#228;hrung
+BMEL Bundesministerium f&#252;r Ern&#228;hrung und Landwirtschaft
+BMEL Bundessortenamt
+BMEL Friedrich-Loeffler-Institut
+BMEL Max Rubner-Institut
+BMEL Th&#252;nen-Institut
+BMF Bundesministerium der Finanzen
+BMF Bundeszentralamt f&#252;r Steuern
+BMF Generalzolldirektion
+BMFSFJ Bundesministerium f&#252;r Familie, Senioren, Frauen und Jugend
+BMI Beschaffungsamt des Bundesministeriums des Innern
+BMI Bundesamt f&#252;r Bauwesen und Raumordnung
+BMI Bundesamt f&#252;r Bev&#246;lkerungsschutz und Katastrophenhilfe
+BMI Bundesamt f&#252;r Kartographie und Geod&#228;sie
+BMI Bundesamt f&#252;r Migration und Fl&#252;chtlinge
+BMI Bundesamt f&#252;r Sicherheit in der Informationstechnik
+BMI Bundesamt f&#252;r zentrale Dienste und offene Verm&#246;gensfragen
+BMI Bundesanstalt Technisches Hilfswerk
+BMI Bundesausgleichsamt
+BMI Bundesinstitut f&#252;r Bev&#246;lkerungsforschung
+Ressort Beh&#246;rde
+BMI Bundesinstitut f&#252;r Sportwissenschaft
+BMI Bundeskriminalamt
+BMI Bundesministerium des Innern, f&#252;r Bau und Heimat
+BMI Bundespolizeipr&#228;sidium
+BMI Bundesverwaltungsamt
+BMI Bundeszentrale f&#252;r politische Bildung
+BMI Hochschule des Bundes f&#252;r &#246;ffentliche Verwaltung
+BMI Statistisches Bundesamt
+BMI Zentrale Stelle f&#252;r Informationstechnik im Sicherheitsbereich
+BMJV Bundesamt f&#252;r Justiz
+BMJV Bundesministerium der Justiz und f&#252;r Verbraucherschutz
+BMJV Deutsches Patent- und Markenamt
+BMVg Bundesministerium der Verteidigung
+Herzlich Willkommen.
+Vielen Dank, dass Sie sich die Zeit zur Beantwortung dieser Online-Umfrage
+nehmen. Die Bundesregierung ist nach &#167;12a Abs. 10 EGovG verpflichtet, dem
+Bundestag alle zwei Jahre &#252;ber die Fortschritte bei der Bereitstellung von offenen
+Daten zu berichten. Innerhalb von vier Jahren muss sie zudem das Gesetz evaluieren.
+Da der Koalitionsvertrag vorsieht, dass &#8222;im Rahmen eines zweiten Open-Data-
+Gesetzes die Bereitstellung von Open Data&#8220; ausgeweitet wird, soll die Evaluierung
+jetzt zusammen mit dem Sachbericht erfolgen. Die nachfolgenden Fragen orientieren
+sich am Ziel der Regelung des Ersten Gesetzes zur &#196;nderung des E-Government-
+Gesetzes und ber&#252;cksichtigen Empfehlungen des European Data Portal. Ihre
+Antworten auf diese Fragen werden die Grundlage f&#252;r den Bericht bilden und dienen
+ausschlie&#223;lich zu dessen Erstellung. Bitte nutzen Sie auch die Kommentarfunktionen
+der Umfrage. Sie erm&#246;glichen sp&#228;ter eine noch genauere Auswertung und ein
+detaillierteres Ergebnis.
+Bei Fragen oder Anregungen zu dieser Umfrage wenden Sie sich bitte an BMI,
+Referat DG I 1, opendata@bmi.bund.de.
+Die nachfolgende Umfrage ist in f&#252;nf Bereiche gegliedert:
+Teil A: Im ersten Abschnitt werden allgemeine Informationen und
+Rahmenbedingungen zur Ausgestaltung des Themas Open Data (&#8222;offene Daten&#8220;) in
+Ihrer Beh&#246;rde sowie der Rolle der/des Open Data-Verantwortlichen abgefragt.
+Hinweis: Zu Beginn von Teil A werden Ihre Kontaktdaten abgefragt. Diese Daten
+dienen ausschlie&#223;lich f&#252;r m&#246;gliche R&#252;ckfragen und sind nicht inhaltlicher
+Bestandteil der Umfrage. Allein aus technischen Gr&#252;nden muss diese Abfrage zu
+Beginn von Teil A erfolgen.
+Teil B: Dieser Abschnitt der Umfrage betrifft die Einrichtung der Zentralen Stelle,
+die die Beh&#246;rden der Bundesverwaltung zu Fragen der Bereitstellung von Daten als
+offene Daten ber&#228;t (&#167;12a Abs. 9 EGovG).
+Teil C: Dieser Abschnitt der Umfrage betrifft die Bereitstellung der offenen Daten
+gem&#228;&#223; &#167;12a EGovG seit dem Inkrafttreten des Gesetzes und m&#246;gliche Ma&#223;nahmen,
+die in Ihrer Beh&#246;rde eingeleitet wurden, um den Kulturwandel im Umgang mit den
+im Rahmen der &#246;ffentlich-rechtlichen Aufgabenerf&#252;llung erlangten Daten zu
+begleiten.
+Teil D: Dieser Abschnitt der Umfrage betrifft den Erf&#252;llungsaufwand, der durch
+die Umsetzung des &#167;12a EGovG f&#252;r die Verwaltung entstanden ist.
+Teil E: In diesem letzten Abschnitt werden basierend auf den Erfahrungen in Ihrer
+Beh&#246;rde Einsch&#228;tzungen zu Hebeln und Hemmnissen der Bereitstellung offener
+Daten in der unmittelbaren Bundesverwaltung abgefragt.
+&#8211; 43 &#8211;
+Anlage 2
+Teil A: Allgemeines
+Teil A: Im ersten Abschnitt werden allgemeine Informationen und Rahmenbedingungen zur Ausgestaltung des Themas Open
+Data (&#8222;offene Daten&#8220;) in Ihrer Beh&#246;rde sowie der Rolle der/des Open-Data-Verantwortlichen abgefragt.
+A1. Bitte teilen Sie uns zu Beginn der Umfrage allgemeine Informationen
+mit.
+Hinweis: Zu Beginn von Teil A werden Ihre Kontaktdaten abgefragt.
+Diese Daten dienen ausschlie&#223;lich f&#252;r m&#246;gliche R&#252;ckfragen und sind
+nicht inhaltlicher Bestandteil der Umfrage. Allein aus technischen
+Gr&#252;nden muss diese Abfrage zu Beginn von Teil A erfolgen.
+Ressort*
+Beh&#246;rde*
+Referat/Abteilung*
+Ansprechpartner f&#252;r R&#252;ckfragen und Kontaktdaten (Name, Vorname, E-Mail-
+Adresse, Telefonnummer)*
+A2. Gibt es in Ihrer Beh&#246;rde eine/n Open-Data-Verantwortliche/n, die/der
+f&#252;r die Bereitstellung offener Daten gem&#228;&#223; &#167;12a EGovG
+verantwortlich ist?
+Hinweis: Im Sinne einer koordinierenden Stelle ist der/die Open-Data-
+Verantwortliche zentrale/r Ansprechpartner/in einer Beh&#246;rde und
+fungiert als Anlaufstelle f&#252;r Besch&#228;ftigte sowie die Leitung.
+Bitte w&#228;hlen Sie die auf Ihre Beh&#246;rde zutreffende
+Antwortm&#246;glichkeit aus und erl&#228;utern Sie bei Bedarf Anmerkungen
+im Kommentarfeld (z.B. warum es keine/n Open-Data-
+Verantwortliche/n in Ihrer Beh&#246;rde gibt).
+Ja
+Nein
+&#8211; 44 &#8211;
+A3. Sie haben angegeben, dass es in Ihrer Beh&#246;rde eine/n Open-Data-
+Verantwortliche/n gibt. Wie viele Open-Data-Verantwortliche gibt es
+in Ihrer Beh&#246;rde?
+Bitte w&#228;hlen Sie die auf Ihre Beh&#246;rde zutreffende
+Antwortm&#246;glichkeit aus und erl&#228;utern Sie bei Bedarf Anmerkungen
+im Kommentarfeld (z.B. mehr als ein/e Verantwortliche/r, da es
+beh&#246;rdenintern je Abteilung eine/n Ansprechpartner/in gibt).
+1
+2 - 4
+&gt; 4 Verantwortliche
+A4. Sie haben angegeben, dass es in Ihrer Beh&#246;rde eine/n oder mehrere
+Open-Data-Verantwortliche gibt. Wie ist die organisatorische
+Verortung des/der Verantwortlichen?
+Bitte w&#228;hlen Sie die auf Ihre Beh&#246;rde zutreffende
+Antwortm&#246;glichkeit aus und erl&#228;utern Sie bei Bedarf Anmerkungen
+in den Kommentarfeldern.
+IT-Bereich
+Kommentar
+&#214;ffentlichkeitsarbeit
+Kommentar
+Organisation
+Kommentar
+Sonstiger Bereich (z.B. Fachreferat)
+Kommentar
+Deutscher Bundestag &#8211; 19. Wahlperiode Drucksache 19/14140&#8211; 45 &#8211;
+A5. Sie haben angegeben, dass es in Ihrer Beh&#246;rde eine/n oder mehrere
+Open-Data-Verantwortliche gibt. Welche T&#228;tigkeiten geh&#246;ren zum
+Aufgabenfeld des/der Verantwortlichen? 
+A6. Sie haben angegeben, dass es in Ihrer Beh&#246;rde eine/n oder mehrere
+Open-Data-Verantwortliche gibt. Kommen die Mitarbeiter/innen in
+Ihrer Beh&#246;rde aktiv auf den/die Open-Data-Verantwortliche/n
+bez&#252;glich einer Datenver&#246;ffentlichung gem&#228;&#223; &#167;12a EGovG zu? 
+Bitte erl&#228;utern Sie Ihre Auswahl im Kommentarfeld.
+Ja
+Nein
+A7. Sie haben angegeben, dass es in Ihrer Beh&#246;rde mehrere Open-Data-
+Verantwortliche gibt. Findet innerhalb Ihrer Beh&#246;rde ein ggf.
+regelm&#228;&#223;iger Austausch zwischen den Open-Data-Verantwortlichen
+statt (z.B. Jour Fixe)? 
+Bitte erl&#228;utern Sie Ihre Auswahl im Kommentarfeld.
+Ja
+Nein
+Drucksache 19/14140 Deutscher Bundestag &#8211; 19. Wahlperiode&#8211; 46 &#8211;
+A8. Sie haben angegeben, dass es in Ihrer Beh&#246;rde eine/n oder mehrere
+Open-Data-Verantwortliche gibt. Nehmen Sie an einem 
+beh&#246;rden&#252;bergreifenden Austausch zwischen Open-Data-
+Verantwortlichen teil (z.B. Jour Fixe)?
+Bitte erl&#228;utern Sie Ihre Auswahl im Kommentarfeld (bspw. ist der
+Austausch institutionalisiert oder informell, findet er regelm&#228;&#223;ig
+oder nur bei Bedarf statt?).
+Ja
+Nein
+A9. Gibt es in Ihrer Beh&#246;rde eine Open-Data-Strategie, ein Leitbild oder
+eine Positionierung zur Bereitstellung von Verwaltungsdaten als
+offene Daten (z.B. auch als Teil einer E-Government-, Digital- oder
+Datenstrategie)? 
+Bitte erl&#228;utern Sie Ihre Auswahl im Kommentarfeld.
+Ja
+Nein
+In Planung
+Teil B: Zentrale Stelle
+Teil B: Dieser Abschnitt der Umfrage betrifft die Einrichtung der Zentralen Stelle, die die Beh&#246;rden der Bundesverwaltung zu
+Fragen der Bereitstellung von Daten als offene Daten ber&#228;t (&#167;12a Abs. 9 EGovG).
+B1. Ist Ihnen oder Ihrer Beh&#246;rde die Zentrale Stelle bekannt (&#167;12a Abs. 9
+EGovG)?
+Bitte erl&#228;utern Sie Ihre Auswahl im Kommentarfeld.
+Ja
+Nein
+&#8211; 47 &#8211;
+B2. Haben Sie oder Ihre Beh&#246;rde bereits das Beratungsangebot der
+Zentralen Stelle genutzt?
+Bitte erl&#228;utern Sie Ihre Auswahl im Kommentarfeld.
+Ja
+Nein
+B3. Aus welchem Grund haben Sie oder Ihre Beh&#246;rde das
+Beratungsangebot der Zentralen Stelle nicht genutzt?
+Bitte erl&#228;utern Sie Ihre Auswahl in den Kommentarfeldern.
+Beratungsangebot nicht ausreichend
+Kommentar
+Kein Bedarf (z.B. da ausreichend Kompetenzen vorhanden sind)
+Kommentar
+Sonstiger Grund
+Kommentar
+Drucksache 19/14140 Deutscher Bundestag &#8211; 19. Wahlperiode&#8211; 48 &#8211;
+B4. Sind Ihnen bzw. Ihrer Beh&#246;rde die Unterst&#252;tzungsmaterialen der
+Zentralen Stelle bekannt? 
+Bitte erl&#228;utern Sie Ihre Auswahl im Kommentarfeld.
+Hinweis: Die Unterst&#252;tzungsmaterialien finden Sie hier. (Link bitte
+im separaten Fenster &#246;ffnen.)
+Ja
+Nein
+B5. Wurden die Unterst&#252;tzungsmaterialien der Zentralen Stelle zur
+Umsetzung von &#167;12a EGovG in Ihrer Beh&#246;rde genutzt?
+Bitte erl&#228;utern Sie Ihre Auswahl im Kommentarfeld.
+Ja
+Nein
+B6. Wo sehen Sie bzw. Ihre Beh&#246;rde weiteren Unterst&#252;tzungsbedarf
+durch die Zentrale Stelle?
+Bitte erl&#228;utern Sie Ihre Auswahl in den Kommentarfeldern.
+Daten-Kompetenzaufbau
+Kommentar
+Informationen / Unterst&#252;tzung bei Metadaten
+Kommentar
+Deutscher Bundestag &#8211; 19. Wahlperiode Drucksache 19/14140&#8211; 49 &#8211;
+Informationen / Unterst&#252;tzung bei Identifikation von Open-Data-f&#228;higen Daten
+Kommentar
+Ausbau standardisierter Prozesse
+Kommentar
+St&#228;rkung des Austauschs zwischen Datenbereitsteller/innen in der Bundesverwaltung
+Kommentar
+St&#228;rkung des Austauschs zwischen Datenbereitsteller/innen auf Bundes- und Landesebene
+Kommentar
+St&#228;rkung des Austauschs mit Datennutzer/innen
+Kommentar
+Sonstiger Bedarf
+Kommentar
+Teil C: Ver&#246;ffentlichung von Daten gem&#228;&#223; &#167;12a EGovG und begleitende
+Ma&#223;nahmen
+Teil C: Dieser Abschnitt der Umfrage betrifft die Bereitstellung der offenen Daten gem&#228;&#223; &#167;12a EGovG seit dem Inkrafttreten
+des Gesetzes und m&#246;gliche Ma&#223;nahmen, die in Ihrer Beh&#246;rde eingeleitet wurden, um den Kulturwandel im Umgang mit den im
+Rahmen der &#246;ffentlich-rechtlichen Aufgabenerf&#252;llung erlangten Daten zu begleiten.
+C1. Haben aufgrund der Verpflichtung des &#167;12a EGovG in Ihrer Beh&#246;rde
+Informationsveranstaltungen zum Thema Open Data und/oder zur
+Umsetzung des Gesetzes stattgefunden?
+Bitte erl&#228;utern Sie Ihre Auswahl im Kommentarfeld.
+Ja
+Nein
+&#8211; 50 &#8211;
+C2. Wurden aufgrund der Verpflichtung des &#167;12a EGovG in Ihrer
+Beh&#246;rde Informationsmaterialien (z.B. Mitarbeiterinformationen,
+Rundschreiben, Checklisten) zum Thema Open Data und/oder zur
+Umsetzung des Gesetzes erstellt?
+Bitte erl&#228;utern Sie Ihre Auswahl im Kommentarfeld.
+Ja
+Nein
+C3. Gab oder gibt es aufgrund der Verpflichtung des &#167;12a EGovG in
+Ihrer Beh&#246;rde Trainings oder Schulungen f&#252;r Mitarbeiter/innen zum
+Thema Open Data und/oder zur Umsetzung des Gesetzes?
+Bitte erl&#228;utern Sie Ihre Auswahl im Kommentarfeld.
+Ja
+Nein
+&#8211; 51 &#8211;
+C4. Inwieweit werden in Ihrer Beh&#246;rde die Anforderungen an die
+Bereitstellung von Daten bereits in folgenden Prozessen (vgl. &#167;12a
+Abs. 7 EGovG) ber&#252;cksichtigt? 
+Bitte erl&#228;utern Sie Ihre Auswahl in den Kommentarfeldern.
+Optimierung von Verwaltungsabl&#228;ufen
+Kommentar
+Abschluss von vertraglichen Regelungen zur Erhebung oder Verarbeitung der Daten
+Kommentar
+Beschaffung von informationstechnischen Systemen f&#252;r die Speicherung und Verarbeitung der Daten
+Kommentar
+Anforderungen werden noch nicht ber&#252;cksichtigt
+Kommentar
+C5. Hat das Inkrafttreten des &#167;12a EGovG nach Ihrer Einsch&#228;tzung dazu
+gef&#252;hrt, dass in Ihrer Beh&#246;rde mehr Daten ver&#246;ffentlicht werden?  
+Bitte erl&#228;utern Sie Ihre Auswahl im Kommentarfeld.
+Ja
+Nein
+Drucksache 19/14140 Deutscher Bundestag &#8211; 19. Wahlperiode&#8211; 52 &#8211;
+C6. Welche Ma&#223;nahmen haben nach Ihrer Einsch&#228;tzung besonders dazu
+gef&#252;hrt, dass in Ihrer Beh&#246;rde mehr Daten bereitgestellt werden?
+C7. Wie viele Datens&#228;tze hat Ihre Beh&#246;rde seit Inkrafttreten des "Open-
+Data-Gesetzes" am 13.07.2017 auf Ver&#246;ffentlichung gem&#228;&#223; &#167;12a
+EGovG gepr&#252;ft?
+Bitte erl&#228;utern Sie Ihre Auswahl im Kommentarfeld.
+keine Aussage m&#246;glich
+&lt; 50 Datens&#228;tze
+50 bis 100 Datens&#228;tze
+&gt; 100 Datens&#228;tze
+Deutscher Bundestag &#8211; 19. Wahlperiode Drucksache 19/14140&#8211; 53 &#8211;
+C8. Wie viele Datens&#228;tze hat Ihre Beh&#246;rde seit Inkrafttreten des "Open-
+Data-Gesetzes" am 13.07.2017 gem&#228;&#223; &#167;12a EGovG ver&#246;ffentlicht und
+mit Metadaten versehen im nationalen Metadatenportal GovData 
+eingestellt?
+Hinweis: Im Rahmen der Gesetzesfolgenabsch&#228;tzung wurde
+angenommen, dass jede Beh&#246;rde Datens&#228;tze in einer Gr&#246;&#223;enordnung
+von 50 bis 100 pro Jahr zur Verf&#252;gung stellen wird. Diese
+Gr&#246;&#223;enordnung entspricht vergleichbaren Erfahrungswerten aus
+anderen Industrienationen, die bereits erste Erfahrungen im Bereich
+Open Data gesammelt haben.
+Bitte geben Sie im Kommentarfeld die URL(s) zum Ort der
+Ver&#246;ffentlichung an. Bitte verwenden Sie hierf&#252;r das Format:
+www.url. ... 
+keine Aussage m&#246;glich
+&lt; 50 Datens&#228;tze
+50 bis 100 Datens&#228;tze
+&gt; 100 Datens&#228;tze
+C9. Sind Ihnen Anwendungsf&#228;lle f&#252;r die Weiterverwendung und Nutzung
+der ver&#246;ffentlichten Datens&#228;tze Ihrer Beh&#246;rde bekannt (innerhalb
+oder au&#223;erhalb der Verwaltung)?
+Bitte erl&#228;utern Sie Ihre Auswahl im Kommentarfeld.
+Ja
+Nein
+Drucksache 19/14140 Deutscher Bundestag &#8211; 19. Wahlperiode&#8211; 54 &#8211;
+Teil D: Erf&#252;llungsaufwand
+Teil D: Dieser Abschnitt der Umfrage betrifft den Erf&#252;llungsaufwand, der durch die Umsetzung des &#167;12a EGovG f&#252;r die
+Verwaltung entstanden ist.
+D1. Hatte Ihre Beh&#246;rde einmalige Erf&#252;llungsaufw&#228;nde, um &#167;12a EGovG
+umzusetzen?
+Bitte erl&#228;utern Sie Ihre Auswahl im Kommentarfeld.
+Ja
+Nein
+D2. Welche Ma&#223;nahmen haben zu diesen einmaligen
+Erf&#252;llungsaufw&#228;nden gef&#252;hrt?
+Bitte erl&#228;utern Sie Ihre Auswahl in den Kommentarfeldern.
+Aufbau / &#196;nderung einer IT-Infrastruktur
+Kommentar
+Erstellung eines Ver&#246;ffentlichungskonzepts (inkl. Erstellung von Mitarbeiterinformationen,
+Rundschreiben, Checklisten)
+Kommentar
+Personalkosten
+Kommentar
+externe Personalaufw&#228;nde (z.B. Beratungsleistung)
+Kommentar
+Sonstige Ma&#223;nahme (bitte im Kommentarfeld erl&#228;utern)
+Kommentar
+&#8211; 55 &#8211;
+D3. K&#246;nnen Sie die Ausgaben, die hinter den genannten Ma&#223;nahmen
+stehen, f&#252;r Ihre Beh&#246;rde beziffern?
+Bitte erl&#228;utern Sie Ihre Auswahl im Kommentarfeld.
+keine Aussage m&#246;glich
+&lt; 16.000 &#8364;
+16.000 &#8364; bis 94.000 &#8364;
+&gt; 94.000 &#8364;
+D4. Hat Ihre Beh&#246;rde j&#228;hrliche Erf&#252;llungsaufw&#228;nde, um &#167;12a EGovG
+umzusetzen?
+Bitte erl&#228;utern Sie Ihre Auswahl im Kommentarfeld.
+Ja
+Nein
+D5. Welche Aktivit&#228;ten f&#252;hren zu den j&#228;hrlichen Erf&#252;llungsaufw&#228;nden?
+Bitte erl&#228;utern Sie Ihre Auswahl in den Kommentarfeldern.
+Zeitaufwand f&#252;r Pr&#252;fung eines Datensatzes auf Ver&#246;ffentlichung gem&#228;&#223; &#167;12a EGovG
+Kommentar
+Zeitaufwand f&#252;r Ver&#246;ffentlichung eines Datensatzes gem&#228;&#223; &#167;12a EGovG
+Kommentar
+Drucksache 19/14140 Deutscher Bundestag &#8211; 19. Wahlperiode&#8211; 56 &#8211;
+Kontextbezogene Dienstreisen
+Kommentar
+Sonstige Aktivit&#228;ten (bitte im Kommentarfeld erl&#228;utern)
+Kommentar
+D6. Wie hoch beziffern Sie den durchschnittlichen Zeitaufwand (in
+Minuten) f&#252;r die Pr&#252;fung eines Datensatzes auf Ver&#246;ffentlichung
+gem&#228;&#223; &#167;12a EGovG?
+D7. Wie hoch beziffern Sie den Zeitaufwand (in Minuten) f&#252;r die 
+Ver&#246;ffentlichung eines Datensatzes gem&#228;&#223; &#167;12a EGovG und das 
+Einstellen von Metadaten im nationalen Metadatenportal GovData?
+Hinweis: Angabe ohne Zeitaufwand f&#252;r Pr&#252;fung eines Datensatzes
+auf Ver&#246;ffentlichung gem&#228;&#223; &#167;12a EGovG (s. Frage D6).
+Teil E: Hebel und Hemmnisse der Datenbereitstellung
+Teil E: In diesem letzten Abschnitt werden basierend auf den Erfahrungen in Ihrer Beh&#246;rde Einsch&#228;tzungen zu Hebeln und
+Hemmnissen der Bereitstellung offener Daten in der unmittelbaren Bundesverwaltung abgefragt.
+E1. Was sind nach Ihrer Einsch&#228;tzung Hemmnisse bei der Bereitstellung
+von Daten als offene Daten durch die Beh&#246;rden der unmittelbaren
+Bundesverwaltung?
+Bitte erl&#228;utern Sie Ihre Auswahl in den Kommentarfeldern.
+Unzureichendes Wissen der Mitarbeiter/innen im Umgang mit offenen Daten
+Kommentar
+&#8211; 57 &#8211;
+Unzureichende Ressourcen, um sich mit dem Thema Open Data auseinanderzusetzen
+Kommentar
+Unzureichender Austausch mit den Datennutzer/innen
+Kommentar
+Unzureichende Ver&#228;nderungsbegleitung in den Beh&#246;rden
+Kommentar
+Unzureichendes Wissen der Mitarbeiter/innen &#252;ber die Potenziale der Weiterverwendung
+bereitgestellter Daten
+Kommentar
+Sonstige Hemmnisse
+Kommentar
+E2. Was k&#246;nnte nach Ihrer Einsch&#228;tzung die aktive Bereitstellung von
+Daten durch die Beh&#246;rden der unmittelbaren Bundesverwaltung und
+den gew&#252;nschten Kulturwandel bef&#246;rdern?
+Vielen Dank f&#252;r Ihre Teilnahme an dieser Umfrage.
+Bitte wenden Sie sich bei Fragen oder Anregungen an:
+opendata@bmi.bund.de.
+Drucksache 19/14140 Deutscher Bundestag &#8211; 19. Wahlperiode&#8211; 58 &#8211;
+
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>Erster Bericht der Bundesregierung &#252;ber die Fortschritte bei der Bereitstellung von Daten 
+(1. Open-Data-Fortschrittsbericht)</titel>
+    <datum>2019-10-10</datum>
+  </document>
+  

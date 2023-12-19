@@ -1,0 +1,512 @@
+<document>
+    <id>257462</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/32246</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>68a4ed1666f58b0cbf9e0cbc0a91d394</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>280652</id>
+      <titel>Einsatz der Spionagesoftware "Pegasus" in Deutschland</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium des Innern, f&#252;r Bau und Heimat</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/322/1932246.pdf</pdf_url>
+      <id>257462</id>
+      <dokumentnummer>19/32246</dokumentnummer>
+      <datum>2021-09-01</datum>
+      <verteildatum>2021-09-15</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Antwort
+der Bundesregierung
+auf die Kleine Anfrage der Abgeordneten Jan Korte, Sevim Da&#287;delen,
+Anke Domscheit-Berg, weiterer Abgeordneter und der Fraktion DIE LINKE.
+&#8211; Drucksache 19/31809 &#8211;
+Einsatz der Spionagesoftware &#8222;Pegasus&#8220; in Deutschland
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Nach Berichten eines internationalen Rechercheverbundes zahlreicher
+Medien, an dem aus Deutschland die &#8222;S&#252;ddeutsche Zeitung&#8220;, der &#8222;NDR&#8220;, &#8222;WDR&#8220; 
+und die Wochenzeitung &#8222;ZEIT&#8220; beteiligt sind, sollen Regierungen weltweit 
+&#8222;milit&#228;rische Spionagesoftware&#8220; der israelischen Firma NSO Group nicht nur 
+f&#252;r die &#220;berwachung von Terroristen und Kriminellen nutzen, sondern auch 
+f&#252;r erfolgreiche Hacks von Smartphones, die Journalisten,
+Menschenrechtsaktivisten und Gesch&#228;ftsleuten geh&#246;rten. Mit der Software, die als eine der
+leistungsf&#228;higsten Spionageprogramme auf dem kommerziellen Markt gilt, kann 
+&#8222;unbemerkt die komplette Kommunikation auf dem Mobiltelefon einer
+Zielperson &#252;berwacht werden kann &#8211; egal ob SMS, E-Mails oder verschl&#252;sselte 
+Chats. Auch Fotos und Videos k&#246;nnen durchsucht und Passw&#246;rter ausgelesen 
+werden. Und das alles sogar aus der Ferne, ohne physischen Zugriff auf das 
+Telefon zu haben.&#8220; (https://www.tagesschau.de/investigativ/ndr-wdr/spaeh-sof
+tware-pegasus-deutschland-101.html). Die Smartphones k&#246;nnen aber nicht nur 
+heimlich &#252;berwacht und komplett ausgesp&#228;ht werden, sondern sogar zu
+Wanzen umgewandelt werden, um unbemerkt Gespr&#228;che mitzuschneiden, wobei 
+neben dem Mikrofon auch die Kamera eines Ger&#228;ts unbemerkt eingeschaltet 
+werden k&#246;nne. W&#228;hrend auf der NSO-Website die Firma ihre Produkte als 
+&#8222;Technologie, die Regierungsbeh&#246;rden hilft, Terrorismus und Verbrechen zu 
+verhindern und zu untersuchen&#8220; anpreist, zeigen die Medienrecherchen, die 
+sich auch auf Daten von Amnesty International st&#252;tzen, dass mindestens 189 
+Journalistinnen und Journalisten, 85 Menschenrechtsaktivistinnen und
+Menschenrechtsaktivisten und mehr als 600 Politikerinnen und Politiker mit der 
+Spionagesoftware weltweit ausgesp&#228;ht wurden. Amnesty International hatte 
+gemeinsam mit der Organisation Forbidden Stories einen Datensatz von mehr 
+als 50 000 Telefonnummern ausgewertet, die als potenzielle Aussp&#228;hziele von 
+Kunden der NSO Group ausgew&#228;hlt worden seien. Unter den Ausgesp&#228;hten 
+finden sich auch investigative Journalisten aus Ungarn, Marokko oder
+Aserbaidschan sowie beispielsweise katalonische Unabh&#228;ngigkeitsbef&#252;rworter in 
+Spanien. Am 20. Juli 2021 berichtete u. a. &#8222;Spiegel Online&#8220;, dass unter den 
+zahlreichen Ausgesp&#228;hten auch etliche europ&#228;ische Spitzenpolitiker, wie etwa 
+der franz&#246;sische Pr&#228;sident Emmanuel Macron und sein direktes Umfeld, &#8222;der 
+damalige Premierminister &#201;douard Philippe sowie mehrere Ministerinnen und 
+Minister in Frankreich ausgesp&#228;ht werden, unter ihnen die noch amtierenden 
+Deutscher Bundestag Drucksache 19/32246
+19. Wahlperiode 01.09.2021
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums des Innern, f&#252;r Bau und Heimat 
+vom 1. September 2021 &#252;bermittelt.
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext.
+Kabinettsmitglieder Au&#223;enminister Jean-Yves Le Drian, Wirtschaftsminister 
+Bruno Le Maire und Bildungsminister Jean-Michel Blanquer&#8220; seien (https://
+www.spiegel.de/ausland/pegasus-emmanuel-macron-im-visier-der-cyberwaff
+e-a-28bfa163-4933-41af-8128-9d63ed5e2501). Besonders exzessiv ist die 
+Software offenbar in Mexiko zum Einsatz gekommen, wo neben Journalisten 
+u. a. auch das Umfeld des amtierenden Pr&#228;sidenten ausgeforscht wurde (vgl. 
+https://www.tagesschau.de/investigativ/ndr-wdr/spiongage-software-pegasus-
+mexiko-101.html). Laut forensischem Bericht von Amnesty International 
+(https://www.amnesty.org/en/latest/research/2021/07/forensic-methodology-re
+port-how-to-catch-nso-groups-pegasus/) z&#228;hlten zur &#8222;Pegasus&#8220;-Infrastruktur 
+auch 212 DNS-Server in Deutschland. Am 20. Juli 2021 berichtete RND, dass 
+das B&#252;ro der Pariser Staatsanwaltschaft Ermittlungen zum mutma&#223;lich weit 
+verbreiteten Einsatz der Spionagesoftware gegen Journalisten,
+Menschenrechtsaktivisten und Dissidenten in Frankreich aufgenommen habe und zu
+einer ganzen Reihe m&#246;glicher Anklagepunkte, darunter Versto&#223; gegen das
+Pers&#246;nlichkeitsrecht, illegale Nutzung von Daten und illegaler Verkauf von
+Spionagesoftware, ermittelt werde.
+In Deutschland ist die am 6. April 2017 errichtete Zentrale Stelle f&#252;r
+Informationstechnik im Sicherheitsbereich (ZITiS) im Gesch&#228;ftsbereich des
+Bundesministeriums des Innern, f&#252;r Bau und Heimat damit betraut, Bundesbeh&#246;rden 
+mit Sicherheitsaufgaben im Hinblick auf informationstechnische F&#228;higkeiten 
+zu unterst&#252;tzen und zu beraten. Die ZITiS-IT-Fachleute entwickeln u. a. selbst 
+Cyberwerkzeuge, mit denen Polizei und Verfassungsschutz verschl&#252;sselte 
+Kommunikation &#252;berwachen k&#246;nnen, sichten aber auch den weltweiten Markt 
+an &#220;berwachungssoftware, deren Kauf sich f&#252;r deutsche Sicherheitsbeh&#246;rden 
+lohnen k&#246;nnte. Laut Bericht der &#8222;Tagesschau&#8220; sollen NSO-Vertreter bei ZITiS 
+2018 in M&#252;nchen vorstellig geworden sein: &#8222;Sie waren auf einer Art
+Roadshow und pr&#228;sentierten ihr Portfolio&#8220; (https://www.tagesschau.de/investigativ/
+ndr-wdr/spaeh-software-pegasus-deutschland-101.html), in dem sich auch die 
+Spionagesoftware Pegasus befunden habe. &#8222;Ein Jahr zuvor, im Oktober 2017, 
+wurde NSO schon beim Bundeskriminalamt (BKA) in Wiesbaden vorstellig. 
+Ebenso gab es Gespr&#228;che mit dem BND und dem Bundesamt f&#252;r
+Verfassungsschutz. Mit den Cyberexperten vom bayerischen Landeskriminalamt (LKA) 
+trafen sich die Vertreter der israelischen Firma im Jahr 2019 sogar gleich zwei 
+Mal. Bei einer weiteren Vorf&#252;hrung im September 2019 im Innenministerium 
+in M&#252;nchen war sogar Minister Joachim Herrmann anwesend, wie ein
+Sprecher mitteilte&#8220; (ebd.). Bislang habe NSO in Deutschland aber &#8222;wohl nur
+Absagen&#8220; erhalten, w&#228;hrend es &#8222;an 60 unterschiedliche Beh&#246;rden in 40 L&#228;ndern 
+der Welt [&#8230;] seine Produkte nach eigenen Angaben bereits verkauft&#8220; hat 
+(ebd.).
+Am 21. Juli 2021 stellte das Bundesverfassungsgericht in seinem
+ver&#246;ffentlichten Beschluss (1 BvR 2771/18; &#8222;IT-Sicherheitsl&#252;cken&#8220;) klar, dass sich aus 
+Artikel 10 des Grundgesetzes (GG) eine Schutzpflicht bez&#252;glich bekannter
+Sicherheitsl&#252;cken ergibt und &#8222;die grundrechtliche Gew&#228;hrleistung der
+Vertraulichkeit und Integrit&#228;t informationstechnischer Systeme verpflichtet den Staat, 
+zum Schutz der Systeme vor Angriffen durch Dritte beizutragen&#8220; (https://ww
+w.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2021/06/rs20
+210608_1bvr277118.html).
+V o r b e m e r k u n g  d e r  B u n d e s r e g i e r u n g
+Zwar ist der parlamentarische Informationsanspruch grunds&#228;tzlich auf die
+Beantwortung gestellter Fragen in der &#214;ffentlichkeit angelegt. Soweit
+parlamentarische Anfragen jedoch Umst&#228;nde betreffen, die aus Gr&#252;nden des Staatswohls 
+geheimhaltungsbed&#252;rftig sind, hat die Bundesregierung zu pr&#252;fen, ob und auf 
+welche Weise die Geheimhaltungsbed&#252;rftigkeit mit dem parlamentarischen
+Informationsanspruch in Einklang gebracht werden kann. Die Bundesregierung 
+ist nach sorgf&#228;ltiger Pr&#252;fung zu der Auffassung gelangt, dass aufgrund der 
+Schutzbed&#252;rftigkeit der erfragten Informationen eine Beantwortung einzelner 
+Fragen in offener Form nicht oder nur teilweise erfolgen kann.
+Im Einzelnen:
+Die Antworten zu den Fragen 14 und 15 sind als &#8222;VS &#8211; Nur f&#252;r den
+Dienstgebrauch&#8220; eingestuft. Die erbetenen Ausk&#252;nfte sind geheimhaltungsbed&#252;rftig, 
+weil sie Informationen enthalten, die im Zusammenhang mit der Arbeitsweise 
+und Methodik der von der Kleinen Anfrage betroffenen Beh&#246;rden des Bundes 
+und insbesondere deren Aufkl&#228;rungsaktivit&#228;ten und Analysemethoden stehen. 
+Die Fragen betreffen zum Teil detaillierte Einzelheiten zu ihren technischen
+F&#228;higkeiten und ermittlungstaktischen Verfahrensweisen. Aus dem
+Bekanntwerden der Antworten k&#246;nnten R&#252;ckschl&#252;sse auf Vorgehensweise, F&#228;higkeiten und 
+Methoden der Sicherheitsbeh&#246;rden gezogen werden, was wiederum nachteilig 
+f&#252;r die Aufgabenerf&#252;llung der durchf&#252;hrenden Stellen und damit f&#252;r die
+Interessen der Bundesrepublik Deutschland sein kann.
+Deshalb sind die Antworten zu den genannten Fragen gem&#228;&#223; &#167; 2 Absatz 2 
+Nummer 4 der Allgemeinen Verwaltungsvorschrift zum materiellen
+Geheimschutz (VS-Anweisung &#8211; VSA) in Teilen als &#8222;VS &#8211; Nur f&#252;r den
+Dienstgebrauch&#8220; eingestuft und werden als nicht zur Ver&#246;ffentlichung in einer
+Bundestagsdrucksache bestimmte Anlage &#252;bermittelt.
+Die mit den Fragen 1, 2, 3, 4, 14 und 16 erbetenen Informationen ber&#252;hren in 
+weiten Teilen in besonders hohem Ma&#223;e das Staatswohl. Nach sorgf&#228;ltiger
+Abw&#228;gung ist die Bundesregierung zu dem Ergebnis gekommen, dass auch das 
+geringf&#252;gige Risiko ihrer Offenlegung nicht getragen werden kann und deshalb 
+die Fragen hinsichtlich der Sicherheitsbeh&#246;rden des Bundes mit polizeilichen 
+und nachrichtendienstlichen Aufgaben auch nicht in eingestufter Form
+beantwortet werden k&#246;nnen.
+Eine Bekanntgabe von Einzelheiten der bei diesen Beh&#246;rden zur Bek&#228;mpfung 
+von Kriminalit&#228;t und Terrorismus im Rahmen ihrer jeweiligen Zust&#228;ndigkeit 
+eingesetzten Softwareprodukte f&#252;r die Bearbeitung und Auswertung von
+Ermittlungsverfahren w&#252;rde weitgehende R&#252;ckschl&#252;sse auf die technischen
+F&#228;higkeiten sowie die taktischen Einzelheiten bzw. Arbeitsabl&#228;ufe und damit
+mittelbar auch sowohl auf die derzeitige als auch die geplante technische
+Ausstattung sowie das Strafverfolgungs- und Gefahrenabwehrpotenzial dieser
+Beh&#246;rden zulassen.
+Ferner ber&#252;hren diese Fragen unmittelbar Aspekte zu technischen
+Vorgehensweisen und F&#228;higkeiten der polizeilichen und nachrichtendienstlichen
+Beh&#246;rden auf dem Gebiet der informationstechnischen &#220;berwachung. Durch ein
+Bekanntwerden dieser Methoden k&#246;nnten die F&#228;higkeiten der Sicherheitsbeh&#246;rden 
+mit polizeilichen und nachrichtendienstlichen Aufgaben, Erkenntnisse im Wege 
+der technischen Strafaufkl&#228;rung und Gefahrenabwehr zu gewinnen, in
+erheblicher Weise negativ beeinflusst werden, insbesondere, wenn keine
+ausreichenden Alternativen zu den f&#252;r die Strafverfolgung und Gefahrenabwehr genutzten 
+Produkten zur Verf&#252;gung stehen. Denn Personen k&#246;nnten sich somit gezielt 
+eben jener Ma&#223;nahmen entziehen, etwa durch Aktivit&#228;ten zur Hinderung des 
+Einsatzes der entsprechenden Software. Dies ist jedoch nicht hinnehmbar, da 
+die Gewinnung von Informationen durch eine IT- bzw. softwaregest&#252;tzte
+Strafverfolgung und Gefahrenabwehr f&#252;r die Aufgabenerf&#252;llung dieser Beh&#246;rden 
+und damit f&#252;r die Sicherheit der Bundesrepublik Deutschland und bei der
+Bek&#228;mpfung vor allem des Terrorismus, der politisch motivierten sowie der
+organisierten Kriminalit&#228;t, unerl&#228;sslich ist. Sofern solche Informationen entfallen 
+oder wesentlich zur&#252;ckgehen sollten, w&#252;rden empfindliche Informationsl&#252;cken 
+auch im Hinblick auf die Sicherheitslage der Bundesrepublik Deutschland
+drohen.
+Dies w&#252;rde folgenschwere Einschr&#228;nkungen der Strafverfolgung und
+Gefahrenabwehr bedeuten, womit letztlich die gesetzlichen Auftr&#228;ge von BKA &#8211;
+verankert im Grundgesetz (Artikel 73 Absatz 1 Nummer 9a, Nummer 10 GG,
+Artikel 87 GG) und im Bundeskriminalamtgesetz (BKAG), BPOL (Artikel 87 GG 
+und Bundespolizeigesetz (BPolG)) und Zollfahndungsdienst FIU (Artikel 87 
+GG und Zollfahndungsdienstgesetz (ZFdG), Geldw&#228;schegesetz (GwG),
+Unionszollkodex (UZK)) &#8211; nicht mehr sachgerecht erf&#252;llt werden k&#246;nnten.
+Auch birgt eine Offenlegung der angefragten Informationen die Gefahr, dass 
+Einzelheiten zur konkreten Methodik und zu aus den vorgenannten Gr&#252;nden im 
+hohen Ma&#223;e schutzw&#252;rdigen spezifischen F&#228;higkeiten der Nachrichtendienste 
+des Bundes bekannt w&#252;rden. Infolgedessen k&#246;nnten sowohl staatliche als auch 
+nichtstaatliche Akteure R&#252;ckschl&#252;sse auf spezifische Vorgehensweisen und
+F&#228;higkeiten der Nachrichtendienste des Bundes gewinnen. Dies w&#252;rde
+folgenschwere Einschr&#228;nkungen der Informationsgewinnung bedeuten, womit
+letztlich der gesetzliche Auftrag der Nachrichtendienste des Bundes (&#167; 1 Absatz 2 
+BNDG, &#167; 3 Absatz 1 BVerfSchG, &#167; 1 Absatz 1 und &#167; 14 Absatz 1 MADG) 
+nicht mehr sachgerecht erf&#252;llt werden k&#246;nnte.
+Auch eine VS-Einstufung und Hinterlegung der angefragten Informationen in 
+der Geheimschutzstelle des Deutschen Bundestages w&#252;rde ihrer erheblichen 
+Brisanz im Hinblick auf die Bedeutung der Informationen sowohl f&#252;r die
+Aufgabenerf&#252;llung der Nachrichtendienste des Bundes als auch der
+Sicherheitsbeh&#246;rden des Bundes mit polizeilichen Aufgaben nicht ausreichend Rechnung 
+tragen, weil insoweit auch ein geringf&#252;giges Risiko des Bekanntwerdens unter 
+keinen Umst&#228;nden hingenommen werden kann.
+Im Ergebnis kommt die Bundesregierung im Rahmen ihrer Abw&#228;gung
+zwischen Staatswohl und parlamentarischem Informationsrecht zu der
+Einsch&#228;tzung, dass auch vom Bundestag ergriffene Geheimschutzma&#223;nahmen den
+Belangen des Staatswohls nicht hinreichend Rechnung tragen k&#246;nnen, weil auch 
+ein geringf&#252;giges Risiko des Bekanntwerdens der betreffenden Informationen 
+unter keinen Umst&#228;nden hingenommen werden kann, kann die Beantwortung 
+ausnahmsweise verweigert werden (vgl. BVerfGE 124, 78 [138f]). Schon die 
+Angabe, mittels welcher technischen Produkte die Sicherheitsbeh&#246;rden z. B. 
+von der Telekommunikations&#252;berwachung Gebrauch machen, k&#246;nnte zu einer 
+&#196;nderung des Kommunikationsverhaltens der betreffenden beobachteten
+Personen f&#252;hren, die eine weitere Aufkl&#228;rung der von diesen verfolgten
+Bestrebungen und Planungen unm&#246;glich machen w&#252;rde. In diesem Fall w&#228;re ein Ersatz 
+durch andere Instrumente nicht m&#246;glich.
+Aus dem Vorgesagten ergibt sich f&#252;r die Fragen 1, 2, 3, 4, 14 und 16, dass die 
+erbetenen Informationen derart schutzbed&#252;rftige Geheimhaltungsinteressen
+ber&#252;hren, dass das Staatswohl gegen&#252;ber dem parlamentarischen
+Informationsrecht &#252;berwiegt. Insofern muss ausnahmsweise das Fragerecht der
+Abgeordneten gegen&#252;ber den Geheimhaltungsinteressen der Sicherheitsbeh&#246;rden des
+Bundes zur&#252;ckstehen.
+&#8199;1. Kann die Bundesregierung die Medienberichte &#252;ber Treffen,
+Produktpr&#228;sentationen und Verkaufsgespr&#228;che zwischen NSO-Vertretern und
+Vertretern deutscher Sicherheitsbeh&#246;rden best&#228;tigen, und wenn ja, wann
+fanden diese jeweils statt (bitte entsprechend nach Datum, Beh&#246;rde und 
+Thema des Treffens auflisten)?
+Zur Wahrnehmung ihrer Aufgaben hinsichtlich der Weiterentwicklung von
+Cyberf&#228;higkeiten im Bereich der Informationstechnischen &#220;berwachung steht die 
+Zentrale Stelle f&#252;r Informationstechnik im Sicherheitsbereich (ZITiS) seit 2018 
+mit Vertretern der NSO Group Technologies Limited in Kontakt, um im
+Rahmen einer Marktsichtung Informationen &#252;ber das Portfolio des Unternehmens 
+zu erhalten und dessen Eignung f&#252;r eine m&#246;gliche Verwendung durch die
+Sicherheitsbeh&#246;rden des Bundes zu evaluieren. Dar&#252;ber hinaus wird auf die
+Vorbemerkung der Bundesregierung verwiesen.
+&#8199;2. Haben nach Kenntnis der Bundesregierung deutsche Sicherheitsbeh&#246;rden 
+Produkte der Firma NSO Group erworben, und wenn ja, um welche
+Sicherheitsbeh&#246;rden und Produkte handelt es sich dabei (bitte entsprechend 
+nach Sicherheitsbeh&#246;rde, Produkt, Kostenaufwand und Anzahl der
+Eins&#228;tze auff&#252;hren)?
+&#8199;3. Wurden deutschen Sicherheitsbeh&#246;rden von der Firma NSO Group
+Produkte und/oder Leistungen f&#252;r Testzwecke (z. B. zeitlich terminierte 
+Testversionen) &#252;bermittelt?
+Wenn ja, in welchem Umfang, und &#252;ber welchen Zeitraum?
+Wurden besagte Testversionen dann auch ausgef&#252;hrt?
+&#8199;4. Sofern die Spionagesoftware &#8222;Pegasus&#8220; zwar von deutschen Beh&#246;rden 
+beschafft, aber bislang nicht eingesetzt wurde, worin bestanden bzw.
+bestehen die Gr&#252;nde?
+Die Fragen 2 bis 4 werden gemeinsam beantwortet.
+Es wird auf die Vorbemerkung der Bundesregierung verwiesen.
+&#8199;5. Hat die Bundesregierung einen Einsatz der Spionagesoftware &#8222;Pegasus&#8220; 
+in Deutschland in rechtlicher Hinsicht bewertet, und wenn ja, mit
+welchem Ergebnis?
+&#8199;6. Hat die Bundesregierung den Betrieb von Servern der Firma NSO Group 
+in Deutschland zur weltweiten Anwendung der Spionagesoftware
+&#8222;Pegasus&#8220; in rechtlicher Hinsicht bewertet, und sieht sie ggf. Handlungsbedarf 
+(bitte begr&#252;nden)?
+&#8199;7. Stellen nach Rechtsauffassung der Bundesregierung das Anbieten und 
+der Verkauf der Spionagesoftware &#8222;Pegasus&#8220; in Deutschland
+Straftatbest&#228;nde nach dem Strafgesetzbuch (StGB) oder nach anderen
+Rechtsnormen dar, und wenn ja, welche (bitte begr&#252;nden)?
+Die Fragen 5 bis 7 werden aufgrund ihres Sachzusammenhangs gemeinsam
+beantwortet.
+Das deutsche Recht normiert den jeweiligen Einsatz zur
+Telekommunikations&#252;berwachung bzw. zur Onlinedurchsuchung technikneutral. Der Einsatz ist nur 
+im Einzelfall und unter strengen rechtlichen Auflagen zum Schutz
+hochrangiger Rechtsg&#252;ter oder der Verfolgung schwerer bzw. besonders schwerer
+Straftaten zul&#228;ssig. Die Zul&#228;ssigkeitsvoraussetzungen ergeben sich im Einzelnen aus 
+den jeweiligen Rechtsgrundlagen (vgl. etwa zur Quellen-
+Telekommunikations&#252;berwachung &#167; 100a Absatz 1 Satz 2, 3 StPO, &#167;&#167; 5, 51 Absatz 2 BKAG bzw. 
+&#167; 11 Absatz 1a G 10 und zur Onlinedurchsuchung &#167; 100b StPO bzw. &#167; 49 
+BKAG).
+Der Einsatz sogenannter Sp&#228;hsoftware in Deutschland durch Unberechtigte 
+kann hingegen, je nach den Umst&#228;nden des Einzelfalls, verschiedene
+Straftatbest&#228;nde erf&#252;llen.
+Wenn Endger&#228;te betroffener Personen ausgelesen oder ihre Telefonate abgeh&#246;rt 
+werden, kommen insbesondere die Straftatbest&#228;nde der Verletzung der
+Vertraulichkeit des Wortes (&#167; 201 StGB), des Aussp&#228;hens oder Abfangens von Daten 
+(&#167;&#167; 202a, 202b StGB), des Vorbereitens des Aussp&#228;hens und Abfangens von
+Daten (&#167; 202c StGB) oder der Datenhehlerei (&#167; 202d StGB) in Betracht, wenn 
+die jeweils weiteren Tatbestandsvoraussetzungen gegeben sind. Je nach zu 
+Grunde liegender Planung des Einsatzes sogenannter Sp&#228;hsoftware und je nach 
+Zielgruppe k&#246;nnen auch Straftaten aus dem Bereich des Staatsschutzes, wie 
+&#167; 98 StGB (Landesverr&#228;terische Agentent&#228;tigkeit) und &#167; 99 StGB
+(Geheimdienstliche Agentent&#228;tigkeit) vorliegen. Das Anbieten oder Verkaufen von
+Software, die dem Aussp&#228;hen von Daten dient, kann zudem, soweit nicht bereits 
+eine Strafbarkeit nach &#167; 202c StGB gegeben ist, eine strafbare
+Beihilfehandlung (&#167; 27 StGB) darstellen, wenn die jeweils weiteren
+Tatbestandsvoraussetzungen gegeben sind. K&#252;nftig kann dar&#252;ber hinaus bestraft werden, wer eine 
+Handelsplattform im Internet betreibt, deren Zweck darauf ausgerichtet ist, die 
+Begehung bestimmter rechtswidriger Taten zu erm&#246;glichen oder zu f&#246;rdern 
+(&#167; 127 StGB-neu). Hierzu geh&#246;ren auch rechtswidrige Taten nach den &#167;&#167; 202a 
+bis 202d StGB. Ermittlung und Bewertung eines entsprechenden Sachverhalts 
+sind Angelegenheit der Strafverfolgungsbeh&#246;rden.
+Dar&#252;ber hinaus beurteilt sich das Anbieten und der Verkauf von Software nach 
+den vertragsrechtlichen Vorschriften des B&#252;rgerlichen Gesetzbuches und
+verst&#246;&#223;t nicht per se gegen die guten Sitten und erf&#252;llt keinen Straftatbestand.
+&#8199;8. Hat die Bundesregierung einen Einsatz der Spionagesoftware &#8222;Pegasus&#8220; 
+in Deutschland im Hinblick auf eine Gef&#228;hrdung der grundrechtlich
+gesch&#252;tzten Meinungs-, Informations-, Presse-, Rundfunk- und Filmfreiheit 
+(Artikel 5 Absatz 1 und 2 GG) bewertet, und wenn ja, mit welchem
+Ergebnis (bitte begr&#252;nden)?
+Eingriffe in die grundrechtlich gesch&#252;tzte Meinungs-, Informations-, Presse-, 
+Rundfunk- und Filmfreiheit bed&#252;rfen immer einer gesetzlichen Grundlage 
+(z. B. Befugnisnorm aus der Strafprozessordnung oder dem
+Gefahrenabwehrrecht) und sind nur bei strikter Wahrung der Verh&#228;ltnism&#228;&#223;igkeit
+verfassungsrechtlich zul&#228;ssig. Erm&#228;chtigt der Gesetzgeber Beh&#246;rden zu Ma&#223;nahmen der 
+informationstechnischen &#220;berwachung, sind zudem die Vorgaben des
+Fernmeldegeheimnisses (Artikel 10 GG) einzuhalten.
+Hiernach sind die jeweils gesetzlich normierten Voraussetzungen und
+Verfahrensvorschriften (z. B. Richtervorbehalt) unter strenger Beachtung der
+Vorgaben des Bundesverfassungsgerichts anzuwenden.
+Im &#220;brigen wird auf die Antwort zu den Fragen 5 bis 7 verwiesen.
+&#8199;9. Haben die Bundesregierung und deutsche Sicherheitsbeh&#246;rden Kenntnis 
+&#252;ber die Aussp&#228;hung in der Bundesrepublik Deutschland lebender
+Journalistinnen und Journalisten, Politikerinnen und Politikern oder
+Menschenrechtsaktivistinnen und Menschenrechtsaktivisten mithilfe der 
+Spionagesoftware &#8222;Pegasus&#8220;, wenn ja,
+a) durch wen erfolgt die &#220;berwachung,
+b) wer ist davon betroffen,
+c) seit wann besitzt die Bundesregierung diese Informationen,
+d) wurden die zust&#228;ndigen parlamentarischen Kontrollgremien des 
+Deutschen Bundestages davon in Kenntnis gesetzt, falls nein,
+weshalb nicht,
+e) wurden Betroffene seitens deutscher Sicherheitsbeh&#246;rden informiert, 
+und wenn ja, wann, und wenn nein, warum nicht?
+Die Fragen 9 bis 9e werden gemeinsam beantwortet.
+Der Bundesregierung liegen hierzu keine Erkenntnisse im Sinne der
+Fragestellung vor.
+10. Hat die Bundesregierung &#252;berpr&#252;ft, ob Angeh&#246;rige der Bundesregierung 
+selbst von &#220;berwachungsma&#223;nahmen betroffen sind, weil diese in
+direktem Austausch bzw. Kontakt mit &#252;berwachten ausl&#228;ndischen
+Regierungsangeh&#246;rigen standen (inklusive Staats- und Regierungschefs,
+beispielsweise Emmanuel Macron), und wenn ja, mit welchem Ergebnis, 
+und gab es in diesem Zusammenhang Konsultationen mit anderen
+Regierungen?
+Der Bundesregierung liegen hierzu keine Erkenntnisse im Sinne der
+Fragestellung vor.
+11. Ist der Bundesregierung bekannt, ob unter Einsatz von
+Spionageprodukten der Firma NSO Group auch Rechner und Informationssysteme von 
+an Asylverfahren beteiligten Einrichtungen, vor allem des Bundes, Ziel 
+der Aussp&#228;hung durch Geheimdienste von Staaten sind, die
+Oppositionelle verfolgen?
+a) Sind der Bundesregierung derartige Angriffe bekannt, und wenn ja, 
+auf welche Einrichtungen sind diese wann, von wem und mit
+welchem Ziel jeweils erfolgt, und welche Konsequenzen seitens der
+Sicherheitsbeh&#246;rden, des Bundesamts f&#252;r Sicherheit in der
+Informationstechnik oder des Verfassungsschutzes hatte dies jeweils?
+Wenn nein, haben die Bundesregierung und deutsche
+Sicherheitsbeh&#246;rden eine m&#246;gliche Aussp&#228;hung untersucht, oder werden sie eine 
+solche Untersuchung veranlassen?
+b) Sind der Bundesregierung grunds&#228;tzlich Angriffe auf die
+Kommunikationsinfrastruktur des Bundes bzw. in Deutschland bekannt, die mit 
+Produkten der Firma NSO Group ver&#252;bt wurden?
+Wenn ja, welche sind dies, und wie wurde darauf seitens der
+Sicherheitsbeh&#246;rden reagiert?
+Die Fragen 11 bis 11b werden gemeinsam beantwortet.
+Das Bundesamt f&#252;r Sicherheit in der Informationstechnik (BSI) pr&#252;ft
+regelm&#228;&#223;ig auf Basis von &#167; 5 BSIG Cyberangriffe gegen die Bundesverwaltung.
+Hinweise zum Einsatz von &#220;berwachungsprodukten der Firma NSO-Group sind in 
+diesem Zusammenhang bisher nicht festgestellt worden. Dar&#252;ber hinaus liegen 
+der Bundesregierung keine Erkenntnisse im Sinne der Fragestellungen vor.
+12. Wie beabsichtigt die Bundesregierung, ihrer Schutzpflicht gegen&#252;ber
+ihren B&#252;rgerinnen und B&#252;rgern, aber auch gegen&#252;ber ausl&#228;ndischen
+Betroffenen (z. B. Journalisten, Menschenrechtsaktivisten und
+Asylsuchenden) in Deutschland nachzukommen und sie vor Zugriffen ausl&#228;ndischer 
+Geheimdienste zu sch&#252;tzen?
+Das BSI f&#246;rdert den sicheren Einsatz von Informations- und
+Kommunikationstechnik in Staat, Wirtschaft und Gesellschaft. Als Cyber-Sicherheitsbeh&#246;rde des 
+Bundes setzt sich das BSI zum Schutz der B&#252;rgerinnen und B&#252;rger unter
+anderem f&#252;r die Etablierung grundlegender Sicherheitsstandards und die
+Information sowie Sensibilisierung der B&#252;rgerinnen und B&#252;rger ein.
+Dies umfasst wichtige Sicherheitsempfehlungen, Informationen zu aktuellen 
+Sicherheitsrisiken bzw. Angriffsmethoden sowie Kontakt- und
+Beteiligungsm&#246;glichkeiten (siehe: https://www.bsi.bund.de/VerbraucherInnen). 
+Insbesondere die F&#246;rderung von Verschl&#252;sselungstechniken erm&#246;glicht, dass B&#252;rgerinnen 
+und B&#252;rger in Deutschland kommunizieren k&#246;nnen, ohne dass diese
+Kommunikation auf der Verbindungsstrecke abgeh&#246;rt werden kann. Weiterhin
+ver&#246;ffentlicht das BSI Hinweise und Warnungen, mit denen auch B&#252;rgerinnen und
+B&#252;rger ihre IT-Systeme besser gegen&#252;ber Angriffen sch&#252;tzen k&#246;nnen. Und
+schlie&#223;lich informiert das BSI t&#228;glich Betroffene in Deutschland dar&#252;ber, falls auf
+ihren IT-Systemen Schadprogramme installiert sind.
+13. Was hat die Bundesregierung bislang zum Schutz der Bev&#246;lkerung vor 
+Aussp&#228;hung durch Spionagesoftware auf deutscher und europ&#228;ischer 
+Ebene unternommen, und wie ist der aktuelle Umsetzungsstand beim 
+staatlichen Schwachstellenmanagement (Vulnerability Equities Process &#8211; 
+VEP)?
+Bei Bekanntwerden von Angriffskampagnen mit Relevanz f&#252;r die IT-Sicherheit 
+in Deutschland informiert das BSI, unabh&#228;ngig von der Art des Cyber-Angriffs, 
+seine Zielgruppen. Im Rahmen der Ver&#246;ffentlichungen zu Pegasus hat das BSI 
+am 27. Juli 2021 eine &#246;ffentliche Cyber-Sicherheitswarnung mit dem Titel 
+&#8222;Smartphones weltweit von Pegasus &#252;berwacht&#8220; (CSW-Nr. 2021-234348-1032) 
+herausgegeben https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnung
+en/DE/2021/2021-234348-1032_csw.html.
+Die Bundesregierung setzt sich weiterhin inhaltlich mit dem
+verantwortungsvollen Umgang mit Schwachstellen auseinander. Eine ausgewogene
+beh&#246;rden&#252;bergreifende Strategie zum Umgang mit 0-day-Schwachstellen nach den
+jeweils geltenden gesetzlichen Vorgaben bei den Strafverfolgungs- und
+Sicherheitsbeh&#246;rden &#252;ber bereits vorhandene interne Beh&#246;rdenvorgaben hinaus bringt 
+die Interessen der Cyber- und Informationssicherheit sowie der
+Strafverfolgungs- und Sicherheitsbeh&#246;rden in einen angemessenen Ausgleich. Diese
+Thematik hat auch Eingang in die Cybersicherheitsstrategie Deutschland 2021
+gefunden.
+14. Wie hoch waren seit 2017 die Kosten f&#252;r die Entwicklung bzw. die
+Beschaffung und den Einsatz von &#220;berwachungssoftware von
+Bundessicherheitsbeh&#246;rden (bitte entsprechend nach Jahr, Beh&#246;rde, Erwerb, 
+Entwicklung und Einsatz von &#220;berwachungssoftware aufschl&#252;sseln)?
+Es wird auf die als &#8222;VS &#8211; Nur f&#252;r den Dienstgebrauch&#8220; eingestufte Anlage 1* 
+gem&#228;&#223; der Vorbemerkung der Bundesregierung verwiesen.
+Dar&#252;ber hinaus wird auf die Vorbemerkung der Bundesregierung verwiesen.
+15. Wie hoch waren seit 2017 die Kosten f&#252;r die Entwicklung bzw. die
+Beschaffung und den Einsatz von Verschl&#252;sselungs- und Antivirensoftware 
+durch Bundesbeh&#246;rden (bitte entsprechend nach Jahr, Beh&#246;rde,
+Beschaffung, Entwicklung und Einsatz von Verschl&#252;sselungs- und
+Antivirensoftware aufschl&#252;sseln)?
+Es wird auf die als &#8222;VS &#8211; Nur f&#252;r den Dienstgebrauch&#8220; eingestufte Anlage 2* 
+gem&#228;&#223; der Vorbemerkung der Bundesregierung verwiesen.
+Ferner wird darauf hingewiesen, dass die Kosten f&#252;r die Entwicklung bzw. die 
+Beschaffung und den Einsatz von Verschl&#252;sselungs- und Antivirensoftware 
+* Das Bundesministerium des Innern, f&#252;r Bau und Heimat hat die Antwort als &#8222;VS &#8211; Nur f&#252;r den Dienstgebrauch&#8220;
+eingestuft. Die Antwort ist im Parlamentssekretariat des Deutschen Bundestages hinterlegt und kann dort von Berechtigten 
+eingesehen werden.
+aufgrund von verschiedenen IT-Komponenten, einer komplexen IT-
+Infrastruktur, kontinuierlicher (Weiter-)Entwicklung von IT-Fachverfahren, bei denen die 
+Kosten anteilig in den Gesamtentwicklungskosten enthalten sind, sowie nicht 
+aufschl&#252;sselbarer Gesamtkostenmodelle nicht immer ermittelbar sind. Bei nicht 
+eindeutig aufschl&#252;sselbaren Kosten wurden diese teilweise nicht ber&#252;cksichtigt.
+Analog gilt f&#252;r interne und externe Personalkosten, dass diese dem Betrieb der 
+zu betrachtenden Softwarel&#246;sungen nicht immer hinreichend eindeutig
+zugeordnet werden k&#246;nnen. Zu beachten ist auch, dass eingesetzte Software
+teilweise zentral f&#252;r verschiedene Beh&#246;rden finanziert wird und somit die Ausgaben 
+nicht trennscharf den einzelnen Beh&#246;rden zuzuordnen sind.
+Zusammengefasst: Infolge der Komplexit&#228;t moderner IT-Sicherungssysteme ist 
+eine eindeutige Kostenzuordnung zu den erfragten Softwareprodukten bzw.
+Sicherungsfunktionen nur eingeschr&#228;nkt m&#246;glich bzw. nur mit unverh&#228;ltnism&#228;&#223;ig 
+hohem Aufwand zu realisieren.
+Mit dem Ziel einer weitestgehend konsistenten Datenerhebung wurde diese
+daher vorrangig auf die bei den Endger&#228;ten zum Einsatz kommende Software
+fokussiert.
+Soweit Angaben zu einzelnen Beh&#246;rden fehlen, ist dies keinesfalls mit
+fehlenden Sicherungsma&#223;nahmen gleichzusetzen. Vielmehr verf&#252;gen diese Beh&#246;rden 
+&#252;ber keine eigene Informations- und Kommunikationstechnik oder setzen bei 
+Verschl&#252;sselung Antivirensoftwarelizenz- bzw. kostenfreie Produkte ein. Beim 
+BMVg hingegen werden die angefragten Detailinformationen nicht in einer f&#252;r 
+die Erhebung erforderlichen Form vorgehalten, weshalb hier im Hinblick auf 
+den erheblichen Aufwand von einer gesonderten Erhebung abgesehen wird.
+16. Kann die Bundesregierung ausschlie&#223;en, dass die von Einrichtungen des 
+Bundes entwickelten bzw. geheim gehaltenen Sicherheitsl&#252;cken von der 
+NSO Group Technologies f&#252;r ihre Produkte und/oder Leistungen
+verwendet werden, um weltweit elektronische Ger&#228;te zu kompromittieren 
+(bitte begr&#252;nden)?
+Bisher wurden f&#252;r den Umgang mit Schwachstellen bereits Prozesse bez&#252;glich 
+der Meldung innerhalb der Bundesverwaltung an das BSI und durch das BSI 
+etabliert (vgl. &#167; 4 Absatz 2 bis 4 BSIG). Demnach m&#252;ssen grunds&#228;tzlich alle 
+Bundesbeh&#246;rden Informationen im Zusammenhang mit neu festgestellten 
+Schwachstellen, die f&#252;r die Erf&#252;llung von Aufgaben oder die Sicherheit der
+Informationstechnik anderer Beh&#246;rden von Bedeutung sind, an das BSI melden.
+Gefundene Schwachstellen werden &#252;ber das BSI dem betroffenen Hersteller 
+gemeldet, damit dieser die M&#246;glichkeit erh&#228;lt, die Schwachstelle zu schlie&#223;en. 
+Das Verfahren zielt darauf ab, den durch eine m&#246;gliche Ausnutzung von 
+Schwachstellen resultierenden Schaden zu minimieren, da zum einen durch die 
+koordinierte Beteiligung betroffener Hersteller eine Bereitstellung von
+funktionierenden Sicherheitsupdates erm&#246;glicht wird und zum anderen das
+tempor&#228;re Zur&#252;ckhalten von Schwachstellen- und Angriffsdetails die Ausnutzung
+zun&#228;chst erschwert und damit das Schadenspotential reduziert werden kann. Als 
+bew&#228;hrte Methode, sowohl national wie auch international wird der
+&#8222;Coordinated Vulnerability Diclosure&#8220; (CVD) Prozess anerkannt.
+Des Weiteren wird auf die Vorbemerkung der Bundesregierung verwiesen.
+17. Kennt die Bundesregierung die Forderung des Whistleblower Edward 
+Snowden nach einem Moratorium f&#252;r den Handel mit Cyberwaffen (vgl. 
+https://www.zeit.de/digital/2021-07/edward-snowden-spionage-software-
+pegasus-handy-ueberwachung-diktaturen), und hat sie eine Position
+dazu?
+Wird sie diese Forderung umsetzen?
+Wenn nein, warum nicht?
+18. Kennt die Bundesregierung die Forderung des Deutschen Journalisten-
+Verbandes (DJV), die deutschen Sicherheitsbeh&#246;rden und die
+Geheimdienste sollen Auskunft dar&#252;ber geben, ob die &#8222;Pegasus&#8220;-Sp&#228;hsoftware 
+gegen deutsche Journalistinnen und Journalisten eingesetzt wurde 
+(https://www.djv.de/startseite/profil/der-djv/pressebereich-download/pre
+ssemitteilungen/detail/news-aufklaerung-gefordert-2), und wird sie
+darauf reagieren?
+Wenn ja, in welcher Form (bitte begr&#252;nden)?
+19. Wie hat oder wird die Bundesregierung auf die Forderung der Vereinten 
+Nationen nach einer menschenrechtszentrierten Regulierung solcher 
+&#220;berwachungssoftware reagieren (https://news.un.org/en/story/2021/07/
+1096142; bitte begr&#252;nden)?
+Die Fragen 17 bis 19 werden aufgrund ihres Sachzusammenhangs gemeinsam 
+beantwortet.
+&#220;ber die mediale Berichterstattung hinaus liegen der Bundesregierung hierzu 
+keine Informationen im Sinne der Fragestellung vor.
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/31809 -
+Einsatz der Spionagesoftware "Pegasus" in Deutschland</titel>
+    <datum>2021-09-01</datum>
+  </document>

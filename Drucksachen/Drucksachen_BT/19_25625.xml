@@ -1,0 +1,602 @@
+<document>
+    <id>249000</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/25625</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>c84387fb45b8dbb79dbbdce535aef1be</pdf_hash>
+    <aktualisiert>2022-12-08T11:13:44+01:00</aktualisiert>
+    <vorgangsbezug>
+      <id>270316</id>
+      <titel>Fragen zum Kreditkonsortium der Wirecard AG</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium der Finanzen</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/256/1925625.pdf</pdf_url>
+      <id>249000</id>
+      <dokumentnummer>19/25625</dokumentnummer>
+      <datum>2021-01-18</datum>
+      <verteildatum>2021-01-25</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Antwort
+der Bundesregierung
+auf die Kleine Anfrage der Abgeordneten Frank Sch&#228;ffler, Christian D&#252;rr, 
+Dr. Florian Toncar, weiterer Abgeordneter und der Fraktion der FDP
+&#8211; Drucksache 19/24561 &#8211;
+Fragen zum Kreditkonsortium der Wirecard AG
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Ein Konsortium von rund 15 Geldh&#228;usern hatte Wirecard eine revolvierende 
+Kreditlinie von knapp 1,8 Mrd. Euro gew&#228;hrt (https://www.handelsblatt.com/f
+inanzen/maerkte/devisen-rohstoffe/niederlaendische-grossbank-abn-amro-stei
+gt-aus-dem-handels-und-rohstoffgeschaeft-aus/26088270.html?ticket=ST-967
+0850-I9KdC19ktbEZVW3Joj6o-ap1).
+Danach hatten die Banken der Wirecard AG folgende Kreditlinien einger&#228;umt:
+&#8226; ABN Amro i. H. v. 200 Mio. Euro (https://www.finance-magazin.de/banki
+ng-berater/banking/commerzbank-schreibt-fast-200-millionen-auf-wirecar
+d-ab-2062421/),
+&#8226; Commerzbank AG i. H. v. 200 Mio. Euro (https://www.finance-magazi
+n.de/banking-berater/banking/commerzbank-schreibt-fast-200-millionen-a
+uf-wirecard-ab-2062421/),
+&#8226; ING i. H. v. 200 Mio. Euro (https://www.finance-magazin.de/banking-ber
+ater/banking/commerzbank-schreibt-fast-200-millionen-auf-wirecard-ab-2
+062421/),
+&#8226; Landesbank Baden-W&#252;rttemberg (LBBW) i. H. v. 200 Mio. Euro (https://
+www.finance-magazin.de/banking-berater/banking/commerzbank-schreib
+t-fast-200-millionen-auf-wirecard-ab-2062421/),
+&#8226; Barclays i. H. v. 120 Mio. Euro (https://www.finanznachrichten.de/nachric
+hten-2020-07/50203030-wirecard-banken-koennen-forderungen-selbst-zu-
+ramschpreisen-kaum-verkaufen-015.htm),
+&#8226; Credit Agricole i. H. v. 120 Mio. Euro (https://www.bloomberg.com/news/
+articles/2020-06-19/wirecard-has-at-least-18-lenders-in-existing-loan-agre
+ements),
+&#8226; DZ Bank i. H. v. 120 Mio. Euro (https://www.finance-magazin.de/bankin
+g-berater/banking/commerzbank-schreibt-fast-200-millionen-auf-wirecar
+d-ab-2062421/),
+Deutscher Bundestag Drucksache 19/25625
+19. Wahlperiode 18.01.2021
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums der Finanzen vom 
+23. Dezember 2020 &#252;bermittelt.
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext.
+&#8226; Lloyds i. H. v. 120 Mio. Euro (https://www.bloomberg.com/news/articles/
+2020-06-19/wirecard-has-at-least-18-lenders-in-existing-loan-agreem
+ents),
+&#8226; Bank of China i. H. v. 80 Mio. Euro (https://www.bloomberg.com/news/ar
+ticles/2020-06-19/wirecard-has-at-least-18-lenders-in-existing-loan-agree
+ments),
+&#8226; Citigroup i. H. v. 80 Mio. Euro (https://www.bloomberg.com/news/article
+s/2020-06-19/wirecard-has-at-least-18-lenders-in-existing-loan-agreem
+ents),
+&#8226; Deutsche Bank i. H. v. 80 Mio. Euro (https://www.finance-magazin.de/ban
+king-berater/banking/commerzbank-schreibt-fast-200-millionen-auf-wirec
+ard-ab-2062421/),
+&#8226; MUFG i. H. v. 80 Mio. Euro (https://www.bloomberg.com/news/articles/2
+020-06-19/wirecard-has-at-least-18-lenders-in-existing-loan-agreements),
+&#8226; Raiffeisen Nieder&#246;sterreich i. H. v. 60 Mio. Euro (https://www.bloomber
+g.com/news/articles/2020-06-19/wirecard-has-at-least-18-lenders-in-existi
+ng-loan-agreements),
+&#8226; Agricultural Bank of China i. H. v. 55 Mio. Euro (https://www.bloomber
+g.com/news/articles/2020-06-19/wirecard-has-at-least-18-lenders-in-existi
+ng-loan-agreements),
+&#8226; Raiffeisen Ober&#246;sterreich i. H. v. 45 Mio. Euro (https://www.bloomber
+g.com/news/articles/2020-06-19/wirecard-has-at-least-18-lenders-in-existi
+ng-loan-agreements).
+Das &#8222;Handelsblatt&#8220; vom 10. August 2020 meldete unter Berufung auf interne 
+Kreise bei Wirecard sowie unter Berufung auf ihm vorliegende
+Anklageschriften, Wirecard habe sich bis zur Insolvenz im Juni 2020 noch einmal weitere 
+800 Mio. Euro von dem Kreditkonsortium geliehen, sodass die Kreditlinie des 
+Kreditkonsortiums bis zu einer H&#246;he von insgesamt 1,6 Mrd. Euro
+ausgesch&#246;pft gewesen sein soll.
+V o r b e m e r k u n g  d e r  B u n d e s r e g i e r u n g
+Die Mitglieder der Bundesregierung, Parlamentarische Staatssekret&#228;rinnen und 
+Staatssekret&#228;re bzw. Staatsministerinnen und Staatsminister sowie
+Staatssekret&#228;rinnen und Staatssekret&#228;re der Bundesministerien sowie die Leitung der
+Bundesanstalt f&#252;r Finanzdienstleistungsaufsicht (BaFin) pflegen im Rahmen der 
+Aufgabenwahrnehmung Kontakte mit einer Vielzahl von Akteuren aller
+gesellschaftlichen Gruppen. Darunter fallen auch Termine mit Vertreterinnen und 
+Vertretern von Marktteilnehmern, wie z. B. Banken.
+Das parlamentarische Informationsrecht steht unter dem Vorbehalt der
+Zumutbarkeit. Die Bundesregierung verf&#252;gt nicht &#252;ber alle angefragten Informationen 
+und Daten (z. B. s&#228;mtliche Veranstaltungen, Sitzungen und Termine nebst
+Teilnehmerinnen und Teilnehmern) und kann im Sinne einer effizienten und
+ressourcenschonenden &#246;ffentlichen Verwaltung diese Informationen auch nicht 
+mit zumutbarem Aufwand beschaffen. Eine l&#252;ckenlose Auflistung derartiger 
+Treffen kann bei der Beantwortung der vorliegenden Kleinen Anfrage daher 
+nicht gew&#228;hrleistet werden.
+Insbesondere bei gr&#246;&#223;eren Veranstaltungen (z. B. Festakten, Vortr&#228;gen) l&#228;sst 
+sich vielfach nicht mehr rekonstruieren, welche Personen konkret
+teilgenommen haben und welche Gespr&#228;che anl&#228;sslich dieser Veranstaltungen im
+Einzelnen gef&#252;hrt worden sind. Mit Vertretern von Marktteilnehmern findet oftmals 
+ein Gedankenaustausch w&#228;hrend oder am Rande von Veranstaltungen statt.
+Eine vollst&#228;ndige und umfassende Aufstellung &#252;ber all diese Kontakte existiert 
+nicht, weil derartige Teilnahmen, Termine und Gespr&#228;che nicht festgehalten
+werden. Sie l&#228;sst sich im Nachgang auch nicht rekonstruieren. Eine
+Verpflichtung zur Erfassung s&#228;mtlicher gef&#252;hrter Gespr&#228;che besteht nicht und eine
+solche umfassende Dokumentation wurde auch nicht durchgef&#252;hrt (siehe dazu 
+auch die Vorbemerkung der Bundesregierung in der Antwort auf die Kleine 
+Anfrage der Fraktion DIE LINKE auf Bundestagsdrucksache 18/1174).
+Das Bundesministerium der Finanzen (BMF) hat zu der Kleinen Anfrage eine 
+Abfrage innerhalb der Ressorts der Bundesregierung durchgef&#252;hrt. Die Fragen 
+werden so verstanden, dass bilaterale Termine mit Vertretern der von den
+Fragestellungen erfassten Kreditinstitute anzugeben sind. Gr&#246;&#223;ere Veranstaltungen 
+(z. B. Festakte, Vortr&#228;ge, Panels, Gespr&#228;chsrunden oder sonstige Termine), bei 
+denen ggf. Vertreter der von den Fragestellungen erfassten Kreditinstitute
+anwesend waren, sind somit aus den o. g. Gr&#252;nden nicht umfasst. Die
+nachfolgenden Ausf&#252;hrungen bzw. Angaben erfolgen auf der Grundlage der vorliegenden 
+Erkenntnisse sowie vorhandener Unterlagen und Aufzeichnungen.
+Diesbez&#252;gliche Daten sind somit m&#246;glicherweise nicht vollst&#228;ndig. Insbesondere zu
+gef&#252;hrten Telefonaten ist darauf hinzuweisen, dass diese nur im Ausnahmefall
+dokumentiert werden. Au&#223;erdem wird darauf hingewiesen, dass die
+Vergleichbarkeit der Antworten auf die verschiedenen Fragen aufgrund der unterschiedlich 
+formulierten Fragestellungen nicht uneingeschr&#228;nkt gegeben ist. Die Fragen 
+nach den Terminen seit 2017 werden so verstanden, dass damit nach der Zeit 
+seit Konstituierung des Deutschen Bundestages am 24. Oktober 2017 in der 19. 
+Wahlperiode gefragt ist. Termine aus der Zeit vor diesem Datum sind in vielen 
+F&#228;llen nicht dokumentiert und k&#246;nnten nur sehr l&#252;ckenhaft angegeben werden. 
+Angegeben werden im Folgenden daher die Termine aus dieser Wahlperiode.
+Anzumerken ist, dass das BMF Verantwortung f&#252;r die Sicherstellung der
+Finanzmarktstabilit&#228;t tr&#228;gt und in diesem Zusammenhang selbstverst&#228;ndlich auch 
+Gespr&#228;che u. a. mit Banken zu Auswirkungen einer m&#246;glichen Insolvenz eines 
+gro&#223;en Unternehmens auf die Stabilit&#228;t des Bankensektors gef&#252;hrt werden. Es 
+kann auch nicht ausgeschlossen werden, dass im Zusammenhang mit dem
+Ausscheiden der Commerzbank AG aus dem DAX 30 und der Aufnahme der
+Wirecard AG in den DAX 30 die Wirecard AG in Gespr&#228;chen thematisiert wurde.
+&#8199;1. Wie oft und wann haben Vertreter der Leitungsebene der
+Bundesministerien sowie der Leitungsebene der Bundesanstalt f&#252;r
+Finanzdienstleistungsaufsicht (BaFin) seit 2017 mit Vertretern der Commerzbank AG
+gesprochen bzw. sich mit ihnen getroffen?
+a) Welche Personen waren an den jeweiligen Treffen beteiligt?
+Die Fragen 1 und 1a werden gemeinsam beantwortet.
+Die Bundesregierung hat im Zuge der Beantwortung parlamentarischer
+Anfragen bereits wiederholt &#252;ber Termine von Vertreterinnen und Vertretern der
+Leitungsebene der Bundesministerien sowie der Leitungsebene der BaFin mit
+Vertretern der Commerzbank AG informiert. Es wird insoweit verwiesen auf die 
+Antworten der Bundesregierung auf die Schriftliche Frage 12 des
+Abgeordneten Gerhard Zickenheiner auf Bundestagsdrucksache 19/7341, auf die Kleine 
+Anfrage der Fraktion der FDP auf Bundestagsdrucksache 19/9691, auf die 
+Kleine Anfrage der Fraktion DIE LINKE. auf Bundestagsdrucksache 19/10647, 
+auf die Schriftlichen Fragen 21 und 22 des Abgeordneten Frank Sch&#228;ffler auf 
+Bundestagsdrucksache 19/21639, auf die Kleine Anfrage der Fraktion der FDP 
+auf Bundestagsdrucksache 19/22701 sowie auf die Kleine Anfrage der Fraktion 
+der FDP auf Bundestagsdrucksache 19/23416.
+Im &#220;brigen haben seit 24. Oktober 2017 folgende Treffen mit Vertretern der 
+Commerzbank AG stattgefunden:
+Datum Ressort/Beh&#246;rde Name Vertreter des Instituts
+06.11.2017 BaFin Felix Hufeld Marcus Chromik, Bettina Orlopp
+06.12.2017 BMF Jens Spahn Martin Zielke
+12.01.2018 BaFin Felix Hufeld Martin Zielke
+14.02.2018 BMWi Matthias Machnig Michael Mandel
+01.03.2018 BaFin Raimund R&#246;seler Marcus Chromik, Christoph Heins
+11.05.2018 BMVI Guido Beermann Ilka Hartmann (in ihrer Funktion 
+als Regional Chairman der British 
+Chamber of Commerce in
+Germany)
+28.05.2018 BaFin Felix Hufeld, Raimund R&#246;seler Stefan Schmittmann
+03.07.2018 BMWi Thomas Barei&#223; Heiner Herkenhoff
+01.10.2018 BaFin Felix Hufeld Martin Zielke
+16.10.2018 BMWi Thomas Barei&#223; Klaus-Peter M&#252;ller, Heiner
+Herkenhoff
+08.11.2018 BaFin Raimund R&#246;seler Marcus Chromik
+14.01.2019 BaFin Raimund R&#246;seler Marcus Chromik
+12.04.2019 BaFin Felix Hufeld div. Vertreter der Commerzbank 
+AG
+29.05.2019 BMF J&#246;rg Kukies Michael Mandel, J&#246;rg
+Hessenm&#252;ller, Heiner Herkenhoff, Sabine 
+Schmittroth
+18.06.2019 BaFin Felix Hufeld Martin Zielke
+08.08.2019 BaFin Raimund R&#246;seler Martin Zielke,
+Marcus Chromik
+09.08.2019 BaFin Felix Hufeld Stefan Schmittmann
+14.08.2019 BaFin Raimund R&#246;seler Carsten Schmitt
+22.08.2019 BMAS Bj&#246;rn B&#246;hning Uwe Tsch&#228;ge
+15.06.2020 BMWi Peter Altmaier Martin Zielke
+17.06.2020 BMWi Peter Altmaier Ein Vertreter der Commerzbank 
+AG
+09.09.2020 BMAS Bj&#246;rn B&#246;hning Sabine Schmittroth
+19.10.2020 BMWi Peter Altmaier Werner Steinm&#252;ller
+29.10.2020 BMWi Thomas Barei&#223; Martin Zielke, Heiner Herkenhoff
+09.11.2020 BaFin Felix Hufeld, Raimund R&#246;seler Marcus Chromik
+18.11.2020 BMF J&#246;rg Kukies Manfred Knof, Heiner Herkenhoff
+&#220;ber die hier genannten Termine hinaus bestand ein regelm&#228;&#223;iger Austausch 
+mit den Vertretern des Bundes im Aufsichtsrat der Commerzbank AG.
+b) Bei wie vielen der entsprechenden Treffen wurden Themen mit Bezug 
+zum Wirecard-Konzern er&#246;rtert (bitte in einer gemeinsamen Tabelle in 
+gesonderten Spalten 1) die Daten s&#228;mtlicher Treffen, 2) Hinweis zum 
+Bezug zu Wirecard, 3) Kurzskizzierung der er&#246;rterten Themen und 4) 
+beteiligte Personen auf beiden Seiten darstellen)?
+Bei sechs von der Bundesregierung im Zuge der o. g. Beantwortung
+parlamentarischer Anfragen bereits genannten Terminen war die Wirecard AG ein
+Gespr&#228;chsthema, davon f&#252;nf mit BMF und einer mit BaFin. &#220;ber die in den o. g. 
+Anfragen bereits genannten Termine hinaus hat es keine weiteren Termine im 
+Sinne der Fragestellung gegeben. Bei den genannten Gespr&#228;chen wurde die aus 
+der Presseberichterstattung bekannte Kreditvergabe der Commerzbank AG an 
+das Unternehmen Wirecard thematisiert. Im Telefonat am 25. Juni 2020 wurde
+am Rande auch die Wirecard AG, die an diesem Tag einen Antrag auf
+Er&#246;ffnung des Insolvenzverfahrens gestellt hatte, angesprochen. Erg&#228;nzend wird auf 
+die Antworten auf die Fragen 1, 10, 12 und 14 auf die Kleine Anfrage 
+Nr. 19/22880 der Fraktion der FDP verwiesen.
+&#8199;2. Wie oft und wann haben sich Vertreter der Leitungsebene der
+Bundesministerien sowie der Leitungsebene der BaFin seit 2017 mit Vertretern 
+der ABN Amro getroffen?
+a) Welche Personen waren an den jeweiligen Treffen beteiligt?
+Die Fragen 2 und 2a werden gemeinsam beantwortet.
+Datum Ressort/Beh&#246;rde Name Vertreter des Instituts
+24.01.2019 BMF J&#246;rg Kukies Kees van Dijkhuizen
+b) Bei wie vielen der entsprechenden Treffen wurden Themen mit Bezug 
+zum Wirecard-Konzern er&#246;rtert (bitte in einer gemeinsamen Tabelle in 
+gesonderten Spalten 1) die Daten s&#228;mtlicher Treffen, 2) Hinweis zum 
+Bezug zu Wirecard, 3) Kurzskizzierung der er&#246;rterten Themen und 4) 
+beteiligte Personen auf beiden Seiten darstellen)?
+Beim oben genannten Treffen war die Wirecard AG kein Gespr&#228;chsthema.
+&#8199;3. Wie oft und wann haben sich Vertreter der Leitungsebene der
+Bundesministerien sowie der Leitungsebene der BaFin seit 2017 mit Vertretern 
+der ING getroffen?
+a) Welche Personen waren an den jeweiligen Treffen beteiligt?
+Die Fragen 3 und 3a werden gemeinsam beantwortet.
+Datum Ressort/Beh&#246;rde Name Vertreter des Instituts
+09.11.2017 BMF Thomas Steffen Ralph Hamers, Roland Boekhout
+26.04.2018 BaFin Felix Hufeld Koos Timmermans, Johanneke Weitjens
+01.06.2018 BMJV Gerd Billen Tatjana Gravenstein, Thomas Bieler
+29.06.2018 BMJV Gerd Billen Ralph Hamers, Roland Boekhout, Koos
+Timmermans und weiteren Vertretern der ING
+22.08.2018 BMF J&#246;rg Kukies Koos Timmermans, Joachim von
+Schorlemer, Wouter van Aggelen
+12.09.2018 BMF J&#246;rg Kukies Peer Steinbr&#252;ck
+24.10.2018 BaFin Felix Hufeld Roland Boekhout
+13.11.2018 BMF Olaf Scholz, J&#246;rg Kukies Ralph Hamers, Nick Jue
+23.01.2019 BMF J&#246;rg Kukies Ralph Hamers
+23.05.2019 BMF J&#246;rg Kukies Geert Wijnhoven
+17.10.2019 BMF J&#246;rg Kukies Ralph Hamers
+27.02.2020 BMF Olaf Scholz, J&#246;rg Kukies Ralph Hamers, Bernd Geilen, Ulrich Ott
+27.02.2020 BMAS Hubertus Heil Nick Jue und weitere Vertreter der ING
+18.11.2020 BMF J&#246;rg Kukies Steven van Rijswijk
+30.11.2020 BMAS Bj&#246;rn B&#246;hning Sebastian Harrer
+b) Bei wie vielen der entsprechenden Treffen wurden Themen mit Bezug 
+zum Wirecard-Konzern er&#246;rtert (bitte in einer gemeinsamen Tabelle in 
+gesonderten Spalten 1) die Daten s&#228;mtlicher Treffen, 2) Hinweis zum 
+Bezug zu Wirecard, 3) Kurzskizzierung der er&#246;rterten Themen und 4) 
+beteiligte Personen auf beiden Seiten darstellen)?
+Bei keinem der oben genannten Treffen war die Wirecard AG ein
+Gespr&#228;chsthema. Es gab jedoch am 21. Juni 2020 ein Telefonat von Staatssekret&#228;r 
+Dr. J&#246;rg Kukies mit Joachim von Schorlemer, bei dem sich Herr Kukies &#252;ber 
+die in der Presseberichterstattung diskutierte Kreditvergabe der ING an die
+Wirecard AG informierte.
+&#8199;4. Wie oft und wann haben sich Vertreter der Leitungsebene der
+Bundesministerien sowie der Leitungsebene der BaFin seit 2017 mit Vertretern 
+der Landesbank Baden-W&#252;rttemberg getroffen?
+a) Welche Personen waren an den jeweiligen Treffen beteiligt?
+Die Fragen 4 und 4a werden gemeinsam beantwortet.
+Datum Ressort/Beh&#246;rde Name Vertreter des Instituts
+07.03.2018 BaFin Felix Hufeld, Raimund R&#246;seler Rainer Neske
+03.12.2018 BaFin Raimund R&#246;seler Rainer Neske
+18.12.2018 BaFin Felix Hufeld, Raimund R&#246;seler Rainer Neske
+22.01.2019 BaFin Felix Hufeld, Raimund R&#246;seler Rainer Neske
+01.02.2019 BaFin Felix Hufeld, Raimund R&#246;seler Rainer Neske
+10.07.2019 BMF J&#246;rg Kukies Frank Hagenstein
+30.08.2019 BMF J&#246;rg Kukies div. Vertreter der LBBW
+11.02.2020 BaFin Felix Hufeld Rainer Neske
+b) Bei wie vielen der entsprechenden Treffen wurden Themen mit Bezug 
+zum Wirecard-Konzern er&#246;rtert (bitte in einer gemeinsamen Tabelle in 
+gesonderten Spalten 1) die Daten s&#228;mtlicher Treffen, 2) Hinweis zum 
+Bezug zu Wirecard, 3) Kurzskizzierung der er&#246;rterten Themen und 4) 
+beteiligte Personen auf beiden Seiten darstellen)?
+Bei keinem der oben genannten Treffen war die Wirecard AG ein
+Gespr&#228;chsthema. Es gab jedoch am 20. Juni 2020 ein Telefonat von Staatssekret&#228;r 
+Dr. J&#246;rg Kukies mit Rainer Neske, bei dem sich Herr Kukies &#252;ber die in der 
+Presseberichterstattung diskutierte Kreditvergabe der LBBW an die Wirecard 
+AG informierte.
+&#8199;5. Wie oft und wann haben sich Vertreter der Leitungsebene der
+Bundesministerien sowie der Leitungsebene der BaFin seit 2017 mit Vertretern 
+der Barclays getroffen?
+a) Welche Personen waren an den jeweiligen Treffen beteiligt?
+Die Fragen 5 und 5a werden gemeinsam beantwortet.
+Datum Ressort/Beh&#246;rde Name Vertreter des Instituts
+26.02.2018 BaFin Felix Hufeld, Raimund R&#246;seler Silvia Schmitten-Walgenbach
+11.07.2018 BMF J&#246;rg Kukies Jon Whitehouse, Andrew Dickens
+10.04.2019 BaFin Felix Hufeld, Raimund R&#246;seler Silvia Schmitten-Walgenbach
+16.09.2019 BMF J&#246;rg Kukies Silvia Schmitten-Walgenbach
+Datum Ressort/Beh&#246;rde Name Vertreter des Instituts
+17.10.2019 BMF J&#246;rg Kukies Jes Staley
+10.09.2020 BMF J&#246;rg Kukies Christian Keller, Silvia Schmitten-
+Walgenbach
+b) Bei wie vielen der entsprechenden Treffen wurden Themen mit Bezug 
+zum Wirecard-Konzern er&#246;rtert (bitte in einer gemeinsamen Tabelle in 
+gesonderten Spalten 1) die Daten s&#228;mtlicher Treffen, 2) Hinweis zum 
+Bezug zu Wirecard, 3) Kurzskizzierung der er&#246;rterten Themen und 4) 
+beteiligte Personen auf beiden Seiten darstellen)?
+Bei keinem der oben genannten Treffen war die Wirecard AG ein
+Gespr&#228;chsthema.
+&#8199;6. Wie oft und wann haben sich Vertreter der Leitungsebene der
+Bundesministerien sowie der Leitungsebene der BaFin seit 2017 mit Vertretern 
+der Credit Agricole getroffen?
+a) Welche Personen waren an den jeweiligen Treffen beteiligt?
+Die Fragen 6 und 6a werden gemeinsam beantwortet.
+Datum Ressort/Beh&#246;rde Name Vertreter des Instituts
+21.02.2019 BMF J&#246;rg Kukies Xavier Musca, Holger Reitz
+09.09.2020 BMF J&#246;rg Kukies Philippe Brassac
+b) Bei wie vielen der entsprechenden Treffen wurden Themen mit Bezug 
+zum Wirecard-Konzern er&#246;rtert (bitte in einer gemeinsamen Tabelle in 
+gesonderten Spalten 1) die Daten s&#228;mtlicher Treffen, 2) Hinweis zum 
+Bezug zu Wirecard, 3) Kurzskizzierung der er&#246;rterten Themen und 4) 
+beteiligte Personen auf beiden Seiten darstellen)?
+Bei keinem der oben genannten Treffen war die Wirecard AG ein
+Gespr&#228;chsthema.
+&#8199;7. Wie oft und wann haben sich Vertreter der Leitungsebene der
+Bundesministerien sowie der Leitungsebene der BaFin seit 2017 mit Vertretern 
+der DZ Bank getroffen?
+a) Welche Personen waren an den jeweiligen Treffen beteiligt?
+Die Fragen 7 und 7a werden gemeinsam beantwortet.
+Datum Ressort/Beh&#246;rde Name Vertreter des Instituts
+11.12.2017 BaFin Felix Hufeld Hans Bernd Wolberg
+20.04.2018 BaFin Felix Hufeld Helmut Gottschalk, Henning 
+Deneke-J&#246;hrens
+24.07.2018 BMF J&#246;rg Kukies Uwe Fr&#246;hlich
+24.09.2018 BaFin Raimund R&#246;seler Cornelius Riese
+02.11.2018 BaFin Felix Hufeld, Raimund R&#246;seler Wolfgang Kirsch
+12.11.2018 BMF J&#246;rg Kukies Cornelius Riese
+06.12.2018 BaFin Felix Hufeld, Raimund R&#246;seler Wolfgang Kirsch
+11.02.2019 BMU Rita Schwarzel&#252;hr-Sutter Ein Vertreter der DZ Bank
+10.04.2019 BMF J&#246;rg Kukies Frank Scheidig
+27.06.2019 BaFin Raimund R&#246;seler Christian Brauckmann
+29.10.2019 BMF Wolfgang Schmidt Cornelius Riese
+Datum Ressort/Beh&#246;rde Name Vertreter des Instituts
+25.03.2020 BaFin Raimund R&#246;seler Cornelius Riese
+16.07.2020 BaFin Raimund R&#246;seler div. Vertreter der DZ Bank
+b) Bei wie vielen der entsprechenden Treffen wurden Themen mit Bezug 
+zum Wirecard-Konzern er&#246;rtert (bitte in einer gemeinsamen Tabelle in 
+gesonderten Spalten 1) die Daten s&#228;mtlicher Treffen, 2) Hinweis zum 
+Bezug zu Wirecard, 3) Kurzskizzierung der er&#246;rterten Themen und 4) 
+beteiligte Personen auf beiden Seiten darstellen)?
+Bei keinem der oben genannten Treffen war die Wirecard AG ein
+Gespr&#228;chsthema.
+&#8199;8. Wie oft und wann haben sich Vertreter der Leitungsebene der
+Bundesministerien sowie der Leitungsebene der BaFin seit 2017 mit Vertretern 
+der Lloyds getroffen?
+a) Welche Personen waren an den jeweiligen Treffen beteiligt?
+b) Bei wie vielen der entsprechenden Treffen wurden Themen mit
+Bezug zum Wirecard-Konzern er&#246;rtert (bitte in einer gemeinsamen
+Tabelle in gesonderten Spalten 1) die Daten s&#228;mtlicher Treffen, 2)
+Hinweis zum Bezug zu Wirecard, 3) Kurzskizzierung der er&#246;rterten
+Themen und 4) beteiligte Personen auf beiden Seiten darstellen)?
+Die Fragen 8 bis 8b werden gemeinsam beantwortet.
+Treffen im Sinne der Frage haben nicht stattgefunden.
+&#8199;9. Wie oft und wann haben sich Vertreter der Leitungsebene der
+Bundesministerien sowie der Leitungsebene der BaFin seit 2017 mit Vertretern 
+der Bank of China getroffen?
+a) Welche Personen waren an den jeweiligen Treffen beteiligt?
+Die Fragen 9 und 9a werden gemeinsam beantwortet.
+Datum Ressort/Beh&#246;rde Name Vertreter des Instituts
+12.10.2018 BaFin Felix Hufeld Hao Hu
+b) Bei wie vielen der entsprechenden Treffen wurden Themen mit Bezug 
+zum Wirecard-Konzern er&#246;rtert (bitte in einer gemeinsamen Tabelle in 
+gesonderten Spalten 1) die Daten s&#228;mtlicher Treffen, 2) Hinweis zum 
+Bezug zu Wirecard, 3) Kurzskizzierung der er&#246;rterten Themen und 4) 
+beteiligte Personen auf beiden Seiten darstellen)?
+Beim oben genannten Treffen war die Wirecard AG kein Gespr&#228;chsthema.
+10. Wie oft und wann haben sich Vertreter der Leitungsebene der
+Bundesministerien sowie der Leitungsebene der BaFin seit 2017 mit Vertretern 
+der Citigroup getroffen?
+a) Welche Personen waren an den jeweiligen Treffen beteiligt?
+Die Fragen 10 und 10a werden gemeinsam beantwortet.
+Datum Ressort/Beh&#246;rde Name Vertreter des Instituts
+26.02.2018 BaFin Felix Hufeld, Raimund R&#246;seler Thomas Falk
+Datum Ressort/Beh&#246;rde Name Vertreter des Instituts
+11.07.2018 BMF J&#246;rg Kukies James C. Cowles,
+James Bardrick,
+Stefan Wintels,
+Christian Spieler
+20.07.2018 BMF J&#246;rg Kukies Stefan Wintels, Christian Spieler
+16.10.2018 BMF Olaf Scholz, J&#246;rg Kukies div. Vertreter der Citigroup
+24.01.2019 BMF J&#246;rg Kukies Christian Spieler, Stefan Wintels
+10.04.2019 BMF J&#246;rg Kukies John C. Dugan
+10.04.2019 BaFin Felix Hufeld, Raimund R&#246;seler Thomas Falk
+11.04.2019 BaFin Felix Hufeld Stefan Wintels, Zdenek Turek, David 
+Livingstone
+25.04.2019 BMF J&#246;rg Kukies Catherine Mann
+17.10.2019 BMF J&#246;rg Kukies David Livingstone
+18.10.2019 BMF Olaf Scholz, J&#246;rg Kukies David Livingstone
+19.12.2019 BaFin Felix Hufeld Michael Corbat
+25.09.2020 BaFin Felix Hufeld Stefan Wintels
+10.11.2020 BMF J&#246;rg Kukies David Livingstone, Kristine Braden, 
+Stefan Wintels
+b) Bei wie vielen der entsprechenden Treffen wurden Themen mit Bezug 
+zum Wirecard-Konzern er&#246;rtert (bitte in einer gemeinsamen Tabelle in 
+gesonderten Spalten 1) die Daten s&#228;mtlicher Treffen, 2) Hinweis zum 
+Bezug zu Wirecard, 3) Kurzskizzierung der er&#246;rterten Themen und 4) 
+beteiligte Personen auf beiden Seiten darstellen)?
+Bei keinem der oben genannten Treffen war die Wirecard AG ein
+Gespr&#228;chsthema.
+11. Wie oft und wann haben sich Vertreter der Leitungsebene der
+Bundesministerien sowie der Leitungsebene der BaFin seit 2017 mit Vertretern 
+der Deutsche Bank AG getroffen?
+a) Welche Personen waren an den jeweiligen Treffen beteiligt?
+Die Fragen 11 und 11a werden gemeinsam beantwortet.
+Die Bundesregierung hat im Zuge der Beantwortung parlamentarischer
+Anfragen bereits wiederholt &#252;ber Termine von Vertreterinnen und Vertretern der
+Leitungsebene der Bundesministerien sowie der Leitungsebene der BaFin mit
+Vertretern der Deutschen Bank AG informiert. Es wird insoweit verwiesen auf die 
+Antworten der Bundesregierung auf die Schriftlichen Fragen 9 und 10 des
+Abgeordneten Dr. Danyal Bayaz auf Bundestagsdrucksache 19/6961, auf die 
+Schriftlichen Fragen 11 und 12 des Abgeordneten Michael Leutert auf
+Bundestagsdrucksache 19/9553, auf die Kleine Anfrage der Fraktion der FDP auf
+Bundestagsdrucksache 19/9691, auf die Kleine Anfrage der Fraktion DIE LINKE. 
+auf Bundestagsdrucksache 19/10647, auf die Schriftliche Frage 6 des
+Abgeordneten Michael Leutert auf Bundestagsdrucksache 19/21248 sowie auf die 
+Schriftliche Frage 3 des Abgeordneten Fabio De Masi auf
+Bundestagsdrucksache 19/23047.
+Im &#220;brigen haben seit 24. Oktober 2017 folgende Treffen mit Vertretern der 
+Deutschen Bank AG stattgefunden:
+Datum Ressort/Beh&#246;rde Name Vertreter des Instituts
+09.11.2017 BaFin Felix Hufeld James von Moltke
+06.12.2017 BMF Jens Spahn Christian Sewing
+Datum Ressort/Beh&#246;rde Name Vertreter des Instituts
+06.03.2018 BMF Jens Spahn Christian Sewing
+07.03.2018 BaFin Felix Hufeld, Raimund R&#246;seler Sylvie Matherat
+07.03.2018 BaFin Felix Hufeld, Elisabeth Roegele Christian Sewing, Frank Kuhnke, 
+Knut Straeter
+26.04.2018 BaFin Felix Hufeld Sylvie Matherat
+18.05.2018 BaFin Felix Hufeld, Raimund R&#246;seler div. Vertreter der Deutschen Bank 
+AG
+06.07.2018 BaFin Felix Hufeld, Raimund R&#246;seler Christian Sewing
+23.07.2018 BaFin Felix Hufeld, Thorsten P&#246;tzsch Christian Sewing, James von 
+Moltke, Sylvie Matherat, Andreas 
+Loetscher
+19.09.2018 BMAS Hubertus Heil, Bj&#246;rn B&#246;hning Karl von Rohr
+02.10.2018 BMAS Hubertus Heil, Bj&#246;rn B&#246;hning Frank Schulze
+07.12.2018 BaFin Raimund R&#246;seler Sylvie Matherat, James von
+Moltke, Brigitte Bomm, Florian
+Drinhausen
+04.02.2019 BaFin Felix Hufeld, Raimund R&#246;seler, 
+Elisabeth Roegele
+Stefan Hoops
+11.02.2019 BaFin Raimund R&#246;seler Florian Drinhausen
+12.04.2019 BaFin Felix Hufeld Christian Sewing
+22.05.2019 BaFin Felix Hufeld Christian Sewing, James von 
+Moltke, Frank Kuhnke, 
+Alexander von zur M&#252;hlen,
+Rebecca Short
+31.05.2019 BaFin Felix Hufeld Stefan Hoops
+07.06.2019 BaFin Felix Hufeld Tamio Honma
+17.06.2019 BMF J&#246;rg Kukies Christian Sewing
+13.07.2019 BMWi Peter Altmaier Christian Sewing, ein weiterer 
+Vertreter der Deutschen Bank AG
+23.08.2019 BaFin Raimund R&#246;seler Stefan Simon
+12.09.2019 BaFin Felix Hufeld Karin Dohm, Nina Schindler
+17.09.2019 BaFin Felix Hufeld Paul Achleitner
+01.10.2019 BMF J&#246;rg Kukies Stefan Simon
+07.10.2019 BaFin Raimund R&#246;seler Stefan Simon
+09.10.2019 BaFin Raimund R&#246;seler Manfred Knof
+23.10.2019 BMAS Bj&#246;rn B&#246;hning Karl von Rohr, Johannes
+Pockrandt
+06.11.2019 BMF J&#246;rg Kukies Christian Sewing
+06.12.2019 BaFin Raimund R&#246;seler Stefan Simon
+09.01.2020 BaFin Raimund R&#246;seler Werner Steinm&#252;ller
+10.01.2020 BaFin Raimund R&#246;seler Stefan Simon, Karl von Rohr, 
+Florian Drinhausen
+24.01.2020 BMF J&#246;rg Kukies Christian Sewing
+24.01.2020 BMF J&#246;rg Kukies Paul Achleitner
+19.03.2020 BMF J&#246;rg Kukies James von Moltke
+20.03.2020 BMAS Hubertus Heil, Bj&#246;rn B&#246;hning Frank Schulze
+20.03.2020 BMAS Hubertus Heil, Bj&#246;rn B&#246;hning Fabrizio Campelli
+29.04.2020 BMAS Hubertus Heil, Bj&#246;rn B&#246;hning Frank Schulze
+29.04.2020 BMAS Hubertus Heil, Bj&#246;rn B&#246;hning Fabrizio Campelli
+05.06.2020 BaFin Felix Hufeld, Raimund R&#246;seler Christian Sewing
+09.06.2020 BMAS Hubertus Heil, Bj&#246;rn B&#246;hning, 
+Leonie Gebers
+Fabrizio Campelli
+10.06.2020 BMAS Hubertus Heil, Bj&#246;rn B&#246;hning, 
+Rolf Schmachtenberg
+Frank Schulze
+Datum Ressort/Beh&#246;rde Name Vertreter des Instituts
+29.06.2020 BaFin Raimund R&#246;seler Christian Sewing
+02.07.2020 BaFin Raimund R&#246;seler Christian Sewing
+09.09.2020 BMF J&#246;rg Kukies Stefan Simon, James von Moltke
+10.09.2020 BMF Olaf Scholz, J&#246;rg Kukies Christian Sewing
+10.09.2020 BaFin Felix Hufeld Christian Sewing, Christian
+Berendes
+11.09.2020 BMJV Christian Kastrop Stefan Simon, Frank Ludwin 
+Sch&#228;fer
+02.10.2020 BaFin Felix Hufeld Stefan Hoops
+08.10.2020 BMWi Ulrich Nu&#223;baum Alexander von zur M&#252;hlen
+08.10.2020 AA Niels Annen Alexander von zur M&#252;hlen, 
+Johannes Pockrandt
+19.10.2020 BMWi Peter Altmaier u. a. Werner Steinm&#252;ller
+b) Bei wie vielen der entsprechenden Treffen wurden Themen mit Bezug 
+zum Wirecard-Konzern er&#246;rtert (bitte in einer gemeinsamen Tabelle in 
+gesonderten Spalten 1) die Daten s&#228;mtlicher Treffen, 2) Hinweis zum 
+Bezug zu Wirecard, 3) Kurzskizzierung der er&#246;rterten Themen und 4) 
+beteiligte Personen auf beiden Seiten darstellen)?
+Bei zwei von der Bundesregierung im Zuge der Beantwortung
+parlamentarischer Anfragen bereits genannten Treffen war die Wirecard AG ein
+Gespr&#228;chsthema. Bei dem Gespr&#228;ch am 2. Juli 2020 wurde die damalige Lage des
+Unternehmens thematisiert. Wie in den Antworten der Bundesregierung auf die 
+Schriftliche Frage 6 des Abgeordneten Michael Leutert auf
+Bundestagsdrucksache 19/21248 und auf die Schriftliche Frage 3 des Ageordneten Fabio De 
+Masi auf Bundestagsdrucksache 19/23047 bereits ausgef&#252;hrt, hat Staatssekret&#228;r 
+Dr. J&#246;rg Kukies am 13. Juli 2020 in einem Gespr&#228;ch mit dem
+Vorstandsvorsitzenden der Deutschen Bank AG, Christian Sewing, auch &#252;ber das Thema
+Wirecard und die Zukunft der Wirecard Bank sowie &#252;ber die &#246;ffentlich zitierten
+&#196;u&#223;erungen eines Deutsche-Bank-Sprechers &#252;ber eine m&#246;gliche Unterst&#252;tzung 
+der Wirecard Bank AG durch die Deutsche Bank AG gesprochen.
+Bei den Terminrecherchen zur Beantwortung dieser Kleinen Anfrage wurde 
+festgestellt, dass am 30. Juni 2020 kurzfristig auf Wunsch von Christian
+Sewing ein Telefonat mit Staatssekret&#228;r Dr. J&#246;rg Kukies stattfand, bei dem 
+Christian Sewing Dr. J&#246;rg Kukies zu den o. g. &#220;berlegungen der Deutschen 
+Bank AG &#252;ber eine m&#246;gliche Unterst&#252;tzung der Wirecard Bank AG durch die 
+Deutsche Bank AG informierte. Da das Telefonat kurzfristig und ohne
+vorherige Terminvereinbarung stattfand, wurde es nicht im Kalender dokumentiert.
+12. Wie oft und wann haben sich Vertreter der Leitungsebene der
+Bundesministerien sowie der Leitungsebene der BaFin seit 2017 mit Vertretern 
+der MUFG getroffen?
+a) Welche Personen waren an den jeweiligen Treffen beteiligt?
+Die Fragen 12 und 12a werden gemeinsam beantwortet.
+Datum Ressort/Beh&#246;rde Name Vertreter des Instituts
+12.10.2018 BMF J&#246;rg Kukies Satoru Horibe, Masamichi Yasuda
+17.01.2019 BMF J&#246;rg Kukies Masamichi Yasuda
+10.04.2019 BaFin Felix Hufeld, Raimund R&#246;seler Stephan Stamm
+18.10.2019 BMF J&#246;rg Kukies Masahiro Kuwahara
+b) Bei wie vielen der entsprechenden Treffen wurden Themen mit Bezug 
+zum Wirecard-Konzern er&#246;rtert (bitte in einer gemeinsamen Tabelle in 
+gesonderten Spalten 1) die Daten s&#228;mtlicher Treffen, 2) Hinweis zum 
+Bezug zu Wirecard, 3) Kurzskizzierung der er&#246;rterten Themen und 4) 
+beteiligte Personen auf beiden Seiten darstellen)?
+Bei keinem der oben genannten Treffen war die Wirecard AG ein
+Gespr&#228;chsthema.
+13. Wie oft und wann haben sich Vertreter der Leitungsebene der
+Bundesministerien sowie der Leitungsebene der BaFin seit 2017 mit Vertretern 
+der Raiffeisen Nieder&#246;sterreich getroffen?
+a) Welche Personen waren an den jeweiligen Treffen beteiligt?
+b) Bei wie vielen der entsprechenden Treffen wurden Themen mit
+Bezug zum Wirecard-Konzern er&#246;rtert (bitte in einer gemeinsamen
+Tabelle in gesonderten Spalten 1) die Daten s&#228;mtlicher Treffen, 2)
+Hinweis zum Bezug zu Wirecard, 3) Kurzskizzierung der er&#246;rterten
+Themen und 4) beteiligte Personen auf beiden Seiten darstellen)?
+Die Fragen 13 bis 13b werden gemeinsam beantwortet.
+Treffen im Sinne der Frage haben nicht stattgefunden.
+14. Wie oft und wann haben sich Vertreter der Leitungsebene der
+Bundesministerien sowie der Leitungsebene der BaFin seit 2017 mit Vertretern 
+der Agricultural Bank of China getroffen?
+a) Welche Personen waren an den jeweiligen Treffen beteiligt?
+b) Bei wie vielen der entsprechenden Treffen wurden Themen mit
+Bezug zum Wirecard-Konzern er&#246;rtert (bitte in einer gemeinsamen
+Tabelle in gesonderten Spalten 1) die Daten s&#228;mtlicher Treffen, 2)
+Hinweis zum Bezug zu Wirecard, 3) Kurzskizzierung der er&#246;rterten
+Themen und 4) beteiligte Personen auf beiden Seiten darstellen)?
+Die Fragen 14 bis 14b werden gemeinsam beantwortet.
+Treffen im Sinne der Frage haben nicht stattgefunden.
+15. Wie oft und wann haben sich Vertreter der Leitungsebene der
+Bundesministerien sowie der Leitungsebene der BaFin seit 2017 mit Vertretern 
+der Raiffeisen Ober&#246;sterreich getroffen?
+a) Welche Personen waren an den jeweiligen Treffen beteiligt?
+b) Bei wie vielen der entsprechenden Treffen wurden Themen mit
+Bezug zum Wirecard-Konzern er&#246;rtert (bitte in einer gemeinsamen
+Tabelle in gesonderten Spalten 1) die Daten s&#228;mtlicher Treffen, 2)
+Hinweis zum Bezug zu Wirecard, 3) Kurzskizzierung der er&#246;rterten
+Themen und 4) beteiligte Personen auf beiden Seiten darstellen)?
+Die Fragen 15 bis 15b werden gemeinsam beantwortet.
+Treffen im Sinne der Frage haben nicht stattgefunden.
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/24561 -
+Fragen zum Kreditkonsortium der Wirecard AG</titel>
+    <datum>2021-01-18</datum>
+  </document>
+  

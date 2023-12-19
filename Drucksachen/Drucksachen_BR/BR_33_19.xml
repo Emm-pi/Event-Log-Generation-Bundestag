@@ -1,0 +1,560 @@
+<document>
+    <id>225655</id>
+    <drucksachetyp>Gesetzesantrag</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>33/19</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BR</herausgeber>
+    <pdf_hash>c8d13630c3e94358d6cad1894e8f4bb7</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:15+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>243296</id>
+      <titel>Strafrechts&#228;nderungsgesetz - Einf&#252;hrung einer eigenst&#228;ndigen Strafbarkeit f&#252;r das Betreiben von internetbasierten Handelsplattformen f&#252;r illegale Waren und Dienstleistungen</titel>
+      <vorgangstyp>Gesetzgebung</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>true</einbringer>
+      <rolle>U</rolle>
+      <bezeichnung>NW</bezeichnung>
+      <titel>Nordrhein-Westfalen</titel>
+    </urheber>
+    <urheber>
+      <einbringer>false</einbringer>
+      <rolle>B</rolle>
+      <bezeichnung>BY</bezeichnung>
+      <titel>Bayern</titel>
+    </urheber>
+    <urheber>
+      <einbringer>false</einbringer>
+      <rolle>B</rolle>
+      <bezeichnung>HE</bezeichnung>
+      <titel>Hessen</titel>
+    </urheber>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/brd/2019/0033-19.pdf</pdf_url>
+      <id>225655</id>
+      <dokumentnummer>33/19</dokumentnummer>
+      <datum>2019-01-18</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Gesetzesantrag</drucksachetyp>
+      <herausgeber>BR</herausgeber>
+      <urheber>Nordrhein-Westfalen</urheber>
+      <urheber>Bayern</urheber>
+      <urheber>Hessen</urheber>
+    </fundstelle>
+    <text>[Bundesrat Drucksache 33/19
+18.01.19
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln 
+Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de 
+ISSN 0720-2946
+Gesetzesantrag
+des Landes Nordrhein-Westfalen
+Entwurf eines Strafrechts&#228;nderungsgesetzes - Einf&#252;hrung einer 
+eigenst&#228;ndigen Strafbarkeit f&#252;r das Betreiben von
+internetbasierten Handelsplattformen f&#252;r illegale Waren und 
+Dienstleistungen
+A. Problem und Ziel
+Vermehrt nutzen Straft&#228;ter die M&#246;glichkeiten der Anonymisierung, die ihnen das 
+Internet bietet. Eine h&#228;ufig genutzte Form der Anonymisierung erfolgt &#252;ber das 
+&#187;The Onion Router&#171; (Tor)-Netzwerk, das aus einer Vielzahl von weltweit verteilten 
+Servern besteht, &#252;ber die Datenpakete in st&#228;ndig wechselnder Form geleitet werden. 
+Beim Verbindungsaufbau wird durch das Programm eine zuf&#228;llige Route &#252;ber einen 
+Teil der Server festgelegt, ohne dass Herkunft oder Ziel der Daten protokolliert 
+werden. Durch die Verschl&#252;sselung der Nutzerdaten und die dynamische
+Routenwahl wird die Feststellung von Anfangs- und Endpunkten eines Datentransfers
+erheblich erschwert. Insbesondere &#252;ber das Tor-Netzwerk erfolgt der Zugang zum 
+sogenannten Darknet. Zugang und Erreichbarkeit der Darknet-Angebote sind durch 
+das Erfordernis besonderer Programme, wie des Tor-Browsers, beschr&#228;nkt. 
+Die Angebote im Darknet umfassen, wie auch auf andere Weise
+zugangsbeschr&#228;nkte Dienste, neben Foren f&#252;r Whistleblower oder Chatrooms f&#252;r politisch Verfolgte 
+in autorit&#228;r gef&#252;hrten Staaten auch Inhalte bekannter Servicebetreiber, etwa
+Facebook. Ebenso finden sich jedoch Angebote mit strafrechtlicher Relevanz, darunter 
+Handel mit Bet&#228;ubungsmitteln, Kinderpornographie oder Waffen, mit
+Schadsoftware und Ausweispapieren. Vergleichbare Angebote finden sich auch in weiteren 
+Teilen des Internets. In technischer Hinsicht entsprechen die angebotenen Dienste 
+denen bekannter Online-Handelsplattformen mit Vorschaubildern der angebotenen 
+Waren, Werbung, Bewertungen f&#252;r Verk&#228;ufer und Hinweisen auf weitere
+m&#246;glicherweise f&#252;r einen Nutzer interessanten Angeboten (vgl. Tzanetakis, Drogenhandel 
+im Darknet, in Aus Politik und Zeitgeschichte 2017, 46-47/2017, S. 41 ff.).
+Das Kriminalit&#228;tsph&#228;nomen gewinnt in der Praxis der Strafverfolgung zunehmend 
+an Gewicht und beschr&#228;nkt sich dabei nicht auf wenige Einzelf&#228;lle. Aufgrund des 
+st&#228;ndigen Auftretens neuer Angebote und der auf Verschleierung angelegten
+Vorgehensweise liegen keine genauen Daten &#252;ber die Anzahl einschl&#228;giger Foren vor. 
+Die Zentralstellen der Staatsanwaltschaften f&#252;r die Verfolgung von Cybercrime der 
+L&#228;nder haben in den vergangenen Jahren jedoch bereits zahlreiche
+Ermittlungsverfahren gegen die Verantwortlichen einschl&#228;giger Foren oder Plattformen und deren 
+Nutzer gef&#252;hrt, z. B. &#8222;Deutschland im Deep Web&#8220; oder &#8222;crimenetwork.biz&#8220;. Im 
+internationalen Bereich wurden Verfahren gegen die Verantwortlichen von
+&#8222;Silkroad&#8220;, &#8222;AlphaBay&#8220; und &#8222;Hansa Market&#8220; gef&#252;hrt. Nach Einsch&#228;tzung des
+Bundeskriminalamtes wurden im Jahr 2016 circa 50 einschl&#228;gige Plattformen unterhalten 
+(BT-Drucks. 18/9487, S. 2). Das dort betriebene Gesch&#228;ftsmodell des
+&#8222;Cybercrimeas-a-Service&#8220; wird in der kriminellen Szene weiter ausgebaut (Lagebild Cybercrime 
+des Bundeskriminalamtes 2016, abrufbar unter www.bka.de, dort S. 16 ff.). Illegale 
+Onlinehandelsplattformen stellen aus Sicht von EUROPOL eine der zentralen 
+Schnittstellen von Cybercrime und weiteren Formen - auch organisierter -
+Kriminalit&#228;t dar (Internet Organised Crime Threat Assessment 2017, abrufbar unter 
+www.europol.eu). 
+Die Erfahrungen aus den gef&#252;hrten Ermittlungsverfahren lassen ein arbeitsteiliges 
+Zusammenwirken von Plattformbetreibern und Nutzern der Plattform, also sowohl 
+H&#228;ndlern als auch K&#228;ufern, erkennen. Es zeigt sich zudem, dass die klassischen
+Organisationsdelikte und die historischen gesetzgeberischen Vorstellungen von
+T&#228;terschaft und Teilnahme auf moderne, internetbasierte T&#228;terstrukturen kaum
+&#252;bertragbar sind. Die Betreiber selbst stellen lediglich eine - in einigen F&#228;llen
+vollautomatisierte - technische Infrastruktur zur Verf&#252;gung. Aufgrund dieser Umst&#228;nde ist eine 
+Beihilfehandlung zu einer konkreten Haupttat in der Praxis nur schwer erweislich. 
+Auch die Zurechnung von Einzeltaten unter dem Gesichtspunkt einer
+bandenm&#228;&#223;igen Tatbegehung ist h&#228;ufig nicht m&#246;glich, da in der Regel kriminelle Foren und 
+Marktpl&#228;tze der Underground Economy in amorphen Organisationsstrukturen
+jenseits des &#252;berkommenen Bandenbegriffs gef&#252;hrt werden. 
+Weil der Zugang zu den einschl&#228;gigen Angeboten in der Regel keinen besonderen 
+technischen Anforderungen unterliegt und die Erreichbarkeit zwar beschr&#228;nkt, aber 
+ohne erheblichen technischen Aufwand m&#246;glich ist, bieten die Handelsplattformen 
+somit einen niedrigschwelligen Zugriff auf logistische Infrastrukturen f&#252;r die
+Begehung von Straftaten auch f&#252;r Personen, die herk&#246;mmliche Beschaffungswege f&#252;r 
+Waffen, Bet&#228;ubungsmittel oder kriminelle Dienstleistungen nicht beschreiten. Diese
+Angebote stellen eine erhebliche Gefahr f&#252;r die &#246;ffentliche Sicherheit dar, ohne 
+dass die geltende Rechtslage ausreichende M&#246;glichkeiten f&#252;r eine angemessene 
+strafrechtliche Verfolgung bietet. 
+Vor diesem Hintergrund haben sich die Justizministerinnen und Justizminister der 
+L&#228;nder bereits anl&#228;sslich ihrer Herbstkonferenz am 17. November 2016 in Berlin 
+mit der Effektivit&#228;t strafrechtlicher Ermittlungen im Darknet befasst. Die
+Justizministerinnen und Justizminister halten f&#252;r erforderlich, das &#246;ffentliche Feilbieten von 
+Gegenst&#228;nden und Dienstleistungen zur Vorbereitung von Straftaten im Internet zu 
+unterbinden. Sie haben daher die Bundesregierung um Pr&#252;fung gebeten, inwieweit 
+dies durch Anpassungen des materiellen Strafrechts, namentlich des
+Waffengesetzes, besser als bisher erreicht werden kann.
+B. L&#246;sung
+Der Entwurf f&#252;hrt einen neuen Straftatbestand des Anbietens von Leistungen zur 
+Erm&#246;glichung von Straftaten ein. Der Tatbestand erfasst ausschlie&#223;lich
+internetbasierte Angebote in hinsichtlich Zugang und Erreichbarkeit beschr&#228;nkten
+Netzwerken und setzt die Ausrichtung der Leistung auf die Erm&#246;glichung von Delikten,
+deren Begehung besondere Gefahren f&#252;r die &#246;ffentliche Sicherheit begr&#252;nden, voraus. 
+Erg&#228;nzt wird der Grundtatbestand durch eine Qualifikation im Falle
+gewerbsm&#228;&#223;iger Begehung. Lediglich diese Qualifikation soll Ankn&#252;pfungstat f&#252;r die
+cyberspezifische, eingriffsintensive Ermittlungsma&#223;nahme der &#220;berwachung der
+Telekommunikations&#252;berwachung sein.
+C. Alternativen
+Beibehaltung des bisherigen, unbefriedigenden Zustands, der nicht s&#228;mtliche
+strafw&#252;rdigen Verhaltensweisen in angemessener Weise erfasst.
+D. Haushaltsausgaben ohne Erf&#252;llungsaufwand
+Keine.
+E. Erf&#252;llungsaufwand 
+E.1 Erf&#252;llungsaufwand f&#252;r B&#252;rgerinnen und B&#252;rger 
+F&#252;r die B&#252;rgerinnen und B&#252;rger entsteht oder entf&#228;llt kein Erf&#252;llungsaufwand. 
+E.2 Erf&#252;llungsaufwand f&#252;r die Wirtschaft
+F&#252;r die Wirtschaft entsteht oder entf&#228;llt kein Erf&#252;llungsaufwand. 
+Davon B&#252;rokratiekosten aus Informationspflichten: 
+F&#252;r Unternehmen werden keine Informationspflichten eingef&#252;hrt, vereinfacht oder 
+abgeschafft. 
+E.3 Erf&#252;llungsaufwand der Verwaltung 
+Aufgrund der Ausweitung der Strafbarkeit ist zu erwarten, dass die Anzahl der
+Ermittlungs- und Strafverfahren in einem begrenzten Ausma&#223; zunimmt. Dies kann zu 
+nicht n&#228;her quantifizierbaren Haushaltsmehrausgaben bei den f&#252;r die Durchf&#252;hrung 
+von Ermittlungs- und Strafverfahren prim&#228;r zust&#228;ndigen Strafverfolgungsbeh&#246;rden 
+der L&#228;nder f&#252;hren. 
+F. Weitere Kosten
+Den B&#252;rgerinnen und B&#252;rgern sowie der Wirtschaft entstehen keine sonstigen
+Kosten. Auswirkungen auf das Preisniveau, insbesondere auf das
+Verbraucherpreisniveau, sind nicht zu erwarten.
+Bundesrat Drucksache 33/19
+18.01.19
+Gesetzesantrag
+des Landes Nordrhein-Westfalen
+Entwurf eines Strafrechts&#228;nderungsgesetzes - Einf&#252;hrung einer 
+eigenst&#228;ndigen Strafbarkeit f&#252;r das Betreiben von
+internetbasierten Handelsplattformen f&#252;r illegale Waren und 
+Dienstleistungen
+Der Ministerpr&#228;sident   D&#252;sseldorf, 16. Januar 2019 
+des Landes Nordrhein-Westfalen 
+An den 
+Pr&#228;sidenten des Bundesrates 
+Herrn Ministerpr&#228;sidenten 
+Daniel G&#252;nther
+Sehr geehrter Herr Bundesratspr&#228;sident,
+die Landesregierung von Nordrhein-Westfalen hat beschlossen, dem Bundesrat den 
+als Anlage beigef&#252;gten
+Entwurf eines Strafrechts&#228;nderungsgesetzes &#8211; Einf&#252;hrung einer 
+eigenst&#228;ndigen Strafbarkeit f&#252;r das Betreiben von internetbasierten  
+Handelsplattformen f&#252;r illegale Waren und Dienstleistungen 
+zuzuleiten.
+Ich bitte, die Vorlage gem&#228;&#223; &#167; 36 Absatz 2 der Gesch&#228;ftsordnung des Bundesrates 
+in die Tagesordnung der Sitzung des Bundesrates am 15. Februar 2019
+aufzunehmen und anschlie&#223;end den zust&#228;ndigen Aussch&#252;ssen zur Beratung zuzuweisen.
+Mit freundlichen Gr&#252;&#223;en 
+Armin Laschet
+
+Entwurf eines Strafrechts&#228;nderungsgesetzes &#8211; Einf&#252;hrung einer
+eigenst&#228;ndigen Strafbarkeit f&#252;r das Betreiben von internetbasierten 
+Handelsplattformen f&#252;r illegale Waren und Dienstleistungen
+Vom &#8230;
+Der Bundestag hat das folgende Gesetz beschlossen:
+Artikel 1 
+&#196;nderung des Strafgesetzbuches
+Das Strafgesetzbuch in der Fassung der Bekanntmachung vom 13. November 1998 
+(BGBl. I S. 3322), das zuletzt durch Artikel &#8230; des Gesetzes vom (BGBl. I S. &#8230;)
+ge&#228;ndert worden ist, wird wie folgt ge&#228;ndert:
+1. In der Inhalts&#252;bersicht wird nach der Angabe zu &#167; 126 folgende Angabe eingef&#252;gt: 
+&#8222;&#167; 126a Anbieten von Leistungen zur Erm&#246;glichung von Straftaten&#8220;. 
+2. Nach &#167; 126 wird folgender &#167; 126a eingef&#252;gt:
+&#8222;&#167; 126a 
+Anbieten von Leistungen zur Erm&#246;glichung von Straftaten
+(1) Wer eine internetbasierte Leistung anbietet, deren Zugang und
+Erreichbarkeit durch besondere technische Vorkehrungen beschr&#228;nkt und deren 
+Zweck oder T&#228;tigkeit darauf ausgerichtet ist, die Begehung von
+rechtswidrigen Taten im Sinne von Satz 2 zu erm&#246;glichen oder zu f&#246;rdern, wird mit 
+Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft, wenn die Tat 
+nicht in anderen Vorschriften mit schwererer Strafe bedroht ist.
+Rechtswidrige Taten im Sinne des Satzes 1 sind 
+1. &#167; 95 Absatz 1 des Gesetzes &#252;ber den Verkehr mit Arzneimitteln, 
+2. &#167;&#167; 29 Absatz 1 Nr. 1, 29a, 30, 30a des Bet&#228;ubungsmittelgesetzes, 
+3. &#167; 19 Absatz 1 des Grundstoff&#252;berwachungsgesetzes, 
+4. &#167; 52 Absatz 1 Nr. 1 und Abs. 3 Nr. 1 des Waffengesetzes, 
+5. &#167; 40 Absatz 1 und 2 des Sprengstoffgesetzes, 
+6. &#167;&#167; 19 Absatz 1, 20 Abs. 1, 20a Absatz 1, 22a Absatz 1 Nr. 1, 2 und 4 
+des Gesetzes &#252;ber die Kontrolle von Kriegswaffen sowie 
+7. &#167;&#167; 146, 147, 149, 152a, 152b, 184b Abs.1, 202a, 202b, 202c, 263a, 
+275, 276, 303a und 303b des Strafgesetzbuches.
+(2) Die Strafe darf nicht schwerer sein, als die f&#252;r die Tat im Sinne von Absatz 
+1 Satz 2 angedrohte Strafe.
+(3) Mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren wird bestraft, 
+wer die Tat gewerbsm&#228;&#223;ig begeht.&#8220;
+Artikel 2 
+&#196;nderung der Strafprozessordnung
+Die Strafprozessordnung in der Fassung der Bekanntmachung vom 7. April 1987 
+(BGBl. I S. 1074, 1319), die zuletzt durch ... ge&#228;ndert worden ist, wird wie folgt
+ge&#228;ndert:
+&#167; 100a Absatz 2 Nummer 1 Buchstabe d wird wie folgt gefasst:
+&#8222;d) Straftaten gegen die &#246;ffentliche Ordnung nach den &#167;&#167; 126a Absatz 3, 129 bis 
+130,&#8220;.
+Artikel 3 
+Inkrafttreten
+Dieses Gesetz tritt am Tag nach der Verk&#252;ndung in Kraft.
+Begr&#252;ndung 
+A. Allgemeines
+I. Zielsetzung und wesentlicher Inhalt des Gesetzentwurfs 
+Vermehrt nutzen Straft&#228;ter die M&#246;glichkeiten der Anonymisierung, die ihnen das
+Internet bietet. Eine h&#228;ufig genutzte Form der Anonymisierung erfolgt &#252;ber das &#187;The 
+Onion Router&#171; (Tor)-Netzwerk, das aus einer Vielzahl von weltweit verteilten Servern 
+besteht, &#252;ber die Datenpakete in st&#228;ndig wechselnder Form geleitet werden. Beim 
+Verbindungsaufbau wird durch das Programm eine zuf&#228;llige Route &#252;ber einen Teil 
+der Server festgelegt, ohne dass Herkunft oder Ziel der Daten protokolliert werden. 
+Durch die Verschl&#252;sselung der Nutzerdaten und die dynamische Routenwahl wird die 
+Feststellung von Anfangs- und Endpunkten eines Datentransfers erheblich
+erschwert. &#220;ber das Tor-Netzwerk erfolgt der Zugang zum sogenannten Darknet.
+Zugang und Erreichbarkeit der Darknet-Angebote sind durch das Erfordernis
+besonderer Programme, wie des Tor-Browsers, beschr&#228;nkt.
+Die Angebote im Darknet umfassen, wie auch auf andere Weise
+zugangsbeschr&#228;nkte Dienste, neben Foren f&#252;r Whistleblower oder Chatrooms f&#252;r politisch Verfolgte in 
+autorit&#228;r gef&#252;hrten Staaten auch Inhalte bekannter Servicebetreiber. Ebenso finden 
+sich jedoch Angebote mit strafrechtlicher Relevanz, darunter Handel mit
+Bet&#228;ubungsmitteln, Kinderpornographie oder Waffen, mit Schadsoftware und
+Ausweispapieren. Vergleichbare Angebote finden sich auch in weiteren Bereichen des
+Internets.
+Die Zentralstellen f&#252;r die Verfolgung von Cybercrime der L&#228;nder haben in den
+vergangenen Jahren zahlreiche Ermittlungsverfahren mit &#252;berwiegend internationalen 
+Bez&#252;gen gef&#252;hrt und einschl&#228;gige Foren sowie Handelsplattformen schlie&#223;en
+k&#246;nnen. In der Praxis zeigt sich jedoch, dass Anbieter und Kunden ihre Aktivit&#228;ten mit 
+allenfalls geringem zeitlichem Verzug &#252;ber alternative Plattformen fortf&#252;hren. Die 
+Verfahren lassen im &#220;brigen durchweg ein arbeitsteiliges Zusammenwirken von 
+Plattformbetreibern und Nutzern der Plattform, also sowohl H&#228;ndlern als auch
+K&#228;ufern, erkennen. Die Erfahrungen zeigen zudem, dass die klassischen
+Organisationsdelikte und die historischen gesetzgeberischen Vorstellungen von T&#228;terschaft und 
+Teilnahme auf moderne, internetbasierte T&#228;terstrukturen kaum &#252;bertragbar sind. Die 
+Betreiber selbst stellen lediglich eine technische Infrastruktur zur Verf&#252;gung. Ihr
+Verdienst entsteht durch Werbung oder einen Treuhand-Service im Rahmen der
+Zahlungsabwicklung.
+Das Kriminalit&#228;tsph&#228;nomen beschr&#228;nkt sich auch nicht auf wenige Einzelf&#228;lle.
+Bereits im Jahr 2016 waren dem Bundeskriminalamt circa 50 einschl&#228;gige Plattformen 
+bekannt (BT-Drucks. 18/9487, S. 2). Das dort betriebene Gesch&#228;ftsmodell des
+&#8222;Cybercrime-as-a-Service&#8220; wird in der kriminellen Szene weiter ausgebaut (Lagebild
+Cybercrime des Bundeskriminalamtes 2016, abrufbar unter www.bka.de, dort S. 16 ff.).
+Illegale Onlinehandelsplattformen stellen aus Sicht von EUROPOL eine der zentralen 
+Schnittstellen von Cybercrime und weiteren Formen - auch organisierter - Kriminalit&#228;t 
+dar (Internet Organised Crime Threat Assessment 2017, abrufbar unter 
+www.europol.eu). Gegen&#252;ber den bereits etablierten Handelsg&#252;tern, wie z. B.
+Bet&#228;ubungsmitteln, sei eine deutliche Zunahme bei Angeboten von Hackertools und -
+dienstleistungen zu verzeichnen. Diese Aspekte hat auch die Europ&#228;ische
+Kommission in der gemeinsamen Mitteilung mit der Hohen Vertreterin der Union f&#252;r Au&#223;en-
+und Sicherheitspolitik an das Europ&#228;ische Parlament und den Rat &#8222;Abwehrf&#228;higkeit, 
+Abschreckung und Abwehr: die Cybersicherheit in der EU wirksam erh&#246;hen&#8220; vom 
+13.09.2017 betont und auf das derzeit nur geringe Risiko der Tatentdeckung
+hingewiesen [JOIN(2017) 450, dort S. 18]. 
+In der strafrechtlichen Praxis stellt sich das Problem, dass eine Beihilfe gem&#228;&#223; &#167; 27 
+StGB zu den &#252;ber die Plattform begangenen Straftaten oft nicht nachweisbar ist, da 
+die Haupttaten bilateral zwischen den Beteiligten &#252;ber verschl&#252;sselte
+Kommunikationskan&#228;le abgewickelt werden, jedenfalls aber nicht offen im Forum sichtbar sind. 
+Zudem sind bei vielen Foren die Arten von Straftaten, die &#252;ber sie abgewickelt
+werden sollen, zu Beginn nicht klar definiert. Die T&#228;ter stellen eine
+informationstechnische Struktur zur Verf&#252;gung und wissen um die strafrechtliche Relevanz der &#252;ber 
+den Dienst abgewickelten Gesch&#228;fte. Welche Art von G&#252;tern konkret gehandelt wird, 
+spielt f&#252;r die T&#228;ter dabei keine Rolle. Moderne Foren verf&#252;gen zudem h&#228;ufig &#252;ber 
+vollautomatisierte Verkaufssysteme, bei denen eine Beihilfe zu einer konkreten 
+Haupttat noch schwieriger nachzuweisen ist. Ungeachtet dessen erfasst die
+strafrechtliche Ahndung unter dem Gesichtspunkt der Beihilfe in der Regel nicht
+hinreichend den aktiven Charakter der Tathandlung, die die Grundlagen der Underground-
+Economy schafft.
+Auch eine Zurechnung von Einzeltaten unter dem Gesichtspunkt einer
+bandenm&#228;&#223;igen Tatbegehung ist h&#228;ufig nicht m&#246;glich, da in der Regel kriminelle Foren und 
+Marktpl&#228;tze der Underground Economy von nur einer Person oder zwei Personen 
+gef&#252;hrt werden. Bei Foren und Marktpl&#228;tzen mit mehreren Personen in der
+F&#252;hrungsebene ist &#252;berdies zu ber&#252;cksichtigen, dass sich die Betreiber regelm&#228;&#223;ig nicht 
+pers&#246;nlich kennen und oftmals kein &#252;bergeordnetes, homogenes Interesse vorliegt. 
+Ist im Einzelfall eine Bande im strafrechtlichen Sinne anzunehmen, ist im Weiteren 
+f&#252;r jede einzelne Tat nach den allgemeinen Kriterien festzustellen, ob sich die
+anderen Bandenmitglieder hieran als Mitt&#228;ter, Anstifter oder Gehilfen beteiligt oder ob sie 
+gegebenenfalls &#252;berhaupt keinen strafbaren Tatbeitrag geleistet haben. Letzteres 
+kann insbesondere dann in Betracht kommen, wenn einzelne Betreiber nur f&#252;r die 
+Aufrechterhaltung und Wartung der technischen Infrastruktur oder die Administration 
+nicht strafrechtlich relevanter Bereiche zust&#228;ndig sind und glaubhaft versichern,
+keine Kenntnis von oder jedenfalls kein Interesse an den &#252;ber das Forum
+abgeschlossenen oder angebahnten illegalen Verkaufst&#228;tigkeiten gehabt zu haben. In derartigen 
+Konstellationen kommt auch die Annahme eines uneigentlichen Organisationsdelikts
+durch den Aufbau und die Aufrechterhaltung eines auf Straftaten ausgerichteten
+Gesch&#228;ftsbetriebs regelm&#228;&#223;ig nicht in Betracht.
+Eine effektive Strafverfolgung kommt schlie&#223;lich auch unter dem Gesichtspunkt der 
+Bildung einer kriminellen Vereinigung im Sinne des &#167; 129 StGB nicht stets in
+Betracht. Die Anforderungen an den Nachweis konkreter Einzeltaten sind bei dem
+abstrakten Gef&#228;hrdungsdelikt zwar erleichtert, in der Regel wird jedoch die f&#252;r den
+Tatbestand erforderliche Festigkeit der Struktur nicht erreicht. Dies gilt ungeachtet der 
+durch das 54. Gesetz zur &#196;nderung des Strafgesetzbuches &#8211; Umsetzung des
+Rahmenbeschlusses 2008/841/JI des Rates vom 24. Oktober 2008 zur Bek&#228;mpfung der 
+organisierten Kriminalit&#228;t vom 17. Juli 2017 (BGBl. I S. 2440) erfolgten Ausweitung 
+des Vereinigungsbegriffs im Sinne des &#167; 129 Absatz 2 StGB, denn Voraussetzung 
+einer Vereinigung ist weiterhin ein organisierter Zusammenschluss. Dies erfordert 
+zumindest eine gewisse Organisationsstruktur sowie eine instrumentelle
+Vorausplanung und Koordinierung. Zusammenschl&#252;sse, die sich zuf&#228;llig zur unmittelbaren
+Begehung einer Straftat bilden, wie dies bei den hier relevanten Cyberstrukturen oft der 
+Fall ist, d&#252;rften dem Vereinigungsbegriff des &#167; 129 Absatz 2 StGB nicht unterfallen.
+Weil der Zugang zu den einschl&#228;gigen Angeboten in der Regel keinen besonderen 
+technischen Anforderungen unterliegt und die Erreichbarkeit zwar beschr&#228;nkt, aber 
+ohne erheblichen technischen Aufwand m&#246;glich ist, bieten die Handelsplattformen 
+somit einen niedrigschwelligen Zugriff auf logistische Infrastrukturen f&#252;r die
+Begehung von Straftaten auch f&#252;r Personen, die herk&#246;mmliche Beschaffungswege f&#252;r 
+Waffen, Bet&#228;ubungsmittel oder kriminelle Dienstleistungen nicht beschreiten. Diese 
+Angebote erh&#246;hen durch die Verbreitung des illegalen Angebots gezielt die Gefahren 
+f&#252;r die durch das Verbot der Waren und Dienstleistungen gesch&#252;tzten Rechtsg&#252;ter 
+und stellen damit eine dar&#252;ber hinausgehende eigenst&#228;ndige erhebliche Gefahr f&#252;r 
+die &#246;ffentliche Sicherheit dar, ohne dass es nach der geltenden Rechtslage
+ausreichende M&#246;glichkeiten f&#252;r eine angemessene strafrechtliche Verfolgung gibt.
+Diese L&#252;cke soll durch die Einf&#252;hrung der neuen Vorschrift geschlossen werden. Der 
+Entwurf zielt darauf, das Betreiben von auf die F&#246;rderung illegaler Zwecke
+ausgerichteten Plattformen unabh&#228;ngig von dem Nachweis der Beteiligung an einzelnen
+konkreten Handelsgesch&#228;ften unter Strafe zu stellen. Die Vorschrift soll die &#246;ffentliche 
+Sicherheit und die staatliche Ordnung sch&#252;tzen, daher erfolgt die Aufnahme in den 
+sechsten Abschnitt. Die Aufnahme eines Tatbestands in das Strafgesetzbuch f&#246;rdert 
+eine einheitliche Rechtsanwendung und erscheint daher gegen&#252;ber
+spezialgesetzlichen Einzelregelungen vorzugsw&#252;rdig. Soweit vereinzelt bereits Strafvorschriften das 
+Verschaffen einer Gelegenheit zur Begehung von Straftaten erfassen, z. B. &#167; 29
+Absatz 1 Nr. 10 BtMG, regelt &#167; 126a StGB-E den Sonderfall der Tatbegehung mittels 
+internetbasierter Leistungen. Dem Konkurrenzverh&#228;ltnis wird insoweit durch eine 
+Subsidiarit&#228;tsklausel in &#167; 126a Absatz 1 S. 1 StGB-E Rechnung getragen.
+Im Sinne einer aus Gr&#252;nden der Verh&#228;ltnism&#228;&#223;igkeit angezeigten Beschr&#228;nkung
+erfasst &#167; 126a StGB-E nur bestimmte, als f&#252;r das gesch&#252;tzte Rechtsgut besonders
+gef&#228;hrlich einzustufende szenetypische Delikte im Sinne des &#167; 126a Absatz 1 S. 2 
+StGB-E. Die dort genannten Delikte bergen aufgrund der Gef&#228;hrlichkeit der
+gehandelten Waren und Dienstleistungen bereits f&#252;r sich eine besondere Gefahr f&#252;r die 
+&#246;ffentliche Sicherheit. Diese Gefahr wird durch die Begehung mittels internetbasierter 
+Leistungen erheblich erh&#246;ht, da die Angebote ohne Beschr&#228;nkung zug&#228;nglich sind. 
+Der potentielle Adressatenkreis ist damit praktisch unbegrenzt. Die T&#228;ter des &#167; 126a 
+StGB-E er&#246;ffnen durch die Handelsplattformen einen &#246;rtlich, zeitlich und sachlich 
+unbegrenzten Zugang zu illegalen Waren und Dienstleistungen, der in der analogen 
+Welt auch nicht ann&#228;hernd vergleichbar besteht oder m&#246;glich w&#228;re und Grundlage 
+weiterer digitaler oder analoger Handelsketten sein kann.
+Die Vorschrift beschr&#228;nkt sich auf einen bestimmten Ausschnitt des kriminellen
+Online-Handels. Erfasst werden nur durch technische Vorkehrungen hinsichtlich Zugang 
+und Erreichbarkeit beschr&#228;nkte Angebote. Zugangs- und
+Erreichbarkeitsbeschr&#228;nkungen k&#246;nnen sich etwa durch die beschriebene Nutzung des Tor-Browsers im 
+Darknet oder bei &#228;hnlichen Zugangsbeschr&#228;nkungen, z. B. durch vor Zulassung
+erforderliche Keuschheitsproben, ergeben. Zur Abgrenzung der durch den Tatbestand 
+erfassten Angebote von legalen Handelsplattformen, die ohne den Willen der
+Betreiber f&#252;r strafrechtlich relevante Zwecke genutzt werden, wird &#8211; in Anlehnung an die 
+Formulierung des &#167; 129 StGB &#8211; &#252;berdies auf den Zweck und die Ausrichtung der 
+T&#228;tigkeit abgestellt. Damit sind Betreiber, deren Angebote ohne entsprechende
+Zielrichtung zur F&#246;rderung von Straftaten genutzt werden, vom Tatbestand
+ausgenommen. Dies gew&#228;hrleistet eine Beschr&#228;nkung schon des Tatbestands auf strafw&#252;rdige 
+Online-Angebote. Die Pr&#252;fung der Ausrichtung der Plattform hat anhand des
+konkreten Einzelfalls zu erfolgen und ist allgemein verbindlichen Kriterien nicht zug&#228;nglich. 
+Auf Grundlage der bisherigen praktischen Erfahrungen d&#252;rften indizielle Bedeutung 
+in diesem Zusammenhang erlangen z. B. das tats&#228;chliche Angebot einer Online-
+Plattform, der Umgang mit Hinweisen auf Handel mit illegalen Waren und
+Dienstleistungen und auch die etwa in Allgemeinen Gesch&#228;ftsbedingungen (AGB) enthaltenen 
+Vorgaben. Schon im Rahmen der Pr&#252;fung eines Anfangsverdachts d&#252;rften diese 
+Umst&#228;nde ohne erheblichen Aufwand feststellbar sein.
+Im Zusammenspiel mit den zum 1. Juli 2017 durch das Gesetz zur Reform der
+strafrechtlichen Verm&#246;gensabsch&#246;pfung vom 13. April 2017 (BGBl. I S. 872) neu
+gefassten Absch&#246;pfungsvorschriften sichert die Einf&#252;hrung des neuen Tatbestands zudem 
+die effektive Bek&#228;mpfung auch der wirtschaftlichen Grundlagen der Underground-
+Economy.
+Die Grundtatbestand des &#167; 126a Absatz 1 StGB-E ist aufgrund der wertungsm&#228;&#223;ig 
+einer Beteiligung entsprechenden Begehungsart und der Vorverlagerung der
+Strafbarkeit mit Geldstrafe oder Freiheitsstrafe von bis zu drei Jahren bedroht. Bei
+erh&#246;hten Strafdrohungen in anderen Tatbest&#228;nden, z. B. &#167; 29 Absatz 1 Nr. 10 BtMG, greift
+die Subsidiarit&#228;tsklausel des &#167; 126a Absatz 1 S. 1 StGB-E. Aus Gr&#252;nden der
+Verh&#228;ltnism&#228;&#223;igkeit begrenzt &#167; 126a Absatz 2 StGB-E die Strafdrohung auf die f&#252;r die 
+Katalogtat im Sinne von &#167; 126a Absatz 1 S. 2 StGB-E angedrohte Strafe. Neben 
+dem Grundtatbestand sieht &#167; 126a Absatz 3 StGB-E bei gewerbsm&#228;&#223;iger Begehung 
+aufgrund der erh&#246;hten kriminellen Energie eine mit im Mindestma&#223; erh&#246;hter
+Strafdrohung bewehrte Qualifikation vor. Die Erfahrungen der Praxis zeigen, dass nicht 
+jede Tathandlung im Sinne des &#167; 126a StGB-E gewerbsm&#228;&#223;ig begangen wird,
+Anbieter stellen Handelsm&#246;glichkeiten auch oft kostenfrei zur Mehrung des eigenen 
+Ansehens in der Szene bereit. Das Kriterium der Gewerbsm&#228;&#223;igkeit rechtfertigt
+daher die in der Qualifikation vorgesehene h&#246;here Strafdrohung.
+Die erh&#246;hte Strafdrohung verdeutlicht &#252;berdies, dass die Qualifikation des &#167; 126a 
+Absatz 3 StGB-E dem Bereich der schweren Kriminalit&#228;t zuzurechnen ist. Dies
+begr&#252;ndet in Verbindung mit den Besonderheiten der Tatbegehung mittels
+internetbasierter Leistung die Aufnahme des Qualifikationstatbestands in den Katalog der
+Ermittlungsma&#223;nahme des &#167; 100a Absatz 2 Nr. 1 d) StPO. Die Ermittlungen wegen 
+eines ausschlie&#223;lich den Grundtatbestand des &#167; 126a Absatz 1 StGB-E erf&#252;llenden 
+Sachverhalts d&#252;rften zwar ohne die technischen &#220;berwachungsma&#223;nahme des &#167; 
+100a StPO nachhaltig erschwert werden, aus Gr&#252;nden der Verh&#228;ltnism&#228;&#223;igkeit ist 
+jedoch die Aufnahme nur der Qualifikation sachgerecht.
+II. Gesetzgebungskompetenz
+Die Gesetzgebungskompetenz des Bundes folgt aus Artikel 74 Absatz 1 Nummer 1 
+Grundgesetz.
+III. Auswirkungen
+Durch die Ausweitung der Strafbarkeit kann ein Mehraufwand f&#252;r die
+Strafverfolgungsbeh&#246;rden entstehen, dessen Umfang derzeit nicht quantifizierbar ist. Im
+&#220;brigen werden jedoch keine Mehrkosten entstehen. F&#252;r B&#252;rgerinnen und B&#252;rger und 
+die Unternehmen entsteht kein Erf&#252;llungsaufwand.
+B. 
+Zu den einzelnen Vorschriften
+Zu Artikel 1 (&#196;nderung des Strafgesetzbuchs)
+Zu Nummer 1 (Inhalts&#252;bersicht)
+Infolge der Einf&#252;gung eines neuen &#167; 126a StGB in das Gesetz ist die
+Inhalts&#252;bersicht entsprechend anzupassen.
+Zu Nummer 2
+(&#167; 126a Absatz 1 - neu -)
+Der besonderen Gef&#228;hrlichkeit des Betreibens von zugangsbeschr&#228;nkten,
+insbesondere Darknet-Angeboten, die sich ohne zeitliche, sachliche oder r&#228;umliche Grenzen 
+an Personen jeden Alters richten, gegen&#252;ber anderen Online-Angeboten wird durch 
+die Fokussierung des Tatbestands auf internetbasierte Leistungen Rechnung
+getragen, die typischerweise besonderen technischen Beschr&#228;nkungen hinsichtlich des 
+Zugangs und der Erreichbarkeit unterliegen, z. B. der Nutzung des Tor-Browsers
+oder vergleichbarer Anforderungen. Das Erfordernis einer blo&#223;en Zugangskennung 
+zur Nutzung einer Leistung, ohne weitere Einschr&#228;nkung, erf&#252;llt die Anforderungen 
+an eine besondere technische Vorkehrung nicht. Von einer technikoffenen Erfassung 
+aller in Betracht kommenden Kommunikationsmittel, die eingesetzt werden k&#246;nnten, 
+ohne dass die Beteiligten gleichzeitig k&#246;rperlich an einem bestimmten Ort anwesend 
+sind, z. B. offene Internetplattformen und -foren, Telemedien, E-Mails und
+Mobilfunkkontakten, wird aus Gr&#252;nden der Begrenzung der Strafbarkeit abgesehen.
+Der Begriff der Leistung beschreibt alle Angebote, die sich an einen oder mehrere 
+Nutzer richten, ohne stets auf Dauer und wiederholte Nutzung abzuzielen. Zur
+Abgrenzung der vom Tatbestand erfassten von den nicht strafw&#252;rdigen Angeboten ist 
+auf die Ausrichtung des Zwecks oder der T&#228;tigkeit abzustellen. So soll sichergestellt 
+werden, dass ordnungsgem&#228;&#223; eingerichtete Online-Angebote, die entgegen ihrer 
+Zielsetzung auch f&#252;r den Handel mit illegalen Waren oder Dienstleistungen genutzt 
+werden, nicht der Gefahr strafrechtlicher Verfolgung ausgesetzt werden. Ziel des
+Angebots im Sinne des &#167; 126a Absatz 1 StGB-E muss das Erm&#246;glichen oder die
+F&#246;rderung von Taten im Sinne des Satzes 2 sein, die eine besondere Gefahr f&#252;r den 
+Rechtsfrieden darstellen. Dem steht nicht entgegen, dass auch legale Aktivit&#228;ten
+abgewickelt werden sollen, soweit dies lediglich dem Verschleiern der tats&#228;chlichen 
+Zielrichtung dient. Die Pr&#252;fung der Ausrichtung einer Online-Plattform hat anhand 
+des konkreten Einzelfalls zu erfolgen und ist allgemein verbindlichen Kriterien nicht 
+zug&#228;nglich. Auf Grundlage der bisherigen praktischen Erfahrungen d&#252;rften indizielle 
+Bedeutung in diesem Zusammenhang erlangen z. B. das tats&#228;chliche Angebot einer 
+Online-Plattform, der Umgang mit Hinweisen auf Handel mit illegalen Waren und 
+Dienstleistungen und auch die etwa in Allgemeinen Gesch&#228;ftsbedingungen (AGB) 
+enthaltenen Vorgaben. Schon im Rahmen der Pr&#252;fung eines Anfangsverdachts
+d&#252;rften diese Umst&#228;nde ohne erheblichen Aufwand aufzukl&#228;ren sein.
+Im Sinne einer aus Gr&#252;nden der Verh&#228;ltnism&#228;&#223;igkeit angezeigten Beschr&#228;nkung
+erfasst &#167; 126a StGB-E nur bestimmte, als f&#252;r das gesch&#252;tzte Rechtsgut besonders
+gef&#228;hrlich einzustufende szenetypische Delikte im Sinne des &#167; 126a Absatz 1 S. 2 
+StGB-E. Die dort genannten Tatbest&#228;nde bergen aufgrund der Gef&#228;hrlichkeit der
+gehandelten Waren und Dienstleistungen bereits f&#252;r sich eine besondere Gefahr f&#252;r die 
+&#246;ffentliche Sicherheit. Die Erfahrungen in der Praxis zeigen, dass Schwerpunkte des
+illegalen Online-Handels die Bereiche Bet&#228;ubungsmittel, Waffen, Falschgeld bzw. 
+gef&#228;lschte Urkunden, Kinderpornographie und Cyberwerkzeuge, insbesondere
+Hacker-Programme, sind.
+Der gr&#246;&#223;te Anteil der Handelsaktivit&#228;ten f&#228;llt nach den praktischen Erfahrungen im 
+Bereich der Bet&#228;ubungsmittel an. Im Bereich gef&#228;lschter Urkunden sind besonders 
+Identit&#228;tsnachweise zu nennen, die vor allem f&#252;r betr&#252;gerische Bestellungen und die 
+Anlage finanztransaktionsverschleiernder Tarnkonten genutzt werden. Abgeschottete 
+Plattformen im Netz sind zudem einer der vorherrschenden Absatz- und
+Verteilmechanismen kinderpornographischer Schriften, deren Verbreitungsgrad ohne die
+dahinterstehenden technischen Infrastrukturen kaum denkbar w&#228;re. Der Bereich der 
+Cyberwerkzeuge wird durch die in &#167; 126a Absatz 1 S. 2 Nr. 7 StGB-E genannten
+Delikte der &#167;&#167; 202a, 202b, 202c, 303a und 303b StGB abgedeckt. So werden &#252;ber
+Online-Plattformen z. B. Schadsoftwareprogramme angeboten, mit denen
+Schwachstellen von IT-Systemen ausgenutzt und Sicherungen &#252;berwunden werden k&#246;nnen. 
+Ebenso wird sogenannte Ransomware, d. h. Software, die Nutzdaten verschl&#252;sselt, 
+um von den Nutzern Zahlungen zur Aufhebung der Verschl&#252;sselung zu erlangen, 
+angeboten. Des Weiteren wird die unmittelbare Durchf&#252;hrung von Cyberangriffen als 
+Dienstleistung offeriert. Hier stehen die sog. Botnetze im Fokus, d. h. eine Vielzahl 
+gekaperter Drittrechner, die unter T&#228;terkontrolle koordinierte &#220;berlastangriffe auf
+legitime Webseiten und -services durchf&#252;hren.
+Die Begrenzung der Ankn&#252;pfungsdelikte auf als besonders gef&#228;hrlich eingestufte 
+szenetypische Delikte erleichtert die Abgrenzung zu den nicht dem Tatbestand
+unterfallenden legalen Handelsplattformen. &#220;berdies werden so m&#246;gliche
+Abgrenzungsprobleme im Bereich der beruflichen Handlungen der in &#167; 53 Absatz 1 S. 1 Nr. 5 
+StPO genannten Personen vermieden. Besonderer tatbestandsausschlie&#223;ender
+Regelungen, wie etwa in &#167; 202d Absatz 3 StGB, bedarf es nicht.
+(&#167; 126a Absatz 2 - neu -)
+Aus Gr&#252;nden der Verh&#228;ltnism&#228;&#223;igkeit begrenzt &#167; 126a Absatz 2 StGB-E die
+Strafdrohung auf die f&#252;r die Katalogtat im Sinne von &#167; 126a Absatz 1 S. 2 StGB-E
+angedrohte Strafe. Dieses Vorgehen orientiert sich an den Regelungen in vergleichbaren 
+Vorschriften, z. B. &#167;&#167; 202d Absatz 2, 257 Absatz 2, 258 Absatz 3 StGB. Relevant 
+werden kann diese Regelung angesichts der Strafdrohungen der Katalogtaten f&#252;r die 
+in &#167; 126a Absatz 1 Satz 2 Nr. 7 StGB-E genannten F&#228;lle der &#167;&#167; 149, 202b, 202c, 
+275, 276 und 303a StGB. Die &#252;brigen Taten enthalten jeweils H&#246;chststrafdrohungen 
+von mindestens drei Jahren Freiheitsstrafe.
+(&#167; 126a Absatz 3 - neu -)
+Neben dem Grundtatbestand sieht &#167; 126a Absatz 3 StGB-E bei gewerbsm&#228;&#223;iger 
+Begehung aufgrund der erh&#246;hten kriminellen Energie eine mit im Mindestma&#223;
+erh&#246;hter Strafdrohung bewehrte Qualifikation vor. Die Erfahrungen der Praxis zeigen, dass 
+nicht jede Tathandlung im Sinne des &#167; 126a StGB-E gewerbsm&#228;&#223;ig begangen wird, 
+Anbieter stellen Handelsm&#246;glichkeiten auch oft kostenfrei zur Mehrung des eigenen 
+Ansehens in der Szene bereit. Das Kriterium der Gewerbsm&#228;&#223;igkeit rechtfertigt
+daher die vorgesehene h&#246;here Strafdrohung, die zudem verdeutlicht, dass die
+Qualifikation des &#167; 126a Absatz 3 StGB-E dem Bereich der schweren Kriminalit&#228;t
+zuzurechnen ist.
+Der Strafrahmen orientiert sich auf Grundlage der erh&#246;hten kriminellen Energie von 
+auf Dauer angelegten, gewinnorientierten Strukturen an denen f&#252;r vergleichbare
+Delikte bei gewerbsm&#228;&#223;iger Begehungsweise, z. B. &#167; 260 Absatz 1 Nr. 1 StGB
+(Hehlerei), &#167; 263 Absatz 3 S. 2 Nr. 1 StGB (Betrug) - auch in Verbindung mit &#167; 263a Absatz 
+2 StGB (Computerbetrug) -, &#167; 267 Absatz 3 S. 2 Nr. 1 StGB (Urkundenf&#228;lschung) 
+und 
+&#167; 303b Absatz 4 S. 2 Nr. 2 StGB (Computersabotage). Das Delikt ist, anders als
+einige der vorgenannten Beispiele, als Qualifikation ausgestaltet, um dem Umstand 
+Rechnung zu tragen, dass Online-Plattformen f&#252;r illegale Waren und
+Dienstleistungen den N&#228;hrboden weiter Bereiche des Cybercrime darstellen. Die Bedeutung der 
+Plattformen entspricht dabei der vergleichbarer Einrichtungen im legalen Bereich. 
+Der Unternehmensgegenstand zahlreicher, auch international erfolgreicher
+Unternehmen besteht im Unterhalt einer Infrastruktur f&#252;r den &#246;rtlich und zeitlich
+ungebundenen Austausch von Waren und Dienstleistungen. Ebenso stellen sich Funktion und 
+Bedeutung der illegalen Plattformen dar, denen eine erhebliche Ausstrahlwirkung im 
+Bereich des Cybercrime zukommt.
+Zu Artikel 2 (&#196;nderung der Strafprozessordnung)
+(&#167; 100a Absatz 2 Nummer 1 Buchstabe d - neu -)
+F&#252;r eine effektive Verfolgung von mittels internetbasierter Kommunikation
+begangener Taten ist es regelm&#228;&#223;ig erforderlich, die Kommunikationswege der Beteiligten 
+nachzuvollziehen. Andere Ermittlungsmethoden f&#252;hren nicht zur Aufkl&#228;rung der 
+Tatstrukturen, die sich ohne reelle Kontakte mit etwaigen Beteiligten in der analogen 
+Welt gestalten. Diese Notwendigkeit rechtfertigt indes nicht die Er&#246;ffnung
+eingriffsintensiver Ermittlungsma&#223;nahmen f&#252;r alle F&#228;lle der Informations- und
+Kommunikationskriminalit&#228;t. Mit Blick auf das durch Ma&#223;nahmen gem&#228;&#223; &#167; 100a StPO betroffene 
+Grundrecht aus Art. 10 GG gebietet der Grundsatz der Verh&#228;ltnism&#228;&#223;igkeit eine
+Abw&#228;gung im Einzelfall, ob bestimmte Straftaten durch den Gesetzgeber im Rahmen 
+seines Beurteilungsspielraums als derart schwer eingestuft werden, dass ein
+entsprechender Tatverdacht Grundrechtseingriffe rechtfertigen kann (zu vgl. BVerfG
+NJW 2012, 833 &#8211; Rnr. 203 ff.). Dabei sind insbesondere das gesch&#252;tzte Rechtsgut 
+und dessen Bedeutung f&#252;r die Rechtsgemeinschaft in den Blick zu nehmen.
+Die in &#167; 126a Absatz 3 StGB-E geregelte Qualifikation im Falle gewerbsm&#228;&#223;igen 
+Handelns weist gegen&#252;ber dem Grundtatbestand aufgrund der auf Dauer
+ausgelegten Tatbegehung zur Erzielung einer nicht nur vor&#252;bergehenden Einnahmequelle 
+einen deutlich gesteigerten Unrechtsgehalt auf, der auch in anderen Deliktsbereichen 
+zu einer erh&#246;hten Strafdrohung f&#252;hrt, z. B. &#167; 260 Absatz 1 Nr. 1 StGB. Damit werden 
+die Gefahren f&#252;r die bereits durch den Grundtatbestand und die Katalogtaten
+gesch&#252;tzten Rechtsg&#252;ter weiter und dauerhaft erh&#246;ht. In diesen F&#228;llen, in denen ein 
+T&#228;ter nicht nur gelegentlich oder ohne eigenn&#252;tziges finanzielles Interesse gezielt 
+Strukturen der kriminellen Infrastruktur schafft, handelt es sich demnach bereits um 
+einen schwere Straftat im Sinne des &#167; 100a StPO.
+Zu Artikel 3 (Inkrafttreten)
+Die Vorschrift regelt das Inkrafttreten des Gesetzes.
+Drucksache 33/19- 11 -]</text>
+    <titel>Entwurf eines Strafrechts&#228;nderungsgesetzes - Einf&#252;hrung einer eigenst&#228;ndigen Strafbarkeit f&#252;r das Betreiben von internetbasierten Handelsplattformen f&#252;r illegale Waren und Dienstleistungen</titel>
+    <datum>2019-01-18</datum>
+  </document>
+  

@@ -1,0 +1,776 @@
+<document>
+    <id>256932</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/31816</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>cf28e57cc448ac1415237800dabbd326</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>279083</id>
+      <titel>Digitale Schiene - Aktueller Stand der Modernisierung der Leit- und Sicherungstechnik</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium f&#252;r Verkehr und digitale Infrastruktur</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/318/1931816.pdf</pdf_url>
+      <id>256932</id>
+      <dokumentnummer>19/31816</dokumentnummer>
+      <datum>2021-07-29</datum>
+      <verteildatum>2021-08-05</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Antwort
+der Bundesregierung
+auf die Kleine Anfrage der Abgeordneten Matthias Gastel,
+Sven-Christian Kindler, Stefan Gelbhaar, weiterer Abgeordneter und
+der Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN
+&#8211; Drucksache 19/30653 &#8211;
+Digitale Schiene &#8211; aktueller Stand der Modernisierung der Leit- und
+Sicherungstechnik
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Die deutsche Stellwerkstechnik ist inzwischen in die Jahre gekommen.
+Aufgrund der nach Ansicht der Fragestellerinnen und Fragesteller v&#246;llig
+verfehlten Investitionspolitik der Bundesregierung in der letzten Dekade hat sich hier 
+ein immenser Investitionsstau und damit Sanierungsbedarf aufget&#252;rmt. Auch 
+wenn &#228;ltere Stellwerke oftmals weiterhin den Sicherungsanforderungen
+Gen&#252;ge leisten, sind Probleme in Bezug auf die Wartbarkeit und damit auf die
+Betriebsabl&#228;ufe absehbar. Auch die &#228;lteren Relaisstellwerke sind in die Jahre
+gekommen. Dazu kommen die wesentlichen Potentiale aufgrund einer
+effizienteren Personalf&#252;hrung, die aufgrund des sich abzeichnenden Fachkr&#228;ftemangels 
+auch notwendig sind. Deswegen spielt die Erneuerung der Stellwerke eine 
+wichtige Rolle f&#252;r ein leistungsf&#228;higes und betrieblich gut funktionierendes 
+Bahnsystem.
+Auch die Einf&#252;hrung von ETCS (European Train Control System) als neues 
+Sicherungssystem hat eine gro&#223;e Bedeutung. Zwar sind nach Ansicht der
+Fragestellerinnen und Fragesteller die Kapazit&#228;tseffekte oft geringer als &#246;ffentlich 
+versprochen, trotzdem ergibt sich auch hier durch die Kombination aus
+Erleichterungen f&#252;r internationale Verkehre und alternder Sicherungstechnik &#8211; 
+insbesondere auf den Schnellfahrstrecken &#8211; die Notwendigkeit einer
+Modernisierung dieser Technik. Es stellen sich jedoch Fragen bez&#252;glich des
+versprochenen Realisierungshorizonts. Zudem ist unklar, in welchem Umfang
+wirklich eine Erneuerung der Sicherungstechnik erfolgen soll. Dazu kommt die 
+Unklarheit, inwieweit der Ausbau von Strecken mit ETCS planfestgestellt 
+werden m&#252;ssen. F&#252;r ein modernes Bahnsystem in Deutschland braucht es eine 
+umfassende Erneuerung der Sicherungstechnik sowie der Stellwerke. Dies ist 
+mit ETCS und den digitalen Stellwerken m&#246;glich.
+Hinweis: Die Fragen beziehen sich grunds&#228;tzlich auf den
+Verantwortungsbereich der DB Netz AG (inkl. Infrastruktur, die sich auf ausl&#228;ndischem
+Staatsgrund befinden), au&#223;er es ist anders angegeben.
+Deutscher Bundestag Drucksache 19/31816
+19. Wahlperiode 29.07.2021
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums f&#252;r Verkehr und digitale
+Infrastruktur vom 29. Juli 2021 &#252;bermittelt.
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext.
+V o r b e m e r k u n g  d e r  B u n d e s r e g i e r u n g
+Mit der Einf&#252;hrung des European Train Control System (ETCS) hat
+Deutschland ab dem Jahr 2015 begonnen. Grundstein ist die Ausr&#252;stung des
+transeurop&#228;ischen Korridors Rhein-Alpen sowie von sieben Grenz&#252;berg&#228;ngen mit 
+ETCS.
+Vor einer Entscheidung der Bundesregierung &#252;ber die weitere Ausr&#252;stung des 
+bundeseigenen Schienennetzes hat das Bundesministerium f&#252;r Verkehr und
+digitale Infrastruktur (BMVI) im Jahr 2018 in einer Machbarkeitsstudie die
+technischen und wirtschaftlichen Vorteile einer Umstellung der gesamten Leit- und 
+Sicherungstechnik des bundeseigenen Schienennetzes auf digitale Stellwerke 
+(DSTW) und ETCS bis 2040 pr&#252;fen lassen. Danach entsteht ein wirtschaftlich 
+positiver Gesamtnutzen auch gegen&#252;ber Alternativen. Daher empfahl der
+Gutachter die fl&#228;chendeckende Ausr&#252;stung mit ETCS und DSTW.
+Zum Einstieg in die fl&#228;chendeckende Ausr&#252;stung mit ETCS und DSTW wurde 
+ein Starterpaket beschlossen. Es umfasst die Infrastrukturausr&#252;stung auf dem 
+transeurop&#228;ischen Korridor &#8222;Skandinavien-Mittelmeer&#8220;, auf der
+Schnellfahrstrecke K&#246;ln-Rhein/Main und im Digitalen Knoten Stuttgart (Metropolregion, 
+S-Bahn-Stammstrecke und Umland) sowie Beschleunigungsma&#223;nahmen. Die 
+Ma&#223;nahmen des Starterpakets sollen bis 2030 umgesetzt werden, in Stuttgart 
+bis Ende 2025. Au&#223;erdem wird die Fahrzeugausr&#252;stung mit ETCS im Rahmen 
+eines Modellvorhabens f&#252;r den Digitalen Knoten Stuttgart gef&#246;rdert.
+Dieses Starterpaket wird in den kommenden Jahren durch eine
+netzbezirksweise Ausr&#252;stung des &#252;brigen Netzes mit ETCS und DSTW erg&#228;nzt. Die
+Ausr&#252;stung der Netzbezirke wird unter Ber&#252;cksichtigung unterschiedlicher Kriterien, 
+z. B. Lage der Transeurop&#228;ischen Korridore, verkehrliche Bedeutung der
+Strecken, Alter der Stellwerke, stattfinden. Eine Mehrfachausr&#252;stung mit alter und 
+neuer Technik soll dabei auf den geringst m&#246;glichen zeitlichen, r&#228;umlichen und 
+wirtschaftlichen Umfang beschr&#228;nkt werden. ETCS und DSTW schaffen die 
+Grundlagen f&#252;r weitere Ma&#223;nahmen zur Digitalisierung des Bahnbetriebs.
+&#8199;1. Wie viele Stellwerke gibt es aktuell (bitte nach mechanischen,
+elektromechanischen, relaisgesteuerten, elektronischen und digitalen
+Stellwerken unterscheiden)?
+Nach Auskunft der Deutschen Bahn AG (DB AG) ist die Anzahl der
+Stellwerke nach Stellwerksarten wie folgt:
+Stellwerksart Anzahl
+Elektromechanische Stellwerke 279
+Elektronische Stellwerke (ESTW-A u. ESTW-Z) 1.369
+Mechanische Stellwerke 651
+Relaisstellwerke 1.219
+Sonstige Stellwerkarten 328
+(Datengrundlage: Infrastrukturkataster (ISK) 2020)
+&#8199;2. Wie verteilen sich die Stelleinheiten auf die verschiedenen
+Stellwerkstypen (bitte jeweils Anzahl nennen, unterscheiden nach mechanischen, 
+elektromechanischen, Relais-, elektronischen und digitalen Stellwerken)?
+Nach Auskunft der DB AG verteilen sich die Stelleinheiten auf die
+Stellwerkstypen wie folgt:
+Stellwerksart Stelleinheiten
+Elektromechanische Stellwerke 8.349
+Elektronische Stellwerke (ESTW-A u. 
+ESTW-Z)
+78.478
+Mechanische Stellwerke 9.309
+Relaisstellwerke 92.072
+Sonstige Stellwerkarten 5.371
+(Datengrundlage: ISK 2020)
+&#8199;3. Wie entwickelte sich die Gesamtzahl der jeweiligen Stellwerkstypen in 
+Deutschland in den letzten zehn Jahren (bitte j&#228;hrlich angeben mit der 
+oben aufgef&#252;hrten Unterscheidung der Stellwerkstypen)?
+Nach Auskunft der DB AG entwickelte sich die Gesamtzahl der jeweiligen 
+Stellwerkstypen in Deutschland in den letzten zehn Jahren wie folgt:
+Stellwerksart 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020
+Elektromechanische Stellwerke 402 375 369 339 329 321 311 298 287 279
+Elektronische Stellwerke (ESTW-A und 
+ESTW-Z) 373 415 407 424 338 361 385 375 351 1369
+Mechanische Stellwerke 1012 978 903 839 810 752 718 668 642 651
+Relaisstellwerke 1565 1511 1475 1397 1329 1298 1274 1234 1197 1219
+Sonstige Stellwerksarten 83 113 102 91 46 44 54 61 80 328
+(Datengrundlage: ISK 2011-2020)
+Nach Auskunft der DB AG beruht die deutliche Erh&#246;hung bei den
+Elektronischen Stellwerken ESTW (und auch die leichte Erh&#246;hung bei den
+Relaisstellwerken) im Jahr 2020 auf einer Z&#228;hlweise der Anzahl der Stellwerkstypen nach 
+der Leistungs- und Finanzierungsvereinbarung (LuFV) III bezogen auf deren 
+Bauteile. Seit der LuFV III werden die ausgelagerten Stellrechner (ESTW-A) 
+mitgez&#228;hlt.
+&#8199;4. Wie soll sich die Gesamtzahl der jeweiligen Stellwerkstypen zuk&#252;nftig in 
+Deutschland entwickeln (bitte mindestens angeben f&#252;r 2021, 2025, 2030, 
+2035, 2040, 2045, 2050)?
+Nach Auskunft der DB AG werden im Zuge der Ausr&#252;stung der bundeseigenen 
+Schienenwege mit ETCS und DSTW entsprechend der Umr&#252;stplanung alle 
+Stellwerke, die nicht ETCS Level 2 kompatibel sind, durch DSTW ersetzt. Die 
+Umr&#252;stplanung wird erarbeitet.
+&#8199;5. Welche Stellwerksbauformen sollen bei der Umr&#252;stung auf sogenannte 
+digitale Stellwerke ersetzt werden (wenn nur Teile einer
+Stellwerksbauform ersetzt werden sollen, bitte Generation angeben)?
+Nach Auskunft der DB AG k&#246;nnen folgende ESTW f&#252;r den Betrieb mit ETCS 
+Level 2 hochger&#252;stet werden:
+&#8226; ESTW SIMIS D der Firma Siemens,
+&#8226; ESTW L90 der Firma Thales,
+&#8226; ZSB 2000 der Firma Scheidt &amp; Bachmann und
+&#8226; B950 der Firma Bombardier (Alstom).
+Die &#228;lteren elektronischen Stellwerksbauformen sowie mechanische,
+elektromechanische, Drucktasten- und Relaisstellwerke m&#252;ssen f&#252;r den Betrieb mit 
+ETCS Level 2 ersetzt werden.
+&#8199;6. Was ist das &#228;lteste noch im aktiven Betrieb befindliche Stellwerk im
+Verantwortungsbereich der DB Netz AG (bitte auch den Stellwerkstyp
+angeben)?
+Nach Auskunft der DB AG sind folgende Stellwerke die &#228;ltesten sich noch im 
+aktiven Betrieb befindlichen Stellwerke:
+Stellwerk Ort Inbetriebnahme Stellwerksart
+Stw LF | Innenanlage
+L&#252;bbecke (Westf)
+L&#252;bbecke (Westf.) 01.01.1899 Mechanische Stellwerke
+Stw WN | Innenanlage Winden Winden (Pfalz) 01.01.1899 Mechanische Stellwerke
+(Datengrundlage: ISK 2020)
+&#8199;7. Wie viele Stellwerke im Verantwortungsbereich der DB Netz AG sind
+&#228;lter als 10, 20, 30, 40, 50, 60 und 70 Jahre (bitte H&#228;ufigkeitsverteilung
+angeben und nach Stellwerkstyp differenzieren)?
+Im SAP-System der DB AG wird das Stellwerk unter dem Baujahr des &#228;ltesten 
+Teils gef&#252;hrt und hinsichtlich der Technik die aktuellste Generation angegeben. 
+Nach Auskunft der DB AG ist die Altersstruktur der Stellwerke danach wie 
+folgt:
+Stellwerksart 0-9 10-19 20-29 30-39 40-49 50-59 60-69 70+
+Elektromechanische Stellwerke 1 6 10 25 48 22 46 121
+Elektronische Stellwerke (ESTW-A u. 
+ESTW-Z)
+445 558 344 5 9*) 1*) 1*) 6*)
+Mechanische Stellwerke 1 8 12 7 50 40 99 434
+Relaisstellwerke 11 35 76 317 377 293 85 25
+Sonstige Stellwerkarten 103 143 49 11 7 5 5 5
+*) keine reinen ESTW, sondern Erweiterung &#228;lterer Stellwerke um einen ESTW-Anteil.
+&#8199;8. Wie viele Stellwerke wurden zwischen 2009 und 2020 j&#228;hrlich ersetzt, 
+und wie viele wurden in diesem Zeitraum modernisiert (bitte
+jahresscheibengenau angeben und bitte zus&#228;tzlich in Stelleinheiten angeben)?
+Nach Auskunft der DB AG wurden zwischen 2009 und 2020 insgesamt 1 225 
+Altstellwerke bei einem Jahresdurschnitt von 111 Stellwerken ersetzt. Im
+gleichen Zeitraum gingen 78 neue ESTW in Betrieb. Zeitgleich wurde der
+Wirkbereich vorhandener ESTW erweitert. Im Rahmen dieses
+Modernisierungsprozesses wurden im Zeitraum von 2009 bis 2020 insgesamt ca. 47 300
+Stelleinheiten, Signale und Weichen (STE) ersetzt und hochger&#252;stet. Das Jahresmittel
+betr&#228;gt ca. 4 300 STE.
+Investitionen LST 2009* 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020
+Ersatz alter 
+Stellwerke 179 150 92 143 172 107 97 68 103 74 40
+Investitionen LST 2009* 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020
+Bau neuer 
+ESTW 8 4 6 5 12 3 6 5 6 5 8 10
+Ersatz /
+Hochr&#252;stung STE
+1.835 4.588 4.205 4.562 7.863 4.483 4.148 3.818 3.771 4.161 3.897
+(Datengrundlage: IZB/ISK 2009-2020)
+*F&#252;r das Jahr 2009 keine vollst&#228;ndige Angabe m&#246;glich.
+&#8199;9. Wie viele Stellwerke m&#252;ssen j&#228;hrlich modernisiert werden, um den
+aktuellen Netzzustand zu erhalten bzw. einen eventuellen R&#252;ckstau
+abzubremsen (bitte zus&#228;tzlich in Stelleinheiten angeben)?
+11. Wie viele Stelleinheiten m&#252;ssen modernisiert werden, um R&#252;ckstau
+abzubremsen, und wie viele, um aufzuholen?
+Die Fragen 9 und 11 werden aufgrund ihres Sachzusammenhangs gemeinsam 
+beantwortet.
+F&#252;r die LuFV III wurde der in den Jahren 2020 bis 2029 anfallende
+Ersatzinvestitionsbedarf ermittelt. Der damit m&#246;gliche Ersatz von Anlagen erfolgt auf 
+dem Stand der Technik, so dass in der Folge immer von einer Verbesserung des 
+Netzzustands auszugehen ist.
+Durch den Ersatz der aktuellen Bauformen durch ESTW oder DSTW wird
+zudem die Anzahl an Stelleinheiten ansteigen. Gr&#252;nde daf&#252;r sind u. a., dass
+moderne Signale (sogenannte Kombinations-Signale) eine Vielzahl von
+Zusatzinformationen wie zum Beispiel Geschwindigkeits- oder Richtungsangaben
+anzeigen. Im Durchschnitt wird von einem Zuwachs der Stelleinheiten bei
+Umstellung auf ein ESTW um 17 Prozent ausgegangen. Auch erfolgt in der Praxis 
+kein reiner 1:1-Ersatz von Stellwerken, sondern es werden mehrere
+Altstellwerke durch ein neues Stellwerk ersetzt. Dabei wird in der Regel auch eine
+Spurplananpassung vorgenommen und dabei auch eine &#220;berpr&#252;fung der nach
+R&#252;ckbau eines Altstellwerks noch notwendigen Weichen sowie Signalen
+durchgef&#252;hrt. Sofern dar&#252;ber hinaus Stellwerke erneuert werden, die bereits jetzt ihre 
+durchschnittliche technische Nutzungsdauer &#252;berschritten haben, wird nach 
+Auskunft der DB AG der bestehende R&#252;ckstau abgebaut.
+10. Wie viele Stellwerke m&#252;ssen j&#228;hrlich modernisiert werden, um die
+geplante Erneuerung der Stellwerke durchf&#252;hren zu k&#246;nnen (bitte
+zus&#228;tzlich in Stelleinheiten angeben), und bis wann soll diese Erneuerung
+demnach abgeschlossen sein?
+Nach Auskunft der DB AG sind im Mittelfristzeitraum im Rahmen der LuFV 
+f&#252;r das Bestandsnetz 130 (Teil-) Projekte mit Inbetriebnahmen/Erweiterungen 
+von Stellwerken geplant. Dabei gehen insgesamt 14 739 Stelleinheiten in den 
+kommenden f&#252;nf Jahren in Betrieb. Im Schnitt werden demnach 26 Projekte 
+(2 948 Stelleinheiten) pro Jahr in Betrieb genommen.
+12. Wie hat sich das durchschnittliche Alter der Stellwerke in Deutschland 
+die letzten zehn Jahre entwickelt (bitte f&#252;r die Stellwerkstypen getrennt 
+und zus&#228;tzlich Durchschnittsalter f&#252;r alle Stellwerke jeweils in
+Jahresscheiben angeben)?
+Gibt es eine Einsch&#228;tzung, wie sich das durchschnittliche Alter der
+Stellwerke in Deutschland in den letzten zehn Jahren entwickelt haben sollte, 
+damit kein weiterer Sanierungsstau erforderlich w&#228;re?
+Nach Auskunft der DB AG ist das durchschnittliche Alter wie folgt:
+Stellwerke 
+[St&#252;ck] 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020
+Mechanische 
+Stellwerke 69,1 69,5 70,6 71,2 73,0 73,5 74,9 75,8 76,2 76,6 77,7 77,3
+Elektromechanische Stellwerke 52,9 53,9 54,8 55,8 57,6 58,4 59,5 60,3 61,5 62,5 63,9 63,5
+Drucktastenstellwerke 35,2 36,2 36,7 37,6 38,6 39,6 40,5 41,8 42,6 42,0 43,1 44,1
+Elektronische 
+Stellwerke 9,6 10,9 10,1 9,3 10,6 10,8 13,0 13,8 14,2 14,9 15,3 13,0
+Summe 47,7 47,9 47,1 46,8 47,1 47,2 49,3 49,6 49,7 49,4 50,5 49,0
+(Datengrundlage: ISK 2009-2020)
+Der R&#252;ckstau einer Anlage h&#228;ngt vom &#220;berschreiten der technischen
+Nutzungsdauer ab. Das Durchschnittsalter aller Stellwerke vergleicht Anlagen mit 
+unterschiedlicher technischer Nutzungsdauer. Durch den Mengeneffekt ist ein 
+R&#252;ckschluss auf Basis des Durchschnittsalters &#252;ber alle Stellwerksbauarten 
+nicht m&#246;glich.
+13. Wie wird sich das durchschnittliche Alter der Stellwerke in Deutschland 
+in den n&#228;chsten zehn Jahren entwickeln (bitte f&#252;r die Stellwerkstypen
+getrennt und zus&#228;tzlich Durchschnittsalter f&#252;r alle Stellwerke jeweils in 
+Jahresscheiben angeben)?
+Nach Auskunft der DB AG werden im Mittelfristzeitraum haupts&#228;chlich
+mechanische Stellwerke (ca. 50 Prozent in Bezug auf die Anzahl Stellwerke) bzw. 
+Relaisstellwerke (ca. 65 Prozent in Bezug auf die Anzahl Stelleinheiten)
+zur&#252;ckgebaut. Die r&#252;ckzubauenden Stellwerke sind im Vergleich zum
+Gesamtbestand &#228;lter, so dass das Alter der Stellwerke nach diesen Ma&#223;nahmen im
+Durchschnitt sinken wird.
+14. Gibt es auf den von der DB Netz betriebenen Strecken Stellwerke
+mechanischer (bzw. elektromechanischer) Bauform, die ETCS als
+Sicherungssystem haben?
+Wenn ja, warum?
+Welche Kosten sind f&#252;r die Entwicklung und Zulassung der daf&#252;r
+notwendigen Schnittstelle entstanden?
+Welche Gr&#252;nde gab es, diese Stellwerke nicht direkt umzur&#252;sten?
+Nach Auskunft der DB AG gibt es auf den von der DB Netz AG betriebenen 
+Strecken keine Stellwerke mechanischer (bzw. elektromechanischer) Bauform 
+mit ETCS. Im Bedarfsfall k&#246;nnen mechanische und elektromechanische
+Stellwerke mit ETCS nachger&#252;stet werden.
+Eine Erweiterung auf ETCS L2 ist ausgeschlossen, da f&#252;r dessen Nutzung
+konstruktive Eingriffe im Stellwerk erforderlich sind, welche nur bei
+elektronischen Stellwerken m&#246;glich sind.
+15. Bef&#252;rchtet die Bundesregierung bzw. die Deutsche Bahn AG
+Zuverl&#228;ssigkeits- oder Verf&#252;gbarkeitsprobleme bei Relaisstellwerken, die &#228;lter als 
+40 Jahre sind, und wenn ja, ab welchem Alter, bzw. infolge welchen 
+&#220;berschreitens der durchschnittlichen technischen Nutzungsdauer?
+Nach Auskunft der DB AG betr&#228;gt die technische Nutzungsdauer 40 Jahre.
+Ersatzteile sind h&#246;chstwahrscheinlich auch dar&#252;ber hinaus verf&#252;gbar und sind 
+nicht &#252;ber die Nutzungsdauer eingrenzbar.
+16. Wann ist eine vollst&#228;ndige Umr&#252;stung der Leit- und Sicherungstechnik 
+auf ETCS und elektronische (bzw. digitale) Stellwerke geplant?
+Gem&#228;&#223; der Machbarkeitsstudie des BMVI zum Rollout von ETCS/DSTW ist 
+der Abschluss der Ausr&#252;stung des bundeseigenen Schienennetzes mit ETCS 
+und DSTW bis voraussichtlich zum Jahr 2040 vorgesehen.
+17. Wie viele Streckenkilometer sollen in welchen Jahren auf ETCS)
+umger&#252;stet werden (ab 2021, bitte j&#228;hrlich angeben)?
+Nach Auskunft der DB AG werden bei gesicherter Finanzierung im Zeitraum 
+von 2021 bis 2025 folgende ETCS-Projekte zur Inbetriebnahme geplant. Alle 
+hier aufgef&#252;hrten Strecken sind bzw. werden mit der ETCS Baseline 3
+ausger&#252;stet.
+Neben der dem Bedarfsplan zugeordneten ETCS-Ausr&#252;stung wurde im Jahr 
+2015 anl&#228;sslich des Umsetzungsbeginns der ersten Stufe des European
+Deployment Plans (EDP) eine Finanzierungsvereinbarung zwischen dem Bund und der 
+DB AG &#252;ber die ETCS-Ausr&#252;stung weiterer Streckenabschnitte abgeschlossen. 
+Diese Finanzierungsvereinbarung sieht derzeit die nachfolgend genannten 
+Grenz&#252;berg&#228;nge, Grenzanschlussstrecken und L&#252;ckenschl&#252;sse sowie den
+deutschen Anteil des TEN-Korridors Rhein-Alpen f&#252;r eine Realisierung einer 
+ETCS-Ausr&#252;stung vor:
+Zus&#228;tzlich zu den f&#252;r eine Realisierung einer ETCS-Ausr&#252;stung vorgesehenen 
+Abschnitten sind in dieser Finanzierungsvereinbarung folgende weitere
+Abschnitte zur Planung einer ETCS-Ausr&#252;stung enthalten:
+Die DB AG erarbeitet die weitere Umr&#252;stplanung, auf deren Grundlage die
+Bereitstellung der entsprechenden Bundesmittel gepr&#252;ft wird. Im Digitalen
+Knoten Stuttgart sollen 125 km Strecke bis zum Jahr 2025 mit ETCS ausger&#252;stet 
+werden.
+18. Wie viele Streckenkilometer wurden bisher auf ETCS umger&#252;stet (bitte 
+j&#228;hrlich angeben, eventuelle R&#252;ckbauten getrennt angeben und Strecken 
+konkret benennen)?
+Nach Auskunft der DB AG wurden bislang 340 Streckenkilometer mit ETCS 
+ausger&#252;stet.
+Die nachfolgende Tabelle zeigt die ausger&#252;steten Strecken:
+Strecke ETCSLevel
+Inbetriebnahme / 
+Fertigstellung L&#228;nge [km]
+VDE 8.2 (Erfurt-Halle/Leipzig) L2 12/2015 126
+VDE 8.1 (N&#252;rnberg-Erfurt) L2 12/2017 113
+Strecke ETCSLevel
+Inbetriebnahme / 
+Fertigstellung L&#228;nge [km]
+Knoten Erfurt
+(u. a. Einbindung VDE 8.1 / 8.2) L2
+05/2016 und 
+11/2018 14
+ABS Erfurt-Eisenach L2 12/2018 67
+Schweizer Grenzbetriebsstrecken 
+(Anteil deutsches Streckennetz) L1 LS 08/2019 21
+19. Welcher Anteil des Streckennetzes soll im finalen Zustand mit ETCS L2 
+(Level 2) ausgestattet werden?
+20. Welcher Anteil des Streckennetzes soll im finalen Zustand mit ETCS L1 
+(Level 1) ausgestattet werden?
+Sind langfristig &#252;berhaupt Strecken mit ETCS L1 vorgesehen?
+Wenn ja, warum?
+Wie viele dieser Strecken sollen jeweils mit ETCS L1 LS (Limited
+Supervision) und mit ETCS L1 FS (Full Supervision) betrieben werden?
+22. Gibt es Strecken, die mit keinem ETCS-System ausger&#252;stet werden
+sollen?
+Wenn ja, welche, und warum?
+Die Fragen 19, 20 und 22 werden aufgrund ihres Sachzusammenhangs
+gemeinsam beantwortet.
+Die Ausr&#252;stungsstrategie des Bundes sieht eine Ausr&#252;stung des gesamten
+bundeseigenen Schienennetzes mit ETCS L2 oder h&#246;her vor. Nach Auskunft der 
+DB AG ist im finalen Zustand keine Ausstattung von Strecken mit ETCS L1 
+geplant.
+21. Gibt es Strecken, die zuerst mit ETCS L1 ausgestattet werden und sp&#228;ter 
+auf L2 aufger&#252;stet werden?
+Wenn ja, welche, und warum?
+Im Rahmen der Erf&#252;llung der Verpflichtungen gegen&#252;ber der EU aus dem EDP 
+zur Ausr&#252;stung definierter Strecken mit ETCS wird ETCS L1 dort ausger&#252;stet, 
+wo die zeitlichen Vorgaben einen Neubau von ESTW / DSTW als
+Voraussetzung f&#252;r ETCS L2 nicht zulassen. F&#252;r diese Strecken ist zu einem sp&#228;teren 
+Zeitpunkt eine Aufr&#252;stung der ETCS-Technik vorgesehen. Dies betrifft
+folgende Strecken:
+&#8226; Teilabschnitte auf dem Korridor Rhein-Alpen,
+&#8226; Grenz&#252;bergang D&#228;nemark &#8211; Flensburg Weiche,
+&#8226; Grenz&#252;bergang Polen &#8211; Erkner.
+23. Haben Hersteller oder Lieferanten der Linienf&#246;rmigen Zugbeeinflussung 
+(LZB) Wartungs- oder Lieferungsvertr&#228;ge gek&#252;ndigt (inkl. Teilsysteme)?
+a) Wenn ja, f&#252;r welchen Zeitpunkt?
+b) Wenn ja, wie stellen die Bundesregierung und die Deutsche Bahn 
+AG sicher, dass die Zuverl&#228;ssigkeit und Verf&#252;gbarkeit der Strecken 
+bestehen bleibt?
+c) Gibt es Pl&#228;ne, die Strecken tempor&#228;r auf andere Sicherungssysteme 
+umzustellen?
+d) Kalkuliert die Bundesregierung oder die Deutsche Bahn AG mit
+h&#246;heren Betriebskosten der noch verbleibenden LZB-Strecken?
+e) Bis wann soll die LZB vollst&#228;ndig abgel&#246;st sein?
+24. Liegen der Bundesregierung oder der Deutschen Bahn AG weitere
+Erkenntnisse vor, dass das Sicherungssystem LZB langfristig nicht mehr 
+eingesetzt werden kann?
+Die Fragen 23 bis 24 werden aufgrund ihres Sachzusammenhangs gemeinsam 
+beantwortet.
+Ein Hersteller der infrastrukturseitigen Komponenten stellt nach Auskunft der 
+DB AG den Support der Technik der Linienf&#246;rmigen Zugbeeinflussung (LZB) 
+ein.
+Der Support endet im Jahr 2030. Die DB Netz AG hat bereits im Jahr 2012 ein 
+Migrationskonzept aufgesetzt, mit dem eine Abl&#246;sung der LZB Strecken bis 
+2030 durch ETCS abgel&#246;st wird. Durch das zurzeit laufende Migrationskonzept 
+ergeben sich keine Kostenh&#246;hungen f&#252;r die Betriebskosten der LZB bis 2030. 
+Die Abl&#246;sung der LZB ist Bestandteil des Migrationskonzepts f&#252;r den
+Fl&#228;chenrollout ETCS/DSTW und befindet sich derzeit in Erarbeitung. Nach Auskunft 
+der DB AG besteht ab diesem Zeitpunkt keine gesicherte Verf&#252;gbarkeit mehr 
+f&#252;r das LZB System.
+25. Wird eine Ausr&#252;stung des Korridors A (vgl. https://fahrweg.dbnetz
+e.com/fahrweg-de/kunden/nutzungsbedingungen/etcs/etcs_programm-mi
+gration/etcs-korridore-3084528) mit ETCS bis Ende 2022 abgeschlossen 
+sein?
+Wenn nein, warum nicht?
+Wenn ja, welche Gesamtkosten werden dem Bund bzw. der Deutschen 
+Bahn AG hierdurch entstehen?
+Nein. Nach Auskunft der DB AG sind die Gr&#252;nde insbesondere die erh&#246;hten 
+Anforderungen an erforderliche Sicherheitsnachweise und unvorhersehbare 
+technische Herausforderungen in der Bestandstechnik.
+26. Auf welcher Strecke wurde die Erh&#246;hung der von der Bundesregierung 
+proklamierten Leistungssteigerung durch ETCS um mehr als 20 Prozent 
+untersucht (Aussage hier von &#8222;30 Prozent h&#246;heren Kapazit&#228;ten&#8220;: https://
+www.zdf.de/nachrichten/heute/kabinett-beraet-klimapaket-klimaretter-ba
+hn-wunsch-und-wirklichkeit-100.html)?
+Wurden dabei zus&#228;tzlich Blockver&#228;nderungen vorgenommen?
+Wurde eine Harmonisierung des Fahrplans unterstellt?
+Wie wurden die zus&#228;tzlich m&#246;glichen Fahrten angelegt (Zugtyp,
+Fahrtgeschwindigkeit)?
+Die Absch&#228;tzung einer Leistungssteigerung durch ETCS und die
+Digitalisierung des Bahnbetriebs wurde durch die DB AG durchgef&#252;hrt und &#252;ber alle 
+Strecken im Gesamtnetz vorgenommen.
+27. Mit welcher Leistungssteigerung rechnet die Bundesregierung bei einer 
+Umr&#252;stung von PZB (Punktf&#246;rmige Zugbeeinflussung) auf ETCS L2
+ohne Blockverdichtung?
+28. Mit welcher Leistungssteigerung rechnet die Bundesregierung bei einer 
+Umr&#252;stung von LZB (Linienf&#246;rmige Zugbeeinflussung) auf ETCS L2 
+ohne Blockverdichtung?
+29. Plant die Bundesregierung oder die Deutsche Bahn AG, bei der
+Umstellung auf ETCS L2 grunds&#228;tzlich Blockverdichtungen vorzunehmen?
+Bewertet die Bundesregierung dies als kapazit&#228;tsver&#228;ndernden Eingriff 
+in die Infrastruktur?
+Die Fragen 27 bis 29 werden aufgrund ihres Sachzusammenhangs gemeinsam 
+beantwortet.
+Der Ausbau der Eisenbahninfrastruktur erfolgt bedarfsgerecht. Dies betrifft 
+auch die Frage der Blockverdichtung. Eine Kapazit&#228;tserh&#246;hung aus einer 
+Blockverdichtung ist unabh&#228;ngig von der eingesetzten Sicherungstechnik.
+30. Wie sch&#228;tzt die Bundesregierung die Wahrscheinlichkeit ein, dass
+Strecken bei ihrem Ausbau auf ETCS L2 erneut planfestgestellt werden
+m&#252;ssen?
+Plant die Bundesregierung Ma&#223;nahmen zur Vermeidung der
+vollst&#228;ndigen Planfeststellung von Strecken bei der Installation von ETCS?
+Wenn ja, welche Ma&#223;nahmen plant die Bundesregierung?
+Wenn nein, warum nicht?
+Mit dem Gesetz zur Beschleunigung von Investitionen vom 3. Dezember 2020 
+wurde der neue &#167; 18 Absatz 1a in das Allgemeine Eisenbahngesetz eingef&#252;gt. 
+Hierdurch werden unter anderem die im Rahmen der Digitalisierung einer 
+Bahnstrecke erforderlichen Bauma&#223;nahmen, insbesondere die Ausstattung
+einer Bahnstrecke mit Signal- und Sicherungstechnik des Standards &#8222;European 
+Rail Traffic Management System&#8220; (ERTMS) als Einzelma&#223;nahme unter den 
+dort normierten Voraussetzungen vom Erfordernis einer vorherigen
+Planfeststellung oder Plangenehmigung freigestellt.
+31. Wie hoch sind die aktuell vorgesehenen Gesamtinvestitionen zur
+Umr&#252;stung der Leit- und Sicherungstechnik (bitte j&#228;hrlich bis
+Fertigstellungsdatum, Investitionen in die Leittechnik und Sicherungstechnik angeben)?
+In einer vom BMVI beauftragten Machbarkeitsstudie wurde 2018 der
+Finanzbedarf f&#252;r die ETCS/DSTW-Ausr&#252;stung der bundeseigenen Schienenwege bis 
+2040 auf rund 32 Mrd. Euro gesch&#228;tzt. Davon entfallen rund 28 Mrd. Euro auf 
+die Infrastruktur und rund 4 Mrd. Euro auf die Triebfahrzeuge. Der j&#228;hrliche 
+Bedarf ist abh&#228;ngig von der konkreten Rolloutgestaltung, die erarbeitet wird.
+32. Wie viele Finanzmittel sind schon fest vorgesehen f&#252;r die Umr&#252;stung der 
+Leit- und Sicherungstechnik?
+Im Bundeshaushalt 2021 stehen im Kapitel 1202 Titel 891 06 Ausgabemittel in 
+H&#246;he von 696,7 Mio. Euro sowie eine Verpflichtungserm&#228;chtigung in H&#246;he 
+von rund 2,5 Mrd. Euro mit F&#228;lligkeiten bis zum Jahr 2030 f&#252;r die &#8222;Ausr&#252;stung
+der deutschen Infrastruktur und von rollendem Material mit dem ERTMS&#8220; zur 
+Verf&#252;gung.
+33. Wie viele im sogenannten Starterpaket enthaltenen Projekte k&#246;nnen bis 
+Ende 2021 umgesetzt werden (bitte jeweils benennen, https://www.suedd
+eutsche.de/wirtschaft/bahn-digitalisierung-kosten-1.5267002)?
+34. Sind ein Grund f&#252;r die verz&#246;gerte Umsetzung des Starterpakets die
+unerwarteten Kostensteigerungen (https://www.sueddeutsche.de/wirtschaft/b
+ahn-digitalisierung-kosten-1.5267002)?
+Die Fragen 33 und 34 werden aufgrund ihres Sachzusammenhangs gemeinsam 
+beantwortet.
+Das Starterpaket gilt als Einstieg in die Digitale Schiene Deutschland. Es
+beinhaltet die drei Projekte
+&#8226; Schnellfahrstrecke K&#246;ln-Rhein/Main,
+&#8226; TEN-Korridor Skandinavien-Mittelmeer,
+&#8226; Digitaler Knoten Stuttgart.
+Dar&#252;ber hinaus sind im Starterpaket Beschleunigungsma&#223;nahmen vorgesehen.
+Das Starterpaket soll bis zum Jahr 2030 umgesetzt werden, in Stuttgart bis 
+2025.
+35. Rechnet die Bundesregierung oder die Deutsche Bahn angesichts der
+bereits beim Starterpaket h&#246;heren Preise mit einem h&#246;heren
+Finanzvolumen als die in der Machbarkeitsstudie angegebenen 32 Mrd. Euro f&#252;r 
+den gesamten Rollout (https://www.bmvi.de/SharedDocs/DE/Anlage/E/
+machbarkeitsstudie-digitalisierung-schiene.pdf?__blob=publicationFile)?
+Der Bundesregierung und der DB AG sind keine h&#246;heren Preise beim
+Starterpaket bekannt.
+36. Hat die Deutsche Bahn oder die Bundesregierung aktuellere
+Erkenntnisse &#252;ber die notwendigen Investitionen im Vergleich zu den in der Studie 
+aus dem Jahre 2018 genannten Zahlen (https://www.bmvi.de/SharedDoc
+s/DE/Anlage/E/machbarkeitsstudie-digitalisierung-schiene.pdf?__blob=p
+ublicationFile)?
+Nein.
+37. Wie viele Finanzmittel aus der Leistungs- und
+Finanzierungsvereinbarung wurden in den letzten f&#252;nf Jahren in den Ersatz von Stellwerken
+investiert?
+Stellwerke werden in der LuFV unter dem Gewerk Signalanlagen gef&#252;hrt. In 
+den Ersatz von Anlagen des Gewerks Signalanlagen wurden nach Auskunft der 
+DB AG im Zeitraum der LuFV II (2016-2020) folgende Betr&#228;ge investiert:
+Jahr Investitionenin Euro
+2016 560 Mio.
+2017 535 Mio.
+Jahr Investitionenin Euro
+2018 522 Mio.
+2019 570 Mio.
+2020 700 Mio.
+38. Welcher Anteil soll die Leistungs- und Finanzierungsvereinbarung f&#252;r 
+die Digitalisierung der Schiene haben?
+In der LuFV III wurde kein spezifischer Anteil f&#252;r die Digitalisierung der 
+Schiene vorgesehen, da die Digitalisierung alle
+Eisenbahninfrastrukturunternehmen und hier jeweils zahlreiche Einzelgewerke umfasst. Ersatzinvestitionen 
+werden jeweils auf dem Stand der Technik und in Hinblick auf die absehbaren 
+verkehrlichen Erfordernisse der Zukunft durchgef&#252;hrt. Dabei m&#252;ssen jeweils 
+die technischen Parameter der umgebenden Infrastruktur, die bestehende 
+Rechtslage sowie die Interoperabilit&#228;t ber&#252;cksichtigt werden.
+39. Wie viel Personal wird bei der Deutschen Bahn AG (insbesondere DB 
+Netz AG) f&#252;r die vollst&#228;ndige Umr&#252;stung gebraucht (bitte in
+Jahresscheiben ab 2015 angeben)?
+41. Was ist der notwendige Personalh&#246;chststand bei einer vollst&#228;ndigen
+Umr&#252;stung bis 2035 im Vergleich zu einer Umr&#252;stung bis 2040?
+Wie planen Bundesregierung und die Deutsche Bahn AG, die Differenz 
+im Personalbedarf abzudecken?
+Die Fragen 39 und 41 werden aufgrund ihres Sachzusammenhangs gemeinsam 
+beantwortet.
+F&#252;r eine beschleunigte Modernisierung der Leit- und Sicherungstechnik wird 
+nach Auskunft der DB AG in vielen Bereichen der DB Netz AG Personal
+ben&#246;tigt. Hierzu z&#228;hlen u. a. zentrale Einheiten der Technologieentwicklung und des 
+Betriebs genauso wie operative Ressourcen, wie z. B. Planpr&#252;fer und
+Bau&#252;berwacher. Die Planungen sind im Hinblick auf den konkreten Personalbedarf in 
+den kommenden Jahren nach Auskunft der DB AG noch nicht abgeschlossen.
+40. Wie ist der aktuelle Personalstand, der mit der Umr&#252;stung der Leit- und 
+Sicherungstechnik beauftragt ist?
+Geht die Deutsche Bahn AG davon aus, dass das ben&#246;tigte Personal 
+rechtzeitig eingestellt werden kann?
+Welche Strategie haben Bundesregierung und Deutsche Bahn AG, um 
+das notwendige Personal einzustellen?
+Der Personalstand im Projektgesch&#228;ft der DB Netz AG zur Umr&#252;stung der 
+Leit- und Sicherungstechnik liegt nach Auskunft der DB AG zum 31. Mai 2021 
+bei 559 Vollzeitpersonalstellen. Im operativen Gesch&#228;ft der Instandhaltung gibt 
+es keine Unterscheidung im Hinblick auf den Einsatz dieses Personals. Im 
+Konzern ist die DB-Personalgewinnung zust&#228;ndig.
+42. Hat die Bundesregierung oder die Deutsche Bahn AG Hinweise darauf, 
+dass die Hersteller nicht genug Personal haben, um die geplante
+Umr&#252;stung der Leit- und Sicherungstechnik zu erm&#246;glichen?
+43. Haben die Bundesregierung, Beh&#246;rden oder die Deutsche Bahn AG
+Hinweise, dass es nicht gen&#252;gend Personal f&#252;r die Zulassung der Leit- und 
+Sicherungstechnik (insbesondere von ETCS) gibt (vgl. https://ted.europ
+a.eu/udl?uri=TED:NOTICE:377089-2020:TEXT:EN:HTML&amp;tabId=1)?
+Wenn ja, wie plant die Bundesregierung, dieses Fachkr&#228;fteproblem f&#252;r 
+die Zulassung zu beheben?
+Die Fragen 42 und 43 werden aufgrund ihres Sachzusammenhangs gemeinsam 
+beantwortet.
+Der Bundesregierung und der DB AG liegen hierzu keine weiteren eigenen
+Informationen vor.
+44. Wie viele Hersteller sind der Bundesregierung oder der Deutschen Bahn 
+AG bekannt, die die neueste Stellwerksgeneration anbieten?
+Nach Auskunft der DB AG sind der DB Netz AG sechs Hersteller bekannt, die 
+in Deutschland Stellwerke f&#252;r den Zugverkehr anbieten (Rangierstellwerke 
+oder unterst&#252;tzende Techniken sind nicht ber&#252;cksichtigt).
+45. Wie viele dieser Hersteller haben bereits in Deutschland zugelassene 
+Stellwerke (bitte nach Stellwerkstechnik allgemein und digitalen
+Stellwerken unterscheiden)?
+Vier Hersteller besitzen nach Auskunft der DB AG Zulassungen zum Betrieb 
+elektronischer Stellwerke. Diese Stellwerke k&#246;nnen nach Einf&#252;hrung
+kompatibler Schnittstellen auch als digitale Stellwerke bezeichnet werden.
+46. Wie viele Hersteller sind der Bundesregierung oder der Deutschen Bahn 
+AG bekannt, die die Installation von ETCS anbieten?
+Nach Auskunft der DB AG sind sieben Hersteller in Europa bekannt.
+47. Wie viele dieser Hersteller haben bereits in Deutschland ETCS
+installiert?
+Nach Auskunft der DB AG haben zwei Hersteller in Deutschland ETCS
+installiert.
+48. Welcher Anteil der in Deutschland verkehrenden Fahrzeuge sind nach 
+Kenntnis der Bundesregierung mit ETCS ausgestattet?
+Nach Auskunft des EBA sind Hochgeschwindigkeitsz&#252;ge (HGV) der DB
+Fernverkehr (ICE1, ICE3, ICE4, ICT) sowie wenige Lokomotiven vom Typ SIE-
+MENS Vectron (f&#252;r Personenverkehr), BOMBARDIER TRAXX (zum
+Abschleppen), STADLER EuroDual und einige DB-Maschinenpool-
+Nebenfahrzeuge mit ETCS zur Fahrt auf VDE 8 in Deutschland zugelassen. Weitere 
+HGV-Triebfahrzeuge aus dem Ausland (TGV POS, TGV 2N2, EC 250) und 
+Mehrl&#228;nderlokomotiven, z. B. Varianten von SIEMENS Vectron/BR 189/BR
+182/183 oder BOMBARDIER TRAXX, bringen eine ETCS-Ausr&#252;stung aus 
+dem Ausland (z. B. CH, FR, NL) mit, die in Deutschland (noch) nicht mit 
+ETCS zugelassen sind und die verschiedene inl&#228;ndische oder ausl&#228;ndische
+Halter haben.
+49. Welche Fahrzeuge der DB Fernverkehr sind mit ETCS ausgestattet?
+Plant die DB Fernverkehr eine vollst&#228;ndige Umr&#252;stung ihrer
+Fahrzeugflotte?
+Wenn ja, bis wann, und welche Kosten werden ihr hierf&#252;r voraussichtlich 
+entstehen?
+Die DB Fernverkehr AG plant nach Auskunft der DB AG alle Fahrzeuge bis 
+sp&#228;testens 2030 mit ETCS auszustatten und ist dabei bereits fortgeschritten. 
+Die ICE 1, ICE T, ICE 4 sowie die Intercity 2 von Stadler sind vollst&#228;ndig mit 
+ETCS ausgestattet. F&#252;r die Flotte der ICE 3 sowie der IC 2 von Bombardier
+befindet sich die Ausstattung in Umsetzung. Neu zulaufende Fahrzeuge werden 
+mit ETCS-Ausstattung ausgeliefert. Die DB Fernverkehr AG rechnet mit
+Gesamtkosten f&#252;r die Ausstattung der Fernverkehrsfahrzeuge mit ETCS in
+dreistelliger Millionenh&#246;he.
+50. Plant die Bundesregierung Unterst&#252;tzungsleistungen f&#252;r die Umr&#252;stung 
+von Fahrzeugflotten auf ETCS?
+Die Bundesregierung f&#246;rdert die ETCS-Umr&#252;stung von Fahrzeugen im
+Rahmen eines Modellvorhabens im Zusammenhang mit dem Starterpaketprojekt 
+&#8222;Digitaler Knoten Stuttgart&#8220;. Dar&#252;ber hinaus ist keine F&#246;rderung der ETCS-
+Umr&#252;stung von Fahrzeugen geplant.
+51. W&#228;re aktuell ein Betrieb von Neigetechnikfahrzeugen auf ETCS-
+Strecken m&#246;glich?
+W&#228;ren f&#252;r diesen Fall zus&#228;tzliche Systeme notwendig?
+Gibt es Systeme, die f&#252;r diesen Fall erstmalig zugelassen werden
+m&#252;ssen?
+Nach Auskunft der DB AG nicht. F&#252;r einen sp&#228;teren Betrieb ist eine
+zulassungspflichtige Schnittstelle zwischen Neigetechnik-Einrichtung und ETCS-
+Bordger&#228;t notwendig.
+52. Wann, und in welchem Zeitraum ist der Rollout mit FRMCS (Future
+Railway Mobile Communication System) geplant?
+Nach Auskunft der DB AG plant die DB Netz AG erste Pilotierungen von 
+FRMCS (basierend auf einer f&#252;r die ERA TSI 2022 vorgesehenen Spezifikation 
+von FRMCS Version 1) ab ca. 2025/6 und einen fl&#228;chendeckenden Rollout ab 
+Ende der 2020er Jahre.
+53. Was ist der aktuelle Forschungs- und Entwicklungsstand f&#252;r ETCS L3 
+(Level 3)?
+Wird ein Einsatz von ETCS L3 weiterverfolgt?
+Wenn ja, auf welchen Strecken?
+Wenn nein, warum?
+Die Standardisierung und Entwicklung von ETCS L3 wird auf europ&#228;ischer 
+Ebene aktiv vorangetrieben. ETCS L3 ist als &#8222;ERTMS Game-Changer&#8220; ein
+Fokusthema der European Union Agency for Railways f&#252;r die aktuelle Revision 
+der Technischen Spezifikationen f&#252;r die Interoperabilit&#228;t (TSI) 2022. ETCS
+Level 3 ist integraler Bestandteil des Zielbildes des digitalen Bahnsystems der 
+DSD. Zusammen mit der Industrie und anderen Bahnen werden derzeit z. B. im 
+Rahmen von Machbarkeitsstudien die n&#228;chsten Schritte untersucht. Sobald die 
+Ergebnisse der Studien vorliegen, werden entsprechende Pilotstrecken
+ausgew&#228;hlt.
+54. Was ist der aktuelle Forschungs- und Entwicklungszustand f&#252;r die bei 
+ETCS L3 notwendige Zugvollst&#228;ndigkeitspr&#252;fung?
+Wie beteiligt sich die Bundesregierung an Forschungsvorhaben?
+Welche Forschungsvorhaben unter Beteiligung der Bundesregierung
+laufen aktuell?
+Die Zugvollst&#228;ndigkeitspr&#252;fung ist eine zentrale Funktion der fahrzeugseitigen 
+Ortung des digitalen Bahnsystems. Nach Auskunft der DB AG ist die DB Netz 
+AG an aktuellen Forschungs- und Entwicklungsvorhaben aktiv beteiligt, u. a. 
+im Shift2Rail IP2 TD2.5 Arbeitspaket 4 &#8222;On Board Train Integrity&#8220; und im 
+&#8222;European Digital Automatic Coupler Delivery Program&#8220;. Dies wird mit
+europ&#228;ischen Mitteln (z. B. Horizon Europe) gef&#246;rdert.
+Entsprechend der Richtlinie zur F&#246;rderung der Ausr&#252;stung von
+Schienenfahrzeugen mit Komponenten des Europ&#228;ischen Zugsicherungssystem ERTMS im 
+&#8222;Digitalen Knoten Stuttgart&#8220; m&#252;ssen die Fahrzeuge f&#252;r die ETCS Level 3 
+Funktionalit&#228;t Train Integrity Monitoring System entsprechend TSI vorbereitet 
+sein. Dieses wird mit bundeseigenen Mitteln im Modellvorhaben und
+F&#246;rdermitteln des Landes Baden-W&#252;rttemberg gef&#246;rdert.
+55. Wie viele Unf&#228;lle gab es auf den von der DB Netz AG betriebenen
+Strecken seit 1990, die von einer nicht fachgerechten Durchf&#252;hrung einer 
+Fahrstra&#223;enhilfsaufl&#246;sung mitverursacht wurden?
+Nach Auskunft der DB Netz AG liegen nur die Zahlen ab 1997 vor. Aus der 
+Ereignisdatenbank Safety ergeben sich mit Datenbestand bis Ende Mai 2021 
+insgesamt 169 Ereignisse, bei denen eine fehlerhafte Fahrstra&#223;enhilfsaufl&#246;sung 
+urs&#228;chlich oder miturs&#228;chlich f&#252;r ein gef&#228;hrliches Ereignis war. Eine
+Aufteilung auf die einzelnen Jahre kann folgender Tabelle entnommen werden:
+Die 169 gef&#228;hrlichen, durch vorzeitige Fahrstra&#223;enhilfsaufl&#246;sung verursachten 
+Ereignisse teilen sich auf in 65 Bahnbetriebsunf&#228;lle (Unf&#228;lle) und 104
+St&#246;rungen.
+56. Planen die Bundesregierung, Beh&#246;rden oder die Deutsche Bahn AG, die 
+Fahrstra&#223;enhilfsaufl&#246;sung ohne Zeitverz&#246;gerung langfristig zu ersetzen 
+oder anzupassen?
+Wenn ja, was ist der aktuelle Stand?
+Wenn nein, warum nicht?
+Welche weiteren Ma&#223;nahmen wurden ergriffen, um das potentielle
+Unfallrisiko durch die Fahrstra&#223;enhilfsaufl&#246;sung zu minimieren?
+Nach Auskunft des EBA werden Fahrstra&#223;enhilfsaufl&#246;sungen in besonderen 
+betrieblichen Situationen oder bei St&#246;rungen vorgenommen und dienen der 
+Aufrechterhaltung des Eisenbahnbetriebs. Im Gegensatz zu den
+Regelbedienungen wie Weichenumstellung, Fahrstra&#223;enstellung oder Signalstellung, deren 
+Zul&#228;ssigkeit jederzeit durch das Sicherungssystem &#252;berpr&#252;ft und
+gegebenenfalls verhindert wird, &#252;bernimmt bei der Hilfsbedienung &#8211; meist als Folge
+technischer St&#246;rungen &#8211; der Bediener anstelle der ausgefallenen Technik die
+Sicherheitsverantwortung. Zurzeit wird untersucht, wie der Bediener bei solchen 
+notwendigen Hilfshandlungen unterst&#252;tzt werden kann. Seitens des Deutschen 
+Zentrums f&#252;r Schienenverkehrsforschung wurde deshalb das Projekt
+&#8222;Unterst&#252;tzungsma&#223;nahmen bei der Durchf&#252;hrung von betrieblichen
+Hilfshandlungen&#8220; gestartet. In diesem Projekt soll das Thema Fahrstra&#223;enhilfsaufl&#246;sung 
+(mit oder ohne Zeitverz&#246;gerung) ebenfalls behandelt werden. Das Projektende 
+ist im Herbst 2021 geplant.
+57. Wie viele Strecken werden aktuell im Zugleitbetrieb gefahren?
+Ist hier eine Umstellung geplant?
+Gibt es Strecken, die auch langfristig im Zugleitbetrieb gefahren werden 
+sollen?
+Nach Auskunft der DB AG werden 102 Strecken im Zugleitbetrieb betrieben. 
+Die Betriebsverfahren der betreffenden Strecken werden gem&#228;&#223; Richtlinien der 
+DB AG auf Grundlage der VDV-Schrift 752 &#8222;Empfehlung zur Auswahl
+geeigneter Betriebsverfahren f&#252;r eingleisige Strecken&#8220; mittels eines
+Belastungsprofils ermittelt. Bei &#220;berschreitung von Schwellenwerten wird die technische 
+Ausr&#252;stung von Zugleitstrecken zur Sicherung von Zugfahrten erg&#228;nzt (z. B. 
+TUZ, Signalisierter Zugleitbetrieb oder Streckenblock). Eine Umstellung dieser 
+Vorgehensweise ist nicht geplant.
+58. Welche Unterschiede in Bezug auf die Handhabung des
+Eisenbahnbetriebs und die Verfahren im Leit- und Sicherungstechnikbereich gibt es 
+zwischen den ehemaligen Bereichen der Deutschen Bundesbahn und der 
+Deutschen Reichsbahn?
+Wenn ja, wann ist eine vollst&#228;ndige Angleichung der Regelwerke
+geplant?
+Nach Auskunft der DB AG haben die Deutsche Reichsbahn und die Deutsche 
+Bundesbahn &#252;ber Jahrzehnte hinweg die Stellwerkstechnik der jeweiligen Bahn 
+mit den beteiligten Herstellern unabh&#228;ngig voneinander entwickelt. Dies f&#252;hrte 
+zu &#228;hnlichen, aber im Detail unterschiedlichen Bedienverfahren und daraus
+resultierenden -handlungen der Fahrdienstleiter und Weichenw&#228;rter. Die
+Unterschiede in der Handhabung des Eisenbahnbetriebs bestehen zwischen den heute 
+in Betrieb befindlichen einzelnen Stellwerksgenerationen. Die Angleichung der 
+Regelwerke korreliert mit der Abl&#246;sung der alten Stellwerksgenerationen.
+59. Ist es geplant, f&#252;r die standardisierte Bewertung die Ausr&#252;stung der
+Strecken mit ETCS vorzusehen?
+Plant die Bundesregierung, mittelfristig nur noch Strecken finanziell zu 
+unterst&#252;tzen, die mit ETCS ausgestattet werden?
+Die Standardisierte Bewertung stellt eine Bewertungsmethodik zum Nachweis 
+der gesamtwirtschaftlichen Vorteilhaftigkeit von Ma&#223;nahmen des
+schienengebundenen &#246;ffentlichen Personennahverkehrs dar, welche f&#252;r eine anteilige
+F&#246;rderung durch Mittel des Gemeindeverkehrsfinanzierungsgesetzes vorgesehen 
+sind. Sie ist kein Planungsinstrument und stellt keine Anforderungen u. a. an 
+die Ausgestaltung der Leit- und Sicherungstechnik.
+Bei Bedarfsplanprojekten, die noch nicht begonnen wurden oder die sich in
+fr&#252;hen Leistungsphasen (1 oder 2) befinden, erfolgt eine ETCS-Ausr&#252;stung. In
+begr&#252;ndeten Einzelf&#228;llen kann davon abgewichen werden. Sieht der Bedarfsplan 
+eine Blockverdichtung auf einem Streckenabschnitt vor, der im Rahmen der
+Digitalen Schiene Deutschland mit ETCS ausger&#252;stet wird, ber&#252;cksichtigt das 
+ETCS-Vorhaben diese Blockverdichtung.
+60. H&#228;lt die Bundesregierung am Ausbauziel 2035 fest (vgl. https://www.zei
+t.de/news/2020-09/02/was-die-digitale-schiene-fuer-bahnkunden-bedeute
+t?utm_referrer=https%3A%2F%2Fwww.google.com%2F)?
+Wie ist in diesem Zusammenhang die Aussage von Enak Ferlemann in 
+der Fragestunde vom 5. Mai 2021 (Antwort auf eine Nachfrage zu Frage 
+21) zu verstehen, dass nach aktueller Einsch&#228;tzung eine Umsetzung bis 
+2040 brauchen wird?
+61. Warum k&#252;ndigte die Bundesregierung eine Umsetzung bis 2035 an (vgl. 
+https://www.zeit.de/news/2020-09/02/was-die-digitale-schiene-fuer-bahn
+kunden-bedeutet?utm_referrer=https%3A%2F%2Fwww.google.com
+%2F), wenn nach Aussage von Enak Ferlemann eine Untersuchung dazu 
+erst Ende dieses Jahres vorliegen soll (vgl. Aussage Fragestunde vom 
+5. Mai 2021 als Antwort auf eine Nachfrage zu Frage 21: &#8222;Es gibt
+Bestrebungen, diesen Ausbaukorridor zu beschleunigen, um das im Jahr 
+2035 zu erreichen. Daran arbeiten wir derzeit, und dazu dient unter
+anderem auch das in diesem Jahr laufende Experimentierprogramm mit der 
+Industrie, dem EBA und der DB AG, um insbesondere die Stellwerke
+relativ schnell umr&#252;sten zu k&#246;nnen. Dieses Testprogramm l&#228;uft in diesem 
+Jahr. Wir erwarten die Ergebnisse zum Ende des Jahres, um zu sehen, ob 
+wir die Ma&#223;nahmen dadurch beschleunigen k&#246;nnen.&#8220;)?
+62. Wenn die Bundesregierung den Rollout bereits bis 2035 umsetzen will, 
+wird mit einem h&#246;heren Finanzbedarf gerechnet, und wenn ja, wie viel 
+h&#246;her ist dieser Finanzbedarf?
+Die Fragen 60 bis 62 werden aufgrund ihres Sachzusammenhangs gemeinsam 
+beantwortet.
+Nach der Machbarkeitsstudie des BMVI ist der Abschluss der Ausr&#252;stung des 
+bundeseigenen Schienennetzes mit ETCS und DSTW bis zum Jahr 2040
+vorgesehen. An diesem Ausbauziel h&#228;lt die Bundesregierung fest. Die DB AG stellt 
+zusammen mit der Bahnindustrie vor dem Hintergrund einer Absichtserkl&#228;rung 
+vom September 2020 &#220;berlegungen f&#252;r eine Beschleunigung der Ausr&#252;stung 
+bis zum Jahr 2035 an.
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/30653 -
+Digitale Schiene - Aktueller Stand der Modernisierung der Leit- und Sicherungstechnik</titel>
+    <datum>2021-07-29</datum>
+  </document>
+  

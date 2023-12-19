@@ -1,0 +1,590 @@
+<document>
+    <id>243545</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/21116</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>e7e1c7e7fe7deddbda8f8dea3250bc5b</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>264173</id>
+      <titel>Medizininformatik - Forschung und Anwendung</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium f&#252;r Bildung und Forschung</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/211/1921116.pdf</pdf_url>
+      <id>243545</id>
+      <dokumentnummer>19/21116</dokumentnummer>
+      <datum>2020-07-16</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Antwort
+der Bundesregierung
+auf die Kleine Anfrage der Abgeordneten Mario Brandenburg (S&#252;dpfalz),
+Katja Suding, Britta Katharina Dassler, weiterer Abgeordneter und der
+Fraktion der FDP
+&#8211; Drucksache 19/20414 &#8211;
+Medizininformatik &#8211; Forschung und Anwendung
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Die Medizin der Zukunft ist digital und l&#228;sst die Bereiche Biologie,
+Informatik, Data Sciences und Medizin miteinander verschmelzen. Diese sogenannte 
+Konvergenz wird im Silicon Valley seit Jahren in Forschung und Entwicklung 
+gelebt. Dort wird nach der Entschl&#252;sselung des menschlichen Lebens an der 
+Schwelle zwischen genomischen Daten und Algorithmen gesucht (siehe zum 
+Beispiel: Thomas Schulz &#8222;Zukunftsmedizin&#8220;). Vergangenes Jahr entwickelten 
+auch deutsche Wissenschaftler einen Algorithmus, der schwarzen Hautkrebs 
+im direkten Vergleich besser erkennen konnte als &#196;rztinnen und &#196;rzte (https://
+www.sciencedirect.com/science/article/pii/S0959804919302217). &#196;hnliche 
+Ergebnisse gab es bereits 2017 in den USA (https://www.nature.com/articles/n
+ature21056.epdf). Andere Studien wandten K&#252;nstliche Intelligenz (KI)
+erfolgreich zur Analyse von Gewebeproben bei Brustkrebs und bei
+R&#246;ntgenaufnahmen von Lungenentz&#252;ndungen an. All das zeigt, was KI in der Medizin leisten 
+soll und vor allem, was die Technologie leisten kann und zuk&#252;nftig leisten 
+wird. Lernende Algorithmen (Machine Learning) k&#246;nnen dabei helfen,
+Krankheiten fr&#252;her zu diagnostizieren, die Behandlung zu verbessern, das Personal 
+zu entlasten und die Entwicklung von Medikamenten zu beschleunigen.
+Als Beispiel f&#252;r eine sinnvolle Verbindung von Medizin und Informatik l&#228;sst 
+sich die Forschung zur Parkinson-Krankheit nennen. F&#252;r das &#8222;Human
+Parkinsome Project&#8220; (https://www.occamzrazor.com/work) wollen die
+Verantwortlichen einen digitalen Atlas der Parkinson-Krankheit erstellen. Das System
+b&#252;ndelt Daten aus wissenschaftlichen Studien, klinischen Untersuchungen sowie 
+Informationen &#252;ber Medikamente, Proteine und Molek&#252;le, die f&#252;r die
+Krankheit eine Rolle spielen. Aus diesem Sammelsurium an Daten soll die Machine 
+oder Deep-Learning-Anwendung Ergebnisse &#252;ber neue
+Behandlungsm&#246;glichkeiten oder Medikamente erstellen, die dann noch von Fach&#228;rzten und
+Fach&#228;rztinnen getestet werden m&#252;ssten.
+Es entstehen immer mehr Start-ups zwischen Gesundheit und Informatik 
+(https://www.bionity.com/de/startups/), und auch die Bundesregierung will im 
+Rahmen ihrer Medizininformatik-Initiative (MII) die M&#246;glichkeiten von KI 
+erschlie&#223;en. Obwohl die Forschung noch am Anfang steht, gibt es bereits erste 
+Erfolge. Das Bundesministerium f&#252;r Bildung und Forschung (BMBF) f&#246;rdert 
+Deutscher Bundestag Drucksache 19/21116
+19. Wahlperiode 16.07.2020
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums f&#252;r Bildung und Forschung vom 
+16. Juli 2020 &#252;bermittelt.
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext.
+die MII zun&#228;chst bis zum Jahr 2021 mit &#252;ber 150 Millionen Euro. In einer 
+weiteren Phase sollen die Ergebnisse ausgebaut und im Anschluss verstetigt 
+werden. Ziel der Medizininformatik-Initiative ist die Verbesserung von
+Forschungsm&#246;glichkeiten und Patientenversorgung durch den Austausch und die 
+Nutzung von Daten aus Krankenversorgung sowie klinischer und
+biomedizinischer Forschung &#252;ber die Grenzen von Institutionen und Standorten hinweg. 
+Die Fragesteller wollen wissen, wie die Bundesregierung die Wirksamkeit der 
+MII vor allem am Punkt von Forschung in die Anwendung pr&#252;ft. Denn gerade 
+in den Bereichen Datenzugang und Vernetzung von Forschung, &#196;rzten und 
+Patienten sowie in der Anwendung von Ergebnissen bleibt die
+Bundesregierung nach Ansicht der Fragesteller genaue Angaben schuldig.
+&#8199;1. Mit welchen &#252;bergeordneten Zielen wurde die MII durch die
+Bundesregierung initiiert?
+Liegt der MII eine l&#228;ngerfristige Strategie zugrunde?
+Wenn ja, worauf basiert diese Strategie?
+Existieren Vorreiterprogramme der Bundesregierung, die zu dieser
+Initiative f&#252;hrten?
+&#220;bergeordnetes Ziel der Medizininformatik-Initiative (MII) ist es, durch eine 
+intelligente und verantwortungsvolle Verkn&#252;pfung von medizinischen
+Forschungs- und Versorgungsdaten die M&#246;glichkeiten der Gesundheitsforschung 
+und die Qualit&#228;t der Patientenversorgung zu verbessern. Der MII liegt ein
+langfristig angelegtes, gestuftes und modular aufgebautes F&#246;rderkonzept des
+Bundesministeriums f&#252;r Bildung und Forschung (BMBF) zugrunde. Die
+entwickelte Strategie basiert auf einem umfassenden Entwicklungsprozess, der
+zusammen mit einschl&#228;gigen Expertinnen und Experten aus Forschung, Versorgung 
+und Industrie sowie den relevanten Interessensvertretern gef&#252;hrt wurde. Ein 
+breites Spektrum an Erfahrungen aus bisherigen BMBF-F&#246;rderinitiativen ist in 
+die Konzeptionierung der MII eingeflossen.
+&#8199;2. Welches Ergebnis erwartet die Bundesregierung nach Abschluss der MII 
+im Jahr 2021?
+Ein Kernelement der MII sind Datenintegrationszentren (DIZen), die Daten aus 
+der Forschung und Patientenversorgung digital zusammenf&#252;hren und f&#252;r
+standort&#252;bergreifende Fragestellungen in Forschung und Versorgung erschlie&#223;en. Es 
+wird erwartet, dass die MII in der aktuellen Aufbau- und Vernetzungsphase an 
+den gef&#246;rderten Universit&#228;tskliniken DIZen aufbaut, die hierf&#252;r die
+organisatorischen und technischen Voraussetzungen schaffen. In klar definierten
+Anwendungsf&#228;llen (Use Cases) sollen die Machbarkeit und der Mehrwert einer
+gemeinsamen Nutzung der Patientendaten f&#252;r Forschung und Versorgung
+exemplarisch gezeigt werden.
+&#8199;3. Anhand welcher Kriterien wird die Bundesregierung eine Folgeinitiative 
+in 2021 entwickeln?
+Welche Ergebnisse sind f&#252;r diese Folgeinitiative ausschlaggebend?
+In die konkrete Ausgestaltung der bereits im F&#246;rderkonzept vorgesehenen 
+n&#228;chsten F&#246;rderphase werden die Ergebnisse eines extern durchgef&#252;hrten
+Audits einbezogen. Vor Ende der aktuellen Aufbau- und Vernetzungsphase sollen 
+die vier MII-Konsortien im Audit nachweisen, dass die entwickelten
+technischen und organisatorischen L&#246;sungen eine konsortien- und
+standort&#252;bergreifende Datennutzung erm&#246;glichen und einen Mehrwert f&#252;r Forschung und
+Versorgung bieten.
+&#8199;4. Welche Universit&#228;ten und (Fach-)Hochschulen bieten die Studieng&#228;nge 
+&#8222;Bioinformatik&#8220; und &#8222;Medizininformatik&#8220; nach Wissen der
+Bundesregierung in Deutschland an?
+Wie viele Studenten befinden sich zurzeit in einem dieser Studieng&#228;nge?
+Bewirbt die Bundesregierung mit Hilfe der L&#228;nder diese Studieng&#228;nge 
+aktiv?
+Wenn ja, welche Initiativen gibt es?
+Gem&#228;&#223; der f&#246;deralen Kompetenzverteilung sind die L&#228;nder f&#252;r Hochschulen 
+und alle damit einhergehenden Fragen (Studieng&#228;nge, Studierendenzahlen 
+usw.) zust&#228;ndig. Dementsprechend liegen der Bundesregierung hierzu keine
+belastbaren eigenen Erkenntnisse vor.
+Die Deutsche Gesellschaft f&#252;r Medizinische Informatik, Biometrie und
+Epidemiologie e. V. hat in Zusammenarbeit mit dem Berufsverband Medizinischer 
+Informatiker e. V. eine Liste der Ausbildungseinrichtungen im Bereich
+Medizinische Informatik und Bioinformatik erstellt. Diese umfasst in Deutschland
+insgesamt 54 Standorte mit zum Teil mehreren relevanten Studieng&#228;ngen. Gem&#228;&#223; 
+dem Statistischen Bundesamt betrug die Zahl der Studierenden im
+Sommersemester 2019 insgesamt 2534 im Fach Bioinformatik und 2929 im Fach
+Medizininformatik.
+&#8199;5. Mit welchen Mitteln wird die Bundesregierung die Ausbildung von 
+Fachkr&#228;ften im Bereich &#8222;Bioinformatik&#8220; und &#8222;Medizininformatik&#8220;
+f&#246;rdern?
+Welchen Fachkr&#228;ftebedarf erkennt die Bundesregierung in den n&#228;chsten 
+f&#252;nf Jahren?
+Wie wird sich der Bedarf im Biotechnologie Sektor von 2020 bis 2025 
+ver&#228;ndern?
+Welchen Bedarf an Fachkr&#228;ften erkennt die MII, und mit welchen
+Gremien arbeitet sie an Konzepten f&#252;r mehr Fachkr&#228;fte?
+Identifiziert die Bundesregierung eine L&#252;cke zwischen der Ausbildung 
+an Fachkr&#228;ften und dem aktuellen Bedarf in Deutschland?
+Wenn ja, wie gro&#223; wird der in den n&#228;chsten f&#252;nf Jahren sein?
+Wenn nein, warum nicht?
+Das Fachkr&#228;ftemonitoring des Bundesministeriums f&#252;r Arbeit und Soziales 
+(BMAS) betrachtet die Entwicklung des Arbeitsmarktes unter der Annahme
+einer beschleunigten Digitalisierung. Aussagen werden auf der Ebene von
+Berufen bzw. Berufsgruppen getroffen. Zurzeit wird das Instrument vor dem
+Hintergrund der Ma&#223;nahmen zur Eind&#228;mmung der COVID-19-Pandemie
+&#252;berarbeitet.
+Die auch im Internetauftritt des BMAS abrufbaren Ergebnisse sind
+entsprechend einzuordnen und beinhalten noch nicht die Auswirkungen von Covid-19. 
+F&#252;r den Bereich der medizinischen Gesundheitsberufe und f&#252;r die Berufe aus 
+der &#8222;Informatik-, Informations-, Kommunikationstechnik&#8220; werden (weiterhin) 
+Fachkr&#228;fteengp&#228;sse erwartet. Allerdings f&#228;llt bzw. fiel eine vertiefte
+Betrachtung der Entwicklungen nicht eindeutig aus. Denn w&#228;hrend die Berufe der 
+(434) Softwareentwicklung und Programmierung sowie (432) IT-
+Systemanalyse, Anwenderberatung und IT-Vertrieb mit einer zunehmenden Digitalisierung 
+st&#228;rker nachgefragt werden und das Angebot an Fachkr&#228;ften auch in Zukunft 
+&#252;bersteigen werden, f&#252;hrt die erh&#246;hte Studierneigung f&#252;r die
+Berufshauptgruppe &#8222;(41) Mathematik-, Biologie-, Chemie- und Physikberufe&#8220; dazu, dass sich 
+die Fachkr&#228;ftesituation hier mittelfristig aus Sicht der Arbeitgeber deutlich
+verbessert und die Konkurrenzsituation zwischen Arbeitnehmerinnen und
+Arbeitnehmern zunimmt.
+F&#252;r die Gesundheitsforschung und an den Universit&#228;tskliniken besteht derzeit 
+ein hoher Bedarf an qualifizierten Fachkr&#228;ften in den Bereichen der Bio- und 
+Medizininformatik, der sich aufgrund des technischen Fortschritts und der
+Entwicklung eines zunehmend vernetzten und digitalisierten Gesundheitswesens in 
+den kommenden Jahren voraussichtlich noch verst&#228;rken kann. Das BMBF hat 
+diese Situation fr&#252;hzeitig erkannt und f&#246;rdert in seinen Initiativen zu
+Bioinformatik (Deutsches Netzwerk f&#252;r Bioinformatik, de.NBI) und Medizininformatik 
+konsequent die Heranbildung des wissenschaftlichen Nachwuchses. In de.NBI 
+wurden bisher rund 6.000 Wissenschaftlerinnen und Wissenschaftler in
+Bioinformatik geschult. In der MII ist die St&#228;rkung der Medizininformatik in 
+Deutschland eine der drei S&#228;ulen des BMBF-F&#246;rderkonzeptes. Neben der
+Umsetzung der Konsortialkonzepte f&#252;r Forschung und Lehre steht die F&#246;rderung 
+von jeweils bis zu zwei Nachwuchsgruppen als Anreiz f&#252;r die Schaffung neuer 
+Medizininformatik-Professuren im Vordergrund. Mit einem breiten Spektrum 
+an Ma&#223;nahmen, Werkzeugen und Veranstaltungen setzen sich die MII-
+Konsortien in der Fort- und Weiterbildung von Studierenden und
+Mitarbeitenden ein, unterst&#252;tzen die Anpassung von Curricula an die neuen
+Herausforderungen und begleiten den Aufbau von Studieng&#228;ngen in der biomedizinischen 
+Informatik und den Medical Data Sciences im Austausch mit bestehenden 
+Strukturen wie z. B. der Deutschen Gesellschaft f&#252;r Medizinische Informatik, 
+Biometrie und Epidemiologie oder der Gesellschaft f&#252;r medizinische
+Ausbildung.
+&#8199;6. Wie bewertet die Bundesregierung die Synergieeffekte zwischen
+Biologie, Informatik, Data Sciences und Medizin?
+Welchen Einfluss k&#246;nnen Synergieeffekte nach Auffassung der
+Bundesregierung auf die Biotechnologie Branche erzeugen?
+Die Verkn&#252;pfung der genannten Disziplinen bietet ein gro&#223;es Potential f&#252;r das 
+Verst&#228;ndnis komplexer Zusammenh&#228;nge in Zellen, Organen und Organismen 
+und bei der Entstehung und Entwicklung von Erkrankungen im einzelnen
+Patienten. Die hier gewonnenen Erkenntnisse k&#246;nnen eine wichtige Grundlage f&#252;r 
+Innovationen in der Biotechnologie und Medizin bilden. Die methodischen 
+Entwicklungen z. B. in der Molekularbiologie und der Hochdurchsatzanalytik 
+und die zunehmende Vernetzung und Digitalisierung in der Medizin erlauben 
+es zusammen mit den neuen M&#246;glichkeiten der IT- und Datenanalytik sehr viel 
+mehr Daten zu generieren und diese sehr tief und &#252;bergreifend zu analysieren. 
+Hierf&#252;r ist die Verf&#252;gbarkeit von IT-Ressourcen und Werkzeugen sowie die 
+Harmonisierung der Daten und die technische und organisatorische
+Interoperabilit&#228;t eine zentrale Voraussetzung. Diese Herausforderung hat das BMBF
+erkannt und adressiert diese in ihren F&#246;rderma&#223;nahmen, insbesondere in der MII, 
+de.NBI und dem F&#246;rderprogramm &#8222;Computational Life Sciences&#8220;.
+&#8199;7. Welche Bedeutung spielen nach Auffassung der Bundesregierung
+genomische Daten f&#252;r personalisierte Medizin?
+Welche Erfolge k&#246;nnen nach Meinung der Bundesregierung mit
+genomischen Daten in der personalisierten Medizin erzielt werden?
+Wie wird die Bundesregierung mit Hilfe der MII genomische Daten in 
+die Datenintegrationszentren integrieren?
+Nach der aktuellen europ&#228;ischen Definition zielt die Personalisierte Medizin 
+darauf ab, die Charakterisierung des individuellen Ph&#228;notyps und Genotyps zu 
+nutzen, um spezifisch f&#252;r jeden Menschen oder zumindest definierte
+Patientengruppen zur richtigen Zeit ma&#223;geschneiderte Behandlungen anzubieten.
+Genomische Daten haben das Potential, die Personalisierte Medizin in den
+Bereichen Diagnostik und Behandlung nachhaltig zu verbessern. Die Erhebung 
+und Auswertung genomischer Daten er&#246;ffnet neue Perspektiven f&#252;r das
+Verst&#228;ndnis von Krankheitsentstehungen und Krankheitsverl&#228;ufen und bietet neue 
+Ansatzpunkte f&#252;r die Entwicklung neuer Wirkstoffe und Therapien. Somit
+k&#246;nnen die ganzheitliche Diagnostik unterst&#252;tzt und gezieltere und
+patientenindividuelle Therapie- und Interventionsentscheidungen erreicht werden.
+In Kombination mit klinischen und Lebensstildaten spielt die Kenntnis und 
+Nutzung genomischer Daten auch in der Gesundheitsforschung eine
+wesentliche Rolle f&#252;r die Entwicklung neuer personalisierter Therapien und die
+Implementierung der Personalisierten Medizin in der klinischen Praxis. Je nach 
+Krankheitsbild ist nicht immer die Untersuchung und Analyse des
+vollst&#228;ndigen Genoms erforderlich. Oftmals gen&#252;gt auch die Analyse der aktiven Gene 
+einer Zelle oder eines Gewebes. So werden heute bereits einige Krebstherapien 
+an dem Vorliegen bestimmter Mutationen im Genom oder anderer molekularer 
+Biomarker ausgerichtet. Dies resultiert in schnellerem Therapieansprechen und 
+teilweise deutlich l&#228;ngeren &#220;berlebenszeiten. Aber auch in vielen anderen 
+Krankheitsgebieten wie Stoffwechselerkrankungen, Herz-Kreislauf-
+Erkrankungen und psychischen Erkrankungen besitzt die kombinierte Analyse von
+genetischen und anderen medizinisch relevanten Daten ein gro&#223;es Potenzial f&#252;r
+wirksamere Behandlung und Pr&#228;vention.
+Um dieses Potential f&#252;r die Personalisierte Medizin aussch&#246;pfen zu k&#246;nnen, 
+m&#252;ssen die molekularen Informationen mit klinischen Daten verkn&#252;pft und
+interpretiert werden k&#246;nnen. Die MII sieht daher auch vor, genomische Daten in 
+die DIZen zu integrieren. Am Standort Heidelberg wird zum Beispiel mit
+Unterst&#252;tzung des Deutschen Krebsforschungszentrums ein sogenanntes &#8222;Omics-
+DIZ&#8220; f&#252;r die Speicherung, Auswertung, Integration, Visualisierung und den 
+Austausch von genomischen und weiteren medizinischen Daten aufgebaut.
+&#8199;8. Wie wird die Bundesregierung mit Daten aus der &#8222;Selbstvermessung des 
+eigenen K&#246;rpers&#8220; zum Beispiel via Smartphone-Apps umgehen?
+a) Gibt es Bestrebungen der Bundesregierung dort mit privaten
+Unternehmen zusammenzuarbeiten?
+Mit dem Inkrafttreten des Digitale-Versorgung-Gesetzes (DVG) am 19.
+Dezember 2019 wurden Digitale Gesundheitsanwendungen &#8211; DiGA &#8211; f&#252;r
+Patientinnen und Patienten bereits in die Gesundheitsversorgung eingef&#252;hrt (&#167;&#167; 33a 
+und 139e des F&#252;nften Buches Sozialgesetzbuch), deren Leistungsspektrum 
+auch die Erhebung und Dokumentation von Vitalparametern umfassen kann. 
+Mit dem DVG haben Versicherte in der gesetzlichen Krankenversicherung
+damit einen Anspruch auf Versorgung mit DiGA und diese k&#246;nnen von &#196;rztinnen 
+und &#196;rzten und Psychotherapeutinnen und Psychotherapeuten verordnet
+werden.
+b) Arbeitet die Bundesregierung mit Forschungsinstituten an einer
+standardisierten QR-Code-Variante f&#252;r genomische Daten?
+Nein.
+c) Wie wird die MII die Repr&#228;sentativit&#228;t der Daten aus der
+&#8222;Selbstvermessung des K&#246;rpers&#8220; gew&#228;hrleisten?
+Die &#8222;Selbstvermessung des K&#246;rpers&#8220; steht derzeit nicht im Fokus der MII. In 
+der aktuellen F&#246;rderphase erfolgt lediglich in einem Anwendungsfall die
+Erprobung von neuen mobilen Diagnosetechnologien bei der Langzeitbeobachtung 
+von chronisch Herzkranken. Auch hier finden die hohen Standards
+Anwendung, die in der MII entwickelt werden.
+d) Wie arbeitet die MII nach Kenntnis der Bundesregierung mit der
+Gesetzlichen und Privaten Krankenversicherung zusammen?
+In der aktuellen F&#246;rderphase findet in einzelnen Projekten auch eine
+Zusammenarbeit mit Krankenkassen statt. In dem derzeit ausgeschriebenen
+zus&#228;tzlichen F&#246;rdermodul der MII &#8222;Digitale FortschrittsHubs Gesundheit&#8220;, das auf
+eine Erprobung der Machbarkeit einer forschungskompatiblen,
+sektoren&#252;bergreifenden Datenbereitstellung in der medizinischen Praxis der regionalen
+Versorgung abzielt, wird die Zusammenarbeit mit Krankenkassen explizit
+adressiert.
+e) Arbeitet die MII an einer einheitlichen Datenerfassungsmethode bei 
+Daten aus der &#8222;Selbstvermessung des K&#246;rpers&#8220;?
+Es wird auf die Antwort zu Frage 8c verwiesen.
+f) Welche weiteren M&#246;glichkeiten zur freiwilligen Datenspende wird die 
+Bundesregierung erm&#246;glichen?
+In dem Gesetz zum Schutz elektronischer Patientendaten in der
+Telematikinfrastruktur (Patientendaten-Schutz-Gesetz,PDSG), das der Deutsche Bundestag 
+am 3. Juli 2020 beschlossen hat, sind in &#167; 363 SGB V zwei M&#246;glichkeiten
+vorgesehen, medizinische Daten f&#252;r die Forschung zur Verf&#252;gung zu stellen. Eine 
+M&#246;glichkeit umfasst die Freigabe der Daten der elektronischen Patientenakte 
+an das Forschungsdatenzentrum entsprechend der
+Datentransparenzvorschriften. Die Einzelheiten der Datenfreigabe und der Daten&#252;bermittlung sind in
+einer Rechtsverordnung zu regeln. Eine andere M&#246;glichkeit betrifft die
+individuelle und unmittelbare Freigabe der Daten aus der elektronischen Patientenakte 
+an Forschende und Forschungseinrichtungen auf Grundlage der
+datenschutzrechtlichen Einwilligung nach Artikel 6 Absatz 1 Buchstabe a DSGVO und
+Artikel 9 Absatz 2 Buchstabe a DSGVO. Die technischen Einzelheiten legt die 
+gematik im Benehmen mit den f&#252;r die Wahrnehmung der Interessen der
+Forschung im Gesundheitswesen ma&#223;geblichen Bundesverb&#228;nden fest.
+&#8199;9. Wie wird die Bundesregierung die medizinischen Daten aus
+verschiedenen Quellen wie der elektronischen Patientenakte, den bildgebenden
+Verfahren, der Genomsequenzierung oder aus unterschiedlichen
+Forschungssystemen datenschutzkonform zusammenf&#252;hren?
+Wie m&#246;chte die Bundesregierung die Vereinheitlichung der verf&#252;gbaren, 
+medizinischen Daten erreichen?
+Die Bundesregierung unterst&#252;tzt die verbesserte Nutzung von Daten f&#252;r
+Forschung und Versorgung durch f&#246;derierte Datenhaltung und Interoperabilit&#228;t.
+Die Standardisierung der verf&#252;gbaren, medizinischen Daten wird durch den 
+Kerndatensatz der MII und die medizinischen Informationsobjekte (MIO) der 
+elektronischen Patientenakte unterst&#252;tzt. Dabei kommen internationale
+Standards zur Anwendung, wie beispielsweise Fast Healthcare Interoperability
+Resources (FHIR). Mit dem Impfpass und dem zahn&#228;rztlichen Bonusheft werden 
+den Versicherten ab 2022 die ersten MIOs der Kassen&#228;rztlichen
+Bundesvereinigung (KBV) in der elektronischen Patientenakte nach &#167; 291a SGB V zur
+Verf&#252;gung stehen.
+10. Wie stellt die Bundesregierung die Anonymisierung der medizinischen 
+Daten sicher?
+Wer ist bei Versto&#223; und Missbrauch gegen die Anonymisierung nach 
+Auffassung der Bundesregierung rechtlich verantwortlich?
+Die datenschutzrechtliche Verantwortlichkeit f&#252;r die Datenverarbeitung ergibt 
+sich aus der DSGVO. Dar&#252;ber hinaus sind Einzelheiten in den
+datenschutzrechtlichen Regelungen im bereichsspezifischen Recht geregelt. So sieht
+beispielsweise &#167; 307b SGB V Strafvorschriften f&#252;r die unrechtm&#228;&#223;ige Weitergabe 
+von Transparenzdaten an Dritte oder die Verarbeitung dieser Daten zum
+Zwecke der Herstellung eines Personenbezugs vor.
+11. Gibt aus Sicht der Bundesregierung spezielle datenrechtliche
+Anforderungen an medizinische Daten?
+Mit welchen Mitteln unterst&#252;tzt die Bundesregierung den &#8222;FAIR Data&#8220; 
+Ansatz der MII?
+Datenschutzrechtliche Anforderungen an medizinische Daten ergeben sich
+bereits unmittelbar aus der DSGVO. Gesundheitsdaten fallen unter die
+besonderen Kategorien personenbezogener Daten nach Artikel 9 der DSGVO und
+genie&#223;en den dort geregelten besonderen Schutz. Im Rahmen des zweiten 
+Datenschutzanpassungs- und Umsetzungsgesetz wurde das bereichsspezifische 
+Recht an die DSGVO angepasst. Davon waren 24 Gesetze im
+Zust&#228;ndigkeitsbereich des Bundesministeriums f&#252;r Gesundheit betroffen. Beispielhaft k&#246;nnen 
+hier das Sozialgesetzbuch, das Arzneimittelgesetz, das Gendiagnostikgesetz 
+und das Infektionsschutzgesetz genannt werden.
+Die Bundesregierung unterst&#252;tzt grunds&#228;tzlich die FAIR-Prinzipien und setzt 
+sich f&#252;r deren Ber&#252;cksichtigung und Erf&#252;llung bei allen Ma&#223;nahmen zur
+Verbesserung der datenschutzkonformen Datennutzung ein, dies gilt auch f&#252;r die 
+MII. Zum Prinzip &#8222;Interoperable&#8220; wird auf die Antwort zu Frage 9 verwiesen.
+12. Welche Ergebnisse hat die MII nach Kenntnis der Bundesregierung bei 
+Routinedaten aus der Patientenversorgung erzielt, die
+standort&#252;bergreifend digital vernetzt werden?
+Wie wird die Bundesregierung die kontinuierliche Vernetzung auch im 
+Sinne einer Interoperabilit&#228;t mit den Strukturen der
+Gesundheitsversorgung gew&#228;hrleisten?
+Wie ist der Umsetzungsstand der sich neu bildenden Nationalen
+Forschungsdateninfrastruktur (NFDI)?
+Gegenw&#228;rtig arbeiten in der MII alle Universit&#228;tsklinika Deutschlands
+gemeinsam mit Forschungseinrichtungen und Industriepartnern daran, freiwillig zur 
+Verf&#252;gung gestellte Routinedaten der Krankenversorgung besser f&#252;r die
+medizinischen Fragestellungen zu erschlie&#223;en. In einer Demonstratorstudie &#252;ber
+bundesweit 1,8 Millionen Patientinnen und Patienten und mehr als 20 Standorte 
+konnte die MII zeigen, dass das vorgesehene technische und organisatorische 
+Konzept der standort&#252;bergreifenden digitalen Datennutzung grunds&#228;tzlich 
+funktioniert und die Daten qualitativ geeignet sind. Die anstehende Umsetzung 
+der klinischen Use Cases wird den Patientennutzen einer digitalen Vernetzung 
+von Routinedaten an konkreten medizinischen Fragestellungen anschaulich
+machen.
+Um eine Interoperabilit&#228;t mit den Strukturen der Gesundheitsversorgung zu
+erzielen, arbeitet die MII mit der KBV zusammen, die offizieller
+Kooperationspartner der MII ist. Ziel der Zusammenarbeit ist eine Abstimmung im Hinblick 
+auf die der elektronischen Patientenakte (ePA) zugrundeliegenden
+Datenmodelle mit dem Kerndatensatz der MII, auf den sich alle Standorte der
+Universit&#228;tsmedizin in Deutschland geeinigt haben und der die Bereitstellung von
+Routinedaten aus der Patientenversorgung f&#252;r die Forschung harmonisiert.
+Seit Projektbeginn im Jahr 2019 sind beim Aufbau der Nationalen
+Forschungsdateninfrastruktur (NFDI) zahlreiche wichtige Umsetzungsschritte erfolgt: 
+Nachdem Bund und L&#228;nder sich im Rahmen der Gemeinsamen
+Wissenschaftskonferenz (GWK) auf Karlsruhe als Sitz der NFDI sowie die Gr&#252;ndung der 
+NFDI als Verein geeinigt haben, hat zwischenzeitlich die NFDI-Gesch&#228;ftsstelle 
+(Direktorat) in Karlsruhe ihre Arbeit aufgenommen (Arbeitsbeginn zum 
+1. M&#228;rz 2020). Auf ihrer Sitzung am 26. Juni 2020 hat die GWK die F&#246;rderung 
+von neun NFDI-Konsortien in der ersten F&#246;rderrunde beschlossen. Zugrunde 
+lag ein wissenschaftliches Evaluationsverfahren und eine F&#246;rderempfehlung 
+der Deutschen Forschungsgemeinschaft (DFG). Die zweite
+Ausschreibungsrunde wurde im Mai 2020 gestartet.
+13. Wie arbeiten nach Information der Bundesregierung die
+Datenintegrationszentren der Universit&#228;tskliniken?
+Nach welchen Standards erfolgt die Datensammlung, der Datenzugang, 
+die Datenverarbeitung?
+Auf welchem Server liegen diese Daten?
+K&#246;nnen alle Universit&#228;tskliniken auf diese Daten zugreifen?
+Nach welchem Muster willigen die Patienten zur Datenverarbeitung ein, 
+und l&#228;sst sich die Eingabe auch wieder zur&#252;cknehmen?
+Welches Konsortium, welcher Partner oder welches technologische
+Programm wertet die Daten nach Kenntnis der Bundesregierung aus?
+Die MII verfolgt ein Konzept einer f&#246;derierten Datenhaltung. Medizinische 
+Forschungs- und Versorgungsdaten werden dezentral, am jeweiligen
+Universit&#228;tsklinikstandort, in einem DIZ digital zusammengef&#252;hrt und f&#252;r eine
+&#252;bergreifende Nutzung durch die Forschung aufgearbeitet. F&#252;r die hierf&#252;r
+erforderliche Harmonisierung der Daten verst&#228;ndigen sich die MII Partner im
+Nationalen Steuerungsgremium (NSG) auf gemeinsame Informationsmodelle und
+einen bundeseinheitlichen Kerndatensatz sowie die Nutzung international
+anerkannter Standards. In diesem Zusammenhang stellt das BMBF der MII und
+ihren Kooperationspartnern bundesweit erstmals eine SNOMED CT Lizenz zur 
+Verf&#252;gung. Diese erm&#246;glicht es, medizinische Sachverhalte in einen
+international einheitlichen Code zu &#252;bersetzen.
+Die M&#246;glichkeiten einer Nutzung von personenbezogenen Gesundheitsdaten 
+f&#252;r die Forschung werden ma&#223;geblich durch die Patienteneinwilligung
+bestimmt. Die MII sieht eine ausdr&#252;ckliche Zustimmung und souver&#228;ne
+Entscheidung der Menschen &#252;ber die Verwendung ihrer pers&#246;nlichen Daten vor. Die 
+freiwillige Patienteneinwilligung kann jederzeit ohne Angabe von Gr&#252;nden
+vollst&#228;ndig oder in Teilen widerrufen werden. F&#252;r eine solche
+Patienteneinwilligungserkl&#228;rung hat die MII auf Basis der EU-Datenschutzgrundverordnung 
+einen Mustertext erarbeitet. Im April 2020 haben die unabh&#228;ngigen
+Datenschutzaufsichtsbeh&#246;rden des Bundes und der L&#228;nder diesem zugestimmt.
+Hierdurch liegt nun ein bundesweit einheitlicher Mustertext f&#252;r die medizinische 
+Forschung mit pseudonymisierten Patientendaten vor.
+14. Wie garantiert die MII nach Kenntnis der Bundesregierung die Qualit&#228;t 
+(Vollst&#228;ndigkeit, Richtigkeit, Kontext) der erfassten und verwendeten 
+Daten?
+Die MII beachtet bei der Sicherstellung der Qualit&#228;t der Daten die bestehenden 
+Standards, Werkzeuge sowie die Leitlinien zur Datenqualit&#228;t in der
+medizinischen Forschung. Zudem haben sich alle Universit&#228;tsmedizin-Standorte auf
+einen gemeinsamen Kerndatensatz geeinigt sowie auf Festlegungen zur
+Standardisierung der medizinischen Inhalte unter Nutzung internationaler Standards.
+15. Welches Konzept verfolgt die MII nach Kenntnisstand der
+Bundesregierung im Bereich der &#8222;Zweitnutzung&#8220; (Secondary Use) von
+medizinischen Daten?
+Wie gew&#228;hrleistet die MII den technischen und organisatorischen
+Datenschutz auch im Sinne von Anonymisierung und Pseudonymisierung bei 
+der &#8222;Secondary Use&#8220;?
+Hat die MII Herausforderungen mit der Datenschutz-Grundverordnung 
+erkannt?
+Wenn ja, welche?
+F&#252;r die MII ist eine Antrags- und Registerstelle (ZARS) als zentraler
+Anlaufpunkt f&#252;r die Forschung in Vorbereitung. Antr&#228;ge, Vertr&#228;ge und Prozesse
+werden hier auf nationaler Ebene harmonisiert. Eine Bereitstellung der Daten f&#252;r 
+Forschungsfragen erfolgt nach positivem Votum einer Ethik-Kommission und 
+eines Use &amp; Access-Komitees (UAC). Zur Gew&#228;hrung des technischen und
+organisatorischen Datenschutzes auch im Sinne von Anonymisierung und
+Pseudonymisierung sieht die MII unabh&#228;ngige Treuhandstellen vor. Zur
+Patienteneinwilligung und Datenschutzgrundverordnung siehe auch die Antwort zu 
+Frage 13.
+16. Welche Potentiale schreibt die Bundesregierung folgenden Technologien 
+f&#252;r die Verbesserung der medizinischen Grundversorgung der B&#252;rger zu?
+Wie werden diese Zukunftstechnologien und Schl&#252;sseltechnologien im 
+Bereich medizinische Versorgung (inklusive Diagnose und Therapie
+sowie Lehre und Ausbildung) eingesetzt (bitte jeweils zwei
+Anwendungsgebiete der aufgez&#228;hlten Technologien darlegen)?
+Welche medizinische Anwendungen auf Grundlage der aufgez&#228;hlten 
+Technologien enth&#228;lt nach Kenntnis der Bundesregierung der
+Leistungskatalog des Gemeinsamen Bundesausschusses und wird damit von den 
+Gesetzlichen Krankenversicherungen erstattet?
+Wie inkludiert die MII diese Technologien:
+Die Bundesregierung schreibt den genannten Technologien grunds&#228;tzlich
+positive Potentiale f&#252;r die Verbesserung der medizinischen Grundversorgung der 
+B&#252;rgerinnen und B&#252;rger zu. Es handelt sich bei dieser Auflistung allerdings um 
+sehr unterschiedliche Verfahren mit unterschiedlichem Reifegrad, einige
+befinden sich demnach noch im Forschungsstadium, andere sind bereits in
+Pilotprojekten im Einsatz.
+Der Leistungsumfang der gesetzlichen Krankenversicherung wird durch den 
+Gemeinsamen Bundesausschuss (G-BA), dem Beschlussgremium der
+gemeinsamen Selbstverwaltung, konkretisiert. Sofern es sich bei medizinischen
+Anwendungen unter Einsatz der genannten Technologien um neue
+Untersuchungsoder Behandlungsmethoden handelt, d&#252;rfen sie im Rahmen der
+vertrags&#228;rztlichen und vertragszahn&#228;rztlichen Versorgung zu Lasten der gesetzlichen
+Krankenversicherung erst erbracht werden, wenn der G-BA nach &#167; 135 des F&#252;nften 
+Buches Sozialgesetzbuch (SGB V) hierzu auf Antrag nach einer Bewertung des 
+Nutzens, der medizinischen Notwendigkeit und Wirtschaftlichkeit in
+Richtlinien eine Empfehlung abgegeben hat. Im Rahmen der station&#228;ren Versorgung 
+k&#246;nnen neue Untersuchungs- und Behandlungsmethoden, auch unter Einsatz 
+der genannten Technologien, nach &#167; 137c SGB V ohne eine entsprechende 
+Empfehlung des G-BA zu Lasten der gesetzlichen Krankenversicherung
+erbracht und von den Versicherten beansprucht werden, sofern die Methode das 
+Potenzial einer erforderlichen Behandlungsalternative bietet und ihre
+Anwendung nach den Regeln der &#228;rztlichen Kunst erfolgt, also insbesondere
+medizinisch indiziert und notwendig ist.
+a) Machine Learning und Deep Learning,
+Machine Learning und Deep Learning zeigen aktuell vor allem Potential bei 
+der Unterst&#252;tzung des Arztes bei der pr&#228;ziseren und schnelleren Diagnose, zum 
+Beispiel bei der Erkennung von malignen Melanomen in der Dermatologie. Ein 
+Projekt in diesem Bereich ist das vom Bundesministerium f&#252;r Gesundheit 
+(BMG) bis Mai 2020 gef&#246;rderte &#8222;Skin-Classification-Project&#8220; am Deutschen 
+Krebsforschungszentrum (DKFZ) in Heidelberg. Auch in der Behandlung
+haben digitale Expertensysteme Potential, die Therapie individueller und pr&#228;ziser 
+auf die Patientin oder den Patienten auszurichten.
+Die seit M&#228;rz 2020 ebenfalls am DKFZ gef&#246;rderte &#8222;Tumorverhalten-
+Pr&#228;diktions-Initiative&#8220; arbeitet daran, auf Basis von smarten Daten die
+patientenzentrierte Pr&#228;zisionsonkologie bei Melanom, Brust- und Prostatakrebs zu 
+verbessern und die Therapiesteuerung zu individualisieren.
+b) Robotik,
+Der Einsatz von Operationsrobotern ist in der Versorgung in einigen Bereichen 
+bereits gut etabliert. Sie k&#246;nnen es erm&#246;glichen, vor allem bei endoskopischen 
+Operationen die offenen Operationstechniken des Operateurs an der
+Operationsstelle sofort in minimal invasive Operationsbewegungen umzusetzen und 
+dem Operateur die Fingerfertigkeit, die Pr&#228;zision und die instinktiven
+Bewegungen zu erhalten. Vorteile f&#252;r den Patienten sind meist kleinere &#228;u&#223;ere 
+Schnittwunden, schnellere Wundheilung und geringerer Blutverlust.
+Demgegen&#252;ber stehen hohe Investitionskosten.
+c) Virtual und Augmented Reality,
+d) Holographie,
+Da intelligente Hologramme ein Teil der Darstellungen der Virtual und
+Augmented Reality sind, werden die Unterfragen c und d zusammen beantwortet.
+Virtual und Augmented Reality kommen zum Beispiel bei der
+Operationsvorbereitung und als Echtzeitunterst&#252;tzung bei chirurgischen Eingriffen zum
+Einsatz. Im Vorfeld einer Operation kann der Chirurg anhand eines Hologramms 
+die Operation planen und vorbereiten.
+W&#228;hrend der Operation k&#246;nnen dem Operateur durch Augmented-Reality-
+Brillen positionsgenau r&#228;umliche Informationen aus pr&#228;operativen Aufnahmen 
+wie Computertomographie, Magnetresonanztomographie, Ultraschall u. a.
+eingeblendet werden und so die Operation pr&#228;ziser durchgef&#252;hrt werden. Dar&#252;ber 
+hinaus gibt es auch Pilotprojekte und Studien, die den Einsatz von Augmented 
+Reality zur Unterst&#252;tzung der Aus- und Weiterbildung untersuchen. Der
+Einsatz von Augmented Reality hat in diesem Bereich zum Beispiel den Vorteil, 
+dass kritische und seltene Szenarien aus der Versorgung zun&#228;chst ohne
+Patientinnen und Patienten, aber doch realit&#228;tsnah und wiederholt trainiert werden 
+k&#246;nnen.
+e) Additive Fertigungsverfahren wie 3D-Druck,
+Additive Verfahren kommen unter anderem im Dentalbereich zum Einsatz. Sie 
+stellen eine meist wirtschaftlichere Alternative dar und werden zum Beispiel 
+f&#252;r die Herstellung von Schienen, Provisorien und Positionierungshilfen
+eingesetzt. Ein anderes Anwendungsgebiet ist die Applikator-Herstellung, die bei der 
+High-Dose-Brachytherapie von Tumoren zum Einsatz kommen. Der Applikator 
+enth&#228;lt F&#252;hrungen f&#252;r flexible Nadeln, in denen das strahlende Material zum 
+Tumor gef&#252;hrt wird. Das hat den Vorteil, dass das gesunde Gewebe nicht
+besch&#228;digt wird und die Therapie gezielt durchgef&#252;hrt werden kann.
+f) Supercoputing und Quantencomputing,
+Super- und Quantencomputing ist momentan vorrangig in der Forschung
+relevant. Das BMG verfolgt die Entwicklungen und die perspektivisch m&#246;glichen 
+Potentiale f&#252;r die Versorgung.
+g) Kybernetik und Brain Computer Interfaces?
+Brain-Computer-Interfaces k&#246;nnen einen Beitrag zur Wiedererlangung der
+Bewegungsf&#228;higkeit leisten, die durch St&#246;rungen der Nervenbahnen zwischen
+Gehirn und Muskeln erheblich eingeschr&#228;nkt ist, zum Beispiel nach einem Unfall 
+oder einem Schlaganfall. Zum Einsatz kommen dabei sogenannte
+Neuroprothesen, die einen &#8222;elektronischen neuronalen Bypass&#8220; erstellen und damit die
+unterbrochenen Bahnen im Nervensystem umgehen. &#220;ber die Verbesserung der 
+Bewegungsf&#228;higkeit hinaus liegt das Potential vor allem darin, der Patientin 
+oder dem Patienten wieder zu mehr Selbstbestimmung und Freiheit zu
+verhelfen.
+Die MII nutzt Methoden der k&#252;nstlichen Intelligenz (KI) z. B. im Bereich des 
+Natural Language Processing (NLP), um medizinische Informationen, die 
+elektronisch unstrukturiert als Freitext z. B. in Befunden und Arztbriefen
+vorliegen, f&#252;r automatisierte Analysen zug&#228;nglich zu machen. Dar&#252;ber hinaus wird 
+Maschinelles Lernen in verschiedenen Anwendungsf&#228;llen eingesetzt. So wird 
+z. B. im klinischen Use Case Algorithmische Surveillance (ASIC) ein 
+algorithmen-basiertes Fr&#252;hwarn- und Entscheidungsunterst&#252;tzungssystem f&#252;r 
+akutes Lungenversagen auf Intensivstationen etabliert.
+Hierf&#252;r werden Computermodelle, sogenannte &#8222;virtuelle Patienten&#8220; entwickelt 
+und trainiert, um in den Patienten&#252;berwachungsdaten der Intensivstationen
+versteckte Muster als Vorboten f&#252;r kritische Situationen zu erkennen. Im MII Use 
+Case Smart Infection Control System (SmICS) nutzen Wissenschaftlerinnen 
+und Wissenschaftler u. a. Methoden des Maschinellen Lernens, um auf der 
+Grundlage von Patientendaten und ihren Aufenthaltsorten im Krankenhaus ein 
+computer-basiertes Fr&#252;hwarnsystem aufzubauen, mit dem Infektionen und 
+&#220;bertragungswege in Krankenh&#228;usern aufgesp&#252;rt und fr&#252;hzeitig einged&#228;mmt 
+werden k&#246;nnen.
+17. Mit welchen europ&#228;ischen Partnern und Konsortien arbeitet die MII laut 
+Information der Bundesregierung zusammen?
+Wie funktioniert die Arbeit dieser europ&#228;ischen Verkn&#252;pfungen?
+Welche europ&#228;ischen Forschungsprojekte, die die MII begleitet, gibt es 
+nach Wissen der Bundesregierung?
+Die MII sowie die einzelnen Konsortien werden jeweils durch
+wissenschaftliche Beir&#228;te aus international anerkannten Expertinnen und Experten begleitet. 
+Diese beraten das NSG zu &#252;bergreifenden Themen, die die Gesamtinitiative
+betreffen, und unterst&#252;tzen die Konsortien mit ihrer Expertise und internationalen 
+Sicht. Alle Konsortien der MII sind aktiv in internationale Gremien
+eingebunden, wie z. B. Health Level 7 (HL7), Integrating the Healthcare Enterprise 
+(IHE) oder GOFAIR. Dar&#252;ber hinaus sind die MII-Partner international gut
+vernetzt und beteiligen sich an verschiedenen europ&#228;ischen Forschungsprojekten, 
+wie z. B. Smart4Health oder ADVOCATE des Horizont 2020
+Rahmenprogramms. In Smart4Health wird dabei an der Entwicklung einer europ&#228;ischen 
+L&#246;sung f&#252;r den Umgang mit Gesundheitsdaten gearbeitet. ADVOCATE
+fokussiert auf die Entwicklung und den Vergleich neuer Modelle f&#252;r sichere und
+effiziente pr&#228;ventionsorientierte und patientenzentrierte Gesundheitssysteme.
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/20414 -
+Medizininformatik - Forschung und Anwendung</titel>
+    <datum>2020-07-16</datum>
+  </document>
+  

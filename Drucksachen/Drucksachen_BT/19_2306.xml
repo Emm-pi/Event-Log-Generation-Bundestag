@@ -1,0 +1,403 @@
+<document>
+    <id>219463</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/2306</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>55f7d5a7ce530697ee6f39ec48facefe</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>234836</id>
+      <titel>Einsatz von Sp&#228;hsoftware bei der Strafverfolgung (Quellen-Telekommunikations&#252;berwachung und Online-Durchsuchung)</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium des Innern, f&#252;r Bau und Heimat</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/023/1902306.pdf</pdf_url>
+      <id>219463</id>
+      <dokumentnummer>19/2306</dokumentnummer>
+      <datum>2018-05-24</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums des Innern, f&#252;r Bau und Heimat 
+vom 18. Mai 2018 &#252;bermittelt.  
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext. 
+Deutscher Bundestag  Drucksache 19/2306 
+19. Wahlperiode 24.05.2018 
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Katja Keul, Dr. Konstantin von Notz, 
+Luise Amtsberg, weiterer Abgeordneter und der Fraktion  
+B&#220;NDNIS 90/DIE GR&#220;NEN  
+&#8211; Drucksache 19/1810 &#8211; 
+Einsatz von Sp&#228;hsoftware bei der Strafverfolgung (Quellen-
+Telekommunikations&#252;berwachung und Online-Durchsuchung) 
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r  
+Das Straf- und Strafverfahrensrecht als sch&#228;rfster Eingriff des Staates in das 
+Freiheitsrecht erfordert strikte Wahrung von Rechtsstaatlichkeit und
+Grundrechten der Verfahrensbeteiligten wie aller B&#252;rgerinnen und B&#252;rger. Nur auf 
+dieser Grundlage sind Effektivit&#228;t, Praxistauglichkeit und Anpassung an
+moderne technische M&#246;glichkeiten Ma&#223;st&#228;be der Modernisierung der
+Strafprozessordnung.  
+Die von der Gro&#223;en Koalition 2017 in die Strafprozessordnung (StPO)
+eingef&#252;gte Regelung der Ermittlungsma&#223;nahmen Quellen-
+Telekommunikations&#252;berwachung (TK&#220;) und Online-Durchsuchung werden nach Ansicht von
+Rechtswissenschaftlern und Sachverst&#228;ndigen f&#252;r Informationstechnik den
+rechtsstaatlichen und grundrechtlichen Herausforderungen der Digitalisierung nicht
+gerecht und erscheinen bei Einhaltung der Vorgaben der StPO und des
+Grundgesetzes als praktisch unanwendbar (vgl. Buermeyer, Stellungnahme zur
+Anh&#246;rung des Ausschusses f&#252;r Recht und Verbraucherschutz am 31. Mai 2017 (www. 
+bundestag.de/ausschuesse/ausschuesse18/a06/anhoerungen/stellungnahmen/508 
+846), Stellungnahme Chaos Computer Club (Neumann, Kurz, Rieger) ebenda, 
+Blechschmitt, Zur Einf&#252;hrung von Quellen-TK&#220; und Online-Durchsuchung, 
+Strafverteidiger-Forum 2017 S. 361-365, Stellungnahme Chaos Computer  
+Club vom 4. Februar 2018 zur Anh&#246;rung im Innenausschuss des Hessischen 
+Landtages, Ausschussvorlage INA 19/63 Teil 3, S 290 ff. (https://hessischer- 
+landtag.de/content/innenausschuss-anh%C3%B6rung-zum-verfassungsschutz)). 
+Denn bislang ist es offenbar weder dem eine Quellen-TK&#220; oder Online-
+Durchsuchung anordnenden Gericht noch der die Ma&#223;nahme beantragenden oder bei 
+Gefahr im Verzug zun&#228;chst entscheidenden Staatsanwaltschaft sowie der
+durchf&#252;hrenden Beh&#246;rde sicher m&#246;glich, sich Gewissheit &#252;ber die Gesetzes- und
+Verfassungskonformit&#228;t der f&#252;r die informationstechnische &#220;berwachung jeweils 
+eingesetzten Software (im Folgenden abgek&#252;rzt: Sp&#228;hsoftware) zu verschaffen. 
+Sichere IT-Infrastrukturen und durchgehend hohe Verschl&#252;sselungsstandards 
+d&#252;rfen nicht gef&#228;hrdet werden. Insbesondere n&#246;tig sind strikte Beachtung des
+vom Bundesverfassungsgericht (BVerfG) aus dem allgemeinen
+Pers&#246;nlichkeitsrecht hergeleiteten Grundrechts auf Gew&#228;hrleistung der Vertraulichkeit 
+und Integrit&#228;t informationstechnischer Systeme, des Grundsatzes der
+Verh&#228;ltnism&#228;&#223;igkeit sowie der Nachrangigkeit solcher Ermittlungsma&#223;nahmen vor
+anderen Erkenntnism&#246;glichkeiten.  
+V o r b e me r k u n g  d e r  B u n d e s r e g i e r u n g  
+Die Bundesregierung beantwortet die im Rahmen des parlamentarischen
+Fragerechts angefragten Sachverhalte gegen&#252;ber dem Deutschen Bundestag
+grunds&#228;tzlich transparent und vollst&#228;ndig, um dem verfassungsrechtlich verbrieften
+Aufkl&#228;rungs- und Informationsanspruch des Deutschen Bundestages zu entsprechen. 
+Soweit Anfragen Umst&#228;nde betreffen, die aus Gr&#252;nden des Staatswohls
+geheimhaltungsbed&#252;rftig sind, hat die Bundesregierung aber zu pr&#252;fen, ob und auf
+welche Weise die Geheimhaltungsbed&#252;rftigkeit mit dem parlamentarischen
+Informationsanspruch in Einklang gebracht werden kann (BVerfGE 124, Seite 161, 189).  
+Bei der Abw&#228;gung ist auch zu ber&#252;cksichtigen, ob durch die Bekanntgabe von 
+Einzelaspekten der Sicherheitsbeh&#246;rden Individualrechte Einzelner tangiert
+werden, insbesondere das durch Artikel 2 Absatz 1 des Grundgesetzes (GG)
+gesch&#252;tzte Recht auf Leben und k&#246;rperliche Unversehrtheit. Die Abw&#228;gung kann 
+dazu f&#252;hren, dass die Bundesregierung nicht zur Arbeitsweise, Ausstattung und 
+Methode der Sicherheitsbeh&#246;rden Stellung nimmt. 
+Ergibt die im Einzelfall vorzunehmende Abw&#228;gung, dass lediglich die
+Ver&#246;ffentlichung einer geheimhaltungsbed&#252;rftigen Information ausgeschlossen ist, wird 
+die Antwort unter Beachtung des jeweils erforderlichen Grades der
+Verschlusssache bei der Geheimschutzstelle des Deutschen Bundestages hinterlegt. 
+Die Bundesregierung ist nach sorgf&#228;ltiger Abw&#228;gung zu der Auffassung gelangt, 
+dass eine Beantwortung der Fragen 1, 2, 3, 4, 19, 20, 21 in offener Form ganz 
+oder teilweise nicht erfolgen kann. Die in diesen Fragen erbetenen Ausk&#252;nfte sind 
+geheimhaltungsbed&#252;rftig, weil sie Informationen enthalten, die im
+Zusammenhang mit der Arbeitsweise und Methodik der von der Kleinen Anfrage
+betroffenen Dienststellen des Bundes und insbesondere deren Ermittlungsaktivit&#228;ten und 
+Analysemethoden stehen. Die Antworten auf die Kleine Anfrage beinhalten zum 
+Teil detaillierte Einzelheiten zu ihren technischen F&#228;higkeiten und
+ermittlungstaktischen Verfahrensweisen. Aus ihrem Bekanntwerden k&#246;nnten R&#252;ckschl&#252;sse 
+auf ihre Vorgehensweise, F&#228;higkeiten und Methoden gezogen werden. Deshalb 
+sind einzelne Informationen gem&#228;&#223; der Allgemeinen Verwaltungsvorschrift des 
+Bundesministeriums des Innern zum materiellen und organisatorischen Schutz 
+von Verschlusssachen (VS-Anweisung &#8211; VSA) als &#8222;VS &#8211; Nur f&#252;r den
+Dienstgebrauch&#8220; eingestuft und werden als nicht zur Ver&#246;ffentlichung in einer
+Bundestagsdrucksache bestimmte Anlage &#252;bermittelt.* 
+                                                     
+* Das Bundesministerium des Innern, f&#252;r Bau und Heimat hat Teile der Antworten als &#8222;VS &#8211; Nur f&#252;r den Dienstgebrauch&#8220; eingestuft. 
+Die Antwort ist im Parlamentssekretariat des Deutschen Bundestages hinterlegt und kann dort von Berechtigten eingesehen werden.
+1. In wie vielen F&#228;llen haben Bundesbeh&#246;rden bisher im Auftrag der
+Bundesanwaltschaft oder in Amtshilfe f&#252;r Landesstrafverfolgungsbeh&#246;rden und
+jeweiliger zugrunde liegender Anordnungen Sp&#228;hsoftware  
+a) zur Quellen-TK&#220; (&#167; 100a Absatz 1 S&#228;tze 2 und 3 StPO) und  
+b) zur Online-Durchsuchung (&#167; 100b StPO),  
+c) bei der Verfolgung jeweils welcher Anlasstaten eingesetzt (bitte
+aufschl&#252;sseln nach jeweiliger Rechtsgrundlage, Anlasstat, durchf&#252;hrender 
+Bundesbeh&#246;rde)? 
+Auf die Vorbemerkung der Bundesregierung sowie den als Verschlusssache mit 
+dem Einstufungsgrad &#8222;VS &#8211; Nur f&#252;r den Dienstgebrauch&#8220; eingestuften
+Antwortteil wird verwiesen. 
+2. In wie vielen F&#228;llen richtete sich die Ma&#223;nahme gem&#228;&#223; Frage 1 gegen  
+a) Beschuldigte, 
+b) Angeschuldigte und 
+c) Angeklagte?  
+Auf die Vorbemerkung der Bundesregierung sowie den als Verschlusssache mit 
+dem Einstufungsgrad &#8222;VS &#8211; Nur f&#252;r den Dienstgebrauch&#8220; eingestuften
+Antwortteil wird verwiesen. 
+3. In wie vielen F&#228;llen wurden Erkenntnisse, die aufgrund von Ma&#223;nahmen
+gem&#228;&#223; Frage 1 gewonnen wurden, in Verfahren ber&#252;cksichtigt, die sich nicht 
+gegen Personen gem&#228;&#223; Frage 2 richteten? 
+Auf die Vorbemerkung der Bundesregierung sowie den als Verschlusssache mit 
+dem Einstufungsgrad &#8222;VS &#8211; Nur f&#252;r den Dienstgebrauch&#8220; eingestuften
+Antwortteil wird verwiesen. 
+4. In wie vielen F&#228;llen gem&#228;&#223; Frage 1 wurden Informationen nicht verwendet, 
+da sie den Kernbereich privater Lebensf&#252;hrung betrafen, und in wie vielen 
+F&#228;llen wurden Informationen, die bereits Eingang in Ermittlungsakten
+gefunden hatten, aus diesem Grund sp&#228;ter ausgeschlossen? 
+Auf die Vorbemerkung der Bundesregierung sowie den als Verschlusssache mit 
+dem Einstufungsgrad &#8222;VS &#8211; Nur f&#252;r den Dienstgebrauch&#8220; eingestuften
+Antwortteil wird verwiesen.
+5. Wie k&#246;nnen sich nach Kenntnis der Bundesregierung das eine Quellen-TK&#220; 
+anordnende Gericht und die die Ma&#223;nahme beantragende oder bei Gefahr im 
+Verzug zun&#228;chst entscheidende Staatsanwaltschaft sowie die
+durchf&#252;hrenden Beh&#246;rden Gewissheit dar&#252;ber verschaffen, dass wie in der StPO
+vorgeschrieben technisch sichergestellt ist, 
+a) dass ausschlie&#223;lich die laufende Telekommunikation &#252;berwacht und
+aufgezeichnet werden kann (&#167; 100a Absatz 5 Satz 1 Nummer 1a StPO) oder 
+dass ausschlie&#223;lich gespeicherte Inhalte und Umst&#228;nde der
+Kommunikation, die ab der TK&#220;-Anordnung w&#228;hrend des laufenden
+&#220;bertragungsvorgangs h&#228;tten &#252;berwacht und aufgezeichnet werden k&#246;nnen, &#252;berwacht 
+und aufgezeichnet werden k&#246;nnen (&#167; 100a Absatz 5 Satz 1 Nummer 1b 
+StPO) und die Quellen-TK&#220; nicht zu einem Vollzugriff auf Inhalte und 
+Ressourcen des Zielsystems f&#252;hrt und damit faktisch eine rechtswidrige 
+Online-Durchsuchung bedeutet; 
+b) dass am Zielsystem nur Ver&#228;nderungen vorgenommen werden, die f&#252;r die 
+Datenerhebung unerl&#228;sslich sind (&#167; 100a Absatz 5 Satz 1 Nummer 2 
+StPO) und die vorgenommenen Ver&#228;nderungen am Zielsystem soweit 
+technisch automatisch r&#252;ckg&#228;ngig gemacht werden (&#167; 100a Absatz 5 
+Satz 1 Nummer 3 StPO)? 
+Die zur Durchf&#252;hrung von Ma&#223;nahmen der Quellen-
+Telekommunikations&#252;berwachung (TK&#220;) eingesetzten Softwareprodukte werden vor der Einsatzfreigabe 
+umfassend hinsichtlich der Erf&#252;llung der gesetzlichen Vorgaben &#252;berpr&#252;ft. Die 
+Ergebnisse dieser Pr&#252;fung stehen den in der Fragestellung genannten Stellen auf 
+Anforderung zur Einsichtnahme zur Verf&#252;gung. 
+6. Wie k&#246;nnen sich nach Kenntnis der Bundesregierung das eine Quellen-TK&#220; 
+anordnende Gericht und die die Ma&#223;nahme beantragende oder bei Gefahr im 
+Verzug zun&#228;chst entscheidende Staatsanwaltschaft sowie die
+durchf&#252;hrenden Beh&#246;rden Gewissheit dar&#252;ber verschaffen, dass 
+a) die Sp&#228;hsoftware (&#8222;das eingesetzte Mittel&#8220; in der Terminologie der StPO) 
+nach dem Stand der Technik gegen unbefugte Nutzung gesch&#252;tzt ist 
+(&#167; 100a Absatz 5 Satz 2 StPO) und  
+Auf die Antwort zu Frage 5 wird verwiesen. 
+b) die Ma&#223;nahme nicht unzul&#228;ssig ist, weil sie allein den Kernbereich
+privater Lebensgestaltung betrifft (&#167; 100d Absatz 1 StPO)? 
+Vor der Durchf&#252;hrung einer Quellen-TK&#220;-Ma&#223;nahme wird der
+zugrundeliegende Sachverhalt gem&#228;&#223; der gesetzlichen Vorgaben dahingehend &#252;berpr&#252;ft, ob 
+Anhaltspunkte daf&#252;r bestehen, dass ausschlie&#223;lich Erkenntnisse aus dem
+Kernbereich der privaten Lebensgestaltung gewonnen werden k&#246;nnten. Im Einzelfall
+ber&#252;cksichtigt die &#8211; soweit aufgrund der vorliegenden polizeilichen Erkenntnisse 
+und ggf. schon vorliegenden einzelnen Ermittlungsergebnisse m&#246;gliche &#8211;
+Prognose die voraussichtliche Art der Nutzung des &#252;berwachten Anschlusses/der 
+&#252;berwachten Kennung oder des erwartbaren Verh&#228;ltnisses der m&#246;glichen
+Telekommunikationsteilnehmer. Die Staatsanwaltschaft pr&#252;ft dies im Rahmen der 
+Entscheidung &#252;ber die Beantragung der Ma&#223;nahme ebenso wie das anordnende 
+Gericht. Die Pflicht der durchg&#228;ngigen Pr&#252;fung des Kernbereichsschutzes bei der 
+Durchf&#252;hrung der Ma&#223;nahme selbst ist hiervon unber&#252;hrt.
+7. Wie k&#246;nnen sich nach Kenntnis der Bundesregierung das eine Online-
+Durchsuchung anordnende Gericht und die die Ma&#223;nahme beantragende 
+Staatsanwaltschaft sowie die durchf&#252;hrenden Beh&#246;rden Gewissheit dar&#252;ber 
+verschaffen, dass wie in der StPO vorgeschrieben 
+a) soweit m&#246;glich technisch sichergestellt ist, dass Daten, die den
+Kernbereich privater Lebensgestaltung betreffen, nicht erhoben werden (&#167; 100d 
+Absatz 3 Satz 1 StPO), 
+b) technisch sichergestellt ist, dass am Zielsystem nur Ver&#228;nderungen
+vorgenommen werden, die f&#252;r die Datenerhebung unerl&#228;sslich sind (&#167; 100b 
+Absatz 4 i. V. m &#167; 100a Absatz 5 Satz 1 Nummer 2 StPO), 
+c) die vorgenommenen Ver&#228;nderungen bei Beendigung der Ma&#223;nahme,
+soweit technisch m&#246;glich, automatisch r&#252;ckg&#228;ngig gemacht werden (&#167; 100b 
+Absatz 4 i. V. m. &#167; 100a Absatz 5 Satz 1 Nummer 3 StPO), und 
+d) die Sp&#228;hsoftware (&#8222;das eingesetzte Mittel&#8220; in der Terminologie der StPO) 
+nach dem Stand der Technik gegen unbefugte Nutzung gesch&#252;tzt ist 
+(&#167; 100b i. V. m. &#167; 100a Absatz 5 Satz 2 StPO)?  
+Die zur Durchf&#252;hrung von Ma&#223;nahmen der Online-Durchsuchung eingesetzten 
+Softwareprodukte werden vor Einsatzfreigabe umfassend hinsichtlich der
+Erf&#252;llung der gesetzlichen Vorgaben &#252;berpr&#252;ft. Die Ergebnisse dieser Pr&#252;fung stehen 
+den in der Fragestellung genannten Stellen auf Anforderung zur Einsichtnahme 
+zur Verf&#252;gung. 
+8. Was bedeutet es f&#252;r die bei Ma&#223;nahme-Antrag und Ma&#223;nahme-Anordnung 
+vorzunehmenden Verh&#228;ltnism&#228;&#223;igkeitsabw&#228;gungen, wenn eine
+R&#252;ckg&#228;ngigmachung (siehe Fragen 5b und 7c) technisch nicht oder nicht vollst&#228;ndig 
+m&#246;glich ist? 
+Die abschlie&#223;ende Beurteilung der Verh&#228;ltnism&#228;&#223;igkeit einer Ma&#223;nahme obliegt 
+der anordnenden Stelle. Die beantragende oder anordnende Stelle wird die
+genannten Aspekte im Einzelfall im Rahmen der Beantragung bzw. Anordnung der 
+Ma&#223;nahme in die Abw&#228;gung einstellen. 
+9. Wenn eine von einer Privatfirma erstellte Sp&#228;hsoftware eingesetzt werden 
+soll, wie wird nach Kenntnis der Bundesregierung sichergestellt, dass die 
+eingesetzte Sp&#228;hsoftware die einzelnen Vorgaben der StPO (siehe Fragen 5 
+bis 7) einh&#228;lt? 
+Auf die Antwort zu den Fragen 5 und 7 wird verwiesen. 
+10. Liegt nach Kenntnis der Bundesregierung einer die Ma&#223;nahme
+beantragenden Staatsanwaltschaft und einem die Ma&#223;nahme anordnenden Gericht
+sowie den durchf&#252;hrenden Beh&#246;rden eine von unabh&#228;ngiger Stelle erstellte 
+Zertifizierung dar&#252;ber vor, dass die eingesetzte Sp&#228;hsoftware die einzelnen 
+Vorgaben der StPO (siehe Fragen 5 bis 7) einh&#228;lt? 
+Auf die Antwort zu den Fragen 5 und 7 wird verwiesen. Eine &#8222;von unabh&#228;ngiger 
+Stelle erstellte Zertifizierung&#8220; sieht das Gesetz nicht vor. 
+11. Welche Stelle erstellt ggf. eine Zertifizierung (Frage 10) und ist diese Stelle 
+aufgrund welcher Gestaltung unabh&#228;ngig? 
+Auf die Antwort zu Frage 10 wird verwiesen.
+12. Bedeutet die Antwort der Bundesregierung zu den Fragen 30 bis 32 der
+Kleinen Anfrage der Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN auf
+Bundestagsdrucksache 19/1434 (S. 11 und 12), dass die Bundesbeauftragte f&#252;r den
+Datenschutz und die Informationsfreiheit die Quellcodes der Sp&#228;hsoftware  
+a) zug&#228;nglich waren oder sind, 
+b) nicht zug&#228;nglich waren oder sind,  
+und im Falle b), warum nicht?  
+Die Bundesbeauftragte f&#252;r den Datenschutz und die Informationsfreiheit (BfDI) 
+hat im Juni 2016 einen Kontrollbesuch hinsichtlich der beim Bundeskriminalamt 
+entwickelten Software zur Durchf&#252;hrung von Quellen-TK&#220; durchgef&#252;hrt. Eine 
+Anfrage zur Einsichtnahme in den Quellcode der beim Bundeskriminalamt
+entwickelten Software zur Durchf&#252;hrung von Quellen-TK&#220; wurde durch die BfDI 
+nicht gestellt. Im &#220;brigen wird auf die Antwort der Bundesregierung zu den
+Fragen 30 bis 32 der Kleinen Anfrage der Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN auf 
+Bundestagsdrucksache 19/1434 vom 28. M&#228;rz 2018 verwiesen. 
+13. Ist die in der zu Frage 12 bezeichneten Antwort der Bundesregierung
+mehrfach erw&#228;hnte externe &#220;berpr&#252;fung von Sp&#228;hsoftware auf
+Gesetzeskonformit&#228;t &#252;berhaupt geeignet und in der Lage, die Einhaltung der einzelnen
+Vorgaben der StPO (siehe Fragen 5 bis 7) festzustellen, oder handelt es sich um 
+eine &#220;berpr&#252;fung auf lediglich &#8211; wie in der vorgenannten Antwort
+formuliert &#8211; &#8222;Einhaltung der geforderten Rahmenbedingungen&#8220; und damit um eine 
+allgemeine und nicht im Hinblick auf die Vorgaben der StPO spezifische 
+&#220;berpr&#252;fung? 
+Auf die Antworten zu den Fragen 5 bis 7 wird verwiesen. Die von den
+Fragestellern angesprochenen &#8222;Rahmenbedingungen&#8220; umfassen vollst&#228;ndig die
+Anforderungen der Strafprozessordnung (StPO). 
+14. Ist nach Kenntnis der Bundesregierung einer die Ma&#223;nahme beantragenden 
+Staatsanwaltschaft und einem die Ma&#223;nahme anordnenden Gericht dabei 
+eine eigene Pr&#252;fung der Sp&#228;hsoftware m&#246;glich und ggf. anhand welcher
+Informationen?  
+Oder m&#252;ssen Staatsanwaltschaft und Gericht sich ausschlie&#223;lich auf die
+Angaben der die Ma&#223;nahme durchf&#252;hrenden Beh&#246;rden verlassen? 
+Der Umfang der Pr&#252;fung der Anregung oder des Antrags einer strafprozessualen 
+Ma&#223;nahme wird von der Staatsanwaltschaft bzw. dem Gericht im Einzelfall
+festgelegt, wobei die notwendigen &#8211; auch technischen &#8211; Informationen f&#252;r die
+Beurteilung der Recht- und Verh&#228;ltnism&#228;&#223;igkeit der Ma&#223;nahme einbezogen werden.  
+Vor dem Hintergrund der eindeutigen Ma&#223;gabe des Artikels 20 Absatz 3 zweiter 
+Halbsatz des Grundgesetzes k&#246;nnen sich Staatsanwaltschaft und Gericht dabei 
+aus Sicht der Bundesregierung auch auf die Angaben der die Ma&#223;nahme
+durchf&#252;hrenden Beh&#246;rde verlassen. 
+15. Wird nach Kenntnis der Bundesregierung der die Ma&#223;nahme beantragenden 
+Staatsanwaltschaft und dem die Ma&#223;nahme anordnenden Gericht, ggf. auf 
+Verlangen, der Quellcode der Sp&#228;hsoftware zur Verf&#252;gung gestellt, und 
+wenn nein, warum nicht? 
+Auf die Antwort zu Frage 14 wird verwiesen.
+16. Wenn zum Aufspielen der Sp&#228;hsoftware &#8211; F&#228;lle kriminalistischer List
+ausgenommen &#8211; bislang unbekannte Schutzl&#252;cken des Zielsystems genutzt
+werden, der Staat sich also als Hacker bet&#228;tigt, wie wirken sich nach Kenntnis 
+der Bundesregierung dann die vielfach beschriebene Gef&#228;hrdung der IT-
+Sicherheit insgesamt durch dieses Vorgehen (etwa: Pohlmann/Riedel,
+Quellen-TK&#220; als Gefahr f&#252;r die allgemeine IT-Sicherheit, in: Deutsche
+Richterzeitung Heft 2/2018, S. 52 ff.) und die Schutzpflicht des Staates f&#252;r die IT-
+Sicherheit auf die Rechtm&#228;&#223;igkeits- und Verh&#228;ltnism&#228;&#223;igkeitspr&#252;fung der 
+die Ma&#223;nahme beantragenden Staatsanwaltschaft bzw. des anordnenden
+Gerichts aus?  
+Rechtfertigt zum Beispiel die Verfolgung eines Bandendiebstahls als
+m&#246;glicher Anlasstat einer Online-TK&#220; oder Online-Durchsuchung (&#167;&#167; 100a
+Absatz 2 Nummer 1j, 100b Absatz 2 Nummer 1h StPO) eine Gef&#228;hrdung der 
+IT-Sicherheit insgesamt?  
+Die Pr&#252;fung der Verh&#228;ltnism&#228;&#223;igkeit umfasst alle Umst&#228;nde der jeweiligen
+Ma&#223;nahme und des jeweiligen Einzelfalls, also auch die Art und Weise der
+Durchf&#252;hrung. Erg&#228;nzend wird auf die Antwort zu Frage 8 verwiesen. Im &#220;brigen teilt die 
+Bundesregierung nicht die Auffassung der Fragesteller, dass durch die
+Durchf&#252;hrung einer Quellen-TK&#220; die IT-Sicherheit insgesamt gef&#228;hrdet wird. 
+17. Umfasst die von der StPO geforderte gerichtliche Anordnung der Ma&#223;nahme 
+jeweils das Aufspielen der Sp&#228;hsoftware auf das Zielger&#228;t zusammen mit 
+dem Ausleiten der Daten, oder kann die Sp&#228;hsoftware zum Zeitpunkt der 
+Beantragung und/oder Anordnung der Ma&#223;nahme schon auf das Zielger&#228;t 
+aufgespielt sein und sich die Beantragung bzw. Anordnung auf das Zulassen 
+des Ausleitens beschr&#228;nken und so der Richtervorbehalt ausgeh&#246;hlt werden?  
+Wie sind die diesbez&#252;glichen Ausf&#252;hrungen in der Gesetzesbegr&#252;ndung zu 
+verstehen (Bundestagsdrucksache 18/12785, S. 51/52)? 
+In den F&#228;llen des &#167; 100a Absatz 1 Satz 3 StPO werden nur jene Inhalte und
+Umst&#228;nde der Kommunikation erfasst, die zeitlich nach der
+&#220;berwachungsanordnung gespeichert wurden und die &#8211; w&#228;ren sie nicht verschl&#252;sselt &#8211; auch im
+&#246;ffentlichen Telekommunikationsnetz h&#228;tten erhoben werden k&#246;nnen. Die
+Vorschriften zu den technischen Anforderungen (&#167; 100a Absatz 5 Satz 1 Nummer 1 
+Buchstabe b StPO) stellen sicher, dass nicht auf sonstige Inhalte des
+informationstechnischen Systems des Betroffenen zugegriffen wird und insbesondere 
+keine Kommunikationsinhalte erfasst werden, die zeitlich vor Erlass der
+&#220;berwachungsanordnung gesendet wurden.  
+Auch f&#252;r den rein theoretischen Fall, dass die Software bereits aufgespielt war, 
+&#228;ndert das aber nichts an den Voraussetzungen einer rechtm&#228;&#223;igen
+strafprozessualen Ma&#223;nahme; insbesondere d&#252;rfte auf diesem Weg nicht der Richtervorbehalt 
+umgangen werden (vgl. die Rechtsprechung des BVerfG zur zweck&#228;ndernden 
+Verwendung personenbezogener Daten nach dem Grundsatz der hypothetischen 
+Datenneuerhebung, Entscheidung vom 20. April 2016 (1 BvR 966/09)).
+18. K&#246;nnen (ggf. mit welchen Mitteln) &#8211; angesichts des Umstandes, dass sich 
+auf insbesondere mobilelektronischen Ger&#228;ten vielfachst Daten sozusagen 
+des &#8222;ganzen Lebens&#8220; der Zielpersonen und vieler anderer Personen (ggf.
+unbeteiligter Dritter) befinden &#8211;  
+a) Kernbereich der Lebensgestaltung und sonstige Daten &#252;berhaupt
+voneinander klar getrennt werden, 
+b) dieser Kernbereich bei der Online-TK&#220; und der Online-Durchsuchung 
+&#252;berhaupt gesch&#252;tzt und  
+c) mithin insgesamt die Anforderung des BVerfG insoweit erf&#252;llt werden 
+(bitte ggf. Ablauf und Sicherung genau beschreiben)? 
+F&#252;r die Ma&#223;nahmen der Quellen-TK&#220; als auch der Online-Durchsuchung
+wurden entsprechend der Rechtsprechung des BVerfG Erhebungs- und
+Verwertungsverbote gesetzlich geregelt. Beide Ma&#223;nahmen d&#252;rfen nicht durchgef&#252;hrt werden, 
+wenn tats&#228;chliche Anhaltspunkte vorliegen, dass dadurch ausschlie&#223;lich
+Erkenntnisse aus dem Bereich der privaten Lebensgestaltung erlangt werden (&#167; 100d
+Absatz 1 StPO). Dabei ist jeweils eine Subsumtion anhand der konkreten
+Einzelfallumst&#228;nde vorzunehmen.  
+Werden im Rahmen der Durchf&#252;hrung der Ma&#223;nahmen Erkenntnisse &#252;ber den 
+Kernbereich der privaten Lebensgestaltung erlangt, d&#252;rfen diese nicht verwertet 
+werden. Aufzeichnungen sind unverz&#252;glich zu l&#246;schen.  
+Bei der Online-Durchsuchung ist, soweit wie m&#246;glich, technisch sicherzustellen, 
+dass Daten aus dem Kernbereich der privaten Lebensgestaltung nicht erhoben 
+werden (&#167; 100d Absatz 3 StPO). Sind solche Informationen dennoch erlangt
+worden, sind diese unverz&#252;glich zu l&#246;schen oder von der Staatsanwaltschaft dem
+anordnenden Gericht zur Entscheidung &#252;ber die Verwertbarkeit vorzulegen, dessen 
+Entscheidung f&#252;r das weitere Verfahren bindend ist. 
+19. Inwiefern ist die u. a. im Fall der Oldschool Society angewandte
+Ermittlungsmethode, heimlich ein weiteres Smartphone zum Mith&#246;ren
+anzumelden, aus kriminalistischer Sicht (ggf. nach Einsch&#228;tzung der
+Bundesregierung) geeignet, eine Quellen-TK&#220;-Ma&#223;nahme auf dem jeweiligen Zielger&#228;t 
+zu ersetzen? 
+Auf die Vorbemerkung der Bundesregierung sowie den als Verschlusssache mit 
+dem Einstufungsgrad &#8222;VS &#8211; Nur f&#252;r den Dienstgebrauch&#8220; eingestuften
+Antwortteil wird verwiesen. 
+20. In wie vielen F&#228;llen wurde die Ermittlungsmethode in Frage 19 in den letzten 
+drei Jahren nach Kenntnis der Bundesregierung angewandt? 
+Auf die Vorbemerkung der Bundesregierung sowie den als Verschlusssache mit 
+dem Einstufungsgrad &#8222;VS &#8211; Nur f&#252;r den Dienstgebrauch&#8220; eingestuften
+Antwortteil wird verwiesen.
+21. Welche Kosten insgesamt sind seit 2015 f&#252;r die Entwicklung und den
+Ankauf von Sp&#228;hsoftware sowie den Ankauf von Sicherheitsl&#252;cken entstanden?  
+Auf die Vorbemerkung der Bundesregierung sowie den als Verschlusssache mit 
+dem Einstufungsgrad &#8222;VS &#8211; Nur f&#252;r den Dienstgebrauch&#8220; eingestuften
+Antwortteil wird verwiesen. 
+22. Ist die Kostenangabe in www.sueddeutsche.de/digital/ueberwachung-
+polizeispioniert-handynutzer-mit-trojaner-aus-1.3842439 (&#8222;In Haushaltsunterlagen 
+f&#252;r das Jahr 2017 beantragte das BKA Sachmittel im Umfang von 50
+Millionen Euro, um die &#8222;operativen IT-Systeme&#8220; zu verbessern. Der Smartphone-
+Trojaner wurde damals als &#8222;3. Produktlinie&#8220; bezeichnet. Die erste und zweite 
+Produktlinie galt Laptops und Desktop-Rechnern.&#8220;) zutreffend oder
+inwieweit unzutreffend, und welcher Betrag f&#252;r operative IT-Systeme ist f&#252;r den 
+Haushalt 2018 angemeldet und mit welchen Jahresbetr&#228;gen in die
+Finanzplanung eingestellt? 
+Eine Aufschl&#252;sselung bzw. Spezifizierung der Begrifflichkeit &#8222;[Verbesserung 
+von] operative[n] IT-Systeme[n]&#8220; i. S. d. haushalterischen Betrachtung ist dem 
+Bundeskriminalamt nicht m&#246;glich. Zu diesem Oberbegriff liegen keine
+zweckgebundenen Haushaltsplanungen vor.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Satz: Satzweiss.com Print, Web, Software GmbH, Mainzer Stra&#223;e 116, 66121 Saarbr&#252;cken, www.satzweiss.com 
+Druck: Printsystem GmbH, Schafw&#228;sche 1-3, 71296 Heimsheim, www.printsystem.de 
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de 
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/1810 -
+Einsatz von Sp&#228;hsoftware bei der Strafverfolgung (Quellen-Telekommunikations&#252;berwachung und Online-Durchsuchung)</titel>
+    <datum>2018-05-24</datum>
+  </document>
+  

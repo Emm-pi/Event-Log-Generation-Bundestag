@@ -1,0 +1,160 @@
+<document>
+    <id>234962</id>
+    <drucksachetyp>Kleine Anfrage</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>3</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/14056</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>2f0fb6829544a7aa21f9f5467fe9ff7f</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:15+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>254216</id>
+      <titel>Sachstandsabfrage zur Migration der PC-Systeme in den Bundesbeh&#246;rden zu Windows 10 bzw. zur IT-Konsolidierung</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>AfD</bezeichnung>
+      <titel>Fraktion der AfD</titel>
+    </urheber>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/140/1914056.pdf</pdf_url>
+      <id>234962</id>
+      <dokumentnummer>19/14056</dokumentnummer>
+      <datum>2019-10-16</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Kleine Anfrage</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Fraktion der AfD</urheber>
+    </fundstelle>
+    <autoren_anzeige>
+      <id>7625</id>
+      <titel>Joana Cotar, MdB, AfD</titel>
+      <autor_titel>Joana Cotar</autor_titel>
+    </autoren_anzeige>
+    <autoren_anzeige>
+      <id>2123</id>
+      <titel>Uwe Schulz, MdB, AfD</titel>
+      <autor_titel>Uwe Schulz</autor_titel>
+    </autoren_anzeige>
+    <text>[Kleine Anfrage
+der Abgeordneten Joana Cotar, Uwe Schulz, Dr. Michael Espendiller
+und der Fraktion der AfD
+Sachstandsabfrage zur Migration der PC-Systeme in den Bundesbeh&#246;rden zu 
+Windows 10 bzw. zur IT-Konsolidierung
+Das Projekt IT-Konsolidierung des Bundes unter der Leitung des
+Bundesministeriums des Innern, f&#252;r Bau und Heimat (BMI) wurde mit Kabinettsbeschluss 
+als Grobkonzept zur IT-Konsolidierung Bund 2015 gestartet. Die IT des
+Bundes wird laut BMI bis zum Jahr 2025 geb&#252;ndelt und standardisiert, damit die 
+Bundesverwaltung wirtschaftlicher und sicherer agieren kann ( w w w .
+bmi.bund.de/DE/themen/it-und-digitalpolitik/it-des-bundes/it-konsolidie
+rung/it-konsolidierung-node.html).
+Laut den Vorgaben des Grobkonzepts zur IT-Konsolidierung Bund des BMI 
+muss die IT-Leistungserbringung der unmittelbaren Bundesverwaltung weiter 
+geb&#252;ndelt werden. Die Umsetzung erfolgt schrittweise und gesteuert durch 
+Evaluierungsma&#223;nahmen. Vor allem die Konzentration des IT-Betriebs in
+wenigen, gemeinsamen Rechenzentren &#8211; unterst&#252;tzt von dezentralen Vor-Ort-
+Serviceeinheiten &#8211; ist dabei anzustreben. Durch die B&#252;ndelung der IT des
+Bundes ergeben sich m&#246;gliche Einsparpotenziale, welche insbesondere dazu dienen 
+werden, die durch steigende Komplexit&#228;t und wachsende Anforderungen in der 
+Informationstechnik insgesamt zu erwartenden erheblichen Kostensteigerungen 
+abzumildern (www.cio.bund.de/SharedDocs/Publikationen/DE/Innovative-
+Vorhaben/it_konsolidierung_bund_grobkonzept.pdf?__blob=publicationFile).
+Mit der IT-Konsolidierung des Bundes muss auch die fl&#228;chendeckende
+Migration der PC-Systeme von Windows 7 zu Windows 10 umgesetzt werden. Mit der 
+Umstellung von Windows 7 auf Windows 10 ergibt sich f&#252;r die
+Bundesverwaltung die Notwendigkeit, die Kompatibilit&#228;t ihrer Anwendungen mit dem neuen 
+Betriebssystem sicherzustellen. Dieser Umstand wurde auch bei der Konferenz 
+der IT-Beauftragten der Ressorts festgestellt. Mit Beschluss Nr. 2019/1 vom 
+14. Februar 2019 wurde der Kompatibilit&#228;tsleitfaden mit seinen Ausf&#252;hrungen 
+empfohlen (www.cio.bund.de/SharedDocs/Publikationen/DE/Bundesbeauftrag
+ter-fuer-Informationstechnik/Konferenz_der_IT-Beauftragten_der_Ressorts_Be
+schluesse/2019_01_Beschluss_Konferenz_IT-Beauftragte.pdf;jsessio
+nid=76AA6148B0051656B978C8BA23685A5A.1_cid340?__blob=publication
+File).
+Laut Medienbericht soll es ab Mitte Januar 2020 keine Sicherheitsupdates und 
+keinerlei technische Unterst&#252;tzung mehr f&#252;r Windows 7 von Seiten des
+Betriebssystemhersteller Microsoft geben (www.zdf.de/nachrichten/heute/
+endevon-windows-7-riskanter-behoerden-umstieg-auf-windows-10-100.html). In 
+diesem Zusammenhang weist der Beauftragte der Bundesregierung f&#252;r
+Informationstechnik drauf hin, dass der Windows 7 Support Mitte Januar 2020 en-
+Deutscher Bundestag Drucksache 19/14056
+19. Wahlperiode 16.10.2019
+det. Bis dahin m&#252;ssen alle betroffenen Clients auf ein neues Betriebssystem 
+migriert werden. Idealerweise erfolgt hierbei die Migration direkt auf den 
+Bundesclient. Der Migrationsleitfaden enth&#228;lt Vorgaben, damit die Migration in 
+Eigenregie m&#246;glichst nah am Bundesclient erfolgt. (www.cio.bund.de/Shared
+Docs/Publikationen/DE/Bundesbeauftragter-fuer-Informationstechnik/
+IT_Rat_Beschluesse/beschluss_2017_02.pdf?__blob=publicationFile).
+Der europ&#228;ische Datenschutzbeauftragte pr&#252;ft in diesem Zusammenhang, ob 
+die Lizenzvertr&#228;ge von Microsoft f&#252;r die Software den Vorschriften der
+Datenschutzgrundverordnung gen&#252;gen (www.zdf.de/nachrichten/heute/ende-
+vonwindows-7-riskanter-behoerden-umstieg-auf-windows-10-100.html). Aufgrund 
+dieses Umstandes wird sich nach Ansicht der Fragesteller die Umstellung von 
+Windows 7 auf Windows 10 in der IT der Bundesverwaltung auf unbestimmte 
+Zeit verz&#246;gern. Der Betriebssystemhersteller Microsoft hat im September 2018 
+zwar eine &#8222;Support Verl&#228;ngerung&#8220; bis Anfang 2023 f&#252;r Windows 7 bekannt
+gegeben (www.microsoft.com/en-us/microsoft-365/blog/2018/09/06/
+helpingcustomers-shift-to-a-modern-desktop/), die Anwender m&#252;ssen f&#252;r technische 
+Unterst&#252;tzung und Softwareupdates im Besitz einer Volumenlizenz sein. Der 
+Preis f&#252;r eine Support-Verl&#228;ngerung von Windows 7 berechnet sich demnach 
+pro Ger&#228;t und soll jedes Jahr steigen. Sie beginnen bei 25 Dollar pro Ger&#228;t f&#252;r 
+Windows 7 Enterprise im ersten Jahr. Im zweiten und dritten Jahr verdoppeln 
+sich die Preise jeweils auf 50 beziehungsweise 100 Dollar. Extended Security 
+Updates f&#252;r Windows 7 Pro sind doppelt so teuer wie f&#252;r Windows 7
+Enterprise. Bei nicht fristgerechter Umstellung aller Systeme in den Bundesbeh&#246;rden 
+sind nach Ansicht der Fragesteller somit hohe zus&#228;tzliche Supportkosten zu
+erwarten (www.zdnet.de/88353329/microsoft-nennt-preise-fuer-support-verlaen
+gerung-von-windows-7/).
+Wir fragen die Bundesregierung:
+&#8199;1. Wie viele Systeme sind nach Kenntnis der Bundesregierung bereits zu 
+Windows 10 in den Bundesbeh&#246;rden migriert (bitte nach PC-System
+Windows Professional und Windows Enterprise mit Stand 1. September 2019 
+auflisten)?
+&#8199;2. Wie viele Systeme laufen noch unter Windows 7 (bitte nach PC-System 
+Windows Professional und Windows Enterprise mit Stand 1.
+September 2019 auflisten)?
+&#8199;3. Wird die Bundesregierung im Falle, dass nicht alle PC-Systeme des
+Bundes zum 14. Januar 2020 unter Windows 10 laufen, einen Extended-
+Security-Support-Vertrag mit Microsoft-Partnern abschlie&#223;en?
+Wenn nein, warum nicht?
+&#8199;4. Wie viele Bundesbeh&#246;rden sind bereits seitdem am 20. Mai 2015 vom 
+Bundeskabinett beschlossenen Grobkonzept zur IT-Konsolidierung Bund 
+im Bereich Betriebskonsolidierung bzw. Dienstekonsolidierung vollst&#228;ndig 
+an die zentralen IT-Dienstleister angeschlossen?
+&#8199;5. Wie sch&#228;tzt die Projektorganisation IT-Konsolidierung des Bundes den 
+Stand des Projektes ein, und welche Erkenntnisse konnten bisher
+gewonnen werden?
+&#8199;6. Werden die Termine zur Betriebskonsolidierung (B&#252;ndelung des IT-
+Betriebs der unmittelbaren Bundesverwaltung) bis Ende 2023 bzw.
+Dienstekonsolidierung bis Ende 2025 eingehalten?
+&#8199;7. Wie hoch waren die bisher eingesetzten Finanzmittel f&#252;r das Projekt IT-
+Konsolidierung des Bundes seit 2015, und unter welchen Titelgruppen des 
+Bundeshaushalts wurden diese jeweils festgeschrieben?
+&#8199;8. Wie hoch sind die geplanten Finanzmittel f&#252;r das Projekt IT-
+Konsolidierung des Bundes bis Ende 2023 bzw. 2025 (bitte nach Jahren und geplanten 
+Finanzmitteln auflisten)?
+&#8199;9. Wurden im Zusammenhang mit dem Projekt IT-Konsolidierung des
+Bundes externe Berater und Dienstleister in Anspruch genommen, und wenn ja, 
+mit wie vielen externen Beratern und Dienstleistern und in welchem
+Umfang (bitte nach Jahren und finanziellen Umfang auflisten)?
+10. Welche Schlussfolgerungen zieht die Bundesregierung aus der Pr&#252;fung der 
+Microsoft Lizenzvertr&#228;ge durch den europ&#228;ischen Datenschutzbeauftragten 
+zu der Frage, ob die Software den Vorschriften der
+Datenschutzgrundverordnung entspricht?
+11. Kann die Bundesregierung best&#228;tigen, dass keinerlei sicherheitsrelevante 
+Daten durch die Umstellung von Windows 7 auf Windows 10 im Zuge des 
+Projekts IT-Konsultierung des Bundes an Microsoft gesendet werden, und 
+wenn ja, wie wird dies sichergestellt?
+Berlin, den 13. September 2019
+Dr. Alice Weidel, Dr. Alexander Gauland und Fraktion
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>Sachstandsabfrage zur Migration der PC-Systeme in den Bundesbeh&#246;rden zu Windows 10 bzw. zur IT-Konsolidierung</titel>
+    <datum>2019-10-16</datum>
+  </document>
+  

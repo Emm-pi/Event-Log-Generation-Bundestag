@@ -1,0 +1,335 @@
+<document>
+    <id>227948</id>
+    <drucksachetyp>Beschlussempfehlung und Bericht</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>6</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/9078</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>b3e632a85d5b1c29622d42aa0c10d8e3</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:15+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>243003</id>
+      <titel>Gesetz zur Einf&#252;hrung einer Karte f&#252;r Unionsb&#252;rger und Angeh&#246;rige des Europ&#228;ischen Wirtschaftsraums mit Funktion zum elektronischen Identit&#228;tsnachweis sowie zur &#196;nderung des Personalausweisgesetzes und weiterer Vorschriften</titel>
+      <vorgangstyp>Gesetzgebung</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>InnenA</bezeichnung>
+      <titel>Ausschuss f&#252;r Inneres und Heimat</titel>
+    </urheber>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/090/1909078.pdf</pdf_url>
+      <id>227948</id>
+      <dokumentnummer>19/9078</dokumentnummer>
+      <datum>2019-04-05</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Beschlussempfehlung und Bericht</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Ausschuss f&#252;r Inneres und Heimat</urheber>
+    </fundstelle>
+    <autoren_anzeige>
+      <id>1547</id>
+      <titel>Saskia Esken, MdB, SPD</titel>
+      <autor_titel>Saskia Esken, Berichterstattung</autor_titel>
+    </autoren_anzeige>
+    <autoren_anzeige>
+      <id>1062</id>
+      <titel>Manuel H&#246;ferlin, MdB, FDP</titel>
+      <autor_titel>Manuel H&#246;ferlin, Berichterstattung</autor_titel>
+    </autoren_anzeige>
+    <autoren_anzeige>
+      <id>16</id>
+      <titel>Ulla Jelpke, MdB, DIE LINKE</titel>
+      <autor_titel>Ulla Jelpke, Berichterstattung</autor_titel>
+    </autoren_anzeige>
+    <autoren_anzeige>
+      <id>1191</id>
+      <titel>Dr. Konstantin von Notz, MdB, B&#220;NDNIS 90/DIE GR&#220;NEN</titel>
+      <autor_titel>Konstantin von Notz, Berichterstattung</autor_titel>
+    </autoren_anzeige>
+    <text>[Deutscher Bundestag Drucksache 19/9078
+19. Wahlperiode 05.04.2019
+Beschlussempfehlung und Bericht 
+des Ausschusses f&#252;r Inneres und Heimat (4. Ausschuss)  
+zu dem Gesetzentwurf der Bundesregierung 
+&#8211; Drucksache 19/8038 &#8211; 
+Entwurf eines Gesetzes zur Einf&#252;hrung einer Karte f&#252;r Unionsb&#252;rger und  
+Angeh&#246;rige des Europ&#228;ischen Wirtschaftsraums mit Funktion zum  
+elektronischen Identit&#228;tsnachweis sowie zur &#196;nderung des  
+Personalausweisgesetzes und weiterer Vorschriften 
+A. Problem 
+Nach dem Koalitionsvertrag zwischen CDU, CSU und SPD wird der
+elektronische Personalausweis zu einem universellen, sicheren und mobil einsetzbaren 
+Identifizierungsmedium. Weitere private und &#246;ffentliche Einsatzbereiche sollen 
+erschlossen werden (Zeile 2035 ff. des Koalitionsvertrages). Allgemein sollen 
+einfache und sichere L&#246;sungen f&#252;r die elektronische Identifizierung und die
+Endezu-Ende-Verschl&#252;sselung f&#252;r jedermann verf&#252;gbar werden (Zeile 1979 ff. des
+Koalitionsvertrages). 
+Diesen Zielen dient der vorliegende Gesetzentwurf. Bereits jetzt sind der deutsche 
+Personalausweis und der elektronische Aufenthaltstitel (eAT) mit einer Funktion 
+zum elektronischen Identit&#228;tsnachweis ausgestattet. Die so genannte eID-
+Funktion (synonym: Online-Ausweisfunktion) erm&#246;glicht dem Karteninhaber, seine 
+Identit&#228;t gegen&#252;ber Online-Diensten einfach und sicher nachzuweisen. Dies
+geschieht, indem der Karteninhaber seinen Ausweis oder seinen eAT auf ein
+Leseger&#228;t, z. B. ein Smartphone mit der F&#228;higkeit zur Nahfeldkommunikation (Near-
+Field-Communication &#8211; NFC) mit dem Android-Betriebssystem, auflegt und auf 
+Aufforderung seine pers&#246;nliche Geheimnummer (PIN) eingibt. Durch die
+Kombination der beiden Faktoren Besitz (an der Karte) und Wissen (der PIN) wird ein 
+sehr hohes Sicherheitsniveau erreicht, &#228;hnlich wie bei einer Girocard (fr&#252;her: EC-
+Karte). 
+Die eID-Funktion ist bislang nicht f&#252;r jedermann zug&#228;nglich. Der deutsche
+Personalausweis wird nur an Deutsche ausgegeben; einen elektronischen
+Aufenthaltstitel bekommt nur, wer als Ausl&#228;nder dem Aufenthaltsgesetz unterf&#228;llt und 
+ein Aufenthaltsrecht hat. Insbesondere Unionsb&#252;rger haben somit keinen Zugang 
+zur Online-Ausweisfunktion. Au&#223;erdem ist diese auch f&#252;r deutsche
+Staatsangeh&#246;rige, die im Ausland leben, in einem wesentlichen Punkt nicht zug&#228;nglich.
+Denn nach gegenw&#228;rtiger Rechtslage wird eine Auslandsadresse nicht in den
+Personalausweis aufgenommen. Beiden Problemen hilft der vorliegende
+Gesetzentwurf ab. 
+Daneben enth&#228;lt der Gesetzentwurf eine Reihe von Neuregelungen mit
+unterschiedlicher Zielrichtung, beispielsweise zur Anpassung des Pass- und
+Personalausweisgesetzes an die Datenschutz-Grundverordnung und zur Erm&#246;glichung der 
+Weitergabe von Passkopien bei der Beantragung von Visa. 
+B. L&#246;sung 
+Um die eID-Funktion einem gr&#246;&#223;eren Personenkreis zug&#228;nglich zu machen, wird 
+eine eID-Karte auf freiwilliger Basis eingef&#252;hrt. Sie kann von Unionsb&#252;rgern und 
+Staatsangeh&#246;rigen anderer Vertragsstaaten des Europ&#228;ischen Wirtschaftsraums 
+beantragt werden. Die eID-Karte ist kein Ausweispapier im klassischen Sinne, 
+sondern eine einfache Chipkarte, auf der die wichtigsten Identifizierungsdaten 
+(also insbesondere Name, Geburtsdatum und -ort, Adresse) abgespeichert sind. 
+Damit erhalten die genannten Personenkreise die M&#246;glichkeit, mittels der eID-
+Funktion deutsche E-Government-Dienstleistungen auf h&#246;chstem
+Vertrauensniveau abzuwickeln. 
+Ferner sieht der Gesetzentwurf vor, dass im Normalfall auch eine
+Auslandsadresse in den Personalausweis aufzunehmen ist. Gerade im Ausland
+wohnhafte deutsche Staatsangeh&#246;rige haben ein berechtigtes Interesse daran, deutsche 
+Verwaltungsdienstleistungen &#252;ber das Internet in Anspruch zu nehmen, um so 
+Zeit und lange Reisen zu sparen. Nach dem Gesetzentwurf werden sie in die Lage 
+versetzt, ihre Adresse &#252;ber die Online-Ausweisfunktion nachzuweisen. 
+Daneben enth&#228;lt der Gesetzentwurf &#196;nderungen und Korrekturen mit
+unterschiedlicher Zielrichtung. An dieser Stelle seien nur die folgenden Punkte
+genannt: 
+&#61485; Die Bu&#223;geldvorschriften des Personalausweis- und des Passgesetzes werden 
+an die Vorgaben der Datenschutz-Grundverordnung angepasst. 
+&#61485; Ferner wird die Regelung zum Kopieren und Einscannen von Reisep&#228;ssen 
+dahingehend erg&#228;nzt, dass die Weitergabe einer (auch elektronischen) 
+Passkopie zur Beantragung von Visa erlaubt wird. 
+&#61485; Der Ausschuss f&#252;r Inneres und Heimat des Deutschen Bundestages hat
+beschlossen, den Gesetzentwurf im Wesentlichen um folgende Ma&#223;gaben zu 
+erg&#228;nzen:  
+&#61485; M&#246;glichkeit der Vornahme von Verfahrensverhandlungen nach dem eID-
+Karte-Gesetz f&#252;r Jugendliche ab 16 Jahren. 
+&#61485; Regelung zur Bereitstellung von Informationsmaterial durch die eID-Karte-
+Beh&#246;rden. 
+Annahme des Gesetzentwurfs in ge&#228;nderter Fassung mit den Stimmen der 
+Fraktionen der CDU/CSU und SPD gegen die Stimmen der Fraktionen AfD, 
+FDP und DIE LINKE. bei Stimmenthaltung der Fraktion B&#220;NDNIS 90/DIE 
+GR&#220;NEN. 
+C. Alternativen 
+Keine.
+D. Haushaltsausgaben ohne Erf&#252;llungsaufwand 
+Zus&#228;tzliche Haushaltsausgaben sind infolge der Durchf&#252;hrung des Gesetzes f&#252;r 
+Bund, L&#228;nder und Gemeinden nicht zu erwarten. 
+E. Erf&#252;llungsaufwand 
+E.1 Erf&#252;llungsaufwand f&#252;r B&#252;rgerinnen und B&#252;rger 
+F&#252;r B&#252;rgerinnen und B&#252;rger entsteht f&#252;r die Jahre von 2019 bis 2022 laufender 
+Erf&#252;llungsaufwand von 3.333 Stunden. Ab Ende 2022 steigt dieser auf 78.333 
+Stunden j&#228;hrlich. 
+E.2 Erf&#252;llungsaufwand f&#252;r die Wirtschaft 
+Es f&#228;llt kein zus&#228;tzlicher Erf&#252;llungsaufwand f&#252;r die Wirtschaft an. F&#252;r die
+Wirtschaft werden keine Informationspflichten eingef&#252;hrt, ge&#228;ndert oder abgeschafft. 
+E.3 Erf&#252;llungsaufwand der Verwaltung 
+F&#252;r den Bund entsteht einmaliger Erf&#252;llungsaufwand in H&#246;he von 771.000 Euro 
+f&#252;r die Entwicklung und Produktion der eID-Karte. Den L&#228;ndern entsteht
+einmaliger Erf&#252;llungsaufwand in H&#246;he von 500.000 Euro durch die Entwicklung neuer 
+bzw. die Erg&#228;nzung bestehender IT-Fachverfahren. 
+Dem Bund entsteht durch eine Stelle des h&#246;heren Dienstes im Bundesamt f&#252;r
+Sicherheit in der Informationstechnik (BSI) laufender Erf&#252;llungsaufwand von 
+104.640 Euro. Der Mehrbedarf beim BSI soll finanziell und stellenm&#228;&#223;ig im
+Einzelplan des Bundesministeriums des Innern, f&#252;r Bau und Heimat ausgeglichen 
+werden. 
+Den L&#228;ndern entsteht f&#252;r die Jahre von 2019 bis 2022 laufender
+Erf&#252;llungsaufwand in H&#246;he von rund 2 Mio. Euro. Ab Ende 2022 steigt der laufende
+Erf&#252;llungsaufwand auf rund 4,4 Mio. Euro. Die Kosten entstehen durch Bearbeitung 
+der Antr&#228;ge auf eID-Karten sowie Pflege der IT-Infrastruktur. 
+F. Weitere Kosten 
+Auswirkungen auf Einzelpreise, das Preisniveau, insbesondere auf das
+Verbraucherpreisniveau, sind nicht zu erwarten.
+Beschlussempfehlung 
+Der Bundestag wolle beschlie&#223;en, 
+den Gesetzentwurf auf Drucksache 19/8038 mit folgenden Ma&#223;gaben, im &#220;brigen 
+unver&#228;ndert anzunehmen: 
+Artikel 1 wird wie folgt ge&#228;ndert: 
+1. Dem &#167; 8 Absatz 1 wird folgender Satz angef&#252;gt: 
+&#8222;Jugendliche, die mindestens 16 Jahre alt sind, d&#252;rfen
+Verfahrenshandlungen nach diesem Gesetz vornehmen.&#8220; 
+2. &#167; 10 Absatz 2 Satz 2 wird durch die folgenden S&#228;tze ersetzt: 
+&#8222;Sie hat Informationsmaterial bereitzustellen, in dem auch auf die
+M&#246;glichkeit einer Sperrung hingewiesen wird. Die antragstellende Person ist auf das 
+vorhandene Informationsmaterial hinzuweisen.&#8220; 
+3. Die &#220;berschrift des Abschnittes 5 wird wie folgt gefasst: 
+&#8222;Abschnitt 5 
+eID-Karte-Register&#8220;. 
+4. &#167; 19 wird wie folgt ge&#228;ndert: 
+a) In der &#220;berschrift, in Absatz 1, 2 Satz 1 sowie in den Abs&#228;tzen 3 und 4 
+wird jeweils das Wort &#8222;eID-Karten-Register&#8220; durch das Wort &#8222;eID-
+Karte-Register&#8220; ersetzt. 
+b) In Absatz 2 Satz 2 wird das Wort &#8222;eID-Karten-Beh&#246;rden&#8220; durch das 
+Wort &#8222;eID-Karte-Beh&#246;rden&#8220; ersetzt. 
+Berlin, den 3. April 2019 
+Der Ausschuss f&#252;r Inneres und Heimat 
+Andrea Lindholz 
+Vorsitzende 
+Josef Oster 
+Berichterstatter 
+Saskia Esken 
+Berichterstatterin 
+Dr. Christian Wirth 
+Berichterstatter 
+Manuel H&#246;ferlin 
+Berichterstatter 
+Ulla Jelpke 
+Berichterstatterin 
+Dr. Konstantin von Notz 
+Berichterstatter
+Bericht der Abgeordneten Josef Oster, Saskia Esken, Dr. Christian Wirth, Manuel 
+H&#246;ferlin, Ulla Jelpke und Dr. Konstantin von Notz 
+I. &#220;berweisung 
+Der Gesetzentwurf auf Drucksache 19/8038 wurde in der 86. Sitzung des Deutschen Bundestages am 14. M&#228;rz 
+2019 an den Ausschuss f&#252;r Inneres und Heimat federf&#252;hrend sowie an den Ausschuss f&#252;r Recht und
+Verbraucherschutz, den Ausschuss f&#252;r die Angelegenheiten der Europ&#228;ischen Union und den Ausschuss Digitale Agenda zur 
+Mitberatung &#252;berwiesen. Der Parlamentarische Beirat f&#252;r nachhaltige Entwicklung beteiligte sich gutachtlich 
+(Ausschussdrucksache 19(4)221). 
+II. Stellungnahmen der mitberatenden Aussch&#252;sse 
+Der Ausschuss f&#252;r Recht und Verbraucherschutz hat in seiner 43. Sitzung am 3. April 2019 mit den Stimmen 
+der Fraktionen der CDU/CSU und SPD gegen die Stimmen der Fraktionen AfD und DIE LINKE. bei
+Stimmenthaltung der Fraktionen FDP und B&#220;NDNIS 90/DIE GR&#220;NEN die Annahme des Gesetzentwurfs auf Drucksache 
+19/8038 empfohlen. 
+Zuvor wurde der &#196;nderungsantrag der Fraktionen der CDU/CSU und SPD auf Ausschussdrucksache 19(4)247 
+mit den Stimmen der Fraktionen der CDU/CSU und SPD gegen die Stimmen der Fraktion der AfD bei
+Stimmenthaltung der Fraktionen FDP, DIE LINKE. und B&#220;NDNIS 90/DIE GR&#220;NEN zur Annahme empfohlen. 
+Der Entschlie&#223;ungsantrag der Fraktionen der CDU/CSU und SPD auf Ausschussdrucksache 19(4)248 wurde mit 
+den Stimmen der Fraktionen der CDU/CSU und SPD gegen die Stimmen der Fraktion DIE LINKE. bei
+Stimmenthaltung der Fraktionen AfD, FDP und B&#220;NDNIS 90/DIE GR&#220;NEN zur Annahme empfohlen. 
+Der Ausschuss f&#252;r die Angelegenheiten der Europ&#228;ischen Union hat in seiner 32. Sitzung am 3. April 2019 
+mit den Stimmen der Fraktionen der CDU/CSU und SPD gegen die Stimmen der Fraktionen AfD, FDP und DIE 
+LINKE. bei Stimmenthaltung der Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN die Annahme des Gesetzentwurfs auf 
+Drucksache 19/8038 empfohlen. 
+Zuvor wurde der &#196;nderungsantrag der Fraktionen der CDU/CSU und SPD auf Ausschussdrucksache 19(4)247 
+mit den Stimmen der Fraktionen der CDU/CSU und SPD gegen die Stimmen der Fraktionen der AfD und FDP 
+bei Stimmenthaltung der Fraktionen DIE LINKE. und B&#220;NDNIS 90/DIE GR&#220;NEN zur Annahme empfohlen. 
+Der Entschlie&#223;ungsantrag der Fraktionen der CDU/CSU und SPD auf Ausschussdrucksache 19(4)248 wurde mit 
+den Stimmen der Fraktionen der CDU/CSU und SPD gegen die Stimmen der Fraktionen AfD, FDP und DIE 
+LINKE. bei Stimmenthaltung der Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN zur Annahme empfohlen. 
+Der Ausschuss Digitale Agenda hat in seiner 30. Sitzung am 3. April 2019 mit den Stimmen der Fraktionen der 
+CDU/CSU und SPD gegen die Stimmen der Fraktionen der AfD und FDP bei Abwesenheit der Fraktion DIE 
+LINKE. und Stimmenthaltung der Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN die Annahme des Gesetzentwurfs auf 
+Drucksache 19/8038 empfohlen. 
+Zuvor wurde der &#196;nderungsantrag der Fraktionen der CDU/CSU und SPD auf Ausschussdrucksache 19(4)247 
+mit den Stimmen der Fraktionen der CDU/CSU und SPD gegen die Stimmen der Fraktionen der AfD und FDP 
+bei Abwesenheit der Fraktion DIE LINKE. und Stimmenthaltung der Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN zur 
+Annahme empfohlen. 
+Der Entschlie&#223;ungsantrag der Fraktionen der CDU/CSU und SPD auf Ausschussdrucksache 19(4)248 wurde mit 
+den Stimmen der Fraktionen der CDU/CSU und SPD gegen die Stimmen der Fraktionen der AfD und FDP bei 
+Abwesenheit der Fraktion DIE LINKE. und Stimmenthaltung der Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN zur 
+Annahme empfohlen.
+III. Beratungsverlauf und Beratungsergebnisse im federf&#252;hrenden Ausschuss 
+Der Ausschuss f&#252;r Inneres und Heimat hat den Gesetzentwurf in seiner 47. Sitzung am 3. April 2019
+abschlie&#223;end beraten und empfiehlt die Annahme des Gesetzentwurfs auf Drucksache 19/8038 mit den Stimmen der 
+Fraktionen der CDU/CSU und SPD gegen die Stimmen der Fraktionen AfD, FDP und DIE LINKE bei
+Stimmenthaltung der Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN in der aus der Beschlussempfehlung ersichtlichen Fassung.  
+Die &#196;nderungen entsprechen dem &#196;nderungsantrag auf Ausschussdrucksache 19(4)247, der zuvor von den 
+Fraktionen der CDU/CSU und SPD in den Ausschuss f&#252;r Inneres und Heimat eingebracht und mit den Stimmen 
+der Fraktionen der CDU/CSU und SPD gegen die Stimmen der Fraktionen AfD, FDP und DIE LINKE. bei 
+Stimmenthaltung der Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN angenommen wurde. 
+Dar&#252;ber hinaus hat der Ausschuss f&#252;r Inneres und Heimat folgenden Entschlie&#223;ungsantrag der
+Koalitionsfraktionen auf Ausschussdrucksache 19(4)248 mit den Stimmen der Fraktionen der CDU/CSU und SPD gegen die 
+Stimmen der Fraktionen AfD, FDP und DIE LINKE. bei Stimmenthaltung der Fraktion B&#220;NDNIS 90/DIE GR&#220;-
+NEN beschlossen: 
+I. Der Ausschuss f&#252;r Inneres und Heimat des Deutschen Bundestages stellt fest: 
+Digitalisierung betrifft alle Lebensbereiche. Sie bietet Chancen und birgt Risiken. Der Anspruch, den B&#252;rgerinnen 
+und B&#252;rger zu Recht an den Staat und an die Regierung haben, ist, dass der digitale Wandel aktiv gestaltet wird. 
+F&#252;r den gro&#223;en Bereich des E-Governments wird dies mit dem Online-Zugangsgesetzes angegangen, in dem 575 
+Dienstleistungen der &#246;ffentlichen Hand &#8211; Bund, L&#228;nder, Kommunen &#8211; bis 2022 digitalisiert sein sollen. 
+Eine wichtige Komponente f&#252;r den Zugang zu digitalen Dienstleistungen ist dabei die Online-Identifizierung. Sie 
+kann nicht den Internetkonzernen oder der Privatwirtschaft &#252;berlassen werden, da die personenbezogenen Daten 
+der B&#252;rgerinnen und B&#252;rger bestm&#246;glich zu sch&#252;tzen sind. Es ist daher eine Kernaufgabe des Staates, das Thema 
+der &#8222;Identifizierung im Internet&#8220; als Aufgabe der Daseinsvorsorge in Angriff zu nehmen. 
+Mit dem Gesetzentwurf kommt die Bundesregierung der Vorgabe aus dem Koalitionsvertrag nach, einfache und 
+sichere L&#246;sungen f&#252;r die elektronische Identifizierung f&#252;r jedermann verf&#252;gbar zu machen. Die erfolgreiche und 
+europaweit anerkannte L&#246;sung des deutschen Personalausweises und elektronischen Aufenthaltstitels zum
+elektronischen Identit&#228;tsnachweis (eID) wird damit auch den EU-B&#252;rgerinnen und EU-B&#252;rgern zur Verf&#252;gung gestellt. 
+Die B&#252;rgerinnen und B&#252;rger nutzen die Freiz&#252;gigkeit, welche ihnen die Europ&#228;ische Union bietet. Daher besteht 
+ein entsprechender Bedarf an Identifikationsmitteln, welche unabh&#228;ngig von der Nationalit&#228;t eingesetzt werden 
+k&#246;nnen. Die Verordnung (EU) Nr. 910/2014 &#252;ber elektronische Identifizierung soll dieses grenz&#252;berschreitend 
+sicherstellen. Sie regelt die gegenseitige Anerkennung der jeweiligen eID-L&#246;sungen, schafft jedoch keine
+Verpflichtung eine solche einzuf&#252;hren. Die eID-Karte stellt ein Identifikationsmittel nach der Verordnung auch f&#252;r 
+die EU-B&#252;rgerinnen und EU-B&#252;rger in Deutschland bereit, deren Heimatstaat keine eID bereitstellt.  
+Allerdings stellt sich die Frage, ob und wie rechtliche Vorg&#228;nge, denen besonders hohe Bedeutung zukommt und 
+die daher einer notariellen Beurkundung bed&#252;rfen, digitalisiert werden k&#246;nnen. Die sich aus diesen
+Anforderungen m&#246;glicherweise ergebenden Konsequenzen f&#252;r das einzusetzende Identifizierungsmittel sollten bereits in der 
+k&#252;nftigen technischen Umsetzung ber&#252;cksichtigt werden. Dies betrifft insbesondere den Bereich der
+Gesellschaftsgr&#252;ndungen, welcher bis 2021 auch f&#252;r digitale Verfahren ge&#246;ffnet werden soll. 
+II. Der Ausschuss f&#252;r Inneres und Heimat des Deutschen Bundestages fordert die Bundesregierung auf: 
+1. bei der Umsetzung der EU-Richtlinie zur &#196;nderung der Richtlinie (EU) 2017/1132 im Hinblick auf den Einsatz 
+digitaler Werkzeuge und Verfahren im Gesellschaftsrecht, mit deren Verabschiedung in K&#252;rze zu rechnen ist, 
+sicherzustellen, dass bei Onlineregistrierungen von Gesellschaften effektive pr&#228;ventive Kontrollen und
+zuverl&#228;ssige Identit&#228;tspr&#252;fungen vorausgesetzt werden, um die Richtigkeit der Eintragungen und den Vertrauensschutz 
+&#246;ffentlicher Register zu gew&#228;hrleisten; 
+2. hierbei eine L&#246;sung zu finden, welche mit eID-Karte, elektronischen Aufenthaltstitel und Personalausweis 
+gleicherma&#223;en zum Einsatz kommen kann und dazu in weiteren Entwicklungsstufen gegebenenfalls etwa auch 
+das Fernauslesen des auf dem Chip gespeicherten biometrischen Lichtbilds durch Notare zu erm&#246;glichen;
+3. bei der Produktion der eID-Karte bereits jetzt einen Chip einzusetzen, der eine solche Entwicklungsm&#246;glichkeit 
+nicht ausschlie&#223;t und zum Chip in Personalausweis und elektronischen Aufenthaltstitel kompatibel ist. 
+IV. Begr&#252;ndung 
+Zur Begr&#252;ndung allgemein wird auf Drucksache 19/8038 verwiesen. Die auf Grundlage des &#196;nderungsantrags 
+der Koalitionsfraktionen auf Ausschussdrucksache 19(4)247 vom Ausschuss f&#252;r Inneres und Heimat
+vorgenommenen &#196;nderungen begr&#252;nden sich wie folgt:  
+Zu Nummer 1  
+Es handelt sich um eine gesonderte Klarstellung dahingehend, dass Jugendliche, die mindestens 16 Jahre alt sind, 
+ohne ihren gesetzlichen Vertreter Verfahrenshandlungen nach dem eID-Karte-Gesetz vornehmen d&#252;rfen. Die
+Formulierung entspricht der des &#167; 9 Absatz 2 Satz 3 PAuswG.  
+Zu Nummer 2  
+Die in dem Gesetzentwurf vorgesehene Verpflichtung der eID-Karte-Beh&#246;rde, der an-tragstellenden Person die 
+&#220;bergabe von Informationsmaterial anzubieten, setzt voraus, dass dieses in Papierform vorhanden ist. Dies wirft 
+Fragen hinsichtlich der Festlegung der Gestaltung und der Kostentragung f&#252;r die Erstellung des
+Informationsmaterials auf. Da die Beantragung einer eID-Karte freiwillig erfolgt und, anders als beim Personalausweis, keine 
+Besitzpflicht besteht, erscheint es angemessen, der jeweiligen eID-Karte-Beh&#246;rde das &#8222;Wie&#8220; der Information zu 
+&#252;berlassen. Andernfalls w&#252;rde die Bereitstellung des Informationsmaterials &#252;ber das Internet (beispielsweise auf 
+der Homepage der Beh&#246;rde) von vornherein ausgeschlossen. Angesichts der angestrebten Digitalisierung der
+Verwaltung kann dies nicht gewollt sein, zumal davon ausgegangen werden kann, dass die eine eID-Karte
+beantragenden Personen &#252;ber einen Internetzugang verf&#252;gen. 
+Zu den Nummern 3 und 4 
+Die &#196;nderungen dienen der begrifflichen Vereinheitlichung im Gesetzentwurf. An s&#228;mtlichen anderen Stellen im 
+Entwurf, an denen die in Rede stehende Beh&#246;rde bezeichnet wird, wird sie &#8222;eID-Karte-Beh&#246;rde&#8220; (ohne &#8222;n&#8220;)
+genannt. Dies geht zur&#252;ck auf die entsprechende Legaldefinition in &#167; 6 Absatz 1 (unter Nummer 2). Aus dem
+gleichen Grund soll der Begriff &#8222;eID-Karten-Register&#8220; (mit &#8222;n&#8220;) im gesamten Entwurf durch den Begriff &#8222;eID-Karte-
+Register&#8220; (ohne &#8222;n&#8220;) ersetzt werden. Da hier eine dem Begriff der &#8222;eID-Karte-Beh&#246;rde&#8220; vergleichbare
+Wortzusammensetzung gebildet wurde, sollte &#8211; ebenfalls im Sinne der begrifflichen Einheitlichkeit &#8211; auch gleichlautend 
+bezeichnet werden.  
+Berlin, den 3. April 2019 
+Josef Oster 
+Berichterstatter 
+Saskia Esken 
+Berichterstatterin 
+Dr. Christian Wirth 
+Berichterstatter 
+Manuel H&#246;ferlin 
+Berichterstatter 
+Ulla Jelpke 
+Berichterstatterin 
+Dr. Konstantin von Notz 
+Berichterstatter 
+Satz: Satzweiss.com Print, Web, Software GmbH, Mainzer Stra&#223;e 116, 66121 Saarbr&#252;cken, www.satzweiss.com
+Druck: Printsystem GmbH, Schafw&#228;sche 1-3, 71296 Heimsheim, www.printsystem.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de 
+ISSN 0722-8333]</text>
+    <titel>zu dem Gesetzentwurf der Bundesregierung
+- Drucksache 19/8038 -
+Entwurf eines Gesetzes zur Einf&#252;hrung einer Karte f&#252;r Unionsb&#252;rger und Angeh&#246;rige des Europ&#228;ischen Wirtschaftsraums mit Funktion zum elektronischen Identit&#228;tsnachweis sowie zur &#196;nderung des Personalausweisgesetzes und weiterer Vorschriften
+</titel>
+    <datum>2019-04-05</datum>
+  </document>

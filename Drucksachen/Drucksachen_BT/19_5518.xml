@@ -1,0 +1,722 @@
+<document>
+    <id>223652</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/5518</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>e5aec0772e59f62f6d1a489082b8677d</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>240311</id>
+      <titel>Pl&#228;ne der Bundesregierung zur Digitalisierung</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundeskanzleramt</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/055/1905518.pdf</pdf_url>
+      <id>223652</id>
+      <dokumentnummer>19/5518</dokumentnummer>
+      <datum>2018-11-06</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Die Antwort wurde namens des Bundeskanzleramtes mit Schreiben vom 2. November 2018 &#252;bermittelt.  
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext. 
+Deutscher Bundestag  Drucksache 19/5518 
+19. Wahlperiode 06.11.2018 
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Otto Fricke, Manuel H&#246;ferlin,  
+Christian D&#252;rr, weiterer Abgeordneter und der Fraktion der FDP 
+&#8211; Drucksache 19/4976 &#8211; 
+Pl&#228;ne der Bundesregierung zur Digitalisierung 
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r  
+Die fortschreitende Digitalisierung stellt Deutschland vor neue Aufgaben und 
+Herausforderungen. Leistungsf&#228;hige digitale Netze, eine zukunftsorientierte 
+Bildungspolitik, sowie eine moderne Infrastruktur setzen eine zielf&#252;hrend
+organisierte Digitalisierungsoffensive voraus. Im Haushaltsgesetz von 2018 hat sich 
+die Bundesregierung verpflichtet, eine investive Zuwendung in H&#246;he von 
+2,4 Mrd. Euro f&#252;r das Sonderverm&#246;gen &#8222;Digitale Infrastruktur&#8220; zu leisten. Im 
+Gesetzentwurf der Bundesregierung zur Errichtung des Sonderverm&#246;gens
+&#8222;Digitale Infrastruktur&#8220; vom 26. Juli 2018 f&#252;hrt das Bundesministerium der
+Finanzen (BMF) unter Punkt 5.3. aus, dass durch die Bildung des Sonderverm&#246;gens 
+der Verwaltungsaufwand beim Bund nur geringf&#252;gig erh&#246;ht werden w&#252;rde.
+Angesichts des gro&#223;en Verwaltungsaufwandes und getrennter
+Ressortzust&#228;ndigkeiten muss dies nach Ansicht der Fragesteller bezweifelt werden. 
+Mit der Verk&#252;ndung der eIDAS-Verordnung (Verordnung (EU) Nr. 910/2014 
+des Europ&#228;ischen Parlaments und des Rates vom 23. Juli 2014 &#252;ber
+elektronische Identifizierung und Vertrauensdienste f&#252;r elektronische Transaktionen im 
+Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG) im Jahr 2014 
+wurde der rechtliche Rahmen f&#252;r einen digitalen Binnenmarkt innerhalb der EU 
+geschaffen. Im Jahr 2017 hat der Bundestag mit einem Gesetz zur &#196;nderung des 
+Grundgesetzes mit Artikel 91c GG die ausschlie&#223;liche
+Gesetzgebungszust&#228;ndigkeit des Bundes f&#252;r die digitale Verwaltung geschaffen, die bei dem im
+August 2017 in Kraft getretene Gesetz zur Verbesserung des Onlinezugangs zu 
+Verwaltungsleistungen (Onlinezugangsgesetz = OZG) bereits Anwendung 
+fand. Aus unserer Sicht ist eine einheitliche Strategie der Bundesregierung beim 
+Thema E-Government jedoch nach wie vor nicht erkennbar.
+So nimmt Deutschland beim E-Government-Ranking der EU im
+Schwerpunktbereich &#8222;Digitale &#246;ffentliche Dienste&#8220; nur den 20. Platz von insgesamt 28
+Mitgliedstaaten ein (Bericht &#252;ber den Stand der Digitalisierung in Europa 2017 &#8211; 
+L&#228;nderprofil Deutschland). Damit bleibt Deutschland eines der EU-L&#228;nder mit 
+der geringsten Onlineinteraktion zwischen Beh&#246;rden und B&#252;rgern bzw.
+Unternehmen. 
+Einerseits verhindert die f&#246;derale Struktur der Bundesrepublik Deutschland, 
+dass eine koh&#228;rente und fl&#228;chendeckende elektronische Verwaltung
+verwirklicht wird. Andererseits werden auf EU-Ebene getroffene Vereinbarungen nicht 
+konsequent in nationales Recht gegossen. So wurde durch die Verf&#252;gung der 
+Bundesnetz-agentur (BNetzA) Nr. 208/2018, die Nutzung von VideoIdent zur 
+Beantragung von eIDAS-Vertrauensdiensten, wie z. B. der qualifizierten
+Fernsignatur, massiv einschr&#228;nkt. Da diese Einschr&#228;nkung jedoch nur f&#252;r nationale 
+Anbieter gilt, andere europ&#228;ische Anbieter jedoch weiterhin mit VideoIdent am 
+deutschen Markt agieren k&#246;nnen, entsteht f&#252;r Deutschland nach Ansicht der 
+Fragesteller ein unn&#246;tiger Wettbewerbsnachteil. 
+Die Digitalisierungsstrategie der Bundesregierung verteilt sich insgesamt auf 
+ein undurchschaubares Geflecht aus Kommissionen, R&#228;ten und eigenen
+Abteilungen oder ausgelagerten Gremien der verschiedenen Ressorts. &#214;ffentlich
+bekannt sind bisher unter anderem: der Kabinettsausschuss f&#252;r Digitalisierung der 
+Bundesregierung, die Datenethikkommission, der Digitalrat, die Agentur f&#252;r
+Innovation in der Cybersicherheit, die Denkfabrik Digitale Arbeitsgesellschaft des 
+Bundesministerium f&#252;r Arbeit und Soziales (BMAS), die Abteilung
+Digitalisierung im Bundeskanzleramt sowie Expertenworkshops in verschiedenen
+Bundesministerien zur K&#252;nstlichen Intelligenz. 
+1. Zu ihrer Digitalisierungsstrategie: 
+a) Plant das Bundesministerium des Innern, f&#252;r Bau und Heimat (BMI) die 
+Einrichtung einer Gesellschaft des &#246;ffentlichen Rechts als Alternative 
+zum IT-Planungsrat? 
+Nein. Vielmehr planen Bund und L&#228;nder eine gemeinsame Anstalt &#246;ffentlichen 
+Rechts zu errichten, die den IT-Planungsrat organisatorisch unterst&#252;tzen soll. 
+Diese soll unter dem Namen FITKO (F&#246;derale IT-Kooperation) in Frankfurt am 
+Main voraussichtlich zum 1. Januar 2020 errichtet werden. Als schlanke, mit
+gemeinschaftlichen Ressourcen ausgestattete, spezialisierte Unterst&#252;tzungseinheit 
+wird die FITKO die Handlungs- und Steuerungsf&#228;higkeit des IT-Planungsrats 
+st&#228;rken. 
+b) Wie plant die Bundesregierung die IT-Konsolidierung durchzusetzen, und 
+welche Zwischenziele m&#252;ssen daf&#252;r erreicht werden? 
+Gem&#228;&#223; dem am 20. Mai 2015 vom Bundeskabinett beschlossenen Grobkonzept 
+zur IT-Konsolidierung Bund umfasst die IT-Konsolidierung Bund drei
+Handlungsstr&#228;nge mit den Zielen: 
+1. Beschaffungsb&#252;ndelung: bis Ende 2018  90 Prozent der IT-Beschaffungen des 
+Bundes &#252;ber wenige zentrale Stellen abzuwickeln, 
+2. Betriebskonsolidierung: B&#252;ndelung des IT-Betriebs der unmittelbaren
+Bundesverwaltung bis Ende 2023, 
+3. Dienstekonsolidierung: bis Ende 2025 maximal zwei Basis- bzw.
+Querschnittsdienste (z. B. Elektronische Akte (E-Akte) oder Personalverwaltungssysteme) 
+f&#252;r die gleiche Funktionalit&#228;t anzubieten.
+Dabei geb&#252;hrt der Erh&#246;hung der IT-Sicherheit, die mit der IT-Konsolidierung als 
+ein wesentliches querschnittliches Ziel erreicht werden soll, durchg&#228;ngig
+besondere Aufmerksamkeit. 
+c) Welche Ver&#228;nderung in der Kompetenzverteilung zwischen den
+Bundesbeh&#246;rden soll bei der Weiterentwicklung der Projektorganisation IT-
+Konsolidierung des Bundes erfolgen? 
+Bei der Weiterentwicklung der Projektorganisation wird das Controlling (bisher 
+Teilprojekt 4) vom Bundesministerium f&#252;r Verkehr und digitale Infrastruktur in 
+das Bundesministerium des Innern, f&#252;r Bau und Heimat (BMI) verlagert. Das 
+Teilprojekt 4 wird nach der Verlagerung der Aufgaben beendet. 
+d) Welche Risiken sieht die Bundesregierung beim Prozess der IT-
+Konsolidierung des Bundes? 
+Die Bundesregierung sieht insbesondere die folgenden Risiken der IT-
+Konsolidierung Bund: 
+&#61485; Leistungsf&#228;higkeit der IT-Dienstleister wird nicht planm&#228;&#223;ig Anfang 2019
+erreicht, dadurch erh&#246;hte Projektkosten  
+&#61485; Beh&#246;rden fehlen eigene Ressourcen f&#252;r die Konsolidierungsprojekte, dadurch 
+erh&#246;hte Projektkosten durch verst&#228;rkten Einsatz Externer 
+&#61485; Ert&#252;chtigung der Fachanwendungen komplexer als erwartet, dadurch
+Verl&#228;ngerung der Projektlaufzeiten und erh&#246;hte Projektkosten durch den verst&#228;rkten 
+Einsatz Externer 
+&#61485; Aufgrund der Strategie einer zunehmenden Anzahl von Unternehmen, ihre
+Anwendungen und Dienste nicht mehr lokal, sondern nur noch als Cloud-L&#246;sung 
+anzubieten, sind ggf. nicht mehr alle notwendigen Sicherheitsanforderungen 
+der Bundesverwaltung umsetzbar und die jeweiligen Software-Produkte damit 
+nicht mehr f&#252;r den Einsatz in der Bundesverwaltung geeignet. 
+e) Wie gedenkt die Bundesregierung diesen zu begegnen? 
+Die Bundesregierung begegnet den oben genannten Risiken insbesondere durch 
+die Etablierung des neuen Handlungsstrangs &#8222;Ert&#252;chtigung der IT-Dienstleister&#8220;, 
+durch eine Erh&#246;hung der zur Verf&#252;gung stehenden Mittel und die
+Neuorganisation des Gesamtprojekts. 
+f) Plant die Bundesregierung die Durchf&#252;hrung einer
+Wirtschaftlichkeitspr&#252;fung f&#252;r das Sonderverm&#246;gen &#8222;Digitale Infrastruktur&#8220;?  
+Wenn nein, warum nicht? 
+F&#252;r das Sonderverm&#246;gen selbst ist eine Wirtschaftlichkeitspr&#252;fung nicht
+beabsichtigt. Die Wirtschaftlichkeitspr&#252;fung und Evaluierung erfolgt vielmehr auf der 
+Ebene der aus dem Sonderverm&#246;gen zu finanzierenden Ma&#223;nahmen im Bereich 
+des Gigabitnetzausbaus und des DigitalPakts Schule.
+g) Wie hoch sind die Projektausgaben f&#252;r die Erstbef&#228;higung der BWI 
+GmbH? 
+Die Projektausgaben f&#252;r die Erstbef&#228;higung der BWI GmbH im Zeitraum 2017 &#8211; 
+2023 betragen nach den aktuell vorliegenden Anforderungen und Aufgaben rund 
+308 000 Tsd. Euro. 
+h) Plant die Bundesregierung Abweichungen der Projektausgaben f&#252;r die IT-
+Konsolidierung des Bundes aus dem Sonderverm&#246;gen &#8222;Digitale
+Infrastruktur&#8220; zu finanzieren?  
+Wenn nein, warum nicht?  
+Wenn ja, in welchem Umfang? 
+Der Gesetzentwurf zur Errichtung des Sonderverm&#246;gens &#8222;Digitale Infrastruktur&#8220; 
+(Digitalinfrastrukturfondsgesetz &#8211; DIFG) sieht keine Finanzierung von
+Abweichungen der Projektausgaben f&#252;r die IT-Konsolidierung des Bundes aus dem 
+Sonderverm&#246;gen vor. 
+i) Plant die Bundesregierung die Fortschrittsberichte des Sonderverm&#246;gens 
+&#8222;Digitale Infrastruktur&#8220; als vertraulich einzustufen?  
+Wenn ja, warum? 
+Nein. Die Errichtung des Sonderverm&#246;gens &#8222;Digitale Infrastruktur&#8220; begr&#252;ndet 
+keine Berichtspflicht. 
+j) Warum werden die Fortschrittsberichte &#252;ber die Projektausgaben f&#252;r die 
+IT-Konsolidierung des Bundes als vertraulich eingestuft? 
+Die Fortschrittsberichte der IT-Konsolidierung Bund werden nicht als vertraulich 
+eingestuft. Sie werden nach dem Grundsatz &#8222;Kenntnis nur, wenn n&#246;tig&#8220; als &#8222;VS &#8211; 
+Nur f&#252;r den Dienstgebrauch&#8220; eingestuft. 
+k) Wie bewertet die Bundesregierung vor dem Hintergrund der IT-
+Konsolidierung die Zusammenarbeit und Kompetenzverteilung zwischen BWI 
+GmbH und Informationstechnikzentrum Bund (ITZBund)? 
+l) H&#228;lt die Bundesregierung die Kompetenzverteilung zwischen BWI und 
+ITZ f&#252;r effizient? 
+Die Fragen 1k und 1l werden gemeinsam beantwortet. 
+Die IT-DL und die Zentralstelle f&#252;r IT-Beschaffung (ZIB) haben ihre
+Zusammenarbeit stetig intensiviert und einen initialen gemeinsamen Produktkatalog erstellt. 
+Die genaue Arbeits- und Funktionsteilung ist noch nicht abschlie&#223;end definiert 
+und wird im weiteren Projektverlauf spezifiziert. Die Rollen, Zusammenarbeit 
+und Arbeitsteilung der IT-DL im IT-Leistungsverbund sowie der IT-DL mit der 
+ZIB sind weiter zu konkretisieren und zu optimieren.
+m) Plant die Bundesregierung eine Reform der Form- und
+Beweisvorschriften durch Einf&#252;hrung einer neuen Vertrauensfunktion im elektronischen 
+Rechtsverkehr?  
+Wenn nein, warum nicht? 
+Die Bund-L&#228;nder-Kommission f&#252;r Informationstechnik in der Justiz hat die
+Arbeitsgruppe Elektronischer Rechtsverkehr gebeten, einen Vorschlag f&#252;r die
+Festlegung des f&#252;r die Gesch&#228;ftsprozesse der Justiz im elektronischen Rechtsverkehr 
+erforderlichen Vertrauensniveaus zu erarbeiten. An dieser Arbeitsgruppe nehmen 
+neben Vertretern der L&#228;nder auch Vertreter des Bundesministeriums der Justiz 
+und f&#252;r Verbraucherschutz teil. Die Arbeiten sind noch nicht abgeschlossen. 
+n) Orientiert sich die Bunderegierung im Rahmen der digitalen
+Gesetzgebung an den Vorgaben der &#8222;Better Regulation Toolbox #23&#8220; der EU-
+Kommission?  
+Wenn nein, warum nicht? 
+Die in der umfassenden Toolbox genannten Aspekte flie&#223;en in die Aktivit&#228;ten der 
+Bundesregierung im Bereich Better Regulation ein. 
+o) Wie bewertet die Bundesregierung das Projekt &#8222;Bessere Rechtsetzung&#8220; 
+des BMI? 
+p) Hat das Projekt &#8222;Bessere Rechtsetzung&#8220; des BMI aus Sicht der
+Bundesregierung Vorbildcharakter f&#252;r weitere Projekte im Rahmen der digitalen 
+Gesetzgebung? 
+Die Fragen 1o und 1p werden gemeinsam beantwortet. 
+Im Bundesministerium des Innern f&#252;r Bau und Heimat gibt es kein &#8222;Projekt
+Bessere Rechtsetzung&#8220;. Das Regierungsprogramm &#8222;Bessere Rechtsetzung&#8220; wurde 
+2006 gestartet und wird seitdem im Bundeskanzleramt federf&#252;hrend betreut. 
+2. Zur Umsetzung von EU-Verordnungen: 
+a) Gedenkt die Bundesregierung die nach &#167; 11 Absatz 1 VDG i. V. m.
+Artikel 24 Absatz 1 Unterabsatz 2 Buchstabe d Satz 1 der Verordnung (EU) 
+Nr. 910/2014 (eIDAS-Verordnung) bestehenden Einschr&#228;nkungen f&#252;r
+nationale Anbieter von VideoIdent abzuschaffen?  
+Wenn nein, warum nicht?  
+Wenn ja, bis wann? 
+Der Einigung an die Mindestanforderungen und das Verfahren zur
+Videoidentifizierung gingen lange Abstimmungsprozesse voraus. Der nunmehr gefundene 
+Kompromiss erm&#246;glicht den Verbrauchern einen erweiterten Zugang zu
+Vertrauensdiensten. Die bestehenden Einschr&#228;nkungen sind Sicherheitsbedenken
+geschuldet. Auch aufgrund der von deutschen Vertrauensdiensteanbietern und
+Wirtschaftsunternehmen vorgetragenen Wettbewerbsnachteile ist die
+Bundesnetzagentur gemeinsam mit dem Bundesamt f&#252;r Sicherheit in der Informationstechnik 
+weiterhin mit der Branche im Dialog, um alternative L&#246;sungen zu er&#246;rtern, ohne 
+dabei die Vorgaben an das erforderliche Sicherheitsniveau zu senken.
+b) Wie gro&#223; ist der Mehraufwand in der Verwaltung, der durch die
+Durchf&#252;hrung der Verordnung (EU) Nr. 910/2014 f&#252;r die betroffenen Beh&#246;rden 
+entsteht, aus Sicht der Bundesregierung? 
+c) Plant die Bundesregierung die Bereitstellung von Mitteln zur
+Neueinstellung von Mitarbeitern in den Bundesbeh&#246;rden, die durch die
+Durchf&#252;hrung der Verordnung (EU) Nr. 910/2014 neue Aufgaben erhalten?  
+Wenn ja, wie viel?  
+Wenn nein, warum nicht? 
+Die Fragen 2b und 2c werden gemeinsam beantwortet. 
+Grunds&#228;tzlich gilt in Bezug auf die Verordnung (EU) 910/2014, dass den
+anfallenden Kosten ein weitaus h&#246;heres Rationalisierungspotential gegen&#252;bersteht, 
+das mit der Nutzung von Vertrauensdiensten verbunden ist. Durch die Nutzung 
+von Vertrauensdiensten lassen sich wegen des Verzichts auf physische
+Dokumente Prozesse beschleunigen (&#8222;medienbruchfrei&#8220;) und Sachkosten einsparen, 
+etwa f&#252;r Papier, Druckerfarbe oder Briefporto.  
+F&#252;r den Bund entsteht Erf&#252;llungsaufwand im Zusammenhang mit den T&#228;tigkeiten 
+der Bundesnetzagentur und des Bundesamtes f&#252;r Sicherheit in der
+Informationstechnik als zust&#228;ndige Aufsichtsstellen. Die Umsetzung der eIDAS-Verordnung 
+bewirkt bei der Bundesnetzagentur einen um 1,57 Personaleinheiten erh&#246;hten 
+Personalbedarf infolge erweiterter Zust&#228;ndigkeiten f&#252;r die zus&#228;tzlichen
+Vertrauensdienste und die damit im Zusammenhang stehenden Aufgaben wie
+Auditierung, repressive Aufsicht, Monitoring, gegenseitige Anerkennung/
+grenz&#252;berschreitende Amtshilfe, Abstimmung mit Datenschutzbeh&#246;rden und die
+&#220;berwachung von Betriebseinstellungen. Beim Bundesamt f&#252;r Informationstechnik sind 
+drei Personaleinheiten mit der Umsetzung der eIDAS-Verordnung befasst. Bei 
+der Bundesnetzagentur sind derzeit acht Personaleinheiten mit der Umsetzung 
+der eIDAS besch&#228;ftigt. 
+3. Zum Geflecht an Gremien: 
+a) Wie viele Planstellen f&#252;r den Bereich Digitalisierung wurden durch das 
+Haushaltsgesetz 2018 im Kanzleramt eingerichtet?  
+Wie viele Planstellen f&#252;r den Bereich Digitalisierung sind im Entwurf des 
+Haushaltsgesetzes 2019 f&#252;r das Kanzleramt vorgesehen? 
+Im Laufe des Jahres 2018 wurden gem&#228;&#223; &#167; 15 des Haushaltsgesetzes 2017 in
+diesem Bereich 31 Planstellen und Stellen ausgebracht (davon f&#252;nf Planstellen und 
+Stellen f&#252;r das B&#252;ro der Beauftragten der Bundesregierung f&#252;r Digitalisierung, 
+Staatsministerin Dorothee B&#228;r). 
+Durch das Haushaltsgesetz 2018 wurden im Bundeskanzleramt keine Planstellen 
+oder Stellen f&#252;r den Bereich Digitalisierung eingerichtet. Planstellen oder Stellen 
+sind f&#252;r diesen Bereich im Entwurf des Haushaltsgesetzes 2019 f&#252;r das
+Kanzleramt nicht vorgesehen.
+b) Wie viele der im Haushaltsgesetz 2018 im Kanzleramt f&#252;r den Bereich 
+Digitalisierung eingerichteten Stellen wurden bis heute tats&#228;chlich
+besetzt?  
+Wie viele der Stellen wurden intern (etwa durch Umwidmung) durch
+Mitarbeiter aus anderen Bundesministerien oder der Bundestagsverwaltung 
+besetzt?  
+Wie viele der Stellen wurden mit externen Bewerbern, die nicht bereits an 
+anderer Stelle in einem der Bundesministerien oder der
+Bundesverwaltung eingesetzt waren, besetzt? 
+Bislang wurden 17 Stellen besetzt, davon 13 mit bereits beim Bund besch&#228;ftigten 
+Mitarbeiterinnen/Mitarbeitern sowie vier Stellen im Wege der Neueinstellung. 
+c) Gibt es nach Kenntnis der Bundesregierung au&#223;er den eingangs
+genannten Kommissionen, R&#228;ten, eigenen Abteilungen und ausgelagerten oder 
+anderweitigen Gremien (u. a. Kabinettsausschuss f&#252;r Digitalisierung der 
+Bundesregierung, Datenethikkommission, Digitalrat, Agentur f&#252;r
+Innovation in der Cybersicherheit, Denkfabrik Digitale Arbeitsgesellschaft des 
+BMAS, Abteilung Digitalisierung im Bundeskanzleramt sowie
+Expertenworkshops in verschiedenen Bundesministerien zur K&#252;nstlichen
+Intelligenz) weitere Abteilungen, Gremien oder andere interne oder externe
+Einheiten in der Bundesregierung und den einzelnen Bundesministerien, die 
+seit 2017 in Bezug auf das Thema Digitalisierung neu eingerichtet
+wurden?  
+Wenn ja, welche (bitte mit Zuordnung zu den zust&#228;ndigen Ressorts
+auflisten)? 
+d) Stehen den eingangs genannten Kommissionen, R&#228;ten, eigenen
+Abteilungen und ausgelagerten oder anderweitigen Gremien (u. a.
+Kabinettsausschuss f&#252;r Digitalisierung der Bundesregierung, Datenethikkommission, 
+Digitalrat, Agentur f&#252;r Innovation in der Cybersicherheit, Denkfabrik
+Digitale Arbeitsgesellschaft des BMAS, Abteilung Digitalisierung im
+Bundeskanzleramt sowie Expertenworkshops in verschiedenen
+Bundesministerien zur K&#252;nstlichen Intelligenz) Budgets zur eigenen Verwendung zur 
+Verf&#252;gung?  
+Falls dies nicht der Fall ist, durch welche Budgets (bitte mit genauem 
+Haushaltstitel) im jeweiligen Haushaltsgesetz werden die durch die
+operative Arbeit anfallenden Kosten der einzelnen Gremien finanziert? 
+e) An welcher Stelle (bitte mit genauem Haushaltstitel angeben) im
+Haushaltsgesetz 2018 und im Entwurf des Haushaltsgesetzes 2019 sind die 
+Budgets f&#252;r die Arbeit der in den Fragen 3c und 3d gelisteten Gremien, 
+denen ein Budget zur eigenen Verwendung zusteht, vorgesehen?  
+Wie hoch sind die jeweiligen Budgets?
+f) In welchen der Gremien, die externe Experten beinhalten (nach Kenntnis 
+der Fragesteller zumindest: Datenethikkommission, Digitalrat sowie
+Expertenworkshops in verschiedenen Bundesministerien zur K&#252;nstlichen
+Intelligenz), arbeiten die Experten ehrenamtlich?  
+In welchen Gremien erhalten die externen Experten eine Verg&#252;tung f&#252;r 
+ihre Arbeit?  
+Wie hoch ist die Verg&#252;tung in den F&#228;llen, in denen die Experten eine
+Verg&#252;tung erhalten (bitte nach Gremium und einzelnen Experten
+aufschl&#252;sseln)? 
+Die Fragen 3c bis 3f werden gemeinsam beantwortet. 
+Auf die Tabelle in der Anlage wird verwiesen.
+Anlage zu den Fragen 3c bis 3f 
+ 3c 3d 3e 3f 
+ Einheiten seit 2017 Budgets der Einheiten 
+(2019: RegE 2019) 
+Haushaltstitel Verg&#252;tungen
+Bundesministerium der
+Finanzen 
+Das Bundesministerium der Finanzen hat im 
+Jahr 2018 das neue Referat LA4 &#8222;Strategie, 
+digitaler Wandel und gesellschaftlicher
+Dialog&#8220; eingerichtet. 
+F&#252;r die gegr&#252;ndeten Organisationseinheiten 
+stehen im BMF keine eigenen Haushaltstitel 
+zur Verf&#252;gung. Sollten ggf. Personal- und 
+Verwaltungsausgaben anfallen, werden diese 
+aus anderen Titeln finanziert. 
+entf&#228;llt entf&#228;llt
+Bundesministerium des
+Innern, f&#252;r Bau 
+und Heimat 
+Abteilung DG (&#8222;Digitale Gesellschaft,
+Verwaltungsdigitalisierung und
+Informationstechnik&#8220;) eingerichtet im Mai 2018 als
+Zusammenschluss mehrerer Referate der
+ehemaligen Abteilungen IT
+(&#8222;Informationstechnik, Digitale Gesellschaft und
+Cybersicherheit; IT-Direktor&#8220;) und O
+(&#8222;Verwaltungsmodernisierung; Verwaltungsorganisation&#8220;) 
+kein eigenes Budget, aber Bewirtschaftung
+diverser Haushaltsstellen zur Finanzierung der 
+verantworteten Ma&#223;nahmen und Vorhaben 
+ 
+Finanzierung &#252;berwiegend &#252;ber  
+Kapitel 0602, Titelgruppe 01  
+(&#8222;IT und Netzpolitik&#8220;), au&#223;er Titel 532 11, 
+532 17 und 812 13 (Ansatz 2018: 16.791 T &#8364;; 
+2019: 14.591 T &#8364;); 
+Titelgruppe 03 (&#8222;Moderne Verwaltung&#8220;), dort 
+die Titel 532 36 (2018: 689 T &#8364;, 2019 : 689 T 
+&#8364;) und 532 38 (2018: 47.802 T &#8364;, 2019: 
+92.800 T &#8364;); 
+Kapitel 0612, Titel 532 02 Erl. 3 (im
+Wesentlichen Verwaltungsmodernisierung) (2018: 
+910 T &#8364;, 2019: 910 T &#8364;) 
+entf&#228;llt entf&#228;llt 
+Die Kommission &#8222;Gleichwertige
+Lebensverh&#228;ltnisse&#8220; wird sich mit digitalen
+Infrastrukturen besch&#228;ftigen, insbesondere die AG 4 
+&#8222;Technische Infrastruktur&#8220;, die vom BMVI 
+geleitet wird (Co-Vorsitz Land Nordrhein-
+Westfalen und Deutscher Landkreistag). 
+Kein eigenes Budget, 
+keine operative Arbeit 
+entf&#228;llt entf&#228;llt 
+Agentur f&#252;r Innovation in der
+Cybersicherheit  
+Im Haushalt 2018 sind f&#252;r die Agentur f&#252;r
+Innovation in der Cybersicherheit sowohl im 
+Einzelplan 06 als auch im Einzelplan 14 
+Haushaltsmittel veranschlagt.  
+2018:  
+Haushaltstitel: 0602 54402 
+5.000 T&#8364; 
+Haushaltstitel: 1404 55104 
+10.000 T&#8364; 
+ 
+2019 : 
+Haushaltstitel: 0602 54402 
+10.000 T&#8364; 
+Haushaltstitel: 1404 55104 
+40.000 T&#8364; 
+entf&#228;llt 
+Ausw&#228;rtiges 
+Amt 
+Arbeitsstab Digitalisierung,
+Sonderbeauftragter f&#252;r internationale
+Digitalisierungspolitik und digitale Transformation 
+entf&#228;llt entf&#228;llt entf&#228;llt
+Bundesministerium f&#252;r 
+Wirtschaft und 
+Energie 
+Keine Die sechs Expertenworkshops, zu denen im 
+Rahmen der Erarbeitung der Strategie
+K&#252;nstliche Intelligenz eingeladen wurde, fanden 
+einmalig statt. Die organisatorische
+Vorbereitung, Durchf&#252;hrung und Nachbereitung der 
+Expertenworkshops wurde durch einen
+externen Dienstleister unterst&#252;tzt. Das Budget f&#252;r 
+die Durchf&#252;hrung der Expertenworkshops war 
+somit Bestandteil des Auftrags. Der
+Gesamtauftrag wurde aus dem Kapitel 0901 Titel 
+68623 UT 2 finanziert. 
+Es handelt sich bei den
+Expertenworkshops, zu denen im Rahmen der
+Erarbeitung der Strategie K&#252;nstliche
+Intelligenz eingeladen wurde, um keine
+Gremien. Es ist somit auch kein Budget f&#252;r 
+diese einmalig stattgefundenen
+Workshops vorgesehen.  
+Die Teilnehmer der
+Expertenworkshops, zu denen im
+Rahmen der Erarbeitung der
+Strategie K&#252;nstliche Intelligenz
+eingeladen wurde, haben keine
+Verg&#252;tung erhalten.
+Bundesministerium der 
+Justiz und f&#252;r
+Verbraucherschutz/
+Bundesministerium 
+des Innern, f&#252;r 
+Bau und
+Heimat 
+Datenethikkommission Die Datenethikkommission hat keine
+Haushaltsmittel zur eigenen Verwendung. Die
+laufenden Kosten (Reisekosten, Kosten f&#252;r die 
+Gesch&#228;ftsstelle, &#214;ffentlichkeitsarbeit,
+Abschlussveranstaltung u. &#228;.) werden aus
+folgenden Haushaltstiteln finanziert: Kapitel 0711 
+Titel 526 02; Kapitel 0712 Titel 427 09;
+Kapitel 0602, Titelgruppe 01, Titel 532 10. Derzeit 
+sind f&#252;r 2018 und 2019 insgesamt Mittel in 
+H&#246;he von rund 360.000 &#8364; eingeplant. 
+entf&#228;llt Die Mitglieder der
+Datenethikkommission arbeiten
+ehrenamtlich
+Bundesministerium f&#252;r
+Arbeit und
+Soziales 
+Denkfabrik Digitale Arbeitsgesellschaft
+(Organisationseinheit im BMAS) 
+Bewirtschaftung &#252;ber einen nicht
+flexibilisierten Haushaltstitel: 
+ 
+derzeit 1107/684 03 (&#8222;Gestaltung des
+Wandels in der Arbeitswelt&#8220;)  
+ 
+ab 2019 eigener Titel 1107/684 11
+(&#8222;Denkfabrik Digitale Arbeitsgesellschaft&#8220;) 
+derzeit 1107/684 03 (&#8222;Gestaltung des 
+Wandels in der Arbeitswelt&#8220;)  
+ 
+ab 2019 eigener Titel 1107/684 11 
+(&#8222;Denkfabrik Digitale
+Arbeitsgesellschaft&#8220;) 
+ 
+2019: 
+Haushaltstitel 1107/684 11: 
+3.000 T&#8364; 
+F&#252;r das KI-Fachforum zum 
+Thema &#8222;Arbeitswelt und
+Arbeitsmarkt&#8220; im Rahmen der
+Erarbeitung der KI-Strategie (eine 
+einmalige Veranstaltung im 
+BMAS) hat das BMAS die
+Reisekosten externer Experten zur 
+Teilnahme an der Sitzung
+&#252;bernommen.
+ 3c 3d 3e 3f 
+ Einheiten seit 2017 Budgets der Einheiten 
+(2019: RegE 2019) 
+Haushaltstitel Verg&#252;tungen
+Bundesministerium der 
+Verteidigung 
+Leitungsboard Digitalisierung:
+Einrichtung am 12. Dezember 2017 mit
+Innenverteiler III unter der Leitung der
+Bundesministerin 
+Steuerungspanel Digitalisierung:
+Einrichtung am 13. September 2018 ebenfalls mit 
+Innenverteiler III 
+Pilotprojekt &#8222;Cyber Innovation Hub der 
+Bundeswehr (CIHBw)&#8220; mit einer Laufzeit 
+2017 - 2019, &#252;ber dessen Verstetigung im 
+Sinne einer dauerhaften Einrichtung erst 
+nach einer Evaluierung und einer erfolgten 
+Wirtschaftlichkeitsuntersuchung im Jahr 
+2019 entschieden werden wird. 
+Cyberagentur: Im Haushalt 2018 sind f&#252;r die 
+Agentur f&#252;r Innovation in der Cybersicherheit 
+sowohl im Einzelplan 14 als auch dem
+Einzelplan 06 Haushaltsmittel veranschlagt. 
+Cyberagentur: Der Haushalt 2018 sieht 
+im Einzelplan 6 im Kapitel 0602 Titel 
+544 02 insgesamt 5 Mio. EUR und im 
+Einzelplan 14, Kapitel 1404, Titel 551 
+04, insgesamt 10 Mio. EUR f&#252;r die 
+Agentur f&#252;r Innovation in der
+Cybersicherheit vor. 
+Im Entwurf des Haushaltsgesetzes 2019 
+sind f&#252;r die Agentur f&#252;r Innovation in 
+der Cybersicherheit im Einzelplan 6,
+Kapitel 0602 Titel 544 02 insgesamt 10 
+Mio. EUR und im Einzelplan 14 Kapitel 
+1404 Titel 551 04 bislang insgesamt 40 
+Mio. EUR vorgesehen. 
+Leitungsboard Digitalisierung: 
+kein Budget zur eigenen Verwendung 
+Steuerungspanel Digitalisierung: kein 
+Budget zur eigenen Verwendung 
+Pilotprojekt &#8222;Cyber Innovation Hub 
+der Bundeswehr (CIHBw)&#8220; 
+2017: Titel 551 03: 2,6 Mio. Euro  
+2017: Titel 551 01: 5,0 Mio. Euro 
+2018: Titel 551 03: 5,0 Mio. Euro  
+2018: Titel 551 01: 5,0 Mio. Euro 
+2019: Titel 551 03: 5,0 Mio. Euro  
+2019: Titel 551 01: 5,0 Mio. Euro
+Bundesministerium f&#252;r
+Ern&#228;hrung und
+Landwirtschaft 
+Errichtung einer Unterabteilung &#8222;Digitale 
+Innovation&#8220; zum 01.09.2018, Einrichtung 
+von drei neu geschaffenen Referaten mit
+Digitalisierungsbezug, Einrichtung von
+Digitalisierungsreferenten in jeder Abteilung,
+Aufnahme der Aufgaben der Koordinierung von 
+Digitalisierungsfragen in einem Referat in 
+jeder Abteilung des BMEL 
+Kein Budget. Die Personal- und Sachkosten 
+sind im Einzelplan 10, Kap. 1012 etatisiert. 
+entf&#228;llt entf&#228;llt
+Bundesministerium f&#252;r
+Familie,
+Senioren, Frauen 
+und Jugend 
+AG Digitale Gesellschaft Kein Budget  entf&#228;llt entf&#228;llt
+Bundesministerium f&#252;r
+Gesundheit 
+Einrichtung Abteilung 5 &#8222;Digitalisierung 
+und Innovation&#8220; zum 03.04.2018 durch 
+&#220;berf&#252;hrung bestehender Referate und
+Einrichtung eines neuen Referates
+&#8222;Cybersicherheit&#8220; 
+Bezeichnung der Stellen im Haushaltsgesetz 
+2018 und im Entwurf 2019 und H&#246;he des 
+Budgets.  
+2018: 
+Haushaltstitel: 1504 686 05 
+1.200 T&#8364;2019: 
+Haushaltstitel: 1504 686 05 
+900 T&#8364; 
+entf&#228;llt 
+Arbeitsgruppe 3 &#8222;Innovative
+Versorgungsans&#228;tze und Digitalisierung&#8220; im Rahmen der 
+Konzertierten Aktion Pflege (KAP) 
+Kein Budget entf&#228;llt entf&#228;llt
+Bundesministerium f&#252;r 
+Verkehr und 
+digitale
+Infrastruktur 
+Seit 2017 wurden im Bundesministerium f&#252;r 
+Verkehr und digitale Infrastruktur keine 
+neuen internen Einheiten (Abteilungen) zum 
+Thema Digitalisierung eingerichtet. Die AG 
+3 der Nationalen Plattform Zukunft der
+Mobilit&#228;t befasst sich als externes Gremium mit 
+&#8222;Digitalisierung f&#252;r den Mobilit&#228;tssektor&#8220;. 
+F&#252;r die in Frage 3 c benannten Gremien sind 
+seitens des Bundesministeriums f&#252;r Verkehr 
+und digitale Infrastruktur keine gesonderten 
+Haushaltsmittel vorgesehen. Die Kosten f&#252;r 
+die operative Arbeit von Gremien werden
+generell aus Kapitel 1211-52602
+&#8222;Sachverst&#228;ndige, Ausgaben f&#252;r Mitglieder von
+Fachbeir&#228;ten und &#228;hnlichen Aussch&#252;ssen&#8220; finanziert. 
+F&#252;r die in Frage 3 c benannten Gremien 
+sind seitens des Bundesministeriums f&#252;r 
+Verkehr und digitale Infrastruktur keine 
+gesonderten Haushaltsmittel vorgesehen. 
+Die Kosten f&#252;r die operative Arbeit von 
+Gremien werden generell aus Kapitel 
+1211-52602 &#8222;Sachverst&#228;ndige,
+Ausgaben f&#252;r Mitglieder von Fachbeir&#228;ten und 
+&#228;hnlichen Aussch&#252;ssen&#8220; finanziert. 
+entf&#228;llt
+Bundesministerium f&#252;r 
+Umwelt,
+Naturschutz und 
+nukleare
+Sicherheit 
+Im Jahr 2018 wurden im BMU ein
+&#8222;Koordinierungsstab Digitalisierung&#8220; und das
+Referat Z III 4 &#8222;Digitalisierung und
+Gesellschaft&#8220; gegr&#252;ndet. 
+F&#252;r die gegr&#252;ndeten Organisationseinheiten 
+stehen im BMU keine eigenen Haushaltstitel 
+zur Verf&#252;gung. Sollten ggf. Personal- und 
+Verwaltungsausgaben anfallen, werden diese 
+aus dem Sachhaushalt finanziert.  
+entf&#228;llt entf&#228;llt
+Bundesministerium f&#252;r
+Bildung und
+Forschung 
+Plattform Lernende SystemeHinweis: Die 
+Plattform ist ein F&amp;E-Projekt und umfasst 
+u.a. auch Projekte zu spezifischen
+Fragestellungen sowie die Organisation von
+Veranstaltungen. 
+Insgesamt erh&#228;lt die Plattform von 2017 bis 
+2022 6 Mio. Euro als Zuwendung. 
+Haushaltstitel: 3004 683 21  Ehrenamt 
+Projektgruppe zum Wissenschaftsjahr
+&#8222;Arbeitswelt der Zukunft&#8220;  
+Kein gesondertes Budget Kein gesonderter Titel, die
+Aufwendungen etc. sind in den allgemeinen
+Ans&#228;tzen der betreffenden Personal- und 
+Sachkostentitel des EPL 30 enthalten 
+bzw. werden aus diesen gedeckt. 
+entf&#228;llt 
+Referat Z16 &#8222;Digitale Verwaltung&#8220; Kein gesondertes Budget Kein gesonderter Titel, die
+Aufwendungen etc. sind in den allgemeinen
+Ans&#228;tzen der betreffenden Personal- und 
+Sachkostentitel des EPL 30 enthalten 
+bzw. werden aus diesen gedeckt. 
+entf&#228;llt
+ 3c 3d 3e 3f 
+ Einheiten seit 2017 Budgets der Einheiten 
+(2019: RegE 2019) 
+Haushaltstitel Verg&#252;tungen
+Bundesministerium f&#252;r 
+wirtschaftliche
+Zusammenarbeit und
+Entwicklung 
+Einrichtung eines neuen
+Digitalisierungsreferats 
+kein eigenes Budget, aber Bewirtschaftung 
+aus folgendem Titel zur Finanzierung der
+verantworteten Ma&#223;nahmen und Projekte 
+ 
+Finanzierung &#252;ber Kapitel 2301 Titel 89603: 
+11,8 Mio. &#8364; f&#252;r die 3 Jahre 
+entf&#228;llt  Fehlanzeige
+Bundeskanzleramt 
+entf&#228;llt Digitalrat:kein Budget zur eigenen
+Verwendung2018: 
+Haushaltstitel: 0411 52602 
+entf&#228;llt EhrenamtReisekosten werden 
+nach den Bestimmungen des 
+Bundereisekostengesetzes er-
+stattet.Eine Verg&#252;tung wird 
+nicht gezahlt. &#220;ber die H&#246;he der 
+Aufwandsentsch&#228;digungen f&#252;r 
+die Mitglieder des Digitalratsist 
+derzeit noch nicht abschlie&#223;end 
+entschieden. 
+Abteilung 6: 
+2018:  
+Haushaltstitel: 0602 53239 ab M&#228;rz vom BMI 
+&#252;bernommen 
+Haushaltstitel: 0602 53241 ab M&#228;rz vom BMI 
+&#252;bernommen 
+Haushaltstitel: 0602 53219 ab M&#228;rz vom BMI 
+&#252;bernommen 
+Abteilung 6: 
+2018:  
+Haushaltstitel: 0411 52602 
+205 T&#8364; 
+Haushaltstitel: 0602 53239 
+285 T&#8364; 
+Haushaltstitel: 0602 53241 
+200 T&#8364; 
+Haushaltstitel: 0602 53219 
+350 T&#8364; 
+ 
+Abteilung 6: 
+2019 (beantragt): 
+Haushaltstitel: 0411 52602 
+205 T&#8364; 
+Haushaltstitel: 0410 53205 
+1.085 T&#8364; 
+Haushaltstitel: 0410 53204 
+700 T&#8364; 
+Haushaltstitel: 0602 53241 
+400 T&#8364; 
+entf&#228;llt 
+Beauftragte 
+der
+Bundesregierung f&#252;r 
+Kultur und 
+Medien 
+Stabsstelle Kommunikation, Strategische 
+Planung und Digitalisierung in Kultur und 
+Medien 
+2018: 1.500 T&#8364; (einmalig) 0452 684 17 entf&#228;llt 
+ 
+ 
+ 
+ 
+Satz: Satzweiss.com Print, Web, Software GmbH, Mainzer Stra&#223;e 116, 66121 Saarbr&#252;cken, www.satzweiss.com 
+Druck: Printsystem GmbH, Schafw&#228;sche 1-3, 71296 Heimsheim, www.printsystem.de 
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de 
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/4976 -
+Pl&#228;ne der Bundesregierung zur Digitalisierung</titel>
+    <datum>2018-11-06</datum>
+  </document>

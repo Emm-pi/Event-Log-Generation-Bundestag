@@ -1,0 +1,750 @@
+<document>
+    <id>218758</id>
+    <drucksachetyp>Gesetzentwurf</drucksachetyp>
+    <anlagen>Stellungnahme der BRg</anlagen>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/1716</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>fdfb8aca0f6b46bb587f5489f85ebf6e</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:15+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>232004</id>
+      <titel>... Strafrechts&#228;nderungsgesetz - Strafbarkeit der unbefugten Benutzung informationstechnischer Systeme - Digitaler Hausfriedensbruch</titel>
+      <vorgangstyp>Gesetzgebung</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BR</bezeichnung>
+      <titel>Bundesrat</titel>
+    </urheber>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/017/1901716.pdf</pdf_url>
+      <id>218758</id>
+      <dokumentnummer>19/1716</dokumentnummer>
+      <datum>2018-04-18</datum>
+      <anlagen>Stellungnahme der BRg</anlagen>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Gesetzentwurf</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesrat</urheber>
+    </fundstelle>
+    <text>[Deutscher Bundestag Drucksache 19/1716
+19. Wahlperiode 18.04.2018
+Gesetzentwurf 
+des Bundesrates 
+Entwurf eines ... Strafrechts&#228;nderungsgesetzes &#8210; Strafbarkeit der  
+unbefugten Benutzung informationstechnischer Systeme &#8210;  
+Digitaler Hausfriedensbruch 
+A. Problem und Ziel 
+In letzter Zeit h&#228;ufen sich die Angriffe auf Internetseiten mittels sogenannter 
+&#8222;Distributed-denial-of-service (DDos)&#8220;-Attacken, bei denen eine Vielzahl von in 
+krimineller Absicht ausgel&#246;sten Anfragen, die an Webseiten gerichtet werden, 
+dazu f&#252;hren, dass diese vor&#252;bergehend unerreichbar sind. Zudem finden gezielte 
+Cyberangriffe auf mit dem Internet verbundene Kritische Infrastrukturen, also 
+Einrichtungen wie gro&#223;e Industrieanlagen, Elektrizit&#228;tswerke, Staud&#228;mme,
+Anlagen der Wasserversorgung oder Telekommunikationsanlagen, statt, die diese
+besch&#228;digen, empfindlich st&#246;ren oder unbrauchbar machen sollen. Die bekanntesten 
+F&#228;lle in j&#252;ngster Zeit waren die Internetangriffe auf den Deutschen Bundestag in 
+2015, auf ein deutsches Stahlwerk in 2014, bei dem ein Hochofen besch&#228;digt 
+wurde, sowie die Attacken auf den franz&#246;sischen Sender TV5 und die belgische 
+Zeitung &#8222;Le Soir&#8220; in 2015. Die letzten beiden Begebenheiten zeigen, dass sich 
+auch Terroristen dieses Mittels bedienen.  
+J&#252;ngst wurde erstmals eine Schadsoftware in einem deutschen Atomkraftwerk 
+entdeckt.1
+Das massenhafte Auftreten von sogenannten &#8222;Erpressungs-Trojanern&#8220; oder 
+&#8222;Krypto-Trojanern&#8220; &#8211; allein bei einer Variante wurden &#252;ber 5 000 Neuinfektionen 
+in Deutschland pro Stunde festgestellt2 &#8211; verursacht gro&#223;e Sch&#228;den, auch die
+&#246;ffentliche Verwaltung und Kritische Infrastrukturen sind betroffen.3
+Die Werkzeuge, mit denen Straft&#228;ter diese Handlungen begehen, sind regelm&#228;&#223;ig 
+sogenannte &#8222;Botnetze&#8220;. Als ein Botnetz bezeichnet man eine gro&#223;e Anzahl von 
+mit dem Internet st&#228;ndig oder zeitweise verbundener informationstechnischer 
+Systeme wie Computer oder Mobiltelefone, die &#8211; von ihrem rechtm&#228;&#223;igen Nutzer 
+unbemerkt &#8211; mit Schadprogrammen infiltriert sind und daher einzeln oder in ihrer 
+1 Vgl. www.spiegel.de/netzwelt/web/grundremmingen-computervirus-im-atomkraftwerk-entdeckt-a-
+1089248.html 
+2 Vgl. www.heise.de/security/meldung/Krypto-Trojaner-Locky-wuetet-in-Deutschland-Ueber-5000-
+Infektionen-pro-Stunde-3111774.html 
+3 Vgl. www.heise.de/newsticker/meldung/Ransomware-Virus-legt-Krankenhaus-lahm-3100418.html 
+www.t-online.de/computer/sicherheit/id_76362038/teslacrypt-erpresser-trojaner-legt-deutsche-beho-
+erden-lahm.html
+Gesamtheit einer fremden Kontrolle unterliegen. Gro&#223;e Botnetze umfassen
+mehrere Millionen Opferrechner, die von dem jeweiligen sie kontrollierenden T&#228;ter 
+einzeln oder zusammen ferngesteuert werden k&#246;nnen. Botnetze sind auch
+Handelswaren, die &#252;ber kriminelle M&#228;rkte im Internet in G&#228;nze oder in Teilen
+verkauft, verliehen oder vermietet werden. 
+Die Infiltration der Opfersysteme geschieht auf unterschiedliche Weise. Neben 
+dem Anklicken von Links in Spam-E-Mails oder dem &#214;ffnen infizierter
+Dateianh&#228;nge kann eine Infektion etwa auch dadurch erfolgen, dass der rechtm&#228;&#223;ige
+Nutzer mit seinem informationstechnischen System eine legitime Internetseite
+aufsucht, die zuvor von den T&#228;tern unerkannt pr&#228;pariert wurde (sogenannte
+&#8222;driveby infection&#8220;). Die T&#228;ter schleusen dabei einen Schadcode in die Webseite ein, 
+der dazu f&#252;hrt, dass auf dem Opfersystem im Hintergrund heimlich
+Schadprogramme aufgespielt werden und er so zum &#8222;Bot&#8220; (von englischen &#8222;robot&#8220;) wird, 
+also zu einem durch Dritte unerkannt fernsteuerbaren Zombie-Computer, dessen 
+s&#228;mtliche Funktionen und Daten nunmehr eben jenem Dritten, der ihn infiziert 
+hat, offenstehen. 
+Gegen diese Art der Infektion kann sich auch der aufmerksame Computernutzer 
+kaum zur Wehr setzen. Zurzeit geht man davon aus, dass bis zu 40 Prozent aller 
+internetf&#228;higen informationstechnischen Systeme in Deutschland mit
+Schadsoftware verseucht sind und damit potentielle Bots darstellen.  
+Die Gefahren von Botnetzen liegen aber nicht nur in ihrem m&#246;glichen Einsatz zur 
+Durchf&#252;hrung von DDos-Attacken. Sie stellen gleichzeitig eine der wichtigsten 
+T&#228;terinfrastrukturen im Bereich der Cyberkriminalit&#228;t dar. Sie werden genutzt 
+zum Versenden von Spam-E-Mails, zur Begehung von Betrug im Onlinebanking 
+oder zur Verschleierung des Standortes von Servern mit kriminellen Inhalten.  
+Ferner k&#246;nnen die infiltrierten Opfersysteme als Anonymisierungswerkzeuge
+verwendet werden. Die T&#228;ter k&#246;nnen mit ihrer Hilfe unerkannt Internetdienste nutzen 
+und kommunizieren. Durch diese Art der Verwendung erlangen infiltrierte
+Opfersysteme eine erhebliche Bedeutung f&#252;r Kriminelle auch au&#223;erhalb des
+Ph&#228;nomenbereichs Cybercrime. 
+Dar&#252;ber hinaus ist die Kontrolle &#252;ber die Bots durch den T&#228;ter, also die infizierten 
+Opfersysteme, vollst&#228;ndig, d. h. s&#228;mtliche auf der Festplatte gespeicherten oder 
+im Arbeitsspeicher befindlichen Daten des legitimen Benutzers stehen den T&#228;tern 
+offen; sie k&#246;nnen diese beliebig aussp&#228;hen oder kopieren. Gleiches gilt f&#252;r Daten, 
+die der Nutzer extern, etwa bei Clouddiensten, gespeichert hat, denn die T&#228;ter 
+k&#246;nnen ihren Zugriff auch auf alle mit dem infiltrierten System verbundenen
+Systeme ausdehnen.  
+In strafrechtlicher Hinsicht er&#246;ffnet die umfassende Vernetzung unterschiedlicher 
+IT-Systeme wie etwa Produktionsanlagen, Marketing, Vertrieb und Einkauf, die 
+gemeinhin mit dem Begriff &#8222;Industrie 4.0&#8220; bezeichnet wird, neue Angriffsfl&#228;chen 
+f&#252;r kriminelle Aktivit&#228;ten in einem bisher nie dagewesenen Ausma&#223;. Es werden 
+IT-Systeme angreifbar, die bislang aus dem Internet nicht erreichbar waren. 
+Dadurch vergr&#246;&#223;ert sich das Risiko existenzgef&#228;hrdender Situationen durch
+Ausfall oder Fehlfunktion von Produktions- oder Gesch&#228;ftsprozessen erheblich. 
+Welches Ausma&#223; die heimliche Infiltration der B&#252;rger durch international
+agierende Straft&#228;ter hat, wurde im Jahre 2014 offenbar, als im Rahmen von
+Botnetzermittlungen &#252;ber 14 Millionen ausgesp&#228;hte Datens&#228;tze aufgefunden wurden. 
+Weiterhin kann der gesamte Internetverkehr der Opfer durch die Straft&#228;ter
+abgeh&#246;rt und manipuliert werden. Auch die Computerhardware des Opfersystems 
+kann unbeschr&#228;nkt ferngesteuert werden, so k&#246;nnen z. B. Webcam oder Mikrofon 
+unbemerkt eingeschaltet werden, um aus den R&#228;umen der Opfer heimlich Videos
+und T&#246;ne zu &#252;bertragen. Damit wird der heimische Laptop oder das Mobiltelefon 
+zu einem machtvollen Aussp&#228;hwerkzeug in den H&#228;nden international agierender 
+Cyberkrimineller. 
+Hierdurch ist die Integrit&#228;t und Vertraulichkeit des infiltrierten
+informationstechnischen Systems vollst&#228;ndig aufgehoben, ohne dass der legitime Benutzer es
+bemerkt. Weitreichende R&#252;ckschl&#252;sse auf seine Pers&#246;nlichkeit bis in den
+Kernbereich h&#246;chstpers&#246;nlicher Lebensgestaltung sind m&#246;glich. Heutige Smartphones 
+spiegeln h&#228;ufig nahezu die gesamten privaten und z. T. auch die gesch&#228;ftlichen 
+oder beruflichen Aktivit&#228;ten ihrer Benutzer wider. Die Bedeutung mobiler IT-
+Systeme wird weiter wachsen, sie dienen zunehmend als Mittel zur Bezahlung 
+von Waren und Dienstleistungen. Schon jetzt wird prognostiziert, dass mobile IT-
+Systeme Zahlungskarten in diesem Bereich in ihrer Bedeutung &#252;berholen werden. 
+Es ist gegenw&#228;rtig kaum absehbar, welche Anwendungen in der Zukunft noch 
+m&#246;glich werden.  
+Das Bundesverfassungsgericht hat bereits 2007 in seiner wegweisenden
+Entscheidung zum Grundrecht auf die Gew&#228;hrleistung der Vertraulichkeit und Integrit&#228;t 
+informationstechnischer Systeme (Artikel 2 Absatz 1 i. V. m. Artikel 1 Absatz 1 
+des Grundgesetzes, vgl. 1 BvR 370/07, 1 BvR 595/07) die bestehenden Gefahren 
+f&#252;r die B&#252;rger dargestellt. Zutreffend hat das Bundesverfassungsgericht zudem 
+festgestellt, dass informationstechnische Systeme allgegenw&#228;rtig sind und ihre 
+Nutzung f&#252;r die Lebensf&#252;hrung vieler B&#252;rger von zentraler Bedeutung ist. Die 
+Relevanz der Informationstechnik f&#252;r die Lebensgestaltung des Einzelnen
+ersch&#246;pft sich nicht in der gr&#246;&#223;eren Verbreitung und Leistungsf&#228;higkeit von
+Personalcomputern. Daneben enthalten zahlreiche Gegenst&#228;nde, mit denen gro&#223;e Teile 
+der Bev&#246;lkerung allt&#228;glich umgehen, informationstechnische Komponenten. So 
+liegt es beispielsweise zunehmend bei Telekommunikationsger&#228;ten oder
+elektronischen Ger&#228;ten, die in Wohnungen oder Kraftfahrzeugen enthalten sind (BVerfG 
+a. a. O.). Weiter f&#252;hrt das BVerfG aus: 
+&#8222;Der Einzelne kann [&#8230;] Zugriffe zum Teil gar nicht wahrnehmen, jedenfalls aber 
+nur begrenzt abwehren. Informationstechnische Systeme haben mittlerweile einen 
+derart hohen Komplexit&#228;tsgrad erreicht, dass ein wirkungsvoller sozialer oder 
+technischer Selbstschutz erhebliche Schwierigkeiten aufwerfen und zumindest 
+den durchschnittlichen Nutzer &#252;berfordern kann. Ein technischer Selbstschutz 
+kann zudem mit einem hohen Aufwand oder mit Funktionseinbu&#223;en des
+gesch&#252;tzten Systems verbunden sein. Viele Selbstschutzm&#246;glichkeiten &#8211; etwa die
+Verschl&#252;sselung oder die Verschleierung sensibler Daten &#8211; werden &#252;berdies
+weitgehend wirkungslos, wenn Dritten die Infiltration des Systems, auf dem die Daten 
+abgelegt worden sind, einmal gelungen ist. Schlie&#223;lich kann angesichts der
+Geschwindigkeit der informationstechnischen Entwicklung nicht zuverl&#228;ssig
+prognostiziert werden, welche M&#246;glichkeiten dem Nutzer in Zukunft verbleiben, sich 
+technisch selbst zu sch&#252;tzen.&#8220; 
+Es ist daher die Aufgabe auch des Strafrechts, den l&#252;ckenlosen Schutz des
+bedeutsamen Grundrechts auf die Gew&#228;hrleistung der Vertraulichkeit und Integrit&#228;t
+informationstechnischer Systeme sicherzustellen. 
+Der strafrechtliche Schutz der Integrit&#228;t und Vertraulichkeit von
+informationstechnischen Systemen wird im Kernstrafrecht derzeit im Wesentlichen durch die 
+&#167;&#167; 202a, 303a und 303b des Strafgesetzbuches (StGB) gew&#228;hrt. 
+Dieser Schutz ist indes l&#252;ckenhaft.  
+So betrifft &#167; 202a StGB nur das Aussp&#228;hen solcher Daten, die durch eine
+besondere Zugangssicherung gesch&#252;tzt sind. Zudem greift diese Norm nur dann ein, 
+wenn der T&#228;ter unter &#220;berwindung der Zugangssicherung handelt. Das bedeutet,
+dass derzeit die Frage, ob der strafrechtliche Schutz eines
+informationstechnischen Systems gegeben ist oder nicht, allein auf den Schultern der Opfer ruht.  
+Aber selbst wenn eine Zugangssicherung aktiviert ist, sind die Schutzl&#252;cken
+erheblich. 
+Fallbeispiel: 
+Das Opfer befindet sich im &#246;ffentlichen Raum, z. B. in einem Zug. Um zu
+telefonieren, gibt es den PIN-Code zur Entsperrung seines Smartphones ein. Der T&#228;ter 
+beobachtet das und merkt sich die PIN. Anschlie&#223;end, nachdem das Opfer sein 
+Smartphone wieder eingesteckt hat, gelingt es dem T&#228;ter, das Ger&#228;t &#8211; vom Opfer 
+unbemerkt &#8211; an sich zu bringen und es mittels des PIN-Codes zu entsperren, um 
+anschlie&#223;end private oder auch gesch&#228;ftliche Daten auszulesen oder Fotos zu
+betrachten. Danach steckt der T&#228;ter das Smartphone zur&#252;ck in die Tasche des
+Opfers. 
+Die mit der Hand eingegebene PIN ist kein taugliches Tatobjekt i. S. v. &#167; 202a 
+Absatz 2 StGB, so dass das Beobachten der Eingabe nicht strafbar ist. Der
+anschlie&#223;ende Einsatz der beobachteten Zahlenkombination durch den T&#228;ter hebt 
+bestimmungsgem&#228;&#223; den entsprechenden Zugangsschutz auf, so dass es am
+&#8222;&#220;berwinden&#8220; der Zugangssicherung fehlt. Eine &#220;berwindung i. S. v. &#167; 202a Absatz 1 
+StGB soll n&#228;mlich dann nicht gegeben sein, wenn nur noch ein unerheblicher 
+technischer oder zeitlicher Aufwand erforderlich ist.4
+Ergebnis: Der T&#228;ter ist im Kernstrafrecht gegenw&#228;rtig straflos.5
+Auch in den F&#228;llen, in denen T&#228;ter unabh&#228;ngig voneinander vorgehen, also ohne 
+dass die Voraussetzungen des &#167; 25 Absatz 2, der &#167;&#167; 26 oder 27 StGB vorliegen, 
+ist die Straflosigkeit der Datenaussp&#228;hung nach &#167; 202a StGB gegeben. Dies ist 
+z. B. dann gegeben, wenn ein allein handelnder T&#228;ter massenhaft Opfersysteme 
+infiziert, um den Zugriff auf die infiltrierten Systeme anschlie&#223;end &#252;ber anonyme 
+Internethandelsplattformen an ihm nicht bekannte Personen zu verkaufen. Kauft 
+ein Dritter den Zugriff auf ein infiltriertes informationstechnisches System an und 
+sp&#228;ht sodann die dort gespeicherten Daten aus, handelt er nicht unter
+&#220;berwindung einer Zugangssicherung und ist nicht gem&#228;&#223; &#167; 202a StGB bestrafbar.6
+Die zunehmende Steigerung der Effektivit&#228;t von Schadprogrammen und das
+Auftreten von sogenannter &#8222;fileless malware&#8220;, also Schadsoftware, die keine
+Ver&#228;nderungen an gespeicherten Daten herbeif&#252;hrt7, f&#252;hren dazu, dass auch der Schutz 
+durch &#167; 303a StGB l&#252;ckenhaft ist. Die Strafbarkeit nach dieser Norm setzt voraus, 
+dass der T&#228;ter auf dem betroffenen informationstechnischen System gespeicherte 
+Daten im Sinne von &#167; 202a StGB l&#246;scht, ver&#228;ndert etc. Die Infiltration
+informationstechnischer Systeme ist heutzutage jedoch auch ohne die Ver&#228;nderung von 
+gespeicherten Daten m&#246;glich. Neben dem Einsatz von &#8222;fileless malware&#8220; kann 
+dies z. B. durch sogenannten Hardwaretrojaner8 geschehen. 
+&#167; 303b StGB ist in seiner derzeitigen Fassung ebenfalls nicht geeignet,
+informationstechnische Systeme und insbesondere das Internet der Dinge wirksam vor 
+4 Vgl. Hilgendorf in: Leipziger Komm. zum StGB, 12. Aufl. 2010 , &#167; 202a Rn. 36 (str.). 
+5 Str., vgl. Graf NStZ 2007, 129, 131, der auch f&#252;r den Fall des als das Hinterlassen des Passwortes am 
+Arbeitsplatz f&#252;r den Administrator, der nach Dienstschluss den Rechner f&#252;r den Arbeitnehmer an
+dessen Bed&#252;rfnisse anpassen will, und welches nun stattdessen der hierzu nicht befugte Kollege auffindet, 
+es liest und dann auch benutzt zum gleichen Ergebnis gelangt. 
+6 Vgl. Roos/Schumacher MMR 2014, 377, 380 f. 
+7 Vgl. www.mcafee.com/us/resources/solution-briefs/sb-quarterly-threats-nov-2015-1.pdf; 
+http://blog.trendmicro.com/trendlabs-security-intelligence/without-a-trace-fileless-malware-spotte
+din-the-wild/ 
+8 Vgl. www.heise.de/newsticker/meldung/32C3-Hardware-Trojaner-als-unterschaetzte-Gefahr-
+3056452.html
+Cyberangriffen zu sch&#252;tzen. Die Norm greift z. B. nicht bei internetgekoppelten 
+Haushaltsger&#228;ten oder bei ausschlie&#223;lich privat genutzten Systemen, welche den 
+&#252;berwiegenden Teil der angegriffenen Systeme darstellen. 
+Zwar f&#228;llt die Durchf&#252;hrung von DDoS-Attacken unter den Tatbestand des &#167; 303b 
+StGB, jedoch wird jeder sonstige Eingriff, der nicht mit einer St&#246;rung der
+Datenverarbeitung einhergeht, nicht erfasst.  
+Abgesehen von den Schutzl&#252;cken auf der Ebene der objektiven Tatbest&#228;nde wird 
+die L&#252;ckenhaftigkeit des strafrechtlichen Schutzes der genannten Normen 
+dadurch vertieft, dass ihr Vorliegen unter den heute gegebenen technischen
+Rahmenbedingungen regelm&#228;&#223;ig nicht nachweisbar ist. H&#228;ufig l&#246;schen sich
+Schadprogramme nach ihrem Einsatz oder bei ihrer Entdeckung selbstt&#228;tig9, so dass 
+selbst bei einer computerforensischen Auswertung des betroffenen
+informationstechnischen Systems im Nachhinein ein Tatnachweis nicht zu f&#252;hren ist. 
+B. L&#246;sung 
+Zur Erreichung eines angemessenen Schutzniveaus f&#252;r die Vertraulichkeit und 
+Integrit&#228;t informationstechnischer Systeme sollen die Rechtsgedanken in den 
+&#167;&#167; 123 und 248b StGB in die digitale Welt &#252;bertragen und ein neuer &#167; 202e StGB 
+geschaffen werden. Mit der neuen Vorschrift soll die unbefugte Benutzung
+informationstechnischer Systeme unter Strafe gestellt werden. IT-Systeme sind
+mindestens ebenso schutzw&#252;rdig wie das Hausrecht und wie das ausschlie&#223;liche
+Benutzungsrecht an Fahrzeugen. Derzeit sind sogar Fahrr&#228;der besser gesch&#252;tzt als 
+Computer mit h&#246;chstpers&#246;nlichen Daten. Die Gefahr f&#252;r die Allgemeinheit, die 
+von unbefugt genutzten informationstechnischen Systemen ausgeht, ist, wie oben 
+dargelegt, hoch.  
+Damit kann ein l&#252;ckenloser strafrechtlicher Schutz aller Systeme und die
+Strafbarkeit nahezu aller Angriffsarten sichergestellt werden, denn die Infiltration von 
+Computern und Cyberangriffe jeder Art beinhalten als Teilkomponente
+regelm&#228;&#223;ig die Fernsteuerung, also das Beeinflussen oder Ausl&#246;sen von
+informationstechnischen Vorg&#228;ngen durch Dritte.  
+Die Formulierung des &#167; 202e StGB-E ist technikoffen, was zu einer guten
+praktischen Handhabbarkeit f&#252;hren und Beweis- und Abgrenzungsschwierigkeiten
+vermeiden soll. Technische Zuf&#228;lle in der Konfiguration der Opfersysteme sollen
+zuk&#252;nftig keine Rolle mehr spielen. 
+C. Alternativen 
+Keine. 
+D. Haushaltsausgaben ohne Erf&#252;llungsaufwand 
+Keine. 
+9 Vgl. www.heise.de/security/meldung/Rombertik-Der-Virus-der-verbrannten-Erde-2633009.html
+E. Erf&#252;llungsaufwand 
+E.1 Erf&#252;llungsaufwand f&#252;r B&#252;rgerinnen und B&#252;rger 
+F&#252;r die B&#252;rgerinnen und B&#252;rger entsteht oder entf&#228;llt kein Erf&#252;llungsaufwand. 
+E.2 Erf&#252;llungsaufwand f&#252;r die Wirtschaft 
+F&#252;r die Wirtschaft entsteht oder entf&#228;llt kein Erf&#252;llungsaufwand. 
+Davon B&#252;rokratiekosten aus Informationspflichten: 
+Keine. 
+E.3 Erf&#252;llungsaufwand der Verwaltung 
+Aufgrund der Ausdehnung des deutschen Strafrechts ist zu erwarten, dass die
+Anzahl der Strafverfahren in einem begrenzten Ausma&#223; zunimmt. Dies kann zu nicht 
+n&#228;her quantifizierbaren Haushaltsmehrausgaben bei den f&#252;r die Durchf&#252;hrung 
+von Strafverfahren prim&#228;r zust&#228;ndigen Strafverfolgungsbeh&#246;rden der L&#228;nder
+f&#252;hren. Im Zust&#228;ndigkeitsbereich des Bundes anfallende Haushaltsmehrausgaben 
+sind allenfalls in geringem Umfang zu erwarten.  
+Der Mehraufwand bei den Strafverfolgungs- und Vollstreckungsbeh&#246;rden ist
+jedoch angesichts der bestehenden Strafbarkeitsl&#252;cken gerechtfertigt. Zudem
+w&#252;rden, soweit durch die &#8211; mit der Regelung erm&#246;glichte &#8211; konsequente
+Strafverfolgung eine abschreckende Wirkung erreicht wird, Kosten sowie Folgekosten aus 
+Sch&#228;den durch Cyberangriffe eingespart. 
+F. Weitere Kosten 
+Den B&#252;rgerinnen und B&#252;rgern sowie der Wirtschaft entstehen keine sonstigen 
+Kosten. Auswirkungen auf das Preisniveau, insbesondere auf das
+Verbraucherpreisniveau, sind nicht zu erwarten.
+BUNDESREPUBLIK DEUTSCHLAND Berlin, 18. April 2018 
+DIE BUNDESKANZLERIN
+An den  
+Pr&#228;sidenten des 
+Deutschen Bundestages 
+Herrn Dr. Wolfgang Sch&#228;uble 
+Platz der Republik 1 
+11011 Berlin 
+Sehr geehrter Herr Pr&#228;sident, 
+hiermit &#252;bersende ich gem&#228;&#223; Artikel 76 Absatz 3 des Grundgesetzes den vom 
+Bundesrat in seiner 965. Sitzung am 2. M&#228;rz 2018 beschlossenen  
+Entwurf eines ... Strafrechts&#228;nderungsgesetzes &#8211; Strafbarkeit der 
+unbefugten Benutzung informationstechnischer Systeme &#8211;  
+Digitaler Hausfriedensbruch 
+mit Begr&#252;ndung und Vorblatt (Anlage 1). 
+Ich bitte, die Beschlussfassung des Deutschen Bundestages herbeizuf&#252;hren. 
+Federf&#252;hrend ist das Bundesministerium der Justiz und f&#252;r Verbraucherschutz. 
+Die Auffassung der Bundesregierung zu dem Gesetzentwurf ist in der als Anlage 2 
+beigef&#252;gten Stellungnahme dargelegt. 
+Mit freundlichen Gr&#252;&#223;en 
+Dr. Angela Merkel
+Entwurf eines ... Strafrechts&#228;nderungsgesetzes &#8211; Strafbarkeit der 
+unbefugten Benutzung informationstechnischer Systeme &#8211;  
+Digitaler Hausfriedensbruch 
+Vom &#8230; 
+Der Bundestag hat das folgende Gesetz beschlossen: 
+Artikel 1 
+&#196;nderung des Strafgesetzbuches 
+Das Strafgesetzbuch in der Fassung der Bekanntmachung vom 13. November 1998 (BGBl. I S. 3322), das 
+zuletzt durch &#8230; ge&#228;ndert worden ist, wird wie folgt ge&#228;ndert: 
+1. In der Inhalts&#252;bersicht wird nach der Angabe zu &#167; 202d folgende Angabe eingef&#252;gt:
+&#8222;&#167; 202e Unbefugte Benutzung informationstechnischer Systeme&#8220;.
+2. Nach &#167; 202d wird folgender &#167; 202e eingef&#252;gt:
+&#8222;&#167; 202e  
+Unbefugte Benutzung informationstechnischer Systeme 
+(1) Wer unbefugt 
+1. sich oder einem Dritten den Zugang zu einem informationstechnischen System verschafft,
+2. ein informationstechnisches System in Gebrauch nimmt oder
+3. einen Datenverarbeitungsvorgang oder einen informationstechnischen Ablauf auf einem
+informationstechnischen System beeinflusst oder in Gang setzt,
+wird mit Geldstrafe oder Freiheitsstrafe bis zu einem Jahr bestraft, wenn die Tat nicht in anderen Vorschriften 
+mit schwererer Strafe bedroht ist. Die Tat nach Satz 1 ist nur strafbar, wenn sie geeignet ist, berechtigte 
+Interessen eines anderen zu beeintr&#228;chtigen. 
+(2) Mit Geldstrafe oder Freiheitsstrafe bis zu f&#252;nf Jahren wird bestraft, wer eine in Absatz 1
+bezeichnete Handlung  
+1. gegen Entgelt oder
+2. in der Absicht, sich oder einen Dritten zu bereichern oder einen Dritten zu sch&#228;digen,
+begeht, wenn die Tat nicht in anderen Vorschriften mit schwererer Strafe bedroht ist. 
+(3) In besonders schweren F&#228;llen ist die Strafe Freiheitsstrafe von sechs Monaten bis zu zehn Jahren. 
+Ein besonders schwerer Fall liegt in der Regel vor, wenn der T&#228;ter 
+1. gewerbsm&#228;&#223;ig oder als Mitglied einer Bande handelt, die sich zur fortgesetzten Begehung von
+Straftaten unter Nutzung von informationstechnischen Systemen verbunden hat,
+2. den Zugang zu einer gro&#223;en Anzahl von informationstechnischen Systemen verschafft oder eine gro&#223;e
+Anzahl von informationstechnischen Systemen in Gebrauch nimmt oder eine gro&#223;e Anzahl von
+Datenverarbeitungsvorg&#228;ngen oder informationstechnischen Abl&#228;ufen beeinflusst oder in Gang setzt oder
+Anlage 1
+3. in der Absicht handelt,  
+a) eine Gefahr f&#252;r die &#246;ffentliche Sicherheit,  
+b) eine gemeingef&#228;hrliche Straftat oder  
+c) eine besonders schwere Straftat gegen die Umwelt nach &#167; 330 herbeizuf&#252;hren oder zu
+erm&#246;glichen. 
+(4) Handelt der T&#228;ter in der Absicht, einen Ausfall oder eine Beeintr&#228;chtigung der Funktionsf&#228;higkeit 
+kritischer Infrastrukturen zu bewirken, so ist die Strafe Freiheitsstrafe von einem Jahr bis zu zehn Jahren. 
+(5) Der Versuch ist strafbar. 
+(6) Im Sinne dieser Vorschrift ist 
+1. informationstechnisches System 
+nur ein solches, das  
+a) zur Verarbeitung personenbezogener Daten geeignet oder bestimmt ist oder  
+b) Teil einer Einrichtung oder Anlage ist, die wirtschaftlichen, &#246;ffentlichen, wissenschaftlichen, 
+k&#252;nstlerischen, gemeinn&#252;tzigen oder sportlichen Zwecken dient oder die den Bereichen Energie, 
+Telekommunikation, Transport und Verkehr, Gesundheit, Wasser, Ern&#228;hrung, Versorgung,
+Haustechnik oder Haushaltstechnik angeh&#246;rt;  
+2. kritische Infrastruktur 
+eine Einrichtung, Anlage oder Teile davon, die 
+a) den Bereichen Energie, Informationstechnik und Telekommunikation, Transport und Verkehr,
+Gesundheit, Wasser, Ern&#228;hrung oder Finanz- und Versicherungswesen angeh&#246;ren und 
+b) von hoher Bedeutung f&#252;r das Funktionieren des Gemeinwesens sind, weil durch ihren Ausfall oder 
+ihre Beeintr&#228;chtigung ein erheblicher Versorgungsengpass oder eine Gef&#228;hrdung f&#252;r die
+&#246;ffentliche Sicherheit eintreten w&#252;rde. 
+(7) Ist in den F&#228;llen der Abs&#228;tze 1 und 2 ein Angeh&#246;riger, der Vormund oder der Betreuer verletzt 
+oder lebt der Verletzte mit dem T&#228;ter in h&#228;uslicher Gemeinschaft, so wird die Tat nur auf Antrag verfolgt.&#8220; 
+3. In &#167; 205 Absatz 1 Satz 2 wird die Angabe &#8222;202b und 202d&#8220; durch die W&#246;rter &#8222;202b, 202d und 202e Absatz 1 
+und 2&#8220; ersetzt. 
+Artikel 2 
+&#196;nderung der Strafprozessordnung 
+Nach &#167; 374 Absatz 1 Nummer 3 der Strafprozessordnung in der Fassung der Bekanntmachung vom 7. April 
+1987 (BGBl. I S. 1074, 1319), die zuletzt durch &#8230; ge&#228;ndert worden ist, wird folgende Nummer 3a eingef&#252;gt: 
+&#8222;3a. eine unbefugte Benutzung informationstechnischer Systeme (&#167; 202e Absatz 1 und 2 des
+Strafgesetzbuches),&#8220;. 
+Artikel 3 
+Inkrafttreten 
+Dieses Gesetz tritt am Tag nach der Verk&#252;ndung in Kraft.
+Begr&#252;ndung 
+A. Allgemeiner Teil 
+I. Zielsetzung und Notwendigkeit der Regelungen 
+Die immer st&#228;rkere Verbreitung und Nutzung von Informations- und Kommunikationstechnologien, insbesondere 
+die Nutzung des Internets, wirken sich unmittelbar auf alle Bereiche der Gesellschaft aus. Die Einbeziehung von 
+Telekommunikations- und Informationssystemen, die eine entfernungsunabh&#228;ngige Speicherung und
+&#220;bertragung von Daten aller Art gestatten, bietet ein breites Spektrum neuer M&#246;glichkeiten, aber auch des Missbrauchs.  
+Mit dem Einundvierzigsten Strafrechts&#228;nderungsgesetz zur Bek&#228;mpfung der Computerkriminalit&#228;t (41. Str&#196;ndG) 
+vom 7. August 2007 (BGBl.&#8201;I S.&#8201;1786), mit welchem der deutsche Gesetzgeber dem aus dem &#220;bereinkommen 
+des Europarates &#252;ber Computerkriminalit&#228;t vom 23. November 2001 (Cybercrime Convention) sowie dem aus 
+dem Rahmenbeschluss 2005/222/JI des Rates vom 24. Februar 2005 &#252;ber Angriffe auf Informationssysteme
+resultierenden Umsetzungsbedarf nachgekommen ist, und mit der Einf&#252;hrung des Straftatbestandes der
+Datenhehlerei durch das Gesetz zur Einf&#252;hrung einer Speicherpflicht und einer H&#246;chstspeicherfrist f&#252;r Verkehrsdaten vom 
+10. Dezember 2015 wurden zuletzt Regelungen getroffen, um den Missbrauch der Informationstechnologie zu 
+bek&#228;mpfen.  
+Diese gen&#252;gen jedoch nicht, da die strafrechtliche Praxis gezeigt hat, dass die fortschreitende technische
+Entwicklung weiterhin zu sp&#252;rbaren Strafbarkeitsl&#252;cken f&#252;hrt.  
+Das Bundesverfassungsgericht hat in seinem Urteil zur Online-Durchsuchung vom 27. Februar 2008 als
+besondere Auspr&#228;gung des allgemeinen Pers&#246;nlichkeitsrechts (Artikel 2 Absatz 1 i. V. m. Artikel 1 Absatz 1 des
+Grundgesetzes) das &#8222;Grundrecht auf Gew&#228;hrleistung der Vertraulichkeit und Integrit&#228;t informationstechnischer
+Systeme&#8220; postuliert. Damit ist dem Regelungsanliegen, IT-Systeme vor dem unbefugten Zugriff Dritter zu sch&#252;tzen, 
+grundrechtliche Relevanz beizumessen (vgl. BVerfGE 120, 274 ff.).  
+Durch das Ph&#228;nomen der schadsoftwaregest&#252;tzten Existenz gro&#223;er &#8211; teilweise weltumspannender &#8211; Botnetze wird 
+dieses Grundrecht massenhaft verletzt. 
+Derzeit k&#246;nnen im Kernstrafrecht zur Bek&#228;mpfung der Botnetzkriminalit&#228;t vor allem die &#167;&#167; 202a, 303a und 303b 
+StGB herangezogen werden.  
+Diese Normen zielen indes nicht unmittelbar auf den Schutz der Vertraulichkeit und Integrit&#228;t von
+informationstechnischer Systemen ab. &#167; 202a StGB und &#167; 303a StGB sch&#252;tzen lediglich Daten, nicht aber das technische
+System. &#167; 303b StGB bezweckt zwar grunds&#228;tzlich den Schutz von Systemen. F&#252;r einen wirksamen
+Rechtsg&#252;terschutz gen&#252;gt es jedoch nicht, lediglich auf das Interesse des Verf&#252;gungsberechtigten an der unversehrten
+Verwendbarkeit von Daten oder auf das Interesse der Betreiber und Nutzer am st&#246;rungsfreien Funktionieren ihrer 
+Datenverarbeitung &#8211; so der Schutzzweck des &#167; 303b StGB &#8211; abzustellen. Schon das Interesse der rechtm&#228;&#223;igen 
+Nutzer von Computern, Laptops und Smartphones an dem ausschlie&#223;lichen Gebrauchsrecht ihrer Ger&#228;te,
+unabh&#228;ngig davon, ob ihre Daten beeintr&#228;chtigt werden oder sich St&#246;rungen im Funktionieren der Ger&#228;te zeigen, ist 
+sch&#252;tzenswert. Wie der &#167; 248b StGB zeigt, ist es der Systematik des Strafgesetzbuches nicht fremd, auch das 
+schlichte Gebrauchsrecht an Sachen einem strafrechtlichen Schutz zu unterstellen. 
+In diesem Zusammenhang kann ein wirksamer Rechtsg&#252;terschutz nicht davon abh&#228;ngen, dass die
+Grundrechtstr&#228;ger gehalten sind, f&#252;r den Schutz ihrer IT-Systeme selbst zu sorgen. Wie das Bundesverfassungsgericht
+dargelegt hat, ist dies heutzutage bereits technisch kaum m&#246;glich (vgl. BVerfG, a. a. O.).  
+Ziel des Gesetzentwurfes soll es vor diesem Hintergrund sein, Artikel 2 des Budapester &#220;bereinkommens &#252;ber 
+Computerkriminalit&#228;t vom 23. November 2001 (BGBl. 2008 II S. 1242, &#8222;Convention on Cybercrime&#8220;)
+vollst&#228;ndig umzusetzen.
+Dieser lautet: 
+&#8222;Artikel 2 &#8211; Rechtswidriger Zugang 
+Jede Vertragspartei trifft die erforderlichen gesetzgeberischen und anderen Ma&#223;nahmen, um den unbefugten
+Zugang zu einem Computersystem als Ganzem oder zu einem Teil davon, wenn vors&#228;tzlich begangen, nach ihrem 
+innerstaatlichen Recht als Straftat zu umschreiben.  
+Eine Vertragspartei kann als Voraussetzung vorsehen, dass die Straftat unter Verletzung von
+Sicherheitsma&#223;nahmen, in der Absicht, Computerdaten zu erlangen, in anderer unredlicher Absicht oder in Zusammenhang mit 
+einem Computersystem, das mit einem anderen Computersystem verbunden ist, begangen worden sein muss.&#8220; 
+Diese Vorschrift ist durch &#167; 202a StGB nur sehr eingeschr&#228;nkt in das innerstaatliche Recht umgesetzt worden. 
+Der damalige Bundesgesetzgeber hat von der M&#246;glichkeit des Satzes 2 Gebrauch gemacht und als Voraussetzung 
+f&#252;r eine Strafbarkeit vorgesehen, dass die Straftat subjektiv auf Daten bezogen, objektiv unter Verletzung von 
+Sicherheitsma&#223;nahmen begangen worden sein muss und nur solche Daten gesch&#252;tzt sind, die besonders gesichert 
+sind. Der Gesetzgeber war damals der Auffassung, vor allem der letztgenannten Einschr&#228;nkung auf solche Daten, 
+die gegen unberechtigten Zugang besonders gesichert sind, komme eine besondere Bedeutung f&#252;r die
+Eingrenzung des Tatbestandes zu, um Bagatellf&#228;lle auszufiltern (vgl. BT-Drucksache 16/3656 vom 30. November 2006).  
+Angesichts der heutigen arbeitsteiligen Vorgehensweise von Internetkriminellen und im Lichte der zitierten
+Entscheidung des BVerfG, wonach ein wirkungsvoller technischer Selbstschutz der Berechtigten kaum m&#246;glich ist, 
+sind diese Einschr&#228;nkungen indes &#252;berholt und stehen einer effektiven Strafverfolgung und dem Schutz der
+B&#252;rger entgegen. 
+Hinzu kommt, dass angesichts der wachsenden Bedeutung der IT-Wirtschaft ein l&#252;ckenhafter strafrechtlicher 
+Schutz ein Nachteil f&#252;r den Wirtschaftsstandort Deutschland gegen&#252;ber den Staaten darstellt, die Artikel 2 der 
+Konvention vollst&#228;ndig und ohne Einschr&#228;nkungen umgesetzt haben. 
+Es ist angezeigt, der urspr&#252;nglichen Intention der Konvention folgend, den unbefugten Zugang zu einem
+Computersystem (&#8222;digitaler Hausfriedensbruch&#8220;) und die dadurch er&#246;ffnete blo&#223;e M&#246;glichkeit jedweden Datenzugriffs 
+als Eingriff in das Grundrecht auf Gew&#228;hrleistung der Vertraulichkeit und Integrit&#228;t informationstechnischer
+Systeme unter Strafe zu stellen. Dem berechtigten Anliegen, Bagatellf&#228;lle auszuscheiden, wird durch die
+Bagatellklausel und &#252;ber die Ausgestaltung der Abs&#228;tze 1 und 2 als Privatklagedelikt hinreichend Rechnung getragen. 
+Eine j&#252;ngst ergangene Entscheidung des BGH (vgl. Beschluss vom 21. Juli 2015, 1 StR 16/15) belegt
+eindrucksvoll die L&#252;ckenhaftigkeit des derzeitigen Rechtsg&#252;terschutzes und das Leerlaufen von &#167; 202a StGB selbst in
+gravierenden F&#228;llen. Nach den Feststellungen des Landgerichts hatten die Angeklagten ein gro&#223;es Botnetz aufgebaut 
+und betrieben, das unter anderem der Erzeugung von Bitcoins, einer elektronischen Werteinheit, diente. Dazu 
+nutzten die Angeklagten die Rechenleistung der von ihnen infiltrierten Opfersysteme aus. Das Gericht hatte in 
+der Hauptverhandlung einen Sachverst&#228;ndigen des BKA zu den IT-technischen Fragen geh&#246;rt und auf Grundlage 
+seines Gutachtens, das auch schriftlich vorlag, die Funktionsweise der Schadsoftware in groben Z&#252;gen
+beschrieben. Der BGH hob die Verurteilungen mit folgender Begr&#252;ndung auf: 
+&#8222;(&#8230;) Die Verurteilung wegen Aussp&#228;hens von Daten in Tateinheit mit Datenver&#228;nderung (&#8230;) h&#228;lt rechtlicher 
+Nachpr&#252;fung nicht stand; der Schuldspruch wird von den getroffenen Feststellungen nicht getragen. Die
+Feststellungen sind teilweise l&#252;ckenhaft und weisen zudem einen inneren, auch durch den Gesamtzusammenhang der 
+Urteilsgr&#252;nde nicht aufl&#246;sbaren Widerspruch auf. Sie belegen nicht hinreichend, dass der Angeklagte jeweils eine 
+Zugangssicherung &#252;berwunden hat, die f&#252;r die Erf&#252;llung des Straftatbestands des &#167; 202a Abs. 1 StGB erforderlich 
+ist. Denn der Schutzbereich dieser Strafvorschrift erstreckt sich nur auf Daten, die gegen unberechtigten Zugang 
+besonders gesichert sind. Dies sind nur solche, bei denen der Verf&#252;gungsberechtigte durch seine Sicherung sein 
+Interesse an der Geheimhaltung der Daten dokumentiert hat (vgl. BGH, Beschluss vom 6. Juli 2010 &#8211; 4 StR 
+555/09, NStZ 2011, 154). Die Zugangssicherung im Sinne von &#167; 202a Abs. 1 StGB muss darauf angelegt sein, 
+den Zugriff Dritter auf die Daten auszuschlie&#223;en oder wenigstens nicht unerheblich zu erschweren (vgl. BGH, 
+Beschluss vom 6. Juli 2010 &#8211; 4 StR 555/09, NStZ 2011, 154; LK-StGB/Hilgendorf, StGB, &#167; 202a Rn. 30; M&#252;Ko- 
+StGB/Graf, StGB, &#167; 202a Rn. 35; R&#252;benstahl/Debus, NZWiSt 2012, 129, 131). Darunter fallen insbesondere 
+Schutzprogramme, welche geeignet sind, unberechtigten Zugriff auf die auf einem Computer abgelegten Daten 
+zu verhindern, und die nicht ohne fachspezifische Kenntnisse &#252;berwunden werden k&#246;nnen und den T&#228;ter zu einer 
+Zugangsart zwingt, die der Verf&#252;gungsberechtigte erkennbar verhindern wollte (vgl. BT-Drucks. 16/3656 S. 10).
+Schlie&#223;lich muss der Zugangsschutz auch gerade im Zeitpunkt der Tathandlung bestehen (vgl. M&#252;Ko-StGB/Graf, 
+StGB, &#167; 202a Rn. 20). Ob diese Voraussetzungen in den der Verurteilung zugrunde liegenden F&#228;llen gegeben 
+sind, vermag der Senat anhand der unvollst&#228;ndigen Feststellungen im Urteil nicht abschlie&#223;end zu beurteilen. 
+Zugleich kann nicht ausgeschlossen werden, dass das Landgericht der vorgenommenen Rechtsanwendung, die 
+nicht n&#228;her erl&#228;utert wird (UA S. 13), ein fehlerhaftes Verst&#228;ndnis zugrunde gelegt hat. Es fehlt in den
+Urteilsgr&#252;nden eine hinreichend genaue Darstellung der Wirkweise der von dem Angeklagten bereitgestellten
+Schadsoftware, welche die Benennung der im konkreten Einzelfall umgangenen Zugangssicherung erfasst. Der
+pauschale Verweis auf deren Bestehen reicht daf&#252;r ohne n&#228;here Darlegung nicht aus, denn eine revisionsgerichtliche 
+Kontrolle der eingangs genannten Voraussetzungen ist nur auf der Grundlage einer ausreichend deskriptiven
+Darlegung der konkreten tats&#228;chlichen und technischen Umst&#228;nde m&#246;glich. Die insoweit bestehende L&#252;cke l&#228;sst sich 
+durch die Feststellungen auch in ihrer Gesamtheit nicht schlie&#223;en. Hinzu kommt, dass das Landgericht zwischen 
+den Begrifflichkeiten der Firewall und des Virenschutzprogrammes nicht erkennbar differenziert hat, wodurch 
+unklar bleibt, ob es die technischen Voraussetzungen der Zugangssicherung in tats&#228;chlicher Hinsicht zutreffend 
+bewertet hat. W&#228;hrend es zun&#228;chst n&#228;mlich darauf abstellt, der Trojaner sei so konzipiert gewesen, die
+vorinstallierte Firewall bestimmter Betriebssysteme zu umgehen (UA S. 3), findet sich im Widerspruch dazu an sp&#228;terer 
+Stelle der Urteilsgr&#252;nde die Feststellung und Wertung, die vom Angeklagten bereitgestellte Schadsoftware sei 
+durch die Virenprogramme der 327.379 Nutzer nicht erkannt worden (UA S. 4). Unter Zugrundelegung der zu 
+der Schadsoftware zuletzt getroffenen Feststellungen k&#228;me eine Firewall als tatbestandsm&#228;&#223;ige
+Schutzvorrichtung bereits dem Grunde nach nicht in Betracht. (&#8230;) Die dargelegten Rechtsfehler f&#252;hren insgesamt zur
+Aufhebung des Urteils. Aufgrund desaufgezeigten Widerspruches und um dem neuen Tatrichter zu erm&#246;glichen,
+umfassend stimmige eigene Feststellungen treffen zu k&#246;nnen, waren auch die Feststellungen aufzuheben (&#167; 353 
+Abs. 2 StPO). Das neue Tatgericht wird Gelegenheit haben, sich mit den Handlungsabl&#228;ufen in technischer und 
+zeitlicher Hinsicht umfassender als bislang auseinanderzusetzen. Erst die hinreichend genaue Feststellung der 
+technischen Gegebenheiten erm&#246;glicht die strafrechtliche Bewertung der in Frage kommenden als solche bereits 
+zutreffend erkannten Straftatbest&#228;nde.&#8220; 
+Die Entscheidung verdeutlicht, dass die &#167;&#167; 202a, 303a, 303b StGB in ihrer jetzigen Fassung bereits im Tatbestand 
+untauglich sind, die heutigen Erscheinungsformen der Botnetzkriminalit&#228;t wirkungsvoll zu bek&#228;mpfen. Die
+Anforderungen, die die Normen an die Strafjustiz stellen, sind f&#252;r das Tatgericht kaum zu erf&#252;llen. Dieses ist nach 
+derzeitiger Rechtslage gehalten, nicht nur die Wirkungsweise der Zugangssicherung der Gesch&#228;digten im
+Einzelnen zumindest exemplarisch darzulegen, sondern auch die Ver&#228;nderungen, die die Schadsoftware auf dem
+Opfersystem vorgenommen hat. Dies setzt voraus, dass solche Feststellungen &#252;berhaupt m&#246;glich sind. Verwenden die 
+T&#228;ter jedoch eine Schadsoftware, die sich nach ihrem Einsatz selbstt&#228;tig l&#246;scht, fehlt es an dieser M&#246;glichkeit. 
+Die Notwendigkeit f&#252;r das Tatgericht, im Urteil zumindest exemplarisch detailliert darzulegen, welche technische 
+Funktionsweise die Zugangssicherung der Opfersysteme in tats&#228;chlicher Hinsicht jeweils hatte, bringt f&#252;r die 
+Besitzer der infiltrierten IT-Systeme erhebliche Belastungen mit sich. Die informationstechnische Funktionsweise 
+der Zugangssicherung kann durch Zeugenbeweis der Berechtigten kaum in die Hauptverhandlung eingef&#252;hrt
+werden, da die meisten Opfer Laien sind und h&#228;ufig selbst nicht wissen, ob und wie ihr System zum Tatzeitpunkt in 
+technischer Hinsicht gesch&#252;tzt war. Dies gilt besonders bei infiltrierten Mobiltelefonen.  
+Das wiederum bedeutet, dass zuk&#252;nftig die Opfersysteme im Ermittlungsverfahren durch Sachverst&#228;ndige IT-
+forensisch zu untersuchen sind, um es dem Gericht sp&#228;ter zu erm&#246;glichen, in den Feststellungen deskriptiv die 
+konkreten tats&#228;chlichen und technischen Umst&#228;nde des Zugangsschutzes darzulegen. Den Opfern der Infiltration 
+entstehen neben dem Verlust von Daten und ihrer Privatheit aufgrund des T&#228;terhandelns zus&#228;tzliche zeitliche 
+Einbu&#223;en und Unannehmlichkeiten, weil sie den Sachverst&#228;ndigen der Staatsanwaltschaft (i. d. R. besonders
+ausgebildete Polizeibeamte) eine Datenspiegelung erm&#246;glichen m&#252;ssen. Eine derartige Spiegelung des IT-Systems 
+bedeutet zwingend, dass h&#246;chstpers&#246;nliche Daten, auch aus dem Kernbereich, der Opfer ausgeh&#228;ndigt werden 
+m&#252;ssen. Auch wenn dies keine datenschutzrechtlichen Bedenken in sich birgt, da es sich um einen staatlichen 
+Zugriff handelt, d&#252;rfte es aus Opfersicht gleichwohl zu einem Gef&#252;hl des &#220;berwachtseins f&#252;hren. 
+Unter der Geltung des neuen &#167; 202e StGB hingegen stellen sich keine derartigen Probleme mehr. Die Tatsache 
+des unbefugten Benutzens der Opfersysteme wird sich regelm&#228;&#223;ig durch die Auswertung der T&#228;terinfrastruktur 
+und unter Einschaltung der Internetzugangsprovider anhand der IP-Adressen der Bots nachweisen lassen. Auf 
+technische Zuf&#228;lligkeiten kommt es nicht mehr an. Eine detaillierte Darstellung der technischen Einzelheiten der 
+Infiltration im Ermittlungsverfahren, in der Anklageschrift und im Urteil ist nicht mehr notwendig. Dies f&#252;hrt zu
+einer erheblichen Verfahrensbeschleunigung und zu einer Verk&#252;rzung der Auswertezeiten, ohne zu Lasten der 
+Rechtssicherheit zu gehen. 
+Soweit die EU-Richtlinie 2013/40/EU vom 12. August 2013 &#252;ber Angriffe auf Informationssysteme die von
+Botnetzen ausgehenden Gefahren thematisiert, d&#252;rfte formal kein Umsetzungsbedarf bestehen, da das
+Strafgesetzbuch, wie dargelegt, entsprechende Tatbest&#228;nde enth&#228;lt. Allerdings greifen diese Normen nicht l&#252;ckenlos, um die 
+in der Richtlinie beschriebene Bedrohung wirksam zu bek&#228;mpfen: 
+&#8222;(&#8230;) Es besteht eine Tendenz zu immer gef&#228;hrlicheren und h&#228;ufigeren Gro&#223;angriffen auf Informationssysteme, 
+die f&#252;r den Mitgliedstaat oder f&#252;r bestimmte Funktionen im &#246;ffentlichen oder privaten Sektor oft unverzichtbar 
+sein k&#246;nnen. Diese Tendenz geht einher mit der Entwicklung immer ausgefeilterer Methoden, wie etwa der
+Schaffung und Verwendung von sogenannten Botnetzen, bei denen die kriminelle Handlung in verschiedenen Stufen 
+erfolgt, wobei jede Stufe f&#252;r sich eine ernsthafte Gefahr f&#252;r die &#246;ffentlichen Interessen darstellen k&#246;nnte. Diese 
+Richtlinie zielt unter anderem darauf ab, Strafen hinsichtlich der Schaffung der Botnetze einzuf&#252;hren, n&#228;mlich 
+f&#252;r die Einrichtung einer ferngesteuerten Kontrolle &#252;ber eine bedeutende Anzahl von Computern, indem diese 
+durch gezielte Cyberangriffe mit Schadsoftware infiziert werden. Sobald es eingerichtet ist, kann das infizierte 
+Netz von Computern, die das Botnetz bilden, ohne Wissen der Computerbenutzer aktiviert werden, um einen breit 
+angelegten Cyberangriff zu starten, der in der Regel erheblichen Schaden anrichten kann (&#8230;)&#8220;. 
+Pr&#228;zise Fallzahlen in diesem Kriminalit&#228;tsbereich liegen nicht vor. Es ist von einem gro&#223;en Dunkelfeld
+auszugehen, da die Gesch&#228;digten in aller Regel nicht wissen, dass ihre Rechner infiziert und ferngesteuert werden. Nur 
+dann, wenn es zu einem missbr&#228;uchlichen Einsatz von ausgesp&#228;hten Daten kommt, erfolgt unter Umst&#228;nden eine 
+Mitteilung an die Strafverfolgungsbeh&#246;rden. 
+Die Erkenntnisse der nationalen und internationalen Strafverfolgungsorgane und Cybersicherheitszentren sowie 
+diejenigen von IT-Wissenschaftlern belegen aber, dass die Fallzahlen und die daraus resultierenden Sch&#228;den
+deutlich steigen. In der ersten Jahresh&#228;lfte 2015 wurden von Sicherheitsforschern t&#228;glich bis zu 60 000 Infektionen 
+deutscher Systeme registriert.10 Die polizeiliche Kriminalstatistik verzeichnet seit Jahren steigende Fallzahlen im 
+Bereich der Delikte gegen die Integrit&#228;t, Vertraulichkeit und Verf&#252;gbarkeit informationstechnischer Systeme und 
+Daten.  
+Eine Momentaufnahme der Dimension des Problems gibt das Auffinden der 14 Millionen Opferdatens&#228;tze im 
+Jahre 2014. 
+Weitere verl&#228;ssliche Angaben &#252;ber die Anzahl der infiltrierten Opfersysteme lassen sich aus der Analyse gro&#223;er 
+Botnetze gewinnen. 
+Bereits im Jahr 2011 wurde der j&#228;hrliche, weltweit von f&#252;r Botnetze verantwortlicher Schadsoftware verursachte 
+Schaden in einer Studie, die das Fraunhofer-Institut f&#252;r Kommunikation, Informationsverarbeitung und
+Ergonomie (FKIE) im Auftrag der Europ&#228;ischen Agentur f&#252;r Netz- und Informationssicherheit (ENISA) erstellt hat, auf 
+rund zehn Milliarden US Dollar gesch&#228;tzt. 
+Den Medien sind f&#252;r Deutschland Schadenssummen von 3,4 Milliarden Euro (DIW f&#252;r 2014), &#252;ber 54 Milliarden 
+(Wirtschaftsberatungsgesellschaft KPMG f&#252;r 2013/2014) bis hin zu 102 Milliarden Euro (Bitkom f&#252;r 2013/2014) 
+zu entnehmen. Aus Kreisen der Telekommunikationsprovider wird die Bandbreitennutzung des Internets durch 
+Bot-Netze mit 80 Prozent beziffert. Auch hier d&#252;rfte von sehr hohen Schadenssummen auszugehen sein. 
+Laut Angaben eines US-amerikanischen IT-Sicherheitsdienstleisters aus dem Jahr 2013 habe das Botnetz
+&#8222;Chameleon&#8220; ab 2012 beispielsweise einen Schaden von rund sechs Millionen USD im Monat f&#252;r die Werbebranche 
+verursacht. &#220;ber dieses Botnetz verbreitete Schadsoftware habe automatisiert Klicks auf Werbebanner simuliert, 
+wobei f&#252;r jeden Klick eine entsprechende Verg&#252;tung f&#252;r den Internetdienstleister festgelegt war. Von 14
+Milliarden Klicks auf ausgew&#228;hlten Webseiten seien neun Milliarden auf dieses Bot-Netz zur&#252;ckzuf&#252;hren.  
+Allein der Schaden, der f&#252;r Internet-Werbetreibende durch das ZeroAccess-Bot-Netz verursacht worden sein soll, 
+wurde Ende 2013 auf rund 2,7 Millionen US-Dollar monatlich beziffert.  
+In den Jahren 2010 bis 2013 ermittelte die hessische Zentralstelle zur Bek&#228;mpfung der Internetkriminalit&#228;t
+gemeinsam mit dem BKA in einem bundesweiten Verfahrenskomplex wegen einer Vielzahl von Erpressungen von 
+10 Vgl. Bundesamt f&#252;r Sicherheit in der Informationstechnik, Die Lage der IT-Sicherheit in Deutschland 2015, S. 30
+Online-Shops mittels DDos-Attacken. Es konnten nach intensiven Ermittlungen f&#252;nf Beschuldigte identifiziert 
+und vor Gericht gestellt werden, die in unterschiedlicher Zusammensetzung f&#252;r die Erpressungen verantwortlich 
+waren. Insgesamt konnten 40 F&#228;lle aufgekl&#228;rt werden, in denen Betreiber von Webshops mit DDoS-Attacken 
+bedroht oder tats&#228;chlich angegriffen wurden. Die von den gesch&#228;digten Unternehmen auf die DDoS-Angriffe 
+zur&#252;ckzuf&#252;hrenden, gesch&#228;tzten Umsatzeinbu&#223;en beliefen sich zusammen auf Betr&#228;ge im mittleren sechsstelligen 
+Bereich. Ein Unternehmen aus Hessen erlitt ein Schaden in H&#246;he von ca. 65 000 Euro. 
+Das Bundesamt f&#252;r die Sicherheit in der Informationstechnologie geht in seinem Bericht &#8222;Die Lage der IT-
+Sicherheit in Deutschland 2015&#8220; davon aus, dass die Bedrohungslage durch Botnetze im Vergleich zum Vorjahr 
+weiterhin kritisch und tendenziell steigend ist.  
+Eine Ver&#228;nderung oder Anpassung der Regelungen der &#167;&#167; 202a, 303a, 303b StGB ist zur L&#246;sung des Problems 
+nicht geeignet, da diese Normen andere Rechtsg&#252;ter als die Vertraulichkeit, die Integrit&#228;t und das ausschlie&#223;liche 
+Gebrauchsrecht an informationstechnischen Systemen sch&#252;tzen. Botnetzaktivit&#228;ten wie das Versenden von Spam 
+oder das Generieren von Bitcoins greifen nicht zwingend in das Interesse des Verf&#252;gungsberechtigten an der 
+unversehrten Verwendbarkeit von Daten oder in das Interesse der Betreiber und Nutzer am st&#246;rungsfreien
+Funktionieren ihrer Datenverarbeitung ein. Auch werden Daten nicht zwingend ausgesp&#228;ht. Dies rechtfertigt es, die 
+genannten Regelungen des StGB unver&#228;ndert neben der neuen Strafnorm des &#167; 202e StGB bestehen zu lassen. 
+II. Gesetzgebungskompetenz 
+Die Gesetzgebungskompetenz des Bundes folgt aus Artikel 74 Absatz 1 Nummer 1 des Grundgesetzes. 
+III. Auswirkungen 
+Durch die Einf&#252;hrung eines neuen Straftatbestands kann mehr Aufwand bei den Strafverfolgungsbeh&#246;rden
+entstehen, dessen Umfang im gegenw&#228;rtigen Zeitpunkt nicht hinreichend genau absch&#228;tzbar ist. Im &#220;brigen wird 
+das Vorhaben Bund, L&#228;nder, Gemeinden, die Wirtschaft und die B&#252;rger nicht mit Mehrkosten belasten. Da sich 
+der Gesetzentwurf auf &#196;nderungen und Erg&#228;nzungen von Strafvorschriften beschr&#228;nkt, sind Auswirkungen auf 
+das Preisniveau, insbesondere auf das Verbraucherpreisniveau, die Umwelt oder Auswirkungen von
+gleichstellungspolitischer Bedeutung nicht zu erwarten. 
+B. Besonderer Teil 
+Zu Artikel 1 (&#196;nderung des Strafgesetzbuches) 
+Zu Nummer 1 (Inhalts&#252;bersicht zu &#167; 202e StGB) 
+Es handelt sich um eine redaktionelle Folge&#228;nderung im Hinblick auf die Einf&#252;gung des &#167; 202e StGB-E
+(Nummer 2). 
+Zu Nummer 2 (&#167; 202e &#8211; neu &#8211; StGB) 
+Die vorgeschlagene Regelung soll als neuer &#167; 202e StGB in den F&#252;nfzehnten Abschnitt (Verletzung des
+pers&#246;nlichen Lebens- und Geheimbereichs) des Besonderen Teils des Strafgesetzbuches eingef&#252;gt werden. F&#252;r eine 
+systematische Regelung an dieser Stelle spricht, dass das gesch&#252;tzte Rechtsgut der Gew&#228;hrleistung der
+Vertraulichkeit und Integrit&#228;t informationstechnischer Systeme dem pers&#246;nlichen Lebens- und Geheimbereich
+zuzuordnen ist. 
+Zu Absatz 1 
+Das Merkmal der Unbefugtheit als allgemeines Rechtfertigungselement entspricht dem in &#167; 201 verwendeten
+Begriff. Es stellt klar, dass eine Strafbarkeit bei wirksamer ausdr&#252;cklicher oder konkludenter Einwilligung
+ausgeschlossen ist. Dadurch ist es z. B. nicht strafbar, wenn Betreiber von Internetseiten Cookies11 verwenden und 
+darauf, wie es datenschutzrechtlich geboten und &#252;blich ist, hinweisen. Auch das Aufspielen von Softwareupdates 
+o. &#228;. ist hierdurch von Strafbarkeit ausgenommen, ebenso wie z. B. das Aufsp&#252;ren von Sicherheitsl&#252;cken im EDV-
+System eines Unternehmens, soweit der &#8222;Hacker&#8220; vom Inhaber des Unternehmens mit dieser Aufgabe betraut 
+wurde. Auch sonst sozialad&#228;quate Handlungen sind nicht &#8222;unbefugt&#8220; im Sinne von &#167; 202e StGB-E (zur
+Sozialad&#228;quanz bei anderen Delikten im 15. Abschnitt vgl. Fischer, StGB, 63. Auflage, Erl&#228;uterungen zu &#167; 201).  
+Durchaus erfasst sind hingegen beispielsweise Applikationen (Apps) f&#252;r Endger&#228;te, die einen gr&#246;&#223;eren
+Funktionsumfang haben als in der jeweiligen Beschreibung oder Datenschutzerkl&#228;rung angegeben, bei deren Installation 
+die Nutzer mithin bewusst &#252;ber die einger&#228;umten Zugriffsrechte get&#228;uscht werden.  
+&#167; 202e StGB-E hat erf&#252;llt insoweit auch einen bedeutenden Zweck im Zivilrecht, indem die Funktion eines 
+Schutzgesetzes im Sinne von &#167; 823 Absatz 2 BGB eingenommen und damit auch zivilrechtlich ein besserer
+Verbraucherschutz erreicht wird. 
+Auf die Beschr&#228;nkung des Tatbestandes auf &#8222;fremde&#8220; informationstechnische Systeme wurde bewusst verzichtet, 
+um auch F&#228;lle zu erfassen, in denen z. B. ein Arbeitnehmer ein mobiles IT-System des Arbeitgebers zur alleinigen 
+Benutzung erh&#228;lt und der Arbeitgeber dieses heimlich infiltriert hat, um unbefugt in den pers&#246;nlichen Lebens- 
+und Geheimbereich des Arbeitnehmers einzudringen. Auch sollen z. B. Hotelg&#228;ste bei der Benutzung f&#252;r sie 
+fremder IT-Systeme vor Infiltration der von ihnen verarbeiteten Informationen durch den Eigent&#252;mer des Systems 
+gesch&#252;tzt werden. 
+Die Anwendungspraxis des seit 1953 geltenden &#167; 248b StGB zeigt, dass grunds&#228;tzliche Probleme durch die
+Einf&#252;hrung eines weiteren Falles des strafbewehrten Verbots der unbefugten Benutzung von Sachen in das
+Strafgesetzbuch nicht zu erwarten sind.  
+Das informationstechnische System ist in Absatz 6 legaldefiniert. Es sollen nur solche Ger&#228;te, Anlagen etc.
+gesch&#252;tzt sein, die objektiv eine besondere Bedeutung f&#252;r den Berechtigten haben oder deren Fremdnutzung
+besonders gef&#228;hrdungsintensiv ist und die damit in herausgehobener Weise schutzw&#252;rdig sind. Damit sind z. B. nicht 
+vernetzte elektronische Unterhaltungsger&#228;te, Spielzeug oder Taschenrechner aus dem Tatbestand ausgeklammert. 
+Zugleich stellt die Bagatellklausel des Absatzes 1 Satz 2 eine mit derjenigen des &#167; 201 StGB inhaltsgleiche
+Tatbestandseinschr&#228;nkung dar. Nach dieser ist die Tathandlung nur strafbar, wenn sie geeignet ist, berechtigte
+Interessen eines anderen zu beeintr&#228;chtigen. Ob es sich dabei um materielle oder ideelle, private oder &#246;ffentliche 
+Interessen handelt, ist gleichg&#252;ltig, sofern sie nur vom Recht als schutzw&#252;rdig anerkannt sind oder diesem
+jedenfalls nicht zuwiderlaufen. Dass der Betroffene tats&#228;chlich in seinen Interessen beeintr&#228;chtigt wird, ist nicht
+erforderlich; vielmehr gen&#252;gt es schon, dass die Tat dazu geeignet ist.  
+Durchgreifende verfassungsrechtliche Bedenken gegen die Bagatellklausel unter dem Aspekt des
+Bestimmtheitsgrundsatzes (Artikel 103 Absatz 2 des Grundgesetzes) bestehen nicht. Sie ist in &#167; 201 StGB in derselben
+Formulierung wie in &#167; 202e StGB-E unver&#228;ndert in Kraft seit dem 26. August 1990. Obwohl das BVerfG sich bereits 
+im Jahr 2010 mit &#167; 201 StGB befasst hat, wurde die Bagatellklausel nicht beanstandet.12
+Ein Datenverarbeitungsvorgang (DV-Vorgang) ist ein Arbeitsablauf, der durch eine elektronische Verarbeitung 
+zu einem konkreten Ergebnis f&#252;hrt.13 Auf Grund bestimmter Eingabedaten (Input) muss mit dem im Computer 
+gespeicherten Programm &#8211; ggf. erg&#228;nzt durch weitere Eingaben zur Steuerung &#8211; ein Arbeitsergebnis erzielt und 
+ausgegeben werden (Output). 
+Da auch elektronisch fernzusteuernde Anlagen und Einrichtungen gesch&#252;tzt werden sollen, auf denen selbst keine 
+DV-Vorg&#228;nge im vorbeschriebenen juristischen Sinne ablaufen (z. B. ein fernwartbares Schleusentor, das durch 
+einen schlichten &#214;ffnen/Schlie&#223;en-Befehl reagiert, ohne dass dazu ein Computerprogramm abl&#228;uft), wurde
+zus&#228;tzlich der Begriff des informationstechnischen Ablaufs aufgenommen. Nach der Legaldefinition des &#167; 2 des 
+Gesetzes &#252;ber das Bundesamt f&#252;r Sicherheit in der Informationstechnik (BSI-Gesetz) ist damit jede Verarbeitung 
+11 Ein Cookie (engl. "Keks") ist eine Textinformation, die eine besuchte Website (hier "Server") &#252;ber den Browser im Rechner des Betrachters 
+("Client") platziert. Der Client sendet die Cookie-Information bei sp&#228;teren, neuen Besuchen dieser Seite mit jeder Anforderung wieder an den 
+Server. 
+12 Vgl. BVerfG NJW 2011, 1863 
+13 Vgl. Lenckner/Winkelbauer CR 1986, 654, 658 f; Fischer, StGB, &#167; 263a Rn 3.
+oder &#220;bertragung von Informationen durch technische Mittel gemeint. Dies ist weitergehend als der Begriff des 
+DV-Vorgangs. Es soll sichergestellt werden, dass der strafrechtliche Schutz von Automatisierungs-,
+Prozesssteuerungs- und Prozessleitsystemen (Industrial Control Systems, ICS) gew&#228;hrleistet wird, um den Rechtsrahmen f&#252;r 
+Industrie 4.0 zu verbessern. 
+Aus diesem Grunde erstreckt sich der Schutzbereich von &#167; 202e StGB-E nicht lediglich auf
+Datenverarbeitungsanlagen oder Datenverarbeitungen wie &#167;&#167; 303a StGB oder 303b StGB, sondern geht dar&#252;ber hinaus. 
+&#8222;Zugang&#8220; ist die M&#246;glichkeit, ohne weitere Zwischenschritte einen IT-Vorgang auszul&#246;sen oder zu beeinflussen. 
+Gemeint ist damit sowohl der physische, unmittelbare Zugriff als auch derjenige &#252;ber Datenleitungen. Der Zugang 
+ist erlangt, wenn das System infiltriert, also eine etwaige Sperre &#252;berwunden und der T&#228;ter in der Lage ist,
+Eingaben unmittelbar vorzunehmen. 
+Es wird nicht verkannt, dass die Regelung des Absatzes 1 einen weiten Anwendungsbereich hat. Die
+Bagatellklausel sorgt jedoch daf&#252;r, dass nicht strafw&#252;rdige F&#228;lle von dem Tatbestand zuverl&#228;ssig ausgeschlossen werden. 
+Ferner sorgt die Begrenzung auf bestimmte IT-Systeme in Absatz 6 daf&#252;r, dass nicht schutzw&#252;rdige Systeme wie 
+z. B. eine Modelleisenbahn von der Norm nicht erfasst werden.  
+Die Anwendungspraxis des geltenden Rechts hat gezeigt, dass jede weitergehende Einschr&#228;nkung des
+Tatbestandes dazu f&#252;hrt, dass ein hinreichender strafrechtlicher Schutz des Grundrechts auf Gew&#228;hrleistung der
+Vertraulichkeit und Integrit&#228;t informationstechnischer Systeme nicht erreicht werden kann. Die mangelnde Effektivit&#228;t 
+der geltenden Normen l&#228;sst sich durch die trotz der hohen Zahl betroffener Opfer auff&#228;llig niedrigen
+Verurteilungszahlen14 empirisch belegen. 
+Die Verh&#228;ngung von Strafe als Ultima Ratio des Staates zur Verh&#252;tung von Sozialsch&#228;den ist dann nicht am 
+Platze, wenn das Opfer keinen Schutz verdient und keines Schutzes bedarf, weil es von ohne weiteres verf&#252;gbaren 
+Selbstschutzm&#246;glichkeiten ohne triftigen Grund keinen Gebrauch gemacht hat. Genau diese
+Selbstschutzm&#246;glichkeit besteht heutzutage angesichts der Komplexit&#228;t von IT-Systemen einerseits und derjenigen von
+Schadsoftware andererseits eben nicht mehr.15
+Zu Absatz 2 
+Absatz 2 enth&#228;lt eine h&#246;here Strafdrohung f&#252;r gef&#228;hrdungsintensivere Begehungsweisen. 
+Zu Absatz 3 
+Die Strafzumessungsvorschriften des Absatzes 3 finden sich in &#228;hnlicher Weise z. B. in &#167; 263 Absatz 3 StGB. 
+Nummer 3 ist eine deliktsspezifische Regelung, die dem Umstand Rechnung tr&#228;gt, dass Industrie- oder &#228;hnlich 
+bedeutsame Anlagen heutzutage vielfach &#252;ber Internet angreifbar sind.  
+Zu Absatz 4 
+Absatz 4 enth&#228;lt eine Qualifikation, da die auch im BSI-Gesetz legaldefinierten Kritischen Infrastrukturen eines 
+besonders intensiven strafrechtlichen Schutzes bed&#252;rfen. 
+Zu Absatz 5 
+Die Versuchsstrafbarkeit ist notwendig, um z. B. beim Einsatz nicht offen ermittelnder Polizeibeamter oder
+verdeckter Ermittler dennoch zu einer Strafbarkeit des T&#228;ters zu gelangen. Der Einsatz von derartigen
+Ermittlungsmethoden ist bei Internetermittlungen von hoher praktischer Relevanz. In solchen F&#228;llen wird jedoch h&#228;ufig ein 
+untauglicher Versuch gegeben sein. Die Legitimationsgrundlage f&#252;r die Strafbarkeit des untauglichen Versuchs 
+liegt in der durch das Ansetzen zur Tat, also einer objektiven Bet&#228;tigung, zum Ausdruck kommenden Missachtung 
+des Normbefehls als Rechtsfriedensst&#246;rung. 
+14 Vgl. Strafverfolgungsstatistik 2013 (Statistisches Bundesamt, Fachserie 10, Reihe 3): 30 Verurteilungen wegen &#167; 202a StGB, 32 wegen &#167; 303a 
+StGB und 26 wegen &#167; 303b StGB 
+15 Vgl. BVerfG a.a.O.
+Zu Absatz 6 
+Wie bereits oben dargelegt, sollen bestimmte, nicht schutzw&#252;rdige IT-Systeme vom Tatbestand ausgenommen 
+werden. Die Eignung zur Verarbeitung personenbezogener Daten und die Nutzung als Steuerungskomponente f&#252;r 
+bestimmte Anwendungen begr&#252;nden die Schutzw&#252;rdigkeit des Systems.  
+Der Begriff der &#8222;Kritischen Infrastruktur&#8220; ist mit demjenigen in &#167; 2 Absatz 10 BSIG identisch. Eine kritische 
+Infrastruktur im Sinne des &#167; 202e StGB-E kann daher nur eine solche sein, die die Kriterien der Verordnung zur 
+Bestimmung Kritischer Infrastrukturen nach dem BSI-Gesetz vom 22. April 2016 (BGBl. I 2016, 958) erf&#252;llt, 
+also z. B. eine Anlage, von deren Versorgungsleistung jeweils 500 000 oder mehr B&#252;rger abh&#228;ngig sind. 
+Zu Absatz 7 
+Durch diese Regelung soll die Strafverfolgung bei F&#228;llen im N&#228;hebereich begrenzt werden, um bestimmte
+pers&#246;nliche Beziehungen durch Eingreifen von Amts wegen nicht zu st&#246;ren. 
+Zu Nummer 3 (&#167; 205 Absatz 1 Satz 2 StGB) 
+Angesichts des im Einzelfall unter Umst&#228;nden geringeren Unwertgehalts von Taten nach den Abs&#228;tzen 1 und 2 
+ist &#167; 202e StGB-E in den Kreis der relativen Antragsdelikte nach &#167; 205 Absatz 1 Satz 2 StGB aufzunehmen. Ein 
+Einschreiten von Amts wegen bei besonderem &#246;ffentlichen Interesse an der Strafverfolgung soll erm&#246;glicht
+werden. 
+Zu Artikel 2 (&#167; 374 Absatz 1 Nummer 3a StPO) 
+Es handelt sich um eine Folge&#228;nderung der Strafprozessordnung. Aufgrund seiner N&#228;he zu anderen in &#167; 374
+Absatz 1 StPO genannten Delikten, die dem Schutz h&#246;chstpers&#246;nlicher Rechtsg&#252;ter dienen, soll auch &#167; 202e StGB-
+E in den Kreis der Privatklagedelikte aufgenommen werden. Wie die in &#167; 374 Absatz 1 StPO genannten Vergehen 
+kann eine unbefugte Benutzung eines IT-Systems, ein digitaler Hausfriedensbruch, in den F&#228;llen der Abs&#228;tze 1 
+und 2 die Allgemeinheit mitunter so wenig ber&#252;hren, dass kein &#246;ffentliches Interesse an der Strafverfolgung
+besteht. In Durchbrechung des Offizialprinzips soll in einem solchen Fall ausnahmsweise der Verletzte bzw. dessen 
+gesetzlicher Vertreter oder ein sonstiger Strafantragsberechtigter die Strafverfolgung als Privatkl&#228;ger selbst
+betreiben d&#252;rfen.  
+Mit der Ausgestaltung der Abs&#228;tze 1 und 2 als Privatklagedelikt soll der Notwendigkeit Rechnung getragen
+werden, einer &#220;berlastung der Strafverfolgungsbeh&#246;rden durch Bagatellf&#228;lle vorzubeugen. 
+Ein Wertungswiderspruch zu den erh&#246;hten Mindeststrafen der Abs&#228;tze 3 und 4 ist hierin nicht zu sehen, weil der 
+Unwertgehalt der Grundkonstellationen in den ersten beiden Abs&#228;tzen sich erheblich vom Unwertgehalt der
+Qualifikation und besonders schweren F&#228;lle unterscheidet. 
+Zu Artikel 3 (Inkrafttreten) 
+Die Vorschrift regelt das Inkrafttreten. Das Gesetz soll am Tag nach der Verk&#252;ndung in Kraft treten.
+Anlage 2 
+Stellungnahme der Bundesregierung 
+Die Bundesregierung nimmt zu dem Gesetzentwurf des Bundesrates wie folgt Stellung: 
+Die Bundesregierung teilt die Auffassung des Bundesrates, dass Botnetz-Kriminalit&#228;t auch mit den Mitteln des 
+Strafrechts bek&#228;mpft werden muss. Sie wird angesichts neuerer Entwicklungen im Bereich der Botnetz-
+Kriminalit&#228;t im weiteren Verfahren pr&#252;fen, inwieweit gesetzgeberischer Handlungsbedarf besteht und gegebenenfalls
+einen eigenen Gesetzentwurf vorlegen. 
+Satz: Satzweiss.com Print, Web, Software GmbH, Mainzer Stra&#223;e 116, 66121 Saarbr&#252;cken, www.satzweiss.com
+Druck: Printsystem GmbH, Schafw&#228;sche 1-3, 71296 Heimsheim, www.printsystem.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de 
+ISSN 0722-8333]</text>
+    <titel>Entwurf eines ... Strafrechts&#228;nderungsgesetzes - Strafbarkeit der unbefugten Benutzung informationstechnischer Systeme - Digitaler Hausfriedensbruch</titel>
+    <datum>2018-04-18</datum>
+  </document>
+  

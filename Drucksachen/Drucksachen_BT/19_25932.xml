@@ -1,0 +1,585 @@
+<document>
+    <id>249356</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/25932</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>9305556a608741c853b2e3ad2a1f0a48</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>271283</id>
+      <titel>Umsetzungstand der Digitalisierung im Themenfeld Bildung nach dem Onlinezugangsgesetz</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium f&#252;r Bildung und Forschung</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/259/1925932.pdf</pdf_url>
+      <id>249356</id>
+      <dokumentnummer>19/25932</dokumentnummer>
+      <datum>2021-01-15</datum>
+      <verteildatum>2021-01-22</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Antwort
+der Bundesregierung
+auf die Kleine Anfrage der Abgeordneten Dr. Jens Brandenburg (Rhein-Neckar), 
+Katja Suding, Mario Brandenburg (S&#252;dpfalz), weiterer Abgeordneter und der 
+Fraktion der FDP
+&#8211; Drucksache 19/25236 &#8211;
+Umsetzungstand der Digitalisierung im Themenfeld Bildung nach dem
+Onlinezugangsgesetz
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Das am 14. August 2017 beschlossene Onlinezugangsgesetz (OZG)
+verpflichtet Bund, L&#228;nder und Kommunen, bis 2022 alle Verwaltungsdienstleistungen 
+zu digitalisieren. Dabei umfasst das OZG 575 Verwaltungsdienstleistungen, 
+die zu digitalisieren sind. Die OZG-Leistungen sind in 35 Lebens- und 17
+Unternehmenslagen geb&#252;ndelt und 14 &#252;bergeordneten Themenfeldern zugeordnet 
+(https://www.bmi.bund.de/DE/themen/moderne-verwaltung/verwaltungsmode
+rnisierung/onlinezugangsgesetz/onlinezugangsgesetz-node.html). Eines davon 
+ist das Themenfeld Bildung, welchem die Lebenslagen &#8222;Schule&#8220;, &#8222;Studium&#8220;, 
+&#8222;Berufsausbildung&#8220; und &#8222;Weiterbildung&#8220; angeh&#246;ren. Insgesamt umfasst das 
+Themenfeld Bildung etwa 30 OZG-Leistungen. Neben dem
+Bundesministerium f&#252;r Bildung und Forschung (BMBF) ist das Land Sachsen-Anhalt f&#252;r
+dieses Themenfeld federf&#252;hrend (https://www.onlinezugangsgesetz.de/Webs/OZ
+G/DE/umsetzung/themenfelder/bildung/bildung-node.html).
+Bisher sind mit dem &#8222;BAf&#246;G Digital&#8220; und einer Online-Plattform f&#252;r
+bundeseinheitlich abrufbare Schulzeugnisse zwei Schwerpunktlabore im Themenfeld 
+Bildung gesetzt worden. Das &#8222;BAf&#246;G Digital&#8220; wurde am 26. Oktober 2020 
+vom BMBF und dem Land Sachsen-Anhalt vorgestellt und befindet sich nun 
+in einer sechsmonatigen Pilotphase, an der sich f&#252;nf L&#228;nder beteiligen (https://
+www.bmbf.de/de/neuer-online-antrag-wird-zugang-zum-bafoeg-erleichtern-12
+863.html).
+&#220;ber das Konjunkturpaket des Bundes wurden im Juni 2020 zus&#228;tzlich 3 Mrd. 
+Euro f&#252;r das OZG zur Verf&#252;gung gestellt (https://www.bundesfinanzministeri
+um.de/Content/DE/Standardartikel/Themen/Schlaglichter/Konjunkturpaket/20
+20-06-03-eckpunktepapier.pdf?__blob=publicationFile, S. 11).
+Deutscher Bundestag Drucksache 19/25932
+19. Wahlperiode 15.01.2021
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums f&#252;r Bildung und Forschung
+vom 14. Januar 2021 &#252;bermittelt.
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext.
+&#8199;1. Welche Zielsetzungen und Schwerpunkte verfolgt die Bundesregierung 
+jeweils bei den 30 OZG-Leistungen im Themenfeld Bildung (bitte
+jeweils f&#252;r die einzelnen Ma&#223;nahmen erl&#228;utern)?
+F&#252;r die Umsetzung des Onlinezugangsgesetzes (OZG) hat der IT-Planungsrat in 
+seiner Entscheidung 2018/22 die Nutzerorientierung als
+themenfeld&#252;bergreifendes Ziel angesetzt. Ihrer Realisierung wird in der Umsetzung durch
+Orientierung an den Prinzipien von &#8222;User Experience&#8220; (Ausrichtung an den
+Erfahrungen von Nutzenden mit Blick auf Leistungsdesign und -Infrastruktur),
+&#8222;Lebenslagenorientierung&#8220; (Gesamtbetrachtung der Lebenslagen der Nutzenden), &#8222;One 
+Stop&#8220; (B&#252;ndelung der beh&#246;rdlichen Interaktion f&#252;r die Nutzenden an einem 
+Kontaktpunkt) und &#8222;Once Only&#8220; (Einfacheingabe von Daten, Einfachvorlage 
+von Nachweisen) entsprochen. Auch der Servicestandard mit seinen 19
+Qualit&#228;tsprinzipien tr&#228;gt zur systematischen Implementierung dieser Prinzipien bei 
+der Umsetzung der einzelnen OZG-Leistungen bei.
+Insgesamt gibt es im Themenfeld Bildung 27 OZG-Leistungen, denen
+gegenw&#228;rtig 313 Leistungen aus dem Leistungskatalog (sogenannte LeiKa-
+Leistungen, d. h. Verrichtungen an Verwaltungsobjekten, also Verwaltungsleistungen) 
+zugeordnet sind. Die Details der Leistungsbeschreibungen der einzelnen OZG-
+Leistungen mit ihren jeweiligen Schwerpunkten sind der &#214;ffentlichkeit nach 
+Registrierung auf der OZG-Informationsplattform zug&#228;nglich. Hier finden sich 
+auch Informationen zu den einer OZG-Leistung zugeh&#246;rigen LeiKa-Leistungen 
+unter dem Reiter &#8222;OZG-Leistung&#8220;.
+Die Zuordnung der LeiKa-Leistungen zu OZG-Leistungen stellt eine erste 
+Form der thematischen B&#252;ndelung dar. Im Digitalisierungsprogramm F&#246;deral, 
+innerhalb dessen sich Bund, L&#228;nder und Kommunen die Verantwortung f&#252;r 
+Rechtsetzung und Umsetzung teilen, sind eine oder mehrere OZG-Leistungen 
+wiederum thematischen Umsetzungsprojekten zugeordnet. In ihrer Gesamtheit 
+spiegeln diese Umsetzungsprojekte die Breite der thematischen Schwerpunkte 
+im Themenfeld wider.
+Im f&#246;deralen Bestandteil des Themenfelds Bildung sind dies die nachfolgenden 
+neun Umsetzungsprojekte sowie die aktuell darin enthaltenen 20 OZG-
+Leistungen (mit Angabe der OZG-ID):
+1. BAf&#246;G: &#8222;BAf&#246;G&#8220; (10056)
+2. Anerkennung ausl&#228;ndischer Berufsqualifikationen: &#8222;Anerkennung
+ausl&#228;ndischer Berufsqualifikationen&#8220; (10578)
+3. Schulpr&#252;fung und Schulzeugnis: &#8222;Schulpr&#252;fung und Schulzeugnis&#8220; (10044)
+4. F&#246;rderleistungen: &#8222;Aufstiegsfortbildungsf&#246;rderung&#8220; (10064),
+&#8222;Begr&#252;&#223;ungsgeld&#8220; (10057), &#8222;Begr&#252;&#223;ungsgutschein und Weiterbildungsf&#246;rderung&#8220; 
+(10067)
+5. Digitale Nachweise und Berechtigungen auf der Hochschuljourney:
+&#8222;Anerkennung von Bildungsabschl&#252;ssen&#8220; (10055), &#8222;Bibliotheks- und
+Archivangebote&#8220; (10058), &#8222;Hochschulzulassung, -studium, -pr&#252;fung, -zeugnis&#8220; 
+(10060), &#8222;Studienplatzvergabe&#8220; (10061)
+6. Schulbesuch: &#8222;Aufnahme in eine berufsbildende Schule&#8220; (10037),
+&#8222;Hortbetreuung&#8220; (10040), &#8222;Schulaufnahme und Schulwechsel&#8220; (10041),
+&#8222;Sch&#252;lerbef&#246;rderung&#8220; (10042), &#8222;Sonderp&#228;dagogischer F&#246;rderbedarf&#8220; (10046)
+7. Aus-, Fort- und Weiterbildungsangebote: &#8222;Aus-, Fort- und
+Weiterbildungsangebote&#8220; (10065)
+8. Zulassung zum Referendariat: &#8222;Zulassung zum Referendariat&#8220; (10063)
+9. Berufsausbildungsvorbereitung: &#8222;Berufsausbildungsvorbereitung und
+&#220;bergangsbereich&#8220; (10051), &#8222;Untersuchungsberechtigungsschein&#8220; (10329), 
+&#8222;Verk&#252;rzung und Verl&#228;ngerung der Ausbildungsdauer&#8220; (10047).
+In dieser Auflistung der im Rahmen des Programms F&#246;deral aktuell aktiv in der 
+Umsetzung befindlichen OZG-Leistungen nicht enthalten sind die drei
+ausschlie&#223;lich im Digitalisierungsprogramm Bund angesiedelten OZG-Leistungen 
+&#8222;Promotionsstipendien&#8220; (10649), &#8222;Berufsausbildungsf&#246;rderung&#8220; (10050) und 
+&#8222;Bildungskredit&#8220; (10059), die ebenso zur Breite der im Themenfeld
+abgedeckten Schwerpunkte und Lebenslagen z&#228;hlen. Im Digitalisierungsprogramm Bund 
+tr&#228;gt der Bund die alleinige Verantwortung f&#252;r Rechtsetzung und Vollzug.
+Dar&#252;ber hinaus enthalten die im Rahmen der Umsetzungsprojekte genannten 
+OZG-Leistungen auch Mischleistungen, die zum Teil im
+Digitalisierungsprogramm Bund liegen.
+Ebenso nicht in der Auflistung der Umsetzungsprojekte enthalten sind vier 
+OZG-Leistungen, die depriorisiert wurden: &#8222;Beschwerde- und
+Schlichtungsverfahren in der dualen Berufsausbildung&#8220; (10052), &#8222;Erstuntersuchung bei
+jugendlichen Auszubildenden&#8220; (10053), &#8222;Schulunterricht (Religions- und
+Ethikunterricht)&#8220; (10043) sowie &#8222;Schulgeld&#8220; (10045).
+&#8199;2. Wie ist der jeweilige Umsetzungsstand und weitere Zeitplan bei den 30 
+OZG-Leistungen im Themenfeld Bildung (bitte jeweils f&#252;r die einzelnen 
+Ma&#223;nahmen aufschl&#252;sseln)?
+F&#252;r welche dieser 30 OZG-Leistungen im Themenfeld Bildung gibt es 
+bereits einen Prototypen (bitte erl&#228;utern und begr&#252;nden)?
+Zeitlich sollen alle 27 Leistungen entsprechend den gesetzlichen Vorgaben bis 
+Ende des Jahres 2022 fl&#228;chendeckend online angeboten werden. Dem
+Umsetzungsprozess zugrunde liegt eine anf&#228;nglich vorgenommene Wellenplanung, 
+die eine Staffelung nach Priorit&#228;t und pragmatischen Erw&#228;gungen vorsieht.
+Kriterien f&#252;r die Priorisierung wurden im Rahmen einer Workshopserie wie folgt 
+festgelegt:
+1. Nachfrage-Priorit&#228;t, d. h. Priorisierung mit Blick auf die Top-100-
+Verwaltungsleistungen, die &#252;ber die Beh&#246;rdennummer 115 am h&#228;ufigsten
+angefragten Leistungen und die in der Verordnung zum Single Digital Gateway 
+enthaltenen Leistungen,
+2. Fallzahlen bzw. Nachfrageh&#228;ufigkeit f&#252;r Leistungen,
+3. Komplexit&#228;t von Leistungen aus Sicht von B&#252;rgerinnen und B&#252;rgern bzw. 
+Unternehmen,
+4. Digitalisierungspotenzial von Leistungen,
+5. Kosten- und Zeitaufw&#228;nde f&#252;r Nutzerinnen und Nutzer und
+6. die politische und gesellschaftliche Relevanz von Leistungen.
+Unter Ber&#252;cksichtigung dieser Kriterien wurde eine Priorisierung von OZG-
+Leistungen vorgenommen, die zwischen sogenannten &#8222;Labor-Leistungen&#8220;
+(Priorit&#228;t 1), &#8222;Labor-Kandidaten&#8220; (Priorit&#228;t 2), &#8222;Leistungen mittlerer Priorit&#228;t&#8220;
+(Priorit&#228;t 3) und &#8222;depriorisierten Leistungen&#8220; (Priorit&#228;t 4) unterscheidet.
+Priorisierung und Wellenplanung werden im &#246;ffentlich zug&#228;nglichen OZG-Leitfaden
+erl&#228;utert.
+Die zeitliche Meilensteinplanung der einzelnen OZG-Leistungen ist auf der 
+OZG-Informationsplattform unter den nach Projektphasen benannten Reitern 
+&#246;ffentlich einsehbar, dort sind auch unter dem Reiter &#8222;Ergebnisse&#8220; die
+jeweiligen Ergebnisdokumente der konzeptionellen Arbeiten hinterlegt.
+&#8199;3. Welche konkreten Ma&#223;nahmen plant die Bundesregierung im Bereich 
+der Digitalisierung von Hochschulverwaltungsleistungen (Zulassung, 
+Pr&#252;fung, Zeugnisse)?
+Es handelt sich hierbei um Leistungen, die in der Zust&#228;ndigkeit der L&#228;nder und 
+der Hochschulen liegen. Um &#252;bergreifende und international anschlussf&#228;hige 
+L&#246;sungen umzusetzen, ist beabsichtigt soweit m&#246;glich im Rahmen des OZG 
+und des Konjunktur- und Zukunftspakets zusammenzuarbeiten.
+Das vom Bundesministerium f&#252;r Bildung und Forschung (BMBF) gef&#246;rderte 
+Forschungs- und Entwicklungsprojekt &#8222;Plattform f&#252;r internationale
+Studierendenmobilit&#228;t&#8220; zielt darauf ab, die M&#246;glichkeiten f&#252;r ein digitales Angebot zur 
+Unterst&#252;tzung bei der zentralen Suche von Studieninformationen, der
+Anerkennung von Bildungsleistungen sowie der sicheren Ablage von
+Bildungsnachweisen (im Rahmen der internationalen Studierendenmobilit&#228;t) zu erweitern. Das 
+Projekt wurde 2019 konzeptionell vorbereitet. Die geplanten Funktionalit&#228;ten 
+wurden definiert und es wurde eine Zielarchitektur erarbeitet. Die Ergebnisse 
+werden aktuell zusammen mit den elf am Projekt beteiligten
+Partneruniversit&#228;ten in Form eines skalierbaren, modular nachnutzbaren Minimum Viable
+Product (MVP) erprobt. Die Ausrichtung der digitalen Verf&#252;gbarkeit der Dienste 
+orientiert sich an den Nutzerbed&#252;rfnissen von Studierenden und von
+Verantwortlichen in den Hochschulen. Dies geht unmittelbar mit dem &#8222;Once-Only-
+Prinzip&#8220; einher. Die Leistungen werden zudem nach dem EfA-Prinzip (Einer 
+f&#252;r Alle/Viele) als fl&#228;chendeckend einsetzbare und nutzerzentrierte L&#246;sungen 
+entwickelt.
+a) Welche Zielsetzungen und Schwerpunkte verfolgt die
+Bundesregierung bei der Digitalisierung der Hochschulverwaltungsleistungen?
+Die Zielsetzungen und Schwerpunkte ergeben sich aus dem OZG und dem
+verbindlichen Umsetzungskatalog.
+b) &#220;ber welche voraussichtlichen Eigenschaften und Funktionen wird die 
+Umsetzung der Digitalisierung der Hochschulverwaltungsleistungen 
+verf&#252;gen?
+Grunds&#228;tzlich ist die Umsetzung im Rahmen der OZG-Leitlinien
+(Nutzerzentrierung, Agilit&#228;t, Interoperabilit&#228;t, Offenheit, Zuverl&#228;ssigkeit und
+Wirtschaftlichkeit) im Sinne des EfA-Prinzips voranzutreiben.
+c) Welche Verbesserungen erwartet die Bundesregierung durch die
+Digitalisierung der Hochschulverwaltungsleistungen?
+Aus den im Kontext der Internationalisierung von Hochschulen heraus seitens 
+des BMBF gef&#246;rderten Projekten zeigten sich erhebliche Potentiale im Bereich 
+Interoperabilit&#228;t von Hochschul-IT-Systemen untereinander, und zwar sowohl 
+national als auch international. Weiterhin k&#246;nnten hochschul&#252;bergreifend
+M&#246;glichkeiten zur gemeinsamen Entwicklung und f&#252;r den Betrieb von IT-gest&#252;tzten 
+Servicefunktionen von Hochschulen, die sich prim&#228;r auf dortige administrative 
+und Dienstleistungsprozesse beziehen, verfolgt werden. Dies gilt beispielsweise 
+bei Prozessen zur maschinenlesbaren Erfassung von Unterlagen f&#252;r den
+Hochschulzugang. Im Vergleich zum Status quo kann statt papierbasierten Prozessen 
+eine digitale L&#246;sung bereitgestellt werden, die Studierende entlang der
+Ausbildungslaufbahn durch ein institutionen&#252;bergreifend interoperables digitales
+Angebot zuverl&#228;ssig unterst&#252;tzt. Des Weiteren wird Hochschulmitarbeitenden, die 
+mit der Anerkennung eingereichter Bildungsleistungen betraut sind, eine
+digitale Unterst&#252;tzung bei der Durchf&#252;hrung der jeweiligen Pr&#252;fung und
+Entscheidungsfindung angeboten und im Rahmen eines MVP erprobt.
+d) Inwiefern ist das Ziel dieser OZG-Leistung ein einheitliches
+Hochschulverwaltungssystem, das alle deutschen Hochschulen nutzen
+m&#252;ssen?
+Ein einheitliches Hochschulverwaltungssystem ist nicht Ziel der vom BMBF 
+gef&#246;rderten Projekte bzw. der Umsetzung des OZG.
+e) Inwiefern sollen im Rahmen des OZG-Prozesses auch
+Verwaltungsprozesse jenseits digitaler Nutzeroberfl&#228;chen verschlankt und
+digitalisiert werden?
+Die Bundesregierung nimmt grunds&#228;tzlich nicht Stellung zu Sachverhalten, die 
+ausschlie&#223;lich in L&#228;nderzust&#228;ndigkeit bzw. in der Organisationshoheit der 
+Hochschulen liegen. Aufgrund der Hochschulautonomie wird die
+Bundesregierung nicht in hochschulinterne Verwaltungsprozesse eingreifen.
+f) Wie ist der aktuelle Umsetzungsstand?
+Es wird auf die Antwort zu Frage 3 verwiesen.
+g) Inwiefern werden die Hochschulen in die Konzeption einbezogen
+(bitte erl&#228;utern und begr&#252;nden)?
+Wie wurden die Hochschulen ausgew&#228;hlt, und ab welchem Zeitpunkt 
+im OZG-Prozess war eine Beteiligung m&#246;glich?
+Bereits in einem Vorprojekt zur Konzeption der &#8222;Plattform f&#252;r Internationale 
+Studierendenmobilit&#228;t&#8220; wurde im Jahr 2019 die Struktur von Beginn darauf
+angelegt, m&#246;glichst viele interessierte Hochschulen und relevante Personen im 
+Kontext der Studierendenmobilit&#228;t einzubinden.
+Aus dem Kreis der im Vorprojekt beteiligten Hochschulen und dar&#252;ber hinaus 
+konnten sich Hochschulen in das neue Projekt einbringen. Vor diesem
+Hintergrund sind nun elf Universit&#228;ten beteiligt und bringen sich aktiv &#252;ber ein
+Arbeitsgremium ein. Dar&#252;ber hinaus wird die gesamte interessierte
+Hochschullandschaft in den Projektfortschritt einbezogen. Aus dem Hochschulumfeld 
+wurde ein Beirat gegr&#252;ndet, der &#252;ber das Projekt ber&#228;t und seine fachliche und 
+technische Expertise einflie&#223;en l&#228;sst. &#220;ber die Kanzlerarbeitskreise der
+Hochschulen und Universit&#228;ten erfolgt zudem eine regelm&#228;&#223;ige umfassende
+Einbeziehung der Betroffenen. Am Projekt XHochschule beteiligen sich aktuell &#252;ber 
+50 Hochschulen.
+h) Wann ist mit einer Vorstellung der Ergebnisse zu rechnen?
+Mit einer Vorstellung der Ergebnisse ist im Laufe des Jahres 2021 zu rechnen.
+i) Wann wird feststehen, ob der Pilot f&#252;r die Nutzung von Blockchain 
+zum Echtheitsnachweis der Zeugnisse aus der Blockchain-Strategie 
+praxistauglich ist?
+Wie schnell kann der Pilot finalisiert werden, damit alle Hochschulen 
+das System nutzen k&#246;nnen?
+Welche Kosten fallen durch die Nutzung f&#252;r die Hochschulen an?
+Das Forschungs- und Entwicklungsprojekt ist technologieunabh&#228;ngig und offen 
+ausgerichtet. Die Blockchain-Technologie kann eine m&#246;gliche L&#246;sung sein. 
+Der Pilot ist f&#252;r das zweite Quartal 2021 angestrebt. Eine weitere Nutzung ist 
+abh&#228;ngig von der weiteren Bereitschaft der L&#228;nder und der Hochschulen, die 
+erarbeiteten Ergebnisse zu nutzen. Die letzte Teilfrage kann nicht von der
+Bundesregierung beantwortet werden, da dies in der Zust&#228;ndigkeit der L&#228;nder 
+liegt und vom konkreten Leistungsumfang abh&#228;ngt.
+j) Welche Pl&#228;ne gibt es dar&#252;ber hinaus, Blockchain zum
+Echtheitsnachweis der Zeugnisse einzusetzen, z. B. f&#252;r die Nutzung in
+Stellenausschreibungen des Bundes?
+Die beschriebene Nachnutzung ist eine m&#246;gliche Option.
+&#8199;4. Welche konkreten Ma&#223;nahmen plant die Bundesregierung im Bereich 
+der Digitalisierung der Studienplatzvergabe?
+a) Welche Zielsetzungen und Schwerpunkte verfolgt die
+Bundesregierung bei der Digitalisierung der Studienplatzvergabe?
+b) &#220;ber welche voraussichtlichen Eigenschaften und Funktionen wird 
+die Umsetzung der Digitalisierung der Studienplatzvergabe
+verf&#252;gen?
+c) Welche Verbesserungen erwartet die Bundesregierung durch die
+Digitalisierung der Studienplatzvergabe?
+d) Inwiefern sollen im Rahmen des OZG-Prozesses auch
+Verwaltungsprozesse jenseits digitaler Nutzeroberfl&#228;chen verschlankt und
+digitalisiert werden?
+e) Wie ist der aktuelle Umsetzungsstand?
+f) Inwiefern werden die Hochschulen in die Konzeption einbezogen 
+(bitte erl&#228;utern und begr&#252;nden)?
+Wie wurden die Hochschulen ausgew&#228;hlt, und ab welchem Zeitpunkt 
+im OZG-Prozess war eine Beteiligung m&#246;glich?
+g) Wann ist mit einer Vorstellung des Ergebnisses zu rechnen?
+&#8199;5. Hat das Projekt zur Digitalisierung der Studienplatzvergabe zum Ziel, die 
+Plattform hochschulstart.de zu ersetzen, bei der es schon h&#228;ufiger zu
+Serverausf&#228;llen kam (https://www.jmwiarda.de/2019/11/19/zehn-jahre-lang-
+aufs-falsche-pferd-gesetzt/)?
+a) Wieso kam es nach Kenntnis der Bundesregierung immer wieder zu 
+Serverausf&#228;llen von hochschulstart.de (https://www.jmwiarda.de/201
+9/11/19/zehn-jahre-lang-aufs-falsche-pferd-gesetzt/)?
+b) Welche Gr&#252;nde gab es nach Kenntnis der Bundesregierung f&#252;r den 
+l&#228;ngeren Serverausfall von hochschulstart.de im August und
+September 2020 (ebd.)?
+c) Warum wurde der Serverausfall im August und September 2020 
+(https://www.deutschlandfunk.de/studienplatzvergabe-wieder-proble
+me-bei-hochschulstart-de.680.de.html?dram:article_id=483629) erst 
+so sp&#228;t behoben?
+d) Welche Folgen hatte der Serverausfall von hochschulstart.de im
+August und September 2020 (ebd.)?
+e) Wie bewertet die Bundesregierung die wiederholten Serverausf&#228;lle 
+von hochschulstart.de und die damit verbundenen Folgen (https://ww
+w.jmwiarda.de/2019/11/19/zehn-jahre-lang-aufs-falsche-pferd-gese
+tzt/)?
+f) Wie reagieren Bund und L&#228;nder auf die wiederholten Serverausf&#228;lle 
+von hochschulstart.de und die damit verbundenen Folgen (ebd.)?
+g) Welche Konsequenzen zieht die Bundesregierung aus den
+wiederholten Serverausf&#228;llen von hochschulstart.de (ebd.)?
+h) Welche Ma&#223;nahmen hat die Bundesregierung bisher ergriffen, um 
+die bekannten Problematiken mit hochschulstart.de auszur&#228;umen 
+(ebd.)?
+Die Fragen 4 bis 5h werden im Zusammenhang beantwortet.
+Die Studienplatzvergabe liegt in der Zust&#228;ndigkeit von L&#228;ndern und
+Hochschulen. Die Hochschulen vergeben in den meisten F&#228;chern ihre Studienpl&#228;tze 
+selbst. Die Zulassung zu bestimmten Studienf&#228;chern wird bundesweit und
+zentral von der &#8222;Stiftung f&#252;r Hochschulzulassung&#8220;, deren Stifter die L&#228;nder sind, 
+vergeben. Detaillierte Erkenntnisse im Sinne der Fragestellung liegen der 
+Bundesregierung daher nicht vor.
+&#8199;6. Inwiefern ist geplant, die Digitalisierung der Studienplatzvergabe und 
+Hochschulverwaltungsleistungen mit den EU-Staaten und
+Auslandsvertretungen der Bundesrepublik Deutschland zu koordinieren, um auch
+Bewerbungen f&#252;r ein Studium im Ausland &#252;ber die Plattform abzuwickeln?
+Die Abwicklung von Bewerbungen ausl&#228;ndischer Studierender liegt nicht in 
+der Verantwortung des Herkunftslandes, sondern des jeweiligen Gastlandes. 
+Die EU-Verordnung zum Single Digital Gateway ist von den Mitgliedstaaten 
+zu beachten.
+&#8199;7. Welche konkreten Ma&#223;nahmen plant die Bundesregierung im Bereich 
+der Digitalisierung der Anerkennung von Bildungsabschl&#252;ssen?
+Die Anerkennung akademischer Bildungsabschl&#252;sse ist Aufgabe der L&#228;nder 
+bzw. der Kultusministerkonferenz (KMK), siehe hierzu auch die Antwort zu 
+Frage 3c.
+a) Welche Zielsetzungen und Schwerpunkte verfolgt die
+Bundesregierung bei der Digitalisierung der Anerkennung von
+Bildungsabschl&#252;ssen?
+Es wird auf die Antwort zu Frage 3a verwiesen.
+b) &#220;ber welche voraussichtlichen Eigenschaften und Funktionen wird die 
+Umsetzung der Digitalisierung der Anerkennung von
+Bildungsabschl&#252;ssen verf&#252;gen?
+Es wird auf die Antwort zu Frage 3b verwiesen.
+c) Welche Verbesserungen erwartet die Bundesregierung durch die
+Digitalisierung der Anerkennung von Bildungsabschl&#252;ssen?
+Es wird auf die Antwort zu Frage 3c verwiesen.
+d) Inwiefern sollen im Rahmen des OZG-Prozesses auch
+Verwaltungsprozesse jenseits digitaler Nutzeroberfl&#228;chen verschlankt und
+digitalisiert werden?
+Es wird auf die Antwort zu Frage 3e verwiesen.
+e) Hat das Projekt zur Digitalisierung der Anerkennung von
+Bildungsabschl&#252;ssen zum Ziel, die Plattform uni-assist zu ersetzen?
+Nein. uni-assist ist ein eingetragener Verein der Hochschulen zur Vorpr&#252;fung 
+internationaler Studienbewerbungen.
+f) Wie ist der aktuelle Umsetzungsstand?
+Es wird auf die Antwort zu Frage 7 verwiesen.
+g) Inwiefern werden die Hochschulen in die Konzeption einbezogen
+(bitte erl&#228;utern und begr&#252;nden)?
+Wie wurden die Hochschulen ausgew&#228;hlt, und ab welchem Zeitpunkt 
+im OZG-Prozess war eine Beteiligung m&#246;glich?
+Es wird auf die Antwort zu Frage 3g verwiesen.
+h) Wann ist mit einer Vorstellung des Ergebnisses zu rechnen?
+Es wird auf die Antwort zu Frage 3h verwiesen.
+&#8199;8. Welche konkreten Ma&#223;nahmen plant die Bundesregierung im Bereich 
+der Digitalisierung der Studienstipendien?
+a) Welche Zielsetzungen und Schwerpunkte verfolgt die
+Bundesregierung bei der Digitalisierung der Studienstipendien?
+b) &#220;ber welche voraussichtlichen Eigenschaften und Funktionen wird 
+die Umsetzung der Digitalisierung der Studienstipendien verf&#252;gen?
+c) Welche Verbesserungen erwartet die Bundesregierung durch die
+Digitalisierung der Studienstipendien?
+d) Inwiefern sollen im Rahmen des OZG-Prozesses auch
+Verwaltungsprozesse jenseits digitaler Nutzeroberfl&#228;chen verschlankt und
+digitalisiert werden?
+e) Hat das Projekt zur Digitalisierung der Studienstipendien zum Ziel, 
+die Plattform uni-assist zu ersetzen?
+f) Wie ist der aktuelle Umsetzungsstand?
+g) Inwiefern werden die Begabtenf&#246;rderungswerke in die Konzeption 
+einbezogen (bitte erl&#228;utern und begr&#252;nden)?
+h) Wann ist mit einer Vorstellung des Ergebnisses zu rechnen?
+Die Fragen 8 bis 8h werden im Zusammenhang beantwortet.
+Die Studienstipendien wurden im Juni 2020 aus dem Leistungskatalog des 
+OZG gestrichen. Dementsprechend bestehen keine Planungen zur
+Digitalisierung der Studienstipendien.
+&#8199;9. Welche konkreten Ma&#223;nahmen plant die Bundesregierung im Bereich 
+der Digitalisierung der Zulassung zum Referendariat?
+a) Welche Zielsetzungen und Schwerpunkte verfolgt die
+Bundesregierung bei der Digitalisierung der Zulassung zum Referendariat?
+Die Fragen 9 und 9a werden im Zusammenhang beantwortet.
+Der Zugang zum Referendariat (Lehramts- und Rechtsreferendariat) soll nach 
+den Planungen der L&#228;nder durch einen digitalen und modernen Antragsprozess
+so einfach wie m&#246;glich gestaltet sein und den Erwartungen der Zielgruppe an 
+eine moderne Verwaltung gerecht werden.
+b) &#220;ber welche voraussichtlichen Eigenschaften und Funktionen wird die 
+Umsetzung der Digitalisierung der Zulassung zum Referendariat
+verf&#252;gen?
+Die Eigenschaften und Funktionen des Online-Dienstes werden erst nach
+Beginn des Umsetzungsprojektes definiert (siehe Antwort zu Frage 9e).
+c) Welche Verbesserungen erwartet die Bundesregierung durch die
+Digitalisierung der Zulassung zum Referendariat?
+Der Antragsprozess wird durch die Digitalisierung effizienter und weniger
+fehleranf&#228;llig. Die Auffindbarkeit von Informationen, Formularen und
+Ansprechpersonen f&#252;r die Nutzer wird erh&#246;ht, Zeit und Ressourcen werden gespart.
+d) Inwiefern sollen im Rahmen des OZG-Prozesses auch
+Verwaltungsprozesse jenseits digitaler Nutzeroberfl&#228;chen verschlankt und
+digitalisiert werden?
+Die Verschlankung und Digitalisierung interner Verwaltungsprozesse und
+Abl&#228;ufe bei der &#8222;Zulassung zum Referendariat&#8220; f&#228;llt nicht in den Aufgabenbereich 
+der Federf&#252;hrung des Themenfeldes Bildung, wird jedoch gegen&#252;ber den
+Fachverantwortlichen thematisiert.
+e) Wie ist der aktuelle Umsetzungsstand?
+Das Projekt &#8222;Zulassung zum Referendariat&#8220; geh&#246;rt zur 2. Welle im Themenfeld 
+Bildung und wird ab 2021 umgesetzt.
+f) Wann ist mit einer Vorstellung des Ergebnisses zu rechnen?
+Im Jahr 2022.
+10. Worin sieht die Bundesregierung die Hauptschwierigkeiten bei der
+Umsetzung der Digitalisierung an den Hochschulen?
+Die Umsetzung der Digitalisierung ist Sache der L&#228;nder und an den
+Hochschulen weit fortgeschritten. Bei der Umsetzung des OZG geht es darum, die in der 
+Antwort zu Frage 1 genannten Ziele zu erreichen.
+11. Welcher Anteil der zus&#228;tzlichen 3 Mrd. Euro aus dem Konjunkturpaket 
+des Bundes flie&#223;t in das Themenfeld Bildung (bitte nach Ma&#223;nahmen 
+aufschl&#252;sseln)?
+Welche konkreten Leistungen aus dem Bereich Bildung werden dadurch 
+zus&#228;tzlich gef&#246;rdert?
+Nach aktuellem Planungsstand sieht die Bundesregierung mindestens 110 Mio. 
+Euro f&#252;r die Umsetzung von Leistungen im Programm F&#246;deral des
+Themenfelds Bildung vor. Grunds&#228;tzlich durch das Konjunktur- und Zukunftspaket
+f&#246;rderf&#228;hig sind Leistungen bzw. Umsetzungsprojekte, die nach dem EfA-Prinzip 
+umgesetzt werden, d. h. bei denen digitale L&#246;sungen so zentral von einem Land 
+entwickelt werden, dass sich m&#246;glichst viele andere L&#228;nder f&#252;r die
+Nachnutzung anschlie&#223;en k&#246;nnen. Bereits vom Land Sachsen-Anhalt beantragt wurden 
+Mittel f&#252;r die Weiterentwicklung und den Ausbau von BAf&#246;G digital; mit
+weiteren Antr&#228;gen wird zeitnah gerechnet. Das f&#252;r die Auszahlung von Mitteln 
+notwendige Verwaltungsabkommen zwischen den L&#228;ndern und dem Bund ist 
+allerdings aktuell noch nicht von allen L&#228;ndern unterzeichnet.
+12. Wie ist der Entwicklungsstand im Schwerpunktlabor f&#252;r die Online-
+Plattform f&#252;r bundeseinheitlich abrufbare Schulzeugnisse?
+a) Welche Zielsetzungen und Schwerpunkte verfolgt die
+Bundesregierung bei der Online-Plattform f&#252;r bundeseinheitlich abrufbare
+Schulzeugnisse?
+b) &#220;ber welche voraussichtlichen Eigenschaften und Funktionen wird 
+die Online-Plattform f&#252;r bundeseinheitlich abrufbare Schulzeugnisse 
+verf&#252;gen?
+c) Wie ist der aktuelle Umsetzungsstand?
+d) Wann wird die Plattform vorgestellt werden?
+e) Wie erfolgt anschlie&#223;end die Anbindung der Hochschulen f&#252;r eine 
+m&#246;glichst automatisierte Bewerbung?
+f) Wie wird die Anzeigekomponente der digitalen Zeugnisse
+ausgestaltet sein?
+g) Wie wird die Datenkomponente der digitalen Zeugnisse ausgestaltet 
+sein?
+h) Wie wird die Sicherheitskomponente der digitalen Zeugnisse
+ausgestaltet sein?
+Die Fragen 12 bis12h werden im Zusammenhang beantwortet.
+Bei der OZG-Leistung &#8222;Schulpr&#252;fung und Schulzeugnis&#8220; handelt es sich um
+eine Typ 4-Leistung, deren Rechts- und Vollzugskompetenzen in den L&#228;ndern 
+liegen. Gem&#228;&#223; der f&#246;deralen Ordnung erfolgt die Bearbeitung dieser OZG-
+Leistung daher in den L&#228;ndern, die auch f&#252;r die technischen,
+datenschutzrechtlichen und organisatorischen Aspekte verantwortlich sind. Als federf&#252;hrendes 
+Land f&#252;r das Themenfeld Bildung tr&#228;gt Sachsen-Anhalt die
+Umsetzungsverantwortung. Im &#220;brigen wird auf die Antwort zu Frage 2 sowie die OZG-
+Informationsplattform verwiesen.
+13. Wann werden weitere Kandidaten aus dem Themenfeld Bildung in die 
+Laborphase kommen?
+F&#252;r welche Projekte ist dieser Schritt geplant?
+Falls f&#252;r keine, warum nicht?
+Eine Laborphase in diesem Sinne gibt es nicht. Vielmehr gibt es eine
+Konzeptionsphase mit unterschiedlichen Konzeptionsformaten, von denen das
+Digitalisierungslabor nur eines ist. Die unterschiedlichen Formate werden im OZG 
+Umsetzungsleitfaden erl&#228;utert.
+Digitalisierungslabore werden f&#252;r die am h&#246;chsten priorisierten Leistungen 
+(Priorit&#228;t 1: Laborleistungen, Priorit&#228;t 2: Laborkandidaten) durchgef&#252;hrt,
+w&#228;hrend dieses Format bei Leistungen mittlerer Priorit&#228;t oder depriorisierten
+Leistungen in der Regel nicht zum Einsatz kommt. Reine Bundesleistungen werden 
+ebenso nicht als alleinstehende Laborleistungen konzipiert. Entsprechend haben 
+im Themenfeld Bildung f&#252;r die folgenden OZG-Leistungen
+Digitalisierungslabore stattgefunden:
+&#8211; Anerkennung ausl&#228;ndischer Berufsqualifikationen (Priorit&#228;t 1),
+&#8211; Ausbildungsf&#246;rderung (BAf&#246;G; Priorit&#228;t 1),
+&#8211; Schulpr&#252;fung und -zeugnis (Priorit&#228;t 1),
+&#8211; Schulaufnahme und -wechsel (Priorit&#228;t 2) und Sonderp&#228;dagogischer
+F&#246;rderbedarf (Priorit&#228;t 3).
+Im Themenfeld Bildung kam mit der Durchf&#252;hrung einer
+Digitalisierungswerkbank f&#252;r die OZG-Leistung Bildungsgutschein und Weiterbildungsf&#246;rderung 
+(Priorit&#228;t 3) auch ein weiteres Konzeptionsformat zum Einsatz.
+14. Inwiefern wird der OZG-Prozess mit anderen Digitalisierungsinitiativen 
+im Bereich Hochschulen bzw. Verwaltung koordiniert?
+Bei den vom BMBF gef&#246;rderten Digitalisierungsinitiativen finden ein
+regelm&#228;&#223;iger Austausch und eine enge Kooperation der Beteiligten statt.
+15. Wie funktioniert die Steuerung des OZG-Prozesses zwischen Bund und 
+L&#228;ndern?
+Generell findet der OZG-Prozess auf Bundesebene im Rahmen der etablierten, 
+f&#252;r die Digitalisierung verantwortlichen Strukturen statt. Die zentralen
+nationalen politischen Steuerungsgremien in diesem Bereich sind:
+&#8211; Der Kabinettausschuss Digitalisierung als h&#246;chstes bereichsspezifisches
+politisches Steuerungsgremium auf Bundesebene;
+&#8211; der IT-Rat als politisch-strategisches Steuerungsgremium auf Ebene der 
+Staatssekret&#228;rinnen und Staatssekret&#228;re der Bundesministerien; und
+&#8211; der IT-Planungsrat als gemeinsames Steuerungsgremium f&#252;r die Bundes-, 
+L&#228;nder- und Kommunalebenen im Bereich der Informationstechnik.
+Neben diesen zentralen Steuerungsgremien sind OZG-spezifisch noch das
+Digitalisierungsprogramm Bund sowie das Digitalisierungsprogramm F&#246;deral zu 
+benennen. Das Digitalisierungsprogramm Bund beinhaltet die OZG-
+Leistungen, deren Vollzug im Aufgabenbereich des Bundes liegt. Beim
+Digitalisierungsprogramm F&#246;deral, im Rahmen dessen sich Bund, L&#228;nder und
+Kommunen in unterschiedlichen Konstellationen die Verantwortung f&#252;r Rechtsetzung, 
+Steuerung und Umsetzung der OZG-Leistungen teilen, spielen auf
+Bundesebene die folgenden Stellen bzw. Gremien eine zentrale Rolle:
+&#8211; Das Bundesministerium des Innern, f&#252;r Bau und Heimat (BMI) und die
+F&#246;derale IT-Kooperation (FITKO), die auf Beschluss des IT-Planungsrats
+gemeinsam die OZG-Umsetzung koordinieren; und
+&#8211; die Abteilungsleiterrunde F&#246;deral, bestehend aus Vertreterinnen und
+Vertretern des BMI, der in den einzelnen L&#228;ndern f&#252;r die OZG-Umsetzung
+federf&#252;hrenden Ressorts, der FITKO sowie dem Deutschen Landkreistag und 
+dem Deutschen St&#228;dtetag. Sie dient der ebenen&#252;bergreifenden
+Berichterstattung und der Vorbereitung bzw. dem Treffen strategischer und operativer 
+Entscheidungen.
+Als Kooperationsmechanismus zwischen Bundes- und L&#228;nderebene dient die 
+Themenfeldf&#252;hrerschaft, die jeweils ein thematisch zust&#228;ndiges Bundesressort 
+gemeinsam mit jeweils ein bis zwei L&#228;ndern, die prim&#228;r f&#252;r die Umsetzung der 
+OZG-Projekte verantwortlich sind, &#252;bernommen hat. Die
+Themenfeldf&#252;hrerschaft beinhaltet die gesamte Planung und Steuerung der Umsetzung von OZG-
+Leistungen aus dem Programm F&#246;deral in den Themenfeldern, d. h. von der
+Konzeption eines Digitalisierungsplans bis zur Abnahme seiner Umsetzung. 
+Dies ist auch dem Leitfaden Programmmanagement auf der OZG-
+Informationsplattform zu entnehmen.
+Die Rolle der Ressort-L&#228;nder-Tandems wurde im Zuge des Konjunktur- und 
+Zukunftspakets weiter gest&#228;rkt, da die Beantragung, Planung und
+Verausgabung der Mittel auf Antrag der L&#228;nder &#252;ber die Ressorts bzw. durch die
+Ressorts selbst erfolgt. Die Kooperation zwischen dem BMBF und dem Land 
+Sachsen-Anhalt als dem Federf&#252;hrer-Tandem im Themenfeld Bildung sowie 
+mit anderen beteiligten L&#228;ndern ist von engem Austausch, gemeinsamen Zielen 
+und guter Zusammenarbeit gepr&#228;gt.
+16. Welche Ma&#223;nahmen werden durch die Bundesregierung ergriffen, um 
+die im OZG-Prozess entwickelten Anwendungen vor Cyber-Angriffen zu 
+sch&#252;tzen?
+Wie viele zus&#228;tzliche Ressourcen werden daf&#252;r auf Bundes- und
+Landesseite insgesamt zur Verf&#252;gung gestellt?
+Im Hinblick auf die im OZG-Prozess entwickelten Anwendungen wird auf die 
+Antwort der Bundesregierung zu Frage 2 der Kleinen Anfrage der Fraktion der 
+FDP auf Bundestagsdrucksache 19/25063 verwiesen. &#220;berdies m&#252;ssen
+angemessene Ma&#223;nahmen zum Schutz vor Cyber-Angriffen durch die f&#252;r die
+Anwendung jeweils fachlich zust&#228;ndige Stelle festgelegt und umgesetzt werden.
+Mit Blick auf die entsprechenden Anwendungen des Bundes gilt, dass
+diesbez&#252;glich insbesondere die Anforderungen des Umsetzungsplans Bund 2017
+sowie der einschl&#228;gigen technischen Richtlinien des Bundesamtes f&#252;r
+Informationstechnik ma&#223;geblich sind. Inwieweit dar&#252;ber hinaus ggf. zus&#228;tzliche
+Ma&#223;nahmen zum Schutz der Anwendungen vor Cyber-Angriffen zu treffen sind, 
+muss aus Sicht der Bundesregierung im Einzelfall gepr&#252;ft werden.
+Sollte aus den ergriffenen Ma&#223;nahmen zus&#228;tzlicher Ressourcenbedarf bei
+Bundesbeh&#246;rden entstehen, ist dieser im Rahmen des
+Haushaltsaufstellungsverfahrens entsprechend anzumelden. Zu eventuell ben&#246;tigten zus&#228;tzlichen
+Ressourcen auf Landesebene kann die Bundesregierung keine Angaben machen.
+17. Ist angesichts der Corona-Pandemie geplant, weitere Leistungen in das 
+Themenfeld Bildung aufzunehmen?
+Angesichts der Dynamik im Feld der Digitalisierung und sich kontinuierlich 
+ver&#228;ndernder Rahmenbedingungen im Bildungsbereich sieht es das BMBF im 
+Auftrag des Bundes und in Abstimmung mit dem federf&#252;hrenden
+Finanzministerium des Bundeslandes Sachsen-Anhalt als geboten, kontinuierlich zu pr&#252;fen, 
+ob weitere Verwaltungsleistungen zu denen im OZG-Leistungskatalog
+aufgelisteten hinzugef&#252;gt und umgesetzt werden sollen. Sollten konkrete
+Verwaltungsleistungen identifiziert werden, die sich noch nicht im OZG-Leistungskatalog 
+befinden, kann nicht ausgeschlossen werden, diese als elektronische
+Verwaltungsverfahren umzusetzen.
+18. Wird die Bundesregierung bis 2022 alle 30 OZG-Leistungen aus dem 
+Bereich Bildung umgesetzt haben?
+Falls nein, welche nicht. und warum nicht?
+Von den 27 OZG-Leistungen im Themenfeld Bildung wurden bzw. werden vier 
+aufgrund von Unm&#246;glichkeiten depriorisiert. F&#252;r die restlichen Leistungen
+besteht das Bestreben weiterhin. Auf die Antwort zu den Fragen 1 und 2 wird
+verwiesen.
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>auf die  Kleine Anfrage
+- Drucksache 19/25236 -
+Umsetzungstand der Digitalisierung im Themenfeld Bildung nach dem Onlinezugangsgesetz</titel>
+    <datum>2021-01-15</datum>
+  </document>
+  

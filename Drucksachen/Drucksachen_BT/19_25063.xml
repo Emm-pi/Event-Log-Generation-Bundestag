@@ -1,0 +1,249 @@
+<document>
+    <id>248322</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/25063</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>002cb3b221e865fe4e3b048f6d3ba940</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>270450</id>
+      <titel>Implementierung von IT-Sicherheitsstandards bei der Umsetzung des Onlinezugangsgesetzes</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium des Innern, f&#252;r Bau und Heimat</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/250/1925063.pdf</pdf_url>
+      <id>248322</id>
+      <dokumentnummer>19/25063</dokumentnummer>
+      <datum>2020-12-08</datum>
+      <verteildatum>2020-12-15</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Antwort
+der Bundesregierung
+auf die Kleine Anfrage der Abgeordneten Reinhard Houben, Michael Theurer, 
+Dr. Marcel Klinge, weiterer Abgeordneter und der Fraktion der FDP
+&#8211; Drucksache 19/24569 &#8211;
+Implementierung von IT-Sicherheitsstandards bei der Umsetzung
+des Onlinezugangsgesetzes
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Im August 2017 ist das Onlinezugangsgesetz (OZG) unter der
+Schirmherrschaft des Bundesministeriums des Innern, f&#252;r Bau und Heimat (BMI) in 
+Kraft getreten. Damit soll zum einen Deutschland in Sachen Digitalisierung 
+punkten, zum anderen sollen die B&#252;rgerinnen und B&#252;rger von unn&#246;tigen,
+zeitaufwendigen Beh&#246;rdeng&#228;ngen und Unternehmen von finanziell belastender 
+B&#252;rokratie entlastet werden. Das Gesetz verpflichtet Bund und L&#228;nder bis 
+2022 ihre Verwaltungsdienstleistungen f&#252;r die B&#252;rgerinnen und B&#252;rger auch 
+digital anzubieten, wie beispielsweise Antr&#228;ge auf Baf&#246;g, Elterngeld,
+Geburtsurkunden, Meldebescheinigungen u. v. m. Insgesamt handelt es sich um 575 
+zu digitalisierende Leistungen in 35 Lebens- und 17 Unternehmensbereichen.
+Laut dem Digital Economy and Society Index 2020 (DESI) der EU liegt 
+Deutschland nur auf Platz 27 bei der Nutzung von Digital Public Services 
+(https://ec.europa.eu/newsroom/dae/document.cfm?doc_id=67084#page3). 
+Barrieren f&#252;r die B&#252;rgerinnen und B&#252;rger liegen laut einer Studie der Initiative 
+D21 dabei in verschiedenen Bereichen: Neben fehlendem Onlineangebot der 
+Serviceleistungen und der Anschaffung zus&#228;tzlicher notwendiger Hardware 
+sind f&#252;r 41 Prozent der befragten Deutschen die Online-Angebote &#252;berhaupt 
+nicht bekannt, 36 Prozent der Befragten haben Sorgen bez&#252;glich der
+Datensicherheit (https://initiatived21.de/app/uploads/2019/10/egovernment-monitor-2
+019.pdf).
+Besondere Herausforderung bei der Umsetzung ist die Zust&#228;ndigkeit nach 
+dem f&#246;deralen Prinzip, wonach 115 der 575 OZG-Leistungen allein im
+Verantwortungsbereich des Bundes liegen sowohl in Regelung als auch Vollzug. 370 
+Leistungen sind zum gr&#246;&#223;ten Teil zwar vom Bund geregelt, liegen in der 
+Durchf&#252;hrung allerdings bei den L&#228;ndern. Die &#252;brigen 90 Leistungen liegen 
+sowohl in der Regelungs- wie auch Vollzugsbefugnis g&#228;nzlich bei L&#228;ndern 
+und Kommunen.
+Ohne eine gemeinsame f&#246;derale E-Government-Kultur, ohne
+Schnittstellenmanagment mit breit gedachten generalisierten Softwarel&#246;sungen wird die 
+Umsetzung weder nachhaltig noch nutzerfreundlich und l&#228;nder&#252;bergreifend 
+funktionieren. Es erfordert also im Softwarebereich Innovationen, bei deren 
+Deutscher Bundestag Drucksache 19/25063
+19. Wahlperiode 08.12.2020
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums des Innern, f&#252;r Bau und Heimat 
+vom 8. Dezember 2020 &#252;bermittelt.
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext.
+Entwicklung immer vom Nutzer her gedacht wird, dessen Akzeptanz die
+entscheidende Voraussetzung f&#252;r den Erfolg der gesamten Initiative ist.
+Am 1. Oktober 2020 hat die Bundesregierung mit dem Dashboard
+Digitalpolitik transparent ver&#246;ffentlicht, wie der Fortschritt in der Umsetzung von
+digitalen Verwaltungsleistungen ist. Daraus geht hervor, dass von 585 zu
+digitalisierenden Verwaltungsleistungen 55,8 Prozent bereits verf&#252;gbar, 18,6 Prozent 
+in Umsetzung, jedoch 25,7 Prozent erst in Planung sind. Das bedeutet, dass 
+von diesen Leistungen erst 315 online nutzbar sind, wobei bemerkt werden 
+muss, dass hierzu auch Leistungen z&#228;hlen, die beispielsweise von lediglich
+einer Kommune online zur Verf&#252;gung gestellt werden. 250 OZG-Leistungen 
+sind zum jetzigen Zeitpunkt noch nicht online.
+&#8222;Um sich vor Augen zu f&#252;hren, welche Mammutaufgabe mit der
+fl&#228;chendeckenden Bereitstellung der 460 landes- und kommunalbezogenen OZG-
+Leistungen verbunden ist, hilft eine grobe &#220;berschlagsrechnung: Nimmt man 
+an, dass die 460 Leistungen mehr oder weniger einzeln implementiert werden 
+m&#252;ssen und rechnet man lediglich mit 400 Kreisen und kreisfreien St&#228;dten
+anstatt mit 11 000 Kommunen, ergibt sich dennoch eine Gesamtzahl von gut 
+180 000 Implementierungen. Ausgehend von den verbleibenden drei Jahren 
+der planm&#228;&#223;igen OZG- Umsetzung sind das ca. 60 000 Implementierungen 
+pro Jahr oder 5 000 pro Monat.&#8220; (Monitor Digitale Verwaltung, NKR, 2019)
+Im September berichtete der Tagesspiegel Background, dass trotz der Arbeit 
+an der Digitalisierung der Verwaltungsleistungen &#252;ber die letzten drei Jahre 
+bisher noch die dazugeh&#246;rigen IT-Sicherheitsstandards fehlten. Diese m&#252;ssten 
+per Rechtsverordnung durch das Bundesinnenministerium festgelegt werden. 
+Eine nachtr&#228;gliche Implementierung k&#246;nnte dabei zu jahrelanger Verz&#246;gerung 
+f&#252;hren.
+1. Inwieweit entspricht es den Tatsachen, dass, wie aus einer
+Informationsfreiheitsanfrage der Arbeitsgruppe KRITIS (AG KRITIS) hervorgeht 
+(https://ag.kritis.info/2020/09/06/bmi-gefaehrdet-die-umsetzung-des-onlin
+ezugangsgesetzes/), die Rechtsverordnung f&#252;r IT-Sicherheitsstandards, die 
+nach OZG durch das Bundesministerium des Innern, f&#252;r Bau und Heimat 
+festgelegt werden m&#252;ssen, noch nicht erlassen, geschweige denn
+entworfen wurde, und wann ist mit einem Beschluss der Verordnung zu rechnen?
+Der Entwurf der Verordnung des Bundesministeriums des Innern, f&#252;r Bau und 
+Heimat nach &#167; 5 des Onlinezugangsgesetzes (OZG) zu den
+Sicherheitsstandards f&#252;r den Portalverbund befindet sich in der Abstimmung. Die Konsultation 
+innerhalb der Bundesregierung und mit den L&#228;ndern schlie&#223;t sich an. Der
+Erstellungsprozess soll in der ersten Jahresh&#228;lfte 2021 mit dem Inkrafttreten der 
+Verordnung abgeschlossen werden.
+2. Wird die nachtr&#228;gliche Implementierung von IT-Sicherheitsstandards in 
+die bereits digitalisierten Verwaltungsleistungen noch m&#246;glich sein, und 
+wenn ja, wie?
+Die Implementierung von IT-Sicherheitsstandards in die OZG-Leistungen
+erfolgt bereits jetzt und ist auch nach Erlass der Verordnung m&#246;glich. Zum einen 
+wird die Verordnung nach &#167; 5 OZG nach derzeitigem Stand bereits etablierte 
+Standards des Bundesamtes f&#252;r Sicherheit in der Informationstechnik (BSI)
+ber&#252;cksichtigen und das Ergreifen von Ma&#223;nahmen nach dem Stand der Technik 
+verbindlich festschreiben. Grunds&#228;tzlich neue Sicherheitsanforderungen
+werden von den zust&#228;ndigen Stellen der Bundesregierung aktuell nicht erwogen. 
+Zudem haben sich Bund und L&#228;nder bereits unabh&#228;ngig von der Verordnung 
+nach &#167; 5 OZG darauf verst&#228;ndigt, einschl&#228;gige Technische Richtlinien und
+Sicherheitsanforderungen des BSI zu beachten und in ihren Projekten
+anzuwenden.
+Mit dem Umsetzungsplan Bund 2017 und der Leitlinie f&#252;r
+Informationssicherheit in der &#246;ffentlichen Verwaltung des IT-Planungsrates existieren seit Jahren 
+f&#252;r Bund und L&#228;nder verbindliche Sicherheitsvorgaben, die bei allen Vorhaben 
+&#8211; auch bei der OZG-Umsetzung &#8211; zu ber&#252;cksichtigen sind. Zum anderen h&#228;ngt 
+eine nachtr&#228;gliche Implementierung von IT-Sicherheitsstandards von den
+konkreten Vorgaben ab. Beispielsweise kann eine zus&#228;tzliche Anbindung der 
+Online-Ausweisfunktion f&#252;r einzelne oder mehrere Online-Dienste durch die 
+bereits bestehende Einbindung der Online-Ausweisfunktion in das Nutzerkonto 
+Bund mit geringem Aufwand nachtr&#228;glich realisiert werden. Au&#223;erdem soll es 
+&#8211; wie auch bei sp&#228;teren Weiterentwicklungen von Standards &#8211; ggf.
+&#220;bergangsfristen f&#252;r technische Implementierungen geben.
+3. Mit welcher zeitlichen Verz&#246;gerung in der Umsetzung des OZG ist bei 
+nachtr&#228;glicher Implementierung der IT-Sicherheitsstandards zu rechnen?
+IT-Sicherheit ist von Anfang an Bestandteil der Umsetzungsprojekte. Auf die 
+Antwort zu Frage 2 wird verwiesen. Dar&#252;ber hinaus ist darauf hinzuweisen, 
+dass der nachtr&#228;gliche Implementierungszeitraum von den konkreten Vorgaben 
+abh&#228;ngt. Aufgrund von vorzusehenden &#220;bergangs- und Umsetzungsfristen f&#252;r 
+IT-Sicherheitsstandards durch die am Portalverbund beteiligten Stellen wird es 
+keine Verz&#246;gerungen geben.
+4. Mit Blick auf das Zeitfenster f&#252;r die Umsetzung des
+Onlinezugangsgesetzes sollte die Umsetzung urspr&#252;nglich bis 2022 vollst&#228;ndig durchgef&#252;hrt 
+sein, wie beabsichtigt die Bundesregierung, mit Blick auf die
+notwendigen, fl&#228;chendeckenden IT-Sicherheitsstandards diese Frist einzuhalten?
+Die Bundesregierung wird das Ziel der OZG-Umsetzung bis Ende des Jahres 
+2022 unabh&#228;ngig von m&#246;glichen IT-Sicherheitsstandards f&#252;r bundesrechtlich 
+geregelte und vollzogene Leistungen erreichen. Dies wird insbesondere
+dadurch sichergestellt, dass die Leistungen der Bundesbeh&#246;rden vorrangig im 
+Bundesportal umgesetzt werden k&#246;nnen, das von der Bundesdruckerei GmbH 
+realisiert und dem Informationstechnikzentrum Bund (ITZBund) betrieben 
+wird. Dadurch ist es zudem m&#246;glich, auch m&#246;gliche nachtr&#228;gliche IT-
+Sicherheitsstandards skalierungsf&#228;hig umzusetzen.
+F&#252;r die von L&#228;ndern und Kommunen vollzogenen Leistungen liegt die
+Umsetzungsverantwortung bei den einzelnen vollziehenden Stellen in den L&#228;ndern. 
+Dies gilt sowohl f&#252;r die Digitalisierung der Verwaltungsleistungen als auch die 
+Umsetzung von IT-Sicherheitsstandards. Im Rahmen des
+Digitalisierungsprogramms des IT-Planungsrates unterst&#252;tzt die Bundesregierung die Erreichung 
+der Ziele u. a. organisatorisch durch die Koordinierung des
+Programmmanagements, fachlich durch die Einbindung der Bundesressorts in den
+Digitalisierungsprojekten und finanziell nunmehr zus&#228;tzlich im Rahmen des
+Konjunkturpakets.
+5. Wie beabsichtigt die Bundesregierung, ein hohes Ma&#223; an
+Gemeinschaftsentwicklung und dadurch eine fl&#228;chendeckende, kommunal- und
+l&#228;nder&#252;bergreifende Nutzbarkeit der OZG-Leistungen ohne die bislang durch 
+das Bundesinnenministerium festgelegten IT-Sicherheitsstandards zu
+erreichen?
+Ein hohes Ma&#223; an Gemeinschaftsentwicklung und dadurch eine
+fl&#228;chendeckende, kommunal- und l&#228;nder&#252;bergreifende Nutzbarkeit der OZG-Leistungen wird 
+seitens der Bundesregierung insbesondere durch die Etablierung und F&#246;rderung 
+des &#8222;Einer f&#252;r Alle&#8220;-Prinzips seit Beginn der OZG-Umsetzung unterst&#252;tzt.
+Dieses Prinzip wird im Rahmen des Konjunkturpakets zus&#228;tzlich durch Mittel des 
+Bundes in erheblichem Umfang gef&#246;rdert, die den L&#228;ndern f&#252;r die Umsetzung 
+sog. Einer f&#252;r Alle-Services (EfA-Services) bereitgestellt werden. F&#252;r die
+Umsetzung verantwortlich sind die federf&#252;hrenden bzw. umsetzenden L&#228;nder. Dies 
+gilt sowohl f&#252;r die Digitalisierung der Verwaltungsleistungen als auch die
+Umsetzung von IT-Sicherheitsstandards. Unabh&#228;ngig von durch das
+Bundesministerium des Innern, f&#252;r Bau und Heimat vorgegebenen bzw. k&#252;nftig
+vorzugebenden IT-Sicherheitsstandards unterliegen L&#228;nder und Kommunen bzw. deren
+Beh&#246;rden bereits heute den jeweils geltenden Vorschriften zur IT-Sicherheit.
+Aus Sicht der Bundesregierung kann allein durch das &#8222;Einer f&#252;r Alle&#8220;-Prinzip 
+die OZG-Umsetzungsfrist eingehalten werden. Neben den Vorteilen f&#252;r die 
+Nutzerfreundlichkeit und die h&#246;here Effizienz einer solchen Umsetzung schont 
+es auch die Umsetzungskapazit&#228;t, da nicht f&#252;r dieselbe Leistung 16 Online-
+Dienste auf Ebene der L&#228;nder bzw. noch mehr Online-Dienste auf Ebene der 
+Kommunen entwickelt werden m&#252;ssen. Auch mit Blick auf die Umsetzung von 
+IT-Sicherheitsstandards weisen Einer f&#252;r Alle-Services erhebliche Vorteile auf, 
+da diese bei einem EfA-Service nur ein einziges Mal umgesetzt werden
+m&#252;ssen.
+Sollten L&#228;nder oder Kommunen entscheiden, eine eigenst&#228;ndige Umsetzung zu 
+verfolgen, kann das Umsetzungsziel nach Einsch&#228;tzung der Bundesregierung 
+voraussichtlich nicht erreicht werden.
+6. Wie will die Bundesregierung gew&#228;hrleisten, dass die Umsetzung der
+digitalisierten Leistungen am Ende nicht von zu hoher Heterogenit&#228;t in der IT-
+Landschaft gepr&#228;gt ist, sondern digitale Integration fl&#228;chendeckend,
+qualitativ und beh&#246;rden&#252;bergreifend gl&#252;ckt?
+Das Ziel einer m&#246;glichst hohen Nutzerorientierung sowie einer beherrschbaren 
+Heterogenit&#228;t der IT-Landschaft soll zum einen durch den Portalverbund und 
+die interoperablen Basisdienste realisiert werden, zum anderen wiederum durch 
+das &#8222;Einer f&#252;r Alle&#8220;-Prinzip. Anhand des am 26. Oktober 2020 live
+gegangenen Bundesausbildungsf&#246;rderungsgesetz (BAf&#246;G) digital, das aktuell f&#252;nf
+Bundesl&#228;nder gemeinsam nutzen und das ein einziges Mal implementiert und
+betrieben wird, zeigen sich die Vorteile dieser Nutzerorientierung. Innerhalb
+weniger als einem Monat nach Go live hat der Online-Dienst &#252;ber 10.000
+registrierte Nutzerinnen und Nutzer, und &#252;ber 5.000 BAf&#246;G-Antr&#228;ge wurden
+mithilfe von BAf&#246;G digital vollst&#228;ndig fertiggestellt und eingereicht. Weitere
+Beispiele sind das Quarant&#228;ne-Geld im Fr&#252;hjahr mit elf teilnehmenden L&#228;ndern, 
+die &#220;berbr&#252;ckungshilfe II im Juli 2020 mit 15 L&#228;ndern und die Novemberhilfe 
+mit allen 16 L&#228;ndern.
+7. Wie viele der 44 bewilligten Stellen bei der F&#246;deralen IT-Kooperation 
+(FITKO) zur OZG-Gesamtkoordinierung sind derzeit besetzt, und wann 
+werden voraussichtlich alle Stellen besetzt sein?
+Der Wirtschaftsplan der F&#246;deralen IT-Kooperation (FITKO) sieht f&#252;r das
+aktuelle Haushaltsjahr 40 Stellen vor. Nach Kenntnis der Bundesregierung sind
+davon zum 1. Dezember diesen Jahres 30 Stellen besetzt. Die weitere Besetzung 
+soll bis Mitte 2021 erfolgen.
+8. Wie viele der 315 bereits verf&#252;gbaren OZG-Leistungen sind
+fl&#228;chendeckend, standardisiert und &#252;berregional (in mindestens 95 Prozent der 
+Kommunen) verf&#252;gbar?
+Aktuell (Stand: 24. November 2020) sind f&#252;r 62 OZG-Leistungen in
+Regelungs- und Vollzugskompetenz des Bundes Online-Services verf&#252;gbar. F&#252;r 
+Leistungen, deren Vollzugsverantwortung bei L&#228;ndern und Kommunen liegt, 
+sind aktuell noch keine verl&#228;sslichen Zahlen verf&#252;gbar. Hintergrund ist, dass 
+diese Angaben k&#252;nftig im Rahmen des Portalverbunds &#252;ber das sog. Online-
+Gateway transparent gemacht und zwischen allen L&#228;ndern sowie dem Bund 
+ausgetauscht werden sollen. Aktuell sind lediglich vier L&#228;nder an das Online-
+Gateway angeschlossen. Die weiteren L&#228;nder schlie&#223;en sich sp&#228;testens in der 
+ersten Jahresh&#228;lfte 2021 an das Online-Gateway an, sodass erst dann
+umfassende Aussagen m&#246;glich sind.
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/24569 -
+Implementierung von IT-Sicherheitsstandards bei der Umsetzung des Onlinezugangsgesetzes</titel>
+    <datum>2020-12-08</datum>
+  </document>

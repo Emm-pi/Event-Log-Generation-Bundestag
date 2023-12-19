@@ -1,0 +1,205 @@
+<document>
+    <id>239144</id>
+    <drucksachetyp>Antrag</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>46</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/17539</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>f95f274682f0a04e2c7ea332089cdeb4</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:15+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>259704</id>
+      <titel>Staatliche Gro&#223;projekte auf einer Blockchain transparent machen</titel>
+      <vorgangstyp>Antrag</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>FDP</bezeichnung>
+      <titel>Fraktion der FDP</titel>
+    </urheber>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/175/1917539.pdf</pdf_url>
+      <id>239144</id>
+      <dokumentnummer>19/17539</dokumentnummer>
+      <datum>2020-03-04</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antrag</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Fraktion der FDP</urheber>
+    </fundstelle>
+    <autoren_anzeige>
+      <id>7596</id>
+      <titel>Mario Brandenburg (S&#252;dpfalz), MdB, FDP</titel>
+      <autor_titel>Mario Brandenburg (S&#252;dpfalz)</autor_titel>
+    </autoren_anzeige>
+    <autoren_anzeige>
+      <id>2156</id>
+      <titel>Katja Suding, MdB, FDP</titel>
+      <autor_titel>Katja Suding</autor_titel>
+    </autoren_anzeige>
+    <text>[Deutscher Bundestag Drucksache 19/17539 
+19. Wahlperiode 04.03.2020 
+Antrag
+der Abgeordneten Mario Brandenburg (S&#252;dpfalz), Katja Suding, Grigorios
+Aggelidis, Renata Alt, Nicole Bauer, Jens Beeck, Dr. Jens Brandenburg
+(Rhein-Neckar), Sandra Bubendorfer-Licht, Dr. Marco Buschmann, Carl-Julius
+Cronenberg, Britta Katharina Dassler, Hartmut Ebbing, Dr. Marcus Faber, Otto
+Fricke, Thomas Hacker, Peter Heidt, Katrin Helling-Plahr, Markus Herbrand,
+Torsten Herbst, Manuel H&#246;ferlin, Reinhard Houben, Ulla Ihnen , Olaf in der 
+Beek, Gyde Jensen, Dr. Christian Jung, Carina Konrad, Konstantin Kuhle,
+Ulrich Lechte, Michael Georg Link, Till Mansmann, Alexander M&#252;ller, Roman
+M&#252;ller-B&#246;hm, Dr. Martin Neumann, Hagen Reinhold, Bernd Reuther,
+Dr. Wieland Schinnenburg, Matthias Seestern-Pauly, Judith Skudelny,
+Dr. Hermann Otto Solms, Bettina Stark-Watzinger, Benjamin Strasser, Michael
+Theurer, Dr. Florian Toncar, Gerald Ullrich, Sandra Weeser, Nicole Westig und
+der Fraktion der FDP
+Staatliche Gro&#223;projekte auf einer Blockchain transparent machen
+Der Bundestag wolle beschlie&#223;en:
+I. Der Deutsche Bundestag stellt fest:
+Gro&#223;projekte zeichnen sich durch ein hohes Ma&#223; an Komplexit&#228;t aus. Viele, teils
+interdependente Arbeitsabl&#228;ufe m&#252;ssen zu festen Zeiten und im Rahmen eines festen
+Budgets abgeschlossen werden. Verz&#246;gerungen durch innere und &#228;u&#223;ere Ursachen
+oder ineffiziente Planung und Umsetzung wirken sich in Summe auf das gesamte
+Projekt aus. Am Ende ist kaum auszumachen, wo die Verantwortung f&#252;r gestiegene
+Kosten oder einen nicht eingehaltenen Zeitplan liegt. Komplexe On-demand-Lieferketten
+in der Logistik stehen vor &#228;hnlichen Herausforderungen. Dort spielt die Blockchain-
+Technologie ihre Vorteile f&#252;r die Kooperation vieler Beteiligter bereits aus. Auf diese
+Erfahrungen m&#252;ssen wir aufbauen, wenn wir Desaster bei staatlichen Gro&#223;projekten
+in Zukunft vermeiden wollen. Die Zeitverz&#246;gerungen etwa beim Flughafen Berlin-
+Brandenburg BER ist bereits l&#228;nger als die einst geplante Bauzeit, begleitend haben
+sich die Baukosten vervielfacht und der zuletzt angek&#252;ndigte Er&#246;ffnungstermin wurde 
+teilweise skeptisch aufgenommen (www.rbb24.de/politik/Flughafen-BER/BER-
+Aktuelles/akteure_aktuell/2019/11/flughafen-berlin-brandenburg-eroeffnung-termin-okto-
+ber-2020.html). Das Vertrauen der B&#252;rger in die Kontrollf&#228;higkeiten und
+Kompetenzen staatlicher Auftraggeber hat enorm unter diesen und anderen Fehlschl&#228;gen
+gelitten.
+Das Grundpinzip der Blockchain basiert darauf, dass die Transaktionshistorie auf
+verschiedene Systeme transparent und unver&#228;nderlich verteilt wird und somit Daten
+verifiziert und gesichert werden. Gleichzeitig kommt es ohne zentralen Speicher aus, was
+die Resistenz gegen Manipulation deutlich erh&#246;ht. Bei globalen Lieferketten k&#246;nnen
+auf einer Blockchain gespeicherte Informationen zum Standort und Zustand der
+transportierten Ware &#252;ber einen Zeitstempel mit dem jeweils ausf&#252;hrenden Logistikpartner
+in Verbindung gebracht werden. Dasselbe Prinzip kann bei Gro&#223;projekten Anwendung
+finden, um das Vertrauen zwischen den involvierten Vertragspartnern zu erh&#246;hen,
+Verwaltungs- und Controlling-Aufwand zu verringern und Zeit- und
+Kostenersparnisse zu erm&#246;glichen. Informationen &#252;ber geplante und aktuell laufende
+Arbeitspakete, den Zeit- und Kostenverlauf sowie die zust&#228;ndigen Vertragspartner k&#246;nnen nicht
+nur als Tool zur Projektplanung durch die Projektleitung, den Auftraggeber und andere
+Stakeholder genutzt werden. &#8222;Smart Contracts&#8220; k&#246;nnen automatisiert die Bearbeitung
+neuer Arbeitspakete ausl&#246;sen, wenn alle vorgelagerten Arbeitspakete erledigt sind und
+die Qualit&#228;tskontrolle die Arbeitsergebnisse freigegeben hat &#8211; Koordinations- und
+Kommunikationsaufwand wird verringert. Die Blockchain bildet als &#8222;single source of
+truth&#8220; dabei immer aktuell den Projektstand ab und macht transparent, wo R&#252;ckst&#228;nde
+drohen. Zahlungen und auch Bonuszahlungen k&#246;nnen an alle Projektbeteiligten &#252;ber
+&#8222;smart contracts&#8220; automatisiert ausgef&#252;hrt und &#252;ber die Blockchain ohne Intermedi&#228;re 
+ausgef&#252;hrt werden. Buchhaltung und Projektabrechnung werden dadurch erleichtert. 
+Auch eine Kontrolle durch die &#214;ffentlichkeit &#252;ber eine &#246;ffentliche Blockchain ist
+m&#246;glich, wenn wir &#8222;open-data-Grunds&#228;tze&#8220; konsequent auf staatliche Projekte anwenden.
+Das erm&#246;glicht fr&#252;hes Erkennen von m&#246;glicherweise fatalen Planungsfehlern,
+erleichtert die Kl&#228;rung von Haftungsfragen und Verantwortlichkeiten und erschwert
+Korruption. Das Vertrauen in die F&#228;higkeit des Staates zur Durchf&#252;hrung von Gro&#223;projekten
+kann zur&#252;ckgewonnen und die Verschwendung von Steuergeld verhindert werden. 
+Ein Pilotprojekt dient als Grundlage f&#252;r eine durchzuf&#252;hrende Evaluation. Da bei
+einem Testlauf nicht davon auszugehen ist, dass alles ohne Probleme ablaufen wird, ist
+ein begleitendes Monitoring sinnvoll, verbunden mit geplanten oder ungeplanten
+Feedbackschleifen. So k&#246;nnen Fehler im laufenden Prozess behoben und neue
+Erkenntnisse zu einem sich inkrementell verbessernden Management-Prozess f&#252;hren.
+Wenn sich beim Monitoring oder in der Evaluation herausstellt, dass die Nutzung der
+Blockchain-Technologie f&#252;r das gesamte Projekt nicht zu einer Verbesserung
+bestimmter, vorher festzulegender Parameter f&#252;hrt, werden die Teilprozesse identifiziert, 
+die durch die Blockchain-Nutzung verbessert werden k&#246;nnen. Die Erkenntnisse aus
+dem Pilotprojekt werden in einem zweiten Projekt entweder erneut f&#252;r das
+Gesamtprojekt angewandt oder nur in den Teilprozessen, f&#252;r die es sich als sinnvoll nach den
+festgelegten Kriterien erwiesen hat. Das stellt sicher, dass die Potenziale der
+Blockchain-Technologie f&#252;r Gro&#223;projekte nicht wegen Startschwierigkeiten bei der
+Erstanwendung ungenutzt bleiben. So wird auf der einen Seite die grunds&#228;tzliche
+Technologieoffenheit gewahrt und auf der anderen Seite &#252;berpr&#252;fen wir in einem begrenzten,
+aber der tats&#228;chlichen Komplexit&#228;t vieler Gro&#223;projekte entsprechenden Umfeld
+Verbesserungsm&#246;glichkeiten.
+II. Der Deutsche Bundestag fordert die Bundesregierung auf, 
+1. die Projekplanung eines kommenden Gro&#223;projekts ab der Planungsphase in
+wesentlichen Teilen auf einer oder mehrerer, interoperabler Blockchains abzubilden,
+um die Transparenz zu erh&#246;hen und die Kooperation zwischen dem Bund und
+den am Projekt beteiligten L&#228;ndern zu verbessern. Mittelfristig muss das Ziel
+sein, steuerfinanzierte Gro&#223;projekte f&#252;r die Steuerzahler transparenter zu
+machen;
+2. die jeweils genutzte Blockchain als &#8222;public, permissioned&#8220; Blockchain &#246;ffentlich
+zug&#228;nglich zu machen, falls der Schutz von Gesch&#228;ftsgeheimnissen dem nicht
+entgegensteht. Davon ausgenommen sind ferner sicherheitsrelevante Angaben
+zum Projekt und andere &#252;berwiegende &#246;ffentliche Interessen. 
+a. Zur Gew&#228;hrleistung der B&#252;rgerbeteiligung eine Plattform zum &#246;ffentlichen
+Projektcontroling, Melden von Fehlern und zum Feedback geben
+aufzubauen,
+b. Bei der erforderlichen Software nach M&#246;glichkeit auf dezentrale
+Opensource-L&#246;sungen zu setzen,
+c. Die Speicherung auf der Blockchain maschienenlesbar vorzunehmen;
+3. in der Ausschreibung zu verdeutlichen, dass eine Anbindung an die Projekt-
+Blockchain auch anderen Projektpartnern, einschlie&#223;lich Versicherungen und
+Zulieferern von Bauteilen offensteht. Die Projekt-Blockchain braucht hierf&#252;r
+standardisierte Schnittstellen, &#252;ber die eine Zusammenarbeit unabh&#228;ngig von der
+genutzten Blockchain-L&#246;sung m&#246;glich ist. Die gesammelten Erkenntnisse zur
+Bedeutung offener Schnittstellen k&#246;nnen sich &#252;ber das Projekt hinaus auf Open-
+Government-L&#246;sungen &#252;bertragen lassen. Durch die Projektleitung ist zu
+gew&#228;hrleisten, dass eingekaufte Waren und Dienstleistungen mit der genutzten
+Blockchain-L&#246;sung transparent gemacht werden, auch wenn Projektpartner
+selbst keine Blockchain-L&#246;sung nutzen (etwa kleine und mittelst&#228;ndische
+Unternehmen &#8211; KMU). Wie detailliert die Abbildung erfolgen muss, ist im
+Projektverlauf zu &#252;berpr&#252;fen. F&#252;r an der Bewerbung auf die Ausschreibung interessierte 
+Unternehmen muss es qualifizierte Ansprechpartner geben, die KMU auch schon
+vor einer Projektbewerbung dabei unterst&#252;tzen, bei ihnen erforderliche interne
+Anpassungen und den Bedarf an Fachkr&#228;ften zu beurteilen. So wird sichergestellt,
+dass eine realistische Kalkulation vor der Abgabe eines Angebots auch f&#252;r KMU
+m&#246;glich ist. Um eine Benachteiligung f&#252;r KMU zu vermeiden, ist eine
+projektgebundene niedrigschwellige Innovationsf&#246;rderung f&#252;r die Umstellung
+firmeninterner Prozesse auf Blockchain-Technologien im Rahmen der Blockchain-Strategie 
+denkbar;
+4. ein projektbegleitendes Monitoring zu gew&#228;hrleisten, damit kontinuierliches und
+inkrementelles Lernen w&#228;hrend des Projektes m&#246;glich ist. Die Perspektive der
+externen Monitoring-Gruppe unterst&#252;tzt dabei mit der unabh&#228;ngigen Perspektive
+und durch die bedarfsorientierte Einbindung externer Experten. Die Einbindung
+der Deutschen Gesellschaft f&#252;r Projektmanagement erm&#246;glicht die parallele
+Erstellung von Kursen f&#252;r die Zertifizierung f&#252;r &#8222;Open Data Projekt Manager
+(m/w/d)&#8220;;
+5. das Projekt nach Abschluss mindestens anhand folgender Kriterien zu evaluieren,
+um die Vorteile der Blockchain-Nutzung zu bewerten:
+a. Effizienzgewinne,
+b. Akzeptanz bei Projektplanung, Projektbeteiligten, Projektpartnern,
+Auftraggebern, B&#252;rgerinnen und B&#252;rgern und anderen Stakeholdern,
+c. Auswirkungen auf die Projektkosten (im Vergleich zur urspr&#252;nglichen
+Planung),
+d. Auswirkungen auf die Projektdauer (im Vergleich zur urspr&#252;nglichen
+Planung),
+e. Vergleich der Dauer und Kosten mit &#228;hnlichen Projekten, die konventionell
+ausgef&#252;hrt wurden,
+f. Anteil an den Projektkosten f&#252;r die Einf&#252;hrung und Unterhaltung der
+Blockchain, durch zum Beispiel die Beschaffung oder Programmierung von daf&#252;r
+n&#246;tiger IT, erforderliche Schulungen,
+g. Einsch&#228;tzung &#252;ber die Entwicklung dieser Kosten bei h&#228;ufigerer
+Anwendung;
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333
+6. unter Wahrung der einschl&#228;gigen Regelungen der Bundeshaushaltsordnung
+sowie unter Einbeziehung des Bundesrechnungshofs die Erkenntnisse aus dem
+Pilotprojekt und der Evaluation in einem weiteren Projekt anzuwenden, in dem
+zus&#228;tzlich s&#228;mtliche Zahlungen blockchainbasiert und, wo m&#246;glich, automatisiert
+durch sogenannte &#8222;smart contracts&#8220; &#8211; auf der Blockchain programmierbarer und
+automatisch bei Vorliegen festgelegter Parameter ausgef&#252;hrte Vertr&#228;ge &#8211;
+abgewickelt werden. Dadurch wird ein noch transparenterer Projektverlauf erreicht
+und auch die Projektabrechnung l&#228;sst sich teilweise automatisieren;
+7. das zweite Projekt ebenfalls nach den unter Nummer 5 genannten Kriterien zu
+evaluieren;
+8. dem Bundestag sp&#228;testens ein Jahr nach dem ersten und ein Jahr nach dem
+zweiten Projekt einen Bericht &#252;ber den Projektverlauf und die Evaluation vorzulegen;
+9. die gewonnenen Erkenntnisse in die Weiterentwicklung des &#8222;Stufenplans
+Digitales Bauen&#8220; einflie&#223;en zu lassen, um die Entwicklung abgestimmter Prozesse und
+einheitlicher Schnittstellen zu begleiten und zu beschleunigen. 
+Berlin, den 4. M&#228;rz 2020
+Christian Lindner und Fraktion]</text>
+    <titel>Staatliche Gro&#223;projekte auf einer Blockchain transparent machen</titel>
+    <datum>2020-03-04</datum>
+  </document>
+  

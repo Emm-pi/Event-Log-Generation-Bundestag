@@ -1,0 +1,944 @@
+<document>
+    <id>247319</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/24243</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>eef11ad152f23616a2a01e5f16d04565</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>268359</id>
+      <titel>Zwei Jahre KI-Strategie der Bundesregierung - Stand der Umsetzung</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium f&#252;r Bildung und Forschung</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/242/1924243.pdf</pdf_url>
+      <id>247319</id>
+      <dokumentnummer>19/24243</dokumentnummer>
+      <datum>2020-11-12</datum>
+      <verteildatum>2020-11-18</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Antwort
+der Bundesregierung
+auf die Kleine Anfrage der Abgeordneten Mario Brandenburg (S&#252;dpfalz), 
+Dr. Thomas Sattelberger, Katja Suding, weiterer Abgeordneter und der Fraktion 
+der FDP
+&#8211; Drucksache 19/23380 &#8211;
+Zwei Jahre KI-Strategie der Bundesregierung &#8211; Stand der Umsetzung
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Die Strategie K&#252;nstliche Intelligenz (KI) der Bundesregierung wurde im
+Dezember 2018 vorgestellt, im November 2019 wurde der erste Zwischenbericht 
+ver&#246;ffentlicht. Die Fortschreibung der KI-Strategie soll noch in diesem Herbst 
+geschehen. Im Zwischenbericht 2019 wurden zwar einige bereits gestartete 
+bzw. geplante Programme vorgestellt, jedoch fehlen den Fragestellern auch 
+nach der Ver&#246;ffentlichung des Zwischenberichts und mit der Antwort auf die 
+letzte Kleine Anfrage (Bundestagsdrucksache 15846) noch immer wichtige
+Informationen zur Beurteilung der Umsetzung der KI-Strategie. Hinzu kommt, 
+dass im Zusammenhang mit dem j&#252;ngsten Konjunkturpaket der
+Bundesregierung weitere 2 Mrd. Euro f&#252;r KI vorgesehen sind. F&#252;r den Zwischenbericht 
+wurden weder vorher Messkriterien gesetzt noch gab es eine andere Art der 
+Bewertung des Erreichens der Ziele der Bundesregierung. Nach Ansicht der 
+Fragesteller kann auf diese Art und Weise keine objektive Bewertung der 
+Leistungen im Zusammenhang mit der KI-Strategie erfolgen. Bis jetzt liegen 
+keine messbaren Auswertungen vor, obwohl der Staat und damit der
+Steuerzahler weitere 2 Mrd. Euro in die Schl&#252;sseltechnologie investieren will.
+Dieser Ansicht sind nicht nur die Fragesteller: Die Stiftung Neue Verantwortung 
+hat bereits m&#246;gliche Indikatoren entwickelt und gemeinsam mit &#8222;applied AI&#8220; 
+ein Monitoring durchgef&#252;hrt (&#8222;Mit Indikatoren zum Erfolg&#8220;, Stiftung Neue 
+Verantwortung, 2019). Auch die Expertenkommission f&#252;r Forschung und
+Innovation forderte direkt nach der Ver&#246;ffentlichung der KI-Strategie die
+Einf&#252;hrung von messbaren Indikatoren (EFI-Bericht 2019).
+Vor allem mit Blick auf den Mittelstand kann nach Ansicht der Fragesteller 
+davon ausgegangen werden, dass die Risikobereitschaft und Investitionen im 
+KI-Bereich weiter sinken werden. Schon heute haben nur 4 Prozent der
+deutschen Unternehmen KI bereits im Einsatz, weitere 2 Prozent sind in der
+Implementierungsphase (&#8222;K&#252;nstliche Intelligenz in Unternehmen&#8220;, PwC, 2019). 
+Zudem plant nur jedes siebte Unternehmen f&#252;r 2020 Ausgaben im Bereich KI 
+ein (&#8222;Unternehmen tun sich noch schwer mit KI&#8220;, Bitkom, 8. Juni 2020).
+Unternehmen geben nicht nur fehlendes Geld als Grund f&#252;r mangelnde
+Investitionen an. 70 Prozent der Manager und Unternehmer f&#252;hren beispielsweise aus, 
+dass ihnen die Zeit fehlt, sich mit KI-Investitionen zu besch&#228;ftigen. Hinzu 
+Deutscher Bundestag Drucksache 19/24243
+19. Wahlperiode 12.11.2020
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums f&#252;r Bildung und Forschung vom 
+11. November 2020 &#252;bermittelt.
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext.
+kommt, dass in deutschen Unternehmen noch immer gro&#223;e Angst vor KI 
+herrscht: 28 Prozent der Unternehmen betrachten KI als Gefahr f&#252;r das eigene 
+Unternehmen. 14 Prozent der Unternehmen glauben hingegen, dass KI
+keinerlei Auswirkungen auf das eigene Unternehmen haben wird (&#8222;Unternehmen tun 
+sich noch schwer mit KI&#8220;, Bitkom, 8. Juni 2020). Beide Ans&#228;tze sind
+hemmend f&#252;r Investitionen und das Vertrauen deutscher Unternehmen in KI. Hier 
+m&#252;ssen nach Ansicht der Fragesteller finanzielle Unterst&#252;tzungen und
+fachliche Initiativen ineinandergreifen, damit der deutsche Mittelstand weiter in die 
+Zukunft blicken kann. Gerade anwendungsorientierte Hochschulen und
+au&#223;eruniversit&#228;re Forschungseinrichtungen sind hier in der Verantwortung, Transfer 
+von wissenschaftlichen Ergebnissen in wirtschaftliche Erfolge umzusetzen. 
+Hier sollte nach Ansicht der Fragesteller eine gro&#223;e, ineinandergreifende
+Offensive mit Coachings und Kooperationen aufgebaut werden.
+Die Fragesteller wollen die Wirksamkeit der Strategie K&#252;nstliche Intelligenz 
+mit ihren zahlreichen verschiedenen Projekten und Programmen sowie im 
+Rahmen der zur Verf&#252;gung gestellten finanziellen Mittel nachgewiesen
+wissen.
+&#8199;1. Wie weit ist der Stand der Fortschreibung der KI-Strategie?
+Welche Ver&#228;nderungen plant die Bundesregierung in der Fortschreibung?
+Welche Anpassungen wird die Bundesregierung auch im Lichte der
+Datenethikkommission unternehmen?
+Wie wird sie die Erkenntnisse der Enquete-Kommission &#8222;K&#252;nstliche
+Intelligenz&#8220; des Deutschen Bundestages, die ihren Abschlussbericht Ende 
+Oktober 2020 vorlegen wird, einarbeiten?
+Die Fortschreibung der Strategie K&#252;nstliche Intelligenz (KI) soll zeitnah vom 
+Kabinett verabschiedet werden. Ziel ist es, die Ma&#223;nahmen der
+Bundesregierung unter Ber&#252;cksichtigung aktueller Entwicklungen im Bereich der
+K&#252;nstlichen Intelligenz seit Beschluss der Strategie im November 2018 zu fokussieren. 
+Die Bundesregierung hat die Arbeit der Datenethikkommission und der 
+Enquete-Kommission &#8222;K&#252;nstliche Intelligenz&#8220; des Deutschen Bundestages
+aufmerksam verfolgt und ihre Ergebnisse bei der Fortschreibung der Strategie
+ber&#252;cksichtigt.
+&#8199;2. Was ist der Stand des in der KI-Strategie geplanten KI-Transferkonzepts?
+Plant die Bundesregierung, in diesem Zusammenhang bei den
+Wissenschaftsorganisationen einen st&#228;rkeren Fokus auf die F&#246;rderung von Spin-
+Offs aus Hochschulen und au&#223;eruniversit&#228;ren Forschungseinrichtungen 
+anstelle von Transferprojekten, die gr&#246;&#223;tenteils Gro&#223;unternehmen helfen, 
+zu legen?
+Wenn nein, warum nicht?
+Die Bundesregierung verfolgt eine Kombination verschiedener Ma&#223;nahmen im 
+Sinne einer ganzheitlichen Unterst&#252;tzung des Transfers wissenschaftlicher
+Erkenntnisse in die Anwendung. Dazu z&#228;hlt sowohl die Gr&#252;ndungsf&#246;rderung als 
+auch der Transfer im Rahmen kooperativer Projekte aus Wissenschaft und 
+Wirtschaft. Den strategischen Rahmen dieser Ma&#223;nahmen bildet die KI-
+Strategie selbst. Zur F&#246;rderung von Ausgr&#252;ndungen im Bereich KI wird auf die
+Antwort der Bundesregierung zu Frage 39 der Kleinen Anfrage der Fraktion 
+B&#220;NDNIS 90/DIE GR&#220;NEN auf Bundestagsdrucksache 19/21858 verwiesen.
+&#8199;3. Zu welchen Ma&#223;nahmen gibt es nach Kenntnis der Bundesregierung ein 
+freiwilliges Monitoring, wie von den Bundesministerien berichtet (&#8222;KI 
+hat wieder Konjunktur&#8220;, Tagesspiegel Background, 8. Juni 2020)?
+a) Wie genau war dieses Monitoring gestaltet?
+b) Welche Ergebnisse gab es bei diesem Monitoring?
+Die Fragen 3 bis 3b werden im Zusammenhang beantwortet.
+Jedes Ministerium &#252;berwacht und kontrolliert die Umsetzung aller
+finanzwirksamen Ma&#223;nahmen in eigener Zust&#228;ndigkeit und nach den f&#252;r die Haushalts- 
+und Wirtschaftsf&#252;hrung geltenden Vorschriften und Grunds&#228;tzen.
+&#8199;4. Plant die Bundesregierung, f&#252;r die im Konjunkturpaket geplanten
+weiteren 2 Mrd. Euro Investition in KI klare Benchmarks sowie Key
+Performance Indicators (KPIs), um den Erfolg der finanzierten Programme 
+festzustellen?
+Die Bundesregierung hat &#252;ber die Ausgestaltung der Ma&#223;nahmen zur
+F&#246;rderung K&#252;nstlicher Intelligenz im Rahmen des Konjunktur- und Zukunftspaketes 
+noch nicht entschieden.
+&#8199;5. Wieso hat sich die Bundesregierung bisher gegen die Aufstellung von 
+KPIs mit Blick auf die Bewertung der erreichten Leistungen bei der KI-
+Strategie entschieden?
+a) Hat die Bundesregierung die Bewertung durch KPIs f&#252;r die Zukunft 
+&#8211; vor allem in der Fortschreibung der KI-Strategie &#8211; geplant?
+b) Wenn ja, welche KPIs sollen genutzt werden, und wenn nein, wieso 
+nicht?
+Die Fragen 5 bis 5b werden im Zusammenhang beantwortet.
+Um Trends und Entwicklungen in der deutschen, europ&#228;ischen und
+internationalen KI-Landschaft zu erfassen und die Umsetzungsma&#223;nahmen der KI-
+Strategie darauf auszurichten und zu bewerten, stellt die Bundesregierung
+Indikatoren zusammen, die stetig weiterentwickelt werden.
+Im &#220;brigen wird auf die Antwort der Bundesregierung zu den Fragen 1 und 2 
+der Kleinen Anfrage der Fraktion der FDP auf Bundestagsdrucksache 19/7626 
+verwiesen.
+&#8199;6. Wie steht die Bundesregierung zum Vorschlag der Bitkom, KI-
+Professuren nicht nur im Fachbereich Informatik, sondern auch in anderen
+Fachbereichen, wie beispielsweise Betriebs- oder Rechtswissenschaften,
+anzusiedeln?
+Die Bundesregierung teilt diese Auffassung.
+&#8199;7. Wie steht die Bundesregierung zum Vorschlag der Bitkom, einen
+&#8222;Lehrstuhl 2.0&#8220; einzuf&#252;hren, bei dem KI-Professorinnen und KI-Professoren in 
+Teilzeit an der Hochschule t&#228;tig sein k&#246;nnten und die andere H&#228;lfte
+Forschungsaufgaben in Unternehmen &#252;bernehmen oder ein Start-up leiten 
+k&#246;nnte?
+Es wird auf die Antwort der Bundesregierung zu den Fragen 33 und 34 der 
+Kleinen Anfrage der Fraktion der FDP &#8222;Biotechnologie-Standort Deutschland 
+&#8211; Antiinfektiva und Impfstoffe&#8220; auf Bundestagsdrucksache 19/23178
+verwiesen.
+&#8199;8. Wie verteilen sich die Ausgaben f&#252;r Wissenstechnologien (Gruppe GA 
+der FuE-Ausgaben [FuE = Forschung und Entwicklung]) im
+Bundeshaushalt 2020 (bitte nach Technologiefeldern &#8211; KI, Blockchain,
+Mikrosystemtechnik, Robotik &#8211; und profitierenden Gruppen &#8211; Startups, kleine 
+und mittlere Unternehmen [KMU], Gro&#223;unternehmen, au&#223;eruniversit&#228;re 
+Forschungseinrichtungen &#8211; aufteilen)
+Eine eindeutige Zuordnung von F&#246;rderma&#223;nahmen auf Technologiefelder ist in 
+der Regel nicht m&#246;glich. Zum einen sind die Technologiefelder selbst nicht 
+trennscharf voneinander abgegrenzt, wie beispielsweise KI und Robotik, zum 
+anderen haben gef&#246;rderte Forschungs- und Entwicklungsvorhaben h&#228;ufig die 
+Kombination verschiedener Technologien zum Gegenstand. So ist
+beispielsweise KI als Schl&#252;sseltechnologie Gegenstand oder Bestandteil sehr vielf&#228;ltiger 
+Vorhaben &#8211; auch &#252;ber die Gruppe &#8222;Softwaresysteme; Wissenstechnologien&#8220; der 
+Leistungsplansystematik des Bundes hinaus.
+Die Einordnung der Ma&#223;nahmen in die Leistungsplansystematik des Bundes 
+wird zudem erst mit Bewilligung der Einzelvorhaben vorgenommen. &#220;ber die 
+Verteilung von Ausgaben im Bundeshaushalt 2020 auf Grundlage ihrer
+Einordnung in der Leistungsplansystematik kann somit im laufenden
+Haushaltsvollzug keine abschlie&#223;ende Angabe gemacht werden.
+&#8199;9. Wie viele der von der Bundesregierung geplanten zehn
+Innovationswettbewerbe (Bundestagsdrucksache 19/11412) wurden bislang gestartet?
+a) Bei wie vielen der Wettbewerbe ging es im Kern um KI?
+b) Wie viele Antr&#228;ge wurden f&#252;r die gestarteten KI-Wettbewerbe
+eingereicht (bitte nach Antr&#228;gen pro Wettbewerb auflisten)?
+c) Wie viele Projekte wurden aus diesen KI-Wettbewerben heraus
+genehmigt (bitte nach Projekten pro Wettbewerb auflisten)?
+d) Wie viele eingereichte Antr&#228;ge und genehmigte Projekte gab es
+insgesamt in allen gestarteten Innovationswettbewerben (bitte nach
+Antr&#228;gen und Projekten pro Wettbewerb auflisten)?
+10. Falls die Fragen 9a bis 9d nicht beantwortet werden k&#246;nnen, wie viele 
+Antr&#228;ge und genehmigte Projekte hatten jeweils im Kern mit KI zu tun?
+Die Fragen 9 bis 10 werden im Zusammenhang beantwortet:
+Das Bundesministerium f&#252;r Bildung und Forschung (BMBF) hat 2019 drei
+Pilotinnovationswettwerbe gestartet. Diese sollen den k&#252;nftigen
+Innovationswettbewerben der Agentur f&#252;r Sprunginnovationen (SprinD GmbH) als
+Erkenntnisgewinn dienen. Einer dieser Pilotinnovationswettbewerbe befasst sich mit dem 
+Thema &#8222;Energieeffizientes KI-System&#8220;. Zu diesem sind 27 Projektskizzen
+eingegangen, elf Konsortien werden noch bis Ende 2020 im Wettbewerb gef&#246;rdert 
+und im Anschluss daran die Gewinner ermittelt.
+Zu dem Wettbewerb &#8222;Organersatz aus dem Labor&#8220; gingen 23 Projektskizzen 
+ein. Aus diesen Einreichungen wurden im Mai 2020 drei Gewinner gek&#252;rt,
+deren F&#246;rderantr&#228;ge gegenw&#228;rtig in Bearbeitung sind. Zu dem dritten Wettbewerb 
+&#8222;Weltspeicher&#8220; gingen 25 Projektskizzen ein, von denen gegenw&#228;rtig f&#252;nf zur 
+weiteren Ausarbeitung ihrer Konzepte im Wettbewerb gef&#246;rdert werden. Die 
+Entscheidung &#252;ber die Gewinner dieses Wettbewerbs ist f&#252;r Mitte 2021
+geplant. Bis zu zwei Gewinner k&#246;nnen ihre Ideen anschlie&#223;end in F&#246;rdervorhaben 
+bis zum Status eines Labordemonstrators umsetzen.
+Die SprinD GmbH, gegr&#252;ndet im Dezember 2019, erh&#228;lt bei der Suche nach 
+Ideen mit Sprunginnovationspotential gr&#246;&#223;tm&#246;gliche Freiheiten. Dies betrifft 
+auch den Start von Innovationswettbewerben. Nach Kenntnis der
+Bundesregierung sollen im Jahr 2021 die ersten Innovationswettbewerbe der SprinD
+beginnen.
+Im Rahmen des F&#246;rderschwerpunkts &#8222;Entwicklung digitaler Technologien&#8220; hat 
+zudem das Bundesministerium f&#252;r Wirtschaft und Energie (BMWi) den
+Innovationswettbewerb K&#252;nstliche Intelligenz als Treiber f&#252;r volkswirtschaftlich
+relevante &#214;kosysteme&#8220; (KI-Innovationswettbewerb) auf Grundlage der KI-
+Strategie der Bundesregierung zeitnah zum Jahresanfang 2019 gestartet.
+Bei diesem Innovationswettbewerb haben sich an den bisherigen drei
+F&#246;rderaufrufen 1. F&#246;rderaufruf (1/2019, themenoffen), 2. F&#246;rderaufruf (2/2020, 
+Schwerpunkt GAIA-X), 3. F&#246;rderaufruf (5/2020, KI zur Krisenbew&#228;ltigung) 
+insgesamt 170 Konsortien mit Projektvorschl&#228;gen beteiligt. Auf Grundlage des 
+verf&#252;gbaren Budgets werden bislang 20 gro&#223;volumige Verbundvorhaben aus 
+Wirtschaft und Wissenschaft mit unmittelbarem KI-Bezug jeweils im Umfang 
+von mehr als 10 Mio. Euro gef&#246;rdert. Die Auswahl erfolgte auf Basis externer 
+Begutachtungen. Die Begutachtung und Auswahl f&#246;rderf&#228;higer Vorhaben aus 
+dem 3. F&#246;rderaufruf ist gegenw&#228;rtig noch nicht abgeschlossen. Voraussichtlich 
+k&#246;nnen mit den verf&#252;gbaren Mitteln etwa vier weitere Verbundvorhaben
+gef&#246;rdert werden.
+11. Liegen der Bundesregierung Daten zur Anzahl der deutschen KI-Patente 
+nach dem deutschen Patentrecht sowie nach dem Europ&#228;ischen
+Patent&#252;bereinkommen, aufgeteilt nach funktionalen Anmeldekategorien &#8211;
+beispielsweise Computer vision, speech processing und robotics &#8211;, im
+Vergleich zu anderen L&#228;ndern in den letzten zehn Jahren vor (bitte pro Jahr, 
+Land und funktionaler Anmeldekategorie angeben)?
+a) Wenn nein, wie will die Bundesregierung den Erfolg der
+Patentzahlen werten?
+b) L&#228;sst sich, falls vorhanden, bei den Daten eine Tendenz f&#252;r die
+St&#228;rken und Schw&#228;chen Deutschlands im Bereich KI erkennen?
+Die Fragen 11 bis 11b werden im Zusammenhang beantwortet.
+Die Bundesregierung verf&#252;gt &#252;ber keine konkreten Erkenntnisse, wie hoch die 
+Anzahl der deutschen KI-Patente nach dem deutschen Patentrecht sowie nach 
+dem Europ&#228;ischen Patente&#252;bereinkommen, aufgeteilt nach funktionalen
+Anmeldekategorien &#8211; beispielsweise Computer vision, speech processing und
+robotics &#8211; im Vergleich zu anderen L&#228;ndern in den zur&#252;ckliegenden zehn Jahren 
+war. Das Deutsche Patent- und Markenamt (DPMA) hat im April 2019 eine 
+Auswertung zu der Anzahl der KI-Patentanmeldungen mit Wirkung f&#252;r 
+Deutschland, aufgeteilt nach KI-Teilgebieten f&#252;r einen 10-Jahres-Zeitraum mit 
+Angaben zu Jahr und KI-Teilbereich im DPMA-Datenblatt &#8222;K&#252;nstliche
+Intelligenz&#8220; vorgelegt, die auf der Homepage des DPMA abrufbar ist. Insoweit ist
+jedoch zu beachten, dass es keine allgemein g&#252;ltige Definition f&#252;r KI-Patente 
+gibt; eine vollst&#228;ndig trennscharfe Abgrenzung zu anderen Technikgebieten ist
+deshalb nicht m&#246;glich. Die Auswertung des DPMA hat insoweit nur eine
+beschr&#228;nkte Aussagekraft.
+Die Bundesregierung hat auf der Basis dieser Daten keine Analyse im Hinblick 
+auf die St&#228;rken und Schw&#228;chen Deutschlands im Bereich KI vorgenommen.
+Eine vergleichende Analyse bietet der Bericht der Weltorganisation f&#252;r geistiges 
+Eigentum (WIPO) &#8222;WIPO Technology Trends 2019 &#8211; Artificial Intelligence&#8220;.
+12. Wie hoch war der Anteil der KI-Start-ups bei den Ausgr&#252;ndungen aus 
+au&#223;eruniversit&#228;ren Forschungseinrichtungen in den letzten zw&#246;lf Jahren 
+(bitte nach Jahr und Forschungseinrichtung angeben)?
+Der Anteil der KI-Startups bei Ausgr&#252;ndungen ist f&#252;r die Helmholtz-
+Gemeinschaft und die Max-Planck-Gesellschaft nachstehender Tabelle zu entnehmen. 
+Die Angaben umfassen sowohl Ausgr&#252;ndungen, die auf KI basieren, als auch 
+Ausgr&#252;ndungen, die KI nutzen. Da es keine allgemeing&#252;ltige Definition f&#252;r KI-
+Startups gibt, liegen der Bundesregierung keine fl&#228;chendeckenden und
+vergleichbaren Angaben &#252;ber alle au&#223;eruniversit&#228;ren Forschungseinrichtungen zu 
+Ausgr&#252;ndungen im KI-Bereich vor. Alle au&#223;eruniversit&#228;ren
+Forschungsorganisationen ver&#246;ffentlichen jedoch Angaben &#252;ber ihre Ausgr&#252;ndungen transparent 
+auf ihrer jeweiligen Homepage.
+Anteil KI-Startups
+Jahr aller MPG-Ausgr&#252;ndungenin Prozent
+aller HGF-Ausgr&#252;ndungen
+in Prozent
+2008 14 0
+2009 100 0
+2010 0 8
+2011 0 15
+2012 30 22
+2013 50 0
+2014 50 0
+2015 40 5
+2016 36 17
+2017 20 5
+2018 17 22
+2019 44 35
+13. Mit welchen Initiativen aus der KI-Strategie hat die Bundesregierung seit 
+dem Zwischenbericht die Transferstrukturen in die Wirtschaft bzw. in 
+den Mittelstand gef&#246;rdert?
+Die Bundesregierung hat die in der Antwort zu Frage 39 der Kleinen Anfrage 
+der Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN auf Bundestagsdrucksache 
+19/21858 und im Zwischenbericht zur KI-Strategie aufgef&#252;hrten Ma&#223;nahmen 
+fortgef&#252;hrt und, wo n&#246;tig, intensiviert. Aktuell sind bereits mehr als 50 KI-
+Trainer an nunmehr 16 Mittelstand 4.0-Kompetenzzentren t&#228;tig; f&#252;r weitere
+Informationen wird auf die Antwort zu Frage 44 und die Antwort der
+Bundesregierung auf die Schriftlichen Fragen 54 und 55 der Abgeordneten Dr. Anna 
+Christmann auf Bundestagsdrucksache 19/22308 verwiesen. Im Rahmen des 
+Aufbaus eines Nationalen Forschungskonsortiums f&#252;r KI wurde die F&#246;rderung 
+weiterer KI-Anwendungshubs im Gesundheitsbereich mit Ver&#246;ffentlichung
+einer Richtlinie vom 28. Februar 2020 auf den Weg gebracht.
+14. Sind die Projekte der &#8222;Zukunftslabore&#8220; wie geplant im ersten Quartal 
+2020 angelaufen (Bundestagsdrucksache 19/16461), und wenn nein, was 
+war der Grund f&#252;r die Verz&#246;gerung?
+a) Auf welche Resonanz ist die Ausschreibung &#8222;Zukunftslabore&#8220; des 
+Bundesministeriums f&#252;r Bildung und Forschung (BMBF) gesto&#223;en?
+b) Woher kamen die Projektskizzen (bitte nach Hochschulen,
+au&#223;eruniversit&#228;ren Forschungseinrichtungen, KMU, Start-ups und
+Gro&#223;unternehmen aufschl&#252;sseln)?
+c) Wann werden voraussichtlich die Zuwendungsbescheide versandt?
+d) Wie viele Zukunftslabore werden voraussichtlich entstehen?
+Die Fragen 14 bis 14d werden im Zusammenhang beantwortet.
+Die Projekte sind zum 1. Mai 2020 gestartet. Grund f&#252;r die geringe
+Verz&#246;gerung war eine versp&#228;tete Vorlage der finalen Antragstellung in Kombination 
+mit den f&#252;r eine Bewilligung erforderlichen Abl&#228;ufen der Qualit&#228;tssicherung 
+bei Projekten dieser Gr&#246;&#223;enordnung.
+Insgesamt wurden 14 Bewerbungen eingereicht. An ihnen haben sich &#252;ber 35 
+deutsche und mehr als 70 ausl&#228;ndische Forschungseinrichtungen beteiligt.
+Darunter waren 99 Hochschulen, 8 au&#223;eruniversit&#228;re Forschungseinrichtungen, 20 
+KMU und 6 Gro&#223;unternehmen.
+Die F&#246;rderbescheide wurden am 27. April 2020 versandt. Das BMBF f&#246;rdert 
+im Rahmen der Ausschreibung drei Zukunftslabore.
+15. Ist der Bundesregierung bekannt, dass in Deutschland laut Prof. Dr.
+Antonio Kr&#252;ger vom Deutschen Forschungszentrum f&#252;r K&#252;nstliche
+Intelligenz (DFKI) und laut Analysen von Prof. Dietmar Harhoff immer noch 
+ein Netto-Abfluss bei KI-Forschern herrscht?
+Wenn nein, wird die Bundesregierung hierzu die Zahlen analysieren und 
+aufbereiten?
+a) Wie hoch ist dieser Abfluss nach Kenntnis der Bundesregierung?
+Wenn es hierzu keine Zahlen gibt, wieso nicht?
+b) Was plant die Bundesregierung, gegen den Netto-Abfluss von KI-
+Forschern zu unternehmen?
+Welche Ma&#223;nahmen sollen gegen den Abgang und f&#252;r den Zufluss 
+von KI-Forschern getroffen werden?
+Die Fragen 15bis 15b werden im Zusammenhang beantwortet.
+Die Bundesregierung verfolgt die ver&#246;ffentlichten Stellungnahmen und
+Analysen aufmerksam. Dar&#252;ber hinaus liegen der Bundesregierung keine
+Erkenntnisse vor.
+Da es keine von allen Akteuren konsistent genutzte Definition von KI gibt,
+liegen zur Anzahl von Forschenden in Deutschland, die sich dem Bereich der KI 
+zuordnen lassen, keine genauen Statistiken vor.
+Um international t&#228;tige KI-Experten sowie junge Talente f&#252;r Deutschland
+zu gewinnen, hat die Bundesregierung unterschiedliche Ma&#223;nahmen mit der 
+Alexander von Humboldt-Stiftung und dem Deutschen Akademischen
+Austauschdienst (DAAD) gestartet; darunter die Alexander von Humboldt-
+Professuren f&#252;r K&#252;nstliche Intelligenz (AHP-KI). Durch den Aufbau
+international sichtbarer und renommierter Forschungsstrukturen f&#246;rdert die
+Bundesregierung zudem attraktive Rahmenbedingungen f&#252;r KI-Forschung in Deutschland. 
+Auch im Rahmen des Programms &#8222;Forschung an Fachhochschulen&#8220; werden
+Voraussetzungen geschaffen, um mittel- und langfristig KI-Expertise am
+Standort Deutschland aufzubauen und in einem exzellenten Forschungsumfeld mit 
+hohem Anwendungsbezug zu halten.
+16. Plant die Bundesregierung eine Vernetzung der Kompetenzzentren f&#252;r KI 
+mit der Agentur f&#252;r Sprunginnovation, um das forschungsbasierte
+Gr&#252;ndungs-Know-how noch transparenter zu b&#252;ndeln?
+Wenn ja, wie soll diese Vernetzung aussehen?
+Wenn nein, wieso nicht?
+Das Thema KI hat f&#252;r die SprinD GmbH besondere Bedeutung, wenngleich die 
+Agentur technologieoffen agiert. Die SprinD GmbH wird im gesamten Prozess 
+der Entwicklung von Ideen mit Sprunginnovationspotential im Austausch mit 
+den jeweils relevanten Akteuren stehen und dabei projektbezogen Netzwerke 
+mit Forschungseinrichtungen und Unternehmen anbahnen und
+weiterentwickeln.
+17. Sieht die Bundesregierung es als zielf&#252;hrend an, insbesondere die
+Forschungseinrichtungen zu f&#246;rdern, um &#8222;KI &#8211; Made in Europe&#8220; zu schaffen 
+und so ein kompetitives Angebot im Bereich KI und Mikroelektronik 
+aufzubauen?
+Wie steht die Bundesregierung zu einem Ansatz anderer L&#228;nder wie in 
+den USA oder Asien, eher Start-ups und forschungsintensive
+Unternehmen hierbei zu unterst&#252;tzen?
+Zur Etablierung einer &#8222;AI Made in Europe&#8220; bedarf es nach Ansicht der
+Bundesregierung sowohl einer St&#228;rkung von herausragenden und international
+sichtbaren Forschungsstrukturen als auch einer F&#246;rderung des Aufbaus von KI-
+&#214;kosystemen in Deutschland und Europa, um die Anwendung von KI, auch im 
+Rahmen von Ausgr&#252;ndungen und Start-ups, in der Breite zu st&#228;rken.
+18. Sieht die Bundesregierung in der L&#228;nge der Antr&#228;ge, der
+Bearbeitungsdauer und in den Vergabekriterien Probleme f&#252;r Start-ups bei der
+Vergabe von F&#246;rdergeldern f&#252;r Kooperationsprojekte mit beispielsweise
+Forschungsinstituten?
+a) Plant die Bundesregierung, die Vergabekriterien f&#252;r
+Projektf&#246;rderungen auf Start-ups anzupassen?
+Wenn ja, wie will sie dies erreichen?
+Wenn nein, wieso ist dies nicht in Planung?
+b) Ist die Bonit&#228;t von Unternehmen ein Vergabekriterium bei der
+Vergabe von F&#246;rdergeldern, und wenn ja, wie geht die Bundesregierung 
+damit um, dass insbesondere Start-ups gro&#223;e
+Bonit&#228;tsherausforderungen haben?
+c) Ist es bei Kooperationsprojekten m&#246;glich, dass ein gr&#246;&#223;erer Partner 
+f&#252;r die Bonit&#228;t von Start-ups b&#252;rgt?
+d) Plant die Bundesregierung, die Bonit&#228;tspr&#252;fung den besonderen
+Bedingungen von Start-ups anzupassen?
+Die Fragen 18 bis 18d werden im Zusammenhang beantwortet.
+Die bestehenden Vergabekriterien erm&#246;glichen schon heute eine erfolgreiche 
+Bewerbung von Start-ups. Gleichzeitig ist es f&#252;r die Bundesregierung ein
+wichtiges Ziel, mehr Start-ups die erfolgreiche Teilnahme an F&#246;rderprojekten zu
+erm&#246;glichen. Die Bundesregierung ist mit Start-ups im regelm&#228;&#223;igen Austausch, 
+etwa durch den Beirat Junge Digitale Wirtschaft beim BMWi.
+Die EU-beihilferechtlichen Vorgaben sehen teilweise vor, dass Unternehmen in 
+Schwierigkeiten (UiS) gem&#228;&#223; Artikel 2 Nummer 18 der beihilferechtlichen
+Allgemeinen Gruppenfreistellungsverordnung (Verordnung (EU) Nr. 651/2014) 
+nicht gef&#246;rdert werden d&#252;rfen. Diese Vorgaben muss die Bundesregierung bei 
+der Vergabe von F&#246;rdergeldern beachten. Die Bundesregierung hat sich bei der 
+Europ&#228;ischen Kommission angesichts der aktuellen Corona-Pandemie
+mehrfach f&#252;r vor&#252;bergehende Erleichterungen f&#252;r Unternehmen in Schwierigkeiten 
+eingesetzt. Derartige Erleichterungen hat die Europ&#228;ische Kommission
+inzwischen teilweise erm&#246;glicht.
+Es ist grunds&#228;tzlich m&#246;glich, dass ein gr&#246;&#223;erer Partner im Rahmen von
+Kooperationsprojekten f&#252;r ein Startup-Unternehmen b&#252;rgt. Ein B&#252;rge haftet im Falle 
+der Zahlungsunf&#228;higkeit eines Zuwendungsempf&#228;ngers f&#252;r dessen
+Zahlungsverpflichtungen gegen&#252;ber dem Zuwendungsgeber. Diese B&#252;rgschaft dient
+jedoch ausdr&#252;cklich nicht zur Sicherung des Eigenanteils.
+19. Plant die Bundesregierung, KI-Professuren st&#228;rker mit bereits
+bestehenden oder aktuell entstehenden Clustern, zum Beispiel des Cyber-Valleys, 
+zu vernetzen, und wenn ja, wie soll solch eine Verzahnung
+voraussichtlich aussehen, und wenn nein, wieso nicht?
+Die Vernetzung von Wissenschaftlerinnen und Wissenschaftlern ist eines der 
+zentralen Anliegen der Bundesregierung bei der Umsetzung der KI-Strategie. 
+Viele F&#246;rderma&#223;nahmen sind auf diese Zielsetzung ausgerichtet. Das BMBF 
+setzt sich zudem f&#252;r die Einrichtung neuer KI-Professuren im Netzwerk der 
+Kompetenzzentren f&#252;r KI-Forschung ein. Auch an den Exzellenzclustern der 
+Exzellenzstrategie findet eine wirkungsvolle Vernetzung der Forschenden statt.
+20. Sind der Bundesregierung die Zahlen der Bitkom bekannt, wonach nur 
+15,9 Prozent der KI-Professuren von Frauen besetzt sind?
+a) Worin liegen nach Ansicht der Bundesregierung die Gr&#252;nde f&#252;r einen 
+so geringen Frauenanteil?
+b) Wie plant die Bundesregierung, die Anzahl der KI-Professorinnen zu 
+erh&#246;hen?
+c) Erw&#228;gt die Bundesregierung, einige KI-Professuren ausschlie&#223;lich 
+f&#252;r Frauen auszuschreiben, wie dies beispielsweise in &#214;sterreich
+gemacht wird?
+Die Fragen 20 bis 20c werden im Zusammenhang beantwortet.
+Die Bundesregierung nimmt ver&#246;ffentlichte Studien zum Anteil von Frauen in 
+der Wissenschaft zur Kenntnis. Dar&#252;ber hinaus liegen der Bundesregierung
+keine Erkenntnisse vor.
+Das BMBF hat im Juni 2019 eine Initiative zur gezielten F&#246;rderung von KI-
+Nachwuchswissenschaftlerinnen als Professorinnen von morgen gestartet. Im 
+Rahmen dieser werden von Frauen gef&#252;hrte interdisziplin&#228;re
+Forschungsgruppen unter besonderer Ber&#252;cksichtigung der Vereinbarkeit von Beruf und
+Familie gef&#246;rdert.
+Im &#220;brigen wird auf die Antwort zu den Fragen 21 und 22 verwiesen.
+21. Was ist die Rolle der Bundesregierung bei der Ausschreibung von KI-
+Lehrst&#252;hlen im Rahmen der KI-Strategie?
+a) Welches Ressort ist bzw. welche Ressorts sind dabei federf&#252;hrend?
+b) Wie stellt sich nach Kenntnis der Bundesregierung die Rolle der
+L&#228;nder dar?
+c) Welche Aufgaben haben nach Kenntnis der Bundesregierung die 
+Hochschulen?
+d) Welche Stelle koordiniert die diesbez&#252;glichen Anstrengungen?
+22. Wie viele Lehrst&#252;hle sind nach Kenntnis der Bundesregierung bereits 
+ausgeschrieben (bitte nach Hochschule aufschl&#252;sseln)?
+a) Welche Schwerpunkte haben diese Lehrst&#252;hle?
+b) Mit welchen Summen wurden die Lehrst&#252;hle von der
+Bundesregierung gef&#246;rdert, und aus welchem Budget oder Einzelplan?
+c) Auf Grundlage welcher Kriterien oder Parameter wurden die 
+Schwerpunkte ausgew&#228;hlt?
+Wer hat die Kriterien bzw. Parameter definiert oder dabei beraten?
+d) Wie viele Stellen (Vollzeit&#228;quivalente) sind nach Kenntnis der
+Bundesregierung mit den im Rahmen der KI-Strategie ausgeschriebenen 
+Lehrst&#252;hlen verbunden?
+Die Fragen 21 bis 22d werden im Zusammenhang beantwortet.
+Die Bundesregierung f&#246;rdert die Einrichtung von Professuren unter anderem 
+durch Forschungspreise (wie beispielsweise die AHP-KI), die langfristige
+Etablierung von Forschungsstrukturen, die Anschubfinanzierung von Stellen oder 
+im Rahmen der projektbezogenen Forschungsf&#246;rderung. Diese F&#246;rderung
+erfolgt aus den jeweiligen Titeln des Einzelplans 30. Die Lehrst&#252;hle selbst, bei 
+denen es sich grunds&#228;tzlich um Landesstellen handelt, sind nicht Gegenstand 
+der F&#246;rderung. An ihrer Ausschreibung und Besetzung ist die Bundesregierung 
+nicht beteiligt. Weiteres wird durch einschl&#228;giges Landesrecht geregelt. &#220;ber 
+den Stand und die Ausgestaltung von Stellenausschreibungen und die
+Ausstattungen von Lehrst&#252;hlen liegen der Bundesregierung keine Erkenntnisse vor.
+23. Wie viele der im Rahmen der KI-Strategie ausgeschriebenen Professuren 
+sind nach Kenntnis der Bundesregierung bereits besetzt (bitte mit Namen 
+und Hochschule angeben)?
+24. Hat die Bundesregierung Kenntnis dar&#252;ber, welche KI-
+Forschungsbereiche mit den bereits besetzten Professuren abgedeckt werden?
+Ist sie der Auffassung, dass diese Schwerpunktsetzung den Zielen der 
+KI-Strategie entspricht, und wenn ja, bitte n&#228;her erl&#228;utern.
+Welche Forschungsbereiche werden besonders stark gef&#246;rdert, und
+warum?
+Die Fragen 23 und 24 werden im Zusammenhang beantwortet.
+Es wird auf die Antwort der Bundesregierung auf die Schriftliche Frage 225 
+der Abgeordneten Dr. Anna Christmann auf Bundestagsdrucksache 19/23454 
+verwiesen. Nach Auffassung der Bundesregierung stimmt die Denomination 
+der Stellen mit den Zielen der KI-Strategie im Sinne einer breiten und
+interdisziplin&#228;ren Verankerung von KI an den Hochschulen &#252;berein.
+25. Bis wann sind nach Kenntnis der Bundesregierung alle 100 Professuren 
+ausgeschrieben?
+Es wird auf die Antwort zu den Fragen 21 bis 22d verwiesen.
+26. Gibt es inzwischen klarere Ziele bzw. einen Zeitplan, bis wann die 100 
+KI-Professuren bzw. die 70 au&#223;erhalb des Programms der Alexander von 
+Humboldt-Stiftung (AvH) besetzt werden sollen?
+Gibt es eine Absprache mit den L&#228;ndern, wann wie viele dieser
+Professuren besetzt werden sollen, um das Ziel von 100 Professuren bis 2025 zu 
+erreichen?
+Vor dem Hintergrund der angespannten Arbeitsmarktsituation und um
+Karrierewege auch f&#252;r nachfolgende Generationen exzellenter Wissenschaftlerinnen 
+und Wissenschaftler zu erschlie&#223;en, ist die F&#246;rderung 100 neuer KI-
+Professuren flexibel gestaltet und auf einen mehrj&#228;hrigen Zeitraum nach Ma&#223;gabe der 
+verf&#252;gbaren Haushaltsmittel ausgelegt.
+Im &#220;brigen wird auf die Antwort zu den Fragen 21 bis 22 und 27 bis 27c
+verwiesen.
+27. Stimmt nach Kenntnis der Bundesregierung die Angabe, dass bislang 
+zwei der &#252;ber die Alexander von Humboldt-Stiftung ausgeschriebenen 
+Professuren besetzt wurden?
+a) Ist es richtig, dass die Berufung des Professors in T&#252;bingen im
+dortigen Max-Planck-Institut f&#252;r biologische Kybernetik bereits im
+normalen AvH-Programm feststand und daraufhin in den KI-Zweig der 
+AvH-Stiftung &#8222;umgewidmet&#8220; wurde (https://www.zeit.de/zustimmun
+g?url=https%3A%2F%2Fwww.zeit.de%2F2020%2F09%2Fkuenstlic
+he-intelligenz-experten-forschung-universitaeten-bundesregierung)?
+Wenn ja, wieso wurde dies nicht offen kommuniziert?
+b) In welchem Stadium des Bewerbungsprozesses befinden sich die 
+weiteren 28 Stellen?
+c) Gibt es einen genauen Zeitplan, wie die 30 Professuren besetzt
+werden sollen?
+Die Fragen 27 bis 27c werden im Zusammenhang beantwortet.
+Die AHP richtet sich an weltweit f&#252;hrende Wissenschaftlerinnen und
+Wissenschaftler aller Fachdisziplinen aus dem Ausland und erm&#246;glicht ihnen die 
+Durchf&#252;hrung zukunftsweisender Forschungen an Hochschulen und
+Forschungseinrichtungen in Deutschland. Die Professur erm&#246;glicht
+herausragenden Forscherinnen und Forschern aus dem Ausland eine langfristige
+wissenschaftliche Zukunft in Deutschland. Hochschulen, bei deren Leitungen das
+Nominierungsrecht liegt, und au&#223;eruniversit&#228;re Forschungseinrichtungen in 
+Deutschland erschlie&#223;en sich durch die AHP im internationalen Wettbewerb 
+wissenschaftliche Expertise aus dem Ausland und f&#246;rdern so ihre eigene
+strategische (Neu-)Orientierung. Seit 2019 wird zus&#228;tzlich die neu etablierte AHP-KI 
+vergeben. Beide Programmlinien werden von einem interdisziplin&#228;r
+zusammengesetzten Auswahlausschuss in einem unabh&#228;ngigen Peer-Review
+Verfahren nach einheitlichen Qualit&#228;tsstandards ausgew&#228;hlt. Bisher wurden zwei 
+AHP-KI berufen. Die in der Frage genannte Professur ging in der
+Etablierungsphase der F&#246;rderlinie AHP-KI ein und wurde zun&#228;chst in der regul&#228;ren
+F&#246;rderlinie ausgew&#228;hlt. Nach offiziellem Programmstart der AHP-KI F&#246;rderlinie
+wurde sie mit Blick auf ihre Passf&#228;higkeit f&#252;r das neue Programm in der
+Auswahlsitzung im Herbst 2019 nochmals formal best&#228;tigt. Der Alexander von 
+Humboldt-Stiftung lagen bisher insgesamt 21 Nominierungen f&#252;r die AHP-KI 
+vor. Die 30 angestrebten Professuren sollen bis Ende Oktober 2024 besetzt
+werden, j&#228;hrlich finden zwei Auswahlsitzungen statt.
+28. Wie viele Bewerbungen gab es nach Kenntnis der Bundesregierung
+bislang auf die 30 ausgeschriebenen Alexander-von-Humboldt-Professuren 
+(bitte aufgespaltet nach L&#228;ndern und nach Geschlecht angeben)?
+In den ersten beiden Auswahlrunden wurden 21 Nominierungen eingereicht, 
+davon drei Frauen und 18 M&#228;nner. Die Nominierten forschten bei
+Antragstellung in Australien (1), Kanada (1), Niederlande (2), &#214;sterreich (2), Schweden 
+(1), Schweiz (3), USA (4), Vereinigtes K&#246;nigreich (7).
+Eigenbewerbungen sind in diesem Programm nicht m&#246;glich.
+29. Wie entwickelt sich nach Kenntnis der Bundesregierung die Anzahl an 
+Professuren mit KI-Bezug in den folgenden Staaten:
+a) EU-Mitgliedstaaten,
+b) Kanada,
+c) Japan und
+d) Russland?
+Der Bundesregierung liegen dazu keine Erkenntnisse vor.
+30. Wie viele Professuren mit KI-Bezug wurden in Deutschland nach
+Informationen der Bundesregierung in der Zeit vor der KI-Strategie in den 
+letzten f&#252;nf Jahren ausgeschrieben und besetzt (bitte nach Jahr
+aufschl&#252;sseln)?
+31. Wie hat sich die Anzahl der an K&#252;nstlicher Intelligenz Forschenden nach 
+Kenntnis der Bundesregierung in diesem Zeitraum insgesamt entwickelt?
+a) Wie viele KI-Forschende haben innerhalb Deutschlands den
+Forschungsstandort gewechselt?
+b) Wie viele sind an andere europ&#228;ische Standorte gewechselt?
+c) Wie viele an au&#223;ereurop&#228;ische Standorte?
+d) Wie viele sind von europ&#228;ischen Standorten nach Deutschland
+gewechselt?
+e) Wie viele sind von au&#223;erhalb Europas liegenden Standorten nach 
+Deutschland gewechselt?
+Die Fragen 30 bis 31e werden im Zusammenhang beantwortet.
+Der Bundesregierung liegen hierzu keine Erkenntnisse vor. Es wird auf die 
+Antwort zu den Fragen 15 bis 15b und 21 bis 22d sowie auf die Antwort der 
+Bundesregierung auf die Schriftliche Frage 99 der Abgeordneten Dr. Anna 
+Christmann auf Bundestagsdrucksache 19/6663 verwiesen.
+32. Bis wann m&#246;chte die Bundesregierung das Ziel von 100 neu besetzten 
+Professuren erreicht haben?
+Wie viele Professuren sollen pro Jahr besetzt werden?
+a) Bis wann waren bei der Formulierung der Strategie durch die
+Bundesregierung die Ausschreibung und die Besetzung aller Stellen
+geplant?
+b) Woraus ergibt sich nach Einsch&#228;tzung der Bundesregierung eine 
+eventuell vorhandene Differenz zwischen Plan und Wirklichkeit?
+c) Wie viele Bewerbungen gab es auf die ausgeschriebenen Professuren 
+im Durchschnitt?
+d) Wie viele nach Meinung der Bundesregierung fachlich geeignete
+Bewerberinnen und Bewerber gab es im Durchschnitt?
+e) Wie viele Bewerbungen stammten von Frauen bzw. M&#228;nnern (bitte 
+nach M&#246;glichkeit nach Alterskohorten von f&#252;nf Jahren
+aufschl&#252;sseln)?
+f) Wie viele Bewerbungen aus dem europ&#228;ischen und
+nichteurop&#228;ischen Ausland sind eingegangen?
+g) Wurde die erfolgreiche Besetzung nach Meinung der
+Bundesregierung durch einen Mangel an Fachkr&#228;ften erschwert?
+Wenn ja, welche Ma&#223;nahmen wurden und werden ergriffen, um dem 
+entgegenzuwirken?
+h) Wurden Professuren unabh&#228;ngig von vorhandenen Kenntnissen der 
+deutschen Sprache vergeben?
+Die Fragen 32 bis 32h werden im Zusammenhang beantwortet.
+Es wird auf die Antwort zu den Fragen 26 bis 28 verwiesen.
+33. Wie viele Studierende werden nach Meinung der Bundesregierung an 
+den neuen Lehrst&#252;hlen pro Jahr studieren (bitte nach Fachrichtung, Art 
+des Abschlusses und Hochschule aufschl&#252;sseln)?
+Der Bundesregierung liegen dazu keine Erkenntnisse vor. Eine Zuordnung von 
+Studierenden zu Lehrst&#252;hlen ist zudem in der Regel nicht m&#246;glich.
+34. Gibt es von Seiten der Bundesregierung Unterst&#252;tzungen f&#252;r Studierende 
+und/oder Absolventen beim Transfer des Gelernten in die Anwendung, 
+etwa durch gezielte Unterst&#252;tzung bei der Unternehmensgr&#252;ndung?
+a) Sind darunter Programme, die mit Unternehmen zusammen
+durchgef&#252;hrt werden?
+b) Sind darunter Programme, die das definierte Ziel haben, Absolventen 
+in Deutschland und in der EU zu halten, um einen brain drain zu
+verhindern?
+c) Sind darunter Programme, die das Ziel haben, Austausch zwischen 
+Hochschulen unterschiedlicher Staaten und zwischen Hochschulen 
+und Unternehmen &#252;ber staatliche Grenzen hinweg zu erm&#246;glichen?
+Die Fragen 34 bis 34c werden im Zusammenhang beantwortet.
+Zur F&#246;rderung von Ausgr&#252;ndungen im Bereich KI wird auf die Antwort zu 
+Frage 2 verwiesen.
+Der Transfer von wissenschaftlichen Erkenntnissen in die Anwendung und 
+wirtschaftliche Verwertung am Standort Deutschland und in der Europ&#228;ischen
+Union ist ein &#252;bergeordnetes Ziel der Forschungs- und Innovationsf&#246;rderung 
+der Bundesregierung und wird von allen einschl&#228;gigen F&#246;rderrichtlinien direkt 
+adressiert. Einen wichtigen Beitrag dazu liefern unter anderem Verbundprojekte 
+aus Wissenschaft und Wirtschaft. Zudem ist die internationale Vernetzung von 
+Forschenden Gegenstand der F&#246;rderung des BMBF. Hierbei kommt auch dem 
+DAAD sowie der F&#246;rderung auf europ&#228;ischer Ebene eine wichtige Bedeutung 
+zu.
+Ma&#223;gebliches Programm des Bundes zur F&#246;rderung von Existenzgr&#252;ndungen 
+aus der Wissenschaft ist das Programm EXIST. Das BMWi f&#246;rdert mit EXIST 
+gezielt Studierende, Absolventen oder Mitarbeiter in wissenschaftlichen
+Einrichtungen bzw. Hochschulen bei ihren Gr&#252;ndungsvorhaben. Hierbei gibt es 
+zwei direkte Gr&#252;ndungslinien, EXIST Gr&#252;nderstipendium und EXIST
+Forschungstransfer, sowie die F&#246;rderlinie EXIST Gr&#252;ndungskultur zur
+Unterst&#252;tzung von gr&#252;ndungsfreundlichen Rahmenbedingungen in der Wissenschaft.
+35. Ist der Bundesregierung bekannt, dass bereits vor der Entscheidung f&#252;r 
+100 weitere KI-Professuren, Ende 2018 15 KI-Professuren unbesetzt
+waren, und wenn ja, wie viele dieser 15 offenen Stellen wurden bisher
+besetzt?
+a) Wie viele unbesetzte KI-Professuren gab es Ende 2019?
+b) Wie will die Bundesregierung sicherstellen, dass bei der Besetzung 
+keine Rochaden stattfinden und somit Professuren-L&#252;cken in anderen 
+Orten entstehen?
+Die Fragen 35 bis 35b werden im Zusammenhang beantwortet.
+Es wird auf die Antwort der Bundesregierung auf die Schriftliche Frage 99 der 
+Abgeordneten Dr. Anna Christmann auf Bundestagsdrucksache 19/6663
+verwiesen. Die AHP ist an Bewerber aus dem Ausland gerichtet. Insgesamt zielen 
+die Ma&#223;nahmen der Bundesregierung darauf ab, die Gesamtzahl an KI-
+Professuren zu erh&#246;hen.
+36. Plant die Bundesregierung eine Verst&#228;rkung des Tenure-Track-
+Programms f&#252;r KI-Professuren, und wenn ja, wie soll dieser Ausbau
+aussehen, und wenn nein, wieso nicht?
+Das Bund-L&#228;nder-Programm zur F&#246;rderung des wissenschaftlichen
+Nachwuchses setzt den Schwerpunkt darauf, die Tenure-Track-Professur als
+eigenst&#228;ndigen Karriereweg neben den herk&#246;mmlichen Berufungsverfahren auf eine
+Professur an deutschen Universit&#228;ten und ihnen gleichgestellten Hochschulen
+st&#228;rker zu verankern und dauerhaft in Deutschland zu etablieren. Eine Bindung an 
+bestimmte Fachrichtungen ist deshalb ausdr&#252;cklich nicht vorgesehen. Eine
+Verst&#228;rkung dieses Bund-L&#228;nder-Programms &#252;ber die 1.000 bereits bewilligten 
+Tenure-Track-Professuren allein f&#252;r KI-Professuren ist mithin nicht geplant.
+37. Plant die Bundesregierung, der Empfehlung der Expertenkommission f&#252;r 
+Forschung und Innovation (EFI-Bericht 2019) nachzugehen, &#252;ber die 
+n&#228;chsten f&#252;nf Jahre 1 000 internationale Promotionsstipendien im
+Bereich KI auszugeben?
+Wenn ja, wann wird dieses Programm starten, und wie wird es aussehen?
+Wenn nein, wieso nicht?
+Das BMBF f&#246;rdert den wissenschaftlichen KI-Nachwuchs in Deutschland
+bereits mit vielf&#228;ltigen, sich erg&#228;nzenden Ma&#223;nahmen:
+Eine Initiative zur F&#246;rderung von KI-Nachwuchswissenschaftlerinnen ist im 
+Juni 2019, nach Ver&#246;ffentlichung des EFI-Berichtes, gestartet. Herausragende 
+KI-Talente werden zudem im Rahmen des Tenure-Track-Programm von Bund 
+und L&#228;ndern und einer strategischen F&#246;rderinitiative zur KI der Deutschen
+Forschungsgemeinschaft unterst&#252;tzt.
+Der DAAD f&#246;rdert die internationale Vernetzung von Nachwuchsinformatikern 
+und KI-Experten im Rahmen der Programme &#8222;IFI &#8211; Internationale
+Forschungsaufenthalte f&#252;r Informatiker&#8220; und &#8222;Postdoc-NeT-AI &#8211; Postdoctoral Networking 
+Tour in Artificial Intelligence&#8220;. Zur Anwerbung internationaler Talente ist eine 
+F&#246;rderma&#223;nahme im Bereich KI durch den DAAD in Planung, die
+Masterstudierende und Promovierende adressieren wird.
+F&#252;r weitere Ma&#223;nahmen zur St&#228;rkung der Attraktivit&#228;t des KI-
+Forschungsstandortes Deutschland wird auf die Antwort zu Frage 15 bis 15b verwiesen.
+38. Hat das KI-Observatorium, wie auf Bundestagsdrucksache 19/15846
+angegeben, im Fr&#252;hjahr 2020 seine Arbeit aufgenommen?
+a) Wenn ja, welche Beobachtungen wurden hier in der Arbeit des
+Observatoriums bereits gemacht, und welche Schl&#252;sse werden daraus 
+gezogen?
+b) Wenn nein, wann soll die Arbeit des Observatoriums aufgenommen 
+werden, und was waren die Gr&#252;nde f&#252;r die Verz&#246;gerung?
+Die Fragen 38 bis 38b werden gemeinsam beantwortet.
+Das Observatorium K&#252;nstliche Intelligenz in Arbeit und Gesellschaft (KI-
+Observatorium) hat im M&#228;rz 2020 seine Arbeit aufgenommen. Mit dem KI-
+Observatorium, einem Projekt der Denkfabrik Digitale Arbeitsgesellschaft,
+fokussiert das Bundesministerium f&#252;r Arbeit und Soziales die Frage nach den 
+Auswirkungen von KI auf Arbeit und Gesellschaft.
+Zu den Themenschwerpunkten des Observatoriums z&#228;hlen:
+&#8211; Technologie-Foresight und Technikfolgenabsch&#228;tzung
+&#8211; KI in der Arbeits- und Sozialverwaltung
+&#8211; Ordnungsrahmen f&#252;r KI/soziale Technikgestaltung
+&#8211; Aufbau internationaler und europ&#228;ischer Strukturen
+&#8211; Gesellschaftlicher Dialog und Vernetzung
+Um die Auswirkungen von KI auf Arbeit und Gesellschaft zu beobachten und 
+zu analysieren, sind Strukturen und eine objektive Informationsgrundlage
+wichtige Voraussetzungen. Das KI-Observatorium hat im Rahmen der Denkfabrik 
+Digitale Arbeitsgesellschaft ma&#223;geblich beim Aufbau der langfristig
+angelegten internationalen Multiakteurs-Initiative Global Partnership for AI (GPAI) 
+mitgewirkt, bei der Deutschland Gr&#252;ndungsmitglied ist. GPAI soll die
+verantwortungsbewusste Anwendung von KI unterst&#252;tzen. Zudem entwickelt das KI-
+Observatorium Indikatoren, die speziell den Einsatz von KI in Arbeit und
+Gesellschaft erfassen. Dazu organisierte das KI-Observatorium im Mai 2020 einen 
+Workshop mit Expertinnen und Experten aus Wirtschaft, Wissenschaft, Politik, 
+Sozialpartnern und zivilgesellschaftlichen Organisationen. Das KI-
+Observatorium f&#246;rdert au&#223;erdem Studien zu Auswirkungen von KI auf Arbeit und
+Gesellschaft. Dazu geh&#246;rt beispielsweise eine Studie, die unter der Federf&#252;hrung der 
+Gesellschaft f&#252;r Informatik die Zertifizierung von KI-Anwendungen
+untersucht. F&#252;r Dezember hat das KI-Observatorium ein Webinar zum Thema KI in 
+der Arbeits- und Sozialverwaltung geplant.
+Die Arbeitsfortschritte und Ergebnisse des KI-Observatoriums werden laufend 
+auf der Webseite https://www.denkfabrik-bmas.de/projekte/ki-observatorium 
+ver&#246;ffentlicht.
+39. Wie viele KI-Antr&#228;ge wurden im Jahr 2019 an das Zentrale
+Innovationsprogramm Mittelstand (ZIM) gestellt?
+Wie viele hiervon wurden angenommen, wie viele abgelehnt?
+Was sind die &#252;blichen Gr&#252;nde f&#252;r eine Ablehnung?
+a) Wie lange dauert es durchschnittlich, einen Antrag zu bearbeiten, und 
+was war die k&#252;rzeste, und was die l&#228;ngste Bearbeitungszeit?
+b) Wie viele Seiten muss ein Unternehmen f&#252;r einen ZIM-Antrag
+ausf&#252;llen?
+c) Hat die Bundesregierung bereits Umfragen bei KMUs zu deren
+Zufriedenheit mit dem Antragsverfahren gemacht, und wenn ja, ist ein 
+solches Stimmungsbild geplant, und wenn nein, wieso nicht?
+Die Fragen 39 bis 39c werden im Zusammenhang beantwortet.
+Insgesamt wurden im Jahr 2019 319 Antr&#228;ge mit Bezug zu KI gestellt (die
+Antr&#228;ge betreffen in der Regel nicht nur ein, sondern mehrere
+Technologiegebiete). Davon wurden 289 bewilligt, 30 wurden negativ entschieden. Ablehnungen 
+erfolgen mangels Vorliegen der F&#246;rdervoraussetzungen gem&#228;&#223; ZIM-Richtlinie; 
+h&#228;ufige Gr&#252;nde f&#252;r eine Ablehnung sind ein zu geringer Innovationsgehalt und 
+ein zu geringes technisches Risiko bei den Forschungs- und
+Entwicklungsprojekten.
+Die k&#252;rzeste Bearbeitungszeit betrug 0,1 Monate, die maximale 13,5 Monate. 
+In beiden F&#228;llen handelt es sich um statistische Ausrei&#223;er: im ersten Fall wurde 
+ein wiedereingereichtes Projekt, das nach einer vorangegangenen Ablehnung 
+deutlich verbessert worden war, genehmigt; im zweiten Fall geht es um ein
+abgelehntes Projekt, f&#252;r das zeitraubende Pr&#252;fungen vor allem der KMU-
+Eigenschaft notwendig waren. Der Durchschnitt f&#252;r die Bearbeitung betrug f&#252;r 2019 
+eingegangene Projektantr&#228;ge 4,6 Monate. Dieser Wert steht insbesondere mit 
+einem sehr gro&#223;en Antragseingang im Jahr 2019 in Verbindung. Ziel ist
+grunds&#228;tzlich eine Bearbeitungszeit von durchschnittlich ca. drei Monaten.
+Das Antragsformular umfasst 16 Seiten.
+In der 2019 ver&#246;ffentlichen Evaluation des ZIM kommen die Gutachter zum 
+Ergebnis, dass die Beurteilung der ZIM-Administration durch die
+F&#246;rdernehmer in einer, in weiten Teilen, hohen Zufriedenheit mit der Umsetzung des
+Programms resultiert. Neben den Eindr&#252;cken aus Fallstudien und Fokusgruppen, 
+fu&#223;t diese Einsch&#228;tzung auch auf Befragungsergebnissen. Diese Ergebnisse 
+werden auch durch positive R&#252;ckmeldungen der Unternehmen best&#228;tigt.
+40. Ist es geplant, im Rahmen des &#8222;KI f&#252;r KMU&#8220;-Programms mit den
+Industrie- und Handelskammern zusammenzuarbeiten, um Trainings und 
+Schulungen anzubieten, und wenn nein, was spricht gegen eine solche 
+Kooperation?
+Im Rahmen des Programms &#8222;KI f&#252;r KMU &#8211; Das KI-Trainer Programm von 
+Mittelstand-Digital&#8220; wurde bereits eine Kooperation mit dem Deutschen 
+Industrie- und Handelskammertag (DIHK) geschlossen. In Abstimmung mit 
+dem DIHK wurde ein &#8222;Train-the-Trainer&#8220;-Programm entwickelt, an dem
+inzwischen &#252;ber 200 Teilnehmerinnen und Teilnehmer sowohl aus den Industrie- und 
+Handelskammern (IHK) als auch aus den Handwerkskammern zum Thema &#8222;KI 
+im Mittelstand&#8220; geschult werden. Das Ziel ist die Vermittlung von
+anwendungsorientiertem KI-Wissen, welches dann in den jeweiligen Kammern an die 
+KMU weitervermittelt werden kann. Dar&#252;ber hinaus sind in vielen der
+bundesweit 26 Mittelstand 4.0-Kompetenzzentren, an denen die KI-Trainer aus dem 
+&#8222;KI f&#252;r KMU&#8220;-Programm angesiedelt sind, die IHKs vor Ort in die
+Transferarbeit eingebunden, da die IHKs entweder selbst Konsortiumsmitglieder in den 
+Mittelstand 4.0-Kompetenzzentren sind oder als Kooperationspartner agieren. 
+Hier&#252;ber findet ebenfalls eine zunehmende Verzahnung der Angebote von KI-
+Trainern und IHKs statt.
+Es ist vorgesehen, die Kooperation zwischen dem &#8222;KI f&#252;r KMU&#8220;-Programm 
+und den Industrie- und Handelskammern &#252;ber das Train-the-Trainer Programm 
+weiter auszubauen.
+41. Plant die Bundesregierung, der Empfehlung der Expertenkommission f&#252;r 
+Forschung und Innovation aus deren Bericht 2019 nachzugehen, die
+Verf&#252;gbarkeit von Daten zu erh&#246;hen und die Bedingungen f&#252;r die Schaffung 
+von Datenpools zu verbessern?, und wenn ja, wie soll dies erreicht
+werden, und wenn nein, wieso nicht?
+Mit dem Projekt GAIA-X schafft die Bundesregierung ein souver&#228;nes, sicheres 
+Daten- und Infrastruktur&#246;kosystem, um Datensilos aufzubrechen, die
+Datenverf&#252;gbarkeit zu steigern und zum vermehrten Datenteilen anzuregen. GAIA-X ist 
+eine dezentrale, f&#246;derale Dateninfrastruktur der n&#228;chsten Generation. Sie wird 
+Technologien zur Verf&#252;gung stellen, um einen souver&#228;nen, interoperablen und 
+interkonnektiven Daten- und Serviceaustausch &#252;ber ein Netz aus Infrastruktur-, 
+Dienste- und Datenanbietern zu erm&#246;glichen.
+Ziel der International Data Space-Initiative (IDS) ist die Schaffung eines
+sicheren Datenraums, der Unternehmen verschiedener Branchen und aller Gr&#246;&#223;en 
+die souver&#228;ne Bewirtschaftung ihrer Dateng&#252;ter erm&#246;glicht. Im Mittelpunkt 
+steht dabei die Entwicklung einer skalierbaren und sicheren
+Referenzarchitektur. Die IDS ist in den GAIA-X-Prozess eng eingebunden.
+Mit der Erarbeitung einer nationalen Datenstrategie m&#246;chte die
+Bundesregierung dazu beitragen, die Verf&#252;gbarkeit von Daten zu erh&#246;hen und die
+innovative Nutzung von Daten zu steigern. Die nationale Datenstrategie ist zudem eng 
+mit der Europ&#228;ischen Datenstrategie verzahnt, die u. a. die Schaffung von
+sektoralen europ&#228;ischen Datenr&#228;umen vorsieht.
+Mit dem Aufbau der Nationalen Forschungsdateninfrastruktur (NFDI) f&#246;rdert 
+die Bundesregierung das Entstehen vernetzter &#214;kosysteme des Datenerzeugens, 
+-teilens, -aufbewahrens und -nutzens in Wissenschaft und Forschung. Mit der 
+European Open Science Cloud (EOSC) schafft die Bundesregierung in Europa 
+die Voraussetzungen f&#252;r einen gemeinsamen Forschungsdatenraum. Erg&#228;nzend 
+hat die Bundesregierung im Oktober 2020 einen &#8222;Aktionsplan
+Forschungsdaten&#8220; vorgestellt, der weitreichende Aktivit&#228;ten in diesem Bereich b&#252;ndelt und
+verst&#228;rkt, u. a. mit dem Ziel, Datenkompetenzen auszubauen und die
+Datenqualit&#228;t zu verbessern.
+42. Wo kam es im Jahr 2019 zum gr&#246;&#223;ten Anstieg von KI-Start-ups (bitte 
+nach Region, absoluten Zahlen und prozentualem Anstieg angeben)?
+Die Bundesregierung erhebt diese Zahlen nicht. Ein allgemeiner &#220;berblick zu 
+KI-Start-ups findet sich auf der KI-Landkarte der Internetseite der Plattform 
+Lernende Systeme. Dar&#252;ber hinaus ver&#246;ffentlicht AppliedAI &#8211; eine Initiative 
+der UnternehmerTUM jedes Jahr eine KI-Start-up-Landkarte, auf der KI-
+Startups dargestellt werden, die bestimmte qualitative Kriterien erf&#252;llen.
+43. Wie stiegen im selben Zeitraum die Zahlen der KI-Start-ups in
+Frankreich, Gro&#223;britannien, den USA und in China (bitte nach Land,
+absolutem Wachstum und prozentualem Wachstum angeben)?
+Hierzu liegen der Bundesregierung keine Zahlen vor.
+44. Gibt es aussagekr&#228;ftige Daten zum Erfolg der Transferma&#223;nahmen, die 
+von den KI-Trainern in mehr als 1 500 KMUs angesto&#223;en wurden, und 
+wenn ja, welche, und wenn nein, wieso nicht?
+An den 16 Mittelstand 4.0-Kompetenzzentren sind mehr als 50 KI-Trainer
+eingesetzt, die inzwischen mehr als 3.400 direkte Unternehmenskontakte erzielen 
+konnten. Die starke Nachfrage und das gro&#223;e Interesse der KMU an dem KI-
+spezifischen Unterst&#252;tzungsangebot spiegeln den hohen Stellenwert von KI im 
+deutschen Mittelstand zur St&#228;rkung der Innovationskraft und Sicherung der 
+Wettbewerbsf&#228;higkeit wider.
+Die Transferma&#223;nahmen der KI-Trainer sind Teil der bundesweit 26
+Mittelstand 4.0-Kompetenzzentren des F&#246;rderschwerpunkts Mittelstand-Digital. Die 
+Gesamtauswertung der Erfolgsmessung f&#252;r die Mittelstand 4.0-
+Kompetenzzentren zeigt, dass im Anschluss an die Transferma&#223;nahmen mehr als 50 Prozent 
+der unterst&#252;tzten KMU selbst Ma&#223;nahmen zur Digitalisierung im eigenen
+Betrieb umsetzen. Die Erfolgsmessung kann allerdings nicht zwischen den
+Ma&#223;nahmen der KI-Trainer und den &#252;brigen Ma&#223;nahmen der Kompetenzzentren 
+differenziert werden.
+45. Welche Ergebnisse hat der bereits zwei Monate nach der Verabschiedung 
+der KI-Strategie angek&#252;ndigte Innovationswettbewerb des
+Bundesministeriums f&#252;r Wirtschaft und Energie (BMWi) hervorgebracht?
+a) Wie viel hat der Wettbewerb gekostet?
+b) Welche Ertr&#228;ge kamen aus dem Wettbewerb hervor?
+c) Wie viele Gr&#252;ndungen sind aus diesem Wettbewerb hervorgegangen, 
+und wie sind die gegr&#252;ndeten Start-ups seitdem gewachsen?
+Die Fragen 45 bis 45c werden im Zusammenhang beantwortet.
+Bislang sind 16,5 Mio. Euro im Rahmen des Innovationswettbewerbs
+abgeflossen. Die &#252;brigen Fragen lassen sich zu diesem fr&#252;hen Zeitpunkt noch nicht
+beantworten.
+46. Wie steht es nach Auffassung der Bundesregierung um die Ausstattung 
+des Digital-Budgets der EU?
+a) Wie hoch ist der Anteil der KI?
+b) Steigt, stagniert bzw. sinkt das Budget und der darin enthaltene KI-
+Anteil?
+Die Fragen 46 bis 46b werden im Zusammenhang beantwortet.
+Nach Angaben der EU-Kommission sollen im aktuellen Rahmenprogramm f&#252;r 
+Forschung und Innovation &#8222;Horizont 2020&#8220; insgesamt 1,5 Mrd. Euro in KI
+investiert werden. Dadurch sollen zus&#228;tzliche Investitionen durch Industrie und 
+Mitgliedstaaten in H&#246;he von 2,5 Mrd. Euro durch &#246;ffentlich-private
+Partnerschaften mobilisiert werden. Die zur KI-F&#246;rderung eingesetzten
+F&#246;rderinstrumente in Horizont 2020 (und zuk&#252;nftig in Horizont Europa) sind sehr vielf&#228;ltig. 
+KI-Themen werden auch in Forschungsprojekten im Rahmen von
+themenoffenen Ausschreibungen adressiert.
+Die Europ&#228;ische Kommission stellt den Mitgliedstaaten zwar Daten zu allen 
+gef&#246;rderten Vorhaben zur Verf&#252;gung, weist dabei aber nicht die
+Forschungsprojekte dezidiert aus, die auch KI beinhalten. Dies h&#228;ngt auch damit zusammen, 
+dass KI als Querschnittsthema in vielen Bereichen verankert ist. Aus diesem 
+Grund kann die Bundesregierung die zeitliche Entwicklung des Haushalts f&#252;r 
+Forschungs- und Entwicklungs-Ma&#223;nahmen im Bereich KI und damit auch die 
+Erreichung der o. g. Planungszahlen der Kommission nicht verfolgen und
+bewerten.
+Die Europ&#228;ische Kommission hat im Juni 2018 den Verordnungsvorschlag f&#252;r 
+ein neues &#8222;Programm Digitales Europa f&#252;r den Zeitraum 2021-2027&#8220; vorgelegt. 
+Es hat zum Ziel, die digitalen Kapazit&#228;ten und F&#228;higkeiten Europas in zentralen 
+Bereichen zu st&#228;rken. Die Europ&#228;ische Kommission hat f&#252;r das Programm
+Digitales Europa eine Mittelausstattung von insgesamt 9,194 Mrd. Euro zu
+jeweiligen Preisen vorgeschlagen. Davon sollen bis zu 2,498 Mrd. Euro auf das
+Spezifische Ziel 2 &#8211; K&#252;nstliche Intelligenz entfallen. Die Verhandlungen der
+europ&#228;ischen Gesetzgeber &#252;ber den Verordnungsvorschlag und die finanzielle
+Ausstattung sind noch nicht abgeschlossen; die konkrete Mittelausstattung ist auch 
+abh&#228;ngig von einer Einigung &#252;ber den n&#228;chsten Mehrj&#228;hrigen Finanzrahmen.
+47. Plant die Bundesregierung, im Rahmen ihrer EU-Ratspr&#228;sidentschaft das 
+europ&#228;ische Vergaberecht auf die &#214;ffnung f&#252;r Start-ups anzupassen, und 
+wenn ja, welche Anpassungen sind geplant, und wenn nein, wieso nicht?
+Ist auch f&#252;r die Vergabe von europ&#228;ischen F&#246;rdergeldern die Bonit&#228;t von 
+Unternehmen eine relevantes Vergabekriterium, und wenn ja, plant die 
+Bundesregierung, im Rahmen der Ratspr&#228;sidentschaft eine &#196;nderung 
+dieser Bedingung vorzunehmen?
+Das Initiativrecht zur &#196;nderung des europ&#228;ischen Vergaberechts liegt bei der 
+Europ&#228;ischen Kommission. Im &#220;brigen weist die Bundesregierung darauf hin, 
+dass &#246;ffentliche Auftr&#228;ge auf Basis des aktuellen europ&#228;ischen
+Vergaberechtsrahmens und der deutschen Umsetzungsnormen im vierten Teil des Gesetzes 
+gegen Wettbewerbsbeschr&#228;nkungen (GWB) bereits umfassend f&#252;r Start-Ups 
+zug&#228;nglich sind. Den Interessen von kleineren und mittleren Unternehmen 
+(KMU) sowie Start-Ups wird unter anderem durch das Gebot der
+Losaufteilung, nach dem &#246;ffentliche Auftr&#228;ge, wo immer m&#246;glich, aufgeteilt in Lose
+vergeben werden m&#252;ssen, Rechnung getragen. Ferner d&#252;rfen &#246;ffentliche
+Auftraggeber nur solche Anforderungen an die anbietenden Unternehmen stellen, die 
+zu dem Auftrag in angemessenem Verh&#228;ltnis stehen. Dies betrifft
+beispielsweise Anforderungen an die Personalst&#228;rke und die Qualifikation des Personals,
+aber auch die finanzielle und wirtschaftliche Leistungsf&#228;higkeit des
+Unternehmens.
+Unabh&#228;ngig davon setzt sich die Bundesregierung auf europ&#228;ischer Ebene
+entsprechend den Beschl&#252;ssen des Koalitionsausschusses vom 3. Juni 2020 f&#252;r
+eine weitere Vereinfachung, Flexibilisierung und Beschleunigung der
+&#246;ffentlichen Beschaffung ein. Erkl&#228;rtes Ziel der Bem&#252;hungen sind unter anderem
+weitere Fortschritte bei der Digitalisierung der Vergabe &#246;ffentlicher Auftr&#228;ge sowie 
+eine Reduzierung der Kosten f&#252;r eine Teilnahme an Vergabeverfahren, was
+gerade auch KMU und Start-Ups zugutekommen d&#252;rfte. Dazu werden auf
+Initiative der deutschen Ratspr&#228;sidentschaft derzeit Schlussfolgerungen zum
+&#246;ffentlichen Auftragswesen im Rat der Europ&#228;ischen Union erarbeitet.
+48. In welchem Rahmen wird die Bundesregierung ihre KI-Strategie an
+Projekte und Strategien europ&#228;ischer Institutionen (zum Beispiel dem EU-
+Wei&#223;buch zu KI) anpassen?
+Sieht sie aktuell &#196;nderungsbedarf auf Grundlage der europ&#228;ischen
+Bem&#252;hungen?
+Die Bundesregierung ber&#252;cksichtigt bei der Umsetzung der KI-Strategie und 
+einzelner Ma&#223;nahmen die aktuellen Entwicklungen auf nationaler, europ&#228;ischer 
+und internationaler Ebene. &#220;ber eine etwaige Anpassung der Strategie wird im 
+Rahmen ihrer Fortschreibung beraten; hierzu wird auf die Antwort zu Frage 1 
+verwiesen.
+49. In welchem Ma&#223;e wird die Bundesregierung den gerade neu gegr&#252;ndeten 
+Sonderausschuss KI (AIDA) im Europ&#228;ischen Parlament begleiten?
+Die Bundesregierung arbeitet regelm&#228;&#223;ig entsprechend der europarechtlichen 
+Verfahren mit den Aussch&#252;ssen des Europ&#228;ischen Parlaments zusammen. Die 
+Arbeiten des neu gegr&#252;ndeten Sonderausschusses AIDA (Artificial Intelligence 
+in a Digital Age) im Europ&#228;ischen Parlament begleitet die Bundesregierung mit 
+gro&#223;em Interesse. Am 9. November 2020 hat sich der Beauftragte des BMWi 
+f&#252;r die Digitale Wirtschaft und Start-ups als Vertreter der Ratspr&#228;sidentschaft 
+mit den Mitgliedern des AIDA-Ausschusses ausgetauscht.
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/23380 -
+Zwei Jahre KI-Strategie der Bundesregierung - Stand der Umsetzung</titel>
+    <datum>2020-11-12</datum>
+  </document>
+  

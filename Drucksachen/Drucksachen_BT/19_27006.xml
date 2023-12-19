@@ -1,0 +1,443 @@
+<document>
+    <id>250803</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/27006</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>3fd6b28f211f3118b3bd7ee389732d60</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>273341</id>
+      <titel>Wissenschaftliche Datenanalyse und -management in der Corona-Pandemie</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium f&#252;r Gesundheit</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/270/1927006.pdf</pdf_url>
+      <id>250803</id>
+      <dokumentnummer>19/27006</dokumentnummer>
+      <datum>2021-02-25</datum>
+      <verteildatum>2021-03-04</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Antwort
+der Bundesregierung
+auf die Kleine Anfrage der Abgeordneten Bettina Stark-Watzinger, Frank Sitta, 
+Otto Fricke, weiterer Abgeordneter und der Fraktion der FDP
+&#8211; Drucksache 19/26387 &#8211;
+Wissenschaftliche Datenanalyse und Datenmanagement in der Corona-Pandemie
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Laut der Antwort der Bundesregierung auf die Kleine Anfrage der Fraktion 
+der FDP auf Bundestagsdrucksache 19/25540 mussten alle Gesundheits&#228;mter 
+zum Stichtag 1. Januar 2021 an das Deutsche Elektronische Melde- und
+Informationssystem f&#252;r den Infektionsschutz (DEMIS) angeschlossen sein. Somit 
+sollten der Bundesregierung und dem Robert Koch-Institut (RKI) t&#228;glich alle 
+nach Infektionsschutzgesetz abgefragten Daten &#252;ber mit COVID-19-infizierte 
+Personen vorliegen. Hieraus ergeben sich bei guter Datenqualit&#228;t
+M&#246;glichkeiten einer umfassenden wissenschaftlichen Aufbereitung. Insbesondere der
+Ansteckungsort mit COVID-19 ist laut Zahlen des RKI bei knapp 100 000 F&#228;llen 
+unbekannt. Hier k&#246;nnen moderne statistische Methoden oder Studien in
+Modellregionen bessere Erkenntnisse liefern. Gleichzeitig erlauben umfassende 
+Datens&#228;tze eine differenzierte Analyse z. B. nach Kohorten.
+V o r b e m e r k u n g  d e r  B u n d e s r e g i e r u n g
+Mit dem Dritten Gesetz zum Schutz der Bev&#246;lkerung bei einer epidemischen 
+Lage von nationaler Tragweite vom 18. November 2020 (BGBl. I S. 2397) 
+wurde in &#167; 14 Absatz 8 des Infektionsschutzgesetzes (IfSG) festgelegt, dass ab 
+dem 1. Januar 2023 Melde- und Benachrichtigungspflichtige ihrer
+Verpflichtung zur Meldung und Benachrichtigung durch Nutzung des elektronischen 
+Melde- und Informationssystem DEMIS nach &#167; 14 IfSG nachkommen m&#252;ssen. 
+Seit dem 1. Januar 2021 sind bereits die zust&#228;ndigen Beh&#246;rden der L&#228;nder
+verpflichtet, DEMIS zu nutzen. Labore sind ebenfalls seit dem 1. Januar 2021
+verpflichtet, positive Nachweise einer Infektion mit dem Severe-Acute-
+Respiratory-Syndrome-Coronavirus (SARS-CoV) oder dem Severe-Acute-
+Respiratory-Syndrome-Coronavirus-2 (SARS-CoV-2) &#252;ber DEMIS zu melden.
+Seit Beginn der Pandemie hat die Bundesregierung eine Vielzahl von
+Instrumenten, Tools und Studien ausgebaut, weiterentwickelt oder neu auf den Weg 
+gebracht, um umfassende und gesicherte Daten und Informationen &#252;ber die 
+Ausbreitung der Pandemie zu erheben. Die dadurch gewonnenen Erkenntnisse 
+sind f&#252;r Entscheidungen &#252;ber weitere Infektionsschutzma&#223;nahmen hilfreich.
+Deutscher Bundestag Drucksache 19/27006
+19. Wahlperiode 25.02.2021
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums f&#252;r Gesundheit vom
+24. Februar 2021 &#252;bermittelt.
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext.
+1. Welche verschiedenen Softwarel&#246;sungen kommen nach Kenntnis der 
+Bundesregierung zum Zwecke der Kontaktnachverfolgung zum Einsatz 
+(bitte nach Bundesl&#228;ndern aufschl&#252;sseln), und werden die dabei
+anfallenden Daten f&#252;r Auswertungs- und Analysezwecke an zentrale Stellen des 
+Bundes weitergeleitet, beispielsweise das RKI?
+Falls ja, welche Daten werden weitergeleitet, und welche digitalen 
+Schnittstellen werden daf&#252;r genutzt?
+Die Beh&#246;rden entscheiden lokal je nach eigenem Bedarf, welche
+Softwareprodukte f&#252;r die Unterst&#252;tzung der Prozesse im Gesundheitsamt eingesetzt
+werden. Es sind verschiedene Anwendungen &#8211; zum Teil Eigenentwicklungen der 
+Gesundheits&#228;mter &#8211; bekannt, die zum Zweck der Kontaktnachverfolgung
+eingesetzt werden (vgl. auch die Antwort auf die Schriftliche Frage 157 des
+Abgeordneten Manuel H&#246;ferlin auf Bundestagsdrucksache 19/25435). Das
+Robert Koch-Institut (RKI) stellt mit SurvNet@RKI eine Anwendung zur
+Verf&#252;gung, mit der grunds&#228;tzlich auch die Kontaktpersonennachverfolgung
+unterst&#252;tzt wird. Des Weiteren finanziert der Bund im Rahmen des Projekts
+SORMAS@DEMIS bis 2022 eine spezifisch f&#252;r die COVID-19-Pandemie
+entwickelte Softwarel&#246;sung.
+Wenn mehrere Softwareprodukte eingesetzt werden, sind Schnittstellen
+zwischen den verschiedenen Softwarel&#246;sungen sinnvoll, damit
+Mehrfacherfassungen vermieden werden. Das Projekt SORMAS@DEMIS beispielsweise
+beinhaltet die Entwicklung von Schnittstellen zu den Systemen DEMIS,
+SurvNet@RKI sowie weiteren Softwareanwendungen. Derzeit wird f&#252;r
+SORMAS eine Schnittstelle zu SurvNet implementiert. Im Rahmen des
+Meldesystems muss ein Teil der im Gesundheitsamt erfassten Daten an die
+zust&#228;ndigen Landesbeh&#246;rden und von dort an das RKI &#252;bermittelt werden. Die
+&#220;bermittlung der verarbeiteten Daten zu meldepflichtigen Krankheiten und
+Nachweisen von Krankheitserregern an die zust&#228;ndigen Landesbeh&#246;rden sowie von 
+dort an das RKI richtet sich nach &#167; 11 IfSG.
+2. Wie hoch ist der &#252;ber DEMIS von den Gesundheits&#228;mtern &#252;ber die
+zust&#228;ndigen Landesbeh&#246;rden an das Robert Koch-Institut &#252;bermittelte Anteil der 
+mit COVID-19-infizierten Personen (bitte aktuellste Daten und nach
+Bundesl&#228;ndern aufschl&#252;sseln)?
+Im Rahmen der ersten Ausbaustufe von DEMIS werden SARS-CoV-2-
+Erregernachweise elektronisch von den Laboren an die Gesundheits&#228;mter gemeldet. 
+Die Daten werden im Gesundheitsamt elektronisch empfangen und k&#246;nnen
+digital im Rahmen der weiteren Fallermittlungen weiterverarbeitet werden. F&#252;r 
+einen vom RKI in der Berichterstattung (Lagebericht, SurvStat,
+Epidemiologisches Bulletin, Dashboard) gegen&#252;ber der Fach&#246;ffentlichkeit, &#214;ffentlichkeit
+sowie Politik berichteten COVID-19-Fall k&#246;nnen mehrere Meldungen in DEMIS 
+vorliegen (z. B. wenn im Rahmen des Entlassmanagements mehrfach Proben 
+entnommen oder weiterf&#252;hrende Untersuchungen, wie Genomsequenzierungen, 
+durchgef&#252;hrt werden). Die Meldungen werden vom Gesundheitsamt gepr&#252;ft 
+und gem&#228;&#223; der nach &#167; 11 Absatz 2 IfSG vom RKI erstellten Falldefinition
+bewertet und ggf. zusammengef&#252;hrt.
+Derzeit erf&#252;llen nur der Nukleins&#228;urenachweis (z. B. PCR) und die
+Erregerisolierung die Kriterien f&#252;r den labordiagnostischen Nachweis. Antigennachweise 
+werden zwar an das Gesundheitsamt gemeldet, damit fr&#252;hzeitig
+Infektionsschutzma&#223;nahmen ergriffen werden k&#246;nnen, dennoch m&#252;ssen diese erst mit 
+PCR best&#228;tigt werden, um in den Statistiken des RKI gez&#228;hlt zu werden.
+Mit Stand 10. Februar 2021 nutzen alle 375 Gesundheits&#228;mter DEMIS f&#252;r den 
+Empfang der Meldungen (daher erfolgt keine Aufschl&#252;sselung nach
+Bundesland). In der folgenden Tabelle ist dargestellt, wie viele Meldungen zwischen 
+dem 27. Januar 2021 und 9. Februar 2021 pro Tag &#252;ber DEMIS erfolgt sind und 
+wie viele F&#228;lle vom RKI ver&#246;ffentlicht worden sind (Begr&#252;ndung f&#252;r die
+Abweichungen siehe oben).
+Datum DEMIS-Meldungen Anzahl an das RKI &#252;bermittelter
+COVID-19-F&#228;lle
+27. Jan 2021 21 335 15 893
+28. Jan 2021 22 614 13 428
+29. Jan 2021 19 613 12 613
+30. Jan 2021 13 976 10 025
+31. Jan 2021 4 117 4 211
+01. Feb 2021 11 555 5 929
+02. Feb 2021 22 629 12 349
+03. Feb 2021 18 893 13 447
+04. Feb 2021 17 061 11 537
+05. Feb 2021 17 073 10 036
+06. Feb 2021 11 191 8 396
+07. Feb 2021 3 720 3 098
+08. Feb 2021 8 207 3 929*
+09. Feb 2021 16 469 6 104*
+* Fallzahlen ggf. durch &#220;bermittlungsverzug untersch&#228;tzt
+3. Wie hoch ist der Anteil unvollst&#228;ndiger oder nicht korrekter DEMIS-
+Meldungen (bitte nach Bundesl&#228;ndern aufschl&#252;sseln)?
+4. Wie hoch ist die durchschnittliche Anzahl der nichtgemeldeten Felder in
+DEMIS (z. B. durch Nichtausf&#252;llung)?
+5. Gibt es bei den nichtgemeldeten Feldern statistische Auff&#228;lligkeiten (z. B. 
+bestimmte Felder, die h&#228;ufiger nicht ausgef&#252;llt &#252;bersendet werden)?
+Die Fragen 3 bis 5 werden aufgrund ihres Sachzusammenhangs gemeinsam
+beantwortet.
+Die namentliche Meldung erfolgt direkt an das Gesundheitsamt und enth&#228;lt
+personenbezogene Daten, auf die lediglich das Gesundheitsamt Zugriff hat. Daher 
+kann nicht gesch&#228;tzt werden, wie hoch der Anteil unvollst&#228;ndiger oder nicht 
+korrekter Meldungen ist. Um das Gesundheitsamt fr&#252;hzeitig zu informieren, 
+damit z&#252;gig Infektionsschutzma&#223;nahmen eingeleitet werden k&#246;nnen, d&#252;rfen
+gem&#228;&#223; &#167; 9 Absatz 3 Satz 2 IfSG Meldungen an das Gesundheitsamt wegen
+einzelner fehlender Angaben nicht verz&#246;gert werden. Allerdings sind bestimmte 
+Angaben auf den Meldungen essenziell f&#252;r eine schnelle Kontaktaufnahme, 
+z. B. die Telefonnummer der betroffenen Person. Wenn dem RKI aus den
+Gesundheits&#228;mtern berichtet wird, dass Angaben auf Meldungen aus bestimmten 
+Laboren grobe M&#228;ngel aufweisen, wird mit dem Labor Kontakt aufgenommen 
+und um Nachbesserung gebeten.
+6. Gibt es &#220;berlegungen, weitere bisher nicht abgefragte Daten zu erheben, 
+und wenn ja, welche?
+DEMIS wird auf Basis der gesetzlichen Grundlagen stetig weiterentwickelt.
+7. Welche Institutionen au&#223;erhalb des RKI haben zu wissenschaftlichen 
+Zwecken Zugriff auf die Daten?
+Der Zugriff auf die Daten ist durch das IfSG geregelt. Die Daten sind lediglich 
+in den Gesundheits&#228;mtern und in nichtnamentlicher Form in den zust&#228;ndigen 
+Landesbeh&#246;rden und am RKI verf&#252;gbar.
+8. Welche Daten stellt die Bundesregierung oder das RKI der Wissenschaft 
+anonymisiert zur Verf&#252;gung oder plant sie, zur Verf&#252;gung zu stellen?
+Das RKI stellt in gro&#223;em Umfang anonymisierte Daten auf seiner Internetseite 
+zur Verf&#252;gung:
+&#8211; Abfragetool SurvStat@RKI: https://survstat.rki.de/
+&#8211; COVID-19-Dashboard: https://corona.rki.de
+&#8211; Weitere Daten zum Download auf der RKI-Webseite: https://www.rki.de/co
+vid-19
+Wissenschaftliche Einrichtungen k&#246;nnen dar&#252;ber hinaus Datenanfragen an das 
+RKI stellen. Diese werden fachlich und datenschutzrechtlich gepr&#252;ft und je 
+nach Anfrage werden entsprechende anonymisierte Datens&#228;tze zur Verf&#252;gung 
+gestellt.
+&#220;ber die vom Bundesministerium f&#252;r Wirtschaft und Energie in Auftrag
+gegebene Corona-Forschungsdatenplattform (www.corona-datenplattform.de)
+werden der Wissenschaft Daten zu den erhobenen Eind&#228;mmungs- und
+Lockerungsma&#223;nahmen sowie weitere ausgew&#228;hlte Infektions- und Strukturdaten auf
+Ebene der Landkreise kostenfrei bereitgestellt. Da es sich hierbei nicht um
+Individualdaten handelt, spielt eine Anonymisierung keine Rolle bzw. ist diese
+gew&#228;hrleistet.
+9. Hat die Bundesregierung gemeinsam mit den L&#228;ndern abseits der im
+Infektionsschutzgesetz festgelegten Art der Daten Standards &#252;ber Art,
+Umfang und Qualit&#228;t der &#252;bersendeten Daten vereinbart?
+Gem&#228;&#223; &#167; 11 Absatz 1 Satz 3 IfSG bestimmt das RKI die technischen
+&#220;bermittlungsstandards f&#252;r die &#220;bermittlungen der Daten von den zust&#228;ndigen
+Landesbeh&#246;rden an das RKI. In diesem Rahmen stellt das RKI die Referenzsoftware 
+SurvNet@RKI kostenlos zur Verf&#252;gung, die am RKI, in allen 16 zust&#228;ndigen 
+Landesbeh&#246;rden und in 60 Prozent der Gesundheits&#228;mter verwendet wird.
+Dar&#252;ber hinaus steht das RKI im w&#246;chentlichen Austausch mit den zust&#228;ndigen 
+Landesbeh&#246;rden und nimmt weitere Anforderungen und Bedarfe hinsichtlich 
+der technischen &#220;bermittlungsstandards auf. Es stellt Informationsmaterialien 
+f&#252;r die Nutzer der Referenzsoftware SurvNet@RKI zur Verf&#252;gung (z. B. 
+SurvNet-Anwenderhandbuch, Infobriefe). Dar&#252;ber hinaus stellt das RKI seit
+einigen Monaten Datenqualit&#228;tsfeedbackberichte f&#252;r die Landesbeh&#246;rden und 
+Gesundheits&#228;mter zur Verf&#252;gung.
+10. Welche Daten und Kennzahlen sind aus Sicht der Bundesregierung
+neben dem Inzidenzwert wesentlich zur Beurteilung der
+Pandemiesituation?
+a) Welche Ma&#223;nahmen hat die Bundesregierung unternommen, um die 
+Qualit&#228;t der Daten und Kennzahlen aus Frage 8 zu verbessern?
+b) Wie haben sich die in Frage 10 genannten Daten und Kennzahlen 
+und der Inzidenzwert seit M&#228;rz 2020 monatlich bzw. w&#246;chentlich 
+entwickelt?
+c) Wie haben sich die in Frage 10 genannten Daten und Kennzahlen 
+und der Inzidenzwert in den verschiedenen Alterskohorten seit M&#228;rz 
+2020 monatlich bzw. w&#246;chentlich (wie in Frage 8b) entwickelt (z. B. 
+Inzidenz unter den Personen 90 Jahre und &#228;lter, 80 bis 89, 70 bis 79, 
+usw.)?
+Die Fragen 10 bis 10c werden gemeinsam beantwortet.
+Das Wissen &#252;ber das neuartige Coronavirus SARS-CoV-2, dessen
+Eigenschaften sowie &#252;ber die epidemiologische Entwicklung der Lage nimmt schnell und 
+best&#228;ndig zu. Daraus resultieren die kontinuierliche &#220;berpr&#252;fung der Datenlage 
+und die daraus abgeleitete Optimierung nationaler und internationaler
+Empfehlungen. Wichtig f&#252;r die notwendigen Entscheidungen der Bundesregierung ist 
+die Kenntnis der jeweils aktuellen epidemiologischen Lage sowohl national wie 
+auch international. Diese ist den Situationsberichten des Robert Koch-Instituts 
+(RKI) zu entnehmen.
+Zur Bewertung der epidemiologischen Situation stellt das RKI diverse
+Kennzahlen zur Verf&#252;gung, die im Rahmen von verschiedenen Surveillancesystemen 
+erhoben werden und die regelm&#228;&#223;ig im Lagebericht des RKI auch im zeitlichen 
+Verlauf dargestellt werden: https://www.rki.de/DE/Content/InfAZ/N/Neuartige
+s_Coronavirus/Situationsberichte/Gesamt.html
+Ein &#220;berblick &#252;ber die verschiedenen Erhebungen findet sich unter folgendem 
+Adresse: https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Pro
+jekte_RKI/Projekte.html
+11. Welche Ma&#223;nahmen hat die Bundesregierung, ggf. gemeinsam mit den 
+L&#228;ndern, abseits von Personalaufstockungen unternommen, um die
+Kontaktnachverfolgung und die Identifikation der Ansteckungsorte zu
+verbessern?
+a) Wie haben die in Frage 11 getroffenen Ma&#223;nahmen die
+Kontaktnachverfolgung und Identifikation der Ansteckungsorte faktisch
+verbessert?
+b) Lassen sich die Fortschritte der in Frage 11 getroffenen Ma&#223;nahmen 
+quantifizieren, und wenn ja, wie?
+Die Fragen 11 bis 11b werden gemeinsam beantwortet.
+Die Kontaktpersonennachverfolgung und die Identifikation der
+Ansteckungsorte erfolgt durch die Gesundheits&#228;mter. Gemeinsam mit den L&#228;ndern hat die 
+Bundesregierung eine ganze Reihe von Initiativen ergriffen, um die
+Kontaktpersonennachverfolgung und Ermittlung der Ansteckungsorte zu erleichtern. 
+Neben der Containment-Scouts-Initiative des RKI und der &#8222;Medis/Studis
+4&#214;GD&#8220;-Initiative des Bundesverbandes der &#196;rztinnen und &#196;rzte im
+&#214;ffentlichen Gesundheitsdienst e. V., durch die der Bund den Gesundheits&#228;mtern
+zus&#228;tzliches Personal zur Kontaktnachverfolgung erm&#246;glicht und die beide vom 
+BMG finanziert werden, hat das BMG den L&#228;ndern Finanzhilfen in H&#246;he von 
+50 Mio. Euro zur Digitalisierung der Gesundheits&#228;mter zur Verf&#252;gung gestellt.
+Zudem haben Bund und L&#228;nder, einschlie&#223;lich der Kommunen, den &#8222;Pakt f&#252;r 
+den &#214;ffentlichen Gesundheitsdienst&#8220; vereinbart, der &#8211; neben dem
+Personalaufbau &#8211; die digitale und technische St&#228;rkung des &#246;ffentlichen
+Gesundheitsdienstes vorsieht. Der Bund stellt f&#252;r die Umsetzung des Paktes insgesamt 4 Mrd. 
+Euro zur Verf&#252;gung.
+Dar&#252;ber hinaus werden diverse Projekte zur digitalen Unterst&#252;tzung der
+Gesundheits&#228;mter (z. B. DEMIS, SORMAS &#8211; siehe auch Antwort zu Frage 1) und 
+wissenschaftliche Projekte (siehe Antwort zu Frage 12) gef&#246;rdert.
+Die oben genannten Ma&#223;nahmen, Projekte und Initiativen unterst&#252;tzen die
+Gesundheits&#228;mter wirksam bei der Durchf&#252;hrung der Kontaktnachverfolgung. 
+&#220;ber das genaue Ausma&#223;, in dem die Unterst&#252;tzungsma&#223;nahmen die Prozesse 
+der Kontaktverfolgung verbessern bzw. erleichtern, liegen der Bundesregierung 
+keine Erkenntnisse vor.
+12. Hat die Bundesregierung zur Analyse der Verbreitungswege und
+Ansteckungsorte mit dem Coronavirus Studien in Auftrag gegeben, und wenn 
+ja, welche?
+Das RKI f&#252;hrt eine Reihe von Studien zur Analyse der Verbreitungswege und 
+Ansteckungsorte mit dem Coronavirus SARS-CoV-2 durch, die durch das 
+BMG finanziert werden. Dazu z&#228;hlt die COViRiS-Studie (Fall-Kontroll-Studie 
+zu Corona-Virus Risiko- und Schutzfaktoren), in der die T&#228;tigkeiten und
+Aufenthaltsorte von sporadischen COVID-19-Erkrankungsf&#228;llen in den zehn Tagen 
+vor deren Erkrankungsbeginn mit Nicht-Erkrankten verglichen werden. Zudem 
+ist das RKI im Zusammenhang mit der Analyse der Verbreitungswege in
+Kindertagesst&#228;tten mit zwei Modulen an einer Studie beteiligt, die in Kooperation 
+mit dem Deutschen Jugendinstitut durchgef&#252;hrt wird (Modul 3 CATS/Corona 
+Kita Surveillance und Modul 4 COALA-Studie/Corona &#8211; Anlassbezogene
+Untersuchungen in Kitas, L&#228;ngsschnittstudie). Des Weiteren f&#252;hrt das RKI die 
+Flug-Corona-Studie durch, die das Ansteckungsrisiko mit dem Coronavirus 
+SARS-CoV-2 auf Flugreisen untersucht.
+Im F&#246;rderaufruf des Bundesministeriums f&#252;r Bildung und Forschung (BMBF) 
+zur Erforschung von COVID-19 im Zuge der Verbreitung des Coronavirus 
+SARS-CoV-2 vom 3. M&#228;rz 2020 werden folgende Vorhaben zur
+modellbasierten Datenanalyse der M&#252;nchner COVID-19-Kohortenstudie, zum Effekt
+verschiedener nicht-pharmakologischer Interventionen auf das
+Infektionsgeschehen und zu einer m&#246;glichen &#220;bertragung des Virus von verschiedenen
+Haustieren auf den Menschen gef&#246;rdert:
+Projekttitel Zuwendungsempf&#228;nger
+MoKoCo19 &#8211; Modellbasierte
+Datenanalyse f&#252;r die bev&#246;lkerungsbezogene
+prospektive COVID-19-Kohortenstudie in
+M&#252;nchen
+Rheinische Friedrich-Wilhelms-
+Universit&#228;t Bonn
+CoPREDICT &#8211; COVID-19-Evaluation von 
+Pr&#228;ventionsstrategien durch
+agentenbasierte Simulationen
+Westf&#228;lische Wilhelms-
+Universit&#228;t M&#252;nster
+ANI-CoV &#8211; Haustiere als potenzielle
+Vektoren f&#252;r die &#220;bertragung von
+SARS-CoV-2
+Deutsches Primaten Zentrum, 
+G&#246;ttingen;
+Stiftung Tier&#228;rztliche Hochschule 
+Hannover
+Innerhalb des vom BMBF gef&#246;rderten Netzwerks Universit&#228;tsmedizin gibt es 
+Teilvorhaben, die sich u. a. mit den Themen Verbreitungswege und
+Ansteckungsorte befassen. Das Teilvorhaben &#8222;NAPKON &#8211; Nationales Pandemie
+Kohorten Netz&#8220; etabliert insgesamt drei Kohorten. Die Auswertung der Daten 
+wird Aussagen zu Verl&#228;ufen und Pathomechanismen erlauben. Das
+Teilvorhaben &#8222;COVIM &#8211; Bestimmung und Nutzung von SARS-CoV-2 Immunit&#228;t&#8220;
+untersucht die Faktoren, die die Immunit&#228;t bestimmen und wie sich Immunit&#228;t
+&#252;bertragen l&#228;sst. Das Teilvorhaben &#8222;COVIM &#8211; Bestimmung und Nutzung von 
+SARS-CoV-2 Immunit&#228;t&#8220; untersucht die Faktoren, die die Immunit&#228;t
+bestimmen und wie sich Immunit&#228;t &#252;bertragen l&#228;sst. Im Teilvorhaben &#8222;CEO-sys &#8211; 
+Aufbau eines COVID-19-Evidenz-&#214;kosystems&#8220; werden in den Themenfeldern 
+Krankenhaushygiene und Public-Health Empfehlungen f&#252;r Ma&#223;nahmen zur 
+Vermeidung von Infektionen erarbeitet, indem die international verf&#252;gbare
+Evidenz gesichtet und zusammengefasst wird.
+13. Plant die Bundesregierung wissenschaftliche Studien (z. B.
+Modellregionen, repr&#228;sentativen Stichproben, Panelerhebungen u. &#196;.), um weitere 
+Information &#252;ber die Verbreitung des COVID-19-Virus zu erfahren, und 
+wenn ja, welche?
+a) Plant die Bundesregierung oder hat sie Kenntnis von laufenden oder 
+bereits erfolgten Feldstudien in Schulen?
+b) Plant die Bundesregierung oder hat sie Kenntnis von laufenden oder 
+bereits erfolgten Feldstudien in Betrieben und &#246;ffentlichen
+Verwaltungen?
+c) Wie ist nach Kenntnis der Bundesregierung die Sachlage hinsichtlich 
+solcher Feldstudien hinsichtlich abgeschlossener, laufender oder
+geplanter Vorhaben im Vergleich zu anderen L&#228;ndern?
+Die Fragen 13 bis 13c werden gemeinsam beantwortet.
+Das RKI hat im vergangenen Jahr damit begonnen, Seropr&#228;valenzstudien zur 
+Verbreitung von SARS-CoV-2-Infektionen in sog. Hot-Spot-Studien (Corona-
+Monitoring Lokal) und in der Allgemeinbev&#246;lkerung (Corona-Monitoring
+Bundesweit) durchzuf&#252;hren. Weiterhin werden seit April 2020 alle 14 Tage
+anonymisierte Proben von Blutspenden aus 28 Regionen in Deutschland auf
+Antik&#246;rper gegen das Coronavirus SARS-CoV-2 im Sinne einer Serosurveillance
+untersucht (SeBluCo-Studie). Die Studie wird vom RKI geleitet und mit
+Kooperationspartnern in Blutspendediensten aller Tr&#228;ger und virologischen Laboren 
+durchgef&#252;hrt. Die Studie l&#228;uft bis April 2021.
+Das vom BMBF gef&#246;rderte Netzwerk Universit&#228;tsmedizin tr&#228;gt insbesondere 
+mit seinen Teilprojekten CEO-sys und B-FAST zur Erweiterung des
+wissenschaftlichen Kenntnisstandes &#252;ber die Ausbreitung des Virus in Schulen bei.
+Das RKI recherchiert dar&#252;ber hinaus systematisch &#252;ber Literaturdatenbanken, 
+Studienregister und Online-Suchalgorithmen in Deutschland durchgef&#252;hrte
+Seropr&#228;valenzstudien. Eckdaten zu diesen Studien werden fortlaufend aktualisiert 
+unter der URL www.rki.de/covid-19-ak-studien zur Verf&#252;gung gestellt.
+Eigene Erkenntnisse liegen der Bundesregierung zur Sachlage hinsichtlich
+abgeschlossener, laufender oder geplanter Vorhaben &#252;ber Feldstudien in anderen 
+L&#228;ndern nicht vor.
+14. Mit welchen agentenbasierten oder anderen Modellierungen zur
+Ausbreitung des SARS-CoV-2-Virus arbeitet das Robert Koch-Institut?
+Das RKI hat Simulationen erstellt, um das Potential der COVID-19-Epidemie 
+darzustellen. Diese wurden am 20. M&#228;rz 2020 auf der RKI-Internetseite
+ver&#246;ffentlicht, siehe https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavir
+us/Modellierung_Deutschland.pdf.
+In diesen Simulationen wird auch dargestellt, dass &#220;berforderungen des
+Gesundheitssystems abgewendet werden k&#246;nnen, wenn effektive
+Gegenma&#223;nahmen ergriffen werden, die zur erfolgreichen Isolation eines gro&#223;en Teils der 
+F&#228;lle und der Quarant&#228;nisierung eines Teils ihrer engen Kontakten f&#252;hren. Das 
+gleiche gilt auch, wenn bev&#246;lkerungsweit Ma&#223;nahmen ergriffen werden, die die 
+Reproduktionszahl der COVID-19-Ausbreitung unter den kritischen Wert von 1 
+zu dr&#252;cken, so dass die Zahl der COVID-19-F&#228;lle sinkt.
+Diese Modellierung von Beispielssimulationen wurde Ende Oktober 2020
+aktualisiert. Im Mittelpunkt der Aktualisierung stand die Frage, wie sich die
+Epidemie bei Annahme konstanter Reproduktionszahlen weiterentwickeln w&#252;rde.
+15. Gibt es weitere nationale oder internationale Simulationen, deren
+Ergebnisse die Bundesregierung auswertet?
+a) Welche sind das im Einzelnen, und wer f&#252;hrt sie durch?
+b) Welche Daten liegen diesen Modellierungen bzw. Simulationen
+jeweils zugrunde?
+c) Wie wurden diese Daten jeweils erhoben?
+Die Fragen 15 bis 15c werden gemeinsam beantwortet.
+Das BMBF f&#246;rdert Modellierungsvorhaben zur Vorhersage nicht-
+pharmakologischer Interventionsma&#223;ahmen (v. a. Schulschlie&#223;ungen) auf die
+Infektionsdynamik. Die Vorhaben nutzen hierf&#252;r unterschiedliche Herangehensweisen.
+Beim Vorhaben &#8222;MODUS-COVID &#8211; Modellgest&#252;tzte Untersuchung von
+Schulschlie&#223;ungen und weiteren Ma&#223;nahmen zur Eind&#228;mmung von COVID-19&#8220; 
+werden komplexe Modellanwendungen genutzt, um die Infektionsdynamik im 
+urbanen, regionalen und bundesweiten Kontext zu untersuchen. Hierzu werden 
+mittels agentenbasierter Verkehrssimulation &#8211; basierend auf mobilfunkbasierten 
+Bewegungsdaten &#8211; synthetische Personen mit Bewegungsmustern f&#252;r beliebige 
+Regionen in Deutschland erzeugt, einer Infektionsdynamik unterworfen und 
+dann die Reaktion der Infektionsdynamik auf unterschiedliche Eingriffe (z. B. 
+Schulschlie&#223;ungen) getestet, um anschlie&#223;end eine Bewertung der Wirksamkeit 
+dieser Eingriffe vorzunehmen.
+Ein weiteres Einzelvorhaben des Landesgesundheitsamtes Stuttgart
+(&#8222;Simulations-basierte Entscheidungshilfen in der COVID-19-Pandemie&#8220;) nutzt ein
+speziell f&#252;r die COVID-19-Pandemie entwickeltes Simulations- und
+Planungswerkzeug. Dieses basiert auf einem Differentialgleichungssystem, das das
+klassische SEIR-Modell der mathematischen Epidemiologie erweitert und auf die 
+COVID-19-Pandemie anpasst.
+16. Welche zus&#228;tzlichen Datenerhebungen k&#246;nnten nach Ansicht der
+Bundesregierung dazu beitragen, die Ergebnisse dieser Modelle zu
+pr&#228;zisieren?
+Inwieweit k&#246;nnten App-basierte Datenspenden hierbei helfen?
+Grunds&#228;tzlich k&#246;nnen zus&#228;tzliche Datenquellen dann zu einer Pr&#228;zisierung
+beitragen, wenn die enthaltenen Daten relevante Kontexte f&#252;r den
+Modellierungsprozess einerseits oder das Modellierungsziel andererseits bereitstellen. F&#252;r die 
+Modellierung der Ausbreitung und die Fr&#252;herkennung von COVID-19 k&#246;nnen
+beispielsweise die anonymen Bewegungs- oder Vitaldaten von freiwilligen 
+Spenderinnen und Spendern beitragen.
+App-basierte Datenspenden k&#246;nnen hierbei besonders durch Datenerhebung 
+(Mobilit&#228;tsdaten, Vitaldaten, Frageb&#246;gen) helfen, Erkenntnisse &#252;ber den
+Gesundheitszustand innerhalb dieser Kohorte zu gewinnen. Dar&#252;ber hinaus liefern 
+auch Mobilit&#228;tsdaten der Mobilfunkanbieter, die in nicht personenbezogener 
+Form zur Verf&#252;gung gestellt werden, wertvolle Einsichten in das Verhalten der 
+Menschen unter gew&#246;hnlichen und au&#223;ergew&#246;hnlichen Situationen.
+17. Inwieweit flie&#223;en die Ergebnisse solcher Modelle in die Vorschl&#228;ge der 
+Bundesregierung f&#252;r Arten der Kontaktbeschr&#228;nkungen ein?
+Die Corona-Datenspende sowie die Mobilit&#228;tsanalysen stellen unabh&#228;ngig von 
+Modellen eine wichtige Wissensquelle im Umgang und der Eind&#228;mmung mit 
+der Pandemie dar. Sie sind w&#246;chentlicher Bestandteil des ver&#246;ffentlichten RKI-
+Lageberichtes und flie&#223;en damit in die allgemeine Bewertung der aktuellen
+Situation ein.
+18. Welche Arten bzw. Kombinationen von Kontaktbeschr&#228;nkungen
+scheinen auf Grundlage dieser Modellrechnungen derzeit besonders sinnvoll?
+Solange in vielen F&#228;llen nicht hinreichend gekl&#228;rt werden kann, wo und unter 
+welchen Bedingungen eine Infektion stattfindet, werden allgemeine
+Kontaktbeschr&#228;nkungen eine zentrale Rolle bei der Eind&#228;mmung der Pandemie spielen.
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/26387 -
+Wissenschaftliche Datenanalyse und Datenmanagement in der Corona-Pandemie</titel>
+    <datum>2021-02-25</datum>
+  </document>
+  

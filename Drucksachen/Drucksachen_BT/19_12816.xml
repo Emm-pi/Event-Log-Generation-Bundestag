@@ -1,0 +1,131 @@
+<document>
+    <id>233282</id>
+    <drucksachetyp>Kleine Anfrage</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>3</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/12816</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>a6f1c8a67a450e020802b21c548616ea</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:15+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>252480</id>
+      <titel>Private IoT-Ger&#228;te am Arbeitsplatz</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>AfD</bezeichnung>
+      <titel>Fraktion der AfD</titel>
+    </urheber>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/128/1912816.pdf</pdf_url>
+      <id>233282</id>
+      <dokumentnummer>19/12816</dokumentnummer>
+      <datum>2019-08-29</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Kleine Anfrage</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Fraktion der AfD</urheber>
+    </fundstelle>
+    <autoren_anzeige>
+      <id>2123</id>
+      <titel>Uwe Schulz, MdB, AfD</titel>
+      <autor_titel>Uwe Schulz</autor_titel>
+    </autoren_anzeige>
+    <autoren_anzeige>
+      <id>7625</id>
+      <titel>Joana Cotar, MdB, AfD</titel>
+      <autor_titel>Joana Cotar</autor_titel>
+    </autoren_anzeige>
+    <text>[Kleine Anfrage
+der Abgeordneten Uwe Schulz, Joana Cotar, Dr. Michael Espendiller und der 
+Fraktion der AfD
+Private IoT-Ger&#228;te am Arbeitsplatz
+Mitarbeiter nehmen immer h&#228;ufiger ihre eigenen privaten IoT-Ger&#228;te wie
+Laptops, Tablets, Smartphones, Smartwatches, Fitness-Tracker, E-Reader und
+portable Spielekonsolen oder tragbare Smart-Home-Ger&#228;te wie intelligente
+Kaffeemaschinen mit auf den Arbeitsplatz. Die Mitarbeiter entsprechen damit dem 
+Konzept &#8222;Bring Your Own Device&#8220; (BYOD). Diese wurden oder werden
+oftmals zu beruflichen Zwecken mit dem Netzwerk des Arbeitgebers verbunden, 
+um immer und &#252;berall auf die beruflichen Daten zugreifen zu k&#246;nnen 
+(www.security-insider.de/private-iot-geraete-im-unternehmen-a-846683/).
+Dieser Umstand kann den Arbeitgeber und dessen Netzsicherheit nach Ansicht 
+der Fragesteller vor erhebliche Sicherheitsprobleme stellen und ist generell eine 
+gro&#223;e Herausforderung f&#252;r die Netzwerkverantwortlichen. Klassische BYOD-
+Ger&#228;te (Tablet, Laptop) werden durch die Security-Verantwortlichen am
+Arbeitsplatz derzeit schon abgesichert (www.security-insider.de/private-
+iotgeraete-im-unternehmen-a-846683/).
+Die Mitnahme neuerer IoT-Ger&#228;te birgt nach Ansicht der Fragesteller enorme 
+Sicherheitsrisiken und Bedrohungen der Arbeitsplatznetzwerke. Angreifer
+k&#246;nnen von au&#223;en unter Ausnutzung von Schwachstellen Daten von einem System 
+entwenden, ein Ger&#228;t unter ihre Kontrolle bringen, den Anwender
+ausspionieren oder Daten manipulieren oder l&#246;schen. Bei einem Cyber-Angriff auf die 
+Server des DNS-Anbieters Dyn 2016 waren Webseiten von Unternehmen unter 
+anderem von Twitter und Netflix betroffen. Ein Botnet auf Basis des Internet of 
+Things, das &#252;ber eine Schadsoftware namens Mirai erzeugt wurde, war
+offenbar daf&#252;r verantwortlich (siehe www.allaboutcircuits.com/news/mirai-
+theprogram-that-makes-iot-botnet-zombies/). Selbst der Verlust von privaten IoT-
+Ger&#228;ten kann demnach schon eine Schwachstelle f&#252;r betroffene 
+Arbeitsnetzwerke darstellen.
+Auch Hackern k&#246;nnte hier T&#252;r und Tor &#252;ber einen Hintereingang ge&#246;ffnet
+werden. &#220;ber Manipulation bestimmter Funktionen der IoT-Ger&#228;te k&#246;nnten Hacker 
+in ein Netzwerk des Arbeitgebers eindringen. &#8222;Gelingt es Angreifern, einmal in 
+das Netzwerk einzudringen, k&#246;nnen sie sich dort weiter ausbreiten und
+beispielsweise nach anderen verwundbaren Ger&#228;ten suchen, Informationen
+stehlen, auf Server und Systeme zugreifen oder Ger&#228;te f&#252;r Botnets kapern&#8220; 
+(www.security-insider.de/private-iot-geraete-im-unternehmen-a-846683/).
+Selbst der Chef des neuen Cyber-Kommandos der Bundeswehr best&#228;tigt laut
+einem Medienbericht, dass Fitness-Tracker, IoT und die Nutzung von privaten 
+Smartphones f&#252;r Soldaten Sicherheitsrisiken bergen (https://diepresse.com/
+Deutscher Bundestag Drucksache 19/12816
+19. Wahlperiode 29.08.2019
+home/techscience/5669079/Deutscher-Cyberkommandant-warnt-vor-
+Risikendurch-Smartphones).
+Wir fragen die Bundesregierung:
+1. Teilt die Bundesregierung die Meinung der Fragesteller, dass durch die
+Mitnahme von privaten IoT-Ger&#228;ten an den Arbeitsplatz gro&#223;e
+Sicherheitsrisiken bestehen, welche die Netzwerksicherheit von Arbeitgebern gef&#228;hrden 
+kann?
+2. Hat in diesem Zusammenhang die Bundesregierung Aufkl&#228;rungs- und
+Informationsma&#223;nahmen f&#252;r Industrie und Wirtschaft und Unternehmen geplant 
+oder durchgef&#252;hrt, und wenn ja, welche konkreten Ma&#223;nahmen in welchem 
+Umfang wurden durchgef&#252;hrt?
+3. Wie viele Angriffe fanden seit dem Beginn der 19. Wahlperiode nach
+Kenntnis der Bundesregierung auf die Netzwerke von Bundesbeh&#246;rden und
+Bundeseinrichtungen (Bundestag, Bundesregierung, Bundesministerien und
+deren nachgeordnete Beh&#246;rden usw.) vor allem &#252;ber Smartwatches, IoT-Ger&#228;te 
+und dergleichen statt, und in welchem Umfang fielen diese aus?
+4. Teilt die Bundesregierung die Meinung der Fragesteller, dass generell die 
+Mitnahme von privaten IoT-Ger&#228;ten hohe Sicherheitsrisiken in
+Bundesbeh&#246;rden und Bundeseinrichtungen (Bundestag, Bundesregierung,
+Bundesministerien und deren nachgeordnete Beh&#246;rden usw.) mit sich bringen kann?
+5. Ist in Bundesbeh&#246;rden und Bundeseinrichtungen (Bundestag,
+Bundesregierung, Bundesministerien und deren nachgeordneten Beh&#246;rden usw.) die
+Mitnahme von privaten IoT-Ger&#228;ten im Sinne des BYOD generell gestattet, und 
+wenn ja, k&#246;nnen sich die Mitarbeiter mit ihren privaten IoT-Ger&#228;ten auch 
+mit dem Arbeitsnetzwerk verbinden?
+6. Sind nach Kenntnis der Bundesregierung die Netzwerke von
+Bundesbeh&#246;rden und Bundeseinrichtungen (Bundestag, Bundesregierung,
+Bundesministerien und deren nachgeordnete Beh&#246;rden usw.), vor allem aber hoch
+sensible Einrichtungen des Bundesnachrichtendienstes (BND), 
+Bundesministeriums des Innern, f&#252;r Bau und Heimat (BMI) und der
+Bundeswehr ausreichend und letztaktuell vor Angriffen &#252;ber IoT-Ger&#228;te
+gesch&#252;tzt?
+7. Welche konkreten Ma&#223;nahmen haben die einzelnen Bundesbeh&#246;rden und 
+Bundeseinrichtungen (Bundestag, Bundesregierung, Bundesministerien und 
+deren nachgeordnete Beh&#246;rden usw.) gesetzt, um das Abh&#246;ren,
+Transkribieren und Auswerten von Mitschnitten von Sprachsoftware (zum Beispiel auf 
+Smartphones oder Kaffeemaschinen) zu verunm&#246;glichen und somit den 
+Schutz sensibler Daten zu gew&#228;hrleisten?
+Berlin, den 15. August 2019
+Dr. Alice Weidel, Dr. Alexander Gauland und Fraktion
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>Private IoT- Ger&#228;te am Arbeitsplatz</titel>
+    <datum>2019-08-29</datum>
+  </document>
+  

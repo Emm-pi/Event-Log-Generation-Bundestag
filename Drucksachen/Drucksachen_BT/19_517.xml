@@ -1,0 +1,125 @@
+<document>
+    <id>217262</id>
+    <drucksachetyp>Kleine Anfrage</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>15</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/517</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>acdf5b05f80c808723686bf5cbe33e35</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:15+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>231360</id>
+      <titel>Nutzung von Verschl&#252;sselung (TSL/SSL bzw. HTTPS) auf Internetseiten von Bundesbeh&#246;rden</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>LINKE</bezeichnung>
+      <titel>Fraktion DIE LINKE</titel>
+    </urheber>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/005/1900517.pdf</pdf_url>
+      <id>217262</id>
+      <dokumentnummer>19/517</dokumentnummer>
+      <datum>2018-01-19</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Kleine Anfrage</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Fraktion DIE LINKE</urheber>
+    </fundstelle>
+    <autoren_anzeige>
+      <id>136</id>
+      <titel>Dr. Petra Sitte, MdB, DIE LINKE</titel>
+      <autor_titel>Petra Sitte</autor_titel>
+    </autoren_anzeige>
+    <autoren_anzeige>
+      <id>1985</id>
+      <titel>Simone Barrientos, MdB, DIE LINKE</titel>
+      <autor_titel>Simone Barrientos</autor_titel>
+    </autoren_anzeige>
+    <text>[Deutscher Bundestag  Drucksache 19/517 
+19. Wahlperiode 19.01.2018 
+Kleine Anfrage 
+der Abgeordneten Dr. Petra Sitte, Simone Barrientos, Birke Bull-Bischoff,  
+Anke Domscheit-Berg, Brigitte Freihold, Nicole Gohlke, Ulla Jelpke, Jan Korte, 
+Cornelia M&#246;hring, Norbert M&#252;ller (Potsdam), Zaklin Nastic, S&#246;ren Pellmann, 
+Martina Renner, Kersten Steinke, Katrin Werner und der Fraktion DIE LINKE. 
+Nutzung von Verschl&#252;sselung (TSL/SSL bzw. HTTPS) auf Internetseiten von 
+Bundesbeh&#246;rden 
+Bei Transport Layer Security (TLS; SSL ist die Bezeichnung eines
+Vorg&#228;ngerprotokolls) handelt es sich um ein g&#228;ngiges Verschl&#252;sselungsprotokoll f&#252;r
+Daten&#252;bertragung im Internet. Verwendet wird es unter anderem im Rahmen von 
+HTTPS, einer verschl&#252;sselten Version des Hypertext Transfer Protocol (HTTP), 
+das insbesondere der &#220;bertragung von Webseiten dient. 
+Die Verwendung von HTTPS zur Auslieferung von Webseiten hat zwei zentrale 
+Vorteile: Sie gew&#228;hrleistet Vertraulichkeit, da die &#252;bertragenen Daten (also der 
+Inhalt der Seite und Eingaben, wie etwa Zugangsdaten) verschl&#252;sselt und damit 
+der Einsicht durch Dritte entzogen sind und sie gew&#228;hrleistet Integrit&#228;t, da sie 
+Gewissheit &#252;ber die Identit&#228;t des Webseitenanbieters gibt und so Phishing- oder 
+Man-in-the-Middle-Angriffen vorbeugen kann. W&#228;hrend in der Vergangenheit 
+HTTPS vor allem im Rahmen bestimmter besonders sensibler Dienste wie etwa 
+Zahlungstransaktionen verwendet wurde, hat es sich in den letzten Jahren immer 
+mehr als allgemeiner Sicherheitsstandard etabliert und inzwischen erfolgt
+weltweit mehr als die H&#228;lfte des Webverkehrs &#252;ber HTTPS (www.eff.org/ 
+deeplinks/2017/02/were-halfway-encrypting-entire-web). 
+Seit 2014 existiert ein Mindeststandard des Bundesamtes f&#252;r Sicherheit in der 
+Informationstechnik (BSI) f&#252;r den Einsatz des SSL/TLS-Protokolls durch
+Bundesbeh&#246;rden, dessen Anwendung nach einer entsprechenden
+Verwaltungsvorschrift (Gemeinsames Ministerialblatt &#8211; GMBl &#8211; 2015 S. 173) verbindlich ist und 
+das in seiner Begr&#252;ndung insbesondere auf die Wichtigkeit der damit
+gew&#228;hrleisteten sicheren Daten&#252;bertragung bei E-Government-Anwendungen verweist. 
+In ihrer Digitalen Agenda 2014 bis 2017 hat sich die Bundesregierung unter
+anderem das Ziel gesetzt, &#8222;die Kommunikation &#252;ber digitale Netze zu sch&#252;tzen und 
+daf&#252;r den Zugang zu sicheren und einfach zu nutzenden
+Verschl&#252;sselungsverfahren zu f&#246;rdern&#8220; und Deutschland zum &#8222;Verschl&#252;sselungs-Standort Nr. 1&#8220; werden 
+zu lassen. Dazu solle &#8222;die Verschl&#252;sselung von privater Kommunikation in der 
+Breite zum Standard werden&#8220;. 
+Nach Recherchen der Open Knowledge Foundation Deutschland (zug&#228;nglich
+unter https://https.jetzt/) unterst&#252;tzen von 513 untersuchten Domains deutscher 
+Bundesbeh&#246;rden mit Stand vom Januar 2018 lediglich 135, also etwa 26 Prozent, 
+den Einsatz von HTTPS.
+Wir fragen die Bundesregierung: 
+1. Teilt die Bundesregierung die Auffassung, dass der fl&#228;chendeckende Einsatz 
+von HTTPS im World Wide Web ein erstrebenswertes Ziel ist, um ein 
+H&#246;chstma&#223; an Sicherheit zu gew&#228;hrleisten? 
+2. Welche Anstrengungen hat die Bundesregierung bisher unternommen, um 
+im Sinne ihrer Digitalen Agenda die Verwendung von HTTPS bzw. des 
+SSL/TLS-Protokolls insgesamt zu f&#246;rdern? 
+3. Wie ist es nach Auffassung der Bundesregierung zu bewerten, dass allem 
+Anschein nach nur ein geringer Anteil von Domains deutscher
+Bundesbeh&#246;rden den Einsatz von HTTPS unterst&#252;tzt? 
+4. Plant die Bundesregierung Ma&#223;nahmen, um diesen Anteil zu erh&#246;hen, und 
+wenn ja, welche? 
+5. Wie viele Domains werden insgesamt von Bundesbeh&#246;rden betrieben (bitte 
+nach Beh&#246;rde und in Summe aufschl&#252;sseln)? 
+a) Auf wie vielen dieser Domains wird jeweils der Einsatz von HTTPS
+unterst&#252;tzt? 
+b) Auf wie vielen dieser Domains wird jeweils der Einsatz von HTTPS
+technisch erzwungen? 
+c) Auf wie vielen dieser Domains ist jeweils das Protokoll HTTP Strict 
+Transport Security (HSTS) implementiert? 
+6. Wie viele Verwaltungsdienstleistungen von Bundesbeh&#246;rden werden &#252;ber 
+Weboberfl&#228;chen erbracht (bitte nach Beh&#246;rde und in Summe aufschl&#252;sseln)? 
+a) F&#252;r wie viele davon wird jeweils der Einsatz von HTTPS unterst&#252;tzt? 
+b) F&#252;r wie viele davon wird jeweils der Einsatz von HTTPS technisch
+erzwungen? 
+c) F&#252;r wie viele davon ist jeweils das HSTS-Protokoll implementiert? 
+7. Wie ist die von verschiedenen Bundesministerien vertretene Auffassung  
+begr&#252;ndet, dass ein Zugang zu vollst&#228;ndigen Listen registrierter Domains 
+nachteilige Auswirkungen auf Belange der inneren oder &#228;u&#223;eren Sicherheit 
+haben k&#246;nne (vgl. https://fragdenstaat.de/anfrage/registrierte-domains-des- 
+gesundheitsministeriums/#nachricht-45513), und welche konkreten
+Bedrohungsszenarien und Sicherheitskonzepte sind damit verbunden? 
+Berlin, den 19. Januar 2018 
+Dr. Sahra Wagenknecht, Dr. Dietmar Bartsch und Fraktion 
+Satz: Satzweiss.com Print, Web, Software GmbH, Mainzer Stra&#223;e 116, 66121 Saarbr&#252;cken, www.satzweiss.com 
+Druck: Printsystem GmbH, Schafw&#228;sche 1-3, 71296 Heimsheim, www.printsystem.de 
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de 
+ISSN 0722-8333]</text>
+    <titel>Nutzung von Verschl&#252;sselung (TSL/SSL bzw. HTTPS) auf Internetseiten von Bundesbeh&#246;rden</titel>
+    <datum>2018-01-19</datum>
+  </document>
+  

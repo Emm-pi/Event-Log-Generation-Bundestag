@@ -1,0 +1,1029 @@
+<document>
+    <id>224069</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/5868</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>4d42c9287475a1560ccba260f358ac91</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>240789</id>
+      <titel>Blockchain und Distributed-Ledger-Technologien - Potentiale und Anwendungsfelder</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium f&#252;r Wirtschaft und Energie</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/058/1905868.pdf</pdf_url>
+      <id>224069</id>
+      <dokumentnummer>19/5868</dokumentnummer>
+      <datum>2018-11-16</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums f&#252;r Wirtschaft und Energie vom 
+14. November2018 &#252;bermittelt.  
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext. 
+Deutscher Bundestag  Drucksache 19/5868 
+19. Wahlperiode 16.11.2018 
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Dieter Janecek, Dr. Danyal Bayaz,  
+Dr. Konstantin von Notz, weiterer Abgeordneter und der Fraktion B&#220;NDNIS 90/ 
+DIE GR&#220;NEN  
+&#8211; Drucksache 19/5278 &#8211; 
+Blockchain und Distributed-Ledger-Technologien &#8211; Potenziale und 
+Anwendungsfelder  
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r  
+Distributed-Ledger-Technologien wird ein gro&#223;es disruptives Potenzial
+zugeschrieben, da sie es relativ einfach erm&#246;glichen, ohne Intermedi&#228;re und die
+Aufsicht und Haftung einer dritten Instanz Vertrauen zwischen unbekannten
+Parteien herzustellen und auf dieser Basis Transaktionen durchzuf&#252;hren. Bei 
+&#8222;Blockchain&#8220;- oder &#8222;Distributed-Ledger&#8220;-Technologien handelt es sich um
+spezifische Arten digitaler Buchf&#252;hrungssysteme, die sich vor allem durch ihren 
+dezentralen Charakter und die l&#252;ckenlose Speicherung ihrer verschiedenen
+Zust&#228;nde auszeichnen. Dadurch, dass jede Ver&#228;nderung &#8211; und damit das Wissen 
+dar&#252;ber, wo sich gerade welche Einheiten des jeweiligen Buchf&#252;hrungssystems 
+befinden &#8211; genau erfasst und f&#252;r alle einsehbar auf vielen Rechnern gleichzeitig 
+gespeichert wird, gelten Blockchain- und Distributed-Ledger-Technologien 
+nicht nur als besonders transparent, sondern zudem als gar nicht oder h&#246;chstens 
+mit unverh&#228;ltnism&#228;&#223;igem Aufwand manipulierbar. Durch mathematische und 
+kryptographische Verfahren wird zudem sichergestellt, dass es bisher
+unm&#246;glich ist, einen einzelnen Datenblock zu l&#246;schen oder seine Inhalte zu ver&#228;ndern, 
+ohne die Informationen aller darauffolgenden Bl&#246;cke nicht ebenfalls zu
+zerst&#246;ren. Werden einzelne Datenbl&#246;cke wie eben beschrieben zu einer Kette
+verkn&#252;pft, spricht man von einer Blockchain, w&#228;hrend der &#220;berbegriff der
+Distributed-Ledger-Technologien (DLT) alle Arten dezentraler
+Transaktionsdatenbanken subsumiert, in denen auch andere Anordnungen der
+Transaktionsinformationen m&#246;glich sind. 
+Das bekannteste Beispiel einer Distributed-Ledger-Technologie ist derzeit
+Bitcoin, eine Kryptow&#228;hrung, deren Transaktionen auf der gleichnamigen
+Blockchain festgehalten werden, die sich als Zahlungsmittel einsetzen l&#228;sst und
+zuletzt insbesondere als Spekulationsobjekt in der &#246;ffentlichen Wahrnehmung stand. 
+Auch der hohe Energieverbrauch des Bitcoin-Systems, der Sch&#228;tzungen zufolge 
+in diesem Jahr m&#246;glicherweise der Gr&#246;&#223;enordnung des j&#228;hrlichen
+Stromverbrauchs von Staaten wie Argentinien entsprechen k&#246;nnte (www. 
+deutschlandfunkkultur.de/diskussion-um-bitcoin-digitalwaehrung-als-
+klimakiller.976.de.html?dram:article_id=409738), wird zu Recht kritisch
+diskutiert. Zwar haben andere Kryptow&#228;hrungen und Blockchainsysteme wie 
+Ethereum bereits angek&#252;ndigt, auf deutlich energieeffizientere Verfahren
+umzustellen oder arbeiten bereits damit, trotzdem ist bei der Umsetzung und
+Etablierung von Konsensmechanismen, die eine Alternative zu den
+energieintensiven Proof-of-Work-Verfahren darstellen, mehr Eile geboten. Festgehalten
+werden sollte aber auch, dass energieintensive Konsensmechanismen nicht
+technologieimmanent sind und in vielen Anwendungsfeldern, zum Beispiel in
+unternehmensinternen Prozessen und Industrieanwendungen, im Internet of Things, 
+privaten beziehungsweise zugangsbeschr&#228;nkten Blockchains Nachteile
+gegen&#252;ber alternativen Verfahren haben.  
+An die technischen M&#246;glichkeiten und die Anwendungsbereiche von
+Blockchainsystemen werden immer wieder &#252;berzogene Erwartungen gestellt. Aus 
+Sicht der Fragestellenden haben Blockchain- und Distributed-Ledger-
+Technologien &#8211; immer einen realistischen Erwartungshorizont und eine sachliche
+Debatte vorausgesetzt &#8211; aber durchaus das Potential, in unterschiedlichsten
+Bereichen interessante und echte Peer-to-Peer-Anwendungen zu erm&#246;glichen.
+Gerade auch f&#252;r wirtschaftliche Anwendungsfelder wie unternehmensinterne
+Prozesse, Industrieanwendungen, das Internet of Things, f&#252;r
+Lieferkettentransparenz und Produktsicherheit, f&#252;r Finanzierungsm&#246;glichkeiten von Start-ups &#252;ber 
+Token oder ICOs (Initial Coin Offerings) sowie insgesamt f&#252;r den Wirtschafts- 
+und Gr&#252;ndungsstandort Deutschland bzw. Europa k&#246;nnen Blockchain- und
+Distributed-Ledger-Technologien eine relevante Rolle spielen. Genauso kommen 
+Blockchain- und Distributed-Ledger-Technologien schon heute beispielsweise 
+in der Entwicklungshilfe zum Einsatz. Auch f&#252;r die Transparenz der
+&#246;ffentlichen Verwaltung ergeben sich, beispielsweise f&#252;r die Nachvollziehbarkeit von 
+Verwaltungshandeln, gro&#223;e Chancen.  
+Nach Aussage der Bundesregierung handelt es sich um eine junge Technologie, 
+deren gesellschaftliches und &#246;konomisches Potenzial derzeit sehr schwer
+einzusch&#228;tzen ist (vgl. Antwort der Bundesregierung zu den Fragen 1 bis 4 der
+Kleinen Anfrage der Fraktion der FDP auf Bundestagsdrucksache 19/3817).
+Dennoch hat die Gro&#223;e Koalition im Koalitionsvertrag zwischen CDU, CSU und 
+SPD bereits eine umfassende Blockchain-Strategie angek&#252;ndigt, deren konkrete 
+Erarbeitung nach Auskunft der Bundesregierung noch im laufenden Jahr
+begonnen werden soll. Im Zuge der Weiterentwicklung der Hightech-Strategie soll 
+Blockchain-Technologie einer der Forschungsschwerpunkte sein, bestehende 
+Technologieprogramme sollen fortgef&#252;hrt und ausgebaut werden. Zudem soll 
+laut Koalitionsvertrag zwischen CDU, CSU und SPD die Rechtsdurchsetzung 
+durch Digitalisierung insbesondere bei Smart Contracts erleichtert und deshalb 
+die Entwicklung der automatischen Vertragsentsch&#228;digung gef&#246;rdert und 
+rechtssicher gestaltet werden. Auch sollen &#8222;in der Bundesregierung [&#8230;]
+Distributed Ledger (Blockchain)&#8220; erprobt werden &#8222;so dass basierend auf diesen
+Erfahrungen ein Rechtsrahmen geschaffen werden kann&#8220;. Auf europ&#228;ischer Ebene 
+hat die Bundesregierung im Fr&#252;hjahr zusammen mit insgesamt mittlerweile 26 
+europ&#228;ischen Staaten eine Vereinbarung unterschrieben, die Ma&#223;nahmen
+vorsieht, um eine europ&#228;ische Blockchain-Infrastruktur zu schaffen (European 
+Blockchain Services Infrastructure &#8211; EBSI) aufzubauen (https://ec.europa. 
+eu/digital-single-market/en/news/european-countries-join-blockchain-partnership). 
+Im Koalitionsvertrag zwischen CDU, CSU und SPD ist au&#223;erdem angek&#252;ndigt, 
+dass sich die Gro&#223;e Koalition f&#252;r einen angemessenen Rechtsrahmen f&#252;r den 
+Handel mit Kryptow&#228;hrungen und Token auf europ&#228;ischer und internationaler 
+Ebene einsetzen wird. 
+In Deutschland besteht nach Ansicht der Fragestellenden die einmalige Chance, 
+mit einer im internationalen Vergleich florierenden Blockchain Community vor 
+allem in Berlin, aber beispielsweise auch in M&#252;nchen und Frankfurt,
+interessante Anwendungsfelder zu definieren und entsprechende Gesch&#228;ftsmodelle zu 
+entwickeln. Von den anstehenden politischen Entscheidungen auf Bundes-,
+europ&#228;ischer sowie internationaler Ebene wird abh&#228;ngen, ob es gelingt, die
+vielf&#228;ltigen Potenziale von Blockchain- und Distributed-Ledger-Technologien
+tats&#228;chlich zum Tragen zu bringen, m&#246;gliche Risiken zu verringern,
+Rechtssicherheit durch Regulierung zu schaffen, sinnvolle Technologief&#246;rderung zu
+betreiben sowie die innovative und heterogene Gr&#252;nderszene in Deutschland nicht 
+nur zu erhalten, sondern den Standortvorteil auszubauen und vielversprechende 
+&#246;konomische sowie sozial-&#246;kologische Entwicklungen zu unterst&#252;tzen. 
+Zur angek&#252;ndigten Blockchain-Strategie 
+1. Wie bewertet die Bundesregierung im Bereich der Blockchain- und
+Distributed-Ledger-Technologien die wissenschaftliche und wirtschaftliche
+Ausgangsposition Deutschlands im Vergleich zu anderen Staaten, und welche 
+spezifischen Vorteile oder Nachteile sieht sie dabei im internationalen
+Wettbewerb?  
+Die wissenschaftliche Ausgangsposition Deutschlands in konkreten
+Anwendungsfeldern f&#252;r Blockchain- und Distributed-Ledger-Technologien ist gut. 
+Deutschland verf&#252;gt &#252;ber eine wettbewerbsf&#228;hige Software-Industrie.
+Deutschland hat zudem Vorteile im internationalen Wettbewerb hinsichtlich einer
+florierenden Gr&#252;ndungsszene im Bereich Blockchain und einer Vielzahl an
+ausgewiesenen Experten in dem Bereich.  
+Die in dem Bereich Blockchain- und Distributed-Ledger-Technologien t&#228;tigen 
+Unternehmen sind in verschiedenen Anwendungsgebieten aktiv. Inwiefern 
+Blockchain- und Distributed-Ledger-Technologien gegen&#252;ber anderen, im
+Einsatz befindlichen L&#246;sungen einen Zusatznutzen aus Anwendersicht stiften, ist 
+vom jeweiligen Anwendungsgebiet aus zu betrachten. Da es sich bei Blockchain- 
+und Distributed-Ledger-Technologien um vergleichsweise junge Technologien 
+handelt, kann deren Potential und somit auch die Ausgangsposition gegenw&#228;rtig 
+nicht abschlie&#223;end bewertet werden. Grundlegender Forschungs- und
+Entwicklungsbedarf wird derzeit bei der konkreten Implementierung gesehen. 
+2. Wie bewertet die Bundesregierung im Vergleich mit anderen Staaten die
+bisherigen politischen Ma&#223;nahmen zur F&#246;rderung und Regulierung von
+Blockchain- und Distributed-Ledger-Technologien, und inwiefern besteht hier aus 
+Perspektive der Bundesregierung ein Nachholbedarf?  
+Die Bundesregierung hat verschiedene Ma&#223;nahmen zur F&#246;rderung von
+Technologien ergriffen, die f&#252;r Blockchain- und Distributed-Ledger-Technologien
+genutzt werden k&#246;nnen. Eine Bewertung dieser Ma&#223;nahmen erfolgt im Rahmen der 
+regul&#228;ren Evaluierung. Die Bundesregierung setzt sich derzeit im Rahmen der 
+Arbeiten zur Erstellung der nationalen Blockchain-Strategie damit auseinander, 
+ob weitere politische Ma&#223;nahmen zur F&#246;rderung und Regulierung der
+Technologien notwendig sind. 
+3. Wann genau plant die Bundesregierung, die im Koalitionsvertrag zwischen 
+CDU, CSU und SPD angek&#252;ndigte Blockchain-Strategie vorzulegen, und 
+wie wird diese Strategie nach Ansicht der Bundesregierung dazu beitragen, 
+den Abstand zu anderen L&#228;ndern aufzuholen (vgl. Antwort der
+Bundesregierung zu Frage 27 der Kleinen Anfrage der Fraktion der FDP auf
+Bundestagsdrucksache 19/3817)?
+4. Welche Elemente sollen in jedem Fall Teil der angek&#252;ndigten Blockchain-
+Strategie sein, um wie im Koalitionsvertrag zwischen CDU, CSU und SPD 
+beschrieben, das Potenzial der Blockchain-Technologie zu erschlie&#223;en, und 
+auf welche konkreten Herausforderungen soll die Strategie Antworten
+geben, insbesondere um wie angek&#252;ndigt Missbrauchsm&#246;glichkeiten zu
+verhindern?  
+5. Welche bisherigen und geplanten Veranstaltungen, Gespr&#228;che und
+Gespr&#228;chsformate, Studien und Gutachten sollen einen inhaltlichen Beitrag zur 
+angek&#252;ndigten Blockchain-Strategie leisten, und welche
+Anwendungsbereiche von Blockchain- und Distributed-Ledger-Technologien nimmt die
+Bundesregierung dabei vorrangig in den Blick?  
+Die Fragen 3 bis 5 werden gemeinsam beantwortet. 
+Die Bundesregierung plant, die Blockchain-Strategie Mitte 2019 vorzulegen. Die 
+Federf&#252;hrung zur Erarbeitung der Blockchain-Strategie liegt beim
+Bundesministerium f&#252;r Wirtschaft und Energie (BMWi) und beim Bundesministerium der
+Finanzen (BMF). Bei den Arbeiten zur Erstellung der Strategie und im Rahmen der 
+&#252;blichen Ressortabstimmung werden s&#228;mtliche Ressorts beteiligt. Mit der
+Blockchain-Strategie sollen Ma&#223;nahmen und Vorhaben im Bereich Blockchain- und 
+Distributed-Ledger-Technologien ergriffen werden. Die Bundesregierung plant 
+u. a. durch einen Konsultationsprozess sicherzustellen, dass Hinweise und
+Empfehlungen von Marktakteuren, Wissenschaft und anderen Stakeholdern zum
+politischen Handlungsbedarf ber&#252;cksichtigt werden. Die Bundesregierung ist
+ohnehin stets im Austausch mit Expertinnen und Experten zu verschiedenen Themen, 
+so auch zu Blockchain- und Distributed-Ledger-Technologien.  
+6. Wie lautet der Auftrag f&#252;r das von der Bundesregierung gef&#246;rderte
+&#8222;Grundgutachten zur Pr&#252;fung eines allgemeinen Rahmens f&#252;r die Anwendung der 
+Technologie&#8220; (vgl. Antwort der Bundesregierung zu Frage 12 der Kleinen 
+Anfrage der Fraktion der FDP auf Bundestagsdrucksache 19/3817) im 
+Wortlaut, von wem wird das Gutachten erstellt, und bis wann werden
+voraussichtlich die Ergebnisse des Gutachtens vorliegen? 
+Der angesprochene Auftrag wurde als &#8222;Grundgutachten zum &#246;konomischen
+Potential und den rechtlichen Herausforderungen beim Einsatz der Blockchain-
+Technologie insbesondere im Mobilit&#228;tssektor&#8220; ausgeschrieben. Mit der
+Erstellung des Gutachtens ist die Fraunhofer-Gesellschaft zur F&#246;rderung der
+angewandten Forschung e. V. (Institut FIT) beauftragt. Ergebnisse werden voraussichtlich 
+im Herbst 2019 vorliegen. 
+7. Inwiefern setzt die Bundesregierung das im Koalitionsvertrag zwischen 
+CDU, CSU und SPD angek&#252;ndigte Vorgehen um, dass in der
+Bundesregierung zun&#228;chst innovative Technologien wie Distributed Ledger (Blockchain) 
+erprobt werden sollen, so dass dann basierend auf diesen Erfahrungen ein 
+Rechtsrahmen geschaffen werden kann?  
+Wie viele und welche Projekte genau sind Teil dieser Erprobungsphase und 
+damit Basis f&#252;r die Gestaltung des zuk&#252;nftigen Rechtsrahmens? 
+Die Bundesregierung f&#246;rdert verschiedene Pilotprojekte im Bereich Blockchain- 
+und Distributed-Ledger-Technologien. Die Erkenntnisse, die aus der Evaluierung 
+dieser Pilotprojekte gezogen werden, flie&#223;en in die Meinungsbildung der
+Bundesregierung zur &#220;berarbeitung des Rechtsrahmens ein.
+Teile dieser Projekte sind derzeit folgende: 
+&#61623; Sechs F&#246;rderprojekte im Rahmen der technologieprogrammbezogenen
+Ausschreibungen Smart Service Welt II, IKT f&#252;r Elektromobilit&#228;t III und PAiCE 
+(Platforms | Additive Manufacturing | Imaging | Communication |
+Engineering): BIoGPV, ETIBLOGG, das Projekt Pebbles, SMECS, Charge4C und 
+das Projekt SAMPL. 
+&#61623; Vier von f&#252;nf Modellregionen des F&#246;rderprogramms &#8222;Schaufenster
+intelligente Energie &#8211; Digitale Agenda f&#252;r die Energiewende&#8220; (SIN&#1058;EG) erproben 
+Distributed-Ledger-Technologie im Bereich des Stromhandels. 
+&#61623; Die Pilotierung von Distributed-Ledger-Technologie im Bundesamt f&#252;r
+Migration und Fl&#252;chtlinge (BAMF). 
+8. Hat die Bundesregierung mit m&#246;glichen Partnerinnen und Partnern aus der 
+praktischen Anwendung aus dem Bereich Blockchain bzw. DLT Gespr&#228;che 
+gef&#252;hrt zur Umsetzung einer Blockchain-Strategie, und wenn ja, mit
+welchen? 
+Auf die Antwort zu den Fragen 3 bis 5 wird verwiesen. 
+9. Welche vorrangigen Regulierungsfragen stellen sich aus Perspektive der 
+Bundesregierung in Zusammenhang mit dem Einsatz von Blockchain- und 
+Distributed-Ledger-Technologien sowie durch die Ausgabe von
+Kryptow&#228;hrungen und Finanzierung von Unternehmen durch ICOs, und welche
+Ma&#223;nahmen plant die Bundesregierung, m&#246;glicherweise bereits vor der
+Ver&#246;ffentlichung der angek&#252;ndigten Blockchain-Strategie in die Wege zu leiten? 
+Die Bundesregierung setzt sich &#8211; wie im Koalitionsvertrag angek&#252;ndigt &#8211; f&#252;r
+einen angemessenen Rechtsrahmen auf europ&#228;ischer und internationaler Ebene ein. 
+Regulierungsfragen stellen sich insbesondere mit Blick auf die
+Geldw&#228;schepr&#228;vention, den Anlegerschutz und die Marktintegrit&#228;t. Zu Verbesserung der
+Geldw&#228;schepr&#228;vention sieht die Richtlinie (EU) 2018/843 (&#196;nderungsrichtlinie der 
+Vierten Geldw&#228;sche-Richtlinie) vor, dass Dienstleister, die virtuelle W&#228;hrungen 
+umtauschen, sowie Anbieter von elektronischen Geldb&#246;rsen bestimmte
+geldw&#228;scherechtliche Sorgfaltspflichten einzuhalten haben. Diese Vorgabe ist bis zum 
+10. Januar 2020 in Bundesrecht umzusetzen. In diesem Zusammenhang wird auch 
+gepr&#252;ft, inwieweit die Verwaltungspraxis der Bundesanstalt f&#252;r
+Finanzdienstleistungsaufsicht (BaFin) &#8211; wonach Kryptow&#228;hrungen als Finanzinstrumente in 
+Form von Rechnungseinheiten im Sinne des &#167; 1 Absatz 11 Satz 1 Nummer 7 
+zweite Alternative des Kreditwesengesetzes eingeordnet werden &#8211; durch weitere 
+gesetzgeberische Ma&#223;nahmen flankiert werden sollte. 
+10. Welches Bundesministerium hat bei der Erarbeitung der angek&#252;ndigten 
+Blockchain-Strategie die Federf&#252;hrung inne, und welche weiteren Ressorts 
+sind direkt in die Vorarbeiten zu einer nationalen Blockchain-Strategie mit 
+einbezogen?  
+Inwieweit wird externe Expertise in die Erarbeitung der Strategie einbezogen 
+(bitte auflisten)? 
+Auf die Antwort zu den Fragen 3 bis 5 wird verwiesen.
+Zur Europ&#228;ischen Blockchain-Partnerschaft und Ma&#223;nahmen auf europ&#228;ischer 
+Ebene 
+11. In welchem Verh&#228;ltnis steht die angek&#252;ndigte Blockchain-Strategie zur
+Europ&#228;ischen Blockchain-Partnerschaft, an der auch Deutschland beteiligt ist, 
+und plant nur die Bundesregierung, konkrete Ma&#223;nahmen im Rahmen einer 
+nationalen Strategie umzusetzen, oder sind nach Kenntnis der
+Bundesregierung auch in den anderen Partnerstaaten entsprechende nationale Strategien 
+geplant?  
+Eine endg&#252;ltige Aussage zum Verh&#228;ltnis zwischen der Europ&#228;ischen Blockchain-
+Partnerschaft und der nationalen Blockchain-Strategie kann erst getroffen
+werden, wenn die Inhalte der nationalen Blockchain-Strategie feststehen. Der
+Bundesregierung ist bekannt, dass &#214;sterreich bereits eine nationale Strategie hat, sie 
+hat jedoch keine umf&#228;ngliche Kenntnis dar&#252;ber, in welchen L&#228;ndern, die
+Mitglieder der Partnerschaft sind, es ebenfalls nationale Strategien gibt oder solche
+geplant sind. Soweit m&#246;glich werden bei der Erarbeitung der Blockchain-Strategie 
+die Erfahrungen anderer L&#228;nder und der EU ber&#252;cksichtigt. 
+12. In welchem Rahmen und in welcher Regelm&#228;&#223;igkeit tauscht sich die
+Bundesregierung im Zuge der Europ&#228;ischen Blockchain-Partnerschaft mit
+Regierungen anderer europ&#228;ischer Staaten &#252;ber die jeweiligen Erfahrungen aus, 
+und durch wen wird die Bundesregierung in diesem Austausch vertreten?  
+Die Vertreter der Staaten, die Mitglieder der Europ&#228;ischen Blockchain
+Partnerschaft sind, treffen sich etwa einmal im Monat. F&#252;r die Bundesregierung nimmt 
+entweder eine Vertreterin oder ein Vertreter des BMWi auf Fachebene oder eine 
+Vertreterin oder ein Vertreter der St&#228;ndigen Vertretung bei der EU an den
+Terminen teil. 
+13. Welche Bundesministerien sind auf Bundesebene in die entsprechenden 
+Vorbereitungen eingebunden, und welche konkreten &#8222;Use Cases&#8220; hat die 
+Bundesregierung als Ergebnis erster Besprechungen der Europ&#228;ischen 
+Blockchain-Partnerschaft zusammengetragen und an die Europ&#228;ische
+Kommission gemeldet (vgl. Antwort der Bundesregierung zu Frage 28 der
+Kleinen Anfrage der Fraktion FDP auf Bundestagsdrucksache 19/3817)?  
+Die Europ&#228;ische Kommission hat von s&#228;mtlichen Partnerstaaten Use Cases
+erfragt, die sich f&#252;r eine europ&#228;ische Blockchain Services Infrastruktur eignen 
+k&#246;nnten. In diesem Zusammenhang hat auch das BMWi verschiedene m&#246;gliche 
+Use Cases zusammengetragen. Diese Use Cases umfassten mehrere im
+Zusammenhang mit dezentralen digitalen Identit&#228;ten und mehrere im Zusammenhang 
+mit der Validierung von Dokumenten, wie Zeugnissen oder F&#252;hrerscheinen.
+Sobald im Rahmen der Partnerschaft Entscheidungen getroffen werden sollten,
+werden s&#228;mtliche Ressorts im Rahmen ihrer Zust&#228;ndigkeiten einbezogen.
+14. &#220;ber welche Kan&#228;le und mit welchen Mitteln hat sich die Bundesregierung 
+auf europ&#228;ischer und internationaler Ebene bisher f&#252;r einen angemessenen 
+Rechtsrahmen f&#252;r den Handel mit Kryptow&#228;hrungen und Token eingesetzt, 
+und was sollten hierzu aus Sicht der Bundesregierung auf europ&#228;ischer 
+Ebene die n&#228;chsten Schritte sein? 
+Die Bundesregierung bringt sich aktiv in die fortlaufenden Arbeiten zu diesem 
+Thema auf Ebene der G20, G7 und auf der europ&#228;ischen Ebene ein: 
+Das BMF hat zusammen mit dem franz&#246;sischen Finanzministerium das Thema 
+auf die Agenda des G20-Treffen der Finanzminister und Notenbankgouverneure 
+im M&#228;rz 2018 in Buenos Aires gesetzt.  
+Daraufhin wurden die internationalen Standardsetzer beauftragt, sich mit
+Kryptow&#228;hrungen und Token zu besch&#228;ftigen. Vertreter des BMF bzw. der Deutschen 
+Bundesbank und der BAFin wirken in den jeweiligen Arbeitsgruppen an den
+Arbeiten der Standardsetzer mit. So ist beispielsweise die BaFin Mitglied der
+International Organization of Securities Commissions (IOSCO), der Internationalen 
+Vereinigung der Wertpapieraufsichtsbeh&#246;rden. 
+Crypto-Assets waren auch Gegenstand des G7-Treffens der Finanzminister und 
+Notenbankgouverneure im Mai/Juni 2018 in Whistler. Dort bestand Einigkeit, 
+dass eine internationale Koordinierung der Regulierung erforderlich ist, um den 
+Herausforderungen von Crypto-Assets in einem global vernetzen Finanzsystem 
+gerecht zu werden. Vor diesem Hintergrund hat Deutschland mit Japan im
+September 2018 den Vorsitz einer Koordinierungsgruppe der G7 zu Crypto-Assets 
+&#252;bernommen. 
+Auf europ&#228;ischer Ebene befassen sich die Europ&#228;ische Kommission und die
+Europ&#228;ischen Finanzaufsichtsbeh&#246;rden mit der Regulierung von Kryptow&#228;hrungen. 
+Beispielsweise hat die Europ&#228;ische Wertpapier- und Markt-aufsichtsbeh&#246;rde 
+(ESMA) nach Artikel 9 Absatz 4 der Verordnung (EU) Nr. 1095/2010 einen
+Ausschuss f&#252;r Finanzinnovationen errichtet. Die BaFin ist Mitglied in diesem
+Ausschuss.  
+Die Europ&#228;ische Kommission hat im FinTech-Aktionsplan vom 8. M&#228;rz 2018 
+angek&#252;ndigt, die Entwicklungen bei Crypto-Assets und Initial Coin Offerings
+zusammen mit den Europ&#228;ischen Aufsichtsbeh&#246;rden, der Europ&#228;ischen Zentralbank 
+sowie anderen internationalen Standardsetzern bis Ende 2018 zu beobachten. 
+Ausgehend von der Bewertung der Chancen, der Risiken und des geltenden
+Regulierungsrahmens wird die Europ&#228;ische Kommission pr&#252;fen, ob
+Handlungsbedarf auf europ&#228;ischer Ebene besteht. Die Bundesregierung unterst&#252;tzt dieses
+Vorgehen. Aufgrund der weltweiten Handelbarkeit von Crypto-Assets und des
+gemeinsamen europ&#228;ischen Binnenmarktes sollten &#8211; wie im Finanzmarktbereich 
+&#252;blich &#8211; weitergehende Regulierungsvorschl&#228;ge vor allem auf europ&#228;ischer 
+Ebene entwickelt werden.
+Zu Charakteristiken, rechtlichen Fragen und Standardisierung von Blockchain- 
+und Distributed-Ledger-Technologien 
+15. Welche Voraussetzungen sollten aus Sicht der Bundesregierung Blockchain- 
+und Distributed-Ledger-Technologien allgemein und in Abh&#228;ngigkeit von 
+ihrem jeweiligen Anwendungsfeld erf&#252;llen, um den Anspr&#252;chen an
+Transparenz, Rechtssicherheit, IT-Sicherheit und Datenschutz gerecht zu werden, 
+und welche Zielrichtung sollten demnach entsprechende regulierende
+Ma&#223;nahmen haben?  
+Die Anspr&#252;che an Rechtssicherheit und Datenschutz, die sich aus der g&#252;ltigen 
+Rechtslage ergeben und damit unabh&#228;ngig von dem jeweiligen Anwendungsfeld, 
+sind allgemeing&#252;ltig. Datenschutzrechtliche Belange ergeben sich grunds&#228;tzlich 
+nur bei der Verarbeitung personenbezogener Daten. In dem Spannungsfeld aus 
+der f&#252;r eine Blockchain- und Distributed-Ledger-Technologie typischerweise
+gegebenen Transparenz und dem von Gesetzen geforderten Schutz
+personenbezogener Daten wurde in Gespr&#228;chen mit Entwicklern, Start-ups und Verb&#228;nden der 
+Bedarf an einer rechtlichen Einordnung deutlich, welche Daten &#8222;noch&#8220; als
+personenbezogen zu bewerten sind (z. B. der Hashwert eines pers&#246;nlichen Datums) 
+oder welche Prozesse (Verschleierung, Verschl&#252;sselung, Aggregation von Daten) 
+zu einer hinreichenden Anonymisierung f&#252;hren. Hierzu gibt es einen laufenden 
+Dialog sowohl auf nationaler als auch auf europ&#228;ischer Ebene. Einzelne L&#228;nder 
+wie Frankreich (Commission Nationale Informatique et Libert&#233;s) haben erste
+nationale Einsch&#228;tzungen zu dieser Thematik abgegeben, der Prozess dauert noch 
+an. 
+16. Inwiefern tr&#228;gt der Charakter von Blockchain- und Distributed-Ledger-
+Technologien als Open-Source-Projekte aus Sicht der Bundesregierung zu 
+mehr Innovation und einer schnelleren Technologieentwicklung bei, und in 
+welcher Hinsicht, und mit welchen konkreten Schritten wird die
+Bundesregierung dieses Charakteristikum bei der Entwicklung ihrer Blockchain-
+Strategie, bei der Erprobung der Technologien in der Bundesregierung, dem
+Einsatz der Technologien in der Verwaltung sowie bei weiteren
+Entscheidungsprozessen in Bezug auf die Digitalisierung der Verwaltung ber&#252;cksichtigen?  
+Aus Sicht der Bundesregierung kann die Frage nicht abschlie&#223;end beantwortet 
+werden. Ob Projekte mit Open-Source-Charakter wirklich zu schnellerer
+Technologieentwicklung beitragen, ist noch nicht absehbar.  
+Die Bundesregierung wird Open-Source-Projekte, aber auch andere Projekte
+f&#246;rdern. Hinsichtlich des Einsatzes in der Verwaltung ist die Eigenschaft Open-
+Source nur eines von vielen abzuw&#228;genden Kriterien. Dies gilt f&#252;r Produkte auf 
+Basis von Blockchain- und Distributed-Ledger-Technologien genau wie f&#252;r
+andere Produktbereiche. 
+17. Welche Potenziale von auf Blockchain- und Distributed-Ledger-
+Technologien programmierten Smart Contracts sieht die Bundesregierung jeweils f&#252;r 
+die Bereiche finanzielle und digitale Transaktionen, neue Formen der
+Unternehmensfinanzierung und Unternehmensbeteiligung, Industrieprozesse und 
+digitale Fabriken sowie Datentransfers im &#8222;Internet of Things&#8220;, und welche 
+politischen Gestaltungsm&#246;glichkeiten existieren nach Ansicht der
+Bundesregierung, um diese Potenziale zum Tragen zu bringen?  
+Sogenannte &#8222;Smart Contracts&#8220; haben anwendungs&#252;bergreifend das Potenzial, die 
+unterschiedlichsten Prozesse zu automatisieren. Eingebettet in eine weitgehend 
+f&#228;lschungssichere und damit vertrauensw&#252;rdige Technologie erm&#246;glichen sie 
+Transaktionen zwischen sich m&#246;glicherweise unbekannten Personen oder auch
+zwischen Maschinen. Das technologisch generierte Vertrauen und dessen
+&#220;bertragung in eine digitale Umgebung k&#246;nnen in erheblichem Umfang die
+Transaktionskosten senken. &#8222;Smart Contracts&#8220; sind ein m&#246;glicher n&#228;chster Schritt in
+einem fortlaufenden Digitalisierungsprozess, deren Potenziale derzeit nur im
+Ansatz erahnt werden k&#246;nnen, aber in ihrer gesamtwirtschaftlichen Bedeutung
+relevant sein k&#246;nnten (vgl. auch Antwort zu Frage 31). 
+Eine wesentliche Grundlage f&#252;r die Blockchain-Infrastruktur, in der &#8222;Smart 
+Contracts&#8220; zur Anwendung kommen, sind rechtssichere digitale Identit&#228;ten,
+sowohl f&#252;r nat&#252;rliche Personen als auch f&#252;r Maschinen und Ger&#228;te. Bislang gibt es 
+eine Reihe von Pilotprojekten in diesem Bereich, die aber nicht miteinander
+interoperabel sind. Es gibt derzeit auch noch keinen akzeptierten Standard f&#252;r
+digitale Identit&#228;ten. Die Bundesregierung wird im Rahmen der Erarbeitung der 
+Blockchain-Strategie pr&#252;fen, inwiefern sie &#252;ber die Vernetzung der &#8222;Blockchain-
+Community&#8220;, &#252;ber Pilotprojekte im eigenen Zust&#228;ndigkeitsbereich und &#252;ber den 
+Austausch auf europ&#228;ischer und internationaler Ebene an der Entwicklung von 
+Standards f&#252;r digitale Identit&#228;ten mitwirken kann.  
+F&#252;r die Unterst&#252;tzung vertrauensw&#252;rdiger digitaler Technologien gibt es zudem 
+politische Gestaltungsm&#246;glichkeiten bei der &#220;berpr&#252;fung analoger
+regulatorischer Vorschriften. So verhindern bestehende Schrift- bzw. Papiererfordernisse 
+beispielsweise neue Formen der Unternehmensfinanzierung oder auch eines 
+durchg&#228;ngig systembruchfreien digitalen Stromanbieterwechsels. Im Rahmen der 
+Strategieerarbeitung wird auch die Anpassung solcher Vorschriften an den
+digitalen Wandel &#252;berpr&#252;ft. Diese k&#246;nnte vertrauensw&#252;rdigen Technologien, die f&#252;r 
+die Abbildung und &#220;bertragung digitaler Werte geeignet sind (z. B. Blockchain), 
+einen erheblichen Schub verleihen. 
+Des Weiteren wird auf die Antwort der Bundesregierung zu Frage 22 der Kleinen 
+Anfrage der Fraktion der FDP betreffend Distributed Ledger Technologie &#8211;
+Nutzung der Blockchain-Technologie f&#252;r die Vereinfachung von Verwaltungsakten 
+auf Bundestagsdrucksache 19/3817 verwiesen. 
+18. Mit welchen konkreten Ma&#223;nahmen wird die Bundesregierung wie im
+Koalitionsvertrag zwischen CDU, CSU und SPD angek&#252;ndigt die
+Rechtsdurchsetzung durch Digitalisierung insbesondere bei Smart Contracts erleichtern 
+und die Entwicklung der automatischen Vertragsentsch&#228;digung f&#246;rdern und 
+rechtssicher gestalten?  
+Im Rahmen der Erarbeitung der Blockchain-Strategie werden regulatorische
+Fragestellungen im Zusammenhang mit Blockchain- und Distributed-Ledger-
+Technologien und somit auch im Zusammenhang mit smart contracts betrachtet
+werden. Potentielle regulatorische Hemmnisse m&#252;ssen hierzu belastbar identifiziert 
+werden. 
+19. Welche konkreten politischen Schritte unternimmt die Bundesregierung um 
+sicherzustellen, dass Anwendungen von Distributed-Ledger-Technologien 
+so weiter entwickelt werden, dass der in Artikel 25 der Europ&#228;ischen
+Datenschutz-Grundverordnung (EU-DSGVO) normierte Grundsatz &#8222;Privacy by 
+Design&#8220; tats&#228;chlich gew&#228;hrleistet ist, und welche Ma&#223;nahmen plant die
+Bundesregierung, um Wirtschaft und Open Source Community hierbei
+bestm&#246;glich zu unterst&#252;tzen? 
+Die Blockchain-Technologie zeichnet sich durch eine kontinuierlich wachsende 
+Anzahl von Datens&#228;tzen aus, welche mittels kryptographischer Verfahren
+verkettet sind. Dabei bauen sp&#228;tere Transaktionen auf fr&#252;heren Transaktionen auf und
+best&#228;tigen diese als richtig, weshalb fr&#252;here Transaktionen als solche unver&#228;ndert 
+erhalten bleiben m&#252;ssen, wodurch zugleich Datenmanipulationen erschwert
+werden sollen.  
+Damit steht die Blockchain-Technologie in einem Konflikt mit Prinzipien der seit 
+dem 25. Mai 2018 in allen Mitgliedstaaten unmittelbar geltenden europ&#228;ischen 
+Datenschutz-Grundverordnung (DSGVO), wie etwa dem Grundsatz der
+Datenminimierung (Artikel 5 Absatz 1 Buchstabe c DSGVO) und das Recht auf
+L&#246;schung bzw. Recht auf Vergessenwerden (Artikel 5 und 17 DSGVO), falls
+personenbezogene Daten in der Blockchain gespeichert werden. Diese derzeitigen 
+rechtlichen Rahmenbedingungen werden grunds&#228;tzlich auch im Rahmen von
+Artikel 25 DSGVO (privacy by design) zu ber&#252;cksichtigen sein. Die
+Bundesregierung geht davon aus, dass den Anbietern und Entwicklern von innovativen
+digitalen Technologien diese und weitere Bestimmungen der DSGVO bekannt sind 
+und bei der Entwicklung von Anwendungen hinreichend Ber&#252;cksichtigung
+finden. Im Rahmen der Arbeiten an der Blockchain-Strategie werden diese
+Fragestellungen mit dem Ziel ber&#252;cksichtigt, den Entwicklern und Anwendern
+m&#246;glichst klare Handlungsempfehlungen geben zu k&#246;nnen. 
+20. Mit welchen weiteren Ma&#223;nahmen wird die Bundesregierung die
+angek&#252;ndigte Schaffung rechtssicherer digitaler Identit&#228;ten konkret vorantreiben?  
+Die sinnvolle Verwendbarkeit von Blockchain- und Distributed-Ledger-
+Technologien im Kontext sicherer digitaler Identit&#228;ten ist ein umfangreicher
+Themenkomplex. Die Bundesregierung beobachtet die aktuellen Entwicklungen mit
+Interesse und steht mit Akteuren im Austausch. Dabei sind technische und rechtliche 
+Fragen offen, wie beispielsweise die Ber&#252;cksichtigung von DSGVO und
+Verordnung (EU) Nr. 910/2014 (eIDAS-VO). Bei dezentralen bzw. betreiberlosen 
+Blockchains kann nach derzeitiger Rechtslage (z. B. in Artikel 24 Absatz 2
+Buchstabe c der eIDAS-Verordnung gefordert) keine Haftung durch eine definierte 
+Stelle sichergestellt werden. Die Bundesregierung wird durch Austausch mit 
+Blockchain-Entwicklern und -Anwendern, &#252;ber Pilotprojekte im eigenen
+Zust&#228;ndigkeitsbereich und &#252;ber den Austausch auf europ&#228;ischer und internationaler 
+Ebene, an der Entwicklung digitaler Identit&#228;ten mitwirken. 
+21. Welchen Beitrag k&#246;nnen und sollen nach Ansicht der Bundesregierung 
+Blockchain- und Distributed-Ledger-Technologien zum
+Entwicklungsprinzip &#8222;Security by Design&#8220; leisten, und ist von Seiten der Bundesregierung 
+geplant, auch f&#252;r diese Technologien &#8222;G&#252;tesiegel&#8220; oder verpflichtende
+rechtliche IT-Sicherheitsstandards zu entwickeln? 
+Welchen Beitrag die Blockchain- und Distributed-Ledger-Technologien leisten 
+k&#246;nnen, kann derzeit noch nicht abschlie&#223;end bewertet werden. Das Bundesamt 
+f&#252;r Sicherheit in der Informationstechnik (BSI) untersucht, inwieweit
+Securityby-Design-Anforderungen f&#252;r Blockchain-Anwendungen selbst in Betracht
+kommen, und wird versuchen, hier Empfehlungen auszusprechen. Dazu bezieht das 
+BSI auch aktuelle Marktuntersuchungen bereits verf&#252;gbarer Blockchain-
+L&#246;sungen mit ein. Die abschlie&#223;enden Ergebnisse hierzu stehen allerdings noch aus. 
+Verpflichtende rechtliche IT-Sicherheitsstandards hierzu zu entwickeln, steht 
+derzeit neben den zuvor genannten BSI-Untersuchungen nicht im Fokus. F&#252;r die 
+Betrachtung der Anwendungsm&#246;glichkeiten des IT-Sicherheitskennzeichens
+bez&#252;glich Blockchain-Technologien/-Anwendungen sind die &#220;berlegungen noch 
+nicht so weit fortgeschritten. Es ist jedoch vorstellbar, dies auch daf&#252;r in Betracht 
+zu ziehen.
+22. Wann soll der derzeit vom Bundesamt f&#252;r Sicherheit in der
+Informationstechnik (BSI) erarbeitete Leitfaden zum Thema Blockchain ver&#246;ffentlicht 
+werden, und wird dieser bereits konkrete Vorschl&#228;ge im Sinne der
+vorausgegangenen Frage enthalten? 
+Nach derzeitigen Planungen wird das BSI den angek&#252;ndigten Blockchain-
+Leitfaden zum 16. Deutschen IT-Sicherheitskongress vom 21. bis 23. Mai 2019
+vorstellen. Ob dieser die Empfehlungen zu Security-by-Design-Anforderungen
+gem&#228;&#223; der zuvor genannten Untersuchungen bereits auch enthalten wird, kann
+derzeit nicht beantwortet werden. Zus&#228;tzlich wird auf den Artikel des BSI zum 
+Thema in der &lt;kes&gt;-Ausgabe 3/2018 verwiesen, abrufbar unter www.bsi.bund. 
+de/SharedDocs/Downloads/DE/BSI/Publikationen/KES/kes_18-03.html. 
+23. Inwieweit setzt sich die Bundesregierung mit welchen konkreten Schritten 
+und in welchen Gremien international f&#252;r die Festschreibung von offenen 
+Standards ein, die eine leicht zug&#228;ngliche, weiterentwickelbare und
+einsetzbare Nutzung von Blockchain-Technologien und damit Innovationen
+erm&#246;glicht? 
+24. Welche aktuellen Entwicklungen gibt es nach Kenntnis der Bundesregierung 
+momentan im Bereich der Standardisierung, insbesondere in den
+Teilgebieten Anwendungen in der Industrie 4.0, sichere Identit&#228;ten, Smart Contracts 
+und Interoperabilit&#228;t, und welche Schritte h&#228;lt die Bundesregierung in
+diesem Zusammenhang f&#252;r notwendig und w&#252;nschenswert? 
+25. Wie begleitet die Bundesregierung den ISO-Standardisierungsprozess (ISO = 
+Internationale Organisation f&#252;r Normung) und wer begleitet f&#252;r Deutschland 
+den Prozess? 
+Die Fragen 23 bis 25 werden gemeinsam beantwortet. 
+Die Bundesregierung sieht sich in einer gesamtstaatlichen Verantwortung daf&#252;r, 
+den Ordnungsrahmen f&#252;r die Wirtschaft zu setzen und damit auch daf&#252;r, sich f&#252;r 
+Standards und Normsetzung durch die nationalen Normungsorganisationen auf 
+nationaler, europ&#228;ischer und internationaler Ebene einzusetzen. Die konkrete
+Arbeit in den Standardisierungsgremien ist in erster Linie die Aufgabe der
+Expertinnen und Experten aus Wissenschaft, Industrie und Banken.  
+Bei der internationalen Normungsorganisation ISO wurde zum Thema
+Blockchain im April 2017 ein neues Technisches Komitee (TC) f&#252;r &#8222;Blockchain and 
+distributed ledger technologies&#8220; gegr&#252;ndet. Unter dem ISO/TC 307 sind
+verschiedene Arbeitsgremien eingerichtet, darunter auch eines zu &#8222;Smart Contracts&#8220;, das 
+von der nationalen Normungsorganisation DIN gef&#252;hrt wird. In Deutschland
+verantwortet das Thema bei DIN der Arbeitsausschuss &#8222;Blockchain und
+Technologien f&#252;r verteilte Journale&#8220; (NA 043-02-04 AA) im Normenausschuss
+&#8222;Informationstechnik und Anwendungen&#8220; (NIA). Er ist unter anderem f&#252;r die
+Konsolidierung der Meinungen deutscher Experten sowie deren Vertretung in den
+internationalen Gremien zust&#228;ndig und so die internationale Normungsarbeit wesentlich 
+aus deutscher Sicht zu pr&#228;gen. Die Bundesregierung ist mit Vertretern der BaFin, 
+der Deutschen Bundesbank, des Bundesministeriums f&#252;r Verkehr und digitale 
+Infrastruktur und des Bundesministeriums des Innern, f&#252;r Bau und Heimat (BMI) 
+an den Arbeiten der DIN/ISO beteiligt.  
+Die Einrichtung der Plattform Industrie 4.0 hat Deutschland im internationalen 
+Ma&#223;stab in eine f&#252;hrende strategische Position gebracht. DIN SPEC 91345
+Referenzarchitekturmodell Industrie 4.0 (RAMI4.0) konnte bereits zu einem fr&#252;hen 
+Zeitpunkt als internationales Standardisierungsprojekt eingebracht werden. Mit
+der Einrichtung des Standardization Councils wurde auch die notwendige
+Organisationseinheit etabliert, die f&#252;r die Programmierung und Ausarbeitung
+notwendiger Normen und Standards Sorge tragen soll. Die Normungsroadmap Industrie 
+4.0 gibt eine Orientierung &#252;ber die bevorstehenden Aufgaben in der
+Standardisierung.  
+Die Normung und Standardisierung von Basistechnologien f&#252;r Industrie 4.0 (z. B. 
+Sichere Digitale Identit&#228;ten; Cyber Security) wird von DIN auch auf europ&#228;ischer 
+und internationaler Ebene begleitet. Gemeinsame Komitees auf internationaler 
+(ISO/IEC, JTC 1/SC 27) und europ&#228;ischer Ebene (CEN/CENELEC JTC 13
+Cybersecurity and Data Protection) haben inzwischen zahlreiche strategisch
+wichtige Projekte in Gang gesetzt. DIN hat hierf&#252;r im relevanten Normenausschuss 
+&#8222;Informationstechnologie und Anwendungen&#8220; einen neuen Fachbereich etabliert. 
+JTC 13 befasst sich mit der Entwicklung von Standards f&#252;r Datenschutz,
+Informationsschutz, Sicherheitstechnologien mit besonderem Fokus auf
+Cybersicherheit, die alle Aspekte der sich entwickelnden Informationsgesellschaft betreffen. 
+Bestehende oder in der Entwicklung befindliche Standards sollen identifiziert und 
+in das europ&#228;ische Normenwerk &#252;bernommen und gem&#228;&#223; europ&#228;ischer
+Verordnungen adaptiert werden, um die Entwicklung des europ&#228;ischen Digitalen
+Binnenmarkts zu unterst&#252;tzen.  
+Zudem hat DIN im Auftrag des BMWi eine Sachverhalts- und Situationsanalyse 
+zu &#8222;Sichere Digitale Identit&#228;ten&#8220; (SDI) inklusive der Ermittlung des
+Handlungsbedarfs und Umsetzungsempfehlungen zur Definition und Etablierung von SDI 
+als Vertrauensanker in der digitalisierten Welt durchgef&#252;hrt und einen Bericht 
+vorgelegt. 
+26. Welche Schlussfolgerungen hat die Bundesregierung in diesem
+Zusammenhang aus der vom Bundeswirtschaftsministerium in Auftrag gegebene Studie 
+zum IS&#198;N-Konzept (IS&#198;N = Individual Personal Data Auditable Address 
+Number) gezogen, deren Ergebnisse im M&#228;rz 2017 ver&#246;ffentlicht wurden, 
+und welche konkreten Schritte sind bisher auf Grundlage dieser Studie in die 
+Wege geleitet worden?  
+Die Bundesregierung begr&#252;&#223;t, dass durch die Studie das IS&#198;N-Konzept weite 
+Aufmerksamkeit bekommen hat und Impulse setzen konnte. Die Entwickler des 
+Konzeptes stehen in engem Kontakt und Austausch unter anderem mit dem 
+Blockchain Bundesverband und dort angeschlossenen Unternehmen, welche
+&#228;hnliche Konzepte und Implementierungen verfolgen. Die Bundesregierung
+erwartet, dass sich hieraus bald konkrete Anwendungen ergeben. 
+27. Denkt die Bundesregierung dar&#252;ber nach, f&#252;r Betreibende &#246;ffentlicher 
+Blockchain- oder Distributed-Ledger-Technologieanwendungen eine Art 
+haftungsfreistellendes &#8222;Provider-Privileg&#8220; einzuf&#252;hren, und welche
+generellen Haftungsfragen stellen sich aus Sicht der Bundesregierung mit Blick auf 
+diese Technologien?  
+Der Bundesregierung sind bislang keine Anhaltspunkte bekannt, die ein
+sogenanntes haftungsfreistellendes Provider-Privileg f&#252;r Betreiber &#246;ffentlicher
+Blockchain- oder Distributed-Ledger-Technologieanwendungen erfordern.
+Dementsprechend befasst sich die Bundesregierung derzeit nicht mit der Einf&#252;hrung
+eines solchen Privilegs. Im &#220;brigen lassen sich Haftungsfragen mit Blick auf die 
+Blockchain- oder Distributed-Ledger-Technologien nicht pauschal beantworten. 
+Sie erfordern eine Einzelfallpr&#252;fung und h&#228;ngen insbesondere davon ab, wof&#252;r 
+die Technologie eingesetzt wird und wie sie im konkreten Fall ausgestaltet ist.
+28. Welche Potenziale sieht die Bundesregierung in der Nutzung von
+Blockchain- und Distributed-Ledger-Technologien f&#252;r die nachhaltige Gestaltung 
+der Digitalisierung?  
+Welcher Anteil der gro&#223;en Bandbreite an unterschiedlichen Blockchain- und 
+Distributed-Ledger-Technologiesystemen nutzt nach Kenntnis der
+Bundesregierung besonders energieintensive Proof-of-Work-Verfahren, und
+welchen Beitrag leistet die Bundesregierung dazu, dass dem hohen
+Energieverbrauch der beschriebenen Mechanismen entgegengewirkt werden kann,
+beispielsweise durch Untersuchungen, F&#246;rderung von alternativen
+Vertrauenssystemen oder anderen Ma&#223;nahmen (vgl. Antwort der Bundesregierung zu 
+Frage 30 der Kleinen Anfrage der Fraktion der FDP auf
+Bundestagsdrucksache 19/3817)?  
+Bei Blockchain- und Distributed-Ledger-Technologien handelt es sich um
+vergleichsweise junge Technologien, so dass deren Potential insgesamt und das
+spezifische Potential f&#252;r die nachhaltige Gestaltung der Digitalisierung nicht
+abschlie&#223;end bewertet werden kann.  
+Die Bundesregierung f&#252;hrt keine Erhebungen dazu durch, welche Blockchain- 
+und Distributed-Ledger-Technologiesysteme welche Konsensmechanismen
+nutzen. Nach Informationen der Bundesregierung kommt das energieintensive 
+Proof-of-Work-Verfahren haupts&#228;chlich in &#246;ffentlichen Blockchains zum
+Einsatz, wobei jedoch zunehmend Alternativen zum Einsatz kommen.  
+Die Reduzierung des Energieverbrauchs von Blockchain- und Distributed-
+Ledger-Technologien ist Gegenstand der Forschung. Im Rahmen der
+F&#246;rderprogramme der Bundesregierung, wie den in Frage sieben genannten FuE-Projekten, 
+wird untersucht, inwieweit andere Konsensmechanismen, wie beispielsweise 
+Proof-of-Stake, in konkreten Anwendungen geeignet sind. 
+Zu Anwendungsfeldern und Potenzialen 
+29. Welche wirtschaftlichen Anwendungsfelder und Einsatzbereiche von
+Blockchain- und Distributed-Ledger-Technologien h&#228;lt die Bundesregierung f&#252;r 
+besonders vielversprechend und aus welchen Gr&#252;nden?  
+Welche Ergebnisse haben dahingehend die bisher zu Blockchain- und
+Distributed-Ledger-Technologien ausgerichteten Experten-Workshops des 
+Bundesministeriums f&#252;r Wirtschaft und Energie sowie der Schwerpunkt 
+Blockchain innerhalb der Initiative Intelligente Vernetzung erbracht?  
+Wer hat daran teilgenommen (bitte auflisten)?  
+Zur ersten Teilfrage (Anwendungsfelder) wird auf die Antwort der
+Bundesregierung zu Frage 17 der Kleinen Anfrage der Fraktion der FDP betreffend
+Distributed Ledger Technologie &#8211; Nutzung der Blockchain-Technologie f&#252;r die
+Vereinfachung von Verwaltungsakten auf Bundestagsdrucksache 19/3817 verwiesen. 
+In den Experten-Workshops des BMWi wurde eine Reihe von Bereichen
+identifiziert, in denen sich die &#8222;Blockchain-Community&#8220; ein st&#228;rkeres Engagement der 
+Wirtschaftspolitik w&#252;nscht. Dies betrifft unter anderem das Setzen einiger
+grunds&#228;tzlicher Standards, zum Beispiel mit Blick auf Sicherheitsanforderungen, die 
+Definition von Formvorschriften oder um die Interoperabilit&#228;t von Blockchains 
+zu verbessern. Um Blockchains f&#252;r rechtssichere digitale Identit&#228;ten verwenden 
+zu k&#246;nnen, bed&#252;rfe es ebenfalls der politischen Unterst&#252;tzung f&#252;r den
+notwendigen Ordnungsrahmen. Zudem sollte die Verwaltung mit gutem Beispiel
+vorangehen und den Einsatz von Blockchains in ihrem Einflussbereich umsetzen.
+Die Initiative Intelligente Vernetzung des BMWi hat vom 12. M&#228;rz bis zum 
+13. Mai 2018 einen Schwerpunkt auf das Thema Blockchain gelegt, insbesondere 
+in den Anwendungssektoren Bildung, Energie, Gesundheit, Verwaltung und
+Verkehr. Im Rahmen eines Wettbewerbes zum Schwerpunktthema wurden auf der 
+Open-Innovation-Plattform der Initiative insgesamt 76 Beitr&#228;ge eingereicht. Dies 
+unterstreicht, dass dieser Themenbereich derzeit stark im Fokus steht.  
+Die Ver&#246;ffentlichung von Teilnehmerlisten zu Veranstaltungen der
+Bundesregierung erfolgt im Rahmen einer Einzelfallentscheidung.  
+Im vorliegenden Fall ist die Bundesregierung bei der Abw&#228;gung zwischen
+Informationsinteresse des Parlaments und dem allgemeinen Pers&#246;nlichkeitsrecht der 
+Teilnehmerinnen und Teilnehmer zu dem Ergebnis gelangt, dass letzteres
+&#252;berwiegt und eine namentliche Nennung folglich nicht m&#246;glich ist. 
+30. Wie viele Unternehmen setzen nach Kenntnis der Bundesregierung bereits 
+Blockchain- und Distributed-Ledger-Technologien in unternehmensinternen 
+Prozessen ein, wie viele Unternehmen planen einen solchen Einsatz
+zuk&#252;nftig, welche unternehmensinternen Anwendungsfelder kommen in diesem 
+Zusammenhang besonders in Frage, und f&#252;r welche spezifische Distributed-
+Ledger-Technologieinfrastruktur entscheiden sich nach Kenntnis der
+Bundesregierung die meisten Unternehmen?  
+Die Bundesregierung f&#252;hrt hierzu keine Erhebungen durch. Insofern lassen sich 
+die aus Gespr&#228;chen mit einzelnen Unternehmen gewonnenen Erkenntnisse nicht 
+zu einem Gesamtbild verallgemeinern. Nach erstem Eindruck scheint es bei
+unternehmensinternen Anwendungen zumindest die Gemeinsamkeit zu geben, dass 
+nahezu ausschlie&#223;lich private bzw. genehmigungspflichtige Blockchain-Typen 
+verwendet werden, weil sich damit Haftungs-, Datenschutz- und technischen
+Fragen einfacher beantworten lassen als mit genehmigungsfreien Blockchains. 
+31. Welche Potenziale ergeben sich nach Ansicht der Bundesregierung durch 
+Blockchain- und Distributed-Ledger-Technologien f&#252;r den Bereich
+Industrie 4.0 und digitale Fabriken, und welche M&#246;glichkeiten sieht die
+Bundesregierung, auch den Beispielen anderer Staaten folgend, die angek&#252;ndigte 
+Blockchain-Strategie sowie Technologiepolitik allgemein st&#228;rker mit
+politischen Ma&#223;nahmen im Bereich Industrie 4.0 zu verzahnen?  
+F&#252;r den Bereich Industrie 4.0 haben Blockchain- und Distributed-Ledger-
+Technologien nach Ansicht der Bundesregierung grunds&#228;tzlich das Potenzial,
+bestehende Produktionsabl&#228;ufe und etablierte Gesch&#228;ftsbeziehungen in der Industrie 
+deutlich zu ver&#228;ndern. Sie k&#246;nnen die Basis f&#252;r eine dezentral organisierte Fabrik 
+oder einen dezentralen Gesch&#228;ftsprozess bilden. Die Potenziale der Blockchain- 
+und Distributed-Ledger-Technologien k&#246;nnen bei Industrie 4.0 daher
+insbesondere in unternehmens- und branchen&#252;bergreifenden Wertsch&#246;pfungsnetzwerken 
+zum Tragen kommen.  
+M&#246;gliche Anwendungsf&#228;lle sind erstens das sog. Smart Tracking. Dadurch kann 
+die Identit&#228;t von Gegenst&#228;nden in jeder Transport- und After-Sales-Phase
+eindeutig best&#228;tigt werden. Zugleich erm&#246;glicht die Blockchain eine umfassende
+R&#252;ckverfolgung und revisionssichere Dokumentation des Produktionsablaufs.
+Zweitens k&#246;nnen Blockchain- und Distributed-Ledger-Technologien im Bereich
+Industrie 4.0 bei automatisierten Daten- und Zahlungsfl&#252;ssen zwischen
+Unternehmen eingesetzt werden (&#8222;Smart Contracts&#8220;). Drittens k&#246;nnen Blockchain- und
+Distributed-Ledger-Technologien einen Beitrag zur IT-Sicherheit leisten. Sie
+erm&#246;glichen einen manipulationssicheren Datenaustausch zwischen Ger&#228;ten im
+Internet der Dinge und eine eindeutige Benutzerauthentifizierung.  
+Schlie&#223;lich k&#246;nnen Blockchain- und Distributed-Ledger-Technologien neue
+Gesch&#228;ftsmodelle erm&#246;glichen bzw. deutlich vereinfachen. Eine abschlie&#223;ende
+Betrachtung kann derzeit nicht erfolgen, da sich bei weiterer Etablierung der
+Blockchain- und Distributed-Ledger-Technologien sicherlich weitere Potentiale
+ergeben werden.  
+Die Blockchain-Strategie wird Ma&#223;nahmen und F&#246;rderaktivit&#228;ten der
+Bundesregierung im Bereich Industrie 4.0 ber&#252;cksichtigen und die &#220;berlegungen im
+Bereich Blockchain der Plattform Industrie 4.0 ber&#252;cksichtigen. 
+32. Welche Potenziale sieht die Bundesregierung bez&#252;glich des verst&#228;rkten
+Einsatzes von Blockchain- und Distributed-Ledger-Technologien in der
+&#246;ffentlichen Verwaltung, gerade hinsichtlich einer erh&#246;hten Transparenz und
+Nachvollziehbarkeit von Verwaltungshandeln und politischer
+Entscheidungsprozesse? 
+Die Bundesregierung teilt grunds&#228;tzlich die Auffassung, dass sich Blockchain- 
+und Distributed-Ledger-Technologien als innovative Technologien etablieren 
+k&#246;nnen. Sie befindet sich im Dialog mit Entwicklern, Wissenschaft, Verb&#228;nden 
+und Pilotanwendern, auch um potenzielle Anwendungen und Einsatzgebiete im 
+eigenen Verantwortungsbereich zu identifizieren. Staatliche Anwendungen auf 
+Basis von Blockchain- und Distributed-Ledger-Technologien m&#252;ssten besonders 
+umsichtig und mit einem speziellen Konsensmechanismus modelliert werden. 
+Die Anforderungen an ein rechtsstaatliches Verfahren und hoheitliche
+Aufgabenerf&#252;llung sind notwendigerweise sehr hoch.  
+Bei den bisher n&#228;her betrachteten m&#246;glichen Anwendungsfeldern konnte in der 
+Regel noch nicht ausreichend gekl&#228;rt werden, wie Nachvollziehbarkeit,
+verwaltungsinterne und externe Kontrolle und (ggf. r&#252;ckwirkende) Korrektur bzw.
+Berichtigung, Steuerbarkeit durch die Verwaltung, parlamentarische Kontrolle der 
+Exekutive sowie effizienter Rechtsschutz in den unterschiedlichen Blockchain- 
+und Distributed-Ledger-Modellen gew&#228;hrleistet werden k&#246;nnen, wenn der
+Einsatz der erforderlichen Algorithmen, Protokolle au&#223;erhalb staatlicher Verwaltung 
+und prinzipiell auch von au&#223;erhalb des Hoheitsgebiets erfolgt.  
+Im &#220;brigen wird auf die Antwort zu den Fragen 4 sowie 13 bis 16 (erster Absatz) 
+der Kleinen Anfrage der Fraktion der FDP betreffend Distributed Ledger
+Technologie &#8211; Nutzung der Blockchain-Technologie f&#252;r die Vereinfachung von
+Verwaltungsakten auf Bundestagsdrucksache 19/3817 verwiesen. 
+33. Welche konkreten Anwendungsf&#228;lle f&#252;r den Einsatz von Blockchain- und 
+Distributed-Ledger-Technologien in der Verwaltung werden und sollen
+erprobt werden (bitte nach Organisationen und Einsatzgebieten auflisten)? 
+Im BMI und seinem Gesch&#228;ftsbereich gibt es insbesondere folgende
+Anwendungsf&#228;lle: F&#252;r den Portalverbund ist die Nutzung eines Distributed-Ledger
+vorgesehen. &#220;ber das Distributed-Ledger sollen alle Teilnehmer des Portalverbunds 
+die aktuellen Informationen zu Leistungen und Onlinediensten erhalten, ohne 
+hierf&#252;r auf zentrale Systeme zugreifen zu m&#252;ssen. Hierdurch werden eine hohe 
+Flexibilit&#228;t, Ausfallsicherheit und schnelle Zugriffszeiten erreicht. Das geplante 
+Distributed-Ledger beruht auf einer Weiterentwicklung der Blockchain-
+Technologie, die Hash-Ketten verwendet und auf die Bed&#252;rfnisse der &#246;ffentlichen
+Verwaltung hin optimiert ist. Mit dem f&#252;r den Portalverbund vorgesehenen
+Distributed-Ledger wird ein erster Anwendungsfall f&#252;r die umfangreiche Nutzung
+modernster Technologie im Bund-L&#228;nderkontext angestrebt.  
+&#220;berdies wird im BAMF ein Pilotprojekt durchgef&#252;hrt zur digitalen
+Unterst&#252;tzung der beh&#246;rden&#252;bergreifenden Kommunikation am Beispiel des
+Asylverfahrens in der AnkER-Einrichtung Dresden. 
+34. Welche Bedeutung misst die Bundesregierung Blockchain- und Distributed-
+Ledger-Technologien als m&#246;gliche zuk&#252;nftige Infrastruktur des &#8222;Internet of 
+Things&#8220; bei, und in welchen Bereichen oder Projekten werden diese nach 
+Kenntnis der Bundesregierung bereits erfolgreich eingesetzt?  
+Zur Identifizierung und Verwaltung von Ger&#228;ten im Internet of Things (IoT)
+besteht noch Forschungsbedarf. Blockchain- und Distributed-Ledger-Technologien 
+k&#246;nnen hier einen wichtigen Mehrwert liefern. Nach Kenntnis der
+Bundesregierung entwickeln derzeit mehrere Teams Blockchain- oder Distributed-Ledger-
+L&#246;sungen f&#252;r IoT-Ger&#228;te, darunter auch deutsche Firmen, wie beispielsweise die 
+Slock.it GmbH oder die Bundesdruckerei (Projekt FIDES). Zudem hat das BMWi 
+ein Verbundprojekt gef&#246;rdert, das den Blockchain-basierten Austausch und die 
+Lizensierung von 3D-Druckdaten in der Industrie 4.0 zum Gegenstand hat 
+(&#8222;Secure-Additive-Manufacturing-Platform&#8220; &#8211; SAMPL). In diesem Projekt wird 
+eine Sicherheitsl&#246;sung f&#252;r die Datenverarbeitung in 3D-Druckverfahren
+entwickelt. Das Verfahren deckt den gesamten Prozess von der Erzeugung der
+Druckdaten &#252;ber den Austausch, die Lizenzierung der Druckvorg&#228;nge und den
+tats&#228;chlichen Druck ab. Damit wird verhindert, dass ein Objekt lizenzwidrig mehrfach 
+gedruckt werden kann. Zus&#228;tzlich werden die gedruckten Bauteile
+gekennzeichnet, um sie jederzeit r&#252;ckverfolgen zu k&#246;nnen. Der Datenaustausch findet mit 
+Hilfe einer Datenaustauschsoftware statt, wobei alle relevanten
+Zusatzinformationen unter Einsatz von Blockchain-Technologie gespeichert werden. 
+35. Welche Erkenntnisse erhofft sich die Bundesregierung aus dem
+Forschungsvorhaben SOFiA zur Anwendung von Distributed-Ledger-Technologien in 
+der Logistik (SOFiA = Smart Objects und Smart Finance Ans&#228;tze), und
+inwiefern spielen diese eine Rolle beim im Koalitionsvertrag zwischen CDU, 
+CSU und SPD angek&#252;ndigten Vorhaben, digitale Technologien und den
+automatisierten Betrieb in der Schifffahrt, den H&#228;fen und der maritimen
+Lieferkette vorantreiben?  
+Im Verbundprojekt SOFiA (&#8222;Prozessinnovationen in Planung und Steuerung von 
+Wertsch&#246;pfungsnetzwerken durch Integration von Smart Objects und Smart
+Finance Ans&#228;tzen&#8220;) wird seit Ende 2015 gepr&#252;ft, ob sich durch Distributed-Ledger-
+Technologie neue M&#246;glichkeiten f&#252;r Effizienzsteigerungspotenziale in der
+maritimen Wirtschaft ergeben k&#246;nnen. Prozessinnovationen in Planung und Steuerung 
+sollen von Wertsch&#246;pfungsnetzen durch die Integration intelligenter Objekte in 
+die Logistik- Prozesse erm&#246;glicht werden, um den gewachsenen
+Kundenanforderungen aus Komplexit&#228;t, Flexibilit&#228;t und Adaptivit&#228;t zu begegnen. Aufwendige 
+Planungs- und Steuerungsprozesse sollen standardisiert, digitalisiert und auf die 
+dezentralen Steuerungsebenen verlagert werden.  
+Unter anderem sollen intelligente Logistikobjekte, wie z. B. ein
+Seefrachtcontainer, mit der lokalen B&#246;rse f&#252;r Logistikdienstleistungen an einem Hafen
+miteinander in Kontakt treten k&#246;nnen, und mittels &#8222;mobile Payment&#8220; soll die Bezahlung
+bei der Abholung durch den Container selbst erfolgen. Begleitende
+buchhalterische Prozesse sollen vereinfacht werden oder m&#246;glicherweise ganz entfallen
+k&#246;nnen. Das Projekt soll planm&#228;&#223;ig im April 2019 beendet werden. Deshalb ist eine 
+abschlie&#223;ende Beurteilung derzeit nicht m&#246;glich. Die erreichten Forschungs- und 
+Entwicklungsergebnisse werden bei dem im Koalitionsvertrag angek&#252;ndigten 
+Vorhaben einflie&#223;en. 
+36. Welchen Beitrag k&#246;nnen nach Ansicht der Bundesregierung Distributed-
+Ledger-Technologien zu Lieferkettentransparenz und Produktsicherheit
+leisten, und plant die Bundesregierung in diesem Zusammenhang Pilotprojekte 
+zur Nachverfolgung sensibler Produkte oder zur Herstellung von
+Lieferkettentransparenz beispielsweise im Rahmen eines neu einzuf&#252;hrenden
+G&#252;tesiegels?  
+Wenn ja, welche Projekte sind genau geplant, und in welchen Bereichen, und 
+wenn nein, warum nicht?  
+37. Welche Produkte oder Lieferketten w&#252;rden sich nach Ansicht der
+Bundesregierung in diesem Zusammenhang besonders f&#252;r m&#246;gliche Pilotprojekte
+eignen, und welche Projekte anderer Staaten sind der Bundesregierung hierzu 
+bekannt?  
+38. Mit welchen Entwicklern und Pilotanwendern war die Bundesregierung
+bisher im Gespr&#228;ch, um potenzielle Anwendungen und Einsatzgebiete im
+eigenen Verantwortungsbereich zu identifizieren, mit welchen Anbietern ist die 
+Bundesregierung bisher in Kontakt getreten im Zuge der &#220;berlegungen, 
+DLT-as-a-Service-Angebote zu nutzen (vgl. Antwort der Bundesregierung 
+zu den Fragen 4 und 8 der Kleinen Anfrage der Fraktion der FDP auf
+Bundestagsdrucksache 19/3817), und &#252;ber welche konkreten
+Anwendungsbereiche ist in diesem Zusammenhang gesprochen worden? 
+Die Fragen 36 bis 38 werden gemeinsam beantwortet.  
+Prinzipiell haben Blockchain- und Distributed-Ledger-Technologien gro&#223;es
+Potential um Lieferkettentransparenz sicher und schnell herzustellen. Es werden 
+verschiedene Pilotprojekte geplant (siehe auch Antwort zu Frage 35): 
+Im nachgelagerten Gesch&#228;ftsbereich des Bundesministerium f&#252;r Ern&#228;hrung und 
+Landwirtschaft werden derzeit Projekte zu Blockchain- und Distributed-Ledger-
+Technologien konzeptioniert, deren Gesamtvolumen noch nicht endg&#252;ltig
+feststeht. 
+Das Bundesministerium f&#252;r Gesundheit (BMG) f&#252;hrte bereits mit verschiedenen 
+Interessensvertretern Gespr&#228;che zur Blockchain-Technologie. Beispielsweise 
+wurden im Rahmen eines Expertenworkshops im Mai 2018 Vertreter aus dem 
+BSI, dem Deutsches Institut f&#252;r Medizinische Dokumentation und Information, 
+aus der Industrie, der Forschung und von Industrieverb&#228;nden bez&#252;glich der
+M&#246;glichkeiten der Blockchain im Gesundheitswesen befragt. Welche Potentiale die 
+Blockchain-Technologie im Gesundheitssystem bieten kann, ist zudem
+Gegenstand eines vom BMG initiierten Ideenwettbewerbs. In diesem im Oktober 2018 
+ver&#246;ffentlichten Wettbewerb m&#246;chte das BMG zun&#228;chst sondieren, ob es
+Anwendungen im Gesundheitssystem gibt, f&#252;r die die Blockchain-Technologie
+nutzbringend sein kann. Die Entwicklung und pilothafte Erprobung von Anwendungen ist 
+nicht Gegenstand des Ideenwettbewerbs. 
+Das Bundesministerium f&#252;r wirtschaftliche Zusammenarbeit und Entwicklung 
+steht im Austausch insbesondere mit der KfW und der Gesellschaft f&#252;r
+Internationale Zusammenarbeit GmbH (GIZ). Eine Pilotierung der von der KfW
+entwickelten Software &#8222;TruBudget&#8220;, die Blockchain-Technologie nutzt, zur erh&#246;hten
+Transparenz der Mittelverwendung in Partnerl&#228;ndern der deutschen
+Entwicklungszusammenarbeit steht noch aus. 
+Aus Sicht der IT-gest&#252;tzten Zollabfertigung ist Lieferkettentransparenz u. a. f&#252;r 
+eine Risikoanalyse interessant und wird auch derzeit schon zunehmend angestrebt 
+und einbezogen. Das Zollrecht ist praktisch vollst&#228;ndig europ&#228;isch geregelt,
+einschlie&#223;lich der Datenkr&#228;nze, die im Rahmen des Nachrichtenaustausches
+zwischen Wirtschaftsbeteiligten und Zollverwaltung zu &#252;bermitteln sind. Nationale 
+Spielr&#228;ume f&#252;r Bestimmungen zu weiteren Daten bzw. Datenformaten bestehen 
+im Rahmen der IT-gest&#252;tzten Zollabfertigung nur eingeschr&#228;nkt. Dennoch
+besteht ein fachlicher Austausch mit der Wirtschaft zur Einbeziehung von
+Distributed-Ledger-Technologien in den Informationsaustausch im Rahmen der
+Zollabfertigung und auch die Bereitschaft, sich an Pilotprojekten zu beteiligen.  
+Grunds&#228;tzlich werden keine Produktgruppen oder spezifischen Lieferketten bei 
+der Zollabfertigung besonders hervorgehoben. Als Projekt anderer Staaten im
+Zusammenhang im Distributed-Ledger-Technologien und mit
+Lieferkettentransparenz und Produkt&#252;berwachung ist ein Business Case der italienischen Zoll- und 
+Monopolverwaltung bekannt, der auf einem Blockchain-Seminar der
+Europ&#228;ische Kommission in Malta vom 29. bis 30. Mai 2018 vorgestellt wurde. Weitere 
+Anwendungsf&#228;lle anderer Staaten sind nicht bekannt. 
+Im Gesch&#228;ftsbereich des BMI ist insbesondere das BAMF im Austausch mit 
+Start-ups beispielsweise aus dem Bereich Distributed-Ledger-Technologie-
+basierter digitaler Identit&#228;ten.  
+Diese Start-ups nehmen teilweise auch an den Tagungen des vom BAMF
+mitinitiierten Innovationsnetzwerkes NExT (Netzwerk &#8211; Experten digitale
+Transformation der Verwaltung) teil. 
+Im Gesch&#228;ftsbereich des BMWi wird derzeit eine Ideenskizze diskutiert,
+derzufolge eine Blockchain-basierte Verkn&#252;pfung des bei der Bundesnetzagentur im 
+Aufbau befindlichen Marktstammdatenregisters mit dem Smart Meter Gateway 
+einen energiesystemdienlichen Beitrag leisten k&#246;nnte. Diese Gespr&#228;che befinden 
+sich aber noch ganz am Anfang, eine Bewertung des Konzepts steht noch aus. 
+Zu Kryptow&#228;hrungen und Finanzierungsm&#246;glichkeiten &#252;ber Token/Coins 
+39. Wie viele Initial Coin Offerings (ICOs) deutscher Unternehmen gab es nach 
+Kenntnis der Bundesregierung in den vergangenen zwei Jahren mit welchen 
+Emissionsvolumen, und wie bewertet die Bundesregierung den bisherigen 
+Erfolg und die weitere Entwicklung der Finanzierungsm&#246;glichkeiten von 
+Start-ups und Unternehmen &#252;ber die Herausgabe von Coins oder Token?  
+F&#252;r den deutschen Markt liegen der Bundesregierung keine Zahlen vor. F&#252;r den 
+internationalen Markt kommt eine j&#252;ngst ver&#246;ffentlichte Studie (Ernst &amp; Young, 
+Initial Coin Offering, The Class of 2017 &#8211; one year later vom 19. Oktober 2018) 
+zu dem Ergebnis, dass im Jahr 2017 &#252;ber ICOs 4,1 Mrd. US-Dollar eingesammelt 
+wurden und im ersten Halbjahr 2018 15,6 Mrd. US-Dollar. Von den 2017
+emittierten Token notieren 86 Prozent unter ihrer ersten Kursfeststellung; 30 Prozent 
+haben nahezu ihren vollst&#228;ndigen Wert verloren. Im Durchschnitt weisen ICOs 
+aus dem Jahr 2017 einen Verlust gegen&#252;ber den erreichten H&#246;chstkursen von 
+66 Prozent aus. Diese Ergebnisse deuten darauf hin, dass &#252;ber ICOs in
+erheblichen Umfang Gelder zur Projektfinanzierung eingeworben werden k&#246;nnen. 
+Gleichzeitig muss sich jedoch noch zeigen, inwieweit ICOs als nachhaltige
+Anlageform geeignet sind.
+40. Inwieweit schr&#228;nken nach Kenntnis der Bundesregierung unklare oder
+fehlende Regelungen Unternehmen bei der Nutzung von
+Finanzierungsm&#246;glichkeiten und der Umsetzung neuer Konzepte &#252;ber die Herausgabe von 
+Coins oder Token ein, und welche Schritte unternimmt die Bundesregierung, 
+um Unternehmen m&#246;glichst bei gleichbleibendem b&#252;rokratischen Aufwand 
+zu mehr Rechtssicherheit zu verhelfen?  
+41. Inwieweit sind nach Kenntnis der Bundesregierung Verbraucherinnen und 
+Verbraucher sowie Investorinnen und Investoren durch unklare oder
+fehlende Regelungen f&#252;r Unternehmen bei der Nutzung von
+Finanzierungsm&#246;glichkeiten und der Umsetzung neuer Konzepte &#252;ber die Herausgabe von 
+Coins oder Token betroffen, welche Schritte wird die Bundesregierung in 
+diesem Zusammenhang unternehmen, und welche weiteren Institutionen
+stehen nach Ansicht der Bundesregierung zudem in der Verantwortung, hier 
+Abhilfe zu schaffen? 
+Die Fragen 40 und 41 werden gemeinsam beantwortet.  
+Um Unternehmen zu mehr Rechtssicherheit zu verhelfen, hat die BaFin im
+Februar 2018 ein Hinweisschreiben zur Einordnung von ICOs als Finanzinstrumente 
+ver&#246;ffentlicht. Dar&#252;ber hinaus finden sich weitere umfangreiche Informationen 
+zur aufsichtsrechtlichen Einordnung von Kryptow&#228;hrungen und Token auf der 
+Internetseite der BaFin. Bei der ESMA gibt es derzeit eine Initiative zur
+Abstimmung eines gemeinsamen Verst&#228;ndnisses der nationalen Aufsichtsbeh&#246;rden in 
+der EU bez&#252;glich der Bewertung von Token nach europ&#228;ischem Recht.  
+Um Verbraucher vor den spezifischen Risiken einer Investition in ICOs zu
+warnen, hat die BaFin am 9. November 2017 eine entsprechende
+Verbraucherwarnung ver&#246;ffentlicht. Auch das BMF und die Deutsche Bundesbank haben bereits 
+&#246;ffentlich vor den Risiken gewarnt.  
+Ob weitere Schritte erforderlich sind, wird fortlaufend gepr&#252;ft. Aufgrund der 
+weltweiten Handelbarkeit von Crypto-Assets und des gemeinsamen europ&#228;ischen 
+Binnenmarktes sollten &#8211; wie im Finanzmarktbereich &#252;blich &#8211; weitergehende
+Regulierungsvorschl&#228;ge vor allem auf europ&#228;ischer Ebene entwickelt werden (siehe 
+Antwort zu Frage 14). 
+42. Welche konkreten Ergebnisse hat in Zusammenhang mit den
+vorhergehenden Fragen der vom Bundesfinanzministerium ausgerichtete Roundtable zu 
+ICOs erbracht, und wer hat an diesem Roundtable teilgenommen?  
+An dem Roundtable des BMF zu ICOs im M&#228;rz 2018 haben Experten aus
+Verb&#228;nden, Wirtschaft und Wissenschaft teilgenommen. Der Roundtable diente dem 
+allgemeinen Austausch &#252;ber das Thema. 
+43. Wie viele Mitarbeiterinnen und Mitarbeiter im Bundesministerium der
+Finanzen besch&#228;ftigen sich mit dem Thema Blockchain-basierter
+Kryptow&#228;hrungen und deren Regulierung? 
+Im BMF befassen sich schwerpunktm&#228;&#223;ig etwa 1,5 Vollzeit&#228;quivalente mit 
+Blockchain-basierten Kryptow&#228;hrungen und deren Regulierung. Weitere
+Mitarbeiterinnen und Mitarbeiter des BMF besch&#228;ftigen sich anlassbezogen mit dem 
+Thema bzw. mit ausgew&#228;hlten Aspekten.
+44. Wie viele Mitarbeiterinnen und Mitarbeiter in der Bundesanstalt f&#252;r
+Finanzdienstleistungsaufsicht (BaFin) besch&#228;ftigen sich mit dem Thema
+Blockchain-basierter Kryptow&#228;hrungen und deren Regulierung? 
+Die BaFin hat im Jahr 2017 ein eigenes Referat mit dem Fokus auf strategische 
+Fragen zu finanztechnologischen Innovationen gegr&#252;ndet. Hiervon entf&#228;llt eine 
+Stelle, gerechnet in Vollzeit&#228;quivalenten, auf die Behandlung von Blockchain 
+und ICOs. &#220;ber den engen technischen Rahmen und die konkrete Verkn&#252;pfung 
+von Blockchain und ICOs hinaus, gibt es aber auch weitere Bereiche in der BaFin, 
+die im Rahmen der fachaufsichtlichen Zust&#228;ndigkeiten Ber&#252;hrungspunkte mit 
+ICOs oder der Blockchain-Technologie haben. Hierbei ergeben sich in der
+Addition ungef&#228;hr weitere vier Vollzeit&#228;quivalente, die sich mit den Themen
+Blockchain bzw. ICOs besch&#228;ftigen. 
+45. Wie viele Mitarbeiterinnen und Mitarbeiter bei der Deutschen Bundesbank 
+besch&#228;ftigen sich nach Kenntnis der Bundesregierung mit dem Thema 
+Blockchain-basierter Kryptow&#228;hrung und deren Regulierung? 
+Bei der Deutschen Bundesbank besch&#228;ftigen sich derzeit 15 Mitarbeiterinnen und 
+Mitarbeiter in verschiedenen Gesch&#228;ftsbereichen u. a. mit dem Thema
+Blockchain-basierter Kryptow&#228;hrung und deren Regulierung. Dabei gilt es zu beachten, 
+dass nicht alle dieser Mitarbeiterinnen und Mitarbeiter sich ausschlie&#223;lich diesem 
+Thema widmen und deren Befassung mit diesem Thema auch anlassbezogen
+erfolgen kann. Ferner besch&#228;ftigen sich diese Mitarbeiterinnen und Mitarbeiter zum 
+Teil auch nur mit ausgew&#228;hlten Aspekten der Fragestellung bzw. betrachten die 
+Fragestellung aus unterschiedlichen Blickwinkeln. 
+46. Bis wann plant die Bundesregierung eine Kl&#228;rung s&#228;mtlicher
+steuerrechtlichen Fragen von ICOs, und wie ist der aktuelle Stand? 
+Die Sachverhalte im Zusammenhang mit ICOs sind vielf&#228;ltig. Da sich deren 
+Spektrum permanent erweitert und demzufolge durchgehend zus&#228;tzliche
+steuerliche Zweifelsfragen entstehen, kann die Bundesregierung keine Aussage treffen, 
+bis wann s&#228;mtliche steuerrechtliche Fragen von ICOs gekl&#228;rt sind. Wie bestimmte 
+Sachverhalte im Zusammenhang mit ICOs ertragsteuerlich zu beurteilen sind, 
+wird derzeit in einer Bund-L&#228;nder-Arbeitsgruppe er&#246;rtert. Wann die
+Er&#246;rterungen abgeschlossen sind, ist offen. 
+47. Plant die Bundesregierung Gespr&#228;che mit Staaten wie Estland, Malta,
+Slowenien und anderen Staaten, die aktiv bei der Regulierung von
+Kryptow&#228;hrungen sind, und welche Gespr&#228;che haben in diesem Zusammenhang bereits 
+stattgefunden?  
+Die Bundesregierung f&#252;hrt regelm&#228;&#223;ig bilaterale Gespr&#228;che mit anderen L&#228;ndern 
+zu dem Thema. Gespr&#228;che fanden beispielsweise statt mit Frankreich, dem
+Vereinigten K&#246;nigreich, Japan, Liechtenstein, Malta, den Niederlanden, Singapur, 
+S&#252;dkorea und den USA.
+48. Ist eine europ&#228;ische Harmonisierung der Regulierung von Kryptow&#228;hrungen 
+und Crypto Assets Ziel dieser Bundesregierung?  
+Wenn dies nicht angestrebt wird bzw. wenn eine europ&#228;ische
+Harmonisierung nicht erfolgreich ist, zu wann plant die Bundesregierung eine
+umfassende nationale Regulierung? 
+Da Crypto-Assets weltweit emittiert und gehandelt werden, setzt sich die
+Bundesregierung im Einklang mit dem Koalitionsvertrag f&#252;r einen angemessenen
+Regulierungsrahmen f&#252;r Crypto-Assets vor allem auf europ&#228;ischer und
+internationaler Ebene ein &#8211; wie bei der Finanzmarktregulierung &#252;blich. 
+49. Wie viele Unternehmen haben vor Herausgabe eines ICO die BaFin um
+finanzmarktrechtliche Einordnung gebeten, und wie lange dauert in der Regel 
+eine derartige Pr&#252;fung?  
+Seit 2017 sind bei der BaFin zu diesem Themenbereich ca. 130
+Verwaltungsvorg&#228;nge angefallen. Dazu geh&#246;rten Anfragen zur Erlaubnis- und Prospektpflicht
+sowie zur Ermittlung und Verfolgung m&#246;glicher unerlaubter Gesch&#228;fte. Die Dauer 
+der Pr&#252;fung h&#228;ngt stark von den individuellen Gegebenheiten der Anfrage ab, 
+insbesondere auch davon, ob die f&#252;r eine abschlie&#223;ende Pr&#252;fung erforderlichen 
+Unterlagen und Informationen von Beginn an vollumf&#228;nglich zur Verf&#252;gung
+gestellt werden. 
+50. Liegen der Bundesregierung Informationen &#252;ber die Kursentwicklung
+deutscher ICOs vor (https://de.cointelegraph.com/news/wiwo-report-german- 
+who-invested-in-icos-lost-up-to-90), und wenn ja, welche? 
+Auf die Antwort zu Frage 39 wird verwiesen. 
+51. Welche F&#228;lle von ICO-Betrugsdelikten sind der Bundesregierung in 
+Deutschland bekannt (bitte Namen der Firmen, Anzahl der Betroffenen,
+Volumen des Schadens nennen)? 
+Der Bundesregierung liegen keine solchen Erkenntnisse &#252;ber vor. Die Aufkl&#228;rung 
+und Verfolgung solcher Straftaten obliegt den zust&#228;ndigen
+Strafverfolgungsbeh&#246;rden der L&#228;nder und den unabh&#228;ngigen Gerichten. 
+52. Wie bewertet die Bundesregierung die These des IWF-Berichts (IWF =
+Internationaler W&#228;hrungsfonds), dass der weitere Anstieg von
+Kryptow&#228;hrungen neue Verwundbarkeiten f&#252;r das internationale Finanzsystem und damit 
+eine zunehmende Gef&#228;hrdung der Wirtschaft sein k&#246;nnte (www.imf.org/ 
+en/Publications/WEO/Issues/2018/09/24/world-economic-outlook-october- 
+2018)? 
+Die G20-Staaten vertreten die Auffassung, dass Kryptow&#228;hrungen insbesondere 
+aufgrund der geringen Marktkapitalisierung und der aktuell geringen Vernetzung 
+mit dem traditionellen Finanzsystem derzeit kein Risiko f&#252;r die globale
+Finanzstabilit&#228;t darstellen. Gleichwohl haben die G20 beim Treffen der Finanzminister 
+und Notenbankgouverneure in Buenos Aires im Juli diesen Jahres erneut
+versichert, wachsam zu bleiben.  
+Das Financial Stability Board und die internationalen Standardsetzer sind von der 
+G20 beauftragt, kontinuierlich m&#246;gliche Risiken von Kryptow&#228;hrungen und ggf. 
+erforderliche multilaterale Ma&#223;nahmen zu untersuchen.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Satz: Satzweiss.com Print, Web, Software GmbH, Mainzer Stra&#223;e 116, 66121 Saarbr&#252;cken, www.satzweiss.com 
+Druck: Printsystem GmbH, Schafw&#228;sche 1-3, 71296 Heimsheim, www.printsystem.de 
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de 
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/5278 -
+Blockchain und Distributed-Ledger-Technologien - Potenziale und Anwendungsfelder</titel>
+    <datum>2018-11-16</datum>
+  </document>
+  

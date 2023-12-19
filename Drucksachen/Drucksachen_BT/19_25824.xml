@@ -1,0 +1,106 @@
+<document>
+    <id>249244</id>
+    <drucksachetyp>Kleine Anfrage</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>6</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/25824</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>75ecbe548e1642ee44a9c0a91857299c</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:15+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>272371</id>
+      <titel>Hackerangriff auf SolarWinds - Aktueller Sachstand f&#252;r Deutschland</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>AfD</bezeichnung>
+      <titel>Fraktion der AfD</titel>
+    </urheber>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/258/1925824.pdf</pdf_url>
+      <id>249244</id>
+      <dokumentnummer>19/25824</dokumentnummer>
+      <datum>2021-01-13</datum>
+      <verteildatum>2021-01-15</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Kleine Anfrage</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Fraktion der AfD</urheber>
+    </fundstelle>
+    <autoren_anzeige>
+      <id>2212</id>
+      <titel>Martin Hess, MdB, AfD</titel>
+      <autor_titel>Martin Hess</autor_titel>
+    </autoren_anzeige>
+    <autoren_anzeige>
+      <id>2059</id>
+      <titel>Dr. Bernd Baumann, MdB, AfD</titel>
+      <autor_titel>Bernd Baumann</autor_titel>
+    </autoren_anzeige>
+    <text>[Kleine Anfrage
+der Abgeordneten Martin Hess, Dr. Bernd Baumann, Dr. Gottfried Curio, Jochen 
+Haug, Beatrix von Storch, Dr. Christian Wirth und der Fraktion der AfD
+Hackerangriff auf SolarWinds &#8211; Aktueller Sachstand f&#252;r Deutschland
+Nach einem Medienbericht sollen sich Hacker durch einen Hackerangriff auf 
+die texanische Softwarefirma SolarWinds eine Hintert&#252;r in bis zu 18 000
+Computernetze weltweit verschafft haben (vgl. www.n-tv.de/wirtschaft/Angreifer-k
+nackten-Zehntausende-Netzwerke-article22238289.html). Die Software dieser 
+Firma wird unter anderem f&#252;r das Management gro&#223;er Computernetzwerke
+genutzt. Zu den m&#246;glicherweise Betroffenen geh&#246;ren alle Teilstreitkr&#228;fte des US-
+Milit&#228;rs, der Secret Service, die Zentralbank, die NATO und die Mehrheit aller 
+gro&#223;en Konzerne (ebd.). Der m&#246;gliche Schaden sei noch nicht absehbar (ebd.). 
+Dem Bericht nach f&#252;hrt SolarWinds in Deutschland unter anderem Siemens als 
+Kunden in seiner Referenzliste an (ebd.).
+Wir fragen die Bundesregierung:
+1. Welche Beh&#246;rden und Wirtschaftsunternehmen in Deutschland nutzen nach 
+derzeitiger Kenntnis der Bundesregierung ebenfalls die in der
+Vorbemerkung der Fragesteller angesprochene gehackte Software von SolarWinds, 
+und beziehen sich die in der Antwort der Bundesregierung (4. Januar 2021, 
+Arbeitsnummer 12/420) benannten Bundesministerien und Beh&#246;rden auf 
+diese spezielle Software?
+2. Um welche konkrete Software von Solarwinds handelt es sich nach
+Kenntnis der Bundesregierung bei dem in der Vorbemerkung der Fragesteller
+angesprochenen Hackerangriff?
+3. Erfolgten nach Kenntnis der Bundesregierung bisher Angriffe auf Beh&#246;rden 
+in Deutschland unter Ausnutzung der in der Vorbemerkung der Fragesteller 
+angesprochenen Schwachstelle (bitte nach Anzahl der Angriffe und
+betroffener Beh&#246;rde aufschl&#252;sseln)?
+a) Hat die Bundesregierung inzwischen weitergehende Kenntnisse dar&#252;ber, 
+von welchem Staat und welcher Organisation aus die Angriffe konkret 
+ausge&#252;bt worden sind, und wenn ja, welche?
+b) Wenn ja, wurden diesbez&#252;gliche Hackerangriffe unterbunden oder
+beendet (bitte nach betroffener Beh&#246;rde aufschl&#252;sseln)?
+c) Wenn ja, erfolgte ein Datenabfluss oder eine Datenmanipulation bei den 
+betroffenen Beh&#246;rden (bitte nach Umfang und Beh&#246;rde aufschl&#252;sseln), 
+und um was f&#252;r abgeflossene oder manipulierte Daten mit welchem
+Inhalt handelte es sich dabei, und inwieweit haben diese Daten eine
+Relevanz f&#252;r die innere Sicherheit?
+Deutscher Bundestag Drucksache 19/25824
+19. Wahlperiode 13.01.2021
+d) Erfolgte durch das Ausnutzen der in der Vorbemerkung der Fragesteller 
+angesprochenen Hintert&#252;r ein Einschleusen von Malware oder die
+Verhinderung der Aus&#252;bung bestimmter Dienste bei Beh&#246;rden (bitte nach 
+Beh&#246;rde, Zeitraum und Art bzw. Zweck der Malware und verhinderten 
+Dienste aufschl&#252;sseln)?
+4. Wie, sofern Frage 3 verneint werden sollte, bewertet die Bundesregierung 
+das derzeitige Risiko von Angriffen auf Beh&#246;rden in Deutschland im
+Zusammenhang mit der Ausnutzung der in der Vorbemerkung der Fragesteller 
+angesprochenen Hintert&#252;r?
+5. Inwieweit waren, sind oder k&#246;nnten nach Kenntnis der Bundesregierung in 
+Deutschland sonstige kritische Infrastrukturen durch etwaige Angriffe im 
+Kontext des Hackerangriffs auf SolarWinds betroffen sein (bitte nach
+m&#246;glichen Angriffszielen und den etwaigen Folgen eines solchen Angriffs nach 
+Worst-Case-Szenario und Best-Case-Szenario aufschl&#252;sseln)?
+Berlin, den 12. Januar 2021
+Dr. Alice Weidel, Dr. Alexander Gauland und Fraktion
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>Hackerangriff auf SolarWinds - Aktueller Sachstand f&#252;r Deutschland</titel>
+    <datum>2021-01-13</datum>
+  </document>
+  

@@ -1,0 +1,1294 @@
+<document>
+    <id>251122</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/27310</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>29e98e600fcff4da2a347d02c5ee6c5f</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>273349</id>
+      <titel>Quantentechnologie - F&#246;rderung der Bundesregierung und aktuelle Herausforderungen im Wettbewerb um die Quanten&#252;berlegenheit</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium f&#252;r Bildung und Forschung</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/273/1927310.pdf</pdf_url>
+      <id>251122</id>
+      <dokumentnummer>19/27310</dokumentnummer>
+      <datum>2021-03-03</datum>
+      <verteildatum>2021-02-05</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Antwort
+der Bundesregierung
+auf die Kleine Anfrage der Abgeordneten Mario Brandenburg (S&#252;dpfalz),
+Dr. h. c. Thomas Sattelberger, Katja Suding, weiterer Abgeordneter und der
+Fraktion der FDP
+&#8211; Drucksache 19/26407 &#8211;
+Quantentechnologie &#8211; F&#246;rderung der Bundesregierung und aktuelle 
+Herausforderungen im Wettbewerb um die Quanten&#252;berlegenheit
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Deutschland debattiert derzeit viel dar&#252;ber, was es f&#252;r Staat und Gesellschaft 
+bedeutet, wenn eine ganze Ebene des Miteinanders in der Hand weniger
+Firmen liegt, die einer anderen Rechts- und in Teilen auch Werteordnung
+unterliegen. Bekannt als Soziale Medien stellen sie einen wesentlichen Teil der
+Infrastruktur f&#252;r die Kommunikation von Menschen und Firmen unter- und
+miteinander. Schon die rein softwarebezogene Dominanz bringt uns in die
+Situation, abgeh&#228;ngt und digital nicht souver&#228;n zu sein. Eine Abh&#228;ngigkeit auf der 
+Ebene der Hardware wird in Zukunft noch weit gravierende Auswirkungen 
+auf unser Land haben. Auch wenn eine Infrastruktur auf der Grundlage von 
+Quantentechnologie noch entfernt scheint, entscheidet sich bereits heute,
+welchen Einfluss wir auf die Entwicklung nehmen k&#246;nnen. Denn &#228;hnlich wie die 
+Entwicklungen in der Rechen- und Speicherleistung klassischer Computer-
+Hardware ist bei der Hardware f&#252;r Quantencomputer in wesentlichen Teilen 
+eine exponentielle Entwicklung bei gleichzeitig sinkenden Kosten f&#252;r die
+erforderliche Hardware prognostiziert worden (vgl. https://www.nature.com/arti
+cles/s41586-019-1666-5). Die Fragesteller sehen die m&#246;glichen positiven wie 
+negativen Folgen von Quantentechnologien (vgl. Bundestagsdrucksache 
+19/4845) und begr&#252;&#223;en entsprechend, dass die Bundesregierung einer
+drohenden Abh&#228;ngigkeit jetzt mit weiteren signifikanten Mitteln entgegenwirkt. Als 
+wesentlich erachten die Fragesteller dabei aber eine enge Zusammenarbeit mit 
+Partnern in der Europ&#228;ischen Union und ihren Mitgliedstaaten sowie mit der 
+Wirtschaft.
+Bereits im September 2018 wurde unter der Verantwortung des
+Bundesministeriums f&#252;r Bildung und Forschung (BMBF) das Rahmenprogramm
+&#8222;Quantentechnologien &#8211; von den Grundlagen zum Markt&#8220; aufgelegt, das sich mit 
+650 Mio. Euro dem Ziel widmet, Quantentechnologien der zweiten
+Generation f&#252;r Anwendungen fr&#252;hzeitig nutzbar zu machen (vgl. https://www.bmb
+f.de/upload_filestore/pub/Quantentechnologien.pdf). Um das zu erreichen, soll 
+die Forschungslandschaft ausgebaut und eng mit der Wirtschaft vernetzt
+werden. Verschiedene F&#246;rderprogramme richten sich speziell an Start-ups und 
+kleine und mittlere Unternehmen (KMU) (beispielsweise &#8222;Enabling Start-up &#8211; 
+Deutscher Bundestag Drucksache 19/27310
+19. Wahlperiode 03.03.2021
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums f&#252;r Bildung und Forschung
+vom 3. M&#228;rz 2021 &#252;bermittelt.
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext.
+Unternehmensgr&#252;ndungen in den Quantentechnologien und der Photonik&#8220;, 
+&#8222;KMU-innovativ: Photonik und Quantentechnologien&#8220;). Die
+Bundesministerin f&#252;r Bildung und Forschung Anja Karliczek hat das Ziel, Deutschland
+technologisch an der Weltspitze zu halten, zu Beginn des Jahres mit einer sog. 
+strategischen Initiative zum Quantencomputing (vgl. https://www.bmbf.de/de/
+karliczek-wir-starten-strategische-initiative-zum-quantencomputing-1074
+8.html) best&#228;rkt, die Entwicklungen sowohl im Bereich Soft- als auch
+Hardware f&#252;r Quantencomputer vorantreiben soll. Erg&#228;nzend finden sich
+F&#246;rderm&#246;glichkeiten f&#252;r Quantentechnologien etwa in Programmen zur F&#246;rderung 
+des Leichtbau und der F&#246;rderung der Photonik-Forschung.
+Im Rahmen der Zukunftsinvestitionen des Corona-Konjunkturpakets vom Juni 
+2020 kamen weitere 2 Mrd. Euro f&#252;r die F&#246;rderung von &#8222;Entwicklung und 
+Produktion von Quantentechnologien in Deutschland&#8220; hinzu (vgl. https://ww
+w.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Schlaglic
+hter/Konjunkturpaket/2020-06-03-eckpunktepapier.pdf?__blob=publicationFil
+e&amp;v=12, S. 11). Davon sollen unter anderem auch Auftr&#228;ge f&#252;r den Bau von 
+mindestens zwei Quantencomputern an geeignete Konsortien vergeben
+werden. Die Umsetzung eines Programmes dieser Gr&#246;&#223;e im Rahmen der Corona-
+Konjunkturma&#223;nahmen wirft Fragen auf. Denn ein sehr kurzer,
+krisenbestimmter Planungshorizont kontrastiert mit einem langen Zeithorizont f&#252;r
+Entwicklung und Bau von Quantencomputern. Nach Ansicht der Fragesteller
+sollte der Bau nicht nur mit Blick auf die Forschung erfolgen. Die Potenziale f&#252;r 
+den Wirtschaftsstandort m&#252;ssen nach Meinung der Fragesteller ebenfalls im 
+Blick behalten werden, damit hier gewonnene Forschungsergebnisse auch hier 
+zu Produkten werden k&#246;nnen.
+Auch Fragen zur Einbettung der neuen Ma&#223;nahmen in die auf Ebene der
+Europ&#228;ischen Union laufenden Initiativen werden nach Ansicht der Fragesteller 
+bislang nicht zufriedenstellend adressiert, obwohl die Aus&#252;bung der EU-
+Ratspr&#228;sidentschaft eine Abstimmung nahegelegt h&#228;tte. Immerhin gibt es auf
+europ&#228;ischer Ebene bereits bedeutende Initiativen zur Erforschung und
+Entwicklung von Quantentechnologien, beispielsweise das &#8222;Quantum Flagship&#8220; mit 
+einer Laufzeit von zehn Jahren und einem Budget von 1 Mrd. Euro (vgl. 
+https://qt.eu/), f&#252;r das bereits im Jahr 2017 der Grundstein gelegt wurde (vgl. 
+https://ec.europa.eu/transparency/regexpert/index.cfm?do=groupDetail.group
+DetailDoc&amp;id=34809&amp;no=1). Eine enge wissenschaftliche wie politische
+Abstimmung liegt nach Ansicht der Fragesteller schon wegen der starken
+Vernetzung der europ&#228;ischen Forschungslandschaft n&#228;her als ein nationaler
+Alleingang. Zus&#228;tzliches Potenzial kann dar&#252;ber hinaus in der Abstimmung mit
+anderen l&#228;nder&#252;bergreifenden Initiativen wie Gaia-X liegen. Auch in der
+Koordination nationaler Ma&#223;nahmen sehen die Fragesteller M&#246;glichkeiten f&#252;r
+Synergien.
+&#8199;1. Welche Erw&#228;gungen f&#252;hrten zu der Ank&#252;ndigung der Bundesregierung, 
+die Summe von 2 Mrd. Euro zus&#228;tzlich in den Bereich
+Quantentechnologie zu investieren (vgl. https://www.bundesfinanzministerium.de/Web/
+DE/Themen/Schlaglichter/Konjunkturpaket/Konjunkturprogramm-fuer-a
+lle/zusammen-durch-starten.html)?
+a) Wie verteilt sich die Summe auf welche Ressorts?
+b) Welches Ressort war federf&#252;hrend bei der Entscheidung &#252;ber die 
+konkrete Summe?
+c) Zwischen welchen Ressorts werden die weiteren Schritte nach der 
+Ver&#246;ffentlichung der Roadmap abgestimmt (vgl. https://www.bmbf.
+de/de/karliczek-mit-quantentechnologien-zu-mehr-technologischer-s
+ouveraenitaet-13489.html)?
+Welches Ressort hat die Federf&#252;hrung?
+Wie verteilen sich die Mittel?
+d) &#220;ber wie viele Jahre erstreckt sich die F&#246;rderung von
+Quantentechnologien aus diesem Konjunkturpaket?
+e) Welchen Mehrwert &#252;ber die bisherigen Investitionen in die F&#246;rderung 
+von Quantentechnologien erhofft sich die Bundesregierung aus den 
+zus&#228;tzlichen Mitteln?
+f) Teilen sich die 2 Mrd. Euro auf Forschungsf&#246;rderung f&#252;r die
+Wissenschaft und wettbewerbliche Verfahren f&#252;r die Industrie auf, und wenn 
+ja, in welchem Verh&#228;ltnis?
+Die Fragen 1 bis 1f werden im Zusammenhang beantwortet.
+Die Quantentechnologien besitzen enormes Potenzial f&#252;r Wirtschaft und
+Gesellschaft. Quantencomputing, -sensorik und -kommunikation er&#246;ffnen etwa 
+bei der Entwicklung medizinischer Wirkstoffe, bei der Klimaforschung oder 
+beim Schutz der Privatsph&#228;re neue technische M&#246;glichkeiten. Um dieses
+Potenzial zu erschlie&#223;en und im internationalen Innovationswettstreit bestehen zu 
+k&#246;nnen, hat die Bundesregierung unter Federf&#252;hrung des Bundesministeriums 
+f&#252;r Bildung und Forschung (BMBF) das Rahmenprogramm
+&#8222;Quantentechnologien &#8211; von den Grundlagen zum Markt&#8220; entwickelt und im September 2018
+beschlossen. Um dem besonderen Handlungsbedarf beim Quantencomputing 
+Rechnung zu tragen, hat das BMBF im Januar 2020 zudem eine strategische 
+Initiative zum Quantencomputing gestartet. Die im Rahmen des Konjunktur- 
+und Zukunftspakets f&#252;r die Quantentechnologien vorgesehenen Mittel in H&#246;he 
+von 2 Mrd. Euro erm&#246;glichen es, die Anstrengungen zu verst&#228;rken, mit der 
+Entwicklung von industriell nutzbaren Quantencomputern und Software zu 
+starten sowie ein leistungsf&#228;higes Innovations&#246;kosystem aufzubauen.
+Ein gemeinsames Konzept der Bundesregierung zur F&#246;rderung der
+Quantentechnologien wird derzeit zwischen den federf&#252;hrenden Ressorts, dem BMBF, 
+dem Bundesministerium f&#252;r Wirtschaft und Energie (BMWi) und dem
+Bundesministerium der Finanzen (BMF), unter Beteiligung des Bundeskanzleramts 
+(BKAmt) abgestimmt. Nach der Finalisierung des Konzepts erfolgt die
+Verteilung der Mittel auf die Ressorts. Die Arbeiten basieren auf der Roadmap des 
+Expertenrats Quantencomputing sowie auf Diskussionen zum
+Quantencomputing im Innovationsdialog der Bundeskanzlerin. Die Mittel sollen im Rahmen 
+wettbewerblicher Verfahren vergeben werden.
+&#8199;2. Auf welche &#8222;grundlegenden Schl&#252;sseltechnologien&#8220; bezieht sich das 
+BMBF in seiner angek&#252;ndigten ersten F&#246;rderung in H&#246;he von 120 Mio. 
+Euro (vgl. https://www.bmbf.de/de/karliczek-mit-quantentechnologien-
+zu-mehr-technologischer-souveraenitaet-13489.html)?
+Mit der ersten Tranche in H&#246;he von 120 Mio. Euro aus dem Konjunktur- und 
+Zukunftspaket wurden im Haushalt 2020 Projekte zu den grundlegenden 
+Schl&#252;sseltechnologien f&#252;r Quantenkommunikation und Quantencomputing 
+durch das BMBF bewilligt. Dabei handelt es sich um eine Fortschreibung der 
+Initiative QuNET (Pilotinitiative zur sicheren Kommunikation auf der Basis der 
+Quantum Key Distribution) und f&#252;nf Konsortien aus der
+F&#246;rderbekanntmachung &#8222;Quantenprozessoren und Technologien f&#252;r Quantencomputer&#8220;
+(F&#246;rderung von Projekten zur Realisierung von Quantenchips wie supraleitende 
+Qubits, Ionenfallen, Halbleiter-Spin-Qubits und Rydbergatome).
+&#8199;3. Warum wurden die Auftr&#228;ge zum Bau von mindestens zwei
+Quantencomputern nicht, wie angek&#252;ndigt, unmittelbar vergeben?
+a) Gibt es einen Kriterienkatalog, den die Bundesregierung zur
+Beurteilung der Eignung von Konsortien heranzieht, und wenn ja, wird
+dieser der &#214;ffentlichkeit zug&#228;nglich gemacht werden?
+b) Welche Kriterien sind darin enthalten?
+c) Welche Anspr&#252;che stellt die Bundesregierung an die technischen
+F&#228;higkeiten (bitte detailliert angeben) von Organisationen, die einen 
+international wettbewerbsf&#228;higen Quantencomputer bauen sollen?
+d) Mit wie vielen Konsortien laufen bereits Gespr&#228;che?
+e) Wie stellt die Bundesregierung sicher, dass der von ihr zu vergeben 
+geplante Auftrag zum Bau von mindestens zwei Quantencomputern 
+mit Artikel 107 Absatz 1 des Vertrags &#252;ber die Arbeitsweise der 
+Europ&#228;ischen Union vereinbar ist?
+f) Wird die Bundesregierung den Auftrag zum Bau der geplanten
+Quantencomputer in einem wettbewerblichen Verfahren &#228;hnlich dem in 
+Finnland vergeben (vgl. https://www.vttresearch.com/en/news-and-id
+eas/vtt-build-finlands-first-quantum-computer)?
+Die Fragen 3 bis 3f werden im Zusammenhang beantwortet.
+Quantencomputer sind zum derzeitigen Stand kein marktg&#228;ngiges Produkt. 
+Weltweit gibt es noch kein universelles System, mit dem Vorteile f&#252;r praktische 
+Anwendungen demonstriert werden konnten. Vielmehr wird die Entwicklung 
+universeller Quantencomputer voraussichtlich noch einige Jahre ben&#246;tigen. Die 
+technologische Basis f&#252;r einen universellen Quantencomputer ist derzeit offen.
+Deutschland und Europa sind in der Grundlagenforschung zu Quanten-
+Ph&#228;nomenen sehr gut aufgestellt, haben jedoch in der Entwicklung erster
+Quantencomputer Nachholbedarf. In Europa gibt es zurzeit kein etabliertes
+Unternehmen, das die Zusammenf&#252;hrung von Hard-, Soft- und Middleware
+adressiert. Darum k&#246;nnen Auftr&#228;ge zur Entwicklung und zum Bau von
+Quantencomputern nicht unmittelbar vergeben werden. Vielmehr bedarf es leistungsf&#228;higer 
+Konsortien zur Forschung und Weiterentwicklung existierender, rudiment&#228;rer 
+Prototypen und zur Entwicklung von hybriden Systemen f&#252;r einen schnellen 
+Markteinstieg. Neben dem konkreten Aufbau von Quantencomputern wird der 
+geplante Wettbewerb die Entwicklung eines leistungsstarken
+Innovations&#246;kosystems mit Forschung und Industrie adressieren.
+Die Kriterien f&#252;r die Eignung von Konsortien werden zum Start des
+wettbewerblichen Verfahrens bekanntgegeben. In &#220;bereinstimmung mit den
+Handlungsempfehlungen der Roadmap Quantencomputing ist beabsichtigt, dass der 
+Wettbewerb zur Hardware-Entwicklung technologieoffen ausgestaltet wird. 
+Das wettbewerbliche Verfahren wurde noch nicht gestartet, so dass die
+Bundesregierung keine Angaben zu Konsortien machen kann.
+Grundlage des wettbewerblichen Verfahrens zur Entwicklung von
+Quantencomputern wird eine F&#246;rderrichtlinie sein, auf deren Basis staatliche Beihilfen 
+auf der Grundlage von Artikel 25 Absatz 2 Buchstabe a, b und c der
+Verordnung (EU) Nr. 651/2014 der EU-Kommission vom 17. Juni 2014 zur
+Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem
+Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags &#252;ber die
+Arbeitsweise der Europ&#228;ischen Union (&#8222;Allgemeine Gruppenfreistellungsverordnung&#8220; 
+&#8211; AGVO) gew&#228;hrt werden. Ferner sind Forschungskooperationen und
+Innovationspartnerschaften zwischen Forschungseinrichtungen und Unternehmen
+vorgesehen.
+&#8199;4. Welche unterschiedlichen Vorstellungen f&#252;hrten dazu, dass sich das 
+Bundesministerium f&#252;r Bildung und Forschung und das
+Bundesministerium f&#252;r Wirtschaft und Energie laut Medienberichten nicht &#252;ber die
+Verwendung der Mittel einigen konnten (vgl. https://background.tagesspiege
+l.de/digitalisierung/roadmap-quantencomputing-moonshot-oder-mutlos)?
+Welche Erw&#228;gungen haben zur dort erw&#228;hnten Intervention des
+Bundeskanzleramts gef&#252;hrt?
+Wann geschah das?
+Die Abstimmungen zwischen den Ressorts zum geplanten Konzept zur
+F&#246;rderung der Quantentechnologien basierend auf Ziffer 44 des Konjunktur- und
+Zukunftspakets laufen derzeit (vgl. Antwort zu Frage 1). Entsprechend befinden 
+sich die beteiligten Ressorts in kontinuierlichem Austausch.
+&#8199;5. Welches Ressort wird die Federf&#252;hrung bei der Verwendung der Mittel 
+innehaben?
+Welches Ressort hat die Federf&#252;hrung bei der Erstellung eines
+Umsetzungsplans zur Strategie oder der Anpassung derselben?
+Das Konzept zur F&#246;rderung der Quantentechnologien basierend auf Ziffer 44 
+des Konjunktur- und Zukunftspakets wird gemeinsam von den beteiligten 
+Ressorts erarbeitet. Die Umsetzung der geplanten Ma&#223;nahmen wird entlang der 
+Zust&#228;ndigkeiten im Gesch&#228;ftsbereich der jeweiligen Ressorts erfolgen. Der 
+kontinuierliche Austausch zum F&#246;rderkonzept ist durch Abstimmungen auf 
+Fachebene sichergestellt.
+&#8199;6. Welche &#8222;dringend n&#246;tigen Strukturen f&#252;r die Vorbereitung, Aktivierung 
+und Vernetzung der Wirtschaft und der wissenschaftlichen Communities&#8220; 
+(vgl. https://www.bmbf.de/de/karliczek-mit-quantentechnologien-zu-me
+hr-technologischer-souveraenitaet-13489.html) fehlen nach Ansicht der 
+Bundesregierung?
+Handlungsbedarf besteht bei der Schaffung technologischer &#214;kosysteme, d. h. 
+der Vernetzung von Forschung und Unternehmen in Konsortien zur Arbeit an 
+Fragen der anwendungsorientierten Grundlagenforschung. Dabei gilt es,
+exzellente Forscherinnen und Forscher mit Technologieunternehmen und
+Unternehmen der anwendenden Industrien zusammenzubringen &#8211; interdisziplin&#228;r und 
+entlang der Technologie- und der sp&#228;teren Wertsch&#246;pfungsketten.
+&#8199;7. Aus welchen Erw&#228;gungen heraus hat die Bundesregierung beschlossen, 
+eine neue Expertenkommission ab Oktober einzusetzen, obwohl auf
+europ&#228;ischer Ebene auf Basis von Experten bereits eine Roadmap erstellt 
+wurde (vgl. https://ec.europa.eu/digital-single-market/en/news/quantum-t
+echnologies-and-advent-quantum-internet-european-union-brochure)?
+a) Welche Mitglieder der Expertenkommission weisen nach Kenntnis 
+der Bundesregierung praktische Expertise im Bau und der
+Verwendung von Quantentechnologie auf?
+b) Wie viele Firmen wurde insgesamt von Mitgliedern dieser Experten 
+gegr&#252;ndet (bitte wenn m&#246;glich tabellarisch und mit Jahresumsatz 
+auflisten)?
+Die Fragen 7 bis 7b werden im Zusammenhang beantwortet.
+Die europ&#228;ische Roadmap zu den Quantentechnologien ist eine gute Basis f&#252;r 
+die weitere Entwicklung der Aktivit&#228;ten auf EU-Ebene, insbesondere im
+Forschungsrahmenprogramm Horizont Europa. Akteure aus Deutschland waren an 
+ihrer Erstellung wesentlich beteiligt. Der Expertenrat Quantencomputing hat 
+unter anderem auch die europ&#228;ische Roadmap als Grundlage f&#252;r die eigenen 
+Handlungsempfehlungen herangezogen. Im Fokus der Arbeit des Expertenrats 
+stand die Ber&#252;cksichtigung von nationalen Rahmenbedingungen und die
+Erarbeitung von inhaltlichen und strukturellen Handlungsempfehlungen f&#252;r 
+Deutschland zum Quantencomputing.
+Die Mitglieder des Expertenrats verf&#252;gen &#252;ber ausgewiesene Expertise in den 
+Bereichen Grundlagenforschung, Schl&#252;sselkomponenten, Hardware-
+Entwicklung, Software-Entwicklung und Anwendungen in Bezug auf das
+Quantencomputing. Unternehmerische Erfahrungen wie auch Forschungsexpertise waren 
+gleicherma&#223;en im Expertenrat abgebildet. Die Roadmap inklusive einer
+vollst&#228;ndigen Liste der Mitglieder und ihrer Zugeh&#246;rigkeiten ist ver&#246;ffentlicht
+unter www.quantentechnologien.de/roadmap-quantencomputing. Informationen 
+zum Jahresumsatz der dort genannten Unternehmen liegen der
+Bundesregierung nicht vor.
+&#8199;8. Welche unterschiedliche Bewertung der vorgelegten Roadmap nehmen 
+die unterschiedlichen Bundesministerien vor (vgl. https://background.tag
+esspiegel.de/digitalisierung/roadmap-quantencomputing-moonshot-
+odermutlos)?
+Welche weiteren Schritte leitet die Bundesregierung aus den in den
+Medien genannten Differenzen ab, um eine koordinierte Strategie zu
+formulieren?
+Die beteiligten Ressorts der Bundesregierung haben die vorgelegte Roadmap 
+Quantencomputing gleicherma&#223;en positiv bewertet. Der F&#246;rderung der
+Quantentechnologien basierend auf Ziffer 44 des Konjunktur- und Zukunftspakets 
+wird ein einheitliches Konzept der Bundesregierung zugrunde gelegt.
+&#8199;9. Welche neuen Ideen zur Kommerzialisierung von Quantentechnologien 
+hat die Kommission nach Ansicht der Bundesregierung bereits geliefert?
+Wie grenzen sich diese Ideen von den bekannten Konzepten ab, und wie 
+werden diese Ideen jetzt umgesetzt?
+Die Handlungsempfehlungen des Expertenrats Quantencomputing machen 
+konkrete Vorschl&#228;ge zur Schaffung technologischer &#214;kosysteme, die zur
+Kommerzialisierung von Quantencomputern f&#252;hren sollen. Die geplante
+Kooperation von Unternehmen (inkl. Startups) und Forschungseinrichtungen in
+wettbewerblich ausgew&#228;hlten Konsortien wird erstmals das gesamte erforderliche 
+Know-how zusammenf&#252;hren, das f&#252;r einen Systemaufbau erforderlich ist. Dies 
+ist die Basis daf&#252;r, dass Unternehmen &#8211; unabh&#228;ngig von ihrer Gr&#246;&#223;e &#8211; ihre
+Beitr&#228;ge in den Wertsch&#246;pfungsketten ausbauen. Im Bereich der Software und der 
+Anwendungen sind, neben der Kooperation von Wirtschaft und Wissenschaft, 
+der fr&#252;hzeitige Zugang zu bereits verf&#252;gbaren Quantencomputern und die
+M&#246;glichkeit der Erprobung f&#252;r konkrete Anwendungen (&#8222;Use Cases&#8220;) insbesondere 
+f&#252;r industrielle Anwender wesentlich. Abstimmungen zur Umsetzung dieser 
+Elemente der Roadmap Quantencomputing laufen derzeit ressort&#252;bergreifend. 
+Dar&#252;ber hinaus wird die Umsetzung weiterer Empfehlungen aus der Industrie 
+sicherzustellen sein.
+10. Bekennt sich die Bundesregierung zum durch die Expertenkommission 
+in der Roadmap vorgeschlagenen &#8222;Meilenstein: ein international
+wettbewerbsf&#228;higer Quantenrechner mit mindestens 100 individuell
+ansteuerbaren Qubits&#8220;, der auf &#8222;mindestens 500 Qubits skalierbar sein soll&#8220; (vgl. 
+https://www.quantentechnologien.de/fileadmin/public/Redaktion/Dokum
+ente/PDF/Publikationen/Roadmap-Quantencomputing-bf-C1.pdf, S. 6)?
+Wenn ja, h&#228;lt die Bundesregierung das Ziel f&#252;r innerhalb von f&#252;nf Jahren 
+erreichbar?
+Die Bundesregierung wird Rahmenbedingungen zur Erreichung der
+Meilensteine der Roadmap Quantencomputing schaffen. Die dort aufgef&#252;hrten
+Meilensteine wurden auf Grundlage des aktuellen Stands der Quantentechnologie von 
+renommierten Expertinnen und Experten formuliert.
+11. Wie tr&#228;gt die von der Expertenkommission vorgeschlagene Gr&#252;ndung 
+von Forschungshubs (vgl. https://background.tagesspiegel.de/digitalisier
+ung/roadmap-quantencomputing-neue-organisation-und-strukturen-ange
+dacht) nach Ansicht der Bundesregierung zu einer unternehmerisch und 
+am Technologietransfer ausgerichteten Forschungspolitik bei?
+a) Wie stellt die Bundesregierung sicher, dass die vorgeschlagenen 
+Hubs zum Ziel der technologischen Souver&#228;nit&#228;t im
+Quantencomputersegment beitragen?
+Die Fragen 11 und 11a werden im Zusammenhang beantwortet.
+Grundlage f&#252;r die geplanten Hubs und Kompetenznetze bilden Konsortien, in 
+deren Aufbau bereits die Kooperation von Wissenschaft und Industrie angelegt 
+ist. Ein Ergebnistransfer wird durch direkte Beteiligung von
+Technologieunternehmen und industriellen Anwendern an den o. g. Konsortien sichergestellt. 
+Dar&#252;ber hinaus adressieren die Hubs die Unterst&#252;tzung von
+Unternehmensgr&#252;ndungen.
+b) Schlie&#223;t sich die Bundesregierung der in der Roadmap
+vorgeschlagenen Klassifizierung nach &#8222;systemkritischen, neutralen oder trivialen 
+Komponenten&#8220; (vgl. https://www.quantentechnologien.de/fileadmin/p
+ublic/Redaktion/Dokumente/PDF/Publikationen/Roadmap-Quantenco
+mputing-bf-C1.pdf, S. 28) an?
+Der Bundesregierung erscheint die durch den Expertenrat vorgeschlagene
+Klassifizierung nachvollziehbar. Ein Ziel der geplanten Ma&#223;nahmen ist es,
+systemkritische Komponenten mittelfristig in Deutschland und Europa verf&#252;gbar zu 
+machen, um die technologische Souver&#228;nit&#228;t im Bereich der
+Quantentechnologien und des Quantencomputing sicherzustellen.
+c) Welche Kontrollmechanismen gibt es, und in welchem Turnus erfolgt 
+die &#220;berpr&#252;fung?
+Auf programmatischer Ebene bietet ein kontinuierlicher, ressort&#252;bergreifender 
+Austausch zur F&#246;rderung der Quantentechnologien Raum zur &#252;bergreifenden 
+Koordinierung der F&#246;rderma&#223;nahmen. Auf Ebene der F&#246;rderma&#223;nahme
+unterliegt jedes Projekt zudem der kontinuierlichen &#220;berpr&#252;fung durch die im
+Rahmen der Projektf&#246;rderung vorgesehenen Instrumente.
+12. Wie verh&#228;lt sich die Bundesregierung zu der in der Presse berichteten 
+Einsch&#228;tzung, dass die Umsetzung der Roadmap eine &#8222;extrem tr&#228;ge und 
+schwerf&#228;llige, nahezu handlungsunf&#228;hige Struktur&#8220; (vgl. https://backgrou
+nd.tagesspiegel.de/digitalisierung/roadmap-quantencomputing-moonsho
+t-oder-mutlos), zur Folge habe?
+Die Bundesregierung teilt diese Auffassung nicht.
+13. Nutzt oder plant die Bundesregierung im Rahmen der bisherigen und 
+kommenden F&#246;rderungen Instrumente zur Mobilisierung privaten
+Kapitals f&#252;r die Quantentechnologie?
+a) Inwiefern sieht die Bundesregierung ihre F&#246;rderpolitik in
+Konkurrenz mit Projekten privater Kapitalgeber?
+b) Inwiefern sieht die Bundesregierung derzeit oder in Zukunft eine 
+Konkurrenz zwischen den von ihr finanzierten oder gef&#246;rderten 
+Quantentechnologien und bereits oder zuk&#252;nftig kommerziell
+angebotenen Quantentechnologien wie etwa des auch in Deutschland
+ans&#228;ssigen Unternehmens IQM (vgl. https://www.handelsblatt.com/tec
+hnik/forschung-innovation/quantencomputing-millionen-fuer-quante
+ncomputer-aus-europa-darum-weckt-iqm-so-grosse-hoffnungen/2660
+7624.html)?
+Die Fragen 13 bis 13b werden im Zusammenhang beantwortet.
+Das Instrument der Verbundforschung erm&#246;glicht es Unternehmen, fr&#252;hzeitig 
+neue Technologien, zumeist in Kooperation mit Forschungseinrichtungen, zu 
+erforschen und zu entwickeln. Die Eigenbeteiligung der Unternehmen
+(maximale Beihilfeintensit&#228;ten gem&#228;&#223; EU-Rahmen f&#252;r Forschungs- und
+Entwicklungsbeihilfen) mobilisiert bereits w&#228;hrend der vorwettbewerblichen F&#246;rderung 
+privates Kapital. Im Rahmen der Ergebnisverwertung wird weiteres Kapital
+investiert. Die F&#246;rderung steht dabei nicht in Konkurrenz mit Projekten privater 
+Kapitalgeber in Europa. Sie erfolgt komplement&#228;r. Die F&#246;rderung der
+Bundesregierung zielt nicht auf eine Konkurrenz gef&#246;rderter Quantentechnologien zu 
+kommerziellen Anbietern. Sie adressiert gerade auch Unternehmen, die bereits 
+am Markt agieren, und m&#246;chte deren FuE-Bestrebungen und Kooperationen 
+mit Forschungseinrichtungen forcieren. So bindet das BMBF u. a. auch das
+genannte Startup-Unternehmen IQM im Rahmen der Verbundforschung mit ein.
+14. Wie bindet die Bundesregierung Start-ups aktiv in die Vergabe von
+Mitteln ein?
+Welche Start-ups haben bereits Mittel aus der F&#246;rderung der
+Bundesregierung f&#252;r Quantentechnologien erhalten?
+Die Beteiligung von Startups im Rahmen von Verbundvorhaben,
+Forschungskooperationen oder Innovationspartnerschaften ist ausdr&#252;cklich erw&#252;nscht. 
+&#220;ber die bestehende BMBF- F&#246;rderbekanntmachung &#8222;Enabling Start-up &#8211;
+Unternehmensgr&#252;ndungen in den Quantentechnologien und der Photonik&#8220; werden 
+Startups im Bereich der Quantentechnologien besonders gef&#246;rdert. Zudem
+besteht die M&#246;glichkeit f&#252;r Startups, die Entwicklungen aus dem Bereich der 
+Quantenkommunikation f&#252;r IT-Sicherheitsl&#246;sungen in die Anwendung bringen 
+wollen, F&#246;rderung aus der Gr&#252;ndungsinitiative StartUpSecure zu erhalten.
+Die folgenden Startups (Unternehmen, die zum Zeitpunkt des F&#246;rderbeginns 
+weniger als f&#252;nf Jahre bestanden) haben bereits Mittel aus der F&#246;rderung der 
+Bundesregierung f&#252;r Quantentechnologien erhalten:
+&#8211; EcoDiamond GmbH,
+&#8211; HQS Quantum Simulations GmbH,
+&#8211; IQM Germany GmbH,
+&#8211; Kiutra GmbH,
+&#8211; NVision GmbH,
+&#8211; Swabian Instruments GmbH.
+15. Plant die Bundesregierung die gezielte F&#246;rderung von
+Gesch&#228;ftsmodellen, die sich vom standardm&#228;&#223;ig genutzten digitalen Quantencomputing 
+abgrenzen (zum Beispiel applikationsspezifische Prozessoren oder Co-
+Prozessoren im Sinne eines &#8222;Quantum Accelerators&#8221;), und falls ja,
+welche?
+Wenn nein, weshalb nicht?
+Der geplante Wettbewerb zur Entwicklung und zum Aufbau von
+Quantencomputern wird neben digitalen Ans&#228;tzen auch analoge Aufbauten
+(Quantensimulatoren) und digital-analoge Ans&#228;tze, insbesondere auch f&#252;r
+applikationsspezifische Prozessoren, adressieren; zudem auch Co-Prozessoren f&#252;r hybride High 
+Performance Computing/Quantencomputing (HPC/QC)-Ans&#228;tze.
+16. F&#246;rdert die Bundesregierung aktiv Forschungskooperationen im Bereich 
+der Quantentechnologien mit Forscherinnen und Forschern anderer
+Staaten, und wenn ja, wie?
+Ein &#252;bergeordnetes Ziel der F&#246;rderung der Entwicklung der
+Quantentechnologien ist es, die nationale und europ&#228;ische Souver&#228;nit&#228;t in diesem f&#252;r Wirtschaft 
+und Gesellschaft wichtigen Zukunftsfeld sicherzustellen. Daher zielt die 
+Bundesregierung bei Kooperationen im Bereich Forschung und Entwicklung 
+vorrangig auf die europ&#228;ische Zusammenarbeit. Im Fokus stehen hier das
+Engagement Deutschlands f&#252;r das EU Quantum Flagship und die wesentliche 
+Mitwirkung deutscher Partner in den Konsortien des Flagships.
+Weiterhin f&#246;rdert die Bundesregierung aktiv die europ&#228;ische Zusammenarbeit 
+durch die Beteiligung des BMBF an der multinationalen F&#246;rderinitiative 
+QuantERA, in der 27 Mitgliedstaaten sowie assoziierte Staaten der EU
+gemeinsam Kooperationsprojekte zu den Quantentechnologien f&#246;rdern. Zudem arbeitet 
+die Bundesregierung mit zahlreichen Partnerl&#228;ndern innerhalb der EU bei der 
+Erforschung der Grundlagen f&#252;r die europ&#228;ische
+Quantenkommunikationsinfrastruktur EuroQCI zusammen. Dar&#252;ber hinaus besteht in der Verbundforschung 
+grunds&#228;tzlich die M&#246;glichkeit, Akteure aus der EU im Rahmen von
+Forschungs- und Entwicklungsauftr&#228;gen oder als assoziierte Partner zu beteiligen.
+17. Welche Summe plant die Bundesregierung im Rahmen der F&#246;rderung 
+oder an anderer Stelle daf&#252;r ein, die eigene IT-Infrastruktur resistent
+gegen die M&#246;glichkeiten quantencomputergest&#252;tzter
+Entschl&#252;sselungssoftware zu machen (vgl. Bundestagsdrucksache 19/4845)
+Die Bundesregierung f&#252;hrt f&#252;r den Hochsicherheitsbereich unter der
+Arbeitshypothese, dass zu Beginn der 2030er Jahre kryptografisch relevante
+Quantencomputer zur Verf&#252;gung stehen, eine Migration zu quantensicherer
+Kryptografie durch. Konkrete Kosten der damit verbundenen Umstellungen k&#246;nnen nicht 
+beziffert werden, insbesondere, da diese Migration in Verbindung mit der
+regelm&#228;&#223;igen Weiterentwicklung von Produkten stattfindet.
+18. Welche Hubs oder Kompetenznetzwerken der Quantentechnologie sollen 
+im Rahmen der Roadmap Quantencomputing in Deutschland aufgebaut 
+oder ausgebaut werden?
+Sind auch grenz&#252;berschreitende Hubs oder Kompetenznetzwerke
+geplant, und wenn ja, wo?
+Zum Auf- bzw. Ausbau von Hubs oder Kompetenznetzwerken der
+Quantentechnologien kann gegenw&#228;rtig keine Aussage getroffen werden. Grunds&#228;tzlich 
+wird die M&#246;glichkeit bestehen, Akteure aus der EU im Rahmen von
+Forschungs- und Entwicklungsauftr&#228;gen oder als assoziierte Partner zu beteiligen.
+19. Welche Synergien sind nach Ansicht der Bundesregierung m&#246;glich
+zwischen den von ihr im Rahmen des Konjunkturpakets zu bauen geplanten 
+Quantencomputern und dem Projekt &#8222;OpenSuperQ&#8220;, dessen Ziel
+ebenfalls der Bau eines Quantencomputers ist (vgl. ttps://www.fz-juelich.de/
+SharedDocs/Pressemitteilungen/UK/DE/2018/2018-10-29-gemeinsam-z
+um-europaeischen-quantencomputer.html;jsessionid=6D1EAF51165B79
+5C4B50CB09BD169BBA?nn=448936)?
+Das Vorhaben &#8222;OpenSuperQ&#8220; (Laufzeit: Oktober 2018 bis September 2021) ist 
+ein Verbundprojekt des EU Quantum Flagships, das vom Forschungszentrum 
+J&#252;lich (FZJ) koordiniert wird. Das Konsortium zielt mittelfristig darauf ab,
+einen Quantencomputer mit 50 bis 100 Qubits zu bauen, der auf supraleitenden 
+Schaltkreisen basiert und dessen Betriebssystem eine Open-Source-Software 
+sein soll; geplant ist ein Zugang &#252;ber die Cloud. Verbundpartner sind VTT und 
+Bluefors aus Finnland, Chalmers und Low Noise Factory aus Schweden, die 
+ETH Z&#252;rich und Zurich Instruments aus der Schweiz sowie die Universit&#228;t des 
+Baskenlandes aus Spanien. Das FZJ verantwortet im &#8222;OpenSuperQ&#8220;-Projekt 
+den Betrieb des Demonstrators und die Anbindung an ein Rechenzentrum. Die 
+Hardware-Entwicklung findet nicht in Deutschland statt.
+Synergien aus Projekten des EU Quantum Flagships, insbesondere auf Basis 
+der Arbeiten deutscher Partner, zu Entwicklungen in Deutschland im Rahmen 
+des Regierungsprogramms &#8222;Quantentechnologien &#8211; von den Grundlagen zum 
+Markt&#8220; sowie zur Umsetzung des Konjunktur- und Zukunftspakets werden
+angestrebt. Die bestehende BMBF-F&#246;rderrichtlinie &#8222;Quantenprozessoren und 
+Technologien f&#252;r Quantencomputer&#8220; hat etwa die M&#246;glichkeit der
+Unterst&#252;tzung laufender Quantum Flagship Projekte explizit adressiert.
+&#8199;a) Verl&#228;uft das genannte Projekt nach Kenntnissen der Bundesregierung 
+nach dem angestrebten Zeitplan, der den fertigen Bau im Jahr 2021 
+vorsah?
+Das Projekt &#8222;OpenSuperQ&#8220; hat grunds&#228;tzlich bis jetzt seine Zwischenziele
+erreicht. Nur wenige davon waren verz&#246;gert. Allerdings hat die Corona-
+Pandemie Auswirkungen auf den Entwicklungsfahrplan, insbesondere im Bereich der 
+Chipentwicklung und -herstellung, die Pr&#228;senz in Reinr&#228;umen erfordert. Aus 
+diesem Grund plant das Projekt, die von der Europ&#228;ischen Kommission
+angebotene M&#246;glichkeit einer kostenneutralen Verl&#228;ngerung zu nutzen und befindet 
+sich in der Abstimmung dieses Schrittes. Das neue Konzept sieht vor, dass die 
+von dieser Verz&#246;gerung nicht betroffenen Komponenten im bisherigen Zeitplan 
+bis Herbst 2021 entwickelt werden, zun&#228;chst aber auf einem kleineren
+Prozessor (etwa 20 Qubits), der bis Fr&#252;hjahr 2022 auf die Endgr&#246;&#223;e von mehr als 
+50 Qubits expandiert werden soll. Der Status der Arbeiten (Stand: August 
+2020) ist auf der Web-Pr&#228;senz des Projekts ver&#246;ffentlicht.
+&#8199;b) Wie viele Personen sind in der Bundesregierung in welchen
+Ressorts daf&#252;r zust&#228;ndig, Kontakt zu den Verantwortlichen von &#8222;Open-
+SuperQ&#8220; mit dem Ziel des Austauschs von Wissen und Erfahrung zu 
+halten?
+Haben die Verantwortlichen einen fachlichen Hintergrund in einem 
+f&#252;r Quantentechnologien relevanten Bereich?
+Im Rahmen des Regierungsprogramms &#8222;Quantentechnologien &#8211; von den 
+Grundlagen zum Markt&#8220; liegt die Verantwortung f&#252;r das Quantencomputing 
+insbesondere in der Abteilung &#8222;Forschung f&#252;r technologische Souver&#228;nit&#228;t und 
+Innovationen&#8220; des BMBF. Ein direkter und kontinuierlicher Austausch mit den 
+Wissenschaftlerinnen und Wissenschaftlern des FZJ findet insbesondere im 
+Rahmen der Begleitung der laufenden BMBF-F&#246;rderma&#223;nahmen zu
+Quantenprozessoren statt, an denen das FZJ beteiligt ist. Das BMBF hat zudem den 
+Projekttr&#228;ger VDI Technologiezentrum GmbH zur fachlichen Unterst&#252;tzung 
+beauftragt. Die Verantwortlichen beim Projekttr&#228;ger verf&#252;gen s&#228;mtlich &#252;ber 
+fachliche Hintergr&#252;nde in f&#252;r die Quantentechnologien relevanten Bereichen.
+&#8199;c) Wie plant die Bundesregierung Erkenntnisse aus dem Projekt in die 
+eigene Auftragsvergabe einflie&#223;en zu lassen?
+Alle Konsortien, die im Rahmen der geplanten wettbewerblichen Verfahren
+antreten wollen, werden aufgerufen sein, ihre Arbeiten am internationalen Stand 
+der Forschung auszurichten und insbesondere auch eigene Vorarbeiten in den 
+vorgestellten Konzepten zu w&#252;rdigen. Entsprechende Synergien sind zu
+erwarten. In jedem Fall werden Erkenntnisse aus den Projekten des EU Quantum 
+Flagships, hier u. a. aus &#8222;OpenSuperQ&#8220;, in die Evaluation der Konzepte der 
+Konsortien einflie&#223;en.
+20. Will die Bundesregierung sicherstellen, dass sog. Quanten&#252;berlegenheit 
+auch durch Verwendung ausschlie&#223;lich europ&#228;ischer Technologie
+erreicht wird, und wenn ja, wie?
+Auf welche in Deutschland generierten Innovationen setzt die
+Bundesregierung hierbei, und welche Rolle spielen innovative Ans&#228;tze von 
+Start-ups?
+Die Bundesregierung beabsichtigt mit ihren F&#246;rderma&#223;nahmen die
+mittelfristige Demonstration des Quantenvorteils durch die Verwendung europ&#228;ischer 
+Technologien gem&#228;&#223; den Handlungsempfehlungen der Roadmap
+Quantencomputing. Entsprechend wird es ein Ziel der F&#246;rderung sein, im Rahmen der
+geplanten Konsortien zum Aufbau von Hubs und Kompetenznetzen kritische 
+Komponenten zu identifizieren und verf&#252;gbar zu machen. Eine Basis daf&#252;r sind 
+u. a. Arbeiten bereits im Themenfeld aktiver Unternehmen sowohl aus dem
+Bereich &#8222;Enabling Technologies&#8220; wie auch aus dem Bereich Quantenprozessoren. 
+Perspektiven f&#252;r eine industrielle Umsetzung werden ein wichtiges Kriterium 
+im Rahmen der Evaluation im wettbewerblichen Verfahren sein. Den
+innovativen Ans&#228;tzen von Startups wird hierbei eine wesentliche Bedeutung
+zukommen; auf die Antwort zu Frage 14 wird verwiesen.
+21. Welche Ma&#223;nahmen zum Transfer von der Forschung in die Anwendung 
+sind nach Ansicht der Bundesregierung f&#252;r den
+Quantentechnologiestandort Deutschland besonders erfolgreich?
+An welchen Parametern macht die Bundesregierung diese Einsch&#228;tzung 
+fest?
+Wie haben sich die relevanten Parameter in den letzten f&#252;nf Jahren
+ver&#228;ndert?
+Besonders erfolgreich sind Ma&#223;nahmen, die stark grundlagenorientierte
+Forschungsergebnisse im Bereich der Quantentechnologien ganz unmittelbar in die 
+industrielle Anwendung &#252;berf&#252;hren. Dies geschieht u. a. durch interdisziplin&#228;re 
+Verbundforschung (Verb&#252;nde aus Unternehmen, Hochschulen sowie
+au&#223;eruniversit&#228;ren Forschungseinrichtungen), Forschungskooperationen und
+Innovationspartnerschaften. Ein besonderes Augenmerk liegt auf der F&#246;rderung von 
+Startups, die am Markt agieren und den z&#252;gigen Transfer von
+Forschungsergebnissen in die Anwendung sicherstellen. Hierbei unterst&#252;tzt die Bundesregierung 
+u. a. durch die F&#246;rderma&#223;nahme &#8222;Enabling Start-up &#8211;
+Unternehmensgr&#252;ndungen in den Quantentechnologien und der Photonik&#8220;. Weiterhin wird im Bereich 
+des Quantencomputing der unmittelbare Transfer in die Anwendung durch die 
+parallele F&#246;rderung von Forschungsprojekten zu Hard- und Software durch die 
+Bundesregierung gest&#228;rkt. Ein zentrales Erfolgskriterium f&#252;r den Transfer in 
+die Anwendung ist das finanzielle Engagement von Unternehmen sowie die 
+Mobilisierung von Venture Capital.
+22. Hat die Bundesregierung Kenntnis von geheim gehaltenen
+Forschungsoder Entwicklungsprojekten anderer Staaten oder privater Akteure im 
+Bereich der Quantentechnologie?
+Wie sch&#228;tzt die Bundesregierung das Bedrohungspotenzial geheim
+gehaltener F&amp;E im Bereich der Quantentechnologie f&#252;r Deutschland und 
+Europa etwa in Hinblick auf die technologische Souver&#228;nit&#228;t ein?
+Bereits die Angabe zur Kenntnis geheim gehaltener Forschungs- oder
+Entwicklungsprojekte anderer Staaten bzw. privater Akteure im Bereich der
+Quantentechnologie l&#228;sst R&#252;ckschl&#252;sse auf die Leistungsf&#228;higkeit bzw. das
+&#220;berwachungspotenzial zu. Daher kann die Frage einschlie&#223;lich der Unterfrage aus 
+nachfolgenden Gr&#252;nden nicht beantwortet werden:
+Die erfragten Informationen zielen im Kern auf die Offenlegung bestimmter 
+nachrichtendienstlicher Arbeitsmethoden und Vorgehensweisen im Bereich der 
+technischen Aufkl&#228;rung. Solche Arbeitsmethoden sind im Hinblick auf die 
+k&#252;nftige Erf&#252;llung des gesetzlichen Auftrags der betroffenen
+Nachrichtendienste jedoch besonders schutzw&#252;rdig &#8211; der Schutz der technischen
+Aufkl&#228;rungsf&#228;higkeiten stellt f&#252;r die Aufgabenerf&#252;llung der Nachrichtendienste einen
+&#252;berragend wichtigen Grundsatz dar. Er dient der Aufrechterhaltung der Effektivit&#228;t 
+nachrichtendienstlicher Informationsbeschaffung durch den Einsatz
+spezifischer F&#228;higkeiten und damit dem Staatswohl. Das Bekanntwerden der n&#228;heren 
+Umst&#228;nde der technischen Aufkl&#228;rungsf&#228;higkeiten, -t&#228;tigkeiten und
+Analysemethoden k&#246;nnte das Wohl des Bundes gef&#228;hrden.
+Eine zur Ver&#246;ffentlichung bestimmte Antwort der Bundesregierung auf diese 
+Fragen w&#252;rde spezifische Informationen zur T&#228;tigkeit und zu den konkreten 
+technischen F&#228;higkeiten der Sicherheitsbeh&#246;rden einem nicht eingrenzbaren 
+Personenkreis nicht nur im Inland, sondern auch im Ausland zug&#228;nglich
+machen. Dies k&#246;nnte einen Nachteil f&#252;r die wirksame Aufgabenerf&#252;llung der
+Sicherheitsbeh&#246;rden und damit f&#252;r die Interessen der Bundesrepublik
+Deutschland bedeuten. Die Fragestellungen ber&#252;hren derart schutzbed&#252;rftige
+Geheimhaltungsinteressen, dass auch ein geringf&#252;giges Risiko des Bekanntwerdens, 
+wie es auch bei einer &#220;bermittlung an die Geheimschutzstelle des Deutschen 
+Bundestages nicht ausgeschlossen werden kann, aus Staatswohlgr&#252;nden
+vermieden werden muss. Die gebotene Abw&#228;gung der Informationsrechte der
+Abgeordneten des Deutschen Bundestags mit den Sicherheitsinteressen der
+Bundesrepublik Deutschland f&#252;hrt daher zu dem Ergebnis, dass das Auskunftsrecht 
+der Abgeordneten in diesem Falle hinter den Staatswohlinteressen der
+Bundesrepublik Deutschland zur&#252;ckstehen muss.
+23. Hat die Bundesregierung die Prognose bewertet, nach der die
+Rechenleistung mit Quantencomputern doppelt exponentiell steigt (vgl. https://
+www.nature.com/articles/s41586-019-1666-5)?
+Welche Implikation hat diese prognostizierte Entwicklung auf die
+Vergabe von &#246;ffentlichen Geldern durch die Bundesregierung an
+Forschungshubs, an etablierte Unternehmen und an Start-ups?
+Die Bundesregierung nimmt keine Bewertung einzelner Publikationen von
+Forschungsgruppen und Wissenschaftlern vor. Grunds&#228;tzlich muss und wird die 
+Vergabe &#246;ffentlicher Gelder an Forschungseinrichtungen, etablierte
+Unternehmen und Startups der Dynamik des Themenfeldes Rechnung tragen.
+Konsortien werden im Wettbewerb aufgefordert werden, ihre Planungen entlang
+konkreter Systemaufbauten auszurichten; die verschiedenen Technologieans&#228;tze sollen 
+insbesondere auch bzgl. ihres Potenzials f&#252;r eine Skalierung evaluiert werden.
+24. Hat die Bundesregierung die Wettbewerbsf&#228;higkeit des
+Forschungsstandortes Deutschland beim Einreichen von Patenten zur Quantentechnologie 
+im Verh&#228;ltnis zu anderen Staaten bewertet?
+Die Bundesregierung hat keine entsprechende Bewertung vorgenommen. Eine 
+Darstellung der Patent-Aktivit&#228;ten findet sich in einer Studie der Deutschen 
+Akademie der Technikwissenschaften e.V. (acatech) zu Innovationspotenzialen 
+der Quantentechnologien der zweiten Generation.
+&#8199;a) Welche f&#252;nf Staaten sind nach Einsch&#228;tzung der Bundesregierung die 
+f&#252;nf relevantesten bei der Patentierung von Quantentechnologien?
+An welcher Stelle w&#228;re die Europ&#228;ische Union (ohne
+Gro&#223;britannien)?
+Es wird auf die Studie &#8222;Quantentechnologien &#8211; Ein internationaler Vergleich 
+bei Zahlen zu Publikationen und Patentanmeldungen&#8220; des Instituts f&#252;r
+Innovation und Technik (iit) verwiesen.
+&#8199;b) Wie bewertet die Bundesregierung analog den Anteil tats&#228;chlich 
+wirtschaftlich genutzter Patente?
+Wie wird sich das Verh&#228;ltnis und die Wettbewerbsf&#228;higkeit
+Deutschlands und der f&#252;nf relevantesten Staaten in den n&#228;chsten Jahren
+entwickeln?
+F&#252;r eine Bewertung des Anteils der tats&#228;chlich wirtschaftlich genutzten Patente 
+durch die Bundesregierung besteht keine Veranlassung. Die Entwicklung des 
+Verh&#228;ltnisses und die Wettbewerbsf&#228;higkeit Deutschlands und der f&#252;nf
+relevantesten Staaten kann nicht zuletzt aufgrund der dynamischen Entwicklungen 
+nicht prognostiziert werden. Insgesamt sch&#228;tzt die Bundesregierung aber die 
+Wettbewerbsf&#228;higkeit Deutschlands als gut ein.
+&#8199;c) Welche in Deutschland ans&#228;ssigen Firmen sind nach Wissen der 
+Bundesregierung bei der Patentierung von Quantentechnologien
+federf&#252;hrend ?
+Die Bundesregierung nimmt keine &#246;ffentliche Bewertung der &#8222;Federf&#252;hrung&#8220; 
+von Firmen bei der Patentierung von Quantentechnologien vor.
+&#8199;d) Welche Rolle spielen nach Ansicht der Bundesregierung Start-ups 
+dabei, und wie unterst&#252;tzt die Bundesregierung diese bei der
+Patentierung von Quantentechnologien?
+Hat die Bundesregierung Kenntnis von unterst&#252;tzenden Programmen 
+anderer Akteure, etwa der L&#228;nder oder von Universit&#228;ten?
+Sind der Bundesregierung private Initiativen zur Unterst&#252;tzung von 
+Start-ups bei der Patentierung von Quantentechnologien bekannt?
+Eine h&#246;here Bedeutung von Startups bei der Patentierung von
+Quantentechnologien ist aus Sicht der Bundesregierung sehr w&#252;nschenswert. Startups kommt 
+bei der Erarbeitung und Sicherung von geistigem Eigentum eine wichtige Rolle 
+zu. Dediziert im Bereich der Quantentechnologien unterst&#252;tzt das BMBF
+deshalb mit der F&#246;rderma&#223;nahme &#8222;Enabling Start-up &#8211; Unternehmensgr&#252;ndungen 
+in den Quantentechnologien und der Photonik&#8220; Unternehmensgr&#252;ndungen und 
+junge Unternehmen. Dedizierte Programme der L&#228;nder, von Hochschulen oder 
+privaten Initiativen zur Unterst&#252;tzung von Startups bei der Patentierung von 
+Quantentechnologien sind der Bundesregierung nicht bekannt.
+25. Welche in Deutschland ans&#228;ssigen Firmen sind nach Kenntnis der 
+Bundesregierung derzeit in der Lage, quantentechnologische
+Innovationen aus der Wissenschaft in die (industrielle) Anwendung zu
+transferieren?
+Welche Rolle spielen Start-ups hierbei nach Kenntnis der
+Bundesregierung?
+Im Rahmen der Projektf&#246;rderung zu den Quantentechnologien werden bereits 
+die folgenden Unternehmen in FuE-Verbundprojekten mit Partnern aus
+Wissenschaft und Wirtschaft unterst&#252;tzt.
+&#8211; AKKA DSW GmbH,
+&#8211; BALLUFF GmbH,
+&#8211; Carl Zeiss AG,
+&#8211; Covestro Deutschland AG,
+&#8211; Dausinger &amp; Giesen GmbH,
+&#8211; Diamond Materials GmbH,
+&#8211; Ecodiamond GmbH,
+&#8211; Entropy GmbH,
+&#8211; GRINTECH GmbH,
+&#8211; HighFinesse Laser and Electronic Systems GmbH,
+&#8211; HQS Quantum Simulations GmbH,
+&#8211; H&#252;bner GmbH &amp; Co. KG,
+&#8211; Infineon Technologies AG,
+&#8211; Infineon Technologies Dresden GmbH &amp; Co. KG,
+&#8211; IQM Germany GmbH,
+&#8211; Jena-Optronik GmbH,
+&#8211; kiutra GmbH,
+&#8211; LAYERTEC GmbH,
+&#8211; Menlo Systems GmbH,
+&#8211; MMT GmbH,
+&#8211; NANEO Precision IBS Coatings GmbH,
+&#8211; nano analytik GmbH,
+&#8211; Nanoscribe Solutions GmbH &amp; Co. KG,
+&#8211; NVision Imaging Technologies GmbH,
+&#8211; PicoQuanT GmbH,
+&#8211; Q.ant GmbH,
+&#8211; Qioptiq Photonics GmbH &amp; Co. KG,
+&#8211; Qubig GmbH,
+&#8211; Robert Bosch GmbH,
+&#8211; Rohde &amp; Schwarz GmbH &amp; Co. KG,
+&#8211; Sekels GmbH,
+&#8211; SpaceTech GmbH,
+&#8211; supracon AG,
+&#8211; Swabian Instruments GmbH,
+&#8211; TOPTICA Photonics AG,
+&#8211; TransMIT Gesellschaft f&#252;r Technologietransfer mbH,
+&#8211; VACOM Vakuum Komponenten &amp; Messtechnik GmbH.
+Die Bundesregierung steht dar&#252;ber hinaus in engem Austausch mit der
+Industrie, nimmt aber keine &#246;ffentliche Bewertung von Kompetenzen und
+Leistungsf&#228;higkeit einzelner Unternehmen vor. Zu Startups wird auf die Antworten zu 
+den Fragen 14 und 20 verwiesen.
+26. Sind der Bundesregierung Organisationen bekannt, die &#8222;die Entwicklung 
+von Quantencomputern ganzheitlich angehen und mit den Akteuren aus 
+den USA bzw. China auf Augenh&#246;he agieren&#8220; k&#246;nnen (vgl. https://backg
+round.tagesspiegel.de/digitalisierung/roadmap-quantencomputing-
+neueorganisation-und-strukturen-angedacht), oder teilt die Bundesregierung 
+die in der Quelle zitierte Sichtweise, dass es diese F&#228;higkeiten in Europa 
+derzeit nicht gibt?
+Die Bundesregierung setzt im Rahmen der Umsetzung des Konjunktur- und 
+Zukunftspakets auf eine Kooperation von Forschungseinrichtungen und
+Unternehmen, um die B&#252;ndelung von Expertise in Konsortien und den Aufbau eines 
+leistungsf&#228;higen Innovations&#246;kosystems zu erm&#246;glichen.
+27. Wie sind Deutschland und die Europ&#228;ische Union nach Einsch&#228;tzung der 
+Bundesregierung bei der Verf&#252;gbarkeit von Venture Capital f&#252;r
+Quantentechnologien aufgestellt (vgl. https://www.handelsblatt.com/meinung/gas
+tbeitraege/gastkommentar-europa-braucht-einen-eigenen-quantencomput
+er-tut-dafuer-aber-nicht-genug/25219340.html?ticket=ST-8024378-SJ9E
+R3jdvR3yToj10zoA-ap1)?
+Die Bundesregierung f&#246;rdert die Finanzierung von Startups mit einer Reihe von 
+Instrumenten und arbeitet dabei eng mit Institutionen der Europ&#228;ischen Union, 
+wie dem Europ&#228;ischen Investitionsfonds (EIF), zusammen. Die Instrumente der 
+Bundesregierung zur F&#246;rderung der Wagniskapitalinvestitionen in Deutschland 
+sind auch aufgrund EU-beihilferechtlicher Vorgaben branchen- und
+technologieoffen ausgestaltet. Daher definiert die Bundesregierung bei der
+Ausgestaltung der Instrumentarien zur Wagniskapitalfinanzierung keine besonders
+f&#246;rderw&#252;rdigen Bereiche. Die F&#246;rderung erfolgt u. a. mittelbar &#252;ber Dachfonds 
+wie den ERP/EIF-Dachfonds oder das ERP-Venture Capital
+Fondsinvestmentprogramm der KfW Capital, die sich an privaten Wagniskapitalfonds
+beteiligen, sowie unmittelbar &#252;ber &#246;ffentliche Fonds wie den High-Tech
+Gr&#252;nderfonds oder coparion, die direkt in Startups investieren. Grunds&#228;tzlich
+adressieren diese Instrumente s&#228;mtliche Zukunftstechnologien, so auch die
+Quantentechnologie. Ferner wurden 10 Mrd. Euro f&#252;r einen Beteiligungsfonds f&#252;r
+Zukunftstechnologien (Zukunftsfonds) bei der Kreditanstalt f&#252;r Wiederaufbau 
+(KfW) ab dem Haushaltsjahr 2021 bereitgestellt. Das Gesamtvolumen des
+Zukunftsfonds wird zusammen mit den Beitr&#228;gen privater und &#246;ffentlicher Partner 
+voraussichtlich mindestens 30 Mrd. Euro betragen. Der Zukunftsfonds wird 
+Startups verst&#228;rkt die M&#246;glichkeit bieten, &#252;ber alle Phasen ihrer
+Unternehmensentwicklung in und &#252;ber Deutschland hinaus zu wachsen sowie neue
+Investorengruppen, wie institutionelle Investoren (z. B. Versicherungen und
+Pensionskassen), an den deutschen Venture Capital-Markt heranf&#252;hren. Ein Modul des 
+Zukunftsfonds wird der sogenannte Deep-Tech-Future-Fonds mit einem
+Volumen von bis zu 1 Mrd. Euro sein, welcher das Finanzierungsangebot
+insbesondere f&#252;r Technologien mit langen Entwicklungs- und Wachstumszeitr&#228;umen
+erg&#228;nzt. Hiermit kann ein erheblicher Mehrwert u. a. auch f&#252;r den Bereich der 
+Quantentechnologie mit oftmals langen Entwicklungszyklen von den
+Grundlagen bis zur Marktreife geschaffen werden.
+28. Wird nach Kenntnis der Bundesregierung der Bereich
+Quantentechnologie im vom Bundesminister f&#252;r Wirtschaft und Energie Peter Altmaier 
+mit vorangetriebenen Projekt Gaia-X ber&#252;cksichtig?
+a) Strebt die Bundesregierung an, die beiden von ihr zu beauftragen
+geplanten Quantencomputer &#252;ber einen im Rahmen von Gaia-X
+festgelegten Cloud-Standard cloudf&#228;hig zu machen?
+b) Welche Akteure und Institutionen sollen nach Meinung der
+Bundesregierung in dem Fall berechtigten Cloud-Zugriff auf die
+Quantencomputer haben?
+Wird der Zugriff kostenfrei, kostendeckend oder unter einem anderen 
+Vermarktungsmodell erfolgen?
+c) Wird der im Rahmen einer Kooperation von IBM und dem
+Fraunhofer IAF betriebene Quantencomputer &#8222;System Q&#8220; nach Kenntnis 
+der Bundesregierung &#8222;Gaia-X-ready&#8220; sein, oder ist das geplant (vgl. 
+https://background.tagesspiegel.de/digitalisierung/roadmap-quantenc
+omputing-neue-organisation-und-strukturen-angedacht)?
+Die Fragen 28 bis 28c werden im Zusammenhang beantwortet.
+Die Entwicklung von Quantencomputern in klassischen Rechner- und
+Netzstrukturen ist noch wissenschaftlich, technisch und &#246;konomisch zu kl&#228;ren.
+29. Wie sch&#228;tzt die Bundesregierung Deutschlands F&#228;higkeiten bei
+Ausbildung oder Anwerbung von Fachkr&#228;ften mit f&#252;r Quantentechnologien 
+relevanten F&#228;higkeiten ein?
+a) Ist ein &#228;hnliches Szenario wie beim Mangel an IT-Fachkr&#228;ften
+absehbar (vgl. https://www.bitkom.org/Presse/Presseinformation/Erstmals-
+mehr-als-100000-unbesetzte-Stellen-fuer-IT-Experten#item-565
+6--2)?
+Die Fragen 29 und 29a werden im Zusammenhang beantwortet.
+Deutschland ist im Bereich der Grundlagenforschung zu den
+Quantentechnologien hervorragend aufgestellt. Zahlreiche Hochschulen sind im Themenfeld 
+aktiv und bilden Absolventinnen und Absolventen aus. Aufgrund ihrer
+Forschungsst&#228;rke sind entsprechende Arbeitsgruppen auch attraktiv f&#252;r
+ausl&#228;ndische Studierende. Die Bundesregierung sch&#228;tzt die F&#228;higkeiten bei Ausbildung 
+oder Anwerbung von Fachkr&#228;ften mit f&#252;r Quantentechnologien relevanten
+F&#228;higkeiten als hoch ein. Insbesondere bei wichtigen Technologien zur
+Realisierung quantentechnologischer Anwendungen wie Mikroelektronik,
+Nanotechnologie und Supraleitung sind Forschung und Industrie in Deutschland gut
+aufgestellt.
+&#8199;b) Ist der Saldo der Migration von Fachkr&#228;ften mit f&#252;r
+Quantentechnologien relevantem Hintergrund nach Wissen der Bundesregierung f&#252;r 
+Deutschland positiv oder negativ?
+Wie hat sich die Zahl nach Kenntnis der Bundesregierung in den
+letzten f&#252;nf Jahren entwickelt?
+Wie wird sich die Zahl nach Einsch&#228;tzung der Bundesregierung in 
+den kommenden Jahren entwickeln?
+Zum Saldo der Migration von Fachkr&#228;ften mit f&#252;r Quantentechnologien
+relevantem Hintergrund liegen der Bundesregierung keine Erkenntnisse vor.
+&#8199;c) Welche Kenntnis hat die Bundesregierung dar&#252;ber, wie viele
+Fachkr&#228;fte in welche Staaten bzw. aus welchen Staaten nach Deutschland 
+migrieren?
+Der Bundesregierung liegen hierzu keine Erkenntnisse vor.
+&#8199;d) Welche Firmen bauen nach Kenntnis der Bundesregierung in 
+Deutschland derzeit Arbeitspl&#228;tze im Bereich Quantentechnologie 
+auf?
+Welche speziell im Bereich Quantencomputing?
+Wie viele internationale Talente wurden bereits f&#252;r die Arbeit in 
+Deutschland geworben?
+Welchen Anteil daran haben nach Kenntnis der Bundesregierung 
+Start-ups ?
+&#8199;e) Welche Firmen und Start-ups sind nach Kenntnis der
+Bundesregierung aktiv in der Ausbildung von Fachkr&#228;ften (z. B. auch durch das 
+Anbieten von Promotionsstellen in der Industrie)?
+Die Fragen 29d und 29e werden im Zusammenhang beantwortet.
+In die interne Personalplanung von Unternehmen hat die Bundesregierung
+keinen Einblick. Nach Kenntnis der Bundesregierung bauen eine Reihe von
+Unternehmen (einschlie&#223;lich Startups) aus den Bereichen Elektrotechnik
+(einschlie&#223;lich Mikroelektronik), Maschinen- und Anlagenbau sowie Photonik
+Arbeitspl&#228;tze im Bereich Quantentechnologie auf. Dies gilt auch hinsichtlich der
+Ausbildung von Fachkr&#228;ften. Eine statistische Erfassung dieser Arbeitspl&#228;tze
+erfolgt nicht.
+&#8199;f) Welche Ma&#223;nahmen der Bundesregierung zielen darauf ab, dass sich 
+der Mangel an IT-Fachkr&#228;ften nicht negativ auf die F&#228;higkeiten 
+Deutschlands im Bereich der Quantentechnologien auswirkt?
+Die Bundesregierung bedient sich diverser F&#246;rderinstrumente wie
+Projektf&#246;rderungen, dem Aufbau von Kompetenzzentren und der Unterst&#252;tzung durch
+Einrichtungen der au&#223;eruniversit&#228;ren Forschung. Die wichtigste Ma&#223;nahme ist die 
+fr&#252;hzeitige Kooperation von Hochschulen und Forschungseinrichtungen im 
+Rahmen der Verbundforschung. Komplement&#228;r dazu setzt die laufende BMBF-
+F&#246;rderma&#223;nahme &#8222;Quantum aktiv &#8211; intuitive Outreachkonzepte f&#252;r die
+Quantentechnologien&#8220; darauf, Quantentechnologien m&#246;glichst vielen Menschen 
+fr&#252;hzeitig n&#228;herzubringen und begreifbar zu machen. Gef&#246;rderte Projekte
+adressieren u. a. die Einf&#252;hrung in die Quantentechnologien in der Schule, in der 
+Berufsqualifikation und in Wissenschaftsmuseen. In der Umsetzung des
+Konjunktur- und Zukunftspakets plant das BMBF zudem u. a. Ausbildungs- bzw. 
+Studienmodule in Kooperation von Hochschulen mit Unternehmen.
+Ein weiteres Instrument der Fachkr&#228;ftesicherung ist auch die Einwanderung 
+qualifizierter Fachkr&#228;fte aus dem europ&#228;ischen und nicht-europ&#228;ischen
+Ausland. Um dieses Element der 2018 von der Bundesregierung beschlossenen 
+Fachkr&#228;ftestrategie zu st&#228;rken, hat der Gesetzgeber das
+Fachkr&#228;fteeinwanderungsgesetz beschlossen, welches am 1. M&#228;rz 2020 in Kraft getreten ist. Durch 
+das Fachkr&#228;fteeinwanderungsgesetz k&#246;nnen insbesondere qualifizierte
+Fachkr&#228;fte aus Drittstaaten mit beruflicher Ausbildung zu Arbeitszwecken leichter 
+nach Deutschland einwandern. Zudem ist in dem Gesetz ber&#252;cksichtigt, dass 
+im IT-Bereich die Gewinnung von Quereinsteigern von besonderer Bedeutung 
+sind. Personen mit Arbeitserfahrung im IT-Bereich k&#246;nnen eine
+Aufenthaltserlaubnis auch ohne formale Qualifikation erhalten, sofern in den
+zur&#252;ckliegenden sieben Jahren mindestens drei Jahre Berufserfahrung in einer
+vergleichbaren Qualifikation belegt werden k&#246;nnen. F&#252;r die gezielte Ansprache von IT-
+Fachkr&#228;ften wurde u. a. auf dem zentralen Informationsportal der
+Bundesregierung f&#252;r die Fachkr&#228;ftezuwanderung &#8222;Make it in Germany&#8220; ein spezifisches
+Informationsangebot geschaffen, das durch Online-Werbeschaltungen in
+geeigneten Ziell&#228;ndern unterst&#252;tzt wird. Zudem hat das Kompetenzzentrum
+Fachkr&#228;ftesicherung (KOFA) im Dezember 2020 eine Studie mit dem Titel &#8222;Die
+Fachkr&#228;ftesituation in IT-Berufen und Potentiale der Zuwanderung&#8220; ver&#246;ffentlicht 
+und darin konkrete Handlungsempfehlungen f&#252;r Unternehmen in Bezug auf die 
+Rekrutierung von IT-Fachkr&#228;ften aufgezeigt.
+30. Welche M&#246;glichkeiten zur Aus- und Weiterbildung von Informatikern 
+und Ingenieuren f&#252;r eine Arbeit im Bereich der Quantentechnologien
+f&#246;rdert die Bundesregierung?
+Hat die Bundesregierung Kenntnis von derartigen Projekten der L&#228;nder 
+(wenn ja, bitte auflisten)?
+M&#246;glichkeiten zur Aus- und Weiterbildung von Informatikern und Ingenieuren 
+f&#252;r eine Arbeit im Bereich der Quantentechnologien bietet u. a. die
+interdisziplin&#228;re Zusammenarbeit in der Verbundforschung. Dar&#252;ber hinaus f&#246;rdert das
+BMBF bereits wissenschaftliche Nachwuchsgruppen in den
+Quantentechnologien (Nachwuchswettbewerb &#8222;Quantum Futur&#8220;).
+Zu dedizierten Projekten der L&#228;nder zur Aus- und Weiterbildung von
+Informatikern und Ingenieuren f&#252;r eine Arbeit im Bereich der Quantentechnologien 
+&#252;ber allgemeine Kooperationen von Forschungseinrichtungen und
+Unternehmen im Rahmen bestehender Einrichtungen hinaus liegen der Bundesregierung 
+keine Erkenntnisse vor.
+31. Mit welchen Ma&#223;nahmen f&#246;rdert die Bundesregierung gezielt
+Aktivit&#228;ten in der Quantentechnologieberatung?
+a) Wie viele Unternehmen bieten nach Kenntnis der Bundesregierung 
+Quantentechnologieberatung in Deutschland an?
+b) Welche Qualifikationen bzw. welchen Bildungshintergrund haben die 
+in Deutschland t&#228;tigen Quantentechnologieberater?
+Die Fragen 31 bis 31b werden im Zusammenhang beantwortet.
+Die Bundesregierung f&#246;rdert gegenw&#228;rtig keine allgemeinen und
+&#252;bergreifenden Aktivit&#228;ten in der Quantentechnologieberatung. Erkenntnisse zur Anzahl 
+beratender Unternehmen und Qualifikationen von in Deutschland t&#228;tigen
+Quantentechnologieberatern liegen nicht vor.
+Spezielle Beratungen etwa zur Quantenmetrologie, Quantensensorik und
+Quantenkommunikation geschehen auch durch die Physikalisch-Technische
+Bundesanstalt (PTB) und das Deutsche Zentrum f&#252;r Luft- und Raumfahrt e.V. (DLR). 
+Die entsprechenden Mitarbeiter der PTB bzw. des DLR haben in der Regel ein 
+abgeschlossenes Hochschulstudium der Physik oder einer
+ingenieurwissenschaftlichen Richtung.
+32. Mit welchen Ma&#223;nahmen f&#246;rdert die Bundesregierung gezielt die
+Softwareentwicklung f&#252;r Quantencomputer in Deutschland?
+Neben der Entwicklung von eigener Hardware liegt f&#252;r den Wirtschaftsstandort 
+Deutschland mit starkem produzierendem Gewerbe in der Nutzung der
+Quantencomputer ein entscheidender Teil der Wertsch&#246;pfung. Vor diesem
+Hintergrund hat das BMBF bereits eine F&#246;rderma&#223;nahme gestartet, die gezielt die 
+Softwareentwicklung f&#252;r Quantencomputer in Deutschland adressiert:
+&#8222;Quanteninformatik &#8211; Algorithmen, Software, Anwendungen&#8220;. Erste Projektstarts 
+sind erfolgt. Im Verantwortungsbereich des BMWi l&#228;uft zudem das Projekt 
+&#8222;PlanQK &#8211; Plattform und &#214;kosystem f&#252;r Quantenunterst&#252;tzte K&#252;nstliche
+Intelligenz&#8220;.
+&#8199;a) Wie viele Softwareentwickler oder Programmierer f&#252;r auf
+Quantencomputern nutzbare Software gibt es nach Kenntnis der
+Bundesregierung in Deutschland?
+Wie hat sich die Zahl in den letzten f&#252;nf Jahren entwickelt?
+Ist das nach Einsch&#228;tzung der Bundesregierung eine auch im
+Verh&#228;ltnis zur Nachfrage ausreichende Anzahl?
+Wenn nein, welche Anzahl w&#228;re nach Einsch&#228;tzung der
+Bundesregierung im Verh&#228;ltnis zur Nachfrage in Deutschland erforderlich?
+Der Bundesregierung liegen hierzu keine Erkenntnisse vor.
+&#8199;b) Welche Ma&#223;nahmen zur Erreichung dieser Anzahl plant die
+Bundesregierung?
+Das BMWi tr&#228;gt im Rahmen des gef&#246;rderten Plattformprojekts &#8222;PlanQK &#8211; 
+Plattform und &#214;kosystem f&#252;r Quantenunterst&#252;tzte K&#252;nstliche Intelligenz&#8220; zur 
+Identifikation von Quantencomputer-Anwendungen sowie zur Entwicklung und 
+Bereitstellung von Software f&#252;r die Programmierung von Quantencomputern 
+bei. Nach eigener Aussage ist PlanQK derzeit das gr&#246;&#223;te Community-bildende 
+Vorhaben in Deutschland, das die Software- und die Anwenderseite bei
+Quantencomputern unter Beteiligung ma&#223;geblicher Partner aus Industrie und
+Wissenschaft abbildet.
+33. Wie viele in Deutschland ans&#228;ssige Firmen sind nach Kenntnis der 
+Bundesregierung derzeit in der Lage, einen Quantencomputer zu bauen 
+oder als Systemintegrator zu dienen?
+Welche sind das nach Kenntnis der Bundesregierung?
+In Europa gibt es zurzeit kein etabliertes Unternehmen, das die
+Systemintegration adressiert. Dies ist nicht allein eine Frage der erforderlichen Expertise, 
+sondern vor allem auch eine unternehmerische Entscheidung. Grunds&#228;tzlich 
+verf&#252;gen mehrere Firmen in Deutschland &#252;ber wesentliches Know-how, das &#8211; 
+im Rahmen von Kooperationen mit Forschungseinrichtungen und weiteren
+Unternehmen &#8211; eine hinreichende Basis f&#252;r die Systemintegration bilden k&#246;nnte. 
+Zu diesen geh&#246;ren sowohl etablierte Unternehmen als auch Startups.
+34. Wie sch&#228;tzt die Bundesregierung die Zulieferindustrie f&#252;r
+Quantentechnologien in Deutschland ein?
+Die Quantentechnologien &#8211; Sensorik, Kommunikation und Computing &#8211;
+basieren auf der Ausnutzung und Kontrolle einzelner Quantenzust&#228;nde. Dazu
+werden Basiskomponenten wie Laser, Materialien oder K&#252;hltechniken ben&#246;tigt. In 
+Deutschland hat sich hier bereits eine Zuliefererindustrie aufgestellt. Sie nimmt 
+auf dem internationalen Markt eine f&#252;hrende Rolle ein. Diese
+Zuliefererindustrie ist nach Kenntnis der Bundesregierung sehr gut aufgestellt und verf&#252;gt &#252;ber 
+aussichtsreiche Chancen am k&#252;nftigen Markt.
+&#8199;a) Welche Ma&#223;nahmen zum Aufbau f&#252;hrt die Bundesregierung aus?
+Welche Ma&#223;nahmen sind in Planung?
+Die Bundesregierung bedient sich diverser F&#246;rderinstrumente wie
+Projektf&#246;rderungen, dem Aufbau von Kompetenzzentren und der Unterst&#252;tzung durch
+Einrichtungen der au&#223;eruniversit&#228;ren Forschung. Beispielsweise hat das BMBF, 
+um die Kooperation zu st&#228;rken, bereits 2017 die F&#246;rderma&#223;nahme
+&#8222;Schl&#252;sselkomponenten f&#252;r die Quantentechnologien&#8220; gestartet.
+&#8199;b) Welche Standorte sind nach Kenntnis der Bundesregierung
+aussichtsreich f&#252;r Quantentechnologie-Cluster aus Wissenschaft und
+Wirtschaft inklusive Zulieferern und Entwicklern von Software?
+Aus Sicht der Bundesregierung weisen mehrere Standorte/Regionen hohe 
+Kompetenzen im Bereich Quantentechnologien auf. Im Vorfeld des
+wettbewerblichen Verfahrens zur Vergabe der Mittel aus dem Konjunktur- und
+Zukunftspaket kann die Bundesregierung einzelne Standorte aufgrund ggf.
+pr&#228;judizierender Wirkung nicht benennen.
+35. Wie ist Deutschland nach Einsch&#228;tzung der Bundesregierung bei der
+Absch&#228;tzung von Dual-Use-Potenzialen durch Fortschritte in der
+Quantentechnologie insgesamt und bei einzelnen Bauteilen aufgestellt?
+Wie viele Experten sind damit befasst?
+Wie viele h&#228;lt die Bundesregierung in Zukunft f&#252;r erforderlich?
+Neue Technologien er&#246;ffnen unabh&#228;ngig von den jeweiligen Fachgebieten 
+grunds&#228;tzlich immer sog. Dual-Use-Potenziale, auch bei den
+Quantentechnologien und dem Quantencomputing. So k&#246;nnen neue quantentechnologische
+Verfahren mit zum Teil offenen Standards f&#252;r die Absicherung der
+Kommunikation, in der Materialforschung, in der Erdbeobachtung oder im Bereich von 
+Verschl&#252;sselung sowohl zivil als auch milit&#228;risch genutzt werden.
+Die physikalischen L&#246;sungen, die zurzeit erforscht werden, bieten unabh&#228;ngig 
+von bereits angedachten Verwendungen (wie Quantum Key Distribution)
+weitere Potentiale. Die Identifizierung von weiteren Einsatzm&#246;glichkeiten &#8211; auch 
+im IT-Sicherheitsbereich &#8211; ist ein offenes Forschungsthema.
+Die wehrtechnische Forschung im Gesch&#228;ftsbereich des Bundesministeriums 
+der Verteidigung (BMVg) zielt dabei explizit auf die milit&#228;rische
+Verwendbarkeit dieser Technologien, wobei die Erkenntnisse, die bei dieser Forschung
+gewonnen werden, auch zur Absch&#228;tzung der Dual-Use-Potenziale dieser
+Technologien beitragen. Im Bereich der universit&#228;ren Forschung im
+Gesch&#228;ftsbereich des BMVg betreibt dar&#252;ber hinaus das Forschungsinstitut CODE an der 
+Universit&#228;t der Bundeswehr M&#252;nchen Grundlagenforschung in den Bereichen 
+Quantencomputing, Quantenkommunikation und Postquantenkryptographie.
+Die Bundesregierung ist damit hinsichtlich der Absch&#228;tzung der Dual-Use-
+Potenziale von Quantentechnologien gut aufgestellt.
+Im &#220;brigen f&#252;hrt die Bundesregierung keine statistischen Unterlagen zu
+Expertinnen und Experten im Bereich der Quantentechnologien.
+36. Sollen Quantencomputer in Deutschland in sog. Supercomputing Center 
+integriert werden, und wenn ja, in welche?
+Wenn nein, welche &#220;berlegungen sprechen nach Ansicht der
+Bundesregierung dagegen?
+Der geplante Wettbewerb zur Entwicklung und zum Aufbau von
+Quantencomputern sieht vor, dass Prototypen m&#246;glichst schnell f&#252;r
+Anwendungsuntersuchungen verf&#252;gbar gemacht werden. Dies legt die Integration in ein
+bestehendes IT-Forschungsumfeld nahe. Insbesondere sollen die Quantencomputer in
+einer Weise an eine Cloud angebunden sein, die einen umfassenden Zugriff f&#252;r 
+Anwender sowie die M&#246;glichkeit eines hybriden High Performance
+Computing/Quantencomputing (HPC/QC)-Betriebs vorsieht. Eine &#246;rtliche Anbindung 
+an ein &#8222;Supercomputing Center&#8220; ist dabei keine notwendige Voraussetzung. Im 
+Rahmen der europ&#228;ischen Partnerschaft &#8222;Gemeinsames Unternehmen Euro
+HPC&#8220; wird aktuell die Integration eines Quantensimulators in ein HPC-System 
+am FZJ vorbereitet.
+37. Wurde die in der Antwort der Bundesregierung auf die Kleine Anfrage 
+auf Bundestagsdrucksache 19/18355 f&#252;r Ende 2020 angek&#252;ndigte
+quantengesicherte Videokonferenz auf einer Demonstrationsstrecke zwischen 
+dem BMBF und einer weiteren Bundesbeh&#246;rde realisiert?
+a) Wenn ja, zwischen welchen Beh&#246;rden wurde die Konferenz gef&#252;hrt?
+b) Wenn nein, was sind die Gr&#252;nde f&#252;r die Verz&#246;gerung, und wann ist 
+die Konferenz geplant?
+c) Welchen weiteren Entwicklungsbedarf sieht die Bundesregierung
+davon ausgehend f&#252;r das Projekt QuNET-alpha?
+Welchen Zeitplan verfolgt die Bundesregierung?
+Welche Meilensteine sollen noch in dieser Legislaturperiode erreicht 
+werden?
+Die Fragen 37 bis 37c werden im Zusammenhang beantwortet.
+Das Projekt hat s&#228;mtliche Voraussetzungen geschaffen. Der Aufbau der 
+Demonstrationsstrecke konnte pandemiebedingt noch nicht erfolgen. In einer 
+Pressekonferenz am 2. Dezember 2020 stellten Frau Bundesministerin 
+Karliczek und die an QuNET beteiligten Forschungseinrichtungen den
+aktuellen Stand der Forschung vor. Die Durchf&#252;hrung der quantengesicherten 
+Videokonferenz zwischen dem BMBF und dem Bundesamt f&#252;r Sicherheit in 
+der Informationstechnik (BSI) in Bonn ist nun f&#252;r Mitte des Jahres 2021
+vorgesehen.
+Mit der Demonstration der quantengesicherten Videokonferenz wird QuNET-
+alpha seine Projektziele erreichen. QuNET-alpha ist in die F&#246;rderinitiative 
+QuNET eingebettet, die darauf abzielt, bis Ende 2026 die Technologien f&#252;r 
+quantensichere Netzwerke anhand verschiedener Anwendungsszenarien und 
+Schl&#252;sselexperimenten zu entwickeln. Die zweite Projektphase, QuNET-beta, 
+konnte im Rahmen einer ersten, bereits zur Verf&#252;gung gestellten Tranche aus 
+Ziffer 44 des Konjunktur- und Zukunftspakets bewilligt werden. Die
+Bewilligung zus&#228;tzlicher Industriebeteiligung und der 3. Projektphase sind aus
+weiteren Tranchen geplant. Bis zum Ende der Legislaturperiode werden weitere 
+Schl&#252;sselexperimente im Rahmen von QuNET-beta f&#252;r das Jahr 2022
+vorbereitet.
+38. F&#246;rdert oder betreibt die Bundesregierung selbst derzeit Projekte oder 
+plant sie, Projekte zu f&#246;rdern oder selbst zu betreiben, die, vergleichbar 
+zu von ihr geforderten sog. back doors in derzeitiger E2EE (vgl. https://w
+ww.tagesschau.de/inland/eu-messenger-sicherheit-101.html), das Ziel 
+haben, quantenverschl&#252;sselte Kommunikation f&#252;r staatliche
+Sicherheitsbeh&#246;rden (mit-)lesbar oder anders verf&#252;gbar zu machen?
+Die Bundesregierung hat sich bereits im Jahr 1999 mit dem Kabinettbeschluss 
+&#8222;Eckpunkte der deutschen Kryptopolitik&#8220; gegen jegliche Schw&#228;chung,
+Modifikation oder Verbot von Verschl&#252;sselung oder ein Kompromittieren von
+Sicherheitsstandards der digitalen Kommunikation bekannt. Dies hat weiterhin
+Bestand. Aus diesem Grund f&#246;rdert die Bundesregierung Forschungsvorhaben, 
+um quantencomputerresistente Kryptografie und Quantenkommunikation zur 
+Anwendungsreife zu bringen und langfristig den Schutz von Daten im Sinne 
+von Gemeinwohl und Grundrechtsschutz zu gew&#228;hrleisten.
+Durch die Verbreitung starker Verschl&#252;sselungsverfahren d&#252;rfen die
+gesetzlichen Befugnisse der Strafverfolgungs- und Sicherheitsbeh&#246;rden nicht
+ausgeh&#246;hlt werden. Diese Beh&#246;rden m&#252;ssen unter strengen gesetzlichen
+Voraussetzungen befugt und in der Lage sein, verschl&#252;sselte Kommunikation in
+Einzelf&#228;llen zu entschl&#252;sseln oder zu umgehen, wenn dies zur Aufkl&#228;rung schwerster
+Straftaten oder zum Schutz der Bev&#246;lkerung vor gro&#223;en Gefahren notwendig 
+ist. Das steht auch nicht im Widerspruch zum Ziel der Bundesregierung aus
+der Digitalen Agenda von 2014, Deutschland zum &#8222;Verschl&#252;sselungsstandort 
+Nr. 1&#8220; weiter auszubauen.
+39. Welche Rolle spielt die Bundesregierung bei der Gr&#252;ndung einer sog. 
+Deutschen Quantengemeinschaft (DQG)?
+Wie verteilt sich die Verantwortung zur Zusammenarbeit und zum
+Kontakthalten &#252;ber die Ressorts der Bundesregierung?
+Wie unterscheidet sich die deutsche Dachorganisation von Aktivit&#228;ten 
+auf europ&#228;ischer Ebene etwa des Strategic Advisory Board (vgl. https://
+qt.eu/about-quantum-flagship/introduction-to-the-quantum-flagship/sab-s
+trategic-advisory-board/) oder dem Quantum Industry Consortium (vgl. 
+https://qt.eu/about-quantum-flagship/the-quantum-flagship-community/
+quic/)?
+a) Schlie&#223;t sich die Bundesregierung der Prognose des
+Bundesministeriums f&#252;r Wirtschaft und Energie an, dass die Gr&#252;ndung einer
+solchen Gesellschaft konflikttr&#228;chtig ist und lange dauern wird (vgl. 
+https://background.tagesspiegel.de/digitalisierung/roadmap-quantenc
+omputing-moonshot-oder-mutlos)?
+b) Wie sehen die n&#228;chsten Schritte der Bundesregierung zur Gr&#252;ndung 
+der Dachorganisation aus?
+Wie sieht der Zeitplan der Bundesregierung dazu aus?
+c) Gab oder gibt es in der Bundesregierung &#220;berlegungen, von der 
+Gr&#252;ndung abzusehen?
+Die Fragen 39 bis 39c werden im Zusammenhang beatwortet.
+Die Abstimmungen zwischen den beteiligten Ressorts bez&#252;glich einer
+&#8222;Governance&#8220; f&#252;r die Ma&#223;nahmen zur Umsetzung des Konjunktur- und
+Zukunftspakets dauern noch an, Festlegungen sind noch nicht erfolgt.
+40. Wie stellt die Bundesregierung sicher, dass ihre Roadmap
+Quantentechnologie m&#246;glichst effizient Synergien mit der &#8222;mission to lead on
+supercomputing&#8220; (vgl. https://ec.europa.eu/commission/presscorner/detail/en/
+ip_20_1592) der Europ&#228;ischen Union erzielt?
+Bei der Roadmap Quantencomputing handelt es sich um
+Handlungsempfehlungen des Expertenrates Quantencomputing, die derzeit durch die
+Bundesregierung ausgewertet werden. Die zitierte Pressemitteilung bezieht sich auf die 
+Fortsetzung und den Ausbau der europ&#228;ischen Partnerschaft &#8222;Gemeinsames 
+Unternehmen EuroHPC&#8220; (EuroHPC Joint Undertaking). EuroHPC wurde im 
+Oktober 2018 gegr&#252;ndet. Es b&#252;ndelt Ressourcen der EU, der teilnehmenden 
+L&#228;nder und privater Partner im Bereich des Hoch- und
+H&#246;chstleistungsrechnens. Im Rahmen der geplanten Fortsetzung ab Mitte 2021 strebt die
+Europ&#228;ische Kommission ein Budget von bis zu 8 Mrd. Euro f&#252;r die n&#228;chste
+Generation von H&#246;chstleitungsrechnern an. Neben sogenannten Exascale-
+Supercomputern wird EuroHPC auch die Beschaffung von Quantencomputern und 
+Hybridcomputern adressieren. Forschungs- und Entwicklungsarbeiten zu den 
+Basistechnologien f&#252;r das Quantencomputing werden auf europ&#228;ischer Ebene 
+unter anderem im FuE-Projekt Quantum-Flagship durchgef&#252;hrt. Deutschland 
+ist ein f&#252;hrender Partner bei EuroHPC. Eine effiziente Nutzung von Synergien 
+zu den geplanten nationalen Ma&#223;nahmen im Bereich des Quantencomputing 
+wird dadurch sichergestellt.
+41. Strebt die Bundesregierung im Rahmen ihrer Quantentechnologiepolitik 
+eine enge Abstimmung mit den Programmen europ&#228;ischer Partnerl&#228;nder, 
+beispielsweise im Rahmen der oben genannten Initiative Frankreichs, 
+an?
+Die Bundesregierung strebt zur St&#228;rkung der technologischen Souver&#228;nit&#228;t eine 
+kontinuierliche Abstimmung von nationalen Ma&#223;nahmen mit Initiativen der 
+EU sowie Programmen europ&#228;ischer Partnerl&#228;nder an. Auf Ebene der EU
+erfolgt die Abstimmung durch die Beteiligung Deutschlands an Initiativen zu den 
+Quantentechnologien (EuroHPC: vgl. Antwort zu Frage 40; EuroQCI: vgl.
+Antworten zu den Fragen 16 und 45; Quantum Flagship: Board of Funders). In
+entsprechenden Gremien tauschen die Mitgliedsstaaten auch Informationen zu 
+nationalen Programmen aus.
+42. Mit welchen politischen Ma&#223;nahmen tr&#228;gt die Bundesregierung bereits 
+zum Erfolg des &#8222;Quantum Flagship&#8220; der Europ&#228;ischen Union bei?
+Die Bundesregierung hat sich bei der Europ&#228;ischen Kommission f&#252;r die
+Einrichtung des Quantum Flagships im Forschungsrahmenprogramm Horizont 
+2020 eingesetzt. Aktuell setzt sie sich in der Ratsarbeitsgruppe Forschung, im 
+Gremium &#8222;Shadow Thematic configuration of the Horizon Europe Programme 
+Committee for Cluster Digital Industry and Space&#8220; sowie im Board of Funders 
+des Flagships f&#252;r die Fortf&#252;hrung der Initiative und die Ausweitung der
+Aktivit&#228;ten zum Themenfeld im neuen Forschungsrahmenprogramm Horizont Europa 
+ein. Politische Unterst&#252;tzung erhielt die Initiative zudem durch die aktive
+Teilnahme des BMBF an allen gro&#223;en Veranstaltungen des Quantum Flagships 
+(2018 &#8222;Kickoff&#8220; Wien, 2019 &#8222;Exploring and Making Quantum Technology&#8220; 
+Helsinki, 2020 &#8222;European Quantum Week&#8220; Hybrid-Event Berlin).
+43. Welche Unterst&#252;tzung bietet die Bundesregierung Antragstellern aus 
+Deutschland bei der Beantragung von EU-F&#246;rdermitteln f&#252;r
+Quantentechnologien (etwa f&#252;r Mittel des European Research Council)?
+a) Wie gro&#223; war die Nachfrage nach den verschiedenen Arten der
+Unterst&#252;tzung, wie viele Antragsteller wurden erreicht, und wie viele 
+F&#246;rdermittel konnten in der Folge eingeworben werden (bitte f&#252;r die 
+letzten Jahre nach Jahr und unterst&#252;tzender Ma&#223;nahme
+aufschl&#252;sseln)?
+b) Welche weiteren Unterst&#252;tzungsleistungen plant die
+Bundesregierung?
+Die Fragen 43 bis 43b werden im Zusammenhang beantwortet.
+Die Bundesregierung unterst&#252;tzt Antragsteller, die sich beispielsweise mit 
+Quantentechnologie-Themen um eine EU-F&#246;rderung bewerben wollen, durch 
+ihre Nationalen Kontaktstellen zum EU Programm Horizont Europa (ab 2021) 
+bzw. Horizont 2020 (2014 bis 2020). Zum Aufgabenspektrum der Nationalen 
+Kontaktstellen geh&#246;ren u. a. die Information potentieller Antragsteller durch
+Informationsveranstaltungen, Newsletter, die Beratung der Antragsteller zur
+Passgenauigkeit ihrer Vorhaben zu den infrage kommenden Ausschreibungen sowie 
+die intensive Antragsberatung. Nationale Kontaktstellen bieten Beratung zu den 
+F&#246;rderm&#246;glichkeiten in den unterschiedlichen Programmbereichen mit
+Relevanz f&#252;r Quantentechnologien, vor allem im Cluster 4 &#8222;Digital Industry and 
+Space&#8220; sowie f&#252;r die themenoffenen Ausschreibungen des Europ&#228;ischen
+Innovationsrates (EIC Pathfinder, EIC Transition, EIC Accelerator) sowie des
+Europ&#228;ischen Forschungsrats.
+Das BMBF startet voraussichtlich im Fr&#252;hjahr 2021 im Rahmen seines im Jahr 
+2020 in Kraft getretenen F&#246;rderprogramms &#8222;Die europ&#228;ische Innovationsunion 
+&#8211; Deutsche Impulse f&#252;r den Europ&#228;ischen Forschungsraum (EFR)&#8220; eine
+fach&#252;bergreifende F&#246;rderma&#223;nahme f&#252;r den Auf- und Ausbau europ&#228;ischer
+Forschungsnetzwerke, um zuk&#252;nftige Koordinatoren f&#252;r den Konsortialaufbau, die 
+Projektentwicklung und die Antragstellung von Verbundvorhaben im zweiten 
+Pfeiler von Horizont Europa zu unterst&#252;tzen.
+Von besonderer Relevanz f&#252;r die F&#246;rderung von Quantentechnologien war der 
+Programmbereich &#8222;Future and Emerging Technologies&#8220; (FET) in Horizont 
+2020 (2014 &#8211; 2020). Im Jahr 2018 startete das Flagship zur
+Quantentechnologie. Im FET-Arbeitsprogramm 2018 standen f&#252;r die Aufbauphase des Flagships 
+rund 130 Mio. Euro bereit. Rund 65 deutsche Antragsteller waren mit rund 
+38,5 Mio. Euro an den f&#252;r eine F&#246;rderung ausgew&#228;hlten Projekten beteiligt. 
+Zus&#228;tzlich konnten sich Konsortien mit Quantentechnologie-Projekten in den 
+themenoffenen Ausschreibungen unter FET Open bewerben. Da die meisten 
+FET-Ausschreibungen themenoffen waren, konnte eine Aufschl&#252;sselung der 
+Beratungen nach Technologien nicht vorgenommen werden. Eine Angabe,
+wie viele dieser Beratungen die Quantentechnologien betrafen, ist daher nicht 
+m&#246;glich.
+44. Wie bereitet die Bundesregierung ihre eigene Kommunikation und die 
+Kommunikation anderer staatlicher Akteure, etwa des Milit&#228;rs, auf ein 
+Szenario vor, in dem klassische Methoden der Verschl&#252;sselung durch 
+spezialisierte Quantencomputer wirkungslos werden?
+Im Rahmen des Projekts Krypto-Modernisierung der Bundeswehr ist das 
+BMVg bestrebt, sukzessive quantensichere Systeme oder Produkte zu
+beschaffen oder entwickeln zu lassen. Dar&#252;ber hinaus werden bei Verf&#252;gbarkeit nur 
+entsprechend kryptographisch konfigurierbare Produkte beschafft, die mit
+geringem Aufwand zu gegebener Zeit quantensicher gemacht werden k&#246;nnen.
+&#8199;a) Stellt die Speicherung von derzeit noch nicht dechiffrierbaren
+Nachrichten f&#252;r eine sp&#228;tere Entschl&#252;sselung nach Ansicht der
+Bundesregierung eine aktuelle Bedrohung f&#252;r Deutschland dar?
+Aus Sicht der Bundesregierung kann zu keiner Zeit ausgeschlossen werden, 
+dass Verschl&#252;sselungsverfahren gebrochen werden k&#246;nnen. Es handelt sich um 
+eine fortw&#228;hrende, latente Bedrohung. Insoweit ist es f&#252;r die Bundesregierung 
+unerl&#228;sslich, sich kontinuierlich mit neuen Verfahren im Bereich der
+Postquantum-Kryptographie zu besch&#228;ftigen.
+&#8199;b) Wie wirkt die Bundesregierung derzeit einem derartigen Szenario 
+entgegen?
+Im Hochsicherheitsbereich sind algorithmische Mitigationsma&#223;nahmen
+m&#246;glich. Zudem f&#252;hrt das BSI eine Migration zu quantencomputerresistenter
+Kryptografie durch. Im April 2020 wurden vom BSI Handlungsempfehlungen zur 
+&#8222;Migration zu Post-Quanten-Kryptografie&#8220; ver&#246;ffentlicht. F&#252;r 2021 ist die
+Ver&#246;ffentlichung eines ausf&#252;hrlichen Leitfadens zum gleichen Thema vorgesehen.
+&#8199;c) Welche Kenntnis hat die Bundesregierung dar&#252;ber, welche Akteure 
+derzeit verschl&#252;sselte Nachrichten mit dem Ziel einer sp&#228;teren
+Entschl&#252;sselung speichern?
+Wenn nein, plant die Bundesregierung F&#228;higkeiten einzusetzen oder 
+zu entwickeln, um dar&#252;ber Kenntnis zu erlangen?
+Der Bundesregierung liegen hier&#252;ber keine Kenntnisse vor.
+45. Verfolgt die Bundesregierung (ggf. zusammen mit Partnern aus der EU 
+oder anderen L&#228;ndern) Projekte, die mit dem chinesischen
+Quantenkommunikations-Satellitensystem vergleichbar sind, mit dem China bis 2030 
+rund um den Planeten kommunizieren k&#246;nnen m&#246;chte (vgl. https://scienc
+e.orf.at/v2/stories/2791284)?
+a) Wenn ja, welche Meilensteine sind f&#252;r ein solches Projekt bis wann 
+vorgesehen?
+b) Wenn nein, welche Auswirkungen hat nach Einsch&#228;tzung der
+Bundesregierung ein von China erfolgreich installiertes Satellitensystem 
+f&#252;r globale quantengesicherte Kommunikation auf Deutschland und 
+die EU?
+Die Fragen 45 bis 45b werden gemeinsam beantwortet.
+Die Europ&#228;ische Union und die Europ&#228;ische Weltraumagentur (ESA) betreiben 
+in Kooperation die Initiativen bzw. Programme &#8222;European Quantum
+Communication Infrastructure&#8220; (EuroQCI) und &#8222;Secure And cryptoGrAphic&#8220; (SAGA), in 
+denen eine Quantenkommunikationsinfrastruktur f&#252;r Europa aufgebaut werden 
+soll. Die Weltraumkomponente wird dabei von der ESA in SAGA entwickelt. 
+Deutschland beteiligt sich an diesem Programm. Dar&#252;ber hinaus tragen von der 
+Bundesregierung gef&#246;rderte vorgelagerte Technologieentwicklungen,
+insbesondere des DLR, zu diesem Vorhaben bei. Mit der QuNET-Initiative, dem
+deutschen Forschungsbeitrag zur EuroQCI, werden vom DLR unter anderem auch 
+Komponenten und Technologien entwickelt, die f&#252;r Quantenkommunikation 
+&#252;ber lange Distanzen via Satellitensystemen geeignet sind.
+Als n&#228;chster Meilenstein f&#252;r EuroQCI und SAGA ist eine Flugdemonstration 
+mit prinzipiellem Machbarkeitsnachweis erforderlich. Eine Realisierung wird 
+in den n&#228;chsten zwei bis vier Jahren geplant (innerhalb der EU und ESA).
+Innerhalb von SAGA ist die erste In-Orbit-Validierung eines, technisch &#252;ber das 
+von China 2016 gezeigte hinausgehenden, Technologiedemonstrators nach
+aktueller Planung im Jahr 2024 anvisiert. Bis Ende 2026 wird die QuNET-
+Initiative anhand von Schl&#252;sselexperimenten die entwickelten Kerntechnologien und 
+Gesamtarchitekturen im Rahmen konkreter Anwendungsf&#228;lle demonstrieren. 
+Die Einbindung von Satellitenverbindungen ist elementarer Bestandteil dieser 
+Kerntechnologien und wird je nach Anwendungsfall integriert werden.
+&#8199;c) Verfolgen andere Staaten oder private Akteure nach Kenntnis der 
+Bundesregierung vergleichbare Ziele?
+Wie realistisch ist es nach Einsch&#228;tzung der Bundesregierung, dass 
+ein Staat &#252;ber einen relevanten Zeitraum eine derartige Infrastruktur 
+quasi-monopolistisch betreibt?
+&#8199;d) Wirkt die Bundesregierung ggf. darauf hin, dass China, die USA &#8211; 
+oder ein anderer erfolgreicher Akteur &#8211; ein solches System analog 
+zur Internetinfrastruktur diskriminierungsfrei und politischer wie 
+wirtschaftlicher Neutralit&#228;t verpflichtet als globales Allgemeingut 
+bereitstellt?
+Wenn ja, welche Mittel der internationalen Politik sind nach
+Einsch&#228;tzung der Bundesregierung denkbar?
+Wenn nein, warum nicht?
+Die Fragen 45c und 45d werden im Zusammenhang beantwortet.
+Nach Kenntnis der Bundesregierung sind am Thema
+Quantenschl&#252;sselverteilung viele Staaten interessiert, darunter die USA, Kanada, Japan, China und die 
+meisten EU-Staaten. Zum Bereich Infrastruktur, darunter auch Internet-
+Infrastruktur, tauscht sich die Bundesregierung mit ihren Partnern aus. Dar&#252;ber
+hinaus &#228;u&#223;ert sich die Bundesregierung nicht zu hypothetischen Fragestellungen. 
+Grunds&#228;tzlich setzt sich die Bundesregierung f&#252;r eine diskriminierungsfreie 
+und wirtschaftliche und politisch neutrale Internet-Infrastruktur ein. Dies ist
+unabh&#228;ngig davon, auf welcher Technologie diese Infrastruktur beruht.
+&#8199;e) Wirkt die Bundesregierung aktiv am Aufbau von internationalen
+Institutionen hin, die vergleichbar mit dem Internet Governance Forum 
+eine Plattform zum Multi-Stakeholder-Dialog f&#252;r eine derartige 
+Quantenkommunikationsinfrastruktur bzw. ein zuk&#252;nftiges
+&#8222;Quanteninternet&#8220; bieten k&#246;nnen?
+Wenn nein, warum nicht?
+Mit der europaweiten Initiative &#8222;EuroQCI&#8220; werden die wissenschaftlichen, 
+wirtschaftlichen und strukturellen Kr&#228;fte in der EU geb&#252;ndelt, um eine
+europaweite Quantenkommunikationsinfrastruktur aufzubauen. Deutschland beteiligt 
+sich aktiv an dieser Initiative. Der entsprechende deutsche Forschungsbeitrag 
+wurde mit QuNET bereits im Oktober 2019 gestartet.
+46. Wie wahrscheinlich und wie bedrohlich ist nach Einsch&#228;tzung der 
+Bundesregierung ein Szenario, in dem der Zugang zu relevanten
+Quantentechnologien auf bestimmte Nutzerkreise oder Nationen beschr&#228;nkt ist 
+oder Schl&#252;ssel-Technologien f&#252;r Quantentechnologien nur in den
+H&#228;nden einzelner Firmen oder Nationen liegen?
+Zu der Wahrscheinlichkeit dieses Szenarios kann die Bundesregierung keine 
+Aussage t&#228;tigen.
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/26407 -
+Quantentechnologie - F&#246;rderung der Bundesregierung und aktuelle Herausforderungen im Wettbewerb um die Quanten&#252;berlegenheit</titel>
+    <datum>2021-03-03</datum>
+  </document>
+  

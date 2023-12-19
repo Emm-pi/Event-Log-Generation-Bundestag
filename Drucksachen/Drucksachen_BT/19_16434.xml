@@ -1,0 +1,560 @@
+<document>
+    <id>237789</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/16434</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>c86251d30264a81b3d28f06f7a270c70</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>256018</id>
+      <titel>Umsetzung und Zeitplanung von "GAIA-X"</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium f&#252;r Wirtschaft und Energie</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/164/1916434.pdf</pdf_url>
+      <id>237789</id>
+      <dokumentnummer>19/16434</dokumentnummer>
+      <datum>2020-01-09</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Antwort
+der Bundesregierung
+auf die Kleine Anfrage der Abgeordneten Dieter Janecek,
+Dr. Konstantin von Notz, Dr. Danyal Bayaz, weiterer Abgeordneter und
+der Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN
+&#8211; Drucksache 19/15466 &#8211;
+Umsetzung und Zeitplanung von &#8222;GAIA-X&#8220;
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Anl&#228;sslich des Digitalgipfels stellte die Bundesregierung am 29. Oktober 2019 
+unter dem Namen &#8222;GAIA-X&#8220; ein Projekt f&#252;r eine europ&#228;ische sichere
+Dateninfrastruktur vor, das nach Auskunft der Bundesregierung gemeinsam mit 
+Frankreich konzipiert und entwickelt werden soll. Ziel der Bundesregierung 
+ist es, eine sichere und vertrauensw&#252;rdige Dateninfrastruktur f&#252;r Europa
+aufzubauen und dadurch die Grundlage f&#252;r eine europ&#228;ische digitale Souver&#228;nit&#228;t 
+zu schaffen (siehe Pressemitteilung zur deutsch-franz&#246;sischen
+Zusammenarbeit f&#252;r eine sichere und vertrauensw&#252;rdige Dateninfrastruktur des
+Bundesministeriums f&#252;r Wirtschaft und Energie (BMWi) vom 29. Oktober 2019, www.
+bmwi.de/Redaktion/DE/Pressemitteilungen/2019/20191029-
+pressemitteilungzur-deutsch-franzoesischen-zusammenarbeit-fuer-eine%20sichere-vertrauens
+wuerdige-dateninfrastruktur.html).
+Seit Jahren stellen sich nach Ansicht der Fragesteller eine Reihe von Fragen 
+zur Rechtm&#228;&#223;igkeit von Datenspeicherungen, auch und gerade &#246;ffentlicher 
+Stellen, auf US-amerikanischen Servern. Exemplarisch wurde diese Debatte 
+beispielsweise bez&#252;glich der Frage der Rechtm&#228;&#223;igkeit der Speicherung von 
+Daten aus Aufzeichnungen von &#8222;Bodycams&#8220; der Bundespolizei auf Servern 
+des US-Anbieters AWS gef&#252;hrt. W&#228;hrend die Bundesregierung bis heute von 
+der Rechtm&#228;&#223;igkeit ausgeht, h&#228;lt der Bundesbeauftragte f&#252;r den Datenschutz 
+und die Informationsfreiheit an seiner Auffassung fest, dass eine solche
+Datenspeicherung rechtswidrig sei. Im weiteren Verlauf dieser Debatte wurde 
+deutlich, dass bei entsprechenden Datenspeicherungen, auch und gerade von 
+Bundesministerien und nachgeordneten Beh&#246;rden, l&#228;ngst nicht nur auf diesen, 
+sondern auch auf eine Vielzahl von US-Anbietern zur&#252;ckgegriffen wird, und 
+demnach die Tragweite der Problematik noch sehr viel gr&#246;&#223;er ist (siehe HR-
+Info vom 18. Juni 2019 &#8222;Mehrere Bundesbeh&#246;rden speichern offenbar Daten 
+bei externen Cloud-Anbietern&#8220;, abrufbar unter www.hr-inforadio.de/pro
+gramm/themen/mehrere-bundesbehoerden-speichern-offenbar-daten-bei-exter
+nen-cloud-anbietern,bundesbehoerden-clouds-100.html, sowie Protokoll der 
+47. Sitzung des Innenausschusses des Deutschen Bundestages am 3. April 
+2019 und Antwort der Bundesregierung auf die Schriftliche Frage 31des
+Abgeordneten Dr. Konstantin von Notz auf Bundestagsdrucksache 19/11515).
+Deutscher Bundestag Drucksache 19/16434
+19. Wahlperiode 09.01.2020
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums f&#252;r Wirtschaft und Energie vom 
+17. Dezember 2019 &#252;bermittelt.
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext.
+Insgesamt wird die Debatte um die Rechtm&#228;&#223;igkeit entsprechender
+Datenspeicherungen in Drittstaaten, vor allem in den USA, seit vielen Jahren sehr
+intensiv gef&#252;hrt, vor allem im Zuge der Verabschiedung des &#8222;Safe Harbour-
+Abkommens&#8220; und des &#8222;Privacy Shield&#8220; auf EU-Ebene. In diesem
+Zusammenhang wird immer wieder auch auf bestehende Rechtsgrundlagen in den USA 
+wie den &#8222;CloudAct&#8220; verwiesen, die US-Sicherheitsbeh&#246;rden sehr weit
+gehende Zugriffsrechte auf entsprechende Datenspeicherungen erm&#246;glichen.
+Die jetzige Ank&#252;ndigung und die bisherige Nicht-Existenz sowohl der
+sogenannten Bundes-Cloud als auch einer europ&#228;ischen L&#246;sung stehen nach
+Ansicht der Fragesteller somit exemplarisch f&#252;r die massiven Vers&#228;umnisse, sich 
+angemessen mit der Thematik zu besch&#228;ftigen und sichere,
+datenschutzkonforme Alternativen zu schaffen.
+Die Bundesregierung hat nach Ansicht der Fragesteller mit ihrer Ank&#252;ndigung 
+einer franz&#246;sischen Kooperative sowie eines gemeinsamen europ&#228;ischen
+Vorgehens beim Aufbau einer europ&#228;ischen Cloud-Infrastruktur hohe
+Erwartungen geweckt. Unklar bleibt nach Ansicht der Fragesteller allerdings, wie diese 
+Erwartungen wirklich erf&#252;llt werden k&#246;nnen. Es ist nach Ansicht der
+Fragesteller offen, inwiefern die Pl&#228;ne der Bundesregierung bereits mit den
+europ&#228;ischen Partnerstaaten und der EU-Kommission abgesprochen sind, wie der
+genaue Zeitplan und die Finanzierung aussehen sollen.
+1. Hat die Bundesregierung die Planungen zum Projekt &#8222;GAIA-X&#8220; bereits 
+mit Vertreterinnen und Vertretern der EU-Kommission vorbesprochen, 
+und wenn ja, in welcher Detailtiefe, und welches weitere Vorgehen wurde 
+vereinbart (bitte Zeitpunkt und Beteiligte der Besprechungen oder Treffen 
+auflisten)?
+a) Wurde dabei auch die skizzierte Zeitplanung f&#252;r die Projektumsetzung 
+besprochen, und wenn ja, mit welchem Ergebnis?
+b) Hat die Bundesregierung bereits Signale der vermutlich zuk&#252;nftigen 
+Kommissionspr&#228;sidentin erhalten, dass dieses Projekt in einer EU-
+Kommission unter ihrer Leitung auf Zustimmung sto&#223;en k&#246;nnte?
+c) Harmonisieren die eigenen Pl&#228;ne nach Ansicht der Bundesregierung 
+mit den angek&#252;ndigten Vorhaben der EU-Kommission, beispielsweise 
+zur schrittweisen Realisierung der digitalen Souver&#228;nit&#228;t Europas?
+d) Gibt es nach Kenntnis der Bundesregierung parallel Pl&#228;ne der EU-
+Kommission f&#252;r den Aufbau einer EU-weiten Cloud-L&#246;sung?
+Falls ja, wie sehen diese konkret aus, und wie gedenkt die
+Bundesregierung sicherzustellen, dass die Pl&#228;ne harmonieren?
+Die Fragen 1 bis 1d werden gemeinsam beantwortet.
+Die Bundesregierung steht bereits seit Sommer 2019 mit der EU-Kommission 
+zu GAIA-X im Austausch. Dabei wurden die Ideen f&#252;r das Projekt GAIA-X 
+Vertreterinnen und Vertretern der EU-Kommission am Rande von Gespr&#228;chen 
+auf Arbeitsebene vorgestellt. Im September 2019 fand ein erstes Treffen auf 
+Arbeitsebene zwischen Vertreterinnen und Vertretern des Bundesministeriums 
+f&#252;r Wirtschaft und Energie (BMWi) und Vertreterinnen und Vertretern der
+Generaldirektion CONNECT der EU-Kommission statt, das ausschlie&#223;lich den 
+Themen europ&#228;ische Dateninfrastruktur und GAIA-X gewidmet war. Ein
+Folgetreffen auf Arbeitsebene, zu dem auch Vertreterinnen und Vertreter des
+franz&#246;sischen Wirtschafts- und Finanzministeriums eingeladen wurden, fand im 
+Oktober im Vorfeld der Vorstellung von GAIA-X auf dem Digitalgipfel statt. 
+Nach Auffassung der Bundesregierung k&#246;nnen sich das Projekt GAIA-X und 
+die Initiativen der EU-Kommission im Bereich Digitalisierung gut erg&#228;nzen. 
+Ziel der bisherigen Gespr&#228;che und der weiteren, laufenden Zusammenarbeit mit 
+der EU-Kommission ist es, das Projekt GAIA-X bestm&#246;glich mit existierenden
+und zuk&#252;nftigen Initiativen der EU-Kommission zu verzahnen und
+Parallelarbeiten zu vermeiden.
+Die Bundesregierung hat keine Kenntnis dar&#252;ber, ob sich die neue
+Kommissionspr&#228;sidentin Ursula von der Leyen bereits mit dem Projekt GAIA-X befasst 
+und eine Meinung zu diesem gebildet hat.
+2. Hat die Bunderegierung ihre Projektvorschl&#228;ge bereits mit anderen EU-
+Mitgliedstaaten besprochen, und wenn ja, mit welchen Mitgliedstaaten 
+und in welcher Detailtiefe, und welches weitere Vorgehen wurde
+vereinbart (bitte Zeitpunkt und Beteiligte der Besprechungen oder Treffen
+auflisten)?
+Wurden dabei auch die skizzierte Zeitplanung und die Finanzierung f&#252;r 
+die Projektumsetzung besprochen, und wenn ja, mit welchem Ergebnis?
+Die Bundesregierung steht bereits mit verschiedenen anderen EU-
+Mitgliedstaaten wegen GAIA-X in Kontakt. Ein intensiver Austausch besteht 
+insbesondere mit der franz&#246;sischen Regierung. In der deutsch-franz&#246;sischen 
+Roadmap f&#252;r ein Forschungs- und Innovationsnetzwerk zur K&#252;nstlichen
+Intelligenz, die anl&#228;sslich des deutsch-franz&#246;sischen Ministerrates am 16. Oktober 
+2019 in Toulouse verabschiedet wurde, haben Deutschland und Frankreich
+vereinbart, ihre gemeinsamen Anstrengungen f&#252;r eine sichere und
+vertrauensw&#252;rdige Dateninfrastruktur als Grundlage eines digitalen &#214;kosystems zu
+intensivieren, so dass Daten in einer sicheren Umgebung bereitgestellt, gesammelt 
+und gemeinsam genutzt werden k&#246;nnen. Infolgedessen haben sich das BMWi 
+und das franz&#246;sische Ministerium f&#252;r Wirtschaft und Finanzen auf konkrete
+gemeinsame Schritte f&#252;r diese Intensivierung der Zusammenarbeit geeinigt, die in 
+einer gemeinsamen Pressemitteilung vom 29. Oktober 2019 festgehalten
+wurden (www.bmwi.de/Redaktion/DE/Pressemitteilungen/2019/20191029-pressem
+itteilung-zur-deutsch-franzoesischen-zusammenarbeit-fuer-eine%20sichere-vert
+rauenswuerdige-dateninfrastruktur.html). Der in dieser Pressemitteilung
+vorgesehene deutsch-franz&#246;sische Unternehmens-Workshop fand Ende November 
+statt; hinsichtlich der weiteren Planung stehen die Bundesregierung und die 
+franz&#246;sische Regierung in Kontakt.
+Die Bundesregierung f&#252;hrt auch erste Gespr&#228;che mit anderen EU-
+Mitgliedstaaten, die ihr Interesse an einer Zusammenarbeit im Projekt GAIA-X 
+ge&#228;u&#223;ert haben. Diese Kontakte finden bei unterschiedlichen Gelegenheiten, oft 
+am Rande von Veranstaltungen im In- und Ausland, und auf unterschiedlichen 
+Ebenen, auch im Rahmen von bilateralen Gespr&#228;chen auf Leitungsebene, statt. 
+Eine detaillierte Auflistung der Kontakte ist vor diesem Hintergrund nicht
+m&#246;glich.
+3. Konnte bereits ein Termin f&#252;r die f&#252;r Anfang 2020 angek&#252;ndigte
+gemeinsame deutsch-franz&#246;sische Veranstaltung in Br&#252;ssel zur Vorstellung des 
+Projekts gegen&#252;ber weiteren EU-Mitgliedstaaten festgelegt werden?
+In welchen Punkten soll das Projekt bis dahin weiter konkretisiert werden, 
+und welche Fragen sollen bis dahin beantwortet werden?
+Ein Termin f&#252;r diese gemeinsame deutsch-franz&#246;sische Veranstaltung wird
+aktuell mit der franz&#246;sischen Regierung abgestimmt. Ziel der Veranstaltung wird 
+es sein, interessierte weitere EU-Mitgliedstaaten &#252;ber den aktuellen
+Projektstand zum Zeitpunkt der Veranstaltung zu informieren, ohne dass konkrete
+Ziele speziell f&#252;r diesen Termin festgelegt worden w&#228;ren.
+4. Erw&#228;gt die Bundesregierung, weitere europ&#228;ische L&#228;nder, insbesondere 
+die Schweiz und Norwegen, in die Planung und Umsetzung von &#8222;GAIA-
+X&#8220; einzubinden?
+Auch f&#252;r europ&#228;ische L&#228;nder au&#223;erhalb der EU gilt die Offenheit des Projektes, 
+wie sie im anl&#228;sslich des Digitalgipfels ver&#246;ffentlichten Konzeptpapier des
+Projektes GAIA-X formuliert worden ist: Interessierte europ&#228;ische Partner sind
+daher zur Teilnahme an und zur Fortentwicklung des Projektes bzw. zu dessen 
+Flankierung eingeladen; Gleiches gilt f&#252;r diejenigen internationalen Partner, die 
+die das Projekt leitenden Ziele Datensouver&#228;nit&#228;t und Datenverf&#252;gbarkeit teilen 
+(siehe Brosch&#252;re GAIA-X unter www.dateninfrastruktur.de, S. 46).
+5. Mit welchen weiteren europ&#228;ischen Partnern, auch aus Wissenschaft und 
+Zivilgesellschaft, soll das Projekt umgesetzt werden?
+Die Bundesregierung ist derzeit mit einer Vielzahl potentieller europ&#228;ischer 
+Partner aus unterschiedlichen Bereichen im Gespr&#228;ch. Dabei geht es vor allem 
+darum, &#252;ber das Projekt GAIA-X zu informieren und die M&#246;glichkeiten der 
+Zusammenarbeit zu sondieren. Mit welchen dieser Gespr&#228;chspartner dieses 
+Projekt dann tats&#228;chlich umgesetzt werden wird, l&#228;sst sich zum jetzigen
+Zeitpunkt noch nicht verl&#228;sslich beantworten.
+6. Wie will die Bundesregierung die angek&#252;ndigte Offenheit f&#252;r die
+Mitwirkung von Marktteilnehmern von au&#223;erhalb Europas mit den Leitprinzipien 
+&#8222;Europ&#228;ischer Datenschutz&#8220; und &#8222;Souver&#228;nit&#228;t und Selbstbestimmung&#8220; in 
+Einklang bringen, insbesondere vor dem Hintergrund des US-
+amerikanischen Cloud Acts (Clarifying Lawful Overseas Use of Data Act, 
+H.R.4943) von 2018?
+Die Mitwirkung von au&#223;ereurop&#228;ischen Marktteilnehmern an der Entwicklung 
+von GAIA-X steht nicht im Widerspruch zu europ&#228;ischen Grundwerten. Alle 
+Entwicklungsergebnisse des Projektes werden ver&#246;ffentlicht. Beim sp&#228;teren 
+Betrieb stellt sich die Frage insofern nicht, da GAIA-X auf eine gr&#246;&#223;tm&#246;gliche 
+Transparenz des Angebots ausgerichtet ist und somit auch den Nutzern
+angebotsspezifische Merkmale schon bei der Auswahl des Cloud-Anbieters gewahr 
+werden.
+7. Inwieweit sind die deutschen und europ&#228;ischen
+Datenschutzaufsichtsbeh&#246;rden in die bisherigen Planungen einbezogen?
+Eine Zusammenarbeit mit den Datenschutzaufsichtsbeh&#246;rden in Deutschland 
+und Europa ist f&#252;r den Zeitpunkt nach der detaillierten technologischen
+Skizzierung des Projektes geplant. Bereits jetzt ist die Einhaltung der deutschen und 
+europ&#228;ischen datenschutzrechtlichen Bestimmungen durch die zuk&#252;nftig 
+GAIA-X-zertifizierten Angebote f&#252;r das Projekt selbstverst&#228;ndlich leitend.
+8. Welche Rolle spielt aus Sicht der Bundesregierung Verschl&#252;sselung als
+Sicherheitsvoraussetzung f&#252;r eine europ&#228;ische Dateninfrastruktur, und aus 
+welchen Gr&#252;nden wird das Thema Verschl&#252;sselung in der
+Projektbeschreibung zu &#8222;GAIA-X&#8220; (www.bmwi.de/Redaktion/DE/Publikationen/Digita
+le-Welt/das-projekt-gaia-x.pdf?__blob=publicationFile&amp;v=20 ) nicht 
+erw&#228;hnt?
+Verschl&#252;sselung kann ein wirksamer Mechanismus zum Schutz von Daten sein. 
+Zum jetzigen Entwicklungsstand des Projektes sind einzelne spezifische
+Mechanismen aber noch nicht Diskussionsgegenstand.
+9. Welche Vor&#252;berlegungen oder Vorfestlegungen seitens der
+Bundesregierung bzw. nach Kenntnis der Bundesregierung auch seitens der
+franz&#246;sischen Regierung bestehen hinsichtlich der Festlegung einer geeigneten 
+Rechtsform f&#252;r &#8222;GAIA-X&#8220;?
+Die &#220;berlegungen zur Rechtsform der zu gr&#252;ndenden Entit&#228;t f&#252;r GAIA-X
+befinden sich noch in einem fr&#252;hen Stadium der Pr&#252;fung und Diskussion mit den 
+&#252;brigen beteiligten Partnern. Im Konzeptpapier GAIA-X wurde eine Reihe von 
+Kriterien identifiziert, die eine solche Organisation mit Rechtsform erf&#252;llen 
+muss. Ferner wurde die Rechtsform der Europ&#228;ischen Genossenschaft (SCE) 
+als eine m&#246;gliche Rechtsform identifiziert. Auf dieser Basis wird derzeit weiter 
+ergebnisoffen gepr&#252;ft und diskutiert. Festlegungen oder Vorfestlegungen gibt es 
+nicht.
+10. Welchen zeitlichen und personellen Aufwand erwartet die
+Bundesregierung angesichts der gro&#223;en Anzahl involvierter Anwender und
+hinsichtlich verschiedener unterschiedlicher Anwendungsszenarien (von der
+Bereitstellung von Edge-Computing-Kapazit&#228;ten f&#252;r mittelst&#228;ndische
+produzierende Unternehmen &#252;ber eine Mobilit&#228;tsplattform bis hin zu
+rechtssicheren Cloud-Anwendungen f&#252;r die Verwaltung) f&#252;r die Definition von 
+technischen Spezifikationen?
+Welche Akteure sieht die Bundesregierung in der Pflicht, diesen
+Aufwand zu stemmen?
+Die Bundesregierung kann den zeitlichen und personellen Aufwand
+gegenw&#228;rtig nicht spezifizieren.
+11. Plant oder erw&#228;gt die Bundesregierung, sich f&#252;r einen finanziellen
+Anreiz zur Kompensation der Migrationskosten f&#252;r Unternehmen
+einzusetzen, die von ihrem bisherigen Cloud-Anbieter auf ein zuk&#252;nftig
+innerhalb der gemeinsamen europ&#228;ischen Cloud-Infrastruktur realisiertes
+Angebot wechseln wollen?
+Weder plant noch erw&#228;gt die Bundesregierung zum jetzigen Zeitpunkt
+finanzielle Anreize f&#252;r eine Migration.
+12. Welche Eigenschaften werden f&#252;r &#8222;GAIA-X&#8220; aus Sicht der
+Bundesregierung entscheidend sein, damit es mittelst&#228;ndische Unternehmen f&#252;r eines 
+der Anwendungsszenarien tats&#228;chlich nutzen und gegen&#252;ber anderen
+Anbietern von Edge-Computing oder Cloud-Diensten bevorzugen werden?
+Die Brosch&#252;re &#8222;Das Projekt GAIA-X &#8211; Eine vernetzte Dateninfrastruktur als 
+Wiege eines vitalen, europ&#228;ischen &#214;kosystems&#8220; enth&#228;lt einige
+Bedarfsbeispiele. Die Bedarfsbeispiele aus dem Bereich Industrie 4.0 zeigen, dass &#8211;
+insbesondere mittelst&#228;ndische &#8211; Unternehmen vor sehr &#228;hnlichen Herausforderungen 
+hinsichtlich der Integration und Auswertung von Daten und deren L&#246;sung in
+einer einheitlichen Sprache, Semantik sowie in offenen und modularen
+Strukturen stehen. In den klassischen Gesch&#228;ftsbeziehungen von
+Komponentenherstellern, Maschinenbauern und Systembetreibern spielen vor allem Fragen der 
+Steuerungsm&#246;glichkeit der Daten&#252;bertragung und damit der Sicherung
+geistigen Eigentums eine gro&#223;e Rolle. Eine vernetzte Dateninfrastruktur, wie in o. g. 
+Brosch&#252;re beschrieben, erm&#246;glicht es, Daten dort zu speichern, wo es
+Anwender angesichts der jeweiligen Datenklassifikation f&#252;r sinnvoll erachten. Der
+Anwender kann somit die Hoheit &#252;ber besonders sensible Daten behalten und 
+gleichzeitig andere Daten zur gemeinsamen Nutzung mit Partnern teilen. Daf&#252;r 
+k&#246;nnen KMU sowohl Edge-Computing als auch Public Clouds nutzen.
+GAIA-X w&#252;rde es erm&#246;glichen, die Daten dort zusammenzuf&#252;hren, wo es
+angesichts der Datenklassifikation am sinnvollsten ist.
+13. Welchen Beitrag wird &#8222;GAIA-X&#8220; aus Sicht der Bundesregierung f&#252;r das 
+Teilen von Daten zwischen europ&#228;ischen Unternehmen leisten, und wie 
+soll dies rechtlich erm&#246;glicht werden?
+GAIA-X soll als Wiege eines digitalen &#214;kosystems dienen, in dem Daten
+sicher und vertrauensvoll verf&#252;gbar gemacht, zusammengef&#252;hrt und geteilt
+werden k&#246;nnen. Aus technologischer Perspektive sollen beispielsweise &#252;ber einen 
+zentralen Verzeichnisdienst u. a. relevante Datenpools schnell und sicher
+identifizierbar gemacht werden. Offene Technologien und Schnittstellen zum
+einfachen und sicheren Datenaustausch sind wesentliche Merkmale des Projektes. 
+Aus rechtlicher Perspektive sollen flexible Rahmenvertr&#228;ge eingef&#252;hrt werden, 
+die vertragliche Regelungen u. a. zum Datenaustausch grundlegend abbilden 
+und beim jeweiligen Aufruf eines Dienstes als konkrete Vertragsabschl&#252;sse von 
+Anbieter und Anwender ausgepr&#228;gt werden.
+14. Plant die Bundesregierung, die &#8222;offene Dateninfrastruktur&#8220; auch durch 
+verbindliche Vorgaben zur Nutzung von &#246;ffentlich &#252;berpr&#252;fbarer offener 
+Software und Bereitstellung offener Schnittstellen sicherzustellen?
+Zum jetzigen Stand des Projektes kann dazu noch keine Aussage getroffen
+werden.
+15. Wieso sind bei den bisherigen genannten mitwirkenden Personen keine 
+Vertreterinnen und Vertreter der organisierten Zivilgesellschaft vertreten?
+Plant die Bundesregierung die Einbeziehung der Expertise der
+organisierten Zivilgesellschaft?
+Der Fokus des Projekts wurde vor dem Digital-Gipfel 2019 auf das
+wirtschaftliche Leitbild gelegt, w&#228;hrend nun die technologische Ausarbeitung im
+Vordergrund steht. Um das Projekt z&#252;gig voranzutreiben, wurden zun&#228;chst solche
+Unternehmen und Organisationen beteiligt, die f&#252;r diese Themen unmittelbar
+relevante technische Expertise einbringen konnten. In einem n&#228;chsten Schritt
+werden auch weitere Interessenvertreter, z. B. Vertreterinnen und Vertreter der
+organisierten Zivilgesellschaft, in den Prozess mit eingebunden.
+16. Inwieweit steht die Bundesregierung mit den Beteiligten der European 
+Open Science Cloud und der nationalen Forschungsdateninfrastruktur 
+(NFDI) im Austausch, und wie werden deren Erfahrungen in die
+Umsetzung von &#8222;GAIA-X&#8220; einflie&#223;en?
+Die von Bund und L&#228;ndern gemeinsam gef&#246;rderte NFDI wendet sich in erster 
+Linie an Forschung und Wissenschaft. Gleiches gilt auf europ&#228;ischer Ebene f&#252;r 
+die im Aufbau befindliche European Open Science Cloud (EOSC). Die 
+Bundesregierung ist hier &#252;ber die bestehenden vorl&#228;ufigen Governance-
+Strukturen eingebunden. M&#246;gliche Synergien mit GAIA-X werden gepr&#252;ft,
+sobald die jeweiligen Schnittstellen und Angebote definiert und entsprechende 
+Services verf&#252;gbar sind. Dabei wird auf Interoperabilit&#228;t zwischen NFDI- und 
+GAIA-X-Diensten abgezielt. Die Bundesregierung wird diese Prozesse
+weiterhin aktiv begleiten.
+17. Ist von Seiten der Bundesregierung eine &#214;ffnung von &#8222;GAIA-X&#8220; auch 
+f&#252;r Forschungseinrichtungen und Hochschulen geplant?
+Wenn ja, wie?
+Wenn nein, warum nicht?
+GAIA-X ist offen f&#252;r alle Branchen und Anwendungsfelder konzipiert. Es
+nehmen bereits verschiedene Forschungseinrichtungen am Projekt teil.
+18. Welche konkreten Vorschl&#228;ge wird die Bundesregierung in die weiteren 
+Planungen einbringen, um die f&#252;r den Erfolg dieses im internationalen 
+Wettbewerb stehenden Projekts bedeutsamen Attraktivit&#228;tsfaktoren der 
+Performance und der Kosten zu adressieren?
+Performance und Kosten sind ureigene Interessen der beteiligten Unternehmen. 
+Bei Bedarf wird die Bundesregierung die Unternehmen partnerschaftlich
+unterst&#252;tzen, diese Faktoren zu adressieren.
+19. Auf welche Weise konkret plant die Bundesregierung, die von ihr mit 
+dem Projekt in Verbindung gebrachte F&#246;rderung von K&#252;nstlicher
+Intelligenz (KI) und data availability sowie universellen Datenbanken,
+Datenpooling und Daten-Interoperabilit&#228;t zu realisieren, wenn und soweit es 
+sich zugleich um ein hochsicheres Cloud-Modell mit verschl&#252;sselten, in 
+privater Verf&#252;gung stehenden und auch personenbezogenen Daten
+handeln sollte?
+Mit GAIA-X sollen sowohl die Ziele der Datensicherheit und des
+Datenschutzes als auch der Datenverf&#252;gbarkeit adressiert werden. GAIA-X soll es
+erm&#246;glichen, Daten dort zu speichern, wo es der Anwender angesichts der jeweiligen 
+Datenklassifikation &#8211; sensibel oder nicht sensibel &#8211; f&#252;r sinnvoll erachten. Wie 
+bereits in der Antwort zu Frage 12 beschrieben, kann der Anwender somit die 
+Hoheit &#252;ber besonders sensible Daten behalten und gleichzeitig andere Daten 
+zur gemeinsamen Nutzung mit Partnern teilen, nach vertraglich festgelegten 
+Rahmenbedingungen.
+20. Wann ist mit der Realisierung der sogenannten Bundes-Cloud zu
+rechnen, und ist aus Sicht der Bundesregierung aus heutiger Perspektive
+sichergestellt, dass die zu schaffende &#8222;Bundes-Cloud&#8220; mit &#8222;GAIA-X&#8220; 
+kompatibel ist?
+Falls ja, wie konkret (vgl. u. a. auch Antwort der Bundesregierung auf 
+die Schriftliche Frage 48 des Abgeordneten Dr. Konstantin von Notz auf 
+Bundestagsdrucksache 19/9692)?
+Die Bundescloud wird bereits seit Aufbau des ersten Standorts im Juli 2017 
+von den Bundesbeh&#246;rden genutzt. Der Aufbau aller drei Bundescloud-
+Standorte soll gem&#228;&#223; Projektplanung bis Juli 2020 abgeschlossen sein. Ein
+Zugang zur Bundescloud ist nur aus den sicheren Netzen des Bundes (NdB)
+m&#246;glich, da die Bundescloud f&#252;r die Verarbeitung von Verschlusssachen bis zum 
+Geheimhaltungsgrad VS &#8211; Nur f&#252;r den Dienstgebrauch ausgelegt ist. Daher 
+wird es keine direkte Anbindung an anderen Plattformen geben. Um
+Kompatibilit&#228;t von Anwendungen zwischen verschiedenen Plattformen (wie z. B. 
+GAIA-X) zu gew&#228;hrleisten, gibt der Beauftragte der Bundesregierung f&#252;r IT 
+die IT-Architekturrichtlinien des Bundes heraus. Diese Richtlinien m&#252;ssen bei 
+Vorhaben der gemeinsamen IT des Bundes zwingend eingehalten werden.
+21. Auf welchen Plattformen von US-Anbietern speichern
+Bundesministerien und Bundesbeh&#246;rden heute ihre Daten (bitte konkret aufschl&#252;sseln, 
+vgl. hierzu u. a. Protokoll zum &#8222;Bericht der Bundesregierung zur Cloud-
+Speicherung von Bodycam-Daten der Bundespolizei&#8220; w&#228;hrend der 47. 
+Sitzung des Innenausschusses des Deutschen Bundestages am 3. April 
+2019 und Antwort der Bundesregierung auf die Schriftliche Frage 31 des 
+Abgeordneten Dr. Konstantin von Notz auf Bundestagsdrucksache 
+19/11515 und Antwort der Bundesregierung auf die Schriftliche Frage 48 
+des Abgeordneten Dr. Konstantin von Notz auf Bundestagsdrucksache 
+19/9692 sowie Antwort der Bundesregierung auf die Kleine Anfrage der 
+Fraktion der FDP auf Bundestagsdrucksache 19/10826)?
+In der Antwort der Bundesregierung auf die genannte Kleine Anfrage wurde 
+darauf hingewiesen, dass sich die Antwort nicht auf die Anbieter von Cloud-
+Diensten beschr&#228;nkt, sondern auch die Cloud-&#228;hnlichen Angebote beinhaltet. 
+Aus Sicht der Bundesregierung wurden damit bereits alle Anbieter von
+Plattformen genannt, die von der Bundesverwaltung genutzt werden. Nach Kenntnis 
+der Bundesregierung sind darunter die folgenden US-Anbieter:
+&#8226; Adobe, Inc.
+&#8226; Articulate Global, Inc.
+&#8226; AWS, Inc.
+&#8226; BlueJeans Network, Inc.
+&#8226; Cisco, Inc.
+&#8226; Citrix, Inc.
+&#8226; Dropbox, Inc.
+&#8226; Google, LLC
+&#8226; GitHub, Inc.
+&#8226; Illumina, Inc.
+&#8226; Kroll Discovery, Inc.
+&#8226; Lawrence Berkeley National Laboratory
+&#8226; LogMeIn, Inc.
+&#8226; Microsoft Corp.
+&#8226; Motorola, Inc.
+&#8226; NCBI
+&#8226; NetApp, Inc.
+&#8226; Oracle Corp.
+&#8226; PlanView, Inc.
+&#8226; Zoom Video Communications, Inc.
+&#8226; Diligent Corp. (Brainloop)
+22. Bleibt die Bundesregierung bei ihrer mit Bezug auf die Speicherung der 
+Daten von Aufnahmen der Bodycams der Bundespolizei ge&#228;u&#223;erten 
+Rechtsauffassung, dass die Datenspeicherungen rechtskonform erfolgen 
+(vgl. hierzu u. a. Protokoll zum &#8222;Bericht der Bundesregierung zur Cloud-
+Speicherung von Bodycam-Daten der Bundespolizei&#8220; w&#228;hrend der 47. 
+Sitzung des Innenausschusses des Deutschen Bundestages am 3. April 
+2019) ?
+Die Datenspeicherung erfolgt rechtskonform. Bei der Nutzung der Cloudl&#246;sung 
+von AWS zur Speicherung von Daten der Bodycams werden die deutschen
+Datenschutzstandards eingehalten.
+23. Wie gedenkt die Bundesregierung weiter mit dem Umstand umzugehen, 
+dass der Bundesbeauftragte f&#252;r den Datenschutz und die
+Informationsfreiheit entsprechende Datenspeicherungen, u. a. mit Hinweis auf
+mangelnde Verschl&#252;sselungsverfahren und bestehende Rechtsgrundlagen in 
+den USA, als &#8222;rechtswidrig&#8220; erachtet hat (vgl. hierzu u. a. Protokoll zum 
+&#8222;Bericht der Bundesregierung zur Cloud-Speicherung von Bodycam-
+Daten der Bundespolizei&#8220; w&#228;hrend der 47. Sitzung des Innenausschusses 
+des Deutschen Bundestages am 3. April 2019)?
+Die Bundesregierung vertritt in bezeichneter Angelegenheit eine andere 
+Rechtsauffassung.
+24. Ist die Pr&#252;fung von Bundespolizei und IT-Dienstleistern des Bundes
+sowie der Firma Motorola, ob und wann die &#8222;Bundes-Cloud&#8220; zur
+Speicherung der aufgenommenen Videodaten der Bodycam-Aufnahmen genutzt 
+werden kann, bereits abgeschlossen (vgl. Antwort der Bundesregierung 
+auf die M&#252;ndliche Frage 34 des Abgeordneten Dr. Konstantin von Notz 
+auf Plenarprotokoll 19/88)?
+Falls ja, mit welchem Ergebnis?
+Die Pr&#252;fungen dauern weiter an.
+25. Inwiefern wird durch das Projekt &#8222;GAIA-X&#8220; noch den Risiken des
+Zugriffs durch EU-Drittstaaten entgegengewirkt, wenn und soweit doch die 
+geplante E-Evidence-Initiative der EU auch insbesondere auf die USA 
+ausgedehnt werden soll (vgl. www.netzpolitik.org/2019/eu-startet-ge
+spraeche-mit-den-usa-ueber-zugriff-auf-cloud-daten/) und damit US-
+Zugriffe auch auf &#8222;GAIA-X&#8220; erm&#246;glicht w&#252;rden?
+Die GAIA-X-Architektur soll einen sehr hohen Standard an Datensicherheit 
+und Schutz vor dem unbefugten Zugriff Dritter aufweisen. Diese
+Sicherheitsstruktur soll auch gegen&#252;ber Drittstaaten eingreifen. Die Frage, unter welchen 
+Voraussetzungen die zust&#228;ndigen Stellen in den EU-Mitgliedstaaten oder
+zust&#228;ndige Stellen der USA zu Strafverfolgungszwecken die in einer Cloud
+gespeicherten elektronischen Daten unmittelbar von einem Provider
+herausverlangen d&#252;rfen, ist Gegenstand der Beratungen auf europ&#228;ischer Ebene &#252;ber den 
+neuen Rechtsrahmen zu &#8222;E-Evidence&#8220; und &#252;ber das geplante EU-US-
+Verwaltungsabkommen, an denen die Bundesregierung aktiv teilnimmt.
+26. Welche Anstrengungen hat die Bundesregierung konkret mit welchen 
+Vorschl&#228;gen gegen&#252;ber der Europ&#228;ischen Kommission unternommen, 
+um in den Verhandlungen der EU mit den USA f&#252;r ein bilaterales
+Abkommen zur exterritorialen Datenherausgabe sicherzustellen, dass die 
+mit dem US-Cloud Act verbundenen Risiken unverh&#228;ltnism&#228;&#223;iger und 
+&#252;berbordender Zugriffe von US-Beh&#246;rden unterbunden wird?
+Die Bundesregierung hat sich in den Beratungen auf Ebene des Rates f&#252;r Justiz 
+und Inneres sowie in dessen Gremien zur Mandatserteilung an die EU-
+Kommission zur Aufnahme von Verhandlungen mit den USA f&#252;r ein
+Abkommen zum grenz&#252;berschreitenden Zugriff auf elektronische Beweismittel f&#252;r die 
+strafrechtliche Zusammenarbeit f&#252;r die Aufnahme von aus Sicht der
+Bundesregierung wichtigen Anpassungen eingesetzt. Dies betrifft insbesondere die 
+Aufnahme eines Notifizierungsmechnismus sowie die Beschr&#228;nkung des
+Abkommens auf die retrograde Datenerhebung. Die Bundesregierung setzt sich 
+weiterhin in den die Verhandlungsrunden der EU-Kommission vor- und
+nachbereitenden Sitzungen der zust&#228;ndigen Ratsgremien f&#252;r die Aufnahme
+entsprechender Klauseln in das geplante Abkommen ein. Die Verhandlungen
+befinden sich noch in einem sehr fr&#252;hen Stadium und dienen zun&#228;chst dem
+Austausch &#252;ber die jeweiligen Zielvorstellungen und Rechtsbegriffe. Auch die
+konkrete Art des Abkommens ist bislang noch nicht klar.
+27. Teilt die Bundesregierung die Auffassung, wonach das bis Ende
+Dezember 2019 bzw. Anfang Januar 2020 zu erwartende Urteil des
+Europ&#228;ischen Gerichtshofes, welches zu einer m&#246;glichen Unwirksamkeit des 
+EU-US-Privacy Shield f&#252;hren k&#246;nnte, umfangreichere und vor allem
+raschere Anstrengungen sowohl auf nationaler Ebene als auch auf
+europ&#228;ischer Ebene erforderlich macht, um rechtsstaatskonforme und zugleich 
+die Souver&#228;nit&#228;t Europas st&#228;rkende Antworten auf ungel&#246;ste Fragen des 
+Umgangs mit Informationen und Daten durch Drittstaaten zu finden, und 
+wenn ja, welche konkret schl&#228;gt sie vor?
+Die Bundesregierung versteht die Frage so, dass mit dem &#8222;bis Ende Dezember/
+Anfang Januar 2020 zu erwartende Urteil des Europ&#228;ischen Gerichtshofes,
+welches zu einer m&#246;glichen Unwirksamkeit des EU-US Privacy Shield f&#252;hren 
+k&#246;nnte&#8220; das Vorabentscheidungsverfahren in der Rechtssache C-311/18
+(Facebook Ireland und Schrems) gemeint ist. Gegenstand dieses Verfahrens ist die 
+&#220;berpr&#252;fung der Standardvertragsklauseln. Sofern der Europ&#228;ische Gerichtshof 
+im Rahmen dieses Verfahrens Aussagen &#252;ber das EU-US Privacy Shield trifft,
+wird die Bundesregierung darauf zeitnah reagieren. Der Generalanwalt hat
+seine Stellungnahme in diesem Verfahren f&#252;r den 12. Dezember 2019
+angek&#252;ndigt. Das Urteil des Europ&#228;ischen Gerichtshofs wird erst in der ersten
+Jahresh&#228;lfte 2020 erwartet.
+28. Welche Anstrengungen hat die Bundesregierung unternommen, um den 
+strafprozessualen Datenzugriff auf Clouds international einheitlich nach 
+rechtsstaatlichen Grunds&#228;tzen zu regeln, und wenn ja, in welchem
+Rahmen (bitte konkret darlegen)?
+Wie hoch veranschlagt die Bundesregierung die Kosten f&#252;r die bislang 
+bereits einbezogenen Beratungsunternehmen, bzw. welche weiteren
+Kosten kommen auf die Steuerzahler insoweit voraussichtlich zu?
+Auf die Antwort zu Frage 26 wird Bezug genommen. Dar&#252;ber hinaus hat sich 
+die Bunderegierung aktiv in den Verhandlungen des Rates f&#252;r Justiz und
+Inneres und dessen Gremien zu dem von der EU-Kommission im April 2018
+vorgelegten sog. &#8222;E-Evidence-Dossier&#8220; eingebracht und die aus deutscher Sicht
+erforderlichen Nachbesserungen des Gesetzgebungsvorschlages nachdr&#252;cklich 
+angeregt. Bereits ab Januar wird Deutschland als &#8222;incoming presidency&#8220; den 
+kroatischen Ratsvorsitz eng begleiten, auch bei Trilogen mit dem Europ&#228;ischen 
+Parlament. Auch in dieser Rolle wird die Bundesregierung noch ihr
+M&#246;glichstes tun, um die aus ihrer Sicht noch notwendigen Verbesserungen
+durchzusetzen. Die Position als &#8222;incoming presidency&#8220; verringert allerdings die
+Handlungsspielr&#228;ume, denn sie verpflichtet zur Loyalit&#228;t gegen&#252;ber dem Vorsitz.
+Die Bundesregierung bringt sich dar&#252;ber hinaus aktiv in die Verhandlungen 
+&#252;ber das derzeit auf Ebene des Europarats verhandelte Zweite Zusatzprotokoll 
+zur Budapest Konvention ein. Ziel dieses Zusatzprotokolls ist eine st&#228;rkere
+Zusammenarbeit zwischen den Parteien des Zusatzprotokolls bei der Sicherung 
+elektronischer Beweismittel und der Verfolgung von Computerkriminalit&#228;t.
+Erfasst werden hiervon grunds&#228;tzlich auch solche elektronischen Beweismittel, 
+die sich auf Cloud-Servern befinden. Die Bundesregierung entsendet eine
+Expertin oder einen Experten zu diesen Verhandlungen. Allerdings hat der Rat der 
+Europ&#228;ischen Union der EU-Kommission mit Beschluss vom 28. Juni 2019 
+Verhandlungsmandat erteilt (Ratsdokumente 9664/19 und 9116/19). Dies
+bedeutet, dass die EU-Kommission nun die Verhandlungen f&#252;r alle
+Mitgliedstaaten der EU f&#252;hrt. Bei der Erarbeitung der europ&#228;ischen Verhandlungsposition 
+kann sich DEU &#252;ber die zust&#228;ndige Ratsarbeitsgruppe &#8222;Zusammenarbeit in 
+Strafsachen&#8220; (COPEN) einbringen.
+Hinsichtlich zu erwartender Kosten verweist die Bundesregierung auf das von 
+der EU-Kommission zeitgleich mit dem &#8222;E-Evidence-Dossier&#8220; im April 2018 
+vorgelegte &#8222;Impact Assessment&#8220;. Darin hat sich die EU-Kommission mit den 
+zu erwartenden Auswirkungen der Regelungsvorschl&#228;ge befasst und
+Kalkulationen get&#228;tigt, welche Kosten, aber auch Einsparungen sie erwartet. Dar&#252;ber
+hinaus hat die Bundesregierung keine Erkenntnisse zu in diesem Zusammenhang 
+bislang angefallenen oder zu erwartenden Kosten.
+29. Mit welchen weiteren Akteuren des komplexen Feldes des
+Gesundheitswesens au&#223;er dem Bundesministerium f&#252;r Gesundheit (BMG) wurde
+dar&#252;ber gesprochen, dass die Anschlussf&#228;higkeit der Telematikinfrastruktur 
+und die Nutzung von &#8222;GAIA-X&#8220; f&#252;r Gesundheitsdaten angestrebt werde 
+(S. 27 Langfassung Brosch&#252;re zum Projekt GAIA-X), und wenn ja, mit 
+welchem Ergebnis?
+Erste Gespr&#228;che zu Anwendungsbeispielen f&#252;r GAIA-X im Gesundheitsbereich 
+haben mit den Paten der in der Brosch&#252;re beschriebenen Bedarfsbeispiele 
+(Raylytic, f&#252;r das Konsortium &#8222;K&#252;nstliche Intelligenz f&#252;r klinische Studien&#8220; 
+(KIKS); Charit&#233; &#8211; Universit&#228;tsmedizin Berlin, Berlin Institute of Health,
+Plattform Lernende Systeme) stattgefunden. Das Bundesministerium f&#252;r Gesundheit 
+begleitet den Prozess positiv, wobei die m&#246;gliche Anschlussf&#228;higkeit an die
+Telematikinfrastruktur noch eruiert werden muss.
+30. Welche &#220;berlegungen zu den vielf&#228;ltigen Fragen der IT-Sicherheit eines 
+solchen Projekts kann die Bundesregierung bislang vorweisen, die
+insoweit bislang nicht Gegenstand der Projektskizzen sind, und geht mit der 
+Nichterw&#228;hnung zugleich eine Nichtpriorisierung der Problematik
+einher?
+IT-Sicherheit ist ein Querschnittsthema und wird in allen Bereichen von 
+GAIA-X mitgedacht und genie&#223;t sehr hohe Priorit&#228;t (Security by design). Dass 
+sich das in den bisherigen Publikationen noch nicht niederschl&#228;gt, ist der
+Tatsache geschuldet, dass durch die (auch in GAIA-X sehr aktive) Initiative &#8222;Trusted 
+Cloud&#8220; schon umfangreiche und wertvolle Arbeiten zum Thema vorliegen.
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/15466 -
+Umsetzung und Zeitplanung von "GAIA-X"</titel>
+    <datum>2020-01-09</datum>
+  </document>
+  

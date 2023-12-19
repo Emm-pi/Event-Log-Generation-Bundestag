@@ -1,0 +1,372 @@
+<document>
+    <id>249596</id>
+    <drucksachetyp>Unterrichtung</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/26134</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>dacdb8bf6f5805b5ad7e1e5ee975de6b</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>272928</id>
+      <titel>Bericht &#252;ber das Interoperabilit&#228;tsverzeichnis "vesta"</titel>
+      <vorgangstyp>Bericht, Gutachten, Programm</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium f&#252;r Gesundheit</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/261/1926134.pdf</pdf_url>
+      <id>249596</id>
+      <dokumentnummer>19/26134</dokumentnummer>
+      <datum>2021-01-07</datum>
+      <verteildatum>2021-01-26</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Unterrichtung</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Deutscher Bundestag Drucksache 19/26134 
+19. Wahlperiode 07.01.2021 
+Unterrichtung
+durch die Bundesregierung
+Bericht &#252;ber das Interoperabilit&#228;tsverzeichnis &#8222;vesta&#8220;
+Inhal tsverzeichnis
+Seite
+1 Einleitung ........................................................................................... 2
+1.1 vesta Standards..................................................................................... 2
+1.2 vestaInformationsportal....................................................................... 3
+2 Bisherige Entwicklung ...................................................................... 3
+2.1 vesta Standards..................................................................................... 3
+2.2 vestaInformationsportal....................................................................... 4
+3 Erkenntnisse und Erfahrungen ........................................................ 5
+3.1 vesta Standards..................................................................................... 5
+3.2 vestaInformationsportal....................................................................... 6
+3.3 Einsch&#228;tzung zur Standardisierung im Gesundheitswesen ................... 6
+3.4 Empfehlung zur Harmonisierung der Standards ................................... 7
+4 Weiterentwicklung............................................................................. 7
+Zugeleitet mit Schreiben des Bundesministeriums f&#252;r Gesundheit vom 9. Januar 2021 gem&#228;&#223; &#167; 393 Absatz 3 
+des F&#252;nften Buches Sozialgesetzbuch.
+1 Einleitung
+In der am 29. Dezember 2015 in Kraft getretenen Fassung des Gesetzes f&#252;r sichere digitale Kommunikation und
+Anwendungen im Gesundheitswesen hat der Gesetzgeber die gematik GmbH, damals noch firmierend unter
+dem Namen &#8222;gematik &#8211; Gesellschaft f&#252;r Telematikanwendungen der Gesundheitskarte mbH&#8220;, mit dem Aufbau
+eines Interoperabilit&#228;tsverzeichnisses beauftragt. Die gematik hat diese Aufgabe mit der Entwicklung von
+&#8222;vesta&#8220; erf&#252;llt. Seit dem 30. Juni 2017 steht das Interoperabilit&#228;tsverzeichnis &#8222;vesta&#8220; unter https://www.vesta-
+gematik.de/ zur Verf&#252;gung.
+Der Kurzname &#8222;vesta&#8220; leitet sich aus der Bezeichnung Verzeichnis f&#252;r Standards und Anwendungen ab. vesta
+hat demnach mit &#8222;Standards&#8220; und &#8222;Anwendungen&#8220; zwei Bestandteile, n&#228;mlich:
+&#8226; &#8222;vesta Standards&#8220; als Verzeichnis f&#252;r technische und semantische Standards, Profile und Leitf&#228;den f&#252;r
+informationstechnische Systeme im Gesundheitswesen und
+&#8226; &#8222;vesta Informationsportal&#8220; als Verzeichnis f&#252;r Informationen &#252;ber elektronische Anwendungen im
+Gesundheitswesen.
+Gem&#228;&#223; &#167; 393 Absatz 1 des F&#252;nften Buches Sozialgesetzbuch (SGB V) muss die gematik einen Bericht mit
+Informationen &#252;ber den Aufbau des Interoperabilit&#228;tsverzeichnisses, Anwendungserfahrungen und Vorschl&#228;gen
+zur Weiterentwicklung des Interoperabilit&#228;tsverzeichnisses erstellen. Nach &#167; 393 Absatz 3 SGB V leitet das
+Bundesministerium f&#252;r Gesundheit diesen Bericht an den Deutschen Bundestag weiter. Im Dezember 2017 legte die
+gematik dazu fristgerecht ihren ersten Bericht1 vor.
+Der hier vorliegende zweite Bericht zum Interoperabilit&#228;tsverzeichnis vesta betrachtet den Zeitraum seit dem
+letzten Bericht. Dieser Bericht stellt den aktuellen Stand, die Entwicklungen, Erkenntnisse und Erfahrungen zu
+vesta vor und beschreibt die daraus abgeleiteten und geplanten Ver&#228;nderungen.
+1.1 vesta Standards
+vesta Standards (https://www.vesta-gematik.de/) ist das zentrale Verzeichnis f&#252;r technische und semantische
+Standards, Profile und Leitf&#228;den f&#252;r informationstechnische Systeme im deutschen Gesundheitswesen (im
+Folgenden als IT-Standards bezeichnet).
+Grunds&#228;tzlich werden IT-Standards in vesta eingetragen, nachdem sie den in der Gesch&#228;fts- und
+Verfahrensordnung (GVO) definierten Antragsprozess durchlaufen haben. Damit schafft die Aufnahme in das Verzeichnis
+Transparenz hinsichtlich der IT-Standards im deutschen Gesundheitswesen. Allerdings wird aus der Aufnahme
+in das Verzeichnis keine direkte Wirkung hinsichtlich der Nutzung oder eine Nutzungsverpflichtung abgeleitet.
+Erst mit einer Entscheidung der gematik, dass ein IT-Standard als &#8222;Empfehlung&#8220; zu beachten ist, ist die Nutzung 
+des IT-Standards verpflichtend f&#252;r Anwendungen, die aus Mitteln der GKV finanziert werden.
+Je nach Urheber des IT-Standards wird hierbei in drei Kategorien unterschieden:
+(1) Interoperabilit&#228;tsfestlegungen sind in vesta eingetragene Festlegungen der gematik, insbesondere
+Spezifikationen zur Telematikinfrastruktur. Sie sind in vesta aufzunehmen, bevor sie f&#252;r den fl&#228;chendeckenden
+Wirkbetrieb der Telematikinfrastruktur freigegeben werden.
+(2) Daneben sind in vesta Standards Festlegungen der Kassen&#228;rztlichen Bundesvereinigung, der
+Kassenzahn&#228;rztlichen Bundesvereinigung und der  Deutschen Krankenhausgesellschaft zur Integration ihrer
+sektorspezifischen offenen Schnittstellen nach &#167; 371 SGB V aufzunehmen.
+(3) Die dritte Kategorie bilden IT-Standards anderer Urheber, die auf Antrag in das Verzeichnis aufgenommen
+werden.
+W&#228;hrend des Aufnahme- und Empfehlungsprozesses sind gem&#228;&#223; der Gesch&#228;fts- und Verfahrensordnung (GVO)
+die so genannten vesta-Experten und die Fach&#246;ffentlichkeit einzubinden. N&#228;here Informationen zu Prozessen 
+und Nutzerbeteiligung sind in der aktuell g&#252;ltigen GVO von vesta enthalten.2 
+1 http://dipbt.bundestag.de/doc/btd/19/004/1900451.pdf
+2 https://www.vesta-gematik.de/geschaefts-und-verfahrensordnung/
+1.2 vesta Informationsportal
+Das vesta Informationsportal (https://www.informationsportal.vesta-gematik.de) ist der Nachfolger des
+&#8222;Deutschen Telemedizinportals&#8220;, welches als Projekt der vom Bundesministerium f&#252;r Gesundheit im Jahr 2010
+gegr&#252;ndeten E-Health-Initiative startete. Das deutsche Telemedizinportal wurde durch das Fraunhofer-Institut
+FOKUS entwickelt und 2012 ver&#246;ffentlicht. Zu diesem Zeitpunkt enthielt es zahlreiche Telemedizinprojekte des
+deutschen Gesundheitswesens.
+Seit 2016 wurde das Deutsche Telemedizinportal von der gematik betrieben und im Laufe des Jahres 2018 durch
+die &#220;bertragung aller relevanten Telemedizinprojekte in das vesta Informationsportal vollst&#228;ndig abgel&#246;st.
+Das vesta Informationsportal stellt ein zentrales Verzeichnis f&#252;r telemedizinische Projekte und elektronische
+Anwendungen im Gesundheitswesen dar, wie z. B. Apps, Software-L&#246;sungen oder Kommunikations- und
+Datenaustauschplattformen. Es enth&#228;lt insbesondere Informationen &#252;ber den Inhalt, den Verwendungszweck und die
+Finanzierung, aber auch &#252;ber das Szenario, den medizinischen Nutzen und die zugrundeliegende Technik der
+jeweiligen Anwendung. Dabei spielt es, als Erweiterung zum Vorg&#228;ngerportal, keine Rolle, ob die Anwendung 
+z. B. ein &#246;ffentlich gef&#246;rdertes Pilotprojekt war oder bereits in der Regelversorgung etabliert ist.
+Anbieter von elektronischen Anwendungen, die ganz oder teilweise aus GKV-Mitteln finanziert werden, sind
+gesetzlich verpflichtet, die Aufnahme ihrer Anwendung im vesta Informationsportal zu beantragen. N&#228;here
+Informationen zu Prozessen und Nutzerbeteiligung sind in der aktuell g&#252;ltigen Gesch&#228;fts- und Verfahrensordnung 
+von vesta enthalten (s. o.).
+2 Bisherige Entwicklung
+Im Jahr 2018 haben sich die Portale vesta Standards und vesta Informationsportal in unterschiedlichen
+Geschwindigkeiten weiterentwickelt. Aus diesem Grund werden im Folgenden die Entwicklungen der beiden Portale
+gesondert beschrieben.
+2.1 vesta Standards
+Der Bereich vesta Standards umfasst zum Zeitpunkt der Berichterstellung insgesamt 380 IT-Standards und
+Festlegungen. Dabei wurden 297 Festlegungen der gematik (Interoperabilit&#228;tsfestlegungen) und f&#252;nf Standards der 
+kassen&#228;rztlichen Bundesvereinigungen nach &#167; 371 SGB V.
+Die Aufnahme der Interoperabilit&#228;tsfestlegungen und der IT-Standards anderer Urheber erfolgte &#252;ber die letzten 
+Jahre verteilt in verschiedenen Wellen. Dabei wurde mit Start im 2. Quartal 2018 darauf geachtet, dass die
+verschiedenen Kommentierungsphasen der einzelnen Akteure pro Welle ineinandergreifen. Zus&#228;tzlich wurden die
+IT-Standards anderer Urheber in verschiedene Dom&#228;nen unterteilt, so dass fachlich sinnvoll zusammenh&#228;ngende
+Pakete f&#252;r die Aufnahme- und Kommentierungsphasen gebildet werden konnten.
+Gestartet wurde mit einem Paket von IT-Standards anderer Urheber der Dom&#228;ne &#8222;Labordaten&#8220;. Dieses Paket
+beinhaltete 12 IT-Standards. Es wurden im Verlauf der Kommentierungsprozesse 19 Stellungnahmen von
+Experten und zwei Kommentare von der Fach&#246;ffentlichkeit eingereicht.
+Nach Abschluss der Stellungnahmen der Experten f&#252;r das erste Paket schloss sich direkt das n&#228;chste zu den 
+Dom&#228;nen &#8222;Abrechnung/Administration&#8220; und &#8222;Arzneimittel&#8220; mit insgesamt 19 IT-Standards anderer Urheber an.
+Somit lief die Kommentierung durch die Fach&#246;ffentlichkeit f&#252;r Paket 1 parallel zur Stellungnahme durch
+Experten f&#252;r Paket 2. Diese Verzahnung hat sich auch in den folgenden Kommentierungsphasen fortgesetzt. F&#252;r das
+Paket 2 wurden insgesamt 32 Stellungnahmen von Experten eingereicht. Von Seiten der Fach&#246;ffentlichkeit gab 
+es f&#252;r dieses Paket keine Kommentare.
+Im Anschluss an Paket 2 wurden ebenfalls im Laufe des Jahres 2018 noch zwei Kommentierungsprozesse f&#252;r
+Interoperabilit&#228;tsfestlegungen der gematik begonnen. Der erste Kommentierungsprozess umfasste 44
+Spezifikationen. In diesem Prozess wurden vier Stellungnahmen von Experten abgegeben. Hierzu wurden wiederum keine
+Kommentare von der Fach&#246;ffentlichkeit abgegeben. Der zweite Kommentierungsprozess umfasste 24
+Spezifikationen und war gleichzeitig das erste Dokumentenrelease mit dem Fokus auf die &#8222;elektronische Patientenakte&#8220;.
+Dazu wurden 18 Stellungnahmen von Experten abgegeben und ein Kommentar der Fach&#246;ffentlichkeit.
+Im Jahr 2019 wurden noch drei weitere Dokumentenreleases f&#252;r Interoperabilit&#228;tsfestlegungen der gematik zur
+Kommentierung bereitgestellt. Bei allen drei Releases erhielt die gematik weder Stellungnahmen von Experten 
+noch Kommentare der Fach&#246;ffentlichkeit. Weitere Pakete f&#252;r Antr&#228;ge von IT-Standards anderer Urheber wurden
+nicht mehr gestartet. Zum einen wurden zun&#228;chst die Releases f&#252;r Interoperabilit&#228;tsfestlegungen der gematik
+kommentiert, da diese auf der Basis der gesetzlichen Bestimmungen priorisiert zu behandeln sind. Zum anderen 
+wurde aufgrund sich abzeichnender Prozess&#228;nderungen in vesta in Bezug auf die Aufnahme von Antr&#228;gen
+externer IT-Standards im Mai 2019 entschieden, keine weitere Aufnahme f&#252;r Antr&#228;ge externer IT-Standards mehr
+durchzuf&#252;hren.
+Die Festlegungen der kassen&#228;rztlichen Bundesvereinigung nach &#167; 371 SGB V sind in vesta aufgrund der
+Ausf&#252;hrungen in der Gesch&#228;fts- und Verfahrensordnung ver&#246;ffentlicht worden.
+Aufgrund von Anregungen, die in einem Workshop der benannten Experten bereits im Jahr 2017 erstmals
+gegeben wurden, erfolgten sowohl prozessuale als auch funktionale Anpassungen in vesta Standards:
+&#8226; Die Antr&#228;ge zur Aufnahme von IT-Standards anderer Urheber wurden in sogenannten Dom&#228;nen geb&#252;ndelt,
+damit bei den Aufnahme-und Kommentierungsprozessen jeweils fokussiert von den Experten und der
+Fach&#246;ffentlichkeit ein bestimmtes Paket bearbeitet werden kann.
+&#8226; Damit auch Antr&#228;ge f&#252;r IT-Standards unter Nutzung von Referenzen auf Internet-Adressen aufgenommen
+werden k&#246;nnen, wird bei der Antragstellung auch die M&#246;glichkeit gegeben, zus&#228;tzlich eindeutige Verweise
+zu hinterlegen. Somit konnten insbesondere Antr&#228;ge von IHE und HL7 schneller in vesta Standards
+eingereicht werden.
+&#8226; Damit Antr&#228;ge nicht erst nach dem Aufnahmeprozess in vesta Standards sichtbar werden, wurde eine Liste
+mit eingereichten, jedoch noch nicht aufgenommenen IT-Standards in vesta eingef&#252;hrt. Somit ist leicht
+erkennbar, welche Antr&#228;ge bereits eingereicht wurden und in welchem Status sich diese Antr&#228;ge gerade
+befinden.
+&#8226; Zur besseren und schnelleren &#220;bersicht wurde im Jahr 2019 neben der schon vorher existierenden
+&#8222;Kachelansicht&#8220; eine &#8222;Tabellenansicht&#8220; f&#252;r aufgenommene IT-Standards und die vesta-Experten hinzugef&#252;gt.
+Zudem wurden M&#246;glichkeiten zur verbesserten Suche und pr&#228;ziseren Eingrenzung von Suchergebnissen
+geschaffen. Zus&#228;tzlich wurde die Funktion erg&#228;nzt, Inhalte von vesta herunterzuladen, um diese weiter
+auszuwerten.
+Weitere Verbesserungspotentiale von vesta Standards wurden im Verlauf der letzten Jahre aufgenommen und
+verifiziert. Daraus haben sich Entwicklungspotentiale ergeben, welche im Kapitel &#8222;Weiterentwicklung&#8220;
+verbunden mit Empfehlungen beschrieben sind.
+2.2 Vesta Informationsportal
+Derzeit umfasst das vesta Informationsportal insgesamt 179 Projekte und Anwendungen. Das Portal hat
+au&#223;erdem ca. 30 registrierte Nutzer, welche im Kontext des Informationsportals als potentielle Antragsteller neuer
+Projekte und Anwendungen gesehen werden k&#246;nnen.
+Von diesen 179 Projekten und Anwendungen stammen 168 Projekte aus der &#220;bernahme der Inhalte des
+Telemedizinportals zu vesta.
+Nach der Fertigstellung des vesta Informationsportals im 2. Quartal 2018 wurde dieses zun&#228;chst ohne die
+Funktion zur Antragstellung in den Produktivbetrieb genommen. Hintergrund f&#252;r diese Vorgehensweise war, dass
+zun&#228;chst der Fokus auf der Migration der Projekte aus dem Telemedizinportal lag und mit dessen Abschaltung
+direkt eine Weiterleitung auf das Informationsportal erfolgen konnte. Das Telemedizinportal wurde somit durch
+den Produktivbetrieb des Informationsportals ersetzt und nach einer kurzen &#220;bergangsfrist komplett
+abgeschaltet. Im Verlauf des 3. Quartals 2018 wurden die Funktionen zur Registrierung und zur Antragstellung im vesta
+Informationsportal final qualit&#228;tsgesichert und anschlie&#223;end freigeschaltet.
+Nach Aufnahme des Produktivbetriebs des vesta Informationsportals wurden kontinuierlich
+Weiterentwicklungen und Verbesserungen vorgenommen. Es wurde eine Verbindung zum Portal vesta Standards hergestellt,
+sodass die Antragsteller von Projekten und Anwendungen die M&#246;glichkeit haben, bereits eingereichte IT-
+Standards, welche in der Anwendung verwendet werden, zu verkn&#252;pfen. Dadurch wird transparenter, welche
+Anwendung auf welchen IT-Standards aufsetzt und welcher IT-Standard in welcher Anwendung bereits eingesetzt wird.
+Da auch die M&#246;glichkeit geschaffen wurde, im vesta Informationsportal noch nicht gelistete Standards
+einzutragen, wird dar&#252;ber hinaus auch deutlich, welche Standards noch eingereicht werden m&#252;ssten.
+Zus&#228;tzlich wurde die &#220;bersicht der Projekte und Anwendungen um die Funktion &#8222;Tabellenansicht&#8220; erweitert. In
+dieser Ansicht ist es nun m&#246;glich, Projekte und Anwendungen basierend auf bestimmten Anwendungsf&#228;llen
+abzufragen.
+3 Erkenntnisse und Erfahrungen
+Der Betrieb von vesta innerhalb der letzten zweieinhalb Jahre hat gezeigt, dass das Interoperabilit&#228;tsverzeichnis
+in Bezug auf verschiedene Themenstellungen noch Verbesserungspotentiale aufweist. Dies ist sowohl auf Basis
+von expliziten R&#252;ckmeldungen der benannten Experten in vesta Standards als auch durch verschiedene
+&#246;ffentliche Diskussionen bez&#252;glich vesta Standards und bez&#252;glich des vesta Informationsportals erkennbar geworden.
+Zusammenfassend kann festgestellt werden, dass das Interoperabilit&#228;tsverzeichnis bislang nicht als Werkzeug 
+zur Schaffung von Interoperabilit&#228;t verstanden wurde. Die Erfahrungen zeigen, dass es aus Sicht aller beteiligten
+Akteure aber einen Bedarf gibt, ein &#246;ffentliches Dokumentationswerkzeug zur Schaffung von Transparenz
+sowohl &#252;ber IT-Standards als auch &#252;ber Projekte und Anwendungen bereitzustellen. Wesentlich dabei ist, dass
+dieses Verzeichnis die Beziehungen zwischen IT-Standards, Projekten und Anwendungen und weiteren
+Zusatzinformationen abbildet, sodass dadurch ein Mehrwert f&#252;r alle Akteure im Umfeld der Digitalisierung des
+Gesundheitswesens entsteht. In seiner jetzigen Form wird es jedoch nicht als dieses Werkzeug wahrgenommen, da
+vesta bislang lediglich die Mindestanforderungen aus der Gesetzgebung umgesetzt und etabliert hat.
+3.1 vesta Standards
+Der Prozess zur Aufnahme und Bewertung von IT-Standards externer Antragsteller wurde aus Sicht vieler
+beteiligter Akteure als zu langwierig empfunden. Hintergrund ist, dass gem&#228;&#223; der gesetzlichen Grundlage zu jedem
+zur Aufnahme beantragten IT-Standard eine Bewertung in Bezug auf die Interoperabilit&#228;t zu den Festlegungen 
+der gematik (auch Interoperabilit&#228;tsfestlegungen genannt) durchgef&#252;hrt werden muss. Die Bewertung von
+Qualit&#228;t und Eignung des IT-Standards stand dabei jedoch nicht im Fokus, sodass f&#252;r die Bewertung, ob dieser IT-
+Standard der Interoperabilit&#228;t im deutschen Gesundheitswesen dient, keine Aussagen gemacht werden konnten.
+Hinzu kommt, dass jeder IT-Standard vom Grundsatz zun&#228;chst einzeln bewertet werden musste, damit jeder
+Experte f&#252;r jeden beantragten IT-Standard die M&#246;glichkeit hatte, seine Expertise einzubringen. Es ergaben sich
+daraus Aufnahmeprozesse f&#252;r die IT-Standards mit einer Dauer von ca. drei Monaten pro Antrag. Eine
+Verbesserung dieses Prozesses wurde ab 05/2018 erreicht, indem Antr&#228;ge zu IT-Standards nach bestimmten
+Gesichtspunkten geb&#252;ndelt f&#252;r die Experten zur Verf&#252;gung gestellt wurden.
+Die Teilnahme sowohl der Experten als auch der Fach&#246;ffentlichkeit ging dabei kontinuierlich zur&#252;ck. Grund
+daf&#252;r ist, dass offenbar nicht deutlich wurde, weshalb bei der Aufnahme von IT-Standards in vesta eine
+Kommentierung durchgef&#252;hrt werden muss, obwohl vor der verbindlichen Nutzung des Standards ohnehin noch
+einmal eine Empfehlungs-Entscheidung f&#252;r die jeweilige konkrete Fragestellung durchgef&#252;hrt werden muss. In
+diesem Zusammenhang wurde auch h&#228;ufig von Experten und der Fach&#246;ffentlichkeit die Grundsatzfrage gestellt,
+was die gesetzliche Regelung einer Empfehlung von IT-Standards letztendlich bewirkt.
+Aus Sicht der gematik ist der derzeitig gesetzlich geregelte und implementierte Prozess nicht geeignet,
+verbindliche IT-Standards im Gesundheitswesen zu etablieren und zu implementieren.
+F&#252;r die Aufnahme von Interoperabilit&#228;tsfestlegungen der gematik wurde durch die gematik auf die gesetzliche
+Grundlage und somit auf die Bereitstellung der Spezifikationen vor Wirkbetriebsfreigabe verwiesen. Es war u. a.
+aufgrund der geltenden Terminvorgaben nicht m&#246;glich, dass die Interoperabilit&#228;tsfestlegungen im
+Interoperabilit&#228;tsverzeichnis kommentiert werden konnten, bevor diese f&#252;r den Wirkbetrieb freigegeben wurden. Somit
+konnten die beteiligten vesta Experten gem&#228;&#223; der geltenden Gesch&#228;fts- und Verfahrensordnung von vesta hier
+lediglich kommentieren, ob die neuen Versionen der Interoperabilit&#228;tsfestlegungen mit den im
+Interoperabilit&#228;tsverzeichnis bisher verf&#252;gbaren Interoperabilit&#228;tsfestlegungen interoperabel sind. Die dar&#252;ber hinaus gehenden
+inhaltlichen Kommentare der Experten hatten keinen Einfluss mehr auf die Inhalte der zur Stellungnahme
+vorgelegten Interoperabilit&#228;tsfestlegungen der gematik. Die gemeldeten Stellungnahmen konnten erst in
+Folgeversionen ber&#252;cksichtigt werden.
+Schlie&#223;lich hat auch aufgrund dieser Umst&#228;nde das Interesse der vesta Experten an der Einbringung von
+Expertise abgenommen. Im Ergebnis wurden bei den letzten Ver&#246;ffentlichungen weder von den Experten noch von der
+Fach&#246;ffentlichkeit Kommentare abgegeben.
+3.2 vesta Informationsportal
+F&#252;r das im Jahr 2018 gestartete vesta Informationsportal wurde zun&#228;chst die Migration aller im deutschen
+Telemedizinportal (Vorg&#228;nger des vesta Informationsportals) vorhandenen Projekte erfolgreich durchgef&#252;hrt. Im
+Anschluss daran wurde das Telemedizinportal nach einer &#220;bergangsphase von sechs Monaten abgeschaltet. Im
+weiteren Betrieb des vesta Informationsportals wurden bis zum aktuellen Zeitpunkt elf Antr&#228;ge f&#252;r Projekte und
+Anwendungen eingereicht.
+Aufgrund von R&#252;ckmeldungen an die gematik wurde deutlich, dass nicht alle Projekttr&#228;ger, selbst solche, deren 
+Projekte mit GKV-Mitteln finanziert werden, von der gesetzlichen Meldepflicht zur Aufnahme von
+Projektinformationen in das vesta Informationsportal wissen oder dieser gesetzlichen Pflicht nicht nachkommen. Da nur der
+Betrieb des Informationsportals gesetzlich geregelt wurde, konnte lediglich ein ungerichteter Hinweis auf diese
+Meldepflicht durch die gematik erfolgen, dazu wurde eine Erl&#228;uterung der gesetzlichen Grundlage zur
+Meldepflicht auf der Internetdarstellung des vesta Informationsportals ver&#246;ffentlicht. Dies hat aber bisher noch nicht
+die gew&#252;nschte Wirkung erzielt. Eine Aufnahme von Projekten ohne eine Antragstellung ist gesetzlich nicht
+vorgesehen.
+Parallel zum Betrieb des vesta Informationsportals wurden durch regionale Initiativen ohne Abstimmung mit der
+gematik weitere Portale aufgebaut, welche im gleichen bzw. in einem &#228;hnlichen Kontext zum vesta
+Informationsportal Projekte und Anwendungen, teilweise mit gleichen Funktionalit&#228;ten, regional und &#252;berregional erfasst
+und ver&#246;ffentlicht haben. Einen Bedarf f&#252;r die Erstellung eines allgemein verf&#252;gbaren Verzeichnisses zu
+telemedizinischen Anwendungen und digitaler Medizin gibt es demnach offenbar nach wie vor. Das vesta
+Informationsportal als bundesweites Verzeichnis f&#252;r Projekte und Anwendungen im deutschen Gesundheitswesen wurde
+durch die Etablierung &#228;hnlicher Portale mit ann&#228;hernd gleicher Funktionalit&#228;t in seiner Au&#223;enwirkung und im
+Nutzen eingeschr&#228;nkt.
+3.3 Einsch&#228;tzung zur Standardisierung im Gesundheitswesen
+Aus den bisherigen Erfahrungen mit vesta kann nach wie vor kein vollst&#228;ndiges Bild zur Einsch&#228;tzung der
+Standardisierung im Gesundheitswesen gegeben werden. Zudem ist noch keine realisierbare L&#246;sung f&#252;r die
+Schaffung von Interoperabilit&#228;t umgesetzt worden. Die bisherigen Bem&#252;hungen zur Schaffung von Transparenz &#252;ber
+die an verschiedenen Stellen im Gesundheitssystem eingesetzten Standards oder spezifisch definierten L&#246;sungen
+sind die Grundlage f&#252;r die erforderlichen weiteren Schritte der Digitalisierung im Gesundheitswesen. Bedingt
+durch die heterogenen und teilweise sektoral existierenden Insell&#246;sungen ist die Schaffung von Interoperabilit&#228;t
+der Systeme im Gesundheitswesen zudem eine h&#246;chst kommunikationsintensive Aufgabe, um die verschiedenen
+existierenden Systeme, Schnittstellen und L&#246;sungen schrittweise durch die Nutzung von neuen oder angepassten 
+Standards interoperabel zu machen.
+Das Bewusstsein, dass diese Entwicklung hin zu einer interoperablen &#220;bertragung in einer durch viele Hersteller
+umsetzbaren Systemlandschaft durch vorhergehende Abstimmung und Einigung auf zu verwendende
+Spezifikationen und IT-Standards sinnvoll ist, w&#228;chst auch in Deutschland, gerade auch vor dem Hintergrund des
+un&#252;bersehbar gro&#223;en Abstands Deutschlands im Bereich der Digitalisierung zu fast allen anderen europ&#228;ischen L&#228;ndern.
+Im Unterschied zu Deutschland sind L&#228;nder, die seit mehreren Jahren auf Standardisierung der Datenstrukturen 
+und Inhalte im medizinischen Bereich setzen und daf&#252;r internationale und europ&#228;isch abgestimmte Normen und 
+Standards nutzen, in der Digitalisierung im Gesundheitswesen erfolgreich. Viele dieser L&#228;nder nutzen teilweise
+seit mehreren Jahren digital vernetzte Gesundheitsanwendungen, inzwischen sogar grenz&#252;bergreifend.
+Demgegen&#252;ber gibt es in Deutschland eine Vielzahl von Projekten, die nicht auf bereits existierende IT-Standards
+aufsetzen oder die Abstimmung mit anderen Projekten zur Herstellung von Interoperabilit&#228;t nicht als Teil des
+Projektziels betrachten.
+Zudem werden IT-Standards im Gesundheitswesen, unabh&#228;ngig von der gematik, an sehr unterschiedlichen
+Stellen definiert, teilweise sektorspezifisch und zweckgebunden, ohne auf existierende oder international
+gebr&#228;uchliche Standards zur&#252;ckzugreifen. Es erscheint daher zweckm&#228;&#223;ig, die Aktivit&#228;ten der verschiedenen, teilweise
+durch den Gesetzgeber beauftragten Institutionen, st&#228;rker zu koordinieren und die Schaffung von interoperablen 
+L&#246;sungen im digitalen Gesundheitswesen st&#228;rker als bisher in den Anforderungsrahmen aufzunehmen.
+Bislang fehlt eine &#252;bergeordnete Koordination und strategische Festlegung, welche grunds&#228;tzlichen IT-Standards
+in Deutschland fl&#228;chendeckend und ggf. f&#252;r die Sicherstellung der Interoperabilit&#228;t z. B. zu weiteren Teilnehmern
+der Digitalisierung von medizinischen Daten verbindlich genutzt werden m&#252;ssen.
+3.4 Empfehlung zur Harmonisierung der Standards
+Die Menge der derzeit in vesta aufgenommenen Interoperabilit&#228;tsfestlegungen und IT-Standards l&#228;sst nach wie
+vor keine verl&#228;ssliche Aussage zum Bedarf einer Harmonisierung oder von Empfehlungen von IT-Standards im
+Gesundheitswesen zu.
+Weitreichende Erkenntnisse zum Bedarf der Harmonisierung von Standards werden erst in der Zukunft erkennbar
+werden, wenn verschiedene Standards, Profile, Leitf&#228;den und Interoperabilit&#228;tsfestlegungen einen
+Handlungsbedarf erkennen lassen. Gleichwohl sind, gerade f&#252;r die zuk&#252;nftige Nutzung von strukturierten medizinischen
+Daten, viele Projekte und Initiativen (z. B. die MI-Initiative) inzwischen dazu &#252;bergegangen, IT-Standards f&#252;r die
+medizinische Versorgung auszuw&#228;hlen bzw. zu profilieren. Die dabei gelegten Grundlagen f&#252;r die Schaffung 
+von Interoperabilit&#228;t sind wichtig f&#252;r die zuk&#252;nftige Festlegung von IT-Standards auch f&#252;r &#252;ber die
+gesundheitliche Versorgung hinausgehenden M&#246;glichkeiten der Digitalisierung.
+4 Weiterentwicklung
+Die beobachteten Entwicklungen und die daraus gewonnenen Erfahrungen und die daraus abgeleiteten
+Erkenntnisse f&#252;r vesta Standards und f&#252;r das vesta Informationsportal werden im Folgenden im Hinblick auf
+Empfehlungen mit Blick auf Verbesserungspotentiale betrachtet.
+Es wurde auf Grundlage verschiedener Abstimmungen mit einer Vielzahl von beteiligten Akteuren im
+Gesundheitswesen deutlich, dass Interoperabilit&#228;t nur durch eine klare Verteilung von Zust&#228;ndigkeiten und
+Verantwortlichkeiten, einer zentralen Koordination und durch transparente und verbindliche Entscheidungen erreicht werden
+kann.
+Das Interoperabilit&#228;tsverzeichnis vesta sollte daher zuk&#252;nftig insbesondere als Dokumentations- und
+Wissensmanagementplattform dienen. Als Nutzen ergibt sich damit der transparente und &#246;ffentliche Zugang zu
+Informationen &#252;ber Standardisierungsaktivit&#228;ten, Projektvorhaben, elektronische Anwendungen und Akteure im Bereich 
+E-Heath. Daf&#252;r bietet es sich an, ein &#252;bersichtliches Informationsnetz mit sinnvollen Relationen zwischen den 
+einzelnen Informationselementen aufzubauen, dessen Inhalte zum einen von einer zentralen Redaktion und
+zus&#228;tzlich von Fachexperten zusammengetragen, aufbereitet und inhaltlich gepflegt werden. Damit verbunden ist
+das Zusammenf&#252;hren der aktuell bestehenden Portale vesta Standards und vesta Informationsportal, das dann 
+alle Informationen geb&#252;ndelt in einem Portal abbildet.
+Die gematik schl&#228;gt vor, die Bewertungs- und Empfehlungsprozesse zuk&#252;nftig nicht mehr gesetzlich als formale
+Kommentierung innerhalb eines Interoperabilit&#228;tsverzeichnisses zu regeln. Die Entscheidungen sollten
+gleichwohl koordiniert, unter Einbeziehung aller relevanten Stakeholder und durch transparente Entscheidungsprozesse
+und -ergebnisse getroffen werden.
+Die gematik empfiehlt diesbez&#252;glich, eine autorisierte nationale Koordinationsinstanz f&#252;r die Interoperabilit&#228;t im
+Gesundheitswesen zu etablieren. Diese kann es erm&#246;glichen, dass die Vielzahl von unabh&#228;ngigen Aktivit&#228;ten
+(Standardisierungs- und Projektt&#228;tigkeiten) zur F&#246;rderung von Interoperabilit&#228;t zielgerichteter gesteuert werden.
+Dies vermeidet Doppelaufw&#228;nde und tr&#228;gt dazu bei, dass die vorhandenen Ressourcen effizienter eingesetzt
+werden. Au&#223;erdem kann eine solche Instanz als erste Anlaufstelle f&#252;r alle Akteure f&#252;r die Digitalisierung im
+Gesundheitswesen fungieren, um zum Beispiel bereits in fr&#252;hen Entwicklungsphasen neuer elektronischer
+Anwendungen des Gesundheitswesens zur Nutzung von IT-Standards im Sinne der Interoperabilit&#228;t beratend t&#228;tig zu
+werden. Die gematik als nationales Kompetenzzentrum f&#252;r die Telematikinfrastruktur und die Digitalisierung im
+Gesundheitswesen ist eine der Institutionen, die f&#252;r eine entsprechende nationale und zentrale Koordination
+geeignet ist und zudem auch die Abstimmung auf internationaler Ebene wahrnehmen kann.
+Dar&#252;ber hinaus ist zu empfehlen, dass eine klare Zuweisung von Zust&#228;ndigkeiten und Verantwortlichkeiten f&#252;r
+die Digitalisierung im Gesundheitswesen erfolgt. Dies betrifft insbesondere die Zusammenarbeit
+interdisziplin&#228;rer Experten und relevanter Organisationen des Gesundheitswesens, sodass eine aufeinander abgestimmte
+fachspezifische Ausrichtung von Aufgabengebieten &#8211; wie beispielsweise medizinisch-fachliche
+Anforderungserhebung, die Informationsmodellierung und die informationstechnische Spezifikation &#8211; erfolgen kann.
+Gesamtheitliches Ergebnis dieser verteilten Zust&#228;ndigkeiten sollten verbindliche Festlegungen zur Nutzung von
+informationstechnischen und semantischen IT-Standards im Gesundheitswesen sein. Dabei ist zu empfehlen,
+dass, &#228;hnlich wie im aktuellen Interoperabilit&#228;tsverzeichnis, Experten verschiedener Fachbereiche in einem
+Konsensverfahren mit transparenten Entscheidungsprozessen beteiligt werden. Die Abbildung der Ergebnisse, also 
+der oben genannten Festlegungen, sollte dann in vesta als der &#252;bergeordneten Dokumentations- und
+Wissensmanagementplattform erfolgen. Es wird allerdings nicht empfohlen, die Gesamtheit der Prozesse auf dem Weg
+zur Entscheidungsfindung formal &#252;ber diese Plattform vorzugeben.
+Dar&#252;ber hinaus ist es notwendig, mittels geeigneter Mechanismen die verbindliche Etablierung und Nutzung der
+gemeinschaftlich definierten IT-Standards herbeizuf&#252;hren, beispielsweise durch eine Best&#228;tigung durch die f&#252;r
+Interoperabilit&#228;t im Gesundheitswesen verantwortliche Stelle.
+Interoperabilit&#228;t im deutschen Gesundheitswesen und dar&#252;ber hinaus wurde beim deutschen Interoperabilit&#228;tstag 
+als eines der wichtigsten Themen der n&#228;chsten Jahre best&#228;tigt. Unter Beteiligung von verschiedenen Stakeholdern
+im Gesundheitswesen wurde dabei aber auch erkannt, dass es &#252;bergeordneter Strategien bedarf, um auf dieses
+Ziel hinarbeiten zu k&#246;nnen. Die vorgeschlagenen Ma&#223;nahmen zur Weiterentwicklung zahlen nach Ansicht der
+gematik auf dieses Ziel ein und sollten aktiv weiterverfolgt werden. Durch die klare Verteilung von
+Zust&#228;ndigkeiten und Verantwortlichkeiten, einer zentralen Koordination und durch transparente Entscheidungen kann die
+Erreichung des Ziels weiter vorangetrieben werden. Hierauf sollte der Fokus f&#252;r weitere Schritte hin zur
+Schaffung interoperabler L&#246;sungen im Gesundheitswesen gelegt werden. Dies dient vor allem dem Patienten, dessen 
+digitale Daten mit sicheren digitalen L&#246;sungen im Gesundheitswesen eine bessere Versorgung erm&#246;glichen.
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>Bericht &#252;ber das Interoperabilit&#228;tsverzeichnis "vesta"</titel>
+    <datum>2021-01-07</datum>
+  </document>
+  

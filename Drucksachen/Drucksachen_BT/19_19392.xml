@@ -1,0 +1,197 @@
+<document>
+    <id>241502</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/19392</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>3e63cd73c1df767d3d9489cf14647ae6</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>261573</id>
+      <titel>Cyber-Angriffe auf medizinische Einrichtungen und Ger&#228;te</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium des Innern, f&#252;r Bau und Heimat</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/193/1919392.pdf</pdf_url>
+      <id>241502</id>
+      <dokumentnummer>19/19392</dokumentnummer>
+      <datum>2020-05-22</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Antwort
+der Bundesregierung
+auf die Kleine Anfrage der Abgeordneten Jan Nolte, Gerold Otten, Jens Kestner, 
+weiterer Abgeordneter und der Fraktion der AfD
+&#8211; Drucksache 19/18797 &#8211;
+Cyber-Angriffe auf medizinische Einrichtungen und Ger&#228;te
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Laut einer Studie der Unternehmensberatung Roland Berger aus dem Jahr 
+2017 wurden mindestens 64 Prozent aller deutschen Krankenh&#228;user
+mindestens schon einmal Ziel von Cyber-Attacken (vgl. Roland Berger:
+Krankenhaus-Studie 2017, M&#252;nchen 2017). Die Angriffe k&#246;nnen unspezifiziert, zum 
+Beispiel durch zuf&#228;llig eingeschleuste Malware erfolgen oder gezielt, zum 
+Beispiel f&#252;r den Diebstahl von Patientenakten oder f&#252;r die Manipulation
+medizinischer Ger&#228;te durchgef&#252;hrt werden (ebd.).
+&#8199;1. Welche staatliche Kontrolle und Evaluation wird zur Cyber-Sicherheit 
+von Krankenh&#228;usern sowie deren Ger&#228;ten und Anlagen durchgef&#252;hrt?
+Krankenh&#228;user in Deutschland, die den Schwellenwert von 30.000
+vollstation&#228;ren F&#228;llen pro Jahr gem&#228;&#223; BSI-KRITIS-Verordnung (BSI-KritisV) erreichen, 
+sind &#252;ber das BSI-Gesetz (BSIG) reguliert und m&#252;ssen sich beim Bundesamt 
+f&#252;r Sicherheit in der Informationstechnik (BSI) als Betreiber Kritischer
+Infrastrukturen registrieren lassen. Sie sind damit verpflichtet, angemessene
+Sicherheitsma&#223;nahmen zum Schutz ihrer IT-Systeme, Komponenten und Prozesse 
+nach Stand der Technik umzusetzen. Dies m&#252;ssen sie nach &#167; 8a Absatz 3 BSIG 
+alle zwei Jahre gegen&#252;ber dem BSI nachweisen.
+&#8199;2. Welche nationalen und internationalen Cyber-Security-Zertifikate
+werden f&#252;r medizinische Ger&#228;te vergeben?
+Es gibt nach Kenntnisstand der Bundesregierung weder nationale noch
+internationale spezielle Cyber-Sicherheitszertifikate f&#252;r medizinische Ger&#228;te. Es gibt 
+nationale und internationale Empfehlungen zur Cyber-Sicherheit von
+Medizinprodukten (BSI, FDA, MDCG, IMDRF).
+Grunds&#228;tzlich d&#252;rfen Medizinprodukte nur mit einer CE-Kennzeichnung in 
+Verkehr gebracht oder in Betrieb genommen werden. Mit einer CE-
+Kennzeichnung weist der Hersteller nach, dass sein Produkt die grundlegenden Anforde-
+Deutscher Bundestag Drucksache 19/19392
+19. Wahlperiode 22.05.2020
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums des Innern, f&#252;r Bau und Heimat 
+vom 22. Mai 2020 &#252;bermittelt.
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext.
+rungen erf&#252;llt, also sicher und entsprechend der medizinischen
+Zweckbestimmung medizinisch-technisch leistungsf&#228;hig ist, sowie ein vorgeschriebenes 
+Konformit&#228;tsbewertungsverfahren durchgef&#252;hrt hat.
+Art und Umfang der Beteiligung einer unabh&#228;ngigen Zertifizierungsstelle
+(Benannten Stelle) am Konformit&#228;tsbewertungsverfahren h&#228;ngt vom potentiellen 
+Risiko des Produktes ab. Die Ausgestaltung der
+Konformit&#228;tsbewertungsverfahren und deren Durchf&#252;hrung in Deutschland sind in der Verordnung &#252;ber 
+Medizinprodukte (MPV) geregelt, die auf entsprechende europ&#228;ische
+Richtlinien verweist.
+&#8199;3. Wie h&#228;ufig wurden nach Kenntnis der Bundesregierung im Jahre 2019 
+Krankenh&#228;user Ziel von Cyber-Attacken?
+Das BSI erfasst im Auftrag der Bundesregierung IT-Sicherheitsvorf&#228;lle, zu
+denen unter anderem Cyber-Angriffe z&#228;hlen, als zentrale Meldestelle f&#252;r die IT-
+Sicherheit Kritischer Infrastrukturen nach &#167; 8b BSIG. Seit Inkrafttreten der
+ersten &#196;nderungsverordnung der BSI-KritisV am 30. Juni 2017 gilt diese
+Meldepflicht auch f&#252;r den Sektor Gesundheit. Einrichtungen aus diesem Sektor, die 
+nach &#167; 6 BSI-KritisV als Kritische Infrastruktur gelten, sind hiernach zu
+Meldungen verpflichtet.
+Im Rahmen dieser Meldepflicht liegen dem BSI f&#252;r das Jahr 2019 insgesamt 
+14 Meldungen aus den Krankenh&#228;usern zu Cyber-Angriffen vor.
+a) Was waren nach Kenntnis der Bundesregierung die jeweiligen
+Auswirkungen?
+Von der souver&#228;nen Abwehr (technisch am Perimeter oder durch aufmerksame 
+IT-Nutzer), d. h. ohne Auswirkung auf die Kritische Infrastruktur bzw. die
+kritische Dienstleistung, bis hin zu mehrt&#228;gigen Ausf&#228;llen (&#252;ber die dann auch
+hinl&#228;nglich durch die Presse berichtet wurde) sind alle Varianten vorzufinden. 
+Mehrt&#228;gige Ausf&#228;lle sind jedoch dabei die Seltenheit.
+b) Von welchem staatlichen oder nichtstaatlichen Akteur wurden nach 
+Kenntnis der Bundesregierung die Angriffe jeweils aufgekl&#228;rt?
+c) Welcher T&#228;terkreis (kriminelle, staatliche Akteure usw.) konnte nach 
+Kenntnis der Bundesregierung identifiziert werden?
+Der Bundesregierung liegen zur Fragestellung keine Erkenntnisse vor.
+&#8199;4. Wie entwickelte sich nach Kenntnis der Bundesregierung die Anzahl der 
+Angriffe auf medizinische Einrichtungen seit 2010 im Vergleich zum
+jeweiligen Vorjahr prozentual?
+Die Meldepflicht f&#252;r Anlagen die unter das BSIG fallen, besteht erst seit dem 
+Jahr 2018. Es liegen folgende Zahlen vor:
+&#8226; 2018: Station&#228;re med. Versorgung: 14; Versorgung mit Arzneimitteln: 1; 
+Versorgung mit Medizinprodukten: 0; Laboratoriumsdiagnostik: 1
+&#8226; 2019: Station&#228;re med. Versorgung: 14; Versorgung mit Arzneimittel: 1;
+Versorgung mit Medizinprodukte: 0&#184; Laboratoriumsdiagnostik: 0
+&#8199;5. Insgesamt wie viele Krankenh&#228;user wurden nach Kenntnis der
+Bundesregierung bisher Ziel von Cyber-Angriffen?
+Dem BSI wurden im Rahmen der gesetzlichen Meldepflicht seit dem Jahr 2018 
+bis heute von 27 Klinik-Betreibern Cyber-Angriffe mitgeteilt.
+Die abweichende Zahl gegen&#252;ber Frage 4 ergibt sich aus der Tatsache, dass ein 
+Betreiber zwei Meldungen nach BSIG abgegeben hat.
+&#8199;6. Welche medizinischen Ger&#228;te und Anlagen waren nach Kenntnis der 
+Bundesregierung bisher Ziel von Cyber-Angriffen?
+a) Welcher Art waren die Angriffe?
+b) Welche Folgen hatten die Angriffe?
+c) Welche Ma&#223;nahmen wurden zur Sicherung dieser Ger&#228;te ergriffen?
+Der Bundesregierung liegen zur Fragestellung keine Erkenntnisse vor.
+&#8199;7. Welche medizinischen Ger&#228;te und Anlagen sind nach Kenntnis der 
+Bundesregierung potenziell gef&#228;hrdet?
+Welche Gegenma&#223;nahmen sind von Seiten der Bundesregierung
+identifiziert oder durchgef&#252;hrt worden?
+Je mehr Kommunikationsschnittstellen ein Medizinprodukt aufweist, desto
+gr&#246;&#223;er ist die potenzielle Angriffsoberfl&#228;che. Das BSI f&#252;hrt kontinuierliche
+Sicherheitsanalysen im Bereich moderner Medizinprodukte durch. Des Weiteren
+besteht eine vertrauensvolle Zusammenarbeit mit dem Bundesinstitut f&#252;r
+Arzneimittel und Medizinprodukte (BfArM) bei der Behebung bekannt gewordener 
+Schwachstellen in Medizinprodukten. K&#252;nftig plant das BSI einen Ausbau
+dieser Zusammenarbeit zur Etablierung einer Sicherheitszertifzierung.
+&#8199;8. Welche Manipulationen von patientenbezogenen Daten sind der
+Bundesregierung bekannt?
+Der Bundesregierung liegen zur Fragestellung keine Erkenntnisse vor.
+&#8199;9. Welche Unterst&#252;tzung erhielten medizinische Einrichtung von Seiten 
+staatlicher Akteure f&#252;r eine bessere Sicherung ihrer Informationstechnik 
+(IT) und Ger&#228;tschaften?
+Mit dem IT-Grundschutz des BSI oder den Empfehlungen, die das BSI im
+Rahmen der Allianz f&#252;r Cyber-Sicherheit zur Verf&#252;gung gestellt hat, wurden den 
+medizinischen Einrichtungen vielf&#228;ltige Werkzeuge zur Absicherung ihrer IT-
+Infrastruktur zur Verf&#252;gung gestellt. Zudem hat die Deutsche
+Krankenhausgesellschaft einen branchenspezifischen Sicherheitsstandard (&#8222;B3S&#8220;) erarbeitet, 
+der allen Krankenh&#228;usern zur Verf&#252;gung steht. Dieser B3S wurde durch das 
+BSI gepr&#252;ft und die Eignung f&#252;r eine Einhaltung des Stands der Technik gem. 
+&#167; 8a (1) Satz 2 BSIG festgestellt. Daran k&#246;nnen sich auch die Kliniken
+orientieren, die nicht unter die gesetzlichen Vorgaben fallen.
+Es wird au&#223;erdem auf die Antwort zu Frage 10 verwiesen.
+10. Wie hoch waren die finanziellen Zuwendungen des Bundes f&#252;r die 
+Cyber-Sicherheit medizinischer Einrichtungen in den Jahren 2017 bis 
+2019?
+Welche Zuwendungen sind f&#252;r 2020 bis 2023 geplant?
+F&#252;r die F&#246;rderung der Investitionskosten im Krankenhausbereich, unter
+anderem auch f&#252;r die digitale (Sicherheits-)Infrastruktur, sind die L&#228;nder zust&#228;ndig.
+&#220;ber den fortgef&#252;hrten Krankenhausstrukturfonds k&#246;nnen die L&#228;nder seit 2019 
+bis Ende 2022 Mittel in H&#246;he von insgesamt bis zu 2 Mrd. Euro f&#252;r
+strukturverbessernde Vorhaben im Krankenhausbereich aus der Liquidit&#228;tsreserve des 
+Gesundheitsfonds erhalten. Mittel aus dem Krankenhausstrukturfonds k&#246;nnen 
+unter anderem f&#252;r die F&#246;rderung von Vorhaben zur Anpassung der
+informationstechnischen Sicherheit von Krankenh&#228;usern mit mindestens 30 000
+vollstation&#228;ren Behandlungsf&#228;llen pro Jahr an die Vorgaben des BSI-Gesetzes
+gew&#228;hrt werden. Bislang wurden seitens der L&#228;nder noch keine Antr&#228;ge gestellt, 
+sodass der Bundesregierung bislang keine Erkenntnisse vorliegen dar&#252;ber, f&#252;r 
+welche F&#246;rdervorhaben Mittel letztlich abflie&#223;en werden.
+11. Wie hoch sind nach Kenntnis der Bundesregierung im Durchschnitt die 
+veranschlagten Haushaltsmittel der medizinischen Einrichtungen f&#252;r IT-
+Sicherheit?
+Der Bundesregierung liegen zur Fragestellung keine Erkenntnisse vor. Die
+Mittelverwaltung und Finanzplanung liegt in der Zust&#228;ndigkeit der Betreiber.
+12. Welche staatlichen Ma&#223;nahmen sind in Zukunft f&#252;r eine h&#246;here
+Sicherheit der Krankenh&#228;user und medizinischen Ger&#228;te geplant?
+Alle Kliniken sind angehalten, die bestehenden IT-Sicherheitsma&#223;nahmen nach 
+dem Stand der Technik umzusetzen und sich dabei zum Beispiel am IT-
+Grundschutz des BSI, an dem branchenspezifischen Sicherheitsstandard (siehe 
+&#167; 8a Absatz 2 BSIG) der Deutschen Krankenhausgesellschaft oder an den
+Empfehlungen zu orientieren, die das BSI im Rahmen der Allianz f&#252;r Cyber-
+Sicherheit zur Verf&#252;gung stellt. Diese Regelungen beschreiben ein umfassendes 
+Sicherheitspaket und bed&#252;rfen zum jetzigen Zeitpunkt keiner Erweiterung.
+13. Welche zuk&#252;nftigen Herausforderungen und Gefahren hat die
+Bundesregierung in diesem Zusammenhang identifiziert?
+Die Bedrohungslage f&#252;r die Unternehmen wird zuk&#252;nftig auch weiterhin
+bestehen. Die Bundesregierung wird den Themenkomplex weiter beobachten und 
+geeignete Ma&#223;nahmen ergreifen.
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/18797 -
+Cyber-Angriffe auf medizinische Einrichtungen und Ger&#228;te</titel>
+    <datum>2020-05-22</datum>
+  </document>

@@ -1,0 +1,554 @@
+<document>
+    <id>221701</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/4030</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>02b005b100f5904fc65fd628e28918f9</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>238437</id>
+      <titel>Hochfrequenzhandel in Deutschland</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium der Finanzen</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/040/1904030.pdf</pdf_url>
+      <id>221701</id>
+      <dokumentnummer>19/4030</dokumentnummer>
+      <datum>2018-08-28</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums der Finanzen vom 24. August 2018 
+&#252;bermittelt.  
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext. 
+Deutscher Bundestag  Drucksache 19/4030 
+19. Wahlperiode 28.08.2018 
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Dr. Gerhard Schick, Dr. Danyal Bayaz, 
+Lisa Paus, weiterer Abgeordneter und der Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN 
+&#8211; Drucksache 19/3766 &#8211; 
+Hochfrequenzhandel in Deutschland 
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r  
+Nach dem Flash Crash im Mai 2010, bei dem einzelne gro&#223;e Indizes um knapp 
+10 Prozent innerhalb eines Tages gefallen waren, haben Gesetzgeber,
+Regulierer und Finanzaufsichten weltweit den Hochfrequenzhandel (HFH bzw. HFT) 
+in den Fokus genommen. In Deutschland trat das Hochfrequenzhandelsgesetz 
+(HFHG) am 15. Mai 2013 in Kraft. Auf europ&#228;ischer Ebene wurde es im
+Rahmen der &#220;berarbeitung der Markets in Financial Instruments-Richtlinie (MiFID 
+II) adressiert. Die Umsetzung der europ&#228;ischen Regeln trat in Deutschland
+Anfang 2018 in Kraft. Da aber bei der Gestaltung des HFHG bereits wesentliche 
+Teile der europ&#228;ischen Regeln absehbar waren, kam es in Deutschland mit der 
+Implementierung von MiFID II aber nur zu vergleichsweise geringf&#252;gigen
+&#196;nderungen. 
+Auch das wissenschaftliche Interesse an dem Thema HFH hat sich mit dem 
+Flash Crash erh&#246;ht, leidet aber oftmals unter mangelnder Datenverf&#252;gbarkeit. 
+Mittlerweile konnten mit Hilfe von durch die Eurex (European Exchange) zur 
+Verf&#252;gung gestellten Daten einige Studien durchgef&#252;hrt werden. W&#228;hrend eine 
+Studie der Bundesbank ein grunds&#228;tzlich differenziertes Bild lieferte und
+argumentierte, &#8222;dass ein pauschales Urteil zu den Auswirkungen von HFT auf die 
+Finanzm&#228;rkte nicht angemessen ist, da diese stark von den betrachteten und teils 
+sehr unterschiedlichen Strategien und Marktphasen abh&#228;ngen&#8220;, konnten
+insbesondere auch negative Effekte gefunden werden: HFH tragen
+&#8222;&#252;berdurchschnittlich stark zu kurzfristiger (&#220;berschuss-) Volatilit&#228;t&#8220; bei. &#8222;Gleichzeitig 
+deuten die Ergebnisse darauf hin, dass sich passive HFT-Teilnehmer in volatilen 
+Marktphasen h&#228;ufig zur&#252;ckziehen und ihr Liquidit&#228;tsangebot reduzieren.
+Zusammengenommen legen die unterschiedlichen Verhaltensweisen von aktiven 
+und passiven HFT-Akteuren ein erh&#246;htes Risiko von Episoden kurzfristig
+&#252;berm&#228;&#223;iger Volatilit&#228;t nahe, wodurch Marktverwerfungen bis hin zu Flash Events 
+beg&#252;nstigt werden k&#246;nnten&#8220; (www.bundesbank.de/Redaktion/DE/Downloads/ 
+Veroeffentlichungen/Monatsberichtsaufsaetze/2016/2016_10_hochfrequenzhandel. 
+pdf?__blob=publicationFile). &#196;hnliche Ergebnisse werden von Hautsch, No&#233; 
+und Zhang (2017) gefunden: &#8222;Right before an announcement, however, HFTs 
+significantly widen spreads and cause a rapid but short-lived drying-out of
+liquidity. In turbulent periods, such as after the U.K. Brexit announcement, HFTs 
+shift their focus from market making activities to aggressive (but not necessarily
+profitable) directional strategies. Then, HFT activity becomes dominant and 
+market quality can degrade&#8221; (https://editorialexpress.com/cgi-bin/conference/ 
+download.cgi?db_name=AFA2018&amp;paper_id=921). Alle Ergebnisse beziehen 
+sich auf Zeiten nach dem Erlass des HFHG.  
+Wissenschaftler der Europ&#228;ischen Zentralbank (EZB) haben eine Verlagerung 
+des Aktienhandels von regul&#228;ren Handelspl&#228;tzen in sogenannte Dark Pools
+festgestellt. W&#228;hrend im Jahr 2009 noch weniger als 1 Prozent des gesamten
+Aktienhandels &#252;ber Dark Pools abgewickelt wurde, waren es im Jahre 2016 bereits 
+8 Prozent. Die Autoren der Studie machen teilweise die Handelsstrategien der 
+Hochfrequenzh&#228;ndler f&#252;r den Wechsel von anderen Marktteilnehmern in diese 
+alternativen Handelsplattformen verantwortlich (www.ecb.europa.eu/pub/pdf/ 
+scpops/ecb.op193.en.pdf).  
+1. Welche Unternehmen werden bei der Bundesanstalt f&#252;r
+Finanzdienstleistungsaufsicht (BaFin) als am Hochfrequenzhandel beteiligt gef&#252;hrt vor dem 
+Hintergrund, dass durch die &#196;nderungen im Kreditwesengesetz (KWG) und 
+im Wertpapierhandelsgesetz (WpHG) im Zuge des
+Hochfrequenzhandelsgesetzes 2013 Hochfrequenzh&#228;ndler unter die Aufsicht der BaFin gestellt
+wurden (bitte unter Angabe von Namen der Firmen, Firmensitz und Rechtsform 
+beantworten)? 
+Das Betreiben von Hochfrequenzhandel f&#228;llt gem&#228;&#223; &#167; 1 Absatz 1a Satz 2
+Nummer 4d) KWG unter den Tatbestand des Eigenhandels und ist insoweit
+erlaubnispflichtig. Dies folgt aus Artikel 2 Absatz 1 d) EU-Finanzmarktrichtlinie (MiFID 
+II), wonach das Nutzen einer hochfrequenten algorithmischen Handelstechnik als 
+erlaubnispflichtiger Handel f&#252;r eigene Rechnung verstanden wird.
+Hochfrequenzhandel ist somit eine Form des Eigenhandels. Es handelt sich nicht um eine
+eigenst&#228;ndige Wertpapierdienstleistung. Die BaFin f&#252;hrt kein spezifisches Register 
+zu Unternehmen, die nur Hochfrequenzhandel betreiben. 
+Seit dem Inkrafttreten des Hochfrequenzhandelsgesetzes wurde keine spezielle 
+Erlaubnis aufgrund des Betreibens von Hochfrequenzhandel erteilt. 
+Im &#220;brigen wird auf die Antwort zu Frage 28 verwiesen. 
+2. Wie viele Antr&#228;ge auf Erlaubniserteilung von Hochfrequenzh&#228;ndlern
+wurden bei der BaFin seit 2013 jeweils j&#228;hrlich gestellt, und wie viele davon 
+wurden genehmigt? 
+Auf die Antwort zu Frage 1 wird verwiesen. 
+3. Welche Daten zum Hochfrequenzhandel in Deutschland liegen der
+Bundesregierung vor?  
+Wie haben sich diese Daten in den letzten zehn Jahren (oder soweit Daten 
+vorliegen) entwickelt? 
+Gem&#228;&#223; &#167; 16 Absatz 2 Nummer 3 B&#246;rsG haben die B&#246;rsen in den jeweiligen
+B&#246;rsenordnungen Regelungen zur Kennzeichnung der durch algorithmischen
+Handels erzeugten Auftr&#228;ge, der hierf&#252;r jeweils verwendeten Handelsalgorithmen
+sowie der Personen, die diese Auftr&#228;ge initiiert haben, zu enthalten. Entsprechendes 
+gilt gem&#228;&#223; &#167; 72 Absatz 1 Nummer 10 WpHG f&#252;r Betreiber eines multilateralen 
+Handelssystems (MTF) oder eines organisierten Handelssystems (OTF). Die
+Regelungen wurden in Deutschland mit dem Hochfrequenzhandelsgesetz eingef&#252;hrt 
+und im Rahmen der Umsetzung der MiFID II aktualisiert.
+Die diesbez&#252;glichen Daten, welche den B&#246;rsenaufsichten der L&#228;nder sowie den 
+jeweiligen Handels&#252;berwachungsstellen zur Verf&#252;gung stehen, enthalten jedoch 
+keine expliziten Daten zum Hochfrequenzhandel als Teilmenge des
+algorithmischen Handels. 
+4. Anhand welcher dieser Daten hat die Bundesregierung die Wirksamkeit des 
+2013 erlassenen Hochfrequenzhandelsgesetzes evaluiert? 
+Die Vorgaben des Hochfrequenzhandelsgesetzes wurden zum 3. Januar 2018 
+durch die EU-Regelungen der MiFID II abgel&#246;st, welche durch das Zweite
+Finanzmarktnovellierungsgesetz in nationales Recht &#252;bertragen wurden. Vor
+diesem Hintergrund war eine Evaluierung des Hochfrequenzhandelsgesetzes nicht 
+zweckm&#228;&#223;ig. 
+Die entsprechenden MiFID II-Vorschriften werden auf EU-Ebene gem&#228;&#223;
+Artikel 90 Absatz 1 c) MiFID II bis M&#228;rz 2020 evaluiert. 
+5. L&#228;sst sich aus Sicht der Bundesregierung anhand der vorhandenen Daten 
+eine Aussage &#252;ber die Verbreitung des Hochfrequenzhandels an deutschen 
+und europ&#228;ischen Handelspl&#228;tzen seit Inkrafttreten des
+Hochfrequenzhandelsgesetzes treffen? 
+Wenn ja, wie hat sich der Hochfrequenzhandel seit 2013 entwickelt? 
+Aus den in der Antwort zu Frage 3 angef&#252;hrten Daten lassen sich aus den o. g. 
+Gr&#252;nden keine expliziten Angaben zur Entwicklung des Hochfrequenzhandels an 
+deutschen und europ&#228;ischen Handelspl&#228;tzen entnehmen.  
+Der Bundesregierung ist zu dem Thema die Studie der Europ&#228;ischen
+Wertpapieraufsichtsbeh&#246;rde ESMA (: Economic Report &#8222;High-frequency trading activity in 
+EU equity markets&#8221;, Number 1, 2014) bekannt, die sich mit Hochfrequenzhandel 
+befasst (www.esma.europa.eu/sites/default/files/library/2015/11/esma20141_-_hft_ 
+activity_in_eu_equity_markets.pdf). 
+Die dort verwendeten Daten stammen aus Mai 2013. Es handelt sich dabei um 
+eine Stichprobe von Aktien innerhalb eines ausgew&#228;hlten Zeitraums. Eine
+Aussage dar&#252;ber, wie repr&#228;sentativ die Studienergebnisse nunmehr noch sind, kann 
+nicht getroffen werden. 
+Abh&#228;ngig vom Untersuchungsansatz und betrachteten Zeitraum wurde damals f&#252;r 
+die Frankfurter Wertpapierb&#246;rse (XETRA) ein Anteil von Hochfrequenzhandel 
+zwischen 19 und 36 Prozent festgestellt. Die Studie hat jedoch zum Einfluss des 
+Gesetzes auf die Hochfrequenz-Handelsaktivit&#228;t keine belastbare Aussage treffen 
+k&#246;nnen: &#8222;Comparing HFT activity during the time before and after the Act came 
+into force does not show any clear patterns.&#8220; (S. 11 Fn. 15.) 
+Eine Bundesbank-Studie vom Oktober 2016 (Monatsbericht Oktober 2016
+&#8222;Bedeutung und Wirkung des Hochfrequenzhandels am deutschen Kapitalmarkt) ist 
+die nach Kenntnisstand der Bundesregierung einzige origin&#228;r aufsichtliche
+j&#252;ngere Auseinandersetzung mit dem HFT-Thema aus deutscher Sicht. Sie deckt
+jedoch nur einen speziellen Themenbereich ab: Den durchgef&#252;hrten empirischen 
+Untersuchungen lagen zwei Datens&#228;tze zum DAX- und zum Bund-Future
+zugrunde. Der erste Datensatz basiert auf einer Woche relativ hoher Volatilit&#228;t vom 
+6. bis 13. M&#228;rz 2014 und einer Woche relativ niedriger Volatilit&#228;t vom 3. bis 
+10. Juni 2014, als der DAX ein neues Allzeithoch von &#252;ber 10 000 Punkten
+erreichte. Aufgrund dieser Datenlage ist keine Aussage zu langfristigen Tendenzen 
+zur Entwicklung des Hochfrequenzhandels m&#246;glich.
+6. Wie sch&#228;tzt die Bundesregierung die Wirksamkeit des 2013 erlassenen 
+Hochfrequenzhandelsgesetzes entsprechend der im Gesetzentwurf jeweils 
+genannten Ziele (den &#8222;besonderen Risiken des algorithmischen
+Hochfrequenzhandels&#8220; entgegenzuwirken und &#8222;Aufsichtsl&#252;cken im Bereich der 
+Hochfrequenzh&#228;ndler&#8220; zu schlie&#223;en) insgesamt ein? 
+Durch das Hochfrequenzhandelsgesetzes wurde eine Beaufsichtigung aller in 
+Deutschland t&#228;tigen Hochfrequenzh&#228;ndler vorgeschrieben. Sie unterfallen damit 
+insbesondere den durch das Gesetz eingef&#252;hrten Organisationspflichten, die
+gem&#228;&#223; &#167; 80 Absatz 2 und 3 WpHG f&#252;r Wertpapierdienstleistungsunternehmen
+gelten, die algorithmischen Handel betreiben, und werden im Rahmen der j&#228;hrlichen 
+WpHG-Pr&#252;fung nach &#167; 89 Absatz 1 WpHG &#252;berpr&#252;ft. Auf diese Weise wird
+sichergestellt, dass in den betroffenen Wertpapierdienstleistungsunternehmen ein 
+Bewusstsein f&#252;r die Pflichten geschaffen und auf deren Einhaltung hingewirkt 
+wird. Der Bundesregierung sind im Rahmen dieser Pr&#252;fungen keine Defizite im 
+Hinblick auf die Erf&#252;llung der genannten Ziele bekannt geworden. 
+7. Wie sch&#228;tzt sie die Wirksamkeit insbesondere bez&#252;glich der folgenden im 
+Gesetzentwurf genannten Risiken ein: 
+a) &#220;berlastung der Handelssysteme in Form einer &#252;berm&#228;&#223;igen Nutzung 
+durch ein sehr hohes Orderaufkommen, 
+In &#167; 26a B&#246;rsenG und in &#167; 72 Absatz 1 Nummer 7, 8 WpHG wird der Rahmen 
+f&#252;r ein angemessenes Order-Transaktions-Verh&#228;ltnis (Order-to-Trade-Ratio)
+gesetzt. Dadurch wird &#220;berlastungen der Handelssysteme entgegengewirkt. Der 
+Bundesregierung sind keine nennenswerten Verst&#246;&#223;e seit Einf&#252;hrung der
+Regelungen im Fr&#252;hjahr 2013 an den durch die B&#246;rsenaufsichtsbeh&#246;rden der L&#228;nder 
+beaufsichtigten B&#246;rsen bekannt. 
+An den Handelspl&#228;tzen, f&#252;r die die BaFin die zust&#228;ndige Aufsichtsbeh&#246;rde ist 
+(MTF und OTF, die nicht von einem B&#246;rsenbetreiber betrieben werden), gab es 
+ebenfalls keine Verst&#246;&#223;e.  
+b) &#220;berreaktion algorithmische Handelsstrategien auf andere
+Marktereignisse, und eine entsprechende Erh&#246;hung der Volatilit&#228;t, 
+Gem&#228;&#223; &#167; 24 Absatz 2a und 2b B&#246;rsG sowie &#167; 72 Absatz 1 Nummer 6 WpHG sind 
+Handelsplatzbetreiber verpflichtet, geeignete Vorkehrungen zur Sicherstellung 
+der ordnungsgem&#228;&#223;en Preisermittlung bei erheblichen Preisschwankungen zu 
+treffen. Hierzu geh&#246;ren insbesondere auch Volatilit&#228;tsunterbrechungen. 
+Der Bundesregierung sind keine &#220;berreaktionen algorithmischer
+Handelsstrategien in Deutschland seit Inkrafttreten des Gesetzes bekannt geworden.  
+c) Entstehung bestimmter Formen missbr&#228;uchlichen Verhaltens durch den 
+Hochfrequenzhandel? 
+Der Bundesregierung sind keine F&#228;lle des Entstehens von Formen
+missbr&#228;uchlichen Verhaltens durch Hochfrequenzhandel seit Inkrafttreten des Gesetzes
+bekannt geworden.
+8. Auf welche Daten, Studien oder Untersuchungen st&#252;tzt die Bundesregierung 
+ihre Antworten zu den Fragen 6 und 7? 
+Die Aussage zu den Organisationspflichten f&#252;r
+Wertpapierdienstleistungsunternehmen, die algorithmischen Handel betreiben, basiert auf Erkenntnissen der 
+BaFin insbesondere aus der laufenden Aufsicht und den bei der BaFin
+einzureichenden WpHG-Pr&#252;fberichten. 
+9. Hat die BaFin bereits von ihrem Recht gem&#228;&#223; &#167; 6 Absatz 4 WpHG Gebrauch 
+gemacht, von Wertpapierdienstleistungsunternehmen, welche
+algorithmischen Handel betreiben, Informationen &#252;ber deren Aktivit&#228;ten (insbesondere 
+Beschreibung algorithmischer Handelsstrategien) anzufordern? 
+Falls ja, von welchen Unternehmen wurden welche Informationen
+angefordert und mit welchen Ergebnissen? 
+Im Rahmen der laufenden Aufsicht tritt die BaFin bei Bedarf &#8211; etwa aufgrund 
+entsprechender Erkenntnisse aus den WpHG-Pr&#252;fberichten zu den
+Organisationspflichten f&#252;r Wertpapierdienstleistungsunternehmen, die algorithmischen Handel 
+betreiben &#8211; in den aufsichtlichen Dialog mit den betroffenen
+Wertpapierdienstleistungsunternehmen. Bisher war ein R&#252;ckgriff auf &#167; 6 Absatz 4 WpHG dabei 
+nicht erforderlich. 
+10. Gab es nach Kenntnis der Bundesregierung Untersuchung von
+Handelsstrategien im Bereich des Hochfrequenzhandels oder algorithmischen Handels 
+in Bezug auf Marktmanipulation? 
+a) Wann fanden diese jeweils statt? 
+Die Fragen 10 und 10a werden gemeinsam beantwortet. 
+Die BaFin hat sowohl vor als auch nach dem Inkrafttreten des
+Hochfrequenzhandelsgesetzes im Jahr 2013 Sachverhalte auf Verst&#246;&#223;e gegen das Verbot der 
+Marktmanipulation untersucht, denen algorithmische Handelsaktivt&#228;ten
+zugrunde lagen. 
+b) Was war jeweils das Ergebnis der Untersuchung und welche Ma&#223;nahmen 
+wurden ergriffen? 
+In den F&#228;llen, in denen Tatsachen ermittelt werden konnten, die den Verdacht auf 
+einen vors&#228;tzlichen Versto&#223; gegen das Verbot der Marktmanipulation mit
+Preiseinwirkung begr&#252;ndet haben, wurde Anzeige bei der zust&#228;ndigen
+Staatsanwaltschaft erstattet. 
+Nach der ab dem 2. Juli 2016 g&#252;ltigen Rechtslage ist bei einem vors&#228;tzlichen 
+Versto&#223; gegen das Verbot der Marktmanipulation auch der Versuch der
+Preiseinwirkung eine Straftat. Daher wurde in den F&#228;llen, die nach der ab dem 2. Juli 
+2016 g&#252;ltigen Rechtslage zu w&#252;rdigen waren und bei denen Tatsachen festgestellt 
+werden konnten, die den Verdacht auf einen Versuch der Preiseinwirkung
+begr&#252;ndet haben, ebenfalls Anzeige bei der zust&#228;ndigen Staatsanwaltschaft erstattet. 
+Daneben wurden Sachverhalte untersucht, die nach der bis zum 1. Juli 2016
+g&#252;ltigen Rechtslage zu w&#252;rdigen waren, bei denen Anhaltspunkte auf einen
+vors&#228;tzlichen Versto&#223; gegen das Verbot der Marktmanipulation ohne Preiseinwirkung 
+festgestellt werden konnten. Insoweit wurde durch die BaFin ein
+Bu&#223;geldverfahren eingeleitet.
+Dar&#252;ber hinaus wurden F&#228;lle untersucht, f&#252;r deren weitere Verfolgung
+ausl&#228;ndische Beh&#246;rden zust&#228;ndig waren. Diese F&#228;lle wurden an die zust&#228;ndige
+ausl&#228;ndische Aufsichtsbeh&#246;rde abgegeben. 
+c) Fielen Handelsstrategien unter den Verbotstatbestand von &#167; 20a WpHG 
+oder unter die mittlerweile geltenden Regelungen der Verordnung (EU) 
+Nr. 596/2014 (Marktmissbrauchsverordnung)? 
+Die von der BaFin gepr&#252;ften Sachverhalte fielen sowohl unter den
+Verbotstatbestand des &#167; 20a WpHG in der bis zum 1. Juli 2016 g&#252;ltigen Fassung als auch unter 
+den Verbotstatbestand des Artikel 15 der Verordnung (EU) Nr. 596/2014
+(Marktmissbrauchsverordnung). 
+11. Welche Pr&#252;fungsaktivit&#228;ten hinsichtlich in Deutschland registrierter
+Hochfrequenzh&#228;ndler wurden seit Inkrafttreten des HFHG durch die deutschen 
+Aufsichtsbeh&#246;rden durchgef&#252;hrt? 
+Wie bereits in der Antwort zu den Fragen 8 und 9 ausgef&#252;hrt, wird die Einhaltung 
+der Organisationspflichten, die f&#252;r Wertpapierdienstleistungsunternehmen
+gelten, die algorithmischen Handel betreiben, im Rahmen der j&#228;hrlichen WpHG-
+Pr&#252;fung &#252;berpr&#252;ft. Diese Pflicht betrifft nicht nur die unter der Aufsicht der BaFin 
+stehenden Unternehmen, die Hochfrequenzhandel betreiben, sondern alle
+Wertpapierdienstleistungsunternehmen, die algorithmischen Handel betreiben.  
+Zudem hat die BaFin nach Einf&#252;hrung der Organisationspflichten f&#252;r
+Wertpapierdienstleistungsunternehmen, die algorithmischen Handel betreiben, gem&#228;&#223; &#167; 36 
+Absatz 3 Satz 2 WpHG a. F. (nunmehr &#167; 89 Absatz 4 Satz 2 WpHG) f&#252;r den 
+Berichtszeitraum 2014/2015 einen Pr&#252;fungsschwerpunkt bei einigen
+Wertpapierdienstleistungsunternehmen gesetzt. Die im Rahmen des Pr&#252;fungsschwerpunkts 
+aufgeworfenen Fragen zielten insbesondere darauf ab, einen &#220;berblick &#252;ber die 
+von den betroffenen Wertpapierdienstleistungsunternehmen eingesetzten
+algorithmischen Handelssysteme sowie &#252;ber den Stand der Umsetzung der Pflichten 
+aus &#167; 33 Absatz 1a WpHG a. F. (nunmehr &#167; 80 Absatz 2 und 3 WpHG) und aus 
+dem BaFin-Rundschreiben 6/2013 (BA) zu erhalten. Soweit Fragen oder
+Schwierigkeiten bei der Umsetzung der genannten Vorgaben bei einzelnen
+Wertpapierdienstleistungsunternehmen im Rahmen des Pr&#252;fungsschwerpunkts identifiziert 
+wurden, wurden diese anschlie&#223;end im Rahmen der laufenden Aufsicht gekl&#228;rt. 
+12. Liegen bereits Erkenntnisse &#252;ber den Effekt der Einf&#252;hrung separater
+Entgelte f&#252;r die &#252;berm&#228;&#223;ige Nutzung eines multilateralen Handelssystems
+(insbesondere durch unverh&#228;ltnism&#228;&#223;ig viele Auftragseingaben, -&#228;nderungen 
+und -l&#246;schungen) nach dem HFHG vor (wurde z. B. eine geminderte
+T&#228;tigkeit von Hochfrequenzh&#228;ndlern registriert)? 
+Die Aufsicht der BaFin nach den Vorschriften des WpHG erstreckt sich auf MTF 
+und OTF, welche nicht von einem B&#246;rsenbetreiber betrieben werden. F&#252;r
+Handelspl&#228;tze, die durch B&#246;rsenbetreiber betrieben werden, sind die jeweiligen
+B&#246;rsenaufsichtsbeh&#246;rden der L&#228;nder zust&#228;ndig. Auf den der Aufsicht der BaFin
+unterliegenden Handelspl&#228;tzen wird aktuell kein Hochfrequenzhandel betrieben. 
+Der Bundesregierung sind keine F&#228;lle der Verh&#228;ngung separater Entgelte f&#252;r die 
+&#252;berm&#228;&#223;ige Nutzung von multilateralen Handelssystemen nach &#167; 72 Absatz 1 
+Nummer 5 WpHG durch die BaFin bekannt.
+Die Verh&#228;ngung derartiger Entgelte nach &#167; 17 Absatz 4 B&#246;rsG obliegt den
+B&#246;rsen. Informationen zur Anwendung und den Auswirkungen der Regelung liegen 
+gegebenenfalls den B&#246;rsenaufsichtsbeh&#246;rden der L&#228;nder vor. 
+13. Haben sich nach Kenntnis der Bundesregierung durch die von den B&#246;rsen 
+und Betreibern von multilateralen Handelssystemen festzulegenden Order-
+Transaktions-Verh&#228;ltnisse entsprechend des HFHG die tats&#228;chlichen Order-
+Transaktions-Verh&#228;ltnisse ver&#228;ndert? 
+Insoweit liegen der Bundesregierung f&#252;r den Zust&#228;ndigkeitsbereich der BaFin 
+keine Erkenntnisse vor. Informationen zur Anwendung und den Auswirkungen 
+der Regelung des &#167; 26a B&#246;rsG bestehen gegebenenfalls bei den
+B&#246;rsenaufsichtsbeh&#246;rden der L&#228;nder. Im &#220;brigen wird auf die Antwort zu Frage 12 verwiesen. 
+14. Welche Ver&#228;nderungen haben sich aus Sicht der Bundesregierung durch die 
+Umsetzung von MiFID II im Vergleich zum HFHG ergeben? 
+In &#167; 80 Absatz 3 Satz 2 WpHG wurde eine spezifische Dokumentationspflicht f&#252;r 
+Wertpapierdienstleistungsunternehmen, die eine hochfrequente algorithmische 
+Handelstechnik nutzen, eingef&#252;hrt. Zudem wurde f&#252;r
+Wertpapierdienstleistungsunternehmen, die algorithmischen Handel betreiben und dabei eine Market- 
+Making-Strategie verfolgen, in &#167; 80 Absatz 4 und 5 WpHG die Pflicht eingef&#252;hrt, 
+unter bestimmten Voraussetzungen Liquidit&#228;t an Handelspl&#228;tzen bereit zu stellen. 
+Weiter wurden die in &#167; 1 Absatz 1a Satz 2 Nummer 4 d) KWG und &#167; 2 Absatz 8 
+Nummer 2 d) WpHG genannten Merkmale f&#252;r den Hochfrequenzhandel
+entsprechend den MiFID-II-Vorgaben, insbesondere hinsichtlich des Kriteriums des
+hohen untert&#228;gigen Mitteilungsaufkommens, angepasst. 
+15. Welche Ver&#228;nderungen haben sich nach Kenntnis der Bundesregierung in 
+der Praxis durch die Umsetzung von MiFID II im Bereich
+Hochfrequenzhandel ergeben? 
+Der Bundesregierung liegen derzeit noch keine Erkenntnisse zu Ver&#228;nderungen 
+in der Praxis vor. 
+16. Wie viele Besch&#228;ftigte der BaFin befassen sich mit den im
+Hochfrequenzhandelsgesetz definierten Aufgabenbereichen? 
+a) Wie viele dieser Besch&#228;ftigten befassen sich ausschlie&#223;lich mit den im 
+Hochfrequenzhandelsgesetz definierten Aufgabenbereichen? 
+b) Wie viele dieser Besch&#228;ftigten befassen sich &#252;berwiegend mit den im 
+Hochfrequenzhandelsgesetz definierten Aufgabenbereichen? 
+c) Welche Qualifikation haben diese Angestellten jeweils?
+d) Wie viele dieser Besch&#228;ftigten k&#246;nnen aufgrund ihres
+Qualifikationsprofils als Experten im Bereich Hochfrequenzhandel eingestuft werden?  
+e) Wurden im Hinblick auf die besonderen Herausforderungen bei der
+Aufsicht im Hochfrequenzhandelsbereich gezielt Experten mit
+entsprechenden Qualifikationsprofilen (z. B. mit Kenntnissen im Bereich Big Data 
+etc.) bei der BaFin eingestellt? 
+Wenn ja, wann, und wie viele? 
+Die Fragen 16 bis 16e werden gemeinsam beantwortet. 
+Die Aufsicht der BaFin nach den Vorschriften des WpHG erstreckt sich auf MTF 
+und OTF, welche nicht von einem B&#246;rsenbetreiber betrieben werden, sowie auf 
+Wertpapierdienstleistungsunternehmen, die algorithmischen Handel betreiben. 
+F&#252;r Handelspl&#228;tze, die durch B&#246;rsenbetreiber betrieben werden, sind die
+jeweiligen B&#246;rsenaufsichtsbeh&#246;rden der L&#228;nder zust&#228;ndig. Auf den der Aufsicht der 
+BaFin unterliegenden Handelspl&#228;tzen wird aktuell kein Hochfrequenzhandel
+betrieben. 
+Die bei der BaFin jeweils zust&#228;ndigen Fachaufseher besch&#228;ftigen sich im
+Hinblick auf die im Hochfrequenzhandelsgesetz definierten Aufgabenbereichen vor 
+allem mit der &#220;berwachung der Organisationspflichten von
+Wertpapierdienstleistungsunternehmen im algorithmischen Handel gem&#228;&#223; &#167; 80 Absatz 2 bis 5 WpHG. 
+Dabei stellen die Organisationspflichten nach &#167; 80 Absatz 2 bis 5 WpHG jedoch 
+nur einen Ausschnitt der Aufgaben der Besch&#228;ftigten dar, so dass keiner der
+Fachaufseher sich ausschlie&#223;lich hiermit besch&#228;ftigt. Da es im Hinblick auf die
+&#220;berwachung der Organisationspflichten nach &#167; 80 Absatz 2 bis 5 WpHG zudem nicht 
+darauf ankommt, ob die betroffenen Wertpapierdienstleistungsunternehmen
+algorithmischen Handel mit oder ohne Nutzung einer hochfrequenten
+algorithmischen Handelstechnik betreiben, spiegelt sich diese Unterscheidung auch nicht 
+im Qualifikationsprofil der zust&#228;ndigen Fachaufseher wieder.  
+Die mit HFHG-Thematiken befassten Besch&#228;ftigen geh&#246;ren dem gehobenen und 
+h&#246;heren Dienst an und sind Volljuristen, Wirtschaftsjuristen oder haben eine
+&#228;hnliche juristische, verwaltungstechnische oder wirtschaftswissenschaftliche
+Ausbildung. 
+17. Wurden durch die BaFin spezielle Investitionen (z. B. in entsprechende
+technische Infrastruktur) get&#228;tigt um den besonderen Herausforderungen bei der 
+Aufsicht im Hochfrequenzhandelsbereich gerecht zu werden? 
+a) Wenn ja, um welche Art Investitionen handelte es sich jeweils?  
+b) Wenn ja, wie hoch war das Volumen der Investitionen in welchem
+Zeitraum? 
+Die Fragen 17 bis 17b werden gemeinsam beantwortet. 
+Zur &#220;berwachung des Hochfrequenzhandels an Handelspl&#228;tzen obliegt, mit
+Ausnahme der durch die BaFin beaufsichtigten MTF und OTF, den
+Handels&#252;berwachungsstellen der B&#246;rsen und den B&#246;rsenaufsichtsbeh&#246;rden der L&#228;nder. Die
+Bundesregierung hat keine Kenntnisse &#252;ber die dort get&#228;tigten Investitionen. An den 
+von der BaFin beaufsichtigten MTF und OTF wird kein Hochfrequenzhandel
+betrieben (vgl. Antwort zu Frage 12).
+18. Wie bewertet die Bundesregierung die Ergebnisse der Studie der
+Bundesbank &#8222;Bedeutung und Wirkung des Hochfrequenzhandels am deutschen
+Kapitalmarkt&#8220;, die sich auf Daten aus den Jahren 2013 und 2014 nach Erlass 
+des Hochfrequenzhandelsgesetz bezieht, dass &#8222;[z]usammengenommen [&#8230;] 
+die unterschiedlichen Verhaltensweisen von aktiven und passiven HFT-
+Akteuren ein erh&#246;htes Risiko von Episoden kurzfristig &#252;berm&#228;&#223;iger Volatilit&#228;t 
+nahe[legen], wodurch Marktverwerfungen bis hin zu Flash Events
+beg&#252;nstigt werden k&#246;nnten.&#8220;? 
+Die Bundesbank-Studie stellt einen wertvollen Beitrag zum Verst&#228;ndnis der 
+HFT-Handelsstrategien an der EUREX (hier zu Bund und DAX-Future) dar. Die 
+Studie erfasst jedoch nur einen eng begrenzten Zeitraum (siehe Antwort zu 
+Frage 5) und enth&#228;lt im Ergebnis keine grundlegend neuen Erkenntnisse. An 
+deutschen B&#246;rsen wird m&#246;glichen Gefahren f&#252;r Handelsteilnehmer durch den
+automatisierten Hochfrequenzhandel dadurch begegnet, dass sogenannte
+Volatilit&#228;tsunterbrechungen durch das Handelssystem ausgel&#246;st werden, wenn starke 
+Preisabweichungen auftreten. 
+19. Sieht sie aufgrund der Ergebnisse der Studie Nachbesserungsbedarf bei der 
+Regulierung des Hochfrequenzhandels? 
+Die Bundesregierung pr&#252;ft laufend den in Bezug auf die Regulierung des
+Hochfrequenzhandels erforderlichen Nachbesserungsbedarf und wird diesen, sofern 
+erforderlich, im Rahmen der Evaluierung der diesbez&#252;glichen MiFID-II-
+Vorschriften auf EU-Ebene ber&#252;cksichtigen. Insoweit wird auf die Antwort zu Frage 
+4 verwiesen. 
+20. Wie sch&#228;tzt sie die folgenden in der Studie gemachten Vorschl&#228;ge zur
+Regulierung des Hochfrequenzhandels ein: 
+a) Implementierung von Anreizmechanismen, damit passive HFT-Market-
+Maker die Liquidit&#228;tsbereitstellung auch in Stressphasen am Markt
+aufrechterhalten, 
+Eine derartige Pflicht wurde im Rahmen der Umsetzung der MiFID-II-Vorgaben 
+bereits implementiert. Gem&#228;&#223; &#167; 80 Absatz 4 und 5 WpHG besteht die Pflicht zur 
+Bereitstellung von Liquidit&#228;t durch Wertpapierdienstleistungsunternehmen, die 
+algorithmischen Handel betreiben und eine Market-Making-Strategie verfolgen. 
+b) Wechsel von einem kontinuierlichen, stetigen Handel hin zu einer
+diskreten Abfolge von Auktionen, 
+c) Einf&#252;hrung einer minimalen Zeitverz&#246;gerung in der Ausf&#252;hrungszeit der 
+Auftr&#228;ge aller Marktteilnehmer? 
+Die Studie verweist insoweit auf verschiedene diskutierte L&#246;sungsans&#228;tze zur 
+Vermeidung von Liquidit&#228;tsproblemen in volatilen Handelsphasen. In
+Deutschland bestehen sowohl B&#246;rsenhandelssysteme mit fortlaufendem Handel mit
+Zeitpriorit&#228;t als auch auktionsbasierte Systeme. Auch die Einf&#252;hrung von Systemen 
+mit Zeitverz&#246;gerungen w&#228;re zul&#228;ssig. Die Handelsteilnehmer k&#246;nnen also
+zwischen den verschiedenen Handelspl&#228;tzen und -systemen w&#228;hlen.
+21. Ist der Bundesregierung bekannt, dass einzelne B&#246;rsen und Handelspl&#228;tze 
+eigene Verfahren zur Identifizierung und Markierung von
+Hochfrequenzh&#228;ndlern und von Hochfrequenzh&#228;ndlern implementierten Order und
+Transaktionen nutzen?  
+a) Wenn ja, um welche B&#246;rsen und Handelspl&#228;tze handelt es sich dabei?  
+b) Wenn ja, welche Verfahren werden hierbei genutzt?  
+c) Wenn ja, hat die Bundesregierung Zugriff auf diese Informationen und 
+kann sie auf dieser Grundlage die Entwicklung des Hochfrequenzhandels 
+einsch&#228;tzen? 
+In Bezug auf die Identifizierung im Rahmen des algorithmischen Handels wird 
+auf die Antwort zu Frage 3 verwiesen.  
+Der Bundesregierung sind dar&#252;ber hinaus keine eigenen Verfahren der B&#246;rsen 
+und Handelspl&#228;tze zur Identifizierung und Markierung von
+Hochfrequenzh&#228;ndlern und der von ihnen implementierten Order und Transaktionen bekannt. 
+22. Wie bewertet die Bundesregierung, dass nach Erkenntnissen der EZB ein 
+steigender Anteil des Aktienhandels &#252;ber sogenannte Dark Pools stattfindet? 
+Was sind nach Ansicht der Bundesregierung Gefahren und Implikationen 
+hierdurch?  
+23. Teilt die Bundesregierung die Auffassung, dass der vermehrte Handel &#252;ber 
+Dark Pools eine Folge der vermehrten Handelsaktivit&#228;t von
+Hochfrequenzh&#228;ndlern an regul&#228;ren Handelspl&#228;tzen ist (wie in der Studie der EZB
+vorgebracht)?  
+24. Sch&#228;tzt sie die folgenden in der Studie f&#252;r diesen Wechsel von Nicht-
+Hochfrequenzh&#228;ndlern zum Handel in Dark Pools genannten Gr&#252;nde f&#252;r den
+Handel in Europa und Deutschland als relevant ein: 
+a) hohe Kosten durch missbr&#228;uchliche Praktiken durch
+Hochfrequenzh&#228;ndler, wie z. B. Front Running, 
+b) erh&#246;hte Unsicherheiten und Risiken, durch h&#228;ufigere Preis&#228;nderungen 
+aufgrund der Handelsstrategien der Hochfrequenzh&#228;ndler, 
+c) gefallene durchschnittliche Ordergr&#246;&#223;en durch die Aktivit&#228;ten von
+Hochfrequenzh&#228;ndlern? 
+Die Fragen 22 bis 24 werden wegen Sachzusammenhang gemeinsam
+beantwortet. 
+Im Rahmen der Implementierung der MiFID II/MiFIR wurden in der EU die
+bisher nicht regulierten Organisierten Handelssysteme (OTF) einer Beaufsichtigung 
+sowie umfassenden Transparenzanforderungen unterstellt und der Aktienhandel 
+an solchen Plattformen untersagt. Hierdurch wurde einer Verlagerung des
+Aktienhandels auf derartige Plattformen in der EU effektiv entgegengewirkt. F&#252;r den 
+Handel an Organisierten M&#228;rkten und Multilateralen Handelssystemen wurden 
+die bestehenden Transparenzanforderungen versch&#228;rft, so dass lediglich in den 
+EU-rechtlich bestimmten F&#228;llen eine Ausnahme von den Vorhandels- und
+Nachhandelstransparenzanforderungen zul&#228;ssig ist. 
+Der Handel von Derivaten muss ebenfalls grunds&#228;tzlich &#252;ber regulierte
+Handelsplattformen erfolgen, so dass ein Ausweichen auf ehemalige Dark Pools nicht 
+mehr m&#246;glich ist.
+25. Liegen der Bundesregierung inzwischen Analysen &#252;ber die Steigerung der 
+gesamtwirtschaftlichen Effizienz durch computergest&#252;tzte
+Hochfrequenzhandelssysteme vor (vgl. Antworten der Bundesregierung auf die Kleinen 
+Anfragen auf Bundestagsdrucksachen 17/3634, Antwort zu Frage 19 und 
+17/6269, Antwort zu Frage 6), und wenn nein, warum nicht? 
+Der Bundesregierung liegen derzeit keine Analysen vor, welche gesicherte
+Aussagen zu gesamtwirtschaftlichen Wirkungen computergest&#252;tzter
+Hochfrequenzhandelssysteme zulassen. Die bekannten Studien enthalten insoweit keine
+belastbaren Angaben. Entsprechendes gilt auch f&#252;r das Impact Assessment der
+Europ&#228;ischen Kommission zur MiFID II (https://ec.europa.eu/info/file/33578/download_ 
+en?token=EMcmdZOS). 
+26. Welche Daten liegen der Bundesregierung &#252;ber den Umfang des
+algorithmischen Handels in Deutschland vor? 
+Wie haben sich diese Daten in den letzten zehn Jahren (oder soweit Daten 
+vorliegen) entwickelt? 
+Auf die Antwort zu den Fragen 3 und 5 wird verwiesen. 
+27. Welche Daten liegen der Bundesregierung &#252;ber Anbieter von direkten
+elektronischen Zug&#228;ngen (Direct Electronic Access &#8211; DEA) in Deutschland vor? 
+Wie haben sich diese Daten in den letzten zehn Jahren (oder soweit Daten 
+vorliegen) entwickelt? 
+Direct Electronic Access DEA ist als eigene Kategorie eines Zugangs zu einem 
+Handelsplatz in Deutschland die zum 3. Januar 2018 mit dem In-Kraft-Treten der 
+MiFID-II-Regelungen eingef&#252;hrt worden. Seitdem haben 21 Unternehmen der 
+BaFin das Anbieten eines DEA zu einem Handelsplatz angezeigt. Weitere Daten 
+liegen aktuell nicht vor. 
+28. Wie viele Unternehmen haben der BaFin bisher das Betreiben von
+algorithmischem Handel nach &#167; 80 Absatz 2 Satz 1 WpHG angezeigt?  
+Wie viele der Unternehmen haben dabei angegeben, dass eine hochfrequente 
+algorithmische Handelstechnik im Sinne des &#167; 2 Absatz 44 WpHG genutzt 
+wird? 
+121 Unternehmen haben der BaFin bisher das Betreiben von algorithmischen 
+Handel angezeigt. 
+29. Wie viele Unternehmen haben der BaFin bisher Anzeige &#252;ber das Anbieten 
+eines DEA zu einem Handelsplatz erstattet? 
+Auf die Antwort zu Frage 27 wird verwiesen.  
+30. Wie viele Wertpapierdienstleistungsunternehmen, die als Handelsteilnehmer 
+an einer deutschen B&#246;rse algorithmischen Handel betreiben, haben nach 
+Kenntnis der Bundesregierung eine Anzeige &#252;ber das Betreiben von
+algorithmischem Handel gegen&#252;ber der f&#252;r die jeweilige B&#246;rse zust&#228;ndigen
+B&#246;rsenaufsichtsbeh&#246;rde abgeben? 
+Von den bei der BaFin eingegangenen Anzeigen betreffen 111 Anzeigen
+Handelspl&#228;tze, die unter der Aufsicht der in Deutschland ans&#228;ssigen
+B&#246;rsenaufsichtsbeh&#246;rden stehen. Es liegen keine Erkenntnisse zur Zahl der bei den
+B&#246;rsenaufsichtsbeh&#246;rden eingegangenen Anzeigen vor.
+31. Wie viele Wertpapierdienstleistungsunternehmen, die als Handelsteilnehmer 
+an einer deutschen B&#246;rse einen DEA zu einer deutschen B&#246;rse anbieten,
+haben nach Kenntnis der Bundesregierung eine Anzeige &#252;ber das Anbieten
+eines DEA zu einem Handelsplatz gegen&#252;ber der f&#252;r die jeweilige B&#246;rse
+zust&#228;ndigen B&#246;rsenaufsichtsbeh&#246;rde abgeben? 
+Von den bei der BaFin eingegangenen 21 Anzeigen betreffen alle Handelspl&#228;tze, 
+die unter der Aufsicht von B&#246;rsenaufsichtsbeh&#246;rden der L&#228;nder stehen. Insoweit 
+sind die L&#228;nder zust&#228;ndig. 
+32. Welchen Beitrag k&#246;nnte aus Sicht der Bundesregierung eine
+Finanztransaktionsteuer leisten, die sich an dem urspr&#252;nglichen EU-
+Kommissionsvorschlag aus dem Jahr 2011 orientiert (Besteuerung von Aktien und
+Derivaten), um den HFH einzud&#228;mmen? 
+33. Welchen Beitrag k&#246;nnte aus Sicht der Bundesregierung eine
+Finanztransaktionsteuer leisten, die exakt so ausgestaltet ist wie die franz&#246;sische
+Finanztransaktionsteuer (Besteuerung nur der Wertpapiere bzw. Aktien von
+b&#246;rsenorientierten inl&#228;ndischen Unternehmen mit einer Marktkapitalisierung 
+von mehr als 100 Mrd. Euro), um den HFH einzud&#228;mmen? 
+Die Fragen 32 und 33 werden wegen des Sachzusammenhangs gemeinsam
+beantwortet. 
+Die Bundesregierung strebt &#8211; wie im Koalitionsvertrag zwischen CDU, CSU und 
+SPD f&#252;r die 19. Legislaturperiode festgelegt &#8211; an, die Einf&#252;hrung einer
+substantiellen Finanztransaktionsteuer (FTT) auf europ&#228;ischer Ebene zum Abschluss zu 
+bringen. Die Ideen und Konzepte hierzu, einschlie&#223;lich der Frage, wie eine solche 
+FTT konkret ausgestaltet werden k&#246;nnte, sind gemeinsam mit unseren
+europ&#228;ischen Partnern im weiteren Verlauf zu diskutieren. Dies beinhaltet auch die
+Einbeziehung und Wirkung auf den Hochfrequenzhandel. Die Bundesregierung
+betrachtet die Finanztransaktionsteuer als geeignetes Instrument zur Besteuerung 
+des Finanzsektors und setzt sich daher weiterhin f&#252;r einen erfolgreichen
+Abschluss der Verhandlungen in diesem Bereich ein. 
+Satz: Satzweiss.com Print, Web, Software GmbH, Mainzer Stra&#223;e 116, 66121 Saarbr&#252;cken, www.satzweiss.com 
+Druck: Printsystem GmbH, Schafw&#228;sche 1-3, 71296 Heimsheim, www.printsystem.de 
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de 
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/3766 -
+Hochfrequenzhandel in Deutschland
+</titel>
+    <datum>2018-08-28</datum>
+  </document>
+  

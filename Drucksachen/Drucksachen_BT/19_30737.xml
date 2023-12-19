@@ -1,0 +1,3577 @@
+<document>
+    <id>256385</id>
+    <drucksachetyp>Unterrichtung</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/30737</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>74841109f53f07c91d0456e485e6a9dd</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>279894</id>
+      <titel>F&#252;nfter Bericht der Bundesregierung &#252;ber die Fortschritte zur Entwicklung der verschiedenen Felder des Geoinformationswesens im nationalen, europ&#228;ischen und internationalen Kontext (5. Geo-Fortschrittsbericht)</titel>
+      <vorgangstyp>Bericht, Gutachten, Programm</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium des Innern, f&#252;r Bau und Heimat</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/307/1930737.pdf</pdf_url>
+      <id>256385</id>
+      <dokumentnummer>19/30737</dokumentnummer>
+      <datum>2021-06-10</datum>
+      <verteildatum>2021-07-02</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Unterrichtung</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Deutscher Bundestag Drucksache 19/30737 
+19. Wahlperiode 10.06.2021 
+Unterrichtung
+durch die Bundesregierung
+F&#252;nfter Bericht der Bundesregierung &#252;ber die Fortschritte zur Entwicklung der
+verschiedenen Felder des Geoinformationswesens im nationalen,
+europ&#228;ischen und internationalen Kontext
+(5. Geo-Fortschrittsbericht)
+Inhal tsverzeichnis
+Seite
+Einleitung .................................................................................................. 3 
+1 Digitalisierung und Nachhaltigkeit ..................................................... 5 
+2 Zugang zu Geoinformation  ................................................................ 19 
+3 Kriseninformation ............................................................................... 36 
+4 Internationale Zusammenarbeit ........................................................... 44 
+Abbildungsverzeichnis................................................................................... 48 
+Abk&#252;rzungsverzeichnis ................................................................................. 50 
+Beteiligung..................................................................................................... 53 
+Zugeleitet mit Schreiben des Bundesministeriums des Innern, f&#252;r Bau und Heimat vom 9. Juni 2021 gem&#228;&#223;
+Beschluss vom 15. Februar 2001 (Bundestagsdrucksache 14/5323).
+
+6 5. Geo-Fortschrittsbericht der Bundesregierung 
+Geoinformationen sind allgegenw&#228;rtig. Dies 
+offenbart sich bei der Nutzung von
+Navigationssystemen, Standortdiensten auf dem Smartphone 
+und den immer h&#228;ufger eingesetzten
+Dashboards, die Sachverhalte mit Hilfe von Karten
+online visualisieren. Weniger bekannt ist, dass auch 
+die an Handelsg&#252;tern angebrachten EAN-
+Strichcodes oder die Stempel-Kennzeichnung von 
+H&#252;hnereiern Geoinformationen enthalten. 
+Dabei sind Geoinformationen kein Selbstzweck. 
+Sie erhalten ihre Bedeutung vor allem in
+Verbindung mit Fachdaten. Aktuell sind
+Geoinformationen unverzichtbare Werkzeuge zur
+Bew&#228;ltigung der Krisen rund um das Corona-Virus. 
+Die&#160;Georeferenzierung von z.&#160;B. Krankenh&#228;usern, 
+Arztpraxen, Superm&#228;rkten, Verkehrswegen in 
+Verbindung mit demografschen Daten wie
+Bev&#246;lkerungsdichte und Altersstruktur hilft der 
+Politik und der Verwaltung, sachgerechte
+Ma&#223;nahmen zur Eind&#228;mmung der Pandemie zu 
+planen und umzusetzen. 
+Innerhalb der letzten f&#252;nfzig Jahre hat das
+Geoinformationswesen eine bemerkenswerte
+Entwicklung erfahren. Die Computerisierung hat der 
+Wirtschaft und den B&#252;rgerinnen und B&#252;rgern 
+immer bessere, teils automatisierte Zug&#228;nge zu 
+den Geodaten erm&#246;glicht. Die Verbreitung von 
+Mobilger&#228;ten, die den Nutzern einen gro&#223;en Teil 
+ihrer Dienste auf der Basis des Standortes
+anbieten, hat die Verwendung von Geodaten
+exponentiell anwachsen lassen. Die Vernetzung &#252;ber das 
+Internet hat dazu gef&#252;hrt, dass OpenStreetMap 
+entstehen konnte: Mittlerweile fast drei Millionen 
+Freiwillige sammeln weltweit Geodaten, bereiten 
+diese auf und bieten sie jedermann zur Nutzung 
+als Open Data an. 
+Der Bund hat die starke Bedeutung des 
+Geoinformationswesens erkannt und 2009 mit 
+dem Geodatenzugangsgesetz (GeoZG) sowie 
+2012 mit dem Bundesgeoreferenzdatengesetz 
+(BGeoRG) den Zugang zur den
+Geoinformationen des Bundes geregelt und die Aufgaben des 
+Bundesamtes f&#252;r Kartographie und Geod&#228;sie 
+(BKG) konkretisiert. 
+Die Geodaten des Bundes werden, soweit es die 
+Lizenzbedingungen der urspr&#252;nglichen
+Rechteinhaber (i.d.R. die L&#228;nder) zulassen, als Open Data 
+bereitgestellt. Aktuell stellen sieben L&#228;nder ihre 
+Daten als Open Data zur Verf&#252;gung. Weitere sind 
+auf dem Weg, dies ebenfalls zu tun. 
+Die Datenstrategie der Bundesregierung betont 
+die Querschnittsfunktion von Geoinformationen 
+als Teil der digitalen Wertsch&#246;pfungskette und 
+unterst&#252;tzt die Entwicklung des gemeinsamen 
+Geoportals von Bund und L&#228;ndern von einem 
+Fachportal zu einem breit aufgestellten und 
+leicht&#160;bedienbaren Portal f&#252;r jedermann. 
+Die Open-Data- und PSI-Richtlinie der
+Europ&#228;ischen Union soll die Weiterverwendung der 
+Daten des &#246;ffentlichen Sektors f&#246;rdern. Zwei
+wesentliche Elemente sind die Einbeziehung
+kommunaler Unternehmen sowie die Bestimmung 
+&#8222;hochwertiger Datens&#228;tze&#8220;, welche&#160;kostenfrei und 
+maschinenlesbar verf&#252;gbar&#160;gemacht werden. 
+Die Bundesregierung hat in jeder
+Legislaturperiode &#252;ber den Fortschritt des
+Geoinformationswesens zu berichten (Bundestagsdrucksache 
+14/5323 und Bundestagsdrucksache 15/809). 
+Dies geschieht kontinuierlich seit Vorlage des 
+1. Geo-Fortschrittsberichts vom 27.&#160;Juni 2005 
+(Bundestagsdrucksache 15/5834). Im Fokus
+standen Fortschritte zur Entwicklung der
+verschiedenen Felder des Geoinformationswesens im
+nationalen, europ&#228;ischen und internationalen Kontext. 
+Einleitung
+&#8211; 3 &#8211; 
+  7 Einleitung 
+Konkrete Handlungsfelder von Bund, L&#228;ndern 
+und Kommunen im Rahmen der Bereitstellung 
+von Geoinformationen waren der Kern des 
+2.&#160;Geo-Fortschrittsberichts vom 30.&#160;Juli 2008 
+(Bundestagsdrucksache 16/10080). 
+Die Bedeutung von Geoinformationen f&#252;r die 
+Gesellschaft als auch Eckpunkte f&#252;r eine
+aufzustellende nationale Geoinformationsstrategie 
+wurden im 3.&#160;Geo-Fortschrittsbericht vom 8.&#160;
+November 2012 dargestellt (Bundestagsdrucksache 
+17/11449). 
+Erneute Fortschritte zur Entwicklung der
+verschiedenen Felder des Geoinformationswesens 
+im nationalen, europ&#228;ischen und internationalen 
+Kontext behandelt der 4. Geo-Fortschrittsbericht 
+(Bundestagsdrucksache 18/12872) konkret durch 
+Benennung ma&#223;geblicher Treiber und
+Ma&#223;nahmen f&#252;r die Umsetzung der Nationalen
+Geoinformationsstrategie (NGIS). Insgesamt wurden 
+46&#160;Ma&#223;nahmen im 4. Geo-Fortschrittsbericht 
+defniert, welche der Umsetzung der NGIS-Ziele 
+dienen. Im Zeitraum bis Ende 2020 konnten neun 
+Ma&#223;nahmen erfolgreich und weitere acht
+weitgehend umgesetzt werden. 27 weitere
+Ma&#223;nahmen befnden sich in (fortlaufender) Umsetzung 
+mit Laufzeiten bis mindestens 2025. Einige
+Ma&#223;nahmen werden auch dar&#252;ber hinaus fortlaufend 
+umgesetzt. Details sind dem Monitoringbericht 
+2020 zum 4. Geo-Fortschrittsbericht1 der
+Bundesregierung zu entnehmen. 
+1 Online unter www.imagi.de 
+Wegen Durchdringung aller Lebensbereiche mit 
+Geoinformationen w&#252;rde eine voll umf&#228;ngliche 
+Darstellung des Fortschritts des
+Geoinformationswesens im nationalen, europ&#228;ischen und
+internationalen Kontext den Rahmen dieses Berichts 
+sprengen. Der vorliegende 5. Geo-
+Fortschrittsbericht zeigt daher anhand vieler Beispiele eine 
+Rundumsicht auf die Ergebnisse der Arbeit der 
+letzten Jahre. Die vielschichtigen Themenbereiche 
+werden auf Einzelebenen heruntergebrochen, um 
+einen direkten inhaltlichen Zugang zu
+erm&#246;glichen und den Informationsbedarf m&#246;glichst 
+effzient zu decken. 
+Insgesamt 30 Beh&#246;rden, Institutionen und 
+Gruppen aus Bund, L&#228;ndern, Kommunen, der 
+Wirtschaft, der Wissenschaft und erstmals auch 
+der Zivilgesellschaft haben mit 59 Beitr&#228;gen zur 
+Entstehung dieses Berichts beigetragen.
+&#8211; 4 &#8211; 
+8 5. Geo-Fortschrittsbericht der Bundesregierung 
+Die Bereiche der Digitalisierung in st&#228;dtischen 
+und l&#228;ndlichen Umgebungen mitsamt den
+verschiedenen Planungsebenen werden in diesem 
+Kapitel dargestellt. Der Begriff der Nachhaltigkeit 
+ist hier zu verstehen als eine umfassendere und 
+langfristigere M&#246;glichkeit der Betrachtung und 
+Planung von Vorhaben aufgrund digitaler
+Datengrundlagen mit r&#228;umlichen Aspekten. Damit
+k&#246;nnen zudem Erkenntnisse aus erfolgten Vorhaben 
+f&#252;r k&#252;nftige Schritte abgeleitet werden. Zus&#228;tzlich 
+ist eine Mehrfach-Nutzung vorhandener
+Informationen in verschiedenen Vorhaben m&#246;glich, 
+da die Einbindung digitaler Daten &#252;ber
+verschiedene Schnittstellen technisch meist mit wenigen 
+Handgriffen m&#246;glich ist. 
+In der zweiten H&#228;lfte des Kapitels werden
+Informationen auf europ&#228;ischer und internationaler 
+Ebene dargestellt, um den gr&#246;&#223;eren, r&#228;umlichen 
+Zusammenhang im globalen Kontext kurz zu 
+beleuchten. 
+Smart Country 
+Seit 2019 f&#246;rdert das Bundesministerium f&#252;r 
+Bildung und Forschung (BMBF) das Center for 
+Advanced Systems Understanding (CASUS) in
+G&#246;rlitz. CASUS nutzt Hochleistungsrechner und neue 
+Methoden wie maschinelles Lernen und
+K&#252;nstliche Intelligenz zur Auswertung umfangreicher 
+Datenmengen. Ziel ist es, digitale Abbilder
+komplexer Systeme mit gesellschaftlicher Relevanz zu 
+erschaffen. Ein Schwerpunkt der Forschung liegt 
+im Bereich der Erdsystemforschung: hier kann so 
+beispielsweise die gesamte Vielfalt der
+Ereignisketten  inklusive R&#252;ckkopplungen und
+Vorhersagen von &#214;kologie, Klima, Wirtschaft und
+Gesellschaft untersucht werden. Dabei kommt eine 
+Vielzahl unterschiedlicher Geodatens&#228;tze wie
+beispielsweise Landnutzungspl&#228;ne, Emissionskataster, 
+Wetter- und Klimadaten aber auch Satelliten- und 
+Messdaten zur Anwendung, unter anderem als
+Eingangsdaten f&#252;r Simulationen oder zum Evaluieren 
+und Interpretieren der Ergebnisse. Mit Hilfe dieser 
+Computermodelle und Szenarien kann CASUS
+beispielsweise Prognosen f&#252;r ganze &#214;kosysteme und 
+ihre &#214;kosystemfunktion f&#252;r die n&#228;chsten 50 bis 
+100 Jahre liefern und damit zur Entwicklung von 
+Landnutzungsstrategien und zur Anpassung an 
+den globalen Wandel beitragen. 
+GDI-SH: Aufau und Vorhalten von amtlichen 
+Registern in Schleswig-Holstein 
+F&#252;r eine einheitliche und bessere Nutzung von 
+Geodaten wird in Schleswig-Holstein, im
+Rahmen der Digitalisierung, die Standardisierung 
+von&#160;Geodaten als priorisiertes Arbeitsfeld des 
+Geokompetenzzentrums vom Landesamt f&#252;r
+Vermessung und Geoinformation Schleswig-Holstein 
+(LVermGeo SH) bearbeitet. 
+Amtliche Register im hier beschriebenen
+Kontext sind zentrale digitale Verzeichnisse von
+amtlichen Geodaten, die an zentraler Stelle gef&#252;hrt 
+werden. Hierdurch wird eine einheitliche
+Datengrundlage bereitgestellt, die als gemeinsame Basis 
+f&#252;r die Erstellung und Fortf&#252;hrung von Geo(fach) 
+daten dient. Das Geodateninfrastrukturgesetz 
+Schleswig-Holstein (GDIG SH) bildet den
+gesetzlichen Rahmen f&#252;r die Aufgabe. 
+Der Zugriff erfolgt &#252;ber ein zentrales Geoportal in 
+Schleswig-Holstein. &#220;ber eine Eingabeoberf&#228;che 
+erfolgt die Pfege und Fortf&#252;hrung durch die
+berechtigten geodatenhaltenden Stellen. In der
+Regel werden die Daten dabei in einer zentralen 
+Datenbank abgelegt. 
+Die Schaffung und Weiterentwicklung von 
+Registern erfolgt f&#252;r Bereiche, in denen
+&#8222;Geodatenl&#252;cken&#8220; in Schleswig-Holstein identifziert 
+werden. Das LVermGeo SH, als
+Geokompetenzzentrum, koordiniert diese Aufgabe als zentraler 
+Ansprechpartner mit den jeweiligen
+geodatenhaltenden Stellen. Die fachliche Zust&#228;ndigkeit f&#252;r 
+die Pfege der Registerdaten liegt bei den
+jeweiligen geodatenhaltenden Stellen. 
+Register bilden die Grundlage f&#252;r die Arbeit der 
+&#246;ffentlich-rechtlichen Stellen mit Geodaten im 
+Land Schleswig-Holstein. So kann die
+notwendige Klarheit und Sicherheit erreicht werden, mit 
+dem die Zweckm&#228;&#223;igkeit des Registers als Stan-
+1. Digitalisierung und Nachhaltigkeit
+&#8211; 5 &#8211; 
+&#8211;
+&#8211;
+  9 Digitalisierung und Nachhaltigkeit 
+dard voll zur Geltung kommt. Durch enge
+Abstimmung mit den Fachverwaltungen sowie
+weiteren Beteiligten wird eine Ber&#252;cksichtigung der 
+wesentlichen Belange sichergestellt. 
+F&#252;r die Pfege und Bereitstellung der Geodaten 
+&#252;ber Register ist die Anwendung von
+Geodatenstandards mit technischen und inhaltlichen
+Aspekten notwendig. &#220;bergreifende
+Geodatenstandards werden durch das Geokompetenzzentrum 
+des LVermGeo SH unter Einbeziehung der
+fachlich betroffenen Stellen erarbeitet und zur
+Verf&#252;gung gestellt. 
+Derzeit wird f&#252;r Schleswig-Holstein ein amtliches 
+Adressregister aufgebaut. In der ersten
+Ausbaustufe erfolgt an zentraler Stelle die Pfege und
+Bereitstellung von Adressdaten. Ein Register f&#252;r
+&#246;ffentliche Geb&#228;ude befndet sich in Planung. 
+Das Gewerbef&#228;chen-Informationssystem 
+&#8222;GEFIS&#8220;2 und das Erreichbarkeitsportal3 der 
+Metropolregion Hamburg (GDI-MRH4) sowie das 
+Pendler-Portal5 sind einige Beispiele zum Thema 
+&#8222;Smart Country&#8220;. 
+Smart Cities 
+Der Bund gestaltet Smart Cities in
+Deutschland gemeinsam im Dialog zwischen Politik, 
+Verwaltung, Wirtschaft, Wissenschaft und 
+Zivilgesellschaft. 
+Mit der Fortf&#252;hrung der Dialogplattform Smart 
+Cities und den Modellprojekten &#8222;Smart Cities 
+Made in Germany&#8220; setzt das Bundesministerium 
+des Innern, f&#252;r Bau und Heimat (BMI) den 
+Koalitionsvertrag der Bundesregierung um. Ziel 
+ist es, St&#228;dte, Kreise und Gemeinden bei der
+digitalen Modernisierung und Entwicklung zu Smart 
+Cities aktiv zu begleiten. 
+Nationale Dialogplattform Smart Cities und Smart 
+City Charta 
+Die Bundesregierung hat auf Beschluss des
+Staatssekret&#228;rsausschusses f&#252;r nachhaltige Entwicklung 
+2 https://gefs.metropolregion.hamburg.de/de/commercialspace 
+3 https://geoportal.metropolregion.hamburg.de/mrh_erreichbarkeitsanalysen/# 
+4 https://geoportal.metropolregion.hamburg.de/mrhportal/index.html 
+5 https://www.pendlerportal.com/ 
+2016 die Nationale Dialogplattform Smart Cities 
+eingerichtet. Die Dialogplattform er&#246;rtert die
+Auswirkungen der Digitalisierung aus der Perspektive 
+der nachhaltigen und integrierten
+Stadtentwicklung. Sie setzt sich zusammen aus derzeit ca.&#160;70&#160;
+Vertreterinnen und Vertretern aus Kommunen,
+kommunalen Spitzenverb&#228;nden, Bundesressorts, f&#252;r 
+Stadtentwicklung zust&#228;ndige L&#228;nderministerien, 
+Organisationen der Wissenschaft, Fach-,
+Wirtschafts- und Sozialverb&#228;nden sowie der
+Zivilgesellschaft. Die Dialogplattform entwickelte ein 
+Werteverst&#228;ndnis von Smart Cities und
+erarbeitete die Smart City Charta. 
+F&#246;rderung von Modellprojekten Smart Cities 
+Die Umsetzung des Koalitionsvertrages der
+Bundesregierung erfolgt u.a. durch die F&#246;rderung von 
+Modellprojekten &#8222;Smart Cities Made in Germany&#8220;. 
+Die 2019 gestarteten Modellprojekte erproben 
+w&#228;hrend der n&#228;chsten 10 Jahre in deutschen 
+St&#228;dten, Kreisen und Gemeinden Smart City 
+Konzepte und Umsetzungsma&#223;nahmen. 
+In den ersten beiden Staffeln der Modellprojekte 
+wurden 45 Kommunen bzw. interkommunale 
+Kooperationen durch eine Experten-Jury
+ausgew&#228;hlt. In der dritten Staffel, die unter dem 
+Motto &#8222;Gemeinsam aus der Krise: Raum f&#252;r 
+Zukunft&#8220; steht, werden ab Juli 2021 weitere 
+Kommunen gef&#246;rdert. 
+Stadtklimamodellierung f&#252;r die Anpassung an den 
+Klimawandel 
+Geodaten k&#246;nnen ein wesentlicher Aspekt f&#252;r
+Anpassung an den Klimawandel sein. In der
+Stadtplanung fehlen bisher digitale Werkzeuge in Form 
+von Modellen und Daten, um Szenarien f&#252;r die 
+Stadtentwicklung in Bezug auf Hitze zu
+untersuchen. Das BMBF setzt mit der F&#246;rderung der 
+Entwicklung eines Computermodells f&#252;r
+geb&#228;udeauf&#246;sende Stadtklimamodellierung darauf, 
+Smart Cities in die Lage zu versetzen,
+stadtklimatologische Zusammenh&#228;nge untersuchen zu 
+k&#246;nnen und die Ergebnisse auf eine nachhaltige 
+Stadtplanung anzuwenden. Gro&#223;e
+Messkampagnen in mehreren deutschen St&#228;dten sorgen da-
+&#8211; 6 &#8211; 
+10 5. Geo-Fortschrittsbericht der Bundesregierung 
+f&#252;r, dass das Modell die Wirklichkeit m&#246;glichst 
+gut abbildet. Die Simulationsergebnisse sowie 
+die Messdaten sollen als Open Data bereitgestellt 
+werden.  Die Ma&#223;nahme unter dem Titel
+&#8222;Stadtklima im Wandel&#8220; ist eingebettet in den BMBF 
+Aktionsplan &#8222;Nat&#252;rlich.Digital.Nachhaltig&#8220; sowie 
+die BMBF Digitalstrategie. 
+Internationale Lern- und Erfahrungsbeispiele&#160;-
+Aufau eines Internationalen Smart Cities Netzwerks 
+Die digitale Transformation wirkt sich nicht nur 
+auf die Stadtentwicklung in Deutschland aus, 
+sondern ver&#228;ndert St&#228;dte weltweit. Damit
+deutsche Kommunen auch von Erfahrungen und 
+Ideen aus Kommunen anderer L&#228;nder proftieren 
+k&#246;nnen, initiierte der Bund, vertreten durch das 
+BMI, als Teil des umfassenden Smart City Dialoges 
+das Internationale Smart Cities Netzwerk (ISCN). 
+Derzeit sind im Netzwerk Kommunen aus sechs 
+Partnerl&#228;ndern: Brasilien, Mexiko, Peru, Chile,
+Indien und Deutschland. 
+Deutschlandatlas 
+Der Deutschlandatlas, der gemeinsam vom BMI, 
+dem BMEL und dem BMFSFJ erstellt wurde, zeigt 
+die Verschiedenheit der Lebensverh&#228;ltnisse
+umfassend und anschaulich. 
+Insgesamt 56 interaktive Deutschland-Karten 
+bilden die wichtigsten Fakten &#252;ber das Leben in 
+Deutschland ab und erlauben detaillierte
+Vergleiche zwischen den Regionen. Die Karten
+illustrieren wichtige Lebensbereiche der Menschen, von 
+Infrastruktur und Demografe bis hin zu
+Gesundheitsversorgung und Sicherheit. 
+Das BKG stellt hierzu die kartographischen 
+Grundlagendaten bereit und ist f&#252;r die technische 
+Realisierung der Kartenanwendungen zust&#228;ndig. 
+Steigerung der Resilienz von St&#228;dten durch 
+eine Big-Data Strategie basierend auf offenen 
+Geodaten 
+Am Helmholtz-Zentrum Potsdam Deutsches 
+GeoForschungsZentrum GFZ arbeiten
+Wissenschaftlerinnen und Wissenschaftler sowie
+Technikerinnen und Techniker der Sektion
+Erdbebengef&#228;hrdung und dynamische Risiken daran, die 
+Auswirkungen zuk&#252;nftiger Erdbeben auf
+Menschen, Geb&#228;ude, St&#228;dte und Megacities besser
+absch&#228;tzen zu k&#246;nnen. Kritisch f&#252;r eine solche
+Absch&#228;tzung ist die m&#246;glichst genaue
+Beschreibung der Geb&#228;ude durch Expositionsmodelle. In 
+Kombination mit
+Erdbebengef&#228;hrdungsmodellen k&#246;nnen diese verwendet werden, um
+Auswirkungen auf Bezirke oder ganze L&#228;nder im 
+Katastrophenfall zu analysieren und darauf
+planerisch zu reagieren. Der aktuelle Standard bei 
+Expositionsmodellen ist es, die Geb&#228;udetypen 
+und ihre Nutzung inkl. Personenverteilung
+aggregiert f&#252;r Bezirke und Landkreise anzugeben. Der 
+n&#228;chste Schritt, an dem am GFZ gearbeitet wird, 
+ist es, ein globales Modell aller Geb&#228;ude zu
+erstellen, da Erdbebenersch&#252;tterungen r&#228;umlich stark 
+variieren und der genaue Ort eines Geb&#228;udes
+entscheidend f&#252;r sein Schadensbild sein kann. Dieses 
+Modell kann nicht mehr durch Experten allein 
+erstellt werden und daher beschreitet das GFZ-
+Team einen komplexen Ansatz, um die
+notwendigen Informationen zusammen zu tragen und zu 
+interpretieren. 
+Der Crowd-Sourcing-Ansatz basiert auf dem 
+OpenStreetMap-Projekt (OSM), eine Karte und 
+Datenbank an Geoinformationen, zu der bereits 
+mehrere Millionen Nutzerinnen und Nutzer
+beigetragen haben und die dadurch zur heute
+gr&#246;&#223;ten &#246;ffentlichen Geodatenbank geworden ist. Die 
+Daten aus OSM werden hierbei geb&#228;udeweise 
+verarbeitet und alle Expositionsindikatoren (wie 
+Nutzung, Gr&#246;&#223;e, Anzahl Personen), soweit wie 
+m&#246;glich, mithilfe von bestehenden
+Expositionsmodellen, wie das von der Seismology and
+Earthquake Research Infrastructure Alliance for Europe 
+(SERA), festgelegt (Abbildung 1). Daraus baut das 
+Team die OpenBuildingMap, die der OSM-
+Community einen verbesserten Geb&#228;udedatensatz
+zur&#252;ckgibt. Beim Big-Data-Ansatz werden weitere 
+Datenquellen, wie der globale SAR-Scan
+(Synthetic Aperture Radar) von Sentinel-1-Satelliten und 
+globale Stra&#223;eninformationen, verwendet, um 
+bewohnte Gebiete zu identifzieren, f&#252;r die keine 
+Geb&#228;udedaten verf&#252;gbar sind (Abbildung 2). 
+Durch diese beiden Ans&#228;tze k&#246;nnen bereits mit 
+unvollst&#228;ndigen Datens&#228;tzen genauere Daten 
+zur Verf&#252;gung gestellt werden. Je mehr
+Geb&#228;ude in OSM hinzugef&#252;gt werden
+(gegenw&#228;rtig ca. 150.000 pro Tag), umso vollst&#228;ndiger und 
+genauer wird das Expositionsmodell.
+Langfristig wird eben diese Genauigkeit ben&#246;tigt, um mit 
+Kleinsensoren ausgestattete Geb&#228;ude, die
+Erdbebenwellen an diesen messen, in das Modell zu
+&#8211; 7 &#8211; 
+  11 Digitalisierung und Nachhaltigkeit 
+integrieren. Testinstallationen existieren bereits 
+in Tokio. Das Team arbeitet daran, diese
+Integration zu einem Smart-City-System zu entwickeln, 
+das sowohl die Bev&#246;lkerung als auch
+Risikomanager und Stadtverwaltungen umfassend sowohl 
+&#252;ber zu erwartende Sch&#228;den eines echten oder 
+eines Szenarioerdbebens informiert (Abbildung 3) 
+als&#160;auch hilft, m&#246;gliche Ma&#223;nahmen zur
+Risikominderung und Resilienz zu planen. 
+Abbildung 1 Geb&#228;udegenaue Beschreibung der Nutzung durch die OpenBuildingMap. Jedes Geb&#228;ude in OpenStreetMap 
+wird analysiert und die Nutzung mit Hilfe verschiedener Indikatoren so genau wie m&#246;glich bestimmt. Dargestellt ist die 
+Nutzung der Geb&#228;ude im Stadtteil Kreuzberg in Berlin. 
+Abbildung 2 Vollst&#228;ndigkeit der Geb&#228;udeinformationen im Gebiet der Stadt Athen, Griechenland. In den gr&#252;nen Zellen ist 
+der Geb&#228;udedatensatz vollst&#228;ndig und in den roten unvollst&#228;ndig. Die grauen Zellen sind unbewohnt und die wei&#223;en Zellen 
+noch nicht klassifziert.
+&#8211; 8 &#8211; 
+12 5. Geo-Fortschrittsbericht der Bundesregierung 
+In den vielen in den Kommunen entstandenen 
+oder in Entstehung befndlichen urbanen
+Datenplattformen (UDP) f&#246;rdert die Vernetzung von 
+Geoinformationen die systematische Verkn&#252;pfung 
+und Auswertung von bereichs- und
+fach&#252;bergreifenden Daten, auch in der Stadt Hamburg6.
+Daher sollen UDP als Sub-Domain im europ&#228;ischen 
+Projekt GAIA-X platziert werden, an welchem sich 
+der Landesbetrieb f&#252;r Geoinformation und
+Vermessung (LGV) in Hamburg beteiligen wird. 
+6 http://www.urbandataplatform.hamburg/ 
+7 https://www.hamburg.de/bsw/geodaten/7615476/3d-gebaeudemodelle/ 
+8 https://bim.hamburg.de/ 
+9 https://www.hamburg.de/its 
+Beispiele der digitalen Stadt Hamburg sind: 
+Projekte zur Entwicklung eines Digitalen 
+Urbanen Zwillings, wie das 3D Stadtmodell7 
+und&#160;die Implementierung von Building
+Information Modeling (BIM)8, Intelligente
+Verkehrssysteme (ITS)9, wie die automatisierte
+Verkehrsmengenerfassung mittels Sensordaten und 
+autonomes Fahren. 
+Abbildung 3 Schadensverteilung eines Szenarioerdbebens in der Stadt K&#246;ln. Die unterschiedlichen Farben der Geb&#228;ude 
+repr&#228;sentieren unterschiedliche Schadenszust&#228;nde. Zum Schutz der Pers&#246;nlichkeitsrechte wird diese Farbskala hier nicht 
+erl&#228;utert. Kartenhintergrund: Copyright OpenStreetMap und Beitragende.
+&#8211; 9 &#8211; 
+  13 Digitalisierung und Nachhaltigkeit 
+L&#228;rmkarten 
+Das Eisenbahn-Bundesamt ist daf&#252;r zust&#228;ndig, 
+die L&#228;rmkarten und L&#228;rmaktionspl&#228;ne f&#252;r
+Schienenwege von Eisenbahnen des Bundes
+auszuarbeiten. Zu deren Erstellung sind eine Vielzahl 
+von Infrastruktur- und Fahrplandaten der Bahn, 
+umfangreiche Geoinformationen sowie
+statistische Daten notwendig. Einen Gro&#223;teil der (Geo-) 
+Daten bezieht das Eisenbahn-Bundesamt &#252;ber das 
+BKG (Vertrag &#252;ber die kontinuierliche
+&#220;bermittlung amtlicher digitaler Geobasisdaten der
+L&#228;nder zur Nutzung im Bundesbereich VGeoBund). 
+Unter Zuhilfenahme von
+Geoinformationssystemen werden 3D-Modelle zur Berechnung der 
+Schallausbreitung und Auswertungen zur
+B&#252;rgerbeteiligung erstellt. Die Ergebnisse stehen f&#252;r die 
+&#214;ffentlichkeit hochverf&#252;gbar, standardisiert (IN-
+SPIRE) und unter offener Lizenz bereit. 
+Aufgrund der Unterschiede zwischen der
+Umgebungsl&#228;rmrichtlinie und dem
+L&#228;rmsanierungsprogramm wurden die beiden Instrumente
+bislang getrennt verwendet. Im Sinne von
+Transparenz und Effzienz wird nunmehr eine engere 
+Verschr&#228;nkung des L&#228;rmsanierungsprogramms 
+mit der Umgebungsl&#228;rmrichtlinie angestrebt. 
+Entsprechende M&#246;glichkeiten einer
+Harmonisierung werden derzeit unter Ber&#252;cksichtigung 
+der fachlichen, organisatorischen und politischen 
+Aspekte gepr&#252;ft. 
+Abbildung 4 Akustisches Modell der Stadt Frankfurt am Main (Geoinformationen: &#169; BKG (2011))
+&#8211; 10 &#8211; 
+&#8211;
+14 5. Geo-Fortschrittsbericht der Bundesregierung 
+3D-Vorpr&#252;fung: eine Kartenanwendungs-
+App&#160;zum Schutz von Einrichtungen der 
+Flugsicherung 
+F&#252;r eine sichere, geordnete und f&#252;ssige
+Abwicklung des Luftverkehrs ben&#246;tigen Luftfahrzeuge 
+und Flugsicherungsorganisationen genaue
+Angaben &#252;ber die Position des Luftfahrzeuges im 
+Raum. Es muss zudem  jedenfalls im
+kontrollierten Luftraum  eine
+Kommunikationsverbindung f&#252;r den Sprechfunkverkehr und die
+Daten&#252;bertragung zwischen dem Luftfahrzeug und der 
+Flugsicherungsorganisation sichergestellt sein. 
+Diese Funktionen der &#220;bertragung von
+Informationen werden durch
+Flugsicherungseinrichtungen, wie z.&#160;B. Kommunikations- und Radaranlagen, 
+sichergestellt. Drehfunkfeuer dienen der
+Navigation und leiten das Luftfahrzeug zum Flughafen. 
+Im Schutzbereich von Einrichtungen der
+Flugsicherung k&#246;nnen Bauvorhaben einfach und
+bequem &#252;ber eine dreidimensionale (3D-)
+Kartenanwendung hinsichtlich ihrer m&#246;glichen Lage 
+innerhalb eines dreidimensionalen
+Anlagenschutzbereichs gepr&#252;ft werden. Das Ergebnis der 
+Vorpr&#252;fung wird unmittelbar elektronisch
+&#252;bermittelt. Die neue 3D-Vorpr&#252;fung des
+Bundesaufsichtsamtes f&#252;r Flugsicherung (BAF) dient dem 
+Schutz dieser Flugsicherungs-Einrichtungen. 
+Die Anwendung "3D-Vorpr&#252;fung BAF-
+Anlagenschutz" gibt ab April 2021 jedem die M&#246;glichkeit, 
+10 https://www.baf.bund.de/DE/Themen/Flugsicherungstechnik/Anlagenschutz/anlagenschutz_kartentool.html 
+Daten von geplanten Bauwerken bzw. Anfragen 
+als Tr&#228;ger &#246;ffentlicher Belange (z.&#160;B. zu
+Baugebieten), auch dreidimensional online pr&#252;fen zu 
+lassen. 
+Vor der Benutzung der 3D-Vorpr&#252;fung k&#246;nnen 
+Anwender vorab eine 2D Pr&#252;fung
+durchf&#252;hren10 . Damit erkennt man umgehend, 
+ob Bauwerke oder Fl&#228;chen in Gebieten von 
+zivilen Anlagenschutzbereichen von
+Flugsicherungseinrichtungen nach &#167;&#160;18a LuftVG 
+liegen. Hierf&#252;r&#160;ist lediglich der fragliche Stand-
+Abbildung 5 Das Doppler-UKW Drehfunkfeuer Ried bei Darmstadt ist eine Einrichtung der Flugsicherung, welches f&#252;r den 
+Betrieb am Flughafen Frankfurt wichtige Daten liefert. Quelle: BAF
+&#8211; 11 &#8211; 
+-
+-
+  15 Digitalisierung und Nachhaltigkeit 
+ort in die interaktive Karte einzugeben. Falls diese 
+zweidimensionale Pr&#252;fung eine Belegenheit
+innerhalb eines Anlagenschutzbereiches ergibt, 
+ist mittels der &#8222;3D-Vorpr&#252;fungs-BAF-
+Anlagenschutz-App&#8220;11 eine&#160;dreidimensionale erweiterte 
+Pr&#252;fung&#160;m&#246;glich. 
+Diese 3D-Pr&#252;fung erfordert die Eingabe der zu 
+pr&#252;fenden Daten (inkl. der H&#246;hen der
+Planungsgegenst&#228;nde) und einer E-Mail-Adresse, an die 
+das Ergebnis der 3D-Pr&#252;fung gesendet werden 
+soll. Die 3D-Pr&#252;fung und der Email-Versand des 
+Ergebnisses fnden zeitverz&#246;gert statt, um eine 
+&#220;berlastung der IT-Ressourcen durch
+zeitgleiche Anfragen zu vermeiden. Tangiert das
+Bauvorhaben auch dreidimensional den
+Anlagenschutzbereich, so ist der Bau zwar nicht per se
+ausgeschlossen, erfordert aber eine detaillierte 
+Pr&#252;fung. Im Falle einer weiteren Verfolgung
+dieses Planungsvorhabens k&#246;nnen Antragstellende 
+das &#8222;3D-Vorpr&#252;fungsergebnis&#8220; bei ihrer
+Genehmigungsbeh&#246;rde mit einreichen. Diese
+Vorpr&#252;fung ersetzt nicht die Pr&#252;fung nach &#167; 12 bis 17 
+LuftVG, in der es um die luftrechtlichen Belange 
+in Bezug auf die Hindernisfreiheit geht. 
+Bei der 3D-Vorpr&#252;fung BAF-Anlagenschutz 
+werden personenbezogene Daten des Anwenders 
+oder der Anwenderin f&#252;r die Dauer von 6
+Monaten datenschutzkonform vorgehalten. Sollte bis 
+zu diesem Zeitpunkt kein Antrag mit den
+angegebenen Daten bei der zust&#228;ndigen
+Genehmigungsbeh&#246;rde vorliegen, werden die Daten aus 
+dem System gel&#246;scht. Vor Nutzung der
+Anwendung wird der Anwender oder die Anwenderin 
+um Einwilligung gebeten, dass das BAF die
+angegebenen Daten in der 3D-Vorpr&#252;fung zum Zweck 
+der Beantwortung der Anfrage, wie auch zur
+Erf&#252;llung seiner gesetzlich vorgeschriebenen
+Aufgaben, f&#252;r den angegebenen Zeitraum speichert. 
+Diese Einwilligung kann jederzeit ohne Angabe 
+von Gr&#252;nden widerrufen werden, indem der 
+Anwender oder die Anwenderin per E-Mail an 
+anlschutz@baf.bund.de seinen oder ihren
+Widerruf gegen die Verarbeitung der
+personenbezogenen Daten erkl&#228;rt. Dies kann auch mit Hilfe des 
+Links durchgef&#252;hrt werden, der nach
+erfolgreicher Registrierung per E-Mail zugestellt wird. 
+11 https://www.anlagenschutz.baf.bund.de/3dvorpruefung/start 
+Digitales Planen und BIM 
+Um den Transformationsprozess der
+Digitalisierung voranzutreiben, haben das BMI und das 
+BMVI gemeinsam das Vorhaben &#8222;BIM
+Deutschland  Zentrum f&#252;r die Digitalisierung des
+Bauwesens&#8220; (BIM Deutschland) gestartet. Ziel ist 
+eine einheitliche und abgestimmte F&#246;rderung 
+des Hoch- und Infrastrukturbaus bei der
+Digitalisierung. Ein erster Schritt ist die Schaffung 
+notwendiger Rahmenbedingungen f&#252;r die
+Anwendung von BIM im Bundesbau. Die von BIM 
+Deutschland entwickelten Standards,
+Informationen und Produkte werden allen &#246;ffentlichen 
+Bauherren und der gesamten
+Wertsch&#246;pfungskette Bau zur Verf&#252;gung gestellt. Ein
+eindeutiges Bekenntnis zu offenen und
+herstellerneutralen Standards f&#252;r den Datenaustausch (openBIM) 
+f&#246;rdert hierbei die Partizipation aller Beteiligten 
+einschlie&#223;lich der vielen kleinen und
+mittelst&#228;ndischen Unternehmen (KMU). 
+Die Idee der Nutzbarmachung vorhandener 
+digitaler Daten f&#252;r weitere Beteiligte konsequent 
+weitergedacht, m&#252;ndet in einem
+Zusammendenken von BIM (Building Information Modeling), 
+GIS (Geoinformationssystem) und Smart Cities. 
+Hierdurch werden die Potentiale der
+Digitalisierung erst voll ausgesch&#246;pft. 
+Methodik des digitalen f&#252;nfdimensionalen 
+Planens 
+BIM Deutschland ist die zentrale &#246;ffentliche
+Anlaufstelle des Bundes f&#252;r Informationen und
+Aktivit&#228;ten rund um die BIM-Methode, um ein
+einheitliches und abgestimmtes Vorgehen im
+Infrastruktur- und Hochbau zu gew&#228;hrleisten. Im 
+kooperativen Prozess erarbeiten BMVI, die
+Autobahn GmbH des Bundes und die L&#228;nder unter
+Beteiligung der DEGES und BIM Deutschland
+derzeit einen Masterplan BIM Bundesfernstra&#223;en f&#252;r 
+die strukturierte und zielorientierte Implemen-
+&#8211; 12 &#8211; 
+&#8211;
+&#8211;
+16 5. Geo-Fortschrittsbericht der Bundesregierung 
+tierung von BIM im Bundesfernstra&#223;enbau mit 
+der Zielstellung seitens des BMVI, den Masterplan 
+Mitte 2021 zu ver&#246;ffentlichen. 
+XPlanung und XBau 
+Die Standards XPlanung und XBau erm&#246;glichen 
+einen verlustfreien Datenaustausch zwischen den 
+Akteuren in Planungsverfahren sowie
+Verbesserungspotenziale in den Bereichen Planen und 
+Bauen. XPlanung unterst&#252;tzt den verlustfreien 
+Transfer von Planungsdaten zwischen
+unterschiedlichen IT-Systemen sowie die
+internetgest&#252;tzte Bereitstellung von Planwerken, die die 
+Raumordnung, Landes- und Regionalplanung, 
+Bauleitplanung und Landschaftsplanung
+betreffen. XBau ist ein Standard f&#252;r die Kommunikation 
+zwischen den Beteiligten in bauaufsichtlichen 
+Verfahren. Er defniert die Strukturen und
+Inhalte aller Nachrichten, die erforderlich sind, um 
+die Prozesse im jeweiligen Verfahren abzubilden. 
+XPlanung und XBau12 sind gem&#228;&#223; eines
+Beschlusses des IT-Planungsrates (IT-PLR) in 201713
+verbindlich anzuwendende Datenstandards und 
+Datenaustauschformate sowie integrale
+Bestandteile eines digitalen, ggf. modellbasierten (BIM) 
+Bauantrags. Sie unterst&#252;tzen damit die
+Umsetzung von E-Government und &#8222;Smart City&#8220;-
+Konzepten. Mit der Bauwerksdatenmodellierung, 
+oder BIM-Prozess, wird der gesamte
+Nutzungszyklus eines Geb&#228;udes, eines Bauwerks oder einer 
+Infrastruktur von der Entwicklung, &#252;ber die
+Planung, die Erstellung, die Nutzung bis zum Abriss 
+in einem dreidimensionalen Modell betrachtet, 
+gepfegt und aktualisiert. 
+F&#252;r die digitale B&#252;rgerbeteiligung verbindet 
+DIPAS14 das Hamburger Online-Beteiligungstool 
+mit digitalen Planungstischen zu einem
+integrierten System. B&#252;rgerinnen und B&#252;rger k&#246;nnen 
+von zu Hause aus, mobil oder in
+Veranstaltungen, digitale Karten, Luftbilder, Pl&#228;ne, 3D Modelle 
+und Geodaten abrufen und ein genau lokalisiertes 
+Feedback zu Planungsvorhaben geben. 
+12 https://www.xleitstelle.de/ 
+13 https://www.it-planungsrat.de/SharedDocs/Sitzungen/DE/2017/Sitzung_24.html?pos=7 
+14 https://www.hamburg.de/dipas/ 
+15 Richtlinie 2007/2/EG vom 14. M&#228;rz 2007 des Europ&#228;ischen Parlaments und des Rates zur Schaffung einer Geodateninfrastruktur in 
+der Europ&#228;ischen Gemeinschaft (INSPIRE). INSPIRE = INfrastructure for SPatial InfoRmation in the European Community. 
+16 Grundlage: Verwaltungsvereinbarung zwischen dem Bund und den L&#228;ndern zum gemeinsamen Betrieb einer Leitstelle XPlanung und 
+XBau vom Juni 2020. 
+Bei der Nutzung von XPlanung lassen sich
+dar&#252;ber hinaus die Inhalte f&#252;r die Datenabgabe in das 
+INSPIRE15-Datenmodell aus den Datens&#228;tzen 
+ableiten. 
+Zust&#228;ndig f&#252;r die kontinuierliche Pfege und 
+Weiterentwicklung des Standards ist die
+Leitstelle XPlanung / XBau (XLeitstelle16) beim 
+Landesbetrieb Geoinformation und
+Vermessung Hamburg als bundesweit zentrale 
+Gesch&#228;fts- und&#160;Koordinierungsstelle. 
+PlanDigital Niedersachsen  Regional- und 
+Fl&#228;chennutzungspl&#228;ne im Standard XPlanung 
+Mit Beschluss des IT-Planungsrats vom 05.
+Oktober 2017 wurde auf Bundes- und Landesebene der 
+Standard XPlanung f&#252;r den Datenaustausch von 
+Raumordnungs- und Bauleitpl&#228;nen verpfichtend. 
+Das Land Niedersachsen f&#252;hrt vor diesem
+Hintergrund das Projekt &#8222;PlanDigital&#8220; durch und folgt 
+damit auch der Umsetzung der Ma&#223;nahme 31 aus 
+dem 4. Geo-Fortschrittsbericht, den
+Datenaustausch in der Raumordnungsplanung zu
+implementieren (Juni 2017, Seite 40). 
+Ziel des Projektes ist die Unterst&#252;tzung der
+nieders&#228;chsischen Kommunen in der m&#246;glichst
+vollst&#228;ndigen Bereitstellung der regionalen
+Raumordnungsprogramme (RROP) und
+Fl&#228;chennutzungspl&#228;ne (FNP) im XPlanung-Standard. 
+Digitalisiert und konvertiert werden sollen dabei 
+auch s&#228;mtliche wirksame &#196;nderungen bzw. 
+Berichtigungen. In Bezug auf Niedersachsen ist 
+dabei basierend auf einer vorauslaufenden
+Bestandsaufnahme von durchschnittlich knapp 
+50 &#196;nderungen bzw. Berichtigungen pro FNP 
+auszugehen.
+&#8211; 13 &#8211; 
+-
+  17 Digitalisierung und Nachhaltigkeit 
+Ein weiteres Ziel des Projektes PlanDigital ist die 
+Ver&#246;ffentlichung der digitalen RROP und FNP 
+in einem internetbasierten Portal &#252;ber frei
+zug&#228;ngliche Geodatendienste. Zus&#228;tzliche
+Verwertungsoptionen sind die Transformation der 
+XPlanGML-Dateien der FNP in das
+Raumordnungskataster gem&#228;&#223; &#167; 15 Nieders&#228;chsisches 
+Raumordnungsgesetz sowie die Konvertierung 
+der digitalen Plandaten in das Format INSPIRE 
+Planned Land Use (PLU). 
+Insgesamt erm&#246;glicht die Bereitstellung der 
+RROP und FNP im Format XPlanGML: 
+&#8226; medienbruchfreie Prozesse durch einheitliche 
+Digitalisierung bei der Erarbeitung,
+Genehmigung, Ver&#246;ffentlichung und Umsetzung von 
+FNP und RROP 
+&#8226; landesweite Vergleichbarkeit der Planwerke 
+durch eine einheitliche Visualisierung 
+&#8226; vertikale Vergleichbarkeit der beiden 
+Planungsebenen RROP und FNP 
+&#8226; raumbezogene Fl&#228;chen- und Standortanalysen 
+(z.&#160;B. Fl&#228;chenbilanzierungen bei Planvarianten 
+oder Ausweisung von Potentialstandorten f&#252;r 
+Windenergieanlagen). 
+Im Rahmen des Projektes sollen zudem
+Strukturen aufgebaut werden, die eine einheitliche
+Fortf&#252;hrung digitaler FNP und RROP in XPlanGML 
+&#252;ber die Projektlaufzeit hinaus gew&#228;hrleisten. 
+Neubaumonitor  Statistik der 
+Baufertigstellungen als digitale 
+Kartenanwendung 
+Die Beantragung und Fertigstellung neuer
+Wohngeb&#228;ude wird durch die amtliche Statistik
+dokumentiert. Um die wichtigsten Kenngr&#246;&#223;en zur 
+Baut&#228;tigkeit in den hessischen Gemeinden f&#252;r 
+Politik, Beh&#246;rden sowie B&#252;rgerinnen und B&#252;rger 
+anschaulich darzustellen, hat das Hessische 
+Statistische Landesamt gemeinsam mit dem 
+Amt f&#252;r Statistik Berlin-Brandenburg sowie dem 
+Landesamt f&#252;r Statistik Niedersachsen die
+Webanwendung &#8222;Neubaumonitor&#8220;17 entwickelt. 
+17 https://gis-hsl.hessen.de/portal/apps/webappviewer/index.html?id=d9558de10af44d338386c501622dea72 
+In der Anwendung haben die Nutzerinnen 
+und Nutzer die M&#246;glichkeit, die Ergebnisse der 
+Statistik der Baufertigstellungen visuell und 
+dynamisch auf verschiedenen r&#228;umlichen Ebenen 
+zu erkunden. Der interaktive Atlas gibt Aufschluss 
+&#252;ber die Anzahl fertiggestellter neuer
+Wohngeb&#228;ude in den Landkreisen und Gemeinden. Er
+informiert dar&#252;ber hinaus &#252;ber die Anzahl neu
+erbauter Wohnungen und die fertiggestellte
+Wohnf&#228;che. Auch Fragen zur h&#228;ufgsten prim&#228;ren 
+Energiequelle der Heizung sowie zu den
+vorherrschenden Haustypen der betrachteten
+Wohngeb&#228;ude k&#246;nnen regionalisiert mit Hilfe des
+Neubaumonitors beantwortet werden. So k&#246;nnen die 
+Nutzerinnen und Nutzer die Schwerpunkte und 
+die Eigenschaften der neuen Bebauung erkunden. 
+Beim Neubaumonitor handelt es sich um einen 
+ersten Prototyp, dessen Datenangebot
+kontinuierlich erweitert und aktualisiert wird. Begleitend 
+zum Neubaumonitor wird au&#223;erdem eine 
+weitere Online-Publikation angeboten. In dieser 
+Story Map &#8222;Bauen, Wohnen, Heizen&#8220; werden 
+ausgew&#228;hlte Zahlen aus dem Webatlas und der 
+zugrundeliegenden Statistik aufgegriffen und
+anschaulich mit Hilfe von Grafken und
+Begleittexten erl&#228;utert. Neubaumonitor und Story Map 
+fnden Sie unter https://gis-hsl.hessen.de/portal/ 
+home/. 
+Abbildung 6 Webatlas Neubaumonitor (Land Hessen)
+&#8211; 14 &#8211; 
+&#8211;
+18 5. Geo-Fortschrittsbericht der Bundesregierung 
+Am Puls der Erde  Satelliten, Copernicus und 
+der europ&#228;ische Green Deal 
+Das europ&#228;ische Erdbeobachtungsprogramm 
+Copernicus hat sich seit dem Start des ersten 
+Sentinel-Satelliten im Jahr 2014 rasant
+entwickelt. Ende 2020 wurde der achte Copernicus 
+Sentinel-Satellit gestartet. Um die
+Leistungsf&#228;higkeit von Copernicus weiter zu st&#228;rken und 
+die Beitragsf&#228;higkeit zu zentralen
+Politikbereichen zu erh&#246;hen, haben die
+Mitgliedsstaaten der Europ&#228;ischen Weltraumorganisation 
+(ESA) im November 2019 beschlossen, sechs
+weitere Copernicus Sentinel-Missionen zu
+entwickeln, die die bisherigen ab 2025 erg&#228;nzen
+werden. Deutschland ist an diesem Programmteil der 
+ESA f&#252;hrend beteiligt. Das Volumen der t&#228;glich 
+erzeugten Satelliten-Datenprodukte erreicht
+inzwischen 30&#160;Terabyte und Ende M&#228;rz 2021 waren 
+rund 400.000 Nutzende f&#252;r den Datenzugriff bei 
+der ESA registriert, rund 25.000 davon in
+Deutschland&#160;&#8211; mehr als in jedem anderen Land Europas. 
+Die sechs Copernicus-Dienste sind inzwischen 
+etabliert und als verl&#228;ssliche Informationsquelle 
+anerkannt. Beispielsweise werden die Produkte 
+des Copernicus-Klimadienstes regelm&#228;&#223;ig in 
+Presse und Fernsehen aufgegriffen und
+erg&#228;nzen teilweise den Wetterbericht. Gleiches gilt f&#252;r 
+Produkte des Dienstes zur
+Atmosph&#228;ren&#252;berwachung, die f&#252;r Aussagen zur Luftqualit&#228;t 
+genutzt werden. Regelm&#228;&#223;ige Berichte wie der 
+j&#228;hrliche &#8222;European State of the Climate&#8220; Bericht 
+(zuletzt April 2021) des Copernicus-Klimadienstes 
+oder der Ocean State Report des Dienstes zur 
+&#220;berwachung der Meeresumwelt (2020)
+erreichen nicht nur eine gro&#223;e Verbreitung, sondern 
+fnden auch Eingang z.&#160;B. in die Konzeption von 
+Anpassungsma&#223;nahmen an den Klimawandel. 
+Geoinformation auf Basis von
+satellitengest&#252;tzter Erdbeobachtung etabliert sich
+zunehmend als regul&#228;re Informationsquelle f&#252;r 
+Planungsentscheidungen. 
+Die Strategie der von-der-Leyen Kommission zum 
+&#8222;Europ&#228;ischen Green Deal&#8220; wird in ihrer
+Umsetzung erheblich auf satellitengest&#252;tzte
+Geoinformationen zur&#252;ckgreifen. Insbesondere der 
+Bereich des Klimaschutzes und der
+Landwirtschaft, aber auch andere Nachhaltigkeitsaspekte 
+wie der Erhalt der Biodiversit&#228;t brauchen aktuelle, 
+r&#228;umlich explizite und vergleichbare Information, 
+18 https://www.code-de.org 
+die durch Satellitenerdbeobachtung und speziell 
+durch Copernicus bereitgestellt werden kann. Die 
+Weiterentwicklung von Copernicus beginnt
+bereits, sich an den konkreten Anforderungen des 
+Green Deal auszurichten. 
+Im September 2017 hat die Bundesregierung 
+eine nationale Copernicus-Strategie beschlossen. 
+Durch ein strukturiertes, zielgerichtetes Handeln 
+soll der Nutzen der gro&#223;en europ&#228;ischen
+Investition auch in Deutschland maximiert werden. 
+Denn auch nationale Politik kann und soll in ihrer 
+Umsetzung von Copernicus proftieren. Hierzu 
+hat die Bundesregierung unter F&#252;hrung des BMVI 
+ihre Bem&#252;hungen verst&#228;rkt, die Bedarfe von
+Einrichtungen in Deutschland in die Entwicklung 
+der europ&#228;ischen Dienste wirksam
+einzubringen. Gleichzeitig wurden und werden mit
+gezielten F&#246;rderma&#223;nahmen in ausgew&#228;hlten
+Institutionen in Deutschland Kapazit&#228;ten geschaffen, 
+damit das Potenzial des EU-Programms
+Copernicus optimal genutzt werden kann. Anfang 2020 
+wurde der nationale Copernicus Datenzugang 
+CODE-DE18  deutlich &#252;berarbeitet und erweitert 
+und wird von dessen Zielgruppe (deutsche
+Beh&#246;rden) zunehmend genutzt (Stand April 2021: &#252;ber 
+1800 Nutzende). 
+Beispielsweise hat das Johann Heinrich von 
+Th&#252;nen-Institut mit seinen Partnern im von 
+der Deutschen Raumfahrtagentur im DLR 
+(RFA) mit Mitteln des BMVI gef&#246;rderten Projekt 
+&#8222;timeStamp&#8220; eine Webanwendung entwickelt, 
+die&#160;sowohl die Fl&#228;chenkontrolle im Rahmen der 
+EU-Agrarf&#246;rderung als auch die Kontrolle von 
+Kompensationsf&#228;chen im Rahmen der
+Eingriffsregelung (BNatSchG) effzienter machen kann. 
+Viele Anwendungspotenziale liegen in
+Deutschland in der Verantwortung der L&#228;nder. Die
+Raumfahrtagentur f&#246;rdert deshalb mit Mitteln des 
+BMVI auch Pilotanwendungen auf Landesebene. 
+Ein Beispiel hierzu ist die Umsetzung eines
+operationellen Kartendienstes f&#252;r Planungstr&#228;ger in 
+Th&#252;ringen, &#252;ber den Klimafunktionskarten f&#252;r 
+die Stadt- und Regionalplanung in Th&#252;ringen 
+bereitgestellt werden (Abbildung 7).
+&#8211;
+&#8211; 15 &#8211; 
+&#8211;
+&#8211;
+  19 Digitalisierung und Nachhaltigkeit 
+Die Bem&#252;hungen auf Landesebene tragen
+zunehmend Fr&#252;chte. Landesumwelt&#228;mter erkennen
+inzwischen den Mehrwert, den Copernicus f&#252;r ihre 
+Aufgabenwahrnehmung generieren kann. Die 
+meisten Landesumwelt&#228;mter beteiligen sich an 
+einem von der Deutschen Raumfahrtagentur
+gef&#246;rderten &#8222;Leuchtturm&#8220;-Projekt, das Dienste und 
+Anwendungen erarbeiten und Copernicus
+nachhaltig in den Landesumwelt&#228;mtern etablieren 
+wird. Der Projektstart ist f&#252;r Sommer 2021 geplant. 
+Mit der nationalen Mission EnMAP entwickelt die 
+Raumfahrtagentur im DLR im Auftrag des
+Bundesminsterium f&#252;r Wirtschaft und Energie (BMWi) 
+eine Mission, die eine einzigartige
+Datengrundlage f&#252;r die Beurteilung der &#214;kosysteme und der 
+verkn&#252;pften Prozesse von Bio- und Geosph&#228;re
+erm&#246;glicht. Die quantitative Erfassung von u.a.
+N&#228;hrstoffversorgung und des Wassergehalts von
+Pfanzen, Schwebstoffen und Schadstoffen in Gew&#228;ssern 
+oder Mineralzusammensetzung und Humusgehalte 
+von B&#246;den wird die M&#246;glichkeiten eines
+nachhaltigen Ressourceneinsatzes deutlich verbessern. Schon 
+heute f&#246;rdert die Raumfahrtagentur vorbereitend 
+auf den Missionsstart in 2022 die Entwicklung von 
+Anwendungen der Hyperspektraldaten sowie
+Softwaretools zur Auswertung und Lehrmaterialien, die 
+zusammen mit Testdaten frei verf&#252;gbar &#252;ber die 
+Webseite enmap.org bezogen werden k&#246;nnen. 
+KI-basierte Analyse in der Fernerkundung 
+Das BKG hat als das Geodatenkompetenz- und 
+-dienstleistungszentrum des Bundes im
+Gesch&#228;ftsbereich des BMI ein KI-Projekt im Bereich 
+Erdbeobachtung gestartet. Hier werden neue
+Methoden der K&#252;nstlichen Intelligenz (KI) f&#252;r
+Erdbeobachtungsinformationen entwickelt, um 
+&#196;nderungen in der Landbedeckung zu verfolgen. 
+Das sind beispielsweise Siedlungs- oder
+Industrief&#228;chen, Gew&#228;sser und Vegetation. Diese Objekte 
+werden in Data Cubes erfasst und ihre zeitlichen 
+Ver&#228;nderungen ausgewertet. Ziel des BKG ist es, 
+Erdbeobachtungsinformationen intelligent zu 
+speichern, zu verarbeiten, zu analysieren und mit 
+weiteren Geodaten zu verkn&#252;pfen. Diese Analysen 
+k&#246;nnen dank der K&#252;nstlichen Intelligenz mit 
+einer hohen Erkennungsrate und kurzer
+Analysezeit durchgef&#252;hrt werden. 
+Beobachtung der Meere (PT J&#252;lich/BMBF) 
+Die Beobachtung der Ozeane und Meere von 
+der Wasseroberf&#228;che bis in die Tiefsee ist f&#252;r die 
+Erreichung der Ziele f&#252;r nachhaltige Entwicklung 
+(Sustainable Development Goals, SDGs),
+insbesondere f&#252;r die Ziele 13 "Ma&#223;nahmen zum
+Klimaschutz" und 14 "Leben unter Wasser", von gro&#223;er 
+Abbildung 7 Klimabewertungskarte Th&#252;ringen, Katzschner, L., Kupski, S., Fachgutachten Klimabewertung Freistaat
+Th&#252;ringen, INKEK  Institut f&#252;r Klima- und Energiekonzepte, Lohfelden, Deutschland, 2016
+&#8211; 16 &#8211; 
+&#8211;
+20 5. Geo-Fortschrittsbericht der Bundesregierung 
+Bedeutung. F&#252;r die Messung der
+Wassertemperatur, des pH-Werts (Ozeanversauerung) und
+weiterer biogeochemischer Variablen mithilfe von 
+ferngesteuerten oder autonomen
+Unterwasserfahrzeugen sowie f&#252;r die &#220;bertragung,
+Verf&#252;gbarmachung und Auswertung der erhobenen Daten 
+spielt die Digitalisierung eine zentrale Rolle. 
+Als erstes globales Netzwerk f&#252;r die Beobachtung 
+des Meeresinneren in Echtzeit ist das
+internationale Argo-Programm zu nennen. Seit dem Jahr 
+2000 werden automatisierte Treibbojen
+sogenannte Argo-Floats  weltweit ausgesetzt, um 
+Meeresprofle zu vermessen und die Daten per
+Satellit zu &#252;bertragen. Der deutsche Beitrag zum
+Argo-Programm wird vom BMVI sowie vom BMBF 
+gef&#246;rdert. In aktuellen Forschungsprojekten wird 
+an der Weiterentwicklung der Messsensoren
+sowie an der Entwicklung von neuen Qualit&#228;ts- und 
+Datenmanagementverfahren gearbeitet. 
+Verarbeitung von maritimen Geodaten im 
+Nautischen Informationsdienst des BSH 
+Der Nautische Informationsdienst des
+Bundesamtes f&#252;r Seeschifffahrt und Hydrographie (BSH) 
+hat nach dem Seeaufgabengesetz die gesetzliche 
+Pficht zur kontinuierlichen Herstellung und 
+Herausgabe amtlicher Seekarten und amtlicher 
+nautischer Ver&#246;ffentlichungen. 
+Alle relevanten marinen Geodaten werden vom 
+Nautischen Informationsdienst beschafft,
+ausgewertet, verarbeitet und f&#252;r den Zweck einer 
+sicheren Navigation bereitgestellt. Der Prozess 
+zur Verarbeitung dieser Geodaten besteht aus drei 
+wesentlichen T&#228;tigkeitsbereichen:
+Quellenmanagement, Basisdatenmanagement und
+Produktmanagement. Jeder eingehende relevante
+Quellendatensatz durchl&#228;uft diese drei Bereiche, bevor er 
+in modifzierter und den IHO-Standards
+entsprechender Form ver&#246;ffentlicht wird. 
+Das Quellenmanagement akquiriert alle
+relevanten in- und ausl&#228;ndischen Daten, plausibilisiert 
+diese und stellt sie zusammen mit den
+erforderlichen Metadaten in einem
+Dokumentenmanagementsystem zur Verf&#252;gung.
+Quellenlieferanten sind insbesondere die f&#252;r den Seebereich
+zust&#228;ndigen Wasserstra&#223;en- und Schifffahrts&#228;mter, 
+die BSH-Seevermessung, Vorhersagedienste sowie 
+die R&#228;umliche Planung. Dar&#252;ber hinaus werden 
+auch Daten ressort&#252;bergreifender Institutionen, 
+z.&#160;B. von K&#252;stenschutz- oder Fischerei&#228;mtern, 
+von Hafen&#228;mtern und &#8211;betrieben verarbeitet. 
+Die Datenlieferungen und -nutzungen werden 
+in Verwaltungs- bzw. Nutzungsvereinbarungen 
+oder bilateralen Vertr&#228;gen geregelt. Als
+wesentliche Datenquelle sind au&#223;erdem Orthofotos vom 
+BKG zu nennen. F&#252;r einzelne Recherchen werden 
+auch Satellitenbilddaten (Copernicus-Dienste) 
+herangezogen. 
+Das Basisdatenmanagement aktualisiert den
+vorhandenen Geodatenbestand. Dabei werden alle 
+Nautische 
+Redaktion 
+N23 
+hydrodata@bsh.de 
+Kartographische 
+Redaktion 
+N22 
+Produkt 
+Management 
+N24 
+Quellen
+management und 
+Entwicklung 
+N21 
+customer@bsh.de 
+vertrieb@bsh.de Externe Datenserver 
+Abbildung 8 Ablaufdiagramm als &#220;bersicht des gesamten nautischen Informationsdienstes
+-
+&#8211; 17 &#8211; 
+-
+-
+  21 Digitalisierung und Nachhaltigkeit 
+bereitgestellten Quellen entsprechend des
+nautischen Verwendungszwecks bewertet und je nach 
+Produkt ma&#223;stabsunabh&#228;ngig und/oder
+ma&#223;stabsabh&#228;ngig eingearbeitet. 
+Im Produktmanagement werden die
+Produktdaten f&#252;r die Herausgabe von Neuen Ausgaben 
+der Seekarten und ENCs auf Basis des aktuellen 
+und verifzierten Geodatenbestandes erzeugt. 
+Alle aufaufenden &#196;nderungen der ENCs werden 
+w&#246;chentlich zur Validierung und
+Ver&#246;ffentlichung an das zust&#228;ndige RENC (Regional ENC 
+Coordinating Centre) nach Taunton (UK)
+geschickt. Die Seekarten werden &#252;ber den
+Buchhandel, Sportboot-Ausr&#252;ster und f&#252;r
+Lizenznehmer zum Download zur Verf&#252;gung gestellt. 
+Ein weiteres Produkt ist die bathymetrische 
+ENC (bENC). Sie erg&#228;nzt die amtlichen ENCs 
+mit detaillierten Tiefeninformationen und wird 
+in einem Pilotverfahren f&#252;r einige Lotsen und 
+Verkehrszentralen bereitgestellt. 
+Projekt Smart Mapping  Zukunft der 
+Webkartographie  agil und hochaktuell 
+Smart Mapping, ein von der Arbeitsgemeinschaft 
+der Vermessungsverwaltungen der L&#228;nder der 
+Bundesrepublik Deutschland (AdV) im Jahre 
+2017 eingerichtetes gemeinsames Bund-L&#228;nder-
+Projekt, ist ein Verfahren, das funktionell von 
+einer von Bund und L&#228;ndern getragenen
+Entwicklungsgemeinschaft betreut und mit agilen 
+Methoden gemeinsam umgesetzt wird. Ziel von 
+Smart Mapping ist es, ein Verfahren zu
+entwickeln, das es erm&#246;glicht, auf der Basis amtlicher 
+Geobasisdaten kartographische Produkte
+automatisiert (ohne Interaktion) zu erstellen. Eine 
+wesentliche Innovation von Smart Mapping liegt 
+in der Neugestaltung einer modular aufgebauten 
+Entwicklungsplattform f&#252;r eine schnelle, fexible 
+und wirtschaftliche Erzeugung kartographischer 
+Produkte der Vermessungsverwaltungen. Seit 
+M&#228;rz 2020 ist eine Betaversion f&#252;r eine webf&#228;hige 
+Vektorkarte (auf Basis von VectorTiles)
+verf&#252;gbar (https://adv-smart.de/). Neben
+topographischen Informationen werden auch 3D-Geb&#228;ude 
+sowie ein Schummerungsdienst mit H&#246;henlinien 
+f&#228;chendeckend f&#252;r ganz Deutschland in einer 
+Kartenanwendung angeboten. Damit greift die 
+AdV ein Kernthema ihrer Zukunftsstrategie auf: 
+Schwerpunkt der Kartographie wird in Zukunft 
+die Bereitstellung fexibler und mobiler L&#246;sungen 
+f&#252;r Webkarten auf der Basis facher Datenmodelle 
+sein. 
+Abbildung 9 Ausschnitt der Stadt Passau in 3D-Ansicht der Smart Mapping Style Webkarte
+&#8211; 18 &#8211; 
+&#8211;
+&#8211;
+22 5. Geo-Fortschrittsbericht der Bundesregierung 
+Die Nutzung sowie der Mehrwert von
+Geoinformationen bedingt einen leichten und
+nachvollziehbaren Zugang zu diesen Informationen. Im 
+Rahmen dieses Kapitels werden Beispiele aus 
+unterschiedlichen thematischen Bereichen
+dargestellt. Daraus lassen sich unterschiedlichen 
+Bedarfe an Zugangsoptionen entsprechend 
+erkennen. 
+Lizenzfragen sowie die Gesetzeslage in
+Zusammenhang mit Geodaten und Geoinformationen
+spielen eine gro&#223;e Rolle. Durch die kontinuierliche 
+Zunahme frei verf&#252;gbarer Geoinformationen 
+ergeben sich ebenfalls weitere Fragen in Bezug 
+auf&#160;Lizenz- und Nutzungsm&#246;glichkeiten. 
+NGIS 
+Die Nationale Geoinformations-Strategie (NGIS)19 
+ist eine durch das Lenkungsgremium GDI-DE 
+(LG&#160;GDI-DE)20 im Jahr 2015 beschlossene und 
+vom&#160;IT-Planungsrat unterst&#252;tzte Strategie zur 
+Entwicklung einer zukunftsorientierten und 
+nachhaltigen Geoinformationspolitik.
+Geoinformationen sollen demnach f&#252;r alle
+raumbezogenen Entscheidungsprozesse wirkungsvoll
+einzusetzen sein, in vollem Umfang wirtschaftlich
+erhoben und wertsch&#246;pfend genutzt werden, sowie 
+helfen, nationale und lokale Interessen zu
+unterst&#252;tzen und Verpfichtungen zu erf&#252;llen. 
+Die NGIS defniert die gemeinsamen Ziele von 
+Bund, L&#228;ndern und Kommunen, die im Dialog 
+mit Wirtschaft, Wissenschaft und
+Interessengruppen gestaltet und umgesetzt werden. Die 
+NGIS richtet sich an alle Stellen der &#246;ffentlichen 
+Verwaltung, der Wirtschaft und der
+Wissenschaft, die Geodaten erheben, f&#252;hren, bereitstellen 
+oder nutzen. Die Akteure sind aufgefordert, mit 
+eigenen Ma&#223;nahmen zur Umsetzung der Ziele 
+der NGIS beizutragen. 
+19 Weitere Informationen zur NGIS unter: https://www.gdi-de.org/NGIS 
+20 Vertreten sind der Bund sowie alle L&#228;nder und die drei kommunalen Spitzenverb&#228;nde. Beratend wirken au&#223;erdem Vertreter aus 
+Wirtschaft und Wissenschaft mit. Weitere Informationen zum LG GDI-DE unter: https://www.gdi-de.org/node/40 
+Um eine nachhaltige Umsetzung der NGIS zu
+gew&#228;hrleisten, wurde 2017 ein
+Operationalisierungskonzept entwickelt, welches neben konkreten 
+Ma&#223;nahmen acht Handlungsfelder f&#252;r das LG 
+GDI-DE beinhaltet. Die Handlungsfelder von 
+denen bereits vier abgeschlossen werden
+konnten (Stand Juni 2020)  zeigen, dass die
+effektive Steuerung der Ma&#223;nahmen der GDI-DE von 
+gro&#223;er Bedeutung ist, um die Ziele der NGIS zu 
+erreichen und die Au&#223;endarstellung der GDI-DE 
+zu verbessern. 
+Daher sieht das Handlungsfeld Nr. 6 den Aufau 
+eines Monitorings f&#252;r s&#228;mtliche Ma&#223;nahmen 
+des LG GDI-DE auf Grundlage eines &#246;ffentlichen 
+Aktionsplans (zentraler Ma&#223;nahmenplan) vor, in 
+dem die bestehenden, neu identifzierten und
+zuk&#252;nftigen Ma&#223;nahmen des LG GDI-DE
+zusammengef&#252;hrt werden. Der Aktionsplan dient der 
+F&#246;rderung von Transparenz und der
+Kommunikation mit politischen Gremien wie dem 
+IT-Planungsrat. 
+Zur Unterst&#252;tzung der Ma&#223;nahmensteuerung 
+existiert ein internetbasiertes Werkzeug (GDI-DE-
+Cockpit). Es beinhaltet alle steuerungsrelevanten 
+Informationen zu den Ma&#223;nahmen der GDI-DE, 
+wie z.&#160;B. den jeweils aktuellen Umsetzungsstand, 
+und macht sie dem LG GDI-DE &#252;bersichtlich
+verf&#252;gbar. Das GDI-DE-Cockpit soll ab Ende 2020 
+zum j&#228;hrlichen Ableiten und Bereitstellen des 
+Aktionsplans GDI-DE genutzt werden. Mit der 
+Einf&#252;hrung des GDI-DE-Cockpits wird ein
+weiteres Handlungsfeld abgeschlossen. 
+Die NGIS ist eine langfristige Strategie bis 2025. 
+Politische oder gesellschaftliche
+Entwicklungen k&#246;nnen zu einer Ver&#228;nderung der NGIS-
+Zielsetzungen f&#252;hren. Zur Halbzeit in 2021 erfolgt 
+daher eine Evaluierung der Operationalisierung. 
+Die NGIS-Umsetzung wird auf ihre Wirkung 
+&#252;berpr&#252;ft und ggf. erforderliche Optimierungen 
+vorbereitet. 
+2. Zugang zu Geoinformation
+&#8211; 19 &#8211; 
+&#8211;
+&#8211;
+  23 Zugang zu Geoinformation 
+Die Integration von statistischen und
+geografschen Informationen 
+Der steigende Bedarf an raumbezogenen
+Informationen zur Unterst&#252;tzung einer
+evidenzbasierten politischen Entscheidungsfndung,
+beispielsweise die Angleichung der Lebensverh&#228;ltnisse von 
+st&#228;dtischen und l&#228;ndlichen Regionen oder das 
+Monitoring der politischen Umsetzung im
+Hinblick auf die Nachhaltigkeitsziele der Agenda 2030 
+der Vereinten Nationen, erfordert zuverl&#228;ssige 
+nachhaltige Datenquellen, auf die entsprechende 
+Analysen und statistische Auswertungen gest&#252;tzt 
+werden k&#246;nnen. 
+Durch die Umsetzung der Geokodierung aller 
+geokodierbaren Statistiken im Statistischen
+Verbund wurde in den vergangenen Jahren eine
+ausgezeichnete Datengrundlage geschaffen, die es 
+erm&#246;glicht, statistische Informationen ad&#228;quat, 
+zeitgem&#228;&#223; und entsprechend den internationalen 
+Standards bereitstellen und verbreiten zu k&#246;nnen. 
+Seit Ende 2019 liegen alle Statistiken, die einen 
+Raumbezug unterhalb der Gemeindeebene
+aufweisen, geokodiert vor. 
+Der Aufau eines entsprechenden neuen
+Datenangebots erfordert auch die Entwicklung und 
+Etablierung neuer Analyseideen im Kontext der 
+Verschneidung von statistik- und
+abteilungs&#252;bergreifend thematisch vielschichtiger
+r&#228;umlicher Informationen. Zu den prominentesten 
+Produkten, die bereits fr&#252;hzeitig durch die
+Integration statistischer und geografscher Daten
+ver&#246;ffentlicht wurden, z&#228;hlen der Agrar-, Zensus-, 
+Krankenhaus- und Unfallatlas. Neben den
+Beispielen klassischer kartografscher
+Darstellungen lassen sich dar&#252;ber hinaus durch die
+Integration statistischer und geografscher Daten weitere 
+Produkte generieren, wie z.&#160;B. die Ergebnisse
+sogenannter Erreichbarkeitsanalysen. Die Beispiele 
+zeigen auf, dass eine Weiterentwicklung in der 
+amtlichen Statistik stattgefunden hat und die 
+Integration statistischer und geografscher Daten 
+Einzug h&#228;lt. 
+Um die Nutzung integrierter statistischer und 
+geografscher Informationen durch geeignete 
+Infrastrukturelemente zu erm&#246;glichen und
+Auswertungen auf dieser Basis zu vereinfachen, wird 
+aktuell an verschiedenen Projekten gearbeitet. 
+Ein aktuelles Projekt, welches die
+internationalen Forderungen bedient, ist der Aufau einer
+sogenannten Gitterzellendatenbank (GZDB). Das 
+Ziel der Datenbank ist, standardisiert
+Informationen bereitzustellen, mit denen wissenschaftliche 
+statistische Analysen in einen r&#228;umlichen
+Kontext eingebettet werden k&#246;nnen, der die
+Auswertung neuer Fragestellungen erm&#246;glicht und somit 
+den Nutzen der Statistiken erh&#246;ht. 
+Abbildung 10 Zusammenspiel Ma&#223;nahmensteuerung, GDI-DE-Cockpit und Aktionsplan
+&#8211; 20 &#8211; 
+24 5. Geo-Fortschrittsbericht der Bundesregierung 
+Marine Dateninfrastruktur, Deutschland 
+(MDI-DE) 
+Im Rahmen der MDI-DE wurde eine
+Dateninfrastruktur f&#252;r Geodaten des K&#252;sten- und
+Meeresbereiches durch einen Verbund aus Beh&#246;rden 
+des Bundes und der K&#252;stenl&#228;nder aufgebaut. 
+Diese Geodateninfrastruktur besteht aus
+verteilen Infrastrukturknoten und stellt Metadaten und 
+Geodaten der unterschiedlichsten Themen- und 
+Anwendungsbereiche interoperabel bereit. Der 
+Datenaustausch wird hierbei durch den Einsatz 
+standardisierter Schnittstellen erm&#246;glicht. 
+Die MDI-DE unterst&#252;tzt die Beh&#246;rden bei der
+Erf&#252;llung der gesetzlichen Anforderungen von INSPIRE 
+und anderer EU-Rahmenrichtlinien wie der 
+Meeresstrategie-Rahmenrichtlinie (MSRL).  Durch 
+die Nutzung von standardisierten Metadaten und 
+den zugeh&#246;rigen OGC-konformen Webservices 
+k&#246;nnen Berichtspfichten erf&#252;llt&#160;werden. 
+Als Fachsystem f&#252;r marine Daten arbeitet die 
+MDI-DE eng mit der GDI-DE und den
+Arbeitsgruppen der Bund/L&#228;nder-
+Arbeitsgemeinschaft Nord- und Ostsee (BLANO) zusammen. 
+Die Metadaten der MDI-DE k&#246;nnen &#252;ber das 
+Metadatensystem der GDI-DE gefunden werden 
+und die Dienste der MDI-DE sind zum Teil im 
+geoportal.de verf&#252;gbar. 
+Was als Forschungs- und Entwicklungsprojekt 
+begann, ist seit 2014 unter dem Dach einer 
+Kooperationsvereinbarung zur Entwicklung 
+von Umweltinformationssystemen (VKoopUIS) 
+dauerhaft verankert. Dazu stellen die
+K&#252;stenl&#228;nder Niedersachsen, Schleswig-Holstein und 
+Mecklenburg-Vorpommern zusammen mit dem 
+Bund (BMVI, BMU) ein j&#228;hrliches Budget zur 
+technischen Konsolidierung und inhaltlichen 
+Weiterentwicklung der MDI-DE zur Verf&#252;gung. 
+Aktuell arbeitet die MDI-DE an der Bereitstellung 
+gemeinsamer INSPIRE-Dienste f&#252;r das Thema 
+Umwelt&#252;berwachung. Zur weiteren
+Unterst&#252;tzung der Berichtspfichten im Rahmen der 
+MSRL wird gemeinsam mit dem Expertenkreis 
+&#8222;Human Activities&#8220; der BLANO an der
+Bereitstellung weiterer Informationen zum Thema 
+&#8222;Menschliche Aktivit&#228;ten&#8220; gearbeitet. 
+Durch die Integration aller wesentlichen
+zust&#228;ndigen Verwaltungen an der deutschen K&#252;ste ist das 
+MDI-DE-Portal (www.mdi-de.org) zu dem
+zentralen Anlaufpunkt f&#252;r alle Interessenten an marinen 
+Fachdaten geworden. Die MDI-DE ist ein offenes 
+Netzwerk, in das beliebig viele lokale Knoten &#252;ber 
+standardisierte Metadaten und Dienste
+eingebunden werden k&#246;nnen. Auf diese Weise werden 
+Datenbest&#228;nde aus den K&#252;stenbeh&#246;rden
+zusammen mit Datenbest&#228;nden aus der Forschung
+einheitlich recherchierbar und nutzbar. MDI-DE stellt 
+damit eine Plattform dar, aus der sich die breite 
+&#214;ffentlichkeit, Wirtschaft, Politik, Verwaltung und 
+marine Wissenschaft bedienen k&#246;nnen. 
+Abbildung 11 Darstellung der Benutzeroberf&#228;che der Marine-Dateninfrastruktur (MDI-DE)
+&#8211; 21 &#8211; 
+  25 Zugang zu Geoinformation 
+3D-Viewer f&#252;r TUNB-Modelle 
+Seit langem werden an der Bundesanstalt f&#252;r 
+Geowissenschaften und Rohstoffe (BGR)
+nationale und europaweite geowissenschaftliche 
+Karten im Ma&#223;stab 1:200.000 und
+kleinskaligere thematische &#220;bersichtskarten angefertigt 
+und im Internet verf&#252;gbar gemacht. Neben
+diesen 2D-Abbildungen geowissenschaftlicher
+Sachverhalte treten in den letzten Jahren 3D-Modelle 
+des tieferen Untergrundes zunehmend in den
+Fokus der wissenschaftlichen Arbeiten.
+Verschiedene Fachabteilungen der BGR besch&#228;ftigen sich 
+daher zur Veranschaulichung ihrer Themen mit 
+der Umsetzung dieser teils komplexen
+Sachverhalte in statischen und dynamischen 3D-
+Modellen. Kleinr&#228;umige Modelle geben zum Beispiel 
+durch die Integration von Risswerken von
+Bergwerken und deren Umgebung sowie der
+Lokalisierung von geophysikalischen Messungen eine 
+plastische Vorstellung von den Gegebenheiten im 
+Untergrund und unterst&#252;tzen so sowohl
+weiterf&#252;hrende Analysen als auch Planungen zur
+sicheren und nachhaltigen Nutzung des Untergrundes. 
+Regionale und &#252;berregionale Untergrundmodelle 
+entstehen an der BGR im Rahmen von
+nationalen und internationalen Projekten in Kooperation 
+mit deutschen und europ&#228;ischen geologischen 
+Diensten. So koordiniert die BGR im Projekt 
+TUNB die Arbeiten zur grenz&#252;bergreifenden 
+Harmonisierung von Untergrunddaten zwischen 
+den staatlichen geologischen Diensten und der 
+darauf aufauenden Erstellung eines konsistenten 
+3D-Modells des Norddeutschen Beckens. 
+Die BGR erstellt dabei das 3D-Teilmodell f&#252;r 
+den deutschen Nordsee-Sektor. Die teils in
+Aufbau und Zielsetzung grundverschiedenen in den 
+Fachabteilungen konstruierten 3D-
+Untergrundmodelle werden zuk&#252;nftig zentral in einer
+Datenbank gespeichert und im Internet pr&#228;sentiert. 
+Mittels einer Web-Anwendung sollen
+schlussendlich einheitliche Darstellungen des geologischen 
+Untergrundes u.a. in Form von
+lithostratigraphischen Horizonten, St&#246;rungen und
+Salzstrukturen des Norddeutschen Beckens den BGR-
+internen und externen Nutzerinnen und Nutzern 
+zur Verf&#252;gung stehen und so den fachlichen als 
+auch gesellschaftlichen Austausch f&#246;rdern sowie 
+Diskussionen &#252;ber Nutzungen des Untergrundes 
+zielf&#252;hrend fankieren. Interessierten
+Nutzerinnen und Nutzern wird der Zugang und die
+Navigation durch die 3D-Modelle mittels einer an die 
+3D-Daten angepassten Web-Anwendung &#252;ber 
+eine komfortable Benutzeroberf&#228;che so einfach 
+wie m&#246;glich gestaltet. Diese Web-Anwendung 
+im Tandem mit einer ausgekl&#252;gelten 3D-
+Datenbank im Hintergrund erm&#246;glicht andere Wege 
+den Untergrund zu erkunden. So werden  die 
+Nutzenden unter Anderem virtuelle Bohrungen 
+und Schnitte durch 3D-Modelle legen k&#246;nnen 
+und diese visualisiert bekommen. 
+Lizenzen 
+Zugang zu Geoinformationen setzt ebenfalls 
+voraus, dass die Nutzungsm&#246;glichkeiten
+nachvollziehbar geregelt sind. Daf&#252;r bedarf es
+entsprechender Lizenzmodelle, welche sich u.a. an 
+den Bedarfen der Nutzergruppen orientieren. 
+Dabei spielen sowohl Verwendungsm&#246;glichkeiten 
+der Geoinformationen eine Rolle, als auch
+Haftungsfragen f&#252;r evtl. vorhandene L&#252;cken und/ 
+oder Ungenauigkeiten in den Daten. Dar&#252;ber 
+hinaus m&#252;ssen Aspekte der Datensicherheit klar 
+geregelt sein, um unter anderem sensible
+Informationen entsprechend vor Fremdzugriff sowie 
+beliebiger Weitergabe zu sch&#252;tzen. 
+Datenlizenz Deutschland v&#65533; 2&#65533;0 
+Die Datenlizenz Deutschland v. 2.0 wird
+zunehmend nicht nur im Bund, sondern auch von
+L&#228;ndern f&#252;r deren offene Geodaten eingesetzt.
+Dabei wird in der Regel die Datenlizenz
+Deutschland  Namensnennung v. 2.0 verwendet. Eine im 
+Auftrag von NRW erstellte Studie zeigt auf, dass 
+die Zusammenf&#252;hrung von Daten aus OSM und 
+NRW aus verschiedenen rechtlichen Gr&#252;nden 
+trotzdem problematisch bleibt. NRW hat
+deswegen Anfang 2020 auf die Datenlizenz Deutschland 
+ zero&#160;v.&#160;2.0 umgestellt. So wird auf die
+Namensnennung/den Quellenvermerk verzichtet. Dies 
+ist im Hinblick auf die Transparenz verwendeter 
+Datenquellen problematisch. Die Frage der
+Haftung und die Handhabung des Quellenvermerks 
+bed&#252;rfen ebenfalls einer Kl&#228;rung. Da GeoNutzV 
+und Datenlizenz Deutschland v. 2.0 parallel
+existieren, sollten deren Verwendung im Bund
+abgestimmt oder gar an einer Zusammenf&#252;hrung der 
+beiden Lizenzen gearbeitet werden. 
+Im Rahmen der 30. Sitzung des IT-PLR
+(Oktober 2019) wurde seitens des IT-PLR der Auftrag 
+an die GDI-DE gegeben, die Vereinheitlichung 
+von Lizenzen f&#252;r offene Daten zu betrachten. Das 
+durch eine Arbeitsgruppe erarbeitete Dokument
+&#8211; 22 &#8211; 
+&#8211;
+&#8211;
+26 5. Geo-Fortschrittsbericht der Bundesregierung 
+&#8222;Empfehlungen zur Lizenzierung offener
+Geodaten&#8220; wurde in der 33. Sitzung (Juni 2020) vom 
+LG GDI-DE beschlossen. F&#252;r die Bereitstellung 
+offener Geodaten der &#246;ffentlichen Verwaltung 
+in Deutschland wird die Verwendung einer der 
+nachfolgenden Lizenzen, m&#246;glichst in der
+aktuellsten Fassung, empfohlen: 
+Onlinezugangsgesetz (OZG) 
+Das Gesetz zur Verbesserung des Onlinezugangs 
+zu Verwaltungsleistungen (kurz:
+Onlinezugangsgesetz OZG) verpfichtet Bund und L&#228;nder, ihre 
+Verwaltungsleistungen bis Ende 2022 auch
+elektronisch &#252;ber Verwaltungsportale anzubieten. 
+Zum einen m&#252;ssen 575 Verwaltungsleistungen 
+auf Bundes-, L&#228;nder- und kommunaler Ebene 
+digitalisiert werden und zum anderen muss die 
+IT-Infrastruktur geschaffen werden, die jeder 
+Nutzerin und jedem Nutzer den Zugriff auf die 
+Verwaltungsleistungen mit nur wenigen Klicks 
+erm&#246;glicht. 
+Die OZG-Umsetzung umfasst zwei Aufgaben: 
+Die&#160;Digitalisierung von 575 Leistungen sowie den 
+Aufau eines Verbunds von Verwaltungsportalen, 
+in dem jede Leistung mit nur wenigen Klicks
+zug&#228;nglich ist. Die Leistungsdigitalisierung erfolgt in 
+den sogenannten &#8222;Digitalisierungsprogrammen&#8220;, 
+hier wird unterschieden zwischen
+Bundesprogramm und f&#246;deralem Programm. Der
+&#8222;Portalverbund&#8220; ist f&#252;r die Schaffung der IT-
+Infrastruktur zust&#228;ndig, also die intelligente Verkn&#252;pfung 
+der Verwaltungsportale des Bundes, der L&#228;nder 
+und der Kommunen. Das&#160;BMI&#160;&#252;bernimmt die 
+Koordination des Digitalisierungsprogramms 
+im f&#246;deralen Programm zusammen mit der
+F&#246;deralen IT-Kooperation (FITKO)  und treibt die
+Verkn&#252;pfung bestehender Verwaltungsportale sowie 
+die Bereitstellung zentraler Komponenten voran. 
+Bundesressorts, L&#228;nder und Kommunen sind 
+aktiv an der Planung und Umsetzung beteiligt. 
+Geodaten verschiedenster Herkunft werden in 
+zahlreichen Verwaltungsleistungen nach dem 
+OZG-Umsetzungskatalog ben&#246;tigt. Sie sind 
+21 https://www.gdi-de.org/sites/default/fles/2020-06/OZG-Papier_0.pdf 
+insoweit eine Schl&#252;sselressource und ein
+Querschnittsthema im Rahmen der OZG-Umsetzung, 
+deren Integration in die Gesch&#228;ftsprozesse mittels 
+IT-Standards und den technischen
+Komponenten einer Geodateninfrastruktur effektiv
+sichergestellt werden muss. Das Lenkungsgremium der 
+GDI-DE hat zu diesem Thema ein
+Eckpunktepapier21 ver&#246;ffentlicht. Das Papier zeigt zus&#228;tzlich, 
+dass die Umsetzung des OZG anhand konkreter 
+Anwendungsbeispiele auch einen Mehrwert f&#252;r 
+die Weiterentwicklung der GDI-DE bedeutet. 
+Aktionsplan GDI-BB 
+Mit dem Aktionsplan Geodateninfrastruktur 
+Brandenburg (Aktionsplan GDI-BB) wird die
+Geodateninfrastruktur entsprechend den
+Anforderungen eines modernen digitalisierten
+Verwaltungshandelns im Land Brandenburg ausgebaut. 
+Der Aktionsplan GDI-BB kn&#252;pft an aktuelle
+technische Entwicklungen und Anforderungen an, 
+die aufgrund der fortschreitenden Digitalisierung 
+aller Lebenslagen genereller Politikschwerpunkt 
+geworden sind. 
+Der Aktionsplan ber&#252;cksichtigt die
+Anforderungen der Digitalisierungsstrategie des Landes 
+Brandenburg, die Vorgaben der europ&#228;ischen 
+Richtlinie 2007/2/EG (INSPIRE) und der
+Nationalen NGIS und richtet sich gleicherma&#223;en an 
+anbietende Stellen wie Nutzende der GDI-BB. Er 
+ist auch Management-Werkzeug und f&#246;rdert
+zukunftsorientiertes digitales Verwaltungshandeln 
+mittels geodatenbezogener Anwendungen. Das 
+Erreichen dieser Ziele soll &#252;ber pr&#228;zise geplante 
+und formalisiert beschriebene Aktionen
+erfolgen. Diese nachhaltigen Aktionen f&#246;rdern den 
+Creative Commons Datenlizenz Deutschland 
+Namensnennung International, 
+aktuell in der Fassung 4&#65533;0 
+(CC BY 4&#65533;0) 
+Namensnennung, 
+aktuell in der Fassung 2&#65533;0 
+(dl-de/by-2-0) 
+Zero, 
+aktuell in der Fassung 2&#65533;0 
+(dl-de/zero-2-0)
+&#8211; 23 &#8211; 
+&#8211;
+-
+  27 Zugang zu Geoinformation 
+weiteren Ausbau (Fortentwicklung) der GDI-BB. 
+Die mit dem Aktionsplan GDI-BB einhergehende 
+Steuerungsaufgabe wird durch den
+Interministeriellen Ausschuss f&#252;r das Geoinformationswesen 
+in Brandenburg (IMAGI Bbg), in dem alle
+Ressorts des Landes vertreten sind, wahrgenommen. 
+Der Aktionsplan schafft Transparenz hinsichtlich 
+des Umsetzungsstandes der Aktionen, erm&#246;glicht 
+eine breitere Beteiligung an der Ausbauplanung 
+der GDI-BB und nutzt Synergien. 
+Der Aktionsplans GDI-BB22 wurde am 23.&#160;
+September 2020 durch die in den Gesch&#228;ftsbereichen 
+der&#160;unmittelbaren Landesverwaltung f&#252;r das
+Geoinformationswesen zust&#228;ndigen
+Abteilungsleiterinnen und Abteilungsleiter beschlossen. 
+Open-Data- und PSI-Richtlinie 
+Am 19. Februar 2020 ver&#246;ffentlichte die EU-
+Kommision eine Europ&#228;ische Datenstrategie23 . 
+Ausgehend von der Annahme, dass eine von 
+Daten getriebene Innovation den B&#252;rgerinnen 
+und B&#252;rgern enorme Vorteile bringen wird, ist es 
+notwendig eine Basis zu schaffen. Sie sollten in 
+die Lage versetzt werden, bessere Entscheidungen 
+auf der Grundlage von Erkenntnissen zu treffen, 
+die aus nicht personenbezogenen Daten
+gewonnen werden. Diese Daten sollten allen zug&#228;nglich 
+sein. Dies wird der Gesellschaft helfen, von der
+digitalen Dividende zu proftieren. Die europ&#228;ische 
+Datenstrategie enth&#228;lt eine Strategie f&#252;r
+politische Ma&#223;nahmen und f&#252;r Investitionen, um die 
+Voraussetzungen f&#252;r den Aufau der
+Datenwirtschaft in den kommenden f&#252;nf Jahren zu
+schaffen. Diese Datenstrategie wird gleichzeitig mit der 
+Mitteilung der Kommission zur &#8222;Gestaltung der 
+digitalen Zukunft Europas&#8220; und einem Wei&#223;buch 
+&#252;ber k&#252;nstliche Intelligenz vorgelegt, in dem die 
+Kommission darlegt, wie sie die Entwicklung und 
+Nutzung k&#252;nstlicher Intelligenz in der
+gesamten EU unterst&#252;tzen und f&#246;rdern wird. Als
+Ma&#223;nahme ist darin auch der
+Durchf&#252;hrungsrechtsakt zu hochwertigen Datens&#228;tzen benannt. 
+Die Bundesregierung hat ebenfalls eine nationale 
+Datenstrategie beschlossen, die eng mit der
+europ&#228;ischen Strategie verzahnt werden soll (Feder-
+22 https://geoportal.brandenburg.de/de/cms/portal/gdi-brandenburg/rahmenbedingungen/aktionsplan-der-gdi-brandenburg 
+23 https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-ft-digital-age/european-data-strategy_de 
+f&#252;hrung Bundeskanzleramt). Es wurden vier
+konkrete Handlungsfelder identifziert: 
+&#8226; Verbesserung der Datenbereitstellung und des 
+Datenzugangs, 
+&#8226; F&#246;rderung einer verantwortungsvollen 
+Datennutzung, 
+&#8226; Erh&#246;hung der Datenkompetenz in der 
+Gesellschaft, 
+&#8226; Staat als Vorreiter einer Datenkultur 
+Die neugefasste Richtlinie &#252;ber offene Daten 
+und die Weiterverwendung von Informationen 
+des &#246;ffentlichen Sektors (Public Sector
+Information-Richtlinie  PSI-Richtlinie; nunmehr: Open 
+Data- und PSI- Richtlinie) wurde am 20 Juni 2019 
+im Amtsblatt der EU ver&#246;ffentlicht. Die
+Novellierung ist Teil der Bestrebungen der Europ&#228;ischen 
+Kommission zur St&#228;rkung der europ&#228;ischen 
+Datenwirtschaft. Die verbesserte
+Datenbereitstellung soll datenbasierten Innovationen dienen, 
+insb. im Bereich KI. 
+Die Richtlinie regelt die Weiterverwendung von 
+Daten des &#246;ffentlichen Sektors. Sie regelt
+grunds&#228;tzlich keine Zugangsverpfichtung, sondern
+betrifft lediglich die Bedingungen der
+Weiterverwendung von Daten, die nach nationalem Recht 
+zug&#228;nglich sind. Die Richtlinie stammt von 2003 
+und wurde erstmals im Juni 2013 ge&#228;ndert. In 
+Deutschland ist sie durch das
+Informationsweiterverwendungsgesetz (IWG, Federf&#252;hrung 
+BMWi) umgesetzt. Die Mitgliedstaaten sind zur 
+Umsetzung bis zum 17. Juli 2021 verpfichtet. In 
+Deutschland erfolgt diese Umsetzung in Form des 
+Datennutzungsgesetzes (DNG). 
+Die Abgabepolitik des BKG ist bereits auf Open 
+Data ausgerichtet. Einige L&#228;nder unterst&#252;tzen 
+dieses Ziel. Andere L&#228;nder bestehen auf einen 
+fnanziellen Beitrag des Nutzerkreises an den 
+Kosten f&#252;r die Erhebung und Pfege ihrer
+amtlichen Geodaten. Die im Juli 2019 in Kraft
+getretene Richtlinie 2019/1024 &#252;ber offene Daten und 
+die Weiterverwendung von Informationen des 
+&#246;ffentlichen Sektors (sog. PSI-Richtlinie) bringt 
+in diesem Bereich gro&#223;e Ver&#228;nderungen. Sie sieht
+&#8211; 24 &#8211; 
+&#8211;
+28 5. Geo-Fortschrittsbericht der Bundesregierung 
+vor, dass bestimmte hochwertige Datens&#228;tze im 
+Besitz &#246;ffentlicher Stellen kostenlos verf&#252;gbar
+gemacht werden. Dies betrifft voraussichtlich
+zahlreiche Datens&#228;tze im Geoinformationswesen, die 
+bisher seitens der meisten L&#228;nder nur gegen
+Entgelt abgegeben wurden. Dabei sind noch viele 
+Fragen offen f&#252;r den Fall, dass sich OpenData
+tats&#228;chlich etabliert hat. Datenschutz (zum Beispiel 
+bei den personenbeziehbaren Adressdaten) und 
+Geheimschutz (zum Beispiel f&#252;r sensible Daten 
+der Versorgungswirtschaft) sind Themen, die 
+einer bundesweit einheitlichen L&#246;sung bed&#252;rfen. 
+Wenn der Verwaltung Einnahmen aus Geb&#252;hren 
+wegbrechen, ist die Erstellung und Pfege
+hochwertiger Geodaten anderweitig fnanziell
+abzusichern. Die Kontrolle &#252;ber die
+weiterverarbeiteten Daten der Verwaltung ist bei Open Data nur 
+noch eingeschr&#228;nkt m&#246;glich. 
+Open Data Brandenburg 
+&#8222;Geobasisinformationen sind allen bereitzustellen&#8220;, 
+so hei&#223;t es im Brandenburgischen
+Vermessungsgesetz. Die Brandenburger
+Vermessungsverwaltung kommt dieser Forderung umfassend nach. 
+Mit ihren Datens&#228;tzen erf&#252;llt sie alle Kriterien, die 
+allgemein zum Begriff &#8222;Open Data&#8220;
+zusammengefasst werden k&#246;nnen: Von der vollst&#228;ndigen 
+Fl&#228;chendeckung, der zeitnahen Bereitstellung 
+aktualisierter Informationen, der Verwendung von 
+Standards bis hin zu klaren Lizenzbedingungen. 
+Alle digitalen Geobasisdaten stehen zudem seit 
+dem 15.01.2020 kostenfrei zur Verf&#252;gung. 
+Am 21.06.2019 trat die durch den Brandenburger 
+Landtag beschlossene &#196;nderung des
+Brandenburgischen Vermessungsgesetzes in Kraft. Damit 
+war die gesetzliche Grundlage gelegt, die
+digitalen Geobasisinformationen grunds&#228;tzlich
+kostenfrei und zur freien Weiterverwendung
+elektronisch bereitzustellen. F&#252;r die Umsetzung mussten 
+weitere Rechtsvorschriften erlassen bzw. ge&#228;ndert 
+werden. Dies ist mit dem Erlass einer
+Rechtsverordnung (Verordnung zur Festlegung der
+kostenfreien Bereitstellung und der
+Nutzungsbestimmungen f&#252;r digitale Geobasisinformationen und 
+Geodatendienste (BbgGeoNutzV)) und der
+notwendigen Anpassung des
+Vermessungsentgeltverzeichnisses geschehen. 
+Von &#8222;Open Data&#8220; sind im Land Brandenburg alle 
+digitalen Geobasisinformationen, die
+automatisiert oder per Selbstentnahme bereitgestellt 
+werden, erfasst  das sind ca. 600 Produkte und 
+Produktauspr&#228;gungen. Damit bleibt das gewohnte 
+Angebotsspektrum an Geobasisinformationen 
+erhalten. Kosten in Form eines
+Bearbeitungsentgelts werden nur dann erhoben, wenn Daten auf 
+Wunsch hin besonders aufereitet oder
+bereitgestellt werden. 
+Der Zugang zu den digitalen Geodaten und
+webbasierten Geodiensten erfolgt wie bisher &#252;ber den 
+Internetshop &#8222;Geobroker&#8220; des Landesbetriebs
+Landesvermessung und Geobasisinformation
+Brandenburg (LGB). Dazu wurden in dem&#160;Online-Portal 
+zahlreiche Anpassungen vorgenommen, um einen 
+m&#246;glichst einfachen und komfortablen Download 
+f&#252;r die Nutzerinnen und Nutzer zu erm&#246;glichen. 
+Jederzeit online und abrufereit sind auch alle
+relevanten Informationen, die die Geodaten erl&#228;utern 
+und beschreiben (Metadaten). 
+OpenStreetMap Deutschland 
+Amtliche Open-Data-Geodaten werden
+mittlerweile meist unter der Datenlizenz Deutschland 
+Namensnennung 2.0 (DL-DE-BY)
+ver&#246;ffentlicht. Dennoch k&#246;nnen diese i.d.R. nicht vom 
+OpenStreetMap-Projekt (OSM) genutzt werden.
+Leider pr&#228;zisiert die DL-DE-BY nicht, wie die
+Namensnennung zu erfolgen hat. Daher wird davon
+ausgegangen, dass die Namensnennung direkt beim
+Produkt erfolgen muss. Es ist jedoch nicht praktikabel 
+neben OSM auch noch alle Drittquellen mit
+derselben Prominenz zu benennen. OSM nutzt eine gro&#223;e 
+Anzahl Datens&#228;tze Dritter. Die Quellenangaben 
+w&#252;rden bei Karten im Web derart viel Platz
+einnehmen, dass f&#252;r den eigentlichen Karteninhalt kaum 
+noch Platz &#252;brigbleiben w&#252;rde. 
+OSM verlangt von seinen Nutzerinnen und 
+Nutzern nur, dass OSM als Quelle benannt wird, 
+weil alles andere unpraktikabel ist. 
+Seit 1.3.2020 stellt Nordrhein-Westfalen als erstes 
+Bundesland seine Geobasisdaten unter die
+Datenlizenz Deutschland  Zero (DE-DL-Zero) und
+verzichtet damit auf die Namensnennung. Damit 
+sind diese Daten nun durch OSM nutzbar. In 
+Brandenburg wurde in den AGB des
+Landesbetrieb Landesvermessung und
+Geobasisinformation die Namensnennung dank einer
+&#214;ffnungsklausel in der Geonutzungsverordung 
+(&#167;&#160;3 Abs.&#160;5 BbgGeoNutzV) im April 2020 OSM-
+kompatibel pr&#228;zisiert.
+&#8211; 25 &#8211; 
+-
+-
+  29 Zugang zu Geoinformation 
+Des Weiteren haben auch Berlin und Hamburg 
+inzwischen OSM-kompatible Namensnennungen 
+spezifziert. In allen anderen Bundesl&#228;ndern sind 
+die Open-Data-Angebote derzeit nicht oder nur 
+im minimalen Umfang f&#252;r OSM nutzbar. 
+OSM Deutschland empfehlt daher, anstelle 
+der&#160;DL-DE-BY die DE-DL-Zero oder eine neue, 
+dritte Version der DE-DL-BY mit Pr&#228;zisierung 
+der&#160;Namensnennung zu verwenden. 
+Fehlende Open-Data-Angebote hindern bei der 
+Nutzung steuerfnanzierter Datenbest&#228;nde. Statt 
+die auf die eigene Landesf&#228;che begrenzten Daten 
+zu nutzen, wird vermehrt auf OSM zugegriffen 
+(z.&#160;B. https://fgrdeu.genres.de/naturwaldreservate/ 
+details/). Die Bundesregierung will den Austausch 
+mit der OSM-Community dazu aufnehmen. 
+SolumSTAR und SolumWEB 
+Im Verfahren SolumSTAR wird seit 2005 der 
+elektronische Datenaustausch mit den &#196;mtern 
+f&#252;r Bodenmanagement (&#196;fB) durchgef&#252;hrt. 
+Hierbei werden Geodaten
+(Flurst&#252;cksinformationen) von den &#196;fB &#252;bernommen und
+Ver&#228;nderungen an den Buchungsstellen der Flurst&#252;cke 
+und den Eigentumsverh&#228;ltnissen in den
+hessischen Grundb&#252;chern an die &#196;fB zur&#252;ckgegeben. 
+Zudem ist im Verfahren SolumWEB
+(Automatisiertes Abrufverfahren) seit 2008 die Anbindung 
+der Flurkarte zum Zwecke der Einsichtnahme 
+realisiert. 
+Geologiedatengesetz (BMWi) 
+Mit dem v&#246;llig neu konzipierten
+Geologiedatengesetz wird das veraltete Lagerst&#228;ttengesetz 
+von 1934 abgel&#246;st. Mit dem Gesetz werden
+erstmals die Datensicherung und eine einheitliche 
+Daten&#252;bermittlung geologischer Daten f&#252;r ganz 
+Deutschland vorgeschrieben. Dar&#252;ber hinaus 
+regelt das Gesetz den Zeitpunkt der &#246;ffentlichen 
+Bereitstellung geologischer Daten sowie die
+Zurverf&#252;gungstellung dieser Daten f&#252;r &#246;ffentliche 
+Aufgaben. Das Geologiedatengesetz ist damit auch 
+die Grundlage f&#252;r die Ver&#246;ffentlichung geologi-
+Abbildung 12 Fiktiver Screenshot der OpenStreetMap-Website bei Angabe aller Quellen mit Namensnennungspficht. Die 
+Liste erhebt keinen Anspruch auf Vollst&#228;ndigkeit und Korrektheit.
+&#8211; 26 &#8211; 
+30 5. Geo-Fortschrittsbericht der Bundesregierung 
+scher Daten im Rahmen der Standortauswahl f&#252;r 
+ein Endlager f&#252;r hochradioaktive Abf&#228;lle. 
+Da geologische Daten meist in kommerziellen 
+Erkundungen des Untergrunds f&#252;r den
+Rohstoffabbau erhoben werden, sind sie bisher regelm&#228;&#223;ig 
+dauerhaft als Betriebs- und Gesch&#228;ftsgeheimnisse 
+gesch&#252;tzt worden. Nur nach Abw&#228;gung der
+beteiligten Interessen konnten geologische Daten im 
+Einzelfall &#246;ffentlich bereitgestellt werden. 
+Vom bisherigen Informationszugangsrecht, das 
+eine Individualabw&#228;gung der beteiligten
+Interessen verlangt, weicht das gestufte Fristenmodell des 
+Geologiedatengesetzes ab. Das Gesetz ordnet
+geologische Daten bestimmten Datenkategorien zu 
+und w&#228;gt ab, wann die Daten der jeweiligen
+Kategorie &#246;ffentlich bereitgestellt werden. Demzufolge 
+werden geologische Fachdaten entweder nach f&#252;nf 
+oder zehn Jahren &#246;ffentlich bereitgestellt.
+Geologische Bewertungsdaten mit eigenen
+Interpretationen der Unternehmen werden regelm&#228;&#223;ig nicht 
+&#246;ffentlich bereitgestellt. In diesen Mechanismus 
+wird auch der umfassende Bestand geologischer 
+Altdaten einbezogen, die zuk&#252;nftig f&#252;r zahlreiche 
+Aufgaben bzw. Nutzungen mit Bezug zum
+Untergrund zur Verf&#252;gung stehen werden. 
+Das Geologiedatengesetz ist am 30. Juni 2020 in 
+Kraft getreten. 
+ASID ST Amtlicher
+Stra&#223;eninformationsdienst Sachsen-Anhalt 
+Kurzbeschreibung: Dynamische Stra&#223;endaten f&#252;r 
+Autobahnen, Bundes- und Landesstra&#223;en werden 
+automatisiert und fortlaufend aktualisiert sowie 
+auf der Grundlage von Geobasisdaten in einer
+Online-Informationsplattform der
+Landesstra&#223;enbaubeh&#246;rde niederschwellig zug&#228;nglich gemacht. 
+Die Zielgruppen sind: Nutzende der
+Fachanwendung aus Wissenschaft, Verwaltung, interessierte 
+B&#252;rgerinnen und B&#252;rger, Unternehmen,
+Institutionen, Politik. 
+Inhalt Karten-App: Stra&#223;ennetz,
+Ingenieurbauwerke (wie Br&#252;cken, Tunnel), Verkehrsmengen, 
+Baustellen und Umleitungen, Baumbestand 
+(einschlie&#223;lich Alleen), Stra&#223;enzustands- und 
+Wetterinformationssystem (SWIS),
+M&#246;glichkeit zu Datenabfragen (Ortssuche, Strecken- und 
+Fl&#228;chenmessungen, Filterabfragen etc.). 
+INSPIRE Viewer Sachsen-Anhalt 
+Kurzbeschreibung: Um die Verbesserung des
+Zugangs INSPIRE betroffener Geodaten europaweit 
+zu f&#246;rdern, das Verst&#228;ndnis f&#252;r den Mehrwert 
+dieser Geodaten in unterschiedlichen Bereichen 
+zu st&#228;rken sowie das Einbinden dieser Daten in 
+Prozesse weiter zu etablieren, wurde der INSPIRE 
+Viewer Sachsen-Anhalt etabliert. Hervorzuheben 
+ist neben der Realisierung der Mehrsprachigkeit 
+(Deutsch und Englisch) im Besonderen die Option 
+zur Visualisierung aller INSPIRE-relevanten
+Geodaten unterschiedlicher Fachdisziplinen &#252;ber 
+WebMapServices auf bundesweit einheitlicher 
+Hintergrundkarte. 
+Erweiterung der ZSHH
+Flurst&#252;cksinformationen bald auch l&#228;nder&#252;bergreifend erh&#228;ltlich 
+Im Fr&#252;hjahr 2020 gab die AdV den Startschuss f&#252;r 
+die Erweiterung der &#8222;Zentralen Stelle
+Hauskoordinaten und Hausumringe&#8220; um den Vertrieb von 
+l&#228;nder&#252;bergreifenden Flurst&#252;cksinformationen 
+des Liegenschaftskatasters. Es ist vorgesehen, dass 
+der Vertrieb im Jahr 2021 starten soll. 
+Der Bedarf nach einer zentralen Bereitstellung von 
+Flurst&#252;cksinformationen zur
+l&#228;nder&#252;bergreifenden Nutzung der Daten besteht unver&#228;ndert. Mit 
+der performanten Bereitstellung von
+harmonisierten und qualit&#228;tsgesicherten Daten und
+Diensten erf&#252;llen die L&#228;nder einen bundesweiten- und 
+europaweiten Infrastrukturauftrag. Damit wird die 
+Pr&#228;senz des Angebotes amtlicher Geobasisdaten 
+und der Zugang f&#252;r eine l&#228;nder&#252;bergreifende
+Nutzung verbessert. Mit einer zentralen Stelle f&#252;r den 
+Datenvertrieb und dem zentralen Datenbestand 
+k&#246;nnen k&#252;nftig bundesweite oder europ&#228;ische
+Anforderungen leichter bedient werden. 
+Landbedeckung/Landnutzung &#8211; optimale 
+Grundlage f&#252;r die Statistik 
+Zu den Aufgaben des Amtlichen
+Vermessungswesens geh&#246;ren die Erfassung, F&#252;hrung und
+Bereitstellung landschafts- und
+liegenschaftsbeschreibender Geobasisdaten. Untersuchungen 
+haben gezeigt, dass es sinnvoll ist, die in den
+amtlichen Informationssystemen gef&#252;hrte
+Tats&#228;chliche Nutzung (TN) in die Komponenten der 
+Landbedeckung (LB) und Landnutzung (LN) zu 
+&#252;berf&#252;hren, um den erweiterten Anspr&#252;chen der
+&#8211; 27 &#8211; 
+&#8211;
+&#8211;
+  31 Zugang zu Geoinformation 
+l&#228;nder-, bundes- und europaweiten Nutzerinnen 
+und Nutzer gerecht zu werden. Auch auf
+europ&#228;ischer Statistikebene wird das Prinzip der
+Trennung zwischen Landbedeckung und
+Landnutzung bereits seit Jahren angewendet. 
+Die AdV bekennt sich zu einer am tats&#228;chlichen 
+Bedarf  insbesondere der amtlichen Statistik 
+orientierten Einf&#252;hrung der Komponenten 
+LB/LN und stellte die Weichen f&#252;r eine
+zukunftsorientierte Weiterentwicklung der
+Tats&#228;chlichen Nutzung hin zur Trennung von
+Landbedeckung und Landnutzung unter Ber&#252;cksichtigung 
+der Auswirkungen der &#196;nderungen f&#252;r den
+Nutzer. Ziel ist ein vom Grunddatenbestand TN
+ausgehender neuer AdV-Grunddatenbestand TN, um 
+LB/LN ableiten zu k&#246;nnen. Es wird angestrebt, die 
+Daten der Landbedeckung und Landnutzung ab 
+dem Jahr 2024 &#252;ber die amtlichen
+Informationssysteme bereitzustellen. 
+Landesprogramm &#8222;Offene Geodaten&#8220; 
+Durch das Landesprogramm &#8222;Offene Geodaten&#8220; des 
+Freistaats Th&#252;ringen wurden seit 2016 270
+Metadatens&#228;tzen von Geodatens&#228;tzen und -diensten 
+mit dem Schl&#252;sselwort &#8222;opendata&#8220; gekennzeichnet. 
+Neben den Geobasisdaten stehen zahlreiche
+Geofachdaten offen zur Verf&#252;gung. Das Programm
+beschreibt f&#252;r alle Geodaten der Landesbeh&#246;rden eine 
+einheitliche Lizenz, die verpfichtend zu verwenden 
+ist und das Vorgehen bei der Bereitstellung offener 
+Daten. Insbesondere die Kostenfreiheit der
+Geodaten und -dienste und der einfache Zugang zum 
+Datendownload f&#252;r alle Interessierten stehen im 
+Vordergrund der Bem&#252;hungen. Das Angebot wird 
+stetig erweitert und auch durch kommunale
+Gebietsk&#246;rperschaften erg&#228;nzt. 
+Vermittlung von Geodaten durch das BKG 
+Die zunehmende Vernetzung und Digitalisierung 
+haben dazu gef&#252;hrt, dass Geodaten in
+Verwaltung, Wirtschaft und Bev&#246;lkerung immer
+h&#228;ufger von verschiedenen Stellen erstellt, genutzt, 
+kombiniert und wiederverwendet werden.
+Entsprechend steigen Bedarf und Angebot. In
+dieser Situation w&#228;chst insbesondere in der
+Bundesverwaltung die Bedeutung eines zentral
+agierenden fachkompetenten Geodatenvermittlers, der 
+sowohl die Anbieterseite f&#252;r Daten und
+Informationen als auch Bedarf und Bed&#252;rfnisse der
+Nutzenden im Detail kennt. Der Geodatenvermittler 
+kann das Geodatenangebot einfacher und
+&#252;bersichtlicher gestalten und deutlich mehr Beh&#246;rden 
+zur Nutzung von Geodaten bef&#228;higen. Dar&#252;ber 
+hinaus ist eine zentrale Beschaffung
+mehrfachgenutzter Geodatenbest&#228;nde gegen&#252;ber nicht
+abgestimmten Einzelbeschaffungen wirtschaftlicher. 
+Als zentraler Geodatenvermittler strebt das BKG 
+aufgrund seiner Kompetenz sowie auf der
+Grundlage der f&#252;r das BKG im Georeferenzdatengesetz 
+vorgesehenen Aufgaben eine Schl&#252;sselrolle an. 
+Das BKG erm&#246;glicht aufgrund der zentralen
+Geodatenbereitstellung eine optimale und
+wirtschaftliche Geodatennutzung im Bundesbereich. Dies 
+gilt f&#252;r Georeferenzdaten, aber auch f&#252;r die
+Geofachdaten, die nicht nur von einer, sondern
+mehreren Stellen des Bundes ben&#246;tigt werden. 
+Die Rolle eines Geodatenvermittlers umfasst viele 
+Aspekte: Von der Ermittlung der Bedarfe &#252;ber das 
+Auffnden und Beschaffen von Geodaten bis hin zur 
+Aufereitung und Bereitstellung f&#252;r die Nutzung. 
+Im Wesentlichen sollen den Nutzern qualitativ 
+hochwertige Daten zu m&#246;glichst vielen Themen
+bereitgestellt werden. Dies schlie&#223;t auch die
+Erschlie&#223;ung von Geoinformationen in anderen Beh&#246;rden 
+ein, so dass diese f&#252;r eine breitere Nutzung in der 
+Bundesverwaltung zug&#228;nglich gemacht werden. 
+Das BKG nutzt verst&#228;rkt das Potenzial
+nutzergenerierter Geodaten. Es setzt damit den Beschluss 
+der 37. Sitzung des IMAGI um und handelt im 
+Sinne der &#8222;Handlungsoptionen zum Umgang mit 
+Crowdsourcing-Geodaten zur Nutzung innerhalb 
+der Bundesverwaltung&#8220;. Amtliche und
+Crowdsourced Daten weisen aufgrund ihrer unterschiedlichen 
+Erfassungsmethode voneinander abweichende 
+Eigenschaften auf. Insbesondere in Kombination 
+decken sie den Bedarf der Nutzerinnen und Nutzer 
+im Bund. Das BKG und der FOSSGIS e.V.
+untersuchen gemeinsam die verbliebenen Hindernisse bei 
+der gemeinsamen Nutzung. Im Zuge dieser
+Kooperation ist geplant, die Nutzungsbedingungen
+anzupassen und f&#252;r gegenseitige Qualit&#228;tsverbesserung 
+der Geodaten zu sorgen. 
+Insgesamt soll eine m&#246;glichst einheitliche,
+qualitativ hochwertige und &#252;ber Ressortgrenzen hinweg 
+effzient nutzbare Geodatengrundlage geschaffen 
+werden. Das BKG erschlie&#223;t durch die
+Beschaffung &#8222;neuer Daten&#8220; sowie die Aufereitung von 
+bisher dezentral gehaltenen &#8222;vorhandenen Daten&#8220; 
+neue Nutzungsm&#246;glichkeiten. Durch die Harmo-
+&#8211; 28 &#8211; 
+&#8211; &#8211;
+32 5. Geo-Fortschrittsbericht der Bundesregierung 
+nisierung und Qualit&#228;tssicherung von Daten aus 
+vielen verschiedenen Quellen entsteht ein
+deutlicher Mehrwert in der Nutzung, da somit auch neue 
+Daten einfach und unkompliziert in vorhandene 
+Systeme eingebunden werden k&#246;nnen. 
+Geoportal 
+Das Geoportal Deutschland ist die Landing-Page 
+der Geodateninfrastruktur Deutschland (GDI-DE) 
+zum Finden, Visualisieren und Herunterladen 
+von Geodaten der &#246;ffentlichen Verwaltung.
+Anfang 2020 wurde das Geoportal.de komplett 
+modernisiert. Die neue Version zeichnet sich 
+unter anderem durch eine neue
+zukunftsorientierte technische Grundlage, ein modernes
+Erscheinungsbild, eine Optimierung der Interaktion 
+sowie eine deutschlandweite 3D-Ansicht aus. 
+In einem gemeinsamen Projekt wollen die GDI-DE 
+und das BKG das Geoportal.de zu dem zentralen 
+Portal f&#252;r Geoinformationen in Deutschland
+ausbauen und die Anzahl der Nutzerinnen und Nutzer 
+und Zugriffe massiv erh&#246;hen, sodass das Geopor-
+tal.de zu einem der meist besuchten Portale im
+&#246;ffentlichen Bereich wird. Um das Portal f&#252;r die
+&#214;ffentlichkeit zug&#228;nglicher und intuitiv bedienbar zu 
+machen, wird die Interaktion erheblich erleichtert 
+und das Erscheinungsbild optimiert. Im Geopor-
+tal.de werden alle Geodatenressourcen des
+&#246;ffentlichen Sektors mit &#252;berregionaler Bedeutung, mit 
+politischer und gesellschaftlicher Relevanz sowie 
+Geodaten mit bundesweiter Fl&#228;chendeckung
+verf&#252;gbar sein. Die im Geoportal.de enthaltenen
+Inhalte werden redaktionell so verst&#228;ndlich
+aufereitet, dass sie sowohl f&#252;r die breite &#214;ffentlichkeit 
+als auch f&#252;r Fachleute einfach zug&#228;nglich sind und 
+von diesen genutzt werden k&#246;nnen. 
+Zur Optimierung der Pr&#228;sentation des
+Datenangebots und zur Vereinfachung des Zugangs 
+wird ein redaktioneller Bereich im Geoportal.de 
+aufgebaut, in welchem ausgew&#228;hlte Geofachdaten 
+mit &#252;berregionaler Relevanz zu bestimmten 
+Themenbereichen (z.&#160;B. Landwirtschaft, Umwelt, 
+Gesundheit) dargestellt werden. Des Weiteren 
+werden in diesem Bereich zuk&#252;nftig Best-Practice-
+Beispiele, aktuelle Meldungen, das Angebot an 
+Geobasisdaten, &#220;bersicht der Datenanbieter und 
+deren Angebote sowie Tutorials zur Bedienung 
+des Portals publiziert. Die Inhalte dieses Bereichs, 
+insbesondere die Auswahl an ver&#246;ffentlichten 
+Geofachdaten, werden durch ein Redaktionsteam 
+erarbeitet, gepfegt und st&#228;ndig fortentwickelt. 
+Um das Datenangebot im Geoportal.de zuk&#252;nftig 
+noch attraktiver zu gestalten, wird das BKG
+gemeinsam mit anderen Bundesbeh&#246;rden verst&#228;rkt
+hochwertige Datens&#228;tze in das Geoportal.de integrieren. 
+Hierzu wird eine umfangreiche Datenakquise
+innerhalb der Bundesverwaltung durchgef&#252;hrt und die 
+Bundesbeh&#246;rden werden aktiv bei der
+standardkonformen Bereitstellung von Geodaten unterst&#252;tzt. 
+Zudem wird das BKG das aktuelle Datenangebot 
+der GDI-DE umfassend analysieren und
+hochwertige Datens&#228;tze identifzieren, priorisieren und zur 
+Darstellung im Geoportal.de optimieren. 
+Zur besseren Veranschaulichung der Mehrwerte der 
+GDI-DE und der Geodatennutzung insgesamt, wird 
+das BKG Best-Practice-Beispiele (z.&#160;B. Hinweiskarte 
+zur Starkregengef&#228;hrdung) ausarbeiten und
+publikumswirksam im Geoportal.de pr&#228;sentieren. In den 
+Best-Practice-Beispielen werden ausgew&#228;hlte
+Kombinationen aus interdisziplin&#228;ren Datenangeboten 
+zu aktuellen gesellschaftlichen Fragestellungen, wie 
+z.&#160;B. Waldbrandgefahr und Erreichbarkeit von
+Elektrotankstellen, abgebildet. Durch eine
+werbewirksame Verbreitung (z.&#160;B. via Twitter, Presse,
+Newsletter, Webseite) solch attraktiver
+Anwendungsbeispiele sollen der Nutzerkreis des Geoportal.de 
+erheblich erweitert und mehr Besucherinnen und 
+Besucher auf das Portal geleitet werden. 
+Weitere Ziele der Weiterentwicklung sind der 
+Ausbau der unterst&#252;tzten Schnittstellen sowie die 
+Integrationen von innovativen Techniken. U.&#160;a. 
+werden vom BKG hierzu zuk&#252;nftig Dienste mit 
+Echtzeitdaten (z.&#160;B. Verkehrsf&#252;sse und Belegung 
+von Parkh&#228;usern) und Routingdienste im Geo-
+portal.de verf&#252;gbar gemacht. 
+Ausbau der Anwendungsm&#246;glichkeiten von 
+Fernerkundung zum Einsatz in Bundesbeh&#246;rden 
+Verfahren zur Aufgabenerledigung unter Einsatz 
+von Fernerkundungsdaten nutzen
+Bundesbeh&#246;rden schon seit langem, z.&#160;B. zu
+Ermittlungszwecken bei Straftaten, Unterst&#252;tzung von
+Katastrophenbew&#228;ltigung aber auch im Umwelt- und
+&#8211; 29 &#8211; 
+  33 Zugang zu Geoinformation 
+Landwirtschaftsbereich. Dennoch haben bisher 
+nur ein Drittel der Beh&#246;rden
+Fernerkundungsverfahren im Einsatz oder planen dies. 
+Der technische Fortschritt in der
+Satellitentechnologie und der Erdbeobachtung aus
+Flugzeugen und mit Drohnen in Verbindung mit
+modernen Analyseverfahren bietet M&#246;glichkeiten 
+zum Einsatz von Fernerkundungsdaten in
+Bereichen, die bisher nicht im Fokus standen. Das BMI 
+hat mit dem Deutschen Zentrum f&#252;r Luft- und 
+Raumfahrt (DLR) eine Zusammenarbeit
+vereinbart, um neueste wissenschaftliche
+Forschungsergebnisse der Fernerkundung auf ihre
+Anwendbarkeit in der Verwaltung zu untersuchen und 
+bei Eignung in die Praxis zu transformieren. Dazu 
+wurde ein Rahmenvertrag mit einer Laufzeit von 
+2021 bis 2024 zur Nutzung durch alle
+Bundesbeh&#246;rden unter dem Namen &#8222;IF-Bund&#8220; (Innovative 
+Fernerkundung f&#252;r die Bundesverwaltung)
+abgeschlossen. Die dar&#252;ber neu oder
+weiterentwickelten Verfahren werden der gesamten
+Bundesverwaltung zur Verf&#252;gung stehen. 
+Der IF-Bund hat neben der konkreten
+Verfahrensidentifkation und -entwicklung noch ein zweites 
+Ziel. Eine Bedarfsabfrage des Interministeriellen 
+Ausschusses f&#252;r Geoinformationswesen (IMAGI) 
+im Jahr 2020 hat ergeben, dass viele Beh&#246;rden 
+bisher noch keinen Einsatz von Fernerkundung 
+in Betracht gezogen haben, weil dort keine oder 
+nur geringe Informationen zum Potential dieser 
+Technologie vorliegen. Daher bietet der IF-Bund 
+neben einem Newsletter regelm&#228;&#223;ig Workshops 
+und Schulungen an, um einerseits potentielle 
+Anwender in der Verwaltung neugierig auf die 
+neuen Technologien zu machen, zum anderen aber 
+ fast noch wichtiger  gleichzeitig den
+Wissenschaftlern einen &#220;berblick &#252;ber aktuelle
+Fragestellungen aus der Bundesverwaltung zu verschaffen. 
+V GeoBund  mehr Nutzungsrechte, fexible 
+Geb&#252;hren 
+In den letzten Jahren haben sich die
+Rahmenbedingungen f&#252;r die Nutzung der amtlichen 
+Geobasisdaten der L&#228;nder, die aktuell in hoher 
+Genauigkeit, f&#228;chendeckend und
+qualit&#228;tsgesichert bereitgestellt werden, ge&#228;ndert. F&#252;r
+digitale Prozessketten m&#252;ssen die Daten heute
+automatisierbar bereitstehen. Das trifft insbesondere 
+auch auf die Lizenzierung der Daten und die
+Nutzungsregelungen zu. Diese ge&#228;nderten
+Rahmenbedingungen sind in den neuen &#8222;Vertrag &#252;ber die 
+kontinuierliche &#220;bermittlung amtlicher digitaler 
+Geobasisdaten der L&#228;nder zur Nutzung im
+Bundesbereich&#8220; (kurz V GeoBund 2019) eingefossen. 
+Im Jahre 2019 wurde der V GeoBund von Bund 
+und L&#228;ndern neu ausgearbeitet und unterzeichnet. 
+Das Vertragswerk schafft die Grundlage f&#252;r die 
+Abl&#246;sung des bestehenden Vertrages &#252;ber die 
+kontinuierliche &#220;bermittlung amtlicher digi-
+Abbildung 13 Aus einem Luftbild wurde in Verbindung mit dem digitalen Oberf&#228;chenmodell (DOM) eine erg&#228;nzende 3D-
+Ansicht erzeugt.
+&#8211; 30 &#8211; 
+&#8211; &#8211;
+&#8211;
+34 5. Geo-Fortschrittsbericht der Bundesregierung 
+taler Geobasisdaten zur Nutzung im
+Bundesbereich 2016 (V GeoBund 2016) zur Fortsetzung 
+der erfolgreichen Zusammenarbeit von Bund und 
+L&#228;ndern bei der Nutzung amtlicher digitaler
+Geobasisdaten der L&#228;nder im Bundesbereich. 
+Gegen&#252;ber dem V GeoBund 2016 ergeben sich 
+folgende wesentliche &#196;nderungen: 
+1. Der Bund proftiert von der Ausweitung der 
+Nutzungsrechte und der Erweiterung des 
+Datenangebots der L&#228;nder an den Bund um 
+das Digitale Gel&#228;ndemodell 5 (DGM5) und die 
+Geb&#228;ude im Level of Detail 2 (LoD2). Das
+Vertragswerk leistet somit einen wesentlichen 
+Beitrag zur nachhaltigen Nutzung der
+Geobasisdaten des amtlichen Vermessungswesens, 
+zur Qualit&#228;t des Verwaltungshandelns und der 
+Unterst&#252;tzung politischer Entscheidungen. 
+2. Die OpenData-Entwicklung in den einzelnen 
+L&#228;ndern verl&#228;uft dynamisch. Der V&#160;GeoBund 
+2019 ber&#252;cksichtigt bei der Festlegung der 
+Geb&#252;hren erstmals eine fexible Anpassung 
+des Nutzungsentgelts an die OpenData-
+Entwicklung in den L&#228;ndern. 
+3. Durch die Erweiterung der externen
+Nutzungsrechte einschlie&#223;lich Unterlizenzierung wird 
+dem Bund eine einfache, durchg&#228;ngige
+Verwendung seiner Folgeprodukte und -dienste 
+durch Unterlizenznehmer im Rahmen der 
+Erf&#252;llung seiner Pfichtaufgaben erm&#246;glicht. 
+VVKoopVerm/VKoopBKG 
+Anfang des Jahres 2020 haben die L&#228;nder mit 
+dem Bund, vertreten durch das BKG, eine
+Verwaltungsvereinbarung &#252;ber die Kooperation im 
+amtlichen Vermessungswesen (V Koop BKG)
+abgeschlossen. Mit dieser Vereinbarung erfolgt 
+eine direkte Einbindung des BKG in den
+Lenkungsausschuss Geobasis. Die Aufgabe des
+Lenkungsausschusses Geobasis besteht in der
+gemeinsamen Umsetzung strategischer Beschl&#252;sse 
+im amtlichen Vermessungswesen, die durch die 
+AdV-Gremien gefasst werden. Er wurde durch 
+eine Verwaltungsvereinbarung der L&#228;nder 2010 
+gegr&#252;ndet (VVKoopVerm). Insbesondere
+koordiniert der Lenkungsausschuss die sog.
+Zentralen Stellen f&#252;r die Bereitstellung von
+Hauskoordinaten/Hausumringen, 3D-
+Geb&#228;udemodellen, SAPOS&#174;-Korrekturdaten und Daten 
+der Geotopographie. Ziel ist, die Geobasisdaten 
+der L&#228;nder f&#228;chendeckend, qualit&#228;tsgesichert 
+l&#228;nder&#252;bergreifenden Anwenderinnen und
+Anwendern nutzbar zu machen. 
+Mit der engeren Einbindung des BKG lassen sich 
+viele internationale wie nationale Aufgaben und 
+Herausforderungen durch Bund und L&#228;nder,
+insbesondere im Hinblick auf die angestrebte
+Einheitlichkeit in der Datenbereitstellung im
+amtlichen Vermessungswesen, besser bew&#228;ltigen. 
+Dabei sollen die verf&#252;gbaren Geodaten allen 
+Verwaltungsbereichen in Bund und L&#228;ndern, 
+sowie im gesetzlichen oder auf der Grundlage 
+von Vereinbarungen im defnierten Umfang auch 
+internationalen und europ&#228;ischen Institutionen 
+und Stellen, sowie der Wirtschaft, der
+Wissenschaft und den B&#252;rgerinnen und B&#252;rgern in der 
+erforderlichen Qualit&#228;t einheitlich zur Verf&#252;gung 
+stehen. Vor allem die Bereiche
+Katastrophenschutz, Krisenmanagement und Gefahrenabwehr 
+in Bund, L&#228;ndern und Kommunen werden von 
+der zuk&#252;nftig effzienteren Bereitstellung von 
+georeferenzierten Daten proftieren. 
+Aktuell organisieren Bund und L&#228;nder die
+Einrichtung der 3A-Testsuite zur umfassenden
+Qualit&#228;tspr&#252;fung (Konformit&#228;t) der ALKIS-, AFIS-
+und ATKIS-Daten. Die Testsuite gliedert sich in 
+eine Registry, die das Regelwerk zur Pr&#252;fung 
+enth&#228;lt, und die eigentliche Testroutine, die die 
+Daten anhand des Regelwerkes pr&#252;ft. Sie stellt 
+eine bundesweit einheitliche, insbesondere vom 
+Ort oder den Zust&#228;ndigkeiten der Erhebung, der 
+origin&#228;ren F&#252;hrung oder &#220;bermittlung der
+Geobasisdaten, zuk&#252;nftig auch der Geodatendienste 
+und Metadaten, unabh&#228;ngige Qualit&#228;tspr&#252;fung 
+sicher. 
+V GeoL&#228;nder  Grundstein f&#252;r
+l&#228;nder&#252;bergreifende Projekte und Bund-L&#228;nder-Vorhaben 
+Ebenfalls 2019 haben die L&#228;nder mit dem
+Vertrag &#252;ber die gegenseitige Nutzung amtlicher
+digitaler Geobasisdaten der L&#228;nder (V GeoL&#228;nder) 
+einen ma&#223;geblichen Schritt zu einer
+umfassenden l&#228;nder&#252;bergreifenden Nutzung ihrer
+Geobasisdaten durch Landeseinrichtungen f&#252;r
+&#246;ffentliche Landesaufgaben umgesetzt. 
+Der Bedarf nach einer solchen
+vertragsrechtlichen Regelung begr&#252;ndete sich darin, dass sich 
+die Durchf&#252;hrung von Projekten und Unter-
+&#8211; 31 &#8211; 
+&#8211;
+  35 Zugang zu Geoinformation 
+suchungen mehrerer L&#228;nder mit
+l&#228;nder&#252;bergreifenden, einheitlichen Geobasisdaten
+effzienter gestalten l&#228;sst. Aber auch Bundes- und 
+Landeseinrichtungen arbeiten zunehmend
+verwaltungsebenen&#252;bergreifend zusammen und 
+nutzen dabei einheitliche l&#228;nder&#252;bergreifende 
+Geobasisdatens&#228;tze. 
+Der V GeoL&#228;nder nun stellt die
+l&#228;nder&#252;bergreifende Zusammenarbeit mit Geobasisdaten und 
+ als Erg&#228;nzung zum V GeoBund  die
+Zusammenarbeit zwischen L&#228;ndern und Bund auf
+rechtlich gesicherte F&#252;&#223;e. So wird auch erm&#246;glicht, 
+dass alle an einem Vorhaben Beteiligten im Bund 
+und im jeweiligen Land mit identischen
+Datens&#228;tzen in einem Gesamtsystem
+l&#228;nder&#252;bergreifend arbeiten. 
+GEOSS (Das Globale Erdbeobachtungssystem 
+der Systeme) 
+Die Zielsetzung der internationalen Gruppe zur
+Erdbeobachtung (GEO - www.earthobservations.org) 
+ist die Schaffung eines umfassenden, nachhaltigen, 
+globalen Erdbeobachtungssystems der Systeme 
+(GEOSS - www.d-geo.de). 
+Die Zahl der Mitgliedstaaten bei GEO ist von 105 
+Staaten (2017) auf mittlerweile 113 Staaten (M&#228;rz 
+2021) angestiegen. Gemeinsam streben diese eine 
+bessere Koordinierung der
+Erdbeobachtungssysteme und -strukturen an. Au&#223;erdem sollen die 
+Erdbeobachtungs-Infrastrukturen nachhaltig 
+gesichert, vorhandene Beobachtungsl&#252;cken
+geschlossen sowie ein offener, m&#246;glichst
+kosteng&#252;nstiger Austausch von Erdbeobachtungsdaten 
+und Informationsprodukten erm&#246;glicht werden. 
+Deutschland arbeitet von Beginn 2005 an aktiv in 
+den GEO-Gremien mit. 
+Generell liegen Chancen und Nutzen einer
+Beteiligung an GEO in der Weiterentwicklung eigener 
+deutscher Infrastrukturen und der
+internationalen Sichtbarkeit, in der Gestaltung von
+Erdbeobachtungssystemen auf internationaler Ebene 
+zur Verbesserung der internationalen
+Datenverf&#252;gbarkeit sowie in Optimierungen durch 
+Erfahrungsaustausch und Validierung von
+Geoinformationen. Au&#223;erdem werden die
+Erdbeobachtungsaktivit&#228;ten, Daten und Produkte der
+jeweiligen Partnereinrichtungen &#246;ffentlich besser 
+sichtbar und verf&#252;gbar. 
+Die Kooperation der GEO mit den Strukturen der 
+globalen Abkommen der Vereinten Nationen (Ziele 
+zur nachhaltigen Entwicklung, Pariser
+Klimaabkommen, Sendai Rahmenwerk zur
+Katastrophenrisikoreduzierung) macht weitere Fortschritte. 
+Die nationale D-GEO Arbeitsgruppe setzt die 
+laufenden Kernaktivit&#228;ten auf nationaler Ebene 
+fort und begleitet die GEO-Gremien auf
+internationaler Ebene intensiv. 
+D-GEO wird: 
+&#8226; das deutsche Engagement zu relevanten 
+GEO-Themen (z.&#160;B. Katastrophenvorsorge, 
+Landnutzung) verst&#228;rken, 
+&#8226; die Erschlie&#223;ung von Geodatenbanken 
+wissenschaftlicher Einrichtungen f&#252;r die 
+GDI-DE und das internationale GEOSS weiter 
+voranbringen, 
+&#8226; EuroGEO sowie weitere relevante europ&#228;ische 
+Programme bei Gestaltung ihres GEO-Beitrags 
+begleiten, 
+&#8226; die aktive deutsche Mitwirkung in den 
+internationalen GEO-Gremien und 
+-Arbeitsgruppen fortsetzen. 
+Weitere Informationen sind auf www.d-geo.de 
+erh&#228;ltlich. 
+&#196;nderung des Gesetzes &#252;ber den Deutschen 
+Wetterdienst und kostenlose Bereitstellung 
+von Wetter- und Klimadaten 
+Das Erste Gesetz zur &#196;nderung des Gesetzes 
+&#252;ber den Deutschen Wetterdienst (DWD) ist am 
+25.7.2017 in Kraft getreten. Die neue, ge&#228;nderte 
+Fassung des Gesetzes &#252;ber den Deutschen
+Wetterdienst erm&#246;glicht die kostenfreie Bereitstellung 
+von meteorologischen Daten und modernisiert 
+die Aufgaben des Deutschen Wetterdienstes. 
+Damit ist das Ziel der Bundesregierung umgesetzt, 
+den Zugang und die Nutzung von
+meteorologischen Daten zu vereinfachen. Die nun
+kostenfreie Datenabgabe birgt ein hohes
+Wertsch&#246;pfungspotential, insbesondere f&#252;r Start-up-
+Unternehmen und schafft verbesserte M&#246;glichkeiten 
+von Synergien und der Weiterverwendung von 
+Wetterdaten in anderen Bereichen.
+&#8211; 32 &#8211; 
+&#8211; &#8211;
+36 5. Geo-Fortschrittsbericht der Bundesregierung 
+Die Geodaten des DWD sind &#252;ber das Open-
+Data-Portal des DWD (www.dwd.de/opendata) 
+verf&#252;gbar. 
+Die &#196;nderung des DWD-Gesetzes wurde im Jahr 
+2020 evaluiert. Der Evaluierungsbericht ist als 
+Drucksache 19/28350 des Deutschen Bundestags 
+ver&#246;ffentlicht. 
+Nationaler Zugangspunkt zu Mobilit&#228;tsdaten 
+Die im 4. Geofortschrittsbericht verankerte
+Ma&#223;nahme 11 &#8222;Fachbezogener Zugang f&#252;r Mobilit&#228;ts-
+und Verkehrsdaten: mCLOUD&#8220; wurde
+kontinuierlich weiterentwickelt. &#220;ber das OpenData-Portal 
+mCLOUD (www.mcloud.de) sind aktuell (Stand 
+14.04.2021) &#252;ber 5.300 offene mobilit&#228;tsbezogene 
+Daten aus Verwaltung, Wirtschaft und Forschung 
+zur freien Weiterverwendung verf&#252;gbar. Zum 
+&#252;berwiegenden Teil handelt es sich dabei um 
+Daten mit Raumbezug, die &#252;ber entsprechende 
+Geodatenstandards bereitgestellt werden.  Das 
+Portal mCLOUD ist mit zahlreichen anderen 
+OpenData-Portalen vernetzt. 
+Parallel wurde der Mobilit&#228;ts Daten Marktplatz 
+(MDM - www.mdm-portal.de) weiter ausgebaut 
+und ist seit Dezember 2019 Nationaler
+Zugangspunkt im Sinne aller delegierter Verordnungen 
+zur Richtlinie 2010/40/EU zum Rahmen f&#252;r die 
+Einf&#252;hrung intelligenter Verkehrssysteme im 
+Stra&#223;enverkehr und f&#252;r deren Schnittstellen zu 
+anderen Verkehrstr&#228;gern (IVS-Richtlinie). Der 
+MDM beinhaltet neben einer Portal- und
+Recherchefunktion als wichtige Kerneigenschaft einen 
+Datenbroker f&#252;r dynamische Daten. 
+Die Funktionen von mCLOUD und MDM werden 
+in den n&#228;chsten Jahren schrittweise
+zusammengef&#252;hrt und deutlich ausgebaut: es entsteht ein 
+neuer Nationaler Zugangspunkt zu
+Mobilit&#228;tsdaten. Dieser dient ab 2022 als Einstiegspunkt in 
+einen &#252;bergreifenden Mobilit&#228;tsdatenraum und 
+soll enge Verkn&#252;pfungen zur GDI-DE aufweisen. 
+Forschungsinitiative mFUND 
+Mit der Innovationsinitiative mFUND f&#246;rdert 
+das BMVI seit 2016 datenbasierte Forschungs-
+und Entwicklungsprojekte f&#252;r die Mobilit&#228;t 4.0 
+und die Digitalisierung im Verkehr. In der ersten 
+Programmphase bis 2020 wurden 200 Millionen 
+Euro investiert, die zweite Phase ist in der
+mittelfristigen Finanzplanung mit rund 250 Millionen 
+Euro verankert. Ein Gro&#223;teil der mFUND-Projekte 
+nutzt Geodaten f&#252;r die Entwicklung
+datenbasierter Anwendungen im Mobilit&#228;tsbereich,
+insbesondere Fernerkundungsdaten (v.a. Copernicus), 
+Geobasisdaten sowie zahlreiche weitere private 
+und &#246;ffentliche Geofachdaten. 
+Partner und F&#246;rdernehmer sind
+Wissenschaftseinrichtungen, Beh&#246;rden, Kommunen und
+Unternehmen mit einer besonderen
+Schwerpunktsetzung auf kleinen und mittleren Unternehmen 
+(KMU). Die Projekte stellen regelm&#228;&#223;ig &#246;ffentliche 
+Ergebnisse oder OpenData bereit.
+Kurzinformationen zu rund 300 Vorhaben und den
+Aktivit&#228;ten der wissenschaftlichen Begleitforschung sind 
+online einsehbar (www.mfund.de). 
+In der zweiten Programmphase wird das BMVI 
+das bew&#228;hrte Konzept des mFUND fortf&#252;hren 
+und gleichzeitig einen zus&#228;tzlichen Akzent auf 
+die europ&#228;ische Vernetzung und die
+Kommunikation von Projektergebnissen und modellhaften 
+L&#246;sungen legen. 
+GeoDatenArchitektur Wasser RLP
+Niedrigschwelliger Einsatz von Geofachdaten in der 
+Wasserwirtschaft von Rheinland-Pfalz 
+Die meisten Aufgaben in der
+Wasserwirtschaft weisen einen Raumbezug und
+umweltbezogene Charakteristik auf. Beispielsweise 
+liegt ein Trinkwasserschutzgebiet in einer oder 
+mehreren Gemeinden und ist durch konkrete 
+Bodeneigenschaften und eine spezifsche
+Geologie charakterisiert. Hierzu wurde mit der 
+GeoDatenArchitektur Wasser (GDA) RLP ein 
+effzientes Arbeitsinstrument f&#252;r raumbezogene 
+Aufgaben in der Wasserwirtschaftsverwaltung 
+Rheinland-Pfalz geschaffen. Damit wird den
+Mitarbeiterinnen und Mitarbeitern sowie Dritten 
+ein niedrigschwelliger, standardisierter Zugriff zu 
+den wasserwirtschaftlichen Fachdaten und
+Fachanwendungen bereitgestellt. 
+F&#252;r den beh&#246;rdlichen Vollzug und die Nutzung 
+durch registrierte Dritte stehen in der GDA
+zahlreiche Spezialwerkzeuge f&#252;r
+wasserwirtschaftliche Aufgabenstellungen zur Verf&#252;gung. Im 
+Konfgurator der GDA Wasser RLP wird erm&#246;g-
+&#8211; 33 &#8211; 
+-
+  37 Zugang zu Geoinformation 
+licht, projektbezogen gemeinsam an GIS-
+Kartenprojekten24 zu arbeiten. GIS-Instanzen werden 
+genutzt, um eine fachspezifsche bidirektionale 
+GIS-Integration in zahlreiche
+wasserwirtschaftliche Fachverfahren zu realisieren. 
+Die GDA Wasser RLP wird daf&#252;r auch als Teil des 
+Fachportals der Wasserwirtschaft im Internet
+eingesetzt. Aufgabe des Fachportals ist zum einen der 
+einheitliche gesicherte Zugang zu Fachverfahren, 
+bei denen Dritte beteiligt sind, z.&#160;B. zur
+Antragstellung bei der F&#246;rderung oder f&#252;r die Abgabe 
+von Erkl&#228;rungen zur Abwasserabgabe und dem 
+Wasserentnahmeentgelt, sowie zum anderen die 
+Bereitstellung von Fachdaten, beispielsweise in 
+Bezug auf die umfangreichen
+wasserwirtschaftlichen Messreihen, die hier&#252;ber dem
+Fachpublikum verf&#252;gbar gemacht werden. 
+F&#252;r die Akzeptanz der GDA Wasser RLP sprechen 
+Anwenderzahlen und Angebote mit 1.200
+registrierten Anwenderinnen und Anwender, 800
+anwendungs- und anwenderspezifsche Layer,
+sowie 140 anwendungs- und anwenderspezifsche 
+GIS-Instanzen. 
+Funktionale Schwerpunkte 
+&#8226; Konfgurator zur Erstellung anwendungs- und 
+anwenderspezifscher GIS-Instanzen auf Basis 
+einer einheitlichen zentralen Datenhaltung 
+&#8226; Bidirektionale Schnittstelle zur Integration in 
+beliebige Fachverfahren 
+&#8226; Plug-in-Schnittstelle zur Integration von
+Entwicklungen Dritter mittels WPS-Technologie 
+&#8226; Spezialisierte GIS-Werkzeuge zur Ermittlung 
+von Ober-/Unterlieger-Verbindungen 
+&#8226; Granulares Rechtemodell zur
+Zugriffssteuerung auf Layer- oder Instanzebene 
+Die Wasserwirtschaft in Rheinland-Pfalz greift bei 
+der Umsetzung des Onlinezugangsgesetzes (OZG) 
+auch auf Erfahrungen und Elemente der GDA 
+Wasser RLP zur&#252;ck. Eine erfolgreiche
+Digitalisierung des &#246;ffentlichen Lebens ben&#246;tigt gemein-
+24 GIS-Karten ist hier etwas unscharf verwendet und meint fachlich korrekt ausgedr&#252;ckt GIS-Instanzen. Auf einem Desktop-GIS in etwa 
+vergleichbar mit einem GIS-Projekt. 
+25 https://www.bitkom.org/sites/default/fles/2021-02/180912_pp_geoinformationen.pdf 
+same Anstrengungen und Ressourcen auf allen 
+Ebenen. Sie umfasst die Entwicklung von
+Verfahren, Anwendungen und Ausr&#252;stung sowie die 
+Bereitstellung f&#252;r die Beteiligten. 
+Die hohe Bedeutung von Geoinformationen in 
+der Digitalwirtschaft 
+Geoinformationen und der r&#228;umliche Bezug 
+von Daten haben branchen&#252;bergreifend in der 
+Digitalwirtschaft eine zunehmend hohe
+Bedeutung. Die aktuelle Corona-Pandemie zeigt, wie 
+wichtig qualitativ gesicherte Informationen im 
+r&#228;umlichen Kontext sind. Sie tragen wesentlich 
+zum Verst&#228;ndnis raum-zeitbezogener
+Ph&#228;nomene bei und verhelfen zugleich zielgerichtete 
+Ma&#223;nahmen zu initiieren und zu koordinieren. 
+Der Arbeitskreis (AK) Geoinformation des Bitkom 
+hat u.a. aus Gr&#252;nden wie diesen im
+Berichtszeitraum angestrebt, sowohl seine Vernetzung mit 
+Wirtschaft, Wissenschaft und Verwaltung weiter 
+auszubauen, als auch den Nutzen moderner
+Geoinformationssystem-Technologie zu
+kommunizieren. Zur Umsetzung dieser Punkte wurde 
+z.&#160;B. der &#8222;Wirtschaftsrat GDI-DE&#8220; auf Initiative 
+des Bitkom gegr&#252;ndet. Zugleich sind aus der
+Verbandsarbeit des Bitkom AK Geoinformation auch 
+fachliche, strukturelle und technologische
+Handlungsfelder identifziert worden, um
+Geoinformationen umfassend im Sinne einer digitalen
+Infrastrukturkomponente nutzen zu k&#246;nnen.
+Exemplarisch sei an dieser Stelle auf die Entwicklungen 
+der europ&#228;ischen digitalen Infrastruktur GAIA-X 
+hingewiesen, in die auf Betreiben des Bitkom 
+AK Geoinformation in der GAIA-X Dom&#228;ne 
+&#8222;&#214;ffentlicher Sektor&#8220; die Sub-Dom&#228;ne
+&#8222;Geoinformation&#8220; eingerichtet wurde.
+Entwicklungen des &#246;ffentlichen Geoinformationswesens und 
+Anforderungen der
+geoinformationsverarbeitenden Branchen fnden damit aktiv Eingang in die 
+Gestaltung von GAIA-X. Ohne dies hier im Detail 
+zu erl&#228;utern hat der Bitkom AK Geoinformation 
+dazu Position bezogen (siehe Bitkom
+Positionspapier25) und strukturelle Ma&#223;nahmen ergriffen 
+(Einbindung in GAIA-X), um eine
+zukunftsorientierte Weiterentwicklung des
+Geoinformationswesens in Deutschland zu begleiten.
+&#8211; 34 &#8211; 
+38 5. Geo-Fortschrittsbericht der Bundesregierung 
+Wesentlicher Schritt des Bitkom AK
+Geoinformation war, in Zusammenarbeit mit dem
+Lenkungsgremium GDI-DE, im M&#228;rz 2018 den
+&#8222;Wirtschaftsrat GDI-DE&#8220; zu initiieren. Der Wirtschaftsrat 
+GDI-DE ist eine Initiative von derzeit 14
+Fachverb&#228;nden, die ehrenamtlich unter der
+Federf&#252;hrung des Bitkom AK Geoinformation und 
+unter Mitwirkung des BDVI beratend die
+Entwicklung der GDI-DE begleiten (siehe Bericht 
+Wirtschaft 33. Sitzung Lenkungsgremium 
+GDI-DE). Nach der Auf&#246;sung der durch das 
+BMWi &#252;ber mehr als 10 Jahre fnanzierten
+Geoinformationswirtschaftskommission in 2016 wird 
+damit die Zusammenarbeit mit Fachverbands-
+und Wirtschaftsvertretern neu aufgestellt. Es 
+sei an dieser Stelle darauf hingewiesen, dass der 
+Wirtschaftsrat GDI-DE derzeit rein ehrenamtlich 
+und ohne weitere Finanzierung agiert. Im
+Hinblick auf die organisatorische Professionalisierung 
+sollte eine k&#252;nftige Sockelfnanzierung weiter 
+betrachtet werden.
+&#8211; 35 &#8211; 
+  39 Kriseninformation 
+Eine wesentliche Eigenschaft von
+Kriseninformation ist die Notwendigkeit der raschen
+Bereitstellung. Geoinformationen werden diesem Anspruch 
+sehr gut gerecht: Tagesaktuelle Entwicklungen 
+werden im gew&#252;nschten Ma&#223;stab dargestellt. Die 
+Hinzunahme zus&#228;tzlicher Informationsquellen ist 
+meist unmittelbar m&#246;glich, um das Verst&#228;ndnis f&#252;r 
+den Kontext der jeweiligen Situation zu vergr&#246;&#223;ern. 
+Hierbei ist zu erw&#228;hnen, dass Krisen im zivilen 
+Bereich bereits durch bspw. lokale
+&#220;berfutungsereignisse, Starkregenereignisse oder
+Lawinenabg&#228;nge im Winter defniert sind. In diesem Jahr 
+ist die allgegenw&#228;rtige Corona-Pandemie ein
+Beispiel f&#252;r eine Krisensituation. Hier ist sowohl 
+die globale Betrachtung von Nutzen als auch die 
+regionale Ebene zu betrachten, wenn es um die 
+Ausstattung mit Intensivbetten oder die
+Risikoabsch&#228;tzung basierend auf Informationen zur 
+Bev&#246;lkerungsstruktur geht. 
+Corona-Lage 
+Das BKG ist seit Beginn der COVID-19-Pandemie 
+eine wichtige Konstante f&#252;r die breite
+Verf&#252;gbarkeit von wesentlichen Dienstleistungen f&#252;r 
+politische Entscheidungstr&#228;gerinnen und
+Entscheidungstr&#228;ger. Die Bundesrepublik
+Deutschland steht aufgrund der Entwicklung rund um 
+COVID-19 weiterhin vor einer hochkomplexen 
+Situation. F&#252;r einen umsichtigen
+Entscheidungsprozess ist es relevant, Geoinformationen
+einzubeziehen. Durch eine strukturierte Aufereitung 
+der Daten und die professionelle Visualisierung 
+auf Karten wird Entscheidungstr&#228;gerinnen und 
+Entscheidungstr&#228;gern die aktuelle Situation vor 
+Augen gef&#252;hrt, sodass Zusammenh&#228;nge klarer 
+und schneller ersichtlich werden. Dabei
+unterst&#252;tzt das BKG die Bundesverwaltung nicht nur 
+mit den Standardprodukten und Dienstleistungen 
+des BKG, sondern liefert zus&#228;tzlich
+hochindividualisierte, auf den jeweiligen Bedarf
+zugeschnittene Produkte unter der Verwendung neuester 
+Technologien und Daten. Die Dienstleistungen 
+werden nicht nur im eigenen Gesch&#228;ftsbereich des 
+BMI, sondern dar&#252;ber hinaus ressort&#252;bergreifend 
+in Anspruch genommen. 
+Das BKG erf&#252;llt eine st&#228;ndige
+Beratungsfunktion zu den Potentialen der
+Geoinformation (inkl. Fernerkundung). Dabei werden
+anschaulich und effzient die M&#246;glichkeiten der 
+Verwendung von Geoinformationen in
+Verbindung mit weiteren Fachinformationen in
+pers&#246;nlichen Gespr&#228;chen aufgezeigt. Besonders in 
+Ausnahmesituationen ist eine kompetente
+Beratung zu den M&#246;glichkeiten, aber auch zu
+derzeit bestehenden Einschr&#228;nkungen als fundierte 
+Entscheidungsgrundlage wichtig. Durch die
+zielgerichteten und individuellen
+Beratungsleistungen in dieser Ausnahmesituation in
+Deutschland (sowie Europa und der Welt) hat das BKG 
+interdisziplin&#228;re fachliche Expertise gezeigt und 
+sich als verl&#228;sslicher Partner bew&#228;hrt. Speziell 
+f&#252;r Bundesbeh&#246;rden &#252;bernimmt das BKG, 
+neben der Erstellung kartenbasierter Produkte, 
+die Recherche, Aufereitung und
+Bereitstellung von Daten zu Standorten wichtiger
+Infrastruktureinrichtungen. Das BKG ist somit in der 
+Lage, diese schnell und in geeigneter Form f&#252;r 
+unterschiedliche Anwendungen zur Verf&#252;gung 
+zu stellen, sodass eine reibungslose Integration 
+in nutzereigene Applikationen gew&#228;hrleistet 
+wird. Das BKG recherchierte und analysierte im 
+Auftrag des BMI die Verteilung
+unterschiedlicher Bev&#246;lkerungsgruppen und die
+verf&#252;gbaren Kapazit&#228;ten im Gesundheitsbereich auf 
+Landkreisebene. Ins Verh&#228;ltnis gesetzt wurden 
+die Anzahl von Krankenhausbetten und
+demographische Informationen, zu den jeweiligen 
+Landkreisen aufereitet und als situative
+Kartenprodukte bereitgestellt. 
+Als Polen Mitte M&#228;rz die Grenzen schloss und sich 
+an den Grenz&#252;bergangen bei der Ausreise
+Richtung Polen kilometerlange Staus bildeten, war die 
+Dauer der Grenzschlie&#223;ung und die damit
+verbundene weitere Entwicklung der Stausituation 
+nicht absehbar. Damit auf derart dynamische 
+Situationen schnell reagiert werden konnte, 
+wurden Produkte unter Einsatz neuester
+Erdbeobachtungssatelliten erzeugt. So konnte die 
+Situation anhand von Fernerkundungsverfahren 
+abgebildet sowie interpretierbar und damit
+einsch&#228;tzbar gemacht werden. Auf Basis von
+hochauf&#246;senden Satellitenbildern analysierten Exper-
+3. Kriseninformation
+&#8211; 36 &#8211; 
+40 5. Geo-Fortschrittsbericht der Bundesregierung 
+tinnen und Experten des BKG die Stausituation 
+auf einer L&#228;nge von 37 Kilometern an der A4 
+bei Bautzen (Sachsen). Dar&#252;ber hinaus wurden 
+Kartenprodukte &#252;ber alle offziellen und
+potentiellen Grenz&#252;berg&#228;nge von Deutschland zu den 
+Nachbarstaaten als Entscheidungsvorlagen f&#252;r 
+den Bundesinnenminister erstellt. 
+Die meisten Produkte dienten der Einsch&#228;tzung 
+der Situation in Deutschland, jedoch waren auch 
+Produkte von anderen Regionen der Erde gefragt. 
+So wurden zum Beispiel aufgrund der
+bef&#252;rchteten Engp&#228;sse f&#252;r Schutzausr&#252;stung Karten f&#252;r 
+das Technische Hilfswerk (THW) durch das BKG 
+erstellt. Mit zus&#228;tzlich recherchierten
+Informationen zu urbanen Infrastrukturen wie See- und 
+Flugh&#228;fen im asiatischen Raum war das THW in 
+der Lage zu beurteilen, wo Engp&#228;sse zu
+bef&#252;rchten sind und eventuell Alternativen der
+Zulieferung notwendig werden. Aber auch in
+Deutschland war und ist das THW ein wichtiger
+Logistikpartner zur Versorgung des medizinischen 
+Personals sowie zur Eind&#228;mmung der Pandemie. 
+Die Planung tempor&#228;rer Logistikzentren, der
+Aufbau von Teststationen oder der Transport von 
+Millionen Schutzmasken wurde durch das BKG 
+durch die Bereitstellung topographischer Karten 
+f&#252;r die haupt- und ehrenamtlichen Helferinnen 
+und Helfer des THW unterst&#252;tzt. 
+Der Satelllitengest&#252;tzte Krisen- und Lagedienst 
+(SKD) 
+Seit 2013 werden Bundeseinrichtungen und
+insbesondere Beh&#246;rden und Organisationen mit 
+Sicherheitsaufgaben (BOS) in Form spezifscher 
+Beratung und Bereitstellung individueller
+kartographischer Produkte durch das BKG unterst&#252;tzt. 
+Diese Dienstleistungen sind durch
+fernerkundliche, situative Analyseprodukte im Auftrag des 
+BMI erweitert und im Satellitengest&#252;tzten Krisen-
+und Lagedienst (SKD) des BKG zusammengef&#252;hrt 
+worden. 
+Der SKD ist nach sorgf&#228;ltigen Vorbereitungen f&#252;r 
+alle Bundeseinrichtungen operationell
+einsatzbereit. Offziell stehen die Dienstleistungen seit 
+Abbildung 14 Der SKD stellt dem Bund die Infrastruktur f&#252;r individuelle Produkte zur Verf&#252;gung und  engagiert sich ebenfalls 
+f&#252;r politische Beratung sowie Aufl&#228;rung von Entscheidungstr&#228;gern.
+&#8211; 37 &#8211; 
+  41 Kriseninformation 
+dem 01.01.2021 von 08:00  20:00 Uhr t&#228;glich 
+(Montag  Sonntag) zur Verf&#252;gung. Zu den 
+Dienstleistungen geh&#246;ren unter anderem
+individuelle Beratungsleistungen, situative Produkte 
+und Schnellkartierung sowie die Koordinierung 
+von kommerziellen
+Fernerkundungsinformationen im und f&#252;r den Bund. Mit seinen ca.&#160;20&#160;
+Mitarbeiterinnen und Mitarbeitern ist der SKD in 
+der Lage, kompetent und zuverl&#228;ssig die
+spezifschen Anforderungen der Bedarfstr&#228;ger im Bund 
+aufzunehmen und zielgerichtet und zeitgerecht 
+umzusetzen. 
+Es werden satellitengest&#252;tzte
+Fernerkundungsmethoden, GIS-Technologie sowie
+kartographisches Know-how geb&#252;ndelt, um Bedarfstr&#228;gern 
+aus der Bundesverwaltung hochaktuelle und
+individuell konfektionierte Karten zur Verf&#252;gung 
+stellen zu k&#246;nnen. 
+Diese faktenbasierten situativen Karten beruhen 
+auf der Grundlage der im BKG vorhandenen
+Geofach- und Geobasisdaten, einschlie&#223;lich
+hochaktueller Satellitenbilder und k&#246;nnen in
+deutscher Sprache, alternativ auch mit internationalen 
+Beschriftungen, zur Verf&#252;gung gestellt werden. 
+Der SKD leistet daher mit den ihm zur
+Verf&#252;gung stehenden Datengrundlagen, seiner
+Technologie, mit den guten nationalen und
+internationalen Verbindungen sowie den
+kartographischen Kompetenzen einen unverzichtbaren 
+Beitrag in Krisensituationen, Einsatzlagen und 
+bei der situativen Darstellung und Bewertung 
+raumbezogener Informationen f&#252;r die gesamte 
+Bundesverwaltung. 
+Gewinnbringende Zusammenf&#252;hrung von 
+Informationen  die interaktiven Atlanten 
+Das BKG stellt neben den etablierten
+Standardprodukten &#252;ber das Dienstleistungszentrum
+individuell konfektionierte Produkte sowie
+Anwendungen f&#252;r Bundeseinrichtungen und
+insbesondere f&#252;r die BOS sowie die &#214;ffentlichkeit bereit. 
+Die Produkte reichen von der gedruckten &#252;ber 
+die digitale Karte bis hin zu Schulung und
+Beratungsleistung. Sie werden im Dialog mit den
+Nutzern des BKG kontinuierlich verbessert. Dar&#252;ber 
+hinaus wird das Portfolio unter Ber&#252;cksichtigung 
+neuer Technologien schrittweise um neue
+Dienstleistungen und neue Informationsprodukte
+erweitert. Neue BKG-Services liefern den Kunden 
+bessere Entscheidungsgrundlagen, beispielsweise 
+durch individualisierten Zugriff auf
+zusammengestellte Informationen, die zielf&#252;hrend mithilfe 
+interaktiver Karten und Cockpit-Anwendungen 
+leicht bedienbar sind. 
+Dynamische Geodaten mit unterschiedlichen 
+Fachinformationen werden insbesondere in
+Ausnahmesituationen aktuell und hochverf&#252;gbar 
+in unterschiedlichsten Kombinationen ben&#246;tigt. 
+W&#228;hrend solcher Ausnahmesituationen
+ver&#228;ndern sich die Gegebenheiten t&#228;glich oder sogar 
+st&#252;ndlich. Diese Informationen werden zum Teil 
+offen im Internet ver&#246;ffentlicht (z.&#160;B.
+Umweltsensorik), durch Bundesbeh&#246;rden
+bereitgestellt (z.&#160;B. Wettervorhersagen) oder sind &#252;ber 
+kommerzielle Quellen verf&#252;gbar (z.&#160;B.
+Verkehrssituation). Die Nutzung dieser hochaktuellen und 
+fexiblen nahezu Echtzeitdaten oder Modelldaten 
+ist insbesondere f&#252;r ein optimales Management, 
+aber auch in anderen Bereichen wie
+beispielsweise der Umweltkriminalit&#228;t, essentiell. 
+Komplexe Zusammenh&#228;nge verschiedener Daten 
+in Tabellen und numerischen Formaten sind
+allerdings nicht intuitiv selbsterkl&#228;rend.
+Visualisierungen in Karten und Diagrammen verdeutlichen
+Zusammenh&#228;nge besser. Dadurch k&#246;nnen die
+komplexen Informationsstr&#246;me auf die wesentlichen 
+Inhalte verdichtet und optimal vermittelt werden. 
+Durch Einsatz von modernen Technologien liefert 
+das BKG effziente Anwendung zu aktuellen und 
+relevanten Themenbereichen des BMI wie
+Waldbrand, Hochwasser, D&#252;rre oder Hitze. Zum
+Beispiel zeigt der digitale Waldbrandatlas aktuelle 
+Gef&#228;hrdungsstufen, Br&#228;nde, Waldf&#228;chen, Wind-
+und Niederschlagsvorhersagen, Wasserreservoire 
+zum Auff&#252;llen der L&#246;schfahrzeuge,
+Rettungspunkte f&#252;r Wanderer, Hubschrauberlandepl&#228;tze, 
+milit&#228;rische Altlastengebiete und vieles mehr. Im 
+Hochwasseratlas fnden sich beispielsweise
+Pegelst&#228;nde, verschiedene Informationen zu
+Niederschlag und Niederschlagsprognosen, aktuelle
+Satellitendaten und von &#220;berfutung bedrohte
+Gebiete an Flussl&#228;ufen. Dazu k&#246;nnen Karten mit 
+amtlichen Daten des BKG, wie zum Beispiel
+Stra&#223;en und Geb&#228;ude, eingeblendet werden und so 
+den Lage&#252;berblick abrunden. Die detaillierte und 
+kartographisch hochwertige Darstellung steht bei 
+den interaktiven Atlanten im Vordergrund, sodass 
+die Situationen auf einen Blick erfassbar sind. Die 
+intuitiven Werkzeuge unterst&#252;tzen die
+Anwenderinnen und Anwender dar&#252;ber hinaus bei der
+&#8211; 38 &#8211; 
+&#8211;
+&#8211;
+&#8211;
+42 5. Geo-Fortschrittsbericht der Bundesregierung 
+Interpretation der Lage. Der Nutzerin oder dem 
+Nutzer stehen unter anderem eine Auswahl an 
+verschiedenen Layern, die Animation von
+zeitlichen Abl&#228;ufen sowie eine Ortssuche und weitere 
+Kartenfunktionen zur Verf&#252;gung. Zus&#228;tzlich sind 
+Verlinkungen zu weiterf&#252;hrenden
+Informationsquellen (z.&#160;B. des Deutschen Wetterdienstes) in 
+den Anwendungen eingebettet. 
+Das BKG wird diese Art der Visualisierung weiter 
+ausbauen und die Erfahrungen der bereits 
+bestehenden interaktiven Atlanten f&#252;r andere 
+Themengebiete (z.&#160;B. Gro&#223;veranstaltungen, etc.) 
+verwenden und so den Bundeseinrichtungen eine 
+nutzerfreundliche sowie bedarfsorientierte
+Infrastruktur zu speziellen Situationen bereitstellen. 
+Geokompetenz Bev&#246;lkerungsschutz 
+Das Krisenmanagement des Bundes muss auf alle 
+Ereignisarten schnell und angemessen reagieren 
+k&#246;nnen. Daf&#252;r ben&#246;tigen die Verantwortlichen 
+passgenaue Informationen, die komplexe
+Sachverhalte fundiert und auf das Wesentliche fokussiert 
+darstellen. In diesem Kontext erh&#228;lt die
+Querschnittstechnologie Geoinformation eine
+besondere Inwertsetzung durch ihre Verschmelzung mit 
+fachlicher Kompetenz im Bev&#246;lkerungsschutz. 
+Hierf&#252;r h&#228;lt der Bund die spezielle F&#228;higkeit
+Geokompetenz im Bundesamt f&#252;r Bev&#246;lkerungsschutz 
+und Katastrophenhilfe (BBK) vor. Ziel ist die
+verl&#228;ssliche Bereitstellung von bedarfsgerecht
+konfektionierten Geoinformations-Produkten (Karten, 
+interaktive Web-Anwendung u.v.m.) zur
+Information und Entscheidungsunterst&#252;tzung f&#252;r
+Notfallplanung, Risiko- und Krisenmanagement des 
+Bundes sowie f&#252;r den Zivilschutz. 
+Das auf Datenauswertung, Analyse und
+Visualisierung spezialisierte Geokompetenzteam des 
+BBK erschlie&#223;t im Zusammenwirken mit den 
+hauseigenen und externen
+Bev&#246;lkerungsschutz-Experten gezielt die Potentiale der 
+Geoinformationstechnologie. Durch die
+Kombination von Geodaten mit weiteren
+Fachinformationen k&#246;nnen neue Erkenntnisse gewonnen und 
+zu anschaulichen Produkten f&#252;r
+Entscheidungstr&#228;gerinnen und Entscheidungstr&#228;ger aufereitet 
+werden. 
+Kernaufgabe mit zentraler Bedeutung f&#252;r das 
+Krisenmanagement des Bundes ist dabei das
+Vorhalten eines stets aktuellen, digitalen
+bundesweiten Lagebildes, das entscheidungsrelevante 
+Zusammenh&#228;nge und Entwicklungen r&#228;umlich 
+darstellt. Damit verbunden ist die
+Weiterentwicklung von Datenaustauschstandards mit dem Ziel, 
+relevante (Geo-)Informationen zwischen
+Akteuren des Bev&#246;lkerungsschutzes schnell und
+unkompliziert austauschen zu k&#246;nnen. 
+Der Einsatz moderner
+Geoinformationswerkzeuge dient der Umsetzung des im
+Koalitionsvertrag 2018 bekundeten Willens der
+Bundesregierung, den Zivil- und Katastrophenschutz 
+sachgem&#228;&#223; und den heutigen Anforderungen 
+entsprechend zu strukturieren und
+auszustatten. Zudem darf die Bev&#246;lkerung zu Recht
+erwarten, dass das beh&#246;rdliche Risiko- und
+Krisenmanagement zu ihrem bestm&#246;glichen Schutz 
+mit zeitgem&#228;&#223;en Werkzeugen und Verfahren 
+durchgef&#252;hrt wird. Die besondere F&#228;higkeit der 
+bev&#246;lkerungsschutzspezifschen Geokompetenz 
+des Bundes muss gest&#228;rkt und weiter ausgebaut 
+werden, damit eine schnelle, verl&#228;ssliche und
+fundierte Unterst&#252;tzung der
+Entscheidungstr&#228;gerinnen und Entscheidungstr&#228;ger jederzeit
+gew&#228;hrleistet ist. Damit wird  auch mit Blick auf das 
+sicherheitspolitische Umfeld mit hybrider
+Bedrohungslage  die innere Sicherheit der
+Bundesrepublik Deutschland gest&#228;rkt. 
+Abbildung 15 Geoinformationen sind aus der t&#228;glichen 
+Arbeit des Bev&#246;lkerungsschutzes nicht mehr wegzudenken. 
+Hier ein Blick in das gemeinsame Melde- und Lagezentrum 
+von Bund und L&#228;ndern (Quelle: BBK). 
+Seit Beginn der COVID-19-Pandemie unterst&#252;tzt 
+das Geokompetenzteam des BBK das Corona-
+Krisenmanagement des Bundes kontinuierlich 
+mit passgenauen Karten, Diagrammen und
+interaktiven Web-Anwendungen.
+&#8211; 39 &#8211; 
+&#8211;
+&#8211;
+  43 Kriseninformation 
+Der Geoinformationsdienst der Bundeswehr 
+Die Bundeswehr leistet  neben der Landes-
+und B&#252;ndnisverteidigung im Rahmen der 
+NATO und der EU sowie dem internationalen 
+Krisenmanagement  auch Aufgaben im Rahmen 
+des Heimatschutzes und des Nationalen Risiko-
+und Krisenmanagements zum Schutz deutscher 
+Staatsangeh&#246;riger im Ausland (NatRKM) und 
+erbringt subsidi&#228;re Unterst&#252;tzungsleistungen in 
+Deutschland. Diese Aufgaben bestimmen
+ma&#223;geblich den Bedarf der Bundeswehr an
+weltweiten, f&#228;chendeckenden und qualit&#228;tsgesicherten 
+Geoinformationen. 
+Der Geoinformationsdienst der Bundeswehr 
+(GeoInfoDBw) deckt diesen Bedarf an
+weltweiten Geoinformationen, f&#252;hrt
+geowissenschaftlich fundierte Beratungen durch und unterst&#252;tzt 
+somit bei der Auftragserf&#252;llung der Bundeswehr. 
+Durch diese sogenannte GeoInfo-Unterst&#252;tzung 
+wird sichergestellt, dass beispielsweise eine exakte 
+Positionierung an Land, in der Luft und auf See 
+gegeben ist. Des Weiteren werden die
+einsatzrelevanten ver&#228;nderlichen Umwelteinf&#252;sse, wie 
+das Klima und das Wetter sowie Gel&#228;nde,
+Gew&#228;sser, Bebauung, Bewuchs, etc. erkannt und
+k&#246;nnen als Geofaktoren hinsichtlich des Einfusses 
+auf das eigene Handeln ausgewertet werden. 
+Nach dem Motto &#8222;Operating off the same map&#8220; 
+stellt der GeoInfoDBw aktuelle und
+qualit&#228;tsgesicherte Geoinformationen ressort&#252;bergreifend 
+als gemeinsame Basis f&#252;r Eins&#228;tze, Missionen und 
+Aufgaben in ausl&#228;ndischen Krisenregionen und 
+Einsatzgebieten der Bundeswehr auch f&#252;r
+verb&#252;ndete Nationen bereit. 
+Bereits mit der Implementierung des
+gemeinsamen IT-gest&#252;tzten Krisen-Vorsorge-
+Informationssystems (KVInfoSys) des Ausw&#228;rtigen Amtes 
+(AA) und des Bundesministeriums der
+Verteidigung (BMVg) zur Unterst&#252;tzung aller
+Ma&#223;nahmen der Krisenvorsorge, -reaktion und -
+nachsorge im Jahre 2001 wurde der r&#228;umliche Bezug 
+der Informationen als wesentlicher Aspekt
+erkannt. In den vergangenen Jahren wurde daher 
+eine einheitliche Datengrundlage in Form
+qualit&#228;tsgesicherter digitaler Geoinformationen als 
+eine der wesentlichen Grundlagen des NatRKM 
+geschaffen. 
+Kurzum: Ohne Geoinformationen gibt es keinen 
+Einsatz  weder in der Landes- und
+B&#252;ndnisverteidigung noch zur Stabilisierung, im Rahmen 
+NatRKM oder zur humanit&#228;ren Hilfe. 
+Digitalisierung im Verantwortungsbereich des 
+GeoInfoDBw und damit in Verbindung stehende 
+Ma&#223;nahmen tragen unmittelbar dazu bei,
+vorhandene F&#228;higkeiten effektiver oder effzienter 
+zu gestalten und ggf. neue F&#228;higkeiten zu
+entwickeln. In allen Arbeitsprozessen sind daher 
+eine zielgerichtete Identifkation und das
+konsequente Aussch&#246;pfen von Potenzialen
+erforderlich, die sich aus digitalen Technologien ergeben. 
+In Konsequenz k&#246;nnen sich f&#252;r den GeoInfoDBw 
+erhebliche Effzienz- und Effektivit&#228;tsgewinne 
+sowie angepasste oder neue Wirkmodelle und 
+Abbildung 16 Interaktive Darstellung in einem Dashboard: Anteil freier Betten gem&#228;&#223; DIVI-Intensivregister sowie Anzahl 
+(beatmeter) COVID-19-Patienten auf Landkreisebene (Quelle: BBK).
+&#8211; 40 &#8211; 
+&#8211;
+&#8211;
+&#8211;
+44 5. Geo-Fortschrittsbericht der Bundesregierung 
+Arbeitsbeziehungen, d. h. grundlegend neue 
+Ans&#228;tze zur Aufgabenerf&#252;llung, ergeben. Mit der 
+fortschreitenden Digitalisierung w&#228;chst auch 
+die Menge an verf&#252;gbaren Geoinformationen. 
+Die massiv ansteigende Anzahl nutzbarer
+Sensoren, insbesondere durch Erdbeobachtungs-, 
+Wetter- oder Navigationssatelliten, auf
+unbemannten Fahrzeugen und Systemen oder
+anderweitig ausgebrachter Sensorik sowie die
+Datenexplosion im Internet erfordern neue F&#228;higkeiten 
+der GeoInfo-Unterst&#252;tzung f&#252;r die Bundeswehr. 
+In diesem Kontext zeichnen sich innerhalb der 
+n&#228;chsten 15 Jahre &#252;bergreifende
+Innovationsfelder wie beispielsweise die Unterst&#252;tzung im 
+Zusammenhang von Big Data Analytics und 
+K&#252;nstlicher Intelligenz, die Nutzung von
+Anwendungen aus Virtuellen und Erweiterten Realit&#228;ten 
+oder Online-Services ab. 
+Auch bei der Krisenfr&#252;herkennung, in der es auf 
+die fr&#252;hzeitige Identifkation von milit&#228;rischen, 
+politischen und sozio&#246;konomischen
+Entwicklungen, die das Potential bergen, Konfikte
+innerhalb von Staaten und Gesellschaften gewaltsam 
+eskalieren zu lassen, ankommt, werden fundierte 
+Kenntnisse in der Erhebung und Aufereitung 
+gro&#223;er Datenmengen, Maschinellen Lernens, 
+Pr&#228;diktiver Modellierung sowie Verarbeitung von 
+raumbezogenen GIS-Daten von entscheidendem 
+Nutzen sein. 
+Auch die Truppenf&#252;hrung und -versorgung per 
+se stehen unter der Herausforderung sich st&#228;ndig 
+&#228;ndernder &#228;u&#223;erer Einfussfaktoren. Die durch 
+den GeoInfoDBw bereitzustellenden
+Routingfunktionalit&#228;ten m&#252;ssen daher statische und 
+dynamische Elemente ber&#252;cksichtigen, die 
+einen potenziellen Einfuss auf eine
+hindernisfreie und sichere Bewegung haben k&#246;nnen. Ziel 
+ist es, neben den &#252;blichen zivilen
+verkehrsbetreffenden und -beeinfussenden Informationen 
+(Sperrungen, Staus etc.) zus&#228;tzliche Informationen 
+zu verarbeiten, die besonders unter milit&#228;rischen 
+Aspekten von Bedeutung sind. Hierzu z&#228;hlen z.&#160;B. 
+die Military Loading Class (MLC), meteorologische 
+Einf&#252;sse, Bodenbeschaffenheiten, m&#246;gliche
+Unruhen, die milit&#228;rische Lage bis hin zur Analyse zu 
+erwartender zuk&#252;nftiger Verkehrsf&#252;sse (Traffc 
+Prediction). 
+Eine weitere Herausforderung, der sich der 
+GeoInfoDBw stellt, ist die Weiterentwicklung 
+von robusten und resilienten Verfahren zur
+Positionierung, Navigation und Zeitfestlegung unter 
+Bedingungen, in denen die Nutzung
+satellitengest&#252;tzter Navigationssysteme nicht oder nur
+eingeschr&#228;nkt m&#246;glich ist. Dieses kann unter dem 
+Einfuss von Navigation Warfare, in Innenr&#228;umen, 
+aber auch unter der Erd- und Wasseroberf&#228;che 
+erforderlich werden. Im Rahmen eines
+Projektes zur Nutzung marktverf&#252;gbarer oder in
+Entwicklung befndlicher Systeme zur
+Positionsbestimmung und Navigation im Global Navigation 
+Satellite System (GNSS)-gest&#246;rten Umfeld werden 
+aktuell m&#246;gliche L&#246;sungen z.&#160;B. auf Basis von 
+Inertialsystemen oder bildbasierter Navigation 
+untersucht. 
+Der zentrale Zugangspunkt zu all diesen
+Geoinformationen f&#252;r die gesamte Bundeswehr soll 
+das Portal des GeoInfoDBw werden, welches 
+einen gesicherten Zugang zu den Leistungen 
+der GeoInfo-Unterst&#252;tzung bieten wird. Dabei 
+werden &#252;ber die defnierten IT-Services nicht 
+nur Geoinformationen, sondern auch ein
+gr&#246;&#223;tm&#246;gliches Spektrum an Funktionalit&#228;ten von 
+der Datenanalyse bis hin zu Beratungsverfahren 
+bereitgestellt. Es gilt, hierbei die Online-
+Anbindung &#252;ber den Kommunikationsverbund der 
+Bundeswehr sowohl an zivile wie auch
+milit&#228;rische Netzwerke im nationalen wie auch im 
+Rahmen der NATO und EU sicherzustellen und 
+neben einer hohen Performanz eine
+gleicherma&#223;en hohe Verf&#252;gbarkeit zu garantieren. 
+Die Verf&#252;gbarkeit qualit&#228;tsgesicherter digitaler 
+Geoinformationen ist f&#252;r die Bundeswehr ein 
+wesentlicher Faktor, um in zuk&#252;nftigen Krisen 
+schnell und lagegerecht reagieren zu k&#246;nnen. 
+Abbildung 17 Touchscreens mit GIS-Funktionalit&#228;t zur
+Einweisung in das Gel&#228;nde (Quelle: Bundeswehr / Martina Pump)
+&#8211; 41 &#8211; 
+  45 Kriseninformation 
+Bewertung der Sensibilit&#228;t von Geodaten und 
+deren sichere Bereitstellung 
+Die aufgef&#252;hrten Ma&#223;nahmen beziehen sich auf 
+den 4. Geo-Fortschrittsbericht und die darin
+enthaltene Ma&#223;nahme 28: &#8222;Sichere Bereitstellung 
+von sensiblen Geodaten verbessern&#8220; sowie
+Ma&#223;nahme 29: &#8222;Bewertung der Sensibilit&#228;t und
+Kritikalit&#228;t von Geodaten&#8220;. Beide Ma&#223;nahmen
+befnden sich nach wie vor in Umsetzung. 
+Ma&#223;nahme 28: F&#252;r die Verbesserung der sicheren 
+Bereitstellung von sensiblen Geodaten setzt sich 
+die Bundesregierung daf&#252;r ein, dass im UP KRITIS 
+in Abstimmung mit der Wirtschaft, dem BSI und 
+der GDI-DE eine sichere, praktikable IT-L&#246;sung 
+zur Umsetzung von Darstellungs- und
+Downloaddiensten erarbeitet wird. 
+Ma&#223;nahme 29: Die Bewertung der Sensibilit&#228;t und 
+Kritikalit&#228;t von Geodaten basiert derzeit auf der 
+Pr&#252;fung der Schutzbed&#252;rftigkeit von
+Komponenten Kritischer Infrastrukturen und der
+dazugeh&#246;rigen Bewertung der Sensibilit&#228;t und Kritikalit&#228;t 
+von Geodaten, welche bislang jedoch der
+subjektiven Einsch&#228;tzung des jeweiligen Betreibers von 
+Kritischen Infrastrukturen unterliegt. Dieser
+Aspekt wird derzeit in einem laufenden
+Ressortforschungsvorhaben des BBK zur Bewertung der
+Kritikalit&#228;t im Kontext Kritischer Infrastrukturen 
+untersucht (Projekt KRITIS-GIS-T). Die
+Projektergebnisse liegen im Fr&#252;hjahr 2021 vor und
+werden voraussichtlich bis Ende 2. Quartal 2021 in eine 
+Handlungsempfehlung aufgenommen. 
+GDI-SH: Projekt i-quadrat 
+Thema des vom BMU gef&#246;rderten Projektes 
+i-quadrat ist die rechtssichere Bereitstellung 
+st&#228;dtischer Informationen zum Thema
+Klimaanpassung f&#252;r die Bev&#246;lkerung sowie das
+gleichzeitige intensive, geordnete Sammeln und
+Auswerten von Informationen aus der Bev&#246;lkerung in 
+einem einheitlichen, den Standards
+entsprechenden Datenverwaltungssystem. Ziel des
+Projektes ist es, sowohl die verwaltungsinterne
+Zusammenarbeit zum Querschnittsthema
+Klimawandel als auch den Informationsaustausch zwischen 
+B&#252;rgerinnen und B&#252;rgern und Stadtverwaltung 
+zu verbessern. Hierf&#252;r wurden folgende Teilziele 
+formuliert: 
+&#8226; Rechtssicherheit schaffen: Vorhandene 
+Informationen den B&#252;rgerinnen und
+B&#252;rgern&#160;zug&#228;nglich machen 
+&#8226; Fachdaten-Datenbank erstellen:
+Verschiedenste Daten &#252;bersichtlich und kompatibel 
+b&#252;ndeln 
+&#8226; Nutzung des Datenschatzes: Entwicklung 
+passgenauer Ma&#223;nahmenvorschl&#228;ge f&#252;r 
+unterschiedliche Handlungsfelder
+(Tourismuswirtschaft, Bauwesen, Industriebetriebe, 
+B&#252;rgerinnen und B&#252;rger) 
+&#8226; Schaffung eines benutzerfreundlichen 
+Web-Portals: Datenhaltung, -darstellung 
+und&#160;-bearbeitung 
+Abbildung 18 Die Apps im GIS-Portal reichen von Viewern topographischer Karten bis hin zur Wettervorhersage (Quelle: 
+Bundeswehr / KdoCIR)
+&#8211; 42 &#8211; 
+46 5. Geo-Fortschrittsbericht der Bundesregierung 
+In einem ersten Schritt wurde ein umfassendes 
+Informationsportal zum Thema
+Starkregenereignisse in der Hansestadt L&#252;beck
+implementiert, das als Plan- und Warnwerkzeug im Bereich 
+&#220;berfutungsschutz f&#252;r B&#252;rgerinnen und B&#252;rger, 
+Beh&#246;rden und Rettungskr&#228;fte dient. 
+Ein besonderes Augenmerk liegt neben der 
+Schaffung der Rechtssicherheit darin, INSPIRE 
+und GDI-Vorgaben zu beachten. Es wird mit 
+Hilfe der zusammengestellten Daten ein Modell 
+erarbeitet, das vorhandene, INSPIRE-konforme 
+Teilmodelle und Standards ebenso
+implementiert wie eine neu zu schaffende
+Datenbankarchitektur, die die INSPIRE-Richtlinie ber&#252;cksichtigt. 
+Damit ein so weitreichendes Vorhaben umgesetzt 
+werden kann, sind neben den drei
+Projektpartnern hydro &amp; meteo GmbH &amp; Co. KG, Technische 
+Hochschule L&#252;beck und der Hansestadt L&#252;beck 
+viele Bereiche der Stadtverwaltung beteiligt, unter 
+anderem die Bereiche Umwelt-, Natur- und
+Verbraucherschutz und Stadtplanung.
+&#8211; 43 &#8211; 
+  47 Internationale Zusammenarbeit 
+INSPIRE 
+Die Richtlinie 2007/2/EG zur
+Geodateninfrastruktur in der Europ&#228;ischen Gemeinschaft (INSPIRE-
+Richtlinie) bestimmt in vielfacher Hinsicht 
+die Ausgestaltung der Geodateninfrastruktur 
+Deutschland (GDI-DE). Das INSPIRE
+Arbeitsprogramm 2020-2024 der Europ&#228;ischen Kommission 
+(KOM) nimmt die neu gesetzten strategischen 
+Impulse f&#252;r die Zukunft der EU auf und tr&#228;gt den 
+Titel &#8222;Towards a Common European Green Deal 
+data space for environment and sustainability&#8221;. 
+Dieses Arbeitsprogramm soll im Sinne der
+europ&#228;ischen Datenstrategie einen wesentlichen
+Beitrag f&#252;r die Entwicklung einer europ&#228;ischen
+Geodateninfrastruktur leisten und damit die Ziele des 
+europ&#228;ischen Green Deals unterst&#252;tzen.
+Entsprechend ist auch bei der kommenden
+turnusm&#228;&#223;igen Evaluierung der INSPIRE-Richtlinie zu
+erwarten, dass die neuen strategischen Impulse neben 
+Anwendungsanforderungen und technologischen 
+Weiterentwicklungen von der KOM aufgegriffen 
+werden. 
+Die Bundesregierung arbeitet in den EU-Gremien 
+zur Umsetzung der INSPIRE-Richtlinie weiter 
+aktiv mit und ist auch in den zugeh&#246;rigen
+technischen Arbeitsgruppen &#252;ber das BKG vertreten. 
+Zur kommenden Evaluierung der INSPIRE-
+Richtlinie wird von deutscher Seite u.a. eine aktive
+Begleitung von Bund und L&#228;ndern &#252;ber das
+Lenkungsgremium GDI-DE geplant. So sollen
+praktische Erfahrungen der geodatenhaltenden Stellen 
+in Bund, L&#228;ndern und Gemeinden in die
+Diskussion einer neuen Fassung der INSPIRE-
+Richtlinie einfie&#223;en. 
+Die Umsetzung der geltenden INSPIRE-
+Richtlinie wird j&#228;hrlich seitens der KOM in den EU-
+Mitgliedstaaten gepr&#252;ft. Nach der Neuaufstellung 
+des Pr&#252;fverfahrens f&#252;r das Jahr 2019 konnte sich 
+Deutschland in der j&#252;ngsten Pr&#252;fung f&#252;r 2020 
+bei verschiedenen Indikatoren f&#252;r die INSPIRE-
+Konformit&#228;t von Geodaten und &#8211;diensten z.&#160;T. 
+deutlich verbessern; bei anderen Indikatoren 
+wurde das Niveau gehalten; punktuell waren auch 
+R&#252;ckg&#228;nge zu verzeichnen. Obwohl Deutschland 
+unter den EU-Mitgliedstaaten einen guten Platz 
+bei der INSPIRE-Konformit&#228;t einnimmt, muss 
+insgesamt weiter an der Verbesserung gearbeitet 
+werden. Deutschland ist f&#252;r die EU ein
+bedeutender Lieferant f&#252;r Geodaten und kann erheblich 
+dazu beitragen, dass Geodaten auch EU-weit ihr 
+volles Potential entfalten. 
+F&#252;r die 2015 beschlossene NGIS stellt die 
+INSPIRE-Richtlinie eine wichtige
+Randbedingung dar. Verschiedene Ziele der NGIS nehmen 
+in Sachen Zukunftsf&#228;higkeit,
+Standardkonformit&#228;t und Bedarfsgerechtigkeit auf INSPIRE
+direkt Bezug. Das Lenkungsgremium GDI-DE hat 
+dementsprechend fr&#252;hzeitig einen
+Ma&#223;nahmenkatalog zur strategischen Umsetzung von IN-
+SPIRE in Deutschland auf den Weg gebracht. Bei 
+der f&#252;r 2021 geplanten NGIS-Halbzeitbilanz wird 
+u.a. zu pr&#252;fen sein, ob bei der strategischen
+Aufstellung zu INSPIRE noch Verbesserungspotential 
+besteht. 
+UN-GGIM 
+Das Expertenkomitee der Initiative &#8218;UN Global 
+Geospatial Information Management (UN-GGIM)&#8216; 
+koordiniert seit 2011 Themen der Geoinformation 
+und Geod&#228;sie zwischen den Mitgliedstaaten. UN-
+GGIM unterst&#252;tzt Mitgliedstaaten, um die
+Unverzichtbarkeit von validen und aktuellen
+Geoinformationen f&#252;r die Daseinsvorsorge und
+Aufgabenbew&#228;ltigung herauszustellen. Des Weiteren sollen 
+Geodaten in die numerische Statistik besser
+integriert und f&#252;r das Monitoring der 17&#160;
+Nachhaltigkeitsziele der Vereinten Nationen (2030 Agenda) 
+nutzbar gemacht werden. 
+Bisher wurden Grundsatzpapiere (&#8222;Frameworks&#8220;) 
+mit spezifschem Fachhintergrund erarbeitet, wie 
+z.&#160;B. das &#8222;Global Geodetic Reference Framework 
+(GGRF)&#8220; oder das &#8222;Global Statistical Geospatial 
+Framework (GSGF)&#8220;. Das neue &#8222;Integrated 
+Geospatial Information Framework (IGIF)&#8220; dient 
+als Dach bzw. &#252;bergeordnetes Framework
+insbesondere f&#252;r Entwicklungsl&#228;nder, um ein
+effzientes Geodatenmanagement aufzubauen und
+amtliche Geodaten hoher Qualit&#228;t zug&#228;nglich zu
+machen. Es unterst&#252;tzt zus&#228;tzlich entwickelte L&#228;nder 
+4. Internationale Zusammenarbeit
+&#8211; 44 &#8211; 
+&#8211;
+48 5. Geo-Fortschrittsbericht der Bundesregierung 
+wie Deutschland die eigenen Prozesse und
+Organisation zu &#252;berpr&#252;fen und zu&#160;verbessern. 
+Im IGIF wird in den ersten beiden Teilen
+beschrieben, &#8222;warum&#8220; ein effzientes
+Geodatenmanagement notwendig ist und &#8222;was&#8220; dazu geh&#246;rt. 
+F&#252;r den dritten Teil werden die Mitgliedstaaten 
+aufgefordert, nationale Aktionspl&#228;ne f&#252;r die
+Implementierung des IGIF zu erstellen. Die bisherige 
+Arbeit fndet breite Zustimmung in den
+Mitgliedstaaten, um eine nationale
+Geoinformationsstrategie auf- bzw. auszubauen und
+Kerndatenbest&#228;nde zu defnieren (m&#246;glicher
+Ankn&#252;pfungspunkt an: M18). Auch Deutschland beabsichtigt, 
+einen Aktionsplan im Zusammenspiel von Bund, 
+L&#228;ndern und Kommunen auszuarbeiten. 
+Die im Jahr 2015 von der UN-
+Generalversammlung verabschiedete UN-GGIM Resolution zum 
+GGRF wird derzeit mit konkreten Ma&#223;nahmen 
+umgesetzt. Eine zentrale Rolle wird ein &#8222;Global 
+Geodetic Centre of Excellence (GGCE)&#8220; spielen. 
+Das GGCE soll die Umsetzung der Resolution und 
+die Ziele von UN-GGIM unterst&#252;tzen, technische 
+Hilfe leisten, Kapazit&#228;ten aufauen sowie den 
+offenen Austausch geod&#228;tischer Daten f&#246;rdern 
+und erm&#246;glichen. Deutschland hat sich
+erfolgreich als Standort f&#252;r das GGCE beworben und 
+strebt f&#252;r 2021 die Einrichtung und den Betrieb 
+des GGCE im UN Campus Bonn an. 
+EuroGeographics 
+In Europa besteht mit dem Regionalkomitee 
+UN-GGIM: Europe ein politisches Gremium als 
+Plattform f&#252;r UN-GGIM. Bei UN-GGIM: Europe 
+wirken neben Vertreterinnen und Vertretern aus 
+europ&#228;ischen Mitgliedstaaten auch die
+Europ&#228;ische Kommission sowie EuroGeographics, eine 
+Assoziation der europ&#228;ischen Vermessungs- und 
+Katasterverwaltungen, mit. UN-GGIM: Europe 
+unterst&#252;tzt die bestehenden Organisationen und 
+Initiativen in Europa, greift auf die erworbene
+Expertise und die entstandenen Produkte zur&#252;ck 
+und entwickelt diese weiter. UN-GGIM: Europe 
+verfolgt das Ziel, einen Kerndatensatz (m&#246;glicher 
+Ankn&#252;pfungspunkt an: M18) zu defnieren, der 
+zur Erf&#252;llung der gemeinsamen Aufgaben aller 
+Mitgliedstaaten n&#246;tig ist und diesen als
+Empfehlung weiterzugeben. Nationaler Kontakt und
+damit federf&#252;hrend f&#252;r UN-GGIM und UN-GGIM: 
+Europe ist das BKG. 
+Im Rahmen von EuroGeographics werden
+l&#228;nder&#252;bergreifende, harmonisierte Produkte auf der 
+Grundlage einheitlicher Spezifkationen erstellt 
+und Projekte dazu durchgef&#252;hrt. Die Mitglieder 
+von EuroGeographics wollen insbesondere die 
+Europ&#228;ische Kommission beim Aufau der
+europ&#228;ischen Geodateninfrastruktur im
+Zusammenhang mit der INSPIRE-Rahmenrichtlinie und 
+dem Erdbeobachtungsprogramm Copernicus 
+oder UN-GGIM: Europe unterst&#252;tzen. 
+EuroGeographics ist dar&#252;ber hinaus bestrebt, 
+amtliche und europaweit grenz&#252;bergreifend 
+Abbildung 19 Das Integrated Geospatial Information Framework (IGIF); Quelle: http://ggim.un.org/IGIF/
+&#8211; 45 &#8211; 
+  49 Internationale Zusammenarbeit 
+harmonisierte Geobasisdaten besser als bisher 
+zug&#228;nglich und nutzbar zu machen und
+produziert einige pan-europ&#228;ische Datens&#228;tze.
+Au&#223;erdem versteht es sich in diesem Zusammenhang 
+auch als Sprachrohr der nationalen
+Vermessungsverwaltungen gegen&#252;ber den europ&#228;ischen 
+Institutionen. 
+EuroGeographics hat sich zu einem wesentlichen 
+Netzwerk f&#252;r die internationale
+Zusammenarbeit (&#8222;Best Practice&#8220;) der Landesvermessungs-, 
+Kataster- und Landregistrierungsbeh&#246;rden in 
+Europa entwickelt, welches auch dazu beitr&#228;gt, 
+gemeinsame Positionen f&#252;r die
+Zusammenarbeit mit der Europ&#228;ischen Kommission zu
+entwickeln und zu vertreten. Hierf&#252;r dienen u. a. 
+die &#8222;Knowledge Exchange Networks&#8220; (KENs), 
+in&#160;denen sowohl Expertinnen und Experten der 
+Bundesebene als&#160;auch&#160;der Vermessungs- und 
+Katasterverwaltungen der L&#228;nder mitarbeiten. 
+Geod&#228;tische Observatorien (GOW / AGGO) 
+Gem&#228;&#223; VN-Resolution 69/266 sind die
+Mitgliedstaaten angehalten, eine global gut verteilte
+geod&#228;tische Infrastruktur aufzubauen und deren 
+nachhaltigen Betrieb zu gew&#228;hrleisten. In einer 
+global vernetzten Welt m&#252;ssen auch die
+geod&#228;tischen Grundlagen des Raum- und
+Zeitbezugs global defniert werden. Das Argentinisch-
+Deutsche Geod&#228;tische Observatorium AGGO 
+leistet hierzu einen wichtigen Beitrag an einem 
+f&#252;r die Genauigkeit der Bestimmungsgr&#246;&#223;en 
+idealen Ort. 
+Das Observatorium AGGO soll dazu &#252;ber einen 
+Zeitraum von 10 Jahren unter deutscher
+Beteiligung (BKG) gemeinsam mit den argentinischen 
+Partnerinstitutionen betrieben und modernisiert 
+werden. 
+Zeitlicher Ablauf: 
+&#8226; 2021: Vertragserneuerung 
+&#8226; 2022: Beginn Modernisierung Radioteleskop 
+&#8226; 2026: Abschluss der ersten operativen Phase 
+im gemeinsamen Betrieb als Voraussetzung 
+f&#252;r&#160;das weitere Engagement der
+Bundesrepublik  Deutschland auf dem AGGO 
+Sendai Rahmenwerk f&#252;r Katastrophenvorsorge 
+Im Jahr 2015 wurde das Sendai Rahmenwerk f&#252;r 
+Katastrophenvorsorge 2015-2030 (SFDRR) von 
+den Mitgliedstaaten der Vereinten Nationen
+verabschiedet. Das Rahmenwerk hat zum Ziel, die 
+Risiken und Auswirkungen von nat&#252;rlichen und 
+anthropogenen Katastrophen zu reduzieren und 
+die Resilienz der Gesellschaften zu erh&#246;hen. Zur 
+Fortschrittserfassung von sieben globalen
+Zielvorgaben des SFDRR wurden 38 Indikatoren
+entwickelt, zu denen Staaten alle zwei Jahre an das B&#252;ro 
+der Vereinten Nationen f&#252;r Katastrophenvorsorge 
+(United Nations Offce for Disaster Risk
+Reduction, UNDRR) berichten sollen. Deutschland hat 
+sich der Umsetzung des Rahmenwerks
+verpfichtet und zur Koordinierung dessen die Nationale 
+Kontaktstelle (NKS) f&#252;r das Sendai Rahmenwerk 
+beim BBK angesiedelt. Die Berichterstattung in 
+Deutschland sieht sich zurzeit mit fehlenden
+etablierten, systematischen und f&#228;chendeckenden 
+Methoden zur Erfassung von Sch&#228;den und
+Verlusten sowie mit fehlenden Daten f&#252;r die
+Vergleichsperiode (2005-2015) konfrontiert. 
+Eine Datenquelle, die zur Schlie&#223;ung von
+Datenl&#252;cken beitragen k&#246;nnte, ist die
+Satellitenfernerkundung (SFE). Diese und weitere
+Geoinformationen werden im SFDRR explizit als
+Instrument zur Datenerhebung erw&#228;hnt. Das Projekt 
+&#8222;Ermittlung und Ableitung von Sendai
+Indikatoren mit Satellitenfernerkundung / Copernicus f&#252;r 
+Deutschland (Cop4Sen)&#8220; &#252;berpr&#252;ft die
+Nutzungspotentiale von SFE speziell f&#252;r die SFDRR-
+Berichterstattung. Die Nutzung von SFE bietet potentiell 
+viele Vorteile: 
+&#8226; Bundesweite, f&#228;chendeckende, objektive 
+Daten. 
+&#8226; Daten des Europ&#228;ischen Copernicus 
+Programms sind offen und (kosten)frei 
+zug&#228;nglich. 
+&#8226; Archivdaten: Auswertung zur&#252;ckliegender 
+Ereignisse f&#252;r die Vergleichsperiode. 
+Generell k&#246;nnen aus SFE-Daten zwei
+Eingangsgr&#246;&#223;en f&#252;r die Ableitung von Sendai-
+Indikatoren herangezogen werden: (i) die f&#228;chenhafte 
+Kriseninformation sowie (ii) die exponierten
+Elemente (Infrastrukturen/Geb&#228;ude). Die
+Verkn&#252;pfung dieser Informationen mit anderen
+Geoinformationen und sozio-&#246;konomischen Kennziffern
+&#8211; 46 &#8211; 
+50 5. Geo-Fortschrittsbericht der Bundesregierung 
+kann weitere relevante Informationen generieren, 
+wie z.&#160;B. zu erwartende &#246;konomische Sch&#228;den 
+und Verluste (Beispiel Abbildung 20).
+Insbesondere f&#252;r die Indikatoren der Sendai Ziele &#8222;B
+Betroffene Bev&#246;lkerung&#8220; und &#8222;D  Betroffene
+Kritische Infrastrukturen&#8220; k&#246;nnen die Informationen 
+der Satellitenfernerkundung hilfreich sein. 
+Das Projekt Cop4Sen wird bis 2021 Wissen zu
+Methoden und Verfahren generieren, wie
+Satellitendaten f&#252;r die Umsetzung des SFDRR nutzbar
+gemacht werden k&#246;nnen. Mit diesen Kenntnissen 
+kann Cop4Sen dazu beitragen, das allgemeine 
+Verst&#228;ndnis von Katastrophenrisiken zu
+verbessern. Durch die pilothafte Verfahrensentwicklung 
+kann zudem erm&#246;glicht werden, der NKS bessere 
+und konsistentere Daten f&#252;r die
+Berichterstattung bereitzustellen und bestehende Datenl&#252;cken 
+durch SFE zu kompensieren. 
+GAIA-X 
+Das Projekt GAIA-X soll die Weiterentwicklung 
+einer europ&#228;ischen Dateninfrastruktur um 
+wichtige Technologiekomponenten, wie
+vernetzte Cloud-Plattformen und KI-
+Anwendungen, erg&#228;nzen. Zielsetzung von GAIA-X bilden 
+zudem Interoperabilit&#228;t und die Wahrung der 
+Datensouver&#228;nit&#228;t. In der Domain &#8222;&#214;ffentlicher 
+Sektor&#8220; werden Geodaten als Schl&#252;sselelement 
+einer digitalen Infrastruktur in einer eigenen 
+Sub-Dom&#228;ne behandelt. Tats&#228;chlich sind 
+Geoinformationen f&#252;r fast alle acht
+Themenbereiche von Relevanz. 
+Abbildung 20 M&#246;glichkeiten der Fernerkundung sowie Geoinformationen f&#252;r die Ableitungen eines Sendai-Indikators 
+(Quelle:&#160;BBK; Daten: Copernicus Emergency Management Service (&#169;2014 Europ&#228;ische Union), EMSN024 und Copernicus 
+Emergency Management Service (&#169;2018 Europ&#228;ische Union), EMSN056)
+&#8211; 47 &#8211; 
+&#8211;
+&#8211;
+  51 Abbildungsverzeichnis 
+Abbildungsverzeichnis 
+Abbildung 1 Geb&#228;udegenaue Beschreibung der Nutzung durch die OpenBuildingMap. 
+Jedes Geb&#228;ude in OpenStreetMap wird analysiert und die Nutzung mit Hilfe  
+verschiedener Indikatoren so genau wie m&#246;glich bestimmt. Dargestellt ist  
+die Nutzung der Geb&#228;ude im Stadtteil Kreuzberg in Berlin.  ......................................................... 8 
+Abbildung 2 Vollst&#228;ndigkeit der Geb&#228;udeinformationen im Gebiet der Stadt Athen, 
+Griechenland. In den gr&#252;nen Zellen ist der Geb&#228;udedatensatz vollst&#228;ndig  
+und in den roten unvollst&#228;ndig. Die grauen Zellen sind unbewohnt und  
+die wei&#223;en Zellen noch nicht klassifiziert.  ............................................................................................. 8 
+Abbildung 3 Schadensverteilung eines Szenarioerdbebens in der Stadt K&#246;ln. Die unterschiedlichen 
+Farben der Geb&#228;ude repr&#228;sentieren unterschiedliche Schadenszust&#228;nde. Zum Schutz  er 
+Pers&#246;nlichkeitsrechte wird diese Farbskala hier nicht erl&#228;utert.  
+Kartenhintergrund: Copyright OpenStreetMap und Beitragende. ........................................... 9 
+Abbildung 4 Akustisches Modell der Stadt Frankfurt am Main  
+(Geoinformationen: &#169; BKG (2011))  ............................................................................................................ 10 
+Abbildung 5 Das Doppler-UKW Drehfunkfeuer Ried bei Darmstadt ist eine Einrichtung 
+der Flugsicherung, welches f&#252;r den Betrieb am Flughafen Frankfurt  
+wichtige Daten liefert. Quelle: BAF  ............................................................................................................ 11 
+Abbildung 6 Webatlas Neubaumonitor (Land Hessen) ................................................................................................ 14 
+Abbildung 7 Klimabewertungskarte Th&#252;ringen, Katzschner, L., Kupski, S., Fachgutachten 
+Klimabewertung Freistaat Th&#252;ringen, INKEK &#8211; Institut f&#252;r Klima- und 
+Energiekonzepte, Lohfelden, Deutschland, 2016 ...............................................................................  16 
+Abbildung 8 Ablaufdiagramm als &#220;bersicht des gesamten nautischen Informationsdienstes .............. 17 
+Abbildung 9 Ausschnitt der Stadt Passau in 3D-Ansicht der Smart Mapping Style Webkarte .............. 18 
+Abbildung 10 Zusammenspiel Ma&#223;nahmensteuerung, GDI-DE-Cockpit und Aktionsplan  ....................   20 
+Abbildung 11 Darstellung der Benutzeroberfl&#228;che der Marine-Dateninfrastruktur (MDI-DE)  ............... 21 
+Abbildung 12 Fiktiver Screenshot der OpenStreetMap-Website bei Angabe aller Quellen 
+mit Namensnennungspflicht. Die Liste erhebt keinen Anspruch auf  
+Vollst&#228;ndigkeit und Korrektheit.  ................................................................................................................ 26 
+Abbildung 13 Aus einem Luftbild wurde in Verbindung mit dem digitalen Oberf&#228;chenmodell 
+(DOM) eine erg&#228;nzende 3D-Ansicht erzeugt.  ...................................................................................... 30 
+Abbildung 14 Der SKD stellt dem Bund die Infrastruktur f&#252;r individuelle Produkte 
+zur Verf&#252;gung und  engagiert sich ebenfalls f&#252;r politische Beratung  
+sowie Aufkl&#228;rung von Entscheidungstr&#228;gern.  ....................................................................................  37
+&#8211; 48 &#8211;
+52 5. Geo-Fortschrittsbericht der Bundesregierung 
+Abbildung 15 Geoinformationen sind aus der t&#228;glichen Arbeit des Bev&#246;lkerungsschutzes nicht 
+mehr wegzudenken. Hier ein Blick in das gemeinsame Melde- und Lagezentrum  
+von Bund und L&#228;ndern (Quelle: BBK).  ..................................................................................................... 39 
+Abbildung 16 Interaktive Darstellung in einem Dashboard: Anteil freier Betten 
+gem&#228;&#223; DIVI-Intensivregister sowie Anzahl (beatmeter) COVID-19- 
+Patienten auf Landkreisebene (Quelle: BBK).  ....................................................................................... 40 
+Abbildung 17 Touchscreens mit GIS-Funktionalit&#228;t zur Einweisung in das Gel&#228;nde 
+(Quelle: Bundeswehr / Martina Pump) ................................................................................................... 41 
+Abbildung 18 Die Apps im GIS-Portal reichen von Viewern topographischer Karten 
+bis hin zur Wettervorhersage (Quelle: Bundeswehr / KdoCIR)  .................................................. 42 
+Abbildung 19 Das Integrated Geospatial Information Framework (IGIF); 
+Quelle:  http://ggim.un.org/IGIF/ ............................................................................................................... 45 
+Abbildung 20 M&#246;glichkeiten der Fernerkundung sowie Geoinformationen f&#252;r die Ableitungen 
+eines Sendai-Indikators (Quelle: BBK; Daten: Copernicus Emergency Management 
+Service (&#169;2014 Europ&#228;ische Union), EMSN024 und Copernicus Emergency  Management 
+Service (&#169;2018 Europ&#228;ische Union), EMSN056) ............................................................................ 47
+&#8211; 49 &#8211;
+  53 Abbildungsverzeichnis | Abk&#252;rzungsverzeichnis 
+AA Ausw&#228;rtiges Amt 
+AFIS Amtliches Festpunktinformationssystem 
+AGGO Argentinian-German Geodetic Observatory 
+ALKIS Amtliches Liegenschaftskatasterinformationssystem 
+ASID ST Amtlicher Stra&#223;eninformationsdienst Sachsen-Anhalt 
+ATKIS Amtliches Topographisch-Kartographisches Informationssystem 
+BAF Bundesaufsichtsamt f&#252;r Flugsicherung 
+BBK Bundesamt f&#252;r Bev&#246;lkerungsschutz und Katastrophenhilfe 
+BGeoRG Bundesgeoreferenzdatengesetz 
+BGR Bundesanstalt f&#252;r Geowissenschaften und Rohstoffe 
+BKG Bundesamt f&#252;r Kartographie und Geod&#228;sie 
+BMBF Bundesministerium f&#252;r Bildung und Forschung 
+BMEL Bundesministerium f&#252;r Ern&#228;hrung und Landwirtschaft 
+BMFSFJ Bundesministerium f&#252;r Familie, Senioren, Frauen und Jugend 
+BMI Bundesministerium des Innern, f&#252;r Bau und Heimat 
+BMVg Bundesministerium der Verteidigung 
+BMVI Bundesministerium f&#252;r Verkehr und digitale Infrastruktur 
+BMWi Bundesministerium f&#252;r Wirtschaft und Energie 
+BIM Building Information Modeling 
+BLANO Bund/L&#228;nder-Arbeitsgemeinschaft Nord- und Ostsee 
+BNatSchG Bundesnaturschutzgesetz 
+BOS Beh&#246;rden und Organisationen mit Sicherheitsaufgaben 
+BSH Bundesamt f&#252;r Seeschifffahrt und Hydrographie 
+CASUS Center for Advanced Systems Understanding 
+DGM Digitales Gel&#228;ndemodell 
+DIPAS Digitales Partizipationssystem 
+DLR Deutsches Zentrum f&#252;r Luft- und Raumfahrt e.V. 
+DWD Deutscher Wetterdienst 
+ENC Electronic Navigational Chart 
+Abk&#252;rzungsverzeichnis 
+Drucksache 19/30737 Deutscher Bundestag &#8211; 19. Wahlperiode&#8211; 50 &#8211; 
+54 5. Geo-Fortschrittsbericht der Bundesregierung 
+EnMAP Environmental Mapping and Analysis Program 
+ESA European Space Agency 
+FNP Fl&#228;chennutzungsplan 
+GDA GeoDatenArchitektur 
+GDI-DE Geodateninfrastruktur Deutschland 
+GDIG SH Geodateninfrastrukturgesetz Schleswig-Holstein 
+GEFIS Gewerbef&#228;chen-Informationssystem 
+GEO Group on Earth Observations 
+GeoInfoDBw Geoinformationsdienst der Bundeswehr 
+GeoNutzV Verordnung zur Festlegung der Nutzungsbestimmungen f&#252;r die Bereitstellung von 
+Geodaten des Bundes 
+GEOSS Global Earth Observation System of Systems 
+GeoZG Geodatenzugangsgesetz 
+GFZ Deutsches GeoForschungsZentrum 
+GGCE GGCE Global Geodetic Centre of Excellence 
+GGRF UN-Resolution Global Geodetic Reference Frame for Sustainable Development 
+GNSS Global Navigation Satellite System 
+GOW Geod&#228;tisches Observatorium Wettzel 
+GZDB Gitterzellendatenbank 
+IHO International Hydrographic Organziation 
+IMAGI Interministerieller Ausschuss f&#252;r Geoinformationswesen 
+ISCN Internationales Smart Cities Netzwerk 
+IT-PLR IT-Planungsrat 
+ITS Intelligente Verkehrssysteme 
+IWG Informationsweiterverwendungsgesetz 
+KVInfoSys Krisen-Vorsorge-Informationssystem 
+LGB Landesbetrieb Landesvermessung und Geobasisinformation Brandenburg (LGB) 
+LGV Landesbetrieb f&#252;r Geoinformation und Vermessung Hamburg
+&#8211; 51 &#8211; 
+  55 Abk&#252;rzungsverzeichnis 
+LoD Level of Detail 
+LuftVG Luftverkehrsgesetz 
+LVermGeo SH Landesamt f&#252;r Vermessung und Geoinformation Schleswig-Holstein 
+mCLOUD Zugang f&#252;r Mobilit&#228;ts- und Verkehrsdaten 
+mFUND Modernit&#228;tsfonds 
+MDI-DE Marine Dateninfrastruktur Deutschland 
+MDM Mobilit&#228;ts Daten Marktplatz 
+MLC Military Loading Class 
+MSRL Meeresstrategie-Rahmenrichtlinie 
+NatRKM Nationales Risiko- und Krisenmanagement 
+NGIS Nationale Geoinformations-Strategie 
+OSM OpenStreetMap 
+OZG Onlinezugangsgesetz 
+RROP Regionale Raumordnungsprogramme 
+SAPOS Satellitenpositionierungsdienst der deutschen Landesvermessung 
+SAR Synthetic Aperture Radar 
+SDG Sustainable Development Goal 
+SERA Seismology and Earthquake Research Infrastructure Alliance for Europe 
+SFDRR Sendai Rahmenwerk f&#252;r Katastrophenvorsorge 2015-2030 
+SKD Satellitengest&#252;tzer Krisen- und Lagedienst 
+SWIS Stra&#223;enzustands- und Wetterinformationssystem 
+THW Technisches Hilfswerk 
+UDP Urbane Datenplattform 
+UN-GGIM United Nations Global Geospatial Information Management 
+VKoopBKG Verwaltungsvereinbarung &#252;ber die Kooperation im amtlichen Vermessungswesen 
+VVKoopVerm Verwaltungsvereinbarung zur Kooperation im amtlichen Vermessungswesen 
+ZSHH Zentrale Stelle Hauskoordinaten und Hausumringe
+&#8211; 52 &#8211; 
+56 5. Geo-Fortschrittsbericht der Bundesregierung 
+Folgende Beh&#246;rden, Institutionen und Gruppen aus Bund, L&#228;ndern, Kommunen, der Wirtschaft, der 
+Wissenschaft und erstmals auch der Zivilgesellschaft haben aktiv zum 5. Geo-Fortschrittsbericht
+beigetragen (alphabetisch geordnet): 
+&#8226; Amt f&#252;r regionale Landesentwicklung Weser-Ems Niedersachsen (ARL-WE) 
+&#8226; Arbeitsgemeinschaft der Vermessungsverwaltungen (AdV) 
+&#8226; Bundesaufsichtsamt f&#252;r Flugsicherung (BAF) 
+&#8226; Bundesamt f&#252;r Bev&#246;lkerungsschutz und Katastrophenhilfe (BBK) 
+&#8226; Bundesamt f&#252;r Kartographie und Geod&#228;sie (BKG) 
+&#8226; Bundesamt f&#252;r Seeschifffahrt und Hydrographie (BSH) 
+&#8226; Bundesaufsichtsamt f&#252;r Flugsicherung (BAF) 
+&#8226; Bundesministerium f&#252;r Bildung und Forschung (BMBF) 
+&#8226; Bundesminiserium f&#252;r Ern&#228;hrung und Landwirtschaft (BMEL) 
+&#8226; Bundesministerium des Innern, f&#252;r Bau und Heimat (BMI) 
+&#8226; Bundesministerium f&#252;r Umwelt, Naturschutz und nukleare Sicherheit (BMU) 
+&#8226; Bundesministerium f&#252;r Verkehr und digitale Infrastruktur (BMVI) 
+&#8226; Bundesministerium der Verteidigung (BMVg) 
+&#8226; Bundesministerium f&#252;r Wirtschaft und Energie (BMWi) 
+&#8226; Bundesverband Informationswirtschaft, Telekommunikation und Neue Medien e.V. (Bitkom) 
+&#8226; Deutsche Raumfahrtagentur im DLR (RFA) 
+&#8226; Eisenbahn-Bundesamt (EBA) 
+&#8226; FOSSGIS e.V. 
+&#8226; Geo-Forschungszentrum Potsdam (GFZ) 
+&#8226; Hessisches Ministerium der Justiz 
+&#8226; Hessisches Ministerium f&#252;r Wirtschaft, Energie, Verkehr und Wohnen 
+&#8226; Lenkungsgremium Geodateninfrastruktur Deutschland (LG GDI-DE) 
+Beteiligung
+&#8211; 53 &#8211; 
+  57 Beteiligung 
+&#8226; Landesamt GeoInformation Bremen 
+&#8226; Ministerium des Innern und f&#252;r Kommunales des Landes Brandenburg 
+&#8226; Ministerium des Innern und f&#252;r Sport Rheinland-Pfalz 
+&#8226; Ministerium f&#252;r Inneres, l&#228;ndliche R&#228;ume, Integration und Gleichstellung des Landes 
+Schleswig-Holstein 
+&#8226; Ministerium f&#252;r Landesentwicklung und Verkehr des Landes Sachsen-Anhalt (MLV) 
+&#8226; Ministerium f&#252;r Umwelt, Energie, Ern&#228;hrung und Forsten Rheinland-Pfalz (MUEEF) 
+&#8226; Projekttr&#228;ger J&#252;lich / Forschungszentrum J&#252;lich GmbH 
+&#8226; Statistisches Bundesamt (StBA) 
+&#8226; Th&#252;ringer Ministerium f&#252;r Infrastruktur und Landwirtschaft 
+&#8226; Umweltbundesamt (UBA) 
+Drucksache 19/30737 Deutscher Bundestag &#8211; 19. Wahlperiode&#8211; 54 &#8211; 
+
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de 
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de 
+ISSN 0722-8333]</text>
+    <titel>F&#252;nfter Bericht der Bundesregierung &#252;ber die Fortschritte zur Entwicklung der verschiedenen Felder des Geoinformationswesens im nationalen, europ&#228;ischen und internationalen Kontext (5. Geo-Fortschrittsbericht)</titel>
+    <datum>2021-06-10</datum>
+  </document>
+  

@@ -1,0 +1,359 @@
+<document>
+    <id>241463</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/19447</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>df274bc7166a38f1ff0eb2853b755bd0</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>260672</id>
+      <titel>Nutzung von Anwendungen der Firma Clearview AI durch Interpol</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium des Innern, f&#252;r Bau und Heimat</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/194/1919447.pdf</pdf_url>
+      <id>241463</id>
+      <dokumentnummer>19/19447</dokumentnummer>
+      <datum>2020-04-08</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Antwort
+der Bundesregierung
+auf die Kleine Anfrage der Abgeordneten Andrej Hunko, Dr. Diether Dehm, 
+Dr. Andr&#233; Hahn, weiterer Abgeordneter und der Fraktion DIE LINKE.
+&#8211; Drucksache 19/18172 &#8211;
+Nutzung von Anwendungen der Firma Clearview AI durch Interpol
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Die US-amerikanische Firma Clearview AI hat nach Presseberichten rund 
+3 Milliarden Bilder von Menschen aus dem Internet eingesammelt und daraus 
+eine Datenbank zur Gesichtserkennung generiert (Bericht: &#8222;US-Firma
+sammelte Milliarden Fotos f&#252;r Gesichtsdatenbank&#8220;, www.heise.de vom 19. Januar 
+2020). Die gr&#246;&#223;tenteils aus Profilfotos sozialer Medien erstellte Datei wird 
+Firmen und Beh&#246;rden zur Abfrage angeboten, um auf diese Weise Personen 
+zu identifizieren. Die Bilder liegen dabei physisch bei der Firma und k&#246;nnen 
+unter anderem mit einer App abgefragt werden.
+Einem Bericht des Magazins &#8222;Buzzfeed&#8220; zufolge wird die Gesichtsbilddatei 
+bei Clearview AI auch von Interpol genutzt (&#8222;Clearview&#8217;s Facial Recognition 
+App Has Been Used By The Justice Department, ICE, Macy&#8217;s, Walmart, And 
+The NBA&#8220;, www.buzzfeednews.com vom 27. Februar 2020). Die weltweit 
+t&#228;tige Polizeibeh&#246;rde habe mehr als 320 Suchanfragen durchgef&#252;hrt. Das 
+Interpol-Generalsekretariat (IPSG) best&#228;tigte den Journalisten, dass &#8222;eine
+kleine Anzahl von Beamten&#8220; die Anwendung mit einem 30-Tage-Probeaccount 
+kostenlos genutzth&#228;tte. Es gebe keine Gesch&#228;ftsbeziehung zwischen Interpol 
+und Clearview.
+Mit Stand von November 2018 waren im neuen &#8222;Criminal Information
+System&#8220; (ICIS) bei Interpol 124 819 Datens&#228;tze mit Lichtbild gespeichert
+(Bundestagsdrucksache 19/5954, Antwort zu Frage 2). Eine neu eingerichtete 
+&#8222;Gesichtserkennungsdatenbank&#8220;, in die Bilder des ICIS bzw. von
+Fahndungsersuchen (&#8222;Red Notices&#8220;) &#252;bernommen wurden, enthielt 54 186 Lichtbilder. 
+Sie kann nach Angaben von Interpol im Rahmen einer &#8222;search only&#8220;-Funktion 
+von den Beh&#246;rden der Interpol-Mitgliedstaaten abgefragt werden (https://ww
+w.interpol.int/How-we-work/Forensics/Facial-Recognition). Die bei Interpol 
+genutzte Software zur Gesichtserkennung &#8222;MorphoFace Investigate&#8220; stammt 
+von der Firma Safran Identity and Security (Antwort auf die Schriftliche
+Frage 11 des Abgeordneten Andrej Hunko auf Bundestagsdrucksache 19/370).
+Zur praktischen Gesichtserkennung betreibt Interpol das zweij&#228;hrige Projekt 
+DTECH, das Bilder, Videos und andere Dateien verarbeitet
+(Bundestagsdrucksache 19/8683, Antwort zu Frage 13; Ratsdokument 12545/18). Dabei werden 
+soziale Medien offensichtlich nicht nach Gesichtern durchsucht, stattdessen 
+werden diese &#252;ber &#8222;nationale Beh&#246;rden, regionale Monitoring-Plattformen, In-
+Deutscher Bundestag Drucksache 19/19447
+19. Wahlperiode 08.04.2020
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums des Innern, f&#252;r Bau und Heimat 
+vom 7. April 2020 &#252;bermittelt.
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext.
+dustrie und kommerzielle OSINT [Open Source Intelligence]&#8220; bereitgestellt 
+und von Interpol gespeichert. Als Anbieter f&#252;r &#8222;kommerzielle OSINT&#8220; k&#246;nnte 
+Interpol nach Vermutung der Fragestellerinnen und Fragesteller auch Firmen 
+wie Clearview AI bzw. deren Konkurrenten angefragt haben (vgl. https://onez
+ero.medium.com/clearview-ai-we-are-working-to-acquire-all-u-s-mugshots-fr
+om-past-15-years-645d92319f33).
+Es ist unklar, f&#252;r welche Zwecke DTECH genutzt wird. Laut der
+Bundesregierung sollen damit unbekannten Personen nominelle Daten (also
+Personendaten, Ausweisnummern etc.) zugeordnet werden k&#246;nnen. Denkbar w&#228;re aus 
+Sicht der Fragestellerinnen und Fragesteller auch, &#252;ber Accounts in sozialen 
+Medien den Aufenthaltsort von Personen zu ermitteln, die via Interpol gesucht 
+werden. Mitgeteilt wird nicht, welche Referenzdateien bei Interpol f&#252;r den 
+Abgleich existieren. M&#246;glich w&#228;re, dass die Verarbeitung der in DTECH
+gefundenen Gesichter unter anderem im Projekt &#8222;Facial, Imaging, Recognition, 
+Searching and Tracking&#8220; (FIRST) erfolgt (https://www.interpol.int/Crimes/Ter
+rorism/Identifying-terrorist-suspects). Damit sollen etwa inhaftierte
+unbekannte Terrorismusverd&#228;chtige identifiziert werden, indem die biometrischen
+Informationen zun&#228;chst mit Interpol-Dateien abgeglichen und anschlie&#223;end als 
+&#8222;Blue Notices&#8220; bzw. &#8222;Blue Diffusions&#8220; an die Interpol-Mitgliedstaaten verteilt 
+werden. Dort k&#246;nnten sie mit eigenen Lichtbilddateien abgeglichen werden. 
+Es ist ebenfalls unklar, woher die Gesichtsbilder der zu identifizierenden
+Personen im Projekt FIRST stammen, bekannt ist dies lediglich f&#252;r Gef&#228;ngnisse 
+im Niger (http:// g l e f t .de/2OY). Interpol betreibt f&#252;r den
+milit&#228;rischpolizeilichen Datentausch zudem das Projekt &#8222;Military to Law Enforcement 
+exchange&#8220; (MILEX).
+Bislang ist nicht bekannt, wie das Bundeskriminalamt (BKA) das als
+&#8222;Gesichtserkennungsdatenbank&#8220; (Bundestagsdrucksache 19/5954, Antwort zu 
+Frage 1) bezeichnete ICIS nutzt. Das BKA hat eine Vereinbarung zur
+Verarbeitung von Gesichtsbildern mit Interpol unterzeichnet, deren Umsetzung aber 
+noch gepr&#252;ft wird (Antwort zu Frage 1 auf Bundestagsdrucksache 19/5954; 
+Antwort auf die Schriftliche Frage 9 des Abgeordneten Dr. Diether Dehm auf 
+Bundestagsdrucksache 19/1908). Das BKA will selbst qualitativ geeignete 
+Lichtbilder, die von deutschen Strafverfolgungsbeh&#246;rden derzeit im ICIS f&#252;r 
+Fahndungsersuchen gespeichert sind, in die neue
+&#8222;Gesichtserkennungsdatenbank&#8220; &#252;berf&#252;hren.
+Das BKA arbeitet bei Interpol au&#223;erdem in einer &#8222;Facial Recognition Working 
+Group&#8220; (FRWG) mit (Bundestagsdrucksache 19/370, Antwort auf die
+Schriftliche Frage 11 des Abgeordneten Andrej Hunko), zu deren Sitzungen auch
+Beh&#246;rden aus Australien, Frankreich, Israel, Gro&#223;britannien und den USA
+eingeladen wurden. Zu den in der FRWG behandelten Themenbereichen geh&#246;ren 
+die &#8222;Umsetzung der Gesichtserkennung auf nationaler Ebene&#8220;, &#8222;Internationale 
+Zusammenarbeit im Bereich der Gesichtserkennung und des
+Datenaustausches&#8220; sowie &#8222;Entwicklungsschritte im Bereich der Gesichtserkennung&#8220;
+(Antwort auf die Schriftliche Frage 8 des Abgeordneten Dr. Diether Dehm auf 
+Bundestagsdrucksache 19/1908). Dort erlangte Informationen k&#246;nnen &#8222;auch 
+in die Weiterentwicklung nationaler Systeme einflie&#223;en&#8220;
+(Bundestagsdrucksache 19/5954, Antwort zu Frage 4).
+Die Bundesregierung muss nach Ansicht der Fragesteller erkl&#228;ren, ob dabei 
+auch Clearview AI als m&#246;gliche Anwendung f&#252;r Polizeibeh&#246;rden vorgestellt 
+wurde und Interpol dadurch f&#252;r eine Anwendung geworben hat, die aus Sicht 
+der Fragestellerinnen und Fragesteller nicht nur den Nutzungsbedingungen 
+vieler Plattformen, sondern auch dem europ&#228;ischen Datenschutz zuwiderl&#228;uft.
+1. Wie viele Lichtbilder sind nach Kenntnis der Bundesregierung derzeit im 
+&#8222;Criminal Information System&#8220; (ICIS) sowie in der &#8222;Interpol-
+Gesichtserkennungsdatenbank&#8220; bei Interpol gespeichert?
+Bei dem Interpol Criminal Information System (ICIS) handelt es sich um einen 
+Oberbegriff, unter dem s&#228;mtliche im Interpol-Generalsekretariat (IPSG)
+verwalteten Datenbanken, Webapplikationen und Analysesystemen
+zusammengefasst werden. Ein vollumf&#228;nglicher Zugriff auf s&#228;mtliche Dateisysteme und 
+Anwendungen ist ausschlie&#223;lich dem IPSG vorbehalten.
+Zur der Gesamtanzahl der im IPSG im ICIS gespeicherten Lichtbilder sowie 
+der aktuell darin enthaltenen Teilmenge der in der Interpol-
+Gesichtserkennungsdatenbank vorhandenen Lichtbilder liegen der Bundesregierung keine 
+Informationen vor. Im &#220;brigen wird auf die Antwort der Bundesregierung zu 
+Frage 10 der Kleinen Anfrage der Fraktion DIE LINKE. auf
+Bundestagsdrucksache 19/16723 verwiesen.
+a) Welche weiteren Arbeitsdateien mit Gesichtsbildern hat Interpol
+eingerichtet (etwa zu &#8222;ausl&#228;ndischen K&#228;mpfern&#8220;), wie viele Lichtbilder 
+sind darin enthalten, und wie viele davon stammen von deutschen
+Beh&#246;rden?
+Der Bundesregierung liegen keine Informationen zu weiteren IPSG-Dateien mit 
+Gesichtsbildern vor.
+b) Inwiefern sind diese Arbeitsdateien nach Gesichtsbildern
+durchsuchbar?
+In der Interpol-Gesichtserkennungsdatenbank ist eine freie und automatisierte 
+Recherche innerhalb von Gesichtsbildern nicht m&#246;glich. Es k&#246;nnen lediglich 
+Lichtbilder/ Gesichtsbilder zum Abgleich an das IPSG &#252;bermittelt werden,
+sofern ein entsprechendes Abkommen mit dem Interpol-Mitgliedsstaat und dem 
+IPSG vereinbart wurde. Zu weiteren Dateien wird auf die Antwort zu Frage 1a 
+verwiesen.
+c) Wie viele Abfragen von Gesichtsbildern (&#8222;search only&#8220;, vgl. https://w
+ww.interpol.int/How-we-work/Forensics/Facial-Recognition) haben 
+welche Bundesbeh&#246;rden im Jahr 2019 in den einzelnen Dateien
+vorgenommen?
+Hierzu liegen der Bundesregierung keine Statistiken vor.
+2. Kann die Bundesregierung ausschlie&#223;en, dass die unter anderem von
+deutschen Beh&#246;rden im &#8222;Criminal Information System&#8220; (ICIS), in der 
+&#8222;Interpol-Gesichtserkennungsdatenbank&#8220; sowie in einzelnen
+Arbeitsdateien gespeicherten Gesichtsbilder mit Dateien abgeglichen werden, die 
+au&#223;erhalb der Interpol-Systeme bei privaten bzw. kommerziellen
+Anbietern wie Clearview AI gespeichert sind?
+Grunds&#228;tzlich handelt es sich bei den im IPSG gespeicherten Gesichtsbildern 
+um Daten der entsprechenden Interpol-Mitgliedstaaten. Sofern diese einer
+Weitergabe ihrer Daten/Gesichtsbilder nicht zustimmen, d&#252;rfen diese vom IPSG 
+nicht an Dritte weitergegeben werden. Dar&#252;ber hinaus ist der Datenaustausch 
+mit privaten Stellen gem&#228;&#223; den Interpol-Regularien f&#252;r die
+Informationsverarbeitung streng limitiert.
+3. Woher stammen nach Kenntnis der Bundesregierung die im Projekt 
+DTECH verarbeiteten Gesichtsbilder (bitte die in der Antwort zu Frage 13 
+auf Bundestagsdrucksache 19/8683 erw&#228;hnten &#8222;nationale[n] Beh&#246;rden, 
+regionale[n] Monitoring-Plattformen, Industrie und kommerzielle[n] 
+OSINT&#8220; auff&#252;hren), und wo werden diese bei Interpol gespeichert?
+Die Bundesregierung hat dem IPSG keine Lichtbilder &#252;bermittelt und hat keine 
+Kenntnis dar&#252;ber, woher die im Projekt DTECH verarbeiteten Gesichtsbilder 
+stammen. Zum Speicherort der im Rahmen von DTECH verarbeiteten
+Gesichtsbilder liegen der Bundesregierung keine Informationen vor.
+a) Gleicht Interpol diese Bilder lediglich auf m&#246;glicherweise existierende 
+&#8222;Notices&#8220; und &#8222;Diffusions&#8220; ab?
+b) Inwiefern werden auch von Deutschland &#252;ber Interpol verteilte
+&#8222;Notices&#8220; und &#8222;Diffusions&#8220; bzw. im ICIS hinterlegte Personendaten mit den 
+von &#8222;Industrie und kommerzielle[r] OSINT&#8220; erhaltenen
+Gesichtsbildern abgeglichen?
+c) Wird das Projekt DTECH auch genutzt, um &#252;ber geolokalisierbare 
+Nutzeraccounts in sozialen Medien den Standort unbekannter
+Personen zu ermitteln?
+d) Erfolgt der Abgleich im Projekt DTECH auch mit Daten aus dem
+Projekt &#8222;Facial, Imaging, Recognition, Searching and Tracking&#8220; (FIRST)?
+e) Stammen die Gesichtsbilder im Projekt FIRST bzw. dem Projekt
+&#8222;Military to Law Enforcement exchange&#8220; (MILEX) lediglich aus dem
+Niger (vgl. https://www.interpol.int/Crimes/Terrorism/Identifying-terrori
+st-suspects)?
+Die Fragen 3a bis 3e werden gemeinsam beantwortet.
+Hierzu liegen der Bundesregierung keine Informationen vor.
+4. Was ist der Bundesregierung &#252;ber eine Nutzung von Diensten bzw.
+Anwendungen der Firma Clearview AI oder &#228;hnlichen Anbietern durch
+Interpol bekannt?
+a) Mit welchen Lichtbildern welcher eigenen Datenbanken hat Interpol 
+die bei Clearview AI liegenden Lichtbilder abgeglichen?
+Die Fragen 4 und 4a werden gemeinsam beantwortet.
+Der Bundesregierung liegen hierzu keine Informationen vor.
+b) Kann die Bundesregierung ermitteln, ob Interpol auch die vom BKA 
+in das ICIS oder in die &#8222;Interpol-Gesichtserkennungsdatenbank&#8220;
+eingestellten Lichtbilder mit Anwendungen von Clearview AI verarbeitet 
+hat?
+Der Bundesregierung liegen keine Informationen dazu vor, ob und wie das 
+IPSG die im ICIS gespeicherten Lichtbilder aus Deutschland mit
+Anwendungen von Clearview verarbeitet hat.
+Die Bundesregierung hat die Speicherung von Lichtbildern deutscher
+Polizeibeh&#246;rden in der Interpol-Gesichtserkennungsdatenbank bislang nicht
+freigegeben (siehe auch Antwort zu Frage 6).
+5. Hat die Firma Clearview AI die 3 Milliarden Gesichtsbilder, die
+Medienberichten zufolge gr&#246;&#223;tenteils aus sozialen Medien stammen (Bericht: 
+&#8222;US-Firma sammelte Milliarden Fotos f&#252;r Gesichtsdatenbank&#8220;, www.heis
+e.de vom 19. Januar 2020), aus Sicht der Bundesregierung rechtm&#228;&#223;ig
+erlangt?
+Der Bundesregierung liegen hierzu keine eigenen Informationen vor.
+6. Wann k&#246;nnte nach derzeitigem Zeitplan die deutsche fachliche und
+datenschutzrechtliche Pr&#252;fung zur Frage erfolgen, ob qualitativ geeignete
+Lichtbilder, die von deutschen Strafverfolgungsbeh&#246;rden derzeit im Interpol 
+Criminal Information System f&#252;r Fahndungsersuchen gespeichert sind, in 
+die neue Gesichtserkennungsdatenbank des IPSG &#252;berf&#252;hrt und mit der 
+Software &#8222;MorphoFace Investigate&#8220; der Firma Safran Identity and
+Security zur Gesichtserkennung genutzt werden d&#252;rfen (Antwort auf die
+Schriftliche Frage 11 des Abgeordneten Andrej Hunko auf
+Bundestagsdrucksache 19/370)?
+Die entsprechenden Pr&#252;fungen dauern noch an. Derzeit ist nicht absehbar, 
+wann diese abgeschlossen sind.
+7. Ab wann nutzt das Bundeskriminalamt (BKA) das neue
+Gesichtserkennungssystem bei der Polizeiorganisation Interpol?
+a) Welchen Inhalt hat eine entsprechende Vereinbarung mit dem Interpol-
+Generalsekretariat hierzu?
+b) Welche Verfahren f&#252;r die Verarbeitung m&#246;glicher Treffer (&#8222;Potential 
+Hit&#8220;-Meldung) und deren Verifizierung bei Interpol sowie im BKA 
+wurden dabei festgelegt?
+c) Wann wurde die Vereinbarung geschlossen, bzw. wann soll diese
+geschlossen werden?
+d) Sofern eine Unterzeichnung noch aussteht, welche Gr&#252;nde kann die 
+Bundesregierung zu der Verz&#246;gerung mitteilen?
+e) Wann soll die datenschutzrechtliche Pr&#252;fung der Vereinbarung
+erfolgen?
+f) Sofern die Pr&#252;fung zur Umsetzung der Vereinbarung zwischen dem 
+BKA und Interpol seit 2018 weiter andauert, welche Gr&#252;nde kann die 
+Bundesregierung zu der Verz&#246;gerung mitteilen?
+Die Fragen 7 bis 7f werden gemeinsam beantwortet.
+Auf die Antwort zu Frage 6 wird verwiesen.
+8. Wurden in der &#8222;Facial Recognition Working Group&#8220; (FRWG) bei Interpol 
+nach Kenntnis der Bundesregierung Verfahren vorgestellt oder behandelt, 
+mit denen Gesichter aus dem Internet verarbeitet und/oder gespeichert 
+werden k&#246;nnen (Bundestagsdrucksache 19/5954, Antwort zu Frage 3), 
+und falls ja, wer trug hierzu vor, und um welche Anwendungen handelte 
+es sich?
+Nach Kenntnis der Bundesregierung setzt sich die FRWG allgemein mit
+grunds&#228;tzlichen Fragestellungen der Gesichtserkennung und diesbez&#252;glicher
+praktischer Problemstellungen auseinander. Die Quelle der Lichtbilder, die in
+Gesichtserkennungssystemen verarbeitet werden, ist hierbei unerheblich. Es
+wurden keine speziellen Verfahren im Hinblick auf die Verarbeitung von
+Lichtbildern aus dem Internet vorgestellt oder behandelt.
+9. Welche Fragen der internationalen Zusammenarbeit im Bereich der
+Gesichtserkennung und des Datenaustausches wurden nach Kenntnis der 
+Bundesregierung in der FRWG behandelt (Antwort auf die Schriftliche 
+Frage 8 des Abgeordneten Dr. Diether Dehm auf Bundestagsdrucksache 
+19/1908)?
+Die Fragestellung wird dahingehend verstanden, dass sie sich auf die Sitzung 
+der FRWG im Juni 2018 bezieht. Gegenstand der Er&#246;rterungen in der Sitzung 
+waren nach Kenntnis der Bundesregierung grunds&#228;tzliche Fragestellungen der 
+internationalen Zusammenarbeit in Bezug auf die Gesichtserkennung und den 
+Datenaustausch. Hierbei wurden u. a. die Themen Einsatz von
+Gesichtserkennung im IPSG und m&#246;gliche zuk&#252;nftige Weiterentwicklung der Ratsbeschl&#252;sse 
+von Pr&#252;m mit einer Abgleichm&#246;glichkeit von Gesichtsbildern diskutiert. Ziel 
+war der gemeinsame Erfahrungsaustausch, u. a. bzgl. der m&#246;glichen Schaffung 
+von Standards f&#252;r z. B. die Lichtbildqualit&#228;t und zu Dateiformaten.
+Weiterhin wurden nationale Erfahrungen zu Fragen der Ausbildung oder zu
+generellen Verfahrensabl&#228;ufen thematisiert.
+10. Wann wurde nach Kenntnis der Bundesregierung die von der Firma
+Deloitte durchgef&#252;hrte Machbarkeitsstudie zur Weiterentwicklung der
+Ratsbeschl&#252;sse zu Pr&#252;m fertiggestellt, und wo wurde diese bereits beraten 
+(Bundestagsdrucksache 19/9407, Antwort zu Frage 2)?
+a) Welche Vorschl&#228;ge macht die Studie zur Erweiterung auf
+Gesichtserkennung?
+b) Welche Schlussfolgerungen zieht die Bundesregierung daraus?
+Die Fragen 10 bis 10b werden gemeinsam beantwortet.
+Die Fragen 10 bis 10b werden zusammenfassend wie folgt beantwortet.
+Nach Kenntnis der Bundesregierung wurde die Studie zwischenzeitlich
+abgeschlossen; eine Beratung der Ergebnisse hat noch nicht stattgefunden. Sie
+enth&#228;lt u. a. &#220;berlegungen, den Pr&#252;mer Verbund um die M&#246;glichkeit des
+Lichtbilddatenabgleichs &#8211; analog zu den bestehenden M&#246;glichkeiten des Kfz-, 
+DNA-, und Fingerabdruckdatenaustauschs &#8211; zu erweitern. Die
+Bundesregierung hat sich hierzu noch keine Meinung gebildet.
+11. Was ist der Bundesregierung &#252;ber Pl&#228;ne bekannt, den Abgleich von
+Gesichtsbildern und DNA-Profilen auch im Schengener Informationssystem 
+(SIS II) zu implementieren, wo wurden entsprechende Vorschl&#228;ge oder 
+Studien bereits beraten (vgl. Kommissionsdokument COM(2020) 72
+final vom 28. Februar 2020), und welche Empfehlungen wurden dabei 
+ausgesprochen?
+Der Bundesregierung sind keine Beratungen und/oder Empfehlungen bez&#252;glich 
+einer konkreten Implementierung von Abgleichm&#246;glichkeiten von
+Gesichtsbildern im Schengener Informationssystem bekannt. Auch die neue Verordnung 
+(EU) 2018/1862 &#252;ber die Einrichtung, den Betrieb und die Nutzung des
+Schengener Informationssystems (SIS) im Bereich der polizeilichen Zusammenarbeit 
+und der justiziellen Zusammenarbeit in Strafsachen sieht in Artikel 43 Absatz 1 
+die Nutzung von Gesichtsbildern nur vor, um die Identit&#228;t einer Person zu
+best&#228;tigen, die durch eine alphanumerische Abfrage im SIS aufgefunden wurde.
+Artikel 43 Absatz 4 der VO 2018/1862 sieht als k&#252;nftige
+Weiterentwicklungsm&#246;glichkeit grunds&#228;tzlich auch die M&#246;glichkeit vor, an &#8222;regul&#228;ren
+Grenz&#252;bergangsstellen Lichtbilder und Gesichtsbilder zur Identifizierung einer Person&#8220; zu
+verwenden, sofern &#8222;eine hochgradige Zuverl&#228;ssigkeit der Identifizierung
+gew&#228;hrleistet&#8220; ist. Vor der Implementierung einer solchen Funktion muss
+allerdings die Kommission zun&#228;chst einen Bericht &#252;ber die Verf&#252;gbarkeit,
+Einsatzf&#228;higkeit und Zuverl&#228;ssigkeit der erforderlichen Technologie vorlegen und
+hierzu das Europ&#228;ische Parlament konsultieren.
+Eine Abgleichm&#246;glichkeit von DNA-Profilen im Schengener
+Informationssystem (ist nicht vorgesehen. Auf Grundlage der drei SIS-Verordnungen vom 
+28. November 2019 zum SIS soll lediglich die M&#246;glichkeit geschaffen werden, 
+in speziellen Vermisstenf&#228;llen DNA-Muster als nicht-recherchierbare
+Hintergrundinformation zur Best&#228;tigung der Identit&#228;t einer durch alphanumerische 
+Suche im SIS aufgefunden Person zu &#252;bermitteln, und dies auch nur dann, 
+wenn keine Lichtbilder, Gesichtsbilder oder daktyloskopischen Daten
+verf&#252;gbar sind oder diese nicht zur Identifizierung geeignet sind.
+12. Worum handelt es sich nach Kenntnis der Bundesregierung bei der bei 
+Europol installierten &#8222;Video Analysis Solution&#8220; (IVAS; vgl. &#8222;Europol 
+Programming Document 2018 &#8211; 2020&#8220; und &#8222;Consolidated Annual
+Activity Report 2018&#8220;), welche Daten werden damit durchsucht, und in
+welchem Umfang werden diese Werkzeuge bei Europol in den Jahren 2017, 
+2018 und 2019 durch deutsche Beh&#246;rden genutzt?
+Bei der Video Analysis Solution (IVAS) bei Europol handelt es sich um eine 
+Datenbank zur Bild- und Videoanalysetechnik. Die Datenbank enth&#228;lt Videos, 
+Bilder und Audioaufnahmen, die insbesondere im Rahmen von
+Ermittlungsverfahren der Mitgliedstaaten im Zusammenhang mit der Bek&#228;mpfung des
+sexuellen Missbrauchs von Kindern erhoben und an Europol zum unterst&#252;tzenden 
+Abgleich &#252;bermittelt wird. Das System speichert zudem die Metadaten und 
+Hashwerte der Dateien. Durch den Abgleich des sichergestellten Materials 
+k&#246;nnen ggf. neue ermittlungsrelevante Spuren/Hinweise gewonnen und eine 
+T&#228;ter-/Opferidentifizierung erm&#246;glicht werden. Ausschlie&#223;lich Europol hat 
+einen direkten Zugriff auf IVAS.
+a) Inwiefern verf&#252;gt das System &#252;ber F&#228;higkeiten zur Gesichts-,
+Altersoder Geschlechtserkennung?
+b) Mit welchen Funktionalit&#228;ten soll das IVAS weiterentwickelt werden?
+Die Fragen 12a und 12b werden gemeinsam beantwortet.
+Der Bundesregierung liegen hierzu keine Informationen vor.
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/18172 -
+Nutzung von Anwendungen der Firma Clearview AI durch Interpol</titel>
+    <datum>2020-04-08</datum>
+  </document>
+  

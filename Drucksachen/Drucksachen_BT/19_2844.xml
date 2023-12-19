@@ -1,0 +1,271 @@
+<document>
+    <id>220224</id>
+    <drucksachetyp>Kleine Anfrage</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>12</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/2844</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>6af7d55b49919c793b9cbac1a03d123d</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:15+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>236698</id>
+      <titel>"Big Data" und Software zur Vorhersage von "Krisen" bei der Bundeswehr</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>LINKE</bezeichnung>
+      <titel>Fraktion DIE LINKE</titel>
+    </urheber>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/028/1902844.pdf</pdf_url>
+      <id>220224</id>
+      <dokumentnummer>19/2844</dokumentnummer>
+      <datum>2018-06-19</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Kleine Anfrage</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Fraktion DIE LINKE</urheber>
+    </fundstelle>
+    <autoren_anzeige>
+      <id>1066</id>
+      <titel>Andrej Hunko, MdB, DIE LINKE</titel>
+      <autor_titel>Andrej Hunko</autor_titel>
+    </autoren_anzeige>
+    <autoren_anzeige>
+      <id>2025</id>
+      <titel>Dr. Alexander S. Neu, MdB, DIE LINKE</titel>
+      <autor_titel>Alexander S. Neu</autor_titel>
+    </autoren_anzeige>
+    <text>[Deutscher Bundestag  Drucksache 19/2844 
+19. Wahlperiode 19.06.2018 
+Kleine Anfrage 
+der Abgeordneten Andrej Hunko, Dr. Alexander S. Neu, Heike H&#228;nsel,  
+Christine Buchholz, Anke Domscheit-Berg, Matthias H&#246;hn, Ulla Jelpke,  
+Zaklin Nastic, Tobias Pfl&#252;ger, Eva-Maria Elisabeth Schreiber, Dr. Petra Sitte,  
+Kathrin Vogler und der Fraktion DIE LINKE. 
+&#8222;Big Data&#8220; und Software zur Vorhersage von &#8222;Krisen&#8220; bei der Bundeswehr  
+Das Bundesministerium der Verteidigung (BMVg) plant die Beschaffung von 
+Software zur Verarbeitung von gro&#223;en Datenmengen, um damit &#8222;m&#246;gliche
+Ausstattungs- und Versorgungsprobleme&#8220; zu identifizieren (&#8222;Blick in die Zukunft: 
+Big-Data-Software f&#252;r die Bundeswehr&#8220;, bundeswehr-journal.de vom 2. Juni 
+2018). Hierzu setzt das BMVg auf die sogenannte In-Memory-Technologie,
+wonach die zu verarbeitenden Datenbest&#228;nde im Arbeitsspeicher der Anwendung 
+gehalten werden und damit um ein Vielfaches schneller durchsuchbar sind.
+Bereits im Jahr 2015 hatte das BMVg einen &#8222;Bedarf f&#252;r den Einsatz einer In-Memory-
+Technologie&#8220; mitgeteilt (Bundestagsdrucksache 18/5196, Antwort zu Frage 6). 
+Damals wurden die Produkte &#8222;HANA&#8220; des deutschen Konzerns SAP sowie &#8222;Blu&#8220; 
+von IBM f&#252;r eine m&#246;gliche Beschaffung untersucht. Dem BMVg zufolge habe 
+das Ministerium au&#223;erdem eine &#8222;grunds&#228;tzliche Marktanalyse/-sichtung&#8220; zu
+Anwendungen zur Prognose von gro&#223;en Datenmengen durchgef&#252;hrt und mit einigen 
+Firmen anschlie&#223;end &#8222;ein Gespr&#228;ch&#8220; gef&#252;hrt (Bundestagsdrucksache 19/1979, 
+Antwort auf die Schriftliche Frage 77 des Abgeordneten Omid Nouripour). 
+Derzeit testet das Bundesministerium &#8222;im Rahmen von Pilotprojekten&#8220; die
+Prognosewerkzeuge SAP Analytics sowie &#8222;IBM Watson&#8220;. Das SAP-Programm diene 
+demnach der &#8222;vorausschauende[n] Wartung (predictive maintenance)&#8220;. Mit dem 
+IBM-Programm sollen au&#223;erdem &#8222;potenzielle Krisen&#8220; vor ihrer Entstehung in 
+den n&#228;chsten sechs bis 18 Monate vorhergesagt werden (&#8222;Blick in die Zukunft: 
+Big-Data-Software f&#252;r die Bundeswehr&#8220;, bundeswehr-journal.de vom 2. Juni 
+2018). Hierf&#252;r muss die Software allerdings auf eine Datenbasis mit fr&#252;heren
+politischen &#8222;Ereignissen&#8220; zugreifen. Eine solche Datenbank &#8222;Global Data on 
+Events, Location and Tone&#8220; (GDELT) wird von dem Informatiker Kalev Leetaru 
+betrieben (www.gdeltproject.org). Das Ziel von GDELT ist das Aufsp&#252;ren
+zuk&#252;nftiger Unruhen, Revolten oder Anschl&#228;ge. GDELT wertet t&#228;glich Tausende 
+Berichte aus &#246;ffentlich zug&#228;nglichen Medien aus. Auch das von Google und dem 
+US-Geheimdienst CIA gegr&#252;ndete Unternehmen &#8222;Recorded Future&#8220; bietet
+entsprechende Dienste an (www.recordedfuture.com). Unter anderem hatte das US-
+Milit&#228;r derartige Verfahren 2011 im Rahmen seiner Intervention in Libyen
+eingesetzt (http://gleft.de/2hF). Hierf&#252;r werden &#246;ffentlich zug&#228;ngliche Quellen im 
+Internet ausgewertet (sogenannte OSINT-Verfahren). Zu einer solchen &#8222;IT-
+gest&#252;tzten Nachrichtengewinnung aus offenen Quellen&#8220; testete die Bundeswehr die 
+beiden Analysetools &#8222;Textrapic&#8220; und &#8222;Brandwatch&#8220; zur Erfassung von
+&#8222;Meinungs- und Stimmungslagen der Bev&#246;lkerung&#8220;. Breiter aufgestellte Forschungen
+f&#252;r eine &#8222;Wissenserschlie&#223;ung aus offenen Quellen&#8220; (WeroQ) hatte die
+Bundeswehr zwar f&#252;r den Zeitraum von 2014 bis 2016 beauftragt, diese wurden aber 
+wegen eines fehlenden Zuwendungsbescheides des Bundesamtes f&#252;r Ausr&#252;stung, 
+Informationstechnik und Nutzung der Bundeswehr (BAAINBw) f&#252;r das
+Fraunhofer-Institut zun&#228;chst nicht durchgef&#252;hrt (Schreiben des Parlamentarischen 
+Staatssekret&#228;rs Dr. Ole Schr&#246;der vom 22. Juli 2014, http://gleft.de/2hE) und
+fanden am Ende gar nicht statt (Plenarprotokoll 18/192). Auch das
+Bundeskriminalamt hatte unter Koordination des Bundes Deutscher Kriminalbeamter mit dem 
+Fraunhofer-Institut f&#252;r Intelligente Analyse- und Informationssysteme IAIS die 
+Software &#8222;FuhSen&#8220; (f&#246;derierte und hybride Search-Engine) zur semantischen
+Ermittlung in offenen Quellen im Internet entwickelt, die neben g&#228;ngigen
+Schnittstellen zu Social Media auch das &#8222;Deep Web&#8220; (etwa Online-Marktpl&#228;tze) oder 
+das &#8222;Dark Web&#8220; durchsucht (http://gleft.de/2hJ). Im Projekt wurde auch gepr&#252;ft, 
+wie eine polizeiliche Verarbeitung von Personendaten nach der EU-Datenschutz-
+Grundverordnung rechtskonform erfolgen kann.  
+Die jetzige milit&#228;rische Beschaffung der Software SAP Analytics sowie IBM 
+Watson ist Teil einer &#8222;Digitaloffensive&#8220; der Bundeswehr. Vor der Entscheidung 
+hatte das BMVg auch die von der hessischen Polizei genutzte
+Vorhersagesoftware &#8222;Gotham&#8220; der US-Firma Palantir Technologies gepr&#252;ft. Die Nutzung von 
+SAP-Produkten kann unter anderem ein Sicherheitsrisiko darstellen. Nach
+Recherchen des ARD-Magazins &#8222;FAKT&#8220; lieferte der deutsche Konzern seine
+Datenbanktechnologie &#8222;HANA&#8220; an US-Geheimdienste (ARD FAKT vom 10. M&#228;rz 
+2015).  
+Wir fragen die Bundesregierung: 
+1. Aus welchen Gr&#252;nden zeichnete sich im Jahr 2015 &#8222;Bedarf f&#252;r den Einsatz 
+einer In-Memory-Technologie ab&#8220; (Bundestagsdrucksache 18/5196,
+Antwort zu Frage 6)? 
+a) Welche Ergebnisse zeitigten die damaligen Untersuchungen der Produkte 
+SAP SE (Produkt &#8222;HANA&#8220;) und IBM (Produkt &#8222;Blu&#8220;)? 
+b) Auf welche Weise und von wem wurden die Produkte &#8222;untersucht&#8220; bzw. 
+erprobt? 
+2. Aus welchen Gr&#252;nden wurde die geplante Studie &#8222;Wissenserschlie&#223;ung aus 
+offenen Quellen&#8220; (WeroQ) nicht durchgef&#252;hrt (Plenarprotokoll 18/192, 
+S. 19133 (D))? 
+a) Welches Fraunhofer-Institut und welche weiteren Beteiligten sollten die 
+Studie durchf&#252;hren? 
+b) Sofern der Zuwendungsbescheid durch das BAAINBw an das
+Fraunhofer-Institut niemals erfolgte, welche Gr&#252;nde kann die Bundesregierung 
+hierzu mitteilen (Schreiben des Parlamentarischen Staatssekret&#228;r Dr. Ole 
+Schr&#246;der vom 22. Juli 2014, http://gleft.de/2hE)? 
+c) Welche Forschungen zu &#8222;marktverf&#252;gbare[n] Analysetools&#8220; zur
+Erfassung &#8222;von Meinungs- und Stimmungslagen der Bev&#246;lkerung&#8220; hat die 
+Bundeswehr in den letzten f&#252;nf Jahren betrieben bzw. beauftragt? 
+d) Was ergab die Erprobung der beiden Analysetools &#8222;Textrapic&#8220; und 
+&#8222;Brandwatch&#8220;?  
+e) Welche &#228;hnlichen Forschungen zur &#8222;IT-gest&#252;tzten
+Nachrichtengewinnung aus offenen Quellen&#8220; (sogenannte OSINT-Verfahren) hat die
+Bundeswehr in den letzten f&#252;nf Jahren betrieben bzw. beauftragt (bitte auch 
+mitteilen, welche Anwendungen &#8222;betrachtet&#8220; wurden)?
+3. Welche Soft-und Hardware welcher Hersteller hat das BMVg im Rahmen 
+einer &#8222;grunds&#228;tzlichen Marktanalyse/-sichtung zu entsprechenden
+Produkten&#8220; zur Prognose von gro&#223;en Datenmengen gepr&#252;ft, und aus welchen
+Erw&#228;gungen wurde sich gegen die Beschaffung entschieden
+(Bundestagsdrucksache 19/1979, Antwort auf die Schriftliche Frage 77 des Abgeordneten Omid 
+Nouripour)? 
+4. Nach welchem Verfahren hat das BMVg eine solche Marktsichtung
+durchgef&#252;hrt, bzw. wie wurden die zu sichtenden Produkte und Firmen gefunden? 
+5. Mit welchen Firmen hat das BMVg anschlie&#223;end &#8222;ein Gespr&#228;ch&#8220; gef&#252;hrt, 
+und wer nahm seitens der Bundeswehr und des Bundesministeriums daran 
+teil? 
+6. Welche Soft- und Hardware welcher Hersteller hat das BMVg zur Prognose 
+von gro&#223;en Datenmengen beschafft, und welche weiteren Beschaffungen 
+sind geplant (&#8222;Blick in die Zukunft: Big-Data-Software f&#252;r die Bundeswehr&#8220;, 
+bundeswehr-journal.de vom 2. Juni 2018)? 
+a) Welche Defizite sollen mit der Beschaffung ausgeglichen werden? 
+b) Auf welche Weise soll die Technik helfen, &#8222;Ausstattungs- und
+Versorgungsprobleme bei der Bundeswehr&#8220; zu erkennen und ihre L&#246;sung zu
+bef&#246;rdern (bitte hierzu auch die technische Funktionsweise erl&#228;utern)? 
+7. Wann wurde die Software installiert, wann startete und wann endet der
+Wirkbetrieb im Pilotprojekt? 
+8. Inwiefern soll die Software &#8222;IBM Watson&#8220; auch zur Vorhersage politischer 
+Ereignisse (&#8222;Krisen&#8220;) oder zur Bestimmung allgemeiner Meinungs- und 
+Stimmungslagen genutzt werden? 
+a) Welche Funktionalit&#228;ten der Software sind der Bundesregierung hierzu 
+bekannt? 
+b) F&#252;r welche Zeitr&#228;ume verspricht die Software, dass &#8222;potenzielle Krisen&#8220; 
+vor ihrer Entstehung vorhergesagt werden k&#246;nnten? 
+9. Welche Daten bzw. welche Quellen (auch OSINT) sollen mit der Software 
+&#8222;IBM Watson&#8220; verarbeitet werden (bitte f&#252;r jedes Produkt einzeln
+darstellen)? 
+a) Auf welche &#246;ffentlichen und nicht&#246;ffentlichen Datenbanken fr&#252;herer
+Ereignisse (etwa &#8222;Global Data on Events, Location and Tone&#8220;) greift die 
+Software zur&#252;ck? 
+b) Inwiefern und auf welche Art werden diese Quellen, deren eigene Quellen 
+und ihre jeweilige Zuverl&#228;ssigkeit evaluiert, bzw. inwieweit erfolgt eine 
+Kontrolle und Validierung der gesammelten Daten durch andere
+Erkenntnisse (http://gleft.de/2hO)?  
+c) Auf welche Regionen der Welt sind diese Quellen und Datenbanken
+bezogen?  
+d) Werden die &#252;ber diese Datenbanken erlangten Daten bei der Bundeswehr 
+auch zu irgendeinem anderen Zweck genutzt (unabh&#228;ngig von &#8222;IBM 
+Watson&#8220;)?
+10. Welche Konsequenzen ziehen das BMVg und die Bundeswehr f&#252;r die
+geplante Krisenvorhersage mit &#8222;Watson&#8220; aus den Erfahrungen mit &#8222;Tay&#8220;, dem 
+auf k&#252;nstlicher Intelligenz basierenden Chat-Bot von Microsoft, der im Jahr 
+2016 aufgrund der ihm im Netz zug&#228;nglich gewordenen Daten innerhalb
+k&#252;rzester Zeit begann, anderen Nutzern sexistische und rassistische Nachrichten 
+zu schreiben (http://gleft.de/2i5; http://gleft.de/2i6), sowie den Erfahrungen 
+mit IBMs &#8222;Watson&#8220; selbst, das u. a. begann, sich in Obsz&#246;nit&#228;ten
+auszudr&#252;cken, nachdem es im Netz den &#8222;Urban Dictionary&#8220; gelesen hatte (http:// 
+gleft.de/2hP)? 
+11. Welche einmaligen Kosten entstanden f&#252;r die Beschaffung von Software zur 
+Vorhersage politischer Ereignisse (&#8222;Krisen&#8220;), und welche j&#228;hrlichen
+Lizenzen (auch f&#252;r den Zugriff auf Datenbanken mit politischen Ereignissen)
+werden f&#228;llig, sollte sich das BMVg f&#252;r einen Kauf entscheiden (bitte f&#252;r jedes 
+Produkt einzeln darstellen)? 
+a) Welche Rolle spielt der &#8222;Cyber Innovation Hub&#8220; der Bundeswehr bei der 
+Beschaffung und dem Betrieb von digitalen Prognosewerkzeugen f&#252;r das 
+BMVg (http://gleft.de/2hy)? 
+b) Welche privaten Firmen oder Institute geh&#246;ren dem &#8222;Cyber Innovation 
+Hub&#8220; an? 
+12. Welche Einheiten der Bundeswehr sollen die Software zur Vorhersage
+politischer Ereignisse (&#8222;Krisen&#8220;) nutzen? 
+a) Welche milit&#228;rischen Konsequenzen bzw. sicherheitspolitischen
+Erkenntnisse sollen ggf. aus Krisenmeldungen von &#8222;IBM Watson&#8220; gezogen
+werden?  
+b) Bis zu welcher Reaktionsstufe sollen im Falle einer von &#8222;IBM Watson&#8220; 
+gemeldeten &#8222;Krise&#8220; seitens des BMVg oder der Bundeswehr Ma&#223;nahmen 
+ergriffen werden k&#246;nnen?  
+13. Welche weiteren Bundesbeh&#246;rden (auch das Bundeskanzleramt) nutzen SAP 
+HANA, planen eine Beschaffung oder haben das Produkt &#8222;untersucht&#8220;? 
+14. Welche konkreten Dienstleistungen hat das BMVg seit Beantwortung der 
+Bundestagsdrucksache 18/5196 von SAP in Anspruch genommen, welche 
+Produkte wurden beschafft, und welche Kosten entstanden daf&#252;r?  
+15. Wie viele SAP-Mitarbeiterinnen und -Mitarbeiter (auch von Tochterfirmen 
+wie SAP NS2, Inxight, Sybase) sind derzeit in welchen Projekten f&#252;r die 
+Bundeswehr t&#228;tig? 
+16. Welche &#8222;Lehrg&#228;nge&#8220; hat die US-Firma Attensity f&#252;r die Bundeswehr
+durchgef&#252;hrt, und welche vergleichbaren Veranstaltungen wurden von anderen 
+US-Firmen organisiert (Bundestagsdrucksache 18/5196, Antwort zu
+Frage 7)? 
+17. Welche Erkenntnisse besitzt die Bundesregierung &#252;ber Datenintegrit&#228;t,
+Hintert&#252;ren, Black Boxes etc. der zu beschaffenden Software von SAP und IBM 
+oder weiterer Anbieter bzw. &#252;ber eine Zusammenarbeit der Hersteller mit 
+Geheimdiensten, bzw. inwiefern wurde dies &#252;berhaupt gepr&#252;ft? 
+18. Werden nur das BMVg und die Bundeswehr mit Programmen ausgestattet 
+und mit Programmen arbeiten, die (mit oder ohne In-Memory-Technologie) 
+&#8222;potenzielle Krisen&#8220; oder Betriebsabl&#228;ufe vorhersehen sollen, oder auch
+beispielsweise das Ausw&#228;rtige Amt, das Bundesministerium f&#252;r wirtschaftliche 
+Zusammenarbeit und Entwicklung, das Bundesministerium des Innern, f&#252;r 
+Bau und Heimat (BMI) oder die Geheimdienste?
+19. In welchen Vorhaben forschen Beh&#246;rden des BMVg (auch die Universit&#228;ten 
+der Bundeswehr) oder des BMI derzeit zu den Feldern 
+a) Verbesserung von automatisierten Verfahren des &#8222;Data Minings&#8220;, 
+b) Verarbeitung von &#8222;Massendaten&#8220; in (nahezu) Echtzeit, 
+c) In-Memory-Technologie, 
+d) &#8222;Prediktive Analyse&#8220; bzw. &#8222;Vorhersagende Schlussfolgerungen&#8220; oder 
+Ausgabe von kriminalistischen &#8222;Hypothesen&#8220;, 
+e) Computergest&#252;tzte Auswertung von sozialen Medien (darunter Twitter, 
+Facebook), 
+f) Analyse sozialer Netzwerke oder Suchmaschinen zum Aufsp&#252;ren von
+Gefahren, 
+g) Visuelle Darstellung &#246;ffentlich zug&#228;nglicher Open-Source-Informationen 
+als automatisiertes datenbankgest&#252;tztes Tool zur Datensammlung,
+Auswertung, Analyse, 
+h) Intelligente Auswertung von Sensoren im &#246;ffentlichen Raum
+(Bundestagsdrucksache 18/7966)? 
+20. Welche Erfahrungen hat das Bundeskriminalamt als assoziierter Partner aus 
+dem im Rahmen der F&#246;rderbekanntmachung zum Themenfeld &#8222;Zivile
+Sicherheit &#8211; Schutz vor organisierter Kriminalit&#228;t&#8220; im Rahmen des Programms 
+&#8222;Forschung f&#252;r die zivile Sicherheit II&#8220; eingereichten Forschungsprojekt 
+Linked-Data-basierte Kriminalanalyse (LiDaKrA) gewonnen
+(Bundestagsdrucksache 18/7966, Antwort zu Frage 7)? 
+a) Wer nahm an dem Projekt teil, und welche Produkte oder Verfahren
+wurden dabei entwickelt? 
+b) Die Zusammenf&#252;hrung welcher polizeilicher, &#246;ffentlicher oder sonstiger 
+Datenquellen (auch &#8222;Dark Web&#8220;) wurde in dem Projekt beforscht? 
+c) Welche &#8222;von den Anbietern angebotenen Schnittstellen zu &#246;ffentlichen 
+Quellen&#8220; wurden dabei genutzt (Bundestagsdrucksache 18/8323, Antwort 
+zu Frage 11)? 
+Berlin, den 13. Juni 2018  
+Dr. Sahra Wagenknecht, Dr. Dietmar Bartsch und Fraktion
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Satz: Satzweiss.com Print, Web, Software GmbH, Mainzer Stra&#223;e 116, 66121 Saarbr&#252;cken, www.satzweiss.com 
+Druck: Printsystem GmbH, Schafw&#228;sche 1-3, 71296 Heimsheim, www.printsystem.de 
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de 
+ISSN 0722-8333]</text>
+    <titel>&#8222;Big Data&#8220; und Software zur Vorhersage von &#8222;Krisen&#8220; bei der Bundeswehr</titel>
+    <datum>2018-06-19</datum>
+  </document>

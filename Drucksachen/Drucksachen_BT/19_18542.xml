@@ -1,0 +1,182 @@
+<document>
+    <id>240315</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/18542</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>bf354cae92fff3b50f99d396624cde9d</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>259945</id>
+      <titel>Limitierungen von WLAN im Schienenpersonenfernverkehr</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium f&#252;r Verkehr und digitale Infrastruktur</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/185/1918542.pdf</pdf_url>
+      <id>240315</id>
+      <dokumentnummer>19/18542</dokumentnummer>
+      <datum>2020-04-08</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Antwort
+der Bundesregierung
+auf die Kleine Anfrage der Abgeordneten Wolfgang Wiehle, Dr. Dirk Spaniel, 
+Matthias B&#252;ttner, weiterer Abgeordneter und der Fraktion der AfD
+&#8211; Drucksache 19/17719 &#8211;
+Limitierung von WLAN im Schienenpersonenfernverkehr
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+W&#228;hrend Bahnfahrten im Schienenpersonenfernverkehr (SPFV) einen
+Internetzugang nutzen zu k&#246;nnen, stellt f&#252;r viele Reisende einen erheblichen
+Komfortfaktor dar. Neben der Nutzung von Nachrichtenportalen,
+Freizeitangeboten, Kommunikation mit Familie und Freunden, oder
+Verbindungsneuplanungen bei Versp&#228;tungen ist es auch m&#246;glich, die Zeit der Bahnfahrt f&#252;r mobiles 
+Arbeiten zu nutzen, wie in der Tipps &amp; Tricks-Rubrik auf bahn.de beworben 
+(https://inside.bahn.de/bahn-rollendes-buero/). Theoretisch haben Fahrg&#228;ste 
+die M&#246;glichkeit, das Internet &#252;ber die Mobilfunk-Datenverbindung zu nutzen, 
+doch nicht jeder verf&#252;gt tats&#228;chlich dar&#252;ber und diese Technik ist weniger
+zuverl&#228;ssig als eine WLAN-Verbindung.
+Verschiedene Internetanwendungen ben&#246;tigen unterschiedlich viel
+Datenvolumen und Down- sowie Upstreamgeschwindigkeit. So ben&#246;tigt &#8222;Google Maps&#8220; 
+2 bis 3 Megabyte (MB) pro Minute, Youtube in 1080p-Qualit&#228;t 30 MB pro 
+Minute, Videotelefonie zwischen 6 und 8 MB pro Minute (https://www.pcwel
+t.de/a/wie-viel-datenvolumen-brauche-ich,3448702). Auch Nachrichtenseiten 
+ben&#246;tigen heutzutage ein erhebliches Datenvolumen, wie unter anderem auf 
+der Seite https://www.uptrends.de/tools/website-ladezeit-check nachgepr&#252;ft 
+werden kann. Von den Fragestellern beispielhaft ausgew&#228;hlte
+Nachrichtenseiten zeigen hier ein ben&#246;tigtes Datenvolumen von 6 bis 10 MB allein pro 
+Aufruf der Startseite der jeweiligen Nachrichtenseite. Nach Ansicht der
+Fragesteller ist es leicht ersichtlich, dass auch bei eingeschr&#228;nkter Internetnutzung, 
+unter anderem dem Verzicht auf Videobeitr&#228;ge, sehr schnell erhebliche
+Datenmengen anfallen k&#246;nnen. Das Datenvolumen steigert sich um ein Vielfaches, 
+wenn Reisende w&#228;hrend der Bahnfahrt Videostreamingangebote nutzen
+wollen.
+Deutscher Bundestag Drucksache 19/18542
+19. Wahlperiode 08.04.2020
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums f&#252;r Verkehr und digitale
+Infrastruktur vom 6. April 2020 &#252;bermittelt.
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext.
+1. In welchen Zugarten (ICE, IC, EC) und auf welchen Linien bzw.
+Linienabschnitten des SPFV bieten nach Kenntnis der Bundesregierung die
+Unternehmen der Deutschen Bahn (DB) AG WLAN im Zug an bzw. planen 
+die Unternehmen dies f&#252;r die Zukunft (bitte je nach verf&#252;gbaren Daten 
+sinnvoll nach Prozent, Kilometern oder Z&#252;gen aufschl&#252;sseln)?
+a) Wenn WLAN geplant ist, f&#252;r welches Jahr ist die Einf&#252;hrung
+vorgesehen?
+b) In welchen Zugarten und auf welchen Linien bzw. Linienabschnitten 
+des SPFV besteht bei der Nutzung von WLAN eine
+Volumenbegrenzung?
+Die Fragen 1 bis 1b werden gemeinsam beantwortet.
+Nach Auskunft der Deutschen Bahn AG (DB AG) bietet sie den Kunden seit 
+Anfang 2017 kostenfreies WLAN in allen ICE-Z&#252;gen an. Die DB AG
+investiert &#252;ber 30 Millionen Euro in die Ausr&#252;stung der Intercity-Flotte mit
+kostenfreiem WLAN. Bis zu 1.000 Wagen sollen sukzessive umger&#252;stet werden. Im 
+Jahr 2019 wurden 153 von 760 Intercity 1-Reisezugwagen umger&#252;stet. Mit
+dieser Erweiterung auf die Intercity-Flotte werden Reisende ab Ende 2021 in allen 
+Fernverkehrsz&#252;gen kostenfreies WLAN nutzen k&#246;nnen.
+In den ausgestatteten Fernverkehrsz&#252;gen ist WLAN auf allen
+Streckenabschnitten verf&#252;gbar &#8211; auch im Ausland (&#214;sterreich, Schweiz, Frankreich, Belgien, 
+Niederlande). Eine Volumenbegrenzung besteht nicht. Die Kunden haben &#252;ber 
+die gesamte Reise die M&#246;glichkeit, WLAN zu nutzen &#8211; sofern die Versorgung 
+der Strecke durch die Mobilfunknetzbetreiber gew&#228;hrleistet ist.
+2. Wie hoch ist nach Kenntnis der Bundesregierung die maximal zur
+Verf&#252;gung stehende Daten&#252;bertragungsrate f&#252;r Download und Upload im 
+SPFV f&#252;r den gesamten Zug (bitte je nach verf&#252;gbaren Daten sinnvoll 
+nach Prozent, Kilometern oder Z&#252;gen aufschl&#252;sseln)?
+3. Wie hoch ist nach Kenntnis der Bundesregierung die normalerweise zur 
+Verf&#252;gung stehende Daten&#252;bertragungsrate f&#252;r Download und Upload im 
+SPFV f&#252;r den gesamten Zug (bitte je nach verf&#252;gbaren Daten sinnvoll 
+nach Prozent, Kilometern oder Z&#252;gen aufschl&#252;sseln)?
+Die Fragen 2 und 3 werden aufgrund ihres Sachzusammenhangs gemeinsam 
+beantwortet.
+Die maximal zur Verf&#252;gung stehende Bandbreite an den Strecken des
+Fernverkehrs ist unterschiedlich und h&#228;ngt vom Ausbau der Mobilfunknetze ab. Zur 
+maximalen Ausnutzung der Bandbreiten ist in der Fernverkehrsflotte ein
+Multiprovidersystem verbaut, das auf die Netze aller Mobilfunknetzbetreiber
+zugreift.
+Zu durchschnittlichen Daten&#252;bertragungsraten der drei Mobilfunknetzbetreiber 
+Telekom, Telef&#243;nica und Vodafone jeweils entlang der ICE-Trassen liegen der 
+DB AG keine Daten vor.
+Im &#220;brigen liegen der Bundesregierung keine weiteren eigenen Informationen 
+vor.
+4. Wie definiert die Bundesregierung einen leistungsf&#228;higen mobilen
+Internetzugang im Schienenpersonenfernverkehr (bitte nach den Zugarten des 
+SPFV aufschl&#252;sseln)?
+a) Soll es den Fahrg&#228;sten erm&#246;glicht werden, w&#228;hrend der Fahrt
+Videostreamingangebote nutzen zu k&#246;nnen, und wenn ja, in welcher
+Qualit&#228;t?
+b) Soll es den Fahrg&#228;sten erm&#246;glicht werden, an Videokonferenzen
+w&#228;hrend der Fahrt teilzunehmen?
+c) Welche Daten&#252;bertragungsraten bei Download und Upload sollen
+jedem einzelnen Fahrgast bei voll ausgelasteten Z&#252;gen erm&#246;glicht
+werden?
+5. Welche Internetgeschwindigkeiten im Down- und Upstream will die
+Deutsche Bahn AG nach Kenntnis der Bundesregierung ihren Kunden im 
+Schienenpersonenfernverkehr erm&#246;glichen (bitte nach den Zugarten des 
+SPFV aufschl&#252;sseln)?
+a) Will die Deutsche Bahn AG den Fahrg&#228;sten erm&#246;glichen, w&#228;hrend der 
+Fahrt Videostreamingangebote nutzen zu k&#246;nnen?
+Wenn ja, in welcher Qualit&#228;t?
+b) Will die Deutsche Bahn den Fahrg&#228;sten erm&#246;glichen, w&#228;hrend der 
+Fahrt an Videokonferenzen teilzunehmen?
+c) Welche Daten&#252;bertragungsraten bei Download und Upload will die 
+Deutsche Bahn jedem einzelnen Fahrgast bei voll ausgelasteten Z&#252;gen 
+erm&#246;glichen?
+Die Fragen 4 bis 5c werden aufgrund ihres Sachzusammenhangs gemeinsam 
+beantwortet.
+Nach Auskunft der DB AG erwarten ihre Fahrg&#228;ste eine Internetverbindung, 
+wie zu Hause oder im B&#252;ro, z. B. Videostreaming in HD. Die Nutzung von 
+Videostreaming-Angeboten ist in allen Z&#252;gen der ICE-Flotte sowie
+entsprechend ausger&#252;steten IC-Z&#252;gen m&#246;glich. Um den Fahrg&#228;sten &#252;ber die
+Versorgung der Netzbetreiber hinaus ein Basisangebot an qualitativ verl&#228;sslichen 
+Streaminginhalten bieten zu k&#246;nnen, haben die ICE-Z&#252;ge zus&#228;tzlich ein 
+Onboard-Streaming-Angebot im Zug. Technisch sind der Zugang und die
+Nutzung von Audio- und Videokonferenzen in den Fernverkehrsz&#252;gen auch
+m&#246;glich. Die Leistungsf&#228;higkeit der Mobilfunknetze bestimmt die Qualit&#228;t.
+Die durch die Mobilfunknetzbetreiber entlang der Eisenbahnstrecken zur
+Verf&#252;gung gestellten Datenraten werden auf alle Fahrg&#228;ste verteilt. Die Z&#252;ge
+nutzen alle zur Verf&#252;gung stehenden Mobilfunknetze parallel. Nach Auskunft der 
+DB AG ist ein festes Kundenversprechen aufgrund der
+Kapazit&#228;tsschwankungen der Netze entlang der Strecken bisher nicht m&#246;glich. Der zuk&#252;nftige
+kontinuierliche Bandbreitenbedarf der Fahrg&#228;ste wird in einem vollen Zug zurzeit 
+auf 1 Gbit/s pro Zug gesch&#228;tzt.
+Der Bandbreitenbedarf w&#228;chst jedoch kontinuierlich. Die DB Fernverkehr AG 
+nutzt mit der Multiprovidertechnik die derzeit beste Technologie, um die
+entlang der Strecken anliegenden Mobilfunkressourcen optimal zu b&#252;ndeln. Nach 
+Auskunft der DB AG ist es das Ziel, die bestm&#246;glich Bandbreite zur Verf&#252;gung 
+zu stellen.
+6. Mit welcher Technik wird die Internetanbindung der Fernverkehrsz&#252;ge der 
+DB Fernverkehr AG nach Kenntnis der Bundesregierung realisiert (bitte 
+nach den Zugarten des SPFV aufschl&#252;sseln)?
+a) Ist ein Umstieg auf eine andere Technik geplant, und wenn ja, auf
+welche Technik?
+b) Wann ist dieser Umstieg geplant?
+Die Fragen 6 bis 6b werden gemeinsam beantwortet.
+Die aktuell genutzte Multiprovidertechnologie greift auf LTE und Advanced 
+LTE zu.
+Der Umstieg auf neue Technologien erfolgt nach Auskunft der DB AG in
+regelm&#228;&#223;igen Zyklen, sofern die neuen Technologien an Eisenbahnstrecken im 
+Kernnetz nutzbar sind.
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/17719 -
+Limitierungen von WLAN im Schienenpersonenfernverkehr</titel>
+    <datum>2020-04-08</datum>
+  </document>

@@ -1,0 +1,196 @@
+<document>
+    <id>248321</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/25062</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>263dab534b28cb01b65b2d2150bd2549</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>270573</id>
+      <titel>Beschaffungsstrategie des Bundes bei der Ausschreibung von IT-Rahmenvereinbarungen (Vergabeverfahren Red Hat)</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium des Innern, f&#252;r Bau und Heimat</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/250/1925062.pdf</pdf_url>
+      <id>248321</id>
+      <dokumentnummer>19/25062</dokumentnummer>
+      <datum>2020-12-08</datum>
+      <verteildatum>2020-12-15</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Antwort
+der Bundesregierung
+auf die Kleine Anfrage der Abgeordneten Karsten Klein, Christian D&#252;rr,
+Otto Fricke, weiterer Abgeordneter und der Fraktion der FDP
+&#8211; Drucksache 19/24666 &#8211;
+Beschaffungsstrategie des Bundes bei der Ausschreibung von IT-
+Rahmenvereinbarungen (Vergabeverfahren Red Hat)
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Die Zentralstelle IT-Beschaffung (&#8222;ZIB&#8220;) im Beschaffungsamt (BeschA) des 
+Bundesministeriums des Innern, f&#252;r Bau und Heimat f&#252;hrt regelm&#228;&#223;ig
+Ausschreibungen zu gro&#223;volumigen IT-Rahmenvereinbarungen durch, darunter zu 
+Beginn des Jahres 2020 eine Ausschreibung einer Rahmenvereinbarung &#252;ber 
+die Lieferung von Softwareprodukten des Herstellers Red Hat
+(&#8222;Vergabeverfahren Red Hat&#8220;). Die Ausschreibung war in drei Lose f&#252;r das
+Informationstechnikzentrum Bund und die BWI GmbH (Los 1), die unmittelbare
+Bundesverwaltung (Los 2) und die mittelbare Bundesverwaltung (Los 3) aufgeteilt 
+und sah eine Loslimitierung (Zuschlag f&#252;r maximal ein Los pro Bieter) vor.
+Nach &#167; 97 Absatz 4 Satz 1 des Gesetzes gegen Wettbewerbsbeschr&#228;nkungen 
+(GWB) dient das Instrument der Losvergabe bei der Vergabe von &#246;ffentlichen 
+Auftr&#228;gen vor allem der Ber&#252;cksichtigung von Mittelstandsinteressen. Gem&#228;&#223; 
+&#167; 97 Absatz 4 Satz 2 GWB sind Leistungen in der Menge aufgeteilt (Teillose) 
+und getrennt nach Art oder Fachgebiet (Fachlose) zu vergeben. Mehrere
+Teiloder Fachlose d&#252;rfen explizit zusammen vergeben werden, wenn
+wirtschaftliche oder technische Gr&#252;nde dies erfordern.
+Das Vergabeverfahren Red Hat steht in direktem Zusammenhang mit dem im 
+April 2020 vom BeschA vorgelegten Schriftlichen Marktdialog zum &#8222;Umgang 
+mit gro&#223;en Beschaffungsvolumina, insbesondere bei herstellerbezogenen
+Ausschreibungen&#8220; (&#8222;Marktdialog&#8220;), der sich zur strategischen Vorgehensweise bei 
+der Abwicklung gro&#223;volumiger IT-Beschaffungen, insbesondere zum
+Grundsatz der Losvergabe und der Loslimitierung verh&#228;lt.
+Das Vergabeverfahren Red Hat hat gezeigt, dass die Ber&#252;cksichtigung des 
+Grundsatzes der losweisen Vergabe bei der Ausschreibung von IT-Leistungen 
+die Beschaffung der ausgeschriebenen Leistungen verteuert, da Skaleneffekte 
+ungenutzt bleiben und Mengenrabatte der Hersteller nicht ausgegeben werden.
+Deutscher Bundestag Drucksache 19/25062
+19. Wahlperiode 08.12.2020
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums des Innern, f&#252;r Bau und Heimat 
+vom 8. Dezember 2020 &#252;bermittelt.
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext.
+1. Welche spezifischen Beweggr&#252;nde hat das BeschA, das Instrument der 
+Losaufteilung, das bereits seit Jahren Gegenstand des Kartellvergaberechts 
+in &#167; 97 Absatz 4 GWB ist, im Vergabeverfahren Red Hat anzuwenden
+und seit Kurzem verst&#228;rkt in den Fokus seiner IT-Beschaffungsstrategie zu 
+r&#252;cken?
+Das Beschaffungsamt des BMI wendet die IT-Beschaffungsstrategie der
+Bundesverwaltung mit Stand vom 26. November 2018 gem&#228;&#223; Beschluss der
+Konferenz der IT-Beauftragten der Ressorts vom 11. Dezember 2018 (Beschluss 
+Nr. 2018/14) als verpflichtende Handlungsgrundlage an. Die konstitutiven 
+Ziele der IT-Beschaffungsstrategie werden unter Ber&#252;cksichtigung der
+Rahmenparameter des Marktes und der spezifischen Eigenschaften der
+ausgeschriebenen Produkte umgesetzt.
+Spezifischer Beweggr&#252;nde, das Instrument der Losaufteilung zu nutzen, bedarf 
+es grunds&#228;tzlich nicht. Vielmehr besteht eine grunds&#228;tzliche gesetzliche
+Verpflichtung zur losweisen Vergabe. Hiervon ist nur abzusehen, wenn
+wirtschaftliche oder technische Gr&#252;nde dies erforderlich machen (&#167; 97 Absatz 4 des
+Gesetzes gegen Wettbewerbsbeschr&#228;nkungen [GWB]). Eine derartige
+Erforderlichkeit einer Gesamtvergabe bestand im Vergabeverfahren Red Hat nicht. Eine 
+solche Ausnahme ist auch nicht durch die Ausschreibung einer
+Rahmenvereinbarung begr&#252;ndet. Die unterschiedlichen M&#246;glichkeiten der Vergabekonzeption 
+wurden, wie bei jedem anderen Verfahren, sorgf&#228;ltig gepr&#252;ft und die Leistung 
+unter Beachtung der gesetzlichen Vorgaben in Lose aufgeteilt.
+2. Strebt das BeschA an, das im Vergabefahren Red Hat angewendete
+Instrument der Loslimitierung zuk&#252;nftig in jeder einzelnen Ausschreibung von 
+IT-Rahmenvereinbarungen anzuwenden, obwohl eine F&#246;rderung von 
+Wettbewerb nicht in jedem Fall &#252;ber eine Loslimitierung gesichert werden 
+kann?
+Die Entscheidung, ob das im Vergabefahren Red Hat angewendete Instrument 
+der Loslimitierung bei zuk&#252;nftigen Ausschreibung von IT-
+Rahmenvereinbarungen angewendet werden wird, wird jeweils fallspezifisch unter Abw&#228;gung der 
+Rahmenparameter des Marktes und der spezifischen Eigenschaften der
+ausgeschriebenen Produkte getroffen.
+3. Wie ber&#252;cksichtigt die Bundesregierung bei der Ausschreibung eines
+einheitlichen Beschaffungsgegenstandes in unterschiedlichen Losen, wie im 
+Vergabeverfahren Red Hat, bestehende Mittelstandsinteressen?
+Das Gebot der Losaufteilung ist in &#167; 97 Absatz 4 GWB vorgeschrieben und 
+dient selbst schon der Ber&#252;cksichtigung mittelst&#228;ndischer Interessen. Die
+Aufteilung einer umfangreicheren Leistung in Lose erweitert die M&#246;glichkeiten 
+kleiner und mittlerer Unternehmen sich an Vergabeverfahren zu beteiligen. 
+Denn werden umfangreiche Leistungen vergeben, ohne sie in Lose aufzuteilen, 
+&#252;bersteigen diese h&#228;ufig die Leistungsf&#228;higkeit kleiner und mittlerer
+Unternehmen. Durch eine Losaufteilung wird auch kleinen und mittelst&#228;ndischen
+Unternehmen (KMU) die M&#246;glichkeit geboten, sich an gro&#223;volumigen
+Ausschreibungen der &#246;ffentlichen Hand zu beteiligen. Ob ein kleines oder mittleres 
+Unternehmen in einem Vergabeverfahren den Zuschlag f&#252;r eines oder mehrere 
+Lose erh&#228;lt, h&#228;ngt von der Bewertung der verschiedenen Angebote im
+Einzelfall ab.
+Dar&#252;ber hinaus besteht nach &#167; 122 Absatz 4 GWB die Verpflichtung f&#252;r den 
+&#246;ffentlichen Auftraggeber nur solche Eignungskriterien (z. B. Mindest-
+Jahresumsatz, Haftpflichtversicherung mit vorgegebener Deckungssumme)
+vorzugeben, die in einem angemessenen Verh&#228;ltnis zum Auftragsgegenstand stehen. 
+Bei der Aufteilung in Lose ist der Ma&#223;stab f&#252;r die Angemessenheit nicht der 
+gesamte Auftrag, sondern nur das Los selbst, so dass entsprechend geringere 
+Anforderungen an die Eignung zu stellen sind.
+Zus&#228;tzlich wird durch eine Losvergabe an mehrere Unternehmen effektiv der 
+Bildung von faktischen Monopolen entgegengewirkt und der Wettbewerb
+nachhaltig gef&#246;rdert. Ob jedoch eine Vergabe in Lose aufgeteilt wird oder nicht, ist 
+vor dem Hintergrund der rechtlichen Vorgaben im jeweiligen Einzelfall unter 
+Ber&#252;cksichtigung der Rahmenparameter des Marktes und der spezifischen 
+Eigenschaften der ausgeschriebenen Produkte zu treffen.
+4. Nach welchen Kriterien hat das BeschA im Vergabeverfahren Red Hat 
+gepr&#252;ft, ob technische und wirtschaftliche Gr&#252;nde eine Gesamtvergabe
+erfordern?
+Wie ist die dazu erforderliche Abw&#228;gung zwischen den f&#252;r und wider die 
+Losvergabe streitenden Belangen im Einzelfall erfolgt?
+Es lagen keine Gr&#252;nde gem&#228;&#223; &#167; 97 Absatz 4 GWB zur Rechtfertigung einer 
+Gesamtvergabe vor. Entsprechend konnte kein Ausnahmetatbestand begr&#252;ndet 
+werden.
+5. Hat die Bundesregierung Erkenntnisse, dass sich die Losaufteilung im 
+Vergabeverfahren Red Hat negativ auf die Preis- und/oder Rabattstruktur 
+der Rahmenvereinbarung ausgewirkt hat, weil der Hersteller Red Hat nach 
+Einzelbetrachtung des Volumens pro Los eine unterschiedliche
+Rabattstaffel an die anbietenden IT-Systemh&#228;user freigegeben hat?
+Entsprechende Erkenntnisse liegen der Bundesregierung nicht vor.
+6. Wie hoch beziffert die Bundesregierung die Verteuerung der Leistungen 
+des Herstellers Red Hat nach Durchf&#252;hrung der Losvergabe im Gegensatz 
+zu einer Gesamtvergabe?
+Hierzu liegen der Bundesregierung keine Erkenntnisse vor.
+7. Wie verh&#228;lt sich die Verteuerung der Leistungen durch Losvergabe zur 
+Umsetzung des Grundsatzes der Wirtschaftlichkeit als dem zentralen
+Ausgangspunkt des deutschen und europ&#228;ischen Vergaberechts, der als
+Ausdruck des haushaltsrechtlichen Grundsatzes der Wirtschaftlichkeit und 
+Sparsamkeit die &#246;ffentliche Hand zum Einkauf der wirtschaftlichsten
+Leistung zwingt?
+8. Nimmt die Bundesregierung die Mehrkosten bewusst in Kauf,
+wohlwissend, dass der Bundesrechnungshof gro&#223;e Beschaffungen der &#246;ffentlichen 
+Hand besonders kritisch auf ihre Wirtschaftlichkeit und Rechtskonformit&#228;t 
+pr&#252;ft?
+9. Wie stellt die Bundesregierung sicher, dass die Losaufteilung nicht auf 
+Kosten der Steuerzahler erfolgt?
+Die Fragen 7 bis 9 werden aufgrund des Sachzusammenhangs gemeinsam
+beantwortet.
+Das Gebot der Losaufteilung in &#167; 97 Absatz 4 GWB ist ein wesentliches
+vergaberechtliches Instrument zur F&#246;rderung mittelst&#228;ndischer Interessen. Es
+erweitert die M&#246;glichkeiten kleiner und mittelst&#228;ndischer Unternehmen, an 
+&#246;ffentlichen Auftr&#228;gen teilhaben zu k&#246;nnen. Im zeitlichen Ablauf des
+Vergabeverfahrens ist es der sp&#228;teren Angebotspr&#252;fung, die das Ziel hat, das
+wirtschaftlichste Angebot zu identifizieren, weit vorgelagert, da es schon bei der
+Gesamtkonzeption zu Anfang des Vergabeverfahrens zu ber&#252;cksichtigen ist. Hier tr&#228;gt 
+die Losaufteilung dazu bei, dass die Wahrscheinlichkeit, eine gr&#246;&#223;ere Anzahl 
+von Angeboten zu erhalten, deutlich erh&#246;ht wird. Dabei k&#246;nnen die Angebote 
+kleinerer und mittlerer Unternehmen wirtschaftlicher sein als es das
+einheitliche Angebot eines gro&#223;en Unternehmens in einem Vergabeverfahren w&#228;re, in 
+dem keine Losaufteilung vorgenommen wurde. Vor diesem Hintergrund hat die 
+Bundesregierung keine Erkenntnisse dahingehend, dass das Gebot der
+Losaufteilung automatisch zu einer Verteuerung der &#246;ffentlichen Beschaffung f&#252;hrt. 
+Die Aufteilung in Lose kann vielmehr auch dazu beitragen, die Verf&#252;gbarkeit 
+eines breiteren Marktes von Anbietern sicherzustellen, was die Gefahr einer 
+Abh&#228;ngigkeit von wenigen gro&#223;en Anbietern mit einer faktischen
+Monopolstellung mit absehbar negativen Auswirkungen auf die Kosten der
+Beschaffungen reduziert.
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/24666 - 
+Beschaffungsstrategie des Bundes bei der Ausschreibung von IT-Rahmenvereinbarungen (Vergabeverfahren Red Hat)</titel>
+    <datum>2020-12-08</datum>
+  </document>
+  

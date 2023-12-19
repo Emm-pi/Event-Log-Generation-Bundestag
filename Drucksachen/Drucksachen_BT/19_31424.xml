@@ -1,0 +1,266 @@
+<document>
+    <id>256494</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/31424</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>137bc18a30292d2fbc941922e2aa1d44</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>279627</id>
+      <titel>K&#252;nstliche Intelligenz im Einsatz gegen Kinderpornografie</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium des Innern, f&#252;r Bau und Heimat</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/314/1931424.pdf</pdf_url>
+      <id>256494</id>
+      <dokumentnummer>19/31424</dokumentnummer>
+      <datum>2021-07-07</datum>
+      <verteildatum>2021-07-15</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Antwort
+der Bundesregierung
+auf die Kleine Anfrage der Abgeordneten Joana Cotar, Dr. Michael Espendiller, 
+Uwe Schulz und der Fraktion der AfD
+&#8211; Drucksache 19/31129 &#8211;
+K&#252;nstliche Intelligenz im Einsatz gegen Kinderpornografie
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Am 25. M&#228;rz 2021 hat der Deutsche Bundestag das &#8222;Gesetz zur Bek&#228;mpfung 
+sexualisierter Gewalt gegen Kinder&#8220; (Entwurf auf Bundestagsdrucksache 
+19/23707) beschlossen (https://www.bmjv.de/SharedDocs/Artikel/DE/2021/0
+32521_GE_sexualisierte_Gewalt.html). Das Gesetz sieht eine deutliche
+Versch&#228;rfung des Strafrechts, effektivere Strafverfolgungsm&#246;glichkeiten sowie 
+St&#228;rkung der Pr&#228;vention und der Qualifikation in der Justiz vor. In der
+Konsequenz sollen Kinder besser als bisher vor sexualisierter Gewalt gesch&#252;tzt 
+werden.
+Zur sexualisierten Gewalt gegen Kinder und Jugendliche z&#228;hlen auch die
+sogenannte Kinder- und Jugendpornografie, ihre Herstellung, ihre Verbreitung 
+und ihr Konsum. Der Vertrieb kinder- und jugendpornografischer Fotos und 
+Videos erfolgt zunehmend &#252;ber das Internet, speziell das Darknet. Das neue 
+Gesetz zur Bek&#228;mpfung sexualisierter Gewalt gegen Kinder wird nach
+Einsch&#228;tzung von Experten zu einem erh&#246;hten zu analysierenden
+Datenaufkommen und einer Zunahme der Zahl an Verfahren und Untersuchungsh&#228;ftlingen 
+f&#252;hren (https://www.land.nrw/de/media/video/bilanz-des-forschungsprojektes-
+bei-der-zac-nrw-im-kampf-gegen-kinderpornographie; ab 06:40 im Video).
+In einem gemeinsamen, jetzt abgeschlossenen und am 25. Mai 2021 der 
+&#214;ffentlichkeit vorgestellten Forschungsprojekt des Ministeriums der Justiz des 
+Landes Nordrhein-Westfalen, der Zentral- und Ansprechstelle Cybercrime 
+(ZAC) der Staatsanwaltschaft K&#246;ln und der Firma Microsoft Deutschland 
+konnte eine L&#246;sung mittels K&#252;nstlicher Intelligenz (KI) entwickelt werden, 
+die in der Lage ist, beschlagnahmtes Datenmaterial als kinder- oder
+jugendpornografisch einzustufen. Dabei werden Trefferquoten von 90 Prozent und 
+mehr erzielt (https://news.microsoft.com/de-de/kuenstliche-intelligenz-im-eins
+atz-gegen-kinderpornografie/). Bei der ZAC-AIRA (&#8222;Artificial Intelligence 
+enabled Rapid Assessment&#8220;) genannten KI-L&#246;sung werden die zu
+untersuchenden Daten durch einen Abstraktionslayer f&#252;r das menschliche Auge 
+unkenntlich gemacht, was das rechtssichere Speichern des inkriminierten 
+Materials in der Cloud erlaubt; der lernf&#228;hige Algorithmus kann das
+abstrahierte Datenmaterial auf lokalen Ger&#228;ten lesen, untersuchen und klassifizieren 
+(https://www.land.nrw/de/media/video/bilanz-des-forschungsprojektes-bei-de
+r-zac-nrw-im-kampf-gegen-kinderpornographie; ab 24:40 im Video).
+Deutscher Bundestag Drucksache 19/31424
+19. Wahlperiode 07.07.2021
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums des Innern, f&#252;r Bau und Heimat 
+vom 7. Juli 2021 &#252;bermittelt.
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext.
+Der Justizminister von Nordrhein-Westfalen spricht von einem weltweit
+einmaligen Arrangement, das die Arbeit der Ermittler im Kampf gegen
+Kinderpornografie revolutionieren werde (https://www.land.nrw/de/media/video/bila
+nz-des-forschungsprojektes-bei-der-zac-nrw-im-kampf-gegen-kinderpornogra
+phie; ab 09:27 im Video). Das maschinelle Vorfiltern der zu untersuchenden 
+Daten f&#252;hre zu einer erheblichen Beschleunigung des Verfahrens, zudem
+w&#252;rden menschliche Aus- und Bewerter von einer psychisch oft sehr
+anstrengenden T&#228;tigkeit entlastet. Die Software werde eingebettet in eine skalierbare 
+Infrastruktur, die das Zumieten weiterer Hardwarekapazit&#228;ten vom
+Dienstleister im Bedarfsfall erlaube. Zahlreiche Anfragen nationaler und
+internationaler Polizeibeh&#246;rden bereits in der Forschungsphase spr&#228;chen f&#252;r die
+Attraktivit&#228;t von ZAC-AIRA (https://www.land.nrw/de/media/video/bilanz-des-fors
+chungsprojektes-bei-der-zac-nrw-im-kampf-gegen-kinderpornographie; ab 
+17:10 im Video). Bis Ende des laufenden Jahres soll die trainierte KI-L&#246;sung 
+einsatztauglich sein (https://www.sueddeutsche.de/politik/kinderpornografie-e
+rmittlungen-nrw-kuenstliche-intelligenz-1.5308814?reduced=true).
+1. Geht die Bundesregierung davon aus, dass das neue &#8222;Gesetz zur
+Bek&#228;mpfung sexualisierter Gewalt gegen Kinder&#8220; zu einem sp&#252;rbaren Anstieg
+einschl&#228;giger Verfahren und einem wachsenden zu analysierenden
+Datenvolumen zu Beweiszwecken f&#252;hren wird?
+a) Wenn ja, wo sieht die Bundesregierung die Gr&#252;nde daf&#252;r?
+Die Fragen 1 und 1a werden gemeinsam beantwortet.
+Da die Zahlen bekanntgewordener F&#228;lle des sexuellen Missbrauchs von
+Kindern und der Verbreitung, des Besitzes und der Besitzverschaffung von
+Kinderpornographie deutlich gestiegen waren, wurden durch das &#8222;Gesetz zur
+Bek&#228;mpfung sexualisierter Gewalt gegen Kinder&#8220; die materiell-rechtlichen und
+prozessualen Strafvorschriften erweitert, damit sie ihre Schutzfunktion f&#252;r Kinder 
+besser entfalten k&#246;nnen. Im Einzelnen wird insoweit auf die Begr&#252;ndung des 
+Gesetzentwurfs (Bundestagsdrucksache 19/23707, S. 19 ff.) verwiesen.
+In welchem konkreten Umfang diese Ma&#223;nahmen zu einem Anstieg der Anzahl 
+und des Umfangs von Ermittlungsverfahren f&#252;hren werden, wird sich erst in 
+der Praxis der Anwendung des Gesetzes zur Bek&#228;mpfung sexualisierter Gewalt 
+gegen Kinder zeigen, das bez&#252;glich der straf- und strafverfahrensrechtlichen 
+Regelungen zum 1. Juli 2021 in Kraft getreten ist.
+b) Wenn ja, ist der Bundesregierung bekannt, wie die Bundesl&#228;nder
+darauf reagieren und konkret sicherstellen, dass angesichts einer
+mutma&#223;lich steigenden Belastung der Strafverfolgungsbeh&#246;rden im
+Bereich der Kinderpornografie deren Arbeit noch effizienter und
+schneller vonstattengeht (bitte ausf&#252;hren)?
+Dazu liegen der Bundesregierung keine n&#228;heren Erkenntnisse vor, da
+entsprechende Ma&#223;nahmen in der Zust&#228;ndigkeit der L&#228;nder liegen.
+c) Wenn ja, kann die Bundesregierung angeben, ob und wenn ja, in
+welchem Umfang Bundesbeh&#246;rden wie das Bundeskriminalamt (BKA) in 
+die Strafverfolgung im Bereich der Kinderpornografie involviert sein 
+werden, und inwieweit sichergestellt wird, dass deren Arbeit noch
+effizienter und schneller vonstattengeht?
+Grunds&#228;tzlich ist das Bundeskriminalamt in die Strafverfolgung dieser Delikte 
+im Wesentlichen im Rahmen seiner Zentralstellenfunktion involviert. Die beim 
+Bundeskriminalamt eingehenden Hinweise werden hinsichtlich der jeweiligen 
+&#246;rtlichen Zust&#228;ndigkeit gepr&#252;ft und den entsprechenden
+Strafverfolgungsbeh&#246;rden zugeleitet, denen die origin&#228;re Bearbeitung obliegt. Im &#220;brigen wird auf 
+die Antwort zu Frage 1b verwiesen.
+d) Welche Investitionen personeller, infrastruktureller, technischer und 
+finanzieller Art sind gegebenenfalls seitens der Bundesregierung
+vorgesehen?
+Hinsichtlich der im Zust&#228;ndigkeitsbereich des Bundes liegenden
+Aufwendungen wird auf die Angaben in der Einleitung des Gesetzentwurfs
+(Bundestagsdrucksache 19/23707, S. 3 f.) verwiesen.
+e) Wenn ja, kann die Bundesregierung quantifizieren, wie gro&#223; das
+sichergestellte, zu analysierende Datenvolumen im Bereich der
+Kinderpornografie gegenw&#228;rtig ist (bitte j&#252;ngste verf&#252;gbare Daten angeben), 
+und wie wird sich nach Einsch&#228;tzung der Bundesregierung oder einer 
+ihr nachgeordneten Beh&#246;rde das zu analysierende Datenvolumen im 
+Bereich der Kinderpornografie in den kommenden Jahren quantitativ 
+entwickeln?
+Der Bundesregierung liegen hierzu keine seri&#246;s quantifizierbaren
+Informationen vor. Im Grundsatz darf von perspektivisch ansteigenden Datenvolumen 
+ausgegangen werden.
+2. Hat die Bundesregierung oder eine ihr nachgeordnete Beh&#246;rde der
+Strafverfolgung respektive der Abwehr der Cyberkriminalit&#228;t qualifizierte 
+Kenntnis von der genannten Software ZAC-AIRA (vgl. Vorbemerkung der 
+Fragesteller)?
+a) Wenn ja, h&#228;lt die Bundesregierung oder eine ihr nachgeordnete
+Beh&#246;rde der Strafverfolgung respektive der Abwehr der
+Cyberkriminalit&#228;t die genannte Software ZAC-AIRA f&#252;r ein geeignetes Werkzeug im 
+Kampf gegen Kinderpornografie (bitte gegebenenfalls begr&#252;nden)?
+b) Wenn ja, hat die Bundesregierung oder eine ihr nachgeordnete
+Beh&#246;rde bereits eine Auffassung zur der Software zugeschriebenen 
+F&#228;higkeit, kontextuelle R&#252;ckschl&#252;sse zu ziehen, ob ein
+Tatverd&#228;chtiger die auf einem Datentr&#228;ger sichergestellten Bilder &#8222;lediglich&#8220;
+empfangen oder selbst hergestellt hat (was ja einen Einfluss auf das zu
+erwartende Strafma&#223; h&#228;tte), und wie sieht diese Auffassung
+gegebenenfalls aus?
+c) Wenn ja, hat die Bundesregierung oder eine ihr nachgeordnete
+Beh&#246;rde bereits eine Auffassung zur der Software zugeschriebenen 
+F&#228;higkeit, bei der Schlagwortanalyse in sichergestellten Chatverl&#228;ufen 
+eine konsistente digitale Identit&#228;t eines Tatverd&#228;chtigen zu
+rekonstruieren, und wie sieht diese Auffassung gegebenenfalls aus?
+d) Wenn ja, hat die Bundesregierung oder eine ihr nachgeordnete
+Beh&#246;rde bereits eine Auffassung zur der Software zugeschriebenen 
+F&#228;higkeit, mit hoher Wahrscheinlichkeit zwischen Kinder- und
+Jugendpornografie einerseits und Familien- und
+Freundschaftsaufnahmen andererseits zu unterscheiden, und wie sieht diese Auffassung
+gegebenenfalls aus?
+e) Wenn ja, sind der Bundesregierung oder einer ihr nachgeordneten
+Beh&#246;rde der Strafverfolgung vergleichbare KI-L&#246;sungen zur
+Vorfilterung, Analyse und Klassifizierung beschlagnahmten Datenmaterials 
+zur Beweissicherung bekannt, und worin bestehen nach Auffassung 
+der Bundesregierung oder einer ihr nachgeordneten Beh&#246;rde die 
+Unterschiede der in Rede stehenden Softwarel&#246;sungen?
+Die Fragen 2 bis 2e werden gemeinsam beantwortet.
+Die Bundesregierung hat keine qualifizierte Kenntnis von der genannten
+Software &#8222;Artificial Intelligence enabled rapid assessment&#8220; (ZAC-AIRA). Im
+Rahmen des Informationsaustauschs des Bundeskriminalamtes mit den
+Strafverfolgungsbeh&#246;rden der L&#228;nder ist die erw&#228;hnte Software ZAC-AIRA allgemein 
+bekannt. Detaillierte Informationen und Prognosen hierzu liegen bei den
+Beh&#246;rden in Nordrhein-Westfalen vor.
+3. Plant die Bundesregierung oder eine ihr nachgeordnete Beh&#246;rde der
+Strafverfolgung respektive der Abwehr der Cyberkriminalit&#228;t den Einsatz der 
+genannten Software ZAC-AIRA bei der Bek&#228;mpfung der Kinder- und 
+Jugendpornografie?
+a) Wenn ja, welche bereits bestehende oder noch zu schaffende Instanz 
+w&#228;re f&#252;r die Koordinierung des Einsatzes von ZAC-AIRA auf
+Bundesebene zust&#228;ndig, unter Wahrung der L&#228;nderhoheit bei der
+Polizeiarbeit und der Strafverfolgung?
+b) Wenn ja, wann k&#246;nnte nach Einsch&#228;tzung der Bundesregierung der 
+Einsatz der Software in der Ermittlungspraxis fr&#252;hestens erfolgen?
+c) Wenn ja, kann die Bundesregierung im Falle des geplanten Einsatzes 
+von ZAC-AIRA auf entsprechende personelle, infrastrukturelle,
+technische und finanzielle Kapazit&#228;ten zur&#252;ckgreifen (bitte konkret
+beziffern)?
+Die Fragen 3 bis 3c werden gemeinsam beantwortet.
+Seitens der Bundesregierung ist derzeit kein Einsatz der genannten Software 
+ZAC-AIRA geplant.
+4. Mit welchem Referenzmaterial w&#252;rde die in Rede stehende Software (vgl. 
+Vorfrage) nach Auffassung der Bundesregierung oder einer ihr
+nachgeordneten Beh&#246;rde auf das Erkennen von Kinderpornografie trainiert werden 
+k&#246;nnen?
+K&#228;me hier nach Auffassung der Bundesregierung ausschlie&#223;lich
+authentisches, bereits von Ermittlern als kinderpornografisch eingestuftes Material 
+in Frage, oder w&#228;re es auch denkbar, synthetisches Referenzmaterial ohne 
+ausdr&#252;cklichen R&#252;ckgriff auf mit gro&#223;em Leid verbundene F&#228;lle zu
+produzieren?
+Es wird auf die Antworten zu den Fragen 2 und 3 verwiesen.
+5. Kann die Bundesregierung oder eine ihr nachgeordnete Beh&#246;rde der
+Strafverfolgung angeben, ob und wenn ja, in welchen Bereichen KI-L&#246;sungen 
+bei der polizeilichen Ermittlungsarbeit bereits zum Einsatz kommen und 
+mit welchen konkreten Ergebnissen (bitte ausf&#252;hren)?
+Zur Deckung von polizeifachlichen Bedarfen werden beim Bundeskriminalamt 
+derzeit verschiedene M&#246;glichkeiten der Nutzung von K&#252;nstlicher Intelligenz 
+(KI) f&#252;r den operativen Einsatz erprobt. Zus&#228;tzlich werden im Bereich der
+Gesichtserkennung kommerzielle Produkte eingesetzt. Diese
+Gesichtserkennungssysteme verwenden Methoden aus dem Bereich der K&#252;nstlichen Intelligenz 
+bzw. des maschinellen Lernens. Durch diese werden jedoch lediglich Daten 
+vorverarbeitet. In den weiteren Prozessschritten kommt dann den Experten und 
+Sachverst&#228;ndigen f&#252;r Lichtbildvergleiche eine besondere Bedeutung zu, da sie 
+jedes Ergebnis der Datenvorverarbeitung noch einmal verifizieren.
+Die Identifizierung ist dann immer den Sachverst&#228;ndigen f&#252;r
+Lichtbildvergleiche vorbehalten.
+Im &#220;brigen wird auf die Antwort zu Frage 6 verwiesen.
+a) Wo lassen sich ggf. nachweisbare Erfolge in der Ermittlungsarbeit auf 
+den Einsatz von KI-L&#246;sungen zur&#252;ckf&#252;hren?
+Es wird auf die Antwort zu Frage 5 verwiesen.
+b) Wo sind nach Auffassung der Bundesregierung die Grenzen des
+Einsatzes von KI-L&#246;sungen in der polizeilichen Arbeit zu sehen?
+Auf Grund einer Vielzahl m&#246;glicher Anwendungsm&#246;glichkeiten und
+Einsatzgebiete ist hier keine pauschale Antwort m&#246;glich. Grunds&#228;tzlich ist
+festzustellen, dass K&#252;nstliche Intelligenz, wie jede andere IT-Technologie auch, die 
+polizeiliche Arbeit lediglich unterst&#252;tzt. Zudem werden die Grenzen des
+Einsatzes von K&#252;nstlicher Intelligenz f&#252;r die polizeiliche Ermittlungsarbeit nicht 
+zuletzt durch die geltenden Rechtsnormen gesetzt.
+6. Plant die Bundesregierung oder eine ihr nachgeordnete Beh&#246;rde der
+Strafverfolgung den Einsatz einer KI-L&#246;sung analog der ZAC-AIRA, die in 
+einem gro&#223;en Datenvolumen Muster und Strukturen erkennen kann, auch 
+beim Detektieren und Bewerten anderer Delikte, etwa im Bereich illegaler 
+Finanztransaktionen, des Waffenhandels, der Zwangsprostitution oder des 
+politischen Extremismus?
+Im Bundeskriminalamt wurde die Auswertung von Massendaten im Bereich 
+der Finanzkriminalit&#228;t in der Vergangenheit bereits mit Methoden der
+K&#252;nstlichen Intelligenz unterst&#252;tzt.
+F&#252;r diesen und weitere Deliktsbereiche werden auch in Zukunft
+Unterst&#252;tzungsm&#246;glichkeiten durch Methoden der K&#252;nstlichen Intelligenz bei Vorliegen 
+von gro&#223;en Datenvolumen gepr&#252;ft werden.
+Seitens der Bundesregierung ist dar&#252;ber hinaus derzeit kein weiterer Einsatz 
+einer KI-L&#246;sung analog der ZAC-AIRA geplant.
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/31129 -
+K&#252;nstliche Intelligenz im Einsatz gegen Kinderpornografie</titel>
+    <datum>2021-07-07</datum>
+  </document>
+  

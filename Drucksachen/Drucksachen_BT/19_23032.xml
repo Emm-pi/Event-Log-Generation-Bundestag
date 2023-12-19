@@ -1,0 +1,164 @@
+<document>
+    <id>245824</id>
+    <drucksachetyp>Kleine Anfrage</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>34</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/23032</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>52ebb7d5f005c4a9a0705ae560d394d4</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:15+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>267888</id>
+      <titel>Cyber-Sicherheit von maritimen Navigationssystemen der Marine</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>FDP</bezeichnung>
+      <titel>Fraktion der FDP</titel>
+    </urheber>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/230/1923032.pdf</pdf_url>
+      <id>245824</id>
+      <dokumentnummer>19/23032</dokumentnummer>
+      <datum>2020-10-01</datum>
+      <verteildatum>2020-10-05</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Kleine Anfrage</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Fraktion der FDP</urheber>
+    </fundstelle>
+    <autoren_anzeige>
+      <id>2144</id>
+      <titel>Dr. Marcus Faber, MdB, FDP</titel>
+      <autor_titel>Marcus Faber</autor_titel>
+    </autoren_anzeige>
+    <autoren_anzeige>
+      <id>2266</id>
+      <titel>Alexander Graf Lambsdorff, MdB, FDP</titel>
+      <autor_titel>Alexander Graf Lambsdorff</autor_titel>
+    </autoren_anzeige>
+    <text>[Kleine Anfrage
+der Abgeordneten Dr. Marcus Faber, Alexander Graf Lambsdorff, Jens Beeck, 
+Dr. Jens Brandenburg (Rhein-Neckar), Sandra Bubendorfer-Licht, Dr. Marco 
+Buschmann, Christian D&#252;rr, Hartmut Ebbing, Daniel F&#246;st, Otto Fricke, Thomas 
+Hacker, Reginald Hanke, Peter Heidt, Katrin Helling-Plahr, Markus Herbrand, 
+Torsten Herbst, Katja Hessel, Dr. Christoph Hoffmann, Reinhard Houben, Ulla 
+Ihnen, Olaf in der Beek, Dr. Marcel Klinge, Daniela Kluckert, Pascal Kober, 
+Konstantin Kuhle, Ulrich Lechte, Alexander M&#252;ller, Frank M&#252;ller-Rosentritt, 
+Dr. Wieland Schinnenburg, Dr. Hermann Otto Solms, Dr. Marie-Agnes Strack-
+Zimmermann, Michael Theurer, Gerald Ullrich, Nicole Westig und der Fraktion der 
+FDP
+Cyber-Sicherheit von maritimen Navigationssystemen der Marine
+Mit dem Fortschreiten der Digitalisierung der Kampfschiffe der Deutschen
+Marine wachsen neben den Chancen auch kontinuierlich die Gefahren durch eben 
+diese Digitalisierung. Die Dimension Cyber- und Informationsraum ist nicht 
+mehr nur eine Unterst&#252;tzungsebene, sondern wird in heutigen Konflikten ein 
+elementarer Teil der Wirkebene sein. Mit der Digitalisierung, Automatisierung 
+und Vernetzung der Systeme auf den Kampfschiffen m&#252;ssen diese Systeme 
+auch robuster werden, um unter ge&#228;nderten geopolitischen Bedingungen gegen 
+neue hybride Bedrohungen und Cyber-Angriffe von Staaten und
+Organisationen gewappnet zu sein.
+Aktuell warnt das Bundesamt f&#252;r Verfassungsschutz (BfV) vor Gef&#228;hrdungen 
+wie Spionage und Sabotage hinsichtlich umfassender Navigationssysteme,
+sogenannter ECDIS (Electronic Chart Display and Information System) auf 
+Schiffen (https://www.maritimes-cluster.de/news/aktuelles/sicherheitshinweis-
+des-bundesamtes-fuer-verfassungsschutz/). In solchen Navigationssystemen 
+k&#246;nnen die GPS-Navigation (GPS = Global Positioning System), das Radar, 
+das Automatische Identifikationssystem, elektronische Seekarten etc. integriert 
+werden. Damit sind diese Systeme unabdingbar f&#252;r eine uneingeschr&#228;nkte,
+sichere sowie zeitgem&#228;&#223;e Navigation und damit auch f&#252;r die Einsatzbereitschaft 
+der Kampfschiffe der Deutschen Marine. Insbesondere global agierende
+Hersteller von modernen maritimen Navigationssystemen, so bef&#252;rchtet das BfV, 
+k&#246;nnen in den jeweiligen &#8222;Herkunftsl&#228;ndern weitreichender Einflussnahme der 
+dortigen Nachrichtendienste ausgesetzt (&#8230;)&#8220; sein. Damit besteht auch die
+Gefahr, dass bei solchen kritischen Anwendungen f&#252;r die Marine bereits bei der 
+Programmierung, aber auch bei sp&#228;teren Updates der Software ein Risiko zur 
+Kompromittierung besteht.
+In Krisensituationen best&#252;nde damit die M&#246;glichkeit, dass die Position sowie 
+die Fahrt und der Kurs von Kriegsschiffen feindlichen Kr&#228;ften zur Verf&#252;gung 
+steht. Dies bedeutet eine unmittelbare Gefahr f&#252;r die Besatzung und w&#228;re eine 
+Deutscher Bundestag Drucksache 19/23032
+19. Wahlperiode 01.10.2020
+Einschr&#228;nkung der Einsatzf&#228;higkeit. Ein derartiges Einfallstor in das Netzwerk 
+eines Kampfschiffes kann auch auf andere Systeme ausstrahlen. So besteht die 
+Gefahr, dass ein m&#246;glicher feindlicher Zugriff auf die Navigationssysteme
+aufgrund der Vernetzung an Bord dazu f&#252;hrt, dass Zugang zu Sensoren, Effektoren 
+und Steuerungssystemen erhalten werden kann (https://esut.de/2019/08/fachbei
+traege/streitkraefte-fachbeitraege/14134/herausforderungen-der-cyber-sicherhei
+t-in-der-deutschen-marine/). Die Cyber-Sicherheit von Navigationssystemen 
+der Marine ist damit von besonderer und kritischer Bedeutung f&#252;r die
+Einsatzbereitschaft.
+Wir fragen die Bundesregierung:
+&#8199;1. Sind bei Navigationssystemen der Deutschen Marine Firmen (inklusive 
+Tochterfirmen) beteiligt, die Standorte in L&#228;ndern haben, die auf der
+Staatenliste im Sinne von &#167; 13 Absatz 1 Nummer 17 des
+Sicherheits&#252;berpr&#252;fungsgesetzes (S&#220;G) stehen?
+Wenn ja, welche Firmen in welchen L&#228;ndern?
+&#8199;2. Sieht die Bundesregierung ein Risiko, dass auch die Marine von der in der 
+Vorbemerkung der Fragesteller genannten Warnung des BfV betroffen ist?
+&#8199;3. Welche Ma&#223;nahmen hat die Marine getroffen, um den
+Sicherheitshinweisen des BfV zu folgen?
+&#8199;4. Findet die Programmierung dieser Navigationssysteme von Firmen
+(inklusive Tochterfirmen) in L&#228;ndern statt, die auf der Staatenliste im Sinne von 
+&#167; 13 Absatz 1 Nummer 17 S&#220;G stehen, und wenn ja, welche Firmen in 
+welchen L&#228;ndern?
+&#8199;5. Werden diese Navigationssysteme gezielt und regelm&#228;&#223;ig nach
+Schadsoftware und ungewollten Funktionen &#252;berpr&#252;ft?
+&#8199;6. Wurden die genannten Systeme von den zust&#228;ndigen Stellen der
+Bundeswehr (z. B. Zentrum f&#252;r Cybersicherheit, Zentrum f&#252;r Softwarekompetenz, 
+Zentrum f&#252;r Cyber Operations) einmal auf m&#246;gliche Angreifbarkeit
+(&#8222;Penetration&#8220;) getestet, bez&#252;glich selbst&#228;ndiger Kontaktaufnahmen der
+Systeme nach au&#223;en gepr&#252;ft oder einer Code-Analyse unterzogen?
+&#8199;7. Wurde gepr&#252;ft, ob diese Systeme die IT-Sicherheitsanforderungen der 
+Bundeswehr einhalten?
+a) Wenn ja, wann, von wem, und mit welchem Ergebnis?
+b) Wenn nein, warum nicht, und existieren Hinderungsgr&#252;nde?
+&#8199;8. Wurden Pr&#252;fungen der genannten Systeme von Dienststellen der
+Bundeswehr verhindert, z. B. aufgrund rechtlicher Bedenken, und wenn ja, mit 
+welcher Begr&#252;ndung?
+&#8199;9. Wann wurden letztmalig die Implementierungs- und Wartungsverfahren 
+dieser Systeme kritisch evaluiert?
+10. Gab es in der Vergangenheit anlassbezogene Pr&#252;fungen der
+Navigationssysteme, und wenn ja, wann, und auf welchen Schiffen?
+11. Werden die bereits bei der Marine verbauten Navigationssysteme durch 
+Firmen (inklusive Tochterfirmen) in L&#228;ndern ferngewartet, die auf der 
+Staatenliste im Sinne von &#167; 13 Absatz 1 Nummer 17 S&#220;G stehen?
+12. K&#246;nnen diese Navigationssysteme grunds&#228;tzlich durch Firmen (inklusive 
+Tochterfirmen) aus L&#228;ndern ferngewartet werden, die auf der Staatenliste 
+im Sinne von &#167; 13 Absatz 1 Nummer 17 S&#220;G stehen?
+13. Hat die Bundeswehr uneingeschr&#228;nkten Zugriff auf den Quellcode dieser 
+Navigationssysteme?
+14. Existieren sogenannte Blackboxes in diesen Navigationssystemen?
+15. Wie werden die zust&#228;ndigen IT-Offiziere der Marine ausgebildet und nach 
+welchen Auswahlverfahren f&#252;r das einzelne Kampfschiff ernannt?
+16. Inwiefern werden Geheimhaltungsbereiche auf den Kampfschiffen der 
+Deutschen Marine gesichert und kontrolliert?
+17. Sind bei der Marine aktuell Navigationssysteme von Firmen (inklusive 
+Tochterfirmen) verbaut, die vom Milit&#228;rischen Abschirmdienst (MAD) 
+oder vom Bundesamt f&#252;r Verfassungsschutz als Pr&#252;f- oder Verdachtsfall 
+gef&#252;hrt werden?
+18. Laufen derzeit Ausschreibungen f&#252;r neue ECDIS-Navigationssysteme f&#252;r 
+die Marine, und wie ist der Stand der Ausschreibung bzw. Vergabe, und 
+wenn ja, f&#252;r welche Kampfschiffe der Marine l&#228;uft die Ausschreibung?
+19. Wurde die Warnung der Beh&#246;rden vor m&#246;glichen Zugriffsm&#246;glichkeiten 
+auf die ECDIS-Systeme oder m&#246;glicher Sabotage dieser Systeme bei der 
+Ausschreibung ber&#252;cksichtigt, und welche Ma&#223;nahmen wurden getroffen, 
+um solche Zugriffe von Beginn an auszuschlie&#223;en?
+20. Hat der MAD oder das BfV wegen der laufenden Ausschreibung eine oder 
+mehrere Pr&#252;fungen von m&#246;glichen oder tats&#228;chlichen Anbietern
+eingeleitet?
+21. Handelt es sich bei ECDIS-Navigationssystemen um sogenannte nationale 
+verteidigungsindustrielle Schl&#252;sseltechnologie?
+Berlin, den 30. September 2020
+Christian Lindner und Fraktion
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>Cyber-Sicherheit von maritimen Navigationssystemen der Marine</titel>
+    <datum>2020-10-01</datum>
+  </document>
+  

@@ -1,0 +1,704 @@
+<document>
+    <id>218938</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/1867</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>e30babbb1914c2683ee8a6a8e78f268d</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>233690</id>
+      <titel>Kompromittierung deutscher Regierungsnetze</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium des Innern, f&#252;r Bau und Heimat</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/018/1901867.pdf</pdf_url>
+      <id>218938</id>
+      <dokumentnummer>19/1867</dokumentnummer>
+      <datum>2018-04-25</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums des Innern, f&#252;r Bau und Heimat 
+vom 20. April 2018 &#252;bermittelt.  
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext. 
+Deutscher Bundestag  Drucksache 19/1867 
+19. Wahlperiode 25.04.2018 
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Andrej Hunko, Anke Domscheit-Berg,  
+Dr. Petra Sitte, weiterer Abgeordneter und der Fraktion DIE LINKE. 
+&#8211; Drucksache 19/1390 &#8211; 
+Kompromittierung deutscher Regierungsnetze 
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r  
+Am 28. Februar 2018 meldete die dpa Deutsche Presse-Agentur GmbH,
+&#8222;ausl&#228;ndische Hacker&#8220; seien in den Informationsverbund Berlin-Bonn (IVBB)
+eingedrungen (&#8222;Innenministerium: Hacker griffen deutsches Regierungsnetz an&#8220;, 
+BERLINER MORGENPOST vom 28. Februar 2018). Im Ausw&#228;rtigen Amt 
+habe es &#8222;einen entsprechenden Vorfall&#8220; gegeben, auch das Bundesministerium 
+der Verteidigung (BMVG) sei betroffen. Den Hinweis auf die
+Kompromittierung h&#228;tten deutsche Geheimdienste nach Informationen des Senders
+&#8222;Rundfunk Berlin-Brandenburg (rbb) am 19. Dezember 2017 von einem
+&#8222;ausl&#228;ndischen Partner&#8220; erhalten (&#8222;Von der Uni ins Ministerium?&#8220;, tagesschau.de vom 2. 
+M&#228;rz 2018). In der Bundespressekonferenz vom 2. M&#228;rz 2018 wurde hierzu
+gemutma&#223;t, dieser Dienst k&#228;me aus dem Baltikum (&#8222;Regierungspressekonferenz 
+vom 2. M&#228;rz 2018&#8220;, bundesregierung.de). Nun ermitteln das Bundesamt f&#252;r
+Sicherheit in der Informationstechnik (BSI) und das f&#252;r Spionageabwehr
+zust&#228;ndige Bundesamt f&#252;r Verfassungsschutz (BfV), auch der Auslandsgeheimdienst 
+Bundesnachrichtendienst (BND) ist eingebunden. Verbindungsdaten des IVBB 
+werden drei Monate aufgehoben. F&#252;r rund neun Monate der Angriffe stehen f&#252;r 
+die Ermittlungen deshalb keine Logfiles zur Verf&#252;gung. 
+Als Urheber des &#8222;Vorfalls&#8220; wurde von der &#8222;dpa&#8220; das in Russland verortete
+Netzwerk &#8222;APT28&#8220; benannt, das auch f&#252;r Phishing-Mails an Bundestagsb&#252;ros im 
+Jahr 2015 verantwortlich sein soll. Einen Tag sp&#228;ter korrigierte sich die Agentur 
+und schrieb den &#8222;Vorfall&#8220; unter Berufung auf ungenannte &#8222;Kreise&#8220; dem
+ebenfalls in Russland verorteten Netzwerk ,Snake&#699; zu, das &#8222;Verbindungen&#8220; zu
+russischen Geheimdiensten habe (&#8222;Kreise: Russische &#8218;Snake&#8216;-Hacker hinter
+Angriff&#8220;, dpa vom 1. M&#228;rz 2018). Das Netzwerk &#8222;Snake&#8220; ist eigentlich die
+Bezeichnung f&#252;r die Schadsoftware &#8222;Turla&#8220; bzw. &#8222;Uroburos&#8220; (www.kaspersky.de/ 
+resource-center/threats/epic-turla-snake-malware-attacks), wird jedoch
+synonym zur Bezeichnung mutma&#223;licher Angreifer gebraucht. Der Trojaner
+&#8222;Uroburos&#8220; wurde 2008 entdeckt und soll kyrillische Schriftzeichen im Programmcode 
+enthalten, seit 2014 soll eine Linux-Variante kursieren (https://malwarebattle. 
+blogspot.de/2014/03/g-data-found-russian-cyber-weapon.html).
+Sicherheitsfirmen wiesen in den vergangenen Jahren darauf hin, dass &#8222;Uroburos&#8220; Teil einer 
+internationalen &#8222;Spionagekampagne&#8220; gewesen sei, die weltweit &#8222;Botschaften, 
+R&#252;stungsfirmen, Lehranstalten und Forschungsinstitute&#8220; betroffen habe
+(https://securelist.com/the-epic-turla-operation/65545/). Auch im
+Bundesministerium des Innern, f&#252;r Bau und Heimat (BMI) war dies bekannt. Im
+Verfassungsschutzbericht f&#252;r 2016 hei&#223;t es, dass &#8222;Snake&#8220; seit 2005 mit der &#8222;sehr
+komplexen und qualitativ hochwertigen Schadsoftware&#8220; aktiv sei. Der Trojaner 
+&#8222;Uroburos&#8220; sei darauf ausgelegt, &#8222;in gro&#223;en Netzwerken von Beh&#246;rden, Firmen 
+und Forschungseinrichtungen zu agieren&#8220;. Betroffen seien insbesondere die
+Bereiche Energietechnik, R&#246;ntgen- und Nukleartechnologie, Messtechnologie
+sowie Luft- und Raumfahrt.  
+Das Rootkit &#8222;Uroburos&#8220;, das sich selbstst&#228;ndig in infizierten Netzwerken
+verbreitet, besteht aus zwei Dateien f&#252;r 32- und 64-Bit-Windows-Systeme mit
+einem Treiber. Die Kompromittierung des IVBB sei laut der &#8222;dpa&#8220; &#252;ber Computer 
+einer Fachhochschule des Bundes f&#252;r &#246;ffentliche Verwaltung erfolgt,
+Aktivit&#228;ten seien ab Ende 2016 festgestellt worden (&#8222;Kreise: Russische &#8218;Snake&#8216;-Hacker 
+hinter Angriff&#8220;, dpa vom 1. M&#228;rz 2018). Der Angriff wurde m&#246;glicherweise 
+durch fehlende Sicherheitsupdates oder eine gro&#223;z&#252;gige Rechtevergabe
+beg&#252;nstigt. Gew&#246;hnlich nutzen Angreifer auch nicht ver&#246;ffentlichte Sicherheitsl&#252;cken 
+(&#8222;Zero Day Exploits&#8220;). Laut dem Verfassungsschutzbericht f&#252;r 2016 erfolgten 
+Infektionen mit &#8222;Uroburos&#8220; meist &#252;ber sogenannte Watering-Hole-Attacken, 
+bei denen Angreifer Webpr&#228;senzen, die f&#252;r das Opfer potenziell interessant 
+sind, auf infizierte Web-server umleiten. Werden die Seiten aufgerufen, erfolgt 
+die Installation der Schadsoftware bei dem Opfer des Cyberangriffs. Die
+ausgew&#228;hlten Betroffenen seien auf einer sogenannten White-List gespeichert. In der 
+&#8222;S&#252;ddeutschen Zeitung&#8220; vom 6. M&#228;rz 2018 hei&#223;t es dazu, die Angreifer h&#228;tten 
+das Mailprogramm Microsoft Outlook genutzt, um dort codierte Befehle in
+einem E-Mail-Anhang zu verstecken. Der betroffene Rechner war demnach
+bereits mit Schadsoftware infiziert. &#220;ber Outlook sollen die Dokumente
+schlie&#223;lich auch ausgeleitet worden sein. Infiziert worden sei zun&#228;chst die
+Liegenschaftsverwaltung des Ausw&#228;rtigen Amts, danach ein Referat mit
+Russlandbezug. Im Januar 2017 habe die Malware einen Steuerbefehl erhalten und
+begonnen, Informationen an einen nicht n&#228;her benannten Server auszuleiten. Im M&#228;rz 
+2017 h&#228;tten die Angreifer dann Administrator-Rechte auf Windows-Clients im 
+Ausw&#228;rtigen Amt erlangt. Erst kurz vorher wurden die dortigen Linux-Systeme 
+zu Windows und Microsoft migriert (Bundestagsdrucksache 18/4473). Einen 
+der Rechner habe ein Mitarbeiter des BMVG genutzt. Das BMVG soll deshalb 
+entgegen erster Informationen nicht direkt betroffen gewesen sein.  
+Der IT-Angriff hat nach derzeitigem Stand keinen gro&#223;en Schaden angerichtet. 
+Im IVBB werden keine als vertraulich oder geheim eingestuften Dokumente 
+verteilt (&#8222;Regierungspressekonferenz vom 2. M&#228;rz 2018&#8220;, bundesregierung.de). 
+Die Rede ist von sechs abgeflossenen Dokumenten, die zum Teil &#8222;Bez&#252;ge zu 
+Russland, der Ukraine und Wei&#223;russland&#8220; h&#228;tten. Ein Mitarbeiter des BMI
+erkl&#228;rte im Ausschuss f&#252;r Verkehr und digitale Infrastruktur des Deutschen
+Bundestages, das Parlament und die &#214;ffentlichkeit sei nicht fr&#252;her &#252;ber den Vorfall 
+informiert worden, um die Angreifer weiter beobachten und r&#252;ckverfolgen zu 
+k&#246;nnen. Die an die Presse geleakten Informationen h&#228;tten die weitere
+Aufkl&#228;rungsarbeit zwangsl&#228;ufig beendet. Die Bundesanwaltschaft hat deshalb
+Vorermittlungen auf der Suche nach der undichten Stelle begonnen
+(&#8222;Bundesanwaltschaft nimmt Vorermittlungen auf&#8220;, haz.de vom 2. M&#228;rz 2018). Nicht
+auszuschlie&#223;en sei, dass die Ver&#246;ffentlichungen daf&#252;r sorgten, dass die Angreifer 
+Spuren l&#246;schen konnten.  
+In der Vergangenheit will die Bundesregierung t&#228;glich 20 &#8222;hoch spezialisierte 
+Cyberangriffe&#8220; festgestellt haben, von denen nach Einsch&#228;tzung des BSI einer 
+pro Woche &#8222;einen nachrichtendienstlichen Hintergrund&#8220; gehabt habe
+(Bundestagsdrucksache 18/11106, Antwort zu Frage 18). F&#252;r die Einstufung als &#8222;hoch 
+spezialisierter Cyberangriff&#8220; gen&#252;gt es jedoch, wenn eine Schadsoftware die
+Virenscanner des BSI &#252;berwinden kann. In keinem der F&#228;lle konnte der vermutete 
+&#8222;nachrichtendienstliche Hintergrund&#8220; best&#228;tigt oder gar nachweislich einer
+Regierung zugeordnet werden.
+Trotzdem will die Bundesregierung die rechtlichen und technischen F&#228;higkeiten 
+zu digitalen Gegenschl&#228;gen ausweiten (&#8222;Hacking back? Technische und
+politische Implikationen digitaler Gegenschl&#228;ge&#8220;, SWP-Aktuell 59, August 2017). 
+Der Bundessicherheitsrat soll hierzu eine Analyse der ben&#246;tigten technischen 
+F&#228;higkeiten vornehmen und der Bundesregierung Vorschl&#228;ge f&#252;r notwendige 
+gesetzliche &#196;nderungen vorlegen. Solche &#8222;Hackbacks&#8220; k&#246;nnten laut dem Chef 
+der neuen Entschl&#252;sselungsbeh&#246;rde des Bundes Zentrale Stelle f&#252;r
+Informationstechnik im Sicherheitsbereich &#8211;ZITiS helfen, &#8222;entwendete Dateien und
+Dokumente zumindest auf den Servern der Diebe zu l&#246;schen&#8220;
+(&#8222;Entschl&#252;sselungsbeh&#246;rde &#8211; Staat muss digital zur&#252;ckschlagen k&#246;nnen&#8220;, de.reuters.com vom 
+22. November 2018). Auch im Koalitionsvertrag zwischen CDU, CSU und SPD 
+hei&#223;t es, man wolle &#8222;Angriffe aus dem Cyberraum gegen unsere kritischen
+Infrastrukturen abwehren und verhindern&#8220;. 
+V o r b e me r k u n g  d e r  B u n d e s r e g i e r u n g :  
+Zwar ist der parlamentarische Informationsanspruch grunds&#228;tzlich auf die
+Beantwortung gestellter Fragen in der &#214;ffentlichkeit angelegt. 
+Die Bundesregierung ist allerdings nach sorgf&#228;ltiger Abw&#228;gung zu der
+Auffassung gelangt, dass eine Beantwortung der Fragen 3, 5a, 5c, 5e bis 5g, 10, 10a, 
+10b, 13, 16 und 17 nicht vollst&#228;ndig in offener Form erfolgen kann.  
+Die erbetenen Ausk&#252;nfte zu den Fragen 5a, 5c, 5e bis 5g und 16 sind
+geheimhaltungsbed&#252;rftig, weil die Kenntnisnahme der Antworten durch Unbefugte die
+Sicherheit der Bundesrepublik Deutschland gef&#228;hrden und ihren Interessen
+schweren Schaden zuf&#252;gen kann. Die Antworten enthalten Informationen zu Details 
+operativer Ma&#223;nahmen und erlauben potentiellen Angreifern R&#252;ckschl&#252;sse auf 
+die F&#228;higkeiten und das Vorgehen deutscher Beh&#246;rden. Hierzu z&#228;hlen
+Einzelheiten zu der Erkenntnislage der Beh&#246;rden &#252;ber das Vorgehen und die F&#228;higkeiten 
+des Angreifers. Die Ver&#246;ffentlichung dieser Erkenntnisse lie&#223;e R&#252;ckschl&#252;sse auf 
+die Aufkl&#228;rungsschwerpunkte zu und w&#252;rde die zuk&#252;nftige Aufgabenerf&#252;llung 
+der beteiligten Beh&#246;rden und damit die Gew&#228;hrleistung der IT-Sicherheit
+gef&#228;hrden. Diese w&#252;rde zuk&#252;nftige Angriffe erleichtern.  
+Der Schutz vor allem der technischen F&#228;higkeiten der Bundesbeh&#246;rden stellt f&#252;r 
+die Aufgabenerf&#252;llung der Bundesbeh&#246;rden einen &#252;berragend wichtigen
+Grundsatz dar. Er dient der Aufrechterhaltung der Effektivit&#228;t &#8211; insbesondere
+nachrichtendienstlicher &#8211; Informationsbeschaffung durch den Einsatz spezifischer
+F&#228;higkeiten und damit dem Staatswohl. Auch sind Erkenntnisse &#252;ber
+Analysef&#228;higkeiten von Sicherheitsvorf&#228;llen und Ma&#223;nahmen zur Sicherung von IT-Systemen 
+betroffen. Eine Ver&#246;ffentlichung von Einzelheiten betreffend solche F&#228;higkeiten 
+w&#252;rde zu einer wesentlichen Schw&#228;chung der den Beh&#246;rden zur Absicherung der 
+IT-Systeme und zur Reaktion auf Angriffe zur Verf&#252;gung stehenden
+M&#246;glichkeiten f&#252;hren. Dies w&#252;rde f&#252;r ihre Auftragserf&#252;llung erhebliche Nachteile zur Folge 
+haben und f&#252;r die Interessen der Bundesrepublik Deutschland sch&#228;dlich sein. Die 
+Schutzma&#223;nahmen dienen der Aufrechterhaltung der Sicherheit und
+Funktionsf&#228;higkeit des Informationsverbundes Bonn-Berlin (IVBB) und damit dem
+Staatswohl.
+Daher sind die Antworten zu den genannten Fragen als Verschlusssache nach &#167; 4 
+Absatz 2 Sicherheits&#252;berpr&#252;fungsgesetz in Verbindung mit der Allgemeinen
+Verwaltungsvorschrift des Bundesministeriums des Innern zum materiellen und
+organisatorischen Schutz von Verschlusssachen (VS-Anweisung &#8211; VSA) mit dem 
+Geheimhaltungsgrad &#8222;VS &#8211; Geheim&#8220; eingestuft und k&#246;nnen bei der
+Geheimschutzstelle des Deutschen Bundestages eingesehen werden.1 
+Die Ausk&#252;nfte zu den Fragen 3 und 13 sind geheimhaltungsbed&#252;rftig, weil die 
+Kenntnisnahme durch Unbefugte f&#252;r die Interessen der Bundesrepublik
+Deutschland nachteilig sein kann. Eine &#246;ffentliche Zuordnung von Angriffskampagnen 
+zu ausl&#228;ndischen Diensten bedarf einer sorgf&#228;ltigen Abw&#228;gung. Daher k&#246;nnte 
+eine vollst&#228;ndige offene Beantwortung hinsichtlich der konkreten Attribution f&#252;r 
+die ausw&#228;rtigen Beziehungen der Bundesrepublik sch&#228;dlich sein. 
+Ferner k&#246;nnte eine &#246;ffentliche Auskunft Dritten Erkenntnisse &#252;ber
+Analysef&#228;higkeiten von Sicherheitsvorf&#228;llen erm&#246;glichen. Eine Ver&#246;ffentlichung von
+Einzelheiten betreffend solche F&#228;higkeiten w&#252;rde zu einer wesentlichen Schw&#228;chung 
+der den Beh&#246;rden zur Absicherung der IT-Systeme und zur Reaktion auf Angriffe 
+zur Verf&#252;gung stehenden M&#246;glichkeiten f&#252;hren. Daher sind die Antworten zu den 
+genannten Fragen als Verschlusssache nach &#167; 4 Absatz 2
+Sicherheits&#252;berpr&#252;fungsgesetz in Verbindung mit der Allgemeinen Verwaltungsvorschrift des
+Bundesministeriums des Innern zum materiellen und organisatorischen Schutz von 
+Verschlusssachen (VS-Anweisung &#8211; VSA) mit dem Geheimhaltungsgrad &#8222;VS &#8211;
+Nur f&#252;r den Dienstgebrauch&#8220; eingestuft. 
+Ferner sind die erbetenen Ausk&#252;nfte zu den Fragen 10, 10a, 10b und 17
+geheimhaltungsbed&#252;rftig, weil die Kenntnisnahme durch Unbefugte f&#252;r die Interessen 
+der Bundesrepublik Deutschland nachteilig sein kann. Details zu den IT-
+Systemen der Bundesregierung sind sch&#252;tzenswerte Informationen, deren
+Bekanntwerden die Cybersicherheit dieser Systeme in ihrer Wirkung schw&#228;chen w&#252;rde.
+Daher sind die Antworten zu den genannten Fragen als Verschlusssache nach &#167; 4 
+Absatz 2 Sicherheits&#252;berpr&#252;fungsgesetz in Verbindung mit der Allgemeinen
+Verwaltungsvorschrift des Bundesministeriums des Innern zum materiellen und
+organisatorischen Schutz von Verschlusssachen (VS-Anweisung &#8211; VSA) mit dem 
+Geheimhaltungsgrad &#8222;VS &#8211; Nur f&#252;r den Dienstgebrauch&#8220; eingestuft.2 
+1. Wie viele &#8222;hoch spezialisierte Cyberangriffe&#8220; stellt das BSI in den Jahren 
+2016 und 2017 im Durchschnitt t&#228;glich im IVBB und im Bundestagsnetz 
+fest, bei denen es als Einstufung gen&#252;gte, dass die Virenscanner die
+Schadsoftware &#252;bersehen (Bundestagsdrucksache 18/11106, Antwort zu Frage 18)? 
+2. In wie vielen der F&#228;lle wurde dabei ein &#8222;nachrichtendienstlicher
+Hintergrund&#8220; angenommen, und in wie vielen F&#228;llen wurde dieser best&#228;tigt oder 
+gar nachweislich einer Regierung zugeordnet? 
+Die Fragen 1 und 2 werden gemeinsam beantwortet. 
+F&#252;r die Beantwortung der Fragen wird auf die Berichte des Bundesamtes f&#252;r
+Sicherheit in der Informationstechnik (BSI) zur IT-Sicherheit in Deutschland von 
+2016 und 2017 verwiesen. 
+                                                     
+1 Das Bundesministerium des Innern, f&#252;r Bau und Heimat hat Teile der Antworten zu den Fragen 5a, 5c, 5e bis 5g und 16 als &#8222;VS &#8211;
+Geheim&#8220; eingestuft. Die Antworten sind in der Geheimschutzstelle des Deutschen Bundestages hinterlegt und k&#246;nnen dort nach Ma&#223;gabe 
+der Geheimschutzordnung eingesehen werden. 
+2 Das Bundesministerium des Innern, f&#252;r Bau und Heimat hat Teile der Antworten zu den Fragen 3, 10a, 10b, 13 und 17 als &#8222;VS &#8211; Nur f&#252;r 
+den Dienstgebrauch&#8220; eingestuft. Die Antworten sind im Parlamentssekretariat des Deutschen Bundestages hinterlegt und k&#246;nnen dort 
+von Berechtigten eingesehen werden.
+Diese sind unter den Adressen www.bsi.bund.de/SharedDocs/Downloads/DE/ 
+BSI/Publikationen/Lageberichte/Lagebericht2016.pdf?__blob=publicationFile&amp;v=5 
+und www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/Lageberichte/ 
+Lagebericht2017.pdf?__blob=publicationFile&amp;v=4 abrufbar. 
+Gem&#228;&#223; Bericht des BSI zur Lage der IT-Sicherheit in Deutschland 2016 wurden 
+im Berichtszeitraum Juli 2015 bis Juni 2016 t&#228;glich &#252;ber 400 Cyberangriffe
+detektiert, die mit kommerziellen Sicherheitsprodukten nicht erkannt worden
+w&#228;ren. Gerechnet auf Kalenderjahre, lag die durchschnittliche Anzahl t&#228;glicher
+Angriffe in 2016 dar&#252;ber, w&#228;hrend sie in 2017 etwas geringer ausfiel. 
+Der R&#252;ckgang der Zahlen resultiert u. a. aus einer st&#228;rkeren Vorfilterung durch 
+vorgelagerte Systeme, die nicht in diese Statistik eingeht. Eine exakte
+Differenzierung und Attribution von hoch spezialisierten Cyberangriffen findet nicht in 
+jedem Fall statt und ist auch nicht zielf&#252;hrend, da dies zur Abwehr des Angriffes 
+nicht immer erforderlich ist und gegen den jeweils entstehenden Aufwand
+abgewogen werden muss. 
+Im &#220;brigen wird auf die Antwort der Bundesregierung zu Frage 17 der Kleinen 
+Anfrage der Fraktion DIE LINKE. auf Bundestagsdrucksache 18/11106 vom 
+8. Februar 2017 verwiesen. Die dort get&#228;tigten Ausf&#252;hrungen gelten auch f&#252;r das 
+Jahr 2017 fort. 
+3. Welchem russischen Geheimdienst ordnet die Bundesregierung die
+&#8222;Cyberangriffskampagne APT28&#8220; zu (Antwort auf die Schriftliche Frage 12 des 
+Abgeordneten Andrej Hunko auf Bundestagsdrucksache 18/13667)? 
+APT 28 wird verbreitet einem staatlichen russischen Akteur zugeordnet. Auf den 
+&#8222;VS &#8211; Nur f&#252;r den Dienstgebrauch&#8220; eingestuften Antwortteil gem&#228;&#223;
+Vorbemerkung der Bundesregierung wird verwiesen. 
+a) Welche &#8222;Hinweise&#8220; auf eine Spear-Phishing-Angriffswelle auf mehrere 
+politische Parteien auf Bundes- und Landesebene wurden im August 2016 
+bekannt? 
+Im August 2016 erhielt die Bundesregierung Hinweise auf Spear-Phishing-
+Angriffe gegen mehrere politische Parteien. Nach Kenntnis der Bundesregierung 
+waren diese nicht erfolgreich. 
+b) Aus welchen Erw&#228;gungen oder nach welchen &#8222;Indizien&#8220; wurden
+zur&#252;ckliegende &#8222;Angriffsversuche&#8220; dem Netzwerk &#8222;APT 28&#8220; zugerechnet, und 
+welche &#8222;nachrichtendienstlichen Erkenntnisse&#8220; lagen hierzu vor
+(Bundestagsdrucksache 18/11106, Antwort zu Frage 18; bitte die &#8222;Indizien&#8220;
+ausf&#252;hren)? 
+Indizien beziehen sich insbesondere auf die bei zur&#252;ckliegenden Angriffen
+genutzten technischen Infrastrukturen, die bereits von anderen Angriffen der APT 
+28-Kampagne bekannt sind.
+c) Welche &#8222;Angriffsvorbereitungen&#8220; konnten im Februar 2017 &#8222;erfolgreich 
+verhindert werden&#8220;? 
+Die Vorbereitung von Phishing-Angriffen auf eine deutsche Partei konnten
+verhindert werden. In diesem Zusammenhang erhielt das Bundesamt f&#252;r
+Verfassungsschutz (BfV) den Hinweis auf eine kurz zuvor registrierte Domain, die eine 
+legitime Seite einer deutschen Partei imitierte. Die betroffene Partei wurde
+unverz&#252;glich &#252;ber den Sachverhalt informiert. 
+d) Welche &#8222;Cyberangriffe&#8220; erfolgten anschlie&#223;end auf Netzwerke
+politischer Stiftungen, und inwiefern handelte es sich dabei lediglich um den 
+Versand von Spear-Phishing-Mails? 
+Anfang M&#228;rz 2017 erlangte das BfV Kenntnis von einem Spear-Phishing-Angriff 
+auf das Netzwerk der Konrad-Adenauer-Stiftung.  
+Zudem identifizierte das BfV Anfang April 2017 eine kurz zuvor registrierte
+Domain, bei der davon auszugehen war, dass sie f&#252;r Credential-Phishing-Angriffe 
+gegen die Friedrich-Ebert-Stiftung angelegt wurde. Hierzu hatten Mitarbeiter der 
+Stiftung Spear-Phishing-Mails von dieser Domain als nachgeahmte Login-Seite 
+erhalten, mit dem Ziel, auf diese Weise die Zugangsdaten dieser Mitarbeiter
+abzugreifen. 
+e) Aus welchen Erw&#228;gungen oder nach welchen Indizien wurden diese
+Vorf&#228;lle von den deutschen Sicherheitsbeh&#246;rden &#8222;als m&#246;gliche
+Vorbereitungshandlungen f&#252;r Versuche einer Einflussnahme auf die
+Bundestagswahl angesehen&#8220;, die nach Kenntnis der Fragesteller schlie&#223;lich nie
+erfolgte oder nachgewiesen werden konnte? 
+Bereits im Vorfeld der US-amerikanischen Pr&#228;sidentschaftswahlen im Sommer 
+2016 war APT 28 entsprechend aktiv gewesen. Zudem sprachen zunehmende
+Cyberangriffe auf den Deutschen Bundestag, Parteien und politische Stiftungen seit 
+Mitte 2016 f&#252;r eine solche Einsch&#228;tzung. 
+4. Handelt es sich bei dem j&#252;ngsten Angriff auf das deutsche Regierungsnetz 
+nach Auffassung der Bundesregierung um einen Vorgang von besonderer 
+Bedeutung gem&#228;&#223; &#167; 4 Absatz 1 des Kontrollgremiumgesetzes (PKGrG) und 
+bitte begr&#252;nden Sie diese Auffassung?  
+Falls ja, wurde das Parlamentarische Kontrollgremium umgehend
+unterrichtet oder wer entschied, vorerst von einer Unterrichtung abzusehen? 
+Gem&#228;&#223; &#167; 6 Absatz 2 des Gesetzes &#252;ber die parlamentarische Kontrolle
+nachrichtendienstlicher T&#228;tigkeit des Bundes (PKGrG) kann die Bundesregierung von
+einer Unterrichtung nach &#167; 4 Absatz 1 PKGrG absehen, wenn der Kernbereich der 
+exekutiven Eigenverantwortung betroffen ist. Dies war bei der operativen
+Bew&#228;ltigung des Angriffes auf Teile des Kommunikationsnetzes der Bundesregierung 
+der Fall. In dem Zeitraum zwischen der ersten Kenntnisnahme und dem
+&#246;ffentlichen Bekanntwerden des Vorfalls stellte das T&#228;tigwerden der
+Sicherheitsbeh&#246;rden ein laufendes Verfahren dar, indem es einerseits darum ging, genug
+Erkenntnisse &#252;ber die Angriffsvektoren und Informationen f&#252;r den Schutz im IVBB zu 
+sammeln und ein Konzept f&#252;r die sichere und nachhaltige Bereinigung der IT-
+Systeme auszuarbeiten. Dar&#252;ber hinaus war die interne Willensbildung der
+Bundesregierung zum Umgang mit dem laufenden Angriff auch wegen des
+andauernden Erkenntnisgewinns noch nicht vollst&#228;ndig abgeschlossen. Von einer
+Unterrichtung gem&#228;&#223; &#167; 4 Absatz 1 PKGrG bis zum &#246;ffentlichen Bekanntwerden wurde 
+aus diesen Gr&#252;nden abgesehen. Auf das Vorliegen eines Vorganges besonderer 
+Bedeutung gem&#228;&#223; &#167; 4 Absatz 1 PKGrG kommt es daher nicht an. 
+Das Parlamentarische Kontrollgremium (PKGr) wurde nach dem &#246;ffentlichen 
+Bekanntwerden unverz&#252;glich unterrichtet. 
+5. Welche IT-Systeme und welche Bundesministerien bzw. nachgelagerte
+Bundesbeh&#246;rden waren von dem am 28. Februar 2018 bekannt gewordenen IT-
+Angriff nach derzeitigem Stand betroffen? 
+Betroffen waren IT-Systeme beim Ausw&#228;rtigen Amt (AA) und bei der
+Hochschule des Bundes (HS Bund). 
+a) Welche der dabei genutzten Angriffsinfrastruktur (insbesondere die
+Nutzung von Outlook und bekannter Server zum Ausleiten der Dokumente) 
+ist bereits bei anderen Angriffen gegen Einrichtungen des Bundes
+festgestellt worden (Bundestagsdrucksache 18/11106, Antwort zu Frage 1)? 
+c) Wann und wo genau ist die Kompromittierung des IVBB erfolgt, und
+welchen Weg nahm die Schadsoftware? 
+e) Wann erhielten die Angreifer Administratorrechte auf den Web-Client im 
+Ausw&#228;rtigen Amt? 
+f) Wann erhielt die Schadsoftware einen Steuerbefehl und begann
+Informationen auszuleiten, und welche Server wurden hierf&#252;r genutzt? 
+g) Wann wurde der Angriff endg&#252;ltig unter Kontrolle gebracht und die 
+Schadsoftware aus dem IVBB entfernt?  
+Ist die Bundesregierung sich sicher, dass die Schadsoftware vollst&#228;ndig 
+entfernt wurde, und kann ausschlie&#223;en, dass sich Teile davon noch im 
+IVBB-Netz befinden? 
+Zu den Fragen 5a, 5c und 5e bis 5g wird auf die &#8222;VS &#8211; Geheim&#8220; eingestuften 
+Antworten gem&#228;&#223; der Vorbemerkung der Bundesregierung verwiesen. 
+b) Welche Schadsoftware wurde nach derzeitigem Stand bei dem Angriff 
+genutzt? 
+Es wurden diverse Werkzeuge bei diesem Angriff genutzt, die gr&#246;&#223;tenteils
+speziell f&#252;r diesen Angriff angefertigt worden sein d&#252;rften. 
+d) Inwiefern wurden bei dem Angriff nach derzeitigem Stand der
+Ermittlungen Webpr&#228;senzen, die f&#252;r das Opfer potenziell interessant sind, auf
+infizierte Webserver umgeleitet? 
+Nach dem derzeitigen Stand der Analysen wurden keine Webpr&#228;senzen auf
+infizierte Webserver umgeleitet.
+h) F&#252;r welchen Zeitraum werden im IVBB Vorratsdaten gespeichert, und 
+welche Logfiles des in Rede stehenden Angriffs stehen ab welchem
+Datum f&#252;r Analysen und Ermittlungen zur Verf&#252;gung? 
+Nach &#167; 5 Absatz 2 des Gesetzes &#252;ber das Bundesamt f&#252;r Sicherheit in der
+Informationstechnik (BISG) d&#252;rfen Protokolldaten f&#252;r die automatisierte Auswertung 
+l&#228;ngsten f&#252;r drei Monate gespeichert werden. Eine dar&#252;ber hinausgehende
+Verwendung personenbezogener Daten ist nach &#167; 5 Absatz 3 BSIG vom Einzelfall 
+abh&#228;ngig. Nach &#167; 2 Absatz 8 BSIG sind Protokolldaten im Sinne dieses Gesetzes 
+Steuerdaten eines informationstechnischen Protokolls zur Daten&#252;bertragung, die 
+unabh&#228;ngig vom Inhalt eines Kommunikationsvorgangs &#252;bertragen oder auf den 
+am Kommunikationsvorgang beteiligten Servern gespeichert werden und zur
+Gew&#228;hrleistung der Kommunikation zwischen Empf&#228;nger und Sender notwendig 
+sind. Protokolldaten k&#246;nnen Verkehrsdaten gem&#228;&#223; &#167; 3 Nummer 30 des
+Telekommunikationsgesetzes und Nutzungsdaten nach &#167; 15 Absatz 1 des
+Telemediengesetzes enthalten. 
+Im &#220;brigen sind personenbezogene Daten, welche das BSI im Rahmen seiner 
+Befugnisse erhebt, nach &#167; 6 BSIG unverz&#252;glich zu l&#246;schen, sobald sie f&#252;r die 
+Erf&#252;llung der Aufgaben, f&#252;r die sie erhoben worden sind, oder f&#252;r eine etwaige 
+gerichtliche &#220;berpr&#252;fung nicht mehr ben&#246;tigt werden. F&#252;r die technischen
+Analysen des vorliegenden Falles standen dem BSI Protokolldaten nach &#167; 5 Absatz 2 
+BSIG beginnend ab September 2017 zur Verf&#252;gung. 
+6. Inwiefern war das beim Bundesverwaltungsamt gef&#252;hrte und vom
+Bundeskriminalamt genutzte Passagierdatensystem in der Vergangenheit von IT-
+Sicherheitsvorf&#228;llen betroffen (bitte jeweils ausf&#252;hren)? 
+a) Aus welchen Gr&#252;nden wurde das System wie berichtet abgeschaltet
+(&#8222;Hacker sollen Dokumente zu Brexit und Ukraine entwendet haben&#8220;, ZEIT 
+ONLINE vom 10. M&#228;rz 2018, bitte mitteilen ob vorab nicht nur
+&#8222;Belastungstests&#8220;, sondern auch Penetrationstests durchgef&#252;hrt wurden)? 
+b) Welche Ergebnisse ergaben diese Tests jeweils mit Blick auf ihre
+Sicherheit? 
+Die Fragen 6 bis 6b werden gemeinsam beantwortet.  
+Das System zur Fluggastdatenspeicherung wird zurzeit im
+Bundesverwaltungsamt (BVA) getestet. Der Wirkbetrieb wird vorbereitet. Vor Aufnahme des
+Wirkbetriebs werden entsprechende Penetrationstests durch das BSI durchgef&#252;hrt. Die 
+Ergebnisse dieser Tests des BSI werden derzeit von BVA und
+Informationstechnikzentrum Bund (ITZBund) ausgewertet. Ein Cyber-Angriff, wie teilweise in 
+der Presse berichtet wurde, hat nicht stattgefunden. 
+7. In welchen F&#228;llen war die Lernplattform &#8222;ILIAS open source e-learning 
+e. V. (ILIAS) &#8220;, die an der Hochschule des Bundes zu
+Weiterbildungszwecken genutzt wird, in der Vergangenheit von IT-Sicherheitsvorf&#228;llen
+betroffen (&#8222;Hack auf Bundesregierung erfolgte &#252;ber Lernplattform Ilias&#8220;, GO-
+LEM.DE vom 8. M&#228;rz 2018)? 
+Der Bundesregierung ist nicht bekannt, dass die Lernplattform ILIAS, die an der 
+HS Bund genutzt wird, in der Vergangenheit von anderen als dem in Rede
+stehenden Sicherheitsvorfall betroffen war.
+a) Kann die Bundesregierung best&#228;tigen, dass der Standardaccount mit
+Administratorrechten mit dem Passwort &#8222;homer&#8220; angelegt wurde?  
+Nein, die Bundesregierung kann nicht best&#228;tigen, dass der Standardaccount mit 
+Admin-Rechten mit dem Passwort &#8222;homer&#8220; angelegt war. 
+b) Wenn nein, welches war das Passwort bei der Erstanlage?  
+Inwiefern kann die Bundesregierung sicherstellen, dass jedes dieser
+Initialpassw&#246;rter nach Installation sofort auf ein anderes Passwort ge&#228;ndert wurde? 
+Es wurde ein Initialpasswort gem&#228;&#223; den Passwortrichtlinien des BSI verwendet. 
+Die &#196;nderungen des Initialpassworts nach Installation ist ein Standardverfahren 
+bei der HS Bund entsprechend der Dienstanweisung f&#252;r die Benutzung von
+Informationstechnik. 
+c) Inwiefern trifft es zu, dass &#8222;ILIAS&#8220; seit M&#228;rz 2017 in der Version 5.1.16 
+betrieben wurde, obwohl es danach mehrere Sicherheitsupdates gegeben 
+hat? 
+Die Lernplattform ILIAS wurde in der Version 5.1.16 ab Dezember 2016 bei der 
+HS Bund eingesetzt. Alle notwendigen Sicherheitspatches wurden unverz&#252;glich 
+installiert. 
+d) Welche Sicherheitsl&#252;cken wurden durch die verz&#246;gerte Installation von 
+Sicherheitsupdates erm&#246;glicht (etwa Cross-Site-Scripting oder die
+Behandlung von Mediendateien)? 
+Auf die Antwort zu Frage 7c wird verwiesen. 
+e) Was ist der Bundesregierung dar&#252;ber bekannt, wann genau die Version 
+5.1.16 eingespielt wurde, und inwiefern der aktuelle IT-Sicherheitsvorfall 
+davon profitierte, dass eine erst damit geschlossene Sicherheitsl&#252;cke das 
+Kopieren von Dateien an beliebige Stellen im Dateisystem erm&#246;glichte? 
+Am 20. Dezember 2016 wurde die Version 5.1.16 installiert. Im &#220;brigen sind die 
+technischen Analysen des Vorfalles noch nicht abgeschlossen. 
+8. Welche deutschen Geheimdienste oder Bundesministerien wurden wann von 
+welchem &#8222;ausl&#228;ndischen Partner&#8220;, der m&#246;glicherweise aus dem Baltikum 
+kommt, &#252;ber den Angriff informiert? 
+Die Bundesregierung wurde am 18. Dezember 2017 durch einen Partnerdienst 
+unterrichtet. Im &#220;brigen ist die Auskunft zu der Frage geheimhaltungsbed&#252;rftig, 
+weil die Kenntnisnahme durch Unbefugte f&#252;r die Interessen der Bundesrepublik 
+Deutschland nachteilig sein kann. Eine &#246;ffentliche Mitteilung, welche deutschen 
+Nachrichtendienste oder Ministerien wann von einem &#8222;ausl&#228;ndischen Partner&#8220;
+informiert wurden, lie&#223;e R&#252;ckschl&#252;sse auf deren Aufkl&#228;rungsschwerpunkte und
+Informationsgewinnung zu. 
+Dies k&#246;nnte zu einer wesentlichen Schw&#228;chung der Informationsgewinnung und 
+Aufkl&#228;rungsm&#246;glichkeiten f&#252;hren und daher die Sicherheit der Bundesrepublik 
+Deutschland nachhaltig gef&#228;hrden.
+Daher ist die Antwort insoweit als Verschlusssache nach &#167; 4 Absatz 2 des
+Sicherheits&#252;berpr&#252;fungsgesetzes in Verbindung mit der Allgemeinen
+Verwaltungsvorschrift des Bundesministeriums des Innern zum materiellen und
+organisatorischen Schutz von Verschlusssachen (VS-Anweisung &#8211; VSA) mit dem
+Geheimhaltungsgrad &#8222;VS &#8211; Nur f&#252;r den Dienstgebrauch&#8220; eingestuft. 
+9. Von welchen Bundesministerien, nachgelagerten Bundesbeh&#246;rden oder
+Abteilungen wurde die Information &#252;ber den laufenden Angriff nach
+derzeitigem Stand der Ermittlungen an die &#8222;dpa&#8220; weitergegeben, und inwiefern 
+konnte die Bundesregierung analysieren, ob die Ver&#246;ffentlichungen daf&#252;r 
+sorgten, dass die Angreifer Spuren l&#246;schen konnten? 
+Der Bundesregierung liegen keine Erkenntnisse vor, wie die Informationen an die 
+dpa gelangt sind. Im &#220;brigen ist die technische Analyse des Vorfalles noch nicht 
+abgeschlossen. 
+10. Welchen Schaden hat der Angriff nach derzeitigem Stand der Analyse
+angerichtet, und welche Dokumente wurden kopiert? 
+a) Welches &#8222;Referat mit Russlandbezug&#8220; ist von dem Vorfall betroffen? 
+b) Worin bestehen die &#8222;Bez&#252;ge zu Russland, der Ukraine und
+Wei&#223;russland&#8220;, die den sechs kopierten Dokumenten zugeschrieben werden, und 
+zu welchen weiteren L&#228;ndern hatten diese &#8222;Bez&#252;ge&#8220;? 
+Die Fragen 10 bis 10b werden gemeinsam beantwortet.  
+Auf die &#8222;VS &#8211; Nur f&#252;r den Dienstgebrauch&#8220; eingestuften Antwort gem&#228;&#223;
+Vorbemerkung der Bundesregierung wird verwiesen. 
+11. Welche Bundesbeh&#246;rden (auch die Bundesanwaltschaft) ermitteln zu dem 
+Vorfall und damit im Zusammenhang stehenden Fragen, und wie sind die 
+Zust&#228;ndigkeiten geregelt? 
+Der Generalbundesanwalt hat am 15. M&#228;rz 2018 ein Ermittlungsverfahren wegen 
+des Verdachts der geheimdienstlichen Agentent&#228;tigkeit gegen Unbekannt
+eingeleitet und das Bundeskriminalamt mit den polizeilichen Ermittlungen beauftragt. 
+Die Ermittlungen dauern an. Die Zust&#228;ndigkeiten sind gesetzlich geregelt. 
+12. Inwiefern kann die Bundesregierung die in den Medien vermutete
+Urheberschaft der in Russland verorteten Netzwerke &#8222;APT28&#8220; oder &#8222;Snake&#8220;
+best&#228;tigen oder nicht best&#228;tigen?  
+F&#252;r wie sicher wird die Zuschreibung gehalten? 
+Modus Operandi, technische Merkmale sowie deren Opferfl&#228;chen sprechen nach 
+bisherigen Erkenntnissen der zust&#228;ndigen Bundesbeh&#246;rden mit hoher
+Wahrscheinlichkeit f&#252;r die in der Frage vermutete Urheberschaft. 
+13. Welchem russischen Geheimdienst kann &#8222;Snake&#8220; aus Sicht der
+Bundesregierung zugeordnet werden? 
+Hinweise deuten nach Expertenmeinungen auf den russischen Inlandsdienst FSB. 
+Auf den &#8222;VS &#8211; Nur f&#252;r den Dienstgebrauch&#8220; eingestuften Antwortteil gem&#228;&#223;
+Vorbemerkung der Bundesregierung wird verwiesen.
+14. Seit wann ist dem BMI der Trojaner &#8222;Uroburos&#8220; bekannt, und welche
+Vorkehrungen wurden f&#252;r entsprechende Angriffe getroffen? 
+Der genannte Trojaner ist dem BSI unter anderem Namen mindestens seit
+Sommer 2012 bekannt. Das BSI pflegt regelm&#228;&#223;ig Signaturen zur Erkennung dieser 
+und &#228;hnlicher Angriffe in die Schutzsysteme des IVBB ein und tauscht sich dazu 
+mit Partnern aus. F&#252;r die Reaktion auf solche Angriffe wurde u. a. das Mobile 
+Incident Response Team (MIRT) eingerichtet. 
+a) Welche deutschen Netzwerke &#8222;von Beh&#246;rden, Firmen und
+Forschungseinrichtungen&#8220; wurden nach Kenntnis der Bundesregierung mit
+&#8222;Uroburos&#8220; infiltriert bzw. welche Versuche sind hierzu bekannt
+(Verfassungsschutzbericht von 2016; sofern keine Details oder Zahlen der Angriffe 
+mitgeteilt werden k&#246;nnen, bitte deren Gr&#246;&#223;enordnung angeben)? 
+Zu den deutschen Zielen geh&#246;rten das Regierungsnetz, Auslandsvertretungen in 
+westlichen Staaten, mehrere Schulen und Hochschulen sowie
+Forschungsinstitute. Die bekannten Angriffe bewegen sich im oberen zweistelligen Bereich. 
+b) Aus welchen Quellen nimmt das BfV die Informationen, dass von
+&#8222;Uroburos&#8220; bzw. &#8222;Snake&#8220; insbesondere die Bereiche Energietechnik,
+R&#246;ntgen- und Nukleartechnologie, Messtechnologie sowie Luft- und
+Raumfahrt ausgeforscht w&#252;rden? 
+Diese Informationen ergeben sich aus dem an der Opferauswahl erkennbaren 
+Aufkl&#228;rungsinteresse des Angreifers. Zudem sind Opfer aus diesen Bereichen in 
+entsprechenden Berichten von IT-Sicherheitsunternehmen beschrieben. 
+c) Welche technischen Details sind der Bundesregierung zur Software
+&#8222;Uroburos&#8220; bekannt? 
+d) Welche Dateisysteme kann &#8222;Uroburos&#8220; infiltrieren, und wie verbreitet 
+sich die Malware? 
+Die Fragen 14c und 14d werden gemeinsam beantwortet.  
+Bei der Software &#8222;Uroburos&#8220; handelt es sich um eine hochkomplexe
+Schadsoftware, deren Besonderheit darin liegt, sich unerkannt in Netzwerken &#252;ber l&#228;ngere 
+Zeit zu bewegen und die in der Lage ist s&#228;mtliche Dateisysteme zu befallen. 
+15. Inwiefern ist die vom BfV und vom BND eingerichtete &#8222;tempor&#228;re
+Arbeitseinheit&#8220; zur Pr&#252;fung, &#8222;ob die russische Regierung mit geheimdienstlichen 
+Mitteln die politische Debatte und die &#246;ffentliche Meinung in Deutschland 
+zu beeinflussen versucht&#8220;, weiterhin existent (Bundestagsdrucksache 
+18/10759, Antwort zu Frage 8)? 
+Die Aufgabe der innerhalb des BfV eingerichteten tempor&#228;ren Arbeitseinheit 
+wurde inzwischen in den zust&#228;ndigen Fachbereich des BfV &#252;berf&#252;hrt. Im
+Bundesnachrichtendienst (BND) wird die Thematik weiterhin in mehreren Arbeitsbe-
+reichen/Abteilungen bearbeitet. Eine gemeinsame tempor&#228;re Arbeitseinheit von 
+BfV und BND bestand nicht (vgl. Bundestagsdrucksache 18/10759; Antworten 
+zu den Fragen 7 und 8).
+a) Welche wesentlichen Ergebnisse schildert der Bericht, den die
+Bundesregierung beim BND und beim BfV zu vermeintlich russischen Aktivit&#228;ten 
+im Cyberraum beauftragt hatte, zu denen es hei&#223;t, die Bundesregierung 
+habe diesen Bericht &#8222;zur Kenntnis genommen&#8220; (Bundestagsdrucksache 
+18/11106, Antwort zu Frage 7)? 
+Auf die Antwort der Bundesregierung zu den Fragen 7, 7a und 7 c der Kleinen 
+Anfrage der Fraktion DIE LINKE. auf Bundestagsdrucksache 18/11106 vom 
+8. Februar 2017 wird verwiesen. Im &#220;brigen wurde der Bericht &#8211; anders als von 
+den Fragestellern dargestellt &#8211; nicht zu vermeintlich russischen Aktivit&#228;ten im 
+Cyberraum in Auftrag gegeben, sondern hatte die Pr&#252;fung zum Ziel, ob die
+russische Regierung mit geheimdienstlichen Mitteln die politische Debatte und die 
+&#246;ffentliche Meinung in Deutschland zu beeinflussen versucht. 
+b) Hinsichtlich welcher weiterer Regierungen au&#223;er den in den Antworten 
+der Bundesregierung auf die Kleinen Anfragen der Fraktion DIE LINKE. 
+auf Bundestagsdrucksachen 18/11106, 18/8631 und 18/10759 genannten 
+Regierungen hat das BfV &#8222;Anwerbeversuche&#8220; der &#8222;Mitarbeiter
+(deutscher) Parlamentarier oder politischer Stiftungen&#8220; beobachten k&#246;nnen? 
+Neben Angeh&#246;rigen der russischen Nachrichtendienste unterhalten auch
+Angeh&#246;rige weiterer Nachrichtendienste Kontakt zu politischen Stiftungen. In diesem 
+Zusammenhang hat das BfV Anwerbungsversuche von Mitarbeiterinnen und 
+Mitarbeitern verschiedener Fraktionen des Deutschen Bundestages sowie von
+politischen Stiftungen durch Angeh&#246;rige chinesischer Nachrichtendienste
+beobachten k&#246;nnen. 
+16. Inwiefern k&#246;nnte der am 28. Februar 2018 bekannt gewordene Angriff nach 
+derzeitigem Stand der Analyse durch fehlende Sicherheitsupdates oder eine 
+gro&#223;z&#252;gige Rechtevergabe beg&#252;nstigt worden sein, und wie ist hierzu im 
+Ausw&#228;rtigen Amt verfahren worden? 
+Der Bundesregierung liegen hierzu noch keine abschlie&#223;enden Erkenntnisse vor, 
+da die technische Analyse des Vorfalles noch nicht abgeschlossen ist.  
+Im &#220;brigen wird auf den &#8222;VS &#8211; Geheim&#8220; eingestuften Antwortteil gem&#228;&#223; der 
+Vorbemerkung der Bundesregierung verwiesen. 
+17. Inwiefern h&#228;tte der Angriff nach derzeitigem Stand der Analyse verhindert 
+werden k&#246;nnen, wenn das Ausw&#228;rtige Amt nicht bis 2015 komplett auf 
+Windows XP und Windows 7 umgestiegen w&#228;re (Bundestagsdrucksache 
+18/4473)? 
+Auf die &#8222;VS &#8211; Nur f&#252;r den Dienstgebrauch&#8220; eingestufte Antwort gem&#228;&#223;
+Vorbemerkung der Bundesregierung wird verwiesen. 
+18. Wie viele E-Mails, die Schadsoftware enthielten, wurden im IVBB in den 
+Jahren 2016 und 2017 abgefangen? 
+19. Wie viele Verbindungen zu Webseiten, die Schadsoftware enthielten,
+wurden im IVBB in den Jahren 2016 und 2017 unterbunden? 
+Die Fragen 18 und 19 werden gemeinsam beantwortet.  
+F&#252;r die Beantwortung der Fragen wird auf die Berichte des BSI zur IT-Sicherheit 
+in Deutschland von 2016 und 2017 verwiesen.
+Diese sind unter den Adressen www.bsi.bund.de/SharedDocs/Downloads/DE/ 
+BSI/Publikationen/Lageberichte/Lagebericht2016.pdf?__blob=publicationFile&amp;v=5 
+und www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/Lageberichte/ 
+Lagebericht2017.pdf?__blob=publicationFile&amp;v=4 abrufbar. 
+Hiernach wurden im Berichtszeitraum 2016 monatlich ca. 44 Tsd. und 2017
+monatlich ca. 52 Tsd. mit Schadcode infizierte E-Mails in den Regierungsnetzen
+abgefangen. Ferner wurden im Berichtszeitraum 2016 t&#228;glich ca. 3 600 und 2017 
+t&#228;glich ca. 5 200 Verbindungsversuche aus den Regierungsnetzen zu
+Schadcodeservern blockiert. 
+20. Inwiefern k&#246;nnten die Angreifer nach derzeitigem Stand der Analyse nicht 
+ver&#246;ffentlichte Sicherheitsl&#252;cken (&#8222;Zero Day Exploits&#8220;) genutzt haben, und 
+inwiefern ist es dem BSI &#252;berhaupt m&#246;glich, hierzu am Ende der Analyse 
+und Ermittlungen mit endg&#252;ltiger Klarheit Aussagen zu treffen? 
+Hierzu liegen der Bunderegierung derzeit keine Erkenntnisse vor. Die
+Bundesregierung geht davon aus, dass das Ergebnis der technischen Analysen Aufschluss 
+&#252;ber das Vorgehen des Angreifers geben wird. Sogenannte Zero Day Exploits 
+zeichnen sich jedoch dadurch aus, dass die Schwachstelle i. d. R. nicht bekannt 
+ist und daher erst nach Bekanntwerden durch einen Fix geschlossen werden kann. 
+Es kann daher bei Cyberangriffen nie mit an Sicherheit grenzender
+Wahrscheinlichkeit ausgeschlossen werden, ob auch sogenannte Zero Day Exploits
+ausgenutzt wurden. 
+21. Was kann die Bundesregierung &#252;ber den Fortgang eines deutschen Prozesses 
+mitteilen, in den &#220;berlegungen zur Nutzung von Schwachstellen
+(sogenannten Exploits bzw. Zero Day Exploits) durch Strafverfolgungsbeh&#246;rden oder 
+Geheimdienste m&#252;nden sollen (Antwort auf die Schriftliche Frage 25 des 
+Abgeordneten Andrej Hunko auf Bundestagsdrucksache 18/13696)? 
+a) Welche Kriterien m&#252;ssten aus Sicht der Bundesregierung beispielsweise 
+erf&#252;llt sein, damit entschieden w&#252;rde, dass eine gefundene Schwachstelle 
+lieber nicht durch die Beh&#246;rden ausgenutzt wird, sondern die Hersteller 
+und Betreiber der Systeme gewarnt werden, damit sie diese schlie&#223;en
+k&#246;nnen? 
+b) Sofern die Meinungsbildung innerhalb der Bundesregierung hierzu
+immer noch nicht abgeschlossen ist, wann kann sie zur Frage m&#246;glicher 
+&#8222;Stufen eines Prozesses&#8220; und zu m&#246;glichen &#8222;Kriterien&#8220; eine Aussage
+treffen? 
+Die Fragen 21 bis 21b werden gemeinsam beantwortet. 
+Auf die Antwort der Bundesregierung auf die Schriftliche Frage 25 des
+Abgeordneten Andrej Hunko auf Bundestagsdrucksache 18/13696 vom 23. Oktober 2017 
+wird verwiesen. Es ist derzeit auch nicht absehbar, wann die Meinungsbildung 
+innerhalb der Bundesregierung hierzu abgeschlossen sein wird. 
+22. Mit welchen russischen Beh&#246;rden arbeiten welche Bundesbeh&#246;rden im
+Bereich der Cybersicherheit oder der Abwehr von IT-Angriffen regelm&#228;&#223;ig in 
+technischen, operativen und strategischen Fragen zusammen? 
+In den Jahren 2016 und 2017 f&#252;hrte die Bundesregierung ressort&#252;bergreifende 
+Cybersicherheitskonsultationen mit Russland, die der Vertrauensbildung und der
+strategischen Zusammenarbeit dienen sollten. Dar&#252;ber hinaus besteht keine
+Zusammenarbeit von Bundesbeh&#246;rden mit russischen Beh&#246;rden im Sinne der
+Fragestellung. 
+23. Sofern der am 28. Februar 2018 bekanntgewordene Angriff einem Staat
+zugerechnet werden kann, nach welcher Ma&#223;gabe h&#228;tte die Bundesregierung 
+aus ihrer Sicht das Recht, diesen f&#252;r sein Fehlverhalten zu sanktionieren?  
+In F&#228;llen, in denen eine Cyber-Operation einem fremden Staat zugerechnet
+werden kann, richtet sich die Zul&#228;ssigkeit von Gegenma&#223;nahmen nach dem
+innerstaatlichen Recht (zum Beispiel dem Gefahrenabwehrrecht) und dem
+V&#246;lkerrecht. Im &#220;brigen wird auf die Antwort zu Frage 12 verwiesen. 
+24. Aus welchen Erw&#228;gungen h&#228;lt es die Bundesregierung f&#252;r notwendig, die 
+rechtlichen und technischen F&#228;higkeiten zu digitalen Gegenschl&#228;gen
+auszuweiten, und welche Pl&#228;ne wird sie hierzu verfolgen (&#8222;Hacking back?
+Technische und politische Implikationen digitaler Gegenschl&#228;ge&#8220;, SWP-Aktuell 
+59, August 2017)? 
+a) Welche Ergebnisse kann die Bundesregierung zu Analysen der hierzu
+ben&#246;tigten technischen F&#228;higkeiten mitteilen, und welche Vorschl&#228;ge f&#252;r 
+notwendige gesetzliche &#196;nderungen wurden hierzu ermittelt? 
+b) Inwiefern sollten vor einem digitalen Gegenschlag zun&#228;chst
+internationale Rechtshilfeersuchen gestellt werden, um Angreifer zu ermitteln und 
+die Beh&#246;rden des zust&#228;ndigen Landes zur Mitarbeit bei der Abwehr
+aufzufordern? 
+c) Welche Beh&#246;rden sollten aus Sicht der Bundesregierung mit
+M&#246;glichkeiten digitaler Angriffe oder Gegenschl&#228;ge ausgestattet werden? 
+Die Fragen 24 bis 24c werden aufgrund des Sachzusammenhangs gemeinsam
+beantwortet. 
+Die Bundesregierung hat in der Cyber-Sicherheitsstrategie f&#252;r Deutschland im 
+Jahr 2016 die Feststellung getroffen (CSS 2016, Seite 29, abrufbar unter: 
+www.bmi.bund.de/DE/themen/it-und-digitalpolitik/it-und-cybersicherheit/
+cybersicherheitsstrategie/cyber-sicherheitsstrategie-node.html), dass schwerwiegende 
+Cyber-Angriffe vorstellbar sind, gegen die mit den klassischen pr&#228;ventiven
+Ma&#223;nahmen in der notwendigen Zeit nicht nachhaltig vorgegangen werden kann. Die 
+Bundesregierung hat deswegen Pr&#252;fungen eingeleitet, unter welchen rechtlichen 
+Rahmenbedingungen und mit welchen technischen M&#246;glichkeiten in solchen
+F&#228;llen durch staatliche Stellen Netzwerkoperationen durchgef&#252;hrt werden k&#246;nnen.  
+Der neue Koalitionsvertrag enth&#228;lt zudem Aussagen, die auf einen Bedarf der
+Sicherheitsbeh&#246;rden in Bezug auf gleichwertige Befugnisse im Umgang mit dem 
+Internet wie au&#223;erhalb des Internets gerichtet sind. 
+Unter diesen Rahmenbedingungen werden die Pr&#252;fungen zu Ma&#223;nahmen einer 
+(zivilen) aktiven Cyber-Abwehr fortgesetzt.  
+In die Pr&#252;fungen wird mit einbezogen, f&#252;r welche Szenarien, in welcher Form 
+und auf wessen Entscheidung zivile Ma&#223;nahmen der aktiven Cyber-Abwehr 
+durchgef&#252;hrt werden k&#246;nnen.
+Zudem flie&#223;en in die Pr&#252;fungen auch Fragen der Attributionsm&#246;glichkeiten und 
+der Verh&#228;ltnism&#228;&#223;igkeit solcher Ma&#223;nahmen mit ein, ebenso wie das
+Bewusstsein, dass staatliche Stellen im Rahmen des geltenden Verfassungs- und
+V&#246;lkerrechts agieren m&#252;ssen und unn&#246;tige Eskalationen zu vermeiden sind. 
+Jegliche Ma&#223;nahmen der aktiven Cyber-Abwehr sind einer sehr sorgf&#228;ltigen 
+rechtlichen und au&#223;enpolitischen Bewertung zu unterziehen. 
+Die Ergebnisse dieser Pr&#252;fungen sowie eine Entscheidung der Bundesregierung 
+&#252;ber den Rechtsetzungsbedarf liegen abschlie&#223;end noch nicht vor. 
+d) &#220;ber wie viele Mitarbeiterinnen und Mitarbeiter verf&#252;gt das vor einem 
+Jahr bei der Bundeswehr gegr&#252;ndete Kommando &#8222;Cyber- und
+Informationsraum&#8220;, und welcher Personalbestand ist geplant? 
+Das Kommando Cyber- und Informationsraum (KdoCIR) wurde mit einem
+Startum-fang von 258 Dienstposten (DP) am 1. April 2017 aufgestellt. Es wird nach 
+derzei-tigem Planungsstand mit Einnahme der Zielstruktur in 2021 ca. 700 DP 
+umfassen. Mit Stichtag zum 3. April 2018 sind 326 DP besetzt. 
+Der Gesamtumfang des Organisationsbereichs Cyber- und Informationsraum soll 
+im Jahr 2021 die Zielgr&#246;&#223;e erreichen und dann ca. 12 570 milit&#228;rische und 1 880 
+zivile DP umfassen. 
+e) Auf welche Weise soll die Zusammenarbeit von Bund und L&#228;ndern bei 
+der Cyberabwehr ausgebaut, verbessert und strukturell neu geordnet
+werden? 
+Cybergefahren und -angriffe sind i. d. R. nicht an Landesgrenzen gebunden. Eine 
+enge Zusammenarbeit von Bund und L&#228;ndern ist daher zwingend erforderlich. 
+Bund und L&#228;nder sind daher im kontinuierlichen Dialog, wie die Zusammenarbeit 
+gestaltet und verbessert werden kann. So wurde u. a. auf der Herbst-IMK 2016 
+eine Steuerungs- und B&#252;ndelungsfunktion des Bundes beschlossen. F&#252;r die
+Sicherheit der IT der &#246;ffentlichen Verwaltung des Bundes und der L&#228;nder hat der 
+IT-Planungsrat die IT-Sicherheitsleitlinie verabschiedet und schreibt diese
+regelm&#228;&#223;ig fort. 
+Um eine noch engere Zusammenarbeit zwischen Bund und L&#228;ndern bei der
+Gefahrenbewertung und -bew&#228;ltigung zu schaffen, beabsichtigt die
+Bundesregierung die L&#228;nder noch st&#228;rker in das weiterzuentwickelnde Cyberabwehrzentrum 
+einzubinden. 
+f) Mit welchen Kompetenzen wird die Rolle des BSI diesbez&#252;glich gest&#228;rkt, 
+und ist geplant, die Beh&#246;rde unabh&#228;ngig zu gestalten und die
+Nachordnung zum BMI aufzul&#246;sen, um Interessenskonflikte auszuschlie&#223;en? 
+Wie sich das Verh&#228;ltnis von Bund und L&#228;ndern bei der Zusammenarbeit mit dem 
+BSI konkret gestaltet, ist Gegenstand laufender Pr&#252;fung. Die Bundesregierung 
+beabsichtigt nicht, das BSI als unabh&#228;ngige Stelle einzurichten.
+ 
+ 
+ 
+Satz: Satzweiss.com Print, Web, Software GmbH, Mainzer Stra&#223;e 116, 66121 Saarbr&#252;cken, www.satzweiss.com 
+Druck: Printsystem GmbH, Schafw&#228;sche 1-3, 71296 Heimsheim, www.printsystem.de 
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de 
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/1390 -
+Kompromittierung deutscher Regierungsnetze</titel>
+    <datum>2018-04-25</datum>
+  </document>
+  

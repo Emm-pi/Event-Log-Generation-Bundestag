@@ -1,0 +1,611 @@
+<document>
+    <id>238957</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/17389</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>febd4b99766e4ef7ec4e6da783e0747b</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>258148</id>
+      <titel>Einf&#252;hrung von IPv6 in der Bundesverwaltung</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium des Innern, f&#252;r Bau und Heimat</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/173/1917389.pdf</pdf_url>
+      <id>238957</id>
+      <dokumentnummer>19/17389</dokumentnummer>
+      <datum>2020-02-25</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Antwort
+der Bundesregierung
+auf die Kleine Anfrage der Abgeordneten Anke Domscheit-Berg, Dr. Petra Sitte, 
+Niema Movassat, weiterer Abgeordneter und der Fraktion DIE LINKE.
+&#8211; Drucksache 19/16684 &#8211;
+Einf&#252;hrung von IPv6 in der Bundesverwaltung
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Durch ein Internetprotokoll ist festgelegt, wie im Internet Datenpakete
+verschickt werden. Damit die Pakete an der richtigen Stelle ankommen, braucht 
+jeder Knotenpunkt des Netzwerks eine global eindeutige Adresse, so die
+Theorie. Knotenpunkte k&#246;nnen zum Beispiel Computer sein, Server, welche
+Webseiten, E-Mail und andere Dienste zur Verf&#252;gung stellen oder Router. IPv4 
+(Internet Protocol Version 4) war die erste weltweit verbreitete Version des
+Internetprotokolls. Die Anzahl m&#246;glicher Adressen ist bei diesem Protokoll auf 
+4,3 Milliarden begrenzt und kann nicht nachtr&#228;glich erh&#246;ht werden. Bereits 
+seit den 1990er-Jahren wird diskutiert, dass der IPv4-Adressraum mit einer 
+zunehmenden Verbreitung des Personal Computers (PC) eines Tages zu klein 
+werden w&#252;rde. Deshalb wurde 1998 von der Internet Engineering Task Force 
+ein Nachfolgeprotokoll entwickelt, das dieses Problem beheben sollte. 
+Deutschland hat mit 120 Millionen vergleichsweise viele IPv4-Adressen.
+Indien hat beispielsweise, obwohl die Bev&#246;lkerung 16 Mal gr&#246;&#223;er ist als die
+deutsche, nur 40 Millionen Adressen (www.resources.potaroo.net/iso3166/v4c
+c.html). Wenn jedoch, wie das Protokoll vorsieht, jeder PC, jedes
+internetf&#228;hige Mobiltelefon, jeder Server, Router, Netzwerkdrucker und mittlerweile auch 
+immer mehr Haushaltsger&#228;te mindestens eine eigene Adresse bekommen
+sollen, sind nach Ansicht der Fragesteller 1,5 Adressen pro Person bei weitem 
+nicht ausreichend.
+Sp&#228;testens seit die IANA (Internet Assigned Numbers Authority) im Februar 
+2011 den letzten freien Block des IPv4-Adressraums dem RIPE NCC
+(R&#233;seaux IP Europ&#233;ens Network Coordination Centre), einem der f&#252;nf regionalen 
+Internet Registries, zugewiesen hat, wird die Brisanz der Adressknappheit
+immer deutlicher (www.nro.net/ipv4-free-pool-depleted). Das RIPE Network 
+Coordination Center, welches den europ&#228;ischen IP-Adressbereich verwaltet, 
+begrenzte im September 2012 die Menge an Adressen, die Mitglieder
+beziehen k&#246;nnen (www.ripe.net/publications/news/announcements/ripe-ncc-
+beginsto-allocate-ipv4-address-space-from-the-last-8). Am 25. November 2019
+wurde der letzte Adressblock verteilt (www.ripe.net/publications/news/about-
+ripencc-and-ripe/the-ripe-ncc-has-run-out-of-ipv4-addresses). Folge dieser
+Entwicklung ist die Entstehung eines sekund&#228;ren Marktes f&#252;r IP-Adressen, und 
+eine Wiederverwendung &#8222;gebrauchter&#8220; IP-Bl&#246;cke und damit eine
+Fragmentierung des globalen Adressraums. Beim weitverbreiteten NAT-Verfahren wer-
+Deutscher Bundestag Drucksache 19/17389
+19. Wahlperiode 25.02.2020
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums des Innern, f&#252;r Bau und Heimat 
+vom 21. Februar 2020 &#252;bermittelt.
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext.
+den mehrere Knotenpunkte mit einer geteilten IP-Adresse an das Internet
+angebunden. Sowohl in Haushalten als auch auf Ebene der ISPs (Internet
+Service Provider) wird diese Technik heute eingesetzt. Dadurch wird ein zentrales 
+Prinzip des Internets, die direkte Kommunikation von Ende zu Ende, verletzt. 
+All diese Strategien, die endg&#252;ltige Aussch&#246;pfung des IPv4-Adressraums
+hinauszuz&#246;gern, bringen nach Ansicht der Fragesteller vielf&#228;ltige Probleme der 
+Sicherheit, Verf&#252;gbarkeit und Nachhaltigkeit mit sich. Dennoch verl&#228;uft die 
+Umstellung nach wie vor schleppend. Aktuelle Statistiken zeigen, dass
+weltweit rund ein Viertel der Zugriffe auf Websites wie Google &#252;ber IPv6
+erfolgen.
+Der damalige Staatssekret&#228;r des Bundesministeriums des Innern (BMI), 
+Dr. Hans Bernhard Beus, bezeichnete die Umstellung auf IPv6 schon im Mai 
+2009 als wichtige infrastrukturelle Grundsatzentscheidung. Doch zehn Jahre 
+sp&#228;ter, im Juni 2019, scheint nur ein Bruchteil der Dienste des Bundes via 
+IPv6 erreichbar zu sein, wie eine Schriftliche Frage an die Bundesregierung 
+ergab (Bundestagsdrucksache 19/10897). In der ebenfalls im Juni 2019
+erschienenen Architekturrichtlinie f&#252;r die IT des Bundes wird gefordert, dass
+alle Neubeschaffungen mit IPv6 funktionsf&#228;hig sein, sowie alle bestehenden 
+Systeme IPv6-f&#228;hig gemacht werden m&#252;ssen.
+V o r b e m e r k u n g  d e r  B u n d e s r e g i e r u n g
+Die Einf&#252;hrung des Internetprotokolls Version 6 (IPv6) ist ein zentrales Modul 
+der Netzstrategie 2030. F&#252;r den Betrieb von IT-Netzwerken sind
+Netzwerkadressierungsressourcen &#8211; insbesondere IPv6-Adressen &#8211; zentrale Elemente, 
+durch die neben dem Transport der Datenpakete auch die Adressierung der am 
+Internet angeschlossenen Komponenten erm&#246;glicht wird.
+Zur &#252;bergreifenden Einf&#252;hrung bzw. Nutzung von IPv6 wurden in den
+vergangenen Jahren bereits zahlreiche Festlegungen getroffen sowie Einzelvorhaben 
+umgesetzt oder gestartet, bspw.:
+&#8226; Etablierung der Local Internet Registry (LIR) de.government (auf der 
+Grundlage von Beschlusslagen im Bund sowie in den f&#246;deralen Gremien) 
+im Bundesministerium des Innern, f&#252;r Bau und Heimat (BMI) zur
+Verwaltung von Netzwerkadressierungsressourcen der &#246;ffentlichen Verwaltung.
+&#8226; Das BMI und die Bundesanstalt f&#252;r den Digitalfunk der Beh&#246;rden und
+Organisationen mit Sicherheitsaufgaben (BDBOS) verwalten &#246;ffentliche
+Netzwerkadressierungsressourcen und weisen diese den autorisierten
+Organisationseinheiten, den sogenannten Sub-LIRs, zur Selbstverwaltung zu.
+&#8226; Zentral f&#252;r die gesamte Bundesverwaltung hat die BDBOS die Rolle der 
+Sub-LIR &#252;bernommen. Nutzer der Bundesverwaltung erhalten IPv6-/IPv4-
+Adressen und andere Ressourcen bei der BDBOS auf der Grundlage
+anerkannter Regeln der Internetstandardisierung.
+&#8226; Verankerung von IPv6 in der Architekturrichtlinie des Bundes (vgl. 
+TNAV-04, Architekturrichtlinie f&#252;r die IT des Bundes, 2018).
+&#8226; Vertragliche Festlegung der IPv6-F&#228;higkeit im Bereich der
+Regierungsnetze.
+&#8226; Beschluss des Anbieterbeirats vom 31. Oktober 2018 zur Umsetzung von 
+IPv6 in der Bundesverwaltung.
+Trotz der getroffenen Festlegungen und Einzelvorhaben existiert bislang kein 
+&#252;bergreifender Umsetzungsplan f&#252;r die Einf&#252;hrung von IPv6. Aus diesem 
+Grund wurde das BMI aufgefordert, einen IPv6-Masterplan zur verbindlichen 
+Einf&#252;hrung von IPv6 in der Bundesverwaltung zu erarbeiten (Beschluss 
+2019/04, Konferenz der IT-Beauftragten der Ressorts).
+Im Rahmen der Umsetzung des IPv6-Masterplans wird k&#252;nftig ein gro&#223;er Teil 
+der vorliegenden Fragen behandelt. Die Ressorts wurden angefragt und
+verweisen in ihren Antworten auf laufende politische Vorhaben zur Betriebs- und 
+Dienstekonsolidierung des Bundes.
+Eine der sehr hohen Detailtiefe der Fragen der Antragstellerin entsprechende 
+Beantwortung wird daher mit Blick auf dieses laufende Regierungshandeln erst 
+sukzessive m&#246;glich sein.
+Die IPv6-Migrationsplanung steht noch am Anfang und wird in Kooperation 
+mit den IT-Dienstleistern des Bundes sowie den Ressorts schrittweise
+vorangetrieben.
+&#8199;1. Wie definiert die Bundesregierung IPv6-F&#228;higkeit?
+Werden verschiedene Formen der abstrakten IPv6-F&#228;higkeit oder der
+tats&#228;chlichen Eignung zum Einsatz mit IPv6 unterschieden?
+Aus den bisherigen Aktivit&#228;ten und Erfahrungen in der Bundesverwaltung zu 
+IPv6 l&#228;sst sich die folgende Definition von IPv6-F&#228;higkeiten ableiten:
+a) IPv6-taugliche Netzinfrastruktur der Verwaltungs- und Regierungsnetze
+b) IPv6-taugliche Betriebsinfrastruktur f&#252;r Dienste (z. B. Rechenzentren, 
+Cloudplattformen)
+c) IPv6-taugliche Beh&#246;rdenarbeitspl&#228;tze (z. B. Bundesclient,
+Regierungssmartphones)
+d) IPv6-taugliche interne Verwaltungsdienste (z. B. Dienste der ITK-
+Dienstekonsolidierung)
+e) Externe Erreichbarkeit von Verwaltungsdiensten &#252;ber IPv6
+Die Stufen a bis c schaffen zun&#228;chst die Voraussetzungen um in den Stufen d 
+und e IPv6 tats&#228;chlich nutzen zu k&#246;nnen. Die Stufe e kann allerdings auch
+vorgezogen erreicht werden, wenn &#252;bergangsweise web-basierten
+Verwaltungsdiensten ein sogenannter IPv6-zu-IPv4-Reverseproxy vorgeschaltet wird.
+F&#252;r die Stufen a bis d gibt es jeweils die Variante, dass die Systeme der
+jeweiligen Infrastruktur zwar prinzipiell IPv6-tauglich sind, diese Tauglichkeit aber 
+derzeit nicht genutzt wird.
+&#8199;2. Wie stellen die Beh&#246;rden des Bundes fest, dass s&#228;mtliche IT-Systeme, 
+Verfahren, Infrastrukturen mit IPv6 und auch ohne IPv4 vollst&#228;ndig 
+funktionsf&#228;hig gem&#228;&#223; Architekturvorgabe TNAV-02 f&#252;r Netze (www.cio.
+bund.de/SharedDocs/Publikationen/DE/Architekturen-und-Standards/arc
+hitekturrichtlinie_it_bund_2019.pdf?__blob=publicationFile) sind (bitte 
+nach Beh&#246;rde aufschl&#252;sseln)?
+Die Pr&#252;fung und Umsetzung dieser sogenannten IPv6-only-F&#228;higkeit ist
+Gegenstand des IPv6-Masterplans des Bundes, der in einem ersten Entwurf
+vorliegt und nun in enger Abstimmung mit den Ressorts zu einer beschlussf&#228;higen 
+Version weiterentwickelt wird.
+Es ist bislang geplant, dass die Beh&#246;rden unter zentraler Koordination von BMI 
+die IPv6-Migration nach dem IPv6-Masterplan in eigenen Projekten und unter 
+Ber&#252;cksichtigung der Ressorthoheit durchf&#252;hren, bei Bedarf Unterst&#252;tzung 
+beim BMI anfordern k&#246;nnen und ihre Meilensteine und Projektst&#228;nde an BMI 
+melden und mit diesem abstimmen.
+Zur effizienten Evaluierung von IT-Systemen, Verfahren, Infrastrukturen auf 
+IPv6 und IPv6-only-Tauglichkeit wird im Rahmen der Finalisierung des IPv6-
+Masterplans die Einrichtung von einem oder mehreren Testlaboren/
+Zertifizierungsstellen gepr&#252;ft.
+&#8199;3. Wie hoch war der finanzielle und personelle Aufwand, die
+Funktionsf&#228;higkeit von IT-Systemen, Verfahren und Infrastrukturen des Bundes mit 
+IPv6 zu &#252;berpr&#252;fen?
+Eine umfassende IST-Analyse und deren Pr&#252;fung hat bislang noch nicht
+fl&#228;chendeckend stattgefunden. Somit wurden hierf&#252;r noch keine Mittel
+aufgewendet.
+&#8199;4. Welche Software in der Bundesverwaltung ist bereits jetzt in der Lage, 
+mit IPv6 umzugehen, und auf welche Weise wurde jeweils sichergestellt, 
+dass die IPv6-F&#228;higkeit gegeben ist (bitte nach Software und
+Fachverfahren und Einsatzort aufschl&#252;sseln)?
+&#8199;5. Welche durch den Bund oder im Auftrag des Bundes betriebenen Dienste 
+im Internet (Webseiten, Apps, Services, APIs etc.) sind bereits via IPv6 
+erreichbar, welche nicht (bitte nach Beh&#246;rde und IP-Adressen
+aufschl&#252;sseln)?
+Welche davon liegen im Adressbereich der LIR (local Internet Registry) 
+des Bundes, welche davon sind andere Anbieter, z. B. CDNs?
+&#8199;6. Welche Software in der Bundesverwaltung ist zum gegenw&#228;rtigen
+Zeitpunkt nicht in der Lage, mit IPv6 umzugehen (bitte nach Software und 
+Fachverfahren und Einsatzort aufschl&#252;sseln)?
+Die Fragen 4 bis 6 werden gemeinsam beantwortet.
+Bislang sind nur die Softwarepakete im Bestand der Bundesverwaltung IPv6-
+f&#228;hig, die dies herstellerseitig automatisch als Eigenschaft mitbringen, z. B. 
+Standardbetriebssysteme, Webserver, Applicationserver, oder f&#252;r dies im
+Rahmen der Beschaffungen unter Beachtung der Architekturrichtlinie des Bundes 
+bereits explizit gefordert wurde. Dass die IPv6-F&#228;higkeit gegeben ist, wird
+derzeit auf Basis der Architekturrichtlinie des Bundes sichergestellt.
+Eine Aufschl&#252;sselung bez&#252;glich der Bestandssoftware der gesamten
+Bundesverwaltung ist somit nicht m&#246;glich.
+&#8199;7. Welche Hardware im Besitz oder Eigentum des Bundes ist derzeit noch 
+nicht IPv6-f&#228;hig (bitte nach Beh&#246;rde aufschl&#252;sseln)?
+&#8199;8. Welche Systeme in Beh&#246;rden des Bundes sind derzeit noch nicht IPv6-
+f&#228;hig (bitte nach Beh&#246;rde und Einsatzort aufschl&#252;sseln)?
+&#8199;9. Welche Infrastrukturen, die durch den Bund oder im Auftrage des
+Bundes betrieben werden, sind derzeit noch nicht IPv6-f&#228;hig?
+Es wird auf die Antwort zu Frage 2 verwiesen.
+10. F&#252;r welche IT-Systeme wurde festgestellt, dass eine Fortf&#252;hrung mit 
+IPv4 aus Bestandsschutzgr&#252;nden n&#246;tig ist (bitte nach System und
+Beh&#246;rde aufschl&#252;sseln)?
+Diese Feststellung ist Gegenstand der Umsetzung des noch nicht finalisierten 
+IPv6-Masterplans. Nicht auf IPv6 umstellbare IT-Systeme und Dienste sollen 
+laut Entwurf des IPv6-Masterplans in sogenannten IPv4-Inseln bei
+Bestandsschutz weiterbetrieben werden. Ein Zugriff erfolgt dann entweder nur innerhalb 
+dieser Inseln oder mittels Remote-Benutzeroberfl&#228;che Technologien, wie
+Terminalserver oder Citrix oder, wenn technisch m&#246;glich mittels NAT64 &#252;ber 
+IPv6.
+Dar&#252;ber hinaus wird auf die Antwort zu Frage 2 verwiesen.
+11. Kann die Bundesregierung ein Datum benennen, an dem fl&#228;chendeckend 
+oder mit Ausnahme von bestandsgesch&#252;tzten IT-Systemen kein IPv4 
+mehr in der Bundesverwaltung zum Einsatz kommen soll?
+a) Welche Methoden, wie beispielsweise Lifecycle Management, setzt 
+die Bundesregierung ein, um dieses Ziel von IPv6-only zu einem 
+konkreten Zeitpunkt zu erreichen?
+b) Bezieht sich das Ziel IPv6-only lediglich auf Perimeter?
+IPv4 durch IPv6 abzul&#246;sen dient dem Ziel die digitale Handlungsf&#228;higkeit der 
+Bundesverwaltung sicherzustellen und ist kein Selbstzweck. Daraus folgt, dass 
+die vollst&#228;ndige Abschaltung von IPv4 in mehreren Bereichen der IT des
+Bundes kein Ziel ist und damit auch kein Abschaltdatum genannt werden kann.
+Dies ist Gegenstand des Entwurfs des IPv6-Masterplans. Es sollte ein Zeitpunkt 
+festgelegt werden, ab dem keine IT-Systeme, IT-Dienstleistungen und
+Netzanschl&#252;sse mehr beschafft werden d&#252;rfen, die IPv4 zur Funktion zwingend
+ben&#246;tigen, der sogenannte &#8222;IPv4-Freeze&#8220;. Dies und die IPv6-only-F&#228;higkeit
+erfordern eine entsprechend verbindliche Beschaffungsrichtlinie innerhalb der
+Bundesverwaltung und eine Koordinierung der einzelnen Lifecycle Management 
+Bereiche in der Bundesverwaltung. Die Dienstekonsolidierung, u. a. bei dem 
+Informationstechnikzentrum Bund (ITZBund) sowie die Einrichtung der
+Zentralstelle IT-Beschaffung (ZIB) beim Beschaffungsamt des Bundesministeriums 
+des Innern bieten hierf&#252;r bereits eine gute Grundlage.
+Das Ziel &#8222;IPv6-only&#8220; ist f&#252;r einen Staat mit freiheitlich demokratischer
+Grundordnung kein Ziel am Perimeter, sondern f&#252;r die interne IT-Infrastruktur des 
+Staates. Verwaltungsdienste m&#252;ssen dauerhaft am Perimeter f&#252;r B&#252;rger und 
+Wirtschaft neben IPv6 auch unter IPv4 angeboten werden, ansonsten drohen
+eine weitere digitale Spaltung und Diskriminierung von Teilen der Gesellschaft, 
+welche noch keinen oder nur teilweisen Netzzugang unter IPv6 haben.
+12. F&#252;r welche IT-Systeme existiert ein Migrationskonzept auf IPv6 (bitte 
+nach IT-System und Beh&#246;rde aufschl&#252;sseln)?
+Dem BMI sind keine in Betrieb befindlichen IT-Systeme in der
+Bundesverwaltung bekannt, f&#252;r die bereits ein konkretes IPv6-Migrationskonzept erarbeitet 
+wurde. F&#252;r einzelne spezielle IT-Sicherheitsprodukte, z. B. SINA Workstation 
+S, die in der Bundesverwaltung eingesetzt werden, wurde allerdings die
+Implementierung aller Funktionen unter IPv6 angesto&#223;en.
+13. Gibt es derzeit Bereiche in der Verwaltung, die Probleme haben, weil es 
+an IPv4-Adressen mangelt?
+Bezogen auf die externe Erreichbarkeit der IT-Dienste der Bundesverwaltung 
+mittels &#246;ffentlicher IPv4-Adressen existiert im Bund bislang kein Problem
+aufgrund eines Mangels an offiziellen IPv4-Adressen. Auf die Antwort zu Frage 
+31 wird verwiesen.
+Bez&#252;glich der Begrenzung des RFC 1918 IPv4-Adressbereichs (10.0.0.0/8) f&#252;r 
+die interne Nutzung bei der Konsolidierung der Bundes-IT im Rahmen der IT-
+Konsolidierung bestehen geeignete Ma&#223;nahmen zur Mitigation.
+14. Wer ist f&#252;r die Durchsetzung der IT-Architekturrichtlinie und die darin 
+enthaltene TNAV-02 zu IPv6 zust&#228;ndig?
+Die IT-Architekturrichtlinie des Bundes wird j&#228;hrlich gemeinsam mit den
+Ressorts federf&#252;hrend durch Abteilung DG im BMI fortgeschrieben. Mit
+Ma&#223;gabebeschluss des Haushaltsauschusses des Deutschen Bundestages vom 17. Juni 
+2015 ist sie f&#252;r alle Bereiche die von der IT-Konsolidierung betroffen sind
+verbindlich. IPv6 wird im Schwerpunkt durch BMI, Abteilung CI verantwortet 
+und abgestimmt.
+15. Welche Vorteile &#8211; neben dem gr&#246;&#223;eren Adressbereich &#8211; gibt es aus Sicht 
+der Bundesregierung, die eine IPv6-Einf&#252;hrung in der &#246;ffentlichen
+Verwaltung sowie den Umstieg auf IPv6 only begr&#252;nden?
+F&#252;r die Bundesverwaltung ergeben sich neben dem gr&#246;&#223;eren Adressbereich die 
+folgenden weiteren Vorteile durch die Einf&#252;hrung von IPv6 einerseits und der 
+Umstellung auf IPv6-only andererseits:
+Der Betrieb interner Verwaltungsnetzinfrastrukturen wird durch eindeutige
+Adressierung und Wegfall von NAT-Gateways transparenter. Der Wegfall von 
+NAT und die Nutzung von IPv6 ohne IPv4 in vielen Bereichen f&#252;hrt zu einer 
+deutlich geringeren Komplexit&#228;t beim Netzbetrieb und so zu einer h&#246;heren
+Cybersicherheit. IPv6 erm&#246;glicht ein effizienteres Routing in den Netzen der
+&#246;ffentlichen Verwaltung. Dar&#252;ber hinaus ist die Nutzung von IPv6 h&#228;ufig die
+Voraussetzung daf&#252;r den Herstellersupport sicherzustellen.
+Die St&#228;rkung der Digitalen Souver&#228;nit&#228;t Deutschlands ist einer der wichtigsten 
+Vorteile von IPv6, durch die M&#246;glichkeit den eigenen offiziellen IPv6-
+Adressraum durch die LIR de.government zu verwalten.
+16. Bei welchen Anl&#228;ssen und in welchen Gremien hat die Bundesregierung 
+mit Regierungen anderer Staaten &#252;ber die Einf&#252;hrung und Nutzung von 
+IPv6 gesprochen, mit welchem Ergebnis?
+Anl&#228;sslich von Meetings in den Jahren 2018 und 2019 bei der EU-
+Kommission (DG-DIGIT) zum Betrieb und zur Weiterentwicklung des EU-
+Verwaltungsnetzes TESTA-NG auf Arbeitsebene wurde die Nutzung von IPv6 
+in Verwaltungsnetzen thematisiert. Das Ergebnis war, dass Deutschland eine 
+Vorreiterrolle in der EU spielt und eine europaweite Einf&#252;hrung von IPv6 in 
+den Verwaltungsnetzen w&#252;nschenswert und notwendig ist. Im Rahmen des 
+ISA2 EU-Projekts zur Einf&#252;hrung von IPv6 hat BMI ma&#223;geblich mitgewirkt. 
+Bilateral findet ein Erfahrungsaustausch auf Arbeitsebene mit den EU-
+Mitgliedsstaaten statt.
+17. Bei welchen Anl&#228;ssen und in welchen Gremien hat die Bundesregierung 
+mit Vertreterinnen und Vertretern der Bundesl&#228;nder &#252;ber die Einf&#252;hrung 
+und Nutzung von IPv6 gesprochen, mit welchem Ergebnis?
+Im Rahmen der Sub-LIR Struktur der strategischen LIR de.government bei 
+BMI, Abteilung CI und durch die IPv6-Arbeitsgruppe des BMI steht die
+Bundesverwaltung in Sitzungen, die mehrmals j&#228;hrlich seit 2011 stattfinden, in
+engem und regelm&#228;&#223;igem Kontakt mit zahlreichen L&#228;ndervertretern.
+Im Ergebnis sind die Aktivit&#228;ten zur Einf&#252;hrung von IPv6 sehr gut zwischen 
+Bund und L&#228;ndern abgestimmt und die Erfahrungen aus den L&#228;ndern tragen 
+zur Qualit&#228;t der Konzepte und Planungen des Bundes signifikant bei.
+18. Welche Erkenntnisse hat die Bundesregierung &#252;ber die Einf&#252;hrung von 
+IPv6 in der Verwaltung und in den Beh&#246;rden anderer EU-Mitgliedstaaten 
+und in der Europ&#228;ischen Kommission?
+&#220;ber die, von den einzelnen Mitgliedsstaaten im Internet ver&#246;ffentlichten
+Informationen hinaus, liegen keine weiteren offiziellen Informationen vor.
+19. Welche Erkenntnisse hat die Bundesregierung &#252;ber die Einf&#252;hrung von 
+IPv6 in der Verwaltung und in den Beh&#246;rden der L&#228;nder?
+L&#228;ndervertreter berichten regelm&#228;&#223;ig in den j&#228;hrlich stattfindenden Sub-LIR-
+Foren &#252;ber IPv6-Einf&#252;hrungsprojekte und Fortschritte in den L&#228;ndern.
+Zahlreiche Bundesl&#228;nder f&#252;hren in einzelne Bereiche ihrer IT IPv6 als Netzprotokoll 
+ein.
+20. Welche Erkenntnisse hat die Bundesregierung &#252;ber die Einf&#252;hrung von 
+IPv6 in der deutschen Privatwirtschaft, bei
+Nichtregierungsorganisationen, in Privathaushalten und in Homeoffices?
+Die RIPE NCC hat hierzu im November 2019 einen detaillierten IPv6-
+Countryreport &#252;ber Deutschland erstellt, auf den hier verwiesen wird. Dieser 
+stellt von unabh&#228;ngiger Stelle die positive Entwicklung in Deutschland
+bez&#252;glich der Einf&#252;hrung von IPv6 in der deutschen Privatwirtschaft, bei
+Nichtregierungsorganisationen, in Privathaushalten und in Homeoffices dar www.abs.rip
+e.net/Members/suzanne_taylor_muzzin/ripe-ncc-country-report-germany.
+21. Wie sieht die Strategie der Bundesregierung zur Migration der
+Bundesbeh&#246;rden auf IPv6 aus?
+a) Wann wurde eine solche Strategie erstellt?
+b) Welche zeitlichen Meilensteine gibt es?
+c) Wurden diese Meilensteine in der Vergangenheit verschoben, und 
+wenn ja warum?
+Der Entwurf des IPv6-Masterplans f&#252;r die Bundesverwaltung wurde im Jahr 
+2019 erstellt.
+In der Sitzung der Konferenz der IT-Beauftragten der Ressorts (KoITB) im
+Dezember 2019 wurde durch das BMI dieser Entwurf f&#252;r einen IPv6-Masterplan 
+f&#252;r die Bundesverwaltung vorgelegt. Dieser befindet sich nach R&#252;cksprache 
+mit den Ressorts in weiterer Abstimmung.
+M&#246;gliche Meilensteine werden im Entwurf des IPv6-Masterplans aus Sicht des 
+BMI f&#252;r die Bundesverwaltung in Kapitel 9, Abbildung 4 &#8222;IPv6 Roadmap 
+Bund&#8220; skizziert. Konkrete Meilensteine sind insbesondere Gegenstand der
+weiteren Abstimmung.
+Da bislang keine konkreten Meilensteine f&#252;r die Bundesverwaltung festgelegt 
+wurden, hat keine Verschiebung stattfinden k&#246;nnen.
+22. Mit wem arbeitet die Bundesregierung an einer solchen Strategie?
+a) Gibt es eine externe technische Beratung, und wenn ja, durch wen?
+b) Gibt es eine interne Gruppe, die sich mit diesem Thema befasst?
+c) Wie gro&#223; ist diese Gruppe, und welche Qualifizierungen bringt sie zu 
+diesem Thema ein?
+Der Entwurf des IPv6-Masterplans f&#252;r die Bundesverwaltung wurde durch das 
+BMI, Abteilung CI zusammen mit der BDBOS, der IPv6-Arbeitsgruppe des 
+BMI sowie der IANA-Bund Arbeitsgruppe erarbeitet. Dieser wird nun mit IT-
+Vertretern aus den Ressorts abgestimmt und weiterentwickelt.
+Bei der Erarbeitung und Weiterentwicklung des IPv6-Masterplans f&#252;r die
+Bundesverwaltung unterst&#252;tzen externe, insbesondere auch international anerkannte 
+Experten. Die Bundesverwaltung steht hier in direkter Konkurrenz zu
+internationalen Technologiekonzernen.
+Es existieren drei Gruppen die sich mit dem Thema der IPv6-Einf&#252;hrung intern 
+befassen:
+IPv6-Arbeitsgruppe des BMI:
+Die IPv6-Arbeitsgruppe (IPv6 AG) wurde Anfang 2010 als beratendes
+Gremium des BMI mit der Zielsetzung ins Leben gerufen, das in der &#246;ffentlichen
+Verwaltung vorhandene IPv6-Know-how zu b&#252;ndeln sowie Vorschl&#228;ge f&#252;r die 
+Grundlagen der organisatorischen und technischen Umsetzung des IPv6-
+Adressraums zu erarbeiten. Die Arbeitsgruppe setzt sich aus aktiv am Thema 
+IPv6 arbeitenden Vertretern von Bund, L&#228;ndern, Kommunen sowie &#246;ffentlichen 
+IT-Dienstleistern zusammen und ist offen f&#252;r weitere aktive Teilnehmer.
+Die IPv6-Arbeitsgruppe bildet aktuell und zuk&#252;nftig die Basis f&#252;r die
+Weiterentwicklung der Thematik IPv6 in der &#246;ffentlichen Verwaltung und der
+strategischen LIR de.government bei BMI, Abteilung CI im Speziellen.
+Die Arbeitsgruppe tagt auf Einladung der LIR de.government mindestens
+zweimal pro Jahr.
+IANA-Bund Arbeitsgruppe:
+Die strategische LIR de.government verwaltet Internetressourcen f&#252;r die
+gesamte &#246;ffentliche Verwaltung auf der Grundlage von Gremienentscheidungen 
+des IT-Planungsrats und des IT-Rats in sogenannten Sub-LIRs.
+Die LIR verteilt dabei Internet Adressressourcen zur Selbstverwaltung an die 
+Sub-LIRs, um den Anforderungen des F&#246;deralismus und der Ressorthoheit
+gerecht zu werden.
+Die Sub-LIRs des Bundes haben sich im Herbst 2018 in der gemeinsamen
+Arbeitsgruppe IANA-Bund zusammengefunden, um gleichberechtigt &#252;ber die 
+technischen Ma&#223;nahmen zur Umsetzung der IT-Konsolidierung und dar&#252;ber
+hinaus auch weitere Themen zu diskutieren, abzustimmen und den
+Entscheidungsgremien insbesondere der Konferenz der IT-Beauftragten zur Billigung 
+vorzulegen. Der Name ist abgeleitet aus der Internet Assigned Numbers
+Authority (IANA), der Internationalen Institution zur Vergabe von Internetressourcen. 
+Die IPv6-Arbeitsgruppe des BMI und die IANA-Bund Arbeitsgruppe
+synchronisieren sich in Koordination durch das BMI.
+Ressortgruppe zum Masterplan:
+Als Ergebnis der Sitzung der KoITB im Dezember 2019 erfolgt in 2020 eine 
+weitere Abstimmung des Entwurfs des IPv6-Masterplans f&#252;r die
+Bundesverwaltung mit IT-Vertretern aus den Ressorts und bildet damit eine weitere
+Gruppe, die sich mit der Einf&#252;hrung von IPv6 im Bund befasst.
+Die IPv6-Arbeitsgruppe besteht aus ca. 15, die IANA-Bund Arbeitsgruppe aus 
+ca. zehn Teilnehmern. Die Ressortgruppe zur Abstimmung des IPv6-
+Masterplans bildet sich aktuell. Es nehmen jeweils fachliche Experten f&#252;r
+Netzwerktechnologie und IPv6 aus den beteiligten Beh&#246;rden teil.
+23. Wie wird die Kompatibilit&#228;t zwischen einem neuen auf IPv6 basierenden 
+System und Legacy-Systemen von z. B. Landesbeh&#246;rden sichergestellt?
+Die Abstimmung zum Einsatz von IPv6 findet ma&#223;geblich in der IPv6-
+Arbeitsgruppe statt. Detailfragen zur Kompatibilit&#228;t zwischen IT-Systemen von 
+L&#228;ndern und dem Bund k&#246;nnen aber Gegenstand weiterer Gremien sein, z. B. 
+im Rahmen der OZG-Umsetzung.
+24. Wie koordiniert sich die Bundesebene mit den Landesebenen sowie
+anderen relevanten Ebenen?
+Bezogen auf IPv6 findet die fachliche Abstimmung in der IPv6-Arbeitsgruppe 
+des BMI statt.
+25. Wie viele IT-Systeme wurden seit der Ank&#252;ndigung des damaligen 
+Staatssekret&#228;rs Dr. Hans Bernhard Beus am 14. Mai 2009 &#252;ber die
+Unterst&#252;tzung und den Einsatz von IPv6 in der Bundesverwaltung mit welchen 
+Mitteln beschafft, die kein IPv6 unterst&#252;tzten?
+Es wird auf die Antwort zu Frage 2 verwiesen.
+26. Wird IPv6 als Anforderung an externe Dienstleister mitgegeben, die
+Angebote f&#252;r Beh&#246;rden und andere Institutionen betreiben?
+An einzelne Dienstleister, insbesondere an Hersteller von zertifizierten IT-
+Sicherheitskomponenten, wurde die Unterst&#252;tzung von IPv6 als Anforderung 
+gestellt. Die Architekturrichtlinie des Bundes ist eine wichtige Grundlage.
+27. Welche nichtprivaten (RFC1918) IPv4-Adressen und Adressbereiche 
+sind derzeit im Besitz oder in der Verf&#252;gungsgewalt welcher
+Bundesbeh&#246;rden (bitte aufschl&#252;sseln)?
+Im Folgenden sind die IPv4-Adressbereiche der Bundesverwaltung aufgef&#252;hrt, 
+die von der LIR de.government verwaltet werden. Die Konsolidierung der 
+IPv4-Adressbereiche der Bundesverwaltung bei der LIR de.government ist
+allerdings noch nicht abgeschlossen (siehe Antwort zu Frage 31). Deshalb kann 
+nicht ausgeschlossen werden, dass sich weitere IPv4-Adressbereiche in der
+Verf&#252;gungsgewalt von weiteren Bundesbeh&#246;rden befinden.
+&#220;ber die unten genannten Bereiche hinaus bekannt sind die folgenden IP-
+Adressbereiche, welche noch von der Sponsoring LIR der Deutschen Telekom 
+verwaltet werden:
+193.24.128.0/18 Bundesamt f&#252;r Migration und Fl&#252;chtlinge viaBundesamt f&#252;r Sicherheit in der Informationstechnik
+77.87.224.0/21 Bundesamt f&#252;r Sicherheit in der Informationstechnik
+77.87.224.0/22 Bundesamt f&#252;r Sicherheit in der Informationstechnik
+77.87.228.0/22 Bundesamt f&#252;r Sicherheit in der Informationstechnik
+IPv4-Adressbereiche der Bundesverwaltung, die von der LIR de.government 
+verwaltet werden:
+&#214;ffentlicher
+IPv4-Adressbereich
+Beh&#246;rdenzuordnung Kommentar
+31.12.32.0/19 DE-GOVERNMENT-20110415
+81.160.0.0/17 DE-GOVERNMENT-20031112
+153.93.0.0/16 DE-GOVERNMENT-19910923
+193.23.252.0/24 DE-GOVERNMENT-19920729
+193.30.80.0/21 DE-GOVERNMENT-19930921
+134.92.0.0/16 Bundesamt f&#252;r Strahlenschutz Sponsored
+Ressource
+194.76.151.0/24 Bundesnetzagentur f&#252;r Elektrizit&#228;t, 
+Gas, Telekommunikation, Post
+und Eisenbahnen
+Sponsored
+Ressource
+194.156.216.0/21 Bundesnetzagentur f&#252;r Elektrizit&#228;t, 
+Gas, Telekommunikation, Post
+und Eisenbahnen
+Sponsored
+Ressource
+Die Tabelle zeigt betreffende Adressbereiche im Zust&#228;ndigkeitsbereich der LIR de.government an. 
+Sie spiegelt nicht einen bestimmten Belegungsgrad wider.
+Weiterhin werden Bereiche auch nur tempor&#228;r f&#252;r diverse Einsatzzwecke
+verwendet und nicht permanent bestimmten Beh&#246;rden bzw. Abteilungen
+zugeordnet.
+28. Welche IPv4-Adressen und Adressbereiche wurden in den letzten zehn 
+Jahren zu welchen Kosten durch den Bund oder auf Veranlassung des 
+Bundes von wem erworben (bitte aufschl&#252;sseln)?
+Es wurden keine IPv4-Adressen in den letzten zehn Jahren durch den Bund
+erworben.
+Die LIR de.government hat das Mandat, IPv4-Adressbereiche im Bund zentral 
+zu konsolidieren. Dieser Vorgang ist noch nicht abgeschlossen und befindet 
+sich im laufenden Prozess.
+29. Welche IPv4-Adressen und Adressbereiche wurden in den letzten zehn 
+Jahren durch den Bund zu welchen Kosten an wen abgegeben (bitte
+aufschl&#252;sseln)?
+Die LIR de.government stellt dem Bund kostenneutral und bedarfsorientiert
+&#246;ffentliche IPv4-Adressen zur Verf&#252;gung.
+30. Welche IPv4-Adressen und Adressbereiche sind dem Bund zur Nutzung 
+&#252;berlassen worden oder werden von ihm im Rahmen von ISP-
+Dienstleistungen zur Nutzung bereitgestellt?
+Auf die Antwort zu Frage 27 wird verwiesen. Weitere &#220;bersichten liegen nicht 
+vor. Derzeit werden die &#246;ffentlichen IPv4-Adressen, die von Dritten zur
+Verf&#252;gung gestellt werden, soweit m&#246;glich durch eigene Adressbereiche des Bundes 
+aus der LIR de.government ersetzt.
+31. Welche Bem&#252;hungen hat der Bund unternommen, sich Zugriff oder
+Nutzungsrechte f&#252;r IPv4-Adressen zu verschaffen, und welche
+Aufwendungen sind dabei entstanden (bitte nach Erfolg und Vorgang aufschl&#252;sseln)?
+Mit Beschluss Nr. 2016/9 der Konferenz der IT-Beauftragten der Ressorts vom 
+5. Oktober 2016 &#252;bernimmt das BMI die zentrale Verwaltung der &#246;ffentlichen 
+IPv4-Adressen f&#252;r den Bund. Zur Umsetzung des Beschlusses hat die BDBOS 
+2019 mit einer Konsolidierung und dem Transfer in die LIR de.government 
+folgender IPv4-Adress-R&#228;ume begonnen. Die Evaluierung des Aufwandes ist 
+schwierig, weil die Konsolidierung in Kooperation mit der RIPE NCC erfolgt.
+&#8226; In Q1 2019 wurden IPv4-Adressraum Transfers erfolgreich abgeschlossen
+(1x /21, 1x /24).
+&#8226; In Q3 2019 wurden IPv4-Adressraum Transfers erfolgreich abgeschlossen
+(1x /16) und werden noch durchgef&#252;hrt (1x /16).
+&#8226; In Q4 2019 wurden IPv4-Adressraum Transfers angesto&#223;en (1x /21).
+&#8226; Weitere Transfers sind in 2020 geplant.
+32. Welche rechtlichen, haushalterischen, technischen, organisatorischen 
+oder sonstigen Vorgaben existieren bei dem Kauf oder Verkauf von IPv4- 
+oder IPv6-Adressen oder Adressbereichen, an denen der Bund beteiligt 
+ist?
+Vorgaben dazu sind in der strategischen LIR de.govermment im BMI in Bezug 
+auf IPv4-Adressen in Bearbeitung. Bislang pr&#252;ft die LIR de.government solche 
+Vorg&#228;nge im Einzelfall.
+IPv6-Adressen wurden zentral &#252;ber die LIR de.government f&#252;r die gesamte
+&#246;ffentliche Verwaltung unentgeltlich bei der RIPE &#8222;beschafft&#8220;. Hier ist in den 
+n&#228;chsten Jahren kein Verkauf oder Kauf abzusehen bzw. geplant.
+33. Welche IPv4-Adressen oder Adressbereiche wurden in den letzten zehn 
+Jahren innerhalb des Bundes oder zwischen Bund und L&#228;ndern
+abgegeben, getauscht oder sonst wie neu verteilt?
+Es wird auf die Antwort zu Frage 31 verwiesen.
+34. Da sich beim Zugriff via IPv6 bereits in der Adresse des Absenders
+personenbezogene Daten befinden k&#246;nnen, z. B. die Hardwarekennung 
+(MAC-Adresse) eines Mobiltelefons, welche Pl&#228;ne bestehen,
+insbesondere im Fall der Speicherung und Auswertung dieser Daten, &#252;ber die 
+technische Umstellung auf neue Adressen hinaus, um den damit
+einhergehenden h&#246;heren Datenschutzanforderungen von Anfang an Sorge zu 
+tragen?
+Wie auch im &#8222;IPv6 Migrationsleitfaden f&#252;r die &#246;ffentliche Verwaltung&#8220; aus 
+dem IPv6 Forschungsprojekts des Bundes in Kapitel 8.5.2 &#8222;Datenschutz bei der 
+Nutzung von IPv6&#8220; beschrieben, sollten als Gegenma&#223;nahme gegen die
+beschriebene ungewollte Weitergabe von personenbezogenen
+Hardwarekennungen, Privacy Extensions genutzt werden.
+Dar&#252;ber hinaus verhindert auch der Einsatz von Applicationlayer Gateways
+an den Netz&#252;berg&#228;ngen des Bundes die Offenlegung interner IPv6-
+Adressstrukturen beim Zugriff auf Internetdienste. Beispielvorgaben ergeben 
+sich aus den Ergebnissen des IPv6-Forschungsprojekts des Bundes.
+35. Welche IT-Systeme und Anwendungen werden durch den Bund oder im 
+Auftrage des Bundes und seiner Beh&#246;rden derzeit entwickelt oder
+geplant, und wie findet hier jeweils die Sicherstellung der IPv6-F&#228;higkeit 
+dieser Systeme und Anwendungen statt?
+Die Sicherstellung der IPv6-F&#228;higkeit findet aktuell je Beh&#246;rde einzeln statt, 
+die Beschaffung findet zum Teil zentralisiert, zum Teil aber auch dezentral 
+statt. Daher wird auf den IPv6-Masterplan und die Architekturrichtlinie des 
+Bundes verwiesen.
+36. Welche Sicherheitsma&#223;nahmen werden zum Schutz der IPv6
+Infrastruktur an Netz&#252;berg&#228;ngen getroffen?
+Die Sicherheitsma&#223;nahmen an den Netz&#252;berg&#228;ngen beim Betrieb des IPv6-
+Protokolls unterscheiden sich nicht grunds&#228;tzlich von denen, die bereits mit 
+IPv4 eingesetzt wurden. Unterschiede betreffen die Konfiguration der
+Sicherheitskomponenten, z. B. entf&#228;llt in der Regel mit IPv6 eine Adressumsetzung 
+mittels NAT.
+37. Gibt es innerhalb des Bundes mit seinen Beh&#246;rden interne Netze, die 
+RFC1918-&#228;quivalente Adressen verwenden werden, damit diese nicht 
+global routbare Adressen verwenden (www.tools.ietf.org/html/rfc4193)?
+Da IPv6-Adressen nach RFC 4193, sogenannte Unique Local Addresses 
+(ULA), in gr&#246;&#223;eren Umgebungen erhebliche Nachteile im Betrieb mit sich 
+bringen und auf der anderen Seite ein ausreichend gro&#223;er Adressraum an
+Global Unicast Addresses f&#252;r die &#246;ffentliche Verwaltung in Deutschland zur
+Verf&#252;gung steht, werden ULAs, soweit bekannt, nicht in den Beh&#246;rden des Bundes 
+eingesetzt.
+38. Gibt es einen Mechanismus zur &#220;berpr&#252;fung der tats&#228;chlichen
+Erreichbarkeit und dauerhaften Verf&#252;gbarkeit von IPv6-Adressen innerhalb der 
+Bundesverwaltung?
+Ein entsprechendes Monitoring ist in der LIR de.government in Planung.
+39. Wird der Prozess der Umstellung auf IPv6 in den Bundesbeh&#246;rden durch 
+interne oder externe Arbeitsstellen oder Dienstleister begleitet oder
+unterst&#252;tzt?
+a) Wie hoch sind die jeweiligen Kosten dieser Arbeit?
+b) In welcher Form findet die Unterst&#252;tzung statt?
+c) Welcher Aufwand ist dem Bund bei der Unterst&#252;tzung und Beratung 
+der Einrichtung der SubLIRs innerhalb von de.government
+entstanden?
+d) Welcher Aufwand ist dem Bund nach der Einrichtung f&#252;r die
+Beratung und Unterst&#252;tzung der Wartung und Aufrechterhaltung des
+Betriebs der Sub-LIRs entstanden?
+a) BMI-seitige Kosten externer Beratung und Unterst&#252;tzung f&#252;r die
+Einf&#252;hrung von IPv6:
+1. 2007 bis 2011 Beratung durch CSC ca. 400.000 Euro
+2. 2008 wurde einmalig eine freih&#228;ndige Vergabe zur Beantragung des
+Adressraums an Spacenet in H&#246;he 6.000 Euro vergeben.
+3. 2010 bis 2017 fraunhofer focus- Forschung und Entwicklung 
+2.100.000 Euro
+4. 2011 bis 2018 Beratung durch Cassini ca. 1.400.000 Euro
+5. 2018 bis heute Beratung durch Neuland@Homeland und SVA 
+400.000 Euro
+b) Die Unterst&#252;tzung findet in Form von fachlicher Beratung und
+Unterst&#252;tzung bei Teilaufgaben, die sich aus der Gesamtaufgabe ergeben statt.
+c) Die Aufw&#228;nde zur Unterst&#252;tzung von Sub-LIRs wurden nicht getrennt von 
+den sonstigen Aufw&#228;nden des LIR-Betriebs und Aufbaus verbucht. Sie sind 
+in den Angaben zu a enthalten. Intern sind Personalstellen mit diesen
+Aufgaben bei der BDBOS und dem BMI betraut.
+d) Die Aufw&#228;nde zur Betriebsunterst&#252;tzung von Sub-LIRs wurden nicht
+getrennt von den sonstigen Aufw&#228;nden des LIR-Betriebs und Aufbaus
+verbucht. Sie sind in den Angaben zu a enthalten. Intern sind vier VZ&#196;
+(Planstellen/Stellen) mit diesen Aufgaben bei der BDBOS und dem BMI betraut.
+40. Welche Erfahrungen hat die Bundesregierung beim Einsatz von IPv6 im 
+Hinblick auf die F&#228;higkeit von externen Dienstleistern und insbesondere 
+ISPs gemacht, mit IPv6 umzugehen (bitte nach Dienstleistern
+aufschl&#252;sseln)?
+Der Bundesregierung liegen Erfahrungen zur TSI vor. Die Erfahrungen sind 
+sehr heterogen. Technische M&#246;glichkeiten und Gesch&#228;ftsmodelle m&#252;ssen vor 
+dem Hintergrund des Bedarfs der &#246;ffentlichen Verwaltung gemeinsam gestaltet 
+werden.
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/16684 -
+Einf&#252;hrung von IPv6 in der Bundesverwaltung</titel>
+    <datum>2020-02-25</datum>
+  </document>

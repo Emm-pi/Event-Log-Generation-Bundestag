@@ -1,0 +1,665 @@
+<document>
+    <id>243603</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/21177</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>9eef9ce792cd5f40128399268da317d6</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>263943</id>
+      <titel>Schul-Cloud des Hasso-Plattner-Instituts: Datenschutz, Corona &amp; Zukunftsperspektiven.</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium f&#252;r Bildung und Forschung</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/211/1921177.pdf</pdf_url>
+      <id>243603</id>
+      <dokumentnummer>19/21177</dokumentnummer>
+      <datum>2020-07-21</datum>
+      <verteildatum>2020-10-07</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Antwort
+der Bundesregierung
+auf die Kleine Anfrage der Abgeordneten Britta Katharina Dassler, Katja Suding, 
+Dr. Jens Brandenburg (Rhein-Neckar), weiterer Abgeordneter und
+der Fraktion der FDP
+&#8211; Drucksache 19/20292 &#8211;
+Schul-Cloud des Hasso-Plattner-Instituts: Datenschutz, Corona &amp; 
+Zukunftsperspektiven.
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Die aktuellen Datenschutzvorkommnisse bei der Schul-Cloud-L&#246;sung des 
+Hasso-Plattner-Instituts (HPI) haben eine Reihe von Fragen zur Konzeption, 
+Umsetzung und Perspektiven verst&#228;rkt. Die breite Berichterstattung, zuletzt 
+im Handelsblatt vom 6. Juni 2020, hat weitergehende Fragen zu Handling, 
+Kommunikation und Transparenz bei den aktuellen
+Datenschutzvorkommnissen aufkommen lassen (https://www.handelsblatt.com/technik/it-internet/hass
+o-plattner-institut-sicherheit-zuerst-wie-die-schul-cloud-pannen-behebt/25888
+706.html). Aber auch dar&#252;ber hinaus wurden bisher nicht beantwortete
+Aspekte der Konzeption, der Bedarfe, des Wettbewerbs, der Zeit-Ma&#223;nahmen-
+Planung und der Abstimmungen zwischen den Akteuren erneut aufgeworfen.
+&#8199;1. Wie ist der Sachstand bez&#252;glich der HPI Schul-Cloud-L&#246;sung?
+a) Wie ist die Konzeption der HPI Schul-Cloud?
+Die Fragen 1 und 1a werden im Zusammenhang beantwortet.
+Die HPI Schul-Cloud ist eine cloudbasierte Softwarel&#246;sung, die als
+infrastrukturelles Angebot webbasierte Lerninhalte sowie Anwendungen &#252;ber einen
+zentralen Zugang zur Verf&#252;gung stellt. Sie soll Endanwender (Schulen, Lehrkr&#228;fte, 
+Sch&#252;lerinnen und Sch&#252;ler) von administrativen und technischen Aufgaben
+entlasten und eine leistungsf&#228;hige Lehr-Lernumgebung zur Verf&#252;gung stellen, die 
+hohen IT-Sicherheits- und Datenschutzanforderungen gen&#252;gt.
+Die Konzeption der HPI Schul-Cloud ist in diversen &#246;ffentlich zug&#228;nglichen 
+Dokumenten eingehend dargestellt worden. Es wird auf folgende Dokumente 
+verwiesen:
+&#8211; Christoph Meinel, Jan Renz, Catrina Grella, Nils Karn, Christiane 
+Hagedorn, Die Cloud f&#252;r Schulen in Deutschland: Konzept und Pilotierung 
+der Schul-Cloud (= Technische Berichte Nr. 116 des Hasso-Plattner-Instituts 
+Deutscher Bundestag Drucksache 19/21177
+19. Wahlperiode 21.07.2020
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums f&#252;r Bildung und Forschung vom 
+21. Juli 2020 &#252;bermittelt.
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext.
+f&#252;r Softwaresystemtechnik an der Universit&#228;t Potsdam), Potsdam 2017 
+(https://hpi.de/fileadmin/user_upload/fachgebiete/ meinel/papers/Web-Univ
+ersity/Schul-Cloud_Technischer_Bericht_web.pdf)
+&#8211; Christoph Meinel, Jan Renz, Matthias Luderich, Vivien Malyska, 
+Konstantin Kaiser, Arne Oberl&#228;nder, Die HPI Schul-Cloud: Roll-Out einer 
+Cloud-Architektur f&#252;r Schulen in Deutschland (= Technische Berichte 
+Nr. 125 des Hasso-Plattner-Instituts f&#252;r Digital Engineering an der
+Universit&#228;t Potsdam), Potsdam 2019 (https://hpi.de/fileadmin/user_upload/hpi/doku
+mente/publikationen/technische_berichte/tbhpi125.pdf)
+b) Welches Ziel ist mit dem HPI zur Schul-Cloud vereinbart worden?
+Die drei Projektphasen, die das Verbundprojekt Schul-Cloud-Projekt von HPI 
+und MINT EC e. V. betreffen, sind durch die Projektziele der Antragsteller
+definiert. Im Schul-Cloud-Pilotprojekt (F&#246;rderkennzeichen CLOUD16, Laufzeit 
+1. September 2016 bis 31. Januar 2017) wurde ein technisches Konzept
+entwickelt und begr&#252;ndet, das die Grundlage f&#252;r die weitere Entwicklung und
+Einf&#252;hrung Cloud-basierter Strukturen und -Dienste in Schulen darstellt. Das
+Konzept zeigt M&#246;glichkeiten, L&#246;sungen und Chancen f&#252;r den Einsatz von
+cloudbasierten Diensten und Strukturen im schulischen Kontext auf und evaluierte
+diese. Im Schul-Cloud-Entwicklungsvorhaben (F&#246;rderkennzeichen CLOUD17, 
+Laufzeit 1. Februar 2017 bis 31. Juli 2021) wird die Entwicklung und
+Implementierung der Module der Schul-Cloud-Module sowie das Testing bearbeitet. 
+Zu den im Vorhaben realisierten technisch-funktionalen Modulen des Systems 
+wird auf die Antwort der Bundesregierung zu Frage 3 der Kleinen Anfrage der 
+Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN auf Bundestagsdrucksache 19/19723 
+verwiesen. Im Vorhaben wird das Onboarding und Betreuen der die Schul-
+Cloud nutzenden Schulen des MINT ec e. V. geleistet. Dar&#252;ber hinaus werden 
+im Vorhaben in begrenztem Umfang offen verf&#252;gbare digitale Bildungsinhalte 
+(Open Educational Resources, OER) in die Systemarchitektur integriert und 
+Arbeitspakete zur Einbindung von p&#228;dagogischer, didaktischer und juristischer 
+Expertise bearbeitet.
+c) Wie sieht die Fortentwicklung des Projektes aus?
+Welche Meilensteine wurden f&#252;r das Projekt vertraglich vereinbart?
+Der F&#246;rderzeitraum f&#252;r das Schul-Cloud-Projekt endet planm&#228;&#223;ig am 31. Juli 
+2021. Bis zu diesem Zeitpunkt sind aus Sicht des BMBF die in den o. g.
+Projektantr&#228;gen festgeschriebenen Ziele zu erreichen. Eine Verstetigung der HPI 
+Schul-Cloud erfordert aus Sicht des BMBF ein finanziell tragf&#228;higes Betreiber- 
+und Finanzierungskonzept zur Verwertung der Projektergebnisse.
+Eine inhaltliche Fortentwicklung findet derzeit im Rahmen des Projekts Open-
+EduHub statt. Die Zielsetzung des Projektes OpenEduHub ist wie folgt
+beschrieben: &#8222;Zur schnellen Unterst&#252;tzung der Schulen in der Coronakrise
+m&#246;chte das Hasso-Plattner-Institut (HPI) die durch das BMBF gef&#246;rderte HPI Schul-
+Cloud f&#252;r alle Schulen, die kein vergleichbares Angebot des Landes nutzen 
+k&#246;nnen, &#246;ffnen. In dieser Notsituation erm&#246;glicht das HPI eine deutliche
+Ausweitung der Nutzung der Schul-Cloud und b&#252;ndelt seine Ressourcen mit
+Wikimedia Deutschland e. V. und edu-sharing.net e. V. mit dem Ziel, m&#246;glichst
+viele digitale Lerninhalte f&#252;r die HPI Schul-Cloud und andere schulische
+Plattformen bereitzustellen. Beide Vereine sind Mitglieder des B&#252;ndnis Freie Bildung 
+und k&#246;nnen die Einbindung von freien p&#228;dagogisch-didaktischen Lerninhalten 
+in den Lern-Store der HPI Schul-Cloud sicherstellen.&#8220;
+Der F&#246;rderantrag sieht folgende Schritte vor:
+Im Bereich &#8222;Nutzungsangebot&#8220;
+&#8211; April/Mai 2020: &#8222;Angebot einer online und cloudbasierten Lern- und
+Arbeitsumgebung&#8220;
+Im Bereich &#8222;Technische Skalierung&#8220;
+&#8211; April/Mai 2020: &#8222;Aufbau und stetige Weiterentwicklung skalierender 
+Hosting-und Betriebsinfrastrukturen&#8220;
+&#8211; April/Mai 2020: &#8222;Aufbau einer technischen und medialen Infrastruktur f&#252;r 
+Homeschooling (inkl. Videoconferencing)&#8220;
+&#8211; Juni/Juli 2020: &#8222;Entwicklung von Strukturen f&#252;r die Nutzung der
+angebotenen Lern- und Arbeitsumgebung durch Eltern inkl. M&#246;glichkeiten f&#252;r die 
+Vernetzung&#8220;
+Im Bereich &#8222;Einf&#252;hrungs- und Unterst&#252;tzungsleistungen&#8220;
+&#8211; April/Mai 2020: &#8222;Aufbau skalierender Strukturen f&#252;r das Onboarding von 
+Schulen&#8220;
+&#8211; April/Mai 2020: &#8222;Aufbau skalierender Strukturen f&#252;r den Nutzersupport 
+(LehrerInnen, Sch&#252;lerInnen und Eltern)&#8220;
+&#8211; April/Mai 2020: &#8222;Integration von Technologien f&#252;r die p&#228;dagogisch- &amp;
+didaktische Unterst&#252;tzung und Fortbildung&#8220;
+&#8211; Juni/Juli: &#8222;Fachliche Beteiligung an Projektteil &#8218;Content-Infrastruktur und 
+Erschlie&#223;ung&#8216; und Implementation der Ergebnisse in den Lernstore der HPI 
+Schul-Cloud&#8220;
+d) Wann wird das Projekt als Erfolg definiert?
+Die Bewertung f&#252;r das Verbundvorhaben von HPI und MINT EC e.V. erfolgt 
+planm&#228;&#223;ig zum Ende des Vorhabens CLOUD17 am 13. Juli 2021. Die Laufzeit 
+des Projekts OpenEduHub endet planm&#228;&#223;ig zum 31. Dezember 2020. Die
+F&#246;rdermittelnehmer haben danach einen Abschlussbericht vorzulegen, der von der 
+Bundesregierung gepr&#252;ft wird. Das Projekt gilt als Erfolg, wenn die im
+Projektantrag definierten Meilensteine und Gesamtergebnisse erreicht wurden.
+Abweichungen von den urspr&#252;nglich angestrebten Ergebnissen sind m&#246;glich, wenn im 
+Entwicklungsprozess begr&#252;ndete und entsprechend mit dem F&#246;rdermittelgeber 
+abgestimmte Anpassungen vorgenommen wurden. Zudem wurde das Projekt 
+&#8222;OpenEduHub&#8220; in dem Grundverst&#228;ndnis aufgesetzt, dass ein dynamisches
+Infektionsgeschehen auch zu kurzfristigen, im Benehmen von
+F&#246;rdermittelnehmer und F&#246;rdermittelgeber zu vereinbarenden Korrekturen urspr&#252;nglicher
+Projektziele und der entsprechenden Meilensteine f&#252;hren kann.
+e) Wie viele Schulen soll die Schul-Cloud bis wann erreichen?
+Das F&#246;rdervorhaben CLOUD17 adressiert als Anwendungspartner die 321 
+Schulen des MINT EC e. V, denen bis zum Projektende die Nutzung der Schul-
+Cloud angeboten wird, sofern Vorgaben der Sitzl&#228;nder dieser Schulen dies nicht 
+verhindern. Ein Zwang zur Nutzung der HPI Schul-Cloud besteht nicht.
+F&#252;r die &#214;ffnung der HPI Schul-Cloud f&#252;r die Pandemie-bedingte
+Sondersituation bis Ende 2020 wurde keine Mindest- oder H&#246;chstzahl an Schulen definiert. 
+Dieser Umstand leitet sich aus dem Charakter des Projekts als
+situationsbedingte Notfallma&#223;nahme ab; die HPI Schul-Cloud ist ein freiwilliges Angebot, das 
+keine bestehenden Landesl&#246;sungen oder kommerzielle Angebote ersetzen soll, 
+sondern eine freiwillig nutzbare Option f&#252;r Schulen darstellt, die kurzfristig 
+nicht auf entsprechende L&#246;sungen zur&#252;ckgreifen k&#246;nnen.
+f) Wie ist der Stand der Umsetzung?
+Mit Stichtag 13.07.2020 haben sich f&#252;r die HPI Schul-Cloud angemeldet:
+&#8211; 142 MINT EC-Schulen
+&#8211; 457 Schulen im Rahmen des Projekts Open Edu Hub
+&#8211; 40 Deutsche Auslandsschulen
+&#8211; 3.392 Schulen im Rahmen der L&#228;nderprojekte Brandenburg, Niedersachsen 
+und Th&#252;ringen.
+Aktiv genutzt wurde die HPI Schul-Cloud zum Stichtag 13.07.2020 von
+&#8211; 142 MINT EC-Schulen
+&#8211; 210 Schulen im Rahmen des Projekt Open Edu Hub
+&#8211; 13 Deutschen Auslandsschulen
+&#8211; 1.826 Schulen im Rahmen der L&#228;nderprojekte BB, NI und TH.
+g) Welche Bundesl&#228;nder sind mit wie vielen Schulen an der HPI Schul-
+Cloud beteiligt (bitte absolute/prozentuale Zahlen im Verh&#228;ltnis zur 
+Schulgesamtzahl je Bundesland und je Schultyp in den einzelnen
+Bundesl&#228;ndern angeben)?
+F&#252;r die jeweiligen Bundesl&#228;nder k&#246;nnen lediglich Daten f&#252;r alle Schulen
+ausgewiesen werden. Eine Aufgliederung nach Schularten ist auf Basis des
+vorliegenden statistischen Materials nicht m&#246;glich, daher auch keine Angaben zu 
+prozentualen Anteilen im jeweiligen Land.
+Nachfolgend werden daher die Daten f&#252;r die Kategorien OpenEduHub und 
+L&#228;nderprojekte BB, NI und TH gemeinsam ausgewiesen. MINT EC-Schulen 
+und Deutsche Auslandsschulen werden nicht ber&#252;cksichtigt.
+Land Angemeldete Schulen Nutzende Schulen
+Baden-W&#252;rttemberg 60 20
+Bayern 18 7
+Berlin 90 49
+Hansestadt Bremen 10 0
+Brandenburg 503 405
+Freie und Hansestadt
+Hamburg 6 4
+Hessen 31 10
+Mecklenburg Vorpommern 28 20
+Niedersachsen 2.090 1.015
+Nordrhein-Westfalen 166 74
+Rheinland-Pfalz 13 9
+Saarland 2 k. A.
+Schleswig-Holstein 8 2
+Th&#252;ringen 800 412
+&#8199;2. An welchen Stellen &#252;bernimmt die Bundesregierung die Verantwortung 
+f&#252;r das Projekt?
+&#8199;3. An welchen Stellen agiert das HPI selbstst&#228;ndig?
+Die Fragen 2 und 3 werden gemeinsam beantwortet.
+Die Verantwortung f&#252;r das Projekt und dessen Durchf&#252;hrung liegt allein beim 
+HPI und dem MINT EC e. V. . Der Zuwendungsgeber Bund verantwortet die 
+F&#246;rderentscheidung und die Pr&#252;fung der Einhaltung der
+Bewilligungsbedingungen durch den Zuwendungsempf&#228;nger sowie die zweckentsprechende
+Verwendung der F&#246;rdermittel. F&#246;rdervorhaben wie das Schul-Cloud-Projekt von HPI 
+und MINT-EC werden auf Basis der Regelungen nach den &#167;&#167; 23 und 44 der 
+Bundeshaushaltsordnung und den dazu geltenden Nebenbestimmungen
+durchgef&#252;hrt. Dabei wird der Zuwendungsempf&#228;nger zur Erreichung der Ziele
+gef&#246;rdert, die in der zur Bewilligung vorliegenden Vorhabenbeschreibung dargelegt 
+sind. Die Bundesregierung hat seit Beginn des Schul-Cloud-Projekts von HPI 
+und MINT-EC e. V. drei Projektphasen auf dem Wege der Gew&#228;hrung von
+F&#246;rdermitteln zugestimmt. Das auf diesen Ergebnissen aufbauende Projekt &#8222;Open-
+EduHub&#8220; wurde ebenfalls auf dem Wege der Projektf&#246;rderung genehmigt und 
+hierf&#252;r entsprechende F&#246;rdermittel bereitgestellt. Im Rahmen der F&#246;rderung 
+von Forschungs- und Entwicklungsvorhaben stehen dem
+Zuwendungsempf&#228;nger weitgehende Spielr&#228;ume zur Erreichung der Projektziele offen. Der
+Zuwendungsempf&#228;nger hat die in den Nebenbestimmungen zur Projektf&#246;rderung
+vorgegebenen Pflichten bei der Projektdurchf&#252;hrung und Ergebnisverwertung zu 
+befolgen. Jeder Zuwendungsempf&#228;nger ist f&#252;r die Forschungs- und
+Entwicklungsarbeiten in Projekten in vollem Umfang selbst verantwortlich und zur
+Ergebnisverwertung verpflichtet. Der Bundesregierung obliegt im Rahmen der 
+Pr&#252;fung von Zwischen- und Abschlussberichten die Sicherstellung einer
+ordnungsgem&#228;&#223;en Mittelverwendung seitens der Antragsteller und im Rahmen der 
+Abschlusspr&#252;fung auch ein Abgleich von Projektzielen und &#8211;ergebnissen.
+Damit &#252;bt die Bundesregierung als F&#246;rdermittelgeber eine nachlaufende Kontrolle 
+&#252;ber die ordnungsgem&#228;&#223;e Mittelverwendung aus.
+&#8199;4. Hat die erweiterte Freigabe der HPI Schul-Cloud aufgrund der Corona-
+Krise die Erwartungen der Bundesregierung erf&#252;llt?
+Wenn ja, warum?
+Wenn nein, wieso nicht?
+Die HPI Schul-Cloud hat die im Projektantrag vereinbarten Meilensteine
+erreicht und die Schul-Cloud einem grunds&#228;tzlich unbeschr&#228;nkten Nutzerkreis 
+ge&#246;ffnet sowie die hierf&#252;r erforderlichen Ma&#223;nahmen wie die bedarfsorientierte 
+technische Skalierung ebenso realisiert wie eine einfach zu handhabende 
+Onboarding-Routine. Somit hat die HPI Schul-Cloud die Erwartungen der 
+Bundesregierung erf&#252;llt. Ein quantitatives Ziel f&#252;r die Nutzung der HPI Schul-
+Cloud wurde nicht vereinbart.
+&#8199;5. Wie viele Schulen wurden durch die erweiterte &#214;ffnung der HPI Schul-
+Cloud zus&#228;tzlich erreicht?
+Im Rahmen des Projekts OpenEduHub wurden bis zum 13. Juli 2020 insgesamt 
+457 Schulen im Sinne einer erfolgten Anmeldung erreicht.
+Gleichzeitig stieg die Zahl der Schulen, die im Rahmen der L&#228;nderprojekte BB, 
+NI und TH die HPI Schul-Cloud nutzen, von etwa 150 Schulen, die bis
+Fr&#252;hjahr 2020 an Pilotierungsma&#223;nahmen in den jeweiligen L&#228;ndern teilnahmen auf 
+aktuell 3.392 angemeldete Schulen.
+Neu hinzugekommen (und au&#223;erhalb des Projekts OpenEduHub gef&#252;hrt) sind 
+zudem 40 Anmeldungen von Deutschen Auslandschulen. Auf die Antwort zu 
+Frage 1g wird verwiesen.
+&#8199;6. Was passiert nach Ablauf der Krise mit den durch die zeitweise
+erweiterte &#214;ffnung zus&#228;tzlich angeschlossenen Schulen?
+Das Angebot zur Nutzung der HPI Schul-Cloud f&#252;r solche Schulen, die keine 
+anderen M&#246;glichkeiten zum Homeschooling mit modernen digitalen Mitteln 
+haben, ist bis Ende 2020 begrenzt. Die Entwicklung eines Gesch&#228;ftsmodells f&#252;r 
+einen Betrieb au&#223;erhalb der Projektf&#246;rderung obliegt dem
+Zuwendungsempf&#228;nger.
+&#8199;7. F&#252;r welche Schultypen ist die HPI Schul-Cloud geeignet?
+Welche Konsequenz hat die Ausrichtung der Schul-Cloud auf MINT-
+F&#228;cher f&#252;r nicht MINT-EC-Schulen?
+Die HPI Schul-Cloud ist eine grunds&#228;tzlich f&#228;cherneutrale p&#228;dagogische
+Infrastruktur und f&#252;r alle Schularten geeignet. Die Entscheidung zur Entwicklung 
+der HPI Schul-Cloud gemeinsam mit MINT EC-Schulen (Gymnasien) folgte 
+2016/2017 pragmatischen Erw&#228;gungen. Auch an MINT EC-Schulen wird die 
+HPI Schul-Cloud f&#252;r das gesamte F&#228;cherspektrum genutzt. In der
+Pandemiebedingten Ausweitung ist die erfolgreiche Nutzung der HPI Schul-Cloud von 
+der Primarstufe bis zur Sekundarstufe II zu beobachten.
+&#8199;8. Welche Datenschutzverst&#246;&#223;e nach der DSGVO hat es nach Kenntnis der 
+Bundesregierung bei der HPI Schul-Cloud seit ihrer Einrichtung
+gegeben?
+Dem BMBF sind folgende datenschutzrelevante Vorf&#228;lle seit Beginn der
+Entwicklung der HPI Schul-Cloud bekannt geworden:
+&#8211; Der Landesbeauftragte f&#252;r Datenschutz und Akteneinsicht des Landes
+Brandenburg informierte am 13. Mai 2020 das Hasso-Plattner-Institut, dass es
+eine Sicherheitsl&#252;cke bei der HPI Schul-Cloud gebe. Am gleichen Tag
+wurden Schulen, die die HPI Schul-Cloud im Saarland nutzen, vom
+Saarl&#228;ndischen Bildungsministerium gebeten, deren Nutzung bis zur Kl&#228;rung des 
+Vorfalls einzustellen. Die Sicherheitsl&#252;cke im Registrierungslink wurde am 
+14. Mai 2020 mittags geschlossen.
+&#8211; Am 14. Mai 2020 wurde bekannt, dass &#252;ber das &#246;ffentliche Ticketsystem 
+der HPI Schul-Cloud zur Bearbeitung technischer Anfragen
+personenbezogene Daten einsehbar waren. Es konnten nachtr&#228;glich 21 Tickets
+identifiziert werden, die Namen, Emailadressen und teilweise Telefonnummern von 
+Nutzern des Ticketsystems enthielten und m&#246;glicherweise vor dem 12. Mai 
+2020 &#246;ffentlich eingesehen werden konnten. Die betroffenen Nutzer wurden 
+vom HPI informiert und die entsprechenden Tickets gel&#246;scht.
+&#8211; Am 20. Mai 2020 wurde bekannt, dass Benutzernamen im Kontext des 
+Chats in der HPI Schul-Cloud einsehbar waren. Die entsprechende Funktion 
+im Chat wurde am Abend des 20. Mai 2020 durch das Sicherheitsteam des 
+HPI deaktiviert.
+&#8199;9. Welchen Umfang haben die aktuellen Datenschutzvorf&#228;lle (Skimming 
+&#252;ber Lerngruppen, Ticketsystem etc.) bei der HPI Schul-Cloud?
+a) Welcher Schaden ist durch die aktuelle Sicherheitsl&#252;cke entstanden?
+Die Fragen 9 und 9a werden im Zusammenhang beantwortet.
+Im Falle des Ticket-Systems waren teilweise Mailadressen und Telefonadressen 
+&#246;ffentlich einsehbar. Die betroffenen Personen wurden nach Angaben des HPI 
+vollumf&#228;nglich &#252;ber die Vorf&#228;lle aufgekl&#228;rt.
+b) Wie viele und welche Daten wurden von Sch&#252;lerinnen und Sch&#252;lern 
+an wie vielen Schulen nicht berechtigten Personen zug&#228;nglich?
+Nach Kenntnis des BMBF waren nur an einer Schule des Saarlandes Daten von 
+103 Personen &#246;ffentlich einsehbar. Die Daten beinhalteten ausschlie&#223;lich Vor- 
+und Familiennamen.
+c) Handelt es sich bei den j&#252;ngsten Vorf&#228;llen um
+Datenschutzvers&#228;umnisse beim HPI, oder sind die Vorg&#228;nge nur auf kriminelle Aktivit&#228;ten 
+zur&#252;ckzuf&#252;hren?
+Die in Antwort auf Frage 8 aufgef&#252;hrten Vorf&#228;lle konnten durch Schlie&#223;en der 
+Sicherheitsl&#252;cke im Quellcode bzw. Schlie&#223;ung des vorher &#246;ffentlichen Ticket-
+Systems vollst&#228;ndig und umgehend durch das HPI ausger&#228;umt werden. Ein 
+strafrechtlich relevantes unbefugtes Auslesen von Daten setzt bestimmte
+Anforderungen an die Zugangssicherung voraus. Eine rechtliche Bewertung dieser 
+Frage im konkreten Fall obliegt den daf&#252;r zust&#228;ndigen Stellen im Zuge von
+Ermittlungen.
+d) Gibt es kriminalpolizeiliche Ermittlungen?
+Das Landeskriminalamt Brandenburg (Zentrale Ansprechstelle Cybercrime)
+ermittelt auf Anzeige des HPI hin wegen des Verdachts der Aussp&#228;hung von
+Daten gem&#228;&#223; &#167; 202a StGB gegen Unbekannt.
+e) Wann wurden die Gesch&#228;digten wie informiert?
+Nach Angaben des HPI wurden die betroffenen Personen unverz&#252;glich &#252;ber die 
+Datenschutzvorf&#228;lle informiert.
+10. Wann hat das HPI die Bundesregierung, wie informiert?
+Erfolgte die Unterrichtung aufgrund einer Abfrage der Bundesregierung?
+Welche Schritte wurden danach seitens der Bundesregierung ergriffen?
+Dazu wird auf die Antwort der Bundesregierung zu Frage 10 der Kleinen
+Anfrage der Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN auf Bundestagsdrucksache 
+19/19723 verwiesen.
+11. Welche Gespr&#228;che hat es nach Kenntnis der Bundesregierung zwischen 
+Landesdatenschutzbeh&#246;rden und dem HPI gegeben?
+Welche Forderungen wurden seitens der Datenschutzbeh&#246;rden gestellt?
+Ist das HPI in der Lage, kurzfristig diesen Anforderungen zu
+entsprechen?
+Das HPI ist in regelm&#228;&#223;igem Kontakt zu den Landesdatenschutzbeh&#246;rden der 
+L&#228;nder sowie mit dem Arbeitskreis Schule der Landesdatenschutzkonferenz.
+Derzeit liegt nach Kenntnis der Bundesregierung kein Einspruch einer
+Landesdatenschutzbeh&#246;rde gegen den Betrieb der HPI Schul-Cloud in Schulen des
+jeweiligen Zust&#228;ndigkeitsbereiches vor.
+12. Hat es seitens der Bundesregierung mit den zust&#228;ndigen
+Datenschutzbeh&#246;rden direkten Kontakt gegeben?
+Wenn ja, mit welchem Inhalt?
+Das zust&#228;ndige Fachreferat des BMBF hat an verschiedenen Projektsitzungen 
+teilgenommen, bei denen Branchenexperten und Mitarbeiter von
+Landesdatenschutzbeauftragten der L&#228;nder gemeinsam mit dem Projektteam des HPI &#252;ber 
+Fragen von Datensicherheit und Datenschutz gesprochen und entsprechende 
+Vorgehensweisen vereinbart haben.
+13. Wie bewertet die Bundesregierung die aktuellen Datenschutzvorf&#228;lle bei 
+der HPI Schul-Cloud?
+Die Bundesregierung bedauert die Datenschutzvorf&#228;lle. Die Bundesregierung 
+begr&#252;&#223;t die offene und unverz&#252;gliche Information durch das HPI und erachtet 
+die kurzfristige Beseitigung der Schwachstellen in den Bereichen Anmeldung 
+und Ticketsystem als z&#252;gig und angemessen. Das BMBF wurde vom HPI auch 
+vorher &#252;ber Ergebnisse von IT-Sicherheits&#252;berpr&#252;fungen und den daraufhin
+ergriffenen Schritten informiert. So hatte das HPI zuletzt im Fr&#252;hjahr 2020 &#252;ber 
+den Verlauf eines Security-Audits informiert, das in Zusammenarbeit mit dem 
+Land Niedersachsen durchgef&#252;hrt wurde. Infolge dieses Audits wurden
+einzelne Schwachstellen identifiziert und umgehend behoben &#8211; siehe dazu auch die 
+Antwort auf Frage 16. Den Umstand, dass bereits vor Bekanntwerden der o. g. 
+Vorf&#228;lle Datenschutz-Audits mit externen Experten durchgef&#252;hrt wurden,
+bewertet das BMBF positiv.
+14. Welche generellen Konsequenzen hat die Bundesregierung aus den
+Datenschutzvorf&#228;llen beim HPI f&#252;r das Schul-Cloud-Projekt gezogen?
+Die Vorf&#228;lle unterstreichen die hohe Relevanz von Datensicherheit und
+Datenschutz bei der Umsetzung von digitalen Projekten in Bereichen, in denen
+regelm&#228;&#223;ig personenbezogene und besonders sensible Daten verarbeitet werden. F&#252;r 
+das Schul-Cloud-Projekt ergibt sich aus den bekannt gewordenen Vorf&#228;llen eine 
+erh&#246;hte Aufmerksamkeit bez&#252;glich eines systemseitig konsequent konzipierten 
+Datenverarbeitungs- und Datenschutzkonzeptes und die konsequente
+Anwendung der bereits implementierten Pr&#252;fszenarien. Eine dar&#252;ber hinaus gehende 
+grunds&#228;tzliche Neuorientierung in Konzeption und Umsetzung der HPI Schul-
+Cloud ist aus Sicht des BMBF nicht erforderlich.
+15. Hat es nach der ersten Unterrichtung durch das HPI Gespr&#228;che zwischen 
+der Bundesregierung, Bundesbeh&#246;rden, Landesbeh&#246;rden und dem HPI 
+zum Umgang mit dem Vorfall gegeben?
+Wenn ja, wor&#252;ber wurde gesprochen, und welche Ma&#223;nahmen wurden 
+gemeinsam vereinbart?
+Wenn nein, warum nicht?
+Zwischen dem HPI und der Bundesregierung haben mehrere Gespr&#228;che &#252;ber 
+die genannten Vorf&#228;lle stattgefunden. Die Bundesregierung hat hierbei auf die 
+Relevanz einer z&#252;gigen und vollumf&#228;nglichen Aufkl&#228;rung und einer
+konsequenten technisch-konzeptionellen Behebung tats&#228;chlich ausgenutzter oder 
+m&#246;glicherweise ausnutzbarer Schwachstellen hingewiesen. Zudem hat die 
+Bundesregierung um eine transparente Kommunikation gegen&#252;ber
+&#214;ffentlichkeit und potentiell oder tats&#228;chlich betroffener Einrichtungen und Personen
+gebeten.
+16. Hat das HPI nach Kenntnis der Bundesregierung externe Datenschutz-
+Expertise f&#252;r das Schul-Cloud-System in Anspruch genommen?
+Wie ist hierf&#252;r die Personalausstattung (interne/externe L&#246;sung mit
+welchen Stellenanteil)?
+Das HPI hat den Themen Sicherheit und Datenschutz im Entwicklungsprozess 
+der HPI Schul-Cloud von Beginn des Projekts an einen zentralen Stellenwert 
+einger&#228;umt. Daher wurde der Arbeitskreis Schule der Datenschutzkonferenz in 
+die Entwicklung einbezogen. Die Datenschutzdokumente der HPI Schul-Cloud 
+wurden auf R&#252;ckmeldung aus diesem Kreis hin mehrfach erweitert und
+angepasst.
+Zur Sicherstellung der IT-Sicherheit werden die Systeme der HPI Schul-Cloud 
+regelm&#228;&#223;ig getestet und evaluiert. Das HPI arbeitet hierbei mit externen
+Dienstleistern zusammen und f&#252;hrt Security Audits / Penetration Testing durch.
+17. Wie bewertet die Bundesregierung das Krisenmanagement des HPI in 
+Bezug auf zeitlichen Horizont, Qualit&#228;t der Reaktion, Transparenz bei 
+der Reaktion und proaktive Vorgehensweisen in Bezug auf Gesch&#228;digte?
+Das BMBF erachtet die Vorgehensweise des HPI bez&#252;glich der genannten
+Kriterien als angemessen.
+18. Welche Konsequenzen wurden seitens des HPI in Bezug auf die
+zuk&#252;nftige Vorgehensweise bei Datenschutzvorg&#228;ngen der HPI Schul-Cloud
+besprochen und vereinbart?
+Das HPI hat erl&#228;utert, dass IT-Sicherheit und Datenschutz zentrale Ziele bei 
+Konzipierung, Umsetzung und Betrieb der HPI Schul-Cloud sind. Das HPI hat 
+erkl&#228;rt, zur Sicherstellung von Datenschutz und Datensicherheit zus&#228;tzlich zu 
+den internen Ressourcen regelm&#228;&#223;ig mit externen Sicherheitsexperten
+zusammenzuarbeiten und in regelm&#228;&#223;igen Abst&#228;nden Audits mit Penetration Tests 
+durchzuf&#252;hren und setzt dies um.
+19. Wie bewertet die Bundesregierung den vorl&#228;ufigen Stopp des
+Anschlusses von 450 nieders&#228;chsischen Schulen an das HPI Schul-Cloud-
+Angebot?
+Welche Bedingungen hat das nieders&#228;chsische Kultusministerium
+gegen&#252;ber dem Hasso Plattner Institut oder der Bundesregierung formuliert, 
+um die urspr&#252;nglich geplanten Anschlussarbeiten fortzusetzen?
+Nach Kenntnis der Bundesregierung wurde der vor&#252;bergehende Stopp bzgl. des 
+geplanten Roll-out der HPI Schul-Cloud als Nieders&#228;chsische Bildungscloud 
+aufgehoben.
+20. Haben weitere Bundesl&#228;nder neben Niedersachsen aus dem Projekt HPI 
+Schul-Cloud nach den Vorf&#228;llen zur&#252;ckgezogen oder die Nutzung
+vor&#252;bergehend eingestellt?
+Der Bundesregierung ist nicht bekannt, dass aktuell die Nutzung der HPI 
+Schul-Cloud in einem Land der Bundesrepublik Deutschland aus
+datenschutzrechtlichen Erw&#228;gungen ausgesetzt oder untersagt w&#228;re.
+21. Wie haben die anderen bisher die Plattform nutzenden L&#228;nder wie
+Brandenburg, Th&#252;ringen und Niedersachsen sowie die deutschen
+Auslandschulen auf die Vorf&#228;lle reagiert?
+Keines der genannten L&#228;nder hat die Nutzung der HPI Schul-Cloud &#252;ber einen 
+vergleichsweise kurzen Pr&#252;fzeitraum hinaus ausgesetzt. Die Zahl der von den 
+genannten drei L&#228;ndern zur Nutzung der HPI Schul-Cloud als jeweilige
+Landescloud gemeldeten Schulen ist nach Kl&#228;rung der angesprochenen
+Sachverhalte deutlich angestiegen.
+Die deutschen Auslandsschulen haben sich erst nach Bekanntwerden der
+Datenschutzvorf&#228;lle f&#252;r eine Nutzung der HPI Schul-Cloud entschieden.
+22. Wie sind nach Kenntnis der Bundesregierung die Schul-Cloud-L&#246;sungen 
+in den anderen Bundesl&#228;ndern ausgestaltet, und welche Gr&#252;nde gibt es, 
+dass die in der Frage 14 nicht genannten Bundesl&#228;nder die HPI Schul-
+Cloud nicht nutzen wollen?
+Es wird auf die Antwort der Bundesregierung zu Frage 17 der Kleinen Anfrage 
+der Fraktion der AfD auf Bundestagsdrucksache 19/19116 verwiesen.
+23. Wie beschreibt die Bundesregierung ihre Anforderungen an ein
+politisches Renommierprojekt wie der HPI Schul-Cloud, mit besonderem
+Augenmerk auf Datenschutz und Transparenz bei Fehlern?
+In der Projektf&#246;rderung der Bundesregierung existieren keine Vorgaben f&#252;r eine 
+entsprechende Kategorie von F&#246;rderprojekten.
+24. Glaubt die Bundesregierung, dass der Ansatz des Hasso Plattner Instituts 
+bei Datenschutzhacks auf deren Rechtswidrigkeit zu verweisen ausreicht, 
+um den Datenschutz f&#252;r Sch&#252;lerinnen und Sch&#252;ler und Lehrer zu
+garantieren?
+Es wird auf die Antwort zu Frage 13 verwiesen.
+25. Wie bewertet die Bundesregierung die vom Sender RBB vorgetragene 
+Datenschutzeinsch&#228;tzung (https://www.rbb24.de/panorama/beitrag/2020/
+05/hasso-plattner-institut-potsdam-schulcloud-schule.html), wonach das 
+HPI mit einem &#8222;absolut unsicheren und offensichtlich inkompetent
+gemanagten&#8220; Cloud-System f&#252;r Schulen an den Start gegangen sei?
+Und dar&#252;ber hinaus der Vorwurf artikuliert wird, dass die Aufsetzung des 
+Systems &#8222;absolut inakzeptabel und in gravierender Weise rechtswidrig 
+sei&#8220;.
+26. Wie bewertet die Bundesregierung den vom Sender RBB berichteten 
+Vorwurf, wonach die Aufsetzung des Systems &#8222;absolut inakzeptabel und 
+in gravierender Weise rechtswidrig sei&#8220;?
+Die Fragen 25 und 26 werden im Zusammenhang beantwortet.
+Es wird auf die Antworten zu den Fragen 13 und 16 verwiesen.
+27. Welche Ver&#228;nderungen sind nach Feststellung der Sicherheitsl&#252;cken und 
+der Datenschutzverst&#246;&#223;e gemacht worden, um das
+Informationssicherheits-Managementsystem den aktuellen Anforderungen anzupassen und 
+die Gefahr von weiteren menschlichen Fehlern zu reduzieren?
+Es wird auf die Antwort zu Frage 13 verwiesen.
+28. Wie bewertet die Bundesregierung den Sachverhalt, wenn
+Landesdatenschutzbeh&#246;rden, wie Beispiel des Landes Brandenburg, davon ausgehen, 
+dass es weitere im Quelltext dieses umfangreichen Projektes vorhandene 
+Fehler und Sicherheitsl&#252;cken geben k&#246;nnte?
+Welche Ma&#223;nahmen wurden ergriffen, um diese Sicherheitsl&#252;cken nun 
+systematisch aufzusuchen und abzustellen?
+29. Wie bewertet die Bundesregierung die Forderungen des
+Datenschutzvereins Digitalcourage e. V., der die Aufsichtsbeh&#246;rden auffordert, das HPI-
+System abzuschalten?
+Die Fragen 28 und 29 werden im Zusammenhang beantwortet.
+Es wird auf die Antworten zu den Fragen 16 und 20 verwiesen.
+30. Sieht die Bundesregierung einen Handlungsbedarf, im Interesse des
+Datenschutzes zuk&#252;nftig Standards f&#252;r Schul-Cloud-Systeme zu definieren, 
+die auch von kommerziellen Anbietern zu erf&#252;llen sind?
+Wenn ja, wann plant die Bundesregierung hierzu eine Vorlage?
+Wenn nein, warum nicht?
+Der Einsatz schulischer IT-Systeme folgt den Anforderungen der Landes-
+Datenschutzgesetze sowie der Regelungen in den Landes-Schulgesetzen zum 
+Umgang mit personenbezogenen Daten. Eine Beurteilung, in welchem Ma&#223; 
+Cloud-L&#246;sungen oder Lernplattformen, die an Schulen in Deutschland
+betrieben werden, den besonderen Anforderungen an Datenschutz und
+Datensicherheit gen&#252;gen, kann nur durch die zust&#228;ndigen Beh&#246;rden in den L&#228;ndern
+erfolgen.
+31. Wie bewertet die Bundesregierung den offenen Brief von f&#252;nf
+Unternehmen, die die Bundesregierung f&#252;r die einseitige Schul-Cloud-Planung 
+und -Finanzierung &#252;ber das Hasso-Plattner Institut und mangelnde
+Unterst&#252;tzung der Bundesregierung f&#252;r andere im Bereich des E-Learnings
+t&#228;tigen Firmen kritisieren?
+32. Ist die Bundesregierung der Auffassung, wie von den f&#252;nf
+unterzeichnenden Firmen kritisiert wird, dass durch ihr Engagement ein &#8222;k&#252;nstliches&#8220; 
+Konkurrenzprodukt finanziert und damit sogar die Digitalisierung von 
+Schule weiter hinausgez&#246;gert wird, anstatt auf funktionierende L&#246;sungen 
+am Markt zu setzen?
+Wenn nein, warum nicht?
+Die Fragen 31 und 32 werden im Zusammenhang beantwortet.
+Die Bundesregierung kann in der F&#246;rderung des Forschungs- und
+Entwicklungsvorhabens HPI Schul-Cloud keine Einseitigkeit erkennen. Die Ergebnisse 
+des F&#246;rdervorhabens CLOUD17 sind durch die Zurverf&#252;gungstellung des 
+Quellcodes f&#252;r die breite Fach&#246;ffentlichkeit &#252;ber das Portal GitHub (www.gith
+ub.com) allgemein zug&#228;nglich.
+33. Ist die Bundesregierung der Auffassung, dass das Ziel deutschlandweit 
+44 000 Schulen bis Ende 2021 eine IT-Lerninfrastruktur anzubieten,
+gehalten werden kann?
+Wenn nein, woran liegt das, wie k&#246;nnen Hindernisse abgebaut werden, 
+und welche alternative Zeitplanung hat die Bundesregierung?
+Die Etablierung schulischer Lehr-Lern-Infrastrukturen ist Aufgabe der L&#228;nder 
+und der Sachaufwandstr&#228;ger. Hierf&#252;r stellt die Bundesregierung im Rahmen 
+des DigitalPakts Schule bis zu 5 Mrd. Euro bis zum Jahr 2024 in Form von
+Investitionshilfen zur Verf&#252;gung. F&#252;r die konkrete Umsetzung der
+Investitionsvorhaben sind gem&#228;&#223; f&#246;deraler Zust&#228;ndigkeiten L&#228;nder und
+Sachaufwandstr&#228;ger verantwortlich.
+34. Sind der Bundesregierung &#196;u&#223;erungen seitens Schulleitungen bekannt, 
+die Kritik hinsichtlich des formalen Aufwands zur Teilnahme an der HPI 
+Schul-Cloud &#228;u&#223;ern?
+Wenn ja, was entgegnet die Bundesregierung der Kritik, und welche 
+M&#246;glichkeiten sieht die Bundesregierung, die formalen H&#252;rden zur
+Teilnahme an dem Cloud-Projekt f&#252;r die Schulen und Schulleitungen zu
+senken?
+Die HPI Schul-Cloud wurde in enger Kooperation mit Lehrkr&#228;ften und
+Schulleitungen der MINT EC-Schulen entwickelt. Die Bundesregierung geht in 
+Kenntnis der bei Projektbeginn etablierten Kommunikationswege davon aus, 
+dass Hinweise von nutzenden Schulen Ber&#252;cksichtigung finden.
+Im Rahmen des Anmeldeprozesses sind jedoch aus Gr&#252;nden des Datenschutzes 
+bestimmte Elemente &#8211; wie z. B. die &#220;bersendung eines
+Datenverarbeitungsvertrages durch die Schule &#8211; unverzichtbar.
+35. Wie steht die die Bundesregierung dazu, ab sofort Nutzerumfragen unter 
+den bisher teilnehmenden Schulleitungen mit dem Ziel zu starten,
+regelm&#228;&#223;ig und systematisch Verbesserungsvorschl&#228;ge zu erhalten?
+Die Bundesregierung begr&#252;&#223;t alle Ma&#223;nahmen, die zu einer sicheren und
+nutzerfreundlichen Anwendung der HPI Schul-Cloud beitragen. Aufwand und
+Nutzen entsprechender Ma&#223;nahmen sind im Einzelfall abzuw&#228;gen.
+36. Welche Kritik zur HPI Schul-Cloud hat die Bundesregierung bisher
+aufgegriffen?
+Welche weitere Kritik ist ihr bekannt?
+Anregungen zur verbesserten Funktion der Schul-Cloud und Fehlermeldungen 
+werden &#252;ber ein Ticket-System durch das HPI systematisch erfasst. Die 
+Bundesregierung geht von einer angemessenen Ber&#252;cksichtigung der
+Meldungen in der kontinuierlichen Weiterentwicklung der HPI Schul-Cloud aus.
+37. Ist dar&#252;ber hinaus eine regelm&#228;&#223;ige Evaluierung unter allen
+Nutzergruppen geplant?
+Wann und wie soll dies geschehen?
+Die Bundesregierung gibt dem HPI keine Formen der Evaluation vor.
+Evaluationsma&#223;nahmen sind jedoch Teil des Projekts CLOUD17. Entsprechende
+Informationen k&#246;nnen z. B. unter https://blog.schul-cloud.org/begleitforschung-zur-
+hpi-schul-cloud-gestartet-marktvergleich-und-nutzung-der-hpi-schul-cloud/ 
+eingesehen werden.
+38. Wie bewertet die in diesem Zusammenhang ge&#228;u&#223;erte konzeptionelle 
+Kritik, wonach die HPI Schul-Cloud-L&#246;sung nur wenige Kernfunktionen 
+zur Verf&#252;gung stellt?
+Im Vordergrund der ersten Projektphasen waren Grundfunktionalit&#228;ten, die
+sukzessive erweitert wurden bis hin zu Videokonferenz-Systemen und Virtuellen 
+Klassenzimmern.
+39. Sieht die Konzeption dieser Schul-Cloud-L&#246;sung vor, neben Vereinen/
+Partnern des B&#252;ndnisses freie Bildung, auch kommerziellen Anbietern 
+den Zugang mit ihren Dienstleistung zu erm&#246;glichen?
+Wie verl&#228;uft nach Kenntnis der Bundesregierung diese Abstimmung mit 
+den kommerziellen Anbietern?
+Welche Meilensteine wurden hier seitens der Bundesregierung mit dem 
+HPI und vom HPI mit den kommerziellen Anbietern getroffen?
+Wenn nein, warum nicht?
+Ziel des Projekts CLOUD17 ist die Entwicklung einer Schul-Cloud-L&#246;sung. 
+Diese Entwicklung wurde von Beginn an von einem Beirat begleitet, in dem 
+auch Personen von Digital-Verb&#228;nden, der IT-Industrie, der KMK und weiterer 
+Organisationen vertreten waren.
+Die Bundesregierung unterst&#252;tzt die offene Kommunikation des HPI mit
+Anbietern vergleichbarer Systeme.
+40. Sieht die Bundesregierung durch die vorgeworfene einseitige F&#246;rderung 
+der HPI Schul-Cloud den Wettbewerb behindert?
+Und gef&#228;hrdet die Bundesregierung damit vielf&#228;ltige bew&#228;hrte
+Produktentwicklung und zerst&#246;rt Innovationskraft?
+Wenn nein, warum nicht?
+IT-gest&#252;tzte Produkte unterliegen einem au&#223;erordentlich schnellen
+technologischen Wandel. Die Bundesregierung sieht in der F&#246;rderung innovativer IT-
+L&#246;sungen grunds&#228;tzlich einen Beitrag zur Steigerung der Wettbewerbsf&#228;higkeit 
+Deutschlands und f&#246;rdert zu diesem Zweck nicht nur Hochschulen, sondern 
+auch Unternehmen, wenn diese eine Entwicklung von Innovationen anstreben.
+Erg&#228;nzend wird auf die Antwort zu den Fragen 31 und 32 verwiesen.
+41. Wie wurde das Schul-Cloud-Projekt ausgeschrieben und auf welchen 
+vergaberechtlichen Grundlagen?
+Das Projekt CLOUD17 wird als Forschungsvorhaben im Rahmen der
+Projektf&#246;rderung als Zuwendung unterst&#252;tzt. Eine Auftragsvergabe hat daher zu
+keinem Zeitpunkt stattgefunden.
+42. Ist die Bundesregierung davon &#252;berzeugt, dass nur ein kostenloses 
+Schul-Cloud-System einen nachhaltigen, strukturierenden Erfolg in der 
+deutschen f&#246;deralen Bildungslandschaft erzielen kann?
+Und wie bewertet die Bundesregierung Wirkung und Nutzen von
+kommerziellen Anbietern und ihre Innovationskraft f&#252;r den Bildungsmarkt?
+Die Bundesregierung ist von dem Nutzen einer vielf&#228;ltigen und
+innovationsorientierten IT-Systemlandschaft &#252;berzeugt. Die Leistungen kommerzieller
+Anbieter werden von der Bundesregierung nicht in Zweifel gezogen und sind von 
+der Zielgruppe Schulen und Schultr&#228;ger bzw. L&#228;nder im Einzelfall gem&#228;&#223;
+eigener Kriterien zu bewerten.
+Das Projekt CLOUD17 ist ausschlie&#223;lich f&#252;r teilnehmende MINT EC-Schulen 
+f&#252;r die Dauer der Projektlaufzeit kostenfrei. Das Projekt OpenEduHub ist als 
+kostenfreies Angebot auf Ende des Jahres 2020 befristet. Die Kosten f&#252;r die 
+L&#228;nderprojekte BB, NI und TH tragen die betreffenden L&#228;nder selbst.
+43. Welche St&#228;rken und welche Schw&#228;chen hat die Bundesregierung
+hinsichtlich der f&#246;deralen Bildungslandschaft in Bezug auf Entwicklung und 
+Etablierung von IT-Systemen und die E-Learning-Angeboten analysiert, 
+und wie geht die Bundesregierung mit den gewonnenen Erkenntnissen 
+um?
+Die schulische Bildung ist nach der f&#246;deralen Ordnung eine Kernkompetenz 
+der L&#228;nder einschlie&#223;lich ihrer Kommunen, die diesen Aufgabenbereich
+eigenverantwortlich wahrnehmen.
+44. Wie bewertet die Bundesregierung die gewonnenen Erkenntnisse in
+Bezug auf die Abberufung und Nutzung der Mittel des Digitalpaktes in der 
+f&#246;deralen Bildungslandschaft?
+Welche positiven Aspekte konnten beim Abruf- bzw.
+Beantragungsprozess durch die Bundesregierung festgestellt worden?
+Welche Schw&#228;chen wurden im Rahmen des Programmhandlings
+festgestellt?
+Die Bundesregierung berichtet dem Haushaltsausschuss des Deutschen
+Bundestages &#252;ber die Nutzung der Mittel im Rahmen des DigitalPakts Schule. 
+Bund und L&#228;nder haben vereinbart, den DigitalPakt Schule
+programmbegleitend und abschlie&#223;end zu evaluieren.
+45. Wie bewertet die Bundesregierung die Forderung von einzelnen
+Landessch&#252;lersprechern, die eine einheitliche und umfassende Online-
+Schulplattform einfordern, weil die kommerziellen, digitalen Angebote 
+zwar gut, aber nicht ausreichend w&#228;ren und den individuellen
+schulischen Anforderungen nicht gen&#252;gen?
+46. Sieht sich die Bundesregierung in der Handlungsverpflichtung die
+Schaffung eines Runden Tisches Schuldigitalisierung zu initiieren?
+47. Sieht die Bundesregierung die Schuldigitalisierung eher als eine Frage 
+von Infrastruktur oder als eine Frage von E-Learning-L&#246;sungen?
+Die Fragen 45 bis 47 werden im Zusammenhang beantwortet.
+Es wird auf die Antwort zu Frage 43 verwiesen.
+48. Wie bewertet die Bundesregierung die Zusammenarbeit zwischen 
+Bundesregierung und Landeskultusministerien in Bezug auf Konzeption, 
+Evaluierung und Nutzung von Best-Practice-Konzepten f&#252;r digitales
+Lernen?
+Welcher Austausch funktioniert gut?
+Welche Gespr&#228;che verlaufen zu z&#246;gerlich und br&#228;uchten mehr Dynamik?
+Wie k&#246;nnte mehr Dynamik erreicht werden?
+Die Bundesregierung sch&#228;tzt den regelm&#228;&#223;igen Austausch mit den L&#228;ndern.
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/20292 -
+Schul-Cloud des Hasso-Plattner-Instituts: Datenschutz, Corona &amp; Zukunftsperspektiven.</titel>
+    <datum>2020-07-21</datum>
+  </document>
+  

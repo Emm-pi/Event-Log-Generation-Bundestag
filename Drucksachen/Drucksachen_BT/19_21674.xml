@@ -1,0 +1,702 @@
+<document>
+    <id>244162</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/21674</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>cd139ad6dd0282e2dee4eefcc9da68ea</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>265481</id>
+      <titel>Zustand der IT-Sicherheit der Energieversorgung</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium des Innern, f&#252;r Bau und Heimat</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/216/1921674.pdf</pdf_url>
+      <id>244162</id>
+      <dokumentnummer>19/21674</dokumentnummer>
+      <datum>2020-08-17</datum>
+      <verteildatum>2020-10-12</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Antwort
+der Bundesregierung
+auf die Kleine Anfrage der Abgeordneten Mario Brandenburg, Frank Sitta,
+Jens Beeck, weiterer Abgeordneter und der Fraktion der FDP
+&#8211; Drucksache 19/21459 &#8211;
+Zustand der IT-Sicherheit der Energieversorgung
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Die Aufrechterhaltung der Versorgungssicherheit ist eine Kernaufgabe des 
+Staates. Nicht zuletzt die COVID-19-Krise hat den Fokus verst&#228;rkt auf das 
+Funktionieren der wichtigsten und kritischen Infrastrukturen auch in
+Krisensituationen gelenkt. Entscheidend f&#252;r die Aufrechterhaltung der &#246;ffentlichen 
+Ordnung ist unter anderem die Resilienz der Energienetze und
+Kommunikationsnetze. Nach Ansicht der Fragestellerinnen und Fragesteller kann die
+fortschreitende Digitalisierung zu einer erh&#246;hten Eintrittswahrscheinlichkeit von 
+Ausf&#228;llen der Energieversorgung f&#252;hren, da die fortschreitende Digitalisierung 
+und Automatisierung die Angriffsoberfl&#228;che der Energieversorger und
+Energieversorgungsnetzbetreiber vergr&#246;&#223;ert. Komponenten die fr&#252;her noch rein 
+analog waren, sind an vielen Stellen inzwischen nicht nur digitalisiert worden, 
+sondern auch mit Datennetzen verbunden.
+Die fortschreitende Digitalisierung und Automatisierung in der
+Energieversorgung gew&#228;hrleistet deren effiziente Bereitstellung und stetige
+Verf&#252;gbarkeit, bringt aber auch gr&#246;&#223;ere Herausforderungen bez&#252;glich der IT-Sicherheit 
+bei Energieversorgern und Energieversorgungsnetzbetreibern mit sich. Dabei 
+sind die Aufrechterhaltung der Informations- und
+Kommunikationsinfrastruktur und der Energiesicherheit wechselseitig voneinander abh&#228;ngig.
+Diese kritischen Komponenten gelten daher als Ziele von Cyberkriminellen, 
+m&#246;glicherweise aber auch von fremden Staaten. Vor diesem Hintergrund
+interessiert eine aktuelle Bestandsaufnahme der IT-Sicherheit in der
+Energieversorgung sowie der damit zusammenh&#228;ngenden Resilienz der Informations- 
+und Kommunikationsinfrastruktur.
+&#8199;1. Wie sch&#228;tzt die Bundesregierung die Versorgungssicherheit der
+Energieversorgung im europ&#228;ischen Verbundnetz ein?
+Deutschland ist voll in den europ&#228;ischen Binnenmarkt f&#252;r Strom integriert und 
+profitiert damit von l&#228;nder&#252;bergreifenden Ausgleichseffekten beim
+Stromverbrauch, bei der Einspeisung erneuerbarer Energien und bei Verf&#252;gbarkeiten 
+von Kraftwerken. Somit erfolgt auch die Einsch&#228;tzung der Versorgungssicher-
+Deutscher Bundestag Drucksache 19/21674
+19. Wahlperiode 17.08.2020
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums des Innern, f&#252;r Bau und Heimat 
+vom 17. August 2020 &#252;bermittelt.
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext.
+heit mit Strom in Deutschland immer unter Ber&#252;cksichtigung des gesamten 
+europ&#228;ischen Strommarktes. Das Bundesministerium f&#252;r Wirtschaft und
+Energie (BMWi) f&#252;hrt ein kontinuierliches Monitoring der Versorgungssicherheit an 
+der Stromm&#228;rkten durch. Der aktuelle Bericht &#8222;Definition und Monitoring der 
+Versorgungssicherheit an den europ&#228;ischen Stromm&#228;rkten&#8220; ist unter folgendem 
+Link abrufbar: https://www.bmwi.de/Redaktion/DE/Publikationen/Studien/defi
+nition-und-monitoring-der-versorgungssicherheit-an-den-europaeischen-strom
+maerkten.pdf.
+Ab dem 1. Januar 2021 wird die Bundesnetzagentur (BNetzA) f&#252;r ein
+weiterentwickeltes und ausgeweitetes Versorgungssicherheitsmonitoring zust&#228;ndig 
+sein. Neben der Untersuchung der Stromm&#228;rkte werden zuk&#252;nftig auch
+Netzaspekte und Extremf&#228;lle in eigenen Berechnungen gepr&#252;ft werden. Damit
+entsteht ein integriertes Monitoring der Versorgungssicherheit in allen
+versorgungssicherheitsrelevanten Bereichen.
+Neben dem Versorgungssicherheitsmonitoring des BMWi werden j&#228;hrlich auch 
+ein Monitoring des Verbandes der europ&#228;ischen &#220;bertragungsnetzbetreiber 
+(ENTSO-E), &#8222;Mid-term Adequacy Forecast&#8220; (https://www.entsoe.eu/outlooks/
+midterm/wp-content/uploads/2019/12/entsoe_MAF_2019.pdf) sowie ein
+Bericht des Pentalateralen Energieforums zur Versorgungssicherheit &#8222;Pentalateral 
+Energy Forum Support Group 2 &#8211; Generation Adequacy Assessment April 
+2020&#8220; (https://www.tennet.eu/fileadmin/user_upload/Company/Investor_Relati
+ons/2020_PLEF_GAA_3.0_report_FINAL.PDF) ver&#246;ffenticht. Alle
+aufgef&#252;hrten Analysen haben auch perspektivisch keine konkreten Gef&#228;hrdungen der 
+Versorgungssicherheit festgestellt.
+Im Bereich der Gasversorgung erweitert die novellierte Verordnung &#252;ber
+Ma&#223;nahmen zur Gew&#228;hrleistung der sicheren Gasversorgung (EU) 2017/1938 die 
+Reihe der Ma&#223;nahmen zur Sicherstellung einer unterbrechungsfreien
+Gasversorgung in der gesamten Europ&#228;ischen Union. Die Leitprinzipien der
+Verordnung bilden die regionale Zusammenarbeit im Rahmen der Krisenvorsorge 
+und die gegenseitige solidarische Unterst&#252;tzung der Mitgliedsstaaten
+untereinander bei der Bew&#228;ltigung von Gasversorgungskrisen.
+Die Mitgliedstaaten erg&#228;nzen ihre Risikoanalysen, Pr&#228;ventions- und
+Notfallpl&#228;ne um regionale Kapitel und arbeiten an bilateralen Abkommen zu
+solidarischen Gaslieferungen f&#252;r den Fall eines Versorgungsdefizits, das der betroffene 
+Mitgliedstaat nicht durch marktbasierte Ma&#223;nahmen beheben kann. Die
+Verordnung dient der Versorgungssicherheit mit Gas, sowohl im Rahmen der
+europ&#228;ischen Fernleitungs- als auch der Verteilnetze. Ma&#223;nahmen zur
+Versorgungssicherheit in Europa werden zudem im Rahmen der &#8222;Gas Coordination Group&#8220; 
+in Br&#252;ssel eng abgestimmt und koordiniert.
+Auch die &#214;lversorgungssicherheit basiert wesentlich auf dem
+Informationsaustausch auf der Ebene der Internationalen Energieagentur (IEA) und der 
+Europ&#228;ischen Union (EU). In regelm&#228;&#223;ig tagenden Arbeitsgruppen in beiden 
+Organisationen tauschen sich Experten und Beh&#246;rdenvertreter &#252;ber die
+Situation der weltweiten &#214;lversorgungssicherheit und den daraus resultierenden
+jeweiligen Folgen f&#252;r die jeweiligen L&#228;nder aus. Dar&#252;ber hinaus finden
+internationale &#220;bungen statt, die weltweite Szenarien von Versorgungsengp&#228;ssen 
+mit &#214;l simulieren und L&#246;sungsans&#228;tze aufzeigen.
+&#8199;2. Wie gro&#223; sch&#228;tzt die Bundesregierung die Gefahr eines teilweisen oder 
+vollst&#228;ndigen Blackouts (langanhaltenden und mindestens
+&#252;berregionalen Stromausfalls) in den n&#228;chsten f&#252;nf Jahren (bitte getrennt nach den 
+untenstehenden Buchstaben a bis c beantworten):
+a) &#252;berregional,
+b) bundesweit,
+c) im gesamten europ&#228;ischen Verbundnetz?
+Die sichere Versorgung von Verbrauchern mit Strom h&#228;ngt zum einen von der 
+Versorgungssicherheit am Strommarkt, zum anderen von Stromnetzaspekten 
+ab.
+Die Versorgungssicherheit am Strommarkt wird im Monitoring desBMWi 
+&#8222;Definition und Monitoring der Versorgungssicherheit an den europ&#228;ischen 
+Stromm&#228;rkten&#8220; (https://www.bmwi.de/Redaktion/DE/Publikationen/Studien/de
+finition-und-monitoring-der-versorgungssicherheit-an-den-europaeischen-strom
+maerkten.pdf) anhand der Gr&#246;&#223;e Last&#252;berhangwahrscheinlichkeit (&#8222;Loss of 
+Load Probabiliy&#8220; kurz LoLP, in Prozent) untersucht.
+Sie beschreibt die Wahrscheinlichkeit f&#252;r Systemzust&#228;nde, in denen die
+Nachfrage am Strommarkt unter Ber&#252;cksichtigung der preislichen Pr&#228;ferenzen der 
+Verbraucher durch das verf&#252;gbare Angebot nicht vollst&#228;ndig gedeckt werden 
+kann. Zur Untersuchung der Versorgungssicherheit wird zun&#228;chst ein
+Standardwert f&#252;r LoLP definiert, welcher der volkswirtschaftlich angemessenen
+Versorgungssicherheit entspricht. Im Monitoring wird dann f&#252;r verschiedene
+Szenarien untersucht, ob dieser LoLP-Standard eingehalten werden kann.
+Der &#8222;Monitoringbericht des Bundesministeriums f&#252;r Wirtschaft und Energie 
+nach &#167; 63 i. V. m. &#167; 51 des Gesetzes &#252;ber die Elektrizit&#228;ts- und Gasversorgung 
+(EnWG) zur Versorgungssicherheit im Bereich der leitungsgebundenen
+Versorgung mit Elektrizit&#228;t&#8220; (https://www.bmwi.de/Redaktion/DE/Publikationen/Ener
+gie/monitoringbericht-versorgungssicherheit-2019.pdf) gibt basierend auf dem 
+oben genannten Monitoringbericht f&#252;r Deutschland f&#252;r 2020 und 2025 eine 
+Lastausgleichswahrscheinlichkeit (Reziprok zur
+Last&#252;berhangwahrscheinlichkeit) von (rechnerisch) 100 Prozent an.
+Die schwerpunktm&#228;&#223;ig gesamteurop&#228;ischen Untersuchungen der
+Versorgungssicherheit durch den Verband der europ&#228;ischen &#220;bertragungsnetzbetreiber 
+(ENTSO-E), &#8222;Mid-term Adequacy Forecast&#8220; (https://www.entsoe.eu/outlooks/
+midterm/wp-content/uploads/2019/12/entsoe_MAF_2019.pdf) bzw. die
+Untersuchungen zur Versorgungssicherheit des Pentalateralen Energieforums,
+&#8222;Pentalateral Energy Forum Support Group 2 &#8211; Generation Adequacy Assessment 
+April 2020&#8220; (https://www.tennet.eu/fileadmin/user_upload/Company/Investor_
+Relations/2020_PLEF_GAA_3.0_report_FINAL.PDF) weisen auf einen sehr 
+hohen Versorgungssicherheitsstandard im gesamten europ&#228;ischen Verbundnetz 
+hin.
+Langanhaltende und mindestens &#252;berregionale Stromausf&#228;lle sind extrem
+selten. Das gesamte kontinentaleurop&#228;ische Verbundnetz ist noch nie schwarz
+gefallen, einzelne Regionen sehr selten. Die Netzbetreiber sind f&#252;r einen sicheren 
+Netzbetrieb auf regionaler, nationaler und europ&#228;ischer Ebene zust&#228;ndig. Sie 
+stimmen ihre Ma&#223;nahmen regional und europ&#228;isch eng ab und entwickeln sie 
+regelm&#228;&#223;ig weiter. Die hohe Versorgungsqualit&#228;t der letzten Jahre hat gezeigt, 
+dass sich auch in angespannten Situationen die vorgesehenen Mechanismen der 
+Netzbetreiber bew&#228;hrt haben. Durch den Umbau der Erzeugungslandschaft, des 
+Verbrauchs und der st&#228;rkeren Digitalisierung werden diese Prozesse permanent 
+weiterentwickelt, um das hohe Versorgungsniveau jederzeit sicherzustellen.
+Die Bundesregierung geht deshalb davon aus, dass ein langanhaltender
+Stromausfall in den F&#228;llen a, b und c &#228;u&#223;erst unwahrscheinlich ist. Eine konkrete 
+Wahrscheinlichkeit l&#228;sst sich daf&#252;r nicht angeben. Angesichts der
+Vorsorgema&#223;nahmen der Netzbetreiber w&#252;rde ein solcher Fall allenfalls aufgrund
+unvorhergesehener Umst&#228;nde eintreten, deren Wahrscheinlichkeit sich wegen der 
+Unvorhersehbarkeit nicht bestimmen l&#228;sst. Auch f&#252;r den sehr
+unwahrscheinlichen Fall eines mindestens &#252;berregionalen Stromausfalls sorgen die
+Netzbetreiber durch ihre Netzwiederaufbaukonzepte f&#252;r eine schnelle Wiederkehr der 
+Stromversorgung vor. Hierf&#252;r werden beispielsweise sogenannte
+schwarzstartf&#228;hige Kraftwerke vorgehalten, die auch ohne Zufuhr elektrischer Energie von 
+au&#223;en anfahren und einen Netzabschnitt aus einem vollst&#228;ndig abgeschalteten 
+Zustand wieder unter Spannung zu setzen k&#246;nnen.
+&#8199;3. Wie sch&#228;tzt die Bundesregierung die tats&#228;chliche IT-Sicherheit der
+deutschen Energieversorger und Energieversorgungsnetze ein?
+IT-Sicherheit ist kein statischer Zustand, sondern ein dynamischer und
+fortlaufender Prozess, in dem es um den Umgang mit immer neuen
+Bedrohungslagen geht. Dabei erm&#246;glicht die Analyse von Auff&#228;lligkeiten und St&#246;rungen 
+der informationstechnischen Systeme in einem Unternehmen R&#252;ckschl&#252;sse auf 
+dessen IT-Sicherheit.
+Mit dem IT-Sicherheitsgesetz wurden im Jahr 2015 in &#167; 8b Absatz 4 des
+Gesetzes &#252;ber das Bundesamt f&#252;r Sicherheit in der Informationstechnik (BSI-Gesetz 
+&#8211; BSIG) und in &#167; 11 Absatz 1c EnWG eine Meldepflicht f&#252;r IT-
+Sicherheitsvorf&#228;lle f&#252;r Betreiber Kritischer Infrastrukturen und Betreiber von
+Energieversorgungsnetzen an das Bundesamt f&#252;r Sicherheit in der Informationstechnik 
+(BSI) eingef&#252;hrt. Diese St&#246;rungsmeldungen werden durch das BSI an die 
+BNetzA weitergeleitet.
+Zudem haben alle Strom- und Gasnetzbetreiber sowie Betreiber von solchen 
+Gasf&#246;rderanlagen, Gasspeichern und Energieerzeugungsanlagen, die die
+jeweiligen Schwellenwerte der Verordnung zur Bestimmung Kritischer
+Infrastrukturen nach dem BSI-Gesetz (BSI-KritisV) erreichen oder &#252;berschreiten, gem&#228;&#223; 
+&#167; 11 Absatz 1a, 1b EnWG die IT-Sicherheitskataloge umzusetzen und deren 
+Umsetzung gegen&#252;ber der BNetzA nachzuweisen.
+Die &#252;brigen Betreiber Kritischer Infrastrukturen im Sektor Energie haben
+gem&#228;&#223; &#167; 8a des BSI-Gesetzes die Einhaltung des Stands der Technik im Bereich 
+der IT-Sicherheit gegen&#252;ber dem BSI nachzuweisen. Hierzu wurden
+beispielsweise f&#252;r Anlagen zur Steuerung/B&#252;ndelung elektrischer Leistung oder auch im 
+Bereich Fernw&#228;rme durch die Betreiber branchenspezifische
+Sicherheitsstandards erarbeitet und vom BSI eignungsgepr&#252;ft. Diese branchenspezifischen
+Sicherheitsstandards k&#246;nnen daher zum Nachweis der gesetzlichen
+Anforderungen herangezogen werden.
+Kernanforderung der oben genannten Anforderungen ist die Einf&#252;hrung eines 
+Informationssicherheitsmanagementsystems. In diesem Rahmen m&#252;ssen
+Betreiber stetig IT-Sicherheitsma&#223;nahmen planen, umsetzen, pr&#252;fen und erneut im 
+Zuge eines kontinuierlichen Verbesserungsprozesses auf die angepassten
+Rahmenbedingungen reagieren. Das IT-Sicherheitsniveau der Kritischen
+Infrastrukturen verbessert sich also fortlaufend.
+Auswertungen der beim BSI gemeldeten St&#246;rungen zeigen, dass es in den
+letzten Jahren aufgrund von Cyberangriffen in keinem Fall zu
+Versorgungsunterbrechungen der Energieversorgung gekommen ist. Es zeigt sich, dass die
+bestehenden Regelungen zu einer konstanten Weiterentwicklung und Verbesserung 
+des Schutzniveaus gegen&#252;ber Cyberangriffen gef&#252;hrt haben, und in den
+Unternehmen das Bewusstsein gegen&#252;ber modernen Cyberangriffen weiter gesch&#228;rft 
+wird.
+Neben dem BSI-Gesetz und dem EnWG ist f&#252;r die IT-Sicherheit im Sektor 
+Energie auch das Gesetz zur Digitalisierung der Energiewende von
+wesentlicher Bedeutung. Mit ihm wurde 2016 das Gesetz f&#252;r den Messstellenbetrieb 
+und die Datenkommunikation in Intelligenten Energienetzen (MsbG)
+eingef&#252;hrt, welches die technischen und rechtlichen Grundlagen f&#252;r den Aufbau 
+eines intelligenten Energienetzes in Deutschland regelt. Durch den stufenweise 
+zu realisierenden Einsatz der vorgegebenen Kommunikationsinfrastruktur und 
+eines zertifizierten Smart-Meter-Gateways nach dem MsbG in allen
+energiewenderelevanten Anwendungsf&#228;llen k&#246;nnen die Sicherheit und Funktion von 
+intelligenten Energienetzen gew&#228;hrleistet werden.
+In diesem Zusammenhang wird auch auf die Technische Richtlinie des BSI 
+TR-03109 und das Schutzprofil PP-0073 sowie die Standardisierungsstrategie 
+zur sektor&#252;bergreifenden Digitalisierung nach dem Gesetz zur Digitalisierung 
+der Energiewende (GDEW) von BMWi und BSI verwiesen (https://www.bsi.bu
+nd.de/DE/Themen/DigitaleGesellschaft/SmartMeter/Standardisierungsstrategie/
+standardisierungsstrategie_node.html).
+&#8199;4. Wie bewertet die Bundesregierung die f&#246;derale Struktur der
+Bundesrepublik Deutschland im Hinblick auf die Schaffung, Einhaltung und
+Kontrolle von Vorschriften zur IT-Sicherheit in kritischen Infrastrukturen 
+nach KritisV (bitte getrennt beantworten und nach allen Anh&#228;ngen der 
+KritisV aufschl&#252;sseln)?
+Die Zust&#228;ndigkeit f&#252;r die Schaffung, Einhaltung und Kontrolle von
+Vorschriften zur IT-Sicherheit in Kritischen Infrastrukturen nach der Verordnung zur
+Bestimmung Kritischer Infrastrukturen nach dem BSI-Gesetz (BSI-KritisV) liegt 
+f&#252;r alle Anh&#228;nge der BSI-KritisV gleicherma&#223;en beim Bund, da sowohl die
+Bestimmung in der BSI-KritisV, welche Einrichtungen Anlagen oder Teile davon 
+als Kritische Infrastrukturen im Sinne des Gesetzes &#252;ber das Bundesamt f&#252;r 
+Sicherheit in der Informationstechnik gelten (&#167; 10 Absatz 1 BSIG), als auch die 
+sich daraus ergebenden Rechtsfolgen in Bundesgesetzen (u. a. BSIG, EnWG, 
+Telekommunikationsgesetz (TKG), Gesetz &#252;ber die friedliche Verwendung der 
+Kernenergie und den Schutz gegen ihre Gefahren (AtG)) geregelt werden, und 
+auch der diesbez&#252;gliche Vollzug in Zust&#228;ndigkeit des Bundes liegt. Die
+f&#246;derale Struktur der Bundesrepublik Deutschland hat bei Vorschriften zur IT-
+Sicherheit in Kritischen Infrastrukturen nach BSI-KritisV daher keine
+unmittelbaren Auswirkungen.
+&#8199;5. Wie viele meldepflichtige Vorf&#228;lle nach &#167; 8b Absatz 4 des BSI-Gesetzes 
+(BSIG) sind in den Jahren 2017, 2018 und 2019 gemeldet worden (bitte 
+getrennt nach Jahren und nach Meldungen nach &#167; 8b (4) 1. und &#167; 8b (4) 
+2. auflisten und nach allen Anh&#228;ngen der KritisV aufschl&#252;sseln)?
+Nach den Sektoren bzw. Anh&#228;ngen der BSI-KritisV aufgeschl&#252;sselte
+Auswertungen zu meldepflichtigen Vorf&#228;llen nach &#167; 8b Absatz 4 BSIG k&#246;nnen den 
+j&#228;hrlichen Lageberichten des BSIentnommen werden, die unter der folgenden 
+Adresse &#246;ffentlich zug&#228;nglich sind: https://www.bsi.bund.de/DE/Publikationen/
+Lageberichte/lageberichte_node.html. Bei der statistischen Erfassung der
+Meldungen nach &#167; 8b Absatz 4 BSIG erfolgt keine Unterscheidung bez&#252;glich 
+Meldungen nach &#167; 8b Absatz 4 Nummer 1 und Nummer 2 BSIG.
+&#8199;6. Wie oft wurden Hersteller in den Jahren 2017, 2018 und 2019 nach &#167; 8b 
+Absatz 6 BSIG zur Mitwirkung bei der Beseitigung oder Vermeidung 
+einer St&#246;rung aufgefordert (bitte nach Jahren getrennt auflisten)?
+Bislang war es nicht erforderlich, die Hersteller unter Berufung auf &#167; 8b
+Absatz 4 BSIG zur Mithilfe bei der Abstellung der M&#228;ngel aufzufordern. Die
+Hersteller kamen ihrer gesetzlichen Pflicht hierzu auch ohne eine derartige
+offizielle Aufforderung nach.
+&#8199;7. In wie vielen Vorf&#228;llen in den Jahren 2017, 2018 und 2019 konnten 
+Cyberkriminelle teilweisen, vollst&#228;ndigen oder auch rein lesenden
+Zugriff auf die Netzwerke der deutschen Energieversorger, die unter
+Anhang 1 Teil 3 KritisV fallen, (bitte nach Jahren getrennt auflisten):
+a) auf informationstechnische Netzwerke,
+b) auf operationstechnische Netzwerke erlangen?
+c) Bei wie vielen Vorf&#228;llen kann ein unberechtigter Zugriff zwar nicht 
+eindeutig belegt werden, aber auch nicht ausgeschlossen werden?
+Die Fragen 7a, 7b und 7c werden gemeinsam beantwortet.
+F&#252;r den Zeitraum 2017 liegen dem BSI keine Meldungen vor.
+F&#252;r den Zeitraum 2018 liegen dem BSI folgende Meldungen vor:
+a) 3 Meldungen
+b) 0 Meldungen
+c) 1 Meldung
+F&#252;r den Zeitraum 2019 liegen dem BSI folgende Meldungen vor:
+a) 2 Meldungen
+b) 0 Meldungen
+c) 0 Meldungen
+Seitens des BKA wurden in den Jahren 2017, 2018 und 2019 keine
+Ermittlungsverfahren im Zusammenhang mit Hackingangriffen auf deutsche
+Energieversorger gef&#252;hrt.
+&#8199;8. In wie vielen Vorf&#228;llen in den Jahren 2017, 2018 und 2019 konnten
+Personen oder Personengruppen mit Bezug zu oder im Auftrag von fremden 
+Staaten teilweisen, vollst&#228;ndigen, oder auch rein lesenden Zugriff auf die 
+Netzwerke der deutschen Energieversorger, die unter Anhang 1 Teil 3 
+KritisV fallen, (bitte nach Jahren getrennt auflisten):
+a) auf informationstechnische Netzwerke,
+b) auf operationstechnische Netzwerke erlangen?
+c) Bei wie vielen Vorf&#228;llen kann ein unberechtigter Zugriff zwar nicht 
+eindeutig belegt werden, aber auch nicht ausgeschlossen werden?
+Die Fragen 8a, 8b und 8c werden aufgrund ihres Sachzusammenhangs
+gemeinsam beantwortet.
+Im Zeitraum 2017 bis 2019 wurden dem BSI keine Meldungen abgegeben, bei 
+denen der meldende Betreiber eine politische Motivation des Angreifers oder 
+einen nachrichtendienstlichen Hintergrund angegeben hat. Seitens des
+Bundeskriminalamtes wurden in den Jahren 2017, 2018 sowie 2019 keine
+Ermittlungsverfahren gegen Unbekannt beziehungsweise Personen oder Personengruppen
+mit Bezug zu oder im Auftrag von fremden Staaten aufgrund eines
+grunds&#228;tzlichen Zugriffs auf die Netzwerke der deutschen Energieversorger gef&#252;hrt. Das 
+Bundesamt f&#252;r Verfassungsschutz f&#252;hrt keine Statistik zur Anzahl von
+Vorf&#228;llen auf Netzwerke deutscher Energieversorger, da diese die tats&#228;chliche
+Bedrohungslage durch Cyberangriffe mit nachrichtendienstlichem Hintergrund 
+nicht belastbar abbilden k&#246;nnen.
+&#8199;9. Welche Bem&#252;hungen hat die Bundesregierung unternommen, um die 
+Empfehlungen der Enquete Kommission f&#252;r Internet und digitale
+Gesellschaft (EIDG) auf Bundestagsdrucksache 17/12541, insbesondere die 
+Empfehlungen auf Seite 97 Abschnitt 4. &#8222;Sicherstellung des technischen 
+Schutzes&#8220; Unterabschnitt b) &#8222;SCADA- und PLC-Systeme&#8220; umzusetzen?
+a) Welche Ma&#223;nahmen hat die Bundesregierung durchgef&#252;hrt, um
+Hersteller von SCADA und PLC-Systeme dazu zu bringen, den
+Quellcode in kritischen Infrastrukturen zug&#228;nglich zu machen?
+b) Wie erfolgreich waren diese Ma&#223;nahmen?
+Die Fragen 9 bis 9b werden aufgrund ihres Sachzusammenhangs gemeinsam 
+beantwortet.
+Bez&#252;glich der Empfehlungen der Enquete Kommission in Abschnitt 4a zu 
+Standards in Kritischen Infrastrukturen zur Gew&#228;hrleistung eines hohen IT-
+Sicherheitsniveaus wird auf die Antwort zu Frage 3 verwiesen. Die von der 
+Enquete-Kommission vorgeschlagene Verpflichtung von Betreibern Kritischer 
+Infrastrukturen zur Erf&#252;llung von Mindestanforderungen an die IT-Sicherheit 
+(Stand der Technik) durch eine gesetzliche Regelung wurde im ersten IT-
+Sicherheitsgesetz von 2015 eingef&#252;hrt.
+Bez&#252;glich der Empfehlungen zur Verbesserung der IT-Sicherheit in SCADA- 
+und PLC-Systemen in Abschnitt 4 b) hat das BSI hat eine Reihe von
+Publikationen zum Schutz industrieller Automatisierungs- und Kontrollsysteme
+ver&#246;ffentlicht, zu denen die SCADA- und PLC-Systeme geh&#246;ren. Diese sollen 
+Hersteller unter anderem bei der Entwicklung sicherer Komponenten und bei 
+der Reaktion auf Schwachstellen unterst&#252;tzen. Zudem wurden Empfehlungen 
+f&#252;r Betreiber dieser Systeme ver&#246;ffentlicht, die technische und organisatorische 
+Ma&#223;nahmen f&#252;r einen sicheren Betrieb beschreiben. Diese Dokumente sind 
+&#246;ffentlich einsehbar unter den folgenden Adressen:
+https://www.bsi.bund.de/DE/Themen/ICS/Empfehlungen/ICS-Hersteller/empfe
+hlungen_hersteller_node.html
+https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/ICS/ICS-Security_k
+ompendium_pdf.html#download=1.
+Zudem ist das BSI bei der Deutschen Kommission f&#252;r Elektrotechnik (DKE) 
+und der Plattform Industrie 4.0 an der Erarbeitung von sicheren Konzepten und 
+internationalen Standards f&#252;r Industrielle Automatisierungs- und
+Kontrollsysteme beteiligt.
+Dar&#252;berhinausgehende Ma&#223;nahmen, um Hersteller von SCADA- und PLC-
+Systemen zur Ver&#246;ffentlichung ihres Quellcodes zu bringen, sind der
+Bundesregierung nicht bekannt. Diesbez&#252;glich verpflichtende Ma&#223;nahmen k&#246;nnten
+zudem aufgrund des europ&#228;ischen Binnenmarkts sinnvoll nur auf europ&#228;ischer 
+Ebene eingef&#252;hrt werden. Die Bundesregierung weist zudem darauf hin, dass 
+das Offenlegen von Quellcode allein noch nicht zwangsl&#228;ufig die Sicherheit
+erh&#246;ht, da der Quellcode potentiellen Evaluatoren und potentiellen Angreifern 
+gleicherma&#223;en offengelegt wird. Das Auffinden etwaig vorhandener
+Schwachstellen erfordert dennoch oft erhebliche Aufw&#228;nde.
+Bei der Behebung von Schwachstellen kann Open-Source-Software Vorteile 
+bieten, wenn z. B. entsprechende Updates/Patches notfalls auch durch andere 
+fachkundige Mitglieder der Community herausgegeben werden.
+Dieser Vorteil von Open-Source-Software gilt nicht zwangsl&#228;ufig auch f&#252;r 
+propriet&#228;re Software, deren Quellcode lediglich zur Einsichtnahme offengelegt 
+wird (sogenannte Shared-Source-Software).
+10. Welche Empfehlungen der EIDG hat die Bundesregierung in die
+Cybersicherheitsstrategie verbindlich aufgenommen, umgesetzt oder plant die 
+Umsetzung der Empfehlungen (bitte auflisten nach Drucksache der 
+EIDG, Kapitel und Abschnitt auflisten)?
+Die Cyber-Sicherheitsstrategie f&#252;r Deutschland 2016 formuliert Leitlinien der 
+Cyber-Sicherheitsstrategie und beschreibt vier Handlungsfelder mit
+Ma&#223;nahmen, um eine zukunftsgerichtete Cyber-Sicherheitspolitik zu gestalten. Die 
+beschriebenen Ma&#223;nahmen sind nicht verbindlich. Eine Zuordnung der
+Empfehlungen zu Ma&#223;nahmen ist nicht gegeben.
+a) Welche Empfehlungen wurden wann erfolgreich umgesetzt?
+b) Welche Empfehlungen sind aktuell in der Umsetzung?
+Bis wann wird die Umsetzung vorrausichtlich abgeschlossen sein?
+d) Welche Empfehlungen wurden bisher nur in die
+Cybersicherheitsstrategie aufgenommen?
+Derzeit wird eine Evaluierung der Cyber-Sicherheitsstrategie 2016
+durchgef&#252;hrt und erfasst, welche Ma&#223;nahmen erfolgreich umgesetzt wurden bzw. 
+noch umgesetzt werden.
+c) Welche Empfehlungen sind geplant umzusetzen?
+Wann wird die Umsetzung beginnen?
+Im Anschluss an die Evaluierung ist eine Fortschreibung der Cyber-
+Sicherheitsstrategie geplant. Im Rahmen des Fortschreibungsprozesses wird
+festgelegt, welche Empfehlungen oder Ma&#223;nahmen zuk&#252;nftig Ber&#252;cksichtigung 
+finden.
+11. Welche Vorschriften existieren nach Kenntnis der Bundesregierung zur 
+Verwendung von Verschl&#252;sselung, Authentifizierung und digitalen 
+Signaturen im Bereich der fernwirkenden drahtgebundenen
+operationstechnischen Netzwerke von Energieversorgern, die unter Anhang 1 Teil 3 
+KritisV fallen?
+a) Ist ein unverschl&#252;sselter Betrieb von operationstechnischen
+Netzwerken zul&#228;ssig?
+b) Ist es rechtlich zul&#228;ssig, Steuerbefehle in operationstechnischen 
+Netzwerken ohne Authentifizierung zu verwenden?
+c) Ist es rechtlich zul&#228;ssig, Steuerbefehle in operationstechnischen 
+Netzwerken ohne digitale Signatur zu verwenden?
+d) Wie oft wird die Einhaltung dieser Vorschriften durch wen gepr&#252;ft?
+e) Wie oft wurden M&#228;ngel festgestellt?
+12. Welche Vorschriften existieren nach Kenntnis der Bundesregierung zur 
+Verwendung von Verschl&#252;sselung, Authentifizierung und digitalen
+Signaturen im Bereich der drahtgebundenen informationstechnischen 
+Netzwerke von Energieversorger die unter Anhang 1 Teil 3 KritisV 
+fallen?
+a) Ist ein unverschl&#252;sselter Betrieb von informationstechnischen
+Netzwerken zul&#228;ssig?
+b) Ist es rechtlich zul&#228;ssig, Betriebsdaten in informationstechnischen 
+Netzwerken ohne Authentifizierung zu versenden?
+c) Ist es rechtlich zul&#228;ssig, Betriebsdaten in informationstechnischen 
+Netzwerken ohne digitale Signatur zu versenden?
+d) Wie oft wird die Einhaltung dieser Vorschriften durch wen gepr&#252;ft?
+e) Wie oft wurden M&#228;ngel festgestellt?
+13. Welche Vorschriften existieren nach Kenntnis der Bundesregierung zur 
+Verwendung von Verschl&#252;sselung, Authentifizierung und digitalen 
+Signaturen im Bereich der drahtlosen operationstechnischen Netzwerke, 
+beispielsweise auf Basis von TETRA, von Energieversorgern die unter 
+Anhang 1 Teil 3 KritisV fallen (vgl. auch https://fragdenstaat.de/a/17
+0138 und https://fragdenstaat.de/a/171389)?
+a) Ist ein unverschl&#252;sselter Datenfunk in operationstechnischen
+Netzwerken zul&#228;ssig?
+b) Ist es rechtlich zul&#228;ssig, Steuerbefehle in drahtlosen
+operationstechnischen Netzwerken ohne Authentifizierung zu verwenden?
+c) Ist es rechtlich zul&#228;ssig, Steuerbefehle in drahtlosen
+operationstechnischen Netzwerken ohne digitale Signatur zu verwenden?
+d) Wie oft wird die Einhaltung dieser Vorschriften durch wen gepr&#252;ft?
+e) Wie oft wurden M&#228;ngel festgestellt?
+Die Fragen 11 bis 11e, 12 bis 12e und 13 bis 13e werden aufgrund ihres
+inhaltlichen Zusammenhangs zusammen beantwortet.
+Vorgaben des Energiewirtschaftsgesetzes f&#246;rdern sichere digitale Informations- 
+und Kommunikationsprozesse f&#252;r Strom- und Gasnetze sowie Energieanlagen 
+(&#167; 11 Absatz 1a und b EnWG). &#167; 11 EnWG formuliert in diesem
+Zusammenhang bestimmte Schutzziele, n&#228;mlich den Schutz der Verf&#252;gbarkeit, Integrit&#228;t, 
+Authentizit&#228;t und Vertraulichkeit von informationstechnischen Systemen.
+Basierend auf &#167; 11 Absatz 1a und 1b EnWG sind von der BNetzA im
+Benehmen mit dem BSI Sicherheitskataloge erstellt worden. Die Regelungen aus den 
+Sicherheitskatalogen gelten f&#252;r alle Strom- und Gasnetzbetreiber sowie f&#252;r
+Betreiber von Energieanlagen, die als Kritische Infrastruktur nach der BSI-KritisV 
+bestimmt wurden.
+Die Sicherheitskataloge etablieren einen angemessenen Schutz gegen
+Bedrohungen f&#252;r IKT-Systeme, die f&#252;r einen sicheren Netz- bzw. Anlagenbetrieb
+notwendig sind. Soweit n&#246;tig umfassen die Sicherheitskataloge auch die
+Verwendung von Verschl&#252;sselung, Authentifizierung und digitalen Signaturen im 
+Bereich der drahtgebundenen operations- und informationstechnischen
+Netzwerke, sowie der drahtlosen operationstechnischen Netzwerke.
+Die Kernanforderung der Sicherheitskataloge ist die Einf&#252;hrung, Umsetzung 
+und Betrieb eines Informationssicherheits-Managementsystems (ISMS), das 
+den Anforderungen der DIN ISO/IEC 27001 in der jeweils geltenden Fassung 
+gen&#252;gt. Das ISMS muss kontinuierlich auf seine Wirksamkeit &#252;berpr&#252;ft und im 
+Bedarfsfall angepasst werden. Damit ist sichergestellt, dass jedes Unternehmen 
+in Abh&#228;ngigkeit der f&#252;r dieses Unternehmen ma&#223;geblichen
+Rahmenbedingungen die im Einzelfall angemessenen Schutzma&#223;nahmen ergreift. Dabei k&#246;nnen
+die Unternehmen auf verschiedene technische Vorschriften, Standards,
+Normen, Leitlinien und Empfehlungen zur&#252;ckgreifen.
+Weitere Normen formulieren Umsetzungsempfehlungen f&#252;r die verbindlichen 
+Ma&#223;nahmen des Anhangs A der DIN EN ISO/IEC 27001. Die DIN EN 
+ISO/IEC 27002 gibt u. a. konkrete Richtlinien zur Verschl&#252;sselung von
+Informationen vor, die von jedem Unternehmen bei der Einf&#252;hrung eines ISMS
+beachtet und je nach Notwendigkeit individuell umgesetzt werden m&#252;ssen 
+(Punkt 10. &#8222;Cryptography&#8220;). Hierdurch wird die Vertraulichkeit, die
+Authentizit&#228;t und die Integrit&#228;t von Informationen gesch&#252;tzt. Die DIN EN ISO/IEC 
+27019 erweitert die DIN EN ISO/IEC 27002 in verschiedenen Punkten um
+Besonderheiten im Bereich der Prozesssteuerung der Energieversorgung. Unter 
+Verweis auf weitere Spezialnormen beinhaltet dies z. B. auch die Nutzung
+(Erzeugung, Verteilung und Aufhebung) von digitalen Zertifikaten und
+kryptographischen Schl&#252;sseln in der Kommunikation von elektrischen
+Energieversorgungssystemen: Unter dem Kapitel 10.1.2 &#8222;Key management&#8220; wird
+beispielsweise auf die IEC 62351-9 zum Umgang mit kryptographischen Schl&#252;sseln, 
+Zertifikaten etc. in &#8222;Power systems communications&#8220; verwiesen.
+Die Normenreihe IEC&#8239;62351 &#8211; &#8222;Power systems management and associated
+information exchange &#8211; Data and communications security&#8220; beschreibt
+Anforderungen und Ma&#223;nahmen zur Absicherung der Kommunikationsprotokolle in 
+der Energieversorgung. Fokus ist u. a. eine Ende-zu-Ende-Absicherung,
+Zertifikats- und Schl&#252;sselmanagement sowie Authentisierung und Autorisierung.
+Die IEC 62351-9 &#8222;Cyber security key management for power system
+equipment&#8220; beschreibt detailliert den Aufbau sowie den Betrieb einer Public-Key-
+Infrastruktur (PKI) im Einsatz bei Energieversorgern.
+Netzbetreiber und Energieanlagenbetreiber sind verpflichtet, die Konformit&#228;t 
+ihres ISMS mit den Anforderungen des jeweiligen IT-Sicherheitskatalogs durch 
+ein Zertifikat zu belegen. Der Zertifizierungsprozess erfordert ein j&#228;hrliches 
+&#220;berwachungsaudit und eine Rezertifizierung alle drei Jahre.
+Nur so kann die G&#252;ltigkeit des Zertifikats aufrechterhalten werden. F&#252;r
+Energieanlagenbetreiber besteht diese Verpflichtung erstmalig zum 31. M&#228;rz 2021.
+Die Zertifizierung muss durch eine unabh&#228;ngige und f&#252;r die Zertifizierung 
+akkreditierte Stelle durchgef&#252;hrt werden. Der Abschluss des
+Zertifizierungsverfahrens ist der Bundesnetzagentur durch Vorlage einer Kopie des Zertifikats 
+mitzuteilen. Die Akkreditierung der zertifizierten Stelle erfolgt im Auftrag der 
+Bundesnetzagentur durch die Deutsche Akkreditierungsstelle (DAkkS) und 
+wird auf Grundlage der ISO 27006 durchgef&#252;hrt. Werden w&#228;hrend der Audits 
+M&#228;ngel aufgedeckt, die einer erfolgreichen Zertifizierung entgegenstehen, sind 
+diese in Abstimmung mit den jeweiligen Auditoren innerhalb einer durch die 
+einschl&#228;gigen Normen vorgegebenen Frist abzustellen. Der Bundesregierung 
+liegen keine Informationen dar&#252;ber vor, wie oft hierbei M&#228;ngel festgestellt 
+wurden.
+Das von der Bundesnetzagentur ver&#246;ffentlichte
+Konformit&#228;tsbewertungsprogramm gibt die Standards f&#252;r die Akkreditierung vor, u. a. Anforderungen an 
+die Expertise von Auditoren und den Umfang von Audits.
+F&#252;r alle &#252;brigen Betreiber Kritischer Infrastrukturen im Energiesektor gelten 
+die diesbez&#252;glichen Anforderungen nach &#167; 8a Absatz 1 des BSI-Gesetzes,
+welcher Betreiber zur Umsetzung von angemessenen organisatorischen und
+technischen Vorkehrungen zur Vermeidung von St&#246;rungen der Verf&#252;gbarkeit,
+Integrit&#228;t, Authentizit&#228;t und Vertraulichkeit ihrer informationstechnischen Systeme, 
+Komponenten oder Prozesse verpflichtet, die f&#252;r die Funktionsf&#228;higkeit der 
+von ihnen betriebenen Kritischen Infrastrukturen ma&#223;geblich sind. Es wird in 
+diesem Zusammenhang auf die Antwort zu Frage 3 verwiesen. Auch die dort
+erw&#228;hnten branchenspezifischen Sicherheitsstandards sehen in der Regel
+verschiedene Anforderungen zur Verschl&#252;sselung z. B. nach Anhang A der DIN 
+EN ISO/IEC 27001 vor. Die Erf&#252;llung dieser Anforderungen ist gem&#228;&#223; &#167; 8a 
+Absatz 3 BSIG alle zwei Jahre gegen&#252;ber dem BSI nachzuweisen. Der
+Nachweis kann durch Sicherheitsaudits, Pr&#252;fungen oder Zertifizierungen erfolgen. 
+Soweit w&#228;hrend den Audits, Pr&#252;fungen oder Zertifizierungen hier
+Nachbesserungsbedarf oder relevante M&#228;ngel ersichtlich werden, sind diese abzustellen. 
+Das BSI kann gem&#228;&#223; &#167; 8a Absatz 3 Satz 5 BSIG auch die Beseitigung von 
+Sicherheitsm&#228;ngeln verlangen.
+Um m&#246;glichen Angriffen auf das Energienetz zu begegnen, sind nachweislich 
+sichere und standardisierte Produktkomponenten und Systeme sowie eine 
+sichere Kommunikationsinfrastruktur entscheidend.
+Das zertifizierte Smart-Meter-Gateway nach Gesetz &#252;ber den
+Messstellenbetrieb und die Datenkommunikation in intelligenten Energienetzen (MsbG) stellt 
+insofern ein wichtiges Element zur Absicherung von Kritischen Infrastrukturen 
+dar und wird stufenweise nach und nach in allen energiewenderelevanten
+Anwendungsf&#228;llen zum Einsatz kommen. Verwiesen wird in diesem
+Zusammenhang auch auf die Technische Richtlinie des BSI TR-03109 das Schutzprofil 
+PP-0073 sowie die Standardisierungsstrategie zur sektor&#252;bergreifenden
+Digitalisierung nach dem Gesetz zur Digitalisierung der Energiewende (GDEW) von 
+BMWi und BSI (https://www.bsi.bund.de/DE/Themen/DigitaleGesellschaft/Sm
+artMeter/Standardisierungsstrategie/standardisierungsstrategie_node.html).
+F&#252;r diesbez&#252;gliche Datenkommunikation in informationstechnischen
+Netzwerken wird in &#167; 52 Absatz 1 bis 4 MsbG eine verschl&#252;sselte elektronische 
+Kommunikation unter Nutzung der Smart-Metering-Public-Key-Infrastruktur 
+des BSI vorgeschrieben. Gem&#228;&#223; der Festlegungen BK6-18-032, BK6-16-200 
+und BK7-16-142 der BNetzA-Beschlusskammern 6 und 7 werden f&#252;r die
+elektronische Marktkommunikation zwischen den Teilnehmern des deutschen
+Energiemarkts hier die Anforderungen der Technischen Richtlinie des BSI TR-3109 
+f&#252;r die Verschl&#252;sselung und Signierung verpflichtend vorgeschrieben. Sofern 
+der f&#252;r die Vollzugs&#252;berwachung zust&#228;ndigen BNetzA Anhaltspunkte f&#252;r eine 
+unvollst&#228;ndige oder fehlerhafte Umsetzung dieser Vorgaben bekannt werden, 
+hat diese die M&#246;glichkeit, formelle Ma&#223;nahmen, etwa solche der
+Zwangsvollstreckung zu ergreifen. Aufgrund nicht termingerechter Umsetzung der
+Vorgaben zur Verschl&#252;sselung ist die BNetzA im Jahr 2017 vereinzelt au&#223;erhalb 
+formloser Aufsichtsverfahren auf Marktakteure zugegangen, was zur Abhilfe 
+f&#252;hrte.
+14. Welche Vorschriften existieren nach Kenntnis der Bundesregierung zur 
+Verwendung von Verschl&#252;sselung, Authentifizierung und digitalen 
+Signaturen beim Handel von Energieprodukten an Stromb&#246;rsen, die
+unter KritisV Anhang 1 Teil 1 Absatz 2 Buchstabe g fallen,
+a) f&#252;r die digitale Kommunikation zwischen den Marktteilnehmern an 
+der B&#246;rse:
+b) f&#252;r die digitale Kommunikation der Liefermengen und
+Abnahmemengen an die Leitst&#228;nde der Energieversorger,
+c) f&#252;r die digitale Kommunikation der Handelsergebnisse an die
+&#220;bertragungsnetzbetreiber?
+d) Wie oft wird die Einhaltung dieser Vorschriften durch wen gepr&#252;ft?
+e) Wie oft wurden M&#228;ngel festgestellt?
+Die Fragen 14a bis 14c sowie 14d und 14e werden aufgrund ihres inhaltlichen 
+Zusammenhangs zusammen beantwortet.
+Die EPEX als Stromspotmarktbetreiberin hat ihren Sitz in Paris und befindet 
+sich hinsichtlich der Absicherung ihrer digitalen Kommunikation mit
+Marktteilnehmern und Netzbetreibern unter regulatorischer Aufsicht der
+franz&#246;sischen Agentur f&#252;r Sicherheit der Informationssysteme (Agence nationale de la 
+s&#233;curit&#233; des syst&#232;mes d&#8217;information &#8211; ANSSI). F&#252;r andere in Deutschland
+aktive Stromspotmarktbetreiber gelten, sofern die diesbez&#252;glichen Schwellenwerte 
+der BSI-KritisV erreicht oder &#252;berschritten werden, analog die Regelungen des 
+&#167; 8a Absatz 1 BSI-Gesetz, diesbez&#252;glich wird auf die Antwort zu den
+Fragen 11 bis 11e, 12 bis 12e, 13 bis 13e verwiesen.
+Daneben gibt es auch f&#252;r die Verwendung von Verschl&#252;sselung,
+Authentifizierung und digitalen Signaturen technische Vorschriften, die von den
+B&#246;rsenunternehmen bei der digitalen Kommunikation ber&#252;cksichtigt werden. Von
+Bedeutung ist hier insbesondere die ISO/IEC 27000-Reihe. Soweit
+personenbezogene Daten &#252;bertragen werden, sind diese zudem auch aufgrund von Artikel 32 
+der EU-Datenschutzgrundverordnung zu verschl&#252;sseln. F&#252;r die Kontrolle der 
+diesbez&#252;glichen Vorschriften sind die jeweiligen Datenschutzbeauftragten der 
+L&#228;nder zust&#228;ndig. F&#252;r die elektronische Marktkommunikation der deutschen 
+Energiewirtschaft sind zudem auch der &#167; 52 MsbG sowie die Festlegungen 
+BK6-18-032, BK6-16-200 und BK7-16-142 der BNetzA-Beschlusskammern 6 
+und 7 relevant, welche die Verschl&#252;sselung und Signierung in der
+elektronischen Marktkommunikation gem&#228;&#223; der Anforderungen der BSI-TR 3109
+vorschreibt. Sofern der f&#252;r die Vollzugs&#252;berwachung zust&#228;ndigen BNetzA
+Anhaltspunkte f&#252;r eine unvollst&#228;ndige oder fehlerhafte Umsetzung dieser
+Vorgaben bekannt werden, hat diese die M&#246;glichkeit, formelle Ma&#223;nahmen, etwa 
+solche der Zwangsvollstreckung zu ergreifen. Aufgrund nicht termingerechter 
+Umsetzung der Vorgaben zur Verschl&#252;sselung ist die BNetzA im Jahr 2017
+vereinzelt au&#223;erhalb formloser Aufsichtsverfahren auf Marktakteure zugegangen, 
+was zur Abhilfe f&#252;hrte.
+15. Welche Kommunikationsmittel stehen der Bev&#246;lkerung w&#228;hrend einem 
+langanhaltenden und &#252;berregionalen Stromausfall zur Verf&#252;gung?
+Der Bev&#246;lkerung stehen grunds&#228;tzlich Festnetztelefonie, Mobilfunk, Internet, 
+Rundfunk, Presse und verschiedene funkbasierte L&#246;sungen (in Not- und
+Katastrophenf&#228;llen auch Amateurfunk) als Kommunikationsmittel zur Verf&#252;gung. 
+Das Mindestangebot an Telekommunikationsdiensten, das bei einer Krise oder 
+Katastrophe zu gew&#228;hrleisten ist, ist im Gesetz zur Sicherstellung von
+Postdienstleistungen und Telekommunikationsdiensten in besonderen F&#228;llen (Post- 
+und Telekommunikationssicherstellungsgesetz (PTSG)) festgelegt.
+Allgemein sind zudem solche Kommunikationsmittel f&#252;r die
+Alltagskommunikation verf&#252;gbar, die stromlos funktionieren. Beh&#246;rdliche Informationen
+werden beispielsweise &#252;ber Flugbl&#228;tter, Anschl&#228;ge oder mobile
+Lautsprecherdurchsagen an die Bev&#246;lkerung weitergegeben. In der Vergangenheit wurden auch 
+lokale Rundfunksender f&#252;r die Weitergabe von Informationen genutzt, da z. B. 
+&#252;ber das Autoradio oft &#252;ber einen l&#228;ngeren Zeitraum Radioempfang m&#246;glich 
+ist.
+Daneben liegt die Planung von Vorsorgema&#223;nahmen, z. B. im Bereich des 
+Katastrophenschutzes gegen langanhaltende und &#252;berregionale Stromausf&#228;lle in 
+der Zust&#228;ndigkeit der L&#228;nder. Zu diesen Vorsorgema&#223;nahmen geh&#246;ren auch 
+Planungen zur Aufrechterhaltung von Kommunikationsm&#246;glichkeiten. Zur 
+konkreten Ausgestaltung der Vorsorgema&#223;nahmen in den L&#228;ndern kann die 
+Bundesregierung keine Aussage treffen.
+a) Wie viele Stunden Stromausfall k&#246;nnen die Mobilfunknetze ohne
+Versorgungseinschr&#228;nkung der Mobilfunkversorgung der Bev&#246;lkerung 
+(nicht nur Notrufe) tolerieren?
+Die Zeitspanne, die Mobilfunknetze ohne Versorgungseinschr&#228;nkung der
+Mobilfunkversorgung der Bev&#246;lkerung einen Stromausfall tolerieren k&#246;nnen, kann 
+einige Minuten betragen.
+In &#167; 109 Absatz 2 TKG wird geregelt, dass Betreiber von &#246;ffentlichen
+Telekommunikationsnetzen angemessene technischen Vorkehrungen und
+Ma&#223;nahmen zum Schutz gegen St&#246;rungen, die zu erheblichen Beeintr&#228;chtigungen von 
+Telekommunikationsnetzen und -diensten f&#252;hren, auch soweit sie durch &#228;u&#223;ere 
+Angriffe und Einwirkungen von Katastrophen bedingt sein k&#246;nnen, zu treffen 
+haben. Konkrete zeitliche Vorgaben zur Aufrechterhaltung der Verf&#252;gbarkeit 
+bei einem Stromausfall werden jedoch nicht vorgegeben.
+In den Mobilfunknetzen gibt es sowohl Basisstationen, die nicht gegen
+Versorgungsunterbrechungen gesichert sind, als auch einige Stationen, die &#252;ber eine 
+unterbrechungsfreie Stromversorgung (USV) verf&#252;gen, und solche, die &#252;ber 
+station&#228;re Netzersatzanlagen (NEA) (je nach Risikoabsch&#228;tzung des Betreibers) 
+mehrere Stunden mit Notstrom versorgt werden k&#246;nnen.
+Die zentralen Einrichtungen der Mobilfunk-Netzinfrastruktur sind i. d. R. f&#252;r 
+mehrere Stunden bis einzelne Tage notstromversorgt. Auch wenn konkrete 
+Daten &#252;ber die Verf&#252;gbarkeit der Basisstationen bei einem Stromausfall nicht 
+vorliegen, muss davon ausgegangen werden, dass sie ohne entsprechende
+Ersatzstromversorgung ca. 0 bis 3 Stunden nach Eintritt eines Stromausfalls nicht 
+mehr zur Verf&#252;gung stehen w&#252;rden.
+b) Wie viele Stunden Stromausfall kann das Festnetztelefonnetz ohne 
+Versorgungseinschr&#228;nkung der Bev&#246;lkerung &#252;berbr&#252;cken?
+Hinsichtlich der rechtlichen Vorgaben nach &#167; 109 Absatz 2 TKG wird auf die 
+Antwort zu Frage 15a hingewiesen.
+Im festen Telefonnetz kann die Zeitspanne, in der ein Stromausfall ohne
+Versorgungseinschr&#228;nkung der Bev&#246;lkerung &#252;berbr&#252;ckt werden kann, ebenfalls 
+einige Minuten bis wenige Stunden betragen. Im Bereich der Festnetztelefonie 
+sind zentrale Knoten zur Steuerung und Vermittlung mit Notstromkapazit&#228;ten 
+bis zu einigen Tagen ausgestattet. Die Verf&#252;gbarkeit der zentralen Knoten kann 
+bei Einsatz von Dieselgeneratoren grunds&#228;tzlich solange sichergestellt werden, 
+wie die Zulieferung von Diesel gew&#228;hrleistet ist.
+Da jedoch das Zugangsnetz (auch DSLAM = Digital Subscriber Line Access 
+Multiplexer) und Endeinrichtungen der Netzteilnehmer auf die &#246;ffentliche 
+Stromversorgung angewiesen sind, versprechen zentrale Ma&#223;nahmen zur
+Aufrechterhaltung der Stromversorgung f&#252;r den Teilnehmer wenig erfolgreich zu 
+sein.
+c) Welche M&#246;glichkeiten f&#252;r Notrufe stehen der Bev&#246;lkerung zur
+Verf&#252;gung nach Ablauf der Zeit (Buchstaben a und b) zur Verf&#252;gung?
+Die Planung von Vorsorgema&#223;nahmen z. B. im Bereich des
+Katastrophenschutzes gegen Stromausf&#228;lle &#8211; zu denen auch Planungen zur Aufrechterhaltung der 
+Notrufm&#246;glichkeiten geh&#246;ren &#8211; liegt in der Zust&#228;ndigkeit der L&#228;nder. Zur 
+konkreten Ausgestaltung der Vorsorgema&#223;nahmen in den L&#228;ndern kann die 
+Bundesregierung keine Aussage treffen.
+F&#252;r langanhaltende, gro&#223;fl&#228;chige Stromausf&#228;lle halten die jeweils &#246;rtlichen 
+Katastrophenschutzbeh&#246;rden Notfallpl&#228;ne vor, die auch das Erm&#246;glichen von
+Notrufen f&#252;r die Bev&#246;lkerung vorsehen. Oft werden hierf&#252;r beispielsweise
+Anlaufstellen an Polizeistationen oder Feuer- und Rettungswachen etabliert, von 
+denen der Notruf &#252;ber den BOS-Funk (BOS: Beh&#246;rden und Organisationen mit 
+Sicherheitsaufgaben) weitergeleitet werden kann. Zudem k&#246;nnen Einsatzkr&#228;fte 
+vor Ort, die &#252;ber eigene Kommunikationsmittel verf&#252;gen, direkt angesprochen 
+werden.
+Der Bev&#246;lkerung stehen zudem verschiedene funkbasierte L&#246;sungen (unter
+Anderem Satellitentelefone, CB- und Jedermannfunk) zur Verf&#252;gung. Bei Ausfall 
+der &#246;ffentlichen Telekommunikationsnetze k&#246;nnen Notrufe gegebenenfalls &#252;ber 
+Betriebs- und B&#252;ndelfunknetze (zum Beispiel von Unternehmen des
+&#246;ffentlichen Personennahverkehrs einschlie&#223;lich Taxen) oder mit Hilfe von
+Funkamateuren abgesetzt werden.
+d) Welche Ver&#228;nderung der Angaben auf die Antworten zu den 
+Fragen 15a bis15c beobachtet die Bundesregierung im Vergleich zur 
+Versorgungssicherheit vor der Umstellung auf NGN (New Generation 
+Network) oder VoIP (Voice over IP)?
+Die nach &#167; 109 TKG f&#252;r Betreiber erforderlichen Schutzma&#223;nahmen gegen 
+St&#246;rungen, die zu erheblichen Beeintr&#228;chtigungen von
+Telekommunikationsnetzen und -diensten f&#252;hren, unterscheiden nicht nach den verschiedenen
+technischen Systemen. Die Anforderungen gelten systemunabh&#228;ngig. Dennoch hat 
+der Umbau der Telekommunikationsnetze auf Next Generation Network 
+(NGN) (IP-basierte Netzarchitektur) Ver&#228;nderungen in der
+Versorgungssicherheit zur Folge. Durch die Umstellung auf Next Generation Access Network 
+(NGA-Netze) sind die daran angeschlossenen Modems, Router oder/und
+Endger&#228;te von einer externen Stromversorgung abh&#228;ngig. Endnutzer k&#246;nnen in
+begrenztem Umfang durch Bereithaltung eines externen Netzersatzes f&#252;r die 
+Stromversorgung (z. B. durch Batteriepufferung) f&#252;r eine h&#246;here Verf&#252;gbarkeit 
+der TK-Dienste sorgen.
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/21459 -
+Zustand der IT-Sicherheit der Energieversorgung</titel>
+    <datum>2020-08-17</datum>
+  </document>

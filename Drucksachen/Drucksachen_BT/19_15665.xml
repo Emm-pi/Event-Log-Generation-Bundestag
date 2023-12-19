@@ -1,0 +1,1623 @@
+<document>
+    <id>236866</id>
+    <drucksachetyp>Gesetzentwurf</drucksachetyp>
+    <anlagen>Stellungnahme des BR und Gegen&#228;u&#223;erung der BRg</anlagen>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/15665</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>1de411f6d43dcd772198823f0189c04a</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>253396</id>
+      <titel>Gesetz zur Einf&#252;hrung von Sondervorschriften f&#252;r die Sanierung und Abwicklung von zentralen Gegenparteien und zur Anpassung des Wertpapierhandelsgesetzes an die Unterrichtungs- und Nachweispflichten nach den Artikeln 4a und 10 der Verordnung (EU) Nr. 648/2012</titel>
+      <vorgangstyp>Gesetzgebung</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium der Finanzen</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/156/1915665.pdf</pdf_url>
+      <id>236866</id>
+      <dokumentnummer>19/15665</dokumentnummer>
+      <datum>2019-12-03</datum>
+      <anlagen>Stellungnahme des BR und Gegen&#228;u&#223;erung der BRg</anlagen>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Gesetzentwurf</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Deutscher Bundestag Drucksache 19/15665 
+19. Wahlperiode 03.12.2019 
+Gesetzentwurf
+der Bundesregierung
+Entwurf eines Gesetzes zur Einf&#252;hrung von Sondervorschriften f&#252;r die
+Sanierung und Abwicklung von zentralen Gegenparteien und zur 
+Anpassung des Wertpapierhandelsgesetzes an die Unterrichtungs-
+und Nachweispflichten nach den Artikeln 4a und 10
+der Verordnung (EU) Nr. 648/2012
+A. Problem und Ziel
+Eine zentrale Gegenpartei (Central Counterparty, CCP) tritt bei Transaktionen mit
+verschiedenen Finanzinstrumenten zwischen die Vertragsparteien und ist somit
+sowohl K&#228;ufer f&#252;r jeden Verk&#228;ufer als auch Verk&#228;ufer f&#252;r jeden K&#228;ufer.
+Vergleiche hierzu Artikel 2 Nummer 1 der Verordnung (EU) Nr. 648/2012 des
+Europ&#228;ischen Parlaments und des Rates vom 4. Juli 2012 &#252;ber OTC-Derivate, zentrale 
+Gegenparteien und Transaktionsregister (ABl. L 347 vom 28.12.2017, S. 35),
+nachfolgend EMIR genannt. Seit sich die G20 im Jahr 2009 infolge der
+Finanzkrise dazu verpflichtet haben, standardisierte OTC-Derivate (OTC: over the
+counter) durch CCPs zu clearen, ist die Bedeutung der zentralen Gegenparteien f&#252;r die
+Finanzm&#228;rkte in Europa und weltweit stark gewachsen.
+Grunds&#228;tzlich sollen die Risiken, unabh&#228;ngig davon, ob sie aufgrund des Ausfalls
+von Clearingmitgliedern oder aufgrund anderer Vorf&#228;lle auftreten, abgedeckt
+werden. Diejenigen Risiken, die bei einer CCP aufgrund des Ausfalls von
+Clearingmitgliedern entstehen k&#246;nnen, sollen durch die Vorgaben f&#252;r Sicherheiten im
+Rahmen des so genannten Wasserfallprinzips (vergleiche dazu Artikel 45 EMIR)
+abgedeckt werden. Dazu k&#246;nnen auch die nach Artikel 41 EMIR zu leistenden
+Einschusszahlungen eines ausgefallenen Clearingmitglieds verwendet werden.
+Weiter ist die Einrichtung eines Ausfallfonds (vergleiche Artikel 42 EMIR)
+vorgesehen, den die Clearingmitglieder durch Beitr&#228;ge in Form von liquiden Mitteln
+zu bef&#252;llen haben und der im Rahmen des Wasserfallprinzips ebenfalls zur
+Verlustabdeckung verwendet werden kann. Daneben muss jede CCP ausreichende
+vorfinanzierte Eigenmittel im Rahmen des Wasserfallprinzips bereithalten. Der
+Ausfallfonds muss mit seinem Volumen den Ausfall des gr&#246;&#223;ten
+Clearingmitglieds oder, wenn die Risikopositionen der beiden folgenden Clearingmitglieder
+gr&#246;&#223;er als die des gr&#246;&#223;ten Clearingmitglieds sind, den Ausfall des zweit- und
+drittgr&#246;&#223;ten Clearingmitglieds abdecken. Diese Vorgaben von EMIR legen jedoch
+keine Sanierungs- oder Abwicklungsstrategien f&#252;r eine CCP fest, wenn die
+Ausf&#228;lle und Verluste einer CCP aufgrund des Ausfalls von Clearingmitgliedern so
+hoch sind, dass das Volumen des Ausfallfonds zur Abdeckung nicht ausreicht.
+Solche Strategien sind aber erforderlich bei Verlusten, die nicht auf den Ausfall
+eines Clearingmitglieds zur&#252;ckgehen, wie Verlusten infolge von Gesch&#228;fts-,
+Verwahrungs-, Investitions- und Rechtsrisiken sowie operationellen Risiken der
+CCP, und f&#252;r die die CCP nur mit dem ihr zur Verf&#252;gung stehenden Eigenkapital
+haftet. Solche Verluste gef&#228;hrden die Funktionsf&#228;higkeit der CCP immer dann,
+wenn die Verluste das Eigenkapital der CCP &#252;bersteigen.
+Im Hinblick auf die weiter fortschreitende Verlagerung von auf Euro lautenden
+Gesch&#228;ften nach Deutschland und den damit verbundenen steigenden Risiken
+sowie den damit einhergehenden erh&#246;hten Anforderungen auch an ein effektives
+Risikomanagement der CCPs bedarf es regulatorischer Ma&#223;nahmen, die diesen
+Ver&#228;nderungen im Interesse der Wahrung der Finanzstabilit&#228;t Rechnung tragen.
+Dar&#252;ber hinaus hat mit Inkrafttreten des verpflichtenden Clearings von OTC-
+Derivaten die T&#228;tigkeit von CCPs an Volumen und Reichweite zugenommen, was
+wiederum die Risikomanagementstrategien von CCPs insgesamt vor zus&#228;tzliche 
+Herausforderungen stellt. Angesichts dieser wachsenden Bedeutung ist es &#8211;
+ebenso wie bei Finanzinstituten mit kritischen Funktionen &#8211; von herausragender
+Bedeutung, einen tragf&#228;higen Rahmen f&#252;r die Sanierung und Abwicklung von
+CCPs zu schaffen. Daher m&#252;ssen Ma&#223;nahmen zur &#220;berwindung finanzieller
+Notlagen sowie zur Aufrechterhaltung der kritischen Funktionen einer ausfallenden
+oder von einem Ausfall bedrohten CCP geschaffen werden. Ziel muss es sein,
+Ma&#223;nahmen festzulegen, die die Finanzstabilit&#228;t bewahren, und gleichzeitig die
+Kosten eines Ausfalls einer CCP f&#252;r die Steuerzahler zu minimieren. Die
+Aufsichts- und Abwicklungsbeh&#246;rden m&#252;ssen mit Befugnissen ausgestattet sein, die 
+sie in die Lage versetzen, auf eine m&#246;gliche Abwicklung einer CCP und auf den
+koordinierten Umgang mit einer in Schieflage geratenen CCP reagieren zu
+k&#246;nnen. Ein wirksamer Sanierungs- und Abwicklungsrahmen f&#252;r CCPs ist ein
+wesentlicher Beitrag f&#252;r ein reibungsloses Funktionieren der Finanzm&#228;rkte.
+Weiter &#228;ndert die Verordnung (EU) Nr. 2019/834 (EMIR REFIT) die Artikel 4a 
+und 10 der Verordnung (EU) Nr. 648/2012 (EMIR). Dies zieht &#196;nderungsbedarf
+in den nationalen Ausf&#252;hrungsgesetzen zu EMIR nach sich.
+B. L&#246;sung
+Aufgrund der Umsetzung der europ&#228;ischen Vorgaben der Richtlinie 2014/59/EU
+vom 15. Mai 2014 des Europ&#228;ischen Parlaments und des Rates zur Festlegung
+eines Rahmens f&#252;r die Sanierung und Abwicklung von Kreditinstituten und
+Wertpapierfirmen und zur &#196;nderung der Richtlinie 82/891/EWG des Rates, der
+Richtlinien 2001/24/EG, 2002/47/EG, 2004/25/EG, 2005/56/EG, 2007/36/EG,
+2011/35/EU, 2012/30/EU und 2013/36/EU sowie der Verordnungen (EU)
+Nr. 1093/2010 und (EU) Nr. 648/2012 (ABl. L 173 vom 12.6.2014, S. 190), die
+zuletzt durch die Richtlinie (EU) 2019/879 ge&#228;ndert worden ist (ABl. L 150 vom
+7.6.2019, S. 296) gelten mit dem Inkrafttreten des Sanierungs- und
+Abwicklungsgesetzes (SAG) zum 1. Januar 2015 in Deutschland weitreichende Vorschriften
+zur Sanierung und Abwicklung von Kreditinstituten. Unmittelbar Anwendung
+findet zudem die Verordnung (EU) Nr. 806/2014 des Europ&#228;ischen Parlaments
+und des Rates vom 15. Juli 2014 zur Festlegung einheitlicher Vorschriften und
+eines einheitlichen Verfahrens f&#252;r die Abwicklung von Kreditinstituten und
+bestimmten Wertpapierfirmen im Rahmen eines einheitlichen
+Abwicklungsmechanismus und eines einheitlichen Abwicklungsfonds sowie zur &#196;nderung der
+Verordnung (EU) Nr. 1093/2010 (ABl. L 225 vom 30.7.2014, S. 1; L 101 vom
+18.4.2015, S. 62), die zuletzt durch die Verordnung (EU) 2018/1717 ge&#228;ndert
+worden ist (ABl. L 291 vom 16.11.2018, S. 1). Die genannten Vorschriften finden
+auch Anwendung auf CCPs, sofern diese als CRR-Kreditinstitut (CRR: Capital
+Requierements Regulation) zugelassen sind. Jedoch ber&#252;cksichtigen die
+Regelungen f&#252;r die Sanierung und Abwicklung von Kreditinstituten nur unzureichend das
+Gesch&#228;ftsmodell von CCPs. Durch den Eintritt einer CCP als K&#228;ufer f&#252;r den
+Verk&#228;ufer beziehungsweise Verk&#228;ufer f&#252;r den K&#228;ufer wird das mit den Gesch&#228;ften
+verbundene Adressenausfallrisiko auf die CCP &#252;bertragen. Im Gegenzug m&#252;ssen
+die Marktteilnehmer entsprechende Sicherheiten f&#252;r das potentielle
+Adressenausfall- bzw. Marktrisiko ihres Portfolios (Einschusszahlungen = Initial Margin
+sowie Beitrag zum Ausfallfonds = Default Fund) bei der CCP hinterlegen.
+Mit den vorliegenden &#196;nderungen des SAG sollen erg&#228;nzende Vorschriften in
+einem eigenen Teil geschaffen werden, die den unterschiedlichen
+Gesch&#228;ftsmodellen von Kreditinstituten und CCPs Rechnung tragen. Erfasst werden von den
+neu eingef&#252;gten Vorschriften sowohl zentrale Gegenparteien, die &#252;ber eine
+Zulassung als CRR-Kreditinstitut verf&#252;gen, als auch Kreditinstitute, die
+ausschlie&#223;lich &#252;ber eine Zulassung als zentrale Gegenpartei im Sinne von &#167; 1 Absatz 31 des
+Kreditwesengesetzes (KWG) verf&#252;gen.
+Die Verordnung (EU) Nr. 2019/834 (EMIR REFIT) &#228;ndert die Verordnung (EU)
+Nr. 648/2012 (EMIR). Daher sind &#196;nderungen in den nationalen
+Ausf&#252;hrungsgesetzen zu EMIR erforderlich. Der Entwurf enth&#228;lt die dazu notwendigen
+&#196;nderungen der betroffenen Aufsichtsgesetze, insbesondere im
+Wertpapierhandelsgesetz. 
+C. Alternativen
+Keine.
+D. Haushaltsausgaben ohne Erf&#252;llungsaufwand
+Der Bundeshaushalt wird durch den Gesetzentwurf nicht belastet, da sich die
+gesetzlichen &#196;nderungen unmittelbar nur auf den geb&#252;hrenfinanzierten Haushalt
+der Bundesanstalt f&#252;r Finanzdienstleistungsaufsicht (BaFin) auswirken. Die
+Haushalte der L&#228;nder und Gemeinden sind ebenfalls nicht betroffen. 
+E. Erf&#252;llungsaufwand
+E.1 Erf&#252;llungsaufwand f&#252;r B&#252;rgerinnen und B&#252;rger
+Der Gesetzentwurf hat keine Auswirkungen auf den Erf&#252;llungsaufwand von
+B&#252;rgerinnen und B&#252;rger.
+E.2 Erf&#252;llungsaufwand f&#252;r die Wirtschaft
+F&#252;r die Wirtschaft entsteht zus&#228;tzlicher laufender Erf&#252;llungsaufwand von rund
+10.000 Euro.
+Davon B&#252;rokratiekosten aus Informationspflichten
+Geringf&#252;gig.
+E.3 Erf&#252;llungsaufwand der Verwaltung
+F&#252;r die Verwaltung entsteht zus&#228;tzlicher laufender Erf&#252;llungsaufwand von rund
+80.000 Euro sowie einmaliger Erf&#252;llungsaufwand von rund 14.000 Euro.
+F. Weitere Kosten
+Keine.
+BUNDESREPUBLIK DEUTSCHLAND Berlin, 3. Dezember 2019 
+DIE BUNDESKANZLERIN 
+An den 
+Pr&#228;sidenten des
+Deutschen Bundestages
+Herrn Dr. Wolfgang Sch&#228;uble
+Platz der Republik 1
+11011 Berlin
+Sehr geehrter Herr Pr&#228;sident,
+hiermit &#252;bersende ich den von der Bundesregierung beschlossenen 
+Entwurf eines Gesetzes zur Einf&#252;hrung von Sondervorschriften f&#252;r die 
+Sanierung und Abwicklung von zentralen Gegenparteien und zur
+Anpassung des Wertpapierhandelsgesetzes an die Unterrichtungs-
+und Nachweispflichten nach den Artikeln 4a und 10 
+der Verordnung (EU) Nr. 648/2012
+mit Begr&#252;ndung und Vorblatt (Anlage 1).
+Ich bitte, die Beschlussfassung des Deutschen Bundestages herbeizuf&#252;hren.
+Federf&#252;hrend ist das Bundesministerium der Finanzen.
+Der Bundesrat hat in seiner 982. Sitzung am 8. November 2019 gem&#228;&#223; Artikel 76
+Absatz 2 des Grundgesetzes beschlossen, zu dem Gesetzentwurf wie aus Anlage 2
+ersichtlich Stellung zu nehmen.
+Die Auffassung der Bundesregierung zu der Stellungnahme des Bundesrates ist in
+der als Anlage 3 beigef&#252;gten Gegen&#228;u&#223;erung dargelegt.
+Mit freundlichen Gr&#252;&#223;en
+Dr. Angela Merkel
+Anlage 1
+Entwurf eines Gesetzes zur Einf&#252;hrung von Sondervorschriften f&#252;r die
+Sanierung und Abwicklung von zentralen Gegenparteien und zur  
+Anpassung des Wertpapierhandelsgesetzes an die Unterrichtungs-  
+und Nachweispflichten nach den Artikeln 4a und 10
+der Verordnung (EU) Nr. 648/2012 
+Vom ...
+Der Bundestag hat das folgende Gesetz beschlossen:
+Artikel 1
+&#196;nderung des Sanierungs- und Abwicklungsgesetzes
+Das Sanierungs- und Abwicklungsgesetz in der Fassung der Bekanntmachung vom 10. Dezember 2014
+(BGBl. I S. 2091), das zuletzt durch Artikel 8 Absatz 10 des Gesetzes vom 8. Juli 2019 (BGBl. I S. 1002) ge&#228;ndert
+worden ist, wird wie folgt ge&#228;ndert:
+1. Die Inhalts&#252;bersicht wird wie folgt ge&#228;ndert:
+a) Nach der Angabe zu &#167; 152 werden die folgenden Angaben eingef&#252;gt:
+&#8222;Teil 5
+Sondervorschriften f&#252;r zentrale Gegenparteien
+&#167; 152a Anwendungsbereich
+&#167; 152b Ausgestaltung von Sanierungspl&#228;nen
+&#167; 152c Bewertung von Sanierungspl&#228;nen
+&#167; 152d Ma&#223;nahmen bei M&#228;ngeln von Sanierungspl&#228;nen
+&#167; 152e Erstellung und Aktualisierung von Abwicklungspl&#228;nen
+&#167; 152f Abwicklungsf&#228;higkeit, Abbau und Beseitigung von Abwicklungshindernissen;
+Verordnungserm&#228;chtigung 
+&#167; 152g Zwecke und Umfang der Bewertung; Unterlagen
+&#167; 152h Anordnung von Abwicklungsma&#223;nahmen
+&#167; 152i Zwecke der Instrumente der Vertragsbeendigung, der Minderung zu zahlender Gewinne und
+des zus&#228;tzlichen Barmittelabrufs
+&#167; 152j Instrument der Vertragsbeendigung
+&#167; 152k Instrument der Minderung zu zahlender Gewinne nichtausgefallener Clearingmitglieder
+&#167; 152l Instrument des zus&#228;tzlichen Barmittelabrufs
+&#167; 152m Schutzbestimmungen f&#252;r Anteilsinhaber, Gl&#228;ubiger und Clearingmitglieder
+&#167; 152n Rechtsschutz&#8220;.
+b) Die bisherige Angabe &#8222;Teil 5&#8220; wird durch die Angabe &#8222;Teil 6&#8220; ersetzt. 
+c) Nach der Angabe zu &#167; 171 wird die Angabe &#8222;Teil 6&#8220; durch die Angabe &#8222;Teil 7&#8220; ersetzt. 
+d) Nach der Angabe zu &#167; 175 wird die Angabe &#8222;Teil 7&#8220; durch die Angabe &#8222;Teil 8&#8220; ersetzt. 
+2. In &#167; 2 Absatz 3 wird nach Nummer 10 folgende Nummer 10a eingef&#252;gt:
+&#8222;10a. Clearingmitglied ist ein Unternehmen im Sinne des Artikels 2 Nummer 14 der Verordnung (EU)
+Nr. 648/2012 des Europ&#228;ischen Parlaments und des Rates vom 4. Juli 2012 &#252;ber OTC-Derivate,
+zentrale Gegenparteien und Transaktionsregister (ABl. L 201 vom 27.7.2012, S. 1; L 321 vom 30.11.2013,
+S. 6), die zuletzt durch die Verordnung (EU) 2019/834 (ABl. L 141 vom 28.5.2019, S. 42) ge&#228;ndert
+worden ist.&#8220; 
+3. Nach &#167; 152 wird folgender Teil 5 eingef&#252;gt:
+&#8222;Teil 5
+Sondervorschriften f&#252;r zentrale Gegenparteien
+&#167; 152a
+Anwendungsbereich
+(1) Die Vorschriften dieses Teils gelten f&#252;r zentrale Gegenparteien, die ein Unternehmen im Sinne
+des Artikels 2 Nummer 1 der Verordnung (EU) Nr. 648/2012 sind, und ihren Sitz im Inland haben.
+(2) Handelt es sich bei der zentralen Gegenpartei um ein Kreditinstitut, eine Wertpapierfirma oder ein
+Unternehmen im Sinne des &#167; 1 oder um eine inl&#228;ndische Unionszweigestelle, kommen die Vorschriften
+dieses Teils erg&#228;nzend zur Anwendung. F&#252;r zentrale Gegenparteien, die ausschlie&#223;lich &#252;ber eine Erlaubnis
+verf&#252;gen, die T&#228;tigkeit einer zentralen Gegenpartei im Sinne des &#167; 1 Absatz 1 Satz 2 Nummer 12 des
+Kreditwesengesetzes auszu&#252;ben, gelten vorbehaltlich dieses Teils die &#252;brigen Bestimmungen dieses Gesetzes so,
+als seien diese zentralen Gegenparteien ein Kreditinstitut, eine Wertpapierfirma oder ein Unternehmen im
+Sinne des &#167; 1 oder eine inl&#228;ndische Unionszweigstelle. &#167; 2 Absatz 9a des Kreditwesengesetzes bleibt
+unber&#252;hrt. 
+(3) F&#252;r zentrale Gegenparteien nach Absatz 2 Satz 2 gelten &#167; 19 Absatz 2 und &#167; 41 Absatz 2 mit der
+Ma&#223;gabe, dass auch die Besonderheiten der Gesch&#228;ftsaktivit&#228;ten einer zentralen Gegenpartei zu
+ber&#252;cksichtigen sind. 
+&#167; 152b
+Ausgestaltung von Sanierungspl&#228;nen
+(1) Vorbehaltlich vereinfachter Anforderungen nach &#167; 19 Absatz 1 Nummer 1 und in Abh&#228;ngigkeit
+der Einbindung der zentralen Gegenpartei in eine Gruppe hat der Sanierungsplan neben den in &#167; 13 Absatz 2
+genannten wesentlichen Bestandteilen insbesondere zu enthalten:
+1. eine Darstellung von Szenarien f&#252;r schwerwiegende Belastungen, die einen Krisenfall ausl&#246;sen k&#246;nnen,
+und deren Auswirkungen insbesondere auf die kritischen Funktionen der zentralen Gegenpartei; die
+Szenarien sollen Ereignisse beinhalten, die
+a) den Ausfall von einem oder mehreren Clearingmitgliedern (Ausfallereignisse),
+b) Verluste infolge von Gesch&#228;fts-, Verwahrungs-, Investitions-, Rechtsrisiken oder operationellen 
+Risiken sowie Liquidit&#228;tsrisiken der zentralen Gegenpartei (Nichtausfallereignisse) und 
+c) eine Kombination aus Ausfall- und Nichtausfallereignissen abbilden,
+2. eine Aufstellung der Ma&#223;nahmen, die die zentrale Gegenpartei getroffen hat oder zu treffen
+beabsichtigt, um die in den verschiedenen Szenarien identifizierten Risiken einschlie&#223;lich m&#246;glicher
+Liquidit&#228;tsrisiken zu mindern,
+3. eine Aufstellung der Ma&#223;nahmen, die die zentrale Gegenpartei getroffen hat oder zu treffen
+beabsichtigt, um bei einem Ausfallereignis
+a) die Eigenhandelspositionen eines ausgefallenen Clearingmitglieds abzuwickeln und die
+Kundenpositionen eines ausgefallenen Clearingmitglieds zu &#252;bertragen oder abzuwickeln,
+b) ein ausgeglichenes Buch der im System zur Sicherung der Erf&#252;llung der Gesch&#228;fte erstellten
+Clearingpositionen wiederherzustellen, 
+c) den nichtausgefallenen Clearingmitgliedern Verluste, die nicht mit vorfinanzierten Finanzmitteln 
+abgedeckt sind, in vollem Umfang zuzuweisen sowie 
+d) die Finanzmittel der zentralen Gegenpartei wieder aufzuf&#252;llen, 
+4. eine Aufstellung angemessener Ma&#223;nahmen, die die zentrale Gegenpartei getroffen hat oder zu treffen
+beabsichtigt, um Verluste aus Nichtausfallereignissen auszugleichen,
+5. eine Darstellung, ob und in welchem Umfang ein Mutterunternehmen oder ein sonst mit der zentralen
+Gegenpartei verbundenes Unternehmen verpflichtet ist, Verluste der zentralen Gegenpartei
+auszugleichen oder eine gruppeninterne finanzielle Unterst&#252;tzung im Sinne von &#167; 22 zu gew&#228;hren.
+(2) Sanierungspl&#228;ne m&#252;ssen in das Risikomanagement der zentralen Gegenpartei integriert sein. 
+(3) Die zentrale Gegenpartei hat die Durchf&#252;hrung der im Sanierungsplan aufgef&#252;hrten Ma&#223;nahmen
+sicherzustellen. Zu diesem Zweck hat die zentrale Gegenpartei ihre Clearingbedingungen und damit in
+Zusammenhang stehende vertragliche Vereinbarungen mit Clearingmitgliedern, verbundenen
+Finanzmarktinfrastrukturen oder Handelspl&#228;tzen so zu gestalten, dass die aus den Clearingbedingungen oder den damit in 
+Zusammenhang stehenden vertraglichen Vereinbarungen entstehenden finanziellen oder vertraglichen
+Anspr&#252;che der zentralen Gegenpartei rechtlich durchsetzbar sind. 
+(4) Die zentrale Gegenpartei soll sicherstellen, dass die Clearingbedingungen und damit in
+Zusammenhang stehenden vertraglichen Vereinbarungen nach Absatz 3 auch in den Rechtsordnungen, in denen die
+Clearingmitglieder ihren Sitz haben, jederzeit durchsetzbar sind.
+&#167; 152c
+Bewertung von Sanierungspl&#228;nen
+Die Aufsichtsbeh&#246;rde ber&#252;cksichtigt bei der Bewertung des Sanierungsplans der zentralen Gegenpartei
+insbesondere
+1. die Angemessenheit des bei der zentralen Gegenpartei eingerichteten Ausfallfonds im Sinne des
+Artikels 42 der Verordnung (EU) Nr. 648/2012, die vorfinanzierten Finanzmittel im Sinne des Artikels 43 
+Absatz 1 der Verordnung (EU) Nr. 648/2012 und das Wasserfallprinzip im Sinne des Artikels 45 der
+Verordnung (EU) Nr. 648/2012,
+2. die Anreize, die durch die im Sanierungsplan dargestellten Sanierungsinstrumente und durch deren
+vorgesehenen Einsatz f&#252;r ein ad&#228;quates Risikomanagement der zentralen Gegenpartei, der
+Clearingmitglieder und deren Kunden im Sinne des Artikels 2 Nummer 15 der Verordnung (EU) Nr. 648/2012
+gesetzt werden, und
+3. die Auswirkungen, die die Umsetzung des Sanierungsplans auf die Clearingmitglieder und deren
+Kunden sowie auf das Finanzsystem in den relevanten Mitgliedstaaten und in der Union insgesamt h&#228;tte.
+&#167; 152d
+Ma&#223;nahmen bei M&#228;ngeln von Sanierungspl&#228;nen
+(1) Gelangt die Aufsichtsbeh&#246;rde zu der Einsch&#228;tzung, dass der Sanierungsplan nicht den
+Anforderungen des &#167; 13 oder des &#167; 152b entspricht oder dass seiner Umsetzung potentielle Hindernisse
+entgegenstehen, teilt die Aufsichtsbeh&#246;rde dies der zentralen Gegenpartei mit und fordert sie auf, innerhalb von zwei
+Monaten nach Erhalt der Mitteilung einen &#252;berarbeiteten Sanierungsplan vorzulegen. Vor der Anforderung
+zur Vorlage eines &#252;berarbeiteten Sanierungsplans ist die zentrale Gegenpartei anzuh&#246;ren. 
+(2) In dem &#252;berarbeiteten Sanierungsplan hat die zentrale Gegenpartei darzulegen, wie die von der
+Aufsichtsbeh&#246;rde festgestellten M&#228;ngel beseitigt werden.
+(3) Legt die zentrale Gegenpartei keinen &#252;berarbeiteten Sanierungsplan vor, der geeignet ist, die
+Anforderung des &#167; 13 oder des &#167; 152b zu erf&#252;llen, oder gelangt die Aufsichtsbeh&#246;rde zu dem Schluss, dass die
+urspr&#252;nglich von ihr aufgezeigten M&#228;ngel oder potentiellen Hindernisse mit dem &#252;berarbeiteten
+Sanierungsplan nicht in angemessener Weise behoben werden, kann die Aufsichtsbeh&#246;rde nach Anh&#246;rung der zentralen
+Gegenpartei neben den in &#167; 16 Absatz 5 Satz 1 genannten Ma&#223;nahmen von der zentralen Gegenpartei gem&#228;&#223;
+&#167; 16 Absatz 4 insbesondere verlangen, die Clearingbedingungen und die damit in Zusammenhang stehenden
+vertraglichen Vereinbarungen soweit erforderlich zu &#228;ndern. 
+&#167; 152e
+Erstellung und Aktualisierung von Abwicklungspl&#228;nen
+(1) Die Abwicklungsbeh&#246;rde erstellt f&#252;r die zentrale Gegenpartei einen Abwicklungsplan und stimmt
+sich bei der Erstellung mit der Aufsichtsbeh&#246;rde ab und &#252;bermittelt den Abwicklungsplan an die
+Aufsichtsbeh&#246;rde. Der Abwicklungsplan f&#252;r die zentrale Gegenpartei enth&#228;lt neben der Darstellung der
+Abwicklungsma&#223;nahmen, die die Abwicklungsbeh&#246;rde treffen kann, und den in &#167; 40 Absatz 3 genannten Bestandteilen,
+insbesondere 
+1. eine Darstellung der relevanten Szenarien, die sowohl Ausfallereignisse von einem oder mehreren
+Clearingmitgliedern, Nichtausfallereignisse und eine Kombination aus beiden Ereignissen ber&#252;cksichtigt, 
+2. eine Beschreibung der M&#246;glichkeiten zur Sicherstellung der rechtzeitigen Erf&#252;llung und Abwicklung
+der f&#228;lligen Verbindlichkeiten zugunsten der Clearingmitglieder und deren Kunden,
+3. eine Beschreibung der M&#246;glichkeiten zur Aufrechterhaltung des Zugangs von Clearingmitgliedern und
+deren Kunden zu den ihnen zugeordneten Wertpapier- oder Geldkonten zu von der zentralen
+Gegenpartei zu gew&#228;hrenden transparenten und diskriminierungsfreien Bedingungen sowie
+4. eine Beschreibung der Ma&#223;nahmen zur Erleichterung der &#220;bertragbarkeit von Positionen und damit
+verbundenen Verm&#246;genswerten der Clearingmitglieder und deren Kunden auf eine andere zentrale
+Gegenpartei oder ein Br&#252;ckeninstitut, ohne dass die erleichterte &#220;bertragbarkeit die vertraglichen
+Beziehungen zwischen den Clearingmitgliedern und ihren Kunden beeintr&#228;chtigt.
+(2) Der Abwicklungsplan soll die Auswirkungen ber&#252;cksichtigen, die seine Umsetzung auf
+Clearingmitglieder und deren Kunden sowie auf das Finanzsystem in den relevanten Mitgliedstaaten und in der Union
+insgesamt h&#228;tte.
+(3) Nach seiner erstmaligen Erstellung wird der Abwicklungsplan mindestens einmal im Kalenderjahr
+von der Abwicklungsbeh&#246;rde gepr&#252;ft. Zu pr&#252;fen ist der Abwicklungsplan auch nach
+1. wesentlichen &#196;nderungen der Rechts- und Organisationsstruktur der zentralen Gegenpartei oder
+2. einer &#196;nderung der Verpflichtungen des Mutterunternehmens oder eines sonst mit der zentralen
+Gegenpartei verbundenen Unternehmens, die Verluste der zentralen Gegenpartei auszugleichen oder
+3. einer &#196;nderung der Vereinbarung &#252;ber gruppeninterne finanzielle Unterst&#252;tzung im Sinne von &#167; 22.
+&#167; 152f
+Abwicklungsf&#228;higkeit, Abbau und Beseitigung von Abwicklungshindernissen; Verordnungserm&#228;chtigung
+(1) Gelangt die Abwicklungsbeh&#246;rde zu der Einsch&#228;tzung, dass der Abwicklungsf&#228;higkeit der
+zentralen Gegenpartei wesentliche Hindernisse entgegenstehen, kann sie neben den in &#167; 59 Absatz 6 genannten
+Ma&#223;nahmen nach Ma&#223;gabe von &#167; 59 Absatz 5 anordnen, dass die zentrale Gegenpartei die zur Erreichung
+der Abwicklungsf&#228;higkeit erforderlichen und angemessenen &#196;nderungen der Clearingbedingungen der
+zentralen Gegenpartei und der damit in Zusammenhang stehenden vertraglichen Vereinbarungen oder anderen
+vertraglichen Vereinbarungen vornimmt.
+(2) Vor Anordnung der Ma&#223;nahme nach Absatz 1 ist die zentrale Gegenpartei anzuh&#246;ren. Die zentrale 
+Gegenpartei kann innerhalb von vier Monaten nach Erhalt der Anordnung geeignete Ma&#223;nahmen
+vorschlagen, mit denen die Hindernisse, die der Abwicklungsf&#228;higkeit entgegenstehen, beseitigt oder abgebaut
+werden sollen.
+(3) Die Abwicklungsbeh&#246;rde pr&#252;ft die potentiellen Auswirkungen der betreffenden Ma&#223;nahmen auf
+die zentrale Gegenpartei, auf den gemeinsamen Markt f&#252;r Finanzdienstleistungen, die Finanzstabilit&#228;t in
+relevanten Mitgliedstaaten und in der Union insgesamt und stimmt sich dar&#252;ber mit der Aufsichtsbeh&#246;rde
+und mit der Deutschen Bundesbank ab, bevor sie eine &#196;nderung nach Absatz 1 verlangt. 
+(4) Das Bundesministerium der Finanzen wird erm&#228;chtigt, durch Rechtsverordnung, die nicht der
+Zustimmung des Bundesrates bedarf, n&#228;here Bestimmungen zu den zur Erreichung der Abwicklungsf&#228;higkeit
+erforderlichen und angemessenen &#196;nderungen der Clearingbedingungen der zentralen Gegenpartei und der
+damit in Zusammenhang stehenden vertraglichen Vereinbarungen oder anderer vertraglicher
+Vereinbarungen und zu den Voraussetzungen, unter denen diese &#196;nderungen jeweils angeordnet werden k&#246;nnen, zu
+treffen. Das Bundesministerium der Finanzen kann die Erm&#228;chtigung zum Erlass der Rechtsverordnung
+durch Rechtsverordnung auf die Abwicklungsbeh&#246;rde &#252;bertragen.
+&#167; 152g
+Zwecke und Umfang der Bewertung; Unterlagen
+(1) Die gem&#228;&#223; &#167; 69 vorzunehmende Bewertung dient der Abwicklungsbeh&#246;rde neben den in &#167; 71
+genannten Zwecken auch als Grundlage f&#252;r die Feststellung, ob die Voraussetzungen f&#252;r die Anwendung des
+Instruments
+1. der Vertragsbeendigung gem&#228;&#223; &#167; 152j, 
+2. der Minderung zu zahlender Gewinne nichtausgefallener Clearingmitglieder gem&#228;&#223; &#167; 152k oder
+3. des zus&#228;tzlichen Barmittelabrufs gem&#228;&#223; &#167; 152l
+erf&#252;llt sind, und der Feststellung der H&#246;he der relevanten Verluste sowie der ausstehenden Verpflichtungen
+und Positionen der zentralen Gegenpartei.
+(2) Die Unterlagen, die der Pr&#252;fer der Bewertung neben den in &#167; 72 Absatz 2 Satz 2 genannten
+Unterlagen beif&#252;gen muss, m&#252;ssen insbesondere enthalten
+1. einen Bericht &#252;ber die Finanzlage der zentralen Gegenpartei, der insbesondere eine Auflistung der noch
+verbleibenden vorfinanzierten Finanzmittel sowie der noch offenen finanziellen Zusagen umfasst,
+2. einen Bericht &#252;ber die im Clearing erstellten Positionen, insbesondere Angaben zum Markt- und
+Buchwert der Verm&#246;genswerte, zu Verbindlichkeiten und sonstigen Positionen einschlie&#223;lich der noch
+offenen Verpflichtungen der Vertragspartner gegen&#252;ber der zentralen Gegenpartei oder der zentralen
+Gegenpartei gegen&#252;ber ihren Vertragspartnern, und
+3. die Aufzeichnungen &#252;ber erbrachte Dienstleistungen und ausge&#252;bte T&#228;tigkeiten der zentralen
+Gegenpartei im Sinne des Artikels 29 Absatz 1 der Verordnung (EU) Nr. 648/2012.
+&#167; 152h
+Anordnung von Abwicklungsma&#223;nahmen
+(1) Die Abwicklungsbeh&#246;rde kann bei Vorliegen der Abwicklungsvoraussetzungen nach &#167; 62 alle zur
+Erreichung der Abwicklungsziele erforderlichen Ma&#223;nahmen treffen. Insbesondere kann sie die Anwendung
+der folgenden Abwicklungsinstrumente einzeln oder in Kombination anordnen:
+1. Vertragsbeendigung nach &#167; 152j,
+2. Minderung zu zahlender Gewinne nichtausgefallener Clearingmitglieder nach &#167; 152k,
+3. zus&#228;tzlicher Barmittelabruf nach &#167; 152l.
+Die in &#167; 77 Absatz 1 genannten Abwicklungsinstrumente und Befugnisse bleiben unber&#252;hrt. 
+(2) Vor der Anordnung zum Einsatz von Abwicklungsinstrumenten nach Absatz 1 hat die
+Abwicklungsbeh&#246;rde ausstehende Rechte der zentralen Gegenpartei geltend zu machen, insbesondere vertragliche
+Verpflichtungen
+1. von Clearingmitgliedern zur Bereitstellung zus&#228;tzlicher Ressourcen und zur Verlust&#252;bernahme f&#252;r die 
+zentrale Gegenpartei,
+2. zur &#220;bernahme von Positionen ausgefallener Clearingmitglieder, 
+3. zur Leistung anderer Mittel, die in den Clearingbedingungen und mit diesen in Zusammenhang
+stehenden Zusagen vertraglich vereinbart wurden,
+4. zu einer finanziellen Unterst&#252;tzung oder Verlust&#252;bernahme durch nat&#252;rliche oder juristische Personen,
+die keine Clearingmitglieder sind. 
+Die Abwicklungsbeh&#246;rde kann nach Pr&#252;fung davon absehen, die genannten vertraglichen Verpflichtungen
+teilweise oder vollst&#228;ndig geltend zu machen, wenn die vertraglichen Verpflichtungen nicht innerhalb einer
+angemessenen Frist durchgesetzt werden k&#246;nnen.
+(3) Die Abwicklungsbeh&#246;rde kann auch davon absehen, die in Absatz 2 genannten vertraglichen
+Verpflichtungen teilweise oder vollst&#228;ndig geltend zu machen, um erhebliche nachteilige Auswirkungen auf das
+Finanzsystem zu vermeiden. Sie kann auch davon absehen, wenn die unverz&#252;gliche Durchf&#252;hrung der in
+Absatz 1 genannten Abwicklungsinstrumente geeigneter ist, um die Abwicklungsziele zu erreichen.
+(4) Unterl&#228;sst die Abwicklungsbeh&#246;rde die Geltendmachung von vertraglichen Verpflichtungen nach
+Absatz 2 Satz 2 oder Absatz 3, so erl&#246;schen diese nicht. Eine sp&#228;tere Geltendmachung bleibt davon
+unber&#252;hrt. Die in Satz 1 genannten vertraglichen Verpflichtungen k&#246;nnen bis zum Ablauf des dritten auf den
+Beginn der Abwicklung folgenden Kalenderjahres geltend gemacht werden. Die Einrede der Verj&#228;hrung
+kann gegen&#252;ber der Abwicklungsbeh&#246;rde nicht erhoben werden. Absatz 3 Satz 1 findet bei sp&#228;terer
+Geltendmachung Anwendung.
+(5) Bei der Anordnung von Instrumenten nach den &#167;&#167; 152k und 152l ist ein zus&#228;tzlicher
+Barmittelabruf von der Deutschen Bundesbank oder eine Minderung von Bewertungsgewinnen der Deutschen
+Bundesbank ausgeschlossen.
+&#167; 152i
+Zwecke der Instrumente der Vertragsbeendigung, der Minderung 
+zu zahlender Gewinne und des zus&#228;tz-lichen Barmittelabrufs
+Die Abwicklungsbeh&#246;rde wendet die in den &#167;&#167; 152k und 152l genannten Instrumente der Minderung
+zu zahlender Gewinne nichtausgefallener Clearingmitglieder und des zus&#228;tzlichen Barmittelabrufs f&#252;r einen 
+oder mehrere der folgenden Zwecke an
+1. zur Deckung der gem&#228;&#223; &#167; 152g Absatz 1 ermittelten Verluste der zentralen Gegenpartei oder eines
+Br&#252;ckeninstituts, 
+2. zur Wiederherstellung der F&#228;higkeit der zentralen Gegenpartei oder eines Br&#252;ckeninstituts,
+Zahlungsverpflichtungen bei F&#228;lligkeit zu erf&#252;llen, oder
+3. zur Unterst&#252;tzung der Unternehmensver&#228;u&#223;erung.
+&#167; 152j
+Instrument der Vertragsbeendigung
+(1) Liegen bei einer zentralen Gegenpartei die Abwicklungsvoraussetzungen gem&#228;&#223; &#167; 62 vor, kann
+die Abwicklungsbeh&#246;rde mit dem Instrument der Vertragsbeendigung ein ausgeglichenes Buch der im
+Clearing erstellten Positionen der zentralen Gegenpartei oder des Br&#252;ckeninstituts im Sinne von &#167; 128
+wiederherstellen.
+(2) Die Abwicklungsbeh&#246;rde kann alle oder einzelne Verpflichtungen einer in Abwicklung
+befindlichen zentralen Gegenpartei aus einem Vertrag oder einzelnen Vertr&#228;gen, bei der die zentrale Gegenpartei
+Vertragspartei ist, beenden, insbesondere
+1. Vertr&#228;ge mit einem ausgefallenen Clearingmitglied,
+2. Vertr&#228;ge, die mit Clearingdiensten oder betroffenen Anlageklassen in Verbindung stehen.
+(3) Die Abwicklungsbeh&#246;rde unterrichtet die zentrale Gegenpartei und die betroffenen
+Clearingmitglieder &#252;ber das Datum, zu dem ein Vertrag nach Absatz 2 beendet wird. 
+(4) Vor der Beendigung eines Vertrages hat die Abwicklungsbeh&#246;rde
+1. zu verlangen, dass die in Abwicklung befindliche zentrale Gegenpartei jeden Vertrag bewertet und die 
+Best&#228;nde der Wertpapier- und Barsicherheiten jedes Clearingmitglieds aktualisiert,
+2. den Nettobetrag zu bestimmen, der auf Grund der Vertragsbeendigung von dem verpflichteten oder an 
+das berechtigte Clearingmitglied zu zahlen ist, unter Ber&#252;cksichtigung f&#228;lliger, aber noch nicht
+gezahlter Nachschusszahlungen, einschlie&#223;lich Nachschusszahlungen, die auf Grund der in Nummer 1
+genannten Vertragsbewertungen f&#228;llig werden, und
+3. jedes Clearingmitglied &#252;ber die festgestellten Nettobetr&#228;ge zu informieren und von der zentralen
+Gegenpartei zu verlangen, dass sie geschuldete Nettobetr&#228;ge einfordert. 
+(5) Die Bewertung der Vertr&#228;ge nach Absatz 4 Nummer 1 soll auf einem Marktpreis basieren, der auf
+der Grundlage der eigenen Regeln und Vereinbarungen der zentralen Gegenpartei oder einer anderen von
+der Abwicklungsbeh&#246;rde als angemessen und nachvollziehbar angesehenen Preisfindungsmethode ermittelt
+wird. Die Berechnung des Nettobetrages nach Absatz 4 Nummer 2 ist nach Aufforderung der
+Abwicklungsbeh&#246;rde durch die zentrale Gegenpartei vorzunehmen. Die Abwicklungsbeh&#246;rde ist berechtigt, von dem
+durch die zentrale Gegenpartei berechneten Nettobetrag abzuweichen, wenn dies aus ihrer Sicht im Interesse
+der Erreichung der Abwicklungsziele erforderlich ist. Eine solche Abweichung ist von der
+Abwicklungsbeh&#246;rde zu begr&#252;nden.
+(6) Leistet ein nichtausgefallenes Clearingmitglied den nach Absatz 4 ermittelten Nettobetrag nicht
+unverz&#252;glich nach der ersten Anforderung, kann die Abwicklungsbeh&#246;rde verlangen, dass die zentrale
+Gegenpartei den Ausfall dieses Clearingmitglieds feststellt und dessen Einschusszahlungen im Sinne des
+Artikels 41 der Verordnung (EU) Nr. 648/2012 und seinen Beitrag zum Ausfallfonds im Sinne des Artikels 42
+der Verordnung (EU) Nr. 648/2012 im Einklang mit Artikel 45 der Verordnung (EU) Nr. 648/2012
+verwendet. 
+(7) Hat die Abwicklungsbeh&#246;rde einen oder mehrere der in Absatz 2 genannten Vertr&#228;ge beendet, so
+kann sie der zentralen Gegenpartei vor&#252;bergehend untersagen, das Clearing f&#252;r neue Vertr&#228;ge derselben Art
+vorzunehmen.
+&#167; 152k
+Instrument der Minderung zu zahlender Gewinne nichtausgefallener Clearingmitglieder
+(1) Die Minderung zu zahlender Gewinne nichtausgefallener Clearingmitglieder wird von der
+Abwicklungsbeh&#246;rde nur zur Deckung von Verlusten aus dem Ausfall eines oder mehrerer Clearingmitglieder
+verwendet, um die Zwecke des &#167; 152i zu erreichen.
+(2) Die Abwicklungsbeh&#246;rde kann die H&#246;he der Zahlungsverpflichtungen der zentralen Gegenpartei
+gegen&#252;ber nichtausgefallenen Clearingmitgliedern mindern, wenn diese Zahlungsverpflichtungen das
+Ergebnis von Bewertungsgewinnen sind, die auf Grund der Clearingbedingungen und damit im
+Zusammenhang stehender vertraglicher Vereinbarungen der zentralen Gegenpartei mit den Clearingmitgliedern zu
+Nachschusszahlungen oder einer Zahlung mit gleicher wirtschaftlicher Wirkung f&#228;llig werden.
+(3) Die Abwicklungsbeh&#246;rde berechnet die in Absatz 2 genannte Minderung der
+Zahlungsverpflichtungen nach einem angemessenen und nachvollziehbaren Verfahren, das auf Grundlage der Bewertung nach
+&#167; 152g festgelegt und den Clearingmitgliedern von der Abwicklungsbeh&#246;rde mitgeteilt wird, sobald das
+Instrument verwendet wird. Die Clearingmitglieder m&#252;ssen ihren Kunden unverz&#252;glich die Anwendung eines
+solchen Instruments mitteilen. Die Nettogewinne, die f&#252;r jedes nichtausgefallene Clearingmitglied insgesamt
+gemindert werden, sind der H&#246;he nach beschr&#228;nkt auf den doppelten Beitrag des nichtausgefallenen
+Clearingmitglieds zum Ausfallfonds der zentralen Gegenpartei. 
+(4) Die Minderung der zu zahlenden Bewertungsgewinne wird zu dem Zeitpunkt wirksam, zu dem
+die Abwicklungsbeh&#246;rde diese Abwicklungsma&#223;nahme ergreift. In H&#246;he der Minderung erl&#246;schen die
+Zahlungsanspr&#252;che der nichtausgefallenen Clearingmitglieder gegen die zentrale Gegenpartei. 
+(5) Wird die Minderung der zu zahlenden Bewertungsgewinne von der Abwicklungsbeh&#246;rde nur
+teilweise zur Deckung von Verlusten im Sinne von Absatz 1 verwendet, bleibt die Pflicht der zentralen
+Gegenpartei bestehen, den ausstehenden Restbetrag an das nichtausgefallene Clearingmitglied zu zahlen.
+&#167; 152l
+Instrument des zus&#228;tzlichen Barmittelabrufs
+(1) Die Abwicklungsbeh&#246;rde kann zur Deckung von Verlusten aus dem Ausfall eines oder mehrerer
+Clearingmitglieder von nichtausgefallenen Clearingmitgliedern verlangen, einen Barbetrag an die zentrale 
+Gegenpartei zu zahlen (Barmittelabruf), um die Zwecke des &#167; 152i zu erreichen. Der Betrag ist der H&#246;he
+nach beschr&#228;nkt auf den jeweiligen Beitrag des nichtausgefallenen Clearingmitglieds zum Ausfallfonds der
+zentralen Gegenpartei. 
+(2) Die Abwicklungsbeh&#246;rde kann den Barmittelabruf unabh&#228;ngig davon geltend machen, ob alle
+vertraglichen Verpflichtungen, die Zahlungen von nichtausgefallenen Clearingmitgliedern erfordern,
+vollst&#228;ndig erf&#252;llt sind.
+(3) Die Abwicklungsbeh&#246;rde legt den Betrag des Barmittelabrufs jedes nichtausgefallenen
+Clearingmitglieds im Verh&#228;ltnis zum Beitrag des nichtausgefallenen Clearingmitglieds zum Ausfallfonds bis zu der
+in Absatz 1 Satz 2 genannten H&#246;he fest. 
+(4) Leistet ein nichtausgefallenes Clearingmitglied den geforderten Betrag des Barmittelabrufs nicht
+unverz&#252;glich nach der ersten Anforderung, kann die Abwicklungsbeh&#246;rde verlangen, dass die zentrale
+Gegenpartei den Ausfall dieses Clearingmitglieds feststellt und dessen Einschusszahlungen im Sinne des
+Artikels 41 der Verordnung (EU) Nr. 648/2012 und seinen Beitrag zum Ausfallfonds im Sinne des Artikels 42
+der Verordnung (EU) Nr. 648/2012 gem&#228;&#223; Artikel 45 der Verordnung (EU) Nr. 648/2012 verwendet.
+&#167; 152m
+Schutzbestimmungen f&#252;r Anteilsinhaber, Gl&#228;ubiger und Clearingmitglieder
+(1) F&#252;hrt die Bewertung nach &#167; 146 Absatz 1 zu dem Ergebnis, dass die von einem Anteilsinhaber, 
+Gl&#228;ubiger oder Clearingmitglied infolge einer Abwicklungsma&#223;nahme im Sinne des &#167; 152h Absatz 1
+erlittenen Verluste die Verluste &#252;bersteigen, die der Anteilsinhaber, Gl&#228;ubiger oder das Clearingmitglied beim
+Unterbleiben der Ma&#223;nahme im Rahmen eines Insolvenzverfahrens erlitten h&#228;tten, steht dem Anteilsinhaber,
+Gl&#228;ubiger oder Clearingmitglied gegen die zentrale Gegenpartei oder das Br&#252;ckeninstitut oder den Erwerber
+im Rahmen einer Unternehmensver&#228;u&#223;erung ein Anspruch auf Ersatz der erlittenen Verluste zu. Satz 1 gilt
+entsprechend, wenn eine Abwicklungsma&#223;nahme im Sinne des &#167; 77 Absatz 1 Nummer 1 auf eine zentrale
+Gegenpartei im Sinne des &#167; 152a Absatz 2 Satz 2 angewendet wurde.
+(2) F&#252;r den Anspruch nach Absatz 1 haften die zentrale Gegenpartei, das Br&#252;ckeninstitut und der
+Erwerber als Gesamtschuldner. Ein Anspruch gegen den Restrukturierungsfonds nach den &#167;&#167; 146 und 147 oder
+gegen den einheitlichen Abwicklungsfonds besteht nicht.
+(3) Anspr&#252;che nach Absatz 1 k&#246;nnen erf&#252;llt werden durch eine Beteiligung der Anteilsinhaber,
+Gl&#228;ubiger oder Clearingmitglieder an den
+1. Gewinnen,
+2. Kapitalinstrumenten oder
+3. Verbindlichkeiten
+der zentralen Gegenpartei oder des Br&#252;ckeninstituts, die dem Anspruch wertm&#228;&#223;ig entsprechen.
+(4) Auf Anordnung der Abwicklungsbeh&#246;rde ist die zentrale Gegenpartei oder das Br&#252;ckeninstitut
+verpflichtet, Kapitalinstrumente oder Verbindlichkeiten zu begeben, um Anspr&#252;che nach Absatz 1 zu
+erf&#252;llen. 
+&#167; 152n
+Rechtsschutz
+Ein Widerspruchsverfahren gegen die Anordnung einer Abwicklungsma&#223;nahme nach den &#167;&#167; 152h und
+77 Absatz 1 Nummer 1 wird nicht durchgef&#252;hrt. Eine Anfechtungsklage gegen Abwicklungsma&#223;nahmen 
+nach den &#167;&#167; 152h und 77 Absatz 1 Nummer 1 einschlie&#223;lich einer damit verbundenen Androhung und
+Festsetzung von Zwangsmitteln nach diesem Gesetz hat keine aufschiebende Wirkung. F&#252;r die Anordnung von
+Abwicklungsma&#223;nahmen nach &#167; 152h Absatz 1 gilt &#167; 150 entsprechend.&#8220;
+4. Die bisherigen Teile 6 und 7 werden die Teile 7 und 8.
+Artikel 2
+&#196;nderung des Wertpapierhandelsgesetzes
+Das Wertpapierhandelsgesetz in der Fassung der Bekanntmachung vom 9. September 1998 (BGBl. I
+S. 2708), das zuletzt durch Artikel 3 des Gesetzes vom 8. Juli 2019 (BGBl. I S. 1002) ge&#228;ndert worden ist, wird 
+wie folgt ge&#228;ndert:
+1. In der Inhalts&#252;bersicht wird die Angabe zu &#167; 31 wie folgt gefasst:
+&#8222;&#167; 31 Verordnungserm&#228;chtigung betreffend Unterrichtung und Nachweise nach den Artikeln 4a und 10
+der Verordnung (EU) Nr. 648/2012&#8220;.
+2. In &#167; 1 Absatz 1 Nummer 8 Buchstabe d werden die W&#246;rter &#8222;Verordnung (EU) 2015/2365 (ABl. L 337 vom
+23.12.2015, S. 1)&#8220; durch die W&#246;rter &#8222;Verordnung (EU) 2019/834 (ABl. L 141 vom 28.5.2019, S. 42)&#8220;
+ersetzt. 
+3. &#167; 2 wird wie folgt ge&#228;ndert:
+a) Absatz 8 Satz 7 wird wie folgt gefasst:
+&#8222;Der Finanzportfolioverwaltung gleichgestellt ist hinsichtlich der &#167;&#167; 63 bis 83 und 85 bis 92 dieses
+Gesetzes sowie des Artikels 20 Absatz 1 der Verordnung (EU) Nr. 596/2014, des Artikels 26 der
+Verordnung (EU) Nr. 600/2014 und der Artikel 72 bis 76 der Delegierten Verordnung (EU) 2017/565 die
+erlaubnispflichtige Anlageverwaltung nach &#167; 1 Absatz 1a Satz 2 Nummer 11 des
+Kreditwesengesetzes.&#8220;
+b) In Absatz 15 Nummer 1 werden die W&#246;rter &#8222;wenn sie in diesem anderen Staat den Anforderungen des
+Artikels 21 der Richtlinie 2004/109/EG unterliegen,&#8220; gestrichen.
+4. In &#167; 3 Absatz 3 Satz 2 werden die W&#246;rter &#8222;&#167;&#167; 22, 63 bis 83 und 85 bis 92&#8220; durch die W&#246;rter &#8222;&#167;&#167; 63 bis 83
+und 85 bis 92 sowie Artikel 26 der Verordnung (EU) Nr. 600/2014&#8220; ersetzt. 
+5. &#167; 6 wird wie folgt ge&#228;ndert:
+a) In Absatz 2 Satz 3 werden die W&#246;rter &#8222;nach diesem Gesetz&#8220; gestrichen.
+b) In Absatz 5 Satz 2 wird nach der Angabe &#8222;Absatz 4&#8220; die Angabe &#8222;Buchstabe a&#8220; und nach der Angabe
+&#8222;S. 116&#8220; ein Semikolon und die Angabe &#8222;L 278 vom 27.10.2017, S. 56&#8220; eingef&#252;gt.
+c) Absatz 17 wird wie folgt gefasst:
+&#8222;(17) Bei der Durchf&#252;hrung ihrer Aufgaben kann sich die Bundesanstalt anderer sachverst&#228;ndiger
+Personen und Einrichtungen bedienen.&#8220;
+6. &#167; 10 wird wie folgt ge&#228;ndert:
+a) In Absatz 1 Satz 3 Nummer 4 wird die Angabe &#8222;&#167; 114&#8220; durch die Angabe &#8222;&#167; 125&#8220; ersetzt. 
+b) In Absatz 2 Satz 3 Nummer 2 wird der Satzteil nach dem Semikolon wie folgt gefasst:
+&#8222;hierbei gelten &#167; 8 Absatz 2 Satz 2 und 3 und die Vorschriften einer nach &#167; 8 Absatz 3 erlassenen
+Rechtsverordnung entsprechend,&#8220;.
+7. In &#167; 12 werden die W&#246;rter &#8222;&#167; 6 Absatz 2 bis 13&#8220; durch die W&#246;rter &#8222;&#167; 6 Absatz 2 bis 4, 6 bis 8 und 10 bis
+13&#8220; ersetzt.
+8. In &#167; 13 werden nach der Angabe &#8222;&#167;&#167; 7 bis 10&#8220; die W&#246;rter &#8222;und 54 Absatz 1&#8220; eingef&#252;gt. 
+9. &#167; 18 Absatz 11 wird wie folgt gefasst:
+&#8222;(11) F&#252;r Zwecke der Zusammenarbeit im Zusammenhang mit der Verordnung (EU) Nr. 596/2014
+stehen der Bundesanstalt die Befugnisse nach diesem Gesetz zu, um den einschl&#228;gigen Ersuchen der
+zust&#228;ndigen Beh&#246;rden nach der Verordnung (EU) Nr. 596/2014 sowie der f&#252;r die &#220;berwachung entsprechender
+ausl&#228;ndischer Bestimmungen zust&#228;ndigen Beh&#246;rden anderer Vertragsstaaten des Abkommens &#252;ber den
+Europ&#228;ischen Wirtschaftsraum oder von Drittstaaten nachzukommen.&#8220; 
+10. &#167; 24 Absatz 1 wird wie folgt gefasst:
+&#8222;(1) Wird &#252;ber das Verm&#246;gen eines nach diesem Gesetz, auch in Verbindung mit hierzu erlassenen
+Rechtsverordnungen, oder nach den in &#167; 1 Absatz 1 Nummer 8 aufgef&#252;hrten europ&#228;ischen Verordnungen,
+auch in Verbindung mit hierzu erlassenen delegierten Rechtsakten und Durchf&#252;hrungsrechtsakten, zu einer
+Handlung Verpflichteten ein Insolvenzverfahren er&#246;ffnet, hat der Insolvenzverwalter den Schuldner bei der
+Erf&#252;llung dieser Pflichten zu unterst&#252;tzen, insbesondere indem er aus der Insolvenzmasse die hierf&#252;r
+erforderlichen Mittel bereitstellt.&#8220; 
+11. In &#167; 28 Absatz 2 Satz 3 werden nach dem Wort &#8222;schriftlich&#8220; die W&#246;rter &#8222;oder elektronisch&#8220; eingef&#252;gt.
+12. In &#167; 30 Absatz 1 Satz 1 wird die Angabe &#8222;Artikeln 4,&#8220; durch die Angabe &#8222;Artikeln 4, 4a,&#8220; ersetzt. 
+13. &#167; 31 wird wie folgt gefasst:
+&#8222;&#167; 31
+Verordnungserm&#228;chtigung zu den Mitteilungspflichten nach der Verordnung (EU) Nr. 648/2012
+Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des
+Bundesrates bedarf, n&#228;here Bestimmungen erlassen &#252;ber den Inhalt, die Art, die Sprache, den Umfang und
+die Form der Unterrichtung nach Artikel 4a Absatz 1 Unterabsatz 2 Buchstabe a oder nach Artikel 10
+Absatz 1 Unterabsatz 2 Buchstabe a sowie der Nachweise nach Artikel 4a Absatz 2 Unterabsatz 1 oder nach
+Artikel 10 Absatz 2 Unterabsatz 1 der Verordnung (EU) Nr. 648/2012. Das Bundesministerium der Finanzen
+kann die Erm&#228;chtigung durch Rechtsverordnung auf die Bundesanstalt &#252;bertragen.&#8220;
+14. In &#167; 32 Absatz 1 Satz 1 werden die W&#246;rter &#8222;nach &#167; 31 Absatz 1 und 2 dieses Gesetzes&#8220; durch die W&#246;rter
+&#8222;nach einer auf Grund des &#167; 31 dieses Gesetzes erlassenen Rechtsverordnung&#8220; ersetzt.
+15. In &#167; 53 Absatz 1 Satz 2 wird die Angabe &#8222;Absatz 5a&#8220; durch die Angabe &#8222;Absatz 7&#8220; ersetzt. 
+16. In &#167; 83 Absatz 11 wird die Angabe &#8222;Absatz 11&#8220; durch die Angabe &#8222;Absatz 10&#8220; ersetzt.
+17. In &#167; 87 Absatz 6 Satz 1 Nummer 1 wird die Angabe &#8222;&#167; 4&#8220; durch die Angabe &#8222;&#167; 6&#8220; ersetzt. 
+18. In &#167; 102 Absatz 1 Satz 1 werden nach dem Wort &#8222;gew&#228;hren&#8220; die W&#246;rter &#8222;und sie diesbez&#252;glich nicht einer
+Erlaubnispflicht nach dem Kreditwesengesetz unterliegen&#8220; eingef&#252;gt. 
+19. &#167; 104 Absatz 1 Nummer 2 wird wie folgt gefasst:
+&#8222;2. der Markt oder sein Betreiber nachhaltig gegen Bestimmungen dieses Gesetzes, der auf Grund dieses
+Gesetzes erlassenen Rechtsverordnungen, der in &#167; 1 Absatz 1 Nummer 8 aufgef&#252;hrten europ&#228;ischen
+Verordnungen einschlie&#223;lich der hierzu erlassenen delegierten Rechtsakte und
+Durchf&#252;hrungsrechtsakte sowie auf Grund dieser Rechtsvorschriften erlassenen Anordnungen versto&#223;en hat.&#8220; 
+20. In &#167; 117 Nummer 2 Satz 1 werden die W&#246;rter &#8222;Die gesetzlichen Vertreter des Mutterunternehmens haben&#8220;
+durch die W&#246;rter &#8222;Das Mutterunternehmen hat&#8220; ersetzt.
+21. &#167; 120 wird wie folgt ge&#228;ndert:
+a) Absatz 2 wird wie folgt ge&#228;ndert:
+aa) Nummer 7 wird aufgehoben.
+bb) In Nummer 14 werden die W&#246;rter &#8222;&#167; 86 Satz 1, 2 oder 4&#8220; durch die W&#246;rter &#8222;&#167; 86 Absatz 1 Satz 1,
+5 oder 6&#8220; ersetzt. 
+b) Absatz 7 wird wie folgt ge&#228;ndert:
+aa) In dem Satzteil vor Nummer 1 werden die W&#246;rter &#8222;Verordnung (EU) 2015/2365 (ABl. L 337 vom
+23.12.2015, S. 1)&#8220; durch die W&#246;rter &#8222;Verordnung (EU) 2019/834 (ABl. L 141 vom 28.5.2019,
+S. 42)&#8220; ersetzt.
+bb) Nach Nummer 1 wird folgende Nummer 1a eingef&#252;gt:
+&#8222;1a. entgegen Artikel 4a Absatz 1 Unterabsatz 2 Buchstabe a eine Unterrichtung nicht oder nicht
+rechtzeitig vornimmt,&#8220;.
+cc) Nummer 5 wird wie folgt gefasst:
+&#8222;5. entgegen Artikel 10 Absatz 1 Unterabsatz 2 Buchstabe a eine Unterrichtung nicht oder nicht
+rechtzeitig vornimmt,&#8220;.
+22. &#167; 129 wird aufgehoben.
+Artikel 3
+&#196;nderung des Wertpapiererwerbs- und &#220;bernahmegesetzes
+In &#167; 10 Absatz 6 des Wertpapiererwerbs- und &#220;bernahmegesetzes vom 20. Dezember 2001 (BGBl. I
+S. 3822), das zuletzt durch Artikel 9 des Gesetzes vom 23. Juni 2017 (BGBl. I S. 1693) ge&#228;ndert worden ist, wird
+der Punkt am Ende durch ein Komma ersetzt und werden die W&#246;rter &#8222;soweit letztere unter Beachtung des
+Artikels 2 Absatz 1 der Durchf&#252;hrungsverordnung (EU) 2016/1055 der Kommission vom 29. Juni 2016 zur
+Festlegung technischer Durchf&#252;hrungsstandards hinsichtlich der technischen Mittel f&#252;r die angemessene Bekanntgabe
+von Insiderinformationen und f&#252;r den Aufschub der Bekanntgabe von Insiderinformationen gem&#228;&#223; Verordnung
+(EU) Nr. 596/2014 des Europ&#228;ischen Parlaments und des Rates (ABl. L 173 vom 30.6.2016, S. 47) in der jeweils
+geltenden Fassung und des &#167; 3a der Wertpapierhandelsanzeigeverordnung ver&#246;ffentlicht wurden.&#8220; eingef&#252;gt.
+Artikel 4
+&#196;nderung des Kreditwesengesetzes
+Das Kreditwesengesetz in der Fassung der Bekanntmachung vom 9. September 1998 (BGBl. I S. 2776), das
+zuletzt durch Artikel 6 des Gesetzes vom 8. Juli 2019 (BGBl. I S. 1002) ge&#228;ndert worden ist, wird wie folgt
+ge&#228;ndert:
+1. &#167; 2 wird wie folgt ge&#228;ndert:
+a) In Absatz 1 Nummer 9 wird im Wortlaut vor Buchstabe a die Angabe &#8222;c und&#8220; gestrichen.
+b) In Absatz 6 Satz 1 Nummer 11 werden im Wortlaut vor Buchstabe a die W&#246;rter &#8222;Buchstabe a und b&#8220;
+durch die W&#246;rter &#8222;Buchstabe a bis c&#8220; ersetzt.
+2. In &#167; 29 Absatz 1 Satz 2 Nummer 2 Buchstabe c und Absatz 1a Satz 1 wird jeweils die Angabe &#8222;Artikel 9&#8220;
+durch die W&#246;rter &#8222;nach den Artikeln 4a und 9&#8220; ersetzt. 
+3. &#167; 32 Absatz 1a wird wie folgt ge&#228;ndert:
+a) In Satz 1 werden nach dem Wort &#8222;Wer&#8220; die W&#246;rter &#8222;neben einer Erlaubnis nach Absatz 1 und&#8220;
+eingef&#252;gt.
+b) In Satz 2 werden nach dem Wort &#8222;unabh&#228;ngig&#8220; die W&#246;rter &#8222;von dem Bestehen einer Erlaubnis nach
+Absatz 1 und&#8220; eingef&#252;gt.
+c) Satz 3 wird wie folgt ge&#228;ndert:
+aa) In Nummer 2 wird das Wort &#8222;oder&#8220; am Ende durch ein Komma ersetzt.
+bb) In Nummer 3 wird der Punkt am Ende durch das Wort &#8222;oder&#8220; ersetzt. 
+cc) Folgende Nummer 4 wird angef&#252;gt:
+&#8222;4. das Eigengesch&#228;ft als Mitglied einer B&#246;rse oder Teilnehmer eines Handelsplatzes von einem
+in einem Drittstaat ans&#228;ssigen Unternehmen betrieben wird; dies gilt bis zu einer
+Entscheidung der Europ&#228;ischen Wertpapier- und Marktaufsichtsbeh&#246;rde &#252;ber eine Eintragung des
+Unternehmens in das Register nach Artikel 48 der Verordnung (EU) Nr. 600/2014.&#8220;
+Artikel 5
+&#196;nderung des Kapitalanlagegesetzbuchs
+Das Kapitalanlagegesetzbuch vom 4. Juli 2013 (BGBl. I S. 1981), das zuletzt durch Artikel 8 Absatz 14 des
+Gesetzes vom 8. Juli 2019 (BGBl. I S. 1002) ge&#228;ndert worden ist, wird wie folgt ge&#228;ndert:
+1. In &#167; 38 Absatz 3 Satz 2 wird die Angabe &#8222;Artikel 9&#8220; durch die W&#246;rter &#8222;nach den Artikeln 4a und 9&#8220; ersetzt
+und werden die W&#246;rter &#8222;die Verordnung (EU) 2015/2365&#8220; durch die W&#246;rter &#8222;die Verordnung (EU) 2019/834
+(ABl. L 141 vom 28.5.2019, S. 42)&#8220; ersetzt.
+2. In &#167; 121 Absatz 3 Satz 1 wird die Angabe &#8222;Artikel 9&#8220; durch die W&#246;rter &#8222;nach den Artikeln 4a und 9&#8220; ersetzt.
+3. In &#167; 136 Absatz 3 Satz 2 wird die Angabe &#8222;Artikel 9&#8220; durch die W&#246;rter &#8222;nach den Artikeln 4a und 9&#8220; ersetzt.
+Artikel 6
+&#196;nderung des Versicherungsaufsichtsgesetzes
+Das Versicherungsaufsichtsgesetz vom 1. April 2015 (BGBl. I S. 434), das zuletzt durch Artikel 7 des
+Gesetzes vom 8. Juli 2019 (BGBl. I S. 1002) ge&#228;ndert worden ist, wird wie folgt ge&#228;ndert:
+1. In &#167; 35 Absatz 1 Satz 1 Nummer 3 wird die Angabe &#8222;Artikel 9&#8220; durch die W&#246;rter &#8222;nach den Artikeln 4a und
+9&#8220; ersetzt. 
+2. &#167; 83 Absatz 3 wird aufgehoben.
+Artikel 7
+&#196;nderung der Gegenpartei-Pr&#252;fbescheinigungsverordnung
+Die Gegenpartei-Pr&#252;fbescheinigungsverordnung vom 19. M&#228;rz 2014 (BGBl. I S. 266), die durch Artikel 1
+der Verordnung vom 2. Oktober 2018 (BGBl. I S. 1722) ge&#228;ndert worden ist, wird wie folgt ge&#228;ndert:
+1. In &#167; 1 Absatz 2 Nummer 2 werden nach der Angabe &#8222;S. 1)&#8220; ein Komma und die W&#246;rter &#8222;die zuletzt durch
+die Verordnung (EU) 2019/834 (ABl. L 141 vom 28.5.2019, S. 42) ge&#228;ndert worden ist, in der jeweils
+geltenden Fassung,&#8220; eingef&#252;gt.
+2. &#167; 3 Absatz 3 wird wie folgt ge&#228;ndert:
+a) In Nummer 1 wird das Wort &#8222;Anzeigepflicht&#8220; durch das Wort &#8222;Unterrichtungspflicht&#8220; ersetzt und nach
+der Angabe &#8222;Absatz 1&#8220; wird die Angabe &#8222;Unterabsatz 2&#8220; eingef&#252;gt.
+b) Die Nummern 2 und 3 werden wie folgt gefasst:
+&#8222;2. die Einhaltung der Unterrichtungspflicht gegen&#252;ber der Bundesanstalt f&#252;r
+Finanzdienstleistungsaufsicht (Bundesanstalt) nach Artikel 10 Absatz 1 Unterabsatz 2 Buchstabe a der Verordnung
+(EU) Nr. 648/2012, auch in Verbindung mit einer auf Grund des &#167; 31 Satz 1 des
+Wertpapierhandelsgesetzes erlassenen Rechtsverordnung, sicherzustellen,
+3. die Einhaltung der Nachweispflicht gegen&#252;ber der Bundesanstalt nach Artikel 10 Absatz 2
+Unterabsatz 1 der Verordnung (EU) Nr. 648/2012, auch in Verbindung mit einer auf Grund des &#167; 31
+Satz 1 des Wertpapierhandelsgesetzes erlassenen Rechtsverordnung, sicherzustellen,&#8220;.
+c) Nummer 4 wird aufgehoben.
+d) Die bisherige Nummer 5 wird Nummer 4. 
+Artikel 8
+&#196;nderung der Pr&#252;fungsberichtsverordnung
+In &#167; 14a Absatz 1 Satz 1 der Pr&#252;fungsberichtsverordnung vom 11. Juni 2015 (BGBl. I S. 930), die zuletzt
+durch Artikel 7 des Gesetzes vom 18. Dezember 2018 (BGBl. I S. 2626) ge&#228;ndert worden ist, werden nach der
+Angabe &#8222;3 Unterabsatz 2&#8220; die W&#246;rter &#8222;sowie Artikel 4a&#8220; und nach der Angabe &#8222;(ABl. L 201 vom 27.7.2012,
+S. 1)&#8220; ein Komma und die W&#246;rter &#8222;auch in Verbindung mit einer aufgrund des &#167; 31 Satz 1 des
+Wertpapierhandelsgesetzes erlassenen Rechtsverordnung,&#8220; eingef&#252;gt.
+Artikel 9
+&#196;nderung der Verordnung zur &#220;bertragung von Befugnissen zum Erlass von Rechtsverordnungen 
+auf die Bundesanstalt f&#252;r Finanzdienstleistungsaufsicht
+In &#167; 1 Nummer 1 der Verordnung zur &#220;bertragung von Befugnissen zum Erlass von Rechtsverordnungen
+auf die Bundesanstalt f&#252;r Finanzdienstleistungsaufsicht vom 13. Dezember 2002 (BGBl. 2003 I S. 3), die zuletzt
+durch Artikel 8 Absatz 12 des Gesetzes vom 8. Juli 2019 (BGBl. I S. 1002) ge&#228;ndert worden ist, werden nach den
+W&#246;rtern &#8222;&#167; 3 Absatz 4 Satz 1&#8220; ein Komma und die Angabe &#8222;des &#167; 31 Satz 1&#8220; eingef&#252;gt. 
+Artikel 10
+&#196;nderung der Kapitalanlage-Pr&#252;fungsberichte-Verordnung
+&#167; 14 Absatz 2 der Kapitalanlage-Pr&#252;fungsberichte-Verordnung vom 24. Juli 2013 (BGBl. I S. 2777), die
+durch Artikel 8 Absatz 20 des Gesetzes vom 17. Juli 2015 (BGBl. I S. 1245) ge&#228;ndert worden ist, wird wie folgt
+gefasst:
+&#8222;(2) Der Abschlusspr&#252;fer hat die Erf&#252;llung der Unterrichtungspflichten nach Artikel 4a Absatz 1
+Unterabsatz 2 Buchstabe a und nach Artikel 9 Absatz 1 bis 3 der Verordnung (EU) Nr. 648/2012 des Europ&#228;ischen
+Parlaments und des Rates vom 4. Juli 2012 &#252;ber OTC-Derivate, zentrale Gegenparteien und Transaktionsregister
+(ABl. L 201 vom 27.2.2012, S. 1), die zuletzt durch die Verordnung (EU) 2019/834 (ABl. L 141 vom 28.5.2019,
+S. 42) ge&#228;ndert worden ist, auch in Verbindung mit einer aufgrund des &#167; 31 Satz 1 des Wertpapierhandelsgesetzes
+erlassenen Rechtsverordnung, zu beurteilen.&#8220;
+Artikel 11
+&#196;nderung der Pr&#252;fungsberichteverordnung
+&#167; 40 Absatz 2 der Pr&#252;fungsberichteverordnung vom 19. Juli 2017 (BGBl. I S. 2846), die durch Artikel 7
+Nummer 1 bis 3 des Gesetzes vom &#8230; [einsetzen: Datum und Fundstelle des Gesetzes zur Umsetzung der
+&#196;nderungsrichtlinie zur Vierten EU-Geldw&#228;scherichtlinie [Richtlinie (EU) 2018/843]) ge&#228;ndert worden ist, wird durch
+die folgenden Abs&#228;tze 2 und 2a ersetzt:
+&#8222;(2) Der Pr&#252;fer hat die Prozesse zur Erf&#252;llung der Meldepflichten nach Artikel 9 Absatz 1 bis 3 der
+Verordnung (EU) Nr. 648/2012 sowie zur Einhaltung der Unterrichtungspflicht gegen&#252;ber der Bundesanstalt nach
+Artikel 4a Absatz 1 Unterabsatz 2 Buchstabe a der Verordnung (EU) Nr. 648/2012, jeweils auch in Verbindung mit
+einer auf Grund des &#167; 31 Satz 1 des Wertpapierhandelsgesetzes erlassenen Rechtsverordnung, zu beurteilen. 
+(2a) Der Pr&#252;fer hat jeweils die Angemessenheit der Vorkehrungen und Systeme zu beurteilen, &#252;ber die das
+Unternehmen verf&#252;gt, um die Einhaltung der
+1. Anzeigepflicht gegen&#252;ber der Europ&#228;ischen Wertpapier- und Marktaufsichtsbeh&#246;rde nach Artikel 4a
+Absatz 1 Unterabsatz 2 Buchstabe a der Verordnung (EU) Nr. 648/2012,
+2. Anzeigepflicht gegen&#252;ber der Bundesanstalt nach Artikel 4a Absatz 1 Unterabsatz 2 Buchstabe a der
+Verordnung (EU) Nr. 648/2012, auch in Verbindung mit einer auf Grund des &#167; 31 Satz 1 des
+Wertpapierhandelsgesetzes erlassenen Rechtsverordnung, und
+3. Nachweispflicht gegen&#252;ber der Bundesanstalt nach Artikel 4a Absatz 2 Unterabsatz 1 der Verordnung (EU)
+Nr. 648/2012, auch in Verbindung mit einer auf Grund des &#167; 31 Satz 1 des Wertpapierhandelsgesetzes
+erlassenen Rechtsverordnung,
+sicherzustellen.&#8220; 
+Artikel 12
+Inkrafttreten
+Dieses Gesetz tritt am Tag nach der Verk&#252;ndung in Kraft.
+Begr&#252;ndung
+A. Allgemeiner Teil
+I. Zielsetzung und Notwendigkeit der Regelungen
+Eine zentrale Gegenpartei (Central Counterparty, CCP) tritt bei Transaktionen mit verschiedenen
+Finanzinstrumenten zwischen die Vertragsparteien und ist somit sowohl K&#228;ufer f&#252;r jeden Verk&#228;ufer als auch Verk&#228;ufer f&#252;r
+jeden K&#228;ufer (vgl. Artikel 2 Nummer 1 der Verordnung (EU) Nr. 648/2012 vom 4. Juli 2012 &#252;ber OTC-Derivate, 
+zentrale Gegenparteien und Transaktionsregister, EMIR). Zu diesem Zweck gehen die sogenannten
+Clearingmitglieder (in der Regel sind das Kreditinstitute) unmittelbare Vertragsbeziehungen zur CCP ein. Die Kunden der
+Clearingmitglieder unterhalten in der Regel keine Vertragsbeziehungen zur CCP. Diese Konstruktion sichert die
+B&#252;ndelung aller Transaktionen der Clearingmitglieder, die &#252;ber die CCP abgewickelt werden sollen (sogenanntes
+Clearing). Dabei k&#246;nnen die geb&#252;ndelten Transaktionen im Rahmen des sogenannten Nettings saldiert werden,
+was zur deutlichen Reduzierung der Risiken sowohl bei der CCP als auch ihren Clearingmitgliedern f&#252;hrt. Die
+CCP sichert sich im Gegenzug f&#252;r die &#220;bernahme der Risiken der Clearingmitglieder aus deren ihr &#252;bertragenen
+Transkationen durch &#220;berlassung von Sicherheiten durch die Clearingmitglieder ab. Die Sicherheiten dienen der
+CCP insbesondere zur Deckung von Anspr&#252;chen gegen die Clearingmitglieder f&#252;r den Fall, dass ein oder mehrere
+Clearingmitglieder der Erf&#252;llung ihrer Verbindlichkeiten gegen&#252;ber der CCP nicht nachkommen.
+Vor allem Finanzderivate haben f&#252;r den Finanzmarkt und die Realwirtschaft eine hohe Bedeutung. Mit Zins- und
+W&#228;hrungsswaps sichern sich Banken und zahlreiche Unternehmen mit dem Ziel der besseren Planbarkeit gegen
+die Ver&#228;nderung von Zinss&#228;tzen und Wechselkursen ab. Hinzu kommt der Handel mit Derivaten auf
+Staatsanleihen und Aktien. Seit sich die G20 im Jahr 2009 infolge der Finanzkrise dazu verpflichtet haben, f&#252;r standardisierte
+OTC-Derivate Regelungen einzuf&#252;hren, die ein zentrales Clearing durch CCPs vorgeben, hat sich die Bedeutung
+der CCP stark erh&#246;ht.
+Grunds&#228;tzlich sollen die Risiken die bei der CCP aufgrund des Ausfalls von Clearingmitgliedern entstehen
+k&#246;nnen, durch die Vorgaben f&#252;r Sicherheiten im Rahmen des sogenannten Wasserfallprinzips aufgrund der
+Verordnung (EU) Nr. 648/2012 (EMIR) abgedeckt werden. Diese Anforderungen sehen neben Einschussforderungen
+durch die Clearingmitglieder (sog. Margins) auch die Einrichtung eines Ausfallfonds vor, den die
+Clearingmitglieder durch Beitr&#228;ge in Form von liquiden Mitteln zu bef&#252;llen haben. Daneben muss die CCP ausreichende
+vorfinanzierte Finanzmittel im Rahmen des Wasserfallprinzips bereithalten. Der Ausfallfonds muss vom
+Volumen her so beschaffen sein, dass er den Ausfall des gr&#246;&#223;ten Clearing-Mitglieds oder, wenn die Risikopositionen
+der beiden folgenden Clearingmitglieder gr&#246;&#223;er als die des gr&#246;&#223;ten Clearingmitglieds sind, den Ausfall des zweit-
+und drittgr&#246;&#223;ten Clearingmitglieds abdecken kann. Diese Vorgaben von EMIR legen jedoch keine
+Sanierungsoder Abwicklungsstrategien f&#252;r die CCP fest, wenn die Ausf&#228;lle und Verluste der CCP aufgrund des Ausfalls von
+Clearingmitgliedern oder anderer Vorf&#228;lle so hoch sind, dass das Volumen des Ausfallfonds zur Abdeckung nicht
+ausreicht. In diesem Falle ist die Funktionsf&#228;higkeit der CCP gef&#228;hrdet. Mit Blick auf Verluste, die nicht auf den
+Ausfall eines Clearingmitglieds zur&#252;ckgehen und f&#252;r die die CCP nur mit dem ihr zu Verf&#252;gung stehenden
+Eigenkapital haftet, ist dies von Relevanz, wenn diese Verluste das Eigenkapital der CCP &#252;bersteigen w&#252;rden.
+Da sich das zentrale Clearing auf wenige Anbieter konzentriert und die CCPs mit anderen
+Finanzmarktteilnehmern stark verflochten sind, kann ein Ausfall einer CCP erhebliche Folgen auf die Finanzmarktstabilit&#228;t haben. 
+Soweit eine CCP betroffen ist, die auch &#252;ber eine Zulassung als CCR-Kreditinstitut verf&#252;gt, gelten die Regelungen
+der Richtlinie 2014/59/EU vom 15. Mai 2014 zur Festlegung eines Rahmens f&#252;r die Sanierung und Abwicklung
+von Kreditinstituten und Wertpapierfirmen und zur &#196;nderung der Richtlinie 82/891/EWG des Rates, der
+Richtlinien 2001/24/EG, 2002/47/EG, 2004/25/EG, 2005/56/EG, 2007/36/EG, 2011/35/EU, 2012/30/EU und
+2013/36/EU sowie der Verordnungen (EU) Nr. 1093/2010 und (EU) Nr. 648/2012 (BRRD, ABl. L 173 vom
+12.6.2014, S. 190, die zuletzt durch die Richtlinie (EU) 2019/879 ge&#228;ndert worden ist, ABl. L 150 vom 7.6.2019,
+S. 296), die mit dem Gesetz zur Sanierung und Abwicklung von Instituten und Finanzgruppen (SAG) in deutsches
+Recht umgesetzt worden sind. Unmittelbar Anwendung findet zudem die Verordnung (EU) Nr. 806/2014 vom
+15. Juli 2014 zur Festlegung einheitlicher Vorschriften und eines einheitlichen Verfahrens f&#252;r die Abwicklung
+von Kreditinstituten und bestimmten Wertpapierfirmen im Rahmen eines einheitlichen
+Abwicklungsmechanismus und eines einheitlichen Abwicklungsfonds sowie zur &#196;nderung der Verordnung (EU) Nr. 1093/2010 (SRM-
+VO, ABl. L 225 vom 30.7.2014, S. 1; L 101 vom 18.4.2015, S. 62, die zuletzt durch die Verordnung (EU)
+Nr. 2019/877 ge&#228;ndert worden ist, ABl. L 150 vom 7.6.2019, S. 226). Allerdings finden sich weder in den
+europ&#228;ischen Vorschriften noch im SAG besondere Regelungen, die auf das von einem Kreditinstitut v&#246;llig
+verschieden Gesch&#228;ftsmodell einer CCP ausgerichtet sind. Mithin gibt es gegenw&#228;rtig keine spezifischen Regelungen f&#252;r
+die Sanierung und Abwicklung einer CCP.
+Die Verordnung (EU) Nr. 2019/834 (EMIR REFIT) &#228;ndert die Verordnung (EU) Nr. 648/2012 (EMIR). Dies
+zieht &#196;nderungsbedarf in den nationalen Ausf&#252;hrungsgesetzen zu EMIR nach sich.
+Das grenz&#252;berschreitend aus einem Drittstaat ins Inland betriebene Eigengesch&#228;ft wird nicht im Sinne einer aktiv 
+angebotenen Dienstleistung betrieben und hat damit keine Zielrichtung im Inland. Vorbehaltlich einer
+europ&#228;ischen Regelung, sollte es daher grunds&#228;tzlich nur dann einer Erlaubnispflicht im Inland unterfallen, wenn es mit
+einem direkten elektronischen Zugang zu einem Handelsplatz oder mit Warenderivaten, Emissionszertifikaten 
+oder Derivaten auf Emissionszertifikate betrieben wird. 
+II. Wesentlicher Inhalt des Entwurfs
+Angesichts dieser wachsenden Bedeutung besteht jedoch &#8211; ebenso wie bei Finanzinstituten mit kritischen
+Funktionen &#8211; die Notwendigkeit, einen glaubw&#252;rdigen Rahmen f&#252;r die Sanierung &#8211; und Abwicklung von CCPs zu
+schaffen. Dies erfordert die Implementierung gesetzlicher Voraussetzungen, die es erm&#246;glichen, Ma&#223;nahmen zur
+&#220;berwindung finanzieller Notlagen sowie zur Aufrechterhaltung der kritischen Funktionen einer ausfallenden
+oder von einem Ausfall bedrohten CCP zu ergreifen. Ziel muss es sein, Ma&#223;nahmen festzulegen, die die
+Finanzstabilit&#228;t wahren und gleichzeitig die Kosten eines Ausfalls einer CCP f&#252;r die Steuerzahler zu minimieren. Die
+Aufsichts- und Abwicklungsbeh&#246;rden m&#252;ssen mit Befugnissen ausgestattet sein, die sie in die Lage versetzen, 
+auf eine m&#246;gliche Abwicklung einer CCP und zum koordinierten Umgang mit einer in Schieflage geratenen CCP 
+vorbereitet zu sein. 
+Mit Verweis auf ihre besondere Rolle f&#252;r die Finanzmarktinfrastrukturen hat sich das Financial Stability Board
+(FSB) f&#252;r die Implementierung von Abwicklungsregime f&#252;r CCPs ausgesprochen (Key Attributes of Effective 
+Resolution Regimes for Financial Institutions, II-Annex 1: resolution of FMIs and FMI Participants, 2014).
+Ausgehend von diesen internationalen Vorgaben hat die Europ&#228;ischen Kommission 2016 einen
+Verordnungsentwurf f&#252;r die Sanierung und Abwicklung von CCPs ver&#246;ffentlicht (Vorschlag &#252;ber einen Rahmen f&#252;r die Sanierung
+und Abwicklung von CCPs und zur &#196;nderung der Verordnungen (EU) Nr. 1095/2010, (EU) Nr. 648/2012 und
+(EU) 2015/2365 vom 28.11.2016, COM(2016), 856 final, S. 2). Dieser sieht &#252;ber die bereits in der Verordnung
+(EU) Nr. 648/2012 bestehenden Vorgaben f&#252;r das Risikomanagement hinaus Ma&#223;nahmen zur Glattstellung und
+Verlusttragung im Sanierungs- und Abwicklungsfall vor. Hierzu geh&#246;ren unter anderem von Clearing-Mitgliedern 
+im Sanierungs- und Abwicklungsfall zu leistende Nachschusszahlungen. Dar&#252;ber hinaus ist die M&#246;glichkeit
+vorgesehen, im Fall der Abwicklung der CCP Abschl&#228;ge auf Bewertungsgewinne von Clearing-Mitgliedern
+vorzunehmen oder Vertragsverh&#228;ltnisse einseitig vollst&#228;ndig zu beenden. Der Verordnungsentwurf erfasst alle CCPs,
+unabh&#228;ngig davon, ob es sich um ein CRR-Kreditinstitut handelt oder um ein Kreditinstitut, das ausschlie&#223;lich
+&#252;ber eine Zulassung als zentrale Gegenpartei im Sinne von &#167; 1 Absatz 31 KWG verf&#252;gt. Allerdings ist nicht
+absehbar, wann der Verordnungsentwurf f&#252;r die Sanierung und Abwicklung von CCPs im Amtsblatt der EU
+ver&#246;ffentlicht wird und damit eine rechtlich bindende Wirkung der Mitgliedstaaten zur Folge hat. Im Hinblick auf
+die Zunahme der Bedeutung von CCPs ist daher eine nationale Regelung erforderlich, die dann allerdings von
+einer EU Regelung verdr&#228;ngt werden wird, so denn diese vom Europ&#228;ischen Rat und vom Europ&#228;ischen
+Parlament verabschiedet und von der Europ&#228;ischen Kommission erlassen wird.
+Die Verordnung (EU) Nr. 2019/834 (EMIR REFIT) &#228;ndert die Verordnung (EU) Nr. 648/2012 (EMIR). Dies
+zieht &#196;nderungsbedarf in den nationalen Ausf&#252;hrungsgesetzen zu EMIR nach sich. Der Entwurf enth&#228;lt die dazu
+notwendigen &#196;nderungen der betroffenen Aufsichtsgesetze. 
+Im Kreditwesengesetz wird klargestellt, dass das grenz&#252;berschreitend aus einem Drittstaat ins Inland betriebene
+Eigengesch&#228;ft vorbehaltlich einer europ&#228;ischen Regelung grunds&#228;tzlich nur dann einer Erlaubnispflicht im Inland
+unterf&#228;llt, wenn es mit einem direkten elektronischen Zugang zu einem Handelsplatz oder mit Warenderivaten,
+Emissionszertifikaten oder Derivaten auf Emissionszertifikate betrieben wird.
+III. Alternativen
+Alternative Initiativen der L&#228;nder oder des Deutschen Bundestags gibt es nicht.
+IV. Gesetzgebungskompetenz 
+Die Gesetzgebungskompetenz des Bundes ergibt sich aus Artikel 74 Absatz 1 Nummer 11 des Grundgesetzes -
+GG (Recht der Wirtschaft: Bank- und B&#246;rsenwesen). Eine bundeseinheitliche Regelung ist zur Wahrung der
+Rechts- und Wirtschaftseinheit im gesamtstaatlichen Interesse erforderlich (Artikel 72 Absatz 2 GG), da der
+OTC-Derivatehandel und die T&#228;tigkeit von zentralen Gegenparteien keine regional abgrenzbaren Gesch&#228;fte sind
+und nur mit bundesweit identischen Rahmenbedingungen die Einhaltung der Vorgaben erm&#246;glicht werden kann.
+Im gesamtstaatlichen Interesse ist daher eine bundesgesetzliche Regelung erforderlich.
+V. Vereinbarkeit mit dem Recht der Europ&#228;ischen Union und v&#246;lkerrechtlichen Vertr&#228;gen
+Dieser Gesetzentwurf ist mit dem Recht der Europ&#228;ischen Union vereinbar, eine Regelung auf europ&#228;ischer Ebene
+zur Sanierung und Abwicklung von CCPs gibt es gegenw&#228;rtig nicht. 
+Die Verordnung (EU) Nr. 2019/834 (EMIR REFIT) &#228;ndert die Verordnung (EU) Nr. 648/2012 (EMIR). Dies
+zieht &#196;nderungsbedarf in den nationalen Ausf&#252;hrungsgesetzen zu EMIR nach sich. Die &#196;nderungen sind durch
+europarechtliche &#196;nderungen bedingt.
+VI. Gesetzesfolgen
+1. Rechts- und Verwaltungsvereinfachung
+Eine Rechts- und Verwaltungsvereinfachung ist nicht vorgesehen.
+2. Nachhaltigkeitsaspekte 
+Der Gesetzentwurf entspricht dem Grundsatz der Nachhaltigkeit. Der Gesetzentwurf hat keine negativen
+&#246;kologischen Auswirkungen und keinen Bezug zu sozialen Aspekten. Der Gesetzentwurf soll dazu beitragen zu
+verhindern, dass im Fall der Krise eines CCPs Steuergelder zu dessen Sanierung und Abwicklung eingesetzt werden
+m&#252;ssen. 
+3. Haushaltsausgaben ohne Erf&#252;llungsaufwand
+Mehreinnahmen f&#252;r den Bund sind nicht ersichtlich. Es ergeben sich unmittelbar durch dieses Gesetz keine
+Ver&#228;nderungen bei den Haushaltsausgaben des Bundes.
+4. Erf&#252;llungsaufwand
+Erf&#252;llungsaufwand i. e. S. Wirtschaft
+Wiederkehrender Erf&#252;llungsaufwand
+Gesetz Paragraf Inhalt
+Komplexit&#228;t
+Zeit in 
+Min.
+Fallzahl
+Erf&#252;llungsaufwand gesamt
+SAG &#167; 152f Vornahme der geforderten &#196;nderungen an
+Clearing-Bedingungen zur Beseitigung
+von Abwicklungshindernissen 
+hoch 3.730 1 4.866,10 &#8364;
+SAG &#167; 152h Durchf&#252;hrung der Ma&#223;nahmen zum
+Erreichen des Abwicklungsziels
+hoch 3.220 1 4.200,76 &#8364;
+9.066,85 &#8364;
+Wiederkehrender Erf&#252;llungsaufwand 9.066,85 &#8364;
+Einmaliger Erf&#252;llungsaufwand 0,00 &#8364;
+Erf&#252;llungsaufwand i. e. S. Wirtschaft 9.066,85 &#8364;
+Informationspflichten Wirtschaft
+Wiederkehrende Informationspflichten
+Gesetz Paragraf Inhalt
+Komplexit&#228;t
+Zeit in 
+Min.
+Fallzahl
+Informatonspflichten gesamt 
+SAG &#167; 44 Zurverf&#252;gungstellen von Informationen
+&#252;ber verm&#246;genswerte und
+Verbindlichkeiten 
+mittel 204 4 569,84 &#8364;
+SAG &#167; 152f Information an zust&#228;ndige Beh&#246;rde &#252;ber
+Vornahme der geforderten &#196;nderungen
+wegen Abwicklungshindernissen 
+mittel 37 1 25,84 &#8364;
+SAG &#167; 152h Information an zust&#228;ndige Beh&#246;rde &#252;ber
+Vornahme der geforderten Ma&#223;nahmen
+zum Erreichen des Abwicklungsziels
+mittel 37 1 25,84 &#8364;
+621,52 &#8364;
+Wiederkehrende Informationspflichten 621,52 &#8364;
+Einmalige Informationspflichten 0,00 &#8364;
+Informationspflichten Wirtschaft 621,52 &#8364;
+Erf&#252;llungsaufwand Verwaltung
+Wiederkehrender Erf&#252;llungsaufwand
+Gesetz Paragraf Inhalt
+Komplexit&#228;t
+Zeit in 
+Min.
+Fallzahl
+Erf&#252;llungsaufwand gesamt
+SAG &#167; 44 Treffen von geeigneten Vorkehrungen, um
+zu gew&#228;hrleisten, dass sie stets so aktuell
+und umfassend wie m&#246;glich &#252;ber
+Verm&#246;genswerte und Verbindlichkeiten des
+Instituts informiert ist.
+mittel 1472 4 4.341,42 &#8364;
+SAG &#167; 49 i.V.
+&#167; 53
+m. Bestimmen des Mindestbetrag
+ber&#252;cksichtigungsf&#228;higer Verbindlichkeiten, welches
+das Institut vorzuhalten hat.
+mittel 1472 1 1.085,35 &#8364;
+SAG &#167; 54 &#220;berpr&#252;fung der Einhaltung des
+Mindestbetrags
+mittel 1437 4 4.238,19 &#8364;
+SAG &#167; 57/58 Bewertung der Abwicklungsf&#228;higkeit von 
+Instituten
+hoch 4523 1 6.100,02 &#8364;
+SAG &#167; 152e j&#228;hrliche Aktualisierung des
+Abwicklungsplans
+hoch 5220 1 7.040,04 &#8364;
+SAG &#167; 152e unterj&#228;hrige Aktualisierung des
+Abwicklungsplans
+hoch 5220 1 7.040,04 &#8364;
+SAG &#167; 152e Abstimmungsarbeit zw. Abwicklungs-
+und Aufsichtsbereich
+hoch 4460 1 6.015,05 &#8364;
+SAG &#167; 152f Verlangen von &#196;nderungen an Clearing-
+Bedingungen zur Beseitigung von
+Abwicklungshindernissen
+hoch 4960 1 6.689,39 &#8364;
+SAG &#167; 152f Pr&#252;fung von potentiellen Auswirkungen
+der betreffenden Ma&#223;nahmen 
+hoch 2540 1 3.425,61 &#8364;
+SAG &#167; 152g Feststellung der h&#246;he der relevanten
+Verluste anhand der Instrumente nach &#167;&#167; 149j,
+149k, 149l
+hoch 4570 1 6.163,41 &#8364;
+SAG &#167; 152h Treffen von Ma&#223;nahmen zum Erreichen 
+der Abwicklungsziele
+hoch 5220 1 7.040,04 &#8364;
+SAG &#167; 152i Nutzen der Instrumente nach Abs. 1 und
+Abs. 2
+hoch 5223 1 7.044,09 &#8364;
+66.222,65 &#8364;
+Einmaliger Erf&#252;llungsaufwand 
+Gesetz Paragraf Inhalt
+Komplexit&#228;t
+Zeit in 
+Min.
+Fallzahl
+Erf&#252;llungsaufwand gesamt
+SAG &#167; 152d Verlangen von &#196;nderungen an Clearing-
+Bedingungen wg. Unzul&#228;nglichkeiten 
+hoch 5220 1 7.040,04 &#8364;
+SAG &#167; 152e Erstellung Abwicklungsplan durch
+Abwicklungsbereich 1. Jahr
+hoch 5220 1 7.040,04 &#8364;
+14.080,08 &#8364;
+Wiederkehrender Erf&#252;llungsaufwand 66.222,65 &#8364;
+Einmaliger Erf&#252;llungsaufwand 14.080,08 &#8364;
+Erf&#252;llungsaufwand Verwaltung 80.302,73 &#8364;
+Wiederkehrender Erf&#252;llungsaufwand 9.066,85 &#8364;
+Einmaliger Erf&#252;llungsaufwand 0,00 &#8364;
+Erf&#252;llungsaufwand i. e. S. Wirtschaft 9.066,85 &#8364;
+Wiederkehrende Informationspflichten 621,52 &#8364;
+Einmalige Informationspflichten 0,00 &#8364;
+Informationspflichten Wirtschaft 621,52 &#8364;
+Erf&#252;llungsaufwand gesamt
+Erf&#252;llungsaufwand i. e. S. Wirtschaft gesamt 9.066,85 &#8364;
+Informationspflichten Wirtschaft gesamt 621,52 &#8364;
+Erf&#252;llungsaufwand inkl. Informationspflicht 9.688,37 &#8364;
+Wiederkehrender Erf&#252;llungsaufwand
+Wiederkehrender Erf&#252;llungsaufwand i. e. S. Wirtschaft 9.066,85 &#8364;
+Wiederkehrende Informationspflichten Wirtschaft 621,52 &#8364;
+Erf&#252;llungsaufwand inkl. Informationspflicht 9.688,37 &#8364;
+Einmaliger Erf&#252;llungsaufwand
+Einmaliger Erf&#252;llungsaufwand i. e. S. Wirtschaft 0,00 &#8364;
+Einmalige Informationspflichten Wirtschaft 0,00 &#8364;
+Erf&#252;llungsaufwand inkl. Informationspflicht 0,00 &#8364;
+5. Weitere Kosten
+Unmittelbar durch dieses Gesetz werden die Kosten f&#252;r Unternehmen und Verbraucher nicht ber&#252;hrt.
+Auswirkungen auf die Einzelpreise und das Preisniveau lassen sich nicht absch&#228;tzen.
+6. Weitere Gesetzesfolgen
+Der Gesetzentwurf enth&#228;lt keine gleichstellungsrelevanten Aspekte. Spezifische Auswirkungen auf die
+Lebenssituation von Frauen und M&#228;nnern sind nicht zu erwarten, da das Gesetz ausschlie&#223;lich sachbezogene Regelungen
+enth&#228;lt.
+VII. Befristung; Evaluierung
+Eine Evaluierung der Bundesregierung ist f&#252;r den Fall vorgesehen, dass Regelungen auf europ&#228;ischer Ebene
+dauerhaft zur Verf&#252;gung stehen und die nationalen Regelungen ganz oder teilweise ersetzen.
+B. Besonderer Teil
+Zu Artikel 1 (&#196;nderung des Sanierungs- und Abwicklungsgesetzes)
+Zu Nummer 1 (Inhalts&#252;bersicht)
+In Nummer 1 werden die durch die Einf&#252;gung des neuen Unterabschnitts f&#252;r zentrale Gegenparteien notwendigen
+&#196;nderungen der Inhalts&#252;bersicht vorgenommen. 
+Zu Nummer 2 (&#167; 2)
+Die Begriffsbestimmung &#252;bernimmt die Definition von Artikel 2 Nummer 14 der Verordnung (EU) Nr. 648/2012.
+Zu Nummer 3 (&#167;&#167; 152a bis 152n - neu -)
+Zu &#167; 152a
+Absatz 1 bestimmt die Anwendbarkeit der Regelungen des Unterabschnitts auf zentrale Gegenparteien im Sinne 
+des Artikels 2 Nummer 1 der Verordnung (EU) Nr. 648/2012.
+Absatz 2 Satz 1 bestimmt die Anwendbarkeit auf zentrale Gegenparteien, die insbesondere auf Grund einer
+Zulassung als CRR-Kreditinstitut in den Anwendungsbereich des &#167; 1 fallen. Soweit nicht die Verordnung (EU)
+Nr. 806/2014 des Europ&#228;ischen Parlaments und des Rates vom 15. Juli 2014 zur Festlegung einheitlicher
+Vorschriften und eines einheitlichen Verfahrens f&#252;r die Abwicklung von Kreditinstituten und bestimmten
+Wertpapierfirmen im Rahmen eines einheitlichen Abwicklungsmechanismus und eines einheitlichen Abwicklungsfonds
+sowie zur &#196;nderung der Verordnung (EU) Nr. 1093/2010 (ABl. L 225 vom 30.7.2014, S. 1), SRM-VO, zur
+Anwendung kommt, finden die Vorschriften des SAG in Umsetzung der Richtlinie 2014/59/EU zur Festlegung eines
+Rahmens f&#252;r die Sanierung und Abwicklung von Kreditinstituten und Wertpapierfirmen Anwendung. Dabei sind
+die Regelungen des neuen Teil 5 neben den jeweils anwendbaren Regelungen des SAG erg&#228;nzend anwendbar. Zu
+beachten ist, ob Regelungen der Verordnung (EU) Nr. 806/2014 (SRM-VO) vorrangig anzuwenden sind.
+Auf zentrale Gegenparteien im Sinne von Absatz 2 Satz 2, die nicht in den Anwendungsbereich des &#167; 1 fallen und
+auf die die SRM-VO keine Anwendung findet, finden die Vorschriften des SAG nach &#167; 152a Absatz 2 Satz 2
+Anwendung, so, als seien diese zentralen Gegenparteien ein Kreditinstitut, eine Wertpapierfirma oder ein
+Unternehmen im Sinne des &#167; 1 oder eine inl&#228;ndische Unionszweigestelle soweit nicht Teil 5 besondere Vorschriften
+vorsieht. &#167; 2 Absatz 9a Kreditwesengesetz bleibt dabei unber&#252;hrt.
+Zu &#167; 152b
+Absatz 1 regelt, dass der Sanierungsplan einer zentralen Gegenpartei neben den nach &#167; 13 Absatz 2
+vorzusehenden Darstellungen und darzulegenden Ma&#223;nahmen weitere, speziell auf die Risiken der zentralen Gegenpartei
+abgestellte Angaben enthalten muss.
+Darzustellen sind zum einen Krisenfallszenarien, die insbesondere den Fortbestand der kritischen Funktionen der
+zentralen Gegenpartei beeintr&#228;chtigen k&#246;nnen. Dabei kann sich die Notwendigkeit einer geordneten Sanierung
+aus dem Ausfall von einem oder mehreren Clearingmitgliedern (Ausfallereignisse) oder aus Verlusten infolge
+insbesondere von Gesch&#228;fts- oder Rechtsrisiken, von Beeintr&#228;chtigungen oder Ausfall der technischen
+Infrastruktur oder sonstiger operationellen Risiken (Nichtausfallereignisse) ergeben.
+Die zentrale Gegenpartei hat zudem darzulegen, mit welchen Ma&#223;nahmen sie den identifizierten Risiken
+beabsichtigt zu begegnen. Zur vollst&#228;ndigen Darstellung von Ma&#223;nahmen zur Risikobegrenzung geh&#246;rt auch die
+Benennung der Anspr&#252;che, die der zentralen Gegenpartei gegen&#252;ber einem vorhandenen Mutterunternehmen oder
+anderen gruppenangeh&#246;rigen Unternehmen aus vertraglichen Vereinbarungen oder einseitigen Erkl&#228;rungen (z. B.
+Patronatserkl&#228;rungen) im Hinblick auf die Abdeckung von Verlusten zustehen.
+Ferner verweist Absatz 1 Satz 1 klarstellend auf die M&#246;glichkeit der vereinfachten Anforderungen nach &#167; 19
+Absatz 1 Nummer 1, die auch f&#252;r zentrale Gegenparteien im Sinne von &#167; 152a Absatz 2 Satz 2 in Betracht kommen.
+Damit die Ma&#223;nahmen, mit denen die zentrale Gegenpartei den im Sanierungsplan aufgezeigten Risiken
+Rechnung tragen will, wirksam werden k&#246;nnen, schreibt Absatz 2 vor, dass die Sanierungspl&#228;ne in das
+Risikomanagement der zentralen Gegenpartei integriert werden m&#252;ssen. Dies ist bedeutsam, weil das Gesch&#228;ftsmodell der
+zentralen Gegenpartei grunds&#228;tzlich das Management der ihr von den Clearingmitgliedern &#252;bertragenen Risiken
+beinhaltet. Darauf hat sich das Risikomanagement im Wesentlichen zu konzentrieren. Dann muss aber auch
+innerhalb des Risikomanagements der zentralen Gegenpartei Vorsorge f&#252;r den Fall getroffen werden, dass
+Sanierungsma&#223;nahmen f&#252;r die zentrale Gegenpartei erforderlich werden, sollten sich infolge des Ausfalls eines oder
+mehrerer Clearingmitglieder deren auf die zentrale Gegenpartei &#252;bertragenen Risiken nicht mehr als handhabbar
+erweisen und zu solchen Verlusten der zentralen Gegenpartei f&#252;hren, dass sie ihren Sanierungsplan aktivieren muss. 
+Daher m&#252;ssen die Sanierungspl&#228;ne in das Risikomanagement der zentralen Gegenpartei integriert werden. 
+Nach Absatz 3 muss die zentrale Gegenpartei die Durchf&#252;hrbarkeit der im Sanierungsplan vorgesehenen
+Ma&#223;nahmen sicherstellen. Kommt es zu Ausfallereignissen, sind es vorrangig die Clearingmitglieder die mit
+vorfinanzierten Finanzmitteln und Beitr&#228;gen zum Ausfallfonds die Verluste eines oder mehrerer Clearingmitglieder
+tragen. Dar&#252;ber hinaus sind in einem Krisenfall einer zentralen Gegenpartei auch mit der zentralen Gegenpartei
+verbundene Finanzmarktinfrastrukturen oder Handelspl&#228;tze betroffen. Sanierungsma&#223;nahmen einer zentralen
+Gegenpartei k&#246;nnen daher nur dann Aussicht auf Erfolg haben, wenn die zu ergreifenden Ma&#223;nahmen durch die
+Clearingbedingungen und sonstige vertragliche Vereinbarungen der zentralen Gegenpartei rechtlich durchsetzbar
+sind.
+Absatz 4 soll sicherstellen, dass die im Sanierungsplan festgelegten Ma&#223;nahmen auch dann rechtswirksam
+ergriffen werden k&#246;nnen, wenn vertragliche Beziehungen der zentralen Gegenpartei zu ausl&#228;ndischen
+Clearingmitgliedern bestehen.
+Zu &#167; 152c
+Nach &#167; 152c Nummer 1 ber&#252;cksichtigt die Aufsichtsbeh&#246;rde zus&#228;tzlich zu den Vorgaben des &#167; 15 Absatz 2 die
+Angemessenheit des bei der zentralen Gegenpartei eingerichteten Ausfallfonds im Sinne von Artikel 42 der
+Verordnung (EU) Nr. 648/2012, die vorfinanzierten Finanzmittel im Sinne von Artikel 43 Absatz 1 der Verordnung
+(EU) Nr. 648/2012 und das Wasserfallprinzip im Sinne von Artikel 45 der Verordnung (EU) Nr. 648/2012.
+Weiter sind nach Nummer 2 zu ber&#252;cksichtigen die Anreize, die durch den Sanierungsplan f&#252;r ein angemessenes
+Risikomanagement der zentralen Gegenpartei, der Clearingmitglieder und deren Kunden gesetzt werden. Damit
+erfolgt eine klare Verantwortungszuweisung an die zentrale Gegenpartei, die Clearingmitglieder und deren
+Kunden f&#252;r ein effizientes Risikomanagement. Mit dem Verweis auf die Begriffsbestimmung in Artikel 2 Nummer 15 
+der Verordnung (EU) Nr. 648/2012 werden Kunden des Clearingmitglieds einbezogen, die eine
+Vertragsbeziehung zu dem Clearingmitglied unterhalten, die es diesem Kunden erm&#246;glichen, seine Transaktionen durch diese
+zentrale Gegenpartei zu clearen.
+Spiegelbildlich zu der Zuweisung der Verantwortung f&#252;r ein ad&#228;quates Risikomanagement ist in Nummer 3
+vorgesehen, dass die Aufsichtsbeh&#246;rde auch die Auswirkungen bei der Bewertung des Sanierungsplans
+ber&#252;cksichtigt, die die Umsetzung des Sanierungsplans auf Clearingmitglieder und deren Kunden sowie auf das
+Finanzsystem in den relevanten Mitgliedsstaaten und der Union insgesamt h&#228;tte.
+Zu &#167; 152d
+&#167; 152d Absatz 1 regelt den Fall, dass die zentrale Gegenpartei keine, keine geeigneten oder keine ausreichenden
+Ma&#223;nahmen zur Beseitigung von M&#228;ngeln des nach &#167; 13 und nach &#167; 152b aufzustellenden Sanierungsplans
+vorschl&#228;gt. In diesem Fall ist die Aufsichtsbeh&#246;rde berechtigt, neben den in &#167; 16 Absatz 5 genannten Ma&#223;nahmen zu
+verlangen, dass die zentrale Gegenpartei ihre Clearingbedingungen und damit im Zusammenhang stehenden
+vertraglichen Vereinbarungen &#228;ndert. 
+Sollte die zentrale Gegenpartei dem Verlangen der Aufsichtsbeh&#246;rde nicht nachkommen, so kann die
+Aufsichtsbeh&#246;rde aufgrund von Absatz 3 die zentrale Gegenpartei nach &#167; 16 Absatz 4 anweisen, geeignete Ma&#223;nahmen zu
+ergreifen, die erforderlich und verh&#228;ltnism&#228;&#223;ig sind, um die Sanierungshindernisse zu beseitigen und einen
+Sanierungsplan im Sinne der &#167;&#167; 13, 152b zu schaffen, der eine Sanierung erm&#246;glicht. Dabei steht es im Ermessen 
+der Aufsichtsbeh&#246;rde, welche Ma&#223;nahmen sie in welcher Kombination verlangt. In Betracht kommen
+insbesondere &#196;nderungen der Verlustzuweisungsregeln, z. B. die Aufnahme von Regelungen f&#252;r einen zus&#228;tzlichen
+Barmittelabruf (&#8222;Cash Call&#8220;) oder eine Minderung zu zahlender Gewinne nichtausgefallener Clearingmitglieder
+(&#8222;Variation Margin Gains Haircut&#8220;) sowie eine &#196;nderung derjenigen Regelungen, die den Positionsausgleich der
+zentralen Gegenpartei regeln. 
+Bei gr&#246;&#223;eren systemrelevanten zentralen Gegenparteien ist davon auszugehen, dass die Aufsichtsbeh&#246;rde im
+Rahmen der Billigung von Sanierungspl&#228;nen darauf achtet, dass s&#228;mtliche Sanierungsinstrumente zur Verf&#252;gung
+stehen, die eine Verlustabdeckung erm&#246;glichen. Anderenfalls k&#246;nnen diese Sanierungspl&#228;ne nicht gebilligt werden.
+Zu &#167; 152e
+&#220;ber die Regelungen des Artikels 8 Absatz 9 der Verordnung (EU) Nr. 806/2014 sowie &#167; 40 Absatz 3 hinaus
+benennt &#167; 152e Absatz 1 weitere Anforderungen, denen der Abwicklungsplan der zentralen Gegenpartei gen&#252;gen
+muss. Die Anforderungen beziehen zum einen die Darstellung von Ausfall- und Nichtausfallszenarien mit ein. 
+Zum anderen verlangen die Anforderungen die Darstellung von M&#246;glichkeiten eines diskriminierungsfreien
+Zugangs von Clearingmitgliedern und deren Kunden zu den ihnen zugeordneten Wertpapier- und Geldkonten.
+Weiter ist gefordert, eine Beschreibung der Ma&#223;nahmen zur Erleichterung der &#220;bertragbarkeit von Positionen und
+mit diesen verbundenen Sicherheiten der Clearingmitglieder und deren Kunden auf eine andere zentrale
+Gegenpartei oder ein Br&#252;ckeninstitut. Die Vertragsbeziehungen zwischen Clearingmitglied und seinen Kunden sollen
+dadurch nicht beeintr&#228;chtigt werden.
+&#167; 152e Absatz 2 verpflichtet die Abwicklungsbeh&#246;rde, bei der Abwicklungsplanung auch die Auswirkungen der
+Umsetzung des Abwicklungsplans auf Clearingmitglieder und ihre Kunden zu ber&#252;cksichtigen, da die
+erg&#228;nzenden Anforderungen nach Absatz 1 auch Ma&#223;nahmen mit unmittelbarer Auswirkung auf Clearingmitglieder und 
+deren Kunden umfassen.
+Nach Absatz 3 m&#252;ssen Abwicklungspl&#228;ne nach erstmaliger Erstellung mindestens einmal im Kalenderjahr sowie 
+nach bestimmten &#196;nderungen &#252;berpr&#252;ft werden.
+Zu &#167; 152f
+In Erg&#228;nzung zu Artikel 10 Absatz 11 der Verordnung (EU) Nr. 806/2014 sowie &#167; 59 Absatz 2 bis 8 versetzt
+&#167; 152f die Abwicklungsbeh&#246;rde in die Lage, die Beseitigung von Abwicklungshindernissen zu verlangen, die sie
+bei der Bewertung der Abwicklungsf&#228;higkeit der zentralen Gegenpartei festgestellt hat. 
+Wie bereits im Fall der Feststellung von M&#228;ngeln des Sanierungsplans durch die Aufsichtsbeh&#246;rde kann die
+Abwicklungsbeh&#246;rde bei der Feststellung von Abwicklungshindernissen nach Absatz 1 die &#196;nderung der
+Clearingbedingungen und damit in Zusammenhang stehender oder anderer vertraglicher Vereinbarungen verlangen.
+Kommt das CCP diesem Verlangen nicht nach, kann die Abwicklungsbeh&#246;rde nach &#167; 59 Absatz 4 die Beseitigung
+der Abwicklungshindernisse durch geeignete Ma&#223;nahmen anordnen.
+Nach Absatz 3 hat die Abwicklungsbeh&#246;rde potentielle Auswirkung mit der Deutschen Bundesbank und der
+Aufsichtsbeh&#246;rde abzustimmen, bevor sie eine &#196;nderung nach Absatz 1 verlangt. 
+Ferner ist in Absatz 4 vorgesehen, dass das Bundesministerium der Finanzen selbst oder nach einer &#220;bertragung
+auf diese auch die Abwicklungsbeh&#246;rde erm&#228;chtigt wird, durch Rechtsverordnung n&#228;here Bestimmungen zu
+treffen. F&#252;r die Beseitigung von M&#228;ngeln des Sanierungsplans ist keine zus&#228;tzliche Erm&#228;chtigung f&#252;r eine
+Rechtsverordnung erforderlich, weil der Sanierungsplan von der zentralen Gegenpartei selbst zu erstellen ist.
+Demgegen&#252;ber wird der Abwicklungsplan von der Abwicklungsbeh&#246;rde erstellt. Kommt die Abwicklungsbeh&#246;rde zum
+Schluss, der Abwicklung k&#246;nnten Hindernisse entgegenstehen, muss sie durch unmittelbaren Eingriff von der
+zentralen Gegenpartei die Beseitigung verlangen. Dieses Verlangen wiegt in der Regel schwerer als das Verlangen
+nach &#196;nderung eines durch die zentrale Gegenpartei selbst erstellten Sanierungsplans, weil der Eingriff in die
+Struktur der zentralen Gegenpartei, ihr Gesch&#228;ftsmodell und ihren Gesch&#228;ftsbetrieb m&#246;glich sein muss. Dazu ist
+daher neben der gesetzlichen Erm&#228;chtigung eine die Einzelheiten n&#228;her regelnde Rechtsverordnung angemessen.
+Zu &#167; 152g
+Absatz 1 erweitert die nach Artikel 20 der Verordnung (EU) Nr. 806/2014 oder f&#252;r die Zwecke des &#167; 71
+vorzunehmende Bewertung und dient der Vorbereitung der in diesem Teil aufgef&#252;hrten Abwicklungsinstrumente der
+Vertragsbeendigung, der Minderung zu zahlender Gewinne nichtausgefallener Clearingmitglieder und des
+zus&#228;tzlichen Barmittelabrufs. Ziel ist, den Wert der Verm&#246;genswerte und Verbindlichkeiten der von einem Ausfall
+betroffenen oder bedrohten zentralen Gegenpartei sowie insbesondere die relevanten Verluste und die offenen,
+unausgeglichenen Positionen zu ermitteln. Die Bewertung dient der Beurteilung der in Bezug auf die zentrale
+Gegenpartei zu treffenden angemessenen Abwicklungsma&#223;nahmen. 
+Um eine wirksame Abwicklung zu gew&#228;hrleisten, m&#252;ssen im Bewertungsverfahren so genau wie m&#246;glich
+Verluste und unausgeglichene Positionen ermittelt werden, damit die Verluste zugewiesen, die Wiederherstellung der
+im Clearing erstellten Positionen, also ein ausgeglichenes Buch (Matched Book), vorgenommen und den
+laufenden Zahlungspflichten nachgekommen werden kann. Die Bewertung von Verm&#246;genswerten und
+Verbindlichkeiten muss auf fairen, vorsichtigen und realistischen Annahmen zum Zeitpunkt der Nutzung der
+Abwicklungsinstrumente beruhen. Der Wert der Verbindlichkeiten sollte bei der Bewertung jedoch nicht durch die Finanzlage
+der zentralen Gegenpartei beeinflusst werden.
+Absatz 2 legt zus&#228;tzlich zu den sonstigen Vorgaben von Artikel 20 der Verordnung (EU) Nr. 806/2014 und &#167; 73
+Absatz 2 Satz 2 Bestandteile der Bewertung fest, die im Pr&#252;fbericht zu dokumentieren sind. 
+Zu &#167; 152h
+Absatz 1 erweitert den Kreis der Abwicklungsinstrumente &#252;ber Artikel 22 Absatz 2 der Verordnung (EU)
+Nr. 806/2014 und &#167; 77 Absatz 1 Nummer 1 hinaus f&#252;r zentrale Gegenparteien um die Instrumente der
+Vertragsbeendigung, der Minderung zu zahlender Gewinne nichtausgefallener Clearingmitglieder und des zus&#228;tzlichen
+Barmittelabrufs. Diese Instrumente werden in der Begr&#252;ndung zu &#167;&#167; 152j bis 152l n&#228;her erl&#228;utert und sind
+ebenfalls in dem Verordnungsentwurf zur Sanierung und Abwicklung von zentralen Gegenparteien (Vorschlag &#252;ber
+einen Rahmen f&#252;r die Sanierung und Abwicklung zentraler Gegenparteien und zur &#196;nderung der Verordnungen
+(EU) Nr. 1095/2010, (EU) Nr. 648/2012 und (EU) 2015/2365 in der Fassung der Ratspr&#228;sidentschaft vom
+22.12.2017 sowie des Europ&#228;ischen Parlaments vom 31.01.2018 in den Artikeln 29 bis 31) vorgesehen.
+Hierbei sind weiterhin die allgemeinen Abwicklungsprinzipien zu beachten, wie beispielsweise, dass die Kosten 
+der Abwicklung m&#246;glichst geringgehalten werden (&#167; 68 SAG). Insbesondere sollte sich die Auswahl der
+Abwicklungsinstrumente und die Abwicklungsstrategie am &#8222;No creditor worse off&#8220;-Prinzip (NCWO - Prinzip) orientieren
+(vgl. Artikel 15 Absatz 1 Buchstabe (g) der Verordnung (EU) Nr. 806/2014).
+Absatz 2 Nummern 1 bis 4 legen fest, dass vertragliche Verpflichtungen zu Gunsten der zentralen Gegenpartei
+grunds&#228;tzlich geltend gemacht werden sollen, bevor Abwicklungsinstrumente eingesetzt werden. Hierbei handelt
+es sich insbesondere um Verpflichtungen der Clearingmitglieder, die sich aus den Clearingbedingungen (Rule
+Book) oder damit in Zusammenhang stehenden vertraglichen Vereinbarungen ergeben. Ebenfalls erfasst sind
+beispielsweise Verpflichtungen von Kunden der Clearingmitglieder soweit diese Verpflichtungen unmittelbar
+gegen&#252;ber der zentralen Gegenpartei auf Grund der Clearingbedingungen oder damit in Zusammenhang stehenden
+vertraglichen Vereinbarungen eingegangen wurden.
+Nummer 4 erfasst insbesondere vertragliche Verpflichtungen von Nicht-Clearingmitgliedern, soweit diese als
+finanzielle Unterst&#252;tzung oder Verlust&#252;bernahme im Krisen-, Sanierungs- oder Abwicklungsfall eingegangen
+wurden, beispielsweise eine Patronatserkl&#228;rung.
+Absatz 2 Satz 2 r&#228;umt die M&#246;glichkeit ein, davon Abstand zu nehmen, etwaige vertragliche Verpflichtungen
+teilweise oder vollst&#228;ndig vor dem Einsatz der Abwicklungsinstrumente geltend zu machen, wenn ex ante erkennbar
+ist, dass eine Geltendmachung nicht innerhalb angemessener Frist erfolgversprechend ist. Die Angemessenheit
+der Frist ist dabei von den Umst&#228;nden des Einzelfalls und insbesondere der Abwicklungsstrategie abh&#228;ngig.
+Absatz 3 er&#246;ffnet &#252;ber Absatz 2 Satz 2 hinausgehend auch die M&#246;glichkeit, neben der vollst&#228;ndigen auch von der
+teilweisen Geltendmachung vertraglicher Verpflichtungen gegen&#252;ber der zentralen Gegenpartei vor dem Einsatz 
+von Abwicklungsinstrumenten abzusehen. Dies ist insbesondere der Fall, wenn von der Geltendmachung oder
+dem weiteren Zuwarten erhebliche nachteilige Auswirkungen auf das Finanzsystem oder erhebliche
+Ansteckungsgefahren zu erwarten sind oder wenn die unverz&#252;gliche Durchf&#252;hrung der Abwicklungsinstrumente nach
+Absatz 1 oder Artikel 22 Absatz 2 der Verordnung (EU) Nr. 806/2014 geeigneter sind, um die Abwicklungsziele zu
+erreichen. Auch diese ex ante-Einsch&#228;tzung ist abh&#228;ngig von den Umst&#228;nden des Einzelfalls und insbesondere
+von der gew&#228;hlten Abwicklungsstrategie. Der Ma&#223;stab der letztgenannten Variante ist dabei niedriger anzusetzen
+als die erheblichen Auswirkungen auf das Finanzsystem.
+Grunds&#228;tzlich soll die Abwicklungsbeh&#246;rde bei Eintritt der Abwicklung daf&#252;r Sorge tragen, dass jegliche in den
+Clearingbedingungen und damit in Zusammenhang stehenden vertraglichen Vereinbarungen oder andere Formen 
+der finanziellen Unterst&#252;tzung, einschlie&#223;lich ausstehender Sanierungsma&#223;nahmen, nachgekommen wird.
+Absatz 4 stellt klar, dass vertragliche Verpflichtungen auch nach dem Einsatz von Abwicklungsinstrumenten
+weiterhin geltend gemacht werden k&#246;nnen. Die fehlende Geltendmachung vorab stellt mithin keinen Verzicht dar.
+Eine sp&#228;tere Geltendmachung ist nur bis zum Ablauf des dritten auf den Beginn der Abwicklung folgenden
+Kalenderjahres m&#246;glich. Insoweit kann die Einrede der Verj&#228;hrung nicht erhoben werden. Falls von der sofortigen
+Geltendmachung der vertraglichen Verpflichtungen abgesehen wurde, weil dies zu erheblichen nachteiligen
+Auswirkungen auf das Finanzsystem gef&#252;hrt h&#228;tte, h&#228;ngt die sp&#228;tere Geltendmachung davon ab, dass solche
+Auswirkungen nicht mehr zu erwarten sind.
+Nach Absatz 5 finden die Regelungen zum zus&#228;tzlichen Barmittelabruf und zur Minderung von
+Bewertungsgewinnen auf die Deutsche Bundesbank keine Anwendung, soweit sie Clearingmitglied einer CCP ist und in
+Erf&#252;llung der ihr gesetzlich &#252;bertragenen Aufgaben t&#228;tig wird.
+Zu &#167; 152i
+&#167; 152i legt die Zwecke der Verlustzuweisungsinstrumente innerhalb der Abwicklungsstrategie fest. Die
+Verlustzuweisungsinstrumente der Minderung zu zahlender Gewinne nichtausgefallener Clearingmitglieder und des
+zus&#228;tzlichen Barmittelabrufs dienen der Deckung der ermittelten Verluste der zentralen Gegenpartei, der
+Wiederherstellung der Zahlungsf&#228;higkeit sowie gegebenenfalls der Unterst&#252;tzung des Instruments der
+Unternehmensver&#228;u&#223;erung gem&#228;&#223; Artikel 24 der Verordnung (EU) Nr. 806/2014 oder nach &#167; 107 Absatz 1 Nummer 1
+Buchstabe a.
+Zu &#167; 152j
+Gem&#228;&#223; Absatz 1 wird das Instrument der Vertragsbeendigung eingesetzt, um den Ausgleich der im Clearing
+erstellten Positionen, also ein &#8222;Matched Book&#8220; bzw. ausgeglichenes Buch, wiederherstellen. Damit soll die
+Funktionsf&#228;higkeit der zentralen Gegenpartei gewahrt oder wiederhergestellt werden. Denn auch in der Abwicklung
+kommt es auf den Erhalt der Funktionsf&#228;higkeit der zentralen Gegenpartei als wichtiger Finanzmarktinfrastruktur
+an. Ziel auch der Abwicklung ist die Wiederherstellung einer als Risikomanager funktionierenden zentralen
+Gegenpartei. Dazu ist insbesondere die Wiederherstellung eines ausgeglichenen Buches also die Beendigung der mit
+dem ausgefallenen Clearingmitglied geschlossenen Vertr&#228;ge erforderlich. Dazu m&#252;ssen diese gek&#252;ndigt und
+abgewickelt werden k&#246;nnen.
+Gem&#228;&#223; Absatz 2 kann das Instrument der Vertragsbeendigung, der sogenannte &#8222;Tear-up&#8220;, auf alle
+Verpflichtungen einer in Abwicklung befindlichen CCP aus Vertr&#228;gen, bei der sie Vertragspartei ist, angewendet werden. Dies
+sind insbesondere Vertr&#228;ge mit einem ausgefallenen Clearingmitglied, Vertr&#228;ge der betroffenen Clearingdienste
+und Vertr&#228;ge mit diesen in Verbindung stehenden Diensten oder Anlageklassen.
+Gem&#228;&#223; Absatz 3 sind betroffene Clearingmitglieder und deren Kunden zu informieren. Die Vertragsbeendigung
+kann sich lediglich auf einen Teil oder aber auf s&#228;mtliche genannten Vertr&#228;ge erstrecken.
+Die Abs&#228;tze 4 bis 6 legen fest, dass vor einem &#8222;Tear-Up&#8220; die zentrale Gegenpartei die Vertr&#228;ge und die Best&#228;nde
+an Wertpapier- und Barsicherheiten jedes Clearingmitglieds bewerten und aktualisieren muss. Dabei ist die
+Bewertung anhand eines Marktpreises vorzunehmen, der auf Grundlage der eigenen Regeln und Vereinbarungen der
+zentralen Gegenpartei oder einer anderen angemessenen Preisfindungsmethode zu ermitteln ist, die durch die
+Abwicklungsbeh&#246;rde festgesetzt wird. Dies erm&#246;glicht der Abwicklungsbeh&#246;rde auf eine anerkannte Methode
+zur Preisfindung zur&#252;ck zu greifen oder eine in der konkreten Situation angemessen Preisfindungsmethode
+anzuwenden.
+Gegebenenfalls bestehende Verpflichtungen zu Nachschusszahlungen der Clearingmitglieder m&#252;ssen
+eingefordert werden. Sollte ein Clearingmitglied die geforderten Nachschusszahlungen nicht unverz&#252;glich nach der ersten
+Aufforderung erbringen, kann dies die Feststellung des Ausfalls des Clearingmitglieds zur Folge haben. Die
+vorfinanzierten Finanzmittel des Clearingmitglieds, also die &#8222;Initial Margin&#8220;, der Beitrag zum Ausfallfonds sowie
+die zugeordneten Eigenmittel der CCP (Skin-in-the-game), k&#246;nnen dann im Einklang mit Artikel 45 der
+Verordnung (EU) Nr. 648/2012 verwendet werden.
+Nach Beendigung von Vertr&#228;gen kann gem&#228;&#223; Absatz 7 das Clearing von Vertr&#228;gen derselben Art vor&#252;bergehend
+untersagt werden. Dies kann beispielsweise aufgrund der wirtschaftlichen Situation der zentralen Gegenpartei zur
+Umsetzung der Abwicklungsstrategie erforderlich sein. 
+Zu &#167; 152k
+Nach Absatz 1 darf das Instrument der Minderung zu zahlender Gewinne nichtausgefallener Clearingmitglieder,
+der sogenannte &#8222;Variation Margin Gains Haircut&#8220; nur zur Deckung von Verlusten infolge eines Ausfall-
+Ereignisses, also sogenannten &#8222;Default Losses&#8220;, eingesetzt werden. 
+Gem&#228;&#223; Absatz 2 kann die Abwicklungsbeh&#246;rde das Instrument der &#8222;Variation Margin Gains Haircut&#8220;, einsetzen.
+Die Minderung ist in ihrer maximalen H&#246;he grunds&#228;tzlich begrenzt auf den doppelten Beitrag des
+nichtausgefallenen Clearingmitglieds zum Ausfallfonds der zentralen Gegenpartei. 
+Gem&#228;&#223; Absatz 3 muss die Minderung ferner durch ein angemessenes und nachvollziehbares Verfahren festgelegt
+werden, bei dessen Anwendung die Verh&#228;ltnism&#228;&#223;igkeit des Instruments sicher zu stellen ist. Bei den Erw&#228;gungen
+zu ber&#252;cksichtigen sind insbesondere die Erreichung der Abwicklungsziele, die Erhaltung oder Wiederherstellung
+der kritischen Funktionen der zentralen Gegenpartei, die Interessen der betroffenen Clearingmitglieder und deren
+Kunden sowie die Vermeidung des Einsatzes von Steuergeldern bei der Abwicklung der zentralen Gegenpartei. 
+Absatz 4 stellt klar, dass Anspr&#252;che der nichtausgefallenen Clearingmitglieder nach der Minderung in Bezug auf
+den geminderten Betrag nicht mehr bestehen.
+Absatz 5 stellt klar, dass bei einer teilweisen Minderung die Pflicht der zentralen Gegenpartei, noch ausstehende
+Restbetr&#228;ge zu zahlen, fortbesteht. 
+Zu &#167; 152l
+Aufgrund von Absatz 1 kann die Abwicklungsbeh&#246;rde einen zus&#228;tzlichen Barmittelabruf, also einen zus&#228;tzlichen
+&#8222;Cash Call&#8220;, festlegen. Dieser darf f&#252;r die nichtausgefallenen Clearingmitglieder maximal bis zu der H&#246;he des
+jeweiligen Beitrags zum Ausfallfonds festgelegt werden. Das Instrument des zus&#228;tzlichen Barmittelabrufs darf
+nur zur Deckung von Verlusten infolge eines Ausfallereignisses, also sogenannten &#8222;Default Losses&#8220;, eingesetzt
+werden.
+Bei der Anwendung des zus&#228;tzlichen &#8222;Cash Calls&#8220; ist die Verh&#228;ltnism&#228;&#223;igkeit des Instruments sicher zu stellen.
+Einzubeziehen in die Erw&#228;gungen sind insbesondere die Erreichung der Abwicklungsziele, die Erhaltung oder
+Wiederherstellung der kritischen Funktionen der zentralen Gegenpartei, die Interessen der betroffenen
+Clearingmitglieder und die, soweit m&#246;glich, Vermeidung des Einsatzes von Steuergeldern bei der Abwicklung der
+zentralen Gegenpartei.
+Sollte ein Clearingmitglied den geforderten Barmittelabruf nicht unverz&#252;glich nach der ersten Anforderung
+erbringen, kann die Abwicklungsbeh&#246;rde gem&#228;&#223; Absatz 4 verlangen, dass die zentrale Gegenpartei den Ausfall des
+nichtausgefallenen Clearingmitglieds feststellt und dessen vorfinanzierte Finanzmittel, im Einklang mit Artikel 45
+der Verordnung (EU) Nr. 648/2012 verwendet werden k&#246;nnen.
+Zu &#167; 152m
+F&#252;r den Fall, dass sich aus der Anwendung der Instrumente nach &#167;&#167; 152j bis 152l Ausgleichsanspr&#252;che von
+Anteilseignern, Gl&#228;ubigern oder Clearingmitgliedern aufgrund der Verletzung des NCWO-Prinzips (&#167; 68 Absatz 1
+Satz 1) ergeben, k&#246;nnen diese nicht gegen den Restrukturierungsfonds oder den einheitlichen Abwicklungsfonds
+gerichtet werden, da dies von der Zweckbindung der jeweiligen Fonds nicht gedeckt w&#228;re. Gleiches gilt, wenn
+Ausgleichsanspr&#252;che bei Anwendung der in &#167; 77 Absatz 1 Nummer 1 genannten Abwicklungsinstrumenten in 
+Bezug auf eine zentrale Gegenpartei im Sinne des &#167; 152a Absatz 2 Satz 2 entstehen. Derartige Anspr&#252;che sind
+daher gegen die zentrale Gegenpartei, das Br&#252;ckeninstitut oder den Erwerber im Rahmen einer
+Unternehmensver&#228;u&#223;erung zu richten, wobei diese gesamtschuldnerisch haften (Absatz 2). Dies dient der Klarstellung f&#252;r die 
+F&#228;lle, in denen ein Erwerber, ein Br&#252;ckeninstitut oder die zentrale Gegenpartei nicht (mehr) verf&#252;gbar sind. 
+Derartige Anspr&#252;che k&#246;nnen erf&#252;llt werden durch Beteiligung an Gewinnen, Kapitalinstrumenten oder
+Verbindlichkeiten der CCP oder des Br&#252;ckeninstituts (Absatz 3). Der zentralen Gegenpartei oder dem Br&#252;ckeninstitut
+kann nach Absatz 4 aufgegeben werden, Kapitalinstrumente oder Verbindlichkeiten zur begeben, um die
+Betroffenen zu entsch&#228;digen. Dabei ist der Ausgleich wertm&#228;&#223;ig so zu berechnen, dass die Betroffenen wirtschaftlich 
+so gestellt werden, als ob sie eine Entsch&#228;digungszahlung des Restrukturierungsfonds oder des einheitlichen
+Abwicklungsmechanismus erhalten h&#228;tten. 
+Zu &#167; 152n
+Widerspruchsverfahren gegen Abwicklungsma&#223;nahmen sind nicht statthaft. Ferner haben Anfechtungsklagen
+gegen entsprechende Verwaltungsakte keine aufschiebende Wirkung. Diese Einschr&#228;nkungen des Rechtsschutzes
+sind auf Grund der entgegenstehenden zwingenden &#246;ffentlichen Interessen im Rahmen der Abwicklung einer
+zentralen Gegenpartei geboten. Abwicklungsma&#223;nahmen werden insbesondere zur Aufrechterhaltung der
+Finanzstabilit&#228;t und der kritischen Funktionen ergriffen und m&#252;ssen in k&#252;rzester Zeit getroffen werden und unterliegen
+daher in besonderem Ausma&#223; dem Gebot der Dringlichkeit. 
+Zu Nummer 4
+Redaktionelle Anpassung.
+Zu Artikel 2 (&#196;nderung des Wertpapierhandelsgesetzes)
+Zu Nummer 1 (Inhalts&#252;bersicht)
+Die Inhalts&#252;bersicht wird an den nachfolgend ge&#228;nderten &#167; 31 WpHG angepasst. 
+Zu Nummer 2 (&#167; 1)
+Die &#196;nderungen ergeben sich aus den &#196;nderungen der Verordnung (EU) Nr. 2012/648 (EMIR) durch die
+Verordnung (EU) Nr. 2019/834 (EMIR-REFIT). Der Verweis auf EMIR in &#167; 1 wird auf den Stand nach EMIR
+REFIT angepasst.
+Zu Nummer 3 (&#167; 2)
+Zu Buchstabe a
+Es wird ein Verweisfehler korrigiert. Die Pflicht zur Meldung von Transaktionsdaten, auf die verwiesen werden
+soll, ergibt sich nicht mehr aus dem Wertpapierhandelsgesetz (WpHG), sondern aus Artikel 26 der Verordnung
+(EU) Nr. 600/2014 (MiFIR).
+Zu Buchstabe b
+Die Definitionsnorm des &#167; 2 Absatz 15 Nummer 1 WpHG ist von Bedeutung f&#252;r die Anwendung von &#167; 26
+Absatz 1 und 2 WpHG (&#220;bermittlung von Insiderinformationen und von Eigengesch&#228;ften) auf MTF-Emittenten. Die
+R&#252;ckausnahme der Definitionsnorm mit Bezug auf die Geltung der Anforderungen des Artikels 21 der Richtlinie
+2004/109/EG (Transparenzrichtlinie &#8211; TRL) wird gestrichen. Der Artikel nimmt nur Bezug auf Emittenten bzw.
+Zulassungsantragsteller an einem organisierten Markt. Eine Notierung von Finanzinstrumenten eines Emittenten
+an einem organisierten Markt f&#252;hrt dazu, dass dieser Emittent kein MTF-Emittent ist. Demzufolge wird eine
+ausschlie&#223;liche Zust&#228;ndigkeit der betreffenden Aufsichtsbeh&#246;rde in einem anderen EWR-Staat durch die dortige
+Zulassung am organisierten Markt begr&#252;ndet.
+Zu Nummer 4 (&#167; 3)
+Es wird ein Verweisfehler korrigiert. Die Pflicht zur Meldung von Transaktionsdaten, auf die verwiesen werden
+soll, ergibt sich nicht mehr aus dem Wertpapierhandelsgesetz (WpHG), sondern aus Artikel 26 der Verordnung
+(EU) Nr. 600/2014 [MiFIR].
+Zu Nummer 5 (&#167; 6)
+Zu Buchstabe a
+Eine Warnung durch die BaFin soll auch zum Vollzug der in &#167; 1 Absatz 1 Nummer 8 WpHG aufgef&#252;hrten
+Rechtsakte erfolgen k&#246;nnen, deswegen wird die bisher enthaltene missverst&#228;ndliche Beschr&#228;nkung auf die Erf&#252;llung der
+Aufgaben der BaFin nach dem WpHG gestrichen.
+Zu Buchstabe b
+Ein Verweisfehler wird redaktionell korrigiert.
+Zu Buchstabe c
+Der Wortlaut der Norm wird an den im Wortlaut weiteren &#167; 4 Absatz 3 des Finanzdienstleistungsaufsichtsgesetzes
+(FinDAG) angepasst. Demnach kann sich die Bundesanstalt bei der Durchf&#252;hrung ihrer Aufgaben anderer
+Personen und Einrichtungen bedienen. Die bisherige unbeabsichtigte Beschr&#228;nkung auf die blo&#223;e Befugnis zum Einsatz
+von Wirtschaftspr&#252;fern oder Sachverst&#228;ndigen bei der Durchf&#252;hrung der Aufgaben der BaFin nach dem WpHG
+wird beseitigt.
+Zu Nummer 6 (&#167; 10)
+Zu Buchstabe a
+Ein Verweisfehler wird redaktionell korrigiert.
+Zu Buchstabe b
+Ein Verweisfehler wird redaktionell korrigiert.
+Zu Nummer 7 (&#167; 12)
+Ein Verweisfehler wird redaktionell korrigiert. Der bisherige Verweis war zu weit und wird auf die sinnvoll in
+Bezug zu nehmenden Normen des &#167; 6 beschr&#228;nkt.
+Zu Nummer 8 (&#167; 13)
+Die Festlegung von Positionslimits durch die BaFin nach &#167; 54 Absatz 1 WpHG soll k&#252;nftig sofort vollziehbar
+sein. Es besteht ein &#246;ffentliches Interesse daran, dass ein festgesetztes Positionslimit f&#252;r alle betroffenen
+Marktteilnehmer gilt und es nicht durch die blo&#223;e Einlegung eines Widerspruchs gegen die Allgemeinverf&#252;gung
+vor&#252;bergehend au&#223;er Kraft gesetzt werden kann. Dies wird auch vom EU-Richtliniengeber so vorausgesetzt, vgl. 
+Artikel 57 Absatz 9 MiFID II.
+Zu Nummer 9 (&#167; 18)
+Die gegenw&#228;rtige Fassung der Norm &#252;ber die Zusammenarbeit nach der Verordnung (EU) Nr. 596/2014 (MAR
+&#8211; Market Abuse Regulation) ist zu eng gefasst. Die Pflicht zur Zusammenarbeit ist offen formuliert: &#8222;Die
+zust&#228;ndigen Beh&#246;rden arbeiten in dem f&#252;r die Zwecke dieser Verordnung erforderlichen Umfang (&#8230;) zusammen &#8230;&#8220;
+(Artikel 25 Absatz 1 Unterabsatz 1 Satz 1 MAR). Dies umfasst auch Sachverhalte jenseits der &#220;berwachung der
+Normeinhaltung, also z.B. Sanktionierung oder nachgelagerte Aufsichtsma&#223;nahmen. 
+Zu Nummer 10 (&#167; 24)
+Es wird klargestellt, dass der Insolvenzverwalter den Schuldner auch bei allen in &#167; 1 Absatz 1 Nummer 8 WpHG
+in Bezug genommenen europarechtlichen kapitalmarktaufsichtsrechtlichen Pflichten zu unterst&#252;tzen hat.
+Zu Nummer 11 (&#167; 28)
+Die &#196;nderung er&#246;ffnet zuk&#252;nftig die M&#246;glichkeit, die Anzeigen der Besch&#228;ftigten auch elektronisch, z.B. &#252;ber
+ein internes Meldesystem, entgegenzunehmen.
+Zu Nummer 12 (&#167; 30)
+Die &#196;nderungen ergeben sich aus den &#196;nderungen der Verordnung (EU) Nr. 2012/648 (EMIR) durch die EMIR-
+REFIT.
+Zu Nummer 13 (&#167; 31)
+Der k&#252;nftige Wegfall der Pflicht, eine Bescheinigung eines Wirtschaftspr&#252;fers vorzulegen, wenn die
+Clearingschwellen unterschritten werden, vereinfacht das Verfahren f&#252;r die bisher davon betroffenen
+nichtfinanziellen Gegenparteien. Eine Bescheinigung durch einen Wirtschaftspr&#252;fer, wie sie bislang f&#252;r
+nichtfinanzielle Gegenparteien vorgeschrieben war, ist aufgrund der Probleme, die eine solche
+Bescheinigungspflicht insbesondere bei grenz&#252;berschreitenden Unternehmensgruppen schafft, nicht sinnvoll und
+wird durch eine direkte Nachweiserbringung gegen&#252;ber der BaFin ersetzt.
+Nunmehr k&#246;nnen nach EMIR REFIT sowohl finanzielle als auch nichtfinanzielle Gegenparteien durch das
+&#220;berschreiten der relevanten Schwellenwerte f&#252;r OTC-Derivate clearingpflichtig werden. Beide Arten von
+Gegenparteien haben folgerichtig auch die M&#246;glichkeit, den Wegfall der Clearingpflicht durch das Unterschreiten
+der relevanten Schwellenwerte anzuzeigen. Aufgrund der Bedeutung dieser Erkl&#228;rung f&#252;r den Umfang, in dem
+die Gegenpartei die Anforderungen der EMIR zu erf&#252;llen hat, muss gesetzliche Vorsorge f&#252;r den Fall getroffen 
+werden, dass die unverz&#252;gliche Unterrichtung und die Nachweise durch die betroffenen Unternehmen k&#252;nftig
+nicht in einer durch die Bundesanstalt f&#252;r Finanzdienstleistungsaufsicht (BaFin) als zust&#228;ndiger Beh&#246;rde
+nachvollziehbaren Art und Weise erbracht werden sollten. Das Bundesministerium der Finanzen (BMF) erh&#228;lt
+deswegen die Befugnis, das Unterrichtungs- und Nachweisverfahren bei aufsichtlichem Bedarf der BaFin durch
+nationale Rechtsverordnung europarechtskonform n&#228;her auszugestalten. Diese Befugnis kann vom BMF auf die 
+BaFin subdelegiert werden. 
+Zu Nummer 14 (&#167; 32)
+Folge&#228;nderung zu Nummer 13.
+Zu Nummer 15 (&#167; 53)
+Es handelt sich um eine redaktionelle &#196;nderung. &#167; 15 Absatz 5a des B&#246;rsengesetzes (B&#246;rsG) wurde durch
+Artikel 8 Nummer 13 Buchstabe e des Zweiten Gesetz zur Novellierung von Finanzmarktvorschriften auf Grund
+europ&#228;ischer Rechtsakte (Zweites Finanzmarktnovellierungsgesetz &#8211; 2. FiMaNoG) zu &#167; 15 Absatz 7 B&#246;rsG.
+Zu Nummer 16 (&#167; 83 )
+Ein Verweisfehler wird redaktionell korrigiert.
+Zu Nummer 17 (&#167; 87)
+Ein Verweisfehler wird redaktionell korrigiert.
+Zu Nummer 18 (&#167; 102)
+Die Regelung wird an die neuen Rahmenbedingungen nach Umsetzung der MiFID II angepasst. Eine Kollision
+der Erlaubnispflichten nach dem Kreditwesengesetz (KWG) und WpHG wird beseitigt. Eine KWG-
+Erlaubnispflicht ist vorrangig.
+Zu Nummer 19 (&#167; 104)
+Der Katalog der Aufhebungsgr&#252;nde f&#252;r die Erlaubnis nach &#167; 102 WpHG wird um die in &#167; 1 Absatz 1 Nummer 8 
+WpHG enthaltenen europ&#228;ischen Rechtsakte erg&#228;nzt. Damit wird dem Umstand Rechnung getragen, dass seit
+Umsetzung der MiFID II sowie der MAR wesentliche Vorschriften f&#252;r einen Handelsplatz in europ&#228;ischen
+Rechtsvorschriften enthalten sind. 
+Zu Nummer 20 (&#167; 117)
+Die Regelung stellt einen Gleichlauf zu &#167; 115 Absatz 1 Satz 1 her. Danach ist das Unternehmen verpflichtet, einen 
+Halbjahresfinanzbericht zu erstellen und der &#214;ffentlichkeit zur Verf&#252;gung zu stellen. &#167; 117 Nummer 2 Satz 1
+erg&#228;nzt diese Vorgabe lediglich f&#252;r den Fall, dass ein Mutterunternehmen verpflichtet ist, einen Konzernabschluss
+und einen Konzernlagebericht aufzustellen.
+Zu Nummer 21 (&#167; 120)
+Zu Buchstabe a
+Zu Doppelbuchstabe aa
+Die Ordnungswidrigkeitsvorschriften werden an die &#196;nderungen der EMIR REFIT angepasst. Die bisher in &#167; 31
+Absatz 2 WpHG enthaltene Pflicht findet sich k&#252;nftig unmittelbar in der EMIR, weswegen der &#167; 31 Absatz 2 
+WpHG betreffende Bu&#223;geldtatbestand aufgehoben wird. 
+Zu Doppelbuchstabe bb
+Der fehlerhafte Verweis wird redaktionell korrigiert. Mit dem neuen Wortlaut wird zugleich eine unterlassene
+oder fehlerhafte &#196;nderungsanzeige sanktioniert.
+Zu Buchstabe b
+Zu Doppelbuchstabe aa
+Der statische Verweis auf EMIR wird dazu aktualisiert. 
+Zu Doppelbuchstabe bb
+Es wird ein neuer Bu&#223;geldtatbestand zur Sanktionierung von Verst&#246;&#223;en gegen den neuen Artikel 4a Absatz 1
+Unterabsatz 2 Buchstabe a EMIR eingef&#252;hrt. 
+Zu Doppelbuchstabe cc
+Es wird ein neuer Bu&#223;geldtatbestand zur Sanktionierung von Verst&#246;&#223;en gegen den neuen Artikel 10 Absatz 1
+Unterabsatz 2 Buchstabe a EMIR eingef&#252;hrt. 
+Zu Nummer 22 (&#167; 129)
+Die Umlageabrechnung des ehemaligen Bundesaufsichtsamts f&#252;r den Wertpapierhandel (BAWe), einer der
+Vorg&#228;ngerbeh&#246;rden der BaFin, ist abgeschlossen. Die &#220;bergangsvorschrift hat damit keinen Anwendungsbereich
+mehr und kann gestrichen werden.
+Zu Artikel 3 (&#196;nderung des Wertpapiererwerbs- und &#220;bernahmegesetzes)
+Die &#196;nderung von &#167; 10 dient der Harmonisierung des Wp&#220;G mit der MAR. Es wird klargestellt, dass eine
+Doppelmeldung nach beiden Rechtsregimen nur dann entfallen kann, wenn im Rahmen der Wp&#220;G-Mitteilung die
+durch Artikel 2 Absatz 1 der Durchf&#252;hrungsverordnung (EU) 2016/1055 konkretisierten Vorgaben der MAR
+beachtet werden.
+Zu Artikel 4 (&#196;nderung des Kreditwesengesetzes)
+Zu Nummer 1 (&#167; 2)
+Zu Buchstabe a
+Die Neufassung dient der Korrektur einer fehlerhaften Umsetzung von Artikel 2 Absatz 1 Buchstabe j Ziffer ii
+der Richtlinie 2014/65/EU durch das Zweite Gesetz zur Novellierung von Finanzmarktvorschriften auf Grund
+europ&#228;ischer Rechtsakte vom 23. Juni 2017 (BGBl. I 2017 S. 1693) im Kreditwesengesetz. 
+Gem&#228;&#223; Artikel 2 Absatz 1 Buchstabe j Ziffer ii der Richtlinie 2014/65/EU kann nur der Eigenhandel in Form des
+Hochfrequenzhandels gem&#228;&#223; &#167; 1 Absatz 1a Satz 2 Nummer 4 Buchstabe d nicht neben dem Betreiben von
+Wertpapierdienstleistungen als Nebent&#228;tigkeit erbracht werden. 
+Zu Buchstabe b
+Die Neufassung dient der weiteren Korrektur der fehlerhaften Umsetzung von Artikel 2 Absatz 1 Buchstabe j
+Ziffer ii der Richtlinie 2014/65/EU durch das das Zweite Gesetz zur Novellierung von Finanzmarktvorschriften 
+auf Grund europ&#228;ischer Rechtsakte vom 23. Juni 2017 (BGBl. I 2017 S. 1693). In Artikel 2 Absatz 1 Buchstabe j
+Ziffer ii der Richtlinie 2014/65/EU wird nicht die Erbringung des Eigenhandels als Dienstleistung gem&#228;&#223; &#167; 1
+Absatz 1a Satz 2 Nummer 4 Buchstabe c von der M&#246;glichkeit der Erbringung als Nebent&#228;tigkeit ausgeschlossen.
+Zu Nummer 2 (&#167; 29)
+Die &#196;nderungen ergeben sich aus den &#196;nderungen der Verordnung (EU) Nr. 2012/648 (EMIR) durch die
+Verordnung (EU) Nr. 2019/834 (EMIR-REFIT). Der Verweis auf EMIR wird auf den Stand nach EMIR REFIT
+angepasst.
+Zu Nummer 3 (&#167; 32)
+Zu Buchstabe a
+Mit der Erg&#228;nzung wird klargestellt, dass sich die Erlaubnispflicht f&#252;r das Eigengesch&#228;ft nach Satz 1 nur auf die
+Gesch&#228;fte erstreckt, die von einem Institut betrieben werden, dem eine Erlaubnis nach &#167; 32 Absatz 1 KWG erteilt
+wurde. Sofern aus Drittstaaten grenz&#252;berschreitend das Eigengesch&#228;ft betrieben wird, ohne dass weiteres
+Gesch&#228;ft betrieben wird, f&#252;r das eine Erlaubnis nach &#167; 32 Absatz 1 KWG erteilt wurde, besteht kein
+Aufsichtsbedarf. Dies gilt auch dann, wenn das Gesch&#228;ft auf Grundlage einer Freistellung nach &#167; 2 Absatz 5 Satz 1 KWG
+betrieben wird, weil das Unternehmen wegen seiner Aufsicht durch die im Herkunftsstaat zust&#228;ndige Beh&#246;rde
+insoweit nicht zus&#228;tzlich der Aufsicht durch die Bundesanstalt bedarf. Das Eigengesch&#228;ft enth&#228;lt im Gegensatz
+zum Eigenhandel kein Dienstleistungselement. Daher wird das grenz&#252;berschreitend aus einem Drittstaat ins
+Inland betriebene Eigengesch&#228;ft nicht im Sinne einer aktiv angebotenen Dienstleistung betrieben; das Eigengesch&#228;ft
+hat also letztlich keine Zielrichtung im Inland. Das insbesondere zwischen Banken auch grenz&#252;berschreitend
+betriebene Eigengesch&#228;ft (Interbankeneigengesch&#228;ft) tr&#228;gt zur gegenseitigen Risikoabsicherung und
+Liquidit&#228;tsversorgung der Banken untereinander bei, was nicht eingeschr&#228;nkt werden soll.
+Zu Buchstabe b
+Es handelt sich um eine Folge&#228;nderung zu Buchstabe a. Mit der Erg&#228;nzung wird klargestellt, dass die
+Erlaubnispflicht f&#252;r das Eigengesch&#228;ft in den F&#228;llen von Satz 2 bis 4 grunds&#228;tzlich auch f&#252;r Unternehmen mit Sitz in
+Drittstaaten gilt, und zwar unabh&#228;ngig davon, ob Bankgesch&#228;fte betrieben oder bestimmte Finanzdienstleistungen
+erbracht werden, und &#8211; anders als im Fall des Satz 1 &#8211; auch unabh&#228;ngig davon, ob eine Erlaubnis nach &#167; 32 Absatz 1
+KWG erteilt wurde. 
+Zu Buchstabe c
+Vorbehaltlich eines Beschlusses der Europ&#228;ischen Kommission &#252;ber die Gleichwertigkeit des Rechts- und
+Aufsichtsrahmens eines Drittstaats mit dem Rechts- und Aufsichtsrahmen der Union nach Artikel 47 Absatz 1 der
+Verordnung (EU) Nr. 600/2014 (MiFIR) und einer Entscheidung der Europ&#228;ischen Wertpapier- und
+Marktaufsichtsbeh&#246;rde (ESMA) zur Aufnahme von Unternehmen aus Drittstaaten in das Register nach Artikel 48 Satz 1
+MiFIR, k&#246;nnen die Mitgliedstaaten Drittstaatenunternehmen nach Artikel 46 Absatz 4 MiFIR gestatten,
+Wertpapierdienstleistungen f&#252;r geeignete Gegenparteien und professionelle Kunden zu erbringen.
+Mit der Erg&#228;nzung wird klargestellt, dass Unternehmen aus Drittstaaten bis zu ihrer Aufnahme in das ESMA-
+Register f&#252;r Eigengesch&#228;ft, das sie als Mitglied einer B&#246;rse oder Teilnehmer eines Handelsplatzes im Sinne der
+Richtlinie 2014/65/EU (MiFID) betreiben, nicht der Erlaubnispflicht nach &#167; 32 Absatz 1a Satz 2 KWG
+unterliegen. Anders als beim au&#223;erhalb von B&#246;rsen/Handelspl&#228;tzen betriebenen Eigengesch&#228;ft mit Warenderivaten, 
+Emissionszertifikaten oder Derivaten auf Emissionszertifikate und auch anders als beim direkten elektronischen
+Zugang sind B&#246;rsenmitglieder bzw. Teilnehmer an einem beaufsichtigten Handelsplatz einem
+Zulassungsverfahren und durch die B&#246;rse bzw. den Handelsplatz kontrollierten Handelsregeln unterworfen. Diese Anforderungen
+unterliegen der B&#246;rsenaufsicht bzw. der Aufsicht der Bundesanstalt &#252;ber den Handelsplatz, unterfallen damit also
+mittelbar der staatlichen Kontrolle und Aufsicht. Dies rechtfertigt es, bei Unternehmen, die als Mitglied einer
+B&#246;rse oder Handelsteilnehmer an einem Handelsplatz im Sinne der MiFID Eigengesch&#228;ft betreiben, bis zu einer
+EU-weit geltenden Zugangsregelung von einer gesonderten Beaufsichtigung durch die Bundesanstalt abzusehen.
+Zu Artikel 5 (&#196;nderung des Kapitalanlagegesetzbuchs)
+Zu Nummer 1
+Die &#196;nderung ergibt sich aus den &#196;nderungen der der Verordnung (EU) Nr. 2012/648 (EMIR) durch die
+Verordnung (EU) Nr. 2019/834 (EMIR-REFIT)in &#167; 38 Absatz 3 Satz 2 KAGB wird auf den Stand der EMIR REFIT
+angepasst.
+Zu Nummer 2
+Die &#196;nderung ergibt sich aus den &#196;nderungen der EMIR durch die EMIR REFIT. Der Verweis auf EMIR in 
+&#167; 121 Absatz 3 Satz 1 KAGB wird auf den Stand der EMIR REFIT angepasst.
+Zu Nummer 3
+Die &#196;nderung ergibt sich aus den &#196;nderungen der EMIR durch die EMIR REFIT. Der Verweis auf EMIR in 
+&#167; 136 Absatz 3 Satz 2 KAGB wird auf den Stand der EMIR REFIT angepasst.
+Zu Artikel 6 (&#196;nderung des Versicherungsaufsichtsgesetzes)
+Zu Nummer 1 (&#167; 35)
+Die Erg&#228;nzung stellt sicher, dass die Jahresabschlusspr&#252;fer auch pr&#252;fen, ob das Unternehmen seinen
+Verpflichtungen nachkommt, die durch Artikel 4a der Verordnung (EU) Nr. 648/2012 begr&#252;ndet werden.
+Zu Nummer 2 (&#167; 83)
+Die &#196;nderung dient der Sicherstellung einheitlicher Bedingungen f&#252;r die Berechnung der
+versicherungstechnischen R&#252;ckstellungen. Unternehmen sollen die Volatilit&#228;tsanpassung immer nur dann anwenden k&#246;nnen, wenn
+die EU-Kommission die erforderlichen technischen Informationen (&#167; 83 Absatz 1) ver&#246;ffentlicht hat. Ist dies auch
+nur zeitweilig nicht der Fall, ist die Berechnung des besten Sch&#228;tzwertes gem&#228;&#223; &#167; 77 Absatz 5 ohne
+Volatilit&#228;tsanpassung auf die ma&#223;gebliche risikofreie Zinskurve vorzunehmen. Durch die Streichung des &#167; 83 Absatz 3 VAG
+wird ein Widerspruch zu Artikel 77e (3) SII-RL beseitigt. 
+Zu Artikel 7 (&#196;nderung der Gegenpartei-Pr&#252;fbescheinigungsverordnung)
+Zu Nummer 1 (&#167; 1)
+Der Verweis auf die Verordnung (EU) Nr. 2012/648 (EMIR) wird aus redaktionellen Gr&#252;nden aktualisiert und
+dynamisiert. Die &#196;nderung steht in Sachzusammenhang mit der entsprechenden &#196;nderung der &#167;&#167; 31, 120
+Absatz 7 WpHG.
+Zu Nummer 2 (&#167; 3)
+Zu Buchstabe a
+&#167; 3 Absatz 3 Nummer 1 wird an den nun in der deutschen Version der EMIR verwendeten Begriff &#8222;unterrichten&#8220;
+sowie als Folge&#228;nderung an die entsprechende &#196;nderung in &#167; 31 WpHG angepasst und der Verweis auf EMIR
+wird aktualisiert.
+Zu Buchstabe b
+&#167; 3 Absatz 3 Nummer 2 wird an den nun in der deutschen Version der EMIR verwendeten Begriff &#8222;unterrichten&#8220;
+angepasst, der Verweis EMIR wird aktualisiert und eine Folge&#228;nderung zur Neufassung des &#167; 31 WpHG wird
+vorgenommen. 
+&#167; 3 Absatz 3 Nummer 3 wird an die &#196;nderung des &#167; 31 WpHG angepasst.
+Zu Buchstabe c
+Die bisher in &#167; 31 Absatz 2 WpHG enthaltene Meldepflicht ist entfallen, weswegen &#167; 3 Absatz 3 Nummer 4
+gestrichen werden kann.
+Zu Buchstabe d
+Folge&#228;nderung zu Buchstabe c. 
+Zu Artikel 8 (&#196;nderung der Pr&#252;fungsberichtsverordnung)
+Die &#196;nderungen ergeben sich aus den &#196;nderungen der Verordnung (EU) Nr. 2012/648 (EMIR) durch die
+Verordnung (EU) Nr. 2019/834 (EMIR-REFIT). Der Verweis auf EMIR in &#167; 14a Absatz 1 Satz 1 wird auf den Stand 
+nach EMIR REFIT angepasst und der Verweis auf die nach &#167; 31 Satz 1 WpHG zu erlassende Rechtsverordnung
+wird aufgenommen.
+Zu Artikel 9 (&#196;nderung der Verordnung zur &#220;bertragung von Befugnissen zum Erlass von
+Rechtsverordnungen auf die Bundesanstalt f&#252;r Finanzdienstleistungsaufsicht)
+Die in &#167; 31 Satz 1 WpHG eingef&#252;hrte Erm&#228;chtigung des BMF zum Erlass einer Rechtsverordnung wird gem&#228;&#223;
+&#167; 31 Satz 2 WpHG auf die BaFin subdelegiert. 
+Zu Artikel 10 (&#196;nderung der Kapitalanlage-Pr&#252;fungsberichte-Verordnung)
+Die &#196;nderung ber&#252;cksichtigt die mit Artikel 4a EMIR REFIT neu eingef&#252;hrte Unterrichtungspflicht. Zudem wird
+der Verweis auf die nach &#167; 31 Satz 1 WpHG zu erlassende Rechtsverordnung aufgenommen.
+Zu Artikel 11 (&#196;nderung der Pr&#252;fungsberichteverordnung)
+Es handelt sich um eine Folge&#228;nderung zu Artikel 6 Nummer 1. Im Zusammenhang mit der Erweiterung der
+Pr&#252;fungspflichten nach &#167; 35 Absatz 1 Nummer 3 VAG werden die inhaltlichen Anforderungen in Absatz 2 und
+2a spezifiziert, die der Pr&#252;fer bei der Berichterstattung &#252;ber das Ergebnis seiner Pr&#252;fung einzuhalten hat.
+Zu Artikel 12 (Inkrafttreten)
+Das Gesetz tritt am Tag nach der Verk&#252;ndung in Kraft. 
+Die EMIR REFIT ist bereits im Amtsblatt der Europ&#228;ischen Union verk&#252;ndet worden und 20 Tage nach ihrer
+Verk&#252;ndung in Kraft getreten. Deshalb treten die vorgesehenen Anpassungen nationaler Rechtsvorschriften am
+Tag nach ihrer Verk&#252;ndung in Kraft.
+Anlage 2
+Stellungnahme des Bundesrates
+Der Bundesrat hat in seiner 982. Sitzung am 8. November 2019 beschlossen, zu dem Gesetzentwurf gem&#228;&#223;
+Artikel 76 Absatz 2 des Grundgesetzes wie folgt Stellung zu nehmen:
+Zu Artikel 1 Nummer 3 (&#167; 152n SAG)
+Der Bundesrat bittet, im weiteren Gesetzgebungsverfahren den Anwendungsbereich der Vorschrift des &#167; 152n
+SAG-E mit Blick auf die von Satz 1 und 2 erfassten Abwicklungsinstrumente sowie die in Satz 3 angeordnete
+entsprechende Anwendung des &#167; 150 SAG zu pr&#252;fen.
+Begr&#252;ndung:
+Die Vorschrift des &#167; 152n SAG-E modifiziert den verwaltungsgerichtlichen Rechtsschutz von CCPs gegen durch
+die Bundesanstalt f&#252;r Finanzdienstleistungsaufsicht erlassene Abwicklungsma&#223;nahmen grunds&#228;tzlich in
+&#228;hnlicher Weise, wie dies in &#167; 150 SAG auch f&#252;r sonstige durch das SAG erfasste Unternehmen vorgesehen ist. Hierzu
+wird in &#167; 152n Satz 1 und 2 SAG-E entsprechend der Regelung des &#167; 150 Absatz 1 SAG der Ausschluss des
+Widerspruchsverfahrens und der aufschiebenden Wirkung von Klagen gegen die speziell f&#252;r CCPs vorgesehenen
+Abwicklungsinstrumente nach &#167;&#167; 152h Absatz 1 Satz 1 und 2 SAG-E sowie Abwicklungsma&#223;nahmen nach
+&#167; 152h Absatz 1 Satz 3 SAG-E in Verbindung mit &#167; 77 Absatz 1 Nummer 1 SAG angeordnet. In Satz 3 ist zudem
+f&#252;r die Abwicklungsma&#223;nahmen nach &#167; 152h Absatz 1 SAG-E generell die entsprechende Anwendung des &#167; 150
+SAG vorgesehen.
+&#167; 152n SAG-E schafft in seiner derzeitigen Formulierung allerdings insofern Unklarheiten, als fraglich ist, was
+f&#252;r Abwicklungsma&#223;nahmen nach &#167; 77 Absatz 1 Nummer 2 SAG gilt, die nach &#167; 152h Absatz 1 Satz 3 SAG-E
+ebenfalls bei abwicklungsbed&#252;rftigen CCPs Anwendung finden k&#246;nnen. Diese sind nach dem Wortlaut des &#167; 152n
+Satz 1 und 2 SAG-E von dem Ausschluss des Widerspruchsverfahrens und der aufschiebenden Wirkung nicht
+erfasst, w&#228;hrend die Regelung in &#167; 150 Absatz 1 SAG entsprechendes f&#252;r grunds&#228;tzlich alle
+Abwicklungsma&#223;nahmen vorsieht. Diesbez&#252;glich ist aber kein Grund ersichtlich, warum CCPs gegen&#252;ber anderen durch das SAG
+erfassten Finanzunternehmen besser gestellt werden sollen, zumal die Gesetzesbegr&#252;ndung zu dieser
+Beschr&#228;nkung schweigt. Die Alternative einer entsprechenden Anwendung der Regelung des &#167; 150 Absatz 1 SAG in dieser
+Konstellation &#252;ber den Verweis in &#167; 152n Satz 3 SAG-E scheint mit Blick auf die vorrangigen, da spezielleren
+Regelungen nach Satz 1 und 2 zweifelhaft. Andererseits geht der Verweis in Satz 3 unter anderem auf &#167; 150
+Absatz 1 SAG hinsichtlich der von den Regelungen nach Satz 1 und 2 erfassten Abwicklungsinstrumente von 
+vornherein ins Leere und ist damit funktionslos.
+Der Bundesrat bittet daher, im weiteren Gesetzgebungsverfahren zu pr&#252;fen, inwiefern der Anwendungsbereich
+der Regelungen nach &#167; 152n Satz 1 und 2 SAG-E hinsichtlich der erfassten Abwicklungsinstrumente einer
+Korrektur bedarf. Gleichzeitig wird angeregt, die Verweisung in Satz 3 auf &#167; 150 SAG zu pr&#228;zisieren und lediglich
+auf dessen Abs&#228;tze 2 bis 4 zu verweisen, da die Regelung des &#167; 150 Absatz 1 SAG hinsichtlich CCPs
+offensichtlich durch die spezielleren Vorschriften in &#167; 152n Satz 1 und 2 SAG-E verdr&#228;ngt werden soll.
+Anlage 3
+Gegen&#228;u&#223;erung der Bundesregierung
+Die Bundesregierung &#228;u&#223;ert sich zur Stellungnahme des Bundesrates wie folgt:
+Zu Artikel 1 Nummer 3 (&#167; 152n SAG)
+Die Bundesregierung wird sich im Laufe des weiteren Gesetzgebungsverfahrens f&#252;r eine &#196;nderung des Wortlauts
+der Norm einsetzen. 
+
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>Entwurf eines Gesetzes zur Einf&#252;hrung von Sondervorschriften f&#252;r die Sanierung und Abwicklung von zentralen Gegenparteien und zur Anpassung des Wertpapierhandelsgesetzes an die Unterrichtungs- und Nachweispflichten nach den Artikeln 4a und 10 der Verordnung (EU) Nr. 648/2012</titel>
+    <datum>2019-12-03</datum>
+  </document>
+  

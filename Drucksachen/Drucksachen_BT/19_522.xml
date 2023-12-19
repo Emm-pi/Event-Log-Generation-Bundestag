@@ -1,0 +1,467 @@
+<document>
+    <id>217267</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/522</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>c45513026536c3c8b3170df20d078ea2</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>230808</id>
+      <titel>Informationstechnische &#220;berwachung durch Bundeskriminalamt und Zoll</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium des Innern</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/005/1900522.pdf</pdf_url>
+      <id>217267</id>
+      <dokumentnummer>19/522</dokumentnummer>
+      <datum>2018-01-24</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums des Innern vom 18. Januar 2018 
+&#252;bermittelt.  
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext. 
+Deutscher Bundestag  Drucksache 19/522 
+19. Wahlperiode 24.01.2018 
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Martina Renner, Ulla Jelpke, Jan Korte, 
+Niema Movassat und der Fraktion DIE LINKE. 
+&#8211; Drucksache 19/314 &#8211; 
+Informationstechnische &#220;berwachung durch Bundeskriminalamt und Zoll 
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r  
+Nachdem der Deutsche Bundestag in der 18. Wahlperiode mit den Stimmen der 
+Fraktionen der CDU/CSU und SPD den Einsatz von Quellen-
+Telekommunikations&#252;berwachung (Quellen-TK&#220;, &#8222;Staatstrojaner&#8220;) und Onlinedurchsuchung 
+erm&#246;glicht hat, sollen inzwischen in den Bundesl&#228;ndern entsprechende oder
+sogar teils weitergehende Vorhaben auf den Weg gebracht worden sein, so u. a. in 
+Baden-W&#252;rttemberg (https://netzpolitik.org/2017/baden-wuerttemberg-daten 
+schutzbeauftragter-kritisiert-gruen-schwarzes-anti-terror-paket/), Hessen (www.fr. 
+de/rhein-main/landespolitik/sicherheit-in-hessen-schwarz-gruen-will-
+staatstrojanera-1392888, www.hessentrojaner.de/) oder auch Nordrhein-Westfalen (https:// 
+netzpolitik.org/2017/nordrhein-westfalen-will-den-bka-staatstrojaner-nutzen/). 
+Das Bundeskriminalamt (BKA) hat mit der Remote Communication
+Interception Software (RCIS) ein eigenes Produkt f&#252;r die Quellen-TK&#220; entwickelt,
+erforscht daneben bereits seit l&#228;ngerem den Markt f&#252;r entsprechende Produkte und 
+hat mit FinSpy von der FinFisher GmbH bereits eine Alternative zu RCIS
+erworben (www.netzpolitik.org vom 15. August 2016, &#8222;Kritik vom
+Bundesrechnungshof: Bundeskriminalamt will gleich zwei Trojaner einsetzen&#8220;). Es
+kontaktiert auch weitere Hersteller von &#220;berwachungssoftware, darunter auch solche, 
+die f&#252;r ihre fehlende R&#252;cksichtnahme auf die Verletzung der Menschenrechte 
+durch ihre Kunden oder Umgehung von Embargoregelungen zu milit&#228;risch 
+nutzbaren Produkten kritisiert werden. (u. a. &#8222;Das Bundeskriminalamt und das 
+gehackte Hacking Team&#8220;, Antwort der Bundesregierung auf die Kleine Anfrage 
+der Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN auf Bundestagsdrucksache 18/5779, 
+www.golem.de/news/staatliche-ueberwachung-die-regierung-liest-jeden-post- 
+1602-119046-2.html; Cellebrite: https://theintercept.com/2016/12/08/phone- 
+cracking-cellebrite-software-used-to-prosecute-tortured-dissident/ oder Elaman/ 
+Gamma: vgl. Antwort der Bundesregierung auf die Schriftliche Frage 37 des 
+Abgeordneten Dr. Konstantin von Notz auf Bundestagsdrucksache 17/8279, S. 
+26; https://netzpolitik.org/2014/gamma-finfisher-ueberwachungstechnologie-
+made-in-germany-gegen-arabischen-fruehling-in-bahrain-eingesetzt/, www.zeit. 
+de/digital/datenschutz/2014-09/export-finfisher-gamma-gastbeitrag/komplettansicht). 
+Fraglich ist, ob diese Verwicklungen der betroffenen Unternehmen f&#252;r die
+Kaufentscheidung deutscher Sicherheitsbeh&#246;rden eine angemessene Rolle spielen.
+V o r b e me r k u n g  d e r  B u n d e s r e g i e r u n g  
+Die vorliegend in den Fragen 21 und 23 erbetenen Ausk&#252;nfte betreffen
+geheimhaltungsbed&#252;rftige Informationen zur Arbeitsweise, Methodik und den
+Aufkl&#228;rungsaktivit&#228;ten des Bundesnachrichtendienstes (BND) und (hinsichtlich Frage 
+21) des Bundesamts f&#252;r Verfassungsschutz (BfV). Sie ber&#252;hren in besonders
+hohem Ma&#223;e das Wohl des Bundes und k&#246;nnen deshalb im konkreten Fall selbst in 
+eingestufter Form nicht erteilt werden. Zu dieser Entscheidung ist die
+Bundesregierung nach sorgf&#228;ltiger Abw&#228;gung der widerstreitenden Interessen gelangt. In 
+einen angemessenen Ausgleich zu bringen waren in diesem Fall einerseits das 
+verfassungsrechtlich verb&#252;rgte Frage- und Informationsrecht des Parlaments
+(Artikel 38 Absatz 1 Satz 2 und Artikel 20 Absatz 2 Satz 2 des Grundgesetzes) und 
+andererseits das ebenfalls Verfassungsrang genie&#223;ende schutzw&#252;rdige Interesse 
+des Wohls des Bundes (Staatswohl) sowie das Interesse an einer
+funktionsgerechten Aufgabenwahrnehmung des BfV und des BND als deutsche Inlands- bzw. 
+Auslandsnachrichtendienste. 
+Im Einzelnen: 
+Die Frage 21 in Bezug auf den BND und das BfV und die Frage 23 in Bezug auf 
+den BND zielen auf solche Informationen, die in besonders hohem Ma&#223;e das 
+Staatswohl ber&#252;hren und daher durch die Bundesregierung nicht beantwortet
+werden k&#246;nnen. Das verfassungsrechtlich verb&#252;rgte Frage- und Informationsrecht 
+des Deutschen Bundestages gegen&#252;ber der Bundesregierung findet seine Grenzen 
+durch das gleichfalls Verfassungsrang genie&#223;ende schutzw&#252;rdige Interesse des 
+Staatswohls. Mit einer Beantwortung dieser Fragen w&#252;rden Einzelheiten zur
+Methodik des BfV und des BND offengelegt, was die weitere Arbeitsf&#228;higkeit und 
+Aufgabenerf&#252;llung auf dem spezifischen Gebiet der technischen Aufkl&#228;rung
+gef&#228;hrden w&#252;rde. Die Offenlegung der konkreten nachrichtendienstlichen
+technischen Methoden birgt das Risiko der Kenntniserlangung dieser Ma&#223;nahmen 
+durch beobachtete Akteure. Es best&#252;nde die Gefahr, dass diese Mittel zur
+Informationsgewinnung unwirksam werden. Eine Auflistung der konkreten
+Verfahrensweisen beim Einsatz von IT-gest&#252;tzten technischen Aufkl&#228;rungsmitteln 
+w&#252;rde dar&#252;ber hinaus weitgehende R&#252;ckschl&#252;sse auf technische Ausstattungen 
+und M&#246;glichkeiten des BfV und des BND und somit mittelbar auch auf das
+Aufkl&#228;rungsprofil des BND zulassen, so dass unmittelbare, schutzw&#252;rdige
+Geheimhaltungsinteressen ber&#252;hrt sind.  
+Des Weiteren k&#246;nnten die F&#228;higkeiten des BfV und des BND,
+nachrichtendienstliche Erkenntnisse im Wege der technischen Aufkl&#228;rung zu gewinnen, durch ein 
+Bekanntwerden bei den Betreibern entsprechender Dienste in erheblicher Weise 
+negativ beeinflusst werden.  
+Die Gewinnung von Informationen durch technische Aufkl&#228;rung ist f&#252;r die
+Sicherheit der Bundesrepublik Deutschland und f&#252;r die sich aus &#167; 3 Absatz 1 des 
+Gesetzes &#252;ber die Zusammenarbeit des Bundes und der L&#228;nder in
+Angelegenheiten des Verfassungsschutzes und &#252;ber das Bundesamt f&#252;r Verfassungsschutz 
+(BVerfSchG) bzw. &#167; 1 Absatz 2 des Gesetzes &#252;ber den Bundesnachrichtendienst 
+(BNDG) ergebende Aufgabenerf&#252;llung von BfV und BND jedoch unerl&#228;sslich. 
+Sofern solche Informationen entfallen oder wesentlich zur&#252;ckgehen sollten,
+w&#252;rden empfindliche Informationsl&#252;cken auch im Hinblick auf die Sicherheitslage 
+der Bundesrepublik Deutschland drohen. Insbesondere ist das sonstige
+Informationsaufkommen des BND nicht ausreichend, um ein vollst&#228;ndiges Lagebild zu 
+erhalten und Informationsdefizite im Bereich der technischen Aufkl&#228;rung
+auszugleichen. Insofern birgt eine Offenlegung der angefragten Informationen die
+Gefahr, dass Einzelheiten zur konkreten Methodik und zu aus den vorgenannten 
+Gr&#252;nden im hohen Ma&#223;e schutzw&#252;rdigen, spezifischen technischen F&#228;higkeiten 
+des BND und des BfV bekannt w&#252;rden. Infolgedessen k&#246;nnten sowohl
+ausl&#228;ndische staatliche als auch nichtstaatliche Akteure R&#252;ckschl&#252;sse auf spezifische
+Vorgehensweisen und technische F&#228;higkeiten des BND und des BfV ziehen. Dies 
+w&#252;rde folgenschwere Einschr&#228;nkungen der Informationsgewinnung bedeuten, 
+womit letztlich der gesetzliche Auftrag des BND - die Sammlung und
+Auswertung von Informationen &#252;ber das Ausland, die von au&#223;en- und
+sicherheitspolitischer Bedeutung f&#252;r die Bundesrepublik Deutschland sind (&#167; 1 Absatz 2 BNDG) 
+&#8211; und des BfV &#8211; die Sammlung und Auswertung von Informationen insbesondere 
+&#252;ber Bestrebungen, die gegen die freiheitliche demokratische Grundordnung, den 
+Bestand oder die Sicherheit des Bundes oder eines Landes gerichtet sind, sowie 
+&#252;ber sicherheitsgef&#228;hrdende oder geheimdienstliche T&#228;tigkeiten f&#252;r eine fremde 
+Macht (&#167; 3 Absatz 1 BVerfSchG) &#8211; nicht mehr sachgerecht erf&#252;llt werden k&#246;nnte. 
+Eine VS-Einstufung und Weiterleitung der angefragten Informationen an die
+Geheimschutzstelle des Deutschen Bundestages kommt angesichts ihrer erheblichen 
+Brisanz im Hinblick auf die Bedeutung der technischen Aufkl&#228;rung f&#252;r die
+Aufgabenerf&#252;llung des BND und des BfV und den zuvor benannten Gr&#252;nden nicht 
+in Betracht, weil insoweit auch ein geringf&#252;giges Risiko des Bekanntwerdens
+unter keinen Umst&#228;nden hingenommen werden kann (vgl. BVerfGE 124, 78 [139]). 
+Die angefragten Inhalte erfordern eine derart detaillierte Darstellung der
+technischen F&#228;higkeiten des BfV und des BND, dass eine Bekanntgabe auch gegen&#252;ber 
+einem begrenzten Kreis von Empf&#228;ngern ihrem Schutzbed&#252;rfnis nicht Rechnung 
+tragen kann. Dies gilt umso mehr, als sie u. a. Spezifika betreffen, deren
+technische Umsetzung nur durch bestimmte Verfahren erfolgen kann. Bei einem
+Bekanntwerden der schutzbed&#252;rftigen Informationen w&#228;re kein Ersatz durch andere 
+Instrumente der Informationsbeschaffung m&#246;glich. 
+Aus dem Vorgesagten ergibt sich, dass die mit Frage 21 zu BND und BfV und 
+mit Frage 23 zum BND erbetenen Informationen derart schutzbed&#252;rftige
+Geheimhaltungsinteressen ber&#252;hren, dass das Staatswohl gegen&#252;ber dem
+parlamentarischen Informationsrecht in diesem Fall wesentlich &#252;berwiegt. Insofern muss
+ausnahmsweise das Fragerecht der Abgeordneten gegen&#252;ber den
+Geheimhaltungsinteressen des BND und des BfV zur&#252;ckstehen. 
+Dar&#252;ber hinaus kann die Bundesregierung die mit den Fragen 1, 2, 3, 4 und 11 
+erbetenen Ausk&#252;nfte selbst in eingestufter Form nicht vollst&#228;ndig erteilen. Zu
+dieser Entscheidung ist die Bundesregierung nach sorgf&#228;ltiger Abw&#228;gung der
+widerstreitenden Interessen gelangt. In einen angemessenen Ausgleich zu bringen
+waren auch in diesem Fall einerseits das verfassungsrechtlich verb&#252;rgte Frage- und 
+Informationsrecht des Parlaments (Artikel 38 Absatz 1 Satz 2 und Artikel 20
+Absatz 2 Satz 2 des Grundgesetzes) und andererseits das ebenfalls Verfassungsrang 
+genie&#223;ende schutzw&#252;rdige Interesse des Wohls des Bundes (Staatswohl) sowie 
+das Interesse an einer funktionsgerechten Aufgabenwahrnehmung des BKA im 
+Zusammenhang mit der (internationalen) Verbrechensbek&#228;mpfung. 
+Im Einzelnen: 
+Die Fragen zielen auf einen &#228;u&#223;erst sensiblen Bereich der verdeckten
+informationstechnischen Informationsgewinnung und ber&#252;hren daher in besonders hohem 
+Ma&#223;e das Wohl des Bundes. Die Informationen sind besonders
+geheimhaltungsbed&#252;rftig, weil sie im Ergebnis weitgehende R&#252;ckschl&#252;sse auf die technischen 
+F&#228;higkeiten und damit mittelbar auch auf die (geplante) technische Ausstattung
+und das Know-how des BKA zulassen. Dadurch k&#246;nnten die zur effektiven
+Strafverfolgung und Gefahrenabwehr notwendigen F&#228;higkeiten des BKA in
+erheblicher Weise negativ beeinflusst und somit auch zuk&#252;nftige Ma&#223;nahmen der
+informationstechnischen &#220;berwachung erheblich erschwert bzw. unm&#246;glich werden. 
+Eine Nennung von Kooperationspartnern des BKA oder Anbietern von Produkten 
+zur Durchf&#252;hrung von Ma&#223;nahmen der Informationstechnischen &#220;berwachung 
+w&#252;rde dar&#252;ber hinaus mit hoher Wahrscheinlichkeit zur Folge haben, dass
+Kooperationspartner oder Anbieter entsprechender Produkte im Falle eines
+Bekanntwerdens &#8211; unabh&#228;ngig, ob staatliche Institutionen oder private Einrichtungen
+betroffen sind &#8211; die Zusammenarbeit mit dem BKA und mit anderen
+Sicherheitsbeh&#246;rden des Bundes beenden oder einschr&#228;nken k&#246;nnten. Erfahrungen aus der
+Vergangenheit belegen, dass Firmen, Institutionen und Beh&#246;rden aus dem Bereich 
+der informationstechnischen &#220;berwachung gr&#246;&#223;tenteils sehr sensibel auf sie
+betreffende Ver&#246;ffentlichungen reagieren.  
+So haben internationale Partner in der Vergangenheit die Zusammenarbeit mit 
+dem BKA nach Ver&#246;ffentlichung entsprechender Kontaktinformationen
+eingestellt. Die aktuelle und zuk&#252;nftige Durchf&#252;hrung von verdeckten
+informationstechnischen Ermittlungsma&#223;nahmen in diesem Bereich w&#252;rde dadurch deutlich 
+erschwert bzw. im schlimmsten Fall unm&#246;glich gemacht. Die Gewinnung von 
+Informationen durch Ma&#223;nahmen der informationstechnischen &#220;berwachung ist 
+f&#252;r die Aufgabenerf&#252;llung des BKA sowie weiterer hierf&#252;r gesetzlich befugter 
+Sicherheitsbeh&#246;rden und damit f&#252;r die Sicherheit der Bundesrepublik
+Deutschland unerl&#228;sslich. 
+Eine VS-Einstufung und Weiterleitung der angefragten Informationen an die
+Geheimschutzstelle des Deutschen Bundestages kommt angesichts ihrer erheblichen 
+Brisanz im Hinblick auf die Bedeutung der technischen Aufkl&#228;rung f&#252;r die
+Aufgabenerf&#252;llung der betroffenen Beh&#246;rden und den zuvor benannten Gr&#252;nden 
+nicht in Betracht, weil insoweit auch ein geringf&#252;giges Risiko des
+Bekanntwerdens unter keinen Umst&#228;nden hingenommen werden kann (vgl. BVerfGE 124, 78 
+[139]). Bereits die Angabe, ob seitens des BKA Kontakte zu bzw. Beziehungen 
+mit Kooperationspartnern oder Anbietern von Produkten zur Durchf&#252;hrung von 
+Ma&#223;nahmen der Informationstechnischen &#220;berwachung bestanden oder
+bestehen, k&#246;nnte zu einem Abbruch der Beziehungen f&#252;hren, was die weitere
+Gewinnung von Informationen durch Ma&#223;nahmen der informationstechnischen
+&#220;berwachung erheblich erschweren bzw. gar unm&#246;glich machen w&#252;rde. In diesem 
+Fall w&#228;re ein Ersatz durch andere Instrumente nicht m&#246;glich. Aus dem
+Vorgesagten ergibt sich, dass die erbetenen Informationen derart schutzbed&#252;rftige
+Geheimhaltungsinteressen ber&#252;hren, dass das Staatswohl gegen&#252;ber dem
+parlamentarischen Informationsrecht &#252;berwiegt. Insofern muss ausnahmsweise das Fragerecht 
+der Abgeordneten gegen&#252;ber den Geheimhaltungsinteressen des BKA und
+mittelbar der weiteren zur Durchf&#252;hrung von Ma&#223;nahmen der
+informationstechnischen &#220;berwachung befugten Sicherheitsbeh&#246;rden zur&#252;ckstehen. 
+1. Welche Hersteller von Software oder Anbieter von Dienstleistungen f&#252;r die 
+informationstechnische &#220;berwachung (Quellen-TK&#220;, Onlinedurchsuchung 
+usw.) wurden nach Kenntnis der Bundesregierung seit 2005 vom BKA im 
+Rahmen einer &#252;blichen Marktsichtung um Informationen f&#252;r ihre Produkte 
+kontaktiert? 
+Zur Erhaltung und Verbesserung von Ma&#223;nahmen der informationstechnischen 
+&#220;berwachung f&#252;hrt das BKA fortlaufende Erhebungen des aktuellen
+Produktportfolios bei verschiedenen Anbietern, Herstellern und Beh&#246;rden und im
+Rahmen von Messebesuchen durch.
+Dar&#252;ber hinaus wird auf die Antworten der Bundesregierung auf die Kleinen
+Anfragen der Fraktion DIE LINKE. &#8222;Auskunft &#252;ber Einsatz staatlicher
+Schadprogramme zur Computerspionage [&#8222;Staatstrojaner&#8220;] auf Bundestagsdrucksache 
+17/7760 vom 17. November 2011, &#8222;Kooperationen und Projekte europ&#228;ischer
+Polizeien und Geheimdienste im Jahr 2016&#8220; auf Bundestagsdrucksache 18/11261 
+vom 21. Februar 2017, die Antwort der Bundesregierung auf die Kleine Anfrage 
+der Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN &#8222;Einsatz von Schadsoftware
+(sogenannte Bundestrojaner) und Zur&#252;ckhaltung und Ausnutzung von
+Sicherheitsl&#252;cken durch Bundesbeh&#246;rden&#8220; auf Bundestagsdrucksache 18/13566 vom 13.
+September 2017, die Antwort der Bundesregierung auf die Schriftliche Frage 10 des 
+Abgeordneten Andrej Hunko auf Bundestagsdrucksache 17/8958 vom 9. M&#228;rz 
+2012 und die Antwort der Bundesregierung auf die Kleine Anfrage der Fraktion 
+der SPD &#8222;Einsatz der Quellen-Telekommunikations&#252;berwachung&#8220; auf
+Bundestagsdrucksache 17/11598 vom 21. November 2012 verwiesen. Im &#220;brigen wird 
+auf die Vorbemerkung der Bundesregierung verwiesen. 
+2. Welche Hersteller von Software oder Anbieter von Dienstleistungen f&#252;r die 
+informationstechnische &#220;berwachung (Quellen-TK&#220;, Onlinedurchsuchung 
+usw.) haben nach Kenntnis der Bundesregierung seit 2005 dem BKA ihre 
+Produkte vorgestellt? 
+3. Welche Hersteller von Software oder Anbieter von Dienstleistungen f&#252;r die 
+informationstechnische &#220;berwachung (Quellen-TK&#220;, Onlinedurchsuchung 
+usw.) haben nach Kenntnis der Bundesregierung seit 2005 dem BKA ihre 
+Produkte zu Testzwecken &#252;berlassen? 
+4. Welche Hersteller von Software oder Anbieter von Dienstleistungen f&#252;r die 
+informationstechnische &#220;berwachung (Quellen-TK&#220;, Onlinedurchsuchung 
+usw.) haben nach Kenntnis der Bundesregierung seit 2005 dem BKA den 
+Quellcode ihrer Produkte zu Pr&#252;fungszwecken zur Verf&#252;gung gestellt? 
+Die Fragen 2 bis 4 werden gemeinsam beantwortet. 
+Auf die Antwort zu Frage 1 sowie auf die Vorbemerkung der Bundesregierung 
+wird verwiesen. 
+5. Welchen Stand hat das Verfahren zur Beschaffung, Pr&#252;fung und Zulassung 
+der kommerziellen Quellen-TK&#220;-Software &#8222;FinSpy&#8220;, und in welchem
+Umfang ist es bereits zum Einsatz gekommen? 
+Die Antwort zu Frage 5 kann nicht offen erfolgen, sondern ist unter Verweis auf 
+die Vorbemerkung auf Bundestagsdrucksache 18/13205, welche hier sinngem&#228;&#223; 
+Anwendung findet, als Verschlusssache mit dem Einstufungsgrad &#8222;VS &#8211; Nur f&#252;r 
+den Dienstgebrauch&#8220; einzustufen, da durch eine Ver&#246;ffentlichung dieser
+Informationen die Gefahr der Aufkl&#228;rung der technischen F&#228;higkeiten und
+ermittlungstaktischen Verfahrensweisen des BKA besteht. Es wird auf den als &#8222;VS &#8211; 
+Nur f&#252;r den Dienstgebrauch&#8220; eingestuften Antwortteil verwiesen.* 
+6. Welchen Stand hat die Fortentwicklung von RCIS hinsichtlich der
+Einsatzf&#228;higkeit auf unterschiedlichen Betriebssystemen bzw. Plattformen? 
+Die vom BKA entwickelte Quellen-TK&#220;-Software &#8222;RCIS&#8220; wird in Abh&#228;ngigkeit 
+von der operativen Bedarfslage kontinuierlich weiterentwickelt. 
+                                                     
+* Das Bundesministerium des Innern hat die Antwort als &#8222;VS &#8211; Nur f&#252;r den Dienstgebrauch&#8220; eingestuft. 
+Die Antwort ist im Parlamentssekretariat des Deutschen Bundestages hinterlegt und kann dort von Berechtigten eingesehen werden.
+7. An welche Stellen des Bundes und der L&#228;nder wurde RCIS zur eigenen
+Nutzung weitergegeben, und welche Kosten oder Einnahmen sind in dem
+Zusammenhang f&#252;r den Bund entstanden? 
+Eine Weitergabe der Software RCIS des BKA an andere Stellen des Bundes und 
+der L&#228;nder ist bislang nicht erfolgt. 
+8. Welche Beh&#246;rden, Unternehmen, Forschungseinrichtungen oder sonstige 
+Dritte haben das BKA seit 2005 nach Kenntnis der Bundesregierung bei der 
+Pr&#252;fung (Konformit&#228;tspr&#252;fung, Penetrationstest etc.) der zur Verf&#252;gung
+gestellten Softwareprodukte oder Dienstleistungen f&#252;r die
+informationstechnische &#220;berwachung (Quellen-TK&#220;, Onlinedurchsuchung usw.) in welcher 
+Weise unterst&#252;tzt (bitte einzeln nach Jahr, unterst&#252;tzende Beh&#246;rde/
+Unternehmen/Forschungseinrichtung/sonstige Dritte, Art der
+Unterst&#252;tzungsleistung, angefallene Kosten auflisten)? 
+Die Bundesbeauftragte f&#252;r den Datenschutz und die Informationsfreiheit hat im 
+Jahr 2016 eine Pr&#252;fung der BKA-Software RCIS und der BKA-Prozesse zur
+gesetzeskonformen Entwicklung und Durchf&#252;hrung von Quellen-TK&#220;-
+Ma&#223;nahmen vorgenommen. 
+Die dar&#252;ber hinausgehende Beantwortung der Frage 8 kann nicht offen erfolgen, 
+sondern ist unter Verweis auf die Vorbemerkung der Bundesregierung auf
+Bundestagsdrucksache 18/13566, welche hier sinngem&#228;&#223; Anwendung findet, als
+Verschlusssache mit dem Einstufungsgrad &#8222;VS &#8211; Nur f&#252;r den Dienstgebrauch&#8220;
+einzustufen, da durch eine Ver&#246;ffentlichung dieser Informationen die Gefahr der 
+Aufkl&#228;rung der technischen F&#228;higkeiten, Vorgehensweise, Methoden und
+ermittlungstaktischen Verfahrensweisen des BKA besteht. Es wird daher zus&#228;tzlich auf 
+den als Verschlusssache mit dem Einstufungsgrad &#8222;VS &#8211; Nur f&#252;r den
+Dienstgebrauch&#8220; eingestuften Antwortteil verwiesen.* 
+9. Welche Stellen sollen die rechts- und datenschutzrechtlich konforme
+Durchf&#252;hrung der informationstechnischen &#220;berwachung (Quellen-TK&#220;,
+Onlinedurchsuchung) durch das BKA sicherstellen, und in welcher Weise? 
+F&#252;r die rechts- und datenschutzkonforme Durchf&#252;hrung von Ma&#223;nahmen der
+informationstechnischen &#220;berwachung wurde im BKA eine eigene
+Organisationseinheit geschaffen, die daf&#252;r zust&#228;ndig ist, die Entwicklung und Beschaffung von 
+Software bzw. Instrumenten und ihren Einsatz zu &#252;berwachen und die Einhaltung 
+der gesetzlichen und technischen Vorgaben zu gew&#228;hrleisten (&#8222;Monitoring 
+IT&#220;&#8220;). Davon unber&#252;hrt sind die zus&#228;tzlichen Kontrollfunktionen des
+Datenschutzbeauftragten im BKA sowie die gesetzlichen Pr&#252;f- und Kontrollbefugnisse 
+weiterer Stellen wie der Bundesbeauftragten f&#252;r den Datenschutz und die
+Informationsfreiheit. 
+10. Welche weiteren Ma&#223;nahmen zur Qualit&#228;tssicherung beim Einsatz der
+Quellen-TK&#220;-Software werden ergriffen, und welches sind die beteiligten
+Akteure mit jeweils welchen Aufgaben? 
+Auf die Antworten zu den Fragen 8 und 9 wird verwiesen. 
+                                                     
+* Das Bundesministerium des Innern hat die Antwort als &#8222;VS &#8211; Nur f&#252;r den Dienstgebrauch&#8220; eingestuft. 
+Die Antwort ist im Parlamentssekretariat des Deutschen Bundestages hinterlegt und kann dort von Berechtigten eingesehen werden.
+11. Welche ausl&#228;ndischen Beh&#246;rden hat das BKA seit 2005 nach Kenntnis der 
+Bundesregierung um Informationen &#252;ber f&#252;r die informationstechnische 
+&#220;berwachung (Quellen-TK&#220;, Onlinedurchsuchung usw.) einsetzbare
+Software oder Dienstleistungen kontaktiert, und welche ausl&#228;ndischen Beh&#246;rden 
+haben dem BKA im gleichen Zeitraum Informationen &#252;ber f&#252;r die
+informationstechnische &#220;berwachung (Quellen-TK&#220;, Onlinedurchsuchung usw.) 
+einsetzbare Software oder Dienstleistungen zur Verf&#252;gung gestellt? 
+Im Rahmen internationaler Kooperationen und Kontakte tauscht sich das BKA 
+regelm&#228;&#223;ig mit ausl&#228;ndischen Beh&#246;rden zu Ma&#223;nahmen der
+informationstechnischen &#220;berwachung aus. Dieser Austausch ist vor dem Hintergrund der globalen 
+Herausforderungen bei der informationstechnischen &#220;berwachung zielf&#252;hrend 
+und sinnvoll. Im &#220;brigen wird auf die Vorbemerkung der Bundesregierung
+verwiesen. 
+12. Welche technischen und rechtlichen Anforderungen hat das BKA seit 2005 
+den Herstellern von Software oder Anbieter von Dienstleistungen f&#252;r die
+informationstechnische &#220;berwachung (Quellen-TK&#220;, Onlinedurchsuchung 
+usw.) im Rahmen der &#252;blichen Marktsichtung f&#252;r in Betracht kommende 
+Produkte mitgeteilt? 
+Im Rahmen fortlaufender Erhebungen des Produktportfolios f&#252;r Ma&#223;nahmen der 
+informationstechnischen &#220;berwachung wurden und werden den Herstellern von 
+Software bzw. L&#246;sungen oder Anbietern von Dienstleistungen f&#252;r die
+informationstechnische &#220;berwachung durch das BKA die jeweils geltenden rechtlichen 
+Rahmenbedingungen sowie ggf. erg&#228;nzende qualit&#228;tssichernde Regelungen, z. B. 
+die Standardisierende Leistungsbeschreibung, mitgeteilt bzw. darauf verwiesen. 
+13. Wann und in welcher Hinsicht haben die Strafverfolgungs- und
+Verfassungsschutzbeh&#246;rden des Bundes und der L&#228;nder die im Jahr 2012 entwickelte 
+Standardisierte Leistungsbeschreibung (SLB) f&#252;r die informationstechnische 
+&#220;berwachung (Quellen-TK&#220;, Onlinedurchsuchung usw.) fortgeschrieben 
+bzw. &#252;berarbeitet, und welche Beh&#246;rden, Unternehmen,
+Forschungseinrichtungen oder sonstige Dritte haben daran wie mitgewirkt? 
+Die Standardisierende Leistungsbeschreibung (SLB) legt Mindeststandards f&#252;r 
+die Entwicklung und den Einsatz von Software und Systemen zur Durchf&#252;hrung 
+von Quellen-TK&#220; in Deutschland fest. In Abstimmung mit den zust&#228;ndigen bzw. 
+betroffenen Beh&#246;rden und Institutionen findet eine kontinuierliche &#220;berpr&#252;fung 
+aller geltenden Regelwerke statt. Eine Aktualisierung der SLB (Stand Oktober 
+2012) wird vor dem Hintergrund fortgeschrittener technischer und rechtlicher 
+Rahmenbedingungen gegenw&#228;rtig gepr&#252;ft. 
+14. Welche Hersteller von Software oder Anbieter von Dienstleistungen f&#252;r die 
+informationstechnische &#220;berwachung (Quellen-TK&#220;, Onlinedurchsuchung 
+usw.) wurden nach Kenntnis der Bundesregierung seit 2005 vom Zoll im 
+Rahmen einer &#252;blichen Marktsichtung um Informationen f&#252;r ihre Produkte 
+kontaktiert? 
+15. Welche Hersteller von Software oder Anbieter von Dienstleistungen f&#252;r die 
+informationstechnische &#220;berwachung (Quellen-TK&#220;, Onlinedurchsuchung 
+usw.) haben nach Kenntnis der Bundesregierung seit 2005 dem Zoll ihre
+Produkte vorgestellt?
+16. Welche Hersteller von Software oder Anbieter von Dienstleistungen f&#252;r die 
+informationstechnische &#220;berwachung (Quellen-TK&#220;, Onlinedurchsuchung 
+usw.) haben nach Kenntnis der Bundesregierung seit 2005 dem Zoll ihre
+Produkte zu Testzwecken &#252;berlassen? 
+17. Welche Hersteller von Software oder Anbieter von Dienstleistungen f&#252;r die 
+informationstechnische &#220;berwachung (Quellen-TK&#220;, Onlinedurchsuchung 
+usw.) haben nach Kenntnis der Bundesregierung seit 2005 dem Zoll den 
+Quellcode ihrer Produkte zu Pr&#252;fungszwecken zur Verf&#252;gung gestellt? 
+18. Welche Beh&#246;rden, Unternehmen, Forschungseinrichtungen oder sonstige 
+Dritte haben dem Zoll seit 2005 nach Kenntnis der Bundesregierung bei der 
+Pr&#252;fung der zur Verf&#252;gung gestellten Softwareprodukte oder
+Dienstleistungen f&#252;r die informationstechnische &#220;berwachung (Quellen-TK&#220;,
+Onlinedurchsuchung usw.) in welcher Weise unterst&#252;tzt (bitte einzeln nach Jahr, 
+unterst&#252;tzende Beh&#246;rde/Unternehmen/Forschungseinrichtung/sonstige Dritte, 
+Art der Unterst&#252;tzungsleistung, angefallene Kosten auflisten)? 
+19. Welche ausl&#228;ndischen Beh&#246;rden haben den Zoll seit 2005 nach Kenntnis der 
+Bundesregierung um Informationen &#252;ber f&#252;r die informationstechnische 
+&#220;berwachung (Quellen-TK&#220;, Onlinedurchsuchung usw.) einsetzbare
+Software oder Dienstleistungen kontaktiert, und welche ausl&#228;ndischen Beh&#246;rden 
+haben dem Zoll im gleichen Zeitraum Informationen &#252;ber f&#252;r die
+informationstechnische &#220;berwachung (Quellen-TK&#220;, Onlinedurchsuchung usw.)
+einsetzbare Software oder Dienstleistungen zur Verf&#252;gung gestellt? 
+Die Fragen 14 bis 19 werden aufgrund des Sachzusammenhangs gemeinsam
+beantwortet. 
+Das Zollkriminalamt hat in der Zeit nach Fertigstellung der Standardisierenden 
+Leistungsbeschreibung (SLB) im Oktober 2012 keine Hersteller von Software zur 
+informationstechnischen &#220;berwachung kontaktiert. Software-Produkte oder
+Angebote von Dienstleistungen wurden weder vorgestellt noch zu Testzwecken 
+&#252;berlassen. Kontakte zu ausl&#228;ndischen Beh&#246;rden im Sinne der Fragestellung
+fanden nicht statt. Hinsichtlich des fragegegenst&#228;ndlichen Bezugszeitraums vor der 
+Fertigstellung der SLB wird auf die Antwort der Bundesregierung auf die Kleinen 
+Anfragen der Fraktion DIE LINKE. &#8222;Auskunft &#252;ber Einsatz staatlicher
+Schadprogramme zur Computerspionage [&#8222;Staatstrojaner&#8220;] auf Bundestagsdrucksache 
+17/7760 vom 17. November 2011 sowie der Fraktion der SPD &#8222;Einsatz der
+Quellen-Telekommunikations&#252;berwachung&#8220; auf Bundestagsdrucksache 17/11598 
+vom 21. November 2012 verwiesen. 
+20. Welche Stellen sollen die rechts- und datenschutzrechtlich konforme
+Durchf&#252;hrung der informationstechnischen &#220;berwachung (Quellen-TK&#220;,
+Onlinedurchsuchung) durch den Zoll sicherstellen, und in welcher Weise? 
+F&#252;r die rechts- und datenschutzkonforme Durchf&#252;hrung von Ma&#223;nahmen der
+informationstechnischen &#220;berwachung durch die Beh&#246;rden der Zollverwaltung ist 
+das Zollkriminalamt zust&#228;ndig, das die Einhaltung der gesetzlichen und
+technischen Vorgaben gew&#228;hrleistet. Daneben bestehen gesetzlich normierte
+Kontrollbefugnisse weiterer Stellen, wie der Bundesbeauftragten f&#252;r den Datenschutz und 
+die Informationsfreiheit.
+21. Welche Beh&#246;rden mit Sicherheitsaufgaben von Bund und L&#228;ndern setzen 
+nach Kenntnis der Bundesregierung dar&#252;ber hinaus die im BKA entwickelte 
+Software zur Quellen-TK&#220;, selbstentwickelte Quellen-TK&#220;-Software oder 
+der Standardisierten Leistungsbeschreibung entsprechende kommerzielle 
+Produkte ein? 
+Hinsichtlich der vom BKA entwickelten Quellen-TK&#220;-Software wird auf die 
+Antwort zu Frage 7, hinsichtlich des BND und des BfV wird auf die
+Vorbemerkung verwiesen. Hinsichtlich des Einsatzes von Software bzw. Produkten im
+fragegegenst&#228;ndlichen Sinne durch Beh&#246;rden der Bundesl&#228;nder mit
+Sicherheitsaufgaben liegen der Bundesregierung keine Erkenntnisse vor.  
+22. Wird im Kompetenzzentrum Informationstechnische &#220;berwachung des 
+BKA oder an welcher anderen Stelle auch eine Software zur
+&#8222;Onlinedurchsuchung&#8220; entwickelt, und liegt auch hierf&#252;r eine Standardisierte
+Leistungsbeschreibung vor?  
+Das BKA h&#228;lt eigenentwickelte Software zur Durchf&#252;hrung von Ma&#223;nahmen der 
+Online-Durchsuchung bereit. Diese wird im Kompetenzzentrum
+Informationstechnische &#220;berwachung (CC IT&#220;) des BKA unter Ber&#252;cksichtigung der
+geltenden Gesetze und aktuellen Regelwerke sowie gefahrenabwehrrechtlicher und 
+strafprozessualer Bedarfslagen stetig angepasst.  
+23. Welche anderen Stellen des Bundes oder der L&#228;nder entwickeln ggf. eine 
+solche Software zur Onlinedurchsuchung oder beschaffen sie bei
+kommerziellen Anbietern, wie ist der Entwicklungsstand, und welche Kosten sind
+dabei entstanden? 
+Hinsichtlich des BND wird auf die Vorbemerkung verwiesen. In Bezug auf das 
+BfV kann die Beantwortung von Frage 23 nicht offen erfolgen, sondern ist unter 
+Verweis auf die Vorbemerkung der Bundesregierung auf Bundestagsdrucksache 
+18/13205, welche hier sinngem&#228;&#223; Anwendung findet, als Verschlusssache mit 
+dem Einstufungsgrad &#8222;VS &#8211; Nur f&#252;r den Dienstgebrauch&#8220; einzustufen, da durch 
+eine Ver&#246;ffentlichung dieser Informationen die Gefahr der Aufkl&#228;rung der
+technischen F&#228;higkeiten des BfV besteht. Insofern wird f&#252;r das BfV auf den als &#8222;VS &#8211; 
+Nur f&#252;r den Dienstgebrauch&#8220; eingestuften Antwortteil verwiesen. Hinsichtlich 
+der Entwicklung oder Beschaffung von Software im fragegegenst&#228;ndlichen Sinne 
+durch Beh&#246;rden der Bundesl&#228;nder mit Sicherheitsaufgaben liegen der
+Bundesregierung keine Erkenntnisse vor.*
+                                                     
+* Das Bundesministerium des Innern hat die Antwort als &#8222;VS &#8211; Nur f&#252;r den Dienstgebrauch&#8220; eingestuft. 
+Die Antwort ist im Parlamentssekretariat des Deutschen Bundestages hinterlegt und kann dort von Berechtigten eingesehen werden. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Satz: Satzweiss.com Print, Web, Software GmbH, Mainzer Stra&#223;e 116, 66121 Saarbr&#252;cken, www.satzweiss.com 
+Druck: Printsystem GmbH, Schafw&#228;sche 1-3, 71296 Heimsheim, www.printsystem.de 
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de 
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/314 -
+Informationstechnische &#220;berwachung durch Bundeskriminalamt und Zoll</titel>
+    <datum>2018-01-24</datum>
+  </document>
+  

@@ -1,0 +1,526 @@
+<document>
+    <id>240110</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/18334</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>f4ca8df87d2d4643e39c9ee2274e6914</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>259947</id>
+      <titel>Strahlenbelastung durch 5G-Strahlenkeulen (Beamforming)</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium f&#252;r Wirtschaft und Energie</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/183/1918334.pdf</pdf_url>
+      <id>240110</id>
+      <dokumentnummer>19/18334</dokumentnummer>
+      <datum>2020-03-24</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Antwort
+der Bundesregierung
+auf die Kleine Anfrage der Abgeordneten Matthias B&#252;ttner, Dr. Dirk Spaniel, 
+Wolfgang Wiehle, weiterer Abgeordneter und der Fraktion der AfD
+&#8211; Drucksache 19/17722 &#8211;
+Strahlenbelastung durch 5G-Strahlenkeulen (Beamforming)
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Die f&#252;nfte Generation von Mobilfunk (5G) wendet Netzelemente und die
+Ausstrahlung der zugeh&#246;rigen Frequenzen nicht mehr analog der bisherigen
+Mobilfunktechnik an. Mittels Network Slicing schneidet 5G virtuelle Scheiben 
+aus dem IP-Netz und mittels Edge Computing erfolgt dann die
+Datenverarbeitung direkt am Ort, um z. B. mobile Roboter in Echtzeit zu steuern. 5G ist ein 
+reiner IP-Datentransfer, der insbesondere in firmeneigenen Campusnetzen f&#252;r 
+die Industrie von gro&#223;er Bedeutung sein wird und schon deshalb mit der
+klassischen mobilen Sprach-Telefonie nicht mehr vergleichbar ist (https://www.ip-
+insider.de/was-ist-network-slicing-a-828834/).
+Eine der Neuheiten bei 5G ist das Beamforming, die Bildung von
+Strahlenkeulen durch adaptive Antennentechnik. Beim Beamforming sendet nicht eine 
+Antenne zum Empfangsger&#228;t, sondern mehrere Antennen werden so
+ausgerichtet, dass ihre elektromagnetischen Wellen am Zielort positiv interferieren 
+und dort so die Signal- und Feldst&#228;rke erh&#246;hen. Dabei werden die einzelnen 
+Antennen nicht physikalisch ausgerichtet, sondern die Phase der gesendeten 
+Wellen wird verschoben. Wenn sich das Empfangsger&#228;t bewegt, wird die
+Phasenverschiebung der neuen Situation angepasst und die positive Interferenz
+erneut auf das Empfangsger&#228;t ausgerichtet.
+Um positive Interferenz am Empfangsger&#228;t zu erreichen, muss der
+Gangunterschied der zwei Strecken zwischen Antenne 1 und Empfangsger&#228;t sowie
+Antenne 2 und Empfangsger&#228;t ein ganzzahliges Vielfaches der Wellenl&#228;nge
+betragen (https://www.leifiphysik.de/optik/beugung-und-interferenz/grundwisse
+n/zwei-quellen-interferenz), respektive das Signal mit passender zeitlicher 
+Verz&#246;gerung (Phasenverschiebung) von einer der Antennen ausgesendet
+werden. Leicht wird ersichtlich, dass diese Interferenzbedingungen nicht nur am 
+Empfangsger&#228;t, sondern auch an anderen Punkten im Raum erf&#252;llt sind. An 
+diesen Punkten entstehen durch positive Interferenz der ausgesendeten
+Strahlung ebenfalls unerw&#252;nschte Maxima.
+Die bisherige Abstrahlcharakteristik einer Mobilfunksendeanlage ist, dass am 
+Antennenstandort die st&#228;rke Strahlungsleistung auftritt und diese dann in den 
+Randgebieten kontinuierlich abnimmt. Beim Beamforming durch adaptive 
+Antennen wird die Feldverteilung aktiv ge&#228;ndert, die Sendeleistung in
+bestimmten Gebieten im Raum ist erh&#246;ht. Die Deutsche Telekom erkl&#228;rt hierzu, 
+Deutscher Bundestag Drucksache 19/18334
+19. Wahlperiode 24.03.2020
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums f&#252;r Wirtschaft und Energie vom 
+23. M&#228;rz 2020 &#252;bermittelt.
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext.
+dass das Signal &#8222;im Randbereich &#228;hnlich stark wie im Zentrum&#8220; ist (https://w
+ww.telekom.com/de/blog/netz/artikel/beamforming-5g-mobilfunk-570522). 
+Die Signale werden in Form von l&#228;nglichen Keulen gezielt ausgerichtet, was 
+einen neuen Bestandteil dieser Technik darstellt.
+In der anschaulichen Simulation der Interferenz zweier Kugelwellen auf 
+https://www.leifiphysik.de/mechanik/mechanische-wellen/versuche/interferen
+z-zweier-kreis-oder-kugelwellen-simulation wird dabei deutlich, dass diese 
+Keulen (in der Simulation die violett gekennzeichneten Kurven) aus einer
+Ansammlung von einer gro&#223;en Anzahl von Punkten mit positiver Interferenz 
+(Maxima) bestehen. Weiterhin wird deutlich, dass sich im Fall zweiter
+Antennen nicht nur eine Strahlenkeule ausbildet, sondern mehrere. Die zus&#228;tzlichen, 
+unerw&#252;nschten Strahlenkeulen zeigen dementsprechend nicht auf das
+Empfangsger&#228;t, auf das die adaptiven Antennen ausgerichtet sind. Es kommt also 
+zwangsl&#228;ufig zu unerw&#252;nschten Strahlenkeulen und Maxima. Dies l&#228;sst sich 
+nicht verhindern, ist aber nach Ansicht der Fragestellenden in der
+&#214;ffentlichkeit unzureichend bekannt.
+Die Deutsche Telekom erkl&#228;rt, dass &#8222;eine aktive Antenne 64 Signale parallel&#8220; 
+aussendet, die sich alle einzeln auf die Kunden ausrichten lassen. Es k&#246;nnen 
+also 64 verschiedene (gew&#252;nschte) Beams geformt werden (https://www.telek
+om.com/de/blog/netz/artikel/beamforming-5g-mobilfunk-570522). Weiterhin 
+wird erkl&#228;rt, dass die 64 Keulen nicht auf einzelne Nutzer abzielen, sondern 
+letztendlich &#246;rtlich eine Keule geformt wird. In dieser Keule k&#246;nnen dann 
+mehrere Kunden gleichzeitig bedient werden. Als Beispiel wird eine
+Touristengruppe genannt, die vor einer gro&#223;en Kirche steht. Alle Mitglieder dieser 
+Gruppe w&#252;rden vom gleichen Beam erfasst und k&#246;nnten von diesem mit
+Daten versorgt werden.
+Aus diesem Beispiel ist jetzt leicht abzuleiten, dass diese Gruppe an der
+Kirche ja nicht nur von einer einzigen 5G Zelle nur eines Providers und nur durch 
+eine Strahlenkeule bestrahlt wird, sondern m&#246;glicherweise von allen vier
+Providern (Telekom, Vodafone, O2 und 1&amp;1) aus mehreren 5G-Zellen
+gleichzeitig. Dies kann Auswirkungen bez&#252;glich Exposition und Intensit&#228;t auf jeden 
+Einzelnen in der Gruppe haben, auch wenn dieser gar kein Smartphone
+besitzt. Es ist somit schwer m&#246;glich, den Strahlenkeulen aus dem Weg zu gehen, 
+falls man das m&#246;chte. Da diese festen und beweglichen, gew&#252;nschten oder
+unerw&#252;nschten Strahlenkeulen nicht gesehen werden, ist es auch nicht m&#246;glich, 
+sich nicht l&#228;nger als n&#246;tig darin aufzuhalten.
+Das Bundesamt f&#252;r Strahlenschutz war bereits vor 5G dem Mobilfunk
+gegen&#252;ber nicht sorglos und gibt deshalb Empfehlungen beim Umgang mit dem 
+Handy, die darauf abzielen, &#8222;die St&#228;rke (Intensit&#228;t) der hochfrequenten Felder 
+zu verringern und auf die Dauer der Strahlenbelastung (Exposition) zu
+verk&#252;rzen.&#8220; (http://www.bfs.de/DE/themen/emf/mobilfunk/schutz/vorsorge/empfehl
+ungen-handy.html). Unter anderem wird mehrfach darauf hingewiesen, das 
+Handy m&#246;glichst nicht am Kopf zu halten und Handytelefonate bei Kindern so 
+weit wie m&#246;glich einzuschr&#228;nken.
+Bei der Errichtung jeder einzelnen neuen Mobilfunkanlage erfolgt eine
+Pr&#252;fung durch die Bundesnetzagentur, die gew&#228;hrleistet, dass au&#223;erhalb des
+Sicherheitsbereichs die zugelassenen Grenzwerte nicht &#252;berschritten werden 
+(http://www.informationszentrum-mobilfunk.de/mediathek/glossar/standortbe
+scheinigung).
+In der Schweiz wurden laut einem Rechtsgutachten zum 5G-Ausbau adaptive 
+Antennen so privilegiert, dass eine adaptive Sendeanlage die festgelegten 
+Grenzwerte zeitweise &#252;berschreiten kann, solange die Anlage die Werte im 
+Durchschnitt einh&#228;lt (https://www.itmagazine.ch/Artikel/70079/Rechtsgutacht
+en_spricht_von_unzulaessiger_Privilegierung_von_5G-Antennen.html).
+In der 5G-Strategie f&#252;r Deutschland erkl&#228;rt die Bundesregierung, dass es ihr 
+Anspruch ist, dass Deutschland zum Leitmarkt f&#252;r 5G-Anwendungen wird. 
+Dieses Ziel soll gezielt durch mehrere Ma&#223;nahmen in f&#252;nf Aktionsfeldern
+umgesetzt werden. So soll unter anderem der Netz-Rollout forciert werden, eine 
+fr&#252;hzeitige Initiierung von 5G in St&#228;dten und Kommunen erfolgen und
+koordiniert und gezielt Forschung betrieben werden (https://www.bmvi.de/Shared
+Docs/DE/Publikationen/DG/098-dobrindt-5g-strategie.pdf).
+Im 5G-Innovationsprogramm 5x5G f&#246;rdert die Bundesregierung die 5G-
+Einf&#252;hrung. Insgesamt werden 50 Regionen ausgew&#228;hlt, die bis zu 
+100.000 Euro F&#246;rderung erhalten k&#246;nnen (https://www.bmvi.de/SharedDocs/
+DE/Artikel/DG/5g-mobilfunk-zukunft.html).
+In der 5G-Auktion vom M&#228;rz bis Juni 2019 wurden die Frequenzen in den
+Bereichen 2 Gigahertz (GHz) und 3,6 GHz versteigert. In den Auflagen zur
+Auktion verpflichten sich die Unternehmen dabei unter anderem dazu, 1.000 &#8222;5G-
+Basisstationen&#8220; bis Ende 2022 in Betrieb zu nehmen (https://www.bundesnetz
+agentur.de/SharedDocs/Downloads/DE/Sachgebiete/Telekommunikation/Unte
+rnehmen_Institutionen/Frequenzen/OffentlicheNetze/Mobilfunk/DrahtloserNe
+tzzugang/Mobilfunk2020/20181126_Entscheidungen_III_IV.pdf?__blob=publ
+icationFile&amp;v=2).
+Die Deutsche Telekom AG hat 5G in Berlin, M&#252;nchen, K&#246;ln, Bonn und 
+Darmstadt gestartet und mehr als 120 Antennen funken im Live-Betrieb 
+(https://www.telekom.com/de/medien/medieninformationen/detail/5g-funkt-li
+ve-in-fuenf-staedten-580454). Vodafone erkl&#228;rt, dass sie in 20 St&#228;dten und 
+Gemeinden ihre ersten 5G-Stationen aktiviert hat und bis zum Ende des
+laufenden Gesch&#228;ftsjahres mit mehr als 160 5G-Antennen in 25 Gemeinden und 
+zehn Industrieparks funken wollen (https://www.vodafone.de/newsroom/netz/
+5g-start-vodafone-startet-5g-in-deutschland/).
+V o r b e m e r k u n g  d e r  B u n d e s r e g i e r u n g
+Moderne, adaptive Antennensysteme sind nicht nur in der Lage, Sendesignale 
+auf einen oder mehrere Nutzer auszurichten. Sie k&#246;nnen auch st&#246;rende Signale, 
+die zum Beispiel aus einer benachbarten Mobilfunkzelle stammen, ausblenden. 
+Sie gehen damit &#252;ber die in der Vorbemerkung der Fragesteller beschriebene 
+Strahlschwenkung hinaus. In der Folge wird eine h&#246;here Reichweite und
+entsprechend eine bessere Versorgung erreicht.
+Um die Verteilung des elektromagnetischen Feldes im Raum mathematisch zu 
+beschreiben, werden in der Nachrichtentechnik sogenannte
+Ausbreitungsmodelle verwendet. Allen Ausbreitungsmodellen gemein ist die mindestens mit 
+dem Quadrat der Entfernung abnehmende Feldst&#228;rke. Einzelheiten hierzu
+finden sich in der entsprechenden Fachliteratur und den entsprechenden
+technischen Berichten, Empfehlungen und Normen.
+1. Schlie&#223;t die Bundesregierung jegliche neuen gesundheitlichen
+Gef&#228;hrdungen und neue Risiken durch 5G-Beamforming-Technik f&#252;r Menschen und 
+Tiere aus?
+a) Wenn ja, mit welcher Begr&#252;ndung?
+b) Wenn nein, mit welcher Begr&#252;ndung?
+Nach dem derzeitigen Stand der wissenschaftlichen Erkenntnisse sind
+gesundheitlich sch&#228;dliche Wirkungen elektromagnetischer Felder unterhalb der
+international empfohlenen Grenzwerte nicht nachgewiesen. Auf dieser Basis ist die 
+Bundesregierung der &#220;berzeugung, dass der Betrieb weiterentwickelter
+Mobilfunktechnik kein gesundheitliches Risiko hervorruft, soweit die rechtlichen
+Regelungen die Grenzwerteinhaltung sicherstellen. Auf den Achten
+Emissionsminderungsbericht der Bundesregierung auf Bundestagsdrucksache 19/6270 
+wird erg&#228;nzend verwiesen.
+Die Methodik der wissenschaftsbasierten Bewertung l&#228;sst es prinzipiell nicht 
+zu, aus vorhandenen Studienergebnissen den Ausschluss jeglicher
+gesundheitlichen Gef&#228;hrdung zu folgern. Eine Bewertung, dass eine Wirkung nicht
+nachgewiesen ist, gilt vielmehr dann als gesichert, wenn viele wissenschaftliche
+Untersuchungen keine Wirkung nachgewiesen haben und die Mehrheit der mit der 
+Bewertung befassten Fachleute sich darin einig ist.
+2. Muss nach Ansicht der Bundesregierung das Mobilfunkstrahlenrisiko bei 
+5G durch den Einsatz von adaptiven Antennen neu bewertet werden?
+a) Wenn ja, mit welcher Begr&#252;ndung?
+b) Wenn nein, mit welcher Begr&#252;ndung?
+Die Wirkungen und Risiken beziehen sich auf die hochfrequenten
+elektromagnetischen Felder selbst, nicht auf bestimmte technische Anwendungen. Die 
+Wirkungen der Felder einer bestimmten Frequenz und Feldst&#228;rke sind
+unabh&#228;ngig vom verwendeten Antennensystem und vom Daten&#252;bertragungsstandard 
+der Kommunikation. Daher ist die Bundesregierung nicht der Auffassung, dass 
+insoweit Risiken neu bewertet werden m&#252;ssen. Hingegen muss nach
+&#220;berzeugung der Bundesregierung sichergestellt sein, dass die genutzten Verfahren der 
+Emissionsbewertung und des Nachweises der Grenzwerteinhaltung f&#252;r die
+jeweils verwendete Technik anwendbar sind. Auf die Antwort der
+Bundesregierung auf die Schriftliche Frage 123 der Abgeordneten Linda Teuteberg auf 
+Bundestagsdrucksache 19/9822 wird hierzu erg&#228;nzend verwiesen.
+3. Erfordert die Technik der adaptiven Antennen, dass f&#252;r 5G neue
+Strahlenschutzgrenzwerte festgelegt werden m&#252;ssen?
+a) Wenn nein, mit welcher Begr&#252;ndung?
+b) Wenn ja, welche Grenzwerte m&#252;ssen die aktuell live geschalteten 5G-
+Antennen einhalten (bitte das Verfahren der Grenzwertsetzung
+erl&#228;utern, ab wann dieses gilt)?
+Aus den in der Antwort zu Frage 2 dargelegten Gr&#252;nden sind die Grenzwerte 
+f&#252;r den Schutz der Bev&#246;lkerung vor hochfrequenten elektromagnetischen
+Feldern ohne Bezug zu bestimmten technischen Anwendungen festgelegt. Daher 
+ist die Bundesregierung der Auffassung, dass f&#252;r den Betrieb fortentwickelter 
+Mobilfunktechnik keine neuen Grenzwerte festgelegt werden m&#252;ssen. Auf die 
+Antwort der Bundesregierung auf die Schriftliche Frage 183 des Abgeordneten 
+Tobias Matthias Peterka auf Bundestagsdrucksache 19/8434 wird erg&#228;nzend 
+verwiesen.
+F&#252;r die gegenw&#228;rtig in Betrieb befindlichen ortsfesten Sendeanlagen der 5G-
+Netze gelten alle Regelungen, die dem Gesundheitsschutz im Hinblick auf die 
+Exposition gegen&#252;ber hochfrequenten elektromagnetischen Feldern dienen,
+uneingeschr&#228;nkt. Diese Situation besteht kontinuierlich seit dem Beginn des
+Aufbaus dieser Netze. Zu Einzelheiten wird erg&#228;nzend auf die Antwort der 
+Bundesregierung zu Frage 5 der Kleinen Anfrage der Fraktion der AfD
+&#8222;Aktueller Erkenntnisstand &#252;ber m&#246;gliche Wirkungen elektromagnetischer Felder
+sowie &#252;ber vermutete gesundheitliche Risiken des 5G-Netzausbaus&#8220; auf
+Bundestagsdrucksache 19/10524 verwiesen. Die Grenzwerte sind insbesondere f&#252;r 
+ortsfeste Anlagen, die alleine oder zusammen mit weiteren Anlagen an einem 
+Standort eine &#228;quivalente isotrope Strahlungsleistung von 10 Watt erreichen 
+oder &#252;berschreiten k&#246;nnen, in &#167; 2 i. V. m. Anhang 1, 2 und 3 der Verordnung 
+&#252;ber elektromagnetische Felder (26. BImSchV) festgelegt.
+4. K&#246;nnen sich nach Kenntnis der Bundesregierung bei den f&#252;r Mobilfunk 
+verwendeten Frequenzen durch Reflektionen an Geb&#228;uden, respektive 
+Stahl, Beton, Glas und anderen geeigneten Fl&#228;chen, stehende Wellen
+ausbilden?
+a) Sind der Bundesregierung F&#228;lle bekannt, in denen sich durch
+Mobilfunksendeanlagen im &#246;ffentlichen Raum oder in Geb&#228;uden stehende 
+Wellen gebildet haben?
+b) K&#246;nnte nach Kenntnis der Bundesregierung die Technik der adaptiven 
+Antennen die H&#228;ufigkeit der Bildung von stehenden Wellen
+beeinflussen?
+c) K&#246;nnte nach Kenntnis der Bundesregierung die Technik der adaptiven 
+Antennen die Intensit&#228;t der gebildeten stehenden Wellen beeinflussen?
+d) Wenn Frage 4 mit ja beantwortet wird, wie wird dies bei der Pr&#252;fung 
+und Bewilligung von Antennenstandorten beachtet?
+Nach Kenntnis der Bundesregierung k&#246;nnen sich keine stehenden
+elektromagnetischen Wellen im Sinne der Vorbemerkung bilden. Zwar k&#246;nnen sich
+entsprechende stehende Wellen unabh&#228;ngig von der verwendeten Frequenz in
+jedem verlustlosen Medium ausbilden, Voraussetzung ist aber die vollst&#228;ndige 
+Reflexion der ebenen Welle an einer Grenzschicht. Um eine ebene,
+elektromagnetische Welle im Raum zu erzeugen, bedarf es wiederum einer unendlich
+gro&#223;en, physisch nicht realisierbaren Antenne.
+5. Wie viele Maxima und Nebenmaxima entstehen nach Kenntnis der 
+Bundesregierung, wenn eine adaptive Sendeanlage 64 Signale parallel 
+aussendet und so steuert, dass bei einem Empfangsger&#228;t positive
+Interferenz entsteht?
+6. Wie viele Strahlenkeulen entstehen nach Kenntnis der Bundesregierung 
+zus&#228;tzlich zur gew&#252;nschten Strahlenkeule, wenn eine adaptive
+Sendeanlage 64 Signale parallel aussendet und so steuert, dass das Empfangsger&#228;t 
+im Wirkungsbereich der prim&#228;ren Strahlenkeule liegt?
+Die Fragen 5 und 6 werden gemeinsam beantwortet.
+Adaptive Antennen besitzen &#252;ber die Anzahl der Antennenelemente hinaus
+eine Reihe von Eigenschaften, wie unter anderem die gew&#228;hlte Form der
+eingesetzten Antennenelemente, ihre Anordnung und den verwendeten Algorithmus 
+zur Steuerung der Antenne. Ohne Kenntnis aller Parameter kann die
+Bundesregierung daher die Fragen 5 und 6 nicht beantworten.
+&#8199;7. Welche Strahlungswerte treten nach Kenntnis der Bundesregierung an 
+den Maxima und Nebenmaxima auf (bitte nach prozentualen Werten des 
+Grenzwertes in 10-Prozent-Schritten gruppieren)?
+&#8199;8. Welche Strahlungswerte treten nach Kenntnis der Bundesregierung im 
+Bereich der prim&#228;ren Strahlenkeule und weiteren Strahlenkeulen auf?
+&#8199;9. Welche r&#228;umliche Ausdehnung haben nach Kenntnis der
+Bundesregierung die Maxima und Nebenmaxima (in Kubikzentimetern)?
+10. Welche Raumfl&#228;che wird nach Kenntnis der Bundesregierung durch die 
+prim&#228;re Strahlenkeule bestrahlt (in Kubikmetern, bitte f&#252;r verschiedene 
+Szenarien angeben) wenn sich das
+a) Empfangsger&#228;t nah an der 5G-Sendeanlage,
+b) Empfangsger&#228;t in mittlerer Entfernung zur 5G-Sendeanlage,
+c) Empfangsger&#228;t in maximaler Entfernung zur 5G-Sendeanlage
+befindet?
+11. Welche Raumfl&#228;che wird nach Kenntnis der Bundesregierung durch die 
+weiteren Strahlenkeulen bestrahlt (in Kubikmetern, bitte f&#252;r
+verschiedene Szenarien angeben) wenn sich das
+a) Empfangsger&#228;t nah an der 5G-Sendeanlage,
+b) Empfangsger&#228;t in mittlerer Entfernung zur 5G-Sendeanlage,
+c) Empfangsger&#228;t in maximaler Entfernung zur 5G-Sendeanlage
+befindet?
+Die Fragen 7 bis 11 werden gemeinsam beantwortet.
+Um konkrete Angaben zu erreichten Feldst&#228;rken in einem bestimmten Abstand 
+zur Antenne berechnen zu k&#246;nnen, m&#252;ssen weitere Parameter bekannt sein. 
+Gleiches gilt f&#252;r die r&#228;umliche Ausdehnung bzw. das Volumen einer
+Strahlungskeule in Abh&#228;ngigkeit der genutzten Frequenz und der in Bezug
+genommenen Feldst&#228;rke. So sind neben Form und Anordnung der einzelnen
+Antennenelemente die Leistungen (Amplituden) und Phasenbeziehungen der den
+Antennenelementen zugef&#252;hrten Signale entscheidend, die durch den
+zugrundeliegenden Algorithmus entsprechend der momentanen Situation angepasst
+bestimmt werden.
+12. Welche Strahlenbelastung tritt nach Kenntnis der Bundesregierung
+w&#228;hrend aktivem Datenaustausch mit der 5G-Sendeanlage direkt am
+Empfangsger&#228;t, durch die Abstrahlleistung des Empfangsger&#228;ts, auf, wenn 
+sich dieses
+a) nah an der 5G-Sendeanlage,
+b) in mittlerer Entfernung zur 5G-Sendeanlage,
+c) in maximaler Entfernung zur 5G-Sendeanlage befindet?
+Im ung&#252;nstigsten Fall, das hei&#223;t bei maximaler Entfernung zur ortsfesten
+Basisstation, kann das mobile Endger&#228;t mit der vollen zur Verf&#252;gung stehenden
+Sendeleistung senden. In diesem Fall wird die vom Hersteller f&#252;r das jeweilige 
+Endger&#228;t angegebene spezifische Absorptionsrate (SAR-Wert) erreicht, die ein 
+Ma&#223; f&#252;r die Strahlenbelastung ist. In allen anderen F&#228;llen passt das mobile 5G-
+Endger&#228;t seine Sendeleistung entsprechend der ETSI-Norm TS 138 213,
+Abschnitt 7, an, wobei ein linearer Zusammenhang zwischen Sendeleistung und 
+erreichtem SAR-Wert besteht.
+13. In welchem Ausma&#223; steigt die Strahlenbelastung einer Gruppe nach 
+Kenntnis der Bundesregierung an, wenn sie sich im Bereich mehrerer 
+prim&#228;rer Strahlenkeulen benachbarter Frequenzb&#228;nder aufh&#228;lt?
+Es wird auf Anhang IV der Empfehlung 1999/519/EG des Rates vom 12. Juli 
+1999 zur Begrenzung der Exposition der Bev&#246;lkerung gegen&#252;ber
+elektromagnetischen Feldern (0 Hz &#8211; 300 GHz) bzw. Anhang 2 der 26. BImSchV
+verwiesen.
+14. Wird die Strahlungsbelastung von Mobilfunkantennen durch die
+Regierung regelm&#228;&#223;ig &#252;berpr&#252;ft?
+a) Wie viele Pr&#252;fungen fanden in den Jahren 2015 bis 2019 statt (bitte 
+nach Jahren gruppieren)?
+b) Bei wie vielen Pr&#252;fungen ergaben sich &#220;berschreitungen der
+Grenzwerte (bitte nach Jahren f&#252;r die Jahre 2015 bis 2019 gruppieren)?
+c) Wie werden die Pr&#252;fungen durchgef&#252;hrt?
+d) Muss das Pr&#252;fverfahren f&#252;r adaptive Antennen abge&#228;ndert werden 
+(wenn ja, bitte darlegen, welche &#196;nderungen geplant sind)?
+Die Bundesnetzagentur (BNetzA) &#252;berpr&#252;ft zur Durchf&#252;hrung der Verordnung 
+&#252;ber das Nachweisverfahren zur Begrenzung elektromagnetischer Felder 
+(BEMFV) standortbescheinigungspflichtige Funkanlagen am Installationsort. 
+Die &#220;berpr&#252;fungen erfolgen stichprobenartig und ohne Vorank&#252;ndigung. Im 
+Durchschnitt werden pro Jahr 2.200 Funkanlagenstandorte &#252;berpr&#252;ft. Das zur 
+Anwendung kommende &#220;berpr&#252;fungsverfahren ist von dem jeweiligen
+Funkanlagenstandort abh&#228;ngig. Werden gravierende Abweichungen zu den der 
+Standortbescheinigung zugrundeliegenden Antragsdaten festgestellt, wird der 
+Betreiber der jeweiligen Anlage zur Stellungnahme aufgefordert. Sofern der 
+von der BNetzA festgelegte Sicherheitsabstand nach den Regelungen 
+der BEMFV nicht eingehalten wird, erfolgt eine unverz&#252;gliche
+Au&#223;erbetriebnahmeanordnung. In diesem Fall liegt eine Ordnungswidrigkeit vor. Die
+betreffende Anlage darf erst dann wieder in Betrieb genommen werden, wenn von 
+der BNetzA die Einhaltung der Grenzwerte festgestellt werden konnte.
+Bei den bislang festgestellten Unregelm&#228;&#223;igkeiten handelte es sich
+ausschlie&#223;lich um Abweichungen von Antragsparametern, die den Personenschutz nicht 
+gef&#228;hrdeten.
+Dar&#252;ber hinaus f&#252;hrt die Bundesnetzagentur seit 1996 in Zusammenarbeit mit 
+den Landesumweltministerien j&#228;hrliche EMF-Messreihen durch. Die Messorte 
+werden nach Kriterien, wie zum Beispiel Schulen, Kinderg&#228;rten oder stark
+besuchte &#246;ffentliche Wege und Pl&#228;tze ausgew&#228;hlt. Die Umweltministerien der 
+L&#228;nder k&#246;nnen im Rahmen dieser EMF-Messreihen ebenfalls anteilig bis zu 
+1.000 Messorte benennen, die von der BNetzA dann unver&#228;ndert &#252;bernommen 
+werden. Die Messreihen zeigen, dass die gesetzlich festgelegten Grenzwerte 
+zum Schutz von Personen in elektromagnetischen Feldern nur zu einem
+Bruchteil ausgesch&#246;pft werden. Die an dem jeweiligen Messort ermittelte
+Grenzwertaussch&#246;pfung wird in der EMF-Datenbank der BNetzA ver&#246;ffentlicht.
+Die &#220;berwachung der Vorschriften der 26. BImSchV, einschlie&#223;lich der
+Einhaltung von Grenzwerten, erfolgt (mit Ausnahme von Anlagen, die der
+milit&#228;rischen Landesverteidigung dienen, sowie Betriebsanlagen der Eisenbahnen des 
+Bundes) durch die nach Landesrecht zust&#228;ndigen Beh&#246;rden in landeseigener 
+Verwaltung. Die erfragten Informationen zu dieser &#220;berwachung liegen der 
+Bundesregierung daher nicht vor.
+15. Wie berechnet die Bundesnetzagentur nach Kenntnis der
+Bundesregierung bei adaptiven Antennen, ob und in welchem Abstand der gesetzlich 
+festgelegte Grenzwert erreicht wird?
+Zum Nachweis der Einhaltung der gesetzlich festgelegten Grenzwerte bei
+adaptiven Antennen wendet die BNetzA eine abgeleitete Nahfeldberechnung an. 
+Dieses Verfahren wurde von der Universit&#228;t Karlsruhe (TH) im Auftrag der 
+BNetzA entwickelt. Bei diesem Verfahren wird eine &#252;ber alle m&#246;glichen 
+Strahlrichtungen gem&#228;&#223; der Antragstellung eine Einh&#252;llende gelegt und die 
+sich ergebenen Feldst&#228;rken berechnet. Anhand dieser Berechnung l&#228;sst sich die 
+Einhaltung der Sicherheitsabst&#228;nde entsprechend der Regelungen der BEMFV 
+feststellen.
+16. Gelten bei adaptiven Antennen nach Kenntnis der Bundesregierung
+Sonderregelungen, die &#220;berschreitungen der Grenzwerte erlauben, wenn die 
+Grenzwerte im Durchschnitt des Sendebetriebs eingehalten werden?
+a) Wenn nein, sind solche Sonderregelungen geplant?
+Besondere Grenzwerte oder Regelungen, die nur f&#252;r bestimmte
+Antennentechnik anzuwenden sind, bestehen in Deutschland nicht und sind auch nicht
+geplant. Auf die Antwort zu Frage 3 wird insoweit verwiesen.
+Die Grenzwerte f&#252;r hochfrequente elektromagnetische Felder f&#252;r ortsfeste 
+Hochfrequenzanlagen gelten nach Anlage 1b der 26. BImSchV &#8222;quadratisch 
+gemittelt &#252;ber 6-Minuten-Intervalle&#8220;. Sind die Felder nicht kontinuierlich, so 
+d&#252;rfen die in der genannten Anlage festgelegten Werte f&#252;r k&#252;rzere Zeitspannen 
+&#252;berschritten werden, und zwar im f&#252;r den Mobilfunk genutzten
+Frequenzbereich um &#8222;das 32-fache&#8220; (Anlage 3 Absatz 3 der 26. BImSchV). Bei der
+Nutzung dieser M&#246;glichkeit handelt es sich nicht um eine
+Grenzwert&#252;berschreitung. Sofern eine Sendeanlage diese M&#246;glichkeit planm&#228;&#223;ig nutzt, umfasst der 
+Nachweis der Grenzwerteinhaltung auch die sichere Funktion und
+Zuverl&#228;ssigkeit der zur Einhaltung im zeitlichen Mittel verwendeten Vorrichtungen.
+b) Wird bei dieser Berechnung die bereits vorliegende &#246;rtliche Belastung 
+ber&#252;cksichtigt?
+Die Grenzwerte m&#252;ssen nach &#167; 2 der 26. BImSchV &#8222;bei h&#246;chster betrieblicher 
+Anlagenauslastung&#8220; und &#8222;unter Ber&#252;cksichtigung von Immissionen durch
+andere ortsfeste Hochfrequenzanlagen&#8220; (sowie bestimmten
+Niederfrequenzanlagen, was in der Praxis aber regelm&#228;&#223;ig nicht relevant ist) eingehalten werden. 
+Bei der Berechnung ist daher zu ber&#252;cksichtigen, welcher Anteil der
+Grenzwerte bereits durch die Felder solcher anderen Anlagen unter jeweils h&#246;chster
+betrieblicher Anlagenauslastung ausgenutzt sein kann; dieser Anteil kann f&#252;r die 
+jeweils zu bewertende Anlage nicht mehr in Anspruch genommen werden.
+c) Wird bei diesen Berechnungen von labor&#228;hnlichen Bedingungen
+ausgegangen?
+Die Berechnungsmethoden m&#252;ssen so ausgelegt sein, dass sie zum Nachweis 
+der sichereren Grenzwerteinhaltung unter den &#246;rtlich vorhandenen
+Gegebenheiten bzw. den &#246;rtlich m&#246;glichen Bedingungen geeignet sind. Zu ber&#252;cksichtigen 
+sind dabei insbesondere die in der Antwort zu den Fragen 16a und 16b
+genannten Rahmenbedingungen. Die Berechnungsergebnisse m&#252;ssen bei Bedarf
+messtechnisch &#252;berpr&#252;fbar sein.
+17. Ist bei Umwidmung eines Mobilfunkstandorts von einer &#228;lteren
+Generation des verwendeten Mobilfunkstandards (2G, 3G, 4G) auf 5G nach 
+Kenntnis der Bundesregierung eine Neubewertung des Standorts n&#246;tig?
+a) Welche Schritte sind nach Kenntnis der Bundesregierung n&#246;tig, die 
+bei einer Umwidmung abgearbeitet werden m&#252;ssen?
+b) Wird eine Umwidmung behandelt wie eine Neuzulassung?
+c) Ist ein neues Immissionsgutachten n&#246;tig?
+d) Wird eine Neuberechnung der Strahlenbelastung durch die
+Bundesnetzagentur vorgenommen?
+Jede technische Ver&#228;nderung eines standortbescheinigungspflichtigen
+Funkanlagenstandortes, die zu einer Betriebsweise f&#252;hrt, die nicht mehr durch die
+aktuelle Standortbescheinigung abgedeckt ist, darf nur dann in Betrieb genommen 
+werden, wenn die Einhaltung der gesetzlich festgelegten Grenzwerte im
+Rahmen des Standortverfahrens durch die BNetzA festgestellt wurde. Diese
+Regelung gilt f&#252;r alle ortsfesten Funkanlagen mit einer Sendeleistung ab 10 Watt 
+EIRP pro Standort, also auch f&#252;r die 5G Mobilfunktechnik.
+18. Gedenkt die Bundesregierung, die Handlungsempfehlungen zur
+Handynutzung auf adaptive Antennen anzupassen?
+Wenn ja, inwiefern?
+Im Zusammenhang mit der Nutzung der fortentwickelten Antennensysteme 
+sind derzeit keine &#196;nderungen von Empfehlungen zur Mobilfunknutzung
+geplant. Die jeweils aktuellen Hinweise zur Verringerung der pers&#246;nlichen
+Exposition sind jederzeit auf der Internetseite des Bundesamts f&#252;r Strahlenschutz 
+(BfS) abrufbar.
+19. Ist die Technik der adaptiven Antennen, die bei 5G eingesetzt wird, nach 
+Ansicht der Bundesregierung eine neue Technik?
+Die Technik adaptiver, phasengesteuerter Gruppenantennen ist bereits seit
+mehreren Jahrzehnten bekannt und wird seit den 1970er Jahren unter anderem in 
+Radarsystemen verwendet. Insofern ist die Technik der adaptiven Antennen, 
+die bei 5G eingesetzt wird, nach Ansicht der Bundesregierung keine neue
+Technik.
+20. Welche Konsequenzen w&#252;rden sich nach Kenntnis der Bundesregierung 
+ergeben, wenn die Technik der adaptiven Antennen als neue Technik
+aufgefasst wird
+a) f&#252;r Strahlungsgrenzwerte,
+Die Bundesregierung sieht den bestehenden rechtlichen Rahmen als
+ausreichend an.
+Die Grenzwerte werden ohne Bezug zu konkreten technischen Anwendungen 
+festgelegt; auf die Antwort zu Frage 3 wird hierzu verwiesen. Daher haben 
+technische Fortentwicklungen grunds&#228;tzlich keine Auswirkungen auf die 
+Grenzwertsetzung.
+b) f&#252;r Regularien,
+Das technische Regelwerk muss f&#252;r die jeweils verwendete Technik
+angemessene Methoden zur Bewertung der Emissionen und zum Nachweis der
+Grenzwerteinhaltung festlegen. Es ist daher eine fortlaufende Pr&#252;fung geboten, ob
+eine Anpassung an fortentwickelte Technik erforderlich ist.
+c) f&#252;r die Wirtschaftlichkeit von 5G in der industriellen Anwendung,
+d) f&#252;r die Wirtschaftlichkeit von 5G im Endnutzerbereich,
+Zur Wirtschaftlichkeit einer Technik und zur Risikobewertung im
+privatwirtschaftlichen Bereich kann die Bundesregierung keine Aussagen treffen.
+e) f&#252;r die Genehmigung der Masten und Bauvorschriften,
+Das Baurecht ist in Deutschland ausschlie&#223;lich L&#228;ndersache. Die
+Bundesregierung sieht jedoch bez&#252;glich der eingesetzten Technik (hier: 5G) keinen
+Unterscheidungsbedarf im Baurecht.
+f) f&#252;r Versicherungspr&#228;mien der Mobilfunkbetreiber, die 5G-Technik
+anbieten,
+&#220;ber die Finanzierungen und R&#252;ckversicherungen der Mobilfunknetzbetreiber 
+liegen der Bundesregierung keine Informationen vor. Das unternehmerische
+Risiko liegt bei den Betreibern; der gesetzliche Rahmen soll u. a. auch eine
+Planbarkeit der unterschiedlichen Gesch&#228;ftsmodelle erm&#246;glichen.
+g) f&#252;r weitere, nicht unter a bis f gelistete Aspekte?
+Im &#220;brigen wird auf die Antwort zu Frage 19 verwiesen.
+21. In welchen anderen Bereichen wird die Technik der adaptiven Antennen 
+nach Kenntnis der Bundesregierung bereits eingesetzt?
+Nach Kenntnis der Bundesregierung wird die Technik des Beamforming im
+Bereich der Akustik (insbesondere bei Sonarsystemen, der Seismologie und bei 
+H&#246;rger&#228;tesystemen) eingesetzt. Neben der terrestrischen und der
+satellitengest&#252;tzten Kommunikation wird die Technik des Beamforming in Bezug auf 
+elektromagnetische Wellen insbesondere auch bei Radarsystemen eingesetzt. 
+Dies schlie&#223;t Systeme f&#252;r die Erderkundung und Wetterradare ein.
+22. Welche Studien zu adaptiven Antennen liegen der Bundesregierung vor?
+Im Rahmen des Ressortforschungsplans des Bundesministeriums f&#252;r Umwelt, 
+Naturschutz und nukleare Sicherheit hat das BfS das Forschungsvorhaben
+&#8222;Ber&#252;cksichtigung aktueller Mobilfunkantennentechnik bei der HF-EMF-
+Expositionsbestimmung&#8220; mit einer Laufzeit bis Ende M&#228;rz 2021 beauftragt. 
+Bestandteil des Vorhabens sind Messungen in der nahen und weiteren
+Umgebung von Standorten mit Mobilfunk-Basisstationen, die Antennensysteme mit 
+adaptiver Strahlformung bzw. -lenkung nutzen. Da die zu untersuchenden 
+Standorte dem Standortbescheinigungsverfahren unterliegen, ist von der
+Einhaltung der Grenzwerte auszugehen. Ziel des Vorhabens ist es, &#252;ber die
+Pr&#252;fung dieser Feststellung hinaus ein detailliertes Bild &#252;ber maximal m&#246;gliche 
+und tats&#228;chliche Expositionsbeitr&#228;ge zu bekommen.
+Weiterhin liegen den innerhalb der Bundesregierung zust&#228;ndigen Beh&#246;rden
+eine Vielzahl von Fachver&#246;ffentlichungen vor, die sich mit den
+elektromagnetischen Feldern der genannten Antennensysteme befassen. Beispiele f&#252;r
+relevante Artikel sind:
+Aerts, S.; Verloock, L.; Van Den Bossche, M.; Colombi, D.; Martens, L.;
+T&#246;rnevik, C. &amp; Joseph, W.: Insitu Measurement Methodology for the Assessment 
+of 5G NR Massive MIMO Base Station Exposure at Sub-6 GHz Frequencies, 
+IEEE Access, IEEE, 2019, 7, 184658-184667
+Keller, H.: On the Assessment of Human Exposure to Electromagnetic Fields 
+Transmitted by 5G NR Base Stations, Health physics, 2019, 117, 541-545
+Jamshed, M. A.; Heliot, F. &amp; Brown, T.: A Survey on Electromagnetic Risk 
+Assessment and Evaluation Mechanism for Future Wireless Communication 
+Systems, RF and Microwaves in Medicine and Biology IEEE Journal of
+Electromagnetics, 2019, 1
+Matalatala, M.; Deruyck, M.; Shikhantsov, S.; Tanghe, E.; Plets, D.; Goudos, 
+S.; Psannis, K. E.; Martens, L. &amp; Joseph, W.: Multi-objective optimization of 
+massive mimo 5g wireless networks towards power consumption, uplink and 
+downlink exposure, Applied Sciences, Multidisciplinary Digital Publishing
+Institute, 2019, 9, 4974
+Thors, B.; Furusk&#228;r, A.; Colombi, D. &amp; T&#246;rnevik, C.: Time-Averaged Realistic 
+Maximum Power Levels for the Assessment of Radio Frequency Exposure for 
+5G Radio Base Stations Using Massive MIMO, IEEE Access, 2017, 5, 
+19711-19719
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/17722 -
+Strahlenbelastung durch 5G-Strahlenkeulen (Beamforming)</titel>
+    <datum>2020-03-24</datum>
+  </document>
+  

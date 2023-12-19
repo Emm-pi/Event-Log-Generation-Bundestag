@@ -1,0 +1,155 @@
+<document>
+    <id>223463</id>
+    <drucksachetyp>Kleine Anfrage</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>39</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/5379</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>53337b02c29d5c527b0d172f4b0c293f</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:15+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>240913</id>
+      <titel>Ma&#223;nahmen gegen Spionageschnittstellen in Computerhardware der Bundesverwaltung</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>FDP</bezeichnung>
+      <titel>Fraktion der FDP</titel>
+    </urheber>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/053/1905379.pdf</pdf_url>
+      <id>223463</id>
+      <dokumentnummer>19/5379</dokumentnummer>
+      <datum>2018-10-30</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Kleine Anfrage</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Fraktion der FDP</urheber>
+    </fundstelle>
+    <autoren_anzeige>
+      <id>1102</id>
+      <titel>Jimmy Schulz, MdB, FDP</titel>
+      <autor_titel>Jimmy Schulz</autor_titel>
+    </autoren_anzeige>
+    <autoren_anzeige>
+      <id>2136</id>
+      <titel>Frank Sitta, MdB, FDP</titel>
+      <autor_titel>Frank Sitta</autor_titel>
+    </autoren_anzeige>
+    <text>[Deutscher Bundestag  Drucksache 19/5379 
+19. Wahlperiode 30.10.2018 
+Kleine Anfrage 
+der Abgeordneten Jimmy Schulz, Frank Sitta, Renata Alt, Nicole Bauer,  
+Jens Beeck, Nicola Beer, Dr. Jens Brandenburg (Rhein-Neckar),  
+Mario Brandenburg (S&#252;dpfalz), Britta Katharina Dassler, Bijan Djir-Sarai,  
+Hartmut Ebbing, Dr. Marcus Faber, Daniel F&#246;st, Otto Fricke, Thomas Hacker,  
+Markus Herbrand, Katja Hessel, Manuel H&#246;ferlin, Reinhard Houben, Ulla Ihnen,  
+Olaf in der Beek, Thomas L. Kemmerich, Pascal Kober, Carina Konrad,  
+Ulrich Lechte, Oliver Luksic, Till Mansmann, Alexander M&#252;ller,  
+Roman M&#252;ller-B&#246;hm, Hagen Reinhold, Dr. Wieland Schinnenburg,  
+Matthias Seestern-Pauly, Judith Skudelny, Bettina Stark-Watzinger,  
+Benjamin Strasser, Linda Teuteberg, Michael Theurer, Stephan Thomae,  
+Nicole Westig und der Fraktion der FDP 
+Ma&#223;nahmen gegen Spionageschnittstellen in Computerhardware der 
+Bundesverwaltung 
+Am 4. Oktober 2018 berichtete das US-amerikanische Magazin Bloomberg
+Businessweek (www.bloomberg.com/news/features/2018-10-04/the-big-hack-
+howchina-used-a-tiny-chip-to-infiltrate-america-s-top-companies, letzter Abruf: 
+5. Oktober 2018), dass bereits im Jahr 2015 Amazon und Apple sogenannte
+Supermicro-Chips auf den Mainboards, die bei der Herstellung der
+Serverinfrastruktur ihrer Cloudservices Amazon Web Services (AWS) beziehungsweise iCloud 
+verwendet werden, entdeckt h&#228;tten. Zun&#228;chst sei Amazon w&#228;hrend einer Due-
+Dilligence-Pr&#252;fung im Rahmen des &#220;bernahmeprozesses des US-
+Softwareunternehmens Elemental Technologies auf die kleinen Chips aufmerksam geworden. 
+Die Komponenten seien an unauff&#228;lligen Stellen platziert worden, h&#228;tten
+lediglich die Gr&#246;&#223;e eines Reiskorns und &#228;hnelten Signalkopplern (je nach Quelle auch 
+Kondensatoren), welche h&#228;ufig in Mainboards (zentrale Platine eines Computers, 
+welche alle Komponenten miteinander verbindet) verbaut werden. Eine
+&#220;berpr&#252;fung der Zulieferkette habe ergeben, dass die Chips von Supermicro verbaut
+worden seien &#8211; eine Firma mit Sitz in den USA und Fertigungsst&#228;tten in China.
+Ermittlungen h&#228;tten ergeben, dass unter anderem die Komplexit&#228;t der
+Hardwareattacke auf die Arbeit einer entsprechenden Spezialabteilung in der chinesischen 
+Volksbefreiungsarmee hindeuten w&#252;rde. Die Chips seien dann w&#228;hrend des
+Fertigungsprozesses der Hardwarekomponenten installiert worden. 
+In den Servern der Unternehmen verbaut, h&#228;tten diese Chips Datens&#228;tze auf dem 
+Weg zum Prozessor abfangen und an anonyme externe Computer kommunizieren 
+k&#246;nnen. Zudem h&#228;tten die Chips das System so modifizieren k&#246;nnen, dass dieses 
+von sich aus anfangen k&#246;nnte, Daten an fremde Server auszuleiten &#8211; so die
+Angaben von Bloomberg.
+Auch wenn die Angaben aus dem Bericht noch nicht best&#228;tigt wurden, so stellen 
+sich hinsichtlich der Kompromittierbarkeit von Hardware bei der Anschaffung 
+Fragen nach den Sicherheitsma&#223;nahmen, ein solches Szenario zu verhindern, in 
+der bundesdeutschen Verwaltung. 
+Wir fragen die Bundesregierung: 
+1. In welchen Beh&#246;rden und Bundesministerien (bitte auflisten) ist oder war 
+Hardware des chinesischen Herstellers Supermicro in Betrieb? 
+2. Haben die amerikanischen Sicherheitsbeh&#246;rden, die an der Aufkl&#228;rung
+dieses Falls laut Medienberichten seit 2015 arbeiten, die deutschen
+Sicherheitsbeh&#246;rden &#252;ber dieses Sicherheitsrisiko informiert? 
+a) Falls ja, wann hat diese Information stattgefunden? 
+b) Falls ja, welche Beh&#246;rden wurden informiert? 
+c) Falls ja, welche Ma&#223;nahmen wurden getroffen (bitte nach
+Bundesministerien aufschl&#252;sseln)? 
+d) Falls nein, warum nicht? 
+e) Falls nein, welche regelm&#228;&#223;igen Austauschformate im Bereich IT-
+Sicherheit existieren? 
+f) Falls nein, sieht die Bundesregierung sich in der Pflicht, aktiv
+nachzufragen?  
+Ist dies passiert? 
+3. Welche Ma&#223;nahmen werden beim Einkauf von Computerhardware f&#252;r
+Bundesbeh&#246;rden getroffen, um Spionaget&#228;tigkeiten durch manipulierte
+Hardware auszuschlie&#223;en? 
+4. Ist es zutreffend, dass die Hardware und Software in den
+sicherheitseingestuften Beh&#246;rdennetzwerken des Bundes wie z. B. dem Informationsverbund 
+Berlin-Bonn (IVBB) nach dem Sicherheitsstandard EAL4+ zertifiziert ist 
+(https://de.wikipedia.org/wiki/Common_Criteria_for_Information_Technology_ 
+Security_Evaluation)?  
+Welche Beh&#246;rdennetzwerke sind nach h&#246;heren Standards gepr&#252;ft? 
+5. Werden im Rahmen der genannten Sicherheitsstandards in der Antwort zu 
+Frage 4 Computer auf eingeschleuste Spionagehardware gepr&#252;ft?  
+Wenn ja, wer f&#252;hrt diese Pr&#252;fung durch? 
+6. Werden alle eingekauften Hardwarekomponenten auf eingeschleuste
+Fremdhardware gepr&#252;ft? 
+a) Falls ja, auf welche Weise und mit welcher Technologie passiert diese 
+Pr&#252;fung? 
+b) Falls nur stichprobenartig gepr&#252;ft wird, wie viel Prozent der Hardware 
+wird &#252;berpr&#252;ft? 
+c) Falls ja, finden die in den Fragen 6a und 6b genannten &#220;berpr&#252;fungen 
+standardm&#228;&#223;ig im Rahmen der Zertifizierung nach Sicherheitsstandard 
+EAL4+ statt? 
+d) Falls nein, warum wird diese Pr&#252;fung nicht durchgef&#252;hrt? 
+7. Welche sonstigen Zertifizierungen sind notwendig f&#252;r den Betrieb von
+Hardware im sicherheitsrelevanten Bereich?
+8. Welche Pr&#252;fungen erfolgen beim Einkauf von Computerhardware f&#252;r
+Beh&#246;rden oder Bundesministerien in Bezug auf die Sicherheit der Hardware nach 
+Lieferung? 
+9. Welche Pr&#252;fungen erfolgen beim Einkauf von Computerhardware f&#252;r
+Beh&#246;rden oder Bundesministerien in Bezug auf die Sicherheit der Firmware von 
+Systemkomponenten wie z. B. dem (UEFI)BIOS (Unified Extensible
+Firmware Interface Basic Input Output System)? 
+10. Wie gedenkt die Bundesregierung in Zukunft sicherzustellen, dass keine 
+Fremdhardware, z. B. zu Spionagezwecken, in Computerhardware f&#252;r den 
+beh&#246;rdlichen Einsatz eingebracht wird? 
+11. Welche zus&#228;tzlichen Sicherheitspr&#252;fungen plant die Bundesregierung f&#252;r 
+Computerhardware, die zuk&#252;nftig erworben werden soll? 
+12. Werden Computersysteme der Bundesregierung oder der Beh&#246;rden und
+Bundesministerien regelm&#228;&#223;ig auf Fremdhardware im Rahmen von IT-
+Sicherheitsaudits &#252;berpr&#252;ft (siehe insbesondere die laut Bundestagsdrucksache 
+19/2587, Antwort zu Frage 13a regelm&#228;&#223;ig durchgef&#252;hrten Tests)? 
+Berlin, den 17. Oktober 2018 
+Christian Lindner und Fraktion
+ 
+ 
+ 
+Satz: Satzweiss.com Print, Web, Software GmbH, Mainzer Stra&#223;e 116, 66121 Saarbr&#252;cken, www.satzweiss.com 
+Druck: Printsystem GmbH, Schafw&#228;sche 1-3, 71296 Heimsheim, www.printsystem.de 
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de 
+ISSN 0722-8333]</text>
+    <titel>Ma&#223;nahmen gegen Spionageschnittstellen in Computerhardware der Bundesverwaltung</titel>
+    <datum>2018-10-30</datum>
+  </document>
+  

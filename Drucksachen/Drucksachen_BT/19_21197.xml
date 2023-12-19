@@ -1,0 +1,389 @@
+<document>
+    <id>243608</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/21197</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>ed9f1c2b1f234990b4d5ed88c56cb07f</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>264370</id>
+      <titel>Corona digital bek&#228;mpfen - Entwicklung einer Tracking- und Tracing-App</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium f&#252;r Gesundheit</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/211/1921197.pdf</pdf_url>
+      <id>243608</id>
+      <dokumentnummer>19/21197</dokumentnummer>
+      <datum>2020-07-22</datum>
+      <verteildatum>2020-10-07</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Antwort
+der Bundesregierung
+auf die Kleine Anfrage der Abgeordneten Joana Cotar, Uwe Schulz,
+Dr. Michael Espendiller und der Fraktion der AfD
+&#8211; Drucksache 19/20505 &#8211;
+Corona digital bek&#228;mpfen &#8211; Entwicklung einer Tracking- und Tracing-App
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Die Bundesrepublik Deutschland steht angesichts der SARS-CoV-2-Pandemie 
+vor der gr&#246;&#223;ten Herausforderung seit der Fl&#252;chtlingskrise.
+Am 22. M&#228;rz 2020 beschloss Bundeskanzlerin Dr. Angela Merkel mit den
+Regierungschefs der L&#228;nder ein umfangreiches Kontaktverbot, &#8222;um einen
+unkontrollierten Anstieg der Fallzahlen zu verhindern&#8220; (https://www.bmi.bund.de/S
+haredDocs/downloads/DE/veroeffentlichungen/2020/hinweis-einschraenkung-
+soziale-kontakte.pdf?__blob=publicationFile&amp;v=2).
+Insbesondere den Angeh&#246;rigen der Gesundheits- und Pflegeberufe, ebenso 
+wie den Supermarktkassierern, den LKW-Fahrerinnen und den vielen anderen, 
+die unser aller t&#228;glich Leben weiter aufrechterhalten, ist die Vermeidung
+solcher Kontakte berufsbedingt unm&#246;glich. Sie sind nach Ansicht der
+Fragesteller die Helden unseres Alltags. Sie zu sch&#252;tzen und zu unterst&#252;tzen muss nach 
+Ansicht der Fragesteller gerade zum jetzigen Zeitpunkt ein wesentliches Ziel 
+staatlicher F&#252;rsorge und gesellschaftlicher Solidarit&#228;t sein.
+Digitale Technologien k&#246;nnen helfen, die Erhebung, Dokumentation und 
+R&#252;ckverfolgung und damit letztlich die Vermeidung von Kontakten sowie die 
+Unterbrechung von Infektionsketten wirksam, effizient und dynamisch
+auszugestalten. Die Bundesregierung setzt daher auch auf die intelligente
+Kontakterhebung und R&#252;ckverfolgung (tracking und tracing) durch digitale
+Technologie in Form einer mobilen Anwendung (App). Die Umsetzung birgt jedoch 
+nach Ansicht der Fragesteller viele Probleme und viele Fragen sind ungekl&#228;rt.
+In der 53. Sitzung des Ausschusses Digitale Agenda des Deutschen
+Bundestages (https://www.bundestag.de/resource/blob/693176/69ed6cf8a9d844211444
+e19aa509bb50/19WP-53-data.pdf) wurde von Seiten des Bundeskanzleramtes 
+auf die Frage: &#8222;Sind von Mittwoch, 22. April 2020, bis heute, 29. April 2020, 
+von Seiten der Bundesregierung Gespr&#228;che mit Apple zum Contact-Tracing 
+gef&#252;hrt worden?&#8220; geantwortet: &#8222;Die Bundesregierung hat im genannten
+Zeitraum kein solches Gespr&#228;ch auf Leitungsebene mit Apple gef&#252;hrt.&#8220;
+Dagegen wurde in der 52. Sitzung des Ausschusses Digitale Agenda des
+Deutschen Bundestages (https://www.bundestag.de/resource/blob/692176/b8fe08bf
+badaef43d55eb6ee839267a2/19WP-52-1-Aenderungs-Ergaenzungsmitteilung-
+data.pdf) von Seiten des Bundesministeriums f&#252;r Gesundheit die Aussage ge-
+Deutscher Bundestag Drucksache 19/21197
+19. Wahlperiode 22.07.2020
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums f&#252;r Gesundheit vom 21. Juli 2020 
+&#252;bermittelt.
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext.
+troffen, dass die bisherigen Gespr&#228;che mit Apple und Google durch das
+Bundeskanzleramt gef&#252;hrt worden sind.
+Am 15. April 2020 fassten die Bundeskanzlerin und die Regierungschefs der 
+L&#228;nder den Beschluss, das Architekturkonzept des &#8222;Pan-European Privacy-
+Preserving Proximity Tracing&#8220; zu unterst&#252;tzen, unter anderem weil es einen 
+gesamteurop&#228;ischen Ansatz verfolgt (https://www.bundeskanzlerin.de/bkin-d
+e/suche/telefonschaltkonferenz-der-bundeskanzlerin-mit-den-regierungschefin
+nen-und-regierungschefs-der-laender-am-15-april-2020-1744228). Am 
+26. April 2020 lie&#223; sie diesen Ansatz jedoch fallen (https://www.bundesregier
+ung.de/breg-de/suche/regierungspressekonferenz-vom-27-april-2020-174
+7774) und setzt nun auf die dezentrale Datenspeicherung. Dieses Hin und Her 
+sorgt nach Ansicht der Fragesteller f&#252;r Unverst&#228;ndnis und verspielt vor allem 
+Vertrauen.
+Am 28. April 2020 k&#252;ndigte die Bundesregierung an, dass die Corona-App
+federf&#252;hrend von den Unternehmen SAP und Deutsche Telekom durchgef&#252;hrt 
+werden soll (https://www.bundesregierung.de/breg-de/aktuelles/pressemitteilu
+ng-des-bundesministeriums-fuer-gesundheit-des-bundesministeriums-des-inne
+rn-fuer-bau-und-heimat-und-des-bundeskanzleramts-zum-projekt-corona-
+appder-bundesregierung-1747916).
+Seit dem 16. Juni 2020 steht die Corona-App zum Download bereit.
+V o r b e m e r k u n g  d e r  B u n d e s r e g i e r u n g
+Die Bundesregierung misst digitalen L&#246;sungen einen hohen Stellenwert bei der 
+Bek&#228;mpfung der Corona-Pandemie bei. Eine Tracking-App wird dabei nicht 
+eingesetzt. Die bereitgestellte Corona-Warn-App (CWA) ist als Tracing-App 
+konzipiert (&#8222;Tracing&#8220; &#8211; engl. f&#252;r zeitlich versetzte R&#252;ckverfolgung einer Spur; 
+zu unterscheiden von &#8222;Tracking&#8220; &#8211; engl. f&#252;r Verfolgung des aktuellen Standorts 
+in Echtzeit). Die CWA nutzt die Bluetooth-Technik, um den Abstand und die 
+Begegnungsdauer zwischen Personen zu messen, die die App installiert haben. 
+Die Smartphones tauschen untereinander verschl&#252;sselte IDs aus und zeichnen 
+diese auf, wenn die vom Robert Koch-Institut (RKI) festgelegten Kriterien zu 
+Abstand und Zeit erf&#252;llt sind. Werden Personen, die die App nutzen, positiv auf 
+das Coronavirus SARS-CoV-2 getestet, k&#246;nnen sie freiwillig andere
+Nutzerinnen und Nutzer dar&#252;ber informieren. Dann werden die verschl&#252;sselten IDs der 
+oder des Infizierten allen Personen zur Verf&#252;gung gestellt, die die CWA nutzen. 
+Die CWA pr&#252;ft sodann, ob die oder der jeweilige Nutzende die positiv getestete 
+Person getroffen hat. Diese Pr&#252;fung findet nur auf dem Smartphone der oder 
+des jeweiligen Nutzenden selbst statt. Falls die Pr&#252;fung ergibt, dass ein Kontakt 
+stattgefunden hat, zeigt die App der oder dem jeweiligen Nutzenden eine
+Warnung an. Das Verfahren erlaubt keine R&#252;ckschl&#252;sse auf die Nutzende oder den 
+Nutzenden oder ihren bzw. seinen Standort.
+&#8199;1. Gibt es einen Zeitplan und eine Strategie f&#252;r den Exit aus der Corona-
+Warn-App?
+Die mit den Unternehmen T-Systems International GmbH und SAP
+Deutschland SE &amp; Co. KG im Rahmen der geltenden vergaberechtlichen
+Bestimmungen geschlossenen Vertr&#228;ge weisen eine initiale Laufzeit bis zum 31. Mai 2021 
+aus. Die Bundesregierung wird die Notwendigkeit einer fortdauernden
+Verwendung der CWA &#252;ber diesen Zeitpunkt hinaus in enger Abstimmung mit dem 
+RKI und vor dem Hintergrund der epidemiologischen Bedarfslage pr&#252;fen.
+&#8199;2. Aus welchen Gr&#252;nden lehnt die Bundesregierung ein Gesetz zur Corona-
+App ab, das Nicht-App-Nutzer vor sozialer Diskriminierung und
+Ausgrenzung sch&#252;tzt (https://www.faz.net/aktuell/politik/inland/regierung-ve
+rteidigt-corona-app-gegen-kritik-16817359.html), und w&#228;re ein solches 
+Gesetz nicht auch aus datenschutzrechtlichen Gr&#252;nden ein Muss?
+Aufgrund der Freiwilligkeit der Nutzung der CWA ist weder aus
+verfassungsnoch aus datenschutzrechtlicher Sicht eine Rechtsgrundlage f&#252;r die Nutzung 
+der CWA oder zur Unterbindung einer missbr&#228;uchlichen Verwendung der CWA 
+durch private Dritte geboten. Die geltenden datenschutzrechtlichen Regelungen 
+unterbinden bereits eine Diskriminierung oder Ausgrenzung von Personen, die 
+sich gegen eine Nutzung der CWA entscheiden.
+Private Personen, die die Benutzung der CWA vor einem Zutritt von
+Besch&#228;ftigten oder Kundinnen und Kunden zu ihren Gesch&#228;ftsr&#228;umen pr&#252;fen bzw. den 
+Status der App kontrollieren m&#246;chten, treten in eine eigenst&#228;ndige
+datenschutzrechtliche Verantwortlichkeit ein. F&#252;r die Verarbeitung der Daten durch die
+Unternehmen fehlt es jedoch an einem datenschutzrechtlichen Erlaubnistatbestand. 
+Die bei der Installation der App von der Nutzerin oder dem Nutzer zu
+erteilende Einwilligung gen&#252;gt insoweit nicht, da sie die verfolgten Zwecke der
+Zugangskontrolle oder betrieblichen Infektionspr&#228;vention nicht umfasst.
+Gesonderte Einwilligungen der Besch&#228;ftigten bzw. Kundinnen und Kunden k&#246;nnen 
+mangels hinreichender Freiwilligkeit keinen datenschutzrechtlichen
+Erlaubnistatbestand darstellen. Soweit Privatpersonen dennoch ein Vorzeigen der CWA 
+verlangen, stehen den Datenschutzaufsichtsbeh&#246;rden des Bundes und der
+L&#228;nder nach der Datenschutzgrundverordnung umfassende Handlungsinstrumente 
+zur Verf&#252;gung.
+&#8199;3. Wann gab es Gespr&#228;che von Leitungsebene und von Beamten des
+Bundeskanzleramtes mit Vertretern von Google und Apple (vgl.
+Vorbemerkung der Fragesteller)?
+a) Um welche Vertreter von Google und Apple handelte es sich?
+b) Welche Sachverhalte hatten die Gespr&#228;che zum Inhalt?
+c) Welche Ergebnisse wurden in welchen Gespr&#228;chen vereinbart (bitte 
+tabellarisch auflisten)?
+d) Welche Ma&#223;nahmen wurden in welchen Gespr&#228;chen vereinbart, und 
+welche davon wurden bislang umgesetzt oder zumindest angegangen 
+(bitte tabellarisch auflisten)?
+Die Fragen 3 bis 3d werden gemeinsam beantwortet.
+Eine Verpflichtung zur Erfassung s&#228;mtlicher gef&#252;hrter Gespr&#228;che &#8211;
+einschlie&#223;lich Telefonate &#8211; besteht nicht und eine solche umfassende Dokumentation 
+wurde auch nicht durchgef&#252;hrt (siehe dazu die Vorbemerkung der
+Bundesregierung in ihrer Antwort auf die Kleine Anfrage der Fraktion DIE LINKE. auf 
+Bundestagsdrucksache 18/1174). Die nachfolgenden Ausf&#252;hrungen beziehen 
+sich ausschlie&#223;lich auf Gespr&#228;che der Leitungsebene des Bundeskanzleramtes 
+und erfolgen auf der Grundlage der vorliegenden Erkenntnisse sowie
+vorhandener Unterlagen und Aufzeichnungen. Diesbez&#252;gliche Daten sind somit
+m&#246;glicherweise nicht vollst&#228;ndig.
+Nach den vorliegenden Informationen haben keine Besprechungen mit
+Vertretern von Google und Apple im Kontext der CWA stattgefunden.
+&#8199;4. Wurden die Bundesl&#228;nder, die f&#252;r Gefahrenabwehr zust&#228;ndig sind und 
+deren kommunale Gesundheits&#228;mter am Betrieb der App beteiligt sind, 
+an diesen Gespr&#228;chen beteiligt, und wenn ja, in welcher Form?
+&#8199;5. Wurden die Ministerpr&#228;sidenten der Bundesl&#228;nder &#252;ber diese Gespr&#228;che 
+informiert, und wenn ja, wann, und durch wen?
+a) Welche Inhalte wurden den Ministerpr&#228;sidenten aus diesen
+Gespr&#228;chen mitgeteilt?
+b) Hat die Bundesregierung Einzelgespr&#228;che mit dem s&#228;chsischen
+Ministerpr&#228;sidenten Michael Kretschmer (CDU) dazu gef&#252;hrt, der im 
+&#246;ffentlich-rechtlichen Fernsehen am 23. April 2020 die Forderung 
+aufstellte, die Bundesregierung d&#252;rfe &#8222;sich nicht von Google und 
+Apple erpressen lassen&#8220; (https://www.youtube.com/watch?v=elD5lY
+uwhWg, Minute 26:55)?
+c) Teilt die Bundesregierung die Einsch&#228;tzung von Ministerpr&#228;sident 
+Michael Kretschmer (ebd., Minute 26:18), wenn die Hersteller der 
+Handy-Betriebssysteme (Anm.: angesprochen waren Google und
+Apple) die aufgenommenen Gesundheitsdaten erhielten, &#8222;geht die App 
+morgen los&#8220;?
+d) Auf welche Gespr&#228;che bezieht sich nach Kenntnis der
+Bundesregierung Ministerpr&#228;sident Michael Kretschmer (ebd., Minute 26:21) mit 
+seiner Aussage in Bezug auf die Verhandlungen mit Google und
+Apple &#8222;das ist der Konflikt, der gerade l&#228;uft&#8220;?
+e) Teilt die Bundesregierung die Einsch&#228;tzung von Ministerpr&#228;sident 
+Michael Kretschmer (ebd., Minute 26:32), weil wir Deutschen und 
+Europ&#228;er nicht bereit seien, diese sensiblen Gesundheitsdaten an 
+Google und Apple zu geben, &#8222;h&#228;ngt das Ganze&#8220; (Anm.: gemeint ist 
+die Entwicklung der App)?
+f) Teilt die Bundesregierung die Einsch&#228;tzung von Ministerpr&#228;sident 
+Michael Kretschmer (ebd., Minute 26:41), man m&#252;sse &#8222;diese
+Konzerne weiter unter Druck setzen&#8220;, und wenn ja, wie setzt die
+Bundesregierung diese Einsch&#228;tzung um?
+g) Teilt die Bundesregierung die Einsch&#228;tzung von Ministerpr&#228;sident 
+Michael Kretschmer (ebd., Minute 26:46), man m&#252;sse
+&#8222;m&#246;glicherweise eine Alternative entwickeln&#8220;?
+Die Fragen 4 bis 5g werden gemeinsam beantwortet.
+Es wird auf die Antwort zu Frage 3 verwiesen.
+Im &#220;brigen kommentiert die Bundesregierung keine &#196;u&#223;erungen des
+genannten Ministerpr&#228;sidenten.
+&#8199;6. Wie hoch sieht die Bundesregierung die Gefahr eines sp&#228;teren
+Datenabflusses von den Handys an Apple und Google, die eigene
+Gesundheitsl&#246;sungen entwickeln (&#8222;Apple Health App&#8220;, &#8222;Google Fit&#8220;) und f&#252;r die, nach 
+Auffassung der Fragesteller, diese Tracking-Daten daf&#252;r vermutlich von 
+hoher Bedeutung w&#228;ren?
+a) Wie bewertet der Bundesdatenschutzbeauftragte die Gefahr eines
+Datenabflusses an Google und Apple?
+b) Wie bewerten nach Kenntnis der Bundesregierung andere
+europ&#228;ische L&#228;nder die Gefahr eines Datenabflusses an Google und Apple?
+c) Wie will die Bundesregierung sicherstellen, dass bei einer dezentralen 
+L&#246;sung die auf den Handys gespeicherten Daten nicht sp&#228;ter &#252;ber die 
+Betriebssysteme durch Apple und Google abgegriffen werden?
+Die Fragen 6 bis 6c werden gemeinsam beantwortet.
+Bei der CWA handelt es sich um eine Tracing-App (vgl. Vorbemerkung der 
+Bundesregierung). Die CWA nutzt das von Apple und Google entwickelte
+Expositionsbenachrichtungswerkzeug (ENF) f&#252;r &#8222;Privacy-Preserving Contact
+Tracing&#8220;, das Bestandteil der Betriebssysteme Android und iOS ist und es
+Smartphones erlaubt, wechselnde zufallsgenerierte Kennnummern zur
+Kontaktnachverfolgung per &#8222;Bluetooth Low Energy (BLE)&#8220; im Hintergrund auszutauschen. 
+Es werden dabei weder in der CWA Standortdaten erhoben noch sehen die
+genutzten Programmierschnittstellen von Apple und Google f&#252;r die Verfolgung 
+von Begegnungen per Bluetooth-Abstandsmessung (Exposure Notification 
+API) eine Erhebung von Standortdaten vor. Es besteht daher aus Sicht der 
+Bundesregierung kein erh&#246;htes Risiko, dass Daten &#252;ber die Exposure
+Notification API an Google oder Apple abflie&#223;en.
+M&#246;gliche datenschutzrechtliche Risiken auf Grundlage der Konnektivit&#228;ten 
+und des ENF von Google und Apple wurden umfassend in der Datenschutz-
+Folgenabsch&#228;tzung gew&#252;rdigt. Diese wurde vor Start der CWA ver&#246;ffentlicht 
+und ist online verf&#252;gbar (https://www.coronawarn.app/assets/documents/cwa-d
+atenschutz-folgenabschaetzung.pdf).
+Dem BfDI liegen nach Kenntnis der Bundesregierung derzeit keine
+Erkenntnisse &#252;ber eine missbr&#228;uchliche bzw. zweckfremde Nutzung der durch die CWA 
+oder die Exposure Notification API verarbeiteten Daten durch Google oder
+Apple vor.
+Die theoretisch bestehende M&#246;glichkeit eines Datenabflusses an Google oder 
+Apple im Kontext der CWA stellt aus Sicht des Bundesbeauftragten f&#252;r den 
+Datenschutz und die Informationsfreiheit (BfDI) ein zu ber&#252;cksichtigendes
+Risiko dar. Der BfDI hat daher im Rahmen der Begleitung des Projektes auf eine 
+angemessene Ber&#252;cksichtigung dieses Risikos bei der Datenschutz-
+Folgenabsch&#228;tzung durch das RKI geachtet.
+Aus der Stellungnahme des BfDI an die Bundesregierung geht hervor, dass aus 
+Sicht des BfDI Google und Apple ihre Transparenzpolitik &#252;berdenken und die 
+Quellcodes der Exposure Notification API einer &#220;berpr&#252;fung durch die
+&#214;ffentlichkeit zug&#228;nglich machen sollten.
+Die Einsch&#228;tzung der Bundesregierung, dass ein Abflie&#223;en von Daten an
+Google und Apple wegen des gew&#228;hlten Ansatzes nicht erfolgt, wird nach Kenntnis 
+der Bundesregierung auch von anderen europ&#228;ischen Staaten geteilt, die
+ebenfalls auf eine dezentrale L&#246;sung unter Nutzung der Exposure Notification API 
+setzen.
+Wie oben erw&#228;hnt, werden keine Daten &#252;ber die Exposure Notification API 
+&#252;bermittelt. Im &#220;brigen unterliegen auch Google und Apple den strengen
+europ&#228;ischen und nationalen Datenschutzregelungen, wenn sie Dienste in
+Deutschland anbieten.
+&#8199;7. Teilt die Bundesregierung das Unverst&#228;ndnis des Bundesministers f&#252;r 
+Gesundheit Jens Spahn vom 25. April 2020 hinsichtlich der
+Argumentation, dass &#8222;Daten, die bei Apple und Google aufgehoben sind, bei
+amerikanischen Gro&#223;konzernen, besser gesch&#252;tzt sind als Daten, die in 
+Deutschland auf Servern auch staatlich kontrolliert liegen&#8220; (https://www.
+tagesschau.de/inland/corona-app-spahn-103.html)?
+Bei der Entwicklung der CWA hat sich die Bundesregierung f&#252;r einen
+dezentralen technischen Ansatz und somit eine besonders datensparsame Ausgestaltung 
+entschieden. Um die notwendige Funktionalit&#228;t zu realisieren, setzt die CWA 
+auf die Exposure Notification API von Google und Apple auf.
+Bei der CWA fallen keine personenbezogenen Daten an, die auf zentralen
+Servern eines dieser beiden Unternehmen gespeichert werden. &#220;ber Bluetooth 
+werden st&#228;ndig wechselnde, verschl&#252;sselte IDs versendet und von den Ger&#228;ten 
+gesammelt, die die App installiert haben. Es werden durch die CWA weder 
+Standortdaten erhoben noch werden Standortdaten &#252;ber die genutzten Exposure 
+Notification API &#252;bermittelt. Es erfolgt auch kein Versand und keine
+Speicherung von personenbezogenen Daten.
+Der Abgleich, ob man einer infizierten Person begegnet ist, geschieht lokal auf 
+dem Smartphone. Ein dar&#252;berhinausgehendes Weiterverfolgen mittels der 
+durch die CWA gespeicherten Begegnungen ist nicht vorgesehen &#8211; weder f&#252;r 
+die anderen Nutzerinnen und Nutzer noch f&#252;r die Gesundheitsbeh&#246;rden oder 
+die genannten Unternehmen.
+&#8199;8. Welche konkreten Ma&#223;nahmen ergeben sich aus der gemeinsamen
+Erkl&#228;rung des Bundeskanzleramtes und des Bundesministeriums f&#252;r
+Gesundheit und des Bundesministeriums des Innern, f&#252;r Bau und Heimat vom 
+28. April 2020, &#8222;auf die Interoperabilit&#228;t mit anderen europ&#228;ischen
+L&#246;sungen soll geachtet werden&#8220;, und welche dieser Ma&#223;nahmen wurden 
+bereits angegangen oder umgesetzt (https://www.bundeskanzlerin.de/bki
+n-de/suche/pressemitteilung-des-bundesministeriums-fuer-gesundheit-de
+s-bundesministeriums-des-innern-fuer-bau-und-heimat-und-des-bundesk
+anzleramts-zum-projekt-corona-app-der-bundesregierung-1747916)?
+Wie erfolgt derzeit eine Abstimmung der nationalen App-Entwicklungen 
+auf europ&#228;ischer Ebene?
+Die Bundesregierung unterst&#252;tzt die EU-Kommission in ihren Bem&#252;hungen, 
+dass die verschiedenen europ&#228;ischen Corona-Warn-Apps grenz&#252;berschreitend 
+miteinander kommunizieren und Warnungen austauschen k&#246;nnen
+(Interoperabilit&#228;t). Erste europ&#228;ische Leitlinien zur Architektur, zum Datenschutz und zur 
+Datensicherheit wurden auf europ&#228;ischer Ebene im Rahmen des E-Health-
+Netzwerkes bereits abgestimmt, sodass derzeit die Gateway-Funktionalit&#228;ten 
+aufgebaut werden sollen.
+&#8199;9. Wie hoch muss die Verbreitung der App in der Bev&#246;lkerung sein
+(Angabe in Millionen Downloads), um aus epidemiologischer Sicht ein
+wirksames Steuerungsinstrument sein zu k&#246;nnen und der Forderung der
+Bundeskanzlerin gerecht zu werden, es werde &#8222;darauf ankommen, dass breite 
+Teile der Bev&#246;lkerung diese M&#246;glichkeit nutzen&#8220; (https://www.bundeska
+nzlerin.de/bkin-de/suche/telefonschaltkonferenz-der-bundeskanzlerin-mi
+t-den-regierungschefinnen-und-regierungschefs-der-laender-am-06-mai-
+2020-1750988)?
+Aus Sicht der Bundesregierung gibt es keine Mindesterfolgsgrenze. Jede
+Person, die die CWA nutzt, tr&#228;gt zur Pandemiebek&#228;mpfung bei. Auch ist der
+Bundesregierung keine konkrete, wissenschaftlich fundierte Mindestzahl an 
+Downloads f&#252;r eine solche Annahme bekannt.
+Auch die Studie der University of Oxford &#8222;Effective Configurations of a
+Digital Contact Tracing App&#8220; vom 16. April 2020 belegt, dass Tracing-Apps auf
+allen Akzeptanzstufen eine Wirkung haben k&#246;nnen (sog. Skaleneffekt). Das
+Ergebnis der Studie &#8211; eine Schwelle f&#252;r den Erfolg einer Tracing-App bei
+Nutzung durch 60 Prozent der Bev&#246;lkerung &#8211; bezieht sich auf ein Szenario, bei 
+dem die jeweilige Tracing-App nicht in andere Ma&#223;nahmen eingebettet ist,
+sondern das zentrale Instrument zur Pandemiebek&#228;mpfung ist. Die
+Bundesregierung versteht den Einsatz der CWA indes als einen weiteren Baustein neben
+anderen Ma&#223;nahmen zur Pandemiebek&#228;mpfung.
+Aus Sicht der Bundesregierung ist die Definition einer unteren Schwelle nicht 
+zielf&#252;hrend. Wenn all diejenigen die CWA nutzen, die beispielsweise
+regelm&#228;&#223;ig &#246;ffentliche Verkehrsmittel nutzen &#8211; also mit Personen zusammenkommen, 
+die haupts&#228;chlich anonym sind &#8211;, schafft die Nutzung der CWA &#8211; auch wenn 
+diese nur durch einen kleinen Teil der Bev&#246;lkerung erfolgt &#8211; bereits einen
+konkreten Mehrwert.
+10. Treffen Presseberichte zu, nach denen das Bundespresseamt seine
+Hausagentur &#8222;Zum Goldenen Hirschen&#8220; mit einer Kampagne beauftragt hat, 
+die Corona-App f&#252;r B&#252;rger attraktiv zu machen (https://www.spiegel.de/
+netzwelt/apps/corona-bekaempfung-agentur-soll-warn-app-populaer-mac
+hen-a-71d7b78d-b8f5-498b-8b36-ee29efbf62cd)?
+a) Welche Haushaltsmittel in welcher H&#246;he sind f&#252;r die
+Konzepterstellung und die Umsetzung der Aufrufe vorgesehen?
+b) Welche Planungen liegen bereits f&#252;r die Gestaltung der Aufrufe vor?
+Die Fragen 10 bis 10b werden gemeinsam beantwortet.
+Das Presse- und Informationsamt der Bundesregierung (BPA) informiert im 
+Rahmen seines gesetzlichen Auftrags mit einer breit angelegten,
+crossmedialen Kampagne die &#214;ffentlichkeit &#252;ber Existenz, Funktionsweise und
+Nutzen der CWA. F&#252;r die Konzeption, Kreation und inhaltliche Umsetzung dieser 
+Kampagne wurde die Rahmenvertragsagentur &#8222;Zum goldenen Hirschen&#8220;
+beauftragt.
+Die Ausgaben bestreitet das BPA aus den daf&#252;r zur Verf&#252;gung stehenden
+Haushaltsmitteln. F&#252;r ressort&#252;bergreifende Kommunikation und Koordinierung sieht 
+der Haushalt 2020 18,56 Mio. Euro (Kapitel 0432 Titel 542 03) vor. Die
+genauen Ausgaben f&#252;r die Informationskampagne werden allerdings erst nach
+Beendigung und vollst&#228;ndiger Abrechnung feststehen.
+Die Kampagne l&#228;uft seit dem 16. Juni 2020, die gestalteten Werbemittel liegen 
+&#246;ffentlich vor (https://styleguide.bundesregierung.de/sg-de/basiselemente/progr
+ammmarken/corona-warn-app-baukasten).
+c) Ist die Agentur auch an der Gestaltung einer Exit-Strategie beteiligt?
+Nein.
+11. Wird f&#252;r die Corona-Warn-App sp&#228;ter noch ein Update zur Datenspende 
+entwickelt werden?
+a) Wenn ja, wann soll die Ver&#246;ffentlichung dieses Updates erfolgen?
+b) Welche Daten sollen dann als Datenspende &#252;bermittelt werden?
+c) An wen werden diese Daten &#252;bermittelt?
+d) Wie wird der Datenschutz bei der Datenspende sichergestellt?
+Die Fragen 11 bis 11d werden gemeinsam beantwortet.
+Von Datenspende wird gesprochen, wenn es sich um die Verarbeitung
+personenbezogener Daten mit Einwilligung der betroffenen Person handelt. Die
+Entscheidung f&#252;r eine dezentrale und datensparsame L&#246;sung bedeutet, dass bei
+Installation und Nutzung der CWA keine personenbezogene Daten erhoben
+werden. Damit existieren auch keine personenbezogenen Daten, die f&#252;r die
+Forschung gespendet werden k&#246;nnten. Es wird zurzeit diskutiert, wie unter den
+genannten Rahmenbedingungen eine wissenschaftliche Evaluation der App
+erfolgen kann.
+Falls zuk&#252;nftig eine Notwendigkeit von wissenschaftlichen Begleitstudien f&#252;r 
+die CWA gesehen wird, k&#246;nnte es den Nutzerinnen und Nutzern der CWA bei 
+einer sp&#228;teren Ausbaustufe der CWA erm&#246;glicht werden, sich freiwillig an
+einer solchen wissenschaftlichen Evaluation der CWA und damit verbundenen 
+Forschungsfragen zur SARS-CoV-2-Situation in Deutschland zu beteiligen.
+Einen konkreten Umsetzungsplan gibt es zurzeit jedoch nicht.
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/20505 -
+Corona digital bek&#228;mpfen - Entwicklung einer Tracking- und Tracing-App</titel>
+    <datum>2020-07-22</datum>
+  </document>
+  

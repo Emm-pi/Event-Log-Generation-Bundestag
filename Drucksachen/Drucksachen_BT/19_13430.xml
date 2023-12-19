@@ -1,0 +1,1072 @@
+<document>
+    <id>234133</id>
+    <drucksachetyp>Unterrichtung</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/13430</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>10cbeff874c23818b1807df4403824e8</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>253250</id>
+      <titel>Mieterstrombericht nach &#167; 99 des Erneuerbare-Energien-Gesetzes 2017</titel>
+      <vorgangstyp>Bericht, Gutachten, Programm</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium f&#252;r Wirtschaft und Energie</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/134/1913430.pdf</pdf_url>
+      <id>234133</id>
+      <dokumentnummer>19/13430</dokumentnummer>
+      <datum>2019-09-19</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Unterrichtung</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Deutscher Bundestag Drucksache 19/13430 
+19. Wahlperiode 19.09.2019 
+Unterrichtung
+durch die Bundesregierung
+Mieterstrombericht nach &#167; 99 des Erneuerbare-Energien-Gesetzes 2017 
+Inhaltsverzeichnis
+Seite
+Abbildungsverzeichnis................................................................................. 2
+Tabellenverzeichnis...................................................................................... 2
+1. Einleitung und Hintergrund............................................................. 3 
+2. Zusammenfassung ............................................................................. 4 
+3. Marktentwicklung Mieterstrom ...................................................... 7 
+3.1. Zubau von Mieterstrom und regionale Verteilung .............................. 7
+3.2. Entwicklung des Mieterstromzuschlags und F&#246;rdervolumen ............. 8
+3.3. Mess-und Z&#228;hlerkonzepte ................................................................... 10
+4. Wirtschaftlichkeit von Mieterstrom ................................................ 11 
+4.1. Eingangsparameter f&#252;r die Wirtschaftlichkeitsbetrachtung ................ .12
+4.2. Ergebnisse der Wirtschaftlichkeitsbetrachtungen ............................... 13
+4.3. Wirkung der Regelung zur Anlagenzusammenfassung....................... 15
+4.4. Preisobergrenze ................................................................................... 16
+5. Sonstige Regelungen und Rahmenbedingungen............................. 18 
+5.1. R&#228;umliches Verh&#228;ltnis von Erzeugungs- und 
+Verbrauchsgeb&#228;uden/Quartierskonzepte............................................. 18
+5.2. Lieferkettenmodell ............................................................................. 19
+5.3. Sonstiges ............................................................................................ 20
+Zugeleitet mit Schreiben des Bundesministeriums f&#252;r Wirtschaft und Energie vom 18. September 2019 gem&#228;&#223;
+&#167; 99 des Erneuerbare-Energien-Gesetzes 2017. 
+2 
+Abbildungsverzeichnis 
+Tabellenverzeichnis 
+Abbildung 1:  Entwicklung des Zubaus von PV-Mieterstromanlagen mit Mieterstromzuschlag. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  7 
+Abbildung 2:  Entwicklung der Bandbreite des Mieterstromzuschlags seit Einf&#252;hrung im Juli 2017 bis Juli 2019 
+sowie Projektion bis Januar 2020 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  9 
+Abbildung 3:  Von den Befragten eingesetzte Mess- bzw. Z&#228;hlerkonzepte. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .10 
+Abbildung 4:  Gr&#252;nde f&#252;r das in EEG-Mieterstromprojekten jeweils &#252;berwiegend eingesetzte Messkonzept . . . . . . . . . . . . . . . . . . .11 
+Abbildung 5:  Verteilung der mittleren Grundversorgertarife f&#252;r Haushaltskunden (2.500  5.000 kWh/a)  
+nach gerundeten Tarifen (einschl. MwSt.) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .17 
+Abbildung 6:  Bewertung m&#246;glicher Probleme des Pachtmodells. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .20 
+Abbildung 7:  Bewertung m&#246;glicher Hemmnisse f&#252;r Mieterstrom . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .21 
+Tabelle 1: Zubau von PV-Mieterstromanlagen nach Inbetriebnahmejahren. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  7 
+Tabelle 2: Installierte PV-Mieterstromleistung mit Mieterstromzuschlag nach Bundesl&#228;ndern und 
+bezogen auf die Einwohnerzahl  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  8 
+Tabelle 3: &#220;bersicht &#252;ber die EEG-F&#246;rderkosten der Photovoltaik insgesamt sowie f&#252;r Mieterstrom. . . . . . . . . . . . . . . . . . . . . . . . . . . .10 
+Tabelle 4: EEG-Verg&#252;tungss&#228;tze und Mieterstromzuschl&#228;ge f&#252;r Juni 2019. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .12 
+Tabelle 5: Eingangsparameter Wirtschaftlichkeitsbetrachtungen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .13 
+Tabelle 6: Ergebnisse der Wirtschaftlichkeitsberechnung f&#252;r PV-Mieterstromanlagen auf Wohngeb&#228;uden  
+aus Sicht des Mieterstrombetreibers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .14 
+Tabelle 7: Auswirkungen der Anlagenzusammenfassungsregelung auf die Projektverzinsung f&#252;r 4 x 20 kW. . . . . . . . . .16
+&#8211; 2 &#8211;
+&#8211;
+3 
+1. Einleitung und Hintergrund 
+Die Erzeugung von Strom aus erneuerbaren Energiequellen ist neben der Steigerung der Energieeffizienz der zentrale 
+Baustein einer umweltvertr&#228;glichen und nachhaltigen Energieversorgung in Deutschland. Der Umstieg auf erneuerbare 
+Energien spielt eine wichtige Rolle bei dem Ziel der Bundesregierung, die CO2-Emissionen bis 2030 um 55 % und bis 
+2050 um 80 bis 95 % gegen&#252;ber dem Jahr 1990 zu senken. Im Jahr 2018 lag der Anteil der erneuerbaren Energien am 
+gesamten Bruttostromverbrauch bereits bei gut 38 %. Die Solarenergie tr&#228;gt hierzu rund 8 Prozentpunkte bei. Sie spielt 
+neben Windenergie an Land und auf See eine zentrale Rolle beim Ausbau der erneuerbaren Energien. Die Kosten der 
+Solarenergie sind in den letzten Jahren aufgrund des rasanten technologischen Fortschritts und der Ausschreibungen 
+stark gesunken. Insbesondere in neuen Freifl&#228;chenanlagen kann Strom inzwischen bereits ohne F&#246;rderung erzeugt 
+werden, wie erste derartige Projekte zeigen und wie sich auch aus den sehr geringen Marktpr&#228;mien dieser Anlagen ergibt. 
+Andererseits genie&#223;t die Solarenergie auf Wohngeb&#228;uden in der Bev&#246;lkerung eine hohe Akzeptanz und kann einen 
+wichtigen Beitrag zu einem fl&#228;chenschonenden Ausbau erneuerbarer Energien liefern. 
+Um die Akzeptanz der Energiewende zu erh&#246;hen, diese in der Gesellschaft noch umfassender zu verankern und mehr 
+Akteure daran zu beteiligen, wurde im Jahr 2017 der so genannte Mieterstromzuschlag f&#252;r PV-Anlagen auf
+Wohngeb&#228;uden bis 100 kW eingef&#252;hrt. Bis dahin konnten vor allem Hauseigent&#252;mer aufgrund des Eigenversorgungsprivilegs 
+von Solarstrom profitieren, den sie auf dem eigenen Hausdach erzeugen. Zwar waren Mieterstrommodelle schon vor 
+Inkrafttreten des Mieterstromgesetzes grunds&#228;tzlich m&#246;glich. Sie waren aber in der Regel nicht wirtschaftlich und 
+wurden daher kaum umgesetzt. Bei Mieterstromprojekten kommen zu den Stromgestehungskosten von Dachanlagen 
+noch die Abwicklungskosten hinzu. 
+Vor diesem Hintergrund haben Bundestag und Bundesrat im Sommer 2017 das so genannte Mieterstromgesetz1  be -
+schlossen, das am 25. Juli 2017 in Kraft getreten ist.2 Die Regelung zielt darauf ab, durch eine F&#246;rderung dieser Projekte 
+zus&#228;tzliche Anreize f&#252;r den Ausbau von Solaranlagen auf Wohngeb&#228;uden zu schaffen und dabei auch die Mieter 
+genauer: die Bewohner des Hauses  wirtschaftlich zu beteiligen. Um die Mieterstromf&#246;rderung zielgenau
+auszugestalten sowie in das System des atmenden Deckels einzubeziehen, wurde mit dem Mieterstromzuschlag eine direkte 
+F&#246;rderung eingef&#252;hrt. Der Mieterstromzuschlag trat als neue Ver&#228;u&#223;erungsform im EEG 2017 neben die bereits 
+bestehenden F&#246;rdermechanismen Marktpr&#228;mie und Einspeiseverg&#252;tung. Als wesentlicher Unterschied zu den beiden 
+letztgenannten Ver&#228;u&#223;erungsformen setzt der Mieterstromzuschlag keine Einspeisung in das Netz voraus. Der 
+Zuschlag wurde mittels eines Abschlags von 8,5 ct/kWh an die Festverg&#252;tung gekoppelt. Zu Beginn lag er  je nach 
+Anlagengr&#246;&#223;e  zwischen 2,6 und 3,7 Cent pro Kilowattstunde (kWh). Mit der Absenkung der PV-Verg&#252;tung f&#252;r
+Dachanlagen &gt; 40 kW im Energiesammelgesetz zwischen Februar 2019 und April 2019 wurde der Abschlag differenziert. Statt 
+bisher einheitlich 8,5 ct/kWh, wurden f&#252;r Anlagen &gt; 40 kW nur noch 8,0 ct/kWh abgeschlagen. Die Absenkung der 
+Verg&#252;tungen f&#252;r Dachanlagen &gt; 40 kW h&#228;tte Mieterstromanlagen sonst &#252;berproportional getroffen (vgl. Abbildung 2). 
+Mit dem vorliegenden Bericht wird die Berichtspflicht nach &#167; 99 EEG 2017 erf&#252;llt. Die n&#228;chste Evaluierung zum
+Mieterstrom wird Teil der regul&#228;ren Berichtspflicht zum EEG-Erfahrungsbericht nach &#167; 97 EEG 2017 sein. Grundlage f&#252;r 
+den vorliegenden Bericht sind einerseits die frei verf&#252;gbaren Daten bei der Bundesnetzagentur3, der Arbeitsgruppe 
+Erneuerbare Energien  Statistik (AGEE-Stat) beim Umweltbundesamt4 sowie den &#220;bertragungsnetzbetreibern (&#220;NB)5 . 
+Anderseits hat das Bundesministerium f&#252;r Wirtschaft und Energie das Zentrum f&#252;r Sonnenenergie- und Wasserstoff- 
+Forschung Baden-W&#252;rttemberg (ZSW 2019) im Rahmen des regul&#228;ren EEG-Erfahrungsberichts zur solaren
+Strahlungsenergie (Fachlos 4, ZSW/Bosch &amp; Partner) mit der Erstellung der wissenschaftlichen Grundlage zum
+Mieterstrombericht beauftragt. Zu diesem Zweck hat das ZSW unter anderem zwei Befragungen von Anlagenbetreibern und 
+Verbraucherschutz- und Mieterbundverb&#228;nden durchgef&#252;hrt. Einen zentralen Stellenwert nahm au&#223;erdem die  
+Wirtschaftlichkeitsbetrachtung von Mieterstromprojekten auf Basis der aktuell g&#252;ltigen Rahmenbedingungen ein. 
+1 Entwurf eines Gesetzes zur F&#246;rderung von Mieterstrom und zur &#196;nderung weiterer Vorschriften des Erneuerbare-Energien-Gesetzes 
+(BT Drucksache 18/12355) vom 16.05.2017, abrufbar unter: http://dip21.bundestag.de/dip21/btd/18/123/1812355.pdf 
+2 Bundesgesetzblatt Jahrgang 2017 Teil I Nr. 49 vom 25.07.2017, abrufbar unter 
+https://www.bmwi.de/Redaktion/DE/Downloads/M-O/mieterstrom-gesetz-bgbl.pdf?__blob=publicationFile&amp;v=4 
+3 https://www.bundesnetzagentur.de/DE/Sachgebiete/ElektrizitaetundGas/Unternehmen_Institutionen/ErneuerbareEnergien/ZahlenDaten
+Informationen/EEG_Registerdaten/EEG_RegDaten_FoerdSaetze.html 
+4 https://www.umweltbundesamt.de/tags/agee-stat 
+5 https://www.netztransparenz.de/EEG/Jahresabrechnungen
+&#8211; 3 &#8211;
+&#8211;
+&#8211;
+&#8211;
+&#8211;
+&#8211;
+4 
+Mieterstrommodelle f&#252;hren f&#252;r die nicht privilegierten Stromverbraucher zu h&#246;heren Kosten. Da die zu verteilenden 
+Gesamtkosten durch Mieterstrom im Allgemeinen nicht sinken, steigen die Stromkosten f&#252;r andere Haushalts- und 
+Gewerbekunden in dem Umfang, wie Mieterstrom privilegiert wird. Die genaue H&#246;he der Verteilungseffekte und
+Einnahmeausf&#228;lle h&#228;ngt davon ab, wie viele Vermieter sich f&#252;r Mieterstrommodelle entscheiden und wie viele
+Letztverbraucher mit welchem Stromverbrauch daran beteiligt sind. Ebenso f&#252;hrt Mieterstrom nicht zu einer Entlastung der 
+Stromnetze oder reduziert den Ausbaubedarf im Verteilnetz. Aktuell sind aufgrund des sehr geringen Zubaus bei
+Mieterstrom allerdings sowohl die Verteilungswirkung als auch die Auswirkungen auf die Stromnetze von
+verschwindend geringer Bedeutung. Sie waren auch nicht Gegenstand der Evaluierung des Mieterstrommodells. Von
+vergleichsweise gr&#246;&#223;erer Bedeutung waren demgegen&#252;ber die administrativen Kosten in der Bundesverwaltung f&#252;r die 
+Umsetzung und Begleitung des Themas Mieterstrom. 
+Der Bericht ist wie folgt strukturiert. Teil 2 nimmt die wesentlichen Ergebnisse vorweg und dient als
+Zusammenfassung. Teil 3 stellt die Marktentwicklung in Form von Zubau, regionaler Verteilung und Entwicklung des
+F&#246;rdervolumens sowie der verwendeten Mess- und Z&#228;hlmodelle detailliert dar. Teil 4 analysiert die Wirtschaftlichkeit des
+Mieterstromzuschlags anhand von typisierten Referenzanlagen. In Teil 5 werden weitere Regelungen diskutiert, die einer 
+st&#228;rkeren Durchdringung von Mieterstrommodellen entgegenstehen k&#246;nnten. Insgesamt zeigt sich, dass der
+bisherige Zubau von Mieterstromanlagen mit insgesamt rund 14 MW deutlich hinter den Erwartungen bleibt. Aus diesem 
+Grund sind auch die F&#246;rderkosten f&#252;r das Modell nach zwei Jahren gering. Es wird deutlich, dass die
+Rahmenbedingungen aktuell offenbar nicht ausreichen, um Mieterstrom als nennenswertes Segment eines zus&#228;tzlichen PV-Zubaus 
+dauerhaft zu etablieren und die vorhandenen Potentiale zu erschlie&#223;en. 
+2. Zusammenfassung 
+Marktentwicklung 
+- Zum Datenstand 03.07.2019 waren im Register der BNetzA 677 PV-Mieterstromanlagen mit insgesamt rund 
+13,9 MW gemeldet. Davon wurden 78 Anlagen mit insgesamt 2,0 MW im Rumpfjahr 2017 (Inkrafttreten des  
+Mieterstromgesetzes am 25.07.2017) und 248 Anlagen mit insgesamt 5,3 MW im Jahr 2018 in Betrieb genommen. 
+- Das Modell bleibt damit weit hinter den Erwartungen zur&#252;ck. Vor diesem Hintergrund ist der 500 MW-Deckel 
+bisher bei weitem nicht zur Anwendung gekommen. Er wurde nur zu gut 1 % ausgenutzt. 
+- Das Summenz&#228;hlermodell mit und ohne Smart-Meter ist das mit Abstand am h&#228;ufigsten eingesetzte und
+kosteneffiziente Z&#228;hlerkonzept bei EEG-gef&#246;rderten Mieterstromprojekten. 
+Entwicklung des Mieterstromzuschlags und der F&#246;rderkosten 
+- Beim Inkrafttreten des Mieterstromgesetzes (Ende Juli 2017) lag der Mieterstromzuschlag je nach Anlagengr&#246;&#223;e 
+zwischen 2,6 ct/kWh (100-kW-Anlage) und 3,7 ct/kWh (Anlagen bis 10 kW). Im Zuge der ab August 2018 erfolgten 
+Degression ist der Mieterstromzuschlag bis Mitte 2019 auf 1,2 bis 2,3 ct/kWh gesunken (Juni 2019). Bei weiterhin 
+1,4 % Degression pro Monat sinkt er bis Januar 2020 auf 0,3 bis 1,2 ct/kWh. In der weiteren Folge wird die direkte 
+F&#246;rderung &#252;ber den Mieterstromzuschlag im Jahr 2021 auslaufen. 
+- Nach Auslaufen des Mieterstromzuschlags bleibt die indirekte F&#246;rderung &#252;ber Verg&#252;nstigungen bei Netzentgelten 
+und Umlagen als wirtschaftlicher Anreiz bestehen. Dieser Anreiz gew&#228;hrleistet aktuell keine Marktdurchdringung. 
+- Da der Mieterstromzuschlag &#252;ber einen festen Abschlagsbetrag an die Einspeiseverg&#252;tung gekoppelt ist, hat die 
+absolute Absenkung der Einspeiseverg&#252;tungss&#228;tze rein rechnerisch verh&#228;ltnism&#228;&#223;ig gro&#223;e Auswirkungen auf den 
+Mieterstromzuschlag.
+&#8211; 4 &#8211;
+5 
+- Die direkten F&#246;rderkosten f&#252;r PV-Mieterstromanlagen durch den Mieterstromzuschlag liegen bislang auf sehr 
+niedrigem Niveau, weil nur wenige Anlagen in diesem Modell errichtet wurden. Insgesamt wurden in den Jahren 
+2017 und 2018 lediglich rund 30.000 Euro Mieterstromzuschl&#228;ge ausgezahlt. 
+- Die indirekte F&#246;rderung des Mieterstroms durch die Nichtzahlung von Netzentgelten, netzentgeltgekoppelten 
+Umlagen und Abgaben ist bisher ebenfalls moderat, liegt aber &#252;ber der direkten F&#246;rderung durch den
+Mieterstromzuschlag. 
+Wirtschaftlichkeit von PV-Mieterstromanlagen 
+- Pauschale Aussagen zur Rentabilit&#228;t von Mieterstromprojekten sind nicht m&#246;glich. Die Wirtschaftlichkeit von 
+PV-Mieterstromprojekten ist von vielen Parametern abh&#228;ngig, die in der Praxis eine gro&#223;e Spannbreite aufweisen 
+k&#246;nnen. 
+- Allerdings zeigen der niedrige Zubau sowie die Wirtschaftlichkeitsberechnungen von ZSW im Rahmen des 
+EEG-Erfahrungsberichts, dass die j&#228;hrlichen Einnahmen aus dem Mieterstromzuschlag immer seltener zur 
+Deckung der laufenden mieterstromspezifischen Mehrkosten ausreichen. Die Transaktionskosten zur
+Verwirklichung von Mieterstromprojekten sind h&#246;her als im Fall einer Volleinspeisung des erzeugten Solarstroms. 
+- Der Mieterstromzuschlag ist angesichts der hohen Kosten dieser Vermarktungsform aktuell zu niedrig, um  
+deutliche Anreize zur Investition in neue PV-Mieterstromanlagen zu setzen. 
+- Weil die absolute Absenkung der Einspeiseverg&#252;tung &#252;ber den Abschlag von 8,5/8,0 ct/kWh &#252;berproportional  
+auf den Mieterstromzuschlag durchschl&#228;gt, ist dieser seit August 2018 stark gesunken. Bis 2020 wird er weiter 
+abschmelzen und im Jahr 2021 auslaufen. 
+- Die H&#246;he der indirekten F&#246;rderung ist insbesondere von der H&#246;he und Entwicklung der ersparten lokalen  
+Netzentgelte abh&#228;ngig und kann dementsprechend je nach Netzgebiet sehr unterschiedlich hoch ausfallen. 
+Anlagenzusammenfassung 
+- PV-Mieterstromanlagen in Ballungsgebieten werden h&#228;ufig als technisch getrennte Einzelanlagen auf Geb&#228;uden 
+errichtet, die baulich verbunden sind. Die Geb&#228;ude weisen separate Zug&#228;nge, Hausanschl&#252;sse und elektrische 
+Anlagen auf. 
+- Im Rahmen der Anlagenzusammenfassungsregelung gelten in diesem Fall die einzelnen PV-Anlagen jedoch als 
+Gesamtanlage. Dies wirkt sich auf die H&#246;he der Verg&#252;tung und damit die Wirtschaftlichkeit von
+Mieterstrommodellen aus und kann weitere technische Vorgaben nach &#167; 9 EEG 2017 nach sich ziehen. 
+- Die geltenden Regeln der Anlagenzusammenfassung (und die damit verbundenen niedrigeren Verg&#252;tungss&#228;tze 
+und Mieterstromzuschl&#228;ge) haben negative Auswirkungen auf die Rentabilit&#228;t von Mieterstromprojekten. 
+Preisobergrenze 
+- Der Mieterstrompreis darf maximal so bemessen sein, dass er 90 % des in dem jeweiligen Netzgebiet geltenden 
+Grundversorgungstarif entspricht (&#167; 42a Abs. 4 EnWG). 
+- Im Durchschnitt der Projekte der einzelnen Befragten liegt der Preis mit knapp 85 % unterhalb dieser
+Preisobergrenze. 
+- Die Mehrzahl der R&#252;ckmeldungen der Verbraucherzentralen bef&#252;rworten die Preisobergrenze. 
+Deutscher Bundestag &#8211; 19. Wahlperiode Drucksache 19/13430&#8211; 5 &#8211;
+6 
+R&#228;umliches Verh&#228;ltnis, Quartiersl&#246;sungen 
+- Das EEG setzt f&#252;r die Zahlung des Mieterstromzuschlags einen Verbrauch des Mieterstroms in unmittelbarem 
+r&#228;umlichem Zusammenhang zur PV-Anlage voraus. Auch eine Netzdurchleitung darf nicht erfolgen (&#167; 21 Abs. 3 
+EEG 2017). 
+- Zum r&#228;umlichen Verh&#228;ltnis von Erzeugungs- und Verbrauchsgeb&#228;uden lassen sich basierend auf den
+Befragungsergebnissen keine Angaben machen. 
+- PV-Mieterstromprojekte bei denen Erzeugungs- und Verbrauchsgeb&#228;ude nicht identisch sind, spielen nach Angaben 
+der Befragten bisher eine eher untergeordnete Rolle. Bei weniger als 10 % der befragten Anlagenbetreiber gab es 
+Projekte bei denen Erzeugungs- und Verbrauchsgeb&#228;ude nicht identisch waren. 
+Lieferkettenmodell 
+- Im Lieferkettenmodell tritt ein Energiedienstleister als Mieterstromlieferant auf und &#252;bernimmt die Strombelieferung 
+von Letztverbrauchern im Rahmen eines Mieterstromprodukts. 
+- Das Verst&#228;ndnis der Bundesnetzagentur6, wonach im Mieterstrommodell der Anlagenbetreiber immer zugleich 
+der Stromlieferant ist, hat zu einer Unsicherheit bei denjenigen Mieterstrombetreibern beigetragen, die ein
+Lieferkettenmodell nutzen wollen. 
+- Deshalb wird in der Praxis h&#228;ufig das Pachtmodell realisiert, das zus&#228;tzliche Kosten verursacht. Daneben kommt 
+auch das Dienstleistungsmodell in Frage. Die kompliziertere Abwicklung und h&#246;heren Kosten von
+Mieterstrommodellen im Pachtmodell belasten nach Aussage der Befragten die PV-Mieterstromprojekte. 
+Im Ergebnis zeigt der Bericht, dass die aktuellen Rahmenbedingungen nicht ausreichen, um Mieterstrom als Segment 
+eines zus&#228;tzlichen PV-Zubaus dauerhaft zu etablieren und die vorhandenen Potentiale zu erschlie&#223;en. Ansatzpunkte 
+f&#252;r Verbesserungen liegen insbesondere in folgenden Bereichen: 
+- Verbesserte wirtschaftliche Rahmenbedingungen durch eine Anhebung der Verg&#252;tung, 
+- Pr&#228;zisierung der aktuellen Regelungen zur Anlagenzusammenfassung, 
+- Nachjustierung bei der Kopplung der Verg&#252;tung an die Festverg&#252;tung, 
+- Klarstellung der Zul&#228;ssigkeit des Lieferkettenmodells (&#167; 21 Abs. 3 EEG 2017). 
+Das Bundeswirtschaftsministerium wird noch im Herbst 2019 einen entsprechenden Vorschlag zu Anpassungen der 
+Rahmenbedingungen vorlegen. 
+6 Hinweis der Bundesnetzagentur zum Mieterstromzuschlag als eine Sonderform der EEG-F&#246;rderung vom 20. Dezember 2017; 
+https://www.bundesnetzagentur.de/DE/Sachgebiete/ElektrizitaetundGas/Unternehmen_Institutionen/ErneuerbareEnergien/EEGAufsicht/
+Mieterstrom/Mieterstrom_node.html
+&#8211; 6 &#8211;
+7 
+3. Marktentwicklung Mieterstrom 
+Die Datengrundlage der folgenden Auswertung bilden der von der Bundesnetzagentur ver&#246;ffentlichte Gesamtauszug 
+des Marktstammdatenregisters mit dem Stand 03.07.2019 sowie die darauf basierenden Auswertungen des ZSW im 
+Rahmen des EEG-Erfahrungsberichts. Die registrierten Mieterstromdaten werden f&#252;r die vorliegende Betrachtung 
+anhand des Inbetriebnahmedatums ausgewertet. Dar&#252;ber hinaus werden die Entwicklung des Mieterstromzuschlags 
+sowie die resultierenden F&#246;rdervolumina betrachtet. Weil die genutzten Mess- und Z&#228;hlkonzepte nicht von der 
+BNetzA erhoben werden, werden hierzu unter 3.3 Ergebnisse einer Betreiberbefragung dargestellt. 
+3.1. Zubau von Mieterstrom und regionale Verteilung 
+Zum Datenstand 03.07.2019 waren im Register 677 PV-Mieterstromanlagen mit insgesamt rund 13,9 MW gemeldet. 
+Die mittlere Anlagenleistung betr&#228;gt damit rund 21 kW. Die Anlagenzahlen und -leistungen verteilen sich wie in 
+Tabelle 1 dargestellt auf die Jahre. 
+&#220;ber den Betrachtungszeitraum wurden im Monatsmittel 580 kW in Betrieb genommen. Der Verlauf der
+Inbetriebnahmen nach Monaten zeigt (Abbildung 1), dass die monatlichen Inbetriebnahmen im Trend zugenommen haben, 
+aber deutlich hinter den Erwartungen zur&#252;ckbleiben. Die mit dem Mieterstromgesetz festgelegte j&#228;hrliche
+Obergrenze von 500 MW Mieterstromanlagen wird deutlich verfehlt. 
+Abbildung 1: Entwicklung des Zubaus von PV-Mieterstromanlagen mit Mieterstromzuschlag 
+Quelle: ZSW 2019 auf Basis BNetzA Marktstammdatenregister (Datenstand 3.7.2019) 
+2017 (Juli-Dez) 2018 2019 (Jan-Juni) Summe 
+Leistung [MW] 2,0 53 6,6 13,9 
+Anzahl 78 248 351 677 
+Tabelle 1: Zubau von PV-Mieterstromanlagen nach Inbetriebnahmejahren 
+Quelle: ZSW 2019 auf Basis BNetzA Marktstammdatenregister (Datenstand 3.7.2019) 
+0 
+200 
+400 
+600 
+800 
+1.000 
+1.200 
+1.400 
+1.600 
+1.800 
+2.000 
+M
+ai
+ 
+M
+rz
+ 
+Ja
+n 
+N
+ov
+ 
+Se
+p 
+Ju
+l 
+M
+ai
+ 
+M
+rz
+ 
+Ja
+n 
+N
+ov
+ 
+Se
+p 
+Ju
+l 
+Leistung in kW 
+2017 2018 2019 
+&lt; = 10 kW &gt; 10 bis 40 kW &gt; 40 kW 
+0 
+10 
+20 
+30 
+40 
+50 
+60 
+70 
+80 
+90 
+M
+ai
+ 
+M
+rz
+ 
+Ja
+n 
+N
+ov
+ 
+Se
+p 
+Ju
+l 
+M
+ai
+ 
+M
+rz
+ 
+Ja
+n 
+N
+ov
+ 
+Se
+p 
+Ju
+l 
+Anzahl 
+2017 2018 2019 
+&lt; = 10 kW &gt; 10 bis 40 kW &gt; 40 kW
+Ju
+n
+A
+pr
+Fe
+b
+D
+ez
+O
+kt
+A
+ugJu
+n
+A
+pr
+Fe
+b
+D
+ez
+O
+kt
+A
+ug Ju
+n
+A
+pr
+Fe
+b
+D
+ez
+O
+kt
+A
+ugJu
+n
+A
+pr
+Fe
+b
+D
+ez
+O
+kt
+A
+ug
+&#8211; 7 &#8211;
+8 
+Der vergleichsweise hohe Zubau im ersten Halbjahr 2019 ist zum gro&#223;en Teil Vorzieheffekten zuzurechnen, da
+zwischen Februar und April 2019 F&#246;rderk&#252;rzungen im Rahmen des Energiesammelgesetzes (EnSaG) erfolgt sind. In
+diesem Zuge, sowie in der Folge der aufgrund der Vorzieheffekte im gesamten PV-Segment h&#246;heren Degression, ist der 
+Mieterstromzuschlag f&#252;r Neuanlagen stark gesunken. 
+Der Blick auf die regionale Verteilung der PV-Mieterstromanlagen zeigt (Tabelle 2), dass in den beiden Bundesl&#228;ndern 
+Bayern und Baden-W&#252;rttemberg mit zusammen 6,1 MW 44 % der bundesweiten PV-Mieterstromleistung mit
+Mieterstromzuschlag installiert wurden. Diese Bundesl&#228;nder weisen regelm&#228;&#223;ig auch bei PV-Dachanlagen sowie
+Freifl&#228;chenanlagen die h&#246;chsten Installationsraten auf. Beim Bezug auf die Einwohnerzahl wird deutlich, dass bei den
+Fl&#228;chenl&#228;ndern neben Bayern und Baden-W&#252;rttemberg auch in Sachsen-Anhalt und Rheinland-Pfalz &#252;berdurchschnittlich 
+viel PV-Mieterstromleistung errichtet wurde. Weiterhin sticht hervor, dass in Hamburg pro Kopf am meisten gef&#246;rderte 
+PV-Mieterstromleistung vorzufinden ist. Auch in Berlin liegt die pro Kopf-Leistung &#252;ber dem deutschlandweiten Mittel. 
+Insgesamt muss darauf hingewiesen werden, dass aufgrund des geringen bisherigen Zubaus nur eingeschr&#228;nkte
+Aussagen zur regionalen Verteilung m&#246;glich sind. 
+3.2. Entwicklung des Mieterstromzuschlags und F&#246;rdervolumen 
+Der Mieterstromzuschlag ist &#252;ber einen Abschlagsbetrag von 8,5 ct/kWh an die H&#246;he der Einspeiseverg&#252;tung gekoppelt. 
+Wie im EEG 2017 &#252;blich gilt der bei Inbetriebnahme der Anlage geltende F&#246;rdersatz f&#252;r die Dauer von 20 Jahren. 
+F&#252;r neue Anlagen &#252;ber 40 kW gilt seit Februar 2019 abweichend ein Abschlagsbetrag von 8,0 ct/kWh. Zu Beginn der 
+EEG-Mieterstromf&#246;rderung im Juli 2017 lag der Mieterstromzuschlag f&#252;r neue Anlagen zwischen 3,7 ct/kWh (10 kW) 
+und 2,6 ct/kWh (100 kW). Innerhalb des ersten Jahres wurde der Zuschlag nicht abgesenkt, da die Degression nach dem 
+atmenden Deckel aufgrund eines geringen Zubaus 0 % betrug. Erst im dritten Quartal 2018 sanken die Verg&#252;tungss&#228;tze 
+f&#252;r neue Anlagen im Rahmen des atmenden Deckels, wodurch auch der Mieterstromzuschlag sank. Mit der zwischen 
+Februar und April 2019 greifenden Sonderabsenkung der PV-Verg&#252;tung durch das Energiesammelgesetz und der 
+Degression im Rahmen des atmenden Deckels ist der Mieterstromzuschlag bis Juli 2019 auf eine Band breite von 2,1 ct/ 
+kWh (10 kW) bis 1,0 ct/kWh (100 kW) gesunken (siehe Abbildung 2). 
+Installierte Leistung in kW kW pro 100.000 Einwohner 
+Baden-W&#252;rttemberg 2.797 25,3 
+Bayern 3.337 25,6 
+Berlin 673 18,6 
+Brandenburg 169 6,7 
+Bremen 46 6,8 
+Hamburg 525 28,6 
+Hessen 1.000 16,0 
+Mecklenburg-Vorpommern 70 4,4 
+Niedersachsen 1.252 15,7 
+Nordrhein-Westfalen 1.875 10,5 
+Rheinland-Pfalz 744 18,3 
+Saarland 77 7,8 
+Sachsen 278 6,8 
+Sachsen-Anhalt 564 25,5 
+Schleswig-Holstein 300 10,4 
+Th&#252;ringen 238 11,1 
+Summe 13.945 16,8 
+Tabelle 2:  Installierte PV-Mieterstromleistung mit Mieterstromzuschlag nach Bundesl&#228;ndern und  
+bezogen auf die Einwohnerzahl 
+Quelle: ZSW 2019 auf Basis BNetzA Marktstammdatenregister (Datenstand 3.7.2019)
+&#8211; 8 &#8211;
+9 
+&#220;ber die Kopplung des Mieterstromzuschlags mittels Abschlags werden die weiter sinkenden Kosten f&#252;r Solarmodule 
+auf den Mieterstromzuschlag &#252;bertragen. Bei einer Betrachtung, die allein auf den Mieterstromzuschlag abstellt, &#228;u&#223;ert 
+sich dies in einer prozentual st&#228;rkeren Absenkung des Mieterstromzuschlags. So steht im Zeitraum Mai bis Juli 2019 
+einer Degression der Einspeiseverg&#252;tung von 1,4 % pro Monat eine monatliche Absenkung des Mieterstromzuschlags 
+von ca. 6 bis 7 % (Anlagen bis 10 kW) bzw. 10 bis 11 % (Anlage mit 100 kW) gegen&#252;ber. 
+Sofern davon ausgegangen wird, dass die Degression ab August 2019 bei 1 % pro Monat liegt, sinkt der
+Mieterstromzuschlag bis Anfang 2020 auf ein Niveau von 1,5 ct/kWh (Anlagen bis 10 kW) bzw. 0,5 ct/kWh (Anlage mit 100 kW) ab. 
+Im Falle einer h&#246;heren Degression von 1,4 % pro Monat sinkt der Mieterstromzuschlag bis Januar 2020 auf rund 0,3 bis 
+1,2 ct/kWh ab. In der weiteren Folge w&#252;rde die direkte F&#246;rderung der Mieterstrommodelle &#252;ber den
+Mieterstromzuschlag im Jahr 2021 auslaufen. Die indirekten F&#246;rderungen (vgl. unten) der Mieterstrommodelle &#252;ber reduzierte
+Netzentgelte und Abgaben ist von der Absenkung nicht betroffen. Aktuell reicht diese indirekte F&#246;rderung nicht aus, um 
+die Mehrkosten von Mieterstrommodellen angemessen zu finanzieren. 
+Im Jahr 2017 lag das F&#246;rdervolumen des Mieterstromzuschlags bei lediglich 740 Euro. Gesch&#228;tzt kommen rund 3.000 
+Euro an indirekten F&#246;rderungen hinzu, wenn 13 ct/kWh als indirekter Vorteil unterstellt werden. Grund f&#252;r den 
+niedrigen Wert 2017 waren das Rumpfjahr (Start der Mieterstromf&#246;rderung im Juli 2017) und die erst allm&#228;hlich 
+anlaufende Marktdynamik. In Folge des ersten vollst&#228;ndigen Betriebsjahres der Inbetriebnahmen aus 2017 und des 
+weiteren Anlagenzubaus stieg die Mieterstromf&#246;rderung im Jahr 2018 nach der EEG-Jahresabrechnung 2018 auf 
+knapp 30.000 Euro an (Tabelle 3), zuz&#252;glich rund 130.000 Euro an indirekter F&#246;rderung. Bezogen auf die f&#252;r PV-
+Anlagen im Jahr 2018 ausgezahlten Differenzkosten von 9,6 Mrd. Euro ist der Anteil der Mieterstromf&#246;rderung bislang 
+sehr gering. 
+Abbildung 2:  Entwicklung der Bandbreite des Mieterstromzuschlags seit Einf&#252;hrung im Juli 2017 bis Juli 2019 
+sowie Projektion bis Januar 2020 
+Quelle: ZSW 2019 
+0 
+1 
+2 
+3 
+4 
+Jan. 20 Jul. 19 Jan. 19 Jul. 18 Jan. 18 Jul. 17 
+Spannbreite des Mieterstromzuschlags in ct/kWh 
+10 kW 100 kW
+&#8211; 9 &#8211;
+10 
+Die mit dem Mieterstromzuschlag gef&#246;rderten Anlagen k&#246;nnen zum Stand der Berichterstellung nicht detaillierter 
+untersucht werden. Grund hierf&#252;r ist, dass die daf&#252;r erforderlichen EEG-Bewegungsdaten f&#252;r das Jahr 2018 erst ab 
+Herbst 2019 zur Verf&#252;gung stehen. Eine Auswertung der Bewegungsdaten 2017 hat dagegen keine Aussagekraft, da 
+durch den Start der Mieterstromf&#246;rderung im Juli 2017 lediglich Rumpfbetriebsjahre betrachtet werden k&#246;nnten. 
+3.3. Mess-und Z&#228;hlerkonzepte 
+Schon vor der Einf&#252;hrung des Mieterstromzuschlags wurde das so genannte Summenz&#228;hlermodell mit virtuellen 
+Z&#228;hlpunkten angewendet. Danach ist Mieterstrom die Differenz aus der von der PV-Anlage erzeugten und der ins 
+Netz der allgemeinen Versorgung eingespeisten Strommenge. Die Mieterstrommenge wird auf die
+Mieterstromkunden nach dem Verh&#228;ltnis ihrer (am jeweiligen Unterz&#228;hler gemessenen) Stromverbr&#228;uche verteilt.
+Dar&#252;berhinausgehender Letztverbrauch wird durch zus&#228;tzlichen Strom aus dem Netz der allgemeinen Versorgung gedeckt. Die
+Verbrauchsmenge von Wohnungen, die nicht am Mieterstrommodell teilnehmen, wird von der aus dem Netz der 
+allgemeinen Versorgung bezogenen Strommenge abgezogen. 
+Da die Mess- und Z&#228;hlerkonzepte nicht von der BNetzA erhoben werden, war das Thema Bestandteil der von ZSW 
+durchgef&#252;hrten Befragung von Mieterstrombetreibern. Das Ergebnis der Befragung zeigt, dass das
+Summenz&#228;hlermodell ohne bzw. mit Smart-Meter das am h&#228;ufigsten eingesetzte und kosteneffiziente Z&#228;hlerkonzept bei EEG-
+gef&#246;rderten Mieterstromprojekten ist. Das Summenz&#228;hlermodell mit und ohne Smart-Meter hat sich insofern bew&#228;hrt. 
+2017 2018 
+Verg&#252;tete Strommengen PV insgesamt (GWh) 35.416 40.784 
+Differenzkosten PV7 insgesamt im Jahr 9.059.700 9.496.500 
+Mit dem Mieterstromzuschlag verg&#252;tete Strommenge (GWh) 0,024 (ab Juli 2017) 0,890 
+Mieterstromzuschlag pro Jahr 740 Euro 29.293,33 Euro 
+Tabelle 3: &#220;bersicht &#252;ber die EEG-F&#246;rderkosten der Photovoltaik insgesamt sowie f&#252;r Mieterstrom 
+Quelle: BMWi auf Basis ZSW 2019 
+7 EEG in Zahlen: Verg&#252;tungen, Differenzkosten und EEG-Umlage 2000 bis 2019. 
+www.erneuerbare-energien.de/EE/Redaktion/DE/Downloads/eeg-in-zahlen-pdf.pdf?__blob=publicationFile 
+Abbildung 3: Von den Befragten eingesetzte Mess- bzw. Z&#228;hlerkonzepte 
+Quelle: ZSW 2019 
+0 
+5 
+10 
+15 
+20 
+25 
+30 
+35 
+40 
+45 
+50 
+Andere DSS mit 
+Smart-Meter 
+DSS ohne 
+Smart-Meter 
+SZ mit RLM-SZ 
+SLP bei 
+Verbrauchern 
+SZ mit 
+Smart-Meter 
+SZ ohne 
+Smart-Meter 
+SZ: Summenz&#228;hler; DSS: Doppelte Sammelschiene 
+in Prozent 
+46 
+29 
+14 
+10 
+0 
+10 
+n = 72
+&#8211; 10 &#8211;
+Als Grund f&#252;r das &#252;berwiegend eingesetzte Messkonzept werden von 50 % der Befragten geringe Investitionskosten 
+genannt, 35 % nennen Anforderungen des Netzbetreibers, 33 % geringere Betriebskosten, 19 % sonstige Gr&#252;nde und 
+14 % den h&#246;heren anrechenbaren Direktverbrauch im Summenz&#228;hlermodell. 
+Der Messstellenbetrieb wird bei 62 % der Befragten in der Regel durch den Verteilnetzbetreiber bzw. durch mit dem 
+Verteilnetzbetreiber verbundene Unternehmen &#252;bernommen. In 38 % der F&#228;lle erfolgt der Messstellenbetrieb durch 
+einen Dienstleister (n = 68). 
+4. Wirtschaftlichkeit von Mieterstrom 
+Mieterstromanlagen zeichnen sich dadurch aus, dass der Strom an Letztverbraucher im betreffenden Geb&#228;ude oder 
+in Wohngeb&#228;uden oder Nebenanlagen im unmittelbaren r&#228;umlichen Zusammenhang geliefert und verbraucht wird. 
+Mieterstrom wird nicht durch das Netz der allgemeinen Versorgung durchgeleitet. Deshalb entfallen beim
+Mieterstrom einige Kostenbestandteile wie Netzentgelte, netzseitige Umlagen, Stromsteuer und Konzessionsabgaben. Da 
+keine Personenidentit&#228;t zwischen Anlagenbetreiber und Letztverbraucher(n) besteht, wird f&#252;r den direkt verbrauchten 
+Strom die volle EEG-Umlage f&#228;llig. Zur Erh&#246;hung der Wirtschaftlichkeit von Mieterstromanlagen wird der
+Mieterstromzuschlag gezahlt (s.o.). Mieterstrom wird damit sowohl direkt &#252;ber den Mieterstromzuschlag als auch indirekt 
+&#252;ber die genannten Befreiungstatbest&#228;nde gef&#246;rdert. Die Wirtschaftlichkeit ist damit von zahlreichen Parametern 
+abh&#228;ngig. Diese weisen in der Praxis regelm&#228;&#223;ig eine gro&#223;e Spannbreite auf und sind zum Teil zeitver&#228;nderlich. Es ist 
+deshalb nicht m&#246;glich, pauschale Aussagen &#252;ber die Rentabilit&#228;t abzuleiten. 
+Abbildung 4: Gr&#252;nde f&#252;r das in EEG-Mieterstromprojekten jeweils &#252;berwiegend eingesetzte Messkonzept 
+Quelle: ZSW 2019 
+0 
+10 
+20 
+30 
+40 
+50 
+60 
+H&#246;herer anrechenbarer 
+Direktverbrauch 
+im Summenz&#228;hlermodell 
+Sonstiges Geringere 
+Betriebskosten 
+Anforderungen 
+Netzbetreiber 
+Geringe 
+Investitionskosten 
+in Prozent 
+50 
+35 33 
+19 
+14 
+n = 72 
+11
+&#8211; 11 &#8211;
+12 
+4.1. Eingangsparameter f&#252;r die Wirtschaftlichkeitsbetrachtung 
+Aus der betriebswirtschaftlichen Sicht eines Mieterstrombetreibers besteht das Gesch&#228;ftskonzept darin, ein gr&#252;nes 
+Stromprodukt vom eigenen Dach mit Photovoltaik zu vermarkten. Mittels der Vermarktung des direkt und indirekt 
+gef&#246;rderten PV-Stroms (Mieterstromzuschlag plus weitgehende Befreiung von Abgaben, Umlagen und Entgelten) sowie 
+der Reststrombelieferung wird ein Gewinn erwirtschaftet. Die Wirtschaftlichkeitsbetrachtung unten bildet dies ab, 
+indem die Projektverzinsung (interne Verzinsung) aus Sicht des Anlagenbetreibers ermittelt wird. Diese interne
+Verzinsung sollte im Mittel 6 bis 8 % nicht &#252;berschreiten8 . Ansonsten liegt eine &#220;berf&#246;rderung vor. Interne Verzinsungen 
+deutlich unterhalb von 6 % k&#246;nnen als Indiz daf&#252;r gewertet werden, dass die Anlagen nicht ausreichend gef&#246;rdert sind. 
+Ausgangspunkt f&#252;r die Berechnungen sind die oben bereits erw&#228;hnten gesunkenen Mieterstromzuschl&#228;ge vom Juni 
+2019. Die Differenz zwischen den EEG-Verg&#252;tungss&#228;tzen und dem Miterstromzuschlag ergibt sich durch die 
+Abschl&#228;ge nach &#167; 23b Absatz 1 EEG 2017. 
+In den Berechnungen wird davon ausgegangen, dass f&#252;r den Mieterstrom ein Preisvorteil von brutto 2,0 ct/kWh bzw. 
+netto 1,7 ct/kWh gew&#228;hrt wird. Weiterhin wird angenommen, dass die Beschaffungspreise f&#252;r die Reststrommengen, 
+die zur Deckung des nicht vor Ort durch PV bereitgestellten Strombedarfs anfallen, aufgrund g&#252;nstigerer
+Beschaffungskonditionen bei 91 % bezogen auf die mittleren Strompreise liegen. Die Betrachtung erfolgt in realen, d.h.
+inflationsbereinigten Angaben. So wurde auch im Rahmen der Beihilfegenehmigung sowie der ersten Mieterstromstudie 
+von Prognos verfahren. Als Inflationsrate wird von einem konstanten Wert von 1,5 % p.a. &#252;ber den
+Betrachtungszeitraum von 20 Jahren ausgegangen. 
+8 vgl. Rn. 75 der KOM-Genehmigung SA.48327. http://ec.europa.eu/competition/elojade/isef/case_details.cfm?proc_code=3_SA_48327 
+Nennleistung EEG-Verg&#252;tungss&#228;tze (ct/kWh) Mieterstromzuschlag (ct/kWh) 
+10 10,79 2,29 
+20 10,65 2,15 
+30 10,60 2,10 
+40 10,57 2,07 
+50 10,11 2,11 
+60 9,80 1,80 
+70 9,58 1,58 
+80 9,41 1,41 
+90 9,28 1,28 
+100 9,18 1,18 
+Tabelle 4: EEG-Verg&#252;tungss&#228;tze und Mieterstromzuschl&#228;ge f&#252;r Juni 2019 
+Quelle: ZSW 2019 auf Grundlage BNetzA (vgl. Fu&#223;note 3)
+&#8211; 12 &#8211;
+13 
+Weitere relevante Eingangsparameter f&#252;r die Wirtschaftlichkeitsbetrachtung k&#246;nnen der folgenden &#220;bersicht
+entnommen werden: 
+4.2. Ergebnisse der Wirtschaftlichkeitsbetrachtungen 
+Nachfolgend sind die Ergebnisse der Wirtschaftlichkeitsberechnung f&#252;r verschiedene Kombinationen von
+Wohnungszahl, Gr&#246;&#223;e der PV-Anlage sowie Teilnehmerquote dargestellt. Ausgewiesen ist auch der Anteil des direkt vor 
+Ort verbrauchten PV-Stroms. Der PV-Direktverbrauch ergibt sich, basierend auf der Annahme des
+Summenz&#228;hlermodells mit virtuellen Z&#228;hlpunkten, damit aus der Differenz von gesamter PV-Stromerzeugung und der &#252;ber den 
+Hausanschluss eingespeisten Erzeugung der PV-Anlage. 
+Die Betrachtung stellt auf mittlere Werte f&#252;r die Netzentgelte und die Konzessionsabgabe ab. Beide Werte sind nicht 
+in allen Gebieten Deutschlands gleich. Insbesondere die Netzentgelte weisen in Deutschland hohe Disparit&#228;ten auf. 
+Daraus ergibt sich, dass in Gebieten mit hohen Netzentgelten auch die (indirekte) F&#246;rderung von
+Mieterstromprojekten besonders hoch ist. 
+Die Projektverzinsung wird ohne die Ber&#252;cksichtigung steuerlicher Effekte und real f&#252;r die beiden F&#228;lle &#8222;niedrige 
+Kosten&#8220; und &#8222;hohe Kosten&#8220; ausgewiesen. Dies bezieht sich auf die laufenden Kosten f&#252;r Messstellenbetrieb,
+Abrechnung, Rechnungstellung und Vertrieb. 
+9 Einschlie&#223;lich mieterstromspezifischen Integrationskosten. 
+Volllaststunden 900 (j&#228;hrliche Degradation 0,4 %) 
+J&#228;hrliche Kosten f&#252;r Wartung, Instandhaltung, Betrieb und Dachpacht einheitlich 17 &#8364;/kW als real konstanter Wert 
+Strombezugskosten 
+Mittlere reale Netto-Strombezugspreise f&#252;r Letztverbraucherpreise 
+sowie EEG-Umlagepfad. Entsprechende Zeitreihen wurden vom  
+koordinierenden Vorhaben der wissenschaftlichen Vorhaben zum 
+EEG-Erfahrungsbericht zur Verf&#252;gung gestellt (Fachlos 1, Fraunhofer 
+ISI, IKEM, Fraunhofer IEE). 
+Messkonzept Summenz&#228;hlermodell mit virtuellen Z&#228;hlpunkten 
+Anzahl der Wohneinheiten Variiert 
+Teilnahmequote Variiert (50 % 90 %) 
+J&#228;hrliche Stromverbrauch pro Wohneinheit 2.500 kWh 
+Direktverbrauchsanteile 
+Von ZSW errechnet anhand von typischen PV-Erzeugungsprofilen und 
+Standardlastprofilen f&#252;r den Haushalts- und Gewerbebereich. 
+Referenzanlagen 
+F&#252;nf Referenzanlagen (20 kW, 40 kW, 60 kW, 80 kW, 100 kW mit  
+variierter Wohnungsanzahl und Teilnehmerquote) 
+Spezifische Investitionskosten (EUR
+2018
+/kW)9 
+20 kW Nennleistung 
+40 kW Nennleistung 
+60 kW Nennleistung 
+80 kW Nennleistung 
+100 kW Nennleistung 
+1.182 (EUR
+2018
+/kW) 
+1.101 (EUR
+2018
+/kW) 
+1.048 (EUR
+2018
+/kW) 
+1.036 (EUR
+2018
+/kW) 
+1.005 (EUR
+2018
+/kW) 
+Investitionsausgaben f&#252;r die Umsetzung des Messkonzepts Einmalig 100 bis 150 Euro pro Teilnehmer 
+Kosten f&#252;r Messstellenbetrieb, Abrechnung, Rechnungstellung  
+und Vertrieb 
+50 bis 100 Euro pro Teilnehmer und Jahr 
+Die o.g. Bandbreiten der Vertriebs- bzw. Abrechnungskosten werden in der Ergebnisdarstellung als hohe bzw. niedrige Kosten ausgewiesen. 
+Tabelle 5: Eingangsparameter Wirtschaftlichkeitsbetrachtungen 
+Quelle: BMWi auf Basis ZSW 2019
+&#8211; 13 &#8211;
+&#8211;
+14 
+Im Falle hoher Kosten sinkt die Projektrendite, was dazu f&#252;hrt, dass der Mieterstrombetreiber mit seinem Angebot 
+nicht genug Gewinn erwirtschaften kann. Im Mittel liegt die Projektverzinsung bei 5,4 % f&#252;r niedrige Kosten und bei 
+3,3 % f&#252;r hohe Kosten. Wie die von ZSW durchgef&#252;hrte Befragung gezeigt hat, liegen die (anf&#228;nglichen)
+Teilnahmequoten bisher realisierter PV-Mieterstromkonzepte mit knapp 80 % bis 90 % sehr hoch. Werden die betrachteten F&#228;lle 
+mit einer Teilnahmequote von 50 % ausgeschlossen, resultieren niedrigere mittlere Projektverzinsungen von 5,2 % 
+(niedrige Kosten) und 2,7 % (hohe Kosten). 
+Mittlere Jahreseinnahmen in Euro2018
+ (ohne USt.) aus &#8230; 
+Projektverzinsung (interner 
+Zinsfu&#223;, real, vor Steuern) 
+Zahl der  
+Wohnungen 
+PV-Anlage 
+(kW)
+Teilnehmerquote 
+Anteil  
+PV-
+Direktverbrauch vor Ort
+Einspeisung 
+MS- 
+Zuschlag
+Stromlieferung 
+Niedrige  
+Kosten 
+Hohe 
+Kosten 
+6 20 50  % 34 % 1.043 110 1.763 4,5 % 3,4 % 
+6 20 70 % 34 % 1.043 110 2.468 4,1 % 2,6 % 
+6 20 90 % 34 % 1.043 110 3.173 3,8 % 1,8 % 
+10 20 50 % 49 % 803 158 2.938 5,7 % 4,0 % 
+10 20 70 % 49 % 803 158 4.113 5,2 % 2,8 % 
+10 20 90 % 49 % 803 158 5.289 4,6 % 1,5 % 
+12 40 50 % 34 % 2.069 212 3.526 5,6 % 4,5 % 
+12 40 70 % 34 % 2.069 212 4.936 5,3 % 3,7 % 
+12 40 90 % 34 % 2.069 212 6.346 4,9 % 2,8 % 
+20 40 50 % 49 % 1.594 305 5.876 6,9 % 5,1 % 
+20 40 70 % 49 % 1.594 305 8.227 6,3 % 3,8 % 
+20 40 90 % 49 % 1.594 305 10.577 5,8 % 2,4 % 
+18 60 50 % 34 % 2.878 276 5.289 5,3 % 4,2 % 
+18 60 70 % 34 % 2.878 276 7.404 5,0 % 3,3 % 
+18 60 90 % 34 % 2.878 276 9.519 4,6 % 2,4 % 
+30 60 50 % 49 % 2.217 398 8.814 6,7 % 4,9 % 
+30 60 70 % 49 % 2.217 398 12.340 6,2 % 3,6 % 
+30 60 90 % 49 % 2.217 398 15.866 5,6 % 2,1 % 
+24 80 50 % 34 % 3.685 289 7.051 5,3 % 4,1 % 
+24 80 70 % 34 % 3.685 289 9.872 4,9 % 3,2 % 
+24 80 90 % 34 % 3.685 289 12.693 4,6 % 2,3 % 
+40 80 50 % 49 % 2.839 415 11.752 6,8 % 4,9 % 
+40 80 70 % 49 % 2.839 415 16.453 6,2 % 3,5 % 
+40 80 90 % 49 % 2.839 415 21.154 5,6 % 2,0 % 
+30 100 50 % 34 % 4.493 302 8.814 5,4 % 4,1 % 
+30 100 70 % 34 % 4.493 302 12.340 5,0 % 3,2 % 
+30 100 90 % 34 % 4.493 302 15.866 4,6 % 2,3 % 
+50 100 50 % 49 % 3.462 435 14.690 6,8 % 4,9 % 
+50 100 70 % 49 % 3.462 435 20.567 6,2 % 3,5 % 
+50 100 90 % 49 % 3.462 435 26.443 5,6 % 2,0 % 
+Tabelle 6:  Ergebnisse der Wirtschaftlichkeitsberechnung f&#252;r PV-Mieterstromanlagen auf Wohngeb&#228;uden aus 
+Sicht des Mieterstrombetreibers10 
+Quelle: ZSW 2019 
+10 Die angef&#252;hrten mittleren Jahreseinnahmen sind als Ums&#228;tze zu betrachten und stellen nicht den Gewinn oder &#220;berschuss dar, der sich nach 
+Abzug von Kosten ergibt.
+&#8211; 14 &#8211;
+15 
+Die interne Verzinsung sinkt, sobald die weitere Hinzunahme von Teilnehmern den im Summenz&#228;hlermodell
+anrechenbaren Direktverbrauchsanteil nicht weiter erh&#246;ht. Bei den betrachteten Referenzanlagen ist dies durchgehend 
+der Fall. Der R&#252;ckgang der internen Verzinsung ist darauf zur&#252;ckzuf&#252;hren, dass die im Zuge der Hinzunahme
+weiterer Mieter anfallenden Kosten f&#252;r die Z&#228;hlerinfrastruktur (einmalig) und Messung/Abrechnung (j&#228;hrlich) nicht durch 
+die Marge aus dem zus&#228;tzlichen Reststromverkauf gedeckt werden k&#246;nnen. 
+Ausgewiesen sind weiterhin die mittleren Jahreseinnahmen (ohne Umsatzsteuer) aus der Einspeisung des PV-Stroms, 
+dem Mieterstromzuschlag sowie der Stromlieferung an die teilnehmenden Mieterstromkunden. Bei h&#246;heren
+Teilnahmequoten ist ersichtlich, dass die Einnahmen aus dem Mieterstromzuschlag und der Einspeisung nicht weiter 
+steigen. Bei diesen F&#228;llen wird die maximale Direktverbrauchsquote erreicht (womit auch das jeweilige Minimum der 
+Einspeisung erreicht wird). 
+Es zeigt sich, dass die mittleren j&#228;hrlichen Einnahmen aus dem Mieterstromzuschlag durchgehend deutlich niedriger 
+liegen, als diejenigen aus der Einspeisung und der Reststrombelieferung. Angesichts der angesetzten laufenden Kosten 
+f&#252;r Messstellenbetrieb, Abrechnung, Rechnungstellung und Vertrieb von 50 bis 100 Euro pro Monat und Teilnehmer 
+wird deutlich, dass der Mieterstromzuschlag allein nicht zur Deckung der laufenden Mehrkosten der PV-
+Mieterstrommodelle ausreicht. 
+Insgesamt betrachtet lassen sich Mieterstrommodelle nur dann mit einer dem Risiko angemessenen Rendite
+realisieren, wenn die mieterstromspezifischen Kosten f&#252;r den laufenden Betrieb (Messstellenbetrieb, Abrechnung,
+Rechnungstellung und Vertrieb) gering ausfallen. Bei h&#246;heren Kosten l&#228;sst sich in den meisten F&#228;llen aus Sicht des Betreibers 
+keine dem Risiko angemessene Rendite realisieren. Im Umkehrschluss hei&#223;t dies, dass entsprechend teure Projekte 
+nicht als Mieterstromprojekte realisiert werden. 
+Wie in Abschnitt 3.2. bereits erw&#228;hnt, ist der Mieterstromzuschlag seit dem Einsetzen der Degression ab August 2018 
+stark gesunken. F&#252;r neue Mieterstromanlagen, die Anfang 2020 in Betrieb gehen, wird der Mieterstromzuschlag 
+gegen&#252;ber Mitte 2019 voraussichtlich weiter um 0,5 ct/kWh sinken und dann bei h&#246;chstens 0,5 ct/kWh (f&#252;r eine  
+100-kW-Anlage) bzw. 1,5 ct/kWh (10-kW-Anlage) liegen. Bei einer h&#246;heren Degression als 1 % pro Monat wird der 
+Mieterstromzuschlag entsprechend niedriger liegen. Die urspr&#252;nglich intendierte Anreizwirkung wird damit aktuell 
+nicht mehr &#252;ber den Mieterstromzuschlag erreicht. Die indirekte F&#246;rderung kompensiert dies nur unzureichend. 
+Der Mieterstromzuschlag ist angesichts der hohen Kosten dieser Vermarktungsform aktuell zu niedrig, um weiterhin 
+Anreize zur Investition in neue PV-Mieterstromanlagen zu setzen. 
+4.3. Wirkung der Regelung zur Anlagenzusammenfassung 
+&#167; 24 Abs. 1 EEG 2017 regelt, dass mehrere Anlagen unabh&#228;ngig von den Eigentumsverh&#228;ltnissen zu einer Anlage 
+zusammengefasst werden, wenn sie sich auf demselben Grundst&#252;ck, demselben Geb&#228;ude, demselben Betriebsgel&#228;nde 
+oder sonst in unmittelbarer r&#228;umlicher N&#228;he befinden. Die vorgenannte Regelung zur Anlagenzusammenfassung 
+betrifft die Frage, ob und unter welchen Voraussetzungen mehrere Anlagen f&#252;r die Ermittlung der Verg&#252;tungsh&#246;he11 
+zusammengefasst werden. 
+PV-Mieterstromanlagen werden h&#228;ufig in Ballungsgebieten errichtet. Es kommt oftmals zu der Situation, dass
+technisch getrennte PV-Mieterstromanlagen auf baulich verbundenen Geb&#228;uden innerhalb eines Wohnquartiers zu einer 
+Gesamtanlage zusammengefasst werden. Diese baulich verbundenen Geb&#228;ude weisen jedoch separate Zug&#228;nge, 
+Hausanschl&#252;sse und elektrische Anlagen auf. Dies erh&#246;ht die Kosten. Die Zusammenfassung der technisch getrennten 
+PV-Anlagen f&#252;hrt dazu, dass sich der Verg&#252;tungssatz f&#252;r die ins Netz eingespeisten Strommengen und damit auch 
+der daran gekoppelte Mieterstromzuschlag verringert, da die nach Leistungsstufen gem&#228;&#223; &#167; 23c Nr. 1 EEG 2017 zu 
+ermittelnde Verg&#252;tung f&#252;r h&#246;here Anlagenleistungen sinkt. 
+11 Diese wird nach &#167; 23c Nr. 1 EEG 2017 anteilig bestimmt. Dar&#252;ber hinaus erfolgt bei Mieterstrom eine geb&#228;udespezifische Anlagenzusammenfassung, 
+sofern es um die Frage der Anspruchsberechtigung geht. Ein Anspruch besteht gem&#228;&#223; &#167; 21 Abs. 3 Satz 1 EEG 2017 insofern nur f&#252;r Solaranlagen 
+mit einer installierten Leistung von insgesamt bis zu 100 kW, die auf, an oder in einem Wohngeb&#228;ude installiert sind. In bestimmten
+Konstellationen sind gef&#246;rderte Mieterstromprojekte auch mit mehreren, auf verschiedenen Geb&#228;uden errichteten Solaranlagen mit einer jeweils installierten 
+Leistung von bis zu 100 kW pro Wohngeb&#228;ude denkbar (vgl. den Hinweis der EEG-KWKG Clearingstelle vom 20. April 2018, Az. 2017/46 (Rn. 22), 
+abrufbar unter https://www.clearingstelle-eeg-kwkg.de/hinwv/2017/46
+&#8211; 15 &#8211;
+16 
+Die Auswirkungen auf die Wirtschaftlichkeit der Anlagen durch die Anlagenzusammenfassung und die damit
+geringeren Verg&#252;tungss&#228;tze werden nachfolgend beispielhaft f&#252;r vier technisch getrennte PV-Anlagen mit jeweils 20 kW 
+auf separaten Geb&#228;uden quantifiziert. Gem&#228;&#223; der Anlagenzusammenfassungsregelung w&#252;rden in diesem Fall die 
+Anlagen f&#252;r eine Inbetriebnahme im Juni 2019 keine Einspeiseverg&#252;tung in H&#246;he von 10,65 ct/kWh, sondern 9,41 ct/ 
+kWh erhalten (-12 %). Der Mieterstromzuschlag w&#252;rde nicht 2,15 ct/kWh, sondern 1,41 ct/kWh betragen (-34 % vgl. 
+auch Tabelle 4). 
+Die nachfolgende Tabelle 7 zeigt die Auswirkungen der Anlagenzusammenfassung f&#252;r den Fall der Realisierung von 
+vier Anlagen mit jeweils 20 kW. Dargestellt sind die Projektverzinsungen f&#252;r jeweils eines der 20-kW-Projekte. Ohne 
+Anlagenzusammenfassung greifen die vorgenannten h&#246;heren Einspeiseverg&#252;tungss&#228;tze bzw. Mieterstromzuschl&#228;ge. 
+Mit der geltenden Anlagenzusammenfassung (und damit niedrigeren Verg&#252;tungss&#228;tzen und Mieterstromzuschl&#228;gen) 
+liegen die Projektrenditen um rund einen Prozentpunkt niedriger. Die Rentabilit&#228;t der Projekte wird damit
+insbesondere f&#252;r Projekte mit niedriger Projektverzinsung prozentual sehr stark vermindert. 
+4.4. Preisobergrenze 
+Die Preisobergrenze wurde aus Gr&#252;nden des Verbraucherschutzes und der Akzeptanz der Energiewende eingef&#252;hrt. 
+Sie soll Mieter vor nicht marktgerechten Strompreisen oberhalb der Grundversorgungstarife sch&#252;tzen. Die
+Preisobergrenze ist in &#167; 42a Absatz 4 EnWG geregelt. Konkret verhindert sie, dass Mieter, die sich bei der Anmietung von 
+Wohnr&#228;umen einem strukturellen Verhandlungsungleichgewicht gegen&#252;ber dem Vermieter ausgesetzt sehen,
+wirtschaftlich schlechter gestellt werden, als im jeweils g&#252;ltigen Grundversorgungstarif. 
+In der Jahresendabrechnung muss ein Vergleich erfolgen zwischen dem Mieterstrompreis und dem Preis, der 90 % 
+des in dem jeweiligen Netzgebiet geltenden Grundversorgungstarifs entspricht. Damit kann der Mieter ohne eigene 
+Berechnungen erkennen, ob der von ihm gezahlte Mieterstrompreis der gesetzlichen Vorgabe gen&#252;gt. Wird der 
+H&#246;chstpreis &#252;berschritten, muss in der Jahresendabrechnung eine Herabsetzung erfolgen, ohne dass der Mieter hier 
+t&#228;tig werden muss. Der Anbieter des Mieterstroms darf nur den monatlichen Preis f&#252;r Mieterstrom verlangen, der 
+maximal dem H&#246;chstpreis entspricht. 
+Die regional stark unterschiedlichen Netzentgelte sind einer der Hauptgr&#252;nde f&#252;r die gro&#223;e Bandbreite der
+Stromtarife in Deutschland. Dies betrifft gleicherma&#223;en die Tarife der Grundversorgung und damit auch die jeweils vor Ort 
+g&#252;ltige Preisobergrenze f&#252;r EEG-gef&#246;rderte PV-Mieterstromanlagen. Abbildung 5 zeigt die Verteilung der mittleren 
+Grundversorgungstarife f&#252;r Haushaltskunden im Jahr 2018. 
+Die Projektverzinsungen beziehen sich auf eines der vier 20-kW-Projekte. 
+Projektverzinsung (interner 
+Zinsfu&#223;, real, vor Steuern) 
+ohne
+Anlagenzusammenfassung 
+Projektverzinsung (interner  
+Zinsfu&#223;, real, vor Steuern) 
+mit Anlagenzusammenfassung 
+(Status quo) 
+Zahl der  
+Wohnungen PV-Anlage (kW)
+Teilnehmerquote 
+Anteil  
+PV-
+Direktverbrauch vor Ort 
+Niedrige  
+Kosten 
+Hohe 
+Kosten 
+Niedrige  
+Kosten 
+Hohe 
+Kosten 
+6 4 x 20 50 % 34 % 4,5 % 3,4 % 3,4 % 2,3 % 
+6 4 x 20 70 % 34 % 4,1 % 2,6 % 3,1 % 1,5 % 
+6 4 x 20 90 % 34 % 3,8 % 1,8 % 2,7 % 0,6 % 
+10 4 x 20 50 % 49 % 5,7 % 4,0 % 4,8 % 3,1 % 
+10 4 x 20 70 % 49 % 5,2 % 2,8 % 4,2 % 1,8 % 
+10 4 x 20 90 % 49 % 4,6 % 1,5 % 3,7 % 0,4 % 
+Tabelle 7: Auswirkungen der Anlagenzusammenfassungsregelung auf die Projektverzinsung f&#252;r 4x20 kW 
+Quelle: ZSW 2019
+&#8211; 16 &#8211;
+17 
+Die Verteilung zeigt, dass sich die Grundversorgungstarife von einzelnen Ausrei&#223;ern abgesehen  in einer
+Spannbreite von 25 bis 35 ct/kWh bewegen mit einem Modalwert (d.h. dem am h&#228;ufigsten auftretenden Wert) von rund 31 
+ct/kWh. Der lokale Grundversorger hat im Rahmen seiner gesetzlich einger&#228;umten Freiheiten bei der Festlegung der 
+Grundversorgungstarife eine Mitgestaltungsm&#246;glichkeit im Hinblick auf die Rentabilit&#228;t der Mieterstromprojekte in 
+seinem Versorgungsgebiet. 
+Die Abh&#228;ngigkeit vom Grundversorgungstarif beeinflusst die Wirtschaftlichkeit von Mieterstromprojekten. Dies 
+wurde bereits in einem Gutachten von Prognos diskutiert, welches vor der Einf&#252;hrung des Mieterstromzuschlags 
+vom BMWi in Auftrag gegeben wurde12 . Auch in der beihilferechtlichen Genehmigung des Mieterstromzuschlags 
+befinden sich Wirtschaftlichkeitsberechnungen mit unterschiedlich hohen Netzentgelten13 . Grob vereinfacht
+bestehen in Regionen mit niedrigen Strompreisen tendenziell geringere Umsetzungswahrscheinlichkeiten f&#252;r PV-
+Mieterstromprojekte. In Regionen mit niedrigen Strompreisen besteht jedoch ganz unabh&#228;ngig von der Preisobergrenze f&#252;r 
+den Mieterstromanbieter die Herausforderung, ein preislich wettbewerbsf&#228;higes Produkt anzubieten. Damit sind die 
+Erl&#246;sm&#246;glichkeiten und die H&#246;he des Tarifs ohnehin indirekt begrenzt. 
+Zur Preisobergrenze hat das ZSW sowohl die Verbraucherzentralen und Mieterverb&#228;nde als auch Anlagenbetreiber 
+befragt. Im Durchschnitt der Projekte der einzelnen Befragten liegt das Verh&#228;ltnis mit knapp 85 % unterhalb der 
+Preisobergrenze. Die Mehrzahl der R&#252;ckmeldungen der Verbraucherzentralen bef&#252;rwortet die Preisobergrenze.
+Insgesamt zeigen die R&#252;ckmeldungen der Verbraucherzentralen und Mieterverb&#228;nde auch, dass die Preisobergrenze in 
+der Beratungspraxis kaum eine Bedeutung hat. 
+Abbildung 5: Verteilung der mittleren Grundversorgertarife f&#252;r Haushaltskunden (2.500  5.000 kWh/a) nach 
+gerundeten Tarifen (einschl. MwSt.) 
+Quelle: Bundesnetzagentur, Stand 01.04.2018, Darstellung auf Basis ZSW 2019 
+0 
+50 
+100 
+150 
+40 39 38 37 36 35 &#167;34 33 32 31 30 29 28 27 26 25 24 23 22 21 
+Tarif in ct/kWh, gerundet 
+12 www.bmwi.de/Redaktion/DE/Publikationen/Studien/schlussbericht-mieterstrom.html?__blob=publicationFile 
+13 http://ec.europa.eu/competition/state_aid/cases/269734/269734_1962003_114_3.pdf
+&#8211; 17 &#8211;
+&#8211;
+&#8211; &#8211;
+18 
+5. Sonstige Regelungen und Rahmenbedingungen 
+Auf den folgenden Seiten werden Themen diskutiert, die h&#228;ufig als Hemmnis f&#252;r die Umsetzung von
+Mieterstromprojekten genannt werden. 
+5.1. R&#228;umliches Verh&#228;ltnis von Erzeugungs- und Verbrauchsgeb&#228;uden/Quartierskonzepte 
+Das EEG setzt als Bedingung f&#252;r die Zahlung des Mieterstromzuschlags einen Verbrauch des Mieterstroms in
+unmittelbarem r&#228;umlichem Zusammenhang zur PV-Anlage voraus. Auch eine Netzdurchleitung darf nicht erfolgen (&#167; 21 
+Abs. 3 EEG  2017). 
+Der r&#228;umlichen Ausdehnung von Mieterstromprojekten sind damit Grenzen gesetzt. Der unmittelbare r&#228;umliche 
+Zusammenhang setzt gem&#228;&#223; des Leitfadens zur Eigenversorgung der Bundesnetzagentur eine qualifizierte
+r&#228;umlichfunktionale N&#228;he-Beziehung zwischen PV-Anlage und Verbraucher voraus. Eine solche qualifizierte r&#228;umlich
+funktionale N&#228;he-Beziehung kann sowohl durch r&#228;umliche Distanz, als auch durch unterbrechende Elemente zu
+verneinen sein. Ma&#223;geblich ist die jeweilige Einzelsituation vor Ort. Der unmittelbare r&#228;umliche Zusammenhang wird 
+jedoch regelm&#228;&#223;ig dann als gegeben angesehen, wenn sich Erzeugungsanlage und Verbraucher auf bzw. in demselben 
+Geb&#228;ude, auf demselben Grundst&#252;ck oder auf demselben Betriebsgel&#228;nde befinden und keine st&#246;renden Hindernisse 
+oder unterbrechenden Elemente vorhanden sind. 
+Das r&#228;umliche Verh&#228;ltnis von Erzeugungs- und Verbrauchsgeb&#228;uden war auch Gegenstand der von ZSW
+durchgef&#252;hrten Befragung von Mieterstrombetreibern. Es gab nur wenige Projekte, bei denen Erzeugungs- und
+Verbrauchsgeb&#228;ude nicht identisch waren (nur sieben von 73 befragten Anlagenbetreiber wiesen solche Projekte auf). Getrennte 
+Erzeugungs- und Verbrauchsgeb&#228;ude scheinen demzufolge bei den untersuchten PV-Mieterstromanlagen bislang 
+eine untergeordnete Rolle zu spielen. 
+Ob und inwiefern eine Ausweitung der r&#228;umlichen Voraussetzungen f&#252;r den Mieterstromzuschlag, zum Beispiel in 
+Form von Quartierskonzepten (Wohnanlagen &#252;ber mehrere Grundst&#252;cke und Stra&#223;enz&#252;ge), die Wirtschaftlichkeit 
+von Mieterstromprojekten verbessern w&#252;rde, l&#228;sst sich aufgrund der Heterogenit&#228;t m&#246;glicher Fallkonstellationen 
+nicht abschlie&#223;end beantworten. Einerseits lie&#223;e sich die Direktverbrauchsquote m&#246;glicher Projekte durch eine
+Ausweitung auf weitere Verbraucher erh&#246;hen. Damit k&#246;nnte m&#246;glicherweise mehr Mieterstrom abgesetzt werden, was 
+einen Anreiz f&#252;r zus&#228;tzliche Mieterstromprojekte bedeuten k&#246;nnte. Andererseits w&#228;re die Belieferung von entfernter 
+liegenden Geb&#228;uden nur ohne Netzdurchleitung m&#246;glich. Dar&#252;ber hinaus w&#228;ren wom&#246;glich mehr Kunden mit
+Reststrom zu beliefern, was aufgrund der geringeren Marge bei der Reststrombelieferung zu einer insgesamt sinkenden 
+prozentualen Projektrendite f&#252;hren w&#252;rde. 
+Die m&#246;gliche Alternative einer Netzdurchleitung des Mieterstroms ist mit der Zahlung von Netzentgelten,
+Konzessionsabgabe und netzseitigen Umlagen verbunden. 
+Quartiersl&#246;sungen im Zuge der PV-Mieterstromf&#246;rderung bzw. eine Ausweitung der r&#228;umlichen Begrenzung &#252;ber 
+den unmittelbaren r&#228;umlichen Zusammenhang hinaus zuzulassen, erfordert unmittelbar eine juristische Definition 
+des r&#228;umlichen Bereichs, in dem die Mieterstromf&#246;rderung gelten soll. Bisher ist der Begriff &#8222;Quartier&#8220;
+energierechtlich nicht festgelegt. Dar&#252;ber hinaus stellt sich die Frage der anzulegenden Kriterien, denn es m&#252;ssten die vor Ort zum 
+Teil sehr heterogenen Gegebenheiten abbildet werden. Eine gesetzliche Definition scheint demzufolge nicht ratsam. 
+Sie m&#252;sste zudem sicherstellen, dass keine Ausweitung der Eigenversorgung erfolgt, denn dies h&#228;tte wiederum
+Auswirkungen auf die Finanzierung der Energiewende als Ganzes. 
+Aktuell scheinen das r&#228;umliche Verh&#228;ltnis von Erzeugungs- und Verbrauchsgeb&#228;uden sowie Quartiersl&#246;sungen bei 
+den Marktakteuren keine hohe Priorit&#228;t zu haben. In der durchgef&#252;hrten Befragung waren die Teilnehmer aufgefordert, 
+die Hauptschwierigkeiten bei der Umsetzung von Mieterstromprojekten zu bewerten. Dabei bestand auch die
+M&#246;glichkeit nicht aufgef&#252;hrte Hemmnisse in einem Freitextfeld zu nennen und zu erl&#228;utern. In den R&#252;ckmeldungen hierzu 
+wurde die Regelung zum r&#228;umlichen Zusammenhang bzw. der Wunsch nach Quartierskonzepten von den Befragten 
+ebenso wenig adressiert, wie in eingegangenen R&#252;ckmeldungen zur Befragung per E-Mail.
+&#8211; 18 &#8211;
+19 
+Auf der Grundlage der f&#252;r diesen Bericht durchgef&#252;hrten Befragungen ergibt sich zum gegenw&#228;rtigen Zeitpunkt kein 
+unmittelbar zwingender Bedarf f&#252;r eine Weiterentwicklung von Quartiersl&#246;sungen. Priorit&#228;r ist zun&#228;chst eine
+Verbesserung der Wirtschaftlichkeit geboten. M&#246;glicherweise hat die geringe Wirtschaftlichkeit von
+Mieterstromkonzepten dazu beigetragen, dass Quartiersl&#246;sungen kaum umgesetzt wurden oder bei der Befragung keine Rolle gespielt 
+haben. Insofern sollte das Thema weiter beobachtet und Quartiersl&#246;sungen bei der Weiterentwicklung von
+Mieterstrommodellen gepr&#252;ft werden. 
+5.2. Lieferkettenmodell 
+Im Lieferkettenmodell tritt ein Energiedienstleister als Mieterstromlieferant auf und &#252;bernimmt die
+Strombelieferung von Letztverbrauchern im Rahmen eines Mieterstromprodukts. Der PV-Strom wird vom
+Wohnungsunternehmen abgekauft, in dessen Eigentum sich sowohl das Geb&#228;ude als auch die PV-Anlage befinden. Damit sind in dieser 
+&#8222;Lieferkette&#8220; drei Akteure t&#228;tig (Letztverbraucher/Mieter, Anlagenbetreiber/Vermieter sowie Energiedienstleister). Der 
+Vorteil dieses Modells ist, dass die Marktrolle des Stromlieferanten an einen energiewirtschaftlich versierten Dritten 
+&#252;bertragen wird und damit der hohe administrative Aufwand etwa aufgrund von Mitteilungspflichten gegen&#252;ber 
+dem Netzbetreiber und Vorgaben bei der Verbrauchsabrechnung gegen&#252;ber dem Mieter f&#252;r den Vermieter entf&#228;llt. 
+Das Lieferkettenmodell wird allerdings von einigen Netzbetreibern sowie der Bundesnetzagentur als nicht zul&#228;ssig 
+eingestuft. 
+Nach Auffassung der Bundesnetzagentur kann kein Mieterstromzuschlag in Anspruch genommen werden, wenn 
+zwischen Anlagenbetreiber und Letztverbraucher ein Energieversorgungsunternehmen zwischengeschaltet ist14;  
+vielmehr sei im Mieterstrommodell der Vermieter immer zugleich der Stromlieferant. Diese Auffassung hat zur  
+Verunsicherung bei der Anwendung des Lieferkettenmodells in der Praxis gef&#252;hrt. 
+Die Personenidentit&#228;t kann in der Praxis &#252;ber ein Pachtmodell realisiert werden. Dabei wird die gesamte PV-Anlage 
+an einen Mieterstromanbieter verpachtet. Dies erzeugt jedoch administrativen und rechtlichen Aufwand sowie 
+zus&#228;tzliche Kosten. Dies wurde auch in der Betreiberbefragung von ZSW thematisiert. Dabei zeigte sich, dass eine 
+mangelnde Rendite aus Betreibersicht aufgrund von Pachtzahlungen an den Anlageneigent&#252;mer von 72 % der 
+Befragten als mindestens &#8222;relevant&#8220; eingestuft wird. &#196;hnlich hoch mit 66 % bzw. 65 % der Befragten werden die
+komplexe Diskussion um die Verantwortlichkeit f&#252;r m&#246;gliche Risiken des Anlagenbetriebs, sowie der b&#252;rokratische
+Aufwand f&#252;r den Abschluss des Pachtvertrags eingeordnet. 
+14 Hinweis der Bundesnetzagentur zum Mieterstromzuschlag als eine Sonderform der EEG-F&#246;rderung vom 20. Dezember 2017; 
+https://www.bundesnetzagentur.de/DE/Sachgebiete/ElektrizitaetundGas/Unternehmen_Institutionen/ErneuerbareEnergien/EEGAufsicht/
+Mieterstrom/Mieterstrom_node.html
+&#8211; 19 &#8211;
+20 
+Eine weitere nach geltendem Recht zul&#228;ssige Option besteht darin, dass der Hauseigent&#252;mer den Energiedienstleister 
+mit der Durchf&#252;hrung des Anlagenbetriebs beauftragt. Eine dritte Option besteht darin, f&#252;r den Strom die
+Vermarktungsform der Volleinspeisung zu w&#228;hlen und die Ertr&#228;ge aus dem Stromverkauf und der EEG-F&#246;rderung im
+Rahmen des Stromliefervertrages an die Mieter auszusch&#252;tten. 
+Die Erfahrungen aus der Praxis und die Ergebnisse der Befragung zeigen, dass insbesondere das Pachtmodell zu einer 
+wenig praxistauglichen Abwicklung und damit einhergehend h&#246;heren Kosten f&#252;hrt. Dar&#252;ber hinaus bleibt der
+Hauseigent&#252;mer/Vermieter in beiden Modellen mit dem hohen administrativen Aufwand eines Stromlieferanten belastet. 
+Ausgehend von dieser Einordnung liegt der Schluss nahe, dass der unsichere Rechtsstatus des Lieferkettenmodells 
+und die damit einhergehende Notwendigkeit zur komplizierteren Abwicklung von Mieterstrommodellen im
+Pachtmodell und im Dienstleistungsmodell PV-Mieterstromprojekte belasten. Durch eine gesetzliche Klarstellung
+zugunsten praxistauglicher Vermarktungsmodelle wie z.B. des Lieferkettenmodells k&#246;nnte dieses Hemmnis beseitigt
+werden. Pacht- und Dienstleistungsmodelle bleiben weiter m&#246;glich. 
+5.3. Sonstiges 
+Im Rahmen der von ZSW durchgef&#252;hrten o.g. Befragung von Anlagenbetreibern konnten diese mehrere potentielle 
+Hemmnisse bewerten. Hierzu konnten die Befragten aus einer Vorauswahl verschiedene M&#246;glichkeiten in einer 
+Abstufung von &#8222;sehr relevant&#8220; bis &#8222;nicht relevant&#8220; bewerten. Den h&#246;chsten Anteil an Bewertungen mit &#8222;sehr
+relevant&#8220; bzw. &#8222;relevant&#8220; (83 %) weist dabei der technische und wirtschaftliche Gesamtaufwand f&#252;r Mieterstromprojekte 
+auf (vgl. Abbildung 7). Eine hohe Relevanz kommt zudem dem Abrechnungsaufwand und dem administrativen
+Aufwand f&#252;r das Messkonzept zu (jeweils 65 % mit mindestens &#8222;relevant&#8220; bewertet), sowie dem technischen Aufwand f&#252;r 
+das Messkonzept (62 % &#8222;relevant&#8220; bzw. &#8222;sehr relevant&#8220;). 
+Eine geringere und jeweils &#228;hnlich hohe Relevanz weisen die Akquise von Mieterstromkunden, die Regelungen zur 
+Anlagenzusammenfassung, die Eignung von Dachfl&#228;chen, die Kopplung an den Grundversorgertarif sowie die
+m&#246;gliche Sch&#228;dlichkeit f&#252;r die Gewerbesteuerbefreiung auf, die jeweils von 35 % bis 43 % der Befragten mit mindestens 
+&#8222;relevant&#8220; bewertet wurden. 
+Abbildung 6: Bewertung m&#246;glicher Probleme des Pachtmodells 
+Quelle: ZSW 2019 
+0  20  40  60  80  100  
+B&#252;rokratischer 
+Aufwand 
+Pachtvertrag 
+Komplexe Risiko-
+Verantwortlichkeitsdiskussion 
+Mangelnde Rendite 
+aus Betreibersicht 
+sehr relevant 
+n = 40 
+n = 38 
+n = 39 
+relevant teils/teils kaum relevant nicht relevant 
+in Prozent
+&#8211; 20 &#8211;
+21 
+Neben den vorgegebenen Hemmnissen hatten die Befragten die M&#246;glichkeit, weitere Hemmnisse zu nennen und 
+diese zu erl&#228;utern. Ein h&#228;ufig genannter Kritikpunkt hierbei ist die Zusammenarbeit mit den Netzbetreibern.
+Kritisiert wird einerseits eine unzureichende Information durch Netzbetreiber. Andererseits werden mangelnde
+Kompetenz, sehr lange Bearbeitungszeiten, lange Zeiten bis zur Auszahlung des Mieterstromzuschlags oder sogar eine  
+Weigerungshaltung kritisiert. Ob diese Kritik im Einzelfall berechtigt ist oder nicht, kann nicht beurteilt werden. Eine 
+M&#246;glichkeit w&#228;re hier die Nutzung von standardisierten Vertr&#228;gen und das Teilen von &#8222;best practices&#8220; um die
+Umsetzung zu unterst&#252;tzen und Transaktionskosten zu senken. Ebenfalls h&#228;ufig wurde die Regelung zur
+Anlagenzusammenfassung (siehe hierzu auch Abschnitt 4.3) oder die Ablehnung des Lieferkettenmodells durch den Netzbetreiber kritisiert 
+(siehe vorheriger Abschnitt 5.2). Die befragten Anlagenbetreiber &#228;u&#223;erten sich nicht zu den Rahmenbedingungen im 
+Recht des Wohnungseigentums, das insbesondere im Vorfeld der Realisierung einer PV-Aufdachanlagen zum Tragen 
+kommt. Eine etwaig in diesem Bereich angezeigte Verbesserung der Realisierungsbedingungen f&#252;r Mieterstrom gilt es 
+daher weiterhin zu pr&#252;fen. 
+Abbildung 7: Bewertung m&#246;glicher Hemmnisse f&#252;r Mieterstrom 
+Quelle: ZSW 2019 
+0 20 40 60 80 100 
+Kombination mit anderen 
+Erzeugungsanlagen (z.B. KWK) 
+Anlagenzusammenfassung 
+Kopplung an Grundversorgertarif 
+Eignung Dachf&#228;chen 
+Sch&#228;dlichkeit 
+Gewerbesteuerbefreiung 
+Akquise Mieterstromkunden 
+Technischer Aufwand Messkonzept 
+Aufwand Abrechnung 
+Administrativer 
+Aufwand Messkonzept 
+Techn./wirtsch. Gesamtaufwand 
+sehr relevant 
+n = 40 
+n = 47 
+n = 46 
+n = 46 
+n = 47 
+n = 46 
+n = 47 
+n = 30 
+n = 35 
+n = 47 
+relevant teils/teils kaum relevant nicht relevant 
+in Prozent
+&#8211; 21 &#8211;
+
+
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>Mieterstrombericht nach &#167; 99 des Erneuerbare-Energien-Gesetzes 2017</titel>
+    <datum>2019-09-19</datum>
+  </document>
+  

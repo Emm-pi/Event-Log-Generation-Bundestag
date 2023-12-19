@@ -1,0 +1,534 @@
+<document>
+    <id>226820</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/8099</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>dabc8c205329b59696e6ee1a3299a554</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>244137</id>
+      <titel>Bundesf&#246;rderung f&#252;r die Entwicklung von Schul-Clouds</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium f&#252;r Bildung und Forschung</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/080/1908099.pdf</pdf_url>
+      <id>226820</id>
+      <dokumentnummer>19/8099</dokumentnummer>
+      <datum>2019-02-28</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums f&#252;r Bildung und Forschung  
+vom 26. Februar 2019 &#252;bermittelt.  
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext. 
+Deutscher Bundestag  Drucksache 19/8099 
+19. Wahlperiode 28.02.2019 
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Katja Suding, Nicola Beer, 
+Dr. Jens Brandenburg (Rhein-Neckar), weiterer Abgeordneter  
+und der Fraktion der FDP 
+&#8211; Drucksache 19/7681 &#8211; 
+Bundesf&#246;rderung f&#252;r die Entwicklung von Schul-Clouds 
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r  
+Cloud Computing hat seit 2000 eine rasante Verbreitung gefunden. Zahlreiche 
+Onlinedienstleistungen greifen auf Cloudl&#246;sungen zur&#252;ck, indem sie
+Speicherplatz, Rechenleistung und Software aus einem Rechnernetzwerk nutzen, anstatt 
+eine entsprechende Infrastruktur vor Ort aufzubauen. Die Vorteile von
+Cloudl&#246;sungen liegen in ihrer sehr hohen Skalierbarkeit und den damit verbundenen 
+geringeren Kosten f&#252;r Anschaffung, Wartung und Entwicklung. Die zentrale 
+Speicherung von Daten ist indes mit h&#246;heren Anforderungen an den
+Datenschutz verbunden, wenn Pers&#246;nlichkeitsrechte wirksam gesch&#252;tzt werden
+sollen. 
+Trotz der bestehenden rechtlichen H&#252;rden bietet der Einsatz von Clouds in 
+Schulen ein gro&#223;es Potenzial, da zentrale Cloudl&#246;sungen die Anschaffung und 
+Wartung von Serverstrukturen, die Auswahl und Aktualisierung der Software 
+sowie eine grundlegende Gew&#228;hrleistungen des Datenschutzes &#252;bernehmen,
+sodass diese Aufgaben nicht prim&#228;r in den Schulen vor Ort erf&#252;llt werden m&#252;ssen. 
+Der Bund f&#246;rdert die Entwicklung einer Schul-Cloud am Hasso-Plattner-Institut 
+(HPI). Die im Rahmen des Forschungsprojekts gewonnenen Erkenntnisse sind 
+&#246;ffentlich zug&#228;nglich und sollen als Referenzmodell f&#252;r Schul-Clouds dienen. 
+Aktuell ist jedoch unklar, wie die Erkenntnisse in die Praxis &#252;bertragen werden 
+k&#246;nnen, bevor bzw. wenn die Bundesf&#246;rderung ausgelaufen ist. 
+V o r b e me r k u n g  d e r  B u n d e s r e g i e r u n g  
+Die Bundesregierung hat zur Digitalisierung auch in der schulischen Bildung 
+zahlreiche Forschungs- und Entwicklungsvorhaben gef&#246;rdert. Ziel der
+Bundesregierung ist es, die technischen M&#246;glichkeiten auszuloten, mit denen Unterricht 
+und Bildungsprozesse bestm&#246;glich unterst&#252;tzt werden k&#246;nnen. Da sich der
+p&#228;dagogische Nutzen solcher Projekte nur durch eine praktische Erprobung und die 
+Ber&#252;cksichtigung der Anforderungen aus dem Unterrichtsalltag evaluieren l&#228;sst, 
+sind diese F&#246;rdervorhaben immer als ein geeigneter Verbund von Entwicklung
+und schulischer Praxis strukturiert. Der Aufbau von Plattformen zur
+Unterrichtsvorbereitung und -gestaltung wurde vom Bundesministerium f&#252;r Bildung und 
+Forschung (BMBF) bereits seit 1998 gef&#246;rdert. Als gr&#246;&#223;te solcher Plattform-
+Vorhaben wurde &#8222;Lehrer-Online&#8220; zeitweise von sechs L&#228;ndern als offizielle Landes-
+Unterrichtsplattform genutzt und wird seit 2008 von einer privatwirtschaftlichen 
+Betreibergesellschaft angeboten.  
+Die technische Entwicklung des Cloud-Computing erlaubt heute vielf&#228;ltige neue 
+M&#246;glichkeiten der Unterrichtsgestaltung und der Nutzung von digitalen
+Bildungsmedien, die Verlagerung von Betrieb, Pflege und Software-Wartung in 
+zentrale Rechenzentren und dadurch eine starke Entlastung der einzelnen Schulen 
+von technischen Aufgaben. Voraussetzung daf&#252;r ist die Gestaltung und
+Umsetzung einer Systemarchitektur f&#252;r eine konsequent modulare Plattform, die an
+spezifische schulische Anforderungen angepasst ist. Neben technischen Fragen des 
+Datenschutzes und der Sicherheit sind vor allem auch ein flexibler und zugleich 
+urheberrechts-konformer Einsatz von Bildungsinhalten, die einfache Gestaltung 
+von Unterrichtsabl&#228;ufen und die Zusammenarbeit von Sch&#252;lerinnen und Sch&#252;lern 
+im Unterricht und bei der Nachbereitung entscheidende Merkmale. 
+F&#252;r das modulare Cloud Computing haben sich technische Methoden, Werkzeuge 
+und Standards etabliert, die eine extrem flexible Bereitstellung komplexer
+Software-Services erlauben. F&#252;r den Bildungssektor werden diese jedoch bisher nicht 
+genutzt. Die Bundesregierung hat dies zum Anlass genommen, diese technischen 
+Potentiale in einem Forschungsvorhaben am Hasso-Plattner-Institut (HPI) gem&#228;&#223; 
+praktischer Anforderungen aus dem Unterrichtsalltag der im MINT-EC e. V.
+organisierten Gymnasien pilothaft umsetzen zu lassen. Die Ergebnisse des
+Vorhabens werden als Open Source frei verf&#252;gbar gemacht. Wie bei solchen Vorhaben 
+vorgeschrieben, ist die weitere Verwertung der Ergebnisse Aufgabe der
+Zuwendungsempf&#228;nger. 
+1. Mit welchem Ziel und welcher Strategie unterst&#252;tzt die Bundesregierung die 
+Entwicklung einer Schul-Cloud am HPI? 
+Die Bundesregierung unterst&#252;tzt die Entwicklung des Schul-Cloud-Vorhabens 
+des HPI und des MINT-EC e. V. mit dem Ziel, die Potentiale des Cloud
+Computing nutzbar zu machen f&#252;r die konkreten Anforderungen, die aus der Schulpraxis 
+heraus formuliert werden. Im Austausch zwischen Entwicklern und Nutzern soll 
+ein praxiserprobtes System entwickelt werden, das den allt&#228;glichen Einsatz
+digitaler Bildungsmedien mit den modernsten Methoden der IT-Entwicklung optimal 
+unterst&#252;tzt. 
+2. Verfolgt die Bundesregierung eine Strategie zur Umsetzung einer
+bundesweit bzw. l&#228;nder&#252;bergreifend fl&#228;chendeckend eingesetzten Schul-Cloud 
+(bitte erl&#228;utern und begr&#252;nden)? 
+Die Bundesregierung begr&#252;&#223;t, dass die Ergebnisse des Schul-Cloud-Projektes 
+nach dessen Ende als Open Source frei verf&#252;gbar sein werden. Es steht
+interessierten L&#228;ndern frei, diese Ergebnisse zu nutzen. Bisher hat die Landesinitiative 
+n21 f&#252;r Niedersachsen einen Kooperationsvertrag mit dem HPI zur gemeinsamen 
+Pilotierung und Weiterentwicklung der Schul-Cloud abgeschlossen.
+3. Wie bewertet die Bundesregierung die von einzelnen L&#228;ndern oder einzelnen 
+Schulen eingesetzten Schul-Clouds? 
+Welche Vor- und Nachteile haben diese jeweils gegen&#252;ber der am HPI
+entwickelten, vom Bund gef&#246;rderten Schul-Cloud? 
+Die Bundesregierung hat keine detaillierten Kenntnisse zu den von L&#228;ndern
+eingesetzten bzw. geplanten Cloud-Systemen. Das Schul-Cloud-Projekt des HPI 
+zeichnet zum einen die konsequent modulare und nach aktuellen
+Entwicklungsstandards aufgebaute Systemstruktur aus, zum anderen die entwicklungsoffene 
+Projektstruktur, mit der das HPI-Projekt im Projektverlauf und dem schulischen 
+Einsatz auf die von Praxispartnern und externen Experten artikulierten
+Anforderungen reagiert. 
+4. Welcher konkrete Auftrag der Bundesregierung ist mit der F&#246;rderung der 
+Entwicklung einer Schul-Cloud am HPI verbunden? 
+Welche Meilensteine wurden definiert? 
+5. Inwieweit hat das HPI den Auftrag und die Ziele der Bundesregierung f&#252;r 
+die Entwicklung einer Schul-Cloud erf&#252;llt? 
+Welche Meilensteine wurden wann erf&#252;llt, welche nicht? 
+Die Fragen 4 und 5 werden im Zusammenhang beantwortet. 
+Die Entwicklung der Schul-Cloud am HPI erfolgt nicht im Auftrag der
+Bundesregierung, sondern im Rahmen einer Projektf&#246;rderung auf der Grundlage eines 
+entsprechenden Antrags des HPI. Das HPI und der MINT-EC e. V. setzen das 
+Projekt gem&#228;&#223; den in der Vorhabenbeschreibung festgelegten Zielen um. Bislang 
+sind keine Meilensteine bekannt geworden, die nicht fristgerecht erf&#252;llt wurden. 
+Dies gilt ungeachtet der Tatsache, dass konkrete Entwicklungsbedarfe in enger 
+Absprache mit den pilotierenden Schulen identifiziert und umgesetzt werden. 
+Meilensteine des Projekts sind: 
+1. Konzeptphase: Erarbeitung eines technischen Konzepts (September 2016 bis 
+Januar 2017). Pilotierungsphase (Februar 2017 bis April 2018) 
+&#61485; Entwicklung von Modulen der Schul-Cloud im Rahmen einer Cloud-
+Infrastruktur (jeweils alpha-Versionen): Inhalte-Dienst, Kalender-/Stundenplan-
+Dienst, Benachrichtigungs-Dienst, Weboberfl&#228;che, Authentifizierungsdienst, 
+Einbindung und Unterst&#252;tzung der Learning Tools Interoperability.  
+&#61485; Bereitstellung der Schul-Cloud f&#252;r ca. 25 Pilotschulen (Beginn Winterhalbjahr 
+2017/18) 
+&#61485; Dar&#252;ber hinaus bestanden konkrete Meilensteine f&#252;r die projektbegleitende 
+Evaluation sowie f&#252;r die Einbindung von Begleitgremien. 
+2. Roll-out-Phase (Mai 2018 bis Juli 2021) 
+&#61485; Weboberfl&#228;che zum Einstellen von Inhalten f&#252;r Content-Provider (2018) 
+&#61485; App-Erweiterung (2019) 
+&#61485; Kontextbasierte Visualisierung von Medieninhalten (2020) 
+&#61485; Etablierung Lernstore (2021)
+Stufenweise Bereitstellung der Schul-Cloud f&#252;r grunds&#228;tzlich alle MINT-EC-
+Schulen bis Juli 2021. Dar&#252;ber hinaus bestehen konkrete Meilensteine f&#252;r die 
+projektbegleitende Evaluation sowie f&#252;r die Einbindung von Begleitgremien. 
+6. Wie verbreitet ist der Einsatz der am HPI entwickelten Schul-Cloud bisher 
+(bitte Anzahl der Schulen und der erreichten Sch&#252;ler jeweils nach Jahren und 
+L&#228;ndern auflisten)? 
+Welche Ziele setzt sich die Bundesregierung diesbez&#252;glich? 
+Wie bewertet die Bundesregierung die bisherige und erwartete k&#252;nftige 
+Reichweite der Schul-Cloud in Relation zum Umfang der Bundesf&#246;rderung? 
+Die Schul-Cloud des HPI wird aktuell (Stand: Ende Januar 2019) an 98 MINT-
+EC-Schulen eingesetzt. An diesen Schulen gibt es mit Stand vom 20. Februar 
+2019 insgesamt 8 461 Nutzer, darunter 1 571 Lehrkr&#228;fte sowie 4 818
+Sch&#252;lerinnen und Sch&#252;ler. 
+Land Pilotschulen 
+(Schuljahr 
+2017/18) 
+Neue Schulen 
+(1. Halbjahr 
+2018/19) 
+Neue Schulen 
+(2. Halbjahr 
+2018/19) 
+Schulen gesamt 
+(2. Halbjahr 
+2018/19) 
+Baden-W&#252;rttemberg 2 3 1 6 
+Bayern 2 3 2 7 
+Berlin 1 3 0 4 
+Brandenburg 1 1 2 4 
+Bremen 0 0 1 1 
+Hamburg 0 0 1 1 
+Hessen 3 5 3 11 
+Mecklenburg-Vorpommern 1 3 1 5 
+Niedersachsen 5 5 4 14 
+Nordrhein-Westfalen 2 13 8 23 
+Rheinland-Pfalz 5 3 1 9 
+Saarland 2 0 2 4 
+Sachsen 1 0 0 1 
+Sachsen-Anhalt 1 0 1 2 
+Schleswig-Holstein 1 1 0 2 
+Th&#252;ringen 0 0 1 1 
+Deutsche Auslandsschulen 0 0 3 3 
+Als Nieders&#228;chsische Bildungscloud (NBC) wird eine eigene Instanz der Schul-
+Cloud des HPI in Niedersachsen an 45 Schulen und Einrichtungen der
+Lehrerbildung pilotiert. Daten &#252;ber den Umfang dieses Einsatzes liegen der
+Bundesregierung nicht vor.
+7. Welchen Funktions- und Leistungsumfang hat die am HPI entwickelte 
+Schul-Cloud aktuell, und wie beurteilt die Bundesregierung diesen? 
+Die Funktionen der HPI Schul-Cloud lassen sich in drei Bereichen verorten: 
+&#61485; Kommunikation, Kollaboration und Organisation 
+&#61485; Finden, Erstellen, Teilen, Verwenden und Bewerten von Inhalten 
+&#61485; Unterst&#252;tzen von Lernen und Lehren 
+Funktionalit&#228;ten im Einzelnen: 
+Bereich &#8222;Kommunikation, Kollaboration und Organisation&#8220; 
+&#61485; Kalender  
+(B&#252;ndelung von Stundenplan und einzelnen Terminen aus Kursen und der 
+Schule insgesamt zu einer Gesamtansicht) 
+&#61485; Dateiablage 
+(klassischer kollaborativer Cloudspeicher; M&#246;glichkeit, Dateien hochzuladen 
+und in Kursen oder direkt mit Nutzern zu teilen) 
+&#61485; Office-Programm  
+(Integration von Collabora Office, einer Webversion von Libre Office, mit 
+g&#228;ngigen Office-Funktionen wie Textverarbeitung, Tabellenkalkulation und 
+Pr&#228;sentationsprogramm. M&#246;glichkeit zu paralleler Zusammenarbeit mehrerer 
+Nutzer am selben Dokument. Hierf&#252;r genutzte Schnittstelle (WOPI) kann f&#252;r 
+die Anbindung aller g&#228;ngigen Office-Produkte genutzt werden.) 
+&#61485; News-Funktion  
+(Versenden offizieller Mitteilungen innerhalb von speziellen Kontexten oder 
+f&#252;r die gesamte Schule.) 
+&#61485; &#220;bersichtsseite 
+(B&#252;ndelung von aktuellen, f&#252;r die individuellen Nutzer tagesrelevanten
+Informationen &#8211; z. B. Kurs&#252;bersicht, anstehende Aufgaben - auf einem Dashboard) 
+&#61485; Verwaltungs- und Administrationsbereich 
+&#61485; (&#220;bersicht &#252;ber die Nutzer sowie M&#246;glichkeit zur Anpassung der HPI Schul-
+Cloud an die Organisationsstruktur der Schule.) 
+Bereich &#8222;Finden, Einstellen, Teilen und Bewerten von Inhalten&#8220; 
+&#61485; LernStore 
+(zentraler Zugang zu Inhalten von Verlagen, interaktiven Inhalteanbietern, 
+OER (Open Educational Ressources), Materialien von Stiftungen und
+ausgew&#228;hlten Videoinhalten sowie Blogs) 
+&#61485; Suchfunktion 
+(einheitliche Ansicht und Auffindbarkeit von verschiedensten Quellen;
+erleichtert Finden und Vergleichen von Bildungsinhalten) 
+&#61485; Inhalte  
+(derzeit k&#246;nnen &#252;ber eine Million Inhalte von verschiedensten Anbietern,
+darunter zu gro&#223;en Teilen sogenannte offene Bildungsmaterialien (OER)
+recherchiert, eigenen Kursen und Unterrichtseinheiten zugeordnet und genutzt
+werden)
+Bereich &#8222;Unterst&#252;tzen von Lernen und Lehren&#8220; 
+Lehrkr&#228;fte und Sch&#252;ler organisieren sich in Kursen. Diese k&#246;nnen den
+Fachunterricht abbilden oder auch f&#252;r themengetriebene Projekte eingesetzt werden. 
+Innerhalb der Kurse k&#246;nnen zus&#228;tzlich zum Dateiaustausch folgende Funktionen 
+genutzt werden: 
+&#61485; Editor 
+(stellt das Herzst&#252;ck des digital gest&#252;tzten Lernens mit der HPI Schul-Cloud 
+dar. Erm&#246;glicht Vorbereitung und Ausspielen von Selbstlernformaten und
+Unterrichtseinheiten) 
+&#61485; Virtuelles Whiteboard  
+(Themen k&#246;nnen interaktive Tools enthalten. Den Schulen steht ein
+gemeinsam im Kurs nutzbares virtuelles, interaktives Whiteboard zur Verf&#252;gung) 
+&#61485; Weitere digitale Werkzeuge   
+(Etherpad als kollaborative Schreibfl&#228;che f&#246;rdert die unkomplizierte
+Zusammenarbeit. Geogebra nutzt interaktive M&#246;glichkeiten im Kontext der
+Geometrie. CodeOcean stellt eine fortgeschrittene Programmierlernumgebung zur 
+Verf&#252;gung.)  
+&#61485; Lehrer-Sch&#252;ler-Interaktion  
+(Aufgaben und dazugeh&#246;rige Abgaben erg&#228;nzend zu kollaborativen
+Werkzeugen) 
+&#61485; Aufgabenstellung 
+(Aufgabenerstellung durch Lehrkr&#228;fte, Zuordnung von Abgabeterminen,
+Kontrolle der R&#252;ckl&#228;ufe, Feedback) 
+&#61485; Ansprache kleiner Lerngruppen  
+(Gruppenspezifisches Themen- und Aufgabenmanagement) 
+&#61485; Informationsaustausch und Know-how-Transfer (Themen und ganze Kurse 
+lassen sich leicht im Kollegium teilen) 
+Die Bundesregierung erachtet den im bisherigen Projektverlauf erreichten
+Funktions- und Leistungsumfang als sachangemessen. Die implementierten
+Funktionalit&#228;ten und Services sind geeignet, um Schulen eine p&#228;dagogisch sinnvolle
+Nutzung der Schul-Cloud bereits zum gegenw&#228;rtigen Zeitpunkt zu erm&#246;glichen. 
+8. Welcher zus&#228;tzliche Funktions- und Leistungsumfang f&#252;r Schul-Clouds ist 
+in den kommenden Jahren nach Einsch&#228;tzung der Bundesregierung
+erforderlich? 
+Die Bundesregierung geht davon aus, dass zum Ende der vorgesehen
+Projektlaufzeit die Schul-Cloud des HPI alle f&#252;r den unterrichtlichen Einsatz erforderlichen 
+Funktionalit&#228;ten anbieten wird. Zus&#228;tzliche Funktionen oder Anforderungen an 
+einen definierten Leistungsumfang setzen die Definition entsprechende Bedarfe 
+seitens der L&#228;nder, der Kommunen oder sonstiger Schultr&#228;ger voraus. 
+Die HPI Schul-Cloud wird gemeinsam mit den Nutzern ko-innovativ entwickelt. 
+Dazu geh&#246;rt insbesondere die Anwendung von Design Thinking-Methoden und 
+eine agile Software-Entwicklung, die Nutzeranforderungen m&#246;glichst gut
+erfassen sollen. Insofern ist der k&#252;nftige Leistungsumfang der Schul-Cloud nicht
+abschlie&#223;end zu beschreiben und unterliegt auch keiner Einflussnahme des BMBF.
+In n&#228;herer Zukunft sollen nach derzeitiger Projektplanung folgende
+Funktionalit&#228;ten verf&#252;gbar sein: 
+Bereich &#8222;Kommunikation, Kollaboration und Organisation&#8220; 
+&#61485; Teams 
+(Arbeitsgruppen, Fachbereiche, Projektarbeit und Schulorganisation werden 
+durch die Zusammenarbeit in Teams abgebildet. In Teams stehen der
+Austausch von Dateien, News, Termine und die Funktionen aus dem Kursbereich 
+zur Verf&#252;gung) 
+&#61485; Messenger f&#252;r Teams   
+(jedem Team wird automatisch ein Messenger bereitgestellt, der mit den 
+Teammitgliedern synchronisiert ist. Dieser wird sukzessive f&#252;r Kurse und 
+Klassen angepasst und freigeschaltet) 
+&#61485; Schul&#252;bergreifende Zusammenarbeit in Teams   
+(Lehrkr&#228;fte fungieren als Br&#252;ckenk&#246;pfe zwischen den Schulen und k&#246;nnen 
+sich und Sch&#252;ler unterschiedlicher Schulen miteinander vernetzen.
+Nichtschulische Akteure k&#246;nnen als Experten mit Zugriffsrechten auf die
+projektbezogene Arbeit in Teams eingeladen werden). 
+&#61485; Datenimport  
+(Schulen k&#246;nnen sich selbstst&#228;ndig per LDAP anbinden und ihre Nutzer in die 
+HPI Schul-Cloud importieren. Import aus bestehenden Stundenplan-
+Planungssystemen wird erm&#246;glicht) 
+&#61485; Abstimmungstools  
+(Anwendung f&#252;r einfache Fragen und formalisierte Wahlen, z. B.
+Schulsprecher, Klassensprecher) 
+Bereich &#8222;Unterst&#252;tzen von Lernen und Lehren&#8220; 
+&#61485; Neuer Editor   
+(Erneuerung des technischen Unterbaus des Editors; &#220;berarbeitung und
+Erweiterung des Interaktionskonzepts zwischen Sch&#252;lern und mit Lehrkr&#228;ften;
+verbesserte Abbildung der didaktischen Strukturierung von Inhalten;
+M&#246;glichkeiten f&#252;r das Erstellen von Inhalten im Rahmen des selbstgesteuerten Lernens 
+wird st&#228;rker sichtbar gemacht) 
+&#61485; Verbesserte Einbindung von diversen Datenformaten   
+(Dateien, Bilder, Videos, LernStore-Inhalte) 
+&#61485; Benutzeroberfl&#228;che  
+(Verschlankung f&#252;r leichteren Einstieg) 
+Weitere k&#252;nftige Funktionalit&#228;ten 
+&#61485; Digitales Klassenzimmer   
+(erleichtert die Zusammenarbeit in der Klasse; Arbeitsergebnisse k&#246;nnen auf 
+virtuellen Gruppentischen ausgetauscht werden; jeder Tisch verf&#252;gt &#252;ber seine 
+eigenen virtuelle Tafel, auf der mehrere Inhalte angezeigt werden k&#246;nnen) 
+&#61485; Schuljahresplaner  
+(erleichtert die Erstellung von Stoffverteilungspl&#228;nen. Zus&#228;tzlich k&#246;nnen
+Notizen, LernStore-Materialien und mit dem Editor erstellte Inhalte einem Thema 
+leicht zugeordnet werden)
+9. Welchen Genehmigungsprozessen unterliegen digitale Lernmittel, die auf 
+der Schul-Cloud des HPI eingesetzt werden? 
+Wie stellt sich die Bundesregierung die Genehmigung digitaler Lernmittel in 
+Schul-Clouds k&#252;nftig vor? 
+Grunds&#228;tzlich liegt die Zust&#228;ndigkeit f&#252;r die Genehmigung von Lehrmitteln bei 
+den L&#228;ndern. Lediglich in vier L&#228;ndern (Berlin, Hamburg, Saarland, Schleswig-
+Holstein) obliegt die Auswahl von Lernmitteln ausschlie&#223;lich den Schulen. Die 
+Behandlung digitaler Lernmaterialien in den L&#228;ndern folgt keiner einheitlichen 
+Praxis. Lernsoftware ist beispielsweise in Brandenburg unter bestimmten
+Voraussetzungen als Lernmittel erfasst. In Hessen gilt das gleiche f&#252;r digitale Medien. 
+Einige andere L&#228;nder erfassen Software nur dann, wenn sie ein Schulbuch ersetzt, 
+Zusatzmaterial eines zugelassenen Schulbuchs ist oder wenn sie auf
+Schulcomputern im Unterricht genutzt wird. In Bayern m&#252;ssen auch digitale Lernmittel 
+dem Kultusministerium zur Zulassung vorgelegt werden. In einigen L&#228;ndern
+wurden bisher keine ausdr&#252;cklichen Regelungen getroffen. 
+Die in der Schul-Cloud vorhandenen bzw. &#252;ber die Schul-Cloud zug&#228;nglichen 
+Lerninhalte stellen keinen Schulbuch-Ersatz vor (i. S. eines Lehrwerks, das
+s&#228;mtliche Anforderungen eines Lehrplans abdeckt). Zahlreiche Bildungsmaterialien 
+der Schul-Cloud sind offene Bildungsmaterialien (OER). Der begrenzte Einsatz 
+in den derzeit rund 300 MINT-EC-Schulen im Rahmen eines Forschungs- und 
+Entwicklungsprojektes hat bisher nicht zu Forderungen der L&#228;nder nach einer 
+Genehmigung der Inhalte gef&#252;hrt. 
+10. Durch wen werden die digitalen Lernmittel, die auf der Schul-Cloud des HPI 
+eingesetzt werden, finanziert? 
+Wie stellt sich die Bundesregierung die Finanzierung digitaler Lernmittel in 
+Schul-Clouds k&#252;nftig vor? 
+Die Finanzierung von Lernmittel-Lizenzen ist nicht Teil des von der
+Bundesregierung gef&#246;rderten Projektes Schul-Cloud. Die &#252;ber die Schul-Cloud des HPI 
+verf&#252;gbaren Lerninhalte stellen entweder kostenfreie, offene Bildungsmaterialien 
+dar oder werden von Kooperationspartnern unentgeltlich zur Verf&#252;gung gestellt.  
+Im &#220;brigen f&#228;llt die Finanzierung digitaler Lernmittel in die Zust&#228;ndigkeit der 
+L&#228;nder. 
+11. Welche Schlussfolgerungen zieht die Bundesregierung aus der Entwicklung 
+der Schul-Cloud am HPI f&#252;r den Datenschutz in Schul-Clouds und der
+Zuteilung von Zugriffsrechten von Sch&#252;lern, Eltern, Lehrkr&#228;ften,
+Schulleitungen, Ministerialverwaltungen und Forscher auf die Daten in den Clouds 
+(bitte nach Lern- und Verwaltungsdaten getrennt angeben)? 
+Die Schul-Cloud des HPI ist eine ausschlie&#223;lich p&#228;dagogische Anwendung im 
+Rahmen eines Pilotvorhabens. Ein R&#252;ckgriff auf datenschutzrechtliche
+Rahmensetzungen durch Schultr&#228;ger oder L&#228;nder ist in diesem Kontext nicht m&#246;glich. 
+Daher erfolgt die Nutzung der Schul-Cloud auf Basis von Einzel-Einwilligungen. 
+Das HPI agiert im Kontext der Schul-Cloud als Auftragsdatenverarbeiter f&#252;r die 
+Schulen. Diese erhalten daher umfangreichen Informationen u. a. zum
+Sicherheits- und Datenschutzkonzept der Schul-Cloud. Entsprechende Anforderungen 
+wurden unter Einbindung der Pilot-Schulen in einem offenen Prozess erarbeitet.
+Im Rahmen der Systementwicklung wird den Grunds&#228;tzen von &#8222;security by
+design&#8220; (insbesondere lokale Datenhaltung; Datensparsamkeit) und
+datenschutzrechtlichen Fragestellungen Rechnung getragen, unter anderem durch einen
+regelm&#228;&#223;igen Dialog mit Vertretern des Arbeitskreises Schule der
+Landesdatenschutzkonferenz. 
+Eine Einbindung der Schul-Cloud in das Verwaltungsnetz der jeweiligen Schule 
+erfolgt nicht. Auf dieser Basis ist es nicht m&#246;glich, Schlussfolgerungen f&#252;r den 
+Datenschutz in Cloud-Infrastrukturen f&#252;r Schulen allgemein abzuleiten. Ein
+entsprechendes Forschungsziel ist mit dem vom BMBF gef&#246;rderten Vorhaben 
+Schul-Cloud nicht verbunden. 
+12. Hat die Bundesregierung mit L&#228;ndern Gespr&#228;che zur Anwendung der
+bundesweiten Schul-Cloud gef&#252;hrt? 
+Wenn ja, wann, mit welchen L&#228;ndern, und mit welchem Ergebnis? 
+Wenn nein, warum nicht? 
+13. Welche Vor- und Nachteile sieht die Bundesregierung in der (Weiter-)
+Entwicklung einer bundesweiten Schul-Cloud gegen&#252;ber l&#228;nderspezifischen 
+Ans&#228;tzen? 
+Welche Schlussfolgerungen schlie&#223;t sie aus dieser Einsch&#228;tzung? 
+Die Fragen 12 und 13 werden im Zusammenhang beantwortet. 
+Die Dissemination der Projektergebnisse ist Teil der Verwertung, die eine
+Aufgabe der Zuwendungsempf&#228;nger sp&#228;testens nach Projektende ist. Das HPI hat
+sowohl mit mehreren L&#228;ndern Gespr&#228;che gef&#252;hrt, die &#252;ber eigene Cloud-Projekte 
+verf&#252;gen (z. B. NW, BW), als auch mit L&#228;ndern, die an entsprechenden
+Infrastrukturen grunds&#228;tzliches Interesse ge&#228;u&#223;ert haben. 
+Seitens der Leitung des HPI wurde die Schul-Cloud 2018 sowohl der Amtschef-
+Konferenz als auch dem Plenum der Kultusministerkonferenz vorgestellt. Auf 
+Arbeitsebene waren entsprechende Themen Gegenstand von zwei l&#228;nderoffenen 
+Veranstaltungen des Kultusministeriums des Landes Brandenburg. 
+Das HPI veranstaltet j&#228;hrlich eine zweit&#228;tige &#246;ffentliche Informations-
+Veranstaltung in Potsdam, in deren Rahmen der Status der Schul-Cloud dargestellt und ein 
+Erfahrungsaustausch von Nutzern und interessierten Dritten erm&#246;glicht wird. 
+Mitglieder des Schul-Cloud-Teams von HPI und MINT-EC tragen regelm&#228;&#223;ig 
+auf Fachveranstaltungen und Messen die bislang erreichten Ergebnisse des
+Projekts Schul-Cloud vor. Die Bundesregierung begr&#252;&#223;t das &#252;berregionale Interesse 
+am Projekt Schul-Cloud des HPI. Im Rahmen des DigitalPakts Schule sollen auch 
+l&#228;nder&#252;bergreifende L&#246;sungen gef&#246;rdert werden. Im &#220;brigen wird auf die
+Vorbemerkung der Bundesregierung verwiesen. 
+14. Inwieweit gab es eine Ausschreibung f&#252;r die F&#246;rderung der Entwicklung
+einer Schul-Cloud? 
+Auf die Antwort zu den Fragen 4 und 5 wird verwiesen.
+15. In welchem finanziellen Umfang unterst&#252;tzt die Bundesregierung die
+Entwicklung der Schul-Cloud am HPI (bitte nach Jahren getrennt auflisten)? 
+&#61485; F&#246;rderung f&#252;r das Projekt &#8222;Cloud-Strukturen &amp; -Dienste f&#252;r Schulen:
+Konzepterstellung einer Schulcloud &#8211; Pilotprojekt&#8220; (Laufzeit: 1. September 2016 bis 
+31. Januar 2017): 92 806,96 Euro 
+&#61485; F&#246;rderung f&#252;r das Projekt &#8222;Cloud-Strukturen &amp; -Dienste f&#252;r Schulen:
+Implementierung und Erprobung der Schul-Cloud&#8220; (Laufzeit: 1. Februar 2017 bis 
+31. Juli 2021): 6 936 648 Euro 
+Diese Mittel verteilen sich wie folgt: 
+Jahr F&#246;rdermittel in Euro 
+2017 746.213,33 
+2018 1.713.694,25 
+2019 1.721.720,62 
+2020 1.733.720,62 
+2021 1.021.299,53 
+16. In welchem finanziellen Umfang unterst&#252;tzt die Bundesregierung andere 
+Projekte f&#252;r die Entwicklung von Schul-Clouds finanziell (bitte nach
+Projekten und Jahren getrennt auflisten)? 
+Andere Projekte als das Vorhaben des HPI zur Entwicklung einer Schul-Cloud 
+werden von der Bundesregierung nicht gef&#246;rdert. 
+17. Wie stellt die Bundesregierung sicher, dass die im F&#246;rderzeitraum durch das 
+HPI entwickelte Cloud nach Ablauf der bisher zugesagten F&#246;rderung
+weiterentwickelt bzw. dauerhaft an Schulen genutzt wird? 
+18. Inwieweit unterst&#252;tzt die Bundesregierung die Sicherung und den Transfer 
+der Erkenntnisse aus dem Schul-Cloud-Projekt des HPI? 
+Die Fragen 17 und 18 werden im Zusammenhang beantwortet. 
+Aufgabe jedes Zuwendungsempf&#228;ngers ist, die Projektergebnisse eines
+F&#246;rdervorhabens zu verwerten. Die Offenlegung der vom HPI entwickelten Schul-
+Cloud-Software als Open-Source-Code auf dem Portal GitHub ist zudem ein
+wesentliches Element f&#252;r die Dissemination der Projektergebnisse. Dar&#252;ber hinaus 
+wird auf die Antwort zu Frage 12 verwiesen. 
+19. Inwieweit sieht die Bundesregierung eine Anschlussf&#246;rderung f&#252;r die
+Entwicklung einer Schul-Cloud beim Hasso-Plattner-Institut oder an anderen 
+Einrichtungen vor? 
+Der F&#246;rderzeitraum f&#252;r das Projekt Schul-Cloud endet am 31. Juli 2021. Der
+bisherige Projektverlauf l&#228;sst keine Notwendigkeit zu einer Anschlussf&#246;rderung 
+z. B. zur Realisierung notwendiger erweiterter Funktionalit&#228;ten erkennen.
+20. Inwieweit unterst&#252;tzt die Bundesregierung gezielt Ausgr&#252;ndungen aus
+Forschungsprojekten zur Entwicklung von Schul-Clouds? 
+F&#252;r Ausgr&#252;ndungen aus Forschungseinrichtungen und Hochschulen stehen
+F&#246;rderprogramme wie Exist, der High-Tech-Gr&#252;nderfonds oder INVEST zur
+Verf&#252;gung. Eine gesonderte Unterst&#252;tzung f&#252;r Ausgr&#252;ndungen, die sich auf die
+Entwicklung von Schul-Cloud-Anwendungen spezialisieren, existiert nicht. 
+21. Inwieweit unterst&#252;tzt die Bundesregierung gezielt den Transfer der
+Ergebnisse von Schul-Cloud-Projekten von der Wissenschaft in die Wirtschaft? 
+Der Transfer von Ergebnissen aus F&#246;rdervorhaben in die Wirtschaft ist einer der 
+m&#246;glichen Verwertungswege. Die Realisierung h&#228;ngt von der &#246;konomischen 
+Tragf&#228;higkeit des entwickelten Ergebnisses und dessen Marktumfeld ab. Da als 
+Betreiber einer Schul-Cloud die L&#228;nder, ggf. auch gr&#246;&#223;ere kommunale
+Schultr&#228;ger infrage kommen, ist eine Bewertung des Marktumfeldes von
+Interessenbekundungen solcher potentiellen Nachfrager abh&#228;ngig. Die Unterst&#252;tzung der 
+Bundesregierung kann hier nur im Rahmen der etablierten F&#246;rderprogramme
+erfolgen. 
+22. Inwieweit werden wesentliche Fragestellungen rund um Schul-Clouds im 
+Rahmen der Strategie K&#252;nstliche Intelligenz der Bundesregierung
+bearbeitet? 
+Die Strategie K&#252;nstliche Intelligenz (KI) der Bundesregierung zielt darauf ab, KI 
+im Rahmen eines breiten gesellschaftlichen Dialogs und einer aktiven politischen 
+Gestaltung ethisch, rechtlich, kulturell und institutionell in die Gesellschaft
+einzubetten. Fragestellungen im unmittelbaren Zusammenhang mit Schul-Clouds 
+geh&#246;ren nicht zu den unmittelbaren Anwendungsbereichen der Strategie
+K&#252;nstliche Intelligenz. Bisher erfolgte Entwicklungen von Cloud-Infrastrukturen f&#252;r 
+Schulen beinhalten nach Kenntnis der Bundesregierung auch keine KI-
+Technologien. 
+23. Inwieweit werden wesentliche Fragestellungen rund um Schul-Clouds im 
+Rahmen der Arbeit des Digitalrats der Bundesregierung bearbeitet? 
+Der Digitalrat der Bundesregierung hat die Aufgabe, die Bundesregierung in 
+grundlegenden Fragen der Digitalisierung zu beraten. Dazu geh&#246;ren auch
+Fragestellungen im Zusammenhang mit Bildung und Digitalisierung im Allgemeinen. 
+24. Inwieweit werden wesentliche Fragestellungen rund um Schul-Clouds im 
+Rahmen der Arbeit der Datenethikkommission der Bundesregierung
+bearbeitet? 
+Die Datenethikkommission der Bundesregierung hat die Aufgabe, der
+Bundesregierung einen Entwicklungsrahmen f&#252;r Datenpolitik, den Umgang mit
+Algorithmen, k&#252;nstlicher Intelligenz und digitalen Innovationen vorzuschlagen.
+Problemstellungen im unmittelbaren Zusammenhang mit Schul-Clouds geh&#246;ren nicht zu 
+den Leitfragen, die die Bundesregierung an die unabh&#228;ngig arbeitende
+Datenethikkommission gestellt hat. Im Lichte des bislang noch nicht vorliegenden
+Entwicklungsrahmens k&#246;nnen zu gegebener Zeit m&#246;glicherweise Ableitungen f&#252;r 
+den Umgang mit personenbezogenen Daten in Schul-Clouds getroffen werden.
+25. Welche Gutachten hat die Bundesregierung zu Schul-Clouds in Auftrag
+gegeben? 
+Die Bundesregierung hat keine Gutachten im Zusammenhang mit der F&#246;rderung 
+von Schul-Clouds beauftragt. 
+26. Mit welchen Ma&#223;nahmen unterst&#252;tzt die Bundesregierung den Einsatz von 
+Schul-Clouds? 
+Auf die Antwort zu den Fragen 12 und 13 wird verwiesen. 
+27. Inwieweit k&#246;nnen Schul-Clouds im mit den L&#228;ndern ausverhandelten
+Entwurf des Digitalpakts gef&#246;rdert werden im Hinblick auf Anschaffung von 
+Hardware, Wartung von Hardware, Lizenzerwerb von Software zur Nutzung 
+der Plattform und Lizenzerwerb von Lerninhalten auf der Plattform? 
+Der DigitalPakt Schule sieht hinsichtlich landesweiter oder l&#228;nder&#252;bergreifender 
+Vorhaben die F&#246;rderung des Aufbaus und der Weiterentwicklung landesweiter 
+digitaler Lehr-Lern-Infrastrukturen bzw. l&#228;nder&#252;bergreifender digitaler
+Bildungsinfrastrukturen vor. Der Aufbau von Cloudangeboten wird im Entwurf der
+Verwaltungsvereinbarung ausdr&#252;cklich genannt. Die entsprechenden digitalen
+Infrastrukturen sind grunds&#228;tzlich technologieoffen, erweiterungs- und anschlussf&#228;hig 
+an regionale, landesweite oder l&#228;nder&#252;bergreifende Systeme zu beschaffen bzw. 
+zu gestalten. Die F&#246;rderung erlaubt neben Sachinvestitionen in Hardware und
+Betriebssoftware auch erforderliche Entwicklungs- und Anpassungsaufw&#228;nde bis zu 
+einer Inbetriebnahme, jedoch weder die Finanzierung des dauerhaften Betriebs 
+noch die Finanzierung von Lizenzen f&#252;r Lerninhalte.  
+Satz: Satzweiss.com Print, Web, Software GmbH, Mainzer Stra&#223;e 116, 66121 Saarbr&#252;cken, www.satzweiss.com 
+Druck: Printsystem GmbH, Schafw&#228;sche 1-3, 71296 Heimsheim, www.printsystem.de 
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de 
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/7681 -
+Bundesf&#246;rderung f&#252;r die Entwicklung von Schul-Clouds</titel>
+    <datum>2019-02-28</datum>
+  </document>
+  

@@ -1,0 +1,4740 @@
+<document>
+    <id>217482</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/681</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>09ed01e1ea8a3b6b20d7606e5bbf3143</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>231360</id>
+      <titel>Nutzung von Verschl&#252;sselung (TSL/SSL bzw. HTTPS) auf Internetseiten von Bundesbeh&#246;rden</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium des Innern</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/006/1900681.pdf</pdf_url>
+      <id>217482</id>
+      <dokumentnummer>19/681</dokumentnummer>
+      <datum>2018-02-08</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums des Innern vom 7. Februar 2018 
+&#252;bermittelt.  
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext. 
+Deutscher Bundestag  Drucksache 19/681 
+19. Wahlperiode 08.02.2018 
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Dr. Petra Sitte, Simone Barrientos,  
+Birke Bull-Bischoff, weiterer Abgeordneter und der Fraktion DIE LINKE. 
+&#8211; Drucksache 19/517 &#8211; 
+Nutzung von Verschl&#252;sselung (TSL/SSL bzw. HTTPS) auf Internetseiten von 
+Bundesbeh&#246;rden 
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r  
+Bei Transport Layer Security (TLS; SSL ist die Bezeichnung eines
+Vorg&#228;ngerprotokolls) handelt es sich um ein g&#228;ngiges Verschl&#252;sselungsprotokoll f&#252;r
+Daten&#252;bertragung im Internet. Verwendet wird es unter anderem im Rahmen von 
+HTTPS, einer verschl&#252;sselten Version des Hypertext Transfer Protocol (HTTP), 
+das insbesondere der &#220;bertragung von Webseiten dient. 
+Die Verwendung von HTTPS zur Auslieferung von Webseiten hat zwei zentrale 
+Vorteile: Sie gew&#228;hrleistet Vertraulichkeit, da die &#252;bertragenen Daten (also der 
+Inhalt der Seite und Eingaben, wie etwa Zugangsdaten) verschl&#252;sselt und damit 
+der Einsicht durch Dritte entzogen sind und sie gew&#228;hrleistet Integrit&#228;t, da sie 
+Gewissheit &#252;ber die Identit&#228;t des Webseitenanbieters gibt und so Phishing- oder 
+Man-in-the-Middle-Angriffen vorbeugen kann. W&#228;hrend in der Vergangenheit 
+HTTPS vor allem im Rahmen bestimmter besonders sensibler Dienste wie etwa 
+Zahlungstransaktionen verwendet wurde, hat es sich in den letzten Jahren
+immer mehr als allgemeiner Sicherheitsstandard etabliert und inzwischen erfolgt 
+weltweit mehr als die H&#228;lfte des Webverkehrs &#252;ber HTTPS (www.eff.org/ 
+deeplinks/2017/02/were-halfway-encrypting-entire-web). 
+Seit 2014 existiert ein Mindeststandard des Bundesamtes f&#252;r Sicherheit in der 
+Informationstechnik (BSI) f&#252;r den Einsatz des SSL/TLS-Protokolls durch
+Bundesbeh&#246;rden, dessen Anwendung nach einer entsprechenden
+Verwaltungsvorschrift (Gemeinsames Ministerialblatt &#8211; GMBl &#8211; 2015 S. 173) verbindlich ist 
+und das in seiner Begr&#252;ndung insbesondere auf die Wichtigkeit der damit
+gew&#228;hrleisteten sicheren Daten&#252;bertragung bei E-Government-Anwendungen 
+verweist. 
+In ihrer Digitalen Agenda 2014 bis 2017 hat sich die Bundesregierung unter 
+anderem das Ziel gesetzt, &#8222;die Kommunikation &#252;ber digitale Netze zu sch&#252;tzen 
+und daf&#252;r den Zugang zu sicheren und einfach zu nutzenden
+Verschl&#252;sselungsverfahren zu f&#246;rdern&#8220; und Deutschland zum &#8222;Verschl&#252;sselungs-Standort Nr. 1&#8220; 
+werden zu lassen. Dazu solle &#8222;die Verschl&#252;sselung von privater
+Kommunikation in der Breite zum Standard werden&#8220;.
+Nach Recherchen der Open Knowledge Foundation Deutschland (zug&#228;nglich 
+unter https://https.jetzt/) unterst&#252;tzen von 513 untersuchten Domains deutscher 
+Bundesbeh&#246;rden mit Stand vom Januar 2018 lediglich 135, also etwa 26
+Prozent, den Einsatz von HTTPS. 
+1. Teilt die Bundesregierung die Auffassung, dass der fl&#228;chendeckende Einsatz 
+von HTTPS im World Wide Web ein erstrebenswertes Ziel ist, um ein 
+H&#246;chstma&#223; an Sicherheit zu gew&#228;hrleisten? 
+Die Bundesregierung sieht die pr&#228;ventive F&#246;rderung der Informations- und
+Cyber-Sicherheit als eine wichtige Regierungsaufgabe an, um den sicheren Einsatz 
+von Informations- und Kommunikationstechnik in unserer Gesellschaft
+voranzutreiben. In diesem Zusammenhang ist der fl&#228;chendeckende Einsatz von HTTPS 
+grunds&#228;tzlich erstrebenswert.  
+Dabei unterst&#252;tzt zum Beispiel das Bundesamt f&#252;r Sicherheit in der
+Informationstechnik (BSI) den sachgem&#228;&#223;en Einsatz des TLS-Protokolls durch entsprechende 
+Richtlinien und Empfehlungen, etwa die TR-02102-2 sowie den Mindeststandard 
+des BSI f&#252;r den Einsatz des SSL/TLS-Protokolls durch Bundesbeh&#246;rden. 
+2. Welche Anstrengungen hat die Bundesregierung bisher unternommen, um 
+im Sinne ihrer Digitalen Agenda die Verwendung von HTTPS bzw. des 
+SSL/TLS-Protokolls insgesamt zu f&#246;rdern? 
+Die Bundesregierung weist mit zahlreichen Informationsangeboten, z. B. im Rahmen 
+von Aufkl&#228;rungskampagnen, regelm&#228;&#223;ig auf die Bedeutung der Nutzung von 
+HTTPS hin (z. B. www.bsi-fuer-buerger.de/BSIFB/DE/Empfehlungen/Einrichtung 
+Software/EinrichtungBrowser/Sicherheitsmassnahmen/Verschluesselung/ 
+verschluesselung.html).  
+Dies erfolgt gegen&#252;ber B&#252;rgerinnen und B&#252;rgern mit dem Ziel, diese f&#252;r die
+Nutzung gesicherter Webseiten zu sensibilisieren. Gegen&#252;ber Internetanbietern soll 
+die Bereitschaft zum Angebot solcher Seiten erh&#246;ht werden.  
+Im &#220;brigen setzt sich die Bundesregierung im Rahmen der Initiative www. 
+krypto-charta.de gemeinsam mit Vertretern aus Wirtschaft, Fachverb&#228;nden,
+Verbraucherorganisationen und Wissenschaft im Auftrag des Digital-Gipfels
+(vormals Nationaler IT-Gipfel) daf&#252;r ein, vertrauensw&#252;rdige Kommunikation zu
+st&#228;rken und nutzerorientierte, technikneutrale und sichere Angebote zur sogenannten 
+Ende-zu-Ende-Verschl&#252;sselung zu entwickeln und zu f&#246;rdern. Dies schlie&#223;t die 
+Nutzung von HTTPS ein. 
+&#220;ber die in der Antwort zu Frage 1 genannten Richtlinien und Empfehlungen 
+hinaus stellt auch das BSI allgemein orientierte Angebote zum Einsatz von TLS 
+bereit, zum Beispiel durch Grundschutz-Richtlinien oder an die allgemeine
+Bev&#246;lkerung gerichtete Empfehlungen zum sicheren Einsatz von
+Informationstechnik. Letztgenanntes erfolgt insbesondere auf dem B&#252;rgerportal des BSI www.bsi- 
+fuer-buerger.de. 
+Im Kontext seiner Aufgabe der Sensibilisierung von B&#252;rgerinnen und B&#252;rgern zu 
+Gefahren im Internet und zum sicheren Einsatz von IT weist das BSI u. a. in
+diversen Zusammenh&#228;ngen auf die Erforderlichkeit der Verwendung von HTTPS 
+z. B. beim Online-Shopping, dem Online-Banking oder bei der Nutzung
+&#246;ffentlicher Hotspots hin.
+Diese Empfehlungen werden zudem auch &#252;ber weitere Kommunikationskan&#228;le 
+im Sinne der B&#252;rgersensibilisierung verbreitet, zum Beispiel anlassbezogen im 
+B&#252;rgerCERT-Newsletter oder auf der BSI-Seite in sozialen Netzwerken
+(Facebook) sowie in Brosch&#252;ren des BSI: &#8222;Surfen, aber sicher&#8220;, &#8222;Soziale Netzwerke, 
+aber sicher&#8220;. 
+Im Jahr 2016 hat das BSI ein animiertes Erkl&#228;rvideo zum Thema &#8222;Sichere
+Daten&#252;bertragung&#8220; erstellt, das erl&#228;utert, warum IT-Nutzer auf HTTPS achten sollten: 
+www.bsi-fuer-buerger.de/SharedDocs/Videos/DE/BSIFB/Sichere_ 
+Datenuebertragung 
+Auch f&#252;r die Wirtschaft betreibt die Bundesregierung eine umfangreiche
+Aufkl&#228;rungsarbeit zum Thema &#8222;Sicherheit&#8220;. Hierzu z&#228;hlen u.a. die Mitwirkung des BSI 
+auf IT-Sicherheits-Fachtagungen, im Rahmen derer die Bedeutung von HTTPS 
+in Fachvortr&#228;gen unterstrichen wird. Zudem bieten die Partner der Allianz f&#252;r 
+Cyber-Sicherheit und das BSI den Unternehmen verschiedene Empfehlungen und 
+Workshops wie beispielsweise die Cyber-Sicherheits-Empfehlung &#8222;TLS/SSL 
+Best Practice&#8220;: www.allianz-fuer-cybersicherheit.de/ACS/DE/_/downloads/BSI- 
+CS_012.html an, bei denen auch SSL/TLS thematisiert werden.  
+Das BSI ist zudem deutsche Aufsichtsstelle f&#252;r qualifizierte Webseitenzertifikate 
+im Sinne der europ&#228;ischen eIDAS-Verordnung. Durch das BSI wurde im M&#228;rz 
+2017 der europaweit erste Anbieter f&#252;r diese Zertifikate anerkannt. 
+3. Wie ist es nach Auffassung der Bundesregierung zu bewerten, dass allem 
+Anschein nach nur ein geringer Anteil von Domains deutscher
+Bundesbeh&#246;rden den Einsatz von HTTPS unterst&#252;tzt? 
+Viele Webseiten des Bundes, darunter insbesondere die gro&#223;en Webauftritte mit 
+vielen Zugriffen, bieten den Einsatz von HTTPS an bzw. erzwingen den Einsatz 
+automatisch.  
+Hinzu kommen Domains vermeintlich ohne HTTPS, bei denen es sich um eine 
+reine Weiterleitung auf korrekt aufgesetzte HTTPS-Domains handelt. Der
+Informationsaustausch mit Nutzern erfolgt in diesen F&#228;llen ausschlie&#223;lich &#252;ber die 
+HTTPS-Domains.  
+Insgesamt unterst&#252;tzen von 2 997 verwendeten Domains der Bundesbeh&#246;rden 
+84,6 Prozent HTTPS, 68,4 Prozent sogar automatisch (vgl. Antwort zu Frage 5). 
+Die Bundesregierung bewertet den Anteil der Domains deutscher
+Bundesbeh&#246;rden, die den Einsatz von HTTPS unterst&#252;tzen, vor diesem Hintergrund als einen 
+guten derzeitigen Stand, der perspektivisch noch verbessert werden kann. 
+4. Plant die Bundesregierung Ma&#223;nahmen, um diesen Anteil zu erh&#246;hen, und 
+wenn ja, welche? 
+Die Bundesregierung beabsichtigt, den Anteil der Domains deutscher
+Bundesbeh&#246;rden mit Nutzung von Verschl&#252;sselung zu erh&#246;hen. Konkrete Ma&#223;nahmen 
+hierzu befinden sich zurzeit noch nicht in der operativen Planung.
+5. Wie viele Domains werden insgesamt von Bundesbeh&#246;rden betrieben (bitte
+nach Beh&#246;rde und in Summe aufschl&#252;sseln)?
+a) Auf wie vielen dieser Domains wird jeweils der Einsatz von HTTPS
+unterst&#252;tzt?
+b) Auf wie vielen dieser Domains wird jeweils der Einsatz von HTTPS
+technisch erzwungen?
+c) Auf wie vielen dieser Domains ist jeweils das Protokoll HTTP Strict
+Transport Security (HSTS) implementiert?
+Eine detaillierte Auflistung der Anzahl der Domains nach Beh&#246;rde und in Summe 
+im Sinne der Fragestellung kann der Anlage entnommen werden. 
+6. Wie viele Verwaltungsdienstleistungen von Bundesbeh&#246;rden werden &#252;ber
+Weboberfl&#228;chen erbracht (bitte nach Beh&#246;rde und in Summe aufschl&#252;sseln)?
+a) F&#252;r wie viele davon wird jeweils der Einsatz von HTTPS unterst&#252;tzt?
+b) F&#252;r wie viele davon wird jeweils der Einsatz von HTTPS technisch
+erzwungen?
+c) F&#252;r wie viele davon ist jeweils das HSTS-Protokoll implementiert?
+Die detaillierte Auflistung der Anzahl der Verwaltungsdienstleistungen von
+Bundesbeh&#246;rden &#252;ber Weboberfl&#228;chen im Sinne der Fragestellung &#8211; &#252;ber die reinen 
+Informationsangebote auf Webseiten der Bundesbeh&#246;rden hinaus &#8211; kann der
+Anlage entnommen werden. 
+7. Wie ist die von verschiedenen Bundesministerien vertretene Auffassung
+begr&#252;ndet, dass ein Zugang zu vollst&#228;ndigen Listen registrierter Domains
+nachteilige Auswirkungen auf Belange der inneren oder &#228;u&#223;eren Sicherheit
+haben k&#246;nne (vgl. https://fragdenstaat.de/anfrage/registrierte-domains-des- 
+gesundheitsministeriums/#nachricht-45513), und welche konkreten
+Bedrohungsszenarien und Sicherheitskonzepte sind damit verbunden?
+Zur Aufrechterhaltung der Funktionsf&#228;higkeit des Staates und seiner
+Einrichtungen ist unter anderem eine effektive Absicherung der Informationstechnik des 
+Bundes notwendig. 
+Die Offenlegung einer vollst&#228;ndigen Liste registrierter Domains ist nach
+Einsch&#228;tzung der Bundesregierung dazu geeignet, einen Angriff auf die
+Informationstechnik des Bundes erheblich zu erleichtern. Insbesondere ist es m&#246;glich, mit 
+diesen Informationen &#8222;DNS-Hijacking&#8220; und &#8222;DDoS&#8220;-Angriffe effektiver
+durchzuf&#252;hren. Die Steigerung der Gefahr eines effektiven Angriffs liegt hier speziell 
+in der Aggregation der Informationen. Die Kenntnis der vollst&#228;ndigen
+Domainliste der Bundesverwaltung k&#246;nnte auch die systematische und automatisierte
+Suche nach Schwachstellen, bezogen auf die Informationstechnik des Bundes,
+erleichtern und zu einer Ausnutzung der gefundenen Schwachstellen f&#252;hren. Ein 
+derartiges Ansinnen bzw. Vorgehen unterst&#252;tzende Tools sind frei verf&#252;gbar und 
+ohne besondere Kenntnisse einsetzbar.  
+Somit k&#246;nnte die Offenlegung der Informationen nachteilige Auswirkungen auf 
+Belange der inneren und &#228;u&#223;eren Sicherheit haben.
+A
+nl
+ag
+e 
+H
+in
+w
+ei
+s:
+ N
+ic
+ht
+ e
+nt
+ha
+lte
+n 
+si
+nd
+ d
+ie
+ A
+nz
+ah
+l a
+n 
+D
+om
+ai
+ns
+ d
+er
+ B
+un
+de
+sb
+eh
+&#246;r
+de
+n,
+ d
+ie
+ re
+in
+ a
+us
+ G
+r&#252;
+nd
+en
+ d
+er
+ N
+am
+en
+ss
+ic
+he
+ru
+ng
+ re
+gi
+st
+rie
+rt 
+w
+ur
+de
+n,
+ a
+uf
+ d
+en
+en
+ k
+ei
+ne
+rle
+i I
+nf
+or
+m
+at
+io
+ne
+n 
+zu
+r V
+er
+f&#252;
+gu
+ng
+ g
+es
+te
+llt
+ w
+ird
+ u
+nd
+ 
+ke
+in
+er
+le
+i W
+ei
+te
+rle
+itu
+ng
+ a
+uf
+ a
+nd
+er
+e 
+D
+om
+ai
+ns
+ e
+rfo
+lg
+t. 
+R
+es
+so
+rt
+ 
+B
+un
+de
+sb
+eh
+&#246;r
+de
+ 
+Fr
+ag
+e 
+5 
+Fr
+ag
+e 
+5a
+ 
+Fr
+ag
+e 
+5b
+ 
+Fr
+ag
+e 
+5c
+ 
+Fr
+ag
+e 
+6 
+Fr
+ag
+e 
+6a
+ 
+Fr
+ag
+e 
+6b
+ 
+Fr
+ag
+e 
+6c
+ 
+A
+A
+ 
+A
+us
+w
+ae
+rti
+ge
+s 
+A
+m
+t 
+11
+ 
+8 
+7 
+3 
+3 
+3 
+3 
+0 
+B
+K
+A
+m
+t 
+1)
+B
+un
+de
+sk
+an
+zl
+er
+am
+t
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+B
+K
+A
+m
+t 
+B
+un
+de
+sn
+ac
+hr
+ic
+ht
+en
+di
+en
+st
+ 
+2 
+2 
+2 
+0 
+0 
+0 
+0 
+0 
+B
+K
+M
+ 
+B
+ea
+uf
+tra
+gt
+er
+ d
+er
+ B
+un
+de
+sr
+eg
+ie
+ru
+ng
+ f&#252;
+r K
+ul
+tu
+r u
+nd
+ M
+ed
+ie
+n2
+)
+7 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+B
+K
+M
+ 
+B
+un
+de
+sa
+rc
+hi
+v 
+13
+ 
+11
+ 
+9 
+8 
+14
+ 
+12
+ 
+10
+ 
+9 
+B
+K
+M
+ 
+D
+er
+ B
+un
+de
+sb
+ea
+uf
+tra
+gt
+e 
+f&#252;
+r d
+ie
+ U
+nt
+er
+la
+ge
+n 
+de
+s 
+S
+ta
+at
+ss
+ic
+he
+rh
+ei
+ts
+di
+en
+st
+es
+ d
+er
+ 
+eh
+em
+al
+ig
+en
+ D
+eu
+ts
+ch
+en
+ D
+em
+ok
+ra
+tis
+ch
+en
+ R
+ep
+ub
+lik
+ 
+5 
+5 
+5 
+2 
+2 
+2 
+2 
+2 
+B
+K
+M
+ 
+B
+un
+de
+si
+ns
+tit
+ut
+ f&#252;
+r K
+ul
+tu
+r u
+nd
+ G
+es
+ch
+ic
+ht
+e 
+de
+r D
+eu
+ts
+ch
+en
+ im
+ &#246;
+st
+lic
+he
+n 
+E
+ur
+op
+a 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+B
+M
+A
+S
+ 
+B
+un
+de
+sm
+in
+is
+te
+riu
+m
+ f&#252;
+r A
+rb
+ei
+t u
+nd
+ S
+oz
+ia
+le
+s 
+26
+ 
+21
+ 
+9 
+0 
+5 
+5 
+5 
+1 
+B
+M
+A
+S
+ 
+B
+un
+de
+sv
+er
+si
+ch
+er
+un
+gs
+am
+t 
+10
+ 
+10
+ 
+10
+ 
+0 
+9 
+9 
+9 
+9 
+B
+M
+A
+S
+ 
+B
+un
+de
+sa
+ns
+ta
+lt 
+f&#252;
+r A
+rb
+ei
+ts
+sc
+hu
+tz
+ u
+nd
+ A
+rb
+ei
+ts
+m
+ed
+iz
+in
+ 
+9 
+9 
+8 
+0 
+1 
+1 
+1 
+0 
+B
+M
+A
+S
+ 
+B
+un
+de
+sa
+rb
+ei
+ts
+ge
+ric
+ht
+ 
+2 
+2 
+0 
+0 
+1 
+1 
+1 
+0 
+B
+M
+A
+S
+ 
+B
+un
+de
+ss
+oz
+ia
+lg
+er
+ic
+ht
+ 
+1 
+1 
+0 
+0 
+1 
+1 
+1 
+0 
+B
+M
+B
+F 
+B
+un
+de
+sm
+in
+is
+te
+riu
+m
+ f&#252;
+r B
+ild
+un
+g 
+un
+d 
+Fo
+rs
+ch
+un
+g 
+45
+1 
+26
+9 
+26
+0 
+13
+ 
+7 
+7 
+7 
+4 
+B
+M
+E
+L 
+B
+un
+de
+sm
+in
+is
+te
+riu
+m
+ f&#252;
+r E
+rn
+&#228;h
+ru
+ng
+ u
+nd
+ L
+an
+dw
+irt
+sc
+ha
+ft 
+38
+ 
+38
+ 
+37
+ 
+0 
+0 
+0 
+0 
+0 
+B
+M
+E
+L 
+B
+un
+de
+sa
+ns
+ta
+lt 
+f&#252;
+r L
+an
+dw
+. u
+nd
+ E
+rn
+&#228;h
+ru
+ng
+ 
+26
+7 
+26
+7 
+26
+7 
+20
+1 
+3 
+3 
+3 
+3 
+B
+M
+E
+L 
+M
+ax
+ R
+ub
+ne
+r-
+In
+st
+itu
+t 
+10
+ 
+10
+ 
+5 
+0 
+0 
+0 
+0 
+0 
+B
+M
+E
+L 
+Th
+&#252;n
+en
+-In
+st
+itu
+t 
+49
+ 
+49
+ 
+49
+ 
+49
+ 
+0 
+0 
+0 
+0 
+B
+M
+E
+L 
+B
+un
+de
+si
+ns
+tit
+ut
+ f&#252;
+r R
+is
+ik
+ob
+ew
+er
+tu
+ng
+ 
+23
+ 
+17
+ 
+14
+ 
+3 
+1 
+1 
+1 
+1 
+B
+M
+E
+L 
+Fr
+ie
+dr
+ic
+h-
+Lo
+ef
+fle
+r-
+In
+st
+itu
+t 
+33
+ 
+30
+ 
+30
+ 
+0 
+0 
+0 
+0 
+0 
+B
+M
+E
+L 
+Ju
+liu
+s 
+K
+&#252;h
+n-
+In
+st
+itu
+t 
+92
+ 
+9 
+9 
+0 
+0 
+0 
+0 
+0 
+B
+M
+E
+L 
+B
+un
+de
+ss
+or
+te
+na
+m
+t 
+1 
+1 
+1 
+0 
+9 
+9 
+9 
+7 
+B
+M
+E
+L 
+B
+un
+de
+sa
+m
+t f
+&#252;r
+ V
+er
+br
+au
+ch
+er
+sc
+hu
+tz
+ u
+nd
+ L
+eb
+en
+sm
+itt
+el
+si
+ch
+er
+he
+it 
+15
+ 
+10
+ 
+9 
+0 
+13
+ 
+13
+ 
+10
+ 
+9 
+B
+M
+F 
+B
+un
+de
+sm
+in
+is
+te
+riu
+m
+ d
+er
+ F
+in
+an
+ze
+n 
+12
+ 
+5 
+5 
+2 
+0 
+0 
+0 
+0 
+B
+M
+F 
+B
+un
+de
+sa
+ns
+ta
+lt 
+f&#252;
+r F
+in
+an
+zd
+ie
+ns
+tle
+is
+tu
+ng
+sa
+uf
+si
+ch
+t 
+2 
+1 
+1 
+0 
+0 
+0 
+0 
+0 
+B
+M
+F 
+In
+fo
+rm
+at
+io
+ns
+te
+ch
+ni
+kz
+en
+tru
+m
+ B
+un
+d 
+21
+ 
+18
+ 
+3 
+0 
+1 
+0 
+0 
+0 
+B
+M
+F 
+Zo
+ll 
+42
+ 
+22
+ 
+19
+ 
+1 
+0 
+0 
+0 
+0 
+B
+M
+F 
+Ze
+nt
+ra
+ls
+te
+lle
+ f&#252;
+r F
+in
+an
+zt
+ra
+ns
+ak
+tio
+ns
+un
+te
+rs
+uc
+hu
+ng
+en
+ 
+2 
+1 
+1 
+0 
+0 
+0 
+0 
+0 
+B
+M
+F 
+B
+un
+de
+sz
+en
+tra
+la
+m
+t f
+&#252;r
+ S
+te
+ue
+rn
+ 
+7 
+5 
+2 
+0 
+0 
+0 
+0 
+0 
+B
+M
+FS
+FJ
+ 
+B
+un
+de
+sm
+in
+is
+te
+riu
+m
+ f&#252;
+r F
+am
+ili
+e,
+ S
+en
+io
+re
+n,
+ F
+ra
+ue
+n 
+un
+d 
+Ju
+ge
+nd
+3)
+53
+ 
+46
+ 
+41
+ 
+1 
+0 
+0 
+0 
+0 
+B
+M
+G
+ 
+B
+un
+de
+sm
+in
+is
+te
+riu
+m
+ f&#252;
+r G
+es
+un
+dh
+ei
+t4)
+18
+ 
+10
+ 
+9 
+9 
+0 
+0 
+0 
+0 
+B
+M
+G
+ 
+B
+un
+de
+si
+ns
+tit
+ut
+ f&#252;
+r A
+rz
+ne
+im
+itt
+el
+ u
+nd
+ M
+ed
+iz
+in
+pr
+od
+uk
+te
+ 
+7 
+7 
+0 
+7 
+26
+ 
+26
+ 
+20
+ 
+20
+ 
+B
+M
+G
+ 
+B
+un
+de
+sz
+en
+tra
+le
+ f&#252;
+r g
+es
+un
+dh
+ei
+tli
+ch
+e 
+A
+uf
+kl
+&#228;r
+un
+g 
+73
+ 
+72
+ 
+72
+ 
+68
+ 
+0 
+0 
+0 
+0 
+B
+M
+G
+ 
+D
+eu
+ts
+ch
+es
+ In
+st
+itu
+t f
+&#252;r
+ m
+ed
+iz
+in
+is
+ch
+e 
+D
+ok
+um
+en
+ta
+tio
+n 
+un
+d 
+In
+fo
+rm
+at
+io
+n 
+4 
+4 
+3 
+3 
+24
+ 
+24
+ 
+13
+ 
+13
+ 
+B
+M
+G
+ 
+P
+au
+l E
+hr
+lic
+h 
+In
+st
+itu
+t 
+10
+ 
+8 
+8 
+8 
+8 
+6 
+6 
+6 
+B
+M
+G
+ 
+R
+ob
+er
+t K
+oc
+h 
+In
+st
+itu
+t 
+58
+ 
+58
+ 
+58
+ 
+58
+ 
+0 
+0 
+0 
+0 
+B
+M
+I 
+B
+un
+de
+sm
+in
+is
+te
+riu
+m
+ d
+es
+ In
+ne
+rn
+ 
+27
+1 
+26
+4 
+21
+9 
+2 
+7 
+7 
+1 
+0 
+B
+M
+I 
+B
+un
+de
+sa
+m
+t f
+&#252;r
+ z
+en
+tra
+le
+ D
+ie
+ns
+te
+ u
+nd
+ o
+ffe
+ne
+ V
+er
+m
+&#246;g
+en
+sf
+ra
+ge
+n,
+ 
+B
+un
+de
+sa
+us
+gl
+ei
+ch
+sa
+m
+t 
+1 
+1 
+1 
+0 
+0 
+0 
+0 
+0 
+B
+M
+I 
+H
+oc
+hs
+ch
+ul
+e 
+de
+s 
+B
+un
+de
+s,
+ B
+un
+de
+sa
+ka
+de
+m
+ie
+ f&#252;
+r d
+ie
+ &#246;
+ffe
+nt
+lic
+he
+ V
+er
+w
+al
+tu
+ng
+ 
+5 
+4 
+2 
+0 
+0 
+0 
+0 
+0 
+B
+M
+I 
+B
+un
+de
+sa
+m
+t f
+&#252;r
+ M
+ig
+ra
+tio
+n 
+un
+d 
+Fl
+&#252;c
+ht
+lin
+ge
+ 
+25
+ 
+25
+ 
+0 
+0 
+0 
+0 
+0 
+0 
+B
+M
+I 
+B
+un
+de
+sa
+m
+t f
+&#252;r
+ B
+ev
+&#246;l
+ke
+ru
+ng
+ss
+ch
+ut
+z 
+un
+d 
+K
+at
+as
+tro
+ph
+en
+hi
+lfe
+ 
+23
+ 
+23
+ 
+23
+ 
+0 
+2 
+2 
+2 
+0
+A
+nl
+ag
+e 
+H
+in
+w
+ei
+s:
+ N
+ic
+ht
+ e
+nt
+ha
+lte
+n 
+si
+nd
+ d
+ie
+ A
+nz
+ah
+l a
+n 
+D
+om
+ai
+ns
+ d
+er
+ B
+un
+de
+sb
+eh
+&#246;r
+de
+n,
+ d
+ie
+ re
+in
+ a
+us
+ G
+r&#252;
+nd
+en
+ d
+er
+ N
+am
+en
+ss
+ic
+he
+ru
+ng
+ re
+gi
+st
+rie
+rt 
+w
+ur
+de
+n,
+ a
+uf
+ d
+en
+en
+ k
+ei
+ne
+rle
+i I
+nf
+or
+m
+at
+io
+ne
+n 
+zu
+r V
+er
+f&#252;
+gu
+ng
+ g
+es
+te
+llt
+ w
+ird
+ u
+nd
+ 
+ke
+in
+er
+le
+i W
+ei
+te
+rle
+itu
+ng
+ a
+uf
+ a
+nd
+er
+e 
+D
+om
+ai
+ns
+ e
+rfo
+lg
+t. 
+R
+es
+so
+rt
+ 
+B
+un
+de
+sb
+eh
+&#246;r
+de
+ 
+Fr
+ag
+e 
+5 
+Fr
+ag
+e 
+5a
+ 
+Fr
+ag
+e 
+5b
+ 
+Fr
+ag
+e 
+5c
+ 
+Fr
+ag
+e 
+6 
+Fr
+ag
+e 
+6a
+ 
+Fr
+ag
+e 
+6b
+ 
+Fr
+ag
+e 
+6c
+ 
+B
+M
+I 
+B
+un
+de
+sa
+ns
+ta
+lt 
+f&#252;
+r d
+en
+ D
+ig
+ita
+lfu
+nk
+ d
+er
+ B
+eh
+&#246;r
+de
+n 
+un
+d 
+O
+rg
+an
+is
+at
+io
+ne
+n 
+m
+it 
+S
+ic
+he
+rh
+ei
+ts
+au
+fg
+ab
+en
+ 
+2 
+1 
+1 
+0 
+0 
+0 
+0 
+0 
+B
+M
+I 
+B
+es
+ch
+af
+fu
+ng
+sa
+m
+t d
+es
+ B
+un
+de
+sm
+in
+is
+te
+riu
+m
+s 
+de
+s 
+In
+ne
+rn
+ 
+13
+ 
+9 
+4 
+0 
+9 
+5 
+4 
+0 
+B
+M
+I 
+B
+un
+de
+sa
+m
+t f
+&#252;r
+ V
+er
+fa
+ss
+un
+gs
+sc
+hu
+tz
+ 
+37
+ 
+37
+ 
+37
+ 
+37
+ 
+0 
+0 
+0 
+0 
+B
+M
+I 
+B
+un
+de
+si
+ns
+tit
+ut
+ f&#252;
+r B
+ev
+&#246;l
+ke
+ru
+ng
+sf
+or
+sc
+hu
+ng
+ 
+33
+ 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+B
+M
+I 
+B
+un
+de
+si
+ns
+tit
+ut
+ f&#252;
+r S
+po
+rtw
+is
+se
+ns
+ch
+af
+t 
+61
+ 
+61
+ 
+61
+ 
+0 
+0 
+0 
+0 
+0 
+B
+M
+I 
+B
+un
+de
+sk
+rim
+in
+al
+am
+t 
+19
+ 
+19
+ 
+19
+ 
+19
+ 
+2 
+2 
+2 
+2 
+B
+M
+I 
+B
+un
+de
+sa
+m
+t f
+&#252;r
+ K
+ar
+to
+gr
+ap
+hi
+e 
+un
+d 
+G
+eo
+d&#228;
+si
+e 
+11
+ 
+5 
+0 
+1 
+13
+ 
+4 
+4 
+2 
+B
+M
+I 
+B
+un
+de
+sz
+en
+tra
+le
+ f&#252;
+r p
+ol
+iti
+sc
+he
+ B
+ild
+un
+g 
+11
+1 
+71
+ 
+50
+ 
+20
+ 
+0 
+0 
+0 
+0 
+B
+M
+I 
+B
+un
+de
+sp
+ol
+iz
+ei
+ 
+64
+ 
+64
+ 
+64
+ 
+0 
+3 
+3 
+3 
+0 
+B
+M
+I 
+B
+un
+de
+sa
+m
+t f
+&#252;r
+ S
+ic
+he
+rh
+ei
+t i
+n 
+de
+r I
+nf
+or
+m
+at
+io
+ns
+te
+ch
+ni
+k 
+51
+ 
+51
+ 
+51
+ 
+0 
+9 
+9 
+9 
+0 
+B
+M
+I 
+B
+un
+de
+sv
+er
+w
+al
+tu
+ng
+sa
+m
+t (
+B
+V
+A
+) 
+45
+ 
+45
+ 
+6 
+0 
+3 
+3 
+3 
+1 
+B
+M
+I 
+S
+ta
+tis
+tis
+ch
+es
+ B
+un
+de
+sa
+m
+t 
+14
+ 
+12
+ 
+10
+ 
+0 
+0 
+0 
+0 
+0 
+B
+M
+I 
+B
+un
+de
+sa
+ns
+ta
+lt 
+Te
+ch
+ni
+sc
+he
+s 
+H
+ilf
+sw
+er
+k 
+13
+ 
+13
+ 
+13
+ 
+0 
+0 
+0 
+0 
+0 
+B
+M
+I 
+Ze
+nt
+ra
+le
+ S
+te
+lle
+ f&#252;
+r I
+nf
+or
+m
+at
+io
+ns
+te
+ch
+ni
+k 
+im
+ S
+ic
+he
+rh
+ei
+ts
+be
+re
+ic
+h 
+1 
+1 
+1 
+0 
+0 
+0 
+0 
+0 
+B
+M
+JV
+ 
+B
+un
+de
+sm
+in
+is
+te
+riu
+m
+ d
+er
+ J
+us
+tiz
+ u
+nd
+ f&#252;
+r V
+er
+br
+au
+ch
+er
+sc
+hu
+tz
+5)
+39
+ 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+B
+M
+JV
+ 
+B
+un
+de
+sa
+m
+t f
+&#252;r
+ J
+us
+tiz
+ 
+9 
+9 
+9 
+0 
+3 
+3 
+3 
+0 
+B
+M
+JV
+ 
+B
+un
+de
+sg
+er
+ic
+ht
+sh
+of
+ 
+2 
+2 
+0 
+0 
+2 
+2 
+2 
+0 
+B
+M
+JV
+ 
+G
+en
+er
+al
+bu
+nd
+es
+an
+w
+al
+t 
+1 
+1 
+1 
+0 
+0 
+0 
+0 
+0 
+B
+M
+JV
+ 
+B
+un
+de
+sv
+er
+w
+al
+tu
+ng
+sg
+er
+ic
+ht
+ 
+6 
+6 
+0 
+0 
+6 
+6 
+6 
+0 
+B
+M
+JV
+ 
+B
+un
+de
+sf
+in
+an
+zh
+of
+ 
+1 
+1 
+1 
+0 
+0 
+0 
+0 
+0 
+B
+M
+JV
+ 
+B
+un
+de
+sp
+at
+en
+tg
+er
+ic
+ht
+ 
+1 
+1 
+1 
+0 
+1 
+1 
+1 
+0 
+B
+M
+JV
+ 
+D
+eu
+ts
+ch
+es
+ P
+at
+en
+tun
+d 
+M
+ar
+ke
+na
+m
+t 
+2 
+2 
+2 
+0 
+4 
+4 
+4 
+0 
+B
+M
+U
+B
+ 
+B
+un
+de
+sm
+in
+is
+te
+riu
+m
+ f&#252;
+r U
+m
+w
+el
+t, 
+N
+at
+ur
+sc
+hu
+tz
+, B
+au
+ u
+nd
+ R
+ea
+kt
+or
+si
+ch
+er
+he
+it 
+19
+ 
+14
+ 
+14
+ 
+6 
+0 
+0 
+0 
+0 
+B
+M
+U
+B
+ 
+B
+un
+de
+sa
+m
+t f
+&#252;r
+ N
+at
+ur
+sc
+hu
+tz
+ 
+31
+ 
+14
+ 
+17
+ 
+0 
+1 
+0 
+1 
+0 
+B
+M
+U
+B
+ 
+B
+un
+de
+sa
+m
+t f
+&#252;r
+ S
+tra
+hl
+en
+sc
+hu
+tz
+ 
+13
+ 
+9 
+7 
+3 
+1 
+1 
+1 
+1 
+B
+M
+U
+B
+ 
+B
+un
+de
+sa
+m
+t f
+&#252;r
+ k
+er
+nt
+ec
+hn
+is
+ch
+e 
+E
+nt
+so
+rg
+un
+gs
+si
+ch
+er
+he
+it 
+1 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+B
+M
+U
+B
+ 
+B
+un
+de
+sa
+m
+t f
+&#252;r
+ B
+au
+w
+es
+en
+ u
+nd
+ R
+au
+m
+or
+dn
+un
+g 
+43
+ 
+36
+ 
+11
+ 
+41
+ 
+0 
+0 
+0 
+0 
+B
+M
+U
+B
+ 
+U
+m
+w
+el
+tb
+un
+de
+sa
+m
+t 
+43
+ 
+43
+ 
+28
+ 
+32
+ 
+9 
+9 
+6 
+6 
+B
+M
+V
+g 
+B
+un
+de
+sm
+in
+is
+te
+riu
+m
+ d
+er
+ V
+er
+te
+id
+ig
+un
+g6
+)
+2 
+2 
+2 
+1 
+0 
+0 
+0 
+0 
+B
+M
+V
+I 
+B
+un
+de
+sm
+in
+is
+te
+riu
+m
+ f&#252;
+r V
+er
+ke
+hr
+ u
+nd
+ d
+ig
+ita
+le
+ In
+fra
+st
+ru
+kt
+ur
+ 
+1 
+1 
+1 
+0 
+0 
+0 
+0 
+0 
+B
+M
+V
+I 
+B
+un
+de
+sa
+m
+t f
+&#252;r
+ G
+&#252;t
+er
+ve
+rk
+eh
+r 
+2 
+2 
+2 
+1 
+2 
+2 
+2 
+1 
+B
+M
+V
+I 
+B
+un
+de
+sa
+m
+t f
+&#252;r
+ S
+ee
+sc
+hi
+fff
+ah
+rt 
+un
+d 
+H
+yd
+ro
+gr
+ap
+hi
+e 
+10
+ 
+3 
+1 
+0 
+20
+ 
+10
+ 
+5 
+0 
+B
+M
+V
+I 
+B
+un
+de
+sa
+ns
+ta
+lt 
+f&#252;
+r G
+ew
+&#228;s
+se
+rk
+un
+de
+ 
+20
+ 
+7 
+4 
+2 
+0 
+0 
+0 
+0 
+B
+M
+V
+I 
+B
+un
+de
+sa
+ns
+ta
+lt 
+f&#252;
+r S
+tra
+&#223;e
+nw
+es
+en
+ 
+8 
+1 
+1 
+0 
+0 
+0 
+0 
+0 
+B
+M
+V
+I 
+B
+un
+de
+sa
+ns
+ta
+lt 
+f&#252;
+r V
+er
+w
+al
+tu
+ng
+sd
+ie
+ns
+tle
+is
+tu
+ng
+en
+ 
+0 
+0 
+0 
+0 
+4 
+5 
+5 
+0 
+B
+M
+V
+I 
+B
+un
+de
+sa
+ns
+ta
+lt 
+f&#252;
+r W
+as
+se
+rb
+au
+ 
+1 
+1 
+1 
+0 
+1 
+1 
+1 
+0 
+B
+M
+V
+I 
+B
+un
+de
+sa
+uf
+si
+ch
+ts
+am
+t f
+&#252;r
+ F
+lu
+gs
+ic
+he
+ru
+ng
+ 
+1 
+1 
+1 
+0 
+0 
+0 
+0 
+0 
+B
+M
+V
+I 
+B
+un
+de
+se
+is
+en
+ba
+hn
+ve
+rm
+&#246;g
+en
+0 
+0 
+0 
+0 
+6 
+5 
+5 
+5 
+B
+M
+V
+I 
+B
+un
+de
+ss
+te
+lle
+ f&#252;
+r E
+is
+en
+ba
+hn
+un
+fa
+llu
+nt
+er
+su
+ch
+un
+g 
+3 
+3 
+3 
+3 
+0 
+0 
+0 
+0 
+B
+M
+V
+I 
+B
+un
+de
+ss
+te
+lle
+ f&#252;
+r F
+lu
+gu
+nf
+al
+lu
+nt
+er
+su
+ch
+un
+g 
+2 
+2 
+2 
+2 
+0 
+0 
+0 
+0 
+B
+M
+V
+I 
+B
+un
+de
+ss
+te
+lle
+ f&#252;
+r S
+ee
+un
+fa
+llu
+nt
+er
+su
+ch
+un
+g 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+B
+M
+V
+I 
+D
+eu
+ts
+ch
+er
+ W
+et
+te
+rd
+ie
+ns
+t 
+10
+8 
+21
+5 
+21
+5 
+21
+5 
+0 
+4 
+3 
+3 
+B
+M
+V
+I 
+E
+is
+en
+ba
+hn
+-B
+un
+de
+sa
+m
+t 
+8 
+7 
+7 
+4 
+6 
+6 
+6 
+0 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--
+--
+--
+--
+A
+nl
+ag
+e
+H
+in
+w
+ei
+s:
+ N
+ic
+ht
+ e
+nt
+ha
+lte
+n 
+si
+nd
+ d
+ie
+ A
+nz
+ah
+l a
+n 
+D
+om
+ai
+ns
+ d
+er
+ B
+un
+de
+sb
+eh
+&#246;r
+de
+n,
+ d
+ie
+ re
+in
+ a
+us
+ G
+r&#252;
+nd
+en
+ d
+er
+ N
+am
+en
+ss
+ic
+he
+ru
+ng
+ re
+gi
+st
+rie
+rt 
+w
+ur
+de
+n,
+ a
+uf
+ d
+en
+en
+ k
+ei
+ne
+rle
+i I
+nf
+or
+m
+at
+io
+ne
+n 
+zu
+r V
+er
+f&#252;
+gu
+ng
+ g
+es
+te
+llt
+ w
+ird
+ u
+nd
+ 
+ke
+in
+er
+le
+i W
+ei
+te
+rle
+itu
+ng
+ a
+uf
+ a
+nd
+er
+e 
+D
+om
+ai
+ns
+ e
+rfo
+lg
+t.
+R
+es
+so
+rt
+ 
+B
+un
+de
+sb
+eh
+&#246;r
+de
+ 
+Fr
+ag
+e 
+5 
+Fr
+ag
+e 
+5a
+ 
+Fr
+ag
+e 
+5b
+ 
+Fr
+ag
+e 
+5c
+ 
+Fr
+ag
+e 
+6 
+Fr
+ag
+e 
+6a
+ 
+Fr
+ag
+e 
+6b
+ 
+Fr
+ag
+e 
+6c
+ 
+B
+M
+V
+I 
+G
+en
+er
+al
+di
+re
+kt
+io
+n 
+W
+as
+se
+rs
+tra
+&#223;e
+n 
+un
+d 
+S
+ch
+iff
+fa
+hr
+t 
+10
+6 
+10
+6 
+30
+ 
+10
+ 
+0 
+0 
+0 
+0 
+B
+M
+V
+I 
+H
+av
+ar
+ie
+ko
+m
+m
+an
+do
+ 
+1 
+1 
+1 
+1 
+0 
+0 
+0 
+0 
+B
+M
+V
+I 
+K
+ra
+ftf
+ah
+rt-
+B
+un
+de
+sa
+m
+t 
+26
+ 
+26
+ 
+26
+ 
+12
+ 
+50
+ 
+50
+ 
+49
+ 
+12
+ 
+B
+M
+V
+I 
+Lu
+ftf
+ah
+rt-
+B
+un
+de
+sa
+m
+t 
+2 
+1 
+1 
+0 
+2 
+1 
+1 
+0 
+B
+M
+W
+i 
+B
+un
+de
+sm
+in
+is
+te
+riu
+m
+ f&#252;
+r W
+irt
+sc
+ha
+ft 
+un
+d 
+E
+ne
+rg
+ie
+ 
+82
+ 
+82
+ 
+26
+ 
+1 
+1 
+1 
+1 
+0 
+B
+M
+W
+i 
+B
+un
+de
+sa
+m
+t f
+&#252;r
+ W
+irt
+sc
+ha
+ft 
+un
+d 
+A
+us
+fu
+hr
+ko
+nt
+ro
+lle
+ 
+12
+ 
+3 
+2 
+0 
+43
+ 
+43
+ 
+43
+ 
+33
+ 
+B
+M
+W
+i 
+B
+un
+de
+sa
+ns
+ta
+lt 
+f&#252;
+r M
+at
+er
+ia
+lfo
+rs
+ch
+un
+g 
+un
+d 
+-p
+r&#252;
+fu
+ng
+ 
+21
+ 
+16
+ 
+16
+ 
+3 
+0 
+0 
+0 
+0 
+B
+M
+W
+i 
+B
+un
+de
+sa
+ns
+ta
+lt 
+f&#252;
+r G
+eo
+w
+is
+se
+ns
+ch
+af
+te
+n 
+un
+d 
+R
+oh
+st
+of
+fe
+ 
+31
+ 
+17
+ 
+7 
+6 
+0 
+0 
+0 
+0 
+B
+M
+W
+i 
+B
+un
+de
+sk
+ar
+te
+lla
+m
+t 
+4 
+2 
+0 
+0 
+2 
+2 
+2 
+1 
+B
+M
+W
+i 
+B
+un
+de
+sn
+et
+za
+ge
+nt
+ur
+ f&#252;
+r E
+le
+kt
+riz
+it&#228;
+t, 
+G
+as
+, T
+el
+ek
+om
+m
+un
+ik
+at
+io
+n,
+ P
+os
+t u
+nd
+ 
+E
+is
+en
+ba
+hn
+en
+ 
+30
+ 
+30
+ 
+30
+ 
+0 
+7 
+7 
+7 
+0 
+B
+M
+W
+i 
+P
+hy
+si
+ka
+lis
+ch
+-T
+ec
+hn
+is
+ch
+e 
+B
+un
+de
+sa
+ns
+ta
+lt 
+42
+ 
+42
+ 
+42
+ 
+19
+ 
+1 
+1 
+1 
+1 
+B
+M
+Z 
+B
+M
+Z 
+66
+ 
+66
+ 
+4 
+66
+ 
+3 
+3 
+3 
+3 
+B
+P
+A
+ 
+P
+re
+ss
+ eu
+nd
+ In
+fo
+rm
+at
+io
+ns
+am
+t d
+er
+ B
+un
+de
+sr
+eg
+ie
+ru
+ng
+ 
+21
+ 
+21
+ 
+18
+ 
+3 
+1 
+1 
+1 
+0 
+Su
+m
+m
+e 
+2.
+99
+7 
+2.
+53
+6 
+2.
+04
+9 
+94
+6 
+35
+2 
+32
+6 
+28
+8 
+15
+5 
+A
+nt
+ei
+l a
+n 
+de
+r G
+es
+am
+ts
+um
+m
+e 
+-
+84
+,6
+%
+ 
+68
+,4
+%
+ 
+31
+,6
+%
+ 
+-
+92
+,6
+%
+ 
+81
+,8
+%
+ 
+44
+,0
+%
+ 
+A
+nm
+er
+ku
+ng
+en
+:
+1)
+A
+ng
+ab
+en
+ f&#252;
+r d
+as
+ B
+K
+A
+m
+t s
+in
+d 
+in
+ d
+en
+ A
+ng
+ab
+en
+ d
+es
+ P
+re
+ss
+ eu
+nd
+ In
+fo
+rm
+at
+io
+ns
+am
+ts
+ d
+er
+ B
+un
+de
+sr
+eg
+ie
+ru
+ng
+ e
+nt
+ha
+lte
+n.
+2)
+W
+ei
+te
+re
+ W
+eb
+do
+m
+&#228;n
+en
+ d
+er
+ B
+K
+M
+ s
+in
+d 
+in
+ d
+en
+ A
+ng
+ab
+en
+ d
+es
+ B
+P
+A
+ e
+nt
+ha
+lte
+n.
+3)
+A
+uf
+ z
+w
+ei
+ d
+er
+ a
+ls
+ A
+nt
+w
+or
+t z
+u 
+Fr
+ag
+e 
+5a
+ g
+en
+an
+nt
+en
+ 4
+6 
+W
+eb
+si
+te
+s 
+de
+s 
+B
+M
+FS
+FJ
+ w
+ird
+ H
+TT
+P
+S
+ n
+ur
+ e
+in
+ge
+se
+tz
+t, 
+w
+en
+n 
+pe
+rs
+on
+en
+be
+zo
+ge
+ne
+ D
+at
+en
+ &#252;
+be
+rtr
+ag
+en
+ w
+er
+de
+n,
+ z
+.B
+. K
+on
+ta
+kt
+fo
+rm
+ul
+ar
+; a
+uf
+ 2
+4 
+de
+r a
+ls
+ A
+nt
+w
+or
+t z
+u 
+Fr
+ag
+e 
+5b
+ 
+ge
+na
+nn
+te
+n 
+41
+ W
+eb
+si
+te
+s 
+w
+ird
+ H
+TT
+P
+S
+ n
+ur
+ e
+rz
+w
+un
+ge
+n,
+ w
+en
+n 
+pe
+rs
+on
+en
+be
+zo
+ge
+ne
+ D
+at
+en
+ &#252;
+be
+rtr
+ag
+en
+ w
+er
+de
+n,
+ z
+.B
+. K
+on
+ta
+kt
+fo
+rm
+ul
+ar
+.
+4)
+In
+ d
+er
+ A
+nt
+w
+or
+t z
+u 
+Fr
+ag
+e 
+5 
+de
+s 
+R
+es
+so
+rts
+ B
+M
+G
+ is
+t d
+ie
+ A
+nz
+ah
+l d
+er
+ D
+om
+ai
+ns
+ a
+us
+ge
+w
+ie
+se
+n,
+ d
+ie
+ ta
+ts
+&#228;c
+hl
+ic
+h 
+te
+ch
+ni
+sc
+h 
+al
+s 
+W
+eb
+se
+ite
+ b
+et
+rie
+be
+n 
+w
+er
+de
+n 
+(z
+.B
+. f
+&#252;r
+ d
+as
+ B
+M
+G
+ 1
+8)
+. D
+ie
+ Z
+ah
+l d
+er
+ g
+eh
+al
+te
+ne
+n 
+D
+om
+ai
+ns
+ g
+eh
+t 
+te
+ilw
+ei
+se
+ d
+eu
+tli
+ch
+ d
+ar
+&#252;b
+er
+ h
+in
+au
+s 
+(z
+.B
+. B
+M
+G
+ 1
+74
+). 
+D
+ie
+ D
+om
+ai
+ns
+, d
+ie
+ te
+ch
+ni
+sc
+h 
+ni
+ch
+t a
+ls
+ W
+eb
+se
+ite
+ b
+et
+rie
+be
+n 
+w
+er
+de
+n,
+ s
+in
+d 
+in
+ d
+er
+ R
+eg
+el
+ a
+uf
+ a
+nd
+er
+e 
+so
+g.
+ "H
+au
+pt
+-U
+R
+L"
+ u
+m
+ge
+le
+ite
+t o
+de
+r i
+n 
+E
+in
+ze
+lf&#228;
+lle
+n 
+au
+ch
+ "g
+ep
+ar
+kt
+".
+5)
+D
+ie
+ D
+om
+ai
+n 
+bm
+jv
+.d
+e 
+(e
+in
+sc
+hl
+. d
+er
+ d
+ar
+au
+f v
+er
+w
+ei
+se
+nd
+en
+ D
+om
+ai
+ns
+) i
+st
+ n
+oc
+h 
+ni
+ch
+t v
+ol
+ls
+t&#228;
+nd
+ig
+ a
+uf
+ H
+TT
+P
+S
+ u
+m
+ge
+st
+el
+lt 
+is
+t. 
+A
+be
+r d
+en
+no
+ch
+ &#252;
+be
+rs
+t&#252;
+tz
+en
+ je
+tz
+t s
+ch
+on
+ B
+er
+ei
+ch
+e 
+H
+TT
+P
+S
+, i
+n 
+de
+ne
+n 
+di
+e 
+N
+ut
+ze
+r D
+at
+en
+ e
+in
+ge
+be
+n 
+m
+&#252;s
+se
+n.
+ D
+ie
+ U
+m
+st
+el
+lu
+ng
+ d
+er
+ g
+es
+am
+te
+n 
+S
+ei
+te
+n 
+au
+f H
+TT
+P
+S
+ b
+ef
+in
+de
+t s
+ic
+h 
+in
+ d
+er
+ U
+m
+se
+tz
+un
+g.
+6)
+D
+as
+ B
+un
+de
+sa
+m
+t f
+&#252;r
+ A
+us
+r&#252;
+st
+un
+g,
+ In
+fo
+rm
+at
+io
+ns
+te
+ch
+ni
+k 
+un
+d 
+N
+ut
+zu
+ng
+ d
+er
+ B
+un
+de
+sw
+eh
+r (
+B
+A
+A
+IN
+B
+w
+) h
+at
+ e
+in
+e 
+V
+ie
+lz
+ah
+l v
+on
+ D
+om
+&#228;n
+en
+ re
+gi
+st
+rie
+rt.
+ N
+ic
+ht
+ je
+de
+ D
+om
+&#228;n
+e 
+is
+t d
+er
+ze
+it 
+ak
+tiv
+, s
+on
+de
+rn
+ d
+ie
+nt
+ d
+er
+ B
+lo
+ck
+ie
+ru
+ng
+ e
+in
+er
+ 
+R
+es
+er
+vi
+er
+un
+g 
+du
+ch
+ D
+rit
+te
+ o
+de
+r a
+ls
+ W
+ei
+te
+rle
+itu
+ng
+ a
+uf
+ e
+in
+e 
+ak
+tiv
+e 
+D
+om
+&#228;n
+e.
+ 
+Satz: Satzweiss.com Print, Web, Software GmbH, Mainzer Stra&#223;e 116, 66121 Saarbr&#252;cken, www.satzweiss.com
+Druck: Printsystem GmbH, Schafw&#228;sche 1-3, 71296 Heimsheim, www.printsystem.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de 
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/517-
+Nutzung von Verschl&#252;sselung (TSL/SSL bzw. HTTPS) auf Internetseiten von Bundesbeh&#246;rden</titel>
+    <datum>2018-02-08</datum>
+  </document>
+  

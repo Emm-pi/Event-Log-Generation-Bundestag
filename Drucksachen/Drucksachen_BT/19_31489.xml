@@ -1,0 +1,2432 @@
+<document>
+    <id>256546</id>
+    <drucksachetyp>Unterrichtung</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>2</vorgangsbezug_anzahl>
+    <dokumentnummer>19/31489</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>e93450a9a1044b5d6b2fe36297049fd2</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>280086</id>
+      <titel>Bericht zur Evaluation des Carsharinggesetzes</titel>
+      <vorgangstyp>Bericht, Gutachten, Programm</vorgangstyp>
+    </vorgangsbezug>
+    <vorgangsbezug>
+      <id>286018</id>
+      <titel>Bericht zur Evaluation des Carsharinggesetzes</titel>
+      <vorgangstyp>Bericht, Gutachten, Programm</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium f&#252;r Verkehr und digitale Infrastruktur</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/314/1931489.pdf</pdf_url>
+      <id>256546</id>
+      <dokumentnummer>19/31489</dokumentnummer>
+      <datum>2021-07-02</datum>
+      <verteildatum>2021-07-12</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Unterrichtung</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Deutscher Bundestag Drucksache 19/31489 
+19. Wahlperiode 02.07.2021 
+Unterrichtung
+durch die Bundesregierung
+Bericht zur Evaluation des Carsharinggesetzes 
+Inhal tsverzeichnis
+Seite
+Kurzfassung.................................................................................................. 6
+1 Anlass, Ziel und Aufbau der Evaluation ...................................... 7
+2 Stand der Forschung zum Carsharing und zum
+Carsharinggesetz ............................................................................ 8
+2.1 Literaturanalyse zu den Auswirkungen des Carsharing.................... 8
+2.2 Analyse des Carsharingmarktes........................................................ 11
+3 Methodisches Vorgehen der Evaluation ....................................... 14
+3.1 Evaluationsansatz ............................................................................. 15
+3.2 Empirisches Vorgehen und Stichprobenbeschreibung ..................... 16
+4 Erfolgskontrolle des Carsharinggesetzes...................................... 19
+4.1 Das Carsharinggesetz (Input) ........................................................... 19
+4.2 Regelungen des Bundes, der Bundesl&#228;nder sowie der
+Kommunen und Kommunalverb&#228;nde (Output) ................................ 21
+4.2.1 Stra&#223;enverkehrs-Ordnung und Regelungen der L&#228;nder ................... 21
+4.2.2 Umsetzung in den Kommunen und Kommunalverb&#228;nden............... 23
+4.3 Wirkungen auf den Carsharing- und Verkehrsmarkt
+(Outcome) ........................................................................................ 31
+4.3.1 Wirkungen auf das Carsharingangebot............................................. 31
+4.3.2 Wirkungen auf die Carsharingnachfrage .......................................... 35
+4.4 Mittel- und langfristige Wirkungen des Carsharinggesetzes
+(Impact) ............................................................................................ 40
+Zugeleitet mit Schreiben des Bundesministeriums f&#252;r Verkehr und digitale Infratruktur vom 1. Juli 2021 gem&#228;&#223;
+&#167; 6 des Carsharinggesetzes.
+Seite
+4.5 Vollzugs- und Ma&#223;nahmenwirtschaftlichkeit des
+Carsharinggesetzes ........................................................................... 49
+4.5.1 Vollzugswirtschaftlichkeit des Carsharinggesetzes.......................... 49
+4.5.2 Ma&#223;nahmenwirtschaftlichkeit des Carsharinggesetzes .................... 50
+5 Zusammenfassung der Erfolgskontrolle und 
+Handlungsempfehlungen ............................................................... 51
+Literatur........................................................................................................ 56
+Tabellen......................................................................................................... 59
+Bilder .......................................................................................................... 60
+Erstellt im Auftrag der Bundesanstalt f&#252;r Stra&#223;enwesen
+Schlussbericht Juni 2021
+Verfasser:
+Dr. Judith Kurte, KE-CONSULT Kurte&amp;Esser GbR, K&#246;ln
+Jan Garde, studio next mobility GbR, Dortmund
+Paul Matthis Helmrich, studio next mobility GbR, Dortmund
+Dr. Klaus Esser, KE-CONSULT Kurte&amp;Esser GbR, K&#246;ln
+Prof. Dirk Wittowsky, studio next mobility GbR, Dortmund
+Dr. S&#246;ren Groth, studio next mobility GbR, Dortmund
+K&#246;ln, Dortmund. 07.06.2021
+Kurzfassung
+Im Auftrag der Bundesanstalt f&#252;r Stra&#223;enwesen wurde vom Bearbeiterteam KE-CONSULT Kurte&amp;Esser GbR
+und studio next mobility Wittowsky Garde Groth GbR das 2017 in Kraft getretene Carsharinggesetz (CsgG)
+evaluiert. Die vorliegende Evaluation verwendet den Input-Output-Outcome-Impact-Ansatz (Input: CsgG, Output:
+Begleitungs- und Umsetzungsschritte in Bund, Bundesl&#228;ndern und Kommunen; Outcome: Wirkungen auf dem
+Carsharingmarkt; Impact: intendierte langfristige Wirkungen) und basiert auf einer Analyse der Literatur sowie
+eigenen empirischen Erhebungen bei den Bundesl&#228;ndern, den Kommunen und Kommunalverb&#228;nden, den
+Carsharinganbietern und den Verkehrsteilnehmern.
+Das CsgG ist die Grundlage, Carsharingfahrzeuge zur F&#246;rderung des Carsharing zu bevorrechtigen. Dies betrifft
+die Erteilung von Sondernutzungserlaubnissen an &#246;ffentlichen Stra&#223;en an Anbieter von stationsbasierten
+Carsharingfahrzeugen sowie das Parken und das Erheben von Parkgeb&#252;hren auf &#246;ffentlichen Stra&#223;en f&#252;r
+stationsunabh&#228;ngige und stationsabh&#228;ngige Fahrzeuge. Damit st&#246;&#223;t das CsgG eine Wirkungskette an, die &#252;ber die Aktivit&#228;ten
+des Bundes, der L&#228;nder und der Kommunen den Carsharingmarkt stimulieren soll, was wiederum eine h&#246;here
+Marktdurchdringung des Carsharing beg&#252;nstigt und somit die mit dem Carsharing verbundenen Verkehrs- und 
+Umweltwirkungen beg&#252;nstigen kann.
+Mit dem CsgG wurden vor allem Verkehrs- und Umweltziele verbunden, namentlich die Verringerung des
+motorisierten Individualverkehrs, die Vernetzung des &#214;ffentlichen Personennahverkehrs, die Schlie&#223;ung der L&#252;cke
+zwischen den Verkehrsmitteln des Umweltverbundes, der Ersatz privater Pkw und damit die Senkung des Pkw-
+Bestandes und die Entlastung des &#246;ffentlichen Raums, die erh&#246;hte Marktdurchdringung mit neuen und
+umweltschonenden Antriebstechnologien, die Vereinfachung und St&#228;rkung der Nutzung von Carsharing und die
+F&#246;rderung einer nachhaltigen Mobilit&#228;t sowie die Verbesserung der Bedingungen f&#252;r die Leistungsf&#228;higkeit der
+Volkswirtschaft.
+Die im Rahmen der Evaluation des CsgG durchgef&#252;hrte Erfolgskontrolle kommt zu dem Ergebnis, dass zentrale
+Interventionsziele des CsgG und der damit einhergehenden weiteren gesetz- bzw. verordnungsgeberischen
+Aktivit&#228;ten auf Bundes- und Landesebene erreicht worden sind. Die positiven Wirkungen, die durch das CsgG auf
+Output-, Outcome- und Impact-Ebene ausgel&#246;st werden, k&#246;nnten durch erg&#228;nzende Ma&#223;nahmen perspektivisch 
+noch verst&#228;rkt werden. Ein akuter Fortschreibungsbedarf wird derzeit jedoch nicht gesehen. Diesbez&#252;glich wird
+empfohlen, die weitere Marktentwicklung abzuwarten. Auf Basis der Evaluationsergebnisse werden 12 Punkte
+auf 4 Handlungsebenen zur Verstetigung und Verst&#228;rkung vorgeschlagen.
+Abstract
+On behalf of the Federal Highway Research Institute, the evaluation team KE-CON&#172;SULT Kurte&amp;Esser GbR
+and studio next mobility Wittowsky Garde Groth GbR evaluated the Carsharing Act (CsgG), which came into
+force in July 2017. This evaluation uses the input-output-outcome-impact approach (input: CsgG, output:
+monitoring and implementation steps in the federal government, federal states and municipalities, outcome: effects on 
+the carsharing market; impact: intended long-term effects) and is based on literature analysis as well as on own
+empirical surveys among the federal states, municipalities and municipal associations, carsharing providers and
+transport users.
+The CsgG forms the basis for giving preferential treatment to carsharing vehicles in order to promote carsharing.
+This concerns the granting of special rights of use on public roads to providers of station-based carsharing
+vehicles, as well as parking and charging for parking on public roads for station-independent and station-dependent
+vehicles. In this way, the CsgG triggers a chain of effects that is intended to stimulate the carsharing market via
+the activities of the federal government, the states and the municipalities. This, in turn, results in a higher market
+penetration of carsharing and can thus benefit the traffic and environmental effects associated with carsharing.
+The CsgG has been mainly associated with transport and environmental objectives as reducing private motorized 
+transport, interconnecting local public transport, closing the gap between the different modes of transport within
+the environmental network, replacing private cars and thus reducing the number of cars and relieving the pressure
+on public space, increasing the market penetration with new and environmentally friendly driving technologies, 
+simplifying and strengthening the use of carsharing and promoting sustainable mobility, improving the
+performance conditions of the national economy.
+The performance review carried out as part of the evaluation of the CsgG concludes that key intervention goals
+of the CsgG and the associated further legislative and regulatory activities at federal and state level have been
+achieved. The positive effects triggered by the CsgG regarding output, outcome and impact could be further
+strengthened in the future through supplementary measures. However, an immediate need for improvement is not
+seen at present. In this regard, it is recommended to observe further market developments. Based on the evaluation
+results, 12 key points on 4 levels of action are proposed for stabilization and reinforcement.
+Auch wenn aus Gr&#252;nden der Lesbarkeit im folgenden Text die m&#228;nnliche Form verwendet wird, sind Angeh&#246;rige
+aller Geschlechter stets einbezogen.
+1 Anlass, Ziel und Aufbau der Evaluation
+Seit den sp&#228;ten 1980er Jahren gibt es in Deutschland die gemeinschaftliche Nutzung von Pkw in Form des
+Carsharing. Mit dem Carsharing wird die Hoffnung verbunden, Verkehrsprobleme, die durch den Einsatz privater
+Pkw hervorgerufen werden, abzumildern. 
+Derzeit sind vor allem zwei Carsharingvarianten von Bedeutung. Beim stationsbasierten Carsharing stehen die
+Fahrzeuge auf einem festen Parkplatz, der Station. Dort ist das Fahrzeug reservierbar, wird dort abgeholt und auch
+wieder abgestellt. Das stationsunabh&#228;ngige Carsharing verzichtet auf solche festen Standorte. Die Fahrzeuge
+parken innerhalb eines definierten Gesch&#228;ftsgebietes, oft in den Innenst&#228;dten, und werden internetbasiert gebucht.
+Langfristige Reservierungen sind nicht m&#246;glich beziehungsweise die Ausnahme.
+Beiden Varianten des Carsharing wird eine bedeutende Rolle in der Mobilit&#228;tswende beigemessen. Dies betrifft 
+insbesondere den Ersatz privater Pkw durch Carsharingfahrzeuge und die Schlie&#223;ung von L&#252;cken innerhalb von 
+Mobilit&#228;tsketten des Umweltverbundes.
+Im Jahr 2017 wurde das Gesetz zur Bevorrechtigung des Carsharing1 erlassen. Mit diesem werden Ma&#223;nahmen
+zur Bevorrechtigung des Carsharing im Stra&#223;enverkehr erm&#246;glicht, um die Verwendung von
+Carsharingfahrzeugen im Rahmen stationsunabh&#228;ngiger oder stationsbasierter Angebotsmodelle zu f&#246;rdern. &#220;bergeordnetes Ziel ist
+die Verringerung insbesondere klima- und umweltsch&#228;dlicher Auswirkungen des motorisierten
+Individualverkehrs. 
+Das Carsharinggesetz (im Folgenden CsgG) trat, soweit es den Bund zum Erlass von Rechtsverordnungen
+erm&#228;chtigt, am 13. Juli 2017 und im &#220;brigen am 1. September 2017 in Kraft (vgl. &#167; 7 CsgG). Gem&#228;&#223; &#167; 6 CsgG soll
+das Gesetz vom Bundesministerium f&#252;r Verkehr und digitale Infrastruktur (BMVI), dem Bundesministerium f&#252;r
+Wirtschaft und Energie (BMWi) und dem Bundesministerium f&#252;r Umwelt, Naturschutz und nukleare Sicherheit
+(BMU) gemeinsam evaluiert werden. Die Ergebnisse der Evaluation durch die Ministerien m&#252;ssen bis zum 1. Juli
+2021 dem Deutschen Bundestag vorgelegt werden. Die vorliegende Evaluation bildet dazu die Grundlage.
+Mit der Evaluation des CsgG wird eine Wirkungs- und Erfolgskontrolle hinsichtlich Zielerreichung und
+Auswirkungen des CsgG durchgef&#252;hrt, um eine fundierte und empirisch gest&#252;tzte Einsch&#228;tzung der (intendierten)
+Auswirkungen und positiven Effekte abzugeben und m&#246;glichen bestehenden Optimierungsbedarf zu identifizieren. 
+Aus den gesammelten Erkenntnissen werden Schlussfolgerungen und Handlungsempfehlungen abgeleitet.
+Die vorliegende Untersuchung ist keine Auswirkungsanalyse des Carsharing als solches. Die Wirkungen des
+Carsharing sind bereits in zahlreichen Forschungsvorhaben analysiert worden, auf die im Zuge der Evaluation des
+CsgG zur&#252;ckgegriffen wird.
+Die Evaluation des CsgG umfasst f&#252;nf Arbeitsschritte:
+&#8226; In einem ersten Arbeitsschritt werden zun&#228;chst das Wirkmodell und die Indikatorik (Definition von
+Kennziffern und Ma&#223;gr&#246;&#223;en zur Durchf&#252;hrung der Wirkungsanalyse) pr&#228;zisiert. Hieraus wird das Zielsystem
+abgeleitet. Zudem werden der Methodeneinsatz und die notwendigen Datenerhebungen konzipiert. Die in
+diesem Arbeitsschritt festgelegten Erkenntnisziele und Erhebungsmethoden kommen kontinuierlich im Verlauf
+des Projektes zum Einsatz.
+&#8226; In einem zweiten Arbeitsschritt werden die Ausgangslage und der rechtliche Rahmen beschrieben. 
+&#8226; Der dritte Arbeitsschritt beinhaltet die Markt&#252;bersicht und eine Kennzeichnung der Marktentwicklungen des
+Carsharing im Zeitablauf. 
+&#8226; Gegenstand des zentralen vierten Arbeitsschrittes ist die empirische Umsetzung der Evaluation, also vor
+allem die Auswirkungs- und Zielerreichungsanalyse sowie die Wirkungsanalyse und damit die
+Beantwortung der formulierten Erkenntnisziele und genannten Leitfragen. 
+&#8226; Die im vierten Arbeitsschritt erfolgte empirische Umsetzung liefert die Basis f&#252;r die Zusammenfassung der
+zentralen Ergebnisse und Ableitung von Handlungsempfehlungen und Schlussfolgerungen im f&#252;nften
+Arbeitsschritt.
+Die Evaluation des CsgG wird begleitet von einem Betreuerkreis bestehend aus Vertretern des BMVI, des BMWi,
+des BMU und der Bundesanstalt f&#252;r Stra&#223;enwesen (BASt). 
+1 Gesetz zur Bevorrechtigung des Carsharing (Carsharinggesetz &#8211; CsgG) vom 5. Juli 2017 (BGBl. I S. 2230), zuletzt ge&#228;ndert durch
+Artikel 328 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328).
+Der vorliegende Schlussbericht stellt zun&#228;chst den derzeitigen Stand der Forschung zum Carsharing im
+Allgemeinen und zum CsgG im Besonderen dar (Kapitel 2.1) und skizziert die Entwicklung des Carsharing
+(Kapitel 2.2). Das hier dargestellte Mengenger&#252;st fasst die Entwicklung des Carsharing zusammen und bildet somit die
+Ausgangsbasis f&#252;r die Evaluation des CsgG und die Analyse der damit in Zusammenhang stehenden Effekte. 
+Kapitel 3 erl&#228;utert den zugrundeliegenden Evaluationsansatz, das Zielsystem und das Wirkmodell f&#252;r die
+Evaluation sowie die eingesetzten empirischen Methoden. In Kapitel 4 werden die Evaluationsergebnisse vorgestellt
+und in Kapitel 5 werden die Ergebnisse der Evaluation, also die Erfolgskontrolle, zusammengefasst, auf deren
+Basis dann Handlungsempfehlungen abgeleitet werden.
+2 Stand der Forschung zum Carsharing und zum Carsharinggesetz
+In diesem Kapitel wird zun&#228;chst ein &#220;berblick &#252;ber die zentralen Aspekte zum Stand der Forschung zum Thema
+Carsharing gegeben (Kapitel 2.1). Diese Aspekte sollen als Grundlagen verstanden werden und die
+darauffolgende Evaluation des CsgG vorbereiten. Ziel ist es, die Auswirkungen des Carsharing und, soweit m&#246;glich, des 
+CsgG, wie sie in der wissenschaftlichen Literatur vorliegen, darzustellen. Anschlie&#223;end wird die Entwicklung des
+Carsharing von den Anf&#228;ngen bis heute dargestellt, um eine Vorstellung &#252;ber die Gr&#246;&#223;enordnungen des
+Carsharing mit Blick auf die Anzahl der Anbieter, der Kommunen mit Carsharingangeboten und der Nutzer herzustellen.
+(Kapitel 2.2). 
+2.1 Literaturanalyse zu den Auswirkungen des Carsharing
+Die Auswirkungen des CsgG sind bisher noch nicht detailliert untersucht worden, dennoch k&#246;nnen aus anderen
+Forschungskontexten umfangreiche Erkenntnisse zu den Auswirkungen von Carsharing auf die Alltagsmobilit&#228;t
+gewonnen werden. Zun&#228;chst handelt es sich beim Carsharing &#8211; ganz allgemein &#8211; um die organisierte
+gemeinschaftliche Nutzung von Personenkraftwagen, auf die Mitglieder bzw. Kunden eines Carsharinganbieters nach
+Abschluss eines Rahmenvertrags Zugriff haben.2 Diesbez&#252;glich haben sich mit dem stationsbasierten Carsharing
+und dem stationsunabh&#228;ngigen Carsharing (auch flexibles oder free-floating-Carsharing genannt) vor allem zwei
+Varianten des Carsharing etabliert:3,4,5 
+&#8226; Das stationsbasierte Carsharing ist die klassische Form, bei dem das Fahrzeug an einem Stellplatz entliehen
+und wieder dorthin zur&#252;ckgebracht wird. Dauer und Nutzung werden i. d. R. vorab mit dem Anbieter
+vereinbart.
+&#8226; Das stationsunabh&#228;ngige Carsharing ist eine neuere Form des Carsharing, bei der ein freies Fahrzeug
+innerhalb eines abgesteckten Gesch&#228;ftsgebietes an einem beliebigen Ort gemietet und one way genutzt, d. h. an
+einem beliebigen Parkplatz innerhalb des definierten Gebietes wieder abgegeben werden kann. 
+&#220;ber diese verbreiteten und bekannten Varianten des Carsharing hinaus, existieren zudem &#8211; wenn auch weit
+weniger prominent besprochen &#8211; kombinierte Ans&#228;tze aus stationsbasiertem und stationsunabh&#228;ngigem Carsharing.6 
+Solche kombinierten Ans&#228;tze zeichnen sich zum Beispiel dadurch aus, dass sie zwar erstmal nach dem free-
+floating-Prinzip organisiert sind, in spezifischen Lagen des Gesch&#228;ftsgebietes mit hohem Parkdruck aber auch
+reservierte Parkpl&#228;tze bereitgehalten werden, an denen Fahrzeuge ausgeliehen bzw. zur&#252;ckgegeben werden k&#246;nnen.
+Neben den Vorteilen, die sich dadurch f&#252;r die Kunden ergeben, ergeben sich auch Hinweise daf&#252;r, dass
+kombinierte Ans&#228;tze im Hinblick auf ihre positiven Einfl&#252;sse auf Verkehr und Umwelt anderen Carsharingangeboten
+&#252;berlegen sind.7 Es zeigt sich, dass sowohl die Fahrtdauer, als auch die Fahrtweite im Durchschnitt h&#246;her liegen
+als bei den anderen beiden Carsharingvarianten.
+In den letzten Jahren hat sich au&#223;erdem das sogenannte peer-to-peer-Carsharing als Nische entwickelt, die aus
+dem nachbarschaftlichen Carsharing hervorging und die Vermietung privater Pkw beinhaltet.8 In der
+verkehrspolitischen und wissenschaftlichen Debatte spielt das peer-to-peer-Carsharing im Vergleich zu den kommerziellen
+Angeboten bisher eine weniger bedeutende Rolle und hat vor dem Hintergrund auch noch keinen Eingang ins
+2 Bundesverband CarSharing 2020-2.
+3 SHAHEEN et al. 1999.
+4 SHAHEEN et al. 2007.
+5 M&#220;NZEL et al. 2018.
+6 Bundesverband Carsharing 2015.
+7 Bundesverband Carsharing 2015.
+HAMPSHIRE et al. 2011.8
+CsgG gefunden. Diesbez&#252;glich sind die entsprechenden Entwicklungen mit Blick auf eine Erh&#246;hung der
+Angebotsvielfalt, die potentielle Zunahme multimodaler Verhaltensweisen oder etwa Reduktionspotentiale beim
+privaten Pkw-Besitz entsprechend abzuwarten.9 Gerade f&#252;r die weniger dicht besiedelten R&#228;ume, in denen ein
+kommerzieller Betrieb eines Carsharingangebotes aufgrund einer zu geringen Nachfragedichte nur eingeschr&#228;nkt
+m&#246;glich ist, kann diese Form des Carsharing ein wichtiger Baustein im Mobilit&#228;tsangebot sein.10 
+Verschiedene Studien haben untersucht, inwiefern sich die Verkehrsmittelnutzung von Carsharingnutzern im
+Vergleich zu Nicht-Carsharingnutzern unterscheidet. Dabei zeigt sich, dass Carsharingnutzer seltener den privaten 
+Pkw nutzen und daf&#252;r h&#228;ufiger auf Alternativen zum Auto zur&#252;ckgreifen (z. B. &#214;PNV, Fahrrad).11,12 Weiterhin
+wird in diesen Studien deutlich, dass Carsharingnutzer eine h&#246;here Verkehrsmittelflexibilit&#228;t aufweisen, d. h. sie 
+entscheiden weitaus flexiber und situationsbezogen, auf welches Verkehrsmittel sie zur&#252;ckgreifen wollen, und 
+nutzen h&#228;ufiger die Kombination aus mehreren Verkehrsmitteln auf einem Weg als Personen, die Carsharing nicht
+nutzen.
+In Bezug auf die Ver&#228;nderung von Mobilit&#228;tsressourcen kann gezeigt werden, dass eine Neumitgliedschaft bei
+einem Carsharinganbieter mit einem Verzicht auf den Besitz oder gar dem Verkauf des eigenen Autos verbunden
+sein kann.13,14,15. Insofern wird die Nutzung von Carsharing mit vor allem mit klimawirksamen Effekten
+assoziiert.16 Aber auch weitere positive Umwelteffekte, wie zum Beispiel die Reduktion von lokalen
+Schadstoffemissionen oder L&#228;rm werden mit Carsharing-Angeboten in Verbindung gebracht, sofern das Angebot insgesamt zu
+einer Reduktion von Pkws beitragen kann17. Auf individueller Ebene k&#246;nnen allerdings immer auch
+Zusammenh&#228;nge zwischen einer Neumitgliedschaft und einem Anstieg der individuellen Pkw-Fahrten festgestellt werden. 
+Das betrifft insbesondere Personen, die zuvor auf keinen eigenen Pkw zur&#252;ckgreifen konnten.18,19 
+Hinsichtlich verkehrlicher Effekte wird beobachtet, dass durch die neue Carsharingoption urspr&#252;ngliche Fahrten 
+mit anderen Verkehrsmitteln substituiert werden k&#246;nnen.20,21 Martin und Shaheen beispielsweise verweisen auf
+m&#246;gliche Substitutionseffekte (auch Kannibalisierungseffekte) im &#214;PNV durch Carsharingnutzungen.22 Firnkorn 
+kann eine leicht reduzierte Nutzung von &#214;PNV, Fahrrad und Fu&#223;wegen durch das stationsunabh&#228;ngige
+Carsharing nachweisen.23 Wiederum Martin und Shaheen k&#246;nnen in einer ihrer viel beachteten Studien anhand des
+personenbezogenen Eintrittes in Carsharingorganisationen klimawirksame Effekte feststellen.24 Zwar zeige sich,
+dass sich bei den meisten Carsharingeinsteigern die haushaltsbezogenen Emissionen auf das Jahr gerechnet
+erh&#246;hen, da bei den meisten Personen erstmals ein Pkw-Zugang hergestellt und auf diesen entsprechend
+zur&#252;ckgegriffen werde. Allerdings seien diese individuellen Emissionszunahmen verglichen mit der Nutzung eines privaten 
+Pkw als gering einzusch&#228;tzen. Ins Gewicht falle hier, dass jene verbleibenden Personen, die einer
+Carsharingorganisation beigetreten sind, ihre individuellen Emissionen massiv reduzieren, indem sie sich von Fahrzeugen
+trennen und durch die Carsharing-Mitgliedschaft weniger fahren. Die beiden Forscher k&#246;nnen &#252;ber ihr Modell
+feststellen, dass in der Folge die aufsummierten Emissionsminderungen jene Emissionserh&#246;hungen in der Summe
+&#252;bersteigen und es folglich zu einer Reduktion an Treibhausgasen komme. 
+9 LUDMANN 2018.
+10 VC&#214; 2018.
+11 SIOUI et al. 2012.
+12 KOPP et al. 2015.
+13 CHATTERJEE et al. 2013.
+14 FIRNKORN et al. 2015.
+15 MARTIN et al. 2010.
+16 MARTIN et al. 2011b.
+17 ESFANDABADI et al. 2020.
+18 CERVERO et al. 2004.
+19 MARTIN et al. 2010.
+20 MARTIN et al. 2011a.
+21 FIRNKORN 2012.
+22 MARTIN et al. 2011a.
+23 FIRNKORN 2012.
+24 MARTIN et al. 2011b.
+Bei stationsunabh&#228;ngigen Carsharingangeboten sind die &#246;kologischen Effekte nicht unumstritten, weil die
+Anbieter (oftmals aus der Automobilindustrie) ihre Fahrzeuge in gro&#223;en Flotten und mit weniger klimafreundlichen 
+Antrieben anbieten.25 Diese Kritik ber&#252;cksichtigt allerdings nicht die potentiellen Qualit&#228;ten des
+stationsunabh&#228;ngigen Carsharing innerhalb des Umweltverbundes mit Blick auf die Schaffung von m&#246;glichen
+Multioptionalit&#228;tseffekten, mit denen subjektiv wahrgenommene Zunahmen an Freiheitsgraden bei der Verkehrsmittelwahl
+einhergehen.26 So wird in Arbeiten theoretisch-konzeptionellen Ausf&#252;hrungen der Verkehrs- und
+Mobilit&#228;tsforschung argumentiert, dass stationsbasiertes Carsharing nicht als Konkurrenzverkehrsmittel zu anderen '
+nachhaltigen' Verkehrsmitteln verstanden werden m&#252;sse, sondern erst zur Emergenz eines konkurrenzf&#228;higen
+Umweltverbundes - d. h. als ernsthafte Alternative zur privaten Automobilit&#228;t - beitr&#228;gt.27 Hier entfalte es eine
+&#246;kologische Wirkung, indem das Auto vom einstigen Universalverkehrsmittel nun in Gestalt des Mietautos zur
+sporadischen Option degradiert werde.28,29
+In siedlungsstruktureller Perspektive sind vor allem dicht besiedelte (st&#228;dtische) Teilr&#228;ume mit einem
+Carsharingangebot ausgestattet, wohingegen d&#252;nn besiedelte Teilr&#228;ume tendenziell einen Mangel an Carsharingangeboten
+aufweisen.30 W&#228;hrend die stationsbasierten Anbieterstrukturen im Grunde verschiedene Stadttypen abdecken, 
+lassen sich die flexiblen Carsharingstrukturen vornehmlich in &#246;konomisch prosperierenden Teilr&#228;umen
+lokalisieren.31 Dar&#252;ber hinaus gibt es Hinweise darauf, dass sich das Carsharingangebot in St&#228;dten mit lokalen
+Carsharinganbietern vor allem in zentralen Lagen konzentriert, wohingegen die peripheren Quartiere eher selten von
+Carsharingangeboten profitieren.32 
+Bez&#252;glich der wirtschaftlichen Effekte liegt eine Studie im Auftrag des Umweltbundesamtes aus dem Jahr 2015
+vor,33 deren Aussagen zu den wirtschaftlichen Effekten des Carsharing durch eine Studie im Auftrag des
+Bundesministerium f&#252;r Wirtschaft und Energie aus dem Jahr 201834 geteilt wird. Die wirtschaftlichen Effekte sind
+demnach nicht eindeutig zu bestimmen, sondern von den gew&#228;hlten Szenarienannahmen abh&#228;ngig. Bei einem Ausbau
+des Carsharing, der durch &#8222;Regulierung und Investitionen seitens des Staates flankiert&#8220;35 wird, werden Stellen
+neu geschaffen. Dabei werden Gr&#246;&#223;enordnungen von 72.000 bis 109.000 Stellen genannt. Das zweite Szenario 
+geht von einer schwachen Zunahme des Carsharing ohne weitere flankierende Ma&#223;nahmen des Staates aus. In
+diesem Szenario werden bei der Besch&#228;ftigung keine Auswirkungen, die &#8222;signifikant von null verschieden 
+sind&#8220;,36 erwartet. Dies entspricht auch den Ergebnissen einer aktuellen Studie im Auftrag des Bundesministeriums
+f&#252;r Wirtschaft und Energie.37 Hierin werden die auf Basis von Modellrechnungen ermittelten positiven
+Besch&#228;ftigungseffekte von Carsharingkonzepten hervorgehoben. In einem Szenarienvergleich stellt die Studie fest: &#8222;Eine 
+Verlagerung des Modal Split von im privaten Pkw zur&#252;ckgelegten Kilometern hin zu Sharing-Konzepten und des 
+&#214;PV wird bis 2030 zu positiven Besch&#228;ftigungseffekten im Bereich der Mobilit&#228;tsdienstleistungen f&#252;hren.&#8220;38 
+Damit kann laut Studie ein &#8222;Teil der Arbeitsplatzverluste durch den Strukturwandel in der Automobilindustrie&#8220;39 
+aufgefangen werden. Zusammenfassend wird festgestellt, dass bis 2030 &#8222;zwischen 80.000 und 130.000
+Arbeitspl&#228;tze durch die Einf&#252;hrung neuer Mobilit&#228;tsdienstleistungen auf Grundlage von Shared Mobility und dem
+automatisierten Fahren neu entstehen&#8220;40 k&#246;nnen. Zentrale Annahme dabei ist, dass das Carsharing und die anderen
+neuen Mobilit&#228;tsdienstleistungen sinnvoll in den &#214;PNV integriert werden.
+25 GIESEL et al. 2016.
+26 MONHEIM 1994.
+27 DEFFNER et al. 2014, GEELS 2012.
+28 GROTH 2019.
+29 DEFFNER et al. 2014.
+30 BREINDL 2014.
+31 GROTH 2019.
+32 CLARK et al. 2016.
+33 GSELL et al. 2015
+34 BUSCH et al. 2018.
+35 BUSCH et al. 2018: 47.
+36 GSELL et al. 2015: 140.
+37 Institut f&#252;r Politikevaluation 2020.
+38 Institut f&#252;r Politikevaluation 2020: 59.
+39 Institut f&#252;r Politikevaluation 2020: 66.
+40 Institut f&#252;r Politikevaluation 2020: 80.
+Auf Seiten der (potentiellen) Nutzer von Carsharing liegen verschiedene &#8222;Barrieren und Treiber&#8220; einer
+Carsharingnutzung vor.41 Zu den Barrieren &#8211; und damit Argumenten f&#252;r die Nutzung des eigenen Pkw &#8211; z&#228;hlen
+Unabh&#228;ngigkeit und Flexibilit&#228;t, also die Option, den Pkw jederzeit und spontan nutzen zu k&#246;nnen, die Gewohnheit,
+den eigenen Pkw zu nutzen sowie der kognitive Aufwand, der mit der Carsharingnutzung verbunden ist
+(Mitgliedschaft, Buchung, Abrechnung). Diese Hypothese unterst&#252;tzt bspw. A.T. Kearney.42 Laut dieser Studie
+vermissen die Carsharingnutzer insbesondere die permanente Verf&#252;gbarkeit des Fahrzeugs. Demgegen&#252;ber steht eine
+Vielzahl von Treibern, die f&#252;r eine Nutzung von Carsharing sprechen. Neben den Kostensenkungspotentialen sind
+dies vor allem auch die Potentiale zur Umweltentlastung und die Verbesserung der Parkmodalit&#228;ten.43 
+Inwieweit nun das CsgG verschiedene Effekte unterst&#252;tzt, bleibt zun&#228;chst offen. Einen ersten Hinweis aus Sicht
+der Carsharinganbieter geben bspw. die Stellungnahmen des Bundesverband CarSharing (bcs),44,45,46 die auf
+einen Teil der Wirkungen eingehen; so z. B. auf die Umsetzung stra&#223;enrechtlicher Regelungen zum
+stationsbasierten Carsharing in verschiedenen Bundesl&#228;ndern und die Bereitstellung von Fl&#228;chen f&#252;r das stationsbasierte
+Carsharing im &#246;ffentlichen Raum, um es f&#252;r Kunden sichtbarer und so die verkehrsentlastenden Wirkungen entfaltbar
+zu machen. Welche weiteren Schritte auf Bundes-, Landes- und kommunaler Ebene erfolgt sind und welche
+Wirkungen davon bereits ausgegangen sind bzw. k&#252;nftig zu erwarten sind, wird in der vorliegenden Evaluation
+untersucht.
+Dar&#252;ber hinaus gehende Studien oder Analysen zu den Auswirkungen des CsgG liegen derzeit noch nicht vor. 
+Insofern stellt die vorliegende Evaluation erstmals wichtige Erkenntnisse und Informationen bereit, welche
+Wirkungen das CsgG bei Kommunen, Anbietern und Nachfragern des Carsharing ausl&#246;st.
+2.2 Analyse des Carsharingmarktes
+Im Folgenden wird die Entwicklung des Carsharingmarktes analysiert. Die Betrachtung umfasst die
+Fahrtberechtigten und Nutzer, die Carsharingvarianten, die Carsharingkommunen und die Carsharingfahrzeuge.
+Die &#8222;organisierte Form des Auto-Teilens&#8220; entstand in Deutschland 1988 mit dem Konzept der STATTAUTO
+Car-Sharing GmbH Berlin.47 Im M&#228;rz 1994 gab es bereits 69 St&#228;dte mit einem Carsharingangebot. Die Anzahl
+der Fahrtberechtigten48 war damals noch gering: Von den 69 Angeboten hatten 44 unter 50 Fahrtberechtigte und 
+bei lediglich einem Angebot gab es mehr als 500 Fahrtberechtigte. Insgesamt lag die Anzahl der Fahrtberechtigten 
+im Jahr 1994 bei unter 8.000.49 
+Der Markt (gemessen an der Anzahl der Fahrtberechtigten) wuchs seit dem Start erster Carsharingangebote
+kontinuierlich an, jedoch nicht so, wie es bei Einf&#252;hrung des Carsharing erwartet wurde. Pesch ging in seiner
+Grundlagenstudie aus dem Jahr 1996 von einem Marktpotential von 2,45 Mio. Autofahrern aus.50 Diese hohen
+Erwartungen an die Entwicklung des Carsharing bezogen sich nur auf das stationsbasierte Carsharing.
+Stationsunabh&#228;ngige Angebote kamen in Folge des Markteintrittes erster Smartphones und Apps erst im Jahr 2009,
+kombinierte Angebote erst im Jahr 2012 auf den Markt.51 
+Im Jahr 2009 war mit etwa 150.000 Fahrtberechtigten das von Pesch abgesch&#228;tzte Potential von 2,45 Mio.
+Carsharingnutzern52 noch nicht einmal zu 10 % erreicht. Wesentlich dynamischer wurde die Entwicklung mit den
+ersten stationsunabh&#228;ngigen Angeboten in den St&#228;dten. Die folgende Abbildung zeigt die Entwicklung der
+Fahrtberechtigtenanzahl von 2000 bis 2019. Es wird deutlich, dass mit Start der stationsunabh&#228;ngigen Angebote 2009 
+die Wachstumsraten deutlich h&#246;her ausfallen. 
+41 SCHLAG et al. 2019.
+42 A.T. Kearney 2019.
+43 SCHLAG et al. 2019.
+44 Bundesverband CarSharing 2018-4.
+45 Bundesverband CarSharing 2019.
+46 Bundesverband CarSharing 2020-3.
+47 PESCH 1996: 109f.
+48 Wir verwenden hier den &#220;berbegriff Fahrtberechtigte, um alle registrierten Kunden, Mitglieder, Genossen, Teilnehmer etc. bei den 
+Carsharinganbietern, die als Unternehmen, Vereine, Genossenschaften etc. organisiert werden k&#246;nnen, zu erfassen.
+49 PESCH 1996.
+50 PESCH 1996.
+51 Bundesverband CarSharing 2015.
+52 PESCH 1996.
+Bild 2-1: Entwicklung des Carsharing &#8211; Fahrtberechtigte 2000 bis 2019 (jeweils zum 1.1.)
+(Quelle: Bundesverband CarSharing 2020-1)
+Anmerkung: Die Zahlen f&#252;r das Jahr 2020 werden in der Grafik nicht dargestellt, da sich aufgrund des Zusammenschlusses
+zweier Anbieter und der daraus folgenden Entwicklung von Nutzerzahlen keine Datenvergleichbarkeit ergibt.
+Bemerkenswert ist, dass die Anzahl Fahrtberechtigter im Jahr 2019 (2,6 Mio.) das von Pesch im Jahr 1996
+abgesch&#228;tzte Nutzerpotential von 2,45 Mio.53 &#252;berschreitet. Allerdings ist hier zu ber&#252;cksichtigen, dass die Anzahl der
+Fahrtberechtigten nicht deckungsgleich mit der Anzahl der tats&#228;chlichen Nutzer ist:
+&#8226; Ein Teil der Fahrtberechtigten nutzt Carsharing gar nicht, so dass diese zwar Fahrtberechtigte, aber nicht
+Nutzer sind.
+&#8226; Teilweise sind Nutzer Fahrtberechtigte in verschiedenen Carsharingorganisationen. Dies gilt insbesondere
+dann, wenn es in einer Stadt sowohl stationsbasiertes als auch stationsunabh&#228;ngiges Carsharing gibt. Gibt es
+in einer Stadt zwei oder mehr stationsunabh&#228;ngige Anbieter, so ist auch hier teilweise ein Nutzer
+fahrtberechtigt bei mehreren Anbietern, weil sich damit die zur Verf&#252;gung stehende Fahrzeugdichte erh&#246;ht. Dies
+wird besonders deutlich, wenn der Zusammenschluss zwischen DriveNow und car2go zu SHARE NOW
+betrachtet wird. In derartigen F&#228;llen entspricht ein Nutzer folglich zwei oder mehr Fahrtberechtigten.
+Um die Gr&#246;&#223;enordnung der Diskrepanz zwischen Fahrtberechtigten und Nutzern zu verdeutlichen, wird auf eine
+Untersuchung des Bundesverband CarSharing (bcs) zur&#252;ckgegriffen.54 Im Rahmen des EU-Forschungsprojektes
+STARS (Shared mobility opporTunities And challenges foR European citieS) wurde durch den bcs im Jahr 2018
+eine Erhebung bei Carsharingnutzern in Frankfurt a.M. durchgef&#252;hrt. Dort gab es im Jahr 2018 f&#252;nf
+stationsbasierte und zwei stationsunabh&#228;ngige Angebote. Die Auswertungsergebnisse basieren auf Antworten von etwa
+1.300 Befragten, davon 1.100 Carsharingnutzer. Die Auswertungen des bcs zeigen einen hohen Anteil von
+inaktiven Nutzern und einen ebenfalls nicht unbedeutenden Anteil an Nutzern, die mehrere Carsharingangebote
+nutzen.
+&#8226; 11 % der befragten Fahrtberechtigten gaben an, Carsharing (fast) nie zu nutzen; weitere 43 % nutzen
+Carsharing weniger als einmal pro Monat. Damit fallen beide Gruppen zwar in die Gruppe der Fahrtberechtigten,
+wurden jedoch nicht als Nutzer definiert.
+&#8226; Rund 20 % der befragten Fahrtberechtigten gaben an, zwei oder mehr Carsharingvarianten zu nutzen. Damit
+entsprechen in diesen F&#228;llen zwei oder mehr Fahrtberechtigte einem Nutzer.
+In beiden F&#228;llen &#252;bersteigt die Anzahl der Fahrtberechtigten die Anzahl der tats&#228;chlichen Nutzer.
+Die Auswirkungen des Zusammenschlusses von car2go und DriveNow zeigen ebenfalls deutlich, dass die Anzahl
+der Nutzer kleiner ist als die Anzahl der Fahrtberechtigten. W&#228;hrend die Anzahl der Fahrtberechtigten am 1.
+Januar 2019 noch bei 2,64 Mio. lag, sank sie bis zum 1. Januar 2020 auf 2,29 Mio., also um 13 %. Dieser R&#252;ckgang
+ist laut bcs auf die Zusammenf&#252;hrung des Kundenbestands von car2go und DriveNow zur&#252;ckzuf&#252;hren.55 
+53 PESCH 1996.
+54 Bundesverband CarSharing 2018-1, Bundesverband CarSharing 2018-2.
+55 Bundesverband CarSharing 2020-1.
+Auch wenn die Entwicklung der Fahrtberechtigten die Entwicklung der Nutzung des Carsharing &#252;bersteigt,
+entwickelt sich das Carsharing in Deutschland durchaus dynamisch. Dies zeigt sich an der jeweils im Zeitablauf
+steigenden Anzahl der
+&#8226; Carsharingvarianten im Markt,
+&#8226; St&#228;dte, in denen Carsharing angeboten wird,
+&#8226; Carsharingfahrzeuge im Markt und 
+&#8226; der im Carsharing zur&#252;ckgelegten Fahrzeugkilometer.
+W&#228;hrend es zu den Anfangszeiten des Carsharing lediglich das stationsbasierte Carsharing gab, sind inzwischen
+verschiedene Varianten hinzugekommen. Dies war vor allem das stationsunabh&#228;ngige Carsharing im Jahr 2009,
+das erst mit der Digitalisierung auch im privaten Bereich (erste Smartphones, erste Apps) praktikabel wurde. Aber
+auch weitere Varianten, wie das kombinierte Carsharing (2012), bei dem ein Anbieter den Kunden sowohl
+stationsbasierte als auch stationsunabh&#228;ngige Fahrzeuge anbietet, sowie auch das peer-to-peer-Carsharing, bei dem
+private Fahrzeuge &#252;ber eine online-Plattform geteilt werden, spielen inzwischen eine Rolle. Bspw. sind beim
+Anbieter SnappCar derzeit (Stand 22.10.2020) mehr als 13.000 Autos registriert.56 In j&#252;ngster Zeit wird dar&#252;ber
+hinaus das Ridesharing bzw. Ridepooling, bei denen einzelne Fahrten geteilt werden, erforscht57 und in den Markt
+gebracht. Dabei ist Ridesharing die reine nicht-kommerzielle Mitnahme von Personen auf einer Fahrt.
+Ridepooling schlie&#223;t kommerzielle Fahrten ein. Den Umfang des Ridesharing verdeutlicht bspw. BlablaCar. Dort sind 
+(Stand 2017) &#8222;5,5 Millionen Mitglieder angemeldet&#8220;, die &#8222;insgesamt 796 Millionen km mitgefahren sind&#8220;.58 Der 
+Verband Deutscher Verkehrsunternehmen (VDV) listet insgesamt 18 St&#228;dte mit Ridepooling auf.59 
+Derzeit gibt es in 840 St&#228;dten mindestens ein Carsharingangebot.60 Die Anzahl der St&#228;dte mit
+Carsharingangeboten ist vom Jahr 2000 (120 St&#228;dte) bis zum Jahr 2020 (840 St&#228;dte) stetig um durchschnittlich 10 % pro Jahr
+angestiegen (s. Bild 2-2). 
+Bild 2-2: Entwicklung des Carsharing - Anzahl der St&#228;dte mit Carsharing 2000 bis 2020
+(Quelle: PESCH 1996, Bundesverband CarSharing 2020-1, eigene Berechnungen)
+Anmerkung: Interpolierte Werte f&#252;r 2000 bis 2013
+Dass Carsharing nicht nur in gro&#223;en St&#228;dten angeboten wird, zeigt die folgende Abbildung. Immerhin haben vier
+F&#252;nftel der St&#228;dte mit Carsharingangeboten weniger als 50.000 Einwohner.
+56 SnappCar 2020.
+57 Siehe bspw. Ministerium f&#252;r Verkehr Baden-W&#252;rttemberg 2019, Ministerium f&#252;r Verkehr NW 2020.
+58 ST&#220;BER 2018.
+59 Verband Deutscher Verkehrsunternehmen 2020.
+60 Bundesverband CarSharing 2020-1.
+Bild 2-3: Gr&#246;&#223;e der St&#228;dte mit Carsharingangeboten
+(Quelle: Bundesverband CarSharing 2020-1)
+Ebenfalls dynamisch steigend verlief die Entwicklung der Anzahl der Fahrzeuge. Zu beachten ist auch hier
+wiederum der Wachstumsschub, der auf den Markteintritt der Anbieter von stationsunabh&#228;ngigen Fahrzeugen
+zur&#252;ckzuf&#252;hren ist. 
+&#8226; Zwischen 1997 und 2020 w&#228;chst die Anzahl der stationsbasierten Fahrzeuge um 11 % pro Jahr.
+&#8226; Die Anzahl der stationsunabh&#228;ngigen Fahrzeuge steigt zwischen 2011 und 2020 um 34 % pro Jahr.
+&#8226; Damit ist das Wachstum aller Carsharingfahrzeuge im Zeitraum 2009 bis 2020 infolge des Markteintrittes
+der Anbieter des stationsunabh&#228;ngigen Carsharing mit 19 % pro Jahr fast doppelt so hoch wie das j&#228;hrliche
+Wachstum zwischen 1997 und 2009.
+Bild 2-4: Entwicklung des Carsharing - Fahrzeuge 1997 &#8211; 2020 
+(Quelle: Bundesverband CarSharing 2020-1)
+Im Vergleich zur Fahrzeugflotte in Deutschland ist der Elektroanteil (einschlie&#223;lich Plug-in-Hybride) bei den
+Carsharingfahrzeugen hoch. W&#228;hrend in Deutschland der Anteil der Elektrofahrzeuge am Pkw-Bestand am 1.
+Januar 2018 0,2 % betrug, 61 war dieser Anteil bei den Carsharingfahrzeugen mit etwa 9 %62 wesentlich h&#246;her
+(Stand 1. Januar 2018). Daf&#252;r verantwortlich waren vor allem die Flotten der Automobilhersteller als Anbieter im 
+stationsunabh&#228;ngigen Carsharing und neue Carsharingangebote, die ausschlie&#223;lich Elektrofahrzeuge einsetzen.
+Das dargestellte Mengenger&#252;st fasst die Entwicklung des Carsharing zusammen und bildet somit die
+Ausgangsbasis f&#252;r die Evaluation des CsgG und die Analyse der damit in Zusammenhang stehenden Effekte hinsichtlich
+des &#252;bergeordneten Ziels, die Verwendung von Carsharingfahrzeugen zu f&#246;rdern, um damit vor allem
+verkehrliche und umweltliche Entlastungswirkungen zu erzielen (siehe &#167; 1 CsgG).
+3 Methodisches Vorgehen der Evaluation
+Die Evaluation orientiert sich an &#167; 7 der Bundeshaushaltsordnung (BHO)63 und erfordert die Durchf&#252;hrung von 
+drei unterschiedlichen Arbeitsschritten. Jeder Arbeitsschritt hat ein bestimmtes Erkenntnisinteresse und zeichnet
+sich durch differenzierte Hauptfragestellungen aus. Hierbei handelt es sich um die Zielerreichungskontrolle,
+Wirkungskontrolle und Wirtschaftlichkeitskontrolle.
+In der Zielerreichungskontrolle wird beleuchtet, ob die Ziele der (regulatorischen) Ma&#223;nahme erreicht wurden
+bzw. wie sich der Zielerreichungsgrad darstellt. Die Grundlage bilden das Zielsystem sowie das daran
+ankn&#252;pfende Wirkmodell. Im Arbeitsschritt der Wirkungskontrolle wird untersucht, ob die Erreichung der Ziele auf die
+Intervention zur&#252;ckzuf&#252;hren ist. Durch die Darstellung unterschiedlicher Wirkungsketten und -beziehungen im
+Wirkmodell wird die Verbindung zwischen Intervention und Wirkung logisch dargestellt. 
+In der Wirtschaftlichkeitskontrolle gilt es darzulegen, ob die Intervention wirtschaftlich erfolgte. Differenziert
+wird die Wirtschaftlichkeitskontrolle in Ma&#223;nahmen- und Vollzugswirtschaftlichkeit. Die Kontrolle der
+Ma&#223;nahmenwirtschaftlichkeit untersucht, ob der Mitteleinsatz (Kosten) in Bezug auf die mit der Intervention verbundenen
+Effekte (Nutzen) wirtschaftlich ist und beleuchtet damit den Aufwand in Bezug auf die Erreichung der
+Interventionsziele. Die Vollzugswirtschaftlichkeit hingegen ist auf die Frage bezogen, ob die Umsetzung der Intervention 
+wirtschaftlich ist, d. h. es stehen der begleitende Aufwand f&#252;r die Administration und Umsetzung der Intervention
+im Mittelpunkt.
+Die Evaluation basiert auf einem Wirkmodell und auf verschiedenen empirischen Daten. Im folgenden Abschnitt
+(Kapitel 3.1) wird zun&#228;chst der Evaluationsansatz beschrieben. Daran anschlie&#223;end (Kapitel 3.2) findet sich eine
+Beschreibung der verwendeten empirischen Methoden.
+3.1 Evaluationsansatz
+F&#252;r eine methodisch fundierte Evaluation, welche auch den Anforderungen der Wirkungskontrolle entspricht, ist
+ein detailliertes Wirkmodell notwendig. Als Evaluationsmethodik findet in der j&#252;ngeren Vergangenheit der
+sogenannte Input-Output-Outcome-Impact-Ansatz (IOOI-Ansatz) vielfach erfolgreich Anwendung,64 der auch in
+dieser Evaluation verwendet wird. Einen &#220;berblick gibt Bild 3-1.
+&#8226; Als Input (Aktivit&#228;t/Ma&#223;nahme) werden dabei die Vorbereitung des CsgG, die Verabschiedung des CsgG,
+die Ausgestaltung (Anwendungsbereich und Auswahlkriterien), der rechtliche Rahmen und der finanzielle
+Aufwand (Erf&#252;llungsaufwand65) verstanden.
+&#8226; Beim Output handelt es sich um die aus dem CsgG resultierenden Begleitungs- und Umsetzungsschritte im
+Bund, in den Bundesl&#228;ndern und den Kommunen vor Ort. Das CsgG er&#246;ffnet die M&#246;glichkeit,
+Bevorrechtigungen f&#252;r Carsharinganbieter und Carsharingfahrzeuge einzuf&#252;hren.
+61 Kraftfahrt-Bundesamt 2018.
+62 Bundesverband CarSharing 2018-3. R&#252;ckfragen beim KBA ergaben, dass unter der Haltergruppe N03 zwar die Pkw von
+Carsharingunternehmen erfasst sind, aber nicht die Fahrzeuge, die bspw. auf Vereine oder Energie oder Stadtwerke/Gemeinden zugelassen sind.
+Da diese einen nicht unerheblichen Anteil an den Carsharinanbietern haben, halten wir an dieser Stelle die Daten des bcs, die auf den
+Angaben der Carsharinganbieter beruhen, f&#252;r die geeignetere Datenbasis.
+63 Bundeshaushaltsordnung vom 19. August 1969 (BGBI. I S. 1284), die zuletzt durch Artikel 212 der Verordnung vom 19. Juni 2020 
+(BGBI. I S. 1328) ge&#228;ndert worden ist.
+64 Siehe zu den Grundlagen des IOOI-Ansatzes: Institut f&#252;r Stadtforschung und Strukturpolitik GmbH 2009. Angewendet wurde der
+Ansatz u.a. in den folgenden Evaluationen: KE-CONSULT, Prognos AG 2018; KE-CONSULT, Prognos AG 2019; KE-CONSULT 
+2020.
+65 Siehe dazu: Deutscher Bundestag 2017.
+&#8226; Die Wirkungen des CsgG auf den Carsharingmarkt k&#246;nnen definiert werden als Outcome. Damit gemeint
+sind die Effekte, die direkt vor Ort durch die Umsetzung des CsgG und der darauffolgenden gesetz- und 
+verordnungsgebenden Verfahren erzeugt werden, und auf die Anbieter- und Nachfrageseite wirken. In der
+Folge ergibt sich eine ver&#228;nderte Marktdurchdringung bzw. ein ver&#228;nderter Modal Split-Anteil des
+Carsharing.
+&#8226; Die Impacts sind schlie&#223;lich die durch die F&#246;rderung angestrebten, intendierten Wirkungen (l&#228;ngerfristig
+erw&#252;nschte Ver&#228;nderungen auf gesamtwirtschaftlicher bzw. systemischer Ebene) des Individualverkehrs. In
+der vorliegenden Evaluation sind dies insbesondere die folgenden Impacts:
+o die Ver&#228;nderung der Parkraumsituation vor Ort,
+o die Entlastungseffekte durch Ersatz privater Kfz auf Fahrzeugbestand und Fahrleistungen,
+o induzierte Fahrleistungen durch Bequemlichkeitsverkehre,
+o Kannibalisierungseffekte gegen&#252;ber dem &#214;PNV,
+o Verkn&#252;pfungseffekte mit dem &#214;PNV.
+Bild 3-1: Wirkmodell der Evaluation des CsgG 
+(Quelle: Eigene Darstellung)
+Mit Hilfe des Wirkmodells k&#246;nnen die Auswirkungen des CsgG hinsichtlich der mit ihm verfolgten Ziele im
+Rahmen der Zielerreichungsanalyse &#252;berpr&#252;ft werden. Dabei werden nicht nur die unmittelbaren Wirkungen des 
+CsgG in Bund, Bundesl&#228;ndern und Kommunen, sondern dar&#252;ber hinaus auch die mittelbaren Wirkungen, die sich
+infolge der Umsetzung der Bevorrechtigungen durch die und in den Kommunen bereits ergeben haben bzw.
+erwartet werden, betrachtet.
+Der Messung der Zielerreichung liegt das folgende Zielsystem zugrunde, das auf den im CsgG und dessen
+Begr&#252;ndung genannten Zielen66 gr&#252;ndet.
+66 Deutscher Bundestag 2017.
+Bild 3-2: Systematisierung der Ziele des CsgG
+(Quelle: Eigene Darstellung)
+3.2 Empirisches Vorgehen und Stichprobenbeschreibung
+Die Zielerreichungsanalyse fu&#223;t auf eigenen empirischen Erhebungen bei den Bundesl&#228;ndern, den Kommunen 
+und Kommunalverb&#228;nden, den Carsharinganbietern und den Verkehrsteilnehmern.
+Zu beachten ist dabei, dass erst mit der 54. Verordnung zur &#196;nderung stra&#223;enverkehrsrechtlicher Vorschriften
+vom 20. April 2020 (im Folgenden StVO-Novelle) von der Erm&#228;chtigungsgrundlage im CsgG Gebrauch gemacht
+wurde und die f&#252;r die Anordnung von Parkbevorrechtigungen f&#252;r Carsharingfahrzeuge erforderlichen
+Anordnungsgrundlagen und Zeichen in die Stra&#223;enverkehrs-Ordnung (StVO) aufgenommen worden sind. Aufgrund der
+K&#252;rze der Zeit zwischen StVO-Novelle und Erhebungszeitraum wurden im Rahmen der Befragungen nicht nur
+beobachtbares Verhalten und bereits umgesetzte Ma&#223;nahmen erfasst, sondern zus&#228;tzlich auch Erwartungen und
+Planungen. Diese bilden einen guten Pr&#228;diktor f&#252;r zuk&#252;nftiges Verhalten und erm&#246;glichen es insofern, kurz- und
+mittelfristig zu erwartende Ver&#228;nderungen zu erfassen.
+Das methodische Vorgehen der Erhebungen wird im Folgenden kurz erl&#228;utert. Die verwendeten Frageb&#246;gen
+(Kommunen und Kommunalverb&#228;nde; Anbieter; Fahrtberechtigten) befinden sich im Anhang.
+Abfrage bei den Bundesl&#228;ndern
+Die Bundesl&#228;nder wurden im September 2020 per E-Mail nach dem Umsetzungsstand und den
+Umsetzungsabsichten des CsgG befragt. Nahezu alle Bundesl&#228;nder (15 von 16) haben geantwortet. Die fehlenden Angaben und
+die Entwicklung seit der Abfrage (September 2020) wurden durch Internetrecherchen erg&#228;nzt.
+Befragung der Kommunen und Kommunalverb&#228;nde
+Ziel der Befragung von Kommunen und Kommunalverb&#228;nden ist es, Informationen zum kommunalen
+Carsharingangebot, bisherige Umsetzungspraktiken und zuk&#252;nftige Absichten zur Bevorrechtigung von
+Carsharingfahrzeugen im Sinne des CsgG auf kommunaler Ebene abzufragen. Im Kern geht es dabei darum, Vertreter von
+Kommunen dahingehend zu befragen, inwieweit sie Ma&#223;nahmen und Ma&#223;nahmenpakete im Sinne des CsgG auf
+kommunaler Ebene angewendet haben und inwieweit dies mit den Zielen zur F&#246;rderung von Carsharing, der
+Attraktivierung des &#246;ffentlichen Raums und der Reduzierung von Verkehrsbelastungen korrespondiert. Neben
+Kommunen, die bereits &#252;ber Carsharingangebote verf&#252;gen, sollen auch Einsch&#228;tzungen von Kommunen, die bisher nicht
+&#252;ber Carsharingangebote verf&#252;gen, eingeholt werden.
+Grundlage ist ein standardisierter Fragebogen &#252;ber das Befragungstool LimeSurvey, der am 19. Oktober 2020 an
+330 Kommunen &#252;ber einen eigens recherchierten Verteiler mit kommunalen Ansprechpartnern und
+Ansprechpartnerinnen versendet wurde. Etwa zwei Wochen nach dem Erstkontakt wurde eine Erinnerungsmail mit der
+Bitte zur Teilnahme verschickt. Zus&#228;tzlich haben sowohl der Deutsche St&#228;dtetag als auch der Deutsche St&#228;dte-
+und Gemeindebund den Befragungslink inklusive Anschreiben an ihre Mitglieder versendet. Nachgelagert
+wurden vertiefende telefonische Interviews (n=4) mit ausgew&#228;hlten Kommunen gef&#252;hrt, um weiterf&#252;hrende
+Informationen zu erhalten und die Ergebnisse zu vertiefen.
+Insgesamt liegen von 151 Kommunen und Kommunalverb&#228;nden auswertbare Datens&#228;tze vor, davon 24
+Kleinst&#228;dte, 68 Mittelst&#228;dte und 47 Gro&#223;st&#228;dte. Hinzu kommen 12 Kommunalverb&#228;nde. Vertreten sind dabei 19 der
+20 gr&#246;&#223;ten St&#228;dte in Deutschland. Die 151 Kommunen decken 90% des gegenw&#228;rtigen Bestands an
+Carsharingfahrzeugen ab. Mit Ausnahme des Saarlandes ist aus jedem Bundesland mindestens eine Kommune vertreten. 
+Anbieterbefragung
+Die Befragung von Carsharinganbietern hat zum Ziel, Erkenntnisse und Meinungen zur Wirkung und Qualit&#228;t
+des CsgG aus der Perspektive der Anbieter zu erlangen. Dabei geht es zum einen darum, bisherige Erfahrungen
+aus der Umsetzungspraxis sowie der Zusammenarbeit mit den Kommunen zu analysieren, und zum anderen
+darum, zuk&#252;nftige Planungen bez&#252;glich potentieller Ausbauaktivit&#228;ten des Carsharingangebotes zu erfassen und 
+daraus m&#246;gliche Anpassungen des CsgG abzuleiten.
+Grundlage ist ein standardisierter Fragebogen &#252;ber das Befragungstool LimeSurvey, der am 20. Oktober 2020 
+&#252;ber den Bundesverband Carsharing an insgesamt 179 Anbieter (173 Mitglieder und zus&#228;tzlich 6 Anbieter von
+stationsunabh&#228;ngigem Carsharing) versendet wurde. Nach einer Woche erfolgte eine Erinnerungsmail zur
+Teilnahme an der Erhebung. Auch hier wurden nachgelagert noch vertiefende Interviews mit unterschiedlichen
+Carsharinganbietern gef&#252;hrt, um die Ergebnisse zu validieren.
+Es liegen auswertbare Frageb&#246;gen von 44 Anbietern vor. Dies sind etwa 25 % der Carsharinganbieter in
+Deutschland. Diese 44 Anbieter vereinen 75% der in Deutschland angebotenen Carsharingfahrzeuge auf sich.67 Von den 
+44 befragten Anbietern sind mehr als zwei Drittel (70 %) dem Typus des stationsbasierten Carsharing zuzuordnen.
+Fast jeder zehnte Anbieter (9 %) l&#228;sst sich dem stationsunabh&#228;ngigen Typus zuordnen und rd. jeder f&#252;nfte (21 %)
+dem kombinierten Carsharingtypus. Damit bildet die Befragungsstichprobe in der Tendenz die tats&#228;chlichen
+Anbieterstrukturen Deutschlands, die von den stationsbasierten Anbietern dominiert werden, ab.
+Befragung der Fahrtberechtigten
+Eine weitere Befragung konzentriert sich auf die Fahrtberechtigten (hierbei handelt es sich um die Mitglieder in
+Carsharingvereinen, die Kunden von Carsharingunternehmen, die Genossen von Carsharinggenossenschaften
+usw.). Damit werden (potentielle) nutzerbezogene Effekte durch das CsgG ermittelt. Im Fokus steht dabei die
+Kernfrage, inwieweit die Anwendung des CsgG zu Entlastungseffekten von Fahrten mit dem privaten Pkw f&#252;hrt
+oder sogar der Besitz eines privaten Pkw zur Disposition steht, so dass es zu einer verst&#228;rkten Nutzung des
+Umweltverbundes kommt. Die Befragung erfolgt ebenfalls &#252;ber einen standardisierten Fragebogen &#252;ber das
+Befragungstool LimeSurvey. Die Kontaktaufnahme unterst&#252;tzen der bcs und die Carsharinganbieter, die den Link zum
+Online-Fragebogen an ihre Mitglieder versenden. Dies ist in der KW 44 (26. Oktober 2020 bis 30. Oktober 2020)
+geschehen. 
+67 Vgl. Statista (2020): https://de.statista.com/statistik/daten/studie/324695/umfrage/carsharing-fahrzeuge-in-deutschland/. Letzter
+Zugriff: 12.12.2020.
+Es liegen auswertbare Datens&#228;tze von 5.623 Fahrtberechtigten vor. Die folgende Tabelle gibt einen &#220;berblick
+&#252;ber ausgew&#228;hlte soziodemografische Merkmale und deren Verteilung in der Stichprobe.
+Tab. 3-1: Soziodemografische Merkmale der befragten Fahrtberechtigten
+(Quelle: KE-CONSULT, studio next mobility, 
+Fahrtberechtigtenbefragung Carsharing 2020; n=5.623)
+Anteil
+Geschlecht
+M&#228;nnlich 59,8 %
+Weiblich 39,4 %
+Divers 0,8 %
+Alter
+unter 20 Jahre 0,2 %
+20 bis unter 30 Jahre 6,3 %
+30 bis unter 40 Jahre 18,0 %
+40 bis unter 50 Jahre 23,5 %
+50 bis unter 60 Jahre 31,7 %
+60 bis unter 70 Jahre 16,0 %
+70 Jahre und &#228;lter 4,5 %
+Einkommen (Netto)
+Bis unter 1.000 Euro pro Monat 1,9 %
+1.000 bis unter 2.000 Euro pro Monat 12,9 %
+2.000 bis unter 3.000 Euro pro Monat 25,3 %
+3.000 bis unter 5.000 Euro pro Monat 38,1 %
+&#252;ber 5.000 Euro pro Monat 21,8 %
+Anmerkung: Bei vielen Anbietern liegt das Mindestalter f&#252;r eine Fahrtberechtigung bei 21 bzw. 25 Jahren. Von daher ist die
+Gruppe der Unter-20-J&#228;hrigen sehr klein.
+Qualit&#228;t der Stichproben
+Die Qualit&#228;t einer Untersuchung h&#228;ngt nicht nur von der Stichprobe ab, sondern auch vom Konzept der
+Evaluierung, den Formulierungen der Fragen sowie der Durchf&#252;hrung der Feldarbeit und der Aufarbeitung der
+Ergebnisse. All diese Aspekte sind bei der Evaluation des Carsharinggesetzes in hoher Qualit&#228;t umgesetzt worden. Die
+drei quantitativen Elemente der Stichprobe (Kommunen und Kommunalverb&#228;nde, Anbieter und Fahrtberechtige)
+wurden mittels einer Online-Erhebung durchgef&#252;hrt. Das hei&#223;t, die Ergebnisse sind prinzipiell nur f&#252;r die online
+erreichbaren Probanden verallgemeinerbar. Bei der Befragung der Kommunen und Kommunalverb&#228;nde sowie
+der Anbieter ist ein Online-Zugang bei der Grundgesamtheit vorhanden, so dass prinzipiell alle die gleiche Chance
+haben, in die Stichprobe zu gelangen. In Anbetracht dieses Umstands, der Gr&#246;&#223;e der Stichproben und deren
+Diversit&#228;t, kann entsprechend von einer belastbaren Datenbasis ausgegangen werden. Die Rekrutierung der
+Fahrtberechtigen erfolgte &#252;ber mehrere Kan&#228;le, &#252;ber welche die Mitglieder der Carsharinganbieter per E-Mail zur Online-
+Befragung eingeladen wurden. Da der &#252;berwiegende Teil der Mitglieder &#252;ber eine E-Mail-Adresse registriert ist, 
+vor allem bei den gro&#223;en stationsbasierten Anbietern sowie bei den stationsunabh&#228;ngigen Anbietern ist davon 
+auszugehen, dass ein relevanter Anteil der Grundgesamtheit der Carsharingnutzer durch diese Strategie erreicht
+werden konnte. Auch hier sprechen Stichprobengr&#246;&#223;e und Diversit&#228;t der Stichprobe f&#252;r eine belastbare
+Datengrundlage. Die Stichprobe der Fahrtberechtigten ist aufgrund der Selektivit&#228;t der Carsharingnutzer (z. B.
+Einkommen, Wohnstandort) jedoch nicht auf die deutsche Gesamtbev&#246;lkerung verallgemeinerbar. Aufgrund der
+Diversit&#228;t und den Fallzahlen der Stichproben sowie des Anteils von Nichtnutzern bei den Fahrtberechtigten bzw. der
+Anzahl von Kommunen, die bislang kein Carsharing umgesetzt haben, kann von einer hohen Belastbarkeit und
+Aussagekraft der Ergebnisse ausgegangen werden. 
+4 Erfolgskontrolle des Carsharinggesetzes
+Die Evaluation wird im Rahmen eines IOOI-Ansatzes durchgef&#252;hrt (siehe Kapitel 3). In diesem Kapitel werden 
+die Ergebnisse vorgestellt.
+&#8226; Kapitel 4.1 bildet den Input, also das Gesetz selbst, ab. Dies umfasst den rechtlichen Rahmen einschlie&#223;lich 
+der Ausgestaltung der Bevorrechtigungen und Begriffsbestimmungen, die Ziele des Gesetzes und den
+finanziellen Aufwand.
+&#8226; In Kapitel 4.2 werden die Outputwirkungen untersucht. Hier geht es vor allem darum, welche Ma&#223;nahmen
+zur Bevorrechtigung des Carsharing durch das CsgG in den L&#228;ndern und in den Kommunen ausgel&#246;st
+wurden.
+&#8226; In Kapitel 4.3 wird der Outcome dargestellt. Dies umfasst die Reaktionen der Anbieter und der Nachfrager
+im Carsharingmarkt.
+&#8226; Kapitel 4.4 widmet sich dem Impact, also den langfristigen Wirkungen auf volkswirtschaftliche Gr&#246;&#223;en,
+Verkehr und Umwelt.
+&#8226; Kapitel 4.5 pr&#252;ft die Vollzugs- und die Ma&#223;nahmenwirtschaftlichkeit des CsgG.
+Dabei ist von verschiedenen Wirkungszusammenh&#228;ngen zwischen Input und Impact auszugehen. Das CsgG selbst
+st&#246;&#223;t Entwicklungen auf Bundes-, Landes- und auch auf kommunaler Ebene an, wirkt sozusagen als Katalysator
+(Input). Im ersten Schritt reagieren der Bund mit der Einf&#252;hrung von Anordnungsgrundlagen und Zeichen in die
+StVO sowie die L&#228;nder mit den Landesgesetzen bzw. -regelungen (Output). Im zweiten Schritt reagieren die
+Kommunen mit der Umsetzung der durch Bundes- und Landesrecht erm&#246;glichten Bevorrechtigungen von
+Carsharingfahrzeugen (Output). 
+Die Output-Wirkungen bieten den Carsharinganbietern die M&#246;glichkeit, ihr Angebot in den Kommunen
+auszuweiten. Gleichzeitig werden die Verkehrsteilnehmer stimuliert, ihre Carsharingnutzung auszudehnen. Daraus
+ergibt sich das Potential f&#252;r eine h&#246;here Marktdurchdringung gemessen in Fahrzeugen, Nutzungen,
+Fahrzeugkilometern etc. (Outcome) und dies kann schlie&#223;lich zu nachhaltigen Ver&#228;nderungen im Verkehrssystem mit den 
+damit verbundenen Umwelt- und gesamtwirtschaftlichen Wirkungen f&#252;hren. Damit st&#246;&#223;t das CsgG eine
+Wirkungskette an, die &#252;ber die Aktivit&#228;ten des Bundes, der L&#228;nder und der Kommunen den Carsharingmarkt
+stimulieren soll, was wiederum eine h&#246;here Marktdurchdringung des Carsharing beg&#252;nstigt und somit die mit dem 
+Carsharing verbundenen Verkehrs- und Umweltwirkungen beg&#252;nstigen kann.
+Mit den in den folgenden Kapiteln dargestellten Evaluationsergebnissen werden die verschiedenen
+Evaluationsebenen beschrieben und die Wirkungszusammenh&#228;nge und -ketten &#8211; soweit m&#246;glich &#8211; quantitativ belegt.
+4.1 Das Carsharinggesetz (Input)
+2017 trat das CsgG in Kraft. &#8222;Mit dem Gesetz zur Bevorrechtigung des Carsharing verfolgt die Bundesregierung
+das Ziel, das Carsharing zu f&#246;rdern.&#8220;68 Mit diesem Ziel sind eine Reihe weiterer, vor allem in der Begr&#252;ndung
+zum Gesetz genannter Ziele verbunden. Hauptziel ist die Verringerung von klima- und umweltsch&#228;dlichen
+Auswirkungen des motorisierten Individualverkehrs (vgl. &#167; 1 CsgG). Diesem Hauptziel sind die folgenden Unterziele
+untergeordnet (in der Reihenfolge ihrer Nennung)69 
+&#8226; die bundesweite F&#246;rderung von Gesch&#228;ftsmodellen f&#252;r das Carsharing,
+68 Deutscher Bundestag 2017.
+69 Deutscher Bundestag 2017.
+&#8226; die Verringerung des motorisierten Individualverkehrs,
+&#8226; die Vernetzung des &#214;ffentlichen Personennahverkehrs,
+&#8226; die Entlastung von stra&#223;enverkehrsbedingten Luftschadstoffen,
+&#8226; die Entlastung des &#246;ffentlichen Raumes,
+&#8226; das Schlie&#223;en der L&#252;cke zwischen den Verkehrsmitteln des Umweltverbundes,
+&#8226; der Ersatz privater Pkw,
+&#8226; die erh&#246;hte Marktdurchdringung mit neuen und umweltschonenden Antriebstechnologien,
+&#8226; die Vereinfachung und St&#228;rkung der Nutzung von Carsharing,
+&#8226; die F&#246;rderung einer nachhaltigen Mobilit&#228;t,
+&#8226; die Verbesserung der Bedingungen f&#252;r die Leistungsf&#228;higkeit der Volkswirtschaft.
+Das CsgG erm&#228;chtigt den Verordnungsgeber zu diesem Zweck, stra&#223;enverkehrsrechtliche Regelungen zur
+Bevorrechtigung des Carsharing zu erlassen. Dabei ist zu unterscheiden zwischen stationsbasiertem und
+stationsunabh&#228;ngigem Carsharing. Zum weiteren Verst&#228;ndnis seien hier zun&#228;chst die zentralen Begriffe gekl&#228;rt (vgl. &#167; 2
+Nummer 1 bis 4 CsgG).
+&#8226; Ein Carsharingfahrzeug
+o ist ein Kraftfahrzeug,
+o steht einer unbestimmten Anzahl von Fahrern zur Verf&#252;gung,
+o wird selbst&#228;ndig reserviert und genutzt,
+o wird auf Grundlage einer Rahmenvereinbarung genutzt.
+o Der Nutzungstarif (Zeit- oder Kilometertarife oder deren Mischformen) f&#252;r ein Carsharingfahrzeug
+schlie&#223;t die Energiekosten ein.
+&#8226; Ein Carsharinganbieter ist ein Unternehmen (rechtsformunabh&#228;ngig) und bietet Carsharingfahrzeuge zur
+&#8222;Nutzung f&#252;r eine unbestimmte Anzahl von Kunden&#8220; an.70 
+&#8226; Stationsunabh&#228;ngiges Carsharing ist ein Angebotsmodell, bei dem die Nutzung des Fahrzeugs nicht an
+festgelegte Abhol- und R&#252;ckgabestellen gebunden ist.
+&#8226; Stationsbasiertes Carsharing ist ein Angebotsmodell, bei dem Fahrzeuge an festgelegten Abhol- und
+R&#252;ckgabestellen abgeholt bzw. abgegeben werden.
+Die Unterscheidung dieser beiden Carsharingvarianten in &#167; 2 Nummer 3 und 4 CsgG ist wichtig f&#252;r die
+Unterscheidung der im CsgG vorgesehenen Bevorrechtigungen. Die im CsgG angesprochenen Bevorrechtigungsarten
+umfassen:
+&#8226; Das &#8222;Parken auf &#246;ffentlichen Stra&#223;en oder Wegen&#8220; (&#167; 3 Absatz 2 Nummer 1 CsgG) sowie &#8222;das Erheben von 
+Geb&#252;hren f&#252;r das Parken auf &#246;ffentlichen Stra&#223;en oder Wegen&#8220; (&#167; 3 Absatz 2 Nummer 2 CsgG).
+&#8226; Das CsgG sieht vor, dass die Bevorrechtigungen in Rechtsverordnungen n&#228;her bestimmt, Einzelheiten zur
+Inanspruchnahme festgelegt sowie die erforderlichen Verkehrszeichen und -einrichtungen bestimmt werden
+k&#246;nnen (&#167; 3 Absatz 3 und 4 CsgG).
+&#8226; Diese Bevorrechtigungen k&#246;nnen sowohl von stationsunabh&#228;ngigen als auch von im Rahmen von
+stationsbasierten Modellen angebotenen Carsharingfahrzeugen in Anspruch genommen werden. Voraussetzung ist
+die Kennzeichnung als Carsharingfahrzeug (vgl. &#167; 4 Absatz 1 CsgG).
+&#8226; Stationsbasierten Carsharingfahrzeugen kann dar&#252;ber hinaus an &#8222;einer Ortsdurchfahrt im Zuge einer
+Bundesstra&#223;e&#8220; ein Sondernutzungsrecht &#8222;zum Zwecke der Nutzung als Stellfl&#228;chen&#8220; einger&#228;umt werden (&#167; 5 
+Absatz 1 Satz 1 CsgG).
+70 Im CsgG ist die Rede davon, dass ein Carsharinganbieter &#8222;ein Unternehmen&#8220; ist (&#167; 2 Nummer 2). In der Begr&#252;ndung zu &#167; 2 wird 
+erl&#228;utert, dass diese Formulierung die Abgrenzung zum &#8222;sog. privaten Carsharing sowie zur Verhinderung der missbr&#228;uchlichen
+Ausnutzung der Bevorrechtigungen&#8220; darstellt, dass aber &#8222;auch Vereine [&#8230;] oder etwa Genossenschaften&#8220; mit erfasst sind.
+&#8226; Die Fl&#228;chen k&#246;nnen einem oder mehreren Anbietern f&#252;r einen Zeitraum von &#8222;l&#228;ngstens acht Jahren&#8220; (&#167; 5 
+Absatz 2 Satz 1 CsgG) zur Verf&#252;gung gestellt werden. Die Eignung der Anbieter orientiert sich an
+verschiedenen Kriterien, die in der Anlage zu &#167; 5 Absatz 4 Satz 3 definiert sind. Diese sind (Auswahl):
+o Teilnahmeberechtigungen werden diskriminierungsfrei zur Verf&#252;gung gestellt. M&#246;glich sind jedoch
+Einschr&#228;nkungen aufgrund des Mindestalters, der Dauer des F&#252;hrerscheinbesitzes und der Bonit&#228;t.
+o Verpflichtend sind ein 24-st&#252;ndiger Betrieb und die M&#246;glichkeit der Kurzzeitnutzung. 
+o Inhabern von &#214;PNV-Zeitkarten sollen Verg&#252;nstigungen gew&#228;hrt werden.
+o Je Fahrzeug sind abh&#228;ngig von der Flottengr&#246;&#223;e mindestens 10 bzw. 15 Fahrtberechtigte registriert.
+Ebenfalls in den Inputs zu ber&#252;cksichtigen ist der finanzielle Aufwand, der mit der Gesetzesanwendung
+verbunden ist. In der Begr&#252;ndung zum CsgG wird der finanzielle Aufwand aufgef&#252;hrt.71 Dieser entf&#228;llt laut Begr&#252;ndung
+des CsgG auf verschiedene Aggregate in unserer Gesellschaft in unterschiedlichem Ma&#223;e:
+&#8226; F&#252;r B&#252;rger entsteht kein Erf&#252;llungsaufwand.
+&#8226; Durch Verfahrensanpassungen und Schulungserfordernisse entsteht f&#252;r die Carsharinganbieter ein
+einmaliger Personalaufwand von etwa 2,2 Mio. Euro. Es wird zus&#228;tzlich von einem j&#228;hrlichen Mehraufwand von
+40.000 Euro ausgegangen.
+&#8226; Durch die Rechtsaufsicht des BMVI f&#228;llt dort Erf&#252;llungsaufwand in H&#246;he von 95.450 Euro pro Jahr an.
+&#8226; F&#252;r Verfahrensanpassungen und Schulungen f&#228;llt bei den Bundesl&#228;ndern und Kommunen
+Erf&#252;llungsaufwand an. Dieser liegt einmalig bei 3 Mio. Euro und j&#228;hrlich bei 631.300 Euro (630.000 Euro Personal- und
+1.300 Euro Sachaufwand).
+&#8226; Weitere Kosten k&#246;nnen f&#252;r die Carsharinganbieter durch die Geb&#252;hr f&#252;r die Inanspruchnahme von
+Stellfl&#228;chen im &#246;ffentlichen Stra&#223;enraum (stationsbasiertes Carsharing) entstehen. Da diese Geb&#252;hr im Ermessen
+der Kommunen liegt, wird zum Kostenumfang in der Begr&#252;ndung zum CsgG keine Aussage getroffen.72
+4.2 Regelungen des Bundes, der Bundesl&#228;nder sowie der Kommunen und
+Kommunalverb&#228;nde (Output)
+Durch das CsgG sind Folgeaktivit&#228;ten im Bund, in den Bundesl&#228;ndern und in den Kommunen und
+Kommunalverb&#228;nden angesto&#223;en worden. In Kapitel 4.2.1 werden die Aktivit&#228;ten des Bundes und der L&#228;nder erfasst. Kapitel 
+4.2.2 arbeitet heraus, wie die Bevorrechtigungen von Carsharingfahrzeugen bereits in den Kommunen und
+Kommunalverb&#228;nden umgesetzt wurden bzw. welche Ma&#223;nahmen und Umsetzungsschritte die Kommunen und
+Kommunalverb&#228;nde planen.
+4.2.1 Stra&#223;enverkehrs-Ordnung und Regelungen der L&#228;nder
+Die Verabschiedung des CsgG im Jahr 2017 hat bis heute weitere gesetz- und verordnungsgebende Verfahren in
+Gang gesetzt. Dies betrifft die Gesetz- bzw. Verordnungsgebung des Bundes (StVO) und der L&#228;nder.
+Mit der 54. Verordnung zur &#196;nderung stra&#223;enverkehrsrechtlicher Vorschriften vom 20. April 2020,73 in Kraft
+getreten am 28. April 2020, schuf der Verordnungsgeber die zur Vorhaltung von Parkl&#228;tzen f&#252;r
+Carsharingfahrzeuge sowie zu deren Geb&#252;hrenfreistellung erforderlichen Anordnungsgrundlagen und Zeichen. Grundlage dieser
+&#196;nderungen sind die &#167; 3 Absatz 3 und &#167; 4 Absatz 3 CsgG, durch die das Bundesministerium f&#252;r Verkehr und
+digitale Infrastruktur erm&#228;chtigt wird, gemeinsam mit dem Bundesministerium f&#252;r Wirtschaft und Energie und
+dem Bundesministerium f&#252;r Umwelt, Naturschutz und nukleare Sicherheit die Bevorrechtigungen n&#228;her zu
+bestimmen und die weiteren Einzelheiten, wie zum Beispiel die Kennzeichnung von Carsharingfahrzeugen, zu
+regeln.
+Parkbevorrechtigungen von Carsharingfahrzeugen k&#246;nnen seitdem von den zust&#228;ndigen
+Stra&#223;enverkehrsbeh&#246;rden nach &#167; 45 Absatz 1h StVO durch die Zeichen 314, 314.1 und 315 in Verbindung mit dem dazu vorgesehenen
+Zusatzzeichen mit Carsharingsinnbild nach &#167; 39 Absatz 11 Satz 1 StVO angeordnet werden. Voraussetzung f&#252;r
+die Inanspruchnahme der Bevorrechtigungen ist die Kennzeichnung als Carsharingfahrzeug mit der in &#167; 39
+Absatz 11 Satz 2 StVO abgebildeten Carsharingplakette. 
+71 Zum Folgenden vergleiche Deutscher Bundestag 2017: 24f.
+72 Deutscher Bundestag 2017.
+73 54. Verordnung zur &#196;nderung stra&#223;enverkehrsrechtlicher Vorschriften vom 20. April 2020 (BGBl. I S. 814).
+Bild 4-1: Zusatzzeichen &#8222;Carsharing&#8220;, Zusatzzeichen &#8222;Carsharingfahrzeuge frei&#8220; und
+Carsharingplakette 
+(Quelle: Bundesanstalt f&#252;r Stra&#223;enwesen 2020)
+Im Nachgang zur Verabschiedung des CsgG des Bundes sind zudem in den meisten Bundesl&#228;ndern dem &#167; 5 CsgG
+entsprechende stra&#223;enrechtliche Landesregelungen (bspw. Artikel 18a des Bayerischen Stra&#223;en- und
+Wegegesetzes, &#167;18a des Stra&#223;en- und Wegegesetzes des Landes Nordrhein-Westfalen) f&#252;r stationsbasiertes Carsharing auf 
+Stra&#223;en nach Landesrecht erlassen worden bzw. in Vorbereitung (Bild 4-1). Die folgenden Ausf&#252;hrungen basieren
+auf einer Abfrage bei den Bundesl&#228;ndern und Erg&#228;nzungen der Angaben durch eigene Internetrecherchen.
+Bild 4-2: Stand der Gesetzgebung zum stationsbasierten Carsharing auf Stra&#223;en nach
+Landesrecht in den Bundesl&#228;ndern, Stand September 2020
+(Quelle: Abfrage bei den Verkehrsministerien der Bundesl&#228;nder)
+Sofern im Folgenden von &#8222;Regelungen und Bevorrechtigungen im Sinne des CsgG&#8220; die Rede sein wird, sind
+damit das CsgG, die auf diesem beruhenden Regelungen der StVO und die korrespondierenden stra&#223;enrechtlichen
+Landesgesetze bzw. -regelungen zum stationsbasierten Carsharing auf Stra&#223;en nach Landesrecht sowie die dort
+intendierten Bevorrechtigungen gemeint.
+Bild 4-3: Regelungen und Bevorrechtigungen im Sinne des CsgG
+(Quelle: eigene Darstellung)
+4.2.2 Umsetzung in den Kommunen und Kommunalverb&#228;nden
+Die Regelungen im Sinne des CsgG in Bund und L&#228;ndern geben den Kommunen und Kommunalverb&#228;nden die
+M&#246;glichkeit, Carsharingfahrzeuge zu bevorrechtigen. 
+In diesem Abschnitt wird gepr&#252;ft und herausgearbeitet, ob und inwieweit die Bevorrechtigungen im Sinne des
+CsgG in den Kommunen umsetzbar sind, welche Umsetzungsschritte bereits erfolgt und welche Schritte in
+Zukunft geplant sind. Die Darstellung der Ergebnisse erfolgt anhand zentraler Aussagen, die aus den Ergebnissen
+der Onlinebefragung der Kommunen und Kommunalverb&#228;nde (vgl. Kap. 3.2) abgeleitet wurden. 
+Die unterschiedlich gro&#223;e Anzahl von Antworten ist zum Teil auf die Filterf&#252;hrung des Fragebogens
+zur&#252;ckzuf&#252;hren, wodurch einzelne Fragen nur bestimmten Teilstichproben gestellt wurden. Weiterhin bestand f&#252;r die
+teilnehmenden Kommunen die M&#246;glichkeit, einzelne Fragen zu &#252;berspringen, was zu einer weiteren Reduktion der 
+Antworten f&#252;hren konnte.
+Das CsgG ist den Kommunen und Kommunalverb&#228;nden mehrheitlich bekannt.
+Grundvoraussetzung f&#252;r die Anwendung der Regelungen im Sinne des CsgG ist, dass die Kommunen und
+Kommunalverb&#228;nde das Gesetz bzw. die auf dem CsgG Bevorrechtigungsm&#246;glichkeiten kennen. Dies ist bei den
+befragten Kommunen und Kommunalverb&#228;nden mehrheitlich der Fall: 63 % der befragten Vertreter der Kommunen 
+und Kommunalverb&#228;nde kennen das CsgG. Bei den Kommunen, die Carsharing bereits nutzen, ist der Anteil
+derer, die das CsgG kennen, mit 70 % weit h&#246;her als bei den Kommunen, die kein Carsharing nutzen. Bei diesen
+kennen lediglich 45 % das CsgG. Hier ist ein erster Ansatzpunkt f&#252;r eine bessere Aussch&#246;pfung des
+Wirkungspotentials des CsgG erkennbar.
+Das CsgG st&#246;&#223;t Prozesse in den Kommunen und Kommunalverb&#228;nden ohne Carsharing an.
+F&#252;r Kommunen und Kommunalverb&#228;nde ohne Carsharingangebot hat das CsgG vielfach einen Prozess ausgel&#246;st,
+sich mit dem Carsharing als Mobilit&#228;tsalternative zu befassen. Von den 44 Kommunen und Kommunalverb&#228;nden,
+in denen bisher kein Carsharingangebot existiert, planen 19, Carsharing als Mobilit&#228;tsalternative umzusetzen.
+Von diesen geben wiederum 10 an, dass die Regelungen im Sinne des CsgG ihr Interesse am Carsharing gest&#228;rkt
+haben.
+Die Ausgestaltung des CsgG st&#246;&#223;t in den Kommunen mehrheitlich auf Zustimmung, vereinzelt werden
+auch Schw&#228;chen gesehen.
+Die Kommunen und Kommunalverb&#228;nde mit Carsharing bewerten die gesetzlichen Regelungen (CsgG, StVO,
+Landesregelungen) &#252;berwiegend positiv. Auf die Frage nach der Zufriedenheit mit den verschiedenen Regelungen
+wird vor allem das CsgG mehrheitlich positiv bewertet (vgl. Tab. 4-1). 60% der Kommunen sind zufrieden mit
+der Ausgestaltung des CsgG, 46 % mit den Regelungen in der StVO und 38 % mit den jeweiligen Landesgesetzen
+und -verordnungen. Der Anteil der Kommunen, die mit den jeweiligen Regelungen nicht zufrieden sind, liegt
+zwischen 11 % und 14 %. Relativ hoch ist der Anteil derer, die keine Einsch&#228;tzung abgeben.
+Tab 4-1: Zufriedenheit der Kommunen und Kommunalverb&#228;nde mit den 
+gesetzlichen Regelungen
+(Quelle: KE-CONSULT, studio next mobility, Kommunalbefragung CsgG 2020; nges=10774)
+Wie zufrieden sind Sie insgesamt mit der Ausgestaltung &#8230; ?
+.. des CsgG?
+(auswertbare 
+Antworten, n=78)
+&#8230; der auf dem CsgG
+beruhenden Regelungen 
+der StVO?
+(auswertbare Antworten,
+n=76)
+&#8230;der landesgesetzlichen
+Regelungen? (auswertbare 
+Antworten, n=69)
+zufrieden 60 % 46 % 38 %
+nicht zufrieden 13 % 11 % 14 %
+keine Einsch&#228;tzung 27 % 43 % 48 %
+Anmerkung: Die Kategorien &#8222;sehr zufrieden&#8220; und &#8222;eher zufrieden&#8220; wurden zu &#8222;zufrieden&#8220;, die Kategorien
+&#8222;eher unzufrieden&#8220; und &#8222;sehr unzufrieden&#8220; zu &#8222;unzufrieden&#8220; zusammengefasst.
+Von besonderem Interesse sind die Gr&#252;nde f&#252;r die positiven bzw. negativen Bewertungen des CsgG, der
+diesbez&#252;glichen StVO-Regelungen und der jeweiligen Landesregelungen durch die Kommunen und
+Kommunalverb&#228;nde. Diese konnten in ein Kommentarfeld eingegeben werden und wurden anschlie&#223;end in den Kategorien 
+Vorteil bzw. Nachteil zusammengefasst. Tab. 4-2 zeigt einen Auszug aus den Antworten der Kommunen und
+Kommunalverb&#228;nde. Hierbei handelt es sich zum Teil um Einzelmeinungen, zum Teil wurden die Aspekte von
+mehreren Kommunen genannt. Betont werden u.a. die Herstellung der Rechtssicherheit bei der Bevorrechtigung
+von Carsharingfahrzeugen durch das CsgG und die Landesregelungen sowie die M&#246;glichkeit, diese nun mit
+Mitteln der StVO umsetzen zu k&#246;nnen. Allerdings werden auch Schw&#228;chen genannt. Dies betrifft zum einen die
+Notwendigkeit und Praktikabilit&#228;t der Regelungen. Diese werden vor allem von kleinen Kommunen, die weder
+Parkplatzdruck noch eine Auswahl unter mehreren Anbietern haben, angegeben. Die Verfahren zur Erteilung von
+Sondernutzungsrechten werden als zeit- und personalintensiv angesehen. Zum anderen vermissen die Kommunen 
+Handlungsrichtlinien f&#252;r die Einf&#252;hrung von Bevorrechtigungen. In diesem Zusammenhang wird auch darauf
+hingewiesen, dass es bisher keine Vorgaben dazu gebe, wie die Ausgabe der Plaketten f&#252;r Carsharingfahrzeuge
+durchgef&#252;hrt werden soll. Vorgaben zur Ausgestaltung, Ausgabe und Anbringung der Carsharingplakette wurden
+mit der Verkehrsblattverlautbarung vom 18. August 2020 (VkBl. S. 505) in engem zeitlichem Zusammenhang
+mit der hiesigen Befragung ver&#246;ffentlicht.
+Dar&#252;ber hinaus wird die Durchsetzung der Bevorrechtigungen in einigen Kommunen dadurch erschwert, dass die
+&#246;rtlichen Beh&#246;rden die Kommunalpolitik aufgrund mangelnder Argumente bez&#252;glich des Nutzens des Carsharing
+im Allgemeinen und der Bevorrechtigungen im Sinne des CsgG im Besonderen teilweise nicht &#252;berzeugen
+k&#246;nnen.
+74 Mit &#8222;nges&#8220; und &#8222;n&#8220; werden die Anzahl m&#246;glicher und die Anzahl auswertbarer Antworten angegeben. Deren Gr&#246;&#223;e ist bedingt durch
+Filterf&#252;hrung (nges) und Antwortverhalten (n). Die Anzahl m&#246;glichen Antworten (nges) wird durch die Zugeh&#246;rigkeit der Antworten 
+zu verschiedenen Gruppen bestimmt, bspw. &#8222;Kommunen mit Carsharing&#8220;, &#8222;Kommunen ohne Carsharing&#8220;. Die Anzahl der
+auswertbaren Antworten (n) schlie&#223;t die Befragten aus, die die betreffende Frage &#252;bersprungen haben. Die prozentualen Angaben in den
+Bildern und Tabellen beziehen sich auf die Gr&#246;&#223;e n.
+Tab 4-2: St&#228;rken und Schw&#228;chen der Regelungen im Sinne des CsgG aus Sicht der Kommunen 
+und Kommunalverb&#228;nde - Auswahl aus den Freitexten 
+(Quelle: KE-CONSULT, studio next mobility, Kommunalbefragung CsgG 2020)
+Vorteile, Zweckm&#228;&#223;igkeit, Geeignetheit Nachteile, Schw&#228;chen L&#252;cken
+C
+sg
+G
+ 
+&#8226; Rechtssicherheit bei der Ausweisung von 
+Carsharingparkpl&#228;tzen und 
+-stellfl&#228;chen
+&#8226; M&#246;glichkeit der Ausweisung von 
+Stellfl&#228;chen in Gebieten mit hohem
+Parkdruck
+&#8226; Erweiterung der kommunalen 
+Steuerungsm&#246;glichkeiten
+&#8226; St&#252;tzung des kombinierten Carsharing
+&#8226; Verdeutlichung der Bedeutung des
+Carsharing in einem nachhaltigen 
+&#8226; Hoher Verwaltungsaufwand
+&#8226; Zweifel an der Praktikabilit&#228;t
+&#8226; Begrenzung auf 8-j&#228;hrige
+Sondernutzungsrechte verhindert
+Investitionen
+&#8226; Fehlende Handlungsrichtlinien
+&#8226; Im l&#228;ndlichen Raum ohne Parkplatznot
+hat das CsgG keinen Effekt
+&#8226; Kreis der in Frage kommenden Anbieter
+zu gro&#223;
+Mobilit&#228;tsmix
+&#8226; Erleichterung der Fl&#228;chensuche f&#252;r
+Carsharing
+&#8226; M&#246;glichkeit, Carsharing in der
+&#214;ffentlichkeit sichtbarer zu machen
+&#8226; M&#246;glichkeit der gezielten r&#228;umlichen 
+Verteilung des Carsharing
+&#8226; Ressourceneinsatz zu hoch ohne
+Nachweis des Nutzens
+&#8226; Keine Anreize f&#252;r Beh&#246;rden,
+Gro&#223;unternehmen ihren Fuhrpark f&#252;r
+Carsharing zu &#246;ffnen
+&#8226; Zus&#228;tzliche finanzielle Anreize fehlen
+&#8226; Fehlende Argumente f&#252;r die
+Kommunalpolitik
+La
+nd
+es
+ge
+se
+tz
+e 
+&#8226; Gute praktikable Verfahren mit wenig 
+Aufwand (Bsp. BW)
+&#8226; Vergr&#246;&#223;erter Anwendungsbereich (NW)
+&#8226; Klare Rechtsregelungen und
+Handhabungen (NW)
+&#8226; Fehlende Landesregelung (ST) und 
+deswegen keine Umsetzung auf nicht-
+Bundesstra&#223;en m&#246;glich
+&#8226; Aufw&#228;ndige Verfahren (NW)
+&#8226; Vorgabe zur H&#246;he der
+Sondernutzungsgeb&#252;hren ist ein 
+Hemmnis (TH)
+&#8226; Die landesgesetzliche Regelung kam
+sp&#228;t (BB)
+St
+V
+O
+ 
+&#8226; Verf&#252;gbarkeit eines Schildes und einer
+Plakette
+&#8226; Rechtssicherheit
+&#8226; Praktikable Beschilderung
+&#8226; M&#246;glichkeit, Carsharing in der
+&#214;ffentlichkeit sichtbarer zu machen
+&#8226; Ordnungsamt sieht Umsetzungs- und 
+Durchsetzungsschwierigkeiten
+&#8226; Markierung und Beschilderung 
+entsprechen nicht der bereits ge&#252;bten 
+Praxis und sind nicht hinreichend 
+bekannt
+&#8226; Keine Festlegung, wer f&#252;r die Ausgabe
+der Plakette zust&#228;ndig ist
+&#8226; Die StVO-Novelle kam sp&#228;t
+Das CsgG beeinflusst die kommunalen Aktivit&#228;ten.
+Die Aktivit&#228;ten der Kommunen und Kommunalverb&#228;nde im Bereich Carsharing werden von den Regelungen im
+Sinne des CsgG beeinflusst. 69 % der Kommunen und Kommunalverb&#228;nde mit Carsharing geben an, dass das
+Carsharing durch die Regelungen im Sinne des CsgG unterst&#252;tzt wird. Dabei wird die Unterst&#252;tzung des
+stationsbasierten Carsharing von weitaus mehr Kommunen und Kommunalverb&#228;nden (54) gesehen als die des
+stationsunabh&#228;ngigen (17). Der Einfluss der Regelungen im Sinne des CsgG betrifft insbesondere die Ausweisung von
+anbieterspezifisch zugeordneten Stellfl&#228;chen. F&#252;r 59 % der befragten Kommunen und Kommunalverb&#228;nde haben
+die Regelungen im Sinne des CsgG einen starken Einfluss auf ihre Aktivit&#228;ten bez&#252;glich der Genehmigung von 
+anbieterspezifisch zugeordneten Stellfl&#228;chen im &#246;ffentlichen Stra&#223;enraum.
+Tab 4-3: Einfluss der Bevorrechtigungen im Sinne des CsgG auf die Aktivit&#228;ten der Kommunen 
+und Kommunalverb&#228;nde
+(Quelle: KE-CONSULT, studio next mobility, Kommunalbefragung CsgG 2020; nges=107, 
+n=85)
+In welchem Ausma&#223; beeinflussen die im Folgenden genannten Bevorrechtigungen Ihre Aktivit&#228;ten im
+Bereich Carsharing?
+Wir k&#246;nnen
+allgemeine
+Carsharingparkpl&#228;tze auf
+&#246;ffentlichen Stra&#223;en und 
+Wegen ausweisen.
+Wir k&#246;nnen reservierte,
+anbieterspezifisch zugeordnete
+Carsharingstellfl&#228;chen als
+Sondernutzung im &#246;ffentlichen
+Stra&#223;enraum genehmigen.
+Wir k&#246;nnen
+Parkgeb&#252;hren f&#252;r
+gekennzeichnete
+Carsharingfahrzeuge erm&#228;&#223;igen
+oder erlassen.
+Sehr stark 12 % 26 % 12 %
+Stark 22 % 32 % 21 %
+Gering 20 % 11 % 19 %
+Sehr gering 22 % 6 % 24 %
+keine Einsch&#228;tzung 24 % 24 % 24 %
+In den Kommunen und Kommunalverb&#228;nden werden die Bevorrechtigungen im Sinne des CsgG gew&#228;hrt
+und es werden begleitende Ma&#223;nahmen ergriffen.
+Der konkrete Einfluss der Regelungen im Sinne des CsgG zeigt sich in den bisher umgesetzten und geplanten
+Bevorrechtigungen. Die Kommunen und Kommunalverb&#228;nde haben die M&#246;glichkeiten zur Bevorrechtigung
+bereits ergriffen und werden dies in Zukunft verst&#228;rken. In der Folge entstehen weitere Stellfl&#228;chen und Parkpl&#228;tze
+f&#252;r Carsharingfahrzeuge auf Bundes- und &#252;brigen Stra&#223;en. Die Parkgeb&#252;hren f&#252;r Carsharingfahrzeuge werden 
+erm&#228;&#223;igt.
+Die folgende Tabelle zeigt, dass bereits in den ersten Monaten nach der StVO-Novelle in den Kommunen
+konkrete Aktivit&#228;ten beobachtbar sind.
+Tab 4-4: Anzahl der Kommunen und Kommunalverb&#228;nde, die die
+Bevorrechtigungsm&#246;glichkeiten f&#252;r Carsharingfahrzeuge anwenden oder dies planen
+(Quelle: KE-CONSULT, studio next mobility, Kommunalbefragung CsgG 2020)
+Welche Bevorrechtigungsm&#246;glichkeiten wurden wann angewendet?
+vor seit
+StVO-Novelle StVO-Novelle
+(nges=107) (nges=107)
+Planungen
+(nges=151)
+Kommunen und
+Kommunalverb&#228;nde mit Carsharingstellf&#228;chen 42und -parkpl&#228;tzen auf &#246;ffentlichen 
+Stra&#223;en und Wegen
+Kommunen und
+Kommunalverb&#228;nde mit Parkgeb&#252;hrenerm&#228;&#223;igun- 11gen f&#252;r Carsharingfahrzeuge
+&#8226; Vor der StVO-Novelle gab es in 42 der befragten Kommunen und Kommunalverb&#228;nden
+Carsharingstellfl&#228;chen und -parkpl&#228;tze auf &#246;ffentlichen Stra&#223;en und Wegen. Von dieser Gruppe wird die Rechtssicherheit
+infolge der Regelungen im Sinne des CsgG begr&#252;&#223;t. Mehr als die H&#228;lfte dieser Kommunen und
+Kommunalverb&#228;nde geben an, dass die Anordnung und Kennzeichnung dieser Stellfl&#228;chen und Parkpl&#228;tze gem&#228;&#223; der 
+StVO derzeit in Umsetzung bzw. in Planung ist. 
+&#8226; In 11 der befragten Kommunen und Kommunalverb&#228;nde waren bereits Parkgeb&#252;hrenerm&#228;&#223;igungen
+eingef&#252;hrt.
+&#8226; Seit der StVO-Novelle ist die Anzahl der f&#252;r Carsharingfahrzeuge vorgehaltenen Stellfl&#228;chen und Parkpl&#228;tze
+auf &#246;ffentlichen Stra&#223;en und Wegen weiter gestiegen. 14 Kommunen und Kommunalverb&#228;nde geben an,
+dass die Anzahl der Stellfl&#228;chen bzw. Parkpl&#228;tze f&#252;r Carsharingfahrzeuge seit der StVO-Novelle ausgeweitet
+worden ist. Die Anzahl der Kommunen und Kommunalverb&#228;nde, die Parkgeb&#252;hrenerm&#228;&#223;igungen
+durchgef&#252;hrt haben, hat sich seit der StVO-Novelle ann&#228;hernd verdoppelt. 9 Kommunen und Kommunalverb&#228;nde 
+haben Parkgeb&#252;hrenerm&#228;&#223;igungen eingef&#252;hrt. Zu ber&#252;cksichtigen ist, dass zwischen der StVO-Novelle und 
+dem Zeitpunkt der Befragung gerade einmal ein halbes Jahr vergangen ist, so dass die Zahl der umgesetzten
+Ma&#223;nahmen im Verh&#228;ltnis zu den Planungen eher gering ausf&#228;llt.
+&#8226; Wesentlich deutlicher f&#228;llt die Wirkung aus, wenn die Planungen der Kommunen und Kommunalverb&#228;nde
+betrachtet werden. In 35 Kommunen bzw. Kommunalverb&#228;nden ist die Ausweisung weiterer Stellfl&#228;chen 
+und Parkpl&#228;tze f&#252;r Carsharingfahrzeuge auf &#246;ffentlichen Stra&#223;en und Wegen in Umsetzung oder geplant.
+Werden die konkreten Planungen der befragten Kommunen und Kommunalverb&#228;nde ber&#252;cksichtigt, so wird
+sich in Zukunft die Anzahl der anbieterspezifisch zugeordneten Carsharingstellfl&#228;chen in den befragten
+Kommunen und Kommunalverb&#228;nden auf Bundes- und &#252;brigen Stra&#223;en verdoppeln; die Anzahl der nicht
+anbieterspezifisch zugeordneten Parkpl&#228;tze wird um 30 % steigen (vgl. Tab-4-5). Bez&#252;glich der Reduzierung
+von Parkgeb&#252;hren werden von 5 Kommunen Gr&#246;&#223;enordnungen zwischen 65 % und 100 % genannt. Diese 
+Entwicklung macht eine wesentliche, unmittelbare Wirkung des CsgG auf kommunaler Ebene deutlich.
+Tab 4-5: Carsharingstellf&#228;chen und -parkpl&#228;tze &#8211; Status Quo und Planungen 
+(Quelle: KE-CONSULT, studio next mobility,Kommunalbefragung CsgG 2020)
+Anbieterspezifisch zugeordnete
+Carsharingstellfl&#228;chen auf Bundes- und &#252;brigen Stra&#223;en (n=54)
+Nicht anbieterspezifisch
+zugeordnete Parkpl&#228;tze 
+(n=14)
+Derzeit 1.621 444
+In Planung 1.721 131
+Ver&#228;nderung + 106 % + 30 %
+&#8226; 18 der befragten Kommunen und Kommunalverb&#228;nde beabsichtigen f&#252;r Carsharingfahrzeuge eine
+Erm&#228;&#223;igung bzw. Befreiung von Parkgeb&#252;hren. Bei diesen sind Regelungen zu den Parkgeb&#252;hren entweder bereits
+in Umsetzung oder geplant. Die geplanten Erm&#228;&#223;igungen liegen zwischen 65 % und 100 %.
+Die Akzeptanz der Kommunen und Kommunalverb&#228;nde bzgl. des CsgG und der folgenden Regelungen in Bund 
+und L&#228;ndern sowie der davon ausgehenden Wirkungen zeigt sich auch in den begleitenden Ma&#223;nahmen, die in 
+den Kommunen und Kommunalverb&#228;nden ergriffen werden bzw. in Planung sind.
+&#8226; Ein Viertel der antwortenden Kommunen und Kommunalverb&#228;nde hat bereits eine Bedarfsermittlung f&#252;r
+Carsharingstellfl&#228;chen und -parkpl&#228;tze im &#246;ffentlichen Raum durchgef&#252;hrt bzw. plant diese.
+&#8226; Etwa die H&#228;lfte der antwortenden Kommunen und Kommunalverb&#228;nde hat die Carsharingstellfl&#228;chen
+bereits mit amtlichen Verkehrszeichen angeordnet bzw. plant, dies zu tun.
+Die Auswahlverfahren zur Vergabe von Sondernutzungsrechten werden als hemmend angesehen.
+In einem Teil der Kommunen und Kommunalverb&#228;nde werden durch die Regelungen im Sinne des CsgG auch
+nicht beabsichtigte, hemmende Effekte ausgel&#246;st. Insbesondere die Verfahren zur Vergabe von
+Sondernutzungserlaubnissen f&#252;r Stellfl&#228;chen auf &#246;ffentlichen Stra&#223;en und Wegen werden kritisch gesehen. Hierzu bestimmt &#167; 5 
+Absatz 2 Satz 1 CsgG: &#8222;Die Fl&#228;chen sind [&#8230;] im Wege eines diskriminierungsfreien und transparenten
+Auswahlverfahrens einem Carsharinganbieter [&#8230;] f&#252;r einen Zeitraum von l&#228;ngstens 8 Jahren zur Verf&#252;gung zu stellen
+(Sondernutzungserlaubnis).&#8220;
+Diese Vergabeverfahren werden teilweise als unflexibel und aufw&#228;ndig eingesch&#228;tzt. In der Folge sehen sich 
+einige Kommunen und Kommunalverb&#228;nde in der Unterst&#252;tzung des Carsharing beeintr&#228;chtigt.
+&#8226; Die Vertragslaufzeiten werden von einigen Kommunen als zu kurz angesehen. Dies gilt insbesondere f&#252;r
+Carsharingstationen, an denen potentielle Anbieter Ladeinfrastruktur aufbauen. Diese Ansicht teilen auch
+23 % der befragten Anbieter.
+&#8226; Die Pflicht zur diskriminierungsfreien Anbieterauswahl wird insbesondere in kleinen Kommunen, bei denen
+in der Regel nur ein Anbieter in Frage kommt, als &#252;berfl&#252;ssig empfunden. Hierzu h&#228;lt das CsgG jedoch
+bereits Erleichterungen zur Reduzierung des Verwaltungsaufwandes bereit.
+&#8226; Die Pflicht zur diskriminierungsfreien Anbieterauswahl verhindert nach Aussage einiger Kommunen die
+Vergabe von Sondernutzungsrechten auf Antrag. Gerade dies wurde in der Vergangenheit vielfach als
+notwendig angesehen, um ein tragf&#228;higes und nachhaltiges Carsharingangebot aufzubauen und aufrecht zu
+erhalten.
+&#8226; Die Pflicht zur diskriminierungsfreien Anbieterauswahl stellt f&#252;r einen Teil der Kommunen ein Verfahren
+dar, das mit dem vorhandenen Personal nicht zu realisieren ist. Von den antwortenden Kommunen und
+Kommunalverb&#228;nden halten 42 % die Verfahren zur Bevorrechtigung von Carsharingfahrzeugen f&#252;r zu
+personalintensiv und zu zeitaufw&#228;ndig. Diese Ansicht teilen auch 30 % der befragten Anbieter.
+Dem mit dem Verfahren verbundenen erh&#246;hten Verwaltungsaufwand stehen allerdings auch Vorteile gegen&#252;ber.
+Diese positiven Effekte eines diskriminierungsfreien Verfahrens zur Anbieterauswahl werden von einigen
+Kommunen hervorgehoben. Es werden die folgenden Aspekte genannt:
+&#8226; Der Markt wird f&#252;r weitere Anbieter ge&#246;ffnet. Dies befl&#252;gelt den Wettbewerb und die Vielfalt des
+Carsharingangebotes.
+&#8226; Die Entwicklung von Auswahlverfahren wurde teilweise als aufw&#228;ndig beschrieben. Aus den vertiefenden
+Gespr&#228;chen mit den Kommunen wurde dennoch deutlich, dass die Anwendung eines einmal entwickelten
+Verfahrens als effizient angesehen wird. Insofern wird der einmalige Aufwand bei der
+Verfahrensentwicklung durch effiziente Verfahrensanwendung in der Folge zumindest teilweise kompensiert. 
+&#8226; Mit der Festlegung von Auswahlkriterien wird der Carsharingmarkt aus Sicht der Kommunen &#8222;steuerbar&#8220;.
+So k&#246;nnen bspw. aus kommunaler Sicht bedeutende Umweltgesichtspunkte oder auch Bedienumfang und/
+oder Bediendichte in die Auswahlkriterien aufgenommen werden.
+Die Kommunen und Kommunalverb&#228;nde nutzen die Freiheitsgrade im Sinne des CsgG und ergreifen ihre
+Steuerungsm&#246;glichkeiten bei der Festlegung der Auswahlkriterien f&#252;r die Vergabe von
+Sondernutzungserlaubnissen.
+Insbesondere der letzte Punkt zeigt sich in den von den Kommunen und Kommunalverb&#228;nden angegebenen
+Auswahlkriterien f&#252;r Anbieter von stationsbasiertem Carsharing. 
+&#8226; F&#252;r 85 % der antwortenden Kommunen und Kommunalverb&#228;nde sind schadstoffarme Fahrzeuge wichtig.
+&#8226; 80 % der antwortenden Kommunen und Kommunalverb&#228;nde halten die Verkn&#252;pfung mit dem &#214;PNV f&#252;r
+wichtig.
+&#8226; 76 % der antwortenden Kommunen und Kommunalverb&#228;nde sehen die Vorhaltung verschiedener
+Fahrzeugsegmente zur Abdeckung aller Mobilit&#228;tsbed&#252;rfnisse als wichtiges Auswahlkriterium an.
+&#8226; F&#252;r 58 % ist das Angebot kleiner stadtgerechter Fahrzeuge ein wichtiges Auswahlkriterium.
+Bild 4-4: Bewertung der Auswahlkriterien durch die Kommunen und Kommunalverb&#228;nde
+(Quelle: KE-CONSULT, studio next mobility, Kommunalbefragung CsgG 2020;
+nges=116, n=73)
+Neben den in Bild 4-4 genannten Kriterien zur Auswahl der Carsharinganbieter werden weitere angegeben:
+&#8226; Zertifizierung mit dem blauen Engel,
+&#8226; bereits etablierte, &#246;rtliche Anbieter,
+&#8226; Vor-Ort-Angebote wie bspw. Serviceb&#252;ros,
+&#8226; Vorhalten von Kindersitzen,
+&#8226; Integration in die Tarife des &#214;PNV,
+&#8226; freie Zug&#228;nglichkeit auch f&#252;r die Gruppen, die das Angebot nur selten nutzen,
+&#8226; Verkn&#252;pfung von attraktiven Carsharingparkpl&#228;tzen und -stellfl&#228;chen (in der City, in dichten Wohnlagen)
+mit unattraktiven Standorten (am Stadtrand).
+Die Kommunen und Kommunalverb&#228;nde nutzen die Freiheitsgrade im Sinne des CsgG und ergreifen ihre 
+Steuerungsm&#246;glichkeiten bei der Auswahl der Lagen von Stellfl&#228;chen (&#167; 5 CsgG) und Parkpl&#228;tzen (&#167; 3 
+CsgG).
+Die Steuerungsm&#246;glichkeiten der Kommunen und Kommunalverb&#228;nde werden auch in den Kriterien zur Auswahl
+der Standorte f&#252;r Parkpl&#228;tze und Stellfl&#228;chen deutlich.
+&#8226; 94 % der antwortenden Kommunen und Kommunalverb&#228;nde bef&#252;rworten die Lage in dichten
+Wohnquartieren.
+&#8226; F&#252;r 93 % der Kommunen und Kommunalverb&#228;nde ist die Zentralit&#228;t der Lage wichtig.
+&#8226; 92 % der Kommunen und Kommunalverb&#228;nde sehen die N&#228;he zum &#214;PNV als wichtig an.
+Bild 4-5: Kriterien bei der Auswahl der konkreten Lage der reservierten Stellfl&#228;chen bzw.
+Parkpl&#228;tze f&#252;r Carsharingfahrzeuge
+(Quelle: KE-CONSULT, studio next mobility, Kommunalbefragung CsgG 2020; nges=120)
+&#220;ber die in Bild 4-5 aufgef&#252;hrten Kriterien hinaus werden folgende Aspekte bei der Auswahl des konkreten
+Standortes f&#252;r Carsharingfl&#228;chen genannt:
+&#8226; N&#228;he zu Betrieben, die Carsharing nutzen,
+&#8226; Bedarf der Carsharinganbieter,
+&#8226; Gebiete mit hohem Parkdruck,
+&#8226; Anbindung an Mobilstation,
+&#8226; Nachfragevolumen,
+&#8226; mit Carsharing unterversorgte Stadtteile,
+&#8226; Verkn&#252;pfung mit Belangen der Feuerwehr,75 
+&#8226; politische Akzeptanz,
+&#8226; Ausweitung bestehender Stationen bei starker Nachfrage,
+&#8226; N&#228;he zu zentralen Versorgungseinrichtungen.
+Zusammenfassend l&#228;sst sich festhalten: Die Regelungen im Sinne des CsgG sind den Kommunen und
+Kommunalverb&#228;nden zwar mehrheitlich bekannt, es gibt jedoch auch viele Kommunen, die das CsgG nicht kennen. Die
+Kommunen und Kommunalverb&#228;nde berichten mehrheitlich von einem positiven Einfluss auf die F&#246;rderung des 
+Carsharing, sehen allerdings auch Unterst&#252;tzungsbedarf. Die M&#246;glichkeiten zur Bevorrechtigung des Carsharing 
+im Sinne des CsgG werden von den Kommunen und Kommunalverb&#228;nden bereits in nennenswertem Umfang 
+ergriffen bzw. werden kurz- bis mittelfristig umgesetzt. Es zeigen sich bereits konkrete Auswirkungen in Form
+von zus&#228;tzlichen Parkpl&#228;tzen und Stellfl&#228;chen auf &#246;ffentlichen Stra&#223;en und Wegen und Erm&#228;&#223;igungen von
+Parkgeb&#252;hren; weitere Auswirkungen werden erwartet (s. Bild 4-4 und Tab. 4-5). Die Kommunen und
+Kommunalverb&#228;nde ergreifen begleitende Ma&#223;nahmen, wie bspw. die Erarbeitung eines Konzeptes zur Festlegung
+m&#246;glicher Standorte von Carsharingstationen. 
+Hemmend wirken bei einigen Kommunen und Kommunalverb&#228;nden die notwendigen Auswahlverfahren. Trotz 
+der im CsgG vorgesehenen Abweichungsm&#246;glichkeiten f&#252;r Kommunen unter 50.000 Einwohnern, werden die
+Auswahlverfahren insbesondere von kleineren Kommunen und Kommunalverb&#228;nde als sehr aufw&#228;ndig und
+oftmals auch nicht als notwendig erachtet. Die Kommunen und Kommunalverb&#228;nde ergreifen jedoch auch vielfach
+die Gelegenheit, durch Festlegung von Kriterien bei der Auswahl von Lagen f&#252;r Stellfl&#228;chen und/oder Parkpl&#228;tzen
+und bei der Auswahl der Carsharinganbieter steuernd in den Markt einzugreifen.
+Die Kommunen bekunden einen Bedarf an zus&#228;tzlichen (informativen) Unterst&#252;tzungsleistungen. Dies betrifft
+die Verfahren zur Auswahl der Stellfl&#228;chen und der Carsharinganbieter. Dies gilt auch f&#252;r Argumentationshilfen 
+gegen&#252;ber Politik und Verwaltung bez&#252;glich der Sinnhaftigkeit der Umsetzung der Bevorrechtigungen im Sinne
+des CsgG.
+4.3 Wirkungen auf den Carsharing- und Verkehrsmarkt (Outcome)
+In diesem Kapitel werden die Auswirkungen der Bevorrechtigungen im Sinne des CsgG auf den Carsharingmarkt
+analysiert. Basis daf&#252;r bilden die Befragungen bei Anbietern, Kommunen und Fahrtberechtigten, erg&#228;nzt durch
+Erkenntnisse aus der Literatur.
+4.3.1 Wirkungen auf das Carsharingangebot
+Die Analyse des Outcome belegt, wie sich die Umsetzung der Regelungen im Sinne des CsgG in den Kommunen
+und Kommunalverb&#228;nden im Carsharing- und im Verkehrsmarkt niederschl&#228;gt. Beantwortet werden die zentralen
+Leitfragen nach den Ver&#228;nderungen im Markt: Ver&#228;ndert sich das Angebot mengenm&#228;&#223;ig und/oder strukturell?
+Ver&#228;ndert sich die Nachfrage? Ver&#228;ndert sich das Marktergebnis?
+Die Regelungen im Sinne des CsgG unterst&#252;tzen das Carsharingangebot.
+Die Mehrheit der Kommunen und Kommunalverb&#228;nde (70 %) gibt an, dass die Regelungen im Sinne des CsgG
+den Ausbau des Carsharing unterst&#252;tzen. Dies gilt insbesondere f&#252;r den Ausbau des stationsbasierten Carsharing
+(95 %), aber auch in geringerem Ma&#223;e f&#252;r das stationsunabh&#228;ngige Carsharing (30 %).
+Die unterst&#252;tzende Wirkung der Regelungen im Sinne des CsgG wird auch von den Carsharinganbietern best&#228;tigt.
+Die Mehrheit der befragten Anbieter beobachtet in den Kommunen bereits Wirkungen der Regelungen im Sinne
+des CsgG (vgl. Tab. 4-6).
+75 In Bremen werden teilweise Sondernutzungsfl&#228;chen so ausgesucht, dass sie die Erfordernisse der Zufahrtswege f&#252;r die Feuerwehr
+unterst&#252;tzen. Es erfolgt eine bauliche Umsetzung, so dass eine Nutzung der Fl&#228;che durch Falschparker und damit eine Behinderung 
+der Rettungsdienste verhindert wird. Dies erh&#246;ht die Akzeptanz der Ausweisung von Sondernutzungsfl&#228;chen bei den Bewohnern, aber
+auch in Verwaltung und Politik, sehr.
+Tab 4-6: Anzahl der Carsharinganbieter, die eine steigende Unterst&#252;tzung f&#252;r das Carsharing in
+den Kommunen infolge des CsgG, der Landesregelungen und der StVO-Novelle sehen
+(Quelle: KE-CONSULT, studio next mobility, Kommunalbefragung CsgG 2020;
+nges=44, n=38)
+Mit Verabschiedung von Mit der StVO-Novelle
+Mit Verabschiedung Landesregelungen zum vom 20. April 2020
+bedes CsgG im Jahr 2017 Carsharing steigt die obachten wir verst&#228;rkte 
+steigt die Unterst&#252;t- Unterst&#252;tzung des Car- Aktivit&#228;ten der
+Kommuzung des Carsharing sharing in L&#228;ndern und nen zur Bevorrechtigung
+in den Kommunen Gemeinden des Carsharing
+Stimme voll und ganz zu 8 7 5
+Stimme eher zu 12 18 12
+Stimme eher nicht zu 7 3 8
+Stimme gar nicht zu 7 5 9
+Keine Einsch&#228;tzung 4 5 4
+Knapp die H&#228;lfte der befragten Anbieter f&#252;hlt sich infolge der Verabschiedung des CsgG unterst&#252;tzt. Weitere
+Unterst&#252;tzung erfahren sie aufgrund der Landesgesetzgebung und durch die StVO-Novelle (Tab. 4-7). Die
+wahrgenommene Unterst&#252;tzung wird vor allem von den Anbietern des stationsbasierten Carsharing berichtet. Von den 
+Anbietern des stationsunabh&#228;ngigen Carsharing (n=4) sieht sich nur einer unterst&#252;tzt. Mehr als die H&#228;lfte der
+Anbieter ist bereits mit Kommunen bzgl. der Bevorrechtigungsm&#246;glichkeiten des Carsharing im Gespr&#228;ch.
+Tab. 4-7: Wirkungen des CsgG, der Landesregelungen und der StVO-Novelle aus Sicht der
+Anbieter nach Anbietertypen
+(Quelle: KE-CONSULT, studio next mobility, Anbieterbefragung Carsharing 2020, nges=44).
+Mit
+Verabschiedung des
+Bundesgesetzes zum
+Carsharing im Jahr
+2017 steigt die
+Unterst&#252;tzung des 
+Carsharing in den 
+St&#228;dten und
+Gemeinden
+Mit
+Verabschiedung von
+Landesregelungen
+zum Carsharing
+steigt die
+Unterst&#252;tzung des
+Carsharing in
+L&#228;ndern und
+Gemeinden
+Mit der StVO-
+Novelle vom 20. 
+April 2020
+beobachten wir
+verst&#228;rkte
+Aktivit&#228;ten der
+Kommunen zur
+Bevorrechtigung des
+Carsharing
+Wir sind mit
+einigen Kommunen
+bereits in Gespr&#228;chen
+wegen der
+M&#246;glichkeiten zur
+Bevorrechtigung von
+Carsharingfahrzeugen
+Stationsbasierter
+Anbietertyp (n=31) 45 % 52 % 29 % 48 %
+Stationsunabh&#228;ngiger
+Anbietertyp (n=4) 25 % 25 % 25 % 75 %
+Kombinierter
+Anbietertyp (n=9) 56 % 89 % 78 % 78 %
+Gesamt (n=44) 46 % 578 % 39 % 57 %
+Anmerkung: Zusammenfassung der Kategorien &#8222;stimme voll und ganz zu&#8220; und &#8222;stimme eher zu&#8220;.
+Die meisten befragten Anbieter erwarten, dass die Bevorrechtigungen im Sinne des CsgG helfen (werden), ihr
+Angebot attraktiver zu gestalten. 
+&#8226; 63 % der befragten Anbieter best&#228;tigen die Unterst&#252;tzungsfunktion der Parkgeb&#252;hrenerm&#228;&#223;igung,
+&#8226; Nahezu alle befragten Anbieter (92 %) sehen sich durch eine Ausweisung von Stellfl&#228;chen und Parkpl&#228;tzen
+auf &#246;ffentlichen Stra&#223;en und Wegen unterst&#252;tzt. Vor allem wird die durch die Nutzung von Stellfl&#228;chen und
+Parkpl&#228;tze auf &#246;ffentlichen Stra&#223;en und Wegen durch Carsharingfahrzeuge bedingte Erh&#246;hung der
+Sichtbarkeit und Wahrnehmbarkeit des Carsharing von 89 % der befragten Anbieter gesch&#228;tzt.
+Die Bevorrechtigungen im Sinne des CsgG erm&#246;glichen einen Ausbau des Angebotes in
+Bestandskommunen, aber auch eine Ausweitung auf neue Kommunen.
+Die unterst&#252;tzende Wirkung entfaltet sich vor allem in Kommunen, in denen Carsharing bereits angeboten wird.
+Dies geben 31 Anbieter an (Bild 4-6). Aber auch die Aufnahme neuer Kommunen in das Angebotsspektrum wird
+verst&#228;rkt: 17 Anbieter sehen sich durch die Bevorrechtigungen im Sinne des CsgG bei einer m&#246;glichen Expansion
+in Kommunen, in denen sie bisher kein Carsharing anbieten, unterst&#252;tzt (Bild 4-7).
+Bild 4-6 zeigt, dass vor allem die Ausweisung von Stellfl&#228;chen f&#252;r stationsbasierte Fahrzeuge in den
+Bestandskommunen das Potential hat, ein Angebot attraktiver zu gestalten. 23 Anbieter sehen hierdurch eine M&#246;glichkeit,
+ihr Angebot attraktiver zu gestalten.
+Es zeigt sich au&#223;erdem, dass ordnungsrechtliche Ma&#223;nahmen (Fl&#228;chenbereitstellung) f&#252;r mehr Anbieter
+unterst&#252;tzend wirken als monet&#228;re Anreize (Parkgeb&#252;hrenerm&#228;&#223;igungen). 
+Bild 4-6: Anzahl der Anbieter, denen die m&#246;glichen Bevorrechtigungen helfen w&#252;rden, ihr
+Angebot in den Kommunen, in denen sie bereits Carsharing anbieten, attraktiver zu 
+gestalten
+(Quelle: KE-CONSULT, studio next mobility, Anbieterbefragung Carsharing 2020;
+nges=44; n=38)
+Bild 4-7 macht deutlich, dass viele Anbieter auch die Expansion ihres Angebotes auf neue Kommunen erm&#246;glicht 
+sehen. Dabei werden die verschiedenen Bevorrechtigungsm&#246;glichkeiten etwa gleich oft genannt.
+Bild 4-7: Anzahl der Anbieter, denen die m&#246;glichen Bevorrechtigungen helfen w&#252;rden, ihr 
+Angebot auf neue Kommunen auszudehnen
+(Quelle: KE-CONSULT, studio next mobility, Anbieterbefragung Carsharing 2020;
+nges=44; n=24)
+Die Bevorrechtigungen im Sinne des CsgG entfalten bereits Wirkungen.
+Bei vielen Anbietern greifen die Bevorrechtigungen bereits. 16 Anbieter best&#228;tigen, die Bevorrechtigungen bereits
+genutzt zu haben, weitere 8 Anbieter geben an, dass ihre Gesch&#228;ftsstrategie in Zukunft positiv durch die
+m&#246;glichen Bevorrechtigungen beeinflusst wird. In der Folge k&#246;nnen das Angebot attraktiver gestaltet und/oder die
+Anzahl der Stationen erh&#246;ht und/oder die Parkkosten und somit die Preise gesenkt werden.
+Die Erwartungen der Carsharinganbieter zu den Wirkungen der Regelungen im Sinne des CsgG sind
+zumeist positiv.
+Die Carsharinganbieter verkn&#252;pfen &#252;berwiegend positive Erwartungen mit den Regelungen im Sinne des CsgG. 
+Allerdings sehen einige Anbieter (7) bestimmte Aspekte aus dem CsgG auch als nachteilig (s. Tabelle 4-8).
+Tab 4-8: St&#228;rken und Schw&#228;chen der Regelungen im Sinne des CsgG aus Sicht der
+Carsharinganbieter &#8211; Auszug aus den freien Antworten der Carsharinganbieter 
+(Quelle: KE-CONSULT, studio next mobility, Anbieterbefragung Carsharing 2020)
+St&#228;rken und Potentiale Schw&#228;chen und Ansatzpunkte
+&#8226; Mehr Parkpl&#228;tze und Stellfl&#228;chen in guter Lage &#8226; &#220;berbeschilderung durch unverst&#228;ndliche
+verf&#252;gbar, mehr Effizienz des Angebotes. Schilder.
+&#8226; Starke Ausweitung des Angebots wird m&#246;glich. &#8226; Unberechtigtes Zuparken der Stellfl&#228;chen kann 
+&#8226; H&#246;here Nutzer- und Auslastungszahlen erm&#246;gli- zu erheblichen Betriebsst&#246;rungen f&#252;hren. 
+chen Preissenkungen. &#8226; Erfolg des Gesetzes ist in starkem Ma&#223;e ab-
+&#8226; Auswahl der Standorte wird einfacher. h&#228;ngig von der Art der Umsetzung in den
+Kommunen und durch die Stra&#223;enverkehrsbe-
+&#8226; Neue Fahrzeugmodelle und evtl. neue Tarife. h&#246;rden (progressive vs. restriktive Haltung 
+&#8226; Carsharingnutzung k&#246;nnte steigen, wenn an z. B. bei Stellplatzvergabe in
+Bewohnerparkbezentralen Orten, wie z. B. an Bahnh&#246;fen, Car- reichen).
+sharing sichtbarer wird. &#8226; Kommunen muss st&#228;rker bewusst werden, dass 
+&#8226; M&#246;glichkeit, in dichter besiedelten Bereichen Carsharingnutzer auch Bewohner sind und ein 
+ein stationsbasiertes Carsharingangebot zu etab- Anrecht haben sollten auf ein
+Carsharingangelieren: Gerade dort ist die Nutzung des Carsha- bot in Wohnungsn&#228;he.
+ring besonders hoch. &#8226; L&#246;sung l&#228;ge in nicht-personengebundenen (Be-
+&#8226; Bei einer m&#246;glichen Reduzierung der Kosten f&#252;r wohner-)Parkausweisen. Hierzu fehlt im Ge-
+Stellfl&#228;chen und Parkpl&#228;tze w&#228;re es m&#246;glich, das setz jedoch eine Handlungsanweisung/Rege-
+Angebot sowohl in wirtschaftlich attraktiven La- lung f&#252;r die kommunalen Entscheidungstr&#228;ger.
+gen schneller zu verdichten als dann auch au&#223;er- &#8226; Da es in einer Kommune aufgrund politischer
+halb zentraler Hotspots sukzessive auszubauen. Beschl&#252;sse und unter strengen Rahmenbedin-
+&#8226; Angebotserweiterungen werden durch das Ge- gungen seit 2009
+Sondernutzungsgenehmigunsetz auch in Gebieten m&#246;glich, in denen wegen gen f&#252;r Carsharing im &#246;ffentlichen Raum gibt, 
+Stellfl&#228;chenmangels oder zu hoher Preise f&#252;r die hat das CsgG bzw. das Stra&#223;en- und Wegege-
+Stellfl&#228;chen sonst kein Angebot m&#246;glich w&#228;re. setz von NW dazu gef&#252;hrt, dass die Kommune
+&#8226; Bessere Verkn&#252;pfung mit &#214;PNV und anderen 
+Mobilit&#228;tsalternativen (u.a. Bike-Sharing,
+Lastenfahrr&#228;der), z. B. an Mobilit&#228;tsstationen.
+vor&#252;bergehend die bereits beschlossene
+Ausweitung des Carsharing im &#246;ffentlichen Raum
+ausgesetzt hat, um sich auf das neue Verfahren 
+einzustellen. 
+&#8226; Die fl&#228;chendeckende Implementierung des CsgG
+in allen St&#228;dten und Kommunen ist
+Voraussetzung, in St&#228;dten operativ t&#228;tig zu sein. Eine klare
+Regulatorik ist Voraussetzung. 
+Die Verfahren zur Vergabe von Sondernutzungserlaubnissen und die damit verbundenen Kosten werden von den
+Anbietern differenziert bewertet. Die Mehrheit der antwortenden Anbieter gibt an, dass sie die Kosten f&#252;r die
+Plakette (81 %), die Kosten der Sondernutzung (67 %) und die G&#252;ltigkeitsdauer der Sondernutzung (66 %) f&#252;r 
+angemessen erachtet. Allerdings bezweifeln 52 % der Anbieter die Zweckm&#228;&#223;igkeit der Verfahren. Dies deckt 
+sich mit der Ansicht einiger Kommunen (s. Kapitel 4.2.2).
+Die Bevorrechtigungen im Sinne des CsgG unterst&#252;tzen die antwortenden Carsharinganbieter in ihren konkreten
+Expansionspl&#228;nen (vgl. Tab. 4-9). Die Anbieter planen mehrheitlich einen Ausbau ihres Angebotes. Viele
+Anbieter sehen dabei den unterst&#252;tzenden Einfluss der Bevorrechtigungen im Sinne des CsgG.
+Tab. 4-9: Zuk&#252;nftige Entwicklung des Carsharingangebotes &#8211; Absichten der Anbieter
+(Quelle: KE-CONSULT, studio next mobility, Anbieterbefragung Carsharing 2020)
+Beabsichtigen Sie, Ihr Angebot zuk&#252;nftig auszubauen? Wenn ja, haben darauf die m&#246;glichen
+Bevorrechtigungen des CsgG einen Einfluss?
+Anbieter, die 
+beabsichtigen &#8230;
+Anbieter, die 
+den Einfluss des CsgG
+angeben
+&#8230;, das Stationsnetz auf &#246;ffentlichen Stra&#223;en und Wegen
+auszubauen oder zu verdichten bzw. die Anzahl der Stellfl&#228;chen zu
+erh&#246;hen. (nges=40) 28 18
+&#8230;, zuk&#252;nftig verst&#228;rkt Stationen im &#246;ffentlichen Stra&#223;enraum
+zu nutzen, um eine verbesserte Sichtbarkeit des Angebots
+herstellen. (nges=40) 27 21
+&#8230;, die Fahrzeugflotte auszuweiten. (nges=44) 32 15
+&#8230;, die Bediengebiete zu vergr&#246;&#223;ern. (nges=44) 25 12
+Auf die konkrete Frage, ob sich die Anbieter in der Ausweitung ihres Angebots behindert sehen, werden die
+folgenden Aspekte genannt:
+&#8226; &#8222;Die Nutzer werden weniger Carsharing Fahrzeuge nutzen, weil sie nicht wissen, wo sie in der Innenstadt
+das Fahrzeug abstellen k&#246;nnen.&#8220;
+&#8226; &#8222;&#220;berbeschilderung durch unverst&#228;ndliche Schilder, die nur verwirrt.&#8220;
+&#8226; &#8222;Kommunen warten seit 2017 auf n&#246;tige nachfolgende Verwaltungsvorschriften oder Landesgesetze und
+&#8222;bewegen&#8220; sich gar nicht mehr, bis diese da sind.&#8220;
+&#8226; &#8222;Die reservierten Stellfl&#228;chen werden aufgrund der Beschilderung mit Zeichen 315 + Sonderzeichen Car-
+Sharing st&#228;ndig zugeparkt und sorgen daher zurzeit f&#252;r erhebliche Betriebsst&#246;rungen.&#8220;
+&#8226; &#8222;In einer Kommunen werden Fl&#228;chen vom kommunalen Verkehrsunternehmen gekapert.&#8220;
+&#8226; &#8222;Chaos und Uneinigkeit bzgl. der Ausf&#252;hrung auf St&#228;dtebasis. Keine Rechtssicherheit f&#252;r die St&#228;dte.&#8220;
+&#8226; &#8222;Da es in einer Kommune aufgrund politischer Beschl&#252;sse und unter strengen Rahmenbedingungen seit 2009
+Sondernutzungsgenehmigungen f&#252;r CS im &#214;R gibt, hat das CSgG bzw. das Stra&#223;en- und Wegegesetz NW 
+dazu gef&#252;hrt, dass die Kommune b. a. w. die bereits beschlossene Ausweitung des Carsharings im &#214;R auf
+Eis gelegt hat.&#8220;
+Die notwendigen Auswahlverfahren zur Vergabe der Sondernutzungsrechte f&#252;r anbieterspezifische Stellfl&#228;chen
+werden von einigen Anbietern (13) als zu komplex und nicht zweckm&#228;&#223;ig empfunden.
+Zusammenfassend l&#228;sst sich festhalten: Die Bevorrechtigungen im Sinne des CsgG unterst&#252;tzen die Anbieter
+mehrheitlich bei der Ausweitung ihres Angebotes.
+4.3.2 Wirkungen auf die Carsharingnachfrage
+Die Carsharinganbieter bekunden mehrheitlich, mit einer Verbesserung und/oder Ausweitung des Angebotes auf 
+die Bevorrechtigungen im Sinne des CsgG in den Kommunen zu reagieren. Von den beabsichtigten bzw.
+geplanten Aktivit&#228;ten der Anbieter und Kommunen ausgehend ergibt sich das Potential f&#252;r folgende Verbesserungen
+und damit f&#252;r eine Attraktivit&#228;tssteigerung des Carsharingangebotes:
+&#8226; Die Anzahl der Carsharingfahrzeuge steigt.
+&#8226; Das Stationsnetz wird verdichtet.
+&#8226; Die Stationen werden verst&#228;rkt im &#246;ffentlichen Stra&#223;enraum eingerichtet.
+&#8226; Die Bediengebiete werden vergr&#246;&#223;ert.
+&#8226; Die Parksituation f&#252;r Carsharingfahrzeuge bessert sich.
+&#8226; Die Kosten f&#252;r das Parken w&#228;hrend der Nutzung von Carsharingfahrzeugen sinken.
+&#8226; Die Sichtbarkeit und die Wahrnehmbarkeit des Carsharing steigen.
+Wird dieses Potential ausgesch&#246;pft, w&#252;rde dies die Attraktivit&#228;t des Carsharing f&#252;r die jetzigen und potenzielle
+Carsharingnutzer deutlich steigern. Die potentiellen Reaktionen der Fahrtberechtigten auf ein attraktiveres
+Angebot werden aus dem in der Befragung der Fahrtberechtigten bekundeten intendierten Verhalten abgeleitet.
+Teilweise werden in den Auswertungen Fahrtberechtigte des stationsbasierten und des stationsunabh&#228;ngigen
+Carsharing differenziert voneinander betrachtet. Dabei wurden die Fahrtberechtigten des kombinierten Carsharing 
+beiden Gruppen zugeordnet. Au&#223;erdem wurden die Fahrtberechtigten in die Gruppe der Wenignutzer und
+Vielnutzer76 unterschieden. Mit diesen Differenzierungen k&#246;nnen m&#246;gliche Unterschiede zwischen den einzelnen
+Gruppen herausgearbeitet werden, bspw. bzgl. der Reaktion auf die Ver&#228;nderung von Angebotsparametern oder
+auch bzgl. der Wirkung der Carsharingnutzung auf die Nutzung des eigenen Pkw. Tab. 4-10 zeigt die Gr&#246;&#223;en der
+Substichproben.
+Tab. 4-10: Gr&#246;&#223;e der Substichproben Fahrtberechtigte 
+(Quelle: KE-CONSULT, studio next mobility, Befragung der Fahrtberechtigten 
+Carsharing 2020)
+Gr&#246;&#223;e der Substichprobe
+Art des Carsharing
+Fahrtberechtigte stationsbasiertes Carsharing 5.260
+Fahrtberechtigte stationsunabh&#228;ngiges Carsharing 1.643
+Fahrtberechtigte kombiniertes Carsharing 581
+Nutzungsh&#228;ufigkeit
+Vielnutzer 2.953
+Wenignutzer 2.670
+Die Reaktionen der Fahrtberechtigten auf ein attraktiveres Angebot werden aus dem in der Befragung der
+Fahrtberechtigten bekundeten intendierten Verhalten abgeleitet. Bild 4-8 zeigt, dass etwa zwei Drittel der Befragten
+ihre Nutzung verst&#228;rken w&#252;rden, wenn das Carsharingangebot attraktiver w&#228;re. Dies gilt f&#252;r alle Varianten des
+Carsharing.
+76 Wenignutzer: Carsharing wird ein- bis dreimal pro Monat oder seltener genutzt; Vielnutzer: Carsharing wird ein- bis dreimal pro
+Woche oder h&#228;ufiger genutzt.
+Bild 4-8: Auswirkungen eines attraktiveren Carsharingangebotes auf die Nutzungsh&#228;ufigkeit
+(Quelle: KE-CONSULT, studio next mobility, Befragung der Fahrtberechtigten 
+Carsharing 2020; nges=5.263)
+Wenn das Carsharingangebot in meiner Stadt attraktiver w&#228;re, w&#252;rde ich &#8230;
+&#8230;
+stationsbasiertes
+Carsharing
+h&#228;ufiger
+nutzen 
+(n=5.206)
+&#8230;
+stationsunabh&#228;ngiges
+Carsharing
+h&#228;ufiger
+nutzen
+(n=5.205)
+&#8230;
+kombiniertes
+Carsharing 
+h&#228;ufiger
+nutzen
+(n=5.205)
+Wie sich dies in tats&#228;chlichen Marktzahlen niederschl&#228;gt, ist von den Reaktionen der Nachfrage auf die
+Ver&#228;nderungen der Angebotsparameter abh&#228;ngig. Um die Nachfragereaktionen einsch&#228;tzen zu k&#246;nnen, wurde gefragt,
+welche Bedingungen eintreten m&#252;ssten, damit Fahrtberechtigte Carsharing h&#228;ufiger nutzen. Dabei wurden die 
+Einsch&#228;tzungen bez&#252;glich einer Carsharingvariante nur von der jeweiligen Nutzergruppe eingeholt, d. h., Nutzer 
+des stationsabh&#228;ngigen Carsharing bewerten aus ihrer Erfahrung heraus die Angebotsbedingungen, die sie zu
+einer Mehrnutzung des stationsabh&#228;ngigen Carsharing bewegen w&#252;rden. Nutzer des stationsunabh&#228;ngigen
+Carsharing tun dies f&#252;r das stationsunabh&#228;ngige Carsharing. Bild 4-9 zeigt diese Einsch&#228;tzungen f&#252;r das
+stationsabh&#228;ngige Carsharing und Bild 4-10 die f&#252;r das stationsunabh&#228;ngige Carsharing.
+Bild 4-9: Bedingungen f&#252;r die h&#228;ufigere Nutzung des stationsbasierten Carsharing
+(Quelle: KE-CONSULT, studio next mobility, Befragung der Fahrtberechtigten 
+Carsharing 2020; nges=4.833)
+Anmerkung: Diese Frage wurde nur von Nutzern des stationsabh&#228;ngigen und des kombinierten Carsharing beantwortet.
+F&#252;r die h&#228;ufigere Nutzung des stationsbasierten Carsharing sollten f&#252;r dessen Nutzer die folgenden Bedingungen
+vorliegen:
+&#8226; Das Potential, eine steigende Nachfrage nach stationsbasiertem Carsharing zu generieren, hat vor allem ein 
+steigendes Angebot von Carsharingfahrzeugen. 58 % aller antwortenden Fahrtberechtigten des
+stationsbasierten Carsharing geben an, dass eine steigende Fahrzeuganzahl die Nutzungsh&#228;ufigkeit positiv beeinflusst. 
+Dies gilt vor allem f&#252;r die Vielnutzer (65%) und in etwas geringerem Ma&#223;e f&#252;r Wenignutzer (50%) (s. Bild
+4-9). 
+&#8226; Die Verdichtung des Stationsnetzes hat ebenfalls des Potential, steigende Nachfrage nach stationsbasiertem
+Carsharing auszul&#246;sen: Die Verdichtung bedeutet, dass die Stationen dichter an den Wohn- und Arbeitsorten
+der Fahrtberechtigten liegen. 57 % der antwortenden Fahrtberechtigten des stationsbasierten Carsharing
+geben an, dass sie Carsharing h&#228;ufiger nutzen w&#252;rden, wenn die n&#228;chste Station n&#228;her am Wohnort (n&#228;her am
+Arbeitsort: 33 %) l&#228;ge. Dabei wirkt die Verdichtung des Stationsnetzes auf die Vielnutzer mit 60 %
+(Wohnort) bzw. 36 % (Arbeitsort) mehr als auf die Wenignutzer mit 55 % (Wohnort) bzw. 30 % (Arbeitsort)
+(s.Bild 4-9). 
+&#8226; 31 % der Fahrtberechtigten geben an, dass die Einrichtung von Stationen im &#246;ffentlichen Stra&#223;enraum (im
+Gegensatz zur Einrichtung in bspw. H&#246;fen oder Tiefgaragen) zu einer h&#228;ufigeren Nutzung f&#252;hren w&#252;rde.
+Dabei ist die bekundete Wirkung bei den Vielnutzern etwas h&#246;her (33 %) als bei den Wenignutzern (28 %) 
+(s. Bild 4-9).
+Bild 4-10: Bedingungen f&#252;r die h&#228;ufigere Nutzung des stationsunabh&#228;ngigen Carsharing
+(Quelle: KE-CONSULT, studio next mobility, Befragung der Fahrtberechtigten Carsharing 
+2020; nges=1.861)
+Anmerkung: Diese Frage wurde nur von Nutzern des stationsunabh&#228;ngigen und des kombinierten Carsharing beantwortet.
+F&#252;r die h&#228;ufigere Nutzung des stationsunabh&#228;ngigen Carsharing sollten f&#252;r dessen Nutzer die folgenden
+Bedingungen vorliegen:
+&#8226; Die Absicht, stationsunabh&#228;ngiges Carsharing zu nutzen, steigt ebenfalls, wenn auch in weniger starkem
+Ausma&#223;, mit steigendem Angebot von Carsharingfahrzeugen. 30 % der antwortenden Fahrtberechtigten von
+stationsunabh&#228;ngigem Carsharing w&#252;rde Carsharing h&#228;ufiger nutzen, wenn mehr Fahrzeuge angeboten
+w&#252;rden (s. Bild 4-10).
+&#8226; Die Ausdehnung der Bediengebiete f&#252;r stationsunabh&#228;ngige Fahrzeuge erh&#246;ht bei mehr als vier F&#252;nfteln der
+antwortenden Fahrtberechtigten die Nutzungsbereitschaft. Ein Unterschied zwischen Wenig- und
+Vielnutzern ist nicht zu beobachten (s. Bild 4-10).
+&#8226; Die Mehrheit der Fahrtberechtigten des stationsunabh&#228;ngigen Carsharing w&#252;rde dieses h&#228;ufiger nutzen,
+wenn Parkpl&#228;tze leichter zu finden w&#228;ren bzw. speziell f&#252;r Carsharingfahrzeuge zur Verf&#252;gung st&#252;nden.
+Dabei ist eine einheitliche Beschilderung wichtig. Dies gilt insbesondere f&#252;r Vielnutzer (s. Bild 4-10).
+Die Fahrtberechtigten beider Carsharingvarianten (stationsabh&#228;ngig und stationsunabh&#228;ngig) geben an,
+kostensensibel zu reagieren. 59 % aller Fahrtberechtigten des stationsabh&#228;ngigen Carsharing bekunden, dass sinkende
+Parkkosten zu h&#228;ufigerer Nutzung f&#252;hren w&#252;rden. Dies trifft vor allem f&#252;r die Vielnutzer zu, von denen 63 %
+bekunden, bei Befreiung von den Parkkosten &#246;fter Carsharing nutzen zu wollen (s. Bild 4-9). 69 % aller
+Fahrtberechtigten des stationsunabh&#228;ngigen Carsharing geben an, dieses h&#228;ufiger nutzen zu w&#252;rden, wenn die Nutzung
+g&#252;nstiger w&#228;re. Dies trifft in besonderem Ma&#223;e f&#252;r die Wenignutzer mit 80 % zu (s. Bild 4-10). 
+Zusammenfassend l&#228;sst sich festhalten: Die in Folge der Bevorrechtigungen im Sinne des CsgG m&#246;glichen
+ver&#228;nderten Angebotsparameter bergen das Potential zu einer Verbesserung der Nachfragesituation und damit zu 
+steigender Nachfrage und schlie&#223;lich zu h&#246;herer Marktdurchdringung des Carsharing.
+4.4 Mittel- und langfristige Wirkungen des Carsharinggesetzes (Impact)
+Mit dem CsgG sind mittel- und langfristige Ziele verbunden. Diese beziehen sich vor allem auf verkehrliche
+Effekte und Umweltentlastungswirkungen. Zur Verfolgung dieser Ziele k&#246;nnen Carsharingfahrzeuge im Sinne
+des CsgG bevorrechtigt werden. Dar&#252;ber hinaus k&#246;nnen die Kommunen und Kommunalverb&#228;nde steuernd
+wirken, indem sie die Lage der Stellfl&#228;chen und Parkpl&#228;tze ausw&#228;hlen (bspw. dicht besiedelte Gebiete, Gebiete am
+Stadtrand) oder auch im Rahmen der Erteilung von Sondernutzungserlaubnissen f&#252;r Stellfl&#228;chen die
+Auswahlparameter f&#252;r die Carsharingunternehmen (bspw. umweltfreundliche Fahrzeuge, Fahrzeugarten und -gr&#246;&#223;en) setzen.
+Die Bevorrechtigungen im Sinne des CsgG sind geeignet, den privaten Pkw-Bestand zu senken.
+Die Bevorrechtigungen im Sinne des CsgG unterst&#252;tzen die Anbieter in der Ausweitung ihres Angebotes bzw.
+bei einer Attraktivit&#228;tssteigerung des bestehenden Angebotes (s. Kapitel 4.3). Dadurch k&#246;nnten neue
+Fahrtberechtigte gewonnen bzw. Fahrtberechtigte zu h&#228;ufigerer Nutzung angeregt werden (s. Kapitel 4.3). Im Resultat k&#246;nnte
+eine h&#246;here Marktdurchdringung des Carsharing erzielt werden. Aus verschiedenen Untersuchungen ist bekannt,
+dass Carsharing einen Einfluss auf den Besitz privater Pkw haben kann (s. Kapitel 2.1). Dieser Befund zeigt sich 
+auch in der vorliegenden Evaluation.
+In der Befragung der Fahrtberechtigten sind diese zu ihren Mobilit&#228;tsvoraussetzungen vor und nach ihrer
+Mitgliedschaft befragt worden. Von den 2.621 Befragten, die vor ihrer Carsharingmitgliedschaft einen eigenen Pkw
+besa&#223;en, haben 67 % den Pkw abgeschafft. Bei den Vielnutzern sind es beachtliche 78 %, bei den Wenignutzern
+54 %. Zu beachten ist, dass es sich hier um Verhalten in der Vergangenheit, also tats&#228;chlich eingetretene
+Besitzver&#228;nderungen, handelt. Von den Fahrtberechtigten, die weiterhin einen eigenen Pkw besitzen, kann sich mehr
+als die H&#228;lfte vorstellen, den Pkw abzuschaffen, wenn das Carsharingangebot in ihrer Heimatstadt attraktiver wird
+(s. Bild 4-11).
+Bild 4-11: Einfluss der Attraktivit&#228;t des Carsharingangebotes auf den Besitz des eigenen Pkw
+(Quelle: KE-CONSULT, studio next mobility, Befragung der Fahrtberechtigten Carsharing 
+2020; nges=1.511, n=1.362)
+Diese Gr&#246;&#223;enordnungen werden durch das Forschungsprojekt STARS aus dem Jahr 2018 best&#228;tigt.77 In dieser
+Studie wurde der Pkw-Besitz im Jahr vor der Anmeldung zum Carsharing mit dem Pkw-Besitz nach der
+Anmeldung verglichen. Es zeigte sich, dass vor allem die Nutzung von stationsbasierten und kombinierten Angeboten
+eine deutliche Wirkung auf den Besitz eines privaten Pkw hat. Bei den Fahrtberechtigten des stationsbasierten 
+und des kombinierten Carsharing sank der Pkw-Bestand um etwa zwei Drittel, bei den Fahrtberechtigten des
+stationsunabh&#228;ngigen Carsharing um etwa 5 %.78 Die im Forschungsprojekt STARS interviewten
+Kommunalvertreter geben eine Ersetzungsquote von bis zu 20 Pkw f&#252;r ein Carsharingfahrzeug an.79 Aus kommunaler Sicht von
+Interesse d&#252;rfte zudem sein, in welchem Verh&#228;ltnis die Reduktion des privaten Pkw-Besitzes zur Anzahl der
+(zus&#228;tzlichen) Carsharing-Pkw steht, ob also die Gesamtzahl der Pkw im Stra&#223;enraum sinkt. Bei vorwiegend
+stationsunabh&#228;ngigem Carsharing tritt letzteres nicht in jedem Fall ein, wie die vorgenannte geringe
+Besitzquotenminderung nahelegt und wie spezifischere Untersuchungen hierzu gezeigt haben.80 
+Die Bevorrechtigungen im Sinne des CsgG sind geeignet, den Parkfl&#228;chenbedarf zu senken.
+Unmittelbar aus der Ver&#228;nderung des Pkw-Bestandes ist eine Ver&#228;nderung der Parkraumsituation ableitbar.
+Weniger Autos ben&#246;tigen weniger Parkpl&#228;tze. 
+Die Freiheitsgrade in den Regelungen im Sinne des CsgG erm&#246;glichen den Kommunen die gezielte Ausweisung
+von Stellfl&#228;chen f&#252;r stationsbasierte Carsharingfahrzeuge in Gebieten mit hohem Parkdruck. Diese Option wird
+auch von den Kommunen positiv beurteilt. Sowohl in der Online-Befragung als auch in den Interviews wird auf
+die M&#246;glichkeit zur gezielten Auswahl der Standorte unter den Aspekten der Fl&#228;cheneffizienz und des Parkdrucks
+hingewiesen.
+Die Bevorrechtigungen im Sinne des CsgG sind teilweise geeignet, Entlastungseffekte, insbesondere
+Fahrleistungsersparnisse (Pkw), zu generieren.
+Wie gezeigt, haben die Bevorrechtigungen im Sinne des CsgG das Potential, das Carsharingangebot und die
+Carsharingnachfrage zu steigern. Damit sind, wie sich in der Befragung zeigt, die M&#246;glichkeiten f&#252;r eine sinkende
+Pkw-Besitzquote geschaffen. Dar&#252;ber hinaus wirkt Carsharing verst&#228;rkend auf die m&#246;gliche Nutzung des
+Umweltverbundes. 374 Befragte haben nach Anmeldung bei einem Carsharinganbieter ein Fahrrad angeschafft; nur
+38 Befragte haben ein Fahrrad abgeschafft. 601 Befragte haben eine Zeitkarte f&#252;r den &#214;ffentlichen Verkehr
+angeschafft; lediglich 226 Befragte haben diese abgeschafft. Im Saldo steigen demnach bei den Befragten die
+Fahrradbesitzquote und die Zeitkartenbesitzquote nach Anmeldung bei einem Carsharinganbieter an. Bei Betrachtung
+der Verkehrsmittelnutzung differenziert nach Zugangsvoraussetzungen (Fahrradbesitz, Zeitkartenbesitz und Pkw-
+Besitz) zeigen sich verschiedene Nutzungsh&#228;ufigkeiten vor und nach dem Beginn der Carsharingnutzung.
+Verkehrsmittel des Umweltverbundes sind nach der Anmeldung st&#228;rker, der eigene Pkw seltener genutzt worden
+(Bild 4-12).
+77 Bundesverband CarSharing 2018-1, Bundesverband CarSharing 2018-2.
+78 Bundesverband Carsharing 2020-4.
+79 Bundesverband Carsharing 2020-4.
+80 &#214;ko-Institut e. V. 2018.
+Bild 4-12: Auswirkungen des Carsharing auf das Mobilit&#228;tsverhalten von Pkw-Besitzern,
+Zeitkartenbesitzern, Fahrradbesitzern und Fu&#223;g&#228;ngern
+(Quelle: KE-CONSULT, studio next mobility, Befragung der Fahrtberechtigten Carsharing 
+2020; nges=5.623)
+&#8226; 30 % der Pkw-Besitzer nutzen das eigene Fahrzeug seltener. Demgegen&#252;ber steigt die Nutzung nur bei 9 %
+der Pkw-Besitzer.
+&#8226; &#214;ffentliche Verkehrsmittel werden von 17 % der Zeitkarteninhaber h&#228;ufiger genutzt; und nur 10 % nutzen
+sie seltener. Bei den Pkw-Besitzern scheint das Carsharing die &#214;V-Nutzung zu verdr&#228;ngen (18 % nutzen
+seltener, 13 % h&#228;ufiger). Bei den Nicht Pkw-Besitzer scheint dies nicht der Fall zu sein.
+&#8226; Das Fahrrad wird von 21 % der Fahrradbesitzer h&#228;ufiger und nur von 4 % seltener genutzt. Zu Fu&#223; gehen 18
+% der Fu&#223;g&#228;nger h&#228;ufiger und lediglich 2 % seltener. Hier sind keine gro&#223;en Unterschiede zwischen Pkw-
+Besitzern und Nicht-Pkw-Besitzern zu beobachten.
+Zu untersuchen ist, ob mit den Ver&#228;nderungen der Nutzungsh&#228;ufigkeiten eine Senkung der Pkw-Fahrleistung
+verbunden ist. Im Folgenden wird f&#252;r die Stichprobe aus der Befragung der Fahrtberechtigten ermittelt, in
+welchem Umfang die Fahrleistungen mit dem eigenen Pkw sinken und welche Fahrleistungen mit
+Carsharingfahrzeugen erbracht werden.
+In der Befragung werden die Pkw-Besitzer nach ihrer Fahrleistung vor und nach Anmeldung bei einem
+Carsharinganbieter befragt. Die Differenz liegt in der vorliegenden Stichprobe bei etwa 5 Mio. Fahrzeugkilometern. 
+Diese werden durch die geringere Nutzung des eigenen Pkw eingespart.
+Dem gegen&#252;ber stehen die Fahrleistungen, die mit den Carsharingfahrzeugen erbracht werden. Auf Basis der
+Anbieterbefragung lassen sich die durchschnittlichen Jahresfahrleistungen nach Carsharingvarianten je
+Fahrtberechtigtem ermitteln. Diese sind in der folgenden Tabelle ausgewiesen. Dabei verzeichnen die Fahrtberechtigten
+des kombinierten Carsharing die h&#246;chste, die Fahrtberechtigten des stationsunabh&#228;ngigen Carsharing die
+niedrigste durchschnittliche Jahresfahrleistung. Gewichtet man diese mit den Anteilen der Carsharingvarianten aus
+der Befragung der Fahrtberechtigten, erh&#228;lt man die durchschnittliche j&#228;hrliche Fahrleistung &#252;ber alle
+Carsharingvarianten (570 Fahrzeugkilometer). 
+Tab. 4-11: Jahresfahrleistung je Fahrtberechtigtem nach Carsharingvarianten
+(Quelle: KE-CONSULT, studio next mobility, Anbieterbefragung, Befragung der
+Fahrtberechtigten CsgG 2020)
+Jahresfahrleistung
+je Nutzer 
+(Fahrzeugkilometer)
+Anteil der 
+Carsharingvariante in
+der Stichprobe
+der Fahrtberechtigten
+Gewichtete
+Jahresfahrleistung
+je Fahrtberechtigtem
+(Fahrzeugkilometer)
+Stationsbasiertes Carsharing 500 70%
+Stationsunabh&#228;ngiges Carsharing 420 22%
+Kombiniertes Carsharing 1630 8%
+Alle 570
+Multipliziert man diese durchschnittliche Fahrleistung mit den Fahrtberechtigten in der Stichprobe, so ergibt sich
+eine Fahrleistung mit Carsharingfahrzeugen von 3,2 Mio. Fahrzeugkilometern. 
+Im Saldo betr&#228;gt die Fahrleistungsersparnis 1,8 Mio. Fahrzeugkilometer in der vorliegenden Stichprobe. Es ist
+allerdings zu beachten, dass dieser Wert durch die spezifische Struktur der Stichprobe zustande kommt. In der
+Stichprobe &#252;berwiegen die Fahrtberechtigten des stationsbasierten Carsharing. Die Nutzer des
+stationsunabh&#228;ngigen Carsharing, dem teilweise eine Pkw-verkehrserzeugende Wirkung zugesprochen wird,81 sind in der
+Stichprobe unterdurchschnittlich vertreten. Welche Wirkungen im Saldo entstehen, l&#228;sst sich an dieser Stelle also nur
+f&#252;r die Stichprobe, nicht jedoch f&#252;r die Gesamtheit der Carsharingnutzer angeben. Einen Anhaltspunkt liefert eine
+Studie f&#252;r das Umweltbundesamt.82 Hier werden die Modal Split-Wirkungen f&#252;r verschiedene Szenarien
+modelliert. 
+81 Vgl. dazu bspw. FINKORN 2012.
+82 &#214;ko-Institut, INFRAS 2015.
+&#8226; In einem Szenario, in dem konstante Rahmenbedingungen unterstellt werden, steigt der Modal Split-Anteil 
+des Pkw (eigener und Carsharingfahrzeug) nach Marktdurchdringung mit stationsunabh&#228;ngigem Carsharing 
+an. Dies gilt sowohl f&#252;r die Gruppe der Pkw-Besitzer als auch f&#252;r die Gruppe der Nicht-Pkw-Besitzer.
+&#8226; In einem Szenario, in dem ver&#228;nderte Rahmenbedingungen die Marktdurchdringung mit
+stationsunabh&#228;ngigem Carsharing befl&#252;geln, sinkt der Modal Split-Anteil des Pkw bei Pkw-Besitzern drastisch (um 20 %).
+Bei den Nicht-Pkw-Besitzern bleibt er nahezu konstant.
+Die Bevorrechtigungen im Sinne des CsgG verbessern die Rahmenbedingungen f&#252;r das Carsharing. Ob das
+ausreichend ist, um auch bei den Nutzern des stationsunabh&#228;ngigen Carsharing eine Modal Split-&#196;nderung in
+Richtung sinkenden Pkw-Anteils zu bewirken, kann an dieser Stelle nicht abschie&#223;end festgestellt werden. Hierzu sind 
+vertiefende, den Umfang einer Gesetzesevaluierung &#252;berschreitende Untersuchungen notwendig.
+Die Bevorrechtigungen im Sinne des CsgG bewirken nicht in nennenswertem Umfang zus&#228;tzliche
+(induzierte) Pkw-Verkehre; eine leichte Kannibalisierung des &#214;PNV ist durch das stationsunabh&#228;ngige
+Carsharing beobachtbar.
+Aus der Literatur ergeben sich Hinweise, dass stationsunabh&#228;ngiges Carsharing Pkw-Verkehre steigere, indem
+zus&#228;tzliche Fahrten zur&#252;ckgelegt (&#8222;induzierter Verkehr&#8220;) oder Fahrten vom Umweltverbund auf das
+Carsharingfahrzeug verlagert werden.83 
+Die Verkehrswissenschaft versteht unter induziertem Verkehr die Verkehrszunahme, die bei konstantem
+Verkehrszeitbudget resultiert, wenn sich durch Ver&#228;nderungen im Verkehrsablauf Zeitersparnisse ergeben. Dieser
+Tatbestand kann in der vorliegenden Evaluation auf Basis der empirischen Erhebungen nicht n&#228;her untersucht
+werden. 
+In der vorliegenden Befragung der Fahrtberechtigten finden sich Hinweise im Sinne der Verlagerungsthese. Dies
+wird deutlich, wenn man die verschiedenen Nutzergruppen vergleicht. In der folgenden Abbildung werden Nutzer
+mit Affinit&#228;t zum stationsbasierten Carsharing (= Nutzer des stationsbasierten Carsharing, die das
+stationsunabh&#228;ngige Carsharing fast nie nutzen) und Nutzer mit Affinit&#228;t zum stationsunabh&#228;ngigem Carsharing (= Nutzer
+des stationsunabh&#228;ngigen Carsharing, die das stationsbasierte Carsharing fast nie nutzen) unterschieden.
+Bild 4-13: Ver&#228;nderung des Mobilit&#228;tsverhaltens seit Carsharingnutzung
+(Quelle: KE-CONSULT, studio next mobility, Befragung der Fahrtberechtigten 
+Carsharing 2020)
+83 FIRNKORN 2012.
+W&#228;hrend bei den Nutzern mit Affinit&#228;t zum stationsbasierten Carsharing der Anteil derer, die den &#214;V h&#228;ufiger
+nutzen, in etwa dem Anteil derer entspricht, die den &#214;V seltener nutzen, sind bei den Nutzern mit Affinit&#228;t zum 
+stationsunabh&#228;ngigen Carsharing Kannibalisierungseffekte zu beobachten: Der Anteil derer, die den &#214;V seltener
+nutzen, ist mit 19 % h&#246;her als der Anteil derer, die den &#214;V h&#228;ufiger nutzen.84 Dieser Effekt beschr&#228;nkt sich aber
+auf den &#214;V und tritt bei den weiteren Verkehrsmitteln des Umweltverbundes (zu Fu&#223; gehen, Fahrrad) nicht auf
+(Bild 4-14). Vielmehr zeigt sich, dass die gro&#223;e Mehrheit der Nutzer von stationsunabh&#228;ngigem Carsharing so oft
+wie vorher oder sogar &#246;fter zu Fu&#223; geht bzw. das Fahrrad nutzt.
+Bild 4-14: Auswirkungen des Carsharing auf das Mobilit&#228;tsverhalten der Nutzer mit Affinit&#228;t
+zum stationsunabh&#228;ngigem Carsharing
+(Quelle: KE-CONSULT, studio next mobility, Befragung der Fahrtberechtigten 
+Carsharing 2020)
+Unterschiede lassen sich feststellen, wenn man die Gruppen der Pkw-Besitzer und der Nicht-Pkw-Besitzer
+betrachtet (s. Bild 4-12). Unterschiedliches Verhalten bez&#252;glich der Verkehrsmittelnutzung l&#228;sst sich vor allem im
+&#214;ffentlichen Verkehr beobachten. W&#228;hrend die Pkw-Besitzer den &#214;ffentlichen Verkehr tendenziell seltener
+nutzen, ist dies bei den Nicht-Pkw-Besitzern nicht beobachtbar. Die folgende Tabelle zeigt, dass unter den Pkw-
+Besitzern die Verdr&#228;ngung des &#214;ffentlichen Verkehrs vor allem bei den Nutzern des stationsunabh&#228;ngigen
+Carsharing stattfindet. Hier nutzen 21 % der Befragten den &#214;ffentlichen Verkehr seit Beginn der Carsharingnutzung 
+seltener als vorher.
+Tab. 4-12: Auswirkungen des Carsharing auf das Mobilit&#228;tsverhalten der Pkw-Besitzer
+(Quelle: KE-CONSULT, studio next mobility, Befragung der Fahrtberechtigten 
+Carsharing 2020)
+&#214;ffentliche Verkehrsmittel nutze ich &#8230;
+Nutzer des stationsunabh&#228;ngigen Nutzer des stationsbasierten
+Carsharing Carsharing
+h&#228;ufiger 12% 13%
+so oft wie vorher 67% 70%
+seltener 21% 17%
+84 An dieser Stelle wurde nach Ver&#228;nderung des Verkehrsverhaltens nach der Registrierung als Carsharingnutzer gefragt. Ber&#252;cksichtigt
+werden Registrierungsjahre von 1990 bis 2020. Es ist kein signifikanter Unterschied zwischen denjenigen, die 2020 registriert wurden,
+und denjenigen, die in den Jahren davor registriert wurden, feststellbar. Insofern ergeben sich hier keine Hinweise auf einen Corona-
+Effekt, der zu einer verringerten Nutzung des &#214;ffentlichen Verkehrs f&#252;hrt.
+Die Bevorrechtigungen im Sinne des CsgG sind geeignet, Verkn&#252;pfungseffekte mit dem &#214;PNV zu
+realisieren.
+Insbesondere stationsunabh&#228;ngiges Carsharing bzw. die flexiblen Anteile des kombinierten Carsharing sind
+geeignet, Verkn&#252;pfungseffekte mit dem &#214;PNV zu realisieren, um damit eine bessere Vernetzung der Verkehrsmittel
+miteinander zu erzielen. Diese Wirkungen werden von allen befragten Gruppen als bedeutend angesehen.
+&#8226; 56 Kommunen und Kommunalverb&#228;nde weisen in der Befragung darauf hin, dass die Bevorrechtigungen im
+Sinne des CsgG eine bessere Verkn&#252;pfung zwischen dem Carsharing und dem &#214;PNV erm&#246;glichen. F&#252;r
+67 Kommunen und Kommunalverb&#228;nde ist die N&#228;he zum &#214;PNV wichtig f&#252;r die Auswahl der Stellfl&#228;chen
+(Stationen) f&#252;r Carsharingfahrzeuge. 80 Kommunen und Kommunalverb&#228;nde pl&#228;dieren f&#252;r das Einrichten
+von Carsharingparkpl&#228;tzen (allgemeine) an &#214;PNV-Stationen. Einige Kommunen berichten von konkreten
+Umsetzungen von Parkpl&#228;tzen an Mobilstationen. Von den Kommunen wird au&#223;erdem auf die Relevanz der
+Aufnahme in die Tarifsysteme des &#246;rtlichen/regionalen &#214;PNV hingewiesen. 
+&#8226; Verschiedene Anbieter geben an, Verkn&#252;pfungseffekte an Mobilstationen realisieren zu k&#246;nnen. Viele der 
+insgesamt 44 Anbieter kooperieren mit den lokalen/regionalen Verkehrsunternehmen bspw. durch
+gemeinsame Buchungssysteme (16 Anbieter) und/oder die Bereitstellung von Sonderkonditionen f&#252;r &#214;PNV-
+Kunden (22 Anbieter) und/oder die Nutzung von Fl&#228;chen an Haltestellen und Bahnh&#246;fen (13 Anbieter).
+&#8226; 91 % der befragten Fahrtberechtigten pl&#228;dieren f&#252;r die verst&#228;rkte Einrichtung von Carsharingparkpl&#228;tzen an
+Haltestellen des &#214;PNV. Mehr als die H&#228;lfte der Fahrtberechtigten betont die Bedeutung der Verkn&#252;pfung
+des Carsharing mit dem &#214;PNV und w&#252;rde Carsharing &#246;fter nutzen, wenn dadurch die Kombinationsf&#228;higkeit
+der Wege mit Bussen und Bahnen verbessert w&#252;rde. Carsharing ist in diesem Fall ein Teil der Wegekette
+und erg&#228;nzt die Angebote des &#214;PNV, so dass der Umweltverbund im Vergleich zum motorisierten
+Individualverkehr an Attraktivit&#228;t gewinnt.
+Die Bevorrechtigungen im Sinne des CsgG sind geeignet, die Elektrifizierung der Pkw-Flotte
+voranzutreiben.
+Carsharingflotten weisen einen &#252;berdurchschnittlichen Elektrifizierungsgrad auf und sind geeignet, die
+Elektrifizierungsquote im Kfz-Bestand zu erh&#246;hen. Im Rahmen der Evaluation der &#8222;Modellregionen Elektromobilit&#228;t&#8220;
+zeigte sich, dass die Carsharingflotten klassisch als T&#252;r&#246;ffner und damit als Initiator und Ausl&#246;ser des
+Markthochlaufs der Elektromobilit&#228;t im Pkw-Markt gelten.85 Ein Vergleich der in der Anbieterbefragung angegebenen
+Elektrifizierungsquote mit der Elektrifizierungsquote des Pkw-Bestands verdeutlicht diese Wirkung eindr&#252;cklich.
+Der Anteil der rein batterieelektrischen Fahrzeuge liegt laut Anbieterbefragung bei 10 %. Im Pkw-Bestand in
+Deutschland liegt die Quote im Jahr 2020 bei lediglich 0,3 %.86 Ein Wachstum des Carsharingmarktes
+beschleunigt die Durchdringung mit Elektrofahrzeugen.
+Auch die Fahrtberechtigten legen Wert auf eine schadstoffarme/elektrifizierte Flotte. 64 % der Fahrtberechtigten
+w&#252;rden Carsharing h&#228;ufiger nutzen, wenn die Fahrzeuge emissionsfrei w&#228;ren.
+Weitere Treiber der Elektrifizierung der Carsharingflotte k&#246;nnten die Auswahlkriterien der Kommunen und
+Kommunalverb&#228;nde bei der Vergabe der Stellfl&#228;chen f&#252;r stationsbasiertes Carsharing darstellen. 85 % der
+antwortenden Kommunen und Kommunalverb&#228;nde geben an, dass das Kriterium &#8222;Anteil schadstoffarmer Fahrzeuge&#8220; eine
+wichtige Rolle innerhalb der Auswahlkriterien spielt.
+Allerdings ist auch zu beobachten, dass sich einige Anbieter mit ihren Elektrofahrzeugen aus einzelnen St&#228;dten
+zur&#252;ckziehen. Dies ist bspw. aktuell in Berlin der Fall. Hier ersetzt Share Now Elektrofahrzeuge durch Fahrzeuge
+mit konventionellem Antrieb und begr&#252;ndet dies vor allem mit mangelnder Ladeinfrastruktur.87 Ob die
+Bevorrechtigungen im Sinne des CsgG tats&#228;chlich die Elektromobilit&#228;t vorantreiben werden, wird auch von exogenen
+Rahmenbedingungen wie der Ladeinfrastruktur sowie den Kosten abh&#228;ngig sein. 
+85 Vgl. dazu KE-CONSULT, Prognos AG 2019.
+86 Kraftfahrt-Bundesamt 2020.
+87 KNOBLACH 2020.
+Die Bevorrechtigungen im Sinne des CsgG geben positive wirtschaftliche Impulse.
+Die wirtschaftlichen Auswirkungen einer weiteren Marktdurchdringung des Carsharing werden in der aktuellen
+Forschung dann positiv beurteilt, wenn sie von regulierenden und investiven Ma&#223;nahmen des Staates begleitet
+werden (vgl. Kapitel 2.1). Bei sinnvoller Einbindung des Carsharing in den &#214;PNV k&#246;nnten bis 2030 Arbeitspl&#228;tze
+im hohen f&#252;nfstelligen Bereich entstehen.
+Die Bevorrechtigungen im Sinne des CsgG sind geeignet, langfristige und nachhaltige Wirkungen zu
+erzielen.
+Die Regelungen im Sinne des CsgG stellen den Kommunen und Kommunalverb&#228;nden Instrumente zur F&#246;rderung 
+des Carsharing zur Verf&#252;gung. Dies wird von den vier interviewten Kommunen als durchweg positiv f&#252;r eine
+nachhaltige umwelt- und klimafreundliche Entwicklung angesehen. Im Rahmen der vertiefenden Interviews
+wurde auf den Katalysatorcharakter des CsgG hingewiesen, durch den eine konzeptionelle Auseinandersetzung
+mit dem Carsharing angesto&#223;en wurde, die letztlich zu einer Aufnahme des Carsharing als wichtiger Bestandteil
+des st&#228;dtischen Mobilit&#228;tskonzepts f&#252;hren kann. 
+Diese Wahrnehmung der Interviewpartner wird durch die im Projekt erfassten quantitativen Daten unterst&#252;tzt. 
+Aus der Nutzer- und Anbieterbefragung sowie aus der Onlinebefragung der Kommunen wird deutlich, dass die
+Carsharingnutzung von den Bevorrechtigungen im Sinne des CsgG gef&#246;rdert wird. Dar&#252;ber hinaus ergeben sich
+deutliche Hinweise, dass Carsharing, u.a. durch eine erh&#246;hte Nutzung des Umweltverbundes sowie eine sinkende
+Pkw-Besitzquote der Fahrtberechtigten, zu einer nachhaltigen Mobilit&#228;tsstrategie beitragen kann. 
+Hinweise auf die positiven Umweltwirkungen des Carsharing gibt auch eine Studie im Auftrag des
+Umweltbundesamtes.88 Hier werden auf Basis von Szenarienrechnungen erhebliche umweltentlastende Wirkungen des
+Carsharing ermittelt. Diese beziehen sich auf Klima&#228;nderungen, Versauerung, Eutrophierung89 und den
+Prim&#228;renergieverbrauch. Dieser sinkt bspw. in einem Szenario, in dem Ver&#228;nderungen der Rahmenbedingungen, eine
+F&#246;rderung der Multimodalit&#228;t, der Ausbau der Carsharingsysteme und der Ausbau des &#214;ffentlichen Verkehrs
+unterstellt werden, um 4 % verglichen mit dem Status Quo. 
+Trotz der beobachtbaren und modellierbaren Effekte kann eine abschlie&#223;ende Bilanzierung der
+Nachhaltigkeitswirkungen von Carsharing auf Basis der vorliegenden Daten nicht vorgenommen werden. Diese war nicht Ziel
+der vorliegenden Evaluation und erfordert eine vertiefende Untersuchung unter Ber&#252;cksichtigung vielf&#228;ltiger
+Faktoren und deren Wechselwirkungen, zum Beispiel der Emissionswirkung.
+Viele Kommunen und Kommunalverb&#228;nde beabsichtigen, die Freiheitsgrade, die das CsgG bietet, zu nutzen und
+so lenkenden Einfluss auf die Entwicklung des Carsharing zu nehmen. Dies betrifft die Auswahl der Fl&#228;chen und
+die Kriterien f&#252;r die Anbieterauswahl. Hier werden von den Kommunen die Aspekte der St&#228;rkung des &#214;PNV, der 
+Versorgung von weiten Gebieten mit Carsharingangeboten und des umweltgerechten und
+infrastrukturschonenden Angebotes (schadstoffarme, kleine Fahrzeuge) genannt.
+Fraglich ist, ob sich die derzeitige von der Corona-Pandemie gepr&#228;gte Situation auf den Carsharingmarkt
+auswirkt. Dabei sind es nicht nur die Angst vor einer Ansteckung, sondern vor allem auch die ge&#228;nderten
+Rahmenbedingungen und daraus m&#246;glicherweise resultierende Ver&#228;nderungen des Mobilit&#228;tsverhaltens
+(Reisebeschr&#228;nkungen, zunehmende Bedeutung von Homeoffice, Homeschooling, Online-Veranstaltungen an Universit&#228;ten,
+virtuelle Meetings), die einen starken R&#252;ckgang der Carsharingnutzung ausl&#246;sen k&#246;nnen. So berichtet Share Now 
+von hohen Einbr&#252;chen in der Lockdown-Woche Ende M&#228;rz 2020 (KW 13). In Berlin sanken die Buchungen um
+56 %.90 
+Die Verkehrsmittelnutzung wird durch die Corona-Pandemie beeinflusst. Dies zeigen gr&#246;&#223;ere
+Mobilit&#228;tsstudien,91 aber auch die aus der Befragung der Fahrtberechtigten vorliegenden Daten. Allerdings ist der &#214;PNV
+weitaus mehr betroffen als das Carsharing (s. Bild 4-15). Insgesamt sinkt bei den Befragten die Verkehrsmittelnutzung
+88 &#214;k&#246;.Institut, INFRAS 2015,
+89 Unter Eutrophierung wird die durch den Menschen verursachte N&#228;hrstoffanreicherung in Gew&#228;ssern verstanden, die mit negativen
+&#246;kologischen Folgen verbunden ist.
+90 Share Now, mobility institute 2020.
+91 DLR 2020, Infas 2020.
+gegen&#252;ber der Vor-Corona-Zeit um 11 %. Gr&#246;&#223;ter Verlierer ist der &#214;PNV. Das stationsbasierte Carsharing
+verliert 2 %, das stationsunabh&#228;ngige Carsharing verliert 24 %.92 Der Anbieter Share Now nennt als Hauptgrund f&#252;r
+den starken Einbruch des stationsunabh&#228;ngigen Carsharing: &#8222;Der Berufsverkehr hat sich verabschiedet.&#8220;93 In der
+Untersuchung von Share Now und dem mobility institute wurde festgestellt, dass die Buchungszahlen vor allem
+in den fr&#252;hen Morgen- und Abendstunden aufgrund von Kurzarbeit und Arbeit im Homeoffice stark
+zur&#252;ckgegangen sind.94 Auch der Einsatz der stationsunabh&#228;ngigen Carsharingfahrzeuge als Zubringerfahrzeug zum
+Fernverkehr der Bahn und zu den Flugh&#228;fen ging infolge der Corona-Pandemie stark zur&#252;ck.
+Bild  4-15: Nutzungsh&#228;ufigkeit der Verkehrsmittel: Differenz &#8222;jetzt&#8220; zu &#8222;vor Corona&#8220;
+(Quelle: KE-CONSULT, studio next mobility, Befragung der Fahrtberechtigten 
+Carsharing 2020; nges=5.623, n=5.506; au&#223;er stationsbasiertes Carsharing (nges=5.260, 
+n=5.148) und stationsunabh&#228;ngiges Carsharing (nges=1.643, n=1.600))
+Zu beachten ist, dass die Befragung au&#223;erhalb der Lockdown-Zeiten durchgef&#252;hrt wurde. Es zeigt sich, dass die
+starken Einbr&#252;che, die die Anbieter im Lockdown verzeichnet haben, au&#223;erhalb des Lockdowns weitaus
+moderater ausfallen werden. Dies wird bspw. auch vom Anbieter Share Now best&#228;tigt, der nach Ende des Lockdowns
+deutliche Steigerungsraten verzeichnen konnte.95 
+Auch wenn einige Anbieter unter dem Einfluss der Corona-Pandemie ihre Expansionspl&#228;ne zur&#252;ckstellen, sieht
+die Mehrheit der befragten Anbieter die Schw&#228;chung des Carsharing durch die Corona-Pandemie als kurzfristige 
+und vor&#252;bergehende Erscheinung an. Lediglich f&#252;nf Anbieter sehen ihr Angebot nachhaltig geschw&#228;cht. Ein
+gro&#223;er Teil der Anbieter sieht sogar eine St&#228;rkung des Carsharing durch die Corona-Pandemie und versteht das sich
+&#228;ndernde Mobilit&#228;tsverhalten als eine Chance f&#252;r die Weiterentwicklung des eigenen Carsharingangebotes.
+92 Zur Ableitung der Werte wurden die w&#246;chentlichen Nutzungsziffern wie folgt verwendet: (fast) t&#228;glich: 5; ein- bis dreimal pro Woche:
+2; ein- bis dreimal pro Monat: 0,5; seltener: 0,1; (fast) nie: 0.
+93 Share Now 2021.
+94 Share Now, mobility institute 2020.
+95 Share Now 2021.
+&#196;hnlich sch&#228;tzen die befragten Kommunen den Einfluss der Corona-Pandemie ein (Tab. 4-13). Die wenigsten 
+antwortenden Kommunen (11) sehen eine langfristige und nachhaltige Schw&#228;chung des Carsharing. Die meisten 
+(33) halten den schw&#228;chenden Einfluss f&#252;r eher vor&#252;bergehend. Einige (7) erwarten sogar eine St&#228;rkung des
+Carsharing.
+Tab. 4-13: Einsch&#228;tzungen der Kommunen und Kommunalverb&#228;nde zu den Auswirkungen der
+Corona-Pandemie auf die Entwicklung des Carsharing
+(Quelle: KE-CONSULT, studio next mobility, Kommunalbefragung CsgG 2020)
+Stimme voll 
+und ganz zu
+Stimme
+eher zu
+Stimme eher 
+nicht zu
+Stimme
+nicht zu
+Durch die Corona-Pandemie wird das
+Carsharingangebot in unserer Kommune
+nachhaltig geschw&#228;cht.
+3 8 28 5
+Die Corona-Pandemie hat lediglich einen
+kurzfristigen schw&#228;chenden Einfluss auf
+das Carsharingangebot in unserer
+Kommune.
+7 26 9 1
+Durch die Corona-Pandemie wird das
+Carsharingangebot bei uns in der
+Kommune mittel- bis langfristig gest&#228;rkt.
+1 6 17 11
+4.5 Vollzugs- und Ma&#223;nahmenwirtschaftlichkeit des Carsharinggesetzes
+Die Wirtschaftlichkeitskontrolle umfasst im Rahmen von Evaluationsanalysen die Untersuchung der
+Vollzugswirtschaftlichkeit und der Ma&#223;nahmenwirtschaftlichkeit. Die Vollzugswirtschaftlichkeit analysiert den
+administrativen Aufwand und Mittelverbrauch im Vollzugsprozess. Im Rahmen der Ma&#223;nahmenwirtschaftlichkeit wird
+untersucht, in welchem Verh&#228;ltnis der Aufwand zur Zielerreichung steht.
+4.5.1 Vollzugswirtschaftlichkeit des Carsharinggesetzes
+Erg&#228;nzend zur Zielerreichungs- und Erfolgskontrolle findet in der vorliegenden Evaluation eine Untersuchung
+der Vollzugswirtschaftlichkeit statt. Die Vollzugswirtschaftlichkeit ist im Rahmen von Evaluationen auf die Frage
+bezogen, ob die Umsetzung der Intervention wirtschaftlich ist, d.h., es stehen die Kosten der
+Interventionsma&#223;nahmen und Prozesse sowie die begleitenden Kosten f&#252;r Administration und Umsetzung der Intervention im
+Mittelpunkt. Analysiert wird damit der Mittelverbrauch im Vollzugsprozess. Bei der hier durchzuf&#252;hrenden
+Evaluation des CsgG erfolgt die Bewertung der Vollzugswirtschaftlichkeit im Sinne der regulatorischen
+Interventionslogik mittels einer Bewertung der administrativen Prozesse sowie der Umsetzung des CsgG vor Ort. Die
+Ergebnisse st&#252;tzen sich in erster Linie auf Aussagen der Kommunen und Anbieter zur Zufriedenheit mit den gesetz-
+und verordnungsgeberischen Regelungen und zum erforderlichen administrativen Aufwand zur Umsetzung von
+Ma&#223;nahmen zur Bevorrechtigung des Carsharing, um die Verwendung von Carsharingfahrzeugen im Rahmen
+stationsunabh&#228;ngiger oder stationsbasierter Angebotsmodelle zu f&#246;rdern.
+Folgende wesentlichen Erkenntnisse zur Vollzugswirtschaftlichkeit lassen sich ableiten: 
+&#8226; Hohe Zufriedenheit mit der Verabschiedung des CsgG. 60 % (47 Kommunen) der antwortenden Kommunen 
+(78) sind insgesamt eher oder sehr zufrieden mit der Ausgestaltung des CsgG. Nachteile durch das CsgG
+sehen lediglich 8 Kommunen; von denen 6 Kommunen dem CsgG eine hemmende Wirkung auf den Ausbau
+des stationsbasierten Carsharing zusprechen. Genannt werden hier die aufw&#228;ndigen und/oder langwierigen
+Verfahren zur Erteilung von Sondernutzungserlaubnissen, die Belegungspflicht der Anbieter, die nicht-
+gekl&#228;rte Ausweisung kommunaler Fl&#228;chen und die Belegungspflicht f&#252;r die Anbieter.
+&#8226; Aus der Kommunalbefragung und aus den Experteninterviews geht hervor, dass vor allem die Herstellung 
+von Rechtssicherheit durch das CsgG positiv bewertet wird.
+&#8226; &#220;berwiegend zufrieden sind die Kommunen auch hinsichtlich der Ausgestaltung der landesgesetzlichen
+Regelungen zum Carsharing. F&#252;r die Kommunen sind die Regelungen von Bund und L&#228;ndern im
+Zusammenspiel eine deutliche Erleichterung und wichtige F&#246;rdervoraussetzung f&#252;r das Carsharing in den Kommunen.
+&#8226; Eine differenzierte Bewertung liegt hinsichtlich des administrativen Aufwands der Umsetzung vor: 34
+Kommunen sagen, dass die Verfahren zur Erteilung von Sondernutzungserlaubnissen zu aufw&#228;ndig sind.
+&#8226; Eine k&#252;rzere Zeitspanne zwischen dem CsgG und der StVO-Novelle w&#228;re laut Aussage einiger Kommunen 
+w&#252;nschenswert gewesen. Der zeitliche Versatz zwischen Inkrafttreten des CsgG und Novellierung der StVO
+hat aus ihrer Sicht die Umsetzung und Kommunikation verz&#246;gert und erschwert.
+&#8226; Der finanzielle Aufwand, der mit der Gesetzesverabschiedung und -anwendung verbunden ist, ist begrenzt.
+In der Begr&#252;ndung zum CsgG wird ein finanzieller Aufwand f&#252;r die Rechtsaufsicht des BMVI in H&#246;he von 
+95.450 Euro pro Jahr und f&#252;r Verfahrensanpassungen und Schulungen bei den Bundesl&#228;ndern und
+Kommunen von einmalig 3 Mio. Euro und j&#228;hrlich 631.300 Euro aufgef&#252;hrt (siehe Kapitel 4.1). Der anfallende
+Erf&#252;llungsaufwand des Bundes wird im Einzelplan 12 des BMVI erbracht.96 Im Vergleich zum Umfang der
+Haushaltsmittel im Bereich Verkehr von Bund und L&#228;ndern spielt der Aufwand eine sehr untergeordnete
+Rolle und ist f&#252;r eine regulatorische Ma&#223;nahme als durchaus angemessen zu bewerten. Aus Sicht der
+Evaluation ist die Vollzugswirtschaftlichkeit der administrativen Umsetzung gegeben.
+Aus Sicht der Evaluation ist die Vollzugswirtschaftlichkeit bezogen auf den Mitteleinsatz erreicht. Hinsichtlich
+der administrativen Umsetzung w&#228;re eine k&#252;rzere Zeitspanne zwischen Erlass des CsgG und Novellierung der
+StVO f&#252;r eine schnellere Erreichung der Interventionsziele f&#246;rderlich gewesen.
+4.5.2 Ma&#223;nahmenwirtschaftlichkeit des Carsharinggesetzes
+Die Kontrolle der Ma&#223;nahmenwirtschaftlichkeit untersucht, ob der Mitteleinsatz in Bezug auf die mit der
+(regulatorischen) Intervention verbundenen Effekte (Nutzen) wirtschaftlich ist, und beleuchtet damit den Mitteleinsatz
+bez&#252;glich der Erreichung der Interventionsziele.
+Die Bewertung der Ma&#223;nahmenwirtschaftlichkeit stellt bei gesetzgeberischen/regulatorischen Ma&#223;nahmen eine
+Herausforderung dar, wenn kein normierter oder quantitativer Output direkt zu beurteilen ist. Da keine direkt
+quantifizierbaren Kennzahlen zu Kosten und Nutzen der Ma&#223;nahme vorliegen, wird f&#252;r diesen
+Untersuchungsschritt ein qualitativer Ansatz gew&#228;hlt. Hierbei wird auf die Bereitschaft und Planungen der Kommunen zur
+Umsetzung von Ma&#223;nahmen zur Bevorrechtigung des Carsharing sowie auf die Mehrwerte, die auf die Intervention 
+zur&#252;ckzuf&#252;hren sind, Bezug genommen.
+Wesentliche Aspekte zu Umsetzungsbereitschaft und Mehrwerten sind im Folgenden aufgef&#252;hrt.
+Umsetzungsbereitschaft
+&#8226; Die Ausdehnung der Bevorrechtigungen des Carsharing in Kommunen sind ein Interventionsziel und eine
+unmittelbare Wirkung des CsgG. Mit dem CsgG, den Regelungen der Bundesl&#228;nder und der StVO-Novelle
+sind die rechtssichere Umsetzung von Parkbevorrechtigungen f&#252;r Carsharingfahrzeuge erm&#246;glicht und die
+Umsetzungsbereitschaft in den Kommunen deutlich stimuliert worden. 14 Kommunen und
+Kommunalverb&#228;nde (von 107 befragten Carsharingkommunen) geben an, dass die Anzahl der Stellfl&#228;chen bzw. Parkpl&#228;tze
+f&#252;r Carsharingfahrzeuge seit der StVO-Novelle bereits gestiegen ist und in 35 Kommunen bzw.
+Kommunalverb&#228;nden (von insgesamt 151 befragten Kommunen) ist die Ausweisung weiterer Stellfl&#228;chen und
+Parkpl&#228;tze f&#252;r Carsharingfahrzeuge auf &#246;ffentlichen Stra&#223;en und Wegen zudem in Umsetzung oder geplant (s.
+Tab. 4.4).
+&#8226; Angebotsausweitung der Anbieter: Die Bevorrechtigungen im Sinne des CsgG entfalten bei den Anbietern
+eine Wirkung, indem sie einen Ausbau des Angebotes in Bestandskommunen, aber auch eine Ausweitung
+auf neue Kommunen unterst&#252;tzen. Dies erfolgt vor allem in Kommunen, die bereits &#252;ber Carsharingangebote
+verf&#252;gen (Angabe von 31 Anbietern). Aber auch die Aufnahme neuer Kommunen in das Angebotsspektrum
+wird verst&#228;rkt: 17 Anbieter sehen sich durch die Bevorrechtigungen im Sinne des CsgG bei einer m&#246;glichen
+Expansion in Kommunen, in denen sie bisher kein Carsharing anbieten, unterst&#252;tzt (s. Bild 4-6 und Bild
+4-7).
+96 Deutscher Bundestag 2017: 27.
+        
+ 
+ 
+ 
+       
+ 
+  
+  
+ 
+      
+     
+ 
+ 
+   
+    
+  
+     
+  
+      
+ 
+  
+   
+        
+  
+      
+       
+ 
+    
+  
+   
+ 
+    
+      
+ 
+     
+  
+ 
+   
+ 
+   
+ 
+  
+  
+ 
+   
+ 
+   
+      
+   
+    
+5
+&#8226; Ver&#228;nderung der Flottenstruktur: Carsharingflotten weisen einen &#252;berdurchschnittlichen
+Elektrifizierungsgrad auf und sind geeignet, die Elektrifizierungsquote im Kfz-Bestand zu forcieren. Dieser Trend wird weiter
+unterst&#252;tzt, indem f&#252;r viele Kommunen und Kommunalverb&#228;nde das Kriterium &#8222;Anteil schadstoffarmer
+Fahrzeuge&#8220; eine wichtige Rolle innerhalb der Auswahlkriterien bei der Erteilung von
+Sondernutzungserlaubnissen f&#252;r Stellfl&#228;chen spielt.
+Mehrwert
+&#8226; Vernetzung, St&#228;rkung des Umweltverbundes: F&#252;r 56 Kommunen (von 82 antwortenden Kommunen)
+erm&#246;glichen die Bevorrechtigungen von Carsharingfahrzeugen eine bessere Verkn&#252;pfung mit dem &#214;ffentlichen
+Personennahverkehr. F&#252;r 71 Kommunen (von 82 antwortenden Kommunen) tragen die Bevorrechtigungen
+von Carsharingfahrzeugen zur F&#246;rderung einer nachhaltigen Mobilit&#228;t bei.
+&#8226; Ein wichtiger Mehrwert des CsgG liegt in der Unterst&#252;tzung bei der Umsetzung von Mobilit&#228;tskonzepten
+und Ma&#223;nahmen des Mobilit&#228;tsmanagements vor Ort. So geben 59 der 82 antwortenden Kommunen an, dass
+die Bevorrechtigungen von Carsharingfahrzeugen zur erfolgreichen Umsetzung des Mobilit&#228;tskonzeptes in 
+ihrer Kommune beitragen und f&#252;r 44 Kommunen der 82 antwortenden Kommunen lassen sich die
+r&#228;umlichen L&#252;cken des bisherigen Carsharingangebotes schlie&#223;en.
+&#8226; Neuaufteilung der Verkehrsfl&#228;chen in St&#228;dten: Den Carsharingangeboten werden ein besonderes Potential
+f&#252;r die Entlastung und fl&#228;cheneffiziente Nutzung des &#246;ffentlichen Raums zugeschrieben. Dies wurde vor
+allem in den Expertengespr&#228;chen mit den Kommunen hervorgehoben.
+Die Effekte des CsgG (insbesondere die Ausdehnung der Bevorrechtigungen des Carsharing in den Kommunen, 
+Ausbau und breitere Marktdurchdringung des Carsharing, Beitr&#228;ge des Carsharing zur Verringerung der klima-
+und umweltsch&#228;digenden Wirkungen des Verkehrs) rechtfertigen den administrativen Aufwand und die damit
+verbundenen Aufwendungen und Kosten. Vor diesem Hintergrund kommt die Bewertung der
+Ma&#223;nahmenwirtschaftlichkeit zu einem positiven Gesamtergebnis, auch wenn kein normierter oder quantitativer Output direkt
+beurteilt werden kann.
+Zusammenfassung der Erfolgskontrolle und Handlungsempfehlungen 
+Im Auftrag der Bundesanstalt f&#252;r Stra&#223;enwesen wurde vom Bearbeiterteam KE-CONSULT Kurte&amp;Esser GbR
+(Auftragnehmer) und studio next mobility Wittowsky Garde Groth GbR (im Unterauftrag) vom 1. Juni 2020 bis
+zum 31. Januar 2021 das 2017 in Kraft getretene CsgG evaluiert. 
+Das CsgG bildet die Grundlage, Carsharingfahrzeuge zur F&#246;rderung des Carsharing zu bevorrechtigen. Dies
+betrifft die Erteilung von Sondernutzungserlaubnissen f&#252;r &#246;ffentliche Stra&#223;en an Anbieter von stationsbasierten
+Carsharingfahrzeugen sowie das Parken und das Erheben von Parkgeb&#252;hren auf &#246;ffentlichen Stra&#223;en f&#252;r
+stationsunabh&#228;ngige und stationsabh&#228;ngige Fahrzeuge.
+Mit dem CsgG wurden vor allem Verkehrs- und Umweltziele verbunden:
+&#8226; die Verringerung des motorisierten Individualverkehrs und damit der klima- und umweltsch&#228;dlichen
+Auswirkungen desselben,
+&#8226; die Vernetzung des &#214;ffentlichen Personennahverkehrs und die Schlie&#223;ung der L&#252;cke zwischen den
+Verkehrsmitteln des Umweltverbundes,
+&#8226; der Ersatz privater Pkw und damit der Senkung des Pkw-Bestandes und der Entlastung des &#246;ffentlichen
+Raums,
+&#8226; die erh&#246;hte Marktdurchdringung mit neuen und umweltschonenden Antriebstechnologien,
+&#8226; die Vereinfachung und St&#228;rkung der Nutzung von Carsharing und die F&#246;rderung einer nachhaltigen
+Mobilit&#228;t,
+&#8226; die Verbesserung der Bedingungen f&#252;r die Leistungsf&#228;higkeit der Volkswirtschaft.
+Mit der vorliegenden Evaluation wurde der Zielerreichungsgrad auf Basis des Input-Output-Outcome-Impact-
+Ansatzes &#252;berpr&#252;ft. Unter Input werden die Regelungen des CsgG, die Zielvorgaben sowie der finanzielle
+Aufwand, der zur Umsetzung anf&#228;llt, verstanden. Das CsgG ist Ausl&#246;ser f&#252;r weitere gesetz- bzw.
+verordnungsgeberische Aktivit&#228;ten auf Bundes-, Landes- und kommunaler Ebene (=Output). Infolgedessen sehen sich die Anbieter
+ge&#228;nderten, im g&#252;nstigsten Fall verbesserten Rahmenbedingungen gegen&#252;ber. Dies f&#252;hrt zu einer Ver&#228;nderung
+des Angebotes. Die Nachfrager reagieren ebenfalls auf ge&#228;nderte Rahmenbedingungen. Dies hat Auswirkungen
+auf den Umfang und den Modal Split-Anteil des Carsharing (=Outcome). Aus der ver&#228;nderten
+Marktdurchdringung ergeben sich schlie&#223;lich verkehrliche, umweltliche und gesamtwirtschaftliche Auswirkungen (=Impact).
+In der Forschung zum Carsharing sind bisher die Auswirkungen des CsgG noch nicht umfassend untersucht
+worden. Daher basiert die vorliegende Evaluation auf eigenen durchgef&#252;hrten Erhebungen bei den Bundesl&#228;ndern,
+den Kommunen und Kommunalverb&#228;nden, den Carsharinganbietern und den Nachfragern (Carsharingnutzern).
+&#8226; Bei den Bundesl&#228;ndern wurde eine Abfrage zur Schaffung korrespondierender Landesregelungen zum
+stationsgebundenen Carsharing durchgef&#252;hrt. Es liegen Informationen zu allen Bundesl&#228;ndern vor.
+&#8226; Die Kommunen und Kommunalverb&#228;nde wurden per Fragebogen (online) zum Stand der Umsetzung, zu
+den Umsetzungspl&#228;nen und zu den Erwartungen befragt. Es liegen Informationen von insgesamt 151
+Kommunen und Kommunalverb&#228;nden vor. Darin enthalten sind 19 der 20 gr&#246;&#223;ten St&#228;dte Deutschlands. In 44 der
+befragten Kommunen und Kommunalverb&#228;nden gibt es kein Carsharingangebot. Die 107 Kommunen und
+Kommunalverb&#228;nde mit Carsharingangeboten entsprechen, gemessen an der Anzahl der
+Carsharingfahrzeuge, etwa 90 % des Carsharingmarktes. Die Befragungsstichprobe bildet in der Tendenz die tats&#228;chlichen
+Anbieterstrukturen bez&#252;glich der Carsharingvarianten ab.
+&#8226; Die Carsharinganbieter wurden ebenfalls per Fragebogen (online) befragt. Die 44 antwortenden Anbieter
+entsprechen etwa 25 % der Anbieter in Deutschland ab. Gemessen an der Anzahl der Fahrzeuge werden 75
+% des Carsharingmarktes abgedeckt. Die antwortenden Anbieter bieten alle decken alle Carsharingvarianten
+an: Anbieter von stationsabh&#228;ngigem Carsharing (70 %), Anbieter von stationsunabh&#228;ngigem Carsharing
+(10 %) und Anbieter von kombiniertem Carsharing (20 %).
+&#8226; Auch die Verkehrsteilnehmer wurden per Fragebogen (online) befragt. Es liegen 5.623 auswertbare
+Befragungen vor. Die verschiedenen Carsharingvarianten sind in gro&#223;er Zahl vertreten (stationsbasiertes
+Carsharing: 5.260 Fahrtberechtigte, stationsunabh&#228;ngiges Carsharing: 1.643 Fahrtberechtigte, kombiniertes
+Carsharing: 581 Fahrtberechtigte). Etwas mehr als die H&#228;lfte (52,5 %) der Fahrtberechtigten nutzt Carsharing
+einmal pro Woche oder h&#228;ufiger, der Rest nutzt Carsharing seltener.
+Aus den empirischen Erhebungen lassen sich, gest&#252;tzt durch die Forschungen zum Thema Carsharing, die
+folgenden Evaluationsergebnisse ableiten.
+&#8226; Das CsgG hat weitere gesetz- und verordnungsgeberische Aktivit&#228;ten in Bund und L&#228;ndern angesto&#223;en. Mit
+der StVO-Novelle vom 20. April 2020 sind die stra&#223;enverkehrsrechtlichen Voraussetzungen zur
+Bevorrechtigung von Carsharingfahrzeugen geschaffen worden. Damit k&#246;nnen die zust&#228;ndigen
+Stra&#223;enverkehrsbeh&#246;rden der L&#228;nder die Parkbevorrechtigungen im Sinne des CsgG umsetzen. Einzelne Kommunen gaben an,
+dass eine Festlegung der plakettenvergebenden Stelle erfolgen sollte.97 Der zeitliche Abstand zwischen
+Inkrafttreten des CsgG und StVO-Novelle wird kritisiert. In den meisten Bundesl&#228;ndern gibt es zudem bereits
+gesetzliche Regelungen zum stationsbasierten Carsharing auf Stra&#223;en nach Landesrecht bzw. es liegen
+diesbez&#252;gliche Gesetzesentw&#252;rfe vor. Allerdings gibt es ein Bundesland, in dem eine dem &#167; 5 CsgG
+entsprechende landesrechtliche Regelung als nicht sinnvoll angesehen wird. 
+&#8226; Das CsgG dient in den Kommunen vielfach als Katalysator, um Carsharing als Teil des kommunalen
+Mobilit&#228;tskonzeptes zu betrachten. Damit wird Carsharing als Beitrag zur Mobilit&#228;tswende anerkannt. Allerdings
+fehlen der kommunalen Verwaltung teilweise Argumente, um den Verkehrs- und Umweltnutzen des
+Carsharing auch in den politischen Gremien positiv zu verankern, so dass die Bevorrechtigung des Carsharing
+in den Kommunen teilweise schwer durchsetzbar ist.
+Die Kommunen sehen die Vorteile des CsgG vor allem in der Rechtssicherheit und Planungssicherheit. Sie
+begr&#252;&#223;en explizit die m&#246;glichen Handlungsoptionen, die das CsgG ihnen bietet. Dies betrifft sowohl die
+Auswahl von Standorten f&#252;r Carsharingstellfl&#228;chen als auch die Festlegung von Auswahlkriterien f&#252;r
+Carsharinganbieter. Den Kommunen steht damit die Gestaltungsfreiheit offen, die zur Befriedigung der
+individuellen kommunalen Bed&#252;rfnisse und der L&#246;sung der individuellen kommunalen Herausforderungen
+notwendig ist. Carsharing wird damit &#8222;steuerbar&#8220;. Insofern wird derzeit kein Bedarf f&#252;r eine Rechtsverordnung
+gem&#228;&#223; &#167; 5 Absatz 8 CsgG, die die Eignungskriterien festlegt und an den aktuellen Stand der Technik anpasst,
+gesehen. Allerdings ist insbesondere f&#252;r kleine, l&#228;ndliche Kommunen der Verwaltungsaufwand, der sich aus
+der Auswahl von Standorten und Anbietern ergibt, hoch. Es fehlen vor allem den kleineren Kommunen die
+personellen Kapazit&#228;ten f&#252;r diese Aufgaben, so dass die Notwendigkeit eines Auswahlverfahrens f&#252;r die
+97 Anmerkung: Es existiert bereits eine Verkehrsblattverlautbarung, aus der die Vorgaben zur Erteilung der Carsharingplakette zur
+Kennzeichnung von Carsharingfahrzeugen hervorgehen (Verkehrsblattverlautbarung vom 18. August 2020 (VkBl. S. 505)).
+Erteilung von Sondernutzungserlaubnissen f&#252;r einzelne Kommunen sogar hemmend wirkt. Das CsgG bietet
+jedoch M&#246;glichkeiten zur Vereinfachung des Verfahrens, etwa durch ein vorab durchf&#252;hrbares
+Interessenbekundungsverfahren sowie Erleichterungen f&#252;r kleinere Kommunen unter 50.000 Einwohnern in Teil 3 der
+Anlage.
+Vor allem gro&#223;e und mittlere Kommunen betonen mehrheitlich die markt&#246;ffnenden Wirkungen, die mit
+transparenten Vergabeverfahren verbunden sind. Sie sehen die Entwicklung von Auswahlverfahren als
+Investition in die Zukunft. Allerdings scheint die im CsgG vorgesehene Vertragslaufzeit von maximal 8 Jahren
+teilweise hemmend zu sein. Dieser Zeitraum wird als zu kurz angesehen, um wirtschaftlich Infrastruktur,
+bspw. Ladeinfrastruktur f&#252;r Elektromobilit&#228;t, aufbauen zu k&#246;nnen.
+Das CsgG beeinflusst die konkreten Aktivit&#228;ten der Kommunen positiv. In vielen Kommunen wurden die 
+Bevorrechtigungen bereits umgesetzt, in anderen sind die Bevorrechtigungen in Planung. Dies betrifft
+sowohl die Bereitstellung von Stellfl&#228;chen f&#252;r stationsbasierte Carsharingfahrzeuge bzw. von Parkpl&#228;tzen f&#252;r
+alle Carsharingfahrzeuge als auch die Erm&#228;&#223;igung von Parkgeb&#252;hren f&#252;r Carsharingfahrzeuge. In weiteren
+Kommunen werden derzeit Stellfl&#228;chen und Parkpl&#228;tze f&#252;r Carsharingfahrzeuge angeordnet -oder
+entsprechende Bedarfsermittlungen durchgef&#252;hrt. Nicht in allen Kommunen scheint es bereits ein Verfahren bzw.
+eine Stelle f&#252;r die Ausgabe der Plaketten zur Kennzeichnung von Carsharingfahrzeugen zu geben. 
+&#8226; Das CsgG unterst&#252;tzt das Carsharingangebot. Dies gilt f&#252;r die Anbieter aller Varianten (stationsbasiert,
+stationsunabh&#228;ngig, kombiniert). Der Anordnung von Carsharingparkpl&#228;tzen und -stellfl&#228;chen wird vor den 
+finanziellen Anreizen (Parkgeb&#252;hrenerm&#228;&#223;igung) der Vorzug gegeben. Allerdings bekunden viele Anbieter
+weiteren F&#246;rderbedarf zu Etablierung und/oder St&#228;rkung des Carsharing vor allem in kleinen Kommunen.
+Die Anbieter erwarten Nachfragewirkungen aus der erh&#246;hten Sichtbarkeit und Wahrnehmbarkeit der
+Carsharingfahrzeuge, die sich aus der m&#246;glichen Vergabe von Stellfl&#228;chen im &#246;ffentlichen Raum ergeben.
+F&#252;r den Gro&#223;teil der Anbieter (mehr als 90 %) sind die Bevorrechtigungen im Sinne des CsgG hilfreich, das
+Angebot in den Kommunen auszudehnen, in denen sie bereits Carsharingfahrzeuge betreiben. Dies betrifft
+die Vergr&#246;&#223;erung der Fahrzeugflotte, die Verdichtung des Stationsnetzes und die Ausweitung des
+Bediengebiets. Einen Teil der Anbieter (40 %) unterst&#252;tzen die Bevorrechtigungen im Sinne des CsgG bei der
+Ausdehnung ihres Angebotes auf Kommunen, in denen sie bisher keine Carsharingfahrzeuge betreiben.
+&#8226; Die Verkehrsteilnehmer (Fahrtberechtigten) bekunden voraussichtlich steigende Nutzungsh&#228;ufigkeiten als
+Reaktion auf das verbesserte Angebot infolge der steigenden Zug&#228;nglichkeit, Sichtbarkeit, Planbarkeit und
+Zuverl&#228;ssigkeit. Weitere Nachfragepotentiale lassen sich vor allem bei den Verkehrsteilnehmern, die
+Carsharing bisher wenig nutzen, durch sinkende Kosten, z. B. infolge erm&#228;&#223;igter Parkgeb&#252;hren, heben.
+Insgesamt f&#252;hren die verbesserten Rahmenbedingungen zu einer verst&#228;rkten Nutzungsabsicht der
+Fahrtberechtigten und beg&#252;nstigen damit eine verst&#228;rkte Marktdurchdringung.
+&#8226; Die Verbesserungen der Rahmenbedingungen f&#252;r das Carsharing und die hierdurch zu erwartende
+Steigerung des Modal Split-Anteils des Carsharing an der Personenmobilit&#228;t sowie die m&#246;glichen
+Steuerungsm&#246;glichkeiten der Kommunen sind geeignet, einen positiven Impact auf Verkehr, Umwelt und Gesamtwirtschaft
+hervorzurufen. Dies betrifft insbesondere die Senkung des Pkw-Bestandes, die Senkung des Parkplatzbedarfs
+und somit die Verbesserung der Parkraumsituation vor Ort, die m&#246;glichen Entlastungseffekte im Pkw-
+Verkehr, die Verkn&#252;pfungseffekte mit dem &#214;PNV, die Elektrifizierung der Fahrzeugflotte und positive
+wirtschaftliche Impulse. Allerdings k&#246;nnten insbesondere steigende Marktanteile des stationsunabh&#228;ngigen
+Carsharing zu leichten Kannibalisierungseffekten in Bezug auf den &#214;PNV f&#252;hren, indem Fahrten mit Bussen
+und Bahnen durch Fahrten mit Carsharingfahrzeugen ersetzt werden. N&#228;her zu untersuchen ist zudem,
+welche Fahrleistungs- und Emissionsver&#228;nderungen sich in Summe ergeben. Untersuchungen legen nahe, dass
+nicht in allen F&#228;llen mindernde Effekte zu erwarten stehen98 und Carsharing daher als Enabler gesehen
+werden sollte, um die kommunale Verkehrswende und deren Akzeptanz insgesamt voranzubringen.
+&#8226; Die Vollzugswirtschaftlichkeit des CsgG bezogen auf den Mitteleinsatz ist gegeben. Die
+Ma&#223;nahmenwirtschaftlichkeit wird insgesamt positiv beurteilt.
+Insgesamt hat das CsgG im Zusammenspiel mit der StVO und den Regelungen der Bundesl&#228;nder dazu gef&#252;hrt,
+dass Kommunen Carsharingfahrzeuge bevorrechtigen bzw. planen, dies zu tun, um so die Marktdurchdringung
+zu erh&#246;hen. Damit verbunden ist das Potential zu positiven und langfristigen verkehrlichen und
+Umweltentlastungswirkungen sowie zu einer Steigerung der Aufenthaltsqualit&#228;t.
+98 &#214;ko-Institut e. V. (2018).
+Die vom CsgG ausgehenden potentiellen positiven langfristigen Wirkungen k&#246;nnten perspektivisch noch
+verst&#228;rkt werden. Dies ist dann der Fall, wenn es gelingt, die Belange kleiner Kommunen st&#228;rker zu ber&#252;cksichtigen,
+weitere spezifische F&#246;rderma&#223;nahmen anzubieten und begleitende Kampagnen umzusetzen. Dar&#252;ber hinaus
+sollte erwogen werden, ob der Adressatenkreis des CsgG um neuartige und innovative Carsharingangebote
+erweitert werden sollte. Auf Basis der Evaluationsergebnisse wird nicht die &#196;nderung des CsgG empfohlen. Zur
+Verstetigung und Verst&#228;rkung werden 12 Punkte auf 4 Handlungsebenen vorgeschlagen.
+Handlungsebene 1: Ber&#252;cksichtigung der Belange der kleinen und mittleren Kommunen 
+Die bereits im Jahr 2004 im Auftrag der Bundesanstalt f&#252;r Stra&#223;enwesen festgestellten Schwierigkeiten, ein
+wirtschaftliches Carsharingangebot in kleinen und mittleren St&#228;dten aufzubauen,99 liegen auch heute noch vor.
+Infolgedessen etabliert sich teilweise kein Angebot. Unter den befragten Kommunen weisen fast alle Gro&#223;st&#228;dte (94
+%) ein Carsharingangebot auf. Bei den Mittelst&#228;dten sind es nur 66 % und bei den Kleinst&#228;dten lediglich 42 %. 
+Dem gegen&#252;ber stehen die positiven Aussagen der kleinen und mittleren Kommunen zum Carsharing, von denen
+83 % der Kommunen ohne Carsharing dieses als wichtigen Teil eines vernetzten und integrierten
+Mobilit&#228;tskonzeptes ansehen. Insofern ist hier noch ein bedeutendes Potential f&#252;r die Marktdurchdringung des Carsharing zu
+vorhanden. Allerdings empfinden viele kleine und mittlere Kommunen die Verwaltungsverfahren zur
+Bevorrechtigung des Carsharing als zu zeit- und personalintensiv. Dar&#252;ber hinaus sehen sie sich in der Regel nicht mehreren 
+Anbietern gegen&#252;ber, so dass ein Auswahlverfahren als &#252;berfl&#252;ssig empfunden wird. Die Evaluation empfiehlt
+die folgenden Ma&#223;nahmen zur Entwicklung von Carsharingangeboten in kleinen und mittleren Kommunen:
+&#8226; Pr&#252;fung weiterer Verfahrensvereinfachungen bzw. Pr&#252;fung der Schaffung von weiteren
+Ausnahmeregelungen f&#252;r kleine und mittlere Kommunen. 
+&#8226; Spezifische (finanzielle) F&#246;rderung von nicht-wirtschaftlichen L&#246;sungen.
+&#8226; Bereitstellung von Unterst&#252;tzungsm&#246;glichkeiten f&#252;r die Verwaltung kleinerer und mittlerer Kommunen zur
+Planung und Einf&#252;hrung von Carsharingangeboten insbesondere durch das jeweilige Land.
+Handlungsebene 2: Ausweitung m&#246;glicher Adressaten der Bevorrechtigungen
+Im CsgG wird als &#252;bergeordnetes Ziel der Bevorrechtigungen die Verringerung des motorisierten
+Individualverkehrs und dessen klima- und umweltsch&#228;dlicher Auswirkungen genannt. Dabei sind die Adressaten der
+Bevorrechtigungen eng definiert (vgl. Kapitel 4.1). Zur Durchsetzung eines m&#246;glichst klima- und umweltfreundlichen 
+Mobilit&#228;tsmix k&#246;nnte es sinnvoll sein, diesen Adressatenkreis auszudehnen. 
+Die neuen Entwicklungen im Mobilit&#228;tsmarkt gehen dahin, dass in Zukunft f&#252;r die Verkehrsteilnehmer
+ma&#223;geschneiderte, individualisierte Mobilit&#228;tsdienstleistungen angeboten werden (MaaS: Mobility-as-a-Service). In
+Zukunft soll es m&#246;glich sein, plattformbasiert mit Hilfe einer App ma&#223;geschneiderte Angebote u. a. mit mehreren
+Verkehrsmitteln zusammenzustellen und direkt zu buchen. Dadurch k&#246;nnen der &#214;ffentliche Verkehr, Ridepooling
+und Ridesharing-Angebote sowie weitere Mobilit&#228;ts- und Informationsdienste einfach kombiniert werden. Die
+zur Verf&#252;gung stehenden Verkehrsangebote k&#246;nnen so gezielter genutzt und ausgelastet werden. Zu &#252;berpr&#252;fen 
+ist, ob die Definition auf Anbieter neuer Mobilit&#228;tsdienstleistungen (MaaS-Anbieter) ausgedehnt werden sollte, 
+um so zus&#228;tzliche Angebotsausweitungen und eine zunehmende Nachfrage nach Carsharingangeboten zu
+stimulieren. Die MaaS-Anbieter sind Servicedienstleister und bieten plattformbasiert individuelle
+Mobilit&#228;tsdienstleistungen an und verf&#252;gen in der Regel nicht &#252;ber eigene Transportmittel (wie Carsharing-Fahrzeuge). Insofern 
+profitieren die MaaS-Dienstleister nicht von den Anordnungsm&#246;glichkeiten des CsgG. Es ist zu pr&#252;fen, ob die
+Sondernutzungsrechte in diesen F&#228;llen nicht an das Fahrzeug gebunden werden, sondern auf den Anbieter der
+MaaS-Dienstleistung &#252;bergehen und diese dann mit dem &#8222;Vertrieb&#8220; der Dienstleistung auf den Erwerber und
+damit &#8222;Ersteller&#8220; der Mobilit&#228;tsleistung &#252;bergehen und im jeweiligen Transportvorfall in Anspruch genommen
+werden k&#246;nnen.
+Neben den neuen Mobilit&#228;tsdienstleistungen spielt zunehmend auch das peer-to-peer-Carsharing eine Rolle. Hier
+teilen sich kleine private, nicht speziell organisierte Gruppen ein Fahrzeug. Ziel ist in der Regel die Abschaffung
+des eigenen Fahrzeugs. Hier bestehen zwar Bedenken des Missbrauchs der Bevorrechtigungen, dennoch sollte
+die Aufnahme des peer-to-peer-Carsharing bei einer weiteren Marktanteilssteigerung in den Adressatenkreis in
+Betracht gezogen werden, da es geeignet sein kann, das multimodale Verhalten zu st&#228;rken und die Zahl privater
+99 Vgl. dazu SCHWEIG et al. 2004.
+Pkw zu reduzieren.100 Dies erfordert zugleich die M&#246;glichkeit einer flexiblen Kennzeichnung (z. B. &#252;ber eine
+Verkn&#252;pfung mit dem Backend des peer-to-peer-Anbieters).
+Die Evaluation empfiehlt daher eine Pr&#252;fung der Erweiterung des Adressatenkreises um
+&#8226; weitere Carsharingvarianten, wie bspw. peer-to-peer-Carsharing,
+&#8226; weitere neue Mobilit&#228;tsvarianten wie bspw. Ridesharing und Ridepooling.
+Handlungsebene 3: Weitere spezifische F&#246;rderma&#223;nahmen
+Wie oben dargestellt, ist das CsgG geeignet, die Marktdurchdringung des Carsharing zu unterst&#252;tzen. Aus Sicht
+der Evaluation liegen weitere Potentiale in der Unterst&#252;tzung von besonders effektiven Einzelaspekten. Dies sind
+zum einen die Verkn&#252;pfungseffekte mit dem &#214;PNV. Zum anderen scheint vor allem das kombinierte Carsharing
+sowohl f&#252;r die Verkehrsteilnehmer als auch f&#252;r die Umwelt besonders hohe Wirkungen zu entfalten. Aufgrund
+dessen werden die folgenden spezifischen F&#246;rderungen vorgeschlagen.
+&#8226; Das Carsharing kann einen positiven Impact in Kombination mit dem &#214;ffentlichen Verkehr (Fern- und
+Nahverkehr) entfalten. Dies kann &#252;ber verschiedene Mechanismen wie bspw. der Verkn&#252;pfung von
+Tarifangeboten (Zeitkarten) mit Carsharingangeboten101 oder auch das Vorhalten von Fl&#228;chen f&#252;r
+Carsharingfahrzeuge an Haltepunkten bzw. Mobilstationen geschehen. Durch Schlie&#223;ung von L&#252;cken kann das Carsharing
+die Nutzung &#246;ffentlicher Verkehrsmittel erh&#246;hen. Dies kann auf zeitlicher Ebene (Abdeckung von
+Schwachlastzeiten) und auf r&#228;umlicher Ebene (Abdeckung von Gebieten mit schlechter &#214;PNV-Erschlie&#223;ung)
+geschehen. Diesem Aspekt kommt nach Einsch&#228;tzung der Evaluation eine so hohe Bedeutung zu, dass eine gezielte
+F&#246;rderung von Verkn&#252;pfungsma&#223;nahmen im Rahmen von Forschungs- und/oder F&#246;rderprogrammen
+sinnvoll erscheint.
+&#8226; Tiefergehend sollte zudem gepr&#252;ft werden, ob eine gezielte Unterst&#252;tzung des kombinierten Carsharing
+geeignet ist, die positiven Auswirkungen des Carsharing noch zu steigern. Da hier der Wissensstand noch nicht
+ausreichend erscheint, ist eine Grundlagenuntersuchung zu empfehlen, die sich den Auswirkungen des
+kombinierten Carsharing, dessen Besonderheit in der Kombination des stationsbasierten und des
+stationsabh&#228;ngigen Carsharing besteht. Untersuchungen102 zeigen bspw., dass die durchschnittliche Fahrtdauer und die
+durchschnittliche Fahrtweite der stationsunabh&#228;ngigen Bestandteile des kombinierten Carsharing weit &#252;ber
+den entsprechenden Werten des reinen stationsunabh&#228;ngigen Carsharing liegt. Hier k&#246;nnten auch die oben
+genannten Varianten (peer-to-peer, Ridesharing, Ridepooling) ber&#252;cksichtigt werden.
+Handlungsebene 4: Unterst&#252;tzungskampagnen
+Bei der Untersuchung der Kommunen und Kommunalverb&#228;nden zeigte sich, dass die Regelungen des CsgG, der 
+StVO sowie der Bundesl&#228;nder bez&#252;glich der Bevorrechtigung von Carsharingfahrzeugen im Allgemeinen positiv
+bewertet wurden. Allerdings wurde der Wunsch nach Unterst&#252;tzung &#252;ber die reine Gesetzgebung hinaus genannt.
+Dies betrifft die kommunale Arbeit auf mehreren Ebenen. Zum einen w&#252;rde begr&#252;&#223;t, wenn das CsgG und die
+damit einhergehenden M&#246;glichkeiten bekannter w&#228;ren. Dies w&#252;rde die Arbeit in der Verwaltung erleichtern und
+die Position gegen&#252;ber der Kommunalpolitik st&#228;rken. Dazu geh&#246;rt auch die Bereitstellung von Informationen zur
+m&#246;glichen Bedeutung von Carsharing innerhalb kommunaler Mobilit&#228;tskonzepte. Zu beachten jedoch ist, dass es
+sich hierbei um Gesichtspunkte handelt, die in erster Linie in die Zust&#228;ndigkeit der L&#228;nder fallen.
+Ein Teil der Kommunen entscheidet sich gegen eine Umsetzung der Bevorrechtigungen im Sinne des CsgG wegen
+des hohen personellen Aufwands, der damit verbunden ist. Hier w&#228;ren seitens der L&#228;nder Leitf&#228;den, Checklisten,
+Best-Practice-Sammlungen o. &#196;. zweckm&#228;&#223;ig, die den Kommunen zur Verf&#252;gung gestellt werden, um die
+kommunalen Mitarbeiter bei der praktischen Umsetzung vor Ort zu unterst&#252;tzen. An dieser Stelle w&#228;re auch eine 
+Empfehlung f&#252;r die praktische Durchf&#252;hrung der Ausgabe der Carsharingplakette sinnvoll; die diesbez&#252;gliche
+Verkehrsblattverlautbarung vom 18. August 2020 ist noch nicht allen Kommunen bekannt. Einen wichtigen
+Schritt zur Unterst&#252;tzung der Kommunen bildet die derzeit in Arbeit befindliche Novellierung der Allgemeinen
+Verwaltungsvorschrift zur Stra&#223;enverkehrs-Ordnung (VwV-StVO), die n&#228;here Einzelheiten in Bezug auf die An-
+100 LUDMANN 2018.
+101 Diese Intention findet sich im CsgG bereits in der Anlage zu &#167; 5 Absatz 4 Satz 3: Inhabern von Zeitkarten sollen Verg&#252;nstigungen
+einger&#228;umt werden.
+102 Bundesverband Carsharing 2015.
+ordnung von Parkbevorrechtigungen f&#252;r Carsharingfahrzeuge sowie bez&#252;glich der Erteilung von
+Carsharingplaketten regelt und den Beh&#246;rden insoweit auch als Hilfestellung dient. Verfahrensbeteiligt sind neben den L&#228;ndern 
+auch die Verb&#228;nde. Dar&#252;ber hinaus w&#252;rde eine Vernetzung der Kommunen helfen. Der Erfahrungsaustausch mit
+erfahrenen Carsharingkommunen k&#246;nnte die Entwicklung des Carsharing in Kommunen, die noch kein Angebot
+haben, unterst&#252;tzen. 
+Aus Sicht der Evaluation sind von daher die folgenden Ma&#223;nahmen insbesondere der L&#228;nder empfehlenswert:
+&#8226; Bereitstellung von begleitenden Ma&#223;nahmen, die die Bekanntheit der M&#246;glichkeiten im Sinne des CsgG
+erh&#246;hen,
+&#8226; Bereitstellung von empirischen Daten und Studien zu den Wirkungen des Carsharing und zu den Vorteilen 
+der Bevorrechtigung,
+&#8226; Bereitstellen von Handlungsempfehlungen Best Practices, Leitf&#228;den und Checklisten zur Bevorrechtigung
+des Carsharing,
+&#8226; Unterst&#252;tzung der Vernetzung von Kommunen,
+&#8226; Pr&#252;fung, inwiefern Bund und L&#228;nder gemeinsam und/oder erg&#228;nzend aktiv werden k&#246;nnen.
+Die im Rahmen der Evaluation des CsgG durchgef&#252;hrte Erfolgskontrolle kommt zu dem Ergebnis, dass zentrale
+Interventionsziele des CsgG und der damit einhergehenden weiteren gesetz- bzw. verordnungsgeberischen
+Aktivit&#228;ten auf Bundes- und Landesebene erreicht worden sind. Die positiven Wirkungen, die durch das CsgG auf
+Output-, Outcome- und Impact-Ebene ausgel&#246;st werden, k&#246;nnten durch erg&#228;nzende begleitende Ma&#223;nahmen und
+eine eventuelle Ausdehnung des Anwendungsbereichs perspektivisch noch verst&#228;rkt werden. Ein akuter
+Fortschreibungsbedarf des CsgG wird derzeit jedoch nicht gesehen. Diesbez&#252;glich wird empfohlen, die weitere
+Marktentwicklung abzuwarten.
+Literatur
+A.T. Kearney (2019), The Demystification of Car Sharing, 2019.
+Breindl, K. (2014), CarSharing ist auch in kleinen St&#228;dten m&#246;glich, in: Bundesverband CarSharing e. V.
+(Hrsg.): CarSharing in Deutschland. Von den Anf&#228;ngen bis heute, K&#246;ln, S. 67&#8211;76.
+Bundesanstalt f&#252;r Stra&#223;enwesen (2020), Neue Verkehrszeichen nach der Einf&#252;hrung des
+Verkehrszeichenkatalogs 2017, https://www.bast.de/BASt_2017/DE/ Verkehrs technik/Fachthemen/v1-verkehrszeichen/
+unterseiten/Neue-Vz-nach-2017.html, Abruf 28.10.2020
+Bundesverband Carsharing (2015): Kombinierte CarSharing-Angebote &#8211; das Beste aus zwei Welten verbinden,
+https://www.carsharing.de/themen/angebotsvielfalt/ kombinierte-carsharing-angebote-beste-zwei-
+weltenverbinden, Abruf 30.10.2020.
+Bundesverband Carsharing (2018-1), Entlastungswirkungen unterschiedlicher CarSharing-Varianten,
+Projektbericht, Berlin.
+Bundesverband CarSharing (2018-2), Nutzer und Mobilit&#228;tsverhalten in verschiedenen CarSharing-Varianten,
+Berlin.
+Bundesverband CarSharing (2018-3), CarSharing fact sheet Nr.5: Elektrofahrzeuge in CarSharing-Flotten,
+Berlin.
+Bundesverband CarSharing (2018-4), Ein Jahr Carsharinggesetz des Bundes &#8211; eine Zwischenbilanz, Berlin, 
+https://carsharing.de/blog/jahr-carsharinggesetz-des-bundes-zwischenbilanz, Abruf 30.10.2020.
+Bundesverband CarSharing (2019), Zwei Jahre Carsharinggesetz &#8211; zwei Jahre Warten auf das
+Bundesverkehrsministerium, Berlin, https://carsharing.de/presse/ pressemit teilungen/zwei-jahre-carsharinggesetz-
+zweijahre-warten-auf, Abruf 30.10.2020.
+Bundesverband CarSharing (2020-1), Aktuelle Zahlen und Fakten zum CarSharing in Deutschland, Berlin, 
+https://carsharing.de/alles-ueber-carsharing/carsharing-zahlen/aktuelle-zahlen-daten-zum-carsharing-
+deutschland, Abruf 15.10.2020.
+Bundesverband Carsharing (2020-2), CarSharing-Definition des bcs, Berlin, https://www.carsharing.de/alles-
+ueber-carsharing/ist-carsharing/carsharing-definition-des-bcs, Abruf 02.11.2020.
+Bundesverband Carsharing (2020-3), StVO-Novelle macht Carsharinggesetz endlich vollst&#228;ndig umsetzbar,
+Berlin, https://carsharing.de/presse/pressemitteilungen/ stvo-novelle-macht-carsharinggesetz-
+endlichvollstaendig-umsetzbar, Abruf 30.10.2020
+Bundesverband Carsharing (2020-4): Verkehrsentlastung durch CarSharing, https://carsharing.de/si-
+tes/default/files/uploads/bcs_factsheet20_verkehrsentlastung_0.pdf Abruf 16.12.2020.
+Busch, C., Demary, V., Engels, B., Haucap, J., Kehder, C., Loebert, I., Rusche, C. (2018), Sharing Economy im
+Wirtschaftsraum Deutschland, im Auftrag des Bundesministeriums f&#252;r Wirtschaft und Energie, K&#246;ln.
+Cervero, R., Tsai, Y. (2004), City CarShare in San Francisco, California. Second-Year Travel Demand and Car
+Ownership Impacts, in: Transportation Research Record: Journal of the Transportation Research Board 
+1887, S. 117&#8211;127.
+Chatterjee, K., Andrews, G.; Ricci, M., Parkhurst, G. (2013), Qualitative Insights into the Effect on Travel
+Behavior of Joining a Carshare, in: Transportation Research Record: Journal of the Transportation Research 
+Board 2359, S. 76&#8211;84.
+Clark, J., Curl, A. (2016), Bicycle and Car Share Schemes as Inclusive Modes of Travel? A Socio-Spatial
+Analysis in Glasgow, UK, in: Social Inclusion 4, 3, 83.
+Deffner, J., Hefter, T., G&#246;tz, K. (2014), Multioptionalit&#228;t auf dem Vormarsch? Ver&#228;nderte Mobilit&#228;tsw&#252;nsche
+und technische Innovationen als neue Potenziale f&#252;r einen multimodalen &#214;ffentlichen Verkehr, in 
+Schwedes, O. (Hrsg.): &#214;ffentliche Mobilit&#228;t. Wiesbaden, S. 201&#8211;227.
+Deutscher Bundestag (2017), Bundestagsdrucksache 18/11285.
+DLR (2020), DLR-Befragung: Wie ver&#228;ndert Corona unsere Mobilit&#228;t? Verkehrsmittelnutzung, Einkaufs-,
+Arbeits- und Reiseverhalten. https://verkehrsforschung.dlr.de/de/news/dlr-befragung-wie-veraendert-corona-
+unsere-mobilitaet, Abruf 19.01.2021.
+Esfandabadi, Z. S., Ravina, M., Diana, M., &amp; Zanetti, M. C. (2020). Conceptualizing environmental effects of
+carsharing services: A system thinking approach. Science of The Total Environment, 745, 141169.
+Firnkorn, J. (2012), Triangulation of two methods measuring the impacts of a free-floating carsharing system in 
+Germany, in: Transportation Research Part A: Policy and Practice 46, 10, S. 1654&#8211;1672.
+Firnkorn, J., M&#252;ller, M. (2015), Free-floating electric carsharing-fleets in smart cities. The dawning of a
+postprivate car era in urban environments? In: Environmental Science &amp; Policy 45, S. 30&#8211;40.
+Geels, Frank W. (2012), A socio-technical analysis of low-carbon transitions: introducing the multi-level
+perspective into transport studies. In: Journal of transport geography 24, S. 471-482.
+Giesel, F. und Nobis, C. (2016), The Impact of Carsharing on Car Ownership in German Cities. In:
+Transportation Research Procedia, 19, S. 215-224.
+Groth, S. (2019), Multioptionalit&#228;t: Ein neuer (&#8222;alter&#8220;) Terminus in der Alltagsmobilit&#228;t der modernen
+Gesellschaft?. In: Raumforschung und Raumordnung | Spatial Research and Planning, Jg. 77, H. 1, S. 17&#8211;34.
+Gsell, M., Dehoust, G., H&#252;lsmann, F., Brommer, E., Cheung, E., F&#246;rster, H., Kasten, P., M&#246;ck, A., Mollnor
+Putzke, H., Quack, D., Peter, M., Schwegler, R., Bertschmann, D., Zandonella, R (2015), Nutzen statt
+Besitzen: Neue Ans&#228;tze f&#252;r eine Collaborative Economy, Im Auftrag des Umweltbundesamtes, Berlin, 
+Z&#252;rich.
+Hampshire, R., Gaites, C. (2011), Peer-to-Peer Carsharing, in: Transportation Research Record: Journal of the
+Transportation Research Board 2217, S. 119&#8211;126.
+Imhoff, B. von (2018), Was das Carsharing-Gesetz gebracht hat, in: WirtschaftsWoche online,
+https://www.wiwo.de/unternehmen/auto/ein-jahr-nach-einfuehrung-was-das-carsharing-gesetz-gebracht-
+hat/22977220.html, Abruf 05.05.2020.
+Infas (2020), Verkehrt gewendet? Mobilit&#228;tsreport Nr. 2. https://www.infas.de/fileadmin/user_up-
+load/MOBICOR_Mobilit%C3%A4tsreport_2_202008017.pdf , Abruf 19.01.2021.
+Institut f&#252;r Politikevaluation (2020), Automobile Wertsch&#246;pfung 2030/2050 &#8211; Zusatzauftrag zu
+Besch&#228;ftigungsentwicklung aufgrund neuer Mobilit&#228;tsdienstleistungen, im Auftrag des Bundesministeriums f&#252;r
+Wirtschaft und Energie, Frankfurt 2020.
+Institut f&#252;r Stadtforschung und Strukturpolitik GmbH (2009), Entwicklung von Performanceindikatoren f&#252;r die
+Evaluierung von F&#246;rderprogrammen in den finanzpolitisch relevanten Politikfeldern, Berlin 2009. 
+KE-CONSULT, Prognos AG (2018), Begleitende Evaluation des BMWi-Fachprogramms &#8222;Neue Fahrzeug und 
+Systemtechnologien&#8220;, im Auftrag des Bundesministeriums f&#252;r Wirtschaft und Energie, Berlin, K&#246;ln 
+2018. 
+KE-CONSULT, Prognos AG (2019), Evaluierung der F&#246;rderma&#223;nahmen zur batterieelektrischen Mobilit&#228;t des
+BMVI, in Zusammenarbeit, im Auftrag des Bundesministeriums f&#252;r Verkehr und digitale Infrastruktur
+(BMVI), Berlin, K&#246;ln 2019.
+KE-CONSULT (2020), Evaluierung des Zukunftsnetz Mobilit&#228;t, im Auftrag des Verkehrsverbundes Rhein-
+Sieg, K&#246;ln, in Bearbeitung.
+Kopp, J., Gerike, R., Axhausen, K.W. (2015), Do sharing people behave differently? An empirical evaluation of
+the distinctive mobility patterns of free-floating car-sharing members, in: Transportation 42, 3, S. 449&#8211; 
+469.
+Knoblach, J. (2020), Stecker gezogen: Share Now nimmt Elektroautos in berlin aus dem Programm, in Berliner
+Zeitung, https://www.berliner-zeitung.de/mensch-metropole/stecker-gezogen-share-now-nimmt-elektro-
+autos-in-berlin-aus-dem-programm-li.118552, Abruf 17.12.2020.
+Kraftfahrt-Bundesamt (2018), Fahrzeugzulassungen (FZ), Bestand an Kraftfahrzeugen nach Umwelt-
+Merkmalen 1. Januar 2018, FZ 13.
+Kraftfahrt-Bundesamt (2020), Bestand an Personenkraftwagen am 1. Januar 2020 nach Bundesl&#228;ndern und
+ausgew&#228;hlten Kraftstoffen absolut, https://www.kba.de/DE/Statistik/Fahrzeuge/Bestand/Umwelt/fz_b_um-
+welt_archiv/2020/2020_b_umwelt_dusl.html?nn=2598042, Abruf 17.12.2020.
+Ludmann, S. (2018), &#214;kologie des Teilens. Bilanzierung der Umweltwirkungen des Peer-to-Peer Sharing. 
+PeerSharing Arbeitsbericht 8, ifeu - Institut f&#252;r Energie- und Umweltforschung Heidelberg.
+Martin, E., Shaheen, S. (2011a), The Impact of Carsharing on Public Transit and Non-Motorized Travel. An
+Exploration of North American Carsharing Survey Data, in: Energies 4, 11, S. 2094&#8211;2114.
+Martin, E.W.; Shaheen, S.A. (2011b), Greenhouse Gas Emission Impacts of Carsharing in North America. In:
+IEEE Transactions on Intelligent Transportation Systems 12, 4, 1074&#8211;1086.
+Martin, E., Shaheen, S.; Lidicker, J. (2010), Impact of Carsharing on Household Vehicle Holdings. In Journal of
+the Transportation Research Board 2143, S. 150&#8211;158.
+Ministerium f&#252;r Verkehr Baden-W&#252;rttemberg (2019), F&#246;rderaufruf zum Ridepooling im Rahmen des
+strategiedialogs automobilwirtschaft BW, https://www.vm.nrw.de/presse/pressemitteilungen/Archiv-des-VM-
+2020/2020_09_28_Nordrhein-Westfalen-foerdert-On-Demand-Verkehr-Projekte-_-fuer-eine-bessere-
+Mobilitaet-auf-dem-Land/index.php, Abruf 07.06.2021. 
+Ministerium f&#252;r Verkehr NW (2020), Nordrhein-Westfalen f&#246;rdert On-Demand-Verkehr-Projekte &#8211; f&#252;r eine
+bessere Mobilit&#228;t auf dem Land, https://www.vm.nrw.de/presse/pressemitteilungen/Archiv-des-VM-
+2020/2020_09_28_Nordrhein-Westfalen-foerdert-On-Demand-Verkehr-Projekte-_-fuer-eine-bessere-
+Mobilitaet-auf-dem-Land/index.php, Abruf 07.06.2021.
+Monheim, H. (1994), Integration im Umweltverbund, in: Verkehrszeichen 10, 3, S. 5&#8211;14.
+M&#252;nzel, K. Boon, W., Frenken, K.m Vaskelainen, T. (2018), Carsharing business models in Germany:
+characteristics, success and future prospects, Information Systems and e-Business Management 16.2 (2018), S. 
+271-291.
+&#214;ko-Institut e. V. (2018); Institut f&#252;r sozial&#246;kologische Forschung, share -Wissenschaftliche Begleitung zu
+car2go mit batterieelektrischen und konventionellen Fahrzeugen, Berlin 2018.
+Pesch, S. (1996), Car-Sharing als Element einer Lean Mobility im Pkw-Verkehr, K&#246;ln 1996.
+Schlag, B., R&#246;&#223;ger, L. (2019), Carsharing Motivation und Irritation, in: Report Psychologie &lt;45&gt; 2/2019, S. 10-
+19.
+Schweig, K., Keuchel, S. Kleine-Wiskott, R. Hermes, R., van Acken, C. (2004), Car-Sharing in kleinen und 
+mittleren Gemeinden, im Auftrag der Bundesanstalt f&#252;r Stra&#223;enwesen, Gelsenkirchen.
+Shaheen, S. A., Adam P. C. (2007), Growth in worldwide carsharing: An international comparison,
+Transportation Research Record 1992.1 (2007), S. 81-89.
+Shaheen, S.A.; Sperling, D.; Wagner, C. (1999), A Short History of Carsharing in the 90&#8217;s, in: Journal of World 
+Transport Policy &amp; Practice 5, 3, S. 18&#8211;40.
+ShareNow, mobility institute (2020), Mehr Schutz, weniger Stau - Die Rolle des Carsharing in Zeiten von 
+Corona, https://mobilityinstitute.com/wp-content/uploads/2020/06/Die-Rolle-des-Carsharing-in-Zeiten-
+von-Corona_mib_sharenow_V1.01.pdf, Abruf 17.12.2020.
+ShareNow (2021), COVID-19. Fakten und Zahlen: carsharing w&#228;hrend der Pandemie, https://www.share-
+now.com/de/de/corona-carsharing-facts-figures/, Abruf 19.01.2021.
+Sioui, L.; Morency, C.; Tr&#233;panier, M. (2012), How Carsharing Affects the Travel Behavior of Households. A
+Case Study of Montr&#233;al, Canada, in: International Journal of Sustainable Transportation 7, 1, S. 52&#8211;69.
+Snappcar (2020), Miete ein Auto in Deiner Nachbarschaft, www.snappcar.de, Abruf 22.10.2020.
+Statista (2020), Carsharing-Fahrzeuge in Deutschland bis 2020, https://de.statista.com/statistik/daten/stu-
+die/324695/umfrage/carsharing-fahrzeuge-in-deutschland/. Abruf 12.12.2020.
+St&#252;ber, J. (2018), Mitfahrzentrale BlaBlaCar startet in Deutschland neue Pendler-Funktion, https://www.gru-
+enderszene.de/automotive-mobility/blablacar-smart-stoppover-mitfahrzentrale, Abruf 15.10.2020.
+VC&#214; - Verkehrsclub &#214;sterreich (2018), &#8222;Sharing und neue Mobilit&#228;tsangebote&#8220;. VC&#214;-Schriftenreihe &#8222;Mobilit&#228;t 
+mit Zukunft&#8220;, 3/2018, Wien.
+Verband Deutscher Verkehrsunternehmen (2020), Ridepooling-Projekte in Deutschland, 
+https://www.vdv.de/liste-ridepooling.aspx, Abruf 22.10.2020.
+Tabellen
+Seite
+Soziodemographische Merkmale der befragten Fahrtberechtigten 17
+Zufriedenheit der Kommunen und Kommunalverb&#228;nde mit den gesetzlichen Regelungen 23
+St&#228;rken und Schw&#228;chen der Regelungen im Sinne des CsgG aus Sicht der Kommunen und 
+Kommunalverb&#228;nde &#8211; Auswahl aus den Freitexten 24
+Einfluss der Bevorrechtigungen im Sinne des CsgG auf die Aktivit&#228;ten der Kommunen 
+und Kommunalverb&#228;nde 25
+Anzahl Kommunen und Kommunalverb&#228;nde, die die Bevorrechtigungsm&#246;glichkeiten f&#252;r
+Anzahl der Carsharinganbieter, die steigende Unterst&#252;tzung in den Kommunen infolge des
+Wirkungen des CsgG, der Landesregelungen und StVO-Novelle aus Sicht der Anbieter
+St&#228;rken und Schw&#228;chen der Regelungen im Sinne des CsgG aus Sicht der
+Einsch&#228;tzungen der Kommunen und Kommunalverb&#228;nde zu den Auswirkungen der
+Carsharingfahrzeuge anwenden oder dies planen 26
+Carsharingstellf&#228;chen und -parkpl&#228;tze &#8211; Status Quo und Planungen 27
+CsgG, der Landesregelungen und der StVO-Novelle sehen 31
+nach Anbietertypen 31
+Carsharinganbieter - Auszug aus den freien Antworten 34
+Zuk&#252;nftige Entwicklung des Carsharingangebotes &#8211; Absichten der Anbieter 35
+Gr&#246;&#223;e der Substichproben Fahrtberechtigte 36
+Jahresfahrleistungen je Fahrtberechtigtem nach Carsharingvarianten 43
+Auswirkungen des Carsharing auf das Mobilit&#228;tsverhalten der Pkw-Besitzer 45
+Corona-Pandemie auf die Entwicklung des Carsharing 49
+Bilder
+Seite
+Bild 2-1: Entwicklung des Carsharing &#8211; Fahrtberechtigte 2000 bis 2019 (jeweils zum 1.1.) 10
+Bild 2-2: Entwicklung des Carsharing &#8211; Anzahl der St&#228;dte mit Carsharing 2000 bis 2020 11
+Bild 2-3: Gr&#246;&#223;e der St&#228;dte mit Carsharingangeboten 12
+Bild 2-4: Entwicklung des Carsharing - Fahrzeuge 1997 &#8211; 2020) 12
+Bild 3-1: Wirkmodell der Evaluation des CsgG 14
+Bild 3-2: Systematisierung der Ziele des CsgG 15
+Bild 4-1: Zusatzzeichen &#8222;Carsharing&#8220;, Zusatzzeichen &#8222;Carsharingfahrzeuge frei&#8220; und
+Carsharingplakette 21
+Bild 4-2: Stand der Gesetzgebung zum stationsbasierten Carsharing auf Stra&#223;en nach
+Landesrecht in den Bundesl&#228;ndern, Stand September 2020 21
+Bild 4-3: Regelungen und Bevorrechtigungen im Sinne des CsgG 22
+Bild 4-4: Bewertung der Auswahlkriterien durch die Kommunen und Kommunalverb&#228;nde 28
+Bild 4-5: Kriterien bei der Auswahl der konkreten Lage der reservierten Stellfl&#228;chen bzw.
+Parkpl&#228;tze f&#252;r Carsharingfahrzeuge 29
+Bild 4-6: Anzahl der Anbieter, denen die m&#246;glichen Bevorrechtigungen helfen w&#252;rden, Ihr
+Angebot in den Kommunen, in denen sie bereits Carsharing anbieten, attraktiver
+zu gestalten 32
+Bild 4-7: Anzahl der Anbieter, denen die m&#246;glichen Bevorrechtigungen helfen w&#252;rden, Ihr
+Angebot auf neue Kommunen auszudehnen 33
+Bild 4-8: Auswirkungen eines attraktiveren Carsharingangebots auf die
+Nutzungsh&#228;ufigkeit 37
+Bild 4-9: Bedingungen f&#252;r die h&#228;ufigere Nutzung des stationsbasierten Carsharing 38
+Bild 4-10: Bedingungen f&#252;r die h&#228;ufigere Nutzung des stationsunabh&#228;ngigen Carsharing 39
+Bild 4-11: Einfluss der Attraktivit&#228;t des Carsharingangebotes auf den Besitz des
+eigenen Pkw 40
+Bild 4-12: Auswirkungen des Carsharing auf das Mobilit&#228;tsverhalten von Pkw-Besitzern,
+Zeitkartenbesitzern, Fahrradbesitzern und Fu&#223;g&#228;ngern 42
+Bild 4-13: Ver&#228;nderung des Mobilit&#228;tsverhaltens seit Carsharingnutzung 44
+Bild 4-14: Auswirkungen des Carsharing auf das Mobilit&#228;tsverhalten der Nutzer mit
+Affinit&#228;t zum stationsunabh&#228;ngigem Carsharing 45
+Bild 4-15: Nutzungsh&#228;ufigkeit der Verkehrsmittel: Differenz &#8222;jetzt&#8220; zu &#8222;vor Corona&#8220; 48
+
+
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>Bericht zur Evaluation des Carsharinggesetzes</titel>
+    <datum>2021-07-02</datum>
+  </document>
+  

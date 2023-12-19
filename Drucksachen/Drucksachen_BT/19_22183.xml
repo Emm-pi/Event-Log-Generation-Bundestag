@@ -1,0 +1,641 @@
+<document>
+    <id>244741</id>
+    <drucksachetyp>Gesetzentwurf</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>31</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/22183</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>2df0996c8a3ba6b7480991be6773591e</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:15+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>266666</id>
+      <titel>Gesetz zur Einf&#252;hrung eines Registers f&#252;r Lobbyisten, Nichtregierungsorganisationen und Lobbydienstleister (Lobbyregistergesetz - LobRegG)</titel>
+      <vorgangstyp>Gesetzgebung</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>AfD</bezeichnung>
+      <titel>Fraktion der AfD</titel>
+    </urheber>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/221/1922183.pdf</pdf_url>
+      <id>244741</id>
+      <dokumentnummer>19/22183</dokumentnummer>
+      <datum>2020-09-09</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Gesetzentwurf</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Fraktion der AfD</urheber>
+    </fundstelle>
+    <autoren_anzeige>
+      <id>2133</id>
+      <titel>Thomas Seitz, MdB, AfD</titel>
+      <autor_titel>Thomas Seitz</autor_titel>
+    </autoren_anzeige>
+    <autoren_anzeige>
+      <id>1987</id>
+      <titel>Jens Maier, MdB, AfD</titel>
+      <autor_titel>Jens Maier</autor_titel>
+    </autoren_anzeige>
+    <text>[Deutscher Bundestag Drucksache 19/22183 
+19. Wahlperiode 09.09.2020 
+Gesetzentwurf
+der Abgeordneten Thomas Seitz, Jens Maier, Andreas Bleck, Stephan Brandner,
+Corinna Miazga, Marc Bernhard, Marcus B&#252;hl, Joana Cotar, Dr. Michael
+Espendiller, Dietmar Friedhoff, Dr. G&#246;tz Fr&#246;mming, Dr. Axel Gehrke, Mariana Iris
+Harder-K&#252;hnel, Dr. Heiko He&#223;enkemper, Martin Hohmann, Johannes Huber,
+Stefan Keuter, J&#246;rn K&#246;nig, Frank Magnitz, Andreas Mrosek, Christoph Neumann,
+Ulrich Oehme, Gerold Otten, Tobias Matthias Peterka, Martin Reichardt,
+Dr. Robby Schlund, Uwe Schulz, Detlev Spangenberg, Dr. Dirk Spaniel, 
+Dr. Harald Weyel, Dr. Christian Wirth und der Fraktion der AfD
+Entwurf eines Gesetzes zur Einf&#252;hrung eines Registers f&#252;r Lobbyisten, 
+Nichtregierungsorganisationen und Lobbydienstleister 
+(Lobbyregistergesetz &#8211; LobRegG)
+A. Problem
+Im Volkswillen wurzeln die demokratische Ordnung und die Gleichheit der
+politischen Mitwirkungsrechte der Deutschen. 
+Die B&#252;rger eines Staates wirken je nach individueller Auspr&#228;gung auf
+unterschiedliche Art und Weise und mit unterschiedlicher Durchsetzungskraft an den
+Entscheidungen mit, die alle Staatsb&#252;rger betreffen. So einzigartig jeder
+Staatsb&#252;rger ist, so individuell sind seine politischen Mitwirkungsm&#246;glichkeiten.
+Sobald sich die Mitwirkungsm&#246;glichkeiten von B&#252;rger zu B&#252;rger aber dahingehend
+unterscheiden, dass der eine dauerhaft politisch deutlich mehr bewirken kann als
+der andere, wird das gesellschaftliche Gleichgewicht empfindlich gest&#246;rt.
+Diejenigen, die sich fortw&#228;hrend ihrer politischen Gestaltungsm&#246;glichkeiten beraubt
+sehen, distanzieren sich vom Staat, seinen Institutionen und Repr&#228;sentanten.
+Insbesondere der Lobbyismus ist geeignet, die politische Chancengleichheit der
+B&#252;rger zu beeintr&#228;chtigen. Lobbyismus liegt vor, wenn Tr&#228;ger
+privatwirtschaftlicher Interessen planm&#228;&#223;ig und langfristig darauf hinwirken, staatliches Handeln
+und insbesondere die Gesetzgebung in ihrem Sinne zu beeinflussen. Viele
+Unternehmen besch&#228;ftigen zu diesem Zweck spezialisierte Arbeitnehmer im eigenen 
+Hause. Andere Unternehmen schlie&#223;en Vertr&#228;ge mit externen Anbietern von
+Lobbydienstleistungen. Solche Dienstleister sind Lobbyagenturen, Anwaltskanzleien,
+Beratungsunternehmen und Stiftungen. 
+Auch der Lobbyismus von Nichtregierungsorganisationen ist grunds&#228;tzlich
+geeignet, die politische Chancengleichheit in einem demokratisch verfassten Staat zu
+beeintr&#228;chtigen. Das gilt insbesondere f&#252;r Nichtregierungsorganisationen, die
+haupts&#228;chlich durch Spenden einzelner oder weniger Gro&#223;spender finanziert
+werden.
+B. L&#246;sung
+Transparenz f&#246;rdert die Wiederherstellung der politischen Chancengleichheit der
+Deutschen, denn Transparenz erm&#246;glicht die &#246;ffentliche Kontrolle von
+Lobbyisten und Nichtregierungsorganisationen. Dieses Gesetz f&#252;hrt deshalb ein Register
+f&#252;r Lobbyisten, Nichtregierungsorganisationen und Lobbydienstleister ein
+(Lobbyregister). Durch das Lobbyregister wird transparent, welche Tr&#228;ger
+privatwirtschaftlicher Interessen sowie Nichtregierungsorganisationen auf die
+Gesetzgebung des Bundes oder andere politische Entscheidungen einwirken wollen. Das
+Gesetz regelt, wie das Register zu f&#252;hren ist, welche Daten erhoben werden und
+welche Folgen Verst&#246;&#223;e gegen die gesetzlichen Bestimmungen haben.
+Transparenz schaffen soll des Weiteren die &#8222;legislative Fu&#223;spur&#8220;, die durch dieses
+Gesetz eingef&#252;hrt wird. Dies bedeutet, dass in Gesetzentw&#252;rfen diejenigen
+Lobbyisten und externen Berater genannt werden, die an der Erarbeitung der
+Gesetzentw&#252;rfe beteiligt waren.  
+C. Alternativen
+Keine.
+D. Haushaltsausgaben ohne Erf&#252;llungsaufwand
+Durch die Einf&#252;hrung des Lobbyregisters entstehen &#8211; &#252;ber die unten im Abschnitt
+&#8222;Erf&#252;llungsaufwand der Verwaltung&#8220; benannten Ausgaben hinaus &#8211; keine
+weiteren Ausgaben f&#252;r den Haushalt des Bundes. Die eingef&#252;hrte Bu&#223;geldpflicht wird
+zu Einnahmen f&#252;r den Haushalt des Bundes f&#252;hren. Die genaue H&#246;he der
+Einnahmen und Ausgaben ist vorab nicht bestimmbar.
+E. Erf&#252;llungsaufwand
+E.1 Erf&#252;llungsaufwand f&#252;r die B&#252;rger
+Erf&#252;llungsaufwand f&#252;r B&#252;rger entsteht durch die Einf&#252;hrung des Lobbyregisters
+nicht, denn f&#252;r den B&#252;rger werden durch das Gesetz weder neue Pflichten
+eingef&#252;hrt noch bestehende ge&#228;ndert oder aufgehoben.
+E.2 Erf&#252;llungsaufwand f&#252;r die Wirtschaft
+Durch die Einf&#252;hrung des Lobbyregisters wird die Wirtschaft mit Kosten belastet.
+Zum einen entstehen Kosten zur Erf&#252;llung der Anzeigepflichten der
+Unternehmen, zum anderen erh&#246;hen sich die Kosten f&#252;r Lobbydienstleistungen durch den
+Mehraufwand bei der Erf&#252;llung der Berichtspflichten. 
+E.3 Erf&#252;llungsaufwand der Verwaltung
+Durch die Einf&#252;hrung des Lobbyregisters entsteht Erf&#252;llungsaufwand bei der
+Verwaltung des Bundes. Das Lobbyregister wird vom Bundesverwaltungsamt
+gef&#252;hrt. Es entsteht ein einmaliger Erf&#252;llungsaufwand durch die Erweiterung der
+Beh&#246;rde und ein j&#228;hrlich wiederkehrender Erf&#252;llungsauswand f&#252;r deren
+Unterhaltung.
+Der Aufbau und der Betrieb des Registers sollen durch einen im Wege der
+Beleihung beauftragten privatrechtsf&#246;rmigen Tr&#228;ger durchgef&#252;hrt werden. F&#252;r die
+Aufsicht &#252;ber den Beliehenen und das Durchf&#252;hren von Bu&#223;geldverfahren bei
+Verst&#246;&#223;en gegen die Meldepflichten und gegen die Vorgaben zur Einsichtnahme in
+das Register entsteht beim Bundesverwaltungsamt Personalaufwand f&#252;r eine
+Vollzeitkraft des h&#246;heren Dienstes sowie f&#252;r zwei Vollzeitkr&#228;fte des gehobenen
+Dienstes. Das Bundesverwaltungsamt wird au&#223;erdem f&#252;r den Erlass von
+Widerspruchsbescheiden sowie die Verfolgung von Ordnungswidrigkeiten
+verantwortlich sein. Dabei entsteht Personalaufwand. 
+F. Weitere Kosten
+F&#252;r die F&#252;hrung des Registers und f&#252;r Einsichtnahmen in dieses Register soll die 
+registerf&#252;hrende Stelle Geb&#252;hren erheben d&#252;rfen. Diese Geb&#252;hren fallen
+gegen&#252;ber denjenigen an, die in das Register eingetragen werden, zum anderen bei
+denjenigen, die Einsicht in das Register nehmen, wobei die H&#246;he auf die Deckung
+des Verwaltungsaufwands begrenzt ist. F&#252;r die Geb&#252;hrenerhebung bestimmt das
+Gesetz die Grundlage. Die Einzelheiten zu den geb&#252;hrenpflichtigen Tatbest&#228;nden,
+den Geb&#252;hrenschuldnern und den Geb&#252;hrens&#228;tzen sollen in einer
+Rechtsverordnung geregelt werden. Die H&#246;he der Kostenbelastung ist nicht quantifizierbar, da
+nicht feststeht, wie viele Personen Einsicht in das Lobbyregister nehmen werden.
+Daneben entstehen weder sonstige Kosten f&#252;r die Wirtschaft noch Kosten f&#252;r
+soziale Sicherungssysteme.
+Entwurf eines Gesetzes zur Einf&#252;hrung eines Registers f&#252;r Lobbyisten, 
+Nichtregierungsorganisationen und Lobbydienstleister 
+(Lobbyregistergesetz &#8211; LobRegG)
+Vom &#8230;
+Der Bundestag hat das folgende Gesetz beschlossen:
+I n h a l t s &#252; b e r s i c h t 
+A b s c h n i t t 1 
+Z w e c k , B e g r i f f s b e s t i m m u n g e n , l e g i s l a t i v e F u &#223; s p u r 
+&#167; 1 Zweck
+&#167; 2 Begriffsbestimmungen 
+&#167; 3 Legislative Fu&#223;spur
+A b s c h n i t t 2 
+R e g i s t r i e r u n g s p f l i c h t 
+&#167; 4 Registrierungspflicht
+&#167; 5 Ausnahmen
+A b s c h n i t t 3 
+V e r t r a g &#252; b e r L o b b y d i e n s t l e i s t u n g e n 
+&#167; 6 Gesetzliche Schweigepflichten
+&#167; 7 Unzul&#228;ssigkeit von Erfolgshonoraren,
+&#167; 8 Hinweispflichten 
+A b s c h n i t t 4 
+D a s L o b b y r e g i s t e r 
+&#167; 9 Meldungen zum Lobbyregister
+&#167; 10 Form und Frist der Meldung, Verordnungserm&#228;chtigung
+&#167; 11 Einrichtung des Lobbyregisters, registerf&#252;hrende Stelle, Verordnungserm&#228;chtigung 
+&#167; 12 &#220;bertragung der F&#252;hrung des Lobbyregisters, Verordnungserm&#228;chtigung
+&#167; 13 Einsichtnahme in das Lobbyregister, Verordnungserm&#228;chtigung
+&#167; 14 Geb&#252;hren und Auslagen, Verordnungserm&#228;chtigung
+A b s c h n i t t 5 
+V e r s c h w i e g e n h e i t s p f l i c h t e n , D a t e n s c h u t z 
+&#167; 15 Verschwiegenheitspflichten 
+&#167; 16 Datenschutz
+A b s c h n i t t 6 
+O r d n u n g s w i d r i g k e i t e n 
+&#167; 17 Ordnungswidrigkeiten
+A b s c h n i t t 7 
+&#220; b e r g a n g s r e g e l u n g , I n k r a f t t r e t e n 
+&#167; 18 &#220;bergangsregelung
+&#167; 19 Inkrafttreten
+A b s c h n i t t 1 
+Z w e c k , B e g r i f f s b e s t i m m u n g e n , l e g i s l a t i v e F u &#223; s p u r 
+&#167; 1
+Zweck
+Das Lobbyregister dient der Transparenz der Rechtsetzung des Bundes. Lobbyisten,
+Nichtregierungsorganisationen und Lobbydienstleister sind zur Anmeldung im Lobbyregister verpflichtet, wenn sie zu
+Funktionstr&#228;gern Kontakt aufnehmen, um die Rechtsetzung des Bundes zu beeinflussen.
+&#167; 2
+Begriffsbestimmungen 
+(1) Ein Lobbyist ist ein Tr&#228;ger privatwirtschaftlicher Interessen, der planm&#228;&#223;ig darauf abzielt, die
+Rechtsetzung des Bundes zu beeinflussen. Nicht als Lobbyist im Sinne des vorliegenden Gesetzes gelten
+K&#246;rperschaften des &#246;ffentlichen Rechts, die als Standesvertretung Aufgaben der berufsst&#228;ndischen Selbstverwaltung
+wahrnehmen. 
+(2) Eine Nichtregierungsorganisationen (&#8222;NGO&#8220;) ist eine K&#246;rperschaft, die nicht vorrangig
+privatwirtschaftliche, sondern politische Interessen verfolgt. Als Nichtregierungsorganisationen k&#246;nnen auch Vereine und
+Verb&#228;nde gelten, die organisatorisch oder personell mit politischen Parteien oder anderen Tr&#228;gern politischer
+Interessen verflochten sind, staatliche finanzielle Zuwendungen erhalten und staatlichen Organisationen
+zuarbeiten.
+(3) Funktionstr&#228;ger sind:
+1. Mitglieder des Bundestages und deren Mitarbeiter;
+2. Mitarbeiter der Fraktionen des Deutschen Bundestages;
+3. Mitarbeiter der Verwaltung des Deutschen Bundestages;
+4. Mitglieder des Bundesrates und deren Mitarbeiter;
+5. Mitarbeiter der Verwaltung des Bundesrates;
+6. Mitglieder und Mitarbeiter des Nationalen Normenkontrollrats;
+7. Mitglieder der Bundesregierung und deren Mitarbeiter;
+8. Mitarbeiter von Bundesbeh&#246;rden;
+9. Mitglieder von Institutionen, deren Mitglieder der Bund bestimmt oder mitbestimmt sowie deren Mitarbeiter.
+(4) Lobbydienstleister ist, wer entgeltlich die Dienstleistung anbietet, zu Funktionstr&#228;gern Kontakt
+aufzunehmen, um die Rechtsetzung des Bundes zu beeinflussen; dies gilt in gleicher Weise f&#252;r Unterauftragnehmer.
+&#167; 3
+Legislative Fu&#223;spur
+Gesetzentw&#252;rfen ist eine Auflistung der Lobbyisten, Nichtregierungsorganisationen und Lobbydienstleister
+sowie der externen Berater und Sachverst&#228;ndigen beizuf&#252;gen, die bei der Erstellung der Gesetzesvorlage
+mitwirkten oder ber&#252;cksichtigt wurden (legislative Fu&#223;spur). 
+A b s c h n i t t 2 
+R e g i s t r i e r u n g s p f l i c h t 
+&#167; 4
+Registrierungspflicht
+(1) Lobbyisten und Nichtregierungsorganisationen werden registrierungspflichtig, wenn sie in einer Weise
+Verbindung zu einem Funktionstr&#228;ger aufnehmen, die geeignet ist, auf die Gesetzgebung des Bundes
+einzuwirken, insbesondere, wenn sie einem Funktionstr&#228;ger Informationen &#252;bermitteln mit Bezug auf bestehende oder
+zuk&#252;nftige
+1. Rechtsetzungsakte eines Organs des Bundes;
+2. v&#246;lkerrechtliche Vertr&#228;ge, Erkl&#228;rungen und Handlungen des Bundes;
+3. Vorlagen im Sinne von &#167; 75 der Gesch&#228;ftsordnung des Deutschen Bundestages;
+4. Handlungen und Erkl&#228;rungen des Bundes im Verh&#228;ltnis zur Europ&#228;ischen Union;
+5. Handlungen und Erkl&#228;rungen einer Institution, deren Mitglieder der Bund bestimmt oder mitbestimmt;
+6. auf die Bestimmung von Mitgliedern einer Institution durch den Bund;
+7. auf die Errichtung oder Ver&#228;nderung einer Institution durch den Bund. 
+(2) Lobbydienstleister werden registrierungspflichtig, wenn sie sich vertraglich verpflichten, zu
+Funktionstr&#228;gern Kontakt aufzunehmen, um die Rechtsetzung des Bundes zu beeinflussen.
+&#167; 5
+Ausnahmen
+Nicht registrierungspflichtig sind 
+1. Kleinunternehmer im Sinne des &#167; 19 UStG, unter Ausnahme von Nichtregierungsorganisationen;
+2. Handlungen, die ausschlie&#223;lich der &#246;ffentlichen Kommunikation dienen und zur Wahrnehmung in der
+&#214;ffentlichkeit bestimmt sind;
+3. Mitglieder des Deutschen Bundestages, Mitglieder eines deutschen Landtages und Mitglieder der
+kommunalen Selbstverwaltung einer deutschen Gebietsk&#246;rperschaft sowie deutsche Amtstr&#228;ger, soweit diese zur
+Aus&#252;bung ihres Mandates oder Amtes einen Lobbyisten beauftragen;
+4. diplomatischer und konsularischer Verkehr.
+A b s c h n i t t 3 
+V e r t r a g &#252; b e r L o b b y d i e n s t l e i s t u n g e n 
+&#167; 6
+Gesetzliche Schweigepflichten
+Soweit Tr&#228;ger beruflicher gesetzlicher Schweigepflichten im Sinne des &#167; 203 StGB Lobbydienstleistungen
+erbringen, gelten die gesetzlichen Schweigepflichten nicht. 
+&#167; 7
+Unzul&#228;ssigkeit von Erfolgshonoraren
+In einem Lobbydienstleistungsvertrag darf kein Erfolgshonorar vereinbart werden. Ist dennoch ein
+Erfolgshonorar vereinbart, gilt der Erfolg unwiderlegbar als nicht eingetreten. Als Erfolgshonorar gilt eine Verg&#252;tung,
+die vom Ausgang der Rechtsetzung oder eines sonstigen Erfolges der Informations&#252;bermittlung des
+Lobbydienstleisters an einen Funktionstr&#228;ger abh&#228;ngig ist.
+&#167; 8
+Hinweispflichten
+Lobbydienstleister sind verpflichtet, ihre Auftraggeber &#252;ber die Registrierungspflichten nach diesem Gesetz
+zu unterrichten
+A b s c h n i t t 4 
+D a s L o b b y r e g i s t e r 
+&#167; 9
+Meldungen zum Lobbyregister
+(1) Registrierungspflichtige sind verpflichtet, dem Register ihre folgenden Daten anzugeben:
+1. Name;
+2. inl&#228;ndischer Sitz;
+3. inl&#228;ndische zustellungsf&#228;hige Adresse;
+4. Telefonnummer;
+5. E-Mail-Anschrift;
+6. Internetadresse;
+7. Umsatzsteuer-Identifikationsnummer;
+8. Registernummern (insb. Handelsregister, Vereinsregister);
+9. bei juristischen Personen: obengenannte Daten bez&#252;glich der gesetzlichen Vertreter;
+10. bei juristischen Personen: obengenannte Daten bez&#252;glich Mutter-, Tochtergesellschaften oder
+Schwestergesellschaften.
+(2) Registrierungspflichtige sind verpflichtet, dem Register Angaben zu ihrem T&#228;tigkeitsbereich zu
+machen.
+(3) Registrierungspflichtige sind verpflichtet, dem Register die Namen ihrer gesetzlichen Vertreter sowie
+ihrer leitenden Angestellten anzugeben, die innerhalb der vorangegangenen f&#252;nf Jahre Mitglieder des Deutschen
+Bundestages, der Bundesregierung, eines Landesparlamentes, der Regierung eines deutschen Landes oder des
+Europ&#228;ischen Parlamentes waren oder die als Mitarbeiter in einer europ&#228;ischen Institution oder als politische 
+Beamte des Bundes oder eines deutschen Landes t&#228;tig waren. Die staatlichen Lobbyisten sind von der Pflicht aus
+Satz 1 befreit.
+(4) Lobbydienstleister sind zudem verpflichtet, entsprechende Daten &#252;ber ihren Vertragspartner
+anzugeben.
+&#167; 10
+Form und Frist der Meldung, Verordnungserm&#228;chtigung
+(1) Die Meldung nach &#167; 9 ist nach Entstehung der Registrierungspflicht unverz&#252;glich abzugeben.
+(2) Die Meldung nach &#167; 9 hat elektronisch zu erfolgen. Bei einer St&#246;rung der elektronischen
+Daten&#252;bermittlung ist die &#220;bermittlung auf dem Postweg zul&#228;ssig.
+(3) Das Bundesministerium des Innern, f&#252;r Bau und Heimat kann durch Rechtsverordnung ohne
+Zustimmung des Bundesrates n&#228;here Bestimmungen &#252;ber die Form der Meldung nach &#167; 9 erlassen. 
+&#167; 11
+Einrichtung des Lobbyregisters, registerf&#252;hrende Stelle; Verordnungserm&#228;chtigung
+(1) Es wird ein Register f&#252;r Lobbyisten, Nichtregierungsorganisationen und Lobbydienstleister
+(Lobbyregister) eingerichtet. 
+(2) Das Lobbyregister wird als hoheitliche Aufgabe des Bundes von der registerf&#252;hrenden Stelle
+elektronisch gef&#252;hrt. Daten, die im Lobbyregister gespeichert sind, werden als chronologische Datensammlung angelegt. 
+(3) Ist eine Mitteilung nach &#167; 10 unklar oder bestehen Zweifel, kann die registerf&#252;hrende Stelle von der in 
+der Mitteilung genannten Vereinigung verlangen, dass diese die f&#252;r eine Eintragung in das Lobbyregister
+erforderlichen Informationen innerhalb einer angemessenen Frist &#252;bermittelt.
+(4) Die registerf&#252;hrende Stelle erstellt auf Antrag Ausdrucke von Daten, die im Lobbyregister gespeichert
+sind. Sie beglaubigt auf Antrag, dass die &#252;bermittelten Daten mit dem Inhalt des Lobbyregisters &#252;bereinstimmen. 
+Mit der Beglaubigung ist keine Gew&#228;hr f&#252;r die Richtigkeit und Vollst&#228;ndigkeit der Angaben verbunden. 
+(5) Die registerf&#252;hrende Stelle erstellt ein Informationssicherheitskonzept f&#252;r das Lobbyregister, aus dem
+sich die getroffenen technischen und organisatorischen Ma&#223;nahmen zum Datenschutz ergeben.
+(6) Das Bundesministerium des Innern, f&#252;r Bau und Heimat wird erm&#228;chtigt, durch Rechtsverordnung die 
+technischen Einzelheiten zu Einrichtung und F&#252;hrung des Lobbyregisters einschlie&#223;lich der Speicherung
+historischer Datens&#228;tze sowie die Einhaltung von L&#246;schungsfristen f&#252;r die im Lobbyregister gespeicherten Daten zu
+regeln. 
+&#167; 12
+&#220;bertragung der F&#252;hrung des Lobbyregisters, Verordnungserm&#228;chtigung
+(1) Das Bundesministerium des Innern, f&#252;r Bau und Heimat wird erm&#228;chtigt, durch Rechtsverordnung, die
+nicht der Zustimmung des Bundesrates bedarf, eine juristische Person des Privatrechts mit den Aufgaben der
+registerf&#252;hrenden Stelle und mit den hierf&#252;r erforderlichen Befugnissen zu beleihen.
+(2) Eine juristische Person des Privatrechts darf nur beliehen werden, wenn sie die Gew&#228;hr f&#252;r die
+ordnungsgem&#228;&#223;e Erf&#252;llung der ihr &#252;bertragenen Aufgaben, insbesondere f&#252;r den langfristigen und sicheren Betrieb 
+des Lobbyregisters, bietet. Sie bietet die notwendige Gew&#228;hr, wenn
+1. die nat&#252;rlichen Personen, die nach Gesetz, dem Gesellschaftsvertrag oder der Satzung die Gesch&#228;ftsf&#252;hrung
+und Vertretung aus&#252;ben, zuverl&#228;ssig und fachlich geeignet sind;
+2. sie &#252;ber grundlegende Erfahrungen mit der Zug&#228;nglichmachung von registerrechtlichen Informationen
+verf&#252;gt;
+3. sie die zur Erf&#252;llung ihrer Aufgaben notwendige Organisation sowie technische und finanzielle Ausstattung
+aufweist;
+4. sie sicherstellt, dass sie die Vorschriften zum Schutz personenbezogener Daten einh&#228;lt.
+(3) Die Dauer der Beleihung ist zu befristen. Sie soll f&#252;nf Jahre nicht unterschreiten. Die M&#246;glichkeit, bei
+Vorliegen eines wichtigen Grundes die Beleihung vor Ablauf der Frist zu beenden, ist vorzusehen. Haben die
+Voraussetzungen f&#252;r die Beleihung nicht vorgelegen oder sind sie nachtr&#228;glich entfallen, soll die Beleihung
+jederzeit beendet werden k&#246;nnen. Es ist sicherzustellen, dass mit Beendigung der Beleihung dem
+Bundesministerium des Innern, f&#252;r Bau und Heimat oder einer von ihm bestimmten Stelle alle f&#252;r den ordnungsgem&#228;&#223;en
+Weiterbetrieb des Lobbyregisters erforderlichen Softwareprogramme und Daten unverz&#252;glich zur Verf&#252;gung gestellt
+werden und die Rechte an diesen Softwareprogrammen und an der f&#252;r das Lobbyregister genutzten Internetadresse
+&#252;bertragen werden.
+(4) Der Beliehene ist berechtigt, das kleine Bundessiegel zu f&#252;hren. Es wird vom Bundesministerium des
+Innern, f&#252;r Bau und Heimat zur Verf&#252;gung gestellt. Das kleine Bundessiegel darf ausschlie&#223;lich zur Beglaubigung
+von Ausdrucken aus dem Lobbyregister genutzt werden.
+(5) Der Beliehene ist befugt, Geb&#252;hren zu erheben. Das Geb&#252;hrenaufkommen steht ihm zu. In der
+Rechtsverordnung kann das Bundesministerium des Innern, f&#252;r Bau und Heimat die Vollstreckung der
+Geb&#252;hrenbescheide dem Beliehenen &#252;bertragen.
+(6) Der Beliehene untersteht der Rechts- und Fachaufsicht durch das Bundesverwaltungsamt. Das
+Bundesverwaltungsamt kann sich zur Wahrnehmung seiner Aufsichtst&#228;tigkeit jederzeit &#252;ber die Angelegenheiten des
+Beliehenen unterrichten, insbesondere durch Einholung von Ausk&#252;nften und Berichten sowie durch das
+Verlangen nach Vorlage von Aufzeichnungen aller Art, rechtswidrige Ma&#223;nahmen beanstanden sowie entsprechende
+Abhilfe verlangen. Der Beliehene ist verpflichtet, den Weisungen des Bundesverwaltungsamts nachzukommen.
+Dieses kann, wenn der Beliehene den Weisungen nicht oder nicht fristgerecht nachkommt, die erforderlichen
+Ma&#223;nahmen an Stelle und auf Kosten des Beliehenen selbst durchf&#252;hren oder durch einen anderen durchf&#252;hren
+lassen. Die Bediensteten und sonstigen Beauftragten des Bundesverwaltungsamts sind befugt, zu den Betriebs-
+und Gesch&#228;ftszeiten Betriebsst&#228;tten, Gesch&#228;fts- und Betriebsr&#228;ume des Beliehenen zu betreten, zu besichtigen
+und zu pr&#252;fen, soweit dies zur Erf&#252;llung ihrer Aufgaben erforderlich ist. Gegenst&#228;nde oder gesch&#228;ftliche
+Unterlagen k&#246;nnen im erforderlichen Umfang eingesehen und in Verwahrung genommen werden.
+(7) F&#252;r den Fall, dass keine juristische Person des Privatrechts beliehen wird, oder f&#252;r den Fall, dass die
+Beleihung beendet wird, kann das Bundesministerium des Innern, f&#252;r Bau und Heimat die F&#252;hrung des
+Lobbyregisters auf eine Bundesoberbeh&#246;rde in seinem Gesch&#228;ftsbereich oder im Einvernehmen mit dem zust&#228;ndigen
+Bundesministerium auf eine Bundesoberbeh&#246;rde in dessen Gesch&#228;ftsbereich &#252;bertragen.
+&#167; 13
+Einsichtnahme in das Lobbyregister, Verordnungserm&#228;chtigung
+(1) Die Einsichtnahme in das Lobbyregister ist gestattet
+1. jedem Deutschen und jedem B&#252;rger der Europ&#228;ischen Union;
+2. den folgenden Beh&#246;rden, soweit sie zur Erf&#252;llung ihrer gesetzlichen Aufgaben erforderlich ist:
+a) den Aufsichtsbeh&#246;rden;
+b) der Zentralstelle f&#252;r Finanztransaktionsuntersuchungen;
+c) den gem&#228;&#223; &#167; 13 des Au&#223;enwirtschaftsgesetzes zust&#228;ndigen Beh&#246;rden;
+d) den Strafverfolgungsbeh&#246;rden;
+e) dem Bundeszentralamt f&#252;r Steuern sowie den &#246;rtlichen Finanzbeh&#246;rden nach &#167; 6 Absatz 2 Nummer 5 
+der Abgabenordnung;
+f) den f&#252;r Aufkl&#228;rung, Verh&#252;tung und Beseitigung von Gefahren zust&#228;ndigen Beh&#246;rden;
+3. den Verpflichteten, sofern sie der registerf&#252;hrenden Stelle darlegen, dass die Einsichtnahme zur Erf&#252;llung
+ihrer Sorgfaltspflichten erfolgt.
+(2) Auf Antrag des Auftraggebers beschr&#228;nkt die registerf&#252;hrende Stelle die Einsichtnahme in das
+Lobbyregister vollst&#228;ndig oder teilweise, wenn ihr der Auftraggeber darlegt, dass der Einsichtnahme unter
+Ber&#252;cksichtigung aller Umst&#228;nde des Einzelfalls &#252;berwiegende schutzw&#252;rdige Interessen des Auftraggebers entgegenstehen.
+Schutzw&#252;rdige Interessen liegen vor, wenn
+1. Tatsachen die Annahme rechtfertigen, dass die Einsichtnahme den Auftraggeber der Gefahr aussetzen w&#252;rde,
+Opfer einer der folgenden Straftaten zu werden:
+a) eines Betrugs (&#167; 263 des Strafgesetzbuchs);
+b) eines erpresserischen Menschenraubs (&#167; 239a des Strafgesetzbuchs);
+c) einer Geiselnahme (&#167; 239b des Strafgesetzbuchs);
+d) einer Erpressung oder r&#228;uberischen Erpressung (&#167;&#167; 253, 255 des Strafgesetzbuchs);
+e) einer strafbaren Handlung gegen Leib oder Leben (&#167;&#167; 211, 212, 223, 224, 226, 227 des
+Strafgesetzbuchs);
+f) einer N&#246;tigung (&#167; 240 des Strafgesetzbuchs);
+g) einer Bedrohung (&#167; 241 des Strafgesetzbuchs);
+2. der Auftraggeber minderj&#228;hrig oder gesch&#228;ftsunf&#228;hig ist. 
+Schutzw&#252;rdige Interessen des Auftraggebers liegen nicht vor, wenn sich die Daten bereits aus anderen
+&#246;ffentlichen Registern ergeben. Die Beschr&#228;nkung der Einsichtnahme nach Satz 1 ist nicht m&#246;glich gegen&#252;ber den in
+Absatz 1 Nummer 2 aufgef&#252;hrten Beh&#246;rden und gegen&#252;ber Verpflichteten nach &#167; 2 Absatz 1 Nummer 1 bis 3 und 
+7. 
+(3) Das Bundesministerium des Innern, f&#252;r Bau und Heimat wird erm&#228;chtigt, durch Rechtsverordnung, die
+nicht der Zustimmung des Bundesrates bedarf, die Einzelheiten der Einsichtnahme; der Online-Registrierung; der
+Protokollierung, insbesondere der zu protokollierenden Daten und der L&#246;schungsfrist f&#252;r die protokollierten
+Daten; der Darlegungsanforderungen f&#252;r die Einsichtnahme und der Darlegungsanforderungen f&#252;r die Beschr&#228;nkung
+der Einsichtnahme zu bestimmen.
+&#167; 14
+Geb&#252;hren und Auslagen, Verordnungserm&#228;chtigung
+(1) F&#252;r die F&#252;hrung des Lobbyregisters erhebt die registerf&#252;hrende Stelle von den
+Registrierungspflichtigen Geb&#252;hren.
+(2) F&#252;r die Einsichtnahme in die dem Lobbyregister mitgeteilten Daten erhebt die registerf&#252;hrende Stelle
+zur Deckung des Verwaltungsaufwands Geb&#252;hren und Auslagen. Dasselbe gilt f&#252;r die Erstellung von
+Ausdrucken, Best&#228;tigungen und Beglaubigungen. &#167; 7 Nummer 2 und 3 des Bundesgeb&#252;hrengesetzes ist nicht anwendbar.
+F&#252;r Beh&#246;rden gilt &#167; 8 des Bundesgeb&#252;hrengesetzes.
+(3) Das Bundesministerium des Innern, f&#252;r Bau und Heimat wird erm&#228;chtigt, durch Rechtsverordnung
+Einzelheiten zu Folgendem n&#228;her zu regeln:
+1. die geb&#252;hrenpflichtigen Tatbest&#228;nde;
+2. die Geb&#252;hrenschuldner;
+3. die Geb&#252;hrens&#228;tze nach festen S&#228;tzen oder als Rahmengeb&#252;hren und
+4. die Auslagenerstattung.
+A b s c h n i t t 5 
+V e r s c h w i e g e n h e i t s p f l i c h t e n , D a t e n s c h u t z 
+&#167; 15
+Verschwiegenheitspflichten
+(1) Personen, die bei der registerf&#252;hrenden Stelle besch&#228;ftigt sind, d&#252;rfen die ihnen bei ihrer T&#228;tigkeit
+bekannt gewordenen Tatsachen nicht unbefugt offenbaren oder verwerten, wenn die Geheimhaltung dieser
+Tatsachen, insbesondere Gesch&#228;fts- und Betriebsgeheimnisse, im Interesse eines Verpflichteten oder eines Dritten liegt.
+Satz 1 gilt auch, wenn sie nicht mehr im Dienst sind oder ihre T&#228;tigkeit beendet ist. Die datenschutzrechtlichen
+Bestimmungen, die von den Verpflichteten zu beachten sind, bleiben unber&#252;hrt. 
+(2) Absatz 1 gilt auch f&#252;r andere Personen, die durch dienstliche Berichterstattung Kenntnis von den in
+Absatz 1 Satz 1 bezeichneten Tatsachen erhalten.
+(3) Ein unbefugtes Offenbaren oder Verwerten liegt nicht vor, wenn Tatsachen an eine der folgenden
+Stellen weitergegeben werden, soweit diese Stellen die Informationen zur Erf&#252;llung ihrer Aufgaben ben&#246;tigen und
+soweit der Weitergabe keine anderen Rechtsvorschriften entgegenstehen:
+1. an Strafverfolgungsbeh&#246;rden oder an f&#252;r Straf- und Bu&#223;geldsachen zust&#228;ndige Gerichte;
+2. an andere Stellen, die kraft Gesetzes oder im &#246;ffentlichen Auftrag mit der Aufkl&#228;rung und Verhinderung von
+Geldw&#228;sche oder von Terrorismusfinanzierung betraut sind, sowie an Personen, die von diesen Stellen
+beauftragt sind;
+3. an die Zentralstelle f&#252;r Finanztransaktionsuntersuchungen;
+4. an andere Stellen, die kraft Gesetzes oder im &#246;ffentlichen Auftrag mit der Aufsicht &#252;ber das allgemeine
+Risikomanagement oder &#252;ber die Compliance von Verpflichteten betraut sind, sowie an Personen, die von
+diesen Stellen beauftragt sind. 
+(4) Befindet sich eine Stelle in einem anderen Staat oder handelt es sich um eine supranationale Stelle, so
+d&#252;rfen die Tatsachen nur weitergegeben werden, wenn die bei dieser Stelle besch&#228;ftigten Personen oder die von
+dieser Stelle beauftragten Personen einer Verschwiegenheitspflicht unterliegen, die der Verschwiegenheitspflicht
+nach den Abs&#228;tzen 1 bis 3 weitgehend entspricht. Die ausl&#228;ndische oder supranationale Stelle ist darauf
+hinzuweisen, dass sie Informationen nur zu dem Zweck verwenden darf, zu dessen Erf&#252;llung ihr die Informationen
+&#252;bermittelt werden. Informationen, die aus einem anderen Staat stammen, d&#252;rfen weitergegeben werden
+1. nur mit ausdr&#252;cklicher Zustimmung der zust&#228;ndigen Stellen, die diese Informationen mitgeteilt haben, und
+2. nur f&#252;r solche Zwecke, denen die zust&#228;ndigen Stellen zugestimmt haben.
+&#167; 16
+Datenschutz 
+(1) Die registerf&#252;hrende Stelle berichtigt unrichtig gespeicherte personenbezogene Daten, die sie
+automatisiert verarbeitet. Sie vernichtet Unterlagen mit personenbezogenen Daten entsprechend den Bestimmungen &#252;ber
+die Aufbewahrung von Akten, wenn diese Unterlagen insgesamt zur Erf&#252;llung der Aufgaben nicht mehr
+erforderlich sind. Die Vernichtung unterbleibt, wenn 
+1. Anhaltspunkte vorliegen, dass anderenfalls schutzw&#252;rdige Interessen des Betroffenen beeintr&#228;chtigt w&#252;rden,
+oder
+2. die Daten f&#252;r laufende Forschungsarbeiten ben&#246;tigt werden.
+(2) Die registerf&#252;hrende Stelle l&#246;scht gespeicherte personenbezogene Daten, wenn die Speicherung dieser
+Daten unzul&#228;ssig ist oder die Kenntnis dieser Daten f&#252;r die Aufgabenerf&#252;llung nicht mehr erforderlich ist. An die
+Stelle einer L&#246;schung tritt eine Einschr&#228;nkung der Verarbeitung der gespeicherten personenbezogenen Daten,
+wenn
+1. Anhaltspunkte vorliegen, dass durch die L&#246;schung schutzw&#252;rdige Interessen eines Betroffenen
+beeintr&#228;chtigt w&#252;rden, 
+2. die Daten f&#252;r laufende Forschungsarbeiten ben&#246;tigt werden oder
+3. eine L&#246;schung wegen der besonderen Art der Speicherung nur mit unverh&#228;ltnism&#228;&#223;igem Aufwand m&#246;glich 
+ist.
+Der eingeschr&#228;nkten Verarbeitung unterliegende Daten d&#252;rfen nur f&#252;r den Zweck verarbeitet werden, f&#252;r den die 
+L&#246;schung unterblieben ist. Sie d&#252;rfen auch verarbeitet werden, soweit dies zur Durchf&#252;hrung eines laufenden
+Strafverfahrens unerl&#228;sslich ist oder der Betroffene einer Verarbeitung zustimmt.
+(3) Die registerf&#252;hrende Stelle pr&#252;ft bei der Einzelfallbearbeitung und nach festgesetzten Fristen, ob
+gespeicherte personenbezogene Daten zu berichtigen, zu l&#246;schen oder in der Verarbeitung einzuschr&#228;nken sind. Die
+Frist beginnt mit der Eintragung.
+(4) Der Bundesbeauftragte f&#252;r den Datenschutz und die Informationssicherheit ergreift angemessene
+Ma&#223;nahmen, um zu gew&#228;hrleisten, dass personenbezogene Daten, die unrichtig, unvollst&#228;ndig oder in der
+Verarbeitung eingeschr&#228;nkt sind, nicht &#252;bermittelt werden. Zu diesem Zweck &#252;berpr&#252;ft er die Qualit&#228;t der Daten vor ihrer
+&#220;bermittlung. Bei jeder &#220;bermittlung von personenbezogenen Daten f&#252;gt er nach M&#246;glichkeit Informationen bei, 
+die es dem Empf&#228;nger gestatten, die Richtigkeit, die Vollst&#228;ndigkeit und die Zuverl&#228;ssigkeit der
+personenbezogenen Daten zu beurteilen. 
+A b s c h n i t t 6 
+O r d n u n g s w i d r i g k e i t e n 
+&#167; 17
+Ordnungswidrigkeiten
+(1) Ordnungswidrig handelt, wer vors&#228;tzlich oder leichtfertig
+1. nach &#167; 9 anzugebende Daten nicht dem Lobbyregister angibt;
+2. trotz T&#228;tigkeitsverbots nach &#167; 6 registrierungspflichtig handelt. 
+(2) Die Ordnungswidrigkeit kann geahndet werden mit einer Geldbu&#223;e bis zu 100.000 Euro. 
+A b s c h n i t t 7 
+&#220; b e r g a n g s r e g e l u n g , I n k r a f t t r e t e n 
+&#167; 18
+&#220;bergangsregelung
+Die Meldungen nach &#167; 9 haben erstmals bis zum 1. Januar 2022 an das Lobbyregister zu erfolgen.
+&#167; 19
+Inkrafttreten 
+Dieses Gesetz tritt am Tag nach seiner Verk&#252;ndung in Kraft.
+Berlin, den 8. September 2020 
+Dr. Alice Weidel, Dr. Alexander Gauland und Fraktion
+Begr&#252;ndung
+A. Allgemeiner Teil
+I. Zielsetzung und Notwendigkeit der Regelungen
+Durch das vorliegende Gesetz soll der in Deutschland wirkende Lobbyismus durch die Schaffung von
+Transparenz eingehegt werden. Transparenz erm&#246;glicht die &#246;ffentliche Kontrolle der Einflussnahme von Tr&#228;gern
+privatwirtschaftlicher Interessen auf staatliche Entscheidungsprozesse. Das Verh&#228;ltnism&#228;&#223;igkeitsprinzip wird geachtet.
+Au&#223;erdem regelt das Gesetz die &#8222;legislative Fu&#223;spur&#8220;. Dies bedeutet, dass in Gesetzesvorlagen die Lobbyisten 
+benannt werden, die auf die Erarbeitung der Gesetzesvorlagen Einfluss nahmen. 
+Die Einspeisung von Fachwissen und Sonderwissen in den Gesetzgebungsprozess ist legitim und bleibt
+erw&#252;nscht. Ein untragbares &#220;berma&#223; ist hingegen erreicht, wenn Vertreter von Interessengruppen selbst
+Gesetzentw&#252;rfe formulieren.
+II. Wesentlicher Inhalt des Entwurfs
+Dieses Gesetz f&#252;hrt ein Register f&#252;r Lobbyisten, Nichtregierungsorganisationen und Lobbydienstleister
+(Lobbyregister) ein. Das Gesetz regelt, wie das Register zu f&#252;hren ist, welche Daten erhoben werden und welche Folgen 
+Verst&#246;&#223;e gegen die gesetzlichen Bestimmungen haben. 
+III. Gesetzgebungskompetenz 
+Der Gesetzentwurf st&#252;tzt sich auf die Gesetzgebungskompetenzen aus Artikel 74 Absatz 1 Nummer 11 des
+Grundgesetzes hinsichtlich der Regelung des privatwirtschaftlichen Lobbyismus sowie auf Artikel 74 Absatz 1
+Nummer 3 des Grundgesetzes jeweils in Verbindung mit Artikel 72 des Grundgesetzes hinsichtlich der Regelung des
+staatlichen Lobbyismus.
+IV. Vereinbarkeit mit dem Recht der Europ&#228;ischen Union und v&#246;lkerrechtlichen Vertr&#228;gen
+Der Gesetzentwurf ist mit dem Recht der Europ&#228;ischen Union und v&#246;lkerrechtlichen Vertr&#228;gen vereinbar.
+B. Besonderer Teil
+Zu Abschnitt 1 (Zweck, Begriffsbestimmungen, legislative Fu&#223;spur)
+Abschnitt 1 regelt die Zweckbestimmung des Gesetzes und definiert wichtige Begriffe des Gesetzes.
+Zu &#167; 1 (Zweck)
+&#167; 1 beschreibt den Zweck des Gesetzes, der Transparenz bei der Rechtsetzung des Bundes herzustellen, indem
+Lobbyisten, Nichtregierungsorganisationen und Lobbydienstleister zur Anmeldung im Lobbyregister verpflichtet
+sind, wenn sie zu Funktionstr&#228;gern Kontakt aufnehmen, um die Rechtsetzung des Bundes zu beeinflussen.
+Zu &#167; 2 (Begriffsbestimmungen)
+&#167; 2 definiert die Begriffe des Gesetzes.
+Abs. 1 
+&#8222;Lobbyist&#8220; wird definiert als ein Tr&#228;ger privatwirtschaftlicher Interessen, der planm&#228;&#223;ig darauf abzielt, die
+Rechtsetzung des Bundes zu beeinflussen.
+Berufsst&#228;ndische K&#246;rperschaften als traditionelle, gewachsene Elemente demokratischer Willensbildung werden
+nicht als Lobbyist im Sinne des Gesetzes angesehen. Somit gilt die Registrierungspflicht insbesondere nicht f&#252;r
+Apothekerkammern, Architektenkammern, &#196;rztekammern, Lotsenkammern, Ingenieurkammern, Notarkammern, 
+Patentanwaltskammer, Psychotherapeutenkammern, Rechtsanwaltskammern, Steuerberaterkammern,
+Tier&#228;rztekammern, Wirtschaftspr&#252;ferkammern, Zahn&#228;rztekammern, Handwerkskammern, Industrie- und
+Handelskammern, Landwirtschaftskammern, Arbeitnehmerkammern, Arbeitskammern, Pflegekammern und dergleichen.
+Abs. 2 
+&#8222;Nichtregierungsorganisation&#8220; (&#8222;NGO&#8220;) wird definiert als eine K&#246;rperschaft, die nicht vorrangig
+privatwirtschaftliche, sondern politische Interessen verfolgt. Der Begriff der Nichtregierungsorganisationen ist weit
+auszulegen. Als Nichtregierungsorganisationen k&#246;nnen auch K&#246;rperschaften gelten, die organisatorisch oder personell
+mit politischen Parteien oder anderen Tr&#228;gern politischer Interessen verflochten sind, staatliche finanzielle
+Zuwendungen erhalten und staatlichen Organisationen zuarbeiten.  
+Abs. 3 
+Absatz 3 z&#228;hlt &#8222;Funktionstr&#228;ger&#8220; enumerativ auf. Benannt sind funktional notwendig an der Rechtsetzung
+Beteiligte. 
+Abs. 4 
+In Abs. 4 wird der &#8222;Lobbydienstleister&#8220; definiert. Lobbydienstleister ist, wer entgeltlich die Dienstleistung
+anbietet, zu Funktionstr&#228;gern Kontakt aufzunehmen, um die Rechtsetzung des Bundes zu beeinflussen; dies gilt in
+gleicher Weise f&#252;r Unterauftragnehmer. 
+Zu &#167; 3 (Legislative Fu&#223;spur)
+Die legislative Fu&#223;spur betrifft Gesetzesvorlagen sowohl der Bundesregierung als auch der Fraktionen und
+Abgeordneten. Den Gesetzesvorlagen ist eine Auflistung der Lobbyisten sowie der externen Berater und
+Sachverst&#228;ndigen beizuf&#252;gen, die bei der Erstellung der Gesetzesvorlage mitwirkten oder ber&#252;cksichtigt wurden. Die
+Auflistung ist mit den Entw&#252;rfen zu ver&#246;ffentlichen.
+Die legislative Fu&#223;spur dient der Offenlegung des Einflusses von Lobbyisten auf staatliche Organe durch externe,
+von staatlichen Organen beauftragte Berater.
+Zu Abschnitt 2 (Registrierungspflicht)
+Abschnitt 2 regelt, wer zur Registrierung im Lobbyregister verpflichtet ist.
+Zu &#167; 4 (Registrierungspflicht)
+Es wird geregelt, welche Rechtsubjekte die F&#228;higkeit haben, registrierungspflichtig zu werden: dies sind
+Lobbyisten, Nichtregierungsorganisationen und Lobbydienstleister. Der Ankn&#252;pfungspunkt f&#252;r das Entstehen einer
+Registrierungspflicht ist jedoch das Handeln der Rechtssubjekte. 
+Bei Lobbyisten und Nichtregierungsorganisationen l&#246;st die Verbindungsaufnahme zu einem Funktionstr&#228;ger die 
+Registrierungspflicht aus. Die Registrierungspflicht wird angekn&#252;pft an die &#8222;Kontaktaufnahme in einer Weise,
+die geeignet ist, auf die Gesetzgebung des Bundes einzuwirken. Dabei muss die Verbindungsaufnahme mit dem
+Ziel geschehen, auf die Gesetzgebung des Bundes einzuwirken. Objektives Anzeichen daf&#252;r ist die &#220;bermittlung 
+von Informationen zu beispielhaft genannten Akten der Gesetzgebung des Bundes.
+Lobbydienstleister werden durch Abschluss eines Lobbydienstleistungsvertrages registrierungspflichtig. Im Sinne
+des Gesetzes ist &#8222;Abschluss eines Lobbydienstleistungsertrages&#8220; weit auszulegen. Unwirksame, nichtige oder
+schwebend unwirksame Vertr&#228;ge oder weit fortgeschrittene Vertragsverhandlungen sind einbezogen. Einbezogen
+sind auch Unterauftragnehmer.
+Zu &#167; 5 (Ausnahmen)
+Die Registrierungspflicht bei privatwirtschaftlichem Lobbyismus erstreckt sich nicht auf Kleinunternehmer im
+Sinne des &#167; 19 UStG. F&#252;r Nichtregierungsorganisationen gilt diese Ausnahme nicht.
+Klarstellend als Ausnahme angef&#252;hrt &#8211; obwohl bereits tatbestandlich ausgenommen &#8211; sind Handlungen
+privatwirtschaftlicher Lobbyisten, die ausschlie&#223;lich der &#246;ffentlichen Kommunikation dienen und zur Wahrnehmung
+in der &#214;ffentlichkeit bestimmt sind. 
+Ebenfalls klarstellend als Ausnahme angef&#252;hrt &#8211; obwohl bereits tatbestandlich ausgenommen &#8211; sind Mitglieder
+des Deutschen Bundestages, Mitglieder eines deutschen Landtages und Mitglieder der kommunalen
+Selbstverwaltung einer deutschen Gebietsk&#246;rperschaft sowie deutsche Amtstr&#228;ger in Aus&#252;bung ihres Mandates oder Amtes
+und ebenso der diplomatische und konsularische Verkehr. 
+Zu Abschnitt 3 (Vertrag &#252;ber Lobbydienstleistungen)
+Abschnitt 3 enth&#228;lt Regelungen &#252;ber den Lobbydienstleistungsvertrag. Nach &#167; 2 Absatz 4 dieses Gesetzes ist
+Lobbydienstleister, wer entgeltlich die Dienstleistung anbietet, die Rechtsetzung des Bundes zu beeinflussen
+(Lobbydienstleistungsvertrag). 
+Zu &#167; 6 (Gesetzliche Schweigepflichten)
+Zur Vermeidung eines Interessenkonfliktes zwischen Schweigepflichten und Offenlegungspflichten wird die
+Erbringung von Lobbydienstleistungen aus dem Geltungsbereich der gesetzlichen Schweigepflichten im Sinne des
+&#167; 203 StGB ausgenommen.
+Zu &#167; 7 (Unzul&#228;ssigkeit von Erfolgshonoraren)
+Erfolgshonorare w&#252;rden dem Lobbydienstleister ein Verg&#252;tungsrisiko zuweisen, welches zu unseri&#246;sen
+Gesch&#228;ftspraktiken verleitet. Deshalb tritt das Gesetz der Vereinbarung von Erfolgshonoraren in
+Lobbydienstleistungsvertr&#228;gen entgegen. Eine Regelungstechnik zur Verhinderung von Erfolgshonoraren ist die Aufstellung
+einer unwiderlegbaren gesetzlichen Vermutung des Nichteintritts des Erfolges. Durch unwiderlegbare gesetzliche
+Vermutung haben Klagen auf Verg&#252;tung aus Erfolgshonoraren keine Aussicht auf Erfolg. Dies soll die
+Vereinbarung von Erfolgshonoraren wirtschaftlich unattraktiv machen. 
+Zu &#167; 8 (Hinweispflichten)
+Lobbydienstleister sind verpflichtet, ihre Auftraggeber &#252;ber die Registrierungspflichten nach diesem Gesetz zu
+unterrichten
+Zu Abschnitt 4 (Das Lobbyregister)
+Abschnitt 4 regelt die Registerf&#252;hrung des Lobbyregisters.
+Zu &#167; 9 (Meldungen zum Lobbyregister)
+Dem Lobbyregister sind abschlie&#223;end aufgez&#228;hlte Daten anzugeben, mithilfe derer die registrierungspflichtigen 
+Personen identifizierbar sind. Die Daten sind im Einzelnen im Gesetz aufgez&#228;hlt. Die Registrierungspflichtigen
+sollen ihren T&#228;tigkeitsbereich aussagekr&#228;ftig beschreiben. Au&#223;erdem sollen sie angeben, welche ihrer
+gesetzlichen Vertreter sowie ihrer leitenden Angestellten abschlie&#223;end aufgez&#228;hlte Mandate und Funktionen im Staat
+innehatten. Lobbydienstleister sind zudem verpflichtet, entsprechende Daten &#252;ber ihren Vertragspartner
+anzugeben.
+Zu &#167; 10 (Form und Frist der Meldung, Verordnungserm&#228;chtigung)
+Dem Lobbyregister sind unverz&#252;glich nach Entstehung der Registrierungspflicht die anzuzeigenden Daten zu
+&#252;bersenden. Die Anzeige erfolgt elektronisch im Sinne der Digitalstrategie. Die Einzelheiten werden durch
+Rechtsverordnung des Bundesministeriums des Innern, f&#252;r Bau und Heimat geregelt. 
+Zu &#167; 11 (Einrichtung des Lobbyregisters, registerf&#252;hrende Stelle, Verordnungserm&#228;chtigung)
+In &#167; 11 wird die Einrichtung des Lobbyregisters geregelt. Die Grunds&#228;tze des Datenschutzes werden dargelegt.
+Die Einzelheiten werden durch Rechtsverordnung des Bundesministeriums des Innern, f&#252;r Bau und Heimat
+geregelt.
+Zu &#167; 12 (&#220;bertragung der F&#252;hrung des Lobbyregisters, Verordnungserm&#228;chtigung)
+&#167; 12 regelt die Beleihung eines Dritten zur F&#252;hrung des Lobbyregisters. Die Grunds&#228;tze der Beleihung werden
+dargelegt. Die Beleihung bedarf einer Rechtsverordnung des Bundesministeriums des Innern, f&#252;r Bau und Heimat.
+Zu &#167; 13 (Einsichtnahme in das Lobbyregister, Verordnungserm&#228;chtigung)
+In &#167; 13 wird geregelt, wer in das Lobbyregister Einsicht nehmen darf. Die Grunds&#228;tze der Einsichtnahme werden
+dargelegt. Die Einzelheiten werden durch Rechtsverordnung des Bundesministeriums des Innern, f&#252;r Bau und
+Heimat geregelt.  
+Zu &#167; 14 (Geb&#252;hren und Auslagen, Verordnungserm&#228;chtigung)
+In &#167; 14 wird geregelt, dass die registerf&#252;hrende Stelle von den Registrierungspflichtigen Geb&#252;hren f&#252;r die
+Eintragung ins Lobbyregister erhebt. Ebenso sind Geb&#252;hren f&#252;r Einsichtnahmen in das Register vorgesehen. Die
+Einzelheiten werden durch Rechtsverordnung des Bundesministeriums des Innern, f&#252;r Bau und Heimat geregelt.  
+Zu Abschnitt 5 (Verschwiegenheitspflichten, Datenschutz)
+Dieses Kapitel trifft Regelungen zu den gesetzlichen Verschwiegenheitspflichten und dem Datenschutz.
+Zu &#167; 15 (Verschwiegenheitspflichten)
+In &#167; 15 wird klargestellt, welche Verschwiegenheitspflichten im Zusammenhang mit der Eintragung ins
+Lobbyregister bestehen. 
+Zu &#167; 16 (Datenschutz)
+In &#167; 16 wird dargelegt, welche Regelungen zum Datenschutz im Zusammenhang mit der Eintragung ins
+Lobbyregister bestehen.
+Zu Abschnitt 6 (Ordnungswidrigkeiten)
+Dieser Abschnitt regelt den Umgang mit Ordnungswidrigkeiten in Zusammenhang mit diesem Gesetz. 
+Zu &#167; 17 (Ordnungswidrigkeiten)
+In &#167; 17 wird geregelt, welche Ordnungswidrigkeitstatbest&#228;nde bestehen, welche Geldbu&#223;en ausgesprochen
+werden k&#246;nnen und welche Beh&#246;rde f&#252;r das Ordnungswidrigkeitsverfahren zust&#228;ndig ist. 
+Zu Abschnitt 7 (&#220;bergangsregelung, Inkrafttreten)
+Dieser Abschnitt regelt das Inkrafttreten des Gesetzes und den zeitlichen Beginn der Meldepflichten.
+Zu &#167; 18 (&#220;bergangsregelung)
+In &#167; 18 wird geregelt, ab wann erstmals Meldungen zum Lobbyregister erfolgen sollen. 
+Zu &#167; 19 (Inkrafttreten)
+In &#167; 19 wird geregelt, ab wann das Gesetz in Kraft tritt. 
+
+
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>Entwurf eines Gesetzes zur Einf&#252;hrung eines Registers f&#252;r Lobbyisten, Nichtregierungsorganisationen und Lobbydienstleister (Lobbyregistergesetz - LobRegG)</titel>
+    <datum>2020-09-09</datum>
+  </document>
+  

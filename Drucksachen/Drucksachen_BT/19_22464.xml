@@ -1,0 +1,119 @@
+<document>
+    <id>245082</id>
+    <drucksachetyp>Kleine Anfrage</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>44</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/22464</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>5297e06e1be6dd972bd15dff4fb976b1</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:15+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>267117</id>
+      <titel>Datenschutzrechtliche Auflagen f&#252;r US-Tech-Unternehmen im deutschen Gesundheitswesen</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>FDP</bezeichnung>
+      <titel>Fraktion der FDP</titel>
+    </urheber>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/224/1922464.pdf</pdf_url>
+      <id>245082</id>
+      <dokumentnummer>19/22464</dokumentnummer>
+      <datum>2020-09-15</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Kleine Anfrage</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Fraktion der FDP</urheber>
+    </fundstelle>
+    <autoren_anzeige>
+      <id>1005</id>
+      <titel>Christine Aschenberg-Dugnus, MdB, FDP</titel>
+      <autor_titel>Christine Aschenberg-Dugnus</autor_titel>
+    </autoren_anzeige>
+    <autoren_anzeige>
+      <id>7549</id>
+      <titel>Michael Theurer, MdB, FDP</titel>
+      <autor_titel>Michael Theurer</autor_titel>
+    </autoren_anzeige>
+    <text>[Kleine Anfrage
+der Abgeordneten Christine Aschenberg-Dugnus, Michael Theurer, Renata Alt, 
+Nicole Bauer, Jens Beeck, Dr. Jens Brandenburg (Rhein-Neckar), Mario 
+Brandenburg (S&#252;dpfalz), Carl-Julius Cronenberg, Hartmut Ebbing, Dr. Marcus 
+Faber, Daniel F&#246;st, Otto Fricke, Thomas Hacker, Reginald Hanke, Peter Heidt, 
+Katrin Helling-Plahr, Markus Herbrand, Torsten Herbst, Katja Hessel, Manuel 
+H&#246;ferlin, Reinhard Houben, Ulla Ihnen, Olaf in der Beek, Dr. Christian Jung, 
+Dr. Marcel Klinge, Carina Konrad, Konstantin Kuhle, Roman M&#252;ller-B&#246;hm, 
+Dr. Martin Neumann, Hagen Reinhold, Bernd Reuther, Dr. Wieland Schinnenburg, 
+Matthias Seestern-Pauly, Frank Sitta, Dr. Hermann Otto Solms, Dr. Marie-Agnes 
+Strack-Zimmermann, Katja Suding, Linda Teuteberg, Stephan Thomae, Manfred 
+Todtenhausen, Dr. Florian Toncar, Gerald Ullrich, Sandra Weeser, Nicole Westig 
+und der Fraktion der FDP
+Datenschutzrechtliche Auflagen f&#252;r US-Tech-Unternehmen im deutschen 
+Gesundheitswesen
+Das Interesse amerikanischer Tech-Konzerne am deutschen Gesundheitswesen 
+und damit auch an deutschen Gesundheitsdaten ist bereits seit einem vom 
+Spitzenverband der gesetzlichen Krankenversicherungen (GKV) in Auftrag
+gegebenen Bericht der Firma Deloitte bekannt (2019, https://www.handelsblat
+t.com/unternehmen/it-medien/sxsw-2019/gesundheitspolitik-google-apple-
+undamazon-werden-zur-gefahr-fuer-deutsche-krankenversicherer/24056698.html?t
+icket=ST-8426421-mvITc5vwqjRIMNst2Nw9-ap3). Hierbei verf&#252;gen
+Unternehmen wie Apple (AppStore) und Google (GooglePlay) &#252;ber eine
+monopolistische Stellung beim Vertrieb digitaler Gesundheitsanwendungen. Gesundheits-
+Apps k&#246;nnen f&#252;r generelle Zwecke (Gewichtsverlust, Fitnessroutine), die
+Behandlung bestimmter Krankheiten sowie f&#252;r das &#8222;App auf Rezept&#8220; (https://ww
+w.bfarm.de/DE/Medizinprodukte/DVG/_node.html) genutzt werden. In allen 
+F&#228;llen geben die Daten Aufschluss &#252;ber den Gesundheitszustand der sich in 
+Deutschland befindenden Person. Zudem basieren diese Anwendungen auf der 
+Eingabe von pers&#246;nlichen Gesundheitsdaten. Anders als in den Vereinigten 
+Staaten selbst, wo datenschutzrechtliche Aspekte in Bezug auf China bereits 
+Teil der &#246;ffentlichen Debatte waren (https://www.tagesschau.de/wirtschaft/anho
+erung-tech-konzerne-101.html), werden Fragen nach der Zur&#252;ckverfolgung von 
+Downloads und der Weitergabe von Nutzerdaten im Sinne des Datenschutzes 
+sowie nach sicherheitsrelevanten Themen bisher in Deutschland noch nicht 
+&#246;ffentlich diskutiert.
+Deutscher Bundestag Drucksache 19/22464
+19. Wahlperiode 15.09.2020
+Wir fragen die Bundesregierung:
+1. Welche Informationen erhalten Anbieter g&#228;ngiger App-Stores, also Apple 
+und Google, nach Kenntnis der Bundesregierung, wenn Patienten
+demn&#228;chst durch das Bundesinstitut f&#252;r Arzneimittel und Medizinprodukte 
+(BfArM) in den App-Stores digitale Gesundheitsanwendungen in Form von 
+nativen Apps herunterladen, nachdem sie diese von einem Arzt
+verschrieben bekommen haben?
+2. K&#246;nnen nach Kenntnis der Bundesregierung Google und Apple dahin
+gehend erkennen, welche digitalen Gesundheitsanwendungen Patienten
+herunterladen und durch Namen und Beschreibung der entsprechenden digitalen 
+Gesundheitsanwendungen Informationen dar&#252;ber bekommen, welche
+Diagnose zuvor der Arzt gestellt haben muss, sodass er dem Patienten die
+entsprechende digitale Gesundheitsanwendung verschrieben hat?
+a) Falls ja, inwieweit h&#228;lt die Bundesregierung es f&#252;r problematisch, dass 
+Apple und Google damit Kenntnis &#252;ber Informationen der Diagnose
+erlangen, die sonst der &#228;rztlichen Schweigepflicht unterliegen, und mit 
+deren Nutzung oder Auswertung sie wom&#246;glich kommerzielle
+Interessen verfolgen?
+b) Falls ja, plant die Bundesregierung, Regelungen zu schaffen, dass die 
+Patienten &#252;ber diese datenschutzrechtliche Problematik bei
+Verschreibung oder Nutzung einer digitalen Gesundheitsanwendung aufgekl&#228;rt 
+werden?
+c) Falls ja, plant die Bundesregierung, alternative L&#246;sungen f&#252;r den
+Download digitaler Gesundheitsanwendungen als native Apps zu schaffen?
+3. Unternimmt die Bundesregierung etwas, um durch alternative Anbieter der 
+monopolistischen Stellung von Apple und Google im Gesundheitsbereich 
+entgegenzuwirken, und wenn ja, was, wenn nein, warum nicht?
+4. Unternimmt die Bundesregierung etwas, um die datenschutzrechtliche 
+Akzeptanz wichtiger und notwendiger digitaler Gesundheitsanwendungen 
+zu gew&#228;hrleisten, und wenn ja, was, wenn nein, warum nicht?
+Berlin, den 10. September 2020
+Christian Lindner und Fraktion
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>Datenschutzrechtliche Auflagen f&#252;r US-Tech-Unternehmen im deutschen Gesundheitswesen</titel>
+    <datum>2020-09-15</datum>
+  </document>
+  

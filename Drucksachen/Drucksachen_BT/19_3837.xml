@@ -1,0 +1,706 @@
+<document>
+    <id>221495</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/3837</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>2e2fd015f60ef3885a9a6a7654078960</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>238194</id>
+      <titel>Schutz der Ressource elektromagnetische Umgebung</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium f&#252;r Wirtschaft und Energie</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/038/1903837.pdf</pdf_url>
+      <id>221495</id>
+      <dokumentnummer>19/3837</dokumentnummer>
+      <datum>2018-08-15</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums f&#252;r Wirtschaft und Energie vom 
+14. August 2018 &#252;bermittelt.  
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext. 
+Deutscher Bundestag  Drucksache 19/3837 
+19. Wahlperiode 15.08.2018 
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Ralph Lenkert, Dr. Gesine L&#246;tzsch, 
+Lorenz G&#246;sta Beutin, weiterer Abgeordneter und der Fraktion DIE LINKE. 
+&#8211; Drucksache 19/3641 &#8211; 
+Schutz der Ressource elektromagnetische Umgebung 
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r  
+Mit dem Gesetz &#252;ber die elektromagnetische Vertr&#228;glichkeit von
+Betriebsmitteln (EMVG) will der Gesetzgeber sicherstellen, dass Betriebsmittel den
+europarechtlichen Vorschriften entsprechen, aufgrund derer sie in ihrer
+elektromagnetischen Umgebung bestimmungsgem&#228;&#223; arbeiten k&#246;nnen, ohne elektromagnetische 
+St&#246;rungen zu verursachen, die f&#252;r andere in dieser Umgebung vorhandenen
+Betriebsmittel unannehmbar w&#228;ren (vgl. www.funkmagazin.de/160118.htm; www. 
+bundesnetzagentur.de/SharedDocs/Downloads/DE/Allgemeines/Presse/ 
+Pressemitteilungen/2018/20180112_PMD.pdf?__blob=publicationFile&amp;v=2). 
+Laut Bundesnetzagentur stellen &#8222;St&#246;rungen von sicherheitsrelevanten
+Funkanwendungen wie zum Beispiel dem Funkverkehr von Rettungsdiensten, Feuerwehr 
+und Polizei oder Flugfunkst&#246;rungen (&#8230;) eine erhebliche Gefahr f&#252;r die
+&#214;ffentlichkeit dar&#8220; (www.bundesnetzagentur.de/SharedDocs/Downloads/DE/ 
+Allgemeines/Presse/Pressemitteilungen/2017/13012017_Funkstoerungen. 
+pdf?__blob=publicationFile&amp;v=1). 
+Allein aus China wurden im Jahr 2017 elektronische Ger&#228;te und Ausr&#252;stung im 
+Wert von &#252;ber 49 Mrd. Euro importiert (vgl. www.auwi-bayern.de/Asien/ 
+China/export-import-statistik.html). Dem standen f&#252;r die Markt&#252;berwachung 
+zum pr&#228;ventiven Schutz der elektromagnetischen Umgebung 2017 nach
+Auskunft der Bundesnetzagentur ca. 100 Mitarbeiterinnen und Mitarbeiter
+gegen&#252;ber (vgl. www.funkmagazin.de/050118.htm sowie www.bundesnetzagentur. 
+de/SharedDocs/Downloads/DE/Allgemeines/Presse/Pressemitteilungen/2018/ 
+20180104_Marktueberwachung.pdf;jsessionid=D1C8A6B6346DC2062D 
+0B4DB8D62E1583?__blob=publicationFile&amp;v=2).
+1. Welche Kenntnisse hat die Bundesregierung &#252;ber die allgemeine
+Entwicklung des &#8222;Man-made Noise&#8220; (unerw&#252;nschtes elektromagnetisches
+St&#246;rsignalrauschen) im Bereich der Kurzwelle, des UKW-Bereichs, bei DAB-
+Anwendungen und insbesondere im Bereich des Amateurfunkdienstes jeweils 
+in l&#228;ndlichen und st&#228;dtischen Gebieten (bitte f&#252;r alle Anwendungen einzeln 
+beschreiben)? 
+Messungen der Bundesnetzagentur haben gezeigt, dass das gleichm&#228;&#223;ige 
+(&#8222;wei&#223;e&#8220;) Rauschen des Man-Made Noise heute tendenziell eher unterhalb der 
+Werte der ITU-R Empfehlung P.372 liegt. Anscheinend &#252;berwiegen hier die 
+Ma&#223;nahmen zur Regulierung der EMV-Abstrahlung gegen&#252;ber der stark
+gestiegenen Anzahl potentieller St&#246;rquellen wie elektronische Ger&#228;te. 
+Eine Ausnahme hiervon stellt der Kurzwellenbereich dar, wo es in potenziell
+ruhigen Umgebungen h&#246;here Rauschwerte gibt als in der ITU-Empfehlung
+angenommen. 
+Die Messungen haben aber auch gezeigt, dass es heute oft sehr hohe
+Impulsspitzen des MMN gibt, das durch die oben angegebenen Werte des wei&#223;en Rauschens 
+nicht ber&#252;cksichtigt wird. Diese Impulssignale k&#246;nnen auch digitale Funkdienste 
+durchaus st&#246;ren, besonders wenn diese innerhalb von Geb&#228;uden betrieben
+werden, was ebenfalls durch die Empfehlung nicht ber&#252;cksichtigt ist. Um das
+St&#246;rpotential von Impulssignalen zu quantifizieren gibt es jedoch derzeit keine
+international anerkannte Methode. Zu Einzelheiten wird auf die Anlage verwiesen. 
+2. Wie viele Mitarbeiterinnen und Mitarbeiter sind bei der Bundesnetzagentur 
+mit dem Aufgabenbereich des Pr&#252;f- und Messdienstes betraut?  
+F&#252;r den Aufgabenbereich des Pr&#252;f- und Messdienstes sind aktuell 323 Kr&#228;fte
+eingesetzt. 
+3. Wie viele Mitarbeiterinnen und Mitarbeiter sind im EMV-Labor in Kolberg 
+t&#228;tig, und wie viele Ger&#228;te oder Serien ist das Labor in der Lage, j&#228;hrlich 
+messtechnisch zu pr&#252;fen? 
+Im EMV-Labor in Kolberg sind aktuell 17 Kr&#228;fte t&#228;tig. 
+Die Hauptaufgabe des Messlabors Kolberg ist die Durchf&#252;hrung von Messungen 
+f&#252;r die Markt&#252;berwachung der Bundesnetzagentur im EMV- und Funkbereich. 
+Es werden dort j&#228;hrlich ca. 1 100 Serien- und Einzelger&#228;te auf Einhaltung der 
+grundlegenden Anforderungen nach dem Gesetz &#252;ber die elektromagnetische 
+Vertr&#228;glichkeit von Betriebsmitteln (EMVG) und dem Gesetz &#252;ber Funkanlagen 
+(FuAG) gepr&#252;ft. 
+Jede Ger&#228;teserie besteht in der Regel aus drei bis f&#252;nf gleichen Ger&#228;ten, so dass 
+jedes Jahr insgesamt ca. 4 000 Ger&#228;te gepr&#252;ft werden. Bei Funkger&#228;ten werden 
+neben den Funkparametern nach &#167; 4 Absatz 2 FuAG auch der Schutz der
+Gesundheit und Sicherheit nach &#167; 4 Absatz 1 Nummer 1 sowie die elektromagnetische 
+Vertr&#228;glichkeit nach &#167; 4 Absatz 1 Nummer 2 gepr&#252;ft. Aufgrund des sich
+ver&#228;ndernden Marktes und des h&#246;heren potentiellen Risikos verschiebt sich der 
+Schwerpunkt der Messungen zunehmend weg von EMV hin zu Funk. Hierbei ist 
+allerdings zu beachten, dass Messungen an Funkprodukten im Vergleich zu
+Messungen an EMV-Produkten meist deutlich aufwendiger sind.
+Im Messlabor Kolberg wird folgende Verfahrensweise im Pr&#252;fablauf
+angewendet: 
+Es wird zun&#228;chst nur ein Ger&#228;t einer jeden Ger&#228;teserie normgerecht entsprechend 
+den im Amtsblatt der europ&#228;ischen Union gelisteten harmonisierten Normen
+gemessen. H&#228;lt dieses Ger&#228;t alle Grenzwerte ein, wird unterstellt, dass auch alle 
+anderen Ger&#228;te dieser Ger&#228;teserie normkonform sind, und es werden alle
+(einschlie&#223;lich der ungemessenen) Ger&#228;te wieder an den Handel zur&#252;ckgegeben. Nur 
+bei Grenzwert&#252;berschreitungen am ersten Ger&#228;t werden auch die anderen Ger&#228;te 
+dieser Ger&#228;teserie gemessen, um eine statistisch belastbare Aussage &#252;ber die 
+Grenzwert&#252;berschreitungen dieses Ger&#228;tetyps zu erhalten. 
+Bei der o. g. Pr&#252;fquote und Verfahrensweise ist das Messlabor Kolberg zu etwa 
+90 bis 95 Prozent ausgelastet. Die restlichen 5 bis 10 Prozent der Messkapazit&#228;t 
+stehen f&#252;r weitere Aufgaben zur Verf&#252;gung: 
+&#61623; Messungen f&#252;r die Bundesnetzagentur im Rahmen der europ&#228;ischen
+Standardisierung  
+&#61623; Messungen f&#252;r die Bundesnetzagentur im Rahmen der St&#246;rungsbearbeitung 
+und f&#252;r das Frequenzmanagement  
+&#61623; Messungen f&#252;r die Bundesnetzagentur zur Unterst&#252;tzung des Pr&#252;f- und
+Messdienstes  
+&#61623; Messungen f&#252;r europ&#228;ische Markt&#252;berwachungskampagnen und im Rahmen 
+der Amtshilfe 
+4. Wurden seit Dezember 2016 Standorte zur Wahrnehmung des Pr&#252;f- und 
+Messdienstes neu eingerichtet oder geschlossen? 
+Wenn ja, welche, und aufgrund welcher Begr&#252;ndung? 
+Es wurden weder neue Standorte mit der Aufgabenwahrnehmung des Pr&#252;f- und 
+Messdienstes betraut noch wurden Standorte geschlossen. 
+5. Wie wird die Untersagung der Bereitstellung, Inverkehrbringung und
+Weitergabe von elektronischen Ger&#228;ten, die durch die Bundesnetzagentur per 
+allgemeiner Verf&#252;gung nach der Ermittlung eines Versto&#223;es gegen das 
+Funkanlagengesetz (FuAG) bzw. das Gesetz &#252;ber die elektromagnetische 
+Vertr&#228;glichkeit von Betriebsmitteln (EMVG) ausgesprochen wurde, in der 
+Praxis dezidiert umgesetzt? 
+Da nicht davon ausgegangen werden kann, dass der Handel und der Verbraucher 
+das Amtsblatt der Bundesnetzagentur bezieht, werden die Allgemeinverf&#252;gungen 
+auch auf der Internetseite der Bundesnetzagentur ver&#246;ffentlicht.  
+Die markteinschr&#228;nkenden Ma&#223;nahmen der Bundesnetzagentur m&#252;ssen
+angemessen sein, so dass erst die Aufforderung des R&#252;ckrufes aus dem Handel oder 
+ein R&#252;ckruf vom Kunden einen Verkaufsstopp im Handel ausl&#246;st. Findet der
+Au&#223;endienst solche Produkte, so untersagt er den Verkauf, und ggf. k&#246;nnen
+Zwangsgelder angedroht werden. &#196;hnlich wird bei Produkten vorgegangen, die im
+Internet angeboten werden.
+6. Welche weitergehenden Ma&#223;nahmen werden bei Nichtbefolgung ergriffen? 
+Wird das Mittel &#8222;Absch&#246;pfung der Gewinne&#8220; und Beschlussnahme und
+Vernichtung zu Lasten von Vertreiberinnen und Vertreibern und
+Inverkehrbringerinnen und Inverkehrbringern angewendet? 
+Entsprechend dem EMVG und dem FuAG sind bei Pflichtverletzungen der
+Wirtschaftsakteure Ordnungswidrigkeitsverfahren gegen diese Wirtschaftsakteure 
+einzuleiten. Die H&#246;he des Bu&#223;geldes richtet sich nach den Umst&#228;nden des
+Einzelfalls. Hierbei kann die Anzahl der beanstandeten Ger&#228;te(typen), die Anzahl der 
+in den Verkehr gebrachten Ger&#228;te, wiederholtes Fehlverhalten usw. zur
+Festlegung der H&#246;he des Bu&#223;geldes herangezogen werden. Entsprechendes gilt auch 
+f&#252;r eine Gewinnabsch&#246;pfung und eine m&#246;gliche Einziehung von Ger&#228;ten.  
+7. Welche M&#246;glichkeiten haben nach Kenntnis der Bundesregierung
+B&#252;rgerinnen und B&#252;rger, die auf angebotene Produkte aufmerksam werden, deren 
+Verbreitung durch die Bundesnetzagentur untersagt wurde, deren Nutzung 
+schnellstm&#246;glich unterbinden zu lassen? 
+In der Antwort zu Frage 5 wurde dargelegt, dass bei markteinschr&#228;nkenden
+Ma&#223;nahmen das Risiko, das von dem Produkt ausgeht, zu ber&#252;cksichtigen ist. Die 
+markteinschr&#228;nkenden Ma&#223;nahmen werden daher entsprechend einer
+Risikoanalyse f&#252;r das Produkt festgesetzt. Gef&#228;hrliche Produkte k&#246;nnen unmittelbar dem 
+Handel gemeldet werden. Zus&#228;tzlich sollte jedoch auch die
+Markt&#252;berwachungsbeh&#246;rde informiert werden, falls weitere Ma&#223;nahmen erforderlich sind.
+Gef&#228;hrliche Produkte, die auf Internetplattformen angeboten werden, k&#246;nnen direkt der 
+Plattformen gemeldet werden, die die Angebote dann von der Plattform nehmen. 
+Die Europ&#228;ische Kommission hat hierzu vor kurzem eine Presseerkl&#228;rung zum 
+Thema &#8222;Europ&#228;ische Kommission und vier Online-Marktpl&#228;tze unterzeichnen 
+Verpflichtungserkl&#228;rung f&#252;r mehr Produktsicherheit, um gef&#228;hrliche Produkte 
+aus dem Verkehr zu ziehen&#8220; herausgegeben (hierzu wird auf die Internetseite der 
+EU-Kommission verwiesen). 
+8. Bei wie vielen elektronischen Ger&#228;tetypen hat die Bundesnetzagentur im 
+Rahmen der Markt&#252;berwachung Stichproben zur Pr&#252;fung der Einhaltung der 
+Konformit&#228;tserkl&#228;rungen nach EMVG seit Beginn 2010 durchgef&#252;hrt (bitte 
+nach Jahren aufschl&#252;sseln)? 
+Die Anzahl der gepr&#252;ften Ger&#228;tetypen zeigt folgende Tabelle: 
+9. Wie viel Prozent der neu auf den Markt gebrachten Ger&#228;tetypen entsprach 
+dies jeweils? 
+Hierzu liegen der Bundesregierung keine Angaben vor. Es gibt keine
+verl&#228;sslichen Daten dar&#252;ber, wie viele neue Produkte j&#228;hrlich auf dem deutschen Markt 
+bereitgestellt werden. 
+Aktivit&#228;t 2010 2011 2012 2013 2014 2015 2016 2017 
+Markt&#252;berwachung 
+vor Ort 
+3.627 4.161 7.189 2.890 3.115 3.361 3.166 3007 
+Zusammenarbeit mit 
+dem Zoll 
+613 2.821 4.229 5.457 6.844 9.829 10.694 16.600
+10. F&#252;r welche Ger&#228;te wurden seit Beginn 2010 die Inverkehrbringung bzw. 
+Weiterverbreitung untersagt (bitte chronologisch auflisten)? 
+Die erbetenen Daten sind folgender Tabelle zu entnehmen: 
+Aktivit&#228;t 2010 2011 2012 2013 2014 2015 2016 2017 
+Markteinschr&#228;nkende 
+Ma&#223;nahmen vor Ort 
+EMV 
+Funk 
+ 
+ 
+263 
+237 
+ 
+ 
+285 
+335 
+ 
+ 
+290 
+267 
+ 
+ 
+351 
+252 
+ 
+ 
+366 
+423 
+ 
+ 
+488 
+619 
+ 
+ 
+183 
+756 
+ 
+ 
+332 
+516 
+Produktsperrungen durch 
+eCommerce-Plattformen 
+nach Hinweis durch 
+BNetzA (Start in 2011)  
+- 10.205 1.982 268.775 531.303 28.207 986.789 455.755 
+Keine Freigabe der
+Warensendung durch den 
+Zoll 
+483 2.256 3.533 5.085 6.196 8.885 9.410 14.200 
+11. Wie viele amtliche Informationsschriften welcher Beh&#246;rden des Bundes 
+werden durch externe Dienstleisterinnen und Dienstleister erstellt, und f&#252;r 
+welche dieser Schriften wird f&#252;r den elektronischen Bezug ein Entgelt
+erhoben?  
+Die Bundesregierung hat keine gesammelten Erkenntnisse &#252;ber die Anzahl
+s&#228;mtlicher amtlicher Informationsschriften sowie deren Erstellung durch externe 
+Dienstleister; ein solcher umfassender &#220;berblick liegt nicht vor. Es liegt in der 
+Zust&#228;ndigkeit der jeweiligen Organisationseinheit, die &#252;bertragenen Aufgaben 
+bestm&#246;glich zu erledigen. Z&#228;hlt es mit zu den Aufgaben, bestimmte
+Personenkreise zu informieren, so entscheidet die Beh&#246;rde &#252;ber Art des Mediums, die
+Erstellung der Schrifts&#228;tze sowie deren Auflage. Ob ein Bezug kostenfrei oder
+mittels Entgeltzahlung angeboten wird, wird aufgrund des Zweckes der
+Informationsschrift unter Beachtung des Bundesgeb&#252;hrengesetzes (BGebG) entschieden. 
+12. Was ist nach Auffassung der Bundesregierung eine geeignete Frist, Inhalte 
+aus dem Amtsblatt der Bundesnetzagentur frei verf&#252;gbar auf den
+Internetseiten der Bundesnetzagentur zur Verf&#252;gung zu stellen, so dass dem
+Informationsauftrag der Bundesregierung noch diskriminierungsfrei gegen&#252;ber der 
+mit Entgelt behafteten Ver&#246;ffentlichung im Amtsblatt der
+Bundesnetzagentur gen&#252;ge getan ist? 
+Die Ver&#246;ffentlichung von Inhalten durch die Bundesnetzagentur ist gesetzlich
+geregelt und erfolgt entweder parallel in Amtsblatt und Internet (vgl. &#167; 5 TKG) oder 
+nach den jeweiligen einschl&#228;gigen gesetzlichen Vorgaben. Sofern eine
+Ver&#246;ffentlichung nur im Amtsblatt vorgesehen ist, wie etwa im Falle von &#167; 41c Absatz 3 
+TKG, ist dies zu beachten. Die gesetzlich vorgesehene Ver&#246;ffentlichung nur im 
+Amtsblatt ist nicht als &#8222;diskriminierend&#8220; anzusehen, weil der Bezug allen
+Personen offensteht. Die hier in Rede stehenden Entgelte sollen die Produktions- und 
+Vertriebskosten decken. 
+Die Abgabe eines Amtsblattes gegen Entgelt ist durchaus &#252;blich. Auch
+Amtsbl&#228;tter anderer Beh&#246;rden (Gemeinsames Ministerialblatt (www.gmbl-online.de/ 
+bestellmoeglichkeiten/), Bundesgesundheitsblatt sowie offizielle Mitteilungen 
+diverser Kommunal- und Landesbeh&#246;rden) sind nach dem gleichen
+Bezugsmodell regelm&#228;&#223;ig gegen Entrichtung eines Bezugspreises zu beziehen.
+Im Rahmen der Markt&#252;berwachung werden jedoch Allgemeinverf&#252;gungen, mit 
+denen die Untersagung von Bereitstellung, Inverkehrbringen und Weitergabe von 
+elektronischen Ger&#228;ten ausgesprochen werden, sofort auch auf der Internetseite 
+der Bundesnetzagentur ver&#246;ffentlicht.  
+13. Welche Kenntnisse hat die Bundesregierung &#252;ber den allgemeinen Zustand 
+von telekommunikationstechnischen Kabelnetzen in Wohnquartieren und 
+H&#228;usern, abh&#228;ngig von deren Alter und hinsichtlich deren
+elektromagnetischer Abschirmung? 
+Messfahrten der Bundesnetzagentur zum pr&#228;ventiven Schutz von
+sicherheitsrelevanten Funkanlagen, die im Rahmen der Sicherheitsfunk-Schutzverordnung 
+durchgef&#252;hrt werden, haben in den letzten Jahren keine Anzeichen f&#252;r eine
+Verschlechterung des Abstrahlungsverhaltens von Hausnetzen (Netzebenen 4 und 5) 
+gezeigt. 
+Hier ist davon auszugehen, dass zuk&#252;nftig im Zusammenhang mit der Einf&#252;hrung 
+von h&#246;herwertigen &#220;bertragungsverfahren (DOCSIS 3.1) eine gute Schirmung 
+der Hausnetze (z. B. mit hochgeschirmten Endanschlusskabeln) im Interesse
+jedes Hausnetzbetreibers liegen muss, um bestm&#246;gliche
+&#220;bertragungsgeschwindigkeiten zu erreichen. Schlecht geschirmte Hausnetze beg&#252;nstigen
+unerw&#252;nschte Einstrahlungen anderer Frequenznutzer und k&#246;nnen zur deutlichen 
+Minderung von &#220;bertragungsgeschwindigkeiten in Hausnetzen f&#252;hren. 
+14. Welche Kenntnisse hat die Bundesregierung &#252;ber die Implementierung des 
+DOCSIS-3.1-Verfahrens? 
+Die Implementierung des &#220;bertragungsverfahrens DOCSIS 3.1 in HFC-
+Kabelnetze erfolgt durch mehrere Kabelnetzbetreiber seit Sommer 2018. 
+15. Welche zeitlichen Planungen zur Implementierung des Verfahrens sind der 
+Bundesregierung bekannt, und wird es nach Kenntnis der Bundesregierung 
+bereits angewendet? 
+Wenn ja, wo? 
+Die Kabelnetzbetreiber planen die schrittweise Umstellung der Kabelnetze auf 
+das &#220;bertragungsverfahren DOCSIS 3.1. Hierzu finden bereits umfangreiche 
+Vorarbeiten zur Vorbereitung und Umstellung der Netze statt. Pilotprojekte f&#252;r 
+die Umstellung liegen nach Erkenntnissen der Bundesnetzagentur in Bochum 
+bzw. in den St&#228;dten Landshut und Dingolfing. Die Bundesregierung geht davon 
+aus, dass das &#220;bertragungsverfahren DOCSIS 3.1 ab Fr&#252;hjahr 2019, insbesondere 
+von den gr&#246;&#223;eren Kabelnetzbetreibern, im verst&#228;rkten Umfang genutzt wird. 
+16. Teilt die Bundesregierung die Sorge, dass die elektromagnetische
+Umgebung mit der Implementierung des DOCSIS-3.1-Verfahrens in unzureichend 
+abgeschirmten Kabelnetzen infolge breitbandig abgestrahlter
+elektromagnetischer St&#246;rungen auf UKW-, DAB- und Frequenzen des
+Amateurfunkdienstes sowie Betriebsfunkanwendungen nicht mehr bestimmungsgem&#228;&#223; zur 
+Verf&#252;gung stehen wird (bitte begr&#252;nden)?  
+Nach gegenw&#228;rtigem Erkenntnisstand wird vermutet, dass durch die Einf&#252;hrung 
+des &#220;bertragungsverfahrens DOCSIS 3.1 kein erh&#246;htes St&#246;rpotenzial in HFC-
+Kabelnetzen zu erwarten ist.
+Das &#220;bertragungsverfahren DOCSIS 3.1 z&#228;hlt zu den Schl&#252;sseltechnologien bei 
+der Einf&#252;hrung von gigabitf&#228;higen HFC-Kabelnetzen. Grundvoraussetzung f&#252;r 
+den Aufbau solcher Kabelnetze ist in der Regel jedoch die Heranf&#252;hrung der
+Signale &#252;ber Glasfaserstrecken bis zu den Stra&#223;enverteilern (FTTC) bzw. bis zu den 
+Haus&#252;bergabepunkten (FTTH). Hierdurch entfallen die bisherigen
+Koaxialkabelstrecken in der Netzebene 3 und deren St&#246;rabstrahlungspotenzial.  
+Weiterhin sind f&#252;r den effizienten Einsatz des &#220;bertragungsverfahrens 
+DOCSIS 3.1 hohe Signal-Rauschabst&#228;nde (S/N) in den angeschlossenen
+Hausnetzen unabdingbar. Schlecht geschirmte Hausnetze, die durch Einstrahlungen 
+anderer Frequenznutzer jederzeit beeintr&#228;chtigt werden k&#246;nnen, erf&#252;llen diese 
+Vorrausetzung nicht. Beim &#220;bertragungsverfahren DOCSIS 3.1 ist erstmalig 
+auch die gezielte Abschaltung (Notching) von &#8220;Subcarriern&#8220; in
+sicherheitsrelevanten Frequenzbereichen m&#246;glich. 
+Es wird deshalb mittelfristig durch die Einf&#252;hrung des &#220;bertragungsverfahrens 
+DOCSIS 3.1 und den damit verbundenen Randbedingungen eine positive
+Entwicklung in Bezug auf das Abstrahlungsverhalten von HFC-Kabelnetzen
+erwartet. 
+17. Erw&#228;gt die Bundesregierung angesichts der in Berichten (vgl. www.teltarif. 
+de/radio-kabel-internet-stoerungen/news/63267.html oder CQ DL
+Amateurfunkmagazin, Ausgabe 5-2018) beschriebenen grunds&#228;tzlichen Besorgnis 
+bei der Implementierung des DOCSIS-3.1.-Verfahrens ein generelles
+Monitoring &#252;ber den Zustand der betroffenen Kabelnetze? 
+Wenn nein, warum nicht? 
+Die Bundesnetzagentur hat zum Schutz von sicherheitsrelevanten
+Frequenznutzungen auf der Grundlage der Sicherheitsfunk-Schutzverordnung eine von der 
+Bundesnetzagentur geleitete Koordinierungsgruppe (KG B&#220;SS) eingerichtet, in 
+der die Kabelnetzbetreibern und deren Verb&#228;nde sowie die Bedarfstr&#228;ger von
+sicherheitsrelevanten Frequenznutzungen vertreten sind. Von dieser KG B&#220;SS
+initiierte Suchfahrten zur Ermittlung von St&#246;rabstrahlungen durch Kabelnetze
+finden bereits seit 2010 statt. Auf Problemstellungen in Bezug auf St&#246;rabstrahlungen 
+von Kabelnetzen kann deshalb, im Einvernehmen mit allen Betroffenen,
+umgehend reagiert werden. In Gebieten mit hohem Schutzbed&#252;rfnis wird bereits seit 
+geraumer Zeit ein generelles Monitoring praktiziert. Zu diesen Gebieten geh&#246;ren 
+die Endanflugs-Korridore der deutschen Verkehrsflugh&#228;fen und die Nahbereiche 
+der Bodenempfangsstellen der deutschen Flugsicherung. In einem abgestimmten 
+Verfahren werden die ermittelten St&#246;rabstrahlungen umgehend an die
+zust&#228;ndigen Kabelnetzbetreiber zur Beseitigung weitergeleitet. Weiterhin ist vorgesehen, 
+die Einf&#252;hrung des neuen &#220;bertragungsverfahrens DOCSIS 3.1 mit
+Feldmessungen der Bundesnetzagentur zu begleiten. F&#252;r den Herbst 2018 wurden
+entsprechende Vergleichsmessungen im Pilotgebiet Bochum vereinbart. Insgesamt ist 
+innerhalb der zust&#228;ndigen Koordinierungsgruppe eine hohe
+Kooperationsbereitschaft der Kabelnetzbetreiber in Bezug auf die erg&#228;nzende Bewertung neuer 
+&#220;bertragungsverfahren festzustellen.
+18. Erw&#228;gt die Bundesregierung die Einf&#252;hrung einer generellen
+Nachweispflicht f&#252;r Anbieterinnen und Anbieter von DOCSIS-3.1-Verfahren &#252;ber die 
+St&#246;rfreiheit f&#252;r andere Frequenznutzungen durch die jeweils verwendeten 
+Kabelnetze? 
+Ein solcher Nachweis wird in der Regel mit der Erkl&#228;rung zur Einhaltung der 
+relevanten Technischen Standards gef&#252;hrt. Gegenw&#228;rtig liegen im
+Zusammenhang mit der Einf&#252;hrung des &#220;bertragungsverfahrens DOCSIS 3.1 keine
+Hinweise vor, die Ma&#223;nahmen notwendig erscheinen lassen. 
+19. F&#252;hrt die Bundesnetzagentur im Rahmen ihrer Regulierungst&#228;tigkeit auch 
+Markt&#252;berwachungen von Dienstleistungen durch, die geeignet sein
+k&#246;nnten, die elektromagnetische Umgebung breitbandig f&#252;r Funkdienste zu
+beeintr&#228;chtigen? 
+Wenn ja, welche? 
+Wenn nein, warum nicht? 
+Eine Markt&#252;berwachung f&#252;hrt die Bundesnetzagentur entsprechend den
+Vorgaben im EMVG und im FuAG nur f&#252;r Ger&#228;te durch. Sofern die Frage darauf
+abzielt, welche Vorkehrungen getroffen werden, damit neue &#220;bertragungsverfahren 
+in bestehenden Netzen, mit deren Hilfe Dienstleistungen erbracht werden, das 
+elektromagnetische Umfeld f&#252;r Funkdienste nicht beeintr&#228;chtigen, so erfolgt dies 
+nicht mit Mitteln der Markt&#252;berwachung, sondern mit Hilfe von vorab
+durchgef&#252;hrten Vertr&#228;glichkeitsuntersuchungen, deren Ergebnisse in die
+Standardisierung einflie&#223;en (vgl. &#167; 22 Absatz 2 Nummer 7 EMVG). 
+20. Ist die Bundesregierung zur Aufrechterhaltung einer st&#246;rungsfreien
+Funkkommunikation aller Funkdienste und Funkanwendungen, wie in &#8222;Richtlinie 
+2014/53/EU des Europ&#228;ischen Parlaments und des Rates vom 16. April 2014 
+&#252;ber die Harmonisierung der Rechtsvorschriften der Mitgliedstaaten &#252;ber die 
+Bereitstellung von Funkanlagen auf dem Markt und zur Aufhebung der 
+Richtlinie 1999/5/EG&#8220; beschrieben, verpflichtet (pr&#228;ventive
+Funkschutzma&#223;nahmen)? 
+Wenn ja, wie werden pr&#228;ventive Funkschutzma&#223;nahmen in die Praxis
+umgesetzt? 
+Die Richtlinie 2014/53/EU des Europ&#228;ischen Parlaments und des Rates vom 
+16. April 2014 &#252;ber die Harmonisierung der Rechtsvorschriften der
+Mitgliedstaaten &#252;ber die Bereitstellung von Funkanlagen auf dem Markt und zur Aufhebung 
+der Richtlinie 1999/5/EG (Funkanlagenrichtlinie) enth&#228;lt einen Regelungsrahmen 
+f&#252;r die Bereitstellung auf dem Markt und die Inbetriebnahme von Funkanlagen. 
+Ziel der Funkanlagenrichtlinie ist es, dass die auf dem Binnenmarkt bereitstellten 
+Funkanlagen grundlegende Anforderung erf&#252;llen, die f&#252;r ein angemessenes
+Niveau an elektromagnetischer Vertr&#228;glichkeit und f&#252;r eine wirksame und effiziente 
+Frequenznutzung zur Vermeidung von funktechnischen St&#246;rungen sorgen. Die 
+Richtlinie hat also insoweit einen pr&#228;ventiven Charakter, als sie Anforderungen 
+an Funkanlagen stellt, um dadurch Funkst&#246;rungen gar nicht erst aufkommen zu 
+lassen und weitgehend zu vermeiden. Dar&#252;ber hinaus ergeben sich aus der
+Funkanlagenrichtlinie keine Verpflichtungen zu pr&#228;ventiven Funkschutzma&#223;nahmen.
+21. Wie lange ist nach Kenntnis der Bundesregierung im Falle eines
+bundesweiten Blackouts f&#252;r Beh&#246;rden und Organisationen mit Sicherheitsaufgaben 
+(BOS) die Kommunikation mittels BOS-Funk derzeit fl&#228;chendeckend
+gew&#228;hrleistet und wie ist der Stand der Umsetzung der Empfehlungen des
+Bundesamts f&#252;r Bev&#246;lkerungsschutz und Katastrophenhilfe (BBK) zur
+Mindestversorgung des BOS-Funks &#252;ber 72 Stunden im Falle eines Blackouts, wie 
+sie in der Antwort der Bundesregierung zu Frage 18 der Kleinen Anfrage der 
+Fraktion DIE LINKE. auf Bundestagsdrucksache 18/10598 angek&#252;ndigt 
+wurde?  
+Grunds&#228;tzlich gew&#228;hrleistet beim Ausfall des Versorgungsnetzes die
+Notstromversorgung einen Betrieb des gesamten Digitalfunks BOS f&#252;r mindestens zwei 
+Stunden. Dar&#252;ber hinaus haben Bund und L&#228;nder im Rahmen der sogenannten 
+&#8222;Netzh&#228;rtung&#8220; beschlossen, die Notstromversorgung nach den Empfehlungen des 
+Bundesamtes f&#252;r Bev&#246;lkerungsschutz und Katastrophenhilfe (BBK) f&#252;r das BOS-
+Digitalfunknetz auszubauen. Im Falle eines langandauernden Stromausfalls wird 
+die Funkversorgung mit der GAN-Kategorie 0 (Funkversorgung mit
+Fahrzeugfunk) fl&#228;chendeckend f&#252;r mindestens 72 Stunden gew&#228;hrleistet. Die
+Empfehlungen des BBK wurden f&#252;r den Bereich des in der Zust&#228;ndigkeit des Bundes
+liegenden Kernnetzes bereits umgesetzt. Die gemeinsam von Bund und L&#228;ndern
+finanzierten und verantworteten Zugangsnetze des Digitalfunks werden
+l&#228;nderindividuell geh&#228;rtet. Bislang konnte dieses Ziel noch nicht in allen L&#228;ndern erreicht 
+werden. Hierf&#252;r sind weitere Ma&#223;nahmen zur Netzh&#228;rtung notwendig.  
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+&#8226; 1 Bundesnetzagentur
+Anlage 
+BNetzA DLZ8 M&#252;nchen und Konstanz Outdoor-Rauschmessungen (Zusammenfassung)
+Outdoor-Rauschmessungen der BNetzA 
+Zusammenfassung der Ergebnisse 
+1 Einleitung und Hintergrundinformationen 
+Der Rauschpegel, der von der Antenne eines Empf&#228;ngers aufgenommen wird (&#8222;externes 
+Rauschen&#8220;) kann aus verschiedenen Quellen kommen: 
+Rauschkomponente M&#246;gliche Dominanz im Frequenzbereich 
+Atmosph&#228;risches Rauschen von Blitzen 10 kHz bis 30 MHz 
+Galaktisches Rauschen 4 MHz bis 100 MHz
+Man Made Noise (MMN) 10 kHz bis 1 GHz 
+Strahlung von atmosph&#228;rischen Gasen etc. &#220;ber 10 GHz 
+Tabelle 1: Rauschkomponenten
+Die in der Anfrage an die Bundesregierung genannten Funkanwendungen UKW-Rundfunk 
+(87,5 bis 108 MHz) und DAB+ (174 &#8211; 230 MHz) liegen in Frequenzbereichen, die vom Man-
+Made Noise (MMN) dominiert werden. Die ebenfalls erw&#228;hnte Anwendung Amateurfunk hat 
+zugewiesene Frequenzb&#228;nder im gesamten nutzbaren HF-Spektrum und ist daher nicht
+immer vom MMN dominiert. 
+Die zu erwartende mittleren externen Rauschpegel sind in der ITU-R- Empfehlung P.372 in 
+den 1970er Jahren aufgrund nicht mehr nachvollziehbarer Messungen &#252;berwiegend in den 
+Vereinigten Staaten festgelegt worden. Sie werden bis heute in der Funknetzplanung
+verwendet. Die MMN Pegel sind hier je nach Umgebung unterschiedlich. Es wird zwischen den 
+folgenden vier Umgebungskategorien unterschieden: 
+Kategorie Beschreibung 
+City Unmittelbar innerhalb st&#228;dtischer und/oder industrieller Bebauung  
+Residential &#220;berwiegend innerhalb oder umgeben von Wohnbebauung
+Rural L&#228;ndliche Gebiete ohne gr&#246;&#223;ere Ortschaften in der N&#228;he
+Quiet Rural Keine sichtbare Bebauung oder Infrastruktur in weitem Umkreis 
+Tabelle 2: Standortkategorien nach ITU-R P.372
+Die rasante technische Entwicklung in den letzten Jahrzehnten k&#246;nnte dazu gef&#252;hrt haben, 
+dass die Pegel des MMN heute h&#246;her oder auch niedriger liegen als vor 40 Jahren. W&#228;hrend 
+das MMN damals haupts&#228;chlich durch elektrische Maschinen und Z&#252;ndfunken aus Kfz
+dominiert war, sind es heute Computer, Monitore, Schaltnetzteile und Powerline-Modems. 
+Vom Messdienst der BNetzA wurden von 2007 bis 2010 umfangreiche und fl&#228;chendeckende 
+Messungen des MMN im Frequenzbereich bis 1 GHz durchgef&#252;hrt. Die Ergebnisse wurden 
+in die Arbeitsgruppen der ITU eingebracht und sind dort als Excel-Datei frei verf&#252;gbar  
+(https://www.itu.int/oth/R0A04000004/en). 
+Es wurden in den Gebietskategorien City, Residential und Rural gemessen. Die Kategorie 
+&#8222;Quiet Rural&#8220; ist in Deutschland nicht oder nur vereinzelt vorhanden und trifft idealerweise 
+auf die offene See oder W&#252;stengebiete zu.
+Seite 1
+ 
+ 
+  
+ 
+   
+ 
+ 
+ 
+ 
+'&#183;&#183; .... J _________ _ 
+! --------
+-- -- - -- - -- -- - - - - - -- - - -- -- -- - -- -- - - - - --- - -- - - - - - - - - -
+t t 
+---+--
+---+--
+---+--
+-------
+---+---------.__ I 
+&#183;- .. &#183;&#183; .. 
+---+--
+---+--
+-------
+&#183;- ......... __ 
+-&#183; r-&#183; &#183; &#183; ----- i-- -- --- -
+BNetzA DLZ8 M&#252;nchen und Konstanz Outdoor-Rauschmessungen (Zusammenfassung)
+2 Ergebnisse 
+Die folgenden Diagramme zeigen die Messergebnisse im Vergleich mit den MMN- Werten 
+der ITU-R P.372. Es wurde auf jeweils drei verschiedenen Frequenzen in jedem Bereich 
+gemessen. Der obere Punkt der Balken beschreibt den Pegel, der von nur 10% der Messorte 
+&#252;berschritten wurde, der untere Punkt ist der Pegel, der in 90% der F&#228;lle &#252;berschritten
+wurde. 
+City: HF WGN 
+0 dB 
+10 dB 
+20 dB 
+30 dB 
+40 dB 
+50 dB 
+60 dB 
+70 dB 
+80 dB 
+0 MHz 5 MHz 10 MHz 15 MHz 20 MHz 25 MHz 30 MHz 
+Frequenz 
+d
+B
+ &#252;
+b
+e
+r 
+K
+T
+B
+ 
+5 MHz (90/50/10%) 
+12 MHz (90/50/10%) 
+20 MHz (90/50/10%) 
+ITU-R P.372 (50%) 
+Bild 1: Statistische Auswertung der Messergebnisse bis 30 MHz City 
+Residential: HF WGN 
+0 dB 
+10 dB 
+20 dB 
+30 dB 
+40 dB 
+50 dB 
+60 dB 
+70 dB 
+80 dB 
+0 MHz 5 MHz 10 MHz 15 MHz 20 MHz 25 MHz 30 MHz 
+Frequenz 
+d
+B
+ &#252;
+b
+e
+r 
+K
+T
+B
+ 
+5 MHz (90/50/10%) 
+12 MHz (90/50/10%) 
+20 MHz (90/50/10%) 
+ITU-R P.372 (50%) 
+Bild 2: Statistische Auswertung der Messergebnisse bis 30 MHz Residential 
+Seite 2
+ 
+ 
+ 
+ 
+ 
+---+--
+---+--
+---+--
+f 
+. - .. - .. - . - -.. t
+BNetzA DLZ8 M&#252;nchen und Konstanz Outdoor-Rauschmessungen (Zusammenfassung)
+Rural: HF WGN 
+0 dB 
+10 dB 
+20 dB 
+30 dB 
+40 dB 
+50 dB 
+60 dB 
+70 dB 
+0 MHz 5 MHz 10 MHz 15 MHz 20 MHz 25 MHz 30 MHz 
+Frequenz 
+d
+B
+ &#252;
+b
+e
+r 
+K
+T
+B
+ 
+5 MHz (90/50/10%) 
+12 MHz (90/50/10%) 
+20 MHz (90/50/10%) 
+ITU-R P.372 (50%) 
+Bild 3: Statistische Auswertung der Messergebnisse bis 30 MHz Rural 
+Es ist erkennbar, dass die Messergebnisse der BNetzA ab 12 MHz bis 30 MHz tendenziell 
+unterhalb der Werte der ITU- Empfehlung liegen. Dies deckt sich mit den j&#252;ngsten
+Ergebnissen anderer L&#228;nder (z. B. Niederlande), die ebenfalls das Rauschen im Kurzwellenbereich 
+gemessen haben. Ausnahme ist der Rural- Bereich, in dem durchweg h&#246;here Werte
+gemessen wurden als in der Empfehlung. Der Unterschied im Rauschpegel zwischen City und 
+Rural ist den Ergebnissen nach deutlich geringer als in der ITU-R P.372 angenommen. 
+City: WGN in dB &#252;ber KTB 
+0 dB 
+5 dB 
+10 dB 
+15 dB 
+20 dB 
+25 dB 
+30 dB 
+35 dB 
+40 dB 
+45 dB 
+10 MHz 100 MHz 1000 MHz 30 MHz 50 MHz 200 MHz 300 MHz 
+Bild 4: Vergleich der BNetzA- Messungen oberhalb 30 MHz mit den Werten der ITU-R P.372 (Kategorie City)
+Seite 3
+ 
+ 
+ 
+  
+ 
+ 
+' ' ' ' : 
+' ' : 
+' ' &#8226; 
+&#8226; 
+&#8226;
+BNetzA DLZ8 M&#252;nchen und Konstanz Outdoor-Rauschmessungen (Zusammenfassung)
+Residential: WGN in dB above KTB 
+0 dB 
+5 dB 
+10 dB 
+15 dB 
+20 dB 
+25 dB 
+30 dB 
+35 dB 
+40 dB 
+45 dB 
+10 MHz 100 MHz 1000 MHz 30 MHz 50 MHz 200 MHz 300 MHz 
+Bild 5: Vergleich der BNetzA- Messungen oberhalb 30 MHz mit den Werten der ITU-R P.372 (Kategorie Residential) 
+Rural: WGN in dB above KTB 
+0 dB 
+5 dB 
+10 dB 
+15 dB 
+20 dB 
+25 dB 
+30 dB 
+35 dB 
+40 dB 
+45 dB 
+10 MHz 100 MHz 1000 MHz 30 MHz 50 MHz 200 MHz 300 MHz 
+Bild 6: Vergleich der BNetzA- Messungen oberhalb 30 MHz mit den Werten der ITU-R P.372 (Kategorie Rural)
+Auch im Frequenzbereich oberhalb 30 MHz ist zu erkennen, dass das MMN tendenziell
+unterhalb der Werte der ITU-R P.372 liegt. Die Ausnahme bildet auch hier wieder der Rural-
+Bereich, wo oberhalb 100 MHz leicht h&#246;here Werte vorkommen k&#246;nnen.
+Messungen oberhalb 300 MHz haben gezeigt, dass das MMN hier immer unterhalb der 
+Messgrenze &#8211; also nicht nachweisbar - liegt und damit auch theoretisch nur Funkdienste 
+st&#246;ren k&#246;nnte, die Richtantennen mit hohem Gewinn verwenden. 
+Seite 4
+BNetzA DLZ8 M&#252;nchen und Konstanz Outdoor-Rauschmessungen (Zusammenfassung)
+3 Fazit 
+Die Messungen der BNetzA haben gezeigt, dass das gleichm&#228;&#223;ige (&#8222;wei&#223;e&#8220;) Rauschen des 
+Man-Made Noise heute tendenziell eher unterhalb der Werte der ITU-R Empfehlung P.372 
+liegt. Anscheinend &#252;berwiegen hier die Ma&#223;nahmen zur Regulierung der EMV-Abstrahlung 
+gegen&#252;ber der stark gestiegenen Anzahl potentieller St&#246;rquellen wie elektronische Ger&#228;te. 
+Eine Ausnahme hiervon stellt der Kurzwellenbereich dar, wo es in potenziell ruhigen
+Umgebungen h&#246;here Rauschwerte gibt als in der ITU-Empfehlung angenommen. 
+Die Messungen haben aber auch gezeigt, dass es heute oft sehr hohe Impulsspitzen des 
+MMN gibt, das durch die oben angegebenen Werte des wei&#223;en Rauschens nicht
+ber&#252;cksichtigt wird. Diese Impulssignale k&#246;nnen auch digitale Funkdienste durchaus st&#246;ren, besonders 
+wenn diese innerhalb von Geb&#228;uden betrieben werden, was ebenfalls durch die Empfehlung 
+nicht ber&#252;cksichtigt ist. Um das St&#246;rpotential von Impulssignalen zu quantifizieren gibt es 
+jedoch derzeit keine international anerkannte Methode. 
+Seite 5
+
+Satz: Satzweiss.com Print, Web, Software GmbH, Mainzer Stra&#223;e 116, 66121 Saarbr&#252;cken, www.satzweiss.com
+Druck: Printsystem GmbH, Schafw&#228;sche 1-3, 71296 Heimsheim, www.printsystem.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de 
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/3641 -
+Schutz der Ressource elektromagnetische Umgebung</titel>
+    <datum>2018-08-15</datum>
+  </document>
+  

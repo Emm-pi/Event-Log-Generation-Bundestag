@@ -1,0 +1,295 @@
+<document>
+    <id>240269</id>
+    <drucksachetyp>Kleine Anfrage</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>3</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/18506</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>72ed6f36504246dceae4a7870e6f25b4</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:15+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>260980</id>
+      <titel>Corona digital bek&#228;mpfen - Deutsches Elektronisches Melde- und Informationssystem f&#252;r den Infektionsschutz (DEMIS) zur Dokumentation und &#220;berwachung von Infektionskrankheiten</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>AfD</bezeichnung>
+      <titel>Fraktion der AfD</titel>
+    </urheber>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/185/1918506.pdf</pdf_url>
+      <id>240269</id>
+      <dokumentnummer>19/18506</dokumentnummer>
+      <datum>2020-04-09</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Kleine Anfrage</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Fraktion der AfD</urheber>
+    </fundstelle>
+    <autoren_anzeige>
+      <id>7625</id>
+      <titel>Joana Cotar, MdB, AfD</titel>
+      <autor_titel>Joana Cotar</autor_titel>
+    </autoren_anzeige>
+    <autoren_anzeige>
+      <id>2123</id>
+      <titel>Uwe Schulz, MdB, AfD</titel>
+      <autor_titel>Uwe Schulz</autor_titel>
+    </autoren_anzeige>
+    <text>[Kleine Anfrage
+der Abgeordneten Joana Cotar, Uwe Schulz, Dr. Michael Espendiller und der 
+Fraktion der AfD
+Corona digital bek&#228;mpfen &#8211; Deutsches Elektronisches Melde- und 
+Informationssystem f&#252;r den Infektionsschutz (DEMIS) zur Dokumentation und 
+&#220;berwachung von Infektionskrankheiten
+Die Bundesrepublik Deutschland steht angesichts der Sars-CoV-2-Pandemie 
+vor einer der gr&#246;&#223;ten Herausforderung der Nachkriegszeit.
+Am 28. Februar 2020 beschloss der gemeinsame Krisenstab des
+Bundesministeriums des Innern, f&#252;r Bau und Heimat und des Bundesministeriums f&#252;r
+Gesundheit (BMG) daher bereits weitreichende Empfehlungen und Ma&#223;nahmen 
+zur Bek&#228;mpfung der Coronavirus-Ausbreitung (https://www.bundesgesundheit
+sministerium.de/presse/pressemitteilungen/2020/1-quartal/krisenstab-bmg-bm
+i.html). So sollten Gro&#223;veranstaltungen abgesagt werden, der
+grenz&#252;berschreitende Verkehr sollte noch st&#228;rker reglementiert und st&#228;rker durch die
+Bundespolizei &#252;berwacht werden und f&#252;r Schutzausstattung sollte eine zentrale
+Beschaffung und Bevorratung durch den Bund erfolgen. Seine Entscheidungen 
+traf der Krisenstab &#8222;auf Grundlage der Informationen des Ausw&#228;rtigen Amts 
+und des Robert Koch-Instituts&#8220; (RKI) (ebd.).
+Gleichwohl forderte der Bundesminister f&#252;r Gesundheit, Jens Spahn, die
+Bev&#246;lkerung noch am selben Tag zu &#8222;aufmerksamer Gelassenheit&#8220; auf (https://twi
+tter.com/ARD_BaB/status/1222160454451126272).
+Am 10. M&#228;rz 2020 beschloss der gemeinsame Krisenstab weitere
+Versch&#228;rfungen der Ma&#223;nahmen und stellte die Dringlichkeit der Beschaffung von
+intensivmedizinischen Kapazit&#228;ten fest, die &#8222;zentral durch das BMG beschafft&#8220; werden 
+sollen (https://www.bundesgesundheitsministerium.de/presse/pressemitteilunge
+n/2020/1-quartal/krisenstab-bmg-bmi-sitzung-5.html). Auch hierbei berief sich 
+der Krisenstab explizit auf das RKI.
+Am 22. M&#228;rz 2020 beschloss Bundeskanzlerin Dr. Angela Merkel mit den
+Regierungschefs der L&#228;nder ein umfangreiches Kontaktverbot, &#8222;um einen
+unkontrollierten Anstieg der Fallzahlen zu verhindern&#8220; (https://www.bmi.bund.de/Sh
+aredDocs/downloads/DE/veroeffentlichungen/2020/hinweis-einschraenkung-so
+ziale-kontakte.pdf?__blob=publicationFile&amp;v=2). Dem waren mehrere
+Pressekonferenzen der Bundesregierung mit Teilnahme des (https://www.bundesregie
+rung.de/breg-de/aktuelles/pressekonferenz-von-bundeskanzlerin-merkel-bundes
+gesundheitsminister-spahn-und-rki-chef-wieler-1729940) oder unter
+Bezugnahme auf das RKI vorausgegangen.
+Bereits seit dem Jahr 2016 erh&#228;lt das bundeseigene Robert Koch-Institut eine 
+Projektf&#246;rderung zur Modernisierung des &#214;ffentlichen Gesundheitsdienstes 
+(&#214;GD) durch Bereitstellung eines digitalen Melde- und &#220;berwachungssystems 
+Deutscher Bundestag Drucksache 19/18506
+19. Wahlperiode 09.04.2020
+f&#252;r &#252;bertragbare Krankheiten (https://www.bundesregierung.de/resource/blob/9
+75292/1605036/61c3db982d81ec0b4698548fd19e52f1/digitalisierung-gestalte
+n-download-bpa-data.pdf?download=1, Seite 179). Das Vorhaben ist Teil der 
+Umsetzungsstrategie der Bundesregierung &#8222;Digitalisierung gestalten&#8220; und soll 
+k&#252;nftig s&#228;mtliche Meldeprozesse nach Infektionsschutzgesetz (IfSG)
+automatisiert verarbeiten und damit die bisherigen analogen Strukturen (Faxmeldungen 
+etc.) durch digitale Verarbeitungsprozesse ersetzen (ebd.). Das System zielt auf 
+die fr&#252;hzeitige Erkennbarmachung von Ausbruchsereignissen und die
+zielgruppengerechte Aufbereitung der Daten durch Nutzbarmachung K&#252;nstlicher
+Intelligenz (ebd.) und w&#228;re damit nach Ansicht der Fragesteller eine sehr gute 
+Grundlage f&#252;r evidenzbasierte und transparente Politikentscheidungen.
+Bei der weltweit und auch in Deutschland derzeit meistzitierten Quelle
+aktueller Fallzahlen handelt es sich jedoch um eine Internetseite des Center for
+Systems Science and Engineering (CSSE) der US-amerikanischen Johns-Hopkins-
+Universit&#228;t (JHU), die erst seit dem 22. Januar 2020 online ist (https://www.fa
+z.net/aktuell/gesellschaft/gesundheit/coronavirus/coronavirus-hat-johns-hopkin
+s-bessere-zahlen-als-das-rki-16696370.html). Die t&#228;glichen Aufrufe dieser
+Internetseite sind nach Angaben der Universit&#228;t von anf&#228;nglich 200 Millionen auf 
+1,2 Milliarden Anfang M&#228;rz 2020 gestiegen (ebd.). Aufgrund der
+unterschiedlichen Erhebungssystematik und abweichender Fallzahlen mehren sich Fragen 
+danach (ebd.), ob eine amerikanische Universit&#228;t oder ein deutsches
+Bundesinstitut und gleichzeitig nationales sowie WHO-Referenzlabor (WHO =
+Weltgesundheitsorganisation) &#252;ber die genaueren Fallzahlen zur Ausbreitung des Sars-
+CoV-2-Virus in Deutschland verf&#252;gt und verf&#252;gen sollte.
+Wir fragen die Bundesregierung:
+&#8199;1. Handelt es sich bei dem RKI-Projekt &#8222;DEMIS &#8722; Deutsches Elektronisches 
+Melde- und Informationssystem f&#252;r den Infektionsschutz&#8220; (https://www.rk
+i.de/DE/Content/Infekt/IfSG/DEMIS/DEMIS_node.html) um das
+Vorhaben &#8222;Modernisierung des &#214;ffentlichen Gesundheitsdienstes (&#214;GD) durch 
+Bereitstellung eines digitalen Melde- und &#220;berwachungssystems f&#252;r
+&#252;bertragbare Krankheiten&#8220; im Rahmen der Umsetzungsstrategie der
+Bundesregierung &#8222;Digitalisierung gestalten&#8220; (https://www.bundesregierung.de/res
+ource/blob/975292/1605036/61c3db982d81ec0b4698548fd19e52f1/digital
+isierung-gestalten-download-bpa-data.pdf?download=1, S. 179), und wenn 
+ja, aus welchen Gr&#252;nden wird in den drei Versionen der
+Umsetzungsstrategie an keiner Stelle dieser Projektname erw&#228;hnt?
+&#8199;2. Werden Komponenten oder Prototypen der seit 2016 von der
+Bundesregierung finanzierten Entwicklung des DEMIS-Systems bzw. des Vorhabens 
+Modernisierung des &#214;GD (vgl. Vorbemerkung) bereits zur Dokumentation 
+und &#220;berwachung der aktuellen Corona-Krise verwendet, und wenn ja, um 
+welche Komponenten handelt es sich dabei?
+&#8199;3. Sieht die Bundesregierung die M&#246;glichkeit, die Fertigstellung des DEMIS-
+Systems zur besseren Dokumentation und &#220;berwachung der aktuellen 
+Corona-Krise zu beschleunigen, oder wird die weitere Entwicklung des 
+DEMIS-Systems durch die operative Belastung des RKI aufgrund der
+aktuellen Corona-Krise eher verz&#246;gert werden?
+&#8199;4. Auf Basis welcher Rechtsgrundlage und auf Basis welcher fachlichen 
+Gr&#252;nde erfolgt f&#252;r das Vorhaben &#8222;Modernisierung des &#214;ffentlichen
+Gesundheitsdienstes (&#214;GD) durch Bereitstellung eines digitalen Melde- und 
+&#220;berwachungssystems f&#252;r &#252;bertragbare Krankheiten&#8220; eine
+Projektf&#246;rderung des RKI zur Entwicklung des Systems bereits seit dem Jahr 2016,
+obwohl offenbar erst seit dem Jahr 2017 die gesetzliche Grundlage f&#252;r das 
+System vorhanden ist (https://www.bundesregierung.de/resource/blob/975
+292/1605036/61c3db982d81ec0b4698548fd19e52f1/digitalisierung-gestalt
+en-download-bpa-data.pdf?download=1, Seite 179)?
+&#8199;5. Bundesmittel in welcher H&#246;he sind bislang in das DEMIS-System
+geflossen, und existieren nach Kenntnis der Bundesregierung weitere &#246;ffentliche 
+oder private F&#246;rdermittel, wenn ja, durch wen, und in welcher H&#246;he?
+&#8199;6. Aus welchen Gr&#252;nden wurde bereits in der M&#228;rz-2019-Version der
+Umsetzungsstrategie (https://www.bildung-forschung.digital/files/pdf-umsetzung
+ss t r a t eg ie -d ig i t a l i s i e rung-da ta .pdf, S. 153) im Vergleich zu der 
+November-2018-Version der Anschluss des Systems an den gesamten
+&#214;ffentlichen Gesundheitsdienst (&#214;GD) um ein Jahr verschoben (https://ww
+w.bundesfinanzministerium.de/Content/DE/Downloads/Digitalisierung/20
+18-11-15-Digitalisierung-gestalten.pdf?__blob=publicationFile&amp;v=2, 
+S. 143)?
+&#8199;7. H&#228;lt die Bundesregierung einen Zeitraum von bis zu f&#252;nf Jahren, von 2018 
+bis 2022, f&#252;r die Entwicklung einer digitalen Meldeplattform nach &#167; 14 
+des Infektionsschutzgesetzes (IfSG) f&#252;r angemessen, wie in der Antwort 
+der Bundesregierung auf die Kleine Anfrage der Fraktion der AfD zum 
+Vorhaben &#8222;Modernisierung des &#214;ffentlichen Gesundheitsdienstes (&#214;GD)&#8220; 
+auf Bundestagsdrucksache 19/15748 angek&#252;ndigt?
+&#8199;8. Verf&#252;gt die Bundesregierung &#252;ber Kenntnisse, wie lange die Johns-
+Hopkins-Universit&#228;t f&#252;r die Entwicklung ihrer COVID-19-Internetseite 
+ben&#246;tigte, die seit dem 22. Januar 2020 online ist und die nicht nur die 
+deutschen Fallzahlen, sondern auch die weltweiten abbildet?
+&#8199;9. Welche technischen und organisatorischen Herausforderungen traten
+bislang bei der Entwicklung der digitalen Meldeplattform nach &#167; 14 des
+Infektionsschutzgesetzes (IfSG, vgl. Vorbemerkung der Fragesteller) auf, 
+und mit welchen weiteren technischen und organisatorischen
+Herausforderungen ist bis zum Abschluss der Systementwicklung noch zu rechnen?
+10. Handelt es sich bei der digitalen Meldeplattform nach &#167; 14 IfSG um eine 
+Eigenentwicklung des RKI, und wenn nein, welche Software-
+Unternehmen sind mit der Entwicklung der digitalen Meldeplattform
+beauftragt?
+11. Welchem Zweck dienen die RKI-eigenen Anwendungen SurvNet@RKI 
+und SurvStat@RKI (Bundestagsdrucksache 19/15748), und handelt es sich 
+dabei um Eigenentwicklungen des RKI?
+12. Aus welchen Gr&#252;nden wird in den Versionen 1 und 2 der
+Umsetzungsstrategie (https://www.bildung-forschung.digital/files/pdf-umsetzungsstrategi
+e-digitalisierung-data.pdf, S. 153) die &#8222;Erarbeitung von Programmen zur 
+Einbettung (der Meldeplattform) in Praxis-, Labor- und
+Krankenhausverwaltungssystemen (PVS)&#8220; angek&#252;ndigt, w&#228;hrend in der Version von
+September 2019 von einer &#8222;Neuentwicklung&#8220; die Rede ist (https://www.bunde
+sregierung.de/resource/blob/975292/1605036/61c3db982d81ec0b4698548
+fd19e52f1/digitalisierung-gestalten-download-bpa-data.pdf?download=1, 
+S. 179)?
+13. Handelt es sich bei der &#8222;Neuentwicklung&#8220; von Software zur Einbettung 
+des Meldesystems in Praxis-, Labor- und
+Krankenhausverwaltungssystemen (PVS) durch das RKI (https://www.bundesregierung.de/resource/blo
+b/975292/1605036/61c3db982d81ec0b4698548fd19e52f1/digitalisierung-
+gestalten-download-bpa-data.pdf?download=1, S. 179) um eine
+Fortf&#252;hrung der bisherigen Programm-Entwicklungen oder um einen Abbruch der 
+bereits seit 2018 laufenden Programm-Entwicklungen (https://www.bunde
+sfinanzministerium.de/Content/DE/Downloads/Digitalisierung/2018-11-1
+5-Digitalisierung-gestalten.pdf?__blob=publicationFile&amp;v=2, S. 143) mit 
+entsprechendem Neustart der Arbeiten, und wenn ja, aus welchen
+Gr&#252;nden?
+14. Bis wann soll die seit 2018 laufende Erarbeitung der
+Schnittstellenkonfiguration f&#252;r Hersteller von Privat&#228;rztlichen Verrechnungsstellen (PVS) 
+durch das Robert Koch-Institut (RKI) in Zusammenarbeit mit der
+Kassen&#228;rztlichen Bundesvereinigung (KBV) und der Deutschen
+Krankenhausgesellschaft e. V. (DKG) abgeschlossen sein (https://www.bundesfinanzminis
+terium.de/Content/DE/Downloads/Digitalisierung/2018-11-15-Digitalisier
+ung-gestalten.pdf?__blob=publicationFile&amp;v=2, S. 143)?
+15. Inwieweit ist die digitale Meldeplattform f&#252;r &#252;bertragbare Krankheiten 
+nach &#167; 14 IfSG bzw. das DEMIS-System technisch und organisatorisch auf 
+eine vollst&#228;ndig umgesetzte Telematik-Infrastruktur (TI) angewiesen, und 
+wie ist der aktuelle Stand der vollst&#228;ndigen Umsetzung der TI?
+16. Werden m&#246;gliche Verz&#246;gerungen der vollst&#228;ndigen Umsetzung der 
+Telematik-Infrastruktur (TI, Bundestagsdrucksache 19/15748) zwingend 
+zu einer Verz&#246;gerung der Meldeplattform bzw. des DEMIS-Systems
+f&#252;hren, und wenn nein, warum nicht?
+Bis wann soll der Aufbau der Angebote der TI f&#252;r das elektronische 
+Melde- und Informationssystem abgeschlossen sein, und um welche
+Angebote handelt es sich dabei?
+17. Aus welchen Gr&#252;nden wurde in keiner Version der Umsetzungsstrategie 
+eine Frist f&#252;r den Umsetzungsschritt &#8222;Nutzbarmachung der Telematik-
+Infrastruktur (TI) in Zusammenarbeit von RKI und gematik&#8220; angegeben, 
+obwohl dessen Umsetzung die technische Voraussetzung f&#252;r die folgenden 
+Projektphasen Anschluss des &#214;GD und Anschluss aller Meldepflichtigen 
+ist?
+a) Wie oft, und in welcher Form hat der diesbez&#252;gliche &#8222;regelm&#228;&#223;ige 
+Austausch mit der gematik GmbH&#8220; (Bundestagsdrucksache 19/15748) 
+bislang stattgefunden?
+b) Welche technischen und organisatorischen Herausforderungen beim 
+Aufbau des TI waren Gegenstand der &#8222;regelm&#228;&#223;igen Austausche mit 
+der gematik GmbH&#8220; (Bundestagsdrucksache 19/15748), und in welcher 
+Form wurden diese Herausforderungen bereits angegangen?
+18. Aus welchen Gr&#252;nden hat es offenbar seit dem ersten Treffen des
+gemeinsamen Bund-L&#228;nder-Planungsrates am 18. Januar 2019
+(Bundestagsdrucksache 19/15748) kein weiteres regul&#228;res Treffen mehr gegeben, obwohl 
+diese ein- bis zweimal im Jahr stattfinden sollten (https://www.rki.de/DE/
+Content/Infekt/EpidBull/Archiv/2019/Ausgaben/08_19.pdf?__blob=public
+ationFile, S. 76)?
+19. Hat ein au&#223;erplanm&#228;&#223;iges Treffen des gemeinsamen Bund-L&#228;nder-
+Planungsrates (s. o.) aus Anlass der aktuellen Sars-CoV-2-Pandemie
+stattgefunden, und wenn nein, warum nicht?
+20. Welche Aspekte beinhaltete das &#8222;wertvolle Feedback&#8220;, das die Mitglieder 
+des gemeinsamen Bund-L&#228;nder-Planungsrates im Rahmen ihres ersten 
+Treffens gegeben haben (https://www.rki.de/DE/Content/Infekt/EpidBull/
+Archiv/2019/Ausgaben/08_19.pdf?__blob=publicationFile, S. 77), und 
+welche Aspekte davon wurden bereits umgesetzt?
+21. Aus welchem Grund sollten offenbar im Lauf des Jahres 2019 immer noch 
+unterschiedliche &#8222;Konzepte&#8220; des DEMIS-Systems diskutiert werden 
+(https://www.rki.de/DE/Content/Infekt/EpidBull/Archiv/2019/Ausgaben/0
+8_19.pdf?__blob=publicationFile, S. 77), obwohl urspr&#252;nglich der
+Anschluss des gesamten &#214;GD an das System bereits im Jahr 2020 vorgesehen 
+war, und um welche unterschiedlichen Konzepte handelt es sich dabei?
+22. Stehen das RKI oder Teilnehmer des gemeinsamen Bund-L&#228;nder-
+Planungsrates bez&#252;glich der Entwicklung des DEMIS-Systems in Kontakt 
+mit dem Center for Systems Science and Engineering (CSSE) der Johns-
+Hopkins-Universit&#228;t (JHU), dessen weltweites Dokumentationssystem 
+zum Coronavirus und der COVID-19-Erkrankung medial sehr pr&#228;sent 
+sind?
+Worin besteht der Unterschied zwischen dem CSSE-System und dem zu 
+entwickelnden RKI-System?
+23. Wurde bereits ein Entwurf einer Verordnung entwickelt, um ab dem Jahr 
+2022 den Anschluss aller Meldepflichtigen durch gesetzliche
+Verpflichtung der Nutzung zu erm&#246;glichen, und wenn nein, bis wann soll ein erster 
+Entwurf vorliegen (https://www.bundesregierung.de/resource/blob/97529
+2/1605036/61c3db982d81ec0b4698548fd19e52f1/digitalisierung-gestalte
+n-download-bpa-data.pdf?download=1, S. 179)?
+24. In welcher Form, und mit welchem Ergebnis ist das in der
+Umsetzungsstrategie definierte Vorhaben-Ziel der &#8222;fr&#252;hzeitigen Ank&#252;ndigung von 
+Ausbruchsereignissen und zielgruppengerechte Aufbereitung der Daten 
+durch Nutzbarmachung k&#252;nstlicher Intelligenz&#8220; (https://www.bundesfinan
+zministerium.de/Content/DE/Downloads/Digitalisierung/2018-11-15-Digit
+alisierung-gestalten.pdf?__blob=publicationFile&amp;v=2, S. 143) bereits 
+angegangen worden?
+25. Welche Infektionsdaten und deren Auswertungen &#252;ber die
+voranschreitende Ausbreitung des Coronavirus wurden der Bundesregierung durch das 
+RKI seit Bekanntwerden der Krise &#252;bermittelt?
+26. Welche Infektionsdaten und deren Auswertungen &#252;ber die
+voranschreitende Ausbreitung des Coronavirus wurden der Bundesregierung durch
+andere Institutionen seit Bekanntwerden der Krise &#252;bermittelt?
+27. Welche Infektionsdaten und deren Auswertungen &#252;ber die
+voranschreitende Ausbreitung des Coronavirus sind in die Lagebeurteilungen und
+Beschl&#252;sse des gemeinsamen Krisenstabs des Bundesministeriums des
+Innern, f&#252;r Bau und Heimat und des Bundesministeriums f&#252;r Gesundheit
+sowie der Bundeskanzlerin Dr. Angela Merkel geflossen?
+28. Welche grunds&#228;tzlichen Herausforderungen sieht die Bundesregierung
+hinsichtlich der Gewinnung und Bereitstellung von Echtzeitdaten zur
+Ausbreitung von Epidemien?
+29. Welche Herausforderungen bei der digitalen Infrastruktur sieht die 
+Bundesregierung hinsichtlich der Gewinnung und Bereitstellung von
+Echtzeitdaten zur Ausbreitung von Epidemien?
+30. Welche unmittelbaren Ma&#223;nahmen hat die Bundesregierung im Rahmen 
+der aktuellen Corona-Krise bereits ergriffen, um m&#246;gliche Schwachstellen 
+bei der Informationsgewinnung von Echtzeitdaten entgegenzuwirken 
+(https://www.heise.de/newsticker/meldung/Corona-Statistik-in-Deutschlan
+d-Noch-mehr-Durcheinander-4687788.html)?
+Berlin, den 2. April 2020
+Dr. Alice Weidel, Dr. Alexander Gauland und Fraktion
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>Corona digital bek&#228;mpfen - Deutsches Elektronisches Melde- und Informationssystem f&#252;r den Infektionsschutz (DEMIS) zur Dokumentation und &#220;berwachung von Infektionskrankheiten</titel>
+    <datum>2020-04-09</datum>
+  </document>
+  

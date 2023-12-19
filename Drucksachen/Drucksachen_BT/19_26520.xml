@@ -1,0 +1,1013 @@
+<document>
+    <id>250161</id>
+    <drucksachetyp>Unterrichtung</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/26520</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>991b78b0872ff49f2ee9e3f450d07ad0</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>273669</id>
+      <titel>17. Bericht des Ausschusses f&#252;r die Hochschulstatistik f&#252;r den Zeitraum 1. Juni 2016 bis 31. Mai 2020</titel>
+      <vorgangstyp>Bericht, Gutachten, Programm</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium f&#252;r Bildung und Forschung</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/265/1926520.pdf</pdf_url>
+      <id>250161</id>
+      <dokumentnummer>19/26520</dokumentnummer>
+      <datum>2021-02-04</datum>
+      <verteildatum>2021-02-10</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Unterrichtung</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Deutscher Bundestag Drucksache 19/26520
+19. Wahlperiode 04.02.2021 
+Unterrichtung
+durch die Bundesregierung
+17. Bericht des Ausschusses f&#252;r die Hochschulstatistik
+f&#252;r den Zeitraum 1. Juni 2016 bis 31. Mai 2020
+Inhaltsverzeichnis
+Seite
+Zusammenfassung ........................................................................................ 2
+1 Anlass des Berichts und Ausgangssituation .................................... 3
+1.1 Aufgaben des Hochschulstatistikausschusses...................................... 3
+1.2 Aufgaben der Hochschulstatistik ......................................................... 3
+2 Implementierung der HStatG-Novelle ............................................ 4
+2.1 Umsetzung der erweiterten und der neuen Erhebungen ..................... 5
+2.2 Wissenschaftlicher Nachwuchs .......................................................... 5
+2.3 Internationale Mobilit&#228;t der Studierenden .......................................... 6
+2.4 Aufbau einer Studienverlaufsdatenbank ............................................. 6
+2.5 Aufbau einer Auswertungsdatenbank Hochschulstatistik .................. 7
+3 Weitere Projekte der Hochschulstatistik im Berichtszeitraum .... 7
+3.1 Revision der F&#228;chersystematiken der Hochschulstatistik.................... 7
+3.2 Neuberechnung der FuE-Koeffizienten ............................................... 8
+3.3 Konzeption eines einheitlichen Geheimhaltungsverfahrens f&#252;r die 
+Hochschulstatistiken ............................................................................. 8
+3.4 Geo-Referenzierung von Wissenschaftsstandorten ............................. 9
+3.5 Berechnung der Parameter f&#252;r den Zukunftsvertrag &#8222;Studium
+und Lehre st&#228;rken&#8220;............................................................................... 9
+4 Ausblick und k&#252;nftige Arbeitsschwerpunkte ................................. 10
+Anlagen ......................................................................................................... 11
+Anlage 1 Verzeichnis der Mitglieder und st&#228;ndigen G&#228;ste des
+Ausschusses f&#252;r die Hochschulstatistik  ..................................... 12
+Anlage 2 Ver&#246;ffentlichungen mit Bundesergebnissen der
+Hochschulstatistik ...................................................................... 15
+Zugeleitet mit Schreiben des Bundesministeriums f&#252;r Bildung und Forschung vom 3. Februar 20201 gem&#228;&#223;
+&#167; 12 Absatz 2 des Hochschulstatistikgesetzes.
+Zusammenfassung
+Aufgabe des Hochschulstatistikausschusses und der Hochschulstatistik
+Der Ausschuss f&#252;r die Hochschulstatistik ber&#228;t nach &#167; 12 Absatz 2 des Hochschulstatistikgesetzes (HStatG) das 
+Statistische Bundesamt bei der Vorbereitung, Durchf&#252;hrung und Weiterentwicklung der Hochschulstatistiken
+sowie bei der Ver&#246;ffentlichung und Analyse der Ergebnisse. Aufgabe der Hochschulstatistik ist es, die f&#252;r die
+hochschulpolitische Entscheidungsfindung relevanten statistischen Informationen zu erfassen, sie unter
+Zugrundelegung hoher qualitativer Anspr&#252;che aufzubereiten und den Nutzern in leicht verst&#228;ndlicher Form zeitnah
+bereit zu stellen. Der Ausschuss f&#252;r die Hochschulstatistik setzt sich zusammen aus Vertretern der amtlichen
+Statistik, der zust&#228;ndigen obersten Bundes- und Landesbeh&#246;rden, des Wissenschaftsrats, der Hochschulen
+sowie ausgew&#228;hlter wissenschaftlicher Einrichtungen (siehe Anlage 1 im Anhang).
+Implementierung der Novelle des Hochschulstatistikgesetzes (HStatG)
+Mit der zum 1. M&#228;rz 2016 in Kraft getretenen Novelle des HStatG sind die bestehenden Hochschulstatistiken
+&#252;ber Studierende, Pr&#252;fungen und Hochschulpersonal an die gewandelten Informationsbedarfe angepasst und
+teils erheblich erweitert worden. Zudem wurden neue Erhebungen, darunter eine Statistik &#252;ber Promovierende,
+eingef&#252;hrt sowie das Statistische Bundesamt mit dem Aufbau einer Studienverlaufsstatistik und einer
+Auswertungsdatenbank Hochschulstatistik beauftragt. Die Arbeit des Ausschusses f&#252;r die Hochschulstatistik war im
+Zeitraum des vorliegenden Berichts daher ma&#223;geblich durch die Implementierung der HStatG-Novelle
+bestimmt. W&#228;hrend einige der erweiterten und neuen Erhebungen ohne gr&#246;&#223;ere Probleme angelaufen sind,
+ergaben sich insbesondere bez&#252;glich der um die Daten zum wissenschaftlichen Nachwuchs erweiterten Erhebung
+des Hochschulpersonals, der um die Daten zur internationalen Mobilit&#228;t erweiterten Pr&#252;fungsstatistik und der
+neuen Promovierendenstatistik Anlaufschwierigkeiten. Durch verschiedene Initiativen konnte der Ausschuss
+f&#252;r die Hochschulstatistik in Zusammenarbeit mit den Hochschulen und den Statistischen &#196;mtern des Bundes
+und der L&#228;nder erreichen, die Qualit&#228;t sukzessive zu verbessern und Verz&#246;gerungen bei der Bereitstellung der 
+Daten zu reduzieren.
+Weitere Projekte der Hochschulstatistik im Berichtszeitraum
+&#220;ber die Implementierung der HStatG-Novelle hinaus hat sich der Ausschuss f&#252;r die Hochschulstatistik im
+Berichtszeitraum mit weiteren Initiativen befasst, um die hochschulstatistische Berichterstattung zu erg&#228;nzen
+und die Qualit&#228;t und Aktualit&#228;t hochschulstatistischer Daten zu verbessern. So wurden im Berichtszeitraum
+u. a. die Neujustierung der FuE-Koeffizienten sowie die Revision der F&#228;chersystematiken des Statistischen
+Bundesamts 2020 beratend begleitet. Weitere Arbeitsfelder waren die Geo-Referenzierung von
+Wissenschaftsstandorten, die Berechnung der Parameter f&#252;r den Zukunftsvertrag &#8222;Studium und Lehre st&#228;rken&#8220; sowie die
+Entwicklung eines Geheimhaltungsverfahrens f&#252;r die Hochschulstatistiken, das k&#252;nftig einheitlich in Bund und
+L&#228;ndern angewandt und mit der neuen Auswertungsdatenbank Hochschulstatistik implementiert und technisch 
+umgesetzt werden soll.
+1 Anlass des Berichts und Ausgangssituation
+Zentrales Thema des 17. Berichts des Hochschulstatistikausschusses an die gesetzgebenden K&#246;rperschaften ist
+die Implementierung der Novelle des Hochschulstatistikgesetzes (HStatG) von 2016. Die zum 1. M&#228;rz 2016 in
+Kraft getretene HStatG-Novelle hat bei einigen der bereits bisher durchgef&#252;hrten Hochschulstatistiken zu einer
+Erweiterung des Merkmalskatalogs gef&#252;hrt. Dar&#252;ber hinaus wurden zus&#228;tzliche Statistiken eingef&#252;hrt und das
+Statistische Bundesamt mit dem Aufbau einer Studienverlaufsstatistik und einer Auswertungsdatenbank
+Hochschulstatistik beauftragt. Die Arbeit des Ausschusses f&#252;r die Hochschulstatistik war daher im Berichtszeitraum
+vorwiegend von methodischen und praktischen Fragen im Zusammenhang mit der Einf&#252;hrung der angepassten
+sowie der neuen Erhebungen und Aufgaben bestimmt.
+1.1 Aufgaben des Hochschulstatistikausschusses
+Dem Ausschuss f&#252;r die Hochschulstatistik geh&#246;ren nach &#167; 12 HStatG Vertreter des Bundesministeriums f&#252;r
+Bildung und Forschung (BMBF), der weiteren Bundesministerien mit einer Zust&#228;ndigkeit f&#252;r
+Bundeshochschulen, der f&#252;r die staatlichen Hochschulen zust&#228;ndigen obersten Landesbeh&#246;rden, des Wissenschaftsrates, der
+Hochschulen, verschiedener wissenschaftlicher Einrichtungen sowie der statistischen &#196;mter an (vgl. Anlage 1 
+im Anhang). Der Ausschuss ber&#228;t, unter besonderer Ber&#252;cksichtigung der f&#252;r die Hochschulplanung und f&#252;r
+die hochschulpolitische Entscheidungsfindung ben&#246;tigten Daten, das Statistische Bundesamt bei der
+Vorbereitung, Durchf&#252;hrung und Weiterentwicklung der Hochschulstatistik sowie bei der Ver&#246;ffentlichung und Analyse
+der Ergebnisse. Dabei pr&#252;ft der Ausschuss f&#252;r die Hochschulstatistik regelm&#228;&#223;ig, ob und inwieweit die
+vorliegenden Daten (noch) dem aktuellen Informationsbedarf gen&#252;gen, benennt ggf. Defizite und Anpassungsbedarf
+und begleitet die Weiterentwicklung von Methodik und Datenangebot beratend. 
+Alle 4 Jahre hat der Hochschulstatistikausschuss gem&#228;&#223; &#167; 12 Absatz 2 HStatG den gesetzgebenden
+K&#246;rperschaften einen Bericht &#252;ber seine Arbeit vorzulegen. Der letzte Bericht umfasste den Zeitraum Juni 2012 bis 
+Mai 2016. 
+1.2 Aufgaben der Hochschulstatistik
+Kernaufgabe der Hochschulstatistik ist die Erfassung, Aufbereitung und Bereitstellung von
+steuerungsrelevanten Informationen f&#252;r die Hochschulpolitik, die Hochschulplanung und die Hochschulverwaltung. Zur
+Ergebnisbereitstellung geh&#246;ren auch eine verst&#228;ndliche und problemad&#228;quate Pr&#228;sentation der Ergebnisse und eine
+entsprechende Nutzerberatung.
+Zu den Hochschulstatistiken z&#228;hlen insbesondere folgende Einzelstatistiken:
+&#8226; Die Studierendenstatistik liefert Informationen &#252;ber die Zahl und Struktur der Studierenden (einschl.
+Gasth&#246;rer) und zum Studium.
+&#8226; Die Pr&#252;fungsstatistik erhebt Informationen &#252;ber Studienerfolg und Studiendauer, seit der HStatG-Novelle 
+von 2016 auch &#252;ber die internationale Mobilit&#228;t w&#228;hrend des Studiums. 
+&#8226; Die Statistiken &#252;ber das an den Hochschulen t&#228;tige haupt- und nebenberufliche Personal nach
+Personalgruppen und Fachgebieten sowie &#252;ber die Habilitierten liefern Informationen &#252;ber die personellen
+Ressourcen und geben Auskunft &#252;ber die Situation und Entwicklung des wissenschaftlichen Nachwuchses.
+&#8226; Die neue Promovierendenstatistik informiert &#252;ber die Zahl der Promovierenden, die Art ihrer Promotion
+und die Promotionsdauer.
+&#8226; Die neue Studienverlaufsstatistik basiert auf den Einzeldaten der Studierenden-, Pr&#252;fungs- und
+Promovierendenstatistik, die &#252;ber ein Pseudonym miteinander und im Zeitverlauf verkn&#252;pft werden. Mit den ersten 
+bereits in der neu aufgebauten Studienverlaufsdatenbank vorliegenden Daten, die einen kleinen Auszug
+aus dem jeweiligen Merkmalskatalog der Basisstatistiken umfassen, k&#246;nnen verlaufsbezogene Ereignisse 
+wie der Wechsel von Hochschulen und Studieng&#228;ngen abgebildet werden. Sobald ausreichende
+Berichtszeitr&#228;ume zur Verf&#252;gung stehen, kann k&#252;nftig auch der &#220;bergang zwischen Studienabschnitten, etwa vom
+Bachelor- zum Masterstudium, sowie sp&#228;ter auch Studienerfolg und Studienabbruch auf Basis
+individueller Studienverlaufsdaten quantifiziert werden.
+&#8226; Die Hochschulfinanzstatistik schlie&#223;lich erfasst die Einnahmen und Ausgaben der Hochschulen in
+fachlicher Gliederung und ist Grundlage f&#252;r die Berechnung der Forschungs- und Entwicklungsausgaben im
+Hochschulbereich.
+        
+ 
+ 
+ 
+      
+    
+     
+   
+   
+   
+     
+ 
+    
+     
+      
+  
+   
+    
+     
+ 
+  
+   
+  
+      
+   
+    
+   
+      
+     
+   
+   
+     
+    
+  
+   
+       
+ 
+    
+   
+  
+     
+   
+    
+    
+ 
+    
+   
+   
+  
+ 
+                                                        
+        
+2
+Die Hochschulstatistiken sind Sekund&#228;rstatistiken, da sie die statistischen Angaben aus den Verwaltungsdaten
+der befragten Einrichtungen ermitteln. Einbezogen in die Statistik sind alle staatlich anerkannten Hochschulen
+und Hochschulkliniken, unabh&#228;ngig von deren Tr&#228;gerschaft. Seit der Novelle des HStatG werden auch Daten
+zu den Berufsakademien erhoben.
+Auf der Grundlage des Hochschulstatistikgesetzes wird f&#252;r den Hochschulbereich ein bundesweit einheitlich
+strukturierter Datenkatalog erhoben, aufbereitet und ver&#246;ffentlicht.1 Die Ergebnisse der Hochschulstatistik
+haben vielf&#228;ltigen, im Zeitablauf immer wieder wechselnden Anforderungen aus den Bereichen der
+Bildungsplanung, F&#246;rderung des wissenschaftlichen Nachwuchses und der Forschungsf&#246;rderung zu entsprechen.
+Hochschulstatistische Daten werden f&#252;r die verschiedenen Aufgabenstellungen der Bundesregierung und die
+Hochschulplanung der L&#228;nder verwendet. Die Ergebnisse der Hochschulstatistik finden zudem Eingang in die
+nationale und internationale Bildungs- und Forschungsberichterstattung Zu nennen sind hier der Bericht &#8222;Bildung
+in Deutschland&#8220; (Bildungsbericht), der Bericht zum Wissenschaftlichen Nachwuchs und die OECD-
+Ver&#246;ffentlichung &#8222;Bildung auf einen Blick&#8220;. Dar&#252;ber hinaus werden die Ergebnisse der Hochschulfinanzstatistik f&#252;r die
+Erstellung des Budgets f&#252;r Bildung, Forschung und Wissenschaft und den Bildungsfinanzbericht verwendet.
+Die Abbildung von Zahl und Struktur der akademisch ausgebildeten Personen auf Basis der Hochschulstatistik
+ist zudem eine wichtige Eckgr&#246;&#223;e f&#252;r die Arbeitsmarktberichterstattung. Au&#223;erdem werden
+hochschulstatistische Ergebnisse von der Kultusministerkonferenz (KMK), dem Bundesministerium f&#252;r Bildung und Forschung 
+(BMBF), dem Wissenschaftsrat, der Hochschulrektorenkonferenz (HRK), der Deutschen
+Forschungsgemeinschaft (DFG), der Gemeinsamen Wissenschaftskonferenz (GWK), dem Deutschen Akademischen
+Austauschdienst (DAAD), f&#252;r die Hochschulforschung und nicht zuletzt von den Hochschulen selbst ben&#246;tigt.
+Implementierung der HStatG-Novelle
+Mit der zum 1. M&#228;rz 2016 in Kraft getretenen HStatG-Novelle wurden die seit 1992 weitgehend unver&#228;ndert
+gef&#252;hrten Statistiken &#252;ber Studierende, Pr&#252;fungen und Hochschulpersonal angepasst und die jeweiligen
+Merkmalskataloge teils erheblich erweitert. Die Erweiterung des Merkmalskatalogs in der Studierendenstatistik
+bezieht sich auf die Erfassung m&#246;glicher weiterer Staatsangeh&#246;rigkeiten, des Orts der angestrebten
+Abschlusspr&#252;fung, der Regelstudienzeit und von Studienunterbrechungen. Zugleich wurde mit der HStatG-Novelle bestimmt, 
+dass die Studierendenstatistik, die bisher auf das Wintersemester fokussierte, regelm&#228;&#223;ig auch f&#252;r das
+Sommersemester durchgef&#252;hrt wird. Zudem regelt die Novelle, dass bei Hochschulen mit mehreren Standorten diese
+einzeln in der Statistik erfasst und nachgewiesen werden.
+Der Merkmalskatalog der Pr&#252;fungsstatistik wurde um Informationen zu studienbezogenen
+Auslandsaufenthalten (Art, Dauer und Land des Aufenthalts), zur Zahl der insgesamt erworbenen und anerkannten ECTS-Punkte
+sowie darunter zur Zahl der ECTS-Punkte, die aufgrund einer beruflicher Qualifikation oder durch einen
+Auslandsaufenthalt erworben und anerkannt wurden, erweitert.
+Die Hochschulpersonalstatistik wurde vor allem um Angaben zur vorliegenden (h&#246;chsten) Qualifikation sowie
+zu laufenden Qualifizierungsverfahren des wissenschaftlichen Nachwuchses erweitert. Gleichzeitig wurde die 
+Stellenstatistik, deren Durchf&#252;hrung bereits ausgesetzt war, abgeschafft.
+Durch die HStatG-Novelle unver&#228;ndert sind die Statistiken &#252;ber Habilitierte, Gasth&#246;rer und zu den
+Hochschulfinanzen. Als zus&#228;tzliche Erhebungen erg&#228;nzt wurden eine Statistik &#252;ber Promovierende, eine Statistik &#252;ber 
+Studierende, Pr&#252;fungen und Finanzen an den (landesrechtlich als Tr&#228;ger akademischer Ausbildung)
+anerkannten Berufsakademien sowie eine Statistik &#252;ber Hochschulr&#228;te. Um die Studienverlaufsstatistik ein- und
+durchf&#252;hren zu k&#246;nnen, wurde das Statistische Bundesamt mit dem Aufbau einer Studienverlaufsdatenbank
+beauftragt, in der die Einzeldatens&#228;tze der Studierenden-, Pr&#252;fungs- und Promovierendenstatistik pseudonymisiert 
+abgespeichert werden. Zudem wurde das Statistische Bundesamt mit Aufbau und Betrieb eines
+Auswertungssystems beauftragt, in das die berichtszeitraumbezogenen Einzeldaten der Hochschulstatistiken &#252;ber
+Studierende, Pr&#252;fungen, Promovierende, Hochschulpersonal, Habilitierte und Hochschulfinanzen eingespeichert und
+f&#252;r regelm&#228;&#223;ige Auswertungen sowie flexible Sonderauswertungen vorgehalten werden.
+Eine Aufstellung der vom Statistischen Bundesamt herausgegebenen Publikationen zur Hochschulstatistik ist in Anlage 2 beigef&#252;gt.1
+2.1 Umsetzung der erweiterten und der neuen Erhebungen
+Entsprechend der umfangreichen &#196;nderungen des Hochschulstatistikgesetzes war die Arbeit des Ausschusses
+f&#252;r die Hochschulstatistik ma&#223;geblich durch die Implementierung der HStatG-Novelle bestimmt. W&#228;hrend
+einige der erweiterten und neuen Erhebungen auf Grundlage der vom Ausschuss begleiteten methodischen und
+organisatorischen Vorarbeiten in Berichtsstellen und Statistischen &#196;mtern ohne gr&#246;&#223;ere Probleme angelaufen
+sind, ergaben sich bez&#252;glich der Erhebung der neuen bzw. erweiterten Daten zum wissenschaftlichen
+Nachwuchs sowie zur internationalen Mobilit&#228;t w&#228;hrend des Studiums erwartungsgem&#228;&#223; Anlaufschwierigkeiten, die
+zu einer eingeschr&#228;nkten Qualit&#228;t und einer verz&#246;gerten Datenlieferung einerseits der erweiterten
+Hochschulpersonalstatistik sowie der neuen Promovierendenstatistik und andererseits der erweiterten Pr&#252;fungsstatistik
+gef&#252;hrt haben. Die aktuelle Datenlage zum wissenschaftlicher Nachwuchs sowie zur internationalen Mobilit&#228;t
+werden im vorliegenden Bericht daher als separate Themen behandelt. Entsprechendes gilt f&#252;r die
+Studienverlaufsdatenbank und die Auswertungsdatenbank Hochschulstatistik, da auch die Konzeption und Entwicklung 
+der beiden Datenbanken den Ausschuss f&#252;r die Hochschulstatistik im Berichtszeitraum stark besch&#228;ftigt hat.
+Die zum Berichtsjahr 2017 neu eingef&#252;hrte Statistik &#252;ber Studierende, Pr&#252;fungen und die Finanzen der
+Berufsakademien, mit der die bereits bestehenden Lieferverpflichtungen an Eurostat nach Verordnung (EU)
+Nr. 912/2013 erf&#252;llt werden, erbrachte bereits bei der ersten Durchf&#252;hrung vollst&#228;ndige und plausible
+Ergebnisse. Die Berufsakademien geh&#246;ren in der internationalen statistischen Berichterstattung zum Terti&#228;rbereich, 
+soweit sie akademische Abschl&#252;sse vermitteln. Dementsprechend wird die neue Berufsakademiestatistik nur in
+den Bundesl&#228;ndern durchgef&#252;hrt, in denen Berufsakademien als Tr&#228;ger akademischer Ausbildung staatlich
+anerkannt sind. Nachdem &#8211; wie bereits zuvor in Baden-W&#252;rttemberg &#8211; 2017 auch in Schleswig-Holstein die
+staatliche Berufsakademie in eine duale Hochschule umgewandelt wurde, erfolgt die Erhebung zur neuen
+Berufsakademiestatistik seit 2018 nur noch in f&#252;nf L&#228;ndern (Hamburg, Hessen, Niedersachsen, Saarland und Sachsen).
+Auch bei der Einf&#252;hrung und Durchf&#252;hrung der neuen Hochschulr&#228;testatistik, die angeordnet wurde, um
+regelm&#228;&#223;ige amtliche Informationen zur Geschlechterverteilung in diesen beratenden Hochschulgremien zu erhalten,
+gab es keine Anlaufschwierigkeiten oder Einf&#252;hrungsprobleme. Allerdings erfasst diese kleine Statistik auch
+nur die Hochschule sowie die Anzahl und das Geschlecht der Mitglieder von Hochschulr&#228;ten, die in einigen 
+L&#228;ndern/Hochschulen auch als Universit&#228;tsr&#228;te, Kuratorien, Stiftungsr&#228;te oder Aufsichtsr&#228;te bezeichnet
+werden.
+Die &#196;nderungen in der Studierendenstatistik verliefen im Wesentlichen unproblematisch. Schwierigkeiten
+ergaben sich in solchen F&#228;llen, in denen die neuen Merkmale der Statistik bei den Hochschulen bislang nicht
+erhoben wurden und daher f&#252;r die Bestandsstudierenden neu erfasst werden mussten.
+Das Statistische Bundesamt hat auf Anregung des Hochschulstatistikausschusses erstmals f&#252;r das
+Sommersemester 2017 ein separates Fachserienheft zu einem Sommersemester vorgelegt, nachdem die HStatG-Novelle
+eine semesterweise Durchf&#252;hrung der Studierendenstatistik festgelegt hatte.
+Die in der HStatG-Novelle mit dem Ziel, die regionale Mobilit&#228;t von Studierenden besser untersuchen zu
+k&#246;nnen, angeordnete Erfassung einzelner Hochschulstandorte erfolgt durch das regional jeweils zust&#228;ndige
+Statistische Landesamt. Da der Nachweis der Studierendenzahlen an diesen Standorten ab dem Sommersemester
+2017 dem entsprechenden Landesergebnis zugerechnet wird, ergaben sich gegen&#252;ber den Vorjahresergebnissen
+kleinere Zeitreihenbr&#252;che auf L&#228;nderebene.
+2.2 Wissenschaftlicher Nachwuchs
+Wichtigstes Ziel der Erweiterung der Hochschulpersonalstatistik zum Berichtsjahr 2016 sowie der Einf&#252;hrung
+einer Promovierendenstatistik zum Berichtsjahr 2017 war die Verbesserung der Informationslage zum
+wissenschaftlichen Nachwuchs und zu akademischen Karrierewegen, um nationale Datenbedarfe decken und
+internationale Lieferverpflichtungen bedienen zu k&#246;nnen. Bez&#252;glich der Promovierenden war bis dahin die amtliche
+Berichterstattung auf die in der Studierendenstatistik abgebildete Teilgruppe der immatrikulierten Personen
+begrenzt. Es fehlten Informationen &#252;ber die Teilgruppe der nicht immatrikulierten Personen unter den
+Promovierenden. Damit ergab sich bisher ein unvollst&#228;ndiges Bild bez&#252;glich wichtiger Aspekte der Ausbildungsleistung
+der Universit&#228;ten, wie z. B. der Promotionsdauer. Bez&#252;glich des Hochschulpersonals fehlten bisher
+Informationen zu laufenden Qualifizierungsverfahren sowie zur h&#246;chsten Vorqualifikation.
+Das novellierte Hochschulstatistikgesetz verpflichtet zwar die Hochschulverwaltungen, den festgelegten neuen
+Merkmalskatalog zu Promovierenden bzw. den erweiterten zum (wissenschaftlich-k&#252;nstlerischen)
+Hochschulpersonal zu bedienen. Es bietet aber keine unmittelbare Rechtsgrundlage f&#252;r die Berichtsstellen, die Daten bei
+ihren Hochschulangeh&#246;rigen auch zu erheben. Hierf&#252;r mussten in der Regel zun&#228;chst
+Hochschuldatenverordnungen bzw. Landeshochschulgesetze angepasst werden. Da die erforderlichen Anpassungen, die in den
+L&#228;ndern oft gemeinsam mit weiteren rechtlichen &#196;nderungen vorgenommen wurden, nur sukzessive und
+zeitverz&#246;gert erfolgt sind, waren die entsprechenden Ergebnisse insbesondere im jeweils ersten Berichtsjahr
+unvollst&#228;ndig und von eingeschr&#228;nkter Qualit&#228;t.
+F&#252;r eine Lieferung der Daten von den Berichtsstellen an die statistischen &#196;mter waren zudem technische
+Vorarbeiten erforderlich. W&#228;hrend es dabei in der Regel f&#252;r das Hochschulpersonal (zumindest f&#252;r das
+hauptberufliche) bereits entsprechende Informationssysteme bzw. Verwaltungsdaten in den Berichtsstellen gab, mussten
+diese zu den (nicht immatrikulierten) Promovierenden erst aufgebaut werden. Da insbesondere der Beginn eines
+Promotionsvorhabens durch informelle Prozesse gepr&#228;gt ist, sind Unsch&#228;rfen bei der Erfassung dieses
+Merkmals auf der Basis von Verwaltungsdaten h&#228;ufig trotz aller qualit&#228;tssichernden Ma&#223;nahmen nicht zu vermeiden.
+Hinzu kommt, dass die Hochschulverwaltungen, die laut Hochschulstatistikgesetz auskunftspflichtige Stelle zur
+Promovierendenstatistik sind, h&#228;ufig keine Informationen &#252;ber die laufenden Promotionsvorhaben haben,
+sofern diese lediglich dezentral vorliegen.
+Der Aufbau einer Promovierendenerfassung an den Hochschulen wurde durch die vom BMBF finanziell
+unterst&#252;tzte Koordinierungsstelle Nachwuchsinformation UniKoN unterst&#252;tzt, die eng sowohl in die
+organisatorischen als auch in die methodischen Beratungen des Hochschulstatistikausschusses im Zusammenhang mit der
+Implementierung der Promovierendenstatistik eingebunden war. Thema der methodischen Beratungen im
+Ausschuss war es etwa, den Beginn und das Ende einer Promotion f&#252;r die Statistik zu operationalisieren.
+Im Berichtszeitraum konnten noch keine vollst&#228;ndigen und plausiblen Bundesergebnisse zu laufenden
+Qualifizierungsvorhaben und zur h&#246;chsten Vorqualifikation des Hochschulpersonals sowie zu den Promovierenden
+vorgelegt werden. Der Hochschulstatistikausschuss hat die Ergebnisse der ersten Erhebungen zur
+Promovierendenstatistik in Bezug auf Vollst&#228;ndigkeit und Datenqualit&#228;t er&#246;rtert. Eine Analyse der Ergebnisse zum
+Berichtsjahr 2017 und der Gr&#252;nde f&#252;r deren Unvollst&#228;ndigkeit und Qualit&#228;tsm&#228;ngel hat das Statistische Bundesamt nach
+den Beratungen im Hochschulstatistikausschuss in der Zeitschrift Wirtschaft und Statistik, Ausgabe 1/2019
+(Seite 68ff.) ver&#246;ffentlicht.
+Infolge der Initiativen des Hochschulstatistikausschusses in Zusammenarbeit mit den Hochschulen und den
+Statistischen &#196;mter des Bundes und der L&#228;nder ist aber zu erwarten, dass diese Daten f&#252;r die Berichterstattung
+zur Situation und zu Karrierem&#246;glichkeiten des wissenschaftlichen Nachwuchses in kurzer Zeit vollst&#228;ndig und
+in hinreichender Qualit&#228;t zur Verf&#252;gung stehen.
+2.3 Internationale Mobilit&#228;t der Studierenden
+Die Pr&#252;fungsstatistik wurde durch die HStatG-Novelle von 2016 haupts&#228;chlich mit dem Ziel erweitert, die
+amtliche Datengrundlage zur internationalen Mobilit&#228;t w&#228;hrend des Studiums zu verbessern und die internationalen
+Lieferverpflichtungen zu tempor&#228;ren studienbezogenen Aufenthalten (credit mobility) bedienen zu k&#246;nnen, mit
+denen u.a. das europ&#228;ische Mobilit&#228;tsziel aus dem Bukarester Kommuniqu&#233; von 2012 &#252;berwacht wird. &#196;hnlich 
+wie zu den Promovierenden musste eine Datenbasis zu studienbezogenen Auslandsaufenthalten an den
+Hochschulen oft erst aufgebaut werden. Sofern es bereits systematische Datensammlungen oder sogar IT-Systeme
+gibt, werden diese nicht in den zentralen Hochschulverwaltungen, die &#252;blicherweise zur Hochschulstatistik
+liefern, gef&#252;hrt, sondern an anderen Stellen der Hochschulen wie etwa den International Offices. Im
+Berichtszeitraum ist es noch nicht gelungen, eine hinreichend vollst&#228;ndige Datenbasis zu studienbezogenen
+Auslandsaufenthalten aufzubauen. Der Hochschulstatistikausschuss hat die Gr&#252;nde daf&#252;r sowie die bisher vorliegende
+Datenbasis in Bezug auf Vollst&#228;ndigkeit und Datenqualit&#228;t intensiv er&#246;rtert. Diese sind in einem Aufsatz des
+Statistischen Bundesamts (verf&#252;gbar unter https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bildung-For-
+schung-Kultur/Hochschulen/Publikationen/Downloads-Hochschulen/messung-mobilitaet-5213202209004.html)
+zusammengefasst. Der Ausschuss f&#252;r die Hochschulstatistik hat verschiedene Initiativen ergriffen, um die
+Vollst&#228;ndigkeit und Qualit&#228;t der Daten zu verbessern.
+2.4 Aufbau einer Studienverlaufsdatenbank
+Kernst&#252;ck der HStatG-Novelle von 2016 war die Einf&#252;hrung einer Studienverlaufsstatistik, mit der die
+bestehenden Informationsdefizite hinsichtlich etwa des Wechsels von Hochschulen oder Studieng&#228;ngen, des
+&#220;bergangs vom Bachelor- zum Masterstudium sowie des Studienerfolgs behoben und zudem wichtige Informationen
+zur Effizienz des Studiums und zur Beurteilung der Studienorganisation geliefert werden sollten.
+Datengrundlage der Studienverlaufsstatistik sind ausgew&#228;hlte Merkmale der Studierenden-, Pr&#252;fungs- und
+Promovierendenstatistik, die &#252;ber ein Pseudonym &#252;ber die Zeit und &#252;ber die genannten Basisstatistiken hinweg mit einander
+verkn&#252;pft werden, um vollst&#228;ndige Studienverl&#228;ufe abbilden zu k&#246;nnen.
+Technische Voraussetzung f&#252;r die F&#252;hrung der Studienverlaufsstatistik ist eine Studienverlaufsdatenbank, die 
+im Berichtszeitraum beim Statistischen Bundesamt aufgebaut wurde und in der die Einzeldatens&#228;tze der
+Basisstatistiken ab dem Sommersemester 2017 mit dem gesetzlich bestimmten Merkmalskranz und dem Pseudonym
+abgespeichert werden. Der Hochschulstatistikausschuss hat der Aufbau der Datenbank und die
+Implementierung der Auswertungsprogramme, die den statistischen &#196;mtern nach Einbezug einer hinreichenden Anzahl an
+Berichtssemestern sowohl die Erstellung von Standardtabellen als auch von flexiblen Sonderauswertungen zur
+Analyse des Studienverlaufs erm&#246;glichen, eng begleitet. Auch hat sich der Ausschuss mit der Qualit&#228;t der
+Verkn&#252;pfung von Einzeldaten zwischen den verschiedenen Datenbest&#228;nden (insbesondere der Studierenden- und 
+Pr&#252;fungsstatistik) und Berichtszeitpunkten befasst. Dabei hat der Ausschuss die Statistischen &#196;mter bei der
+Entwicklung eines Programms begleitet, das m&#246;gliche Fehler trotz eingeschr&#228;nkter Qualit&#228;t der Lieferdaten
+begrenzen soll.
+Die Studienverlaufsdatenbank ist Mitte 2019 in den Produktivbetrieb gegangen und wird sukzessive um die
+aktuellen Berichtszeitr&#228;ume der Basisstatistiken erweitert. Im Berichtszeitraum konnten bereits erste Analysen
+zu Hochschulwechslern und Studiengangwechslern auf Basis der Studienverlaufsdatenbank vorgelegt werden, 
+die im Ausschuss intensiv er&#246;rtert wurden. Erste Ergebnisse zu &#220;berg&#228;ngen vom Bachelor zum Master werden
+voraussichtlich Anfang 2021 vorliegen, erste Ergebnisse zum Studienerfolg eines Bachelorstudiums
+voraussichtlich Anfang 2023, wobei damit zu rechnen ist, dass die Belastbarkeit dieser ersten Analysen wegen der
+dann noch geringen Datengrundlage in der Studienverlaufsdatenbank noch eingeschr&#228;nkt ist.
+2.5 Aufbau einer Auswertungsdatenbank Hochschulstatistik
+Das novellierte HStatG schafft die rechtliche Grundlage f&#252;r den Aufbau und den Betrieb einer
+Auswertungsdatenbank mit dem gesamten Merkmalskatalog der Statistiken &#252;ber Studierende, Promovierende, Pr&#252;fungen,
+Hochschulpersonal, Habilitierte und Hochschulfinanzen. Ziel ist es dabei, den Gesamtaufwand im Bereich der
+Berichterstattung &#252;ber das Hochschulsystem zu reduzieren und die Statistischen &#196;mter in die Lage zu versetzen,
+nicht nur ihre Standardauswertungen effizienter zu erzeugen, sondern auch die oben genannten Statistiken
+kombiniert auswerten zu k&#246;nnen. Dabei sollen auch automatisiert und flexibel Kennzahlen, wie z. B.
+Betreuungsrelationen, Erst- und Gesamtausbildungsquoten, Promotionsquoten, laufende Ausgaben je Studierenden, je
+Professor/-in sowie f&#252;r ein Studium und Drittmittel je Professor/-in berechnet und auf niedriger Aggregationsebene,
+wie z. B. f&#252;r Hochschulen, Studienf&#228;cher oder Abschlussarten, gebildet werden.
+Der Hochschulstatistikausschuss hat die Statistischen &#196;mter bei der fachlichen Konzeption der
+Auswertungsdatenbank zur Hochschulstatistik beraten. Die Auswertungsdatenbank wird beim Statistischen Bundesamt
+eingerichtet und betrieben und darf vom Statistischen Bundesamt und den statistischen Landes&#228;mtern in ihrem
+jeweiligen Zust&#228;ndigkeitsbereich genutzt werden. Das Auswertungssystem, das die berichtszeitraumbezogenen
+Einzeldatens&#228;tze der oben genannten Hochschulstatistiken ab dem Berichtsjahr 2017 enthalten wird, wird
+zudem die automatisierte Umsetzung der statistischen Geheimhaltung erm&#246;glichen, so dass die Ergebnisse ohne
+weitere Bearbeitung an die Nutzer der Hochschulstatistiken &#252;bermittelt werden k&#246;nnen.
+Nachdem zun&#228;chst priorit&#228;r die anderen neuen Aufgaben der HStatG-Novelle angegangen wurden, startete die
+Programmierung der Datenbank im Oktober 2019, und reicht &#252;ber den aktuellen Berichtszeitraum hinaus. Die
+Produktivsetzung der ersten Stufe der Auswertungsdatenbank ist f&#252;r 2021 vorgesehen.
+3 Weitere Projekte der Hochschulstatistik im Berichtszeitraum
+3.1 Revision der F&#228;chersystematiken der Hochschulstatistik
+Die Systematik der hochschulischen F&#228;cher bedarf einer regelm&#228;&#223;igen &#220;berpr&#252;fung, ob Ver&#228;nderungen in den
+F&#228;chern der Hochschulen Anpassungen in der Methodik ihrer statistischen Erfassung erforderlich machen. Die
+&#220;berpr&#252;fung und &#8211; bei Bedarf &#8211; Aktualisierung der F&#228;chersystematiken dienen somit in grundlegender Weise
+der Qualit&#228;tssicherung der Hochschulstatistik. Basierend auf der Empfehlung einer Arbeitsgruppe des
+Wissenschaftsrats (F&#228;cherklassifikation und Thesauri) hatte der Ausschuss f&#252;r die Hochschulstatistik 2015
+beschlossen, m&#246;gliche Anpassungsbedarfe in einem etwa f&#252;nfj&#228;hrigen Turnus systematisch und unter Beteiligung der
+Wissenschaft zu &#252;berpr&#252;fen. Er hatte mit Blick auf das Revisionsjahr 2020 auf seiner Sitzung im November 
+2017 eine Arbeitsgruppe eingerichtet und mit einer Pr&#252;fung beauftragt, welche &#196;nderungen der
+F&#228;chersystematiken erforderlich sind.
+Die Arbeitsgruppe mit Vertreterinnen bzw. Vertretern der DFG, des Deutschen Zentrums f&#252;r Hochschul- und 
+Wissenschaftsforschung (DZHW), der Kanzlerinnen und Kanzler der Universit&#228;ten Deutschlands, der HRK, 
+der L&#228;nderwissenschaftsministerien, des Statistischen Bundesamts und des Wissenschaftsrats hat Vorschl&#228;ge 
+zu dringenden und wichtigen Anpassungen ermittelt und
+an insgesamt gut 100 betroffene Akteursgruppen (Fachgesellschaften, Fakult&#228;tentage, au&#223;eruniversit&#228;re
+Forschungseinrichtungen, Hochschulen) zur Bewertung insbesondere der Disziplinlogik &#252;bersandt. 
+Anschlie&#223;end hat die Arbeitsgruppe die &#196;nderungsvorschl&#228;ge auch nach den weiteren Kriterien &#8222;&#252;bliche&#8220;
+Organisationsstruktur eines Fachs an Einrichtungen, Verh&#228;ltnis des Fachs zu anderen Disziplinen sowie
+Kompatibilit&#228;t mit internationalen F&#228;chersystematiken (Frascati Manual 2012 und ISCED 2013) bewertet. Der
+Hochschulstatistikausschuss hat auf seiner Sitzung im November 2019 die von der Arbeitsgruppe erarbeiteten
+&#196;nderungsvorschl&#228;ge in den F&#228;chersystematiken der Hochschulstatistiken beschlossen und die ge&#228;nderten
+Fachgebietsschl&#252;ssel zum Berichtsjahr 2020 sowie den ge&#228;nderten Studienf&#228;cherschl&#252;ssel zum Wintersemester
+2020/2021 in Kraft gesetzt.
+3.2 Neuberechnung der FuE-Koeffizienten
+Aufgrund der Einheit von Lehre und Forschung an den Hochschulen in Deutschland wird bei den Mitteln, die 
+den Hochschulen als Grundausstattung zur Verf&#252;gung gestellt werden, nicht zwischen Mitteln f&#252;r Forschung
+und Entwicklung (FuE) und Mitteln f&#252;r Lehre unterschieden. Um Informationen &#252;ber Forschungsausgaben und 
+Forschungspersonal zu erlangen, haben sich Mitte der 90er Jahre die KMK, das BMBF, der Wissenschaftsrat
+und das Statistische Bundesamt auf ein empirisch-normatives Berechnungsverfahren verst&#228;ndigt, das von der
+Trennung in Grundmittelforschung und Drittmittelforschung ausgeht. Dabei wurden die Drittmittelausgaben
+und das Drittmittelpersonal ausschlie&#223;lich der Forschung zugerechnet. Die Ausgaben f&#252;r FuE und das FuE-
+Personal der Grundausstattung wurden mit Hilfe sogenannter FuE-Koeffizienten berechnet.
+Der Ausschuss f&#252;r die Hochschulstatistik hatte im November 2013 eine &#220;berpr&#252;fung der FuE-Koeffizienten
+mit dem Ziel beschlossen, die FuE-Koeffizienten neu zu justieren und genauer berechnen zu k&#246;nnen. Die
+Ausschussempfehlung, f&#252;r die &#220;berpr&#252;fung der FuE-Koeffizienten im Universit&#228;tsbereich eine retrospektive
+Befragung des wissenschaftlichen Personals durchzuf&#252;hren, haben die Statistischen &#196;mter Ende 2016 mit einer
+entsprechenden Erhebung nach &#167; 7 BStatG umgesetzt, die vom BMBF finanziert wurde. F&#252;r die &#220;berpr&#252;fung
+der FuE-Koeffizienten an den Fach-, Kunst- und Verwaltungsfachhochschulen wurden Experteninterviews
+durchgef&#252;hrt. 
+Auf Basis der Ergebnisse aus den quantitativen und qualitativen Erhebungen hat der Ausschuss f&#252;r die
+Hochschulstatistik im November 2017 beschlossen, die zuk&#252;nftigen FuE-Koeffizienten f&#252;r Universit&#228;ten,
+P&#228;dagogische und Theologische Hochschulen statt mit Hilfe der bisherigen Parameter mit Hilfe der Forschungsanteile
+zu berechnen, die in der empirischen Erhebung f&#252;r die verschiedenen Personal- und F&#228;chergruppen ermittelt
+wurden, und alle zwei Jahre anhand der aktuellen Personalstruktur anzupassen. F&#252;r die Humanmedizin wurde
+allerdings vereinbart, das bisherige Berechnungsverfahren zun&#228;chst unver&#228;ndert zu lassen. Zudem hat der
+Ausschuss empfohlen, den FuE-Koeffizienten bei den Fachhochschulen auf 15 Prozent (vorher 5 Prozent)
+festzulegen und ihn bei den Kunst- und Verwaltungsfachhochschulen bei 15 Prozent bzw. 5 Prozent zu belassen.
+Die entsprechend der Ausschussempfehlungen neu justierten FuE-Koeffizienten wurden erstmals f&#252;r die FuE-
+Berichterstattung zum Berichtsjahr 2016 sowie f&#252;r den Bildungsfinanzbericht 2018 verwendet.
+3.3 Konzeption eines einheitlichen Geheimhaltungsverfahrens f&#252;r die Hochschulstatistiken
+Die Geheimhaltung in der amtlichen Statistik ist in &#167; 16 Bundesstatistikgesetz (BStatG) geregelt und besagt,
+dass Einzelangaben &#252;ber pers&#246;nliche und sachliche Verh&#228;ltnisse, die f&#252;r eine Bundesstatistik gemacht werden,
+von den jeweils durchf&#252;hrenden statistischen Stellen geheim zu halten sind, soweit nichts anderes bestimmt ist.
+Dieses Statistikgeheimnis steht in einem engen Zusammenhang mit der Auskunftspflicht nach &#167; 15 BStatG.
+Weil die amtliche Statistik die erforderlichen Informationen qua Gesetz einfordern kann, ist sie im Gegenzug
+gesetzlich verpflichtet, die erhaltenen Informationen zu sch&#252;tzen, d. h. sie in einer Form zu anonymisieren, die 
+keine R&#252;ckschl&#252;sse mehr auf die betreffende Person und den dargelegten Sachverhalt enth&#228;lt. Damit sch&#252;tzt sie 
+zugleich das Recht jedes Einzelnen auf informationelle Selbstbestimmung. Insofern ist die Geheimhaltung
+&#8222;konstitutiv&#8220; f&#252;r die amtliche Statistik und eine ihrer wichtigsten Aufgaben.
+In der Hochschulstatistik wird die Geheimhaltung der Ergebnisse derzeit in Bund und L&#228;ndern noch
+uneinheitlich umgesetzt. Mit Blick auf damit verbundene Aufdeckungsrisiken hatten die Statistischen &#196;mter des Bundes
+und der L&#228;nder vereinbart, ein abgestimmtes einheitliches Geheimhaltungsverfahren zu entwickeln. Um auch 
+bei flexiblen Auswertungen eine vollautomatisierte Geheimhaltung der Ergebnisse zu erm&#246;glichen, wurde
+beschlossen, das Geheimhaltungsverfahren in der geplanten Auswertungsdatenbank zur Hochschulstatistik zu
+implementieren.
+Der Hochschulstatistikausschuss war eng in fachliche und methodische Beratungen und Testrechnungen
+eingebunden, die durchgef&#252;hrt wurden, um die Vor- und Nachteile unterschiedlicher Geheimhaltungsverfahren aus
+Nutzersicht zu pr&#252;fen. Er hat sich dabei f&#252;r die Umsetzung der Geheimhaltung &#252;ber eine posttabulare,
+stochastische &#220;berlagerung nach der Cell-Key-Methode ausgesprochen, weil dabei die Originaldaten am wenigsten
+ver&#228;ndert werden m&#252;ssen, um einen hinreichendem Schutz gegen Aufdeckung der Geheimhaltung zu erreichen.
+Die &#220;berlagerung erfolgt nach einem Zufallsmechanismus und bewirkt, dass jede Zelle einer Ergebnistabelle 
+leicht ver&#228;ndert werden kann, aber nicht muss. Die leichte &#196;nderung der Ergebnisse erfolgt so, dass logisch 
+identische Ergebnisse, die in unterschiedlichen Tabellen oder Abfragen enthalten sind, stets exakt gleich
+ver&#228;ndert werden, die Ergebnisse also immer konsistent sind. Eine weitere Folge ist, dass sich die ausgewiesenen
+Einzelwerte in der Tabelle nicht notwendigerweise zu den ausgewiesenen Summen addieren.
+Ver&#246;ffentlicht werden k&#252;nftig ausschlie&#223;lich &#252;berlagerte Tabellen zur Hochschulstatistik, diese stellen dann die 
+amtlichen Ergebnisse dar. Das neue Geheimhaltungsverfahren soll mit der Produktivsetzung der
+Auswertungsdatenbank Hochschulstatistik f&#252;r die dann noch unver&#246;ffentlichten Ergebnisse der dort einbezogenen
+Hochschulstatistiken angewendet werden. Um eine Aufdeckung der Geheimhaltung zu verhindern, darf die in der
+Auswertungsdatenbank hinterlegte &#220;bergangsmatrix nicht ver&#246;ffentlicht werden. Ver&#246;ffentlicht werden aber
+Spannen, in der die exakten Parameterwerte von Bleibewahrscheinlichkeit und Maximalabweichung liegen, um
+den Nutzern eine Absch&#228;tzung der m&#246;glichen Datenver&#228;nderungen und damit eine Interpretation der
+ver&#246;ffentlichten Ergebnisse zu erm&#246;glichen.
+3.4 Geo-Referenzierung von Wissenschaftsstandorten
+Das Statistische Bundesamt hat in Abstimmung mit dem Ausschuss f&#252;r die Hochschulstatistik
+statistik&#252;bergreifende Darstellungs- und Analysem&#246;glichkeiten auf Basis von Geodaten der Wissenschaftsstandorte
+(Hochschulen und &#246;ffentliche sowie &#246;ffentlich gef&#246;rderte Forschungseinrichtungen) in Deutschland erarbeitet. Dazu
+wurde ein gemeinsamer Datensatz erstellt, der die Gitterzellen-ID sowohl der Hochschulstandorte als auch der
+au&#223;eruniversit&#228;ren Forschungseinrichtungen enth&#228;lt. Diese Datengrundlage erm&#246;glicht Kartendarstellungen
+sowie standortbasierte Analysen, z. B. zu Abst&#228;nden zwischen den Einrichtungen, Erreichbarkeiten und
+strukturellen Zusammenh&#228;ngen.
+Die Erstver&#246;ffentlichung von Ergebnissen dieses Projekts erfolgte im Juli 2019 in Form einer Pressemitteilung
+und einer interaktiven Karte der Wissenschaftsstandorte mit ein- und ausblendbaren Layern sowie den
+Forschungsausgaben als Anteil am Bruttoinlandsprodukt (BIP) nach Bundesl&#228;ndern als Hintergrundlayer. Dar&#252;ber
+hinaus wurden Analysen &#252;ber die Ballung von Forschungseinrichtungen um Gro&#223;st&#228;dte und um
+Hochschulstandorte ver&#246;ffentlicht. Ein Schwerpunkt mit aktuellem Bezug lag auf den Universit&#228;ten der
+Exzellenzinitiative, welche kurz vor dem Ver&#246;ffentlichungstermin bekannt gegeben worden waren. Die interaktive Darstellung
+der Wissenschaftsstandorte wurde mittlerweile aktualisiert.
+3.5 Berechnung der Parameter f&#252;r den Zukunftsvertrag &#8222;Studium und Lehre st&#228;rken&#8220;
+Ab dem Jahr 2021 wird das Programm zur Aufnahme zus&#228;tzlicher Studienanf&#228;nger des Hochschulpakts 2020 
+durch den Zukunftsvertrag &#8222;Studium und Lehre st&#228;rken&#8220; &#8211; mit ge&#228;nderter Zielsetzung &#8211; abgel&#246;st. Der
+Zukunftsvertrag wird gemeinsam von Bund und L&#228;ndern finanziert. Die H&#246;he der Bundesmittel je Land aus dem
+Zukunftsvertrag richtet sich nach dem jeweiligen Landesanteil an den Studienanf&#228;ngerinnen und -anf&#228;ngern, den
+Studierenden in Regelstudienzeit zuz&#252;glich zwei Semester sowie den Absolventinnen und Absolventen. Dieser
+Mischparameter wird k&#252;nftig j&#228;hrlich auf Basis der amtlichen Hochschulstatistik neu berechnet. Der Ausschuss 
+f&#252;r die Hochschulstatistik hat sich auf seiner Sitzung im November 2019 daf&#252;r ausgesprochen, dass das
+Statistische Bundesamt die Parameter, die f&#252;r die Berechnung der zu verteilenden Mittel des Zukunftsvertrags
+Hochschulen auf die L&#228;nder relevant sind, berechnet und im Rahmen seiner regul&#228;ren Ver&#246;ffentlichungen zur
+Verf&#252;gung stellt. Damit wird ein wichtiger Beitrag f&#252;r die Transparenz und Validit&#228;t dieser Daten geleistet.
+        
+ 
+ 
+ 
+  
+   
+   
+      
+   
+  
+   
+   
+  
+    
+    
+  
+  
+   
+     
+  
+ 
+     
+     
+    
+     
+     
+   
+  
+  
+ 
+   
+  
+   
+     
+  
+    
+  
+    
+     
+ 
+  
+4
+Ausblick und k&#252;nftige Arbeitsschwerpunkte
+Der Ausschuss f&#252;r die Hochschulstatistik sieht es als dringliche Aufgabe an, die derzeit noch bestehenden
+Defizite bei der Umsetzung des novellierten Hochschulstatistikgesetzes, namentlich die noch bestehenden
+Datenl&#252;cken und die eingeschr&#228;nkte Datenqualit&#228;t bei einzelnen der neuen Merkmale in den angepassten und neuen
+Erhebungen, z&#252;gig zu beheben, um so die erforderlichen Steuerungsinformationen f&#252;r die bedarfsgerechte
+Ausgestaltung der Hochschulbildung und Sicherung der Qualit&#228;t in Forschung und Lehre bereitstellen und die
+bestehenden nationalen und internationalen Lieferverpflichtungen vollumf&#228;nglich erf&#252;llen zu k&#246;nnen.
+Einen weiteren Schwerpunkt sieht der Ausschuss im weiteren Ausbau der Studienverlaufsstatistik. Schon bald
+wird die Datenbasis ausreichend sein, um erste &#220;bergangsquoten vom Bachelor- zum Masterstudium zu
+berechnen. F&#252;r die Analyse kompletter Studienverl&#228;ufe durch die Nachverfolgung von Studienanf&#228;ngerkohorten
+wird noch ein l&#228;ngerer Vorlauf ben&#246;tigt. Da es hierzu bisher keine amtlichen Daten gibt, entsprechende
+belastbare Informationen aber sowohl f&#252;r die Hochschulplanung als auch f&#252;r die Hochschulpolitik von immenser
+Bedeutung sind, sind die Erwartungen in Wissenschaftspolitik, Hochschulverwaltung und -forschung
+entsprechend hoch. Im Rahmen seiner Beratungsfunktion wird der Ausschuss f&#252;r die Hochschulstatistik daher die
+ersten Ergebnisse sorgf&#228;ltig analysieren und validieren. Das gilt im gleichen Ma&#223;e auch, wenn sp&#228;ter erste amtliche
+Daten zu Studienerfolg und Studienabbruch auf Basis der Einzeldatens&#228;tze in der Studienverlaufsdatenbank 
+berechnet werden k&#246;nnen.
+Der Ausschuss f&#252;r die Hochschulstatistik sieht die Notwendigkeit, die Studienverlaufsdaten f&#252;r die Politik und 
+auch f&#252;r die Forschung besser nutzbar zu machen. Verfahren der k&#252;nstlichen Intelligenz (KI) oder des
+maschinellen Lernens sowie die Visualisierung von Verlaufsdaten versprechen ein verbessertes Analysepotential und
+damit einen h&#246;heren Nutzen der Daten. Mit gro&#223;em Interesse verfolgt daher der Ausschuss f&#252;r die
+Hochschulstatistik den geplanten Einsatz von KI und maschinellem Lernen in der Studienverlaufsdatenbank des
+Statistischen Bundesamts, der vom BMBF &#252;ber Projektmittel finanziell gef&#246;rdert wird.
+Ein weiterer Schwerpunkt der Arbeiten des Hochschulstatistikausschusses im n&#228;chsten Berichtszeitraum wird
+die Begleitung des weiteren Auf- und Ausbaus der Auswertungsdatenbank Hochschulstatistik sein. Nach der
+Produktivsetzung der Basisversion, die es den Statistischen &#196;mtern erm&#246;glicht, sowohl ihre
+Standardauswertungen als auch flexible Sonderauswertungen der Hochschulstatistiken durchzuf&#252;hren, ist die Realisierung von
+Ausbaustufen geplant, die unter Ber&#252;cksichtigung der jeweiligen datenschutzrechtlichen und
+statistikrechtlichen Vorgaben einerseits den zust&#228;ndigen obersten Landes- und Bundesbeh&#246;rden sowie andererseits weiteren
+Hauptnutzern der Hochschulstatistik, wie z. B. Forschungseinrichtungen und Hochschulen, Analysen mit der
+Auswertungsdatenbank erm&#246;glichen werden.
+Mit gro&#223;em Interesse verfolgt der Ausschuss f&#252;r die Hochschulstatistik zudem die Vorarbeiten im Statistischen
+Bundesamt zum Aufbau eines Bildungsregisters als Datengrundlage f&#252;r bereichs&#252;bergreifende
+Verlaufsanalysen. Hierdurch k&#246;nnen neue Analysem&#246;glichkeiten f&#252;r die Hochschulpolitik, die Hochschulplanung und die
+Hochschulen selbst (z. B. zu &#220;berg&#228;ngen in den Hochschulbereich oder zu Bildungsmobilit&#228;t) geschaffen
+werden.
+Anlagen
+1. Verzeichnis der Mitglieder und G&#228;ste des Ausschusses f&#252;r die Hochschulstatistik
+2. Ver&#246;ffentlichungen des Statistischen Bundesamts mit Bundesergebnissen der Hochschulstatistik
+Anlage 1
+Verzeichnis der Mitglieder und st&#228;ndigen G&#228;ste des Ausschusses f&#252;r die Hochschulstatistik 
+(Stand: 16. Dezember 2020)
+Vorsitzender: Dr. Stefan Niermann
+Nieders&#228;chsisches Ministerium f&#252;r
+Wissenschaft und Kultur
+1. Vertreter: Prof. Dr. Monika Jungbauer-Gans
+Deutsches Zentrum f&#252;r Hochschul- und 
+Wissenschaftsforschung GmbH
+Hannover
+2. Vertreter: Dr. Roland Kischkel
+Bergische Universit&#228;t Wuppertal
+bis 31.12.2018 bis 31.12.2019
+Stephan Schnitzler
+Ministerium f&#252;r Innovation, Wissenschaft 
+und Forschung des Landes Nordrhein-
+Westfalen
+1. Vertreter: Prof. Dr. Monika Jungbauer-Gans
+Deutsches Zentrum f&#252;r Hochschul- und 
+Wissenschaftsforschung GmbH
+Hannover
+2. Vertreter: Klaus-Joachim Scheunert
+Technische Universit&#228;t Hamburg
+Dienststelle Ort Mitglied St&#228;ndiger Vertreter
+A. Stimmberechtigte Mitglieder
+1. Statistisches Bundesamt Wiesbaden Dr. Georg Thiel Peter Bleses
+2. Bundesministerien
+Bundesministerium f&#252;r Bildung und Forschung 
+Bundesministerium der Finanzen
+Bundesministerium f&#252;r Arbeit und Soziales
+Bundesministerium der Verteidigung
+Bundesministerium des Innern, f&#252;r Bau und Heimat
+3. F&#252;r die Hochschulen zust&#228;ndige oberste Landesbeh&#246;rden
+Ministerium f&#252;r Wissenschaft, Forschung und Kunst, 
+Baden-W&#252;rttemberg
+Bayerisches Staatsministerium f&#252;r Wissenschaft und Kunst
+Der regierende B&#252;rgermeister von Berlin, Senatskanzlei &#8211;
+Wissenschaft und Forschung-
+Ministerium f&#252;r Wissenschaft, Forschung und Kultur des
+Landes Brandenburg
+Senatorin f&#252;r Wissenschaft, Gesundheit und Verbraucherschutz,
+Bremen
+Beh&#246;rde f&#252;r Wissenschaft, Forschung, Gleichstellung und Bezirke,
+Hamburg, Amt f&#252;r Wissenschaft und Forschung
+Hessisches Ministerium f&#252;r Wissenschaft und Kunst
+Berlin
+Berlin
+Bonn
+Berlin
+Berlin
+Stuttgart
+M&#252;nchen
+Berlin
+Potsdam
+Bremen
+Hamburg
+Wiesbaden
+Christian Herbst
+Dr. Bernd Hanke
+Hans-J&#252;rgen Stubig
+Stefan Sch&#228;fer
+Dr. Michaela Schultze
+Klaus Bronnenmayer
+Dr. G&#252;nter Ra&#223;er
+Dr. Angela Walter
+Dr. Robert Reinisch
+Manfred Sch&#252;tte-Thuy
+Kathrin Deumelandt
+Filiz-Mirjam Blach
+Dr. Johannes Geffers
+Jennifer Ruholl
+Gabriele Simons
+Dr. Thomas Schueler
+N. N.
+Dr. Alexander Mack
+Volker Banschbach
+Dr. Jana Sch&#252;tze 
+Gabriele Steinbi&#223;
+Swetlana Litau
+N. N.
+Dr. Werner Nickel
+Dienststelle Ort Mitglied St&#228;ndiger Vertreter
+Ministerium f&#252;r Bildung, Wissenschaft und Kultur des Landes
+Mecklenburg-Vorpommern
+Nieders&#228;chsisches Ministerium f&#252;r Wissenschaft und Kultur
+Ministerium f&#252;r Kultur und Wissenschaft des Landes Nordrhein-
+Westfalen
+Ministerium f&#252;r Wissenschaft, Weiterbildung und Kultur
+Rheinland-Pfalz
+Staatskanzlei des Saarlandes
+Ministerium f&#252;r Wirtschaft, Wissenschaft und Digitalisierung des
+Landes Sachsen-Anhalt
+S&#228;chsisches Staatsministerium f&#252;r Wissenschaft, Kultur und 
+Tourismus
+Ministerium f&#252;r Bildung, Wissenschaft und Kultur des Landes
+Schleswig-Holstein
+Th&#252;ringer Ministerium f&#252;r Wirtschaft, Wissenschaft und
+Digitale Gesellschaft
+4. Wissenschaftsrat
+Schwerin
+Hannover
+D&#252;sseldorf
+Mainz
+Saarbr&#252;cken
+Magdeburg
+Dresden
+Kiel
+Erfurt
+K&#246;ln
+Christian Schmude
+Dr. Stefan Niermann
+Roland Kozik
+Rainer Wilhelm
+Sabrina Kriewald
+Petra Heydrich
+Beate Hahn
+Dr. Bernd Ro&#223;
+Angela Brodkorb
+Dr. Rainer Lange
+Ulrike Bruhn
+N. N.
+N.N.
+Thomas Tarrach
+Michael Molitor
+N.N.
+Peter L&#246;nnecke
+Christoph Ache
+Kornelia Kanitz
+Kristiane Prescha
+5. Vertreter der Hochschulen
+Hochschule f&#252;r Wirtschaft und Umwelt N&#252;rtingen-Geislingen
+Technische Universit&#228;t Dortmund
+Vertreter der Universit&#228;tskanzler und Kanzler der
+Bergischen Universit&#228;t Wuppertal
+Hochschulrektorenkonferenz
+Deutscher Akademischer Austauschdienst
+Deutsches Studentenwerk
+Vertreter der Privaten Hochschulen und Kanzler der
+FOM Hochschule Essen
+N&#252;rtingen
+Dortmund
+Wuppertal
+Berlin/Bonn
+Bonn
+Berlin
+Essen
+Prof. Dr. Andreas Frey
+Prof. Dr. Philipp Doebler
+Dr. Roland Kischkel
+Dr. Elmar Schultz
+Daniel Lechner
+Achim Meyer auf der
+Heyde
+Harald Beschorner
+Prof. Dr. Reinhard Hujer
+(Universit&#228;t Frankfurt
+a. M.)
+Prof. Dr. Gerhard
+Wagenhals (Universit&#228;t 
+Hohenheim)
+N. N.
+Thimo von Stuckrad
+Markus Lehmann
+Bernhard B&#246;rsel
+N. N.
+6. Vertreter wissenschaftlicher Einrichtungen
+Deutsches Zentrum f&#252;r Hochschul- und Wissenschaftsforschung 
+GmbH
+Deutsche Forschungsgemeinschaft
+Max-Planck-Institut f&#252;r Bildungsforschung
+B. Mitglieder mit beratender Stimme
+(Statistische Landes&#228;mter)
+Statistisches Landesamt Baden-W&#252;rttemberg
+Bayerisches Landesamt f&#252;r Statistik
+Hannover
+Bonn
+Berlin
+Stuttgart
+F&#252;rth
+Prof. Dr. Monika
+Jungbauer-Gans
+Christian Fischer
+Dr. Sascha Schr&#246;der
+Dr. Rainer Wolf
+Dr. Thomas G&#246;&#223;l
+Dr. Ulrich Heublein
+Dr. J&#252;rgen G&#252;dler
+N. N.
+Uwe Ru&#223;
+Elisabeth Seitz
+Dienststelle Ort Mitglied St&#228;ndiger Vertreter
+Amt f&#252;r Statistik Berlin-Brandenburg
+Statistisches Landesamt Bremen
+Hessisches Statistisches Landesamt
+Statistisches Landesamt Mecklenburg-Vorpommern
+Landesamt f&#252;r Statistik Niedersachsen
+Information und Technik Nordrhein-Westfalen
+Statistisches Landesamt Rheinland-Pfalz
+Statistisches Amt Saarland
+Statistisches Landesamt des Freistaates Sachsen
+Statistisches Landesamt Sachsen-Anhalt
+Statistisches Amt f&#252;r Hamburg und Schleswig-Holstein
+Th&#252;ringer Landesamt f&#252;r Statistik
+Potsdam/
+Cottbus
+Bremen
+Wiesbaden
+Schwerin
+Hannover
+D&#252;sseldorf
+Bad Ems
+Saarbr&#252;cken
+Kamenz
+Halle (Saale)
+Kiel
+Erfurt
+Katrin M&#246;bius
+Markus Habig
+Dr. Christel Figgener
+Gabriele Kleinpeter
+Katja Zielinsky
+Hans-Josef Fischer
+Marcel H&#252;rter
+Alwin Baus
+N. N.
+Michael Reichelt
+Margarete Haberhauer
+Marie Krumbholz
+Martin Redlich
+Ulrich Schewe
+Ulrike Schedding-Kleis
+Gudrun Beneicke
+N. N.
+Kristin Ruprecht
+Dr. Marco Schr&#246;der
+N. N.
+Birgit Scheibe
+Christiane Leuchte
+Dr. Ramona Sch&#252;rmann
+N. N.
+C.St&#228;ndige G&#228;ste
+St&#228;ndige Konferenz der Kultusminister der L&#228;nder
+Stiftung f&#252;r Hochschulzulassung
+Bayerisches Staatsinstitut f&#252;r Hochschulforschung und
+Hochschulplanung
+Institut f&#252;r Entwicklungsplanung und Strukturforschung GmbH an 
+der Universit&#228;t Hannover
+Institut f&#252;r Hochschulforschung
+Zentrale Datenstelle der Landesfinanzminister
+Bonn/Berlin
+Dortmund
+M&#252;nchen
+Hannover
+Wittenberg
+Berlin
+Martin Schulze
+Guido Bacharach
+Dr. Thorsten Lenz
+Sabine Seidel
+Justus Henke
+Martin Braun
+Sylvia Schill
+N. N.
+N. N.
+N. N.
+N. N.
+N. N.
+Anlage 2
+Ver&#246;ffentlichungen mit Bundesergebnissen der Hochschulstatistik
+(Stand: 16. Dezember 2020)
+Ergebnisse der bundeseinheitlichen Hochschulstatistik auf der Grundlage der Erhebungen nach dem
+Hochschulstatistikgesetz (HStatG) werden von den Statistischen &#196;mtern des Bundes und der L&#228;nder ver&#246;ffentlicht. Auch
+das Bundesministerium f&#252;r Bildung und Forschung, der Wissenschaftsrat und die Kultusministerkonferenz
+publizieren ausgew&#228;hlte Ergebnisse der Hochschulstatistik.
+Die nachfolgende Aufstellung umfasst nur die vom Statistischen Bundesamt herausgegebenen Publikationen
+zur Hochschulstatistik. Bei den regelm&#228;&#223;igen Ver&#246;ffentlichungen sind Umfang und Ver&#246;ffentlichungsjahr der
+jeweils letzten erschienenen Berichte angegeben. Detaillierte Ergebnisse f&#252;r einzelne L&#228;nder und Hochschulen
+werden in den statistischen Berichten der zust&#228;ndigen Statistischen Landes&#228;mter ver&#246;ffentlicht.
+1. Internet-Angebot
+Die unten genannten Ver&#246;ffentlichungen mit Daten aus der Hochschulstatistik, aber auch aktuelle Ergebnisse 
+und Kennzahlen aus anderen Statistikbereichen k&#246;nnen kostenlos von der Homepage des Statistischen
+Bundesamtes abgerufen werden.
+https://www.destatis.de
+2. Allgemeine und thematische Querschnittsver&#246;ffentlichungen
+Statistisches Jahrbuch 2019 f&#252;r die Bundesrepublik Deutschland 
+In dieser letztmalig als Buchausgabe erschienenen Ver&#246;ffentlichung sind auch &#220;bersichten aus allen Bereichen
+der Bildungs-, Wissenschafts- und Hochschulstatistik enthalten.
+Abschnitt &#8222;Bildung&#8221; S. 85 ff.,
+Erschienen im Oktober 2019, 715 S.
+Wirtschaft und Statistik (WISTA)
+Die Monatszeitschrift enth&#228;lt neueste Informationen aus allen Bereichen der amtlichen Statistik. Folgende
+Beitr&#228;ge wurden im Berichtszeitraum in WISTA ver&#246;ffentlicht:
+&#8211; Versuch einer Kreistypisierung f&#252;r ein kommunales Bildungsmanagement, WISTA 3/2017, S.76 ff.
+&#8211; Promovierende in Deutschland, WISTA 4/2017, S. 104 ff.
+&#8211; Neue Methoden zur Berechnung von Forschung und Entwicklung an Hochschulen, WISTA 2/2018,
+S.66 ff.
+&#8211; Neue Promovierendenstatistik: Analyse der ersten Erhebung 2017, WISTA 1/2019, S. 68 ff.
+&#8211; Geheimhaltung in der Hochschulstatistik, WISTA 6/2019, S87 ff.
+&#8211; Konzeption eines Bildungsregisters in Deutschland, WISTA 2/2020, S.37 ff.
+Internationale Bildungsindikatoren im L&#228;ndervergleich 2019
+Die seit 2006 j&#228;hrlich erscheinende Gemeinschaftsver&#246;ffentlichung der Statistischen &#196;mter des Bundes und der
+L&#228;nder enth&#228;lt ausgew&#228;hlte Indikatoren der OECD-Publikation &#8222;Bildung auf einen Blick&#8220; in einer Gliederung
+nach Bundesl&#228;ndern, darunter auch Indikatoren zum Hochschulbereich (z. B. Studienanf&#228;nger- und
+Absolventenquote, internationale mobile Studierende usw.). Die Publikation ist sowohl in einer gedruckten als auch in
+einer elektronischen Fassung erh&#228;ltlich.
+Erschienen im September 2019, 137 S.
+Datenreport 2018
+Der Datenreport wird gemeinsam von der Bundeszentrale f&#252;r politische Bildung, dem Statistischen Bundesamt,
+dem Wissenschaftszentrum Berlin und dem SOEP am Deutschen Institut f&#252;r Wirtschaftsforschung
+ver&#246;ffentlicht. Die Publikation befasst sich unter anderem mit den Themenbereichen Bev&#246;lkerung und Demografie,
+Bildung, Wirtschaft und &#246;ffentlicher Sektor, Familie, Lebensformen und Kinder, Arbeitsmarkt und Verdienste,
+Sozialstruktur und soziale Lagen, Gesundheit und soziale Sicherung, R&#228;umliche Mobilit&#228;t und regionale
+Unterschiede.
+Erschienen im November 2018, 464 S.
+3. Fachserie 11: Bildung und Kultur, Reihe 4: Hochschulen
+Reihe 4.1: Studierende an Hochschulen
+Die Ver&#246;ffentlichung enth&#228;lt sowohl Angaben f&#252;r das Winter- als auch f&#252;r das zur&#252;ckliegende Sommersemester
+zu den deutschen und ausl&#228;ndischen Studierenden und Studienanf&#228;ngerinnen und -anf&#228;ngern in der
+Aufgliederung nach Hochschularten, Hochschulen und Bundesl&#228;ndern sowie differenziert nach Studienf&#228;chern,
+angestrebter Abschlusspr&#252;fung und einigen anderen Merkmalen.
+Schnellmeldung: Wintersemester 2020/2021, erschienen im Dezember 2020, 13 S.
+Vorbericht: Wintersemester 2019/2020, erschienen im M&#228;rz 2020, 83 S.
+Endg&#252;ltige Ergebnisse: Wintersemester 2019/2020, erschienen im September 2020, 450 S.
+Reihe 4.2: Pr&#252;fungen an Hochschulen
+&#220;ber die von Hochschulen und Pr&#252;fungs&#228;mtern gemeldeten Abschlusspr&#252;fungen wird j&#228;hrlich berichtet. In der
+Ver&#246;ffentlichung sind jeweils die Ergebnisse des Wintersemesters und des folgenden Sommersemesters zu
+einem Pr&#252;fungsjahr zusammengefasst.
+Berichtsjahr 2018, erschienen im September 2020, 262 S.
+Reihe 4.3.1: Nichtmonet&#228;re Hochschulstatistische Kennzahlen
+Die aktuellste Ver&#246;ffentlichung dieser Fachserie enth&#228;lt Ergebnisse f&#252;r die Jahre 1980 bis 2018, die j&#228;hrlich
+fortgeschrieben werden. Die Kennzahlen dienen vor allem der Hochschulplanung bei der Beschreibung und
+Bewertung aktueller Entwicklungen. Sie umfassen u.a. bev&#246;lkerungsbezogene Bildungsquoten
+(Studienberechtigte, Studienanf&#228;nger), Betreuungsrelationen, Angaben &#252;ber den Pr&#252;fungserfolg, die Studiendauer und das
+Alter von Absolventen und Studienanf&#228;ngern. Die auf internationaler Ebene von der OECD zu den Hochschulen
+publizierten Kennzahlen werden auf der Ebene der einzelnen Bundesl&#228;nder ver&#246;ffentlicht. Au&#223;erdem liegen
+Kennzahlen zu Ausl&#228;nderanteilen bei Studienanf&#228;ngern, Studierenden und Absolventen, zu Frauenanteilen in
+verschiedenen Stadien der akademischen Karriere sowie zur Mobilit&#228;t von Studienanf&#228;ngern und Studierenden
+vor.
+Berichtszeitraum 1980 &#8211; 2019, erschienen im Dezember 2020, 842 S.
+Reihe 4.3.2 Monet&#228;re Hochschulstatische Kennzahlen
+Diese Ver&#246;ffentlichung enth&#228;lt internationale sowie nationale Kennzahlen, die auf Basis der
+Hochschulfinanzstatistik berechnet wurden, wie zum Beispiel die Ausgaben f&#252;r Hochschulen je Einwohner und je Studierenden,
+die laufenden Grundmittel f&#252;r Lehre und Forschung an Hochschulen je Studierenden oder je Professor/-in, die
+Drittmittel je Professor/-in oder die Drittmittelquote sowie die Ausgaben und das Personal der Hochschulen f&#252;r
+Forschung und Entwicklung.
+Berichtsjahr 2018, erschienen im September 2020, 420 S.
+Reihe 4.4: Personal an Hochschulen
+In dieser j&#228;hrlich erscheinenden Ver&#246;ffentlichung wird das wissenschaftliche und k&#252;nstlerische, technische, 
+Verwaltungs- und sonstige Personal an Hochschulen in der Gliederung nach Hochschularten, dienstrechtlicher
+Stellung und F&#228;chergruppen nachgewiesen. Weiterhin sind Angaben &#252;ber die Habilitationen und den
+Mitgliedern von Hochschulr&#228;ten enthalten.
+Berichtsjahr 2019, erschienen im Oktober 2020, 418 S.
+Reihe 4.5: Finanzen der Hochschulen
+Diese j&#228;hrlich erscheinende Reihe enth&#228;lt Angaben &#252;ber die Ausgaben und Einnahmen der Hochschulen in der
+Gliederung nach Ausgabe- und Einnahmearten, Hochschularten, F&#228;chergruppen sowie nach Lehr- und
+Forschungsbereichen. Der Nachweis der Hochschulausgaben und in weniger tiefer Darstellung der
+Hochschuleinnahmen erfolgt auch nach Bundesl&#228;ndern.
+Berichtsjahr 2018, erschienen im April 2020, 212 S.
+Reihe 4.6: F&#246;rderung nach dem Stipendienprogramm-Gesetz (Deutschlandstipendium)
+In dieser Publikation wurden erstmals Daten zum Deutschlandstipendium ver&#246;ffentlicht. Seit dem
+Sommersemester 2011 werden Studierende mit 300 Euro monatlich gef&#246;rdert, deren Werdegang herausragende
+Leistungen in Studium und Beruf erwarten lassen.
+Berichtsjahr 2019, erschienen im Mai 2020, 45 S.
+Reihe 4.8: Statistik der Studierenden, Pr&#252;fungen und des Personals an Berufsakademien
+In dieser j&#228;hrlich erscheinenden Ver&#246;ffentlichung werden die Studierenden, Pr&#252;fungen und das Personal an 
+Berufsakademien nachgewiesen.
+Berichtsjahr 2019, erschienen im Juni 2020, 71 S.
+Reihe 7: Ausbildungsf&#246;rderung nach dem Bundesausbildungsf&#246;rderungsgesetz (BAf&#246;G)
+In dieser Reihe werden j&#228;hrlich Angaben &#252;ber die Zahl der nach dem BAf&#246;G gef&#246;rderten Sch&#252;ler und
+Studierenden, den finanziellen Aufwand, Art, Umfang und H&#246;he der F&#246;rderungen sowie &#252;ber den sozialen
+Hintergrund der Gef&#246;rderten dargestellt.
+Berichtsjahr 2019, erschienen im August 2020, 84 S.
+4. Weitere regelm&#228;&#223;ige Publikationen
+Erfolgsquoten 2018 &#8211; Berechnung f&#252;r die Studienanf&#228;ngerjahrg&#228;nge 2006 bis 2010
+In dieser Reihe erscheinen j&#228;hrlich berechnete Erfolgsquoten nach Geschlecht, Bundesl&#228;ndern, F&#228;chergruppen,
+Pr&#252;fungsgruppen, Hochschularten und nach Art der Hochschulzugangsberechtigung f&#252;r verschiedene
+Studienanf&#228;ngerjahrg&#228;nge.
+Erschienen im Februar 2020, 15 S.
+Studienverlaufsstatistik 2019
+In diesem j&#228;hrlich erscheinenden Tabellenband werden die aktuellen Ergebnisse der 2017 neu eingef&#252;hrten
+Studienverlaufsstatistik nachgewiesen. Die Erstausgabe umfasst Auswertungen zum Hochschul- und zum
+Studiengangwechsel nach Hochschularten, L&#228;ndern und F&#228;chergruppen.
+Erschienen im Mai 2020, 21 S.
+Promovierendenstatistik 2019
+In diesem j&#228;hrlich erscheinenden Tabellenband werden die Ergebnisse der zum Berichtsjahr 2017 eingef&#252;hrten
+Erhebung zu den Promovierenden in Deutschland dargestellt.
+Die Erstver&#246;ffentlichung dieses Tabellenbands erfolgte f&#252;r das Berichtsjahr 2018. Da hier noch eine
+Untererfassung von Erhebungseinheiten und Merkmalen zu verzeichnen war, enthielt der Tabellenband f&#252;r 2018 nur
+einige ausgew&#228;hlte Ergebnisse. Der Schwerpunkt der Ver&#246;ffentlichung lag aber auf der Analyse der
+Vollst&#228;ndigkeit und Qualit&#228;t der Promovierendenstatistik im zweiten Berichtsjahr.
+Erschienen im August 2020, 64 S.
+Hochschulen auf einem Blick 2018
+In der regelm&#228;&#223;ig aktualisierten Brosch&#252;re werden die wichtigsten nationalen Kennzahlen in kompakter Form
+kommentiert und pr&#228;sentiert.
+Erschienen im Mai 2018, 59 S.
+Private Hochschulen 2018
+In dieser Reihe werden statistische Ergebnisse und Kennzahlen zu Privaten Hochschulen, aber auch zu
+Hochschulen in &#246;ffentlicher und kirchlicher Tr&#228;gerschaft nachgewiesen. Datenbasis ist die Studierenden- und
+Pr&#252;fungsstatistik sowie die Statistik zum Personal an Hochschulen.
+Erschienen im Januar 2020, 190 S.
+Deutsche Studierende im Ausland, Ausgabe 2019 (Ergebnisse des Berichtsjahres 2017)
+Diese Reihe fasst j&#228;hrlich die Zahlen &#252;ber Art und Umfang von Studienaufenthalten deutscher Studierender an
+Hochschulen im Ausland zusammen.
+Erschienen im Dezember 2019, 22 S.
+5. Sonderbeitr&#228;ge
+Finanzen der privaten Hochschulen 2018
+In dieser zum Berichtsjahr 2017 erschienenen Ver&#246;ffentlichung werden statistische Ergebnisse und Kennzahlen
+zu den Finanzen privater Hochschulen, aber auch von Hochschulen in &#246;ffentlicher und kirchlicher Tr&#228;gerschaft
+nachgewiesen. Datenbasis ist einerseits die Hochschulfinanzstatistik, andererseits die Studierenden- und
+Pr&#252;fungsstatistik sowie die Statistik zum Personal an Hochschulen.
+Erschienen im Dezember 2020, 44 S.
+Messung der internationalen Mobilit&#228;t der Studierenden 
+Der methodische Beitrag analysiert vor dem Hintergrund des europ&#228;ischen Mobilit&#228;tsziels die Vollst&#228;ndigkeit
+sowie die Qualit&#228;t der neuen Angaben zur internationalen Mobilit&#228;t der Studierenden in der Pr&#252;fungsstatistik
+2018.
+Erschienen im Juli 2020, 20 S.
+
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>17. Bericht des Ausschusses f&#252;r die Hochschulstatistik f&#252;r den Zeitraum 1. Juni 2016 bis 31. Mai 2020</titel>
+    <datum>2021-02-04</datum>
+  </document>
+  

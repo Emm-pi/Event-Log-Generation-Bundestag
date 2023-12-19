@@ -1,0 +1,334 @@
+<document>
+    <id>244328</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/21825</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>2a6c4444ad9c3d09f8a923d35d3acc05</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>265457</id>
+      <titel>Potentiale der embedded SIM - eSIM</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium f&#252;r Wirtschaft und Energie</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/218/1921825.pdf</pdf_url>
+      <id>244328</id>
+      <dokumentnummer>19/21825</dokumentnummer>
+      <datum>2020-08-25</datum>
+      <verteildatum>2020-10-12</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Antwort
+der Bundesregierung
+auf die Kleine Anfrage der Abgeordneten Manuel H&#246;ferlin, Frank Sitta,
+Jens Beeck, weiterer Abgeordneter und der Fraktion der FDP
+&#8211; Drucksache 19/21433 &#8211;
+Potentiale der embedded SIM &#8211; eSIM
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Die herk&#246;mmliche SIM-Karte (Abk&#252;rzung f&#252;r &#8222;subscriber identity module&#8220;) 
+wird in den n&#228;chsten Jahren durch die eSIM (das &#8222;e&#8220; steht f&#252;r &#8222;embedded&#8220;, 
+also integrierte SIM) verdr&#228;ngt werden. Zu diesem Schluss kommt eine neue 
+Studie aus dem April 2020 (Quelle: https://www.wiwo.de/technologie/digital
+e-welt/kryptofunktionen-der-esim-siehat-das-zeug-die-mobilfunkwelt-
+radikalzu-veraendern/25760560.html; zuletzt abgerufen am 24. Juli 2020, 08:30 
+Uhr). Schon in den letzten Jahren hat sich bei den herk&#246;mmlichen SIM-Karten 
+der Trend gezeigt, dass diese immer kleiner wurden und damit auch weniger 
+Platz in Mobiltelefonen einnehmen &#8211; von der Mini-SIM &#252;ber die Micro-SIM 
+zur Nano-SIM.
+Der augenscheinlichste Unterschied der eSIM im Gegensatz zur
+herk&#246;mmlichen SIM-Karte besteht darin, dass die eSIM nicht mehr physisch in ein
+Endger&#228;t eingebracht werden muss, sondern bereits im Endger&#228;t integriert ist und 
+dadurch im Vergleich zur bisher kleinsten SIM-Karte auf dem Markt zu einer 
+weiteren Platzeinsparung f&#252;hren kann. Durch die kleine Gr&#246;&#223;e der eSIM
+bieten sich auch Einsatzm&#246;glichkeiten jenseits des Mobiltelefons, etwa bei noch 
+kleineren Endger&#228;ten wie smarten Uhren oder anderen tragbaren Ger&#228;ten (sog. 
+Wearables). Um einen Nutzungswechsel der eSIM zu erm&#246;glichen, kann diese 
+umprogrammiert werden und sogar die Aufgabe mehrerer herk&#246;mmlicher 
+SIM-Karten &#252;bernehmen, indem beispielsweise mehrere Nutzerprofile auf sie 
+programmiert und gespeichert werden. Vorteile einer eSIM gegen&#252;ber einer 
+herk&#246;mmlichen SIM-Karte bieten sich Verbrauchern somit dadurch, dass der 
+Anbieterwechsel zumindest technisch erleichtert wird und dass Nutzerprofile 
+k&#252;nftig digital verwaltet werden k&#246;nnen, sodass entweder mehrere
+Nutzerprofile auf einem Ger&#228;t oder ein Nutzerprofil auf mehreren Ger&#228;ten erm&#246;glicht 
+wird. Die eSIM bietet nicht nur Vorteile f&#252;r Verbraucher, sondern auch im
+reinen Business-to-Business-Kontext, bei der Kommunikation zwischen
+Maschinen bzw. Ger&#228;ten (sog. M2M-Kommunikation) und im IoT-Bereich (IoT als 
+Kurzform f&#252;r &#8222;Internet of Things&#8220;, deutsch: Internet der Dinge). Gerade im 
+Zusammenhang mit dem voranschreitenden 5G-Netzausbau wird eine
+Mobilfunkanbindung von immer mehr Ger&#228;ten erwartet. Die oben erw&#228;hnte Studie 
+geht davon aus, dass die eSIM unter anderem ein entscheidender Treiber bei 
+der Weiterentwicklung der M2M-Kommunikation sein k&#246;nnte.
+Deutscher Bundestag Drucksache 19/21825
+19. Wahlperiode 25.08.2020
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums f&#252;r Wirtschaft und Energie vom 
+24. August 2020 &#252;bermittelt.
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext.
+Bereits im M&#228;rz 2018 hat die GSM Association (GSMA) ein White Paper 
+zum Thema eSIM und SIM-Bereitstellung herausgegeben (Quelle: https://ww
+w.gsma.com/esim/wp-content/uploads/2018/12/esim-whitepaper.pdf; zuletzt 
+abgerufen am 24. Juli 2020, 08:30 Uhr). Die GSMA ist eine weltweite
+Industrievereinigung, die mehr als 1 000 Mitglieder vertritt, unter ihnen
+Mobilfunkanbieter sowie Hersteller von Netzinfrastruktur oder Mobilfunkger&#228;ten. Die 
+GSMA gab im April 2018 ebenfalls bekannt, dass sie an einem gemeinsamen 
+weltweiten Standard f&#252;r den Einsatz der eSIM arbeite (Quelle: https://www.gs
+ma.com/newsroom/press-release/gsma-statement-regarding-development-of-e
+sim-standard/; zuletzt abgerufen am 24. Juli 2020, 08:30 Uhr). Dieser
+Standard solle auch die M&#246;glichkeit f&#252;r sogenannte &#8222;Netlocks&#8220; enthalten, also die 
+M&#246;glichkeit, dass der Nutzer &#252;ber das verwendete Endger&#228;t an einen
+bestimmten Anbieter bzw. ein bestimmtes Netz gebunden wird, etwa durch die 
+technische Konfiguration der eSIM in der Form, dass die Einrichtung
+mehrerer Nutzerprofile und Netzprofile auf einer eSIM unterbunden wird (Quelle: 
+https://www.golem.de/news/esim-die-plastik-sim-karte-ist-noch-lange-nicht-w
+eg-1806-135013-2.html; zuletzt abgerufen am 24. Juli 2020, 08:30 Uhr). 
+K&#252;rzlich wurde zudem bekannt, dass Apple die Nutzung der eSIM auf seinem 
+Produkt &#8222;Apple Watch&#8220; insofern einschr&#228;nkt, dass derselbe Mobilfunkanbieter 
+genutzt werden muss wie beim gekoppelten iPhone und dass einige
+Mobilfunkanbieter &#252;ber die in der Apple Watch verbaute eSIM keine Dienste anbieten 
+d&#252;rfen (Quelle: https://www.heise.de/news/eSIM-Apple-schraenkt-Nutzung-f
+uer-Apple-Watch-ein-4785829.html; zuletzt abgerufen am 24. Juli 2020, 
+08:30 Uhr).
+&#8199;1. Unter welchen Gesichtspunkten befasst sich die Bundesregierung mit 
+dem Thema eSIM?
+a) Welche Ressorts innerhalb der Bundesregierung befassen sich mit 
+welchen konkreten Fragestellungen?
+b) Welche Erkenntnisse f&#252;r ihre politische Arbeit konnte die
+Bundesregierung aus der Befassung mit dem Thema eSIM bereits
+gewinnen?
+c) Plant die Bundesregierung Ma&#223;nahmen in Bezug auf das Thema 
+eSIM?
+Falls ja, welche, und wann?
+Die Fragen 1 bis 1c werden zusammen beantwortet.
+Innerhalb der Bundesregierung befassen sich eine Reihe von Ressorts mit dem 
+Thema eSIM, darunter das Bundesministerium f&#252;r Wirtschaft und Energie und 
+das Bundesministerium des Innern, f&#252;r Bau und Heimat. Durch die
+Verwendung von embedded SIM (eSIM) kann bei Ger&#228;ten, die &#252;ber &#246;ffentliche
+Mobilfunknetze kommunizieren, auf eine Mechanik zur Aufnahme einer klassischen 
+SIM-Karte verzichtet werden. Die Ger&#228;te k&#246;nnen dadurch kleiner, leichter und 
+in der Herstellung kosteng&#252;nstiger werden. Au&#223;erdem k&#246;nnen sie
+unempfindlicher werden (insbesondere gegen&#252;ber St&#246;&#223;en und Feuchtigkeit). Das Hantieren 
+mit einer SIM-Karte und das &#214;ffnen eines Ger&#228;tes vor der Inbetriebnahme
+sowie bei einem Anbieterwechsel entfallen.
+Im Jahr 2017 hat die Bundesnetzagentur im Rahmen eines
+Forschungsprogramms eine Studie zur Bedeutung der eSIM f&#252;r Wettbewerb und Verbraucher 
+im Mobilfunkmarkt in Auftrag gegeben (https://www.wik.org/veroeffentlichun
+gen/diskussionsbeitraege/listenansicht-diskussionsbeitraege/detailansicht-disku
+ssionsbei-traege?tx_ttnews%5BbackPid%5D=93&amp;tx_ttnews%5Bcat%5D=4&amp;t
+x_ttnews%5Btt_news%5D=2008&amp;tx_ttnews%5Byear%5D=2017&amp;cHash=bb5
+b40571ceecc8069ac1e241993374e zuletzt abgerufen am 17.08.2020). Die
+Studie betont die Vielzahl offener Fragen und kommt u. a. zu dem Ergebnis, dass
+auch gewisse Risiken f&#252;r die Entwicklung des Wettbewerbs und die
+Verbraucher bestehen. Diese werden kontinuierlich beobachtet.
+Die eSIM spielt eine wichtige Rolle f&#252;r die Sicherheit in 5G-Netzen sowie f&#252;r 
+das Etablieren elektronischer Identit&#228;ten auf mobilen Plattformen. Aus diesem 
+Grund wirkt das Bundesamt f&#252;r Sicherheit in der Informationstechnik (BSI)
+innerhalb der internationalen Standardisierung darauf hin, dass einheitliche,
+leistungsf&#228;hige Hardware-Plattformen verpflichtend f&#252;r alle Anbieter von
+Mobiltelefonen eingef&#252;hrt werden. Eine solche Hardware-Plattform ist die eSIM der 
+Kategorie 3, welche in der Lage ist, &#252;ber das reine Verwalten von Profilen der 
+Netzanbieter hinaus Funktionen auszuf&#252;hren, welche f&#252;r das Realisieren
+sicherer elektronischer Identit&#228;ten genutzt werden k&#246;nnen.
+Die Standardisierungsaktivit&#228;ten des BSI innerhalb der GSMA (Global System 
+for Mobile Communications-Association, Industrievereinigung der GSM-
+Mobilfunkanbieter) basieren auf der Mitarbeit in dem vom Bundesministerium 
+f&#252;r Wirtschaft und Energie gef&#246;rderten Projekt OPTIMOS 2.0. In diesem
+Projekt erf&#252;llen eSIMs die Funktionen eines Sicherheitsankers im Smartphone. F&#252;r 
+die sichere Ausgestaltung der eSIM ist es u. a. erforderlich, dass eine eSIM
+anwendungsunabh&#228;ngig grundlegende, standardisierte und zertifizierte
+kryptographische Sicherheitsfunktionen diskriminierungsfrei allen Anwendungen auf 
+dem Mobiltelefon zur Verf&#252;gung stellt. Ein solcher &#8222;Cryptographic Service 
+Provider&#8220; wird zwischen dem BSI und den Herstellern abgestimmt und findet 
+sich bereits in ersten Mobiltelefonen.
+Der Erfolg bei der Umsetzung standardisierter kryptographischer Funktionen 
+auf standardisierter Hardware sind notwendige Voraussetzung f&#252;r das
+Realisieren sicherer mobiler Identit&#228;ten auf dem Vertrauensniveau &#8222;substantiell&#8220; gem&#228;&#223; 
+der Verordnung &#252;ber elektronische Identifizierung und Vertrauensdienste
+(Verordnung (EU) Nr. 910/2014, eIDAS-VO). Die sichere Ausgestaltung der eSIM 
+&#252;ber die Standardisierungsgremien ist vor diesem Hintergrund ein wichtiger 
+Baustein f&#252;r die Digitalisierung und als solcher im Schwerpunkteprogramm des 
+Bundesministeriums des Innern, f&#252;r Bau und Heimat zur Digitalisierung
+verankert.
+&#8199;2. Welche Kenntnisse hat die Bundesregierung dar&#252;ber, wie viele eSIM-
+f&#228;hige Endger&#228;te derzeit auf dem deutschen, europ&#228;ischen und auf dem 
+Weltmarkt existieren?
+a) Wie verteilt sich die Anzahl der eSIM-f&#228;higen Endger&#228;te nach 
+Kenntnis der Bundesregierung auf die verschiedenen Ger&#228;teklassen 
+(Mobiltelefone, Wearables, IoT-Ger&#228;te, vernetzte Maschinen, ...)?
+b) Auf wie vielen der existierenden eSIM-f&#228;higen Endger&#228;te der
+jeweiligen Ger&#228;teklassen wird nach Kenntnis der Bundesregierung die 
+eSIM-Funktion bereits genutzt?
+c) Wie haben sich die Zahlen zu den Fragen 2, 2a und 2b in den letzten 
+f&#252;nf Jahren nach Kenntnis der Bundesregierung entwickelt, und
+welche zuk&#252;nftige Entwicklung wird nach Kenntnis der
+Bundesregierung f&#252;r die n&#228;chsten f&#252;nf Jahre erwartet?
+Die Fragen 2 bis 2c werden zusammen beantwortet.
+Der Bundesregierung liegen zur Anzahl der eSIM-f&#228;higen Endger&#228;te auf den 
+genannten M&#228;rkten und deren Verteilung auf Ger&#228;teklassen keine selbst
+erhobenen Daten vor.
+&#8199;3. Welche Kenntnisse hat die Bundesregierung dar&#252;ber, ob bereits ein
+Standard f&#252;r die Spezifikationen der eSIM existiert?
+a) Falls ein solcher Standard nach Kenntnis der Bundesregierung
+bereits existiert, wo ist dieser definiert, und gilt dieser Standard
+national, europaweit oder international?
+b) Falls ein solcher Standard nach Kenntnis der Bundesregierung
+bereits existiert, sieht er die M&#246;glichkeit f&#252;r sogenannte Netlocks durch 
+Mobilfunkanbieter oder Ger&#228;tehersteller vor?
+c) Falls nach Kenntnis der Bundesregierung noch kein solcher Standard 
+existiert, wird an einem entsprechenden Standard gearbeitet, und 
+wenn ja, von wem?
+Die Fragen 3 bis 3c werden zusammen beantwortet.
+Die eSIM Spezifikationen werden in der GSM Association (GSMA) erarbeitet 
+und auf der Webseite der GSMA ver&#246;ffentlicht. (Quelle: https://www.gsm
+a.com/esim; zuletzt abgerufen am 6. August 2020). Die von GSMA
+ver&#246;ffentlichten Standards gelten international. Die eSIM Spezifikationen sehen die 
+M&#246;glichkeit f&#252;r Netlocks vor. In der GSMA wird aktuell an einer neuen
+Version der eSIM Spezifikationen gearbeitet.
+&#8199;4. Plant die Bundesregierung, bestimmte Aspekte in Bezug auf den Einsatz 
+der eSIM zu regulieren oder sich auf europ&#228;ischer Ebene f&#252;r eine
+Regulierung einzusetzen?
+Falls ja, welche Aspekte sind dies?
+Innerhalb der GSMA (internationale Standardisierung) ist das BSI in der
+Arbeitsgruppe &#8222;Secure Application on Mobile&#8220; aktiv, welche sich mit der
+Realisierung sicherer Anwendungen im Zusammenhang mit dem Einsatz von eSIMs 
+besch&#228;ftigt. Ziel ist es, &#252;ber ein zentrales Standardisierungsgremium durch
+Harmonisierung die Basis f&#252;r das Etablieren einer einheitlichen Sicherheitstechnik 
+auf mobilen Endger&#228;ten zu schaffen. In Kombination mit dem netzseitigen 
+Home-Location-Register wird eine wichtige Identifizierungs- und
+Authentifizierungskomponente f&#252;r digitale Dienste geschaffen, die in jedem mobilen 
+Endger&#228;t verankert sein kann. Erg&#228;nzend wird auf die Antwort zu Frage 5
+verwiesen.
+&#8199;5. Wie bewertet die Bundesregierung Relevanz und Potentiale der eSIM in 
+Bezug auf den Verbraucherschutz im Mobilfunkbereich, bei Wearables 
+und bei IoT-Ger&#228;ten?
+Nachdem eSIM-L&#246;sungen zun&#228;chst im Bereich der Maschine-Maschine-
+Kommunikation-(M2M) entwickelt wurden, gewinnt der Einsatz von eSIM im 
+Verbrauchersegment zunehmend an Bedeutung. Die Verwendung von eSIM ist 
+dabei insbesondere f&#252;r Ger&#228;te im sog. Internet der Dinge (IdD oder IoT) und 
+sog. Wearables relevant. Die Bundesregierung nimmt etwaige Risiken f&#252;r den 
+Wettbewerb und Verbraucherschutz ernst und beobachtet die Entwicklung
+kontinuierlich.
+&#8199;6. Wie bewertet die Bundesregierung Relevanz und Potentiale der eSIM in 
+Bezug auf die Entwicklungen im Bereich Industrie 4.0, etwa die
+Weiterentwicklung im Bereich der M2M-Kommunikation und den
+Zusammenhang mit dem 5G-Netzausbau?
+eSIMs werden im Bereich der Maschine-zu-Maschine Kommunikation (M2M) 
+und damit im Bereich Industrie 4.0 voraussichtlich eine hohe Bedeutung haben. 
+Der Netzausbau 5G spielt hierbei eine wichtige Rolle, weil durch den
+Funkstandard 5G h&#246;here Bandbreiten mit geringerer Latenz m&#246;glich sein werden. 
+Auch f&#252;r die Maschine-Maschine-Kommunikation (M2M) ist festzuhalten, 
+dass ein erheblicher Sicherheitsgewinn f&#252;r die Anwendung durch die Nutzung 
+eines hardware-basierten Sicherheitsankers in Form einer erweiterten eSIM
+erzielt werden kann. Hierbei gelten die gleichen Anforderungen wie bei der
+Antwort zu Frage 1 beschrieben.
+&#8199;7. Hat die Bundesregierung zum Thema eSIM bereits externe Studien in 
+Auftrag gegeben?
+a) Wenn ja, welche?
+Welche Schl&#252;sse hat die Bundesregierung f&#252;r ihre politische Arbeit 
+aus den Ergebnissen der Studien gezogen?
+b) Welche Studien zum Thema eSIM sind der Bundesregierung dar&#252;ber 
+hinaus bekannt?
+Die Fragen 7 bis 7b werden zusammen beantwortet.
+Es wird auf die Antwort zu Frage 1 verwiesen.
+Im &#220;brigen sind keine weiteren externen Studien zu dem Thema in Auftrag
+gegeben worden.
+&#8199;8. Wie bewertet die Bundesregierung die Gefahr des sogenannten eSIM-
+Swapping, bei dem sich T&#228;ter (zumindest tempor&#228;r) einer eSIM-Identit&#228;t 
+bem&#228;chtigen, um diese beispielsweise in betr&#252;gerischer Absicht f&#252;r ihre 
+eigenen Zwecke zu verwenden?
+a) Wie viele F&#228;lle von eSIM-Swapping gab es nach Kenntnis der 
+Bundesregierung seit 2018 (bitte nach Jahren aufschl&#252;sseln)?
+b) Wie kann aus Sicht der Bundesregierung die Gefahr durch eSIM-
+Swapping &#8211; m&#246;glichst b&#252;rokratiearm &#8211; einged&#228;mmt werden?
+c) Gibt es nach Kenntnis der Bundesregierung weitere eSIM-
+spezifische Angriffsvektoren, und falls ja, welche?
+Die Fragen 8 bis 8c werden zusammen beantwortet.
+Der erste Fall des eSim Swappings im Bundesgebiet wurde am 24. Mai 2019 in 
+Bayern bekannt.
+Neue Technologien unterliegen grunds&#228;tzlich neuen Angriffsvektoren, die sich 
+dynamisch entwickeln. Daher wird eine umfassende Sicherheitsarchitektur f&#252;r 
+eSIMs ben&#246;tigt, einschlie&#223;lich eines Up-date-Konzepts, um auf neuartige
+Angriffe reagieren zu k&#246;nnen. Ein solches Update-Konzept ist bereits Bestandteil 
+des vom BSI eingebrachten Cryptographic Service Providers, siehe Antwort zu 
+Frage 1.
+Durch eSIMs k&#246;nnen T&#228;ter grunds&#228;tzlich noch schneller aktiv werden, da sie 
+nicht auf die Zustellung einer illegal erworbenen SIM-Karte warten m&#252;ssen,
+sondern direkt das f&#252;r betr&#252;gerische Zwecke vorgesehene SIM-Profil auf das 
+mobile Endger&#228;t &#252;berspielen k&#246;nnen.
+&#8199;9. Wie bewertet die Bundesregierung eine m&#246;gliche Einf&#252;hrung von
+Netlocks beim Einsatz der eSIM aus verbraucherpolitischer Sicht?
+Plant die Bundesregierung Ma&#223;nahmen, um die Einf&#252;hrung von
+Netlocks bei der eSIM zu unterbinden?
+Die verbraucherpolitische Bewertung einer m&#246;glichen Einf&#252;hrung von
+Netlocks beim Einsatz von eSIM l&#228;sst sich nicht pauschal beantworten, sondern 
+h&#228;ngt von der konkreten Ausgestaltung einer m&#246;glichen Ausgestaltung von 
+Netlocks beim Einsatz von eSims ab. Erg&#228;nzend wird auf die Antworten zu den 
+Fragen 4 und 5 verwiesen.
+10. Wie plant die Bundesregierung, im Rahmen der Umsetzung der
+&#8222;Richtlinie (EU) 2019/770 des Europ&#228;ischen Parlaments und des Rates vom 
+20. Mai 2019 &#252;ber bestimmte vertragsrechtliche Aspekte der
+Bereitstellung digitaler Inhalte und digitaler Dienstleistungen&#8220; die Einf&#252;hrung von 
+Netlocks f&#252;r IoT-Ger&#228;te und Wearables, bei denen eine eSIM zum
+Einsatz kommt, wirksam auszuschlie&#223;en?
+Die Richtlinie (EU) 2019/770 des Europ&#228;ischen Parlaments und des Rates vom 
+20. Mai 2019 &#252;ber bestimmte vertragsrechtliche Aspekte der Bereitstellung
+digitaler Inhalte und digitaler Dienstleistungen (nachfolgend: Richtlinie Digitale 
+Inhalte) betrifft das Vertragsverh&#228;ltnis zwischen Unternehmern und
+Verbrauchern und sieht insbesondere gew&#228;hrleistungsrechtliche Anspr&#252;che und Rechte 
+des Verbrauchers gegen&#252;ber dem Unternehmer vor. Ein allgemeiner Ausschluss 
+bestimmter technischer Gestaltungen im Sinne der Fragestellung ist aufgrund 
+der Technikneutralit&#228;t der zivilrechtlichen Bestimmungen der Richtlinie
+Digitale Inhalte nicht m&#246;glich.
+11. Ist der Bundesregierung die Problematik des Ausschlusses der Nutzung 
+einer eSIM-Multicard mancher Mobilfunkanbieter in Bezug auf das
+Produkt &#8222;Apple Watch&#8220; bekannt?
+Welche Kenntnisse hat die Bundesregierung &#252;ber m&#246;gliche andere F&#228;lle 
+&#228;hnlicher Art?
+Wie bewertet die Bundesregierung eine seitens der Hersteller von
+Endger&#228;ten herbeigef&#252;hrte Einschr&#228;nkung der Anbieterwahl f&#252;r die Nutzung 
+der eSIM aus verbraucherschutzrechtlicher Sicht?
+Welchen Handlungsbedarf sieht die Bundesregierung hier
+gegebenenfalls?
+Der Bundesregierung ist die genannte Einschr&#228;nkung bei der Nutzung der 
+eSIM bekannt. Einschr&#228;nkungen der Anbieterwahl schr&#228;nken die Wahlfreiheit 
+von Verbrauchern ein und sind daher aus verbraucherpolitischer Sicht
+grunds&#228;tzlich kritisch zu bewerten. Die Problematik wird daher genau beobachtet.
+12. Wie bewertet die Bundesregierung in Bezug auf das Recht auf
+Datenportabilit&#228;t einen m&#246;glichen Ausschluss der Programmierung bzw. des
+Anlegens mehrerer (aktiver) Nutzerprofile oder Netzprofile auf eine eSIM?
+Welche Kenntnisse hat die Bundesregierung dar&#252;ber, ob diese technische 
+Einschr&#228;nkung der eSIM durch Mobilfunkanbieter oder Ger&#228;tehersteller 
+angestrebt wird?
+Um den Wettbewerb zu f&#246;rdern und aus verbraucherpolitischer Sicht die
+Wahlfreiheit der Nutzer zu st&#228;rken, sollte die Programmierung bzw. das Anlegen 
+mehrerer (aktiver) Nutzer- oder Netzprofile auf einer eSIM m&#246;glich sein. Die 
+eSIM Spezifikationen werden in der GSM Association (GSMA) erarbeitet, 
+siehe Antwort zu Frage 3. Darunter auch ein Standard, der es erm&#246;glichen soll, 
+mehrere Subscriber Profile auf einer eSIM parallel zu aktivieren und zu nutzen. 
+Dar&#252;ber hinaus wird eine Common Security Domain einer eSIM diskutiert, 
+welche unabh&#228;ngig vom Mobilfunknetzbetreiber ist und damit bei einem
+Providerwechsel erhalten bleibt. Die Entwicklung wird beobachtet.
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/21433 -
+Potentiale der embedded SIM - eSIM</titel>
+    <datum>2020-08-25</datum>
+  </document>
+  

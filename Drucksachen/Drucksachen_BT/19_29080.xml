@@ -1,0 +1,212 @@
+<document>
+    <id>253244</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/29080</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>02da502be74f03e012dfe8774d5752a7</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>276594</id>
+      <titel>Hackerangriff auf deutsche Bundesbeh&#246;rden</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium des Innern, f&#252;r Bau und Heimat</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/290/1929080.pdf</pdf_url>
+      <id>253244</id>
+      <dokumentnummer>19/29080</dokumentnummer>
+      <datum>2021-04-27</datum>
+      <verteildatum>2021-05-10</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Antwort
+der Bundesregierung
+auf die Kleine Anfrage der Abgeordneten Uwe Schulz, Joana Cotar, Dr. Michael 
+Espendiller und der Fraktion der AfD
+&#8211; Drucksache 19/28608 &#8211;
+Hackerangriff auf deutsche Bundesbeh&#246;rden
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Von den Hackerangriffen auf E-Mail-Programme von Microsoft (MS
+Exchange) sind nach Angaben des deutschen Bundesamts f&#252;r Sicherheit in der 
+Informationstechnik (BSI) auch sechs deutsche Bundesbeh&#246;rden betroffen, 
+wobei es in vier F&#228;llen zu einer m&#246;glichen Kompromittierung gekommen sei 
+(https://www.t-online.de/digital/sicherheit/id_89617236/sicherheitsluecke-in-
+microsoft-exchange-server-auch-bundesbehoerden-von-hackerangriffen-betrof
+fen.html). Das BSI ver&#246;ffentlichte einen Sicherheitshinweis, in dem die
+Vorf&#228;lle nicht nur als extrem kritisch, sondern mit der h&#246;chsten Gefahrenkategorie 
+&#8222;rot&#8220; eingestuft werden (https://www.berliner-zeitung.de/zukunft-technologie/
+fakten-zum-hacker-angriff-auf-deutsche-behoerden-microsoft-datenleck-li.144
+949.amp). Die Zahl der dem BSI-Lagezentrum gemeldeten kompromittierten 
+Exchange-Systeme steige kontinuierlich (https://www.t-online.de/digital/siche
+rheit/id_89617236/sicherheitsluecke-in-microsoft-exchange-server-auch-bund
+esbehoerden-von-hackerangriffen-betroffen.html).
+Bei einem Cyberangriff auf Microsoft-Exchange-Server k&#246;nnen Angreifer 
+&#252;ber Sicherheitsl&#252;cken Zugriff auf das Netzwerk des angegriffenen Servers
+erlangen (https://www.berliner-zeitung.de/zukunft-technologie/fakten-zum-hack
+er-angriff-auf-deutsche-behoerden-microsoft-datenleck-li.144949.amp). Das 
+w&#252;rde bedeuten, dass grunds&#228;tzlich besonders gesch&#252;tzte personenbezogene 
+Daten von B&#252;rgern als auch sicherheitsrelevante Belange der Bundesregierung 
+in Gefahr sein k&#246;nnten. Wie sehr die Bundesregierung von den Microsoft-
+Systemen abh&#228;ngig ist, zeigt eine Studie der Beraterfirma Pricewaterhouse-
+Coopers aus dem Jahr 2019 (ebd.).
+Aufgrund der Tragweite des Exchange-Hacks sehen die Fragesteller die 
+Bundesregierung in einer Bringschuld, den Deutschen Bundestag und die
+Bev&#246;lkerung im Hinblick auf Angriffsmethodik, Ausma&#223; des Schadens,
+ergriffene Gegenma&#223;nahmen und die zuk&#252;nftige Sicherheit der kritischen
+Infrastrukturen unverz&#252;glich und umfassend aufzukl&#228;ren.
+Deutscher Bundestag Drucksache 19/29080
+19. Wahlperiode 27.04.2021
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums des Innern, f&#252;r Bau und Heimat 
+vom 27. April 2021 &#252;bermittelt.
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext.
+1. Wann und durch welche Umst&#228;nde hat die Bundesregierung von den
+Hackerangriffen auf die Microsoft Exchange-Systeme erfahren?
+In der Nacht zum 3. M&#228;rz 2021 ver&#246;ffentlichte das Unternehmen Microsoft 
+Herstellerhinweise zu Sicherheitsl&#252;cken in Exchange Server. Im direkten
+zeitlichen Kontext erfolgte die Warnmeldung des Bundesamtes f&#252;r Sicherheit in der 
+Informationstechnik (BSI) &#8222;Mehrere Schwachstellen in MS Exchange&#8220; vom 
+3. M&#228;rz 2021. Die unmittelbar darauf erfolgten Pr&#252;fungen der IT-Systeme der 
+Bundesregierung auf eine m&#246;gliche Ausnutzung der Exchange
+Sicherheitsl&#252;cken ergaben bei zwei Beh&#246;rden eine Kompromittierung der Exchange Server.
+Dar&#252;ber hinaus wird auf die Antwort der Bundesregierung auf die Schriftliche 
+Frage 36 des Abgeordneten Dr. Konstantin von Notz auf
+Bundestagsdrucksache 19/27704 vom 19. M&#228;rz 2021 verwiesen.
+2. Welche Sicherheitsl&#252;cken und m&#246;gliche Kompromittierungen konnten
+bisher durch die Bundesregierung in Bezug auf Bundesbeh&#246;rden
+festgestellt werden, und kann ein etwaig entstandener Schaden durch die
+Bundesregierung bereits konkretisiert werden?
+Bei zwei Beh&#246;rden konnte das Vorhandensein von Web-Shells best&#228;tigt
+werden. Die Web-Shells wurden von Angreifern nach Bekanntwerden der 
+Schwachstellen automatisiert verteilt. Die Existenz der Web-Shell bedeutet
+jedoch noch nicht, dass es zu Datenabfl&#252;ssen oder weiteren Aktionen der
+Angreifer auf den betroffenen Systemen gekommen ist. Nach aktuellem Stand der
+laufenden forensischen Analysen gibt es bislang keine Hinweise, dass ein
+Datenabfluss &#252;ber Web-Shells oder auf anderem Weg erfolgte.
+3. Welche Bundesbeh&#246;rden sind nach Kenntnis der Bundesregierung durch
+die j&#252;ngsten Cyberangriffe betroffen, und wurden diese auch zum
+Zwecke der Cyberspionage, zum Beispiel im R&#252;stungs- und
+Verteidigungssektor, durchgef&#252;hrt?
+Derzeit sind der Bundesregierung zwei Bundesbeh&#246;rden bekannt, in denen eine 
+Kompromittierung der IT-Systeme durch das Ausnutzen der Sicherheitsl&#252;cke 
+und die Installation einer Web-Shell best&#228;tigt werden kann. Weitere Details 
+k&#246;nnen vor dem Hintergrund laufender Ermittlungsverfahren zum
+gegenw&#228;rtigen Zeitpunkt nicht &#246;ffentlich gemacht werden.
+4. Wurden durch die Bundesregierung geeignete Gegenma&#223;nahmen
+ergriffen, und wenn ja, welche?
+Der vom Hersteller zur Verf&#252;gung gestellte Sicherheitspatch wurde
+schnellstm&#246;glich bei den verschiedenen Exchange Servern der Bundesregierung
+installiert und die Sicherheitsl&#252;cke damit geschlossen. Zudem wurden
+Sensibilisierungsma&#223;nahmen durchgef&#252;hrt.
+&#8199;5. In welchen Bundesbeh&#246;rden und kritischen Infrastrukturen werden nach 
+Kenntnis der Bundesregierung gegenw&#228;rtig Microsoft-Exchange-
+Systeme eingesetzt, und kann die Bundesregierung ausschlie&#223;en, dass 
+&#252;ber bundesbeh&#246;rdliche Netzwerke ein potenzieller Zugriff auf s&#228;mtliche 
+Daten des angegriffenen Exchange Servers stattgefunden hat?
+Der Bundesregierung liegt keine zentrale &#220;bersicht, der eingesetzten Exchange 
+Server in der Bundesverwaltung und in kritischen Infrastrukturen vor.
+Grunds&#228;tzlich kann von einer sehr weiten Verbreitung von Exchange ausgegangen 
+werden.
+Zum gegenw&#228;rtigen Zeitpunkt sind keine Datenabfl&#252;sse bekannt.
+&#8199;6. Wie gro&#223; ist nach Kenntnis der Bundesregierung die Abh&#228;ngigkeit
+deutscher Beh&#246;rden von Microsoft-Systemen, und warum werden von
+Bundesbeh&#246;rden vorwiegend Microsoft Office und Windows verwendet 
+(https://www.berliner-zeitung.de/zukunft-technologie/fakten-zum-hacke
+r-angriff-auf-deutsche-behoerden-microsoft-datenleck-li.144949.amp)?
+Eine vom Bundesministerium des Innern, f&#252;r Bau und Heimat beauftragte
+strategische Marktanalyse (08/2019) hat best&#228;tigt, dass die Bundesverwaltung in 
+allen Schichten des Software-Stacks von wenigen Anbietern &#8211; darunter auch 
+Microsoft &#8211; stark abh&#228;ngig ist.
+&#8199;7. Wie werden nach Kenntnis der Bundesregierung personenbezogene
+Daten im Sinne des Datenschutzes auf Servern von Bundesbeh&#246;rden
+gesch&#252;tzt, bzw. kann die Bundesregierung ausschlie&#223;en, dass
+personenbezogene Daten vom j&#252;ngsten Cyberangriff betroffen sind?
+Personenbezogene Daten werden im Sinne des Schutzziels &#8222;Vertraulichkeit&#8220; 
+betrachtet. Hierzu stehen u. a. die vom BSI bereitgestellten Standards zur
+Verf&#252;gung: BSI-Standard 200-2 IT-Grundschutz Vorgehensweise, der
+Umsetzungsplan Bund, sowie die Grundschutzbausteine des BSI. Eine dedizierte
+Betrachtung erfolgt in den jeweiligen Sicherheitskonzepten der Fachverfahren, um den 
+Schutz von personenbezogenen Daten sicher zu stellen.
+&#8199;8. Wann ist mit einer umfangreichen Unterrichtung durch die
+Bundesregierung im Zusammenhang mit den j&#252;ngsten Cyberattacken zu rechnen?
+Die Bundesregierung berichtet wie &#252;blich in den zust&#228;ndigen Gremien zu dem 
+Sachverhalt.
+&#8199;9. Mit welchen Schadcode-Infektionen und nachgelagerten Cyberattacken 
+im Zusammenhang mit den j&#252;ngsten Angriffen auf Microsoft-Exchange-
+Systeme rechnet die Bundesregierung gegenw&#228;rtig, und welche
+konkreten Untersuchungen werden diesbez&#252;glich durch die Bundesregierung 
+oder das BSI eingeleitet und angestellt?
+Das BSI hat Einrichtungen der Bundesverwaltung bei der Bew&#228;ltigung des
+Vorfalls mit Incident Response Ma&#223;nahmen unterst&#252;tzt. Bei den durchgef&#252;hrten 
+forensischen Untersuchungen konnte nach aktuellem Stand eine Ausnutzung 
+der Schwachstelle nur in Form der Installation einer Web-Shell festgestellt
+werden. Nach aktuellem Stand der laufenden forensischen Analysen gibt es bislang 
+keine Hinweise, dass dabei ein Datenabfluss &#252;ber Web-Shells oder auf anderem 
+Weg erfolgte. Die Analysen werden weiter mit Nachdruck durchgef&#252;hrt.
+10. Welche konkreten Ma&#223;nahmen empfiehlt das BSI den deutschen
+Beh&#246;rden und der deutschen Wirtschaft, um sich vor zuk&#252;nftigen Angriffen, 
+die den j&#252;ngsten Angriffen &#228;hneln, zu sch&#252;tzen?
+Das BSI bietet vielf&#228;ltige Angebote auch zu aktuellen Sicherheitsbedrohungen 
+f&#252;r Beh&#246;rden und Wirtschaft. Mit dem Umsetzungsplan Bund stellt das BSI 
+eine Leitlinie f&#252;r Informationssicherheit in der Bundesverwaltung zur
+Verf&#252;gung. Dar&#252;ber hinaus ver&#246;ffentlicht das BSI IT-Grundschutzbausteine und 
+Mindeststandards zu verschiedenen Fragestellungen der Informationssicherheit. 
+Mit dem &#8222;Netzwerke sch&#252;tzen Netzwerke&#8220;-Ansatz der Allianz f&#252;r Cyber-
+Sicherheit f&#246;rdert das BSI den kostenfreien Erfahrungsaustausch. Die gesamte 
+Palette der Unterst&#252;tzungsma&#223;nahmen, welche die Allianz f&#252;r Cyber-Sicherheit 
+zur Verf&#252;gung stellt, steht den Beh&#246;rden und der Wirtschaft zur Verf&#252;gung.
+Dazu geh&#246;ren z. B. die Nutzung von Grundschutzprofilen, der direkte
+Erfahrungsaustausch, der Aufbau von Kompetenzen und Empfehlungen zu
+Sicherheitsupdates.
+11. Wurden, nach Kenntnis der Bundesregierung und des BSI, durch die 
+Cyberattacke auch einzelne Unternehmen oder Unternehmensnetzwerke 
+zur Wirtschaftsspionage oder zur Sch&#228;digung angegriffen, und wenn ja, 
+wird die Bundesregierung Ma&#223;nahmen diesbez&#252;glich ergreifen (wenn ja, 
+welche)?
+Der Bundesregierung liegen Hinweise zur Installation von Web-Shells bei 
+Wirtschaftsunternehmen vor. Es wurden Sensibilisierungsma&#223;nahmen
+durchgef&#252;hrt.
+12. Sieht die Bundesregierung aufgrund der j&#252;ngsten Cyberattacke konkreten 
+Handlungsbedarf in Bezug auf die digitale Ausstattung von
+Bundesbeh&#246;rden und der kritischen Infrastrukturen mit Microsoft-Systemen, um 
+deren Sicherheit zu gew&#228;hrleisten, und wenn ja, welchen konkreten 
+Handlungsbedarf hat die Bundesregierung diesbez&#252;glich ausgemacht?
+Sicherheitsl&#252;cken in Software geh&#246;ren bedauerlicherweise zum LifeCycle-
+Prozess jedes Software-Produkts und betreffen propriet&#228;re Software
+gleicherma&#223;en wie Open-Source. Wichtig ist, bei Kenntnis einer Sicherheitsl&#252;cke,
+diese durch das Einspielen eines Patches schnellstm&#246;glich zu schlie&#223;en.
+13. Welche Erkenntnisse hat die Bundesregierung in Bezug auf Open-
+Source-Systeme bei Bundesbeh&#246;rden, plant die Bundesregierung einen 
+Umstieg von Microsoft-Systemen auf Open-Source-Systeme in
+Bundesbeh&#246;rden, und wenn ja, wann ist mit einem diesbez&#252;glichen Umstieg zu 
+rechnen?
+Wenn nein, warum nicht?
+Der Einsatz von Soft- und Hardware erfolgt unter Ber&#252;cksichtigung der
+individuellen Anforderungen des &#246;ffentlichen Auftraggebers an das jeweilige
+Produkt. Im Vergabeverfahren werden im Rahmen der Beschaffungsautonomie die 
+vergaberechtlichen Grunds&#228;tze, insbesondere derjenige der produktneutralen 
+Ausschreibung, gewahrt.
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/28608 -
+Hackerangriff auf deutsche Bundesbeh&#246;rden</titel>
+    <datum>2021-04-27</datum>
+  </document>
+  

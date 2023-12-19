@@ -1,0 +1,1012 @@
+<document>
+    <id>238637</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/17166</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>64f6767c50507b8b855c2a1388e17345</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>258246</id>
+      <titel>IT-Konsolidierung des Bundes sicherstellen - IT-Sicherheit und Datenschutz bei Bundesbeh&#246;rden gew&#228;hrleisten</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium des Innern, f&#252;r Bau und Heimat</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/171/1917166.pdf</pdf_url>
+      <id>238637</id>
+      <dokumentnummer>19/17166</dokumentnummer>
+      <datum>2020-02-12</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Antwort
+der Bundesregierung
+auf die Kleine Anfrage der Abgeordneten Dr. Konstantin von Notz,
+Tabea R&#246;&#223;ner, Dr. Tobias Lindner, weiterer Abgeordneter und
+der Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN
+&#8211; Drucksache 19/16776 &#8211;
+IT-Konsolidierung des Bundes sicherstellen &#8211; IT-Sicherheit und Datenschutz bei
+Bundesbeh&#246;rden gew&#228;hrleisten
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Die Digitalisierung der &#246;ffentlichen Verwaltung ist nach Ansicht der
+Fragesteller dringend notwendig. Sie ist Voraussetzung eines modernen,
+b&#252;rgerorientierten Staates mit modernen, b&#252;rgerorientierten Leistungen, der in Europa 
+und weltweit verbunden handelt und in Zug&#228;nglichkeit, Effizienz und
+Synergieeffekten digitaler Dienstleistungen auch im Wettbewerb steht. Doch 
+Deutschland ist nach Ansicht der Fragesteller in internationalen und
+europaweiten Vergleichen der Verf&#252;gbarkeit von E-Government-Angeboten
+regelm&#228;&#223;ig allenfalls im Mittelfeld anzutreffen und kommt insgesamt kaum voran.
+Im derzeit gr&#246;&#223;ten laufenden IT-Projekt des Bundes versucht die
+Bundesregierung eine Neuaufstellung des seit 2015 laufenden Vorhabens &#8222;IT-
+Konsolidierung des Bundes&#8220;. Das Bundeskabinett hatte sich dazu am 6.
+November 2019 mit einem Bericht der Bundesregierung zur Neuorganisation der 
+IT-Konsolidierung befasst, nachdem der Beauftragte der Bundesregierung f&#252;r 
+Informationstechnik (CIO), Staatssekret&#228;r Klaus Vitt, bereits am 16. Oktober 
+2019 dem Ausschuss Digitale Agenda Bericht erstattet hatte. Im
+federf&#252;hrenden Innenausschuss berichtete die Bundesregierung eine Woche nach dem
+Kabinettsbeschluss.
+Das bereits seit vier Jahren laufende Projekt soll die nach Ansicht der
+Fragesteller auch weiterhin v&#246;llig zersplitterte IT-Landschaft der Beh&#246;rden des
+Bundes neu sortieren, Prozesse und Verfahren, wo dies m&#246;glich ist, b&#252;ndeln und 
+letztlich vor allem auch f&#252;r gr&#246;&#223;ere IT-Sicherheit und Effizienz der
+Datenverarbeitung sorgen. Dabei sollten sowohl die Beschaffung, die Betriebe
+(Rechenzentren), die IT-Dienste sowie die Dienstleister soweit als m&#246;glich
+zusammengef&#252;hrt und zentralisiert werden.
+Das bislang unter der Federf&#252;hrung des Bundesministeriums des Innern, f&#252;r 
+Bau und Heimat (BMI) laufende Projekt befindet sich nach Ansicht der
+Fragesteller mittlerweile in gr&#246;&#223;ten Schwierigkeiten, nachdem insbesondere der 
+Bundesrechnungshof in mehreren Berichten den faktischen Sillstand des
+Projektes moniert sowie massive Fehler und Verschwendung der verantwortlichen 
+Stellen beklagt hat. Der Ausgabenbedarf hat sich gegen&#252;ber der ersten Sch&#228;t-
+Deutscher Bundestag Drucksache 19/17166
+19. Wahlperiode 12.02.2020
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums des Innern, f&#252;r Bau und Heimat 
+vom 10. Februar 2020 &#252;bermittelt.
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext.
+zung 2014 mittlerweile verf&#252;nffacht und wird auf ca. 3,5 Mrd. Euro
+veranschlagt (vgl. &#8222;Modernisierung der Beh&#246;rden-IT: Das teuerste Digitalprojekt 
+der Regierung droht zu scheitern&#8220;, SPON vom 13. September 2019, abrufbar 
+unter www.spiegel.de/netzwelt/netzpolitik/bundesrechnungshof-zerpflueckt-pl
+aene-zur-it-konsolidierung-des-bundes-a-1286674.html).
+Der Haushaltsausschuss des Deutschen Bundestages hat wegen zahlreicher 
+bislang nicht ausger&#228;umter Unklarheiten wiederholt Mittel gesperrt und
+weitreichende Korrekturen gefordert. Die erst k&#252;rzlich bekannt gewordene, vom 
+sogenannten IT-Rat als Ausweg erdachte Neuorganisation des Gro&#223;projektes 
+unter gleichrangiger Federf&#252;hrung des Bundesministeriums der Finanzen 
+(BMF) und des Bundesministeriums des Innern, f&#252;r Bau und Heimat, der 
+gleichzeitigen Reduktion auf k&#252;nftig nur noch einen IT-Dienstleister (ITZ 
+Bund) sowie der Einf&#252;hrung eines zentralen Controllings durch das
+Bundeskanzleramt begegnet allerdings bereits neuen Bedenken insbesondere durch 
+den Bundesrechnungshof.
+Nach Ansicht der Pr&#252;ferinnen und Pr&#252;fer des Bundesrechnungshofes bestehen 
+beispielsweise Zweifel, ob die immer noch f&#252;nf verschiedenen, zuk&#252;nftig f&#252;r 
+die Leitung zust&#228;ndigen Stellen, tats&#228;chlich eine Verbesserung bewirken
+k&#246;nnen, ob der alleinig verbleibende Dienstleister ITZ Bund der gewachsenen 
+Verantwortung gerecht werden kann, ob der Zeitplan realistisch ist und ob
+hinsichtlich der formulierten Ziele das Gro&#223;thema IT-Sicherheit bislang
+ausreichend abgebildet wird. Insgesamt fehle es an grundlegenden
+sicherheitstechnischen Rahmenbedingungen (vgl. www.spiegel.de/netzwelt/web/bundesrechnu
+ngshof-zweifelt-am-rettungsplan-fuer-bundes-it-a-1296701-druck.html).
+Die unter anderem vom Bundesrechnungshof aufgeworfenen Fragen haben 
+nach Ansicht der Fragesteller eine erhebliche Relevanz f&#252;r die erfolgreiche 
+Realisierung des Projekts. Gerade die Fragen hinsichtlich der nach Ansicht der 
+Fragesteller mit dem Projekt bislang verfehlten Mehrwerte bei der Erh&#246;hung 
+der IT-Sicherheit der Beh&#246;rden des Bundes geben Anlass zu erheblicher
+Besorgnis. Denn die Beh&#246;rden des Bundes sind in den zur&#252;ckliegenden Jahren 
+wiederholt zur Zielscheibe erfolgreicher, teils gravierender IT-Angriffe
+geworden, sodass auch in Zukunft mit erheblichen Risiken f&#252;r die Kritischen
+Infrastrukturen, den Geheimschutz sowie die pers&#246;nlichen Informationen von
+Bediensteten wie B&#252;rgerinnen und B&#252;rgern zu rechnen ist. Trotz alledem kommt 
+dem Bundesamt f&#252;r Sicherheit in der Informationstechnik (BSI) als zentraler 
+Beh&#246;rde f&#252;r Fragen der IT-Sicherheit des Bundes bislang lediglich eine
+beratende Rolle in der IT-Konsolidierung zu.
+Vor dem Hintergrund der erheblichen Risiken des an der Schwelle zum
+Scheitern laufenden Milliarden-Projektes in finanzieller, sicherheitstechnischer und 
+datenschutzrechtlicher Hinsicht ist die Beantwortung zahlreicher, bislang
+ungekl&#228;rter Fragen von h&#246;chster Relevanz &#8211; auch, um die nunmehr zu treffenden 
+Entscheidungen nachvollziehbar zu machen und insgesamt auf eine sach- und 
+problemgerechte Neuorganisation des Projekts hinwirken zu k&#246;nnen.
+&#8199;1. Wie erkl&#228;rt die Bundesregierung den im Vergleich zu ersten Sch&#228;tzungen 
+aus dem Jahr 2014 mittlerweile verf&#252;nffachten finanziellen Mehrbedarf?
+Seit den ersten Planungen wurde mit Vorlage des Fortschrittsberichts 2018 die 
+Planung im Gesamtprojekt umfangreich vervollst&#228;ndigt. Die verbesserte
+zugrundliegende Datenbasis und die Einbeziehung praktischer Erfahrungswerte 
+f&#252;hrten im Vergleich zu den zuvor erfolgten Sch&#228;tzungen zu erheblichen
+Mehrbedarfen in der Ausgabenplanung der IT-K Bund. Gleichzeitig wurden alle
+wesentlichen Kostentreiber im Gesamtprojekt identifiziert und ber&#252;cksichtigt,
+sowie wesentliche finanzielle Risiken des Projekts adressiert. Ferner wurden die 
+Ausgaben vollst&#228;ndig &#252;ber die gesamte Projektlaufzeit ausgeplant. Damit war 
+die mit dem Fortschrittsbericht 2018 vorgelegte Ausgabenplanung als
+Gesamtbudget &#252;ber die Projektlaufzeit bis 2025 angelegt. Demzufolge sollte f&#252;r die 
+weiteren Planungen im Gesamtprojekt ein &#8222;Design-to-Budget&#8220;-Ansatz verfolgt
+werden. Gem&#228;&#223; dem Prinzip der j&#228;hrlichen Fortschreibung bspw. der RZ-/
+Netzentwicklungsplanung und des IT-Rahmenkonzepts, sollten Ma&#223;nahmen noch 
+st&#228;rker unter Kosten-Nutzen-Gesichtspunkten priorisiert und ggf. an den
+bestehenden Finanzrahmen angepasst werden.
+Nach der Neuaufstellung des Projekts ab 1. Januar 2020 und den angepassten 
+Rahmenbedingungen f&#252;r die Betriebskonsolidierung sind die Gesamtausgaben 
+des Projekts neu zu ermitteln.
+&#8199;2. Teilt die Bundesregierung die Einsch&#228;tzung des Bundesministeriums des 
+Innern, f&#252;r Bauen und Heimat, wonach die voraussichtlichen
+Gesamtausgaben auf 3,5 Mrd. zu sch&#228;tzen sind, und wenn nein, welche
+Gesamtkosten h&#228;lt die Bundesregierung nach gegenw&#228;rtigem Stand f&#252;r welchen 
+Zeitraum f&#252;r realistisch?
+Nach der Neuaufstellung des Projekts ab 1. Januar 2020 und den angepassten 
+Rahmenbedingungen f&#252;r die Betriebskonsolidierung sind die Gesamtausgaben 
+des Projekts neu zu ermitteln.
+F&#252;r das Projekt der Dienstekonsolidierung gilt erg&#228;nzend: Die Planans&#228;tze der 
+Dienstekonsolidierung werden auf Basis des j&#228;hrlich fortzuschreibenden IT 
+Rahmenkonzepts des Bundes aktualisiert. Der Aufwuchs der Planausgaben
+beruht insbesondere auf der Erh&#246;hung der Ma&#223;nahmenanzahl von urspr&#252;nglich 
+25 (ITRK 2018) auf 42 Ma&#223;nahmen (ITRK 2021), konkretisierten Planungen 
+der Ma&#223;nahmen im Zuge des Projektfortschritts und der erheblichen
+Erweiterung der zentralen Finanzierung durch das Programm Dienstekonsolidierung. 
+W&#228;hrend zun&#228;chst &#8222;nur&#8220; Entwicklung zentral finanziert werden sollte, wurde 
+zur Sicherstellung der Auftragserreichung und aus Praktikabilit&#228;tsgr&#252;nden 
+auch, Rollout und Einf&#252;hrung aller Ma&#223;nahmen in 200 Bundesbeh&#246;rden und 
+damit verbundener Aufbau der Backend-Infrastrukturkosten der Ma&#223;nahmen 
+(besonders des Bundesclients) bei den IT-Dienstleistern im zentralen Budget 
+der Dienstekonsolidierung veranschlagt.
+Sofern keine weiteren wesentlichen Projektinhalte ver&#228;ndert werden, wird
+davon ausgegangen, dass diese Kalkulationen weiterhin Bestand haben.
+F&#252;r die IT-Betriebskonsolidierung Bund sind auf Grundlage der bisherigen
+Planungen derzeit 1,5 Milliarden Euro bis zum Jahr 2023 veranschlagt. Der
+Haushaltsausschuss des Deutschen Bundestags hat zuletzt in seiner 50. Sitzung am 
+14. November 2019 entschieden, dass er f&#252;r die IT-Betriebskonsolidierung 
+Bund ein &#8222;Design to budget&#8220; erwartet.
+&#8199;3. Bis wann wird bei realistischer Betrachtung voraussichtlich, auch vor 
+dem Hintergrund der geplanten Neuorganisation und der
+zwischenzeitlich nicht fortgelaufenen Projekte, die IT-Konsolidierung in den beiden 
+bei BMF und BMI verbleibenden Projekten fertiggestellt sein?
+Die Dienstekonsolidierung im BMI hat eine Projektlaufzeit bis Ende 2025.
+Mit dem Beschluss der Bundesregierung vom 6. November 2019 wurde dem 
+Bundesministerium der Finanzen (BMF) die Verantwortung f&#252;r die
+Durchf&#252;hrung eines eigenst&#228;ndigen Projekts zur IT-Betriebskonsolidierung Bund ab dem 
+1. Januar 2020 &#252;bertragen.
+Dessen Ende und damit der Abschluss der IT-Betriebskonsolidierung Bund 
+wird vom Abschluss des letzten Beh&#246;rdenprojekts zur Umsetzung der IT-
+Betriebskonsolidierung abh&#228;ngen. Die entsprechende Planung war in der
+bisherigen &#8222;Reihenfolgeplanung&#8220; enthalten, die mittlerweile veraltet ist. Teil der IT-
+Betriebskonsolidierung Bund, ist daher die &#220;berarbeitung der bestehenden
+Reihenfolgeplanung. Die Bundesregierung hat dem BMF aufgetragen, dabei
+zuk&#252;nftig auch fachliche Aspekte zu ber&#252;cksichtigen. Der Bundesrechnungshof 
+hat zuletzt in einem Bericht zur IT-Konsolidierung an den Haushaltsausschuss 
+des Deutschen Bundestages ebenfalls Hinweise gegeben, welche Aspekte
+ber&#252;cksichtigt werden sollten. Zus&#228;tzlich hat der Haushaltsausschuss des
+Deutschen Bundestages in seinem oben genannten Beschluss vom 14. November 
+2019 weitere Rahmenbedingungen f&#252;r die Erstellung der neuen
+Reihenfolgeplanung gesetzt. Bei der IT-Betriebskonsolidierung Bund wird unter
+Ber&#252;cksichtigung dieser Vorgaben zun&#228;chst das Vorgehen f&#252;r die neue
+Reihenfolgeplanung konzipiert und dem IT-Rat zur Abnahme vorgelegt. Auf dieser Basis wird 
+das BMF dann mit allen Beh&#246;rden den Kontakt suchen und anhand der
+festgelegten Kriterien eine neue Reihenfolgeplanung erstellen. Diese wird als zentrale 
+Projektgrundlage ebenfalls dem IT-Rat zur Abnahme vorzulegen sein. Erst
+danach kann ein Endtermin f&#252;r die IT-Betriebskonsolidierung Bund benannt
+werden.
+&#8199;4. Bleibt die Bundesregierung bei ihrer Auffassung, wonach weitere IT-
+Projekte des Bundes mit ihren je eigenen Fertigstellungszielen, z. B. der 
+Portalverbund nach dem Onlinezugangsgesetz (OZG) bis 2022, von den 
+zu Tage getretenen Schwierigkeiten der IT-Konsolidierung unber&#252;hrt 
+bleiben bzw. ihre Fristen der Fertigstellung werden halten k&#246;nnen?
+Grunds&#228;tzlich werden die IT-Projekte des Bundes (hier: Umsetzung des
+Onlinezugangsgesetz [OZG]) von den Projektfortschritten der IT-Konsolidierung nicht 
+beeinflusst. Jedoch sind mittelbare Auswirkungen kaum zu verhindern, da die 
+IT-Konsolidierung Ressourcen des ITZBund in Anspruch nimmt, die dadurch 
+anderen Projekten nur bedingt zur Verf&#252;gung stehen.
+Zum gegenw&#228;rtigen Zeitpunkt bleibt die Bundesregierung bei ihrer Auffassung.
+&#8199;5. Ist angesichts der &#228;u&#223;erst knappen Personalressourcen des &#252;bergreifend 
+in verschiedenen IT-Projekten t&#228;tigen IT-Dienstleisters des Bundes &#252;ber 
+eine Aufstockung des Personals nachgedacht worden, um die
+entstandene Mehrbelastung im Zuge der geplanten Neuaufstellung der IT-
+Konsolidierung auf Bundesebene gerecht zu werden?
+Mit wie vielen Stellen plant die Bundesregierung, das Controlling der IT-
+Konsolidierung zu st&#228;rken, und sind diese haush&#228;lterisch hinterlegt?
+Im Haushalt 2020 stehen dem Einzelplan 04 (Bundeskanzleramt, Kapitel 0412) 
+acht Planstellen f&#252;r ein von den Projektleitungen unabh&#228;ngiges, &#252;bergreifendes 
+Controlling der IT-Konsolidierung Bund zur Verf&#252;gung.
+Mit dem Haushalt 2020 wurden aus dem Einzelplan 06 f&#252;r die IT-
+Konsolidierung des Bundes insgesamt 68 Planstellen in den Einzelplan 08
+verlagert. Davon stehen dem ITZBund insgesamt 30 Stellen zur Verf&#252;gung. Die 
+&#252;brigen 38 Stellen sind f&#252;r das BMF vorgesehen.
+Die Bundesregierung hat damit nicht nur &#252;ber eine Aufstockung des Personals 
+nachgedacht, sondern diese bereits realisiert.
+&#8199;6. Welche IT-Sicherheitsziele werden nach Auffassung der
+Bundesregierung mit der IT-Konsolidierung im Einzelnen verfolgt (bitte im
+Einzelnen konkret darlegen)?
+Die Sicherheitsziele f&#252;r die Bundesverwaltung sind in der &#8222;Leitlinie f&#252;r
+Informationssicherheit in der Bundesverwaltung&#8220; (&#8222;Umsetzungsplan Bund 2017&#8220;
+www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/it-digitalp
+olitik/up-bund-2017.pdf?__blob=publicationFile&amp;v=3) verbindlich festgelegt.
+Der Umsetzungsplan 2017 (UP Bund 2017) gibt als &#252;bergeordnetes und
+verbindliches Dokument die drei Schutzziele der Informationssicherheit &#8211;
+Vertraulichkeit, Verf&#252;gbarkeit und Integrit&#228;t &#8211; vor.
+a) Vertraulichkeit: Die Daten der Bundesverwaltung d&#252;rfen lediglich von
+autorisierten Benutzern gelesen und angepasst werden.
+b) Integrit&#228;t: Die Daten der Bundesverwaltung d&#252;rfen nicht unbemerkt
+ver&#228;ndert werden. Alle &#196;nderungen m&#252;ssen nachvollziehbar sein.
+c) Verf&#252;gbarkeit: Der Zugriff auf Daten muss innerhalb eines vereinbarten 
+Zeitrahmens ungehindert und ohne technische St&#246;rung/ Ausf&#228;lle zur
+Verf&#252;gung stehen.
+Die IT-Konsolidierung soll diese Schutzziele f&#246;rdern und nachhaltig verbessern 
+z. B. durch die Schaffung von Redundanzen oder Standardisierung bestimmter 
+IT-Infrastrukturkomponenten und Prozesse. Dies ist dezentral nicht immer in 
+dem notwendigen Umfang m&#246;glich.
+Mit der IT-Konsolidierung werden im Einzelnen die Ziele der Erh&#246;hung der 
+Informations- und IT-Sicherheit gem&#228;&#223; IT-Strategie Bund und Strategie
+Dienstekonsolidierung (vgl. www.cio.bund.de und www.cio.bund.de/SharedDocs/Pub
+likationen/DE/Strategische-The-men/it_strategie_der_bundesverwaltung_down
+load.pdf?__blob=publicationFile) verfolgt.
+Erg&#228;nzend wurden im &#8222;Grobkonzept zur IT-Konsolidierung Bund&#8220;, das vom 
+Bundeskabinett am 20.05.2015 beschlossen wurde, die &#8222;IT-Sicherheit vor dem 
+Hintergrund steigender Komplexit&#228;t zu gew&#228;hrleisten&#8220; als erstes genannt. Im 
+Abschnitt 8 &#8222;IT-Sicherheit und Datenschutz&#8220; werden f&#252;nf Ziele genannt:
+1. Die zentrale Umsetzung geltender und k&#252;nftiger Sicherheitsstandards,
+2. B&#252;ndelung der notwendigen Fachexpertise &#8211; auch gegen&#252;ber den
+Marktteilnehmern &#8211; an wenigen Stellen,
+3. Verk&#252;rzung der Reaktionszeiten bei Vorf&#228;llen und Krisensituationen und
+4. Erleichterung der Bereitstellung von an verschiedenen Schutzbedarfen
+ausgerichteten IT-Leistungen,
+5. Eingrenzung von Risiken durch zentrale und dezentrale Gegenma&#223;nahmen 
+(z. B. das Risiko &#8222;single point of failure&#8220;).
+&#8199;7. Bei welchen der genannten Sicherheitsziele wurden bislang bereits
+nachweisbare Ergebnisse im Sinne von messbaren Verbesserungen der IT-
+Sicherheit des Bundes erreicht (bitte im Einzelnen darlegen)?
+Im Rahmen der Pr&#252;fungen nach HV-Benchmark kompakt im Auftrag des
+Haushaltsausschusses des Deutschen Bundestages werden Rechenzentren von
+Institutionen des Bundes untersucht. Insgesamt wurden f&#252;nf Teilpr&#252;fungen in f&#252;nf 
+Jahren durchgef&#252;hrt. Dienstleister der IT-Konsolidierung und deren
+Rechenzentren wurden mittlerweile auch Wiederholungspr&#252;fungen unterzogen. Der 
+Untersuchungsgegenstand ist aber nicht deckungsgleich mit den Projekten der 
+Dienste- und Betriebskonsolidierung.
+Im Rahmen des bisherigen Projektverlaufs l&#228;sst sich feststellen, dass
+insbesondere kleinere Verwaltungseinrichtungen bei der Einhaltung von
+Sicherheitszielen deutlich entlastet werden.
+&#8199;8. Teilt die Bundesregierung die Auffassung der Fragesteller, wonach die 
+IT-Konsolidierung des Bundes aus sicherheitstechnischer Perspektive 
+durchaus auch neue Risiken mit sich bringt, und wenn ja, welche
+konkret?
+Die Zentralisierung des IT-Betriebs in wenigen Rechenzentren erh&#246;ht deren
+Attraktivit&#228;t f&#252;r Angriffe von au&#223;en. Gleichzeitig k&#246;nnen dort zentrale
+Infrastrukturen geschaffen werden, die ein H&#246;chstma&#223; an professionellem Umgang mit 
+diesen Angriffen garantieren.
+Die Bundesregierung verf&#252;gt bereits &#252;ber Erfahrungen mit dem zentralen
+Betrieb gro&#223;er IT-Systeme und -Anwendungen. Die daraus resultierenden
+Angriffsm&#246;glichkeiten sind den zust&#228;ndigen Bundesbeh&#246;rden bekannt. Ihnen wird 
+durch geeignete Ma&#223;nahmen begegnet.
+Die IT-Konsolidierung des Bundes bietet zun&#228;chst auch unter IT-
+Sicherheitsgesichtspunkten Vorteile; z. B. k&#246;nnen Sicherheitsma&#223;nahmen f&#252;r 
+die gesamte IT des Bundes an einer zentralen Stelle umgesetzt werden.
+Informationssicherheitsrisiken im IT-Verbund k&#246;nnen jedoch potenziell mehrere
+Beh&#246;rden/Ressorts betreffen, sodass ggf. h&#246;here Sch&#228;den bei Ausf&#228;llen zentraler 
+Komponenten (Single Point of Failure) oder bei Cyberangriffen (Single Point 
+of Attack) entstehen k&#246;nnten. Um diesen Risiken in einer konsolidierten IT 
+durch ad&#228;quate Sicherheitsma&#223;nahmen zu begegnen, ber&#228;t das Bundesamt f&#252;r 
+Sicherheit in der Informationstechnik (BSI) bei der Umsetzung angemessener 
+und wirksamer Sicherheitsma&#223;nahmen. Der BSI IT-Grundschutz (www.bsi.bun
+d.de/DE/Themen/ITGrundschutz/itgrundschutz_node.html) bildet daf&#252;r die 
+fachliche und methodische Grundlage.
+&#8199;9. Welche Folgen werden die nach Auffassung des Bundesrechnungshofes 
+in drei von vier der verfolgten Handlungsstr&#228;nge zu erwartenden
+Projektverz&#246;gerungen auf die geplanten Verbesserungen der IT-Sicherheit der 
+davon betroffenen Beh&#246;rden haben, und welche konkreten Ma&#223;nahmen 
+sind geplant, um m&#246;gliche negative Konsequenzen zu kompensieren?
+Die IT-Ma&#223;nahmen der Dienstekonsolidierung befinden sich im Rahmen der 
+Entwicklung von (neuen) IT-L&#246;sungen in engem Austausch mit dem BSI um 
+h&#246;chste IT-Sicherheit zu gew&#228;hrleisten.
+Die in der Antwort zu Frage 8 dargestellten Vorteile zentraler Strukturen
+werden bei einer verz&#246;gerten IT-Betriebskonsolidierung sp&#228;ter eintreten.
+Allerdings hat die Bundesregierung mit dem UP Bund und den dort enthaltenen
+Verpflichtungen f&#252;r alle Beh&#246;rden hinreichende Ma&#223;nahmen beschrieben, um 
+trotzdem das erforderliche Mindestma&#223; an IT-Sicherheit sicherstellen zu
+k&#246;nnen.
+10. Aus welchen Gr&#252;nden kommt dem Bundesamt f&#252;r Sicherheit in der
+Informationstechnik (BSI) als zentraler Beh&#246;rde f&#252;r Fragen der IT-
+Sicherheit des Bundes bislang lediglich eine beratende Rolle in der IT-
+Konsolidierung zu?
+Das BSI wird im Rahmen der im Gesetz &#252;ber das Bundesamt f&#252;r Sicherheit in 
+der Informationstechnik (BSIG) geregelten gesetzlichen Aufgaben t&#228;tig. F&#252;r 
+die Wahrnehmung dar&#252;berhinausgehender Aufgaben besteht keine gesetzliche 
+Grundlage.
+11. Ist angesichts der deutlichen Kritik durch den Haushaltsausschuss und/
+oder den Bundesrechnungshof, auch und vor allem bez&#252;glich der IT-
+Sicherheit, von Seiten der Bundesregierung im Zuge der Neuaufstellung 
+auch angedacht, die Rolle des Bundesamts f&#252;r Sicherheit in der
+Informationstechnik (BSI) zu st&#228;rken, und falls ja, wie konkret?
+Es wird auf die Antwort zu Frage 12 verwiesen.
+12. Teilt die Bundesregierung die Auffassung der Fragesteller, wonach das 
+Bundesamt f&#252;r Sicherheit in der Informationstechnik (BSI) &#252;ber seine 
+bislang bei der IT-Konsolidierung allein beratende Rolle hinaus
+weitergehende Befugnisse wie beispielsweise ein Vortrags- und/ oder
+Vorschlagsrechts hinsichtlich der genannten Fragen des Risikomanagements 
+und der IT-Sicherheitsrichtlinie haben sollte, und falls ja, welche konkret, 
+und wenn nein, warum nicht?
+Die Bundesregierung stellt fest, dass eine zielgerichtete Mitwirkung des BSI an 
+der IT-Konsolidierung erforderlich ist. Aus diesem Grund wird das BSI bereits 
+aktuell sowohl bei der Betriebs- als auch bei der Dienstekonsolidierung durch 
+die IT-Dienstleister des Bundes entsprechend eingebunden. Dabei begleitet das 
+BSI die Sicherheitskonzeption der wesentlichen IT-Plattformen ausgerichtet am 
+IT-Grundschutz. Zudem ist insbesondere f&#252;r alle Masterrechenzentren des ITZ-
+Bund eine Grundschutz-Zertifizierung durch das BSI geplant. Ohne
+entsprechende Freigabe des BSI werden diese Systeme nicht produktiv gesetzt.
+Das BSI hat, wie im Umsetzungsplan Bund 2017 gefordert, einen Entwurf
+einer Richtlinie zur Informationssicherheit in der IT-Konsolidierung erstellt.
+In dieser ist die Rolle eines &#8222;IT-Sicherheitsbeauftragten Konsolidierung&#8220;
+vorgesehen, die auch vom BSI &#252;bernommen werden k&#246;nnte. Die Richtlinie befindet 
+sich derzeit in der Abstimmung. Gem&#228;&#223; Ma&#223;gabebeschluss des
+Haushaltsausschusses des Deutschen Bundestages zur Neuorganisation der IT-
+Konsolidierung vom 14. November 2019 ist diese Richtlinie bis zum 30. Juni 
+2020 zu erarbeiten.
+&#220;ber seine beratende Rolle hinaus hat das BSI ein eingeschr&#228;nktes Mandat, die 
+IT-Sicherheit der zu konsolidierenden Beh&#246;rden und der IT-Dienstleister zu
+untersuchen (s. o. Untersuchung nach HV-Benchmark kompakt). Dieses Mandat 
+hat der Haushaltsausschuss Ausschuss des Deutschen Bundestages dem BSI
+erteilt.
+13. Welche Ressorts haben ihre eigenen ihnen im Rahmen der IT-
+Konsolidierung zugewiesenen Projekte bereits abgeschlossen (bitte
+konkret nach Ressorts und Projekten aufschl&#252;sseln)?
+Grunds&#228;tzlich sind alle Vorhaben der Dienstekonsolidierung gemeinsame
+Ma&#223;nahmen der Ressorts. Folgende IT-Ma&#223;nahmen wurden in der
+Dienstekonsolidierung abgeschlossen bzw. befinden sich im Wirkbetrieb:
+Audiokonferenzanlage, Bund-TV, DE-Mail, eNorm, PKP, bund.de, GSB, FMS.
+Zudem befinden sich folgende IT-Ma&#223;nahmen der Dienstekonsolidierung im 
+Rollout: E-Akte Bund, Social Intranet Bund, E-Payment Bund, E-Rechnung, 
+PVS Bund, Digitales Zwischenarchiv, Bundesportal, Bundescloud.
+Ein Abschluss eines Beh&#246;rdenprojektes der Betriebskonsolidierung wird nach 
+bisherigen &#220;berlegungen nach ca. 3 Jahren (nach Projektstart) erreicht. Bisher 
+sind Abschl&#252;sse auf Grund von Verz&#246;gerungen ausst&#228;ndig.
+14. Gab es bereits vor der Kritik durch den Haushaltsausschuss und/oder den 
+Bundesrechnungshof interne kritische Bewertungen insbesondere der 
+Projektorganisation, und wenn ja, wann, und wie wurde mit diesen
+Bewertungen durch das Bundesministerium des Innern, f&#252;r Bauen und
+Heimat verfahren?
+Im Rahmen eines kontinuierlichen Verbesserungsprozesses erfolgte regelm&#228;&#223;ig 
+eine Bewertung des Projekts. Die Ergebnisse dieser kritischen Bewertung und 
+der Projektfortschritt wurden in den j&#228;hrlichen Fortschrittsberichten an den 
+Haushaltsausschuss dokumentiert.
+In der Dienstekonsolidierung erfolgte der Aufbau der Projektorganisation
+sukzessive nach Aufwuchs neuen Personals. Die aufgelegten Prozesse wurden 
+(und werden weiterhin) nach und nach weiter ausgestaltet und verbessert.
+15. Welche Anregungen der seit 2014 vom Bundesrechnungshof ge&#228;u&#223;erten 
+Kritik sind von der Bundesregierung konkret aufgenommen bzw.
+umgesetzt worden?
+Alle Anregungen, die bisher vom Bundesrechnungshof im Rahmen
+unterschiedlicher Pr&#252;fungen der IT-Konsolidierung Bund erfolgt sind, wurden
+analysiert und in den kontinuierlichen Verbesserungsprozessen der
+Dienstekonsolidierung und der Betriebskonsolidierung ber&#252;cksichtigt.
+Eine Pr&#252;fung, die die Dienstekonsolidierung betrifft, findet derzeit statt und 
+wird zur weiteren Optimierung der Prozesse beitragen.
+16. Wann konkret ist vor dem Hintergrund welcher Entwicklungen die
+Entscheidung gefallen, ein Controlling des Projekts durch das
+Bundeskanzleramt zu etablieren?
+Der IT-Rat hat am 31. Oktober 2019 die Kernaussagen zur Neuaufstellung des 
+Projektes IT-Konsolidierung Bund beschlossen (Beschluss Nr. 2019/05 des IT-
+Rats vom 31. Oktober 2019). Diese Kernaussagen sehen u. a. vor, dass das 
+Bundeskanzleramt ein von den Projektleitungen unabh&#228;ngiges, &#252;bergreifendes 
+Controlling durchf&#252;hrt.
+Die Entscheidung f&#252;r die Durchf&#252;hrung des Controllings erfolgte in
+Abstimmung mit den Ressorts unter Einbeziehung der Stellungnahmen des
+Bundesrechnungshofs sowie den Berichterstattergespr&#228;chen zum Einzelplan 06 und 
+den Gespr&#228;chen im Haushaltsausschuss des Deutschen Bundestages.
+17. Macht sich die Bundesregierung die &#8222;Kernaussagen zur Neuaufstellung 
+des Projektes IT-Konsolidierung Bund&#8220; des IT-Rates vom 31. Oktober 
+2019 vollumf&#228;nglich zu eigen, und wenn nein, welche konkret, und
+inwiefern nicht?
+Ja. Alle Bundesministerien haben als stimmberechtigte Mitglieder des IT-Rates 
+dem Beschluss zugestimmt. Das Bundeskabinett hat in seiner 74. Sitzung vom 
+6. November 2019 einen entsprechenden Beschluss gefasst.
+18. Ist die Auffassung zutreffend, wonach die Ausf&#252;hrungen im Papier des 
+IT-Rates vom 31. Oktober 2019 zu bisherigen M&#228;ngeln der
+Projektorganisation dahingehend zu verstehen sind, dass notwendige
+Entscheidungen zwischen den nach dem Ressortprinzip zu beteiligenden Ministerien 
+von BMI, BMF und dem Bundesministerium der Verteidigung (BMVg) 
+aufgrund der Uneinigkeit der Beteiligten nicht getroffen werden
+konnten?
+Die dargestellte Auffassung ist nicht zutreffend. In dem genannten Papier
+werden keine &#8222;M&#228;ngel der Projektorganisation&#8220; genannt. Es wird lediglich die
+bisherige Projektorganisation dargestellt und dass diese von au&#223;en kritisiert
+wurde.
+19. Entf&#228;llt durch die zuk&#252;nftig weiterhin m&#246;gliche Unterbeauftragung der 
+BWI GmbH eine Mitsprache des BMVg im Wege der strategischen
+Steuerung ihres IT-Dienstleisters, und wenn nein, worin liegt dann die
+Verbesserung der Neuorganisation im Sinne einer beabsichtigten
+effektiveren Entscheidungsstruktur?
+Die strategische Steuerung der BWI GmbH durch das Bundesministerium der 
+Verteidigung (BMVg) bleibt f&#252;r alle Gesch&#228;ftsvorf&#228;lle jederzeit erhalten und 
+wird in diesem Verst&#228;ndnis in allen heutigen und k&#252;nftigen
+Entscheidungsstrukturen entsprechend ber&#252;cksichtigt.
+20. Teilt die Bundesregierung die Auffassung des Bundesrechnungshofes, 
+wonach der Wegfall der BWI GmbH als regelm&#228;&#223;iger Dienstleister und 
+die zuk&#252;nftig alleinige Durchf&#252;hrung durch das ohnehin an der
+Belastungsgrenze laufende ITZ Bund eine fristgem&#228;&#223;e Weiterf&#252;hrung der
+Projektplanung unm&#246;glich erscheinen lassen, und wenn nein, warum nicht?
+Nein. Die &#8222;fristgem&#228;&#223;e Weiterf&#252;hrung der Projektplanung&#8220; ist aus anderen 
+Gr&#252;nden zu &#252;berpr&#252;fen. Auf die Antwort zu Frage 3 wird verwiesen.
+21. Warum bedarf es nach Auffassung der Bundesregierung im Papier des 
+IT-Rates vom 31. Oktober 2019 der Festlegung auf ein gemeinsames 
+Verst&#228;ndnis, wonach keine IT-Leistung auf einem &#8222;qualitativ geringeren 
+Niveau erbracht wird als vor der IT-Konsolidierung&#8220; und &#8222;die Erf&#252;llung 
+der Fachaufgaben unter der IT-Konsolidierung nicht leiden&#8220; d&#252;rfe, und 
+teilt die Bundesregierung die Auffassung der Fragesteller, dass es sich 
+hierbei um eine Selbstverst&#228;ndlichkeit handelt, die, sollte sie nicht
+Beachtung finden, die Intention des Projekts, n&#228;mlich deutliche
+Verbesserungen des Niveaus bei der Erbringung von IT-Leistungen sowie bei der 
+Erf&#252;llung von Fachaufgaben, ad absurdum gef&#252;hrt werden w&#252;rde?
+Die Festlegung auf das gemeinsame Verst&#228;ndnis, wonach keine IT-Leistung auf 
+einem &#8222;qualitativ geringeren Niveau erbracht wird als vor der IT-
+Konsolidierung&#8220; wird u. a. als Ma&#223;nahme des Ver&#228;nderungsmanagements
+gesehen. Sie erh&#246;ht die Akzeptanz der IT-Konsolidierung bei den involvierten 
+Mitarbeiterinnen und Mitarbeitern der verschiedenen Ressorts und Beh&#246;rden 
+und weist zudem die IT-Dienstleister nochmals explizit auf den
+Mindeststandard der Konsolidierung hin. Somit wurde zun&#228;chst das gemeinsame
+Verst&#228;ndnis entwickelt und festgehalten.
+Dar&#252;ber hinaus teilt die Bundesregierung die Auffassung, dass es sich hierbei 
+um eine Selbstverst&#228;ndlichkeit handelt, da die Sicherstellung der Erf&#252;llbarkeit 
+der Fachaufgaben der Beh&#246;rden stets Priorit&#228;t hat.
+22. Inwiefern kann nach Ansicht der Bundesregierung der IT-Rat als
+Lenkungsausschuss eine stringentere und zielorientiertere Umsetzung des 
+Gesamtprojektes tats&#228;chlich garantieren, wenn statt der bislang
+beteiligten drei Ressorts nunmehr alle Ministerien beteiligt werden, auch vor 
+dem Hintergrund, dass der IT-Rat nur bei Zweidrittelmehrheit
+entscheidungsf&#228;hig ist?
+Ein bislang nur aus drei Ressorts bestehendes Entscheidungsgremium ist hier 
+nicht bekannt. Auch nach der bisherigen Projektorganisation waren alle
+Ressorts in die Entscheidungsfindung eingebunden. Dies erfolgte &#252;ber die
+Abstimmung aller relevanten Dokumente in Ressortabstimmungen, der Konferenz der 
+IT-Beauftragten und dem IT-Rat. Das ist auch weiterhin notwendig, um eine 
+gr&#246;&#223;tm&#246;gliche Akzeptanz des Vorgehens in allen Ressorts zu erhalten.
+Allerdings greifen durch die Festlegung der Rolle als Lenkungsausschuss allgemeine 
+Projektmanagementmethoden, die zu klaren Entscheidungsstrukturen und &#8211;
+abl&#228;ufen f&#252;hren. Zudem kann die festgelegte Zweidrittel-Mehrheit zu einer
+z&#252;gigeren Beschlussfassung als bei der bislang geltenden Einstimmigkeitsregelung 
+f&#252;hren.
+23. Inwiefern kann der von einem Ressort im Rahmen der
+Dienstekonsolidierung vortragbare Einwand der &#8222;Einschr&#228;nkung bei der Erf&#252;llung
+eigener Auftr&#228;ge&#8220; &#252;berhaupt von anderen Mitgliedern des
+Lenkungsausschusses &#252;berwunden werden, und auf wessen Betreiben konkret wurde 
+diese Bestimmung aufgenommen?
+Im Rahmen der Diskussion im IT-Rat hat sich dieser auf das gemeinsame
+Vorgehen geeinigt. Ein aktuell bestehender Einwand kann daher nicht
+nachvollzogen werden.
+24. Handelt es sich bei dem zuk&#252;nftig im Bundeskanzleramt zu f&#252;hrenden 
+&#252;bergreifenden Projektcontrolling um das erste jemals verantwortete IT-
+Projektcontrolling dieses Hauses, und wenn ja, was spricht aus Sicht der 
+Bundesregierung f&#252;r diese zus&#228;tzliche Controllingebene, bis wann wird 
+diese personell wie inhaltlich voll operativ sein, und woher wird das
+hierf&#252;r eingesetzte Personal rekrutiert?
+Innerhalb der Dienste- und Betriebskonsolidierung besteht bereits ein
+Controlling f&#252;r die dortigen Projekte und Ma&#223;nahmen.
+Bei dem im Bundeskanzleramt aufzubauenden Controlling handelt es sich um 
+ein von den Projekten unabh&#228;ngiges, &#252;bergreifendes Controlling der beteiligten 
+Projekte. Das IT-Projektcontrolling wird durch die jeweilige Projektleitung der 
+einzelnen Projekte durchgef&#252;hrt. Das &#252;bergreifende Controlling soll die
+Transparenz zu den Fortschritten aller Projekte herstellen und eine Lageeinsch&#228;tzung 
+erm&#246;glichen.
+Der Aufbau erfolgt sukzessive, innerhalb der zweiten H&#228;lfte 2020 soll das
+&#252;bergreifende Controlling inhaltlich und personell voll operativ werden. Die
+Mitarbeiterinnen und Mitarbeiter werden sich vors. aus vorhandenem Personal des 
+Bundeskanzleramtes und neu gewonnenen Kr&#228;ften zusammensetzen.
+25. Teilt die Bundesregierung die Auffassung, dass die f&#252;r die
+Betriebskonsolidierung im Grundsatz geplante Projektleitung durch das ITZ Bund 
+nur dann eine standardisierte, stringente und ressourcenschonende 
+Durchf&#252;hrung sicherstellt, wenn die beteiligten Beh&#246;rden nicht in
+gr&#246;&#223;erem Umfange auf einer gemeinsamen Projektverantwortung bestehen, 
+und unter welchen Umst&#228;nden bedarf es nach Ansicht der
+Bundesregierung f&#252;r diesen Fall einer Umsteuerung?
+Nein. Die Bundesregierung geht davon aus, dass der Fall nicht eintreten wird, 
+da er nach ihrem Beschluss voraussetzt, dass sich die Projektleitung durch das 
+ITZBund nicht bew&#228;hrt hat. Auch wenn von der (Ausnahme-)M&#246;glichkeit
+Gebrauch gemacht werden sollte, geht die Bundesregierung davon aus, dass die 
+Beh&#246;rden ausschlie&#223;lich qualifiziertes Personal f&#252;r die Projektleitung benennen 
+w&#252;rden. In diesem Fall wird es zwar eines einmaligen Mehraufwandes einer 
+sorgf&#228;ltigen Aufgabenabgrenzung bed&#252;rfen, aber auf die genannten Kriterien 
+d&#252;rfte das dauerhaft keine Auswirkungen haben.
+26. Ist aus Sicht der Bundesregierung sichergestellt, dass die zur
+zielgerichteten und konstruktiven Mitwirkung verpflichteten Beh&#246;rden BSI, die 
+Bundesanstalt f&#252;r den Digitalfunk (BDBOS) und das Konrad-Zuse-
+Zentrum f&#252;r Informationstechnik Berlin (ZIB) dieser Aufgabe tats&#228;chlich 
+gerecht werden k&#246;nnen, und inwiefern hat die Bundesregierung
+haushalterisch sichergestellt, dass daf&#252;r ggf. die erforderlichen zus&#228;tzlichen
+Mittel zur Verf&#252;gung gestellt werden?
+Im laufenden Haushalt 2020 sind das BSI, die Bundesanstalt f&#252;r den
+Digitalfunk der Beh&#246;rden und Organisationen mit Sicherheitsaufgaben (BDBOS) und 
+das Beschaffungsamt des Bundesministeriums des Innern (BeschA)
+ausk&#246;mmlich veranschlagt. F&#252;r den Haushalt 2021 l&#228;uft das regierungsinterne
+Aufstellungsverfahren.
+Die gem&#228;&#223; Grobkonzept zur IT-Konsolidierung vom 20. Mai 2015
+einzurichtende Zentralstelle f&#252;r IT-Beschaffung (ZIB) wurde zum 1. Januar 2017
+eingerichtet. Sie ist entsprechend mit den erforderlichen personellen und s&#228;chlichen 
+Mitteln ausgestattet, um die gem&#228;&#223; &#8222;Soll-Konzeption IT-Beschaffung&#8220; vom 
+26. November 2018 vorgesehenen Leistungsumf&#228;nge auch im Kontext eines 
+schwierigen Personalmarktes erf&#252;llen zu k&#246;nnen. Eine &#220;bersicht &#252;ber den
+aktuellen Leistungskatalog der ZIB kann der Rahmenvertrags-Roadmap (RV-
+Roadmap) www.e-beschaffung.bund.de/DE/Wissenswertes/ZIB/RVRoadmap/
+RVRoadmap_node.html entnommen werden.
+Das BSI ist durch seinen gesetzlichen Auftrag zu einer konstruktiven Mitarbeit 
+verpflichtet. Insbesondere durch eine entsprechende Aufgabenpriorisierung 
+wird sichergestellt, dass die zur Mitwirkung verpflichteten Beh&#246;rden ihren
+Aufgaben gerecht werden k&#246;nnen.
+27. Um wie viele Konsolidierungsprojekte in welchen Ressorts bzw.
+Beh&#246;rden geht es bei den von der BWI GmbH begonnenen, aber nun
+abgebrochenen Projekten, und innerhalb welcher Zeithorizonte sollen die
+zwischen BMF, BMVg und BWI notwendigen Entscheidungen zur
+Fortf&#252;hrung getroffen werden?
+F&#252;r die nachfolgenden Beh&#246;rden war die BWI GmBH laut bisheriger
+Reihenfolgeplanung als IT-Dienstleister vorgesehen:
+Beh&#246;rde Ressort Konsolidierungsfenster
+BPjM BMFSFJ 3 (2019-2021)
+MRI BMEL 5 (2021-2023)
+BSA BMEL 5 (2021-2023)
+BASt BMVI 2 (2018-2020)
+BMVI BMVI 2 (2018-2020)
+BDBOS BMI 1 (2017-2019)
+BVAmt BMAS 1 (2017-2019)
+BMAS BMAS 1 (2017-2019)
+BAuA BMAS 2 (2018-2020)
+BMEL BMEL 2 (2018-2020)
+BRH BRH 2 (2018-2020)
+BAFzA BMFSFJ 3 (2019-2021)
+BMFSFJ BMFSFJ 3 (2019-2021)
+BMI BMI 3 (2019-2021)
+BArch BKM 4 (2020-2022)
+BStU BKM 4 (2020-2022)
+BfArM BMG 4 (2020-2022)
+BMG BMG 4 (2020-2022)
+BZgA BMG 4 (2020-2022)
+DIMDI BMG 4 (2020-2022)
+PEI BMG 4 (2020-2022)
+RKI BMG 4 (2020-2022)
+THW BMI 4 (2020-2022)
+BMUB BMUB 4 (2020-2022)
+BfG BMVI 4 (2020-2022)
+BSH BMVI 4 (2020-2022)
+BSU BMVI 4 (2020-2022)
+DWD BMVI 4 (2020-2022)
+BAM BMWi 4 (2020-2022)
+BKartA BMWi 4 (2020-2022)
+BKAmt BKAmt 5 (2021-2023)
+BVL BMEL 5 (2021-2023)
+FLI BMEL 5 (2021-2023)
+JKI BMEL 5 (2021-2023)
+BGR BMWi 3 (2019-2021)
+TI BMEL 5 (2021-2023)
+BKA BMI 5 (2021-2023)
+BPOL BMI 5 (2021-2023)
+BfE BMUB 5 (2021-2023)
+BfN BMUB 5 (2021-2023)
+BfS BMUB 5 (2021-2023)
+UBA BMUB 5 (2021-2023)
+BNetzA BMWi 5 (2021-2023)
+BMZ BMZ 5 (2021-2023)
+BSI BMI 1 (2017-2019)
+Das BMF stimmt sich derzeit mit den Beh&#246;rden, die in den Jahren bis 2019 ihre 
+Projekte mit der BWI GmbH h&#228;tten starten sollen, zum eventuellen
+Projektstand sowie zum weiteren gemeinsamen Vorgehen ab.
+28. In welchem Umfang ist das BMVg in Bezug auf die vier bislang
+unterschiedenen Handlungsstr&#228;nge bereits als konsolidiert zu betrachten, bzw. 
+welcher Zeitplan besteht hinsichtlich der nicht erreichten Anteile, und 
+auf welche Weise wird die Einbeziehung und Harmonisierung der
+Konsolidierung beim ITZ Bund mit derjenigen des BMVg sichergestellt?
+Die IT-Konsolidierung innerhalb der Bundeswehr &#252;ber das Projekt bzw.
+Folgeprojekt HERKULES l&#228;uft seit dem 28. Dezember 2006 erfolgreich. Dabei
+wurde die BWI GmbH als IT-Dienstleister der Bundeswehr ert&#252;chtigt, die
+administrative IT der Bundeswehr zu konsolidieren, IT-Dienste zu vereinheitlichen 
+und zu modernisieren sowie zu betreiben. Dies betrifft u. a. Netzwerke,
+Rechenzentren, Dienste, Anwendungen, Endger&#228;te und &#252;bergreifende
+Angelegenheiten wie IT-Sicherheit und User-Help-Desk.
+Deren st&#228;ndige Weiterentwicklung ist f&#252;r den Gesch&#228;ftsbereich (GB) BMVg im 
+Rahmen des technologischen Fortschritts ein dauerhafter Prozess.
+Eine vollst&#228;ndige Harmonisierung der IT des GB BMVg mit derjenigen des 
+ITZBund ist aufgrund teilweiser unterschiedlicher Anforderungen nicht
+m&#246;glich, da auch Vorgaben der &#8222;milit&#228;rischen IT&#8220; sowie der Nordatlantischen
+Vertragsorganisation (NATONorth Atlantic Treaty Organization) zu
+ber&#252;cksichtigen sind. Dort wo es m&#246;glich ist, beteiligt sich der GB BMVg an den
+Harmonisierungsaktivit&#228;ten im Rahmen der IT-Konsolidierung Bund.
+29. Auf welche Weise wird &#252;bergreifend und f&#252;r alle Einzelprojekte der
+verschiedenen Ressorts und Beh&#246;rden sichergestellt, dass einheitliche und 
+h&#246;chste IT-Sicherheits- und Datenschutzvorgaben umgesetzt werden?
+Die in der Bundesverwaltung geltenden Sicherheitsvorgaben sind im
+Umsetzungsplan Bund 2017 definiert, welcher die Umsetzung von IT-Grundschutz 
+und Mindeststandards nach &#167; 8 BSIG fordert. Damit gelten sie auch f&#252;r die IT-
+Konsolidierung. Im Rahmen der IT-Konsolidierung ber&#228;t das BSI bei der
+Umsetzung angemessener Sicherheitsma&#223;nahmen in Einzelprojekten bei Beh&#246;rden 
+und beim zentralen IT-Dienstleister.
+Zudem unterliegen alle Einzelprojekte den Vorgaben der Allgemeinen
+Verwaltungsvorschrift zum materiellen Geheimschutz (Verschlusssachenanweisung &#8211; 
+VSA).
+Zur Sicherstellung der Einhaltung der Vorgaben w&#228;ren Revisionen besonders 
+geeignet. Aktuell besteht jedoch nur ein Mandat f&#252;r das BSI, die IT des Bundes 
+basierend auf HV-Benchmark kompakt zu untersuchen, was Revisionen nicht 
+ersetzt.
+In der Dienstekonsolidierung erfolgt eine enge Abstimmung mit dem BSI und 
+dem Bundesbeauftragten f&#252;r den Datenschutz und die Informationsfreiheit 
+(BfDI) von Beginn an (Security by Design). Zudem wird der BfDI in
+Datenschutzangelegenheiten bei der Erarbeitung einheitlicher Vorgaben beteiligt.
+Der Betrieb der IT-L&#246;sungen erfolgt auf entsprechend des Schutzbedarfes
+abgesicherter und standardisierter IT-Infrastruktur beim IT-Dienstleister. Dar&#252;ber
+hinaus wird aktuell die Erstellung einer Informationssicherheitsrichtlinie f&#252;r die 
+IT-Konsolidierung Bund diskutiert.
+30. Ist es zutreffend, dass es im Rechtsstreit zwischen der BWI GmbH und 
+dem Bundesministerium des Innern, f&#252;r Bauen und Heimat &#252;ber durch 
+das Bundesministerium bislang unbezahlte Rechnungen in H&#246;he von 
+21 Mio. Euro (vgl. www.spiegel.de/netzwelt/web/bundes-it-bundeseigen
+er-betrieb-will-innenministerium-verklagen-a-1287831.html) inzwischen 
+zu einer au&#223;ergerichtlichen Einigung kam, und wenn ja, wie genau sieht 
+diese aus?
+Zwischen der BWI GmbH und dem Bundesministerium des Innern, f&#252;r Bau 
+und Heimat (BMI) bestand kein Rechtsstreit. Erg&#228;nzend siehe Frage 31.
+31. Warum hat das Bundesministerium des Innern, f&#252;r Bau und Heimat zu 
+Beginn der Inanspruchnahme der BWI GmbH keine schriftliche
+vertragliche Vereinbarung mit dem Unternehmen abgeschlossen?
+Der BWI GmbH wurden Haushaltsmittel zur Eigenert&#252;chtigung &#252;ber das 
+BMVg als Vertreter des Gesellschafters zur Verf&#252;gung gestellt. F&#252;r Leistungen, 
+welche das BMI als Kunde in Anspruch genommenen hat, lag zu Beginn der 
+jeweiligen Leistungserbringung eine schriftliche Vereinbarung zu Grunde. Die 
+BWI GmbH hat mit dem BMI eine Abschlussvereinbarung getroffen, welche 
+der nunmehr ver&#228;nderten Rolle der BWI GmbH Rechnung tr&#228;gt.
+Im Rahmen des Projektes IT-Konsolidierung Bund sind der Bundesregierung 
+keine offenen Forderungen oder Rechtsstreitigkeiten mit der BWI GmbH
+bekannt.
+32. Welche konkreten Ma&#223;nahmen stellen die Hoheit und Kontrollf&#228;higkeit 
+&#252;ber die eigene IT im Rahmen der IT-Konsolidierung sowie dar&#252;ber
+hinaus strategisch dauerhaft sicher?
+Hoheit und Kontrollf&#228;higkeit des Bundes &#252;ber die IT des Bundes ist schon seit 
+dem urspr&#252;nglichen Beschluss der Bundesregierung aus dem Jahr 2015 ein Ziel 
+der IT-Konsolidierung.
+Zentrale Ma&#223;nahmen zur Zielerreichung sind
+&#8226; die perspektivisch zentrale Datenhaltung ausschlie&#223;lich bei einem IT-
+Dienstleister der Bundesverwaltung,
+&#8226; der Betrieb aller zentralen IT-Infrastrukturen inklusive der Netze durch
+bundeseigenes Personal sowie
+&#8226; die Verpflichtung auf zentrale Regelwerke wie etwa die IT-
+Architekturrichtlinie des Bundes, den UP Bund und weitere.
+Erg&#228;nzend wird auf die Antworten zu den Fragen 8 und 12 verwiesen.
+33. Teilt die Bundesregierung die Auffassung, dass die IT des Bundes
+dringend vor der zunehmenden Abh&#228;ngigkeit durch einzelne Anbieter
+gesch&#252;tzt werden muss und es nicht zuletzt vor dem Hintergrund der
+vielfach, auch durch das BSI, beworbenen Vorteile und notwendigen
+St&#228;rkung digitaler Souver&#228;nit&#228;t dringend angeraten ist, verst&#228;rkt auf freie und 
+offene Software zu setzen, und welche konkreten Schritte und
+Vorkehrungen hat die Bundesregierung getroffen oder wird sie treffen, um diese 
+Ziele zu erreichen?
+Eine f&#252;r den Beauftragten der Bundesregierung f&#252;r Informationstechnik (BfIT) 
+durchgef&#252;hrte strategische Marktanalyse (siehe auch Antwort zu Frage 34) zur
+Untersuchung von Abh&#228;ngigkeiten von Softwareanbietern in der
+Bundesverwaltung ergab konkrete Anhaltspunkte f&#252;r Beeintr&#228;chtigungen der Digitalen 
+Souver&#228;nit&#228;t. Aufgrund der fortschreitenden IT-Anbieterkonzentration am 
+Markt werden derartige Abh&#228;ngigkeiten potentiell weiter zunehmen. Zus&#228;tzlich 
+erh&#246;hen technologische und geopolitische Trends, wie etwa angespannte
+Handelsbeziehungen oder der Umstieg auf Public Cloud-L&#246;sungen, die Relevanz 
+dieses Themas.
+Softwarealternativen sollten vorzugsweise, aber nicht zwingend, auf Open 
+Source-Produkten basieren, mindestens jedoch auf offenen Standards und 
+Schnittstellen.
+Hierzu steht der Bund neben den L&#228;ndern und Kommunen auch mit der Open 
+Source Business Alliance im Dialog, um die Festlegung gemeinsamer
+Standards voranzutreiben. Ergebnisse flie&#223;en in die Architektur-Richtlinie des
+Bundes ein.
+34. Teilt die Bundesregierung das Ergebnis der vom Bundesministerium des 
+Innern, f&#252;r Bau und Heimat in Auftrag gegebenen Studie, dass
+Bundesministerien und oberste Beh&#246;rden &#8222;in hohem Ma&#223;e von dem Software-
+Anbieter Microsoft abh&#228;ngig&#8220; sind?
+Plant die Bundesregierung, im Rahmen der Neuaufstellung der IT-
+Konsolidierung die Nutzung von offene Standards und offener Software 
+st&#228;rker zu f&#246;rdern, und wenn ja, mit welchen Schritten konkret?
+Die Bundesregierung teilt die Einsch&#228;tzung der Strategischen Marktanalyse 
+(Studie) in Bezug auf bestehende Abh&#228;ngigkeiten zu IT-Anbietern. Diese
+beschr&#228;nken sich aber nicht auf einen einzigen IT-Anbieter.
+Auf die Antwort zu Frage 33 wird verwiesen.
+35. Welche Vorkehrungen hat die Bundesregierung f&#252;r den m&#246;glichen Fall 
+einer Abschaltung, Unbrauchbarmachung oder eines anderweitigen
+Ausfalls von in der Bundesverwaltung im Einsatz befindlichen IT-Produkten 
+im Zusammenhang mit m&#246;glichen Handelskonflikten mit Drittstaaten
+getroffen?
+Ein Gro&#223;teil der IT-Produkte in der Bundesregierung wird derzeit noch
+dezentral betrieben. Die Bundesregierung kann daher nicht auf alle einzelnen F&#228;lle 
+eingehen. Bei den bereitgestellten Infrastrukturen werden vielf&#228;ltige
+Ma&#223;nahmen der Notfallvorsorge umgesetzt.
+Die Bunderegierung verfolgt dort, wo es m&#246;glich ist, punktuell eine &#8222;Two-
+Vendor&#8220;-Strategie.
+F&#252;r den GB BMVg l&#228;sst sich feststellen, dass dieser immer Vorkehrungen trifft 
+f&#252;r den Fall einer Abschaltung, Unbrauchbarmachung oder eines anderweitigen 
+Ausfalls der im Einsatz befindlichen IT-Produkte, zum Beispiel im Rahmen der 
+betrieblichen Notfallvorsorge.
+36. Teilt die Bundesregierung die Ansicht der Fragesteller, dass es &#8211; auch
+angesichts einer global zunehmend un&#252;bersichtlichen politischen Lage &#8211; im 
+Sinne vielf&#228;ltiger digitaler &#214;kosysteme und der damit
+zusammenh&#228;ngenden Verringerung der Abh&#228;ngigkeit von einzelnen Herstellern/Staaten 
+sinnvoll erscheint, vermehrt auf Eigenentwicklungen und Open-Source-
+Software zu setzen, und welche Vorteile sieht die Bundesregierung in 
+solchen sicheren IT-L&#246;sungen, die in Deutschland und der EU entwickelt 
+und gehostet werden?
+Die Bundesregierung teilt die Einsch&#228;tzung insofern, dass Abh&#228;ngigkeiten von 
+Technologieanbietern, die zu kritischen Schmerzpunkten f&#252;hren, reduziert
+werden sollen.
+Die Bundesregierung setzt sich zum Ziel, dass zuk&#252;nftige Softwarealternativen 
+vorzugsweise, aber nicht zwingend, auf Open Source-Produkten basieren,
+mindestens jedoch auf offenen Standards und Schnittstellen. Nationale und
+europ&#228;ische IT L&#246;sungen unterliegen den entsprechenden Gesetzgebungen und bieten 
+daher rechtliche Sicherheit.
+37. Verschiebt sich durch die Verz&#246;gerungen und Schwierigkeiten der IT-
+Konsolidierung des Bundes die aktuelle Zeitplanungen f&#252;r die
+Einf&#252;hrung der nach dem Gesetz zur F&#246;rderung der elektronischen Verwaltung 
+bereits f&#252;r 2020 vorgesehenen E-Akte, und wenn ja, bis wann soll in wie 
+vielen Beh&#246;rden der Basisdienst E-Akte verf&#252;gbar sein?
+Bislang sind keine Auswirkungen auf die Zeitplanung der Einf&#252;hrung der E-
+Akte in der Bundesverwaltung feststellbar. Nach der seit 2017 bestehenden 
+Zeitplanung der E-Akte Bund sollen alle Beh&#246;rden der unmittelbaren
+Bundesverwaltung bis Ende 2021 die E-Akte eingef&#252;hrt haben.
+38. Welche konkreten Schritte hat die Bundesregierung unternommen, um 
+das latente Problem der Personalgewinnung bzw. der Gewinnung von
+geeignetem Personal, auch und gerade im Wettbewerb mit der
+Privatwirtschaft, zu l&#246;sen und die Rahmenbedingungen f&#252;r die Einstellung
+qualifizierter IT-Spezialistinnen und Spezialisten f&#252;r die Verwaltung zu
+verbessern, und ist die Bundesregierung der Ansicht, dass die bisherigen
+Ma&#223;nahmen angesichts der gro&#223;en Herausforderungen bislang zu
+zufriedenstellenden Ergebnissen gef&#252;hrt haben?
+Die ZIB hat im schwierigen Umfeld der Gewinnung geeigneten Personals
+umfangreiche und innovative Ma&#223;nahmen angesto&#223;en und durchgef&#252;hrt, um die 
+angespannte Personalsituation zu entlasten. Hierzu z&#228;hlen die Formulierung
+eines Arbeitgeber-Branding und die Erarbeitung einer Kommunikationsstrategie, 
+die Teilnahme an Fachkonferenzen (Vortr&#228;ge, Panels etc.), Gestaltung einer 
+Micro-Page f&#252;r Stellenanzeigen und Vorstellung interessanter Projekte, die
+Kooperation mit Outplacement-Organisationen und die Gestaltung f&#252;r die
+Pr&#228;sentation von Flyern und Plakaten in Universit&#228;ten. Nicht zuletzt die Entscheidung 
+den zweiten Dienstsitz des Beschaffungsamtes in Erfurt anzusiedeln wurde 
+auch vor dem Hintergrund der besseren Personalgewinnung getroffen. Die
+Gewinnung geeigneten Personals gestaltet sich nach ersten Erkenntnissen an
+diesem Standort verglichen mit der Region Bonn, erfolgreicher.
+39. Teilt die Bundesregierung die Auffassung der Fragesteller, wonach zur 
+besseren Abstimmung zwischen Fachverwaltungen und IT auch
+Verwaltungsexpertinnen und Experten zus&#228;tzlich in Bezug auf die
+Digitalisierung der &#246;ffentlichen Verwaltung ausgebildet werden sollten, und wenn 
+ja, in welchem Rahmen werden entsprechende Ausbildungsinhalte
+inzwischen angeboten und in welchem Umfang in der Bundesverwaltung 
+genutzt?
+Der Kabinettausschuss Digitalisierung hat bereits am 13. M&#228;rz 2019 eine
+interministerielle Arbeitsgruppe &#8222;Personal in der Digitalen Verwaltung&#8220; (AG Pers-
+DiV) unter Federf&#252;hrung des BMI eingesetzt. Die AG hat dem
+Kabinettausschuss im September 2019 erste Handlungsempfehlungen (administrativer und 
+legislativer Art) zu Personalentwicklung und -gewinnung vorlegt. Ziel der
+Arbeitsgruppe war es, ressort&#252;bergreifend Ma&#223;nahmen f&#252;r eine zukunftsgerichtete 
+Personalpolitik auszuarbeiten, damit die Bundesverwaltung im Hinblick auf die 
+Herausforderungen der Digitalisierung leistungsf&#228;hig bleibt. Der Ansatz der 
+AG war dabei umfassend angelegt und beinhaltete u. a. sowohl die Befassung 
+mit Instrumenten zur Gewinnung und Bindung von IT-Personal f&#252;r die
+Bundesverwaltung einerseits als auch die Erh&#246;hung der eigenen Ausbildungsleistung 
+des Bundes und inhaltliche Anpassung und Erg&#228;nzung der sonstigen
+Ausbildungsangebote des Bundes im Hinblick auf die Digitalisierung andererseits
+sowie die Fort- und Weiterbildung aller Bundesbediensteten in der Breite.
+Zu diesem Zweck sollen auch die sonstigen Ausbildungsangebote des Bundes 
+&#252;berpr&#252;ft und &#8211; soweit erforderlich &#8211; erg&#228;nzt und angepasst werden. Ein
+unmittelbarer Einfluss auf die Ausbildungsinhalte besteht bez&#252;glich der
+Ausbildungen zur Beamtin /zum Beamten des Bundes. Die Hochschule des Bundes f&#252;r 
+&#246;ffentliche Verwaltung (HS Bund) ist als &#8222;verwaltungsinterne&#8220; Hochschule in 
+zehn verschiedenen Fachbereichen f&#252;r die Ausbildung des gehobenen
+nichttechnischen Dienstes in der Bundesverwaltung verantwortlich. In den
+genannten Ausbildungsg&#228;ngen erfolgen kurz- bis mittelfristig Anpassungen der
+Curricula an die Erfordernisse der Digitalisierung der &#246;ffentlichen Verwaltung.
+Ein besonderer Stellenwert zur Heranbildung von Verwaltungsexpertinnen und 
+-experten in Bezug auf die Digitalisierung der &#246;ffentlichen Verwaltung kommt 
+den von der Hochschule des Bundes angebotenen Studieng&#228;ngen
+&#8222;Verwaltungsinformatik&#8220; (VIT) und &#8222;Digital Administration and Cyber Security&#8220; 
+(DACS) zu.
+In Kooperation zwischen dem Fachbereich Finanzen und dem Zentralbereich 
+der Hochschule werden bereits seit dem Jahr 2012 IT-Spezialistinnen und
+Spezialisten konkret f&#252;r Aufgaben in der Bundesverwaltung ausgebildet. Aufgrund 
+des hohen Bedarfs der Bundesbeh&#246;rden, hier insbesondere im Ressort des
+Bundesministeriums der Finanzen, wurde die Anzahl der Studienpl&#228;tze von ca. 50 
+im Jahr 2012 auf ca. 120 im Jahr 2020 erh&#246;ht. Curricular besteht der
+Studiengang jeweils zur H&#228;lfte aus Inhalten auf dem Gebiet der IT / Digitalisierung 
+und des Verwaltungsmanagements und tr&#228;gt damit dem insgesamt auf diesem 
+Sektor steigenden Bedarf bereits zum Teil Rechnung. Eine weitergehende
+Aufstockung der Anzahl der Studienpl&#228;tze st&#246;&#223;t jedoch an Kapazit&#228;tsgrenzen.
+Der auch deshalb in K&#252;rze startende Studiengang &#8222;Digital Administration and 
+Cyber Security&#8220; besteht ebenfalls je zur H&#228;lfte aus Inhalten des
+Verwaltungsmanagements und der IT / Digitalisierung jedoch mit deutlich abweichender 
+Schwerpunktsetzung im Hinblick auf IT-Sicherheit. Adressiert werden mit dem 
+Studiengang im Schwerpunkt &#8222;Cyber Security&#8220; insbesondere auch die
+Sicherheitsbeh&#246;rden des Bundes (z. B. der Bundesnachrichtendienst [BND], das
+Bundeskriminalamt [BKA], das Bundesamt f&#252;r Verfassungsschutz [BfV], die
+Zentrale Stelle f&#252;r Informationstechnik im Sicherheitsbereich [ZITIS], BSI. 
+u. s. w.), im Schwerpunkt &#8222;Digital Administration&#8220; die gesamte
+Bundesverwaltung. Der Studienbetrieb soll zum 1. &#214;ktober 2020 aufgenommen werden und 
+zun&#228;chst 50 Studienpl&#228;tze je Semester (= 100 / Jahr) umfassen.
+Bedarfsmeldungen der Bundesbeh&#246;rden weisen bereits jetzt einen h&#246;heren Bedarf aus als
+Studienpl&#228;tze angeboten werden k&#246;nnen. Nach Schaffung der erforderlichen
+haushalterischen, organisatorischen und infrastrukturellen Rahmenbedingungen 
+wird daher eine Ausweitung des Studienplatzangebotes angestrebt.
+Die Bundesregierung ist der Ansicht, dass das Thema Digitalisierung in allen 
+relevanten Bereichen der Aus- und Fortbildungen Bestandteil sein muss, um 
+die Bundesbesch&#228;ftigten systematisch f&#252;r die Anforderungen der
+Digitalisierung zu qualifizieren. Neben der Ausbildung muss auch die Fortbildung einen 
+Beitrag zu Qualifizierung der Bundesbesch&#228;ftigten leisten. Die
+Bundesakademie f&#252;r &#246;ffentliche Verwaltung passt ihr Fortbildungsangebot kontinuierlich an 
+die Entwicklungen der Digitalisierung und den diesbez&#252;glichen Bedarf in der 
+Bundesverwaltung an. So sind bereits einige Digitalisierungsthemen (u. a. IT-
+Konsolidierung) insbesondere in den Angeboten zum Organisations-, Projekt- 
+und Prozessmanagement, sowie in den Angeboten zur Informationssicherheit, 
+zum Datenschutz und zur Systemadministration enthalten.
+Diese Angebote der Bundesakademie werden von zahlreichen Beh&#246;rden der 
+Bundesverwaltung genutzt.
+Um den k&#252;nftigen Entwicklungen in der Digitalisierung der Bundesverwaltung 
+noch besser Rechnung zu tragen, wird die Bundesakademie die
+Bundesverwaltung k&#252;nftig mit Fortbildungen bei der Entwicklung digitaler Strategien
+unterst&#252;tzen und ein Fortbildungsangebot f&#252;r &#8222;Digitalisierungsbeauftragte in der
+&#246;ffentlichen Verwaltung&#8220; anbieten. In diesem Zusammenhang wird es auch
+darum gehen, der Bundesverwaltung Hilfestellungen zu geben, wie im Rahmen 
+der Personalentwicklung k&#252;nftige Fortbildungsbedarfe mit Bezug zur
+Digitalisierung identifiziert werden k&#246;nnen, um Bundesbesch&#228;ftigte systematisch zu 
+qualifizieren.
+40. Warum hat die Bundesregierung bislang keinen Chief Information
+Security Officer (CISO) f&#252;r das Projekt &#8222;IT Konsolidierung&#8220; benannt, und 
+wird dies Teil der jetzt geplanten Umstellung sein, wenn nein, warum 
+nicht?
+Mit dem UP Bund 2017 sowie dem Grundschutz-Kompendium des BSI gibt es 
+f&#252;r alle Beh&#246;rden / Einrichtungen des Bundes verbindliche
+Rahmenbedingungen zur Gew&#228;hrleistung der Informationssicherheit. Ob es
+dar&#252;berhinausgehende Ma&#223;nahmen geben soll, wird die anstehende Abstimmung zur Erstellung
+einer Informationssicherheitsrichtlinie f&#252;r die IT-Konsolidierung Bund zeigen.
+Im aktuellen Entwurf der Sicherheitsrichtlinie f&#252;r die IT-Konsolidierung ist die 
+Rolle eines IT-Sicherheitsbeauftragten vorgesehen. Diese Rolle k&#246;nnte vom 
+BSI &#252;bernommen werden. Die Richtlinie befindet sich derzeit in der
+Ressortabstimmung. Gem&#228;&#223; Ma&#223;gabebeschluss des Haushaltsausschusses des Deutschen 
+Bundestages zur Neuorganisation der IT-Konsolidierung vom 14. November 
+2019 ist diese Richtlinie bis zum 30. Juni 2020 zu erarbeiten.
+Erg&#228;nzend wird auf die Antwort zu Frage 29 wird verwiesen.
+41. Wird das Bundesamt f&#252;r Sicherheit in der Informationstechnik (BSI) die 
+Funktion des CISO f&#252;r die IT-Konsolidierung erhalten, und wenn nein, 
+warum nicht?
+Auf die Antwort zu Frage 40 wird verwiesen.
+42. Wird die Bundesregierung eine operative Cyberabwehr CSOC f&#252;r den 
+Bereich der IT-Konsolidierung unter der Leitung des Bundesamtes f&#252;r 
+die Sicherheit in der Informationstechnik schaffen, und wenn nein,
+warum nicht?
+Als Cybersicherheitsbeh&#246;rde des Bundes nimmt das BSI bereits seit Jahren alle 
+Aufgaben einer operativen Cyberabwehr auf Basis der bestehenden
+gesetzlichen Grundlagen f&#252;r wesentliche Teile der IT des Bundes wahr. Hierzu geh&#246;ren 
+z. B. die zentrale Meldestelle gem. &#167; 4 BSIG, die zentrale
+Vorfallskoordinierung (CERT-Bund) gem. &#167; 3 BSIG, die Unterst&#252;tzung vor Ort (Mobile Incident 
+Response Team) gem. &#167; 5a BSIG ebenso wie die Erkennung und Abwehr von 
+Cyberangriffen auf die Kommunikationstechnik des Bundes (Bundes Security 
+Operation Center) gem. &#167; 5 BSIG. Das BSI kooperiert hierbei mit den
+entsprechenden Organisationseinheiten in den Einrichtungen des Bundes und
+leistet u. a. durch Detektionsunterst&#252;tzung und die Herausgabe von
+Mindeststandards Hilfe bei der Umsetzung der notwendigen Ma&#223;nahmen. Eine formelle 
+Leitungsrolle f&#252;r das BSI im Rahmen der IT-Konsolidierung besteht bislang
+allerdings nicht.
+43. Teilt die Bundesregierung die Auffassung der Fragesteller, wonach
+gegenw&#228;rtig der Bund &#252;ber kein &#252;bergreifendes IT-Risikomanagement-
+Projekt verf&#252;gt, und wenn ja, warum gibt es ein solches bis heute nicht?
+Ein IT-Risikomanagement ist integraler Bestandteil jedes IT-Projektes und als 
+Teil des Controllings und Projektmanagement grunds&#228;tzlich in jedem Projekt 
+zu instanziieren. Bei ressort&#252;bergreifenden Projekten wie dem der IT-
+Konsolidierung Bund sei auf die Antwort zu Frage 24 (&#252;bergreifendes
+Controlling im BKAmt) verwiesen.
+44. Teilt die Bundesregierung die Auffassung der Fragesteller, wonach
+dieses &#252;bergreifende IT-Risikomanagement sinnvollerweise ebenfalls beim 
+IT-Rat angesiedelt sein sollte, und wenn ja, warum findet dies in den
+bisherigen Planungen bislang keine Ber&#252;cksichtigung?
+Nein. Der IT-Rat beschlie&#223;t die politisch-strategischen Vorgaben zur
+ressort&#252;bergreifenden Steuerung der IT des Bundes und ist das zentrale
+politischstrategische Gremium f&#252;r &#252;bergreifende strategische Themen der
+Digitalisierung der Bundesverwaltung. Er ist somit f&#252;r die strategische Steuerung der
+Informationstechnik in der Bundesverwaltung verantwortlich.
+Die operativen Aktivit&#228;ten zum Informationssicherheitsmanagement in der IT-
+Konsolidierung werden im BMI bzw. in dessen Gesch&#228;ftsbereich (BSI)
+koordiniert und durchgef&#252;hrt. Das BMI/BSI berichtet dem IT-Rat regelm&#228;&#223;ig &#252;ber die 
+Informationssicherheitslage.
+45. Warum gibt es bislang keine &#252;bergreifende IT-Sicherheitsrichtlinie zur 
+Vereinheitlichung und Standardisierung der IT-Sicherheit der
+Bundesbeh&#246;rden in der IT-Konsolidierung?
+Auf die Antwort zu Frage 40 wird verwiesen.
+46. Welche Beh&#246;rde hat gegen&#252;ber dem einzig verbleibenden IT-
+Dienstleister des Bundes ITZ Bund Pr&#252;fungs- und Kontrollrechte f&#252;r den 
+Bereich der IT-Sicherheit in Bezug auf dessen Projekte und auf die
+Umsetzung der f&#252;r diesen Dienstleister geltenden Vorgaben?
+Neben den auch f&#252;r das ITZBund geltenden Pr&#252;frechten des BSI sowie des 
+BRH sehen die zwischen den Gr&#252;ndungsressorts vereinbarten &#8222;Gemeinsamen 
+Gesch&#228;ftsbedingungen zur Zusammenarbeit mit dem ITZBund&#8220;, die die Basis 
+der Zusammenarbeit des ITZBund mit seinen Auftraggebern im regelbetrieb 
+abbilden, Regelungen zum Informationssicherheitsmanagement zwischen den 
+Beh&#246;rden als Auftraggeber und dem ITZBund als Auftragnehmer vor.
+Die Beh&#246;rden haben in ihrer Rolle als Kunden des IT-Dienstleisters gem&#228;&#223; 
+BSI-Baustein &#8222;OPS. 2.1 Outsourcing f&#252;r Kunden&#8220; (vgl. www.bsi.bund.de/DE/
+Themen/ITGrundschutz/ITGrundschutzKompendium/bausteine/OPS/OPS_2_
+1_Outsourcing_f%C3%BCr_Kunden.html) Pr&#252;frechte hinsichtlich ihrer beim 
+IT-Dienstleister verarbeiteten Daten.
+Entsprechende Pr&#252;frechte haben der Bundesrechnungshof aufgrund seiner 
+&#252;bergeordneten Aufgaben als Kontrollorgan des BMF als Fachaufsicht des 
+ITZBund. Bei entsprechendem Bedarf unterst&#252;tzt das BSI.
+47. Welche konkreten Vorgaben und Strukturen stellen sicher, dass das 
+Bundesministerium der Finanzen (BMF) als weisungsgebende Beh&#246;rde 
+nicht &#252;ber den Weg der Steuerung des in seinem Weisungsstrang
+verbleibenden einzigen Dienstleisters ITZ Bund weitere Anstrengungen der 
+IT-Konsolidierung prim&#228;r an eigenen Interessen orientiert, sondern dass 
+eine in den Aspekten IT-Sicherheit, Datenschutz, effizienter Einsatz von 
+Steuermitteln, Transparenz und im Ergebnis sowohl b&#252;rger- als auch
+unternehmensfreundliche Dienstleistungen die Gemeinwohlinteressen und 
+die Interessen anderer beteiligter Beh&#246;rden ber&#252;cksichtigende IT-
+Konsolidierung tats&#228;chlich gelingt?
+Alle strategischen Vorgaben f&#252;r die Umsetzung der IT-Konsolidierung werden 
+vom Lenkungsausschuss und damit von den Ressorts beschlossen. Im
+Regelbetrieb bestimmt sich die Leistung des ITZBund ausschlie&#223;lich nach den mit den 
+jeweiligen Auftraggebern abgeschlossenen Vereinbarungen.
+48. Teilt die Bundesregierung die Auffassung der Fragesteller, dass bei der 
+Errichtung des ITZ Bund als Anstalt des &#246;ffentlichen Rechts auch
+Vorschlagsrechte des Bundesamtes f&#252;r die Sicherheit in der
+Informationstechnik ber&#252;cksichtigt werden sollten, und wenn nein, warum nicht?
+H&#228;lt die Bundesregierung einen Verwaltungsrat mit Vertretern mehrerer 
+Ministerien f&#252;r eine zielf&#252;hrende Struktur f&#252;r zeitnahe Entscheidungen?
+Die genaue Ausgestaltung der Anstalt des &#246;ffentlichen Rechts (A&#246;R) ITZBund 
+inklusive ihres Verwaltungsrats wird derzeit zwischen den Ressorts
+abgestimmt.
+49. Soweit beschlossen wurde, die VS-NfD-Plattform der BWI nicht auch 
+anderweitig nutzbar zu machen oder auszubauen, wie lautet der Status 
+Quo einer Konsolidierung von VS-NfD-Inhalten?
+F&#252;r den GB BMVg stellt die BWI GmbH eine VS-NfD-f&#228;hige Plattform zur 
+Verf&#252;gung. Die Erfahrungen daraus bringt die BWI GmbH in die IT-K Bund 
+bereits ein und wird diese Erfahrungen mit dem ITZBund auch in Zukunft
+teilen.
+Die Konsolidierung von IT-L&#246;sungen mit der VSA-Einstufung &#8222;VS &#8211; Nur f&#252;r 
+den Dienstgebrauch&#8220; ist Bestandteil der IT-Konsolidierung Bund.
+Die Konzeptionierung und Umsetzung der technischen Plattform erfolgt
+jeweils nach den Anforderungen der Informationssicherheit und der
+Verschlusssachenanweisung bis &#8222;VS &#8211; Nur f&#252;r den Dienstgebrauch&#8220; und in Abstimmung 
+mit dem BSI.
+50. Welche konkreten Mehrwerte hatte man sich von dem Projekt einer
+vereinheitlichten VS-NfD-Plattform versprochen, und welche Kosten
+wurden bislang und damit vergebens investiert?
+Mit der Realisierung von VS-NfD-Plattformen bei den IT-Dienstleistern des 
+Bundes soll die Bereitstellung von Diensten erm&#246;glicht werden, die f&#252;r die
+Verarbeitung von Daten bis einschlie&#223;lich dem Geheimhaltungsgrad &#8222;VS &#8211; Nur f&#252;r 
+den Dienstgebrauch&#8220; ausgelegt ist. Sie sollen alle f&#252;r die Bundesverwaltung
+relevanten Informationssicherheits-, Datenschutz- und Geheimschutzstandards 
+erf&#252;llen. Das in dieser Umgebung bereitgestellte Diensteportfolio soll
+cloudf&#228;hig gestaltet werden und f&#252;r die Zukunft performante, skalierbare, kompatible, 
+technologisch auf dem neuesten Stand und kosteng&#252;nstige Dienste
+sicherstellen.
+Die H&#246;he der an die BWI GmbH zum Zwecke der Grundert&#252;chtigung (u. a. 
+Konzeption und Aufbau einer technischen Plattform) zugeleiteten Projektmittel 
+sind im letzten Fortschrittsbericht aus dem Jahr 2019 ersichtlich. Aus dem
+Einzelplan 06 wurden der BWI GmbH in den Jahren 2017 und 2018 insgesamt 
+61,1 Millionen Euro und aus dem Einzelplan 14 insgesamt 28 Millionen Euro 
+zur Verf&#252;gung gestellt. Im Jahr 2019 wurden keine dar&#252;berhinausgehenden 
+Projektmittel gezahlt.
+Weiterhin hat die BWI GmbH ihre Absicht bekundet die im Rahmen der IT-
+Konsolidierung Bund aufgebaute Plattform nach M&#246;glichkeit einer anderen 
+sachgerechten Nutzung (z. B. durch BMVg oder BWI selbst) nach ihrem
+billigem Ermessen zuzuf&#252;hren.
+Vereinheitlichte Plattformen bei den IT-Dienstleistern bieten diverse Vorteile, 
+etwa die M&#246;glichkeit eines standardisierten Betriebs und der zentralen
+Implementierung von Ma&#223;nahmen der IT-Sicherheit. Die Mehrwerte werden
+weiterhin gesehen.
+51. Welchen Ersatz plant die Bundesregierung f&#252;r die nunmehr nicht mehr 
+fertigzustellende VS-NfD-Plattform, und bis wann hofft die
+Bundesregierung, damit startklar zu sein?
+Das ITZBund wird f&#252;r die IT-Konsolidierung Bund weiterhin technische
+Plattformen zur Aufnahme von IT-L&#246;sungen mit der VSA-Einstufung &#8222;VS &#8211; Nur 
+f&#252;r den Dienstgebrauch&#8220; aufbauen.
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/16776 -
+IT-Konsolidierung des Bundes sicherstellen - IT-Sicherheit und Datenschutz bei Bundesbeh&#246;rden gew&#228;hrleisten</titel>
+    <datum>2020-02-12</datum>
+  </document>
+  

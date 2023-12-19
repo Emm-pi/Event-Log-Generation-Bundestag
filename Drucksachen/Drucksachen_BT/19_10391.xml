@@ -1,0 +1,1595 @@
+<document>
+    <id>229470</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/10391</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>072a34d09f5bf40bd00b39695d46bd75</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>247104</id>
+      <titel>Erstellen von Lagebildern durch Big Data</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium des Innern, f&#252;r Bau und Heimat</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/103/1910391.pdf</pdf_url>
+      <id>229470</id>
+      <dokumentnummer>19/10391</dokumentnummer>
+      <datum>2019-05-21</datum>
+      <verteildatum>2019-07-24</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums des Innern, f&#252;r Bau und Heimat 
+vom 16. Mai 2019 &#252;bermittelt.  
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext. 
+Deutscher Bundestag  Drucksache 19/10391 
+19. Wahlperiode 21.05.2019 
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Otto Fricke, Christian D&#252;rr,  
+Grigorios Aggelidis, weiterer Abgeordneter und der Fraktion der FDP 
+&#8211; Drucksache 19/9567 &#8211; 
+Erstellen von Lagebildern durch Big Data 
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r  
+Die Digitalisierung bietet in fast allen Bereichen unserer Gesellschaft viele 
+M&#246;glichkeiten. Auch auf der Ebene des Staates bestehen zahlreiche
+Anwendungsm&#246;glichkeiten. Eine davon ist die Nutzung f&#252;r komplexe Lageszenarien 
+und deren Analyse. Instrumente wie Big Data/Analytics bis hin zur K&#252;nstlichen 
+Intelligenz k&#246;nnen hier zum Einsatz kommen. Der Anwendungsbereich
+erstreckt sich von der Terrorismuspr&#228;vention bis hin zu Lagebildern der
+Cyberabwehr oder Krisenfr&#252;herkennung. So will das Ausw&#228;rtige Amt das Big-Data-
+Projekt PREVIEW zur Krisenfr&#252;herkennung nutzen (www.bundesregierung.de/ 
+breg-de/themen/digital-made-in-de/einsatz-von-big-data-zur-
+frueherkennungund-analyse-krisenhafter-entwicklungen-1546866), aber auch die Bundeswehr 
+versucht &#228;hnliches mit IBM-Software (www.faz.net/aktuell/politik/inland/ 
+bundeswehr-die-krisen-von-morgen-erkennen-15670056.html) sowie durch 
+Big Data eine bessere Material-wartung und -management zu erreichen (www. 
+heise.de/newsticker/meldung/Bundeswehr-will-Ausstattungsprobleme-mit-Big- 
+Data-in-den-Griff-bekommen-4063834.html). Big Data k&#246;nnte aber auch
+verwendet werden, um Notlagen aufgrund von Wetterextremen besser
+vorherzusagen und darauf bestm&#246;glich zu reagieren. Dabei geht es bei den oben
+beschriebenen M&#246;glichkeiten meist nicht um die Verarbeitung von personenbezogenen 
+Daten. 
+Auf der technischen Anwendungsebene gibt es nach Ansicht der Fragesteller 
+theoretisch viele Schnittmengen, die aber nach Ansicht der Fragesteller unter 
+anderem wegen organisatorischen Zust&#228;ndigkeitsaspekten nicht genutzt
+werden. Stattdessen bauen einzelne Beh&#246;rden und Bundesministerien unabh&#228;ngig 
+von einander Kompetenzen und Systeme zur Lagebilderstellung auf. F&#252;r die 
+Erstellung dieser Lagebilder braucht es aus Sicht der Fragesteller aktuell kaum 
+mehr Daten, sondern die Daten, die bereits zur Verf&#252;gung stehen, m&#252;ssen auch 
+genutzt werden. Aus Gr&#252;nden wie der zeitlichen Umsetzung, der Verf&#252;gbarkeit, 
+des Ressourcenverbrauchs und der Haushaltsbelastung w&#228;re die Herstellung 
+von Informationslagebildern unabh&#228;ngig von der jeweiligen Zust&#228;ndigkeit f&#252;r 
+Reaktionen und Ma&#223;nahmen im Sinne einer &#8222;Einer f&#252;r alle&#8220;-Strategie denkbar 
+und aus Sicht der Fragesteller sinnvoll, insbesondere deshalb, weil es sich nicht 
+um personenbezogene Daten handelt.
+Bereits bestehende Projekte im Nachhinein zu integrieren, ist oft sehr aufwendig 
+und teuer, wie bei der aktuellen IT-Konsolidierung des Bundes zu beobachten 
+ist (www.bild.de/bild-plus/politik/inland/politik-inland/kosten-voellig-aus-
+demruder-merkels-3-5-milliarden-software-debakel-57089588,view=conversionTo 
+Login.bild.html). 
+Datenschutz und die Auswirkungen im Rahmen einer &#8222;self fulfilling prophecy&#8220;, 
+also das Eintreten bzw. Verst&#228;rken eines Szenarios aufgrund der entsprechenden 
+Vorhersage, m&#252;ssen dabei mitgedacht werden. Auch aus diesen Gr&#252;nden muss 
+es selbstverst&#228;ndlich eine wirkungsvolle Strategie geben, Datenmissbrauch zu 
+verhindern. 
+Insoweit erscheint es aus Sicht der Fragesteller sinnvoll zusammenzufassen, 
+welche Aktivit&#228;ten der Bundesregierung in diesem Bereich bestehen. 
+V o r b e me r k u n g  ( 1 )  d e r  B u n d e s r e g i e r u n g  
+Unbestritten bietet eine Algorithmen-basierte Auswertung gro&#223;er Datenmengen 
+erhebliche Potentiale bei der Risikoerkennung und -bewertung. Richtig ist auch, 
+dass eine erhebliche Kraftanstrengung vor uns liegt, um die gesamte
+Bundesverwaltung zum Vorreiter in Sachen Digitalisierung zu machen. Die Schwierigkeiten 
+auf dem Weg dahin, sind aber nach Auffassung der Bundesregierung keine Frage 
+fehlender Monopolisierung der Digitalzust&#228;ndigkeiten. Vielmehr zeigen die
+unterschiedlichen Aktivit&#228;ten der Bundesregierung viel Kreativit&#228;t dort, wo auch 
+die Fachkompetenz sitzt.  
+Die Anfrage stellt die Anwendung von Algorithmen bei der Erstellung von
+Lagebildern in den Mittelpunkt. Es gibt allerdings keine allgemein verbindliche
+Definition des Begriffs Lagebild. Regelm&#228;&#223;ig ist damit eine Aufbereitung gemeint, 
+die dem Er-kennen, der Analyse und der Prognose relevanter Ereignisse und
+Entwicklungen dient. Dies beschreibt letztlich die Grundlage jeden politischen
+Handelns. Daher werden derartige Darstellungen (als Lagebilder Lage&#252;bersichten, 
+Lageberichte oder unter einem anderen Begriff) in der Bundesregierung zu
+vielf&#228;ltigen Zwecken erstellt.  
+Mit einem solchen Grundverst&#228;ndnis w&#252;rde eine Zusammenfassung aller
+Aktivit&#228;ten der Bundesregierung einschlie&#223;lich ihrer Gesch&#228;ftsbereichsbeh&#246;rden 
+schnell den Rahmen einer Kleinen Anfrage sprengen.  
+Genereller Zweck von Lagebildern ist es, komplexe Sachverhalte sichtbar zu
+machen und Handlungsoptionen f&#252;r ein zielgerichtetes Eingreifen aufzubereiten. Ein 
+Beispiel daf&#252;r sind Krisenlagen, die mit Hilfe von Lagebildern f&#252;r Rettungskr&#228;fte 
+beherrschbar gemacht werden. Entscheidend f&#252;r deren Nutzbarkeit ist, relevante 
+und zweckdienliche Daten zu verkn&#252;pfen, nicht ben&#246;tigte Daten jedoch so weit 
+wie m&#246;glich auszublenden, um die Komplexit&#228;t auch eines digitalen Lagebildes 
+auf ein praktikables Ma&#223; zu begrenzen. Auch die Lagedarstellung muss je nach 
+Einsatzzweck und Nutzergruppe nach stark unterschiedlichen Anforderungen 
+ausgestaltet werden. F&#252;r alle Bundesressorts sind konkrete Einsatzzwecke der 
+Ausgangspunkt f&#252;r die Entwicklung von digitalen Unterst&#252;tzungswerkzeugen f&#252;r 
+die Darstellung von Lagebildern. Die f&#252;r diese Zwecke erforderlichen,
+aufgabenbezogenen Daten variieren stark. Daher w&#252;rde die Zusammenf&#252;hrung beliebiger 
+Daten in einem umfassenden Lagebild-System dessen Einsatznutzen negativ
+beeinflussen.
+F&#252;r den Umfang dieser Anfrage haben die Fragesteller daher zwei
+einschr&#228;nkende Kriterien in ihrer Vorbemerkung eingef&#252;hrt, in dem sie den Einsatz von 
+&#8222;Big Data Analytics&#8220; in &#8222;komplexen Lageszenarien&#8220; in den Mittelpunkt der
+Abfrage stellen. Dieses Verst&#228;ndnis soll bei der Beantwortung zugrunde gelegt
+werden.  
+Ausgeklammert in der Beantwortung werden daher Lagebilder, f&#252;r deren
+Erstellung Instrumente der Algorithmen-basierten Analyse oder Anwendungen der 
+K&#252;nstlichen Intelligenz nicht zum Einsatz kommen. Wegen der Inbezugnahme 
+von &#8222;komplexen Lageszenarien&#8220; wird eine Algorithmen-basierte Auswertung
+interner Verfahrensabl&#228;ufe (z. B. Steuerung der Eingangsbearbeitung)
+ausgenommen. 
+V o r b e me r k u n g  ( 2 )  d e r  B u n d e s r e g i e r u n g  
+Die Einstufung von Teilen der Antworten zu den Fragen 3, 6, 7, 11 und 16 bis  
+18 als Verschlusssache (VS) mit dem Geheimhaltungsgrad &#8222;VS &#8211; Nur f&#252;r den 
+Dienstgebrauch&#8220; ist im vorliegenden Fall im Hinblick auf das Staatswohl
+erforderlich. Nach &#167; 2 Absatz 2 Nummer 4 der Allgemeinen Verwaltungsvorschrift 
+zum materiellen Geheimschutz vom 10. August 2018
+(Verschlusssachenanweisung, VSA) sind Informationen, deren Kenntnisnahme durch Unbefugte f&#252;r die 
+Interessen der Bundesrepublik Deutschland oder eines ihrer L&#228;nder nachteilig 
+sein k&#246;nnen, entsprechend einzustufen. Eine zur Ver&#246;ffentlichung bestimmte 
+Antwort der Bundesregierung auf die-se Fragen w&#252;rde Informationen zu den
+F&#228;higkeiten und Methoden des Bundesamtes f&#252;r Sicherheit in der
+Informationstechnik und dem Gemeinsamen Cyber-Abwehrzentrum einem nicht eingrenzbaren 
+Personenkreis nicht nur im Inland, sondern auch im Ausland zug&#228;nglich machen.  
+Dies kann f&#252;r die wirksame Erf&#252;llung der gesetzlichen Aufgaben bei der Abwehr 
+von Cyber-Angriffen aus dem In- und Ausland und dem Schutz kritischer
+Infrastrukturen, dem diese Lageberichte dienen, nachteilig sein. Daher w&#228;re dies f&#252;r 
+die Interessen der Bundesrepublik Deutschland insgesamt nachteilig. Diese
+Informationen werden daher als &#8222;VS &#8211; Nur f&#252;r den Dienstgebrauch&#8220; eingestuft und 
+dem Deutschen Bundestag gesondert &#252;bermittelt. Eine zur Ver&#246;ffentlichung
+bestimmte Antwort der Bundesregierung auf die Frage 6 w&#252;rde zudem
+Informationen zu den F&#228;higkeiten und Methoden des Bundesnachrichtendienstes einem 
+nicht eingrenzbaren Personenkreis nicht nur im Inland, sondern auch im Ausland 
+zug&#228;nglich machen. Dies kann f&#252;r die wirksame Erf&#252;llung der gesetzlichen
+Aufgaben der Nachrichtendienste und damit f&#252;r die Interessen der Bundesrepublik 
+Deutschland nachteilig sein. Diese Informationen werden daher als &#8222;VS &#8211; Nur f&#252;r 
+den Dienstgebrauch&#8220; eingestuft und dem Deutschen Bundestag gesondert
+&#252;bermittelt.* 
+V o r b e me r k u n g  ( 3 )  d e r  B u n d e s r e g i e r u n g  
+Die Antwort zu den Fragen 2, 16, 17 und 18 kann in Teilen nicht offen erfolgen. 
+Die Einstufung von Teilen der Antwort auf die Frage als Verschlusssache (VS) 
+mit dem Geheimhaltungsgrad &#8222;VS &#8211; Geheim&#8220; ist im vorliegenden Fall im
+Hinblick auf das Staatswohl erforderlich.  
+                                                     
+* Das Bundesministerium des Innern, f&#252;r Bau und Heimat hat Teile der Antwort als &#8222;VS &#8211; Nur f&#252;r den Dienstgebrauch&#8220; eingestuft.  
+Die Antwort ist im Parlamentssekretariat des Deutschen Bundestages hinterlegt und kann dort von Berechtigten eingesehen werden.
+Nach &#167; 2 Absatz 2 Nummer 2 der Allgemeinen Verwaltungsvorschrift zum  
+materiellen Geheimschutz vom 10. August 2018 (Verschlusssachenanweisung, 
+VSA) sind Informationen, deren Kenntnisnahme durch Unbefugte die Sicherheit 
+der Bundesrepublik Deutschland oder eines ihrer L&#228;nder gef&#228;hrden oder ihren 
+Interessen schweren Schaden zuf&#252;gen kann, entsprechend einzustufen.  
+Die erbetenen Ausk&#252;nfte sind geheimhaltungsbed&#252;rftig, weil sie Informationen 
+enthalten, die im Zusammenhang mit der Arbeitsweise und Methodik des
+Bundesnachrichtendienstes und insbesondere seiner Aufkl&#228;rungsaktivit&#228;ten und
+Analysemethoden stehen. Der Schutz vor allem der technischen
+Aufkl&#228;rungsf&#228;higkeiten des Bundesnachrichtendienstes stellt f&#252;r die Aufgabenerf&#252;llung des
+Bundesnachrichtendienstes einen &#252;berragend wichtigen Grundsatz dar. Er dient der 
+Aufrechterhaltung der Effektivit&#228;t nachrichtendienstlicher
+Informationsbeschaffung durch den Einsatz spezifischer F&#228;higkeiten und somit des Staatswohls. Eine 
+Ver&#246;ffentlichung von Einzelheiten betreffend solcher F&#228;higkeiten w&#252;rde zu einer 
+wesentlichen Schw&#228;chung der dem Bundesnachrichtendienst zur Verf&#252;gung
+stehenden M&#246;glichkeiten zur Informationsgewinnung f&#252;hren. Dies w&#252;rde f&#252;r die 
+Auftragserf&#252;llung des Bundesnachrichtendienstes erhebliche Nachteile zur Folge 
+haben und kann f&#252;r die Interessen der Bundesrepublik Deutschland sch&#228;dlich 
+sein. Insofern k&#246;nnte die Offenlegung entsprechender Informationen die
+Sicherheit der Bundes-republik Deutschland gef&#228;hrden oder ihren Interessen schweren 
+Schaden zuf&#252;gen.  
+Diese Informationen werden daher als &#8222;VS &#8211; Geheim&#8220; eingestuft und dem
+Deutschen Bundestag gesondert &#252;bermittelt.&#61482; 
+1. In welchen Bundesministerien und nachgeordneten Beh&#246;rden werden zu 
+welchen Zwecken (z. B. Kriminalit&#228;t, Terrorismusabwehr,
+Cyberbedrohungen, Einsatzbereitschaften, Zustands- und Prognoseerhebungen f&#252;r
+Mobilit&#228;t, Luft, Energie, Gesundheit etc.) bereits heute Lagebilder generiert und/ 
+oder verwendet? 
+Zum Verst&#228;ndnis der Frage wird zun&#228;chst auf die Erl&#228;uterung in der
+Vorbemerkung der Bundesregierung verwiesen. Regelm&#228;&#223;ig, insbesondere bei den
+zahlreichen in der Bundespolizei, der Generalzolldirektion und dem Bundeskriminalamt 
+erstellten Lagebildern, kommen keine Algorithmen-basierte Analysemethoden  
+oder Anwendungen von K&#252;nstlicher Intelligenz (KI) zum Einsatz. Lagebilder f&#252;r 
+komplexe Lageszenarien, die unter Verwendung von Algorithmen-basierter
+Analysen oder Anwendung von KI erstellt werden, kommen wie folgt zum Einsatz: 
+                                                     
+&#61482; Das Bundesministerium des Innern, f&#252;r Bau und Heimat hat Teile der Antwort als &#8222;VS &#8211; Geheim&#8220; eingestuft. Die Antwort ist in der 
+Geheimschutzstelle des Deutschen Bundestages hinterlegt und kann dort nach Ma&#223;gabe der Geheimschutzordnung eingesehen werden.
+Ressort  Verwendungszwecke 
+Bundeskanzleramt Sicherheitsrelevante Ereignisse  
+(Bundesnachrichtendienst) 
+Bundesministerium des Innern, f&#252;r 
+Bau und Heimat (BMI) 
+Sicherheit (Bundesamt f&#252;r Sicherheit in 
+der Informationstechnik) 
+Bundesministerium der
+Verteidigung (BMVg) 
+- Fr&#252;herkennung zu krisenhaften 
+Entwicklungen in milit&#228;rischen 
+Zusammenh&#228;ngen (Prototyp) 
+- &#8222;Digitalisierung Lagebilder&#8220; zu den 
+Bereichen Einsatzbereitschaft, Innere 
+Soziale Lage und F&#228;higkeitslage  
+- Lagebild f&#252;r den Cyber- und 
+Informationsraum 
+Bundesministerium f&#252;r Wirtschaft 
+und Energie (BMWi) 
+- Beschreibungen der Seismizit&#228;t in 
+Deutschland (Bundesanstalt f&#252;r 
+Geowissenschaften und Rohstoffe, 
+BGK) 
+- &#220;berwachung der Einhaltung des 
+Vertrags &#252;ber das umfassende Verbot 
+von Atomtests (Comprehensive 
+Nuclear-Test-Ban Treaty, CTBT) 
+(Bundesanstalt f&#252;r 
+Geowissenschaften und Rohstoffe) 
+Bundesministerium f&#252;r Umwelt, 
+Naturschutz und nukleare
+Sicherheit (BMU) 
+radiologisches Lagebild bei einem
+&#252;berregionalen radiologischen Notfall
+gem&#228;&#223; &#167; 108 Absatz 2 des
+Strahlenschutzgesetzes 
+2. In welchen Bundesministerien und nachgeordneten Beh&#246;rden sollen
+zuk&#252;nftig zu welchen Zwecken (z. B. Kriminalit&#228;t, Terrorismusabwehr,
+Cyberbedrohungen, Einsatzbereitschaften, Zustands- und Prognoseerhebungen f&#252;r 
+Mobilit&#228;t, Luft, Energie, Gesundheit etc.) Lagebilder generiert und/oder
+verwendet werden? 
+Im Rahmen der IT-Konsolidierung Bund soll die IT-Ma&#223;nahme &#8222;Analytics in der 
+Bundesverwaltung&#8220; ein methodisches und technologisches Portfolio f&#252;r
+datengetriebene Entscheidungsunterst&#252;tzung entwickeln. Weiterhin ist geplant, eine 
+Plattform f&#252;r Vorausschau und Evidenz unter anderem auf der Basis von  
+PREVIEW aufzubauen. Ma&#223;gebliches Ziel dieser Plattform ist es, der
+Bundesregierung den geb&#252;ndelten und strukturierten Zugang zu Informationen und
+(Forschungs-)Erkenntnissen und ggf. Lagebildern zu erm&#246;glichen. 
+Zudem wird das Ausw&#228;rtige Amt das neue Lagezentrum der Bundesregierung f&#252;r 
+Au&#223;en- und Sicherheitspolitik ab Sommer 2019 als ressortgemeinsame
+Arbeitseinheit im Ausw&#228;rtigen Amt einrichten. Das Bundeskanzleramt und die
+Bundesministerien f&#252;r Verteidigung sowie Inneres, Bau und Heimat beteiligen sich
+daran. Dort soll werkt&#228;glich ein au&#223;en- und sicherheitspolitisches Lagebild zu
+internationalen Krisen- und Konfliktlagen erstellt werden. 
+Im Bundesministerium der Verteidigung soll zudem zur verbesserten
+Aufgabenwahrnehmung Krisenfr&#252;herkennung auf der Grundlage einer Forschung und 
+Technologie-Studie noch 2019 ein Projekt begonnen werden, dass zuk&#252;nftig IT-
+gest&#252;tzte pr&#228;diktive Hinweise und Beitr&#228;ge zu Lagebildern in Bezug auf
+krisenhafte Entwicklungen in milit&#228;rischen Zusammenh&#228;ngen generieren kann.
+Dar&#252;ber hinaus werden im Rahmen der Fortf&#252;hrung des Projektes &#8222;Digitalisierung 
+Lagebilder&#8220; unterschiedliche Lagen in den Kategorien Einsatzbereitschaft,
+Einsatzverf&#252;gbarkeit, Einsatzf&#228;higkeit und Einsatzreife auf der Grundlage einer
+einheitlichen Datenbasis miteinander harmonisiert und digitalisiert. Die
+Realisierungsphase soll 2020 beginnen und ist auf mehrere Jahre angelegt. 
+Das Bundesministerium der Finanzen strebt in den n&#228;chsten Jahren an, IT-
+gest&#252;tzte Analyse- und Risikomanagementsysteme zu realisieren, um die
+Steuergesetzgebung und den Steuervollzug zu optimieren. Datenbasis sollen
+anonymisierte Steuervollzugsdaten der L&#228;nder sowie Informationen aus dem nationalen 
+und internationalen digitalen Datenaustausch sein. 
+Im Weiteren wird auf die Vorbemerkung 3 verwiesen. 
+3. Welche Daten werden im Einzelnen durch wen erhoben, und wem werden 
+diese zur Verf&#252;gung gestellt? 
+Nachfolgend werden die Datenverarbeitungsprozesse der in Frage 1 aufgef&#252;hrten 
+Lagebilder dargestellt: 
+Ressort  Verwendungszwecke Datenerhebung Datenweitergabe
+Bundeskanzleramt 
+Sicherheitsrelevante
+Ereignisse
+(Bundesnachrichtendienst) 
+Informationen von
+externem Dienstleister 
+Datenweitergabe erfolgt im 
+Rahmen der gesetzlichen 
+Vorgaben 
+BMVg Fr&#252;herkennung zu
+krisenhaften Entwicklungen in
+milit&#228;rischen Zusammenh&#228;ngen 
+&#246;ffentlich zug&#228;ngliche
+Daten (bspw. World Bank: 
+World Development
+Indicators, Worldwide
+Governance Indicator, UN:
+Population Statistics, WHO:
+unterschiedliche
+Gesundheitsstatistiken, Food and
+Agriculture Organization 
+(FAO): Lebensmittelpreise, 
+Universit&#228;re Daten: Armed 
+Conflict Location and 
+Event Data (ACLED),
+Global Terrorism Database 
+(GTD), etc.; Geodaten: 
+Global Administrative 
+Areas (GADM) etc.,
+diverse
+Nachrichtenagenturen: RSS-Feeds) und
+zuk&#252;nftig auch eingestufte 
+Daten (Melde- und
+Berichtswesen des Systems 
+Milit&#228;risches
+Nachrichtenwesen) genutzt.
+Ressort  Verwendungszwecke Datenerhebung Datenweitergabe 
+BMVg &#8222;Digitalisierung Lagebilder&#8220; 
+zu den Bereichen
+Einsatzbereitschaft, Innere Soziale 
+Lage und F&#228;higkeitslage 
+Die generierten oder noch 
+zu generierenden
+Lagebilder werden bez&#252;glich ihrer 
+Informationsinhalte
+hausintern synchronisiert. Dazu 
+greifen alle Lagebilder auf 
+dieselben Quellsysteme zur 
+Datenerhebung zu. Das im 
+GB BMVg f&#252;hrende IT-
+Verfahren dazu ist SASPF. 
+Sofern notwendige Daten 
+nur in anderen
+Datensystemen vorliegen, wird eine 
+&#220;berf&#252;hrung der Daten
+dieser Systeme nach SASPF  
+oder eine Anbindung an 
+SASPF als Grundlage f&#252;r 
+die Lagebildererstellung
+gepr&#252;ft. 
+ 
+BMVg Lagebild f&#252;r den Cyber- und 
+Informationsraum 
+Im Gemeinsamen
+Lagenzentrum Cyber- und
+Informationsraum (GLZ CIR) 
+werden &#246;ffentliche
+Informationen von
+Nachrichtenagenturen, der Presse und 
+aus Fachpublikation,
+Lageberichte der nachgeordneten 
+Dienststellen (Kommando 
+Strategische Aufkl&#228;rung, 
+Zentrum f&#252;r Operative 
+Kommunikation), die
+Betriebslage IT-Services in 
+den Eins&#228;tzen,
+St&#246;rungsmeldungen des
+Betriebszentrums IT-System der 
+Bundeswehr und
+Meldungen des Cyber Security 
+Operation Centre der
+Bundeswehr zusammengefasst. 
+Daraus wird eine Lage f&#252;r 
+den Cyber- und
+Informationsraum erstellt, die dem 
+BMVg, den milit&#228;rischen 
+Organisationsbereichen der 
+Bundeswehr, dem
+Bundesamt f&#252;r Ausr&#252;stung,
+Informationstechnik und
+Nutzung der Bundeswehr 
+(BAAINBw), dem
+Einsatzf&#252;hrungskommando der 
+Bundeswehr  
+(EinsF&#252;KdoBw), dem
+Bundesamt f&#252;r den
+Milit&#228;rischen Abschirmdienst 
+(BAMAD), der
+F&#252;hrungsakademie der Bundeswehr 
+(F&#252;AKBw), dem Amt f&#252;r 
+Milit&#228;rkunde (AMK), dem 
+Nationalen Cyber-
+Abwehrzentrum und dem
+nachgeordneten Bereich des 
+KdoCIR zur Verf&#252;gung
+gestellt wird. 
+BMWi Beschreibungen der
+Seismizit&#228;t in Deutschland
+(Bundesanstalt f&#252;r Geowissenschaften 
+und Rohstoffe, BGR) 
+Die deutschen
+Seismometerstationen werden von der 
+BGR in Kooperation mit 
+den Erdbebendiensten der 
+Bundesl&#228;nder und
+Hochschulinstituten betrieben. 
+Die Daten zur
+Beschreibung der Seismizit&#228;t stehen 
+der &#214;ffentlichkeit frei zur 
+Verf&#252;gung.
+Ressort  Verwendungszwecke Datenerhebung Datenweitergabe 
+BMWi &#220;berwachung der Einhaltung 
+des Vertrags &#252;ber das
+umfassende Verbot von Atomtests 
+(Comprehensive Nuclear-
+Test-Ban Treaty, CTBT) 
+(Bundesanstalt f&#252;r
+Geowissenschaften und Rohstoffe) 
+Meldungen nach dem
+Vertrag &#252;ber das umfassende 
+Verbot von Atomtests 
+(Comprehensive Nuclear-
+Test-Ban Treaty, CTBT) 
+Die Daten des
+Internationalen &#220;berwachungssystems 
+der CTBT-Organisation
+stehen nicht frei der
+&#214;ffentlichkeit zur Verf&#252;gung; die 
+Daten von Drittstaaten
+unterliegen hierbei vertraglich 
+festgelegter Geheimhaltung. 
+BMU radiologisches Lagebild bei 
+einem &#252;berregionalen
+radiologischen Notfall gem&#228;&#223; 
+&#167; 108 Absatz 2 des
+Strahlenschutzgesetzes 
+Informationen nach den 
+&#167;&#167; 106, 107 und 161 bis 
+163 des
+Strahlenschutzgesetzes und weitere relevante 
+Informationen zu Art,
+Umfang und zu erwartender 
+Entwicklung der
+radiologischen Lage 
+Die Daten werden allen f&#252;r 
+den radiologischen
+Notfallschutz relevanten Beh&#246;rden 
+zur Verf&#252;gung gestellt. 
+Im Weiteren wird auf die Vorbemerkung 2 verwiesen. 
+a) Werden Datenschutzbeh&#246;rden hierbei mit eingebunden? 
+Bei den im Zusammenhang mit Frage 3 verarbeiteten Daten handelt es sich
+&#252;berwiegend um nicht-personenbezogene Daten, wie auch die Fragesteller in ihrer 
+Vorbemerkung feststellen. Sofern jedoch auch personenbezogene Daten in die 
+Erstellung einbezogen werden k&#246;nnen, hat eine Beteiligung der
+Datenschutzaufsichtsbeh&#246;rden im Rahmen der gesetzlichen Vorschriften stattzufinden. Nach
+Artikel 36 Absatz 1 in Verbindung mit Artikel 35 Datenschutz-Grundverordnung 
+(DSGVO) sind die Aufsichtsbeh&#246;rden vorab zu konsultieren, wenn aus der
+Datenschutzfolgenabsch&#228;tzung hervorgeht, dass die Verarbeitung ein hohes Risiko 
+zur Folge h&#228;tte, sofern keine Ma&#223;nahmen zur Eind&#228;mmung des Risikos getroffen 
+werden. Eine solche Konsultationspflicht besteht im Hinblick auf die in der
+&#220;bersicht zu Frage 3 genannten Lagebilder nicht. 
+4. Wie erfolgen die aktive und passive Verteilung von bereitgestellten Daten 
+und Informationen an welche zust&#228;ndigen Dienststellen? 
+Die Bereitstellung von Daten und Informationen erfolgt im Regelfall &#252;ber einen 
+elektronischen Datenaustausch. 
+5. Wie erfolgt die operative Zusammenarbeit zwischen Dienststellen,
+Beh&#246;rden und ressort&#252;bergreifend (Prozesse und technische Systeme inkl.
+Schnittstellen bitte beschreiben)? 
+Die Zusammenarbeit bei den in Frage 1 genannten Lagebildern erfolgt durch
+telefonischen, schriftlichen (auch E-Mail) und pers&#246;nlichen Austausch. Technische 
+Schnittstellen sind regelm&#228;&#223;ig nicht etabliert. Im Falle der radiologischen
+Lagebilder erfolgt die Zusammenarbeit unter Nutzung des Integrierten Mess- und
+Informationssystems (IMIS; vgl.: www.imis.bfs.de/geoportal/). F&#252;r Krisenf&#228;lle 
+werden regelm&#228;&#223;ig Krisenst&#228;be der Bundesregierung als Steuerungsgremien
+unter Leitung des Ausw&#228;rtigen Amts einberufen, ansonsten erfolgt die Steuerung 
+&#252;ber Arbeitsgruppen, soweit erforderlich.
+6. Wird auf gemeinsamen Plattformen zusammengearbeitet?  
+a) Falls nein, wie wird die Interoperabilit&#228;t verschiedener, parallel genutzter 
+Systeme sichergestellt?  
+Welche Schnittstellen werden verwendet, und unterliegen diese
+besonderer Sicherheitsvorkehrungen gegen den Zugriff unberechtigter Dritter? 
+Die Antworten beziehen sich nur auf die in der Antwort zu Frage 1 dargestellten 
+Projekte. 
+Ressort  Verwendungszwecke 
+Bundeskanzleramt Es wird auf Vorbemerkung 2 verwiesen. 
+BMI  Es wird auf Vorbemerkung 2 verwiesen. 
+BMVg Austausch und Interoperabilit&#228;t mit anderen Ressorts, Beh&#246;rden oder
+Organisationen ist immer dann vorgesehen und in Vereinbarungen geregelt, wenn 
+die Lagebereitstellung Teil des milit&#228;rischen Beitrags zur gesamtstaatlichen 
+Sicherheitsvorsorge ist. Schnittstellen sind aber grunds&#228;tzlich vorgesehen und 
+innerhalb des Gesch&#228;ftsbereich BMVg (NATO-)standardisiert, so dass eine 
+grunds&#228;tzliche Interoperabilit&#228;t gew&#228;hrleistet ist. Schnittstellen unterliegen 
+im Gesch&#228;ftsbereich BMVg dabei immer den Regeln der
+Informationssicherheit und sind entsprechend gegen unberechtigte Zugriffe Dritter gesch&#252;tzt. 
+BMWi Der Austausch der seismologischen Daten erfolgt nach internationalen
+Standards und in festgelegten Formaten. Die Webdienste und zugrundeliegenden 
+Datenbanken erf&#252;llen die IT-Sicherheitsstandards des Bundesamtes f&#252;r
+Sicherheit in der Informationstechnologie. 
+BMU Es wird auf der gemeinsamen Plattform IMIS gearbeitet. Die Nutzung von  
+IMIS erfolgt &#252;ber durch Authentifizierung und Transportverschl&#252;sselung
+gesicherte Zug&#228;nge. 
+7. Gibt es zentrale Pilotvorhaben, von denen alle Bedarfstr&#228;ger von
+Lagebildszenarien profitieren oder die diese adaptieren k&#246;nnen, und falls nein, warum 
+nicht? 
+Im Bundesamt f&#252;r Bev&#246;lkerungsschutz und Katastrophenhilfe (BBK) startet
+aktuell das Pilotvorhaben &#8222;Geokompetenz im Bev&#246;lkerungsschutz&#8220;. Dabei steht die 
+Nutzung von Geoinformationstechnologie inkl. von Big Data und KI im Fokus.  
+Im Weiteren wird auf die Vorbemerkung 2 verwiesen. 
+8. Welches Ressort hat innerhalb der Bundesregierung die Federf&#252;hrung zum 
+Abgleich der unterschiedlichen und zum Teil parallellaufenden Aktivit&#228;ten 
+inne, und inwiefern achtet dieses dabei darauf, dass gr&#246;&#223;tm&#246;gliche
+Synergieeffekte erzielt werden? 
+Einen solchen Federf&#252;hrer f&#252;r Abgleich verschiedener Lagebilder gibt es derzeit 
+nicht. Allerdings dient die IT-Ma&#223;nahme &#8222;Analytics in der Bundesverwaltung&#8220; 
+der IT-Konsolidierung Bund genau dem Zweck, f&#252;r heutige und zuk&#252;nftige
+datengetriebene, analytische Anwendungsszenarien (auch BigData, Advanced
+Analytics, KI) Synergieeffekte &#252;ber ein definiertes Portfolio an Methoden und
+Techniken sowie einer konsolidierten Betriebsumgebung im Verbund der IT-
+Dienstleister des Bundes nutzbar zu machen.
+9. Welche konkreten Ziele hat die Bundesregierung hinsichtlich der
+Einsatzbereitschaft solcher Systeme? 
+Das Ziel ist, die bestehenden Instrumentennetzwerke und Algorithmen weiter 
+auszubauen und kontinuierlich hinsichtlich Robustheit und Zuverl&#228;ssigkeit zu 
+verbessern. 
+10. Wie und durch wen werden die internationale sowie die europ&#228;ische
+Zusammenarbeit, insbesondere im milit&#228;rischen Bereich, koordiniert? 
+Im Gesch&#228;ftsbereich des BMVg wird die internationale sowie die europ&#228;ische 
+Zusammenarbeit zur Erstellung von Lagebildern in den entsprechenden
+Fachreferaten im BMVg auf der Grundlage von Zusammenarbeitsvereinbarungen sowie 
+Vereinbarungen zum Austausch von Lageinformationen koordiniert. Im &#220;brigen 
+wird die Zusammenarbeit innerhalb der Bundesregierung durch die in Artikel 65 
+Grundgesetz (Kanzlerprinzip, Ressortprinzip) sowie der Gemeinsamen
+Gesch&#228;ftsordnung der Bundesministerien (&#167;&#167; 19 ff. und Abschnitt 8) definierte 
+Kompetenzverteilung geregelt. Der Chef des Kanzleramts koordiniert das
+Zusammenwirken der Ministerien. Siehe im &#220;brigen die tabellarische Darstellung 
+zu Frage 3 im Hinblick auf die Weitergabe von einzelnen Lagebildern im Sinne 
+der Fragestellung im internationalen Kontext. 
+11. Welche Partnerschaften mit Beauftragungen von privaten Unternehmen 
+existieren bez&#252;glich der Erstellung von Lagebildern bzw. Lageszenarien? 
+In der Regel sind bei den in Frage 1 aufgez&#228;hlten Lagebildern keine privaten
+Unternehmen beteiligt. F&#252;r das radiologische Lagebild des Bundes gem&#228;&#223; &#167; 108
+Absatz 2 Gesetz zum Schutz vor der sch&#228;dlichen Wirkung ionisierender Strahlung 
+(StrlSchG) erfolgt in Verbindung mit &#167; 106 Absatz 3 StrlSchG erhebliche
+Zuarbeit durch die Gesellschaft f&#252;r Anlagen- und Reaktorsicherheit.  
+Im Weiteren wird auf die Vorbemerkung 2 verwiesen. 
+12. Welche Vor- und Nachteile bestehen aus Sicht der Bundesregierung
+hinsichtlich der Zusammenarbeit mit privaten Anbietern bei der Erstellung von 
+Lagebildern bzw. Lageszenarien? 
+In der Regel erfolgt keine derartige Zusammenarbeit, so dass sich diese Frage nur 
+in Ausnahmef&#228;llen stellt. F&#252;r einzelne Lagebilder kann eine Zusammenarbeit f&#252;r 
+die Aufgabenerf&#252;llung aber auch unerl&#228;sslich sein, etwa bei der Ermittlung von 
+Sicherheitslagebildern zur Gefahrenabwehr f&#252;r &#246;ffentliche IT-Systeme.  
+13. In welchen Landesbeh&#246;rden werden nach Kenntnis der Bundesregierung zu 
+welchen Zwecken Lagebilder bzw. Lageszenarien generiert? 
+Die Bundesregierung hat keine umfassenden eigenen Erkenntnisse &#252;ber die in 
+Landesbeh&#246;rden generierten Lagebilder bzw. Lageszenarien.
+14. Plant die Bundesregierung, Ma&#223;nahmen zu ergreifen, um die
+Zusammenarbeit bei der Erstellung von Lagebildern bzw. Lageszenarien innerhalb des 
+Bundes sowie zwischen Bund und L&#228;ndern zu optimieren? 
+a) Wenn ja, welche?  
+b) Wenn nein, warum nicht? 
+Hinsichtlich des radiologischen Lagebildes sind Verbesserungspotentiale
+Gegenstand der Nachbereitung von &#220;bungen &#8211; auch gemeinsamen Bund-L&#228;nder-
+&#220;bungen &#8722; zum radiologischen Notfallschutz. Die Thematik wird bei Bedarf auch  
+im Arbeitskreis &#8222;Umweltradioaktivit&#228;t und Notfallschutz&#8220; des Fachausschusses 
+&#8222;Strahlenschutz&#8220; des L&#228;nderausschusses f&#252;r Atomkernenergie sowie im
+Ausschuss &#8222;Notfallschutz&#8220; der Strahlenschutzkommission behandelt. F&#252;r den
+Bereich Krisenfr&#252;herkennung wird gegenw&#228;rtig im BMVg die Etablierung eines 
+Kompetenzzentrums Krisenfr&#252;herkennung unter R&#252;ckgriff auf die ressorteigene 
+universit&#228;re Infrastruktur untersucht. Hierbei wird auch gepr&#252;ft, die Beteiligung 
+an einem solchen Zentrum weiteren Bundesressorts, die am
+ressort&#252;bergreifenden Prozess Krisenfr&#252;herkennung teilnehmen, als Angebot zu er&#246;ffnen. Im
+&#220;brigen wird auf die Antwort zu den Fragen 2 und 7 verwiesen. 
+15. Welche Herausforderungen sieht die Bundesregierung bei der Nutzung von 
+Big Data und K&#252;nstlicher Intelligenz zur Generierung von Lagebildern bzw. 
+Lageszenarien? 
+Die Bundesregierung ist bestrebt, die Chancen von Big Data und KI zur
+Generierung von Lagebildern und Lageszenarien zu erschlie&#223;en und f&#252;r Staat und
+Gesellschaft rechtskonform nutzbar zu machen.  
+Ein Handlungsfeld der im November 2018 verabschiedeten KI Strategie der
+Bundesregierung umfasst auch die Nutzung von KI f&#252;r hoheitliche Aufgaben. Darin 
+hei&#223;t es: &#8222;KI und die damit zusammenh&#228;ngenden Anwendungsm&#246;glichkeiten
+bieten objektiv betrachtet, wie andere Zukunftstechnologien auch, Chancen und
+Risiken f&#252;r die staatliche Sicherheitsvorsorge. 
+Insbesondere in Bereichen, in denen es um die Aufkl&#228;rung, Analyse und
+Auswertung von Daten geht, aber auch im Hinblick auf m&#246;gliche Angriffe mit KI-
+basierten Technologien gegen Staat, Wirtschaft und Gesellschaft, besteht die
+Notwendigkeit, geeignete Ma&#223;nahmen zur Gefahrenbewertung und entsprechende 
+Schutzmechanismen zu entwickeln.  
+Durch die Nutzung von KI k&#246;nnen neue Bedrohungsszenarien entstehen,
+beispielsweise zur Manipulation oder F&#228;lschung von Informationen. Selbst wenn  
+wir eine spezifische, technisch denkbare Anwendung aus politischen, rechtlichen  
+oder ethischen Gr&#252;nden k&#252;nftig ausschlie&#223;en sollten, ist es dennoch erforderlich, 
+sich mit den m&#246;glichen Auswirkungen ihrer Anwendung durch Dritte zu
+befassen, um f&#252;r Deutschland und seine Bev&#246;lkerung eine alle Aspekte umfassende 
+staatliche Sicherheitsvorsorge in der inneren und &#228;u&#223;eren Sicherheit
+gew&#228;hrleisten zu k&#246;nnen&#8220; (S. 32).  
+Generell k&#246;nnen fortgeschrittene Automatisierungssysteme erhebliche Chancen 
+bieten (z. B. f&#252;r die Forschung, die Innovationsf&#228;higkeit der Wirtschaft, die
+Optimierung von Verwaltungsprozessen und damit eine Entlastung von Ressourcen 
+und Verbesserung von Ergebnissen), bergen aber auch erhebliche Risiken (z. B. 
+f&#252;r die individuelle Handlungsfreiheit, f&#252;r informationelle Selbstbestimmung und 
+Privatsph&#228;renschutz sowie auch f&#252;r Teilhabe und Chancengleichheit einzelner 
+Menschen oder gesellschaftlicher Gruppen).
+Die Herausforderung besteht darin, das Recht f&#252;r das 21. Jahrhundert so
+fortzuentwickeln, dass die Menschenw&#252;rde (&#8222;ein Mensch darf nicht zum blo&#223;en Objekt 
+werden&#8220;) gewahrt bleibt und Grund- und Menschenrechte wie das allgemeine 
+Pers&#246;nlichkeitsrecht, die Privatsph&#228;re, das Recht auf informationelle
+Selbstbestimmung, die Diskriminierungsfreiheit, die Wissenschaftsfreiheit, die
+unternehmerische Freiheit und die Meinungs- und Informationsfreiheit garantiert und zu 
+einem Ausgleich gebracht werden. Dabei bestehen vielf&#228;ltige
+Spannungsverh&#228;ltnisse zwischen Gemeinwohlorientierung, Fortschritt, Innovation und
+Solidarprinzip. Daher hat die Bundesregierung eine Datenethikkommission eingesetzt, die 
+insbesondere Handlungsempfehlungen f&#252;r die Nutzung von Algorithmen-
+basierten Entscheidungssystemen und Anwendungen K&#252;nstlicher Intelligenz erarbeiten 
+soll. 
+16. Wie hoch waren die Kosten der bereits bestehenden Projekte zwischen 2004 
+und 2018 (bitte nach Jahren und Projekten aufschl&#252;sseln)? 
+Die Frage wird dahingehend verstanden, dass sich der Begriff &#8222;Projekte&#8220; auf die 
+unter Frage 1 dargestellten Lagebilder bezieht. Die Antworten der Ressorts sind 
+in der als Anlage beigef&#252;gten &#220;bersicht 1 zusammengefasst. 
+Im Weiteren wird auf die Vorbemerkungen 2 und 3 verwiesen. 
+17. Mit welchen Kosten plant die Bundesregierung f&#252;r die Fortf&#252;hrung bereits 
+bestehender Projekte bis 2022? 
+Ressort  Projektkosten 
+2019 2020 2021 2022 
+BMVg: 
+Realisierung IT-U  
+Einsatzbereitschaftslage 
+3,8 Mio. &#8364;     
+BMVg: 
+Realisierung IT-U  
+Digitalisierung  
+Lagebilder 
+ 5 Mio. &#8364; 5,7 Mio. &#8364; 5,8 Mio. &#8364; 
+BMVg: 
+GLZ CIR: 
+10,46 Mio. &#8364; 7,1 Mio. &#8364; 7,6 Mio. &#8364; 7,2 Mio. &#8364; 
+BMWi Mit Fortschreibung der Investitionen wie in Antwort zu Frage 16. Zudem 
+wird der Aufbau eines Starkbebenmessnetzes f&#252;r Deutschland mit etwa 
+600 Seismometerstationen ein Volumen von ~400.00 &#8364;/a und 1 VZ&#196;/a 
+umfassen. 
+BMU Damit die Gesellschaft f&#252;r Anlagen- und Reaktorsicherheit ihrer
+gesetzlichen Aufgabe (&#167; 108 Absatz 2 in Verbindung mit &#167; 106 Absatz 3 
+StrlSchG) nachkommen kann, werden weiterhin Kosten in der
+Gr&#246;&#223;enordnung von ca. 1.000.000 &#8364;/a auflaufen 
+Im Weiteren wird auf die Vorbemerkungen 2 und 3 verwiesen.
+18. Mit welchen Kosten rechnet die Bundesregierung f&#252;r die in Frage 2 erfragten 
+zuk&#252;nftigen Projekte zur Lagebildgenerierung (bitte nach Entwicklungs- und 
+Instandhaltungskosten getrennt auflisten)? 
+Bezeichnung des zuk&#252;nftigen Projekts Kostenplanung 
+Entwicklungskosten Instandhaltungskosten 
+AA-Projekte:  
+PREVIEW und  
+Lagezentrum der Bundesregierung f&#252;r 
+Au&#223;en- und Sicherheitspolitik 
+jeweils noch nicht bezifferbar   
+BMVg-Projekt:  
+IT-Unterst&#252;tzung  
+Krisenfr&#252;herkennung 
+6,7 Mio. Euro f&#252;r 2019 und 
+12,4 Mio. Euro f&#252;r 2020 
+1,14 Mio. Euro f&#252;r die Jahre 2021 
+bzw. 2022 (Nutzungskosten) 
+BMVg-Projekt: 
+Digitalisierung Lagebilder 
+40 Mio. Euro f&#252;r den Zeitraum 
+2020 - 2027 
+ 
+Im Weiteren wird auf die Vorbemerkungen 2 und 3 verwiesen. 
+19. Welche Synergieeffekte und Kostenersparnisse h&#228;lt die Bundesregierung bei 
+einem ressort&#252;bergreifenden Software- und Lizenzmanagement sowie einer 
+B&#252;ndelung der Kompetenzen f&#252;r Big Data und KI zur Lagebilderstellung f&#252;r 
+m&#246;glich? 
+Synergieeffekte und Kostenersparnisse durch ein ressort&#252;bergreifendes Software- 
+und Lizenzmanagement ergeben sich aus der dadurch sichergestellten
+Wirtschaftlichkeit der Mittelverwendung in Bezug auf immaterielle Verm&#246;gensg&#252;ter des 
+Bundes sowie aus B&#252;ndelungseffekten bei Beschaffung und Pooling von
+Lizenzen, sofern dies lizenzrechtlich m&#246;glich ist. Weitere Synergieeffekte und
+Kostenersparnisse sind im Rahmen der IT-Konsolidierung des Bundes bezogen auf die 
+entsprechenden Dienste im Kontext der Ma&#223;nahme &#8222;Analytics in der
+Bundesverwaltung&#8220; zu erwarten, da hier ressort&#252;bergreifend nutzbare Betriebsumgebungen 
+f&#252;r daten-getriebene Anwendungsszenarien geschaffen und ggf. heute dezentrale 
+IT-L&#246;sungen zusammengef&#252;hrt werden sollen. 
+20. Inwieweit strebt die Bundesregierung an, das Erstellen von Lagebildern bzw. 
+Lageszenarien in den Prozess der IT-Konsolidierung des Bundes
+einzubetten, um zus&#228;tzliche Synergieeffekte zu nutzen? 
+Grunds&#228;tzlich wird mit der IT-Ma&#223;nahme &#8222;Analytics in der Bundesverwaltung&#8220; 
+im Rahmen der IT-Konsolidierung Bund das Ziel verfolgt, die systemtechnische 
+Unterst&#252;tzung f&#252;r die Beschaffung, Nutzung und Visualisierung von Daten f&#252;r 
+Lageszenarien &#252;ber geeignete und zentrale betriebene IT-L&#246;sungen auf Basis
+eines vordefinierten Portfolios an Methoden und Techniken zu unterst&#252;tzen. &#220;ber 
+die Konsolidierbarkeit von Fachanwendungen der jeweiligen
+Sicherheitsbeh&#246;rden, die zum Erstellen von Lagebildern bzw. Lageszenarien genutzt werden, muss 
+im jeweiligen Beh&#246;rdenprojekt im Rahmen der IT-Konsolidierung Bund
+entschieden werden. Sofern eine Fachanwendung zur Erzeugung solcher Lagebilder 
+bzw. Lageszenarien eingesetzt wird, die gem&#228;&#223; VSA als &#8222;VS &#8211; Vertraulich&#8220; oder 
+h&#246;her eingestuft werden, unterf&#228;llt diese nicht dem Zust&#228;ndigkeitsbereich der IT-
+Konsolidierung Bund.
+21. Strebt die Bundesregierung an, eigene Kompetenzen auf dem Feld Big Data 
+und KI zur Lagebilderstellung zu entwickeln, oder setzt die Bundesregierung 
+hier auf privatwirtschaftliche Software und Kompetenzen? 
+a) Falls die Bundesregierung eigene Kompetenzen aufbauen m&#246;chte, wie 
+will sie dies tun? 
+b) Falls die Bundesregierung keine eigenen Kompetenzen aufbauen m&#246;chte, 
+warum nicht? 
+Die Unterfragen werden gemeinsam beantwortet. Die Bundesregierung strebt so 
+weit wie m&#246;glich an, ihre Kompetenzen im Bereich Data Analytics auszubauen. 
+Hierzu sollen eigene personelle Kompetenzen entwickelt werden. Dazu muss in 
+das eigene Personal investiert werden. Zudem wird der Austausch mit
+&#246;ffentlichen Institutionen insbesondere auch auf internationaler Ebene und der
+wissenschaftlichen Gemeinschaft gef&#246;rdert, sowie der begleitende Austausch mit
+privatwirtschaftlichen Experten.
+K
+le
+in
+e
+ A
+n
+fr
+a
+g
+e
+ d
+e
+s
+ A
+b
+g
+e
+o
+rd
+n
+e
+te
+n
+ O
+tt
+o
+ F
+ri
+c
+k
+e
+ u
+. 
+a
+. 
+u
+n
+d
+ d
+e
+r 
+F
+ra
+k
+ti
+o
+n
+ d
+e
+r 
+F
+D
+P
+ 
+E
+rs
+te
+lle
+n
+ v
+o
+n
+ L
+a
+g
+e
+b
+ild
+e
+rn
+ d
+u
+rc
+h
+ B
+ig
+ D
+a
+ta
+ 
+B
+T
+-D
+ru
+c
+k
+s
+a
+c
+h
+e
+ 1
+9
+/9
+5
+6
+7
+ 
+A
+n
+tw
+o
+rt
+ z
+u
+ F
+ra
+g
+e
+ 1
+6
+ (
+o
+ff
+e
+n
+e
+r 
+T
+e
+il)
+ 
+B
+e
+z
+e
+ic
+h
+n
+u
+n
+g
+ d
+e
+s
+ 
+L
+a
+g
+e
+b
+il
+d
+s
+, 
+-s
+z
+e
+n
+a
+ri
+o
+ 
+K
+o
+s
+te
+n
+ 2
+0
+0
+4
+ -
+2
+0
+1
+8
+ 
+2
+0
+0
+4
+ -
+2
+0
+0
+8
+ 
+2
+0
+0
+9
+ 
+2
+0
+1
+0
+ 
+2
+0
+1
+1
+ 
+2
+0
+1
+2
+ 
+2
+0
+1
+3
+ 
+2
+0
+1
+4
+ 
+2
+0
+1
+5
+ 
+2
+0
+1
+6
+ 
+2
+0
+1
+7
+ 
+2
+0
+1
+8
+ 
+B
+M
+V
+g
+ 
+D
+ig
+it
+a
+li
+s
+ie
+ru
+n
+g
+ L
+a
+g
+e
+b
+il
+d
+e
+r,
+ 
+E
+in
+z
+e
+lp
+ro
+je
+k
+te
+ 
+F
+a
+c
+h
+k
+o
+n
+ze
+p
+t 
+E
+in
+s
+a
+tz
+b
+e
+re
+it
+s
+c
+h
+a
+ft
+s
+la
+g
+e
+ 
+4
+.3
+0
+0
+.0
+0
+0
+ &#8364;
+ 
+5
+.3
+0
+0
+.0
+0
+0
+ &#8364;
+ 
+R
+e
+a
+lis
+ie
+ru
+n
+g
+ I
+T
+-U
+ 
+E
+in
+s
+a
+tz
+b
+e
+re
+it
+s
+c
+h
+a
+ft
+s
+la
+g
+e
+ 
+4
+0
+0
+.0
+0
+0
+ &#8364;
+ 
+3
+.5
+0
+0
+.0
+0
+0
+ &#8364;
+ 
+R
+e
+a
+lis
+ie
+ru
+n
+g
+ I
+T
+-U
+ I
+n
+n
+e
+re
+ 
+S
+o
+zi
+a
+le
+ L
+a
+g
+e
+ (
+IS
+O
+L
+A
+) 
+7
+0
+0
+.0
+0
+0
+ &#8364;
+ 
+7
+0
+0
+.0
+0
+0
+ &#8364;
+ 
+R
+e
+a
+lis
+ie
+ru
+n
+g
+ I
+T
+-U
+ 
+F
+&#228;
+h
+ig
+k
+e
+it
+s
+la
+g
+e
+ 
+1
+0
+0
+.0
+0
+0
+ &#8364;
+ 
+7
+0
+0
+.0
+0
+0
+ &#8364;
+ 
+2
+.4
+0
+0
+.0
+0
+0
+ &#8364;
+ 
+1
+.3
+0
+0
+.0
+0
+0
+ &#8364;
+ 
+F
+a
+c
+h
+k
+o
+n
+ze
+p
+t 
+L
+o
+g
+is
+ti
+s
+c
+h
+e
+s
+ 
+L
+a
+g
+e
+b
+ild
+ 
+3
+.5
+0
+0
+.0
+0
+0
+ &#8364;
+ 
+F
+a
+c
+h
+k
+o
+n
+ze
+p
+t 
+  
+  
+  
+  
+  
+  
+  
+IT
+-
+R
+e
+s
+s
+o
+u
+rc
+e
+n
+la
+g
+e
+ 
+1
+.5
+0
+0
+.0
+0
+0
+ &#8364;
+ 
+F
+a
+c
+h
+k
+o
+n
+ze
+p
+t 
+A
+u
+s
+b
+ild
+u
+n
+g
+s
+la
+g
+e
+ 
+3
+0
+0
+.0
+0
+0
+ &#8364;
+ 
+G
+L
+Z
+ C
+IR
+ 
+1
+2
+.8
+0
+0
+.0
+0
+0
+ &#8364;
+ 
+2
+2
+.4
+0
+0
+.0
+0
+0
+ &#8364;
+ 
+B
+M
+W
+i 
+E
+s
+ k
+a
+n
+n
+ n
+u
+r 
+e
+in
+ j
+&#228;
+h
+rl
+ic
+h
+e
+r 
+M
+it
+te
+lw
+e
+rt
+ g
+e
+s
+c
+h
+&#228;
+tz
+t 
+w
+e
+rd
+e
+n
+: 
+ru
+n
+d
+. 
+2
+1
+0
+.0
+0
+0
+ &#8364;
+ 
+B
+M
+U
+ 
+R
+a
+d
+io
+lo
+g
+is
+c
+h
+e
+s
+ L
+a
+g
+e
+b
+il
+d
+, 
+G
+e
+s
+e
+ll
+s
+c
+h
+a
+ft
+ f
+&#252;
+r 
+A
+n
+la
+g
+e
+n
+-
+u
+n
+d
+ R
+e
+a
+k
+to
+rs
+ic
+h
+e
+rh
+e
+it
+ 
+g
+G
+m
+b
+H
+ (
+G
+R
+S
+) 
+D
+ie
+ g
+e
+s
+e
+tz
+lic
+h
+e
+ A
+u
+fg
+a
+b
+e
+ d
+e
+r 
+G
+R
+S
+ b
+e
+s
+te
+h
+t 
+e
+rs
+t 
+s
+e
+it
+ d
+e
+m
+ e
+rs
+te
+n
+ O
+k
+to
+b
+e
+r 
+2
+0
+1
+7
+, 
+d
+ie
+ t
+a
+ts
+&#228;
+c
+h
+lic
+h
+e
+n
+ j
+&#228;
+h
+rl
+ic
+h
+e
+n
+ K
+o
+s
+te
+n
+ f
+&#252;
+r 
+d
+ie
+ 
+V
+o
+rh
+a
+lt
+u
+n
+g
+e
+n
+ d
+e
+r 
+G
+R
+S
+ w
+e
+rd
+e
+n
+ s
+ic
+h
+ b
+e
+i 
+e
+tw
+a
+ 1
+.0
+0
+0
+.0
+0
+0
+ &#8364;
+ p
+ro
+ J
+a
+h
+r 
+e
+in
+p
+e
+n
+d
+e
+ln
+. 
+2
+1
+3
+.0
+0
+0
+ &#8364;
+ 
+7
+4
+2
+.0
+0
+0
+ &#8364;
+ 
+Satz: Satzweiss.com Print, Web, Software GmbH, Mainzer Stra&#223;e 116, 66121 Saarbr&#252;cken, www.satzweiss.com
+Druck: Printsystem GmbH, Schafw&#228;sche 1-3, 71296 Heimsheim, www.printsystem.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de 
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/9567 -
+Erstellen von Lagebildern durch Big Data</titel>
+    <datum>2019-05-21</datum>
+  </document>
+  

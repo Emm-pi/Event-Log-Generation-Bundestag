@@ -1,0 +1,2125 @@
+<document>
+    <id>253010</id>
+    <drucksachetyp>Beschlussempfehlung und Bericht</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>6</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>4</vorgangsbezug_anzahl>
+    <dokumentnummer>19/28844</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>003736c48af8b99ff4e540f456897eb7</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:15+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>272245</id>
+      <titel>Zweites Gesetz zur Erh&#246;hung der Sicherheit informationstechnischer Systeme</titel>
+      <vorgangstyp>Gesetzgebung</vorgangstyp>
+    </vorgangsbezug>
+    <vorgangsbezug>
+      <id>272963</id>
+      <titel>Evaluierung des IT-Sicherheitsgesetzes von 2015 nach Gesetzeslage umsetzen und Ergebnisse im IT-Sicherheitsgesetz 2.0 ber&#252;cksichtigen</titel>
+      <vorgangstyp>Antrag</vorgangstyp>
+    </vorgangsbezug>
+    <vorgangsbezug>
+      <id>233629</id>
+      <titel>IT-Sicherheit st&#228;rken, Freiheit erhalten, Frieden sichern</titel>
+      <vorgangstyp>Antrag</vorgangstyp>
+    </vorgangsbezug>
+    <vorgangsbezug>
+      <id>272991</id>
+      <titel>IT-Sicherheitsgesetz 2.0 - Planungs- und Rechtssicherheit f&#252;r Netzbetreiber herstellen</titel>
+      <vorgangstyp>Antrag</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>InnenA</bezeichnung>
+      <titel>Ausschuss f&#252;r Inneres und Heimat</titel>
+    </urheber>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/288/1928844.pdf</pdf_url>
+      <id>253010</id>
+      <dokumentnummer>19/28844</dokumentnummer>
+      <datum>2021-04-21</datum>
+      <verteildatum>2021-04-21</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Beschlussempfehlung und Bericht</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Ausschuss f&#252;r Inneres und Heimat</urheber>
+    </fundstelle>
+    <autoren_anzeige>
+      <id>2068</id>
+      <titel>Christoph Bernstiel, MdB, CDU/CSU</titel>
+      <autor_titel>Christoph Bernstiel, Berichterstattung</autor_titel>
+    </autoren_anzeige>
+    <autoren_anzeige>
+      <id>7625</id>
+      <titel>Joana Cotar, MdB, AfD</titel>
+      <autor_titel>Joana Cotar, Berichterstattung</autor_titel>
+    </autoren_anzeige>
+    <autoren_anzeige>
+      <id>1668</id>
+      <titel>Sebastian Hartmann, MdB, SPD</titel>
+      <autor_titel>Sebastian Hartmann, Berichterstattung</autor_titel>
+    </autoren_anzeige>
+    <autoren_anzeige>
+      <id>1062</id>
+      <titel>Manuel H&#246;ferlin, MdB, FDP</titel>
+      <autor_titel>Manuel H&#246;ferlin, Berichterstattung</autor_titel>
+    </autoren_anzeige>
+    <text>[Deutscher Bundestag Drucksache 19/28844 
+19. Wahlperiode 21.04.2021 
+Beschlussempfehlung und Bericht
+des Ausschusses f&#252;r Inneres und Heimat (4. Ausschuss)
+a) zu dem Gesetzentwurf der Bundesregierung
+&#8211; Drucksachen 19/26106, 19/26921, 19/27035 1.7 &#8211;
+Entwurf eines Zweiten Gesetzes zur Erh&#246;hung der Sicherheit
+informationstechnischer Systeme
+b) zu dem Antrag der Abgeordneten Joana Cotar, Uwe Schulz, Dr. Michael
+Espendiller, weiterer Abgeordneter und der Fraktion der AfD
+&#8211; Drucksache 19/26225 &#8211;
+Evaluierung des IT-Sicherheitsgesetzes von 2015 nach Gesetzeslage
+umsetzen und Ergebnisse im IT-Sicherheitsgesetz 2.0 ber&#252;cksichtigen 
+c) zu dem Antrag der Abgeordneten Uwe Schulz, Joana Cotar, Dr. Michael
+Espendiller und der Fraktion der AfD
+&#8211; Drucksache 19/26226 &#8211;
+IT-Sicherheitsgesetz 2.0 &#8211; Planungs- und Rechtssicherheit f&#252;r 
+Netzbetreiber herstellen
+d) zu dem Antrag der Abgeordneten Dr. Konstantin von Notz, Tabea R&#246;&#223;ner,
+Kerstin Andreae, weiterer Abgeordneter und der Fraktion B&#220;NDNIS 90/DIE
+GR&#220;NEN
+&#8211; Drucksache 19/1328 &#8211;
+IT-Sicherheit st&#228;rken, Freiheit erhalten, Frieden sichern
+A. Problem
+Zu Buchstabe a
+Die Gew&#228;hrleistung der Cyber- und Informationssicherheit ist ein Schl&#252;sselthema 
+f&#252;r Staat, Wirtschaft und Gesellschaft. Gerade mit Blick auf die zunehmende
+Digitalisierung aller Lebensbereiche sind sie auf funktionierende Informations- und
+Kommunikationstechnik angewiesen &#8211; sei es f&#252;r den Informationsaustausch, die
+Produktion, den Konsum, Dienstleistungen oder zur Pflege privater Kontakte.
+Voraussetzung hierf&#252;r ist eine sichere Infrastruktur. 
+Cyber-Angriffe stellen f&#252;r Staat, Wirtschaft und Gesellschaft daher ein gro&#223;es
+Gefahrenpotential dar. Die Angriffe werden qualitativ immer ausgefeilter und
+somit f&#252;r alle Betroffenen auch gef&#228;hrlicher. Das Bundesamt f&#252;r Sicherheit in der
+Informationstechnik (BSI) beobachtet einen stetigen Anstieg von
+Schadprogrammen, j&#228;hrlich kommen mehr als 100 Millionen neue Varianten hinzu. Die
+Schadsoftware &#8222;Emotet&#8220; dominiert bereits seit Jahren die Gef&#228;hrdungslage. 
+Vorf&#228;lle wie die Ransomware &#8222;WannaCry&#8220; verdeutlichen die Situation.
+Mittlerweile werden Daten bei Ransomware-Angriffen nicht mehr nur verschl&#252;sselt,
+sondern zudem vorher kopiert und ausgeleitet. Auch die Aufdeckung von
+Schwachstellen in Computerchips wie &#8222;Meltdown&#8220; und &#8222;Spectre&#8220; machen die
+Anf&#228;lligkeit f&#252;r Sicherheitsl&#252;cken besonders deutlich. Daneben hat der zu Beginn
+des Jahres 2018 in den Medien bekanntgewordene Angriff auf die
+Kommunikationsinfrastrukturen des Ausw&#228;rtigen Amts deutlich gemacht, dass der Staat seine
+Schutzma&#223;nahmen anpassen muss. 
+Die zunehmende Verbreitung von &#8222;Internet of Things (IoT)&#8220;-Ger&#228;ten versch&#228;rft
+die Situation zus&#228;tzlich. Diese Ger&#228;te werden teilweise nicht unter
+Sicherheitsaspekten entwickelt und lassen sich hierdurch zu gro&#223;en Bot-Netzen
+zusammenschalten. Dieser Gefahr gilt es zu begegnen.
+Insgesamt ist Cyber-Sicherheit nicht statisch, ein aktuelles Schutzniveau ist daher
+kein Garant f&#252;r eine erfolgreiche Abwehr der Angriffe von morgen. Daher bedarf
+es einer st&#228;ndigen Anpassung und Weiterentwicklung der Schutzmechanismen 
+und der Abwehrstrategien. 
+Zu Buchstabe b
+Die Fraktion der AfD fordert, eine Evaluierung mit einem vom Deutschen
+Bundestag bestellten wissenschaftlichen Sachverst&#228;ndigen zur aktuellen Reform
+durchzuf&#252;hren, um die Wirksamkeit der regulierenden Ma&#223;nahmen zu &#252;berpr&#252;fen
+und die IT-Sicherheit in Deutschland nachhaltig zu verbessern. Die Pflicht zur
+Evaluierung ergebe sich aus Artikel 10 des IT-Sicherheitsgesetzes. 
+Sie fordert die Bundesregierung daher auf, das Gesetzgebungsverfahren solange
+zu pausieren, bis eine Evaluierung zu dem Entwurf des IT-Sicherheitsgesetzes 2.0
+unter Einbeziehung eines wissenschaftlichen Sachverst&#228;ndigen durchgef&#252;hrt ist,
+um deren Ergebnisse in das Gesetzesvorhaben einflie&#223;en zu lassen.
+Zu Buchstabe c
+Die Fraktion der AfD ist der Auffassung, aufgrund der zunehmenden
+Digitalisierung von Verwaltung, Wirtschaft und Gesellschaft spiele die IT- und Cyber-
+Sicherheit eine &#252;bergeordnete Rolle. Vielerorts werde die Bev&#246;lkerung bereits mit
+einem 5G-Netz versorgt. F&#252;r die Produktpflege der Netzwerkkomponenten, wie
+die Durchf&#252;hrung von Software-Updates, Firmware-Updates und die Schlie&#223;ung
+von Sicherheitsl&#252;cken, sei der Hersteller, nicht der Betreiber zust&#228;ndig. Aufgrund
+dessen sei esvon gro&#223;er Relevanz, dass die Hersteller der Netzwerkkomponenten
+keine missbr&#228;uchlichen Zugriffsm&#246;glichkeiten auf Hard- und Software
+implementieren oder sonstige Handlungen vornehmen k&#246;nnten, die Sabotage oder
+Spionage erm&#246;glichten.
+Die Fraktion der AfD fordert die Bundesregierung daher auf, eine politische
+Entscheidung dar&#252;ber zu treffen, ob andere L&#228;nder grunds&#228;tzlich am Ausbau der 5G-
+Netze durch das Bereitstellen von Netzwerkkomponenten beteiligt werden
+d&#252;rfen. Zudem fordert sie, bei einem Ausschluss der Beteiligung am Ausbau der 5G-
+Netze durch andere L&#228;nder eine Kompensationsregelung f&#252;r die
+Mobilfunknetzbetreiber gesetzlich zu regeln, um eine Planungs- und Rechtssicherheit f&#252;r
+Mobilfunknetzbetreiber herzustellen.  
+Zu Buchstabe d
+Die Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN betont, die St&#228;rkung der IT-Sicherheit
+sei eine zentrale Bedingung f&#252;r eine erfolgreiche gesellschaftliche Gestaltung der
+Digitalisierung. Dabei habe auch die Schaffung von Vertrauen in digitale
+Angebote und Infrastrukturen eine grundlegende Bedeutung. Durch einen IT-Angriff
+auf das besonders gesicherte deutsche Regierungsnetz sei die Notwendigkeit einer
+St&#228;rkung und Verbesserung der IT-Sicherheit deutlich geworden. Die bisherigen
+gesetzlichen Regelungen zum Schutz digitaler Infrastrukturen und
+Kommunikation seien unzureichend und schafften kein Vertrauen in digitale Angebote und
+Infrastrukturen.  
+Die Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN fordert die Bundesregierung daher
+insbesondere auf, die IT-Sicherheit als verfassungsrechtliche
+Gew&#228;hrleistungspflicht des Staates zu statuieren, indem sie die Schutzpflichten aus dem
+Grundrecht auf Vertraulichkeit und Integrit&#228;t informationstechnischer Systeme als
+oberste Priorit&#228;t f&#252;r einen sicheren Umgang mit der Digitalisierung anerkennt.
+B. L&#246;sung
+Zu Buchstabe a
+Entsprechend dem Auftrag aus dem Koalitionsvertrag zwischen CDU, CSU und
+SPD f&#252;r die 19. Legislaturperiode wird der mit dem Gesetz zur Erh&#246;hung der
+Sicherheit informationstechnischer Systeme (IT-Sicherheitsgesetz) vom 17. Juli
+2015 (BGBl. I S. 1324) geschaffene Ordnungsrahmen durch das Zweite Gesetz
+zur Erh&#246;hung der Sicherheit informationstechnischer Systeme (Zweites IT-
+Sicherheitsgesetz &#8211; IT-Sicherheitsgesetz 2.0) erweitert. Schwerpunktm&#228;&#223;ig werden
+folgende &#196;nderungen vorgenommen:
+&#8211; Verbesserung des Schutzes der IT der Bundesverwaltung u. a. durch weitere
+Pr&#252;f- und Kontrollbefugnisse des BSI und Festlegung von Mindeststandards
+durch das BSI. 
+&#8211; Schaffung von Befugnissen zur Detektion von Schadprogrammen zum
+Schutz der Regierungsnetze. 
+&#8211; Abfrage von Bestandsdaten bei Anbietern von
+Telekommunikationsdiensten, um Betroffene &#252;ber Sicherheitsl&#252;cken und Angriffe zu informieren.
+&#8211; Befugnis f&#252;r das BSI, Sicherheitsl&#252;cken an den Schnittstellen
+informationstechnischer Systeme zu &#246;ffentlichen TK-Netzen zu detektieren sowie Einsatz
+von Systemen und Verfahren zur Analyse von Schadprogrammen und
+Angriffsmethoden.
+&#8211; Schaffung einer Anordnungsbefugnis des BSI gegen&#252;ber
+Telekommunikations- und Telemedienanbietern zur Abwehr spezifischer Gefahren f&#252;r die
+Informationssicherheit.  
+&#8211; Ausweitung der Pflichten f&#252;r Betreiber Kritischer Infrastrukturen und
+weiterer Unternehmen im besonderen &#246;ffentlichen Interesse.  
+&#8211; Schaffung von Eingriffsbefugnissen f&#252;r den Einsatz und Betrieb von
+kritischen Komponenten. 
+&#8211; Etablierung von Verbraucherschutz im Bereich der Informationssicherheit
+als zus&#228;tzliche Aufgabe des BSI. 
+&#8211; Schaffung der Voraussetzungen f&#252;r ein einheitliches IT-
+Sicherheitskennzeichen, das die IT-Sicherheit der Produkte sichtbar macht. 
+&#8211; &#220;berarbeitung des Bu&#223;geldregimes. 
+Der Ausschuss f&#252;r Inneres und Heimat hat beschlossen, den Gesetzentwurf im
+Wesentlichen um folgende Ma&#223;nahmen abzu&#228;ndern und zu erg&#228;nzen:
+&#8211; Das BSI nimmt als zentrale Stelle f&#252;r Informationssicherheit auf nationaler
+Ebene seine beratenden Aufgaben gegen&#252;ber den Stellen des Bundes
+aufgrund &#8222;wissenschaftlich-technischer Erkenntnisse&#8220; wahr.
+&#8211; Die Bestimmung der Schutzziele der Informationssicherheit wird gesch&#228;rft. 
+&#8211; Die Bereichsausnahmen bei der Kontrollbefugnis des BSI werden
+eingeschr&#228;nkt auf Auslands-IT und die IT der Streitkr&#228;fte sowie des MAD.
+&#8211; Die Befugnisse des BSI zur Entgegennahme von Informationen zu
+Schwachstellen und Meldung an betroffene IT-Hersteller werden ausgebaut.
+&#8211; IT-Verantwortliche sollen unverz&#252;glich &#252;ber detektierte Sicherheitsrisiken 
+informiert werden.  
+&#8211; Die Speicherdauer von pseudonymisierten Daten soll zur Analyse und
+Abwehr von Angriffen auf die Kommunikationstechnik des Bundes auf 18
+Monate verl&#228;ngert werden. 
+&#8211; Die Kontrollbefugnisse des BSI werden erleichtert, weil keine vorherige
+Absprache mehr mit den zu pr&#252;fenden Stellen des Bundes (Beh&#246;rden und
+Ressorts) vorgesehen ist.
+&#8211; Die Befugnis zur Bestandsdatenauskunft wird rechtstechnisch an das Gesetz
+zur Anpassung der Regelungen &#252;ber die Bestandsdatenauskunft an die
+Vorgaben aus der Entscheidung des Bundesverfassungsgerichts vom 27. Mai
+2020 (BGBl. 2021 I S. 448) angepasst. 
+&#8211; Das BSI kann nunmehr im Benehmen mit den Ressorts Mindeststandards
+verbindlich festlegen.
+&#8211; Zu den Unternehmen im besonderen &#246;ffentlichen Interesse, die als
+Erg&#228;nzung zu den Betreibern Kritischer Infrastrukturen vom Anwendungsbereich
+des BSI-Gesetzes erfasst werden, sollen auch Zulieferer mit
+Alleinstellungsmerkmal f&#252;r die nach ihrer Wertsch&#246;pfung gr&#246;&#223;ten Unternehmen in
+Deutschland z&#228;hlen. 
+&#8211; Die Voraussetzungen f&#252;r die Untersagung kritischer Komponenten wurden
+konkretisiert (bspw. Kontrolle des Herstellers durch Drittstaaten,
+Zuwiderlaufen gegen sicherheitspolitische Ziele).  
+&#8211; Die Frist zur Untersagung des erstmaligen Einsatzes kritischer
+Komponenten (Ex-ante-Untersagung) wurde auf zwei bzw. vier Monate verl&#228;ngert. 
+&#8211; Das BMI entscheidet nun im Benehmen statt im Einvernehmen mit den 
+Fachressorts und dem AA &#252;ber den erstmaligen Einsatz.
+&#8211; Einf&#252;hrung einer Pflicht des BMI, den Innenausschuss kalenderj&#228;hrlich &#252;ber
+die Anwendung des Gesetzes zu unterrichten.
+Annahme des Gesetzentwurfs auf Drucksachen 19/26106, 19/26921 in
+ge&#228;nderter Fassung mit den Stimmen der Fraktionen der CDU/CSU und SPD
+gegen die Stimmen der Fraktionen AfD, FDP, DIE LINKE. und B&#220;NDNIS
+90/DIE GR&#220;NEN.
+Zu Buchstabe b
+Ablehnung des Antrags auf Drucksache 19/26225 mit den Stimmen der
+Fraktionen CDU/CSU, SPD, FDP, DIE LINKE. und B&#220;NDNIS 90/DIE GR&#220;NEN
+gegen die Stimmen der Fraktion der AfD.
+Zu Buchstabe c
+Ablehnung des Antrags auf Drucksache 19/26226 mit den Stimmen der
+Fraktionen CDU/CSU, SPD, FDP, DIE LINKE. und B&#220;NDNIS 90/DIE GR&#220;NEN
+gegen die Stimmen der Fraktion der AfD.
+Zu Buchstabe d
+Ablehnung des Antrags auf Drucksache 19/1328 mit den Stimmen der
+Fraktionen der CDU/CSU, SPD und AfD gegen die Stimmen der Fraktionen DIE
+LINKE. und B&#220;NDNIS 90/DIE GR&#220;NEN bei Stimmenthaltung der
+Fraktion der FDP.
+C. Alternativen
+Ablehnung des Gesetzentwurfs zu Buchstabe a und/oder Annahme der Vorlagen
+auf Buchstaben b bis d.
+D. Haushaltsausgaben ohne Erf&#252;llungsaufwand
+Zu Buchstabe a
+Der unter E. dargestellte Erf&#252;llungsaufwand wird voraussichtlich in vollem
+Umfang haushaltswirksam. 
+Der entsprechende Bedarf an Sach- und Personalmitteln sowie Planstellen und
+Stellen soll finanziell und stellenm&#228;&#223;ig in den jeweils betroffenen Einzelpl&#228;nen
+ausgeglichen werden.
+E. Erf&#252;llungsaufwand
+E.1 Erf&#252;llungsaufwand f&#252;r B&#252;rgerinnen und B&#252;rger
+Zu Buchstabe a
+Es entsteht kein Erf&#252;llungsaufwand f&#252;r die B&#252;rgerinnen und B&#252;rger.
+E.2 Erf&#252;llungsaufwand f&#252;r die Wirtschaft
+Zu Buchstabe a
+Der Wirtschaft entsteht f&#252;r die Erf&#252;llung der im Gesetz vorgesehenen
+zus&#228;tzlichen Aufgaben ein laufender Erf&#252;llungsaufwand in H&#246;he von 21,64 Mio. Euro.
+Davon entfallen 3,86 Mio. Euro auf j&#228;hrliche Personalkosten und rund 17,78 Mio.
+Euro auf j&#228;hrliche Sachkosten. Hiervon entfallen wiederum 0,35 Mio. Euro auf
+B&#252;rokratiekosten durch Informationspflichten. Der einmalige Erf&#252;llungsaufwand
+in Form von einmaligen Personalkosten bel&#228;uft sich auf 0,04 Mio. Euro.
+E.3 Erf&#252;llungsaufwand der Verwaltung
+Der Verwaltung entsteht f&#252;r die Erf&#252;llung der im Gesetz vorgesehenen
+zus&#228;tzlichen Aufgaben ein Aufwand von insgesamt 1.585,8 Planstellen/Stellen (705,5
+hD; 782,30 gD; 98 mD) mit einem j&#228;hrlichen Erf&#252;llungsaufwand in H&#246;he von
+202,23 Mio. Euro. Davon entfallen 133,12 Mio. Euro auf j&#228;hrliche Personalkosten
+und 69,12 Mio. Euro auf j&#228;hrliche Sachkosten. Durch die gesetzliche &#196;nderung
+entstehen einmalige Sachkosten in H&#246;he von 31,7 Mio. Euro. 
+Davon entfallen auf
+&#8211; das Bundesministerium des Innern, f&#252;r Bau und Heimat (BMI)
+einschlie&#223;lich seines Gesch&#228;ftsbereichs 858 Planstellen/Stellen (552 hD; 303 gD; 3
+mD) mit einem j&#228;hrlichen Erf&#252;llungsaufwand in H&#246;he von 129,26 Mio.
+Euro. Davon entfallen 78,95 Mio. Euro auf j&#228;hrliche Personalkosten und
+50,3 Mio. Euro auf j&#228;hrliche Sachkosten. Durch die gesetzliche &#196;nderung
+entstehen einmalige Sachkosten in H&#246;he von 28,06 Mio. Euro;
+&#8211; den Bundesbeauftragten f&#252;r den Datenschutz und die Informationsfreiheit
+(BfDI) 15 Planstellen/Stellen (9 hD; 6 gD) mit einem j&#228;hrlichen
+Erf&#252;llungsaufwand in H&#246;he von 1,73 Mio. Euro. Davon entfallen 1,36 Mio. Euro auf
+j&#228;hrliche Personalkosten und 0,37 Mio. Euro auf j&#228;hrliche Sachkosten;
+&#8211; das Ausw&#228;rtige Amt (AA) einschlie&#223;lich seines Gesch&#228;ftsbereichs
+insgesamt 51 Planstellen/Stellen (14 hD; 29 gD; 8 mD) mit einem j&#228;hrlichen
+Erf&#252;llungsaufwand in H&#246;he von 5,85 Mio. Euro. Davon entfallen 3,88 Mio.
+Euro auf j&#228;hrliche Personalkosten und 1,97 Mio. Euro auf j&#228;hrliche
+Sachkosten. Zus&#228;tzlich entstehen einmalig Sachkosten in H&#246;he von 3,5 Mio. Euro;
+&#8211; das Bundesministerium f&#252;r Arbeit und Soziales (BMAS) einschlie&#223;lich
+seines Gesch&#228;ftsbereichs 15 Planstellen/Stellen (4 hD; 11 gD) mit einem
+j&#228;hrlichen Erf&#252;llungsaufwand in H&#246;he von 1,56 Mio. Euro. Davon entfallen 1,18
+Mio. Euro auf j&#228;hrliche Personalkosten und 0,37 Mio. Euro auf j&#228;hrliche
+Sachkosten;
+&#8211; das Bundesministerium der Finanzen (BMF) einschlie&#223;lich seines
+Gesch&#228;ftsbereichs 278 Planstellen/Stellen (20 hD; 247 gD; 11 mD) mit einem
+j&#228;hrlichen Erf&#252;llungsaufwand in H&#246;he von 26,71 Mio. Euro. Davon entfallen
+19,8 Mio. Euro auf j&#228;hrliche Personalkosten und 6,91 Mio. Euro auf
+j&#228;hrliche Sachkosten;
+&#8211; das Bundesministerium f&#252;r Gesundheit (BMG) einschlie&#223;lich seines
+Gesch&#228;ftsbereichs 5 Planstellen/Stellen (3 hD; 2 gD) mit einem j&#228;hrlichen
+Erf&#252;llungsaufwand in H&#246;he von 0,58 Mio. Euro. Davon entfallen 0,45 Mio.
+Euro auf j&#228;hrliche Personalkosten und 0,12 Mio. Euro auf j&#228;hrliche
+Sachkosten;
+&#8211; das Bundesministerium f&#252;r Familie, Senioren, Frauen und Jugend (BMFSFJ)
+einschlie&#223;lich seines Gesch&#228;ftsbereichs 9,3 Planstellen/Stellen (0,5 hD; 7,8
+gD; 1 mD) mit einem j&#228;hrlichen Erf&#252;llungsaufwand in H&#246;he von 0,91 Mio.
+Euro. Davon entfallen 0,64 Mio. Euro auf j&#228;hrliche Personalkosten und 0,26
+Mio. Euro auf j&#228;hrliche Sachkosten. Zus&#228;tzlich entstehen einmalig
+Sachkosten in H&#246;he von 0,14 Mio. Euro;
+&#8211; das Bundesministerium f&#252;r Umwelt, Naturschutz und nukleare Sicherheit
+(BMU) einschlie&#223;lich seines Gesch&#228;ftsbereichs 32 Planstellen/Stellen (4 hD;
+28 gD) mit einem j&#228;hrlichen Erf&#252;llungsaufwand in H&#246;he von 3,16 Mio. Euro.
+Davon entfallen 2,36 Mio. Euro auf j&#228;hrliche Personalkosten und 0,8 Mio.
+Euro auf j&#228;hrliche Sachkosten;
+&#8211; das Bundesministerium f&#252;r Verkehr und digitale Infrastruktur (BMVI)
+einschlie&#223;lich seines Gesch&#228;ftsbereichs 254,5 Planstellen/Stellen (85,5 hD; 109
+gD; 60 mD) mit einem j&#228;hrlichen Erf&#252;llungsaufwand in H&#246;he von 25,88
+Mio. Euro. Davon entfallen 19,56 Mio. Euro auf j&#228;hrliche Personalkosten
+und 6,32 Mio. Euro auf j&#228;hrliche Sachkosten;
+&#8211; das Bundesministerium f&#252;r Wirtschaft und Energie (BMWi) einschlie&#223;lich 
+seines Gesch&#228;ftsbereichs 51 Planstellen/Stellen (4,5 hD; 32,5 gD; 14 mD)
+mit einem j&#228;hrlichen Erf&#252;llungsaufwand in H&#246;he von 4,71 Mio. Euro. Davon
+entfallen 3,44 Mio. Euro auf j&#228;hrliche Personalkosten und 1,27 Mio. Euro
+auf j&#228;hrliche Sachkosten;
+&#8211; das Bundeskanzleramt (BKAmt) einschlie&#223;lich seines Gesch&#228;ftsbereichs 17
+Planstellen/Stellen (9 hD; 7 gD; 1 mD) mit einem j&#228;hrlichen
+Erf&#252;llungsaufwand in H&#246;he von 1,9 Mio. Euro. Davon entfallen 1,48 Mio. Euro auf
+j&#228;hrliche Personalkosten und 0,42 Mio. Euro auf j&#228;hrliche Sachkosten. 
+Dezentral werden bei den nicht gesondert angef&#252;hrten Ressorts f&#252;r ein
+Ineinandergreifen des Sicherheitsmanagements und den erforderlichen Ausbau der
+Informationssicherheit in der Bundesverwaltung weitere Planstellen/Stellen mit
+Personalkosten und gegebenenfalls weitere Sachkosten erforderlich werden, die im
+jeweiligen Haushaltsaufstellungsverfahren geltend gemacht werden.
+Dar&#252;ber hinaus entsteht auch in der mittelbaren Bundesverwaltung bei Betreibern
+von Kritischen Infrastrukturen im Bereich der Sozialversicherung ein noch nicht
+abschlie&#223;end quantifizierbarer Mehrbedarf an Personal- und Sachkosten, da u. a.
+eine Reihe von Vorschriften noch untergesetzliche Ausf&#252;hrungen erfordern. 
+Der Bedarf an Sach- und Personalmitteln sowie Planstellen und Stellen soll
+finanziell und stellenm&#228;&#223;ig in den jeweiligen Einzelpl&#228;nen ausgeglichen werden.
+F. Weitere Kosten
+Keine.
+Beschlussempfehlung
+Der Bundestag wolle beschlie&#223;en,
+a) den Gesetzentwurf auf Drucksachen 19/26106, 19/26921 mit folgenden
+Ma&#223;gaben, im &#220;brigen unver&#228;ndert anzunehmen:
+1. Artikel 1 wird wie folgt ge&#228;ndert:
+a) Der Nummer 1 wird folgende Nummer 1 vorangestellt:
+&#8218;1. &#167; 1 wird wie folgt gefasst:
+&#8222;&#167; 1 
+Bundesamt f&#252;r Sicherheit in der Informationstechnik 
+Das Bundesamt f&#252;r Sicherheit in der
+Informationstechnik (Bundesamt) ist eine Bundesoberbeh&#246;rde im
+Gesch&#228;ftsbereich des Bundesministeriums des Innern, f&#252;r Bau und
+Heimat. Es ist die zentrale Stelle f&#252;r Informationssicherheit
+auf nationaler Ebene. Aufgaben gegen&#252;ber den
+Bundesministerien f&#252;hrt das Bundesamt auf Grundlage
+wissenschaftlich-technischer Erkenntnisse durch.&#8220; &#8216;
+b) Die bisherige Nummer 1 wird Nummer 2 und wird wie folgt
+ge&#228;ndert:
+aa) Dem Buchstaben a wird folgender Buchstabe a vorangestellt:
+&#8218;a) Absatz 2 wird wie folgt ge&#228;ndert:
+aa) Die folgenden S&#228;tze werden vorangestellt:
+&#8222;Informationen sowie informationsverarbeitende 
+Systeme, Komponenten und Prozesse sind
+besonders sch&#252;tzenswert. Der Zugriff auf diese darf
+ausschlie&#223;lich durch autorisierte Personen oder
+Programme erfolgen. Die Sicherheit in der
+Informationstechnik und der damit verbundene Schutz von
+Informationen und informationsverarbeitenden 
+Systemen vor Angriffen und unautorisierten
+Zugriffen im Sinne dieses Gesetzes erfordert die
+Einhaltung bestimmter Sicherheitsstandards zur
+Gew&#228;hrleistung der informationstechnischen
+Grundwerte und Schutzziele.&#8220;
+bb) In dem neuen Satz 4 wird das Wort
+&#8222;Unversehrtheit&#8220; durch das Wort &#8222;Integrit&#228;t&#8220; ersetzt.&#8216; &#8216;
+bb) Die bisherigen Buchstaben a und b werden die Buchstaben b
+und c.
+cc) Der bisherige Buchstabe c wird Buchstabe d und Absatz 9a
+wird wie folgt gefasst:
+&#8222;(9a) IT-Produkte im Sinne dieses Gesetzes sind
+Software, Hardware sowie alle einzelnen oder miteinander
+verbundenen Komponenten, die Informationen
+informationstechnisch verarbeiten.&#8220;
+dd) Der bisherige Buchstabe d wird Buchstabe e. 
+ee) Der bisherige Buchstabe e wird Buchstabe f und wird wie 
+folgt ge&#228;ndert:
+aaa) In Absatz 13 Satz 1 in dem einleitenden Satzteil wird
+das Wort &#8222;die&#8220; gestrichen.
+bbb) In Absatz 13 Satz 1 Nummer 1 wird dem Wort &#8222;in&#8220; 
+das Wort &#8222;die&#8220; vorangestellt.
+ccc) In Absatz 13 Satz 1 Nummer 2 werden die W&#246;rter 
+&#8222;von hoher Bedeutung f&#252;r das Funktionieren des
+Gemeinwesens sind, weil&#8220; durch die W&#246;rter &#8222;bei
+denen&#8220; ersetzt und werden die W&#246;rter &#8222;dieser IT-
+Produkte&#8220; gestrichen. 
+ddd) Absatz 13 Satz 1 Nummer 3 wird wie folgt gefasst: 
+&#8222;3. die auf Grund eines Gesetzes unter Verweis 
+auf diese Vorschrift
+a) als kritische Komponente bestimmt
+werden oder 
+b) eine auf Grund eines Gesetzes als kritisch 
+bestimmte Funktion realisieren.&#8220; 
+eee) In Absatz 13 Satz 2 werden nach den W&#246;rtern &#8222;eines
+Gesetzes&#8220; die W&#246;rter &#8222;unter Verweis auf diese
+Vorschrift&#8220; eingef&#252;gt. 
+fff) Absatz 14 wird wie folgt gefasst:
+&#8222;(14) Unternehmen im besonderen &#246;ffentlichen
+Interesse sind Unternehmen, die nicht Betreiber
+Kritischer Infrastrukturen nach Absatz 10 sind und
+1. die G&#252;ter nach &#167; 60 Absatz 1 Nummer 1 und 3 
+der Au&#223;enwirtschaftsverordnung in der jeweils 
+geltenden Fassung herstellen oder entwickeln, 
+2. die nach ihrer inl&#228;ndischen Wertsch&#246;pfung zu 
+den gr&#246;&#223;ten Unternehmen in Deutschland
+geh&#246;ren und daher von erheblicher
+volkswirtschaftlicher Bedeutung f&#252;r die Bundesrepublik 
+Deutschland sind oder die f&#252;r solche
+Unternehmen als Zulieferer wegen ihrer
+Alleinstellungsmerkmale von wesentlicher Bedeutung sind 
+oder 
+3. die Betreiber eines Betriebsbereichs der oberen 
+Klasse im Sinne der St&#246;rfall-Verordnung in der 
+jeweils geltenden Fassung sind oder nach &#167; 1 
+Absatz 2 der St&#246;rfall-Verordnung diesen 
+gleichgestellt sind. 
+Die Unternehmen im besonderen &#246;ffentlichen
+Interesse nach Satz 1 Nummer 2 werden durch die
+Rechtsverordnung nach &#167; 10 Absatz 5 bestimmt, in
+der festgelegt wird, welche wirtschaftlichen
+Kennzahlen ma&#223;geblich daf&#252;r sind, dass ein Unternehmen
+zu den gr&#246;&#223;ten Unternehmen in Deutschland im
+Sinne der Nummer 2 geh&#246;rt und welche
+Alleinstellungsmerkmale ma&#223;geblich daf&#252;r sind, dass
+Zulieferer f&#252;r solche Unternehmen von wesentlicher
+Bedeutung sind.&#8220;
+c) Die bisherige Nummer 2 wird Nummer 3 und wird wie folgt
+ge&#228;ndert: 
+aa) In dem &#196;nderungsbefehl wird die Angabe &#8222;Satz 2&#8220;
+gestrichen. 
+bb) Dem Buchstaben a wird folgender Buchstabe a vorangestellt: 
+&#8218;a) Satz 1 wird wie folgt gefasst:
+&#8222;Das Bundesamt f&#246;rdert die Sicherheit in der
+Informationstechnik mit dem Ziel, die Verf&#252;gbarkeit, Integrit&#228;t
+und Vertraulichkeit von Informationen und deren
+Verarbeitung zu gew&#228;hrleisten.&#8220; &#8216;
+cc) Der bisherige Buchstabe a wird Buchstabe b und nach dem 
+Wort &#8222;In&#8220; wird die Angabe &#8222;Satz 2&#8220; eingef&#252;gt. 
+dd) Der bisherige Buchstabe b wird Buchstabe c und nach dem 
+Wort &#8222;Nach&#8220; wird die Angabe &#8222;Satz 2&#8220; eingef&#252;gt. 
+ee) Nach dem neuen Buchstaben c wird folgender Buchstabe d
+eingef&#252;gt:
+&#8218;d) Nach Satz 2 Nummer 12 wird folgende Nummer 12a 
+eingef&#252;gt:
+&#8222;12a. Beratung und Unterst&#252;tzung der Stellen des
+Bundes in Fragen der Sicherheit in der
+Informationstechnik;&#8220;.&#8216;
+ff) Der bisherige Buchstabe c wird Buchstabe e und der Angabe
+&#8222;Nummer 14&#8220; wird die Angabe &#8222;Satz 2&#8220; vorangestellt. 
+gg) Der bisherige Buchstabe d wird Buchstabe f und nach dem
+Wort &#8222;Nach&#8220; wird die Angabe &#8222;Satz 2&#8220; eingef&#252;gt. 
+hh) Der bisherige Buchstabe e wird Buchstabe g und der Angabe
+&#8222;Nummer 17&#8220; wird die Angabe &#8222;Satz 2&#8220; vorangestellt. 
+ii) Der bisherige Buchstabe f wird Buchstabe h und nach dem 
+Wort &#8222;In&#8220; wird die Angabe &#8222;Satz 2&#8220; eingef&#252;gt. 
+jj) Der bisherige Buchstabe g wird Buchstabe i und wird wie 
+folgt gefasst:
+&#8218;i) Dem Satz 2 werden die folgenden Nummern 19 und 20
+angef&#252;gt:
+&#8222;19. Empfehlungen f&#252;r Identifizierungs- und
+Authentisierungsverfahren und Bewertung dieser
+Verfahren im Hinblick auf die
+Informationssicherheit;
+20. Beschreibung und Ver&#246;ffentlichung eines Stands 
+der Technik bei sicherheitstechnischen
+Anforderungen an IT-Produkte unter Ber&#252;cksichtigung
+bestehender Normen und Standards sowie
+Einbeziehung der betroffenen Wirtschaftsverb&#228;nde.&#8220; &#8216;
+d) Die bisherige Nummer 3 wird Nummer 4 und wird wie folgt
+ge&#228;ndert: 
+aa) &#167; 4a wird wie folgt ge&#228;ndert: 
+aaa) Absatz 2 Satz 2 wird aufgehoben.
+bbb) Die Abs&#228;tze 5 und 6 werden wie folgt gefasst:
+&#8222;(5) Ausgenommen von den Befugnissen nach
+den Abs&#228;tzen 1 bis 3 sind Kontrollen der
+Auslandsinformations- und -kommunikationstechnik im
+Sinne des &#167; 9 Absatz 2 des Gesetzes &#252;ber den
+Ausw&#228;rtigen Dienst, soweit sie ausschlie&#223;lich im
+Ausland belegen ist oder f&#252;r das Ausland oder f&#252;r
+Anwender im Ausland betrieben wird. Die
+Bestimmungen f&#252;r die Schnittstellen der
+Kommunikationstechnik des Bundes im Inland bleiben davon unber&#252;hrt.
+N&#228;heres zu Satz 1 regelt eine
+Verwaltungsvereinbarung zwischen dem Bundesministerium des Innern,
+f&#252;r Bau und Heimat und dem Ausw&#228;rtigen Amt. 
+(6) Die Befugnisse nach den Abs&#228;tzen 1 bis 3 
+gelten im Gesch&#228;ftsbereich des Bundesministeriums
+der Verteidigung nicht f&#252;r die Kontrolle der
+Informations- und Kommunikationstechnik, die von den
+Streitkr&#228;ften f&#252;r ihre Zwecke oder dem Milit&#228;rischen
+Abschirmdienst genutzt wird. Nicht ausgenommen 
+ist die Informations- und Kommunikationstechnik
+von Dritten, insbesondere von IT-Dienstleistern,
+soweit sie nicht ausschlie&#223;lich f&#252;r die Zwecke der
+Streitkr&#228;fte betrieben wird. Die Bestimmungen f&#252;r
+die Schnittstellen der Kommunikationstechnik des
+Bundes bleiben von den S&#228;tzen 1 und 2 unber&#252;hrt.
+N&#228;heres regelt eine Verwaltungsvereinbarung
+zwischen dem Bundesministerium des Innern, f&#252;r Bau
+und Heimat und dem Bundesministerium der
+Verteidigung.&#8220;
+bb) &#167; 4b wird wie folgt ge&#228;ndert:
+aaa) In Absatz 2 Satz 1 wird das Wort &#8222;kann&#8220; durch das
+Wort &#8222;nimmt&#8220; und das Wort &#8222;entgegennehmen&#8220;
+durch das Wort &#8222;entgegen&#8220; ersetzt. 
+bbb) Absatz 3 Nummer 2 wird wie folgt gefasst:
+&#8222;2. die &#214;ffentlichkeit oder betroffene Kreise
+gem&#228;&#223; &#167; 7 zu warnen und zu informieren,&#8220;.
+e) Die bisherige Nummer 4 wird Nummer 5 und Buchstabe a wird 
+wie folgt gefasst: 
+&#8218;a) Absatz 2 wird wie folgt gefasst: 
+&#8222;(2) Protokolldaten nach Absatz 1 Satz 1 Nummer 1
+d&#252;rfen &#252;ber den f&#252;r die automatisierte Auswertung nach
+Absatz 1 Satz 1 Nummer 1 erforderlichen Zeitraum hinaus,
+l&#228;ngstens jedoch f&#252;r 18 Monate, gespeichert werden, soweit
+tats&#228;chliche Anhaltspunkte daf&#252;r bestehen, dass diese im
+Falle der Best&#228;tigung eines Verdachts nach Absatz 3 Satz 2
+zur Abwehr von Gefahren, die von dem gefundenen
+Schadprogramm ausgehen oder zur Erkennung und Abwehr
+anderer Schadprogramme erforderlich sein k&#246;nnen. Durch
+organisatorische und technische Ma&#223;nahmen ist sicherzustellen,
+dass eine Auswertung der nach diesem Absatz gespeicherten 
+Daten nur automatisiert erfolgt und dass ein Zugriff auf
+Daten, die l&#228;nger als drei Monate gespeichert sind, nur beim
+Vorliegen tats&#228;chlicher Erkenntnisse &#252;ber die Betroffenheit
+des Bundes mit einem Schadprogramm erfolgt. Die Daten 
+sind zu pseudonymisieren, soweit dies automatisiert
+m&#246;glich ist. Eine nicht automatisierte Verarbeitung ist nur nach
+Ma&#223;gabe der nachfolgenden Abs&#228;tze zul&#228;ssig. Soweit
+hierzu die Wiederherstellung pseudonymisierter
+Protokolldaten erforderlich ist, muss diese durch die Pr&#228;sidentin oder
+den Pr&#228;sidenten des Bundesamtes oder die Vertretung im
+Amt angeordnet werden. Die Entscheidung ist zu
+dokumentieren.&#8220; &#8216;
+f) Die bisherigen Nummern 5 und 6 werden die Nummern 6 und 7. 
+g) Die bisherige Nummer 7 wird Nummer 8 und Absatz 1 wird wie 
+folgt gefasst: 
+&#8222;(1) Das Bundesamt darf zur Erf&#252;llung seiner gesetzlichen 
+Aufgabe nach &#167; 3 Absatz 1 Satz 1 Nummer 1, 2, 14, 17 oder 18 
+von demjenigen, der gesch&#228;ftsm&#228;&#223;ig Telekommunikationsdienste 
+erbringt oder daran mitwirkt, &#252;ber die nach den &#167;&#167; 95 und 111 des 
+Telekommunikationsgesetzes erhobenen Daten (&#167; 113 Absatz 1 
+Satz 1 des Telekommunikationsgesetzes) Auskunft verlangen. Die 
+Auskunft nach Satz 1 darf nur verlangt werden zum Schutz der 
+Versorgung der Bev&#246;lkerung in den Bereichen des &#167; 2 Absatz 10 
+Satz 1 Nummer 1 oder der &#246;ffentlichen Sicherheit, um damit eine 
+Beeintr&#228;chtigung der Sicherheit oder Funktionsf&#228;higkeit
+informationstechnischer Systeme 
+1. einer Kritischen Infrastruktur oder 
+2. eines Unternehmens von besonderem &#246;ffentlichem Interesse 
+abzuwenden, wenn Tatsachen den Schluss auf ein wenigstens
+seiner Art nach konkretisiertes und zeitlich absehbares Geschehen
+zulassen, das auf die informationstechnischen Systeme
+bestimmbarer Infrastrukturen oder Unternehmen abzielen wird, und die in
+die Auskunft aufzunehmenden Daten im Einzelfall erforderlich 
+sind, um die Betroffenen nach Absatz 4 vor dieser
+Beeintr&#228;chtigung zu warnen, &#252;ber diese zu informieren oder sie bei deren
+Beseitigung zu beraten oder zu unterst&#252;tzen.&#8220;
+h) Die bisherige Nummer 8 wird Nummer 9 und in Buchstabe b wird 
+in Satz 4 die Angabe &#8222;Satz 4&#8220; durch die Angabe &#8222;Satz 3&#8220; ersetzt. 
+i) Die bisherige Nummer 9 wird Nummer 10.
+j) Die bisherige Nummer 10 wird Nummer 11 und wird wie folgt 
+ge&#228;ndert: 
+aa) &#167; 7b Absatz 3 wird wie folgt ge&#228;ndert: 
+aaa) In Satz 1 werden die W&#246;rter &#8222;und stehen
+&#252;berwiegende Sicherheitsinteressen nicht entgegen&#8220;
+gestrichen und wird nach dem Wort &#8222;Verantwortlichen&#8220;
+das Wort &#8222;unverz&#252;glich&#8220; eingef&#252;gt.
+bbb) Folgender Satz 5 wird angef&#252;gt:
+&#8222;Das Bundesamt legt die Wei&#223;e Liste nach Absatz 1
+Satz 3 der Bundesbeauftragten oder dem
+Bundesbeauftragten f&#252;r den Datenschutz und die
+Informationsfreiheit viertelj&#228;hrlich zur Kontrolle vor.&#8220; 
+k) Die bisherige Nummer 11 wird Nummer 12 und Buchstabe a wird 
+wie folgt ge&#228;ndert: 
+aa) Absatz 1 wird wie folgt ge&#228;ndert: 
+aaa) In Satz 1 wird das Wort &#8222;Einvernehmen&#8220; durch das
+Wort &#8222;Benehmen&#8220; ersetzt. 
+bbb) Die folgenden S&#228;tze werden angef&#252;gt:
+&#8222;Das Bundesamt ber&#228;t die in Satz 1 genannten
+Stellen auf Ersuchen bei der Umsetzung und Einhaltung
+der Mindeststandards. F&#252;r die in &#167; 2 Absatz 3 Satz 2
+genannten Gerichte und Verfassungsorgane haben
+die Vorschriften nach Satz 1 empfehlenden
+Charakter. F&#252;r die Verpflichtung nach Satz 1 gilt die
+Ausnahme nach &#167; 4a Absatz 6 entsprechend.&#8220;
+bb) In Absatz 1a werden die S&#228;tze 5 bis 7 aufgehoben.
+l) Die bisherige Nummer 12 wird Nummer 13 und wird wie folgt 
+ge&#228;ndert: 
+aa) In Buchstabe b wird das Wort &#8222;zw&#246;lften&#8220; durch die Angabe 
+&#8222;24.&#8220; ersetzt. 
+bb) Nach Buchstabe c wird folgender Buchstabe d eingef&#252;gt: 
+&#8218;d) In Absatz 2 Satz 3 Nummer 2 werden die W&#246;rter &#8222;oder
+im Benehmen mit der sonst zust&#228;ndigen
+Aufsichtsbeh&#246;rde&#8220; gestrichen.&#8216;
+cc) Die bisherigen Buchstaben d und e werden die Buchstaben e 
+und f. 
+m) Die bisherigen Nummern 13 und 14 werden die Nummern 14 und 
+15. 
+n) Die bisherige Nummer 15 wird Nummer 16 und wird wie folgt 
+gefasst: 
+&#8218;16. &#167; 8d wird wie folgt ge&#228;ndert: 
+a) In Absatz 1 Satz 1 wird die Angabe &#8222;2003/361/EC&#8220; 
+durch die Angabe &#8222;2003/361/EG&#8220; ersetzt.
+b) Nach Absatz 1 wird folgender Absatz 1a eingef&#252;gt: 
+&#8222;(1a) &#167; 8f ist nicht anzuwenden auf
+Kleinstunternehmen und kleine Unternehmen im Sinne der
+Empfehlung 2003/361/EG. Artikel 3 Absatz 4 des Anhangs 
+zu der Empfehlung ist nicht anzuwenden.&#8220; 
+c) In Absatz 3 in dem einleitenden Satzteil wird die
+Angabe &#8222;&#167; 8b Absatz 4&#8220; durch die W&#246;rter &#8222;&#167; 8b Absatz 4 
+und 4a&#8220; ersetzt.&#8216; 
+o) Die bisherigen Nummern 16 bis 18 werden die Nummern 17 bis 
+19. 
+p) Die bisherige Nummer 19 wird Nummer 20 und wird wie folgt 
+ge&#228;ndert: 
+aa) In &#167; 9a Absatz 2 werden die W&#246;rter &#8222;Das Bundesamt erteilt 
+auf Antrag Konformit&#228;tsbewertungsstellen, die im
+Anwendungsbereich der Verordnung (EU) 2019/881 sowie des &#167; 9
+dieses Gesetzes t&#228;tig werden, eine Befugnis&#8220; durch die
+W&#246;rter &#8222;Das Bundesamt kann auf Antrag
+Konformit&#228;tsbewertungsstellen, die im Anwendungsbereich der Verordnung
+(EU) 2019/881 sowie des &#167; 9 dieses Gesetzes t&#228;tig werden,
+eine Befugnis erteilen&#8220; ersetzt. 
+bb) &#167; 9b wird wie folgt gefasst:
+&#8222;&#167; 9b
+Untersagung des Einsatzes kritischer Komponenten
+(1) Der Betreiber einer Kritischen Infrastruktur hat den 
+geplanten erstmaligen Einsatz einer kritischen Komponente
+gem&#228;&#223; &#167; 2 Absatz 13 dem Bundesministerium des Innern, f&#252;r
+Bau und Heimat vor ihrem Einsatz anzuzeigen. In der
+Anzeige sind die kritische Komponente und die geplante Art
+ihres Einsatzes anzugeben. Satz 1 gilt f&#252;r einen Betreiber einer
+Kritischen Infrastruktur nicht, wenn dieser den Einsatz einer
+anderen kritischen Komponente desselben Typs f&#252;r dieselbe
+Art des Einsatzes bereits nach Satz 1 angezeigt hat und ihm
+dieser nicht untersagt wurde.
+(2) Das Bundesministerium des Innern, f&#252;r Bau und 
+Heimat kann den geplanten erstmaligen Einsatz einer
+kritischen Komponente gegen&#252;ber dem Betreiber der Kritischen
+Infrastruktur im Benehmen mit den in &#167; 10 Absatz 1
+aufgef&#252;hrten jeweils betroffenen Ressorts sowie dem Ausw&#228;rtigen
+Amt bis zum Ablauf von zwei Monaten nach Eingang der
+Anzeige nach Absatz 1 untersagen oder Anordnungen
+erlassen, wenn der Einsatz die &#246;ffentliche Ordnung oder
+Sicherheit der Bundesrepublik Deutschland voraussichtlich
+beeintr&#228;chtigt. Bei der Pr&#252;fung einer voraussichtlichen
+Beeintr&#228;chtigung der &#246;ffentlichen Ordnung oder Sicherheit kann
+insbesondere ber&#252;cksichtigt werden, ob
+1. der Hersteller unmittelbar oder mittelbar von der
+Regierung, einschlie&#223;lich sonstiger staatlicher Stellen oder 
+Streitkr&#228;fte, eines Drittstaates kontrolliert wird, 
+2. der Hersteller bereits an Aktivit&#228;ten beteiligt war oder 
+ist, die nachteilige Auswirkungen auf die &#246;ffentliche 
+Ordnung oder Sicherheit der Bundesrepublik
+Deutschland oder eines anderen Mitgliedstaates der
+Europ&#228;ischen Union, der Europ&#228;ischen Freihandelsassoziation 
+oder des Nordatlantikvertrages oder auf deren
+Einrichtungen hatten, oder 
+3. der Einsatz der kritischen Komponente im Einklang mit 
+den sicherheitspolitischen Zielen der Bundesrepublik 
+Deutschland, der Europ&#228;ischen Union oder des
+Nordatlantikvertrages steht. 
+Vor Ablauf der Frist von zwei Monaten nach Anzeige nach
+Absatz 1 ist der Einsatz nicht gestattet. Das
+Bundesministerium des Innern, f&#252;r Bau und Heimat kann die Frist
+gegen&#252;ber dem Betreiber um weitere zwei Monate verl&#228;ngern,
+wenn die Pr&#252;fung besondere Schwierigkeiten tats&#228;chlicher
+oder rechtlicher Art aufweist.
+(3) Kritische Komponenten gem&#228;&#223; &#167; 2 Absatz 13
+d&#252;rfen nur eingesetzt werden, wenn der Hersteller eine
+Erkl&#228;rung &#252;ber seine Vertrauensw&#252;rdigkeit (Garantieerkl&#228;rung)
+gegen&#252;ber dem Betreiber der Kritischen Infrastruktur
+abgeben hat. Die Garantieerkl&#228;rung ist der Anzeige nach Absatz
+1 beizuf&#252;gen. Aus der Garantieerkl&#228;rung muss hervorgehen,
+wie der Hersteller sicherstellt, dass die kritische Komponente
+nicht &#252;ber technische Eigenschaften verf&#252;gt, die spezifisch
+geeignet sind, missbr&#228;uchlich, insbesondere zum Zwecke
+von Sabotage, Spionage oder Terrorismus auf die Sicherheit,
+Vertraulichkeit, Integrit&#228;t, Verf&#252;gbarkeit oder
+Funktionsf&#228;higkeit der Kritischen Infrastruktur einwirken zu k&#246;nnen. Das
+Bundesministerium des Innern, f&#252;r Bau und Heimat legt die
+Einzelheiten der Mindestanforderungen an die
+Garantieerkl&#228;rung im Einvernehmen mit den in &#167; 10 Absatz 1 aufgef&#252;hrten
+jeweils betroffenen Ressorts sowie dem Ausw&#228;rtigen Amt
+durch Allgemeinverf&#252;gung fest, die im Bundesanzeiger
+bekannt zu machen ist. Die Einzelheiten der
+Mindestanforderungen an die Garantieerkl&#228;rung m&#252;ssen aus den
+Schutzzielen der Sicherheit, Vertraulichkeit, Integrit&#228;t, Verf&#252;gbarkeit
+oder Funktionsf&#228;higkeit der Kritischen Infrastruktur folgen
+und die Vermeidung von Gefahren f&#252;r die &#246;ffentliche
+Sicherheit und Ordnung, insbesondere im Sinne von Absatz 2 Satz
+2, adressieren, die aus der Sph&#228;re des Herstellers der
+kritischen Komponente, insbesondere dessen
+Organisationsstruktur, stammen. Die S&#228;tze 1 und 2 gelten erst ab der
+Bekanntmachung der Allgemeinverf&#252;gung nach Satz 5 und nicht f&#252;r
+bereits vor diesem Zeitpunkt eingesetzte kritische
+Komponenten. Soweit &#196;nderungen der Allgemeinverf&#252;gung
+erfolgen, sind diese f&#252;r bereits nach diesem Absatz abgegebene
+Garantieerkl&#228;rungen unbeachtlich.
+(4) Das Bundesministerium des Innern, f&#252;r Bau und 
+Heimat kann den weiteren Einsatz einer kritischen
+Komponente gegen&#252;ber dem Betreiber der Kritischen Infrastruktur
+im Einvernehmen mit den in &#167; 10 Absatz 1 aufgef&#252;hrten
+jeweils betroffenen Ressorts sowie dem Ausw&#228;rtigen Amt
+untersagen oder Anordnungen erlassen, wenn der weitere
+Einsatz die &#246;ffentliche Ordnung oder Sicherheit der
+Bundesrepublik Deutschland voraussichtlich beeintr&#228;chtigt,
+insbesondere, wenn der Hersteller der kritischen Komponente nicht
+vertrauensw&#252;rdig ist. Absatz 2 Satz 2 gilt entsprechend.
+(5) Ein Hersteller einer kritischen Komponente kann 
+insbesondere dann nicht vertrauensw&#252;rdig sein, wenn
+hinreichende Anhaltspunkte daf&#252;r bestehen, dass
+1. er gegen die in der Garantieerkl&#228;rung eingegangen
+Verpflichtungen versto&#223;en hat, 
+2. in der Garantieerkl&#228;rung angegebene
+Tatsachenbehauptungen unwahr sind, 
+3. er Sicherheits&#252;berpr&#252;fungen und Penetrationsanalysen 
+an seinem Produkt und in der Produktionsumgebung 
+nicht im erforderlichen Umfang in angemessener Weise 
+unterst&#252;tzt, 
+4. Schwachstellen oder Manipulationen nicht
+unverz&#252;glich, nachdem er davon Kenntnis erlangt, beseitigt und 
+dem Betreiber der Kritischen Infrastruktur meldet, 
+5. die kritische Komponente auf Grund von M&#228;ngeln ein 
+erh&#246;htes Gef&#228;hrdungspotenzial aufweist oder
+aufgewiesen hat, missbr&#228;uchlich auf die Sicherheit,
+Vertraulichkeit, Integrit&#228;t, Verf&#252;gbarkeit oder Funktionsf&#228;higkeit 
+der Kritischen Infrastruktur einwirken zu k&#246;nnen oder 
+6. die kritische Komponente &#252;ber technische
+Eigenschaften verf&#252;gt oder verf&#252;gt hat, die spezifisch geeignet sind 
+oder waren, missbr&#228;uchlich auf die Sicherheit,
+Vertraulichkeit, Integrit&#228;t, Verf&#252;gbarkeit oder
+Funktionsf&#228;higkeit der Kritischen Infrastruktur einwirken zu k&#246;nnen. 
+(6) Wurde nach Absatz 4 der weitere Einsatz einer
+kritischen Komponente untersagt, kann das Bundesministerium
+des Innern, f&#252;r Bau und Heimat im Einvernehmen mit den in
+&#167; 10 Absatz 1 aufgef&#252;hrten jeweils betroffenen Ressorts
+sowie dem Ausw&#228;rtigen Amt 
+1. den geplanten Einsatz weiterer kritischer Komponenten 
+desselben Typs und desselben Herstellers untersagen 
+und 
+2. den weiteren Einsatz kritischer Komponenten desselben 
+Typs und desselben Herstellers unter Einr&#228;umung einer 
+angemessenen Frist untersagen. 
+(7) Bei schwerwiegenden F&#228;llen nicht vorliegender 
+Vertrauensw&#252;rdigkeit nach Absatz 5 kann das
+Bundesministerium des Innern, f&#252;r Bau und Heimat den Einsatz aller
+kritischen Komponenten des Herstellers im Einvernehmen mit
+den in &#167; 10 Absatz 1 aufgef&#252;hrten jeweils betroffenen
+Ressorts sowie dem Ausw&#228;rtigen Amt untersagen.&#8220;
+cc) &#167; 9c Absatz 3 wird wie folgt gefasst: 
+&#8222;(3) Die IT-Sicherheitsanforderungen, auf die sich die 
+Herstellererkl&#228;rung bezieht, ergeben sich aus einer Norm
+oder einem Standard oder aus einer branchenabgestimmten IT-
+Sicherheitsvorgabe, die die jeweilige Produktkategorie
+umfasst, sofern das Bundesamt in einem Verfahren, das durch 
+Rechtsverordnung nach &#167; 10 Absatz 3 geregelt wird,
+festgestellt hat, dass die Norm oder der Standard oder die
+branchenabgestimmte IT-Sicherheitsvorgabe geeignet ist,
+ausreichende IT-Sicherheitsanforderungen f&#252;r die
+Produktkategorie abzubilden. Ein Anspruch auf diese Feststellung besteht 
+nicht. Liegt keine Feststellung nach Satz 1 vor, ergeben sich 
+die IT-Sicherheitsvorgaben aus einer vom Bundesamt
+ver&#246;ffentlichten Technischen Richtlinie, die die jeweilige
+Produktkategorie umfasst, sofern das Bundesamt eine solche 
+Richtlinie bereits ver&#246;ffentlicht hat. Wird ein Produkt von 
+mehr als einer oder einem bestehenden, als geeignet
+festgestellten Norm, Standard, branchenabgestimmten IT-
+Sicherheitsvorgabe oder Technischen Richtlinie umfasst, richten 
+sich die Anforderungen nach der oder dem jeweils
+spezielleren bestehenden, als geeignet festgestellten Norm, Standard, 
+branchenabgestimmten IT-Sicherheitsvorgabe oder
+Technischen Richtlinie.&#8220; 
+q) Die bisherige Nummer 20 wird Nummer 21 und wird wie folgt 
+ge&#228;ndert: 
+aa) In Buchstabe a werden die W&#246;rter &#8222;&#167; 9a Absatz 1 Satz 1&#8220; 
+durch die Angabe &#8222;&#167; 9c&#8220; ersetzt und werden das Komma und
+die W&#246;rter &#8222;der beizuf&#252;genden Unterlagen und der
+Verwaltungsgeb&#252;hren&#8220; durch die W&#246;rter &#8222;und der beizuf&#252;genden
+Unterlagen&#8220; ersetzt.  
+bb) Buchstabe b wird wie folgt ge&#228;ndert:
+aaa) Im &#196;nderungsbefehl werden die W&#246;rter &#8222;Die
+folgenden Abs&#228;tze 5 und 6 werden&#8220; durch die W&#246;rter
+&#8222;Folgender Absatz 5 wird&#8220; ersetzt.  
+bbb) In Absatz 5 wird das Wort &#8222;Betreiber&#8220; durch das
+Wort &#8222;Unternehmen&#8220; ersetzt. 
+ccc) Dem Absatz 5 werden die folgenden S&#228;tze angef&#252;gt: 
+&#8222;Unter den Voraussetzungen nach Satz 1 kann das 
+Bundesministerium des Innern, f&#252;r Bau und Heimat 
+durch Rechtsverordnung bestimmen, welche
+Alleinstellungsmerkmale ma&#223;geblich daf&#252;r sind, dass
+Zulieferer f&#252;r Unternehmen, die nach ihrer inl&#228;ndischen 
+Wertsch&#246;pfung zu den gr&#246;&#223;ten Unternehmen in 
+Deutschland geh&#246;ren, von wesentlicher Bedeutung 
+im Sinne des &#167; 2 Absatz 14 Satz 1 Nummer 2 sind.&#8220; 
+ddd) &#167; 10 Absatz 6 wird aufgehoben. 
+r) Die bisherige Nummer 21 wird Nummer 22.
+s) Nach der neuen Nummer 22 wird folgende Nummer 23 eingef&#252;gt: 
+&#8218;23. &#167; 13 wird wie folgt ge&#228;ndert: 
+aa) Absatz 2 Satz 2 wird wie folgt gefasst:
+&#8222;&#167; 7 Absatz 1a ist entsprechend anzuwenden.&#8220;
+bb) Nach Absatz 2 wird folgender Absatz 3 eingef&#252;gt:
+&#8222;(3) Das Bundesministerium des Innern, f&#252;r
+Bau und Heimat unterrichtet kalenderj&#228;hrlich
+jeweils bis zum 30. Juni des dem Berichtsjahr
+folgenden Jahres den Ausschuss f&#252;r Inneres und
+Heimat des Deutschen Bundestages &#252;ber die
+Anwendung dieses Gesetzes. Es geht dabei auch auf die
+Fortentwicklung des ma&#223;geblichen Unionsrechts
+ein.&#8220; 
+cc) Die bisherigen Abs&#228;tze 3 bis 5 werden die Abs&#228;tze 
+4 bis 6.&#8216; 
+t) Die bisherigen Nummern 22 und 23 werden die Nummern 24 und 
+25. 
+2. Artikel 2 wird wie folgt ge&#228;ndert: 
+a) Nummer 2 Buchstabe b Doppelbuchstabe bb wird wie folgt
+gefasst: 
+&#8218;bb) Nach Satz 3 wird folgender Satz eingef&#252;gt: 
+&#8222;Kritische Komponenten im Sinne von &#167; 2 Absatz 13 des
+BSI-Gesetzes d&#252;rfen von einem Betreiber &#246;ffentlicher
+Telekommunikationsnetze mit erh&#246;htem Gef&#228;hrdungspotential
+nur eingesetzt werden, wenn sie vor dem erstmaligen Einsatz 
+von einer anerkannten Zertifizierungsstelle &#252;berpr&#252;ft und
+zertifiziert wurden.&#8220; &#8216;
+b) In Nummer 3 Buchstabe a wird die Angabe &#8222;Nummer 8&#8220; durch die 
+Angabe &#8222;Nummer 7&#8220; ersetzt. 
+c) Nummer 3 Buchstabe b wird wie folgt gefasst: 
+&#8218;b) Folgende Nummer 8 wird angef&#252;gt: 
+&#8222;8. an das Bundesamt f&#252;r Sicherheit in der
+Informationstechnik zum Schutz der Versorgung der Bev&#246;lkerung
+in den Bereichen des &#167; 2 Absatz 10 Satz 1 Nummer 1
+des BSI-Gesetzes oder der &#246;ffentlichen Sicherheit, um
+damit eine Beeintr&#228;chtigung der Sicherheit oder
+Funktionsf&#228;higkeit informationstechnischer Systeme einer
+Kritischen Infrastruktur oder eines Unternehmens im
+besonderen &#246;ffentlichen Interesse abzuwenden, wenn
+Tatsachen den Schluss auf ein wenigstens seiner Art
+nach konkretisiertes und zeitlich absehbares
+Geschehen zulassen, das auf die informationstechnischen
+Systeme bestimmbarer Infrastrukturen oder
+Unternehmen abzielen wird, und die in die Auskunft
+aufzunehmenden Daten im Einzelfall erforderlich sind, um den
+Betreiber der betroffenen Kritischen Infrastruktur
+oder das betroffene Unternehmen im besonderen
+&#246;ffentlichen Interesse vor dieser Beeintr&#228;chtigung zu
+warnen, &#252;ber diese zu informieren oder bei deren
+Beseitigung zu beraten oder zu unterst&#252;tzen.&#8220; &#8216;
+d) Folgende Nummer 4 wird angef&#252;gt: 
+&#8218;4. &#167; 113 Absatz 5 wird wie folgt ge&#228;ndert: 
+a) In Nummer 8 wird der Punkt am Ende durch ein 
+Komma ersetzt. 
+b) Folgende Nummer 9 wird angef&#252;gt: 
+&#8222;9. das Bundesamt f&#252;r Sicherheit in der
+Informationstechnik zum Schutz der Versorgung der
+Bev&#246;lkerung in den Bereichen des &#167; 2 Absatz 10
+Satz 1 Nummer 1 des BSI-Gesetzes oder der
+&#246;ffentlichen Sicherheit, um damit eine
+Beeintr&#228;chtigung der Sicherheit oder Funktionsf&#228;higkeit
+informationstechnischer Systeme einer Kritischen
+Infrastruktur oder eines Unternehmens im
+besonderen &#246;ffentlichen Interesse abzuwenden, wenn
+Tatsachen den Schluss auf ein wenigstens seiner
+Art nach konkretisiertes und zeitlich absehbares
+Geschehen zulassen, das auf die
+informationstechnischen Systeme bestimmbarer
+Infrastrukturen oder Unternehmen abzielen wird, und die in
+die Auskunft aufzunehmenden Daten im
+Einzelfall erforderlich sind, um den Betreiber der
+betroffenen Kritischen Infrastruktur oder das
+betroffene Unternehmen im besonderen
+&#246;ffentlichen Interesse vor dieser Beeintr&#228;chtigung zu
+warnen, &#252;ber diese zu informieren oder bei deren
+Beseitigung zu beraten oder zu unterst&#252;tzen.&#8220; &#8216;
+3. In Artikel 3 &#167; 11 Absatz 1d und 1e wird jeweils das Wort &#8222;zw&#246;lften&#8220; 
+durch die Angabe &#8222;24.&#8220; ersetzt.; 
+b) den Antrag auf Drucksache 19/26225 abzulehnen; 
+c) den Antrag auf Drucksache 19/26226 abzulehnen; 
+d) den Antrag auf Drucksache 19/1328 abzulehnen.
+Berlin, den 21. April 2021
+Der Ausschuss f&#252;r Inneres und Heimat
+Andrea Lindholz 
+Vorsitzende
+Christoph Bernstiel Sebastian Hartmann Joana Cotar
+Berichterstatter Berichterstatter Berichterstatterin 
+Manuel H&#246;ferlin Petra Pau Dr. Konstantin von Notz
+Berichterstatter Berichterstatterin Berichterstatter
+Bericht der Abgeordneten Christoph Bernstiel, Sebastian Hartmann, Joana Cotar,
+Manuel H&#246;ferlin, Petra Pau und Dr. Konstantin von Notz
+I. &#220;berweisung
+Zu Buchstabe a
+Der Gesetzentwurf auf Drucksache 19/26106 wurde in der 206. Sitzung des Deutschen Bundestages am 28.
+Januar 2021 an den Ausschuss f&#252;r Inneres und Heimat federf&#252;hrend sowie an den Verteidigungsausschuss, den
+Ausschuss Digitale Agenda, den Ausschuss f&#252;r Recht und Verbraucherschutz, den Ausschuss f&#252;r Verkehr und
+digitale Infrastruktur und den Haushaltsausschuss zur Mitberatung &#252;berwiesen. Die Unterrichtung durch die
+Bundesregierung zur Stellungnahme des Bundesrates und Gegen&#228;u&#223;erung der Bundesregierung auf Drucksache
+19/26921 wurde am 26. Februar 2021 gem&#228;&#223; &#167; 80 Absatz 3 der Gesch&#228;ftsordnung mit Nummer 1.7 auf
+Drucksache 19/27035 an die beteiligten Aussch&#252;sse &#252;berwiesen. Der Parlamentarische Beirat f&#252;r nachhaltige Entwicklung
+beteiligte sich gutachtlich (Ausschussdrucksache 19(4)710). 
+Zu Buchstabe b
+Der Antrag auf Drucksache 19/26225 wurde in der 206. Sitzung des Deutschen Bundestages am 28. Januar 2021
+an den Ausschuss f&#252;r Inneres und Heimat federf&#252;hrend sowie an den Ausschuss f&#252;r Recht und Verbraucherschutz
+und den Ausschuss f&#252;r Digitale Agenda zur Mitberatung &#252;berwiesen.
+Zu Buchstabe c
+Der Antrag auf Drucksache 19/26226 wurde in der 206. Sitzung des Deutschen Bundestages am 28. Januar 2021
+an den Ausschuss f&#252;r Inneres und Heimat federf&#252;hrend sowie an den Ausschuss Digitale Agenda, den Ausschuss
+f&#252;r Verkehr und digitale Infrastruktur und den Ausschuss f&#252;r Recht und Verbraucherschutz zur Mitberatung
+&#252;berwiesen. 
+Zu Buchstabe d
+Der Antrag auf Drucksache 19/1328 wurde in der 26. Sitzung des Deutschen Bundestages am 19. April 2018 an
+den Ausschuss f&#252;r Inneres und Heimat federf&#252;hrend sowie an den Ausschuss f&#252;r Verkehr und digitale
+Infrastruktur, den Ausschuss f&#252;r Menschenrechte und humanit&#228;re Hilfe, den Ausschuss Digitale Agenda, den Ausschuss
+f&#252;r Bildung, Forschung und Technikfolgenabsch&#228;tzung, den Verteidigungsausschuss, den Ausschuss f&#252;r
+Wirtschaft und Energie und den Ausschuss f&#252;r Recht und Verbraucherschutz zur Mitberatung &#252;berwiesen.
+II. Stellungnahmen der mitberatenden Aussch&#252;sse
+Zu Buchstabe a
+Der Verteidigungsausschuss hat in seiner 86. Sitzung am 21. April 2021 mit den Stimmen der Fraktionen der
+CDU/CSU und SPD gegen die Stimmen der Fraktionen AfD, FDP, DIE LINKE. und B&#220;NDNIS 90/DIE GR&#220;-
+NEN die Annahme des Gesetzentwurfs auf Drucksachen 19/26106, 19/26921 empfohlen.
+Der Ausschuss Digitale Agenda hat in seiner 79. Sitzung am 21. April 2021 mit den Stimmen der Fraktionen der
+CDU/CSU und SPD der CDU/CSU und SPD gegen die Stimmen der Fraktionen AfD, FDP, DIE LINKE. und 
+B&#220;NDNIS 90/DIE GR&#220;NEN die Annahme des Gesetzentwurfs auf Drucksachen 19/26106, 19/26921
+empfohlen.
+Der Ausschuss f&#252;r Recht und Verbraucherschutz hat in seiner 143. Sitzung am 21. April 2021 mit den Stimmen 
+der Fraktionen der CDU/CSU und SPD gegen die Stimmen der Fraktionen AfD, FDP, DIE LINKE. und B&#220;ND-
+NIS 90/DIE GR&#220;NEN die Annahme des Gesetzentwurfs auf Drucksachen 19/26106, 19/26921 empfohlen.
+Der Ausschuss f&#252;r Verkehr und digitale Infrastruktur hat in seiner 110. Sitzung am 21. April 2021 mit den
+Stimmen der Fraktionen der CDU/CSU und SPD gegen die Stimmen der Fraktionen AfD, FDP, DIE LINKE. und
+B&#220;NDNIS 90/DIE GR&#220;NEN die Annahme des Gesetzentwurfs auf Drucksachen 19/26106, 19/26921
+empfohlen.
+Der Haushaltsausschuss hat in seiner 96. Sitzung am 21. April 2021 mit den Stimmen der Fraktionen der
+CDU/CSU und SPD gegen die Stimmen der Fraktionen AfD, FDP, DIE LINKE. und B&#220;NDNIS 90/DIE GR&#220;-
+NEN die Annahme des Gesetzentwurfs auf Drucksachen 19/26106, 19/26921 empfohlen. Seinen Bericht nach
+&#167; 96 der Gesch&#228;ftsordnung wird er gesondert abgeben.
+Zu Buchstabe b
+Der Ausschuss f&#252;r Recht und Verbraucherschutz hat in seiner 143. Sitzung am 21. April 2021 mit den Stimmen 
+der Fraktionen CDU/CSU, SPD, FDP, DIE LINKE. und B&#220;NDNIS 90/DIE GR&#220;NEN gegen die Stimmen der
+Fraktion der AfD die Ablehnung des Antrags auf Drucksache 19/26225 empfohlen.
+Der Ausschuss Digitale Agenda hat in seiner 79. Sitzung am 21. April 2021 mit den Stimmen der Fraktionen 
+CDU/CSU, SPD, FDP, DIE LINKE. und B&#220;NDNIS 90/DIE GR&#220;NEN gegen die Stimmen der Fraktion der AfD
+die Ablehnung des Antrags auf Drucksache 19/26225 empfohlen.
+Zu Buchstabe c
+Der Ausschuss Digitale Agenda hat in seiner 79. Sitzung am 21. April 2021 mit den Stimmen der Fraktionen 
+CDU/CSU, SPD, FDP, DIE LINKE. und B&#220;NDNIS 90/DIE GR&#220;NEN gegen die Stimmen der Fraktion der AfD
+die Ablehnung des Antrags auf Drucksache 19/26226 empfohlen.
+Der Ausschuss f&#252;r Verkehr und digitale Infrastruktur hat in seiner 110. Sitzung am 21. April 2021 mit den
+Stimmen der Fraktionen CDU/CSU, SPD, FDP, DIE LINKE. und B&#220;NDNIS 90/DIE GR&#220;NEN gegen die
+Stimmen der Fraktion der AfD die Ablehnung des Antrags auf Drucksache 19/26226 empfohlen.
+Der Ausschuss f&#252;r Recht und Verbraucherschutz hat in seiner 143. Sitzung am 21. April 2021 mit den Stimmen 
+der Fraktionen CDU/CSU, SPD, FDP, DIE LINKE. und B&#220;NDNIS 90/DIE GR&#220;NEN gegen die Stimmen der
+Fraktion der AfD die Ablehnung des Antrags auf Drucksache 19/26226 empfohlen.
+Zu Buchstabe d
+Der Ausschuss f&#252;r Verkehr und digitale Infrastruktur hat in seiner 110. Sitzung am 21. April 2021 mit den
+Stimmen der Fraktionen der CDU/CSU, SPD und AfD gegen die Stimmen der Fraktionen DIE LINKE. und
+B&#220;NDNIS 90/DIE GR&#220;NEN bei Stimmenthaltung der Fraktion der FDP die Ablehnung des Antrags auf
+Drucksache 19/1328 empfohlen.
+Der Ausschuss f&#252;r Menschenrechte und humanit&#228;re Hilfe hat in seiner 79. Sitzung am 21. April 2021 mit den
+Stimmen der Fraktionen der CDU/CSU, SPD und AfD gegen die Stimmen der Fraktionen DIE LINKE. und
+B&#220;NDNIS 90/DIE GR&#220;NEN bei Stimmenthaltung der Fraktion der FDP die Ablehnung des Antrags auf
+Drucksache 19/1328 empfohlen.
+Der Ausschuss Digitale Agenda hat in seiner 79. Sitzung am 21. April 2021 mit den Stimmen der Fraktionen der
+CDU/CSU, SPD und AfD gegen die Stimmen der Fraktionen DIE LINKE. und B&#220;NDNIS 90/DIE GR&#220;NEN bei
+Stimmenthaltung der Fraktion der FDP die Ablehnung des Antrags auf Drucksache 19/1328 empfohlen.
+Der Ausschuss f&#252;r Bildung, Forschung und Technikfolgenabsch&#228;tzung hat in seiner 70. Sitzung am 21. April
+2021 mit den Stimmen der Fraktionen der CDU/CSU, SPD und AfD gegen die Stimmen der Fraktionen DIE
+LINKE. und B&#220;NDNIS 90/DIE GR&#220;NEN bei Stimmenthaltung der Fraktion der FDP die Ablehnung des Antrags
+auf Drucksache 19/1328 empfohlen.
+Der Verteidigungsausschuss hat in seiner 86. Sitzung am 21. April 2021 mit den Stimmen der Fraktionen der
+CDU/CSU, SPD und AfD gegen die Stimmen der Fraktionen DIE LINKE. und B&#220;NDNIS 90/DIE GR&#220;NEN bei
+Stimmenthaltung der Fraktion der FDP die Ablehnung des Antrags auf Drucksache 19/1328 empfohlen.
+Der Ausschuss f&#252;r Wirtschaft und Energie hat in seiner 115. Sitzung am 21. April 2021 mit den Stimmen der
+Fraktionen der CDU/CSU, SPD und AfD gegen die Stimmen der Fraktionen DIE LINKE. und B&#220;NDNIS 90/DIE
+GR&#220;NEN bei Stimmenthaltung der Fraktion der FDP die Ablehnung des Antrags auf Drucksache 19/1328
+empfohlen.
+Der Ausschuss f&#252;r Recht und Verbraucherschutz hat in seiner 143. Sitzung am 21. April 2021 mit den Stimmen 
+der Fraktionen der CDU/CSU, SPD und AfD gegen die Stimmen der Fraktionen DIE LINKE. und B&#220;NDNIS
+90/DIE GR&#220;NEN bei Stimmenthaltung der Fraktion der FDP die Ablehnung des Antrags auf Drucksache 19/1328
+empfohlen. 
+III. Beratungsverlauf und Beratungsergebnisse im federf&#252;hrenden Ausschuss
+Der Ausschuss f&#252;r Inneres und Heimat hat in seiner 119. Sitzung am 10. Februar 2021 zu den Vorlagen zu
+Buchstaben a bis c einstimmig sowie in seiner 32. Sitzung am 12. Dezember 2018 zur Vorlage zu Buchstabe d mit den
+Stimmen der Fraktionen FDP, DIE LINKE. und B&#220;NDNIS 90/DIE GR&#220;NEN bei Stimmenthaltung der
+Fraktionen der CDU/CSU, SPD und AfD beschlossen, eine &#246;ffentliche Anh&#246;rung durchzuf&#252;hren. 
+Die &#246;ffentliche Anh&#246;rung zu den Vorlagen zu Buchstaben a bis c, an der sich sechs Sachverst&#228;ndige beteiligt
+haben, hat der Ausschuss f&#252;r Inneres und Heimat in seiner 124. Sitzung am 1. M&#228;rz 2021 durchgef&#252;hrt. Die
+&#246;ffentliche Anh&#246;rung zur Vorlage zu Buchstabe d hat der Ausschuss f&#252;r Inneres und Heimat in seiner 48. Sitzung
+am 8. April 2019 mit sechs Sachverst&#228;ndigen durchgef&#252;hrt. Die Beratung in dieser &#246;ffentlichen Anh&#246;rung erfolgte
+gemeinsam mit den Vorlagen auf den Drucksachen 19/7698 und 19/7705. Hinsichtlich des Ergebnisses der
+Anh&#246;rungen wird auf die Protokolle der 48. und 124. Sitzung verwiesen (19/48 sowie 19/124). 
+Zu Buchstabe a
+1. Der Ausschuss f&#252;r Inneres und Heimat hat den Gesetzentwurf auf Drucksachen 19/26106, 19/26921 in seiner
+134. Sitzung am 21. April 2021 abschlie&#223;end beraten und empfiehlt die Annahme des Gesetzentwurfs in der aus
+der Beschlussempfehlung ersichtlichen Fassung mit den Stimmen der Fraktionen der CDU/CSU und SPD gegen
+die Stimmen der Fraktionen AfD, FDP, DIE LINKE. und B&#220;NDNIS 90/DIE GR&#220;NEN.
+Die &#196;nderungen entsprechen dem &#196;nderungsantrag der Fraktionen der CDU/CSU und SPD auf
+Ausschussdrucksache 19(4)811, der zuvor mit den Stimmen der Fraktionen der CDU/CSU und SPD gegen die Stimmen der
+Fraktionen AfD und DIE LINKE. bei Stimmenthaltung der Fraktionen FDP und B&#220;NDNIS 90/DIE GR&#220;NEN
+angenommen wurde.  
+Dar&#252;ber hinaus hat der Ausschuss f&#252;r Inneres und Heimat einen Antrag der Fraktionen der CDU/CSU und SPD
+auf Ausschussdrucksache 19(4)812 mit dem Titel &#8222;Deutschlands Cybersicherheit st&#228;rken&#8220; mit den Stimmen der
+Fraktionen der CDU/CSU und SPD gegen die Stimmen der Fraktionen AfD und DIE LINKE. bei
+Stimmenthaltung der Fraktionen FDP und B&#220;NDNIS 90/DIE GR&#220;NEN angenommen und damit beschlossen:
+I. Der Ausschuss f&#252;r Inneres und Heimat des Deutschen Bundestages stellt fest:
+Der Gesetzentwurf eines Zweiten Gesetzes zur Erh&#246;hung der Sicherheit informationstechnischer Systeme (&#8222;IT-
+Sicherheitsgesetz 2.0&#8220;) ist ein wesentlicher Schritt f&#252;r die St&#228;rkung der Netz- und Informationssicherheit in
+Deutschland. Mit dem IT-Sicherheitsgesetz 2.0 wird der rechtliche Rahmen gest&#228;rkt. Der Gesetzentwurf umfasst
+Ma&#223;nahmen im Bereich der Wirtschaft zum Schutz Kritischer Infrastrukturen einschlie&#223;lich kritischer
+Komponenten und weiterer Unternehmen im besonderen &#246;ffentlichen Interesse, zum Schutz der Verbraucherinnen und
+Verbraucher sowie zum Schutz der Bundesverwaltung. 
+Die digitale Transformation wird durch eine weiter steigende Durchdringung von Informations- und
+Kommunikationstechnologie erm&#246;glicht. Unvermeidbare Folge der Digitalisierung ist dabei, dass die Anzahl der
+Schwachstellen in Soft- wie Hardware weiter ansteigt. Fehlerfreie Produkte k&#246;nnen nicht gew&#228;hrleistet werden &#8211; auch bei
+intensiven Tests ist es nicht m&#246;glich, alle Fehler zu entdecken. Die Information der betreffenden Stellen und
+Unternehmen &#252;ber Sicherheitsl&#252;cken ist daher ein wichtiger Baustein bei der Gew&#228;hrleistung von IT-Sicherheit:
+insbesondere die Sicherheit von IT-Produkten kann verbessert werden, wenn Hersteller Informationen &#252;ber
+entdeckte Sicherheitsl&#252;cken erhalten und diese die Informationen nutzen, um Fehler zu beheben. 
+Das Bundesamt f&#252;r Sicherheit in der Informationstechnik (BSI) ist auf Bundesebene die kompetente nationale
+Stelle zur F&#246;rderung der Sicherheit in der Informationstechnik. Zu den Aufgaben des BSI geh&#246;rt es, Informationen
+&#252;ber Sicherheitsrisiken zu sammeln, auszuwerten und die gewonnenen Erkenntnisse anderen Stellen zur
+Verf&#252;gung zu stellen (&#167; 3 Absatz 1 Satz 2 Nummer 2 BSI-Gesetz). Ferner ber&#228;t und warnt das Bundesamt Hersteller, 
+Vertreiber und Anwender in Fragen der IT-Sicherheit (&#167; 3 Absatz 1 Satz 2 Nummer 14 BSI-Gesetz). Mit &#167; 7
+Absatz 1 Satz 1 Buchstabe a BSI-Gesetz hat das BSI die Befugnis, die &#214;ffentlichkeit und betroffene Fachkreise,
+insbesondere Hersteller, vor Sicherheitsl&#252;cken in informationstechnischen Produkten und Diensten zu warnen. 
+Mit dem IT-Sicherheitsgesetz 2.0 wird die Kompetenz des BSI, &#252;ber Sicherheitsl&#252;cken oder andere
+Sicherheitsrisiken zu informieren, gest&#228;rkt. Das BSI darf auf Grundlage von &#167; 7 BSI-Gesetz k&#252;nftig nicht nur Warnungen
+aussprechen, sondern auch allgemeine Informationen &#252;bermitteln. Diese Befugnis soll nunmehr ausdr&#252;cklich
+auch dem Verbraucherschutz und der Verbraucherinformation dienen. Mit Blick darauf sind nach &#167; 7 Absatz 1
+Satz 1 Nummer 1 Buchstabe d des Gesetzentwurfs auch Informationen &#252;ber sicherheitsrelevante IT-Eigenschaften
+von Produkten Gegenstand der Warn- und Informationsbefugnis. Zudem wird das BSI als allgemeine Meldestelle 
+f&#252;r die IT-Sicherheit ausgestaltet (&#167; 4b BSI-Gesetz des Gesetzentwurfs). Informationen &#252;ber Sicherheitsl&#252;cken,
+Schadprogramme oder sonstige Informationen k&#246;nnen dem BSI anonym gemeldet werden. Diese Informationen
+soll das BSI nutzen, um die &#214;ffentlichkeit und betroffene Kreise, wozu Hersteller, Vertreiber oder Anwender
+geh&#246;ren, zu warnen und zu informieren. Im Sinne einer verantwortungsbewussten Offenlegung (Responsible
+Disclosure) sind Hersteller rechtzeitig vor Ver&#246;ffentlichung einer Warnung zu informieren.
+Es besteht ein anhaltender Trend, dass Angreifer modulare Schadprogramme f&#252;r cyber-kriminelle
+Massenaufgriffe auf Privatpersonen, Unternehmen und andere Institutionen nutzen (vgl. Bundesamt f&#252;r Sicherheit in der
+Informationstechnik, Die Lage der IT-Sicherheit in Deutschland 2020, S. 9). Typischerweise besteht diese
+Software aus einer initialen &#8222;Hintert&#252;r&#8220;, die genutzt wird, um weitere Schadfunktionen nachzuladen. Das Verhalten
+dieser Software l&#228;sst sich aus der Ferne steuern. Insbesondere in Verbindung mit Erpressungs-Software
+(Ransomware) enth&#228;lt diese Schadsoftware auch Funktionen zu ihrer eigenen Deinstallation, aber auch Funktionalit&#228;ten
+eines Bot-Netzes sind h&#228;ufig in derartiger Software enthalten. Ein bekanntes Beispiel der j&#252;ngeren Vergangenheit
+ist die &#8222;Emotet&#8220; genannte Schadsoftware. Diese diente sowohl als T&#252;r&#246;ffner f&#252;r Erpressung durch
+Verschl&#252;sselung als auch zum unberechtigten Kopieren von Daten. Insbesondere der Bek&#228;mpfung solcher Schadprogramme 
+dient die Anordnungsbefugnis nach &#167; 7c Absatz 1 Satz 1 Nummer 2 des Entwurfs des BSI-Gesetzes. Auf
+Grundlage dieser Befugnis kann das BSI Telekommunikationsdiensteanbieter zur Mitwirkung bei der Bereinigung
+betroffener Datenverarbeitungssysteme von einem konkret benannten Schadprogramm verpflichten. Dabei kn&#252;pft
+die Befugnis an hohe tatbestandliche H&#252;rden an. Das BSI kann Ma&#223;nahmen nur zur Abwehr konkreter erheblicher
+Gefahren f&#252;r die Verf&#252;gbarkeit, Unversehrtheit und Vertraulichkeit der in &#167; 7c Absatz 2 des Entwurfs des BSI-
+Gesetzes genannten Informations- und Kommunikationssysteme und -dienste anordnen. Zur Verfahrenssicherung
+ist vor Anordnung einer etwaigen Ma&#223;nahme das Einvernehmen mit der Bundesnetzagentur und dem oder der
+Beauftragten f&#252;r den Datenschutz und die Informationsfreiheit herzustellen. Aufgrund des Zwecks und der
+technischen Durchf&#252;hrung sind Ma&#223;nahmen auf Grundlage von &#167; 7c Absatz 1 Satz 2 Nummer 2 des Entwurfs des
+BSI-Gesetzes wertungsm&#228;&#223;ig und technisch nicht mit Ma&#223;nahmen zu vergleichen, die dem Urteil des
+Bundesverfassungsgerichts zur Online-Durchsuchung zugrunde liegen (BVerfG, Urteil vom 27.2.2008 &#8211; 1 BvR 370/07,
+1 BvR 595/07). W&#228;hrend es in dem Urteil um heimliche Infiltration eines informationstechnischen Systems ging,
+um sich Kenntnisse von Kommunikationsinhalten zu verschaffen, geht es bei der Befugnis nach &#167; 7c Absatz 1
+Satz 1 Nummer 2 des Entwurfs des BSI-Gesetzes darum, Schadprogramme zu deaktivieren, die sich &#8211; unter
+Verletzung der Integrit&#228;t und Vertraulichkeit &#8211; auf einem befallenen IT-System befinden. Zudem werden weder zur
+Durchf&#252;hrung von Ma&#223;nahmen Zugangsbeschr&#228;nkungen &#252;berwunden, noch werden Systeme manipuliert, um in 
+den aus dem Pers&#246;nlichkeitsrecht abgeleiteten Schutzbereich der Integrit&#228;t und Vertraulichkeit
+informationstechnischer Systeme einzugreifen. Vielmehr wird die vorangehend von Cyber-Kriminellen durch Aufbringen einer
+Schadsoftware beeintr&#228;chtigte Integrit&#228;t und Vertraulichkeit der informationstechnischen Systeme durch
+Ma&#223;nahmen nach &#167; 7c Absatz 1 Satz 1 Nummer 2 des Entwurfs des BSI-Gesetzes wiederhergestellt. 
+Zum Schutz der IT-Sicherheit Kritischer Infrastrukturen und Unternehmen im besonderen &#246;ffentlichen Interesse
+geh&#246;rt neben technischen und organisatorischen Vorkehrungen auch der Einsatz vertrauensw&#252;rdiger Mitarbeiter
+in den sicherheitsrelevanten Bereichen. Den Unternehmen stehen derzeit h&#228;ufig keine geeigneten Mittel zur
+Verf&#252;gung, die Vertrauensw&#252;rdigkeit des Personals zum Beispiel im Rahmen des Einstellungsprozesses zu
+&#252;berpr&#252;fen. 
+Als zentrale Meldestelle f&#252;r Betreiber Kritischer Infrastrukturen erstellt das BSI ein Lagebild zur Sicherheit in der
+Informationstechnik Kritischer Infrastrukturen gem&#228;&#223; &#167; 8b Absatz 2 Nummer 3 BSIG und unterrichtet die
+Betreiber &#252;ber die sie betreffenden Informationen. Der Informationsfluss besteht aus allgemeinen Informationen in
+Form von Lagebildern sowie speziellen Handlungsanweisungen zu Pr&#228;vention, Detektion und Reaktion zu Cyber-
+Angriffen, die den Betreibern Kritischer Infrastrukturen durch das BSI zur Verf&#252;gung gestellt werden. Damit das
+BSI die Lagebilder und spezialisierten Handlungsanweisungen erstellen kann, ist es auch auf Meldungen der
+Betreiber Kritischer Infrastrukturen z. B. zu Cyber-Angriffen angewiesen. 
+Der sichere und souver&#228;ne Betrieb Kritischer Infrastrukturen h&#228;ngt auf Grund der voranschreitenden
+Digitalisierung und Vernetzung zunehmend von bestimmten kritischen Komponenten und damit auch von deren Herstellern
+ab. Dies gilt gerade f&#252;r die zuk&#252;nftigen Mobilfunknetze, die zunehmend das R&#252;ckgrat der digitalen Gesellschaft
+bilden werden. Damit spielen auch die &#8222;Vertrauensw&#252;rdigkeit&#8220; der Hersteller und mithin Gefahren, die aus der
+Sph&#228;re der Hersteller kritischer Komponenten stammen k&#246;nnen, eine besondere Rolle beim Schutz der
+&#246;ffentlichen Ordnung und Sicherheit. Im IT-Sicherheitsgesetz 2.0 wird mit dem neuen &#167; 9b BSIG erstmals eine
+M&#246;glichkeit geschaffen, den Einsatz kritischer Komponenten bestimmter Hersteller durch Anordnungen
+einzuschr&#228;nken oder als Ultima Ratio zu untersagen, sofern der Einsatz voraussichtlich eine Gefahr f&#252;r die &#246;ffentliche
+Ordnung und Sicherheit der Bundesrepublik Deutschland darstellt. Damit wird eine der Kernforderungen der sog. EU
+5G Toolbox (&#8222;Cybersecurity of 5G networks &#8211; EU Toolbox of risk mitigating measures&#8220;) umgesetzt, welche
+ausdr&#252;cklich Begrenzungen des Einsatzes sog. &#8222;high risk suppliers&#8220; in den 5G-Netzen fordert (&#8222;Strategic measure 
+03&#8220;).
+Die Verabschiedung des IT-Sicherheitsgesetzes wird begleitet durch weitere wesentliche Ma&#223;nahmen zur
+Sicherstellung der Integrit&#228;t von Mobilfunknetzen an anderer Stelle. So ist eine weitere Kernforderung der EU Toolbox
+die Verhinderung von Monokulturen in der Netztopologie (&#8222;Strategic measure 05&#8220;). Dies ist durch den Einsatz
+von Komponenten m&#246;glichst vieler Hersteller sicherzustellen.
+Vor diesem Hintergrund ist die Entscheidung der Bundesregierung, im Rahmen des Konjunktur- und
+Zukunftspaketes zwei Milliarden Euro in die Entwicklung k&#252;nftiger Netztechnologien zu investieren, nicht nur als eine 
+wirtschaftspolitische Ma&#223;nahme, sondern auch als ein Beitrag zur Sicherheit unserer Mobilfunknetze zu
+begr&#252;&#223;en.
+Ma&#223;nahmen nach &#167; 9b BSIG k&#246;nnen im Einzelfall dazu f&#252;hren, dass die betroffenen Betreiber Kritischer
+Infrastrukturen kritische Komponenten nicht wie beabsichtigt &#8211; oder nicht wie bereits erfolgt weiter &#8211; in ihren
+Kritischen Infrastrukturen einsetzen k&#246;nnen. Damit handelt es sich bei Ma&#223;nahmen nach &#167; 9b BSIG im Einzelfall um
+Begrenzungen der Eigent&#252;merbefugnisse in Form von Inhalts- und Schrankenbestimmungen. Im Rahmen der
+Ausarbeitung des &#167; 9b BSIG wurde daher sorgf&#228;ltig und umfangreich gepr&#252;ft, ob sich diese Regelung in den
+Grenzen h&#228;lt, bei denen die Begrenzungen der Eigent&#252;merbefugnisse als Ausfluss der Sozialgebundenheit des
+Eigentums (Artikel 14 Absatz 2 GG) entsch&#228;digungslos hinzunehmen sind. 
+In Anbetracht der m&#246;glichen Szenarien, in denen es zu einer Anordnung oder einer Untersagung in Bezug auf den
+Einsatz kritischer Komponenten kommen kann, und unter Ber&#252;cksichtigung und Abw&#228;gung der Interessen der
+betroffenen Unternehmen sowie den Interessen der Allgemeinheit an dem sicheren Betrieb Kritischer
+Infrastruktur und deren Rolle f&#252;r das Gemeinwohl ist eine Entsch&#228;digung im Rahmen der verfassungsrechtlichen Vorgaben
+nicht notwendig.
+Dabei wurden auch die zurechenbaren Verantwortungssph&#228;ren mit in die Ab-w&#228;gung einbezogen. Die Betreiber
+der Kritischen Infrastrukturen haben jeweils die Gesamtverantwortung f&#252;r den sicheren Betrieb inne. Da die
+Betreiber dazu verpflichtet sind, angemessene organisatorische und technische Vorkehrungen zur Vermeidung von
+St&#246;rungen der Verf&#252;gbarkeit, Integrit&#228;t, Authentizit&#228;t und Vertraulichkeit ihrer informationstechnischen Systeme, 
+Komponenten oder Prozesse zu treffen, strahlt diese Pflicht auch auf die angemessene Auswahl der Zulieferer der
+eingesetzten Komponenten aus. Derartige Abw&#228;gungen und Pr&#252;fungen bei Auswahl der Komponenten sind bei
+dem Betrieb Kritischer Infrastrukturen, die im Interesse der Allgemeinheit &#8211; und des Schutzguts der &#246;ffentlichen
+Sicherheit und Ordnung &#8211; &#8222;sicher&#8220; zu betreiben sind, auch aus eigenem wirtschaftlichen Interesse immer zu
+machen.
+F&#252;r den Sektor der &#8222;&#246;ffentlichen Telekommunikationsnetze&#8220; &#8211; und nur f&#252;r diesen Bereich wird mit dem IT-
+Sicherheitsgesetz 2.0 die M&#246;glichkeit geschaffen, auch kritische Komponenten festzulegen &#8211; wurde bereits der
+Katalog von Sicherheitsanforderungen f&#252;r das Betreiben von Telekommunikations- und
+Datenverarbeitungssystemen sowie f&#252;r die Verarbeitung personenbezogener Daten nach &#167; 109 Telekommunikationsgesetz aktualisiert und
+um neue Anforderungen an den sicheren Betrieb der Netze erweitert (Bearbeitungsstand 29. April 2020, in Kraft
+seit dem 23. Dezember 2020; die Betroffenen hatten ab dem 11. August 2020 Gelegenheit zur Stellungnahme).
+Darin wird unter Punkt 3.1.3 des Kataloges ausdr&#252;cklich aufgef&#252;hrt, dass die Bereitstellung von
+Telekommunikationsdiensten oft nur unter R&#252;ckgriff auf Dritte erfolgen kann und Lieferanten und Erf&#252;llungsgehilfen vor
+diesem Hintergrund eine wichtige Rolle einnehmen. Aus diesem Grund wird explizit gefordert, dass das pflichtige 
+Unternehmen daher eine Bewertung der Zuverl&#228;ssigkeit, Vertrauensw&#252;rdigkeit und Qualit&#228;t des
+Erf&#252;llungsgehilfen oder Lieferanten vornehmen muss.
+Ferner wurde im Rahmen der Abw&#228;gung ber&#252;cksichtigt, dass es die Regelung erm&#246;glicht, dass neben der
+Untersagung des Einsatzes auch sonstige Anordnungen erlassen werden k&#246;nnen, um die erkannten Gefahren &#8211; sofern
+als milderes Mittel ausreichend &#8211; abzuwehren. Im Rahmen der Ermessensentscheidung muss zudem auch die
+verfassungsimmanente Grenze der Verh&#228;ltnism&#228;&#223;igkeit beachtet werden. Unverh&#228;ltnism&#228;&#223;ige Ma&#223;nahmen
+scheiden daher aus. Diese Ausgestaltung sorgt daf&#252;r, dass alle Aspekte des Betriebs der Kritischen Infrastruktur im
+Rahmen der Entscheidung nach &#167; 9b BSIG-E in ausreichender Weise beachtet werden k&#246;nnen.
+Bei der Anwendung des &#167; 9b &#8211; insbesondere bei der Untersagung des Einsatzes bereits eingebauter Komponenten
+&#8211; sind von der Bundesregierung die Auswirkungen auf die Funktionalit&#228;t der betroffenen Kritischen Infrastruktur
+sowie volkswirtschaftliche und gesellschaftliche Folgewirkungen zu ber&#252;cksichtigen. Dazu k&#246;nnen u. a. die
+Auswirkungen auf die Ausbauziele im Mobilfunk sowie auf die Entwicklung von digitalen Innovationen in unserem
+Land z&#228;hlen. 
+Da die technologische Entwicklung der kritischen Komponenten in dynamischer Weise voranschreitet und sich
+dadurch auch die Gef&#228;hrdungslage mit Blick auf Kritische Infrastrukturen &#228;ndern kann, sollte aber auch
+fortlaufend gepr&#252;ft werden, ob die zur Verf&#252;gung stehenden Ma&#223;nahmen weiterhin angemessen sind, um Gefahren f&#252;r
+die &#246;ffentliche Ordnung und Sicherheit wirksam abzuwenden. 
+Auch kommt dem Staat die Aufgabe zu, den Einsatz von sicheren und vertrauensw&#252;rdigen kritischen
+Komponenten in geeigneter Weise zu f&#246;rdern. 
+II. Der Ausschuss f&#252;r Inneres und Heimat des Deutschen Bundestages fordert die Bundesregierung auf,
+1. a) das BSI organisatorisch so aufzustellen, dass es die bestehenden und durch das IT-Sicherheitsgesetz
+2.0 erweiterten Aufgaben und Befugnisse so nutzen kann, dass Hersteller effektiv &#252;ber gemeldete oder
+detektierte IT-Schwachstellen durch das BSI informiert werden;
+b) zu pr&#252;fen, ob die f&#252;r Hersteller bestehenden (insbesondere zivilrechtlichen) Pflichten zum Schlie&#223;en
+von durch das BSI gemeldeten Sicherheitsl&#252;cken ausreichen, damit Hersteller ihrer Verantwortung
+zur Behebung von Fehlern in IT-Produkten entsprechen;
+2. im BSI technisch und organisatorisch sicherzustellen, dass bei der Durchf&#252;hrung von Ma&#223;nahmen auf
+Grundlage der Befugnis von &#167; 7c Absatz 1 Satz 1 Nummer 2 des Entwurfs des BSI-Gesetzes rechtwidrige 
+Eingriffe in das Grundrecht auf Gew&#228;hrleistung der Vertraulichkeit und Integrit&#228;t
+informationstechnischer Systeme von vornherein ausgeschlossen sind;
+3. die gesetzliche Einf&#252;hrung weiterer M&#246;glichkeiten zur &#220;berpr&#252;fung der Vertrauensw&#252;rdigkeit von
+Besch&#228;ftigten in besonders sicherheitskritischen Bereichen bei Betreibern Kritischer Infrastrukturen und
+Unternehmen im besonderen &#246;ffentlichen Interesse zu pr&#252;fen;
+4. zur St&#228;rkung des Informationsflusses in beide Richtungen und zur Verbesserung des Lagebilds des BSI
+zu Kritischen Infrastrukturen, in der n&#228;chsten Legislaturperiode ein geeignetes System zu entwickeln und
+umzusetzen, mit dem spezialisierte technische Informationen zu Pr&#228;vention, Detektion und Reaktion
+effizient und effektiv zwischen den zust&#228;ndigen Beh&#246;rden und den Betreibern Kritischer Infrastrukturen 
+automatisiert ausgetauscht werden k&#246;nnen;
+5. a) die Anwendung des &#167; 9b BSIG fortlaufend zu &#252;berwachen und zu pr&#252;fen, ob die Erfahrungen aus der
+Verwaltungspraxis Anlass zu einer Anpassung der gesetzlichen Rahmenbedingungen geben. Dabei
+ist auch zu pr&#252;fen, ob infolge solcher Anpassungen Entsch&#228;digungsregelungen geboten sind und
+gegebenenfalls, wie solche umgesetzt werden k&#246;nnen;
+b) die Bundesregierung soll ferner zur St&#228;rkung der digitalen Souver&#228;nit&#228;t der Bundesrepublik
+Deutschland den Einsatz von sicheren kritischen Komponenten in Kritischen Infrastrukturen, insb. in
+Telekommunikationsnetzen, im Einklang mit den Empfehlungen der EU 5G Toolbox, mit geeigneten
+Mitteln f&#246;rdern.
+2. Zuvor hat der Ausschuss f&#252;r Inneres und Heimat &#196;nderungsantr&#228;ge der Fraktionen der AfD und FDP jeweils
+abgelehnt.
+a) Die &#196;nderungsantr&#228;ge der Fraktion der AfD auf Ausschussdrucksachen 19(4)809 A bis C hat der Ausschuss
+jeweils mit den Stimmen der Fraktionen CDU/CSU, SPD, FDP, DIE LINKE. und B&#220;NDNIS 90/DIE GR&#220;NEN
+gegen die Stimmen der Fraktion der AfD abgelehnt.
+Der &#196;nderungsantrag auf Ausschussdrucksache 19(4)809 A hat einschlie&#223;lich Begr&#252;ndung folgenden Wortlaut:
+Der Bundestag wolle beschlie&#223;en:
+Artikel 6 wird wie folgt ge&#228;ndert:
+In Absatz 1 wird der einleitende Halbsatz vor Nummer 1 wie folgt gefasst:
+&#8222;Das Bundesministerium des Innern, f&#252;r Bau und Heimat berichtet dem Deutschen Bundestag unter Einbeziehung
+von wissenschaftlichem Sachverstand, der im Einvernehmen mit dem Deutschen Bundestag bestellt wird, ...&#8220;
+Begr&#252;ndung
+Die Evaluierung der geplanten Gesetzes&#228;nderungen soll durch wissenschaftliche Sachverst&#228;ndige erfolgen, die
+nicht nur vom Bundesministerium des Innern, f&#252;r Bau und Heimat, sondern die im Einvernehmen mit dem
+Deutschen Bundestag bestellt werden, um die parlamentarische Kontrollfunktion hinreichend zu gew&#228;hrleisten. Damit
+wird ein Verfahren gew&#228;hlt, dass auch bereits im aktuell noch g&#252;ltigen IT-Sicherheitsgesetz vorgeschrieben ist. 
+Der &#196;nderungsantrag auf Ausschussdrucksache 19(4)809 B hat einschlie&#223;lich Begr&#252;ndung folgenden Wortlaut:
+Der Bundestag wolle beschlie&#223;en:
+1. Artikel 1 Nummer 1 wird wie folgt ge&#228;ndert:
+In &#167;2 wird der unter e) neu angef&#252;gte Absatz 13 zur Definition Kritischer Komponenten nach dem Punkt 3b)
+pr&#228;zisierend erg&#228;nzt: &#8222;F&#252;r den Bereich der Kritischen Infrastrukturen, die ein &#246;ffentliches
+Telekommunikationsnetz betreiben oder &#246;ffentlich zug&#228;ngliche Telekommunikationsdienste erbringen, legt beispielsweise &#167; 109
+Absatz 6 des Telekommunikationsgesetzes fest, dass die Bundesnetzagentur im Einvernehmen mit dem BSI und dem
+Bundesbeauftragten f&#252;r den Datenschutz und die Informationsfreiheit in einem Katalog von
+Sicherheitsanforderungen bestimmt, welche Funktionen in diesem Bereich kritisch im Sinne des BSIG sind. Komponenten, welche
+die in dem Katalog von Sicherheitsanforderungen aufgef&#252;hrten Funktionen realisieren, sind damit kritische
+Komponenten im Sinne des &#167; 2 Absatz 13 BSIG.&#8220;
+2. Artikel 1 Nummer 2 wird wie folgt ge&#228;ndert:
+In &#167;3 wird die unter g) neu angef&#252;gte Nummer 20 um folgenden Halbsatz erg&#228;nzt: &#8222;..., im Rahmen der
+entsprechenden normgebenden Institutionen wie z. B. DIN, ETSI, etc.&#8220;
+3. Artikel 1 Nummer 19 wird wie folgt ge&#228;ndert:
+In &#167;9c wird in Absatz (6) der 2. Satz wie folgt gefasst: &#8222;Das IT-Sicherheitskennzeichen muss in jedem Fall auch
+elektronisch ver&#246;ffentlicht werden.&#8220; Satz 3 &#8222;Wenn nach der Beschaffenheit des Produktes das Anbringen nicht
+m&#246;glich ist, muss die Ver&#246;ffentlichung des IT-Sicherheitskennzeichens elektronisch erfolgen.&#8220; wird daf&#252;r
+ersatzlos gestrichen.
+4. Artikel 1 Nummer 1 wird wie folgt ge&#228;ndert:
+In &#167;2 Abs. 3 und Abs. 4 wird jeweils Satz 2 ersatzlos gestrichen.
+5. Artikel 1 Nummer 11 wird wie folgt ge&#228;ndert:
+In Absatz 1 wird das Wort &#8222;Einvernehmen&#8220; durch das Wort &#8222;Benehmen&#8220; ersetzt
+6. Artikel 1 Nummer 19 wird wie folgt ge&#228;ndert:
+a) In &#167;9b Absatz 2 wird Satz 5 wie folgt ge&#228;ndert: &#8222;Das Bundesministerium des Innern, f&#252;r Bau und Heimat legt
+die Mindestanforderungen f&#252;r die Garantieerkl&#228;rung im Benehmen mit den betroffenen Ressorts...&#8220;.
+b) In &#167;9b Absatz 3 wird die Frist jeweils von &#8222;einem Monat&#8220; auf &#8222;zwei Monate&#8220; erweitert.
+Begr&#252;ndung
+Zu 1): Die pr&#228;zisere Definition des Begriffs &#8222;Kritische Komponenten&#8220; &#252;ber einen Verweis auf &#167;109 TKG im
+Gesetzestext selbst und nicht nur in seiner Begr&#252;ndung soll zu mehr Rechtssicherheit f&#252;hren.
+Zu 2): Die f&#252;r das BSI neu geplante Aufgabe der &#8222;Entwicklung und Ver&#246;ffentlichung eines Stands der Technik
+bei sicherheitstechnischen Anforderungen an IT-Produkte&#8220; soll im Rahmen der etablierten normgebenden
+Institutionen erfolgen, um eine Beteiligung aller interessierten Kreise zu erm&#246;glichen. 
+Zu 3): Die Ver&#246;ffentlichung des IT-Sicherheitskennzeichens auf elektronischem Wege nur f&#252;r den Fall, dass es
+sich nicht am Produkt anbringen l&#228;sst, ist aus Transparenz und Sicherheitsgr&#252;nden unzureichend. Auch aus
+Gr&#252;nden der Wettbewerbsgleichheit muss das IT-Sicherheitskennzeichen in jedem Fall elektronisch ver&#246;ffentlicht
+werden. 
+Zu 4): Eine Herausnahme der &#8222;Kommunikationstechnik der Bundesgerichte, soweit sie nicht &#246;ffentlich-rechtliche
+Verwaltungsaufgaben wahrnehmen, des Bundestages, des Bundesrates, des Bundespr&#228;sidenten und des
+Bundesrechnungshofes, soweit sie ausschlie&#223;lich in deren eigener Zust&#228;ndigkeit betrieben wird&#8220; sowie der
+entsprechenden &#8222;Schnittstellen der Kommunikationstechnik&#8220; aus dem Anwendungsbereich des BSI-G ist aus Gr&#252;nden der
+IT-Sicherheit nicht nachzuvollziehen.  
+Zu 5) und 6a): Um das Verfahren zu vereinfachen und zu beschleunigen sowie um zu h&#246;herer IT- und
+Rechtssicherheit zu gelangen, sollte das BMI nicht im &#8222;Einvernehmen&#8220; sondern lediglich im &#8222;Benehmen&#8220; mit den
+betroffenen Ressorts handeln m&#252;ssen.
+Zu 6b): Aus Praktikabilit&#228;tsgr&#252;nden wird die Frist zur Pr&#252;fung einer kritischen Komponente von dem Eingang
+der Anzeige bis zur Untersagung oder Anordnung von einem auf zwei Monate erweitert. 
+Der &#196;nderungsantrag auf Ausschussdrucksache 19(4)809 C hat einschlie&#223;lich Begr&#252;ndung folgenden Wortlaut:
+Der Bundestag wolle beschlie&#223;en:
+Artikel 1 Nummer 19 wird wie folgt ge&#228;ndert:
+In &#167; 9b wird Absatz 4 wie folgt gefasst:
+&#8222;Das Bundesministerium des Innern, f&#252;r Bau und Heimat muss den Betrieb einer kritischen Komponente
+gegen&#252;ber dem Betreiber der Kritischen Infrastruktur im Benehmen mit den betroffenen Ressorts untersagen oder
+Anordnungen erlassen, wenn der Hersteller der kritischen Komponente sich als nicht vertrauensw&#252;rdig erwiesen
+hat oder bereits bei Anzeige nach Absatz 1 als nicht vertrauensw&#252;rdig bewertet wird&#8220;. 
+b. In &#167; 9b wird in Absatz 5 als neue Ziffer 1 eingef&#252;gt:
+&#8222;er bereits im Rahmen der Anzeige nach Absatz 1 vom Bundessicherheitsrat als nicht vertrauensw&#252;rdig (in Form
+eines staatsnahen Anbieters aus einem undemokratischen Land) bewertet wird, oder&#8220;. Die weiteren Ziffern
+werden entsprechend neu nummeriert. Die neuen Ziffern 2 bis 4 werden am Satzende um das Wort &#8222;oder&#8220; erg&#228;nzt. 
+c. In &#167; 9b wird in Absatz 5 der letzte Satz (&#8222;Ein Versto&#223; nach Nummer 5 liegt nicht vor, wenn...&#8220;) nach der
+neuen Ziffer 6 ersatzlos gestrichen.
+d. In &#167; 9b wird in Absatz 5 eine Ziffer 3 erg&#228;nzt mit dem Wortlaut:
+&#8222;eine Kompensationsregelung mit dem betroffenen Mobilfunknetzbetreiber aushandeln.&#8220;
+e. In &#167; 9b wird in Absatz 2 als letzter Satz erg&#228;nzt: &#8222;Eine R&#252;ckwirkung des Verbots in Satz 1 auf
+Bestandsnetze wird aus Gr&#252;nden des Investitions- und Vertrauensschutzes ausgeschlossen.&#8220;
+Begr&#252;ndung
+In dem vorgelegten Entwurf eines IT-Sicherheitsgesetzes 2.0 bleiben zentrale Fragen zu entstehenden Kosten
+sowie zu Planungs-, Investitions- und Rechtssicherheit bez&#252;glich der Verwendung von Netzwerkkomponenten
+genau so offen, wie Fragen nach dem R&#252;ckgriff auf das Bestandsnetz. So gehen Netzwerkbetreiber ein erh&#246;htes
+Kosten-Risiko ein, wenn sie derzeit Netzwerkkomponenten verwenden oder einbauen, die bei k&#252;nftigen Pr&#252;fungen
+nach &#167;9b untersagt werden k&#246;nnten. 
+Es wurde von der Bundesregierung vers&#228;umt, im Rahmen des IT-Sicherheitsgesetzes 2.0 eine klare und endg&#252;ltige
+politische Entscheidung dar&#252;ber zu treffen, ob staatsnahe Netzwerksausr&#252;ster aus undemokratischen L&#228;ndern am
+Ausbau kritischer 5G Infrastruktur beteiligt werden d&#252;rfen. Die Netzwerkbetreiber m&#252;ssen eine entsprechende
+Entscheidung der Beh&#246;rde (Untersagungsvorbehalt) abwarten, bevor der Einsatz von kritischen Komponenten
+zum Beispiel aus China m&#246;glicherweise gestattet wird.
+Mit zunehmender informationstechnischer Komplexit&#228;t der eingesetzten kritischen Komponenten bleibt ein
+wesentlicher Teil der Beherrschbarkeit der Technologie im Rahmen der Produktpflege (Softwareupdates, Firmware-
+Updates, Schlie&#223;en von Sicherheitsl&#252;cken) beim Hersteller selbst oder in der weiteren Lieferkette und nicht beim
+Betreiber des Netzwerkes oder bei den Beh&#246;rden. Daher und aufgrund der zu erwartenden stetigen Updates
+(Softoder Fimware) bieten weder eine Komponentenzertifizierung, noch hohe technische Sicherheitsanforderungen
+eine ausreichende Sicherheit dahingehend, dass die Hersteller keine missbr&#228;uchlichen Zugriffsm&#246;glichkeiten auf
+Hard- und Software implementieren oder sonstige Handlungen vornehmen, die Sabotage oder Spionage
+erm&#246;glichen (https://www.bmi.bund.de/SharedDocs/gesetzgebungsverfahren/DE/Downloads/referentenentwuerfe/ent-
+wurf-zweites-it-sicherheitsgesetz.pdf?__blob=publicationFile&amp;v=1).
+Ein maximaler Schutz hoheitlicher, personenbezogener, wissenschaftlicher und wirtschaftlich verwertbarer
+Daten und der damit einhergehenden digitalen Souver&#228;nit&#228;t ist von &#252;bergeordneter Bedeutung. Insbesondere
+Softwarekomponenten bilden einen zentralen Bestandteil der 5G Netzwerke. Die Funktionalit&#228;t dieser Komponenten
+kann nach einem abgeschlossenen Zulassungsverfahren unvermittelt &#252;ber Updates angepasst werden und w&#252;rde
+sich damit der Kontrolle der Beh&#246;rden entziehen. Dieser zentrale Aspekt moderner Telekommunikationsnetze
+wird im vorliegenden Entwurf nicht hinreichend ber&#252;cksichtigt.
+Zu 1a): Die &#196;nderung von einer &#8222;kann&#8220; in eine &#8222;muss&#8220;-Formulierung soll das Verfahren vereinfachen,
+beschleunigen sowie zu h&#246;herer IT- und Rechtssicherheit f&#252;hren. Das BMI sollte aus den gleichen Gr&#252;nden nicht im
+&#8222;Einvernehmen&#8220; sondern lediglich im &#8222;Benehmen&#8220; mit den betroffenen Ressorts handeln m&#252;ssen. Aus den gleichen
+Gr&#252;nden sollte die M&#246;glichkeit der Untersagung bereits bei Anzeige nach Absatz 1 erfolgen k&#246;nnen, wenn zu
+diesem Zeitpunkt bereits die eine Bewertung als nicht vertrauensw&#252;rdig vorliegt. 
+Zu 1b): Die M&#246;glichkeit der Bewertung als nicht vertrauensw&#252;rdig durch den Bundessicherheitsrat soll auf ein
+bew&#228;hrtes Verfahren im Rahmen der Ausfuhrkontrolle zur&#252;ckgreifen. Auch dadurch soll es zu einem
+vereinfachten und beschleunigten Verfahren und damit zu h&#246;herer IT- und Rechtssicherheit kommen. 
+Zu 1c): Der nachtr&#228;gliche Nachweis eines Herstellers, eine z. B. Sicherheitsl&#252;cke nicht implementiert oder
+ordnungsgem&#228;&#223; beseitigt zu haben ist f&#252;r einen wirksamen Ordnungsrahmen f&#252;r IT-Sicherheit nicht zutr&#228;glich, da
+er die Verantwortung und damit den Handlungsdruck des federf&#252;hrenden Akteurs nahezu beseitigt. 
+Zu 1d und 1e): Die Einf&#252;hrung einer Kompensationsregelung f&#252;r den betroffenen Mobilfunknetzbetreiber sowie
+der Bestandsschutz f&#252;r Netzwerke soll zu mehr Planungs- und Investitionssicherheit f&#252;hren.
+b) Die &#196;nderungsantr&#228;ge der Fraktion der FDP auf Ausschussdrucksachen 19(4)813 A, B und H hat der
+Ausschuss jeweils mit den Stimmen der Fraktionen der CDU/CSU, SPD und AfD gegen die Stimmen der Fraktionen
+FDP und DIE LINKE. bei Stimmenthaltung der Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN abgelehnt.
+Den &#196;nderungsantrag der Fraktion der FDP auf Ausschussdrucksache 19(4)813 C hat der Ausschuss mit den
+Stimmen der Fraktionen der CDU/CSU und SPD gegen die Stimmen der Fraktionen FDP und DIE LINKE. bei
+Stimmenthaltung der Fraktionen AfD und B&#220;NDNIS 90/DIE GR&#220;NEN abgelehnt.
+Den &#196;nderungsantrag der Fraktion der FDP auf Ausschussdrucksache 19(4)813 D hat der Ausschuss mit den
+Stimmen der Fraktionen der CDU/CSU, SPD und AfD gegen die Stimmen der Fraktionen FDP, DIE LINKE. und
+B&#220;NDNIS 90/DIE GR&#220;NEN abgelehnt.
+Die &#196;nderungsantr&#228;ge der Fraktion der FDP auf Ausschussdrucksachen 19(4)813 E und F hat der Ausschuss
+jeweils mit den Stimmen der Fraktionen der CDU/CSU und SPD gegen die Stimmen der Fraktionen AfD, FDP,
+DIE LINKE. und B&#220;NDNIS 90/DIE GR&#220;NEN abgelehnt. 
+Den &#196;nderungsantrag der Fraktion der FDP auf Ausschussdrucksache 19(4)813 G hat der Ausschuss mit den
+Stimmen der Fraktionen CDU/CSU, SPD, AfD und DIE LINKE. gegen die Stimmen der Fraktionen FDP und
+B&#220;NDNIS 90/DIE GR&#220;NEN abgelehnt.
+Der &#196;nderungsantrag auf Ausschussdrucksache 19(4)813 A hat einschlie&#223;lich Begr&#252;ndung folgenden Wortlaut:
+Der Ausschuss wolle beschlie&#223;en,
+den Gesetzentwurf auf BT-Drucksache 19/26106 mit folgenden Ma&#223;gaben zu &#228;ndern:
+1. Artikel 1 Nr. 1 lit. e) wird wie folgt ge&#228;ndert:
+&#167; 2 Absatz 13 BSIG-E wird aufgehoben. 
+2. Artikel 1 Nr. 19 wird wie folgt ge&#228;ndert:
+&#167; 9b BSIG-E wird aufgehoben. 
+ Begr&#252;ndung
+Die Regelungen mit Ber&#252;hrungspunkten zum Mobilfunkstandard 5G sind aus dem Entwurf eines Zweiten Gesetzes
+zur Erh&#246;hung der Sicherheit informationstechnischer Systeme zu streichen. Systematisch f&#252;gt sich dieser Komplex
+wesentlich besser ein in das laufende Gesetzgebungsverfahren des "Gesetzes zur Umsetzung der Richtlinie (EU)
+2018/1972 des Europ&#228;ischen Parlaments und des Rates vom 11. Dezember 2018 &#252;ber den europ&#228;ischen Kodex
+f&#252;r die elektronische Kommunikation (Neufassung) und zur Modernisierung des Telekommunikationsrechts
+(Telekommunikationsmodernisierungsgesetz) (BMWi)", BT-Drs. 19/26108. Es sollten weiterhin keine Definitionen
+eingef&#252;hrt werden, die nicht bereits im Telekommunikationsgesetz (TKG) vorgesehen sind. Wohingegen eine
+Erweiterung des &#167; 109 Absatz 6 TKG um neue Kategorien oder zumindest eine Angleichung sinnvoll erscheint.
+Hierbei dient die ausf&#252;hrende Rechtsverordnung als Anlage zum Katalog von Sicherheitsanforderungen f&#252;r das
+Betreiben von Telekommunikations- und Datenverarbeitungssystemen sowie f&#252;r die Verarbeitung
+personenbezogener Daten (TK-Sicherheitskatalog) gem&#228;&#223; &#167; 109 Absatz 6 TKG in Verbindung mit &#167; 10 Absatz 1 BSI-Gesetz
+(BSIG) als Vorbild. Demzufolge ist vor Erlass eine "Anh&#246;rung von Vertretern der Wissenschaft, der betroffenen
+Betreiber und der betroffenen Wirtschaftsverb&#228;nde" erforderlich. 
+Unabh&#228;ngig von der Frage der systematischen Verortung der Vorgaben f&#252;r den Einsatz von kritischen
+Komponenten im Sinne des &#167; 2 Abs. 13 BSIG-E, wurden in der &#246;ffentlichen Anh&#246;rung des Ausschusses f&#252;r Inneres und
+Heimat am 01.03.2021 zum vorliegenden Gesetzentwurf erhebliche verfassungsrechtliche Zweifel an der
+Regelung des &#167; 9b BSIG-E ge&#228;u&#223;ert. Dies bezog sich insbesondere auf den grundgesetzlich verankerten Vorbehalt des
+Gesetzes, der in Verbindung mit dem sogenannten Wesentlichkeitsgebot eine gesetzgeberische Entscheidung zu
+wesentlichen Regelungsfragen fordert, die bestimmt und daher f&#252;r alle Betroffenen auch vorhersehbar sein
+m&#252;ssen. Die gem&#228;&#223; &#167; 9b Abs. 2 Satz 5 BSIG-E vorgesehene Auslagerung der Entscheidung &#252;ber
+Mindestanforderungen f&#252;r die geforderte Garantieerkl&#228;rung unter Ber&#252;cksichtigung &#252;berwiegender &#246;ffentlicher Interessen,
+insbesondere sicherheitspolitischer Belange, auf eine Allgemeinverf&#252;gung, die vom Bundesministerium des Innern, f&#252;r
+Bau und Heimat, im Einvernehmen mit den betroffenen Ressorts abgestimmt wird, gen&#252;gt diesem Anspruch nicht.
+Deshalb ist vor der &#220;berf&#252;hrung der Regelungen zum Einsatz kritischer Komponenten in das
+Telekommunikationsmodernisierungsgesetz eine grundlegende &#220;berarbeitung der vorgeschlagenen Regelungen erforderlich.
+Der &#196;nderungsantrag auf Ausschussdrucksache 19(4)813 B hat einschlie&#223;lich Begr&#252;ndung folgenden Wortlaut:
+Der Ausschuss wolle beschlie&#223;en,
+den Gesetzentwurf auf BT-Drucksache 19/26106 mit folgenden Ma&#223;gaben zu &#228;ndern:
+1. Artikel 1 Nr. 3 werden folgende S&#228;tze vorangestellt:
+a) &#167; 4 Absatz 3 wird wie folgt gefasst:
+"Werden Bundesministerien oder anderen Bundesbeh&#246;rden Informationen nach Absatz 2 Nummer 1 bekannt,
+unterrichten diese hier&#252;ber unverz&#252;glich das Bundesamt."
+b) &#167; 4 Absatz 4 wird aufgehoben. 
+c) &#167; 4 Absatz 5 wird aufgehoben. 
+d) &#167; 4 Absatz 6 wird &#167; 4 Absatz 4 und folgende W&#246;rter angef&#252;gt:
+", die &#246;ffentlich bekannt gemacht wird." 
+2. Der bisherige Artikel 1 Nr. 3 wird Artikel 1 Nr. 3 lit. e) und wie folgt ge&#228;ndert:
+a) In &#167; 4b Absatz 3 wird das Wort "soll" durch das Wort "nutzt" ersetzt und das Wort "nutzen" gestrichen.
+b) Dem &#167; 4b Absatz 3 wird folgende Nr. 5 angef&#252;gt:
+"5. in allen gemeldeten F&#228;llen von Sicherheitsl&#252;cken darauf hinzuwirken, dass diese von den f&#252;r ein
+informationstechnisches System Verantwortlichen geschlossen werden und in Koordination mit den Verantwortlichen
+einen koordinierten Offenlegungsprozess f&#252;r die erkannte Sicherheitsl&#252;cke einzuleiten, sofern hiervon auch Dritte
+betroffen sind."
+c) &#167; 4b Absatz 4 wird aufgehoben.
+d) Der bisherige &#167; 4b Absatz 5 wird &#167; 4b Absatz 4. 
+3. Artikel 1 Nr. 11 lit. a) wird wie folgt ge&#228;ndert:
+In &#167; 8 Abs. 1a) BSIG-E wird Satz 6 wie folgt gefasst:
+&#8222;Im gem&#228;&#223; &#167; 4a Absatz 6 benannten Gesch&#228;ftsbereich des Bundesministeriums der Verteidigung sind eigene
+Mindeststandards auf einem vergleichbaren Sicherheitsniveau der Mindeststandards f&#252;r die Sicherheit der
+Informations- und Kommunikationstechnik umzusetzen. Abweichungen von den Mindeststandards sind in sachlich
+gerechtfertigten Einzelf&#228;llen nach vorheriger Risikoanalyse zul&#228;ssig.&#8220;
+Begr&#252;ndung
+Ziffer 1
+Die Unterrichtungspflichten gegen&#252;ber dem Bundesamt f&#252;r Sicherheit in der Informationstechnik (BSI) in Bezug
+auf bekannt gewordene Informationen &#252;ber Gefahren f&#252;r die Sicherheit in der Informationstechnik, insbesondere
+zu Sicherheitsl&#252;cken, Schadprogrammen, erfolgten oder versuchten Angriffen auf die Sicherheit in der
+Informationstechnik und den dabei beobachteten Vorgehensweisen, werden auch auf die Bundesministerien ausgeweitet.
+Die formulierten Auffangnormen f&#252;r Ausnahmen zur Unterrichtungspflicht gegen&#252;ber dem BSI sind nicht
+notwendig, da sie ohnehin auf bereits bestehende Rechtsregime und gesetzliche Regelungen verweisen. 
+Eine sachliche Begr&#252;ndung der Ausnahme von den neu geschaffenen Befugnissen des BSI zur Kontrolle der
+Sicherheit der Kommunikationstechnik f&#252;r die Auslandsinformations- und Kommunikationstechnik gem&#228;&#223; &#167; 9
+Absatz 2 des Gesetzes &#252;ber den Ausw&#228;rtigen Dienst ist nicht ersichtlich. Die Gesetzesbegr&#252;ndung spricht nur von
+"besonderen Anforderungen an die im Ausland belegene Informations- und Kommunikationstechnik", denen
+Rechnung getragen werden m&#252;sse, ohne diese Anforderungen jedoch genauer zu benennen. Alternative Ans&#228;tze
+zur Kontrolle der Sicherheit der Kommunikationstechnik, die im Ausland belegen ist, werden nicht vorgeschlagen.
+Deshalb soll &#167; 4 Abs. 5 BSIG-E ersatzlos aufgehoben werden. Im Gegensatz dazu wird die vorgeschlagene
+Ausnahme von den neu geschaffenen Befugnissen des BSI zur Kontrolle der Sicherheit der Kommunikationstechnik,
+die f&#252;r die Bundeswehr und ihre Zwecke betrieben wird, sachlich begr&#252;ndet. Es wird zudem in der
+Gesetzesbegr&#252;ndung eine Kontrolle in eigener Verantwortung als Alternative beschrieben, jedoch im Normtext nur durch
+Verweis auf eine Verwaltungsvereinbarung verankert. Um hier Transparenz &#252;ber das vereinbarte Verfahren zu
+schaffen, wird eine Verpflichtung zur Ver&#246;ffentlichung der Verwaltungsvereinbarung in &#167; 4 Abs. 6 S. 2 a.E. BSIG-
+E aufgenommen.
+Ziffer 2
+Umwandlung von einer Soll-Vorschrift in eine Verpflichtung des BSI. Genau wie in seiner Funktion als zentrale
+Stelle f&#252;r die Sicherheit in der Informationstechnik kritischer Infrastrukturen (KRITIS) gem&#228;&#223; &#167; 8b BSIG, wird
+das BSI auch in seiner neuen Funktion als allgemeine Meldestelle f&#252;r die Sicherheit in der Informationstechnik
+verpflichtet, Informationen an die f&#252;r ein informationstechnisches System Verantwortlichen weiterzugeben.
+Au&#223;erdem wird eine neue Zielfunktion zur Verwendung der gemeldeten Informationen eingef&#252;hrt. Das BSI wird
+somit verpflichtet in allen gemeldeten F&#228;llen von Sicherheitsl&#252;cken darauf hinzuwirken, dass diese von den f&#252;r
+ein informationstechnisches System Verantwortlichen geschlossen werden und ein koordinierter
+Offenlegungsprozess f&#252;r die erkannte Sicherheitsl&#252;cke eingeleitet wird, sofern hiervon auch Dritte betroffen sind. Die
+formulierten Auffangnormen f&#252;r Ausnahmen zur Unterrichtungspflicht gegen&#252;ber dem BSI sind nicht notwendig, da sie
+ohnehin auf bereits bestehende Rechtsregime und gesetzliche Regelungen verweisen. 
+Ziffer 3
+Korrespondierend zu den &#196;nderungen in Bezug auf die neuen Kontrollbefugnisse des BSI f&#252;r die Sicherheit der
+Kommunikationstechnik soll auch die Verpflichtung der Bundeswehr zur Einhaltung der Mindeststandards der
+Sicherheit der Informations- und Kommunikationstechnik angepasst werden. Eine Ausnahme soll dergestalt
+beibehalten werden, dass eine Verpflichtung besteht, ein vergleichbares Sicherheitsniveau mit den vom BSI
+festgelegten Mindeststandards in eigener Zust&#228;ndigkeit sicherzustellen. 
+Der &#196;nderungsantrag auf Ausschussdrucksache 19(4)813 C hat einschlie&#223;lich Begr&#252;ndung folgenden Wortlaut:
+Der Ausschuss wolle beschlie&#223;en,
+den Gesetzentwurf auf BT-Drucksache 19/26106 mit folgenden Ma&#223;gaben zu &#228;ndern:
+1. In Artikel 1 Nr. 10 wird &#167; 7b Absatz 3 BSIG-E wie folgt gefasst:
+"(3) Wird durch Ma&#223;nahmen gem&#228;&#223; Absatz 1 eine Sicherheitsl&#252;cke oder ein anderes Sicherheitsrisiko eines
+informationstechnischen Systems erkannt, sind die f&#252;r das informationstechnische System Verantwortlichen
+dar&#252;ber zu informieren. Das Bundesamt soll dabei auf bestehende Abhilfem&#246;glichkeiten hinweisen und einen
+koordinierten Offenlegungsprozess f&#252;r die erkannte Sicherheitsl&#252;cke einleiten, sofern hiervon auch Dritte betroffen
+sind. Sind dem Bundesamt die Verantwortlichen nicht bekannt oder ist ihre Identifikation nur mit
+unverh&#228;ltnism&#228;&#223;igem Aufwand oder &#252;ber eine Bestandsdatenabfrage nach &#167; 5c m&#246;glich, ist hilfsweise der betreibende
+Dienstleister des jeweiligen Netzes oder Systems unverz&#252;glich zu benachrichtigen. Das Bundesamt unterrichtet die
+Bundesbeauftragte oder den Bundesbeauftragten f&#252;r den Datenschutz und die Informationsfreiheit jeweils bis zum
+30. Juni des Folgejahres &#252;ber die Anzahl der gem&#228;&#223; Absatz 1 ergriffenen Ma&#223;nahmen." 
+2. In Artikel 1 Nr. 20 lit. c) wird &#167; 10 BSIG-E folgender Absatz 7 angef&#252;gt:
+"(7) Das Bundesministerium des Innern, f&#252;r Bau und Heimat bestimmt nach Anh&#246;rung von Vertretern der
+Wissenschaft, der betroffenen Betreiber und der betroffenen Wirtschaftsverb&#228;nde und im Einvernehmen mit dem
+Bundesministerium f&#252;r Wirtschaft und Energie durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
+bedarf, das N&#228;here &#252;ber das Verfahren des koordinierten Offenlegungsprozesses nach &#167; 4b Abs. 3 S. 1 Nr. 5 und
+&#167; 7b Abs. 3 dieses Gesetzes."
+Begr&#252;ndung
+Ziffer 1
+Die &#196;nderung ist erforderlich, um vom Bundesamt f&#252;r Sicherheit in der Informationstechnik (BSI) selbst
+detektierte Sicherheitsl&#252;cken oder andere Risiken f&#252;r die IT-Sicherheit konsequent an Verantwortliche zu melden. Ein
+"koordinierter Offenlegungsprozess" muss eingeleitet werden, wenn Dritte von Sicherheitsl&#252;cken betroffen sind.
+Deshalb werden die entgegenstehenden "&#252;berwiegenden Sicherheitsinteressen" bei der &#220;bermittlung von durch
+das BSI entdeckten Sicherheitsl&#252;cken gestrichen. Durch die Neufassung des Absatzes wird vermieden, dass die
+im Gesetzentwurf vorgeschlagene Formulierung durch ihre Unklarheit zu einem Einfalltor f&#252;r das Zur&#252;ckhalten
+von Informationen durch das BSI werden kann.
+Bei der &#220;bermittlung der Information an die Verantwortlichen soll das BSI k&#252;nftig jedoch nicht nur auf
+Abhilfem&#246;glichkeiten hinweisen, sondern in Abstimmung mit den Verantwortlichen einen koordinierten
+Offenlegungsprozess f&#252;r die Sicherheitsl&#252;cken einleiten, sofern hiervon auch Dritte betroffen sind. Hierdurch wird
+sichergestellt, dass alle dem BSI bekannten Sicherheitsl&#252;cken geschlossen werden oder die hiervon Betroffenen andere
+Ma&#223;nahmen zum Schutz ihrer informationstechnischen Systeme einleiten k&#246;nnen.
+Ziffer 2
+Das Verfahren f&#252;r den sowohl in &#167; 4b Abs. 3 S. 1 Nr. 5 als auch in &#167; 7b Abs. 3 BSIG-E benannten "koordinierten
+Offenlegungsprozess" wird nach Anh&#246;rung von Vertretern der Wissenschaft, der betroffenen Betreiber und der
+betroffenen Wirtschaftsverb&#228;nde und im Einvernehmen mit dem Bundesministerium f&#252;r Wirtschaft und Energie
+durch Rechtsverordnung geregelt. Als Vorbild f&#252;r diese Regelung zur Einbeziehung dient &#167; 10 Abs. 1 BSI-Gesetz
+(BSIG).
+Der &#196;nderungsantrag auf Ausschussdrucksache 19(4)813 D hat einschlie&#223;lich Begr&#252;ndung folgenden Wortlaut:
+Der Ausschuss wolle beschlie&#223;en,
+den Gesetzentwurf auf BT-Drucksache 19/26106 mit folgenden Ma&#223;gaben zu &#228;ndern:
+In Artikel 1 Nr. 10 wird &#167; 7c Abs. 1 wie folgt ge&#228;ndert:
+1. Nr. 2 wird aufgehoben.
+2. Nr. 1 wird ohne Nummerierung in S. 1 nach den W&#246;rtern ", dass er" eingef&#252;gt. 
+3. In S. 2 werden die W&#246;rter "nach Satz 1 Nummer 1 oder 2" gestrichen.
+4. Die S&#228;tze 3 und 4 werden aufgehoben.
+Begr&#252;ndung
+Durch die in &#167; 7c Abs. 1 BSIG-E geschaffenen Anordnungsbefugnisse des Bundesamtes f&#252;r Sicherheit in der
+Informationstechnik (BSI) wird das BSI immer mehr zur Gefahrenabwehrbeh&#246;rde f&#252;r den Bereich der Cyber-
+Sicherheit. Bisher sind die in &#167; 109a Abs. 4-6 TKG vorgesehenen Ma&#223;nahmen f&#252;r
+Telekommunikationsdiensteanbieter nicht verpflichtend. Es ist vielmehr in ihr Ermessen gestellt, ob sie etwa den Datenverkehr umleiten oder
+Telekommunikationsdienste einschr&#228;nken, um Verletzungen des Schutzes personenbezogener Daten im Einzelfall
+abzuwenden. 
+Der vorgeschlagene &#167; 7c BSIG-E konkretisiert in seinem Absatz 2 die Schutzziele f&#252;r die angeordneten
+Ma&#223;nahmen. Da sich die Anordnungsbefugnis des &#167; 7c Abs. 1 S. 1 Nr. 1 BSIG-E auf die bereits bestehenden Ma&#223;nahmen
+in &#167; 109a Abs. 4-6 TKG bezieht, werden die Schutzziele k&#252;nftig auch f&#252;r die in &#167; 109a Abs. 4-6 TKG vorgesehenen
+Ma&#223;nahmen gelten. Die Integrit&#228;t, Vertraulichkeit und Verf&#252;gbarkeit informationstechnischer Systeme sind als
+neue Schutzziele daher grunds&#228;tzlich zu begr&#252;&#223;en.
+Eine &#228;hnliche M&#246;glichkeit zur Konkretisierung der angeordneten Ma&#223;nahmen bietet der vorgeschlagene &#167; 7c
+Abs. 1 S. 1 Nr. 2 BSIG-E jedoch nicht. Die Anordnung, dass ein verpflichteter Telekommunikationsdiensteanbieter
+"technische Befehle zur Bereinigung von einem konkret benannten Schadprogramm an betroffene
+informationstechnische Systeme verteilt" wird in der Gesetzesbegr&#252;ndung dahingehend konkretisiert, dass es sich um Befehle
+zum Aufspielen von Code zum Schlie&#223;en von Sicherheitsl&#252;cken (Patch) oder das &#220;bersenden von Schl&#252;sselworten,
+die beim Empf&#228;nger etwa zur automatischen Deinstallation von Programmen f&#252;hren, handelt (S. 73 f.). 
+Es bleibt jedoch unklar, ob die Anordnung des BSI auch dahingeht, dass ein Patch auf einem Nutzersystem auch
+ausgef&#252;hrt wird oder dass dieses dem Nutzer durch den Telekommunikationsdiensteanbieter nur angeboten
+werden muss. Ohne eine solche Konkretisierung kann auch die Gesetzesbegr&#252;ndung nicht &#252;berzeugen, die pauschal
+davon ausgeht, dass durch eine Anordnung des BSI kein Eingriff in die Integrit&#228;t und Vertraulichkeit
+informationstechnischer Systeme (IT-Grundrecht) vorliegt. Aus Sicht der Antragsteller ist ein unmittelbarer Eingriff in das
+IT-Grundrecht der Nutzer weder durch die zu unklare Ausgestaltung der Anordnungsbefugnis noch durch die
+Gesetzesbegr&#252;ndung, die in diesem Punkt nicht zur Aufkl&#228;rung f&#252;hrt, ausgeschlossen. Aufgrund der M&#246;glichkeit
+des Eingriffs in das IT-Grundrecht der Nutzer m&#252;ssen jedoch Schutzmechanismen formuliert werden und auch
+das Verfahren zur Anordnung n&#228;her beschrieben werden.
+&#220;berdies ist nicht ersichtlich, welchen zus&#228;tzlichen Schutz die Anordnungsbefugnis im Sinne der IT-Sicherheit
+liefern soll, den nicht auch eine Anordnung von Ma&#223;nahmen aus &#167; 109a Abs. 4-6 TKG schon liefern kann. Eine
+mit klaren Voraussetzungen ausgestaltete Anordnungsbefugnis im Sinne einer Eilkompetenz des BSI, die mit der
+Verpflichtung von Herstellern zum Angebot von Updates w&#228;hrend der &#252;blichen Nutzungsdauer eines Produktes
+einhergeht, w&#228;re der IT-Sicherheit allgemein und dem IT-Grundrecht der Nutzerinnen und Nutzer deutlich
+zutr&#228;glicher (vgl. Antrag "Digitalisierung ernst nehmen &#8211; IT-Sicherheit st&#228;rken" der FDP-Fraktion, BT-Drs.
+19/7698).
+Der &#196;nderungsantrag auf Ausschussdrucksache 19(4)813 E hat einschlie&#223;lich Begr&#252;ndung folgenden Wortlaut:
+Der Ausschuss wolle beschlie&#223;en,
+den Gesetzentwurf auf BT-Drucksache 19/26106 mit folgenden Ma&#223;gaben zu &#228;ndern:
+In Artikel 1 Nr. 11 wird &#167; 8 wie folgt ge&#228;ndert:
+1. Absatz 1 S. 1 wird das Wort "Einvernehmen" durch das Wort "Benehmen" ersetzt. 
+2. In Absatz 1a werden die S&#228;tze 6 und 7 aufgehoben.
+Begr&#252;ndung
+Die Begrifflichkeit "Einvernehmen" wird durch im "Benehmen" mit den Ressorts bei der Aufstellung von
+Mindeststandards f&#252;r die IT-Sicherheit durch das Bundesamt f&#252;r Sicherheit in der Informationstechnik (BSI) ersetzt.
+Die Einf&#252;hrung der Verbindlichkeit f&#252;r die durch das BSI festgelegten Mindeststandards f&#252;r die Sicherheit der
+Informationstechnik des Bundes ist grunds&#228;tzlich zu begr&#252;&#223;en. Die in den Vorversionen des Gesetzentwurfs noch
+enthaltene Formulierung, dass diese Mindeststandards im Benehmen mit den Ressorts durch das BSI festzulegen
+sind, ist jedoch einem Einvernehmenserfordernis gewichen. Die &#196;nderung st&#228;rkt die Position des BSI und stellt
+den Zustand der Vorversionen des Gesetzentwurfs wieder her.
+Die Herausnahme der Bundesgerichte, soweit sie nicht &#246;ffentlich-rechtliche Verwaltungsaufgaben wahrnehmen,
+des Bundestages, des Bundesrates, des Bundespr&#228;sidenten und des Bundesrechnungshofes aus dem
+Anwendungsbereich der aufgestellten Mindeststandards f&#252;r die Sicherheit der Informationstechnik des Bundes zeigt einen
+Mangel an Aufarbeitung und Verst&#228;ndnis f&#252;r die Reichweite und Folgen des Hacks der Folgen Regierungsnetze
+des IVBB -Hack aus (Informationsverbund Berlin-Bonn) aus dem Jahr 2017. 
+Abweichungen von den durch das BSI festgelegten Mindeststandards sind gem&#228;&#223; &#167; 8 Abs. 1 S. 2 BSIG-E in
+sachlich gerechtfertigten F&#228;llen zul&#228;ssig und sind in solchen F&#228;llen zu dokumentieren und zu begr&#252;nden. Sollten also
+Abweichungen von den Mindeststandards durch die oben genannten Stellen vorgenommen werden, sind diese
+k&#252;nftig zumindest durch die Dokumentation und Begr&#252;ndung im Einzelfall besser nachvollziehbar.
+Der &#196;nderungsantrag auf Ausschussdrucksache 19(4)813 F hat einschlie&#223;lich Begr&#252;ndung folgenden Wortlaut:
+Der Ausschuss wolle beschlie&#223;en,
+den Gesetzentwurf auf BT-Drucksache 19/26106 mit folgenden Ma&#223;gaben zu &#228;ndern:
+In Artikel 1 Nr. 13 lit. a) wird &#167; 8b Abs. 2 Nr. 3 wie folgt gefasst:
+"3. das Lagebild bez&#252;glich der Sicherheit in der Informationstechnik der Kritischen Infrastrukturen oder der
+Unternehmen im besonderen &#246;ffentlichen Interesse kontinuierlich zu aktualisieren und den nach diesem Gesetz
+verpflichteten Unternehmen regelm&#228;&#223;ig in geeigneter und datenschutzkonformer Form zur Verf&#252;gung zu stellen
+und"
+Begr&#252;ndung
+Die bisherige Verpflichtung des Bundesamtes f&#252;r Sicherheit in der Informationstechnik (BSI) gem&#228;&#223; &#167; 8b Abs. 2
+Nr. 4a BSI-Gesetz (BSIG) zur unverz&#252;glichen Unterrichtung der KRITIS-Betreiber &#252;ber die sie betreffenden
+Informationen, die das BSI im Rahmen seiner Meldestellen-Funktion gesammelt hat und auch die Verpflichtung des
+BSI gem&#228;&#223; &#167; 8b Abs. 2 Nr. 3 BSIG zur Erstellung und Aktualisierung eines Lagebildes wiegen die umfangreichen
+Meldeverpflichtungen der Unternehmen nicht auf. Seit Langem wird deshalb unternehmensseitig bereits ein
+qualitativer R&#252;ckkanal mit Informationen &#252;ber die aktuelle Cyberbedrohungslage gefordert. 
+Die &#196;nderung in &#167; 8b BSIG-E zielt deshalb darauf ab, dass das BSI zum einen das Lagebild weiterhin aktuell
+zusammenstellt und es danach regelm&#228;&#223;ig allen nach dem BSIG verpflichteten Unternehmen zur Verf&#252;gung stellt.
+Damit wird der R&#252;ckkanal mit Informationen nicht nur gegen&#252;ber den von einer bestimmten Information
+betroffenen Unternehmen gew&#228;hrleistet, sondern generell f&#252;r alle nach dem Gesetz verpflichteten Unternehmen
+aufgebaut. Perspektivisch sollte zum anderen auch die Aktualit&#228;t des Lagebildes noch genauer definiert werden, wobei
+ein tagesaktuelles Lagebild erstrebenswert ist. 
+Der &#196;nderungsantrag auf Ausschussdrucksache 19(4)813 G hat einschlie&#223;lich Begr&#252;ndung folgenden Wortlaut:
+Der Ausschuss wolle beschlie&#223;en,
+den Gesetzentwurf auf BT-Drucksache 19/26106 mit folgenden Ma&#223;gaben zu &#228;ndern:
+In Artikel 1 Nr. 17 wird &#167; 8f Absatz 2 BSIG-E wie folgt gefasst:
+"Das Bundesamt f&#252;hrt f&#252;r die Selbsterkl&#228;rung nach Absatz 1 Formulare ein, die zur Abgabe der Selbsterkl&#228;rung
+verwendet werden k&#246;nnen." 
+Begr&#252;ndung
+Die jetzige Formulierung zur Abgabepflicht einer Selbsterkl&#228;rung zur IT-Sicherheit durch Unternehmen im
+besonderen &#246;ffentlichen Interesse verpflichtet das Bundesamt f&#252;r Sicherheit in der Informationstechnik (BSI) nicht,
+Formulare als Arbeitserleichterung f&#252;r die verpflichteten Unternehmen zur Verf&#252;gung zu stellen. Gleichzeitig
+sind solche Formulare von den verpflichteten Unternehmen aber zu verwenden, sofern das BSI diese einf&#252;hrt.
+Die vorgeschlagene &#196;nderung kehrt das Prinzip um. Das BSI hat Formulare als Arbeitshilfe einzuf&#252;hren, die
+Unternehmen sind jedoch darin frei, ob sie diese verwenden oder die geforderte Selbsterkl&#228;rung in freier Form
+&#252;bermitteln.
+Der &#196;nderungsantrag auf Ausschussdrucksache 19(4)813 H hat einschlie&#223;lich Begr&#252;ndung folgenden Wortlaut:
+Der Ausschuss wolle beschlie&#223;en,
+den Gesetzentwurf auf BT-Drucksache 19/26106 mit folgenden Ma&#223;gaben zu &#228;ndern:
+- Artikel 6 Absatz 2 wird aufgehoben.
+Begr&#252;ndung
+Das Gesetz zur Erh&#246;hung der Sicherheit informationstechnischer Systeme (IT-Sicherheitsgesetz) vom 17. Juli
+2015 enth&#228;lt in seinem Art. 10 eine Evaluierungsklausel, die durch den vorliegenden Gesetzentwurf gestrichen
+werden soll. In der Begr&#252;ndung des Gesetzentwurfs (S. 98 f.) wird darauf verwiesen, dass die durch Art. 10 des
+IT-Sicherheitsgesetzes zu evaluierenden Vorschriften durch das vorliegende zweite IT-Sicherheitsgesetz teilweise
+wieder ge&#228;ndert werden sollen oder die urspr&#252;nglich vorgesehene Evaluierung mit der neu vorgesehenen
+Evaluierung in Art. 6 zusammengef&#252;hrt werden k&#246;nne. Zudem wird darauf verwiesen, dass mit dem Sektor der
+Siedlungsabfallentsorgung ein neuer KRITIS-Bereich hinzutrete, durch welchen eine fristgem&#228;&#223; im Sommer 2021
+durchzuf&#252;hrende Evaluierung "zu einer unn&#246;tigen und unwirtschaftlichen Doppelevaluierung" f&#252;hren w&#252;rde. Die
+Evaluierung von IT-Sicherheitsma&#223;nahmen ist aus Sicht der Antragsteller niemals unn&#246;tig und im Rahmen eines
+agilen Verst&#228;ndnisses von Cybersicherheit auch dringend geboten. Wenn der neue Sektor der
+Siedlungsabfallentsorgung erst f&#252;r die in Art. 6 neu vorgesehene Evaluierungsfrist vorgesehen werden soll, kann dies auch
+unabh&#228;ngig von der Streichung der noch ausstehenden Evaluierung nach Art. 10 des IT-Sicherheitsgesetzes so
+festgelegt werden. 
+c) Dar&#252;ber hinaus hat der Ausschuss f&#252;r Inneres und Heimat einen Entschlie&#223;ungsantrag der Fraktion der AfD
+auf Ausschussdrucksache 19(4)810 mit den Stimmen der Fraktionen CDU/CSU, SPD, FDP, DIE LINKE. und
+B&#220;NDNIS 90/DIE GR&#220;NEN gegen die Stimmen der Fraktion der AfD abgelehnt. 
+Der Entschlie&#223;ungsantrag auf Ausschussdrucksache 19(4)810 hat folgenden Wortlaut:
+Der Bundestag wolle beschlie&#223;en:
+I. Der Deutsche Bundestag stellt fest:
+1. Der vorliegende Reformentwurf des IT-Sicherheitsgesetzes wird dem Ziel einer Verbesserung der IT-Sicherheit
+in Deutschland in wesentlichen Teilen nicht gerecht. Es mangelt vor allem an klaren Schutzzielen, es mangelt an
+politischem Entscheidungswillen was die Zul&#228;ssigkeit von staatsnahen Herstellern aus undemokratischen
+L&#228;ndern anbelangt und es mangelt an einer Evaluierung der bisherigen Regulierung im IT-Sicherheitsgesetz aus dem
+Jahr 2015, wie sie eigentlich gesetzlich vorgeschrieben ist.
+2. Die Bundesregierung hat ferner in grob fahrl&#228;ssiger Weise die Reform des IT-Sicherheitsgesetzes &#252;ber einen
+Zeitraum von zwei Jahren verz&#246;gert und damit der Bundesrepublik Deutschland, seinen B&#252;rgern und der
+Volkswirtschaft schweren Schaden zugef&#252;gt.
+3. Der Bundesregierung und den Bundesministerien ist es trotz dieser zweij&#228;hrigen, gr&#246;&#223;tenteils intern gef&#252;hrten
+Debatte bis zu der Einbringung des Kabinettsentwurfes in das parlamentarische Verfahren nicht gelungen, einen
+aus ihrer eigenen Sicht konsistenten Referentenentwurf zu entwickeln. 
+So wurde am 02.12.2020 ein ressort&#252;bergreifend nicht abgestimmter Diskussionsentwurf vorgelegt und bis zum
+09.12.2020 um Stellungnahme gebeten (https://www.bmi.bund.de/SharedDocs/gesetzgebungsverfahren/DE/ent-
+wurf-zweites-it-sicherheitsgesetz.html). Kurz vor Ablauf dieser Frist wurde am 09.12.2020 ein deutlich
+ge&#228;nderter und weiterhin nicht ressort&#252;bergreifend abgestimmter Referentenentwurf verteilt, zu dem innerhalb von 27
+Stunden Stellung bezogen werden sollte.  
+Von 19.11.2020 bis 16.12.2020 alleine gab es f&#252;nf ver&#246;ffentlichte Versionen mit teils umfangreicheren
+Anpassungen, die aber in Teilen wiederum nur einigen beteiligten Wirtschaftsverb&#228;nden bereitgestellt wurden
+(https://www.bundestag.de/resource/blob/825126/c932641828f11342efb2fbf372fa3dbc/A-Drs-19-4-741-C-
+data.pdf). Am 25.01.2021 wurde der Gesetzentwurf schlie&#223;lich in das parlamentarische Verfahren eingebracht.
+Das federf&#252;hrende Bundesministerium des Innern, f&#252;r Bau und Heimat (BMI) hat es vers&#228;umt, eine angemessene
+Beteiligung der interessierten Kreise zu gew&#228;hrleisten (https://www.bundestag.de/re-
+source/blob/824768/a2d971d73d0e81c5eb1846e07f45b4f9/A-Drs-19-4-741-A-data.pdf, S.3), was zu einer nicht
+der gesamtgesellschaftlichen IT-Sicherheit dienenden &#220;berfokussierung der Novelle auf die Befugnisse des
+Bundesamtes f&#252;r Sicherheit in der Informationstechnik (BSI) gef&#252;hrt hat. 
+4. Durch diese Verz&#246;gerung im deutschen Gesetzgebungsverfahren kommt es ferner auch zu einer derzeit parallel
+und damit unabgestimmten Aktualisierung der europ&#228;ischen NIS-Richtlinie, die ebenfalls dem Schutz kritischer
+Infrastrukturen dienen soll und f&#252;r die das deutsche IT-SiG 2.0 gut als Vorlage h&#228;tte dienen k&#246;nnen. Eine
+europ&#228;ische Harmonisierung insbesondere der vom IT-SiG 2.0 neu eingef&#252;hrten Aspekte der Unternehmen von
+besonderem &#246;ffentlichen Interesse, der Siedlungsabfallentsorgung sowie des freiwilligen IT-
+Sicherheitskennzeichens sind dadurch zun&#228;chst nicht gew&#228;hrleistet, obwohl es gerade hinsichtlich der Wirksamkeit dieser
+Regelungen einer internationalen Abstimmung bedarf. Eine Sch&#228;digung des Wirtschaftsstandortes Deutschland aufgrund
+von Wettbewerbsnachteilen deutscher Unternehmen ist dadurch geradezu vorprogrammiert, insbesondere f&#252;r die
+genannten &#8222;Unternehmen von besonderem &#246;ffentlichen Interesse&#8220; (&#167; 2 Abs. 14). Hinzu kommt schlechtesten falls
+erneuter Anpassungsaufwand f&#252;r die Unternehmen bei einem k&#252;nftig EU-abgestimmten IT-SiG 3.0. 
+5. Die Antragsteller begr&#252;&#223;en grunds&#228;tzlich die geplante personelle und finanzielle St&#228;rkung des BSI. Das BSI
+soll weiter zu einer starken Verbraucherschutzbeh&#246;rde ausgebaut werden, z. B. durch den Betrieb einer IT-
+Hotline f&#252;r B&#252;rger, vergleichbar mit den 110/112-Notfallnummern. Allerdings ist der Gesetzentwurf, vermutlich
+aufgrund der mangelhaften Beteiligung aller interessierten Kreise, zu stark vom Staat her gedacht.
+Netzwerkf&#246;rmigen Bedrohungen im Cyberraum kann nicht durch eine sternf&#246;rmige Abwehrstrategie einzelner Beh&#246;rden
+begegnet werden. Die zahlreichen Initiativen in Wirtschaft und Zivilgesellschaft im Bereich IT-Sicherheit sollten noch
+st&#228;rker mit dem regulatorischen Konzept des IT-Sicherheitsgesetzes verkn&#252;pft werden.
+6. Die Antragsteller begr&#252;&#223;en die Etablierung eines freiwilligen IT-Sicherheitskennzeichens, das durch das BSI
+betrieben wird. Die Erfahrungen der etablierten normgebenden Institutionen wie DIN oder ETSI sollten jedoch
+zumindest ber&#252;cksichtig oder die entsprechenden Institutionen als verantwortlich betrachtet werden.
+7. Das IT-SiG 2.0 kann nur ein Baustein f&#252;r mehr IT-Sicherheit sein. Die Sicherheit im Cyberraum ist in Bezug
+auf Wettbewerbsgleichheit und Wirksamkeit am besten durch einen harmonisierten Ansatz auf europ&#228;ischer
+Ebene zu erreichen. Dazu geh&#246;rt z. B. auch die zeitnahe und vollst&#228;ndige Umsetzung der EU-5G toolbox.
+8. In einem fr&#252;heren Entwurf der Novelle von Mai 2020 wurden dem Bundesamt f&#252;r Bev&#246;lkerungsschutz und
+Katastrophenhilfe (BBK) Aufgaben und weitere Personalstellen zugeteilt, um erstmalig in die Lage versetzt zu
+werden, auch f&#252;r IT-Katastrophen Krisenreaktionspl&#228;ne auszuarbeiten (https://intrapol.org/wp-content/uplo-
+ads/2020/05/200507_BMI_RefE_IT-SiG20.pdf). Die mangelnde und mangelhafte Befassung des BBK mit Digital-
+Themen wurde nicht zuletzt im Rahmen des bundesweiten Warntages sowie im Rahmen der Bek&#228;mpfung der
+Corona-Krise deutlich. Eine Ausweitung der gesetzlichen Aufgaben auch im Rahmen des IT-SiG 2.0 w&#228;re ein
+erster Schritt zu der angek&#252;ndigten Neuausrichtung des BBK gewesen (https://www.bmi.bund.de/Shared-
+Docs/pressemitteilungen/DE/2021/03/neuausrichtung-bbk.html), der nun leider ausgeblieben ist.  
+9. Das Fehlen einer eindeutigen verpflichtenden Einf&#252;hrung eines Informationssicherheitsmanagementsystems
+(ISMS) und eines Business Continuity Managements (BCM) im Gesetzesentwurf ist nicht nachzuvollziehen.
+10. Ebenfalls offen bleiben weiterhin Regulierungsthemen wie die aktive Cyberabwehr, die
+Cybersicherheitsarchitektur, der Umgang mit Schwachstellen und die Systematisierung und Konsolidierung des IT-Sicherheitsrechts.
+II. Der Deutsche Bundestag fordert die Bundesregierung auf, 
+1. das BSI zu einer starken Verbraucherschutzbeh&#246;rde auszubauen, z. B. durch den Betrieb einer IT-
+Sicherheitshotline f&#252;r B&#252;rger, vergleichbar mit den 110/112-Notfallnummern,
+2. das BBK in die Lage zu versetzen, auch f&#252;r IT-Katastrophen Krisenreaktionspl&#228;ne auszuarbeiten, 
+3. bei der Umsetzung des freiwilligen Sicherheitskennzeichens und bei der Definition des Standes der Technik die
+Verfahrenskenntnisse und das technische Verst&#228;ndnis der etablierten normgebenden Institutionen wie DIN oder
+ETSI einzubeziehen,
+4. bei der Umsetzung der Regelungen zur IT-Sicherheit verst&#228;rkt die zahlreichen Initiativen in Wirtschaft und 
+Zivilgesellschaft im Bereich IT-Sicherheit einzubeziehen,
+5. zu einer zeitnahen und engen Abstimmung der europ&#228;ischen NIS-Richtlinie mit den durch das IT-SiG 2.0
+novellierten Gesetzestexten zu gelangen, 
+6. f&#252;r eine zeitnahe und vollst&#228;ndige Umsetzung der EU 5G-toolbox zu sorgen, 
+7. bei der weiteren Gestaltung des Ordnungsrahmens f&#252;r IT-Sicherheit eine Konsolidierung der mittlerweile sehr
+zahlreichen IT-Sicherheitsgesetze, -verordnungen und -strategien herbeizuf&#252;hren, da deren Zusammenwirken zu
+einer Komplexit&#228;t f&#252;hrt, die IT-Sicherheit eher gef&#228;hrdet, statt ihr zu dienen,
+8. bei der weiteren Gestaltung des Ordnungsrahmens f&#252;r IT-Sicherheit die Aspekte der aktiven Cyberabwehr
+sowie des Umgangs mit Schwachstellen eindeutig zu regulieren, 
+9. bei der weiteren Gestaltung des Ordnungsrahmens f&#252;r IT-Sicherheit m&#246;glichst fr&#252;hzeitig und umf&#228;nglich
+angemessen alle interessierten Kreise einzubeziehen,
+10. die Gestaltung des Ordnungsrahmens f&#252;r IT-Sicherheit in Zukunft einem verantwortlichen Bundesministerium
+f&#252;r Digitalisierung und Cybersicherheit federf&#252;hrend zu &#252;bertragen.
+Zu Buchstabe b
+Der Ausschuss f&#252;r Inneres und Heimat hat den Antrag auf Drucksache 19/26225 in seiner 134. Sitzung am 21.
+April 2021 abschlie&#223;end beraten und empfiehlt die Ablehnung des Antrags mit den Stimmen der Fraktionen
+CDU/CSU, SPD, FDP, DIE LINKE. und B&#220;NDNIS 90/DIE GR&#220;NEN gegen die Stimmen der Fraktion der AfD.
+Zu Buchstabe c
+Der Ausschuss f&#252;r Inneres und Heimat hat den Antrag auf Drucksache 19/26226 in seiner 134. Sitzung am 21.
+April 2021 abschlie&#223;end beraten und empfiehlt die Ablehnung des Antrags mit den Stimmen der Fraktionen
+CDU/CSU, SPD, FDP, DIE LINKE. und B&#220;NDNIS 90/DIE GR&#220;NEN gegen die Stimmen der Fraktion der AfD.
+Zu Buchstabe d
+Der Ausschuss f&#252;r Inneres und Heimat hat den Antrag auf Drucksache 19/1328 in seiner 134. Sitzung am 21.
+April 2021 abschlie&#223;end beraten und empfiehlt die Ablehnung des Antrags mit den Stimmen der Fraktionen der
+CDU/CSU, SPD und AfD gegen die Stimmen der Fraktionen DIE LINKE. und B&#220;NDNIS 90/DIE GR&#220;NEN bei
+Stimmenthaltung der Fraktion der FDP.
+IV. Begr&#252;ndung
+1. Zur Begr&#252;ndung allgemein wird auf Drucksache 19/26106 verwiesen. Die vom Ausschuss f&#252;r Inneres und
+Heimat auf Grundlage des &#196;nderungsantrags der Fraktionen der CDU/CSU und SPD auf Ausschussdrucksache
+19(4)811 vorgenommenen &#196;nderungen begr&#252;nden sich wie folgt:
+Zu Nummer 1 (Artikel 1 &#8211; &#196;nderungen des BSI-Gesetzes)
+Zu Buchstabe a (&#167; 1)
+Mit der Neufassung von &#167; 1 BSI-Gesetz wird klargestellt, dass das Bundesamt f&#252;r Sicherheit in der
+Informationstechnik (BSI) die zentrale Stelle f&#252;r die Informationssicherheit auf nationaler Ebene ist. Es wird festgelegt, dass
+das BSI Aufgaben der Beratung und Unterst&#252;tzung (siehe Begr&#252;ndung zu Artikel 1 Buchstabe c Doppelbuchstabe
+cc) als neutrale Stelle durchf&#252;hrt. Eine &#196;nderung der Rechts- und Fachaufsicht des Bundesministeriums des
+Innern, f&#252;r Bau und Heimat ist hiermit nicht verbunden.
+Zu Buchstabe b (&#167; 2)
+Doppelbuchstabe aa
+Der Legaldefinition des Begriffs der Informationssicherheit wird mit der &#196;nderung ein erl&#228;uternder Teil
+vorangestellt, um den Inhalt der Schutzziele der Informationssicherheit n&#228;her zu bestimmen. Im bisherigen &#167; 2 Absatz
+2 BSIG-G wird der Begriff Unversehrtheit durch den Begriff Integrit&#228;t ersetzt, um im BSI-Gesetz ein einheitliches
+Verst&#228;ndnis des Schutzziels sicherzustellen. 
+Doppelbuchstabe bb
+Es handelt sich um eine Folge&#228;nderung.
+Doppelbuchstabe cc
+Es handelt sich um eine redaktionelle Klarstellung.
+Doppelbuchstabe dd
+Es handelt sich um eine Folge&#228;nderung.
+Doppelbuchstabe ee
+In Absatz 13 wird die bisher vorhandene Verkn&#252;pfung mit der hohen Bedeutung der kritischen Komponente f&#252;r
+das Gemeinwohl aus systematischen Gr&#252;nden gestrichen. Das Gemeinwohl ist in den &#252;brigen Voraussetzungen
+bereits inkorporiert. Durch die Erg&#228;nzung der Formulierung &#8222;unter Verweis auf diese Vorschrift&#8220; wird
+klargestellt, dass kritische Komponenten oder Funktionen im Sinne dieses Gesetzes nur solche sind, die einen
+ausdr&#252;cklichen Verweis auf &#167; 2 Absatz 13 BSI-Gesetz enthalten. Die Einordnung bestimmter Komponenten oder
+Funktionen als kritisch im Sinne des BSI-Gesetzes, ohne dass in Bezug auf diese Komponenten oder Funktionen eine
+ausdr&#252;ckliche Bezugnahme auf &#167; 2 Absatz 13 BSI-Gesetz erfolgt, ist daher nicht m&#246;glich. Dadurch wird
+Unklarheit dar&#252;ber, ob Komponenten in Kritischen Infrastrukturen kritische Komponenten im Sinne des BSI-Gesetz
+sind, vermieden. 
+Mit der Neufassung von Absatz 14 werden die Unternehmen im besonderen &#246;ffentlichen Interesse durch
+wesentliche Zulieferer der nach ihrer inl&#228;ndischen Wertsch&#246;pfung gr&#246;&#223;ten Unternehmen in Deutschland erg&#228;nzt. Zu 
+diesen Unternehmen geh&#246;ren solche Zulieferer, die wegen ihrer Alleinstellungsmerkmale auf die Wertsch&#246;pfung
+der gr&#246;&#223;ten Unternehmen Einfluss haben, zum Beispiel, weil ein Ausfall der Zulieferung ihrer Produkte oder der
+Erbringung ihrer Dienstleistungen auch einen Ausfall der Wertsch&#246;pfung der gr&#246;&#223;ten Unternehmen bedeuten
+kann. Damit sind diese Zulieferer ebenfalls Unternehmen von besonderem &#246;ffentlichem Interesse.
+Zu Buchstabe c (&#167; 3)
+Doppelbuchstabe aa
+Es handelt sich um eine Folge&#228;nderung.
+Doppelbuchstabe bb
+Mit der &#196;nderung in &#167; 3 BSI-Gesetz wird dem Aufgabenkatalog die Zielbestimmung vorangestellt. Das BSI
+f&#246;rdert bei der Erf&#252;llung seiner Aufgaben das Ziel, die in &#167; 2 Abs. 2 BSI-Gesetz bestimmten Schutzziele der
+Informationssicherheit zu gew&#228;hrleisten. 
+Doppelbuchstaben cc und dd
+Es handelt sich um Folge&#228;nderungen.
+Doppelbuchstabe ee
+Mit der Zuweisung dieser Aufgabe wird klargestellt, dass das BSI den Bund, mithin die Bundesministerien und 
+ihre nachgeordneten Gesch&#228;ftsbereichsbeh&#246;rden, in Fragen der IT-Sicherheit ber&#228;t und unterst&#252;tzt (vgl.
+Begr&#252;ndung zu Artikel 1 Buchstabe a). 
+Doppelbuchstabe jj
+Mit der &#196;nderung in Satz 2 Nummer 20 wird klargestellt, dass das BSI einen Stand der Technik beschreibt, statt
+diesen zu entwickeln. Es wird festgeschrieben, dass es zu den Aufgaben des BSI geh&#246;rt, technische Richtlinien
+zu erstellen. Dabei werden die internationalen Standards und Normen sowie die ma&#223;geblichen Akteure
+(Hersteller, Entwickler, Wirtschaft, Verb&#228;nde usw.) einbezogen. 
+Zu Buchstabe d (&#167; 4a)
+Doppelbuchstabe aa
+Das Erfordernis der vorzeitigen Absprache wird im Sinne der Effektivit&#228;t der Ma&#223;nahmen des BSI gestrichen. 
+Doppelbuchstabe bb
+Die &#196;nderung in &#167; 4a Absatz 5 tr&#228;gt dem Umstand Rechnung, dass besondere Anforderungen an die Informations-
+und Kommunikationstechnik (IKT) der Auslands-IT insbesondere in den Auslandsvertretungen bestehen. Es wird
+klargestellt, dass diese IKT von der Kontrollbefugnis ausgenommen ist, die Bestimmungen f&#252;r die Schnittstellen 
+zur Kommunikationstechnik des Bundes (vgl. &#167; 5 BSI-Gesetz) unber&#252;hrt bleiben. N&#228;heres regelt eine
+Verwaltungsvereinbarung.
+Die &#196;nderung in &#167; 4a Abs. 6 pr&#228;zisiert die Reichweite der Ausnahme f&#252;r die IKT der Streitkr&#228;fte und des
+Milit&#228;rischen Abschirmdienstes. Es wird klargestellt, dass IT-Dienstleister nicht von der Kontrollbefugnis
+ausgenommen sind, sofern sie nicht f&#252;r die unmittelbaren Zwecke der Streitkr&#228;fte (insb. Waffensysteme und Einsatztechnik)
+betrieben wird. Im Sinne des einheitlichen Schutzniveaus der IKT der Bundesverwaltung bleiben auch hier die
+Bestimmungen f&#252;r die Schnittstellen des Bundes von der Ausnahme unber&#252;hrt. In der Verwaltungsvereinbarung
+ist die Ausnahme n&#228;her zu regeln. 
+Doppelbuchstabe cc
+Mit der &#196;nderung wird klargestellt, dass das BSI zum einen befugt ist, Informationen entgegenzunehmen und
+zum anderen, dass die Entgegennahme nicht verweigert werden kann. 
+Doppelbuchstabe dd
+Mit der &#196;nderung wird die Befugnis der Reichweite von &#167; 7 des Entwurfes des BSI-Gesetzes angepasst. Das BSI
+nutzt die gemeldeten Informationen, z. B. IT-Sicherheitsl&#252;cken, somit, um die &#214;ffentlichkeit und betroffene
+Kreise zu warnen und zu informieren. Betroffene Kreise k&#246;nnen insbesondere Hersteller, Vertreiber und
+Anwender sein. Durch den Verweis auf &#167; 7 BSI-Gesetz wird zudem sichergestellt, dass das Responsible Disclosure-
+Verfahren, d.h. die Einbindung der Hersteller vor der Ver&#246;ffentlichung einer Sicherheitsl&#252;cke, Anwendung findet.
+Zu Buchstabe e (&#167; 5)
+Die m&#246;gliche Dauer der Speicherung von Protokolldaten wird auf 18 Monate angehoben, um komplexen
+Cyberangriffen, d.h. insbesondere sog. Advanced Persistent Threats (APT-Angriffen), effektiver begegnen zu
+k&#246;nnen. Ob der erh&#246;hten Komplexit&#228;t von technisch fortgeschrittenen APT-Angriffen bewegen sich T&#228;ter oftmals
+&#252;ber Monate unentdeckt auf Zielsystemen. Aus diesem Grund ist es erforderlich, einen m&#246;glichst langfristigen
+Blick in Vergangenheit zu erm&#246;glichen, um Angriffsvektoren aufkl&#228;ren zu k&#246;nnen. Ohne sie ist eine Aufkl&#228;rung
+nur unzureichend oder gar nicht m&#246;glich. Diese Aufkl&#228;rung und darauf aufbauende Pr&#228;ventionsma&#223;nahmen sind
+gerade auch zum Schutz personenbezogener Daten vor unberechtigtem Zugriff und Datenabfl&#252;ssen zentral.
+Auf die pseudonymisierten Protokolldaten in der Kommunikationstechnik des Bundes kann nur anlassbezogen
+zum Zwecke der Aufkl&#228;rung oder aber der Widerlegung eines (vermuteten) Angriffs zugegriffen werden. &#167; 5
+BSIG sieht zudem eindeutige Regelungen zur Datensicherheit, Datenverwendung und zur Transparenz der
+Nutzung vor. 
+Zu Buchstabe f (&#167;&#167; 5a und 5b)
+Es handelt sich um eine Folge&#228;nderung.
+Zu Buchstabe g (&#167; 5c BSIG)
+Es handelt sich um Folge&#228;nderungen zum Gesetz zur Anpassung der Regelungen &#252;ber die Bestandsdatenauskunft
+an die Vorgaben aus der Entscheidung des Bundesverfassungsgerichts vom 27. Mai 2020 (BGBl. I 2021 S. 448).
+Die Formulierung &#8222;drohende Gefahr&#8220; in Absatz 1 wird entsprechend durch die Formulierung &#8222;zum Schutz&#8220;
+ersetzt, im &#220;brigen erfolgen redaktionelle Folgeanpassungen. 
+Zu Buchstabe h (&#167; 7)
+Es handelt sich um eine redaktionelle Richtigstellung. 
+Zu Buchstabe i (&#167; 7a)
+Es handelt sich um eine Folge&#228;nderung.
+Zu Buchstabe j (&#167; 7b)
+Doppelbuchstabe aa
+Mit der &#196;nderung wird festgelegt, dass die jeweiligen IT-Verantwortlichen unverz&#252;glich &#252;ber detektierte
+Sicherheitsl&#252;cken und Sicherheitsrisiken zu informieren sind. Fehlende entgegenstehende Sicherheitsinteressen hat das
+BSI nicht vorab festzustellen. 
+Doppelbuchstabe bb
+Mit der &#196;nderung wird die datenschutzrechtliche Kontrolle bei der &#220;berpr&#252;fung der Wei&#223;en Liste gest&#228;rkt. Der
+oder dem Bundesbeauftragten f&#252;r den Datenschutz und die Informationsfreiheit sind die sich aufgrund der
+&#220;berpr&#252;fungen ergebenden &#196;nderungen der Wei&#223;en Liste zur Kontrolle viertelj&#228;hrlich vorzulegen.
+Zu Buchstabe k (&#167; 8)
+Doppelbuchstabe aa
+Durch die &#196;nderung wird die Effektivit&#228;t der Befugnis zur Festlegung von Mindeststandards sichergestellt. Die
+Benehmensregelung entspricht der bestehenden Praxis von Konsultationsverfahren und verhindert, dass die
+Festlegung verbindlicher Mindeststandards durch ein einzelnes Veto verhindert wird. Es besteht &#252;ber &#167; 8 Absatz 1
+Satz 2 des Entwurfes des BSI-Gesetzes die M&#246;glichkeit, in sachlich gerechtfertigten F&#228;llen von Mindeststandards
+abzuweichen.
+Doppelbuchstabe bb und cc 
+Es handelt sich bei dieser &#196;nderung um eine gebotene redaktionelle Richtigstellung. Die bisher in Absatz 1a
+verorteten S&#228;tze werden an Absatz 1 angef&#252;gt, da dort die Befugnis f&#252;r verbindliche Mindeststandards geregelt
+wird.  
+Zu Buchstabe l (&#167; 8a)
+Doppelbuchstabe aa
+Die &#196;nderung tr&#228;gt dem Umstand Rechnung, dass f&#252;r die Umsetzung der Vorgaben des &#167; 8a Absatz 1a des
+Entwurfes des BSI-Gesetzes (Vorhaltung von Systemen zur Angriffserkennung) bei komplexen und gr&#246;&#223;eren
+Kritischen Infrastrukturen wie den Universit&#228;tskliniken mehr als zw&#246;lf Monate ben&#246;tigt werden, zumal
+Gesetzesverst&#246;&#223;e mit Bu&#223;geldern belegt sind.
+Doppelbuchstabe bb
+Mit der Streichung wird dem Umstand Rechnung getragen, dass die derzeit geltende Benehmensregelung in &#167; 8a
+Absatz 2 Satz 2 Nummer 2 BSIG dazu f&#252;hrt, dass bei bestimmten branchenspezifischen Sicherheitsstandards eine
+Vielzahl von Vollzugsbeh&#246;rden auf Landesebene beteiligt werden muss, wenn sie als Aufsichtsbeh&#246;rden fachlich
+betroffen sind. Gerade wenn die Aufsicht bei einzelnen Landesbeh&#246;rden auf Ebene regionaler oder kommunaler
+Gebietsk&#246;rperschaften liegt, ist eine derart weit gestreute Beteiligung nicht praktikabel, zumal die
+Aufsichtsbeh&#246;rden auch nicht immer die erforderliche fachliche Kompetenz besitzen, um die Wechselwirkung zwischen
+informationstechnischen und sonstigen sicherheitsrelevanten Belangen beurteilen zu k&#246;nnen.
+Doppelbuchstabe cc
+Es handelt sich um eine Folge&#228;nderung.
+Zu Buchstabe m (&#167;&#167; 8b bis 8c)
+Es handelt sich um eine Folge&#228;nderung.
+Zu Buchstabe n (&#167; 8d)
+Bei der &#196;nderung in Absatz 1 handelt es sich um eine redaktionelle Korrektur. Die Erg&#228;nzung des neuen Absatzes
+1a stellt klar, dass f&#252;r kleine und Kleinstunternehmen im Sinne der 2003/361/EG der Kommission vom 6. Mai
+2003 betreffend die Definition der Kleinstunternehmen sowie der kleinen und mittleren Unternehmen (ABl. L
+124 vom 20.5.2003, S. 36) die Pflichten der Unternehmen im besonderen &#246;ffentlichen Interesse des &#167; 8f nicht
+gelten.
+Zu Buchstabe o (&#167; 8e)
+Es handelt sich um eine Folge&#228;nderung.
+Zu Buchstabe p (&#167;&#167; 9a, 9b, 9c)
+Doppelbuchstabe aa (&#167; 9a)
+Die Regelung wird als Kann-Vorschrift gestaltet, damit das BSI im Rahmen der Erteilung der Befugnis, als
+Konformit&#228;tsbewertungsstelle t&#228;tig zu werden, die Befugniserteilung mit Nebenbestimmungen, beispielsweise einer
+Befristung, versehen kann.
+Doppelbuchstabe bb (&#167; 9b)
+Zu Absatz 1
+Der geplante erstmalige Einsatz kritischer Komponenten ist dem Bundesministerium des Innern, f&#252;r Bau und
+Heimat vor Einsatz anzuzeigen. Gemeint ist damit jeweils der erstmalige Einsatz einer bestimmten Komponente 
+&#8211; nicht eines Typs von Komponenten &#8211; durch einen bestimmten Betreiber. Daher muss jeder Betreiber den
+erstmaligen Einsatz einer kritischen Komponente anzeigen, selbst wenn der Einsatz desselben Typs bei einem
+anderen Betreiber bereits angezeigt und nicht untersagt wurde. Auch wenn demselben Betreiber gegen&#252;ber der Einsatz
+einer Komponente desselben Typs nicht untersagt wurde, muss dieser erneut eine Anzeige abgeben, wenn er eine
+weitere Komponente desselben Typs f&#252;r eine andere Art des Einsatzes vorsieht als in dem zuvor nicht untersagten
+Fall. Eine Erleichterung enth&#228;lt jedoch der neu eingef&#252;gte Satz 3. Danach muss derselbe Betreiber den Einsatz
+einer Komponente nicht anzeigen, wenn dieser Betreiber eine Komponente desselben Typs f&#252;r dieselbe Art des
+Einsatzes bereits angezeigt hat und dies nicht innerhalb der Frist untersagt wurde. Dadurch wird unn&#246;tiger
+b&#252;rokratischer Aufwand verhindert.
+Es sind nur nach Inkrafttreten dieser Regelung und der jeweiligen Regelung zur Bestimmung kritischer
+Komponenten eingebaute bzw. installierte Komponenten anzuzeigen. Eine R&#252;ckwirkung der Anzeigepflicht auf bereits
+vor Inkrafttreten dieser Regelung eingesetzte Komponenten besteht nicht.
+Unter Art des Einsatzes ist die Funktion und Verortung in der Kritischen Infrastruktur (etwa Lokalisierung,
+Sicherheitsrelevanz, insbesondere m&#246;gliche Auswirkungen auf die Sicherheit der Kritischen Infrastrukturen,
+Funktionalit&#228;t, Quantit&#228;t des Einsatzes usw.) zu verstehen.
+Die Voraussetzung der Zertifizierungspflicht wurde entfernt, da diese keinen selbstst&#228;ndigen Anwendungsbereich
+hatte. &#167; 2 Absatz 13 legt &#252;ber die dortigen Voraussetzungen fest, welche Komponenten &#252;ber &#167; 9b adressiert
+werden.
+Mit der &#196;nderung des &#167; 109 Absatz 6 Satz 1 Nummer 3 TKG (Artikel 2, &#196;nderungen des
+Telekommunikationsgesetzes) werden erstmals kritische Komponenten nach &#167; 2 Absatz 13 festgelegt, indem die Bundesnetzagentur
+erm&#228;chtigt wird, kritische Funktionen im Sinne von &#167; 2 Absatz 13 Satz 1 Nummer 3 Buchstabe b festzulegen.
+Soweit zuk&#252;nftig eine derartige Notwendigkeit zur Festlegung von kritischen Komponenten in anderen Sektoren
+von Kritischen Infrastrukturen durch den Gesetzgeber erkannt wird, kann die Festlegung in entsprechender Weise
+im jeweils einschl&#228;gigen sektoralen Gesetz erfolgen.
+Zu Absatz 2
+Der neue Absatz 2 ist der vorherige Absatz 3, der vorgezogen wird, da diese Regelungen systematisch zur ex-ante 
+Pr&#252;fung geh&#246;ren.
+Absatz 2 regelt die Befugnis des Bundesministeriums des Innern, f&#252;r Bau und Heimat, den Einsatz einer kritischen
+Komponente im Einzelfall zu untersagen.
+Die Eingriffsvoraussetzungen wurden von &#8222;&#252;berwiegenden &#246;ffentlichen Interessen, insb. sicherheitspolitischen
+Belangen&#8220; auf &#8222;voraussichtliche Beeintr&#228;chtigungen der &#246;ffentlichen Sicherheit und Ordnung&#8220; ge&#228;ndert. Dieser
+Ma&#223;stab wird bereits in &#167; 5 Absatz 2 des Au&#223;enwirtschaftsgesetzes in Bezug auf die Pr&#252;fung von Erwerben
+inl&#228;ndischer Unternehmen durch unionsfremde Erwerber verwendet. 
+Daneben werden den Gefahrbegriff konkretisierende F&#228;lle aufgef&#252;hrt, welche bei der Pr&#252;fung nach Absatz 2
+insbesondere ber&#252;cksichtigt werden k&#246;nnen. 
+Damit kann das Bundesministerium des Innern, f&#252;r Bau und Heimat insbesondere bei der Pr&#252;fung
+ber&#252;cksichtigen, ob der Hersteller unmittelbar oder mittelbar von der Regierung, einschlie&#223;lich sonstiger staatlicher Stellen
+oder Streitkr&#228;fte, eines Drittstaates kontrolliert wird. Die Formulierung &#8222;unmittelbar oder mittelbar&#8220; stellt dabei
+klar, dass nicht nur eine gesellschaftsrechtliche oder finanzielle Kontrolle, sondern auch sonstige M&#246;glichkeiten
+wesentlicher Einflussnahme erfasst werden. Des Weiteren kann ber&#252;cksichtigt werden, ob der Hersteller bereits
+an Aktivit&#228;ten beteiligt war, die nachteilige Auswirkungen auf die &#246;ffentliche Ordnung oder Sicherheit der
+Bundesrepublik Deutschland oder eines anderen Mitgliedstaates der Europ&#228;ischen Union, der Europ&#228;ischen
+Freihandelsassoziation oder des Nordatlantikvertrages hatten. Darunter kann zum Beispiel die Mitwirkung an einem
+Cyber-Angriff auf Privatpersonen, Unternehmen oder Beh&#246;rden in Deutschland oder einem der Mitgliedsstaaten der
+Europ&#228;ischen Union, der Europ&#228;ischen Freihandelsassoziation oder des Nordatlantikvertrages, einschlie&#223;lich
+deren Einrichtungen, fallen. Ebenso kann ber&#252;cksichtigt werden, ob der Einsatz der kritischen Komponente im
+Einklang mit den sicherheitspolitischen Zielen der Bundesrepublik Deutschland, der Europ&#228;ischen Union oder des
+Nordatlantikvertrages steht. Die Aufz&#228;hlung ist nicht abschlie&#223;end. Im Rahmen der sicherheitspolitischen
+Bewertung k&#246;nnen daher alle f&#252;r die &#246;ffentliche Sicherheit und Ordnung relevanten Aspekte ber&#252;cksichtigt werden.
+Das Bundesministerium des Innern, f&#252;r Bau und Heimat ber&#252;cksichtigt im Rahmen der Pr&#252;fung einer
+voraussichtlichen Beeintr&#228;chtigung der &#246;ffentlichen Sicherheit und Ordnung zus&#228;tzlich auch die nach Absatz 3 Satz 1
+vorzulegende Garantieerkl&#228;rung des Herstellers. 
+F&#252;r die Pr&#252;fung unter Einbindung beteiligter Beh&#246;rden und gegebenenfalls der Erstellung eines
+Untersagungsbescheids einschlie&#223;lich der erforderlichen Abstimmung innerhalb der Bundesregierung steht dem
+Bundesministerium des Innern, f&#252;r Bau und Heimat nun ein Zeitraum von zwei Monaten zur Verf&#252;gung, um eine sachgerechte
+Pr&#252;fung zu erm&#246;glichen. Das Bundesministerium des Innern, f&#252;r Bau und Heimat kann die Frist gegen&#252;ber dem
+Betreiber um weitere zwei Monate verl&#228;ngern, wenn die Pr&#252;fung besondere Schwierigkeiten tats&#228;chlicher oder
+rechtlicher Art aufweist. Diese M&#246;glichkeit entspricht &#167; 14a Absatz 4 Satz 1 Au&#223;enwirtschaftsgesetz. Die
+Betreiber m&#252;ssen eine entsprechende Entscheidung bis zum Ablauf der Frist abwarten, bevor der Einsatz gestattet ist
+(Untersagungsvorbehalt). Nach Ablauf der Frist ist der Einsatz automatisch gestattet, wenn dem Betreiber bis
+dahin keine Untersagung mitgeteilt wurde. 
+Die Notwendigkeit einer derartigen Untersagungsm&#246;glichkeit ist der Tatsache geschuldet, dass mit zunehmender
+informationstechnischer Komplexit&#228;t der eingesetzten kritischen Komponenten ein wesentlicher Teil der
+Beherrschbarkeit der Technologie im Rahmen der Produktpflege (Softwareupdates, Firmware-Updates, Schlie&#223;en
+von Sicherheitsl&#252;cken) beim Hersteller selbst oder auch der weiteren Lieferkette verbleibt. Auf Grund der hohen
+Komplexit&#228;t der kritischen Komponenten und der zu erwartenden stetigen Software/Firmware-Updates bieten
+etwa weder eine Komponentenzertifizierung noch hohe technische Sicherheitsanforderungen eine ausreichende
+Sicherheit dahingehend, dass die Hersteller keine missbr&#228;uchlichen Zugriffm&#246;glichkeiten auf Hard- und Software
+implementieren, oder sonstige Handlungen vornehmen, die Sabotage oder Spionage erm&#246;glichen. Geeignete
+technische Ma&#223;nahmen k&#246;nnen derartige Risiken zwar minimieren beziehungsweise in den m&#246;glichen Auswirkungen
+abschw&#228;chen, die letztlich im Raum stehende Frage der Vertrauensw&#252;rdigkeit von Herstellern &#8211; in diesem Sinne
+&#8211; kann hierdurch jedoch nicht umfassend adressiert werden.  
+Die umfassende Pr&#252;fung derartiger Restrisiken muss &#252;ber eine Risikobewertung in Bezug auf den Hersteller der
+kritischen Komponenten erfolgen. Absatz 2 dient damit auch der Umsetzung der Empfehlungen der sog. &#8222;EU 5G
+Toolbox&#8220; (&#8222;Cybersecurity of 5G Networks &#8211; EU Toolbox of risk mitigating measures&#8220;, dort &#8222;strategic measure
+SM03&#8220;), welche die Bewertung von Risikoprofilen der Hersteller und m&#246;gliche Restriktionen als eine der
+Schl&#252;sselma&#223;nahmen zur Absicherung der 5G-Netze herausstellt. 
+Ferner wurde das Einvernehmen mit den &#252;brigen betroffenen Ressorts in ein Benehmenserfordernis ge&#228;ndert. 
+Bei der Entscheidung durch das Bundesministerium des Innern, f&#252;r Bau und Heimat sind die Vorgaben des &#167; 28
+Verwaltungsverfahrensgesetz &#252;ber die Anh&#246;rung Beteiligter einzuhalten. Dabei kann der Hersteller der kritischen
+Komponenten nach den Vorgaben des &#167; 13 Absatz 2 Verwaltungsverfahrensgesetz als Beteiligter hinzugezogen
+werden. Gleiches gilt f&#252;r die Entscheidungen nach Absatz 4, 6 und 7.
+Zu Absatz 3
+Neben der bestehenden Pflicht, technische Vorkehrungen zur Vermeidung von St&#246;rungen der Verf&#252;gbarkeit,
+Integrit&#228;t, Authentizit&#228;t und Vertraulichkeit der informationstechnischen Systeme, Komponenten oder Prozesse zu
+treffen, m&#252;ssen Betreiber Kritischer Infrastrukturen k&#252;nftig auch eine Erkl&#228;rung des Herstellers der kritischen
+Komponenten einholen. Darin erkl&#228;rt der Hersteller, wie dieser sicherstellt, dass dessen Komponente &#252;ber keine
+technischen Eigenschaften verf&#252;gt, die spezifisch geeignet sind, missbr&#228;uchlich, insbesondere zum Zwecke von 
+Sabotage, Spionage oder Terrorismus auf die Sicherheit, Vertraulichkeit, Integrit&#228;t, Verf&#252;gbarkeit oder
+Funktionsf&#228;higkeit der Kritischen Infrastruktur einwirken zu k&#246;nnen. Diese Aussage muss sich auf die Komponente
+selbst und ihr Zusammenspiel mit anderen Komponenten beziehen. Zudem hat der Hersteller in der
+Garantieerkl&#228;rung weitere Zusicherungen und Angaben zu machen, die das Bundesministerium des Innern, f&#252;r Bau und
+Heimat durch Allgemeinverf&#252;gung festlegen wird.  
+Dabei muss der Hersteller seine Garantieerkl&#228;rung in Bezug auf sein Endprodukt einschlie&#223;lich aller ihm
+zugelieferten Teile abgeben, das hei&#223;t auch in Bezug auf die Lieferkette. Der bisherige Satz 2 (konnte gel&#246;scht werden,
+da es sich um eine nicht notwendige Klarstellung gehandelt hat. 
+Daneben wurden die gesetzlichen Vorgaben an die Einzelheiten der Garantieerkl&#228;rung in Hinblick auf die
+Konkretisierung des Gefahrenma&#223;stabes des Absatzes 2 ge&#228;ndert. Diese m&#252;ssen aus den Schutzzielen der Sicherheit,
+Vertraulichkeit, Integrit&#228;t, Verf&#252;gbarkeit oder Funktionsf&#228;higkeit der Kritischen Infrastruktur folgen und die
+Vermeidung von Gefahren f&#252;r die &#246;ffentliche Sicherheit und Ordnung adressieren, die aus der Sph&#228;re des Herstellers
+der kritischen Komponente, insbesondere dessen Organisationsstruktur, stammen.
+Zu Absatz 4
+Absatz 4 regelt im Gegensatz zur ex-ante Pr&#252;fung nach Absatz 2 auch die Pr&#252;fung der Einhaltung der Vorgaben
+der Garantieerkl&#228;rung, sowie die M&#246;glichkeit einer Untersagung auf Grund voraussichtlicher Gef&#228;hrdungen f&#252;r
+die &#246;ffentliche Sicherheit oder Ordnung im laufenden Einsatz (ex-post Pr&#252;fung). Bei festgestellten Verst&#246;&#223;en oder
+voraussichtlichen Beeintr&#228;chtigungen kann der weitere Einsatz einer Komponente untersagt werden (R&#252;ckbau).
+Die Pflichten aus der Garantieerkl&#228;rung beziehen sich damit nicht allein auf den Zeitpunkt des Einsatzes, sondern
+m&#252;ssen fortw&#228;hrend, also gerade im Betrieb der Komponenten, eingehalten werden. Dies erfordert eine
+fortlaufende Bewertung der Vertrauensw&#252;rdigkeit, mithin vorliegender Erkenntnisse von Verst&#246;&#223;en gegen die
+Garantieerkl&#228;rung. F&#252;r Entscheidungen nach Absatz 4 bleibt &#8211; anders als bei Absatz 2 &#8211; das Einvernehmen mit den
+betroffenen Ressorts notwendig.
+Die Voraussetzungen f&#252;r eine ex-post Untersagung wurden an den Gefahrenma&#223;stab des Absatz 2 angepasst.
+Zu Absatz 5
+Absatz 5 listet beispielhaft Gr&#252;nde auf, welche zu einer mangelnden Vertrauensw&#252;rdigkeit eines Herstellers
+f&#252;hren k&#246;nnen. Die Regelung wird in eine &#8222;kann&#8220;-Vorschrift ge&#228;ndert, damit ist auch bei Vorliegen von
+Anhaltspunkten nach den Nummern 1 bis 6 nicht zwingend von fehlender Vertrauensw&#252;rdigkeit des Herstellers
+auszugehen. Die Pr&#252;fung der Vertrauensw&#252;rdigkeit hat vielmehr unter Abw&#228;gung aller sicherheitsrelevanten Aspekte zu
+erfolgen. Nr. 5 wurde hinzugef&#252;gt, um die Vertrauensaspekte umfassend zu adressieren. 
+Zu den Abs&#228;tzen 6 und 7
+Die bisherige Voraussetzung der &#8222;wiederholten&#8220; Verst&#246;&#223;e wurde durch das Merkmal der &#8222;schwerwiegenden
+Verst&#246;&#223;e&#8220; ersetzt. Dies ist notwendig, da allein die Quantit&#228;t von Verst&#246;&#223;en kein ad&#228;quates Entscheidungsmerkmal
+ist.
+Doppelbuchstabe cc (&#167; 9c)
+Die &#196;nderung erm&#246;glicht die Ber&#252;cksichtigung bestehender Normen und Standards als Grundlage f&#252;r die IT-
+Sicherheitsanforderungen, soweit diese vom Bundesamt als geeignet festgestellt werden. Die weiteren
+&#196;nderungen dienen dazu, einen Konflikt zwischen verschiedenen bestehenden Normen, Standards, branchenabgestimmten
+IT-Sicherheitsvorgaben und Technischen Richtlinien aufzul&#246;sen.
+Zu Buchstabe q (&#167; 10)
+Doppelbuchstabe aa
+Mit dem Verweis auf &#167; 9c wird in &#167; 10 Absatz 3 eine redaktionelle Richtstellung vorgenommen.
+Alle Geb&#252;hrentatbest&#228;nde im Zust&#228;ndigkeitsbereich des Bundesministeriums des Innern, f&#252;r Bau und Heimat
+werden in einer Geb&#252;hrenverordnung (BMIBGebV) konzentriert. Die zus&#228;tzlichen Geb&#252;hrentatbest&#228;nde des
+Bundesamtes sollten daher in der BMIBGebV, nicht in der Verordnung nach &#167; 10 Absatz 3 verankert werden. 
+Doppelbuchstabe bb
+Hinsichtlich Absatz 5 handelt es sich um eine redaktionelle Anpassung sowie um eine Folge&#228;nderung zu Nummer
+1 Buchstabe b Doppelbuchstabe ee Dreifachbuchstabe fff. 
+Die Streichung von Absatz 6 ergibt sich daraus, dass das Vorhaben bereits ausreichend in &#167; 166 Absatz 1 Satz 2
+TKG-E (BT-Drs. 19/26108) ber&#252;cksichtigt ist.
+Zu Buchstabe r (&#167; 11)
+Es handelt sich um eine Folge&#228;nderung.
+Zu Buchstabe s (&#167; 13)
+Die &#196;nderung von &#167; 7 Absatz 2 Satz 2 ist eine Folge&#228;nderung, die sich der bisherigen Nummer 8 Buchstabe a
+Doppelbuchstabe bb und Nummer 8 Buchstabe b ergibt. 
+Die Einf&#252;gung eines &#167; 13 Absatz 3 verpflichtet das Bundesministerium des Innern, f&#252;r Bau und Heimat (BMI)
+dazu, den Ausschuss f&#252;r Inneres und Heimat des Deutschen Bundestages regelm&#228;&#223;ig &#252;ber die Anwendung des
+BSI-Gesetzes zu informieren. Dem Gesetzgeber wird damit erm&#246;glicht, seiner Beobachtungs- und
+Nachbesserungspflicht nachzukommen.
+Zu Buchstabe t (&#167;&#167; 14, 14a)
+Es handelt sich um eine Folge&#228;nderung.
+Zu Nummer 2 (Artikel 2 &#8211; &#196;nderungen des Telekommunikationsgesetzes)
+Zu Buchstabe a (&#167; 109)
+Mit der &#196;nderung wird klargestellt, dass sich diese Verpflichtung nur auf Betreiber &#246;ffentlicher
+Telekommunikationsnetze mit erh&#246;htem Gef&#228;hrdungspotenzial bezieht und nicht wie im Gesetzentwurf bisher vorgesehen
+pauschal auf kritische Komponenten im Sinne des &#167; 2 Absatz 13 BSI-Gesetzes. Die Klarstellung steht in Einklang
+mit Erw&#228;gungsgrund 95 der Richtlinie (EU) 2018/1972, der die Erforderlichkeit der Sicherstellung angemessener
+Sicherheitsanforderungen entsprechend der spezifischen Art und wirtschaftlichen Bedeutung der Dienste
+bekr&#228;ftigt. Der &#196;nderungsvorschlag steht zudem in Einklang mit den Regelungen des &#167; 164 Absatz 9 Satz 2 TKG-E
+(BT-Drs. 19/26108).
+Zu den Buchstaben b, c und d (&#167; 113)
+Es handelt sich wie bei Nummer 1 Buchstabe g um Folge&#228;nderungen zum Gesetz zur Anpassung der Regelungen
+&#252;ber die Bestandsdatenauskunft an die Vorgaben aus der Entscheidung des Bundesverfassungsgerichts vom 27.
+Mai 2020 (BGBl. I 2021 S. 448). Des Weiteren wird in &#167; 113 Absatz 5 eine rechtstechnisch notwendige Erg&#228;nzung
+vorgenommen. 
+Zu Nummer 3 (Artikel 3 &#8211; &#196;nderungen des EnWG)
+Es handelt sich um eine Folgeanpassung zu Nummer 1 Buchstabe l Doppelbuchstabe aa. 
+2. Die Fraktion der CDU/CSU betont, die Koalition habe lange am IT-Sicherheitsgesetz gearbeitet. Inhaltlich
+seien die Beratungen teilweise &#252;berlagert worden um die Debatte zur Vergabe der 5G-Netze. Dieses Gesetz greife
+jedoch deutlich weiter und gehe &#252;ber diese Frage hinaus. Durch die Reform f&#252;hre man das IT-
+Sicherheitskennzeichen ein. Wichtig sei hierbei, voran zu gehen und nicht auf eine verpflichtende Einf&#252;hrung durch die
+Europ&#228;ische Union zu warten. Das BSI werde zu einer echten Sicherheitsbeh&#246;rde f&#252;r alle B&#252;rger/Innen ausgebaut und
+gest&#228;rkt. Dar&#252;ber hinaus schaffe man weitreichende Zugriffsbefugnisse und Kontrollmechanismen, was eine
+erhebliche Aufwertung der IT-Sicherheit in Deutschland bedeute. Durch die &#196;nderungsantr&#228;ge habe man Einw&#228;nde
+von Verb&#228;nden und Sachverst&#228;ndigen aufgegriffen und so etwa den urspr&#252;nglichen &#167; 10 Absatz 6 des Entwurfs,
+der die Offenlegung von Schnittstellen behandelt habe, gestrichen und an weiteren Stellen nachgesch&#228;rft. Die in
+der &#246;ffentlichen Anh&#246;rung ge&#228;u&#223;erte Kritik zum geplanten &#167; 9b habe man aufgegriffen und im parlamentarischen 
+Verfahren grundlegend ge&#228;ndert. Durch die &#196;nderungen schlie&#223;e man einen Drittstaatseinfluss aus und nehme
+eine Koh&#228;renz mit den B&#252;ndniszielen auf. Insgesamt stelle man klar, dass es sich um ein Sicherheitsgesetz
+handele, sodass der Beweisma&#223;stab des Polizei- und Sicherheitsrechts gelte. Hierdurch schaffe man ein gutes IT-
+Sicherheitsgesetz und setze ein Zeichen f&#252;r einen funktionierenden Parlamentarismus.
+Die Fraktion der SPD hebt hervor, die nun zur Abstimmung gestellte Vorlage unterscheide sich wesentlich vom
+urspr&#252;nglichen Gesetzentwurf der Bundesregierung. Man sei stolz darauf, dass sich wesentliche Punkte, die die
+Fraktion zur Debatte gestellt habe, nun im &#196;nderungsantrag wiederf&#228;nden. Die Hinweise aus der &#246;ffentlichen
+Anh&#246;rung habe man ernst genommen. Insgesamt lege man eine klare Aufgabendefinition f&#252;r das BSI fest, welches
+auch finanzielle und personelle Aufstockungen erh&#228;lt. Hierdurch werde vor allem der Verbraucherschutz gest&#228;rkt.
+Beim Schwachstellenmanagement gehe man im Sinne der IT-Sicherheit einen klaren Weg &#8211; Informationen seien
+anzunehmen und die &#214;ffentlichkeit sowie weitere Kreise zu unterrichten. Durch die &#196;nderungen beseitige man
+auch eine unsaubere Trennung zwischen technischer Frage von kritischen Komponenten und der entsprechenden
+Zertifizierung sowie der Vertrauensw&#252;rdigkeit von Herstellern. Das Parlament gebe der Bundesregierung klare
+Hinweise, anhand welcher Ma&#223;st&#228;be eine entsprechende und abgesenkte Pr&#252;fung, ab wann die Frage der
+Vertrauensw&#252;rdigkeit eines Herstellers beurteilt werden k&#246;nne, vorgenommen werde. Zudem greife man die Kritik aus
+der Anh&#246;rung auf und regele das System der Einbeziehung verschiedener Ressorts in der Bundesregierung. Eine
+Evaluierung eines Gesetzes d&#252;rfe nicht dar&#252;ber hinwegt&#228;uschen, dass der Gesetzgeber auch unabh&#228;ngig von
+Evaluierung stets t&#228;tig werden k&#246;nne. Man implementiere eine Pflicht des BMI, dem Innenausschuss regelm&#228;&#223;ig &#252;ber
+den Stand der Cybersicherheit und die Fortentwicklung des Rechts zu berichten. Im parlamentarischen Verfahren
+habe man zahlreiche Kritikpunkte aufgenommen und dadurch das Gesetz in wesentlichen Teilen verbessert.
+Die Fraktion der AfD macht deutlich, der Gesetzentwurf sei in der &#246;ffentlichen Anh&#246;rung selbst von
+Sachverst&#228;ndigen der Koalition inhaltlich zerrissen worden. Ein Sachverst&#228;ndiger habe sogar von einem
+&#8222;Unsicherheitsgesetz&#8220; gesprochen. Dies sei ein bemerkenswerter Vorgang. Trotz mehrj&#228;hriger Beratungen sei schlussendlich
+nur ein zielloser Vorschlag ohne Strategie und ohne Einbindung von Wissenschaft und Zivilgesellschaft
+herausgekommen. Zudem best&#252;nden verfassungsrechtliche Bedenken. Die AfD-Fraktion habe im parlamentarischen
+Verfahren zahlreiche &#196;nderungsvorschl&#228;ge unterbreitet. Dies unterscheide die Fraktion von den Gr&#252;nen, die einen
+veralteten Antrag aus dem Jahr 2018 zur Abstimmung stellten. Besonders zu kritisieren sei die fehlende
+Evaluierung des IT-Sicherheitsgesetzes 1.0. Die Koalition unterlasse es, aus Erfahrungen zu lernen und zu analysieren, 
+wo Verbesserungen und Anpassungen n&#246;tig seien. Das vorliegende Gesetz werde dem digitalen
+Verbraucherschutz in keinster Weise gerecht. Zudem treffe die Koalition keine politische Entscheidung dar&#252;ber, ob staatsnahe
+Netzwerkausr&#252;ster aus undemokratischen L&#228;ndern am Netzausbau der kritischen 5G-Infrastruktur beteiligt
+werden d&#252;rften. Diese Entscheidung fordere die AfD in ihren &#196;nderungsantr&#228;gen. Zudem fordere man eine Definition 
+kritischer Komponenten durch Verweis auf das TKG. Der Stand der Technik solle nicht nur vom BSI, sondern
+mit DIN, ISO, ETSI etc. entwickelt werden. Das BMI m&#252;sse kritische Komponenten bei nicht vertrauensw&#252;rdigen 
+Herstellern untersagen. Eine Kann-Regelung reiche hier nicht. Zudem m&#252;sse das BSI zu einer starken
+Verbraucherschutzbeh&#246;rde ausgebaut werden und solle Krisenreaktionspl&#228;ne f&#252;r IT-Katastrophen ausarbeiten. Es bed&#252;rfe
+zudem einer Konsolidierung der zahlreichen IT-Sicherheitsgesetze, da die gestiegene Komplexit&#228;t die Sicherheit
+bedrohe. In eine bereits angesto&#223;ene Reform eines IT-Sicherheitsgesetzes 3.0 m&#252;ssten fr&#252;hzeitig und umf&#228;nglich
+alle interessierten Kreise einbezogen werden. Die Gestaltung des Ordnungsrahmens f&#252;r die IT-Sicherheit m&#252;sse 
+in Zukunft einem Bundesministerium f&#252;r Digitalisierung und Cybersicherheit federf&#252;hrend &#252;bertragen werden.
+Die Fraktion der FDP gesteht zu, der Entschlie&#223;ungsantrag der Koalition enthalte einige sinnvolle Regelungen.
+Diese h&#228;tte man jedoch unmittelbar als &#196;nderungsantrag einbringen m&#252;ssen. Zurecht seien &#196;nderungen am
+urspr&#252;nglichen &#167; 9b erfolgt. Insgesamt bleibe das IT-Sicherheitsgesetz St&#252;ckwerk, an dem wichtige Punkte fehlten,
+etwa die Steigerung der Cybersicherheit &#252;ber die KRITIS-Infrastruktur hinaus. Insgesamt fehle ein agiles
+Verst&#228;ndnis von Cybersicherheit. Beim Thema Verschl&#252;sselung und Offenlegung von Sicherheitsl&#252;cken habe die
+Koalition gesetzlich nicht die richtigen Schlussfolgerungen gezogen, sondern gehe lediglich im
+Entschlie&#223;ungsantrag hierauf ein. Die Fraktion der FDP mache hierf&#252;r in ihren acht &#196;nderungsantr&#228;gen entsprechende
+Vorschl&#228;ge, auf die sie inhaltlich Bezug nehme. Der Vorschlag der Koalition, eine Evaluierung des IT-
+Sicherheitsgesetzes 2.0 vorzunehmen, sei angesichts der Tatsache, dass das IT-Sicherheitsgesetz 1.0 trotz gesetzlichem Auftrag
+noch nicht evaluiert sei, nicht ernst zu nehmen. Es gebe eine enorme inhaltliche Dissonanz zwischen dem
+Entschlie&#223;ungsantrag und dem zur Abstimmung gestellten Gesetzentwurf. Positiv hervorzuheben sei, dass die Kritik
+aus der &#246;ffentlichen Anh&#246;rung an &#167; 9b aufgegriffen worden sei. Ob die nun getroffene L&#246;sung ausreiche, sei
+jedoch zweifelhaft.
+Die Fraktion DIE LINKE. weist darauf hin, der Sachverst&#228;ndige Manuel Atug der AG KRITIS habe in seiner
+Stellungnahme zur &#246;ffentlichen Anh&#246;rung darauf hingewiesen, dass durch diesen Gesetzentwurf eine eklatante
+Strategie- und Ziellosigkeit des Gesetzgebers im Cyberraum dokumentiert werde. Dieser Feststellung schlie&#223;e 
+man sich an. Teil einer sinnvollen und umsetzbaren Strategie bei der St&#228;rkung der digitalen Sicherheit sei die enge
+Einbindung derjenigen, die tagt&#228;glich daran arbeiteten &#8211; Wissenschaftler*innen, Netzaktivist*innen, Verb&#228;nde
+und Unternehmen. Diese h&#228;tten unisono beklagt, nicht entsprechend einbezogen gewesen zu sein. Es sei
+unverantwortlich, in Zeiten des Fachkr&#228;ftemangels in der IT-Sicherheit diesen Betroffenen derart vor den Kopf zu
+sto&#223;en. Sinnvoll w&#228;re es zudem, sich anzusehen, was mit den bisherigen Regeln des IT-Sicherheitsgesetzes
+erreicht worden sei, wo Defizite l&#228;gen und wo es Verbesserungsbedarf gebe. Hierf&#252;r m&#252;sste man ein Ziel definieren
+und dieses mittels Evaluation &#252;berpr&#252;fen. Das habe die Bundesregierung bislang vers&#228;umt und sich formal auf
+eine noch nicht abgelaufene Frist berufen. Jedoch sei es dem BMI unbenommen, vor einer weiteren Gesetzgebung
+bisherige Regelungen zu &#252;berpr&#252;fen. Eine solche Strategie m&#252;sse stringent und koh&#228;rent sein. Hieran mangele
+der Entwurf. Zwar w&#252;rden Unternehmen eine Pflicht zur Meldung von Sicherheitsl&#252;cken auferlegt, jedoch behalte
+sich der Staat vor, diese Sicherheitsl&#252;cken &#246;ffentlich zu machen oder f&#252;r andere Zwecke zu nutzen. Auch die
+Ausweitung der Verpflichtung f&#252;r die Betreiber kritischer Infrastrukturen auf andere Unternehmen sei nicht
+stringent. Mit Unternehmen im besonderen &#246;ffentlichen Interesse werde eine Art &#8222;KRITIS light&#8220; eingef&#252;hrt, ohne dass
+den betroffenen Unternehmen vorher klar sei, ob sie schlussendlich hiervon umfasst seien. Dies sorge f&#252;r weitere
+Unsicherheit. Auch beim Vorhaben eines IT-Sicherheitszertifikats fehle es an Stringenz. Ein solches Zertifikat
+gebe es bereits als EU-Richtlinie zu Cybersicherheitszertifikaten. Die Fraktion DIE LINKE. bef&#252;rworte
+ausdr&#252;cklich eine europ&#228;ische L&#246;sung. In einem gemeinsamen Binnenmarkt mache alles andere keinen Sinn. Dass beide
+Zertifikate nur freiwillig seien, sei zu kritisieren. Es bed&#252;rfe eine obligatorische Zertifizierung. Es sei zudem
+unverst&#228;ndlich, dass die weit &#252;berwiegende Zahl der Wasserwerksbetreiber nicht unter die KRITIS-Verordnung
+fielen, da diese hierf&#252;r zu klein seien. Dies sei verantwortungslos. Aufgrund der vorgetragenen Kritikpunkte
+werde man das Gesetz ablehnen.
+Die Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN teilt die vorgetragenen Kritikpunkte der Fraktionen FDP und DIE
+LINKE. Bereits seit dem IT-Sicherheitsgesetz 1.0 bestehe enormer Nachbesserungsbedarf. Das IT-
+Sicherheitsgesetz 2.0 habe sich um Jahre verz&#246;gert. Stattdessen habe sich die Bundesregierung mit der Frage der Rolle von
+Huawei und dem 5G-Ausbau besch&#228;ftigt. W&#228;hrend alle Oppositionsfraktionen entsprechende Vorschl&#228;ge
+unterbreitet h&#228;tten, sei von der Bundesregierung jahrelang nichts vorgelegt worden. Nun werde bereits vor
+Verabschiedung des vorliegenden Entwurfs &#252;ber ein IT-Sicherheitsgesetz 3.0 debattiert. Die Zust&#228;ndigkeiten innerhalb der
+Bundesregierung im Bereich der IT-Sicherheit seien weiterhin unklar. Die IT-Sicherheitspolitik der Koalition 
+gef&#228;hrde die Grundrechte massiv. Es habe einhellige und breite Kritik an diesem Gesetzentwurf gegeben. Die
+&#246;ffentliche Anh&#246;rung habe ein verheerendes Zeugnis ausgestellt, selbst die Sachverst&#228;ndigen der Koalition h&#228;tten
+von einem &#8222;Unsicherheitsgesetz&#8220; gesprochen. Hieran &#228;nderten auch die eingereichten &#196;nderungsantr&#228;ge nichts.
+Derweil gebe es weiterhin neue und massive Datenskandale durch Einflussnahme ausl&#228;ndischer
+Nachrichtendienste. Die Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN habe bereits im Jahr 2018 entsprechende Vorschl&#228;ge
+unterbreitet, die nicht aufgegriffen worden seien. Den Gesetzentwurf lehne man daher ab.
+Berlin, den 21. April 2021
+Christoph Bernstiel Sebastian Hartmann Joana Cotar
+Berichterstatter Berichterstatter Berichterstatterin 
+Manuel H&#246;ferlin Petra Pau Dr. Konstantin von Notz
+Berichterstatter Berichterstatterin Berichterstatter
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de 
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de 
+ISSN 0722-8333]</text>
+    <titel>a) zu dem Gesetzentwurf der Bundesregierung
+- Drucksachen 19/26106, 19/26921, 19/27035 1.7 -
+Entwurf eines Zweiten Gesetzes zur Erh&#246;hung der Sicherheit informationstechnischer Systeme
+b) zu dem Antrag der Abgeordneten Joana Cotar, Uwe Schulz, Dr. Michael Espendiller, weiterer Abgeordneter und der Fraktion der AfD
+- Drucksache 19/26225 -
+Evaluierung des IT-Sicherheitsgesetzes von 2015 nach Gesetzeslage umsetzen und Ergebnisse im IT-Sicherheitsgesetz 2.0 ber&#252;cksichtigen
+c) zu dem Antrag der Abgeordneten Uwe Schulz, Joana Cotar, Dr. Michael Espendiller und der Fraktion der AfD
+- Drucksache 19/26226 -
+IT-Sicherheitsgesetz 2.0 - Planungs- und Rechtssicherheit f&#252;r Netzbetreiber herstellen
+d) zu dem Antrag der Abgeordneten Dr. Konstantin von Notz, Tabea R&#246;&#223;ner, Kerstin Andreae, weiterer Abgeordneter und der Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN
+- Drucksache 19/1328 -
+IT-Sicherheit st&#228;rken, Freiheit erhalten, Frieden sichern</titel>
+    <datum>2021-04-21</datum>
+  </document>
+  

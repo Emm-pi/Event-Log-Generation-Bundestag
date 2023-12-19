@@ -1,0 +1,216 @@
+<document>
+    <id>234846</id>
+    <drucksachetyp>Antrag</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>48</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/14046</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>e3e10a9f15177c306a78cbbc41b3c877</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:15+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>254107</id>
+      <titel>Smart Germany - Cybersicherheit der 5G-Netze</titel>
+      <vorgangstyp>Antrag</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>FDP</bezeichnung>
+      <titel>Fraktion der FDP</titel>
+    </urheber>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/140/1914046.pdf</pdf_url>
+      <id>234846</id>
+      <dokumentnummer>19/14046</dokumentnummer>
+      <datum>2019-10-16</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antrag</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Fraktion der FDP</urheber>
+    </fundstelle>
+    <autoren_anzeige>
+      <id>1062</id>
+      <titel>Manuel H&#246;ferlin, MdB, FDP</titel>
+      <autor_titel>Manuel H&#246;ferlin</autor_titel>
+    </autoren_anzeige>
+    <autoren_anzeige>
+      <id>2136</id>
+      <titel>Frank Sitta, MdB, FDP</titel>
+      <autor_titel>Frank Sitta</autor_titel>
+    </autoren_anzeige>
+    <text>[Deutscher Bundestag Drucksache 19/14046
+19. Wahlperiode 16.10.2019
+Antrag
+der Abgeordneten Manuel H&#246;ferlin, Frank Sitta, Jimmy Schulz, Grigorios
+Aggelidis, Renata Alt, Christine Aschenberg-Dugnus, Nicole Bauer, Jens 
+Beeck, Dr. Jens Brandenburg (Rhein-Neckar), Mario Brandenburg (S&#252;dpfalz), 
+Dr. Marco Buschmann, Carl-Julius Cronenberg, Britta Katharina Dassler, Bijan
+Djir-Sarai, Dr. Marcus Faber, Thomas Hacker, Katrin Helling-Plahr, Markus 
+Herbrand, Torsten Herbst, Dr. Christoph Hoffmann, Reinhard Houben, Ulla
+Ihnen, Olaf in der Beek, Gyde Jensen, Dr. Christian Jung, Dr. Marcel Klinge, 
+Daniela Kluckert, Pascal Kober, Carina Konrad, Konstantin Kuhle, Alexander
+Graf Lambsdorff, Michael Georg Link, Alexander M&#252;ller, Roman M&#252;ller-B&#246;hm, 
+Dr. Martin Neumann, Hagen Reinhold, Christian Sauter, Matthias Seestern-
+Pauly, Judith Skudelny, Bettina Stark-Watzinger, Dr. Marie-Agnes Strack-
+Zimmermann, Benjamin Strasser, Katja Suding, Linda Teuteberg, Michael 
+Theurer, Stephan Thomae, Johannes Vogel (Olpe), Nicole Westig und der
+Fraktion der FDP
+Smart Germany &#8211; Cybersicherheit der 5G-Netze
+Der Bundestag wolle beschlie&#223;en:
+I. Der Deutsche Bundestag stellt fest:
+5G stellt den Mobilfunk-Standard unserer Zukunft dar. Spitzenraten von bis zu
+10 Gbit/s im Endausbau, deutlich geringere Latenzzeiten und h&#246;here
+Verbindungsstabilit&#228;ten sind nur einige der Vorteile. Somit bietet die 5G-Technologie gerade bei
+Industrieanwendungen ein gro&#223;es Potenzial zur Effizienzsteigerung, beispielsweise
+durch entkabelte Produktions- und Transportprozesse. Unterhalten Unternehmen auf
+dem Werksgel&#228;nde eigene Mobilfunkstationen, l&#228;sst sich die Latenz durch den
+Wegfall von zus&#228;tzlichen Routern sogar auf rund 1 Millisekunde reduzieren und er&#246;ffnet
+so neue M&#246;glichkeiten f&#252;r fahrerlose Transportsysteme oder Virtual Reality Systeme
+in der Produktion. Ein weiteres Zukunftsfeld, das sich &#252;ber 5G er&#246;ffnen l&#228;sst, ist der
+teilautonome und autonome Stra&#223;enverkehr. Die sehr kurze Signallaufzeit erm&#246;glicht
+eine Daten&#252;bertragung nahezu in Echtzeit und bietet somit eine schier endlose Palette 
+an Innovationsm&#246;glichkeiten. Angefangen mit Stau- oder Unfallwarnungen in
+Echtzeit &#252;ber automatisierte Erkennung von Fu&#223;g&#228;ngern, Radfahrern oder anderen
+Verkehrsteilnehmern bis hin zu Systemen zur autonomen Kolonnenbildung oder
+Kreuzungsassistenz.
+In all diesen Anwendungsfeldern ist auch ein h&#246;chstm&#246;glicher Sicherheitsstandard
+Voraussetzung. Die 5G-Technologie bringt an sich schon ein h&#246;heres Schutzniveau
+mit als bisherige mobile Internetstandards. So ist die Kommunikation beispielsweise
+standardm&#228;&#223;ig Ende-zu-Ende-verschl&#252;sselt, Funkzellen m&#252;ssen sich vor einer
+Verbindung gegen&#252;ber den Ger&#228;ten authentifizieren, die IMSI (International Mobile
+Subscriber Identity) wird nur verschl&#252;sselt &#252;bertragen und eine direkte Verbindung zwischen
+zwei Ger&#228;ten (Device-to-Device-Kommunikation) ist unter Umgehung der
+Funkmasten m&#246;glich. Dar&#252;ber hinaus wird in Deutschland eine berechtigte Debatte &#252;ber sichere
+und weniger sichere Anbieter von Netzwerkkomponenten in der 5G-Technologie
+gef&#252;hrt, da die Technik, die beim Ausbau von 5G zum Einsatz kommt, insbesondere in
+kritischen Infrastrukturbereichen, h&#246;chste Sicherheitsstandards erf&#252;llen muss.
+Auch die Bundesregierung stellt in einem Bericht des Bundesministeriums f&#252;r
+Wirtschaft und Energie zum aktuellen Stand der nationalen Risikobewertung der 5G-
+Netzinfrastruktur die Relevanz der IT-Sicherheit in 5G-Netzen klar: &#8222;Angesichts der
+Bedeutung von 5G f&#252;r die k&#252;nftige Wettbewerbsf&#228;higkeit des Standortes muss die
+Technik, die beim Ausbau von 5G zum Einsatz kommt, h&#246;chste Sicherheitsstandards
+erf&#252;llen. Sicherheitsbedenken m&#252;ssen so weit wie m&#246;glich ausgeschlossen werden. Das gilt
+f&#252;r die eingesetzte Hard- und Software gleicherma&#223;en.&#8220; (Quelle: &#8222;Bericht der
+Bundesregierung zum aktuellen Stand der nationalen Risikobewertung der 5G-
+Netzinfrastruktur und ggf. erster Schlussfolgerungen daraus auf Grundlage der Empfehlung der
+Kommission vom 26.03.2019 Cybersicherheit der 5G-Netze&#8220;, Ausschuss-Drucksache
+19(23)053, S. 4). Ebenso erkennt die Europ&#228;ische Kommission die strategische
+Relevanz der Gew&#228;hrleistung der Cybersicherheit von 5G-Netzen f&#252;r die Europ&#228;ische
+Union und misst dieser eine entscheidende Bedeutung f&#252;r die Gew&#228;hrleistung der
+strategischen Autonomie der Europ&#228;ischen Union bei. In ihrer Empfehlung vom
+26.03.2019 zur &#8222;Cybersicherheit der 5G-Netze&#8220; (Empfehlung (EU) 2019/534 der 
+Kommission vom 26. M&#228;rz 2019) zeigt die Europ&#228;ische Kommission zudem auf, dass
+sich Schwachstellen bzw. Cybersicherheitsvorf&#228;lle in den 5G-Netzen eines
+Mitgliedstaates aufgrund der Vernetzung auf die ganze Union auswirken k&#246;nnen.
+Doch gerade die Tatsache, dass dieses Sicherheitsniveau auch die Abh&#246;rsicherheit
+betrifft und verbessert, scheint die Bundesregierung zu st&#246;ren. So pr&#252;ft die
+Bundesregierung derzeit, &#8222;welche technischen und rechtlichen Anpassungen erforderlich sind, um
+zu gew&#228;hrleisten, dass die Sicherheitsbeh&#246;rden auch vor dem Hintergrund der
+Einf&#252;hrung des 5G-Standards ihren gesetzlichen Aufgaben nachkommen k&#246;nnen&#8220; (Antwort
+der Bundesregierung auf die Schriftliche Frage 18 des Abgeordneten Dr. Diether
+Dehm (DIE LINKE.) auf BT-Drs. 19/10535) und Bundesinnenminister Seehofer
+m&#246;chte noch in diesem Jahr Messenger gesetzlich zur Entschl&#252;sselung zwingen 
+(Quelle: www.spiegel.de/netzwelt/netzpolitik/horst-seehofer-will-messengerdienste-
+zum-entschluesseln-zwingen-a-1269121.html).
+Auch in Hinblick auf den noch laufenden Standardisierungsprozess zu 5G unterst&#252;tzt
+die Bundesregierung laut der Antwort auf die oben genannte Schriftliche Frage das 
+Engagement der Strafverfolgungsbeh&#246;rden in den Standardisierungsgremien des ETSI
+(Europ&#228;isches Institut f&#252;r Telekommunikationsnormen) und 3GPP (3rd Generation
+Partnership Project) und somit auch deren Ausarbeitungen bzgl. Abh&#246;rschnittstellen
+zur Ausleitung von Verkehr in den jeweiligen Spezifikationen (Quelle:
+www.heise.de/newsticker/meldung/Verschluesselung-in-5G-Das-Rennen-ist-verlo-
+ren-4440605.html). Im Juni 2019 wurde sogar zus&#228;tzlich die Zentrale Stelle f&#252;r
+Informationstechnik im Sicherheitsbereich (ZITiS) durch das Bundesministerium des
+Innern, f&#252;r Bau und Heimat in die Abh&#246;rarbeitsgruppen des ETSI und des 3GPP entsandt
+(Quelle: www.heise.de/tp/features/Huerden-bei-der-Ueberwachung-Wie-Behoerden-
+die-5G-Telefonie-verunsichern-4516624.html). All diese Entwicklungen deuten
+darauf hin, dass die Bundesregierung ihren Fokus im Standardisierungsprozess zu 5G
+mehr auf die Aufrechterhaltung oder gar Ausweitung der technischen M&#246;glichkeiten
+der Strafverfolgungsbeh&#246;rden bei der &#220;berwachung legt, als die Chancen f&#252;r einen
+gest&#228;rkten digitalen Schutz der B&#252;rgerinnen und B&#252;rger zu ergreifen.
+II. Der Deutsche Bundestag fordert die Bundesregierung auf,
+1. von jeglicher Schw&#228;chung der Sicherheit des 5G-Standards abzusehen und
+anstatt dessen die Chancen eines sicheren 5G-Standards voranzutreiben.
+a. Hierzu soll sich die Bundesregierung in dem noch laufenden
+Standardisierungsprozess mit allen durch sie beteiligten Akteuren aktiv f&#252;r ein
+h&#246;chstm&#246;gliches Ma&#223; an Sicherheit einsetzen. Hierzu z&#228;hlt unter anderem der
+Einsatz f&#252;r eine standardm&#228;&#223;ige Ende-zu-Ende-Verschl&#252;sselung und die
+Ablehnung von Sicherheitsl&#252;cken zur weiteren M&#246;glichkeit der Nutzung von
+sogenannten IMSI-Catchern.
+b. Auf nationaler Ebene soll die Bundesregierung zum einen alle Ma&#223;nahmen
+unterlassen, die eine Schw&#228;chung der Sicherheit in der Anwendung der 5G-
+Technologie zur Folge h&#228;tten, und zum anderen proaktiv Ma&#223;nahmen
+ergreifen, um die Sicherheit in der Anwendung der 5G-Technologie zu
+st&#228;rken. So kann sie beispielsweise die Chance einer starken
+&#220;bertragungsverschl&#252;sselung dahingehend nutzen, ein wirksames Recht auf Verschl&#252;sselung
+(wie bereits in den Antr&#228;gen der Fraktion der Freien Demokraten auf BT-
+Drs. 19/5764 und BT-Drs. 19/7698 gefordert) auch gesetzlich zu verankern;
+2. die von von der Europ&#228;ischen Kommission empfohlenen Ma&#223;nahmen zur
+&#8222;Cybersicherheit der 5G-Netze&#8220; (Empfehlung (EU) 2019/534 der Kommission vom 
+26. M&#228;rz 2019) national umzusetzen. Hierunter fallen auf Grundlage der
+nationalen Risikobewertungen der Mitgliedstaaten insbesondere die folgenden
+Ma&#223;nahmen:
+a. Aktualisierung der f&#252;r die 5G-Netze geltenden Sicherheitsanforderungen
+und Risikomanagementverfahren sowie der einschl&#228;gigen Verpflichtungen
+f&#252;r Unternehmen, die &#246;ffentliche Kommunikationsnetze bereitstellen oder
+&#246;ffentlich zug&#228;ngliche elektronische Kommunikationsdienste erbringen.
+b. Bedingungen im Hinblick auf den Schutz &#246;ffentlicher Netze gegen
+unbefugten Zugang an die Allgemeingenehmigung kn&#252;pfen und Unternehmen, die
+k&#252;nftig an Verfahren zur Erteilung von Nutzungsrechten f&#252;r
+Funkfrequenzen in 5G-Frequenzb&#228;ndern teilnehmen, zur Einhaltung der
+Sicherheitsanforderungen f&#252;r Netze verpflichten.
+c. Anbieter und Betreiber von 5G-Netzen dazu verpflichten, f&#252;r die Sicherheit
+der sicherheitsrelevante Netz- und Systemkomponenten zu sorgen, den
+zust&#228;ndigen nationalen Beh&#246;rden einschl&#228;gige Informationen &#252;ber geplante
+&#196;nderungen der elektronischen Kommunikationsnetze zur Verf&#252;gung zu
+stellen und spezifische Komponenten und IT-Systeme im Hinblick auf
+Sicherheit und Integrit&#228;t vorab von einer nationalen Pr&#252;fstelle/einem
+Zertifizierungslabor testen zu lassen. Zu diesem Zweck soll das Bundesamt f&#252;r
+Sicherheit in der Informationstechnik (BSI) als zust&#228;ndige Pr&#252;fstelle
+gesetzlich benannt werden und mit ausreichend personellen und finanziellen
+Ressourcen ausgestattet werden.
+d. Gemeinsame Durchf&#252;hrung von Sicherheits&#252;berpr&#252;fungen, wenn
+Unternehmen in mehreren Mitgliedstaaten Netzinfrastrukturen betreiben oder
+aufbauen. Die Agentur der EU f&#252;r Cybersicherheit (ENISA), Europol und das
+Gremium Europ&#228;ischer Regulierungsstellen f&#252;r elektronische
+Kommunikation (GEREK) sollen Unterst&#252;tzungsersuchen der Mitgliedstaaten in diesem
+Bereich Vorrang einr&#228;umen;
+3. die Kooperation im Rahmen der Sicherheit der 5G-Netze auf europ&#228;ischer Ebene
+zu intensivieren.
+a. Hierzu soll die Bundesregierung eine durch die Mitgliedstaaten und die
+jeweils zust&#228;ndigen Einrichtungen auf Ebene der Mitgliedstaaten und der
+Europ&#228;ischen Union gemeinsam getragene Entwicklung einer koordinierten
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333
+Risikobewertung auf Unionsebene vorantreiben, die auf den nationalen
+Risikobewertungen aufbaut.
+b. Au&#223;erdem soll sie bew&#228;hrte Verfahren und m&#246;gliche gemeinsame
+Ma&#223;nahmen zur Minderung der Cybersicherheitsrisiken im Zusammenhang mit
+kritischen Infrastrukturen im Bereich der 5G-Netze durch die mit der Richtlinie
+(EU) 2016/1148 des Europ&#228;ischen Parlaments und des Rates vom 6. Juli
+2016 eingesetzte Kooperationsgruppe abstimmen;
+4. durch staatliche Beh&#246;rden keine Produkte von chinesischen Unternehmen zu
+beziehen, deren Produkte Kern des Systems der uferlosen Massen&#252;berwachung der
+Menschen in China sind. Die Bundesregierung muss den Wert deutlich machen,
+den es Freiheit und B&#252;rgerrechten beimisst. Deshalb fordern wir die
+Bundesregierung konkret auf,
+a. bei sicherheitskritischer Infrastruktur, wie beispielsweise der 5G-
+Technologie, bereit zu sein sowohl national als auch durch das entsprechende
+Engagement auf europ&#228;ischer Ebene auf die Nutzung chinesischer Technik zu
+verzichten, wie China auch bestimmte Bereiche von ausl&#228;ndischen
+Investitionen und Unternehmen ausnimmt,
+b. den Export von &#220;berwachungstechnologien in Zeiten digitaler Vernetzung
+als kritischen Bereich zu betrachten; diese Technologien sind in
+autokratischen Staaten ein Mittel, die Freiheit von Meinungen und Medien
+einzuschr&#228;nken und eine aktive Zivilgesellschaft zu unterdr&#252;cken. Europa braucht
+deshalb eine gemeinsame politische Linie f&#252;r menschenrechtliche Standards
+in der R&#252;stungskontrolle, die auch neue Technologien einbeziehen, und
+einheitlich angewandte Verfahren.
+Berlin, den 15. Oktober 2019
+Christian Lindner und Fraktion]</text>
+    <titel>Smart Germany - Cybersicherheit der 5G-Netze</titel>
+    <datum>2019-10-16</datum>
+  </document>

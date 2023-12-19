@@ -1,0 +1,387 @@
+<document>
+    <id>249297</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/25874</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>55dee3999143126583912beaf60d8fe4</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>271030</id>
+      <titel>Schutz personenbezogener Daten im teildigitalisierten Schulalltag</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium f&#252;r Bildung und Forschung</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/258/1925874.pdf</pdf_url>
+      <id>249297</id>
+      <dokumentnummer>19/25874</dokumentnummer>
+      <datum>2021-01-14</datum>
+      <verteildatum>2021-01-20</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Antwort
+der Bundesregierung
+auf die Kleine Anfrage der Abgeordneten Katja Suding, Grigorios Aggelidis, 
+Renata Alt, weiterer Abgeordneter und der Fraktion der FDP
+&#8211; Drucksache 19/25069 &#8211;
+Schutz personenbezogener Daten im teildigitalisierten Schulalltag
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Was viele Jahre lang verschleppt wurde, wird nun aus der Not heraus endlich 
+umgesetzt: die Digitalisierung der deutschen Bildungslandschaft. Ausl&#246;ser 
+hierf&#252;r ist die Corona-Pandemie, auf Grund derer im Fr&#252;hjahr langanhaltende 
+und fl&#228;chendeckende Schulschlie&#223;ungen stattgefunden haben und der
+Unterricht weitestgehend digital stattfinden musste. Nicht alle Schulen waren gleich 
+gut auf diese Herausforderung vorbereitet. Der DigitalPakt Schule h&#228;tte die 
+Voraussetzungen f&#252;r digitalen Unterricht schaffen k&#246;nnen, ist aber nach
+jahrelanger Ank&#252;ndigung erst im Mai 2019 mit der von den L&#228;ndern und der
+Bundesministerin f&#252;r Bildung und Forschung Anja Karliczek unterschriebenen 
+Verwaltungsvereinbarung in Kraft getreten.
+Den Fragestellern ist insbesondere in der derzeitigen Situation eine
+Beschleunigung der Digitalisierungsbestrebungen im Bildungsbereich ein wichtiges 
+Anliegen. Nur so k&#246;nnen Bildungschancen bestm&#246;glich aufrechterhalten
+werden, sollte es zu erneuten Schulschlie&#223;ungen kommen m&#252;ssen. H&#252;rden gibt es 
+derzeit leider noch zu viele, die sp&#228;testens jetzt dringend abgebaut werden 
+m&#252;ssen. Zus&#228;tzlich zum schleppenden Abfluss der Bundesf&#246;rdermittel aus 
+dem DigitalPakt Schule durch die sehr b&#252;rokratischen Antragsverfahren,
+werden viele Lehrkr&#228;fte unn&#246;tigerweise von komplexen
+Datenschutzbestimmungen und unkonkreten Vorgaben gehemmt. Dazu soll die Bundesregierung
+Stellung beziehen, denn Datenschutz darf nicht l&#228;nger vernachl&#228;ssigbar sein.
+Um den Bildungsausfall aufgrund der Schulschlie&#223;ungen abzufedern, hat die 
+Bundesregierung verschiedene Ma&#223;nahmen getroffen (nachzulesen u. a. in der 
+Antwort der Bundesregierung auf die Kleine Anfrage der Fraktion der FDP 
+auf Bundestagsdrucksache 19/22316 und in der Antwort der Bundesregierung 
+auf die Kleine Anfrage der Fraktion der FDP auf Bundestagsdrucksache 
+19/24033). Zentrale Probleme waren anfangs allerdings nicht nur das Fehlen 
+von digitalen Endger&#228;ten und technischer Infrastruktur innerhalb und
+au&#223;erhalb der Schulen, sondern auch die wenigen Informationsm&#246;glichkeiten f&#252;r 
+datenschutzkonforme Kommunikationsanwendungen und
+Videokonferenzsysteme zum sicheren Austausch zwischen Lehrkr&#228;ften, Sch&#252;lern und Eltern. Die 
+Kultusministerkonferenz hat zwar schnell reagiert und eine Liste von digitalen 
+Lernangeboten erstellt, wurde aber prompt von Bildungsexperten f&#252;r die
+Auflistung von Google und Microsoft ger&#252;gt, woraufhin diese wieder aus der Lis-
+Deutscher Bundestag Drucksache 19/25874
+19. Wahlperiode 14.01.2021
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums f&#252;r Bildung und Forschung
+vom 13. Januar 2021 &#252;bermittelt.
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext.
+te entfernt wurden (https://www.jmwiarda.de/2020/04/07/wenn-die-kmk-mal-
+hilfreich-sein-will/).
+Dass noch heute keine verbindlichen Datenschutzstandards f&#252;r Software im 
+Bildungsbereich zur Verf&#252;gung stehen, ist bedenklich. Dabei gibt es schon seit 
+2018 klare rechtliche Datenschutzregelungen, die EU-weit vereinheitlicht 
+wurden: &#8222;Die Datenschutz-Grundverordnung (DSGVO oder DS-GVO) ist 
+eine Verordnung der Europ&#228;ischen Union, mit der die Regeln zur Verarbeitung 
+personenbezogener Daten durch die meisten Datenverarbeiter, sowohl private 
+wie &#246;ffentliche, EU-weit vereinheitlicht werden. Dadurch soll einerseits der 
+Schutz personenbezogener Daten innerhalb der Europ&#228;ischen Union
+sichergestellt, und auch andererseits der freie Datenverkehr innerhalb des
+Europ&#228;ischen Binnenmarktes gew&#228;hrleistet werden.&#8220; (https://de.wikipedia.org/wiki/D
+atenschutz-Grundverordnung). Besonderen Schutz genie&#223;en Kinder (https://ne
+tzpolitik.org/2020/office-365-in-der-schule-grobe-verletzungen-datenschutzre
+chtlicher-vorschriften/).
+Bei der Einhaltung des Datenschutzes in Schulen wurden und werden
+Lehrkr&#228;fte jedoch immer wieder allein gelassen. So etwa bei der Auswahl und 
+Nutzung von digitaler Bildungssoftware. Untersuchungen zeigten vielfach, 
+dass personenbezogene Daten bei vielen kommerziellen Anbietern
+unzureichend gesch&#252;tzt werden. Sowohl die Berliner Datenschutzbeauftragte als auch 
+der EU-Datenschutzbeauftragte warnen beispielsweise vor der Nutzung von 
+Microsoft Produkten (https://taz.de/Online-Unterricht-in-Corona-Krise/!5710
+461/). Auch der Anbieter Zoom hat viel Kritik f&#252;r mangelhaften Datenschutz 
+und unsichere Verschl&#252;sselung einstecken m&#252;ssen (https://www.heise.de/news
+ticker/meldung/Schulsoftware-Threema-ja-Zoom-und-Microsoft-Office-365-e
+her-nicht-4711961.html). Den Lehrkr&#228;ften ist hieraus kein Vorwurf zu
+machen, mussten sie doch aus Mangel an konkreten Vorgaben zu Beginn der 
+Schulschlie&#223;ungen im Fr&#252;hjahr auf bekannte, aber datenschutzrechtlich
+fragw&#252;rdige Dienste zur&#252;ckgreifen, die ihnen und auch den Sch&#252;lern ein Begriff 
+waren, und haben damit sogar, wie in Th&#252;ringen oder Baden-W&#252;rttemberg, 
+eine Diskussion &#252;ber m&#246;gliche Sanktionen wegen Verst&#246;&#223;en gegen den
+Datenschutz ausgel&#246;st (https://www.sueddeutsche.de/digital/datenschutz-schule-zoo
+m-whatsapp-1.4928617). Auch die von der Bundesregierung gef&#246;rderte HPI 
+Schul-Cloud hat im Fr&#252;hjahr durch Sicherheitsl&#252;cken auf sich aufmerksam
+gemacht (https://www.faz.net/aktuell/politik/inland/namen-gehackt-aus-der-schu
+l-cloud-regnet-es-daten-16779947.html und https://www.news4teachers.de/20
+20/04/datenschutzbeauftragter-warnt-lehrer-vor-videokonferenzdienst-zoom/).
+Zus&#228;tzlich dazu sind Lehrkr&#228;fte noch immer nicht mit dienstlichen Endger&#228;ten 
+ausgestattet (vgl. https://www.spiegel.de/panorama/bildung/digitaler-schulunt
+erricht-dienst-laptops-fuer-alle-lehrer-verzoegern-sich-a-9500c3b0-9ce9-455
+9-aa7e-5a2550266f74 und Antwort der Bundesregierung auf die Kleine
+Anfrage der Fraktion der FDP auf Bundestagsdrucksache 19/24033). Eine
+Umfrage vom Beginn des Jahres zeigt, dass 90 Prozent der Lehrkr&#228;fte ein privates 
+Ger&#228;t f&#252;r ihre Lehrt&#228;tigkeit nutzen (https://www.sueddeutsche.de/bildung/lehr
+er-laptop-homeschooling-gew-1.4925894), was zeigt, dass Lehrkr&#228;fte selbst 
+viel zu h&#228;ufig in der Verantwortung stehen, personenbezogene Daten von 
+Sch&#252;lern auf ihren privaten Endger&#228;ten zu sch&#252;tzen. Private Laptops im 
+Schulbetrieb d&#252;rfen keine Dauerl&#246;sung sein, denn f&#252;r den Schutz
+sch&#252;lerbezogener Daten auf ihren privaten Ger&#228;ten sollten Lehrkr&#228;fte nicht zur
+Rechenschaft gezogen werden. Die Einhaltung vom Datenschutz nach der DSGVO 
+kann und darf nicht auf Schulen und Lehrkr&#228;fte allein ausgelagert werden 
+(https://deutsches-schulportal.de/expertenstimmen/verantwortung-fuer-den-dat
+enschutz-nicht-auf-lehrkraefte-abwaelzen/).
+Datenschutz ist nicht vernachl&#228;ssigbar, darf aber auch nicht zum Hindernis auf 
+dem Weg zu gutem Unterricht mit digitalen Medien werden. Schulen m&#252;ssen 
+datenschutzrechtlich unbedenkliche Werkzeuge erhalten, mit denen sie ohne 
+Sorge vor Datenmissbrauch mit ihren Sch&#252;lern kommunizieren,
+zusammenarbeiten und unterrichten k&#246;nnen. Das ist besonders im Hinblick auf die sich 
+derzeit stark entwickelnde zweite Welle von h&#246;chster Wichtigkeit. Schon jetzt 
+m&#252;ssen Schulen regional schlie&#223;en, weil die Zahlen der mit COVID-19-
+infizierten Sch&#252;ler und Lehrkr&#228;fte stark steigen. Jede Schule, die schlie&#223;en 
+muss, muss digital unterrichten k&#246;nnen, und zwar ohne Bedenken, im
+Nachhinein f&#252;r Datenschutzverst&#246;&#223;e belangt werden zu k&#246;nnen. Diese Drohungen 
+hemmen nicht nur die Lehrkr&#228;fte in ihrer T&#228;tigkeit, sondern jegliche digitale 
+Innovation im Bildungsbereich.
+V o r b e m e r k u n g  d e r  B u n d e s r e g i e r u n g
+Nach dem Grundgesetz ist die Bundesrepublik Deutschland ein f&#246;deraler
+Bundesstaat, in dem die staatlichen Aufgaben zwischen Bund und L&#228;ndern
+aufgeteilt sind. F&#252;r ihre jeweiligen Aufgaben sind die L&#228;nder origin&#228;r zust&#228;ndig 
+(die Artikel 20, 30, 70 GG).
+Die mit der Schule im Zusammenhang stehenden Rechtsbeziehungen zwischen 
+Sch&#252;lern, Eltern, Lehrern und den (kommunalen) Schulinstitutionen
+(Schulrecht) unterfallen der Kultushoheit, welche origin&#228;re Zust&#228;ndigkeit der L&#228;nder 
+ist.
+Das Bundesdatenschutzgesetz (BDSG) regelt den Datenschutz f&#252;r die
+Bundesbeh&#246;rden und den privaten Bereich. Den Datenschutz der Landes- und
+Kommunalbeh&#246;rden (und somit der Schulbeh&#246;rden) regeln die jeweiligen
+Landesdatenschutzgesetze.
+Das Datenschutzrecht f&#252;r &#246;ffentliche Stellen dient dazu, den Umgang mit
+Daten der jeweiligen Verwaltungsebenen zu regeln. Der Datenschutz f&#252;r die 
+Schulverwaltung und die Datenschutz-Aufsicht sind daher in den
+Landesdatenschutzgesetzen, die zul&#228;ssige Datenverarbeitung in den jeweiligen
+Schulgesetzen geregelt. Fragen zum schulischen Datenschutz lassen sich daher nur von 
+den Landes-Datenschutzbeh&#246;rden beantworten.
+In den origin&#228;r den L&#228;ndern zustehenden Kompetenzen sind die L&#228;nder dem 
+Bund in keiner Weise rechenschaftspflichtig, der Bund &#252;bt keine Kontrollrechte 
+aus.
+Die St&#228;ndige Konferenz der Kultusminister der L&#228;nder in der Bundesrepublik 
+Deutschland (KMK), in der sich die L&#228;nder untereinander koordinieren,
+widmet sich nach dem Wissen der Bundesregierung in einer &#8222;Lenkungsgruppe
+Bildung in der digitalen Welt&#8220; auch dem Datenschutz an Schulen. Der Bund ist 
+nicht Mitglied der KMK. Er verf&#252;gt in aller Regel nicht &#252;ber eigene
+Informationen zu Themenfeldern in origin&#228;rer L&#228;nderzust&#228;ndigkeit, wie etwa dem 
+Datenschutz im schulischen Kontext.
+1. Wie viele und welche F&#228;lle von Sicherheitsl&#252;cken beim Datenschutz an 
+Schulen in Deutschland im Zuge der coronabedingten Schulschlie&#223;ungen 
+sind der Bundesregierung bekannt?
+2. Welche und wie viele F&#228;lle von Datenschutzverst&#246;&#223;en an Schulen in 
+Deutschland innerhalb der letzten f&#252;nf Jahre sind der Bundesregierung
+bekannt?
+Die Fragen 1 und 2 werden im Zusammenhang beantwortet.
+Es wird auf die Vorbemerkung der Bundesregierung verwiesen.
+3. Welche Schl&#252;sse hat die Bundesregierung aus der Sicherheitsl&#252;cke der 
+HPI Schul-Cloud gezogen?
+Die HPI Schul-Cloud ist ein Forschungs- und Entwicklungsvorhaben, das im 
+Rahmen der Projektf&#246;rderung vom Hasso-Plattner-Institut (HPI) umgesetzt 
+wird. Die Entwicklung und Erprobung verl&#228;sslicher sicherheits- und
+datenschutzrelevanter Funktionen und Mechanismen in vernetzten und verteilten,
+digitalen Bildungsinfrastrukturen bildet einen Schwerpunkt des Projektes. Die 
+w&#228;hrend der Erprobung festgestellten, partiellen Verbesserungsbedarfe wurden 
+durch das HPI umgehend umgesetzt sowie durch das HPI und die
+Bundesregierung transparent kommuniziert. In diesem Zusammenhang wird auf die
+Antwort der Bundesregierung zu den Fragen 8 bis 18 der Kleinen Anfrage der 
+Fraktion der FDP auf Bundestagsdrucksache 19/21177 verwiesen. Dem hohen 
+Stellenwert, den Sicherheit und Datenschutz seit Beginn im Projekt HPI Schul-
+Cloud haben, wurde und wird auch zuk&#252;nftig in besonderer Weise Rechnung 
+getragen. Das HPI befindet sich im regelm&#228;&#223;igen Austausch mit der
+Datenschutzkonferenz und den Landesdatenschutzbeauftragten. Regelm&#228;&#223;ige sog. 
+Security Audits und Penetration Testing, die mit externen Dienstleistern
+durchgef&#252;hrt werden, entsprechen den Anforderungen an eine qualit&#228;tsgesicherte 
+Softwareentwicklung hinsichtlich Datenschutz und Sicherheit.
+4. Inwiefern hat die Bundesregierung Kenntnis davon, dass
+personenbezogene Daten von Kindern durch digitale Programme, die in der Schule
+genutzt werden, nicht oder doch weiterverarbeitet werden?
+5. Wer, welche Beh&#246;rde bzw. Person ist nach Kenntnis der Bundesregierung 
+in den L&#228;ndern daf&#252;r zust&#228;ndig, Software f&#252;r den Einsatz im
+Bildungsbereich (z. B. Microsoft 365, Google Classroom, iServ etc.)
+datenschutzrechtlich zu pr&#252;fen und f&#252;r den Einsatz in Schulen zuzulassen oder
+abzulehnen?
+6. Inwiefern unterst&#252;tzt die Bundesregierung die L&#228;nder bei der
+Sicherstellung des Datenschutzes im Zuge der Digitalisierung von Schulen?
+Die Fragen 4 bis 6 werden im Zusammenhang beantwortet.
+Es wird auf die Vorbemerkung der Bundesregierung verwiesen.
+7. In welcher Rolle sieht sich die Bundesregierung, wenn es um den Schutz 
+von Daten der B&#252;rgerinnen und B&#252;rger und insbesondere von
+Minderj&#228;hrigen geht?
+Junge Menschen und insbesondere Kinder bed&#252;rfen bei ihren
+personenbezogenen Daten eines besonderen Schutzes, da sie sich der betreffenden
+Auswirkungen und Risiken sowie ihrer Rechte bei der Verarbeitung personenbezogener 
+Daten m&#246;glicherweise weniger bewusst sind. Diesen besonderen Schutzbedarf 
+greift die Bundesregierung innerhalb der bestehenden grundgesetzlichen
+Kompetenzen auf. Im &#220;brigen wird auf die Vorbemerkung der Bundesregierung und 
+die Antwort zu Frage 15 verwiesen.
+&#8199;8. Inwiefern unterst&#252;tzt die Bundesregierung die L&#228;nder bei der Einhaltung 
+der EU-DSGVO?
+&#8199;9. K&#246;nnen die L&#228;nder unterschiedliche Vorgaben zum Schutz
+personenbezogener Daten machen?
+a) Wenn ja, inwiefern k&#246;nnen sich Datenschutzrichtlinien zum Schutz 
+personenbezogener Daten in den 16 L&#228;ndern unterscheiden?
+b) Wenn nein, gibt es in der Bundesregierung einen bzw. mehrere
+Ansprechpartner zum Thema Datenschutz und Verarbeitung
+personenbezogener Daten, der bzw. die sich mit den Datenschutzbeauftragten 
+der L&#228;nder koordiniert bzw. koordinieren?
+10. Welche Institutionen sind nach Kenntnis der Bundesregierung daf&#252;r
+zust&#228;ndig, die Einhaltung der EU-DSGVO im Bildungsbereich zu
+kontrollieren?
+11. Liegen der Bundesregierung Informationen dazu vor, inwiefern Anbieter 
+von Lernplattformen oder Lern-Management-Systemen im
+Bildungsbereich datenschutzrechtlichen Regularien folgen m&#252;ssen, um sie als
+datenschutzrechtlich unbedenklich f&#252;r minderj&#228;hrige Sch&#252;lerinnen und
+Sch&#252;ler zu empfehlen?
+12. Liegen der Bundesregierung Dokumente, Auswertungen oder aktuelle 
+Lageberichte zum Datenschutz im Bildungsbereich in Deutschland vor?
+Die Fragen 8 bis 12 werden im Zusammenhang beantwortet.
+Es wird auf die Vorbemerkung der Bundesregierung verwiesen.
+13. Plant die Bundesregierung, auch im Sinne ihrer eigens finanzierten
+Bundesplattform HPI Schul-Cloud, eine sogenannte White-List (Positiv-
+Liste) f&#252;r Bildungssoftware, Bildungs-Apps, Bildungsplattformen in
+Zusammenarbeit mit den L&#228;ndern und der Kultusministerkonferenz zu
+koordinieren und zu erstellen?
+Wenn ja, wann wird diese Liste den L&#228;ndern zur Verf&#252;gung gestellt?
+Wenn nein, weshalb ist nach Kenntnis der Bundesregierung keine
+Erstellung einer White List geplant?
+Gem&#228;&#223; der f&#246;deralen Kompetenzverteilung liegt der Bereich der schulischen 
+Bildung im Zust&#228;ndigkeitsbereich der L&#228;nder. So sind die L&#228;nder f&#252;r digitale 
+Lerninhalte zust&#228;ndig und auch in der Lage, diese zur Verf&#252;gung zu stellen. Die 
+Bundesregierung begr&#252;&#223;t, dass die L&#228;nder angesichts der Corona-Krise
+kurzfristig das l&#228;nder&#252;bergreifende Projekt SODIX mit Mitteln aus dem DigitalPakt 
+Schule auf den Weg gebracht haben, um die vorhandenen Lerninhalte &#252;ber das 
+Institut f&#252;r Film und Bild in Wissenschaft und Unterricht als Medieninstitut der 
+L&#228;nder Schulen in Deutschland zug&#228;nglich zu machen.
+14. Hat sich die Bundesregierung mit dem Antrag der Fraktion der FDP
+&#8222;Digitalpakt 2.0&#8220; auf Bundestagsdrucksache 19/10160 befasst?
+Wenn ja, zu welchem Ergebnis bzw. zu welcher Erkenntnis ist die 
+Bundesregierung gekommen?
+Wenn nein, warum hat sich die Bundesregierung nicht mit dem Antrag 
+befasst?
+Es wird auf die auf Bundestagsdrucksache 19/14630 wiedergegebenen
+&#196;u&#223;erungen der Bundesregierung anl&#228;sslich der Beratung des genannten Antrags im 
+Ausschuss f&#252;r Bildung, Forschung und Technikfolgenabsch&#228;tzung des
+Deutschen Bundestages verwiesen.
+15. Hat die Bundesregierung eine Einsch&#228;tzung dazu, inwiefern der
+Datenschutz und vor allem der Schutz der Daten von Minderj&#228;hrigen in 
+Deutschland gew&#228;hrleisten werden kann und muss?
+Die Datenschutz-Grundverordnung (DSGVO) sieht Kinder und ihre
+personenbezogenen Daten als besonders schutzbed&#252;rftig an und misst diesem Schutz in 
+verschiedenen Normen besonderes Gewicht bei, z. B. in Artikel 6 Absatz 1 
+Buchstabe f und Artikel 12 Absatz 1. Die DSGVO ist in Deutschland
+unmittelbar anwendbar, ihre Einhaltung wird durch die Datenschutzaufsichtsbeh&#246;rden 
+&#252;berwacht.
+16. Wie steht die Bundesregierung zur Entwicklung von bundesweit
+g&#252;ltigen, einheitlichen Datenschutzstandards zur Verwendung von Software 
+im Bildungsbereich, z. B. f&#252;r Messenger-Dienste,
+Videokonferenzsystemen oder Lern-Management-Systemen?
+17. Welche Rolle kann die Bundesregierung bei der Entwicklung eines
+solchen einheitlichen Referenzrahmens spielen?
+18. Inwiefern tr&#228;gt die Bundesregierung dazu bei, dass Datenschutzbeh&#246;rden 
+und Bildungsverwaltungen miteinander kooperieren und sich vernetzen?
+19. Hat die Bundesregierung eine Einsch&#228;tzung dazu, inwiefern die Schulen 
+mit der Beschaffung von datenschutzrechtlich unbedenklichen
+Lernplattformen und Lern-Management-Systemen &#252;berfordert sind?
+Die Fragen 16 bis 19 werden im Zusammenhang beantwortet.
+Es wird auf die Vorbemerkung der Bundesregierung verwiesen.
+20. Wie positioniert sich die Bundesregierung zum Datenschutz innerhalb 
+der Verwaltungsvereinbarungen zum DigitalPakt Schule und den drei 
+Zusatzprogrammen (Endger&#228;te f&#252;r benachteiligte Sch&#252;lerinnen und 
+Sch&#252;ler und f&#252;r Lehrkr&#228;fte, sowie Administration)?
+Welchen Schwerpunkt nimmt Datenschutz nach Einsch&#228;tzung der 
+Bundesregierung in der Digitalisierung von Schulen ein?
+In der Verwaltungsvereinbarung und den Zusatzvereinbarungen zum Digital-
+Pakt Schule hat der Bund sich erfolgreich f&#252;r den Aufbau von sicheren
+Bildungsinfrastrukturen eingesetzt. Insbesondere bei der Zusatzvereinbarung
+Administration war dem Bund der Einsatz der Fachkr&#228;fte auch f&#252;r IT-Sicherheit 
+und Datenschutz wichtig. Die Umsetzung des DigitalPakts Schule obliegt
+aufgrund ihrer origin&#228;ren Zust&#228;ndigkeit den L&#228;ndern.
+21. Welche Rolle plant die Bundesregierung, in Zukunft beim Thema
+Datenschutz von Minderj&#228;hrigen im Kontext der Digitalisierung von Schulen 
+einzunehmen?
+Es wird auf die Vorbemerkung der Bundesregierung verwiesen.
+22. Inwiefern erkennt die Bundesregierung die Nutzung von privaten
+Endger&#228;ten durch Lehrkr&#228;fte f&#252;r ihre berufliche T&#228;tigkeit als Risikofaktor beim 
+Schutz von Daten Minderj&#228;hriger an?
+Der Bund hat sich in den Verhandlungen zum DigitalPakt Schule, insbesondere 
+in den Zusatzvereinbarungen &#8222;Sofortausstattungsprogramm&#8220; und &#8222;Leihger&#228;te 
+f&#252;r Lehrkr&#228;fte&#8220;, daf&#252;r eingesetzt, dass die durch Mittel des DigitalPakts Schule 
+finanzierten Endger&#228;te solche der Schulinstitutionen werden und damit in die 
+Bildungsinfrastrukturen der L&#228;nder implementiert sind. Die durch den Digital-
+Pakt Schule finanzierten Endger&#228;te sind entsprechend keine privaten, sondern 
+solche der Bildungsinstitutionen und werden lediglich zur schulischen Nutzung 
+ausgeliehen. Im &#220;brigen wird auf die Vorbemerkung der Bundesregierung
+verwiesen.
+23. Wann k&#246;nnen die L&#228;nder mit dem Programm zur Ausstattung der
+Lehrkr&#228;fte mit dienstlichen Endger&#228;ten rechnen?
+Die L&#228;nder waren bei den Verhandlungen zur Zusatzvereinbarung &#8222;Leihger&#228;te 
+f&#252;r Lehrkr&#228;fte&#8220; zum DigitalPakt Schule aktiv beteiligt und sind entsprechend 
+&#252;ber den Stand des Prozesses informiert. Die Verhandlungen wurden Ende
+November 2020 abgeschlossen. Derzeit liegt die Vereinbarung bei den L&#228;ndern 
+zur Unterschrift. Nach der Unterzeichnung durch die L&#228;nder erfolgt die
+Letztunterzeichnung durch Bundesministerin Karliczek. Am darauf folgenden Tag 
+tritt die Vereinbarung in Kraft. In der Vereinbarung wurde ein F&#246;rderbeginn ab 
+dem 3. Juni 2020 beschlossen.
+24. Bis wann sollen alle Lehrkr&#228;fte mit dienstlichen Endger&#228;ten ausgestattet 
+sein?
+In der Zusatzvereinbarung &#8222;Leihger&#228;te f&#252;r Lehrkr&#228;fte&#8220; hat der Bund sich f&#252;r 
+eine schnelle Umsetzung eingesetzt. Mit den L&#228;ndern wurde eine vollst&#228;ndige 
+Verausgabung der Mittel m&#246;glichst bis zum 31. Dezember 2021 vereinbart. F&#252;r 
+die Umsetzung des DigitalPakts Schule sind die L&#228;nder verantwortlich.
+25. Wie viele Lehrkr&#228;fte besitzen nach Kenntnis der Bundesregierung eine 
+dienstliche E-Mail-Adresse?
+26. Wie viele Sch&#252;lerinnen und Sch&#252;ler besitzen nach Kenntnis der
+Bundesregierung eine von der Schule erstellte E-Mail-Adresse?
+Die Fragen 25 und 26 werden im Zusammenhang beantwortet.
+Es wird auf die Vorbemerkung der Bundesregierung verwiesen.
+27. Inwiefern teilt die Bundesregierung die Einsch&#228;tzung, nach der die
+fehlende Klarheit und Unterst&#252;tzung beim Thema Datenschutz die Schulen 
+daran hindert, selbstbewusst bei der Digitalisierung voranzuschreiten?
+Diese Einsch&#228;tzung ist der Bundesregierung nicht bekannt. Im &#220;brigen wird 
+auf die Vorbemerkung der Bundesregierung verwiesen.
+28. Inwiefern hat die Bundesregierung den Datenschutz bei der Umsetzung 
+des DigitalPakts Schule mitgedacht?
+Es wird auf die Vorbemerkung der Bundesregierung und die Antwort zu den 
+Fragen 20 und 22 verwiesen.
+29. Wie sch&#228;tzt die Bundesregierung den aktuellen Stand des Datenschutzes 
+in Bezug auf die Verwendung und Weitergabe von personenbezogenen 
+Daten in den Schulen durch die langen Schulschlie&#223;ungen im Fr&#252;hjahr 
+ein?
+30. Ist die Bundesregierung dar&#252;ber in Kenntnis, ob die Eltern den
+Vorschriften entsprechend &#252;ber die Datenverarbeitung aufgekl&#228;rt werden, und ob 
+es negative Folgen hat, wenn Eltern der Datenverarbeitung nicht
+zustimmen?
+Wenn ja, welche Ma&#223;nahmen leiten sich daraus f&#252;r die Bundesregierung 
+ab?
+31. Welche M&#246;glichkeiten haben Eltern und Sch&#252;lerinnen und Sch&#252;ler, der 
+Verwendung ihrer personenbezogenen Daten zu widersprechen?
+32. Geht die Bundesregierung davon aus, dass L&#228;nder und Kommunen seit 
+Inkrafttreten der DSGVO durch beispielsweise ausreichend Personal, 
+Datenschutzschulungen oder Ansprechpartner und Ansprechpartnerinnen 
+in der Bundesregierung angemessen auf Datenschutzvorf&#228;lle reagieren 
+k&#246;nnen?
+33. Wie haben sich die Zahlen der Zust&#228;ndigen f&#252;r Datenschutz in den
+L&#228;ndern und Kommunen in den letzten f&#252;nf Jahren ver&#228;ndert (bitte nach 
+Jahr, Anzahl der Besch&#228;ftigten und Verantwortlichen f&#252;r Datenschutz in 
+absoluten Zahlen, sowie der Zuordnung zu L&#228;ndern und Kommunen
+aufschl&#252;sseln)?
+Die Fragen 29 bis 33 werden im Zusammenhang beantwortet.
+Es wird auf die Vorbemerkung der Bundesregierung verwiesen.
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/25069 -
+Schutz personenbezogener Daten im teildigitalisierten Schulalltag</titel>
+    <datum>2021-01-14</datum>
+  </document>
+  

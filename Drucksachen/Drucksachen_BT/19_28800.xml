@@ -1,0 +1,1226 @@
+<document>
+    <id>252981</id>
+    <drucksachetyp>Unterrichtung</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/28800</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>300baa498d17485654a47428aa758c6c</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>277341</id>
+      <titel>Bericht &#252;ber die Ergebnisse der Evaluation der Regelungen zum automatisierten Fahren</titel>
+      <vorgangstyp>Bericht, Gutachten, Programm</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium f&#252;r Verkehr und digitale Infrastruktur</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/288/1928800.pdf</pdf_url>
+      <id>252981</id>
+      <dokumentnummer>19/28800</dokumentnummer>
+      <datum>2021-04-14</datum>
+      <verteildatum>2021-04-29</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Unterrichtung</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Deutscher Bundestag Drucksache 19/28800 
+19. Wahlperiode 14.04.2021 
+Unterrichtung
+durch die Bundesregierung
+Bericht &#252;ber die Ergebnisse der Evaluation der Regelungen zum
+automatisierten Fahren
+Inhaltsverzeichnis
+Seite
+1. Einf&#252;hrung ...................................................................................... 2
+2. Wesentliche Voraussetzungen........................................................ 2
+3. Sachstand ......................................................................................... 3
+3.1 Erfahrungen auf nationaler Ebene..................................................... 3
+3.2 Erfahrungen auf internationaler Ebene ............................................. 3
+3.3 Arbeiten zur Erstellung international harmonisierter
+technischer Vorschriften f&#252;r die Typgenehmigung von 
+Kraftfahrzeugen ................................................................................ 5
+3.3.1 Erarbeitung von generischen Anforderungen an automatisierte 
+Fahrfunktionen auf internationaler Ebene......................................... 5
+3.3.2 Speziell: Erarbeitung einer UN-Regelung f&#252;r einen
+Stau-Chauffeur.................................................................................. 7
+3.3.3 Erkenntnisse aus Forschungsprojekten ............................................. 9
+4. Ausblick ........................................................................................... 16
+Anhang .......................................................................................................... 18
+Quellenverzeichnis........................................................................................ 24
+Zugeleitet mit Schreiben des Bundesministeriums f&#252;r Verkehr und digitale Infrastruktur vom 13. April 20201
+gem&#228;&#223; &#167; 1c des Stra&#223;enverkehrsgesetzes.
+1. Einf&#252;hrung
+Angesichts sich abzeichnender Weiterentwicklungen von automatisierten Fahrfunktionen, die es technisch
+m&#246;glich machen, dass w&#228;hrend des Einsatzes dieser automatisierten Fahrfunktionen die fahrzeugf&#252;hrende
+Person dieses mit derartigen Fahrfunktionen ausger&#252;steten Kraftfahrzeugs sich von der Fahrzeugf&#252;hrung und vom
+Verkehrsgeschehen abwenden k&#246;nnte, wurde die Frage nach der rechtlichen Zul&#228;ssigkeit eines derart technisch
+m&#246;glichen Verhaltens gestellt.
+Das Achte Gesetz zur &#196;nderung des Stra&#223;enverkehrsgesetzes schaffte sowohl f&#252;r Verbraucherinnen und
+Verbraucher als auch f&#252;r die Automobilindustrie insofern Rechtssicherheit: Das &#196;nderungsgesetz regelt, unter
+welchen Voraussetzungen, insbesondere technischen, und unter welchen Bedingungen sich die fahrzeugf&#252;hrende 
+Person eines Kraftfahrzeuges mit derartigen hoch- (Level 3) und voll- (Level 4) automatisierten Fahrfunktionen
+abwenden darf, ohne sich des Vorwurfs fahrl&#228;ssigen Handelns ausgesetzt zu sehen und dabei Gefahr zu laufen,
+bei einem sch&#228;digendem Ereignis w&#228;hrend der automatisierten Phase, gegebenenfalls zur Verantwortung
+gezogen werden zu k&#246;nnen.
+Mit den gesetzlich vorgegebenen Voraussetzungen und Bedingungen f&#252;r ein Sich-abwendend&#252;rfen w&#228;hrend
+des Einsatzes der automatisierten Fahrfunktion hat sich der Gesetzgeber auch abgegrenzt von bereits auf dem
+Markt befindlichen Assistenzsystemen. Fahrerassistenzsysteme erf&#252;llen die normierten, insb. technischen
+Voraussetzungen f&#252;r ein Abwenden nicht. Damit kann ein Abwenden von der Fahrzeugf&#252;hrung und dem
+Verkehrsgeschehen mit Kraftfahrzeugen, die nur &#252;ber Fahrerassistenzsysteme verf&#252;gen, weiterhin als fahrl&#228;ssiges
+Handeln gewertet werden.
+2. Wesentliche Voraussetzungen
+Zentrale neue Regelungen des Achten Gesetzes zur &#196;nderung des Stra&#223;enverkehrsgesetzes (StVG, 2017) sind 
+die &#167;&#167; 1a und 1b des Stra&#223;enverkehrsgesetzes (StVG).
+W&#228;hrend &#167; 1a StVG die Voraussetzungen f&#252;r die rechtssichere Nutzung der technischen M&#246;glichkeiten
+automatisierter Fahrfunktionen regelt, gibt &#167; 1b StVG die Bedingungen f&#252;r ein erlaubtes Abwenden vom
+Verkehrsgeschehen und der Fahrzeugsteuerung vor.
+a. Abwenden vom Verkehrsgeschehen und der Fahrzeugsteuerung unter Einhaltung von
+Bedingungen
+Beim Abwenden muss die fahrzeugf&#252;hrende Person wahrnehmungsbereit bleiben, um die Fahrzeugsteuerung
+unverz&#252;glich wieder &#252;bernehmen zu k&#246;nnen, wenn sie durch das automatisierte System dazu aufgefordert wird
+oder wenn sie erkennt oder aufgrund offensichtlicher Umst&#228;nde erkennen muss, dass die Voraussetzungen f&#252;r
+eine bestimmungsgem&#228;&#223;e Verwendung der automatisierten Fahrfunktionen nicht mehr vorliegen.
+Die Einhaltung dieser Bedingungen durch die fahrzeugf&#252;hrende Person ist in jedem Einzelfall zu beurteilen.
+Zum Beispiel bedeutet eine &#8222;unverz&#252;gliche&#8220; &#220;bernahme der Fahrzeugsteuerung, dass die fahrzeugf&#252;hrende
+Person &#8222;ohne schuldhaftes Z&#246;gern&#8220; reagieren muss.
+b. Wesentliche Voraussetzungen f&#252;r ein Abwenden
+Um die Regelung des Abwendend&#252;rfens nutzen zu k&#246;nnen, sind sowohl hohe technische Anforderungen als
+auch weitere Vorgaben zu erf&#252;llen.
+aa. Technische Voraussetzungen
+&#8211; So muss zum Beispiel das automatisierte System gem&#228;&#223; &#167; 1a Absatz 2 Satz 1 Nummer 4 StVG in der Lage
+sein, w&#228;hrend der hoch- oder vollautomatisierten Fahrzeugsteuerung (Level 3 und Level 4) den an die 
+Fahrzeugf&#252;hrung gerichteten Verkehrsvorschriften zu entsprechen. Diese Regelung ist eine Konsequenz
+daraus, dass hoch- oder vollautomatisierte Fahrfunktionen als solche technischen Systeme definiert
+werden, die in der Lage sind, w&#228;hrend der automatisierten Phase die Fahrzeugsteuerung zu &#252;bernehmen und
+einer &#220;berwachung durch die fahrzeugf&#252;hrende Person nicht bed&#252;rfen.
+&#8211; Weitere technische Voraussetzungen: 
+Vorhandensein von hoch- oder vollautomatisierten Fahrfunktionen, also eine technische Ausr&#252;stung, die
+&#11834; zur Bew&#228;ltigung der Fahraufgabe (einschlie&#223;lich L&#228;ngs- und Querf&#252;hrung) das jeweilige
+Kraftfahrzeug nach Aktivierung steuern kann, aber jederzeit durch die fahrzeugf&#252;hrende Person &#252;bersteuerbar
+oder deaktivierbar ist,
+&#11834; das Erfordernis der eigenh&#228;ndigen Fahrzeugsteuerung durch die fahrzeugf&#252;hrende Person erkennen 
+und dieses ihr mit ausreichender Zeitreserve optisch, akustisch, taktil oder sonst wahrnehmbar
+anzeigen kann.
+bb. Weitere Voraussetzungen
+&#8211; Die Fahrfunktionen m&#252;ssen in internationalen in Deutschland anzuwendenden technischen Vorschriften
+beschrieben sein bzw. es muss eine Ausnahmegenehmigung nach der EU-Rahmenrichtlinie &#252;ber die
+Typgenehmigung vorliegen.
+&#8211; Hersteller m&#252;ssen in der Systembeschreibung verbindlich erkl&#228;ren, dass das Fahrzeug die gesetzlich
+vorgegebenen Anforderungen an die automatisierten Fahrfunktionen erf&#252;llt.
+Es liegt in der Hand der Hersteller von Kraftfahrzeugen, insbesondere die Voraussetzungen technischer
+Art gem&#228;&#223; &#167; 1a StVG zu realisieren.
+3. Sachstand
+3.1 Erfahrungen auf nationaler Ebene
+Derzeit sind noch keine Kraftfahrzeuge mit gem&#228;&#223; &#167; 1a StVG automatisierten Fahrfunktionen in Deutschland
+zugelassen worden. Antr&#228;ge auf Erteilung von Typgenehmigungen f&#252;r Fahrzeuge mit hoch- oder
+vollautomatisierten (Level 3/Level 4) Fahrfunktionen wurden nach Kenntnis der Bundesregierung bislang nicht gestellt.
+Ein Grund k&#246;nnte darin liegen, dass die bisher erste automatisierte Fahrfunktion (ALKS &#8211; Automated Lane
+Keeping System) f&#252;r den Anwendungsfall Autobahn, hier der Einfachheit halber als Stau-Chauffeur1
+bezeichnet, erst Mitte 2020 final in internationalen, in Deutschland anzuwendenden technischen Vorschriften
+beschrieben wurde. Die Vorschrift trat erst mit Ablauf einer sechsmonatigen Frist nach Notifizierung am 22. Januar
+2021 in Kraft. Auch wurde bislang die zweite M&#246;glichkeit der Erlangung einer Typgenehmigung, n&#228;mlich eine 
+Ausnahmegenehmigung nach der EU-Rahmenrichtlinie &#252;ber die Typgenehmigung f&#252;r ein automatisiertes
+System im Sinne des Gesetzes, bis zum jetzigen Zeitpunkt nichtwahrgenommen. 
+Die Ursachen k&#246;nnen darin liegen, dass es einen hohen, u.a. auch zeitlichen Aufwand durch die
+Fahrzeugindustrie darstellt, die f&#252;r das automatisierte Fahren notwendige technische Reife und die fortlaufenden
+Diskussionen zu den technischen Anforderungen an diese Systeme umzusetzen.
+3.2 Erfahrungen auf internationaler Ebene
+Japan
+Die Aktivit&#228;ten der japanischen Regierung zur Einf&#252;hrung des automatisierten/autonomen Fahrens in Japan
+werden vom &#8222;Autonomous Driving Strategic Headquarters&#8220; koordiniert, das beim Ministerium f&#252;r Land,
+Infrastruktur, Verkehr und Tourismus (MLIT) angesiedelt ist. Im Dezember 2018 wurde ein Strategiepapier
+ver&#246;ffentlicht, das drei Ma&#223;nahmenbereiche definiert (MLIT, 2019): Entwicklung des Umfelds zur Realisierung
+autonomen Fahrens, F&#246;rderung der Entwicklung und Einf&#252;hrung autonomer Fahrzeugtechnologien,
+Durchf&#252;hrung von Versuchen und Einbindung der &#214;ffentlichkeit.
+Mit den ab April 2020 in Kraft getretenen &#196;nderungen zum Stra&#223;enfahrzeug-Gesetz (Road Transportation
+Vehicle Act, RTVA) und zum Stra&#223;enverkehrs-Gesetz (Road Traffic Act, RTA) wurde die Zulassung
+automatisierter Fahrzeuge der Automatisierungsstufe Level 3 f&#252;r die Nutzung im &#246;ffentlichen Stra&#223;enverkehr Japans
+erm&#246;glicht. Die in der RTVA festgelegten technischen Spezifikation f&#252;r Level-3-Fahrzeuge entsprechen im
+ALKS ist in der Funktionsweise nicht zwingend an eine Stausituation gebunden.1
+Wesentlichen den Typgenehmigungskriterien, die durch die UNECE WP.29 im Juni 2020 angenommen
+wurden. In den Erg&#228;nzungen des RTA sind u. a. Auflagen zur Speicherung von Betriebsparametern und die
+&#220;berwachung der Einhaltung der bestimmungsgem&#228;&#223;en Verwendung enthalten (Nepaulsingh et al., 2020).
+Level-4-Fahrzeuge sind im Rahmen der &#196;nderungen des RTA im &#246;ffentlichen Stra&#223;enverkehr bislang nur f&#252;r
+Tests zugelassen und ben&#246;tigen zudem eine polizeiliche Sondergenehmigung. Leitlinien f&#252;r den Erhalt der
+Sondergenehmigung wurden im September 2019 ver&#246;ffentlicht (Nepaulsingh et al., 2020).
+Das MLIT hat dem japanischen Fahrzeughersteller Honda Motor Co. die Typzulassung f&#252;r einen Pkw mit
+Level-3-Fahrfunktion (Staupilot) erteilt (Prawitz et al., 2020; The Japantimes, 2020). Der Hersteller k&#252;ndigte 
+die Markteinf&#252;hrung des Level-3-Pkws f&#252;r M&#228;rz 2021 an.
+USA
+In 2016 starteten USDOT (U.S. Department of Transportation) und NHTSA (National Highway Traffic Safety
+Administration) das Programm &#8222;Federal Automated Vehicle Policy&#8220;, das die Einf&#252;hrung automatisierter
+Fahrzeuge der SAE Level 3 bis 5 in den USA begleiten soll.
+Basierend auf diesem Programm wurden bisher eine Reihe von Strategiepapieren und nicht-verpflichtenden
+Leitlinien ver&#246;ffentlicht, die Sicherheitsaspekte automatisierter Fahrzeuge in den Vordergrund stellen: So
+betont eine im Jahre 2016 ver&#246;ffentlichte Leitlinie zur IT-Sicherheit von modernen Fahrzeugen die Bedeutung der
+Abwehr von Cyber-Angriffen auf automatisierte Fahrsysteme und gibt Empfehlungen f&#252;r Vorsorgema&#223;nahmen
+(NHTSA, 2016). AV 2.0 (NHTSA, 2017) richtet sich an Fahrzeughersteller, Zulieferer, Funktionsentwickler
+und die Bundesstaaten. Das Papier enth&#228;lt Empfehlungen zur Bewertung der Verkehrssicherheit und Beispiele
+f&#252;r die Gesetzgebung auf Ebene der Bundesstaaten. In AV 3.0 (USDOT, 2018) werden Leitlinien f&#252;r die
+Einf&#252;hrung automatisierter Fahrzeuge in allen Bereichen des Land- und Seeverkehrs sowie Strategien der
+Regierung gegen Einf&#252;hrungshemmnisse beschrieben. Mit AV 4.0 (NSTC &amp; USDOT, 2020) hat die U.S.-Regierung
+zehn Prinzipien vorgestellt, die eine einheitliche Vorgehensweise der beteiligten Bundesbeh&#246;rden im Hinblick
+auf das automatisierte Fahren sicherstellen sollen und die dazu ben&#246;tigten Ressourcen bei Beh&#246;rdenbeteiligung,
+Forschung und Investments detailliert.
+Mit dem Ziel, die Transparenz f&#252;r die &#214;ffentlichkeit zu f&#246;rdern und die &#214;ffentlichkeit verst&#228;rkt einzubinden,
+wurde Mitte 2020 die Initiative AV TEST (Automated Vehicle Transparency and Engagement for Safe Testing)
+gestartet. Die Initiative dient dem freiwilligen Austausch von Informationen &#252;ber die Entwicklung von
+automatisierten Fahrzeugen und die laufenden Tests im &#246;ffentlichen Stra&#223;enverkehr. Auf der mittlerweile installierten
+Online-Plattform werden u. a. Herstellerinformationen, Forschungserkenntnisse und beh&#246;rdliche Informationen
+zu Betriebsgenehmigungen der Fahrzeuge, Notfallpl&#228;nen und zur Gesetzgebung ver&#246;ffentlicht (NHTSA, 2020).
+Seit 2016 wurden lt. NHTSA bisher &#252;ber 87 befristete Ausnahmegenehmigungen f&#252;r Fahrzeuge mit
+automatisierten Fahrfunktionen erteilt, die zu Test- und Demonstrationszwecken in &#252;ber 80 verschiedenen Projekten in
+20 US-Staaten eingesetzt wurden. Anfang 2020 erhielt ein Hersteller die befristete Ausnahmegenehmigung f&#252;r
+fahrerlose Lieferroboter mit geringer Fahrgeschwindigkeit; Daten zum Betrieb der Fahrzeuge m&#252;ssen an die 
+NHTSA berichtet werden (Owens, 2020).
+Zum Stand der Markverf&#252;gbarkeit von automatisierten Fahrzeugen wurde Mitte 2020 von NHTSA darauf
+hingewiesen, dass vollst&#228;ndig selbstfahrende Fahrzeuge bislang noch nicht am US-Markt eingef&#252;hrt wurden. Alle
+automatisierten Fahrzeuge, die k&#228;uflich erworben werden k&#246;nnen, erfordern einen aktiven, aufmerksamen und
+vollst&#228;ndig eingebundenen Fahrer, der jederzeit eingreifen kann (Owens, 2020).
+In den USA gibt es Pilotprojekte, wie beispielsweise die der Firmen &#8222;Waymo&#8220; oder &#8222;Uber&#8220;, bei denen in einem
+beschr&#228;nkten Anwendungsbereich fahrerlose Taxen oder Fahrdienste betrieben werden k&#246;nnen. Bei den
+Fahrzeugen handelt es sich jedoch um keine Serienfahrzeuge, sondern Prototypenfahrzeuge mit spezieller
+Sensorausstattung, die damit automatisiert im Pilotbetrieb fahren d&#252;rfen. Zudem wird regelm&#228;&#223;ig eine Person als
+Sicherheitsfahrerin oder Sicherheitsfahrer auf dem Fahrersitz eingesetzt, da es nach Versuchen auch ohne einen
+solchen Sicherheitsfahrers schon mehrere Zwischenf&#228;lle gegeben hat. Trotz des Einsatzes menschlicher
+Sicherheitspersonen konnten Unf&#228;lle aufgrund existierender technischer Probleme nicht vollst&#228;ndig verhindert
+werden.
+Singapur
+Singapur strebt eine Vorreiterrolle beim automatisierten und autonomen Fahren an und beabsichtigt, ab 2022 
+einen ausgeweiteten Pilotbetrieb in Industriegebieten und einen Regelbetrieb autonomer Busse (mit
+Sicherheitsfahrer) einzuf&#252;hren. Hierf&#252;r wurde 2018 ein Testzentrum (CETRAN &#8211; Centre of Excellence for Testing and 
+Research of Autonomous Vehicles) in einer Partnerschaft mit dem T&#220;V S&#252;d und der Nanyang Technology
+University (NTU Singapore) er&#246;ffnet, indem unter anderem neben innerst&#228;dtischen Verkehrssituationen auch
+extreme Umweltbedingungen wie Starkregen f&#252;r die Sensoren getestet werden k&#246;nnen. Zus&#228;tzlich gibt es in
+Singapur seit 2014 ebenfalls Pilotprojekte beispielsweise zu autonomen Shuttles und Bussen verschiedener
+Fahrzeughersteller und Forschungseinrichtungen im &#246;ffentlichen Stra&#223;enverkehr.
+S&#252;dkorea
+S&#252;dkorea hat 2018 mit &#8222;K-City&#8220; ebenfalls ein Testgel&#228;nde f&#252;r die Entwicklung und Pr&#252;fung f&#252;r das Vernetzte 
+und Autonome Fahren errichtet, das neben innerst&#228;dtischen Verkehrsszenarien mit H&#228;userfassaden, Szenarien
+mit Mautstationen auf Schnellstra&#223;en oder Autobahnen und 5G-Netzwerk weiter ausgebaut wird.
+3.3 Arbeiten zur Erstellung international harmonisierter technischer Vorschriften f&#252;r die
+Typgenehmigung von Kraftfahrzeugen
+3.3.1 Erarbeitung von generischen Anforderungen an automatisierte Fahrfunktionen auf 
+internationaler Ebene
+3.3.1.1 Fahrzeugtechnische Anforderungen an Kraftfahrzeuge mit automatisierten
+Fahrfunktionen
+Fahrzeugtechnische Vorschriften k&#246;nnen in der EU nur dann national festgelegt werden, wenn es f&#252;r eine
+Fahrzeugkategorie keine abschlie&#223;enden Regelungen auf Ebene der Europ&#228;ischen Union gibt. Da zweispurige
+Kraftfahrzeuge und deren Anh&#228;nger in der EU durch die Verordnung (EU) Nr. 858/2018 geregelt sind, besteht hier
+kein nationaler Handlungsspielraum (Verordnung (EU) 858/2018).
+Die Europ&#228;ische Kommission, vertreten durch die Generaldirektion f&#252;r Binnenmarkt, Industrie,
+Unternehmertum sowie kleine und mittlere Unternehmen (Directorate-General for Internal Market, Industry,
+Entrepreneurship and small businesses &#8211; DG GROW), die f&#252;r die Verordnung zust&#228;ndig ist, verweist dort und in der
+Verordnung (EU) 2144/2019 &#252;ber die generelle Sicherheit von Fahrzeugen (Verordnung (EU) 2144/2019) f&#252;r
+konkrete technische Anforderungen entweder
+&#8211; auf eigene delegierte Rechtsakte, die f&#252;r automatisierte Fahrfunktionen noch zu erstellen sind, oder
+&#8211; auf Vorschriftendokumente des Weltforums f&#252;r die Harmonisierung von fahrzeugtechnischen Vorschriften
+(WP.29 der Vereinten Nationen, Wirtschaftskommission f&#252;r Europa (UNECE)), die den Vorteil haben,
+auch &#252;ber Europa hinaus harmonisiert zu sein.
+Als erste Regelung f&#252;r automatisierte Fahrfunktionen, bei denen die fahrende Person ihre H&#228;nde vom Lenkrad
+entfernen kann und ihr Nebent&#228;tigkeiten erlaubt sind, ist am 22. Januar 2021 auf internationaler Ebene die
+Vorschrift (UN) Nr. 157 f&#252;r automatische Spurhaltesysteme (ALKS = Automated Lane Keeping Systems) in Kraft
+getreten.2 Die Vorschrift konnte nach Ablauf einer sechsmonatigen Frist nach Notifizierung der
+Vertragsparteien in Kraft treten. Diese Notifizierung durch die Generaldirektion der Vereinten Nationen ist im Juli 2020
+erfolgt.
+Die UN-Regelung Nr. 157 beschreibt Anforderungen, erg&#228;nzt durch Testkonzepte, f&#252;r automatisierte
+Spurhaltesysteme bis 60 km/h auf Autobahnen. Diese Vorschrift wird auch von der Europ&#228;ischen Kommission f&#252;r die
+Typgenehmigung entsprechender Systeme herangezogen werden. Derzeit liegen bei den Vereinten Nationen
+zwei von der Bundesrepublik Deutschland eingereichte Erg&#228;nzungsvorschl&#228;ge f&#252;r diese Regelung vor, um
+einerseits Spurwechselvorg&#228;nge des automatisierten Fahrzeugs zu erm&#246;glichen, andererseits um die erlaubte
+Geschwindigkeit von 60 auf 130 km/h zu erh&#246;hen. &#220;ber diese beiden Vorschl&#228;ge ist aber bislang noch nicht
+entschieden worden.
+2 Vollzitat: United Nations Regulation No. 157. Uniform provisions concerning the approval of vehicles with regard to automated lane
+keeping systems, entry into force of United Nations Regulation no. 157.
+Weitergehende Vorschriften sind sowohl bei den Vereinten Nationen als auch innerhalb der Europ&#228;ischen
+Kommission in Arbeit. Die Struktur der Gremien ist im folgenden Abschnitt beschrieben.
+3.3.1.2 Typgenehmigung von automatisierten Fahrzeugen als Zukunftstechnologie
+Die EU-Verordnung &#252;ber die Typgenehmigung von Fahrzeugen sieht vor, dass Fahrzeuge mit neuen
+Technologien genehmigt werden k&#246;nnen, sofern diese Genehmigungen von den Mitgliedsstaaten unterst&#252;tzt werden
+(Artikel 39 Verordnung (EU) 858/2018). Die Genehmigungen k&#246;nnen zeitlich oder der Menge nach begrenzt
+werden. Dies war bereits nach Artikel 20 der Vorg&#228;nger-Verordnung von 2007 (Richtlinie 2007/46/EU)
+m&#246;glich. Der Antrag muss von einem Mitgliedsstaat im Komitologie-Ausschuss verteidigt werden; hierf&#252;r sind
+entsprechende Gutachten und Dokumente eines technischen Dienstes hilfreich.
+Seit November 2018 existieren prinzipielle Anforderungen in Form von Richtlinien3 seitens der Europ&#228;ischen 
+Kommission f&#252;r die Genehmigung von automatisierten Fahrzeugen. Eine Genehmigung ist, vorausgesetzt sie
+wird von einem Mitgliedsstaat unterst&#252;tzt, auch vorher schon grunds&#228;tzlich m&#246;glich gewesen. Es war daher zu
+jeder Zeit m&#246;glich, automatisierte Fahrfunktionen basierend auf einer Einzelfallentscheidung zu genehmigen.
+3.3.1.3 Vorschriftenentwicklung bei den Vereinten Nationen
+Zust&#228;ndig f&#252;r fahrzeugtechnische Vorschriften ist auf Ebene der Vereinten Nationen das Weltforum f&#252;r die
+Harmonisierung von fahrzeugtechnischen Vorschriften (&#8222;World Forum for the Harmonization of Vehicle
+Regulations&#8220;), die sogenannte &#8222;Working Party 29&#8220; (WP.29), angesiedelt bei der Wirtschaftskommission f&#252;r
+Europa der Vereinten Nationen (United Nations Economic Commission for Europe &#8211; UNECE). Im Forum sind
+die Mitgliedsstaaten der Vereinten Nationen (die sogenannten Vertragsparteien) sowie beratend diverse
+Organisationen, die beispielsweise die Fahrzeughersteller und Zulieferer vertreten, stimmberechtigt. Die WP.29 trifft
+&#252;berwiegend strategische Entscheidungen und delegiert die Aufgabe der konkreten Erarbeitung von technischen
+Anforderungen an Unterarbeitsgruppen. Nach Vorliegen von Ergebnissen der Unterarbeitsgruppen
+verabschiedet sie diese. Im Fall von automatisierten Fahrzeugen hat die WP.29 ein Rahmendokument entwickelt, das sog.
+&#8222;Framework Document on Automated/Autonomous Vehicles&#8220;, an dem sich die Arbeiten zum Thema
+orientieren sollen (ECE/TRANS/WP.29/2019/34/Rev.1) (Framework Document, 2019).
+F&#252;r die Arbeit an Vorschriften f&#252;r automatisierte Fahrfunktionen ist im Wesentlichen die Arbeitsgruppe &#252;ber
+automatisierte, vernetzte und autonome Fahrzeuge (&#8222;Working Group on Automated/Autonomous and
+Connected Vehicles&#8220;, interne Bezeichnung GRVA) zust&#228;ndig. Die GRVA hat ihre Arbeit im Bereich der
+automatisierten Fahrfunktionen in folgende informellen Arbeitsgruppen delegiert:
+&#8211; FRAV: Funktionelle Anforderungen f&#252;r automatisierte Fahrzeuge (&#8222;Functional Requirements on
+Automated Vehicles&#8220;) zur Entwicklung von Anforderungen an automatisierte Fahrzeuge,
+&#8211; VMAD: Validierungsmethoden f&#252;r automatisierte Fahrzeuge (&#8222;Validation Methods for Automated
+Vehicles&#8220;) zur Entwicklung von Methoden f&#252;r den Nachweis der innerhalb der Gruppe FRAV entwickelten
+Anforderungen.
+Weitere Arbeitsgruppen sind f&#252;r die Cyber-Sicherheit sowie Software-Updates eingerichtet und f&#252;r die
+Datenaufzeichnung bzw. die Gestaltung eines Fahrmodusspeichers, der festh&#228;lt, ob zu einem bestimmten Zeitpunkt
+der Mensch oder die Maschine gefahren ist.
+Das Thema der automatisierten Fahrzeuge trifft bei sehr vielen Staaten auf starkes Interesse. Der
+Entwicklungsprozess von Vorschriften ist dadurch vergleichsweise langwierig, aber transparent, da alle Arbeitsdokumente
+auf der Website der UNECE &#246;ffentlich zug&#228;nglich gemacht werden.
+3.3.1.4 Vorschriftenentwicklung in der Europ&#228;ischen Kommission
+Innerhalb der Europ&#228;ischen Kommission erarbeitet das gemeinsame Forschungszentrum (Joint Research
+Center, JRC) im Auftrag der Generaldirektion f&#252;r Binnenmarkt, Industrie, Unternehmertum und KMU
+(DG GROW) Konzepte und Vorschriften f&#252;r den sicheren Betrieb von automatisierten Fahrzeugen. Ziel ist der 
+Erlass delegierter Rechtsakte f&#252;r den Fall, dass sich der Entwicklungsprozess auf Ebene der Vereinten Nationen
+Guidelines on the exemption procedure for the EU approval of automated vehicles, verf&#252;gbar unter https://ec.europa.eu/docsroom/
+documents/34802.
+3
+zu langwierig gestalten sollte und hierdurch die Einf&#252;hrung der Technologie im europ&#228;ischen Binnenmarkt
+verhindert werden k&#246;nnte.
+Zust&#228;ndige Arbeitsgruppen innerhalb der Europ&#228;ischen Kommission sind die Arbeitsgruppe f&#252;r
+Motorfahrzeuge (&#8222;Motor Vehicle Working Group&#8220;, MVWG), in der Mitgliedsstaaten und weitere Beteiligte vertreten
+sind, und der Komitologie-Ausschuss f&#252;r Stra&#223;enfahrzeuge (&#8222;Technical Comittee for Motor Vehicles&#8220;, TCMV),
+in dem nur die Mitgliedsstaaten vertreten sind. Beide Gruppen arbeiten auf der Basis von bereits existierenden
+Vorschriftenentw&#252;rfen, die beispielsweise von Fachleuten innerhalb der Kommission, teilweise unter
+Zuziehung von externen Experten, entwickelt werden.
+F&#252;r automatisierte Fahrzeuge hatte das JRC eine Arbeitsgruppe aus Expertinnen und Experten und
+Mitgliedsstaaten der Europ&#228;ischen Union zusammengestellt, um grundlegende Fragestellungen zu erarbeiten und zu
+diskutieren. Die Bundesrepublik Deutschland, vertreten durch die Bundesanstalt f&#252;r Stra&#223;enwesen (BASt), ist in
+der Arbeitsgruppe beteiligt.
+3.3.2 Speziell: Erarbeitung einer UN-Regelung f&#252;r einen Stau-Chauffeur
+3.3.2.1 Vorarbeiten: UN-Regelung Nr. 79 und automatisches Lenken
+F&#252;r die fahrzeugtechnischen Vorschriften auf UNECE-Ebene wurden unter ma&#223;geblicher Mitwirkung des
+Bundesministeriums f&#252;r Verkehr und digitale Infrastruktur (BMVI) und der BASt im Vorlauf zu den Arbeiten an 
+einem Stau-Chauffeur bereits Anpassungen an der Regelung Nr. 79 f&#252;r kontinuierlich assistierte
+Lenkfunktionen (ACSF = Automatically Commanded Steering Functions) umgesetzt (UN Regulation No. 79, 2018).
+&#196;nderungen der UN-Regelung Nr. 79 waren insbesondere deshalb notwendig, weil kontinuierliches
+systemseitiges automatisiertes Lenken f&#252;r Geschwindigkeiten &#252;ber 10 km/h ausdr&#252;cklich verboten war. Um dennoch
+Anwendungen mit automatischen Lenkfunktionen im Rahmen des automatisierten Fahrens zu erm&#246;glichen,
+mussten international harmonisierte Vorschriften f&#252;r ACSF-Systeme entwickelt werden, um so sicherzustellen,
+dass die Verkehrssicherheit durch Systeme mit automatisierten Lenkfunktionen nicht beeintr&#228;chtigt wird. Eine
+einfache Aufhebung des Verbotes w&#228;re verbunden gewesen mit einem weiten Feld m&#246;glicher automatisierter
+Lenkfunktionen, f&#252;r die es keine Anforderungen gegeben h&#228;tte.
+Hier sind insbesondere die ACSF-Systeme der Kategorie A (Schl&#252;sselparken), B1 (kontinuierliche
+Spurf&#252;hrungsunterst&#252;tzung) und C (aktive Spurwechselunterst&#252;tzung) zu nennen, die deutlich von den bisher bekannten
+lenkunterst&#252;tzenden Systemen zur reinen Lenkkorrektur (CSF = Corrective Steering Functions) abgegrenzt 
+wurden und bereits im Markt erh&#228;ltlich sind. Die ACSF-Systeme sind noch als Assistenzsysteme (bis max.
+Level 2) anzusehen, die jederzeit von der fahrzeugf&#252;hrenden Person &#252;berwacht werden m&#252;ssen und bei deren 
+Einsatz die fahrzeugf&#252;hrende Person jederzeit in der Verantwortung der Fahraufgabe verbleibt.
+3.3.2.2 UN-Regelung Nr.157: Level-3-Spurhaltesystem (Autobahn-Stau-Chauffeur)
+Die zust&#228;ndige informelle Arbeitsgruppe, die die UN-Regelung Nr. 79 in Bezug auf automatische
+Lenkfunktionen (ACSF-Gruppe) &#252;berarbeitete, hatte anschlie&#223;end &#8211; und bevor die oben genannten Arbeitsgruppen FRAV 
+und VMAD ins Leben gerufen wurden &#8211; darauf aufbauend den Auftrag, technische Anforderungen f&#252;r die
+h&#246;heren Automatisierungsstufen zu erarbeiten. Ein automatisiertes System in Level 3 gem&#228;&#223; SAE-Standard J3016
+muss dabei neben der Querf&#252;hrung (Lenken) auch die L&#228;ngsf&#252;hrung des Fahrzeugs (Bremsen und
+Beschleunigen) komplett &#252;bernehmen und seine Funktionsgrenzen rechtzeitig selbst erkennen, um gegebenenfalls eine 
+sichere R&#252;ck&#252;bergabe an die fahrzeugf&#252;hrende Person mit der entsprechenden deutlichen Aufforderung und 
+ausreichender Vorlaufzeit gew&#228;hrleisten zu k&#246;nnen.
+Im M&#228;rz 2020 wurde ein neuer Regelungsentwurf mit Anforderungen f&#252;r die ersten hochautomatisierten
+Systeme (ALKS - Automated Lane Keeping System) bei der UNECE von der ACSF Gruppe bei der GRVA zur
+Abstimmung gestellt und zwar f&#252;r den oben genannten Stau-Chauffeur f&#252;r Autobahnfahrten (Proposal for a new
+UN Regulation ALKS, 2020). Auf der 181. Sitzung der WP.29 am 24. Juni 2020 wurden die ersten
+fahrzeugtechnischen Voraussetzungen im Typgenehmigungsrecht geschaffen, um Level 3 Systeme zu genehmigen. Mit
+Abschluss des Notifizierungsverfahrens und somit dem Inkrafttreten der Regelung am 22. Januar 2021
+bekommen die ersten Fahrzeugsysteme zum hochautomatisierten Fahren ab diesem Zeitpunkt den n&#246;tigen
+internationalen Vorschriftenrahmen f&#252;r die Typgenehmigung und die Zulassungsm&#246;glichkeit. ALKS ist das erste
+elektronische System im Fahrzeug, bei dem die fahrzeugf&#252;hrende Person in Teilbereichen des Stra&#223;enverkehrs von
+der Pflicht der Fahraufgabe zeitweise vollst&#228;ndig (hier im Stau auf autobahn&#228;hnlichen Stra&#223;en mit baulich
+getrennter Gegenfahrbahn und bis zu einer Geschwindigkeit von 60 km/h) entbunden werden kann, solange das
+Fahrzeug diese Aufgabe in seiner ODD (Operational Design Domain)4 vollst&#228;ndig &#252;bernehmen kann. Ein
+ALKS muss Quer- und L&#228;ngsf&#252;hrung des Fahrzeugs komplett und fehlerfrei ausf&#252;hren k&#246;nnen. Es muss vor
+dem Erreichen seiner Systemgrenzen rechtzeitig eine sichere R&#252;ck&#252;bergabe an die fahrzeugf&#252;hrende Person
+einleiten, die ihr nach der &#220;bernahmeaufforderung gen&#252;gend Zeit l&#228;sst, die Kontrolle &#252;ber die Fahraufgabe
+wiederzuerlangen (w&#228;hrend der &#220;bernahmeaufforderung in der sogenannten &#220;bernahmephase muss das System
+in der Lage sein, die Fahraufgabe vollumf&#228;nglich fortzusetzen). Wenn w&#228;hrend einer automatisiert ablaufenden
+Fahrt pl&#246;tzlich eine kritische Situation auftritt, in der eine &#220;bergabe an die fahrzeugf&#252;hrende Person auf Grund
+der zeitlichen K&#252;rze nicht mehr m&#246;glich ist, muss das System selbst&#228;ndig in der Lage sein, die Situation, z. B. 
+durch Notbremsen oder Ausweichen, zu bew&#228;ltigen.
+Sollte eine fahrzeugf&#252;hrende Person trotz &#220;bernahmeaufforderung nach einer bestimmten Zeit ihrer Pflicht der
+&#220;bernahme der Fahraufgabe nicht nachgekommen sein, muss das System ein risikominimierendes Man&#246;ver
+ausf&#252;hren, das das Fahrzeug sicher zum Stehen bringt.
+3.3.2.3 Sicherheitsgrunds&#228;tze bei der Erarbeitung der Regelungsinhalte
+Die technischen Mindestanforderungen an ALKS wurden unter der Leitung von Japan und Deutschland auch
+vor dem Hintergrund des bereits existenten &#167; 1a StVG bei der UNECE entwickelt und sollen den sicheren
+Betrieb des Fahrzeugs mit aktivem System sicherstellen.
+Die an das System gestellten Anforderungen wurden ma&#223;geblich vom BMVI mitgestaltet, wobei auf die
+Expertise der BASt in Bezug auf die aktive Fahrzeugsicherheit und die Gestaltung der Mensch-Maschine-
+Interaktion zur&#252;ckgegriffen wurde. Anforderungen an die Kollisionsvermeidung und Anforderungen an die
+&#220;bernahmeprozedur fu&#223;en im Wesentlichen auf dem Input der BASt. Dies gilt auch f&#252;r die Vorgabe der vom System
+erfolgreich zu absolvierenden Tests in Form von Fahrversuchen.
+F&#252;r das Setzen der Anforderungen orientierte man sich an &#252;bergeordneten Sicherheitsprinzipien:
+Neben einem Zugewinn an Komfort wird von Fahrzeugen mit automatisierten Fahrfunktionen ein Beitrag zur
+Erh&#246;hung der Verkehrssicherheit erwartet. Gleichzeitig birgt aber jede neue Technologie die Gefahr, mit bisher 
+unbekannten Risiken behaftet zu sein. Demensprechend waren und sind die Vorschriften so auszugestalten, dass
+m&#246;gliche Risiken minimiert werden und gleichzeitig das vorhandene Verkehrssicherheitspotenzial voll
+ausgesch&#246;pft werden kann.
+F&#252;r die Interaktion und das Vermeiden von Kollisionen mit anderen Fahrzeugen wurde Wert darauf gelegt, dass
+sich das System an die gegebenen Verkehrsregeln halten und so defensiv fahren muss, dass das Fahrzeug selbst
+keinen Unfall verursacht. Diese Forderung wirkt insbesondere auf die Wahl einer sicheren Fahrgeschwindigkeit
+durch das System. Weiterhin soll das System bis zu gewissen Grenzen auf Fehler anderer Verkehrsteilnehmer
+so reagieren k&#246;nnen, dass ein Unfall m&#246;glichst vermieden wird. Die Grenzen in Bezug auf Kollisionsfreiheit 
+werden hier durch das physikalisch bzw. technisch M&#246;gliche festgelegt. Insofern muss das System hier besser
+als der Mensch sein, da es durchaus k&#252;rzere Reaktionszeiten aufweisen kann. Im Falle des ALKS stellt das 
+Szenario eines Einscherers - ein anderes Fahrzeug, das knapp vor dem ALKS-Fahrzeug in dessen Spur wechselt
+und eine geringere Geschwindigkeit aufweist &#8211; eine der gr&#246;&#223;ten Herausforderungen f&#252;r das automatisierte
+Fahrzeug in Form eines Fehlers anderer Verkehrsteilnehmer dar. Die Forderung, durch Fehler von anderen
+Verkehrsteilnehmenden ausgel&#246;ste Situationen innerhalb bestimmter fahrdynamischer Werte m&#246;glichst unfallfrei
+zu bew&#228;ltigen, setzt die F&#228;higkeit des Systems voraus, kritische Situationen fr&#252;hzeitig zu antizipieren.
+Gleichzeitig sorgt die Forderung daf&#252;r, dass die beste verf&#252;gbare Technologie zur Kollisionsvermeidung zum Einsatz 
+kommt.
+F&#252;r die Interaktion des Menschen mit dem System wurde Wert daraufgelegt, dass der Mensch jederzeit &#252;ber
+den Status des Systems informiert ist, um Verwechslungen und Fehleinsch&#228;tzungen der Betriebsmodi (Mode-
+Confusion) zu vermeiden. Besondere Bedeutung kommt hier nicht nur der Aktivierung, Deaktivierung und dem
+&#220;bersteuern des Systems durch den Fahrer zu, sondern vor allem der &#220;bernahmeprozedur von der Maschine
+zur&#252;ck zum Menschen. Das System muss klar und unmissverst&#228;ndlich kommunizieren, welche Aufgabe von
+der fahrzeugf&#252;hrenden Person verlangt wird, und solange weiter sicher die Fahraufgabe durchf&#252;hren, bis die 
+fahrzeugf&#252;hrende Person die Kontrolle wieder innehat. Und f&#252;r den von der fahrzeugf&#252;hrenden Person zu
+verantwortenden Fall einer Nicht&#252;bernahme muss das System zus&#228;tzlich eine R&#252;ckfallebene in Form eines
+Minimum Risk Manoeuvre (Fahrman&#246;ver zum Erreichen eines sicheren Zustands) vorhalten.
+Die ODD definiert die Betriebsbereiche und-bedingungen, in denen das System aufgrund seiner Ausgestaltung funktioniert.4
+Im Anhang werden die in der UN-Regelung Nr. 157 (ALKS) gesetzten Anforderungen detaillierter beschrieben.
+3.3.2.4 Folgearbeiten
+Die oben beschriebene UN-Regelung Nr. 157 zu ALKS trat nach einer sechsmonatigen Frist nach Notifizierung
+der Vertragsparteien am 22. Januar 2021 in Kraft. Die Notifizierung durch die Generaldirektion der Vereinten
+Nationen ist im Juli 2020 erfolgt.
+Schon jetzt wird seitens des BMVI an Erweiterungen der UN-Regelung f&#252;r ALKS gearbeitet, um den weiteren
+Fortschritt der Systeme zu unterst&#252;tzen und den eingeschr&#228;nkten Anwendungsbereich von ALKS zu erweitern,
+damit die m&#246;glichen Anwendungszeiten der Systeme auf Autobahnen und autobahn&#228;hnlichen Stra&#223;en zuk&#252;nftig
+weiter gesteigert werden k&#246;nnen und damit die m&#246;glichen Sicherheitspotenziale des automatisierten Fahrens
+besser ausgesch&#246;pft werden k&#246;nnen. Ziel der seitens des BMVI vorgeschlagenen Erweiterungen der UN-
+Regelung f&#252;r ALKS ist eine optionale Erweiterung der maximalen Systemgeschwindigkeit bis 130 km/h und die
+Erm&#246;glichung einer zus&#228;tzlichen, voll automatisierten Spurwechself&#228;higkeit des Systems, sowohl im Falle
+eines Minimum Risk Manoeuvre als auch im normalen Fahrzustand f&#252;r einen regul&#228;ren, notwendigen
+Spurwechsel. Diese beiden Erweiterungsvorschl&#228;ge w&#252;rden bei voller Anwendung durch ein System dann einen
+vollst&#228;ndigen &#8222;Autobahn-Chauffeur&#8220; in Level 3 erm&#246;glichen.
+Die vom BMVI mit ma&#223;geblicher Unterst&#252;tzung der BASt entworfenen Erweiterungen wurden zur 7. Sitzung 
+der zust&#228;ndigen Arbeitsgruppe (GRVA) bei der UNECE im September 2020 eingereicht.
+Zus&#228;tzlich werden derzeit die M&#246;glichkeiten &#252;berpr&#252;ft, die Regelung f&#252;r ALKS f&#252;r weitere Fahrzeugkategorien
+zu &#246;ffnen und die technischen Anforderungen gegebenenfalls entsprechend zu erweitern.
+3.3.3 Erkenntnisse aus Forschungsprojekten
+3.3.3.1 Nutzen
+Im Hinblick auf die Absch&#228;tzung des Nutzens des automatisierten Fahrens wurde im Auftrag der BASt das
+Forschungsprojekt &#8222;Potenzieller gesellschaftlicher Nutzen durch zunehmende
+Fahrzeugautomatisierung&#8220; durchgef&#252;hrt. In diesem Forschungsprojekt wurden die Potenziale zum gesellschaftlichen Nutzen im
+Hinblick auf Verkehrssicherheit, &#196;nderung des Energieverbrauchs, sowie Auswirkung auf die Verkehrseffizienz
+und auf die Verkehrskapazit&#228;ten untersucht, wobei der Fokus auf der Absch&#228;tzung des Sicherheitsnutzens von
+automatisierten Fahrfunktionen lag.
+Im Rahmen der Sicherheitsbetrachtungen wurden f&#252;nf generische automatisierte Fahrfunktionen der
+Automatisierungsstufen 3 und 4 untersucht: Stau-Chauffeur, Autobahn-Chauffeur, Pendler-Chauffeur, Universal-
+Chauffeur, Roboter-Taxi. Diese automatisierten Fahrfunktionen operieren in unterschiedlichen Dom&#228;nen - der
+Stau- und Autobahn-Chauffeur nur auf Autobahnen, der Pendler-Chauffeur nur au&#223;erorts (inkl. Autobahn), der 
+Universal-Chauffeur in allen Dom&#228;nen und das Roboter-Taxi nur innerorts. Je nach Fahrfunktion werden
+unterschiedliche Ortslagen, Stra&#223;enarten und -klassen, Geschwindigkeitsbereiche und eine unterschiedliche
+Anzahl an Szenarien abgedeckt.
+Unter Zuhilfenahme von Simulationsmethoden wurden die Wirkfelder der Fahrfunktionen ermittelt, welche die
+maximal m&#246;gliche Anzahl an Unf&#228;llen benennen, die durch diese Fahrfunktionen adressiert werden k&#246;nnen.
+Dabei wurden die Dom&#228;ne, die Konstellation und die Beteiligten des Unfalls ber&#252;cksichtigt. Die Berechnung
+ergab, dass die Fahrfunktionen einen Anteil zwischen 56 Prozent und 65 Prozent der Unf&#228;lle in der jeweiligen
+Dom&#228;ne adressieren k&#246;nnen. In anschlie&#223;enden Verkehrssimulationen wurden die durch die automatisierten
+Fahrfunktionen induzierten verkehrlichen &#196;nderungen abgesch&#228;tzt.
+Die Resultate wurden auf das Unfallgeschehen der Bundesrepublik Deutschland hochgerechnet, wobei
+unterschiedliche Marktdurchdringungsraten der automatisierten Fahrfunktionen angenommen wurden. Die
+Ergebnisse f&#252;r eine Marktdurchdringungsrate von 100 Prozent zeigten, dass bis zu 50 Prozent aller Au&#223;erortsunf&#228;lle
+(inkl. Bundesautobahnen) durch Autobahn-, Pendler- oder Universal-Chauffeur verhindert werden k&#246;nnen. F&#252;r 
+den Stau-Chauffeur wurde ein Unfallvermeidungspotenzial von 8 Prozent aller Autobahnunf&#228;lle ermittelt. Auf
+Innerortsstra&#223;en k&#246;nnten zudem durch Universal-Chauffeur und Roboter-Taxi bei einer Marktdurchdringung 
+von 100 Prozent bis zu 54 Prozent der dortigen Unf&#228;lle verhindert werden. Bei einer Marktdurchdringungsrate
+von 25 Prozent liegt das Unfallvermeidungspotenzial auf Au&#223;erortsstra&#223;en (inkl. Bundesautobahnen) bei
+13 Prozent bis 17 Prozent , auf Innerortsstra&#223;en bei ca. 14 Prozent der dortigen Unf&#228;lle.
+Bzgl. der Wirkung auf den Energiebedarf zeigten die Simulationen, dass bei einer Marktdurchdringungsrate
+von 100 Prozent automatisierter Fahrfunktionen eine Reduktion des Kraftstoffverbrauchs um ca. 8 Prozent
+m&#246;glich ist. Weiterhin hat eine Literaturanalyse ergeben, dass durch eine Vollausstattung von
+kommunizierenden Fahrzeugen untereinander die Fahrzeit auf Autobahnen um bis zu 6 Prozent reduziert werden kann. Unter 
+der Annahme, dass 20 Prozent aller Staus durch Unf&#228;lle verursacht werden, ergab eine Analyse zum
+Stauvermeidungspotenzial, dass durch die Reduktion der Unfallzahlen 1 Prozent bis 11 Prozent aller Staus vermieden
+werden k&#246;nnen (je nach Marktdurchdringungsrate).
+3.3.3.2 Interaktion
+Die &#196;nderung des StVG vom Juni 2017 regelt die Verwendung von Kraftfahrzeugen &#8222;mit hoch- oder
+vollautomatisierter Fahrfunktion&#8220;. Diesen beiden Fahrfunktionen liegen Automatisierungsgrade der
+Automatisierungsstufen 3 bzw. 4 zugrunde (Gasser et. al., 2012; VDA, 2015). Auf Ebene der internationalen Forschung als auch
+der UNECE-Aktivit&#228;ten zur Typgenehmigung hat sich f&#252;r eine Differenzierung der verschiedenen
+Automatisierungsgrade mittlerweile die Verwendung der Nomenklatur der amerikanischen Vereinigung von
+Automobilingenieuren SAE als Standard etabliert (SAE, 2018). Die SAE Nomenklatur weicht hinsichtlich der
+Bezeichnung der Automatisierungsstufen von den bei Gasser et al. (2012) und VDA (2015) verwendeten Begriffen ab:
+Nach SAE Nomenklatur werden insgesamt sechs statt nur f&#252;nf Stufen unterschieden. Zudem verschieben sich
+die Begrifflichkeiten ab der in deutscher Sprache als &#8222;Hochautomatisierung&#8220; bezeichneten Stufe 3, da diese bei
+einem inhaltlich seit 2016 angeglichenem Verst&#228;ndnis durch SAE als &#8222;Conditional Driving Automation&#8220;
+bezeichnet wird. Als High Driving Automation wird nach SAE erst die Automatisierungsstufe 4 bezeichnet, die
+vormals von Gasser et al. (2012) und VDA (2015) noch als &#8222;Vollautomatisierung&#8220; bezeichnet worden ist. Hinzu
+kommt bei SAE noch die Automatisierungsstufe 5, sog. Full Driving Automation. Diese letzte
+Automatisierungsstufe unterscheidet sich vor allem darin von Stufe 4, dass eine Automatisierung in allen sogenannten
+&#8222;Dom&#228;nen&#8220; also in allen Einsatzbereichen zur Verf&#252;gung steht. Um m&#246;gliche Missverst&#228;ndnisse bei der Zuordnung
+der verschiedenen Automatisierungsstufen zu vermeiden, wird empfohlen, die SAE Nomenklatur unter
+numerischer Bezeichnung des Level oder der Stufe zu verwenden, da dies stets Konsistenz gew&#228;hrleistet.
+Die Nomenklatur der SAE ist f&#252;r ein Nutzerverst&#228;ndnis zu komplex und un&#252;bersichtlich (Homans, Radlmayr
+&amp; Begnler, 2019). Deshalb wurde unter Federf&#252;hrung der BASt f&#252;r den Runden Tisch Automatisiertes Fahren
+des BMVI eine vereinfachte Nomenklatur entwickelt, die auf unterschiedlichen Fahrerrollen aufbaut und nur
+drei verschiedene Varianten kennt. Hiernach werden die bereits seit einigen Jahren am Markt verf&#252;gbaren
+Systeme kontinuierlich wirkender Fahrzeugautomatisierung als &#8222;Assistenz&#8220; bezeichnet (und fassen die Level 1 und 
+2 zusammen). Level 3 erh&#228;lt aufgrund der M&#246;glichkeit von fahrzeugf&#252;hrenden Personen, sich vom
+Fahrgeschehen abzuwenden und fahrfremde T&#228;tigkeiten vor&#252;bergehend aufzunehmen, bis das System zur R&#252;ck&#252;bernahme
+der Fahrzeugsteuerung wieder auffordert, eine eigene Bezeichnung als &#8222;Automatisierung&#8220;. Ab Level 4, wenn
+das Ausbleiben der Fahrzeugautomatisierung ohne eine nachteilige Wirkung f&#252;r die Fahrzeuginsassen und
+andere Verkehrsteilnehmende bleibt (bspw. aufgrund eines sog. risikominimalen Fahrman&#246;vers durch das
+System), wird von &#8222;Autonomie&#8220; gesprochen. Diese Begrifflichkeiten wurden durch den Runden Tisch
+Automatisiertes Fahren 2019 gebilligt.
+F&#252;r die Einf&#252;hrung des automatisierten Fahrens bestehen aufgrund der ver&#228;nderten Rolle des Fahrzeugf&#252;hrers
+erhebliche Herausforderungen f&#252;r die Mensch-Maschine-Interaktion (MMI). Beim automatisierten Fahren in
+den Automatisierungsstufen SAE Level 3 und Level 4 ist die fahrzeugf&#252;hrende Person zumindest zeitweise von
+der eigentlichen Fahraufgabe entbunden (&#8222;out of the loop&#8220;). Bei SAE Level 3 muss er als R&#252;ckfallebene zur
+Verf&#252;gung stehen und die Fahrzeugkontrolle innerhalb der systemseitig vorgegebenen Vorlaufzeit wieder
+&#252;bernehmen, wenn das System dazu auffordert. Bei SAE Level 4 ist die &#220;bernahme durch die fahrzeugf&#252;hrende 
+Person nicht zwingend erforderlich. Allerdings k&#246;nnen Level-4-Fahrfunktionen nur in begrenzten
+Anwendungsbereichen eingesetzt werden, f&#252;r die sie entwickelt worden sind, so dass das Fahrzeug au&#223;erhalb dieser
+Einsatzbereiche von der fahrzeugf&#252;hrenden Person gesteuert werden muss.
+Die MMI-Forschung im Bereich des automatisierten Fahrens nutzt das Konzept &#8222;In-the-Loop  Out-of-the-
+Loop&#8220;, um die Einbindung des Menschen in die Prozesse zur Kontrolle des Fahrzeugs zu umschreiben.
+Aufgrund der Bedeutung des Konzepts f&#252;r Sicherheitsaspekte des automatisierten Fahrens und wegen der zum Teil
+unterschiedlichen Verwendung in der Vergangenheit wurde in einem international besetzten
+Expertenarbeitskreis die Definition harmonisiert (Merat et al., 2018). Gem&#228;&#223; dieser Definition ist die fahrzeugf&#252;hrende Person
+vollst&#228;ndig in die Fahrzeugkontrolle eingebunden und befindet sich damit &#8222;in the loop&#8220;, wenn er das Fahrzeug
+physisch steuert (laterale und longitudinale Kontrolle mittels Hand- und Fu&#223;motorik) und gleichzeitig die
+Fahrsituation &#252;berwacht (kognitive Aspekte der Kontrolle). Die fahrzeugf&#252;hrende Person befindet sich &#8222;out of the
+loop&#8220;, wenn sie die Fahrsituation nicht &#252;berwacht, unabh&#228;ngig davon, ob er eine physische Steuerung aus&#252;bt
+oder nicht. Die &#220;berwachung der Fahrsituation ist auf das Fahrzeugumfeld sowie das (automatisierte)
+Fahrsystem ausgerichtet und wirkt sich auf den Aufbau und den Erhalt des Situationsbewusstseins aus. Dabei umfasst 
+Situationsbewusstsein nicht nur das Verstehen der aus dem Fahrzeugumfeld und dem Fahrsystem
+wahrgenommenen Elemente und Ereignisse f&#252;r die aktuelle Situation, sondern auch die Absch&#228;tzung von deren Bedeutung
+f&#252;r m&#246;gliche Situationen in der nahen Zukunft (Rauch et al., 2007). Auf diese Weise wirkt sich das
+Situationsbewusstsein auf Entscheidungsprozesse bei der Fahrzeugkontrolle aus.
+Neben den Aspekten der fahrzeuginternen Interaktion zwischen fahrzeugf&#252;hrender Person und ihrem
+automatisierten Fahrzeug treten beim automatisierten Fahren ab SAE Level 3 auch Forschungsfragen bez&#252;glich der
+fahrzeugexternen Interaktion von automatisierten Fahrzeugen mit anderen, nicht-automatisierten
+Verkehrsteilnehmenden auf. Im Mittelpunkt der MMI-Forschung der letzten Jahre stehen folgende Themenbereiche:
+1. Zustand der fahrzeugf&#252;hrenden Person
+Durch die ver&#228;nderte Rolle der fahrzeugf&#252;hrenden Person beim automatisierten Fahren werden Auswirkungen
+auf ihren Zustand erwartet, z. B. Erm&#252;dung und Vigilanzminderung (Minderung der Daueraufmerksamkeit). 
+Die Kenntnis von m&#246;glichen Einschr&#228;nkungen bei der Verf&#252;gbarkeit und &#220;bernahmebereitschaft der
+fahrzeugf&#252;hrenden Person sind im Hinblick auf die R&#252;ck&#252;bertragung der Fahrzeugkontrolle auf sie von hoher
+Bedeutung.
+2. Fahrfremde T&#228;tigkeiten
+Im Hinblick auf die M&#246;glichkeit der fahrzeugf&#252;hrenden Person, sich w&#228;hrend der automatisierten Fahrt mit
+fahrfremden T&#228;tigkeiten zu besch&#228;ftigen, stellen sich Fragen hinsichtlich der Eignung von fahrfremden
+T&#228;tigkeiten und deren Einfluss auf die &#220;bernahmeleistung der fahrzeugf&#252;hrenden Person. Die Besch&#228;ftigung mit
+fahrfremden T&#228;tigkeiten kann einerseits zum Verlust von Situationsbewusstsein f&#252;hren, andererseits wird ein
+positiver Einfluss der fahrfremden T&#228;tigkeiten auf die Aktiviertheit der fahrzeugf&#252;hrenden Person erwartet.
+3. &#220;bernahmeleistung, Mensch-Maschine-Schnittstelle
+F&#252;r eine erfolgreiche &#220;bergabe der Fahrzeugkontrolle ist die Gestaltung der fahrzeuginternen Mensch-
+Maschine-Schnittstelle relevant. Ein zentraler Punkt ist hierbei die notwendige Vorlaufzeit, die der
+fahrzeugf&#252;hrenden Person ab &#220;bernahmeaufforderung bis zur &#220;bernahme zur Verf&#252;gung gestellt werden sollte, sowie
+weitere Gestaltungsma&#223;nahmen, die sie bei der &#220;bernahme unterst&#252;tzen k&#246;nnen, z. B. Warnstrategien f&#252;r die
+&#220;bernahmeaufforderung. Zudem sind Ma&#223;nahmen in Bezug auf Systemtransparenz und geeignete Informations- und 
+Bedienstrategien zu entwickeln, um Fehlgebrauch (z. B. wegen Fehleinsch&#228;tzung der Funktionalit&#228;t und der
+Systemgrenzen) oder Missbrauch (z. B. bei &#220;bervertrauen oder riskanten Verhaltensanpassungen) zu
+verhindern.
+4. Akzeptanz, Vertrauen
+Die Akzeptanz automatisierten Fahrens, sowohl bei Nutzerinnen und Nutzern als auch in der &#246;ffentlichen
+Diskussion, wirkt sich auf Verbreitung und Nutzung automatisierter Fahrsysteme aus und stellt damit eine wichtige
+Voraussetzung daf&#252;r dar, dass die von diesen Systemen erwarteten Sicherheits- und Mobilit&#228;tsnutzen realisiert 
+werden k&#246;nnen.
+5. Externe Kommunikation im Mischverkehr
+Im Hinblick auf die Kollisionsvermeidung und den Verkehrsfluss im Mischverkehr stellt sich die Frage, wie
+verkehrsrelevante Zust&#228;nde und Intentionen zwischen einem automatisierten Fahrzeug und den umgebenden,
+nicht automatisierten Verkehrsteilnehmern kommuniziert werden sollen.
+6. Methoden
+Bestehende Methoden zur sicherheitsgerechten, nutzerfreundlichen Entwicklung, Gestaltung und Bewertung
+der Mensch-Maschine-Schnittstellen und der gesamten Mensch-Maschine-Interaktion m&#252;ssen im Hinblick auf
+Aspekte das automatisierten Fahrens &#252;berpr&#252;ft und ggf. erg&#228;nzt werden.
+Anhand einiger ausgew&#228;hlter Forschungsprojekte werden nachfolgend Beispiele zu Forschungsfragen und
+aktuellen Forschungsergebnissen dargestellt.
+Zu 1. Zustand der fahrzeugf&#252;hrenden Person
+Das durch das BMWi gef&#246;rderte Projekt Ko-HAF (Kooperatives hochautomatisiertes Fahren) zielte auf das
+sichere automatisierte Fahren mittels einer Level-3-Fahrfunktion bei h&#246;heren Geschwindigkeiten auf
+Autobahnen (Hohm et al., 2018). Ob der fahrzeugf&#252;hrenden Person die &#220;bernahme der Fahrzeugf&#252;hrung nach
+Aufforderung durch die automatisierte Fahrfunktion und innerhalb der zur Verf&#252;gung gestellten Vorlaufzeit gelingt,
+ist u. a. vom Zustand der fahrzeugf&#252;hrenden Person und damit von ihrer Verf&#252;gbarkeit abh&#228;ngig. Anhand
+mehrerer empirischer Studien wurde evaluiert, wie sich der Zustand der fahrzeugf&#252;hrenden Person w&#228;hrend l&#228;ngerer
+automatisierter Fahrten ver&#228;ndert (Radlmayr et al., 2018). Die Versuche haben gezeigt, dass w&#228;hrend einer
+monotonen automatisierten Fahrt Schl&#228;frigkeit und Erm&#252;dung innerhalb kurzer Zeit entstehen k&#246;nnen und die 
+Daueraufmerksamkeit beeintr&#228;chtigt wird. So wurden beispielsweise Realfahrten mit einem Wizard-of-Oz
+Versuchsfahrzeug auf einer Teststrecke durchgef&#252;hrt und Hirnstr&#246;me der Probanden zur M&#252;digkeitsmessung
+abgeleitet (Frey, 2019). Es zeigte sich im Mittel ein maximaler Anstieg der M&#252;digkeit nach ca. 20 Minuten
+Fahrzeit, wenn die fahrzeugf&#252;hrende Person sich nicht mit anderen, fahrfremden T&#228;tigkeiten besch&#228;ftigen konnte.
+Simulatorstudien von Feldh&#252;tter (2019a) best&#228;tigten, dass l&#228;ngerdauernde monotone Fahrten mit einer Level-
+3-Funktion (also ohne Aus&#252;bung fahrfremder T&#228;tigkeiten) zu einer Erm&#252;dung der fahrzeugf&#252;hrenden Personen
+f&#252;hren. Die M&#252;digkeit trat bei knapp der H&#228;lfte der Probanden nach ca. einer halben Stunde nach Fahrtbeginn
+ein. Etwa 25 Prozent der Probanden zeigten starke M&#252;digkeitserscheinungen oder schliefen kurz ein. Erm&#252;dete
+fahrzeugf&#252;hrende Personen bew&#228;ltigten die &#220;bernahme schlechter als wache fahrzeugf&#252;hrende Personen. Die 
+Beeintr&#228;chtigungen im &#220;bernahmeverhalten zeigten sich in zu starkem Abbremsen, nicht angepasster
+Bahnkurve und einer h&#246;heren Anzahl von Unf&#228;llen.
+F&#252;r die Beobachtung und Einsch&#228;tzung des Zustands der fahrzeugf&#252;hrenden Person bei Level-3- und Level-4-
+Automation sollten fahrzeuginterne Monitoringsysteme verwendet werden, die mehrere verschiedene Gr&#246;&#223;en
+des Zustands der fahrzeugf&#252;hrenden Person erfassen k&#246;nnen (Collet et al., 2019). Beeintr&#228;chtigte Zust&#228;nde der 
+fahrzeugf&#252;hrenden Person, die eine sichere &#220;bernahme der Fahrzeugkontrolle gef&#228;hrden k&#246;nnten, resultieren
+v. a. aus dem Erm&#252;dungsgrad, der Unaufmerksamkeit, das Verlassen des Fahrersitzes w&#228;hrend der Fahrt und
+pl&#246;tzliche Schw&#228;cheanf&#228;lle. Als weitere Anforderung an geeignete Monitoringsysteme empfehlen die Autoren,
+dass das Monitoringsystem in der Lage sein sollte, der fahrzeugf&#252;hrenden Person ein Feedback zu ihrem
+Zustand zu geben und ggf. zu warnen.
+Zu 2. Fahrfremde T&#228;tigkeiten
+Unterschiedliche fahrfremde T&#228;tigkeiten wurden im Rahmen einer theoretischen Betrachtung systematisiert 
+(Naujoks et al., 2016). Die Betrachtung schloss auch nat&#252;rliche fahrfremde T&#228;tigkeiten ein (z. B. Essen, Lesen).
+Im Vordergrund stand hierbei eine Zuordnung verschiedener Aspekte dieser T&#228;tigkeiten (z. B. M&#246;glichkeit zu
+Kontrollblicken) zu unterschiedlichen Phasen des &#220;bernahmeprozesses bei Level-3-Automation (z. B.
+Bemerken und Interpretieren von &#220;bernahmeaufforderungen). Die Studie lieferte damit einen Ansatz f&#252;r die
+prospektive Bewertung der vermuteten Einschr&#228;nkungen der &#220;bernahmef&#228;higkeit durch fahrfremde T&#228;tigkeiten. Die
+Autoren verwiesen darauf, dass zum Zeitpunkt der Studie umfassende, systematische Untersuchungen zur
+Validierung des Bewertungssystems fehlten und eine Konsolidierung mit anderen Wirkungen der fahrfremden
+T&#228;tigkeiten erforderlich ist.
+In einer Simulatorstudie mit einer Level-3-Fahrfunktion f&#252;r Autobahnfahrt bei hohen Geschwindigkeiten wurde
+die Wirkung von fahrfremden T&#228;tigkeiten auf die Erm&#252;dung der fahrzeugf&#252;hrenden Person untersucht
+(Sch&#246;mig et al., 2015). Sobald die Probanden w&#228;hrend der Fahrt ein definiertes Erm&#252;dungsniveau erreicht hatten,
+erfolgte eine Testphase mit oder ohne fahrfremde T&#228;tigkeiten. Dabei wurden Augen und Lidbewegungen
+gemessen und so der Erm&#252;dungsverlauf der Probanden w&#228;hrend der Testphase bestimmt. Die Ergebnisse zeigten,
+dass die Erm&#252;dung der Probanden deutlich anstieg, wenn die Fahrt w&#228;hrend der Testphase ohne fahrfremde
+T&#228;tigkeit erfolgte. Konnten sich die Probanden mit einer fahrfremden T&#228;tigkeit besch&#228;ftigen, stieg die
+Erm&#252;dung dagegen nicht an. Aus den Ergebnissen wurde geschlossen, dass eine interessante und motivierende
+fahrfremde T&#228;tigkeit die Wachheit der fahrzeugf&#252;hrenden Person w&#228;hrend einer Level-3-Fahrt positiv beeinflussen
+kann.
+In der Realfahrt-Studie von Frey (2019) wurde das Erm&#252;dungsverhalten mit und ohne fahrfremde T&#228;tigkeit bei
+einer monotonen automatisierten Fahrt verglichen. Der Erm&#252;dungsanstieg konnte reduziert werden, wenn die
+Probanden sich w&#228;hrend der automatisierten Fahrt mit motivierenden T&#228;tigkeiten besch&#228;ftigten. Es wurde
+daraus geschlossen, dass mit diesem Ansatz der Erm&#252;dungsanstieg beim automatisierten Fahren verz&#246;gert und f&#252;r
+eine positive Wirkung auf die &#220;bernahmeleistung des Fahrers genutzt werden k&#246;nnte.
+Zu 3. &#220;bernahmeleistung, Mensch-Maschine-Schnittstelle
+Fr&#252;he Studien zur Auslegung der systemseitigen &#220;bernahmeaufforderung konzentrierten sich auf die
+Bestimmung der ben&#246;tigten &#220;bernahmezeiten beim Fahren mit einer Level-3-Funktion. In einer Simulatorstudie von
+Damb&#246;ck et al. (2012) wurde die &#220;bernahmeleistung der Probanden bei verschiedenen Vorlaufzeiten zwischen
+&#220;bernahmeaufforderung und Erreichen der Systemgrenze untersucht. Die gemessenen &#220;bernahmezeiten
+hingen von der Dauer der gew&#228;hrten Vorlaufzeit ab und zeigten eine hohe interindividuelle Streuung. Aus den
+Ergebnissen schlossen die Autoren, dass bei einer Vorlaufzeit von acht Sekunden eine im Mittel vergleichbare 
+Leistung wie bei einer manuellen Fahrt erreicht wird. Allerdings wurden auch bei einer Vorlaufzeit von acht 
+Sekunden Fehler bei der &#220;bernahme beobachtet. F&#252;r eine sichere Auslegung der &#220;bernahmeaufforderung in
+einem solch sicherheitskritischen System verwiesen die Autoren daher auf die Notwendigkeit, den Grenzwert
+f&#252;r die Vorlaufzeit mit einem Sicherheitspuffer zu versehen.
+In der Studie von Petermann-Stock et al. (2013) wurden dagegen keine Vorlaufzeiten zwischen
+&#220;bernahmeaufforderung und Systemgrenze vorgegeben, sondern die &#220;bernahme durch den Probanden selbst, als Reaktion auf
+ein bremsendes F&#252;hrungsfahrzeug, eingeleitet. Die Simulatorstudie zielte auf die Ableitung von
+&#220;bernahmezeiten in Abh&#228;ngigkeit von der Schwere der fahrfremden T&#228;tigkeit bei einer Level-3-Funktion f&#252;r
+Staufolgefahrten auf Autobahnen. Die Autoren schlossen aus den Ergebnissen, dass die automatisierte Fahrfunktion nach
+einer &#220;bernahmeaufforderung noch f&#252;r einen Zeitraum von f&#252;nf bis zehn Sekunden die Fahraufgabe
+&#252;bernehmen sollte. F&#252;r planbare &#220;bernahmen wurde eine komfortable Vorlaufzeit von acht bis zehn Sekunden
+empfohlen. Die Ergebnisse deuteten darauf hin, dass f&#252;r den vollst&#228;ndigen Aufbau des Situationsbewusstseins auch
+nach der &#220;bernahme noch Zeitbedarf besteht. Es wurde daher auf weiteren Forschungsbedarf zur Wirkung
+verschiedener R&#252;ckholstrategien und zum Verhalten der fahrzeugf&#252;hrenden Person in der Phase unmittelbar
+nach der motorischen &#220;bernahme hingewiesen.
+In Simulatorstudien von Feldh&#252;tter et al. (2019b) wurde die &#220;bernahmeleistung erm&#252;deter fahrzeugf&#252;hrender
+Personen in zeitkritischen Situationen untersucht. Bei diesen Situationen war das Level-3-System nicht mehr in 
+der Lage, eine komfortable Vorlaufzeit zur Verf&#252;gung zu stellen. Die getesteten Vorlaufzeiten bis zum
+Erreichen eines Hindernisses auf der Fahrbahn lagen bei sechs und f&#252;nf Sekunden. Die Ergebnisse zeigten, dass sich
+das &#220;bernahmeverhalten verschlechtert, wenn die zur Verf&#252;gung stehende Vorlaufzeit verringert wird. Mit der
+Abnahme der Vorlaufzeit verk&#252;rzten sich zwar die Reaktionszeiten der Probanden bis zur Einleitung erster
+motorischer Aktivit&#228;ten zur Steuerung des Fahrzeugs, gleichzeitig nahm aber die Qualit&#228;t der
+&#220;bernahmeleistung ab (&#252;berm&#228;&#223;iges Abbremsen).
+Der Einfluss der Verkehrsumgebung auf die &#220;bernahmeleistung der fahrzeugf&#252;hrenden Person bei Level-3-
+Automation wurde im Zusammenhang mit dem BMWi-Projekt PEGASUS untersucht (Klamroth et al., 2020).
+In einer ersten Versuchsreiche wurden Realfahrten mit einem Wizard-of-Oz Versuchsfahrzeug im realen
+Verkehr auf Autobahnen durchgef&#252;hrt und die &#220;bernahmeleistung der fahrzeugf&#252;hrenden Person in Abh&#228;ngigkeit
+von der Verkehrsdichte erfasst. Die zweite Versuchsreihe wurde auf einer Teststrecke durchgef&#252;hrt und zielte
+auf die Frage, ob sich eine vorausgehende automatisierte Fahrt auf die Bew&#228;ltigung eines unerwarteten
+Ereignisses (stark verz&#246;gerndes Vorderfahrzeug) im Anschluss an eine erfolgreich abgeschlossene &#220;bernahme
+auswirkt. Basierend auf den Befunden beider Fahrversuche kann angenommen werden, dass &#220;bernahmezeiten im
+flie&#223;enden Verkehr l&#228;nger sind als bei Stop-and-go-Fahrten bzw. in Stausituationen. Mit steigender Kritikalit&#228;t
+aufgrund zunehmender Verkehrsdichte zeigte sich eine Abnahme der mittleren &#220;bernahmezeit. Diese war
+jedoch nicht mit einer qualitativen Verbesserung der &#220;bernahmeleistung verbunden, da eine tendenzielle
+Zunahme von Inhomogenit&#228;ten bei der Querf&#252;hrung auftrat. Zudem ergab die Analyse der Blickbewegungen, dass
+vor und w&#228;hrend der &#220;bernahme keine ad&#228;quate visuelle Absicherung der Verkehrsumgebung durch Spiegel-
+und Schulterblicke erfolgt. Zur Vermeidung von sicherheitskritischen Verkehrssituationen bei der &#220;bernahme
+empfehlen die Autoren eine assistierende Unterst&#252;tzung der fahrzeugf&#252;hrenden Person bei der &#220;bernahme,
+insbesondere durch Ma&#223;nahmen zur Absicherung des r&#252;ckw&#228;rtigen Verkehrsraumes.
+In der Studie von Walch et al. (2015) wurde ein multimodales Warnkonzept f&#252;r die &#220;bernahmeaufforderung
+gestaltet und im Simulator evaluiert. Das Warnkonzept bestand aus einer Verkn&#252;pfung von visuellen
+Informationen (Piktogramme und textliche Aufforderungen) mit akustischen Warnsignalen. Das Konzept soll es
+erm&#246;glichen, die Aufmerksamkeit der mit einer fahrfremden T&#228;tigkeit besch&#228;ftigten fahrzeugf&#252;hrenden Person sicher
+auf die Fahraufgabe zu lenken, dem Fahrer die Notwendigkeit zur &#220;bernahme zu verdeutlichen und &#252;berst&#252;rzte
+Ersteingriffe der fahrzeugf&#252;hrenden Person zu vermeiden. Die Ergebnisse der subjektiven Bewertung zeigten,
+dass die Probanden &#220;bernahmeaufforderungen mit vorgeschalteter Erl&#228;uterung gegen&#252;ber
+&#220;bernahmeaufforderungen ohne vorgeschaltete Erl&#228;uterung bevorzugten. Allerdings wurde mit vorgeschalteter Erl&#228;uterung eine
+etwas l&#228;ngere &#220;bernahmezeit ben&#246;tigt. Die Studie verweist auf weiteren Untersuchungsbedarf, da ein Teil der
+Probanden trotz Warnkonzept nicht dazu veranlasst werden konnte, vor der ersten Intervention eine visuelle
+Pr&#252;fung der Verkehrssituation vorzunehmen.
+Das derzeit laufende EU-Projekt HADRIAN betrachtet die Mensch-Maschine-Interaktion f&#252;r ein Fahrzeug, das
+&#252;ber mehrere Systeme mit unterschiedlichen Automatisierungslevels verf&#252;gt (M&#246;rtl et al., 2019). Die
+fahrzeugf&#252;hrende Person soll darin unterst&#252;tzt werden, ihre aktuelle Rolle in Abh&#228;ngigkeit vom jeweils aktivierten
+Automatisierungslevel zu erkennen und auszuf&#252;llen. Im Projekt werden dynamisch anpassbare Mensch-Maschine-
+Schnittstellen (fluid HMIs) als ein m&#246;glicher L&#246;sungsansatz untersucht.
+Zu 4. Akzeptanz, Vertrauen
+Bei Level-3-Fahrfunktionen wird die &#220;bernahmeaufforderung aufgrund des Erreichens der Systemgrenze ein 
+h&#228;ufig wiederkehrendes Ereignis sein. Aus Forschungserkenntnissen im Bereich der Assistenzsysteme ist
+bekannt, dass es zu Beeintr&#228;chtigungen im Systemvertrauen und der Nutzerakzeptanz kommen kann, wenn die
+Nutzerin oder der Nutzer die Funktions- und Leistungsbegrenzung des Systems nicht versteht oder wenn sich
+das System als fehleranf&#228;llig erweist. In der Studie von K&#246;rber et al. (2018) wurde untersucht, wie das Vertrauen
+in die automatisierte Funktion und die Nutzerakzeptanz beeinflusst werden, wenn das System die
+&#220;bernahmeaufforderung begr&#252;ndet. Dazu wurde den Probanden nach der erfolgten &#220;bernahme eine Erl&#228;uterung f&#252;r die
+notwendige &#220;bernahmeaufforderung &#252;ber die Mensch-Maschine-Schnittstelle des Systems angezeigt. Die
+Ergebnisse zeigten, dass die nachtr&#228;glich gegebene Begr&#252;ndung kaum Einfluss auf das Vertrauen oder die
+Nutzerakzeptanz hatte. Allerdings f&#252;hrte die gegebene Begr&#252;ndung zu einer h&#246;heren Systemtransparenz, so dass
+die Probanden das System besser verstanden.
+Aus empirischen Studien mit nicht-automatisierten Fahrzeugen ist bekannt, dass fahrzeugf&#252;hrende Personen
+wahrgenommene kritische Fahrsituationen durch den Einsatz von Fahrstrategien entsch&#228;rfen. Auf Grundlage
+dieser Ergebnisse wurde die von der fahrzeugf&#252;hrenden Person subjektiv akzeptierte Fahrleistung w&#228;hrend
+einer automatisierten Fahrt untersucht (Vo&#223; et al., 2020). Aus den Ergebnissen konnte abgeleitet werden, dass
+fahrzeugf&#252;hrende Personen desto fr&#252;her regulativ in die Fahrzeugsteuerung des automatisierten Fahrzeugs
+eingreifen, je weiter der Gegenverkehr zur Stra&#223;enmitte versetzt f&#228;hrt. Ausgehend von den Ergebnissen wurden
+Empfehlungen f&#252;r automatisierte Fahrfunktionen im Sinne adaptiver Mechanismen bei der Planung der
+Bahnkurve abgeleitet.
+Zu 5. Externe Kommunikation im Mischverkehr
+Im heutigen Stra&#223;enverkehr spielt der non-verbale Informationsaustausch zwischen Verkehrsteilnehmenden
+eine wichtige Rolle in der Verkehrssicherheit und beim Verkehrsablauf. Er erm&#246;glicht die Kl&#228;rung von
+Verkehrssituationen oder die Einsch&#228;tzung und Vorhersage des Verhaltens anderer Verkehrsteilnehmender. Als
+Kommunikationsmittel stehen dabei Signaleinrichtungen am Fahrzeug (z. B. Lichthupe), Fahrdynamik des
+Fahrzeugs (z. B. Abbremsen), von der fahrzeugf&#252;hrenden Person ausgehende K&#246;rpergesten (Handbewegungen)
+und Blickkontakte zur Verf&#252;gung. Beim automatisierten Fahren mit Fahrzeugen der Automatisierungsstufe 
+SAE Level 3 oder h&#246;her ist die menschliche fahrzeugf&#252;hrende Person nicht oder nur in deutlich verringertem
+Umfang f&#252;r eine Kommunikation mit anderen Verkehrsteilnehmenden verf&#252;gbar. Ein im Auftrag der BASt 
+durchgef&#252;hrtes Forschungsprojekt untersuchte daher, ob heutige Interaktionsszenarien eines herk&#246;mmlichen
+Pkw mit anderen Verkehrsteilnehmern auf automatisiert fahrende Pkws im Mischverkehr &#252;bertragbar sind
+(Schaarschmidt et al., 2020). Es wurden relevante Szenarien im Bereich des Innerortsverkehrs, auf
+Au&#223;erortsstra&#223;en sowie auf Bundesautobahnen betrachtet. Die im Projekt gewonnenen Erkenntnisse zeigten, dass bei
+&#252;ber 60 Prozent der analysierten Interaktionsszenarien eine &#220;bertragung auf den Mischverkehr m&#246;glich ist. In
+vielen der &#252;bertragbaren Szenarien scheint insbesondere die implizite Kommunikation mittels Fahrverhaltens
+des Fahrzeugs (Fahrdynamik) ausschlaggebend f&#252;r die &#220;bermittlung der relevanten Information an die
+umgebenden Verkehrsteilnehmer zu sein. Als nicht auf den Mischverkehr &#252;bertragbar wurden Szenarien eingestuft,
+bei denen die zugrundeliegende Verkehrssituation nicht eindeutig durch die Stra&#223;enverkehrs-Ordnung (StVO)
+geregelt oder die traditionellen technischen Signaleinrichtungen am Fahrzeug f&#252;r die &#220;bermittlung der
+erforderlichen Botschaft nicht geeignet sind. Bei diesen Verkehrssituationen besteht Handlungsbedarf zur Schaffung
+neuer Interaktions- und Kommunikationskonzepte, mit denen die dort auftretenden Konfliktsituationen gel&#246;st
+werden k&#246;nnen.
+Ein Schwerpunkt des europ&#228;ischen Forschungsprojekts interACT (Schieben et al., 2020) lag auf der
+Entwicklung innovativer Mensch-Maschine-Schnittstellen, welche die Mensch-Maschine-Kommunikation im
+Mischverkehr erm&#246;glichen sollen. &#196;hnlich wie bei Schaarschmidt et al. (2020) gezeigt, konnte in den von interACT
+analysierten Anwendungsf&#228;llen beobachtet werden, dass die meisten Verkehrsbegegnungen aufgrund der
+gegenseitigen Einsch&#228;tzung des Bewegungsverhaltens der Verkehrsteilnehmer gel&#246;st werden. Dort, wo eine
+Kommunikation mittels externer Mensch-Maschine-Schnittstellen am Fahrzeug erforderlich ist, sollte die
+&#220;bertragung der Botschaft mittels abstrakter Lichtsignale bevorzugt werden. Aus den Tests verschiedener Prototypen
+wurde geschlossen, dass ein horizontal umlaufendes LED-Lichtband in Kombination mit einer auf einzelne 
+Verkehrsteilnehmende ausrichtbaren Signalleuchte das h&#246;chste Potenzial im Hinblick auf die gestellten
+Kommunikationsanforderungen aufweist. L&#246;sungsvarianten, die Text oder Piktogramme anzeigen oder &#252;ber
+Projektionen auf die Stra&#223;enoberfl&#228;che kommunizieren, haben sich als eher ungeeignet erwiesen. Allerdings besteht
+weiterer Forschungsbedarf, um diese neuen externen Mensch-Maschine-Schnittstellen hinsichtlich ihrer
+Wirksamkeit f&#252;r verschiedene Interaktionsszenarien zu bewerten.
+F&#252;r das automatisierte Fahren in der Stadt werden im derzeit laufenden Projekt @City u. a. neue Technologien
+f&#252;r das Situationsverstehen sowie Konzepte f&#252;r die Interaktion mit anderen Verkehrsteilnehmern entwickelt
+(Kre&#223;el, 2017). Automatisierte Fahrfunktionen werden prototypisch umgesetzt und evaluiert. Im Fokus steht
+das automatisierte Fahren &#252;ber komplexe, urbane Knotenpunkte, durch Engstellen auf urbanen
+Verbindungsstra&#223;en sowie die Interaktion mit schw&#228;cheren Verkehrsteilnehmenden wie Fu&#223;g&#228;ngern und Radfahrenden.
+Zu 6. Methoden
+Fragen zur Methodik f&#252;r die experimentelle Untersuchung des Zustands der fahrzeugf&#252;hrenden Person beim
+hochautomatisierten Fahren waren Gegenstand des Forschungsprojekts &#8222;Untersuchung fahrerspezifischer
+Aspekte beim hochautomatisierten Fahren&#8220; (Feldh&#252;tter et al., 2018). Die Ergebnisse lieferten Beitr&#228;ge f&#252;r die
+Entwicklung, Ver&#228;nderung und Messung von verminderter Daueraufmerksamkeit und M&#252;digkeit beim
+hochautomatisierten Fahren. Die zun&#228;chst f&#252;r den Fahrsimulator entwickelte Methodik lie&#223; sich auch auf ein reales
+Forschungsfahrzeug im Realverkehr &#252;bertragen.
+Derzeit gibt es noch keine allgemein akzeptierten Gestaltungsrichtlinien, die sich speziell auf Mensch-
+Maschine-Schnittstellen automatisierter Fahrfunktionen beziehen. In einer Studie von Naujoks et al. (2018) wurde
+eine erste Sammlung von Gestaltungsprinzipien und Beurteilungskriterien f&#252;r Mensch-Maschine-Schnittstellen
+automatisierter Fahrfunktionen erstellt. Die Zusammenstellung enth&#228;lt u. a. Empfehlungen zu
+Systemaktivierung/-deaktivierung, Anzeige des Systemstatus und des Automationsmodus, Wechsel zwischen
+unterschiedlichen Automationsmodi, sowie allgemeine ergonomische Prinzipien f&#252;r die nutzergerechte Gestaltung von
+Anzeigen.
+Im Rahmen des derzeit laufenden EU-Projekts L3Pilot wird ein Leitfaden f&#252;r Entwickler und Gestalter von 
+automatisierten Fahrfunktionen in der Automobilindustrie erarbeitet (Fahrenkrog et al., 2020). Dieser &#8222;Code of
+Practice for automated driving&#8220; enth&#228;lt u. a. Empfehlungen zu Sicherheitsaspekten und Methoden, die den
+Entwicklungsprozess im Hinblick auf einen sicheren Betrieb von automatisierten Fahrfunktionen unterst&#252;tzen
+sollen. Im Abschnitt &#8222;Human-Vehicle Integration&#8220; wird dabei auf Aspekte der Mensch-Maschine-Interaktion
+eingegangen z. B. Mode Awareness, Trust, Misuse, Driver Monitoring.
+Zusammenfassender Ausblick zur MMI-Forschung
+Die technische Weiterentwicklung automatisierter Fahrfunktionen vollzieht sich entlang der Klassifikation der
+Automatisierungsgrade. Neben den Forschungsfragen zur Level-3-Automation, die im Mittelpunkt der MMI-
+Forschung der vergangenen Jahre stand, sind mit den Level-4-Funktionen neue Herausforderungen f&#252;r die
+MMI-Forschung hinzugekommen. Die Systemgrenzen der Level-4-Anwendungen werden ein breiter
+werdendes Feld an m&#246;glichen Stra&#223;entypen und Verkehrssituationen umschlie&#223;en k&#246;nnen, in dem neben Autobahn 
+und Landstra&#223;e auch der urbane Bereich eine zunehmende Rolle spielt. Die Fahrzeiten ununterbrochener
+automatisierter Fahrten werden deutlich l&#228;nger. Die fahrzeugf&#252;hrende Person als R&#252;ckfallebene bei einer
+&#220;bernahmeaufforderung des Systems wird bei Level 4 nicht mehr vorausgesetzt. Daher gewinnen Fragen zur
+&#220;berwachung des Zustands der fahrzeugf&#252;hrenden Person und die Bef&#228;higung der Monitoring-Systeme,
+sicherheitsrelevante Entscheidungen aus dem Zustand der fahrzeugf&#252;hrenden Person ableiten zu k&#246;nnen, an Bedeutung.
+Zus&#228;tzlich sind Forschungsfragen hinsichtlich des Verhaltens und der Akzeptanz von Notfallsystemen, die das
+automatisierte Fahrzeug in den risikominimalen Zustand bringen, zu erwarten.
+4. Ausblick
+Vor dem Hintergrund der oben gegebenen Ausf&#252;hrungen stellt dieser Bericht keine Evaluierung &#252;ber die
+Anwendung der Regelungen zum automatisierten Fahren im Wortsinne des mit dem Achten Gesetz zur &#196;nderung
+des Stra&#223;enverkehrsgesetzes neu eingef&#252;hrten &#167; 1c StVG dar. Dies liegt insbesondere daran, dass bisher kein 
+Fahrzeug eine entsprechende Typgenehmigung erhalten hat. Vielmehr stellt die Evaluation den erreichten Stand
+der kraftfahrzeugtechnischen Vorschriftenentwicklung f&#252;r die Typgenehmigung von Fahrzeugen mit
+automatisierten Fahrfunktionen sowie die Ergebnisse und den Stand ausgew&#228;hlter Forschungsarbeiten mit engem Bezug
+zu den &#196;nderungen im Stra&#223;enverkehrsgesetz dar.
+Mit Blick auf die Ausrichtung der k&#252;nftigen Vorschriftenentwicklung ist die Verordnung (EU) Nr. 2144/2019 
+&#252;ber die allgemeine Sicherheit von Fahrzeugen insofern ma&#223;gebend, als hier erstmalig hochentwickelte
+Fahrerassistenzsysteme f&#252;r alle Fahrzeugklassen reguliert werden. Zukunftsweisend ist dabei zur Erm&#246;glichung einer
+datenschutzgerechten Verarbeitung personenbezogener Daten insbesondere das mit Artikel 6 Absatz 3 und
+Absatz 4c der Verordnung (EU) 2019/2144 eingef&#252;hrte Prinzip des geschlossenen Systems. Dies dient der
+Durchsetzung des Zweckbindungsprinzips f&#252;r die verarbeiteten personenbezogenen Daten und wird auch in k&#252;nftigen 
+Vorschriften f&#252;r Fahrzeuge mit automatisierten Fahrfunktionen zur Anwendung kommen m&#252;ssen, soweit f&#252;r
+diese personenbezogene Daten verarbeitet werden sollen. Insoweit f&#252;r automatisierte Fahrfunktionen ein
+umfangreicher Einsatz audiovisueller Sensorik zur Erfassung der Fahrzeugumgebung zu erwarten ist, werden
+technische Vorschriften zur Erm&#246;glichung oder gar Erzwingung einer datenschutzgerechten Verarbeitung z. B.
+dieser audiovisuellen Daten von besonderer Bedeutung sein.
+Eine Marktdurchdringung von Kraftfahrzeugen mit automatisierten Fahrfunktionen im Sinne des Achten
+Gesetzes zur &#196;nderung des Stra&#223;enverkehrsgesetzes l&#228;sst sich mit einem erweiterten ALKS (h&#246;here
+Geschwindigkeit und Spurwechself&#228;higkeit) sowie der Einbeziehung von Lkw und Bussen erwarten. Es wird
+vorgeschlagen, nach Einf&#252;hrung dieses automatisierten Systems eine wissenschaftliche Evaluierung vorzusehen. F&#252;r diese 
+Evaluierung sind zwei Voraussetzungen auf internationaler Ebene zu ber&#252;cksichtigen:
+1. F&#252;r unfallstatistische Aussagen sind Voraussetzungen zur Identifikation der entsprechend ausgestatteten
+Fahrzeuge notwendig (bspw. eine eigene Typschl&#252;sselnummer). Weiterhin wird hierbei ein ausreichend
+lang bemessener Bewertungszeitraum anzusetzen sein, bis Effekte sichtbar werden und statistisch
+signifikante Aussagen m&#246;glich sind, da zu Beginn der Markteinf&#252;hrung mit geringen Fallzahlen zu rechnen ist.
+2. Im internationalen Rahmen sind f&#252;r Evaluierungen seitens der Verkehrsunfallforschung entsprechende
+Datenzugangsrechte und Nutzungsm&#246;glichkeiten f&#252;r die fahrzeugtechnischen Daten ohne Personenbezug 
+zu schaffen, z.B. Zugang zu den Daten und Steuerung &#252;ber eine zentrale Stelle, damit diese ebenfalls zu
+Evaluierungszwecken vorliegen.
+Ungeachtet dessen wird die Entwicklung fahrzeugtechnischer Vorschriften auf internationaler Ebene weiter
+voranzutreiben sein, um die Bandbreite der m&#246;glichen Anwendungsf&#228;lle f&#252;r automatisierte Fahrfunktionen zu
+vergr&#246;&#223;ern. Die Strukturen daf&#252;r sind, wie oben beschrieben, vorhanden; Arbeiten finden sowohl auf UNECE-
+als auch auf EU-Ebene statt.
+Konkret wird schon jetzt seitens des BMVI an Erweiterungen der UN-Regelung f&#252;r ALKS gearbeitet, um den
+weiteren Fortschritt der Systeme zu unterst&#252;tzen und den eingeschr&#228;nkten Anwendungsbereich von ALKS zu
+erweitern, damit die m&#246;glichen Anwendungszeiten der Systeme auf Autobahnen und autobahn&#228;hnlichen
+Stra&#223;en zuk&#252;nftig weiter gesteigert werden k&#246;nnen und damit die m&#246;glichen Sicherheitspotenziale des
+automatisierten Fahrens besser ausgesch&#246;pft werden k&#246;nnen. Ziel der seitens des BMVI vorgeschlagenen Erweiterungen
+der UN-Regelung f&#252;r ALKS ist eine optionale Erweiterung der maximalen Systemgeschwindigkeit bis
+130 km/h und die Erm&#246;glichung einer zus&#228;tzlichen, voll automatisierten Spurwechself&#228;higkeit des Systems,
+sowohl im Falle eines Minimum Risk Man&#246;vers zum Erlangen eines sicheren Zustandes als auch im normalen
+Fahrzustand f&#252;r einen regul&#228;ren, systemseitig gew&#252;nschten oder verkehrsbedingt notwendigen Spurwechsel.
+Diese beiden Erweiterungsvorschl&#228;ge w&#252;rden bei voller Anwendung durch ein System dann einen vollst&#228;ndigen 
+&#8222;Autobahn-Chauffeur&#8220; in Level 3 erm&#246;glichen.
+Die vom BMVI mit ma&#223;geblicher Unterst&#252;tzung der BASt entworfenen Erweiterungen wurden zur 7. Sitzung
+der zust&#228;ndigen Arbeitsgruppe (GRVA) bei der UNECE im September 2020 eingereicht.
+Zus&#228;tzlich werden derzeit die M&#246;glichkeiten &#252;berpr&#252;ft, die Regelung f&#252;r ALKS f&#252;r weitere Fahrzeugkategorien
+(Lkw, Busse (Fahrzeuge der Kategorien N1, N2, N3, M2 und M3)) zu &#246;ffnen und die technischen
+Anforderungen gegebenenfalls entsprechend zu erweitern.
+Die Entwicklung der Regelungsentw&#252;rfe wurde bisher und wird weiterhin von der Abteilung Fahrzeugtechnik
+der BASt eng begleitet, um das BMVI bei der Festlegung von Anforderungen auf Basis wissenschaftlicher
+Expertise inklusive eigener Fahrversuche zu unterst&#252;tzen.
+Anhang
+Zusammenfassung der Anforderungen aus der UN-Regelung Nr. 157 (ALKS)
+Allgemeines Prinzip der UN-Regelung Nr. 157
+ALKS kontrolliert die L&#228;ngs- und Querf&#252;hrung des Fahrzeugs f&#252;r einen l&#228;ngeren Zeitraum ohne weitere
+Fahrereingaben. ALKS ist ein System, das im aktiven Systemzustand die Hauptkontrolle &#252;ber das Fahrzeug
+&#252;bernimmt. ALKS kann nur unter bestimmten Bedingungen auf Stra&#223;en aktiviert werden, auf denen Fu&#223;g&#228;nger und
+Radfahrende verboten sind und die durch ihre Anlage mit einer physischen Trennung der Richtungsfahrbahnen
+ausgestattet sind, die den Verkehr in entgegengesetzte Richtungen separiert und kreuzenden Verkehr vermeidet.
+In einem ersten Schritt beschr&#228;nkt diese Regelung die Betriebsgeschwindigkeit des ALKS auf maximal 60 km/h
+und auf die Fahrzeugkategorie der Personenkraftwagen (M1-Fahrzeuge). Ein automatisch durchgef&#252;hrter
+Spurwechsel ist bisher nicht Teil der Funktion. Die Regelung enth&#228;lt allgemeine Anforderungen an die
+Systemsicherheit und die vorgesehenen R&#252;ckfallebenen. Wenn das ALKS aktiviert ist, muss es die Fahraufgabe anstelle
+der fahrzeugf&#252;hrenden Person ausf&#252;hren, d. h. es muss alle Situationen einschlie&#223;lich Fehlfunktionen und
+Ausf&#228;llen von Subsystemen bew&#228;ltigen und darf die Sicherheit der Fahrzeuginsassen oder anderer
+Verkehrsteilnehmender nicht gef&#228;hrden. Es besteht jedoch immer die M&#246;glichkeit f&#252;r die fahrzeugf&#252;hrende Person, das System
+jederzeit zu &#252;berschreiben. Die Regelung legt auch Anforderungen fest, wie die Fahraufgabe sicher vom ALKS
+an die fahrzeugf&#252;hrende Person zur&#252;ck &#252;bergeben werden soll, einschlie&#223;lich der F&#228;higkeit, dass das System
+zum Fahrzeugstillstand kommen k&#246;nnen muss, falls die fahrzeugf&#252;hrende Person nicht angemessen reagiert.
+Schlie&#223;lich enth&#228;lt die Regelung Anforderungen an die Mensch-Maschine-Schnittstelle (HMI), um
+Missverst&#228;ndnisse oder Missbrauch durch die fahrzeugf&#252;hrende Person zu verhindern. Die Regelung  schreibt
+beispielsweise vor, dass Onborddisplays, die von der fahrzeugf&#252;hrenden Person f&#252;r andere T&#228;tigkeiten als das Fahren
+verwendet werden k&#246;nnen w&#228;hrend das ALKS aktiviert ist, automatisch ausgesetzt werden, sobald das System
+eine &#220;bernahmeaufforderung aussendet. Diese Ma&#223;nahmen lassen die Vorschriften &#252;ber das Verhalten der
+fahrzeugf&#252;hrenden Personen in den Vertragsparteien unber&#252;hrt, wie sie derzeit vom Global Forum for Road Traffic 
+Safety (WP.1) zum Zeitpunkt der Ausarbeitung dieses Dokuments er&#246;rtert werden (siehe z. B. Informelles
+Dokument 4 Revision 1 der 78. Tagung der WP.1).
+Allgemeine Systemsicherheit und R&#252;ckfallebenen
+Allgemein muss das aktivierte System alle Situationen einschlie&#223;lich Fehlfunktionen und Ausf&#228;llen technischer
+Subsysteme beherrschen und darf die Fahrzeuginsassen oder andere Verkehrsteilnehmende keinen
+unzumutbaren Risiken aussetzen. Das aktivierte System darf keine Kollisionen verursachen. Ist das Fahrzeug in einen
+detektierbaren Zusammensto&#223; verwickelt, so ist das Fahrzeug zum Stillstand zu bringen. Das aktivierte System
+muss die Verkehrsregeln im aktuellen Betriebsland einhalten. Das aktivierte System muss die Kontrolle &#252;ber
+Systeme aus&#252;ben, die erforderlich sind, um den Fahrer bei der Wiederaufnahme der manuellen Steuerung
+jederzeit zu unterst&#252;tzen (z. B. Antibeschlag der Scheiben, Scheibenwischer und Fahrzeugbeleuchtung). Eine 
+&#220;bernahmeaufforderung des Systems darf die Sicherheit der Fahrzeuginsassen oder anderer
+Verkehrsteilnehmender nicht gef&#228;hrden. Wenn die fahrzeugf&#252;hrende Person w&#228;hrend der &#220;bernahmeaufforderung die
+Kontrolle &#252;ber die Fahraufgabe nicht wieder aufnimmt, f&#252;hrt das System ein Man&#246;ver zur Minimierung des Risikos
+(MRM &#8211; Minimum Risk Manoeuvre) durch. Bei einem MRM muss das System die Risiken f&#252;r die Sicherheit
+der Fahrzeuginsassen und anderer Verkehrsteilnehmender minimieren. Das System muss Selbst&#252;berpr&#252;fungen
+durchf&#252;hren, um das Auftreten von Ausf&#228;llen zu erkennen und die Systemleistung jederzeit zu best&#228;tigen (z. B. 
+dadurch, dass das System nach dem Fahrzeugstart mindestens einmal ein Objekt in demselben oder einem
+gr&#246;&#223;eren Abstand als dem mindestens angegebenen Erfassungsbereich erkannt hat). Die Wirksamkeit des Systems
+darf durch bestimmte magnetische oder elektrische Felder nicht beeintr&#228;chtigt werden. Hersteller m&#252;ssen
+Vorkehrungen treffen, um das System vor einem angemessen vorhersehbaren Missbrauch und Manipulationen 
+durch die fahrzeugf&#252;hrende Person zu sch&#252;tzen. Kann das System die Anforderungen dieser Regelung nicht 
+(mehr) erf&#252;llen, so darf es nicht (mehr) m&#246;glich sein, das System zu aktivieren. Die Hersteller implementieren
+ein Verfahren zur Aufrechterhaltung der Systemsicherheit und der fortgesetzten Konformit&#228;t des ALKS-
+Systems mit der Regelung &#252;ber die System-Lebensdauer.
+Dynamische Fahraufgabe
+Das aktivierte System muss das Fahrzeug innerhalb seiner Fahrspur halten und sicherstellen, dass das Fahrzeug
+keine Spurmarkierungen &#252;berquert. Das System soll das Fahrzeug m&#246;glichst in einer stabilen lateralen Position
+innerhalb der Fahrspur halten, um andere Verkehrsteilnehmer nicht zu verwirren. Das aktivierte System muss
+ein Fahrzeug erkennen, das in der Nachbarspur f&#228;hrt und gegebenenfalls die Geschwindigkeit und/oder die 
+seitliche Position des Fahrzeugs innerhalb seiner Fahrspur darauf einstellen. Das aktivierte System kontrolliert 
+die Geschwindigkeit des Fahrzeugs. Die H&#246;chstgeschwindigkeit, bis zu der das System betrieben werden darf,
+betr&#228;gt 60 km/h. Das aktivierte System muss die Fahrzeuggeschwindigkeit an die Infrastruktur- und
+Umgebungsbedingungen (z. B. schmale Kurvenradien, schlechtes Wetter) anpassen. Das aktivierte System muss den
+Abstand zum n&#228;chsten vorausfahrenden Fahrzeug erkennen und muss die Fahrzeuggeschwindigkeit anpassen,
+um einen Zusammensto&#223; zu vermeiden. W&#228;hrend sich das ALKS-Fahrzeug nicht im Stillstand befindet, muss
+das System die Geschwindigkeit anpassen, um den Abstand zu einem vorausfahrenden Fahrzeug auf derselben 
+Spur so anzupassen, dass er gleich oder gr&#246;&#223;er als der vorgeschriebene minimale Folgeabstand ist. Kann der
+Mindestabstand aufgrund anderer Verkehrsteilnehmender (z. B. Einscherendes Fahrzeug, Abbremsen des
+vorausfahrenden Fahrzeugs usw.) vor&#252;bergehend nicht eingehalten werden, muss das Fahrzeug bei der n&#228;chsten 
+verf&#252;gbaren Gelegenheit ohne hartes Bremsen den Mindestabstand wieder herstellen (zur Vermeidung einer
+Kollision darf ungeachtet dessen stark notgebremst werden, s.u. unter Notfallman&#246;ver). Der erforderliche
+Mindestabstand ist geschwindigkeitsabh&#228;ngig im Bereich von 2 m/s (7,2 km/h) und 16,7 m/s (60 km/h) linear als
+Zeitl&#252;cke zwischen 1,0 und 1,6 Sekunden vorgegeben und darf aber auch unter 2 m/s nicht weniger als 2 m
+betragen. Das aktivierte System muss in der Lage sein, das Fahrzeug hinter einem stehenden Fahrzeug,
+station&#228;ren Verkehrsteilnehmenden oder in einer blockierten Fahrspur vollst&#228;ndig zum Stehen zu bringen, um eine
+Kollision zu vermeiden. Dies ist bis zur maximalen Betriebsgeschwindigkeit des Systems zu gew&#228;hrleisten. Das
+aktivierte System muss die Gefahr eines Zusammensto&#223;es erkennen, insbesondere mit anderen
+Verkehrsteilnehmenden, die sich vor oder neben dem Fahrzeug befinden, aufgrund eines abbremsenden vorausfahrenden
+Fahrzeugs, eines Einscherenden oder eines pl&#246;tzlich auftretenden Hindernisses, und muss automatisch
+geeignete Man&#246;ver durchf&#252;hren, um die Risiken f&#252;r die Sicherheit der Fahrzeuginsassen und anderer
+Verkehrsteilnehmender zu minimieren. F&#252;r Bedingungen, die nicht explizit geregelt sind, ist dies zumindest so weit zu
+gew&#228;hrleisten, wie eine kompetente und sorgsame menschliche fahrzeugf&#252;hrende Person die Risiken
+entsprechend minimieren k&#246;nnte. Explizit geregelt ist Folgendes: Das aktivierte System muss einen Zusammensto&#223;
+mit einem vorausfahrenden Fahrzeug, das bis zu seiner vollen Bremsleistung verz&#246;gert, verhindern, sofern der
+Mindestabstand des ALKS-Fahrzeugs nicht gerade aufgrund eines Einscherenden noch nicht wieder
+ausreichend eingestellt war. Das aktivierte System muss eine Kollision mit einem Einscherenden vermeiden, sofern
+der Einscherende seine konstante L&#228;ngsgeschwindigkeit beibeh&#228;lt, die niedriger als die L&#228;ngsgeschwindigkeit
+des ALKS-Fahrzeugs ist, und die seitliche Bewegung des Einscherenden rechtzeitig und mit ausreichendem,
+definiertem Abstand vor Erreichen eines definierten Bezugspunkts f&#252;r eine Time to Collision (TTC) sichtbar
+ist. Das aktivierte System muss einen Zusammensto&#223; mit vor dem Fahrzeug unverdeckt querenden, gehenden
+Fu&#223;g&#228;ngern bis zur maximalen Betriebsgeschwindigkeit des ALKS-Systems vermeiden. In Situationen, in
+denen die Erf&#252;llung obiger Anforderung unter anderen als den oben beschriebenen Bedingungen eventuell nicht
+vollst&#228;ndig erreicht werden kann, darf das System die Steuerungsstrategie unter diesen anderen Bedingungen
+jedoch nicht deaktivieren oder unangemessen ab&#228;ndern.
+Notfallman&#246;ver (EM &#8211; Emergency Manoeuvre)
+Bei einer drohenden Kollisionsgefahr ist ein Notfallman&#246;ver durchzuf&#252;hren. Jede Verz&#246;gerungsanforderung in 
+L&#228;ngsrichtung des Systems von mehr als 5,0 m/s2 gilt als EM. In diesem Man&#246;ver muss das Fahrzeug
+gegebenenfalls bis zu seiner vollen Bremsleistung verz&#246;gern und/oder gegebenenfalls ein automatisches
+Ausweichman&#246;ver durchf&#252;hren. Beeintr&#228;chtigen Fehler die Brems- oder Lenkleistung des Systems, so ist das Man&#246;ver unter
+Ber&#252;cksichtigung der verbleibenden Leistung durchzuf&#252;hren. W&#228;hrend des Ausweichman&#246;vers darf das ALKS-
+Fahrzeug die Fahrstreifenmarkierungen nicht &#252;berqueren. Nach dem Ausweichman&#246;ver soll das Fahrzeug auf
+wieder eine stabilisierte Fahrposition anstreben. Ein Notfallman&#246;ver darf nicht beendet werden, bevor die
+unmittelbare Kollisionsgefahr verschwunden ist oder die fahrzeugf&#252;hrende Person das System deaktiviert hat.
+Nach einem Notfallman&#246;ver soll das System weiter betrieben werden und im Falle des Stillstands des Fahrzeugs
+ist die Warnblinklichtanlage zu aktivieren und wenn das Fahrzeug automatisch wieder los f&#228;hrt auch
+automatisch das Warnblinklicht wieder zu deaktivieren. Das Fahrzeug muss w&#228;hrend des EM gem&#228;&#223; den Bedingungen 
+der UN-Regelung Nr. 13 H ein Notbremssignal anzeigen.
+&#220;bernahmeaufforderung und Systembetrieb w&#228;hrend der &#220;bernahmephase (Transition)
+Das aktivierte System muss alle Situationen, in denen es die Steuerung zur&#252;ck zur fahrzeugf&#252;hrenden Person
+&#252;bergeben muss, erkennen. Die Einleitung der &#220;bernahmeaufforderung muss so erfolgen, dass ausreichend Zeit
+f&#252;r einen sicheren &#220;bergang zum manuellen Fahren vorgehalten wird. Im Falle eines absehbaren oder geplanten
+Ereignisses, das ALKS an der Fortf&#252;hrung des Betriebs hindern w&#252;rde, ist eine &#220;bernahmeaufforderung
+fr&#252;hzeitig genug zu geben, um sicherzustellen, dass das MRM, falls die fahrzeugf&#252;hrende Person die Kontrolle nicht
+wieder &#252;bernehmen w&#252;rde, das Fahrzeug vor dem geplanten Ereignis zum Stillstand bringen w&#252;rde. Im Falle 
+eines ungeplanten Ereignisses ist unmittelbar bei der Detektion des Ereignisses eine &#220;bernahmeaufforderung
+zu geben. Im Falle einer Fehlfunktion oder eines Ausfalls, der den Betrieb des Systems beeintr&#228;chtigt, muss das
+System unverz&#252;glich nach dessen Erkennung eine &#220;bernahmeaufforderung einleiten. W&#228;hrend der
+&#220;bernahmephase muss das System weiter betrieben werden. Das System darf die Geschwindigkeit des Fahrzeugs
+verringern, um seinen sicheren Betrieb zu gew&#228;hrleisten, es darf das Fahrzeug jedoch in der &#220;bernahmephase nicht
+zum Stillstand bringen, es sei denn, dies ist aufgrund der Situation erforderlich (z. B. aufgrund von Fahrzeugen
+oder Hindernissen, die den Weg des Fahrzeugs behindern). Nach einem Stillstand darf das Fahrzeug in diesem
+Zustand bleiben und muss die Warnblinkanlage innerhalb von f&#252;nf Sekunden aktivieren. W&#228;hrend der
+&#220;bernahmephase muss die &#220;bernahmeaufforderung sp&#228;testens vier Sekunden nach Beginn eskalieren. Eine
+&#220;bernahmeaufforderung darf erst beendet werden, wenn das System deaktiviert ist oder ein MRM begonnen hat.
+Reagiert die fahrzeugf&#252;hrende Person nicht auf eine &#220;bernahmeaufforderung, indem sie das System deaktiviert 
+oder die Fahraufgabe wieder &#252;bernimmt, so darf fr&#252;hestens zehn Sekunden nach Beginn der
+&#220;bernahmeaufforderung ein MRM gestartet werden. Ungeachtet dessen darf bei einem schwerwiegendem System- oder
+Fahrzeugfehler sofort ein MRM eingeleitet werden. Im Falle solcher Fehler kann ALKS zwar eventuell nicht mehr
+in der Lage sein, die Anforderungen dieser Regelung zu erf&#252;llen, soll aber trotzdem einen sicheren &#220;bergang
+der Kontrolle zur&#252;ck zum Fahrer anstreben und erm&#246;glichen.
+Man&#246;ver zur Minimierung des Risikos (MRM)
+W&#228;hrend des MRM muss das Fahrzeug innerhalb der Fahrspur oder, falls die Fahrbahnmarkierungen nicht
+sichtbar sind, unter Ber&#252;cksichtigung des Verkehrs und der Stra&#223;eninfrastruktur auf einer geeigneten
+Fahrtrajektorie bleiben und mit einer angestrebten Verz&#246;gerung von nicht mehr als 4,0 m/s2 verlangsamt
+werden. H&#246;here Verz&#246;gerungswerte sind f&#252;r sehr kurze Zeitintervalle zul&#228;ssig, z.B. als haptische Warnung zur
+Stimulierung der Fahreraufmerksamkeit oder bei schwerwiegenden ALKS- oder Fahrzeugfehlern. Zus&#228;tzlich
+muss die Warnblinkanlage mit dem Beginn des MRM eingeschaltet werden. Das MRM muss das Fahrzeug zum
+Stillstand bringen, es sei denn, das System wird von der fahrzeugf&#252;hrenden Person w&#228;hrend des Man&#246;vers
+deaktiviert. Ein MRM darf erst beendet werden, wenn das System deaktiviert ist oder das System das Fahrzeug
+zum Stillstand gebracht hat. Das System muss am Ende eines MRM automatisch deaktiviert werden. Die
+Warnblinkanlage bleibt aktiviert, es sei denn, sie wird manuell deaktiviert und das Fahrzeug darf sich nach dem
+Stillstand ohne manuelle Fahrereingabe nicht wieder fortbewegen. Eine Reaktivierung des Systems nach
+Beendigung eines MRM darf erst nach einem neuen Motorstart / Z&#252;ndungslaufzyklus wieder m&#246;glich sein.
+Mensch-Maschine-Schnittstelle / Bedienerinformationen
+Das System muss ein System zur Erkennung der Verf&#252;gbarkeit der fahrzeugf&#252;hrenden Person umfassen. Das
+Erkennungssystem f&#252;r die Verf&#252;gbarkeit der fahrzeugf&#252;hrenden Person muss erkennen k&#246;nnen, ob sich die 
+fahrzeugf&#252;hrende Person in einer geeigneten Fahrposition befindet, ob ihr Sicherheitsgurt angelegt ist und ob 
+sie f&#252;r die &#220;bernahme der Fahraufgabe zur Verf&#252;gung steht. Eine &#220;bernahmeaufforderung muss eingeleitet
+werden, wenn festgestellt wird, dass die fahrzeugf&#252;hrende Person l&#228;nger als eine Sekunde nicht auf dem Sitz 
+sitzt oder wenn ihr Sicherheitsgurt nicht geschlossen ist. Die fahrzeugf&#252;hrende Person gilt als nicht verf&#252;gbar,
+wenn nicht mindestens durch zwei Verf&#252;gbarkeitskriterien (z. B. Eingabe in die fahrerexklusive
+Fahrzeugsteuerung, Lidschlag, geschlossene Augen, Kopf- oder K&#246;rperbewegungen) in den letzten 30 Sekunden festgestellt 
+wurde, dass die fahrzeugf&#252;hrende Person verf&#252;gbar ist. Das System darf die fahrzeugf&#252;hrende Person jederzeit
+f&#252;r nicht verf&#252;gbar halten. Sobald die fahrzeugf&#252;hrende Person als nicht verf&#252;gbar gilt oder weniger als zwei 
+Verf&#252;gbarkeitskriterien &#252;berwacht werden k&#246;nnen, muss das System unverz&#252;glich eine deutliche Warnung
+ausgeben, bis geeignete Ma&#223;nahmen der fahrzeugf&#252;hrenden Person ergriffen und entweder innerhalb von 15
+Sekunden durch das System erkannt worden sind oder entsprechend anschlie&#223;end ein &#220;bernahmeaufforderung
+eingeleitet worden ist. Das f&#252;r die &#220;berpr&#252;fung der Verf&#252;gbarkeitskriterien erforderliche Zeitintervall darf
+jedoch 30 Sekunden nicht &#252;berschreiten. Nebent&#228;tigkeitsm&#246;glichkeiten &#252;ber fahrzeugseitige Systeme, die bei der
+Aktivierung des ALKS der fahrzeugf&#252;hrenden Person zur Verf&#252;gung gestellt werden k&#246;nnen, m&#252;ssen
+automatisch ausgesetzt werden, sobald das System einen &#220;bernahmeaufforderung ausgibt oder sobald das System
+deaktiviert wird, je nachdem was zuerst eintritt.
+Das Fahrzeug muss mit speziellen Bedienm&#246;glichkeiten ausgestattet sein, damit die fahrzeugf&#252;hrende Person
+das System aktivieren (einschalten) und deaktivieren (ausschalten) kann. Wenn das ALKS aktiviert ist, m&#252;ssen
+diese Bedienm&#246;glichkeiten zur Deaktivierung von ALKS f&#252;r die fahrzeugf&#252;hrende Person dauerhaft sichtbar
+sein. Der Standardstatus des Systems ist der Aus-Modus bei Beginn jedes neuen Motorstarts /
+Z&#252;ndungslaufzyklus, ausgenommen beispielsweise beim Betrieb eines Start-/Stoppsystems. Das System darf nur nach
+bewusstem Handeln der fahrzeugf&#252;hrenden Person und wenn alle folgenden Bedingungen erf&#252;llt sind aktiv
+werden: Die fahrzeugf&#252;hrende Person muss auf dem Fahrersitz sitzen und ihr Sicherheitsgurt muss angelegt sein,
+sie ist als verf&#252;gbar erkannt um die Kontrolle &#252;ber die Fahraufgabe wieder &#252;bernehmen zu k&#246;nnen, es liegt kein
+Ausfall vor, der den sicheren Betrieb oder die Funktionalit&#228;t des ALKS beeintr&#228;chtigt, der DSSAD (DSSAD &#8211;
+Data Storage System for Automated Driving) ist betriebsbereit, die Umwelt- und Infrastrukturbedingungen
+erlauben den Betrieb, es liegt eine positive Best&#228;tigung der Systemselbstkontrolle vor und das Fahrzeug befindet
+sich auf Stra&#223;en, auf denen Fu&#223;g&#228;nger und Radfahreende verboten sind und die durch ihre Anlage mit einer
+physischen Trennung der Richtungsfahrbahnen ausgestattet sind, die den Verkehr in entgegengesetzte
+Richtungen separiert. Ist eine der vorstehenden Bedingungen nicht mehr erf&#252;llt, so leitet das System unverz&#252;glich eine
+&#220;bernahmeaufforderung ein, sofern in der Regelung nichts anderes vorgegeben ist. Es muss m&#246;glich sein, das
+System durch eine bewusste Handlung der fahrzeugf&#252;hrenden Person mit den gleichen Bedienelementen wie 
+bei der Aktivierung des Systems manuell zu deaktivieren. Die Bedienelemente zur Deaktivierung m&#252;ssen
+Schutz vor unbeabsichtigter manueller Bedienung bieten, beispielsweise indem sie eine spezielle Eingabe mit
+einem bestimmten Zeitschwellenwert oder eine Doppelbet&#228;tigung oder zwei separate, aber gleichzeitige
+Eingaben erfordern. Dar&#252;ber hinaus ist sicherzustellen, dass die fahrzeugf&#252;hrende Person zum Zeitpunkt der
+Deaktivierung die Spurf&#252;hrungskontrolle &#252;ber das Fahrzeug hat, indem z. B. die Bedienelemente zur Deaktivierung
+an der Lenkung platziert sind oder anderweitig best&#228;tigt wird, dass die fahrzeugf&#252;hrende Person die Kontrolle
+&#252;ber die Lenkung innehat. Das System darf ausschlie&#223;lich durch bestimmte Fahrereingaben deaktivierbar sein.
+Im Falle eines laufenden Notfallman&#246;vers kann die Deaktivierung des Systems verz&#246;gert werden, bis die
+drohende Kollisionsgefahr verschwunden ist. Im Falle eines schwerwiegenden System- oder Fahrzeugfehlers kann 
+ALKS abweichende Strategien zur Deaktivierung anwenden. Generell darf es bei der Deaktivierung des
+Systems keinen automatischen &#220;bergang zu einer Fahrfunktion geben, die eine kontinuierliche L&#228;ngs- und/oder
+Querkontrolle des Fahrzeugs erm&#246;glicht (z. B. ACSF der Kategorie B1). Nach der Deaktivierung von ALKS
+darf eine korrigierende Lenkunterst&#252;tzung (Corrective Steering Function - CSF) mit schrittweise reduzierter
+Unterst&#252;tzung aktiv sein, um die fahrzeugf&#252;hrende Person dabei zu unterst&#252;tzen und zu leiten, die
+Spurf&#252;hrungsaufgabe wieder besser manuell auszuf&#252;hren. Ungeachtet der beiden vorstehenden S&#228;tze darf jedes andere
+Fahrzeugsicherheitssystem, das in drohenden, akuten Kollisionssituationen L&#228;ngs- oder Querunterst&#252;tzung
+liefert (z. B. Advanced Emergency Braking System (AEBS), Electronic Stability Control (ESC), Brake Assist
+System (BAS) oder Emergency Steering Function (ESF)), im Falle der Deaktivierung von ALKS nicht
+deaktiviert werden. Jede Deaktivierung ist der fahrzeugf&#252;hrenden Person anzuzeigen.
+Ein Eingriff der fahrzeugf&#252;hrenden Person in die Lenkung setzt die Querregelfunktion des Systems nur dann
+au&#223;er Kraft, wenn die Eingabe einen angemessenen Schwellenwert &#252;berschreitet, der eine unbeabsichtigte
+&#220;berschreibung verhindern soll. Eingaben der fahrzeugf&#252;hrenden Person in die Bremse, die zu einer h&#246;heren
+Verz&#246;gerung als die durch das System induzierte f&#252;hrt oder das Fahrzeug im Stillstand h&#228;lt, m&#252;ssen die
+L&#228;ngsregelungsfunktion des Systems &#252;berschreiben. Eingaben der fahrzeugf&#252;hrenden Person in das Gas-/Fahrpedal,
+d&#252;rfen die L&#228;ngsregelungsfunktion des Systems au&#223;er Kraft setzen. Eine solche Eingabe darf jedoch nicht dazu
+f&#252;hren, dass das System die Anforderungen dieser Regelung nicht mehr erf&#252;llt. Jede Eingabe der
+fahrzeugf&#252;hrenden Person in das Gas-/Fahrpedal oder die Bremse muss unverz&#252;glich eine &#220;bernahmeaufforderung
+einleiten, wenn die Eingabe einen angemessenen Schwellenwert &#252;berschreitet, der eine unbeabsichtigte Eingabe
+verhindern soll. Ungeachtet der obigen Vorgaben darf die Wirkung der Eingabe der fahrzeugf&#252;hrenden Person auf
+die Steuerung vom System verringert oder unterdr&#252;ckt werden, falls durch das System aufgrund dieser Eingabe 
+ein unmittelbares Kollisionsrisiko festgestellt wird. Bei einem schwerwiegenden System- oder Fahrzeugfehler
+kann ALKS abweichende Strategien in Bezug auf die System&#252;berschreibung anwenden.
+Der fahrzeugf&#252;hrenden Person m&#252;ssen wichtige Angaben &#252;ber den Systemstatus und aktuelle Ereignisse vom
+System bereitgestellt werden. Jeder Ausfall, die Systemstatus&#228;nderungen oder &#220;bernahmeaufforderungen
+m&#252;ssen mit mindestens einem optischen Signal angezeigt werden. Bei einer &#220;bernahmeaufforderung muss dar&#252;ber
+hinaus ein zus&#228;tzliches akustisches und/oder haptisches Warnsignal ausgegeben werden, das bzw. die sp&#228;testens
+vier Sekunden nach Einleitung der &#220;bernahmeaufforderung eskalieren und dann auch eine konstante oder
+intermittierende haptische Warnung enthalten muss. Ein MRM muss durch mindestens ein optisches Signal und
+zus&#228;tzlich ein akustisches und/oder haptisches Warnsignal und ein Notfallman&#246;ver durch ein optisches Signal
+angezeigt werden. Die obigen optischen Signale m&#252;ssen in Gr&#246;&#223;e und Kontrast ausreichend sein. Die
+akustischen Signale m&#252;ssen laut und deutlich sein. Mit der Aktivierung muss der Systemstatus (aktiver Modus) durch 
+ein dezidiertes optisches Signal der fahrzeugf&#252;hrenden Person angezeigt werden. Die Anzeige muss ein Lenkrad 
+oder ein Fahrzeugsymbol mit einem zus&#228;tzlichen &#8222;A&#8220; oder &#8222;AUTO&#8220; oder den standardisierten Symbolen gem&#228;&#223;
+der UN-Regelung Nr. 121 enthalten. Zus&#228;tzlich muss eine leicht wahrnehmbare Anzeige ausgegeben werden, 
+die sich im peripheren Sichtfeld in der N&#228;he der direkten Sichtlinie der fahrzeugf&#252;hrenden Person nach au&#223;en
+vor dem Fahrzeug befindet, z. B. eine auff&#228;llige Anzeige im Kombiinstrument oder am Lenkradkranz. Das
+optische Signal muss den aktiven Systemzustand konstant anzeigen, bis das System deaktiviert ist. Mit Beginn 
+einer &#220;bernahmeaufforderung muss zumindest die oben beschriebene Anzeige im peripheren Sichtfeld seine
+Eigenschaften &#228;ndern, z. B. in ein intermittierendes, niederfrequentes Signal oder ein Signal mit anderer Farbe
+wechseln, ohne die fahrzeugf&#252;hrende Person damit unangemessen zu alarmieren. W&#228;hrend einer
+&#220;bernahmeaufforderung und eines MRM darf die obige Anzeige im peripheren Sichtfeld auch durch eine angezeigte
+Textanweisung ersetzt werden, die manuelle Steuerung wieder zu &#252;bernehmen. Bei der Deaktivierung des Systems,
+wenn der Systemstatus vom aktiven Modus in den ausgeschalteten Modus wechselt, m&#252;ssen die optischen
+Anzeigen des Systems wieder ausgeschaltet werden. Zus&#228;tzlich ist bei Deaktivierung ein akustisches Warnsignal
+vorzusehen, es sei denn, das System wird nach einer &#220;bernahmeaufforderung, die bereits ein akustisches Signal
+enthielt, deaktiviert. W&#228;hrend einer &#220;bernahmeaufforderung und einem MRM muss das System die
+fahrzeugf&#252;hrende Person intuitiv und eindeutig auffordern und anleiten, die manuelle Steuerung des Fahrzeugs zu
+&#252;bernehmen. Diese Anweisung muss eine Bilddarstellung enthalten, die die H&#228;nde und das Lenkrad zeigt, und kann
+mit zus&#228;tzlichem erl&#228;uternden Text oder Warnsymbolen versehen werden. Mit Beginn eines MRM muss das
+obige bildliche Signal seine Eigenschaften &#228;ndern, um die Dringlichkeit eines Eingriffs der fahrzeugf&#252;hrenden
+Person hervorzuheben, z. B. durch rotes Blinken des Lenkrads und bewegte H&#228;nde in der Bilddarstellung.
+Neben diesen Beispielen darf stattdessen auch eine angemessene und ebenso wahrnehmbare Darstellung f&#252;r die 
+optischen Signale verwendet werden, die entsprechend vom Hersteller nachzuweisen und zu dokumentieren ist.
+Die Warnungen eines ALKS w&#228;hrend einer &#220;bernahmeaufforderung, eines MRM oder eines Notfallman&#246;vers
+d&#252;rfen vorrangig gegen&#252;ber anderen Warnungen im Fahrzeug erfolgen.
+Objekt- und Ereigniserkennung und Reaktion darauf (OEDR)
+Das ALKS-Fahrzeug muss mit einem Sensorsystem ausgestattet sein, das zumindest die Fahrumgebung (z. B. 
+Fahrbahngeometrie, Fahrbahnmarkierungen) und die Verkehrsdynamik &#252;ber die gesamte Breite der eigenen
+Fahrspur und die gesamte Breite der Fahrspuren unmittelbar nach links und rechts bis zur Begrenzung des
+vorderen Erfassungsbereichs und entlang der gesamten Fahrzeugl&#228;nge bis zur Grenze des seitlichen
+Erfassungsbereichs bestimmen kann. Hersteller m&#252;ssen den Erfassungsbereich nach vorne angeben. Dieser angegebene
+Wert muss mindestens 46 Meter betragen. Hersteller m&#252;ssen zudem den seitlichen Erfassungsbereich angeben.
+Der angegebene Bereich muss ausreichen, um die gesamte Breite der Fahrspur unmittelbar links und die
+Fahrspur direkt rechts vom Fahrzeug abzudecken. Das ALKS muss Strategien zur Erkennung und Kompensation
+von Umgebungsbedingungen, die den Erfassungsbereich verringern, bereithalten und z. B. verhindern, dass das
+System aktiviert wird, das System deaktivieren und die Steuerung zur&#252;ck an die fahrzeugf&#252;hrende Person
+&#252;bertragen oder die Geschwindigkeit bei zu geringer Sicht verringern. Verschlei&#223; und Alterung des Systems d&#252;rfen
+&#252;ber die gesamte Lebensdauer des Systems/Fahrzeugs die Leistung des Sensorsystems nicht unter die
+Mindestwerte senken.
+Datenspeichersystem f&#252;r automatisierte Systeme (DSSAD)
+Jedes Fahrzeug, das mit ALKS ausger&#252;stet ist, muss mit einem DSSAD ausgestattet sein, der die nachstehenden
+Anforderungen erf&#252;llt. Jedes Fahrzeug, das mit einem DSSAD ausger&#252;stet ist, muss bei Aktivierung des
+Systems mindestens einen Eintrag f&#252;r jedes der folgenden Ereignisse aufzeichnen: Aktivierung des Systems,
+Deaktivierung des Systems aufgrund von Abschaltung durch die fahrzeugf&#252;hrende Person oder &#220;bersteuerung
+der Lenkung oder &#220;bersteuerung durch Beschleunigen oder Verz&#246;gern mit den H&#228;nden am Lenkrad,
+&#220;bernahmeaufforderung des Systems aufgrund von geplanten oder ungeplanten Situationen oder wenn die
+fahrzeugf&#252;hrende Person nicht mehr verf&#252;gbar ist oder ein Systemausfall vorliegt oder das System durch Gas oder Bremse
+durch die fahrzeugf&#252;hrende Person &#252;bersteuert wurde, eine Eingabe der fahrzeugf&#252;hrenden Person verringert
+oder unterdr&#252;ckt wurde, bei Beginn und Ende eines Notfallman&#246;vers, beim Trigger eines EDR (EDR &#8211; Event 
+Data Recorder), bei einer detektierten Kollision, bei einem MRM und bei einem schwerwiegenden ALKS- oder
+Fahrzeugfehler. F&#252;r jedes dieser aufgef&#252;hrten Ereignisse zeichnet das DSSAD zumindest die folgenden
+Datenelemente in einer klar identifizierbaren Weise auf: Das aufgef&#252;hrte Vorkommen, Grund f&#252;r das Auftreten,
+Datum und Zeitstempel mit einer Genauigkeit von +/- 1,0 Sekunde und die zum Ereignis g&#252;ltige Softwareversion.
+DSSAD-Daten sind vorbehaltlich der Anforderungen des nationalen und regionalen Rechts verf&#252;gbar zu halten.
+Sobald die Speichergrenzen des DSSAD erreicht sind, werden vorhandene Daten nach Alter mit dem Grundsatz
+der Einhaltung der einschl&#228;gigen Anforderungen an die Datenverf&#252;gbarkeit &#252;berschrieben. Die Daten m&#252;ssen
+crashsicher nach dem Schweregrad verf&#252;gbar sein, der in den UN-Regelungen Nr. 94, 95 oder 137 festgelegt
+ist. Steht die Hauptstromversorgung des Bordfahrzeugs nicht zur Verf&#252;gung, so muss es weiterhin m&#246;glich sein,
+alle auf dem DSSAD erfassten Daten abzurufen, wie dies nach nationalem und regionalem Recht
+vorgeschrieben ist. Im DSSAD gespeicherte Daten m&#252;ssen &#252;ber die Verwendung einer elektronischen
+Kommunikationsschnittstelle, zumindest &#252;ber die Standardschnittstelle (OBD-Port) einfach abrufbar sein. Es ist darauf zu achten, 
+dass ein angemessener Schutz vor Manipulationen (z. B. Datenl&#246;schung oder -manipulation) besteht.
+Cybersicherheit und Software-Updates
+Die Wirksamkeit des Systems darf durch Cyberangriffe, Cyberbedrohungen und andere m&#246;gliche Angriffs- und 
+Ver&#228;nderungsm&#246;glichkeiten auf die Software nicht beeintr&#228;chtigt werden. Erlaubt das System Software-
+Updates, so muss die Wirksamkeit der Softwareaktualisierung und des Verfahrens durch die Einhaltung der
+entsprechenden UN-Regelungen (UN-Regelung Nr. 155 &#8211; Cyber security and cyber security management system
+und UN-Regelung Nr. 156 &#8211; Software updates and software updates management systems) demonstriert
+werden. Die Software-Version des Systems muss eindeutig identifiziert werden k&#246;nnen.
+Quellenverzeichnis
+Collet, C., Musicant, O. (2019). Associating vehicles automation with drivers functional state assessment 
+systems: A challenge for road safety in the future. Front. Hum. Neurosci. 13:131.
+doi: 10.3389/fnhum.2019.00131.
+Damb&#246;ck, D., Farid, M., T&#246;nert, L., Bengler, K. (2012). &#220;bernahmezeiten beim hochautomatisierten Fahren.
+5. Tagung Fahrerassistenz &#8211; Schwerpunkt Vernetzung. M&#252;nchen: T&#220;V S&#252;d Akademie GmbH.
+www.ftm.mw.tum.de/uploads/media/24\_Damboeck.pdf
+Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a
+framework for the approval of motor vehicles and their trailers, and of systems, components and
+separate technical units intended for such vehicles (Framework Directive), OJ L 263, 9.10.2007, p. 1&#8211; 
+160.
+Fahrenkrog, F. et al. (2020). Draft and results from pilot application of draft CoP. EU-project L3Pilot,
+Deliverable 2.2.
+Feldh&#252;tter, A., Hecht, T., Bengler, K. (2018). Fahrerspezifische Aspekte beim hochautomatisierten Fahren.
+Schlussbericht zum Forschungsprojekt FE 82.0628/2015 im Auftrag der Bundesanstalt f&#252;r
+Stra&#223;enwesen. bast.opus.hbz-nrw.de/frontdoor/index/index/docId/1890
+Feldh&#252;tter, A., Hecht, T., Kalb, L., Bengler, K. (2019a). Effect of prolonged periods of conditionally
+automated driving on the development of fatigue: With and without non-driving-related activities.
+Cognition, Technology &amp; Work, 21(1), 33-40.
+Feldh&#252;tter, A., Ruhl, A., Feierle, A., Bengler, K. (2019b). The Effect of Fatigue on Take-over Performance in
+Urgent Situations in Conditionally Automated Driving. 2019 IEEE Intelligent Transportation Systems
+Conference (ITSC), Auckland, New Zealand, pp. 1889-1894.
+Framework Document (2019). Revised Framework document on automated/autonomous vehicles,
+ECE/TRANS/WP.29/2019/34/Rev.1 World Forum for Harmonization of Vehicle Regulations, Geneva,
+2019.
+Frey, A. (2019). M&#252;digkeit und Vigilanz einer automatisierten Realfahrt. In: Tagungsband der 10. VDI-
+Fachtagung &#8222;Mensch-Maschine-Mobilit&#228;t 2019&#8220;, Braunschweig, 05. - 06. November 2019, S. 121.
+Gasser, T. M., Arzt, C., Ayoubi, M., Bartels, A., B&#252;rkle, L., Eier, J., &#8230; &amp; Lotz, C. (2012). Rechtsfolgen
+zunehmender Fahrzeugautomatisierung. Berichte der Bundesanstalt f&#252;r Stra&#223;enwesen, Heft F 83.
+Hohm, A., Klejnowski, L., Skibinski, S., Bengler, K., Berger, S., Vetter, J., Krug, S. (2018). KO-HAF -
+Kooperatives Hochautomatisiertes Fahren (Projekt&#252;bergreifender Schlussbericht).
+Homans H., Radlmayr J., Bengler K. (2020) Levels of Driving Automation from a User&#8217;s Perspective: How
+Are the Levels Represented in the User&#8217;s Mental Model?. In: Ahram T., Taiar R., Colson S., Choplin
+A. (eds) Human Interaction and Emerging Technologies. IHIET 2019. Advances in Intelligent Systems
+and Computing, vol 1018. Springer, Cham. https://doi.org/10.1007/978-3-030-25629-6_4Japanese
+Ministry of Land, Infrastructure, Transport and Tourism, MLIT (2019): White Paper on Land,
+Infrastructure, Transport and Tourism in Japan, 2019. www.mlit.go.jp/common/001325161.pdf
+Klamroth, A., Zerbe, A., Marx, T. (2019). Transitionen bei Level-3-Automation: Einfluss der
+Verkehrsumgebung auf die Bew&#228;ltigungsleistung des Fahrers w&#228;hrend Realfahrten.
+Forschungsvereinigung Automobiltechnik e. V., FAT-Schriftenreihe 323.
+K&#246;rber, M., Prasch, L., Bengler, K. (2018). Why do I have to drive now? Post-hoc explanations of take-over
+requests. Human Factors. 2018;60(3):305-323.
+Kre&#223;el, U. (2017). @City &#8211; Automatisierte Fahrzeuge und Intelligenter Verkehr in der Stadt. Vortrag im
+Rahmen der Fachtagung &#8222;Automatisiertes und vernetztes Fahren&#8220; des BMWi und BMBF, 30.11. &#8211;
+01.12.2017, Berlin. www.atcity-online.de
+Merat, N., Seppelt, B., Louw, T., Engstr&#246;m, J., Lee, J. D., Johansson, E., Green, C. A. et al. (2018). The &#8216;
+Outof-the-Loop&#8217; Concept in Automated Driving: Proposed Definition, Measures and Implications.
+Cognition, Technology &amp; Work (September 15, 2018).
+M&#246;rtl, P., Tr&#246;sterer, S., Marx, C., Santuccio, E., Neuhuber, N., Zachaeus, C., Katrakzas, C. (2019). 
+Description of initial Automated Driving application descriptions. EU-Project HADRIAN, Deliverable
+D1.1. www.hadrianproject.eu
+National Highway Traffic Safety Administration (2016): Cybersecurity best practices for modern vehicles.
+Report No. DOT HS 812 333. Washington,
+DC. www.nhtsa.gov/sites/nhtsa.dot.gov/files/documents/812333_cybersecurityformodernvehicles.pdf
+National Highway Traffic Safety Administration (2017): Automated Driving Systems 2.0: A Vision for Safety
+(AV 2.0). Report No. DOT HS 812 442. Washington,
+DC. www.nhtsa.gov/sites/nhtsa.dot.gov/files/documents/13069a-ads2.0_090617_v9a_tag.pdf
+National Science and Technology Council &amp; U.S. Department of Transportation (2020): Ensuring American
+Leadership in Automated Vehicle Technologies: Automated Vehicles 4.0 (AV 4.0).
+www.transportation.gov/sites/dot.gov/files/2020-02/EnsuringAmericanLeadershipAVTech4.pdf
+National Highway Traffic Safety Administration (2020): U.S. Transportation Secretary Elaine L. Chao
+Announces Launch of AV TEST Online Tracking Tool. Press Release, September 2, 2020.
+www.nhtsa.gov/press-releases/av-test-initiative-tracking-tool-launch
+Naujoks, F., Befelein, D., Neukum, A. (2016). Welche Aspekte fahrfremder T&#228;tigkeiten schr&#228;nken die
+&#220;bernahmef&#228;higkeit beim hochautomatisierten Fahren ein? In: Fahrerassistenz und automatisiertes
+Fahren, VDI-Berichte Nr. 2288. D&#252;sseldorf, VDI-Verlag.
+Naujoks, F., Wiedemann, K., Sch&#246;mig, N., Hergeth, S., Keinath, A. (2018). Towards guidelines and
+verification methods for automated vehicle HMIs. Transportation Research Part F 60 (2019), 121-136.
+Nepaulsingh, J., Matsushita, N., Ellrott, J. (2020): Autonomous driving in Japan &#8211; part 1: road traffic law.
+Freshfields Bruckhaus Deringer. digital.freshfields.com/post/102ge6o/autonomous-driving-in-
+japanpart-1-road-traffic-law
+Owens, J. (2020): Keynote speech hold at the Automated Vehicles Symposium, July 29, 2020.
+www.nhtsa.gov/speeches-presentations/automated-vehicles-symposium
+Petermann-Stock, I., Hackenberg, L., Muhr, T., &amp; Mergl, C. (2013). Wie lange braucht der Fahrer? Eine 
+Analyse zu &#220;bernahmezeiten aus verschiedenen Nebent&#228;tigkeiten w&#228;hrend einer hochautomatisierten
+Staufahrt. 6. Tagung Fahrerassistenzsysteme - Der Weg zum automatischen Fahren. M&#252;nchen: T&#220;V
+S&#252;d Akademie GmbH.
+Prawitz, S., Bromberger, L. (2020): Automatisiertes Fahren: Honda darf Level-3-Autos verkaufen.
+www.automobil-industrie.vogle.de
+Radlmayr, J., Feldh&#252;tter, A., Frey, A., Jarosch, O., Marberger, C., Naujoks, F., . . . &amp; Bengler, K. (2018).
+Drowsiness and fatigue in conditionally automated driving&#8211;Towards an integrative framework. In:
+Proceedings of the Human Factors and Ergonomics Society Annual Meeting Europe Chapter, (HFES)
+2018.
+Rauch, N., Gradenegger, B., Kr&#252;ger, H.-P. (2007). Das Konzept des Situationsbewusstseins und seine 
+Implikationen f&#252;r die Fahrsicherheit. Forschungsvereinigung Automobiltechnik 
+e. V., FAT-Schriftenreihe 210.
+Regulation (EU) 858/2018 of the European Parliament and of the Council of 30 May 2018 on the approval
+and market surveillance of motor vehicles and their trailers, and of systems, components and separate 
+technical units intended for such vehicles, amending Regulations (EC) No 715/2007 and (EC) No
+595/2009 and repealing Directive 2007/46/EC (OJ L 151, 14.6.2018, pp. 1-218).
+Regulation (EU) 2019/2144 of the European Parliament and of the Council of 27 November 2019 on
+typeapproval requirements for motor vehicles and their trailers, and systems, components and separate 
+technical units intended for such vehicles, as regards their general safety and the protection of vehicle 
+occupants and vulnerable road users, amending Regulation (EU) 2018/858 of the European Parliament
+and of the Council and repealing Regulations (EC) No 78/2009, (EC) No 79/2009 and (EC) No
+661/2009 of the European Parliament and of the Council, Official Journal of the European Union, L
+325/1, 2019.
+SAE International (2018). Surface vehicle recommended practice &#8211; Taxonomy and definitions for terms
+related to driving automation systems for on-road motor vehicles. USA; 2018. J3016_201806.
+Schaarschmidt, E., Yen, R., Bosch, R., Zwicker, L., Schade, J., Petzoldt, T. (2020). Grundlagen zur
+Kommunikation zwischen automatisierten Kraftfahrzeugen und Verkehrsteilnehmern. Bericht zum
+Forschungsprojekt FE 82.0701/2017 im Auftrag der Bundesanstalt f&#252;r Stra&#223;enwesen (Ver&#246;ffentlichung 
+in Vorbereitung).
+Schieben, A., Wilbrink, M., Dietrich, A. et al. (2020). Designing the interaction of automated vehicles in
+mixed traffic environment: Insights from the interact project. Proc. of 8th Transport Research Arena 
+TRA, April 27 &#8211; 30, 2020, Helsinki, Finland.
+Sch&#246;mig N, Hargutt V, Neukum A, Petermann-Stock I, Othersen I (2015). The interaction between highly
+automated driving and the development of drowsiness. Proc Manuf 3:6652&#8211;6659.
+StVG (2017), Achtes Gesetz zur &#196;nderung des Stra&#223;enverkehrsgesetzes, Bundesgesetzblatt Jahrgang 2017
+Teil I Nr. 38, ausgegeben zu Bonn am 20. Juni 2017.
+The Japantimes (2020). Honda to launch world's first level 3 autonomous vehicle by March.
+www.japantimes.co.jp, Nov. 11, 2020.
+UN Regulation No. 79 (2018). Uniform provisions concerning the approval of vehicles with regard to steering
+equipment, Revision 4, E/ECE/324/Rev.1/Add.78/Rev.4-E/ECE/TRANS/505/Rev.1/Add.78/Rev.4, 7
+November 2018.
+(Proposal for a new UN Regulation ALKS, 2020). Proposal for a new UN Regulation on uniform provisions
+concerning the approval of vehicles with regards to Automated Lane Keeping System,
+ECE/TRANS/WP.29/2020/81), 6 April 2020.
+U.S. Department of Transportation (2018): Preparing for the Future of Transportation: Automated Vehicles
+3.0 (AV 3.0). www.transportation.gov/sites/dot.gov/files/docs/policy-initiatives/
+automatedvehicles/320711/preparing-future-transportation-automated-vehicle-30.pdf
+VDA (2015). Automatisierung - Von Fahrerassistenzsystemen zum automatisierten Fahren. Brosch&#252;re,
+Verband der Automobilindustrie e. V. (Hrsg.).
+Vo&#223;, G., Schwalm, M. (2020). Abweichungen von der akzeptierten Fahrleistungsschwelle in automatisierten
+Fahrsituationen. Berichte der Bundesanstalt f&#252;r Stra&#223;enwesen, Heft F 135.
+Walch, M., Lange, K., Baumann, M., Weber, M. (2015). Autonomous Driving: Investigating the feasibility of
+car-driver handover assistance. In: Proc. of AutomotiveUI &#8217;15, September 01 - 03, 2015, Nottingham,
+United Kingdom, 11 &#8211; 18.
+
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>Bericht &#252;ber die Ergebnisse der Evaluation der Regelungen zum automatisierten Fahren</titel>
+    <datum>2021-04-14</datum>
+  </document>
+  

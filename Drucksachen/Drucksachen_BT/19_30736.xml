@@ -1,0 +1,2165 @@
+<document>
+    <id>255543</id>
+    <drucksachetyp>Unterrichtung</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>2</vorgangsbezug_anzahl>
+    <dokumentnummer>19/30736</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>61d266ae14c29c0671273b5b85c73865</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>285930</id>
+      <titel>Forschungsrahmenprogramm der Bundesregierung zur IT-Sicherheit
+Digital. Sicher. Souver&#228;n.</titel>
+      <vorgangstyp>Bericht, Gutachten, Programm</vorgangstyp>
+    </vorgangsbezug>
+    <vorgangsbezug>
+      <id>279199</id>
+      <titel>Forschungsrahmenprogramm der Bundesregierung zur IT-Sicherheit
+Digital. Sicher. Souver&#228;n.</titel>
+      <vorgangstyp>Bericht, Gutachten, Programm</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium f&#252;r Bildung und Forschung</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/307/1930736.pdf</pdf_url>
+      <id>255543</id>
+      <dokumentnummer>19/30736</dokumentnummer>
+      <datum>2021-06-03</datum>
+      <verteildatum>2021-06-15</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Unterrichtung</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Deutscher Bundestag Drucksache 19/30736 
+19. Wahlperiode 03.06.2021 
+Unterrichtung
+durch die Bundesregierung
+Forschungsrahmenprogramm der Bundesregierung zur IT-Sicherheit
+Digital. Sicher. Souver&#228;n.
+Inhaltsverzeichnis
+Seite
+1 Digital. Sicher. Souver&#228;n ............................................................ 4
+2 Strategische Ziele der IT-Sicherheitsforschung ....................... 5
+2.1 Digitaler Wandel: sicher und nachhaltig ....................................... 5
+2.2 Daten und Know-how: gesch&#252;tzt und nutzbar .............................. 5
+2.3 Demokratie und Gesellschaft: stabil und digital ........................... 5
+2.4 Privatheit und Datenschutz: selbstbestimmt und innovativ .......... 6
+2.5 Innovation und Transfer: weltspitze und zukunftssicher .............. 6
+2.6 F&#252;hrende K&#246;pfe: qualifizieren und gewinnen ............................... 6
+2.7 Deutschland und Europa: technologisch souver&#228;n ....................... 7
+3 Herausforderungen f&#252;r die IT-Sicherheit ................................. 8
+3.1 IT-Sicherheit bietet Schutz und schafft Vertrauen ........................ 8
+3.1.1 Digitale Infrastrukturen sicher entwickeln und einsetzen ............. 8
+3.1.2 IT-Sicherheit verst&#228;ndlich und benutzbar entwickeln ................... 9
+3.1.3 Vertrauen in IKT durch IT-Sicherheit st&#228;rken .............................. 11
+3.2 IT-Sicherheit braucht Nachhaltigkeit und ist 
+Zukunftssicherung ........................................................................ 12
+3.2.1 IT-Sicherheit in Anwendungsfeldern st&#228;rken ............................... 13
+3.2.2 IT-Sicherheit in der Quanteninformationsverarbeitung 
+fr&#252;hzeitig entwickeln .................................................................... 17
+3.2.3 Zuk&#252;nftige Technologien der IT-Sicherheit beherrschen ............. 18
+Zugeleitet mit Schreiben des Bundesministeriums f&#252;r Bildung und Forschung vom 2. Juni 2021.
+Seite
+3.3 IT-Sicherheit sch&#252;tzt Privatheit und st&#252;tzt Demokratie ................ 19
+3.3.1 Grundrechte und informationelle Selbstbestimmung 
+sch&#252;tzen ........................................................................................ 20
+3.3.2 Desinformation bek&#228;mpfen ........................................................... 21
+3.3.3 Technik nach demokratischen Werten souver&#228;n gestalten ........... 22
+3.4 IT-Sicherheit ben&#246;tigt Partnerschaft und Exzellenz ..................... 23
+3.4.1 Technologische Souver&#228;nit&#228;t mit IT-Sicherheit ausbauen ............ 23
+3.4.2 Deutschland in der Wissenschaftslandschaft positionieren .......... 25
+3.4.3 Kooperation und Transfer weiter verbessern ................................ 25
+4 Umsetzung ................................................................................... 27
+4.1 Wissenschaftliche Kompetenzen und Exzellenz f&#246;rdern .............. 27
+4.1.1 Horizontale und aufbauende F&#246;rderprojekte ................................. 27
+4.1.2 Institutionelle F&#246;rderung ............................................................... 27
+4.1.3 Nachwuchs f&#252;r IT-Sicherheit ........................................................ 28
+4.2 Innovations&#246;kosystem und Transfer ausbauen ............................. 29
+4.2.1 Pilotinitiativen ............................................................................... 29
+4.2.2 Vertikale F&#246;rderprojekte ............................................................... 29
+4.2.3 F&#246;rderung von kleinen und mittleren Unternehmen sowie 
+Start-ups ........................................................................................ 29
+4.2.4 Sprunginnovationen erm&#246;glichen ................................................. 30
+4.3 Akteure vernetzen ......................................................................... 30
+4.3.1 Interdisziplin&#228;re Forschungsnetzwerke ......................................... 30
+4.3.2 Innovationsnetzwerke ................................................................... 31
+4.3.3 Strategische Netzwerke ................................................................. 32
+4.4 In den gesellschaftlichen Dialog treten ......................................... 32
+4.4.1 B&#252;rgerinnen und B&#252;rger in der Forschung ................................... 32
+4.4.2 Kommunikationskampagne f&#252;r Sichtbarkeit und 
+Sensibilisierung ............................................................................. 33
+4.5 Europ&#228;isch und international forschen .......................................... 33
+4.5.1 Bilaterale Kooperation .................................................................. 33
+4.5.2 Multilaterale Vernetzung .............................................................. 34
+5 Rahmenbedingungen des Programms ...................................... 35
+5.1 Entstehung .................................................................................... 35
+5.2 Einbindung des Programms .......................................................... 35
+5.3 Erfolgskriterien, Wirtschaftlichkeit und Evaluation ..................... 36
+5.3.1 Erfolgskriterien des Gesamtprogramms ........................................ 36
+5.3.2 Erfolgskriterien der strategischen Ziele ........................................ 36
+5.3.3 Wirtschaftlichkeit der Projektf&#246;rderung ....................................... 37
+5.3.4 Evaluation ..................................................................................... 38
+      
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Um
+set
+zun
+g 
+Str
+ate
+gis
+che
+ Zie
+le 
+He
+rau
+sfo
+rde
+run
+ge
+n 
+Da
+ten
+ un
+d K
+no
+who
+w:
+ ge
+sch
+&#252;tz
+t u
+nd
+ 
+gen
+utz
+t 
+Dig
+ita
+ler
+ W
+an
+de
+l: s
+ich
+er 
+un
+d n
+ach
+ha
+ltig
+ 
+De
+mo
+kra
+tie
+ un
+d G
+ese
+llsc
+ha
+ft: 
+sta
+bil
+ 
+un
+d d
+igit
+al 
+Pri
+vat
+he
+it u
+nd
+ Da
+ten
+sch
+utz
+: 
+sel
+bst
+be
+stim
+mt
+ un
+d i
+nn
+ova
+tiv
+ 
+Inn
+o v
+ati
+on
+ un
+d T
+ran
+sfe
+r: w
+elt
+spi
+tze
+ un
+d 
+zuk
+un
+fts
+sic
+he
+r 
+&#8226; 
+F&#252;
+hre
+nd
+e K
+&#246;p
+fe:
+ qu
+alif
+izie
+ren
+ un
+d 
+gew
+inn
+en
+ 
+&#8226; 
+Zu
+k&#252;
+nft
+ 
+de
+r IT
+-Si
+ 
+De
+uts
+chl
+an
+d u
+nd
+ Eu
+rop
+a: 
+be
+he
+rrs
+che
+n 
+tec
+hn
+olo
+gis
+ch 
+sou
+ver
+&#228;n
+ 
+Tec
+hn
+olo
+gis
+che
+ So
+uve
+r&#228;n
+it&#228;
+t 
+Sic
+he
+rhe
+it u
+nd
+ 
+Ve
+rtr
+au
+en
+ 
+&#8226; 
+Dig
+ita
+le I
+nfr
+ast
+ruk
+tur
+en
+ 
+sic
+he
+rn 
+IT-
+Sic
+he
+rhe
+it s
+t&#228;r
+ken
+ 
+Na
+chh
+alt
+igk
+eit
+ un
+d 
+Zu
+kun
+fts
+sic
+he
+run
+g 
+&#8226; 
+IT-
+Sic
+he
+rhe
+it i
+n 
+An
+we
+nd
+un
+gsf
+eld
+ern
+ 
+st&#228;
+rke
+n 
+Qu
+an
+ten
+inf
+orm
+ati
+on
+sve
+r 
+arb
+eit
+un
+g ige
+ Te
+chn
+olo
+gie
+n 
+che
+rhe
+it 
+Pa
+rtn
+ers
+cha
+ft u
+nd
+ 
+Pri
+vat
+he
+it u
+nd
+ 
+&#8226; 
+IT-
+Sic
+he
+rhe
+it b
+en
+utz
+ba
+r 
+ge
+sta
+lte
+n 
+&#8226; 
+Ve
+rtr
+au
+en
+ in 
+IKT
+ du
+rch
+ 
+IT-
+Sic
+he
+rhe
+it i
+n d
+er 
+Exz
+elle
+nz 
+&#8226; 
+Te
+chn
+olo
+gis
+che
+ 
+So
+uv
+er&#228;
+nit
+&#228;t 
+au
+sba
+ue
+n 
+&#8226; 
+De
+uts
+chl
+an
+ds 
+in 
+de
+r 
+Wi
+sse
+nsc
+ha
+fts
+lan
+dsc
+ha
+ft 
+po
+siti
+on
+ier
+en
+ 
+&#8226; 
+Ko
+op
+era
+tio
+n u
+nd
+ 
+Tra
+nsf
+er 
+we
+ite
+r 
+ver
+be
+sse
+rn 
+De
+mo
+kra
+tie
+ 
+&#8226; 
+Gr
+un
+dre
+cht
+e s
+ch&#252;
+tze
+n 
+&#8226; 
+De
+sin
+for
+ma
+tio
+n 
+be
+k&#228;m
+pfe
+n 
+&#8226; 
+Te
+chn
+ik n
+ach
+ 
+de
+mo
+kra
+tisc
+he
+n W
+ert
+en
+ 
+sou
+ver
+&#228;n
+ ge
+sta
+lte
+n 
+Wi
+sse
+nsc
+ha
+ftli
+che
+ Ko
+mp
+ete
+nze
+n 
+f&#246;r
+de
+rn 
+Inn
+ova
+tio
+ns&#246;
+ko s
+yst
+em
+ un
+d T
+ran
+sfe
+r 
+au
+sba
+ue
+n 
+Ak
+teu
+re 
+ver
+ne
+tze
+n 
+In 
+de
+n g
+ese
+llsc
+ha
+ftli
+che
+n D
+ialo
+g t
+ret
+en
+ 
+Eu
+rop
+&#228;is
+ch 
+un
+d i
+nte
+rna
+tio
+na
+l fo
+rsc
+he
+n
+1
+Digital. Sicher. Souver&#228;n.
+Menschlicher Fortschritt ist eng mit technologischen Entwicklungen verbunden. Die Digitalisierung verwandelt 
+unsere Welt so schnell, dass wir kaum mehr hinterherkommen. In vielerlei Hinsicht ver&#228;ndert sich unser Leben
+durch Smartphones, Internet und Computer zum Guten: Das Wissen der Welt ist nur einen Klick entfernt, digitale
+Innovationen erleichtern uns den Alltag und die Wissenschaft leistet dank des digitalen Fortschritts jeden Tag
+aufs Neue Gro&#223;artiges. Doch Teil der Wahrheit ist auch, dass wir zunehmend abh&#228;ngig und herausgefordert
+werden: von Ger&#228;ten, die unsicher sind; von Technik, die wir nicht verstehen; von Unternehmen, deren
+Gesch&#228;ftsmodell darin besteht, unsere Daten zu Geld zu machen; von Informationen, deren Echtheit und Wahrheitsgehalt
+fragw&#252;rdig ist.
+Wir m&#252;ssen jetzt handeln: Wir Menschen in Deutschland und Europa leben in einer durch und durch
+technologisierten und datafizierten Welt, die wir sicher gestalten m&#252;ssen. Denn Sicherheit und Privatheit bleiben heute
+vielfach auf der Strecke. Ob Cyberangriffe auf staatliche Institutionen, Hochschulen und Unternehmen,
+Desinformationen in sozialen Netzwerken, die Menschen manipulieren und verunsichern, oder Quantencomputer, die mit
+ihrer enormen Rechenleistung k&#252;nftig heute g&#228;ngige Verschl&#252;sselungsverfahren &#252;berwinden k&#246;nnen: Die
+Herausforderungen sind komplex und werden mit der Datenexplosion sowie dem Voranschreiten von Technologien
+wie K&#252;nstlicher Intelligenz (KI) und Quantencomputing weiter zunehmen. Wir m&#252;ssen jetzt vorsorgen, um auch 
+in der Zukunft ein digitalisiertes Leben auf Basis von Vertrauen und Sicherheit zu erm&#246;glichen. Forschung f&#252;r 
+IT-Sicherheit und Privatheit in der digitalen Welt ist hierf&#252;r der Schl&#252;ssel. Denn eigenes Wissen und eigene
+F&#228;higkeiten sind f&#252;r unsere Souver&#228;nit&#228;t unverzichtbar. Forschung und deren wirkungsvoller Transfer in die
+Praxis bauen die Kompetenzen auf, die in einer digitalen Welt gepr&#228;gt von globalisierten Wertsch&#246;pfungsketten,
+Plattform&#246;konomie und Netzwerkeffekten dringend notwendig sind.
+Die Voraussetzungen sind gut: Schon heute verf&#252;gen wir in Deutschland und Europa &#252;ber eine exzellente
+wissenschaftliche Basis. Mit dem Forschungsrahmenprogramm der Bundesregierung zur IT-Sicherheit
+&#8222;Selbstbestimmt und sicher in der digitalen Welt 2015-2020&#8220; hat die Bundesregierung fr&#252;hzeitig die Weichen gestellt.
+Doch der technologische Wandel schreitet weiter voran, und die Forschung muss den Anspruch haben, diesem
+Wandel immer mindestens einen Schritt voraus zu sein. Dabei sind Herausforderungen in Zeiten der
+Digitalisierung stets nicht nur, aber eben auch, technischer Natur. Deshalb kommt es darauf an, in der technologischen 
+Forschung in der Weltspitze zu sein &#8211; ebenso wie darin, &#252;ber Disziplinen und L&#228;ndergrenzen hinweg Allianzen
+zu schmieden und zu kooperieren. Nur so k&#246;nnen Deutschland und Europa in Zukunft technologisch souver&#228;n 
+sein. Das Forschungsrahmenprogramm ist eng verkn&#252;pft mit der BMBF-Digitalstrategie, der
+Umsetzungsstrategie der Bundesregierung zur Gestaltung des digitalen Wandels und der Hightech-Strategie 2025 der
+Bundesregierung.
+Spitzenforschung: Deutschland und Europa st&#228;rken, die Welt gestalten
+Anspruch unserer Forschungs- und Innovationspolitik ist es, die weltweit besten und zukunftssicheren L&#246;sungen
+in Deutschland und Europa zu entwickeln. Dies sind demokratische, am Menschen orientierte, nachhaltige
+L&#246;sungen auf h&#246;chstem technischen Niveau. Wir brauchen Innovationen, die unsere Werte tragen und m&#252;ssen 
+diese zum Standard machen &#8211; und damit zur Grundlage f&#252;r unseren k&#252;nftigen wirtschaftlichen Erfolg und
+gesellschaftliche Stabilit&#228;t. Deutschland ist Innovationsland &#8211; und soll dies auch in der Zukunft sein, denn Ideen und 
+Innovationen sind hierzulande unsere wichtigsten Rohstoffe.
+Dieses Forschungsrahmenprogramm gr&#252;ndet fest auf europ&#228;ischen Normen und Werten wie Freiheit, Demokratie,
+Rechtsstaatlichkeit und informationeller Selbstbestimmung. Die Bundesregierung versteht diese Werte als
+Innovationstreiber f&#252;r eine menschengerechte Digitalisierung.
+Mit dem vorliegenden Forschungsrahmenprogramm bereiten wir f&#252;r die kommenden Jahre den Weg f&#252;r eine
+exzellente Forschung f&#252;r IT-Sicherheit und Privatheit, f&#252;r wirtschaftliche Prosperit&#228;t und technologische
+Souver&#228;nit&#228;t in Deutschland und in Europa. Wir tun dies in der Absicht, ein besseres digitales Leben m&#246;glich zu machen
+&#8211; damit wir alle in Zukunft digital, sicher und souver&#228;n leben k&#246;nnen.
+2 Strategische Ziele der IT-Sicherheitsforschung1
+Das Forschungsrahmenprogramm leistet einen wichtigen Beitrag zur Umsetzung der Hightech-Strategie 20252 
+der Bundesregierung. &#220;bergeordnetes Ziel ist es, die gro&#223;en gesellschaftlichen Herausforderungen anzugehen
+und die Forschungs- und Innovationsf&#246;rderung auf aktuelle und zuk&#252;nftige Bedarfe auszurichten. Es geht dabei
+um technologische und nicht-technologische einschlie&#223;lich sozialer Innovationen, bei denen der Nutzen f&#252;r den
+Menschen im Mittelpunkt steht. Im Themenfeld &#8222;Sicherheit: F&#252;r eine offene und freie Gesellschaft&#8220; der Hightech-
+Strategie 2025 hat die Bundesregierung beschlossen, die IT-Sicherheitsforschung in Deutschland erheblich zu
+st&#228;rken. Das vorliegende Programm orientiert sich an dieser Zielsetzung der Bundesregierung und ist daher ein 
+Programm f&#252;r IT-Sicherheitsforschung und nicht f&#252;r Informationssicherheit. Konkret orientiert sich das
+Programm an folgenden strategischen Zielen.
+2.1 Digitaler Wandel: sicher und nachhaltig
+Die Digitalisierung pr&#228;gt gesellschaftliche Entwicklungen und ist ein wesentlicher Treiber von Innovation. Neue 
+Technologien er&#246;ffnen neue Interaktionsformen, neue Gestaltungsr&#228;ume gesellschaftlichen Zusammenlebens und
+neue Gesch&#228;ftsfelder. So haben beispielsweise Text- und Sprachnachrichtendienste das
+Kommunikationsverhalten radikal ver&#228;ndert, soziale Netzwerke kanalisieren gesellschaftliche Str&#246;mungen und eine steigende Anzahl
+von Start-ups entwickelt neue digitale Dienstleistungen. Gemeinsam ist all diesen Entwicklungen, dass gro&#223;e
+Mengen von Daten verarbeitet und gespeichert werden. Aufgrund der Durchdringungstiefe und des genutzten 
+Datenumfangs m&#252;ssen diese Dienste, Datenbanken und Datenr&#228;ume nachhaltig sicher gestaltet werden. Ziel des
+vorliegenden Programms ist es daher, wesentlich zur Entwicklung sicherer Grundlagen f&#252;r IT-Systeme
+beizutragen, um m&#246;gliche Schadensf&#228;lle effizient handhaben zu k&#246;nnen und existierende Systeme abzusichern, bevor
+Schadensf&#228;lle eintreten.
+2.2 Daten und Know-how: gesch&#252;tzt und nutzbar
+Die zunehmende Digitalisierung in allen Lebensbereichen f&#252;hrt zu einer Datenexplosion, der Umfang der
+nutzbaren Daten nimmt stetig zu. Diese Daten bilden die Grundlage f&#252;r zahlreiche Anwendungen zum Beispiel im
+Kontext von Maschinellem Lernen, das konstant an Bedeutung gewinnt. Die Bundesregierung hat sich im Rahmen
+der Datenstrategie dazu entschlossen, Chancen durch das Zug&#228;nglichmachen, Nutzen und Teilen von Daten noch
+st&#228;rker zu ergreifen. Die Trainingsdaten wie auch die erlernten Modelle stellen einen enormen Wert dar und
+m&#252;ssen sicher nutzbar gemacht werden. Sicherheit bezieht sich hier auf Fragen der Datenqualit&#228;t, der
+Datenauthentizit&#228;t, des Datenschutzes und des geistigen Eigentums. Gro&#223;e Meilensteine dabei sind die Errichtung von Industrial
+und International Data Spaces f&#252;r die Digitalisierung der deutschen Industrie sowie von GAIA-X als europ&#228;ische 
+Kooperation. F&#252;r die Umsetzung digitaler Liefer- und Produktionsketten in Europa werden offene
+Wertsch&#246;pfungsstrukturen auf Basis sicherer Systeme in einem sicheren Rechtsrahmen ben&#246;tigt. Die f&#246;derierte, dezentrale 
+Infrastruktur GAIA-X leistet einen wertvollen Beitrag dazu. Maximale Sicherheit sowie Schutz der Daten in
+diesen Datenr&#228;umen, welche sich aus Cloud- und Edge-Infrastrukturen sowie zugeh&#246;rigen Diensten
+zusammensetzen, sind ein Grundpfeiler technologischer Souver&#228;nit&#228;t. Ziel des Programms ist es daher, die Absicherung aller
+Datenr&#228;ume von Grund auf, insbesondere auch im Hinblick auf Integrit&#228;t und Datenschutzkonformit&#228;t, zu
+etablieren und so dazu beizutragen, dass Daten sicher genutzt werden k&#246;nnen.
+2.3 Demokratie und Gesellschaft: stabil und digital
+Das Internet hat die Welt n&#228;her zusammengebracht. Soziale Medien verbinden Menschen allerorts, Benachteiligte
+in vielen L&#228;ndern und marginalisierte Gruppen haben durch digitale Kommunikationskan&#228;le eine Stimme erhalten
+und das Wissen der Welt ist h&#228;ufig nur eine Suchanfrage entfernt. Doch es gibt auch Entwicklungen, die
+demokratische Systeme herausfordern: So hat sich zum Beispiel bei den sozialen Medien eine Daten&#246;konomie
+herausgebildet, in der wenige Unternehmen den Markt beherrschen und weitreichenden Einfluss aus&#252;ben. Sie erreichen
+mit ihren Plattformen und anderen Angeboten Milliarden von Menschen und binden diese etwa durch sogenannte
+Lock-in-Effekte an sich. In den digitalen Gesch&#228;ftsmodellen spiegeln sich zudem jeweils spezifische
+Wertvorstellungen, die globale Wirkung entfalten. Die gro&#223;e Reichweite der Plattformen wird auch zur gezielten
+Verbreitung von Informationen genutzt. Problematisch ist dies beispielsweise, wenn durch die gesammelten Daten der
+Plattformen gezielt Desinformationen verbreitet werden, insbesondere, wenn dadurch demokratische Prozesse
+manipuliert werden sollen. Ziel des vorliegenden Programms ist es daher, Forschung anzusto&#223;en, die bei den
+1 Indikatoren zur Erfolgskontrolle sind im Abschnitt 5.3 aufgef&#252;hrt
+2 https://www.hightech-strategie.de/de/hightech-strategie-2025-1726.html
+Menschen das Bewusstsein f&#252;r alle Belange von IT-Sicherheit und Datenschutz st&#228;rkt und so Selbstbestimmung
+sowie sichere digitale Partizipation erm&#246;glicht. Ebenso zielt das Programm darauf ab, zur Erkennung und
+Bek&#228;mpfung von Desinformationskampagnen beizutragen.
+2.4 Privatheit und Datenschutz: selbstbestimmt und innovativ
+Transparenz und informationelle Selbstbestimmung sind entscheidende Faktoren f&#252;r das Vertrauen von
+Nutzenden zu Unternehmen ebenso wie zu staatlichen Institutionen. Dieses Vertrauen ist die Grundvoraussetzung f&#252;r
+eine schnelle und effiziente Digitalisierung. Nur wenn Menschen digitalen Systemen vertrauen k&#246;nnen,
+akzeptieren sie diese breitfl&#228;chig in ihrem Leben. Eine konsequente informationelle Selbstbestimmung dient also sowohl 
+dem Schutz von Grundrechten als auch langfristig als Wettbewerbsvorteil. Ziel des vorliegenden Programms ist
+es, auch in Zeiten umfassender Digitalisierung durch Forschung eine nachhaltige Basis f&#252;r einen umfassenden
+Schutz der Privatsph&#228;re von B&#252;rgerinnen und B&#252;rgern sicherzustellen. Dazu wird die Erforschung technischer
+und nicht-technischer Aspekte unterst&#252;tzt. Den Schutz dieser Rechte versteht die Bundesregierung nicht als
+Bremse f&#252;r Wachstum und Beschneiden des Innovationspotenzials, sondern als Katalysator f&#252;r Innovation. Unter
+dem Eindruck immer neuer Nutzungsm&#246;glichkeiten von Daten sollen mithilfe der Forschungsf&#246;rderung L&#246;sungen
+entstehen, die &#8222;Privacy by Design&#8220;, Benutzbarkeit und Transparenz europ&#228;ischer Pr&#228;gung zum weltweiten
+Erfolgsmodell machen.
+2.5 Innovation und Transfer: weltspitze und zukunftssicher
+Deutschland ist Innovationsland und eine der f&#252;hrenden Industrienationen der Welt. Unter dem Stichwort
+Industrie 4.0 ist die Digitalisierung und Vernetzung der Industrie weit fortgeschritten. Durch Entwicklungen wie
+beispielsweise 5G steigen die Anforderungen an ma&#223;geschneiderte IT-Sicherheitskonzepte st&#228;ndig. Auch die
+Digitalisierung des Gesundheitswesens schreitet massiv voran. Ebenso wird der Verkehr immer digitaler: Assistiertes
+und autonomes Fahren auf Stra&#223;en und auf der Schiene sowie g&#228;nzlich neue Mobilit&#228;tsangebote sind auf dem
+Vormarsch. F&#252;r Deutschlands wirtschaftliche Prosperit&#228;t und technologische Souver&#228;nit&#228;t ist es wichtig,
+Zukunftstechnologien in all diesen Anwendungsfeldern ma&#223;geblich mitzugestalten. Da die modernen digitalen
+Produkte und Dienste vielfach in sensiblen Bereichen zum Einsatz kommen, ist ihre Sicherheit von entscheidender
+Bedeutung. Spitzenleistungen in der IT-Sicherheitsforschung m&#252;ssen deshalb schnell und konsequent in
+innovative High-End-Produkte umgesetzt werden. Die im internationalen Vergleich bereits sehr gut aufgestellte
+Forschungslandschaft muss hierf&#252;r noch zielgerichteter mit der Industrie verkn&#252;pft werden. Ziel dieses Programmes
+ist es daher, Deutschlands Position unter den innovativsten Standorten f&#252;r die Entwicklung von IT-
+Sicherheitstechnologien weiter zu st&#228;rken. Hierf&#252;r muss unter anderem der Pfad von der Forschung bis zum Produkt, zum
+Beispiel auch durch Ausgr&#252;ndung, weiter gest&#228;rkt werden.
+2.6 F&#252;hrende K&#246;pfe: qualifizieren und gewinnen
+Hervorragende operative IT-Sicherheit, eine exzellente Forschungslandschaft sowie eine innovative IT-
+Sicherheitsbranche ben&#246;tigen herausragende Fachkr&#228;fte. Diese m&#252;ssen sowohl ausgebildet als auch gewonnen und
+langfristig am Innovationsstandort Deutschland gehalten werden. Hierzu m&#252;ssen wir attraktive Rahmenbedingungen
+schaffen. Diese umfassen neben genereller Lebensqualit&#228;t und finanziellen Aspekten auch herausfordernde
+berufliche Aufgaben, insbesondere auch bei staatlichen Einrichtungen, sowie Exzellenz und internationale
+Sichtbarkeit der Forschungsstandorte. Ziel des vorliegenden Programms ist es daher, Einrichtungen mit internationalem
+Renommee, wie die bestehenden nationalen Forschungszentren f&#252;r IT-Sicherheit und anwendungsbezogene
+Forschungseinrichtungen, die IT-Sicherheit industrienah bearbeiten, weiterzuentwickeln und andere aufschlie&#223;en zu
+lassen. Weiterhin soll das Programm exzellenten Forschenden erm&#246;glichen, den europ&#228;ischen Weg in der
+Digitalisierung ma&#223;geblich mitzugestalten. Insgesamt zielt das Programm darauf ab, die Qualifikation im Bereich IT-
+Sicherheit durch Aus- und Weiterbildung weiter zu verbessern und so mehr exzellente K&#246;pfe hervorzubringen.
+Diese Kombination aus starker Forschung, hoher Lebensqualit&#228;t und hervorragendem Personal wird dazu
+beitragen, Deutschland zu einem der attraktivsten Standorte f&#252;r die Entwicklung von IT-Sicherheitskomponenten
+weltweit zu machen.
+2.7 Deutschland und Europa: technologisch souver&#228;n
+Deutschland und Europa m&#252;ssen in der Lage sein, Schl&#252;sseltechnologien zu verstehen, zu entwickeln und wieder
+zu produzieren. Dies hat etwa die intensiv gef&#252;hrte Debatte um die Netzwerktechnik f&#252;r die Mobilfunkgeneration
+5G gezeigt. Die Wertsch&#246;pfungsketten der Informations- und Kommunikationstechnik (IKT) sind globalisiert
+und f&#252;r Anwendende wenig transparent. Fragen der IT-Sicherheit werden oft nicht hinl&#228;nglich ber&#252;cksichtigt. Als
+moderne Industrie- und Technologienation ist Deutschland jedoch auf diese IKT-Infrastrukturen angewiesen,
+wodurch das Risiko steigt, in Zukunft nicht selbstbestimmt und unabh&#228;ngig agieren zu k&#246;nnen. Ziel des
+vorliegenden Programms ist es daher, diese Abh&#228;ngigkeiten zu reduzieren und europ&#228;ische Alternativen zu entwickeln.
+Wir m&#252;ssen F&#228;higkeiten schaffen beziehungsweise ausbauen, um zentrale sicherheitskritische Komponenten 
+selbst zu entwerfen und zu produzieren. Ebenso ben&#246;tigen wir das Know-how, um weniger sicherheitskritische
+Teile effizient zu pr&#252;fen, zu bewerten und zu integrieren. Offene Standards und Normen haben hierf&#252;r eine
+besondere Bedeutung, weil sie k&#252;nftig eine sichere Basis f&#252;r Systeme bilden k&#246;nnen. Sowohl beim Aufbau
+notwendiger technischer F&#228;higkeiten als auch beim Setzen von Standards wird Deutschland im starken Verbund mit
+seinen europ&#228;ischen Partnern handeln. Ziel ist es, eine strategische europ&#228;ische Gesamtperspektive zu entwickeln,
+die auf die Errichtung eines europ&#228;ischen &#214;kosystems entlang der Wertsch&#246;pfungskette ausgerichtet ist, die
+vorhandenen St&#228;rken der etablierten Hersteller integriert sowie die Innovationspotenziale aussch&#246;pft.
+3 Herausforderungen f&#252;r die IT-Sicherheit
+Das vorliegende Rahmenprogramm thematisiert die aktuellen und zuk&#252;nftigen Herausforderungen der IT-
+Sicherheitsforschung und differenziert dabei vier Handlungsfelder. Das Programm spiegelt die Digitalisierung in ihrer
+Gesamtheit und ihrer Auswirkung auf den gesellschaftlichen Wandel. Die damit einhergehende Durchdringung
+aller gesellschaftlichen Bereiche bedeutet, dass sowohl technologische als auch gesellschaftliche Themen in der
+IT-Sicherheitsforschung ber&#252;cksichtigt werden m&#252;ssen. So stehen neben technologiebasierten Innovationen auch
+Fragen zu Privatheit, Datenschutz und Selbstbestimmung im Fokus der Forschungsf&#246;rderung. Ziel ist es, mit einer
+an diesem Anspruch orientierten Forschung europ&#228;ischer Pr&#228;gung Innovationen anzusto&#223;en und dadurch die
+technologische Souver&#228;nit&#228;t Deutschlands und Europas in Zukunft zu wahren und in wichtigen Schl&#252;sselbereichen
+auszubauen.
+3.1 IT-Sicherheit bietet Schutz und schafft Vertrauen
+Digitale Systeme sind heute allgegenw&#228;rtig: Mobiltelefone, Smart Homes, Industrie 4.0, moderne Medizin,
+Autos, Z&#252;ge und andere Kritische Infrastrukturen (KRITIS) sind ohne Vernetzungstechnologien, KI oder
+Mikroelektronik nicht mehr denkbar &#8722; und IT-Sicherheit ist unverzichtbar f&#252;r das Vertrauen in sie. Die Gefahren, die 
+von Angriffsvektoren wie beispielsweise Sicherheitsl&#252;cken in Hard- oder Software ausgehen, sind bereits heute 
+gro&#223;. Sie wachsen aufgrund der Allgegenw&#228;rtigkeit und Durchdringungstiefe digitaler Systeme drastisch weiter.
+Die IT-Sicherheitsforschung muss daher sowohl L&#246;sungen f&#252;r dringende Probleme von heute, als auch L&#246;sungen 
+f&#252;r die Herausforderungen von morgen bereitstellen. Sie ist eine auf Dauer angelegte Aufgabe. In einem iterativen
+Prozess sind Risiken und Sicherheitsanforderungen immer wieder neu zu bewerten und entsprechende L&#246;sungen
+regelm&#228;&#223;ig anzupassen. Nur so kann aktuellen Gefahren und Herausforderungen von morgen gleicherma&#223;en
+wirksam begegnet werden. Dabei besteht ein gro&#223;es Ungleichgewicht, da IT-Sicherheit stets das komplette
+Gefahrenspektrum in angemessener Tiefe abdecken muss, w&#228;hrend es f&#252;r erfolgreiche Angriffe ausreicht, gezielt
+einzelne Angriffsvektoren auszunutzen. Berichte &#252;ber Hackerangriffe, Schadprogramme, Datenmissbrauch und
+Identit&#228;tsdiebstahl &#8722; h&#228;ufig sogar eigene Erfahrungen damit &#8722; verringern das Vertrauen in moderne digitale
+Systeme. Der Erfolg digitaler Technologien h&#228;ngt jedoch ma&#223;geblich davon ab, dass Menschen und Organisationen
+den eingesetzten L&#246;sungen vertrauen k&#246;nnen, sie breitfl&#228;chig einsetzen und so die Chancen der Digitalisierung
+f&#252;r Innovation, Wohlstand und gesellschaftliche Entwicklung nutzen k&#246;nnen. Nur mit Nutzungsfreundlichkeit
+und einem risikoad&#228;quaten Ma&#223; an IT-Sicherheit kann eine erfolgreiche und nachhaltige Digitalisierung gelingen.
+F&#252;r eine sichere digitale Zukunft brauchen wir deshalb Forschung, die nachweisbar sichere, dauerhaft &#252;ber den
+Lebenszyklus verl&#228;ssliche und nutzungsfreundliche IKT-Produkte und -Dienstleistungen entwickelt. Deutschland
+und Europa haben aktuell einen besonderen Vertrauensvorschuss im Hinblick auf Datensicherheit &#8211; diesen gilt
+es, durch gezielte Forschung zu nutzen, weiter auszubauen und in marktf&#228;hige L&#246;sungen f&#252;r B&#252;rgerinnen und
+B&#252;rger, f&#252;r Unternehmen und f&#252;r &#246;ffentliche Einrichtungen umzusetzen.
+3.1.1 Digitale Infrastrukturen sicher entwickeln und einsetzen
+Es ist wichtig, alle digitalen Systeme von Grund auf sicher zu gestalten und Sicherheit als zentrales Designprinzip
+zu verankern (Security by Design und Security by Default). Sicherheit muss hierf&#252;r mit komplexen Systemen und
+kurzen Entwicklungszeitr&#228;umen in Einklang gebracht werden. Dabei darf Sicherheit nicht mit dem Abschluss der
+Entwicklung enden, sondern muss im vollst&#228;ndigen Lebenszyklus von IKT-Systemen fest verankert sein. Da es
+f&#252;r Anwendende, von B&#252;rgerinnen und B&#252;rgern &#252;ber KMU bis hin zur Gro&#223;industrie, nahezu unm&#246;glich ist, die
+Sicherheit jeder Komponente selbst zu pr&#252;fen und &#252;ber einen m&#246;glichen Einsatz zu entscheiden, sind verl&#228;ssliche 
+Hilfen wie Zertifizierungen ebenso wie innovative Werkzeuge zur Pr&#252;fung und Messung der Sicherheit
+notwendig. In die Entwicklung solcher Hilfen muss die jeweilige Zielgruppe unmittelbar einbezogen werden, um eine
+sp&#228;tere Nutzung sicherzustellen. Forschung kann auf all diesen Feldern gro&#223;e Fortschritte m&#246;glich machen.
+Beispiele f&#252;r k&#252;nftige Handlungsfelder sind:
+&#8226; Sicherheit auf allen Systemschichten gew&#228;hrleisten: 
+Moderne IKT-Systeme sind aus vielen Einzelkomponenten zusammengesetzt. Es m&#252;ssen sichere Komponenten 
+(Software und Hardware) f&#252;r alle Systemschichten und f&#252;r die Komposition von sicheren Gesamtsystemen aus
+diesen Komponenten erforscht werden. Forschungsfragen sind unter anderem die Vergleichbarkeit und
+Transparenz der Sicherheitseigenschaften, die Abstimmung und Passf&#228;higkeit von Soft- und Hardwarekomponenten 
+(Hardware-Software-Co-Design), formale und statistische Sicherheitsnachweise, Ausschluss oder Mitigation von
+Seitenkan&#228;len sowie der Umgang mit unsicheren Komponenten. Hier bestehen besonders enge
+Ankn&#252;pfungspunkte zum Rahmenprogram der Bundesregierung f&#252;r Forschung und Innovation 2021 &#8211; 2024 &#8222;Mikroelektronik.
+Vertrauensw&#252;rdig und nachhaltig. F&#252;r Deutschland und Europa&#8220;3.
+&#8226; Edge- und Cloud-Computing-Infrastrukturen sowie Hyperscaler sicher gestalten: 
+Es entstehen umfangreiche Datenr&#228;ume in unterschiedlichsten Gr&#246;&#223;en. Die mit GAIA-X avisierte verteilte
+europ&#228;ische Dateninfrastruktur schafft auf Basis einer Architektur von Standards Interoperabilit&#228;t. Perspektivisch wird
+ein Zugang zu passgenauen L&#246;sungen erm&#246;glicht, zum Beispiel f&#252;r die Datenspeicherung (Clouds) und lokale
+Berechnungen (Edges). Solche Datenr&#228;ume m&#252;ssen sicher gestaltet und die Um- und Durchsetzung von
+Richtlinien f&#252;r Datensouver&#228;nit&#228;t sichergestellt werden.
+&#8226; Vertrauensw&#252;rdige Systeme zur sicheren Verarbeitung und Nutzung von Daten weiterentwickeln: 
+Durch die immer umfangreichere Datafizierung ergeben sich gro&#223;e Herausforderungen f&#252;r den
+vertrauensw&#252;rdigen Umgang mit Daten, insbesondere auch bei der immer breiteren Nutzung von KI. Wesentliche
+Forschungszweige behandeln hier die Methoden der vertraulichen und zweckgebundenen Verarbeitung und Bereitstellung
+von Daten. Diese Methoden k&#246;nnen hardwarebasiert (zum Beispiel Confidential Computing, Trusted) aber auch
+softwarebasiert (zum Beispiel Secure Multiparty Computation, Private Information Retrieval, Differential
+Privacy) sein.
+&#8226; Sichere digitale Identit&#228;ten schaffen: 
+Grundlage f&#252;r sichere Kommunikation sowie deren praktische Umsetzung sind eindeutige Identit&#228;ten von
+Menschen oder Objekten. Dies gilt nicht nur f&#252;r die individuelle Kommunikation, sondern insbesondere im Kontext 
+sehr gro&#223;er Systeme und von Systemen mit sehr vielen leistungsschwachen Komponenten wie im industriellen
+Internet der Dinge (Industrial Internet of Things &#8722; IIoT). Dazu z&#228;hlt eine Verkn&#252;pfung mit dem digitalen Zwilling,
+mit der Verwaltungsschale und mit sicherheitskritischen Komponenten, in Hard- und in Software.
+Cloud und Edge Security
+Cloud-/Edge-Systeme bestehen aus zahlreichen Systemkomponenten, diese m&#252;ssen perfekt aufeinander
+abgestimmt sein, um ein hohes Niveau an IT-Sicherheit zu gew&#228;hrleisten. Dies beginnt bei den eigentlichen Ger&#228;ten
+sowie den Netzwerken. Hier sind klassische Fragen wie Zugriffschutz zu adressieren. Insbesondere m&#252;ssen
+auch die verschiedenen Datenstr&#246;me sicher voneinander getrennt, gesch&#252;tzt und authentisiert werden. Im
+Rahmen des Zugriffs auf Daten sind insbesondere Identit&#228;ts- und Zugriffsverwaltung von gro&#223;er Bedeutung. Neben
+der Sicherheit der Cloud/Edge Infrastruktur muss auch die Sicherheit der entstehenden Plattformen und Cloud-
+Anwendungen sichergestellt werden.
+Ausgew&#228;hlte Aspekte von Cloud Security:
+&#8226; die physische Sicherheit der Rechenzentren, 
+&#8226; die Sicherheit der Server, 
+&#8226; die Sicherheit der Netzwerkstrukturen und Datenfl&#252;sse, 
+&#8226; die Sicherheit der Daten, 
+&#8226; das sichere Management Identit&#228;ten und Rechten, 
+&#8226; die Sicherheit der Plattform und der Anwendungen. 
+3.1.2 IT-Sicherheit verst&#228;ndlich und benutzbar entwickeln
+Aktuelle IKT-Systeme sind hochgradig komplex und somit oft schwer zu verstehen und zu beherrschen. Die 
+zugrundeliegenden systemischen Zusammenh&#228;nge sind f&#252;r Nutzende in der Regel verborgen. In der Folge haben
+Menschen unvollst&#228;ndige oder falsche Vorstellungen von der Funktionsweise digitaler Technologien. Dies kann
+dazu f&#252;hren, dass falsche Entscheidungen getroffen werden k&#246;nnen und dadurch Sicherheitsprobleme auftreten.
+Hinweise wie &#8222;Das Dokument enth&#228;lt potenziell gef&#228;hrliche Inhalte. Wollen Sie fortfahren?&#8220; stellen die
+Nutzenden vor gleich mehrere mentale Herausforderungen und einen Zielkonflikt. &#8222;Ist der Inhalt tats&#228;chlich gef&#228;hrlich?
+3 www.elektronikforschung.de/rahmenprogramm
+Was hei&#223;t gef&#228;hrlich? Habe ich Alternativen?&#8220; versus &#8222;Ich m&#246;chte das Dokument lesen, aber keinen Schaden
+anrichten.&#8220; Derartige Probleme betreffen nicht nur das Privatleben, sondern reichen auch in den Arbeitskontext
+hinein. Sie m&#252;ssen insbesondere in sicherheitskritischen Bereichen vermieden werden, da sie die Nutzenden
+&#252;berfordern. Damit steigt das Risiko von Fehlentscheidungen, die Sicherheitsprobleme nach sich ziehen k&#246;nnen. Die
+Ursache des Problems ist jedoch nicht bei den Menschen zu suchen, sondern in den mangelhaft gestalteten
+Systemen. Nicht alle Entscheidungen k&#246;nnen automatisch getroffen werden; individuelle Entscheidungen werden
+auch in Zukunft notwendig sein und ma&#223;geblich Einfluss auf Daten- und Systemsicherheit haben. Eine
+wesentliche Herausforderung ist es daher, zuk&#252;nftige IKT-Systeme und insbesondere sicherheitskritische Entscheidungen
+klar, nachvollziehbar und insbesondere zielgruppengerecht zu gestalten.
+Usable Security und Privacy
+Neue Technologien halten st&#228;ndig Einzug in unseren Alltag. Dabei werden bisher die Auswirkungen von
+Designentscheidungen auf die Sicherheit und den Datenschutz nicht mitgedacht. Zum Beispiel k&#246;nnen neue
+Technologien sensible Daten generieren oder den Zugang zu sensiblen Daten erm&#246;glichen. Daraus ergibt sich die 
+Notwendigkeit, die Art und Weise, wie neue Technologien entwickeln werden grundlegend zu &#252;berdenken.
+Usable security und privacy zielt darauf ab, den Faktor Mensch zu ber&#252;cksichtigen, um sowohl bestehende
+Sicherheitsmechanismen zu verbessern als auch neue Sicherheitsmechanismen zu entwerfen.
+Einige aktuelle Themen im Bereich Usable security und privacy sind:
+&#8226; Benutzer Authentifizierung, 
+&#8226; Biometrische Sicherheitsverfahren, 
+&#8226; Sicherheit bei Augmented Reality, 
+&#8226; Sichere Interaktion mit Smart Home Technologien, 
+&#8226; Ethische, psychologische und soziologische Aspekte von Sicherheit. 
+Beispiele f&#252;r k&#252;nftige Handlungsfelder sind:
+&#8226; Sicherheitskritische Schnittstellen nutzungsfreundlich und verst&#228;ndlich gestalten: 
+Interaktionsschnittstellen f&#252;r sensible Dienste wie Online-Banking, E-Mobility-Abrechnung oder digitale
+Verwaltungsdienstleistungen m&#252;ssen nutzungsfreundlich und verst&#228;ndlich gestaltet werden k&#246;nnen, um
+Fehlbedienungen m&#246;glichst auszuschlie&#223;en.
+&#8226; Faktor Mensch besser verstehen: 
+Um Schnittstellen f&#252;r Nutzende sicher bedienbar zu machen, muss erforscht werden, welche mentalen Modelle 
+bei unterschiedlichen Nutzungstypen vorliegen, unter anderem um bessere Hilfestellungen zur sicheren
+Bedienung geben zu k&#246;nnen und vorauszusehen, wie welche Gruppen von Menschen Entscheidungen treffen, um darauf
+aufbauend passende Strategien f&#252;r den Schutz der Nutzenden zu entwickeln.
+&#8226; Interfaces der Zukunft sicher designen: 
+Neuartige Ger&#228;te verf&#252;gen h&#228;ufig nicht &#252;ber klassische Interaktionsm&#246;glichkeiten wie Tastaturen oder
+Bildschirme. F&#252;r diese Ger&#228;te m&#252;ssen sichere Interaktionsschnittstellen erforscht und entwickelt werden.
+&#8226; Werkzeuge zur Entwicklung von Programmen nutzungsfreundlicher machen: 
+Auch Softwareentwicklerinnen und -entwickler m&#252;ssen im Zusammenhang mit IT-Sicherheit unterst&#252;tzt werden.
+Dazu z&#228;hlt beispielsweise die Weiterentwicklung von Entwicklungsumgebungen und Werkzeugen, die es den
+Programmierteams erleichtern, auch ohne komplexes IT-Sicherheitswissen sichere Software schnell zu schreiben.
+&#8226; Digitale Souver&#228;nit&#228;t durch Bildung st&#228;rken: 
+Es bedarf Forschung zum optimalen und zielgruppengerechten Einsatz von modernen und innovativen Lehr- und 
+Lernmethoden zur Vermittlung von Digitalkompetenz, insbesondere zur sicheren Nutzung von Ger&#228;ten und 
+Diensten.
+3.1.3 Vertrauen in IKT durch IT-Sicherheit st&#228;rken
+Angesichts von kriminellen Angriffen, Identit&#228;tsdiebst&#228;hlen, Erpressungstrojanern und digitaler
+Wirtschaftsspionage bestehen h&#228;ufig Bedenken hinsichtlich des Einsatzes von IKT-Systemen. Wirksame Ma&#223;nahmen gegen
+Cyberkriminalit&#228;t, Sabotage und Spionage unterst&#252;tzen das Vertrauen in digitale Systeme ebenso wie ein
+transparenter und sicherer Umgang mit Daten. Die zentrale Herausforderung ist es, Sicherheitseigenschaften wie die
+St&#228;rke der eingesetzten Verschl&#252;sselung, die organisatorische Sicherheit oder den Verf&#252;gbarkeitszeitraum von
+Updates transparent f&#252;r die Nutzenden zu kommunizieren, damit diese so zu einem echten
+Entscheidungskriterium werden. IT-Sicherheit muss selbstverst&#228;ndlich werden. Es m&#252;ssen wirksame Methoden geschaffen werden,
+um auch nicht selbst entwickelte IKT-Systeme und deren Komponenten auf Sicherheitseigenschaften zu testen.
+Zudem m&#252;ssen B&#252;rgerinnen und B&#252;rger, &#246;ffentliche Einrichtungen sowie die Wirtschaft darauf vertrauen k&#246;nnen,
+dass Vorf&#228;lle aufgekl&#228;rt werden. Hierzu m&#252;ssen die Beh&#246;rden, insbesondere die Strafverfolgungsbeh&#246;rden, unter
+anderem mit entsprechenden IT-Werkzeugen in die Lage versetzt werden, digitale Spuren zu finden und
+beweissicher zu nutzen. Ebenso sind neue Ermittlungsverfahren und -taktiken notwendig, die nicht die Sicherheit aller
+verringern, mit den Grundrechten im Einklang stehen und mit der schnellen Entwicklung im Bereich IKT
+mithalten k&#246;nnen. Neben den hier im Vordergrund stehenden technischen Fragen und Aspekten der IT-Sicherheit gibt 
+es umfangreiche weitere Fragestellungen im Bereich Abwehr, Bek&#228;mpfung und Aufkl&#228;rung von
+Cyberkriminalit&#228;t. Diese werden im Rahmenprogramm der Bundesregierung &#8222;Forschung f&#252;r die zivile Sicherheit 2018&#8211;2023&#8220;
+zugeh&#246;rige Fragestellungen adressiert.4 
+K&#252;nstliche Intelligenz und IT-Sicherheit
+K&#252;nstliche Intelligenz (KI) und Lernende Systeme k&#246;nnen das Leben vieler Menschen verbessern, wenn sie
+richtig eingesetzt werden. Damit das gelingt, m&#252;ssen Politik, Wirtschaft, Wissenschaft und Gesellschaft
+gemeinsam offene Fragen diskutieren sowie Chancen und Risiken des technologischen Fortschritts ergr&#252;nden.
+Auch der Bereich der IT-Sicherheit ist stark von den Entwicklungen im Bereich der K&#252;nstlichen Intelligenz
+betroffen. Erstens sind IT-Sicherheitsaspekte von KI-Systemen ein wichtiges und forderndes Forschungsfeld,
+zweitens k&#246;nnen KI basierte Systeme dazu beitragen die IT-Sicherheit zu erh&#246;hen und drittens k&#246;nnen KI-
+Systeme auch eingesetzt werden um Angriffe auf andere IT-Systeme durchzuf&#252;hren.
+&#8226; IT-Sicherheit f&#252;r K&#252;nstliche Intelligenz 
+KI-Systeme inklusive ihrer Trainingsdaten m&#252;ssen vor Angriffen und Manipulationen gesch&#252;tzt werden. 
+Beispiele f&#252;r Angriffe die adressiert werden m&#252;ssen sind: Adversarial Attacks, Generative Adversarial 
+Networks, Data Poisoning und Model Extraction. 
+&#8226; IT-Sicherheit durch K&#252;nstlicher Intelligenz 
+&#8226; KI kann digitale Systeme sicherer machen. Durch KI-Verfahren und Maschinelles Lernen (ML) k&#246;nnen 
+Schwachstellen oder Angriffsmuster automatisiert und selbstlernend erkannt bzw. abgewehrt werden. 
+Beispiele f&#252;r KI basierte Sicherheitsverfahren sind: Anomalieerkennung, Codeanalyse, Thread
+Identification, Neural Fuzzing, Malware Detection und Spam Detection. 
+&#8226; IT-Sicherheit gegen K&#252;nstliche Intelligenz 
+Angreifende k&#246;nnen Anwendungen der KI nutzen, um in IT-Systeme einzudringen. Entsprechend gilt es 
+auch hier, bestehende Ans&#228;tze und Verfahren zur Abwehr stetig weiter zu entwickeln. Beispiele sind: 
+Malware Mutation, Neural Fuzzing und Password Guessing. 
+Beispiele f&#252;r k&#252;nftige Handlungsfelder sind:
+&#8226; Sicherheit durch KI schaffen: 
+Die Nutzung von Daten als Grundlage f&#252;r Verfahren der KI gewinnt in vielen Anwendungen, Komponenten und
+Branchen immer mehr an Bedeutung. Doch Datengrundlagen k&#246;nnen manipuliert werden, was
+Fehlentscheidungen provoziert. Dies ist insbesondere von Bedeutung, wenn Trainingsdaten aus einem geteilten Datenraum
+genutzt werden. Es werden Methoden und Verfahren ben&#246;tigt, die Qualit&#228;t und Herkunft von Daten zu verifizieren,
+insbesondere, wenn diese anonymisiert sind. In diesem Kontext ist die Frage der Grenzen der vollst&#228;ndigen
+&#220;berpr&#252;fbarkeit und Nachvollziehbarkeit eines informationstechnischen Systems relevant. Die von der
+Datenethikkommission benannten f&#252;nf Kritikalit&#228;tsstufen f&#252;r algorithmische Systeme k&#246;nnen als grobe Orientierung zur
+https://www.sifo.de/de/sicherheitsforschung-forschung-fuer-die-zivile-sicherheit-1693.html4
+Beurteilung der Gef&#228;hrlichkeit der Technikfolgen von KI-Systemen genutzt werden. Eine wichtige Frage f&#252;r die 
+Forschung ist, wie herk&#246;mmliche Zertifizierungs- und Auditierungsmechanismen der IT-Sicherheit dynamisiert 
+werden k&#246;nnen, um mit der rasanten Anpassungsgeschwindigkeit von Software Schritt zu halten.
+&#8226; Sicherheit f&#252;r KI-Systeme und Anwendungen: 
+KI-Anwendungen bieten eine breite Palette neuer Anwendungen. F&#252;r deren gr&#246;&#223;tm&#246;glichen Nutzen m&#252;ssen diese 
+Anwendungen sicher gestaltet sein und die KI muss &#252;ber alle Ebenen ihres Einsatzes kontrollierbar sein. Nur so
+ist es m&#246;glich, KI-Anwendungen zu schaffen, die vertrauensw&#252;rdig sind und die bei gro&#223;en Teilen der
+Gesellschaft auf Akzeptanz treffen. Damit diese Sicherheit und Vertrauensw&#252;rdigkeit allgemein und &#252;ber einzelne
+Anwendungen hinweg sichergestellt werden kann, braucht es Konzepte und L&#246;sungen f&#252;r eine umfassende
+Zertifizierung von KI-Anwendungen, die nationalen und internationalen Ma&#223;st&#228;ben gerecht werden.
+&#8226; Sicherheitsvorf&#228;lle aufkl&#228;ren: 
+Bei Sicherheitsvorf&#228;llen m&#252;ssen die Eindringungswege und die Verbreitung in einem IT-System sehr genau und 
+schnell bestimmt werden. Der angerichtete Schaden kann so nachvollzogen und im Sinne einer schnellen und
+passgenauen Antwort auf IT-Sicherheitsvorf&#228;lle einged&#228;mmt und behoben werden (Incident Response). Von
+besonderer Bedeutung in diesem Zusammenhang ist auch die Weiterentwicklung von Verfahren zur gerichtsfesten
+Beweissicherung, der sogenannten IT-Forensik. Dies ist eine besondere Herausforderung, da Spuren in digitalen
+Systemen zumeist leicht ver&#228;nderbar sind. Es besteht kontinuierlicher Forschungsbedarf, da die Forensik mit jeder
+neuen Innovation Schritt halten muss. Zur IT-Forensik geh&#246;rt neben der Untersuchung &#8222;post mortem&#8220; und der
+Online-Forensik auch die strategische und technische Vorbereitung von Systemen und Prozessen, um Forensik
+zu erm&#246;glichen.
+&#8226; Muster bei Cyberkriminalit&#228;t erkennen: 
+Ebenso wie bei Einbruchsbanden sind bei Cyberkriminellen immer wiederkehrende Muster zu erkennen, wie sie
+bei Eindringversuchen vorgehen. Es muss erforscht werden, welche Muster es gibt und wie diese fr&#252;hzeitig
+erkannt werden k&#246;nnen, um ehestm&#246;glich Warnungen und Handlungsempfehlungen zu ver&#246;ffentlichen. Wichtig ist
+in diesem Zusammenhang auch eine Kooperation zum Austausch der Erkenntnisse. Hierf&#252;r bedarf es eines
+Baukastens zur Analyse und europ&#228;ischer Standards zum Austausch von Informationen.
+3.2 IT-Sicherheit braucht Nachhaltigkeit und ist Zukunftssicherung
+IT-Sicherheit ist grundlegende Voraussetzung f&#252;r den Einsatz digitaler Systeme und muss daher nachhaltig
+angelegt sein. Nachhaltigkeit bedeutet in Bezug auf IT-Sicherheit insbesondere, langfristig zu planen und
+zukunftsorientiert zu denken. Sie bedeutet zudem, IT-Sicherheit als dem Menschen dienlich zu verstehen. IT-Systeme sind
+stets Teil des sozialen Gef&#252;ges und sind somit soziotechnische Systeme. Aktuelle Systeme m&#252;ssen abgesichert
+werden, doch auch die Technologien von morgen m&#252;ssen in der Forschung und Entwicklung schon jetzt sicher
+gestaltet werden. Exzellentes Know-how aus der IT-Sicherheitsforschung muss deshalb im Sinne des Ansatzes
+&#8222;Security by Design&#8220; immer von Anfang an in die Systementwicklung einflie&#223;en. Das hei&#223;t aus
+Nachhaltigkeitssicht auch, dass m&#246;glichst s&#228;mtliche Gruppen sp&#228;terer Nutzender sowie unfreiwillig durch die Systeme Betroffene
+auch in den fr&#252;hen Entwurfsphasen auf mindestens drei Ebenen mitbedacht werden: 1. Ein sicheres IT-System ist
+so gestaltet, dass sp&#228;tere Nutzende es effektiv, effizient und zufriedenstellend bedienen k&#246;nnen
+(Gebrauchstauglichkeit); 2. Ein sicheres IT-System ist insoweit fehlersicher, dass menschliche Eingabe- oder Bedienungsfehler
+unm&#246;glich sind oder abgefangen werden; 3. Ein sicheres IT-System benachteiligt Menschen nicht aufgrund ihrer 
+spezifischen Merkmale. 
+Eingesetzte Systeme m&#252;ssen konsequent gewartet, aktualisiert und gegebenenfalls nachger&#252;stet oder gekapselt 
+werden &#8211; insbesondere auch durch den schnellen Transfer aktuellster wissenschaftlicher Erkenntnisse. Neue
+Systeme m&#252;ssen so entwickelt werden, dass sie langfristig aktualisiert werden k&#246;nnen. Neben Sicherheitsaspekten
+tr&#228;gt eine langfristige Nutzung auch zur Nachhaltigkeit bei. Nur so kann Deutschland auch zuk&#252;nftig im
+internationalen Wettbewerb bestehen. Diese Herausforderung besteht f&#252;r alle Anwendungsfelder und ist insbesondere
+f&#252;r den deutschen Mittelstand entscheidend f&#252;r k&#252;nftigen Erfolg. Industrie 4.0 wird in nahezu allen Betrieben
+Einzug halten, 5G und perspektivisch 6G werden in allen Lebensbereichen relevant und m&#252;ssen sicher gestaltet
+werden. Dabei kommt offenen Standards wie Open RAN eine zentrale Rolle zu, um die Sicherheit und digitale 
+Souver&#228;nit&#228;t Deutschlands und Europas zu gew&#228;hrleisten. Die Herausforderung ist es, die sich beschleunigende
+Digitalisierung und Vernetzung f&#252;r Unternehmen und die Gesellschaft sicher zu gestalten. Voraussetzung hierf&#252;r
+ist eine IT-Sicherheitsforschung auf internationalem Spitzenniveau.
+Open RAN
+In Abgrenzung zu einem traditionellen Mobilfunknetz verfolgt Open RAN verst&#228;rkt die Trennung von
+Hardware und Software und zeichnet sich durch offene und &#252;berpr&#252;fbare Schnittstellen der Netzkomponenten aus.
+Mit Open RAN sollen geschlossene Mobilfunksysteme ge&#246;ffnet werden (von vertikalen Marktstrukturen zu 
+horizontal interoperablen L&#246;sungen). Um dies zu erm&#246;glichen, m&#252;ssen Hersteller ihre Produkte durch die
+Verwendung offener, standardisierter Schnittstellen f&#252;r Software von Drittanbietern &#246;ffnen. Offene und
+&#252;berpr&#252;fbare Schnittstellen tragen dazu bei, die Detektion und Mitigation von Spionage und Sabotage in 5G-Netzen zu
+erm&#246;glichen. Dar&#252;ber hinaus erhalten Netzbetreiber die M&#246;glichkeit, die Netze mit Kombinationen
+verschiedener Lieferanten aufzubauen, was auch zu einem st&#228;rkeren Wettbewerb und besseren Angeboten f&#252;r die
+Netzbetreiber f&#252;hrt. Mit der wachsenden Bedeutung von Software in der Netzsteuerung kann Open RAN f&#252;r den
+Netzausbau Vorteile bieten. So k&#246;nnen die Netze schneller mit neuen Technologien aktualisiert werden bzw.
+Sicherheitsprobleme schnell behoben werden.
+3.2.1 IT-Sicherheit in Anwendungsfeldern st&#228;rken
+Kein Unternehmen kann heute ohne eine funktionierende IKT-Infrastruktur bestehen. Bereits kleinste Gesch&#228;fte
+verf&#252;gen zumindest &#252;ber ein digitales Kassensystem und zumeist auch &#252;ber ein Zahlungsterminal. Der deutsche
+Mittelstand und internationale Konzerne sind ohne IKT-Systeme nicht denkbar und nicht wettbewerbsf&#228;hig.
+Videokonferenzen, vernetzte Produktion, Losgr&#246;&#223;e eins, Logistik-on-Demand oder pr&#228;diktive Instandhaltung sind
+nur einige der aktuellen Themen, die eine massive Digitalisierung voraussetzen und damit gleichzeitig die
+Relevanz der IT-Sicherheit weiter erh&#246;hen. IT-Sicherheit ist f&#252;r Unternehmen einerseits ein Kostenfaktor und muss
+sich daher anderen Kostenfaktoren in einem Wettbewerb stellen. Andererseits wertet die Eigenschaft IT-
+Sicherheit aber auch Produkte und Dienstleistungen auf und stellt einen Mehrwert dar. Zentrale Herausforderung f&#252;r die 
+Forschung zur IT-Sicherheit im gewerblichen Umfeld sind daher &#246;konomische Fragestellungen. Es m&#252;ssen
+sichere digitale &#214;kosysteme mit sicheren Produkten und Anwendungen entlang der jeweiligen
+Wertsch&#246;pfungskette entwickelt werden. Eine wichtige Herausforderung in diesem Zusammenhang ist die Gestaltung der
+Kooperation von Unternehmen bei offenen Architekturen, Spezifikationen und Software f&#252;r sichere Systeme. Diese
+bilden die Basis f&#252;r eine sichere und souver&#228;ne Gestaltung und Nutzung von IKT-Systemen sowie der in ihnen
+verarbeiteten Daten und umgesetzten Prozesse.
+Auch Kritische Infrastrukturen (KRITIS) sind digitalisiert und somit in ihrer Funktion von der IT-Sicherheit
+abh&#228;ngig. Sie stehen unter besonderem Schutz. Die aktuellen gesellschaftlichen Aufgaben wie Energie- und
+Mobilit&#228;tswende oder eine nachhaltige und umfassende Gesundheitsversorgung wirken als Treiber f&#252;r einen schnellen
+Um- und Ausbau gro&#223;er Teile der KRITIS und deren weitere Digitalisierung. Im Zusammenhang mit KRITIS
+geht es neben wirtschaftlichen Fragestellungen auch um solche der Daseinsvorsorge. Aufgrund der daraus
+resultierenden notwendigen Zuverl&#228;ssigkeit der Systeme stellen sich hier Anforderungen &#252;ber das normale Ma&#223;
+hinaus. Zentrale Herausforderung ist es, gemeinsam mit den KRITIS-Betreibern und -Zulieferern Methoden und
+Werkzeuge f&#252;r eine zuverl&#228;ssige digitale Absicherung der lebenswichtigen IT-Systeme zu entwickeln, sodass
+systemrelevante Versorgungsleistungen jederzeit garantiert werden k&#246;nnen.
+Netzwerksicherheit
+Durch den allgegenw&#228;rtigen Einsatz von vernetzten IKT-Systemen in allen Bereichen ist Netzwerksicherheit
+ein besonders relevantes Thema der IT-Sicherheit. Die Schutzma&#223;nahmen und Technologien sind dabei
+genauso vielf&#228;ltig wie die zu sch&#252;tzenden Systeme. Daher sind z.B. auch der Schutz von Cloud-Infrastrukturen 
+und IoT-Systemen Teil der Netzwerksicherheit. Es gibt jedoch auch Ma&#223;nahmen und Technologien, welche
+weniger vom zu sch&#252;tzenden System abh&#228;ngen. Einige dieser Technologien sind die folgenden:
+&#8226; Software defined Security 
+Von Software defined Security spricht man, wenn Sicherheitsfunktionen von der Hardware abstrahiert werden,
+auf der sie laufen, und zu virtuellen Netzwerkfunktionen werden. Diese Virtualisierung erm&#246;glicht zus&#228;tzliche
+Funktionen wie die Segmentierung und neue Sicherheitsebenen. Gerade in schnell wachsenden, volatilen
+Netzen wie sie im Bereich IoT und IIoT anzutreffen sind ist die Kombination von Software defined Security und 
+Software defined Security ein relevanter Ansatz.
+&#8226; Maschinenlesbare Bedrohungsinformationen 
+Kollaborative IT-Sicherheit ist gerade im Bereich von KMU von gro&#223;er Bedeutung, da diesen die Ressourcen
+fehlen, um umfangreiche Informationen &#252;ber aktuelle Bedrohungslagen selbst zu sammeln. Eine wichtige
+Technologie in diesem Zusammenhang sind maschinenlesbare Bedrohungsinformationen, welche zentral
+zusammengestellt und dann vielen Nutzenden zur Verf&#252;gung gestellt werden. Diese k&#246;nnen dann Ihre
+Sicherheitsentscheidungen wie z.B. Firewall Regeln oder Intrusion Detection Systeme entsprechen automatisch
+anpassen.
+&#8226; Cyber thread Intelligence und kooperative Cybersicherheit 
+Um eine effektive und schnelle Cyber-Verteidigung aufzubauen, ben&#246;tigen Organisationen tiefe Einblicke in
+die Cyber-Bedrohungslandschaft, insbesondere aktuelle Bedrohungen und F&#228;higkeiten von zu erwartenden
+Angreifern. Entsprechende Systeme sammeln unterschiedliche Daten, analysieren sie und ermitteln so digitale 
+Risiken. Diese Informationen dienen als Ausgangspunkt f&#252;r zeitnahe, teils auch automatische,
+Sicherheitsma&#223;nahmen. Gerade im Bereich KMU, welche keine eigene Cyber Thread Intelligence betreiben k&#246;nnen, kann
+durch Kooperation eine starke Verbesserung der Sicherheit erreicht werden.
+Besonders relevante Anwendungsfelder sind:
+&#8226; IT-Sicherheit f&#252;r Industrie 4.0 
+W&#228;hrend digitale Endger&#228;te und Softwarel&#246;sungen st&#228;ndig &#252;berarbeitet und angepasst werden und entsprechend
+einen relativ kurzen Lebenszyklus haben, sind Lebenszyklen bei Produktionsanlagen und IT-Systemen in der
+Produktion sehr lang. Daher bedarf es Konzepte und L&#246;sungen f&#252;r eine nachhaltige IT-Sicherheit &#252;ber den
+gesamten Lebenszyklus der industriellen Maschinen und Anlagen hinweg, unter Ber&#252;cksichtigung der industriellen
+Spezifika. Unter anderem sind Ans&#228;tze zu entwickeln, wie IT-Sicherheitsl&#246;sungen im Nachhinein in
+Bestandssysteme integriert werden und wie Sicherheitsupdates ohne Beeintr&#228;chtigung von Betriebssicherheit durchgef&#252;hrt 
+werden k&#246;nnen. Um die L&#246;sungen vergleichbar und &#252;bertragbar zu gestalten, sind zus&#228;tzlich Konzepte zur
+Sicherheitszertifizierung n&#246;tig. F&#252;r die digitale Vernetzung der Produktion werden die einzelnen beteiligten
+Komponenten inklusive aller Eigenschaften sowie die Kommunikationsschnittstelle sogenannter digitaler Zwillinge
+gespiegelt und &#252;ber eine sogenannte Verwaltungsschale gesteuert. Hierbei muss die Kommunikationsschnittstelle,
+aber auch der Zugriff auf die Verwaltungsschale selbst, sicher gestaltet sein. Im Rahmen der Industrie 4.0 wird
+nicht nur die sogenannte Operational Technology der Produktion untereinander vernetzt. Zunehmend findet auch
+eine Vernetzung mit den sonstigen IKT-Systemen im Unternehmen statt. Hieraus ergeben sich neue
+Herausforderungen an die Sicherheit, wozu es spezifischer Sicherheitsl&#246;sungen bedarf.
+&#8226; IT-Sicherheit f&#252;r Medizin, Gesundheit und Pflege 
+Die Digitalisierung schreitet auch in der Medizin weiter voran und betrifft dort alle Bereiche von der
+allgemeinmedizinischen Praxis &#252;ber das Labor bis hin zu den Menschen in Behandlung. Entsprechend sind auch f&#252;r alle
+digitalen Anwendungen in diesen verschiedenen Bereichen nutzungsfreundliche, wirtschaftliche und
+zukunftsf&#228;hige Sicherheitsl&#246;sungen und -konzepte notwendig, die die Sicherheit auf allen Ebenen gew&#228;hrleisten. Beispiele
+sind die Vernetzung der Medizintechnik in Laboren und Krankenh&#228;usern, die Integration von mobilen Ger&#228;ten in
+klinische IT-Umgebungen (zum Beispiel Tablets f&#252;r die digitale Patientenakte), digitale Anwendungen in der
+medizinischen Betreuung im Wohn- und Pflegebereich (etwa Medikationsapps), Telemedizin beispielsweise in
+der haus&#228;rztlichen Betreuung, Health-Wearables (zum Beispiel Fitnessarmb&#228;nder) sowie Apps und Chatbots zur
+Unterst&#252;tzung der medizinischen Diagnosestellung. Da medizinische Daten, insbesondere auch in klinischer
+Forschung, besonders sensibel sind und zunehmend in das Visier von Cyberkriminellen r&#252;cken, m&#252;ssen zudem
+&#252;bergeordnet neue Anwendungen und Konzepte entwickelt werden, die eine sichere Speicherung und
+nachvollziehbare Nutzung aller k&#246;rperlichen Fitness- und medizinischen Daten zulassen. Gleichwohl sind Haftungsfragen zu
+kl&#228;ren, f&#252;r den Fall, dass medizinische Daten gehackt werden. IT-Sicherheitssysteme sind nicht unfehlbar und
+Fehler haben weitreichende juristische und finanzielle Konsequenzen, besonders in Bereichen mit sehr sensiblen
+Daten. Insbesondere die schleichenden &#220;berg&#228;nge zwischen dem medizinischen Kernbereich mit Vorsorge,
+Diagnose und Behandlung sowie den angrenzenden Anwendungsfeldern sind von Interesse, da die
+Zulassungsverfahren von Medizinprodukten nicht greifen. Aber auch die sichere Nutzbarhaltung und Modernisierung von
+bestehenden technischen Bestands- und Altsystemen muss Gegenstand weiterer Anstrengungen sein. IT-Sicherheit
+ist auch gef&#228;hrdet, wenn medizinisches Personal unzul&#228;nglich im Umgang mit digitalen Systemen geschult ist 
+und die notwendige Sensibilisierung f&#252;r IT-Sicherheit nicht ausreichend erfolgt.
+&#8226; IT-Sicherheit in sensiblen Infrastrukturen 
+Immer mehr Alltagsger&#228;te, vom K&#252;hlschrank &#252;ber das Babyphone bis hin zur Kaffeemaschine, verf&#252;gen &#252;ber
+digitale Schnittstellen, sind &#252;ber das Internet miteinander vernetzt und bilden so das Internet der Dinge (Internet
+of Things &#8722; IoT). Da viele dieser Ger&#228;te beispielweise als Smart-Home-Anwendungen &#228;u&#223;erst private Daten 
+sammeln oder gegebenenfalls auch direkten digitalen Zugriff auf unsere Kinder zulassen sowie neue Formen
+digitaler (h&#228;uslicher) Gewalt insbesondere gegen Frauen mit sich bringen k&#246;nnen (beispielsweise heimliche
+Stalking-Apps auf dem Smartphone der Ex-Partnerin, heimliche Raum&#252;berwachung durch Privatpersonen,
+Upskirting), sind sie besonders sensibel und m&#252;ssen mit flexiblen und innovativen L&#246;sungen im Sinne des
+Privatheitsschutzes sicher gestaltet werden. Eine weitere sensible Infrastruktur sind Rechenzentren, insbesondere auch
+Hochleistungsrechenzentren, da hier die Daten einer Vielzahl an Anwendungen zusammenlaufen und Angriffe
+entsprechend gro&#223;e Auswirkungen haben k&#246;nnen. Besonders wichtig ist es daher, auch hier Ans&#228;tze und L&#246;sungen
+weiterzuentwickeln, die der Relevanz und Exposition dieser Anlagen gerecht werden.
+&#8226; IT-Sicherheit in Kritischen Infrastrukturen 
+KRITIS wie zum Beispiel das Schienennetz, bei der Strom- oder der Wasserversorgung, in Krankenh&#228;usern aber
+auch im Finanzsektor sind systemrelevant f&#252;r unser gesellschaftliches Leben und bed&#252;rfen daher eines besonderen
+Schutzniveaus, insbesondere da Angriffe auf KRITIS auch hierzulande in den letzten Jahren stattgefunden haben.
+Da die Angreifenden immer neue Techniken und Ressourcen einsetzen, m&#252;ssen Angriffspotenziale und m&#246;gliche 
+Gegenma&#223;nahmen bei KRITIS stetig anhand neuer L&#246;sungen und Konzepte bewertet und analysiert werden.
+Angesichts der sich fortlaufend &#228;ndernden Bedrohungslage gilt es, immer wieder neue, umfassende digitale
+Schutzkonzepte f&#252;r die IT-Infrastrukturen der KRITIS zu entwickeln. Hierzu beitragen k&#246;nnen auch L&#246;sungen zum
+Erkennen von St&#246;rungen und Anomalien, die auf KI basieren und die gegebenenfalls auch automatisiert
+Abwehrma&#223;nahmen einleiten. Damit dies m&#246;glich wird, sind Konzepte notwendig, die &#252;bergeordnet sicherheitsrelevante
+Ereignisse in Echtzeit erfassen und bewerten. So k&#246;nnen Echtzeitlagebilder entstehen, aus denen entsprechende 
+Ma&#223;nahmen zum Schutz der IT-Infrastrukturen ableitbar sind. Zudem gilt es, wie in der Industrie 4.0, L&#246;sungen
+daf&#252;r zu entwickeln, wie auch in KRITIS bereits vorhandene IT-Infrastrukturen an die sich &#228;ndernden
+Sicherheitsrahmenbedingungen angepasst werden k&#246;nnen. Neben diesen Ma&#223;nahmen ist das Problembewusstsein f&#252;r
+IT-Sicherheit bei KRITIS-Betreibern durch &#246;ffentlichkeitswirksame Ma&#223;nahmen und gezielte Ansprache zu
+sch&#228;rfen. Einige KRITIS-Bereiche k&#246;nnen nur EU-weit gesch&#252;tzt werden, wie der Finanzdienstleistungs- und der
+schienengebundene Transportsektor, andere k&#246;nnen auch im deutschen Wirtschaftsraum gesch&#252;tzt werden, wie
+das digitale Gesundheitssystem.
+IoT-Sicherheit
+IoT-Ger&#228;te kommen meist in gro&#223;er Anzahl und in den unterschiedlichsten Gr&#246;&#223;en, Bauformen und
+Leistungsklasse vor. Daher sind klassische Sicherheitsmechanismen wie Endpoint-Security schwierig umzusetzen.
+Auswahl wichtige Ma&#223;nahmen der IoT-Sicherheit im &#220;berblick:
+&#8226; Systementwicklung 
+IoT-Sicherheit erfordert einen holistischen Ansatz. Sicherheit muss &#252;ber den gesamten Produktlebenszyklus
+zentral Ber&#252;cksichtigt. Es ist entscheidend, Sicherheit bereits in der Designphase von Hardware und Software
+zu ber&#252;cksichtigen.
+&#8226; Netzwerksicherheit 
+IoT-Netzwerke sind zunehmend drahtlos. Dies erh&#246;ht die Komplexit&#228;t der Herausforderung IoT-Netzwerke
+sicher zu betrieben, da es eine Vielzahl von neuen HF- und drahtlosen Kommunikationsprotokollen und -
+standards gibt.
+&#8226; Authentifizierung 
+IoT-Ger&#228;te m&#252;ssen von allen legitimen Benutzern authentifiziert werden. Die Methoden f&#252;r eine solche
+Authentifizierung reichen von statischen Passw&#246;rtern bis hin zu Zwei-Faktor-Authentifizierung, Biometrie und
+digitalen Zertifikaten.
+&#8226; Verschl&#252;sselung 
+Verschl&#252;sselung ist notwendig, um unbefugten Zugriff auf Daten und Ger&#228;te zu verhindern und die
+Authentizit&#228;t von Daten sicherzustellen. Dies ist aufgrund der Vielfalt der IoT-Ger&#228;te und Hardware-Profile eine
+besondere Herausforderung.
+&#8226; Seitenkanalanalyse 
+Selbst bei ausreichender Verschl&#252;sselung und Authentifizierung ist eine weitere Bedrohung m&#246;glich, n&#228;mlich
+Seitenkanalangriffe. Seitenkanalangriffe sammeln Betriebscharakteristika wie zum Beispiel Ausf&#252;hrungszeit,
+Stromverbraucher und elektromagnetische Abstrahlung um kryptographische Schl&#252;sseln auszulesen. Solche
+Seitenkan&#228;le m&#252;ssen erkannt und abgesichert werden.
+&#8226; Autonomes und vernetztes Fahren 
+Ein Beispiel f&#252;r besondere Sensibilit&#228;t ist der Bereich des autonomen und vernetzten Fahrens. Diese Art der
+Fahrzeugf&#252;hrung wird dadurch m&#246;glich, dass eine Vielzahl an Daten durch das Fahrzeug und die Infrastruktur erfasst 
+und ausgewertet werden. Eine Manipulation der Daten kann im schlimmsten Fall zu Unf&#228;llen, mindestens aber
+zu gro&#223;fl&#228;chigen St&#246;rungen der Verkehrssysteme f&#252;hren. Entsprechend relevant ist es, L&#246;sungen, Konzepte und
+Pr&#252;fverfahren zu entwickeln, die im Kontext des autonomen und vernetzten Fahrens sichere
+Gesamtinfrastrukturen erm&#246;glichen. Dies reicht von einzelnen Komponenten und Fahrzeugen &#252;ber Datenschnittstellen bis zur
+sicheren Einbindung der Leit- und Sicherungssysteme f&#252;r Stra&#223;e und Schiene mittels IoT-basierter
+Kommunikationswege.
+&#8226; Vertrauensw&#252;rdige und sichere Lieferketten 
+Lieferketten m&#252;ssen umfassend abgesichert werden, beispielsweise durch die Schaffung von sicheren digitalen
+Schnittstellen und Standards zwischen den einzelnen Produktionsbeteiligten entlang der kompletten
+Wertsch&#246;pfungskette. Ebenso sind technische Sicherungen wie beispielsweise Physically Unclonable Functions,
+Reproducible Builds und Distributed Ledger sowie grundlegend neue Testverfahren erforderlich. Durch die
+Digitalisierung sind Produktionsprozesse ebenso wie Dienstleistungen auch &#252;ber Unternehmensgrenzen hinweg sehr stark
+miteinander vernetzt. Dadurch k&#246;nnen Sicherheitsprobleme an einer Stelle der Produktion schnell zu
+Schwierigkeiten an einer anderen Stelle im Prozess f&#252;hren und sich von einem Unternehmen auf das andere &#252;bertragen. Im
+Zuge der Datafizierung k&#246;nnen auch Datenfl&#252;sse als Teil der Lieferkette gesehen werden und m&#252;ssen ebenso
+authentisiert und gesichert werden.
+&#8226; Querschnittsbereiche, die branchen&#252;bergreifend Mehrwerte schaffen 
+o Um IT-Systeme sicher zu gestalten, sind von Unternehmen, aber auch von Privatnutzenden
+Investitionen notwendig. Deren finanzieller Nutzen wird, wenn &#252;berhaupt, erst im Nachhinein &#8722; nach einem
+erfolgreichen oder abgewehrten Angriff &#8722; deutlich, weshalb nach wie vor nicht ausreichend in IT-
+Sicherheit investiert wird. Hierzu sind detaillierte und ma&#223;geschneiderte Analysemethoden und
+Werkzeuge notwendig, die insbesondere KMU in den Blick nehmen, um m&#246;gliche Sch&#228;den durch
+Cyberangriffe zu quantifizieren und die Vorsorge &#246;konomisch planen zu k&#246;nnen.
+o Um eigene Ressourcen zu schonen, lagern Unternehmen insbesondere bei der Datenverarbeitung und -
+speicherung zunehmend interne Prozesse auf digitale Infrastrukturen Dritter aus, zum Beispiel per
+Cloud-Computing. Hierbei ergeben sich zahlreiche Sicherheitsrisiken, welche adressiert werden
+m&#252;ssen. Es bedarf weitgehend automatisierter Kontroll- und &#220;berwachungsmechanismen f&#252;r die
+Einhaltung von Sicherheitsstandards, die von der Kundschaft selbst oder von Dritten genutzt werden k&#246;nnen,
+unabh&#228;ngig von Standort und Rechtsrahmen des Unternehmens, das den jeweiligen Service anbietet
+(zum Beispiel kontinuierliches Audit).
+3.2.2 IT-Sicherheit in der Quanteninformationsverarbeitung fr&#252;hzeitig entwickeln
+Wie bei den heutigen informationsverarbeitenden Systemen spielt die IT-Sicherheit auch in der Verarbeitung und
+Nutzung von Quanteninformationen eine wichtige Rolle. Vernetzte Quantencomputer oder Quantensensoren
+k&#246;nnen ebenso Ziel von Angriffen werden wie gew&#246;hnliche Computer und Informationssysteme. Damit
+Quantentechnologien zuk&#252;nftig in Industrie und Gesellschaft ihr volles Potenzial entfalten k&#246;nnen, m&#252;ssen ganzheitlich 
+sichere Architekturen f&#252;r die Quanteninformationsverarbeitung geschaffen werden. Die Nutzung
+quantenmechanischer Verschr&#228;nkung &#252;ber ganze Netzwerkstrukturen wird es erm&#246;glichen, weitere innovative
+Sicherheitskonzepte zu realisieren.
+Eine Schl&#252;sseltechnologie f&#252;r Abh&#246;rsicherheit ist zudem die Quantenkommunikation. Sie erm&#246;glicht es, durch
+die Nutzung grundlegender physikalischer Effekte die Vertraulichkeit von sensiblen Informationen zu wahren &#8722;
+und leistet damit einen wichtigen Beitrag f&#252;r Deutschlands technologische Souver&#228;nit&#228;t. Die
+Quantenkommunikation bietet dabei nicht nur neue Sicherheitsmechanismen f&#252;r die heute g&#228;ngige Informationsverarbeitung,
+sondern auch f&#252;r die Quanteninformationsverarbeitung.
+Die Forschung zur Quantenkommunikation besch&#228;ftigt sich bislang haupts&#228;chlich mit der abh&#246;rsicheren
+&#220;bertragung von Schl&#252;sseln. Bei der Verteilung von Schl&#252;sseln bestehen andere, zum Teil geringere Anforderungen an
+die &#220;bertragungsqualit&#228;t als bei der Vernetzung von Quantencomputern. Auf dem Weg zu einer zuk&#252;nftigen
+Version des heutigen Internets, das Quantenkommunikation umfasst, stellt die Entwicklung leistungsf&#228;higer
+Komponenten zum Prozessieren und Speichern von Quanteninformationen und zur Verarbeitung quantenoptischer
+Signale eine gro&#223;e Herausforderung dar. Weitere Herausforderungen bestehen bei der Erforschung und Entwicklung 
+geeigneter Quantennetzwerkstrukturen und deren Implementierung in Verbindung mit bestehenden klassischen
+Infrastrukturen. Das bereits vorhandene Know-how aus Deutschlands hervorragend aufgestellter
+Grundlagenforschung muss daf&#252;r auf Umsetzungspartner transferiert werden, die es in die Anwendung bringen. Neben den 
+Aspekten der IT-Sicherheit, die in diesem Programm adressiert werden, werden die technologischen Grundlagen
+zuk&#252;nftiger quanteninformationsverarbeitender Systeme im aktuellen Rahmenprogramm der Bundesregierung
+&#8222;Quantentechnologien &#8211; von den Grundlagen zum Markt&#8220;5 sowie dem kommenden Forschungsprogramm
+Quantensysteme adressiert6.
+Quantenkommunikation
+Die Quantenkommunikation ist eine Schl&#252;sseltechnologie f&#252;r abh&#246;rsichere Vernetzung auf Basis
+grundlegender physikalischer Effekte. Sie bietet auch zuk&#252;nftig Abh&#246;rsicherheit vor dem Hintergrund, dass
+leistungsf&#228;hige Quantencomputer schon bald viele kryptografische Verfahren entschl&#252;sseln k&#246;nnten, die heute z. B. beim
+Online-Banking oder beim Abrufen von E-Mails verwendet werden. Die weltweite Forschung befindet sich
+derzeit im Wettbewerb um die ersten anwendungstauglichen Quantenkommunikationssysteme. Dabei gilt es
+die aktuell sehr vielf&#228;ltigen technologischen Ans&#228;tze zu erproben, zu kombinieren und in bereits existierende 
+Kommunikations- und IT-Infrastrukturen einzubetten. Diese Schritte sowie die Entwicklung von geeigneten
+Quantennetzwerkstrukturen und skalierbaren Quantenkommunikationskomponenten stellen derzeit gro&#223;e
+Herausforderungen dar, die zur Entwicklung zuk&#252;nftiger praxistauglicher Quantennetzwerke &#252;berwunden werden
+m&#252;ssen.
+5 https://www.quantentechnologien.de/qt-in-deutschland/programm.html
+6 https://www.quantentechnologien.de/ (in Vorbereitung)
+Beispiele f&#252;r k&#252;nftige Handlungsfelder sind:
+&#8226; Sichere und effiziente Quantennetzwerke: 
+Theoretische und experimentelle Grundlagen zur Architektur sicherer und effizienter Quantennetzwerke m&#252;ssen
+weiterentwickelt und deren Einbindung in klassische Netzwerke weiter untersucht werden &#8211; beispielsweise in den
+Bereichen quantenlogische Signalverarbeitung, Fehlerkorrekturmechanismen, Netzwerkprotokolle und weitere
+innovative Konzepte der Kodierung von Quanteninformation zur Verbesserung des Leistungsverm&#246;gens derzeit
+bestehender Systeme.
+&#8226; Quantenmechanisch basierte Sicherheitskonzepte: 
+Die Leistungsf&#228;higkeit und Robustheit von Quantenkommunikationskomponenten sowie f&#252;r andere
+quantenmechanisch basierte Sicherheitskonzepte m&#252;ssen verbessert und ihre Sicherheitseigenschaften detailliert erforscht 
+werden.
+&#8226; Verbesserung von sicheren Quantenkommunikationssystemen: 
+Es bedarf der Entwicklung hybrider Quantenkommunikationssysteme auf Basis faseroptischer Kommunikation
+und Freiraumkommunikation unter Verwendung verschiedener Arten von Quantenspeichern.
+&#8226; Sichere Quanteninformationsverarbeitungssysteme: 
+M&#246;gliche Angriffsstrategien auf Systeme zur Quanteninformationsverarbeitung m&#252;ssen analysiert und wirksame 
+Gegenma&#223;nahmen zur Verbesserung der IT-Sicherheit entwickelt werden.
+3.2.3 Zuk&#252;nftige Technologien der IT-Sicherheit beherrschen
+Ein schnell voranschreitendes Forschungsgebiet sind neue Rechner- und Chiparchitekturen, wie
+Quantencomputing und andere, die dem &#8222;Beyond-von-Neumann&#8220;-Trend folgen. Diese sind f&#252;r Spezialanwendungen h&#228;ufig
+deutlich leistungsf&#228;higer. Basierend auf den Erkenntnissen &#252;ber Schw&#228;chen bisheriger Architekturen, wie der am
+weitesten verbreiteten Von-Neumann-Architektur, muss Sicherheit von Anfang an mitgedacht werden.
+Herausforderungen dabei sind sowohl die grundlegende Erforschung von Angriffsm&#246;glichkeiten auf solche
+Architekturen als auch die Entwicklung von leistungsf&#228;higen Sicherheitskonzepten, um solche Angriffe abzuwehren. Mit
+der, nach Einsch&#228;tzung von Expertinnen und Experten wahrscheinlichen, Verf&#252;gbarkeit von fehlertoleranten und
+leistungsf&#228;higen Quantencomputern werden die meisten asymmetrischen kryptografischen Verfahren, die heute 
+relevant sind, keine ausreichende Sicherheit mehr gew&#228;hrleisten k&#246;nnen. Die verwendeten Schl&#252;ssel k&#246;nnen von
+Quantencomputern ermittelt werden, damit ist die Verschl&#252;sselung gebrochen. Dieser Herausforderung muss mit 
+weiterer Forschung an Post-Quanten-Kryptografie und Kryptoagilit&#228;t begegnet werden.
+Neben Bedrohungen durch g&#228;nzlich neue Architekturen und Konzepte muss insbesondere der Bereich KI
+fokussiert werden. In wenigen Jahren wird eine immense Zahl von digitalen Systemen KI-Komponenten enthalten. 
+Daher wird die Sicherheit von KI s&#228;mtliche digitalen Systeme ma&#223;geblich beeinflussen. Die Forschung und
+Entwicklung zur Absicherung dieser Systeme muss wesentlich schneller erfolgen als bei bisherigen neuen
+Technologien.
+Beispiele f&#252;r k&#252;nftige Handlungsfelder sind:
+&#8226; Sichere Verschl&#252;sselungsverfahren f&#252;r die Zukunft: 
+Die klassische Public-Key-Kryptografie muss mit Blick auf die Bedrohung durch Quantencomputer durch
+alternative Verfahren der Post-Quanten-Kryptografie ersetzt oder erg&#228;nzt werden. Entsprechend muss erforscht
+werden, wie Komponenten, die klassische Public-Key-Kryptografie verwenden, in das Zeitalter der Post-Quanten-
+Kryptografie &#252;berf&#252;hrt werden k&#246;nnen, beziehungsweise wie diese klassische Kryptografie mit Verfahren der
+Post-Quanten-Kryptografie und Quantenkryptografie kombiniert werden kann.
+&#8226; Sicherheit von neuen Rechner- und Chiparchitekturen: 
+Verschiedene Forschungsgebiete besch&#228;ftigen sich mit der Erh&#246;hung der Rechenleistung und sind disruptive
+Konzepte des &#8222;Beyond-von-Neumann&#8220;-Trends. Beispiele sind &#8222;Rechnen-im-Speicher&#8220;, &#8222;neuromorphe Chips&#8220;,
+&#8222;k&#252;nstliche Synapsen&#8220; und &#8222;Analogrechner&#8220;. Auch bei diesen Neuentwicklungen gilt es, das Konzept der
+Security by Design von Grund auf mitzudenken und umzusetzen. Im Bereich von neuromorphen Chips sowie
+anderen neuen Chiparchitekturen m&#252;ssen insbesondere auch Sicherheitsrisiken von Anfang an mit untersucht 
+werden. Diese ergeben sich aus der Vernetzung vieler solcher Chips, unter anderem f&#252;r Zugriffskontrollen,
+Fernwartung, Betriebssicherheit, &#220;berwachung, Wartung o der Fehlerkorrekturverfahren.
+&#8226; Sicherheit zuk&#252;nftiger Quantencomputer: 
+Als g&#228;nzlich neue Umgebung der digitalen IKT bietet der Bereich Quantencomputing die M&#246;glichkeit, die
+Sicherheit der Anwendungen im Sinne des Ansatzes der Security by Design von vorneherein mitzudenken und
+L&#246;sungen und Konzepte f&#252;r die Zukunft zu entwickeln, damit diese bei der Entwicklung anwendungsreifer
+Systeme zur Verf&#252;gung stehen.
+3.3 IT-Sicherheit sch&#252;tzt Privatheit und st&#252;tzt Demokratie
+Um die Privatheit jedes einzelnen Menschen ebenso wie unsere demokratische Gesellschaft als Ganzes zu st&#228;rken,
+brauchen wir Forschung und Innovation in der IT-Sicherheit. Denn digitale Technologien bieten viele
+M&#246;glichkeiten der Kontrolle und &#220;berwachung &#8211; und sind damit potenziell eine Bedrohung f&#252;r die informationelle
+Selbststimmung von Menschen. IT-Sicherheitstechnologien k&#246;nnen durch Ans&#228;tze wie Privacy by Design und Security 
+by Design sowie Privacy by Default und Security by Default Menschen Kontrolle, Selbstbestimmung und
+Souver&#228;nit&#228;t &#252;ber ihre Daten erm&#246;glichen &#8722; auch in einer vollvernetzten Welt.
+Die bekannten Schutzziele der Informationssicherheit, zu der die IT-Sicherheit geh&#246;rt, sind Vertraulichkeit,
+Integrit&#228;t und Verf&#252;gbarkeit von Informationen und deren Gew&#228;hrleistung (siehe IT-Grundschutz-Kompendium
+des BSI). Das bedeutet, dass IT-Sicherheit den Datenschutz in einer besonderen Weise st&#252;tzt.
+Informationelle Selbstbestimmung und das Recht auf Gew&#228;hrleistung der Vertraulichkeit und Integrit&#228;t
+informationstechnischer Systeme sind in Deutschland zentrale Grundrechte, die durch Datenschutz realisiert werden.
+Diese Grundrechte sind aus dem allgemeinen Pers&#246;nlichkeitsrecht (Artikel 2 Absatz 1 und Artikel 1 Absatz 1 des
+Grundgesetzes) abgeleitet. In Verbindung mit dem Diskriminierungsschutz durch Artikel3 Absatz 2 und 3 des
+Grundgesetzes bedeutet dies zudem, dass Menschen durch automatisierte Datenverwendung auch nicht aufgrund
+rassistischer Zuschreibungen, ihres Geschlechts, ihrer Religion oder Weltanschauung, ihrer Behinderungen oder
+ihrer Herkunft benachteiligt werden d&#252;rfen und die Gleichberechtigung von M&#228;nnern und Frauen gef&#246;rdert
+werden muss. Auch die EU sichert in ihrer Grundrechtecharta mit den Artikeln 7 und 8 Schutz vor &#220;berwachung und 
+unbefugtem Datenzugriff und den Artikeln 20, 21 und 23 Diskriminierungsschutz zu. Die DSGVO ist hier eines
+der wichtigsten EU-weiten Regelwerke. Datenschutz ist jedoch durch neue digitale Technologien und h&#246;here
+Komplexit&#228;ten laufend herausgefordert. Denn inzwischen geh&#246;rt es zu vielen Gesch&#228;ftsmodellen, umfangreiche 
+Daten, insbesondere &#252;ber Personen, zu erfassen und zu nutzen. H&#228;ufig geht es dabei um sensible Informationen
+wie Gesundheitsdaten, Kommunikationsinhalte oder das individuelle Surf- und Kaufverhalten. Durch die
+allgegenw&#228;rtige Vernetzung sammeln neben smarten Fernsehern und digitalen Assistenten inzwischen auch
+Lichtsysteme, Staubsauger, K&#252;hlschr&#228;nke und Fahrzeuge Informationen &#252;ber ihr Umfeld. Und dies sind nur Beispiele:
+Denn in Zukunft wird das Internet der Dinge, bef&#246;rdert von neuen Vernetzungstechnologien wie 5G und 6G,
+enorm anwachsen und allgegenw&#228;rtig sein, Daten sammeln und so auch Aufschluss &#252;ber Nutzungsverhalten
+geben.
+Online-Plattformen bringen sehr viele Nutzende zusammen. Beg&#252;nstigt durch Netzwerkeffekte entsteht eine
+Plattform&#246;konomie mit gro&#223;en Marktanteilen einzelner Unternehmen. W&#228;hrend soziale Medien und Messengerdienste
+Menschen erm&#246;glichen, sich spielend leicht miteinander zu verbinden, werden dort auch in gro&#223;em Umfang
+Desinformationen verbreitet. Die Herausforderung f&#252;r die Forschung ist es, L&#246;sungen zu entwickeln und anzubieten, 
+die in Daten- und Plattform&#246;konomien eine Balance zwischen pers&#246;nlichem Nutzen, wirtschaftlicher Verwertung,
+Demokratie und Datenschutz erm&#246;glichen. Der Schutz von Daten ist hier keineswegs ein Hemmnis f&#252;r
+Innovation, sondern durch neue Anforderungen und Ziele ein wichtiger treibender Faktor. Es gilt zu zeigen, dass
+privatsph&#228;reschonende Gesch&#228;ftsmodelle und die Vermeidung der Diskriminierung von Nutzenden (beispielsweise
+durch Gender Targeting bei Stellenanzeigen, diskriminierende Auftragsvergabe auf Plattformen), insbesondere 
+durch den Einsatz innovativer technischer L&#246;sungen, &#246;konomisch tragf&#228;hig sein und dass digitale M&#246;glichkeiten
+Demokratien st&#228;rken k&#246;nnen. Im Zuge der &#220;bernahme von Regelungen der DSGVO werden auch international
+Technologien ben&#246;tigt, die die Privatsph&#228;re schonen und verbessern. Deutschland hat hier aufgrund der starken
+Datenschutzgesetzgebung einen Vorsprung in Wissen und Technik. Dieser Vorsprung muss konsequent
+ausgebaut und langfristig als Standortvorteil etabliert werden. Hierzu geh&#246;rt auch, Erfahrungen mit Problemen durch
+Datenschutz konsequent zu adressieren, diese als wichtige Impulse f&#252;r Innovation zu nutzen und Alternativen zu
+entwickeln, welche datenschutzfreundlich und nutzbar sind.
+3.3.1 Grundrechte und informationelle Selbstbestimmung sch&#252;tzen
+Sichere IKT-Systeme und Verschl&#252;sselung sind wichtige Grundlagentechnologien, die Nutzende in die Lage
+versetzen, ihr Recht auf digitale Selbstbestimmung wahrzunehmen und selbst zu entscheiden, welche Daten &#252;ber sie
+erhoben und wie diese Daten genutzt werden d&#252;rfen. &#220;ber die eigentlichen Inhalte hinaus sind sogenannte
+Metadaten von immer gr&#246;&#223;erem Interesse. Diese k&#246;nnen auch R&#252;ckschl&#252;sse auf personenbezogene Daten wie Alter
+oder Geschlecht erm&#246;glichen, selbst wenn diese nicht explizit erhoben werden. Auch hier leisten Technologien
+aus der IT-Sicherheit wie zum Beispiel die der Anonymisierung einen wichtigen Beitrag zur Selbstbestimmung
+von B&#252;rgerinnen und B&#252;rgern. Eine der Herausforderungen ist es, Technologien von Grund auf so zu gestalten,
+dass sie die Grundrechte der B&#252;rgerinnen und B&#252;rger nicht aush&#246;hlen, sondern sie in der Wahrung ihrer Rechte 
+und der Kontrolle &#252;ber ihre Daten unterst&#252;tzen. Hierzu bedarf es neben technischer, verst&#228;ndlicher
+Schutzl&#246;sungen auch eines Diskurses, welche Art der Datennutzung erw&#252;nscht ist und wie eine zeitgem&#228;&#223;e Interpretation der
+Grundrechte aussieht. Hierbei muss insbesondere die europ&#228;ische Dimension ber&#252;cksichtigt werden.
+Beispiele f&#252;r k&#252;nftige Handlungsfelder sind:
+&#8226; B&#252;rgerinnen und B&#252;rger bei der Wahrnehmung des Grundrechts auf informationelle
+Selbstbestimmung unterst&#252;tzen: 
+Es muss untersucht werden, wie der Schutz der Grundrechte bei allen technischen Entwicklungen ber&#252;cksichtigt
+werden kann (Privacy by Design und Privacy by Default sowie Security by Design und Security by Default).
+&#8226; Datenschutz technisch umsetzen: 
+Es bedarf Konzepte und benutzbarer Werkzeuge zur Durchsetzung der Zweck- und Kontextbindung
+personenbeziehbarer Daten, technisch wie rechtlich. Zudem sollen auch die Rahmenbedingungen zur kollektiven
+Wahrnehmung von Betroffenenrechten, zum Beispiel in Form von Datentreuh&#228;ndern, untersucht und gegebenenfalls
+entsprechende Konzepte f&#252;r die Umsetzung entwickelt werden.
+&#8226; Privatsph&#228;reschonende Technologien (Privacy Enhancing Technologies, PETs) und Gesch&#228;ftsmodelle 
+entwickeln: 
+Zur Etablierung von Datenschutz als Innovationstreiber m&#252;ssen tragf&#228;hige und die Privatsph&#228;re schonende
+Gesch&#228;ftsmodelle entwickelt und erprobt werden. Weiterhin bedarf es auch PETs, um die sichere digitale Teilhabe
+zu st&#228;rken. Dies umfasst unter anderem Depersonalisierung und Anonymisierung von Daten ebenso wie weitere 
+Verfahren, die eine sichere, mehrwertige Verarbeitung von Daten erm&#246;glichen. Dazu geh&#246;rt beispielsweise
+Private Information Retrieval (PIR) und Secure Multiparty Computation (SMPC).
+&#8226; Zukunftstechnologien privatsph&#228;reschonend gestalten: 
+Von besonderer Bedeutung ist es, KI-, IoT- und Cloud-Systeme privatsph&#228;reschonend zu gestalten (Privacy
+Preserving Computing) und Konzepte f&#252;r effiziente und privatheitsfreundliche Werbung zu entwickeln. Besonderes
+Augenmerk ist auf Systeme in besonders sensiblen Bereichen wie etwa der Personalauswahl zu richten.
+&#8226; Einbeziehung von Technik- und Datenschutzfolgenabsch&#228;tzungen: 
+Neben technischen Konzepten sind umfassende Datenschutzfolgenabsch&#228;tzungen im Sinne der DSGVO &#8211; auch
+im Hinblick auf m&#246;gliche Diskriminierungen &#8211; ein wichtiges Instrument, um den Grundrechtsschutz beim Einsatz 
+digitaler Technologien zu gew&#228;hrleisten. Daneben helfen Technikfolgenabsch&#228;tzungen, die Gefahr
+unerw&#252;nschter Auswirkungen von IT-Systemen bereits fr&#252;hzeitig zu erkennen. Um diese Verfahren von Anfang an in der
+Systementwicklung mitzudenken, m&#252;ssen diese fest in die technische Entwicklungsperspektive integriert werden.
+&#8226; Risikoabsch&#228;tzungen vornehmen: 
+In die Forschung zu IT-Sicherheit m&#252;ssen Rechts-, Sozial- und Ethikwissenschaftlerinnen und -wissenschaftler
+eingebunden werden, um Technologien dahingehend zu bewerten, inwiefern sie die Privatsph&#228;re gef&#228;hrden oder
+Menschen diskriminieren.
+Privacy Enhancing Technologies (PETs)
+Technologien zum Schutz der Privatsph&#228;re sind Technologien, die grundlegende Datenschutzprinzipien
+verk&#246;rpern, indem sie die Erhebung personenbeziehbarer Daten minimieren oder die Nutzung dieser Daten bei 
+gleichzeitigem Schutz der Privatheit erm&#246;glichen. Die dabei bearbeiteten Fragen und Problemstellungen sind
+auf allen Ebenen von IKT-Systemen und Infrastrukturen angesiedelt und die genutzten Technologien
+entsprechend vielf&#228;ltig.
+Ein Ausschnitt der Technologien sind die folgenden:
+&#8226; Privacy Preserving Data Mining, 
+&#8226; Secure Multiparty Computation, 
+&#8226; Zero-knowledge proofs, 
+&#8226; Homomorphic encryption, 
+&#8226; Anonymous credentials, 
+&#8226; Privacy-Preserving Routing Protocols. 
+3.3.2 Desinformation bek&#228;mpfen
+Digitale Desinformationskampagnen stellen demokratische Systeme vor gro&#223;e Herausforderungen. Die
+Verbreitung von schwer als solche zu erkennenden Falschinformationen schw&#228;cht die faktenbasierte Berichterstattung
+und erschwert es politischen Akteuren, Beh&#246;rden, Medien und B&#252;rgerinnen und B&#252;rgern, sich ein verl&#228;ssliches
+Bild zu machen. &#220;ber Chatgruppen, soziale Netzwerke, Videoplattformen und Blogs werden Falschinformationen
+und Verschw&#246;rungserz&#228;hlungen verbreitet. Dabei tritt die tats&#228;chliche Information und ihr Wahrheitsgehalt in den
+Hintergrund. Es geht in vielen F&#228;llen nur darum, Emotionen auszunutzen und letztlich Unsicherheit zu erzeugen. 
+Durch die einfachen Weiterleitungsm&#246;glichkeiten erreichen emotionalisierende Behauptungen schnell
+zehntausende Menschen und mehr. Die Eind&#228;mmung erweist sich als schwierig, insbesondere, weil die Geschwindigkeit
+der Verbreitung die Kapazit&#228;ten zur Gegenwehr &#252;bersteigt. Dar&#252;ber hinaus werden die Initiierenden von
+Desinformationen immer professioneller, da KI-basierte Werkzeuge f&#252;r die Manipulation von Bild- und Videoinhalten
+niederschwellig zug&#228;nglich geworden sind. Zudem ist es wichtig, freie Diskussionsr&#228;ume f&#252;r die politische
+Willensbildung einer kritischen und m&#252;ndigen Gesellschaft zu st&#228;rken. Die Herausforderung in diesem Bereich ist 
+zweigeteilt: Zum einen ist ein gesellschaftlicher Diskurs notwendig, nach welchen Grundregeln Debatten gef&#252;hrt 
+und wie Informationen verbreitet und rezipiert werden sollen. Zum anderen k&#246;nnen technische L&#246;sungen dabei
+unterst&#252;tzen, in der Vielzahl von t&#228;glichen Informationen Quellen zu &#252;berpr&#252;fen und F&#228;lschungen zu erkennen.
+Bei der Entwicklung derartiger Technologien m&#252;ssen die gesellschaftlichen Rahmenbedingungen also von
+Anfang an Ber&#252;cksichtigung finden, um ethischen, rechtlichen und sozialen Implikationen Rechnung zu tragen. Die
+Bek&#228;mpfung von Desinformationen ist eine komplexe Aufgabe, die sowohl technische als auch starke Aspekte
+des Zivilschutzes aufweist. Parallel zu diesem Programm, in dem technische Fragen der IT-Sicherheit im
+Vordergrund stehen, adressiert auch das Rahmenprogramm der Bundesregierung &#8222;Forschung f&#252;r die zivile Sicherheit
+2018&#8211;2023&#8220; die Bedeutung des Themas f&#252;r Gesellschaft und Demokratie7.
+Beispiele f&#252;r k&#252;nftige Handlungsfelder sind:
+&#8226; Wirksame Gegenma&#223;nahmen entwickeln: 
+Charakteristika von Desinformationen und ihre Wirkungen auf Gesellschaft und Individuum sowie technische 
+und rechtliche Gegenma&#223;nahmen m&#252;ssen erforscht werden, um eine wirksame Bek&#228;mpfung von
+Desinformationen zu bewirken, ohne dabei die Meinungsfreiheit und legitime demokratische Auseinandersetzung zu
+beeintr&#228;chtigen.
+&#8226; Gef&#228;lschte Inhalte erkennen und bek&#228;mpfen: 
+Digitale Medien erm&#246;glichen sehr niederschwellig t&#228;uschend echte F&#228;lschungen. Daher sind technische
+Werkzeuge zum Erkennen von gef&#228;lschten Informationen wie Deepfakes und Manipulationen durch Malicious Social
+Bots erforderlich.
+7 https://www.sifo.de/de/sicherheitsforschung-forschung-fuer-die-zivile-sicherheit-1693.html
+&#8226; Vertrauensw&#252;rdige Quellennachweise schaffen: 
+Anstatt Desinformationen zu erkennen und zu verhindern, k&#246;nnen auch valide Informationen als solche
+gekennzeichnet werden. Hierf&#252;r m&#252;ssen sichere und benutzbare Werkzeuge sowohl f&#252;r Inhaltsschaffende als auch -
+nutzende entwickelt werden.
+&#8226; Alternative Gesch&#228;ftsmodelle f&#252;r Onlineplattformen entwickeln: 
+Durch Werbung monetarisierte Aufmerksamkeit f&#252;hrt dazu, dass besonders pointierte Meldungen attraktiv sind.
+Dies bereitet den N&#228;hrboden f&#252;r Desinformation. Ein m&#246;glicher Ausweg sind Gesch&#228;ftsmodelle, die nicht darauf
+basieren, m&#246;glichst viel Aufmerksamkeit zu erzeugen.
+&#8226; Soziale Medien in den Blick nehmen: 
+Einerseits bieten soziale Medien Raum f&#252;r vielf&#228;ltige Meinungen und erm&#246;glichen jeder und jedem eine
+individuelle Entfaltung und Selbstdarstellung. Forschung zeigt jedoch, dass gerade hier &#8222;Filterblasen&#8220; der
+Desinformation entstehen oder Jugendliche geschlechterstereotypen K&#246;rpernormen folgen und diese bewerben. Ein
+gravierendes Problem ist zudem Hassrede. Dar&#252;ber hinaus m&#252;ssen unter anderem Empfehlungsalgorithmen genauer
+untersucht werden &#8211; beispielsweise mit Blick darauf, inwieweit es m&#246;glich ist, mittels eines
+algorithmengesteuerten Detektors oder hybrider Verfahren (Interactive Machine Learning) Hassrede zu l&#246;schen, ohne die
+Meinungsfreiheit einzuschr&#228;nken (Overblocking).
+3.3.3 Technik nach demokratischen Werten souver&#228;n gestalten
+Soziale Medien, vom sozialen Netzwerk &#252;ber Messenger bis zum Wiki, sind zentraler Bestandteil im Leben
+nahezu aller online aktiven Menschen geworden. Gro&#223;e Teile sozialer Interaktion finden online statt. Analoge
+Gruppen von beruflichen Teams &#252;ber den Sportverein bis zur Familie haben fast immer auch ein digitales Gegenst&#252;ck.
+Durch die Corona-Krise hat sich der Trend verst&#228;rkt und gemeinsame Kneipenaufenthalte, Filmabende oder
+Konzert- und Theaterbesuche k&#246;nnen auch digital in sozialen Medien stattfinden. Dabei haben die technischen
+Rahmenbedingungen der Plattformen einen stark strukturierenden Charakter. Handlungsweisen werden durch Regeln
+erm&#246;glicht oder verhindert. Diese erweiterte Realit&#228;t entwickelt sich rasant und f&#246;rdert sozio-technologische
+Innovationen. Sie stellt jedoch auch etablierte Kulturtechniken vor gro&#223;e Herausforderungen. Aufgrund des
+schnellen Wandels in der digitalen Kommunikation &#8211; gestern Facebook, heute TikTok, morgen eine ganz andere
+Anwendung &#8211; zersplittert das gemeinsame Verst&#228;ndnis von Kommunikation und Diskurs zusehends. Doch die
+Gesellschaft braucht eine einheitliche Sprache und ein gemeinsames Verst&#228;ndnis von Diskurs: eine Netzkultur. Der
+Umgang mit Daten und pers&#246;nlichen Informationen in &#246;ffentlichen oder halb&#246;ffentlichen R&#228;umen wird eine
+zunehmende Herausforderung: Das Internet vergisst nicht. Technologien der IT-Sicherheit wie Verschl&#252;sselung,
+Anonymisierung, aber auch Kenntnisse aus der sicheren Gestaltung von Benutzungsinteraktion werden umso
+bedeutsamer. Sie m&#252;ssen weiter erforscht und transferiert werden, um Technologien f&#252;r B&#252;rgerinnen und B&#252;rger
+souver&#228;n nutzbar zu machen.
+Beispiele f&#252;r k&#252;nftige Handlungsfelder sind:
+&#8226; Standards, Normen und Kennzeichnungen weiterentwickeln: 
+Deutschland ist bekannt f&#252;r ein hohes Datenschutzniveau. Die gemeinsame europ&#228;ische
+Datenschutzgrundverordnung (DSGVO) bildet erst den Ausgangspunkt f&#252;r die europ&#228;ische und internationale Anhebung des
+Datenschutzstandards. Um Handlungssicherheit f&#252;r Unternehmen zu erreichen und die Reibungsverluste zu vermeiden,
+ist die Weiterentwicklung von Standards, Normen und Kennzeichnungen bedeutend.
+&#8226; Werte in die Technikentwicklung einflie&#223;en lassen (Values by Design): 
+Kommunikationsinfrastrukturen und digitale Plattformen sollten so ausgestaltet werden, dass demokratische
+Werte wie Meinungs- und Pressefreiheit sowie Diskriminierungsschutz optimal ber&#252;cksichtigt werden. IT-
+Sicherheit bildet eine verl&#228;ssliche und vertrauensw&#252;rdige Basis im digitalen Raum, ein Fundament, auf dem
+gesellschaftliche Wertvorstellungen bei der Technikgestaltung verankert werden k&#246;nnen.
+&#8226; Individuellen Umgang mit Daten besser verstehen: 
+Es gilt interdisziplin&#228;r zu untersuchen, welche Auswirkungen der mit dem digitalen Wandel einhergehende
+Wertewandel hat, insbesondere in Bezug auf die damit zusammenh&#228;ngenden sozialen Praktiken und Kulturtechniken
+wie den Umgang mit privaten und pers&#246;nlichen Daten. Es kommt darauf an, digitale R&#228;ume mit einem
+Augenmerk auf Datenschutz bewusst zu gestalten und Techniken der IT-Sicherheit zentral zu nutzen.
+3.4 IT-Sicherheit ben&#246;tigt Partnerschaft und Exzellenz
+Europa ist bei IKT-Systemen von vielen au&#223;ereurop&#228;ischen Akteuren abh&#228;ngig, da die Mehrheit der gr&#246;&#223;ten
+Unternehmen im Ausland sitzt. Deutschland muss gemeinsam mit seinen europ&#228;ischen Partnern eigene
+technologische Kompetenzen in der IT-Sicherheit ausbauen und in der Lage sein, alle eingesetzten Systeme zu kontrollieren:
+von Server und Netzwerk &#252;ber Laptop und Smartphone bis zu IoT und Sensoren. Dies ist unerl&#228;sslich, um mehr
+technologische Souver&#228;nit&#228;t zu erreichen und so Sicherheit und Versorgung der Bev&#246;lkerung sicherzustellen.
+Gleichzeitig kann IT-Sicherheit in einer globalisierten, grenz&#252;berschreitend vernetzten Welt nicht einzelstaatlich
+gedacht werden. Eine Abschottung ist schlicht nicht mehr m&#246;glich.
+Deutschland muss daher internationales Recht und pr&#252;fbare internationale Standards aktiv mitgestalten, um IT-
+Sicherheit und Privatheit in einer digitalen Welt zu st&#228;rken. Damit dies gelingt, braucht es hervorragende
+wissenschaftliche Erkenntnisse aus unterschiedlichen Disziplinen wie Informatik, Elektrotechnik, Physik, Rechts-,
+Gesellschafts- und Sozialwissenschaften. Durch B&#252;ndelung dieser und weiterer Disziplinen verf&#252;gt Deutschland
+bereits &#252;ber exzellente Forschung und Entwicklung im Bereich IT-Sicherheit und ist im Schutz von Privatheit
+weltweit f&#252;hrend.
+Wir m&#252;ssen auch weiterhin klare Schwerpunkte setzen und ein attraktives Umfeld f&#252;r Innovationen in der IT-
+Sicherheit schaffen. Nur so kann es gelingen, international f&#252;hrende K&#246;pfe der Wissenschaft in Deutschland zu
+halten, den ben&#246;tigten Nachwuchs f&#252;r die Themen zu begeistern und ausreichend Fachkr&#228;fte exzellent
+auszubilden. Deutschland ist in der Forschung Weltspitze, jedoch kann die IT-Sicherheitsindustrie den Bedarf,
+insbesondere im starken deutschen Mittelstand, kaum befriedigen. Auch auf den z&#252;gigen Technologietransfer aus der
+Forschung in die Wirtschaft kommt es an: Viele Ideen bleiben noch immer ungenutzt oder werden von Dritten
+aufgegriffen. Deutschland und Europa m&#252;ssen daher ihre IT-Sicherheitsbranche konsequent weiter ausbauen. Dazu
+geh&#246;rt insbesondere auch eine noch umfassendere Innovations- und Wagniskultur, die es erm&#246;glicht,
+Spitzenforschung sehr schnell an den Markt zu bringen. Gerade innovative Start-ups k&#246;nnen einen wichtigen Beitrag zum
+Ausbau einer dynamischen, innovativen und prosperierenden europ&#228;ischen IT-Sicherheitsindustrie leisten. Die 
+Partnerschaft zwischen Forschenden und Anwendenden &#8722; von der Privatperson &#252;ber das KMU bis zum
+Gro&#223;konzern &#8722; ist entscheidend, um existierende L&#246;sungen in die Praxis zu &#252;berf&#252;hren. Dabei ist vernetztes Denken und
+Handeln &#252;ber Disziplingrenzen und Prozessketten hinweg von zentraler Bedeutung. Daher m&#252;ssen neben
+technischen auch gesellschaftliche, rechtliche und wirtschaftliche Fragestellungen von Anfang an mitber&#252;cksichtigt 
+werden.
+3.4.1 Technologische Souver&#228;nit&#228;t mit IT-Sicherheit ausbauen
+Abh&#228;ngig von Dritten zu sein, ist insbesondere im Bereich IT-Sicherheit problematisch, da Sicherheit f&#252;r alle 
+IKT-Systeme von zentraler Bedeutung ist. Unsichere Systeme k&#246;nnen manipuliert, Produktionsanlagen au&#223;er
+Kraft gesetzt oder Betriebsgeheimnisse abgezogen werden. Deutschland und Europa m&#252;ssen in der Lage sein,
+IKT-Systeme sicher zu betreiben und selbst zu kontrollieren &#8211; dies ist eine Grundvoraussetzung f&#252;r
+technologische Souver&#228;nit&#228;t. Akteure in Deutschland und Europa m&#252;ssen daf&#252;r die Vertrauensw&#252;rdigkeit von IKT-
+Systemen und deren Komponenten aus allen Weltregionen aufgrund eigenen Wissens und eigener Fertigkeiten
+beurteilen k&#246;nnen. Dar&#252;ber hinaus muss untersucht werden, welche IKT-Systeme von so zentraler Bedeutung f&#252;r die
+&#246;ffentliche Sicherheit und Ordnung sind, dass sie idealerweise in Deutschland oder in Zusammenarbeit mit
+europ&#228;ischen Partnern selbst entwickelt und gefertigt werden sollten. Dabei ist davon auszugehen, dass einzelne
+Komponenten von so zentraler Bedeutung sind, dass ihre Entwicklung und Herstellung nicht einmal wirtschaftlich sein
+muss.
+Ein weiterer wesentlicher Schritt in Richtung technologischer Souver&#228;nit&#228;t ist es, sichere Normen und Standards
+sowie quelloffene Software kooperativ zu entwickeln. Viele IT-Produkte unterschiedlicher Anbieter setzen f&#252;r
+bestimmte Module und Schichten bereits die gleiche offene Basis ein. Eine Kooperation bei der Entwicklung und
+Absicherung gemeinsamer IT-Komponenten nutzt deshalb allen Beteiligten. Zus&#228;tzlich zu diesen offenen IT-
+Komponenten gilt es f&#252;r die Forschung, Prozesse zu entwerfen, die die Sicherheitseigenschaften von
+Gesamtsystemen effizient messen, pr&#252;fen oder sogar garantieren.
+Letztlich sollen alle Aktivit&#228;ten im Rahmen dieses Programms und dar&#252;ber hinaus technologische Souver&#228;nit&#228;t
+f&#246;rdern. Daher sind alle Handlungsfelder (Kapitel 3.1 bis 3.4) auch als Handlungsfelder mit dem Ziel des Ausbaus
+technologischer Souver&#228;nit&#228;t zu sehen.
+Bei den besonderen Schwerpunkten der IT-Sicherheitsforschung f&#252;r technologische Souver&#228;nit&#228;t orientiert sich
+dieses Programm an den folgend zusammengefassten Empfehlungen der Wissenschaftlichen Arbeitsgruppe des
+Nationalen Cyber-Sicherheitsrats:
+&#8226; Souver&#228;nit&#228;t bei vertrauensw&#252;rdiger Hardware 
+Open-Source-Hardware befindet sich noch in einer Fr&#252;hphase der Entwicklung. Sie kann aber ein Instrument sein,
+um m&#246;gliche Backdoors oder Schwachstellen im Rahmen von Evaluationen des Chipdesigns zu erkennen. In
+niederen Leistungsklassen k&#246;nnen solche offenen Designs schon mittelfristig f&#252;r Unternehmen n&#252;tzlich sein, um
+vertrauensw&#252;rdige Schaltkreise etwa f&#252;r IoT- oder Medizinger&#228;te zu fertigen. F&#252;r leistungsf&#228;higere Prozessoren
+muss schon heute die Basis mit offenen Designs gelegt werden. Zudem sollen technische Methoden entwickelt
+werden, die dazu dienen, elektronische Komponenten automatisiert zu pr&#252;fen. Insbesondere das bereits etablierte
+und weiterwachsende &#214;kosystem rund um RISC-V mit perspektivisch zertifizierten, vertrauensw&#252;rdigen
+Hardwarekomponenten ist eine vielversprechende Initiative. Neben diesem Programm, in welchem ausschlie&#223;lich
+Fragen der IT-Sicherheit ber&#252;cksichtigt werden, f&#246;rdert die Bundesregierung Forschung zu vertrauensw&#252;rdiger
+Elektronik im Rahmenprogram der Bundesregierung f&#252;r Forschung und Innovation 2021&#8211;2024 &#8222;Mikroelektronik.
+Vertrauensw&#252;rdig und nachhaltig. F&#252;r Deutschland und Europa&#8220;8.
+&#8226; Souver&#228;nit&#228;t bei Dateninfrastrukturen 
+Es bedarf Forschung, um mit GAIA-X vertrauensw&#252;rdige, sichere Dateninfrastrukturen zu etablieren und so
+Abh&#228;ngigkeiten von einzelnen Anbietern zu reduzieren. Daten, als Grundlage aller Cybersicherheitsaktivit&#228;ten,
+k&#246;nnen damit kontrolliert, sicher und vertrauensw&#252;rdig dezentral verwaltet sowie nachvollziehbar und
+datenschutzkonform gemeinsam genutzt werden.
+&#8226; Souver&#228;nit&#228;t bei sicherheitskritischen Netzkomponenten 
+Der Aufbau und Betrieb von wirtschaftlich unabh&#228;ngigen Pr&#252;f- und Evaluierungslaboren f&#252;r sicherheitskritische
+Technologien (5G, IoT, Maschinelles Lernen, Quantenkommunikation) soll unterst&#252;tzt werden.
+&#8226; Souver&#228;nit&#228;t bei KI-Systemen 
+Der Aufbau einer KI-Zertifizierungsinfrastruktur mit Methoden, Werkzeugen und Pr&#252;fverfahren zur
+Zertifizierung von KI-Systemen und genutzten Trainingsdaten soll substanziell unterst&#252;tzt werden. Regulatorische
+Vorgaben f&#252;r den Einsatz zertifizierter KI-Systeme in sicherheitskritischen Infrastrukturen sollen entwickelt werden.
+Dies gilt auch f&#252;r die Qualit&#228;t der Trainingsdaten.
+&#8226; Souver&#228;nit&#228;t bei Zukunftstechnologien 
+Im Sinne von Security by Design ist es wichtig, die Technologieentwicklung eng mit der IT-Sicherheitsforschung
+zu verzahnen. Beispielsweise wird bereits jetzt die Mobilfunktechnologie 6G hierzulande vorentwickelt.
+Sicherheitsaspekte m&#252;ssen von Anfang an ber&#252;cksichtigt werden.
+Mobilfunksysteme der 6. Generation (6G)
+Deutschland ziel darauf ab, die Mobilfunksysteme der kommenden 6. Generation (6G) ma&#223;geblich
+mitzugestalten, fr&#252;hzeitig technologische Grundlagen zu entwickeln und somit das Fundament daf&#252;r zu legen, bei
+dieser Schl&#252;sseltechnologie mit innovativen und international wettbewerbsf&#228;higen Produkten wichtiger Akteur
+am globalen Markt zu werden. Ein wichtiger Aspekt bei der Erforschung der Grundlagen von 6G soll dabei
+www.elektronikforschung.de/rahmenprogramm8
+darauf liegen, dass die Sicherheit ein integraler Bestandteil wird und dass das Gesamtsystem eine hohe
+Resilienz aufweist. Erg&#228;nzend werden durch die F&#246;rderung die Kompetenzen aufgebaut, um die zuk&#252;nftigen 6G-
+Netze souver&#228;n und sicher betreiben zu k&#246;nnen.
+3.4.2 Deutschland in der Wissenschaftslandschaft positionieren
+In einer globalisierten Welt, in der durch die Digitalisierung alles mit allem vernetzt ist, ist der Einfluss einzelner
+nationaler Regularien oder technologischer Entwicklungen begrenzt. Damit Deutschland die weitere
+Digitalisierung im Sinne seiner Werte und Prinzipien regulatorisch und technologisch mitgestalten kann, braucht es starke 
+Partner. Mit dem vorliegenden Forschungsrahmenprogramm soll die Kooperation im Europ&#228;ischen
+Forschungsraum in den Bereichen IT-Sicherheit und Datenschutz weiter gest&#228;rkt werden. Innovationen sollten die
+europ&#228;ischen Wertvorstellungen und Anspr&#252;che widerspiegeln, aber gleichzeitig global anschlussf&#228;hig bleiben. Die
+Herausforderung liegt darin, sich international eindeutig zu positionieren, eigene Ziele und Wertvorstellungen
+durchzusetzen und dabei das Ziel einer technologischen Souver&#228;nit&#228;t Europas weiter voranzutreiben. Bei diesem
+Prozess m&#252;ssen die Offenheit und Interoperabilit&#228;t der eigenen Systeme und Entwicklungen nach allen Seiten hin
+gewahrt bleiben, um keine Inseln zu schaffen. Dabei gilt es, deutsche und europ&#228;ische St&#228;rken weiter auszubauen, 
+zum Beispiel auf dem Gebiet des Datenschutzes, der Quantenkommunikation oder der sicheren Industrie 4.0.
+Zudem kommt es darauf an, die eigene Technologiepalette so weit zu erg&#228;nzen und zu diversifizieren, dass
+bisherige Abh&#228;ngigkeiten von externen Anbietern weiter reduziert werden und die einzelnen Forschungsergebnisse
+gleichzeitig eine noch gr&#246;&#223;ere internationale Durchschlagskraft entwickeln k&#246;nnen.
+Beispiele f&#252;r k&#252;nftige Handlungsfelder sind:
+&#8226; Internationale Standards erarbeiten: 
+F&#252;r einen besseren internationalen Transfer von Forschungsergebnissen bedarf es einheitlicher und offener
+Standards, insbesondere im Sicherheitskontext. Diese m&#252;ssen erweitert und an neue Rahmenbedingungen angepasst
+werden.
+&#8226; St&#228;rken nutzen, Doppelungen vermeiden: 
+Um noch besser auf das Ziel einer europ&#228;ischen digitalen Souver&#228;nit&#228;t abzielen zu k&#246;nnen, m&#252;ssen die nationalen
+Forschungsst&#228;rken von Deutschland in der IT-Sicherheit noch besser in Zusammenarbeit mit den europ&#228;ischen
+Partnern abgestimmt und identifiziert werden, um unn&#246;tige Doppelungen auf zu kleinem nationalen Raum zu
+vermeiden.
+&#8226; International kompatibel bleiben: 
+Beim Fokus auf die eigene Souver&#228;nit&#228;t gilt es, den Blick und die Anschlussf&#228;higkeit &#252;ber den europ&#228;ischen 
+Tellerrand hinaus nicht zu verlieren. Im Sinne einer globalen Interoperabilit&#228;t und Interdependenz muss eine
+weltweite Integrationsf&#228;higkeit der Entwicklungen sichergestellt sein, wozu es umfassender Konzepte bedarf.
+3.4.3 Kooperation und Transfer weiter verbessern
+Wirtschaftliche, wissenschaftliche und gesellschaftliche Strukturen sind in Deutschland ausgesprochen divers.
+Diese vielf&#228;ltige und offene Struktur ist eine gro&#223;e St&#228;rke, f&#252;hrt jedoch im Hinblick auf IT-Sicherheit zu
+verschiedenen Herausforderungen. Ebenso unterschiedlich wie die Anwenderinnen und Anwender sind der Aufbau, die
+Art, der Zweck und die Nutzung von IKT-Systemen: von Kioskkasse, Smartphone, Auto oder Heizung &#252;ber
+Arztpraxis und Gro&#223;lager bis hin zu Verkehrslenkung und Stahlwerken. Daher sind auch Sicherheitsl&#246;sungen bisher
+nur schwer &#252;bertragbar und Skaleneffekte k&#246;nnen nicht greifen. Der grunds&#228;tzliche Aufbau von IKT-Systemen
+gleicht sich jedoch zunehmend an. So sind Smartphones und Tablets beispielsweise auch als Kassensystem im
+Einsatz und die zunehmende Nutzung von Cloud- und Edge-Infrastrukturen f&#252;hrt weg von individuellen
+Serverl&#246;sungen. So werden Kooperationen im Bereich IT-Sicherheit m&#246;glich. Zu untersuchen und zu erproben, wie 
+diese konkret und effizient gestaltet werden k&#246;nnen, ist eine wichtige Herausforderung der kommenden Jahre.
+Dies bezieht sich sowohl auf Unternehmen als auch auf B&#252;rgerinnen und B&#252;rger. Letztere sind noch vulnerabler
+als Unternehmen, da ihnen noch weniger Ressourcen f&#252;r ihren Schutz zur Verf&#252;gung stehen. Zudem gilt es, die
+Fortentwicklung der IT-Sicherheit an der Schnittstelle Wirtschaft, Wissenschaft und Gesellschaft generell weiter
+auszubauen. Die etablierte, stark ausdifferenzierte und vielf&#228;ltige Wissenschaftslandschaft auf dem Gebiet der IT-
+Sicherheit ist auch im internationalen Vergleich exzellent. Jedoch bestehen sowohl zwischen den einzelnen
+Disziplinen als auch an der Schnittstelle zur Wirtschaft noch Reibungsverluste.
+Beispiele f&#252;r k&#252;nftige Handlungsfelder sind:
+&#8226; Vielversprechende Forschung effizienter in die Praxis transferieren: 
+Es werden Transferkonzepte ben&#246;tigt, um exzellente deutsche (IT-Security made in Germany) und europ&#228;ische 
+Forschungsergebnisse der IT-Sicherheit schnell zu deutschen und europ&#228;ischen Produkten zu entwickeln. Solche 
+Produkte werden international wahrgenommen werden und De-Facto-Standards im Bereich Sicherheit setzen.
+&#8226; Plattformen f&#252;r Kooperation in der IT-Sicherheit ausbauen: 
+Um Skaleneffekte im Bereich IT-Sicherheit nutzen und sie so effizienter gestalten zu k&#246;nnen, braucht es
+Zusammenarbeit &#252;ber Unternehmensgrenzen hinweg. Es m&#252;ssen unter anderem Konzepte zur Kooperation entwickelt 
+und erprobt werden.
+&#8226; Erh&#246;hen des allgemeinen Wissenstands: 
+Es braucht passgenaue Wissensvermittlungsformate, die sowohl den Umgang mit IT-Sicherheit im Alltag
+vermitteln als auch sehr spezifisch auf den jeweiligen beruflichen Kontext ausgerichtet werden k&#246;nnen. Bildung zur IT-
+Sicherheit ist relevant in allen Lebensbereichen: im Privaten ebenso wie im Beruf und hier insbesondere f&#252;r
+entscheidungsbefugte Personen. Ein grundlegendes Verst&#228;ndnis der Potenziale und Herausforderungen ist die Basis
+f&#252;r einen souver&#228;nen Umgang mit Informations- und Kommunikationstechnologien.
+&#8226; Unterschiede zu IT-Sicherheit in anderen Wirtschaftsr&#228;umen verstehen: 
+Da einige deutsche Unternehmen weltweit Produkte, Systeme und Dienste vertreiben, sind Regulierungen,
+Zulassungsauflagen und technische Standards in anderen wichtigen Wirtschaftsr&#228;umen von hohem wirtschaftlichen,
+aber auch wissenschaftlichen Interesse. Dazu z&#228;hlt das China Cybersecurity Law mit der OSCCA-Zertifizierung
+und den TC-260-Standards, letztmalig im Januar 2020 ge&#228;ndert, das IoT Security Law in den USA mit den NIST-
+Standards, ver&#246;ffentlicht im Dezember 2020, aber auch GOST in Russland und SCOSTA in Indien. Insbesondere
+bei neuen Algorithmen, wie bei der Post-Quanten-Kryptografie, werden divergierende Entwicklungen in den
+genannten Wirtschaftsr&#228;umen erwartet. Das h&#228;tte unmittelbar Auswirkungen, zum Beispiel auf den Maschinen- und 
+Automobilbau in Deutschland. Um die zuk&#252;nftigen Exporte zu sichern beziehungsweise auszubauen, ist hier eine 
+wissenschaftliche Beobachtung und ein wirtschaftlicher Austausch &#252;ber Firmengrenzen hinweg angezeigt.
+4 Umsetzung
+Ein Forschungsprogramm muss adaptiv sein, um den rasanten technischen Entwicklungen immer wieder aufs
+Neue Rechnung zu tragen. Es gilt, mit Forschung dem gesellschaftlichen Wandel und der temporeichen und
+innovationsgetriebenen Digitalisierung zu begegnen. In dieser Dynamik ver&#228;ndern sich sehr schnell die Bedarfe
+und Anspr&#252;che an Technik. Diese gilt es, im Schulterblick mit dem Umfeld zu erkennen und mit Forschung und 
+F&#246;rderma&#223;nahmen passgenau zu adressieren. Das vorliegende Programm zur IT-Sicherheitsforschung ist deshalb
+als lernendes Programm ausgelegt. Dazu geh&#246;rt ein kontinuierlicher Dialog mit allen zentralen Zielgruppen &#8722; von
+Forschungscommunities &#252;ber Akteurinnen und Akteure aus Wirtschaft und Politik bis hin zu B&#252;rgerinnen und 
+B&#252;rgern, den sp&#228;teren Nutzerinnen und Nutzern der digitalen Technologien. Durch einen immerw&#228;hrenden
+Austausch wird Wissenstransfer gest&#228;rkt und Partizipation unterst&#252;tzt. So k&#246;nnen kontinuierlich und bedarfsgerecht
+Fokusthemen ebenso wie F&#246;rderinstrumente angepasst werden. Die zuvor beleuchteten technologischen und
+gesellschaftlichen Herausforderungen (siehe Kapitel 3) geht das Programm mit bew&#228;hrten und innovativen
+Werkzeugen an.
+4.1 Wissenschaftliche Kompetenzen und Exzellenz f&#246;rdern
+Eine innovative IT-Sicherheitsforschung bietet die Chance, nicht nur Cyberbedrohungen abzuwehren, sondern
+auch Deutschland zu einem f&#252;hrenden Anbieter f&#252;r IT-Sicherheitstechnologie zu machen und die technologische
+Souver&#228;nit&#228;t zu st&#228;rken. Im Rahmen der Forschungsf&#246;rderung werden vielf&#228;ltige F&#246;rdermodule und -instrumente 
+eingesetzt, um an allen Stellen Spitzenforschung zu f&#246;rdern und zu erm&#246;glichen. Neben der F&#246;rderung von
+Forschung an Hochschulen und Universit&#228;ten, institutionellen Forschungseinrichtungen und in der Wirtschaft ist ein
+gut qualifizierter wissenschaftlicher Nachwuchs Voraussetzung daf&#252;r, Forschungskompetenz,
+Innovationsf&#228;higkeit und die akademische Ausbildung in Deutschland nachhaltig zu sichern.
+4.1.1 Horizontale und aufbauende F&#246;rderprojekte
+In horizontalen F&#246;rderprojekten werden die Kompetenzen aus Universit&#228;ten, Hochschulen und au&#223;eruniversit&#228;ren 
+Forschungseinrichtungen sowie Praxiswissen aus Unternehmen in der &#252;bergreifenden Verbundforschung
+geb&#252;ndelt. Gef&#246;rdert werden themengerechte Projektverb&#252;nde unter wissenschaftlicher F&#252;hrung mit dem Ziel, die Basis
+f&#252;r eine umfassende IT-Sicherheit zu schaffen. Der starke Grundlagencharakter und die integrative
+Zusammenarbeit f&#246;rdert die Vernetzung und den Know-how-Transfer zwischen Wissenschaft, Wirtschaft und Praxis von
+Beginn an und verschafft allen Akteuren einen wertvollen Wissensvorsprung. Zus&#228;tzlich zu wissenschaftlich
+gef&#252;hrten Forschungskonsortien setzen ma&#223;geschneiderte Instrumente und Initiativen &#252;bergreifende Impulse in der
+deutschen Forschungslandschaft der IT-Sicherheit.
+IT-Sicherheit muss Angriffe von morgen bereits heute antizipieren. Nur durch einen sehr fr&#252;hen Einstieg kann 
+die Forschung zur IT-Sicherheit mit der technischen Entwicklung in anderen Disziplinen Schritt halten. Daher
+sind in der IT-Sicherheitsforschung innovative Verbundvorhaben im Fr&#252;hstadium wichtige Wegbereiter. Dazu
+geh&#246;ren auch Vorhaben ohne konkreten Praxisbezug wie zukunftsweisende &#8222;Moonshot-Projekte&#8220; oder
+Forschungsideen, die auf antizipierten technischen Entwicklungen beruhen.
+4.1.2 Institutionelle F&#246;rderung
+Deutschland verf&#252;gt mit der Fraunhofer-Gesellschaft, der Helmholtz-Gemeinschaft, der Max-Planck-Gesellschaft 
+und der Leibniz-Gemeinschaft &#252;ber leistungsstarke Wissenschaftsorganisationen, die ein zentraler Pfeiler der IT-
+Sicherheitsforschung sind. Hierf&#252;r wurden durch die konsequente F&#246;rderung und Verstetigung von drei
+nationalen Forschungszentren f&#252;r IT-Sicherheitsforschung des Bundes entscheidende Weichen gestellt: Mit dem
+Nationalen Forschungszentrum f&#252;r angewandte Cybersicherheit ATHENE in Darmstadt, dem Helmholtz-Zentrum f&#252;r 
+Informationssicherheit CISPA in Saarbr&#252;cken und dem Kompetenzzentrum f&#252;r Angewandte
+Sicherheitstechnologie KASTEL am Karlsruher Institut f&#252;r Technologie (KIT) sind herausragende Leuchtt&#252;rme der IT-
+Sicherheitsforschung mit internationaler Strahlkraft entstanden. Ihre Weiterentwicklung und Vernetzung im nationalen und
+internationalen Kontext bleibt ein wichtiges Ziel der Ausgestaltung der IT-Sicherheitsforschung in Deutschland.
+Komplettiert wird die Landschaft der IT-Sicherheitsforschung in Deutschland durch zahlreiche Institute, die
+direkt oder im Rahmen von interdisziplin&#228;ren Forschungsprojekten zur IT-Sicherheitsforschung beitragen. Dies
+sind unter anderem das Fraunhofer-Institut f&#252;r Angewandte und Integrierte Sicherheit AISEC, das Fraunhofer-
+Institut f&#252;r Sichere Informationstechnologie SIT, das Max-Planck-Institut f&#252;r Sicherheit und Privatsph&#228;re, die
+DLR-Institute f&#252;r KI-Sicherheit, Quantentechnologien sowie Kommunikation und Navigation, das Fraunhofer-
+Institut f&#252;r Angewandte Optik und Feinmechanik IOF, das Fraunhofer Heinrich-Hertz-Institut HHI, das Max-
+Planck-Institut f&#252;r die Physik des Lichts MPL, das Leibniz-Institut f&#252;r Festk&#246;rper- und Werkstoffforschung
+Dresden, das Max-Planck-Institut f&#252;r Quantenoptik, das Fraunhofer-Institut f&#252;r System- und Innovationsforschung
+ISI, das Fraunhofer-Institut f&#252;r offene Kommunikationssysteme FOKUS, das Fraunhofer-Institut f&#252;r
+Experimentelles Software Engineering IESE, das Fraunhofer-Institut f&#252;r Optronik, Systemtechnik und Bildauswertung
+IOSB, die Fraunhofer-Einrichtung f&#252;r Mikrosysteme und Festk&#246;rper-Technologien EMFT, das Fraunhofer-
+Institut f&#252;r Arbeitswirtschaft und Organisation IAO, das Fraunhofer-Institut f&#252;r Entwurfstechnik Mechatronik IEM,
+das Fraunhofer-Institut f&#252;r Produktionstechnologie IPT, das Fraunhofer-Institut f&#252;r Intelligente Analyse- und
+Informationssysteme IAIS, das Fraunhofer-Institut f&#252;r Kommunikation, Informationsverarbeitung und Ergonomie
+FKIE sowie weitere bedeutende Forschungsinstitutionen. Dazu geh&#246;ren etwa die Hochschulen und die
+Ressortforschung wie die des BSI oder der Hochschule der Bundeswehr.
+4.1.3 Nachwuchs f&#252;r IT-Sicherheit
+Die zuk&#252;nftige Wettbewerbsf&#228;higkeit Deutschlands h&#228;ngt von kreativen und exzellent ausgebildeten Fachkr&#228;ften
+ab. Dies gilt insbesondere f&#252;r den Bereich der IT-Sicherheit, die eine notwendige Grundlage f&#252;r die
+technologische Souver&#228;nit&#228;t in der digitalen Zukunft darstellt. Es gilt, die Elite von morgen bereits heute zu f&#246;rdern. Deshalb 
+wird der akademische Nachwuchs mit weitreichenden F&#246;rderma&#223;nahmen unterst&#252;tzt. Eine gute MINT-Bildung
+entlang der Bildungskette ist daf&#252;r ein ebenso entscheidender Beitrag. Entsprechende Schwerpunkte setzt auch
+der MINT-Aktionsplan des BMBF
+9
+.
+Wissenschaftlicher Nachwuchs
+Die Talente und Potenziale des wissenschaftlichen Nachwuchses k&#246;nnen von Beginn an durch exzellentes
+Mentoring weiterentwickelt werden. Alle institutionell gef&#246;rderten Einrichtungen wie die nationalen
+Forschungszentren bieten attraktive Nachwuchsprogramme an. Dazu geh&#246;ren vernetzende Graduiertenschulen und -netzwerke
+und Angebote wie beispielsweise die International Federation for Information Processing Summer School.
+Sichtbarkeit und Anerkennung in der akademischen Welt macht Deutschland zum Anziehungspunkt f&#252;r die besten
+K&#246;pfe. Hier leistet das Programm mit seinem ganzheitlichen Ansatz einen wesentlichen Beitrag, Deutschland zu
+einem interessanten IT-Sicherheitsstandort zu machen.
+Grand Challenge der Quantenkommunikation
+Die Grand Challenge der Quantenkommunikation ist ein Innovationswettbewerb f&#252;r junge
+Nachwuchsforschungsgruppen. Thema des Wettbewerbs sind Quanten-Token, die zur k&#252;nftigen sicheren Authentifizierung
+von Systembenutzerinnen und -benutzern &#8211; auch von leistungsf&#228;higen Quantencomputern &#8211; dienen sollen.
+Technologische Schl&#252;sselfaktoren f&#252;r Quanten-Token, wie beispielsweise Koh&#228;renzzeiten von
+Quantenspeichern, sollen im Rahmen des Forschungswettbewerbs verbessert werden. Ein starker Fokus liegt dabei auf der 
+Weiterentwicklung von quantenspeicherbasierten Ans&#228;tzen, da diese einen wichtigen Forschungsschwerpunkt 
+sowohl f&#252;r die Quantenkommunikation als auch f&#252;r andere Bereiche der Quantentechnologien bilden.
+Sch&#252;lerinnen und Sch&#252;ler, Auszubildende und Studierende
+Um das hohe Innovationsniveau aufrechtzuerhalten und das notwendige Wachstum der IT-Sicherheitsbranche zu
+unterst&#252;tzen, brauchen wir eine kontinuierlich steigende Zahl an gut ausgebildeten Nachwuchskr&#228;ften. Mit dem
+dualen Bildungssystem ist Deutschland im internationalen Vergleich hervorragend aufgestellt. Die St&#228;rken der
+beiden Zweige praktischer und akademischer Bildung m&#252;ssen auch im Bereich IT-Sicherheit gest&#228;rkt und genutzt
+werden. Um m&#246;gliche Nachwuchskr&#228;fte fr&#252;h zu begeistern, schaffen wir durch zielgruppengerechte, kreative
+Angebote wie Wettbewerbe vielf&#228;ltige M&#246;glichkeiten, F&#228;higkeiten &#252;ber den Unterricht, die Ausbildung oder das
+Studium hinaus zu vertiefen und Erfahrungen zu sammeln. Ein im Bereich der IT-Sicherheit besonders attraktives
+Format sind dabei Hackathons. Ein besonderes Anliegen dabei ist es, M&#228;dchen und junge Frauen f&#252;r die
+vielf&#228;ltigen Fragen der IT-Sicherheit, die weit &#252;ber Hacken hinausgehen, zu begeistern, und sie zu ermutigen, in diesem
+Feld t&#228;tig zu werden.
+https://www.bmbf.de/de/mint-aktionsplan-10115.html9
+4.2 Innovations&#246;kosystem und Transfer ausbauen
+4.2.1 Pilotinitiativen
+IT-Sicherheit ist als zentrales Querschnittsthema digitaler Systeme ein wichtiger Aspekt staatlicher
+Daseinsvorsorge und technologischer Souver&#228;nit&#228;t. Neben Risiken hemmen oft hohe Barrieren den Markteintritt &#8211; gerade 
+auch von neuen Schl&#252;sseltechnologien. Im Rahmen von Pilotinitiativen werden deshalb breit aufgestellte
+Verb&#252;nde aus Wissenschaft und Wirtschaft gef&#246;rdert, um weiter souver&#228;n bei zentralen technologischen
+Entwicklungen an der internationalen Spitze zu stehen. Dazu geh&#246;rt die vom BMBF 2019 ins Leben gerufene Initiative
+QuNET. Die Forschenden entwickeln dort die technologischen Grundlagen f&#252;r eine quantengesicherte
+Pilotstrecke zwischen Bundeseinrichtungen mit dem Ziel, gemeinsam mit Partnern aus der Wirtschaft, die
+Voraussetzungen f&#252;r eine sp&#228;tere deutsche und europ&#228;ische Quantenkommunikationsinfrastruktur zu schaffen.
+BMBF-Initiative QuNET
+Das Vorhaben &#8222;QuNET-alpha &#8211; Demonstrationsexperiment zur Kommunikation unter Einsatz von
+Quantentechnologien&#8220; stellt einen wichtigen Meilenstein bei der Umsetzung der Quantenkommunikation in
+alltagstaugliche Systeme dar. Ergebnisse aus der Grundlagenforschung werden im Projekt zu praxistauglichen L&#246;sungen 
+weiterentwickelt und in der Anwendung erprobt. In einer quantengesicherten Videokonferenz zwischen zwei
+Bundeseinrichtungen werden die Projektergebnisse auf Basis verschiedener Quantentechnologien
+demonstriert. Dabei sollen zur &#220;bertragung der Quantenzust&#228;nde sowohl Glasfasern als auch freistrahlbasierte
+Kommunikationskan&#228;le eingesetzt werden. Durch letztere k&#246;nnen k&#252;nftig weite Strecken teilweise per Satellit
+&#252;berbr&#252;ckt werden, um ein europaweiten Quantennetzwerk zu schaffen. Die Quantenverschl&#252;sselung wird im
+Projekt zus&#228;tzlich mit modernsten Verschl&#252;sselungsverfahren kombiniert werden, deren Algorithmen auch
+resistent gegen Angriffe von Quantencomputern sind. Damit wird die praktische Sicherheit unter realen
+Bedingungen optimiert. Die Projektergebnisse schaffen, basierend auf Deutschlands starker Grundlagenforschung zu
+Quantentechnologien, die Voraussetzung f&#252;r eine deutsche und europ&#228;ische
+Quantenkommunikationsinfrastruktur.
+4.2.2 Vertikale F&#246;rderprojekte
+Der gesellschaftliche und wirtschaftliche Einfluss von Forschungs- und Entwicklungsprojekten zur IT-Sicherheit 
+ist dann besonders gro&#223; und nachhaltig, wenn die Projektverb&#252;nde die komplette oder einen Gro&#223;teil der
+Wertsch&#246;pfungs- beziehungsweise der Verwertungskette der Entwicklung abbilden. Entsprechende Strategien und
+Ans&#228;tze k&#246;nnen so bereits w&#228;hrend des Projektverlaufs mitgedacht werden und m&#252;ssen nicht erst ad hoc nach
+Projektende aufwendig entwickelt werden. Ein Beispiel f&#252;r eine solche erfolgreiche vertikale F&#246;rderma&#223;nahme ist
+das Nationale Referenzprojekt zur Sicherheit in Industrie 4.0 IUNO. Im Rahmen vertikaler, industriegef&#252;hrter
+Verbundprojekte wird die themenspezifische Kompetenz von relevanten Stakeholdern mit
+Forschungseinrichtungen zusammengebracht, um Problemstellungen mit Praxisbezug entlang der Wertsch&#246;pfungskette zu erforschen.
+So werden zielgerichtet Innovationen zur L&#246;sung von aktuellen Herausforderungen auf dem Gebiet der IT-
+Sicherheit entwickelt. Das BMBF wird begleitend F&#246;rderinitiativen an den Start bringen, die Forschung entlang der
+Wertsch&#246;pfungskette adressieren.
+4.2.3 F&#246;rderung von kleinen und mittleren Unternehmen sowie Start-ups
+Neben Forschung in der Wissenschaft und in Gro&#223;unternehmen sind KMU sowie Start-ups wichtige Treiber von
+Innovationen und Hort neuer Ideen. H&#228;ufig stehen sie vor der Herausforderung, nicht &#252;ber ausreichend
+Ressourcen und Netzwerke zur Umsetzung und Verbreitung ihrer Entwicklungsvorhaben zu verf&#252;gen. Im Rahmen des
+vorliegenden Programms werden spezifische F&#246;rderma&#223;nahmen f&#252;r KMU und Start-ups weiterentwickelt und im
+Austausch mit der Community neue Formate gestaltet. Besonders wichtig sind dabei Vernetzungsformate, um
+den Transfer zwischen Start-ups untereinander sowie zu potenziellen Kunden und Investoren zu st&#228;rken und zu 
+beschleunigen. Das Ziel ist es, innovative Produkte junger Unternehmen schneller am Markt zu platzieren.
+StartUpSecure
+Forschungsteams an deutschen Hochschulen oder in der Industrie sind mit ihren Ideen und unkonventionellen 
+Ans&#228;tzen h&#228;ufig Vorreiter neuer Entwicklungen. Um gute Ideen im Bereich der IT-Sicherheit schneller in die
+Anwendung zu bringen, bietet das BMBF seit 2018 die Initiative StartUpSecure. Darin werden
+Unternehmensgr&#252;ndungen in der IT-Sicherheit in zwei Phasen gef&#246;rdert: In der ersten Phase erarbeiten die Forschungsteams
+Strategien, wie die Idee technisch umgesetzt werden kann. Mit der Gr&#252;ndung des Unternehmens startet die zweite
+Phase, w&#228;hrend der das BMBF die Teams bei einem erfolgreichen Unternehmensstart unterst&#252;tzt. F&#252;r die
+Begleitung der jungen Gr&#252;ndungen wurden an den Nationalen Forschungszentren f&#252;r IT-Sicherheit ATHENE
+(Darmstadt), CISPA (Saarbr&#252;cken), KASTEL (Karlsruhe) sowie an der Ruhr-Universit&#228;t Bochum
+Gr&#252;ndungsinkubatoren eingerichtet.
+KMU-innovativ
+KMU-innovativ (KMUi) ist daf&#252;r konzipiert, speziell KMU effektiv in Innovationsprozessen zu unterst&#252;tzen.
+Mithilfe der F&#246;rderung zu Informations- und Kommunikationstechnologien sollen sich KMU im Markt f&#252;r IKT
+etablieren und wettbewerbsf&#228;higer werden. Die F&#246;rderung ist offen f&#252;r die gesamte Themenbreite des Programms
+zu IT-Sicherheit und Datenschutz.
+4.2.4 Sprunginnovationen erm&#246;glichen
+Mit der Agentur f&#252;r Innovation in der Cybersicherheit GmbH (Cyberagentur) und der Agentur f&#252;r
+Sprunginnovationen (SPRIN-D) hat die Bundesregierung zwei Einrichtungen geschaffen, um hochinnovative Risikoprojekte zu
+f&#246;rdern. Die Cyberagentur identifiziert Innovationen auf dem Gebiet der Cybersicherheit und vergibt konkrete
+Auftr&#228;ge f&#252;r die Entwicklung innovativer L&#246;sungen. Mit dem Fokus auf die &#228;u&#223;ere und innere Sicherheit erg&#228;nzt
+die Cyberagentur die anderen Initiativen der Bundesregierung. SPRIN-D sucht nach Antworten auf die sozialen,
+&#246;kologischen und &#246;konomischen Herausforderungen unserer Zeit. Ziel ist es, von Deutschland aus neue
+Sprunginnovationen zu entwickeln, also Produkte, Dienstleistungen und Systeme, die unser Leben sp&#252;rbar und
+nachhaltig verbessern. SPRIN-D und Cyberagentur sollen sichere R&#228;ume schaffen, in denen Anwendende Risiken
+eingehen und radikal anders denken k&#246;nnen.
+4.3 Akteure vernetzen
+IT-Sicherheit ist ein Querschnittsthema, das alle gesellschaftlichen, wirtschaftlichen und wissenschaftlichen
+Akteure und Schichten betrifft. Weitere wichtige Querschnittsthemen sind durch die Datafizierung aller Lebens- und
+Wirtschaftsbereiche die Themen Datenschutz und Privatheit. Vor diesem Hintergrund zielt das vorliegende
+Programm darauf ab, alle Akteurinnen und Akteure zu vernetzen. Dies betrifft sowohl die horizontale Vernetzung im
+Rahmen interdisziplin&#228;rer Forschung als auch die vertikale Vernetzung von Wissenschaft, Wirtschaft und
+Endanwendenden. Die notwendige Kooperation geht dabei &#252;ber einzelne F&#246;rderprojekte und Ma&#223;nahmen hinaus. Das
+Programm wird daher existierende Kooperationsformate, wie das Forum Privatheit, ausbauen und neue Formate 
+schaffen.
+4.3.1 Interdisziplin&#228;re Forschungsnetzwerke
+Um die gesellschaftlichen Dimensionen von Datenschutz und Informationssicherheit zu erforschen und passende
+L&#246;sungsans&#228;tze zu entwickeln, ist es essenziell, interdisziplin&#228;re Perspektiven auf die Problembereiche
+einzubeziehen und diese synergetisch zu nutzen.
+Plattform Privatheit
+Die Plattform Privatheit bildet das Fundament f&#252;r die umfassende, interdisziplin&#228;re Analyse aktueller
+Fragestellungen zu Datenschutz und Privatheit sowie f&#252;r die Entwicklung zielgenauer L&#246;sungen. Auf der Plattform
+gr&#252;nden verschiedene thematische S&#228;ulen. Das bisherige, sehr erfolgreiche, Forum Privatheit bildet die erste S&#228;ule,
+und b&#252;ndelt sozialwissenschaftliche, psychologische, juristische und ethische Expertisen. Es werden
+gesellschaftlich relevante und aktuelle Fragestellungen zum Schutz der Privatheit aus verschiedenen wissenschaftlichen
+Perspektiven analysiert und Vorschl&#228;ge f&#252;r ganzheitliche L&#246;sungsans&#228;tze erarbeitet. Bei Bedarf wird das BMBF
+sukzessive weitere thematische S&#228;ulen aufbauen.
+Forschungsnetzwerk Depersonalisierung und Anonymisierung
+Mit dem Forschungsnetzwerk Depersonalisierung werden k&#252;nftig Fragen der Anonymisierung und des
+technischen Datenschutzes geb&#252;ndelt. Der Kern des Netzwerks besteht aus Living Labs zu unterschiedlichen
+Anwendungsdom&#228;nen, in denen die Anwendung von Depersonalisierung und Anonymisierung am praktischen Beispiel 
+untersucht wird. Die Living Labs werden dabei an GAIA-X als gemeinsamer Datenraum angebunden. Im Sinne
+einer Diversifizierung und Nutzung des vollen Innovationspotenzials werden die zentralen Living Labs durch eine
+Ma&#223;nahme zur F&#246;rderung erg&#228;nzender Projekte flankiert.
+4.3.2 Innovationsnetzwerke
+Innovationsnetzwerke f&#246;rdern die Innovationskultur und steigern die Ideenvielfalt. Sie machen es m&#246;glich,
+unterschiedliche Sichtweisen in die Forschung und Entwicklung einzubeziehen und Ergebnisse schneller in die Praxis
+zu bringen.
+Forschungshub Quantenkommunikation
+Mit der Einrichtung eines Innovationshubs f&#252;r Quantenkommunikation wird die in Deutschland bestehende L&#252;cke
+zwischen der sehr guten Forschungsleistung und der industriellen Entwicklung von Komponenten, Systemen und
+L&#246;sungen f&#252;r die Quantenkommunikation geschlossen. Ziel ist es, ein &#214;kosystem von Herstellern und Anbietern
+von Quantenkommunikationsl&#246;sungen in Deutschland zu schaffen. Zentral ist hierf&#252;r ein gezielter Know-how-
+Transfer aus den Forschungslaboren in die deutsche Wirtschaft durch das Zusammenspiel von industriell
+gef&#252;hrten Pilotprojekten und Testlaboren f&#252;r KMU sowie einem Schirm-Projekt zur Koordination der Aktivit&#228;ten.
+Weitere Forschungs- und Entwicklungsvorhaben komplettieren das F&#246;rderportfolio. Dabei sollen auch Synergien mit
+der geplanten Plattform 6G genutzt werden.
+Regionale Innovationscluster 
+Innovationscluster sind regionale Zusammenschl&#252;sse von Forschungseinrichtungen, Unternehmen und weiteren
+Multiplikatoren mit dem Ziel, die Innovationsdynamik nachhaltig zu verbessern. Durch die r&#228;umliche N&#228;he ist
+ein besserer Austausch zwischen den Clusterbeteiligten m&#246;glich. Im Bereich der IT-Sicherheit gibt es bereits
+verschiedene Cluster, die regional vorhandene Forschungs- und Entwicklungsressourcen b&#252;ndeln und als
+Innovationstreiber sowie als Transferschnittstellen von der Universit&#228;t bis zur Industrie wirken. Neben den bereits
+bestehenden Innovationsclustern und Clusterinitiativen, wie der themenoffenen Zukunftsclusterinitiative
+(Clusters4Future), sollen zuk&#252;nftig weitere regionale Cluster zur IT-Sicherheit aufgebaut werden. Im Rahmen des
+Programms wird der Austausch mit den verschiedenen Netzwerken und Plattformen weiter ausgebaut, um einerseits
+m&#246;gliche Forschungs- und Entwicklungsbedarfe fr&#252;hzeitig zu erkennen und zu unterst&#252;tzen und andererseits
+m&#246;gliche Verb&#252;nde zur Umsetzung dieser Bedarfe besser zusammenf&#252;hren zu k&#246;nnen.
+Forschungs-Hubs 6G
+Im Rahmen der Umsetzung des Konjunkturpaketes &#8222;Corona-Folgen bek&#228;mpfen, Wohlstand sichern,
+Zukunftsf&#228;higkeit st&#228;rken&#8220; der Bundesregierung erfolgt die F&#246;rderung der 6G-Forschungs-Hubs. Die 6G-Forschungs-Hubs
+bauen auf wissenschaftliche Exzellenz: Aus der Zusammenarbeit herausragender Forschungsinstitute und
+Hochschulen sollen Innovationen f&#252;r die Kommunikationstechnologien der Zukunft entstehen. Dabei soll das Thema
+IT-Sicherheit von Anfang an mitgedacht werden. Begleitet werden die Hubs durch die Plattform 6G zur
+B&#252;ndelung der Aktivit&#228;ten und durch industriegef&#252;hrte Verbundprojekte der 6G-Initiative. Durch eine enge Anbindung 
+an europ&#228;ische F&#246;rderprogramme kann Deutschland den internationalen 6G-Standard gerade auch in der
+Sicherheit und im Datenschutz ma&#223;geblich mitgestalten und fr&#252;hzeitig sichere technologische Grundlagen entwickeln.
+Damit wird das Fundament daf&#252;r gelegt, bei dieser Schl&#252;sseltechnologie mit innovativen und international
+wettbewerbsf&#228;higen Produkten wichtiger Akteur am globalen Markt zu werden.
+4.3.3 Strategische Netzwerke
+Strategische Netzwerke sind ein wichtiges Instrument, um relevante Akteure zusammenzubringen und f&#252;r eine
+nachhaltige St&#228;rkung der gesamten Forschungslandschaft zu sorgen.
+Nationaler Cybersicherheitsrat
+Der 2011 eingerichtete Nationale Cyber-Sicherheitsrat (Cyber-SR) gestaltet unter dem Vorsitz des Beauftragten
+der Bundesregierung f&#252;r Informationstechnik (BfIT), die Zusammenarbeit im Bereich Cybersicherheit innerhalb
+der Bundesregierung sowie zwischen Staat und Wirtschaft. Seit Oktober 2018 unterst&#252;tzt die st&#228;ndige
+Wissenschaftliche Arbeitsgruppe &#8211; unter geteilter Leitung des Bundesministeriums des Innern, f&#252;r Bau und Heimat
+(BMI) sowie des BMBF &#8722; den Cyber-SR. Sie ber&#228;t aus Perspektive der Forschung zu Entwicklungen und
+Herausforderungen im Hinblick auf eine sichere, vertrauensw&#252;rdige und nachhaltige Digitalisierung.
+Allianz f&#252;r Cybersicherheit
+Die Allianz f&#252;r Cybersicherheit des BSI verbindet als gr&#246;&#223;te nationale Vernetzungsinitiative zur IT-Sicherheit in
+Deutschland eine Vielzahl von Unternehmen und Institutionen sowie andere Verb&#252;nde und Verb&#228;nde. Sie verfolgt
+das Ziel, Informationen, Wissen und Erfahrung zwischen den Mitgliedern auszutauschen und so den Ausbau von 
+Sicherheitskompetenzen zu f&#246;rdern. Insbesondere Fragestellungen hinsichtlich der Forschungs- und
+Entwicklungsbedarfe spielen dabei eine besondere Rolle.
+Wissenschaftliche Akademien
+Wissenschaftliche Akademien als Plattformen und Zusammenschl&#252;sse exzellenter Forschender fungieren auch
+als Politikberatung zu aktuellen technischen und wissenschaftlichen Herausforderungen. Zudem haben sie
+wissenschaftliche Themen und Entwicklungen im Blick, die zuk&#252;nftig ma&#223;gebliche gesellschaftliche Auswirkungen
+haben werden, wozu auch der Bereich IT-Sicherheit z&#228;hlt. Die Deutsche Akademie der Technikwissenschaften
+(acatech) fokussiert vor allem technische Themen und Zukunftsfragen im Technologiebereich, unter anderen zum
+Dachthema &#8222;Sicherheit in der digital vernetzten Welt&#8220;. Die Nationale Akademie der Wissenschaften Leopoldina
+als &#252;bergeordnete nationale Akademie besch&#228;ftigt sich ebenfalls mit Aspekten der Digitalisierung und Privatheit,
+die auch Relevanz f&#252;r die IT-Sicherheitsforschung haben.
+4.4 In den gesellschaftlichen Dialog treten
+Technische Innovationen k&#246;nnen nur im Alltag ankommen, wenn k&#252;nftige Nutzende sie akzeptieren, ihre Vorteile
+erkennen und ihnen vertrauen. Wissenschaftliche Praxis muss daher eng im Dialog mit der Gesellschaft erfolgen.
+4.4.1 B&#252;rgerinnen und B&#252;rger in der Forschung
+Nur durch die Teilhabe aller wichtigen Akteure an Forschung und die Ber&#252;cksichtigung spezifischer Bedarfe und
+Anspr&#252;che an Technik und Fortschritt ist sichergestellt, dass sie zum Nutzen aller praktikabel umgesetzt wird. In
+der F&#246;rderung von IT-Sicherheitsforschung werden deshalb partizipative Entwicklungsans&#228;tze sowie interaktive
+Dialogformate und zielgruppenspezifische Ma&#223;nahmen der Wissenschaftskommunikation umgesetzt.
+Touchpoints f&#252;r Gr&#252;ndungsberatung
+Bei der BMBF-Gr&#252;ndungsf&#246;rderung nehmen Plattformen zur Vernetzung und Dialogformate eine besondere
+Rolle ein. An den nationalen Forschungszentren zur IT-Sicherheit ATHENE in Darmstadt, CISPA in Saarbr&#252;cken
+und KASTEL in Karlsruhe sowie an der Ruhr-Universit&#228;t Bochum organisieren die dort angesiedelten
+Beratungszentren f&#252;r Forschungsteams regelm&#228;&#223;ig Gr&#252;ndungsstammtische, diverse Informationsveranstaltungen und
+Workshops &#8211; zum Beispiel unter dem Titel Hub Nights.
+Dialog f&#252;r Cybersicherheit
+Mit Dialogformaten nimmt das BSI neue Impulse und Ideen aus allen gesellschaftlichen Gruppen auf und erkennt
+dabei fr&#252;hzeitig ihre spezifischen Bedarfe. Die Formate bieten den Teilnehmenden eine Plattform, um ihre
+Themen und Vorstellungen zur Cybersicherheit zu diskutieren. Gleichzeitig erhalten die Beteiligten wertvolles
+Feedback zu eigenen L&#246;sungen und k&#246;nnen ihre Entscheidungen und Handlungen transparent pr&#228;sentieren.
+4.4.2 Kommunikationskampagne f&#252;r Sichtbarkeit und Sensibilisierung 
+L&#246;sungen der IT-Sicherheit f&#252;r Anwendungen der Zukunft werden in Deutschland durch eine international
+renommierte Forschungscommunity entwickelt und in die Gesellschaft transferiert. Die B&#252;rgerinnen und B&#252;rger
+haben hiervon vielerorts jedoch keine Kenntnis. Das BMBF startet daher zur Begleitung des neuen
+Forschungsprogramms eine nationale Kampagne zur Erh&#246;hung der Sichtbarkeit und des Verst&#228;ndnisses der IT-
+Sicherheitsforschung in der &#214;ffentlichkeit. IT-Sicherheitsforschung soll mit dem Leitgedanken &#8222;Forschung ist der Schl&#252;ssel 
+f&#252;r eine sichere digitale Zukunft&#8220; als grundlegender Probleml&#246;ser f&#252;r eine erfolgreiche digitale Zukunft
+positioniert werden. Im Mittelpunkt der integrierten Kampagne stehen spielerische Elemente in alltagsnahen Szenarien,
+um die Wissenschaft im Umfeld der komplexen IT-Sicherheitsforschung erlebbar und erfahrbar zu machen. Eine 
+Informationstour an Schulen und kulturellen Einrichtungen wie &#8222;Mitmach-Museen&#8220; runden die Kampagne ab.
+4.5 Europ&#228;isch und international forschen
+Forschung und Innovation in Deutschland stehen im Kontext internationaler Entwicklungen und Bestrebungen
+zur L&#246;sung der Herausforderungen der Digitalisierung. Um die eigene Rolle am globalen Markt, die
+Wettbewerbsf&#228;higkeit und Souver&#228;nit&#228;t Deutschlands und Europas zu st&#228;rken, bringt sich Deutschland in bilaterale und
+multilaterale Ma&#223;nahmen sowie Initiativen, insbesondere der EU, ein.
+4.5.1 Bilaterale Kooperation
+Bilaterale Forschungsma&#223;nahmen und -initiativen wie &#8222;2+2&#8220;-F&#246;rderprojekte im Bereich IT-Sicherheit mit
+L&#228;ndern Europas und weltweit, wie die erfolgreichen Formate Deutschland-Frankreich, Deutschland-Israel und 
+Deutschland-Japan, werden im Rahmen des Programms ausgebaut, neue Formate und Kooperationsma&#223;nahmen
+werden angestrebt.
+Deutsch-franz&#246;sische Kooperationen
+Das BMBF und das franz&#246;sische Forschungsministerium (MESRI) haben sich auf dem sechsten Forum zur
+deutsch-franz&#246;sischen Zusammenarbeit geeinigt, eine starke deutsch-franz&#246;sische Forschungsachse zur
+Cybersicherheit zu entwickeln. Diese Vereinbarung wird unter anderem durch die Richtlinie zur F&#246;rderung von
+deutschfranz&#246;sischen Verbundprojekten zur Cybersicherheit umgesetzt. Ziel dieser F&#246;rderung ist es, hochinnovative
+L&#246;sungen zur Wahrung der Privatsph&#228;re zu entwickeln. Dabei sollen durch die Verbundprojekte die deutsch-
+franz&#246;sische Zusammenarbeit gest&#228;rkt und die sich aus der Kooperation ergebenden Synergien genutzt werden, um
+weitreichende Fortschritte in der Cybersicherheit zu erzielen.
+Das CISPA und das INRIA/Loria in Nancy werden gemeinsam die Cybersicherheitsforschung und entsprechende
+Transfer- und Innovationsaktivit&#228;ten zwischen Frankreich und Deutschland st&#228;rken. In dem French-German-
+Center for Cybersecurity sind die Kr&#228;fte der gr&#246;&#223;ten und renommiertesten Forschungszentren f&#252;r Cybersicherheit
+in Europa geb&#252;ndelt. Das Zentrum wird bilaterale deutsch-franz&#246;sische Forschungsgruppen aufbauen. Neben der
+l&#228;nder&#252;bergreifenden inhaltlichen Zusammenarbeit ist die Nachwuchsf&#246;rderung ein Kernelement. Junge
+Forschende erhalten die M&#246;glichkeit, durch individuelles Mentoring fr&#252;h in ihrer akademischen Karriere
+eigenst&#228;ndig Forschungsinteressen voranzutreiben.
+Deutsch-israelische Kooperation
+Das BMBF und die National Technological Innovation Authority of the State of Israel (NATI) &#8722; vertreten durch
+das Israel-Europe R&amp;I Directorate (ISERD) &#8722; f&#246;rdern im Rahmen der bilateralen F&#246;rderma&#223;nahme Ma&#223;nahme 
+in den Forschungsbereichen &#8222;Zivile Sicherheit&#8220; und &#8222;IT-Sicherheit&#8220; die Kooperation zwischen deutschen und
+israelischen Unternehmen, Forschungspartnern und Anwendern der Wirtschaft. Gef&#246;rdert werden bilaterale
+Projekte, die innovative L&#246;sungen f&#252;r die Verbesserung des Schutzes der Bev&#246;lkerung und Wirtschaft entwickeln,
+unter anderem gegen Bedrohungen durch Terrorismus, Cyberangriffe, organisierte Kriminalit&#228;t,
+Naturkatastrophen und technisches Versagen.
+Deutsch-japanische Kooperation
+Deutschland und Japan haben vereinbart, einen engen wissenschaftlichen Austausch zu pflegen und gemeinsame 
+Forschungsarbeiten zum autonomen Fahren durchzuf&#252;hren, einschlie&#223;lich f&#252;r die hierf&#252;r n&#246;tige IT-Sicherheit.
+4.5.2 Multilaterale Vernetzung
+Gemeinsam mit internationalen Partnern k&#246;nnen Synergien bei der Entwicklung von weitreichenden sowie
+belastbaren L&#246;sungen genutzt und gemeinsam neue internationale Standards gesetzt werden. Deutsche Akteure
+werden eine f&#252;hrende Rolle bei der europ&#228;ischen IT-Sicherheitsforschung einnehmen, indem sie ihre Kompetenzen,
+insbesondere in Vorhaben unter dem europ&#228;ischen Rahmenprogramm f&#252;r Forschung und Innovation &#8222;Horizon 
+Europe 2021-2027&#8220;, einbringen und sich an weiteren multilateralen Ma&#223;nahmen beteiligen.
+HORIZON Europe 2021 &#8211; 2027
+HORIZON Europe ist eines der weltweit gr&#246;&#223;ten F&#246;rderprogramme f&#252;r Forschung und Innovation. Das
+Arbeitsprogramm wird in vergleichbarer Weise zum sehr erfolgreichen Programm HORIZON 2020 entwickelt. Die
+Umsetzung der durch HORIZON Europe unterst&#252;tzten Forschung zu IT-Sicherheit und sicherer Kommunikation wird
+&#252;ber das neue Europ&#228;ische Kompetenzzentrum f&#252;r Industrie, Technologie und Forschung im Bereich der
+Cybersicherheit koordiniert werden. Das f&#252;r die Zusammenarbeit mit dem europ&#228;ischen Kompetenzzentrum
+einzurichtende Nationale Koordinierungszentrum f&#252;r Cybersicherheit in Industrie, Technologie und Forschung (NKCS) 
+soll hierzulande die Kompetenzen der Ressorts BMBF, Bundesministerium f&#252;r Wirtschaft und Energie,
+Bundesministerium der Verteidigung und BMI sowie der verschiedenen nationalen Akteure b&#252;ndeln und synergetisch
+die Arbeit des Kompetenzzentrums vorantreiben.
+ERA-NET
+Als Teilinitiative unter HORIZON 2020 entstanden, verfolgt ERA-NET das Ziel, durch die Zusammenarbeit von
+nationalen und regionalen Forschungsf&#246;rderorganisationen beziehungsweise Programmagenturen die
+Forschungsf&#246;rderung enger aufeinander abzustimmen und damit die wissenschaftliche Kompetenz Europas zu
+b&#252;ndeln. Von gemeinsamen Aktivit&#228;ten wie Clustering, Trainingsma&#223;nahmen oder transnationalen Ausschreibungen
+konnten vor allem in Deutschland t&#228;tige KMU sowie Hochschulen oder au&#223;eruniversit&#228;re
+Forschungseinrichtungen profitieren. Auch in Zukunft soll diese Unterst&#252;tzung fortgef&#252;hrt werden.
+EUREKA
+EUREKA ist eine Initiative f&#252;r anwendungsnahe Forschung in Europa und bietet Industrie und Wissenschaft 
+einen Rahmen f&#252;r bi- oder multinationale Kooperationsprojekte. Die Initiative tr&#228;gt dazu bei, die in Europa
+vorhandenen fachlichen und finanziellen Ressourcen auch in der IT-Sicherheitsforschung effektiver zu nutzen und
+damit die Wettbewerbsf&#228;higkeit Europas auf dem Weltmarkt zu st&#228;rken. Dieser erfolgreiche Ansatz soll
+fortgef&#252;hrt werden, um auch zuk&#252;nftig &#252;ber global wettbewerbsf&#228;hige Technologien in Europa zu verf&#252;gen. Der EU-
+REKA-Cluster CELTIC-NEXT ist eine industriegetriebene Initiative im Bereich der Informations- und
+Kommunikationstechnologien mit den Themenschwerpunkten (Smarte) Vernetzungstechnologien, Datenschutz, IT-
+Sicherheit und Vernetzung in vertikalen Industriewertsch&#246;pfungsketten.
+EuroQCI
+Ziel der Initiative European Quantum Communication Infrastructure (EuroQCI), an der fast alle EU-
+Mitgliedstaaten beteiligt sind, ist es, die Grundlagen f&#252;r eine europaumspannende Infrastruktur zur
+Quantenkommunikation zu entwickeln, um die europ&#228;ischen Kapazit&#228;ten in den Bereichen Quantenkommunikation, Cybersicherheit
+und industrielle Wettbewerbsf&#228;higkeit weiter auszubauen. Als Gr&#252;ndungsmitglied der Initiative wird Deutschland
+seine umfassende Expertise auf dem Gebiet der Quantentechnologie einbringen und so seine internationale
+Vorreiterrolle weiter ausbauen und festigen.
+5 Rahmenbedingungen des Programms
+Das vorliegende Forschungsrahmenprogramm zur IT-Sicherheit folgt auf das sehr erfolgreiche Programm
+&#8222;Selbstbestimmt und sicher in der digitalen Welt 2015&#8211;2020&#8220;. Im Rahmen des Vorg&#228;ngerprogramms wurden 
+vom BMBF &#252;ber 350 Mio. Euro zur Verf&#252;gung gestellt. Besondere Erfolge des Vorg&#228;ngerprogramms waren
+&#8226; die nationalen Kompetenzzentren f&#252;r IT-Sicherheit: ATHENE, CISPA, KASTEL, 
+&#8226; das Nationales Referenzprojekt zur IT-Sicherheit in der Industrie 4.0, 
+&#8226; das Forum Privatheit. 
+F&#252;r das vorliegende neue Programm plant alleine das BMBF, im Zeitraum von 2021&#8211;2026 &#252;ber 350 Mio. Euro 
+aus seinem Budget bereitzustellen.
+5.1 Entstehung
+Der digitale Wandel als grundlegende Ver&#228;nderung von gesellschaftlicher, wirtschaftlicher und staatlicher
+Organisation ist in vollem Gang. Es ist allgemein anerkannt, dass das Gestalten einer digitalen Gesellschaft und
+&#214;konomie ist eine wichtige staatliche Aufgabe ist. IT-Sicherheit ist dabei die Basis erfolgreicher Digitalisierung in
+allen Anwendungsfeldern und Branchen; in den Fokus r&#252;cken zunehmend auch Aspekte wie Datenschutz und 
+Demokratie. Zur Sicherung der eigenen Handlungsf&#228;higkeit, also der technologischen Souver&#228;nit&#228;t, ist eine
+weitere St&#228;rkung der IT-Sicherheitsforschung notwendig. Diese Aufwertung ist ein wesentlicher Bestandteil der
+nationalen Schl&#252;sseltechnologie f&#252;r Cybersicherheit. Aus dieser Notwendigkeit begr&#252;ndet sich ein erhebliches
+Bundesinteresse. Aufgrund der &#252;bergeordneten Bedeutung f&#252;r den Gesamtwirtschaftsstandort Deutschland und dem
+damit verbundenen Bedarf an Fachkr&#228;ften, ist ein l&#228;nder&#252;bergreifender Rahmen f&#252;r Forschungsaktivit&#228;ten
+notwendig. Weiterhin sind aufgrund des globalen Charakters der Digitalisierung und technologischen Entwicklung
+europ&#228;ische und internationale Anbindungen erforderlich. Daher ist ein Forschungsrahmenprogramm auf
+Bundesebene zielf&#252;hrend. Zahlreiche Sicherheitsvorf&#228;lle auf staatlicher und wirtschaftlicher Ebene sowie bei
+B&#252;rgerinnen und B&#252;rgern zeigen, dass bisher kein ausreichendes IT-Sicherheitsniveau erreicht wurde. Ebenso best&#228;tigte
+der eingesetzte wissenschaftliche Begleitkreis, dass noch umfangreicher Forschungsbedarf besteht. Die
+Bilanzierung des Vorg&#228;ngerprogramms sowie des Programms IKT 2020 ergab, dass die gr&#246;&#223;ten Herausforderungen f&#252;r
+Forschungsvorhaben fehlende Finanzierungsm&#246;glichkeiten und wirtschaftliches Risiko sind. Aus dem
+erheblichen Bundesinteresse an besserer IT-Sicherheit, der Forschung als notwendige Grundlage der Verbesserung von
+IT-Sicherheit und der sonst nur in wesentlich geringerem Umfang stattfindenden Forschung f&#252;r IT-Sicherheit
+leitet sich der staatliche Handlungsbedarf ab.
+Das vorliegende Programm wurde mit Unterst&#252;tzung von zw&#246;lf Expertinnen und Experten aus Wissenschaft,
+Wirtschaft und &#246;ffentlichen Einrichtungen entwickelt.
+5.2 Einbindung des Programms
+Das neue Forschungsrahmenprogramm zur IT-Sicherheit &#8222;Digital. Sicher. Souver&#228;n.&#8220; aktualisiert die
+Forschungsstrategie der Bundesregierung zur IT-Sicherheit zeitgem&#228;&#223; und kn&#252;pft unmittelbar an die Erfolge des
+Vorg&#228;ngerprogramms an. Das vorherige Forschungsrahmenprogramm der Bundesregierung zur IT-Sicherheit war das erste 
+Programm, das die Forschungsaktivit&#228;ten des Bundes zur IT-Sicherheit b&#252;ndelte. Das vorliegende Programm
+&#252;bernimmt diese zentrale Stellung und die bestehenden Ankn&#252;pfungen auf Landes-, Bundes- und EU-Ebene. Es
+steht also nicht isoliert, sondern f&#252;hrt die Vernetzung des Vorg&#228;ngerprogramms mit zahlreichen anderen
+Aktivit&#228;ten der Forschungspolitik fort. Aufgrund des Charakters als Querschnittsthema der gesamten Digitalisierung
+sind die Verbindungen der IT-Sicherheit extrem vielf&#228;ltig. Neben der &#252;bergeordneten Hightech-Strategie sind im
+Folgenden besonders zentrale Ankn&#252;pfungspunkte dargestellt.
+Verkn&#252;pfung mit weiteren Strategien und Programmen
+Das Programm tr&#228;gt unter anderem zur Umsetzung der Cyber-Sicherheitsstrategie f&#252;r Deutschland10, der
+Datenstrategie der Bundesregierung11, der Strategie K&#252;nstliche Intelligenz der Bundesregierung12 und dem BMBF-
+10 https://www.bmi.bund.de/cybersicherheitsstrategie/
+11 https://www.bundesregierung.de/breg-de/suche/datenstrategie-der-bundesregierung-1845632
+12 https://www.ki-strategie-deutschland.de
+Aktionsplan &#8222;Nat&#252;rlich. Digital. Nachhaltig.&#8220;13 bei. Das Programm hat Ber&#252;hrungspunkte zu zahlreichen
+weiteren laufenden oder geplanten Strategien und Programmen der Bundesregierung und ihren Ressorts, insbesondere
+zur zivilen Sicherheit14, zu Kommunikationstechnologien15, zu Industrie 4.016, zur Medizintechnik17, zum
+autonomen und vernetzten Fahren18, zur Mikroelektronik19, zur Menschtechnik Interaktion20, zu
+Quantentechnologien21 sowie zur Zukunft der Wertsch&#246;pfung22 da IT-Sicherheit die integraler Bestandteil von jedweder
+Digitalisierung ist.
+Vernetzung mit weiteren Akteuren
+Als Teil der Cyber-Sicherheitsstrategie f&#252;r Deutschland tr&#228;gt das Programm zur Verkn&#252;pfung der Aktivit&#228;ten
+aller staatlichen Akteure in der IT-Sicherheitsforschung bei. Dies umfasst alle Akteure auf europ&#228;ischer, Bundes-
+und Landesebene. Durch den Austausch, das Zusammenbringen und die B&#252;ndelung der im Bund bereits
+vorhandenen IT-Kompetenzen soll die eigene IT-Kompetenz insgesamt ausgebaut werden. So k&#246;nnen beispielsweise die 
+IT-Erkenntnisse, die in den Institutionen des Bundes produziert werden, in die Entscheidungen bez&#252;glich der
+weiteren Entwicklung der IKT-Strukturen des Bundes einbezogen werden.
+Enge Zusammenarbeit mit dem k&#252;nftigen EUCCC
+Wie im Sommer 2019 von der EU mit dem Cybersecurity Act (EU) 2019/881 angek&#252;ndigt, wird in 2021 eine 
+neue EU-Agentur in Rum&#228;nien gegr&#252;ndet werden, mit der Bezeichnung EU Cybersecurity Competence Center
+(EUCCC). Damit soll ein EU-weites Netzwerk an Cybersicherheits-Laboren in den 27 Mitgliedsstaaten entstehen,
+das in den Bereichen &#8222;Protection&#8220;, &#8222;Detection&#8220; und &#8222;Reaction&#8220; neueste Erkenntnisse im Bereich IT-, IKT- und 
+IoT-Sicherheit austauschen wird. Die intensive Zusammenarbeit mit der deutschen Forschungslandschaft soll die 
+Sichtbarkeit im EU-Raum erh&#246;hen und die wissenschaftlichen Kompetenzen verdeutlichen.
+5.3 Erfolgskriterien, Wirtschaftlichkeit und Evaluation
+5.3.1 Erfolgskriterien des Gesamtprogramms
+Indikatoren f&#252;r den Erfolg des Gesamtprogramms sind das IT-Sicherheitsniveau Deutschlands sowie der Beitrag
+der IT-Sicherheit zur technologischen Souver&#228;nit&#228;t in Schl&#252;sseltechnologien, gemessen unter anderem an der
+Anzahl und Schwere von IT-Sicherheitsvorf&#228;llen sowie dem Umfang des Einsatzes von IT-
+Sicherheitstechnologien von deutschen und europ&#228;ischen Herstellern, Weitere Indikatoren sind die Anzahl von erm&#246;glichten
+Forschungsvorhaben, welche sonst nicht durchgef&#252;hrt worden w&#228;ren, sowie erzielte Netzwerkeffekte und die
+Qualit&#228;t der B&#252;ndelung von Kompetenzen.
+5.3.2 Erfolgskriterien der strategischen Ziele
+Zu den in Kapitel 2 definierten Zielen wurden zur Erfolgsmessung jeweils Indikatoren entwickelt. Diese
+Indikatoren stellen keine abschlie&#223;ende Liste der m&#246;glichen Messgr&#246;&#223;en dar und werden gem&#228;&#223; der Konzeption als
+lernendes Programm gegebenenfalls angepasst. Grunds&#228;tzlich wird eine sachgerechte Kombination aus
+qualitativen und quantitativen Indikatoren angestrebt.
+Digitaler Wandel: sicher und nachhaltig
+Indikatoren f&#252;r das Erreichen dieses Ziels sind unter anderem der Umfang, in welchem B&#252;rgerinnen und B&#252;rger
+sowie KMU Informationen &#252;ber und Unterst&#252;tzung bei IT-Sicherheit erhalten. Ein weiterer Indikator ist die
+Anzahl von IT-Sicherheits-Start-ups am Markt.
+13 https://www.bmbf.de/de/digitalisierung-und-nachhaltigkeit-10466.html
+14 https://www.sifo.de/de/sicherheitsforschung-forschung-fuer-die-zivile-sicherheit-1693.html
+15 https://www.forschung-it-sicherheit-kommunikationssysteme.de/forschung/kommunikationssysteme
+16 https://www.plattform-i40.de/PI40/Navigation/DE/Industrie40/Leitbild2030/leitbild-2030.html
+17 http://gf-bmbf.de/
+18 https://www.bmbf.de/de/automatisiertes-fahren-4158.html
+19 https://www.elektronikforschung.de/rahmenprogramm
+20 https://www.interaktive-technologien.de/service/publikationen/miteinander-durch-innovation
+21 https://www.quantentechnologien.de/qt-in-deutschland/programm.html
+22 https://www.bmbf.de/de/die-zukunft-der-wertschoepfung-in-deutschland-13891.html
+Daten und Know-how: gesch&#252;tzt und nutzbar
+Indikatoren f&#252;r das Erreichen dieses Ziels sind unter anderem die Verf&#252;gbarkeit sicherer Datenr&#228;ume in
+Deutschland und Europa, die Anzahl und Effizienz datenschutzfreundlicher KI-L&#246;sungen sowie die Verf&#252;gbarkeit von 
+Methoden zum Erzeugen qualitativ hochwertiger Trainingsdaten f&#252;r KI. Weitere durch Forschung aber lediglich 
+mittelbar beeinflussbare Indikatoren sind die Anzahl und Schwere der durch IT-Sicherheitsvorf&#228;lle verursachten
+Verletzungen geistigen Eigentums sowie Datendiebst&#228;hle.
+Demokratie und Gesellschaft: stabil und digital
+Indikatoren f&#252;r das Erreichen dieses Ziels sind unter anderem die Beteiligung von B&#252;rgerinnen und B&#252;rgern zu
+Fragen der Verf&#252;gbarkeit von vertrauensw&#252;rdigen Nachrichten und Informationen sowie Umfang und Effizienz
+von Faktenchecks. Weitere Indikatoren sind die M&#246;glichkeiten und Anwendungen von sicherer digitaler
+Partizipation an demokratischen Prozessen und die Verf&#252;gbarkeit freier und offener Kommunikationsstrukturen.
+Privatheit und Datenschutz: selbstbestimmt und innovativ
+Indikatoren f&#252;r das Erreichen dieses Ziels sind unter anderem die Anzahl von Start-ups im Bereich Datenschutz
+und Privatheit sowie die Anzahl von Unternehmen mit privatheitsfreundlichen Gesch&#228;ftsmodellen und die Zahl
+von Produktinnovationen. Weitere Indikatoren sind die Anzahl deutscher Vertreter in relevanten internationalen
+Gremien, die Breite des Dialogs sowie die Anzahl L&#228;nder weltweit mit Datenschutz europ&#228;ischer Pr&#228;gung.
+Innovation und Transfer: weltspitze und zukunftssicher
+Indikatoren f&#252;r das Erreichen dieses Ziels sind im Bereich Wirtschaft die Anzahl von Produktinnovationen und 
+Patenten, die wirtschaftliche Performance von deutschen Unternehmen in IT-Sicherheit und Datenschutz im
+weltweiten Vergleich sowie die Anzahl der Arbeitspl&#228;tze. Indikatoren im Bereich Wissenschaft sind unter anderem
+das Renommee der wissenschaftlichen Einrichtungen sowie deren Output, insbesondere auch die Zahl der Open-
+Access-Publikationen. Weitere Indikatoren sind die Anzahl neuer Kontakte zwischen Wissenschaft und
+Wirtschaft, die Anzahl neuer Kooperationen sowie die Beteiligung an internationaler Standardisierung. Im Bereich
+Zivilgesellschaft werden Indikatoren zu Qualit&#228;t und Quantit&#228;t partizipativer Entwicklungsans&#228;tze sowie
+interaktiver Dialogformate und zielgruppenspezifischer Ma&#223;nahmen der Wissenschaftskommunikation zugrunde gelegt.
+F&#252;hrende K&#246;pfe: qualifizieren und gewinnen
+Indikatoren f&#252;r das Erreichen dieses Ziels sind unter anderem die Anzahl der Promotionen mit Bezug zur IT-
+Sicherheit sowie die Anzahl einschl&#228;giger Publikationen junger Wissenschaftlerinnen. Weitere Indikatoren sind
+der Kompetenzzuwachs in Unternehmen und die Breite der technologischen Kompetenz sowie die Attraktivit&#228;t
+des Standorts Deutschland f&#252;r Forschende.
+Deutschland und Europa: technologisch souver&#228;n
+Indikatoren f&#252;r das Erreichen dieses Ziels im Bereich der IT-Sicherheit sind unter anderem der Abdeckungsgrad 
+von Wertsch&#246;pfungsketten beziehungsweise die Vollst&#228;ndigkeit des Innovations&#246;kosystems aus der Hand
+deutscher und europ&#228;ischer Akteure sowie Produktionsstatistiken, Exportanteile am Weltmarkt und Handelsbilanzen.
+Weitere Indikatoren sind die Anzahl der Patente sowie die Beteiligung an der Standardisierung.
+5.3.3 Wirtschaftlichkeit der Projektf&#246;rderung
+Aufgrund der dynamischen Entwicklung in den Bereichen IT-Sicherheit und Datenschutz sowie zu erwartender
+Ver&#228;nderungen der &#246;konomischen und technisch-wissenschaftlichen Rahmenbedingungen ist das Programm
+lernend angelegt. Bekannte und neue Themenfelder werden laufend beobachtet und die jeweilige Ziel-, Aufgaben-
+und Priorit&#228;tensetzung aktualisiert. F&#246;rderinstrumente werden entsprechend passend weiterentwickelt. Durch
+Technologieanalysen sowie Fachgespr&#228;che und gegebenenfalls den Begleitkreis werden im Vorfeld von
+Bekanntmachungen die F&#246;rderma&#223;nahmen dem tats&#228;chlichen Entwicklungsstand in Wissenschaft und Wirtschaft
+angepasst. Den mit dem Agendaprozess intensivierten Dialog mit Wissenschaft, Wirtschaft und Zivilgesellschaft wird
+das BMBF zur Qualit&#228;tssicherung, Fortschreibung und Weiterentwicklung fortf&#252;hren, um auf technologische,
+wirtschaftliche und gesellschaftliche Entwicklungen angemessen und zeitnah reagieren zu k&#246;nnen.
+Die Schwerpunktsetzung bei Verfahren und F&#246;rderkriterien erfolgt in der Regel durch die Ver&#246;ffentlichung von
+F&#246;rderthemen in Form von Bekanntmachungen im Bundesanzeiger sowie deren Verbreitung im Internet auf den
+Seiten des BMBF. Mit diesen Bekanntmachungen werden die F&#246;rdermodalit&#228;ten beziehungsweise -regularien
+verbindlich festgelegt. In einem zweistufigen Verfahren k&#246;nnen zun&#228;chst Skizzen f&#252;r Verbundprojekte bei dem
+beauftragten Projekttr&#228;ger eingereicht werden. Die eingereichten Projektvorschl&#228;ge stehen im Wettbewerb. Das
+BMBF und die Projekttr&#228;ger behalten sich vor, sich bei der Auswahl der zu f&#246;rdernden Projektvorschl&#228;ge
+themenspezifisch durch einen unabh&#228;ngigen Fachausschuss beraten zu lassen. Die der Bewertung und Auswahl
+zugrunde gelegten Kriterien, f&#252;r beide Stufen, werden in den Bekanntmachungen der jeweiligen F&#246;rderma&#223;nahme
+ver&#246;ffentlicht. In der zweiten Stufe des Auswahlverfahrens werden die Konsortien mit hinreichend hoher Priorit&#228;t 
+zur Vorlage eines f&#246;rmlichen F&#246;rderantrages zu ihren Projektvorschl&#228;gen aufgefordert.
+Durch die laufende Anpassung des Programms und die Qualit&#228;tssicherung f&#252;r F&#246;rderma&#223;nahmen in Kombination 
+mit dem wettbewerblichen Auswahlverfahren wird wissenschaftliche Exzellenz und eine gro&#223;e Innovationsh&#246;he
+sichergestellt. Die Projektf&#246;rderung im Rahmen von F&#246;rderbekanntmachungen nach diesem Prinzip folgt daher
+beim Mitteleinsatz grunds&#228;tzlich dem Maximalprinzip und eine Wirtschaftlichkeit ist gegeben. F&#246;rderungen
+au&#223;erhalb von Bekanntmachungen sind von dieser Betrachtung nicht gedeckt und ben&#246;tigen gegebenenfalls eine
+eigenst&#228;ndige Wirtschaftlichkeitspr&#252;fung.
+5.3.4 Evaluation
+Das Programm als solches ist lernend angelegt. Durch einen laufenden Dialog mit den Zielgruppen, das
+Monitoring von F&#246;rderdaten sowie die Nutzung von Informationen aus Projektberichten, inklusive der Sicherstellung der
+Vollzugswirtschaftlichkeit, erfolgt eine fortlaufende zeitnahe Nachjustierung des Programms. Hierzu werden
+insbesondere die beschriebenen Indikatoren herangezogen. So wird sowohl die forschungspolitische Wirksamkeit 
+des Programms als auch die Ma&#223;nahmenwirtschaftlichkeit laufend gepr&#252;ft und gegebenenfalls geeignet erg&#228;nzt
+oder angepasst. Dies erreicht eine evidenzbasierte Justierung von Inhalten und Ma&#223;nahmen und bereitet die
+sp&#228;tere Ex-post-Evaluierung zur Zielerreichungs- und Wirkungskontrolle des Programms bereits zur Laufzeit vor.
+
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de 
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de 
+ISSN 0722-8333]</text>
+    <titel>Forschungsrahmenprogramm der Bundesregierung zur IT-Sicherheit
+Digital. Sicher. Souver&#228;n.</titel>
+    <datum>2021-06-03</datum>
+  </document>

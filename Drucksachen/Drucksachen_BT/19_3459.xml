@@ -1,0 +1,695 @@
+<document>
+    <id>221038</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/3459</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>8a1ca91dcb270d06a81203dcd712ff4e</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>236698</id>
+      <titel>"Big Data" und Software zur Vorhersage von "Krisen" bei der Bundeswehr</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium der Verteidigung</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/034/1903459.pdf</pdf_url>
+      <id>221038</id>
+      <dokumentnummer>19/3459</dokumentnummer>
+      <datum>2018-07-19</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums der Verteidigung vom  
+17. Juli 2018 &#252;bermittelt.  
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext. 
+Deutscher Bundestag  Drucksache 19/3459 
+19. Wahlperiode 19.07.2018 
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Andrej Hunko, Dr. Alexander S. Neu,  
+Heike H&#228;nsel, weiterer Abgeordneter und der Fraktion DIE LINKE. 
+&#8211; Drucksache 19/2844 &#8211; 
+&#8222;Big Data&#8220; und Software zur Vorhersage von &#8222;Krisen&#8220; bei der Bundeswehr  
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r  
+Das Bundesministerium der Verteidigung (BMVg) plant die Beschaffung von 
+Software zur Verarbeitung von gro&#223;en Datenmengen, um damit &#8222;m&#246;gliche
+Ausstattungs- und Versorgungsprobleme&#8220; zu identifizieren (&#8222;Blick in die Zukunft: 
+Big-Data-Software f&#252;r die Bundeswehr&#8220;, bundeswehr-journal.de vom 2. Juni 
+2018). Hierzu setzt das BMVg auf die sogenannte In-Memory-Technologie, 
+wonach die zu verarbeitenden Datenbest&#228;nde im Arbeitsspeicher der
+Anwendung gehalten werden und damit um ein Vielfaches schneller durchsuchbar 
+sind. Bereits im Jahr 2015 hatte das BMVg einen &#8222;Bedarf f&#252;r den Einsatz einer 
+In-Memory-Technologie&#8220; mitgeteilt (Bundestagsdrucksache 18/5196, Antwort 
+zu Frage 6). Damals wurden die Produkte &#8222;HANA&#8220; des deutschen Konzerns 
+SAP sowie &#8222;Blu&#8220; von IBM f&#252;r eine m&#246;gliche Beschaffung untersucht. Dem 
+BMVg zufolge habe das Ministerium au&#223;erdem eine &#8222;grunds&#228;tzliche
+Marktanalyse/-sichtung&#8220; zu Anwendungen zur Prognose von gro&#223;en Datenmengen 
+durchgef&#252;hrt und mit einigen Firmen anschlie&#223;end &#8222;ein Gespr&#228;ch&#8220; gef&#252;hrt 
+(Bundestagsdrucksache 19/1979, Antwort auf die Schriftliche Frage 77 des
+Abgeordneten Omid Nouripour). 
+Derzeit testet das Bundesministerium &#8222;im Rahmen von Pilotprojekten&#8220; die 
+Prognosewerkzeuge SAP Analytics sowie &#8222;IBM Watson&#8220;. Das SAP-Programm 
+diene demnach der &#8222;vorausschauende[n] Wartung (predictive maintenance)&#8220;. 
+Mit dem IBM-Programm sollen au&#223;erdem &#8222;potenzielle Krisen&#8220; vor ihrer
+Entstehung in den n&#228;chsten sechs bis 18 Monate vorhergesagt werden (&#8222;Blick in 
+die Zukunft: Big-Data-Software f&#252;r die Bundeswehr&#8220;, bundeswehr-journal.de 
+vom 2. Juni 2018). Hierf&#252;r muss die Software allerdings auf eine Datenbasis mit 
+fr&#252;heren politischen &#8222;Ereignissen&#8220; zugreifen. Eine solche Datenbank &#8222;Global 
+Data on Events, Location and Tone&#8220; (GDELT) wird von dem Informatiker
+Kalev Leetaru betrieben (www.gdeltproject.org). Das Ziel von GDELT ist das 
+Aufsp&#252;ren zuk&#252;nftiger Unruhen, Revolten oder Anschl&#228;ge. GDELT wertet
+t&#228;glich Tausende Berichte aus &#246;ffentlich zug&#228;nglichen Medien aus. Auch das von 
+Google und dem US-Geheimdienst CIA gegr&#252;ndete Unternehmen &#8222;Recorded 
+Future&#8220; bietet entsprechende Dienste an (www.recordedfuture.com). Unter
+anderem hatte das US-Milit&#228;r derartige Verfahren 2011 im Rahmen seiner
+Intervention in Libyen eingesetzt (http://gleft.de/2hF). Hierf&#252;r werden &#246;ffentlich
+zug&#228;ngliche Quellen im Internet ausgewertet (sogenannte OSINT-Verfahren). Zu
+einer solchen &#8222;IT-gest&#252;tzten Nachrichtengewinnung aus offenen Quellen&#8220;
+testete die Bundeswehr die beiden Analysetools &#8222;Textrapic&#8220; und &#8222;Brandwatch&#8220; 
+zur Erfassung von &#8222;Meinungs- und Stimmungslagen der Bev&#246;lkerung&#8220;. Breiter 
+aufgestellte Forschungen f&#252;r eine &#8222;Wissenserschlie&#223;ung aus offenen Quellen&#8220; 
+(WeroQ) hatte die Bundeswehr zwar f&#252;r den Zeitraum von 2014 bis 2016
+beauftragt, diese wurden aber wegen eines fehlenden Zuwendungsbescheides des 
+Bundesamtes f&#252;r Ausr&#252;stung, Informationstechnik und Nutzung der
+Bundeswehr (BAAINBw) f&#252;r das Fraunhofer-Institut zun&#228;chst nicht durchgef&#252;hrt 
+(Schreiben des Parlamentarischen Staatssekret&#228;rs Dr. Ole Schr&#246;der vom 22. Juli 
+2014, http://gleft.de/2hE) und fanden am Ende gar nicht statt (Plenarprotokoll 
+18/192). Auch das Bundeskriminalamt hatte unter Koordination des Bundes 
+Deutscher Kriminalbeamter mit dem Fraunhofer-Institut f&#252;r Intelligente
+Analyse- und Informationssysteme IAIS die Software &#8222;FuhSen&#8220; (f&#246;derierte und 
+hybride Search-Engine) zur semantischen Ermittlung in offenen Quellen im
+Internet entwickelt, die neben g&#228;ngigen Schnittstellen zu Social Media auch das 
+&#8222;Deep Web&#8220; (etwa Online-Marktpl&#228;tze) oder das &#8222;Dark Web&#8220; durchsucht 
+(http://gleft.de/2hJ). Im Projekt wurde auch gepr&#252;ft, wie eine polizeiliche
+Verarbeitung von Personendaten nach der EU-Datenschutz-Grundverordnung 
+rechtskonform erfolgen kann.  
+Die jetzige milit&#228;rische Beschaffung der Software SAP Analytics sowie IBM 
+Watson ist Teil einer &#8222;Digitaloffensive&#8220; der Bundeswehr. Vor der Entscheidung 
+hatte das BMVg auch die von der hessischen Polizei genutzte
+Vorhersagesoftware &#8222;Gotham&#8220; der US-Firma Palantir Technologies gepr&#252;ft. Die Nutzung 
+von SAP-Produkten kann unter anderem ein Sicherheitsrisiko darstellen. Nach 
+Recherchen des ARD-Magazins &#8222;FAKT&#8220; lieferte der deutsche Konzern seine 
+Datenbanktechnologie &#8222;HANA&#8220; an US-Geheimdienste (ARD FAKT vom 
+10. M&#228;rz 2015).  
+1. Aus welchen Gr&#252;nden zeichnete sich im Jahr 2015 &#8222;Bedarf f&#252;r den Einsatz 
+einer In-Memory-Technologie ab&#8220; (Bundestagsdrucksache 18/5196,
+Antwort zu Frage 6)? 
+Die IT-Unterst&#252;tzung der gesamten Logistikleistungen der Bundeswehr, wie zum 
+Beispiel der Materialbewirtschaftung und Instandhaltung, beruht im
+Wesentlichen auf dem Produkt SAP ERP und dem darauf gest&#252;tzten Berichtswesen im 
+SAP Business Warehouse. Aufgrund stetig wachsender Datenmengen im SAP 
+ERP-System entsprach das Antwort-Zeit-Verhalten ausgew&#228;hlter logistischer
+Berichte mit Blick auf Laufzeiten von mehreren Stunden nicht mehr den
+Nutzeranforderungen. 
+a) Welche Ergebnisse zeitigten die damaligen Untersuchungen der Produkte 
+SAP SE (Produkt &#8222;HANA&#8220;) und IBM (Produkt &#8222;Blu&#8220;)? 
+Das Ergebnis der Untersuchungen der In-Memory-Datenbanken SAP HANA und 
+IBM DB2 Version 10.5 BLU im Hinblick auf deren Eignung und Nutzen im
+Bereich des Business Warehouse der Bundeswehr zeigte auf, dass die bestehende 
+Anforderungslage im Kontext des SAP ERP-Systems mit dem Produkt SAP 
+HANA besser abgedeckt w&#252;rde. 
+b) Auf welche Weise und von wem wurden die Produkte &#8222;untersucht&#8220; bzw. 
+erprobt? 
+Die Produkte wurden im Rahmen einer vergleichenden Studie durch das
+Bundesamt f&#252;r Ausr&#252;stung, Informationstechnik und Nutzung der Bundeswehr 
+(BAAINBw) mit Unterst&#252;tzung der Firma Accenture und der BWI GmbH
+untersucht bzw. erprobt.
+2. Aus welchen Gr&#252;nden wurde die geplante Studie &#8222;Wissenserschlie&#223;ung aus 
+offenen Quellen&#8220; (WeroQ) nicht durchgef&#252;hrt (Plenarprotokoll 18/192, 
+S. 19133 (D))? 
+Es wird auf Antwort zu Frage 2b verwiesen. 
+a) Welches Fraunhofer-Institut und welche weiteren Beteiligten sollten die 
+Studie durchf&#252;hren? 
+WeroQ war ein &#8222;Antrag auf Erteilung einer Zuwendung&#8220; des Fraunhofer-
+Institutes f&#252;r Kommunikation, Informationsverarbeitung und Ergonomie (FhI FKIE) 
+Ende M&#228;rz 2014, ohne weitere Beteiligte. 
+b) Sofern der Zuwendungsbescheid durch das BAAINBw an das
+Fraunhofer-Institut niemals erfolgte, welche Gr&#252;nde kann die Bundesregierung 
+hierzu mitteilen (Schreiben des Parlamentarischen Staatssekret&#228;r Dr. Ole 
+Schr&#246;der vom 22. Juli 2014, http://gleft.de/2hE)? 
+Das BAAINBw kam bei der Bewertung des Antrages des FhI FKIE zu dem
+Ergebnis, dass durch eine im Jahre 2012 gebilligte F&#228;higkeitsforderung, ein
+Interesse an den von der FKIE durchgef&#252;hrten Forschungen besteht und eine
+Zuwendung positiv zu bewerten sei. Bei einer weitergehenden Pr&#252;fung wurde
+festgestellt, dass die F&#228;higkeitsforderung bei der &#220;berf&#252;hrung in die
+Verfahrensvorschrift zur Bedarfsermittlung und Bedarfsdeckung in der Bundeswehr (Customer 
+Product Management &#8211; CPM) nicht aufrecht erhalten wurde, so dass dem &#8222;Antrag 
+auf Erteilung einer Zuwendung&#8220; der FhI FKIE nicht stattgegeben wurde. 
+c) Welche Forschungen zu &#8222;marktverf&#252;gbare[n] Analysetools&#8220; zur
+Erfassung &#8222;von Meinungs- und Stimmungslagen der Bev&#246;lkerung&#8220; hat die 
+Bundeswehr in den letzten f&#252;nf Jahren betrieben bzw. beauftragt? 
+Diesbez&#252;glich wird auf die Antwort der Bundesregierung zu Frage 33 der Kleinen 
+Anfrage auf Bundestagsdrucksache 19/3420, &#8222;Aktivit&#228;ten der Bundeswehr im
+digitalen Raum und gesetzgeberische Ma&#223;nahmen der Bundesregierung&#8220;,
+verwiesen. 
+Bez&#252;glich der Erprobung Textrapic und Brandwatch wird auf die Antwort zu 
+Frage 2d verwiesen. 
+d) Was ergab die Erprobung der beiden Analysetools &#8222;Textrapic&#8220; und 
+&#8222;Brandwatch&#8220;?  
+Brandwatch bietet eine quantitativ belastbare Analyse von frei verf&#252;gbaren
+Textdaten und eignet sich als ressourcenorientiertes Verfahren f&#252;r
+Langzeitbeobachtungen. Mit Hilfe von Textrapic entstehen f&#252;r den Analysten leicht zu
+interpretierende Bildgebungen, die die Semantik von Texten visuell darstellen und
+nachvollziehbar machen. Die Erg&#228;nzung durch Textrapic erm&#246;glicht daher die
+Identifikation von Relevanz &#8211; unabh&#228;ngig von der Subjektivit&#228;t des Analysten.
+e) Welche &#228;hnlichen Forschungen zur &#8222;IT-gest&#252;tzten
+Nachrichtengewinnung aus offenen Quellen&#8220; (sogenannte OSINT-Verfahren) hat die
+Bundeswehr in den letzten f&#252;nf Jahren betrieben bzw. beauftragt (bitte auch 
+mitteilen, welche Anwendungen &#8222;betrachtet&#8220; wurden)? 
+Fraunhofer-Institut f&#252;r Naturwissenschaftlich-Technische Trendanalysen (FhI 
+INT): 
+Name: Einsatz kognitiver Systeme 
+Theoretische und technische Untersuchung der Anwendung Kognitiver Systeme 
+in der Trendanalyse. Nach Marksichtung hat sich der Watson Explorer (WEX) 
+von IBM f&#252;r die angestrebte Untersuchung als am geeignetsten erwiesen. 
+FhI FKIE: 
+Name: Information Retrieval &#8211; Fake News 
+Untersuchung zur automatisierten Erkennung von Fake News 
+UniBw M&#252;nchen: 
+Name: ABI &#8211; Automatisierte Beobachtung von Internetinhalten 
+Studie zur automatischen Beobachtung von Internetinhalten, mit dem Fokus auf 
+der Vernetzung zwischen Ereignissen aus der realen Welt und ihrer Resonanz im 
+Internet (sozialen Medien) am Beispiel Twitter. 
+3. Welche Soft-und Hardware welcher Hersteller hat das BMVg im Rahmen 
+einer &#8222;grunds&#228;tzlichen Marktanalyse/-sichtung zu entsprechenden
+Produkten&#8220; zur Prognose von gro&#223;en Datenmengen gepr&#252;ft, und aus welchen
+Erw&#228;gungen wurde sich gegen die Beschaffung entschieden
+(Bundestagsdrucksache 19/1979, Antwort auf die Schriftliche Frage 77 des Abgeordneten Omid 
+Nouripour)? 
+Soweit Markterkundungen durchgef&#252;hrt werden, wird stets darauf geachtet und 
+erforderlichenfalls auch darauf hingewiesen, dass es sich um unverbindliche 
+Ma&#223;nahmen handelt und Rechtspflichten des Bundes hierdurch nicht begr&#252;ndet 
+werden. Daher werden zur Informationsgewinnung grunds&#228;tzlich mit allen
+Anbietern von am Markt verf&#252;gbaren Produkten Gespr&#228;che gef&#252;hrt, die aber
+keinerlei Beschaffungsentscheidung beinhalten. 
+Diese werden im Rahmen konkreter Beschaffungs- oder Vergabeverfahren
+gem&#228;&#223; den geltenden Gesetzen und Regelungen durchgef&#252;hrt. 
+Im Kontext des SAP ERP-Systems wurde durch das BAAINBw eine Studie 
+durchgef&#252;hrt, um eine Bewertung von In-Memory-Technologie Ans&#228;tzen zu
+betrachten. Das konkrete Ziel der Studie bestand in der vergleichenden
+Untersuchung der beiden In-Memory-Datenbanken SAP HANA (Bw on HANA) und 
+IBM DB2 Version 10.5 BLU. Die Studie wurde durch die Firma Accenture 
+durchgef&#252;hrt. Das Ergebnis zeigte auf, dass die bestehende Anforderungslage (im 
+Schwerpunkt technisch-wirtschaftliche Aspekte) an eine In-Memory-
+Technologie im Kontext des SAP ERP-Systems optimal mit dem Produkt SAP HANA
+abgedeckt werden kann. Die Produktauswahl erfolgte hier aufgrund der technischen 
+Anforderungen der SAP Produkte bzw. der seitens der Firma SAP freigegebenen 
+Produktkombinationen hinsichtlich der m&#246;glichen zu verwendenden
+Datenbanksysteme.
+4. Nach welchem Verfahren hat das BMVg eine solche Marktsichtung
+durchgef&#252;hrt, bzw. wie wurden die zu sichtenden Produkte und Firmen gefunden? 
+Grunds&#228;tzlich werden Markterkundungen durchgef&#252;hrt, indem allgemein
+zug&#228;ngliche Quellen (Internet, Werbematerial, Publikationen etc.) ausgewertet
+werden, um sich einen &#220;berblick &#252;ber den Stand der Technik sowie die Produkt- oder 
+Leistungsvielfalt am Markt zu verschaffen. Es handelt sich hierbei um
+unverbindliche Ma&#223;nahmen, welche keine Rechtspflichten des Bundes begr&#252;nden. Sie
+f&#252;hren nicht dazu, Leistungsbeschreibungen auf das Produkt eines bestimmten
+Anbieters zuzuschneiden. Es wird streng darauf geachtet, nicht den Eindruck zu
+vermitteln, der &#246;ffentliche Arbeitgeber habe einen Beschaffungsvorgang
+organisatorisch oder planerisch bereits eingeleitet und mit potenziellen Anbietern Kontakte 
+mit dem Ziel aufgenommen, das Beschaffungsvorhaben mit einer verbindlichen 
+rechtsgesch&#228;ftlichen Einigung abzuschlie&#223;en. 
+5. Mit welchen Firmen hat das BMVg anschlie&#223;end &#8222;ein Gespr&#228;ch&#8220; gef&#252;hrt, 
+und wer nahm seitens der Bundeswehr und des Bundesministeriums daran 
+teil? 
+Grunds&#228;tzlich f&#252;hrt das Bundesministerium der Verteidigung (BMVg) au&#223;erhalb 
+von den durch das BAAINBw durchgef&#252;hrten Marktanalysen- und -sichtungen 
+Gespr&#228;che mit Industrievertretern zu konkreten Themen zur
+Informationsgewinnung auf allen Ebenen z. B. im Rahmen von Messebesuchen. Alle diese
+Gespr&#228;che sind unverbindlich und dienen ausschlie&#223;lich dazu, Entwicklungstrends der 
+Industrie fr&#252;hzeitig zu erkennen, um von m&#246;glichen technischen
+Weiterentwicklungen und Innovationen profitieren zu k&#246;nnen.  
+Diese Gespr&#228;che werden mit allen Firmen gef&#252;hrt, die Produkte anbieten, welche 
+f&#252;r die Bundeswehr von grunds&#228;tzlichem Interesse sind. Dies beinhaltet, bezogen 
+auf die unter Frage 3 aufgef&#252;hrten Produkte, u. a. Firmen wie SAP, IBM,
+Microsoft, Atos, Software AG. 
+Da es sich, wie bereits beschrieben, um reine Informationsgespr&#228;che handelt, 
+werden diese weder als offizielle Termine &#8211; wie z. B. Stabsgespr&#228;che mit anderen 
+Nationen &#8211; gef&#252;hrt noch protokolliert. Daher sind Aussagen &#252;ber konkrete
+Gespr&#228;che mit bestimmten Firmen zu einem bestimmten Datum mit Auflistung aller 
+amtsseitigen Vertreter nicht m&#246;glich. 
+Ein konkreter Zusammenhang zwischen offiziellen Marktsichtungen des 
+BAAINBw und diesen Gespr&#228;chen besteht nicht. 
+6. Welche Soft- und Hardware welcher Hersteller hat das BMVg zur Prognose 
+von gro&#223;en Datenmengen beschafft, und welche weiteren Beschaffungen 
+sind geplant (&#8222;Blick in die Zukunft: Big-Data-Software f&#252;r die
+Bundeswehr&#8220;, bundeswehr-journal.de vom 2. Juni 2018)? 
+Im Kontext des IT-Programms SASPF (Standard-Anwendungs-Software-
+Produkt-Familien) wurde SAP HANA als Datenbanktechnologie f&#252;r die Systeme im 
+Berichtswesen beschafft. Vor dem Hintergrund der aktuellen SAP-
+Produktentwicklungen bildet SAP HANA DB die technische Grundlage f&#252;r alle zuk&#252;nftigen 
+SAP-Produkte und im Rahmen der anstehenden Software-Updates der
+bestehenden SAP-Systeme wird eine Umstellung &#8211; soweit noch nicht erfolgt &#8211; auf SAP 
+HANA DB erfolgen m&#252;ssen. 
+Im Rahmen eines Projektes zur Einf&#252;hrung eines
+Produktlebenszyklusmanagement (PLM) werden derzeit M&#246;glichkeiten einer systematisierten Auswertung
+bisher nicht verkn&#252;pfter Daten aus der Nutzung von Produkten und Ger&#228;ten
+untersucht. Diese Untersuchung findet produktunabh&#228;ngig statt. Ob und in welchem 
+Umfang hierzu Hard- oder Software eines bestimmten Herstellers beschafft
+werden wird, ist derzeit nicht abschlie&#223;end prognostizierbar. 
+Im Zuge des ressorteigenen Beitrags zur Krisenfr&#252;herkennung der
+Bundesregierung untersucht das BMVg gegenw&#228;rtig zusammen mit der Firma IBM im
+Rahmen einer Forschungs- und Technologiestudie &#8222;IT-Unterst&#252;tzung
+Krisenfr&#252;herkennung&#8220; eine hierf&#252;r geeignete softwarebasierte L&#246;sung. Dar&#252;ber hinaus wird 
+auf die Antwort zu den Fragen 7, 8, 9 und 10 verwiesen. 
+a) Welche Defizite sollen mit der Beschaffung ausgeglichen werden? 
+Die technischen Anforderungen der neuen SAP ERP-Systeme, im Wesentlichen 
+S4/HANA, bedingen grunds&#228;tzlich den Einsatz der SAP HANA DB. Hier stehen 
+insbesondere logistische Planungs- und Simulationsfunktionalit&#228;ten im Fokus, 
+die Datenbankabfragen in Echtzeit erm&#246;glichen m&#252;ssen. 
+Mit der Einf&#252;hrung einer systemischen Auswertung von Nutzungs- und
+Betriebsdaten von Waffensystemen im Rahmen des PLM sollen bisher nicht umfassend 
+automatisierte Auswertungen in der Materialwirtschaft und damit eine bessere 
+Prognose von Ersatzteil- und Wartungsbedarfen sowie eine Vereinfachung der 
+Zusammenarbeit mit der Industrie &#252;ber die gesamte Lebensdauer der Produkte 
+erreicht werden, um so Planungs-, Entwicklungs- und Beschaffungszyklen zu 
+verk&#252;rzen und letzten Endes die Einsatzbereitschaft des Materials der
+Bundeswehr nachhaltig zu steigern. 
+Eine IT-Unterst&#252;tzung Krisenfr&#252;herkennung soll das BMVg in der Aufgabe
+Krisenfr&#252;herkennung sowohl bei der Bearbeitung gro&#223;er Datenmengen als auch bei 
+der Prognose und Bewertung von Krisenpotenzialen unterst&#252;tzen. 
+b) Auf welche Weise soll die Technik helfen, &#8222;Ausstattungs- und
+Versorgungsprobleme bei der Bundeswehr&#8220; zu erkennen und ihre L&#246;sung zu
+bef&#246;rdern (bitte hierzu auch die technische Funktionsweise erl&#228;utern)? 
+Mit dem Anteil der Planungs- und Simulationsfunktionalit&#228;ten sollen die
+verf&#252;gbaren materiellen Ressourcen der Bundeswehr optimal genutzt werden.
+Weiterhin sollen aktuelle logistische Berichte fr&#252;hestm&#246;glich potentielle Engp&#228;sse
+aufzeigen und damit Grundlage f&#252;r eine Entscheidungsfindung bilden. Technisch
+basiert die In-Memory-Technologie auf einem Datenbankmanagementsystem, das 
+den Arbeitsspeicher eines Computers als Datenspeicher nutzt und dadurch
+wesentlich h&#246;here Zugriffsgeschwindigkeiten als Festplattenlaufwerke bietet. 
+Mit der Auswertung bisher unstrukturiert vorliegender oder verteilt gehaltener 
+Daten in einer gemeinsamen Datensenke sollen Zusammenh&#228;nge zwischen
+Betriebszust&#228;nden und ggf. auftretenden Fehlermustern erkannt und zur flexiblen 
+Instandsetzung oder Nachbeschaffung von Material genutzt werden. Bisher
+bestehende Prozesse im Beschaffungs- oder Logistikwesen sollen damit nicht
+ersetzt, sondern erg&#228;nzt werden und damit die Transparenz von Einkauf,
+Lagerhaltung, Wartungsvergabe und Ersatzbeschaffung von Material erh&#246;hen.
+7. Wann wurde die Software installiert, wann startete und wann endet der
+Wirkbetrieb im Pilotprojekt? 
+Das Produkt SAP HANA wurde f&#252;r die Systeme des Berichtswesens (BWon-
+HANA) zum 30. August 2016 technisch bereitgestellt und wird seitdem im
+Berichtswesen genutzt. Die HANA impliziten Analysefunktionalit&#228;ten sind
+insbesondere im Hinblick auf predictive maintenance technisch noch nicht verf&#252;gbar 
+bzw. noch nicht im Pilotbetrieb. 
+Im Projekt Product-Lifecycle-Management (PLM) wurde noch kein Wirkbetrieb 
+aufgenommen. 
+Die Software &#8222;IBM Watson&#8220; wurde am 18. Dezember 2017 auf einem
+Studiensystem f&#252;r die Krisenfr&#252;herkennung installiert. Der Studienvertrag ist kein
+Pilotprojekt. 
+8. Inwiefern soll die Software &#8222;IBM Watson&#8220; auch zur Vorhersage politischer 
+Ereignisse (&#8222;Krisen&#8220;) oder zur Bestimmung allgemeiner Meinungs- und 
+Stimmungslagen genutzt werden? 
+Die Software &#8222;IBM Watson&#8220; selbst dient nicht der Vorhersage von Krisen,
+sondern kann teilweise hierbei durch semantische Analyse von Quellendaten und
+Lagedarstellung unterst&#252;tzen. Gegenw&#228;rtig wird in der Studie &#8222;IT-Unterst&#252;tzung 
+Krisenfr&#252;herkennung&#8220; nach einer Softwarel&#246;sung gesucht, die zuk&#252;nftig bei der 
+Vorhersage von Krisen helfen soll. Studienzweck ist aber nicht die Bestimmung 
+allgemeiner Meinungs- und Stimmungslagen. 
+a) Welche Funktionalit&#228;ten der Software sind der Bundesregierung hierzu 
+bekannt? 
+In der Zielvorstellung soll das Fachpersonal f&#252;r Krisenfr&#252;herkennung im BMVg 
+durch eine zu entwickelnde Softwarel&#246;sung im Zuge der Analyse von
+krisenhaften Entwicklungen bei der Bearbeitung gro&#223;er Datenmengen unterst&#252;tzt werden. 
+Dar&#252;ber hinaus soll dieses Fachpersonal in Hinblick auf Bewertungen zur
+Entwicklung von Krisenpotenzialen durch pr&#228;diktive Hinweise unterst&#252;tzt werden. 
+b) F&#252;r welche Zeitr&#228;ume verspricht die Software, dass &#8222;potenzielle Krisen&#8220; 
+vor ihrer Entstehung vorhergesagt werden k&#246;nnten? 
+Die Software verspricht keinen Zeitraum der Vorhersage. Die im BMVg
+getroffene Festlegung des Prognosehorizontes von sechs bis 18 Monaten in der
+Studie ber&#252;cksichtigt den ressort&#252;bergreifenden Abstimmungsbedarf in Hinblick auf 
+die Bewertung von Krisenpotenzialen sowie die Erarbeitung von
+Handlungsvorschl&#228;gen im Rahmen des Leitlinienprozesses der Bundesregierung zur
+Krisenfr&#252;herkennung. Sie gestattet &#252;berdies einen effektiven Einsatz softwarebasierter 
+Prognosemodelle. 
+9. Welche Daten bzw. welche Quellen (auch OSINT) sollen mit der Software 
+&#8222;IBM Watson&#8220; verarbeitet werden (bitte f&#252;r jedes Produkt einzeln
+darstellen)? 
+Es ist geplant, dass die Studie &#8222;IT-Unterst&#252;tzung Krisenfr&#252;herkennung&#8220;
+strukturierte und unstrukturierte Daten aus &#246;ffentlichen, offenen und als
+Verschlusssachen eingestufte Quellen ber&#252;cksichtigen soll.
+a) Auf welche &#246;ffentlichen und nicht&#246;ffentlichen Datenbanken fr&#252;herer
+Ereignisse (etwa &#8222;Global Data on Events, Location and Tone&#8220;) greift die 
+Software zur&#252;ck? 
+Im Rahmen der Studie &#8222;IT-Unterst&#252;tzung Krisenfr&#252;herkennung&#8220; wurden bisher 
+folgende Ereignisdatenbanken angebunden: 
+Armed Conflict Location &amp; Event Data (ACLED), Global Database of Events, 
+Language, and Tone (GDELT), Global Terrorism Database (GTD). 
+b) Inwiefern und auf welche Art werden diese Quellen, deren eigene Quellen 
+und ihre jeweilige Zuverl&#228;ssigkeit evaluiert, bzw. inwieweit erfolgt eine 
+Kontrolle und Validierung der gesammelten Daten durch andere
+Erkenntnisse (http://gleft.de/2hO)?  
+Die Datenbanken werden in Hinblick auf ihre Zuverl&#228;ssigkeit evaluiert. Hierbei 
+erfolgt eine wissenschaftliche Beratung und Validierung durch die Universit&#228;t der 
+Bundeswehr M&#252;nchen. 
+c) Auf welche Regionen der Welt sind diese Quellen und Datenbanken
+bezogen?  
+Die softwarebasierte IT-Unterst&#252;tzung Krisenfr&#252;herkennung wird grunds&#228;tzlich 
+nicht auf spezifische geografische R&#228;ume reduziert. 
+d) Werden die &#252;ber diese Datenbanken erlangten Daten bei der Bundeswehr 
+auch zu irgendeinem anderen Zweck genutzt (unabh&#228;ngig von &#8222;IBM 
+Watson&#8220;)? 
+Die durch die softwarebasierte IT-Unterst&#252;tzung Krisenfr&#252;herkennung genutzten 
+Daten sollen grunds&#228;tzlich zu keinem anderen Zweck genutzt werden. 
+10. Welche Konsequenzen ziehen das BMVg und die Bundeswehr f&#252;r die
+geplante Krisenvorhersage mit &#8222;Watson&#8220; aus den Erfahrungen mit &#8222;Tay&#8220;, dem 
+auf k&#252;nstlicher Intelligenz basierenden Chat-Bot von Microsoft, der im Jahr 
+2016 aufgrund der ihm im Netz zug&#228;nglich gewordenen Daten innerhalb
+k&#252;rzester Zeit begann, anderen Nutzern sexistische und rassistische Nachrichten 
+zu schreiben (http://gleft.de/2i5; http://gleft.de/2i6), sowie den Erfahrungen 
+mit IBMs &#8222;Watson&#8220; selbst, das u. a. begann, sich in Obsz&#246;nit&#228;ten
+auszudr&#252;cken, nachdem es im Netz den &#8222;Urban Dictionary&#8220; gelesen hatte (http:// 
+gleft.de/2hP)? 
+Der Einsatz von Chat-Bots ist nicht vorgesehen. Generell erfolgt die Anbindung 
+von Datenquellen zum maschinellen Lernen des zuk&#252;nftigen Systems stets unter 
+fachlicher und technischer Begleitung (u. a. durch Fachexperten der Universit&#228;t 
+der Bundeswehr M&#252;nchen); ebenso werden die Ergebnisse fortlaufend von
+Experten bewertet. 
+11. Welche einmaligen Kosten entstanden f&#252;r die Beschaffung von Software zur 
+Vorhersage politischer Ereignisse (&#8222;Krisen&#8220;), und welche j&#228;hrlichen
+Lizenzen (auch f&#252;r den Zugriff auf Datenbanken mit politischen Ereignissen)
+werden f&#228;llig, sollte sich das BMVg f&#252;r einen Kauf entscheiden (bitte f&#252;r jedes 
+Produkt einzeln darstellen)? 
+Zurzeit laufen die Arbeiten noch als Forschungs- und Technologiestudie, mit der 
+die technische L&#246;sung f&#252;r die IT-Unterst&#252;tzung Krisenfr&#252;herkennung f&#252;r das
+BMVg erarbeitet wird. Erst nach Vorliegen einer technischen L&#246;sung und
+Auftragsvergabe k&#246;nnen Aussagen zu den Kosten der IT-Unterst&#252;tzung
+Krisenerkennung getroffen werden. 
+a) Welche Rolle spielt der &#8222;Cyber Innovation Hub&#8220; der Bundeswehr bei der 
+Beschaffung und dem Betrieb von digitalen Prognosewerkzeugen f&#252;r das 
+BMVg (http://gleft.de/2hy)? 
+Keine. 
+b) Welche privaten Firmen oder Institute geh&#246;ren dem &#8222;Cyber Innovation 
+Hub&#8220; an? 
+Keine. 
+12. Welche Einheiten der Bundeswehr sollen die Software zur Vorhersage
+politischer Ereignisse (&#8222;Krisen&#8220;) nutzen? 
+Die IT-Unterst&#252;tzung Krisenfr&#252;herkennung soll zuk&#252;nftig im BMVg genutzt 
+werden. 
+a) Welche milit&#228;rischen Konsequenzen bzw. sicherheitspolitischen
+Erkenntnisse sollen ggf. aus Krisenmeldungen von &#8222;IBM Watson&#8220; gezogen
+werden?  
+Die zus&#228;tzlichen Erkenntnisse aus der zuk&#252;nftigen IT-Unterst&#252;tzung
+Krisenfr&#252;herkennung betreffen insbesondere entwicklungsbestimmende Faktoren zu
+Krisenpotenzialen und sollen nach &#220;berpr&#252;fung, verdichtender Analyse durch das 
+Fachpersonal f&#252;r Krisenfr&#252;herkennung und abgestimmter Bewertung in
+geeigneter Form den politischen Entscheidungstr&#228;gern Handlungsspielraum bzw. einen 
+hinreichenden zeitlichen Vorlauf f&#252;r Entscheidungen verschaffen. Ob und welche 
+milit&#228;rischen Konsequenzen hierbei gegebenenfalls getroffen werden k&#246;nnten, ist 
+vom Einzelfall abh&#228;ngig. Welche Software letztendlich in der IT-Unterst&#252;tzung 
+Krisenfr&#252;herkennung genutzt werden wird, ist noch offen. 
+b) Bis zu welcher Reaktionsstufe sollen im Falle einer von &#8222;IBM Watson&#8220; 
+gemeldeten &#8222;Krise&#8220; seitens des BMVg oder der Bundeswehr Ma&#223;nahmen 
+ergriffen werden k&#246;nnen?  
+Es wird auf die Antwort zu Frage 12a verwiesen. 
+13. Welche weiteren Bundesbeh&#246;rden (auch das Bundeskanzleramt) nutzen SAP 
+HANA, planen eine Beschaffung oder haben das Produkt &#8222;untersucht&#8220;? 
+Im Gesch&#228;ftsbereich des Bundesministeriums der Finanzen (BMF) ist beim
+Informationstechnikzentrum Bund (ITZBund) der Einsatz von SAP HANA im
+Bereich der Personalverwaltung (PVS) geplant. &#8222;Predictive Analytics&#8220; sollen dabei 
+nicht genutzt werden. Das ITZBund untersucht SAP HANA im Hinblick auf den 
+Einsatz als moderne Technologie zur performanten, hochverf&#252;gbaren und
+ausfallsicheren Datenhaltung.
+Im Gesch&#228;ftsbereich des Bundesministeriums f&#252;r Arbeit und Soziales (BMAS) 
+ist bei der Deutschen Rentenversicherung Bund SAP bereits seit Jahren im
+Bereich des Personalmanagements im Einsatz. F&#252;r die Ablage der Daten zu den
+Mitarbeiterinnen und Mitarbeiter wird derzeit eine Oracle-Datenbank eingesetzt. Der 
+Umstieg auf eine Datenhaltung durch SAP on HANA ist eine Option f&#252;r die
+Zukunft. 
+Im Kerngesch&#228;ft der gesetzlichen Rentenversicherung werden SAP und HANA 
+f&#252;r die Speicherung der Sozialdaten der Versicherten und Rentner nicht
+eingesetzt. Die Tr&#228;ger der gesetzlichen Rentenversicherung bearbeiten die
+Versichertenkonten mit einem eigenentwickelten IT-Verfahren. Eine &#196;nderung dieser
+Verfahrensweise ist derzeit nicht geplant. 
+Die Deutsche Rentenversicherung Knappschaft Bahn See setzt SAP HANA im 
+Bereich der Minijobzentrale, des AAG-Verfahren und der Krankenversicherung 
+ein. Die Entscheidung daf&#252;r ist auf Grund der schnelleren Datenspeicherung und 
+-zugriffe &#8222;in-Memory&#8220;, der spaltenorientierten Datenspeicherung und der
+Nutzung der Memory-CPUs f&#252;r Business-Logik getroffen worden. F&#252;r die riesigen 
+und hochkomplexen Datenbest&#228;nde der Deutschen Rentenversicherung
+Knappschaft Bahn See ist der Einsatz der neuen Technologie f&#252;r umfassende analytische 
+Auswertungen in &#8222;realtime&#8220; eine Voraussetzung. Ein weiterer Grund f&#252;r den
+Einsatz von SAP HANA war der Umstand, dass SAP und weitere Anbieter (wie zum 
+Beispiel das neue Krankenkassen-Kernsystem &#8222;oscare&#174;&#8220; der Knappschaft)
+zuk&#252;nftig neue Anwendungen speziell f&#252;r HANA entwickeln. 
+Das Produkt IBM Watson ist ebenfalls als fortschrittliche Technologie
+interessant, kommt aber bislang bei der Deutsche Rentenversicherung Knappschaft 
+Bahn See nicht zum Einsatz bzw. ist ein Einsatz aktuell nicht geplant. 
+Die Bundesagentur f&#252;r Arbeit (BA) setzt aktuell die SAP Software in der Version 
+ECC 6.0 ein, diese l&#228;uft nach der aktuellen SAP-Roadmap 2025 aus der Wartung. 
+Aktuell l&#228;uft deshalb bei der BA eine Projektdefinitionsphase mit dem Ziel,
+Aufwand und Umfang einer Umstellung auf das neue Produkt S/4-HANA zu
+untersuchen. Eine Entscheidung zum Einsatz der neuen SAP-Suite bei der BA ist noch 
+nicht getroffen. 
+Im Gesch&#228;ftsbereich des Bundeskanzleramtes (BKAmt) nutzt der
+Bundesnachrichtendienst das Produkt SAP HANA zur Verarbeitung und Auswertung offener 
+Daten aus dem World Wide Web. Im Vorfeld zur Beschaffung wurde das Produkt 
+im Rahmen einer Marktrecherche untersucht. 
+Im Gesch&#228;ftsbereich des Bundesministeriums des Innern, f&#252;r Bau und Heimat 
+(BMI) wird im polizeilichen Bereich SAP HANA nicht genutzt. Es ist weder eine 
+Beschaffung in Planung noch ist eine Untersuchung dieser Software erfolgt. Eine 
+Beantwortung der Frage 13 f&#252;r das Bundesamt f&#252;r Verfassungsschutz (BfV) kann 
+nicht in offener Form erfolgen. Gegenstand der Frage sind solche Informationen, 
+die in besonderem Ma&#223;e das Staatswohl ber&#252;hren und daher in einer zur
+Ver&#246;ffentlichung vorgesehenen Fassung nicht behandelt werden k&#246;nnen. Die erbetenen 
+Ausk&#252;nfte zu den im BfV eingesetzten Softwareprodukten sind teilweise
+geheimhaltungsbed&#252;rftig, weil sie Informationen enthalten, die im Zusammenhang mit 
+der Arbeitsweise und Methodik der technischen Aufkl&#228;rungs- und
+Analysemethoden des BfV stehen. Bereits durch die Bekanntgabe von Vertragsabschl&#252;ssen 
+mit spezialisierten Privatfirmen k&#246;nnten sowohl staatliche als auch nichtstaatliche 
+Akteure R&#252;ckschl&#252;sse auf die Arbeitsweise, Methodik und schutzw&#252;rdige
+F&#228;higkeiten des BfVs ziehen. Der Schutz vor allem der technischen
+Aufkl&#228;rungsf&#228;higkeiten des BfV stellt f&#252;r deren Aufgabenerf&#252;llung einen &#252;berragend wichtigen
+Grundsatz dar. Er dient der Aufrechterhaltung der Effektivit&#228;t der
+Informationsbeschaffung durch den Einsatz spezifischer F&#228;higkeiten und damit dem
+Staatswohl. Eine Ver&#246;ffentlichung von Einzelheiten betreffend solcher F&#228;higkeiten 
+w&#252;rde zu einer wesentlichen Schw&#228;chung der dem BfV zur Verf&#252;gung stehenden 
+M&#246;glichkeiten zur Informationsgewinnung f&#252;hren. Dies w&#252;rde f&#252;r die
+Auftragserf&#252;llung des BfV erhebliche Nachteile zur Folge haben und kann f&#252;r die 
+Interessen der Bundesrepublik Deutschland sch&#228;dlich sein. Insofern k&#246;nnte die 
+Offenlegung entsprechender Informationen die Sicherheit der Bundesrepublik 
+Deutschland gef&#228;hrden oder ihren Interessen schweren Schaden zuf&#252;gen.
+Deshalb sind die entsprechenden Informationen als Verschlusssache gem&#228;&#223; VSA mit 
+dem VS-Grad &#8222;VS &#8211; Geheim&#8220; eingestuft und k&#246;nnen in der Geheimdienststelle 
+des Deutschen Bundestages eingesehen werden.* 
+Im Ausw&#228;rtigen Amt (AA) wird SAP HANA genutzt. 
+14. Welche konkreten Dienstleistungen hat das BMVg seit Beantwortung der 
+Bundestagsdrucksache 18/5196 von SAP in Anspruch genommen, welche 
+Produkte wurden beschafft, und welche Kosten entstanden daf&#252;r?  
+Seit 2015 wurden folgende Dienstleistungen von der Firma SAP in Anspruch
+genommen:  
+Ausbildungsleistungen Unterst&#252;tzungsleistungen bei: 
+- Machbarkeitspr&#252;fungen 
+- Realisierungsbegleitung/Qualit&#228;tssicherung 
+- Produktmanagement in der Nutzung 
+- Projektbezogenen und Integrativen Planungen 
+- Integrative Gesamtplanung 
+- Strategischen Planungen. 
+Schwerpunkt der Dienstleistung ist das IT-Programm SASPF. 
+Seit 2015 wurden folgende SAP-Produkte beschafft: 
+SAP Crystal Reports Nutzer  
+SAP Conract Lifecycle Management CLM 
+SAP Single Sign-On (SSO) 
+SAP Code VulnerabilityAnalysis (CVA) 
+SAP Logging of WebDynpro ABAP 
+SAP Logging of WebServices and RFC 
+SAP RCS Logging of SAP NetWeaver BW access 
+SAP UI Logging of SAP GUI for Windows 
+SAP UI Masking 
+SAP Business Plan &amp; Cons, vers f SAP NW(BPC), Prof. Edition 
+SAP Business Plan &amp; Cons, vers f SAP NW(BPC), Std. Edition 
+                                                     
+* Das Bundesministerium der Verteidigung hat einen Teil der Antwort zu Frage 13 als &#8222;VS &#8211; Geheim&#8220; eingestuft. 
+Die Antwort ist in der Geheimschutzstelle des Deutschen Bundestages hinterlegt und kann dort nach Ma&#223;gabe der
+Geheimschutzordnung eingesehen werden.
+SAP Near-line storage for SAP BW 
+SAP PAS for Full Use HANA 
+SAP Predictive Analytics Modeler 
+SAP Process Orchestration 
+SAP HANA Dynamic Tiering Option 
+SAP HANA, Enterprise Edition 
+SAP Extended Diagnostics by CA, Foundation 
+SAP Learning Hub, business edition 
+SAP Learning Hub, professional edition 
+Vergabe@Work by AI AG 
+SAP Master Data Governance product 
+SAP Data Services Enterprise edition 
+SAP Information Steward 
+SAP Portfolio und Projekt Management (PPM) 
+SAP Employee User 
+SAP Identity Management (IDM) 
+SAP Mobile Platform 
+SAP SQL Anywhere, Advanced Edition (core) 
+SAP Versorgungsadministration (VADM) 
+OCR option for SAP Invoice Management by OpenText 
+SAP Employee File Management by OpenText 
+SAP Extended ECM for government by OpenText 
+SAP Invoice Management by OpenText 
+SAP Application Business Expert Upgrade User 
+SAP Business Objects BI Suite Nutzer 
+SAP Business Objects GRC Nutzer 
+SAP Professional User 
+SAP EHS Management, Health and Safety Management 
+SAP EHS Management, product safety. 
+Im gesamten Gesch&#228;ftsbereich BMVg sind nachfolgende Auftragswerte (inkl. 
+Umsatzsteuer) durch die Inanspruchnahme von SAP-Dienstleistungen sowie 
+durch die Beschaffung und Wartung von SAP-Produkten entstanden: 
+Jahr Kosten [in Mio &#8364;] 
+2015 63 
+2016 87 
+2017 109 
+2018 (bisher) 9
+15. Wie viele SAP-Mitarbeiterinnen und -Mitarbeiter (auch von Tochterfirmen 
+wie SAP NS2, Inxight, Sybase) sind derzeit in welchen Projekten f&#252;r die 
+Bundeswehr t&#228;tig? 
+Im Rahmen des IT-Programms SASPF sind derzeit etwa 114 Mitarbeiterinnen 
+und Mitarbeiter von SAP bei der Bundeswehr besch&#228;ftigt. 
+16. Welche &#8222;Lehrg&#228;nge&#8220; hat die US-Firma Attensity f&#252;r die Bundeswehr
+durchgef&#252;hrt, und welche vergleichbaren Veranstaltungen wurden von anderen 
+US-Firmen organisiert (Bundestagsdrucksache 18/5196, Antwort zu
+Frage 7)? 
+&#220;ber die bereits bekannte Leistungserbringung der &#8222;Attensity Europe GmbH&#8220; im 
+Jahr 2012 f&#252;r eine Lehrgangsdurchf&#252;hrung hinaus liegen keine Informationen 
+&#252;ber weitere Auftr&#228;ge vor. 
+17. Welche Erkenntnisse besitzt die Bundesregierung &#252;ber Datenintegrit&#228;t,
+Hintert&#252;ren, Black Boxes etc. der zu beschaffenden Software von SAP und IBM 
+oder weiterer Anbieter bzw. &#252;ber eine Zusammenarbeit der Hersteller mit 
+Geheimdiensten, bzw. inwiefern wurde dies &#252;berhaupt gepr&#252;ft? 
+Die Produkte von SAP und IBM werden als propriet&#228;re, urheberrechtliche
+gesch&#252;tzte Software beschafft. Die Bundesregierung f&#252;hrt mit den Herstellern
+Gespr&#228;che mit dem Ziel, eine schriftliche Best&#228;tigung durch die Hersteller zu
+erhalten, mit der die Garantie einer Hintert&#252;rfreien Software ausgesprochen wird. 
+Dem Gesch&#228;ftsbereich des BMVg liegen keine Erkenntnisse &#252;ber &#8222;Hintert&#252;ren&#8220; 
+etc. zur Software von IBM und SAP bzw. &#252;ber eine Zusammenarbeit der
+Hersteller mit Geheimdiensten vor. 
+Die IBM wurde im Rahmen der Studie vertraglich zur Einhaltung der rechtlichen 
+Bestimmungen zum Geheimschutz verpflichtet. Weiterhin wurde IBM
+verpflichtet, gleichartige geheimschutzrelevante Bestimmungen in Vertr&#228;ge der
+Unterauftragnehmer aufzunehmen. 
+Ungeachtet dessen gibt es eine Selbstverpflichtung der Firma IBM, in ihre
+Produkte keine &#8222;Hintert&#252;ren (verallgemeinert)&#8220; f&#252;r keine Organisation einzubauen 
+(www.ibm.com/blogs/think/2014/03/open-letter-data). 
+Dar&#252;ber hinaus werden alle Systeme, die eingestufte Daten verarbeiten, vor einer 
+Freigabe zur Nutzung akkreditiert. Hierf&#252;r wird ein IT-Sicherheitskonzept erstellt 
+und gepr&#252;ft. Die Umsetzung der erforderlichen Ma&#223;nahmen wird im Zuge einer 
+Schwachstellenanalyse nachgewiesen und M&#228;ngel werden behoben. 
+Dem Gesch&#228;ftsbereich des BMF liegen keine Erkenntnisse &#252;ber &#8222;Hintert&#252;ren&#8220; 
+etc. zur Software von IBM und SAP vor. 
+Dem Gesch&#228;ftsbereich des BMAS liegen keine Erkenntnisse vor.  
+Gesch&#228;ftsbereich des BKAmtes: Beim Bundesnachrichtendienst liegen keine
+Anhaltspunkte auf vors&#228;tzliche Hintert&#252;ren oder Black Boxes bei SAP HANA oder 
+IBM DB2 BLU Acceleration (so der komplette Name) vor. Die Software SAP 
+HANA wurde vor dem produktiven Einsatz in Testl&#228;ufen untersucht, dort waren 
+keine diesbez&#252;glichen Auff&#228;lligkeiten erkennbar. Auf Basis der bisherigen
+Erfahrungen ist die Datenintegrit&#228;t der SAP HANA gew&#228;hrleistet. Dar&#252;ber hinaus
+verf&#252;gt der Bundesnachrichtendienst &#252;ber keine Erkenntnisse zu
+Gesch&#228;ftsbeziehungen der in Rede stehenden Technologieanbieter zu anderen Nachrichtendiensten.
+Dem Gesch&#228;ftsbereich des BMI liegen keine Erkenntnisse im Sinne der
+Fragestellung vor. 
+Dem AA liegen keine Erkenntnisse im Sinne der Fragestellung vor. Das AA folgt 
+den Sicherheitsempfehlungen des BSI. Dem AA sind keine entsprechenden
+Hinweise bekannt. 
+18. Werden nur das BMVg und die Bundeswehr mit Programmen ausgestattet 
+und mit Programmen arbeiten, die (mit oder ohne In-Memory-Technologie) 
+&#8222;potenzielle Krisen&#8220; oder Betriebsabl&#228;ufe vorhersehen sollen, oder auch
+beispielsweise das Ausw&#228;rtige Amt, das Bundesministerium f&#252;r wirtschaftliche 
+Zusammenarbeit und Entwicklung, das Bundesministerium des Innern, f&#252;r 
+Bau und Heimat (BMI) oder die Geheimdienste? 
+Im Gesch&#228;ftsbereich des BMF ist eine Einf&#252;hrung solcher Programme nicht
+geplant. 
+Gesch&#228;ftsbereich des BKAmtes:  
+Das HANA Portfolio beinhaltet neben anderen Komponenten auch die SAP 
+HANA Predictive Analytics Library (PAL), die &#8211; vornehmlich f&#252;r &#246;konomische 
+Anwendungsfelder &#8211; Vorhersagen &#252;ber Preisentwicklungen, Umsatzprognosen 
+oder &#228;hnliches errechnen soll. Dar&#252;ber hinaus arbeitet der
+Bundesnachrichtendienst mit verschiedenen Open-Source-Werkzeugen f&#252;r maschinelles Lernen. 
+Damit verf&#252;gt der Bundesnachrichtendienst grunds&#228;tzlich &#252;ber Software-
+Technologie aus dem Bereich der Predictive Analytics. 
+Im Gesch&#228;ftsbereich des BMI ist eine Einf&#252;hrung solcher Programme nicht geplant. 
+Das AA setzt Technologien zur Krisenfr&#252;herkennung ein. 
+19. In welchen Vorhaben forschen Beh&#246;rden des BMVg (auch die Universit&#228;ten 
+der Bundeswehr) oder des BMI derzeit zu den Feldern 
+a) Verbesserung von automatisierten Verfahren des &#8222;Data Minings&#8220;, 
+Es wird auf die Antwort zu Frage 2e verwiesen. 
+Erg&#228;nzend hierunter fallen die Studien &#8222;IT-Unterst&#252;tzung Krisenfr&#252;herkennung&#8220; 
+und &#8222;Bearbeitung der Lage im Informationsumfeld&#8220; (beendet 2017;
+Studiennehmer IABG). 
+b) Verarbeitung von &#8222;Massendaten&#8220; in (nahezu) Echtzeit, 
+Es wird auf die Antwort zu Frage 2e verwiesen.  
+Erg&#228;nzend hierunter fallen die Studien &#8222;IT-Unterst&#252;tzung Krisenfr&#252;herkennung&#8220; 
+und &#8222;Bearbeitung der Lage im Informationsumfeld&#8220;. 
+c) In-Memory-Technologie, 
+Keine. 
+d) &#8222;Prediktive Analyse&#8220; bzw. &#8222;Vorhersagende Schlussfolgerungen&#8220; oder 
+Ausgabe von kriminalistischen &#8222;Hypothesen&#8220;, 
+Es wird auf die Antwort zu Frage 2e verwiesen.  
+Erg&#228;nzend hierunter f&#228;llt die Studie &#8222;IT-Unterst&#252;tzung Krisenfr&#252;herkennung&#8220;.
+e) Computergest&#252;tzte Auswertung von sozialen Medien (darunter Twitter, 
+Facebook), 
+Das BMVg erarbeitet hierzu gegenw&#228;rtig eine generelle Position. 
+f) Analyse sozialer Netzwerke oder Suchmaschinen zum Aufsp&#252;ren von
+Gefahren, 
+Es wird auf die Antwort zu Frage 2e verwiesen. 
+g) Visuelle Darstellung &#246;ffentlich zug&#228;nglicher Open-Source-Informationen 
+als automatisiertes datenbankgest&#252;tztes Tool zur Datensammlung,
+Auswertung, Analyse, 
+Es wird auf die Antwort zu Frage 2e verwiesen. 
+Erg&#228;nzend hierunter fallen die Studie &#8222;IT-Unterst&#252;tzung Krisenfr&#252;herkennung&#8220; 
+und &#8222;Bearbeitung der Lage im Informationsumfeld&#8220; 
+h) Intelligente Auswertung von Sensoren im &#246;ffentlichen Raum
+(Bundestagsdrucksache 18/7966)? 
+Im Gesch&#228;ftsbereich des BMI werden hierzu keine Forschungsvorhaben
+durchgef&#252;hrt. 
+20. Welche Erfahrungen hat das Bundeskriminalamt als assoziierter Partner aus 
+dem im Rahmen der F&#246;rderbekanntmachung zum Themenfeld &#8222;Zivile
+Sicherheit &#8211; Schutz vor organisierter Kriminalit&#228;t&#8220; im Rahmen des Programms 
+&#8222;Forschung f&#252;r die zivile Sicherheit II&#8220; eingereichten Forschungsprojekt 
+Linked-Data-basierte Kriminalanalyse (LiDaKrA) gewonnen
+(Bundestagsdrucksache 18/7966, Antwort zu Frage 7)? 
+Die im Projekt entwickelten Verfahren zur Verkn&#252;pfung von Daten aus mehreren 
+Quellen haben nicht die f&#252;r kriminalpolizeiliche Anwendungen notwendige Tiefe 
+erreicht. Die Entwicklung solcher Verfahren bedarf weiterer Forschung. 
+a) Wer nahm an dem Projekt teil, und welche Produkte oder Verfahren
+wurden dabei entwickelt? 
+An dem Forschungsprojekt nahmen der Bund Deutscher Kriminalbeamter, die 
+Brox IT Solutions GmbH, das Fraunhofer-Institut f&#252;r Intelligente Analyse und 
+Informationssysteme, die Universit&#228;t Kassel, die Ontos GmbH und das BKA teil. 
+Entsprechend der F&#246;rderrichtlinien wurde kein Produkt, sondern nur ein
+Demonstrator entwickelt. Als solches ist er nicht wirkbetriebstauglich und wird
+deshalb im Bundeskriminalamt nicht genutzt. 
+b) Die Zusammenf&#252;hrung welcher polizeilicher, &#246;ffentlicher oder sonstiger 
+Datenquellen (auch &#8222;Dark Web&#8220;) wurde in dem Projekt beforscht? 
+Es wurden keine Datenquellen zusammengef&#252;hrt. Im Bundeskriminalamt (BKA) 
+vorhandene Datenquellen wurden nicht angebunden. Beforscht wurde eine
+f&#246;derierte Suche in mehreren Quellen, die jeweils nur das Ergebnis einer einzelnen 
+Suche tempor&#228;r anzeigt.
+c) Welche &#8222;von den Anbietern angebotenen Schnittstellen zu &#246;ffentlichen 
+Quellen&#8220; wurden dabei genutzt (Bundestagsdrucksache 18/8323, Antwort 
+zu Frage 11)? 
+Es wurden &#246;ffentliche Schnittstellen zu Facebook, Google Knowledge Graph, 
+Google+, ICIJ Offshore Leaks, OCCRP, Twitter, Xing und eBay genutzt. 
+Satz: Satzweiss.com Print, Web, Software GmbH, Mainzer Stra&#223;e 116, 66121 Saarbr&#252;cken, www.satzweiss.com 
+Druck: Printsystem GmbH, Schafw&#228;sche 1-3, 71296 Heimsheim, www.printsystem.de 
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de 
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/2844 -
+"Big Data" und Software zur Vorhersage von "Krisen" bei der Bundeswehr</titel>
+    <datum>2018-07-19</datum>
+  </document>
+  

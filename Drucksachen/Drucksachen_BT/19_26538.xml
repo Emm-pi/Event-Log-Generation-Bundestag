@@ -1,0 +1,461 @@
+<document>
+    <id>250136</id>
+    <drucksachetyp>Antrag</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>41</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/26538</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>4e0808bcba69f1f91fd659026679cb0e</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:15+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>273613</id>
+      <titel>Datenpolitik f&#252;r Selbstbestimmung, Wettbewerb und Innovation</titel>
+      <vorgangstyp>Antrag</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>FDP</bezeichnung>
+      <titel>Fraktion der FDP</titel>
+    </urheber>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/265/1926538.pdf</pdf_url>
+      <id>250136</id>
+      <dokumentnummer>19/26538</dokumentnummer>
+      <datum>2021-02-09</datum>
+      <verteildatum>2021-02-10</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antrag</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Fraktion der FDP</urheber>
+    </fundstelle>
+    <autoren_anzeige>
+      <id>1062</id>
+      <titel>Manuel H&#246;ferlin, MdB, FDP</titel>
+      <autor_titel>Manuel H&#246;ferlin</autor_titel>
+    </autoren_anzeige>
+    <autoren_anzeige>
+      <id>1152</id>
+      <titel>Stephan Thomae, MdB, FDP</titel>
+      <autor_titel>Stephan Thomae</autor_titel>
+    </autoren_anzeige>
+    <text>[Deutscher Bundestag Drucksache 19/26538
+19. Wahlperiode 09.02.2021
+Antrag
+der Abgeordneten Manuel H&#246;ferlin, Stephan Thomae, Mario Brandenburg
+(S&#252;dpfalz), Grigorios Aggelidis, Renata Alt, Nicole Bauer, Dr. Jens
+Brandenburg (Rhein-Neckar), Sandra Bubendorfer-Licht, Dr. Marco 
+Buschmann, Britta Katharina Dassler, Dr. Marcus Faber, Daniel F&#246;st, Otto
+Fricke, Thomas Hacker, Reginald Hanke, Peter Heidt, Katrin Helling-Plahr, 
+Markus Herbrand, Torsten Herbst, Dr. Gero Clemens Hocker, Dr. Christoph 
+Hoffmann, Reinhard Houben, Ulla Ihnen, Olaf in der Beek, Gyde Jensen,
+Dr. Christian Jung, Pascal Kober, Konstantin Kuhle, Ulrich Lechte, Michael
+Georg Link, Dr. Martin Neumann, Dr. h. c. Thomas Sattelberger, Dr. Wieland 
+Schinnenburg, Frank Sitta, Dr. Hermann Otto Solms, Dr. Marie-Agnes Strack-
+Zimmermann, Benjamin Strasser, Katja Suding, Manfred Todtenhausen,
+Gerald Ullrich, Katharina Willkomm und der Fraktion der FDP
+Datenpolitik f&#252;r Selbstbestimmung, Wettbewerb und Innovation
+Der Bundestag wolle beschlie&#223;en:
+I. Der Deutsche Bundestag stellt fest:
+1. Daten stehen im Zentrum der Freiheitsfragen, die unsere Zukunft pr&#228;gen werden.
+Sie sind zentrales Wirtschaftsgut, Quelle der Inspiration sowie Ursprung
+politischer Macht und gesellschaftlicher Teilhabe. Ein zukunftsf&#228;higer Rahmen f&#252;r
+eine umfassende Datenpolitik sollte deshalb einen Bogen &#252;ber die
+Themenbereiche Datenschutz, Datenrecht und Datenwirtschaft spannen und zu diesem Zweck 
+die folgenden Ziele in den Blick nehmen: die Selbstbestimmung des Einzelnen
+im digitalen Raum zu st&#228;rken (Datenautonomie), einen funktionierenden
+Wettbewerb um Daten und aufgrund von Daten zu erm&#246;glichen (Daten&#246;konomie) sowie
+die Nutzbarmachung von Daten f&#252;r Innovationen auf vielf&#228;ltigen Ebenen zu
+f&#246;rdern (Daten als Innovationstreiber).
+2. Bevor Rahmenbedingungen f&#252;r eine zukunftsf&#228;hige Datenpolitik geschaffen
+werden k&#246;nnen, bedarf es einiger Grundsatzentscheidungen. Die wichtigste
+Weichenstellung dabei ist die Unterscheidung von personenbezogenen Daten und
+Daten ohne Personenbezug. Die Entscheidung, ob ein Datensatz oder einzelne
+Datenpunkte, aus denen sich ein Datensatz zusammensetzt, Personenbezug haben,
+ist jedoch in der Praxis h&#228;ufig nicht trivial. Um Rechtssicherheit zu bieten, 
+braucht es eine klare Wertentscheidung dahingehend, dass Daten, die zwar unter
+Mitwirkung von Personen erzeugt wurden und damit zumindest f&#252;r eine logische
+Sekunde Personenbezug aufweisen, aber im Folgenden nicht f&#252;r die Verwendung
+mit Personenbezug gedacht sind, aus der Definition personenbezogener Daten
+herausgehalten werden. Somit w&#228;ren Datens&#228;tze, in denen sich kein Datenpunkt
+mit Personenbezug mehr befindet oder auch Datens&#228;tze, bei denen ein nur
+vor&#252;bergehender Personenbezug zum n&#228;chstm&#246;glichen Zeitpunkt entfernt wird, als
+nicht personenbezogene Daten zu verstehen. Als Beispiel hierf&#252;r k&#246;nnen etwa
+Sensordaten dienen, die in einem Fahrzeug Informationen &#252;ber die Einschlagtiefe
+einer hydraulischen Vorrichtung aufzeichnen und deshalb Aufschluss dar&#252;ber
+geben k&#246;nnen, wo sich auf der genutzten Fahrbahn Schlagl&#246;cher befinden. Hierbei
+muss eine Re-Identifikation durch automatisierte und ausreichend starke
+Anonymisierungsverfahren sowie klare Sanktionierungsm&#246;glichkeiten effektiv
+unterbunden werden. Zudem sollte die mitwirkende Person immer ein Nutzungsrecht
+an den erzeugten Daten erlangen (Datenrecht). F&#252;r bestimmte, h&#228;ufig auftretende
+Fallgruppen, sollte zudem konkretisiert werden, wann ein Personenbezug
+vorliegt. Reine Maschinendaten erhalten beispielsweise keinen Personenbezug
+dadurch, dass sie R&#252;ckschl&#252;sse auf die Leistungsf&#228;higkeit des Arbeitnehmers
+zulassen, der die Maschine bedient &#8211; au&#223;er, wenn sie gerade f&#252;r diesen Zweck
+analysiert werden.
+3. F&#252;r personenbezogene Daten sollte das Ziel der Datensparsamkeit und -
+minimierung auch in einer digital transformierten und immer mehr datengetriebenen Welt
+ein Leitmotiv sein, das aktiv zur Selbstbestimmung des Einzelnen beitr&#228;gt. Das
+Prinzip der Datenminimierung ist jedoch nicht als starre Zahl oder einengende
+Vorgabe zu verstehen, sondern passt sich flexibel den Erfordernissen des
+jeweiligen Zwecks der Datenverarbeitung an und bef&#246;rdert sogar die
+Weiterentwicklung der M&#246;glichkeiten im Bereich der Datenanonymisierung und -
+pseudonymisierung, auch durch die Nutzung synthetischer Datens&#228;tze.
+4. Eine weitere klare Entscheidung ist bei der Frage zu treffen, ob es Eigentum an
+Daten geben kann. F&#252;r personenbezogene Daten verbietet sich die Idee des
+Dateneigentums schon aufgrund der im Eigentumsbegriff angelegten Idee, dass die
+Hoheit &#252;ber Daten unwiederbringlich an Dritte &#252;bertragen werden k&#246;nnte, was
+der unver&#228;u&#223;erlichen Menschenw&#252;rde widerspricht. Zudem bietet hier bereits das
+Datenschutzrecht einen Rechtsrahmen, der eindeutig die Verf&#252;gungsbefugnis, 
+also das Recht andere von der Nutzung auszuschlie&#223;en, selbst mit den Daten zu
+verfahren oder auch das Recht anderen Nutzungsbefugnisse einzur&#228;umen, der
+betroffenen Person zuweist. F&#252;r Daten ohne Personenbezug f&#228;llt die Entscheidung
+jedoch ebenso klar aus, wenn man das eng miteinander verflochtene
+Dreiecksverh&#228;ltnis bei der Verwertung von Daten (das sogenannte Nutzungsdreieck)
+betrachtet, bei dem sowohl Anbieter, Nutzerin und Nutzer als auch Dritte die Position
+des Datenproduzenten einnehmen k&#246;nnen oder ein anderweitig starkes Interesse
+am Zugriff auf Daten existiert. Es kann demnach h&#228;ufig keine interessengerechte
+und eindeutige Entscheidung geben, wer im Rahmen dieses Nutzungsdreiecks
+eine dauerhaft exklusive Rechtsposition im Umgang mit Daten erhalten soll.
+5. Neben diesen Grundsatzentscheidungen gibt es im aktuellen Rechtsrahmen und
+der heute bereits gelebten Praxis im Umgang mit Daten wichtige
+Bet&#228;tigungsfelder, die vorrangig bearbeitet werden m&#252;ssen, um alle weiteren &#220;berlegungen
+einer umfassenden Datenpolitik &#252;berhaupt zu erm&#246;glichen. Hierzu geh&#246;rt das im
+Rahmen der GWB-Novelle und auf europ&#228;ischer Ebene bereits viel diskutierte
+Themenfeld des Zugangs zu Daten. Regelungen zum Datenzugang sichern zum
+einen Selbstbestimmung und Wettbewerb und sind zum anderen essenziell f&#252;r die
+Ausarbeitung von Innovationen. Eine generelle Pflicht zur Datenteilung ist
+jedoch abzulehnen, denn Datenbest&#228;nde sind kein Allgemeingut, sondern ein
+wirtschaftlicher Wert, deren Erhebung und Aufbereitung Investitionen
+voraussetzt. Dort wo punktuell der alleinige Zugang zu bestimmten Daten Innovationen
+hemmt und zum Wettbewerbshindernis wird, muss jedoch der kartellrechtliche
+Anspruch bestimmter Marktteilnehmer auf klar definierten, begrenzten Zugang
+zu diesen Daten, gegebenenfalls auch sektorspezifisch, konkretisiert werden, um
+f&#252;r mehr Rechtssicherheit zu sorgen.
+6. Dar&#252;ber hinaus existiert mit der Datenportabilit&#228;t, die sowohl f&#252;r
+personenbezogene Daten gilt als auch in verschiedenen Bereichen bereits f&#252;r Daten ohne
+Personenbezug, heute schon ein starkes Instrument, um Daten zug&#228;nglich zu machen
+und weiter zu verwerten. Um dem Instrument der Datenportabilit&#228;t wirklich zum 
+praktischen Durchbruch zu verhelfen, braucht es jedoch eine Einigung darauf, 
+was der rechtlich bereits existierende Anspruch auf Herausgabe von Daten genau
+umfasst und innerhalb welcher Strukturen beziehungsweise anhand welchen
+Modells in einem einheitlichen Datenaustauschformat die Daten zur Verf&#252;gung
+gestellt werden m&#252;ssen. Mittelfristig sollte die Selbstbestimmung der Nutzerinnen
+und Nutzer sowie der Wettbewerb durch eine Interoperabilit&#228;t der Angebote
+gest&#228;rkt werden.
+7. Ein weiterer Bereich, &#252;ber den die Bedingungen f&#252;r Datenzugang verbessert und
+gleichzeitig die Voraussetzung vieler Innovationen der Zukunft geschaffen
+werden k&#246;nnen, ist die Erm&#246;glichung und Einrichtung von Datenpools und
+Datendrehscheiben. Aktuell bestehen noch sowohl praktische als auch rechtliche
+Hindernisse (insbesondere im Kartellrecht), die eine Einrichtung eines gemeinsamen
+Datenpools und die Zusammenf&#252;hrung von Daten zu diesem Zweck erschweren. 
+Dabei sind qualitativ hochwertige Daten im Bereich des Trainings k&#252;nstlicher
+Intelligenz und der Erstellung besonders datenarmer Algorithmen entscheidend. 
+Es reicht allerdings nicht, wie von der Bundesregierung vorgeschlagen, einen
+beh&#246;rdeninternen Datenpool zu errichten, an dem die Verwaltung gemeinsam
+arbeiten kann, oder den Begriff der Datenr&#228;ume einzuf&#252;hren. Die rechtlichen
+Bedingungen f&#252;r die Einrichtung von Datenpools m&#252;ssen insbesondere f&#252;r die
+Anwendung durch Wirtschaft und Forschung gekl&#228;rt werden. Die unterschiedlichen
+Motivationen, an einem Datenaustausch teilzunehmen, lassen sich &#252;ber
+Datenpools alleine jedoch nicht abbilden. Nicht jeder Akteur kann in gleicher Weise
+zum Aufbau von Datenpools beitragen oder sein Interesse besteht
+m&#246;glicherweise nur darin, auf die Ergebnisse und Erkenntnisse aus der Auswertung gro&#223;er
+Datenpools zuzugreifen. Deshalb ist ein wichtiger Baustein f&#252;r einen
+verbesserten Datenzugang, wo dieser von allen Beteiligten gew&#252;nscht ist, um damit
+Innovationen auf Grundlage von Daten zu erm&#246;glichen, der Aufbau von Strukturen
+&#252;ber die nicht nur Daten zusammengef&#252;hrt werden k&#246;nnen, sondern auch die aus
+Daten gewonnenen Informationen gemeinsam ausgetauscht werden k&#246;nnen. Zu
+solchen Datendrehscheiben k&#246;nnten sich verschiedenste Akteure mit
+unterschiedlichen Beitr&#228;gen als Konsortium zusammenschlie&#223;en und die so geschaffene
+Datenaustauschstruktur sogar f&#252;r externe Nutzerinnen und Nutzer &#246;ffnen. Hierdurch
+soll der Austausch von Daten oder der reine Zugang zu Informationen zu fairen,
+zumutbaren und diskriminierungsfreien Bedingungen erm&#246;glicht werden.
+8. Der Staat sitzt selbst auf den gr&#246;&#223;ten Datensch&#228;tzen, die er entweder durch
+direkte Mitwirkung von B&#252;rgerinnen und B&#252;rgern erlangt hat oder die durch den
+Einsatz &#246;ffentlicher Ressourcen erstellt wurden. Deshalb muss die &#214;ffentlichkeit
+auch grunds&#228;tzlich einen Anspruch auf Bereitstellung der betroffenen Daten als
+offene Verwaltungsdaten haben (Open Data). Der bisherige Rechtsrahmen zu
+Open Data sieht weder einen klaren Anspruch noch die maschinenlesbare Form
+der Bereitstellung vor und muss deshalb dahingehend weiterentwickelt werden,
+dass Daten in der Regel automatisch und in maschinenlesbarer Form zur
+Verf&#252;gung gestellt und nicht erst auf Antrag herausgegeben werden. Die Bereitstellung 
+besonders hochwertiger Daten f&#252;r die kommerzielle Nutzung in einem
+Lizenzsystem ist denkbar. Das Portal GovData des IT-Planungsrates, das auf Grundlage
+einer Verwaltungsvereinbarung mit dem Bund und zw&#246;lf L&#228;ndern betrieben wird, 
+bietet bereits Zugang zu zahlreichen offen verf&#252;gbaren Verwaltungsdaten und
+soll deshalb als Plattform f&#252;r alle weiteren &#220;berlegungen zur Ver&#246;ffentlichung
+von Open Data weiter ausgebaut werden. Die EU-Kommission unterst&#252;tzt die
+Strategie &#8222;Plan S&#8220;, welche sich dem langfristigen Ziel verpflichtet,
+wissenschaftliche Informationen und Erkenntnisse, die mit &#246;ffentlichen Mitteln gef&#246;rdert
+wurden, &#246;ffentlich zug&#228;nglich zu machen. Die Bundesregierung ist dieser Strategie
+bisher nicht beigetreten und muss dies nachholen.
+9. Im Bereich der Selbstbestimmung &#252;ber personenbezogene Daten ergeben sich 
+praktisch h&#228;ufig Informationsasymmetrien oder Machtungleichgewichte
+zwischen Anbietern und Nutzerinnen sowie Nutzern von Daten. Gerade in diesen
+Konstellationen k&#246;nnen Datentreuh&#228;nder einen Ausweg bieten, um eine
+missbr&#228;uchliche Verwendung von Daten auf der einen Seite und das Vertrauen der
+Nutzerinnen und Nutzer zur Bereitstellung ihrer Daten auf der anderen Seite
+sicherzustellen. Voraussetzung ist allerdings ein klarer Rechtsrahmen f&#252;r
+Treuh&#228;nder, der die treuh&#228;nderischen Pflichten dahingehend konkretisiert, dass
+Datentreuh&#228;nder im besten Interesse der Nutzerinnen und Nutzer handeln m&#252;ssen. Im 
+selben Themenspektrum bewegt sich die Frage der Delegierbarkeit von
+Einwilligungen oder zumindest typisierten Entscheidungen &#252;ber die Verwendung von
+personenbezogenen Daten. Beide Konzepte fallen in den Bereich der
+sogenannten &#8222;privacy enhancing technologies&#8220;. Die informationelle Selbstbestimmung als
+Schutzgut des Datenschutzes dient nicht nur als Abwehrrecht, sondern ist auch
+als Gestaltungsanspruch zu verstehen. Durch ein solches Verst&#228;ndnis wird
+sowohl eine effektive Verteidigung gegen den unbefugten Zugriff auf
+personenbezogene Daten sichergestellt als auch eine souver&#228;ne Entscheidung &#252;ber die
+Nutzung der eigenen Daten gew&#228;hrleistet. Deshalb stellen der Einsatz von
+Datentreuh&#228;ndern und auch die M&#246;glichkeit zur technischen Delegierung von
+Entscheidungen den Stand der Technik bei der Verarbeitung von personenbezogenen Daten
+dar.
+10. Ziel muss es sein, die betroffenen Personen in die Lage zu versetzen, effektiv
+selbst &#252;ber die Verarbeitung ihrer Daten zu entscheiden. Dazu geh&#246;rt, dass die
+informationelle Selbstbestimmung der Nutzerinnen und Nutzer von Herstellern
+und Anbietern sowie weiteren Verantwortlichen bereits beim Design von Hard-
+und Software ber&#252;cksichtigt wird (Datenschutz durch Technik &#8211; privacy by
+design) und datenschutzfreundliche Voreinstellungen Standard werden (privacy by 
+default). Deutlich wird diese Notwendigkeit beim Nutzungsverhalten im Internet:
+Irgendwann klicken Nutzerinnen und Nutzer genervt jedes Cookie-Banner an;
+besser w&#228;re es, wenn sie im Browser selbst &#252;ber das Tracking im Netz
+entscheiden und im Zweifel gesch&#252;tzt sind (siehe Antrag FDP-Bundestagsfraktion &#8222;Smart
+Germany &#8211; Souver&#228;nit&#228;t der Nutzerinnen und Nutzer &#252;ber ihre IT-Systeme
+gew&#228;hrleisten&#8220; auf Bundestagsdrucksache 19/14050). Auch beim Inhalt von
+datenschutzrechtlichen Einwilligungen m&#252;ssen die Nutzerinnen und Nutzer darauf
+vertrauen k&#246;nnen, dass sie &#8211; wie auch sonst im Rechtsverkehr &#8211; mit fairen
+Bedingungen konfrontiert werden. Statt eines starren Koppelungsverbots brauchen wir
+daher eine AGB-Kontrolle, die Umfang, Zwecke und Dauer der Einwilligung in
+die Verarbeitung ihrer Daten einer Missbrauchskontrolle unterwirft und
+dahingehende Klauselverbote vorsieht.
+11. Der Datenschutz wird h&#228;ufig wahlweise als Innovationshemmnis oder Ursprung 
+vielf&#228;ltiger Probleme bei der Umsetzung von Ideen betrachtet. Dabei ist
+regelm&#228;&#223;ig nicht der Datenschutz das Problem, sondern die uneinheitliche Anwendung
+des Rechtsrahmens f&#252;r personenbezogene Daten aufgrund unseres f&#246;deralen
+Systems der Datenschutzaufsicht. W&#228;hrend es zwischen den Mitgliedstaaten auf
+europ&#228;ischer Ebene seit der Einf&#252;hrung der DSGVO starke Koh&#228;renzprinzipien
+gibt, die dazu f&#252;hren, dass Zust&#228;ndigkeiten eindeutig festgelegt und gemeinsame
+Rechtsansichten abgestimmt werden, haben wir in Deutschland bei der
+Datenschutzaufsicht immer noch ein kleinteiliges System, das zu h&#228;ufig nicht zu einer
+f&#246;derierten Aufgabenteilung f&#252;hrt, sondern zu Verwirrung bei der
+Rechtsanwendung. Unser f&#246;derales System der Datenschutzaufsicht soll schon aufgrund des
+Gesichtspunkts, dass die Datenschutzbeh&#246;rden lokale Hilfestellungen bieten
+k&#246;nnen und als niedrigschwellige Ansprechpartner dienen, nicht aufgegeben werden.
+Die Entscheidung einer Aufsichtsbeh&#246;rde zu einem vorgelegten Sachverhalt
+sollte jedoch f&#252;r das betroffene Unternehmen in der Praxis allgemeine
+Rechtssicherheit schaffen und einmal getroffene Entscheidungen zur Bewilligung von 
+Verhaltensregeln nach Art. 40 DSGVO sollten f&#252;r alle nationalen
+Datenschutzaufsichtsbeh&#246;rden Bindungswirkung entfalten. Hierzu brauchen wir auf
+staatsvertraglicher Basis ein nationales Koh&#228;renzverfahren.
+12. Es ist zudem nicht hinnehmbar, wenn das Datenschutzrecht gegen&#252;ber Vereinen
+und KMUs durchgesetzt wird, nicht aber an den datenschutzrechtlichen
+Brennpunkten gegen&#252;ber den gro&#223;en IT-Unternehmen. Dies liegt prim&#228;r daran, dass
+hier f&#252;r die Durchsetzung des Datenschutzrechts in den meisten F&#228;llen die irische 
+und luxemburgische Datenschutzbeh&#246;rde zust&#228;ndig sind, weil die europ&#228;ischen
+Zentralen der gro&#223;en IT-Unternehmen sich dort angesiedelt haben. Diese
+Beh&#246;rden sind bereits nicht ausreichend ausgestattet, um der Aufgabe einer wirksamen 
+Aufsicht nachkommen zu k&#246;nnen, die sie im Interesse aller europ&#228;ischen
+B&#252;rgerinnen und B&#252;rger aus&#252;ben muss. Die Bundesregierung muss sich daher
+gegen&#252;ber Irland und Luxemburg f&#252;r eine ausreichende Ausstattung und konsequente
+Durchsetzung des europ&#228;ischen Datenschutzrechts einsetzen und gegebenenfalls
+auch unionsrechtliche Schritte pr&#252;fen. Grunds&#228;tzlich haben die anderen
+europ&#228;ischen Aufsichtsbeh&#246;rden auch die M&#246;glichkeit, im Rahmen des Europ&#228;ischen
+Datenschutzausschusses das T&#228;tigwerden einer nationalen Beh&#246;rde zu
+erzwingen. Hiervon m&#252;ssen sie aber auch Gebrach machen und d&#252;rfen keine falsche
+R&#252;cksichtnahme an den Tag legen, sondern m&#252;ssen bindende Entscheidungen
+treffen und ihre eigenen Befugnisse in eiligen F&#228;llen auch nutzen.
+13. Die Entscheidung des EuGH in der Rechtssache &#8222;Schrems II&#8220; vom 16. Juli 2020
+hat nach dem &#8222;Safe Harbor&#8220;-Mechanismus nun auch das &#8222;Privacy Shield&#8220; als 
+Grundlage des internationalen Datentransfers zwischen der EU und den USA
+gekippt sowie die Anwendung der Standarddatenschutzklauseln mit erheblichen 
+Zweifeln belegt, die einer einfachen Anwendung entgegenstehen. Soweit sich
+diese Zweifel durch eine Weiterentwicklung der Standarddatenschutzklauseln
+beheben lassen, ist dieses Projekt mit Priorit&#228;t von der EU-Kommission
+voranzutreiben. Politisch sind die Spielr&#228;ume allerdings eng, weil die Entscheidung des
+EuGH auf der europ&#228;ischen Grundrechte-Charta beruht und einziger Hebel eine
+&#196;nderung des US-amerikanischen Nachrichtendienstrechts ist. Aufgrund der
+Bedeutung des transatlantischen Datenverkehrs sollten die EU-Kommission und die
+Mitgliedstaaten aber weiterhin versuchen, eine Einschr&#228;nkung der exzessiven
+&#220;berwachungsbefugnisse der US-Nachrichtendienste gegen&#252;ber Ausl&#228;ndern und
+eine Verbesserung der rechtlichen Stellung und des Rechtsschutzes f&#252;r EU-
+B&#252;rger zu erreichen. Da sich die gleichen Probleme auch im Datenverkehr mit
+anderen L&#228;ndern stellen (insbesondere China und Russland) ist es zur
+Aufrechterhaltung des internationalen Datenverkehrs von essenzieller Bedeutung, zumindest
+technische M&#246;glichkeiten zum Austausch von Daten zu bieten. Hierzu geh&#246;rt
+etwa eine zwingende Vorgabe zur Verschl&#252;sselung von Daten w&#228;hrend der
+&#220;bertragung (siehe hierzu Antrag FDP-Bundestagsfraktion &#8222;Recht auf
+Verschl&#252;sselung &#8211; Privatsph&#228;re und Sicherheit im digitalen Raum st&#228;rken&#8220; auf
+Bundestagsdrucksache 19/5764). Die im &#8222;Data Governance Act&#8220; der EU-Kommission
+angedachten Datenr&#228;ume sollten &#252;berdies in den weiteren Beratungen des
+Verordnungsentwurfs um eine internationale Dimension erweitert werden. Auch wenn
+der Bedarf an Datenlokalisierung und damit europ&#228;ischen Speicherstrukturen f&#252;r
+Daten gerade aufgrund der anhaltenden Rechtsunsicherheit steigen wird, ist es
+aus Sicht eines Europ&#228;ischen Wirtschaftsraums unerl&#228;sslich internationale
+Datentransfers weiter zu erm&#246;glichen. Mittelfristig sollte Deutschland das Projekt
+der Festigung des Rechts auf informationelle Selbstbestimmung als
+Menschenrecht und die Entwicklung von Mindeststandards f&#252;r staatliche
+&#220;berwachungsma&#223;nahmen auch auf internationaler Ebene vorantreiben, etwa durch eine
+Initiative f&#252;r ein Zusatzprotokoll zu Art. 17 des Internationalen Paktes f&#252;r b&#252;rgerliche
+und politische Rechte.
+14. Die Fraktion der FPD im Bundestag fordert schon seit ihrem &#8222;Programm zur
+Beschleunigung der Digitalisierung in Deutschland&#8220; (siehe Bundestagsdrucksache 
+19/2991) vom 27.06.2018, das bestehende Recht zu einem modernen Datenrecht
+fortzuentwickeln, welches gleichzeitig innovative digitale Zukunftstechnologien
+und Gesch&#228;ftsmodelle erm&#246;glicht und die Pers&#246;nlichkeitsrechte der B&#252;rgerinnen
+und B&#252;rger sch&#252;tzt. Dementsprechend wurde schon damals eine Erg&#228;nzung des
+Rechtsrahmens dahingehend gefordert, dass die Bandbreite von Datenschutz und
+Datennutzung in einer digitalisierten Welt abgebildet wird. Die EU-Kommission
+hat im Februar 2020 eine europ&#228;ische Datenstrategie vorgelegt und arbeitet mit
+dem &#8222;Data Governance Act&#8220; und dem &#8222;Digital Markets Act&#8220; am Rechtsrahmen
+f&#252;r die datengetriebene Wirtschaft und Gesellschaft von morgen. Die
+Bundesregierung hat am 27.01.2021 nun ihrerseits eine Datenstrategie vorgelegt, mit der
+sie allerdings vor allem den aktuellen Diskussionsstand zur Datenpolitik
+widergibt. Dies ist symptomatisch f&#252;r die geringe Geschwindigkeit, die sie in der
+Digitalpolitik an den Tag legt.
+II. Der Deutsche Bundestag fordert die Bundesregierung vor diesem Hintergrund
+dazu auf,
+die Umsetzung wichtiger Weichenstellungen im Bereich der Datenpolitik nicht in die
+n&#228;chste Legislaturperiode zu verschieben und deshalb die folgenden konkreten
+Ma&#223;nahmen zeitnah und jedenfalls noch in der laufenden Legislaturperiode zu ergreifen:
+1. Im Bereich der Datenautonomie:
+&#8226; Den Einsatz von Datentreuh&#228;ndern zur F&#246;rderung der Selbstbestimmung &#252;ber
+personenbezogene Daten bei auftretenden Informationsasymmetrien oder
+Machtungleichgewichten in sogenannten &#8222;Vertrauensm&#228;rkten&#8220; zwischen Anbietern und
+Nutzerinnen sowie Nutzern von Daten voranzubringen. Zu diesem Zweck soll sich 
+die Bundesregierung bei der Aushandlung des &#8222;Data Governance Act&#8220; auf
+europ&#228;ischer Ebene daf&#252;r einsetzen, bei der Konkretisierung der Vorgaben f&#252;r
+&#8222;Dienste f&#252;r die gemeinsame Datennutzung&#8220; konkrete treuh&#228;nderische Pflichten
+einzuf&#252;hren, um sicherzustellen, dass die Datentreuh&#228;nder im besten Interesse der
+Nutzerinnen und Nutzer handeln m&#252;ssen. F&#252;r Datentreuh&#228;nder, die von staatlichen
+Stellen eingesetzt werden, sollen im Rahmen der auch in der Datenstrategie der
+Bundesregierung vorgesehenen Vorreiterrolle des Staates die Governance-
+Strukturen der Treuh&#228;nder offengelegt werden, um so Anschauungsmaterial f&#252;r die
+Nachahmung in anderen F&#228;llen zu liefern;
+&#8226; sich bereits vor der n&#228;chsten Evaluierung der DSGVO auf europ&#228;ischer Ebene f&#252;r
+die Erg&#228;nzung von Regelungen zur Erm&#246;glichung der Delegierbarkeit von
+datenschutzrechtlichen Einwilligungen oder zumindest typisierten Entscheidungen
+einzusetzen. So soll die Rechtswahrnehmung anhand klarer Vorgaben wirksam von
+Dritten oder technischen Vorrichtungen &#252;bernommen werden k&#246;nnen. &#220;ber die
+rechtliche Klarstellung zur Frage der Delegierbarkeit von Entscheidungen hinaus
+fordert der Deutsche Bundestag die Bundesregierung dazu auf, in ihrem eigenen
+Zust&#228;ndigkeitsbereich f&#252;r einzelne Fragestellungen, wie etwa den Einsatz von
+Cookie-Einwilligungs-Assistenten, ihrer Vorreiterrolle gerecht zu werden und
+datenschutzfreundliche Voreinstellungen fl&#228;chendeckend zur Anwendung zu
+bringen;
+&#8226; durch die Vergabe von Pilotprojekten f&#252;r &#246;ffentliche Stellen und die Finanzierung
+von Forschungsvorhaben im Rahmen der zur Verf&#252;gung stehenden
+Haushaltsmittel die Weiterentwicklung von sogenannten &#8222;privacy enhancing technologies&#8220;
+sowie Techniken zur anonymisierten Aufbereitung oder Modellierung synthetischer
+Datens&#228;tze voranzubringen;
+&#8226; einen Gesetzentwurf zur Erg&#228;nzung der Vorschriften zur AGB-Kontrolle im BGB
+vorzulegen, welcher sich insbesondere auf die &#220;berpr&#252;fbarkeit
+datenschutzrechtlicher Einwilligungen in Nutzungsbedingungen bezieht. Die &#220;berpr&#252;fbarkeit
+muss sich zum einen auf eine Missbrauchskontrolle in Bezug auf den Umfang, die
+Zwecke und die Dauer eingeholter Einwilligungen in die Verarbeitung von Daten 
+der Nutzerinnen und Nutzer beziehen und zum anderen explizite Klauselverbote
+in Bezug auf die Einwilligung in die Verarbeitung personenbezogener Daten
+vorsehen;
+2. im Bereich der Daten&#246;konomie:
+&#8226; in der Debatte um Datenzugangsrechte eine klare Haltung gegen allgemeine
+Datenteilungspflichten einzunehmen und eventuelle &#220;berlegungen zu
+sektorspezifischen Zugangsregeln auch nicht als &#8222;Datenteilungspflichten&#8220; zu bezeichnen.
+Dar&#252;ber hinaus fordert der Deutsche Bundestag die Bundesregierung dazu auf, sich
+im Rahmen der Erarbeitung des &#8222;Digital Markets Act&#8220; und des &#8222;Data Governance
+Act&#8220; auf europ&#228;ischer Ebene f&#252;r die Verankerung der Erm&#246;glichung des
+Datenzugangs &#252;ber sogenannte Datendrehscheiben einzusetzen, auch unabh&#228;ngig von den
+bereits angedachten Regelungen von Verpflichtungen f&#252;r sogenannte
+&#8222;Gatekeeper&#8220;. Dies k&#246;nnte eine konkrete Umsetzung des Ziels sein, Zugang zu
+Informationen zu fairen, zumutbaren und diskriminierungsfreien Bedingungen zu
+gew&#228;hren;
+&#8226; im Rahmen der deutschen Beteiligung am GAIA-X-Projekt die Einf&#252;hrung von
+Strukturen f&#252;r Datendrehscheiben und gemeinsame Datenpools voranzutreiben
+und sich daf&#252;r einzusetzen, dass die aufgebauten Strukturen in den Bereichen
+Wirtschaft, Staat (&#252;ber die beteiligten Beh&#246;rden), Gesundheit und Bildung
+miteinander verkn&#252;pft werden k&#246;nnen. So soll sichergestellt werden, dass in Zukunft
+nicht Parallelentwicklungen in verschiedenen Bereichen stattfinden, wenn in
+einem anderen Bereich bereits L&#246;sungen f&#252;r dieselbe Problemstellung vorhanden 
+sind. Der Staat soll seiner Vorreiterrolle dadurch gerecht werden, dass er das
+Portal GovData als Datenpool an GAIA-X anschlie&#223;t;
+&#8226; um internationale Datentransfers auch nach Schrems II rechtssicher zu
+erm&#246;glichen, sich neben der Aushandlung eines neuen rechtlichen Schutzmechanismus
+zur vereinfachten Daten&#252;bermittlung in Drittstaaten wie die USA f&#252;r technische
+L&#246;sungen des Problems der unterschiedlichen Datenschutzniveaus dies- und
+jenseits des Atlantiks sowie in anderen Rechtsr&#228;umen der Welt einzusetzen. Hierzu
+fordert der Deutsche Bundestag die Bundesregierung dazu auf, einen
+Gesetzentwurf vorzulegen, mit dem Telekommunikations- und Telemediendiensteanbieter
+dazu verpflichtet werden, ihre Dienste als Standard abh&#246;rsicher (Ende-zu-Ende
+verschl&#252;sselt) anzubieten;
+&#8226; einen Gesetzentwurf vorzulegen, mit dem die M&#246;glichkeit eines nationalen
+Koh&#228;renzverfahrens nach Vorbild des in der DSGVO f&#252;r die europ&#228;ische Ebene
+vorgesehenen Systems in das BDSG eingef&#252;hrt wird, um zu einer einheitlichen
+Anwendung datenschutzrechtlicher Vorschriften im f&#246;deralen System der deutschen
+Datenschutzaufsicht zu gelangen, ohne dabei das Datenschutzniveau abzusenken.
+Das Koh&#228;renzverfahren muss im Folgenden auf staatsvertraglicher Ebene von den
+Aufsichtsbeh&#246;rden verankert werden. Teil des Koh&#228;renzverfahrens soll zum einen 
+die Bindungswirkung in Bezug auf Entscheidungen zu einzelnen vorgelegten 
+Sachverhalten sein und zum anderen eine verpflichtende Anerkennung bereits
+bewilligter Verhaltensregeln nach Art. 40 DSGVO durch die einzelnen
+Aufsichtsbeh&#246;rden;
+3. im Bereich von Daten als Innovationstreiber:
+&#8226; sich bereits vor der n&#228;chsten Evaluierung der DSGVO auf europ&#228;ischer Ebene f&#252;r
+die Anpassung der Definition personenbezogener Daten in Art. 4 Nr. 1 DSGVO 
+einzusetzen, um eine trennscharfe Unterscheidung von personenbezogenen Daten
+und Daten ohne Personenbezug zu erm&#246;glichen und damit Rechtssicherheit
+dar&#252;ber zu schaffen, welche Sachverhalte nicht unter die DSGVO fallen. Neben einer
+allgemeinen Definition, wann Datens&#228;tze keinen Personenbezug mehr aufweisen,
+ist zum Zweck einer einheitlichen Rechtsanwendung die Einf&#252;hrung einer
+Positivliste plastischer Regelbeispiele anzustreben. In Zusammenhang mit der
+definitorischen Abgrenzung von Datens&#228;tzen mit und ohne Personenbezug ist jedoch
+sicherzustellen, dass die an der Entstehung von Daten mitwirkenden Personen
+immer ein Nutzungsrecht an den erzeugten Daten erlangen (Datenrecht);
+&#8226; der Datenportabilit&#228;t als Instrument zur Gew&#228;hrung von Datenzugang zum
+Durchbruch in der Praxis zu verhelfen. Im Rahmen der Vorreiterrolle des Staates sollten
+deshalb &#252;berall dort, wo staatliche Stellen dies selbst beeinflussen k&#246;nnen,
+Konzepte zur Umsetzung der Datenportabilit&#228;t zur Anwendung kommen, die zu einer
+Nutzung dieses Instruments anregen. Dar&#252;ber hinaus fordert der Deutsche
+Bundestag die Bundesregierung dazu auf, darauf hinzuwirken, dass &#252;ber die bekannten
+Normungsgremien Standards f&#252;r den Datenaustausch erarbeitet werden;
+&#8226; bestehende rechtliche &#8211; insbesondere kartellrechtliche &#8211; H&#252;rden f&#252;r
+Datenkooperationen, den Aufbau gemeinsamer Datenpools oder das Betreiben gemeinsamer
+Datendrehscheiben abzubauen. Staatliche Stellen sollten auch hier ihrer
+Vorreiterrolle gerecht werden, indem sie selbst Datendrehscheiben betreiben, &#252;ber welche
+sie insbesondere f&#252;r Externe den Zugang zu staatlichen Datenpools in einer Form
+erm&#246;glichen, die es ihnen erm&#246;glicht, eine Auswertung der dort vorhandenen
+Datens&#228;tze selbst vorzunehmen oder an den staatlichen Auswertungsergebnissen
+teilhaben zu k&#246;nnen;
+&#8226; die Bem&#252;hungen im Bereich Open Data schnell und umfassend voranzubringen.
+Damit Bund, L&#228;nder, Kommunen und alle weiteren &#246;ffentlichen Stellen an einem
+Strang ziehen, muss ein &#8222;Open Data Pakt&#8220; zwischen allen staatlichen Ebenen
+vereinbart werden. Im Rahmen dessen fordert der Deutsche Bundestag die
+Bundesregierung dazu auf, einen Gesetzentwurf vorzulegen, mit dem ein
+Bundestransparenzgesetz (angelehnt an das Transparenzgesetz Hamburg) eingef&#252;hrt und das
+Grundprinzip der Ver&#246;ffentlichung von Open Data im eGovernment-Gesetz
+gest&#228;rkt wird. Um ihrer Vorreiterrolle gerecht zu werden, soll sich auch die
+Bundesregierung den Zielen des &#8222;Plan S&#8220; verpflichten und das Portal GovData schon
+heute st&#228;rken, indem sie beginnt, offene Verwaltungsdaten auch ohne bereits
+rechtlich normierten Anspruch dort umfassend zu ver&#246;ffentlichen. Zudem sollte
+sie sich das Ziel setzen, den Quellcode von Software, die von staatlichen
+Einrichtungen oder unter Einsatz von &#246;ffentlichen Ressourcen entwickelt wird, m&#246;glichst
+zu ver&#246;ffentlichen;
+&#8226; die Vermittlung grundlegender F&#228;higkeiten im Umgang mit Daten in den
+bildungspolitischen Fokus zu r&#252;cken. Sowohl im Bereich der schulischen Bildung,
+der Weiterbildung und des lebenslangen Lernens als auch bei der Ausgestaltung 
+von Ausbildungsinhalten und Lehrpl&#228;nen muss das Thema &#8222;data literacy&#8220; k&#252;nftig 
+st&#228;rker ber&#252;cksichtigt werden. Ein erster Schritt in die richtige Richtung w&#228;re die
+Adaptierung des finnischen &#8222;Elements of ai-Kurses&#8220; auf verschiedenen Ebenen
+auch f&#252;r Deutschland, wie von der FDP-Fraktion bereits im Antrag &#8222;Smart
+Germany: Deutschland digital st&#228;rken &#8211; Onlinekurs &#8222;K&#252;nstliche Intelligenz&#8220;
+initiieren&#8220; (auf Bundestagsdrucksache 19/14034) gefordert.
+Berlin, den 9. Februar 2021
+Christian Lindner und Fraktion
+
+
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>Datenpolitik f&#252;r Selbstbestimmung, Wettbewerb und Innovation</titel>
+    <datum>2021-02-09</datum>
+  </document>
+  

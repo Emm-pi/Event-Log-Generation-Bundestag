@@ -1,0 +1,347 @@
+<document>
+    <id>240095</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/18355</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>adfca8399fa28c92b9f4bb573631e13a</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>259618</id>
+      <titel>Hochsicheres Quantennetzwerk QuNET</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium f&#252;r Bildung und Forschung</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/183/1918355.pdf</pdf_url>
+      <id>240095</id>
+      <dokumentnummer>19/18355</dokumentnummer>
+      <datum>2020-03-24</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Antwort
+der Bundesregierung
+auf die Kleine Anfrage der Abgeordneten Manuel H&#246;ferlin, Frank Sitta,
+Grigorios Aggelidis, weiterer Abgeordneter und der Fraktion der FDP
+&#8211; Drucksache 19/17500 &#8211;
+Hochsicheres Quantennetzwerk QuNET
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Ein zuverl&#228;ssiges und abh&#246;rsicheres Netzwerk zur vertraulichen
+Kommunikation ist nach Auffassung der Fragesteller eine Grundvoraussetzung einer 
+funktionierenden Demokratie. Zurzeit scheint die Quantenkommunikation, auf 
+Grundlage quantentechnologischer Methodik oder Verfahren, ein
+vielversprechender Ansatz f&#252;r ein eben solches sicheres Netz der Zukunft zu sein. 
+Die Quantenkommunikation scheint beste Voraussetzungen f&#252;r den Einsatz in 
+hochsicheren Netzen zu bieten, da sich die Leitungen in einem solchen Netz 
+nicht unbemerkt abh&#246;ren lassen; wird ein Quant bei der &#220;bertragung
+ausgelesen, so wird es zeitgleich unausweichlich ver&#228;ndert, sodass ein unerkanntes 
+Mith&#246;ren nicht m&#246;glich ist (https://www.spiegel.de/consent-a-?targetUrl=https
+%3A%2F%2Fwww.spiegel.de%2Fnetzwelt%2Fnetzpolitik%2Fquantenkomm
+unikation-fraunhofer-baut-datenverbindung-fuer-ministerien-a-1301433.html). 
+Es ist daher nicht verwunderlich, dass gro&#223;e Unternehmen (wie beispielsweise 
+Google oder IBM) besonderes Interesse an diesem Bereich der
+Quantentechnologie zeigen und betr&#228;chtliche Summen in die entsprechende Forschung 
+investieren (https://www.zdnet.de/88371751/ibm-vs-google-streit-um-quante
+n-vorherrschaft/).
+Dies hat auch die Bundesregierung erkannt und &#252;ber das Bundesministerium 
+f&#252;r Bildung und Forschung (BMBF) das Projekt &#8222;QuNET&#8220; auf den Weg
+gebracht, um in Kooperation mit der Fraunhofer-Gesellschaft, der Max-Planck-
+Gesellschaft und dem Deutsche Zentrum f&#252;r Luft- und Raumfahrt die
+M&#246;glichkeiten der Quantentechnologie f&#252;r die sichere Kommunikation
+(insbesondere zwischen Bundeseinrichtungen) auszuloten (https://www.bmbf.de/de/bm
+bf-initiative-qunet-baut-hochsicheres-quantennetzwerk-10126.html). Laut der 
+Pressemitteilung des BMBF zum Start des Projekts soll es mehrere
+Projektphasen geben. Die erste Phase des Vorhabens bildet des &#8222;QuNET-alpha&#8220;, ein 
+Demonstrationsexperiment zur Kommunikation unter Einsatz von
+Quantentechnologien. Weitere Phasen des Projekts zielen auf die Anschlussf&#228;higkeit 
+an europ&#228;ische Quantennetz-Initiativen und den Aufbau einer deutschen 
+Quantenkommunikationsinfrastruktur.
+Deutscher Bundestag Drucksache 19/18355
+19. Wahlperiode 24.03.2020
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums f&#252;r Bildung und Forschung vom 
+17. M&#228;rz 2020 &#252;bermittelt.
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext.
+Auf der Projektseite von &#8222;QuNET-alpha&#8220; wird ein Projektvolumen in H&#246;he 
+von 12,8 Mio. Euro bei einer Projektlaufzeit von 1Oktober 2019 bis Dezember 
+2020 angegeben (https://www.forschung-it-sicherheit-kommunikationssystem
+e.de/projekte/qunet-alpha). Zum Startschuss der Phase QuNET-alpha trafen 
+sich die Mitglieder des Konsortiums am 12. November 2019 in Jena. Die
+F&#246;rderinitiative QuNET ist mit ihren drei Phasen auf eine Projektlaufzeit von
+sieben Jahren angelegt (https://www.hhi.fraunhofer.de/presse-medien/nachrichte
+n/2019/startschuss-fuer-bmbf-initiative-qunet-fuer-abhoersichere-quantenkom
+munikation.html).
+1. Wie ist nach Kenntnis der Bundesregierung der aktuelle Planungsstand des 
+Projekts QuNET?
+a) Wie sieht der genaue Zeitplan f&#252;r die geplanten drei Phasen aus?
+b) Welche Ziele bzw. Ma&#223;nahmen werden in den einzelnen Phasen
+jeweils konkret verfolgt?
+Die Fragen 1 bis 1b werden gemeinsam beantwortet.
+Das Projekt QuNET ist in drei Phasen unterteilt. In der ersten Phase, die von 
+2019 bis 2022 geplant ist, stehen neben der Demonstration einer
+quantengesicherten Videokonferenz zwischen zwei Bundeseinrichtungen die Umsetzung 
+und Verl&#228;ngerung von Punkt-zu-Punkt-Verbindungen im Mittelpunkt. In der 
+zweiten Phase werden voraussichtlich von 2023 bis 2024 Technologien f&#252;r 
+Mehrbenutzer-Quantennetze entwickelt werden. Im Rahmen der dritten Phase 
+werden voraussichtlich von 2025 bis 2026 konkrete Bausteine einer
+Quanteninfrastruktur entwickelt und die zuvor entwickelten Konzepte so skaliert
+werden, dass die Projektergebnisse auch in andere europ&#228;ische Quantennetze
+integriert werden k&#246;nnen.
+Die Entwicklung einer Ende-zu-Ende verschl&#252;sselten Quantenkommunikation 
+ist ein unabdingbarer Baustein zuk&#252;nftiger IT-Sicherheit. Die
+Quantenkommunikation ist entsprechend ein Schwerpunkt im Forschungsrahmenprogramm der 
+Bundesregierung zur IT-Sicherheit &#8222;Selbstbestimmt und sicher in der digitalen 
+Welt&#8220;.
+c) Welche Bundesbeh&#246;rden oder anderen Bundeseinrichtungen werden 
+zu welchem Zeitpunkt beteiligt sein?
+Derzeit wird QuNET in enger Abstimmung des Bundesministeriums f&#252;r
+Bildung und Forschung (BMBF) mit dem Bundesministerium des Innern, f&#252;r Bau 
+und Heimat und dem Bundesamt f&#252;r Sicherheit in der Informationstechnik 
+(BSI) durchgef&#252;hrt. Andere Ressorts werden in regelm&#228;&#223;igen
+Ressortbesprechungen &#252;ber den aktuellen Stand von QuNET informiert, sodass eine
+Erweiterung der Beteiligten jederzeit m&#246;glich ist, sobald sich dies im Rahmen der 
+Forschungs- und Entwicklungsarbeiten des Projekts bzw. f&#252;r die erfolgreiche 
+Verwertung der Projektergebnisse als sinnvoll und zielf&#252;hrend herausstellen 
+sollte.
+d) Sind neben der Fraunhofer-Gesellschaft, der Max-Planck-Gesellschaft 
+und dem Deutsche Zentrum f&#252;r Luft- und Raumfahrt weitere Partner 
+beteiligt, oder ist geplant, k&#252;nftig weitere Partner zu beteiligen?
+In der Projektlaufzeit von QuNET ist geplant, neben den genannten
+Projektpartnern besonders qualifizierte Projektpartner aus Wissenschaft und Wirtschaft 
+zu integrieren. Dies erm&#246;glicht es einerseits, den hohen Risiken des 
+Forschungs- und Entwicklungsvorhabens angemessen zu begegnen und das 
+Know-how in Deutschland zu b&#252;ndeln. Andererseits kann damit auch die
+Implementierung und Integration der neuen Technologien in bestehende
+Infrastrukturen mit ihren hohen Sicherheitsanforderungen beschleunigt werden. Ein 
+Beirat mit Sicherheitsexperten und Vertretern aus der Wirtschaft begleitet die 
+Arbeiten von QuNET und ber&#228;t das Konsortium.
+e) Mit welchen weiteren europ&#228;ischen Quantennetz-Initiativen plant die 
+Bundesregierung den Anschluss in den weiteren Projektphasen?
+Welche europ&#228;ischen Quantennetz-Initiativen existieren nach Kenntnis 
+der Bundesregierung bereits?
+Die Europ&#228;ische Union b&#252;ndelt die europ&#228;ischen Quantennetz-Initiativen sowie 
+vielf&#228;ltige Initiativen der Mitgliedstaaten in der European Quantum
+Communication Infrastructure (QCI). Diese zielt langfristig auf ein die gesamte
+Europ&#228;ische Union umfassendes Quantennetz ab. Derzeit nehmen bereits 24 der 
+27 Mitgliedstaaten teil. QuNET tr&#228;gt einen essentiellen Teil zu einem k&#252;nftigen 
+Europ&#228;ischen Quantennetzwerk bei, wodurch die Vorreiterrolle der
+Bundesrepublik Deutschland in der Entwicklung der technologie&#252;bergreifenden
+Quantenkommunikation gesichert und ausgebaut wird. Dies tr&#228;gt nachhaltig zur 
+St&#228;rkung der technologischen Souver&#228;nit&#228;t Deutschlands bei.
+2. Wie ist der aktuelle Stand der Projektphase &#8222;QuNET-alpha&#8220;?
+3. Wie sieht der genaue zeitliche Ablauf des Projekts aus?
+4. Wann soll die avisierte &#8222;quantengesicherte Videokonferenz zwischen zwei 
+Bundeseinrichtungen&#8220; stattfinden (siehe https://www.forschung-it-sicherh
+eit-kommunikationssysteme.de/projekte/qunet-alpha)?
+5. Welche Bundeseinrichtungen sollen an der sicheren Videokonferenz
+teilnehmen?
+Die Fragen 2 bis 5 werden gemeinsam beantwortet.
+QuNET-alpha befindet sich aktuell in der technischen Umsetzung der
+Demonstrationsstrecke einer quantengesicherten Videokonferenz. Bislang wurden
+umfassende Systemkonzepte entwickelt und aufeinander abgestimmt. Es ist
+geplant, die Faser-, Freistrahl- und Satellitentechnologie in einem ganzheitlichen 
+Systemdesign miteinander zu kombinieren. Derzeit pr&#252;ft das BMBF in enger 
+Zusammenarbeit mit dem BSI die technischen Rahmenbedingungen der
+Demonstrationsstrecke zwischen dem BMBF und einer weiteren Bundesbeh&#246;rde. 
+Die Demonstration der quantengesicherten Videokonferenz zwischen den
+beiden Bundesbeh&#246;rden ist im vierten Quartal 2020 geplant.
+6. Wie hoch ist das geplante finanzielle Gesamtvolumen f&#252;r das Projekt 
+QuNET insgesamt?
+a) Wie wird das finanzielle Gesamtvolumen &#252;ber die Projektphasen
+verteilt?
+Die Fragen 6 und 6a werden gemeinsam beantwortet
+Aktuell ist ein Gesamtvolumen von 165 Mio. Euro f&#252;r QuNET geplant. 
+QuNET-alpha, bei dem es sich um den ersten Teil der ersten Projektphase
+handelt, wird mit insgesamt 12,8 Mio. Euro gef&#246;rdert. Basierend auf den konkreten 
+Forschungs- und Entwicklungsergebnissen von QuNET-alpha wird die
+Projekt-, Zeit- und Finanzplanung von QuNET weiter ausgearbeitet werden. Dies 
+beinhaltet auch die Aufteilung der Finanzmittel &#252;ber die weiteren
+Projektphasen.
+b) Ist das Projekt QuNET Teil der von der Bundesregierung in der
+aktuellen Legislaturperiode f&#252;r die Erforschung der Quantentechnologien 
+bereitgestellten 650 Mio. Euro (https://www.quantentechnologien.de/i
+ndex.html)?
+Das Rahmenprogramm der Bundesregierung zur Erforschung der
+Quantentechnologien b&#252;ndelt als Dachstrategie die unterschiedlichen Ma&#223;nahmen der
+Ressorts sowie unterschiedlicher F&#246;rderprogramme. Dazu z&#228;hlt auch die
+Quantenkommunikation, die ein wichtiger F&#246;rderschwerpunkt im
+Forschungsrahmenprogramm der Bundesregierung f&#252;r IT-Sicherheit &#8222;Selbstbestimmt und sicher in 
+der digitalen Welt&#8220; ist. Das Forschungs- und Entwicklungsvorhaben QuNET ist 
+darin verankert und tr&#228;gt so auch zur Hightech-Strategie 2025 der
+Bundesregierung bei. QuNET-alpha ist Teil der f&#252;r die aktuelle Legislaturperiode
+vorgesehenen Aktivit&#228;ten. Das Projekt QuNET erstreckt sich jedoch &#252;ber die
+Legislaturperiode hinaus.
+7. Wie ist nach Kenntnis der Bundesregierung der aktuelle
+Entwicklungsstand bei Quantenrepeatern?
+Wann ist nach Einsch&#228;tzung der Bundesregierung mit einem m&#246;glichen 
+Einsatz in der Kommunikationsinfrastruktur des Bundes zu rechnen?
+Das BMBF f&#246;rdert seit 2010 die Erforschung und Entwicklung von
+Quantenrepeatern. Es ist davon auszugehen, dass als Ergebnis des Forschungsprojekts 
+Q.Link.X Mitte 2021 der erste Quantenrepeaterknoten als funktionsf&#228;higer 
+Labordemonstrator verf&#252;gbar sein wird. Solche Knoten werden die elementaren 
+Bausteine von k&#252;nftigen Quantenrepeaternetzen darstellen. Sobald die
+Forschungsergebnisse aus Q.Link.X vorliegen, wird festgelegt, wann diese in die 
+Arbeiten in QuNET einflie&#223;en werden.
+8. Welche Bundesbeh&#246;rden oder anderen Bundeseinrichtungen sollen an das 
+geplante Beh&#246;rdennetzwerk auf Basis von Quantentechnologie
+angeschlossen werden?
+Bei QuNET handelt es sich um ein Forschungs- und Entwicklungsprojekt, das 
+der anwendungsorientierten Grundlagenforschung zuzuordnen ist. Angesichts 
+der dementsprechend hohen technischen Unw&#228;gbarkeiten des Vorhabens ist die 
+weitere Detaillierung ma&#223;geblich vom Projektverlauf abh&#228;ngig. Die
+Entscheidung, wann welche Bundesbeh&#246;rde oder -einrichtung an das neuartige
+Quantennetz angeschlossen werden kann, h&#228;ngt ma&#223;geblich vom Grad der
+Implementierbarkeit der Projektergebnisse in die Infrastrukturen der einzelnen
+Beh&#246;rden bzw. Einrichtungen ab. Erste Erkenntnisse werden diesbez&#252;glich bereits 
+bei der Umsetzung der Demonstrationsstrecke im Rahmen von QuNET-alpha 
+gewonnen werden. Erg&#228;nzend wird auf die Antwort zu Frage 1c verwiesen.
+9. Sieht die Bundesregierung Netzwerke auf Basis von Quantentechnologie 
+generell als &#8222;Zukunft der IT-Sicherheit&#8220; an?
+a) Falls ja, wie soll bis zur fl&#228;chendeckenden Einf&#252;hrung eines
+Netzwerkes auf Basis von Quantentechnologie die Sicherheit von
+kritischen Netzen im Zust&#228;ndigkeitsbereich der Bundesregierung
+gegen&#252;ber bereits entwickelten oder in Entwicklung befindliche
+Quantencomputern sichergestellt werden?
+b) Falls nein, wie soll die Sicherheit von kritischen Netzen im
+Zust&#228;ndigkeitsbereich der Bundesregierung anderweitig gegen&#252;ber bereits
+entwickelten oder in Entwicklung befindlichen Quantencomputern
+sichergestellt werden?
+Die Fragen 9 bis 9b werden gemeinsam beantwortet.
+Quantentechnologie ist lediglich f&#252;r Teilaspekte von Netzwerksicherheit eine 
+L&#246;sungsm&#246;glichkeit, insbesondere f&#252;r sicheren Schl&#252;sselaustausch. Daher setzt 
+die Bundesregierung auf den Einsatz von quantencomputerresistenten Public-
+Key-Verschl&#252;sselungs- und -Signaturverfahren, sogenannten
+Postkryptografieverfahren. Diese sind universell einsetzbar, da sie auf der aktuell verf&#252;gbaren 
+Informations- und Kommunikationsinfrastruktur aufsetzen und die Sicherheit 
+von kritischen Netzen gew&#228;hrleisten. Die Sicherheit dieser Verfahren wird nach 
+jetzigem Kenntnisstand nicht durch Quantencomputer eingeschr&#228;nkt. Parallel 
+zu der zielgerichteten F&#246;rderung der anwendungsnahen Grundlagenforschung 
+und Technologieentwicklungen im Bereich der Quantenkommunikation werden 
+daher im Rahmen des aktuellen Forschungsrahmenprogramms f&#252;r IT-Sicherheit 
+zahlreiche Aktivit&#228;ten im Bereich der Postquantenkryptographie durchgef&#252;hrt. 
+Damit wird ein Bereich gef&#246;rdert, der die &#220;bergangszeit bis zur Verf&#252;gbarkeit 
+von Quantenkommunikationssystemen &#252;berbr&#252;cken soll und dar&#252;ber hinaus die 
+Quantenkommunikationsinfrastruktur als komplement&#228;re Technologie zur
+Absicherung vor Angriffen mit Quantencomputern erg&#228;nzt.
+In Produkten f&#252;r den Hochsicherheitsbereich setzt das BSI bereits Ma&#223;nahmen 
+ein, die das Risiko durch Angriffe mit Quantencomputern verringern. Diese 
+Ma&#223;nahmen werden aktuell um quantencomputerresistente Public-Key-
+Verschl&#252;sselungs- und -Signaturverfahren erweitert. Die kommende Ausgabe der 
+technischen Richtlinie des BSI TR-02102-1 &#8222;Kryptographische Verfahren: 
+Empfehlungen und Schl&#252;ssell&#228;ngen&#8220; wird Empfehlungen zu diesen Verfahren 
+enthalten. Erg&#228;nzend wird auf die Antwort zu Frage 10b verwiesen.
+10. Inwiefern wird die allgemeine Entwicklung von Quantentechnologie 
+nach Ansicht der Bundesregierung Auswirkungen auf die Gesellschaft 
+haben?
+a) Wann ist nach Ansicht der Bundesregierung mit einer
+Beeintr&#228;chtigung der digitalen Sicherheit der B&#252;rgerinnen und B&#252;rger zu rechnen 
+(beispielsweise durch signifikant effizienteres &#220;berwinden von
+Passw&#246;rtern durch Quantencomputer)?
+Die Fragen 10 und 10a werden gemeinsam beantwortet.
+Handlungsbedarf ergibt sich zun&#228;chst f&#252;r Anwendungen, die Informationen mit 
+langen Geheimhaltungsfristen und hohem Schutzbedarf verarbeiten. Hier
+besteht die Gefahr darin, dass verschl&#252;sselte Daten auf Vorrat gesammelt und in 
+der Zukunft mit Hilfe eines Quantencomputers entschl&#252;sselt werden k&#246;nnten 
+(allgemein bekannt als &#8222;store now, decrypt later&#8220;-Szenario).
+Quantencomputer sind nach jetzigem Kenntnisstand nicht in der Lage,
+signifikant effizientere Angriffe auf nach Stand der Technik gesicherte Passw&#246;rter 
+durchzuf&#252;hren. F&#252;r detailliertere Informationen verweist die Bundesregierung 
+auf eine Studie des BSI zu dieser Thematik, die unter www.bsi.bund.de/qcst
+udie abgerufen werden kann.
+b) Wie soll nach Ansicht der Bundesregierung auch im
+Postquantenzeitalter der digitale Schutz der B&#252;rgerinnen und B&#252;rger sichergestellt 
+werden?
+Es existieren grunds&#228;tzlich zwei L&#246;sungsans&#228;tze, um den digitalen Schutz der 
+B&#252;rgerinnen und B&#252;rger sicherzustellen:
+Ein potentieller L&#246;sungsansatz ist die im QuNET-Projekt geplante
+Quantenkommunikation. Hierbei arbeitet das BSI an der Erstellung von Pr&#252;fkriterien 
+f&#252;r die Bewertung der Sicherheit von Produkten zur Quantenkommunikation. 
+Die Quantenkommunikation ist wegen technischer Einschr&#228;nkungen nur in 
+ausgew&#228;hlten Szenarien (z. B. Telekommunikations-Backbones) denkbar, bietet 
+derzeit keine Ende-zu-Ende-Sicherheit und ben&#246;tigt dar&#252;ber hinaus einen 
+authentischen Kommunikationskanal (z. B. mittels quantencomputerresistenten 
+Public-Key-Signaturverfahren). Mit den aktuellen gezielten BMBF-
+F&#246;rderinitiativen zu dieser Technologie (z. B. QuNET, Q.Link.X) sollen diese
+Einschr&#228;nkungen &#252;berwunden werden, sodass die Quantenkommunikation als wichtiger 
+Baustein die digitale Sicherheit der B&#252;rgerinnen und B&#252;rger nachhaltig st&#228;rken 
+kann. Im internationalen Vergleich nimmt Deutschland im Bereich der
+Quantenkommunikation eine f&#252;hrende Rolle ein.
+Der zweite L&#246;sungsansatz ist die Umstellung der gegenw&#228;rtig verwendeten 
+Public-Key-Verschl&#252;sselungs- und -Signaturverfahren auf solche, die als
+resistent gegen&#252;ber Angriffen mittels Quantencomputern gelten
+(Postquantenkryptografie). Solche Public-Key-Verfahren durchlaufen derzeit einen
+Auswahlprozess des amerikanischen National Institute of Standards and Technology 
+(NIST), der vom BSI eng begleitet wird. So kann auch die derzeit genutzte 
+Informations- und Kommunikationsinfrastruktur trotz m&#246;glicher Angriffe 
+durch Quantencomputer sicher verwendet werden.
+Hinsichtlich der Sicherheitsbedrohung, die von k&#252;nftigen
+anwendungstauglichen Quantencomputern ausgeht, befinden sich Ma&#223;nahmen wie
+beispielsweise die fokussierte F&#246;rderung der Entwicklung von Postquantenkryptografie-
+Methoden bereits in der Umsetzung. In diesem Bereich f&#246;rdert das BMBF im 
+Forschungsrahmenprogramm der Bundesregierung f&#252;r IT-Sicherheit
+&#8222;Selbstbestimmt und sicher in der digitalen Welt&#8220; aktuell Forschungs- und
+Entwicklungsvorhaben mit insgesamt etwa 16 Mio. Euro.
+Die beiden L&#246;sungsans&#228;tze beruhen auf komplement&#228;ren Technologien. Mit 
+der zielorientierten Weiterf&#252;hrung der aktuellen Forschungs- und
+Entwicklungsarbeiten beider Ans&#228;tze wird die digitale Sicherheit der B&#252;rgerinnen und 
+B&#252;rger nachhaltig gest&#228;rkt.
+11. Haben andere Staaten und/oder Organisationen nach Kenntnis der 
+Bundesregierung bereits Kommunikationsnetzwerke auf Basis von 
+Quantentechnologie im Einsatz?
+a) Falls ja, um welche Staaten und/oder Organisationen handelt es sich 
+hierbei, und inwiefern haben diese ein solches
+Kommunikationsnetzwerk implementiert?
+b) Falls nein, welche Staaten und/oder Organisationen entwickeln nach 
+Kenntnis der Bundesregierung momentan ein solches
+Kommunikationsnetzwerk auf Basis von Quantentechnologie, und wie weit ist 
+die Entwicklung jeweils fortgeschritten?
+Die Fragen 11 bis 11b werden gemeinsam beantwortet.
+Nach Kenntnis der Bundesregierung existieren aktuell weltweit verschiedene 
+Test- und Demonstrationsstrecken, die auf Quantentechnologien basieren.
+Beispiele hierf&#252;r sind unter anderem in China, Gro&#223;britannien, Kanada, &#214;sterreich 
+und den Niederlanden zu finden. Hierbei handelt es sich jedoch nicht um
+Endezu-Ende quantenverschl&#252;sselte Netzwerke f&#252;r mehrere Teilnehmer, wie sie mit 
+den in QuNET zu entwickelnden Technologien angestrebt sind. So ist
+beispielsweise im Rahmen der Trusted-Node-Strecke in China keine vollst&#228;ndige
+Endezu-Ende-Verschl&#252;sselung realisiert worden, sondern nur Teilstrecken sind
+quantengesichert.
+12. Welche Sicherheitsvorteile bietet ein Netzwerk auf Basis von
+Quantentechnologie nach Kenntnis der Bundesregierung im Vergleich zu aktuell 
+als sicher geltenden Netzwerken?
+Die Sicherheit der meisten aktuell als sicher geltenden Netzwerke, die auf
+komplexen Algorithmen basiert, ist durch die technologischen Fortschritte der
+verf&#252;gbaren Quantencomputer entscheidend bedroht. Die extrem hohe
+Leistungsf&#228;higkeit dieser neuartigen Rechner wird es k&#252;nftig erm&#246;glichen, den Schutz 
+der derzeit g&#228;ngigen Verschl&#252;sselungsmethoden zu &#252;berwinden. Auch jetzt 
+k&#246;nnten bereits verschl&#252;sselte &#220;bertragungen abgeh&#246;rt und gespeichert werden, 
+um diese mit einem zuk&#252;nftigen Quantencomputer zu entschl&#252;sseln.
+Die Sicherheit der Quantenkommunikation beruht hingegen auf physikalischen 
+Grundprinzipien, die durch keinen noch so leistungsf&#228;higen Rechner
+&#252;berwunden oder umgangen werden k&#246;nnen. Mit einem vollst&#228;ndig Ende-zu-
+Endeverschl&#252;sselten quantengesicherten Netzwerk wird daher erstmals eine 
+Netzwerk-Infrastruktur geschaffen, die eine langfristig nachhaltige &#8211; und von 
+der Entwicklung von Super- oder Quantencomputern unabh&#228;ngige &#8211;
+Datensicherheit erm&#246;glicht.
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/17500 -
+Hochsicheres Quantennetzwerk QuNET</titel>
+    <datum>2020-03-24</datum>
+  </document>
+  

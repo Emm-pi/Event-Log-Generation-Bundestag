@@ -1,0 +1,541 @@
+<document>
+    <id>232205</id>
+    <drucksachetyp>Beschlussempfehlung und Bericht</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>6</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/11758</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>2e575a5ef2d5b8933dc2e75e1aafbdbc</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:15+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>240243</id>
+      <titel>Sichere Kryptographieverfahren f&#252;r Quantencomputer entwickeln</titel>
+      <vorgangstyp>Antrag</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>AfBFT</bezeichnung>
+      <titel>Ausschuss f&#252;r Bildung, Forschung und Technikfolgenabsch&#228;tzung</titel>
+    </urheber>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/117/1911758.pdf</pdf_url>
+      <id>232205</id>
+      <dokumentnummer>19/11758</dokumentnummer>
+      <datum>2019-07-18</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Beschlussempfehlung und Bericht</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Ausschuss f&#252;r Bildung, Forschung und Technikfolgenabsch&#228;tzung</urheber>
+    </fundstelle>
+    <autoren_anzeige>
+      <id>7596</id>
+      <titel>Mario Brandenburg (S&#252;dpfalz), MdB, FDP</titel>
+      <autor_titel>Mario Brandenburg (S&#252;dpfalz), Berichterstattung</autor_titel>
+    </autoren_anzeige>
+    <autoren_anzeige>
+      <id>2102</id>
+      <titel>Dr. Anna Christmann, MdB, B&#220;NDNIS 90/DIE GR&#220;NEN</titel>
+      <autor_titel>Anna Christmann, Berichterstattung</autor_titel>
+    </autoren_anzeige>
+    <autoren_anzeige>
+      <id>2177</id>
+      <titel>Dr. G&#246;tz Fr&#246;mming, MdB, AfD</titel>
+      <autor_titel>G&#246;tz Fr&#246;mming, Berichterstattung</autor_titel>
+    </autoren_anzeige>
+    <autoren_anzeige>
+      <id>7504</id>
+      <titel>Dr. Manja Sch&#252;le, MdB, SPD</titel>
+      <autor_titel>Manja Sch&#252;le, Berichterstattung</autor_titel>
+    </autoren_anzeige>
+    <text>[Deutscher Bundestag Drucksache 19/11758 
+19. Wahlperiode 18.07.2019 
+Beschlussempfehlung und Bericht 
+des Ausschusses f&#252;r Bildung, Forschung und Technikfolgenabsch&#228;tzung 
+(18. Ausschuss)  
+zu dem Antrag der Abgeordneten Mario Brandenburg (S&#252;dpfalz), Katja Suding, 
+Nicola Beer, weiterer Abgeordneter und der Fraktion der FDP 
+&#8211; Drucksache 19/4845 &#8211; 
+Sichere Kryptographieverfahren f&#252;r Quantencomputer entwickeln 
+A. Problem 
+Theoretische Arbeiten lassen erwarten, dass zuk&#252;nftige Quantencomputer die
+Sicherheit derzeit verwendeter Verfahren f&#252;r Schl&#252;sselaustausch, asymmetrische 
+Verschl&#252;sselungen und Signaturen gef&#228;hrden. Derzeit sicher verschl&#252;sselte
+Nachrichten k&#246;nnten von Angreifern zwischengespeichert und dann mit zuk&#252;nftigen 
+Quantencomputern nachtr&#228;glich entschl&#252;sselt werden, sodass die Nachricht nicht 
+dauerhaft geheim w&#228;re. Auch f&#252;hren Optimierungsprobleme bei komplexen
+Aufgaben in den verschiedensten Anwendungsfeldern zu Verzweigungen mit
+Millionen Richtungen. Selbst der schnellste Supercomputer w&#252;rde sehr viel Zeit
+ben&#246;tigen, jeden einzelnen Weg nacheinander zu berechnen. Quantencomputer k&#246;nnen 
+komplexe Berechnungen mit Quanteneffekten z. B. durch viele L&#246;sungswege in 
+&#220;berlagerung durchf&#252;hren.  
+B. L&#246;sung 
+Deutschland ben&#246;tigt einen langfristigen Schutz von Daten zum Beispiel durch 
+Quantenkryptographie zum Austausch von Schl&#252;sseln oder durch sogenannte 
+Post-Quanten-Kryptographie, damit die Sicherheit gew&#228;hrleistet ist, selbst wenn 
+der Angreifer &#252;ber einen Quantencomputer verf&#252;gt. Es m&#252;ssen die richtigen
+Weichenstellungen vorgenommen werden, um die Entwicklung und Anwendung von 
+Verschl&#252;sselungstechnologien zu intensivieren und damit Deutschland nicht nur 
+zum Marktf&#252;hrer, sondern auch zum technologischen Vorreiter, insbesondere im 
+Bereich Sicherheit und Verschl&#252;sselung, zu machen. 
+Ablehnung des Antrags mit den Stimmen der Fraktionen der CDU/CSU und 
+SPD gegen die Stimmen der Fraktion der FDP bei Stimmenthaltung der 
+Fraktionen AfD, DIE LINKE. und B&#220;NDNIS 90/DIE GR&#220;NEN.
+C. Alternativen 
+Annahme des Antrags auf Drucksache 19/4845. 
+D. Kosten 
+Wurden nicht er&#246;rtert.
+Beschlussempfehlung 
+Der Bundestag wolle beschlie&#223;en, 
+den Antrag auf Drucksache 19/4845 abzulehnen. 
+Berlin, den 20. Februar 2019 
+Der Ausschuss f&#252;r Bildung, Forschung und Technikfolgenabsch&#228;tzung 
+Dr. Ernst Dieter Rossmann 
+Vorsitzender 
+ 
+ 
+ 
+ 
+Dr. Wolfgang Stefinger 
+Berichterstatter 
+Dr. Manja Sch&#252;le 
+Berichterstatterin 
+Dr. G&#246;tz Fr&#246;mming 
+Berichterstatter 
+Mario Brandenburg (S&#252;dpfalz) 
+Berichterstatter 
+Dr. Petra Sitte 
+Berichterstatterin 
+Dr. Anna Christmann 
+Berichterstatterin
+Bericht der Abgeordneten Dr. Wolfgang Stefinger, Dr. Manja Sch&#252;le, Dr. G&#246;tz
+Fr&#246;mming, Mario Brandenburg (S&#252;dpfalz), Dr. Petra Sitte und Dr. Anna Christmann 
+I. &#220;berweisung 
+Der Deutsche Bundestag hat die Vorlage auf Drucksache 19/4845 in seiner 65. Sitzung am 22. November 2018 
+beraten und dem Ausschuss f&#252;r Bildung, Forschung und Technikfolgenabsch&#228;tzung zur federf&#252;hrenden Beratung 
+sowie dem Ausschuss f&#252;r Inneres und Heimat, dem Ausschuss f&#252;r Wirtschaft und Energie und dem Ausschuss 
+Digitale Agenda zur Mitberatung &#252;berwiesen. 
+II. Wesentlicher Inhalt der Vorlage 
+Die Antragssteller sind der Auffassung, dass mit Quantencomputern das n&#228;chste Level im High-Performance-
+Computing erreicht werden k&#246;nne. Optimierungsprobleme (Probleme bei der Optimierung von linearen
+Zielfunktionen) f&#252;hrten bei komplexen Aufgaben zu Verzweigungen mit Millionen Richtungen. Selbst der schnellste
+Supercomputer w&#252;rde sehr viel Zeit ben&#246;tigen, jeden einzelnen Weg nacheinander zu berechnen. Experten gingen 
+davon aus, dass im Jahr 2030 der erste Quantencomputer mit einer Datenverarbeitung von 72 Qubits entwickelt 
+werde. Obwohl das von den genaueren Eigenschaften der Qubit-Hardware abh&#228;nge, sei das die Gr&#246;&#223;e, bei der ein 
+Quantencomputer nicht mehr durch die schnellsten Supercomputer simuliert werden k&#246;nne. Anwendungsfelder 
+seien in der Physik, der Chemie, der Biologie und Medizin zu finden. Es gebe einige Beispiele mit immenser 
+potentieller Bedeutung f&#252;r die Menschheit. 
+Theoretische Arbeiten lie&#223;en erwarten, dass zuk&#252;nftige Quantencomputer die Sicherheit derzeit verwendeter
+Verfahren f&#252;r Schl&#252;sselaustausch, asymmetrische Verschl&#252;sselungen und Signaturen gef&#228;hrdeten. Derzeit sicher
+verschl&#252;sselte Nachrichten k&#246;nnten von Angreifern zwischengespeichert und dann mit zuk&#252;nftigen
+Quantencomputern nachtr&#228;glich entschl&#252;sselt werden. Die Nachricht w&#228;re also nicht dauerhaft geheim. 
+Deutschland ben&#246;tige daher einen langfristigen Schutz von Daten zum Beispiel durch Quantenkryptographie zum 
+Austausch von Schl&#252;sseln oder durch sogenannte Post-Quanten-Kryptographie, damit die Sicherheit
+gew&#228;hrleistet sei, selbst wenn der Angreifer &#252;ber einen Quantencomputer verf&#252;ge. Entwicklung und Anwendung von
+Verschl&#252;sselungstechnologien m&#252;ssten intensiviert werden, damit Deutschland nicht nur Marktf&#252;hrer, sondern auch 
+technologischer Vorreiter, insbesondere im Bereich Sicherheit und Verschl&#252;sselung, werde. 
+Der Deutsche Bundestag solle die Bundesregierung u. a. auffordern, 
+&#8211; zusammen mit nationalen Unternehmen die Entwicklung einer anerkannten Software zu unterst&#252;tzen, die die 
+Datensicherheit in Form einer auch gegen Angriffe mit Quantencomputern sicheren Verschl&#252;sselung
+gew&#228;hrleistet und das Qualit&#228;tssiegel &#8222;Made in Germany&#8220; trage; 
+&#8211; die neu gegr&#252;ndete Cyber-Agentur in Zusammenarbeit mit den drei Kompetenzzentren zur IT-
+Sicherheitsforschung &#8211; CISPA, CRISP und KASTEL &#8211; damit zu beauftragen, Regeln und Standards zu setzen, die die 
+&#246;ffentliche Infrastruktur sowie Unternehmen umsetzen sollten, so dass die Sicherheit der
+Datenkommunikation auch bei Existenz von Quantencomputern sichergestellt sei; 
+&#8211; die eigene IT-Infrastruktur quantencomputerresistent zu machen; 
+&#8211; einen Evaluationsbericht des Rahmenprogrammes &#8222;Quantentechnologien &#8211; von den Grundlagen zum Markt&#8220; 
+im Jahr 2023 vorzulegen; 
+&#8211; bei den L&#228;ndern und Hochschulen anzuregen beziehungsweise daf&#252;r zu werben, die vorhandenen
+Studieng&#228;nge im Bereich der Datenwissenschaften an der Entwicklung von Quantencomputern anzupassen; 
+&#8211; optimale Bedingungen f&#252;r Absolventinnen und Absolventen im Bereich Datenwissenschaften und
+Quantenphysik zu schaffen;
+&#8211; eine Konzentrierung der Expertise z. B. durch sogenannte Wissenschaftsleistungszentren zu erleichtern; 
+&#8211; den Transfer von der Grundlagenforschung in die Anwendung durch gezieltere Projekte unter Einbeziehung 
+kleinerer und mittlerer Unternehmen (KMU) zu optimieren; 
+&#8211; den Zugang zur Patentanmeldung f&#252;r Grundlagenforscher und -forscherinnen sowie kleinere und mittlere 
+Unternehmen (KMU) durch reduzierte, digitalisierte Prozesse zu erleichtern und zu f&#246;rdern; 
+&#8211; die europ&#228;ische Forschungsstruktur im Bereich Quantencomputing und Quantenkryptographie weiter zu
+verbessern; 
+&#8211; gemeinsam mit den internationalen Playern Open-Access-Areas aufzubauen; 
+&#8211; sogenannte &#8222;Regulatory Sandboxes&#8220; f&#252;r Forscherinnen und Forscher einzurichten, damit diese kontrolliert, 
+aber ohne Regulierung, ihre Ergebnisse testen k&#246;nnen; 
+&#8211; Projekte und KMU zu f&#246;rdern, die sich mit der Entwicklung quantencomputerresistenter
+Verschl&#252;sselungstechnologien besch&#228;ftigen; 
+&#8211; neue nationale und europ&#228;ische Initiativen zur F&#246;rderung von Quantentechnologien ins Leben zu rufen und 
+bestehende weiter zu f&#246;rdern. 
+III. Stellungnahmen der mitberatenden Aussch&#252;sse 
+Der Ausschuss f&#252;r Inneres und Heimat und der Ausschuss Digitale Agenda haben in ihren Sitzungen am 
+20. Februar 2019 mit den Stimmen der Fraktionen der CDU/CSU und SPD gegen die Stimmen der Fraktionen 
+der AfD und FDP bei Stimmenthaltung der Fraktionen DIE LINKE. und B&#220;NDNIS 90/DIE GR&#220;NEN die
+Ablehnung des Antrags auf Drucksache 19/4845 empfohlen. 
+Der Ausschuss f&#252;r Wirtschaft und Energie hat in seiner Sitzung am 20. Februar 2019 mit den Stimmen der 
+Fraktionen der CDU/CSU und SPD gegen die Stimmen der Fraktion der FDP bei Stimmenthaltung der Fraktionen 
+AfD, DIE LINKE. und B&#220;NDNIS 90/DIE GR&#220;NEN die Ablehnung des Antrags auf Drucksache 19/4845
+empfohlen. 
+IV. Beratungsverlauf und Beratungsergebnisse im federf&#252;hrenden Ausschuss 
+Der Ausschuss f&#252;r Bildung, Forschung und Technikfolgenabsch&#228;tzung hat den Antrag in seiner 20. Sitzung 
+am 20. Februar 2019 beraten. In die Beratung mit einbezogen war die Unterrichtung durch die Bundesregierung 
+&#8222;Rahmenprogramm Quantentechnologien &#8211; von den Grundlagen zum Markt&#8220; auf Drucksache 19/4645. 
+Der Ausschuss empfiehlt: 
+Ablehnung des Antrags auf Drucksache 19/4845 mit den Stimmen der Fraktionen der CDU/CSU und SPD gegen 
+die Stimmen der Fraktion der FDP bei Stimmenthaltung der Fraktionen AfD, DIE LINKE. und B&#220;NDNIS 90/DIE 
+GR&#220;NEN. 
+Die Bundesregierung berichtet, dass Quantentechnologien als internationale Schl&#252;sseltechnologien auf dem 
+Vormarsch seien. Man werde bei Quantencomputern im Bereich der Messtechnik, der Cybersicherheit und auch 
+der Rechnerleistungen Anwendungen mit gro&#223;er Tragweite sehen. Deutschland stehe im globalen Wettbewerb 
+um die Fr&#252;chte der Quantenforschung &#8211; &#228;hnlich wie beim Thema KI &#8211; zwischen internationalen Gro&#223;unternehmen 
+auf der einen Seite und den Anbietern aus China auf der anderen Seite. Man habe in Deutschland eine
+leistungsf&#228;hige Wissenschaft und eine f&#252;r diese Thematik geeignet aufgestellte Industrie. Insgesamt seien die
+Voraussetzungen in Deutschland sehr gut, diese zuk&#252;nftige Schl&#252;sseltechnologie f&#252;r die Wettbewerbsf&#228;higkeit zu nutzen.  
+Das alleine reiche jedoch noch nicht. Um an dem Potential und den Entwicklungen der Quantentechnologie Anteil 
+zu haben, m&#252;sse man sie aus den Laboren in die Anwendung und auch in die M&#228;rkte bringen. Deshalb sei das 
+Rahmenprogramm &#8222;Quantentechnologie&#8220; unter Beteiligung des Bundesministeriums der Verteidigung (BMVg), 
+des Bundesministeriums des Innern, f&#252;r Bau und Heimat (BMI), des BMWi und des BMBF erstellt worden. Das
+Programm umfasse ein B&#252;ndel von ehrgeizigen Zielen und Ma&#223;nahmen f&#252;r die laufende Legislaturperiode, um 
+die Position Deutschlands in der Quantentechnologie auszubauen.  
+Man werde die Forschungslandschaft zum Thema Quantentechnologie unter anderem durch Verbundprojekte 
+ausbauen. Durch die F&#246;rderung von KMU und Start-ups m&#246;chte man Forschungsnetzwerke f&#252;r neue
+Anwendungen schaffen. Die Bundesregierung wolle Leuchtturmprojekte f&#252;r die industrielle Wettbewerbsf&#228;higkeit etablieren 
+und Sicherheit und technologische Souver&#228;nit&#228;t gew&#228;hrleisten. Des Weiteren m&#246;chte man die internationale
+Zusammenarbeit, vor allem auch mit dem EU-Flagship-Projekt, gestalten. Durch eine gesellschaftliche Diskussion 
+und Nachwuchsf&#246;rderung k&#246;nne man auch die Menschen bei dem Thema &#8222;Quantentechnologie&#8220; mitnehmen und 
+ein Bewusstsein f&#252;r damit zusammenh&#228;ngende Effekte schaffen. So sollte man im Vorfeld von Quantencomputing 
+unterstellen, dass eine heute sichere Kommunikation gespeichert und m&#246;glicherweise in einigen Jahren durch 
+Entschl&#252;sselung zur offenen Kommunikation w&#252;rde. Das Rahmenprogramm Quantentechnologien habe eine 
+Laufzeit von 2018 bis 2022 und die Bundesregierung stelle daf&#252;r Mittel in H&#246;he von 650 Millionen Euro bereit. 
+Der Anteil im Etat des BMBF betrage rund 620 Millionen Euro. Davon entfielen 85 Prozent auf die institutionelle 
+F&#246;rderung und etwa 110 Millionen Euro auf Projektf&#246;rderung. F&#252;r das Jahr 2018 seien 12,5 Millionen Euro
+vorgesehen, die w&#228;hrend der Laufzeit des Programms auf 20 bis 25 Millionen Euro pro Jahr ansteigen sollten. Das 
+BMWi plane etwa 6,5 Millionen Euro pro Jahr ein. Die St&#228;rkung der Quantentechnologien als
+Schl&#252;sseltechnologie sei Gegenstand des Koalitionsvertrages. Man versuche mit dem Programm, diesen Auftrag umzusetzen und 
+damit Deutschland vern&#252;nftig in einem sehr wettbewerbsorientierten Umfeld aufzustellen. 
+F&#252;r die digitale Gesellschaft seien Technologien zur Daten&#252;bertragung, die abh&#246;r- und manipulationssicher seien, 
+von grundlegender Bedeutung. Deutschland habe aufgrund bestehender und geplanter Forschung eine gute
+Ausgangsbasis f&#252;r die internationale Positionierung mit Quantentechnologien und Kryptoverfahren am Markt. Seit 
+2015 f&#246;rdere das BMBF die Quantenkommunikation und die Post-Quanten-Kryptographie in dem
+Forschungsrahmenprogramm der Bundesregierung &#8222;Selbstbestimmt und sicher in der digitalen Welt&#8220;. F&#252;r die 2018
+ver&#246;ffentlichte F&#246;rderrichtlinie &#8222;Post-Quanten-Kryptographie&#8220; sei ein F&#246;rdervolumen von rund 17 Millionen Euro
+vorgesehen. Erprobtes F&#246;rderinstrument sei die Verbundforschung, in der die Zusammenarbeit von Forschern mit 
+Unternehmen der gewerblichen Wirtschaft gef&#246;rdert werde. Das BMBF f&#252;hre dazu &#8222;Partnering-Events&#8220; durch. 
+Zudem seien Industrie- und Anwendungsforen des BMBF f&#252;r Erstkontakte zwischen der Forschung und
+interessierten Unternehmen im Softwarebereich geplant. In die Verbundprojekte seien durchg&#228;ngig Unternehmen
+eingebunden, die den Transfer von der Forschung in die Anwendung sicherstellten. KMU seien dabei
+Innovationsmotoren. Dar&#252;ber hinaus st&#228;rke die F&#246;rderma&#223;nahme &#8222;KMU innovativ&#8220; junge KMU. Sie umfasse den Bereich 
+der IT-Sicherheit inklusive der Quantenkommunikation und sei 2018 f&#252;r die Quantentechnologien ge&#246;ffnet
+worden. 
+Im Rahmen der BMBF F&#246;rderma&#223;nahmen &#8222;StartUpSecure&#8220; w&#252;rden Gr&#252;ndungsvorhaben zu IT-Sicherheit und 
+Quantenkommunikation gef&#246;rdert. Eine dezidierte F&#246;rderma&#223;nahme f&#252;r Start-ups der Quantentechnologie stehe 
+kurz vor der Ver&#246;ffentlichung. Die drei Kompetenzzentren f&#252;r IT-Sicherheit des BMBF bereiteten internationale 
+Standards vor. Das t&#228;ten ebenso weitere Forschungseinrichtungen, wie zum Beispiel das Fraunhofer-Institut f&#252;r 
+Angewandte und Integrierte Sicherheit (AISEC). Sie seien in der Fachgemeinschaft international und national 
+hervorragend vernetzt. 2018 sei durch CRISP ein Post-Quanten-Kryptographieverfahren f&#252;r digitale Signaturen 
+standardisiert worden. 
+Das BMBF habe im Fr&#252;hjahr 2018 gemeinsam mit der deutschen Quantencommunity das &#8222;Quantum-Future-
+Programm&#8220; gestartet. Ziel sei es, Nachwuchs f&#252;r die Quantentechnologien zu gewinnen und Netzwerke sowie
+Karrierechancen zu vermitteln. Seit 2018 w&#252;rden Nachwuchsgruppen der Quantentechnologien gef&#246;rdert, um
+exzellenten Nachwuchs in Wissenschaft und Wirtschaft in Deutschland zu etablieren. Die Bundesregierung habe von 
+Beginn an die Einrichtung des &#8222;Flagship on Quantum Technologies&#8220; der &#8222;Future and Emerging Technologies&#8220; 
+(FET)-Initiative der Europ&#228;ischen Kommission intensiv begleitet und mitgestaltet. Das BMBF setze sich f&#252;r die 
+Fortf&#252;hrung des Flagships im EU-Rahmenprogramm f&#252;r Forschung und Innovation &#8222;Horizon Europe&#8220; ein. In der 
+Ramp-up-Phase (Anlaufphase) seien deutsche Partner stark vertreten. Deutschland sei dar&#252;ber hinaus der gr&#246;&#223;te 
+Konsortialpartner im EU ERA-NET QuantERA.  
+Die Fraktion der FDP begr&#252;&#223;t, dass es das Rahmenprogramm gebe. Die FDP-Fraktion sei bei dem Programm &#8211; 
+im Gegensatz zur KI-Strategie - durchaus positiv gestimmt. Quantentechnologien k&#246;nnten f&#252;r Deutschland ein 
+Zukunftsthema werden. Man sei dort in der Tat gut in der Breite aufgestellt.
+In dem Rahmenprogramm gehe es um vier verschiedene Bereiche. Bez&#252;glich der &#8222;Quantensensorik&#8220; und
+&#8222;Meteorologie&#8220; sei man zuversichtlich, dass es mit dem Programm und auch mit den Kr&#228;ften des Marktes in den
+Industriepartnerschaften vorw&#228;rts gehe. &#196;hnlich positiv sehe es bei der &#8222;Quantenkommunikation&#8220; aus, auch wenn 
+&#214;sterreich Deutschland hier mit Sicherheit ein bisschen voraus sei. Nach Kenntnis der FDP-Fraktion plane man 
+aber zumindest konkrete Projekte und Kommunikationsinfrastrukturen. Insofern sei man dort sowie bei den
+Bildgebungsverfahren auf einem guten Weg. 
+Das Sorgenkind sei ein bisschen der &#8222;Quantencomputer&#8220;. Man befinde sich mit den USA, China oder auch
+wirtschaftlich orientierten Playern auf einem sehr harten Markt. &#220;berdies sei noch nicht ganz klar, welche
+Technologie sich in diesem Zusammenhang durchsetze. Manche Start-ups setzten noch auf Supraleiter, h&#228;tten dann ein 
+Problem mit der Temperatur, andere auf den Ionengatter. Es sei alles noch sehr verstreut und deswegen gebe es 
+Schwierigkeiten, an Investitionen zu kommen. 
+Die Bundesregierung habe erw&#228;hnt, dass &#8222;eine spezielle Quantenf&#246;rderung bereit stehe&#8220;. Insofern m&#246;chte die 
+Fraktion der FDP wissen, wie dieses F&#246;rderprogramm in etwa aussehe. Auch seien die F&#246;rderinstrumente
+angesprochen worden. Oft handle es sich um eine klassische Industrief&#246;rderung. Demnach gehe es thematisch um die 
+Umsatzzahlen der letzten drei Jahre, eine Gewinnerwartung und sogar betriebswirtschaftliche Messungen. Es sei 
+nat&#252;rlich sehr schwierig, diese Programme zu machen, wenn man einen Quantencomputer bauen wolle. Deswegen 
+liege beim BMBF eine besondere Verantwortung, weil so etwas wahrscheinlich nicht aus dem Hause des BMWi 
+kommen werde. Die Fraktion erkundigt sich, wie das BMBF an der Stelle verfahren und den Start-ups
+entsprechend unter den Arm greifen m&#246;chte.  
+Die FDP-Fraktion begr&#252;&#223;t, dass Leuchtturmprojekte geschaffen werden sollten und fragt, welche M&#246;glichkeiten 
+innerhalb der Bundesministerien best&#252;nden, bereits konkrete quantenresistente Kryptographie einzusetzen. Es
+interessiere die Fraktion, ob sich damit das Bundesamt f&#252;r Sicherheit in der Informationstechnik (BSI) oder die 
+Bundesregierung selbst besch&#228;ftige, um mit gutem Beispiel voranzugehen. Im Moment sei der Markt eher
+forschungs- und regierungsnah. Daher will die FDP-Fraktion wissen, welche konkreten Leuchtturmprojekte die
+Bundesregierung schon vorweisen k&#246;nne. 
+Ferner wirft die Fraktion der FDP die Frage auf, wie die Regierung zu sogenannten &#8222;Quanteninkubatoren&#8220; stehe 
+und ob sie sich in diesem Zusammenhang schon einmal beteiligt habe. Das sei ein sehr passgenaues Instrument, 
+um hier voranzukommen. 
+Abschlie&#223;end geht die FDP-Fraktion auf ihren Antrag ein. Deutschland habe weltweit in Bezug auf Kryptographie 
+und Sicherheit einen sehr guten Ruf. Daher bittet sie die Bundesregierung, in diesem Bereich deutlicher nach 
+au&#223;en zu gehen. Die FDP-Fraktion habe in einer Einzelanfrage Interesse bekundet, ob es ein Projekt oder eine 
+Ausschreibung f&#252;r den ersten Rechner mit 50 Qubit geben k&#246;nnte. Das sei in der Szene ein lang erwarteter
+Ma&#223;stab. Der Markt sei nicht so schwierig und auch nicht so umk&#228;mpft wie der von KI. Die Fraktion der FDP betont, 
+dass Deutschland in diesem Bereich eine sehr hohe Kompetenz habe. Sie wirbt daf&#252;r, ihrem Antrag zuzustimmen 
+und so die Sichtbarkeit zu erh&#246;hen. 
+Die Fraktion der CDU/CSU bekr&#228;ftigt die Ausf&#252;hrungen der Bundesregierung, wonach Quantentechnologien 
+f&#252;r unterschiedliche Bereiche wichtig seien. Die Unionsfraktion begr&#252;&#223;e das Programm au&#223;erordentlich, da sie 
+es als sehr wichtig erachte, insbesondere auch mit Blick auf Schl&#252;sseltechnologien sowie auf die
+unterschiedlichsten Branchen, bei denen Quantentechnologie eine Rolle spiele, zum Beispiel bei der Medizintechnik, dem 
+Maschinenanlagenbau, der Elektrotechnik, der Mobilit&#228;t, dem Verkehr, der Sicherheit und der Verteidigung. Des 
+Weiteren spiele das Thema auch eine Rolle bei der KI, bei Big Data und bei der Mikroelektronik. 
+Der FDP-Antrag bringe nicht viel Neues. Die FDP-Fraktion habe selber berichtet, dass Deutschland bereits einen 
+guten Ruf, insbesondere beim Thema &#8222;Verschl&#252;sselung&#8220;, genie&#223;e. Das liege nat&#252;rlich auch daran, dass man seit 
+vielen Jahren in diesem Bereich t&#228;tig sei und sehr starke F&#246;rderprogramme in den Bereichen
+Quantenkryptographie und Post-Quanten-Kryptographie habe. Das neue Rahmenprogramm der Bundesregierung solle dazu
+beitragen, dass der Bereich weiterhin gest&#228;rkt werde. &#220;berdies gebe es F&#246;rderm&#246;glichkeiten f&#252;r die
+Quantentechnologie, wie zum Beispiel die F&#246;rderinitiative &#8222;KMU-innovativ&#8220;, bei der es seit 2018 das Programm f&#252;r Photonik und 
+Quantentechnologien gebe. Au&#223;erdem habe man eine Reihe von gut aufgestellten Forschungs- und
+Kompetenzzentren in Saarbr&#252;cken, Darmstadt und Karlsruhe. Die Fraktion der CDU/CSU weist zudem auf den
+Spitzenstandort M&#252;nchen hin. Dort habe die Universit&#228;t der Bundeswehr ein eigenes Institut und sei in einen weltweiten
+Verbund eingebunden. Daneben solle es zum Zweck der staatlichen Sicherheitsvorsorge im Cyberraum die Agentur
+f&#252;r Cybersicherheit vom BMVg und BMI geben. Folglich sei schon einiges angesto&#223;en worden. Deutschland 
+schlafe nicht bei der Quantenkryptographie, weshalb die Unionsfraktion den FDP-Antrag ablehnen werde. Die 
+Fraktion der CDU/CSU begr&#252;&#223;t, dass das Programm der Bundesregierung jetzt vorgelegt worden sei, welches die 
+CDU/CSU-Fraktion ausdr&#252;cklich unterst&#252;tze. 
+Die Fraktion der AfD bezieht sich zun&#228;chst auf die Bemerkung der Bundesregierung, wonach &#8222;Deutschland im 
+globalen Wettbewerb stehe&#8220;. Die AfD-Fraktion unterst&#252;tze diese Aussage. Es sei v&#246;llig in Ordnung, nationale 
+Interessen zu betonen, wenn deutsches Steuergeld eingesetzt werde, zumal die EU kein eigener Staat sei.
+Gleichwohl sei bei diesem Thema eine Kooperation nicht nur auf europ&#228;ischer Ebene, sondern auch auf internationaler 
+Ebene notwendig. Grund hierf&#252;r sei, dass die USA und China im Bereich der Quantentechnologie &#8211; &#228;hnlich wie 
+bei der KI &#8211; an der Spitze st&#252;nden. Zudem sei interessant, dass Gro&#223;britannien bei den Unternehmen, die
+einstiegen, ziemlich weit vorne stehe. Es sei ein Desiderat f&#252;r Deutschland, die Industrie dazu zu bewegen, in diesen 
+Bereich mit einzusteigen und ihr Mut zu machen, die noch vorherrschende Zur&#252;ckhaltung zu &#252;berwinden, damit 
+der Staat hier nicht zu sehr im Vordergrund stehe. Der Staat m&#252;sse als &#8222;Inkubator&#8220; fungieren, d&#252;rfe aber nicht das 
+Engagement der Wirtschaft dauerhaft ersetzen wollen. 
+Die Fraktion der AfD stimmt der Denkrichtung im Antrag der FDP zu, dass die neue Technik M&#246;glichkeiten 
+er&#246;ffne, da man z. B. im Bereich der Kryptographie Netzwerke durchbrechen k&#246;nne. Bei genauer Betrachtung 
+des FDP-Antrags frage sich die AfD-Fraktion aber, ob die Bundesregierung mit den zahlreichen Forderungen 
+nicht ein bisschen &#252;berfordert w&#252;rde. Die AfD-Fraktion bezieht sich exemplarisch auf folgenden Punkt im Antrag: 
+&#8222;Der Deutsche Bundestag fordert die Bundesregierung auf, die eigene IT-Infrastruktur quantencomputerresistent 
+zu machen und so mit gutem Beispiel voranzugehen&#8220;. Die Fraktion der AfD weist darauf hin, dass man erst vor 
+wenigen Monaten funktionierendes WLAN in den ihr zugewiesen Geb&#228;uden des Bundestages bekommen habe. 
+Sie fragt die FDP-Fraktion, ob diese der Bundesregierung wirklich zutraue, hier ein quantencomputerresistentes 
+Netzwerk aufzubauen. 
+Unter einem weiteren Punkt im Antrag der FDP solle der Bundestag die Bundesregierung auffordern, &#8222;gemeinsam 
+mit den internationalen Playern Open Access Areas aufzubauen, die von deutschen sowie europ&#228;ischen
+Forscherinnen und Forschern benutzt werden k&#246;nnen und die den Zugang zu anwendungsorientierten Bereichen
+erleichtern.&#8220; Das klinge alles sehr sch&#246;n, weshalb man tendenziell dem FDP-Antrag zustimmen w&#252;rde. Die AfD-
+Fraktion frage sich aber, wie die Bundesregierung dies konkret machen solle. Oft tauchten Formulierungen auf wie 
+&#8222;sie sollen unterst&#252;tzen&#8220;, &#8222;sie sollen f&#246;rdern&#8220;, &#8222;sie sollen gew&#228;hrleisten und herstellen&#8220;. Personell sei die
+Regierung zwar relativ gut ausgestattet, dennoch wisse die AfD-Fraktion nicht, ob diese Aufgaben die M&#246;glichkeiten 
+&#252;bersteigen w&#252;rden. Sie bittet die Bundesregierung, dazu etwas zu sagen. 
+Die Fraktion der SPD stellt fest, dass die FDP-Fraktion in ihrem Antrag auf einen wichtigen Aspekt bei der 
+Entwicklung von Quantentechnologie aufmerksam gemacht habe. Wenn Computer effizienter w&#252;rden, dann
+lohnten sich wieder Methoden zum Entschl&#252;sseln von Passw&#246;rtern, die vorher zu lange gedauert h&#228;tten. Mit der
+Quantentechnologie k&#228;men wieder Methoden wie die &#8222;Brute-Force-Methode&#8220; zum Einsatz, die alle in Frage
+kommenden Passw&#246;rter ausprobiere, da Quantencomputer den Prozess des Ausprobierens verk&#252;rzten. Deshalb stimme die 
+Fraktion der SPD der Forderung zu, dass man Kryptographieverfahren f&#252;r Quantencomputer entwickeln m&#252;sse. 
+Die Fraktion begr&#252;&#223;t, dass das Rahmenprogramm &#8222;Quantentechnologie&#8220; sich ausf&#252;hrlich mit dem Thema
+&#8222;Sicherheit von Kommunikation und Daten&#8220; &#8211; Stichwort Post-Quanten-Kryptographie &#8211; auseinander setze. Sie merkt 
+hierzu an, dass das Programm unter Familienministerin Franziska Giffey wahrscheinlich &#8222;Sicheres
+Computerprogramm&#8220; hei&#223;en w&#252;rde und die Menschen &#8211; f&#252;r die man Politik mache &#8211; es dann auch verstehen w&#252;rden.  
+Entsprechende Pilotprojekte seien im diskutierten Rahmenprogramm aufgez&#228;hlt worden. Die Bundesregierung 
+habe darauf hingewiesen, dass entsprechende Haushaltsmittel im BMBF aufgef&#252;hrt und im Vergleich zum
+Vorjahr erh&#246;ht worden seien.  
+Der sorgsame Umgang mit Daten erfordere grunds&#228;tzlich gute Verschl&#252;sselungsmethoden der Informationen. 
+Man wolle neue und sicherere Verschl&#252;sselungsalgorithmen erm&#246;glichen und st&#228;rker in die Anwendung bringen. 
+Daf&#252;r sei das Rahmenprogramm gut geeignet. Der Antrag der FDP sei zum Teil &#252;berholt, weil Regierungshandeln 
+dort bereits einsetze. Daher k&#246;nne die SPD-Fraktion dem Antrag nicht zustimmen. 
+Die Fraktion DIE LINKE. stellt dar, dass das Rahmenprogramm auf zwei Papiere zur&#252;ckgehe, ein Papier der 
+vier gro&#223;en au&#223;eruniversit&#228;ren Wissenschaftsorganisationen und ein weiteres Papier vom Verband der deutschen 
+Industrie. Die Fraktion kritisiert, dass hierbei partizipative Elemente fehlten und sich die zivilgesellschaftliche
+Seite nicht habe einbringen k&#246;nnen, wenngleich dort auch eine Diskussion stattfinde und entsprechende
+Organisationen selbst kommunikationsbereit w&#228;ren. Sie bem&#228;ngelt, dass in dem Rahmenprogramm insofern nur
+Demonstrations- und Informationsprojekte vorgesehen seien, verkn&#252;pft mit der Ausbildung von Fachkr&#228;ften. 
+Dar&#252;ber hinaus sei problematisch, dass der Zugang zu diesen Errungenschaften auf die private Wirtschaft verengt 
+werde. Man m&#252;sse in solch einem Programm mindestens auf Augenh&#246;he platzieren, was an M&#246;glichkeiten der 
+Nutzung f&#252;r die Gesellschaft, die Verwaltung und dergleichen entstehen k&#246;nne. Des Weiteren m&#252;sse hinterfragt 
+werden, was das f&#252;r die Datennutzung in hochsensiblen Bereichen &#8211; erst recht bei kritischen Infrastrukturen &#8211; 
+bedeute. 
+Die Fraktion DIE LINKE. weist darauf hin, dass es eine l&#228;ngere &#220;bergangsphase geben werde. Man wisse nicht 
+genau, wann z. B. mit 50 Qubit zu rechnen sei. Zudem w&#252;rden die Rechner nicht sofort in der Breite eingesetzt. 
+Daher brauche man entsprechende Forschung an den Schnittstellen, damit auch die klassischen Strukturen weiter 
+nutzbar blieben. Das sollte ausdr&#252;cklich in das Rahmenprogramm aufgenommen werden.  
+&#220;berdies beanstandet die Fraktion DIE LINKE., dass das Rahmenprogramm milit&#228;rische und Dual Use-Ans&#228;tze 
+einschlie&#223;e. Das sei insbesondere mit Blick auf die Ressortforschungseinrichtungen ein Problem. Es bed&#252;rfe einer 
+gesellschaftlichen Diskussion und auch einer entsprechenden Diskussion im Deutschen Bundestag, wenn die 
+Rede von &#8222;Verbrechensbek&#228;mpfung oder milit&#228;rischem Einsatz&#8220; sei. 
+Es sei selbstverst&#228;ndlich, dass kryptographische Verfahren f&#252;r die neue technologische Anwendung erforderlich 
+seien. Insofern habe die Fraktion DIE LINKE. auch kein Problem mit dem Antrag der FDP. Allerdings sei bei der 
+einseitigen Bef&#252;rwortung einer Cyberagentur Vorsicht geboten. Diese solle zwischen Halle und Leipzig
+angesiedelt sein, aber kein Mensch wisse, was sie konkret zu tun und zu lassen habe. Man sollte stattdessen an die guten 
+Erfahrungen mit dem BSI ankn&#252;pfen. Zudem sto&#223;e sich die Fraktion an der schwammigen Formulierung der 
+&#8222;Regulatory Sandboxes&#8220;. Auch diesbez&#252;glich bestehe Kl&#228;rungsbedarf. Insofern enthalte sich die Fraktion DIE 
+LINKE. bei dem Antrag. 
+Die Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN begr&#252;&#223;t, dass die Quantentechnologie von europ&#228;ischer Seite
+aufgezogen werde und es das Flagship-Programm gebe. Ihres Erachtens sei es vielversprechend, dass die deutsche 
+Strategie eine unterst&#252;tzende Strategie des europ&#228;ischen Aufschlags sei. Die EU sei in diesem Zusammenhang im 
+internationalen Vergleich relativ fr&#252;h aktiv gewesen. Ihres Wissens habe die USA zum Beispiel erst nach der EU 
+ein eigenes Programm aufgesetzt. Diesen gut funktionierenden Ansatz k&#246;nnte man auch f&#252;r die KI-Strategie
+verfolgen.  
+Daran schlie&#223;t die Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN die Frage an, in welcher Weise die deutsche Strategie 
+verst&#228;rkt Punkte der EU-Strategie sowie auch F&#246;rderl&#252;cken von europ&#228;ischer Ebene aufgreife. Die Fraktion bittet 
+die Bundesregierung, etwas zu dieser Verzahnung der beiden F&#246;rderprogramme zu sagen. 
+In der Analyse stehe, dass es gute Standorte in Deutschland gebe, aber die Vernetzung und die Zusammenarbeit 
+noch nicht gut funktionierten. Die Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN m&#246;chte wissen, ob die Strategie diese 
+Kritik aufgreife, es schon Ma&#223;nahmen gebe und ein nationales Netzwerk geplant sei, das als solches dann auch 
+sichtbar sei. Die Fraktion erkundigt sich, ob es aus Sicht der Bundesregierung Bereiche der Quantentechnologie 
+gebe, wo man in Deutschland besonders gut sei und sich in der EU auch nochmal st&#228;rker einbringen k&#246;nnte. 
+F&#252;r den Sicherheitsbereich spielten die drei Sicherheitszentren, die IT-Security-Zentren, eine besondere Rolle, 
+um diese Strategie umzusetzen. Die Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN fragt, ob alle drei Zentren eine
+verl&#228;ssliche und langfristige Finanzierung h&#228;tten, da diese insbesondere f&#252;r das Kompetenzzentrum f&#252;r angewandte 
+Sicherheitstechnologie (KASTEL) noch nicht final gekl&#228;rt worden sei. Deswegen interessiere sie der aktuelle 
+Stand. 
+In der Strategie werde an verschiedenen Stellen hinsichtlich der Anwendungen, die aus der Quantentechnologie 
+entst&#252;nden, vor allem der KMU-Bereich erw&#228;hnt. Viele mittelst&#228;ndische Unternehmen k&#246;nnten damit vielleicht 
+nichts anfangen, weil sie nicht w&#252;ssten, was sie mit Quantentechnologie machen sollten. Deswegen will die
+Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN wissen, welche Programme im Bereich der Quantentechnologie explizit auf 
+KMU ausgerichtet seien und wie viel Prozent der F&#246;rdersumme ungef&#228;hr auf diesen Bereich entfalle. Neben 
+EXIST und KMU-innovativ solle ein spezielles Programm zu dem Thema aufgesetzt werden. Die Fraktion wirft 
+die Frage auf, von welcher Gr&#246;&#223;enordnung man diesbez&#252;glich spreche.
+Der FDP-Antrag enthalte aus Sicht der Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN viele Aspekte, die nicht verkehrt 
+seien, aber schon in der Strategie der Bundesregierung aufgegriffen w&#252;rden. Dar&#252;ber hinaus sei bei manchen 
+Punkten der &#8222;Made in Germany&#8220;-Fokus sehr stark, sodass die Fraktion dem Antrag nicht zustimmen werde. 
+Die Bundesregierung geht zun&#228;chst auf die Fragen der FDP-Fraktion ein. Die Bundesregierung schlie&#223;t sich der 
+Meinung an, dass man im Bereich der Sensorik und der Quantenkommunikation sehr gut unterwegs sei. Sie 
+stimmt ihm zu, dass beim Quantencomputing vieles in den verschiedenen Laboren mit unterschiedlichen
+Technologien laufe. Deshalb sei der Ansatz des BMBF dort ein anderer als bei der Quantenkommunikation und der 
+Sensorik. Man setze auf die Helmholtz-Gemeinschaft, die ein eigenes Umsetzungskonzept und eine eigene interne 
+Strategie erarbeite. Gro&#223;forschung sei f&#252;r die apparativen Voraussetzungen absolut geeignet. Es gehe zwar um 
+kleine Strukturen, manchmal brauche man jedoch gro&#223;e Apparate, um kleine Strukturen zu erzeugen. 
+Man habe bei der &#8222;Quantensensorik&#8220; eine gute Ausgangssituation, weil die Wirtschaft und die
+Forschungseinrichtungen aktiv seien. Quantensensorik werde in viele Anwendungsgebiete breit verteilt, teilweise vielleicht
+sogar bis in den Konsumerbereich hinein. In den n&#228;chsten Tagen und Wochen arbeite man zusammen mit dem 
+Fraunhofer-Institut und anderen Partnern an einem Leuchtturm-Projekt zur Quantensensorik f&#252;r etwa 30
+Millionen Euro. Das Fraunhofer-Institut sei bei der Sensorik die dominierende Forschungseinrichtung. Man setze auf 
+das Fraunhofer-Institut, da dieses nicht nur die Technologieentwicklung mache, sondern in s&#228;mtlichen
+Anwendungsfeldern vertreten sei. Baden-W&#252;rttemberg, welches eine sehr starke Industrielandschaft habe, unterst&#252;tze 
+dieses Projekt mit zus&#228;tzlichen Mitteln. Ansonsten gebe es die &#252;blichen L&#228;nderbeitr&#228;ge. 
+Das Zweite sei ein Demoprojekt. Zusammen mit &#214;sterreich werde man eine Ma&#223;nahme zur
+Quantenkommunikation aufsetzen. Oft lese man in der Zeitung, wie toll die Chinesen in Quantenkommunikation seien. Sie h&#228;tten 
+Satelliten, die ein Signal hochsch&#246;ssen, das wieder herunterkomme. Allerdings sei das, was bei den Satelliten 
+passiere, keine Quantenkommunikation. Es sei kein von A nach B nach C voll verschl&#252;sseltes Signal, sondern es 
+werde am Satelliten aufgemacht und dann wieder runtergeschickt. Ein Quantenrepeater zur &#220;bertragung w&#228;re der 
+sichere Weg. Es sei nicht sinnvoll, dass Daten &#252;ber einen Satelliten liefen und dadurch jemand mitlesen k&#246;nnte. 
+Daf&#252;r brauche man keine Quantenkommunikation. Deshalb sei es auch im nationalen Interesse, das Thema
+Quantenrepeater mit dem Demoprojekt und gegebenenfalls noch anderen europ&#228;ischen Partnern voranzubringen. 
+Zurzeit verfolge man zum Thema &#8222;Quanten&#8220; keinen Wettbewerb nach Qubits, also nach dem Motto &#8222;Wer das 
+Beste und Schnellste k&#246;nne&#8220;. Man warte die Strategie der Helmholtz-Gemeinschaft ab und schaue, welche
+anderen Akteure es gebe. Viele Ideen seien auch von der Europ&#228;ischen Kommission gekommen. Grunds&#228;tzlich halte 
+man solche Wettbewerbe f&#252;r richtig. Folglich m&#246;chte man bei der Agentur f&#252;r Sprunginnovationen Wettbewerbe 
+starten. Dar&#252;ber hinaus werde man auch nochmal mit der Agentur f&#252;r Cybersicherheit reden, die zurzeit nicht auf 
+solche Verfahren setze, und sich mit ihr abstimmen. Man wolle jedoch nicht ausschlie&#223;en, dass noch etwas 
+komme. Zum jetzigen Zeitpunkt halte man das zwar f&#252;r falsch. Bei modernen Technologien k&#246;nne sich die
+Perspektive jedoch innerhalb von einigen Monaten &#228;ndern. Daher werde man sich das Thema in ein bis zwei Jahren 
+noch einmal anschauen. 
+Die CDU/CSU-Fraktion habe ein Stichwort genannt, das auf den ersten Blick eigentlich nicht zu der
+Quantentechnologie passe, welches die Bundesregierung aber sehr unterstreichen w&#252;rde: Das Thema KMU-innovativ und 
+KMU. KMU seien sehr stark in dem Bereich der Sensorik vertreten. Beim Quantencomputing brauche man
+allerdings Firmen, die die Messtechnik und die Manipulation herstellten und verf&#252;gbar machten. Wenn man viele Orte 
+mit Quantencomputing-Laboren habe, werde man bestimmte Techniken auch professionalisieren m&#252;ssen. Beim 
+Betrachten der Entwicklung in der digitalen Welt falle auf, dass einige Firmen nur damit gro&#223; geworden seien, 
+dass sie die entsprechende Technologie bereitgestellt h&#228;tten, um diese zu &#8222;enablen&#8220;. Zeiss habe zum Beispiel den 
+Slogan &#8222;Enabling Nano Technology&#8220;. Letztendlich seien Firmen erforderlich, die Quantencomputing und
+Quantentechnologie &#8222;enablen&#8220;. Neben der KMU-F&#246;rderung k&#246;nnten hier auch Start-ups eine besondere Rolle spielen. 
+Die Bundesregierung erkl&#228;rt, dass die Agentur f&#252;r Cybersicherheit die technologische Souver&#228;nit&#228;t erm&#246;gliche. 
+Es gehe darum, dass &#252;berhaupt Strukturen von Firmen, die am Ende auch Anbieter seien, best&#252;nden. Falls man 
+in der Forschung erfolgreich sei, die Umsetzung aber woanders stattfinde, d&#252;rfe man nicht von dortigen
+Technologien abh&#228;ngig seien. Gerade bei den Technologien komme es darauf an, dass man sie nicht nur beherrschen 
+k&#246;nne, sondern dass man auch Anbieter in Deutschland und Europa habe. Auch darauf setze die Agentur f&#252;r 
+Cybersicherheit.
+Man werde sich intensiv auf zwei Gebieten austauschen: Einmal &#252;ber die Quanten, aber auch &#252;ber die Agentur 
+f&#252;r Sprunginnovationen. Man werde sehen, wie man Synergieeffekte zwischen den Arbeiten dieser beiden
+Agenturen hinbekomme. Gerade weil man einen anderen Ansatz mit der Agentur f&#252;r Sprunginnovationen verfolge, sei 
+man der Meinung, dass man deren Instrumente nutzen k&#246;nne. 
+Die Bundesregierung best&#228;tigt die Aussage der AfD-Fraktion, dass im Bereich der Quantentechnologie sehr viele 
+Unternehmen aus den USA und interessanterweise auch aus Gro&#223;britannien aktiv seien. Dies sei aber keine
+F&#246;rderung der Unternehmen im Sinne einer Start-up-F&#246;rderung. Die Bundesregierung f&#252;hrt aus, dass eine Nachfrage 
+des Staates nach diesen Produkten bestehe, weil man bestimmte Schl&#252;ssel brechen und hineinschauen wolle. 
+Deutschland m&#252;sse sich &#252;berlegen, wie es als Staat damit umgehe und die Technologien einsetze, wo es Grenzen 
+ziehe und wo es auch die Instrumente ben&#246;tige. Es gebe Organisationen auf der Welt, die Daten speichern w&#252;rden, 
+um sie dann mit Quantencomputern zu entschl&#252;sseln. Die St&#228;rke von Gro&#223;britannien sei, dass es dort auch
+staatliche Nachfrage gebe. 
+Die Bundesregierung betont, dass die technische Souver&#228;nit&#228;t eine entscheidende Motivation bei dem
+Gesamtprogramm sei. 
+Sie weist die SPD-Fraktion darauf hin, dass es nicht um Quantenverfahren, sondern um Kryptographieverfahren, 
+die von Quantencomputern nicht brechbar seien, gehe. Man habe schon vor einigen Jahren Programme zur
+Kryptographie aufgesetzt, die von Quantencomputern nicht entschl&#252;sselbar seien. Noch gebe es keine
+Quantencomputer, sodass man diesbez&#252;glich noch etwas Zeit habe. 
+Die Bundesregierung teilt der Fraktion DIE LINKE. mit, dass die B&#252;rgerinnen und B&#252;rger unmittelbar von KI 
+betroffen seien, weil KI schon eingesetzt werde und unmittelbar vor der T&#252;r stehe. Es sei erst dann eine Diskussion 
+von N&#246;ten, wie man &#8211; auch als Staat &#8211; Quantencomputer einsetze, sobald diese existierten. Das KI-Programm 
+thematisiere Anwendungsfelder. Dagegen werde in dem Rahmenprogramm Quantentechnologien kaum von
+Anwendungsfeldern geredet. Mit der Gesellschaft m&#252;sse keine Diskussion gef&#252;hrt werden, ob eine Technologie an 
+sich gut und richtig sei. Allerdings sei bei der Betrachtung der Anwendungsfelder von Quantencomputern eine 
+Diskussion mit der Zivilgesellschaft erforderlich, welches der richtige Zeitpunkt f&#252;r die Einbindung sei. &#220;berdies 
+l&#228;gen Fragen zu den Anwendungsfeldern von Quantencomputing gr&#246;&#223;tenteils in der Wirtschaft. 
+Die Bundesregierung berichtet von einem Gespr&#228;ch mit einer Firma aus Baden-W&#252;rttemberg, die &#8222;ganz einfache&#8220; 
+Probleme habe, die man momentan mit Standardcomputern nicht l&#246;sen k&#246;nne und auch nicht werde l&#246;sen k&#246;nnen. 
+Selbst logistische Probleme, wie das &#8222;Traveling Salesman Problem&#8220;, das sich damit befasse, wie Waren auf dem 
+schnellsten Weg entlang einer Nachfragekette verteilt w&#252;rden, seien mit klassischen Computern nicht in
+vern&#252;nftiger Zeit zu l&#246;sen. Es gebe sehr viele Anwendungen und man m&#252;sse sich mit den staatlichen Anwendungen noch 
+auseinandersetzen. Das sei auch ein Thema, das man mit dem BMVg und BMI besprechen m&#252;sse. Die
+Bundesregierung pflichtet der Fraktion DIE LINKE. bei, dass hier ein Dialog mit der Gesellschaft gef&#252;hrt werden m&#252;sse. 
+Sie schildert der Fraktion B&#220;NDNIS 90/DIEGR&#220;NEN, dass Europa Deutschland mit den Flagships &#252;berrumpelt 
+habe. Manchmal sei der Vorgang auf nationaler Ebene &#228;hnlich und der Bund stelle den L&#228;ndern f&#252;r die Umsetzung 
+seiner Idee Geld zur Verf&#252;gung. Noch sei nicht viel mit den Flagships umgesetzt worden. Mittlerweile sei es 
+Deutschland im Prozess gelungen, die Kommission zu &#252;berholen und man habe ein Programm, das auch EU-
+kompatibel sei. 
+Hinsichtlich der angesprochenen Verzahnung von der EU und Deutschland gebe es zwei Komponenten. Zun&#228;chst 
+habe Deutschland Mittel eingestellt, um bei dem Flagship-Projekt mitzumachen. Hier bestimme die Gemeinschaft 
+zusammen, was die Schwerpunkte seien. Des Weiteren gebe es nationale Vorhaben, die unabh&#228;ngig von Europa 
+beschlossen w&#252;rden. Demnach gebe es zum Beispiel in Baden-W&#252;rttemberg Firmen, die von der Zukunft, also 
+von Quantensensorik, lebten und bez&#252;glich derer man entsprechende Schwerpunkte setze. 
+Bei dem Thema &#8222;Quantencomputing&#8220; k&#246;nne und m&#252;sse man einen europ&#228;ischen Weg gehen. Man sei noch weit 
+von der Anwendung entfernt und es gebe viele gro&#223;e Spieler sowie Industriemittel. Nach den Vereinigten Staaten 
+k&#228;men die gr&#246;&#223;ten Mittel von Firmen, deren Gesch&#228;ftsmodelle auf KI und dem Auswerten von Massendaten 
+basierten. Man werde mit Quantencomputern etwas umsetzen k&#246;nnen, was bisher nicht umsetzbar gewesen sei. 
+Firmen wie Google und Amazon brauchten diese Technologien &#8211; wenn sie dann verf&#252;gbar seien &#8211;, sonst w&#252;rden 
+sie Probleme mit ihrem Gesch&#228;ftsmodell bekommen. Das tangiere auch die Logistik.
+Die Bundesregierung tr&#228;gt vor, dass ein nationales Netzwerk geplant sei. Man baue ein Netzwerk zur Sensorik, 
+zur Kommunikation und zu dem Thema Computing auf. Dabei w&#252;rden zun&#228;chst die Helmholtz-Gemeinschaft 
+sowie weitere Akteure beteiligt.  
+Sie geht auf die Fragen zur Verschl&#252;sselung, der Sicherheit und den damit in Zusammenhang stehenden drei 
+Kompetenzzentren zur IT-Sicherheit ein. CISPA sei ein Teil der Helmholtz-Gemeinschaft und werde dort sowohl 
+jetzt als auch sp&#228;ter im Rahmen der programmorientierten F&#246;rderung finanziell abgesichert. Man habe mit dem 
+Land Hessen eine tragf&#228;hige Vereinbarung bez&#252;glich CRISP geschlossen. Damit sei auch die Finanzierung von 
+Bund und Land gesichert. Bei KASTEL gehe es in die programmorientierte Finanzierung hinein. Damit sei es in 
+Zukunft und jetzt durch Projektmittel abgesichert. Hinter den Kulissen versuche man innerhalb der Helmholtz-
+Gemeinschaft sogenannte Startwerte zu erh&#246;hen, damit man nicht bei null anfange, sondern eine institutionelle 
+Basis habe. Die Mittel seien da, KASTEL solle aber auch ausreichend f&#252;r den Wettbewerb innerhalb der
+Helmholtz-Gemeinschaft finanziert werden. Daher rede man mit der Helmholtz-Gemeinschaft und dem Institut in 
+Karlsruhe. 
+Die Bundesregierung fasst ihre Antworten zu KMU und KMU-innovativ kurz zusammen. Im Bereich der
+Sensorik sei viel zu KMU dabei und auch bei Quantencomputern setze man auf Start-ups. Ihres Erachtens werde es 
+neue Firmen hinsichtlich der &#8222;Enabling Quantentechnology&#8220; geben. Die Forscher h&#228;tten in die Vergangenheit 
+geblickt und festgestellt, dass man gar nicht so falsch damit liege, dass vielleicht solche Firmen entstehen w&#252;rden. 
+Die Wissenschaft mache also auch da mit. Bei der Quantenkommunikation lege man jetzt ein gro&#223;es Projekt auf. 
+Man m&#252;sse sehen, inwieweit der Mittelstand da beteiligt sei.  
+Abschlie&#223;end f&#252;hrt die Bundesregierung zu den Programmen aus, dass man fr&#252;her, im Jahr 2006, ein Verh&#228;ltnis 
+gehabt habe, wonach circa 30 Prozent an KMU und 70 Prozent an die Gro&#223;industrie gegangen sei. Das habe man 
+nun umgedreht. Man werde daf&#252;r sorgen, dass der Mittelstand durch neue Unternehmen und insbesondere auch 
+im Bereich der Sensorik eine Rolle spiele. Bei der Kommunikation m&#252;ssten sich aber erst noch Firmen bilden. 
+Dort sei man irgendwo zwischen &#8222;teilweise vorhandenen Lieferanten&#8220; und &#8222;Neugr&#252;ndung&#8220; unterwegs. Daher 
+k&#246;nne man die Frage hierzu nicht beantworten. 
+ 
+Berlin, den 20. Februar 2019 
+Dr. Wolfgang Stefinger 
+Berichterstatter 
+Dr. Manja Sch&#252;le 
+Berichterstatterin 
+Dr. G&#246;tz Fr&#246;mming 
+Berichterstatter 
+Mario Brandenburg (S&#252;dpfalz) 
+Berichterstatter 
+Dr. Petra Sitte 
+Berichterstatterin 
+Dr. Anna Christmann 
+Berichterstatterin]</text>
+    <titel>zu dem Antrag der Abgeordneten Mario Brandenburg (S&#252;dpfalz), Katja Suding, Nicola Beer, weiterer Abgeordneter und der Fraktion der FDP
+- Drucksache 19/4845 -
+Sichere Kryptographieverfahren f&#252;r Quantencomputer entwickeln</titel>
+    <datum>2019-07-18</datum>
+  </document>
+  

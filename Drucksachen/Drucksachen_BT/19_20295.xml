@@ -1,0 +1,293 @@
+<document>
+    <id>242526</id>
+    <drucksachetyp>Kleine Anfrage</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>40</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/20295</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>b452b8e9309d178b181b14e63f51526f</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:15+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>263952</id>
+      <titel>GAIA-X und m&#246;gliche Alternativen</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>FDP</bezeichnung>
+      <titel>Fraktion der FDP</titel>
+    </urheber>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/202/1920295.pdf</pdf_url>
+      <id>242526</id>
+      <dokumentnummer>19/20295</dokumentnummer>
+      <datum>2020-06-23</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Kleine Anfrage</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Fraktion der FDP</urheber>
+    </fundstelle>
+    <autoren_anzeige>
+      <id>7577</id>
+      <titel>Dr. h. c. Thomas Sattelberger, MdB, FDP</titel>
+      <autor_titel>Thomas Sattelberger</autor_titel>
+    </autoren_anzeige>
+    <autoren_anzeige>
+      <id>7596</id>
+      <titel>Mario Brandenburg (S&#252;dpfalz), MdB, FDP</titel>
+      <autor_titel>Mario Brandenburg (S&#252;dpfalz)</autor_titel>
+    </autoren_anzeige>
+    <text>[Kleine Anfrage
+der Abgeordneten Dr. h.c. Thomas Sattelberger, Mario Brandenburg (S&#252;dpfalz), 
+Katja Suding, Britta Katharina Dassler, Dr. Jens Brandenburg (Rhein-Neckar), 
+Peter Heidt, Grigorios Aggelidis, Renata Alt, Jens Beeck, Sandra Bubendorfer-
+Licht, Dr. Marco Buschmann, Hartmut Ebbing, Dr. Marcus Faber, Daniel F&#246;st, Otto 
+Fricke, Thomas Hacker, Reginald Hanke, Markus Herbrand, Torsten Herbst, Katja 
+Hessel, Manuel H&#246;ferlin, Reinhard Houben, Ulla Ihnen, Dr. Christian Jung, 
+Dr. Marcel Klinge, Pascal Kober, Carina Konrad, Konstantin Kuhle, Ulrich Lechte, 
+Michael Georg Link, Matthias N&#246;lke, Matthias Seestern-Pauly, Judith Skudelny, 
+Dr. Hermann Otto Solms, Bettina Stark-Watzinger, Michael Theurer, Stephan 
+Thomae, Dr. Florian Toncar, Gerald Ullrich, Nicole Westig und der Fraktion der 
+FDP
+GAIA-X und m&#246;gliche Alternativen
+Der weltweite Cloud-Service-Markt betrug 2019 250 Milliarden US-Dollar, 
+wovon 125 Milliarden US-Dollar auf Software as a Service (SaaS), 48
+Milliarden US-Dollar auf Platform as a Service (PaaS) und 80 Milliarden US-Dollar 
+auf Infrastructure as a Service (IaaS) entfielen. Dieser Markt wird
+voraussichtlich bis 2022 j&#228;hrlich um 17 Prozent wachsen und wird haupts&#228;chlich von den 
+amerikanischen Anbietern AWS, Microsoft, Google und den chinesischen
+Anbietern Alibaba und Tencent beherrscht. Die Cloud-Adaption deutscher Firmen 
+liegt derzeit bei 22 Prozent, w&#228;hrend weltweit die Adoptionsrate bei etwa 
+30 Prozent ist und j&#228;hrlich steigt. Somit hat Deutschland nicht nur
+Aufholpotenzial, sondern kann zus&#228;tzlich mit weiterem Wachstum rechnen (https://www.
+statista.com/statistics/540499/worldwide-cloud-computing-revenue-by-segm
+ent/; https://www.statista.com/statistics/879647/germany-use-of-cloud-computi
+ng-services-by-all-enterprises/; https://www.ideatovalue.com/inno/nickskillicor
+n/2019/08/top-1000-companies-that-spend-the-most-on-research-
+developmentcharts-and-analysis/).
+Da sich bis heute noch keine europ&#228;ischen Anbieter am Markt etablieren
+konnten, kam das Bundesministerium f&#252;r Wirtschaft und Energie (BMWi) zu der 
+Analyse, &#8211; der wir prinzipiell zustimmen &#8211; dass die Datensouver&#228;nit&#228;t Europas 
+gef&#228;hrdet ist. Es hat sich deshalb entschlossen, unter dem Schirm des Projekts 
+GAIA-X verschiedene europ&#228;ische Firmen zusammenzubringen und zu
+moderieren. Diese sollen nun eine gemeinsame Dateninfrastruktur schaffen und 
+Schnittstellen zwischen den einzelnen Anbietern entwickeln.
+Dabei soll jedoch laut BMWi kein Konkurrent zu den bisherigen Hyper Scalern 
+(HS) entstehen, sondern die teilnehmenden Firmen sollen weiterhin unabh&#228;ngig 
+agieren. Die HS Betreiber sind sogar eingeladen, an dem Projekt teilzunehmen.
+Deutscher Bundestag Drucksache 19/20295
+19. Wahlperiode 23.06.2020
+Die exakten Entwicklungskosten der HS werden nicht ver&#246;ffentlicht, jedoch 
+sind die Mutterfirmen der drei amerikanischen Anbieter mit j&#228;hrlichen R&amp;D 
+(research &amp; development) Kosten von 14 Milliarden US-Dollar bis 22
+Milliarden US-Dollar unter den Top-5-Firmen weltweit. Somit investieren sie jeweils 
+mehr als eine Milliarde US-Dollar pro Monat in die Cloud. Die aktuellen HS 
+sind mehr als die Summe ihrer Einzelteile. Sie profitieren von gemeinsamen 
+Rechenzentren (Infrastruktur), gemeinsamer Entwicklung und Metadaten.
+Daraus ergeben sich folgende Fragen, die wir der Bundesregierung hiermit
+stellen.
+Wir fragen die Bundesregierung:
+&#8199;1. Hat die Bundesregierung eine eigene Machbarkeitsanalyse get&#228;tigt, einen 
+Full-Stack-Anbieter zu erm&#246;glichen (oder mitzuhelfen aufzubauen), oder 
+hat sie sich auf externe Studien gest&#252;tzt?
+Wenn ja, auf welche, und mit welchem Ergebnis?
+&#8199;2. Gibt es, abgesehen von den extrem hohen Kosten, weitere Gr&#252;nde, warum 
+GAIA-X nicht als Konkurrent zu den amerikanischen Hyper Scalern
+entwickelt wird?
+&#8199;3. Sch&#228;tzt die Bundesregierung den heutigen Abstand zu den HS als zu gro&#223; 
+ein, um einen direkten Wettbewerber neu zu positionieren?
+Wenn nein, warum nicht?
+&#8199;4. Hat die Bundesregierung ein strategisches Modell untersucht, bei dem in 
+einem von Entrepreneuren gef&#252;hrten Start-up, ein Team von
+hochspezialisierten Ingenieuren einen Prototyp baut mit dem mittelfristigen Ziel einen 
+Full-Stack-Anbieter zu entwickeln, finanziert von europ&#228;ischem Venture 
+Capital einerseits und dem Staat als stillen Teilhaber andererseits, letztere 
+sowohl um eine Sperrminorit&#228;t bei einer drohenden &#220;bernahme
+auszu&#252;ben, als auch um als Ankerkunde zu fungieren?
+Wenn ja, warum hat sie sich dagegen entschieden?
+Wenn nein, warum nicht?
+&#8199;5. Hat die Bundesregierung ein strategisches Modell untersucht, bei dem
+europ&#228;ische Hyperscaler aufgebaut werden sollen, &#228;hnlich dem
+Finanzierungsmodell der amerikanischen Raumfahrt, bei der, &#228;quivalent zur NASA 
+eine Bundesagentur Gelder an private Firmen vergibt, damit die digitalen 
+Projekte des Bundes und anderer staatlicher Akteure (L&#228;nder, Kommunen, 
+gesetzliche Krankenkassen, Agenturen, Bundeswehr, &#246;ffentlich-rechtlicher 
+Rundfunk) an europ&#228;ische SaaS, PaaS und IaaS Anbieter vergeben werden 
+k&#246;nnen?
+Wenn ja, warum hat sie sich dagegen entschieden?
+Wenn nein, warum nicht?
+&#8199;6. Hat die Bundesregierung ein strategisches Modell untersucht, bei dem aus 
+verschiedenen europ&#228;ischen IT-Unternehmen ein Konsortium entsteht mit 
+der mittelfristigen Zielsetzung, daraus einen Full Stack Hyperscaler zu
+fusionieren, &#228;hnlich wie seinerzeit aus verschiedenen europ&#228;ischen
+Flugzeugherstellern Airbus entstand, um der amerikanischen Dominanz auf 
+dem Jet-Flugzeug- und Kampfjet-Markt einen europ&#228;ischen Global Player 
+entgegen zu setzen?
+Wenn ja, warum hat sie sich dagegen entschieden?
+Wenn nein, warum nicht?
+&#8199;7. Wie werden die Entscheidungsgremien besetzt?
+Nach finanziellem Beitrag, parit&#228;tisch zwischen den teilnehmenden
+L&#228;ndern oder nach anderen Gesichtspunkten?
+&#8199;8. Ist es mit der gew&#228;hlten Rechtsform AISBL (Association internationale 
+sans but lucratif) m&#246;glich, Mitglieder, die sich nicht an die GAIA-X-
+Prinzipien halten, nachtr&#228;glich wieder auszuschlie&#223;en?
+Wenn ja, wie, und mit welchen Mehrheitsverh&#228;ltnissen?
+&#8199;9. Mit welchen Kosten rechnet die Bundesregierung bis GAIA-X marktf&#228;hig 
+ist und unabh&#228;ngige Entwickler ihre Services darauf entwickeln k&#246;nnen?
+Wie gro&#223; sollen jeweils die Anteile des Staats und der teilnehmenden
+Unternehmen sein?
+10. Hat das BMWi eine Marktanalyse gemacht, was europ&#228;ischen Firmen 
+mehr zu zahlen bereit sind, um einen europ&#228;ischen Cloud Anbieter zu
+nutzen?
+Wenn nein, warum nicht?
+Wenn ja, wie hoch sch&#228;tzt sie diese Mehrkostenbereitschaft?
+11. Mit welchen laufenden Kosten rechnet die Bundesregierung bei GAIA-X, 
+und welchen Anteil f&#252;r welche Posten plant sie daran langfristig zu
+&#252;bernehmen?
+12. Sieht die Bundesregierung ein Problem darin, dass wenn die Umsetzung 
+zu einem gro&#223;en Teil von den teilnehmenden Unternehmen getragen wird, 
+bei diesem Modell kleine und mittelgro&#223;e Unternehmen, die nicht so viele 
+Ressourcen bereitstellen k&#246;nnen, weniger Einfluss auf die Standards und 
+Priorisierungen als die Konzerne haben?
+Sieht die Bundesregierung die Gefahr einer Machtasymmetrie?
+13. Gibt es eine Strategie, wie es Start-ups und kleinen Firmen weiterhin
+erm&#246;glicht sein soll, an dem Projekt zu partizipieren, wenn es ihnen nicht 
+m&#246;glich ist, auf eigene Kosten permanent Entwickler bereitzustellen?
+14. Sieht die Bundesregierung einen Nachteil darin, dass die existierenden HS 
+in gro&#223;en IT-Unternehmen entstanden, die ihre Cloud zuerst f&#252;r ihre
+eigenen Bed&#252;rfnisse entwickelten und sie nachtr&#228;glich dem Markt zug&#228;nglich 
+machten?
+Sieht sie es als Nachteil an, dass GAIA-X nicht von einem zentralen
+Wirtschaftsakteur entwickelt und gelenkt wird, sondern von einem
+Konsortium?
+Wenn nein, warum nicht?
+15. Sieht die Bundesregierung einen Nachteil darin, dass GAIA-X erst
+Vertrauen und Reputation in einem Ma&#223; aufbauen muss, wie es die Firmen 
+hinter den existierenden HS teilweise bereits seit Jahren haben?
+Wenn nein, warum nicht?
+16. Sieht die Bundesregierung eine Chance, die Synergie und Kulturvorteile 
+(Firmen-Campus, einfache Ressourcenverschiebung, ma&#223;geschneidert
+designte Server, Verkn&#252;pfung mit eigenen Datenleitungen), die zu massiven 
+Kostenreduktion und h&#246;heren Margen f&#252;hren, in dezentral verteilter
+Struktur zu kompensieren?
+17. Auf was basierend sagt die Bundesregierung, dass GAIA-X kein
+Konkurrenzprodukt zu den HS werden soll, obwohl es in dem gleichen Markt 
+agieren soll?
+Was sind die wichtigsten Merkmale, die GAIA-X von den HS
+unterscheidet?
+18. Wie soll die Kooperation mit den bestehenden HS aussehen?
+Gibt es Bereiche, von denen sie ausgeschlossen werden?
+Wenn ja, wird bei diesen Bereichen zwischen amerikanischen und
+chinesischen HS unterschieden?
+19. Wie sch&#228;tzt die Bundesregierung die Gefahr ein, dass die amerikanischen 
+HS, nachdem sie offizielle Partner wurden, dies als europ&#228;isches
+Qualit&#228;tssiegel bez&#252;glich Datenschutz und GAIA-X prim&#228;r als Sales Channel
+nutzen werden?
+20. Was unterscheidet GAIA-X von anderen Open Source Clouds wie dem 
+Projekt OpenStack?
+21. Gibt es Kontakt zwischen den Verantwortlichen des BMWi und der 
+Schwarz Gruppe (Lidl, Kaufland), die ebenfalls angek&#252;ndigt hat einen 
+Cloud-Anbieter neu zu entwickeln (https://www.handelsblatt.com/technik/
+it-internet/schwarz-gruppe-mutterkonzern-von-lidl-und-kaufland-will-eige
+ne-cloud-aufbauen/25309556.html), bez&#252;glich der beiden Cloud-Projekte, 
+und wenn ja, gibt es Pl&#228;ne beide Angebote zu verkn&#252;pfen?
+22. Sind bei den an GAIA-X beteiligten Firmen auch solche dabei, die
+Hardware f&#252;r Datencenter und physischen Netzwerke designen?
+23. Welche teilnehmende Firma bringt Expertise auf dem strategisch
+wichtigen Feld der instantane Skalierbarkeit, sowohl von Datenspeicherung als 
+auch Prozessierung mit?
+24. Gibt es eine Evaluierung &#8211; und wenn ja, was sind ihre Ergebnisse &#8211; warum 
+gro&#223; angelegte staatliche IT-Initiativen, mit dem Ziel sich von
+amerikanischen Anbietern zu emanzipieren, nach Auffassung der Fragesteller in der 
+Vergangenheit immer gescheitert sind (z. B. die deutsch-franz&#246;sische 
+Suchmaschine Quaero), wenn man die jeweilige Marktdurchdringung als 
+Kriterium anlegt?
+Wenn nein, warum gab es keine solche Evaluierung?
+25. Gab es &#220;berlegungen, die Initiative nur mit einer stark reduzierten Anzahl 
+an Partnern zu starten, um nicht in langwierigen Abstimmungsprozessen 
+Zeit und Fokus zu verlieren und ein Schicksal wie Yomo oder kwitt zu
+vermeiden (https://www.it-finanzmagazin.de/yomo-aus-und-vorbei-106702/)?
+Sollte diese &#220;berlegung stattgefunden haben, was waren die wichtigsten 
+Argumente f&#252;r die gew&#228;hlte L&#246;sung?
+Was sprach dagegen?
+26. Wie sollen Kunden im au&#223;ereurop&#228;ischen Ausland versorgt werden,
+nachdem auch die Zielkunden &#8211; deutsche und europ&#228;ische Mittelst&#228;ndler und 
+Konzerne &#8211; Kunden im au&#223;ereurop&#228;ischen Ausland haben?
+Ist es vorgesehen, dass auch GAIA-X-zertifizierte Datencenter in Amerika 
+und Asien er&#246;ffnet werden, um die notwendigen Latenzzeiten anbieten zu 
+k&#246;nnen?
+27. Plant die Bundesregierung, sich daf&#252;r einzusetzen, die europ&#228;ische 
+Datenschutz-Regulatorik so zu versch&#228;rfen, dass die nichteurop&#228;ischen HS 
+nicht nur theoretisch entweder mit ihrer Heimatregulatorik oder in Europa 
+in einen Konflikt bez&#252;glich Herausgabe von gespeicherten Daten oder
+Metadaten an Beh&#246;rden geraten?
+28. Wird GAIA-X ein &#228;hnliches Marketingmodell wie die bereits
+existierenden HS anwenden, bei dem jungen Start-ups die Services fast kostenfrei 
+angeboten bekommen in der Hoffnung, dass daraus sp&#228;ter gro&#223;e, zahlende 
+Kunden werden?
+Wenn nein, wie soll GAIA-X attraktiv f&#252;r junge Firmen gemacht werden?
+29. Wie soll die Interoperabilit&#228;t zwischen verschiedenen Anbietern
+gew&#228;hrleistet werden, vor allem, wenn es sich um hochkomplexe Produkte, wie 
+Machine Learning oder Business Intelligence handelt, die stark an den
+jeweiligen Kunden angepasst werden?
+Warum geht die Bundesregierung davon aus, dass nach der Festlegung auf 
+einen Dienst der Lock-in-Effekt kleiner ist als bei den HS?
+30. Wurde analysiert, inwiefern der Staat Prime Customer werden kann und 
+somit ein hohes Umsatzpotential generieren w&#252;rde?
+Wenn ja, mit welchem Ergebnis, wenn nein, warum nicht?
+31. Wurde analysiert, mit welchen nachgefragten Dienstleistungen und
+welchem Nachfragevolumen die deutsche Gesundheitsbranche zu einem
+st&#252;tzenden Nutzer der GAIA-X-Infrastruktur werden kann?
+Wenn ja, welcher Betrag wird erwartet?
+32. Zieht die Bundesregierung Schlussfolgerungen daraus, dass das Land 
+Nordrhein-Westfalen mit dem amerikanischen KI-Unternehmen Palantir 
+zusammenarbeiten will (https://www.heise.de/newsticker/meldung/NRW-
+Polizei-will-Datenanalyse-und-Recherchesystem-von-Palantir-einsetzen-4
+634646.html), und wenn ja, welche?
+Hat es zwischen der Bundesregierung und der nordrhein-westf&#228;lischen 
+Landesregierung einen Austausch dazu gegeben, ob es keinen
+europ&#228;ischen Anbieter gab, und wenn ja, mit welchem Ergebnis?
+33. Wie k&#246;nnen in einem f&#246;deralen System die L&#228;nder motiviert werden, bei 
+GAIA-X gehostete Services f&#252;r &#246;ffentliche Dienste und Verwaltungen zu 
+kaufen und auch ihre Daten, soweit Datenschutzkonform, anderen
+Beh&#246;rden zur Verf&#252;gung zu stellen?
+34. Plant die Bundesregierung, Anreize daf&#252;r zu schaffen, dass
+&#246;ffentlichrechtliche Firmen und Einrichtungen (z. B. &#246;ffentlich-rechtliche
+Rundfunkanstalten, Forschungseinrichtungen, gesetzliche Krankenkassen)
+Services bevorzugt von der Plattform GAIA-X kaufen, und wenn ja, welche?
+35. Wie viele Mitarbeiter mit Softwareentwicklungskompetenz gibt es in der 
+Projektkoordination des BMWi?
+Wie viele von wirtschaftlicher und wie viele von technischer Seite?
+36. Wie viele qualifizierte Entwickler werden nach Einsch&#228;tzung des BMWi 
+f&#252;r die Umsetzung ben&#246;tigt,
+a) um einen funktionierenden Prototypen zu entwickeln,
+b) bnachdem die Plattform Marktreife erreicht hat und der laufend
+weiterentwickelt wird?
+37. Soll den umsetzenden IT-Ingenieuren die gleichen Einstiegsgeh&#228;lter von 
+&#252;ber 150 000 Euro wie bei den amerikanischen HS gezahlt werden (https://
+www.cnbc.com/2019/06/14/how-much-google-facebook-other-tech-giant
+s-pay-software-engineers.html)?
+Wenn nein, wie sollen die besten Absolventen aus den relevanten
+Studieng&#228;ngen f&#252;r GAIA-X gewonnen werden?
+38. Wie sollen unabh&#228;ngige SaaS-Entwickler motiviert werden, ihre Software 
+auf GAIA-X zu entwickeln und zu vertreiben?
+39. Inwiefern teilt die Bundesregierung die Auffassung, die von IT-Experten 
+an die Fragesteller herangetragenen worden ist, dass nur die in Frage 4 bis 
+6 skizzierten strategischen GAIA-X-Modelle sicherstellen, dass die
+europ&#228;ische Informatikindustrie erhalten bleibt und die besten Leute nicht &#8211; so 
+wie bisher &#8211; in die USA abwandern?
+40. Hat die Bundesregierung bzw. haben die GAIA-X-Partner ein qualitatives 
+Personalszenario erstellt, ob die in Frage 22, 23, 36, 39 genannten
+Personalbedarfe in Europa vorhanden sind, bzw. gewonnen werden k&#246;nnten?
+Berlin, den 17. Juni 2020
+Christian Lindner und Fraktion
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>GAIA-X und m&#246;gliche Alternativen</titel>
+    <datum>2020-06-23</datum>
+  </document>
+  

@@ -1,0 +1,760 @@
+<document>
+    <id>237408</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/16170</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>74ee3b0c042c6ca9436983fcc9fabd4c</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>255495</id>
+      <titel>Global vernetzter Online-Rechtsextremismus - Sicherheitsarchitektur und Pr&#228;vention</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium des Innern, f&#252;r Bau und Heimat</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/161/1916170.pdf</pdf_url>
+      <id>237408</id>
+      <dokumentnummer>19/16170</dokumentnummer>
+      <datum>2019-12-19</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Antwort
+der Bundesregierung
+auf die Kleine Anfrage der Abgeordneten Petra Pau, Dr. Andr&#233; Hahn,
+Doris Achelwilm, weiterer Abgeordneter und der Fraktion DIE LINKE.
+&#8211; Drucksache 19/15214 &#8211;
+Global vernetzter Online-Rechtsextremismus &#8211; Sicherheitsarchitektur
+und Pr&#228;vention
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Im Zusammenhang mit dem rechtsterroristischen Anschlag von Halle am 
+9. Oktober 2019 auf eine Synagoge und einen D&#246;nerimbiss wird nun
+&#246;ffentlich &#252;ber eine vermeintlich neue Art rechtsterroristischer bzw. rechtsextremer 
+T&#228;ter gesprochen. Doch das Ph&#228;nomen eines online aktiven Rechtsterroristen 
+ist keineswegs neu. Der T&#228;ter von Halle Stephan B. war auf internationalen 
+Chan-Boards (8-chan) und innerhalb rechtsextremer Foren von Gaming-
+Plattformen aktiv, postete Pl&#228;ne zur Herstellung seiner selbstgebauten
+Schusswaffen, k&#252;ndigte seine Tat kurze Zeit zuvor online an (meguca.org) und
+verbreitete diese schlie&#223;lich live auf einer Streamingplattform (twitch.tv).
+Expertinnen und Experten sprechen in diesem Zusammenhang von einer
+&#8222;Gamification of Terror&#8220; (www.tagesspiegel.de/politik/tatverdaechtiger-aus-halle-mensc
+hen-toeten-und-sich-selbst-leidtun/25104378.html), welche mit einem
+sogenannten copycat-Terrorismus (www.t-online.de/nachrichten/ausland/id_86622
+742/anschlag-in-halle-der-taeter-war-eingebettet-in-groessere-netzwerke-
+.html) eng verbunden ist.
+Chan-Foren wurden in diesem Jahr bereits zur Ank&#252;ndigung der
+rechtsextremen Terroranschl&#228;ge von Christchurch (Neuseeland), Poway (USA) und El 
+Paso (USA) genutzt. Alle Rechtsterroristen bezogen sich dabei glorifizierend 
+auf den Terroranschlag von Anders Breivik in Oslo/Ut&#248;ya (Norwegen) im Jahr 
+2011, bei dem 77 Menschen systematisch get&#246;tet wurden. Seine terroristischen 
+Vorbereitungen und ideologischen Gedanken wurden minuti&#246;s online
+dokumentiert.
+Bereits der Attent&#228;ter vom M&#252;nchener Olympia-Einkaufszentrum (2016) hatte 
+Breivik zum Vorbild und vernetzte sich online auf der Gaming-Plattform 
+&#8222;Steam&#8220; mit anderen Rechtsterroristen wie dem US-amerikanische William 
+Atchison, in denen vielfach zu Nachahmungstaten aufgerufen wurde (www.an
+tifainfoblatt.de/artikel/virtuell-vernetzter-rechtsterrorismus).
+Die T&#228;ter sind meist weltweit vernetzt und haben wie Stephan B. auch
+au&#223;erhalb der digitalen Community ideologische Ankn&#252;pfungspunkte. So soll der 
+T&#228;ter von Halle 2014 bei einer Parteiveranstaltung der NPD in Leipzig
+gesehen worden sein (www.zdf.de/politik/frontal-21/neue-spuren-vom-halle-attent
+Deutscher Bundestag Drucksache 19/16170
+19. Wahlperiode 19.12.2019
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums des Innern, f&#252;r Bau und Heimat 
+vom 17. Dezember 2019 &#252;bermittelt.
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext.
+aeter-100.html). Beim global vernetzten Online-Rechtsextremismus kann man 
+in Bezug auf die deutschen Sicherheitsbeh&#246;rden daher von einem &#8222;doppelten 
+blinden Fleck&#8220; (www.taz.de/Behoerden-und-Rechtsextremismus/!5629673/) 
+sprechen &#8211; zwei Entwicklungen kommen hier zusammen, die nach Ansicht 
+der Fragestellenden viel zu lange vernachl&#228;ssigt wurden: der
+Rechtsterrorismus und die vernetzte rechtsextreme Online-Szene.
+Nach dem Anschlag von Halle wurden nun vom Bundesministerium des
+Innern, f&#252;r Bau und Heimat die Aufstockung von Personalstellen beim
+Bundeskriminalamt (BKA) und Verfassungsschutz gefordert. Auch aus der Koalition 
+werden die Forderungen nach weitreichender Kompetenzerweiterung und
+umfangreichen &#220;berwachungsbefugnissen immer lauter. Vor dem Hintergrund, 
+dass im Internet, in den sozialen Netzwerken, auf Plattformen usw. Neonazis 
+massiv Hasskriminalit&#228;t verbreiteten, wurde bereits im M&#228;rz 2012 die
+Koordinierte Internetauswertung &#8211; Rechtsextremismus (KIA-R) in Zusammenarbeit 
+mit dem Bundeskriminalamt (BKA), dem Bundesamt f&#252;r Verfassungsschutz 
+(BfV) und dem Bundesamt f&#252;r den Milit&#228;rischen Abschirmdienst (BAMAD) 
+eingerichtet. Die Sicherheitsbeh&#246;rden wollen die Nutzung des Internets durch 
+politisch rechts motivierte Straft&#228;ter, Gef&#228;hrder oder auch sonstige relevante 
+Personen beobachten und auswerten. Bis zum jetzigen Zeitpunkt beteiligte 
+sich das BKA bei der KIA-R mit lediglich 8,3 Planstellen
+(Bundestagsdrucksache 19/11908).
+1. Welche konkreten Aufgabenprofile und Arbeitsschwerpunkte definiert das 
+Bundesinnenministerium f&#252;r die 440 neu geforderten Planstellen im
+Bereich &#8222;Aufsp&#252;ren rechter Netzwerke&#8220; und &#8222;Hasskriminalit&#228;t im Internet&#8220; 
+beim BKA?
+Das Bundeskriminalamt (BKA) wird seine Aktivit&#228;ten in einem Drei-Ebenen-
+Modell intensivieren. Diese drei Ebenen bilden der personenbezogene Ansatz, 
+die Netzwerkerkennung sowie die Bek&#228;mpfung der Hasskriminalit&#228;t im
+Internet.
+Durch den personenbezogenen Ansatz wird unter Ber&#252;cksichtigung von 
+Schnittstellen zur Allgemeinkriminalit&#228;t u. a. durch die Intensivierung der
+operativen Informationserhebung und der ermittlungsinitiierenden und -
+begleitenden Auswertung ein ganzheitlicher Bek&#228;mpfungsansatz gebildet.
+In Anlehnung an das Risikobewertungsinstrument RADAR-iTE f&#252;r den
+Bereich des islamistischen Terrorismus wird ein Risikobewertungsinstrument 
+&#8222;RADAR-rechts&#8220; zur Risikobewertung von Personen des rechten Spektrums 
+entwickelt.
+Dar&#252;ber hinaus werden vermehrt umfangreiche Ermittlungsverfahren zur
+Erh&#246;hung des Verfolgungsdrucks initiiert sowie der Informationsaustausch sowohl 
+auf nationaler als auch internationaler Ebene verst&#228;rkt.
+Im Bereich der Netzwerkerkennung wird ein Ausbau der Zentralstellen PMK-
+rechts mit Fokus auf personen- und netzwerkbezogene Fr&#252;herkennung
+einschlie&#223;lich Risikobewertung und Kategorisierung im Rahmen der
+durchgef&#252;hrten Auswertungen erfolgen.
+Durch eine Ausweitung des internationalen Austausches soll eine
+Informationsverdichtung zu grenz&#252;berschreitend agierenden T&#228;tern und Gruppierungen
+erzielt werden.
+Dar&#252;ber hinaus wird eine &#220;bernahme komplexer Struktur- und
+Ermittlungsverfahren, auch zur Unterst&#252;tzung der Bundesl&#228;nder, forciert.
+Die dritte Ebene der Bek&#228;mpfung der Hasskriminalit&#228;t im Internet umfasst die 
+St&#228;rkung des operativen Internet-Monitorings sowohl auf der Plattform der
+Koordinierten Internetauswertung (KIA) als auch durch Intensivierung eigener 
+OSINT-Recherchen und Internetermittlungen.
+Im Kontext der Internetauswertung soll eine nationale Zentralstelle im BKA 
+eingerichtet werden. Diese soll die Bek&#228;mpfung der Hasskriminalit&#228;t im
+Internet u. a. durch die Identifizierung von Verursachern und Verantwortlichen von 
+Internetinhalten mit strafrechtlicher Relevanz, die Entgegennahme von
+Meldungen der Anbieter von Telemediendiensten zur Durchf&#252;hrung einer
+standardisierten Strafbarkeitspr&#252;fung (auf Basis einer noch einzuf&#252;hrenden
+Meldepflicht f&#252;r die Diensteanbieter) sowie durch die Veranlassung von
+L&#246;schanregungen an Diensteanbieter im Ausland weiter verst&#228;rken.
+Die in diesem Kontext geforderten Planstellen sind zur Erf&#252;llung der
+bevorstehenden Aufgaben des Drei-Ebenen-Modells vorgesehen.
+a) Welchen Kompetenzen und Qualifikationen m&#252;ssen Bewerberinnen 
+und Bewerber erf&#252;llen, bzw. wie werden die perspektivischen
+Stellenprofile ausgestaltet?
+b) Sind zu den in der Frage 1 benannten Bereichen eigenst&#228;ndige
+Ausbildungen beim BKA geplant?
+Die Fragen 1a und 1b werden gemeinsam beantwortet.
+F&#252;r die kriminalpolizeilichen Kernaufgaben werden die im BKA ausgebildeten 
+Kriminalbeamtinnen und -beamten eingesetzt. Derzeit befinden sich zudem
+erste Studierende in einem neuen Ausbildungsgang zu &#8222;Cyberkriminalisten&#8220; im 
+BKA. Die Gewinnung soll intensiv fortgef&#252;hrt werden. Ein sp&#228;terer Einsatz zur 
+Bek&#228;mpfung der Hasskriminalit&#228;t im Internet ist vorgesehen.
+c) Sollen externe Fachexpertinnen und Fachexperten geworben werden, 
+und wenn ja, mit welchen konkreten Ma&#223;nahmen?
+Zur Zielerreichung einer schnellen Gewinnung von qualifiziertem Personal 
+werden neben Polizeivollzugsbeamtinnen und -beamten auch
+Bachelorabsolventinnen und -absolventen mit fachdienlichen Studieng&#228;ngen f&#252;r
+Auswertungs- und Analyseaufgaben eingesetzt/gewonnen.
+d) Wie hoch sind die ben&#246;tigten Haushaltsmittel f&#252;r zus&#228;tzliche Stellen 
+sowie Qualifikations- und Weiterbildungsma&#223;nahmen bestehender 
+Mitarbeiter?
+Das BKA geht im Rahmen der Einrichtung von Arbeitspl&#228;tzen von folgenden 
+allgemein g&#252;ltigen Pauschals&#228;tzen bei den ben&#246;tigten Sachmitteln aus:
+Erstausstattung der Arbeitspl&#228;tze:
+&#8211; Standard IT-Ger&#228;t (APC + Zubeh&#246;r + Monitor + Drucker + Lizenzkosten):
+2.000 Euro einmalig pro Planstelle/Stelle
+&#8211; B&#252;rom&#246;bel:
+2.000 Euro einmalig pro Planstelle/Stelle
+&#8211; Miete f&#252;r B&#252;roraum:
+6.000 Euro j&#228;hrlich pro Planstelle/Stelle
+&#8211; Nebenkosten f&#252;r B&#252;romiete:
+2.500 Euro j&#228;hrlich pro Planstelle/Stelle
+&#8211; Allgemeine polizeiliche pers&#246;nliche Ausstattung:
+1.400 Euro einmalig pro Planstelle
+Qualifizierungsma&#223;nahmen werden bedarfsgerecht auf der Grundlage
+j&#228;hrlicher Erhebungen entsprechend der Anzahl der zu beschulenden Mitarbeiter/
+innen und der zu vermittelnden Inhalte angeboten. Die entsprechenden
+Kennzahlen f&#252;r das Jahr 2020 liegen noch nicht vor.
+e) Mit welchen wissenschaftlichen Einrichtungen wird derzeit
+zusammengearbeitet?
+Im Rahmen der Erarbeitung und Entwicklung des
+Risikobewertungsinstruments &#8222;RADAR-rechts-&#8220; wird mit der Kriminologischen Zentralstelle e.V. 
+(KrimZ) in Wiesbaden sowie der Fachhochschule Polizei Sachsen-Anhalt als 
+wissenschaftlichen Projektpartnern zusammengearbeitet, um sicherzustellen, 
+dass bei der Entwicklung wissenschaftlich etablierte Methoden eingehalten 
+werden. Dar&#252;ber hinaus werden die Arbeitsprozesse unter juristischen und 
+rechtssoziologischen Aspekten begleitet.
+f) Wie viele Planstellen im Bereich Rechtsextremismus sind derzeit
+unbesetzt?
+Derzeit sind in den Organisationseinheiten, die sich ausschlie&#223;lich mit der
+Bek&#228;mpfung der Politisch motivierten Kriminalit&#228;t -rechts- befassen, 14
+Dienstposten bzw. Arbeitspl&#228;tze nicht besetzt. Dazu kommen 36 nicht besetzte Stellen 
+in Ermittlungsreferaten, die anlassbezogen f&#252;r Aufgaben aus den
+Ph&#228;nomenbereichen -rechts- und / oder -links- zust&#228;ndig sind.
+2. Welche konkreten Aufgabenprofilen und Arbeitsschwerpunkten definiert 
+das Bundesinnenministerium f&#252;r die geforderten 300 Planstellen beim 
+BfV?
+a) Welchen Kompetenzen und Qualifikationen m&#252;ssen Bewerberinnen 
+und Bewerber erf&#252;llen, bzw. wie werden die perspektivischen
+Stellenprofile ausgestaltet?
+Die Fragen 2 und 2a werden im Sachzusammenhang gemeinsam beantwortet.
+Die geforderten 300 Planstellen umfassen eine Vielzahl von unterschiedlichen 
+Stellenprofilen, u. a. f&#252;r die Bereiche der Auswertung, der operativen
+Bearbeitung des Internets, der Finanzauswertung sowie von Aufgaben in den
+Bereichen Technische Analyseunterst&#252;tzung und der nachrichtendienstlichen
+Datengewinnung: Eine konkrete Beschreibung und Ver&#246;ffentlichung der
+Stellenprofile kann erst nach der entsprechenden Ausbringung der zus&#228;tzlichen Planstellen 
+durch den Deutschen Bundestag erfolgen.
+b) Sollen externe Fachexpertinnen und Fachexperten geworben werden, 
+und wenn ja, mit welchen konkreten Ma&#223;nahmen?
+Das Bundesamt f&#252;r Verfassungsschutz (BfV) wirbt durch verschiedene
+Marketingma&#223;nahmen um Fachpersonal im Bereich Rechtsextremismus. In der
+Vergangenheit hat das BfV die entsprechenden Stellenanzeigen beispielsweise auf 
+Online-Portalen ver&#246;ffentlicht.
+Ferner werden potentielle Bewerber/innen auch &#252;ber zahlreiche
+Karriereveranstaltungen angesprochen, welche &#252;ber das Jahr verteilt durchgef&#252;hrt werden. 
+Dies geschieht in Form von Fachvortr&#228;gen und Standbetreuung in
+verschiedenen Messeformaten.
+c) Wie hoch sind die ben&#246;tigten Haushaltsmittel f&#252;r zus&#228;tzliche Stellen
+sowie Qualifikations- und Weiterbildungsma&#223;nahmen bestehender
+Mitarbeiter?
+Zur Finanzierung der zus&#228;tzlichen 300 Planstellen ben&#246;tigt das BfV eine
+Erh&#246;hung des Zuschussbetrages aus dem Bundeshaushalt &#8211; anteilig f&#252;r das Jahr 
+2020 &#8211; in H&#246;he von insgesamt 16,125 Mio. Euro.
+Des Weiteren ist die Bundesregierung nach sorgf&#228;ltiger Abw&#228;gung der
+Auffassung, dass die weitere Beantwortung aus Gr&#252;nden des Staatswohls nicht in
+offener Form erfolgen kann. Die erbetenen Ausk&#252;nfte zu Ausgaben im Bereich 
+Qualifikations- und Weiterbildungsma&#223;nahmen bestehender Mitarbeiter
+betreffen wesentliche Strukturelemente des BfV. Aus ihrem Bekanntwerden k&#246;nnten 
+sowohl staatliche als auch nichtstaatliche Akteure R&#252;ckschl&#252;sse auf
+Personalentwicklung, Modus Operandi, die F&#228;higkeiten und Methoden des BfV ziehen. 
+Dadurch wird die Aufgabenerf&#252;llung der Nachrichtendienste beeintr&#228;chtigt, 
+was wiederum f&#252;r die Sicherheit und die Interessen der Bundesrepublik 
+Deutschland sch&#228;dlich w&#228;re. Daher ist ein weiterer Antwortteil als
+Verschlusssache gem&#228;&#223; der Allgemeinen Verwaltungsvorschrift des Bundesministeriums 
+des Innern zum materiellen Geheimschutz vom 10. August 2018
+(Verschlusssachenanweisung, VSA) mit dem Geheimhaltungsgrad &#8222;VS &#8211; Vertraulich&#8220;
+eingestuft und wird in dieser Form an die Geheimschutzstelle des Deutschen
+Bundestages &#252;bermittelt.1
+d) Mit welchen wissenschaftlichen Einrichtungen wird hier
+zusammengearbeitet?
+Das BfV arbeitet in diesem Zusammenhang mit keinen wissenschaftlichen
+Einrichtungen zusammen.
+e) Wie viele Planstellen im Bereich Rechtsextremismus sind derzeit
+unbesetzt?
+Die Bundesregierung ist nach sorgf&#228;ltiger Abw&#228;gung zu der Auffassung
+gelangt, dass eine Beantwortung der Frage nicht in offener Form erfolgen kann. 
+Die erbetenen Informationen sind geheimhaltungsbed&#252;rftig, weil sie
+Informationen enthalten, die im Zusammenhang mit der Arbeitsweise und Methodik 
+des BfV und insbesondere dessen Aufkl&#228;rungsaktivit&#228;ten und
+Analysemethoden stehen. Insbesondere durch die Auskunft &#252;ber die Gr&#246;&#223;enordnung des
+eingesetzten Personals k&#246;nnen R&#252;ckschl&#252;sse auf die Arbeitsweise des BfV
+gezogen werden. Die erbetenen Ausk&#252;nfte zu Personalzahlen betreffen wesentliche 
+Strukturelemente des BfV. Aus ihrem Bekanntwerden k&#246;nnten sowohl
+staatliche als auch nicht-staatliche Akteure R&#252;ckschl&#252;sse auf Personalentwicklung, 
+Modus Operandi, die F&#228;higkeiten und Methoden des BfV ziehen. Dadurch wird 
+die Aufgabenerf&#252;llung der Nachrichtendienste beeintr&#228;chtigt, was wiederum 
+die Sicherheit gef&#228;hrden und den Interessen der Bundesrepublik Deutschland 
+schweren Schaden zuf&#252;gen k&#246;nnte. Daher ist ein weiterer Antwortteil als
+Verschlusssache gem&#228;&#223; VSA mit dem Geheimhaltungsgrad &#8222;VS &#8211; Geheim&#8220;
+eingestuft und wird in dieser Form an die Geheimschutzstelle des Deutschen
+Bundestages &#252;bermittelt.2
+1 Das Bundesministerium des Innern, f&#252;r Bau und Heimat hat die Antwort als &#8222;VS &#8211; Vertraulich&#8220; eingestuft. Die
+Antwort ist in der Geheimschutzstelle des Deutschen Bundestages hinterlegt und kann dort nach Ma&#223;gabe der
+Geheimschutzordnung eingesehen werden.
+2   Das Bundesministerium des Innern, f&#252;r Bau und Heimat hat die Antwort als &#8222;VS &#8211; Geheim&#8220; eingestuft. Die Antwort ist 
+in der Geheimschutzstelle des Deutschen Bundestages hinterlegt und kann dort nach Ma&#223;gabe der
+Geheimschutzordnung eingesehen werden.
+3. Wie war die Gefahreneinsch&#228;tzung der Bundesregierung und der
+bundesdeutschen Sicherheitsbeh&#246;rden nach den verschiedenen terroristischen
+Attentaten in Oslo/Ut&#248;ya (2011), M&#252;nchen (2016), New Mexico (2017),
+Christchurch (M&#228;rz 2019), Poway (April 2019), El Paso (August 2019)
+und Halle (Oktober 2019) (bitte nach Bundesregierung, BKA, BfV,
+Bundesnachrichtendienst &#8211; BND &#8211; und Milit&#228;rischem Abschirmdienst &#8211;
+MAD &#8211; auflisten)?
+Im BKA werden derartige Ereignisse unter Gef&#228;hrdungsgesichtspunkten
+insbesondere im Hinblick auf die Sicherheitslage in Deutschland, aber auch
+hinsichtlich deutscher Interessen im Ausland ber&#252;cksichtigt und bewertet. Die in der 
+Fragestellung genannten Ereignisse waren von der Gef&#228;hrdungsbewertung des 
+BKA umfasst und stellten keine lagever&#228;ndernden bzw. versch&#228;rfenden
+Momente dar.
+Das BfV stellt im Rechtsextremismus seit einiger Zeit eine Lageversch&#228;rfung 
+fest, die eine Intensivierung der Beobachtung erforderlich macht. Ein Indikator 
+hierf&#252;r ist nicht nur der anhaltend hohe Anteil gewaltorientierter
+Rechtsextremisten am gesamten Personenpotenzial, auch regelm&#228;&#223;ige Waffenfunde bei 
+Rechtsextremisten belegen diese Einsch&#228;tzung.
+Grunds&#228;tzlich kann auch weiterhin eine Gefahr der Entwicklung
+rechtsterroristischer Ans&#228;tze nicht ausgeschlossen werden. Auch schwerste Straftaten von 
+radikalisierten Einzelt&#228;tern, die keiner Organisation zugeh&#246;rig sind, bleiben 
+weiterhin ein &#8211; teils schwer zu kalkulierendes &#8211; Risiko und bilden ein hohes 
+Gef&#228;hrdungsmoment im Rechtsextremismus.
+F&#252;r den Bundesnachrichtendienst (BND) ist die Bundesregierung nach
+sorgf&#228;ltiger Abw&#228;gung zu der Auffassung gelangt, dass die Antwort zu Frage 3 nicht 
+offen erfolgen kann. Die Einstufung der Antwort als Verschlusssache (VS) mit 
+dem Geheimhaltungsgrad &#8222;VS &#8211; Nur f&#252;r den Dienstgebrauch&#8220; ist im
+vorliegenden Fall im Hinblick auf das Staatswohl erforderlich. Nach &#167; 2 Absatz 2
+Nummer 4 der VSA sind Informationen, deren Kenntnisnahme durch Unbefugte f&#252;r 
+die Interessen der Bundesrepublik Deutschland oder eines ihrer L&#228;nder
+nachteilig sein k&#246;nnen, entsprechend einzustufen. Eine zur Ver&#246;ffentlichung
+bestimmte Antwort der Bundesregierung auf diese Frage w&#252;rde Informationen zu der 
+Personalentwicklung, dem Modus Operandi sowie den F&#228;higkeiten und
+Methoden des BND einem nicht eingrenzbaren Personenkreis nicht nur im Inland, 
+sondern auch im Ausland zug&#228;nglich machen. Eine solche Ver&#246;ffentlichung 
+von Einzelheiten ist daher geeignet, zu einer wesentlichen Verschlechterung der 
+dem BND zur Verf&#252;gung stehenden M&#246;glichkeiten der Informationsgewinnung 
+zu f&#252;hren. Dies kann f&#252;r die wirksame Erf&#252;llung der gesetzlichen Aufgaben der 
+Nachrichtendienste und damit f&#252;r die Interessen der Bundesrepublik
+Deutschland nachteilig sein. Diese Informationen werden daher als &#8222;VS &#8211; Nur f&#252;r den 
+Dienstgebrauch&#8220; eingestuft und dem Deutschen Bundestag gesondert
+&#252;bermittelt.3
+Aus Sicht des Bundesamts f&#252;r den Milit&#228;rischen Abschirmdienst (BAMAD) 
+war allen genannten Gewalttaten gemein, dass eine Betroffenheit von
+Einrichtungen / Dienststellen der Bundeswehr nicht gegeben war. Aus den
+vorliegenden Informationen ergab sich demnach keine Notwendigkeit f&#252;r die Anpassung 
+der Sicherheitslage von Einrichtungen/Dienststellen der Bundeswehr.
+3 Das Bundesministerium des Innern, f&#252;r Bau und Heimat hat die Antwort als &#8222;VS &#8211; Nur f&#252;r den Dienstgebrauch&#8220;
+eingestuft. Die Antwort ist im Parlamentssekretariat des Deutschen Bundestages hinterlegt und kann dort von Berechtigten 
+eingesehen werden.
+4. Welche konkreten personellen und ermittlungstechnischen Konsequenzen
+zogen die Sicherheitsbeh&#246;rden nach den in Frage 3 benannten
+rechtsextremen Attentaten (bitte nach BKA, BfV, BND und MAD auflisten)?
+Im BKA wurde nach dem Anschlag in Halle zur umfassenden Aufkl&#228;rung der 
+Tat eine Besondere Aufbauorganisation (BAO) eingerichtet. Eine weitere
+offene Beantwortung der Frage f&#252;r das BKA ist nicht m&#246;glich.
+Soweit parlamentarische Anfragen Umst&#228;nde betreffen, die aus Gr&#252;nden des 
+Staatswohls geheimhaltungsbed&#252;rftig sind, hat die Bundesregierung zu pr&#252;fen, 
+ob und auf welche Weise die Geheimhaltungsbed&#252;rftigkeit mit dem
+parlamentarischen Informationsanspruch in Einklang gebracht werden kann (BVerfGE 
+124, 161 [189]). Die Einstufung der weiteren Antwort als Verschlusssache (VS) 
+mit dem Geheimhaltungsgrad ,,VS &#8211; Nur f&#252;r den Dienstgebrauch&#8220; ist im
+vorliegenden Fall im Hinblick auf das Staatswohl erforderlich. Nach &#167; 2 Absatz 2 
+Nummer 4 der VSA sind Informationen, deren Kenntnisnahme durch
+Unbefugte f&#252;r die Interessen der Bundesrepublik Deutschland oder eines ihrer L&#228;nder 
+nachteilig sein k&#246;nnen, entsprechend einzustufen. Eine zur Ver&#246;ffentlichung 
+bestimmte weitere Antwort der Bundesregierung auf diese Frage w&#252;rde
+Informationen &#252;ber die Gr&#246;&#223;enordnung des eingesetzten Personals, zu
+Arbeitsmethoden und F&#228;higkeiten des BKA einem nicht eingrenzbaren Personenkreis 
+nicht nur im Inland, sondern auch im Ausland zug&#228;nglich machen. Die
+genannten Einzelheiten sind im Hinblick auf die k&#252;nftige Auftragserf&#252;llung besonders 
+schutzbed&#252;rftig. Die weitere Antwort auf die Frage wird demgem&#228;&#223; mit dem 
+Geheimhaltungsgrad &#8222;VS &#8211; Nur f&#252;r den Dienstgebrauch&#8220; eingestuft und
+gesondert &#252;bermittelt.4
+F&#252;r das BfV ist die Bundesregierung nach sorgf&#228;ltiger Abw&#228;gung zu der
+Auffassung gelangt, dass eine Beantwortung der Frage nicht in offener Form
+erfolgen kann.
+Die erbetenen Ausk&#252;nfte sind geheimhaltungsbed&#252;rftig, weil sie Informationen 
+enthalten, die im Zusammenhang mit der Arbeitsweise und Methodik des BfV 
+und insbesondere dessen Aufkl&#228;rungsaktivit&#228;ten und Analysemethoden stehen. 
+Insbesondere durch die Auskunft &#252;ber die Gr&#246;&#223;enordnung des eingesetzten 
+Personals k&#246;nnen R&#252;ckschl&#252;sse auf die Arbeitsweise des BfV gezogen werden. 
+Die erbetenen Ausk&#252;nfte zu Personalzahlen betreffen wesentliche
+Strukturelemente des BfV. Aus ihrem Bekanntwerden k&#246;nnten sowohl staatliche als auch 
+nicht-staatliche Akteure R&#252;ckschl&#252;sse auf Personalentwicklung, Modus
+Operandi, die F&#228;higkeiten und Methoden des BfV ziehen. Dadurch wird die
+Aufgabenerf&#252;llung der Nachrichtendienste beeintr&#228;chtigt, was wiederum die
+Sicherheit gef&#228;hrden und den Interessen der Bundesrepublik Deutschland schweren 
+Schaden zuf&#252;gen k&#246;nnte. Daher ist ein weiterer Antwortteil als Verschlusssache 
+gem&#228;&#223; VSA mit dem Geheimhaltungsgrad &#8222;VS &#8211; Geheim&#8220; eingestuft und wird 
+in dieser Form an die Geheimschutzstelle des Deutschen Bundestages
+&#252;bermittelt.5
+Beim BND wurde ein Beauftragter f&#252;r Extremistische Bedrohungen bestellt 
+und ein Sonderstab eingerichtet.
+Im BAMAD hatten die in Frage 3 erw&#228;hnten Vorf&#228;lle keine der aufgef&#252;hrten 
+Konsequenzen zur Folge.
+4 Das Bundesministerium des Innern, f&#252;r Bau und Heimat hat die Antwort als &#8222;VS &#8211; Nur f&#252;r den Dienstgebrauch&#8220;
+eingestuft. Die Antwort ist im Parlamentssekretariat des Deutschen Bundestages hinterlegt und kann dort von Berechtigten 
+eingesehen werden.
+5   Das Bundesministerium des Innern, f&#252;r Bau und Heimat hat die Antwort als &#8222;VS &#8211; Geheim&#8220; eingestuft. Die Antwort ist 
+in der Geheimschutzstelle des Deutschen Bundestages hinterlegt und kann dort nach Ma&#223;gabe der
+Geheimschutzordnung eingesehen werden.
+5. Welche Aus- und Weiterbildungsma&#223;nahmen der Mitarbeitenden wurden
+nach Kenntnis der Bundesregierung bereits innerhalb des BKA, BfV, BND
+und des MAD zur Analysef&#228;higkeit des Online-Rechtsextremismus
+jeweils nach den in Frage 3 benannten Attentaten umgesetzt (bitte
+chronologisch nach Jahren und Beh&#246;rde aufschl&#252;sseln)?
+Im BKA wurden bezogen auf die genannten Attentate &#8211; jenseits der ohnehin 
+dauerhaften ph&#228;nomenfachlichen Ausbildungsma&#223;nahmen &#8211; keine spezifischen 
+Aus- und Fortbildungsma&#223;nahmen umgesetzt.
+Die internen Aus- und Fortbildungsangebote f&#252;r Mitarbeiter des BKA zur
+Steigerung der Cyberkompetenz wurden dem gestiegenen Bedarf angepasst,
+Lehrg&#228;nge neu konzipiert und quantitativ ausgeweitet.
+Seit 2017 werden folgende Lehrg&#228;nge angeboten:
+&#8226; Basiskurs zum Erwerb delikts&#252;bergreifender Internetkompetenz
+&#8226; Cybercrime Internetrecherchelehrgang
+&#8226; Cybercrime Ermittlungs- und operative Auswertearbeit im Internet
+&#8226; Cybercrime Vertiefungslehrgang
+&#8226; X-Ways Investigator
+Im Jahr 2019 wurde zus&#228;tzlich der Lehrgang &#8222;Ermittlungsbegleitende
+Internetrecherche&#8220; angeboten. Dar&#252;ber hinaus werden anlassbezogen Angebote
+dezentraler Fortbildungsma&#223;nahmen zu den Themen Cybercrime wahrgenommen.
+Innerhalb des BfV genie&#223;en Aus- und Weiterbildungsma&#223;nahmen eine hohe 
+Priorit&#228;t und sind eine Daueraufgabe. Die Akademie f&#252;r Verfassungsschutz 
+(AfV) als zentrale Fortbildungsanbieterin f&#252;r nachrichtendienstliche Themen 
+bietet eine Vielzahl an Fortbildungen zum Thema Analyse und Online-
+Recherche an. Diese Fortbildungen sind daher nicht auf einen bestimmten
+Ph&#228;nomenbereich zugeschnitten. Vielmehr vermitteln sie die notwendigen Fach- 
+und Methodenkompetenzen. Dar&#252;ber hinaus werden an der AfV intensive 
+Grund- und Aufbaulehrg&#228;nge zu den Themenfeldern der Ph&#228;nomenbereiche
+angeboten. Eine chronologische Auflistung ist entsprechend nicht m&#246;glich.
+F&#252;r den BND ist die Bundesregierung nach sorgf&#228;ltiger Abw&#228;gung zu der
+Auffassung gelangt, dass die Antwort auf die Frage 5 nicht offen erfolgen kann.
+Die Einstufung der Antwort als Verschlusssache (VS) mit dem
+Geheimhaltungsgrad &#8222;VS &#8211; Nur f&#252;r den Dienstgebrauch&#8220; ist im vorliegenden Fall im
+Hinblick auf das Staatswohl erforderlich. Hinsichtlich der Begr&#252;ndung wird auf die 
+Antwort zu Frage 3 verwiesen, die Informationen werden daher als &#8222;VS &#8211; Nur 
+f&#252;r den Dienstgebrauch&#8220; eingestuft und dem Deutschen Bundestag gesondert 
+&#252;bermittelt.6
+Die fachliche Aus- und Weiterbildung der Mitarbeiter des BAMAD wird an der 
+zentralen Bildungsst&#228;tte des Verfassungsschutzverbundes, der AfV,
+durchgef&#252;hrt. F&#252;r das BAMAD wird daher auf die vorherigen Ausf&#252;hrungen und die 
+Zust&#228;ndigkeit der insoweit federf&#252;hrenden Beh&#246;rde (BfV) verwiesen.
+6 Das Bundesministerium des Innern, f&#252;r Bau und Heimat hat die Antwort als &#8222;VS &#8211; Nur f&#252;r den Dienstgebrauch&#8220;
+eingestuft. Die Antwort ist im Parlamentssekretariat des Deutschen Bundestages hinterlegt und kann dort von Berechtigten 
+eingesehen werden.
+6. Welche Erkenntnisse hat die Bundesregierung dar&#252;ber, inwiefern die in 
+Frage 3 angef&#252;hrten Attentate einen Einfluss auf die Personalentwicklung 
+und Schwerpunktsetzung innerhalb der KIA-R hatten (bitte chronologisch 
+nach Jahren aufschl&#252;sseln)?
+Die Koordinierte Internetauswertung Rechtsextremismus (KIA-R) ist eine
+Kooperationsplattform von BKA, BAMAD und BfV, welche hier jeweils im
+Rahmen ihrer eigenen Zust&#228;ndigkeiten t&#228;tig werden.
+Aus Sicht des BKA hatten die genannten Attentate bislang keinen Einfluss auf 
+die Personalentwicklung des KIA-R. Die internetrelevanten Erkenntnisse aus 
+diesen F&#228;llen flie&#223;en in die Schwerpunktsetzung der KIA-R ein. Die
+Personalentwicklung steht nicht in einem direkten Zusammenhang mit den genannten 
+Attentaten, weil neben der Kriminalit&#228;tsentwicklung auch die Aspekte
+&#8222;Stellenzuweisungen&#8220; sowie &#8222;personenbezogene Ver&#228;nderungen&#8220; relevant sind. Die 
+&#8222;Koordinierte Internetauswertung&#8220; war zun&#228;chst f&#252;r die Ph&#228;nomenbereiche 
+-rechts- und -links- zust&#228;ndig. Seit 2014 wird die Aufgabe KIA-links-
+eigenst&#228;ndig wahrgenommen. Insgesamt hat es seit Einrichtung der KIA im BKA
+einen Stellenzuwachs f&#252;r diesen Aufgabenbereich gegeben. Weiterer
+Stellenzuwachs f&#252;r Internetrecherchen ist im Rahmen des Haushalts f&#252;r 2020 als Teil der 
+3. Ebene (= Bek&#228;mpfung der Hasskriminalit&#228;t im Internet) des Drei-Ebenen-
+Modells absehbar (zu Drei-Ebenen-Modell siehe Ausf&#252;hrungen zu Frage 1).
+Das BfV f&#252;hrt im Sinne seiner Aufgabe gem. &#167; 3 Abs. 1 i. V. m. &#167; 4 Abs. 1 des 
+Gesetzes &#252;ber die Zusammenarbeit des Bundes und der L&#228;nder in
+Angelegenheiten des Verfassungsschutzes und &#252;ber das Bundesamt f&#252;r Verfassungsschutz 
+(BVerfSchG) eine kontinuierliche Lagebeobachtung und entsprechende
+Anpassung der eigenen Ma&#223;nahmen durch, welche in eine langfristig orientierte 
+Schwerpunktsetzung und einen daran orientierten Personaleinsatz m&#252;ndet.
+Die nachrichtendienstlichen Erkenntnisse aus der Aufarbeitung der oben
+genannten Ereignisse flie&#223;en in die Ausrichtung der Arbeit ein.
+Beim BAMAD hatten die in Frage 3 dargestellten Taten keinen Einfluss auf die 
+Personalentwicklung des bei der KIA-R eingesetzten MAD-Personals oder auf 
+die dortige Schwerpunktsetzung.
+7. Welche Kenntnisse hat die Bundesregierung davon, inwiefern die in 
+Frage 3 angef&#252;hrten Attentate einen Einfluss auf die Personalentwicklung 
+innerhalb des Gemeinsamen Terrorismusabwehrzentrums (GTAZ) hatten 
+(bitte chronologisch nach Jahren aufschl&#252;sseln)?
+8. Wie sieht nach Kenntnis der Bundesregierung die angek&#252;ndigte noch
+intensivere Zusammenarbeit von Bund und L&#228;ndern im GTAZ konkret aus?
+Die Fragen 7 und 8 werden im Sachzusammenhang beantwortet.
+Die Zust&#228;ndigkeit des Gemeinsamen Terrorismusabwehrzentrums (GTAZ)
+beschr&#228;nkt sich auf Sachverhalte im Ph&#228;nomenbereich des islamistischen
+Terrorismus. Die in Frage 3 genannten rechtsterroristischen Anschl&#228;ge hatten daher 
+keinen Einfluss auf die Entsendung von Mitarbeiterinnen und Mitarbeitern der 
+Sicherheitsbeh&#246;rden des Bundes in das ausschlie&#223;lich f&#252;r islamistischen
+Terrorismus zust&#228;ndige GTAZ bzw. keine Wirkung auf die Arbeitsstrukturen und 
+-abl&#228;ufe im GTAZ.
+9. Bewertet die Bundesregierung, unter Ber&#252;cksichtigung der aufgezeigten 
+Entwicklung des global agierenden Online-Rechtsextremismus (Oslo/
+Ut&#248;ya, M&#252;nchen, New Mexico, Christchurch, Poway, El Paso und Halle), 
+die Ausgestaltung der Planstellen des BKA innerhalb der KIA-R, die
+heute bei 8,3 Planstellen liegt, als angemessene Reaktion auf die jeweils
+kontextualen Attentate?
+Das KIA-R ist unter Ber&#252;cksichtigung der bisherigen Anforderungen personell 
+ad&#228;quat ausgestattet. Es wird auf die aktuellen Planungen zur
+Weiterentwicklung der PMK -rechts- verwiesen, die auch eine St&#228;rkung des KIA-Bereiches 
+umfasst.
+10. Wie plant die Bundesregierung eine Umsetzung der geforderten
+Zentralstelle zur Bek&#228;mpfung von Hasskriminalit&#228;t?
+a) Wie viele Stellen aus welchen Beh&#246;rden sollen hier beteiligt werden?
+b) Wird es hier, aufbauend auf der Struktur der KIA-R, einen
+Schwerpunktbereich &#8222;Koordinierte Internetauswertung &#8211;
+Rechtsextremismus&#8220; geben, und wenn ja, mit wie vielen Planstellen wird dieser
+ausgestaltet?
+Die Fragen 10 bis 10b werden im Sachzusammenhang beantwortet.
+Die konkrete Umsetzung ist erst noch zu kl&#228;ren und in ihrer Ausgestaltung
+zudem abh&#228;ngig von erweiterten rechtlichen Vorgaben, die erst noch vom
+Gesetzgeber zu verabschieden sind.
+c) &#220;ber welche Tools der Internetauswertung bzw. der Gaming-
+Plattformenauswertung verf&#252;gen die Sicherheitsbeh&#246;rden nach Kenntnis 
+der Bundesregierung bereits, und wie sind diese genauer zu
+beschreiben?
+Die Bundesregierung ist nach sorgf&#228;ltiger Abw&#228;gung zu der Auffassung
+gelangt, dass eine Beantwortung der Frage nicht erfolgen kann. Die erbetenen
+Informationen sind geheimhaltungsbed&#252;rftig, da sie Informationen enthalten, die 
+im Zusammenhang mit Arbeits- und Analysemethoden von BfV, BND und BA-
+MAD stehen. Insbesondere durch Auskunft &#252;ber die verwendeten Tools zur
+Internetauswertung k&#246;nnen R&#252;ckschl&#252;sse auf die Arbeitsweise der genannten 
+Dienste gezogen werden. Der Schutz des Aufkl&#228;rungsprofils und der einzelnen 
+Aufkl&#228;rungsf&#228;higkeiten stellen f&#252;r die Aufgabenerf&#252;llung der Dienste einen 
+wichtigen Grundsatz dar. Er dient der Aufrechterhaltung der Effektivit&#228;t
+nachrichtendienstlicher Informationsbeschaffung. Eine Ver&#246;ffentlichung von
+Einzelheiten zu den Aufkl&#228;rungsaktivit&#228;ten lie&#223;e R&#252;ckschl&#252;sse auf aktuelle
+Aufkl&#228;rungsschwerpunkte und die nachrichtendienstliche Erkenntnislage zu. Eine
+Beantwortung der vorstehenden Frage &#8211; auch in eingestufter Form &#8211; k&#246;nnte somit 
+das Staatswohl gef&#228;hrden, da die Bekanntgabe unter Wahrung des
+Geheimschutzes das geringf&#252;gige Risiko des Bekanntwerdens birgt, das unter keinen 
+Umst&#228;nden hingenommen werden kann.
+d) Wie wird die Ausgestaltung einer Anlauf- und Meldestelle f&#252;r
+Hinweise auf rechtsextreme Straftaten auf Online-Plattformen aus der
+Bev&#246;lkerung konkret aussehen, und wann ist eine Umsetzung geplant?
+Das BfV hat seit dem 28. Oktober 2019 ein Kontakttelefon f&#252;r Hinweise zu 
+Rechtsextremismus, Rechtsterrorismus, Reichsb&#252;rger und Selbstverwalter
+eingerichtet. Hinweise auch auf Straftaten auf Online-Plattformen werden rund um 
+die Uhr vertraulich aufgenommen.
+11. Welche politischen Initiativen hat die Bundesregierung in der EU nach 
+den in Frage 3 angef&#252;hrten rechtsterroristischen Attentaten angesto&#223;en 
+(bitte einzeln auflisten), und welche weiteren Schritte beziehungsweise 
+Ma&#223;nahmen plant die Bundesregierung zuk&#252;nftig in der EU im
+Ph&#228;nomenbereich des global vernetzten Online-Rechtsextremismus und
+Online-Rechtsterrorismus?
+In den beiden EU-Ratsarbeitsgruppen &#8222;Terrorismus (TWP)&#8220; und &#8222;Terrorismus 
+&#8211; Internationale Aspekte (COTER)&#8220; tauschen sich die EU-Mitgliedstaaten
+regelm&#228;&#223;ig zu terroristischen Bedrohungslagen und Sicherheitsvorf&#228;llen aus, so 
+auch zu den in Frage 3 aufgef&#252;hrten Anschl&#228;gen. Zuletzt hat die
+Bundesregierung in der COTER-Sitzung am 22. Oktober 2019 sowie in der TWP-Sitzung 
+am 24. Oktober 2019 die Mitgliedstaaten zum Anschlag in Halle unterrichtet.
+Es findet zudem ein kontinuierlicher Austausch zu Erfahrungen und bew&#228;hrten 
+Verfahren zwischen den Mitgliedstaaten statt, an dem sich die Bundesregierung 
+aktiv beteiligt. Dieser Erfahrungsaustausch umfasst unter anderem die
+Bek&#228;mpfung von gewaltbereitem Rechtsextremismus und Rechtsterrorismus inklusive 
+deren Online-Dimension.
+Die Bundesregierung beabsichtigt, ihr Engagement auf dem Gebiet der
+Bek&#228;mpfung von gewaltbereitem Rechtsextremismus und Rechtsterrorismus auch 
+in der deutschen EU-Ratspr&#228;sidentschaft im zweiten Halbjahr 2020 in beiden 
+oben genannten Ratsarbeitsgruppen fortzuf&#252;hren und zu intensivieren.
+12. Wie bewertet die Bundesregierung die Forderung des
+Bundesbeauftragten f&#252;r den Datenschutz und die Informationsfreiheit Ulrich Kelber nach 
+einer empirisch fundierten Analyse und Evaluation bestehender
+Sicherheitsgesetze hinsichtlich ihrer gegenw&#228;rtigen Wirksamkeit und eines 
+&#8222;Moratoriums f&#252;r Sicherheitsgesetze&#8220; (vgl. www.zeit.de/news/2019-05/0
+8/datenschutzbeauftragter-tritt-fuer-moratorium-bei-sicherheitgesetzen-ei
+n-20190508-doc-1g99vp)?
+Die Bundesregierung betrachtet es als eine ihrer permanenten Aufgaben, die 
+Wirksamkeit der bestehenden Sicherheitsgesetze zu analysieren, dabei etwaige 
+Vollzugsdefizite zu identifizieren und zu beheben, bei Bedarf allerdings auch 
+die gesetzlichen Grundlagen an neue gesellschaftliche Entwicklungen und
+Realit&#228;ten anzupassen. Beispielsweise sah sich die Bundesregierung k&#252;rzlich
+veranlasst, nach dem furchtbaren Anschlag in Halle, der Teil einer Reihe von
+besorgniserregenden Vorf&#228;llen in der j&#252;ngeren Vergangenheit war, ein
+Ma&#223;nahmenpaket zur Bek&#228;mpfung des Rechtsextremismus und der Hasskriminalit&#228;t 
+auf den Weg zu bringen.
+13. Welche Kenntnisse hatten die bundesdeutschen Sicherheitsbeh&#246;rden vor 
+der Tat in Halle zu den konkreten (Chat-)Gruppen und Foren, innerhalb 
+derer sich Stephan B. online bewegte?
+Die Ermittlungen des Generalbundesanwalts haben keine Erkenntnisse &#252;ber
+sogenannte &#8222;Chatgruppen&#8220; erbracht, innerhalb derer sich der Beschuldigte
+Stephan B. online bewegte. Der Beschuldigte nutzte sogenannte &#8222;Imageboards&#8220;, 
+wie &#8222;nanochan&#8220;, &#8222;Julay.World&#8220; und &#8222;vch.moe&#8220;. Vor dem Anschlag auf die
+Synagoge in Halle am 9. Oktober 2019 lagen dem Generalbundesanwalt dazu
+keine Erkenntnisse vor.
+14. Welche Kenntnisse hat die Bundesregierung dazu, dass Stephan B.
+gemeinsam mit anderen (internationalen) rechtsterroristischen T&#228;terinnen 
+und T&#228;tern bzw. konkret mit David Sonboly in denselben Online-
+Gruppen, Foren und Boards aktiv war?
+a) Welche Seiten betrifft dies konkret?
+Die Fragen 14 und 14a werden gemeinsam beantwortet.
+Der Bundesregierung liegen keine Erkenntnisse dazu vor, dass Stephan B.
+gemeinsam mit anderen rechtsterroristischen T&#228;terinnen und T&#228;tern in denselben 
+Online-Gruppen, Foren und Boards aktiv war.
+b) Welche Seiten sind nach Kenntnis der Bundesregierung dar&#252;ber hinaus 
+als einschl&#228;gige Netzwerke des Online-Rechtsextremismus bekannt?
+Online-Rechtsextremismus l&#228;sst sich weder auf einzelne Seiten oder
+Plattformen noch auf einzelne Netzwerke reduzieren. Rechtsextreme Akteure und 
+Gruppierungen aus unterschiedlichen Spektren nutzen vielmehr die ganze 
+Bandbreite an Social Media und ihren M&#246;glichkeiten. Neben den g&#228;ngigen 
+Social-Media-Plattformen nutzen Rechtsextreme auch Dienste, die als
+Ausweichplattformen dienen. Sie gelten als &#8222;sichere H&#228;fen&#8220;, da L&#246;schungen dort 
+im Vergleich zu den bekannteren Plattformen nur selten erfolgen und der
+Verfolgungsdruck als geringer empfunden wird. Recherchen und das
+kontinuierliche Monitoring rechtsextremer Angebote belegen, dass sich dort, wo kaum 
+Moderation und Community-Management vorherrscht und sich
+Kommunikation ins vermeintliche Dunkelfeld verlagert, drastische Inhalte leichter finden
+lassen und schnell sogenannte &#8222;Echokammern&#8220; entstehen. Ein Beispiel ist hier die 
+russische Plattform VK, die seit Jahren zur Verbreitung expliziter und in 
+Deutschland verbotener Hasspropaganda sowie f&#252;r die internationale
+Vernetzung rechtsextremer Akteure genutzt wird. Aber auch Messenger-Dienste und 
+Kommunikationsplattformen aus dem Gaming-Kontext wie Telegram, Discord 
+oder Steam haben stark an Relevanz gewonnen. Auch Imageboards wie 4chan 
+oder das derzeit gel&#246;schte 8chan spielen eine immer gewichtigere Rolle mit 
+Blick auf rechtsextreme Vernetzung.
+Grunds&#228;tzlich k&#246;nnen Foren, Websites und Imageboards wie zum Beispiel 
+8chan und 4chan aufgrund ihrer offenen, unkontrollierten Verf&#252;gbarkeit von 
+Personen des rechtsextremistischen Spektrums instrumentalisiert werden.
+Das BfV sichtet im Rahmen des regelm&#228;&#223;igen Internetmonitorings im
+Ph&#228;nomenbereich Rechtsextremismus eine Vielzahl relevanter Internetpr&#228;senzen bzw. 
+Profile und Kan&#228;le der rechtsextremistischen Szene, unter anderem in sozialen 
+Netzwerken, Kurznachrichtendiensten oder Videoplattformen.
+Da jedoch seit geraumer Zeit vor allem in sozialen Netzwerken ein hoher Grad 
+an Fluktuation bei einschl&#228;gigen Profilen festzustellen ist, unterliegt die
+Gesamtzahl der gesichteten Internetpr&#228;senzen relativ hohen Schwankungen. Eine 
+Nennung einzelner Seiten kann daher nicht erfolgen.
+c) Liegen der Bundesregierung Erkenntnisse vor, dass Stephan B. aus 
+den Online_Netzwerken heraus Bitcoins zur Finanzierung seiner Tat 
+erhalten hat (vgl. www.zdf.de/politik/frontal-21/rechter-terror-in-halle-
+100.html), und welche Schlussfolgerungen zieht die Bundesregierung 
+hinsichtlich der Online-Finanzierung von Rechtsterrorismus?
+Nach dem bisherigen Ergebnis der Ermittlungen des Generalbundesanwalts
+erhielt der Beschuldigte Stephan B. eigenen Angaben zufolge zu einem nicht
+n&#228;her ein-grenzbaren Zeitpunkt &#252;ber das Internet eine Zuwendung in H&#246;he von 
+0,1 Bitcoins von einer unbekannten Person. Es liegen keine Erkenntnisse dazu
+vor, dass die Zuwendung der Online-Finanzierung von Rechtsterrorismus
+dienen sollte. Aus dieser Erkenntnislage lassen sich keine Schlussfolgerungen 
+ziehen.
+15. Wann, und wie wandte sich das BKA nach der Tat von Halle an den 
+Forenbetreiber der Internetplattform &#8222;meguca.org&#8220;, auf der Stephan B. 
+seine Tat ank&#252;ndigte, diese live streamte und sein &#8222;Manifest&#8220;
+ver&#246;ffentlichte (vgl. www.zdf.de/politik/frontal-21/neue-spuren-vom-halle-attenta
+eter-100.html)?
+Das Bundeskriminalamt wandte sich am 16. Oktober 2019 mit einer
+Bestandsdatenabfrage an den Betreiber des Imageboards &#8222;Meguca&#8220;.
+16. Inwieweit liegen der Bundesregierung Erkenntnisse zu den drei Personen 
+vor, die die Tat von Halle live im Stream verfolgten und nicht die Polizei 
+verst&#228;ndigten (vgl. Spiegel, Nummer 43, 19. Oktober 2019, S. 24)?
+Aus den Ermittlungen des Generalbundesanwalts gegen Stephan B. liegen
+Erkenntnisse dazu vor, dass das vom Beschuldigten gefilmte und &#252;ber einen Live-
+Stream in Echtzeit im Internet ver&#246;ffentliche Tatgeschehen &#252;ber drei IP-
+Adressen im Ausland teilweise in Ausschnitten mitverfolgt wurde. Die
+Ermittlungen zu den dahinterstehenden Personen und Hintergr&#252;nden dauern derzeit 
+noch an.
+17. Liegen der Bundesregierung Erkenntnisse dar&#252;ber vor, wie viele der 
+12700 gewaltbereiten Rechtsextremen und 43 rechten Gef&#228;hrdern, die 
+das BfV und BKA mittlerweile als zu geringe Einsch&#228;tzung bewerten 
+(vgl. www.tagesschau.de/inland/rechte-gefaehrder-101.html) innerhalb 
+der global vernetzen Online-Rechtsextremismus-Szene zu verorten sind?
+18. Liegen der Bundesregierung Erkenntnisse dazu vor, wie viele der mit 
+offenem Haftbefehl gesuchten 497 Neonazis (vgl. Bundestagsdrucksache 
+19/10886) innerhalb der global vernetzen Online-Rechtsextremismus-
+Szene zu verorten sind?
+Die Fragen 17 und 18 werden gemeinsam beantwortet.
+Eine derartige Aufschl&#252;sselung zu den Bereichen Gef&#228;hrder und offene
+Haftbefehle im Bereich der Politisch motivierten Kriminalit&#228;t -rechts- wird nicht 
+vorgenommen.
+19. Wie viele Tatverd&#228;chtige, Hausdurchsuchungen sowie Verst&#246;&#223;e gegen 
+das Waffengesetz und Waffen- bzw. Munitionsfunde wurden im
+Nachgang zu strafrechtlich relevanten Vorf&#228;llen innerhalb der Online-
+Rechtsextremismus-Szene zwischen 2011 und 2019 registriert (bitte nach 
+Jahren auff&#252;hren)?
+Eine technische Auswertung zu Frage 19 ist nicht m&#246;glich. Die angefragten 
+Angaben k&#246;nnen aus der LAPOS-Auswertedatei des BKA nicht ausgelesen 
+werden.
+20. Welche Definition haben die Sicherheitsbeh&#246;rden des Bundes von
+sogenannten Einzelt&#228;tern und &#8222;Einsamen W&#246;lfen&#8220; im Rechtsextremismus vor 
+allem in Bezug auf den virtuellen Raum (bitte nach BKA, BfV und MAD 
+auflisten)?
+Zu den genannten Begriffen existiert keine einheitliche Definition der
+Sicherheitsbeh&#246;rden.
+Nach Kenntnis des BKA bestehen zu den genannten Begriffen keine
+festgeschriebenen polizeilichen Definitionen.
+Aus Sicht des BfV handelt es sich bei Einzelt&#228;tern bzw. dem Lone Wolf-
+Terrorismus um politisch motivierte Akteure: Sie agieren erstens allein als
+Individuen, sie folgen zweitens keiner Gruppe, und ihre Handlungen sind drittens 
+selbstbestimmt. Ein Einzelt&#228;ter kann aber durchaus Angeh&#246;riger einer Gruppe 
+oder Mitglied einer Organisation gewesen oder noch sein. Der entscheidende 
+Aspekt besteht darin, dass der Anschlag oder das Attentat als konkrete
+Handlung von ihm selbst ohne Einwirkung von Hierarchie oder Struktur umgesetzt 
+wurde. Die Bezeichnung &#8222;Lone Wolf&#8220;-Terrorist steht lediglich f&#252;r die konkrete 
+Tatplanung. Sie bestreitet weder, dass die Akteure sich beispielsweise von 
+Fremdenfeindlichkeit in der Gesellschaft motiviert f&#252;hlen, noch, dass ihre
+einschl&#228;gige Gewalt- und Ideologiefixierung eine Folge der Sozialisation in der 
+rechtsextremistischen Szene und damit auch Folge eines
+Selbstradikalisierungsprozesses im Internet ist. Diese Selbstradikalisierung ohne Interaktion mit der 
+Au&#223;enwelt stellt die Sicherheitsbeh&#246;rden vor eine besondere Herausforderung.
+Aus Sicht des BAMAD l&#228;sst sich im nachrichtendienstlichen Kontext der
+Einzelt&#228;ter als Person definieren, welche alle Tatbestandsmerkmale der
+extremistischen Bestrebung im Sinne des &#167; 4 BVerfSchG in sich vereint und diese ohne 
+die Mithilfe anderer verwirklicht hat. Als &#8222;Einsamer Wolf&#8220; erscheint &#8211; im
+selben Kontext &#8211; eine Person, die Planung, Vorbereitung und Durchf&#252;hrung
+extremistisch motivierter Taten ohne Auftrag und ohne Beteiligung Dritter
+klandestin vornimmt. Die fehlende Notwendigkeit zur Absprache mit anderen
+Personen erschwert in solchen F&#228;llen das Erkennen der Planungshandlungen sowie 
+die Personenidentifikation erheblich.
+21. Wie bewertet die Bundesregierung die Rolle des Antifeminismus im
+global vernetzten Online-Rechtsextremismus und im speziellen bei der Tat 
+in Halle, und inwieweit wird der Antifeminismus bei der Bewertung als 
+Analyse- und Erfassungsmerkmal bei rechtsmotivierten Straftaten
+herangezogen?
+Der Feminismus wird im Rechtsextremismus allgemein und nicht nur im
+Bezug zum Internet als Gefahr gesehen. Feminismus f&#252;hrt nach Auffassung vieler 
+Rechtsextremisten zur Zerst&#246;rung der klassischen Familie und damit zu einer 
+Degeneration des europ&#228;ischen Kulturraums.
+Nach dieser Sichtweise bedinge der Feminismus eine niedrige Geburtenrate bei 
+den europ&#228;ischen Frauen und f&#252;hre dadurch zu einer &#220;beralterung der
+einheimischen Bev&#246;lkerung. Demgegen&#252;ber stehe eine hohe Geburtenrate bei
+muslimischen Frauen. Dieser sog. &#8222;Gro&#223;e Austausch&#8220; ist ein Leitthema im
+Rechtsextremismus und findet daher in der Bewertung entsprechend
+Ber&#252;cksichtigung.
+22. Welche konkreten Pl&#228;ne hat die Bundesregierung zur F&#246;rderung und 
+Umsetzung von De-Radikalisierungs-, von Pr&#228;ventions- und
+Interventionsprogrammen gegen global vernetzten Online-Rechtsextremismus?
+Die Bundesregierung hat vor dem Hintergrund des Anschlags in Halle ein 
+Ma&#223;nahmenpaket zur Bek&#228;mpfung des Rechtsextremismus und der
+Hasskriminalit&#228;t verabschiedet. Dieses sieht unter anderem vor, die Pr&#228;ventionsarbeit
+auszuweiten und zu verstetigen. Die Bundesregierung pr&#252;ft derzeit, wo und wie 
+eine Nachjustierung der Pr&#228;ventionsprogramme und weiterer Ma&#223;nahmen
+erforderlich ist.
+Das Bundesprogramm &#8222;Demokratie leben!&#8220; bildet eine zentrale S&#228;ule der
+Strategie der Bundesregierung zur Extremismuspr&#228;vention und
+Demokratief&#246;rderung. So ist in der zweiten F&#246;rderperiode des Bundesprogramms ab 2020
+geplant, jugendschutz.net im Handlungsbereich &#8222;Bund&#8220; als Kompetenzzentrum 
+&#8222;Netz&#8220; zu f&#246;rdern. Aufgabe des Kompetenzzentrums &#8222;Netz&#8220; wird es sein, die 
+inhaltliche Expertise in diesem Themenfeld weiterzuentwickeln und
+bundesweit zur Verf&#252;gung zu stellen. Hierf&#252;r ist eine mehrdimensionale Strategie
+vorgesehen, die zum einen extremistische Entwicklungen im Netz beobachtet und 
+analysiert, gewonnene Erkenntnisse aufbereitet und zielgruppengerecht an die 
+bundesweite Fachpraxis vermittelt und schlie&#223;lich die Expertise rund um das 
+Thema mit Unterst&#252;tzung weiterer relevanter Akteure aus dem Themenfeld im 
+In- und Ausland teilt.
+Im Bereich des Rechtsextremismus haben sich die Propagandamittel und -
+strategien in den letzten Jahren ver&#228;ndert. Deshalb ist die regelm&#228;&#223;ige Sichtung 
+und Inhaltsanalyse von relevanten rechtsextremen Profilen, Kan&#228;len und Seiten 
+auf allen g&#228;ngigen und themenrelevanten Plattformen (auch
+Ausweichplattformen oder Imageboards) wichtig, um fr&#252;hzeitig auf neue Entwicklungen und 
+Trends reagieren zu k&#246;nnen. Die aktuellen Erkenntnisse sollen durch analoge 
+wie digitale Formate kommuniziert werden und so in die Fachpraxis zur
+Pr&#228;vention und zur Medienkompetenzf&#246;rderung einflie&#223;en.
+Weiterhin wird in der n&#228;chsten F&#246;rderperiode des Bundesprogramms ein
+Kompetenznetzwerk im Themenfeld Rechtsextremismus gef&#246;rdert und etabliert. 
+Hier wird ein Zusammenschluss an erfahrenen Tr&#228;gern die fachliche
+Weiterentwicklung des Themenfeldes vorantreiben, Informationen bundesweit b&#252;ndeln, 
+fachliche Beratung bereitstellen und einen Transfer von erfolgreichen
+Pr&#228;ventionsans&#228;tzen in Bundes-, Landes- und kommunale Strukturen gew&#228;hrleisten. Im 
+Projektkontext werden Online-Entwicklungen rechtsextremer und
+rechtsalternativer Szenen und Strategien gesammelt.
+Zudem werden ab 2020 weiterhin Modellprojekte zur Pr&#228;vention von
+Rechtsextremismus gef&#246;rdert, deren Fokus unter anderem in der Entwicklung und
+Erprobung von Ans&#228;tzen liegt, die Online- und Offline-Arbeit mit Jugendlichen 
+mit Affinit&#228;t zu neu-rechten und rechtsextremen Haltungen und Gruppen
+verbinden. Weiterhin umfassen die Modellprojekte innovative Ans&#228;tze zur Fort- 
+und Weiterbildung von p&#228;dagogischen Fachkr&#228;ften, die in ihrer Arbeit mit 
+rechtsextremen oder rechtsaffinen Jugendlichen konfrontiert sind oder Ans&#228;tze 
+zur Bearbeitung spezifischer Handlungsfelder mit aktueller Relevanz wie etwa 
+Rechtsextremismus und Naturschutz oder Rechtsextremismus im Gaming-
+Kontext.
+Im Gesch&#228;ftsbereich des BMI setzt sich ferner die Bundeszentrale f&#252;r politische 
+Bildung (bpb) als Regelaufgabe gezielt mit aktuellen Formen des
+Rechtsextremismus auseinander. Im Online-Bereich gewinnt die bpb bereits seit
+Jahrzehnten Erfahrungen aus der Arbeit an der Schnittstelle von Medienp&#228;dagogik und 
+politischer Bildung und entwickelt auf dieser Basis passgenaue,
+zielgruppengerechte Ma&#223;nahmen und Formate zur nachhaltigen St&#228;rkung der Pr&#228;vention im 
+Netz. Weitere Angebote insbesondere auch f&#252;r junge, netzaffine Zielgruppen
+sollen geschaffen werden. Mit der Sensibilisierung und Qualifizierung von
+Moderatoren und anderen Verantwortlichen in Onlineforen soll f&#252;r mehr
+Aufkl&#228;rung gesorgt werden. Mit der Weiterentwicklung medienp&#228;dagogischer
+Orientierungsangebote soll Eltern und p&#228;dagogischem Personal Wissen &#252;ber
+problematische Inhalte im Netz und von Computerspielen vermittelt werden. Zudem 
+soll das im Hinblick auf Pr&#228;vention im Netz bew&#228;hrte Format der Webvideo-
+Reihen weitergef&#252;hrt und ausgebaut werden.
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/15214 -
+Global vernetzter Online-Rechtsextremismus - Sicherheitsarchitektur und Pr&#228;vention</titel>
+    <datum>2019-12-19</datum>
+  </document>

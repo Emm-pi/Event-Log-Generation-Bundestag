@@ -1,0 +1,155 @@
+<document>
+    <id>248937</id>
+    <drucksachetyp>Kleine Anfrage</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>37</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/25561</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>68cf52d224ff132631836a405006e131</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:15+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>271692</id>
+      <titel>Datensicherheit des besonderen elektronischen Anwaltspostfachs</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>FDP</bezeichnung>
+      <titel>Fraktion der FDP</titel>
+    </urheber>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/255/1925561.pdf</pdf_url>
+      <id>248937</id>
+      <dokumentnummer>19/25561</dokumentnummer>
+      <datum>2020-12-22</datum>
+      <verteildatum>2020-12-28</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Kleine Anfrage</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Fraktion der FDP</urheber>
+    </fundstelle>
+    <autoren_anzeige>
+      <id>2110</id>
+      <titel>Dr. Wieland Schinnenburg, MdB, FDP</titel>
+      <autor_titel>Wieland Schinnenburg</autor_titel>
+    </autoren_anzeige>
+    <autoren_anzeige>
+      <id>1152</id>
+      <titel>Stephan Thomae, MdB, FDP</titel>
+      <autor_titel>Stephan Thomae</autor_titel>
+    </autoren_anzeige>
+    <text>[Kleine Anfrage
+der Abgeordneten Dr. Wieland Schinnenburg, Stephan Thomae, Renata Alt, 
+Christine Aschenberg-Dugnus, Nicole Bauer, Jens Beeck, Dr. Jens Brandenburg 
+(Rhein-Neckar), Sandra Bubendorfer-Licht, Dr. Marco Buschmann, Christian D&#252;rr, 
+Dr. Marcus Faber, Daniel F&#246;st, Otto Fricke, Reginald Hanke, Peter Heidt, Katrin 
+Helling-Plahr, Markus Herbrand, Torsten Herbst, Dr. Gero Hocker, Manuel 
+H&#246;ferlin, Reinhard Houben, Ulla Ihnen, Olaf in der Beek, Pascal Kober, Carina 
+Konrad, Konstantin Kuhle, Ulrich Lechte, Alexander M&#252;ller, Dr. Martin Neumann, 
+Matthias Seestern-Pauly, Dr. Hermann Otto Solms, Bettina Stark-Watzinger, 
+Benjamin Strasser, Katja Suding, Manfred Todtenhausen, Nicole Westig, 
+Katharina Willkomm und der Fraktion der FDP
+Datensicherheit des besonderen elektronischen Anwaltspostfachs
+Die Bundesrechtanwaltskammer (BRAK) hat am 28. November 2016 f&#252;r jeden 
+Rechtsanwalt in Deutschland ein besonderes elektronisches Anwaltspostfach 
+(beA) eingerichtet (erreichbar &#252;ber www.bea-brak.de). Nach anf&#228;nglichen 
+Startproblemen und gerichtlichen Auseinandersetzungen ist das beA f&#252;r alle 
+Rechtsanw&#228;lte seit 1. Januar 2018 zu nutzen (https://www.lto.de/recht/juristen/
+b/brak-praesident-bea-anwaelte-rechtsstaat-datenschutz). Auch von
+Unstimmigkeiten bei der Begutachtung von Sicherheitsrisiken war die Rede (https://w
+ww.golem.de/news/bundesrechtsanwaltskammer-originalfassung-von-bea-sich
+erheitsgutachten-freigeklagt-2010-151190.html). Die Anforderungen an das 
+Sicherheitslevel des beA scheinen mittlerweile gekl&#228;rt zu sein (https://www.hei
+se.de/newsticker/meldung/Gericht-Durchgehende-Verschluesselung-beim-Anw
+altspostfach-nicht-noetig-4586672.html), allerdings wirft der Wechsel vom 
+bisherigen Dienstleister Atos zu Wesroc neue Sicherheitsfragen auf. Es sei 
+nicht auszuschlie&#223;en, dass der alte Dienstleister noch &#252;ber Sicherheitsschl&#252;ssel 
+verf&#252;ge. Darauf hatte ein Sachverst&#228;ndiger in der Sitzung des
+Rechtsausschusses am 16. November 2020 hingewiesen. Es bestehe die Gefahr, dass die
+gesamte Kommunikation, die &#252;ber das beA abgewickelt wird, mitgelesen werden 
+k&#246;nne. &#220;ber eine Ende-zu-Ende-Verschl&#252;sselung, die das verhindern w&#252;rde, 
+verf&#252;ge das beA nicht. Aus Sicht eines Experten sollte deshalb z&#252;gig auf die 
+Herstellung neuer Sicherheitsschl&#252;ssel hingewirkt werden. Die Frage, ob der 
+rechtm&#228;&#223;ige Betrieb des beA eine Ende-zu-Ende-Verschl&#252;sselung erfordert, 
+liegt dem Bundesgerichtshof zur Beantwortung vor (AnwZ (Brfg) 2/20). Durch 
+Unsicherheiten in der Nutzung der elektronischen Infrastruktur leidet das
+Vertrauen der B&#252;rger in den elektronischen Rechtsverkehr. Das muss nach Ansicht 
+der Fragesteller verhindert werden.
+Deutscher Bundestag Drucksache 19/25561
+19. Wahlperiode 22.12.2020
+Wir fragen die Bundesregierung:
+&#8199;1. Trifft es nach Kenntnis der Bundesregierung zu, dass die BRAK
+beziehungsweise ihre technischen Dienstleister rein technisch jede Nachricht 
+entschl&#252;sseln k&#246;nnen?
+a) Wenn ja, wie ist diese Zugriffsm&#246;glichkeit mit dem Schutz der
+Vertraulichkeit von Anwalt-Mandanten-Korrespondenz zu vereinbaren?
+b) Wenn nein, warum wurde der Hinweis laut eines Presseberichts im
+Originalgutachten der Secunet Security Networks AG entfernt (https://ww
+w.golem.de/print.php?a=151190)?
+c) Liegen die Daten w&#228;hrend der Umschl&#252;sselung unverschl&#252;sselt vor 
+und k&#246;nnten diese Daten von Dritten oder von der BRAK gelesen
+werden?
+&#8199;2. Wie wird ein &#8222;sicherer &#220;bermittlungsweg&#8220; im Sinne des &#167; 130a der
+Zivilprozessordnung (ZPO) sichergestellt?
+&#8199;3. Wie wird der Verzicht auf eine Ende-zu-Ende-Verschl&#252;sselung beim beA 
+nach Kenntnis der Bundesregierung begr&#252;ndet?
+&#8199;4. Wie wird bzw. ist ausgeschlossen, dass Dritte einen Zugriff auf den
+&#8222;privaten Schl&#252;ssel&#8220; erhalten?
+a) Wie wurde sichergestellt, dass durch den Wechsel der Dienstleister
+keine Kopien der &#8222;privaten Schl&#252;ssel&#8220; erstellt wurden?
+b) W&#228;ren (rein theoretisch) Konstellationen denkbar, in denen es m&#246;glich 
+w&#228;re, auf die &#8222;privaten Schl&#252;ssel&#8220; Zugriff zu erhalten?
+c) Trifft es zu, dass die &#8222;privaten Schl&#252;ssel&#8220; ohne Aufsicht der BRAK
+erstellt wurden?
+&#8199;5. Ist aus der Sicht der Bundesregierung erforderlich, dass auf die
+Herstellung neuer Schl&#252;ssel hingewirkt wird?
+a) Wenn ja, welche Schritte unternimmt sie?
+b) Wenn nein, warum nicht?
+c) Wie oft werden die jeweilig verwendeten Schl&#252;ssel und Zertifikate
+jeweils erneuert?
+&#8199;6. Welche Schwachstellen beim beA sind nach Freischaltung aufgedeckt und 
+beseitigt worden (bitte anhand Zeitstrahl detailliert auflisten)?
+&#8199;7. Gibt es aktuell Sicherheitsl&#252;cken, an deren Behebung nach Kenntnis der 
+Bundesregierung aktuell gearbeitet wird?
+a) Wenn ja, welche sind das, und bis wann werden sie behoben?
+b) Wenn nein, wie werden Sicherheitsl&#252;cken ausgeschlossen, bzw. woran 
+kann man das Nichtbestehen solcher L&#252;cken festmachen?
+&#8199;8. Wie wird das aktuelle Sicherheitsregelwerk beschrieben?
+&#8199;9. Wie und durch wen werden St&#246;rungen der IT-Sicherheitsarchitektur nach 
+Kenntnis der Bundesregierung behoben?
+a) Gibt es einen Notfallplan, und wie sieht er aus?
+b) Wenn nein, warum nicht?
+10. Welche Sicherheitstests und Sicherheitsanalysen des beA hat es nach 
+Kenntnis der Bundesregierung bisher gegeben, und was waren jeweils die 
+Ergebnisse?
+11. Auf welcher Serverarchitektur wird das beA nach Kenntnis der
+Bundesregierung betrieben?
+a) Welche Betriebssysteme in welcher Version werden verwendet?
+b) Welche Webserver-Software in welcher Version wird verwendet?
+c) Welche Webserver-Module und Erweiterungen in welchen Versionen 
+werden verwendet?
+12. Ist es nach Kenntnis der Bundesregierung geplant, die Authentifizierung 
+beim beA zu vereinfachen und etwa auch eine App-basierte
+Authentifizierung oder weitere Verfahren einzuf&#252;hren?
+13. Ist nach Kenntnis der Bundesregierung eine Offenlegung des beA-
+Quellcodes geplant?
+a) Sollten Lizenzrechte Dritter einer vollst&#228;ndigen Offenlegung
+entgegenstehen, ist eine teilweise Offenlegung der &#252;brigen Teile des Quellcodes 
+geplant?
+b) Falls nein, warum nicht?
+14. Hat die Bundesregierung Kenntnis &#252;ber Pl&#228;ne die Weiterentwicklung hin 
+zu einem sogenannten beA 2.0 betreffend, welches konzeptionelle
+Schw&#228;chen der aktuellen Version, insbesondere den Verzicht auf durchgehende 
+Ende-zu-Ende-Verschl&#252;sselung, angeht?
+Berlin, den 8. Dezember 2020
+Christian Lindner und Fraktion
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>Datensicherheit des besonderen elektronischen Anwaltspostfachs</titel>
+    <datum>2020-12-22</datum>
+  </document>
+  

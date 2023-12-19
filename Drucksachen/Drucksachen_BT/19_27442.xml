@@ -1,0 +1,2101 @@
+<document>
+    <id>251329</id>
+    <drucksachetyp>Gesetzentwurf</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/27442</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>64e0c8ef5b4e2cec12acf98edafb9b65</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>273941</id>
+      <titel>Gesetz zur &#196;nderung des E-Government-Gesetzes und zur Einf&#252;hrung des Gesetzes f&#252;r die Nutzung von Daten des &#246;ffentlichen Sektors</titel>
+      <vorgangstyp>Gesetzgebung</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium des Innern, f&#252;r Bau und Heimat</titel>
+    </ressort>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium f&#252;r Wirtschaft und Energie</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/274/1927442.pdf</pdf_url>
+      <id>251329</id>
+      <dokumentnummer>19/27442</dokumentnummer>
+      <datum>2021-03-09</datum>
+      <verteildatum>2021-03-09</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Gesetzentwurf</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Deutscher Bundestag Drucksache 19/27442 
+19. Wahlperiode 09.03.2021 
+Gesetzentwurf
+der Bundesregierung
+Entwurf eines Gesetzes zur &#196;nderung des E-Government-Gesetzes und zur 
+Einf&#252;hrung des Gesetzes f&#252;r die Nutzung von Daten des &#246;ffentlichen Sektors
+A. Problem und Ziel
+Die Bundesregierung hat mit den Eckpunkten einer Datenstrategie vom 18.
+November 2019 beschlossen, den Bund als Vorreiter und Treiber einer verst&#228;rkten
+Datenbereitstellung und Datennutzung zu etablieren. Dies f&#252;gt sich auch in den
+Kontext der europ&#228;ischen Datenpolitik: Mit der europ&#228;ischen Datenstrategie vom
+19. Februar 2020 (COM(2020) 66 final) formuliert die Europ&#228;ische Kommission
+die Vision eines echten Datenbinnenmarktes. 
+Die nationale und europ&#228;ische Datenpolitik identifiziert &#246;ffentlich finanzierte
+Daten als wesentlichen Beitrag f&#252;r den Erfolg datenbasierter Schl&#252;sseltechnologien
+wie K&#252;nstlicher Intelligenz in Europa. So sieht auch die Strategie K&#252;nstliche
+Intelligenz der Bundesregierung (&#8222;KI-Strategie der Bundesregierung&#8220;) von
+November 2018 vor, dass die datenschutzkonforme Bereitstellung offener
+Verwaltungsdaten f&#252;r die uneingeschr&#228;nkte Weiternutzung k&#252;nftig ausgeweitet werden soll
+(S. 32). Daten sind die ma&#223;gebliche Ressource f&#252;r den Fortschritt der
+Digitalisierung. Der weltweit gr&#246;&#223;te Binnenmarkt bietet die Chance, unionsweit Daten des
+&#246;ffentlichen Sektors einheitlich bereitzustellen und nutzbar zu machen. Die
+europ&#228;ischen Datensch&#228;tze sollen die Grundlage f&#252;r Mehrwertdienste bilden.  
+Schwierigkeiten ergeben sich bislang aus einer beschr&#228;nkten Verf&#252;gbarkeit, etwa
+aus rechtlicher Unsicherheit oder wegen fehlender Anreize. Ebenso k&#246;nnen sich
+Einschr&#228;nkungen der Nutzbarkeit aus rechtlichen oder praktischen Gr&#252;nden (z. B.
+entgegenstehende Rechte Dritter, unterschiedliche Formate, veraltete Daten)
+ergeben.
+F&#252;r die Wirtschaft, insbesondere f&#252;r kleinere und mittlere Unternehmen (KMU)
+und Start-ups, bieten offene maschinenlesbare Daten, gerade in Echtzeit, gro&#223;e
+Potenziale f&#252;r innovative Gesch&#228;ftsmodelle. Gleichzeitig bewirken offene Daten,
+dass Verwaltungsprozesse effektiver, transparenter und nachvollziehbarer
+werden. Offene Daten wirken sich positiv auf die b&#252;rgerliche Teilhabe und die
+Zivilgesellschaft aus, bef&#246;rdern das Vertrauen in staatliches Handeln und bilden die
+Grundlage f&#252;r Wertsch&#246;pfung und Innovation. Ebenso profitieren Wissenschaft
+und Forschung von der verbesserten Bereitstellung und Nutzung von Daten des
+&#246;ffentlichen Sektors.
+Dieser Gesetzentwurf dient der Weiterentwicklung der Politik offener Daten
+(Open Data). Damit kommt die Bundesregierung der Vereinbarung aus dem
+Koalitionsvertrag zwischen CDU, CSU und SPD der 19. Legislaturperiode nach,
+die Verpflichtung zur Bereitstellung offener Daten auszuweiten. 
+B. L&#246;sung
+Um die Potenziale der Politik offener Daten voll auszusch&#246;pfen, soll die
+Verf&#252;gbarkeit von Daten der Bundesverwaltung weiter gesteigert werden. Des Weiteren
+soll die Nutzbarkeit offener Daten verbessert werden. 
+Durch diesen Gesetzentwurf wird in Umsetzung der Datenstrategie der
+Bundesregierung ein erster Regelungsrahmen geschaffen, der die Verbesserung der
+Datenbereitstellung sowie die Steigerung von Standardisierung und Interoperabilit&#228;t
+adressiert. Zugleich dient der Gesetzentwurf der Umsetzung der neugefassten
+Richtlinie (EU) 2019/1024 des Europ&#228;ischen Parlamentes und des Rates vom
+20. Juni 2019 &#252;ber offene Daten und die Weiterverwendung von Informationen
+des &#246;ffentlichen Sektors (Open-Data- und PSI-Richtlinie), die die unionsweite
+Nutzung offener Daten weiter harmonisiert. Dazu wird ein Datennutzungsgesetz
+(DNG) eingef&#252;hrt, das das Informationsweiterverwendungsgesetz abl&#246;st. Dabei
+gelten bestehende Grunds&#228;tze der Nichtdiskriminierung und des Verbots von
+Ausschlie&#223;lichkeitsvereinbarungen nunmehr auch f&#252;r &#246;ffentliche Unternehmen
+bestimmter Bereiche der Daseinsvorsorge. Die Nutzung dynamischer Daten
+sowie hochwertiger Datens&#228;tze, die besonderes sozio-&#246;konomisches Potenzial
+aufweisen, wird in Echtzeit erm&#246;glicht. 
+Der Gesetzentwurf greift neben den Erkenntnissen des 1. Open-Data-
+Fortschrittsberichtes der Bundesregierung und der &#8222;Open Data Reifegradstudie 2019&#8220;
+(englischsprachiges Original: &#8222;Open Data Maturity Report 2019&#8220;) des Europ&#228;ischen
+Datenportals der Europ&#228;ischen Kommission auch die Empfehlungen der
+Datenethikkommission und die KI-Strategie der Bundesregierung sowie Empfehlungen
+aus der Online-Konsultation zur Datenstrategie der Bundesregierung auf.
+Die Verpflichtung zur Bereitstellung unbearbeiteter, maschinenlesbarer Daten der
+unmittelbaren Bundesverwaltung wird in &#167; 12a des E-Government-Gesetzes auf
+die gesamte Bundesverwaltung mit Ausnahme der
+Selbstverwaltungsk&#246;rperschaften und von Beliehenen ausgeweitet. Damit werden erstmals unbearbeitete
+Forschungsdaten miterfasst, die erhebliche Potenziale zur Verbesserung von
+Transparenz, &#220;berpr&#252;fbarkeit und Austausch in der Forschung bergen.
+Zur Verbesserung der Nutzbarkeit von Daten m&#252;ssen offene Daten nach dem
+DNG k&#252;nftig, soweit m&#246;glich und sinnvoll, in maschinenlesbarem Format
+bereitgestellt werden. Dar&#252;ber hinaus setzt das DNG Impulse f&#252;r Open-Data-Initiativen 
+&#252;ber die Grenzen der Bundesverwaltung hinaus. Das DNG erweitert den
+Anwendungsbereich auf &#246;ffentliche Unternehmen bestimmter Bereiche der
+Daseinsvorsorge, sch&#228;rft die Grenzen der Entgeltbemessung und bestimmt die Echtzeit-
+Bereitstellung dynamischer Daten sowie hochwertiger Datens&#228;tze.  
+C. Alternativen
+Die Ausweitung des Anwendungsbereichs des &#167; 12a des E-Government-Gesetzes
+dient der im Koalitionsvertrag f&#252;r die 19. Wahlperiode festgelegten Ausweitung
+der Bereitstellung offener Daten durch ein Zweites Open-Data-Gesetz. 
+Von einer Verpflichtung von Selbstverwaltungsk&#246;rperschaften und Beliehenen
+wurde abgesehen, um die Belastung zu begrenzen.
+Eine vollst&#228;ndige Streichung der bisherigen Ausnahme f&#252;r Forschungsdaten
+wurde erwogen. Mit R&#252;cksicht auf die Diversit&#228;t der Akteure und die besonderen
+Rahmenbedingungen und Anforderungen an Finanzierungsstrukturen der
+Forschung sind Forschungsdaten aber weiterhin unter bestimmten Bedingungen von
+der Bereitstellungspflicht ausgenommen.
+Zur Sicherstellung der Datenbereitstellung und zum notwendigen Aufbau
+weiterer Open-Data-Kompetenzen in den Beh&#246;rden bedarf es einer verantwortlichen
+Stelle, die die Koordinierung der Anforderungen in Bezug auf die Bereitstellung
+von Daten und ihre Anbindung an das nationale Metadatenportal GovData
+verantwortet. Auf die Einbeziehung der mittelbaren Bundesverwaltung sowie
+kleinerer Beh&#246;rden der unmittelbaren Bundesverwaltung wurde verzichtet, um die 
+Verh&#228;ltnism&#228;&#223;igkeit der Anforderungen zu wahren. 
+Das DNG dient der Umsetzung der Vorgaben aus der Open-Data- und PSI-
+Richtlinie. Erw&#228;gungsgrund 19 ermutigt die Mitgliedstaaten dazu, &#252;ber die
+Mindestanforderung der Richtlinie im Hinblick auf &#246;ffentliche Unternehmen
+hinauszugehen. Die Mitgliedstaaten k&#246;nnten demnach die Ausnahme f&#252;r &#246;ffentliche
+Unternehmen, die im Wettbewerb stehen, nicht umsetzen oder die Anforderungen der
+Richtlinie auf private Unternehmen, die Dienstleistungen von allgemeinem
+Interesse erbringen, erstrecken. Von diesen M&#246;glichkeiten sieht der Gesetzentwurf ab
+und beschr&#228;nkt sich auf Anforderungen f&#252;r die Nutzung &#246;ffentlich finanzierter
+Daten. Grund daf&#252;r sind die strukturellen Unterschiede zwischen &#246;ffentlichen und
+privaten Unternehmen. &#220;ber die ausgef&#252;hrten Punkte hinaus sind Alternativen 
+nicht ersichtlich.  
+D. Haushaltsausgaben ohne Erf&#252;llungsaufwand
+Dieser Gesetzentwurf hat neben dem Erf&#252;llungsaufwand keine unmittelbaren 
+Auswirkungen auf die Haushaltsausgaben. Durch die Bereitstellung von Daten
+der Beh&#246;rden des Bundes werden Nutzungsm&#246;glichkeiten geschaffen, die in
+einem Umfang, der gegenw&#228;rtig nicht n&#228;her bezifferbar ist, Auswirkungen auf das
+Steueraufkommen des Bundes und der L&#228;nder haben k&#246;nnen. 
+Alle mit dem Gesetzentwurf im Zusammenhang stehenden und auf den Bund
+entfallenden Mehrbedarfe an Sach- und Personalmitteln,
+Verpflichtungserm&#228;chtigungen sowie Planstellen und Stellen sind unmittelbar, vollst&#228;ndig und dauerhaft
+in den jeweiligen Einzelpl&#228;nen gegenzufinanzieren.
+E. Erf&#252;llungsaufwand
+E.1 Erf&#252;llungsaufwand f&#252;r B&#252;rgerinnen und B&#252;rger
+F&#252;r B&#252;rgerinnen und B&#252;rger ergibt sich keine &#196;nderung des
+Erf&#252;llungsaufwandes. 
+E.2 Erf&#252;llungsaufwand f&#252;r die Wirtschaft
+F&#252;r die Wirtschaft ergibt sich keine &#196;nderung des Erf&#252;llungsaufwandes. Es
+werden keine Informationspflichten neu eingef&#252;hrt, ge&#228;ndert oder aufgehoben.
+E.3 Erf&#252;llungsaufwand der Verwaltung
+F&#252;r die Verwaltung erh&#246;ht sich der j&#228;hrliche Erf&#252;llungsaufwand um gesch&#228;tzte
+8,4 Millionen Euro. Der einmalige Erf&#252;llungsaufwand betr&#228;gt rund 18,7
+Millionen Euro. Der Aufwand, der sich aus Artikel 1 dieses Gesetzentwurfs ergibt,
+entf&#228;llt vollst&#228;ndig auf die Bundesverwaltung. Im Einzelfall kann der
+Kommunalverwaltung aus den Regelungen des DNG (Artikel 2 dieses Gesetzentwurfs) ein
+j&#228;hrlicher Erf&#252;llungsaufwand von 3.000 Euro je Fall entstehen ebenso wie
+weiterer einmaliger Erf&#252;llungsaufwand von 15.000 Euro je Fall. 
+F. Weitere Kosten
+Insgesamt sind positive volkswirtschaftliche Effekte zu erwarten. Die Studie &#8222;The
+Economic Impact of Open Data &#8211; Opportunities for value creation in Europe&#8220; der
+Europ&#228;ischen Kommission aus dem Jahr 2020 geht davon aus, dass durch die
+Bereitstellung und Nutzung offener Daten j&#228;hrliche Kosteneinsparungen zwischen
+250 Millionen Euro und 14,8 Milliarden Euro in der &#246;ffentlichen Verwaltung
+innerhalb der Europ&#228;ischen Union erreicht werden k&#246;nnen. Weiterhin ist davon
+auszugehen, dass die Bereitstellung und Nutzung von offenen Daten positive
+Auswirkungen auf den Arbeitsmarkt entfaltet. Studien der Europ&#228;ischen Zentralbank,
+des European Economic Forecast und des Europ&#228;ischen Zentrums f&#252;r die
+F&#246;rderung der Berufsbildung gehen davon aus, dass bis zum Jahr 2025 innerhalb der
+Europ&#228;ischen Union 1,12 bis 1,97 Millionen Arbeitspl&#228;tze mit Open-Data-Bezug
+bestehen werden, was die Schaffung von weiteren mindestens 33.000 und bis zu
+883.000 Arbeitspl&#228;tzen impliziert.
+BUNDESREPUBLIK DEUTSCHLAND Berlin, 9. M&#228;rz 2021
+DIE BUNDESKANZLERIN 
+An den
+Pr&#228;sidenten des
+Deutschen Bundestages
+Herrn Dr. Wolfgang Sch&#228;uble 
+Platz der Republik 1
+11011 Berlin
+Sehr geehrter Herr Pr&#228;sident,
+hiermit &#252;bersende ich den von der Bundesregierung beschlossenen
+Entwurf eines Gesetzes zur &#196;nderung des E-Government-Gesetzes und zur
+Einf&#252;hrung des Gesetzes f&#252;r die Nutzung von Daten des &#246;ffentlichen Sektors 
+mit Begr&#252;ndung und Vorblatt (Anlage 1).
+Ich bitte, die Beschlussfassung des Deutschen Bundestages herbeizuf&#252;hren.
+Federf&#252;hrend sind das Bundesministerium f&#252;r Wirtschaft und Energie und das
+Bundesministerium des Innern, Bau und Heimat.
+Die Stellungnahme des Nationalen Normenkontrollrates gem&#228;&#223; &#167; 6 Absatz 1 NKRG
+ist als Anlage 2 beigef&#252;gt.
+Der Gesetzentwurf ist dem Bundesrat am 12. Februar 2021 als besonders
+eilbed&#252;rftig zugeleitet worden.
+Die Stellungnahme des Bundesrates zu dem Gesetzentwurf sowie die Auffassung
+der Bundesregierung zu der Stellungnahme des Bundesrates werden unverz&#252;glich
+nachgereicht.
+Mit freundlichen Gr&#252;&#223;en
+Dr. Angela Merkel
+Anlage 1
+Entwurf eines Gesetzes zur &#196;nderung des E-Government-Gesetzes und zur
+Einf&#252;hrung des Gesetzes f&#252;r die Nutzung von Daten des &#246;ffentlichen Sektors* 
+Vom ...
+Der Bundestag hat das folgende Gesetz beschlossen:
+Artikel 1
+&#196;nderung des E-Government-Gesetzes
+Das E-Government-Gesetz in der Fassung der Bekanntmachung vom 25. Juli 2013 (BGBl. I S. 2749), das
+zuletzt durch Artikel 2 des Gesetzes vom 3. Dezember 2020 (BGBl. I S. 2668) ge&#228;ndert worden ist, wird wie folgt
+ge&#228;ndert:
+1. In der Inhalts&#252;bersicht wird die Angabe zu &#167; 12a wie folgt gefasst:
+&#8222;&#167; 12a Offene Daten des Bundes, Verordnungserm&#228;chtigung&#8220;.
+2. In &#167; 12 Absatz 1 Satz 1 wird das Wort &#8222;Informationsweiterverwendungsgesetzes&#8220; durch das Wort
+&#8222;Datennutzungsgesetzes&#8220; ersetzt.
+3. &#167; 12a wird wie folgt ge&#228;ndert:
+a) Die &#220;berschrift wird wie folgt gefasst:
+ &#8222;&#167; 12a
+Offene Daten des Bundes, Verordnungserm&#228;chtigung&#8220;.
+b) Absatz 1 wird wie folgt gefasst:
+&#8222;(1) Die Beh&#246;rden des Bundes mit Ausnahme der Selbstverwaltungsk&#246;rperschaften stellen
+unbearbeitete maschinenlesbare Daten, die sie zur Erf&#252;llung ihrer &#246;ffentlich-rechtlichen Aufgaben erhoben 
+haben oder durch Dritte in ihrem Auftrag haben erheben lassen, zum Datenabruf &#252;ber &#246;ffentlich
+zug&#228;ngliche Netze bereit. Ein Anspruch auf Bereitstellung dieser Daten wird hierdurch nicht begr&#252;ndet.
+Satz 1 gilt nicht f&#252;r nat&#252;rliche Personen und juristische Personen des Privatrechts, denen hoheitliche 
+Aufgaben zur selbst&#228;ndigen Wahrnehmung &#252;bertragen wurden.&#8220;
+c) Absatz 2 wird wie folgt ge&#228;ndert:
+aa) In Nummer 3 werden die W&#246;rter &#8222;der unmittelbaren Bundesverwaltung&#8220; durch die W&#246;rter &#8222;des
+Bundes&#8220; ersetzt.
+bb) Nummer 4 wird wie folgt gefasst:
+&#8222;4. nach der Erhebung keine Bearbeitung erfahren haben, ausgenommen eine Bearbeitung,  
+a) die der Fehlerbereinigung dient oder
+* Dieses Gesetz dient der Umsetzung der Richtlinie (EU) 2019/1024 des Europ&#228;ischen Parlaments und des Rates vom 20. Juni 2019 &#252;ber offene
+Daten und die Weiterverwendung von Informationen des &#246;ffentlichen Sektors (ABl. L 172 vom 26.6.2019, S. 56).
+b) die aus rechtlichen oder aus tats&#228;chlichen Gr&#252;nden erfolgt ist und ohne die eine
+Ver&#246;ffentlichung der Daten nicht m&#246;glich w&#228;re, und&#8220;.
+cc) Nummer 5 wird wie folgt gefasst:
+&#8222;5. bei Personenbezug derart umgewandelt wurden, dass
+a) sie sich nicht mehr auf eine identifizierte oder identifizierbare nat&#252;rliche Person
+beziehen oder
+b) die betroffene Person nicht oder nicht mehr identifiziert werden kann.&#8220;
+d) Absatz 3 wird wie folgt ge&#228;ndert:
+aa) In Nummer 1 Buchstabe a wird die Angabe &#8222;&#167;&#167; 3 bis 6&#8220; durch die Angabe &#8222;&#167;&#167; 3, 4 und 6&#8220; ersetzt.
+bb) In Nummer 2 wird das Wort &#8222;oder&#8220; durch ein Komma ersetzt. 
+cc) Nummer 3 wird wie folgt gefasst:
+&#8222;3. es sich um Daten handelt, die zu Forschungszwecken erhoben wurden und bereits &#252;ber
+&#246;ffentlich zug&#228;ngliche Netze entgeltfrei bereitgestellt werden; die M&#246;glichkeit der freiwilligen 
+Bereitstellung dazugeh&#246;riger Metadaten &#252;ber das nationale Metadatenportal GovData bleibt
+davon unber&#252;hrt, oder&#8220;.
+dd) Folgende Nummer 4 wird angef&#252;gt:
+&#8222;4. die Daten unter das Bankgeheimnis fallen.&#8220; 
+e) Nach Absatz 3 wird folgender Absatz 3a eingef&#252;gt:
+&#8222;(3a) Abweichend von Absatz 1 Satz 1 m&#252;ssen Datens&#228;tze, die personenbezogene Daten enthalten,
+nicht bereitgestellt werden.&#8220; 
+f) Dem Absatz 4 wird folgender Satz angef&#252;gt:
+&#8222;Sofern sich aus spezialgesetzlichen Regelungen nichts anderes ergibt, sind abweichend von Satz 1
+Daten, die zu Forschungszwecken erhoben wurden, erst bereitzustellen, wenn das der Datenerhebung
+zugrunde liegende Forschungsvorhaben abgeschlossen und der Forschungszweck erf&#252;llt ist. Der f&#252;r die 
+freiwillige Teilnahme an einer Forschungsma&#223;nahme festgelegte Zweck gilt unbeschadet hiervon fort.&#8220; 
+g) Absatz 5 wird wie folgt gefasst:
+&#8222;(5) Die Daten nach Absatz 1 Satz 1 sind mit Metadaten zu versehen. Diese Metadaten werden im
+nationalen Metadatenportal GovData eingestellt.&#8220;
+h) In den Abs&#228;tzen 7 und 8 werden jeweils die W&#246;rter &#8222;der unmittelbaren Bundesverwaltung&#8220; durch die
+W&#246;rter &#8222;des Bundes&#8220; ersetzt.
+i) Nach Absatz 8 wird folgender Absatz 9 eingef&#252;gt:
+&#8222;(9) Jede Beh&#246;rde der unmittelbaren Bundesverwaltung mit mehr als 50 Besch&#228;ftigten mit
+Ausnahme der in &#167; 3 Nummer 8 des Informationsfreiheitsgesetzes genannten Stellen sowie von
+Hauptzoll&#228;mtern oder vergleichbaren &#246;rtlichen Bundesbeh&#246;rden benennt einen Open-Data-Koordinator oder eine
+Open-Data-Koordinatorin. Der Koordinator oder die Koordinatorin wirkt in der Funktion als zentraler
+Ansprechpartner oder zentrale Ansprechpartnerin der jeweiligen Beh&#246;rde auf die Identifizierung,
+Bereitstellung und Weiterverwendung der offenen Daten seiner oder ihrer Beh&#246;rde hin. Die M&#246;glichkeit
+der freiwilligen Benennung entsprechender Open-Data-Koordinatoren oder Open-Data-
+Koordinatorinnen in den &#252;brigen Beh&#246;rden der Bundesverwaltung bleibt davon unber&#252;hrt.&#8220;
+j) Die bisherigen Abs&#228;tze 9 und 10 werden die Abs&#228;tze 10 und 11.
+k) In dem neuen Absatz 11 werden die W&#246;rter &#8222;der unmittelbaren Bundesverwaltung&#8220; durch die W&#246;rter
+&#8222;des Bundes&#8220; ersetzt.
+l) Folgender Absatz 12 wird angef&#252;gt:
+&#8222;(12) Die Bundesregierung wird erm&#228;chtigt, durch Rechtsverordnung ohne Zustimmung des
+Bundesrates Bestimmungen zum Bereitstellungsprozess der Daten nach Absatz 1 Satz 1 zu erlassen.&#8220;
+4. &#167; 19 wird wie folgt ge&#228;ndert:
+a) Absatz 2 Satz 1 wird wie folgt gefasst:
+&#8222;Die Beh&#246;rden der mittelbaren Bundesverwaltung stellen die Daten nach &#167; 12a sp&#228;testens zw&#246;lf
+Monate nach dem &#8230; [einsetzen: Datum des Inkrafttretens dieses Gesetzes] erstmals bereit.&#8220;
+b) Folgender Absatz 3 wird angef&#252;gt:
+&#8222;(3) Abweichend von den Abs&#228;tzen 1 und 2 und unbeschadet der Regelung in &#167; 12a Absatz 4
+Satz 3 stellen Beh&#246;rden des Bundes Daten, die zu Forschungszwecken erhoben wurden, sp&#228;testens 36
+Monate nach dem &#8230; [einsetzen: Datum des Inkrafttretens dieses Gesetzes] erstmals bereit.&#8220; 
+Artikel 2
+Gesetz f&#252;r die Nutzung von Daten des &#246;ffentlichen Sektors
+(Datennutzungsgesetz &#8211; DNG)
+&#167; 1
+Grundsatz der offenen Daten
+(1) Daten, die in den Anwendungsbereich dieses Gesetzes fallen, sollen, soweit m&#246;glich und sinnvoll, nach
+dem Grundsatz &#8222;konzeptionell und standardm&#228;&#223;ig offen&#8220; erstellt werden.  
+(2) Eine Bereitstellungspflicht oder ein Anspruch auf Zugang zu Daten wird mit diesem Gesetz nicht
+begr&#252;ndet.
+&#167; 2
+Anwendungsbereich
+(1)  Dieses Gesetz gilt f&#252;r Daten von Datenbereitstellern nach Absatz 2, die
+1. aufgrund eines gesetzlichen Anspruchs auf Zugang bereitgestellt werden, 
+2. aufgrund einer gesetzlichen Bereitstellungspflicht bereitgestellt werden oder
+3. freiwillig bereitgestellt werden.
+(2) Datenbereitsteller im Sinne dieses Gesetzes sind
+1. &#246;ffentliche Stellen;
+2. &#246;ffentliche Unternehmen, die auf den Gebieten der Wasserversorgung, Energieversorgung und des Verkehrs
+t&#228;tig sind;
+3. in Bezug auf Forschungsdaten, die &#246;ffentlich finanziert und bereits &#252;ber ein institutionelles oder thematisches
+Repositorium &#246;ffentlich bereitgestellt wurden:
+a) Hochschulen, Forschungseinrichtungen und Forschungsf&#246;rdereinrichtungen,
+b) Forschende, wenn die Forschungsdaten nicht bereits durch andere durch dieses Gesetz verpflichtete 
+Datenbereitsteller bereitgestellt wurden;
+dies gilt nicht, soweit berechtigte Gesch&#228;ftsinteressen, Wissenstransfert&#228;tigkeiten oder bestehende Rechte
+Dritter an geistigem Eigentum entgegenstehen.
+(3) Dieses Gesetz gilt nicht f&#252;r
+1. Daten,
+a) die nicht oder nur eingeschr&#228;nkt zug&#228;nglich sind, wobei eine Einschr&#228;nkung auch vorliegt, wenn der
+Zugang nur bei Nachweis eines rechtlichen oder berechtigten Interesses besteht; nicht oder nur
+eingeschr&#228;nkt zug&#228;nglich sind Daten insbesondere,
+aa) soweit der Schutz personenbezogener Daten entgegensteht, 
+bb) soweit der Schutz von Gesch&#228;ftsgeheimnissen entgegensteht, 
+cc) soweit der Schutz der nationalen Sicherheit, der Verteidigung oder der &#246;ffentlichen Sicherheit
+entgegensteht,
+dd) soweit die Eigenschaft als vertrauliche Informationen &#252;ber den Schutz kritischer Infrastrukturen
+entgegensteht oder
+ee) soweit die statistische Geheimhaltung entgegensteht,
+b) die geistiges Eigentum Dritter betreffen, 
+c) die nach den Vorschriften des Bundes oder der L&#228;nder &#252;ber den Zugang der &#214;ffentlichkeit zu
+Umweltinformationen zug&#228;nglich sind und uneingeschr&#228;nkt, kostenlos, maschinenlesbar und &#252;ber eine
+Anwendungsprogrammierschnittstelle nutzbar sind oder
+d) deren Bereitstellung nicht unter den durch Rechtsvorschrift festgelegten &#246;ffentlichen Auftrag der
+&#246;ffentlichen Stelle f&#228;llt;
+2. Daten &#246;ffentlicher Unternehmen,
+a) die nicht im Rahmen der T&#228;tigkeit als &#246;ffentliches Unternehmen nach Absatz 2 Nummer 2 erstellt
+wurden;
+b) die mit unmittelbar dem Wettbewerb ausgesetzten T&#228;tigkeiten zusammenh&#228;ngen und daher gem&#228;&#223;
+Artikel 34 der Richtlinie 2014/25/EU des Europ&#228;ischen Parlaments und des Rates vom 26. Februar 2014
+&#252;ber die Vergabe von Auftr&#228;gen durch Auftraggeber im Bereich der Wasser-, Energie- und
+Verkehrsversorgung sowie der Postdienste und zur Aufhebung der Richtlinie 2004/17/EG (ABl. L 94 vom
+28.3.2014, S. 243), die zuletzt durch die Delegierte Verordnung (EU) 2019/1829 (ABl. L 279 vom
+31.10.2019, S. 27) ge&#228;ndert worden ist, nicht den Vorschriften f&#252;r die Auftragsvergabe unterliegen und 
+deren Nutzung zu einem Wettbewerbsnachteil f&#252;hrt;
+3. Logos, Wappen und Insignien;
+4. Daten von &#246;ffentlich-rechtlichen Rundfunkanstalten oder deren Beauftragten, die der Wahrnehmung eines
+&#246;ffentlichen Programm- oder Sendeauftrags dienen;
+5. Daten von kulturellen Einrichtungen, au&#223;er Bibliotheken, Museen und Archiven; Absatz 2 Nummer 3 findet
+auf Bibliotheken, Museen und Archive keine Anwendung;
+6. Daten von Bildungseinrichtungen der Sekundarstufe und darunter; bei allen sonstigen Bildungseinrichtungen
+gilt dieses Gesetz nicht f&#252;r Daten, die keine Forschungsdaten sind.
+(4) Die Bestimmungen zum Schutz personenbezogener Daten und weitergehende Anforderungen an die
+Bereitstellung und Nutzung der Daten von Datenbereitstellern aus anderen Rechtsvorschriften bleiben unber&#252;hrt.
+(5) &#214;ffentliche Stellen berufen sich im Anwendungsbereich dieses Gesetzes nicht auf Rechte des
+Datenbankherstellers nach &#167; 87b des Urheberrechtsgesetzes.
+&#167; 3
+Begriffsbestimmungen 
+Im Sinne dieses Gesetzes
+1. sind &#246;ffentliche Stellen 
+a) Gebietsk&#246;rperschaften, einschlie&#223;lich ihrer Sonderverm&#246;gen,
+b) andere juristische Personen des &#246;ffentlichen und des privaten Rechts, die zu dem besonderen Zweck 
+gegr&#252;ndet wurden, im Allgemeininteresse liegende Aufgaben nichtgewerblicher Art zu erf&#252;llen, wenn 
+aa) sie &#252;berwiegend von Stellen nach Buchstabe a oder Buchstabe c einzeln oder gemeinsam durch
+Beteiligung oder auf sonstige Weise finanziert werden,
+bb) ihre Leitung der Aufsicht durch Stellen nach Buchstabe a oder Buchstabe c unterliegt oder
+cc) mehr als die H&#228;lfte der Mitglieder eines ihrer zur Gesch&#228;ftsf&#252;hrung oder zur Aufsicht berufenen
+Organe durch Stellen nach Buchstabe a oder Buchstabe c bestimmt worden sind;
+dasselbe gilt, wenn diese juristische Person einer anderen juristischen Person des &#246;ffentlichen oder
+privaten Rechts einzeln oder gemeinsam mit anderen die &#252;berwiegende Finanzierung gew&#228;hrt, &#252;ber deren
+Leitung die Aufsicht aus&#252;bt oder die Mehrheit der Mitglieder eines zur Gesch&#228;ftsf&#252;hrung oder Aufsicht
+berufenen Organs bestimmt hat, 
+c) Verb&#228;nde, deren Mitglieder unter Buchstabe a oder Buchstabe b fallen,
+2. ist &#246;ffentliches Unternehmen ein auf den in &#167; 2 Absatz 2 Nummer 2 genannten Gebieten t&#228;tiges
+Unternehmen, auf das &#246;ffentliche Stellen aufgrund der Eigentumsverh&#228;ltnisse, der finanziellen Beteiligung oder der
+f&#252;r das Unternehmen geltenden Bestimmungen unmittelbar oder mittelbar einen beherrschenden Einfluss
+aus&#252;ben k&#246;nnen; von einem beherrschenden Einfluss ist auszugehen, wenn die &#246;ffentlichen Stellen
+unmittelbar oder mittelbar
+a) die Mehrheit des gezeichneten Kapitals des Unternehmens halten, 
+b) &#252;ber die Mehrheit der mit den Anteilen am Unternehmen verbundenen Stimmrechte verf&#252;gen oder
+c) mehr als die H&#228;lfte der Mitglieder des Verwaltungs-, Leitungs- oder Aufsichtsorgans des Unternehmens
+ernennen k&#246;nnen,
+3. sind Daten vorhandene Aufzeichnungen, unabh&#228;ngig von der Art ihrer Speicherung,
+4. ist Nutzung jede Verwendung von Daten f&#252;r kommerzielle oder nichtkommerzielle Zwecke, die &#252;ber die
+Erf&#252;llung einer &#246;ffentlichen Aufgabe oder die Erbringung von Dienstleistungen von allgemeinem Interesse 
+hinausgeht oder die neben der Erf&#252;llung &#246;ffentlicher Aufgaben auch zu eigenen kommerziellen Zwecken
+erfolgt, 
+5. liegt ein maschinenlesbares Format vor, wenn die Daten durch Software automatisiert ausgelesen und
+verarbeitet werden k&#246;nnen,
+6. ist offenes Format ein Dateiformat, das nichtpropriet&#228;r und plattformunabh&#228;ngig ist und der &#214;ffentlichkeit
+ohne Einschr&#228;nkungen, die der Nutzung von Daten hinderlich w&#228;ren, zug&#228;nglich gemacht wird, 
+7. ist f&#246;rmlicher offener Standard ein in Textform niedergelegter Standard, in dem die Anforderungen f&#252;r die
+Sicherstellung der Interoperabilit&#228;t der Software niedergelegt sind, 
+8. sind dynamische Daten Aufzeichnungen in digitaler Form, die h&#228;ufig oder in Echtzeit aktualisiert werden,
+insbesondere aufgrund ihrer Volatilit&#228;t oder ihres raschen Veraltens,
+9. sind hochwertige Datens&#228;tze die gem&#228;&#223; den Artikeln 13 und 14 der Richtlinie (EU) 2019/1024 des
+Europ&#228;ischen Parlaments und des Rates vom 20. Juni 2019 &#252;ber offene Daten und die Weiterverwendung von
+Informationen des &#246;ffentlichen Sektors (ABl. L 172 vom 26.6.2019, S. 56) und gem&#228;&#223; den aufgrund dieser
+Artikel zu erlassenden Durchf&#252;hrungsrechtsakten ausgewiesenen Datens&#228;tze,
+10. sind Forschungsdaten Aufzeichnungen in digitaler Form, bei denen es sich nicht um wissenschaftliche
+Ver&#246;ffentlichungen handelt und die im Laufe von wissenschaftlichen Forschungst&#228;tigkeiten erfasst oder erzeugt
+und als Nachweise im Rahmen des Forschungsprozesses verwendet werden oder die in der
+Forschungsgemeinschaft allgemein f&#252;r die Validierung von Forschungsfeststellungen und -ergebnissen als notwendig
+erachtet werden, 
+11. ist angemessene Gewinnspanne ein Prozentsatz der Gesamtkosten, der &#252;ber den zur Deckung der
+einschl&#228;gigen Kosten erforderlichen Betrag hinausgeht, aber h&#246;chstens 5 Prozentpunkte &#252;ber dem von der
+Europ&#228;ischen Zentralbank festgesetzten Zinssatz f&#252;r Hauptrefinanzierungsgesch&#228;fte liegt,
+12. ist Anonymisierung der Prozess, in dessen Verlauf personenbezogene Daten in Daten umgewandelt werden,
+die sich nicht auf eine identifizierte oder identifizierbare nat&#252;rliche Person beziehen, oder derart in Daten
+umgewandelt werden, dass die betroffene Person nicht oder nicht mehr identifiziert werden kann.
+&#167; 4
+Grundsatz der uneingeschr&#228;nkten Datennutzung; Zul&#228;ssigkeit von Lizenzen
+(1) Daten d&#252;rfen f&#252;r jeden kommerziellen oder nichtkommerziellen Zweck genutzt werden.
+(2) F&#252;r Daten, an denen Bibliotheken, einschlie&#223;lich Hochschulbibliotheken, Museen und Archive,
+Urheber- oder verwandte Schutzrechte oder gewerbliche Schutzrechte zustehen, und f&#252;r Daten &#246;ffentlicher
+Unternehmen gilt Absatz 1 nur, soweit die Einrichtung oder das &#246;ffentliche Unternehmen die Nutzung zugelassen hat.
+(3) Nutzungsbedingungen (Lizenzen) sind zul&#228;ssig, soweit sie objektiv, verh&#228;ltnism&#228;&#223;ig,
+nichtdiskriminierend und durch ein im Allgemeininteresse liegendes Ziel gerechtfertigt sind. Die Lizenz darf nicht zu einer
+Wettbewerbsverzerrung f&#252;hren und die M&#246;glichkeiten der Nutzung nicht unn&#246;tig einschr&#228;nken. &#214;ffentliche Stellen
+sollen nach M&#246;glichkeit offene Lizenzen verwenden.
+&#167; 5
+Nichtdiskriminierung
+(1) Die Bedingungen f&#252;r die Datennutzung m&#252;ssen nichtdiskriminierend sein. 
+(2) Werden Daten von einer &#246;ffentlichen Stelle als Ausgangsmaterial f&#252;r die eigene Gesch&#228;ftst&#228;tigkeit
+genutzt, die nicht unter den &#246;ffentlichen Auftrag der &#246;ffentlichen Stelle f&#228;llt, so gelten f&#252;r die Bereitstellung der
+Daten f&#252;r die Gesch&#228;ftst&#228;tigkeit dieselben Entgelte und sonstigen Bedingungen wie f&#252;r andere Nutzer.
+&#167; 6
+Ausschlie&#223;lichkeitsvereinbarungen
+(1) Vereinbarungen &#246;ffentlicher Stellen oder &#246;ffentlicher Unternehmen, die ausschlie&#223;liche Rechte an der
+Nutzung von Daten gew&#228;hren (Ausschlie&#223;lichkeitsvereinbarungen), sind unzul&#228;ssig. 
+(2) Dies gilt nicht, wenn zur Bereitstellung eines Dienstes im &#246;ffentlichen Interesse ein ausschlie&#223;liches
+Recht &#252;ber die Nutzung der Daten erforderlich ist. Der Datenbereitsteller &#252;berpr&#252;ft die
+Ausschlie&#223;lichkeitsvereinbarung regelm&#228;&#223;ig, mindestens jedoch alle drei Jahre. Der Datenbereitsteller macht nach dem 15. Juli 2019
+getroffene Ausschlie&#223;lichkeitsvereinbarungen sp&#228;testens zwei Monate vor ihrem Inkrafttreten im Internet
+&#246;ffentlich zug&#228;nglich. Die endg&#252;ltige Ausschlie&#223;lichkeitsvereinbarung muss klar und eindeutig sein und im Internet
+&#246;ffentlich zug&#228;nglich gemacht werden. Dieser Absatz gilt nicht f&#252;r die Digitalisierung von Kulturbest&#228;nden.
+(3) Bezieht sich ein ausschlie&#223;liches Recht auf die Digitalisierung von Kulturbest&#228;nden, darf es f&#252;r
+h&#246;chstens zehn Jahre gew&#228;hrt werden. Die Ausschlie&#223;lichkeitsvereinbarungen m&#252;ssen klar und eindeutig sein und im
+Internet &#246;ffentlich zug&#228;nglich gemacht werden. Der &#246;ffentlichen Stelle ist im Rahmen der
+Ausschlie&#223;lichkeitsvereinbarung eine Kopie der digitalisierten Kulturbest&#228;nde unentgeltlich zur Verf&#252;gung zu stellen. Die &#246;ffentliche
+Stelle erm&#246;glicht die Nutzung dieser Kopie am Ende des Ausschlie&#223;lichkeitszeitraums. 
+(4) Der Datenbereitsteller macht Vereinbarungen &#252;ber rechtliche oder praktische Vorkehrungen, die nicht
+ausdr&#252;cklich ausschlie&#223;liche Rechte gew&#228;hren, die aber darauf abzielen oder die geeignet sind, die Nutzung von
+Daten durch andere Einrichtungen als die an der Vereinbarung beteiligten Dritten zu beschr&#228;nken, sp&#228;testens zwei
+Monate vor ihrem Inkrafttreten im Internet &#246;ffentlich zug&#228;nglich. Die Auswirkungen solcher rechtlichen oder
+praktischen Vorkehrungen auf die Verf&#252;gbarkeit und Nutzbarkeit von Daten werden regelm&#228;&#223;ig, mindestens alle 
+drei Jahre, &#252;berpr&#252;ft. Die endg&#252;ltige Vereinbarung muss klar und eindeutig sein und im Internet &#246;ffentlich
+zug&#228;nglich gemacht werden.
+(5) Am 17. Juli 2013 bestehende Ausschlie&#223;lichkeitsvereinbarungen, die nicht unter die Ausnahmen der
+Abs&#228;tze 2 und 3 fallen, enden bei Ablauf der Ausschlie&#223;lichkeitsvereinbarung, sp&#228;testens jedoch am 18. Juli 2043.
+Am 16. Juli 2019 bestehende Ausschlie&#223;lichkeitsvereinbarungen, die von &#246;ffentlichen Unternehmen getroffen
+wurden und die nicht unter die Ausnahmen der Abs&#228;tze 2 und 3 fallen, enden bei Ablauf der
+Ausschlie&#223;lichkeitsvereinbarung, sp&#228;testens jedoch am 17. Juli 2049.
+&#167; 7
+Verf&#252;gbare Formate, Metadaten
+(1) Der Datenbereitsteller muss die Nutzung der Daten in allen angefragten und bei ihm vorhandenen
+Formaten und Sprachen erm&#246;glichen.
+(2) Soweit m&#246;glich und sinnvoll, sind Daten elektronisch und in nach den anerkannten Regeln der Technik
+offenen, maschinenlesbaren, zug&#228;nglichen, auffindbaren und interoperablen Formaten zusammen mit den
+zugeh&#246;rigen Metadaten bereitzustellen. Sowohl die Formate als auch die Metadaten entsprechen, soweit m&#246;glich, 
+f&#246;rmlichen offenen Standards. 
+(3) Die Abs&#228;tze 1 und 2 verpflichten &#246;ffentliche Stellen und &#246;ffentliche Unternehmen nicht, Daten und
+Metadaten neu zu erstellen oder anzupassen oder Teile von Datens&#228;tzen zur Verf&#252;gung zu stellen, wenn dies mit
+unverh&#228;ltnism&#228;&#223;igem Aufwand verbunden w&#228;re, der &#252;ber eine einfache Bearbeitung hinausgeht. &#214;ffentliche
+Stellen und &#246;ffentliche Unternehmen sind au&#223;erdem nicht verpflichtet, die Erstellung und Speicherung bestimmter
+Arten von Daten im Hinblick auf deren Nutzung durch eine Organisation des privaten oder &#246;ffentlichen Sektors
+fortzusetzen.
+(4) Die Metadaten zu maschinenlesbaren Daten sind, soweit m&#246;glich und sinnvoll, &#252;ber das nationale
+Metadatenportal GovData zur Verf&#252;gung zu stellen. 
+&#167; 8
+Dynamische Daten
+(1) Der Datenbereitsteller muss die Nutzung von dynamischen Daten unmittelbar nach der Erfassung in
+Echtzeit mithilfe geeigneter Anwendungsprogrammierschnittstellen und, falls technisch erforderlich, als Massen-
+Download erm&#246;glichen.
+(2) Soweit die Anforderungen nach Absatz 1 die finanzielle und technische Leistungsf&#228;higkeit der
+&#246;ffentlichen Stelle oder des &#246;ffentlichen Unternehmens &#252;bersteigen und somit zu einem unverh&#228;ltnism&#228;&#223;igen Aufwand
+f&#252;hren, ist die Nutzung dynamischer Daten vor&#252;bergehend mit den zur Verf&#252;gung stehenden technischen Mitteln 
+zu erm&#246;glichen. Die Aussch&#246;pfung des wirtschaftlichen und sozialen Potenzials der dynamischen Daten soll
+dadurch nicht &#252;berm&#228;&#223;ig beeintr&#228;chtigt werden.
+&#167; 9
+Hochwertige Datens&#228;tze
+&#214;ffentliche Stellen und &#246;ffentliche Unternehmen m&#252;ssen die Nutzung hochwertiger Datens&#228;tze in
+maschinenlesbarem Format &#252;ber geeignete Anwendungsprogrammierschnittstellen und, falls technisch erforderlich, als
+Massen-Download erm&#246;glichen.
+&#167; 10
+Grundsatz der Unentgeltlichkeit
+(1) Die Nutzung von Daten ist unentgeltlich. Es ist jedoch zul&#228;ssig, die Erstattung von verursachten
+Grenzkosten f&#252;r die folgenden T&#228;tigkeiten und Ma&#223;nahmen zu verlangen:
+1. die Reproduktion, Bereitstellung und Verbreitung von Daten,
+2. die Anonymisierung personenbezogener Daten und 
+3. Ma&#223;nahmen zum Schutz vertraulicher Gesch&#228;ftsinformationen.
+(2) Abweichend von Absatz 1 Satz 1 d&#252;rfen f&#252;r die Nutzung von Daten Entgelte verlangen:
+1. &#246;ffentliche Stellen, die ausreichende Einnahmen erzielen m&#252;ssen, um einen wesentlichen Teil ihrer Kosten 
+im Zusammenhang mit der Erf&#252;llung ihrer &#246;ffentlichen Auftr&#228;ge zu decken;
+2. Bibliotheken, einschlie&#223;lich Hochschulbibliotheken, Museen und Archive;
+3. &#246;ffentliche Unternehmen.
+(3) Absatz 1 Satz 2 und Absatz 2 Nummer 1 und 3 gelten nicht f&#252;r hochwertige Datens&#228;tze sowie
+Forschungsdaten.
+(4) Wenn &#246;ffentliche Stellen, die ausreichende Einnahmen erzielen m&#252;ssen, um einen wesentlichen Teil
+ihrer Kosten im Zusammenhang mit der Erf&#252;llung ihres &#246;ffentlichen Auftrags zu decken, von der Anwendung
+des Absatzes 1 Satz 1 ausgenommen werden wollen, melden sie die Berufung auf die Ausnahme der
+Bundesnetzagentur. Die Bundesnetzagentur f&#252;hrt eine Liste der &#246;ffentlichen Stellen, die von der Ausnahme Gebrauch
+machen, und macht die Liste auf ihrer Internetseite zug&#228;nglich.
+(5) F&#252;r &#246;ffentliche Stellen, die Einnahmen erzielen m&#252;ssen, um einen wesentlichen Teil ihrer Kosten bei
+der Erf&#252;llung ihres &#246;ffentlichen Auftrags zu decken, und bei denen sich die unentgeltliche Nutzung hochwertiger
+Datens&#228;tze wesentlich auf ihren Haushalt auswirkt, gilt die Unentgeltlichkeit der Nutzung hochwertiger
+Datens&#228;tze sp&#228;testens zw&#246;lf Monate nach dem &#8230; [einsetzen: Datum des Inkrafttretens dieses Gesetzes].
+&#167; 11
+Bemessung der Entgelth&#246;he 
+(1) In den in &#167; 10 Absatz 2 Nummer 1 und 3 genannten F&#228;llen berechnen die &#246;ffentlichen Stellen und
+&#246;ffentlichen Unternehmen die Entgelte nach von ihnen festzulegenden objektiven, transparenten und nachpr&#252;fbaren
+Kriterien. 
+(2) Die Entgelte aus der Bereitstellung von Daten und der Gestattung ihrer Nutzung in dem entsprechenden
+Abrechnungszeitraum d&#252;rfen die Kosten ihrer Erfassung, Erstellung, Reproduktion, Verbreitung und Speicherung
+zuz&#252;glich einer angemessenen Gewinnspanne sowie die Kosten f&#252;r die Anonymisierung personenbezogener
+Daten und f&#252;r Ma&#223;nahmen zum Schutz vertraulicher Gesch&#228;ftsinformationen nicht &#252;bersteigen. Im Fall des &#167; 10
+Absatz 2 Nummer 2 d&#252;rfen zudem die Kosten f&#252;r Bewahrung und Rechtekl&#228;rung zur Berechnungsgrundlage
+hinzugef&#252;gt werden.
+(3) Die Entgelte werden nach Ma&#223;gabe der geltenden Buchf&#252;hrungsgrunds&#228;tze berechnet.
+&#167; 12
+Transparenz von Entgelten
+(1) Wurden f&#252;r die Nutzung von Daten Entgelte festgelegt, die f&#252;r die Allgemeinheit gelten
+(Standardentgelte), sind die Bedingungen und die tats&#228;chliche H&#246;he der Standardentgelte einschlie&#223;lich ihrer
+Berechnungsgrundlage im Internet &#246;ffentlich zug&#228;nglich zu machen.
+(2) Wurden f&#252;r die Nutzung keine Standardentgelte festgelegt, sind die Faktoren, die bei der Berechnung
+der Entgelte ber&#252;cksichtigt werden, anzugeben. Auf Anfrage wird auch die Berechnungsweise dieser Entgelte in
+Bezug auf einen spezifischen Antrag auf Nutzung angegeben.
+&#167; 13
+Rechtsweg
+F&#252;r Streitigkeiten nach diesem Gesetz ist der Verwaltungsrechtsweg gegeben.
+Artikel 3
+Inkrafttreten, Au&#223;erkrafttreten
+Dieses Gesetz tritt am Tag nach der Verk&#252;ndung in Kraft. Gleichzeitig tritt das
+Informationsweiterverwendungsgesetz vom 13. Dezember 2006 (BGBl. I S. 2913), das durch Artikel 1 des Gesetzes vom 8. Juli 2015
+(BGBl. I S. 1162) ge&#228;ndert worden ist, au&#223;er Kraft.
+Begr&#252;ndung
+A. Allgemeiner Teil
+I. Zielsetzung und Notwendigkeit der Regelungen
+Im Zuge der voranschreitenden Digitalisierung entstehen wertvolle Daten im &#246;ffentlichen Sektor, deren
+Bereitstellung und Nutzung sowohl der Wirtschaft als auch der Zivilgesellschaft und der Verwaltung gro&#223;en Mehrwert
+schaffen k&#246;nnen. Bereits im Rahmen des ersten Open-Data-Gesetzes vom 13. Juli 2017 wurde festgestellt, dass
+offene Daten in Zeiten der Digitalisierung eine sich kontinuierlich potenzierende Ressource sind, die vor allem
+durch die breite Nutzung Mehrwerte generiert. 
+Mit dem ersten Open-Data-Gesetz wurde die gesetzliche Grundlage f&#252;r die Bereitstellung von unbearbeiteten
+Daten durch die unmittelbare Bundesverwaltung geschaffen. Offene Daten sollen mit offener Lizenz, offenem
+Format und freiem Zugang bereitgestellt werden. Wie im ersten Bericht der Bundesregierung &#252;ber die Fortschritte
+bei der Bereitstellung von Daten gem&#228;&#223; &#167; 12a Absatz 10 EGovG (&#8222;1. Open-Data-Fortschrittsbericht&#8220;) festgestellt, 
+haben viele Beh&#246;rden bereits Prozesse implementiert, die die Bereitstellung offener Daten beg&#252;nstigen.
+Deutschland liegt nach der &#8222;Open Data Reifegradstudie 2019&#8220; des Europ&#228;ischen Datenportals der Europ&#228;ischen
+Kommission aktuell jedoch im Mittelfeld der EU-Mitgliedstaaten. Die spezifische Bewertung der politischen
+Rahmensetzung Deutschlands ergibt ebenso eine Platzierung im Mittelfeld. Den Rechtsrahmen der europ&#228;ischen
+Open-Data-Politik bildet die Richtlinie (EU) 2019/1024. In ihrer Neufassung hat der europ&#228;ische Gesetzgeber
+j&#252;ngst den Anwendungsbereich erweitert und bestehende Regelungen gesch&#228;rft.
+Um das &#246;konomische und zivilgesellschaftliche Potenzial der Daten der Bundesverwaltung f&#252;r die Nutzung durch
+Wirtschaft, Zivilgesellschaft, Staat sowie Wissenschaft und Forschung wirkungsvoll auszusch&#246;pfen, soll der
+Gesetzesentwurf entsprechend der europ&#228;ischen Vorgaben die bestehenden Ans&#228;tze ausweiten und modernisieren.
+Zielbild der Bundesregierung ist dabei die Manifestierung eines Prinzips der standardm&#228;&#223;ig offenen Daten (&#8222;O-
+pen-by-Default&#8220;), wodurch die Nutzung der Daten durch die Wirtschaft, Zivilgesellschaft, Verwaltung sowie
+Wissenschaft und Forschung bef&#246;rdert werden soll. Auf dieser Grundlage sollen die bereitgestellten offenen
+Daten eine Kultur des Datenaustauschs und der Datennutzung bef&#246;rdern, deren Ziele Wachstum und Innovation
+ebenso wie transparenteres, verst&#228;ndlicheres und effizienteres Verwaltungshandeln sind.
+Als eine Grundlage f&#252;r die Erreichung der von der Richtlinie (EU) 2019/1024 intendierten gesteigerten
+Datennutzung wird eine gesteigerte Verf&#252;gbarkeit &#252;ber eine Ausweitung des Anwendungsbereichs der
+Bereitstellungspflicht aus &#167; 12a EGovG und die Eind&#228;mmung von Ausnahmetatbest&#228;nden, die einer umfassenden
+Bereitstellungspflicht entgegenstehen, gesehen. Dies wird auch durch die Erw&#228;hnung des Grundrechts auf Zugang zu
+Informationen aus der Charta der Grundrechte der Europ&#228;ischen Union (Erw&#228;gungsgrund 5 der Richtlinie (EU)
+2019/1024) verdeutlicht. Die Nutzung durch die Wirtschaft und die Gesellschaft ist nur mit Daten m&#246;glich, die 
+durch die Beh&#246;rden bereitgestellt werden. Die Verfestigung und Ausweitung der Bereitstellungsverpflichtung ist
+daher Voraussetzung, um auch s&#228;mtliche Nutzungszwecke zu erm&#246;glichen. Daher soll die Anzahl bereitstellender
+Beh&#246;rden erh&#246;ht werden sowie die Verf&#252;gbarkeit und Nutzung offener Daten vereinfacht und standardisiert
+werden. Mit Einf&#252;hrung des DNG sollen Bedingungen der Nutzung offener und vorhandener Daten klarer gefasst
+werden, um die Anwendung in der Praxis zu erleichtern. Die Datennutzung nach diesem Gesetz soll m&#246;glichst
+ohne Einschr&#228;nkungen, nichtdiskriminierend und grunds&#228;tzlich unentgeltlich erfolgen. Des Weiteren soll die
+Nutzung s&#228;mtlicher vorliegender Formate erm&#246;glicht werden. Dabei wird die Maschinenlesbarkeit garantiert und
+dynamische Daten ohne zeitliche Verz&#246;gerung nutzbar gemacht.
+II. Wesentlicher Inhalt des Entwurfs
+Als wesentliche Ma&#223;nahme zur Ausweitung der Bereitstellung offener, unbearbeiteter Daten durch den Bund wird
+der Anwendungsbereich des &#167; 12a E-Government-Gesetz auf die gesamte Bundesverwaltung (mit Ausnahme der
+Selbstverwaltungsk&#246;rperschaften und Beliehener) ausgeweitet. Dies schlie&#223;t zuk&#252;nftig grunds&#228;tzlich auch die
+mittelbare Bundesverwaltung ein, die Anstalten, K&#246;rperschaften und Stiftungen &#246;ffentlichen Rechtes umfasst. 
+Zudem werden einzelne Ausnahmeregelungen gestrichen. 
+Um den organisatorischen Rahmen zur Zielerreichung einer Ausweitung der Datenbereitstellung zu verbessern, 
+ist es nach dem Gesetzesentwurf au&#223;erdem erforderlich, dass jede Beh&#246;rde des Bundes eine zust&#228;ndige
+Organisationseinheit zur Durchsetzung der Open-Data-Ziele der Bundesregierung benennt, die auch mit entsprechenden
+personellen und technischen Kapazit&#228;ten ausgestattet wird. Die Schaffung und Zuordnung klarer
+Verantwortlichkeiten innerhalb jeder Beh&#246;rde des Bundes tr&#228;gt dabei den Ergebnissen des 1. Open-Data-Fortschrittsberichtes
+Rechnung. Demzufolge gaben 57 % der Beh&#246;rden, die an der Befragung teilnahmen, an, dass nicht gen&#252;gend
+Ressourcen vorhanden seien, um sich mit dem Thema Open Data auseinanderzusetzen. 40 % der Beh&#246;rden, die
+an der Befragung teilnahmen, zeigten auf, dass Mitarbeiterinnen und Mitarbeiter nur &#252;ber unzureichendes Wissen
+im Umgang mit der Weiterverwendung offener Daten verf&#252;gten und weitere 38 % der Beh&#246;rden, die an der
+Befragung teilnahmen, gaben unzureichendes Wissen &#252;ber Potenziale ebendieser Weiterverwendung an. 
+Weiterhin soll mit dem Ziel der Standardisierung und Automatisierung der Datenbereitstellung und deren
+Qualit&#228;tssicherung die Bundesregierung erm&#228;chtigt werden, durch Rechtsverordnung den Bereitstellungsprozess f&#252;r
+offene Daten n&#228;her zu regeln. Dadurch wird auch der Grundstein f&#252;r bessere Datennutzung durch die Beh&#246;rden
+des Bundes gelegt, die die Nachvollziehbarkeit von Verwaltungshandeln verst&#228;rken kann.
+Das DNG erstreckt den Anwendungsbereich des IWG &#252;ber &#246;ffentliche Stellen hinaus auch auf &#246;ffentliche
+Unternehmen bestimmter Bereiche der Daseinsvorsorge (Wasser, Energie und Verkehr). Forschungsdaten werden
+explizit in den Anwendungsbereich aufgenommen. 
+Neben den Grunds&#228;tzen der Datennutzung, der Nichtdiskriminierung und des Verbots ausschlie&#223;licher Rechte
+wird die grunds&#228;tzliche Unentgeltlichkeit etabliert. Die Entgeltbemessung in Ausnahmef&#228;llen wird st&#228;rker
+begrenzt. Dynamische Daten und hochwertige Datens&#228;tze m&#252;ssen mit Anwendungsprogrammierschnittstellen bzw.
+als Massendownload nutzbar gemacht werden. 
+III. Alternativen
+Die Ausweitung des Geltungsbereiches der Regelungen von &#167; 12a EGovG auf weitere Beh&#246;rden des Bundes mit
+Ausnahme von Selbstverwaltungsk&#246;rperschaften und Beliehenen ist die einzige m&#246;gliche Ma&#223;nahme, um
+sicherzustellen, dass mehr Beh&#246;rden des Bundes zur Bereitstellung unbearbeiteter Daten verpflichtet sind.
+Eine vollst&#228;ndige Streichung der bisherigen Ausnahmen f&#252;r Forschungsdaten wurde erwogen, mit R&#252;cksicht auf
+die Diversit&#228;t der Akteure und die besonderen Anforderungen an Finanzierungsstrukturen der Forschung, aber
+nur unter bestimmten Bedingungen festgelegt um den besonderen Rahmenbedingungen in der Forschung gerecht
+zu werden.
+Zur Sicherstellung der Datenbereitstellung und zum notwendigen Aufbau weiterer Open-Data-Kompetenzen in 
+den Beh&#246;rden bedarf es einer verantwortlichen Stelle, die die Koordinierung der Anforderungen in Bezug auf die
+Bereitstellung von Daten und ihre Anbindung an das nationale Metadatenportal GovData verantwortet. Auf die
+Einbeziehung der mittelbaren Bundesverwaltung sowie kleinerer Beh&#246;rden der unmittelbaren Bundesverwaltung
+wurde verzichtet, um den Interessen der Ressorts auch vor dem Hintergrund einer erweiterten und verbesserten
+Bereitstellung Rechnung zu tragen.
+Das DNG dient der Umsetzung der Vorgaben aus der Richtlinie (EU) 2019/1024. Erw&#228;gungsgrund 19 ermutigt
+die Mitgliedstaaten dazu, &#252;ber die Mindestanforderung der Richtlinie im Hinblick auf &#246;ffentliche Unternehmen
+hinauszugehen. Die Mitgliedstaaten k&#246;nnten demnach die Ausnahme f&#252;r &#246;ffentliche Unternehmen, die im
+Wettbewerb stehen, nicht umsetzen oder die Anforderungen der Richtlinie auf private Unternehmen, die
+Dienstleistungen von allgemeinem Interesse erbringen, erstrecken. Von diesen M&#246;glichkeiten sieht dieser Entwurf ab und
+f&#246;rdert die Nutzung insbesondere &#246;ffentlich finanzierter Daten, aufgrund der weiterhin bestehenden Unterschiede
+zwischen &#246;ffentlichen und privaten Unternehmen. &#220;ber die ausgef&#252;hrten Punkte hinaus sind Alternativen nicht
+ersichtlich.
+IV. Gesetzgebungskompetenz 
+Die Zust&#228;ndigkeit des Bundes f&#252;r die &#196;nderung des E-Government-Gesetzes (Artikel 1) folgt f&#252;r die
+Bundesverwaltung aus der Natur der Sache. Bei der Regelung der Bereitstellung offener Daten durch die Beh&#246;rden des
+Bundes handelt es sich um eine Materie, die ihrer Natur nach eigene Angelegenheit des Bundes ist und daher nur
+vom Bund selbst geregelt werden kann.
+Die Gesetzgebungskompetenz ergibt sich f&#252;r das Datennutzungsgesetz (Artikel 2) wie beim geltenden IWG aus
+Artikel 74 Absatz 1 Nummer 11 des Grundgesetzes. Das DNG setzt die Richtlinie (EU) 2019/1024 um.
+Kernanliegen der Richtlinie und des Gesetzes ist es, die Nutzung von Daten des &#246;ffentlichen Sektors f&#252;r wirtschaftliche 
+Zwecke zu verbessern. 
+Eine bundesgesetzliche Regelung ist gem&#228;&#223; Artikel 72 Absatz 2 des Grundgesetzes zur Wahrung der
+Wirtschaftseinheit im gesamtstaatlichen Interesse erforderlich. Bei unterschiedlichen oder fehlenden Landesregelungen &#252;ber
+die diskriminierungsfreie wirtschaftliche Nutzung von Daten des &#246;ffentlichen Sektors best&#252;nde die konkrete
+Gefahr, dass Marktzugangsschranken f&#252;r bundesweit operierende Unternehmen nicht verringert werden k&#246;nnten.
+Dies h&#228;tte nicht hinnehmbare Wettbewerbsverzerrungen im Verh&#228;ltnis zu nur lokal t&#228;tigen Unternehmen zur
+Folge. Zudem k&#246;nnte &#252;ber Landesregelungen die Nutzung von Daten des Bundes nicht geregelt werden, wodurch
+die Erstellung von Informationsprodukten, die auf Bundes- und Landesdaten beruhen, erschwert w&#228;re.
+Namentlich im Bereich datenbasierter Produkte und Dienstleistungen setzt eine wirtschaftliche Vermarktung die
+Verkn&#252;pfung und Aufbereitung von Daten, die in Bund und L&#228;ndern einzuholen sind, voraus. 
+Unterschiedliche Regelungen in den L&#228;ndern w&#252;rden einer Entwicklung und Vermarktung datenbasierter
+Produkte und Dienstleistungen, die bundesweit verwandt werden sollen, entgegenstehen. Es liegt gleicherma&#223;en im
+Interesse von Bund und L&#228;ndern, Innovationen auf dem Datenmarkt nicht durch unterschiedliche Regelungen zu
+behindern, weil dies erhebliche Nachteile f&#252;r die Gesamtwirtschaft mit sich br&#228;chte. Das Regelungsziel, diese
+Entwicklung zu verhindern und stattdessen das wirtschaftliche Potenzial &#246;ffentlicher Daten optimal
+auszusch&#246;pfen, macht eine bundesgesetzliche Regelung erforderlich. Eine bundeseinheitliche Regelung liegt daher im
+gesamtstaatlichen Interesse.
+Der Gesetzentwurf ist mit Artikel 84 Absatz 1 Satz 7 des Grundgesetzes vereinbar. Die Regelungen f&#252;hren weder
+zu einer &#220;bertragung neuer Aufgaben durch den Bund auf die Kommunen noch zu einer &#228;quivalenten Ausweitung
+bestehender Aufgaben. Eine Pflicht zur Bereitstellung von Daten wird mit Artikel 2 des Gesetzentwurfs explizit
+nicht begr&#252;ndet. 
+V. Vereinbarkeit mit dem Recht der Europ&#228;ischen Union und v&#246;lkerrechtlichen Vertr&#228;gen
+Artikel 1 dient den Zielen aus Richtlinie (EU) 2019/1024, indem die Verpflichtung zur Bereitstellung offener
+Daten der Bundesverwaltung ausgeweitet wird. Artikel 2 setzt die Anforderungen aus Richtlinie (EU) 2019/1024
+um und f&#246;rdert die unionsweite Nutzbarkeit offener Daten.  
+Die Vereinbarkeit mit dem Recht der Europ&#228;ischen Union ist gew&#228;hrleistet. V&#246;lkerrechtliche Vereinbarungen
+stehen dem Gesetz nicht entgegen.
+VI. Gesetzesfolgen
+1. Rechts- und Verwaltungsvereinfachung
+Durch die gleichlaufende Verpflichtung zur Bereitstellung offener, unbearbeiteter Daten f&#252;r alle Akteure der
+Bundesverwaltung sowie die damit verbundenen verbesserten Nutzungsm&#246;glichkeiten wird mit Artikel 1 eine
+Vereinheitlichung begr&#252;ndet, die insgesamt zur M&#246;glichkeit eines einfachen und barrierefreien Austauschs von Daten
+und somit zur Vereinfachung von Verwaltungshandeln f&#252;hrt. 
+Artikel 2 dient der Vereinfachung und Modernisierung des IWG, indem bestehende Ausnahmetatbest&#228;nde gek&#252;rzt
+oder klarer gefasst werden.
+2. Nachhaltigkeitsaspekte 
+Es ergeben sich positive Auswirkungen auf die Zielstellungen der nationalen Nachhaltigkeitsstrategie. Das Gesetz
+tr&#228;gt zu einer nachhaltigen Entwicklung im Sinne der Deutschen Nachhaltigkeitsstrategie bei, da durch die
+Ausweitung der Bereitstellung offener Daten durch die Bundesverwaltung in Artikel 1 die Entwicklung nachhaltiger
+Gesch&#228;ftsmodelle, beispielsweise mit dem Ziel eines effizienten Einsatzes nat&#252;rlicher Ressourcen, bef&#246;rdert wird.
+Artikel 2 verbessert die Nutzbarkeit offener Daten auch zu Zwecken, die der Nachhaltigkeit dienlich sind.
+3. Haushaltsausgaben ohne Erf&#252;llungsaufwand
+Dieses Gesetz hat neben dem Erf&#252;llungsaufwand keine unmittelbaren Auswirkungen auf die Haushaltsausgaben.
+Durch die Bereitstellung von Daten der Beh&#246;rden des Bundes werden Nutzungsm&#246;glichkeiten geschaffen, die in
+einem Umfang, der gegenw&#228;rtig nicht n&#228;her bezifferbar ist, Auswirkungen auf das Steueraufkommen des Bundes
+und der L&#228;nder haben k&#246;nnen.
+Alle mit dem Gesetzentwurf im Zusammenhang stehenden und auf den Bund entfallenden Mehrbedarfe an Sach-
+und Personalmitteln, Verpflichtungserm&#228;chtigungen sowie Planstellen und Stellen sind unmittelbar, vollst&#228;ndig
+und dauerhaft in den jeweiligen Einzelpl&#228;nen gegenzufinanzieren.
+4. Erf&#252;llungsaufwand
+a. Erf&#252;llungsaufwand f&#252;r B&#252;rgerinnen und B&#252;rger
+F&#252;r B&#252;rgerinnen und B&#252;rger ergeben sich vor allem Entlastungseffekte. Darunter fallen insbesondere die bessere
+Auffindbarkeit und Nutzbarkeit &#252;ber das nationale Metadatenportal von offenen Daten. 
+b. Erf&#252;llungsaufwand f&#252;r die Wirtschaft
+F&#252;r die Wirtschaft ergibt sich keine unmittelbare &#196;nderung des Erf&#252;llungsaufwandes. Auch hier sind
+Entlastungseffekte durch die Erh&#246;hung von Datenbereitstellung und Qualit&#228;t bereitgestellter Daten zu erwarten. &#214;ffentlichen
+Unternehmen bestimmter Bereiche der Daseinsvorsorge kann eine Einkommensquelle wegfallen, soweit Daten
+bislang exklusiv und hochpreisig nutzbar gemacht wurden. Die Anwendung des DNG auf &#246;ffentlich finanzierte
+Daten erm&#246;glicht den Wettbewerb um innovative Dienste und Produkte, die auf der Grundlage dieser Daten
+entwickelt werden k&#246;nnen.
+c. Erf&#252;llungsaufwand der Verwaltung 
+F&#252;r die Verwaltung erh&#246;ht sich der j&#228;hrliche Erf&#252;llungsaufwand um gesch&#228;tzte 8,4 Millionen Euro. Der einmalige
+Erf&#252;llungsaufwand betr&#228;gt rund 18,7 Millionen Euro. Der Aufwand, der sich aus Artikel 1 dieses Gesetzentwurfs
+ergibt, entf&#228;llt vollst&#228;ndig auf die Bundesverwaltung. Im Einzelfall kann aus den Regelungen des DNG (Artikel 2
+dieses Gesetzentwurfs) weiterer j&#228;hrlicher Erf&#252;llungsaufwand von 3.000 Euro je Fall entstehen ebenso wie
+weiterer einmaliger Erf&#252;llungsaufwand von 15.000 Euro je Fall. Die Einzelfallkosten beziehen sich auf die
+Kommunalverwaltung.
+Der Erf&#252;llungsaufwand f&#252;r die Verwaltung ergibt sich vor allem aus drei Vorgaben:
+Vorgabe 1: Zurverf&#252;gungstellen elektronisch gespeicherter unbearbeiteter Daten; &#167; 12a Abs. 1 EGovG
+Aufgrund diverser Regelungs&#228;nderungen wird sich der Erf&#252;llungsaufwand f&#252;r die Bereitstellung elektronisch
+gespeicherter Daten &#228;ndern. 
+Die erste wesentliche &#196;nderung ist, dass k&#252;nftig grunds&#228;tzlich s&#228;mtliche Bundesbeh&#246;rden Open Data zur
+Verf&#252;gung stellen m&#252;ssen (mit Ausnahme der Selbstverwaltungsk&#246;rperschaften und Beliehener). Bisher traf dies nur
+auf die Beh&#246;rden der unmittelbaren Bundesverwaltung zu. Nach Auskunft des Ressorts wird der Fokus beim
+Kreis der zus&#228;tzlich Bereitstellungspflichtigen aus der mittelbaren Bundesverwaltung auf K&#246;rperschaften,
+Anstalten und Stiftungen des &#246;ffentlichen Rechtes gelegt. Ausgenommen von der Pflicht sind die in &#167; 3 Nr. 8 IFG
+genannten Stellen. Damit wird sich die Zahl der verpflichteten Beh&#246;rden im zweistelligen Bereich erh&#246;hen. Diese
+setzt sich zusammen aus 24 Anstalten und 32 K&#246;rperschaften des &#246;ffentlichen Rechts. F&#252;r 38 Stiftungen des
+&#246;ffentlichen Rechts in Bundesbesitz wird angenommen (Ressort), dass nur 20 % der Beh&#246;rden vorhandene
+Datenbanksysteme haben. Dies f&#252;hrt zu der Destatis-Annahme, dass auch nur dieser Prozentsatz (rd. 8 Stiftungen)
+einschl&#228;gige Daten sammelt. Insgesamt wird von zus&#228;tzlichen 64 Beh&#246;rden ausgegangen. 
+F&#252;r die bereits zur Ver&#246;ffentlichung von Open Data angehaltenen 122 Beh&#246;rden ergeben sich &#252;berwiegend
+geringf&#252;gige &#196;nderungen. So sind Open Data k&#252;nftig ausschlie&#223;lich in maschinenlesbarer Form bereitzustellen 
+(Abs. 5). Au&#223;erdem werden Ausnahmetatbest&#228;nde gestrichen, wie zum Beispiel, dass eine Bereitstellung nicht
+erforderlich ist, wenn Daten auf anderen Plattformen bereits bereitgestellt wurden (Abs. 3 Nr. 3) oder es sich um
+Forschungsdaten handelt. Bei bereits verpflichteten Beh&#246;rden d&#252;rften sich in den wenigen F&#228;llen die Aufw&#228;nde
+im geringen Umfang durch die Bereitstellung weiterer Datens&#228;tze erh&#246;hen, wenn bisher Ausnahmetatbest&#228;nde
+genutzt wurden. Betroffen sind zum einen die Prozesse der Datenlieferung durch die Abteilung, in welcher die
+Daten produziert werden, und zum anderen der Pr&#252;f- und Ver&#246;ffentlichungsprozess durch eine in der Regel
+zentrale Stelle innerhalb einer Beh&#246;rde. Hierzu liegen aber keine n&#228;heren Informationen vor.  
+Eine zweite wesentliche &#196;nderung liegt darin, dass Beh&#246;rden der unmittelbaren Bundesverwaltung die Stelle 
+eines Open-Data-Koordinators einzurichten und dauerhaft zu unterhalten haben. W&#228;hrend dies die neu
+verpflichteten Bundesbeh&#246;rden erstmalig umsetzen m&#252;ssen, ist dies bei den bereits verpflichteten Beh&#246;rden nicht
+unbedingt neu. Knapp drei Viertel der Beh&#246;rden gaben bei einer Abfrage Anfang 2019 &#8211; ca. 1,5 Jahre nach Inkrafttreten 
+des &#167; 12 a EGovG &#8211; an, mindestens einen Open-Data-Verantwortlichen in ihrer Beh&#246;rde verortet zu haben. Ein
+Teil dieser Beh&#246;rden haben sogar zwei bis vier Verantwortliche bestellt. Einschr&#228;nkend muss erw&#228;hnt werden,
+dass sich lediglich etwa ein Drittel der angeschriebenen Beh&#246;rden an der Befragung beteiligt hat. Es ist nicht
+auszuschlie&#223;en, dass im Kreis der nichtteilnehmenden Beh&#246;rden der Anteil, die einen (oder mehrere) Open-Data-
+Koordinatoren bestellt haben, niedriger liegt. Der Erf&#252;llungsaufwand &#228;ndert sich f&#252;r diese Beh&#246;rden dann, wenn
+die k&#252;nftige Planstelle des Open-Data-Koordinators zu mehr oder weniger Aufwand zum Status quo f&#252;hrt.
+Dar&#252;ber ist jedoch keine pr&#228;zise Aussage m&#246;glich, da nur n&#228;herungsweise Informationen zum zeitlichen Aufwand 
+der bisher eingesetzten Open-Data-Verantwortlichen vorliegen (vgl. folgenden Abschnitt).
+Laufender Erf&#252;llungsaufwand (Ist-Stand)
+Nach aktuellem Stand (lt. OnDEA-Datenbank) verursacht die Bereitstellung von Open Data bei den
+Bundesbeh&#246;rden einen j&#228;hrlichen Aufwand von 400.000 Euro. Dies ist der Wert aus der Sch&#228;tzung des
+Erf&#252;llungsaufwandes f&#252;r den Gesetzentwurf des 1. Open-Data-Gesetzes. Der Erf&#252;llungsaufwand wurde mit den Annahmen
+berechnet, dass die Bereitstellung eines Datensatzes zwischen 15 und 30 Minuten pro Fall dauert (12-24 Euro/Fall) und
+nur bei jenen Beh&#246;rden anzusetzen ist, die bisher keine (regul&#228;re) Datenver&#246;ffentlichung betrieben. Zudem wurde
+angenommen, dass jede Beh&#246;rde (von denen es insgesamt rd. 300 gibt) im Jahr zwischen 50 und 100 Datens&#228;tze
+ver&#246;ffentlicht, d. h. im Durchschnitt 75 Datens&#228;tze.
+Die tats&#228;chlichen Werte weichen anscheinend von dieser Sch&#228;tzung ab. Ungekl&#228;rt ist u. a. nach wie vor, welche
+und wie viele Beh&#246;rden der unmittelbaren Bundesverwaltung tats&#228;chlich betroffen sind und Datens&#228;tze direkt in
+das GovData-Datenportal einstellen m&#252;ssen. Urspr&#252;nglich ging das Ressort von 300 betroffenen Beh&#246;rden aus.
+Mittlerweile wird die Auffassung vertreten, dass die Zahl der bisher verpflichteten Beh&#246;rden bei etwa 170 &#8211; 180
+liegt, da nicht jede Beh&#246;rde GovData-relevante Daten produziert. Letztlich wird von 180 bereits betroffenen
+Beh&#246;rden ausgegangen.
+Mithilfe der o. g. Erhebung wurden Parameter erhoben, die f&#252;r den Erf&#252;llungsaufwand relevant sind, die aber
+keine Neubestimmung des Erf&#252;llungsaufwandes (in Abweichung zu den im Gesetzentwurf genannten Werten)
+zulassen. So gibt jede zweite befragte Beh&#246;rde an, keine j&#228;hrlichen Erf&#252;llungsaufw&#228;nde zu haben (Frage D4, Seite
+26). Dies ist eigentlich nur m&#246;glich, wenn keine Datens&#228;tze offen bereitgestellt werden. Warum die Beh&#246;rden
+jedoch keine Aufw&#228;nde haben, wird aus der Erhebung nicht ersichtlich. Im Gegenzug geben 41 der 53
+antwortenden Beh&#246;rden an, wie viele Datens&#228;tze sie bereits im GovData-Portal ver&#246;ffentlicht haben (77 %; Frage C8).
+Da die Antwortkategorie &#8222;&lt; 50 Datens&#228;tze&#8220; (Seite 54) vorgegeben war, finden sich darin vermutlich auch
+diejenigen Beh&#246;rden wieder, die bisher noch nichts ver&#246;ffentlicht haben. Auf Basis dieser Informationen wird davon 
+ausgegangen, dass die H&#228;lfte der befragten Beh&#246;rden bisher tats&#228;chlich keine Ver&#246;ffentlichung get&#228;tigt hat. Dies
+bedeutet, dass bisher 90 von den maximal 180 Beh&#246;rden Aufwand f&#252;r die Bereitstellung offener Daten hatten.
+Zum Zeitaufwand liegen auf Basis von qualitativen Aussagen Angaben f&#252;r die Pr&#252;fung eines Datensatzes (37,5
+Minuten) und f&#252;r dessen Ver&#246;ffentlichung (20 Minuten) vor (insgesamt: 57,5 Minuten). Damit liegen die
+ausgewerteten Zeitaufw&#228;nde h&#246;her als urspr&#252;nglich angesetzt (ca. + 30 Minuten/Fall). Destatis kann diese Zeitwerte
+allerdings nicht verifizieren. Mangels anderer Informationen werden diese 57,5 Minuten &#252;bernommen, wodurch
+die Kosten f&#252;r die Ver&#246;ffentlichung eines einzelnen Datensatzes bei 41,59 Euro liegen (Lohnsatz gD Bund: 43,40
+Euro/Std.)*. Die Kosten liegen somit etwa doppelt so hoch wie prognostiziert. 
+Nach der Evaluationsbefragung haben Beh&#246;rden bisher mehrheitlich statt der erwarteten 50 bis 100 Datens&#228;tze
+im Median 30 Datens&#228;tze seit Inkrafttreten des Open-Data-Gesetzes ver&#246;ffentlicht. Lediglich 6 % der Befragten
+haben bisher 50 bis 100 Ver&#246;ffentlichungen erreicht. 8 % geben an, dass es mehr als 100 gewesen seien. Demnach
+haben etwa 14 % der an der Befragung teilnehmenden Beh&#246;rden das urspr&#252;nglich prognostizierte Quorum erreicht
+bzw. &#252;bererf&#252;llt. Wie die Ver&#246;ffentlichungspraxis der nichtteilnehmenden Beh&#246;rden aussieht, ist nicht bekannt.
+Die Teilnehmerschaft ist insofern verzerrt, weil einzelne Gesch&#228;ftsbereiche zum Teil ganz die Mitwirkung an der
+Befragung verweigerten und im Wesentlichen Antworten aus einigen wenigen Gesch&#228;ftsbereichen vorliegen.
+Unter Ber&#252;cksichtigung, dass von den nicht an der Befragung teilgenommenen Beh&#246;rden viele noch keine Daten
+ver&#246;ffentlicht haben, d&#252;rften nach den Erkenntnissen der Befragung nicht einmal 10 % regelm&#228;&#223;ig Rohdaten an
+GovData liefern.
+Damit liegt aktuell der Erf&#252;llungsaufwand ungef&#228;hr in einer H&#246;he von 112.000 Euro.
+Berechnung (Ist-Aufwand):
+Anzahl potenziell betroffener Beh&#246;rden: 180
+Anzahl tats&#228;chlich datenliefernder Beh&#246;rden: 90
+Anzahl ver&#246;ffentlichter Datens&#228;tze pro Beh&#246;rde pro Jahr: 30 (insgesamt: 2.700)
+Aufwand pro Datensatz: 57,5 Minuten bzw. 41,59 Euro
+Rechenweg: 90 * 30 * 41,59 = 112.298 Euro
+Laufender Erf&#252;llungsaufwand (Soll-Stand)
+Da seit der Erhebung des Umsetzungsstandes ca. 15 Monate vergangen sind und sich ein gr&#246;&#223;erer Teil der
+Beh&#246;rden (noch) nicht auf den Weg gemacht hatte, wird im Folgenden der Soll-Erf&#252;llungsaufwand berechnet. Dieser
+beziffert den Aufwand, den die Beh&#246;rden haben m&#252;ssten, wenn diese den Anforderungen des 1. Open-Data-
+Gesetzes in der Zwischenzeit im urspr&#252;nglich gesch&#228;tzten Umfang nachk&#228;men. Danach h&#228;tten die Beh&#246;rden f&#252;r die
+Verf&#252;gbarmachung von offenen Daten einen laufenden Aufwand von 561.000 Euro.
+Berechnung (Soll-Aufwand):
+Anzahl tats&#228;chlich datenliefernder Beh&#246;rden: 180
+Anzahl ver&#246;ffentlichter Datens&#228;tze pro Beh&#246;rde pro Jahr: 75 (insgesamt: 13.500)
+Aufwand pro Datensatz: 57,5 Minuten bzw. 41,59 Euro
+Rechenweg: 180 * 75 * 41,59 = 561.465 Euro
+J&#228;hrlicher Erf&#252;llungsaufwand des Bundes (k&#252;nftig):
+a) Weitere Bereitstellungspflichtige  
+Fallzahl Zeitaufwand
+pro Fall (in
+Minuten)
+Lohnsatz pro
+Stunde (in 
+Euro)
+Sachkosten pro
+Fall (in Euro)
+Personalkosten 
+(in Tsd. Euro)
+Sachkosten
+(in Tsd. Euro)
+4.800 57,5 43,40 0 200 0 
+Erf&#252;llungsaufwand (in Tsd. Euro) 200
+Ausgehend von 64 Beh&#246;rden, die der Bereitstellungspflicht neu unterliegen (vgl. S. 5), 75 Datens&#228;tzen je Beh&#246;rde
+und einem Aufwand pro Datensatz von 41,59 Euro ergibt sich ein zus&#228;tzlicher j&#228;hrlicher Erf&#252;llungsaufwand von
+rd. 200.000 Euro.
+* Leitfaden zur Ermittlung und Darstellung des Erf&#252;llungsaufwandes, S. 56 (Lohnkostentabelle Verwaltung).
+b) Forschungsdaten
+Die Deutsche Forschungsgemeinschaft (DFG) ist bereits seit mehreren Jahren bem&#252;ht ein Bewusstsein f&#252;r ein 
+Forschungsdatenmanagement sowie den Zugang zu Forschungsdaten f&#252;r andere Wissenschaftlerinnen und
+Wissenschaftler, die im Rahmen von Forschungsprojekten entstehen, zu st&#228;rken. In der guten wissenschaftlichen
+Praxis erm&#246;glicht die transparente Bereitstellung von Datengrundlagen zu empirischen Ergebnissen die
+Reproduktion der Analysen und damit Intersubjektivit&#228;t. Der Appell an Forschende, sich bereits w&#228;hrend der
+Projektplanung und Antragstellung mit der Bereitstellung von Forschungsdaten zu besch&#228;ftigen, ist in den DFG-
+Grunds&#228;tzen und Leitlinien zum Umgang mit Forschungsdaten ver&#246;ffentlicht. Sie stellen ein Kernelement der guten
+wissenschaftlichen Praxis dar. Zugleich ist die Einhaltung der DFG-Richtlinien und die Dokumentation
+entsprechender Erl&#228;uterungen eine Voraussetzung f&#252;r Forschungsvorhaben, die im Rahmen der DFG-
+Forschungsf&#246;rderung durchgef&#252;hrt werden.
+Insgesamt gibt es 43 Forschungseinrichtungen, die dem Bund zuzuordnen sind. Nach Informationen auf der
+Website der Arbeitsgemeinschaft der Ressortforschungseinrichtung haben sich auch diese
+Forschungsinstitutionen den DFG-Richtlinien zum Umgang mit Forschungsdaten verpflichtet. Zudem ergab eine Stichprobenpr&#252;fung
+der Internetpr&#228;senz der Ressortforschungseinrichtungen, dass der &#252;berwiegende Teil in Forschungsvorhaben
+eingebunden war oder ist, f&#252;r die die DFG-Richtlinien bindend sind. Daher wird angenommen, dass die Grunds&#228;tze
+der guten wissenschaftlichen Praxis und in diesem Sinne auch ein gutes Forschungsdatenmanagement bereits in
+den Standardprozessen der Forschungseinrichtungen der Bundesressorts etabliert sind. 
+Um die Fallzahl der betroffenen Forschungsdatens&#228;tze abzusch&#228;tzen, wurden bei Forschungseinrichtungen des
+Bundes durch Ministerien Abfragen durchgef&#252;hrt. In der kurzen Zeit wurden dazu von f&#252;nf
+Forschungseinrichtungen Fallzahlen zu einschl&#228;gigen Datens&#228;tzen &#252;bermittelt, die in die Berechnung einflie&#223;en. Die Spannweite
+reichte dabei von 6.500 bis 900.000 Datens&#228;tzen. Im Mittel ist auf Basis der gelieferten Kennzahlen von
+durchschnittlich rund 265.000 Forschungsdatens&#228;tzen pro Einrichtung auszugehen, die in einem Jahr anfallen.
+Hochgerechnet auf 43 betroffene Einrichtungen ergeben sich etwa 11,4 Millionen Datens&#228;tze. (43 * 265.000). Eine
+Bereitstellung nach dem novellierten &#167; 12 a EGovG-E muss jedoch nur erfolgen, wenn die Daten keinen
+Personenbezug zulassen, keine Eigentums- oder Urheberrechte verletzen und keine sicherheitssensiblen Informationen
+enthalten. Auf Basis der Auskunft einer Forschungseinrichtung entfallen etwa 10 % der Datens&#228;tze auf Rohdaten,
+die diese Eigenschaften aufweisen. &#220;bertr&#228;gt man diese Anteilssch&#228;tzung auf 11,4 Millionen Datens&#228;tze,
+verbleiben etwa 10,2 Millionen Datens&#228;tze, die nach der Gesetzes&#228;nderung der Bereitstellungspflicht unterliegen. 
+Nach Angaben des Ressorts erf&#252;llt die Datenbereitstellung in aggregierter Form, z. B. als ZIP-Datei mit
+Ursprungsdateien oder kumulierten Datenbankausz&#252;ge o. &#196;. grunds&#228;tzlich die Bereitstellungspflicht. Auf Basis von
+zwei Ausk&#252;nften und in R&#252;cksprache mit dem Ressort wird davon ausgegangen, dass im Durchschnitt 50
+Datens&#228;tze je Publikation anfallen. Daraus ergeben sich insgesamt rund 205.000 Uploads pro Jahr.
+Die Einrichtungen sind nicht verpflichtet, die bereitzustellenden Daten auf Richtigkeit, Vollst&#228;ndigkeit,
+Plausibilit&#228;t oder in sonstiger Weise zu pr&#252;fen. Zus&#228;tzlich obliegt die Entscheidung, in welchem Zustand ab Erhebung
+Daten bereitgestellt werden, im Ermessen der Beh&#246;rden des Bundes und sollte sich an der Zweckm&#228;&#223;igkeit und
+Wirtschaftlichkeit orientieren. Weiterhin ist zu beachten, dass f&#252;r Forschungsdaten keine Pflicht zur Anbindung
+an das GovData-Portal besteht; die Bereitstellung kann &#252;ber bereits etablierte Plattformen erfolgen. Es wird
+angenommen, dass ein Gro&#223;teil der Datenaufbereitung zwecks Bereitstellung f&#252;r die wissenschaftliche Community
+bereits w&#228;hrend der Forschungsprojekte erfolgt, weil die Einrichtungen sich der wissenschaftlichen Sorgfalt
+verpflichtet haben (siehe oben). Dennoch kann davon ausgegangen werden, dass zumindest eine stichprobenartige
+&#220;berpr&#252;fung der in den ZIP-Ordnern abgelegten Dateien stattfinden wird. Hierf&#252;r werden angelehnt an die
+Erfahrungswerte aus dem 1. ODG pauschal 37,5 Minuten veranschlagt. Es wird angenommen, dass dieser
+Zeitaufwand w&#228;hrend der erstmaligen Umsetzungen im ersten Jahr f&#252;r Personen aus dem h&#246;heren Dienst (hD) anf&#228;llt
+und nach der Umstellungsphase laufend durch Personen aus dem gehobenen Dienst (gD) &#252;bernommen wird
+(Annahme Destatis). 
+F&#252;r die Ver&#246;ffentlichung werden die Zeitaufw&#228;nde differenziert nach Umstellungsphase und laufendem Betrieb
+betrachtet. Es wird angenommen, dass auch Ver&#246;ffentlichungen in Form von Uploads zun&#228;chst von Personen des
+hD &#252;bernommen werden (Annahme Destatis). F&#252;r die Ver&#246;ffentlichung werden in der Umstellungsphase in
+Anlehnung an den Fortschrittsbericht 20 Minuten veranschlagt (vgl. Fu&#223;note 17). Im Zuge der fortschreitenden
+Umsetzung werden sich voraussichtlich Lern- und Automatisierungseffekte einstellen, die die Ver&#246;ffentlichung
+routinieren und beschleunigen. Es wird daher angenommen, dass sich der Aufwand nach einer einj&#228;hrigen
+Umstellungsphase auf 5 Minuten je Fall (je Dateienupload) verringert. Entsprechend wird f&#252;r den j&#228;hrlichen
+Erf&#252;llungsaufwand von 42,5 Minuten je Bereitstellung ausgegangen (37,5 Minuten f&#252;r Aufbereitung zzgl. 5 Minuten f&#252;r
+Ver&#246;ffentlichung).
+Insgesamt belaufen sich nach diesem Sch&#228;tzmodell die j&#228;hrlichen Personalkosten auf 6,3 Millionen Euro, die sich
+aus der verbleibenden Teilaufbereitung der Datens&#228;tze und der Bereitstellung von Forschungsdaten ergeben. Der
+einmalige Erf&#252;llungsaufwand ist auf S. 12 zusammengefasst. 
+Fallzahl Zeitaufwand
+pro Fall (in
+Minuten)
+Lohnsatz pro
+Stunde (in 
+Euro)
+Sachkosten pro
+Fall (in Euro)
+Personalkosten 
+(in Tsd. Euro)
+Sachkosten
+(in Tsd. Euro)
+205.000 42,5 43,40 0 6.302 0 
+Erf&#252;llungsaufwand (in Tsd. Euro) 6.302
+Zu beachten ist, dass es sich bei der Berechnung um eine grobe Sch&#228;tzung handelt. Die tats&#228;chlichen laufenden
+Aufw&#228;nde f&#252;r die Bereitstellung von Forschungsdaten k&#246;nnen in Abh&#228;ngigkeit von Rahmenbedingungen wie
+Investitionen in maschinelle &#220;bertragungsprozesse, der tats&#228;chlichen Etablierung von standardisierten
+Aufbereitungsprozessen und der H&#228;ufigkeit, mit dem Rohdaten verbleibendem Pr&#252;faufwand zwecks Ver&#246;ffentlichung
+unterzogen werden variieren. Inwieweit die dargestellte Erf&#252;llungsaufwandssch&#228;tzung mit den tats&#228;chlichen
+Aufw&#228;nden in der Praxis &#252;bereinstimmen, wird im Rahmen einer Nachmessung der Gesetzesfolgen 2 Jahre nach
+Inkrafttreten &#252;berpr&#252;ft. 
+c) Open-Data-Koordinatoren
+Beh&#246;rden der unmittelbaren Bundesverwaltung haben Planstellen im Verh&#228;ltnis zu ihrer Bedienstetenzahl
+einzurichten: Beginnend mit einem Stellenanteil von 0,2 MAK bei Besch&#228;ftigtengr&#246;&#223;enklassen von bis zu 1.500
+Bediensteten werden mit einem Anstieg der Besch&#228;ftigtenzahl um jeweils 1.000 Bedienstete bzw. 1.500 Bedienstete
+weitere 0,2-MAK-Anteile zus&#228;tzlich vorgeschrieben. Maximal ist 1 MAK vorzuhalten. 
+Laut Leitfaden zur Ermittlung und Darstellung des Erf&#252;llungsaufwands in Regelungsvorhaben der
+Bundesregierung (S. 44) umfasst das Personenjahr 200 Arbeitstage. Dies entspricht 96.000 Minuten f&#252;r eine Vollzeitstelle 
+(200 Tage * 8 Stunden * 60). Entsprechend sind bei einem Stellenanteil von 0,2 einer Vollzeitstelle 19.200
+Minuten anzusetzen.
+Die Zahl der Beh&#246;rden wird f&#252;r diese Berechnung mit 122 angesetzt.
+Die &#220;bernahme der Funktion des Open-Data-Koordinators kann durch Bedienstete des gehobenen Dienstes
+erfolgen. Es ist nicht ausgeschlossen, dass an dieser Aufgabenerf&#252;llung auch der h&#246;here Dienst mitwirkt. Auf einen
+Einbezug des h&#246;heren Dienstes wird in der folgenden Sch&#228;tzung verzichtet. F&#252;r die nachfolgende Berechnung
+wird der Lohnsatz f&#252;r den gehobenen Dienst des Bundes mit 43,40 Euro/Std. herangezogen.
+Es werden keine Sachkosten f&#252;r die Aufgabenwahrnehmung angesetzt. Es ist allerdings m&#246;glich, dass Aufw&#228;nde
+f&#252;r Dienstreisen entstehen. Zus&#228;tzliche Kosten f&#252;r die Ausstattung &#252;ber B&#252;roarbeitspl&#228;tze, Anmietung von
+R&#228;umlichkeiten und f&#252;r die Beschaffung von IT-Struktur oder Softwarelizenzen ist nicht auszugehen.
+Es ist zu beachten, dass diese Kostensch&#228;tzung nicht mit den f&#252;r den Punk D. des Gesetzesvorblattes vorgesehen
+Haushaltsausgaben &#252;bereinstimmen, da die Berechnung dieser Planstellen u. a. Gemeinkosten und die genaue
+Entgeltgruppe ber&#252;cksichtigen. Die Methodik des Erf&#252;llungsaufwandes weicht von dieser Methodik ab, denn er
+untergliedert die Lohnkosten nur in Laufbahngruppen und nimmt keine Gemeinkosten (Sachkostenpauschalen)
+auf, sondern berechnet anfallende Sachkosten spitz. Dies ist auch bei &#8222;kompletten&#8220; Personalans&#228;tzen der Fall. 
+Die Verteilung der 122 Beh&#246;rden auf die Bedienstetengr&#246;&#223;enklassen wurde auf Basis einer Hochrechnung
+mithilfe von recherchierten Informationen zu 40 betroffenen Beh&#246;rden durchgef&#252;hrt. Das Ergebnis ist unten
+dargestellt.
+In Summe ergeben sich durch die Open-Data-Koordinatorenstellen Aufw&#228;nde in H&#246;he von 2,1 Millionen Euro.
+Beh&#246;rden mit
+Bedienstetenzahl
+Fallzahl
+(Hochrechnung)
+Zeitaufwand 
+pro Fall (in
+Minuten)
+Lohnsatz pro 
+Stunde (in
+Euro)
+Sachkosten
+pro Fall (in
+Euro)
+Personalkosten (in Tsd.
+Euro)
+Sachkosten
+(in Tsd. 
+Euro)
+&#8804; 1.500 105 19.200 43,40 0 1.458 0 
+&gt; 1.500 &#8211; 
+3.000
+10 38.400 43,40 0 278 0 
+&gt; 3.000 &#8211; 
+4.000
+2 57.600 43,40 0 83 0 
+&gt; 4.000 &#8211; 
+5.000
+2 76.800 43,40 0 111 0 
+&gt; 5.000 3 96.000 43,40 0 208 0 
+Erf&#252;llungsaufwand (in Tsd. Euro) 2.138
+Ber&#252;cksichtigt man die aufgef&#252;hrten Soll-Aufw&#228;nde der bereits verpflichteten unmittelbaren Bundesbeh&#246;rden f&#252;r
+die Datenaufbereitung und -ver&#246;ffentlichung (122*75*41,59) als einen Teilaufwand, der von den bereits
+benannten Verantwortlichen erbracht wird (vgl. S. 5), so bel&#228;uft sich der j&#228;hrliche Erf&#252;llungsaufwand durch die ge&#228;nderte
+Vorgabe unter Ber&#252;cksichtigung des Aufwands f&#252;r neu verpflichtete (200.000 Euro) im Vergleich zur Soll-
+Belastung im Saldo auf insgesamt zus&#228;tzliche 2 Millionen Euro. 
+Einmaliger Erf&#252;llungsaufwand
+F&#252;r 43 Forschungseinrichtungen des Bundes wird unter R&#252;ckgriff auf bisher vorliegende Erfahrungswerte zu
+Umstellungskosten durch das 1. ODG aus dem Fortschrittsbericht davon ausgegangen, dass etwa 55.000 Euro je
+Einrichtung anfallen werden f&#252;r bspw. Anpassungen von IT-Prozessen, Datensichtung, Metadaten- bzw.
+Datenschutzkonzepten oder Schulungen. Zzgl. der oben beschriebenen Personalkosten durch die erstmalige
+Bereitstellung von 205.000 Dateien mit Forschungsdaten im Umstellungsjahr ergibt sich f&#252;r 43 betroffene Einrichtungen
+insgesamt ein einmaliger Erf&#252;llungsaufwand von 15 Millionen Euro.
+Fallzahl Zeitaufwand
+pro Fall (in
+Minuten)
+Lohnsatz pro
+Stunde (in 
+Euro)
+Sachkosten pro
+Fall (in Euro)
+Personalkosten 
+(in Tsd. Euro)
+Sachkosten
+(in Tsd. Euro)
+43 0 0 55.000 0 2.365
+205.000 57,5 65,40 0 12.850 0 
+Erf&#252;llungsaufwand (in Tsd. Euro) 15.215
+Vorgabe 2: Beratung zu Fragen der Bereitstellung von Daten; &#167; 12a Abs. 9 EGovG
+Durch die Erweiterung des Anwendungsbereiches von &#167; 12a EGovG ist von einer Erh&#246;hung des
+Beratungsaufwandes f&#252;r das Kompetenzzentrum Open Data im Bundesverwaltungsamt auszugehen. Dabei handelt es sich zum
+bestehenden Aufwand um zus&#228;tzlichen j&#228;hrlichen Erf&#252;llungsaufwand, der auch nicht mit den Open Data
+Koordinator in Verbindung steht. 
+Es wird angenommen, dass f&#252;r den zus&#228;tzlichen Beratungsbedarf eine Stelle im h&#246;heren Dienst sowie eine Stelle
+im gehobenen Dienst ben&#246;tigt werden. Bei einem Lohnsatz in H&#246;he von 43,40 Euro f&#252;r den gehobenen Dienst
+bzw. in H&#246;he von 65,40 Euro f&#252;r den h&#246;heren Dienst entsteht dem Bundesverwaltungsamt durch die erweiterten
+Beratungst&#228;tigkeiten zus&#228;tzlicher j&#228;hrlicher Erf&#252;llungsaufwand von ca. 174.000 Euro.
+Fallzahl Zeitaufwand
+pro Stunde und
+Jahr
+Lohnsatz pro
+Stunde (in 
+Euro)
+Sachkosten pro
+Fall (in Euro)
+Personalkosten 
+(in Tsd. Euro)
+Sachkosten
+(in Tsd. Euro)
+1 1.600 43,40 0 69 0 
+1 1.600 65,40 0 105 0 
+Erf&#252;llungsaufwand (in Tsd. Euro) 174
+Einmaliger Erf&#252;llungsaufwand des Bundes:
+F&#252;r die Beh&#246;rden, die neu verpflichtet werden, entstehen einmalige Erf&#252;llungsaufw&#228;nde. Deren H&#246;he ist
+n&#228;herungsweise bekannt. Lt. der o. g. Erhebung hatte ungef&#228;hr die H&#228;lfte der Beh&#246;rden einen einmaligen Aufwand
+bei der Umsetzung des 1. Open-Data-Gesetzes (Frage D1, Seite 25). Jedoch ist nicht jede teilnehmende Beh&#246;rde
+zu den tats&#228;chlich angefallenen Kosten sprechf&#228;hig gewesen, einige hatten auf die Implementierung verzichtet
+und die Aufw&#228;nde bei den nicht an der Erhebung teilgenommenen Beh&#246;rden sind unbekannt. Bei den Beh&#246;rden,
+die von Aufwand berichten, lag dieser zwischen 16.000 und 94.000 Euro pro Fall. Allerdings war dies eine
+vorgegebene Antwortkategorie, so dass die tats&#228;chlichen Aufw&#228;nde nicht pr&#228;ziser ermittelt wurden. 11 % hatten
+niedrigere (&lt;16.000 Euro) und 8 % h&#246;here Aufw&#228;nde (&gt;94.000 Euro). Da eine genauere Aufschl&#252;sselung der
+einmaligen Kosten nicht vorliegt, k&#246;nnen die einmaligen Kosten mit 55.000 Euro pro Fall ((16.000 + 94.000)/2)
+angesetzt werden. Die Kosten enthalten neben Sach- auch Personalkosten. Sie sind im Einzelfall abh&#228;ngig von
+den strukturellen Voraussetzungen, die die Beh&#246;rde mitbringt (u. a. IT-Ausstattung). 
+Unter die neu verpflichteten Bundesbeh&#246;rden fallen 24 Anstalten und 32 K&#246;rperschaften des &#246;ffentlichen Rechts
+(vgl. Vorgabe 1). Bei insgesamt 56 Beh&#246;rden entstehen somit 3.080.000 Euro Personal- und Sachkosten.
+Berechnung: 55.000 Euro * 56 neu verpflichtete Bundesbeh&#246;rden = 3.080.000 Euro
+Bei den 38 im Bundesbesitz befindenden Stiftungen des &#246;ffentlichen Rechts wird durch das Ressort angenommen, 
+dass nur 20 % der Beh&#246;rden vorhandene Datenbanksysteme haben, die die Anpassung der Datenbanksysteme 
+begr&#252;nden w&#252;rden. Entsprechend kann hier davon ausgegangen werden, dass f&#252;r (aufgerundet) 8 Stiftungen
+(38*0,2) Kosten analog zu den Anstalten und K&#246;rperschaften des &#214;ffentlichen Rechts anfallen werden. Es w&#252;rden
+so zus&#228;tzlich Personal- und Sachkosten in einer H&#246;he von 440.000 Euro entstehen.
+Berechnung: 55.000 Euro * 8 neu verpflichtete Bundesbeh&#246;rden = 440.000 Euro
+Insgesamt entsteht dem Bund somit ein einmaliger Erf&#252;llungsaufwand von 3,5 Millionen Euro aus Personal- und
+Sachkosten.
+Vorgabe 3: Bereitstellung von Anwendungsprogrammierschnittstellen (API) f&#252;r dynamische Daten; &#167; 2 i.
+V. m. &#167; 8 DNG
+Durch die Einf&#252;hrung des Datennutzungsgesetzes (DNG), das das Informationsweiterverwendungsgesetz (IWG)
+abl&#246;st, werden &#246;ffentliche Stellen; &#246;ffentliche Unternehmen und &#246;ffentlich finanzierte nat&#252;rliche oder juristische 
+Personen der Forschung angehalten, bestimmte bereits vorhandene Daten in einem offenen und
+maschinenlesbaren Format bereitzustellen. Im Fokus stehen dabei dynamische Daten. Dynamische Daten sind Informationen, die
+in Echtzeit verf&#252;gbar sind bzw. in sehr kurzen Zeitintervallen aktualisiert werden k&#246;nnen. F&#252;r die vorliegende
+Sch&#228;tzung wird angenommen, dass dies in erster Linie auf Daten zutrifft, deren Aktualisierungsintervalle
+innerhalb weniger Minuten erfolgen k&#246;nnen. Hierzu z&#228;hlen bspw. Daten &#252;ber den Strom- oder Wasserverbrauch,
+Verkehrsdaten des &#246;ffentlichen Personennahverkehrs oder Mobilfunkdaten.
+Das DNG verpflichtet nicht zur Sammlung dynamischer Daten oder zur Bereitstellung der Informationen als
+offene Daten. Dies erfolgt &#252;ber andere gesetzliche Bestimmungen oder freiwillig durch den Bereitsteller. Jedoch
+definiert das DNG das Format, in dem die bereits gesammelten Echtzeitdaten zug&#228;nglich gemacht werden sollen,
+sofern die Erf&#252;llung der Formatanforderung f&#252;r Betroffene wirtschaftlich zumutbar ist.
+Die Anforderung wird i. d. R. erf&#252;llt, wenn Einrichtungen bereits &#252;ber geeignete
+Anwendungsprogrammierschnittstellen (API) f&#252;r den Austausch von Daten verf&#252;gen. Eine API stellt die Kommunikation zwischen zwei
+Programmen oder Systemen in Echtzeit her. Alle &#246;ffentlichen Stellen und &#246;ffentliche Unternehmen, die
+Echtzeitdaten sammeln und die nicht bereits vor Inkrafttreten des DNG &#252;ber API-Schnittstellen verf&#252;gen, werden nach
+Inkrafttreten zur Anpassung ihrer Bereitstellungsm&#246;glichkeiten verpflichtet. Nach Einsch&#228;tzung des Ressorts
+kann die Umstellungserfordernis nur auf Einzelf&#228;lle zutreffen, da dem Ressort bislang keine F&#228;lle bekannt sind,
+in denen dynamische Daten bereits bereitgestellt werden, dies jedoch nicht schon &#252;ber eine API erfolgt. Vor dem
+Hintergrund der Einsch&#228;tzung des BMWi werden im Folgenden daher nur Einzelfallkosten ausgewiesen.
+Einmaliger Erf&#252;llungsaufwand (im Einzelfall):
+Im Rahmen einer an McKinsey &amp; Company vergebenen &#8222;Aufwandssch&#228;tzung f&#252;r die Einf&#252;hrung eines
+register&#252;bergreifenden ID-Managements&#8220; (2020) zum Onlinezugangsgesetz (OZG) wurde f&#252;r die Anpassung von bereits
+vorhandenen Schnittstellen eine Kostenspanne von 15.000 Euro bis 280.000 Euro angegeben. Auf erg&#228;nzende
+Nachfrage des BMWi bei einem Dienstleister wurde als grobe Einsch&#228;tzung f&#252;r die Bereitstellung einer API eine
+Aufwandsspanne von 10.000 bis 15.000 Euro genannt. Es wird daher angenommen, dass im Einzelfall einmaliger
+Erf&#252;llungsaufwand von etwa 15.000 Euro anfallen kann.
+J&#228;hrlicher Erf&#252;llungsaufwand (im Einzelfall):
+Sofern die Bereitstellung von dynamischen Daten &#246;ffentlicher Stellen und &#246;ffentlicher Unternehmen mittels
+geeigneter Schnittstellen nicht bereits vor Inkrafttreten des DNG erfolgt ist, resultiert durch die Pflege und
+Aktualisierung der API ein regelm&#228;&#223;iger Erf&#252;llungsaufwand. 
+Einsch&#228;tzungen, in welchem Umfang laufende Aufw&#228;nden zu ber&#252;cksichtigen seien, gehen auseinander. So wird
+im o. g. McKinsey-Bericht argumentiert, dass dieser Aufwandsposten nur geringe Unterschiede verursacht, weil
+er in klassischer Wartung und Pflege von Softwarebestandteilen aufgeht. Einer vergleichbaren Ex-ante-Sch&#228;tzung
+kann entnommen werden, dass laut BVA bei IT-Projekten von 15-20 % der Investitionskosten pro Jahr f&#252;r
+technische &#196;nderungen, Erweiterungen, etc. veranschlagt werden k&#246;nnen. Weil eine API-Schnittstelle einen
+Fremdzugriff auf die betriebseigene IT-Architektur als Risiko birgt, wird in der vorliegenden Sch&#228;tzung davon
+ausgegangen, dass adressierte Einrichtungen regelm&#228;&#223;ig in die Pflege der Schutzerfordernisse einer Schnittstelle
+investieren, um das Risiko f&#252;r Angriffe zu reduzieren. Demnach w&#252;rden im Einzelfall regelm&#228;&#223;ige Kosten in H&#246;he
+von rund 3.000 Euro f&#252;r die Bereitstellung von dynamischen Daten mittels eine API-Schnittstelle anfallen (15.000
+* 0,18). 
+5. Weitere Kosten
+Insgesamt sind positive volkswirtschaftliche Effekte zu erwarten. Die Studie &#8222;The Economic Impact of Open
+Data &#8211; Opportunities for value creation in Europe&#8220; der Europ&#228;ischen Kommission aus dem Jahr 2020 geht davon
+aus, dass durch die Bereitstellung und Nutzung offener Daten j&#228;hrliche Kosteneinsparungen zwischen 250
+Millionen Euro und 14,8 Milliarden Euro in der &#246;ffentlichen Verwaltung innerhalb der Europ&#228;ischen Union erreicht
+werden k&#246;nnen. Weiterhin ist davon auszugehen, dass die Bereitstellung und Nutzung von offenen Daten positive 
+Auswirkungen auf den Arbeitsmarkt entfaltet. Innerhalb der Europ&#228;ischen Union gehen Studien der Europ&#228;ischen
+Zentralbank, des European Economic Forecast und des Europ&#228;ischen Zentrums f&#252;r die F&#246;rderung der
+Berufsbildung bis zum Jahr 2025 vom Vorhandensein von 1,12 bis 1,97 Millionen Arbeitspl&#228;tzen mit Open-Data-Bezug
+aus, was die Schaffung von weiteren 33.000 bis zu 883.000 Arbeitspl&#228;tzen impliziert.
+6. Weitere Gesetzesfolgen
+Gleichstellungspolitische Belange sind ber&#252;cksichtigt. Die Geschlechter sind in gleicher Weise betroffen. Auch
+eine mittelbare geschlechterbezogene Benachteiligung liegt nicht vor. 
+VII. Befristung; Evaluierung
+Eine Befristung oder gesonderte Evaluierung ist f&#252;r Artikel 1 nicht vorgesehen, da nach Artikel 2 des Ersten
+Gesetzes zur &#196;nderung des E-Government-Gesetzes vom 5. Juli 2017 eine Evaluierung innerhalb von vier Jahren
+erfolgt. In die Evaluation gem&#228;&#223; Artikel 2 des Ersten Gesetzes zur &#196;nderung des E-Government-Gesetzes vom
+5. Juli 2017 flie&#223;en die Erkenntnisse der alle zwei Jahre dem Bundestag vorzulegenden Fortschrittsberichte der
+Bundesregierung gem&#228;&#223; &#167; 12a Absatz 10 EGovG ein. Der gemeinsam mit der Evaluierung zu Artikel 2 des Ersten
+Gesetzes zur &#196;nderung des E-Government-Gesetzes erfolgende Zweite Bericht der Bundesregierung &#252;ber die
+Fortschritte bei der Bereitstellung von Daten wird dabei neben der Evaluierung der Sch&#228;tzungen zu
+Erf&#252;llungsaufw&#228;nden des Ersten Gesetzes zur &#196;nderung des E-Government-Gesetzes vom 5. Juli 2017 insbesondere die
+Indikatoren Anzahl ver&#246;ffentlichter Datens&#228;tze auf GovData sowie die in Anspruch genommenen
+Beratungsleistungen der &#8222;Zentrale Stelle&#8220; gem&#228;&#223; &#167; 12a Absatz 9 EGovG durch die einschl&#228;gigen Beh&#246;rden ber&#252;cksichtigt.
+Eine Befristung sieht das Gesetz aus Artikel 2 (Datennutzungsgesetz) nicht vor. Gem&#228;&#223; Artikel 18 der Richtlinie 
+(EU) 2019/1024 wird die Kommission fr&#252;hestens am 17. Juli 2025 eine Bewertung der Richtlinie durchf&#252;hren
+und &#252;bermittelt dem Europ&#228;ischen Parlament und dem Rat sowie dem Europ&#228;ischen Wirtschafts- und
+Sozialausschuss einen Bericht &#252;ber die wichtigsten Ergebnisse dieser Bewertung. Bei der Bewertung werden insbesondere
+der Anwendungsbereich und die gesellschaftlichen und wirtschaftlichen Auswirkungen der Richtlinie gepr&#252;ft,
+einschlie&#223;lich des Steigerungsgrads der Nutzung &#8211; vor allem durch KMU &#8211; von Daten des &#246;ffentlichen Sektors,
+der Auswirkungen der hochwertigen Datens&#228;tze, der Auswirkungen der angewandten Grunds&#228;tze f&#252;r die
+Bemessung der Entgelte und der Nutzung amtlicher Rechtsetzungs- und Verwaltungstexte, der Nutzung von Daten
+anderer Einrichtungen als &#246;ffentlicher Stellen, der Verf&#252;gbarkeit und Verwendung von
+Anwendungsprogrammierschnittstellen, des Zusammenwirkens der Datenschutzvorschriften und der M&#246;glichkeiten der Nutzung, weiterer
+M&#246;glichkeiten der Verbesserung des reibungslosen Funktionierens des Binnenmarktes und der F&#246;rderung der
+Entwicklung der Wirtschaft und des Arbeitsmarktes.
+B. Besonderer Teil
+Zu Artikel 1 (&#196;nderung des E-Government-Gesetzes)
+Zu Nummer 1
+Es handelt sich um eine redaktionelle Folge&#228;nderung aufgrund der durch die Ausweitung des
+Anwendungsbereichs und der Neuregelung der Verordnungserm&#228;chtigung notwendige Anpassung der &#220;berschrift des &#167; 12a.
+Zu Nummer 2
+Es handelt sich um eine redaktionelle Folge&#228;nderung aufgrund der Abl&#246;sung des bisher geltenden
+Informationsweiterverwendungsgesetzes durch das Datennutzungsgesetz in Artikel 2.
+Zu Nummer 3
+Die Bundesregierung hat es sich zur Aufgabe gemacht, Deutschland als Vorreiter der Digitalisierung in Europa
+zu etablieren. Die Richtlinie (EU) 2019/1024 setzt Impulse, um die Weiterentwicklung der Open-Data-Politiken
+der Mitgliedsstaaten zu forcieren. Insbesondere die Bereitstellung von Daten ist vor diesem Hintergrund
+kontinuierlich zu verbessern, der Adressatenkreis der im E-Government-Gesetz Verpflichteten zu erweitern und
+Ausnahmetatbest&#228;nde soweit wie m&#246;glich einzuschr&#228;nken.
+Zu Buchstabe a
+Die Anpassung der &#220;berschrift erfolgt aufgrund der Neuregelung des Anwendungsbereichs infolge der &#196;nderung
+des &#167; 12a Absatz 1 Satz 1, durch die nunmehr auch Beh&#246;rden der mittelbaren Bundesverwaltung mit den
+genannten Ausnahmen einbezogen werden. Die im neuen Absatz 12 geregelte Verordnungserm&#228;chtigung war au&#223;erdem
+als Bestandteil in die &#220;berschrift aufzunehmen. 
+Zu Buchstabe b
+Die Bundesregierung m&#246;chte die Datenbereitstellung durch staatliche Beh&#246;rden verbessern und erweitern. Mit
+Blick auf eine m&#246;glichst umfassende Ver&#246;ffentlichung offener Daten des Bundes ist daher auch der Kreis der
+durch &#167; 12a EGovG verpflichteten Datenbereitsteller auszuweiten von den Beh&#246;rden der unmittelbaren
+Bundesverwaltung auf alle Beh&#246;rden des Bundes einschlie&#223;lich der bundesunmittelbaren K&#246;rperschaften, Anstalten und
+Stiftungen des &#246;ffentlichen Rechts. Dies gilt insbesondere vor dem Hintergrund, dass weniger die obersten
+Bundesbeh&#246;rden, sondern vielmehr die schwerpunktm&#228;&#223;ig operativ arbeitenden Gesch&#228;ftsbereichsbeh&#246;rden, zu denen
+auch die mittelbare Bundesverwaltung geh&#246;rt, zur Erf&#252;llung ihrer &#246;ffentlich-rechtlichen Aufgaben Daten erheben.
+Der im Koalitionsvertrag f&#252;r die 19. Legislaturperiode festgeschriebene Wille, eine solche Erweiterung im
+Rahmen eines zweiten Open-Data-Gesetzes zu vollziehen, wird weiterhin durch die Bundesregierung sowie die
+Koalitionsparteien bekr&#228;ftigt. Ausgenommen von der Bereitstellungspflicht sind nunmehr explizit
+Selbstverwaltungsk&#246;rperschaften sowie Beliehene (wie z. B. die das Unternehmensregister und das Transparenzregister
+f&#252;hrende Stelle). Diese unterfallen grunds&#228;tzlich auch dem Beh&#246;rdenbegriff vom &#167; 1 Abs. 4 des
+Verwaltungsverfahrensgesetzes. Eine Einbeziehung h&#228;tte jedoch zum jetzigen Zeitpunkt einen zu hohen Umsetzungsaufwand
+begr&#252;ndet. Die Einbeziehung solcher Stellen im Rahmen eines weiteren Open-Data-Gesetzes ist damit jedoch nicht
+ausgeschlossen und wird zu gegebener Zeit gepr&#252;ft werden. 
+Mit der Schaffung einer einheitlichen Schnittstelle zur automatisierten &#220;bergabe der Metadatens&#228;tze der
+Bundesverwaltung an das nationale Metadatenportal GovData sowie einer optimierten Nutzerverwaltung (&#8222;Ma&#223;nahme
+IT Unterst&#252;tzung Open Data&#8220;) ist bereits jetzt der Weg f&#252;r die Einbeziehung der mittelbaren Bundeverwaltung
+geebnet, denn dadurch wird sich der manuelle Bearbeitungsaufwand sowohl der Bundesverwaltung, als auch der
+Gesch&#228;fts- und Koordinierungsstelle GovData erheblich verringern. Zieldatum hierf&#252;r ist der 01/2022.
+Der Begriff der Beh&#246;rde im Rahmen des &#167; 12a entspricht der Regelung des &#167; 1 Absatz 4 des
+Verwaltungsverfahrensgesetzes. K&#246;rperschaften des privaten Rechts (insbesondere Beteiligungen des Bundes) sind grunds&#228;tzlich
+keine Beh&#246;rde im Sinne des &#167; 12a EGovG, es sei denn, sie sind durch Rechtsvorschrift als Beh&#246;rde bestimmt. 
+Ziel der Bundesregierung ist es, die Qualit&#228;t der Datenbereitstellung und -nutzung im Hinblick auf das
+Innovationspotenzial von Daten f&#252;r Gesellschaft, Wirtschaft, Wissenschaft und Staat zu verbessern. Hierf&#252;r m&#252;ssen offene
+Daten maschinenlesbar bereitgestellt werden. Der Begriff der Maschinenlesbarkeit entspricht dabei dem
+Verst&#228;ndnis der Richtlinie (EU) 2019/1024. Darin hei&#223;t es, ein Dokument sollte als maschinenlesbar gelten, wenn es
+in einem Dateiformat vorliegt, das so strukturiert ist, dass Softwareanwendungen die konkreten Daten einfach
+identifizieren, erkennen und extrahieren k&#246;nnen. Daten in Dateien, die in maschinenlesbarem Format strukturiert
+sind, sollten als maschinenlesbare Daten gelten. Ein maschinenlesbares Format kann offen oder propriet&#228;r sein.
+Es kann einem formellen Standard entsprechen oder nicht. Dokumente, die in einem Dateiformat kodiert sind,
+das eine automatische Verarbeitung einschr&#228;nkt, weil die Daten nicht oder nicht ohne Weiteres aus ihnen
+extrahiert werden k&#246;nnen, sollten nicht als maschinenlesbar gelten.
+Diese Ma&#223;nahme entspricht auch den Empfehlungen der Datenethikkommission der Bundesregierung, die f&#252;r die
+Entwicklung der europ&#228;ischen Datenwirtschaft im Zugang europ&#228;ischer Unternehmen zu geeigneten nicht-
+personenbezogenen Daten in geeigneter Qualit&#228;t einen zentralen Faktor sieht. Auch die KI-Strategie der
+Bundesregierung sieht in maschinell erzeugten Daten eine wichtige Ressource.
+Das Erfordernis der Maschinenlesbarkeit wurde vom bisherigen Absatz 5 in Absatz 1 &#252;bertragen und dort als
+Tatbestandsmerkmal aufgenommen. Eine Bereitstellungspflicht nach Absatz 1 besteht daher nur f&#252;r
+unbearbeitete, maschinenlesbare Daten. 
+Zu Buchstabe c
+Zu Doppelbuchstabe aa
+Hierbei handelt es sich um eine redaktionelle Folge&#228;nderung aufgrund der Ausweitung des Anwendungsbereichs.
+Zu Doppelbuchstabe bb
+Die hier vorgenommene Einf&#252;gung dient der Klarstellung des Begriffs der unbearbeiteten Daten.
+In erster Linie hebt das Open-Data-Gesetz auf prim&#228;r erhobene Daten ab. Diese werden jedoch zunehmend durch
+komplexe digitale Mess- und Erhebungsverfahren erzeugt. Unbearbeitete Daten im Sinne dieses Gesetzes sind
+beispielsweise auch Daten, die das Ergebnis wissenschaftlicher Simulationsverfahren sind. Bei solchen
+Erhebungsverfahren sind in der Regel Verfahren zur Bereinigung der urspr&#252;nglichen Prim&#228;rdaten bereits integriert
+(bspw. Kalibrierung, Qualit&#228;tskontrolle, Fehlerkorrekturen unter Einbeziehung weiterer aus Messungen
+gewonnener Daten, Formatierung, Zuweisung von Metainformation, ggf. Georeferenzierung, zeitliche Zuordnung,
+Speicherung, etc.). Diese Verfahren sind erforderlich, damit die Daten &#252;berhaupt weiter verwendbar sind. Eine
+Bereitstellung vollst&#228;ndig unbearbeiteter Daten w&#228;re hier angesichts der eingeschr&#228;nkten Nutzbarkeit dieser Daten
+nicht sinnvoll und z.T. mit zus&#228;tzlichen Aufw&#228;nden verbunden. Die Entscheidung, in welchem Zustand ab
+Erhebung Daten bereitgestellt werden, liegt im Ermessen der Beh&#246;rden des Bundes und sollte sich an der
+Zweckm&#228;&#223;igkeit und Wirtschaftlichkeit orientieren. Dies gew&#228;hrleistet der Wissenschaft Zugang zu unbearbeiteten Daten
+in einer Qualit&#228;t, die sich in der Regel ohne die Expertise der Beh&#246;rde nicht oder nur schwer erreichen l&#228;sst. 
+Aufbereitete Endprodukte, die weitergehende Interpretationen oder eine m&#246;gliche Ver&#228;nderung ihres
+Informationsgehalts beinhalten, fallen demnach ebenso wenig unter die Bereitstellungspflicht wie beispielsweise
+statistische Auswertungen. Ein Hinderungsgrund zur Ver&#246;ffentlichung solcher Daten ergibt sich aus &#167; 12a EGovG
+jedoch nicht.
+Zu Doppelbuchstabe cc 
+Im Rahmen des Koalitionsvertrages zwischen Union und SPD wurde vereinbart, dass Forschungsdaten
+systematisiert und nachhaltig zug&#228;nglich gemacht werden sollen. Ziel der &#196;nderung des bisherigen &#167; 12a Absatz 2
+Nummer 5 ist es daher, die Bereitstellung von unbearbeiteten Forschungsdaten zu steigern. Die Bereitstellung von
+Forschungsdaten durch den Bund kann eine Kultur der &#8222;Open Science&#8220; bef&#246;rdern, deren Ziel h&#246;here
+Vergleichbarkeit und Reproduzierbarkeit von Forschungsergebnissen ist. Dabei ist die Bereitstellung von Rohdaten aus der
+Forschung in vielen internationalen wissenschaftlichen Fachzeitschriften bereits heute eine notwendige
+Bedingung zur Annahme von Fachbeitr&#228;gen. Durch die Vereinfachung des Zugangs zu Forschungsdaten im Zuge der
+Bereitstellung &#252;ber das nationale Metadatenportal GovData werden Eintrittsbarrieren f&#252;r die Durchf&#252;hrung
+spezifischer wissenschaftlicher Forschungsvorhaben verringert, wodurch die Anzahl an Forschungsvorhaben sowie
+deren Replizierbarkeit gesteigert werden kann. Den Besonderheiten im Rahmen von Forschungsdaten wurde im
+Hinblick auf eine verz&#246;gerte Bereitstellungspflicht in Absatz 4 Satz 3 Rechnung getragen.
+Durch den neu gefassten &#167; 12a Absatz 2 Nummer 5 wird zudem klargestellt, dass personenbezogene Daten nur in
+anonymisierter Form bereitgestellt werden m&#252;ssen. Datens&#228;tze m&#252;ssen nach diesem Gesetz auch in solchen F&#228;llen 
+nicht bereitgestellt werden, bei denen im Anschluss an eine Ver&#246;ffentlichung eine Re-Identifizierung durch
+Verkn&#252;pfung mit anderen, &#246;ffentlich zug&#228;nglichen Daten nicht ausgeschlossen werden kann. Gleiches gilt f&#252;r
+Verfahren, bei denen die den betroffenen Personen zugesicherte Vertraulichkeit deutlich im Vordergrund steht. 
+Dies ist mit europarechtlichen Vorgaben vereinbar, insbesondere mit der Richtlinie (EU) 2019/1024. Nach Art. 1
+Abs. 2 Richtlinie (EU) 2019/1024 gilt diese nicht f&#252;r Dokumente, die nach den Zugangsregelungen der
+Mitgliedstaaten aus Gr&#252;nden des Schutzes personenbezogener Daten nicht zug&#228;nglich sind. Die Richtlinie setzt mithin 
+voraus, dass die Mitgliedstaaten zum Schutz von personenbezogenen Daten den Zugang zu diesen nach
+nationalem Recht ausschlie&#223;en k&#246;nnen. Auch Erw&#228;gungsgrund 52 der Richtlinie (EU) 2019/1024 macht deutlich, dass
+allenfalls anonymisierte Daten bereitgestellt werden m&#252;ssen, denn &#8222;die Anonymisierung von Informationen stellt
+ein Mittel dar, um das Interesse daran, Informationen des &#246;ffentlichen Sektors m&#246;glichst weiterverwendbar zu
+machen, und die aus dem Datenschutzrecht erwachsenden Verpflichtungen miteinander zu vereinbaren.&#8220;
+Durch die Umsetzung der Richtlinie (EU) 2019/1024 ist die ausdr&#252;ckliche gesetzliche Klarstellung geboten, dass
+personenbezogene Daten nach &#167; 12a Absatz 1 Satz 1 nicht als offene Daten bereitgestellt werden m&#252;ssen.
+Andernfalls k&#246;nnten die unmittelbar geltenden Vorgaben der DSGVO nicht eingehalten werden. Wenn
+bereitgestellte Daten nach dem Datennutzungsgesetz offen zum ggf. massenhaften Download zur Verf&#252;gung gestellt
+werden m&#252;ssen, k&#246;nnte z. B. nicht sichergestellt werden, dass personenbezogene Daten nur in solche Drittl&#228;nder
+&#252;bermittelt werden, bei denen die Voraussetzungen hierf&#252;r nach dem f&#252;nften Kapitel der Datenschutz-
+Grundverordnung vorliegen.
+Zu Buchstabe d
+Zu Doppelbuchstabe aa
+Es handelt sich um eine Konkretisierung der Verweise. Da personenbezogene Daten bereits von dem
+Ausnahmetatbestand des &#167; 12a Absatz 3 Nummer 1 Buchstabe a erfasst sind, ist ein Verweis auf &#167; 5 des
+Informationsfreiheitsgesetzes nicht erforderlich.
+Zu Doppelbuchstabe bb
+Es handelt sich um eine redaktionelle Folge&#228;nderung.
+Zu Doppelbuchstabe cc
+Die Neufassung der Nummer 3 stellt einen Kompromiss bez&#252;glich der Ausweitung auf Daten, die zu
+Forschungszwecken erhoben wurden, dar. Um der M&#246;glichkeit von Doppelstrukturen entgegenzuwirken, sind solche Daten
+dann nicht &#252;ber Metadaten bei GovData bereitzustellen, wenn sie bereits anderweitig entgeltfrei &#252;ber &#246;ffentliche
+Netze bereitgestellt werden. Denn die Anspr&#252;che der Wissenschaft an die Bereitstellung von Forschungsdaten
+sind in der Regel h&#246;her als bei anderen Daten der Verwaltung und werden international als &#8222;FAIR Data Principles&#8220;
+zusammengefasst: Findable (auffindbar), Accessible (zug&#228;nglich), Interoperable (interoperabel) und Re-usable
+(wiederverwendbar). Die Umsetzung der FAIR-Prinzipien erfordert dann in vielen Punkten &#252;ber die
+Anforderungen von GovData hinausgehende Konzepte, z. B. der Archivierung. 
+Ein Beispiel hierf&#252;r ist die Bereitstellung im Rahmen der im Aufbau befindlichen Nationalen
+Forschungsdateninfrastruktur (NFDI) oder vergleichbaren Infrastrukturen oder Projekten aus dem Bereich von Forschung und
+Wissenschaft. Diese Infrastrukturen bieten neben einer Bereitstellung als Open Data z.T. auch technisch-
+organisatorische L&#246;sungen, im Ursprung sensible Daten mit Einschr&#228;nkung der Nutzerkreise (z. B. Wissenschaftliche
+Einrichtungen) oder der Nutzungsrechte (z. B. Forschung zu bestimmten Zwecken) nach den FAIR-Prinzipien
+bereitzustellen. Auch diese Form eines integrierten und harmonisierten Zugangs kann die Anforderungen dieses
+Gesetzes in Bezug auf &#246;ffentlich zug&#228;ngliche Netze erf&#252;llen 
+Um m&#246;glichen Doppelstrukturen entgegenzuwirken, sind Forschungsdaten daher nicht prim&#228;r &#252;ber Metadaten bei
+GovData bereitzustellen, wenn sie bereits entgeltfrei &#252;ber solche Infrastrukturen oder andere &#246;ffentliche Netze
+bereitgestellt werden. 
+Zu Doppelbuchstabe dd
+Diese Nummer dient der Klarstellung des Schutzes des Bankgeheimnisses, soweit dieses nicht von den
+Tatbest&#228;nden der &#167;&#167; 3, 4 und 6 des Informationsfreiheitsgesetzes gesch&#252;tzt wird. Es soll klargestellt werden, dass der
+gesetzlich nicht normierte speziell aber allgemein anerkannte besondere Schutz, der sich aus dem Recht des
+Kunden auf informationelle Selbstbestimmung im Sinne des Art. 2 GG sowie dem Recht des Kreditinstitutes auf freie
+Berufsaus&#252;bung nach den Grunds&#228;tzen des Art. 12 GG ergibt, auch im Rahmen des &#167; 12a EGovG geachtet wird.
+Der Schutz des Bankgeheimnisses erlaubt die Bereitstellung eigentlich anonymer Daten nur, soweit sichergestellt
+ist, dass aus diesen keine R&#252;ckschl&#252;sse auf individuelle Kunden- oder Vertragsbeziehungen m&#246;glich sind (Schutz
+vor &#8222;Deanonymisierung&#8220;).  
+Zu Buchstabe e
+&#167; 12a Absatz 3a regelt, dass Datens&#228;tze insgesamt nicht von der Bereitstellungspflicht des Absatzes 1 Satz 1
+erfasst sind, wenn sie personenbezogene Daten enthalten (sog. gemischte Datens&#228;tze). Unter Datens&#228;tzen sind
+insbesondere Sammlungen zu verstehen. In den Sammlungen der Register (wie zum Beispiel das
+Transparenzregister, Unternehmensregister usw.) sowie in Verzeichnissen von berufsst&#228;ndischen und vergleichbaren
+Selbstverwaltungsk&#246;rperschaften sind in der Regel personenbezogene Daten enthalten, so dass deren Daten unter den
+Ausschluss nach Absatz 3a fallen. Dieser Ausschluss w&#228;re auch f&#252;r die Daten der Handels-, Genossenschafts-,
+Partnerschafts- und Vereinsregister einschl&#228;gig; allerdings werden diese Register von den Registergerichten der
+L&#228;nder gef&#252;hrt, so dass bereits mangels Daten des Bundes der Anwendungsbereich des Gesetzes nicht er&#246;ffnet ist.
+Unber&#252;hrt bleiben die anderweitigen bisherigen Ausnahmetatbest&#228;nde. 
+Zu Buchstabe f
+In Bezug auf Daten, die zu Forschungszwecken erhoben wurden, wird die Besonderheit erkannt, dass nach den
+Regeln wissenschaftlichen Arbeitens, wie z. B. den Leitlinien guter wissenschaftlicher Praxis in Deutschland,
+eine Bereitstellung von Daten in der Regel erst erfolgt, wenn das der Datenerhebung zugrundeliegende
+Forschungsvorhaben abgeschlossen und der Forschungszweck erf&#252;llt ist. Ein Forschungsvorhaben gilt in der Regel
+dann als abgeschlossen, wenn die entsprechenden Ergebnisse vollst&#228;ndig ver&#246;ffentlicht wurden. 
+Zus&#228;tzlich ist die Datenbereitstellung an die Erf&#252;llung des Forschungszwecks gekn&#252;pft. In der Regel stellt die 
+Ver&#246;ffentlichung gleichzeitig auch den zugrundeliegenden Forschungszweck dar. Liegt der Forschungszweck
+eines Forschungsvorhabens in der Bereitstellung von beh&#246;rdlichen Entscheidungshilfen oder der Wahrnehmung
+administrativer/hoheitlicher Aufgaben oder der Entwicklung einer Innovation, hat die Bereitstellung der
+Forschungsdaten in der Regel nach vollst&#228;ndiger Umsetzung dieses Forschungszwecks zu erfolgen. Bei
+Innovationsvorhaben soll zumindest die ggf. angestrebte Schutzrechtsanmeldung abgewartet werden k&#246;nnen.
+Durch die hier begr&#252;ndete M&#246;glichkeit der an der vollst&#228;ndigen Umsetzung des Forschungsvorhabens orientierten
+Bereitstellung der Daten wird ein Ausgleich geschaffen zwischen der Notwendigkeit, auch im Bereich von
+Wissenschaft und Forschung die Bereitstellung offener Daten zu erh&#246;hen, und dem Erfordernis, der erhebenden Stelle
+die M&#246;glichkeit einzur&#228;umen, zun&#228;chst das Ziel der Datenerhebung in Form des Abschlusses des
+Forschungsvorhabens und der Erf&#252;llung des Forschungszwecks zu erreichen, und erst danach in einer angemessenen Frist die
+Ressourcen zur Aufbereitung weitergabef&#228;higer Datens&#228;tze aufzubringen. Dies ist insbesondere dann
+erforderlich, wenn Forschung nicht alleine aus wissenschaftlichem Selbstzweck erfolgt, sondern weitere Beweggr&#252;nde
+f&#252;r die Durchf&#252;hrung eines Forschungsvorhabens bestehen. Ein Beispiel hierf&#252;r ist die Vorbereitung
+administrativer Entscheidungen durch wissenschaftliche Forschung. Die Erf&#252;llung des Zeitplans zur Erreichung eines
+solchen Forschungszwecks soll nicht durch eine verpflichtende Ver&#246;ffentlichung der Daten unmittelbar nach
+Abschluss der wissenschaftlichen Arbeiten gef&#228;hrdet oder unm&#246;glich gemacht werden. Eine an die Erreichung dieser
+Zwecke anschlie&#223;ende Datenbereitstellung schafft den n&#246;tigen Freiraum, um weitere Forschung zu betreiben.
+Der neue Satz 3 sichert die Erhaltung der Teilnahmebereitschaft gerade bei Forschungsvorhaben, bei denen
+vulnerable Personengruppen mitwirken, oder sofern das Forschungsvorhaben allgemein von einer freiwilligen
+Teilnehmerschaft abh&#228;ngt. Die betroffenen Personen zugesicherte Vertraulichkeit und/oder Zweckbindung bleibt
+unber&#252;hrt. 
+Zu Buchstabe g
+Diese Streichung ist die Folge der Aufnahme des Maschinenlesbarkeitserfordernisses in Absatz 1 Satz 1. Durch
+die Streichung des Absatz 5 Satz 1 wird geregelt, dass die Maschinenlesbarkeit der Daten als Tatbestandsmerkmal
+eine Voraussetzung f&#252;r das Bestehen einer Datenbereitstellungspflicht ist. Dies erleichtert die Handhabung des
+Gesetzes und stellt klar, dass die Pflicht zur Bereitstellung in maschinenlesbarem Format keine Pflicht zur
+Umwandlung von Daten in ein maschinenlesbares Format begr&#252;ndet.
+Zu Buchstabe h
+Es handelt sich um eine redaktionelle Folge&#228;nderung. 
+Zu Buchstabe i
+Die Bundesregierung hat in ihrem ersten Bericht &#252;ber die Fortschritte bei der Bereitstellung von Daten
+(Drucksache 19/14140) festgestellt, dass im Hinblick auf die Bedeutung, die offene Daten f&#252;r das Gemeinwohl zuerkannt
+wird und die Schwierigkeiten, die im Rahmen der Bereitstellung auftreten k&#246;nnen, auch die einzelnen Beh&#246;rden
+des Bundes mehr Unterst&#252;tzung bei der allt&#228;glichen Bereitstellung bekommen m&#252;ssen. Mit der Schaffung eines
+zentralen Koordinators f&#252;r Open Data wird die Rolle von Open Data in den erfassten Beh&#246;rden der unmittelbaren
+Bundesverwaltung mit mehr als 50 Besch&#228;ftigten nun aktiv best&#228;rkt. Dem 1. Open-Data-Fortschrittsbericht
+zufolge gaben 57 % der Beh&#246;rden, die an der Befragung teilnahmen, an, dass nicht gen&#252;gend Ressourcen vorhanden
+seien, um sich mit dem Thema Open Data auseinanderzusetzen. 40 % der Beh&#246;rden, die an der Befragung
+teilnahmen, sagten aus, dass Mitarbeiterinnen und Mitarbeiter nur &#252;ber unzureichendes Wissen im Umgang mit
+offenen Daten verf&#252;gten und 38 % der Beh&#246;rden, die an der Befragung teilnahmen, gaben an, dass Mitarbeiterinnen
+und Mitarbeiter &#252;ber unzureichendes Wissen &#252;ber die Potenziale der Weiterverwendung bereitgestellter Daten
+verf&#252;gten. Von der Einbeziehung der Hauptzoll&#228;mter sowie vergleichbarer &#246;rtlicher Bundesbeh&#246;rden wurde
+zun&#228;chst aus Effektivit&#228;tsgr&#252;nden abgesehen. 
+Ein Open-Data-Koordinator bzw. eine Open-Data-Koordinatorin wirkt daher in der Funktion als zentraler interner
+und auch externer Beratungs- und Ansprechpartner auf die Durchsetzung der Ziele des Bundes im Hinblick auf
+die Bereitstellung unbearbeiteter, offener Daten hin. Die Aufgabengebiete umfassen dabei die Schulung von
+Mitarbeiterinnen und Mitarbeitern zur Sensibilisierung im Umgang mit offenen Daten gem&#228;&#223; der Definition des &#167; 12a
+und die Beratung im Zusammenhang mit der Bereitstellung offener Daten. Dabei wirkt der Open-Data-
+Koordinator bzw. die -Koordinatorin auf die Konformit&#228;t mit gem&#228;&#223; &#167; 12a Absatz 12 erlassenen Verordnungen zu
+Ver&#246;ffentlichungsprozessen, Formatanforderungen und technischen Schnittstellen zu Ver&#246;ffentlichungsportalen hin.
+Dies schlie&#223;t auch die Erstellung von Leitf&#228;den zur Bereitstellung offener Daten durch die Beh&#246;rde ein.
+Weiterhin dient der Koordinator bzw. die Koordinatorin als zentraler Ansprechpartner der Beh&#246;rde f&#252;r die
+zentrale Stelle gem&#228;&#223; des neuen &#167; 12a Absatz 10. Auch bei einer Steigerung der Personalkapazit&#228;ten des
+Kompetenzzentrums Open Data ist die Schaffung solcher Koordinatoren innerhalb der Beh&#246;rden notwendig. Sie sind als
+notwendige &#8222;Mittler&#8220; zwischen ihrer Beh&#246;rde und dem CCOD sowie dem Metadatenportal GovData zu verstehen.
+Erst die Erkenntnis, dass &#252;berhaupt offene Daten in der jeweiligen Beh&#246;rde vorhanden sind (Frage des &#8222;Ob&#8220;),
+f&#252;hrt zu einer Kontaktaufnahme zum CCOD (bzgl. Fragen des &#8222;Wie&#8220;). Aus dem o. g. Fortschrittsbericht ergibt
+sich, dass 79 % der Befragten die Angebote des CCOD gar nicht genutzt haben, unter anderem, weil nach ihrer
+Einsch&#228;tzung kein Bedarf bestand. Hieraus ergibt sich die Notwendigkeit, in den Beh&#246;rden selbst anzusetzen.
+Anders als beispielsweise ein Datenschutzbeauftragter ist der Open-Data-Koordinator / die Open-Data-
+Koordinatorin als Rolle im Sinne eines &#8222;single point of contact&#8220; f&#252;r die offenen Daten in der Beh&#246;rde zu verstehen.
+Einem Datenschutzbeauftragten gleichende Rechte und Pflichten sind explizit nicht vorgesehen. Die im hiesigen 
+Erf&#252;llungsaufwand festgelegten Vz&#196; von 0,2 bis 1 geben den einzelnen Beh&#246;rden erheblichen Spielraum bei der
+konkreten Ausgestaltung, sodass ein Einklang zwischen Entscheidungsfreiheit der Beh&#246;rde und Verbesserung der
+Bereitstellungsprozesse f&#252;r offene Daten durch die Beh&#246;rde gefunden wird. Es obliegt damit jeder Beh&#246;rde selbst,
+in welcher konkreten Form sie die Position des Open-Data-Koordinators oder der Open-Data-Koordinatorin
+organisatorisch ausgestaltet. 
+Der/die Koordinator/in ist aber grunds&#228;tzlich in einer geeigneten Organisationseinheit zu verorten, die f&#252;r die
+Gestaltung der Datenprozesse verantwortlich ist, und untersteht weiterhin dem Weisungsrecht des
+Dienstvorgesetzten. 
+Zur Unterst&#252;tzung der Open-Data-Koordinatoren wird dar&#252;ber hinaus durch das Kompetenzzentrum Open Data
+ein Musterdatenkatalog erarbeitet, anhand dessen die regelm&#228;&#223;ig in den Beh&#246;rden anfallenden Daten schnell
+identifiziert werden k&#246;nnen. Au&#223;erdem werden in Zusammenarbeit mit der Bundesakademie f&#252;r die &#246;ffentliche
+Verwaltung (BAk&#246;V) Schulungskonzepte erstellt, die zur Fortbildung von Open-Data-Koordinatoren im Rahmen der
+Datenkompetenz beitragen sollen. Dadurch k&#246;nnen innerhalb der Beh&#246;rden Regelprozesse erarbeitet werden, die
+sich mittelfristig auch positiv auf den laufenden Erf&#252;llungsaufwand auswirken werden.
+Komplement&#228;r zu &#167; 12a Absatz 3 Nr. 1a EGoVG werden auch bei Absatz 9 Stellen nach &#167; 3 Nr. 8
+Informationsfreiheitsgesetz von der Einrichtung eines dementsprechenden Verantwortlichen ausgenommen.
+Die freiwillige Einrichtung entsprechender Koordinatoren in den Beh&#246;rden der mittelbaren Bundesverwaltung,
+den Beh&#246;rden mit weniger als 50 Besch&#228;ftigten sowie in &#246;rtlichen Bundesbeh&#246;rden bleibt weiterhin m&#246;glich und
+wird ausdr&#252;cklich begr&#252;&#223;t.
+Zu Buchstabe j
+Bei der Neunummerierung handelt sich um eine redaktionelle Folge&#228;nderung aufgrund des Einf&#252;gens des neuen
+Absatzes 9.
+Zu Buchstabe k
+Es handelt sich um eine redaktionelle Folge&#228;nderung. 
+Zu Buchstabe l
+Zur besseren Regelung einheitlicher Standards zur Datenbereitstellung und einer flexibleren Gestaltung
+technischer Einzelheiten ist eine Verordnungserm&#228;chtigung f&#252;r den Kompetenzbereich der Beh&#246;rden des Bundes
+notwendig. Die Bundesregierung kann insoweit f&#252;r geeignete Datenkategorien durch Rechtsverordnung Vorgaben
+zu Formaten, Schnittstellen und Ver&#246;ffentlichungsprozessen definieren. Durch die M&#246;glichkeit zur Schaffung
+datenspezifischer Vorgaben tr&#228;gt die Verordnungserm&#228;chtigung einem Ziel der KI-Strategie der Bundesregierung
+Rechnung, demzufolge die Entwicklung von Standards f&#252;r Datenformate und Schnittstellen gef&#246;rdert werden soll. 
+Zu Nummer 4
+Zu Buchstabe a
+Die Bereitstellung von offenen Daten bedeutet f&#252;r die Beh&#246;rden einen zus&#228;tzlichen Aufwand. Aus diesem Grund
+gilt f&#252;r die nunmehr neu in den Anwendungsbereich des &#167; 12a einbezogenen Beh&#246;rden der mittelbaren
+Bundesverwaltung eine maximal zw&#246;lfmonatige &#220;bergangsfrist f&#252;r die Bereitstellung zum Aufbau der notwendigen
+technischen und personellen Kapazit&#228;ten. Sollten im Einzelfall erhebliche technische Anpassungen erforderlich sein
+und diese einen unverh&#228;ltnism&#228;&#223;ig gro&#223;en Aufwand verursachen, verl&#228;ngert sich der Zeitraum f&#252;r die erstmalige 
+Bereitstellung der Daten weiterhin nach Absatz 2 Satz 2 auf bis zu zwei Jahre. F&#252;r die bereits im Rahmen der
+vorherigen &#196;nderungsnovelle des EGovG im Jahr 2017 von der Pflicht nach &#167; 12a betroffenen unmittelbaren 
+Bundesbeh&#246;rden wird keine neue &#220;bergangsfrist geschaffen. 
+Zu Buchstabe b
+Die Regelung dient der Ber&#252;cksichtigung der Besonderheiten bei der erstmaligen Einbeziehung von 
+Forschungsdaten. 
+Zu Artikel 2 (Gesetz f&#252;r die Nutzung von Daten des &#246;ffentlichen Sektors)
+Zu &#167; 1 (Grundsatz der offenen Daten)
+Zu Absatz 1
+Dieses Gesetz gilt f&#252;r die Nutzung von Daten des &#246;ffentlichen Sektors, insbesondere zur Entwicklung innovativer
+Produkte und Dienstleistungen der digitalen Wirtschaft. Das DNG dient der Umsetzung der Richtlinie (EU)
+2019/1024. Die Richtlinie (EU) 2019/1024 zielt darauf ab, Wettbewerbsverzerrungen auf dem Binnenmarkt zu
+verhindern. Die Angleichung der Regelungen und Verfahren der Mitgliedstaaten zur Nutzung von Daten des
+&#246;ffentlichen Sektors tr&#228;gt zur Erreichung dieses Ziels bei (vgl. Erw&#228;gungsgrund 7). 
+Die Richtlinie gilt f&#252;r Daten, die f&#252;r die Nutzung zug&#228;nglich gemacht werden, wenn &#246;ffentliche Stellen Lizenzen 
+f&#252;r Daten vergeben oder Daten verkaufen, verbreiten, austauschen oder bereitstellen. Damit es nicht zu
+Quersubventionen kommt, sollte die Nutzung auch die sp&#228;tere Nutzung von Daten innerhalb derselben Organisation im
+Rahmen der eigenen Gesch&#228;ftst&#228;tigkeit umfassen. Dazu geh&#246;rt die Bereitstellung von Daten, die ausschlie&#223;lich
+zu kommerziellen Zwecken und im Wettbewerb mit anderen Marktteilnehmern gegen Entgelt erstellt werden (vgl.
+Erw&#228;gungsgrund 22).
+&#167; 1 Absatz 1 f&#252;hrt den Open-Data-Grundsatz ein, wonach Daten im Anwendungsbereich dieses Gesetzes nach
+M&#246;glichkeit &#8222;konzeptionell und standardm&#228;&#223;ig offen&#8220; (open by default and by design) erstellt werden sollen. Mit
+Einf&#252;hrung dieses Grundsatzes soll neben den Regelungen zur Nutzung von Daten ein Impuls f&#252;r die
+Datenbereitsteller gesetzt werden, die proaktive Bereitstellung in der Gestaltung der Datenverwaltung in Betracht zu
+ziehen. 
+Die Regelung setzt Artikel 5 Absatz 2 der Richtlinie (EU) 2019/1024 um. 
+Zu Absatz 2
+Absatz 2 stellt klar, dass das Gesetz weder eine Bereitstellungspflicht oder ein Recht auf Zugang zu Daten
+begr&#252;ndet. Die Vorschrift erweitert die Vorg&#228;ngerregelung aus &#167; 1 Absatz 2a IWG.
+Rechtsvorschriften, die die Bereitstellung von und den Zugang zu bestimmten Daten regeln, etwa die Regelungen
+des Registerrechts (beispielsweise im B&#252;rgerlichen Gesetzbuch, Handelsgesetzbuch, Genossenschaftsgesetz,
+Partnerschaftsgesellschaftsgesetz und den entsprechenden Verordnungen) &#252;ber den Zugang zu den Daten der
+Handels-, Partnerschafts-, Vereins-, Genossenschafts-, Transparenz- und Unternehmensregister bleiben insoweit
+unber&#252;hrt und regeln die Bereitstellung von und den Zugang zu den Daten dieser Register abschlie&#223;end. Durch
+Absatz 2 wird kein &#252;ber die in diesen Regelungen vorgesehene Zwecke sowie den dort geregelten Umfang und
+Form der Bereitstellung hinausgehender Zugang zu den Daten er&#246;ffnet. Es bleibt den entsprechenden Stellen
+damit weiterhin &#252;berlassen, &#252;ber die zul&#228;ssigen Zwecke hinausgehende Datenverlangen, beispielweise
+unzul&#228;ssige Massenabrufe oder Datenabrufe zu missbr&#228;uchlichen Zwecken, nach den ma&#223;gebenden Vorschriften
+zur&#252;ckzuweisen. Gleiches gilt f&#252;r den Zugang zu den Daten aus dem Insolvenzbekanntmachungsportal, der in &#167; 9 der
+Insolvenzordnung und der Verordnung zu &#246;ffentlichen Bekanntmachungen in Insolvenzverfahren im Internet
+n&#228;her bestimmt ist.
+Zu &#167; 2 (Anwendungsbereich)
+Zu Absatz 1
+Absatz 1 regelt den sachlichen Anwendungsbereich des Gesetzes und dient der Klarstellung, dass das Gesetz
+weder einen Zugangsanspruch zu Daten einf&#252;hrt noch eine Bereitstellungspflicht begr&#252;ndet. Nach Absatz 1 findet
+das Datennutzungsgesetz Anwendung, wenn ein subjektiv-rechtlicher Anspruch besteht (Nummer 1), wenn eine
+gesetzliche Bereitstellungspflicht besteht (Nummer 2) oder wenn Daten freiwillig bereitgestellt werden
+(Nummer 3).
+Nummer 1
+Nummer 1 erstreckt den sachlichen Anwendungsbereich des Gesetzes auf Daten, die nach anderen gesetzlichen
+Bestimmungen zug&#228;nglich sind. Hierunter fallen z. B. Anspr&#252;che nach dem Informationsfreiheitsgesetz des
+Bundes sowie sonstige uneingeschr&#228;nkte Anspr&#252;che auf Einsichtnahme. 
+Nummer 2
+Nach Nummer 2 gilt das Gesetz f&#252;r Daten, die nach einer gesetzlichen Pflicht bereitgestellt werden. Darunter
+k&#246;nnen Open-Data-Regelungen wie &#167; 12a EGovG fallen, soweit diese die Nutzungsbedingungen der Daten nicht
+abschlie&#223;end regeln und nach Absatz 5 (Unber&#252;hrtheitsklausel) als weitergehende Rechte der Datennutzung zu
+verstehen sind. Im &#220;brigen k&#246;nnen auch spezialgesetzliche Ver&#246;ffentlichungspflichten (z. B.
+Energiewirtschaftsgesetz) darunterfallen, soweit die Daten durch die Bereitsteller bereitgestellt werden. 
+Nummer 3
+Nach Nummer 3 findet das Gesetz Anwendung auf Daten, die durch Bereitsteller nach Absatz 2 freiwillig zur
+Nutzung bereitgestellt werden. 
+Zu Absatz 2
+Der Anwendungsbereich des Gesetzes bezieht sich auf offene sowie vorhandene Daten. Die Begriffe sind nicht
+kumulativ zu verstehen. Erfasst sind danach einerseits f&#252;r die &#214;ffentlichkeit bereitgestellte Daten in offenen
+Formaten, andererseits erstreckt sich der Anwendungsbereich wie im IWG weiterhin auf vorhandene Daten. Der
+Begriff des Vorhandenseins stellt klar, dass das Gesetz keinen Verschaffungsanspruch einf&#252;hrt (BT-Drks.
+16/2453, S. 12). Das DNG verpflichtet nicht zur Erstellung oder Anpassung von Daten (vgl. &#167; 7).  
+&#167; 2 Absatz 2 weitet den geltenden Anwendungsbereich &#252;ber &#246;ffentliche Stellen hinaus aus, die bereits gem&#228;&#223; &#167; 1
+Absatz 1 IWG erfasst sind.
+Die Regelung dient der Umsetzung von Artikel 1 Absatz 1 der Richtlinie (EU) 2019/1024.
+Zu Nummer 1
+Nach &#167; 2 Absatz 2 Nummer 1 sind &#246;ffentliche Stellen im Anwendungsbereich der Richtlinie (EU) 2019/1024
+erfasst. Dies entspricht der Vorg&#228;ngerregelung aus &#167; 1 Absatz 1 IWG.
+Die Regelung dient der Umsetzung von Artikel 1 Absatz 1 der Richtlinie (EU) 2019/1024.
+Zu Nummer 2
+&#167; 2 Absatz 1 Nummer 2 erweitert den Anwendungsbereich entsprechend der neugefassten Richtlinie (EU)
+2019/1024 auf &#246;ffentliche Unternehmen bestimmter Bereiche der Daseinsvorsorge.
+Danach sind &#246;ffentliche Unternehmen auf dem Gebiet der Wasser-, Energieversorgung und des Verkehrs erfasst. 
+Dies entspricht Artikel 1 Absatz 1 Buchstabe b der Richtlinie (EU) 2019/1024, wonach &#246;ffentliche Unternehmen
+vom Anwendungsbereich erfasst sind, die in den in der Richtlinie 2014/25/EU festgelegten Bereichen t&#228;tig sind.
+Die T&#228;tigkeitsbereiche der Richtlinie 2014/25/EU sind in &#167; 102 Abs&#228;tze 1 bis 6 GWB und der Verordnung &#252;ber
+die Vergabe von &#246;ffentlichen Auftr&#228;gen im Bereich des Verkehrs, der Trinkwasserversorgung und der
+Energieversorgung umgesetzt. Der Verkehrsbereich ist wegen Sachzusammenhangs mit der Verordnung (EG)
+Nr. 1307/2007 &#252;ber &#246;ffentliche Personenverkehrsdienste aus Schiene und Stra&#223;e zusammengefasst.
+Artikel 1 Absatz 1 Buchstabe b ii) bis iv) der Richtlinie (EU) 2019/1024 werden nicht umgesetzt, da in
+Deutschland keine &#246;ffentlichen Unternehmen als Luftfahrtunternehmen oder Gemeinschaftsreeder t&#228;tig sind. Nach dieser
+Regelung sind Betreiber eines &#246;ffentlichen Dienstes gem&#228;&#223; Artikel 2 der Verordnung (EG) Nr. 1370/2007,
+Luftfahrtunternehmen, die gemeinwirtschaftliche Verpflichtungen gem&#228;&#223; Artikel 16 der
+Verordnung (EG) Nr. 1008/208 erf&#252;llen, oder Gemeinschaftsreeder, die Verpflichtungen des &#246;ffentlichen Dienstes
+gem&#228;&#223; Artikel 4 der Verordnung (EWG) Nr. 3577/92 erf&#252;llen, vom Anwendungsbereich der Richtlinie erfasst. F&#252;r
+Deutschland gehen diese Vorschriften ins Leere, da keine &#246;ffentlichen Unternehmen in diesen Bereichen t&#228;tig 
+sein. 
+Zu Nummer 3
+&#167; 2 Absatz 2 Nummer 3 entspricht Artikel 1 Absatz 1 Buchstabe c in Verbindung mit Artikel 10 der Richtlinie
+(EU) 2019/1024. Die Regelungen der Richtlinie zu Forschungsdaten sind derart umgesetzt, dass &#167; 2 Absatz 1
+Regelungsadressaten auflistet. Daten dieser Datenbereitsteller, die keine Forschungsdaten sind, sind nicht vom
+Anwendungsbereich erfasst.
+Hochschulen, Forschungseinrichtungen und Forschungsf&#246;rdereinrichtungen fallen selbst dann, wenn es sich bei
+Ihnen um &#8222;&#246;ffentliche Stellen&#8220; oder &#8222;&#246;ffentliche Unternehmen&#8220; handelt, nur unter der in &#167; 2 Absatz 2 Nummer 3 
+DNG speziell normierten Voraussetzung, dass die Daten &#246;ffentlich finanziert und bereits &#252;ber ein institutionelles
+oder thematisches Repositorium bereitgestellt wurden, in den Anwendungsbereich des Gesetzes. Die
+Einbeziehung von Forschungsdaten richtet sich insoweit allein nach &#167; 2 Absatz 2 Nummer 3 DNG, und nicht auch nach
+Nummer 1.
+Artikel 10 der Richtlinie (EU) 2019/1024 umfasst auch Forschende. Nach Nummer 3 Buchstabe b sollen
+Forschende jedoch subsidi&#228;r erfasst sein, um eine doppelte Inanspruchnahme verschiedener Datenbereitsteller zu 
+vermeiden. Grund f&#252;r diese Regelung ist, dass die &#167; 2 Abs. 2 Nr. 3 DNG vorrangig verpflichteten Institutionen in
+der Regel organisatorisch-personell besser aufgestellt sein k&#246;nnen, um die ihnen durch das DNG auferlegten
+Verpflichtungen mit vertretbarem Aufwand zu erf&#252;llen.
+Zu Absatz 3
+&#167; 2 Absatz 3 regelt die Ausnahmen zum Anwendungsbereich des Gesetzes. Dies entspricht Artikel 1 Absatz 2 der
+Richtlinie (EU) 2019/1024.
+Zu Nummer 1
+&#167; 2 Absatz 3 Nummer 1 fasst die Einschr&#228;nkungen des sachlichen Anwendungsbereichs zusammen.
+Buchstabe a entspricht &#167; 1 Absatz 2 Nummern 1 und 2 des IWG. Danach gilt das Gesetz nicht f&#252;r Daten, die nicht
+oder nur eingeschr&#228;nkt zug&#228;nglich sind. Ausgenommen sind damit unter anderem die Daten aus bestimmten
+Registern, wie beispielsweise dem zentralen staatsanwaltlichen Verfahrensregister, dem Bundeszentral- und
+Gewerbezentralregister, dem Ausl&#228;nderzentralregister, der Visawarndatei und des Registers der Entscheidungen in
+Staatsangeh&#246;rigkeitsangelegenheiten. Ausgenommen sind damit aber auch Daten, f&#252;r die aufgrund internationaler
+Vertr&#228;ge oder bestehender Rechte Dritter die Nutzungs- und Verwertungsrechte nicht bzw. nicht ausschlie&#223;lich
+beim Datenbereitsteller liegen. 
+Nicht zug&#228;nglich sind insbesondere Verschlusssachen oder Daten, die interne Verwaltungsvorg&#228;nge betreffen und
+nicht zug&#228;nglich sind.
+Der Zugang ist insbesondere dann eingeschr&#228;nkt, wenn ein Nachweis eines rechtlichen oder berechtigten
+Interesses vorausgesetzt wird. Ausgenommen ist damit beispielsweise das Grundbuch, weil die Einsicht ins Grundbuch
+von einem berechtigten Interesse abh&#228;ngt. 
+Buchstabe aa dient der Umsetzung von Artikel 1 Absatz 2 Buchstabe h der Richtlinie (EU) 2019/1024. Danach
+sind Daten vom Anwendungsbereich des Gesetzes ausgeschlossen, soweit der Schutz personenbezogener Daten
+der Nutzung entgegensteht. Diese Ausnahme kann unter anderem zu einem Ausschluss bestimmter Daten des
+Handels-, Genossenschafts-, Partnerschafts-, Vereins-, Transparenz- und Unternehmensregisters f&#252;hren. Diese
+Daten k&#246;nnen personenbezogene Daten enthalten, wie etwa Name, Vorname, Geburtsdatum und/oder Wohnort
+von Gesch&#228;ftsf&#252;hrern, Gesellschaftern, wirtschaftlich Berechtigten, Vorstands- oder Aufsichtsratsmitgliedern. 
+Zwar sind diese Informationen bereits grunds&#228;tzlich f&#252;r jedermann &#246;ffentlich einsehbar. Ein Recht zur
+Einsichtnahme beispielsweise in das Handelsregister ist gem&#228;&#223; &#167; 9 Absatz 1 Satz 1 HGB nur zu Informationszwecken
+gestattet. Zudem ist die Einsichtnahme technisch nur einzeln f&#252;r jede Eintragung, ohne gezielte Personensuche
+m&#246;glich. Insoweit liegt daher ein auf Informationszwecke beschr&#228;nkter Zugang vor. Das Interesse der Betroffenen
+an dem Schutz ihrer personenbezogenen Daten tritt nur im Einzelfall hinter das Interesse Dritter an verl&#228;sslichen 
+Informationen &#252;ber andere Unternehmen im Rechts- und Gesch&#228;ftsverkehr zur&#252;ck. Dieses &#252;berwiegende Interesse
+der &#214;ffentlichkeit endet jedoch dort, wo es nicht um Informationszwecke geht, insbesondere wenn es sich um
+eine missbr&#228;uchliche Verwendung der Daten handelt. Dies entspricht auch den Vorgaben in Artikel 1 Absatz 2
+Buchstabe h der Richtlinie (EU) 2019/1024, wonach die Richtlinie nicht f&#252;r Dokumente gilt, &#8222;[&#8230;], wenn sie 
+personenbezogene Daten enthalten, deren Weiterverwendung gesetzlich nicht mit dem Recht &#252;ber den Schutz
+nat&#252;rlicher Personen in Bezug auf die Verarbeitung personenbezogener Daten vereinbar ist [&#8230;].&#8220; 
+Buchstabe bb entspricht Artikel 1 Absatz 2 Buchstabe d iii) der Richtlinie (EU) 2019/1024.
+Buchstaben cc bis ee setzen Artikel 1 Absatz 2 Buchstabe d und e der Richtlinie (EU) 2019/1024 um. 
+Buchstabe b entspricht Artikel 1 Absatz 2 Buchstabe c der Richtlinie (EU) 2019/1024. Danach gilt das Gesetz
+nicht f&#252;r Daten, die geistiges Eigentum betreffen.
+Buchstabe c entspricht &#167; 1 Absatz 2 Nummer 8 des IWG und schlie&#223;t Vorschriften des Bundes oder L&#228;nder &#252;ber
+den Zugang der &#214;ffentlichkeit zu Umweltinformationen vom Anwendungsbereich auf, soweit die Daten danach
+kostenlos, maschinenlesbar und mit Anwendungsprogrammierschnittstelle verf&#252;gbar sind.
+Buchstabe d dient der Umsetzung von Artikel 1 Absatz 2 Buchstabe a der Richtlinie (EU) 2019/1024. Danach
+sind Daten vom Anwendungsbereich des Gesetzes ausgenommen, die nicht unter den durch Rechtsvorschrift
+festgelegten &#246;ffentlichen Auftrag der &#246;ffentlichen Stelle fallen. 
+Zu Nummer 2
+&#167; 2 Absatz 3 Nummer 2 betrifft Ausnahmen des Anwendungsbereichs f&#252;r &#246;ffentliche Unternehmen. 
+Nach Buchstabe a sind Daten &#246;ffentlicher Unternehmen nicht erfasst, die nicht im Rahmen ihrer T&#228;tigkeit aus
+dem Anwendungsbereich des Gesetzes erstellt wurden.
+Nach Buchstabe b sind Daten &#246;ffentlicher Unternehmen nicht erfasst, die mit unmittelbar dem Wettbewerb
+ausgesetzten T&#228;tigkeiten zusammenh&#228;ngen und daher gem&#228;&#223; Artikel 34 der Richtlinie 2014/25/EU nicht den
+Vorschriften f&#252;r die Auftragsvergabe unterliegen. Der Verweis nimmt Bezug auf das Freistellungsverfahren nach der
+Sektorenrichtlinie. Danach w&#228;ren Daten &#246;ffentlicher Unternehmen nicht erfasst, die bereits von
+vergaberechtlichen Vorschriften nach diesem Freistellungsverfahren ausgenommen sind. Die Freistellung erfolgt auf der
+Grundlage eines Beschlusses der Europ&#228;ischen Kommission. F&#252;r Deutschland hat die Europ&#228;ische Kommission bislang
+folgende Freistellungsbeschl&#252;sse erlassen:
+&#173; Freistellungsbeschluss vom 24.4.2012 hinsichtlich der Erzeugung und dem Gro&#223;handel von Strom aus
+konventionellen Quellen (2012/218/EU);
+&#173; Freistellungsbeschluss vom 15.9.2016 in Bezug auf den Vertrieb von Strom und Gas an Letztverbraucher in
+Deutschland (2016/1674/EU). 
+Die Regelung entspricht Artikel 1 Absatz 2 Buchstabe b der Richtlinie (EU) 2019/1024. 
+Zu Nummer 3
+&#167; 2 Absatz 3 Nummer 3 entspricht der Vorg&#228;ngerregelung aus &#167; 1 Absatz 2 Nummer 2a IWG. Die redaktionelle
+&#196;nderung ist eine wortgleiche Umsetzung der Richtlinien&#228;nderung in Artikel 1 Absatz 2 Buchstabe g Richtlinie
+(EU) 2019/1024.
+Zu Nummer 4 und Nummer 5
+Die Vorschriften &#228;ndern lediglich redaktionell die Vorg&#228;ngerregelung aus &#167; 1 Absatz 2 Nummer 5 sowie
+Nummer 7 IWG. In Bezug auf Daten soll der Begriff des Besitzes vermieden werden, um die Annahme eines
+k&#246;rperlichen Gegenstands auszur&#228;umen.
+Zu Nummer 6
+&#167; 2 Absatz 3 Nummer 6 nimmt Bildungseinrichtungen der Sekundarstufe und darunter vom Anwendungsbereich
+des DNG aus. Bei allen sonstigen Bildungseinrichtungen sind Daten, die keine Forschungsdaten sind,
+ausgenommen. F&#252;r Daten, die an Hochschulen und sonstigen Bildungseinrichtungen zu statistischen Zwecken erhoben
+werden, besteht eine gesetzliche Bereitstellungspflicht der Hochschulen gegen&#252;ber dem Statistischen Bundesamt
+aufgrund des Hochschulstatistikgesetzes. Statistische Hochschuldaten werden, soweit sie in den sachlichen
+Anwendungsbereich des DNG fallen, daher nicht von den Hochschulen selbst, sondern vom Statistischen Bundesamt zur
+Verf&#252;gung gestellt. 
+Die Regelung entspricht Artikel 1 Absatz 2 Buchstabe k der Richtlinie (EU) 2019/1024.  
+Zu Absatz 4
+Die Regelung entspricht der Vorschrift aus &#167; 1 Absatz 3 IWG. Danach bleiben weitergehende Anforderungen an
+die Bereitstellung und Nutzung von Daten unber&#252;hrt. Diese Kollisionsregel ist Ausdruck der
+Mindestharmonisierung der Richtlinie (Artikel 1 der Richtlinie (EU) 2019/1024). Zweck ist es, die Bedingungen der Nutzung von 
+Daten im Anwendungsbereich unionsweit anzugleichen. Dem steht es nicht entgegen, dass spezialgesetzliche
+Regelungen nutzungsfreundlicher gestaltet sind. So sind insbesondere Open-Data-Regelungen wie &#167; 12a EGovG
+im Sinne der Richtlinie, soweit sie hinsichtlich bestimmter Bedingungen der Nutzung strengere Ma&#223;st&#228;be setzen
+(unentgeltlich, maschinenlesbar). Das DNG bleibt in diesen F&#228;llen von Bedeutung, soweit z. B. ein Nutzer die
+Nutzung von bestimmten, als offene Daten bereitgestellte Daten nach &#167; 12a EGovG in anderen Formaten begehrt.
+Weitergehende Anforderungen an die Bereitstellung und Nutzung sind u.a. die in &#167; 12 und &#167; 12a des E-
+Government-Gesetzes normierten speziellen Anforderungen an die Bereitstellung von Daten der Bundesbeh&#246;rden, die
+Vorschriften des Bundes oder der L&#228;nder &#252;ber den Zugang der &#214;ffentlichkeit zu Geodaten erfasst oder die
+delegierten Verordnungen zur Erg&#228;nzung der Richtlinie 2010/40/EU zum Rahmen f&#252;r die Einf&#252;hrung intelligenter
+Verkehrssysteme im Stra&#223;enverkehr. 
+Zu Absatz 5
+Nach &#167; 2 Absatz 5 gilt das Recht der Datenbankhersteller gem&#228;&#223; Artikel 7 Absatz 1 der Richtlinie 96/9/EG nicht
+f&#252;r die Nutzung &#246;ffentlicher Stellen im Anwendungsbereich dieses Gesetzes. Der Ausschluss entspricht der
+Rechtsprechung, die &#167; 5 Urheberrechtsgesetz auf &#167;&#167; 87a ff. Urheberrechtsgesetz zur Frage der
+Informationsweiterverwendung entsprechend angewendet hat.
+Zu &#167; 3 (Begriffsbestimmungen)
+Zu Nummer 1
+Die Vorschrift entspricht &#167; 2 Nummer 1 IWG. Sie setzt Artikel 2 Nummer 1 und 2 der Richtlinie (EU) 2019/1024
+um. Die Vorschrift definiert den Begriff der &#246;ffentlichen Stelle. Der Begriff der Richtlinie ist vergaberechtlich
+gepr&#228;gt und entspricht der Definition des &#246;ffentlichen Auftraggebers aus &#167; 99 GWB.
+Der Begriff der &#246;ffentlichen Stelle entspricht dabei demjenigen der Richtlinie 2003/98/EG, die wiederum die
+Begriffsdefinition der Einrichtung des &#246;ffentlichen Rechts aus den Richtlinien &#252;ber das &#246;ffentliche Auftragswesen
+(Richtlinien 92/50/EWG, 93/36/EWG, 93/37/EWG und 98/4/EG) &#252;bernommen hat. 
+Hierbei ist insbesondere zu ber&#252;cksichtigen, dass das Kriterium einer &#252;berwiegenden Finanzierung von Seiten 
+des Staates die fehlende Autonomie der &#246;ffentlichen Stelle hinsichtlich dieser Finanzierung voraussetzt. So gen&#252;gt
+es beispielsweise nicht, wenn berufsst&#228;ndische und vergleichbare K&#246;rperschaften des &#246;ffentlichen Rechts zwar
+durch Beitr&#228;ge ihrer Mitglieder auf gesetzlicher Grundlage finanziert werden, ihnen zugleich jedoch im Rahmen
+der Selbstverwaltung erhebliche Autonomie bei der Bestimmung des Wesens, des Umfangs und der
+Durchf&#252;hrungsmodalit&#228;ten der von ihr zur Erf&#252;llung ihrer Aufgaben ausge&#252;bten T&#228;tigkeiten, mithin bei der Festsetzung
+des daf&#252;r erforderlichen Haushalts und in Folge dessen bei der Festlegung der H&#246;he der Beitr&#228;ge einger&#228;umt ist
+(vgl. Europ&#228;ischer Gerichtshof, Rechtssache C-526/11 &#8222;&#196;rztekammer Westfalen-Lippe&#8220;, ABl. C 325, 9.
+November 2013, S. 4). Hinsichtlich des Kriteriums der Aufsicht &#252;ber die Leitung ist zudem zu ber&#252;cksichtigen, dass eine
+nachtr&#228;gliche allgemeine Rechtm&#228;&#223;igkeitskontrolle durch eine Aufsichtsbeh&#246;rde, insbesondere, wenn sie sich
+darauf beschr&#228;nkt, dass Gesetz und Satzung eingehalten werden, keine Aufsicht in diesem Sinne darstellt
+(Europ&#228;ischer Gerichtshof ebd.). 
+Das Gleiche gilt f&#252;r juristische Personen des privaten Rechts, die als Beliehene t&#228;tig werden, wie etwa der
+Bundesanzeiger Verlag bei der F&#252;hrung des Unternehmensregisters und des Transparenzregisters. Bei diesen ist neben
+den vorstehenden Kriterien zus&#228;tzlich zu beachten, dass sie im Einzelfall vorwiegend nicht zu dem besonderen
+Zweck gegr&#252;ndet wurden, im Allgemeininteresse liegende Aufgaben nichtgewerblicher Art zu erf&#252;llen.
+Zu Nummer 2
+&#167; 3 Nummer 2 definiert &#246;ffentliche Unternehmen. Sie setzt Artikel 2 Nummer 3 der Richtlinie (EU) 2019/1024
+um.
+Zu Nummer 3
+&#167; 3 Nummer 3 definiert den Begriff der &#8222;Daten&#8220; f&#252;r dieses Gesetz. Damit wird der Begriff der &#8222;Information&#8220; aus
+&#167; 2 Nummer 2 IWG ersetzt. Die &#196;nderung dient der Modernisierung des Gesetzes und vereinheitlicht die
+verschiedenen Terminologien der Richtlinie (EU) 2019/1024 und des IWG sowie des DNG (Dokumente,
+Informationen, Daten, Datens&#228;tze). Der Gesetzgeber beabsichtigt damit keine inhaltliche Abweichung zum IWG. Der
+Begriff umfasst insbesondere &#8222;Dokumente&#8220; im Sinne der Richtlinie (EU) 2019/1024. Bestandteile von
+Anmeldungen f&#252;r Patente (insbesondere vor Ablauf der 18-Monatsfrist) sind vom Anwendungsbereich des Gesetzes nicht
+erfasst. 
+Der Begriff bezeichnet vorhandene Aufzeichnungen, d.h. die bereits beim Datenbereitsteller vorliegen. Das
+Gesetz verpflichtet nicht zur Erhebung oder Sammlung etwaiger Daten. Zugleich wird auf den Begriff der offenen
+Daten im Sinne des &#167; 12a EGovG Bezug genommen. 
+Die Vorschrift entspricht &#167; 2 Nummer 3 IWG. Sie dient der Umsetzung von Artikel 2 Nummer 6 der Richtlinie
+(EU) 2019/1024.
+Zu Nummer 4
+&#167; 3 Nummer 4 definiert den Begriff der &#8222;Nutzung&#8220;. Damit wird der Begriff der &#8222;Weiterverwendung&#8220; aus &#167; 2
+Nummer 3 IWG ersetzt. Mit der Begriffs&#228;nderung intendiert der Gesetzgeber keine inhaltliche &#196;nderung zum
+IWG oder zum Begriff der Weiterverwendung aus der Richtlinie (EU) 2019/1024. Die Vorschrift erg&#228;nzt die
+bestehende Vorschrift aus &#167; 2 Nummer 3 IWG. Die Erg&#228;nzung &#8222;oder die Erbringung von Dienstleistungen von
+allgemeinem Interesse&#8220; entspricht dem Wortlaut der neugefassten Richtlinie und ergibt sich aus der Einbeziehung
+&#246;ffentlicher Unternehmen in bestimmten Bereichen der Daseinsvorsorge. 
+Die Erstreckung auch auf die Nutzung, die neben der Erf&#252;llung &#246;ffentlicher Aufgaben auch zu eigenen
+kommerziellen Zwecken erfolgt, ist klarstellend und ergibt sich aus der Rechtsprechung (VGH Baden-W&#252;rttemberg,
+Urteil vom 7.5.2013, Az. 10 S 281/12, NJW 2013, 2045).
+Die Vorschrift dient der Umsetzung von Artikel 2 Nummer 11 der Richtlinie (EU) 2019/1024.
+Zu Nummer 5
+Die Vorschrift entspricht &#167; 2 Nummer 5 IWG und setzt Artikel 2 Nummer 13 der Richtlinie (EU) 2019/1024 um.
+Ein Dokument sollte als maschinenlesbar gelten, wenn es in einem Dateiformat vorliegt, das so strukturiert ist, 
+dass Softwareanwendungen die konkreten Daten einfach identifizieren, erkennen und extrahieren k&#246;nnen. Daten
+in Dateien, die in maschinenlesbarem Format strukturiert sind, sollten als maschinenlesbare Daten gelten. Ein
+maschinenlesbares Format kann offen oder propriet&#228;r sein. Es kann einem formellen Standard entsprechen oder
+nicht. Dokumente, die in einem Dateiformat kodiert sind, das eine automatische Verarbeitung einschr&#228;nkt, weil
+die Daten nicht oder nicht ohne Weiteres aus ihnen extrahiert werden k&#246;nnen, sollten nicht als maschinenlesbar
+gelten (vgl. Erw&#228;gungsgrund 35 der Richtlinie (EU) 2019/1024).
+Zu Nummer 6
+Die Vorschrift entspricht &#167; 2 Nummer 6 IWG und setzt Artikel 2 Nummer 14 der Richtlinie (EU) 2019/1024 um.
+Zu Nummer 7
+Die Vorschrift entspricht &#167; 2 Nummer 7 IWG und setzt Artikel 2 Nummer 15 der Richtlinie (EU) 2019/1024 um.
+&#8222;Schriftlich&#8220; im Sinne der Vorschrift umfasst auch die Textform im Sinne des &#167; 126b des B&#252;rgerlichen
+Gesetzbuchs.
+Zu Nummer 8
+Die Bestimmung dynamischer Daten entspricht der Vorgabe aus Artikel 2 Nummer 8 der Richtlinie (EU)
+2019/1024.
+Von Sensoren generierte Daten werden in der Regel als dynamische Daten angesehen. Sensoren generieren
+insbesondere dann keine dynamischen Daten, wenn keine kontinuierlichen &#196;nderungen/Messreihen vorliegen. 
+Zu Nummer 9
+Die Bestimmung hochwertiger Datens&#228;tze entspricht der Vorgabe aus Artikel 2 Nummer 10 sowie Artikeln 13
+und 14 der Richtlinie (EU) 2019/1024.
+Zu Nummer 10 
+Die Bestimmung des Begriffs Forschungsdaten entspricht der Vorgabe aus Artikel 2 Nummer 9 der Richtlinie 
+(EU) 2019/1024.
+Zu Nummer 11 
+Die Bestimmung der angemessenen Gewinnspanne entspricht der Vorgabe aus Artikel 2 Nummer 16 der
+Richtlinie (EU) 2019/1024.
+Zu Nummer 12 
+Die Bestimmung zur Anonymisierung entspricht der Vorgabe aus Artikel 2 Nummer 7 der Richtlinie (EU)
+2019/1024.
+Zu &#167; 4 (Grundsatz der uneingeschr&#228;nkten Datennutzung; Zul&#228;ssigkeit von Lizenzen)
+Zu Absatz 1
+Die Regelung entspricht &#167; 2a Satz 1 IWG und setzt Artikel 3 Absatz 1 der Richtlinie (EU) 2019/1024 um. Danach
+d&#252;rfen Daten f&#252;r jeden kommerziellen oder nichtkommerziellen Zweck genutzt werden, soweit die Richtlinie
+gem&#228;&#223; Artikel 1 Richtlinie (EU) 2019/1024 anwendbar ist. Dementsprechend findet die Regelung in &#167; 4 Absatz 1
+unter anderem auch dann keine Anwendung, wenn nur ein eingeschr&#228;nkter Zugang zu den Daten besteht, weil der
+Schutz personenbezogener Daten entgegensteht gem&#228;&#223; &#167; 2 Absatz 3 Nummer 1 Buchstabe a Doppelbuchstabe aa,
+der Artikel 1 Absatz 2 Buchstabe h der Richtlinie (EU) 2019/1024 umsetzt. 
+Unzul&#228;ssig ist zudem die missbr&#228;uchliche Nutzung von Daten sowie eine dem Bereitstellungs- oder Zugangsrecht
+zweckentfremdende Nutzung. Dies gilt insbesondere f&#252;r personenbezogene Daten, wenn diese den
+Datenbereitstellern aus datenschutzrechtlichen Gr&#252;nden nur f&#252;r bestimmte Zwecke bereitgestellt werden.
+Zu Absatz 2
+Die Regelung entspricht &#167; 2a Satz 2 IWG und dient der Umsetzung von Artikel 3 Absatz 2 der Richtlinie (EU)
+2019/1024.
+Zu Absatz 3
+&#167; 4 Absatz 3 regelt die Zul&#228;ssigkeit von Lizenzen. Danach m&#252;ssen die Lizenzen objektiv, verh&#228;ltnism&#228;&#223;ig,
+nichtdiskriminierend und durch ein im Allgemeininteresse liegendes Ziel gerechtfertigt sein. Sie d&#252;rfen nicht zu einer
+Wettbewerbsverzerrung f&#252;hren und die Nutzung der Daten nicht unn&#246;tig einschr&#228;nken. Es sollten offene Lizenzen
+in Form von standardisierten &#246;ffentlichen Lizenzen verwendet werden, die online erteilt werden, auf offenen
+Datenformaten beruhen und es erm&#246;glichen, dass jede Person Daten und Inhalte zu jedem Zweck frei abrufen,
+verwenden, ver&#228;ndern und weitergeben kann.
+Die Vorschrift entspricht &#167; 4 Absatz 1 IWG und dient der Umsetzung von Artikel 8 Absatz 1 der Richtlinie (EU)
+2019/1024.
+Zu &#167; 5 (Nichtdiskriminierung)
+Die Regelung bestimmt den Grundsatz der Nichtdiskriminierung. Danach sollen die Bedingungen f&#252;r die Nutzung
+f&#252;r vergleichbare Kategorien der Nutzung nichtdiskriminierend sein. Dabei gilt es insbesondere zu
+ber&#252;cksichtigen, ob eine &#246;ffentliche Stelle die Daten in Erf&#252;llung ihres &#246;ffentlichen Auftrags teilt. Als Kategorien der
+Datennutzung k&#246;nnen die kommerzielle oder nicht-kommerzielle Nutzung verstanden werden (vgl. Erw&#228;gungsgrund 46
+der Richtlinie (EU) 2019/1024). 
+Die Vorschrift setzt Artikel 11 Absatz 1 der Richtlinie (EU) 2019/1024 um.
+Zu Absatz 2
+Die Regelung entspricht &#167; 3 Absatz 1 IWG. Sie stellt klar, dass die Nichtdiskriminierung auch gilt, wenn die
+&#246;ffentliche Stelle Daten im Rahmen eigener Gesch&#228;ftst&#228;tigkeit nutzt.
+Die Vorschrift setzt Artikel 11 Absatz 2 der Richtlinie (EU) 2019/1024 um. 
+Zu &#167; 6 (Ausschlie&#223;lichkeitsvereinbarungen)
+Zu Absatz 1
+Die Vorschrift regelt das grunds&#228;tzliche Verbot von Ausschlie&#223;lichkeitsvereinbarungen. Bei der Aufstellung der
+Grunds&#228;tze f&#252;r die Datennutzung sollen Datenbereitsteller die nationalen und europ&#228;ischen
+Wettbewerbsvorschriften einhalten und Ausschlie&#223;lichkeitsvereinbarungen zwischen ihnen und privaten Partnern nach
+M&#246;glichkeit vermeiden. 
+Sie entspricht &#167; 3a Absatz 1 IWG und setzt Artikel 12 Absatz 1 der Richtlinie (EU) 2019/1024 um. 
+Zu Absatz 2
+&#167; 6 Absatz 2 erlaubt ausnahmsweise Ausschlie&#223;lichkeitsvereinbarungen, soweit ausschlie&#223;liche Rechte zur
+Bereitstellung eines Dienstes im &#246;ffentlichen Interesse erforderlich sind. Die Vorschrift entspricht &#167; 3a Absatz 1
+S&#228;tze 2-5 IWG und setzt Artikel 12 Absatz 2 der Richtlinie (EU) 2019/1024 um. 
+Zu Absatz 3
+&#167; 6 Absatz 3 regelt die Ausnahme f&#252;r die Digitalisierung von Kulturbest&#228;nden. Betrifft die
+Ausschlie&#223;lichkeitsvereinbarung die Digitalisierung von Kulturbest&#228;nden, d&#252;rfen ausschlie&#223;liche Rechte bis h&#246;chstens zehn Jahre
+gew&#228;hrt werden. Die M&#246;glichkeit einer Gew&#228;hrung &#252;ber zehn Jahre hinaus ist ausgeschlossen. Erw&#228;gungsgrund
+49 der Richtlinie (EU) 2019/1024 verweist auf das Bestehen zahlreicher Kooperationsvereinbarungen zwischen
+Bibliotheken (einschlie&#223;lich Hochschulbibliotheken), Museen, Archiven und privaten Partnern zur
+Digitalisierung von Kulturbest&#228;nden, bei denen &#246;ffentliche Stellen privaten Partnern ausschlie&#223;liche Rechte gew&#228;hren. Die
+Praxis habe gezeigt, dass mit diesen &#246;ffentlich-privaten Partnerschaften eine sinnvolle Nutzung von
+Kulturbest&#228;nden erleichtert und gleichzeitig die Erschlie&#223;ung des kulturellen Erbes f&#252;r die &#214;ffentlichkeit beschleunigt werden
+kann. Betrifft ein ausschlie&#223;liches Recht die Digitalisierung von Kulturbest&#228;nden, kann eine bestimmte
+Schutzdauer erforderlich sein, damit der private Partner die M&#246;glichkeit hat, seine Investition zu amortisieren.
+Entsprechend dem Grundsatz, dass gemeinfreies Material nach seiner Digitalisierung gemeinfrei bleiben sollte, sieht die 
+Richtlinie l&#228;ngstens einen Schutzzeitraum von 10 Jahren vor. Die Dauer des ausschlie&#223;lichen Rechts zur
+Digitalisierung von Kulturbest&#228;nden soll daher zehn Jahre nicht &#252;berschreiten. Im Rahmen &#246;ffentlich-privater
+Partnerschaften f&#252;r die Digitalisierung von Kulturbest&#228;nden der kulturellen Partnereinrichtung sollen alle Rechte in
+Bezug auf die Nutzung der digitalisierten Kulturbest&#228;nde nach Vertragsende gew&#228;hrt werden.
+Die Vorschrift entspricht der Regelung aus &#167; 6 Absatz 3 IWG und dient der Umsetzung von Artikel 12 Absatz 3
+der Richtlinie (EU) 2019/1024.
+Zu Absatz 4
+Vereinbarungen zwischen Inhabern und Nutzern von Daten, die nicht ausdr&#252;cklich ausschlie&#223;liche Rechte
+gew&#228;hren, bei denen aber davon ausgegangen werden kann, dass sie die Datennutzung beschr&#228;nken, sollen zur
+Pr&#252;fung durch die &#214;ffentlichkeit bekannt gemacht werden. Daher sollen die wesentlichen Aspekte solcher
+Vereinbarungen mindestens zwei Monate vor ihrem Inkrafttreten online ver&#246;ffentlicht werden, d.h. zwei Monate vor dem
+vereinbarten Tag, an dem die Erbringung der Verpflichtungen der Parteien beginnen soll. Durch die
+Ver&#246;ffentlichung soll den interessierten Parteien die Gelegenheit gegeben werden, die Nutzung der unter diese
+Vereinbarungen fallenden Daten zu beantragen und die Gefahr zu vermeiden, dass das Spektrum potenzieller Nutzer
+eingeschr&#228;nkt wird. In jedem Fall sollen nach Abschluss solcher Vereinbarungen die wesentlichen Aspekte in ihrer
+endg&#252;ltigen, zwischen den Parteien vereinbarten Fassung ebenfalls ohne ungeb&#252;hrliche Verz&#246;gerung online
+&#246;ffentlich bekannt gemacht werden (Erw&#228;gungsgrund 50 der Richtlinie (EU) 2019/1024).  
+Ausgenommen von der Ver&#246;ffentlichungspflicht nach Satz 1 sind Sperrfristen f&#252;r Forschungsdaten, in denen die
+Daten f&#252;r einen begrenzten Zeitraum ausschlie&#223;lich den Datenbereitstellern nach &#167; 2 Absatz 2 Nummer 4 zur
+Verf&#252;gung stehen. Den Prim&#228;rforschenden bzw. Datengebern soll damit die M&#246;glichkeit einger&#228;umt werden,
+innerhalb angemessener Zeitr&#228;ume ihre Forschungsdaten als Erste auszuwerten. Erste Publikationen zu den Daten,
+Qualifikationsarbeiten sowie andere wissenschaftliche Arbeiten k&#246;nnen so in Ruhe verfasst werden. Die
+Ver&#246;ffentlichungspflicht f&#252;r die zeitlich begrenzte ausschlie&#223;liche Nutzung durch die Datengeber zu den genannten
+Zwecken (ggf. auch &#252;ber das Ende des Forschungsprozesses oder &#252;ber das Ende &#246;ffentlich gef&#246;rderter
+Forschungsprojekte hinaus) ist im Forschungsbereich mit unverh&#228;ltnism&#228;&#223;igem Aufwand verbunden.
+Die Bundesregierung wird die Auswirkungen solcher rechtlichen oder praktischen Vorkehrungen auf die
+Verf&#252;gbarkeit von Daten zur Nutzung regelm&#228;&#223;ig, mindestens alle drei Jahre, &#252;berpr&#252;fen.
+Die Vorschrift setzt Artikel 12 Absatz 4 der Richtlinie (EU) 2019/1024 um. 
+Zu Absatz 5
+&#167; 6 Absatz 5 regelt die Beendigung bestehender Ausschlie&#223;lichkeitsvereinbarungen, die keinen
+Ausnahmetatbestand (Absatz 2 oder 3) erf&#252;llen.  
+Die Bundesregierung wird in der &#220;berpr&#252;fung nach Absatz 4 auch bestehende Ausschlie&#223;lichkeitsvereinbarungen
+und ihre Auswirkungen auf die Nutzung von Daten untersuchen, insbesondere hinsichtlich der Verbreitung und
+Reichweite der Vereinbarungen, ihres Gegenstands und ihrer Laufzeit.
+Die Vorschrift setzt Artikel 12 Absatz 5 der Richtlinie (EU) 2019/1024 um. 
+Zu &#167; 7 (Verf&#252;gbare Formate, Metadaten)
+Zu Absatz 1
+&#167; 7 Absatz 1 regelt, dass sich die Nutzung auf alle verf&#252;gbaren Formate und Sprachen vollst&#228;ndig oder in
+Ausz&#252;gen erstreckt. 
+Die Vorschrift entspricht &#167; 3 Absatz 2 Satz 1 IWG und setzt Artikel 5 Absatz 1 und 3 Richtlinie (EU) 2019/1024
+um.
+Ein Anspruch auf die Bereitstellung bestimmter Datenformate besteht nicht, soweit die Bereitstellung der Daten
+in den angefragten Formaten nicht mehr zu dem in den ma&#223;geblichen Bereitstellungs- und Zugangsregelungen
+vorgesehenen Zweck erfolgt, insbesondere die missbr&#228;uchliche Verwendung pers&#246;nlicher Daten oder die
+Verwendung zu Betrugszwecken. Hierunter f&#228;llt beispielsweise die Verwendung von Bild- und Unterschriftsdateien 
+aus in Registern gespeicherten Urkunden oder der Massenabruf von personenbezogenen maschinenlesbaren
+Daten aus Handelsregistern f&#252;r den Aufbau von Parallelregistern. 
+Zu Absatz 2
+&#167; 7 Absatz 2 regelt die elektronische &#220;bermittlung, soweit m&#246;glich und sinnvoll, offener, maschinenlesbarer,
+zug&#228;nglicher, auffindbarer und interoperabler Formate zusammen mit den dazu geh&#246;rigen Metadaten. Eine
+Verpflichtung zur Erstellung solcher Formate wird nicht geschaffen. Die Regelung beschr&#228;nkt sich auf vorhandene
+Daten.
+Satz 2 versch&#228;rft die Vorg&#228;ngervorschrift aus &#167; 3 Absatz 2 Satz 3 IWG in Bezug auf die Verwendung f&#246;rmlicher, 
+offener Standards f&#252;r die Formate und Metadaten, soweit dies m&#246;glich ist. Die Verpflichtung soll die
+Interoperabilit&#228;t erm&#246;glichen, die mit der neugefassten Richtlinie gerade im Hinblick auf Datenanalysen mittels K&#252;nstlicher
+Intelligenz gest&#228;rkt werden soll. Die Entwicklung und der Einsatz von K&#252;nstlicher Intelligenz erfordert oftmals
+die Kombinierbarkeit von Daten unterschiedlicher Quellen. Die Standards sollen den hohen Aufwand der
+Datenaufbereitung erleichtern, um die Daten besser f&#252;r die Entwicklung innovativer L&#246;sungen verwenden zu k&#246;nnen.
+Die Vorschrift dient der Umsetzung von Artikel 5 Abs&#228;tze 1, 3 und 7 der Richtlinie (EU) 2019/1024.
+Zu Absatz 3
+Nach Absatz 3 Satz 1 sind &#246;ffentliche Stellen und &#246;ffentliche Unternehmen nicht verpflichtet, Daten und
+Metadaten neu zu erstellen oder anzupassen oder Teile zur Verf&#252;gung zu stellen, wenn dies mit unverh&#228;ltnism&#228;&#223;igem
+Aufwand verbunden w&#228;re. Soweit die Erstellung von Daten oder Metadaten durch einfache Bearbeitung m&#246;glich
+ist, ist dieser Aufwand in jedem Fall zumutbar.
+Nach Absatz 3 Satz 2 stellt dar&#252;ber hinaus klar, dass das Gesetz nicht zu einer Fortsetzung der Erstellung oder
+Speicherung bestimmter Daten verpflichtet. 
+Die Vorschrift dient der Umsetzung von Artikel 5 Abs&#228;tze 3 und 4 der Richtlinie (EU) 2019/1024.
+Zu Absatz4 
+&#167; 7 Absatz 4 verpflichtet Datenbereitsteller dazu, vorhandene Metadaten &#252;ber das nationale Metadatenportal
+GovData zur Verf&#252;gung zu stellen, soweit das m&#246;glich ist. Die Vorschrift geht auf &#167; 8 IWG zur&#252;ck und pr&#228;zisiert
+die Bezeichnung eines nationalen Metadatenportals. 
+Nicht m&#246;glich ist die Bereitstellung &#252;ber GovData insbesondere dann, wenn der Datenbereitsteller keinen Zugang
+zum Metadatenportal hat. Dies ist insbesondere f&#252;r Bundesl&#228;nder der Fall, die GovData nicht beigetreten sind.
+GovData kann auf Grund der Beschlusslage des IT-Planungsrates (Entscheidung 2015/19 &#8211; GovData &#8211; Umgang
+mit nicht an der Finanzierung beteiligten Gebietsk&#246;rperschaften vom 17. Juni 2015) nur Daten von L&#228;ndern im
+Portal aufnehmen, die sich auch an der Finanzierung von GovData beteiligen. 
+Im &#220;brigen ist die Bereitstellung &#252;ber GovData bislang weder f&#252;r &#246;ffentliche Unternehmen noch f&#252;r
+Forschungsdaten von Einrichtungen, die keine &#246;ffentliche Stelle sind, m&#246;glich.
+Die Vorschrift dient der Umsetzung von Artikel 9 Absatz 1 der Richtlinie (EU) 2019/1024.
+Zu &#167; 8 (Dynamische Daten)
+Zu Absatz 1
+&#167; 8 Absatz 1 regelt die Echtzeit-Bereitstellung dynamischer Daten mithilfe geeigneter
+Anwendungsprogrammierschnittstellen. 
+Die neugefasste Richtlinie (EU) 2019/1024 misst der ad&#228;quaten Bereitstellung dynamischer Daten (einschlie&#223;lich
+Umweltdaten, Verkehrsdaten, Satellitendaten, meteorologischer Daten) besonderes Potenzial bei. Sie regelt
+deshalb erstmals die Echtzeit-Bereitstellung, um dem wirtschaftlichen Wert, der von der sofortigen Verf&#252;gbarkeit
+und von regelm&#228;&#223;igen Aktualisierungen abh&#228;ngt, vollst&#228;ndig Rechnung zu tragen. Dynamische Daten sollen
+daher unmittelbar nach der Erhebung oder, im Falle einer manuellen Aktualisierung, unmittelbar nach der &#196;nderung
+des Datensatzes &#252;ber eine Anwendungsprogrammierschnittstelle zur Verf&#252;gung gestellt werden, um die
+Entwicklung von Internet-, Mobil- und Cloud-Anwendungen auf der Grundlage solcher Daten zu erleichtern. Ist dies
+aufgrund technischer oder finanzieller Beschr&#228;nkungen nicht m&#246;glich, so sollen die &#246;ffentlichen Stellen die Daten
+innerhalb eines Zeitraums zur Verf&#252;gung stellen, der es erm&#246;glicht, ihr volles wirtschaftliches Potenzial zu
+nutzen. Es sollen spezifische Ma&#223;nahmen ergriffen werden, um technische und finanzielle Beschr&#228;nkungen
+aufzuheben. Sollte eine Lizenz verwendet werden, so kann die rechtzeitige Verf&#252;gbarkeit von Daten Teil der
+Lizenzbedingungen sein. Wenn angesichts berechtigter Gr&#252;nde des &#246;ffentlichen Interesses, insbesondere der
+&#246;ffentlichen Gesundheit und Sicherheit, eine Datenverifizierung unerl&#228;sslich ist, sollen dynamische Daten unmittelbar
+nach einer Verifizierung verf&#252;gbar gemacht werden. Solch eine unerl&#228;ssliche Verifizierung soll sich nicht auf die 
+H&#228;ufigkeit der Aktualisierungen auswirken (vgl. Erw&#228;gungsgrund 31 der Richtlinie (EU) 2019/1024).
+Die Vorschrift dient der Umsetzung von Artikel 5 Absatz 5 der Richtlinie (EU) 2019/1024.
+Zu Absatz 2
+&#167; 8 Absatz 2 regelt eine Einschr&#228;nkung zu Absatz 1. Soweit die Anforderung der Echtzeit-Bereitstellung die
+finanzielle oder technische Leistungsf&#228;higkeit des Datenbereitstellers &#252;bersteigen, kann von den Anforderungen
+nach Absatz 1 abgewichen werden. Die Bereitstellung darf vor&#252;bergehend mit den technisch zur Verf&#252;gung
+stehenden Mitteln erfolgen. Der Bereitsteller soll in angemessener Frist die Bereitstellung nach Absatz 1
+erm&#246;glichen. Bei der Angemessenheit ist die Auswirkung auf das Potenzial der Nutzung in Echtzeit zu ber&#252;cksichtigen.
+Die Vorschrift dient der Umsetzung von Artikel 5 Absatz 6 der Richtlinie (EU) 2019/1024.
+Zu &#167; 9 (Hochwertige Datens&#228;tze)
+&#167; 9 regelt die Echtzeit-Bereitstellung hochwertiger Datens&#228;tze. Die Bestimmung konkreter hochwertiger
+Datens&#228;tze erfolgt nicht im Rahmen der Richtlinienumsetzung, sondern durch unmittelbar geltende nachgeordnete
+Rechtsakte, die in den Artikeln 13 und 14 der Richtlinie (EU) 2019/1024 geregelt sind. Hochwertige Datens&#228;tze
+sind &#252;ber Anwendungsprogrammierschnittstellen und falls technisch erforderlich als Massen-Download und in
+maschinenlesbarem Format zur Verf&#252;gung zu stellen. Gem&#228;&#223; Artikel 14 der Richtlinie (EU) 2019/1024 erfolgt
+die Festlegung einer Liste bestimmter hochwertiger Datens&#228;tze im Rahmen von Durchf&#252;hrungsrechtsakten. Die
+Festlegung erfolgt in bestimmten thematischen Kategorien, die im Anhang I der Richtlinie (EU) 2019/1024
+aufgef&#252;hrt sind. Die thematischen Kategorien k&#246;nnen mit delegiertem Rechtsakt nach Artikel 13 Absatz 2 der
+Richtlinie (EU) 2019/1024 ge&#228;ndert werden. Die Europ&#228;ische Kommission wird in einem ersten
+Durchf&#252;hrungsrechtsakt, der im ersten Quartal 2021 verabschiedet werden soll, hochwertige Datens&#228;tze in den thematischen
+Kategorien Georaum, Erdbeobachtung und Umwelt, Meteorologie, Statistik, Unternehmen und Eigent&#252;merschaft von
+Unternehmen sowie Mobilit&#228;t festlegen (vgl. COM (2020) 66 final, S. 15). &#220;ber die Inhalte des
+Durchf&#252;hrungsrechtsakts wird die Kommission mit den Mitgliedsstaaten &#252;ber den nach Artikel 16 Richtlinie (EU) 2019/1024
+eingerichteten Ausschuss f&#252;r offene Daten und die Weiterverwendung von Informationen des &#246;ffentlichen Sektors
+verhandeln. 
+Die Vorschrift dient der Umsetzung von Artikel 5 Absatz 8 der Richtlinie (EU) 2019/1024.
+Zu &#167; 10 (Grundsatz der Unentgeltlichkeit)
+Zu Absatz 1
+&#167; 10 Absatz 1 Satz 1 stellt den Grundsatz der unentgeltlichen Nutzung voran. Satz 2 nimmt die Erstattung von
+verursachten Grenzkosten f&#252;r die Reproduktion, Bereitstellung und Verbreitung sowie Anonymisierung und
+Ma&#223;nahmen zum Gesch&#228;ftsgeheimnisschutz von diesem Grundsatz aus.
+Entgelte f&#252;r die Nutzung von Daten stellen eine bedeutende Markteintrittsschranke f&#252;r Start-ups und KMU dar.
+Sie k&#246;nnen dar&#252;ber hinaus ein Hindernis f&#252;r die Forschung darstellen. Daher ist die Datennutzung grunds&#228;tzlich
+unentgeltlich zu erm&#246;glichen. Sind Entgelte erforderlich, so sollen sie auf die Grenzkosten beschr&#228;nkt sein. Wenn
+&#246;ffentliche Stellen freiwillig oder aufgrund einer entsprechenden rechtlichen Verpflichtung eine besonders
+ausf&#252;hrliche Suche nach angeforderten Daten oder &#228;u&#223;erst kostenaufwendige &#196;nderungen am Format der
+angeforderten Daten vornehmen, k&#246;nnen die Grenzkosten die Kosten im Zusammenhang mit solchen T&#228;tigkeiten decken.
+Dabei soll in Ausnahmef&#228;llen insbesondere die Notwendigkeit ber&#252;cksichtigt werden, den normalen Betrieb
+&#246;ffentlicher Stellen, die Einnahmen erzielen m&#252;ssen, um einen wesentlichen Teil ihrer Kosten bei der
+Wahrnehmung ihres &#246;ffentlichen Auftrags zu decken, nicht zu behindern. Ferner sollte die Rolle &#246;ffentlicher Unternehmen
+in einem wettbewerbsbestimmten wirtschaftlichen Umfeld ber&#252;cksichtigt werden. In solchen F&#228;llen soll es
+&#246;ffentlichen Stellen und &#246;ffentlichen Unternehmen erlaubt sein, Entgelte zu erheben, die &#252;ber den Grenzkosten
+liegen (vgl. Erw&#228;gungsgrund 36 der Richtlinie (EU) 2019/1024).
+Insbesondere im Rahmen des Datenzugangs erhobene Abrufgeb&#252;hren gem&#228;&#223; Artikel 19 der Richtlinie (EU)
+2017/1132 des Europ&#228;ischen Parlaments und des Rates vom 14. Juni 2017 &#252;ber bestimmte Aspekte des
+Gesellschaftsrechts bleiben unber&#252;hrt. 
+Die Regelung setzt Artikel 6 Absatz 1 der Richtlinie (EU) 2019/1024 um. 
+Zu Absatz 2
+&#167; 10 Absatz 2 listet die Ausnahmen zum Grundsatz der unentgeltlichen Nutzung. In den F&#228;llen, die einen
+Ausnahmetatbestand erf&#252;llen, d&#252;rfen Kosten &#252;ber den in Absatz 1 Satz 2 genannten Grenzkosten erhoben werden.
+Die Grenzen der Entgelth&#246;he richten sich f&#252;r die Ausnahmetatbest&#228;nde nach &#167; 11.
+Die Regelung setzt Artikel 6 Abs&#228;tze 2 und 3 der Richtlinie (EU) 2019/1024 um. 
+Zu Nummer 1
+&#167; 10 Absatz 2 nimmt entsprechend der Vorg&#228;ngervorschrift &#246;ffentliche Stellen von der kostenfreien
+Bereitstellung aus, soweit sie ausreichende Einnahmen erzielen m&#252;ssen, um einen wesentlichen Teil ihrer Kosten im
+Zusammenhang mit der Erf&#252;llung ihrer &#246;ffentlichen Auftr&#228;ge zu decken. Die Vorschrift aus &#167; 5 Absatz 2
+Nummer 1 IWG .
+Die Regelung dient der Umsetzung von Artikel 6 Absatz 2 Buchstabe a der Richtlinie (EU) 2019/1024.
+Zu Nummer 2
+&#167; 10 Absatz 2 Nummer 2 regelt die Ausnahme f&#252;r Ged&#228;chtnisinstitutionen (Bibliotheken, einschlie&#223;lich
+Hochschulbibliotheken, Museen und Archive). Diesen Institutionen soll es m&#246;glich sein, Geb&#252;hren zu erheben, die
+&#252;ber den Grenzkosten liegen, damit ihr normaler Betrieb nicht behindert wird.
+Die Vorschrift entspricht wortgleich &#167; 5 Absatz 2 Nummer 3 IWG. Sie setzt Artikel 6 Absatz 2 Buchstabe b der
+Richtlinie (EU) 2019/1024 um.
+Zu Nummer 3
+&#167; 10 Absatz 2 Nummer 3 nimmt &#246;ffentliche Unternehmen von der kostenfreien Bereitstellung aus. Die Ausnahme
+erkennt die T&#228;tigkeit auf einem wettbewerbsbestimmten wirtschaftlichen Umfeld an.
+Die Regelung setzt Artikel 6 Absatz 2 Buchstabe c der Richtlinie (EU) 2019/1024 um.
+Zu Absatz 3
+Nach &#167; 10 Absatz 3 erfolgt die Nutzung hochwertiger Datens&#228;tze und von Forschungsdaten von &#246;ffentlichen
+Stellen und Unternehmen grunds&#228;tzlich unentgeltlich. 
+Abweichend von Absatz 3 wird die Europ&#228;ische Kommission nach Artikel 14 Absatz 3 der Richtlinie (EU)
+2019/1024 in den Durchf&#252;hrungsrechtsakten zu hochwertigen Datens&#228;tzen festlegen, dass die Unentgeltlichkeit
+nicht f&#252;r bestimmte hochwertige Datens&#228;tze &#246;ffentlicher Unternehmen gilt, wenn dies zu einer Verf&#228;lschung des
+Wettbewerbs auf den betreffenden M&#228;rkten f&#252;hren w&#252;rde. 
+Die Vorschrift dient der Umsetzung von Artikel 6 Absatz 6 der Richtlinie (EU) 2019/1024.
+Zu Absatz 4
+&#167; 10 Absatz 4 f&#252;hrt eine Meldepflicht der &#246;ffentlichen Stellen ein, die auf Einnahmen erzielen m&#252;ssen, um einen 
+wesentlichen Teil ihrer Kosten im Zusammenhang mit der Erf&#252;llung &#246;ffentlicher Auftr&#228;ge zu decken. Die
+&#246;ffentlichen Stelle melden die Berufung auf die Ausnahme der Bundesnetzagentur, die ein Liste der &#246;ffentlichen Stellen
+f&#252;hrt, die von der Ausnahme Gebrauch machen. Die Vorschrift setzt Artikel 6 Absatz 3 der Richtlinie (EU)
+2019/1024 um. 
+Zu Absatz 5
+&#167; 10 Absatz 5 regelt eine &#220;bergangsbestimmung f&#252;r die unentgeltliche Bereitstellung hochwertiger Datens&#228;tze.
+Danach gilt die Unentgeltlichkeit nicht f&#252;r &#246;ffentliche Stellen, die Einnahmen erzielen m&#252;ssen, um einen
+wesentlichen Teil ihrer Kosten bei der Wahrnehmung ihres &#246;ffentlichen Auftrags zu decken, wenn sich die unentgeltliche 
+Bereitstellung wesentlich auf den Haushalt der betreffenden Stelle auswirken w&#252;rde. Die Richtlinie r&#228;umt den
+Mitgliedsstaaten eine Abweichung f&#252;r einen Zeitraum von h&#246;chstens zwei Jahren ab Inkrafttreten der
+Durchf&#252;hrungsrechtsakte ein. Die Umsetzung sieht einen Zeitraum von zw&#246;lf Monaten zur Umstellung der technischen
+Anforderungen vor. Dieser Zeitraum ist angemessen, um die technische Aufr&#252;stung zu veranlassen. Ein l&#228;ngerer
+&#220;bergang erscheint insbesondere nicht geboten, da die Bereitstellungsbedingungen zeitnah den dynamischen
+Entwicklungen im Bereich der Schl&#252;sseltechnologien wie K&#252;nstlicher Intelligenz angepasst werden m&#252;ssen. Eine
+weitere Verz&#246;gerung der Modernisierung der Bereitstellung hindert deutsche und europ&#228;ische Innovationen auf
+der Grundlage der Daten des &#246;ffentlichen Sektors.
+Die Vorschrift macht von der M&#246;glichkeit aus Artikel 14 Absatz 5 der Richtlinie (EU) 2019/1024 Gebrauch.
+Zu &#167; 11 (Bemessung der Entgelth&#246;he)
+Zu Absatz 1
+&#167; 11 Absatz 1 regelt die Entgeltbemessung f&#252;r &#246;ffentliche Unternehmen und &#246;ffentliche Stellen, die sich auf
+&#167; 10 Absatz 2 berufen k&#246;nnen. Diese Entgelte sollen nach objektiven, transparenten und &#252;berpr&#252;fbaren Kriterien 
+festgelegt werden. 
+Die Regelung entspricht &#167; 5 Absatz 3 IWG und setzt Artikel 6 Absatz 4 der Richtlinie (EU) 2019/1024 um.
+Zu Absatz 2
+Absatz 2 regelt die Bemessung der Entgelth&#246;he nach den Kriterien, die Absatz 1 nennt. Die Gesamteinnahmenaus
+der Bereitstellung der Daten und der Gestattung ihrer Nutzung sollen die Kosten ihrer Erfassung und Erstellung,
+&#8211; einschlie&#223;lich des Erwerbs von Dritten &#8211;, ihrer Reproduktion, Pflege, Speicherung und Verbreitung zuz&#252;glich
+einer angemessenen Gewinnspanne nicht &#252;bersteigen. Gegebenenfalls soll es auch m&#246;glich sein, die Kosten der
+Anonymisierung personenbezogener Daten und die Kosten von Ma&#223;nahmen zum Schutz der Vertraulichkeit von
+Daten geltend zu machen. Die Gewinnspanne kann als Prozentsatz verstanden werden, der &#8211; zus&#228;tzlich zu den
+Grenzkosten &#8211; die Deckung der Kapitalkosten und die Einbeziehung einer realen Rendite erm&#246;glicht. Da die
+Kapitalkosten eng an die Zinss&#228;tze der Kreditinstitute gekoppelt sind, die wiederum von den Festzinss&#228;tzen der
+Europ&#228;ischen Zentralbank (EZB) f&#252;r Hauptrefinanzierungsgesch&#228;fte abh&#228;ngen, soll die angemessene
+Gewinnspanne nicht mehr als 5 % &#252;ber dem von der EZB festgesetzten Zinssatz liegen (vgl. Erw&#228;gungsgr&#252;nde 36, 37 der
+Richtlinie (EU) 2019/1024). 
+&#167; 11 Absatz 2 Satz 2 regelt die Entgeltbemessung f&#252;r Ged&#228;chtnisinstitutionen, die unter die Ausnahme nach
+&#167; 10 Absatz 2 Nummer 2 fallen. Bei diesen Institutionen sollen die Gesamteinnahmen aus der Bereitstellung von
+Daten und der Gestattung ihrer Nutzung f&#252;r den entsprechenden Abrechnungszeitraum die Kosten ihrer
+Erfassung, Erstellung, Reproduktion, Verbreitung, Bewahrung und der Rechtekl&#228;rung zuz&#252;glich einer angemessenen
+Gewinnspanne nicht &#252;bersteigen. Kosten der Bewahrung meint dabei Kosten, die f&#252;r den Aufwand der
+Bestandserhaltung anfallen k&#246;nnen. Dies ist zum Beispiel der Fall, wenn die Bestandserhaltung eine besondere Form der
+Aufbewahrung erfordert.  
+Gegebenenfalls sollen auch die Kosten der Anonymisierung personenbezogener Daten oder von
+Gesch&#228;ftsgeheimnissen geltend gemacht werden k&#246;nnen. In Bezug auf Bibliotheken (einschlie&#223;lich Hochschulbibliotheken),
+Museen und Archive und angesichts ihrer Besonderheiten k&#246;nnen die Entgelte, die im Privatsektor f&#252;r die
+Nutzung identischer oder &#228;hnlicher Daten erhoben werden, bei der Ermittlung der angemessenen Gewinnspanne
+ber&#252;cksichtigt werden (vgl. Erw&#228;gungsgrund 38 der Richtlinie (EU) 2019/1024).
+Zu Absatz 3
+Absatz 3 bestimmt, dass die Entgelte nach Absatz 1 nach Ma&#223;gabe der geltenden Buchf&#252;hrungsgrunds&#228;tze
+berechnet werden.
+Die Regelung dient der Umsetzung von Artikel 6 Absatz 4 Unterabsatz 3 der Richtlinie (EU) 2019/1024.
+Zu &#167; 12 (Transparenz von Entgelten)
+Die Regelungen zur Transparenz entsprechen &#167; 6 IWG. 
+&#167; 12 dient der Umsetzung von Artikel 7 der Richtlinie (EU) 2019/1024.
+Zu &#167; 13 (Rechtsweg)
+Die Vorschrift &#252;bernimmt den Regelungsgehalt des &#167; 7 IWG.
+Zu Artikel 3 (Inkrafttreten, Au&#223;erkrafttreten)
+Mit Inkrafttreten der Neufassung des DNG tritt das IWG au&#223;er Kraft. Da die Umsetzungsfrist der Richtlinie (EU)
+2019/1024 bereits am 17. Juli 2021 endet, tritt das Gesetz nicht wie &#252;blich zum 1. des drauffolgenden Quartals in
+Kraft.
+Anlage 2
+Stellungnahme des Nationalen Normenkontrollrates gem. &#167; 6 Absatz 1 NKRG
+Entwurf eines Gesetzes zur &#196;nderung des E-Government-Gesetzes und der
+Einf&#252;hrung des Gesetzes &#252;ber die Nutzung offener Daten
+(NKR-Nr. 5563, BMWi/BMI)
+Der Nationale Normenkontrollrat hat den Entwurf des oben genannten Regelungsvorhabens
+gepr&#252;ft.
+I. Zusammenfassung
+B&#252;rgerinnen und B&#252;rger Keine Auswirkungen 
+Wirtschaft Keine Auswirkungen 
+Verwaltung
+Bund
+J&#228;hrlicher Erf&#252;llungsaufwand: 8,4 Mio. Euro
+Einmaliger Erf&#252;llungsaufwand: 18,7 Mio. Euro 
+Umsetzung von EU-Recht Bei der Ausweitung der Bereitstellungspflicht
+sowie bei weiteren Vorgaben im Rahmen der
+&#196;nderung des E-Government-Gesetzes handelt es sich
+um nationale Vorgaben. Dar&#252;ber hinaus wird mit
+dem Gesetz &#252;ber die Nutzung offener Daten die
+Richtlinie (EU) 2019/1024 umgesetzt. Dem NKR
+liegen keine Anhaltspunkte daf&#252;r vor, dass damit 
+&#252;ber eine 1:1 Umsetzung hinausgegangen wird. 
+Evaluierung Eine Evaluierung findet sechs Jahre nach dem
+Inkrafttreten des Ersten Open-Data-Gesetzes (Juli
+2017) statt.
+Ziele: 
+Kriterien/Indikatoren:
+Datengrundlage:
+Zunahme der Datenbereitstellung.
+Anzahl ver&#246;ffentlichter Datens&#228;tze auf GovData
+und der Beratungsleistungen durch zentrale
+Stellen.
+Berichte der Bundesregierung &#252;ber die
+Fortschritte bei der Bereitstellung von Daten.
+Der Nationale Normenkontrollrat erhebt im Rahmen seines gesetzlichen Auftrags keine
+Einw&#228;nde gegen die Darstellung der Gesetzesfolgen in dem vorliegenden
+Regelungsentwurf.
+II. Im Einzelnen
+Mit der &#196;nderung des E-Government-Gesetzes soll die Verf&#252;gbarkeit und Nutzbarkeit von 
+offenen Daten (elektronisch gespeicherten unbearbeiteten Daten, die zur Erf&#252;llung der
+&#246;ffentlich-rechtlichen Aufgaben erhoben wurden) der Bundesverwaltung weiter gesteigert werden.
+Damit werden die Eckpunkte der Datenstrategie des Bundes vom November 2019 umgesetzt.
+Das Regelungsvorhaben greift ebenfalls die Erkenntnisse des ersten Open-Data-
+Fortschrittsberichts auf.
+Das Regelungsvorhaben enth&#228;lt u.a. folgende neue Ma&#223;nahmen:
+&#61623; Die Verpflichtung zur &#246;ffentlichen Bereitstellung unbearbeiteter Rohdaten der
+unmittelbaren Bundesverwaltung wird auf die gesamte Bundesverwaltung ausgeweitet und
+Ausnahmeregelungen werden aufgehoben. Auch die Anstalten, K&#246;rperschaften (mit
+Ausnahme der Selbstverwaltungsk&#246;rperschaften) und Stiftungen &#246;ffentlichen Rechts
+werden damit zur Bereitstellung unbearbeiteter Rohdaten verpflichtet. Erfasst werden
+erstmals auch unbearbeitete Forschungsdaten.
+&#61623; Jede Beh&#246;rde des Bundes muss eine zust&#228;ndige Organisationseinheit zur Durchsetzung
+der Open-Data-Ziele der Bundesregierung benennen und mit entsprechenden
+Kapazit&#228;ten ausstatten (sog. Open-Data-Koordinatoren). In dem ersten Open-Data-
+Fortschrittsberichts hat die Bundesregierung festgestellt, dass die einzelnen Beh&#246;rden mehr
+Unterst&#252;tzung bei der allt&#228;glichen Bereitstellung bekommen m&#252;ssen. Mit dieser
+Regelung werden diese Erkenntnisse aufgegriffen.
+&#61623; Unbearbeitete Daten sollen zuk&#252;nftig ausschlie&#223;lich in einem maschinenlesbaren
+Format bereitgestellt werden.
+Dar&#252;ber hinaus werden die Regelungen der neugefassten Richtlinie (EU) 2019/1024 &#252;ber
+offene Daten und die Weiterverwendung von Informationen des &#246;ffentlichen Sektors in das
+deutsche Recht umgesetzt. Damit werden u.a. die Grunds&#228;tze der Nichtdiskriminierung, der
+Unentgeltlichkeit und des Verbots ausschlie&#223;licher Rechte etabliert. Mit der Umsetzung der
+Richtlinie (EU) 2019/1024 werden keine neuen Bereitstellungspflichten eingef&#252;hrt.
+Das Ressort erwartet einem erheblichen Nutzen offener Daten. Laut einer Studie der
+Europ&#228;ischen Kommission aus dem Jahr 2020 k&#246;nnen durch die Bereitstellung und Nutzung
+offener Daten j&#228;hrliche Kosteneinsparungen in den &#246;ffentlichen Verwaltungen in der EU von 250 
+Mio. bis 14,8 Mrd. Euro erreicht werden. Studien der Europ&#228;ischen Zentralbank, des
+European Economic Forecast und des Europ&#228;ischen Zentrums f&#252;r die F&#246;rderung der
+Berufsbildung gehen zudem f&#252;r die EU Wirtschaft von bis zu rund 900.000 neuen Arbeitspl&#228;tzen mit 
+Open-Data-Bezug bis 2025 aus. 
+II.1. Erf&#252;llungsaufwand
+Den B&#252;rgerinnen und B&#252;rgern und der Wirtschaft entsteht kein zus&#228;tzlicher
+Erf&#252;llungsaufwand. 
+Verwaltung (Bund)
+F&#252;r die Bundesverwaltung entsteht aus der &#196;nderung des E-Government-Gesetzes j&#228;hrlicher
+Erf&#252;llungsaufwand von 8,4 Mio. Euro sowie einmaliger Erf&#252;llungsaufwand von
+18,7 Mio. Euro. Der Erf&#252;llungsaufwand wurde auf der Basis der ex-ante Sch&#228;tzungen im
+Rahmen des 1. Open-Data-Gesetzes sowie einer Befragung der Beh&#246;rden zu Erfahrungen mit 
+der Umsetzung dieses Gesetzes ermittelt.
+J&#228;hrlicher Erf&#252;llungsaufwand entsteht vor allem aus der Ausweitung der Verpflichtung,
+unbearbeitete Rohdaten bereitzustellen. Bei 64 weiteren Beh&#246;rden wird j&#228;hrlicher
+Erf&#252;llungsaufwand von insgesamt rund 200.000 Euro f&#252;r die laufende Pr&#252;fung und Ver&#246;ffentlichung der
+Datens&#228;tze erwartet. Dabei wird angenommen, dass jede Beh&#246;rde 75 Datens&#228;tze bereitstellt
+und daf&#252;r pro Jahr ein Zeitaufwand von rund einer Stunde (Lohnsatz f&#252;r den gehobenen 
+Dienst von 43,40 Euro/Stunde) pro Datensatz entsteht.
+F&#252;r Forschungsdaten werden deutlich h&#246;here Fallzahlen erwartet. Laut Angaben von einigen 
+Forschungseinrichtungen, k&#246;nnen bis zu 900.000 Datens&#228;tze pro Jahr von der Regelung
+betroffen sein. Das Ressort geht von einer durchschnittlichen Anzahl von rund 240.000
+Datens&#228;tzen pro Jahr aus. Bei 43 Forschungseinrichtungen ergibt sich damit eine j&#228;hrliche Fallzahl
+von 10,2 Mio. Datens&#228;tzen. Das Ressort nimmt fernen an, dass pro Publikation 50
+Datens&#228;tze produziert und in aggregierter Form bereitgestellt werden. Bei 205.000 Uploads pro Jahr
+und einem Zeitaufwand von rund 43 Minuten pro Upload (nach einer Umstellungsphase)
+entsteht j&#228;hrlicher Erf&#252;llungsaufwand von rund 6,3 Mio. Euro. 
+Weitere j&#228;hrlicher Erf&#252;llungsaufwand entsteht aus den zu schaffenden Planstellen f&#252;r Open-
+Data-Koordinatoren in s&#228;mtlichen Bundesbeh&#246;rden. Das Ressort geht von einer Fallzahl von
+122 Beh&#246;rden und einem zus&#228;tzlichen Zeitaufwand von rund 250 bis 1,530 Stunden pro Jahr
+aus (0,2 bis 1 neue Stelle f&#252;r Beh&#246;rden die bisher keinen Open-Data Verantwortlichen
+benannt haben). Daraus entsteht j&#228;hrlicher Erf&#252;llungsaufwand von rund 1,8 Mio. Euro.
+Aufgrund des zus&#228;tzlichen Beratungsbedarfs zu Fragen der Bereitstellung von Daten wird
+zus&#228;tzlicher Zeitaufwand f&#252;r das Kompetenzzentrum Open Data (CCOD) des
+Bundesverwaltungsamtes erwartet. Bei einem j&#228;hrlichen Zeitaufwand von 3.200 Stunden und einem
+Lohnsatz von 43,40 Euro/Stunde f&#252;r den gehobenen Dienst bzw. von 65,40 Euro/Stunde f&#252;r den
+h&#246;heren Dienst ergibt sich zus&#228;tzlicher j&#228;hrlicher Erf&#252;llungsaufwand von 174.000 Euro. 
+Einmaliger Erf&#252;llungsaufwand der Verwaltung entsteht haupts&#228;chlich aus der Erweiterung der
+Verpflichtung, elektronisch gespeicherte unbearbeitete Daten zur Verf&#252;gung zu stellen. Das
+Ressort geht nachvollziehbar davon aus, dass 64 weitere Beh&#246;rden sowie 43
+Forschungseinrichtungen vor der Verpflichtung betroffen sind. Die durchschnittlichen Personal- und
+Sachkosten pro Stelle werden, basierend auf einer Befragung der Normadressaten, auf
+55.000 Euro gesch&#228;tzt. Insgesamt ergibt sich daraus einmaliger Erf&#252;llungsaufwand von rund
+5,9 Mio. Euro.
+F&#252;r Forschungsdaten wird auch erwartet, dass in der Umstellungsphase, bevor die Prozesse 
+automatisiert werden, h&#246;herer Zeitaufwand pro Upload entstehen wird. Bei einem
+Zeitaufwand pro Fall von einer Stunde (Lohnsatz von 65,40 Euro/Stunde f&#252;r den h&#246;heren Dienst)
+und einer Fallzahl von 205.000 Uploads entsteht einmaliger Erf&#252;llungsaufwand von rund 
+12,8 Mio. Euro.
+Aufgrund der Verpflichtung, bereits vorhandene Daten in einem offenen und
+maschinenlesbaren Format bereitzustellen, werden &#246;ffentliche Stellen und &#246;ffentliche Unternehmen
+Anwendungsprogrammierschnittstellen bereitstellen m&#252;ssen. Da dem Ressort aktuell keine
+F&#228;lle bekannt sind, in denen dynamische Daten bereits bereitgestellt werden, dies jedoch 
+nicht schon &#252;ber eine API erfolgt, wird nur von Einzelf&#228;llen ausgegangen. Basierend auf einer
+Aufwandssch&#228;tzung f&#252;r die Einf&#252;hrung eines register&#252;bergreifenden ID-Managements zum
+Onlinezugangsgesetz, sch&#228;tzt das Ressort den einmaligen Erf&#252;llungsaufwand auf
+15.000 Euro und j&#228;hrlichen Erf&#252;llungsaufwand auf 3.000 Euro pro Fall.
+II.2. Umsetzung von EU-Recht 
+Bei der Ausweitung der Bereitstellungspflicht sowie bei weiteren Vorgaben im Rahmen der
+&#196;nderung des E-Government-Gesetzes handelt es sich um nationale Vorgaben. Dar&#252;ber
+hinaus wird mit dem Gesetz &#252;ber die Nutzung offener Daten die Richtlinie (EU) 2019/1024
+umgesetzt. Dem NKR liegen keine Anhaltspunkte daf&#252;r vor, dass damit &#252;ber eine 1:1 Umsetzung
+hinausgegangen wird. 
+II.3 Evaluierung
+Eine Evaluierung findet sechs Jahre nach dem Inkrafttreten des Ersten Open-Data-Gesetzes
+(Juli 2017) statt. Dabei wird untersucht, inwiefern das Ziel, verst&#228;rkte Datenbereitstellung zu
+etablieren, erreicht wurde. Als Indikatoren werden insbesondere die Anzahl ver&#246;ffentlichter
+Datens&#228;tze auf dem GovData Portal sowie die Inanspruchnahme von Beratungsleistungen 
+der zentralen Stellen herangezogen. Als Datengrundlage wird das Monitoring im Rahmen der
+Berichte der Bundesregierung &#252;ber die Fortschritte bei der Bereitstellung von Daten dienen. 
+III. Ergebnis
+Der Nationale Normenkontrollrat erhebt im Rahmen seines gesetzlichen Auftrags keine
+Einw&#228;nde gegen die Darstellung der Gesetzesfolgen in dem vorliegenden Regelungsentwurf. 
+Dr. Johannes Ludewig Prof. Dr. Conny Mayer-Bonde 
+Vorsitzender Berichterstatterin
+
+
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de 
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de 
+ISSN 0722-8333]</text>
+    <titel>Entwurf eines Gesetzes zur &#196;nderung des E-Government-Gesetzes und zur Einf&#252;hrung des Gesetzes f&#252;r die Nutzung von Daten des &#246;ffentlichen Sektors</titel>
+    <datum>2021-03-09</datum>
+  </document>

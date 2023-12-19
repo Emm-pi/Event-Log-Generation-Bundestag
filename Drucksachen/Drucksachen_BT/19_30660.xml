@@ -1,0 +1,260 @@
+<document>
+    <id>255374</id>
+    <drucksachetyp>Unterrichtung</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/30660</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>eeae788ef5d344bdd28d6dc985a660aa</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:15+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>279103</id>
+      <titel>&#214;ffentliche Bewertung des Parlamentarischen Kontrollgremiums gem&#228;&#223; &#167; 10 Absatz 2 Satz 1 des Kontrollgremiumgesetzes zum Kontrollauftrag Qualit&#228;tssicherung bei der Einsteuerung von Telekommunikationsmerkmalen in der strategischen Fernmeldeaufkl&#228;rung des Bundesnachrichtendienstes</titel>
+      <vorgangstyp>Bericht, Gutachten, Programm</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>PKGr</bezeichnung>
+      <titel>Parlamentarisches Kontrollgremium</titel>
+    </urheber>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/306/1930660.pdf</pdf_url>
+      <id>255374</id>
+      <dokumentnummer>19/30660</dokumentnummer>
+      <datum>2021-06-09</datum>
+      <verteildatum>2021-06-11</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Unterrichtung</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Parlamentarisches Kontrollgremium</urheber>
+    </fundstelle>
+    <text>[Deutscher Bundestag Drucksache 19/30660 
+19. Wahlperiode 09.06 2021 
+Unterrichtung
+durch das Parlamentarische Kontrollgremium
+&#214;ffentliche Bewertung des Parlamentarischen Kontrollgremiums 
+gem&#228;&#223; &#167; 10 Absatz 2 Satz 1 des Kontrollgremiumgesetzes zum Kontrollauftrag
+Qualit&#228;tssicherung bei der Einsteuerung von Telekommunikationsmerkmalen 
+in der strategischen Fernmeldeaufkl&#228;rung des Bundesnachrichtendienstes
+I. Gegenstand der Untersuchung
+Das Parlamentarische Kontrollgremium hat am 4. Juli 2018 gem&#228;&#223; &#167; 1 Absatz 1 i. V. m. &#167; 5 Absatz 1 PKGrG
+seinen St&#228;ndigen Bevollm&#228;chtigten beauftragt, zu kontrollieren, inwieweit heute eine auftragskonforme
+Steuerung von Telekommunikationsmerkmalen (TKM, auch als Suchbegriff oder Selektoren bezeichnet) in der
+strategischen Fernmeldeaufkl&#228;rung (FmA) des Bundesnachrichtendienstes (BND) durch qualit&#228;tssichernde
+Ma&#223;nahmen sichergestellt wird. Die Untersuchung &#252;berpr&#252;fte die Rechtm&#228;&#223;igkeit der Steuerung von BND-eigenen TKM.
+Hintergrund ist die vom PKGr am 6. Juli 2016 beschlossene Untersuchung der BND-eigenen Steuerung von TKM.
+Diese legte sowohl erhebliche strukturelle und technische Defizite als auch rechtlich fragw&#252;rdige Begr&#252;ndungen 
+f&#252;r die Steuerung von sensiblen Suchbegriffen innerhalb der Abteilung Technische Aufkl&#228;rung (TA)1 des BND
+offen. Zudem wurde das PKGr sp&#228;t und unzureichend &#252;ber diese massiven Probleme informiert.
+Hierzu hatte das PKGr eine &#246;ffentliche Bewertung nach &#167; 10 Absatz 2 und 3 PKGrG abgegeben
+(Bundestagsdrucksache 18/9142 vom 7. Juli 2016). Darin wurde erhebliches Verbesserungspotenzial bei der
+Qualit&#228;tssicherung der Einsteuerung von Telekommunikationsmerkmalen in der strategischen Fernmeldeaufkl&#228;rung2 des
+Bundesnachrichtendienstes festgestellt. Die &#246;ffentliche Bewertung des Parlamentarischen Kontrollgremiums h&#228;lt fest,
+dass bei der Steuerung3 von Teilnehmern und BND-eigenen TKM4 bis weit ins Jahr 2013 lediglich eine
+Plausibilit&#228;tspr&#252;fung im Hinblick auf das so genannte Auftragsprofil der Bundesregierung durchgef&#252;hrt wurde. Eine in 
+den Prozessen institutionalisierte Verh&#228;ltnism&#228;&#223;igkeitspr&#252;fung einer Steuerung war jedoch zu der Zeit nicht
+erkennbar. Eine Pr&#252;fung so genannter AND-Selektoren (Selektoren anderer Nachrichtendienste) fand nicht statt.
+Insbesondere hatten ausl&#228;ndische Nachrichtendienste seinerzeit dem BND die zu steuernden Selektoren teilweise 
+in &#8222;zerhacktem&#8220; (gehashtem) und somit unkenntlichem Zustand &#252;bermittelt, so dass der Eindruck entstand, dass
+der BND keine Kontrolle dar&#252;ber hatte, welche Selektoren ausl&#228;ndischer Nachrichtendienste er an inl&#228;ndischen
+1 Die Abteilung Technische Aufkl&#228;rung TA ist der Unterrichtung des Parlamentarischen Kontrollgremiums zufolge die beim
+Bundesnachrichtendienst f&#252;r die nachrichtendienstliche Informationsgewinnung aus der weltweiten Telekommunikation zust&#228;ndige Organisationseinheit.
+2 Die Unterrichtung des Parlamentarischen Kontrollgremiums an den Deutschen Bundestag (Bundestagsdrucksache 18/9142) beschreibt die
+&#8222;strategische Fernmeldeaufkl&#228;rung&#8220; als ein nachrichtendienstliches Mittel, bei dem die Telekommunikation einer Vielzahl von
+Telekommunikationsteilnehmern gleichzeitig erfasst wird und auf Basis bestimmter Suchbegriffe einzelne Kommunikationsvorg&#228;nge herausgefiltert werden.
+3 Eine &#8222;Steuerung&#8220; ist der Unterrichtung zufolge der Prozess der zielgerichteten Filterung von Kommunikationsstr&#246;men nach Suchbegriffen im
+Rahmen der Fernmeldeaufkl&#228;rung.
+4 Bei &#8222;TKM bzw. Selektoren oder Suchbegriffen&#8220; handelt es sich der Unterrichtung nach in diesem Zusammenhang um formale Suchbegriffe, die
+im Erfassungsprozess der Fernmeldeaufkl&#228;rung dazu dienen, automatisiert potenziell relevante Kommunikationsvorg&#228;nge herauszufiltern.
+Internetknotenpunkten steuerte und an AND ausleitete. Im BND gab es keine regelm&#228;&#223;ige Eingriff-Nutzen-
+Abw&#228;gung bei der Steuerung politisch und rechtlich sensibler Teilnehmer. Das Parlamentarische Kontrollgremium
+hat hierzu Empfehlungen ausgesprochen. Die wichtigsten lauten knapp zusammengefasst:
+1. Die rechtlichen Grundlagen des BNDG m&#252;ssen f&#252;r den Einsatz des nachrichtendienstlichen Mittels der
+strategischen Fernmeldeaufkl&#228;rung gesch&#228;rft werden. (. . .)
+2. Zuk&#252;nftig muss sichergestellt sein, dass der Schutz sensibler Ziele (wie Regierungseinrichtungen von
+EU/NATO-L&#228;ndern, internationale Organisationen, Unternehmen) sowie der Schutz von EU-B&#252;rgern und
+EU-Einrichtungen bei der nachrichtendienstlichen Aufgabenwahrnehmung gew&#228;hrleistet werden.
+3. F&#252;r einzelne, besonders sensible Steuerungen bed&#252;rfe es einer Anordnung durch die Leitung des
+Bundesnachrichtendienstes und eines Genehmigungsvorbehalts durch das Bundeskanzleramt.
+4. Der Bundesnachrichtendienst sollte zur rechtssicheren und vereinheitlichten Handhabung der strategischen
+Fernmeldeaufkl&#228;rung Dienstvorschriften entwickeln, welche die Bedingungen f&#252;r die Auswahl von Zielen,
+den Prozessablauf zwischen der Auswertung und der Aufkl&#228;rung, die Entscheidungsebenen und internen
+qualit&#228;tssichernden Kontrollstruktur definieren.
+Mit einer Reform der Fernmeldeaufkl&#228;rung des BND wurde die Kritik des Parlamentarischen Kontrollgremiums
+und des Ersten Parlamentarischen Untersuchungsausschusses der 18. Wahlperiode im Parlament aufgegriffen.
+Der Bundestag verabschiedete am 21. Oktober 2016 das &#8222;Gesetz zur Ausland-Ausland-Fernmeldeaufkl&#228;rung&#8220; des
+Bundesnachrichtendienstes. Der BND hatte sich f&#252;r seine Fernmeldeaufkl&#228;rung bis dahin allein auf die
+Aufgabezuweisung aus &#167; 1 Absatz 2 BNDG5 und das Auftragsprofil der Bundesregierung (APB) gest&#252;tzt. Grenzen
+ergaben sich lediglich aus den Voraussetzungen des G 10. Nunmehr wurde mit den &#167;&#167; 6 bis 18 BNDG ein neuer
+Abschnitt 2 ins BNDG eingef&#252;gt.6 Die neu eingef&#252;hrten Normen regeln die strategische Fernmeldeaufkl&#228;rung
+gegen&#252;ber Ausl&#228;ndern im Ausland, soweit sie vom Inland aus durch dortige Erfassungssysteme erfolgt.
+&#167; 6 Absatz 1 BNDG konkretisiert f&#252;r die Fernmeldeaufkl&#228;rung den allgemeinen gesetzlichen Aufkl&#228;rungsauftrag
+des BND nach &#167; 1 Absatz 2 BNDG. Absatz 2 verlangt den Einsatz von Suchbegriffen, die zur Aufkl&#228;rung
+geeignet sind und zus&#228;tzlich im Einklang mit den au&#223;en- und sicherheitspolitischen Interessen der Bundesregierung
+stehen m&#252;ssen. Absatz 3 regelt die gezielte Erfassung von EU-B&#252;rgern, Institutionen oder &#246;ffentlichen
+Einrichtungen von EU-Staaten. Suchbegriffe d&#252;rfen diese Ziele nur in eng umgrenzten Ausnahmef&#228;llen (u. a.
+Gefahrenbereiche nach &#167; 5 G 10 oder Erkenntnisse &#252;ber Drittstaaten nach Satz 1 Nummer 2) betreffen. Absatz 4 verbietet 
+ausnahmslos die Erfassung von Inl&#228;ndern. Absatz 7 Satz 1 bestimmt schlie&#223;lich die Erstellung einer
+Dienstvorschrift, die u. a. das Anordnungsverfahren durch das Bundeskanzleramt oder die Beh&#246;rdenleitung bestimmt.
+Die durch Bundeskanzleramt bzw. Beh&#246;rdenleitung anzuordnenden Telekommunikationsnetze, Ma&#223;nahmen und
+Suchmerkmale (&#167; 9 BNDG) sind durch ein neues, eigenes externes Kontrollorgan, das Unabh&#228;ngige Gremium,
+zu pr&#252;fen (&#167; 16 BNDG). Damit soll sichergestellt werden, dass die gesetzlichen Vorgaben vor Beginn der
+Datenerhebung eingehalten werden.
+II. Kontrollziele und Gang der Untersuchung des Parlamentarischen Kontrollgremiums
+Das Parlamentarische Kontrollgremium hat am 4. Juli 2018 gem&#228;&#223; &#167; 1 Absatz 1 i. V. m. &#167; 5a Absatz 1 PKGrG
+seinen St&#228;ndigen Bevollm&#228;chtigten beauftragt, den Stand der Qualit&#228;tssicherung bei der Einsteuerung von BND-
+eigenen TKM in der strategischen Fernmeldeaufkl&#228;rung im Bundesnachrichtendienst zu untersuchen und fachlich
+zu bewerten.
+Auf der Grundlage zahlreicher von der Bundesregierung bereitgestellter Unterlagen, der Beantwortung
+umfangreicher Fragenkataloge sowie eines Kontrollgespr&#228;chs des St&#228;ndigen Bevollm&#228;chtigten beim BND mit
+Selektoren-Stichprobenpr&#252;fungen und Echtzeitkontrolle der Einsteuerung berichtete der St&#228;ndige Bevollm&#228;chtigte
+dem Parlamentarischen Kontrollgremium am 19. Mai 2021.
+Bei der Untersuchung befasste sich der St&#228;ndige Bevollm&#228;chtigte insbesondere mit der Frage der Sicherstellung
+der Rechtm&#228;&#223;igkeit der Steuerung von TKM im Rahmen der strategischen FmA des BND. Dabei wurden die 
+Pr&#252;fprozesse und deren Dokumentation bei der Einsteuerung von Selektoren sowie der Aufbau und die Bedienung 
+der dazu vorgesehenen Datenbank der Abteilung Technische Aufkl&#228;rung des BND eingehend betrachtet. Ebenso
+5 BNDG vom 20. Dezember 1990 (BGBl. I S. 2954, 2979), zuletzt ge&#228;ndert durch VO vom 19. Juni 2020 (BGBl. I S. 1328).
+6 Entwurf eines Gesetzes zur Ausland-Ausland-Fernmeldeaufkl&#228;rung des Bundesnachrichtendienstes (Bundestagsdrucksache 18/9041): Mit
+Wirkung vom 31. Dezember 2016 durch Gesetz vom 23. Dezember 2016 (BGBl. I S. 33465).
+  
+        
+ 
+ 
+     
+   
+    
+  
+    
+   
+   
+  
+    
+    
+ 
+    
+     
+     
+        
+    
+ 
+   
+    
+     
+ 
+        
+   
+   
+   
+ 
+ 
+  
+  
+   
+     
+        
+ 
+       
+    
+ 
+    
+     
+    
+  
+ 
+        
+   
+  
+   
+ 
+Deutscher Bundestag &#8211; 19. Wahlperiode &#8211; 3 &#8211; Drucksache 19/[&#8230;] 
+kontrolliert wurden die zugeh&#246;rigen Dienstvorschriften, die Zahl des eingesetzten Pr&#252;fpersonals und dessen
+Qualifikation bez&#252;glich der Pr&#252;fprozesse im Rahmen der Qualit&#228;tssicherung sowie die Vorschriften und Abl&#228;ufe im
+Zusammenhang mit der Steuerung von BND-eigenen TKM. Selektoren anderer Nachrichtendienste waren nicht
+Gegenstand des Kontrollauftrages.
+Insbesondere folgende Ver&#228;nderungen hat der BND f&#252;r eine bessere Qualit&#228;tssicherung vorgenommen, die der
+St&#228;ndige Bevollm&#228;chtigte im Rahmen der Untersuchung &#252;berpr&#252;ft hat:
+&#8226; Der BND hat als Konsequenz aus den Untersuchungen des Parlamentarischen Kontrollgremiums als erste 
+Ma&#223;nahme bereits zu Beginn 2016 die Qualit&#228;tssicherung SIGINT (QS) geschaffen: Das Sachgebiet ist
+direkt dem zust&#228;ndigen Unterabteilungsleiter unterstellt; die Leitung hat die Qualifikation Volljurist. Zweck
+der Qualit&#228;tssicherung sei der Bundesregierung zufolge die &#8222;Wahrung der Rechts- und Auftragskonformit&#228;t
+und der Sicherstellung ihrer plausiblen Dokumentation&#8220;. F&#252;r die TA diene die QS als zentrale Stelle, die 
+einen Gesamt&#252;berblick &#252;ber die Verwendung eigener Suchbegriffe habe und diese einer fortlaufenden,
+stetigen Pr&#252;fung unterziehe. Damit erh&#246;he die QS &#8222;die Rechts- und Handlungssicherheit&#8220; f&#252;r die zust&#228;ndigen
+Mitarbeiterinnen und Mitarbeiter &#8211; auch bei angrenzenden Bereichen.
+Die QS ist in zwei Teams unterteilt: Das Team &#8222;interne Pr&#252;fung&#8220; f&#252;hrt u. a. die Verwendungspr&#252;fung von
+Suchbegriffen gem&#228;&#223; &#167; 6 BNDG durch. Das Team &#8222;externe Pr&#252;fung&#8220; nimmt Aufgaben des &#167; 15 Absatz 3 
+BNDG wahr (AND-Stichprobenkontrolle). Die &#220;berpr&#252;fung erstreckt sich auf jede Form der Verarbeitung,
+nicht nur auf die gezielte Erfassung, sondern auch auf den Datenschutz. Es existiert ein Vier-Augen-Prinzip.
+Jede &#196;nderung am Datensatz wird erneut gepr&#252;ft. Zudem werden alle beschriebenen Vorg&#228;nge
+dokumentiert. Es existieren automatisierte Pr&#252;fungen und zus&#228;tzliche manuelle Stichprobenpr&#252;fungen.
+Die Mitarbeiterinnen und Mitarbeiter der QS m&#252;ssen &#252;ber mehrere Jahre einschl&#228;gige Berufserfahrung in
+der TA verf&#252;gen.
+&#8226; Seit 9. M&#228;rz 2019 gilt &#8211; wie vom Parlamentarischen Kontrollgremium empfohlen und im BNDG verankert &#8211;
+eine neue, umfangreiche Dienstvorschrift. Vorliegend ist das die DV SIGINT.
+&#8226; Die zur Verarbeitung und Pr&#252;fung der Qualit&#228;tssicherung zust&#228;ndige Datenbank der TA wurde angepasst
+und unterliegt permanenter technischer und struktureller Weiterentwicklung &#8211; insbesondere hinsichtlich der 
+Anforderung aus dem BNDG.
+Anmerkung:
+W&#228;hrend der laufenden Untersuchung des St&#228;ndigen Bevollm&#228;chtigten hat das Bundesverfassungsgericht am
+19. Mai 2020 mit einem Urteil (1 BvR 2835/17) entschieden, dass die &#220;berwachung der Telekommunikation
+von Ausl&#228;ndern im Ausland durch den Bundesnachrichtendienst an die Grundrechte des Grundgesetzes
+gebunden sei. Die derzeitige Ausgestaltung der Erm&#228;chtigungsgrundlage versto&#223;e gegen das grundrechtliche
+Telekommunikationsgeheimnis (Artikel 10 Absatz 1 GG) und die Pressefreiheit (Artikel 5 Absatz 1 Satz 2 GG).
+Das betrifft laut Mitteilung des Gerichts sowohl die Erhebung und Verarbeitung der Daten als auch die
+&#220;bermittlung der hierdurch gewonnenen Daten an andere Stellen wie ebenfalls die Kooperation mit anderen
+ausl&#228;ndischen Nachrichtendiensten. Nach der Entscheidung sei die Bindung der deutschen Staatsgewalt an die 
+Grundrechte nach Artikel 1 Absatz 3 GG nicht auf das deutsche Staatsgebiet beschr&#228;nkt. Eine
+verfassungsm&#228;&#223;ige Ausgestaltung der gesetzlichen Grundlagen der Ausland-Ausland-Fernmeldeaufkl&#228;rung sei jedoch
+m&#246;glich. Die beanstandeten Vorschriften d&#252;rfen bis 31. Dezember 2021 in Kraft bleiben. Ein entsprechender
+Gesetzentwurf des BNDG (Bundestagsdrucksachen 19/26103, 19/27811) ist vom Deutschen Bundestag am
+25. M&#228;rz 2021 beschlossen und am 21. April 2021 im Bundesgesetzblatt ver&#246;ffentlicht worden.
+III. Feststellung des Parlamentarischen Kontrollgremiums
+Das Parlamentarische Kontrollgremium stellt fest:
+1. Der Prozess der Qualit&#228;tssicherung zur Einhaltung des &#167; 6 BNDG ist im Hinblick auf die Anforderungen der
+Rechtm&#228;&#223;igkeit und der Effizienz eine deutliche Verbesserung im Sinne der vom PKGr ge&#228;u&#223;erten Kritik.
+Verst&#246;&#223;e gegen das BNDG wurden im Rahmen dieser Pr&#252;fung nicht festgestellt. Der
+Bundesnachrichtendienst hat w&#228;hrend des Untersuchungszeitraumes seine Mittel und Methoden fortw&#228;hrend verbessert, um
+den rechtlichen Anforderungen nachzukommen.
+2. Die vorgelegten Beschreibungen, Dienstvorschriften und Erkl&#228;rungen der Bundesregierung zu den
+Pr&#252;fprozessen der Qualit&#228;tssicherung bei der Einsteuerung von TKM werden vom Bundesnachrichtendienst
+umgesetzt. 
+3. Der Bundesnachrichtendienst und mithin die Bundesregierung haben die Empfehlungen des
+Parlamentarischen Kontrollgremiums, so sie den Untersuchungsauftrag betreffen, zeitnah umgesetzt. 
+4. Das Parlamentarische Kontrollgremium wird die Umsetzung der vom Bundesverfassungsgericht mit seiner 
+Entscheidung vom 19. Mai 2020 geforderten Genehmigungs- und Kontrollverfahren in den Prozessen im 
+Bundesnachrichtendienst intensiv und konstruktiv begleiten und beh&#228;lt sich eine erneute Pr&#252;fung der
+Qualit&#228;tssicherung bei der Einsteuerung von TKM in der strategischen FmA vor. Die Anpassung der
+parlamentarischen, gerichtlichen und administrativen Genehmigungs- und Kontrollprozesse an die sich stets
+wandelnden Aufgaben und Arbeitsweisen der Nachrichtendienste ist ein nicht endender Prozess. 
+Im Einzelnen:
+1. Die Einrichtung des Sachgebiets QS, seine Prozesse und Abl&#228;ufe sind vor dem Hintergrund der qualitativen 
+und organisatorischen Empfehlungen des Parlamentarischen Kontrollgremiums folgerichtig, geeignet und 
+angemessen. Der BND muss zwingend fortlaufend f&#252;r ausreichend qualifiziertes Personal sorgen, um den in 
+vielerlei Hinsicht sensiblen Pr&#252;fprozess sicherzustellen. Au&#223;erdem erfordert die Einhaltung der seit 31.
+Dezember 2016 geltenden &#167;&#167; 6 ff., 13 ff. BNDG eine kontinuierliche Anpassung und Weiterentwicklung der 
+QS, damit die Rechte gesch&#252;tzter Personen auf Grundlage des Standes der Technik und der
+Aufgabenerf&#252;llung gewahrt bleiben. 
+2. Die organisatorische Aufteilung des Sachgebiets QS in ein &#8222;externes&#8220; und ein &#8222;internes&#8220; Team ist sinnvoll, 
+ebenso die hierarchische Anbindung. Das eingef&#252;hrte Vier-Augen-Prinzip tr&#228;gt zur Qualit&#228;t in der Kontrolle 
+und Fehlervermeidung bei. 
+3. Mit der einschl&#228;gigen Dienstvorschrift hat der BND alle wesentlichen Forderungen des Parlamentarischen 
+Kontrollgremiums umgesetzt. Sie regelt die Fragen, die sich in der Umsetzung der &#167;&#167; 6 ff., 13 ff. BNDG 
+ergeben. Sie gibt den Mitarbeiterinnen und Mitarbeitern des BND Rechts- und Handlungssicherheit. 
+4. Das Hauptinstrument zur Pr&#252;fung der Qualit&#228;tssicherung bei der TKM-Einsteuerung, die entsprechende
+Datenbank der TA, &#252;berzeugt in der Darstellung und Funktion. Sie erscheint nach Pr&#252;fung umfassend im Sinne 
+der derzeitigen gesetzlichen Anforderungen. 
+5. F&#252;r Stichproben, die nach &#167; 15 BNDG manuell gepr&#252;ft werden, sollte eine Statistik &#252;ber Ergebnisse und 
+Ma&#223;nahmen angelegt und laufend ausgewertet werden. 
+Berlin, den 9. Juni 2021
+Roderich Kiesewetter
+Vorsitzender des Parlamentarischen Kontrollgremiums
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>&#214;ffentliche Bewertung des Parlamentarischen Kontrollgremiums gem&#228;&#223; &#167; 10 Absatz 2 Satz 1 des Kontrollgremiumgesetzes zum Kontrollauftrag
+Qualit&#228;tssicherung bei der Einsteuerung von Telekommunikationsmerkmalen in der strategischen Fernmeldeaufkl&#228;rung des Bundesnachrichtendienstes</titel>
+    <datum>2021-06-09</datum>
+  </document>

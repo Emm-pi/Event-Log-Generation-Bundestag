@@ -1,0 +1,1127 @@
+<document>
+    <id>220995</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/3412</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>4bf12fc2dcd482aaebf4217ae6965a36</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>236934</id>
+      <titel>Fragen zum Sozialdatenschutz und zur Datensicherheit im Zusammenhang mit der Bundesagentur f&#252;r Arbeit und den Jobcentern</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium f&#252;r Arbeit und Soziales</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/034/1903412.pdf</pdf_url>
+      <id>220995</id>
+      <dokumentnummer>19/3412</dokumentnummer>
+      <datum>2018-07-13</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums f&#252;r Arbeit und Soziales vom  
+12. Juli 2018 &#252;bermittelt.  
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext. 
+Deutscher Bundestag  Drucksache 19/3412 
+19. Wahlperiode 13.07.2018 
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Jessica Tatti, Susanne Ferschl,  
+Doris Achelwilm, weiterer Abgeordneter und der Fraktion DIE LINKE. 
+&#8211; Drucksache 19/2916 &#8211; 
+Fragen zum Sozialdatenschutz und zur Datensicherheit im Zusammenhang mit der 
+Bundesagentur f&#252;r Arbeit und den Jobcentern 
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r  
+Die Bundesagentur f&#252;r Arbeit (BA) und die Jobcenter gerieten in den
+vergangenen Jahren immer wieder mit Meldungen &#252;ber mangelnden Datenschutz und 
+mangelnde Datensicherheit in die Schlagzeilen (vgl. beispielsweise
+Bundestagsdrucksachen 17/14327 und 19/2417).  
+Mittlerweile wurde in den Jobcentern (gemeinsame Einrichtungen)
+fl&#228;chendeckend die &#8222;eAkte&#8220; eingef&#252;hrt, zudem wurden neue Computerl&#246;sungen (z. B. 
+&#8222;Allegro&#8220;) implementiert. Einige Jobcenter experimentieren mit elektronischen 
+Dienstleistungen wie der Online-Terminvergabe oder einer Anzeige aktueller 
+Wartezeiten in den Eingangszonen (beispielsweise mit Vorreiterrolle das
+Jobcenter D&#252;sseldorf, siehe www.jobcenter-duesseldorf.de/). Auch in den lokalen 
+Arbeitsagenturen wurden die &#8222;eServices&#8220; ausgebaut.  
+Die Dienststellen der Bundesagentur f&#252;r Arbeit und die Jobcenter lagern
+zunehmend spezifische Aufgaben an (interne) zentrale und/oder externe Dienste aus, 
+z. B. an Callcenter, Scancenter, IT-Service-Haus und zur Beauftragung bzw. 
+Kontrolle von Ma&#223;nahmen die Regionaldirektionen und die BA-Service-Haus.  
+Seit dem 25. Mai 2018 trat die &#220;berarbeitung des Sozialdatenschutzes im
+Zehnten Buch Sozialgesetzbuch (SGB X) mit Anpassungen an europ&#228;ische
+Datenschutzbestimmungen in Kraft. 
+Mit dieser Kleinen Anfrage m&#246;chten sich die Fragesteller einen &#220;berblick &#252;ber 
+die aktuelle Lage des Datenschutzes und der Datensicherheit bei der
+Bundesagentur f&#252;r Arbeit und den Jobcentern (gE) verschaffen. 
+V o r b e me r k u n g  d e r  B u n d e s r e g i e r u n g  
+Leistungen der Grundsicherung f&#252;r Arbeitsuchende werden entweder von den 
+Tr&#228;gern &#8211; der Bundesagentur f&#252;r Arbeit (BA) und den kreisfreien St&#228;dten und 
+Kreisen (kommunale Tr&#228;ger) &#8211; gemeinsam in einer Einrichtung (gemeinsame 
+Einrichtung) oder in alleiniger Verantwortung von den zugelassenen
+kommunalen Tr&#228;gern erbracht (&#167; 6 Absatz 1 Satz 1 des Zweiten Buches Sozialgesetzbuch &#8211;
+SGB II). Beide Formen f&#252;hren die Bezeichnung Jobcenter (&#167; 6d SGB II). Das 
+Bundesministerium f&#252;r Arbeit und Soziales f&#252;hrt die Rechts- und Fachaufsicht 
+&#252;ber die BA, soweit dieser ein Weisungsrecht gegen&#252;ber den gemeinsamen
+Einrichtungen zusteht (&#167; 47 Absatz 1 SGB II). Die Aufsicht &#252;ber die zugelassenen 
+kommunalen Tr&#228;ger f&#252;hren die zust&#228;ndigen Landesbeh&#246;rden (&#167; 47 Absatz 2 
+SGB II). Die nachfolgenden Antworten der Bundesregierung beziehen sich daher 
+nur auf die Jobcenter in Form der gemeinsamen Einrichtungen und Agenturen f&#252;r 
+Arbeit. 
+1. Sind der Bundesregierung die &#8222;Hinweise zum Aufbau und F&#252;hren einer
+Leistungsakte &amp; verbindliche Regelungen zu den Aufbewahrungsfristen im 
+Rechtskreis SGB II&#8220; der BA bekannt, und wie verbindlich sind die darin
+aufgef&#252;hrten Hinweise? 
+Die Hinweise der BA sind der Bundesregierung bekannt. Sie wurden im Jahr 
+2016 &#252;berarbeitet und getrennt in: 
+1. &#8222;Hinweise zum Aufbau und F&#252;hren einer Leistungsakte&#8220;, die in Form einer 
+unverbindlichen Arbeitshilfe zur Verf&#252;gung stehen, da die Aktenf&#252;hrung in 
+den Zust&#228;ndigkeitsbereich der Tr&#228;gerversammlung f&#228;llt.  
+2. &#8222;Verbindliche Regelungen zu den Aufbewahrungsfristen im Rechtskreis 
+SGB II&#8220;, die als Weisung zu beachten und verbindlich umzusetzen sind. Die 
+gesetzlichen Bestimmungen zu den Aufbewahrungsfristen wurden in der
+Weisung zusammengefasst.  
+2. Welche pers&#246;nlichen Dokumente von Antragstellenden und
+Leistungsbeziehenden d&#252;rfen als Kopien oder Scans nach Kenntnis der Bundesregierung 
+ausdr&#252;cklich in Leistungsakten gespeichert werden, und welche nicht?  
+3. Wie wird nach Kenntnis der Bundesregierung durch die BA sichergestellt, 
+dass Kopien von Dokumenten, deren Speicherung nicht zul&#228;ssig oder
+notwendig ist, nicht in schriftlichen oder elektronischen Leistungsakten
+gespeichert werden?  
+Die Fragen 2 und 3 werden gemeinsam beantwortet. 
+Jede gemeinsame Einrichtung ist verantwortliche Stelle f&#252;r die Verarbeitung von 
+Sozialdaten. Sie hat damit sicherzustellen, dass die entsprechenden
+datenschutzrechtlichen Vorschriften eingehalten werden (&#167; 50 Absatz 2 SGB II). Eine
+Weisungsbefugnis der BA besteht hier nicht (vgl. Antwort zu Frage 1). 
+F&#252;r eine korrekte Entscheidung, was zur eAkte zu nehmen ist und grunds&#228;tzlich 
+nicht zur eAkte zu nehmen ist, hat die BA den gemeinsamen Einrichtungen
+Hilfsmittel zur Verf&#252;gung gestellt. Darunter fallen insbesondere die Anlagen 2 und 3 
+der &#8222;Hinweise zum Aufbau und F&#252;hren einer Leistungsakte&#8220;. In diesen
+tabellarischen &#220;bersichten sind getrennt nach der Bearbeitung von Antr&#228;gen und
+laufender Aktenbearbeitung alle in Betracht kommenden Unterlagen mit Hinweisen zu 
+ihrer jeweiligen Aufbewahrung enthalten. Diese Hinweise gelten auch f&#252;r die 
+Aufbewahrung der Unterlagen in der eAkte SGB II. 
+F&#252;r den Rechtskreis SGB III gelten die entsprechenden fachlichen Weisungen 
+und kassenrechtlichen Bestimmungen der BA.
+4. Wie (Software) und wo (Hardware) werden die erhobenen Daten von ALG-
+II-Beziehenden nach Kenntnis der Bundesregierung gespeichert?  
+Wer kann auf die Daten zugreifen?  
+Gibt es unterschiedliche Zugriffsrechte, und wer verwaltet diese? 
+Die BA hat ihre Software zentralisiert und betreibt eigene Rechenzentren
+innerhalb Deutschlands. Der Zugriff auf die Daten wird aufgrund eines Rollen- und 
+Berechtigungskonzeptes gew&#228;hrt, das gesetzlich erforderliche
+datenschutzrechtliche Anforderungen beachtet. Die Rolleninhaberin bzw. der Rolleninhaber erh&#228;lt 
+nur die Berechtigung zum Zugriff auf die Daten, die sie oder er f&#252;r die
+Aufgabenerledigung ben&#246;tigt. Die Zugriffrechte werden &#252;ber einen IT-
+Gesch&#228;ftsprozess mit unterschiedlichen Rolleninhabern verwaltet. 
+5. Wie werden die Server der BA nach Kenntnis der Bundesregierung gehostet?  
+Unterh&#228;lt die BA eigene Rechenzentren oder sind die Server in
+Rechenzentren kommerzieller Anbieter untergebracht?  
+Die Server der BA werden nicht gehostet. Die BA unterh&#228;lt eigene Rechenzentren 
+in eigenen und angemieteten Geb&#228;uden. 
+6. Wie werden nach Kenntnis der Bundesregierung die Daten von den Servern 
+an die Agenturen und Jobcenter &#252;bermittelt?  
+Kann &#252;ber das Internet auf die Daten von Erwerbslosen und
+Arbeitsuchenden zugegriffen werden?  
+Welche Sicherheitsvorkehrungen werden getroffen, um die Daten nach
+au&#223;en bei der &#220;bertragung vor dem Zugriff unbefugter Dritter zu sch&#252;tzen?  
+Die BA &#252;bermittelt keine Daten an die Agenturen f&#252;r Arbeit und gemeinsamen 
+Einrichtungen, da diese zentral in den Rechenzentren verarbeitet und gespeichert 
+werden. Zur Verhinderung eines Zugriffes aus dem Internet auf Daten im Intranet 
+der BA besteht ein mehrstufiges System der Informationssicherheit.  
+Die am Intranet angeschlossenen Agenturen f&#252;r Arbeit und gemeinsamen
+Einrichtungen nutzen f&#252;r die Daten&#252;bertragung die transportverschl&#252;sselte
+Informationsinfrastruktur der BA. 
+7. Welche Sicherheitsvorkehrungen werden nach Kenntnis der
+Bundesregierung getroffen, um auf den Servern befindliche Daten zum Beispiel durch 
+Verschl&#252;sselung vor dem Zugriff Unbefugter zu sch&#252;tzen?  
+Die Daten auf den Servern werden nach den Vorgaben des IT-Grundschutzes des 
+Bundesamtes f&#252;r Sicherheit der Informationstechnik (BSI) mit entsprechenden 
+IT-Sicherheitsma&#223;nahmen gesch&#252;tzt. Die Angemessenheit dieser IT-
+Sicherheitsma&#223;nahmen wird durch das verliehene Deutsche IT-Sicherheitszertifikat des BSI 
+best&#228;tigt.
+8. Welche Sicherheitsvorkehrungen werden nach Kenntnis der
+Bundesregierung innerhalb der BA getroffen, um diese Daten vor dem Zugriff unbefugter 
+Mitarbeiterinnen und Mitarbeiter der Agenturen, der Jobcenter und
+beauftragter Dritter zu sch&#252;tzen?  
+Nach welchen Kriterien treffen die BA und die Jobcenter die Entscheidung, 
+welche Mitarbeiterinnen und Mitarbeiter auf welche Daten von
+Leistungsberechtigten Zugriff haben?  
+Werden Zugriffe auf sensible Daten von Leistungsberechtigten
+protokolliert?  
+Falls es unterschiedliche Zugriffsrechte und Protokollierungen nach
+Datenarten gibt, nach welchen Kriterien wird entschieden, welche Daten als
+besonders sensibel zu betrachten sind? 
+Zur Frage nach den Zugriffsberechtigungen wird auf die Antwort zu Frage 4
+verwiesen. 
+Die Zugriffe auf die Verfahren sind nur mit entsprechenden Berechtigungen
+m&#246;glich. Diese werden durch die zust&#228;ndigen F&#252;hrungskr&#228;fte unter Ber&#252;cksichtigung 
+zentral vorgegebener Berechtigungskonzepte verwaltet (genehmigt). Darin sind 
+auch Regelungen f&#252;r unterschiedliche Aufgabenbereiche und Datenarten
+enthalten. Im fachlichen Berechtigungskonzept f&#252;r das Fachverfahren eAkte ist z. B. 
+festgelegt, dass durch eine restriktive Zuordnung der Rechte vor Ort
+sicherzustellen ist, dass Art und Umfang des jeweiligen Rechts sich ausschlie&#223;lich nach dem 
+f&#252;r die Aufgabenerledigung der Anwenderin und der Anwender unabdingbar
+Erforderlichen richten. Bei der Rechtevergabe ist der &#246;rtliche
+Datenschutzbeauftragte entsprechend seiner Rechte und Pflichten im Sinne der DSGVO sowie &#167; 7 
+BDSG einzubinden. 
+Zugriffe auf sensible Daten werden unter Beachtung der gesetzlichen
+Rahmenbedingungen datenschutzkonform protokolliert. Unterschiedliche Zugriffsrechte 
+und Protokollierungen ergeben sich aus dem Schutzbedarf der erhobenen,
+verarbeiteten und genutzten Daten. 
+9. Wie viele Mitarbeiterinnen und Mitarbeiter der BA haben nach Kenntnis der 
+Bundesregierung &#252;ber BA-interne EDV-Systeme Zugang zu sensiblen
+personenbezogenen Daten von Erwerbslosen und Arbeitsuchenden?  
+Alle Mitarbeiterinnen und Mitarbeiter, die Kundenanliegen bearbeiten, haben
+Zugriff auf die Daten der Personen, f&#252;r die sie zust&#228;ndig sind. In der BA und den 
+gemeinsamen Einrichtungen haben insgesamt ca. 90 000 BA-Mitarbeiter Zugriff 
+auf personenbezogene Daten von Erwerbslosen und Arbeitsuchenden in ihrem 
+jeweiligen Zust&#228;ndigkeitsbereich. Davon entfallen ca. 60 000 Mitarbeiterinnen 
+und Mitarbeiter auf den Rechtskreis SGB II und ca. 30 000 auf den Rechtskreis 
+SGB III.
+10. Welche Leitf&#228;den, (Dienstan-)Weisungen oder sonstige Regelungen von 
+Seiten der BA gibt es nach Kenntnis der Bundesregierung f&#252;r Jobcenter
+hinsichtlich der Erhebung, Verarbeitung und Nutzung personenbezogener
+Daten, und welchen Inhalt bez&#252;glich der Erhebung, Verarbeitung und Nutzung 
+der Daten haben diese?  
+Ber&#252;cksichtigen diese Leitf&#228;den, (Dienstan-)Weisungen oder sonstige
+Regelungen die aktuelle Rechtslage nach SGB X?  
+Und wenn nein, wie beurteilt die Bundesregierung dies? 
+Auf die Antwort zu Frage 1 wird verwiesen. 
+In Bezug auf die Verarbeitung personenbezogener Daten stehen den
+Mitarbeiterinnen und Mitarbeitern als generelle Information die Datenschutzbestimmungen 
+der BA zur Verf&#252;gung. Diese beinhalten auf &#252;ber 90 Seiten u. a. Ausf&#252;hrungen 
+zu den allgemeinen Grunds&#228;tzen des Datenschutzes (Verbot mit
+Erlaubnisvorbehalt, Datenvermeidung, Datensparsamkeit, Erforderlichkeitsgrundsatz,
+Transparenzgebot, Zweckbindungsprinzip, Verh&#228;ltnism&#228;&#223;igkeits- und
+Ersterhebungsgrundsatz), Definition und Verarbeitungsfragen von Sozialdaten sowie
+&#220;bermittlungsgrunds&#228;tze und auch Zusammenarbeitsfragen mit der Bundesbeauftragten 
+f&#252;r den Datenschutz und die Informationsfreiheit. Die hier abgebildeten
+Grunds&#228;tze gelten auch im Hinblick auf das neue SGB X fort. Speziellen &#196;nderungen 
+des SGB X (&#167;&#167; 83, 83a SGB X) hat die BA &#252;ber eine ge&#228;nderte Weisungslage f&#252;r 
+den Rechtskreis SGB III sowie mit Informationen f&#252;r den Rechtskreis SGB II 
+Rechnung getragen. 
+11. Nach welcher Frist werden sensible Daten und eingereichte Unterlagen von 
+Erwerbslosen, Arbeitsuchenden und ALG-II-Beziehenden durch die BA und 
+die Jobcenter (gE) nach Kenntnis der Bundesregierung gel&#246;scht?  
+Nach welcher Frist werden von den Agenturen f&#252;r Arbeit und den Jobcentern 
+erstellte schriftliche wie elektronische Datens&#228;tze &#252;ber (ehemals)
+Leistungsbeziehende gel&#246;scht? 
+Daten zur Inanspruchnahme von Dienstleistungen, Geld- und Sachleistungen 
+nach dem SGB III sollen f&#252;nf Jahre nach Beendigung des Falles gel&#246;scht werden. 
+Ein Fall ist beendet, wenn eine sozialversicherungspflichtige Besch&#228;ftigung
+aufgenommen wurde, ein Leistungsbezieher oder eine Leistungsbezieherin sich in 
+selbst&#228;ndige T&#228;tigkeit abgemeldet hat oder die Person aus sonstigen Gr&#252;nden 
+nicht mehr durch die Agentur f&#252;r Arbeit betreut wird (z. B. Rente, Elternzeit etc.), 
+es sei denn, es werden besondere F&#246;rderleistungen gew&#228;hrt oder
+Rechtsstreitigkeiten sind noch nicht abgeschlossen. Die f&#252;nf Jahre dienen
+Rechnungslegungszwecken nach den Grunds&#228;tzen der Bundeshaushaltsordnung. 
+Daten, die der Finanzverwaltung zu melden sind, sollen nach sieben Jahren
+gel&#246;scht werden. 
+Daten zur Inanspruchnahme von Dienstleistungen, Geld- und Sachleistungen 
+nach dem SGB II sollen zehn Jahre nach Beendigung des Falles gel&#246;scht werden. 
+Ein Fall ist in diesem Zusammenhang beendet, wenn die Hilfebed&#252;rftigkeit
+weggefallen ist oder aus anderen Gr&#252;nden kein Anspruch mehr auf Leistungen
+besteht, es sei denn, es werden besondere F&#246;rderleistungen gew&#228;hrt oder
+Rechtsstreitigkeiten sind noch nicht abgeschlossen. Die Frist von zehn Jahren beruht auf 
+der gesetzlichen M&#246;glichkeit der R&#252;ckforderung von Leistungen, wenn in diesem 
+Zeitraum bekannt wird, dass Leistungen zu Unrecht gew&#228;hrt wurden.
+In F&#246;rderf&#228;llen durch den Europ&#228;ischen Sozialfonds werden die Daten 13 Jahre 
+nach Beendigung des Falles gel&#246;scht. Bis zu diesem Zeitpunkt sind sie aus
+Gr&#252;nden der Rechnungslegung gegen&#252;ber der EU aufzubewahren (Artikel 140 der 
+Verordnung (EU) Nr. 1303/2013). 
+Hat die BA eine offene Forderung gegen&#252;ber einer (auch nicht mehr betreuten) 
+Leistungsbezieherin oder einem Leistungsbezieher (R&#252;ckforderung/
+Erstattungsbescheid/Darlehen), werden die Daten gem&#228;&#223; den Vorschriften der
+Zivilprozessordnung und des B&#252;rgerlichen Gesetzbuches 30 Jahre lang aufbewahrt und
+anschlie&#223;end gel&#246;scht (Ablauf der Verj&#228;hrungsfrist). 
+Wurden der &#196;rztliche Dienst oder der Berufspsychologische Service der BA
+beteiligt, werden die bei diesen Fachdiensten angefallenen Daten entsprechend der 
+jeweiligen Berufsordnung nach zehn Jahren gel&#246;scht. 
+12. Welche Sozialdaten werden nach Kenntnis der Bundesregierung von der BA 
+beziehungsweise den Jobcentern an Dritte weitergegeben und zu welchem 
+Grund?  
+Wie werden diese Sozialdaten &#252;bermittelt, und welche
+Sicherheitsvorkehrungen werden getroffen, um Sozialdaten vor dem Zugriff Unbefugter zu 
+sch&#252;tzen?  
+Folgende Datenkategorien werden von der BA verarbeitet: 
+a) Stammdaten inklusive Kontaktdaten (z. B. Kundennummer,
+Bedarfsgemeinschaftsnummer, Name, Vorname, Geburtsdatum, Geburtsort, Anschrift,
+Telefonnummer (freiwillige Angabe), E-Mail-Adresse (freiwillige Angabe),
+Benutzername und Kennwort (bei Nutzung der Onlineangebote), Familienstand, 
+Staatsangeh&#246;rigkeit, Aufenthaltsstatus, Renten-/Sozialversicherungsnummer, 
+Bankverbindung), 
+b) Daten zur Leistungsgew&#228;hrung (z. B. Einkommensnachweise, Daten zu
+Unterhaltsanspr&#252;chen/Regressanspr&#252;chen und zur Krankenversicherung), 
+c) Daten zur Berufsberatung sowie zur Vermittlung/Integration in Arbeit (z. B. 
+Lebenslauf, Nachweise &#252;ber Abschl&#252;sse und Qualifikationen (schulische und 
+berufliche), Daten zu Stellenangeboten), 
+d) Gesundheitsdaten (z. B. Daten f&#252;r die Betreuung im Reha-Bereich,
+Begutachtungen oder Stellungnahmen durch den &#196;rztlichen Dienst der BA), 
+e) Meldedaten der Arbeitgeber zur &#220;berpr&#252;fung von Beitragszahlungen an die 
+Arbeitslosenversicherung, 
+f) Forschungs-(Befragungsdaten) und Statistikdaten, 
+g) Daten im Erlaubnisverfahren nach dem Arbeitnehmer&#252;berlassungsgesetz 
+(A&#220;G).  
+Zum Zwecke der gesetzlichen Aufgabenerledigung der BA k&#246;nnen im Einzelfall 
+bei Vorliegen der gesetzlichen Voraussetzungen zur &#220;bermittlung einzelne der 
+oben aufgef&#252;hrten Daten an Dritte &#252;bermittelt werden, wie beispielsweise andere 
+Sozialleistungstr&#228;ger (z. B. Deutsche Rentenversicherung,
+Krankenversicherung), Arbeitgeber oder Ausbildungsbetriebe. Gesetzliche
+&#220;bermittlungsbefugnisse ergeben sich aus dem Sozialgesetzbuch (insbesondere aus dem SGB II, III 
+und X).  
+Die Daten werden &#252;berwiegend postalisch &#252;bermittelt, aber auch per Fax, mithilfe 
+des elektronischen Gerichts- und Verwaltungspostfaches, innerhalb des IT-
+Verfahrens eAkte, per Telefon, &#252;ber einen Webservice oder mit verschl&#252;sselter
+E-Mail. Die Wahl des Kommunikationsmittels ist in erster Linie abh&#228;ngig von 
+dem Dritten, mit dem kommuniziert werden soll. Die Sozialdaten werden
+insbesondere durch die technischen Eigenschaften der jeweiligen
+Kommunikationsmittel (z. B. Authentifizierungsverfahren bei Telefon und Webservice) gesch&#252;tzt. 
+Das Institut f&#252;r Arbeitsmarkt- und Berufsforschung (IAB) stellt Sozialdaten auf 
+Grundlage von &#167; 75 SGB X nach vorheriger Genehmigung des
+Bundesministeriums f&#252;r Arbeit und Soziales f&#252;r die Forschung i. d. R. &#252;ber das
+Forschungsdatenzentrum der BA im IAB (FDZ) zur Verf&#252;gung. Ziel des FDZ ist es, den Zugang 
+zu den Mikrodaten der BA und des IAB f&#252;r die nichtkommerzielle Forschung mit 
+transparenten und standardisierten Regeln zu erm&#246;glichen. Datenzug&#228;nge sind 
+etwa m&#246;glich an Gastarbeitspl&#228;tzen, d. h. an speziell gesicherten Arbeitspl&#228;tzen 
+in den FDZ, oder &#252;ber eine Datenfernverarbeitung, bei der die Forschenden
+Sozialdaten im FDZ auswerten k&#246;nnen, ohne selbst vor Ort zu sein.
+Forschungsdatens&#228;tze, die sehr stark anonymisiert sind (sog. faktische Anonymisierung), aber 
+dennoch Analysepotential aufweisen, d&#252;rfen auch in anderen wissenschaftlichen 
+Einrichtungen vor Ort ohne vorherige Genehmigung des Bundesministeriums f&#252;r 
+Arbeit und Soziales analysiert werden. 
+13. Wie viele von der BA und den Jobcentern beauftragte &#8222;Servicecenter&#8220; f&#252;r 
+Fragen von Leistungsberechtigten gibt es in Deutschland, und wie viele
+Besch&#228;ftigte gibt es dort?  
+Wer ist der Arbeitgeber der Mitarbeitenden dieser Servicecenter?  
+Die BA betreibt in Deutschland 15 SGB-II- und 27 SGB-III-Servicecenter
+Center. Zudem k&#246;nnen die gemeinsamen Einrichtungen eigene Servicecenter
+einrichten. Der Bundesregierung liegen keine Informationen dazu vor, wie viele der
+gemeinsamen Einrichtungen von dieser M&#246;glichkeit Gebrauch gemacht haben.  
+Mit Stand vom Mai 2018 sind umgerechnet in Vollzeitanteilen 1 304
+Besch&#228;ftigte bundesweit in allen SGB-II-Servicecentern und 2 815 Besch&#228;ftigte in allen 
+SGB III-Servicecentern der BA eingesetzt. Die Mitarbeiterinnen und Mitarbeiter 
+sind Besch&#228;ftigte der BA; die Dienstaufsicht &#252;ber diese Besch&#228;ftigten &#252;bt die 
+Agentur f&#252;r Arbeit, in der das Servicecenter seinen Sitz hat, aus. 
+14. Welche Zugriffsrechte auf Daten von Erwerbslosen, Arbeitsuchenden und 
+ALG-II-Beziehenden haben &#8222;Servicecenter&#8220;-Besch&#228;ftige nach Kenntnis der 
+Bundesregierung?  
+Arbeiten die &#8222;Servicecenter&#8220; rechtskreis&#252;bergreifend f&#252;r SGB-II- und  
+SGB-III-Fragen oder getrennt nach Rechtskreisen? 
+Arbeiten die einzelnen &#8222;Servicecenter&#8220; nur f&#252;r bestimmte Jobcenter oder f&#252;r 
+alle Jobcenter bundesweit?  
+&#220;bernehmen einzelne &#8222;Servicecenter&#8220; bei Ausf&#228;llen oder &#220;berlastungen
+anderer &#8222;Servicecenter&#8220; deren Anrufe?  
+Haben diese vertretenden &#8222;Servicecenter&#8220; dann auch Zugriff auf die
+Datens&#228;tze dieser Jobcenter?  
+Die Zugriffsrechte f&#252;r das Stammdatenerfassungs- und Pflegesystem (STEP)
+sowie das IT-Fachverfahren Vermittlungs-, Beratungs- und Informationssystem 
+(VerBIS) sind in einem Berechtigungskonzept geregelt. Der Zugriff beschr&#228;nkt 
+sich auf die Daten, die die Servicecenter SGB II und SGB III f&#252;r ihre
+Aufgabenerledigung ben&#246;tigen; dieser Zugriff besteht bundesweit. Auf das IT-Fachverfahren 
+ALG-II-Leistungsverfahren Grundsicherung Online (ALLEGRO) haben die
+Servicecenter SGB II bundesweit lesenden Zugriff. Die Zugriffsrechte auf die
+elektronische Leistungsakte sind auf die jeweilige Region beschr&#228;nkt und werden je 
+nach Erfordernis zentral vergeben. Sofern Anrufe auf ein anderes Servicecenter 
+umgesteuert werden m&#252;ssen, werden die erforderlichen Zugriffe vergeben und im 
+Anschluss wieder entzogen. 
+Das Organisationsmodell einer rechtskreis&#252;bergreifenden Aufgabenerledigung 
+wurde lediglich am Standort Braunschweig eingef&#252;hrt. An diesem Standort
+werden Amtshilfekr&#228;fte im Rechtskreis SGB II und bei der Familienkasse eingesetzt.  
+Bei der SGB-II-Telefonie handelt es sich um eine sogenannte
+&#8222;Einkaufsdienstleistung&#8220;. Die Jobcenter k&#246;nnen entscheiden, ob sie die Dienstleistung
+&#8222;Servicecenter&#8220; einkaufen. Nur dann werden die Servicecenter SGB II t&#228;tig. Die
+Servicecenter SGB II arbeiten f&#252;r bestimmte Jobcenter in der Region und somit nicht 
+bundesweit. 
+Ob Servicecenter bei Ausf&#228;llen oder &#220;berlastungen f&#252;r andere Servicecenter
+mittelefonieren, wird im Einzelfall zentral entschieden. Je nach Dauer des Ausfalles 
+k&#246;nnen Anrufe umgeleitet werden. Allerdings werden die Anrufe nicht
+bundesweit verteilt, sondern in eine andere Region gelenkt. Ob Zugriffsberechtigungen 
+ge&#228;ndert werden, wird im Einzelfall entschieden. 
+15. Beauftragt die BA &#252;ber ihre eigenen &#8222;Servicecenter&#8220; hinaus noch weitere 
+Callcenter, die nicht von der BA selbst betrieben werden?  
+Ist der Bundesregierung bekannt, wie viele Besch&#228;ftigte in diesen
+Callcentern mit der Bearbeitung von Angelegenheiten der BA besch&#228;ftigt sind? 
+K&#246;nnen gegebenenfalls Besch&#228;ftige BA-externer Callcenter nach Kenntnis 
+der Bundesregierung auf Daten von Erwerbslosen, Arbeitsuchenden und 
+ALG-II-Beziehenden zugreifen?  
+Nein. 
+16. Wie viele von der BA und den Jobcentern beauftragte &#8222;Inkasso-Services&#8220; 
+gibt es nach Kenntnis der Bundesregierung in Deutschland, und wie viele 
+Besch&#228;ftigte gibt es dort?  
+Wer ist der Arbeitgeber der Mitarbeitenden dieser Inkasso-Services 
+(www3.arbeitsagentur.de/web/content/DE/Detail/index.htm?dfContentId 
+=L6019022DSTBAI744098)? 
+Werden in den &#8222;Inkasso-Services&#8220; Leih- und/oder Werkvertragsnehmer
+eingesetzt?  
+Die BA betreibt einen eigenen Inkasso-Service, der zu ihrer Gesamtorganisation 
+geh&#246;rt. Sie ist Arbeitgeberin der dort besch&#228;ftigten Mitarbeiterinnen und
+Mitarbeiter. 
+Forderungen aus dem Rechtskreis SGB III und der Familienkasse werden als
+eigene Forderungen der BA durch den Inkasso-Service der BA eingezogen. Der 
+Einzug von Forderungen des Bundes ist eine hoheitliche Verwaltungst&#228;tigkeit; 
+private Inkasso-Unternehmen k&#246;nnen in diesem Zusammenhang nur als
+Verwaltungshelfer und allenfalls f&#252;r Unterst&#252;tzungshandlungen eingesetzt werden. Die 
+BA hat im Rahmen der Auftragsverarbeitung nach &#167; 80 SGB X zwei
+Unternehmen damit beauftragt, f&#252;r insgesamt 120 000 Einziehungsf&#228;lle
+Unterst&#252;tzungsleistungen bei der Einziehung zu erbringen. Die Auftragnehmer handeln hierbei 
+lediglich als Verwaltungshelfer und sind eng an die Weisungen der BA gebunden. 
+Ihre Aufgaben bestehen insofern u. a. in der Ermittlung und Aktualisierung von
+Adressdaten, der Erinnerung an die weiterhin bestehende Forderung gegen&#252;ber 
+dem Schuldner und dem Erstellen von Entscheidungsvorschl&#228;gen zum weiteren 
+Vorgehen im Einziehungsverfahren. Entscheidungen &#252;ber Niederschlagungen, 
+Stundungen, Vergleiche oder Erlasse trifft allein der Inkasso-Service der BA. 
+Forderungen aus dem Rechtkreis SGB II werden nur dann vom Inkasso-Service 
+der BA eingezogen, wenn eine gemeinsame Einrichtung die Wahrnehmung dieser 
+Aufgabe gem&#228;&#223; &#167; 44b Absatz 4 SGB II auf die BA &#252;bertragen hat. Im Rechtskreis 
+SGB II werden keine externen Dienstleister beauftragt. 
+F&#252;r die Einziehung von Forderungen aus allen Rechtskreisen (SGB II, SGB III 
+und der Familienkasse) sind insgesamt 649,5 Vollzeitstellen im Inkasso-Service 
+der BA angesetzt. Leih- oder Werksvertragsarbeitnehmerinnen und -
+arbeitnehmer werden nicht besch&#228;ftigt. 
+17. Welche personenbezogenen Daten haben bzw. bekommen diese &#8222;Inkasso-
+Services&#8220; nach Kenntnis der Bundesregierung von aktuellen und ehemaligen 
+leistungsberechtigten Personen?  
+Wie und auf welchem Weg werden diese Daten von den Jobcentern und
+lokalen Agenturen f&#252;r Arbeit an die Inkasso-Services &#252;bermittelt? 
+Der Inkasso-Service der BA nutzt gemeinsam mit den Agenturen f&#252;r Arbeit und 
+den gemeinsamen Einrichtungen die IT-Anwendungen ERP-SAP und STEP und 
+kann die dort eingegebenen Daten einsehen und bearbeiten. ERP-SAP wird von 
+den Agenturen f&#252;r Arbeit sowie den gemeinsamen Einrichtungen f&#252;r die
+Sollstellung der Forderungen ihres Zust&#228;ndigkeitsbereichs als Finanzsystem genutzt. Die 
+Stammdaten (siehe Antwort zu Frage 12 Buchstabe a) der leistungsberechtigten 
+Personen werden im Fachverfahren STEP erfasst. Es werden keine weiteren
+Daten zwischen den Agenturen f&#252;r Arbeit bzw. den gemeinsamen Einrichtungen und 
+dem Inkasso-Service der BA transferiert. Die (Benutzer-)Rollenkonzepte ERP-
+SAP und STEP regeln die Zugriffsrechte der Anwender und schr&#228;nken diese 
+dienststellenbezogen auf das f&#252;r die Aufgabenerledigung erforderliche Ma&#223; ein.  
+Die im Rechtskreis SGB III als Verwaltungshelfer eingesetzten Dienstleister
+erhalten f&#252;r den ihnen zur Bearbeitung &#252;berstellten Forderungsbestand Bilddateien 
+(Ausz&#252;ge aus dem Forderungsfachverfahren) mit Angaben zu Name,
+Geburtsdatum, bisher bekannter Adresse und H&#246;he der Forderung. Zudem werden ihnen 
+Daten, wie z. B. Zahlungslisten oder Kl&#228;rlisten, &#252;ber eine &#8222;Web-based
+Distributed Authoring and Versioning&#8220;-Ablage &#252;bermittelt. F&#252;r gr&#246;&#223;ere Excel-Listen  
+oder Rechnungen wird eine &#8222;Secure File Transfer Protocol&#8220;-Ablage genutzt. Die 
+im Rechtskreis SGB III eingesetzten Verwaltungshelfer haben keinen Zugriff auf 
+ERP-SAP und STEP. 
+18. Welche personenbezogenen Daten haben bzw. bekommen die
+beauftragenden Jobcentern und lokalen Agenturen f&#252;r Arbeit nach Kenntnis der
+Bundesregierung von diesen &#8222;Inkasso-Services&#8220; von aktuellen und ehemaligen
+leistungsberechtigten Personen?  
+Wie und auf welchem Weg werden diese Daten von den Inkasso-Services an 
+die Jobcenter und lokalen Agenturen f&#252;r Arbeit &#252;bermittelt? 
+Hinsichtlich des Inkasso-Services der BA wird auf die Antwort zu Frage 17
+verwiesen.  
+Soweit die von der BA beauftragten Dienstleister Informationen zu aktuellen 
+Adressdaten erhalten, teilen sie dem Inkasso-Service der BA diese neuen
+Adressen auf dem Postweg mit.
+19. Gibt es nach Kenntnis der Bundesregierung Agenturen f&#252;r Arbeit und
+Jobcenter, die keinen &#8222;Inkasso-Service&#8220; der BA nutzen?  
+Wenn ja, welche sind das, und wie werden dort R&#252;ckforderungen
+eingetrieben?  
+Gibt es Jobcenter, die private Unternehmen mit diesem Service beauftragt 
+haben, und wenn ja, wen haben diese Jobcenter beauftragt? 
+Die gemeinsamen Einrichtungen Cham und Bad T&#246;lz-Wolfratshausen lassen den 
+Forderungseinzug nicht durch den Inkasso-Service der BA wahrnehmen. Sie
+betreiben den Forderungseinzug selbst. 
+Nach Kenntnis der Bundesregierung setzt keine der beiden genannten
+gemeinsamen Einrichtungen private Inkasso-Unternehmen als Verwaltungshelfer ein. 
+20. K&#246;nnen Arbeitsvermittler (&#8222;pers&#246;nliche Ansprechpartner&#8220;,
+Fallmanagerinnen und Fallmanager, Mitarbeiter im Arbeitgeber-Service u. &#196;.) der
+Jobcenter auf Daten aus der Leistungsbearbeitung (z. B. Kontoausz&#252;ge,
+Lohnabrechnungen) zugreifen?  
+Werden diese Zugriffe protokolliert? 
+K&#246;nnen Leistungsbearbeiterinnen und Leistungsbearbeiter der Jobcenter auf 
+Daten aus der Arbeitsvermittlung (z. B. Zuweisungen in Ma&#223;nahmen,
+Einschr&#228;nkungen in der Vermittlung) zugreifen?  
+Werden diese Zugriffe protokolliert? 
+Integrationsfachkr&#228;fte haben nur Einsicht in Leistungsdaten aus dem IT-
+Leistungsverfahren ALLEGRO, die f&#252;r den Vermittlungsprozess erforderlich sind 
+(z. B. Leistungsh&#246;he, Anrechnungen, BG-Mitglieder etc.). Kontoausz&#252;ge und 
+Lohnabrechnungen k&#246;nnen sie nicht einsehen. Einsehbar ist, ob und in welcher 
+H&#246;he Einkommen vorhanden ist und angerechnet wird. Integrationsfachkr&#228;fte 
+sollen bei Bedarf beispielweise die M&#246;glichkeit pr&#252;fen k&#246;nnen, ob eine
+Besch&#228;ftigung ausgeweitet oder verringert werden kann. 
+Ein umfassender Zugriff auf Leistungsdaten ist f&#252;r Integrationsfachkr&#228;fte nur 
+dann vorgesehen, wenn diese zugleich auch die Leistungssachbearbeitung
+&#252;bernehmen. In diesem Fall ist ein Antrag mit Begr&#252;ndung durch die F&#252;hrungskraft 
+zu stellen. 
+Besch&#228;ftigte in der Leistungssachbearbeitung haben nur insoweit Zugriff auf das 
+interne Vermittlungs-, Beratungs- und Informationssystem der BA (VerBIS), wie 
+es f&#252;r die Gew&#228;hrung von Leistungen erforderlich ist. 
+In der eAkte ist der Zugriff &#252;ber sogenannte Kompetenzgruppen reglementiert.  
+Zur Protokollierung der Zugriffe wird auf die Antwort zu Frage 8 verwiesen.
+21. Wie viele der bundesweiten Jobcenter haben nach Kenntnis der
+Bundesregierung bereits die elektronische Akte (&#8222;eAkte&#8220;) eingef&#252;hrt? 
+Gab es nach Kenntnis der Bundesregierung im Rahmen der Planung und 
+Einf&#252;hrung der eAkte rechtliche Gutachten zur Wahrung von Datenschutz 
+und Datensicherheit?  
+Wenn ja, welche (bitte erreichbare Quellen angeben)? 
+Die Fl&#228;cheneinf&#252;hrung der eAkte im Rechtskreis SGB II ist abgeschlossen. Seit 
+dem 18. Juni 2018 arbeiten alle 303 gemeinsamen Einrichtungen mit der eAkte. 
+F&#252;r das eAkte-Dokumenten-Management-System (DMS) der BA wurde eine 
+Zertifizierung durch einen externen Pr&#252;fer durchgef&#252;hrt. Es wurde best&#228;tigt, dass 
+das Verfahren die Anforderungen f&#252;r die Pr&#252;fkriterien f&#252;r
+Dokumentenmanagementl&#246;sungen (PK-DML) des Verbands Organisations- und Informationssysteme 
+e. V. erf&#252;llt. Die Rezertifizierung l&#228;uft derzeit. 
+22. Von welchen Einrichtungen aus und von wem werden Unterlagen, die an 
+Jobcenter &#252;bermittelt werden und ggf. sensible personenbezogene
+Sozialdaten enthalten, z. B. Lohnabrechnungen oder Kontoausz&#252;ge, nach Kenntnis 
+der Bundesregierung f&#252;r die eAkte eingescannt?  
+23. Von wem werden diese Scan-Einrichtungen nach Kenntnis der
+Bundesregierung betrieben? 
+Die Fragen 22 und 23 werden gemeinsam beantwortet. 
+Das in der BA eingehende Schriftgut wird durch einen externen Auftragnehmer 
+digitalisiert, die Deutsche Post AG (DPAG). Diese betreibt hierf&#252;r vier
+Scanzentren ausschlie&#223;lich f&#252;r die BA und &#252;bernimmt den Transport des Schriftgutes
+zwischen den gemeinsamen Einrichtungen und den Scanzentren. Welche Unterlagen 
+an die Scanzentren &#252;bergeben werden, entscheiden die gemeinsamen
+Einrichtungen. Kontoausz&#252;ge werden dabei in der Regel nicht digitalisiert. 
+24. Wie wird nach Kenntnis der Bundesregierung sichergestellt, dass in den 
+Scan-Einrichtungen sensible Daten nur von befugten Personen eingesehen 
+werden k&#246;nnen?  
+Welche Kontrollverfahren gibt es?  
+Wer ist nach Kenntnis der Bundesregierung befugt, sensible
+personenbezogene Sozialdaten wie Kontoausz&#252;ge von leistungsbeantragenden Personen 
+einzusehen, und wo ist dabei die Grenze gegen&#252;ber Dritten? 
+Durch die DPAG als Betreiber der Scanzentren wurde auf Anforderung der BA 
+eine Vielzahl von Kontrollen implementiert, die den Datenschutz sicherstellen. 
+Wesentliche Regelungen hierbei sind Zutrittskontrollen f&#252;r definierte gesicherte 
+Verarbeitungsbereiche in den Scanzentren sowie Zugangs- und
+Zugriffskontrollen durch die Vergabe von Berechtigungen zur Bearbeitung und Einsicht
+sensibler Daten. Die Vergabe von Berechtigungen in den DPAG IT-Verfahren und IT-
+Systemen f&#252;r die Digitalisierung BA-Schriftgut (DiBAS) wird im Rollen- und 
+Berechtigungskonzept geregelt. Jede Benutzergruppe eines
+Verarbeitungsprozesses bekommt dabei nur Zugriff auf die f&#252;r ihre Aufgabenerf&#252;llung notwendigen 
+Daten.  
+Personen werden in entsprechende Benutzergruppen &#252;ber das sogenannte &#8222;User 
+Account Management&#8220; aufgenommen, einem dokumentierten Prozess zur
+Autorisierung von Benutzern. Wie jeder Prozess in DiBAS unterliegt auch dieser
+Prozess dem Vier-Augen-Prinzip. Das hei&#223;t, Antragsteller und zu autorisierende
+Person d&#252;rfen nicht identisch sein. Ein zus&#228;tzlich aufgesetzter Kontrollprozess pr&#252;ft 
+u. a. zyklisch, ob ausschlie&#223;lich autorisierten Benutzern Zugriff auf die
+zugeordneten Daten erteilt wurde (&#8222;User Account Control&#8220;-Prozess). Bei Abweichungen 
+w&#252;rde eine Recherche gestartet und der Fehler umgehend behoben werden. 
+Zu den internen Zugriffsberechtigungen wird erg&#228;nzend auf die Antwort zu 
+Frage 20 und zu Zugriffsrechten des Scandienstleisters auf die Antwort zu 
+Frage 22 verwiesen. 
+25. Werden nach Kenntnis der Bundesregierung in diesen Scan-Einrichtungen 
+Leih- und Werkvertragsnehmer eingesetzt?  
+Ist es nach Kenntnis der Bundesregierung statthaft, in diesen Scan-
+Einrichtungen Leih- und Werkvertragsnehmer einzusetzen? 
+Im Rahmen des DiBAS-Vertrages werden keine Werkvertragsnehmer eingesetzt.  
+In den DiBAS-Vertr&#228;gen zwischen BA und DPAG gibt es kein
+Ausschlusskriterium f&#252;r den Einsatz von Leiharbeitnehmerinnen und Leiharbeitnehmern. Im 
+Rahmen der Verarbeitung DiBAS wurden nach Auskunft der BA
+Leiharbeitnehmerinnen und Leiharbeitnehmer im Rahmen der Belegverarbeitung (z. B.
+Vorbereitung, Sannen, Lager) eingesetzt. Die DPAG nutzt diese M&#246;glichkeit, neben 
+kurzfristigen Ma&#223;nahmen wie Schichtplananpassung und Nutzung von &#220;ber- und 
+Unterzeitkonten, um bei mittelfristigen Ver&#228;nderungen des
+Schriftgutaufkommens &#252;ber die Anzahl der eingesetzten Mitarbeiterinnen und Mitarbeiter auf das 
+tats&#228;chliche Belegaufkommen zu reagieren. 
+26. Wer kontrolliert wie und in welchem Turnus die Einhaltung der
+Datenschutzbestimmungen bei den beauftragten Scan-Einrichtungen? 
+Die Einhaltung der Datenschutzbestimmungen wird durch Pr&#252;fungen und Audits 
+durch den Auftraggeber (j&#228;hrliches Datenschutzaudit) und den Auftragnehmer 
+(j&#228;hrlich, durch DPAG durchgef&#252;hrte, interne Audits) kontrolliert. Der
+Auftragnehmer ist verpflichtet, die Ordnungsm&#228;&#223;igkeit und Sicherheit
+(Revisionssicherheit) des Prozesses Digitalisierung BA Schriftgut (DiBAS) durch ein j&#228;hrliches 
+Audit nachzuweisen. 
+Weiterhin gibt es unabh&#228;ngige Kontrollen und Testate nach den Anforderungen 
+der Internationalen Organisation f&#252;r Normung (International Organization for 
+Standardization &#8211; ISO) wie beispielsweise:  
+&#61623; ISO 9001 j&#228;hrliche &#220;berwachungsaudits und Rezertifizierung nach drei Jahren 
+oder 
+&#61623; ISO 27001 nach BSI Grundschutz, j&#228;hrliche &#220;berwachungsaudits und
+Rezertifizierung nach drei Jahren. 
+27. Sind die einzuscannenden Dokumente nach Kenntnis der Bundesregierung 
+nach dem Scannen maschinenlesbar, und welche Qualit&#228;tssicherung findet 
+hierbei statt, um Erkennungsfehler zu vermeiden?  
+Die durch die DPAG gescannten Dokumente liegen nach der Digitalisierung und 
+&#220;bergabe bei der BA in Form von signierten Bilddokumenten vor. Der Inhalt der 
+digitalisierten Dokumente liegt dabei in auf IT-Systemen darstellbarer, jedoch
+nicht in maschinenlesbarer Form als PDF-Dokument vor (d. h. eine Anzeige &#252;ber 
+entsprechende Anzeigeprogramme ist m&#246;glich). Der vollst&#228;ndige
+Dokumentinhalt wird nicht extrahiert und &#252;bergeben und ist deshalb nicht lesbar.  
+Eine vollst&#228;ndige Erschlie&#223;ung der Textinhalte mittels OCR-Erkennung wird
+derzeit gepr&#252;ft. Dadurch sollen die Lesbarkeit der Dokumente und weitere
+Funktionen wie eine Volltext-Suche oder das Kopieren von Textinhalten in der eAkte 
+m&#246;glich werden.  
+Nach der Digitalisierung werden derzeit ausschlie&#223;lich bestimmte Fachdaten aus 
+den Informationen der digitalisierten Dokumente extrahiert und in
+maschinenlesbarer Form an den Auftraggeber &#252;bergeben, die f&#252;r eine Ermittlung der richtigen 
+Akte und der richtigen Zust&#228;ndigkeit erforderlich sind. Dies sind z. B. der
+Fachschl&#252;ssel (z. B. Nummer der Bedarfsgemeinschaft, Kundennummer des
+Leistungsempf&#228;ngers oder von Betrieben), der Dokumenttyp (Klassifikation des 
+Schriftst&#252;cks in vorgegebene Dokumenttypen wie z. B. Bescheinigung/
+Nachweis, Antrag) oder der Aktentyp (Art der Fachakte, z. B. ALG II). 
+Die Qualit&#228;t der digitalisierten Dokumente wird im Digitalisierungsprozess
+stichprobenartig gepr&#252;ft. Zus&#228;tzlich wird bei der Erstellung der qualifizierten
+elektronischen Signatur die Bildqualit&#228;t durch die Signaturmitarbeiter der BA beurteilt. 
+Die Qualit&#228;t der extrahierten Daten, also die Einhaltung vereinbarter
+Fehlerquoten, wird durch eine begleitende Qualit&#228;tssicherung durch den Auftragnehmer
+sichergestellt. Dabei werden die extrahierten Daten stichprobenartig auf ihre
+Korrektheit gepr&#252;ft. Der Kontrollprozess wird durch Mitarbeiterinnen und
+Mitarbeiter der Qualit&#228;tssicherung &#252;berpr&#252;ft, die nicht an der operativen Verarbeitung der 
+Daten teilnehmen. Bei Abweichungen werden entsprechende Ma&#223;nahmen zur 
+Qualit&#228;tsverbesserung ergriffen (z. B. Nachschulung).  
+Die zul&#228;ssigen Fehlerquoten sind in der Leistungsbeschreibung (Bestandteil der 
+Ausschreibung) definiert und festgelegt und unterscheiden sich je nach
+Bearbeitungsschritt. Beispielsweise liegt die Logistik-Versp&#228;tungsquote bei 1 Prozent. 
+Eine Versp&#228;tung liegt vor, wenn Schriftgut nicht an den vereinbarten Tagen oder 
+nicht innerhalb des vereinbarten Zeitfensters abgeholt oder zur&#252;ckgeliefert wird 
+und kann durch Staus, Routensperrungen oder Fahrzeugausf&#228;lle ausgel&#246;st
+werden. Die Sendungs-/Auftragstrennungsfehlerquote betr&#228;gt zum Beispiel 0,04
+Prozent. Ein Trennungsfehler liegt vor, wenn eine Sendung/ein Auftrag vollst&#228;ndig 
+einer anderen Sendung/einem anderen Auftrag zugerechnet wird oder einzelne 
+Dokumente oder Seiten einer anderen Sendung/einem anderen Auftrag
+zugerechnet werden. 
+28. Bekommen die gescannten Dokumente nach Kenntnis der Bundesregierung 
+durch die scannenden Einrichtungen weitere Daten zugeordnet (z. B.
+elektronische Vermerke zum Scandatum, zu BG- oder Kundennummern, zum 
+Datum des Eingangs des Dokuments), und wenn ja, welche genau?  
+Wer gibt diese Daten ein, falls diese nicht auf dem Dokument selbst
+maschinenlesbar vermerkt sind?  
+Werden ggf. zus&#228;tzliche Daten gescannten Dokumenten aus bestehenden 
+Quellen zugeordnet, z. B. eine BG-Nummer aus der bestehenden eAkte der 
+absendenden Person?  
+Wenn ja, wie kommt die eingebende Person im Scancentrum an diese Daten? 
+Wie bereits in der Antwort zu Frage 27 ausgef&#252;hrt, werden zus&#228;tzliche
+Informationen aus den gescannten Dokumenten ermittelt. Dies sind sogenannte
+Metadaten (Daten, welche aus dem Verarbeitungsprozess heraus entstehen und nicht mit
+den Inhalten des Schriftst&#252;cks in unmittelbarem Zusammenhang stehen) und
+Inhaltsdaten.  
+Metadaten:  
+Diese Daten werden im Verarbeitungsprozess automatisiert ermittelt bzw. aus 
+Auftragsbl&#228;ttern des Verarbeitungsauftrags ausgelesen, die von der BA in
+maschinenlesbarer Form an die DPAG &#252;bergeben werden: 
+&#61623; Posteingangsdatum bei der BA, welches im Auftrag an die DPAG &#252;bergeben 
+wird, 
+&#61623; Scandatum im Scanzentrum, welches im Scanzentrum automatisch ermittelt 
+wird, 
+&#61623; Zeitpunkte des Transports, welche bei der Transportprotokollierung entstehen, 
+&#61623; eindeutige Dokument ID, welche beim Scannen automatisch vergeben wird, 
+&#61623; Prozessinformationen (z. B.: Eingangsart, Verarbeitender Scanstandort). 
+Inhaltsdaten:  
+Diese Daten werden nach der Digitalisierung mittels automatischer Erkennung 
+von Bar- bzw. Matrixcodes, &#252;ber OCR-Technologien, sowie durch die manuelle 
+Erfassung durch Nachbearbeitungskr&#228;fte von den Dokumenten gelesen bzw.
+erfasst: 
+&#61623; Fachschl&#252;ssel (z. B. Nummer der Bedarfsgemeinschaft, Kundennummer des 
+Leistungsempf&#228;ngers oder von Betrieben). Diese Daten k&#246;nnen dem
+Dokument aus sogenannten Referenzdatentabellen zugeordnet werden. Dabei
+erfolgt die Zuordnung nach Eingabe z. B. einer Adresse im Hintergrund
+automatisiert. Die Nachbearbeitungskraft bekommt lediglich einen Hinweis, ob eine 
+eindeutige Zuordnung m&#246;glich war. Eine freie Auswahl aus Trefferlisten ist 
+nicht m&#246;glich; 
+&#61623; Dokumenttyp (Klassifikation des Schriftst&#252;cks in vorgegebene
+Dokumenttypen wie z. B. Bescheinigung/Nachweis, Antrag); 
+&#61623; Aktentyp (Art der Fachakte, z. B. ALG II). 
+29. Wie wird nach Kenntnis der Bundesregierung mit eingereichten Kopien von 
+pers&#246;nlichen Dokumenten, deren Speicherung nicht zul&#228;ssig oder notwendig 
+ist, wie Personal-, Schwerbehinderten- und Sozialversicherungsausweisen, 
+EC- und Krankenversicherungskarten, M&#252;tterp&#228;ssen oder
+Scheidungsurteilen, in den Scan-Zentren verfahren?  
+Trifft es nach Kenntnis der Bundesregierung zu, dass diese Dokumente
+gescannt und gespeichert werden?  
+Was passiert nach Kenntnis der Bundesregierung im Anschluss an den
+Scanvorgang mit den eingereichten Dokumenten?  
+Werden diese gel&#246;scht oder aufbewahrt, und wie wird nach Kenntnis der 
+Bundesregierung sichergestellt, dass Unbefugte keinen Zugang zu diesen 
+Dokumenten haben?  
+Werden Unterlagen durch die gemeinsamen Einrichtungen an das Scanzentrum 
+zur Digitalisierung gegeben, werden dort nach Auskunft der BA alle eingehenden 
+Dokumente digitalisiert. Es obliegt den Verantwortlichen in den Dienststellen, 
+nicht zu digitalisierendes Schriftgut vor der Abgabe an den Scandienstleister
+auszusortieren. In Sortierhilfen, die den Mitarbeiterinnen und Mitarbeitern zur
+Verf&#252;gung stehen, ist aufgef&#252;hrt, welche Unterlagen nicht zum Scannen gegeben 
+werden d&#252;rfen. 
+Das digitalisierte Schriftgut wird f&#252;r den Mandanten SGB II acht Wochen im 
+Scanzentrum aufbewahrt und dann in einem Vernichtungszeitraum von f&#252;nf
+Wochen datenschutzkonform vernichtet. Auch w&#228;hrend der Aufbewahrungszeit
+greifen die in der Antwort zu Frage 24 beschriebenen Kontrollmechanismen. 
+Zus&#228;tzlich kann die BA w&#228;hrend des Aufbewahrungszeitraumes die unmittelbare 
+&#220;bersendung von bereits digitalisierten Sendungen anfordern (sogenannte
+&#8222;Originalanforderung&#8220;). Mit der &#220;bergabe endet die physische Aufbewahrung dieser 
+Dokumente bei der DPAG. 
+30. Welche Verst&#246;&#223;e gegen Datenschutzgesetze &#8211; absichtlich oder
+unabsichtlich &#8211; bei der BA und den Jobcentern sind der Bundesregierung bekannt? 
+Werden Verst&#246;&#223;e bzw. Meldungen von Verst&#246;&#223;en z. B. von Betroffenen
+gesammelt und zentral bei der BA statistisch aufbereitet und systematisch auf 
+ihre Pr&#252;fung und ggf. Behebung gepr&#252;ft?  
+Wenn nein, warum findet das nicht statt?  
+Seit Wirksamwerden der DSGVO (25. Mai 2018) obliegt den Dienststellen der 
+BA sowie den Familienkassen die Pflicht zur Meldung aller Sachverhalte an die 
+Zentrale der BA, soweit personenbezogene Daten verloren gegangen,
+unrechtm&#228;&#223;ig ver&#228;ndert oder unrechtm&#228;&#223;ig &#252;bermittelt oder auf sonstige Weise Dritten
+unrechtm&#228;&#223;ig zur Kenntnis gelangt sind. Die gleiche Verpflichtung trifft
+Auftragsverarbeiter. Eine zentrale und systematische Auswertung der Meldungen des 
+Zeitraumes seit 25. Mai 2018 ist geplant; angesichts des kurzen Zeitraumes liegen 
+noch keine statistisch belastbaren Zahlen vor. H&#228;ufigstes Beispiel ist die
+versehentliche falsche Kuvertierung von Kundenpost. Indizien f&#252;r absichtliche
+Datenschutzverst&#246;&#223;e liegen nicht vor. 
+Den gemeinsamen Einrichtungen obliegt die Meldung von Datenschutzverst&#246;&#223;en 
+an die Zentrale der BA nur, soweit die zentral verwalteten Verfahren der
+Informationstechnik oder eingekaufte Dienstleistungen nach &#167; 44b Absatz 5 SGB II 
+betroffen sind. In allen anderen F&#228;llen melden die gemeinsamen Einrichtungen in 
+eigener Zust&#228;ndigkeit direkt an die f&#252;r die Rechtsaufsicht zust&#228;ndige Stelle (&#167; 83a 
+SGB X n. F.) sowie an die Bundesbeauftragte f&#252;r den Datenschutz und die
+Informationsfreiheit (&#167; 50 Absatz 4 SGB II).
+31. Wie viele Datenschutzbeauftragte gibt es nach Kenntnis der
+Bundesregierung bei der BA und wie viele in den gemeinsamen Einrichtungen?  
+Wie steht die Anzahl der Datenschutzbeauftragten im Verh&#228;ltnis zu der
+Anzahl der Jobcentern?  
+Wie sind diese Datenschutzbeauftragten hierarchisch in den Jobcentern
+verankert?  
+Welche Aufgaben und Befugnisse haben diese Datenschutzbeauftragten 
+nach Kenntnis der Bundesregierung?  
+Wem erstatten die Datenschutzbeauftragten Bericht?  
+Sind diese Datenschutzbeauftragten f&#252;r Fragen und Beschwerden der
+Leistungsberechtigten zust&#228;ndig, und wenn ja, wie sind diese
+Datenschutzbeauftragten f&#252;r die Leistungsberechtigten erreichbar?  
+Nach &#167; 5 Absatz 1 des Bundesdatenschutzgesetzes muss jede &#246;ffentliche Stelle 
+eine Datenschutzbeauftragte oder einen Datenschutzbeauftragten benennen. Bei 
+der BA gibt es eine Datenschutzbeauftragte sowie derzeit einen Stab von nominal 
+zehn Mitarbeiterinnen und Mitarbeitern in der Zentrale. In den zehn
+Regionaldirektionen und 156 Agenturen f&#252;r Arbeit sind sogenannte Ansprechpartner in
+Sachen Datenschutz beratend t&#228;tig. Die 303 gemeinsamen Einrichtungen bestellen 
+eigenst&#228;ndige beh&#246;rdliche Datenschutzbeauftragte, die weisungsunabh&#228;ngig sind 
+und keiner Berichtspflicht an die Zentrale der BA unterliegen. 
+Die Datenschutzbeauftragte der BA sowie die Datenschutzbeauftragten der
+gemeinsamen Einrichtungen haben jeweils die gesetzlichen Befugnisse nach der 
+DSGVO und dem BDSG und berichten direkt der Gesch&#228;ftsleitung. Sie sind f&#252;r 
+Fragen und Beschwerden der Leistungsberechtigten zust&#228;ndig. Die
+Leistungsberechtigten k&#246;nnen sich schriftlich, telefonisch oder per Email an die
+Datenschutzbeauftragten wenden. 
+32. In welchem Umfang und wie h&#228;ufig finden nach Kenntnis der
+Bundesregierung Datenschutzschulungen statt?  
+Wer f&#252;hrt diese durch? 
+Das Thema Datenschutz wird im Qualifizierungsangebot der BA f&#252;r alle
+Mitarbeiterinnen und Mitarbeiter vorgehalten und durch das BA-eigene Lehrpersonal 
+vermittelt. Die Schulungen werden bedarfsorientiert angeboten. 
+Die Zentrale der BA bietet den Ansprechpartnerinnen und Ansprechpartnern in 
+den Regionaldirektionen und Agenturen f&#252;r Arbeit Schulungen zum
+Datenschutzrecht an. Den Datenschutzbeauftragten der gemeinsamen Einrichtungen steht die 
+Teilnahme an den Schulungen ebenfalls zur Verf&#252;gung. Dar&#252;ber hinaus stehen 
+Arbeitshilfen f&#252;r die Mitarbeiterinnen und Mitarbeiter im Intranet zur Verf&#252;gung.
+33. Welche organisatorischen und prozessualen &#196;nderungen in der BA und den 
+Jobcentern wurden nach Kenntnis der Bundesregierung konkret
+vorgenommen, um den Grunds&#228;tzen in Bezug auf die Verarbeitung personenbezogener 
+Daten (Artikel 5 der Datenschutz-Grundverordnung), insbesondere
+bez&#252;glich der Zweckbindung, Datenminimierung, Richtigkeit,
+Speicherbegrenzung sowie der Integrit&#228;t und Vertraulichkeit, Sorge zu tragen?  
+Die Datenschutzerkl&#228;rungen auf der Website der BA wurden in Bezug auf die 
+Betroffenenrechte (Artikel 13, 14 DSGVO) angepasst. Zudem wurde in Bezug 
+auf das neu strukturierte Auskunftsrecht nach Artikel 15 DSGVO i. V. m &#167; 83 
+SGB X eine Weisung an die Agenturen f&#252;r Arbeit erlassen bzw. eine Information 
+an die gemeinsamen Einrichtungen gegeben. Die Weisungslage wurde im
+Hinblick auf Artikel 33 DSGVO i. V. m. &#167; 83a SGB X aktualisiert.
+Anlage 2 
+Auszug aus der Arbeitshilfe der BA &#8222;Hinweise zum Aufbau und F&#252;hren einer Leistungsakte&#8220;  
+ 
+Anlage 2 &#8211; Unterlagen Erst- und Weiterbewilligungsantrag (Datenschutz)  
+Die in der Tabelle getroffenen Aussagen orientieren sich am Regelfall. Im Einzelfall kann unter Beachtung der 
+datenschutzrechtlichen Bestimmungen zur ordnungsgem&#228;&#223;en Sachbearbeitung davon abgewichen werden.  
+Die angegebenen Dokumente orientieren sich an in den Leistungsakten angetroffenen Beispielen aus der Praxis. 
+Daher werden auch Dokumente, deren Vorlage bzw. Kopie aus datenschutzrechtlichen Gr&#252;nden nicht zul&#228;ssig 
+ist, hier zur Rechtsklarheit aufgef&#252;hrt. Werden Originale zun&#228;chst f&#252;r die Entscheidung &#252;ber einen Antrag
+einbehalten, ist dies nur mit schriftlicher Einwilligung der Inhaberin oder des Inhabers zul&#228;ssig und die Originale sind 
+nach der Bewilligung bzw. Ablehnung zur&#252;ckzusenden.  
+Daten von nichtleistungsberechtigten Dritten sind in den jeweiligen Unterlagen &#8211; soweit diese zur Leistungsakte 
+zu nehmen sind &#8211; zu schw&#228;rzen. 
+Dokument 
+Kopie 
+Bemerkung zur Akte  
+nehmen 
+nicht
+zul&#228;ssig/
+erforderlich* 
+*) nur im 
+Antrag
+abhaken oder 
+Vermerk 
+erstellen 
+Pers&#246;nliche Daten 
+Personalausweis; 
+Reisepass  X Ein Vermerk &#8222;hat vorgelegen&#8220; ist ausreichend. 
+Pass bei Ausl&#228;ndern  X Ein Vermerk &#8222;hat vorgelegen&#8220; ist ausreichend. 
+Aufenthaltstitel im Pass/ 
+gesonderte
+Aufenthaltstitel 
+X  Pr&#252;fung des Leistungsanspruchs (Leistungsausschluss &#167; 7 Abs. 1 Satz 2 SGB II)
+Freiz&#252;gigkeitsbescheinigung X  
+Pr&#252;fung des Leistungsanspruchs (Leistungsausschluss 
+&#167; 7 Abs. 1 Satz 2 SGB II) 
+Aufnahmebescheid 
+bei Sp&#228;taussiedlern  X  
+Visa-Eintr&#228;ge X  
+Nur im begr&#252;ndeten Ausnahmefall: 
+&#61623; Zur Pr&#252;fung des Leistungsausschlusstatbestandes 
+bei ungenehmigter Ortsabwesenheit oder 
+&#61623; bei dreimonatigem Leistungsausschluss bei
+Ersteinreise von Ausl&#228;ndern.
+Dokument 
+Kopie 
+Bemerkung zur Akte  
+nehmen 
+nicht
+zul&#228;ssig/
+erforderlich* 
+*) nur im 
+Antrag
+abhaken oder 
+Vermerk 
+erstellen 
+Meldebescheinigung des 
+Einwohnermeldeamtes  X 
+Nur zur Ermittlung der aktuellen Wohnadresse, soweit 
+sie nicht aus dem Ausweisdokument hervorgeht; in 
+begr&#252;ndeten Ausnahmef&#228;llen zum Beleg eines
+Straftatbestandes (z. B. eines Versto&#223;es gegen das
+Meldegesetz &#8211; der Lebensmittelpunkt ist nicht im
+gemeldeten Ort).
+Sozialversicherungsausweis  X  
+EC-Karte/Bank-Karte  X  
+gerichtliche Protokolle/  
+Urteile/Vergleiche/ 
+Beschl&#252;sse allgemein 
+X  Betrifft alle Gerichtszweige. Die Erforderlichkeit ist zu pr&#252;fen. 
+Scheidungsurteil  X Ausnahme: Titel bei &#252;bergegangenen Unterhaltsan-spr&#252;chen 
+Pers&#246;nliche Angaben
+Arbeitsunf&#228;higkeitsbescheinigung (AUB)  X 
+Ausnahmen: Bei einem Verfahren nach &#167; 56 SGB II 
+(Einschaltung des MDK bei Zweifel an der
+Arbeitsunf&#228;higkeit) oder aus Beweiszwecken im
+sozialgerichtlichen Verfahren oder im strafrechtlichen
+Ermittlungsverfahren (bei F&#228;lschungen) ist die AUB in einem
+verschlossenen Umschlag zur Akte zu nehmen soweit 
+keine separate OWiG-Akte angelegt wurde (&#8222;Das 
+Bu&#223;geldverfahren im SGB II Praxishandbuch f&#252;r 
+die Verfolgung von Ordnungswidrigkeiten im 
+SGB II&#8220; Ziffer I 7). 
+Geburtsbescheinigung X  Aufnahme Neugeborener in die Bedarfsgemeinschaft 
+Schulbescheinigung X  
+Ab vollendetem 15. Lebensjahr als Nachweis des 
+Sch&#252;lerstatus f&#252;r die Beurteilung der
+Rentenversicherung erforderlich (Forderung der RV-Tr&#228;ger). Bei 
+Kindern unter 7 Jahren zur Feststellung des
+Anspruchs auf Schulbedarf erforderlich, da kein VerBIS-
+Datensatz vorhanden ist (nur bei Zust&#228;ndigkeit
+Jobcenter).
+Dokument 
+Kopie 
+Bemerkung zur Akte  
+nehmen 
+nicht
+zul&#228;ssig/
+erforderlich* 
+*) nur im 
+Antrag
+abhaken oder 
+Vermerk 
+erstellen 
+&#196;rztliche Gutachten  
+(&#196;G)/Psychologische 
+Gutachten (PG)/ 
+Atteste (z. B. vom  
+Hausarzt) 
+X  
+&#196;G, PG oder Atteste (auch ohne Diagnose) d&#252;rfen nur 
+in einem verschlossenen Umschlag (mit
+Verschlussstreifen) aufbewahrt werden. Mehrere Dokumente 
+zum gleichen Sachverhalt k&#246;nnen gemeinsam
+verschlossen werden. Ein Vermerk (ohne Diagnose) &#252;ber 
+das Ergebnis eines &#196;G oder PG ist zul&#228;ssig, wenn es 
+leistungsrelevant ist (z. B. mehr als 6 Monate nicht
+erwerbsf&#228;hig, Mehrbedarf Ern&#228;hrung). 
+Haushaltsbescheinigung  X 
+Hier gilt der strenge datenschutzrechtliche Grundsatz, 
+dass Daten von Nichtleistungsempf&#228;ngern nicht
+gespeichert werden d&#252;rfen. Die Vordrucke (Anlage HG 
+und VE) ber&#252;cksichtigen dies entsprechend.
+Versehentlich gemachte Angaben z. B. unter Punkt 2 der 
+Anlage HG sind zu schw&#228;rzen. 
+Feststellungbescheid 
+Erwerbsunf&#228;higkeit  X 
+Ein Vermerk &#8222;hat vorgelegen und wirkt sich
+leistungsrechtlich nicht aus&#8220; ist ausreichend 
+Rentenbescheid  X 
+Vermerk &#8222;hat vorgelegen&#8220; mit Angabe der
+Rentenh&#246;he und ggf. weiterer leistungsrechtlich relevanter 
+Angaben (z. B. Dauer der Rente) i. d. R. ausreichend 
+Bescheide zu
+vorrangigen Leistungen X  
+Feststellung von vorrangigen Leistungen und evtl.
+Erstattungsanspr&#252;chen. 
+Etwaige Berechnungsb&#246;gen sind entbehrlich. 
+Angaben f&#252;r Mehrbedarfe 
+Mutterpass  X Entbindungstermin vermerken bzw. abhaken 
+Feststellungbescheid 
+Versorgungsamt  X Merkzeichen G vermerken bzw. abhaken 
+Schwerbehinderten 
+ausweis  X Merkzeichen G vermerken bzw. abhaken 
+Einkommensverh&#228;ltnisse 
+Arbeitsvertrag X  
+Nur den leistungsrelevanten Teil und nur bei
+Arbeitsaufnahme w&#228;hrend des Leistungsbezuges
+(Feststellung der Einkommensverh&#228;ltnisse). Nicht
+erforderliche Angaben sind zu schw&#228;rzen. 
+Unterhaltszahlungen 
+als Absetzungsbetr&#228;ge  X 
+Gilt sowohl f&#252;r Unterhaltstitel als auch f&#252;r Zahlung. 
+Ausnahme: begr&#252;ndete Zweifelsf&#228;lle
+Dokument 
+Kopie 
+Bemerkung zur Akte  
+nehmen 
+nicht
+zul&#228;ssig/
+erforderlich* 
+*) nur im 
+Antrag
+abhaken oder 
+Vermerk 
+erstellen 
+Lohnabrechnung/
+Einkommensbescheinigung 
+X  
+Ist zur Ermittlung der erforderlichen Daten notwendig 
+(Lohnsteuerklasse, Brutto-/Nettoeinkommen). Der 
+Zufluss kann &#252;ber die Vorlage des Kontoauszuges
+erhoben werden. Eine Kopie ist nicht erforderlich. Auf 
+die zus&#228;tzliche Anforderung der
+Einkommensbescheinigung sollte dann verzichtet werden, um Daten nicht 
+doppelt zu erheben. 
+Betriebswirtschaftliche 
+Auswertung (BWA)  X 
+Die erforderlichen Angaben ergeben sich aus der
+Anlage EKS. 
+Summensalden-Liste  X Braucht nicht vorgelegt zu werden, weil diese f&#252;r die Einkommensermittlung nicht relevant ist. 
+Versicherungen  X Kfz-Haftpflicht, Riester-Zertifizierung: Vorlage der Abrechnung gen&#252;gt. Kopie ist nicht erforderlich. 
+Verm&#246;gensverh&#228;ltnisse 
+Kfz-Schein,
+Leasingvertrag  X 
+Im Einzelfall zur Wertermittlung erforderlich 
+(z. B. bei Oldtimer oder Unstimmigkeiten). 
+Sparb&#252;cher  X Nur Best&#228;tigung des im Antrag angegebenen Betrags
+Dokument 
+Kopie 
+Bemerkung zur Akte  
+nehmen 
+nicht
+zul&#228;ssig/
+erforderlich* 
+*) nur im 
+Antrag
+abhaken oder 
+Vermerk 
+erstellen 
+Kontoausz&#252;ge X  
+&#61623; Die Vorlage der Kontoausz&#252;ge zur Einsichtnahme 
+und Pr&#252;fung kann regelm&#228;&#223;ig f&#252;r die letzten 6
+Monate gefordert werden. Dieser Zeitraum ist
+unabh&#228;ngig vom Erst- oder Weiterbewilligungsantrag. 
+Ein Vermerk &#252;ber die erfolgte Vorlage und Pr&#252;fung 
+reicht regelm&#228;&#223;ig aus. 
+&#61623; Die Speicherung (durch &#8222;Kopie zur Akte&#8220;/Scan zur 
+eAkte SGB II) von Kontoausz&#252;gen ist jedoch nur 
+zul&#228;ssig, wenn diese Tatsachen enthalten, die sich 
+unmittelbar auf den Leistungsanspruch auswirken. 
+In Betracht kommt daher eine Speicherung von
+Buchungen oder Ausz&#252;gen z. B., wenn sich aus den 
+Unterlagen ein weiterer Ermittlungsbedarf oder 
+eine &#196;nderung in der Leistungsh&#246;he ergibt. 
+&#61623; In begr&#252;ndeten Einzelf&#228;llen kann anlassbezogen 
+(z. B. wg. Leistungsmissbrauch) eine Vorlage f&#252;r 
+den gesamten Bewilligungs- oder
+Leistungszeitraum erfolgen. 
+   
+Die Kundin bzw. der Kunde ist auf die
+Schw&#228;rzungsm&#246;glichkeit auf der Ausgabenseite hinsichtlich des 
+Verwendungszwecks hinzuweisen (auch im Fall der 
+Feststellung von unwirtschaftlichem Verhalten, da 
+z. B. auch &#252;ber unverh&#228;ltnism&#228;&#223;ig hohe
+Handyrechnung belegbar). 
+Notarielle Vertr&#228;ge X  
+Nur den leistungsrelevanten Teil, dies k&#246;nnen sein: 
+&#61623; der Kaufpreis und das Kaufdatum f&#252;r die
+Wertermittlung, 
+&#61623; die Wohnungs-/ Grundst&#252;cksgr&#246;&#223;e soweit Bedarfe 
+der Unterkunft und Heizung betroffen sind und 
+&#61623; das Wohnrecht ggf. mit Schw&#228;rzung 
+Grundbuchausz&#252;ge  X 
+Kopien nur im Ausnahmefall bei Erforderlichkeit,
+soweit es sich um mehrere Eigent&#252;mer handelt.
+Schw&#228;rzungen sind in Bezug auf die Angaben zu Dritten
+erforderlich. 
+Lebensversicherungen  X Ausnahme: Nachweise zum Verwertungsausschluss
+Dokument 
+Kopie 
+Bemerkung zur Akte  
+nehmen 
+nicht
+zul&#228;ssig/
+erforderlich* 
+*) nur im 
+Antrag
+abhaken oder 
+Vermerk 
+erstellen 
+Angaben zur Sozialversicherung 
+Gesundheitskarte  X  
+Mitgliedsbescheinigung  
+der Krankenkasse (KK) X  Nur soweit keine g&#252;ltige Gesundheitskarte vorliegt. 
+Angaben zur KDU (ggf. abweichende Weisungen des kommunalen Tr&#228;gers zur Erhebung der KDU- 
+Unterlagen sind zu beachten, der Bereich Justitiariat/Datenschutz der Bundesagentur f&#252;r Arbeit
+vertritt die abgebildete Auffassung). 
+Prinzipiell sind Daten von nichtleistungsberechtigten Dritten in den jeweiligen Unterlagen zu schw&#228;rzen. 
+Mietvertrag  X Nur Best&#228;tigung des in der Anlage KDU angegebenen Betrags 
+Zins- und Tilgungspl&#228;ne  
+bei Eigenheim X  Angaben f&#252;r Gew&#228;hrung KDU erforderlich 
+Heizungs- und
+Betriebskostenabrechnung bzw. Bescheide 
+(Jahresabrechnung) 
+X  Angaben f&#252;r Gew&#228;hrung KDU erforderlich 
+Heizungs- und
+Betriebskostenabrechnung  
+bzw. Bescheide  
+(Abschl&#228;ge) 
+ X Nur Best&#228;tigung des in der Anlage KDU angegebenen Betrags
+Anlage 3 
+Auszug aus der Arbeitshilfe der BA &#8222;Hinweise zum Aufbau und F&#252;hren einer Leistungsakte&#8220; 
+ 
+Anlage 3 &#8211; Unterlagen Entscheidungen und Bestandsarbeiten (Datenschutz) 
+Dokument 
+Kopie 
+Bemerkungen zur Akte  
+nehmen 
+nicht
+erforderlich 
+ALLEGRO 
+Bescheide ALLEGRO X  
+Ggf. nur 1. und ggf. 2. Seite. Bei Anforderung der 
+Akte im Klageverfahren sind die Bescheide zu
+vervollst&#228;ndigen. Zudem ist bei einem offenen
+Einziehungsverfahren die dem Erstattungsbescheid zu
+zugrundeliegende Ausgangsentscheidung zur Akte zu 
+nehmen. 
+Schreiben ALLEGRO  X 
+Wenn Verf&#252;gungen genutzt werden, kann auf den 
+Ausdruck von Schreiben, die in ALLEGRO
+hinterlegt sind (nicht Bescheide!), verzichtet werden. 
+BK 
+Bescheide BK X  
+Nach M&#246;glichkeit den Bescheid in ALLEGRO 
+(Freie Textauswahl) kopieren (dann nur 1. und ggf. 
+2. Seite in die Akte). 
+Schreiben BK X   
+Sanktionsbegr&#252;ndende Unterlagen 
+leistungsrechtliche
+Dokumente (z. B. Anh&#246;rung,  
+Sachverhaltsaufkl&#228;rung,  
+Einladungen) 
+X   
+Sonstige (z. B. Einladung  
+zum Vermittler,
+Eingliederungsvereinbarung) 
+ X Im Widerspruchs- oder Klageverfahren falls erfor-derlich erg&#228;nzen. 
+Sonstiges 
+Berechnungen au&#223;erhalb  
+von ALLEGRO X   
+Eingehende Post X  Ohne Briefumschl&#228;ge (Ausnahme: Postr&#252;ckl&#228;ufe) und Doppelungen! 
+Vordrucke der
+Deutschen
+Rentenversicherung, die zur Erhebung  
+von Versicherungs- oder  
+Anrechnungszeiten  
+dienen 
+X  Kopien von ausgef&#252;llten Vordrucken sind zul&#228;ssig, Originale werden versandt oder zur&#252;ckgegeben.
+Dokument 
+Kopie 
+Bemerkungen zur Akte  
+nehmen 
+nicht
+erforderlich 
+Erstattungsformulare  
+von z. B. Deutscher  
+Rentenversicherung, 
+Familienkasse, Sozialamt  
+(SGB XII) 
+X   
+DALG2 X  Nur soweit sich eine R&#252;ckforderung ergibt. Hinweis: Kopie auch f&#252;r Owi-Akte 
+Tickets aus dem SC oder  
+der Eingangszone X  
+Nur soweit sich eine &#196;nderung ergibt, ansonsten 
+Dokumentation in VerBIS. 
+Interner Schriftverkehr 
+(z. B.
+Au&#223;endienstberichte, Vorschl&#228;ge SGG) 
+X  
+Hinweise von Informanten sind gesondert abzulegen 
+(s. a. &#8211; anonyme &#8211; Anzeigen). 
+(Anonyme) Anzeigen/  
+Strafanzeigen  X 
+Der Informant hat Anspruch auf Geheimhaltung
+seiner personenbezogenen Daten. Die Rechtsprechung 
+l&#228;sst diesen Schutz nur im Falle wissentlich falscher 
+Verd&#228;chtigungen entfallen. Daher sollten im
+Regelfall entsprechende (anonyme) Anzeigen in einem 
+verschlossenen Umschlag in der Leistungsakte
+aufbewahrt werden. Bei der Gew&#228;hrung von
+Akteneinsicht ist dieser zuvor herauszunehmen; anders ist der 
+Sachverhalt zu beurteilen, wenn der Betroffene
+Anspr&#252;che gegen einen Denunzianten geltend machen 
+will (z. B. Strafantrag wegen &#252;bler Nachrede). 
+Drittermittlungen (z. B. 
+Anfragen und
+Dokumente, die den Zoll  
+betreffen) 
+X  Soweit erheblich f&#252;r die Leistungsgew&#228;hrung 
+Drittermittlungen in  
+Sonderf&#228;llen (BND,  
+Staatsanwaltschaft,  
+Polizei) 
+ X Mitteilung an die Betroffene oder den Betroffenen nur mit Zustimmung der ermittelnden Beh&#246;rde. 
+Kassenzettel bei
+Gutscheinen  X  
+Verfahren bei
+festgestellten
+Verm&#246;genssch&#228;den 
+ X 
+Die im Zusammenhang mit Verfahren bei
+festgestellten Verm&#246;genssch&#228;den anfallenden Unterlagen 
+sind grunds&#228;tzlich nicht zur Leistungsakte zu
+nehmen, sondern wie Personalvorg&#228;nge vertraulich zu 
+behandeln und unter Verschluss zu halten. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Satz: Satzweiss.com Print, Web, Software GmbH, Mainzer Stra&#223;e 116, 66121 Saarbr&#252;cken, www.satzweiss.com 
+Druck: Printsystem GmbH, Schafw&#228;sche 1-3, 71296 Heimsheim, www.printsystem.de 
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de 
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/2916 -
+Fragen zum Sozialdatenschutz und zur Datensicherheit im Zusammenhang mit der Bundesagentur f&#252;r Arbeit und den Jobcentern
+</titel>
+    <datum>2018-07-13</datum>
+  </document>
+  

@@ -1,0 +1,824 @@
+<document>
+    <id>239724</id>
+    <drucksachetyp>Unterrichtung</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/17720</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>81d1d0026a36f2eed1ebcedef54353a9</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>260435</id>
+      <titel>Bericht &#252;ber Verkehrsverlagerungen auf das nachgeordnete Stra&#223;ennetz in Folge der Einf&#252;hrung der Lkw-Maut</titel>
+      <vorgangstyp>Bericht, Gutachten, Programm</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium f&#252;r Verkehr und digitale Infrastruktur</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/177/1917720.pdf</pdf_url>
+      <id>239724</id>
+      <dokumentnummer>19/17720</dokumentnummer>
+      <datum>2020-03-04</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Unterrichtung</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Zugeleitet mit Schreiben des Bundesministeriums f&#252;r Verkehr und digitale Infrastruktur vom 4. M&#228;rz 2020
+gem&#228;&#223; Beschluss vom 13. Dezember 2001 (Bundestagsdrucksache 14/7822). 
+Deutscher Bundestag Drucksache 19/17720
+ 19. Wahlperiode 04.03.2020
+Unterrichtung 
+durch die Bundesregierung 
+Bericht &#252;ber Verkehrsverlagerungen auf das nachgeordnete Stra&#223;ennetz 
+in Folge der Einf&#252;hrung der Lkw-Maut  
+Inhaltsverzeichnis 
+ Seite 
+1 Einleitung .........................................................................................  2 
+2 Erkenntnisse der bisherigen Berichte ...........................................  2 
+3 Durchf&#252;hrung von zus&#228;tzlichen Z&#228;hlungen .................................  3 
+4 Untersuchungsmethodik .................................................................  5 
+5 Allgemeine Verkehrsentwicklung ..................................................  8 
+6 Ergebnisse der Untersuchungen ....................................................  9 
+6.1 Entwicklung des DTVSGV an Dauerz&#228;hlstellen auf 
+Bundesstra&#223;en ...................................................................................  9 
+6.1.1 Mautbedingte Entwicklungen in Folge der Erweiterung der 
+Mautpflicht auf Fahrzeuge &#8805; 7,5 t zGG zum 01.10.2015..................  9 
+6.1.2 Mautbedingte Entwicklungen in Folge der Erweiterung der 
+Mautpflicht auf alle Bundesstra&#223;en zum 01.07.2018 ........................  11 
+6.2 Ma&#223;nahmenwirkung .........................................................................  13 
+6.3 Modellrechnung ................................................................................  13 
+6.3.1 Verlagerungspotenzial ......................................................................  13 
+6.3.2 Mautbedingte Verkehrsverlagerungen bis zum 30.06.2018 ..............  15 
+6.3.3 Mautbedingte Verkehrsverlagerungen ab 01.07.2018 ......................  17 
+6.3.4 Entwicklung der Mautausweichpotenziale von 2014 bis 2018 .........  20 
+6.4 Zusammenfassung der Ergebnisse ....................................................  20 
+7 Modal Split im G&#252;terverkehr ........................................................  23 
+8 Schlussfolgerungen ..........................................................................  25 
+Anlagen ..........................................................................................................  27
+1 Einleitung 
+Der Deutsche Bundestag hat in seiner 208. Sitzung am 13.12.2001 den Beschlussvorschlag des Ausschusses f&#252;r 
+Verkehr, Bau und Wohnungswesen (Bundestagsdrucksache 14/7822) angenommen, in dem die
+Bundesregierung gebeten wurde, die Auswirkungen der Einf&#252;hrung der Lkw-Maut auf Ballungsr&#228;ume, Wohngebiete und 
+grenznahe Gebiete intensiv zu beobachten und dem Deutschen Bundestag erstmalig ein Jahr nach Einf&#252;hrung 
+der Maut und danach regelm&#228;&#223;ig alle 3 Jahre dar&#252;ber zu berichten. 
+Dabei soll auf drei Aspekte eingegangen werden: 
+&#61623; ob und ggf. auf welchen Streckenabschnitten die Mautpflicht zu einem sp&#252;rbaren Ausweichen des Lkw-
+Verkehrs auf das nachgeordnete Netz gef&#252;hrt hat, 
+&#61623; ob und in welchem Umfang die Mautpflicht auf Abschnitte des nachgeordneten Netzes ausgedehnt wurde, 
+&#61623; wie sich der Modal-Split im G&#252;terverkehr ver&#228;ndert hat. 
+Zur Erf&#252;llung dieses Auftrages hat die Bundesregierung zuletzt am 30.11.2016 einen Bericht &#252;ber die
+Verlagerungen von schwerem Lkw-Verkehr auf das nachgeordnete Stra&#223;ennetz (Bundestagsdrucksache 18/10567) zum 
+Datenstand 2014 vorgelegt. Ab dem 01.10.2015 ist die Maut auch f&#252;r Fahrzeuge zu entrichten, deren zul&#228;ssiges 
+Gesamtgewicht unter 12 t und mindestens 7,5 t betr&#228;gt. Zum 01.07.2018 wurde die Mautpflicht auf alle
+Bundesstra&#223;en ausgeweitet. Im nun vorliegenden Bericht werden die Auswirkungen dieser Gesetzes&#228;nderungen 
+untersucht und die vorherigen Berichte auf den Datenstand 2018 aktualisiert. Er wurde wieder von einer 
+Bund/L&#228;nder-Arbeitsgruppe (Bundesanstalt f&#252;r Stra&#223;enwesen (BASt), Nordrhein-Westfalen (Federf&#252;hrung f&#252;r 
+die L&#228;nder), Baden-W&#252;rttemberg und Rheinland-Pfalz) unter Federf&#252;hrung des Bundesministeriums f&#252;r
+Verkehr und Digitale Infrastruktur (BMVI) erstellt. 
+2 Erkenntnisse der bisherigen Berichte 
+Die Berichte &#252;ber die Verlagerung von schwerem Lkw-Verkehr auf das nachgeordnete Stra&#223;ennetz vom 
+13.12.2005, 29.06.2009, 02.01.2013, 27.02.2014 und 30.11.2016 enthalten im Wesentlichen die folgenden
+Erkenntnisse: 
+&#61623; Mautausweichverkehre stellten kein Fl&#228;chenproblem dar. Nennenswerte Verlagerungen von den
+Autobahnen auf parallel verlaufende Strecken des nachgeordneten Netzes ergaben sich nur, wenn die Nutzung der 
+parallel zur Autobahn verlaufenden Ausweichroute aufgrund ihres Ausbaustandards kaum zu Zeitverlusten 
+f&#252;hrte. Dar&#252;ber hinaus ergaben sich Verlagerungsanreize, wenn die mautfreie Ausweichstrecke deutlich 
+k&#252;rzer war als die bisher genutzte Autobahnroute. Bundesstra&#223;en mit hohen Mautausweichverkehren 
+waren nur vereinzelt festzustellen. Auch die zum 01.08.2012 eingef&#252;hrte Bundesstra&#223;enmaut auf 
+ca. 1.100 Bundesstra&#223;enkilometer hat nicht zu bedeutenden Ausweichverkehren gef&#252;hrt. 
+&#61623; Die Verkehrsentwicklung des schweren G&#252;terverkehrs (SGV) stellte sich auf den einzelnen Bundesstra&#223;en 
+insgesamt sehr unterschiedlich dar. Sowohl Zunahmen als auch Abnahmen waren zu verzeichnen. Dar&#252;ber 
+hinaus stagnierte die Verkehrsentwicklung aber an der Mehrheit der Z&#228;hlstellen. Eine zus&#228;tzliche
+Verlagerung auf Grund von Anpassungen der Mauts&#228;tze war an den Dauerz&#228;hlstellen nicht erkennbar. 
+&#61623; Die allgemeine Verkehrsentwicklung des Schwerverkehrs zeigte im Jahr 2009 durch die Wirtschaftskrise 
+einen deutlichen Einbruch sowohl auf den Autobahnen als auch auf den Bundesstra&#223;en. Auf Grund der 
+r&#252;ckl&#228;ufigen allgemeinen Verkehrsentwicklung im Zuge der Wirtschaftskrise &#252;berwog an einigen Stellen 
+der R&#252;ckgang an Lkw die Zunahme in Folge eines erh&#246;hten Verlagerungspotentials. 
+&#61623; Die in den vorangegangenen Berichten identifizierten Schwerpunkte von Verkehrsverlagerungen haben 
+sich nicht ge&#228;ndert. Hierbei handelt es sich vornehmlich um gut ausgebaute Strecken, die aufgrund ihres 
+Ausbaustandards diesen Verkehr auch aufnehmen k&#246;nnen und bereits vor Einf&#252;hrung der Lkw-Maut
+&#252;berdurchschnittliche Verkehrsbelastungen aufwiesen. Die Berichte zeigen, dass auf ca. 95 % der Strecken des 
+gesamten Bundesstra&#223;ennetzes keine wesentliche &#196;nderung der Verkehrsbelastung infolge der
+Mautausweichverkehre zu verzeichnen war. 
+&#61623; F&#252;r eine Bewertung von verkehrsbeschr&#228;nkenden Ma&#223;nahmen ist stets eine Einzelfallbetrachtung unter 
+Ber&#252;cksichtigung des gesamten Stra&#223;ennetzes erforderlich. Ein Teil der getroffenen Ma&#223;nahmen hat
+teilweise nur zu geringen R&#252;ckg&#228;ngen oder zu Weiterverlagerungen in das nachgeordnete Stra&#223;ennetz
+gef&#252;hrt. Bei dem anderen Teil der Ma&#223;nahmen konnte dagegen ein deutlicher R&#252;ckgang festgestellt werden, 
+bei denen auch Lkw verdr&#228;ngt wurden, die schon vor Einf&#252;hrung der Lkw-Maut diese Strecke nutzten. 
+Die Beschilderung und die Kontrollintensit&#228;t der Einhaltung dieser Ma&#223;nahmen sind mit ausschlaggebend 
+f&#252;r den Erfolg.
+&#61623; Die letzte Untersuchung der Verkehrsverlagerungen von den Autobahnen auf das nachgeordnete Netz mit 
+Hilfe von Modellrechnungen f&#252;hrte zusammenfassend zu folgenden Erkenntnissen: F&#252;r 95,5 % der
+Fahrten mit schweren Lkw waren die Routen &#252;ber die Autobahnen auch unter Ber&#252;cksichtigung der Maut
+kosteng&#252;nstiger als Routen mit gr&#246;&#223;eren Anteilen im nachgeordneten Netz. F&#252;r 4,5 % der Fahrten h&#228;tte ein 
+Ausweichen auf das nachgeordnete Netz zu Kostenvorteilen von mindestens 1 Euro/Fahrt gef&#252;hrt. Eine 
+Verlagerungswirkung wurde ab einer Kostenersparnis von 5 Euro unterstellt, was auf ca. 1 % der Fahrten 
+zutraf. Nur bei 0,2 % der Fahrten f&#252;hrten Ausweichreaktionen zu Kosteneinsparungen von mehr als 
+10 Euro/Fahrt. 
+&#61623; Der &#252;berwiegende Verkehr, der in Folge der Bundesstra&#223;enmaut zum 01.08.2012 die Bundesstra&#223;e
+verlie&#223;, wurde auf die Autobahnen zur&#252;ckverlagert. Einer Entlastung der Bundes- und Landesstra&#223;en um ca. 
+300.000 Lkw-km/Werktag stand eine zus&#228;tzliche Belastung auf den Autobahnen gegen&#252;ber. Somit ergab 
+sich eine umfangreiche (R&#252;ck-) Verlagerung auf das Autobahnnetz. 
+&#61623; Bei Betrachtung des Modal Splits im G&#252;terverkehr zeigte sich, dass sowohl die Stra&#223;e als auch die Schiene 
+seit Einf&#252;hrung der Lkw-Maut Verkehrsanteile der Landverkehrstr&#228;ger gegen&#252;ber der Binnenschifffahrt 
+und der Rohrfernleitungen gewonnen haben. Die Maut hat nicht dazu gef&#252;hrt, dass Anteile von der Stra&#223;e 
+auf die Schiene verlagert wurden. 
+3 Durchf&#252;hrung von zus&#228;tzlichen Z&#228;hlungen 
+Wie bei der Einf&#252;hrung der Bundesstra&#223;enmaut auf ca. 1.100 km Bundesstra&#223;enabschnitten zum 01.08.2012 
+wurden wiederrum die L&#228;nder gebeten, in Erg&#228;nzung zu den Dauerz&#228;hlstellen zus&#228;tzliche Z&#228;hlungen
+durchzuf&#252;hren, um eine gr&#246;&#223;ere Datenbasis im den Bundesfernstra&#223;en nachgelagerten Stra&#223;ennetz zu erhalten (siehe 
+Bundestagsdrucksache 18/689). Mit Hilfe einer Vorabmodellsimulation wurden potentielle Ausweichstrecken 
+herausgefiltert und den L&#228;ndern zur Verf&#252;gung gestellt. Die L&#228;nder haben auf dieser Basis Z&#228;hlungen auf
+m&#246;glichen Ausweichstrecken sowie den dazu korrespondierenden Bundesstra&#223;enabschnitten durchgef&#252;hrt. Daf&#252;r 
+standen im Wesentlichen die Z&#228;hlarten Detektorz&#228;hlung und Manuelle Z&#228;hlung zur Verf&#252;gung: 
+1) Detektorz&#228;hlung 
+F&#252;r die Datenerhebung mittels Detektoren am Stra&#223;enquerschnitt kamen Seitenradarger&#228;te zum Einsatz. Der 
+Einsatz dieser Systeme ist nicht an allen Stra&#223;enquerschnitten m&#246;glich, da z. B. ein zu hohes
+Verkehrsaufkommen oder st&#246;rende Reflexionen durch Schutzplanken die Z&#228;hlungen negativ beeinflussen k&#246;nnen. Erm&#246;glichte 
+die &#214;rtlichkeit eine Detektorz&#228;hlung, so wurden &#252;ber mindestens zwei Wochen vor und zwei Wochen nach 
+Einf&#252;hrung der Bundesstra&#223;enmaut der SGV und der gesamte Kfz-Verkehr erfasst. Zus&#228;tzlich konnten Daten 
+aus landeseigenen Dauerz&#228;hlstellen geliefert werden, die wie eine Detektorz&#228;hlung ausgewertet wurden. 
+2)  Manuelle Z&#228;hlung 
+Bei der manuellen Z&#228;hlung wird der Verkehr durch einen oder mehrere Z&#228;hler an Ort und Stelle registriert. Je 
+nach Fragestellung k&#246;nnen geschulte Z&#228;hler in unterschiedliche Fahrzeugarten differenzieren. Da eine
+Unterscheidung in mautpflichtiges oder nicht mautpflichtiges Fahrzeug recht schwierig ist, wurden auch hier der 
+SGV und der gesamte Kfz-Verkehr erfasst. Es wurde vor und nach Ausweitung der Mautpflicht auf alle
+Bundesstra&#223;en jeweils in zwei Kalenderwochen gez&#228;hlt, pro Woche an einem repr&#228;sentativen Tag an jeweils 6 
+repr&#228;sentativen Stunden; d. h. 4 mal 6 Stunden. 
+In der Summe wurden an 291 Stellen auf Bundes-, Landes-, Staats-, Kreis- und Gemeindestra&#223;en Z&#228;hlungen 
+durchgef&#252;hrt, die in Tabelle 1 nach ihrer Z&#228;hlart aufgelistet sind. Aus Bild 1 ist die Lage der zus&#228;tzlichen
+Z&#228;hlungen ersichtlich. Somit konnten gemeinsam mit den Dauerz&#228;hlstellen f&#252;r die Untersuchung der Auswirkungen 
+der Bemautung aller Bundesstra&#223;en umfangreiche Z&#228;hlwerte gewonnen werden. 
+Tabelle  1 
+Durchgef&#252;hrte zus&#228;tzliche Vorher-/Nachher-Z&#228;hlungen zum 01.07.2018 
+  Bundesstra&#223;en potentielle Ausweichstrecken 
+Detektorz&#228;hlung 82 116 
+Manuelle Z&#228;hlung 35 58
+Bild  1  
+Lage der durchgef&#252;hrten zus&#228;tzlichen Z&#228;hlungen zur Untersuchung  
+der Bundesstra&#223;enmaut zum 01.07.2018
+4 Untersuchungsmethodik 
+Mit der Inbetriebnahme der Mauterhebungen werden Daten der mautpflichtigen Lkw (&#8805; 7,5 t zGG) auf
+Bundesautobahnen und den bemauteten Bundesstra&#223;en erfasst. Eine weitergehende Erhebung von Fahrzeugen, die auf 
+die mautfreien Landes- und Kreisstra&#223;en ausweichen, ist jedoch nicht m&#246;glich. Daher wurden analog zu den 
+bisherigen Berichten wieder zwei Untersuchungsstr&#228;nge verfolgt: 
+a) Ermittlung von Mautausweichpotenzialen unter Zugrundelegung einer stra&#223;ennetzbasierten
+Modellrechnung (Mit-/Ohne-Fall) aufgrund aktuell vorliegender Eingangsdaten 
+b) Vergleichende Analyse der Entwicklung des schweren G&#252;terverkehrs anhand der Daten der automatischen 
+Dauerz&#228;hlstellen sowie der zus&#228;tzlichen Z&#228;hlungen (Vorher-Nachher-Vergleich) 
+Die Kombination beider Verfahren &#8222;Modellrechnung&#8220; und &#8222;Auswertungen automatischer Dauerz&#228;hlstellen&#8220; 
+(kumuliertes Verfahren) wurde gew&#228;hlt, um die Aussagen m&#246;glichst umfassend abzusichern. 
+Die Ergebnisse beider Untersuchungsans&#228;tze werden in Kapitel 6.4 zusammengef&#252;hrt. 
+(a) Durchf&#252;hrung von Modellrechnungen 
+Die Modellrechnungen wurden von der Ingenieurgruppe IVV-Aachen auf Grundlage der Berechnungen f&#252;r den 
+Bundesverkehrswegeplan (BVWP) zum Netzstand 2018 durchgef&#252;hrt. Zur Absch&#228;tzung des
+Mautausweichpotenzials 2018 wurden die Verkehrsbelastungen im deutschen Stra&#223;ennetz mit Hilfe von
+Routenwahlsimulationen f&#252;r 3 Planf&#228;lle ermittelt: 
+&#61623; Keine Mautpflicht (= Ohne-Maut-Fall) 
+&#61623; Mautpflicht mit durchschnittlich 13,7 Cent/km&lt;1&gt; zum Stand bis 30.06.2018 
+(= Mit-Maut-Fall auf ca. 2.200 km Bundesstra&#223;en) 
+&#61623; Mautpflicht mit durchschnittlich 13,7 Cent/km&lt;1&gt; zum Stand nach 01.07.2018 
+(= Mit-Maut-Fall auf allen Bundesstra&#223;en) 
+Aus dem Vergleich der Verkehrsbelastungen im Mit- und im Ohne-Maut-Fall ergeben sich jeweils die
+Mautausweichpotenziale auf den einzelnen Stra&#223;enabschnitten. Der Mit-Maut-Fall wurde gesplittet, um die Wirkung 
+der Bemautung aller Bundesstra&#223;en beurteilen zu k&#246;nnen. Zun&#228;chst wurde das Streckennetz gegen&#252;ber 2014 
+aktualisiert. Die Netz&#228;nderungen (Neu-/Umbauma&#223;nahmen), verkehrsrechtliche Anordnungen, bemautete
+Bundesstra&#223;en sowie sonstige im Stra&#223;ennetz neu vorhandene Engp&#228;sse f&#252;r schwere Lkw wurden aufgenommen. 
+Im Falle der verkehrsrechtlichen Anordnungen wurde eine 100%ige Befolgung unterstellt. Ebenfalls wurde 
+unterstellt, dass alle Geschwindigkeitsbeschr&#228;nkungen eingehalten werden. Die Verkehrsstr&#246;me im Modell 
+wurden anhand der Mautstatistiken des Bundesamtes f&#252;r G&#252;terverkehr (BAG) fortgeschrieben, wonach die
+gesamte Fahrleistung mautpflichtiger Lkw in Deutschland von 2014 (28,0 Mrd. Lkw-km) bis 2018 (37,7 Mrd. 
+Lkw-km) um ca. 35 % zugenommen hat. Diese hohe Steigerung ist vor allem auf die Erweiterungen des
+mautpflichtigen Streckennetzes zum 01.07.2015 (Ausweitung der Mautpflicht auf ca. 2.200 km Bundesstra&#223;en) und 
+01.07.2018 (Mautpflicht auf allen Bundesstra&#223;en) sowie die Ausweitung der Mautpflicht auf Fahrzeuge
+zwischen 7,5 t und 12 t zGG zum 01.10.2015 zur&#252;ckzuf&#252;hren. Bezogen auf die Fahrleistung auf Bundes-
+autobahnen betr&#228;gt der Anteil des Lkw-Verkehrs in der Gewichtsklasse zwischen 7,5 t und 12 t ca. 6 % des
+mautpflichtigen Lkw-Verkehrs. Auf Bundesstra&#223;en betr&#228;gt dieser Verkehrsanteil ca. 4,2 %. 
+Die Modellsimulationen wurden mit Hilfe des im Jahr 2005 entwickelten speziellen Verfahrens zur Simulation 
+von Mautausweichpotenzialen durchgef&#252;hrt. In diesem Verfahren werden f&#252;r jede einzelne Fahrt eine Route 
+mit und eine Route ohne Ber&#252;cksichtigung der Maut gesucht. Die beiden gefundenen Routen werden jeweils 
+miteinander verglichen und aus dem Vergleich eine m&#246;gliche Mautausweichreaktion abgeleitet. Eine solche 
+Mautausweichreaktion wird im Simulationsprozess nur dann unterstellt, wenn eine Signifikanzschwelle erreicht 
+wird, mit der ein Mindestvorteil einer Mautausweichreaktion definiert ist. 
+Die Routen der schweren Lkw wurden auf der Basis kostenbasierter Widerstandsfunktionen gesucht. Hierzu 
+wurden die Betriebskosten der Lkw (Kosten je Fahrzeug-km) und die Personalkosten (Kosten je Fahrzeug-
+Stunde) unter Einbeziehung streckenbezogener Fahrgeschwindigkeiten zu einer Widerstandsfunktion
+verkn&#252;pft. Durch Beaufschlagung der Betriebskosten auf mautpflichtigen Stra&#223;enabschnitten mit der Maut von 
+durchschnittlich 13,7 Cent/km wurden die kostenbasierten Widerstandsfunktionen f&#252;r schwere Lkw auf
+mautpflichtigen Strecken f&#252;r den Mit-Maut-Fall erstellt. 
+                                                
+&lt;1&gt; Durchschnittlicher Mautsatz 2018 (berechnet aus Marktbeobachtung G&#252;terverkehr, Jahresbericht 2018, BAG)
+Von entscheidender Bedeutung f&#252;r die Simulation der Routenwahl war im vorliegenden Fall die
+Quantifizierung des Kostenvorteils (Signifikanzschwelle), ab dem mautpflichtige Lkw das mautpflichtige Stra&#223;ennetz
+verlassen, um &#252;ber mautfreie Routen des nachgeordneten Stra&#223;ennetzes ihre Ziele zu erreichen. 
+F&#252;r die vorliegende Aufgabenstellung wurden die ben&#246;tigten Reaktionsmuster ermittelt, in dem
+wahrscheinliche Schwellenwerte (Kostenvorteile) so lange ver&#228;ndert wurden, bis die Simulationsergebnisse
+Verlagerungsumf&#228;nge ausgewiesen haben, die an repr&#228;sentativen Stellen auch mit Hilfe der Dauerz&#228;hlungen festgestellt
+worden sind. Zus&#228;tzlich wurden die Ans&#228;tze verifiziert, in dem die per Modellsimulation ermittelten Mengen
+mautpflichtiger Lkw auf Autobahnen in einem iterativen Prozess an die real gemessenen Mengen (Toll-Collect-
+Werte) angepasst wurden. Die so ermittelten Berechnungsergebnisse wurden abschlie&#223;end den
+Stra&#223;enbauverwaltungen der L&#228;nder zur &#220;berpr&#252;fung auf Basis ihrer vorliegenden Ortskenntnisse vorgelegt. Dadurch konnten 
+erg&#228;nzende Informationen &#252;ber bauliche und betriebliche Besonderheiten gewonnen und in das Netzmodell 
+eingepflegt werden. Die Ergebnisse der Modellrechnung wurden damit weiter abgesichert. 
+Die aktuell durchgef&#252;hrten Analysen ergaben, dass &#8211; wie auch in den Analysen f&#252;r die vorangegangenen
+Berichte &#8211; ein Ausweichen auf das nachgeordnete Stra&#223;ennetz bei Kosteneinsparungen in der Gr&#246;&#223;enordnung von 
+ca. 5 Euro oder &gt; 2 % je Fahrt erfolgen d&#252;rfte, wobei im Einzelfall Schwankungen nach oben und unten sehr 
+wahrscheinlich sind. 
+Ein Vergleich dieser Modellrechnung f&#252;r 2018 mit der des Jahres 2014 erm&#246;glicht eine Aussage &#252;ber eine 
+Ver&#228;nderung der Mautausweichpotenziale von 2014 bis 2018. 
+Bei den Ergebnissen der Modellrechnungen ist zu beachten, dass es sich hierbei um Absch&#228;tzungen handelt, 
+die mit gewissen Schwankungsbreiten verbunden sind. F&#252;r die durchgef&#252;hrten Modellrechnungen liegt die
+Modellungenauigkeit bei 50 Lkw/24 h oder 2 Lkw/h. Aus diesem Grund werden die Ergebnisse der
+Modellberechnungen in Belastungsklassen ausgewiesen. 
+(b) Auswertungen von Z&#228;hlungen 
+Auf der Basis der Daten von automatischen Dauerz&#228;hlstellen und zus&#228;tzlichen Z&#228;hlungen auf Bundes-, Landes-, 
+Staats-, Kreis- und Gemeindestra&#223;en hat die Bundesanstalt f&#252;r Stra&#223;enwesen m&#246;gliche Verlagerungen im
+Vorher-Nachher-Vergleich untersucht. 
+Die Daten der automatischen Dauerz&#228;hlstellen werden kontinuierlich erhoben. Es gibt derzeit 1.915
+Dauerz&#228;hlstellen an Bundesfernstra&#223;en, von denen 1.125 auf den Autobahnen und 790 auf Bundesstra&#223;en liegen (Stand 
+2018). Zudem liegen der BASt Dauerz&#228;hlstellendaten von 371 Landes-, Staats-, Kreis- oder Gemeindestra&#223;en 
+vor. 
+Die Erfassung von Lkw &#8805; 7,5 t zGG als eigene Fahrzeugart bzw. -gruppe ist an automatischen Dauerz&#228;hlstellen 
+nicht m&#246;glich. Mautpflichtige Lkw sind aber jeweils in den folgenden Fahrzeugarten enthalten bzw. weitgehend 
+mit diesen Fahrzeugarten identisch: 
+&#61623; Lkw &gt; 3,5 t zGG ohne Anh&#228;nger 
+&#61623; Lkw &gt; 3,5 t zGG mit Anh&#228;nger 
+&#61623; Sattelzug 
+Diese 3 Fahrzeugarten bilden zusammen die Fahrzeuggruppe &#8222;schwerer G&#252;terverkehr&#8220; (SGV), auf die sich die 
+nachfolgenden Analysen beziehen. 
+Die Bundesanstalt f&#252;r Stra&#223;enwesen hat ein Verfahren entwickelt, mit dem sich an Dauerz&#228;hlstellen m&#246;gliche 
+Ver&#228;nderungen in der Verkehrsentwicklung darstellen lassen. Das Verfahren basiert auf einer Summenlinie, bei 
+der die einzelnen Tageswerte eines Jahres chronologisch aufaddiert werden. Die Summe aller Tageswerte
+entspricht dann der Verkehrsmenge eines Jahres. Ohne besondere Einfl&#252;sse ergibt sich ein weitgehend geradliniger 
+Anstieg der Summenlinie. 
+Eine Absch&#228;tzung eines Mautausweichpotenzials 2018 ist mit dem Summenlinien-Verfahren (kumuliertes
+Verfahren) auf Grund des gro&#223;en zeitlichen Abstandes seit der Mauteinf&#252;hrung zum 01.01.2005 nicht m&#246;glich. Die 
+Wirkungen der Maut sind nicht mehr zuverl&#228;ssig von anderen Einfl&#252;ssen (Baustelle, Ortsumgehung, BAB-
+L&#252;ckenschluss) trennbar. Zudem sind f&#252;r dieses Verfahren nahezu l&#252;ckenlose Daten seit der Mauteinf&#252;hrung 
+notwendig. 
+Dieses Verfahren wurde aber genutzt, um die Wirkungen der beiden Gesetzes&#228;nderungen zum 01.10.2015
+(Herabsetzung der Tonnagegrenze auf 7,5 t) und 01.07.2018 (Bemautung aller Bundesstra&#223;en) zu untersuchen.
+Aus der Kenntnis des Anstiegs der Summenlinie ein Jahr vor dem Inkrafttreten einer Gesetzes&#228;nderung wurde 
+die weitere &#8222;normale&#8220; Verkehrsentwicklung mittels eines regressionsanalytischen Ansatzes f&#252;r das
+anschlie&#223;ende Jahr verl&#228;sslich prognostiziert (schwarze Linien im Bild 2). 
+Bild  2 
+Schematische Darstellung einer Summenlinie mit prognostizierten normalen Verkehrsentwicklungen 
+nach dem 01.10.2015 und 01.07.2018 
+Summenlinie der Tageswerte der Lkw &gt; 3,5 t zGG (SGV) 
+ 
+Weicht die tats&#228;chliche Verkehrsentwicklung von der prognostizierten Verkehrsentwicklung ab, so weisen die 
+Summenlinien der entsprechenden Dauerz&#228;hlstellen einen Knick auf. M&#246;gliche Ursachen sind beispielsweise 
+Verkehrsfreigaben (z. B. von Ortsumgehungen) oder auch eine &#196;nderung des Bundesfernstra&#223;enmautgesetzes. 
+Wenn dieser sprunghafte Zuwachs oder R&#252;ckgang mit dem Zeitpunkt des Inkrafttretens einer &#196;nderung im 
+Bundesfernstra&#223;enmautgesetz zusammenf&#228;llt, darf davon ausgegangen werden, dass es sich bei diesen
+ausweichenden Fahrzeugen um Lkw &#8805; 7,5 t zGG handelt, da ausschlie&#223;lich f&#252;r diese Nutzfahrzeuge ein Anreiz besteht, 
+mautbedingt die Streckenwahl zu &#228;ndern. 
+Die Summenlinie in Bild 2 zeigt beispielhaft einen R&#252;ckgang des Lkw-Verkehrs zum 01.10.2015 gegen&#252;ber 
+der prognostizierten schwarzen Linie. Die Lkw sind aufgrund der Ausweitung der Mautpflicht auf Fahrzeuge 
+zwischen 7,5 t und 12 t zGG auf andere Strecken ausgewichen. Zum 01.07.2018 zeigt sich in diesem Beispiel 
+ein Anstieg des Lkw-Verkehrs gegen&#252;ber der prognostizierten Entwicklung. Durch die Bemautung aller
+Bundesstra&#223;en ist der Lkw-Verkehr somit auf diese Strecke zur&#252;ckgekehrt. 
+Dies erm&#246;glicht eine Absch&#228;tzung der H&#246;he der mautbedingten &#196;nderung aus der Differenz der tats&#228;chlich 
+gez&#228;hlten Verkehrsmenge und der aus der Verkehrsmenge prognostizierten Entwicklung. Mit dem vorgestellten 
+sog. &#8222;kumulierten Verfahren&#8220; lassen sich Verkehrsverlagerungen ermitteln, die auf die &#196;nderung des
+Bundesfernstra&#223;enmautgesetzes zur&#252;ckzuf&#252;hren sind. F&#252;r dieses Verfahren gilt, dass es wie jedes Sch&#228;tzverfahren mit 
+gewissen Schwankungsbreiten verbunden ist. Es st&#246;&#223;t z. B. dann an seine Grenze, wenn die Einf&#252;hrung der 
+Lkw-Maut mit einem anderen Ereignis wie der Fertigstellung einer Ortsumgehung zeitlich zusammenf&#228;llt. In 
+einem solchen Fall lassen sich die Auswirkungen dieser beiden Ereignisse nicht mehr trennen. 
+Nach dieser bundesweiten Auswertung der Dauerz&#228;hlstellen kann abschlie&#223;end aus den so ermittelten Daten 
+mit Hilfe eines bei der Bundesanstalt f&#252;r Stra&#223;enwesen regelm&#228;&#223;ig angewandten Verfahrens die bundesweite 
+Entwicklung des schweren G&#252;terverkehrs auf den Bundesstra&#223;en insgesamt abgesch&#228;tzt werden. 
+Zur Erg&#228;nzung der Dauerz&#228;hlstellenauswertungen haben die L&#228;nder vor und nach der Erweiterung der
+Mautpflicht auf alle Bundesstra&#223;en zum 01.07.2018 zus&#228;tzliche Z&#228;hlungen manuell oder per Detektor durchgef&#252;hrt. 
+Im Gegensatz zu den Daten der Dauerz&#228;hlstellen liegen diese Daten nur f&#252;r einen begrenzten Zeitraum vor. F&#252;r 
+einen Vorher-Nachher-Vergleich kann daher nicht auf die Summenlinienberechnung zur&#252;ckgegriffen werden. 
+Stattdessen ist die Berechnung eines DTVSV-Wertes vor und eines DTVSV-Wertes nach der Erweiterung der 
+Mautpflicht auf alle Bundesstra&#223;en erforderlich.
+Aus den Daten, deren Z&#228;hlungen an Werktagen (Mo-Fr) in Wochen ohne Ferien-, Feiertags-, Witterungs- und 
+sonstigen Einfl&#252;ssen (W5) stattfanden, konnten somit durchschnittliche Verkehrswerte ermittelt werden, die 
+den Verkehr jeweils vor und nach Einf&#252;hrung der B-Maut repr&#228;sentieren. Bei den Detektorz&#228;hlungen liegen 
+zwar Daten Mo-So vor, da aber die Wochenenden beim Lkw-Verkehr sehr inhomogen ausfallen, wurden auch 
+hier nur die Z&#228;hlwerte Mo-Fr ausgewertet. 
+F&#252;r die Umrechnung auf die durchschnittlichen t&#228;glichen Verkehrsst&#228;rken wurde auf die Faktoren der
+Untersuchung der Auswirkungen der Einf&#252;hrung der Bundesstra&#223;enmaut (ca. 1.100 km, 01.08.2012) zur&#252;ckgegriffen. 
+Diese wurden auf Basis der Daten von 740 Dauerz&#228;hlstellen auf Bundesstra&#223;en des von der Bundesstra&#223;enmaut 
+unbeeinflussten Jahres 2011 berechnet (siehe Bundestagsdrucksache 18/689). 
+Die so berechneten Verkehrsentwicklungen von vor Ausweitung der Maut auf alle Bundesstra&#223;en zu danach 
+sind nicht unbedingt allein auf die Maut zur&#252;ckzuf&#252;hren, da auch andere Faktoren die Verkehrsentwicklung 
+beeinflussen k&#246;nnen. Nur wenn der Verkehr auf der bemauteten Strecke signifikant zur&#252;ckgegangen und auf 
+der Ausweichstrecke angestiegen ist und keine anderweitigen Gr&#252;nde f&#252;r die Entwicklungen vorliegen (z. B. 
+Umleitungsverkehre), ist ein Mautausweichverkehr in Betracht zu ziehen. 
+Die beiden beschriebenen Verfahren &#8222;Auswertung der Entwicklung des schweren G&#252;terverkehrs an den
+Dauerz&#228;hlstellen und zus&#228;tzlichen Z&#228;hlungen&#8220; sowie &#8222;Modellsimulation der ausweichenden Lkw&#8220; werden am Ende 
+zusammengef&#252;hrt. Somit werden reale Z&#228;hlwerte und per Simulation ermittelte Verkehre abgeglichen und nicht 
+mautbedingte Einfl&#252;sse weitestgehend eliminiert. Diese Kombination erm&#246;glicht eine umfassende Aussage 
+zum Mautverlagerungsverkehr. 
+Die Ergebnisse wurden mit den L&#228;ndern abgestimmt. Mit deren Ortskenntnissen konnten die
+Verkehrsentwicklungen beurteilt und Fehleinsch&#228;tzungen zu den Mautausweichverkehren festgestellt und korrigiert werden. 
+5 Allgemeine Verkehrsentwicklung 
+Bundesweite Fahrleistungsangaben liegen nur f&#252;r den Schwerverkehr vor. Dieser setzt sich aus den
+Fahrzeugarten Lkw &gt; 3,5 t zGG mit und ohne Anh&#228;nger, Sattelz&#252;ge und Busse zusammen. 
+Die Verkehrsentwicklung der letzten Jahre (Bild 3) zeigt, dass die Jahresfahrleistungen im Schwerverkehr auf 
+Autobahnen im Jahr der Mauteinf&#252;hrung 2005 gesunken sind und anschlie&#223;end bis 2007 wieder anstiegen. Die 
+Wirtschaftskrise ab Ende 2008 zeigte sich in einem noch deutlicheren R&#252;ckgang der Fahrleistung. Die Erholung 
+der Konjunktur f&#252;hrte zu einem stetigen Anstieg der Fahrleistung, die lediglich im Jahr 2012 durch die
+Eurokrise&lt;2&gt; einen leichten R&#252;ckgang erfuhr. Im Jahr 2015 ist mit 34,9 Mrd. Fzg-km das Vorkrisenniveau des Jahres 
+2007 wieder erreicht, die Fahrleistung stieg weiter bis 2018 auf 38,4 Mrd. Fzg-km. 
+Auf au&#223;er&#246;rtlichen Bundesstra&#223;en hingegen wurde von 2004 nach 2005 durch die Mauteinf&#252;hrung ein leichter 
+Anstieg um 0,4 Mrd. Fzg-km auf insgesamt 9,1 Mrd. Fzg-km festgestellt. Dieser Wert liegt somit deutlich unter 
+dem R&#252;ckgang auf den Autobahnen im gleichen Zeitraum. Seitdem stagnieren die Jahresfahrleistungen im 
+Schwerverkehr bei etwa 9 Mrd. Fzg-km. 
+                                                
+&lt;2&gt;  Schuldenkrise im Euroraum &#8211; siehe dazu: 
+&#8211; Gleitende Mittelfristprognose f&#252;r den G&#252;ter- und Personenverkehr, Mittelfristprognose Winter 2012/13 im Auftrag des
+Bundesministeriums f&#252;r Verkehr, Bau und Stadtentwicklung 
+&#8211; Marktbeobachtung G&#252;terverkehr, Bericht Herbst 2012, Bundesamt f&#252;r G&#252;terverkehr
+Bild  3 
+Entwicklung der Fahrleistungen im Schwerverkehr  
+(Lkw &gt; 3,5 t zGG mit und ohne Anh&#228;nger + Sattelz&#252;ge + Busse)  
+auf Autobahnen und au&#223;er&#246;rtlichen Bundesstra&#223;en 2003 bis 2018  
+ 
+Quelle: BASt 
+Die allgemeine Verkehrsentwicklung kann nur den allgemeinen Trend wiedergeben. Die Ver&#228;nderungen an den 
+einzelnen Streckenabschnitten dagegen variieren betr&#228;chtlich. Zuw&#228;chse im Schwerverkehr in einer
+Gr&#246;&#223;enordnung von weit &#252;ber 100 % oder R&#252;ckg&#228;nge von &#252;ber 80 % an Streckenabschnitten sind oftmals zu
+beobachten. Ursache hierf&#252;r sind u. a. Verlagerungen auf Neubaustrecken (z. B. Autobahnen, Umgehungsstra&#223;en),
+siedlungsstrukturelle Ver&#228;nderungen (z. B. Ansiedlung eines Gewerbegebietes) oder zeitweise Verlagerungen in 
+Folge von Baustellen. 
+6 Ergebnisse der Untersuchungen 
+6.1 Entwicklung des DTVSGV an Dauerz&#228;hlstellen auf Bundesstra&#223;en 
+Die Verkehrsentwicklung des schweren G&#252;terverkehrs (SGV) stellt sich auf Bundesstra&#223;en insgesamt sehr
+unterschiedlich dar: Wie bereits in der Vergangenheit festgestellt, sind sowohl Zunahmen als auch Abnahmen zu 
+verzeichnen. Dar&#252;ber hinaus stagniert die Verkehrsentwicklung aber auch an zahlreichen Z&#228;hlstellen. 
+6.1.1 Mautbedingte Entwicklungen in Folge der Erweiterung der Mautpflicht auf Fahrzeuge 
+&#8805; 7,5 t zGG zum 01.10.2015 
+Zur Ermittlung der mautbedingten Verlagerungen in Folge der ab 01.10.2015 geltenden Erweiterung der
+Mautpflicht auf Fahrzeuge &#8805; 7,5 t wurden mit Hilfe des in Kapitel 4 dargestellten sog. &#8222;kumulierten Verfahrens&#8220; auf 
+der Basis der Summenlinien die mautbedingten Ver&#228;nderungen berechnet und in Bild 4 grafisch dargestellt. 
+Im Untersuchungszeitraum waren 1.100 Dauerz&#228;hlstellen aktiv. Davon sind an 938 Dauerz&#228;hlstellen auf
+Bundes-, Landes-, Staats-, Kreis- und Gemeindestra&#223;en keine signifikanten Ver&#228;nderungen in Folge der
+Herabsetzung der Tonnagegrenze auf &#8805; 7,5 t zGG eingetreten. An 132 Dauerz&#228;hlstellen auf Bundesstra&#223;en und 24 im 
+den Bundesfernstra&#223;en nachgeordneten Netz sind signifikante Zunahmen zu verzeichnen, an 6 Dauerz&#228;hlstellen 
+(alle auf Bundesstra&#223;en) ging der Verkehr mautbedingt zur&#252;ck.
+Bild  4  
+Mautbedingte Entwicklung der Durchschnittlichen T&#228;glichen Verkehrsst&#228;rke (DTV) 
+von Lkw &gt; 3,5 t zGG an Dauerz&#228;hlstellen im nachgeordneten Netz zum Zeitpunkt 01.10.2015
+6.1.2 Mautbedingte Entwicklungen in Folge der Erweiterung der Mautpflicht auf alle
+Bundesstra&#223;en zum 01.07.2018 
+Eine weitere Berechnung auf der Basis der Summenlinien wurde zum Zeitpunkt der Erweiterung der
+Mautpflicht auf alle Bundesstra&#223;en (01.07.2018) durchgef&#252;hrt. Es konnten im Untersuchungszeitraum 981
+Dauerz&#228;hlstellen ausgewertet werden. Die Ergebnisse sind in Bild 5 grafisch dargestellt. 
+Zur Erg&#228;nzung des Dauerz&#228;hlstellennetzes haben die L&#228;nder vor und nach dem 01.07.2018 zus&#228;tzliche
+Z&#228;hlungen durchgef&#252;hrt. Mit dem in Kapitel 4 beschriebenen Verfahren wurden die Entwicklungen vor und nach dem 
+01.07.2018 berechnet und gemeinsam mit den Dauerz&#228;hlstellenergebnissen ebenfalls in Bild 5 dargestellt. 
+Insgesamt sind an 866 Dauerz&#228;hlstellen und 285 zus&#228;tzlichen Z&#228;hlungen auf Bundes-, Landes-, Staats-, Kreis- 
+und Gemeindestra&#223;en keine signifikanten Ver&#228;nderungen in Folge der Ausweitung der Mautpflicht auf alle 
+Bundesstra&#223;en zum 01.07.2018 eingetreten. An 80 Dauerz&#228;hlstellen und zus&#228;tzlichen Z&#228;hlungen auf
+Bundesstra&#223;en sind signifikante Abnahmen zu verzeichnen, an 31 stieg der Verkehr mautbedingt an. Im den
+Bundesfernstra&#223;en nachgelagerten Netz sind bei 39 Z&#228;hlungen mautbedingte Zunahmen zu verzeichnen.
+Bild  5  
+Mautbedingte Entwicklung der Durchschnittlichen T&#228;glichen Verkehrsst&#228;rke (DTV) 
+von Lkw &gt; 3,5 t zGG an Dauerz&#228;hlstellen und zus&#228;tzlichen Z&#228;hlungen  
+im nachgeordneten Netz zum Zeitpunkt 01.07.2018
+6.2 Ma&#223;nahmenwirkung 
+Um im Einzelfall auf extreme mautbedingte Zunahmen auf einer Bundesstra&#223;e reagieren zu k&#246;nnen, stehen 
+Bund und L&#228;ndern im Wesentlichen zwei M&#246;glichkeiten zur Verf&#252;gung, deren Wirkungen in den
+vorangegangenen Berichten bereits ausf&#252;hrlich untersucht wurden: 
+&#8211; Bemautung der Bundesstra&#223;e nach &#167; 1 des Bundesfernstra&#223;enmautgesetzes (BFStrMG), 
+&#8211; verkehrsrechtliche Anordnungen nach &#167; 45 der Stra&#223;enverkehrs-Ordnung (StVO). 
+Durch die Einbeziehung aller Bundesstra&#223;en in die Mautpflicht ab dem 01.07.2018 ist die erste Ma&#223;nahme 
+bezogen auf die Bemautung einer Bundesstra&#223;e hinf&#228;llig geworden. Der Bund hat allerdings durch &#167; 1 Absatz 4 
+BFStrMG die M&#246;glichkeit, die Mautpflicht auf genau bezeichnete Abschnitte von Stra&#223;en nach Landesrecht 
+auszudehnen. Diese M&#246;glichkeit ist bisher nicht zur Anwendung gekommen. 
+Die erlassenen verkehrsrechtlichen Anordnungen nach &#167; 45 StVO wurden von den L&#228;ndern wegen der
+Bemautung aller Bundesstra&#223;en zum 01.07.2018 teilweise wieder zur&#252;ckgenommen. Auf einigen
+Bundesstra&#223;enabschnitten besteht nun aber eine &#220;berlagerung von Mautpflicht und Sperrung nach &#167; 45 StVO. Auf Grund des 
+geringen zeitlichen Abstandes seit Ausdehnung der Mautpflicht k&#246;nnen keine belastbaren R&#252;ckschl&#252;sse auf die 
+Wirkungen dieser &#220;berlagerungen vorgenommen werden. 
+6.3 Modellrechnung 
+Die Ergebnisse der Dauerz&#228;hlstellen k&#246;nnen Verkehrsentwicklungen auf Bundes- und Landesstra&#223;en lediglich 
+punktuell verdeutlichen. Die Ausstattung aller Streckenabschnitte mit Dauerz&#228;hlstellen ist wirtschaftlich nicht 
+sinnvoll. Dar&#252;ber hinaus ist aus den Daten von Dauerz&#228;hlstellen lediglich eine Untersuchung der Wirkung der 
+zeitnahen Gesetzes&#228;nderungen m&#246;glich. Bei dem gro&#223;en zeitlichen Abstand zwischen dem Beginn der
+Mauterhebung (01.01.2005) und 2018 k&#246;nnen jedoch keine gesicherten Aussagen &#252;ber die Mautausweichpotenziale 
+getroffen werden. Daher wurden mit erg&#228;nzenden Modellberechnungen netzweite Ergebnisse ermittelt, die mit 
+den Daten der Dauerz&#228;hlstellen und der Mauterhebung kalibriert wurden. Es wurden durch
+Vergleichsberechnungen mit/ohne Maut die Verkehre ermittelt, die nur wegen der Maut diese Strecke nutzen w&#252;rden. 
+6.3.1 Verlagerungspotenzial 
+Zur Ermittlung eines m&#246;glichen Verlagerungspotenzials wurden in einem ersten Schritt alle einzelnen
+Fahrtrelationen der mautpflichtigen Lkw 2018 daraufhin &#252;berpr&#252;ft, ob &#8211; bei einem stringenten Kostenvergleich &#8211; durch 
+die Wahl einer Route ohne bzw. mit geringerem Anteil an mautpflichtigen Strecken Kostenvorteile von
+mindestens 1 Euro/Fahrt erzielt werden k&#246;nnen. Diese Selektion wurde einerseits aus arbeits&#246;konomischen
+Gr&#252;nden vorgenommen, andererseits wurde auf diese Weise eine Vergleichsm&#246;glichkeit zu den Untersuchungen der 
+Mautausweichpotenziale 2005, 2007, 2011 und 2014 geschaffen, wo ebenfalls solche Vorauswahlen
+durchgef&#252;hrt worden sind.
+Bild  6  
+Verteilung der Fahrten mit Lkw &#8805; 7,5 t zGG nach Kostenvorteilen bei mautbedingten Verlagerungen  
+ 
+Quelle: Ingenieurgruppe IVV-Aachen, eigene Darstellung 
+Das Ergebnis der Vorauswahl 2018 ist im Bild 6 zusammenfassend wiedergegeben. Daraus geht hervor, dass 
+bei Mautausweichreaktionen f&#252;r 1,2 % der Fahrten Kosten von &gt; 1 Euro/Fahrt eingespart werden k&#246;nnten. Im 
+Vergleich zu 2014 (4,5 %) ist dieser Wert deutlich zur&#252;ckgegangen: 
+Jahr durchschnittlicher Mautsatz Kostenersparnis &gt; 1 Euro/Fahrt 
+2005 12,4 Cent/km bei 3,0 % der Fahrten 
+2007 13,5 Cent/km bei 4,1 % der Fahrten 
+2011 16,9 Cent/km bei 4,8 % der Fahrten 
+2014 15,9 Cent/km bei 4,5 % der Fahrten 
+2018 13,7 Cent/km bei 1,2 % der Fahrten 
+Der durchschnittliche Mautsatz ist seit 2011 gesunken, was auf den zunehmenden Einsatz umweltfreundlicherer 
+Lkw zur&#252;ckzuf&#252;hren ist, f&#252;r die ein geringerer Mautsatz zu zahlen ist. Im Jahr 2015 sind weitere ca. 1.100 km 
+Bundesstra&#223;en mautpflichtig geworden und das Fahrzeugkollektiv hat sich deutlich ge&#228;ndert, da auch
+Fahrzeuge zwischen 7,5 t und 12 t zGG mautpflichtig geworden sind. Somit stiegen die mautpflichtigen
+Fahrleistungen stark an. Zus&#228;tzlich wurden die Mauts&#228;tze zum 01.01.2015 und zum 01.10.2015 gesenkt. Insgesamt 
+gingen die Mauteinnahmen um 1,9 % gegen&#252;ber dem Vorjahr zur&#252;ck.1 Somit l&#228;sst sich der starke R&#252;ckgang 
+des durchschnittlichen Mautsatzes im Jahr 2018 gegen&#252;ber 2014 in H&#246;he von fast 14 % erkl&#228;ren. 
+Der deutliche R&#252;ckgang des Verlagerungspotentials ist allerdings vor allem auf die Einbeziehung des gesamten 
+Bundesstra&#223;ennetzes in die Mautpflicht zur&#252;ckzuf&#252;hren, da dadurch kostensparende mautfreie Alternativrouten 
+seltener geworden sind. F&#252;r fast 99 % der mautpflichtigen Lkw stellt ein Ausweichen von dem mautpflichtigen 
+Stra&#223;ennetz auf das mautfreie nachgeordnete Netz keine Alternative dar (Kostenvorteil kleiner 1 Euro). Nur bei 
+0,1 % der Fahrten f&#252;hren Ausweichreaktionen zu Kosteneinsparungen von mehr als 5 Euro/Fahrt. 
+                                                
+1  siehe Marktbeobachtung G&#252;terverkehr, Jahresberichte 2011-2018, BAG 
+Anteil Lkw &#8805; 7,5 t zGG [%] 
+    Kostensenkung     m&#246;glich f&#252;r 
+ &gt; 1 &#8364;  1,2 % der Fahrten 
+ &gt; 5 &#8364;  0,1 % der Fahrten 
+m&#246;gliche Kosteneinsparung / Fahrt [%]
+F&#252;r die durchgef&#252;hrten Modellrechnungen wurde, wie in dem vorherigen Bericht, eine Abschneidegrenze
+(Signifikanzschwelle) von mindestens 5 Euro Kostenersparnis oder &gt; 2 % der Transportkosten unterstellt. Die
+insgesamt getroffenen Annahmen konnten mit Hilfe der Ergebnisse der Dauerz&#228;hlstellenauswertungen verifiziert 
+werden. 
+6.3.2 Mautbedingte Verkehrsverlagerungen bis zum 30.06.2018 
+Um die Auswirkungen der Einbeziehung aller Bundesstra&#223;en in die Mautpflicht absch&#228;tzen zu k&#246;nnen, wurde 
+zun&#228;chst eine Modellberechnung zum Stand 30.06.2018 durchgef&#252;hrt. Bis zu diesem Zeitpunkt waren nur die 
+Autobahnen und ca. 2.200 km Bundesstra&#223;enabschnitte mautpflichtig. 
+Das Ergebnis dieser Modellberechnungen ist in Bild 7 in Form von mautbedingten Belastungsdifferenzen der 
+Lkw &#8805; 7,5 t zGG dargestellt (l&#228;nderbezogene Darstellungen befinden sich im Anhang). Hierf&#252;r wurden die 
+mautbedingten Belastungszunahmen in f&#252;nf Verlagerungsklassen zusammengefasst. Diese
+Belastungsdifferenzen ergeben sich aus dem Vergleich der Verkehrsbelastung im Bundesstra&#223;ennetz ohne und mit
+Ber&#252;cksichtigung der Lkw-Maut und geben somit ausschlie&#223;lich die auf die Maut zur&#252;ckzuf&#252;hrenden
+Verlagerungspotenziale wieder. Die wegen Mautausweichverkehr von den L&#228;ndern angeordneten Sperrungen bzw. vom Bund 
+erlassene Bemautungen von Bundesstra&#223;en sind dabei ber&#252;cksichtigt. Nicht mautbedingte Verlagerungen, die 
+z. B. auf Langzeit-Baustellen im Autobahnnetz etc. zur&#252;ckzuf&#252;hren sind, sind im Bild 7 nicht enthalten. 
+Zusammenfassend sind in dieser Darstellung 72,6 % der L&#228;ngenanteile des Bundesstra&#223;ennetzes keinem
+signifikanten Mautausweichverkehr zugeordnet. Nur 0,2 % der Bundesstra&#223;enkilometer weisen mautbedingte
+Mehrbelastungen von &#252;ber 500 Lkw &#8805; 7,5 t zGG/Werktag (entspricht ca. 20 Lkw/h) auf.
+Bild  7  
+Mautbedingte Verkehrsverlagerungen des Lkw-Verkehrs &#8805; 7,5 t zGG f&#252;r das bis 30.06.2018 g&#252;ltige, 
+mautpflichtige Stra&#223;ennetz (Ergebnis der Modellrechnungen) 
+ 
+Quelle: Ingenieurgruppe IVV-Aachen
+6.3.3 Mautbedingte Verkehrsverlagerungen ab 01.07.2018 
+Ab dem 01.07.2018 sind alle Bundesstra&#223;en mautpflichtig. Eine erneute Modellberechnung zu diesem Stand 
+wurde durchgef&#252;hrt und in Bild 8 in Form von mautbedingten Belastungsdifferenzen der Lkw &#8805; 7,5 t zGG
+dargestellt (l&#228;nderbezogene Darstellungen im Anhang). Auch in dieser Darstellung sind ausschlie&#223;lich die auf die 
+Maut zur&#252;ckzuf&#252;hrenden Verlagerungspotenziale wiedergegeben und die von den L&#228;ndern angeordneten
+Sperrungen ber&#252;cksichtigt. 
+Zus&#228;tzlich ist in Bild 9 eine m&#246;gliche Verlagerungswirkung auf das Landes- und Staatsstra&#223;ennetz dargestellt. 
+Die Landes-/Staatsstra&#223;en wurden separat behandelt, da die Aussagegenauigkeit zum Lkw-Verkehr wegen
+geringerer Fallzahlen und st&#228;rker schwankender Verkehrsmengen (Baustellenverkehr, Speditionsverkehr, ...) 
+deutlich abgeschw&#228;cht ist. Daher wird bei dieser Darstellung auf eine Klassifizierung verzichtet und lediglich 
+von einer vermuteten Zu-/Abnahme gesprochen. Die Modellsimulation hat ergeben, dass nur 0,6 % der
+Fahrleistung mautpflichtiger Lkw vom mautpflichtigen Bundesfernstra&#223;ennetz auf das mautfreie nachgeordnete 
+Stra&#223;ennetz verlagert wird. 
+Zusammenfassend sind 94,8 % der L&#228;ngenanteile des Bundesstra&#223;ennetzes und 92,7 % des Landes- und
+Staatsstra&#223;ennetzes keinem signifikanten Mautausweichverkehr zugeordnet.
+Bild  8  
+Mautbedingte Verkehrsverlagerungen des Lkw-Verkehrs &#8805; 7,5 t zGG f&#252;r das ab dem 01.07.2018 
+g&#252;ltige mautpflichtige Stra&#223;ennetz, Verlagerungen im Bundesstra&#223;ennetz  
+(Ergebnis der Modellrechnungen) 
+ 
+Quelle: Ingenieurgruppe IVV-Aachen
+Bild  9 
+Mautbedingte Verkehrsverlagerungen des Lkw-Verkehrs &#8805; 7,5 t zGG f&#252;r das ab dem 01.07.2018 
+g&#252;ltige mautpflichtige Stra&#223;ennetz, Verlagerungen imLandes- und Staatsstra&#223;ennetz  
+(Ergebnis der Modellrechnungen) 
+ 
+Quelle: Ingenieurgruppe IVV-Aachen
+6.3.4 Entwicklung der Mautausweichpotenziale von 2014 bis 2018 
+In Bild 10 sind die Ergebnisse der Modellrechnungen f&#252;r 2014 und 2018 zusammengefasst. Es zeigt sich, dass 
+auf der Basis der Modellrechnungen bis Juni 2018 keine nennenswerte Ver&#228;nderung eingetreten ist. Auf 10 % 
+der Strecken ist eine Zunahme in der Belastungsklasse 50-150 Lkw/Werktag zu verzeichnen. Dem stehen
+Abnahmen in den h&#246;heren Belastungsklassen gegen&#252;ber, so dass insgesamt nur eine leichte Zunahme um + 2 % 
+zu verzeichnen ist. Somit haben der geringere durchschnittliche Mautsatz und die Erweiterung des
+mautpflichtigen Stra&#223;ennetzes um weitere 1.100 km Bundesstra&#223;en eine m&#246;gliche Verlagerung der in die Mautpflicht 
+aufgenommenen Fahrzeugkategorie zwischen 7,5 t und 12 t weitestgehend ausgeglichen. 
+Die Einf&#252;hrung der Mautpflicht auf allen Bundesstra&#223;en ab 01.07.2018 hat eine deutliche Wirkung im
+Bundesstra&#223;ennetz. Auf ca. 22 % des Bundesstra&#223;ennetzes sind die bisher berechneten Mautausweichverkehre nicht 
+mehr signifikant nachweisbar; das entspricht einem R&#252;ckgang um ca. 81 %. In der Summe verzeichnen weniger 
+als 2.000 Bundesstra&#223;enkilometer Mehrbelastungen durch die Lkw-Maut. Aus den Auswertungen der
+Verkehrssimulationen l&#228;sst sich ableiten, dass &#8211; bezogen auf die Fahrleistung &#8211; ca. 40 % aller, der Maut
+ausweichenden Verkehre, durch die Ausweitung der Maut auf alle Bundesfernstra&#223;en wieder auf die Autobahnen
+zur&#252;ckverlagert wurden. Nur 0,6 % der Fahrleistung des mautpflichtigen Lkw-Verkehrs verlagert sich vom
+mautpflichtigen Bundesfernstra&#223;ennetz ins nachgeordnete Stra&#223;ennetz. 
+Bild  10 
+Zusammenfassender Vergleich der Mautausweichpotenziale 2014 und 2018 
+Mehrbelastungen  
+pro Werktag 
+Kilometer Bundesstra&#223;en au&#223;erorts und innerorts  
+[km] 
+2014 
+(Lkw &#8805; 12 t) 
+bis 06.2018 
+(Lkw &#8805; 7,5 t) 
+ab 07.2018 
+Lkw &#8805; 7,5 t) 
+50 &#8211; 150 Lkw &#8805; 7,5 t /Werktag 7.994 8.776 + 10 % 1.760 - 78% 
+150 &#8211; 250 Lkw &#8805; 7,5 t /Werktag 1.708 1.168 -32 % 191 - 89 % 
+250 &#8211; 500 Lkw &#8805; 7,5 t /Werktag 461 431 - 7 % 18 - 96 % 
+&#220;ber 500 Lkw &#8805; 7,5 t /Werktag 105 81 - 23 % 0 - 100 % 
+Summe 10.268 10.456 + 2 % 1.969 - 81 % 
+Quelle: Ingenieurgruppe IVV-Aachen 
+6.4 Zusammenfassung der Ergebnisse 
+Bei der Darstellung der Ergebnisse ist zwischen der Ver&#228;nderung der Verkehrsbelastung bezogen auf das Jahr 
+vor der Einf&#252;hrung der Lkw-Maut auf Autobahnen (2004) und der Ver&#228;nderung im Berichtszeitraum (2014 bis 
+2018) zu unterscheiden. 
+Die Verkehrsentwicklung des schweren G&#252;terverkehrs auf Bundesstra&#223;en auf Basis der
+Dauerz&#228;hlstellenergebnisse, bezogen auf das Jahr 2004, ist in Tabelle 2 dargestellt. Die Ver&#228;nderungen 2004/05, 2004/07, 2004/11 
+und 2004/14 sind dem Bericht vom 30.11.2016 entnommen. 
+Auf Bundesstra&#223;en ist der DTV-Wert des schweren G&#252;terverkehrs von 2004 nach 2018 leicht gestiegen 
+(+ 6,9 %, siehe Tabelle 2). Der mittlere mautbedingte Zuwachs wurde aus den Summenlinien ermittelt. Im
+Ergebnis betr&#228;gt der mittlere mautbedingte Zuwachs von 2004 nach 2018 +3 Fahrzeuge pro 24h (+ 0,5 %) und ist 
+somit im Vergleich zu 2014 deutlich zur&#252;ckgegangen. 
+Die Jahresfahrleistung des schweren G&#252;terverkehrs ist zwischen 2004 und 2018 um 0,54 Mrd. Fahrzeug-km 
+gestiegen (+ 6,8 %), der mautbedingte Zuwachs wird mit ca. 0,04 Mrd. Fahrzeug-km gesch&#228;tzt (+ 0,4 %).
+Tabelle  2 
+Entwicklung der DTV-Werte von Lkw &gt; 3,5 t zGG (SGV) auf au&#223;er&#246;rtlichen Bundesstra&#223;en 
+DTV-Werte 
+Lkw &gt; 3,5 t zGG 
+Ver&#228;nderung 
+2004/05 
+Ver&#228;nderung 
+2004/07 
+Ver&#228;nderung 
+2004/11 
+Fz/24 h % Fz/24 h % Fz/24 h % 
+DTVMo-So  + 50 + 7,2 + 38 + 5,5 + 20 + 2,9 
+DTVMo-So nachts + 13 + 15,1 + 10 + 11,6 + 8 + 9,6 
+DTVMo-So tags&#252;ber + 39 + 6,4 + 30 + 5,1 + 14 + 2,4 
+DTVMo-So mautbedingt +31 + 4,5 + 27 + 3,9 + 26 + 3,7 
+ 
+DTV-Werte 
+Lkw &gt; 3,5 t zGG 
+Ver&#228;nderung 
+2004/14 
+Ver&#228;nderung 
+2004/18 
+Fz/24 h % Fz/24 h % 
+DTVMo-So  + 12 + 1,7 + 47 + 6,9 
+DTVMo-So nachts + 5 + 5,6 + 12 + 13,6 
+DTVMo-So tags&#252;ber + 9 + 1,5 + 39 +6,5 
+DTVMo-So mautbedingt + 22 + 3,2 + 3 + 0,5
+Tabelle  3  
+Mehrbelastungen auf Bundesstra&#223;en infolge von Mautausweichverkehren  
+(bis 2014 nur mautfreie Bundesstra&#223;enkilometer) 
+Mehrbelastung 
+je Werktag1 
+DTVw 
+ 
+[Lkw ab 12 t zGG] 
+Kilometer Bundesstra&#223;en 
+2005 2007 2011 
+gerundete 
+Werte 
+[km] 
+Anteil an
+Gesamtl&#228;nge 
+gerundete 
+Werte 
+[km] 
+Anteil an
+Gesamtl&#228;nge 
+gerundete 
+Werte 
+[km] 
+Anteil an
+Gesamtl&#228;nge 
+&#8804; 50 30.200 73,3 % 30.600 74,3 % 29.000 72,5 % 
+50 &#8211; 150 8.900 21,6 % 8.100 19,5 % 8.400 20,9 % 
+150 &#8211; 250 1.200 2,9 % 1.800 4,4 % 1.800 4,5 % 
+250 &#8211; 500 600 1,5 % 500 1,2 % 500 1,4 % 
+&gt; 500 300 0,7 % 200 0,5 % 300 0,7 % 
+ 
+Mehrbelastung 
+je Werktag1 
+DTVw 
+ 
+[Lkw ab 12 t zGG] 
+Kilometer Bundesstra&#223;en 
+2014 2018 
+gerundete 
+Werte 
+[km] 
+Anteil an
+Gesamtl&#228;nge 
+gerundete 
+Werte 
+[km] 
+Anteil an
+Gesamtl&#228;nge 
+&#8804; 50 27.400 72,8 % 36.000 94,8 % 
+50 &#8211; 150 8.000 21,2 % 1.800 4,6 % 
+150 &#8211; 250 1.700 4,5 % 200 0,5 % 
+250 &#8211; 500 500 1,2 % 20 &lt; 0,1 % 
+&gt; 500 100 0,3 % 0 0,0 % 
+1 Mo - Sa (ohne Urlaubswerktage) 
+Die in Bild 8 dargestellten mautbedingten Mehrbelastungen 2018 (ab 01.07.2018) sind in Tabelle 3
+l&#228;ngenbezogen zusammengefasst. Aus den Berechnungen geht hervor, dass f&#252;r 94,8 % der Bundesstra&#223;enkilometer keine 
+mautbedingten Mehrbelastungen 2018 festzustellen sind. Zum Vergleich sind die Ergebnisse von 2005, 2007, 
+2011 und 2014 mit aufgef&#252;hrt. Bei den Bundesstra&#223;enl&#228;ngen ist dabei zu beachten, dass bis 2014 nur die nicht 
+bemauteten L&#228;ngen betrachtet wurden. 
+Bei der Interpretation der Ergebnisse ist zu beachten, dass es sich bei den durchgef&#252;hrten Berechnungen zum 
+Teil um Absch&#228;tzungen handelt, die mit gewissen Schwankungsbreiten verbunden sind. Die
+Modellungenauigkeit liegt hier bei 50 Lkw/24 h. Auch geht die Modellrechnung von Kostenvorteilen aus und kann Einfl&#252;sse wie 
+Just-In-Time-Lieferungen sowie Lenk- und Ruhezeiten der Fahrer nicht ber&#252;cksichtigen.
+7 Modal Split im G&#252;terverkehr 
+Aus den bisherigen Untersuchungen des Modal Splits im G&#252;terverkehr hat sich gezeigt, dass sowohl die Stra&#223;e 
+als auch die Schiene seit Einf&#252;hrung der Lkw-Maut Verkehrsanteile gegen&#252;ber der Binnenschifffahrt und der 
+Rohrfernleitungen gewonnen haben. Die Lkw-Maut hat weder bei ihrer Einf&#252;hrung noch bei Mauterh&#246;hungen 
+dazu gef&#252;hrt, nennenswerte Verlagerungen des G&#252;terverkehrs auf die Schiene oder die Wasserstra&#223;e zu
+bewirken. Die Wirtschaftskrise ab September 2008 dagegen hatte einen gro&#223;en Einfluss auf alle
+G&#252;terverkehrsleistungen. 
+F&#252;r die Aktualisierung der Modal-Split-Untersuchung wurde wieder auf die &#8222;Gleitende Mittelfristprognose f&#252;r 
+den G&#252;ter- und Personenverkehr&#8220;, die halbj&#228;hrlich im Auftrag des Bundesministeriums f&#252;r Verkehr und digitale 
+Infrastruktur erstellt wird, zur&#252;ckgegriffen. Die aktuelle Prognose wurde von der INTRAPLAN Consult GmbH 
+erstellt. Bild 11 bis 13 stellen die Ergebnisse der Untersuchungen f&#252;r die Jahre 2004 bis 2018 zusammen. 
+Bild  11 
+Modal Split-Anteile der Landverkehrstr&#228;ger nach der Verkehrsleistung 
+ 
+Quellen: &#8222;Gleitende Mittelfristprognose f&#252;r den G&#252;ter- und Personenverkehr&#8220; Winter 2006/07 bis Winter 2017/18 im Auftrag des BMVI) 
+Die relativen Anteile der Landverkehrstr&#228;ger nach der Verkehrsleistung (Bild 11) zeigen zwischen 2004 und 
+2011 ein Wachstum von Lkw und Eisenbahn zu Lasten von Binnenschifffahrt und Rohrfernleitungen. Zwischen 
+2011 und 2014 haben die Rohrfernleitungen und die Binnenschifffahrt vor allem zu Lasten der Eisenbahn
+wieder leicht zugelegt. Bis 2018 stiegen die Verkehrsleistungen von Lkw und Schiene wieder an. Mit knapp 72 % 
+h&#228;lt der Lkw im Jahr 2018 den deutlich h&#246;chsten Anteil vor der Eisenbahn mit 19 %. 
+In den j&#228;hrlichen G&#252;terverkehrsleistungen der Landverkehrstr&#228;ger (Bild 12) zeigt sich ein stetiges Wachstum 
+bis zum Jahr 2007. Der Lkw weist dabei eine vierfach h&#246;here G&#252;terverkehrsleistung auf als die Eisenbahn. 
+Binnenschifffahrt und Rohrfernleitungen spielen eher untergeordnete Rollen. 2008 zeigt sich die beginnende 
+Wirtschaftskrise im R&#252;ckgang der Lkw-Leistung, die 2009 ihren H&#246;hepunkt erreicht hat. Nach 2009 stieg die 
+G&#252;terverkehrsleistung wieder stetig an. Dieser Aufholprozess nach der Wirtschaftskrise kam allerdings 2012 
+bedingt durch die Eurokrise zum Erliegen, was sich in einem R&#252;ckgang der Leistungen von Lkw und Eisenbahn
+zeigt. Im Jahr 2015 erreichten sowohl die Lkw-Leistungen als auch die Eisenbahnleistungen erstmals das
+Vorkrisenniveau vor 2008 und stiegen bis 2018 weiter an. Die Leistungen der Binnenschifffahrt dagegen sinken 
+seit 2013. 
+Bild  12 
+G&#252;terverkehrsleistung der Landverkehrstr&#228;ger [Mrd. Tkm] 
+ 
+Quellen: &#8222;Gleitende Mittelfristprognose f&#252;r den G&#252;ter- und Personenverkehr&#8220; Winter 2006/07 bis Winter 2017/18 im Auftrag des BMVI 
+Die Entwicklung der modalen G&#252;terverkehrsleistung (Bild 13) zeigt in den Jahren bis 2007 den st&#228;rksten
+Anstieg bei der Eisenbahn, gefolgt vom Lkw. Die negativen Entwicklungen aller Landverkehrstr&#228;ger in den
+Folgejahren (2007 bis 2011) liegen in der Wirtschaftskrise im Jahr 2009 begr&#252;ndet. Der anschlie&#223;ende Aufw&#228;rtstrend 
+wurde durch die Eurokrise 2012 &#252;berlagert, so dass die modalen G&#252;terverkehrsleistungen von Eisenbahn und 
+Lkw zwischen 2011 und 2014 weiterhin zur&#252;ckgingen. Zwischen 2014 und 2018 war ein starker Anstieg von 
+Lkw und Eisenbahn zu erkennen, w&#228;hrend Binnenschifffahrt und Rohrfernleitungen zur&#252;ckgingen. 
+Bild  13 
+Entwicklung der modalen G&#252;terverkehrsleistung [%]  
+ 
+Quellen: &#8222;Gleitende Mittelfristprognose f&#252;r den G&#252;ter- und Personenverkehr&#8220; Winter 2006/07 bis Winter 2017/18 im Auftrag des BMVI
+8 Schlussfolgerungen 
+Auf der Basis von Daten automatischer Dauerz&#228;hlstellen, zus&#228;tzlichen manuellen oder detektorbasierten
+Z&#228;hlungen sowie modellhafter Berechnungen basierend auf dem Stra&#223;ennetz zum Stand 2018 wurden
+Verkehrsverlagerungen infolge der streckenbezogenen Lkw-Maut untersucht. F&#252;r die vorliegenden Analysen konnte auf 
+Daten automatischer Dauerz&#228;hlstellen der Jahre 2004 bis 2018 zur&#252;ckgegriffen werden. Weiterhin konnten
+Daten der mautpflichtigen Fahrzeuge auf den Autobahnen und bemauteten Bundesstra&#223;en f&#252;r die Kalibrierung des 
+Modells eingesetzt werden. 
+Grunds&#228;tzlich ist bei der Interpretation der Ergebnisse zu beachten, dass es sich bei den durchgef&#252;hrten
+Berechnungen um Absch&#228;tzungen handelt, die mit gewissen Schwankungsbreiten verbunden sind. 
+Die vorliegende Untersuchung der Verkehrsverlagerung auf das nachgeordnete Netz f&#252;hrte zusammenfassend 
+zu folgenden Erkenntnissen: 
+&#61623; Die Untersuchungsergebnisse der vorangegangenen Berichte wurden bis zum Stand 06/2018 im
+Wesentlichen best&#228;tigt, Mautausweichverkehre stellen weiterhin kein Fl&#228;chenproblem dar. 
+&#61623; Ab 01.07.2018 sind alle Bundesstra&#223;en in die Mautpflicht &#252;bernommen worden. Dadurch hat sich eine 
+deutliche R&#252;ckverlagerung auf das Autobahnnetz ergeben. Nur 0,6 % der Fahrleistung mautpflichtiger 
+Lkw wird auf das mautfreie nachgeordnete Stra&#223;ennetz weiterverlagert. 
+&#61623; Die Verkehrsentwicklung des schweren G&#252;terverkehrs stellt sich auf den einzelnen Bundesstra&#223;en
+insgesamt sehr unterschiedlich dar. Sowohl Zunahmen als auch Abnahmen sind zu verzeichnen. Dar&#252;ber hinaus 
+stagniert die Verkehrsentwicklung aber an der Mehrheit der Z&#228;hlstellen. 
+&#61623; F&#252;r fast 99 % der Fahrten mit schweren Lkw sind die Routen &#252;ber die Autobahnen auch unter
+Ber&#252;cksichtigung der Maut kosteng&#252;nstiger als Routen mit gr&#246;&#223;eren Anteilen im nachgeordneten Netz. F&#252;r 1,2 % der 
+Fahrten w&#252;rde ein Ausweichen auf das nachgeordnete Netz zu Kostenvorteilen von mindestens 
+1 Euro/Fahrt f&#252;hren. Eine Verlagerungswirkung wird ab einer Kostenersparnis von 5 Euro unterstellt, was 
+nur auf ca. 0,1 % der Fahrten zutrifft. 
+&#61623; Ein Vergleich der mit Hilfe der Modellrechnung f&#252;r das Jahr 2018 berechneten Mautausweichverkehre mit 
+den Berechnungsergebnissen f&#252;r das Jahr 2014 zeigt, dass auf ca. 22 % der Strecken des
+Bundesstra&#223;ennetzes bisher ausgewiesene Mautverlagerungen nicht mehr signifikant nachweisbar sind. Das entspricht 
+einem R&#252;ckgang um ca. 81 %. 
+&#61623; Bei Betrachtung des Modal Splits im G&#252;terverkehr zeigt sich, dass sowohl die Stra&#223;e als auch die Schiene 
+seit Einf&#252;hrung der Lkw-Maut Verkehrsanteile gewonnen haben. Die Maut hat nicht dazu gef&#252;hrt, dass 
+Anteile von der Stra&#223;e auf die Schiene verlagert wurden. 
+Zusammenfassend bleibt festzuhalten, dass die zum 01.07.2018 auf alle Bundesfernstra&#223;en ausgeweitete Maut 
+zu einer umfangreichen R&#252;ckverlagerung auf das Autobahnnetz gef&#252;hrt hat. Mautausweichverkehre ins
+nachgeordnete Netz sind nur marginal feststellbar, da attraktive Ausweichstrecken offensichtlich kaum vorhanden 
+sind.
+Anlagen 
+Bild A 1 &#8211; Bild A 6: L&#228;nderbezogene Darstellungen der Modellrechnungen der Mautverlagerungen 
+auf Bundesstra&#223;en bis 06/2018 
+Bild B 1 &#8211; Bild B 6: L&#228;nderbezogene Darstellungen der Modellrechnungen der Mautverlagerungen 
+auf Bundesstra&#223;en ab 07/2018 
+Bild C 1 &#8211; Bild C 6: L&#228;nderbezogene Darstellungen der Modellrechnungen der Mautverlagerungen 
+auf Landes- und Staatsstra&#223;en ab 07/2018
+Bild  A 1 
+Mautverlagerungen auf Bundesstra&#223;en bis 06/2018 (Ergebnis der Modellrechnungen) 
+Ausschnitt: Schleswig-Holstein, Hamburg, Niedersachsen, Bremen 
+ 
+Quelle: Ingenieurgruppe IVV-Aachen
+Bild  A 2 
+Mautverlagerungen auf Bundesstra&#223;en bis 06/2018 (Ergebnis der Modellrechnungen) 
+Ausschnitt: Nordrhein-Westfalen, Hessen, Rheinland-Pfalz, Saarland 
+ 
+Quelle: Ingenieurgruppe IVV-Aachen
+Bild  A 3 
+Mautverlagerungen auf Bundesstra&#223;en bis 06/2018 (Ergebnis der Modellrechnungen) 
+Ausschnitt: Baden-W&#252;rttemberg 
+ 
+Quelle: Ingenieurgruppe IVV-Aachen
+Bild  A 4 
+Mautverlagerungen auf Bundesstra&#223;en bis 06/2018 (Ergebnis der Modellrechnungen) 
+Ausschnitt: Bayern 
+ 
+Quelle: Ingenieurgruppe IVV-Aachen
+Bild  A 5 
+Mautverlagerungen auf Bundesstra&#223;en bis 06/2018 (Ergebnis der Modellrechnungen) 
+Ausschnitt: Berlin, Brandenburg, Sachsen, Sachsen-Anhalt, Th&#252;ringen 
+ 
+Quelle: Ingenieurgruppe IVV-Aachen
+Bild  A 6 
+Mautverlagerungen auf Bundesstra&#223;en bis 06/2018 (Ergebnis der Modellrechnungen) 
+Ausschnitt: Berlin, Brandenburg, Mecklenburg-Vorpommern, Sachsen-Anhalt 
+ 
+Quelle: Ingenieurgruppe IVV-Aachen
+Bild  B 1 
+Mautverlagerungen auf Bundesstra&#223;en ab 07/2018 (Ergebnis der Modellrechnungen) 
+Ausschnitt: Schleswig-Holstein, Hamburg, Niedersachsen, Bremen 
+ 
+Quelle: Ingenieurgruppe IVV-Aachen
+Bild  B 2 
+Mautverlagerungen auf Bundesstra&#223;en ab 07/2018 (Ergebnis der Modellrechnungen) 
+Ausschnitt: Nordrhein-Westfalen, Hessen, Rheinland-Pfalz, Saarland 
+ 
+Quelle: Ingenieurgruppe IVV-Aachen
+Bild  B 3 
+Mautverlagerungen auf Bundesstra&#223;en ab 07/2018 (Ergebnis der Modellrechnungen) 
+Ausschnitt: Baden-W&#252;rttemberg 
+ 
+Quelle: Ingenieurgruppe IVV-Aachen
+Bild  B 4 
+Mautverlagerungen auf Bundesstra&#223;en ab 07/2018 (Ergebnis der Modellrechnungen) 
+Ausschnitt: Bayern 
+ 
+Quelle: Ingenieurgruppe IVV-Aachen
+Bild  B 5 
+Mautverlagerungen auf Bundesstra&#223;en ab 07/2018 (Ergebnis der Modellrechnungen) 
+Ausschnitt: Berlin, Brandenburg, Sachsen, Sachsen-Anhalt, Th&#252;ringen 
+ 
+Quelle: Ingenieurgruppe IVV-Aachen
+Bild  B 6 
+Mautverlagerungen auf Bundesstra&#223;en ab 07/2018 (Ergebnis der Modellrechnungen) 
+Ausschnitt: Berlin, Brandenburg, Mecklenburg-Vorpommern, Sachsen-Anhalt 
+ 
+Quelle: Ingenieurgruppe IVV-Aachen
+Bild  C 1 
+Mautverlagerungen auf Landes-/Staatsstra&#223;en ab 07/2018 (Ergebnis der Modellrechnungen) 
+Ausschnitt: Schleswig-Holstein, Hamburg, Niedersachsen, Bremen 
+ 
+Quelle: Ingenieurgruppe IVV-Aachen
+Bild  C 2 
+Mautverlagerungen auf Landes-/Staatsstra&#223;en ab 07/2018 (Ergebnis der Modellrechnungen) 
+Ausschnitt: Nordrhein-Westfalen, Hessen, Rheinland-Pfalz, Saarland 
+ 
+Quelle: Ingenieurgruppe IVV-Aachen
+Bild  C 3 
+Mautverlagerungen auf Landes-/Staatsstra&#223;en ab 07/2018 (Ergebnis der Modellrechnungen) 
+Ausschnitt: Baden-W&#252;rttemberg 
+ 
+Quelle: Ingenieurgruppe IVV-Aachen
+Bild  C 4 
+Mautverlagerungen auf Landes-/Staatsstra&#223;en ab 07/2018 (Ergebnis der Modellrechnungen) 
+Ausschnitt: Bayern 
+ 
+Quelle: Ingenieurgruppe IVV-Aachen
+Bild  C 5 
+Mautverlagerungen auf Landes-/Staatsstra&#223;en ab 07/2018 (Ergebnis der Modellrechnungen) 
+Ausschnitt: Berlin, Brandenburg, Sachsen, Sachsen-Anhalt, Th&#252;ringen 
+ 
+Quelle: Ingenieurgruppe IVV-Aachen
+Bild  C 6 
+Mautverlagerungen auf Landes-/Staatsstra&#223;en ab 07/2018 (Ergebnis der Modellrechnungen) 
+Ausschnitt: Berlin, Brandenburg, Mecklenburg-Vorpommern, Sachsen-Anhalt 
+ 
+Quelle: Ingenieurgruppe IVV-Aachen]</text>
+    <titel>Bericht &#252;ber Verkehrsverlagerungen auf das nachgeordnete Stra&#223;ennetz in Folge der Einf&#252;hrung der Lkw-Maut</titel>
+    <datum>2020-03-04</datum>
+  </document>
+  

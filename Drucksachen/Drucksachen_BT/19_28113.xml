@@ -1,0 +1,238 @@
+<document>
+    <id>252409</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/28113</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>0a05973e6c5d125ab1100164d08ee82f</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>275308</id>
+      <titel>Sicherheit von Stromnetzen und anderer kritischer Infrastrukturen gegen&#252;ber Cyber-Angriffen</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium des Innern, f&#252;r Bau und Heimat</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/281/1928113.pdf</pdf_url>
+      <id>252409</id>
+      <dokumentnummer>19/28113</dokumentnummer>
+      <datum>2021-03-30</datum>
+      <verteildatum>2021-04-15</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Antwort
+der Bundesregierung
+auf die Kleine Anfrage der Abgeordneten Stephan Thomae, Grigorios Aggelidis, 
+Renata Alt, weiterer Abgeordneter und der Fraktion der FDP
+&#8211; Drucksache 19/27641 &#8211;
+Sicherheit von Stromnetzen und anderer kritischer Infrastrukturen gegen&#252;ber 
+Cyberangriffen
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Cyberangriffe auf Stromnetze und andere kritische Infrastrukturen k&#246;nnen
+erheblichen Schaden anrichten. Darauf hatte bereits in den vergangenen Jahren 
+auch das Bundesamt f&#252;r Sicherheit in der Informationstechnik (BSI)
+hingewiesen.
+1. Welche Erkenntnisse besitzt die Bundesregierung &#252;ber bereits abgewehrte 
+Cyberangriffe auf Stromnetze in Deutschland und im europ&#228;ischen
+Verbund (bitte ggf. mit Anzahl, Zeitpunkte sowie Ursprung und Herkunft der 
+Angriffe angeben)?
+Netzbetreiber sind nach &#167; 11 Absatz 1c des Gesetzes &#252;ber die Elektrizit&#228;ts- und 
+Gasversorgung (EnWG) verpflichtet, St&#246;rf&#228;lle im Zusammenhang mit der 
+Informations- und Kommunikationstechnik an das Bundesamt f&#252;r Sicherheit in 
+der Informationstechnik (BSI) zu melden. Die Bundesnetzagentur erh&#228;lt diese 
+Meldungen unverz&#252;glich vom BSI. So verzeichnete die Bundesnetzagentur im 
+Jahr 2020 in Summe zw&#246;lf St&#246;rmeldungen von Stromnetzbetreibern. Diese 
+St&#246;rmeldungen k&#246;nnen auch St&#246;rf&#228;lle auf Grund von schadhafter Software
+enthalten.
+Explizite Meldungen der Netzbetreiber &#252;ber abgewehrte Cyber-Angriffe
+erfolgen nicht, und somit auch keine Erfassung der allgemeinen Angriffslage.
+Als Angriffsmethoden beobachteten die Betreiber gem&#228;&#223; ihren Meldungen an 
+das BSI verst&#228;rkt aktives Scanning, um vorhandene Schwachstellen in den
+direkt mit dem Internet verbundenen Systemen zu finden und diese
+gegebenenfalls auszunutzen. Auch das Abgreifen von Zugangs- und Kontaktdaten &#252;ber 
+das Aussp&#228;hen von mit der Elektrizit&#228;tsbranche verbundenen Dritten wurde
+beobachtet.
+Hinsichtlich des europ&#228;ischen Verbundsystems liegen der Bundesnetzagentur 
+keine Informationen vor; es bestehen keine Berichtspflichten. Die Herkunft der 
+Deutscher Bundestag Drucksache 19/28113
+19. Wahlperiode 30.03.2021
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums des Innern, f&#252;r Bau und Heimat 
+vom 29. M&#228;rz 2021 &#252;bermittelt.
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext.
+Angriffe ist kein Bestandteil der Meldungen an die Bundesnetzagentur und 
+d&#252;rfte den meldenden Unternehmen in der Regel unbekannt sein.
+2. Welche Erkenntnisse besitzt die Bundesregierung &#252;ber bereits abgewehrte 
+Cyberangriffe auf andere Kritische Infrastrukturen in Deutschland und im 
+europ&#228;ischen Verbund (bitte ggf. Anzahl, Zeitpunkte sowie Ursprung und 
+Herkunft der Angriffe angeben)?
+Explizite Meldungen der Netzbetreiber &#252;ber abgewehrte Cyber-Angriffe
+erfolgen nicht, und somit auch keine Erfassung der allgemeinen Angriffslage.
+F&#252;r die Betreiber Kritischer Infrastrukturen (KRITIS) besteht nur bei
+festgestellten St&#246;rungen gem. &#167; 8b des Gesetzes &#252;ber das Bundesamt f&#252;r Sicherheit in 
+der Informationstechnik (BSIG) eine Verpflichtung zur Meldung an das BSI.
+Die Meldezahlen werden im regelm&#228;&#223;igen Lagebericht des BSI ver&#246;ffentlicht. 
+Die f&#252;r das Jahr 2020 noch nicht ver&#246;ffentlichten Zahlen k&#246;nnen der Tabelle in 
+der Anlage entnommen werden.
+Angaben zu genauen Zeitpunkten liegen dem BSI mit den Meldungen nicht vor 
+und sind teilweise den Betroffenen selbst nicht bekannt, da der Angriff u. U. 
+Monate vorher passieren kann, bevor dieser entdeckt und gemeldet wird.
+Verschiedenste Studien und Unternehmensbefragungen unterstreichen die
+wiederholt im Bundeslagebild Cybercrime des Bundeskriminalamtes getroffene 
+Einsch&#228;tzung, wonach im Bereich des Cybercrime allgemein, aber auch im
+Bereich der Angriffe auf Kritische Infrastrukturen im Speziellen, von einem
+hohen Dunkelfeld ausgegangen werden muss.
+Zur Verdeutlichung der diesbez&#252;glichen Dunkelziffer kann der 2020 publizierte 
+Forschungsbericht Nr. 152 &#8222;Cyberangriffe gegen Unternehmen in
+Deutschland &#8211; Ergebnisse einer repr&#228;sentativen Unternehmensbefragung 2018/2019&#8220; 
+des Kriminologischen Forschungsinstituts (KFN) Niedersachsen e. V. angef&#252;hrt 
+werden. Demzufolge werden nur 11,9 Prozent der schwerwiegenden
+Cyberangriffe angezeigt.
+Auch diese Studie hebt nicht explizit auf KRITIS-Unternehmen ab &#8211;
+dezidiertere Erkenntnisse hierzu liegen der Bundesregierung nicht vor.
+3. Welche Erkenntnisse besitzt die Bundesregierung &#252;ber m&#246;gliche und
+drohende Aktivit&#228;ten in Form von Cyberangriffen auf Stromnetze auf andere 
+Kritische Infrastrukturen in Deutschland und im europ&#228;ischen Verbund 
+(bitte ggf. m&#246;gliche Auswirkungen sowie Ursprung und Herkunft der
+Bedrohung angeben)?
+Die Anzahl und Vielfalt m&#246;glicher Bedrohungen in Form von Cyber-Angriffen 
+f&#252;r den Bereich KRITIS Energie sind kontinuierlich hoch und k&#246;nnen sich im 
+Rahmen der Digitalisierung stetig weiterentwickeln. Die meistgenutzten
+Methoden, um ein Unternehmen zu kompromittieren, sind dem aktuellen BSI
+Lagebericht (https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikatio
+nen/Lageberichte/Lagebericht2020.pdf?__blob=publicationFile&amp;v=2) zu 
+entnehmen.
+Generell waren und bleiben Unternehmen auch aus dem KRITIS-Bereich
+aufgrund ihrer Bedeutung f&#252;r die Gesellschaft und die Wirtschaft ein relevantes 
+Angriffsziel f&#252;r Cyberkriminelle, wobei die Angriffe finanziell oder staatlich 
+motiviert sein k&#246;nnen. Eine akteurs- oder l&#228;nderspezifische Eingrenzung
+solcher Angriffe kann dabei im Voraus nicht ausreichend verifizierbar getroffen 
+werden.
+In diesem Zusammenhang wird auf die Antwort der Bundesregierung auf die 
+Schriftliche Frage 8 der Abgeordneten Sandra Bubendorfer-Licht auf
+Bundestagsdrucksache 19/21248 verwiesen.
+4. Was unternimmt die Bundesregierung, um die Sicherheit unserer
+Stromnetze und anderer Kritischer Infrastrukturen zu gew&#228;hrleisten und die
+Abwehr von Cyberangriffen zu verbessern?
+Die Stromversorgung z&#228;hlt zu den Kritischen Infrastrukturen in Deutschland. 
+Kritische Infrastrukturen sind Organisationen oder Einrichtungen mit wichtiger 
+Bedeutung f&#252;r das staatliche Gemeinwesen, bei deren Ausfall oder
+Beeintr&#228;chtigung nachhaltig wirkende Versorgungsengp&#228;sse, erhebliche St&#246;rungen der
+&#246;ffentlichen Sicherheit oder andere dramatische Folgen eintreten w&#252;rden.
+Betreiber Kritischer Einrichtungen &#8211; und damit auch Betreiber von
+Energieversorgungsnetzen &#8211; m&#252;ssen sich wegen ihrer besonderen Bedeutung f&#252;r die
+Versorgung der Bev&#246;lkerung besonders gegen etwaige Bedrohungen sch&#252;tzen.
+Die Bundesregierung hat vor diesem Hintergrund einen Rechtsrahmen
+geschaffen, der Betreiber Kritischer Infrastrukturen zur Einhaltung von bestimmten 
+Mindestanforderungen im Bereich Cybersicherheit und zur Meldung von
+erheblichen IT-Sicherheitsvorf&#228;llen verpflichtet. Die entsprechenden Vorgaben 
+finden sich im BSIG und &#8211; soweit es um Betreiber von
+Energieversorgungsnetzen geht &#8211; im EnWG. Dieser Rechtsrahmen wird fortlaufend weiterentwickelt.
+F&#252;r Betreiber von Energieversorgungsnetzen gelten sektorspezifische
+Regelungen im EnWG, die mit dem BSIG vergleichbare Anforderungen an sie
+stellen.
+&#167; 11 Absatz 1a EnWG stellt zun&#228;chst klar, dass der Betrieb eines sicheren
+Energieversorgungsnetzes insbesondere auch einen angemessenen Schutz gegen
+Bedrohungen f&#252;r Telekommunikations- und elektronische
+Datenverarbeitungssysteme, die f&#252;r einen sicheren Netzbetrieb notwendig sind, umfasst. Betreiber von 
+Energieversorgungsnetzen m&#252;ssen &#252;berdies einen Katalog von
+Sicherheitsanforderungen erf&#252;llen, der von der Bundesnetzagentur als Regulierungsbeh&#246;rde 
+im Benehmen mit dem Bundesamt f&#252;r Sicherheit in der Informationstechnik
+erstellt wurde.
+Dieser Katalog von Sicherheitsanforderungen f&#252;r Betreiber von
+Energieversorgungsnetzen wurde im August 2015 von der Bundesnetzagentur ver&#246;ffentlicht. 
+Die Ziele des IT-Sicherheitskatalogs sind dabei die Sicherstellung der
+Verf&#252;gbarkeit der zu sch&#252;tzenden Systeme und Daten, die Sicherstellung der Integrit&#228;t 
+der verarbeiteten Informationen und Systeme und die Gew&#228;hrleistung der
+Vertraulichkeit der verarbeiteten Informationen. Zentrale Anforderung des IT-
+Sicherheitskatalogs f&#252;r Netzbetreiber ist die Einrichtung eines so genannten
+Informationssicherheits-Managementsystems (ISMS) auf der Grundlage der
+international anerkannten und verbreiteten DIN ISO/IEC 27001 unter
+zus&#228;tzlicher Ber&#252;cksichtigung der DIN ISO/IEC 27002 sowie der speziell f&#252;r
+Prozessleitsysteme und Automatisierungstechnik im Energiesektor einschl&#228;gigen DIN 
+ISO/IEC 27019. Ein solches ISMS erm&#246;glicht ein den individuell vorhandenen 
+Risiken eines Betreibers entsprechendes IT-Sicherheitsniveau und muss vom 
+Betreiber dauerhaft &#252;berwacht und angepasst werden, so dass auch k&#252;nftige
+sicherheitsrelevante Herausforderungen der zunehmenden Digitalisierung
+jederzeit ber&#252;cksichtigt werden m&#252;ssen.
+Die Betreiber haben die erfolgreiche Umsetzung des IT-Sicherheitskatalogs 
+durch ein unabh&#228;ngiges Zertifizierungsverfahren gegen&#252;ber der
+Bundesnetzagentur nachzuweisen. Diese Zertifizierung muss regelm&#228;&#223;ig wiederholt
+werden.
+&#167; 11 Absatz 1c EnWG verpflichtet die Betreiber von Energieversorgungsnetzen 
+&#252;berdies dazu, St&#246;rungen der Verf&#252;gbarkeit, Integrit&#228;t, Authentizit&#228;t und
+Vertraulichkeit ihrer informationstechnischen Systeme, Komponenten oder
+Prozesse, die zu einem Ausfall oder einer erheblichen Beeintr&#228;chtigung der
+Funktionsf&#228;higkeit des Energieversorgungsnetzes oder der betreffenden
+Energieanlage gef&#252;hrt haben, oder erhebliche St&#246;rungen der Verf&#252;gbarkeit, Integrit&#228;t, 
+Authentizit&#228;t und Vertraulichkeit ihrer informationstechnischen Systeme,
+Komponenten oder Prozesse, die zu einem Ausfall oder einer erheblichen
+Beeintr&#228;chtigung der Funktionsf&#228;higkeit des Energieversorgungsnetzes oder der
+betreffenden Energieanlage f&#252;hren k&#246;nnen, &#252;ber die Kontaktstelle unverz&#252;glich 
+an das BSI zu melden. Das BSI wertet die Meldungen aus und ber&#228;t und
+unterst&#252;tzt auch Betreiber Kritischer Infrastrukturen bei Fragen der Sicherheit in der 
+Informationstechnik (&#167; 3 BSIG).
+Der Bund bereitet sich im Rahmen seiner Zust&#228;ndigkeiten ebenfalls auf
+Ereignisse wie einen gro&#223;fl&#228;chigen Stromausfall vor. Hier ist beispielsweise die 
+ressort- und l&#228;nder&#252;bergreifende Krisenmanagement&#252;bung &#8222;L&#220;KEX 2004&#8220; zu 
+nennen, in der die &#220;bungsteilnehmenden das Szenario einer winterlichen
+Extremwetterlage mit gro&#223;fl&#228;chigem Stromausfall ge&#252;bt haben. Dar&#252;ber hinaus 
+bietet das Bundesamt f&#252;r Bev&#246;lkerungs- und Katastrophenschutz (BBK)
+Betreibern Kritischer Infrastrukturen und Akteuren des Bev&#246;lkerungsschutzes 
+Empfehlungen zur Vorsorge und Bew&#228;ltigung eines gro&#223;fl&#228;chigen
+Stromausfalls an, hier besonders die Empfehlung zur Treibstoffversorgung bei
+Stromausfall (BBK, 2017) und Notstromversorgung f&#252;r Unternehmen und Beh&#246;rden 
+(BBK, 2015). Die Akademie f&#252;r Krisenmanagement, Notfallplanung und
+Zivilschutz (AKNZ) bietet zudem im Rahmen der Ausbildung im
+Bev&#246;lkerungsschutz F&#252;hrungs- und Stabslehre sowie Krisenmanagement-Lehrg&#228;nge an.
+Aufgrund der hohen Abh&#228;ngigkeit der &#246;ffentlichen Wasserversorgung (und
+damit mittelbar auch der Abwasserentsorgung) von der Stromversorgung hat der 
+Bund den L&#228;ndern auf Grundlage des Wassersicherstellungsgesetzes mit Hilfe 
+von Konjunkturf&#246;rdermitteln bislang in den Jahren 2020/2021 knapp 60 Mio. 
+Euro zus&#228;tzlich f&#252;r H&#228;rtungsma&#223;nahmen der &#246;ffentlichen Wasserversorgung 
+zur Verf&#252;gung gestellt. Die Mittel wurden &#252;berwiegend f&#252;r die Beschaffung 
+von Notstromaggregaten zur Aufrechterhaltung der &#246;ffentlichen
+Wasserversorgung verwendet. Daneben wurden auch andere Ma&#223;nahmen finanziert, die
+zus&#228;tzliche Redundanzen der Wasserversorgung erzielen, wie z. B. die Errichtung 
+von Verbundleitungen, zus&#228;tzlichen Wasser(speicher-)beh&#228;ltern, die
+Beschaffung von mobilen Aufbereitungsanlagen und Redundanzpumpen.
+Zum schnellen Informationsaustausch und zur besseren Koordinierung von 
+Schutz- und Abwehrma&#223;nahmen gegen Cybervorf&#228;lle allgemein kommen die 
+relevanten (Sicherheits-)Beh&#246;rden des Bundes im Nationalen Cyber-
+Abwehrzentrum (Cyber-AZ) zusammen. Neben der akuten Vorfallkoordinierung
+werden im Cyber-AZ unter Federf&#252;hrung des BBK Erkenntnisse und
+Risikobewertungen der beteiligten Einrichtungen zu einer gemeinsamen Bewertung der
+Gef&#228;hrdungslage Kritischer Infrastrukturen zusammengef&#252;hrt und
+Handlungsempfehlungen abgeleitet.
+&#220;ber den UP KRITIS stehen die zust&#228;ndigen Beh&#246;rden, darunter das BBK, in 
+st&#228;ndigem Austausch mit den Betreibern Kritischer Infrastrukturen und deren 
+Verb&#228;nden. Ziel dieser Kooperation ist es, die Versorgung mit kritischen
+Infrastrukturdienstleistungen in Deutschland aufrechtzuerhalten. Neben einem
+regelm&#228;&#223;igen Informationsaustausch werden auch hier gemeinsam Standards und 
+Handlungsempfehlungen erarbeitet.
+Deutscher Bundestag &#8211; 19. Wahlperiode &#8211; 5 &#8211; Drucksache 19/28113
+
+
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/27641 -
+Sicherheit von Stromnetzen und anderer kritischer Infrastrukturen gegen&#252;ber Cyberangriffen</titel>
+    <datum>2021-03-30</datum>
+  </document>
+  

@@ -1,0 +1,381 @@
+<document>
+    <id>217947</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/1058</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>20133922befe87102c7ac1c3bd43188c</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>231936</id>
+      <titel>Elektronische Erledigung von Steueranmeldungen und -erkl&#228;rungen mit ELSTER</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium der Finanzen</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/010/1901058.pdf</pdf_url>
+      <id>217947</id>
+      <dokumentnummer>19/1058</dokumentnummer>
+      <datum>2018-03-05</datum>
+      <verteildatum>2018-04-13</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums der Finanzen vom 1. M&#228;rz 2018 
+&#252;bermittelt.  
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext. 
+Deutscher Bundestag  Drucksache 19/1058 
+19. Wahlperiode 05.03.2018 
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Dr. Petra Sitte, Simone Barrientos,  
+Anke Domscheit-Berg, weiterer Abgeordneter und der Fraktion DIE LINKE. 
+&#8211; Drucksache 19/773 &#8211; 
+Elektronische Erledigung von Steueranmeldungen und Steuererkl&#228;rungen mit 
+ELSTER 
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r  
+ELSTER (kurz f&#252;r elektronische Steuererkl&#228;rung) ist der Name des 1999
+eingef&#252;hrten Verfahrens zur elektronischen Erledigung von Steueranmeldungen und 
+-erkl&#228;rungen, dessen Funktionsumfang seitdem kontinuierlich erweitert wurde. 
+Die &#220;bermittlung durch Datenfern&#252;bertragung ist verpflichtend f&#252;r eine
+Voranmeldung bzw. Erkl&#228;rung der Umsatzsteuer (nach &#167; 18 des
+Umsatzsteuergesetzes), der Gewerbesteuer (nach &#167; 14a des Gewerbesteuergesetzes), der
+K&#246;rperschaftsteuer (nach &#167; 31 des K&#246;rperschaftsteuergesetzes) und f&#252;r die
+Einkommenssteuererkl&#228;rung, soweit Gewinneink&#252;nfte (Eink&#252;nfte aus Land- und
+Forstwirtschaft, Gewerbebetrieb und selbst&#228;ndiger Arbeit) erzielt werden (nach &#167; 25 
+des Einkommensteuergesetzes). 
+F&#252;r die Abwicklung der Datenfern&#252;bertragung im Rahmen von ELSTER
+existieren verschiedene M&#246;glichkeiten. Verwaltungsseitig werden das Programm 
+&#8222;ElsterFormular&#8220; (lauff&#228;hig unter Windows) und die Webanwendung &#8222;Elster 
+Online&#8220; (lauff&#228;hig unter bestimmten Kombinationen von Betriebssystemen und 
+Browsern mit Java oder Javascript) angeboten. Als Schnittstellen f&#252;r
+Drittprogramme existieren ERiC (ELSTER Rich Client) und COALA, wobei Letztere 
+keine volle Funktionalit&#228;t beinhaltet, sodass dar&#252;ber insbesondere keine
+Einkommensteuererkl&#228;rungen eingereicht werden k&#246;nnen. 
+Keine der genannten Anwendungen steht als Open Source oder Freie Software 
+zur Verf&#252;gung. Allerdings beinhaltet COALA eine dokumentierte XML-
+Schnittstelle, auf deren Basis mit &#8222;Geierlein&#8220; (vormals &#8222;Taxbird&#8220;) zumindest 
+ein freier ELSTER-Client existiert, der allerdings aus oben genanntem Grund 
+nicht f&#252;r Einkommensteuererkl&#228;rungen verwendet werden kann. Als
+Begr&#252;ndung f&#252;r diese Einschr&#228;nkung wird angegeben, dass in diesem Fall keine
+serverseitige Plausibilit&#228;tspr&#252;fung zur Verf&#252;gung stehe (vgl. http://stesie. 
+github.io/geierlein/quovadis.html).
+1. Wie viele Steuerpflichtige in Deutschland haben, bezogen auf die Jahre 2013 
+bis 2016, Anmeldungen bzw. Erkl&#228;rungen durch Datenfern&#252;bertragung
+abgegeben (bitte nach gesetzlicher Grundlage aufschl&#252;sseln)? 
+a) Wie viele davon waren jeweils nach den in der Vorbemerkung in Bezug 
+genommenen Regelungen dazu rechtlich verpflichtet? 
+Der Bundesregierung liegen zu den Fragen 1 und 1a folgende Informationen vor: 
+ 2013 2014 2015 2016 Gesetzliche Grundlage 
+Einkommensteuer 15,17 Mio. 16,02 Mio. 20,01 Mio. 20,80 Mio. &#167; 25 Abs. 4 EStG 
+K&#246;rperschaftsteuer 1) 0,77 Mio. 0,95 Mio. 0,98 Mio. 1,03 Mio. &#167; 31 Abs. 1a KStG 
+Gewerbesteuer 3,02 Mio. 3,41 Mio. 3,91 Mio. 3,95 Mio. &#167; 14a GewStG  
+Umsatzsteuer (Jahreserkl&#228;rung) 5,16 Mio. 5,69 Mio. 6,48 Mio. 6,55 Mio. &#167; 18 Abs. 3 UStG 
+Lohnsteuer-Anmeldung 17,35 Mio. 17,11 Mio. 17,82 Mio. 18,04 Mio. &#167; 41a Abs. 1 EStG 
+Umsatzsteuer-Voranmeldung 37,87 Mio. 36,23 Mio. 38,52 Mio. 43,77 Mio. &#167; 18Abs. 1 UStG 
+1) teilweise gesch&#228;tzt, da Daten aus zwei Bundesl&#228;ndern nicht vollst&#228;ndig vorliegen und insoweit eine Hochrechnung
+durchgef&#252;hrt wurde 
+Die Tabelle enth&#228;lt die Gesamtanzahl der einzelnen Daten&#252;bermittlungen.
+Informationen &#252;ber die darin enthaltene Anzahl der tats&#228;chlich rechtlich
+Verpflichteten liegen der Bundesregierung nicht vor. 
+Bezogen auf einen Steuerfall k&#246;nnen insbesondere bei den Steueranmeldungen 
+mehrfache &#220;bermittlungen vorliegen. Die konkrete Zahl der Steuerpflichtigen, 
+die Steuererkl&#228;rungen elektronisch &#252;bermitteln, l&#228;sst sich daraus nicht ableiten. 
+b) Wie verteilen sich diese jeweils auf die verschiedenen Anwendungen 
+(&#8222;ElsterFormular&#8220;, &#8222;Elster Online&#8220;, Drittanwendungen &#252;ber ERiC,
+Drittanwendungen &#252;ber COALA)? 
+Die ERiC-Bibliothek wird &#252;berwiegend zur &#220;bermittlung von Steuerdaten
+verwendet. Ebenso sind die Produkte der Finanzverwaltung verbreitet im Einsatz. 
+Der Bundesregierung liegen Zahlen f&#252;r die von COALA unterst&#252;tzten
+Steuerarten mit dem Stand vom Januar 2017 vor. 
+ ERiC ElsterFormular Elster Online COALA 
+ESt 77% 19% 4% 0% 
+UStVA 77% 14% 8% 1% 
+LStA 94% 2% 1% 3%
+* 
+c) Wie verteilen sich diese Abgaben auf verschiedene genutzte
+Betriebssysteme und (im Fall von &#8222;Elster Online&#8220;) Browser, soweit dies
+nachvollziehbar ist? 
+Die Anwender des ElsterOnline-Portals verwenden zu knapp 90 Prozent ein 
+Microsoft-Windows-Betriebssystem. F&#252;r ElsterFormular und Drittanwendungen 
+mit ERiC liegen keine Zahlen vor. 
+ 
+                                                     
+Anmerkung: Die farbige Darstellung der Abbildung ist auf Bundestagsdrucksache 19/1058 auf der Internetseite des Deutschen
+Bundestages abrufbar. 
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Einkommensteuer
+Jahreserkl&#228;rungen
+Umsatzsteuer
+Voranmeldungen
+Lohnsteuer
+Anmeldungen
+Drittanwendungen
+&#252;ber ERiC
+ElsterFormular ElsterOnline Portal Drittanwendungen
+&#252;ber COALA
+43,78%
+33,69%
+8,74%
+8,66%
+1,81%
+1,62%
+1,70%
+Betriebssysteme
+Windows 7
+Windows 10
+Windows 8
+MacOS X
+Windows XP
+Windows Vista
+Linux
+Zu den Browsern liegen folgende Informationen vor: 
+* 
+2. In wie vielen F&#228;llen, in denen eine Datenfern&#252;bertragung grunds&#228;tzlich
+vorgeschrieben ist, wurde nach Kenntnis der Bundesregierung bei
+Finanzbeh&#246;rden ein Verzicht auf eine elektronische &#220;bermittlung beantragt, und in wie 
+vielen F&#228;llen ist ein solcher Verzicht erfolgt? 
+Hierzu liegen keine statistischen Erhebungen vor. 
+3. Welche konkreten Wirtschaftlichkeitsbetrachtungen liegen nach Kenntnis 
+der Bundesregierung den einzelnen Regelungen zur verpflichtenden
+Datenfern&#252;bertragung zu Grunde? 
+Die elektronische &#220;bermittlung von Steuererkl&#228;rungen bietet einen erheblich
+h&#246;heren Komfort als die Verwendung des Papierformulars, insbesondere in
+Kombination mit der elektronischen vorausgef&#252;llten Steuererkl&#228;rung. Die
+nutzerorientierte Gestaltung der elektronischen Formulare und die programmgesteuerte
+Plausibilisierung der Daten bewirken eine deutliche Qualit&#228;tssteigerung. Zudem
+entf&#228;llt der Aufwand f&#252;r die personelle Erfassung der Erkl&#228;rungen. Durch die
+durchg&#228;ngige medienbruchfreie Verarbeitung entsteht eine Qualit&#228;tsverbesserung. Die 
+Prozessabl&#228;ufe werden beschleunigt. Dies liegt im Interesse aller
+Verfahrensbeteiligten. 
+                                                     
+Anmerkung: Die farbige Darstellung der Abbildung ist auf Bundestagsdrucksache 19/1058 auf der Internetseite des Deutschen
+Bundestages abrufbar. 
+45,78%
+25,88%
+21,21%
+6,60%
+0,53%
+Browser
+Firefox
+Internet Explorer
+Chrome
+Edge
+Safari
+4. Existieren Pl&#228;ne oder &#220;berlegungen, die Verpflichtung zur
+Datenfern&#252;bertragung auf weitere F&#228;lle auszuweiten, und wenn ja, welche? 
+Die Bundesregierung verfolgt das Ziel der Digitalisierung aller Bereiche der
+&#246;ffentlichen Verwaltung. Ein wesentliches Element ist der Ausbau von E-
+Government-Dienstleistungen. Ob und inwieweit in diesem Kontext auch die
+Verpflichtung zur Datenfern&#252;bertragung im Besteuerungsverfahren ausgeweitet werden 
+soll, ist zu gegebener Zeit n&#228;her zu pr&#252;fen. 
+5. Welcher finanzielle Vorteil ergibt sich f&#252;r die Verwaltung durch den Einsatz 
+von ELSTER? 
+Auf die Antwort zu Frage 3 wird verwiesen. 
+6. Welche Pl&#228;ne oder &#220;berlegungen in welchem zeitlichen Rahmen bestehen 
+zur Weiterentwicklung bzw. Ausweitung von ELSTER? 
+Im Rahmen der Digitalisierung ist ELSTER ein Teil der elektronischen
+medienbruchfreien Kommunikation zwischen dem B&#252;rger und der Verwaltung. Ob und 
+inwieweit in diesem Kontext auch &#252;ber die vorgesehene elektronische
+Kommunikation (elektronischer Bescheid) von der Verwaltung zum B&#252;rger hinaus  
+ELSTER ausgeweitet werden soll, ist zu gegebener Zeit n&#228;her zu pr&#252;fen. Auf die 
+Antwort zu Frage 3 wird verwiesen. 
+7. Mit welchen kryptographischen Verfahren wird bei den jeweils eingesetzten 
+Verfahren im Rahmen von ELSTER die Vertraulichkeit der &#252;bertragenen 
+Daten gesichert? 
+Die Daten werden bei der Verwendung von ERiC &#252;ber eine sichere Verbindung 
+(https; aktuell: TLS 1.2) &#252;bermittelt. Auch f&#252;r die sog. offene Schnittstelle wird 
+inzwischen https mit TLS 1.2 angeboten. Dar&#252;ber hinaus werden die Nutzdaten 
+vor der &#220;bermittlung mit einem hybriden Verfahren verschl&#252;sselt. Dabei
+kommen aktuell folgende Standards/Algorithmen zum Einsatz: 
+&#61623; hybrides Verfahren: CMS nach RFC 5652 (EnvelopedData) 
+&#61623; symmetrische Verschl&#252;sselung der Nutzdaten: ANSI X9.52 (Encrypted 
+Content) mit DES-EDE3-CBC 
+&#61623; asymmetrische Verschl&#252;sselung der Empf&#228;ngerdaten (recipient info): 
+RSAES-OAEP nach PKCS#1 ab Version 2.0 mit 2048 Bit. 
+8. Warum werden die Quellcodes der im Rahmen von ELSTER eingesetzten 
+Programme nicht ver&#246;ffentlicht bzw. als Freie Software zur Nutzung
+freigegeben? 
+Bei den von der Finanzverwaltung eingesetzten Programmen hat der Erhalt
+valider Daten oberste Priorit&#228;t. Das hierf&#252;r zur Erh&#246;hung der
+Anwenderfreundlichkeit clientseitig eingesetzte Programm ERiC ist eine Bibliothek, die pr&#252;ft, ob der 
+Datensatz fachlich und technisch korrekt aufgebaut ist (Plausibilit&#228;tspr&#252;fung). Im 
+Anschluss verschl&#252;sselt, authentifiziert und versendet ERIC die plausibilisierten 
+Daten an die Finanzverwaltung.
+Bei einer Ver&#246;ffentlichung des Quellcodes w&#252;rde &#8211; ungeachtet
+urheberrechtlicher Probleme &#8211; die Gefahr bestehen, dass dieser unerkannt ge&#228;ndert wird, was 
+zu einer Unbrauchbarkeit der &#252;bertragenen Daten f&#252;hren k&#246;nnte. Dies w&#252;rde dann 
+eine aufw&#228;ndige zus&#228;tzliche serverseitige &#220;berpr&#252;fung der Daten erforderlich 
+machen, die durch die clientseitige Installation von ERiC vermieden werden 
+sollte. 
+a) Ist eine entsprechende Ver&#246;ffentlichung gepr&#252;ft worden, und wenn ja, mit 
+welchem Ergebnis? 
+Die Ausgestaltung als Open Source Projekt wurde gepr&#252;ft. Relevante Teile der 
+im Rahmen von ELSTER eingesetzten Programme zur Sicherung der
+Datenqualit&#228;t (s. vorhergehende Ausf&#252;hrungen) k&#246;nnen nicht als Open Source ausgestaltet 
+werden. 
+b) Wer verf&#252;gt &#252;ber die entsprechenden Rechte? 
+Abh&#228;ngig von der Art der im Rahmen von Elster eingesetzten Programme
+verf&#252;gen einzelne Bundesl&#228;nder und/oder Bund und Bundesl&#228;nder im Rahmen des 
+Verwaltungsabkommens KONSENS bzw. des KONSENS-Gesetzes &#252;ber die 
+dem jeweiligen Einsatzzweck entsprechenden Rechte. 
+9. Inwieweit trifft es zu, dass keine serverseitigen Plausibilit&#228;tspr&#252;fungen f&#252;r 
+Steuererkl&#228;rungen zur Verf&#252;gung stehen? 
+F&#252;r Steuererkl&#228;rungen gibt es keine serverseitigen ELSTER-
+Plausibilit&#228;tspr&#252;fungen. Die Plausibilit&#228;tspr&#252;fung ist insoweit in ERiC implementiert. 
+a) Soweit dies zutrifft, aus welchem Grund wurde auf eine entsprechende 
+Implementation verzichtet? 
+Die Entscheidung, eine clientseitige Plausibilit&#228;tspr&#252;fung &#252;ber die ERiC-
+Bibliothek zur Verf&#252;gung zu stellen, beruhte darauf, dass die Serverkapazit&#228;t nicht f&#252;r 
+eine performante Plausibilit&#228;tspr&#252;fung ausgereicht hat. Dar&#252;ber hinaus bietet die 
+&#8222;T&#252;r-auf-T&#252;r-zu&#8220;-Strategie, d. h. Daten k&#246;nnen erst &#252;bermittelt werden, wenn sie 
+plausibel sind, gro&#223;e Vorteile hinsichtlich der Datensparsamkeit. Die ERiC-
+Bibliothek wurde von den Softwareherstellern als komfortable &#8222;Out-of-the-box&#8220;-
+L&#246;sung akzeptiert und hat sich bew&#228;hrt. Anforderungen oder Anfragen von
+Softwareherstellern nach einer serverseitigen Plausibilit&#228;tspr&#252;fung gibt es derzeit 
+keine. 
+b) Soweit dies zutrifft, ist dies so zu verstehen, dass nicht jede elektronisch 
+eingehende Steuererkl&#228;rung im Rahmen ihrer Bearbeitung auf ihre
+Plausibilit&#228;t gepr&#252;ft wird? 
+Jede eingehende Steuererkl&#228;rung wird programmgesteuert auf Plausibilit&#228;t und 
+ggf. steuerliche Risiken gepr&#252;ft.
+c) Wie wird sichergestellt, dass clientseitig eine Plausibilit&#228;tspr&#252;fung erfolgt 
+ist? 
+Die Pr&#252;fungen sind in ERiC fest eingebaut (T&#252;r-Auf-T&#252;r-Zu-Prinzip).
+&#220;bermittlungen ohne ERiC sind nicht zul&#228;ssig (www.elster.de/eportal/infoseite/rechtliches): 
+F&#252;r die elektronische &#220;bermittlung von amtlich vorgeschriebenen Datens&#228;tzen 
+(zum Beispiel f&#252;r Steuererkl&#228;rungen) ist nach &#167; 87a Absatz 6 der
+Abgabenordnung ein sicheres Verfahren zu verwenden, das den Daten&#252;bermittler
+authentifiziert und die Vertraulichkeit und Integrit&#228;t des Datensatzes gew&#228;hrleistet. Dies 
+wird durch das Verfahren ELSTER sichergestellt. Nur &#252;ber diesen Weg hat die 
+Finanzverwaltung nach &#167; 87a Absatz 1 der Abgabenordnung einen Zugang f&#252;r 
+die &#220;bermittlung von amtlich vorgeschriebenen Datens&#228;tzen er&#246;ffnet. Hierzu ist 
+die Nutzung der ERiC-Bibliothek der Finanzverwaltung zwingend erforderlich, 
+damit die Umsetzung der gesetzlichen Anforderungen zur sicheren
+Kommunikation mit den Finanzbeh&#246;rden gew&#228;hrleistet wird. 
+10. Inwieweit wird die Schnittstelle COALA weiter unterst&#252;tzt, und sind
+Erweiterungen ihrer Funktionalit&#228;t geplant? 
+Die Schnittstelle COALA wird noch bis zum 15. Januar 2019 unterst&#252;tzt,
+Erweiterungen sind nicht vorgesehen. 
+11. Inwieweit sind Berichte aus dem Jahr 2013 zutreffend, dass Versionen von 
+&#8222;ElsterFormular&#8220; f&#252;r die Betriebssysteme Linux und Mac OS X entwickelt, 
+aber nicht weiterverfolgt wurden (vgl. www.golem.de/news/
+elektronischesteuererklaerung-elster-fuer-linux-und-macos-x-existiert-1303-98024.html)? 
+12. Wurde die M&#246;glichkeit der Bereitstellung entsprechender Versionen von 
+&#8222;ElsterFormular&#8220; gepr&#252;ft, und wenn ja, mit welchem Ergebnis? 
+Die Fragen 11 und 12 werden zusammen beantwortet. 
+Die Bereitstellung von ElsterFormular f&#252;r andere Betriebssysteme wurde
+mehrfach gepr&#252;ft und verworfen, da mit dem ElsterOnline-Portal (heute Mein  
+ELSTER) eine zukunftsf&#228;higere und plattformunabh&#228;ngige Variante (auch f&#252;r 
+mobile Betriebssysteme) zur Verf&#252;gung steht. 
+13. Aus welchem Grund wird laut den unter www.elster.de/eportal/system 
+anforderungen ver&#246;ffentlichten Systemanforderungen die Verwendung von 
+&#8222;Elster Online&#8220; nur f&#252;r eine begrenzte Anzahl von Kombinationen
+bestimmter Betriebssysteme und Browser unterst&#252;tzt? 
+Auf der genannten Seite werden die Kombinationen von Browser und
+Betriebssystem dargestellt, die aufgrund statistischer Auswertungen der Mein ELSTER-
+Logins der vergangenen Monate die gr&#246;&#223;te Verbreitung haben und ausf&#252;hrlich 
+getestet wurden. Zudem werden weitere Kombinationen getestet, um bestimmte 
+Benutzergruppen wie Linux oder MacOS ebenfalls zu erreichen. Eine gr&#246;&#223;ere 
+Anzahl der unterst&#252;tzten Kombinationen anzubieten, w&#252;rde eine wesentliche 
+Kostensteigerung bei den Testaufw&#228;nden mit sich bringen, aber nur einen
+geringen zus&#228;tzlichen Prozentsatz der Nutzer abdecken. Andere Kombinationen von 
+Browser und Betriebssystem funktionieren in der Regel ebenfalls, da es sich um 
+eine Browseranwendung handelt.
+14. Ist geplant, auch weitere Systemkonfigurationen f&#252;r &#8222;Elster Online&#8220; zu
+unterst&#252;tzen, und wenn ja, welche und wann? 
+Es werden immer die Kombinationen von Browser und Betriebssystem getestet, 
+die aufgrund statistischer Auswertungen der Mein ELSTER-Logins der
+vergangenen Monate die gr&#246;&#223;te Verbreitung haben. Auf diese Weise kommen neue 
+Kombinationen hinzu bzw. k&#246;nnen auch Kombinationen wegfallen. Zugleich 
+werden neue Browserversionen oder Betriebssystemversionen, bei denen eine 
+gro&#223;e Verbreitung zu erwarten ist, schon im Vorfeld ihrer Verbreitung getestet 
+und k&#246;nnen so sehr schnell unterst&#252;tzt werden. 
+15. Aus welchem Grund wurde bisher darauf verzichtet, eine offene Schnittstelle 
+f&#252;r die &#220;bertragung von Steuerdaten zu schaffen, die mittels beliebiger
+Client-Software genutzt werden kann (wie es z. B. bereits 2011 im Rahmen der 
+&#214;ffentlichkeitsbeteiligung an der Arbeit der Enquete-Kommission &#8222;Internet 
+und digitale Gesellschaft&#8220; angeregt wurde, vgl. Bundestagsdrucksache 
+17/12495, S. 51)? 
+Die Kernaussagen bei diesem Vorschlag waren: 
+&#61623; &#8222;Die &#220;bermittlung sollte zu 100 Prozent durch ein offenes Protokoll erfolgen, 
+so dass die B&#252;rger auch eigene Client-Software entwickeln und verwenden 
+k&#246;nnen.&#8220; 
+&#61623; &#8222;Zudem sollte der offizielle ELSTER-Client freie Software sein. So wird
+verhindert, dass B&#252;rger diskriminiert werden, die weniger verbreitete Systeme 
+verwenden, denn wenn der ELSTER-Client freie Software ist, k&#246;nnen sich die 
+interessierten B&#252;rger selbst behelfen.&#8220; 
+&#61623; &#8222;Die Registrierungspflicht f&#252;r Dienstleister, die eine Client-Software
+entwickeln m&#246;chten, sollte abgeschafft werden. Sie verursacht unn&#246;tigen
+Verwaltungsaufwand und stellt eine unangebrachte H&#252;rde f&#252;r alle B&#252;rger dar, die das 
+Protokoll einfach nur in ihre eigene Software integrieren m&#246;chten.&#8220; 
+Alle genannten Argumente gehen von der Annahme aus, dass eine Nachfrage
+besteht, diese Steuererkl&#228;rungsprogramme als Open Source Software zu
+entwickeln. Die bisher bekannten Open Source Entwicklungen wurden eingestellt. Im 
+&#220;brigen wird auf die Antwort zu Frage 8 verwiesen. 
+a) Ist die Einrichtung einer solchen Schnittstelle gepr&#252;ft worden, und wenn 
+ja, mit welchem Ergebnis? 
+b) Inwieweit ist es nach Auffassung der Bundesregierung zumutbar, die 
+Durchf&#252;hrung eines gesetzlich verpflichtenden Datentransfers an das 
+Ausf&#252;hren nicht ohne weiteres nachvollziehbarer Programmcodes auf
+eigenen Systemen zu binden? 
+Die Fragen 15a und 15b werden gemeinsam beantwortet.  
+Auf die Antwort zu Frage 8 wird verwiesen.
+16. Inwiefern hat der Bund sich nach der Neuordnung der Bund-L&#228;nder-
+Finanzbeziehungen am 1. Juni 2017 im Bereich der St&#228;rkung der Rechte des
+Bundes in der Steuerverwaltung im Bereich der IT-Kooperation mit den hier
+aufgef&#252;hrten Thematiken bzw. der Weiterentwicklung von ELSTER
+besch&#228;ftigt? 
+Die Abstimmungsgespr&#228;che zwischen den L&#228;ndern und dem Bund zur
+Umsetzung des KONSENS-Gesetzes und der Ausgestaltung der zuk&#252;nftigen
+Kooperation dauern noch an. In diesen Gespr&#228;chen wird auch die strategische Ausrichtung 
+im Hinblick auf Vorgaben zur Architektur der IT-Verfahren (z. B. Verfahren 
+ELSTER) zur Festsetzung und Erhebung der von den L&#228;ndern im Auftrag des 
+Bundes verwalteten Steuern sowie der zu nutzenden IT-Standards f&#252;r eine
+Integrationsarchitektur (z. B. Webdienste, Schnittstellentechnologien) thematisiert. 
+17. Plant die Bundesregierung, ihre gest&#228;rkten Einflussrechte (insbesondere 
+durch &#196;nderungen des Artikels 108 Absatz 4 Satz 3 des Grundgesetzes, des 
+Finanzverwaltungsgesetzes und des KONSENS-Gesetzes) in diesem
+Bereich zu nutzen, und wenn ja, in welchem Sinn? 
+Auf die Antwort zu Frage 16 wird verwiesen.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Satz: Satzweiss.com Print, Web, Software GmbH, Mainzer Stra&#223;e 116, 66121 Saarbr&#252;cken, www.satzweiss.com 
+Druck: Printsystem GmbH, Schafw&#228;sche 1-3, 71296 Heimsheim, www.printsystem.de 
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de 
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/773 -
+Elektronische Erledigung von Steueranmeldungen und Steuererkl&#228;rungen mit ELSTER</titel>
+    <datum>2018-03-05</datum>
+  </document>
+  

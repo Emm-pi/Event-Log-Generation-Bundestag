@@ -1,0 +1,523 @@
+<document>
+    <id>244473</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/21955</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>8089f037b41d5b6168e41f379d27eff8</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>265158</id>
+      <titel>Wahrung der digitalen Souver&#228;nit&#228;t beim 5G-Ausbau</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium f&#252;r Wirtschaft und Energie</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/219/1921955.pdf</pdf_url>
+      <id>244473</id>
+      <dokumentnummer>19/21955</dokumentnummer>
+      <datum>2020-08-28</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Antwort
+der Bundesregierung
+auf die Kleine Anfrage der Abgeordneten Frank Sitta, Grigorios Aggelidis,
+Jens Beeck, weiterer Abgeordneter und der Fraktion der FDP
+&#8211; Drucksache 19/21254 &#8211;
+Wahrung der digitalen Souver&#228;nit&#228;t beim 5G-Ausbau
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Die Sicherung der digitalen Souver&#228;nit&#228;t in Bezug auf kritische Komponenten 
+des Telekommunikationsnetzes ist ein Ziel des nach Presseberichten
+&#252;berarbeiteten Referentenentwurfs des IT-Sicherheitsgesetzes 2.0, das die
+Bundesregierung im Mai 2020 in die Ressortabstimmung gegeben hat. Mit dem
+danach neu einzuf&#252;hrenden &#167; 9b des Gesetzes &#252;ber das Bundesamt f&#252;r Sicherheit 
+in der Informationstechnik (BSIG; Untersagung des Einsatzes kritischer
+Komponenten nicht vertrauensw&#252;rdiger Hersteller) ist der Einsatz von kritischen 
+Komponenten dem Bundesministerium des Innern, f&#252;r Bau und Heimat vor 
+Einbau anzuzeigen. Sie unterliegen dann besonderen Auflagen, insbesondere 
+d&#252;rfen sie nur von &#8222;vertrauensw&#252;rdigen Herstellern&#8220; stammen. Eine
+Festlegung, ob der umstrittene Hersteller Huawei zu &#8222;vertrauensw&#252;rdigen
+Herstellern&#8220; geh&#246;rt, trifft die Bundesregierung nicht und schl&#228;gt im
+Referentenentwurf die &#220;berpr&#252;fung u. a. anhand einer Garantieerkl&#228;rung des betreffenden 
+Herstellers selbst vor.
+In dem Referentenentwurf wird in den Ausf&#252;hrungen zum geplanten &#167; 9b 
+BSIG zudem festgestellt, dass nur der Betreiber beurteilen k&#246;nne, ob eine 
+&#8222;Komponente im Kontext des Einsatzes als kritisch zu bewerten&#8220; sei.
+Damit wird sowohl die Beurteilung, welche Teile des Kommunikationsnetzes 
+als &#8222;kritisch&#8220; eingestuft werden, als auch die Frage danach, wer zu
+&#8222;vertrauensw&#252;rdigen Herstellern&#8220; geh&#246;rt, zu einem erheblichen Teil auf die
+Netzbetreiber bzw. durch die Garantieerkl&#228;rung sogar auf den Hersteller selbst
+&#252;bertragen. Das d&#252;rfte nach Ansicht der Fragesteller zu einer erheblichen
+Rechtsunsicherheit f&#252;hren.
+Da alle gro&#223;en Netzbetreiber bereits jetzt Komponenten des Herstellers
+Huawei in ihrer jeweiligen Netzinfrastruktur verbaut haben, interessiert
+insbesondere die Abgrenzung von &#8222;kritisch&#8220; zu &#8222;unkritisch&#8220; zu bewertenden
+Komponenten bzw. Bereichen der Infrastruktur, um die f&#252;r den schnellen Ausbau
+notwendige Rechtssicherheit zu erhalten.
+Die drei gr&#246;&#223;ten Betreiber verweisen inzwischen darauf, Komponenten von 
+Huawei aus den 5G-Kernnetzen zu entfernen bzw. dort nicht einzusetzen und 
+stattdessen auf europ&#228;ische Anbieter zu setzen (vgl. https://www.handelsblat
+t.com/politik/deutschland/netzausruester-telefnica-verzichtet-auf-huawei-im-5
+Deutscher Bundestag Drucksache 19/21955
+19. Wahlperiode 28.08.2020
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums f&#252;r Wirtschaft und Energie vom 
+28. August 2020 &#252;bermittelt.
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext.
+g-kernnetz/25880036.html). Fraglich ist, ob sie damit den Kriterien der 
+Bundesregierung bez&#252;glich der Vertrauensw&#252;rdigkeit der Hersteller bei
+kritischen Infrastrukturen bereits gen&#252;gen oder ob auch in den Antennen verbaute 
+Komponenten nur von im Sinne des Referentenentwurfs &#8222;vertrauensw&#252;rdigen 
+Herstellern&#8220; stammen d&#252;rfen. Bei der Antennentechnologie setzen alle
+Netzbetreiber in Deutschland auch Ausr&#252;stung von Huawei ein (vgl. ebd.). Zu
+bewerten ist somit insbesondere die Frage, inwieweit in einer Netzinfrastruktur 
+&#252;berhaupt relevante Sicherheitsrisiken bez&#252;glich m&#246;glicher Sabotage bzw. 
+Spionage vorhanden sein k&#246;nnen, bei dem nur die Antennen potentiell
+kompromittiert sind, nicht aber das Kernnetz. Abseits konkreter Spionage- oder 
+Sabotagem&#246;glichkeiten kann die digitale Souver&#228;nit&#228;t allerdings generell 
+schon durch die ungewollte Einbeziehung in wirtschaftliche
+Auseinandersetzungen zwischen China und den USA gef&#228;hrdet sein, wenn z. B. bei der
+Nutzung von Dienstleistungen bzw. Hard- oder Software der jeweils anderen Seite 
+Sanktionen angedroht werden.
+Wie zuvor schon Vodafone und Telef&#243;nica hat die Deutsche Telekom auf der 
+Hauptversammlung am 19. Juni 2020 angek&#252;ndigt, au&#223;erhalb des Kernnetzes 
+weiterhin auch Huawei-Komponenten zu verwenden (https://www.handelsblat
+t.com/technik/it-internet/umstrittener-ausruester-aus-china-deutsche-
+telekomwill-5g-gemeinsam-mit-huawei-ausbauen/25932704.html), nachdem der
+Konzern zuvor errechnet hatte, dass ein R&#252;ckbau s&#228;mtlicher bereits verbauter 
+Netztechnik von Huawei &#8222;bis zu f&#252;nf Jahre dauern und mindestens drei
+Milliarden Euro kosten&#8220; w&#252;rde (https://www.handelsblatt.com/technik/it-internet/a
+usschluss-von-netzausruester-armageddon-szenario-telekom-spielt-huawei-ba
+nn-durch/25918402.html).
+Innerhalb der Bundesregierung herrscht in der Frage, ob Huawei-
+Komponenten f&#252;r den 5G-Ausbau zugelassen werden sollen, bislang keine
+Einigkeit. So machten die Bundeskanzlerin Dr. Angela Merkel, der
+Bundesminister f&#252;r Wirtschaft und Energie Peter Altmaier undder Bundesminister des 
+Innern, f&#252;r Bau und Heimat Horst Seehofer klar, dass sie keine Anbieter von 
+vornherein ausschlie&#223;en wollen. Der Bundesminister des Ausw&#228;rtigen Heiko 
+Maas warnt vor Abh&#228;ngigkeiten (vgl. https://www.handelsblatt.com/politik/de
+utschland/huawei-technik-5g-offensive-von-vodafone-und-telekom-stoesst-
+inder-politik-auf-widerstand/25770414.html).
+&#8199;1. Wie sieht der Zeitplan f&#252;r die Ressortabstimmung des o. g.
+Referentenentwurfs genau aus, und welche Ressorts haben bereits ihre Zustimmung 
+bzw. Ablehnung signalisiert?
+Wo liegen ggf. die Bedenken?
+&#8199;2. Wie sieht der weitere Zeitplan des Gesetzesvorhabens aus?
+Die Fragen 1 und 2 werden aufgrund des Sachzusammenhangs gemeinsam
+beantwortet.
+Das IT-Sicherheitsgesetz 2.0 befindet sich derzeit in der Ressortabstimmung. 
+Die Kabinettbefassung ist f&#252;r den Herbst dieses Jahres geplant.
+Im &#220;brigen nimmt die Bundesregierung zu in der Abstimmung befindlichen 
+Gesetzentw&#252;rfen keine Stellung.
+&#8199;3. Welche Analysen oder Studien wurden durch die Bundesregierung bzw. 
+in deren Auftrag oder in nachgeordneten Beh&#246;rden zu den tats&#228;chlichen 
+Gefahren bez&#252;glich Sabotage oder Spionage durch kompromittierte
+Netze mit welchen Ergebnissen durchgef&#252;hrt?
+Die Bundesregierung sowie die Bundesnetzagentur und das Bundesamt f&#252;r 
+Sicherheit in der Informationstechnik (BSI) haben auf europ&#228;ischer Ebene
+(Kooperationsgruppe f&#252;r Netzwerk und Informationssicherheit, NIS) an
+nachfolgenden 5G betreffenden Studien und Publikationen mitgewirkt:
+&#8222;EU coordinated risk assessment of the cybersecurity of 5G networks&#8220;, Bericht 
+der NIS-Kooperationsgruppe vom 9. Oktober 2019.
+&#8222;Cybersecurity of 5G networks EU Toolbox of risk mitigating measures&#8220;,
+Ver&#246;ffentlichung der NIS-Kooperationsgruppe vom 29. Januar 2020.
+&#8222;Report on Member States&#8217; Progress in Implementing the EU Toolbox on 5G 
+Cybersecurity&#8220;, Bericht der NIS-Kooperationsgruppe vom 24. Juli 2020.
+Die Berichte bzw. Ver&#246;ffentlichungen sind &#246;ffentlich zug&#228;nglich.
+In einer Risikoanalyse im Jahr 2019 hat das Bundesamt f&#252;r Verfassungsschutz 
+(BfV) die Auswirkungen der Einbeziehung nichtvertrauensw&#252;rdiger und durch 
+fremde Staaten beeinflusster Hersteller in den deutschen 5G-Netzausbau auf 
+die Cybersicherheit bewertet. Die Analyse kommt zu dem Schluss, dass
+illegitime Handlungen wie beispielsweise Cyberspionage oder -sabotage &#8211; ob
+bewusst oder unbewusst durch den Hersteller gef&#246;rdert &#8211; nicht ausgeschlossen 
+werden k&#246;nnen. Die Einbeziehung solcher Hersteller w&#252;rde nach Einsch&#228;tzung 
+des BfV Risiken f&#252;r die Schutzziele Vertraulichkeit, Verf&#252;gbarkeit und
+Integrit&#228;t des Netzwerkes darstellen.
+Dar&#252;ber hinaus werden durch das BfV regelm&#228;&#223;ig Analysen bez&#252;glich
+Gefahren durch Cyberangriffe in unterschiedlichen Berichtsformaten ver&#246;ffentlicht.
+&#8199;4. H&#228;lt die Bundesregierung es f&#252;r m&#246;glich und f&#252;r den potentiellen
+Angreifer (im Vergleich zu anderen Ma&#223;nahmen zur selben Zielerreichung) 
+sinnvoll, dass mithilfe von kompromittierten Komponenten au&#223;erhalb 
+des Kernnetzes (core network) Spionage betrieben wird?
+In welchem Umfang k&#246;nnen dadurch ggf. Daten bei welchem Aufwand 
+abflie&#223;en?
+&#8199;5. H&#228;lt die Bundesregierung es f&#252;r m&#246;glich und f&#252;r den potentiellen
+Angreifer (im Vergleich zu anderen Ma&#223;nahmen zur selben Zielerreichung) 
+sinnvoll, dass mithilfe von kompromittierten Komponenten au&#223;erhalb 
+des Kernnetzes Sabotage betrieben wird?
+Wie gro&#223; w&#228;re ggf. f&#252;r den potentiellen Angreifer der Aufwand, um
+einen gro&#223;fl&#228;chigen Ausfall des Netzes zu verursachen?
+&#8199;6. Wie beantwortet die Bundesregierung die Fragen 4 und 5 in Bezug auf 
+kompromittierte Teile innerhalb des Kernnetzes?
+Die Fragen 4 bis 6 werden aufgrund des Sachzusammenhangs gemeinsam
+beantwortet.
+Die Bundesregierung h&#228;lt es grunds&#228;tzlich f&#252;r m&#246;glich, dass mithilfe von
+kompromittierten Komponenten innerhalb und auch au&#223;erhalb des Kernnetzes 
+Spionage oder Sabotage betrieben werden kann. Dabei geht die
+Bundesregierung davon aus, dass kompromittierte Komponenten innerhalb des Kernnetzes 
+ein gr&#246;&#223;eres Risiko in Bezug auf m&#246;gliche Spionage oder Sabotage darstellen 
+als Komponenten au&#223;erhalb des Kernnetzes. Es kann zudem nicht
+ausgeschlossen werden, dass ein illegitimer Zugang zu einem Netzwerk &#252;ber Komponenten 
+au&#223;erhalb des Kernnetzwerkes zu Netzausf&#228;llen f&#252;hren kann.
+Eine Bewertung der Sinnhaftigkeit verschiedener Angriffsszenarien nimmt die 
+Bundesregierung nicht vor. Welchen Aufwand ein Angreifer aufbringen muss 
+und in welchem Umfang ein Datenabfluss oder Netzausfall bewirkt werden 
+kann, kann nicht pauschal beurteilt werden. Ausschlaggebend sind im
+Einzelfall zahlreiche Faktoren, wie die Komplexit&#228;t der konkreten Netzstruktur, die 
+eingesetzten Komponenten sowie die konkreten Angriffsvektoren. In diesem 
+Zusammenhang ist jedoch auch zu beachten, dass die Netzbetreiber ihre Netze 
+nach dem Stand der Technik gegen derartige Angriffe sch&#252;tzen. Entsprechende 
+Vorgaben folgen aus &#167; 109 des Telekommunikationsgesetzes (TKG) sowie aus 
+dem Katalog von Sicherheitsanforderungen f&#252;r das Betreiben von
+Telekommunikations- und Datenverarbeitungssystemen sowie f&#252;r die Verarbeitung
+personenbezogener Daten, den die Bundesnetzagentur im Einvernehmen mit dem 
+BSI und dem Bundesbeauftragten f&#252;r den Datenschutz und die
+Informationsfreiheit (BfDI) erstellt.
+&#8199;7. Wie definiert die Bundesregierung in diesem Zusammenhang das
+Kernnetz?
+a) Ist das &#8222;Kernnetz&#8220; in diesem Zusammenhang &#252;berhaupt eine
+sinnvolle Abgrenzung, und welche Abgrenzung w&#228;re ggf. besser geeignet, 
+&#8222;kritische Komponenten&#8220; des Telekommunikationsnetzes f&#252;r die
+Betreiber rechtssicher zu definieren?
+b) Sieht die Bundesregierung vor dem Hintergrund, dass die Kritikalit&#228;t 
+der m&#246;glichen Korrumpierbarkeit verschiedener Bestandteile des
+Telekommunikationsnetzes unterschiedlich bewertet wird (s. o.),
+Bedarf, &#8222;kritische Komponenten&#8220; gesetzlich klarer zu definieren und 
+den Betreibern somit konkretere und damit rechtssicherere Leitlinien 
+an die Hand zu geben?
+Der Begriff Kernnetz (bzw. Core-Netz) wird u. a. in den Technical Reports der 
+Standardisierungsorganisation 3rd Generation Partnership Project (3GPP)
+verwendet und definiert (3GPP TR 21.915 &#8211; Technical Specification Group
+Services and System Aspects, https://www.3gpp.org/release-15). Sie bilden die 
+Grundlage f&#252;r den Netzaufbau, die Dienstekonfiguration und die
+Schnittstellendefinitionen.
+Der &#252;berarbeitete Katalog von Sicherheitsanforderungen f&#252;r das Betreiben von 
+Telekommunikations- und Datenverarbeitungssystemen sowie f&#252;r die
+Verarbeitung personenbezogener Daten, den die Bundesnetzagentur im Einvernehmen 
+mit dem BSI und dem BfDI erstellt und am 11. August 2020 als vorl&#228;ufige
+Fassung ver&#246;ffentlicht hat (https://www.bundesnetzagentur.de/SharedDocs/Presse
+mitteilungen/DE/2020/20200811_sicherheitskatalogliste.html), nimmt bei der 
+Bewertung kritischer Komponenten keine Unterscheidung zwischen Kern- und 
+Zugangsnetz vor. Vielmehr werden Komponenten, die kritische Funktionen im 
+Netz erf&#252;llen, als kritische Komponenten eingestuft. F&#252;r diese werden
+weitergehende Anforderungen aufgestellt. Die Einstufung kritischer Funktionen
+nehmen die zust&#228;ndigen Beh&#246;rden vor. Die Bundesnetzagentur hat am 11. August 
+2020 eine im Einvernehmen mit dem BSI und dem BfDI erarbeitete Liste der 
+kritischen Funktionen zur Konsultation gestellt (https://www.bundesnetzagentu
+r.de/DE/Sachgebiete/Telekommunikation/Unternehmen_Institutionen/Anbieter
+pflichten/OeffentlicheSicherheit/KatalogSicherheitsanforderungen/aktualisieru
+ng_sicherheitsanforderungen/aktualisierung_sicherheitsanforderungen-nod
+e.html). Diese betrachtet die einzelne Funktionalit&#228;t unabh&#228;ngig von der
+technischen Verortung im jeweiligen technischen Netzaufbau.
+Die Bundesregierung bef&#252;rwortet diese Vorgehensweise bei der Bewertung
+kritischer Komponenten. Im &#220;brigen wird auf die Antwort zu den Fragen 1 und 2 
+verwiesen.
+&#8199;8. Welche Gespr&#228;che hat die Bundesregierung wann mit Vertretern der
+Telekommunikationsnetzbetreiber bez&#252;glich der Sicherstellung der
+nationalen Souver&#228;nit&#228;t der Netzinfrastruktur gef&#252;hrt, wer hat jeweils
+teilgenommen, und zu welchen Ergebnissen haben diese Gespr&#228;che jeweils
+gef&#252;hrt?
+Die nachfolgenden Angaben beziehen sich ausschlie&#223;lich auf Gespr&#228;che der 
+Leitungsebene und erfolgen auf der Grundlage der vorliegenden Erkenntnisse 
+sowie vorhandener Unterlagen und Aufzeichnungen. Dar&#252;ber hinaus pflegen 
+die Bundeskanzlerin, Ministerinnen und Minister, Parlamentarische
+Staatssekret&#228;rinnen bzw. Parlamentarische Staatssekret&#228;re und Staatsekret&#228;rinnen bzw. 
+Staatssekret&#228;re aufgabenbedingt in jeder Wahlperiode Kontakte mit einer
+Vielzahl von Akteuren. Eine Verpflichtung zur Erfassung s&#228;mtlicher gef&#252;hrter
+Gespr&#228;che (einschlie&#223;lich Telefonate) besteht nicht, und eine solche umfassende 
+Dokumentation wurde auch nicht durchgef&#252;hrt (siehe dazu auch die
+Vorbemerkung der Bundesregierung in der Antwort auf die Kleine Anfrage der Fraktion 
+DIE LINKE. auf Bundestagsdrucksache 18/1174). Die nachfolgenden
+Ausf&#252;hrungen bzw. aufgef&#252;hrten Angaben erfolgen auf der Grundlage der
+vorliegenden Erkenntnisse sowie vorhandener Unterlagen und Aufzeichnungen.
+Diesbez&#252;gliche Daten sind somit m&#246;glicherweise nicht vollst&#228;ndig.
+Datum Teilnehmer
+Bundeskanzleramt
+Bundeskanzlerin Dr. Angela 
+Merkel
+13.11.2019 Jos&#233; Mar&#237;a &#193;lvarez-Pallete L&#243;pez (Telef&#243;nica S.A.)
+Bundeskanzlerin Dr. Angela 
+Merkel
+14.02.2020 Timotheus H&#246;ttges (Deutsche Telekom AG), Marcus 
+Haas (Telef&#243;nica Germany GmbH &amp; Co. OHG), 
+Dr. Hannes Ametsreiter (Vodafone GmbH),
+sowie als Vertreter der BReg Bundesminister Prof. 
+Dr. Helge Braun, Staatssekret&#228;r Klaus Vitt (BMI), 
+Parlamentarischer Staatssekret&#228;r Marco Wanderwitz 
+(BMWi)
+Bundesminister Prof. Dr. Helge 
+Braun
+16.11.2018 Dr. Hannes Ametsreiter (Vodafone GmbH)
+Bundesminister Prof. Dr. Helge 
+Braun
+05.02.2019 Dr. Dirk W&#246;ssner (Deutsche Telekom AG)
+Bundesminister Prof. Dr. Helge 
+Braun
+25.11.2019 Marcus Haas (Telef&#243;nica Germany GmbH &amp; Co. 
+OHG)
+Bundesminister Prof. Dr. Helge 
+Braun
+01.04.2020 Gespr&#228;ch mit Bitkom Pr&#228;sidium, u. a. Teilnehmer 
+Marcus Haas (Telef&#243;nica Germany GmbH &amp; Co. 
+OHG), Dr. Dirk W&#246;ssner (Deutsche Telekom AG)
+Bundesminister Prof. Dr. Helge 
+Braun
+03.07.2020 Claudia Nemat (Deutsche Telekom AG)
+Bundesminister Prof. Dr. Helge 
+Braun
+16.07.2020 Timotheus H&#246;ttges (Deutsche Telekom AG)
+Staatssekret&#228;r Johannes Geismann 14.11.2019 Claudia Nemat (Deutsche Telekom AG)
+Staatssekret&#228;r Johannes Geismann 12.12.2019 Deutsche Telekom AG
+Staatssekret&#228;r Johannes Geismann 17.06.2020 Claudia Nemat (Deutsche Telekom AG)
+Datum Teilnehmer
+Bundesministerium f&#252;r Wirtschaft und Energie
+Bundesminister Peter Altmaier 15.11.2019 Claudia Nemat (Deutsche Telekom AG),
+Dr. Christoph Cl&#233;ment (Vodafone GmbH),
+Markus Haas (Telef&#243;nica Germany GmbH &amp; Co. 
+OHG),
+Ralph Dommermuth (1&amp;1 Drillisch AG),
+Christoph Bernstiel (MdB), Vertreter f&#252;r MdB 
+Joachim Pfeiffer, Vertreter f&#252;r MdB Thorsten Frei, 
+Vertreter f&#252;r MdB Carsten Linnemann, Vertreter f&#252;r 
+MdB Ulrich Lange, Vertreter f&#252;r MdB Mathias 
+Middelberg, Mark Hauptmann (MdB), Hansj&#246;rg 
+Durz (MdB), J&#252;rgen Hardt (MdB), Philipp Amthor 
+(MdB), Florian Hahn (MdB), Stefan Rouenhoff 
+(MdB)
+Bundesminister Peter Altmaier 02.12.2019 Staatssekret&#228;r Dr. Ulrich Nu&#223;baum,
+Dr. Christoph Cl&#233;ment (Vodafone GmbH),
+Markus Haas (Telef&#243;nica Germany GmbH &amp; Co. 
+OHG),
+Claudia Nemat (Deutsche Telekom AG),
+Martin Witt (1&amp;1 Drillisch AG)
+Bundesminister Peter Altmaier 17.01.2020 Claudia Nemat (Deutsche Telekom AG)
+Bundesminister Peter Altmaier 29.04.2020 Dr. Hannes Ametsreiter (Vodafone GmbH)
+Staatssekret&#228;r Dr. Ulrich Nu&#223;baum 30.01.2019 Dr. Thomas Kremer, Claudia Nemat (Deutsche
+Telekom AG),
+Dr. Christoph Cl&#233;ment (Vodafone Deutschland 
+GmbH),
+Andr&#233; Beltz (Telef&#243;nica Germany GmbH &amp; Co. 
+OHG)
+sowie als Vertreter der BReg Staatssekret&#228;r Johannes 
+Geismann, Staatssekret&#228;r Klaus Vitt, Staatssekret&#228;r 
+Werner Gatzer
+Staatssekret&#228;r Dr. Ulrich Nu&#223;baum 03.06.2019 Claudia Nemat (Deutsche Telekom AG)
+Staatssekret&#228;r Dr. Ulrich Nu&#223;baum 21.10.2019 Markus Haas (Telef&#243;nica Germany GmbH &amp; Co. 
+OHG)
+Staatssekret&#228;r Dr. Ulrich Nu&#223;baum 14.11.2019 Hannes Ametsreiter (Vodafone GmbH)
+Staatssekret&#228;r Dr. Ulrich Nu&#223;baum 24.06.2020 Claudia Nemat (Deutsche Telekom AG)
+Bundesministerium des Innern, f&#252;r Bau und Heimat
+Staatssekret&#228;r Klaus Vitt 06.12.2018 Claudia Nemat und Dr. Thomas Kremer (Deutsche 
+Telekom AG)
+Parlamentarischer Staatssekret&#228;r 
+Stephan Mayer
+22.03.2019 Fritz-Uwe Hofmann (Leiter der Telekom-
+Hauptstadtrepr&#228;sentanz)
+Staatssekret&#228;r Klaus Vitt 10.12.2019 Gabriele Kossak (Leiterin Vertrieb &#246;ffentlicher
+Sektor von Vodafone)
+Ausw&#228;rtiges Amt
+Staatsminister Niels Annen 11.11.2019 Fritz-Uwe Hofmann und Mark Vasi&#263; (Deutsche
+Telekom AG)
+Staatsminister Niels Annen 19.05.2020 Mark Vasi&#263; (Deutsche Telekom AG)
+Bundesministerium der Finanzen
+Staatssekret&#228;r Werner Gatzer 22.02.2019 Dr. Thomas Kremer, Claudia Nemat (Deutsche
+Telekom AG)
+Datum Teilnehmer
+Bundesminister Olaf Scholz,
+Staatssekret&#228;r Dr. Rolf B&#246;singer
+11.03.2020 Timotheus H&#246;ttges (Deutsche Telekom AG)
+Staatssekret&#228;r Dr. Rolf B&#246;singer 17.06.2020 Fritz-Uwe Hofmann, Claudia Nemat (Deutsche
+Telekom AG)
+Bundesminister Olaf Scholz,
+Staatssekret&#228;r Werner Gatzer
+07.08.2020 Timotheus H&#246;ttges (Deutsche Telekom AG)
+&#8199;9. Welche Gespr&#228;che hat die Bundesregierungen zu diesem
+Themenkomplex wann mit Vertretern der US-amerikanischen bzw. chinesischen
+Regierung oder von Huawei gef&#252;hrt, wer hat jeweils teilgenommen, und zu 
+welchen Ergebnissen haben diese Gespr&#228;che jeweils gef&#252;hrt?
+Es gab und gibt auf Leitungsebene regelm&#228;&#223;ig Gespr&#228;che mit Vertretern der 
+US-amerikanischen und chinesischen Regierungen, auch zu dem Thema 5G-
+Netzausbau. Zu den Inhalten vertraulicher Gespr&#228;che der Bundesregierung mit 
+Vertretern ausl&#228;ndischer Regierungen macht die Bundesregierung keine
+Angaben. Es handelt sich um Akte der Staatslenkung und somit unmittelbares
+Regierungshandeln. Sie unterliegen dem Kernbereich exekutiver
+Eigenverantwortung. Die Vertraulichkeit der Beratungen auf hoher politischer Ebene ist
+entscheidend f&#252;r den Schutz der ausw&#228;rtigen Beziehungen der Bundesrepublik 
+Deutschland. W&#252;rden diese unter der Annahme gegenseitiger Vertraulichkeit 
+ausgetauschten Gespr&#228;chsinhalte Dritten bekannt &#8211; dies umfasst auch eine
+Weitergabe an das Parlament &#8211; w&#252;rden sich die Gespr&#228;chspartner bei einem
+zuk&#252;nftigen Zusammentreffen nicht mehr in gleicher Weise offen austauschen. 
+Ein unvoreingenommener Austausch auch auf pers&#246;nlicher Ebene und die
+damit verbundene Fortentwicklung der deutschen Au&#223;enpolitik w&#228;re dann nur 
+noch auf langwierigere, weniger erfolgreiche Art und Weise oder im Einzelfall 
+auch gar nicht mehr m&#246;glich.
+Zus&#228;tzlich zu der Vorbemerkung zu Frage 8 folgender Hinweis:
+Bei den Gespr&#228;chen kn&#252;pft die Bundesregierung an die Antwort auf die Kleine 
+Anfrage auf Bundestagsdrucksache 19/9194 an und listet nachfolgend ab
+diesem Zeitpunkt, also dem 11. M&#228;rz 2019, gef&#252;hrte Gespr&#228;che mit Vertretern von 
+Huawei auf:
+Datum Teilnehmer
+Bundesministerium f&#252;r Wirtschaft und Energie
+Bundesminister Peter Altmaier 21.06.2019 Ren Zhengfei (Gr&#252;nder und Pr&#228;sident
+Huawei) und weitere
+Parlamentarischer Staatssekret&#228;r Christian 
+Hirte
+27.03.2019 David Wang (Deputy CEO Huawei 
+Deutschland GmbH) und weitere
+Bundesministerium des Innern, f&#252;r Bau und Heimat
+Parlamentarischer Staatssekret&#228;r
+Prof. Dr. G&#252;nter Krings
+16.11.2018 Frau Lifang Chen, Senior Vice President 
+Huawei Technologies
+Parlamentarischer Staatssekret&#228;r
+Prof. Dr. G&#252;nter Krings
+11.03.2019 Frau Lifang Chen, Senior Vice President 
+Huawei Technologies
+Staatssekret&#228;r Klaus Vitt 23.05.2019 Herrn Ken Hu, stellvertretender
+Vorsitzender von Huawei Technologies
+10. Welche spieltheoretischen Analysen oder sonstigen Studien wurden 
+durch die Bundesregierung bzw. in deren Auftrag durchgef&#252;hrt, die
+m&#246;gliche Auswirkungen eines Handelskriegs bzw. anderweitiger
+wirtschaftspolitischer Auseinandersetzungen zwischen den USA und China
+betrachten, und zu welchen Ergebnissen kommen diese Studien insbesondere im 
+Hinblick auf eine m&#246;gliche strategische Positionierung Deutschlands?
+In welchen dieser Analysen oder Studien spielte die
+Telekommunikationsinfrastruktur eine Rolle?
+Es wurden keine spieltheoretischen oder sonstigen Studien zu m&#246;glichen
+Auswirkungen eines Handelskriegs bzw. anderweitiger wirtschaftspolitischer
+Auseinandersetzungen zwischen den USA und China durchgef&#252;hrt oder in Auftrag 
+gegeben.
+11. Inwieweit spielt politischer Druck aus den USA in der Entscheidung der 
+Bundesregierung bez&#252;glich eines m&#246;glichen Ausschlusses von Huawei 
+beim Ausbau der 5G-Infrastruktur eine Rolle?
+Die Bundesregierung entwickelt gem&#228;&#223; dem im M&#228;rz 2019 ver&#246;ffentlichten 
+Eckpunktepapier (https://www.bundesnetzagentur.de/SharedDocs/Pressemitteil
+ungen/DE/2019/20190307_ITsicherheitskatalog.html) erh&#246;hte
+Sicherheitsanforderungen f&#252;r den Ausbau der 5G-Netze. Daneben sind gesetzliche
+Anpassungen des TKG sowie des Gesetzes &#252;ber das Bundesamt f&#252;r Sicherheit in der 
+Informationstechnik (BSIG) geplant.
+Die Bundesregierung unterst&#252;tzt dar&#252;ber hinaus die Koordinierung der EU-
+Mitgliedstaaten zu Sicherheitsanforderungen von 5G-Netzen, wie sie infolge 
+der Empfehlungen der EU-Kommission zur 5G-Sicherheit vom 26. M&#228;rz 2019 
+durchgef&#252;hrt wird. Die Bundesregierung favorisiert eine EU-weit m&#246;glichst 
+einheitliche L&#246;sung, die europ&#228;ischen Interessen Rechnung tr&#228;gt. Ziel dieser 
+Ma&#223;nahmen ist es, h&#246;chste Sicherheitsstandards zu definieren, die f&#252;r alle
+Telekommunikationsanbieter und Zulieferer gleicherma&#223;en und unabh&#228;ngig von 
+deren jeweiligen Ursprungsl&#228;ndern gelten. Gleichzeitig soll so ein schneller 
+Ausbau des 5G-Netzes zum Vorteil von Unternehmen und Verbrauchern in 
+Deutschland und der EU gew&#228;hrleistet werden.
+Mit den Vereinigten Staaten von Amerika steht die Bundesregierung zu diesem 
+wie auch zu vielen anderen Themen in engem Austausch.
+12. Inwieweit spielt politischer Druck aus China in der Entscheidung der 
+Bundesregierung bez&#252;glich eines m&#246;glichen Ausschlusses von Huawei 
+beim Ausbau der 5G-Infrastruktur eine Rolle?
+Mit der Volksrepublik China steht die Bundesregierung zu diesem wie auch zu 
+vielen anderen Themen in engem Austausch. Dar&#252;ber hinaus wird auf die
+Antwort zu Frage 11 verwiesen.
+13. Liegt der Bundesregierung die in Medienberichten (https://www.handels
+blatt.com/technik/it-internet/ausschluss-von-netzausruester-
+armageddonszenario-telekom-spielt-huawei-bann-durch/25918402.html) genannte 
+Studie der Telekom vor, und ist die mediale Wiedergabe des Ergebnisses 
+der Studie, nach dem ein R&#252;ckbau s&#228;mtlicher bereits verbauter
+Netztechnik von Huawei &#8222;bis zu f&#252;nf Jahre dauern und mindestens 3 Mrd. Euro 
+kosten&#8220; w&#252;rde, korrekt?
+Beziehen sich die genannten Mehrkosten nach dieser Studie allein auf 
+die Netze der Telekom?
+Das genannte Papier der Telekom liegt der Bundesregierung nicht vor. Zu den 
+Inhalten des Papiers kann keine Aussage getroffen werden.
+14. Hat die Bundesregierung entsprechende Berechnungen selbst
+durchgef&#252;hrt bzw. durchf&#252;hren lassen, und zu welchem Ergebnis sind sie
+gekommen?
+Sind die Zahlen der o. g. Studie der Telekom nach Auffassung der
+Bunderegierung realistisch, und wie sch&#228;tzt die Bundesregierung die
+tats&#228;chliche Verz&#246;gerung und die gesamten Mehrkosten &#252;ber alle Netzbetreiber 
+bei einem vollst&#228;ndigen R&#252;ckbau s&#228;mtlicher bereits verbauter
+Netztechnik von Huawei ein?
+Die Bundesregierung hat keine Berechnungen zu R&#252;ckbaukosten von
+Komponenten verschiedener Hersteller selbst durchgef&#252;hrt oder durchf&#252;hren lassen. 
+Die Instandhaltung und der Netzausbau der Telekommunikationsnetze erfolgt 
+eigenverantwortlich durch die Netzbetreiber. Eine Einsch&#228;tzung zu der
+tats&#228;chlichen Verz&#246;gerung und den gesamten Mehrkosten &#252;ber alle Netzbetreiber bei 
+einem vollst&#228;ndigen R&#252;ckbau s&#228;mtlicher bereits verbauter Netztechnik von 
+Huawei ist der Bundesregierung aufgrund der Unkenntnis der hierf&#252;r
+erforderlichen Unternehmensdaten der Mobilfunknetzbetreiber nicht m&#246;glich. Im
+&#220;brigen wird auf die Antwort zu Frage 13 verwiesen.
+15. Sind der Bundesregierung die konkreten 5G-Netzausbaupl&#228;ne der
+Betreiber in Deutschland bekannt, wie sehen sie jeweils aus, und wie hoch 
+wird die 5G-Netzabdeckung Ende 2020, Ende 2021, Ende 2022 und
+Ende 2025 nach Sch&#228;tzung der Bundesregierung in etwa sein?
+Nach aktueller Auskunft der Mobilfunknetzbetreiber sehen deren Ausbaupl&#228;ne 
+wie folgt aus:
+Telekom:
+Die Telekom plant bis Ende des Jahres 67 Prozent der Bundesb&#252;rger eine 5G 
+Versorgung anbieten k&#246;nnen &#8211; bis Ende 2025 sollen es 99 Prozent sein. Eine 
+weitergehende Abstufung auf die Folgejahre ist durch die Unw&#228;gbarkeiten 
+(fehlende Genehmigungen, schwere Grundst&#252;ckakquise) im laufenden Rollout 
+schwer prognostizierbar und unterliegt des Weiteren den Betriebs- und
+Gesch&#228;ftsgeheimnissen.
+Vodafone:
+F&#252;r Ende 2020 ist geplant, mehr als 8.000 Antennen an ca. 3.000 Standorten 
+freizuschalten. Hierdurch werden mehr als 60.000 Quadratkilometer Fl&#228;che mit 
+einer Bev&#246;lkerung von 10 Millionen Menschen versorgt. Bis Ende 2021 plant 
+Vodafone 20 Millionen Menschen mit 5G zu versorgen.
+Die Netzplanung wird regelm&#228;&#223;ig angepasst, wobei auch der derzeitige 5G-
+Ausbau insbesondere im Zusammenhang mit der 4G-Versorgungsauflage
+einem steten Anpassungsprozess unterliegt.
+Telef&#243;nica:
+Telef&#243;nica startet im Jahr 2020 mit dem Ausbau des neuen 5G-
+Mobilfunkstandards in den St&#228;dten Berlin, Hamburg, M&#252;nchen, K&#246;ln und 
+Frankfurt, um der stetig wachsenden Nachfrage nach Mobilfunkdaten in
+Ballungszentren gerecht zu werden. Bis Ende 2022 plant Telef&#243;nica 30 St&#228;dte mit 
+rund 16 Millionen Einwohnern zu versorgen. Gleichzeitig wird das
+Unternehmen 5G bundesweit projekt- und anwendungsbezogen ausbauen k&#246;nnen, etwa 
+im Rahmen industrieller Kooperationen. Ausbaupl&#228;ne &#252;ber das Jahr 2022
+hinaus sind bisher noch nicht final.
+16. H&#228;lt die Bundesregierung die Erkl&#228;rung der Telekom f&#252;r realistisch, nach 
+der bis &#8222;Ende 2020 [&#8230;] mehr als die H&#228;lfte der deutschen Bev&#246;lkerung 
+5G empfangen k&#246;nnen [soll]&#8220; (vgl. https://www.telekom.de/unterwegs/w
+as-ist-5g/5g-mobilfunk)?
+W&#252;rde sich nach Ansicht der Bundesregierung ein Ausschluss von
+Huawei auf dieses Ausbauziel auswirken?
+Die Planung und Ausf&#252;hrung des 5G-Netzausbaus ist Sache der privaten
+Mobilfunknetzbetreiber. Die Bundesregierung bewertet einzelne
+Unternehmenserkl&#228;rungen hierzu nicht.
+17. Welche Informationen liegen der Bundesregierung dar&#252;ber vor, wie es 
+genau zu den St&#246;rungen im Telekom-Netz in der Nacht vom 16. zum 
+17. Juni 2020 kam (vgl. https://www.heise.de/news/Umfangreiche-Stoer
+ungen-im-Telekom-Mobilfunknetz-4784788.html), und in welchem
+Umfang sind St&#246;rungen bzw. Ausf&#228;lle der bestehenden Mobilfunknetze im 
+Rahmen des weiteren 5G-Ausbaus nach Erkenntnissen der
+Bundesregierung zu erwarten?
+Gab es hierzu Gespr&#228;che mit den Netzbetreibern?
+Die Deutsche Telekom AG hat diese St&#246;rung im Rahmen der Mitteilung nach 
+&#167; 109 Absatz 5 TKG am 16. Juni 2020 bei der Bundesnetzagentur und dem BSI 
+als &#8222;St&#246;rung der Verf&#252;gbarkeit des Mobilfunknetzes aufgrund von Wartungs- 
+und Update-Ma&#223;nahmen&#8220; gemeldet.
+Beim Aus- und Umbau von Netzen ist das Auftreten unvorhersehbarer
+Komplikationen nicht ausgeschlossen. Es liegen der Bundesregierung und der
+Bundesnetzagentur jedoch keine Erkenntnisse dazu vor, dass es beim Ausbau der 5G-
+Netze zu einer H&#228;ufung von St&#246;rungsereignissen kommen wird. Hierzu wurden 
+keine Gespr&#228;che mit den Netzbetreibern gef&#252;hrt.
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/21254 -
+Wahrung der Digitalen Souver&#228;nit&#228;t beim 5G-Ausbau</titel>
+    <datum>2020-08-28</datum>
+  </document>
+  

@@ -1,0 +1,193 @@
+<document>
+    <id>240588</id>
+    <drucksachetyp>Kleine Anfrage</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>38</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/18799</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>e61d4f2d222f1cdb33c17c0a2ca31f65</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:15+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>261596</id>
+      <titel>Schwachstellenmanagement</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>FDP</bezeichnung>
+      <titel>Fraktion der FDP</titel>
+    </urheber>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/187/1918799.pdf</pdf_url>
+      <id>240588</id>
+      <dokumentnummer>19/18799</dokumentnummer>
+      <datum>2020-04-27</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Kleine Anfrage</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Fraktion der FDP</urheber>
+    </fundstelle>
+    <autoren_anzeige>
+      <id>2264</id>
+      <titel>Konstantin Kuhle, MdB, FDP</titel>
+      <autor_titel>Konstantin Kuhle</autor_titel>
+    </autoren_anzeige>
+    <autoren_anzeige>
+      <id>1062</id>
+      <titel>Manuel H&#246;ferlin, MdB, FDP</titel>
+      <autor_titel>Manuel H&#246;ferlin</autor_titel>
+    </autoren_anzeige>
+    <text>[Kleine Anfrage
+der Abgeordneten Konstantin Kuhle, Manuel H&#246;ferlin, Stephan Thomae, 
+Grigorios Aggelidis, Renata Alt, Dr. Jens Brandenburg (Rhein-Neckar), Mario 
+Brandenburg (S&#252;dpfalz), Sandra Bubendorfer-Licht, Dr. Marco Buschmann, 
+Christian D&#252;rr, Dr. Marcus Faber, Otto Fricke, Thomas Hacker, Peter Heidt, Katrin 
+Helling-Plahr, Katja Hessel, Dr. Christoph Hoffmann, Reinhard Houben, Ulla 
+Ihnen, Olaf in der Beek, Dr. Marcel Klinge, Daniela Kluckert, Pascal Kober, Carina 
+Konrad, Ulrich Lechte, Roman M&#252;ller-B&#246;hm, Dr. Martin Neumann, Bernd Reuther, 
+Dr. Wieland Schinnenburg, Matthias Seestern-Pauly, Dr. Hermann Otto Solms, 
+Bettina Stark-Watzinger, Benjamin Strasser, Katja Suding, Dr. Florian Toncar, 
+Gerald Ullrich, Sandra Weeser, Nicole Westig und der Fraktion der FDP
+Schwachstellenmanagement
+Sicherheitsl&#252;cken in komplexen IT-Systemen (IT = Informationstechnologie) 
+k&#246;nnen weitreichende Folgen f&#252;r Anbieter und Nutzer haben. Besonders
+gef&#228;hrlich sind dabei sogenannte Zero-Day-Schwachstellen, also Fehler, die
+insbesondere dem Hersteller des betroffenen Systems noch nicht bekannt sind und 
+f&#252;r die daher keine Abhilfe oder Eind&#228;mmung zur Verf&#252;gung steht. Die Folgen 
+eines gezielten Angriffs unter Ausnutzung derartiger Schwachstellen k&#246;nnen 
+immens sein. So hat beispielsweise der Angriff mit der Trojaner-Software 
+&#8222;WannaCry&#8220; im Jahr 2017 zum Ausfall zahlreicher Computersysteme des
+britischen Gesundheitsdienstes NHS gef&#252;hrt (vgl. https://www.heise.de/newsticker/
+meldung/WannaCry-Angriff-mit-Ransomware-legt-weltweit-Zehntausende-Re
+chner-lahm-3713235.html, letzter Aufruf 8. April 2020). Die Software nutzte 
+dabei eine Schwachstelle im weit verbreiteten Betriebssystem Microsoft
+Windows. Diese war zwar zum Zeitpunkt des Angriffs bereits bekannt, jedoch zuvor 
+mutma&#223;lich &#252;ber einen l&#228;ngeren Zeitraum von einem US-amerikanischen
+Geheimdienst zur Infiltration von Computersystemen geheim gehalten worden 
+(vgl. https://www.spiegel.de/netzwelt/web/wannacry-attacke-fakten-zum-global
+en-cyber-angriff-a-1147523.html, letzter Aufruf 8. April 2020). Vor dem
+Hintergrund solcher Vorf&#228;lle werden im politischen Raum immer wieder
+Forderungen nach gr&#246;&#223;tm&#246;glicher Transparenz und nach einer schnellstm&#246;glichen 
+Schlie&#223;ung von IT-Sicherheitsl&#252;cken erhoben (vgl. Antrag der Fraktion der 
+FDP, Digitalisierung ernst nehmen &#8211; IT-Sicherheit st&#228;rken,
+Bundestagsdrucksache 19/7698).
+Die Ausnutzung von IT-Sicherheitsl&#252;cken wie im Fall WannaCry zeigt, dass 
+dem Interesse der Allgemeinheit und der Betroffenen an einer
+schnellstm&#246;glichen Ver&#246;ffentlichung und Schlie&#223;ung der Schwachstellen typischerweise
+Sicherheitsinteressen gegen&#252;berstehen. Es gibt verschiedene Ans&#228;tze, um die
+Interessen beim Umgang mit bekannt gewordenen Sicherheitsl&#252;cken in Einklang 
+zu bringen. In den Vereinigten Staaten von Amerika existiert seit dem Jahr 
+Deutscher Bundestag Drucksache 19/18799
+19. Wahlperiode 27.04.2020
+2010 der sogenannte Vulnerability Equities Policy and Process (VEP) (vgl. 
+Herpig, Sven: Schwachstellenmanagement f&#252;r mehr Sicherheit &#8211; Wie der Staat 
+den Umgang mit Zero-Day-Schwachstellen regeln sollte, S. 13; abrufbar unter 
+https://www.stiftung-nv.de/de/publikation/schwachstellen-management-fuer-m
+ehr-sicherheit, letzter Abruf 8. April 2020). Kernelement des Konzepts ist die 
+rechtliche Abw&#228;gung zwischen dem Interesse des Staates bzw. der
+Allgemeinheit an der Nutzung von Schwachstellen in Hardware, Software oder bei 
+Online-Diensten zum Zweck der Strafverfolgung, der Gefahrenabwehr, der 
+nachrichtendienstlichen Aufkl&#228;rung oder milit&#228;rischer Operationen mit
+grundrechtlichen und wirtschaftlichen Belangen sowie mit Aspekten der IT-
+Sicherheit (vgl. Herpig, S. 13, 36).
+Wir fragen die Bundesregierung:
+&#8199;1. Existiert innerhalb der Bundesregierung, einschlie&#223;lich ihrer
+nachgeordneten Beh&#246;rden, ein einheitliches Konzept zum Umgang mit sogenannten 
+Zero-Day-Schwachstellen?
+Falls nein, welche unterschiedlichen Konzepte bestehen f&#252;r welche
+Zust&#228;ndigkeitsbereiche?
+&#8199;2. Existiert in der Bundesregierung, einschlie&#223;lich ihrer nachgeordneten
+Beh&#246;rden, ein einheitliches Konzept zur Ber&#252;cksichtigung von
+grundrechtlichen und wirtschaftlichen Belangen sowie von Aspekten der IT-Sicherheit 
+beim Umgang mit sogenannten Zero-Day-Schwachstellen in Hardware, 
+Software oder bei Online-Diensten?
+&#8199;3. Existiert in der Bundesregierung, einschlie&#223;lich ihrer nachgeordneten
+Beh&#246;rden, ein einheitliches Konzept zur Ber&#252;cksichtigung des Interesse des 
+Staates bzw. der Allgemeinheit an der Nutzung von Zero-Day-
+Schwachstellen in Hardware, Software oder bei Online-Diensten zum Zweck der 
+Strafverfolgung, der Gefahrenabwehr, der nachrichtendienstlichen
+Aufkl&#228;rung oder milit&#228;rischer Operationen?
+&#8199;4. Welche staatliche Stelle ist in der Bundesrepublik Deutschland innerhalb 
+des einheitlichen Konzepts oder der unterschiedlichen Konzepte f&#252;r die 
+Abw&#228;gung zwischen dem Interesse des Staates bzw. der Allgemeinheit an 
+der Nutzung von Schwachstellen in Hardware, Software oder bei Online-
+Diensten zum Zweck der Strafverfolgung, der Gefahrenabwehr, der
+nachrichtendienstlichen Aufkl&#228;rung oder milit&#228;rischer Operationen mit
+grundrechtlichen und wirtschaftlichen Belangen sowie mit Aspekten der IT-
+Sicherheit zust&#228;ndig?
+&#8199;5. Nach welchen Regeln erfolgt in der Bundesrepublik Deutschland
+innerhalb des einheitlichen Konzepts oder der unterschiedlichen Konzepte die 
+Abw&#228;gung zwischen dem Interesse des Staates bzw. der Allgemeinheit an 
+der Nutzung von Schwachstellen in Hardware, Software oder bei Online-
+Diensten zum Zweck der Strafverfolgung, der Gefahrenabwehr, der
+nachrichtendienstlichen Aufkl&#228;rung oder milit&#228;rischer Operationen mit
+grundrechtlichen und wirtschaftlichen Belangen sowie mit Aspekten der IT-
+Sicherheit?
+Welche Ma&#223;st&#228;be werden f&#252;r eine solche Abw&#228;gung angelegt?
+&#8199;6. Wie kann eine solche Abw&#228;gung aus Sicht der Bundesregierung
+unabh&#228;ngig &#252;berpr&#252;ft und kontrolliert werden, insbesondere wenn die Abw&#228;gung 
+zum Ergebnis der Geheimhaltung einer IT-Schwachstelle f&#252;hrt?
+Welche Rechtsschutzm&#246;glichkeiten stehen Betroffenen, also insbesondere 
+den Herstellern, Vertreibern und Nutzern von Soft- und Hardware zu?
+&#8199;7. Wie kann aus Sicht der Bundesregierung sichergestellt werden, dass
+Betroffene, also insbesondere Hersteller und Nutzer von IT-Systemen,
+Entsch&#228;digungsanspr&#252;che geltend machen k&#246;nnen, wenn eine fehlerhafte
+Abw&#228;gung und ein Bekanntwerden von zun&#228;chst geheim gehaltenen IT-
+Sicherheitsl&#252;cken zu Sch&#228;den bei Herstellern und Nutzern f&#252;hren?
+&#8199;8. Sind der Bundesregierung gem&#228;&#223; den &#167;&#167; 4 und 8b des Gesetzes &#252;ber das 
+Bundesamt f&#252;r Sicherheit in der Informationstechnik (BSIG) flankierende 
+Absprachen oder Vereinbarungen zwischen Beh&#246;rden oder staatlichen 
+Stellen zur Meldung von IT-Schwachstellen an das BSI bekannt?
+Wenn ja, welchen Inhalt haben diese?
+&#8199;9. Sind der Bundesregierung noch weitere Meldepflichten neben denen aus 
+den &#167;&#167; 4 und 8b BSIG f&#252;r IT-Sicherheitsl&#252;cken bekannt?
+Wenn ja, aus welcher Norm oder Vereinbarung ergeben sich diese?
+10. An welche staatliche Stelle kann sich ein privater Dritter wenden, der eine 
+IT-Schwachstelle gefunden hat?
+Welches Verfahren ist insoweit f&#252;r die Meldung vorgesehen?
+11. Wie kommunizieren staatliche Stellen, insbesondere die
+Sicherheitsbeh&#246;rden des Bundes, &#252;ber bekannt gewordene IT-Sicherheitsl&#252;cken?
+Gibt es f&#252;r diese Kommunikation verbindliche Regelungen?
+12. Welche Konzepte eines Schwachstellenmanagements sind der
+Bundesregierung bekannt, und wie bewertet sie diese im Einzelnen?
+13. Gibt es ein Konzept der Bundesregierung zur Entwicklung eines
+staatlichen Schwachstellenmanagements?
+Welche Ressorts sind daran beteiligt?
+Welches Ressort ist federf&#252;hrend zust&#228;ndig?
+14. Welche Beh&#246;rden oder anderen staatlichen Stellen des Bundes und der 
+L&#228;nder w&#228;ren von einem staatlichen Schwachstellenmanagement
+betroffen?
+Welche sonstigen Akteure spielen in einem solchen
+Schwachstellenmanagement welche Rolle?
+Wie werden insbesondere die Hersteller von betroffener Soft- und
+Hardware in die Schlie&#223;ung von IT-Schwachstellen eingebunden?
+15. Welche Beh&#246;rde oder andere staatliche Stelle &#252;bernimmt die
+koordinierende Funktion in einem staatlichen Schwachstellenmanagement
+beziehungsweise wird diese voraussichtlich &#252;bernehmen, sobald ein solches Konzept 
+entwickelt ist?
+16. Ist vorgesehen, Teile eines Konzepts f&#252;r ein staatliches
+Schwachstellenmanagement zu ver&#246;ffentlichen (wie es beispielsweise die Vereinigten 
+Staaten von Amerika getan haben, vgl. https://www.whitehouse.gov/sites/
+whitehouse.gov/files/images/External%20-%20Unclassified%20VEP%20
+Charter%20FINAL.PDF, letzter Abruf 16. April 2020), und wenn ja,
+welche Regelungen wird dies voraussichtlich betreffen?
+17. Aufgrund welcher Kriterien k&#246;nnen Schwachstellen in IT-Systemen
+mithilfe eines staatlichen Schwachstellenmanagements beurteilt und bewertet 
+werden?
+Welche Kriterien sind insoweit im Konzept der Bundesregierung
+ber&#252;cksichtigt, wenn es eines gibt?
+18. Wie viele IT-Sicherheitsl&#252;cken wurden seit dem Jahr 2015 von
+Bundesbeh&#246;rden durch einen mit einem staatlichen Schwachstellenmanagement 
+vergleichbaren formalen Prozess geleitet?
+Berlin, den 23. April 2020
+Christian Lindner und Fraktion
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>Schwachstellenmanagement</titel>
+    <datum>2020-04-27</datum>
+  </document>
+  

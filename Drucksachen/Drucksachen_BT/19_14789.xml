@@ -1,0 +1,487 @@
+<document>
+    <id>235666</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/14789</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>d46ea5a23e120a50857629ed31298825</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>254300</id>
+      <titel>Digitale Antragstellung und -verwaltung beim BAf&#246;G - Sachstand und Vorhaben</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium f&#252;r Bildung und Forschung</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/147/1914789.pdf</pdf_url>
+      <id>235666</id>
+      <dokumentnummer>19/14789</dokumentnummer>
+      <datum>2019-11-05</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Antwort
+der Bundesregierung
+auf die Kleine Anfrage der Abgeordneten Dr. Jens Brandenburg (Rhein-Neckar), 
+Katja Suding, Mario Brandenburg (S&#252;dpfalz), weiterer Abgeordneter und der 
+Fraktion der FDP
+&#8211; Drucksache 19/14242 &#8211;
+Digitale Antragstellung und -verwaltung beim BAf&#246;G &#8211; Sachstand und Vorhaben
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Das 2017 in Kraft getretene Onlinezugangsgesetz (OZG) verpflichtet Bund 
+und L&#228;nder, bis Ende 2022 ihre Verwaltungsleistungen auch elektronisch
+anzubieten (vgl. &#167; 1 OZG). Der BAf&#246;G-Antrag soll bis dahin &#8222;medienbruchfrei 
+und vollst&#228;ndig online&#8220; durchf&#252;hrbar sein. Daf&#252;r k&#246;nne ein ELSTER-
+&#228;hnliches Verfahren zur Anwendung kommen (vgl. www.bundesfinanzministeri
+um.de/Content/DE/Downloads/Digitalisierung/2018-11-15-Digitalisierungge
+stalten.pdf?__blob=publicationFile&amp;v=2, S.132). In einem bundesweiten 
+Portalverbund sollen alle Verwaltungsleistungen von Bund und L&#228;ndern bis 
+2023 zentral geb&#252;ndelt werden. Auf einer daf&#252;r eingerichteten Beta-Version 
+k&#246;nnen bisher lediglich allgemeine Informationen zur Mittelr&#252;ckzahlung nach 
+dem BAf&#246;G abgerufen werden (vgl. www.beta.bund.de/DE/Leistung/buerge
+rInnen/schule-ausbildung-studium/ finanzierung/99022001000000/Ausbil
+dungsfoerderung_BAfoeG.html).
+Bereits durch das 25. BAf&#246;G-&#196;nderungsgesetz (BAf&#246;G&#196;ndG) wurden die 
+L&#228;nder verpflichtet, bis zum 1. August 2016 eine elektronische Antragstellung 
+von Leistungen nach dem BAf&#246;G zu erm&#246;glichen. Das so umgesetzte
+Verfahren sieht eine Identifikation per eID-Funktion des Personalausweises bzw. De-
+Mail vor (vgl. www.beta.bund.de/DE/ Leistung/buergerInnen/schule-ausbil
+dung-studium/finanzierung/99022001000000/ Ausbildungsfoerderung_BA
+foeG.html). Der Einsatz nutzerfreundlicher digitaler Identifikations- und
+Verifikationsverfahren, wie bspw. dem Video-Identifikationsverfahren per Web-
+Anwendung oder Smartphone-App der Deutschen Post (siehe: www.deutsch
+epost.de/de/p/postident/identifizierungsverfahren/verfahren-videochat.html#) 
+ist dabei nicht m&#246;glich. In der Regierungsbefragung vom 30. Januar 2019
+erkl&#228;rte die Bundesministerin Anja Karliczek auf eine Frage des Abg. Dr. Jens 
+Brandenburg, dass ein Arbeitskreis derzeit ein Modul entwickle, welches
+&#8222;z&#252;gig&#8220; &#252;ber den Portalverbund zur Verf&#252;gung stehen solle.
+Deutscher Bundestag Drucksache 19/14789
+19. Wahlperiode 05.11.2019
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums f&#252;r Bildung und Forschung vom 
+1. November 2019 &#252;bermittelt.
+Die Drucksache enth&#228;lt &#8211; in kleinerer Schrifttype &#8211; den Fragetext.
+V o r b e m e r k u n g  d e r  B u n d e s r e g i e r u n g
+Die BAf&#246;G-Online-Antragstellung ist Pilotprojekt im Themenfeld Bildung des 
+f&#246;deralen Digitalisierungsprogramms des IT-Planungsrates und wurde in einem 
+Digitalisierungslabor bearbeitet. Die BAf&#246;G-Verwaltung selbst hingegen (z. B. 
+Backend-Prozesse) war nicht Gegenstand des Digitalisierungslabors BAf&#246;G-
+Online.
+In Bezug auf das ELSTER-Verfahren wird vorab angemerkt, dass ELSTER 
+nicht als Konkurrenz anderen &#8222;moderneren digitalen Identifikations- und
+Verifikationsverfahren&#8220; gegen&#252;bersteht, sondern diese zur Identifikation und
+Authentifizierung nutzt. ELSTER setzt moderne Verfahren und Algorithmen ein, 
+um st&#228;ndig auf H&#246;he moderner Techniken zu bleiben und den gewohnten und 
+bekannten Sicherheitsstandard zu erhalten. Dabei werden die Vorgaben und 
+Empfehlungen u. a. des Bundesamtes f&#252;r Sicherheit in der Informationstechnik 
+und der Bundesnetzagentur ber&#252;cksichtigt.
+1. Wie viele Personen waren in den Jahren 2016 bis heute dem Grunde nach
+dem BAf&#246;G f&#246;rderberechtigt, wie viele Personen stellten in diesem
+Zeitraum einen Antrag auf F&#246;rderung nach dem BAf&#246;G, und wie viele
+BAf&#246;G-Empf&#228;ngerinnen bzw. BAf&#246;G-Empf&#228;nger gab es in diesem
+Zeitraum (bitte nach Jahren und f&#252;r 2019 nach Monaten aufteilen)?
+F&#252;r die Jahre 2016 bis 2018 stellen sich die Gef&#246;rdertenzahlen wie folgt dar:
+2016 2017 2018
+822.933 782.038 726.732
+F&#252;r das Jahr 2019 liegen noch keine amtlichen Zahlen vor.
+Im &#220;brigen liegt keine Statistik vor. Es wird auf die Antwort der
+Bundesregierung zu Frage 12 der Kleinen Anfrage der Fraktion der FDP auf
+Bundestagsdrucksache 19/7522 verwiesen.
+2. Was haben die L&#228;nder nach Kenntnis der Bundesregierung hinsichtlich
+a) der elektronischen Antragstellung nach &#167; 46 Absatz 1 Satz 2 BAf&#246;G;
+b) der vollst&#228;ndigen Digitalisierung der Backend-Prozesse und der bis
+Ende 2022 verpflichtenden Digitalisierung aller BAf&#246;G-
+Verwaltungsleistungen umgesetzt (bitte jeweils nach L&#228;ndern aufteilen)?
+Alle L&#228;nder sind der Verpflichtung aus &#167; 46 Absatz 1 Satz 2
+Bundesausbildungsf&#246;rderungsgesetz (BAf&#246;G) nachgekommen, bis zum 1. August 2016 eine 
+elektronische Antragstellung zu erm&#246;glichen, die den Vorgaben des &#167; 36a
+Absatz 2 Satz 4 Nummer 1 oder 2 des Ersten Buches Sozialgesetzbuch entspricht.
+Die Ausf&#252;hrung des BAf&#246;G erfolgt durch die L&#228;nder. Es ist der
+Bundesregierung bekannt, dass die Antragsbearbeitung in den L&#228;ndern in Fachverfahren
+erfolgt. Zu einer vollst&#228;ndigen Digitalisierung der Backend-Prozesse liegen keine 
+Erkenntnisse vor. Hinsichtlich der Verpflichtung des Onlinezugangsgesetzes 
+(OZG), Verwaltungsleistungen bis Ende 2022 digital anzubieten, sind davon 
+verwaltungsinterne Vorg&#228;nge einschlie&#223;lich verwaltungsorganisatorischer
+Abl&#228;ufe nicht erfasst. Weiterhin wird im Sinne des OZG an der Verbesserung des 
+Online-Angebotes gearbeitet.
+3. Wie viele Personen stellten nach Kenntnis der Bundesregierung seit
+Einf&#252;hrung der elektronischen Antragstellung im August 2016 auf diesem
+Wege einen Antrag nach BAf&#246;G (bitte nach L&#228;ndern, Jahren und
+gew&#228;hltem Identifikationsverfahren &#8211; eID und De-Mail &#8211; aufteilen)?
+Welchem prozentualen Anteil an der Gesamtzahl aller Antragstellerinnen
+und Antragsteller entspricht dies jeweils?
+Die Bundesregierung hat die Nutzung der medienbruchfreien Antragstellung 
+bundesweit f&#252;r die Zeitr&#228;ume 1. August 2016 bis 31. Mai 2017, 1. Juni 2017 
+bis 30. April 2018 und 1. Mai 2018 bis 30. April 2019 erhoben. Die Ergebnisse 
+sind der beigef&#252;gten Anlage zu entnehmen. Es werden nur vollumf&#228;nglich
+online gestellte Antr&#228;ge ber&#252;cksichtigt, die den gesetzlichen Vorgaben eID und 
+De-Mail entsprechen. Weitere &#220;bermittlungsarten sind nach aktueller
+Gesetzeslage nicht zugelassen. Da die erhobenen Datenzeitr&#228;ume nicht mit der
+Erhebung der Gesamtantragstellerzahl identisch sind, ist eine Darstellung des
+prozentualen Anteils elektronischer Antr&#228;ge derzeit nicht m&#246;glich.
+4. Wie hoch wird, nach Erwartung der Bundesregierung, der Anteil der
+elektronisch eingehenden BAf&#246;G-Antr&#228;ge k&#252;nftig sein?
+Welche Ziele setzt sich die Bundesregierung diesbez&#252;glich?
+5. Mit welcher Zunahme insgesamt der eingehenden BAf&#246;G-Antr&#228;ge
+aufgrund der durch die vollst&#228;ndige Digitalisierung vereinfachten
+Antragstellung rechnet die Bundesregierung?
+Die Fragen 4 und 5 werden im Zusammenhang beantwortet.
+Gemessen an der aktuellen Nutzung der medienbruchfreien BAf&#246;G-
+Antragstellung erwartet die Bundesregierung einen deutlichen Anstieg der
+online gestellten BAf&#246;G-Antr&#228;ge.
+6. Wie bewertet die Bundesregierung die bisher geschaffenen M&#246;glichkeiten
+zur digitalen BAf&#246;G-Antragstellung bzw. -verwaltung mit Blick auf die
+Anwendungsfreundlichkeit f&#252;r
+a) die Nutzerinnen und Nutzer;
+b) die Verwaltung der Antr&#228;ge, Aus- und R&#252;ckzahlungen nach dem
+BAf&#246;G?
+Im Hinblick auf die Nutzerfreundlichkeit der Antr&#228;ge gibt es
+Verbesserungspotential bei der Online-Antragstellung. Auch hinsichtlich der Verwaltung der 
+Antr&#228;ge geht die Bundesregierung davon aus, dass es
+Verbesserungsm&#246;glichkeiten gibt. R&#252;ckzahlungen nach dem BAf&#246;G werden bereits jetzt digital durch 
+das Bundesverwaltungsamt abgewickelt, das im Rahmen der OZG-Umsetzung 
+aktiv ist.
+7. Welche Chancen sieht die Bundesregierung in der M&#246;glichkeit zur
+vollst&#228;ndig medienbruchfreien, elektronischen und bundesweit einheitlichen
+BAf&#246;G-Antragstellung bzw. -verwaltung f&#252;r
+a) die Nutzerinnen und Nutzer;
+b) die Verwaltung der Antr&#228;ge, Aus- und R&#252;ckzahlungen nach dem
+BAf&#246;G;
+c) die Hochschulen;
+d) den B&#252;rokratieabbau im Allgemeinen?
+Durch umfangreiche Hilfefunktionen und eine verbesserte Nutzerf&#252;hrung kann 
+die Antragstellung vereinfacht werden. Die Bearbeitung in den &#196;mtern f&#252;r 
+Ausbildungsf&#246;rderung wird sich bei medienbruchfreien Antr&#228;gen ebenfalls
+verk&#252;rzen lassen, da die Antragsdaten effektiver weiterverarbeitet werden k&#246;nnen 
+und zeitaufw&#228;ndige Arbeitsschritte entfallen werden. Weitere Aussagen k&#246;nnen 
+hinsichtlich der Verwaltung des BAf&#246;G nicht getroffen werden. Hinsichtlich 
+der Hochschulen kann keine Aussage getroffen werden. Insgesamt erwartet die 
+Bundesregierung, dass eine bundesweit einheitliche elektronische
+Antragstellung zu weniger Aufwand bei der Abwicklung von Verwaltungsverfahren
+f&#252;hren wird.
+8. Soll die bis Ende 2022 umzusetzende vollst&#228;ndige digitale BAf&#246;G-
+Antragstellung bzw. -verwaltung bundesweit einheitlich und &#252;ber das
+gleiche Tool ablaufen?
+Wenn ja, bitte erl&#228;utern, und wenn nein, weshalb nicht?
+Im Rahmen der Umsetzung des Onlinezugangsgesetzes wird zurzeit in dem 
+Projekt &#8222;Antragstellung BAf&#246;G-Online&#8220; daran gearbeitet, die Online-BAf&#246;G-
+Antragstellung k&#252;nftig bundesweit einheitlich nutzerorientiert anzubieten. Die 
+L&#228;nder sind unter Federf&#252;hrung von Sachsen-Anhalt in den Prozess
+eingebunden.
+Im &#220;brigen wird auf die Antwort zu Frage 19 verwiesen.
+9. Welche zu erf&#252;llenden Anforderungen an eine vollst&#228;ndige
+Digitalisierung der BAf&#246;G-Antragstellung bzw. -verwaltung zum Ende des Jahres
+2022 hat die Bundesregierung gemeinsam mit den L&#228;ndern definiert?
+Angestrebt wird ein medienbruchfreier Prozess, der zu vollst&#228;ndig auf
+elektronischem Weg durchgef&#252;hrten Verwaltungsverfahren f&#252;hrt und f&#252;r die
+B&#252;rgerinnen und B&#252;rger einen praktikablen Zugang zu den Online-
+Verwaltungsleistungen bietet.
+10. Hat die Bundesregierung zur Erf&#252;llung nutzerorientierter Anforderungen
+an ihre BAf&#246;G-Digitalservices im Vorfeld eine Bedarfsstudie,
+beispielsweise durch Befragung von Sch&#252;lerinnen bzw. Sch&#252;lern und
+Studierenden als zentrale Zielgruppe der Dienstleistung, durchgef&#252;hrt?
+a) Wenn ja, zu welchem Ergebnis kam diese Studie?
+b) Wenn nein, weshalb nicht und aus welchen Quellen speist die
+Bundesregierung dann ihre Kenntnis &#252;ber nutzerorientierte Anforderungen an
+die digitale BAf&#246;G-Antragstellung bzw. -verwaltung?
+Im Vorfeld des Digitalisierungslabors BAf&#246;G wurden Interviews mit
+Expertinnen und Experten aus &#196;mtern f&#252;r Ausbildungsf&#246;rderung sowie mit
+Studierenden, Sch&#252;lerinnen und Sch&#252;lern durchgef&#252;hrt und ausgewertet. Die Ergebnisse 
+sind in die Arbeit des Labors eingeflossen.
+11. Wurde nach Kenntnis der Bundesregierung externe Expertise zu digitalen
+Identifikation- und Verifikationsverfahren (beispielsweise zu Video-
+Identifikationsverfahren per Web-Anwendung oder Smartphone-App) im
+Verfahren zur Digitalisierung der BAf&#246;G-Antragstellung bzw. -
+verwaltung angeh&#246;rt?
+a) Wenn ja, wer wurde dabei angeh&#246;rt und wie wurde die externe
+Expertise in der Arbeit der zust&#228;ndigen Projekt- bzw. Arbeitsgruppe
+ber&#252;cksichtigt?
+b) Wenn nein, weshalb nicht?
+Parallel zu der Arbeit im Digitalisierungslabor im Rahmen der OZG-
+Umsetzung erfolgte ein Austausch zu dem aktuellen Stand bei der Pr&#252;fung
+weiterer Identifikationsverfahren mit den zust&#228;ndigen Stellen.
+12. Soll die vollst&#228;ndige BAf&#246;G-Antragstellung bzw. -verwaltung (inklusive
+Nachweisf&#252;hrung und Daten&#228;nderungen) nach Auffassung der
+Bundesregierung den Antragstellerinnen bzw. Antragsteller ab 2023
+medienbruchfrei
+a) per Smartphone-App;
+b) per Web-Anwendung;
+c) per Papier-Formular m&#246;glich sein (bitte jeweils erl&#228;utern)?
+Der im Digitalisierungslabor entwickelte Prototyp (der allerdings keine
+lauff&#228;hige Software, sondern eine digitale Skizze ist) sieht zun&#228;chst eine
+Antragstellung per Web-Anwendung vor. Eine App ist erst in einer sp&#228;teren Ausbaustufe 
+vorgesehen und soll die Funktionen des Antragsassistenten erg&#228;nzen. Eine
+Antragstellung per Papierformular soll weiterhin m&#246;glich bleiben.
+13. Aus welchem Grund kommen Video-Identifikationsverfahren per Web-
+Anwendung oder Smartphone-App (wie beispielsweise von der
+Deutschen Post genutzt) f&#252;r die digitale BAf&#246;G-Antragstellung nach
+Auffassung der Bundesregierung nicht in Frage (vgl. Vorbemerkung der
+Fragesteller)?
+Die BAf&#246;G-Antragstellung hat gem&#228;&#223; &#167; 46 BAf&#246;G schriftlich zu erfolgen. Die 
+Schriftform kann nur durch bestimmte, gesetzlich zugelassene Verfahren ersetzt 
+werden. Dazu geh&#246;ren die in der Frage benannten Verfahren nicht.
+14. Welche Vorteile und welche Nachteile haben ELSTER-&#228;hnliche
+Verfahren zur Identifikation nach Auffassung der Bundesregierung gegen&#252;ber
+moderneren digitalen Identifikations- und Verifikationsverfahren
+(beispielsweise Video-Identifikationsverfahren) mit Blick auf
+a) die Anwendungsfreundlichkeit f&#252;r Nutzerinnen und Nutzer;
+Der Registrierungsprozess im Wege der Zwei-Faktor-Authentifizierung bei 
+ELSTER gleicht den Prozessen zur Er&#246;ffnung eines Bankkontos. Die Nutzer 
+sind es gewohnt, neben einer Aktivierungs-E-Mail einen PIN-Brief zur
+Registrierung bei bestimmten Online-Diensten mit erh&#246;htem Schutzbedarf zu
+erhalten.
+Zudem besteht nach erfolgreicher Registrierung und damit nach Erstellung des 
+ELSTER-Zertifikats die M&#246;glichkeit der Nutzung dieses ELSTER-Zertifikats 
+auf dem Smartphone mittels der Login-App &#8222;ELSTER Smart&#8220;. S&#228;mtliche
+Antr&#228;ge bzw. Vorg&#228;nge in Zusammenhang mit dem BAf&#246;G k&#246;nnten daher von den
+Nutzern auch &#252;ber das Smartphone abgewickelt werden. Ein zus&#228;tzlicher Token 
+wird hier nicht ben&#246;tigt.
+Insgesamt ist zu beachten, dass ELSTER ausschlie&#223;lich Dienste zur
+Identifizierung und Authentifizierung anbieten kann. Die Anwendungsfreundlichkeit des 
+Fachdienstes bzw. Service-Portals mit den Fachformularen sowie die fachliche 
+Verarbeitung (ggf. kann ELSTER Identit&#228;tsdaten des Nutzers beitragen) ist
+getrennt zu betrachten und liegt nicht im Verantwortungsbereich von ELSTER.
+b) die Datensicherheit;
+Die derzeit bereits existierenden und sich im Einsatz befindlichen mehr als 
+7 Millionen ELSTER-Zertifikate und damit einhergehend der Prozess der
+Registrierung sind aufgrund der langj&#228;hrigen Erfahrung als sicher einzustufen. Es 
+ist bei den derzeit aktiven ELSTER-Zertifikaten weder im Rahmen des
+Registrierungsvorgangs noch bei der Nutzung der Zertifikate seit dem produktiven 
+Einsatz des Verfahrens zu einem Missbrauch gekommen.
+c) die Schnelligkeit der Daten&#252;bertragung, Datenpr&#252;fung und
+Antragsr&#252;ckmeldung;
+Der Prozess der (digitalen) Identifikation und Verifikation ist grunds&#228;tzlich
+unabh&#228;ngig von der tats&#228;chlichen (fachlichen) Bearbeitung des Antrags und der 
+entsprechenden Antragsr&#252;ckmeldung. Selbstverst&#228;ndlich k&#246;nnen jedoch durch 
+einen reibungslosen Prozess der Identifikation und Verifikation aufgrund
+valider Identit&#228;tsdaten die inhaltlichen Pr&#252;fprozesse beschleunigt und insbesondere 
+die Sicherheit erh&#246;ht werden. Vor- bzw. Nachteile eines bestimmten
+Identifikations- und Verifikationsprozesses sind hier nicht ersichtlich: Bei ELSTER 
+wird zur Identifikation und Verifikation ein Brief verschickt. Dies ist allerdings 
+nur einmalig im Rahmen der Registrierung notwendig. Sp&#228;ter wird das im
+Registrierungsprozess erstellte Zertifikat f&#252;r die sichere Authentifizierung des 
+Nutzers im Onlineprozess ohne Medienbruch verwendet.
+d) die Verwaltung der Aus- und R&#252;ckzahlungen nach dem BAf&#246;G?
+Es wird darauf hingewiesen, dass die fachlichen Prozesse der BAf&#246;G-
+Bearbeitung getrennt vom Authentifizierungsprozess im Rahmen von
+Dateneinreichungen (z. B. Formular&#252;bermittlung) oder Datenabholungen (z. B.
+Antragsr&#252;ckmeldung, Bescheid) zu betrachten sind. In Bezug auf die BAf&#246;G-
+Antragstellung ist zudem auf die derzeit gesetzlich zugelassenen elektronischen 
+Verfahren abzustellen.
+15. Wie lang soll das Vorbereiten und Einreichen eines BAf&#246;G-Antrags
+(inklusive Einreichen aller vorhandenen Nachweise) nach Auffassung der
+Bundesregierung im Durchschnitt dauern?
+Wie lang dauert das Vorbereiten und Einreichen eines BAf&#246;G-Antrags
+nach Kenntnis der Bundesregierung bisher im Durchschnitt?
+Was tut die Bundesregierung, um die durchschnittliche Dauer zur
+Vorbereitung und Einreichung eines BAf&#246;G-Antrags zu reduzieren?
+Der Nationale Normenkontrollrat hat 2010 in seinem Bericht &#8222;Einfacher zum 
+Studierenden-BAf&#246;G&#8220; eine durchschnittliche Ausf&#252;lldauer bei einem
+Erstantrag mit ca. 5,5 Stunden beziffert. Die Allgemeinen Verwaltungsvorschriften 
+zur Bestimmung der Formbl&#228;tter nach &#167; 46 Absatz 3 BAf&#246;G werden in
+regelm&#228;&#223;igen Abst&#228;nden &#252;berarbeitet. Der Bundesregierung ist dabei bewusst, dass 
+der BAf&#246;G-Antrag f&#252;r Antragstellende so verst&#228;ndlich wie m&#246;glich und f&#252;r die
+Verwaltung, die den Antrag bearbeitet, so pr&#228;zise wie m&#246;glich gehalten sein 
+muss. Sie hat im Rahmen der letzten Neufassung der BAf&#246;G-Formbl&#228;tter 
+2015/2016 zum Zweck der Verst&#228;ndlichkeit der Formbl&#228;tter den
+Redaktionsstab der Gesellschaft f&#252;r deutsche Sprache beim Deutschen Bundestag beteiligt 
+und dessen Vorschl&#228;ge soweit m&#246;glich ber&#252;cksichtigt. Die Entwicklung eines 
+Formblatts steht immer im Spannungsfeld zwischen B&#252;rgerfreundlichkeit auf 
+der einen und den sich aus dem BAf&#246;G ergebenden Anforderungen an einen 
+F&#246;rderungsantrag auf der anderen Seite. Das gilt sowohl f&#252;r gedruckte
+Formbl&#228;tter wie f&#252;r Online-Antr&#228;ge.
+16. Wie lang soll die Pr&#252;fung von BAf&#246;G-Antr&#228;gen bis zur R&#252;ckmeldung an
+die Antragstellerin bzw. den Antragsteller nach vollst&#228;ndiger
+Digitalisierung der BAf&#246;G-Antragstellung bzw. -verwaltung zum Ende des Jahres
+2022 nach Auffassung der Bundesregierung im Durchschnitt maximal in
+Anspruch nehmen?
+a) Wie lang dauert die Pr&#252;fung von BAf&#246;G-Antr&#228;gen bis zur
+R&#252;ckmeldung an die Antragstellerin bzw. den Antragsteller nach Kenntnis der
+Bundesregierung bisher im Durchschnitt?
+b) Was tut die Bundesregierung, um die durchschnittliche Dauer zur
+Pr&#252;fung von BAf&#246;G-Antr&#228;gen bis zur R&#252;ckmeldung an die
+Antragstellerin bzw. den Antragsteller zu reduzieren?
+Die Fragen 16 bis 16b werden gemeinsam beantwortet.
+Eine m&#246;glichst kurze Bearbeitungsdauer ist gemeinsames
+ausbildungsf&#246;rderpolitisches Ziel der zust&#228;ndigen Ministerien von Bund und L&#228;ndern. Dabei liegt 
+es in der alleinigen Verantwortung der L&#228;nder, hierf&#252;r die erforderliche 
+Personal- und Sachausstattung zu gew&#228;hrleisten. Die Verfahrensdauer der 
+BAf&#246;G-Antragsbearbeitung wird durch die Bundesregierung nicht gezielt und 
+systematisch &#252;berpr&#252;ft.
+17. Soll die Pr&#252;fung von eingehenden BAf&#246;G-Antr&#228;gen voll automatisiert
+erfolgen?
+Wenn nein, weshalb nicht? Bis wann werden BAf&#246;G-Antr&#228;ge und
+Verwaltungsauftr&#228;ge voll automatisiert bearbeitet und &#252;berpr&#252;ft, sodass eine
+digitale Bescheidausstellung an die Antragstellerin bzw. den Antragsteller
+wenige Sekunden nach Antragstellung erfolgt?
+Woran scheitert die Umsetzung voll automatisierter Pr&#252;fungen bisher?
+Wie stellt die Bundesregierung sicher, dass die Antragspr&#252;fung und -
+verwaltung zeitnah voll automatisiert erfolgt und die Mitarbeiterinnen bzw.
+Mitarbeiter der BAf&#246;G-&#196;mter Studierende haupts&#228;chlich bei der Wahl
+ihrer Studienfinanzierungsoptionen beraten und unterst&#252;tzen?
+Aufgrund der Komplexit&#228;t der Sozialleistung BAf&#246;G ist eine
+Vollautomatisierung der Verfahren zur Pr&#252;fung der Anspruchsvoraussetzungen nach dem 
+BAf&#246;G nicht m&#246;glich und daher nicht vorgesehen.
+18. Wird es nach Kenntnis der Bundesregierung &#252;ber das Tool zur vollst&#228;ndig
+digitalen BAf&#246;G-Antragstellung bzw. -verwaltung aus Sicht der
+Antragstellenden m&#246;glich sein,
+a) den BAf&#246;G-Antrag vollst&#228;ndig online auszuf&#252;llen;
+Ja, dies ist vorgesehen.
+b) das Online-Tool vollst&#228;ndig &#252;ber das Smartphone zu nutzen;
+Die Anwendung soll in einem responsiven Design gestaltet werden.
+c) jegliche Kommunikation mit den BAf&#246;G-&#196;mtern vollst&#228;ndig digital
+zu erledigen;
+In weiteren Ausbaustufen ist auch ein &#8222;digitaler R&#252;ckkanal&#8220; vorgesehen.
+d) den aktuellen Stand der Antragspr&#252;fung in Echtzeit angezeigt zu
+bekommen;
+Eine Statusabfrage ist vorgesehen.
+e) &#196;nderungen direkt online und in Echtzeit vorzunehmen;
+&#196;nderungsanzeigen sollen online m&#246;glich sein.
+f) sich virtuell zu BAf&#246;G-Modelle und Studienfinanzierung beraten zu
+lassen;
+Eine virtuelle Beratung, die &#252;ber ein allgemeines Informationsangebot
+hinausgeht, ist derzeit nicht vorgesehen.
+g) einer Verkn&#252;pfung mit Daten des zust&#228;ndigen Finanzamts
+zuzustimmen und so einen datenschutzkonformen automatischen
+Datenaustausch zwischen beiden Beh&#246;rden zu erm&#246;glichen;
+Registerabfragen und Datenaustausch werden f&#252;r k&#252;nftige Ausbaustufen
+gepr&#252;ft.
+h) s&#228;mtliche Nachweise in einem digitalen Dateiformat hochzuladen;
+Ja, dies ist vorgesehen.
+i) Krankenversicherungsdaten automatisch hinzuzuf&#252;gen
+(jeweils: Wenn nein, weshalb nicht, und welche weiteren Funktionen
+sind geplant)?
+Dies ist derzeit nicht vorgesehen. Der Online-Antragsassistent soll allerdings 
+kontinuierlich weiterentwickelt werden.
+19. Welche Umsetzungsschritte zur vollst&#228;ndigen Digitalisierung der BAf&#246;G-
+Antragstellung bzw. -bearbeitung zum Ende des Jahres 2022
+(insbesondere im Rahmen des Digitalisierungsprogramms des IT-Planungsrates der
+Bundesregierung) haben nach Kenntnis der Bundesregierung bereits
+stattgefunden?
+Welche Umsetzungsschritte folgen noch und zu welcher Zeit?
+Wird das Projekt zur vollst&#228;ndigen Digitalisierung der BAf&#246;G-
+Antragstellung bzw. -verwaltung nach Prognose der Bundesregierung rechtzeitig
+zum 31. Dezember 2021 abgeschlossen sein (bitte erl&#228;utern)?
+Das Thema BAf&#246;G-Online-Antragstellung ist Pilotprojekt im Themenfeld
+Bildung im Rahmen der Umsetzung des Onlinezugangsgesetzes. In diesem
+Themenfeld ist das Bundesministerium f&#252;r Bildung und Forschung (BMBF) auf 
+Bundesseite federf&#252;hrend, auf L&#228;nderseite ist es Sachsen-Anhalt.
+In einem Digitalisierungslabor wurde in den letzten Monaten in einem
+nutzerzentrierten, agilen Vorgehen eine digitale Zielvision eines BAf&#246;G-Online-
+Antrags entwickelt (sogenannter Klick-Dummy). Vorgegangen wurde in
+mehreren zwei- bis vierw&#246;chigen sogenannten Designsprints. In einem Sprint
+wurden zun&#228;chst im Labor Ziele festgelegt, L&#246;sungsans&#228;tze entwickelt, ausgew&#228;hlt 
+und dann anschlie&#223;end digital ausgearbeitet. Anschlie&#223;end wurden Nutzer- und 
+Expertentests durchgef&#252;hrt und ausgewertet. Auf dieser Grundlage wurde dann 
+der n&#228;chste Sprint geplant, in dem diese digitalen Skizzen weiterentwickelt und 
+so fortlaufend optimiert wurden.
+Beteiligt in dem Labor waren neben Vertretern des BMBF Expertinnen und
+Experten aus dem federf&#252;hrenden Bundesland Sachsen-Anhalt, dem mitwirkenden 
+Bundesland Rheinland-Pfalz, aus ausgew&#228;hlten &#196;mtern f&#252;r
+Ausbildungsf&#246;rderung, IT-Expertinnen und IT-experten sowie Nutzerinnen und Nutzer.
+Neben dem Prototyp wurde im Digitalisierungslabor auch ein Umsetzungsplan 
+entwickelt, um sicherzustellen, dass die erarbeiteten Ergebnisse schrittweise 
+umgesetzt werden k&#246;nnen.
+Das Labor wurde im Juli 2019 abgeschlossen. Derzeit beraten das BMBF und 
+die L&#228;nder &#252;ber die verwaltungsm&#228;&#223;ige Umsetzung eines bundesweit
+einheitlichen Online-Antrags. Ziel ist es, eine einheitliche l&#228;nder&#252;bergreifende L&#246;sung 
+f&#252;r die digitale BAf&#246;G-Antragstellung zu erm&#246;glichen, an der sich alle L&#228;nder 
+beteiligen. Das Verfahren soll zun&#228;chst als Pilot in einzelnen L&#228;ndern starten.
+20. Wie will die Bundesregierung bei der vollst&#228;ndigen Digitalisierung der
+BAf&#246;G-Antragstellung bzw. -verwaltung f&#252;r die Nutzerinnen und Nutzer
+Datensicherheit und -souver&#228;nit&#228;t sicherstellen?
+Welche &#196;mter, Beh&#246;rden und Bundesministerien in Bund und L&#228;ndern
+sollen nach Kenntnis der Bundesregierung Zugang zu den erfassten Daten
+der Antragstellerinnen und Antragsteller erhalten?
+Datensicherheit und -souver&#228;nit&#228;t werden durch fr&#252;he Einbindung der f&#252;r
+Datenschutz zust&#228;ndigen Beh&#246;rden in den Prozess sichergestellt. Diese sollen zu 
+Datensicherheitsstandards bei der Online-Antragstellung und -Verwaltung
+beraten. Zugriff auf die Daten wird nur den jeweils zust&#228;ndigen Stellen gew&#228;hrt.
+21. Pr&#252;ft die Bundesregierung den Einsatz von Blockchain- bzw. anderer
+Distributed-Ledger-Technologien bei der vollst&#228;ndigen Digitalisierung der
+BAf&#246;G-Antragstellung bzw. -verwaltung?
+Wenn ja, welche Chancen erhofft sie sich daraus und zu welchem
+Ergebnis hat die Pr&#252;fung gef&#252;hrt?
+Wenn nein, weshalb nicht?
+Die Bundesregierung hat im September 2019 eine Blockchain-Strategie
+ver&#246;ffentlicht, die Ausf&#252;hrungen zu den Ma&#223;nahmen der Bundesregierung enth&#228;lt. 
+Die BAf&#246;G-Online-Antragstellung ist davon nicht erfasst.
+22. Welche Gremien auf Ebene des Bundes sowie nach Kenntnis der
+Bundesregierung der L&#228;nder befassen sich derzeit mit der vollst&#228;ndigen
+Digitalisierung der BAf&#246;G-Antragsstellung bzw. -verwaltung und welche
+Arbeitsauftr&#228;ge haben diese jeweils?
+Wer sind jeweils die Mitglieder dieser Gremien, und wer leitet diese?
+Welche Ministerien des Bundes und der L&#228;nder sind jeweils mit der
+Arbeit dieser Gremien befasst?
+Neben der Arbeit im Digitalisierungslabor sind Bund und L&#228;nder in der Runde 
+der Obersten Bundes- und Landesbeh&#246;rden f&#252;r Ausbildungsf&#246;rderung mit der 
+Online-Antragstellung befasst. Zudem wurde eine l&#228;nderoffene Arbeitsgruppe 
+gegr&#252;ndet. Es besteht zudem ein IT-Arbeitskreis der L&#228;nder.
+23. Wer sind, nach Kenntnis der Bundesregierung, die Mitglieder des
+&#8222;Digitalisierungslabors&#8220; (vgl. www.it-planungsrat.de/DE/ITPlanungsrat/OZG-
+Umset-zung/Digitalisierungsprogramm/05_DigPro_DigLabore/13_DigP
+r o _ D i g L a b o r e _ B a f o e G _ 2 0 1 9 0 3 1 3 / D i g P r o _ D i g L a b o r e _ B a
+foeG_20190313.html; www.bmbf.de/de/das-bafoeg-eroeffnet-bildungs
+chancen-878.html)?
+Was ist der Arbeitsauftrag des &#8222;Digitalisierungslabors&#8220;?
+Was sind die Ergebnisse der bisher stattgefundenen Sitzungen des
+&#8222;Digitalisierungslabors&#8220;?
+Wie viele Prototypen und MockUps wurden bereits entwickelt?
+Aus welchen Gr&#252;nden hielten die Mitglieder des &#8222;Digitalisierungslabors&#8220;
+diese jeweils f&#252;r geeignet bzw. f&#252;r ungeeignet zur vollst&#228;ndigen
+Digitalisierung der BAf&#246;G-Antragstellung bzw. -verwaltung?
+Welcher Prototyp wurde zur finalen Weiterentwicklung ausgew&#228;hlt?
+Wie flie&#223;en die Ergebnisse des &#8222;Digitalisierungslabors&#8220; zur BAf&#246;G-
+Antragstellung in die &#252;brigen Entscheidungsgremien auf Ebene des
+Bundes sowie der L&#228;nder ein?
+24. Wie und von wem wird die vorgeschlagene Software bzw. werden die
+vorgeschlagenen Methodiken und Ma&#223;nahmen erprobt und evaluiert?
+Die Fragen 23 und 24 werden im Zusammenhang beantwortet.
+Es wird auf die Antwort zu Frage 19 verwiesen.
+25. Welches Gremium mit welchen Mitgliedern entscheidet letztlich &#252;ber die
+zur vollst&#228;ndigen Digitalisierung der BAf&#246;G-Antragstellung bzw. -
+verwaltung verwendete Software und Methodik?
+Dies ist abh&#228;ngig davon, wo in den L&#228;ndern jeweils die Zust&#228;ndigkeit f&#252;r die 
+mit der Einf&#252;hrung einer bundesweit einheitlichen BAf&#246;G-Online-
+Antragstellung zusammenh&#228;ngenden Fragen angesiedelt ist.
+26. Wer verantwortet nach Kenntnis der Bundesregierung die vollst&#228;ndige
+Digitalisierung der BAf&#246;G-Antragstellung bzw. -verwaltung?
+Dies verantworten die L&#228;nder mit Unterst&#252;tzung des Bundes.
+27. Wie wird die Bundesregierung den Deutschen Bundestag in das weitere
+Verfahren einbeziehen, und wann soll dem Deutschen Bundestag eine
+Vorlage zur abschlie&#223;enden Beschlussfassung vorgelegt werden?
+Wird zur Umsetzung der vollst&#228;ndigen Digitalisierung der BAf&#246;G-
+Antragstellung bzw. -verwaltung nach Kenntnis der Bundesregierung eine
+Gesetzes&#228;nderung auf Bundes- oder Landesebene notwendig?
+In der Entschlie&#223;ung des Deutschen Bundestages zum 26. BAf&#246;G-
+&#196;nderungsgesetz auf Bundestagsdrucksache 19/10249 wird die Bundesregierung
+aufgefordert, bei den L&#228;ndern darauf hinzuwirken, die M&#246;glichkeiten der Online-
+Antragstellung beim BAf&#246;G weiter zu verbessern. Zudem wird das BMBF
+aufgefordert, dem Ausschuss f&#252;r Bildung, Forschung und
+Technikfolgenabsch&#228;tzung des Deutschen Bundestagesim zweiten Halbjahr 2020 &#252;ber die
+Wirksamkeit der 26. BAf&#246;G-Novelle zu berichten und dabei darzustellen, welche
+Fortschritte bez&#252;glich der in der Entschlie&#223;ung festgeschriebenen Aufforderungen 
+erzielt wurden. Dieser Aufforderung wird das BMBF nachkommen.
+Drucksache 19/14789 &#8211; 12 &#8211; Deutscher Bundestag &#8211; 19. Wahlperiode
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/14242 -
+Digitale Antragstellung und -verwaltung beim BAf&#246;G - Sachstand und Vorhaben</titel>
+    <datum>2019-11-05</datum>
+  </document>
+  

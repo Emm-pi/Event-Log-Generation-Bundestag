@@ -1,0 +1,139 @@
+<document>
+    <id>233929</id>
+    <drucksachetyp>Kleine Anfrage</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>26</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/13320</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>61e094e24e4a4dd83bffaa195a4996bb</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:15+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>253126</id>
+      <titel>Fortschritte bei der Einf&#252;hrung der elektronischen Gesundheitskarte und Telematikinfrastruktur</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>FDP</bezeichnung>
+      <titel>Fraktion der FDP</titel>
+    </urheber>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/133/1913320.pdf</pdf_url>
+      <id>233929</id>
+      <dokumentnummer>19/13320</dokumentnummer>
+      <datum>2019-09-19</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Kleine Anfrage</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Fraktion der FDP</urheber>
+    </fundstelle>
+    <autoren_anzeige>
+      <id>2110</id>
+      <titel>Dr. Wieland Schinnenburg, MdB, FDP</titel>
+      <autor_titel>Wieland Schinnenburg</autor_titel>
+    </autoren_anzeige>
+    <autoren_anzeige>
+      <id>7549</id>
+      <titel>Michael Theurer, MdB, FDP</titel>
+      <autor_titel>Michael Theurer</autor_titel>
+    </autoren_anzeige>
+    <text>[Kleine Anfrage
+der Abgeordneten Dr. Wieland Schinnenburg, Michael Theurer,
+Grigorios Aggelidis, Renata Alt, Dr. Jens Brandenburg (Rhein-Neckar),
+Britta Katharina Dassler, Dr. Marcus Faber, Otto Fricke, Peter Heidt,
+Katrin Helling-Plahr, Katja Hessel, Manuel H&#246;ferlin, Reinhard Houben,
+Ulla Ihnen, Olaf in der Beek, Dr. Marcel Klinge, Pascal Kober,
+Michael Georg Link, Oliver Luksic, Dr. Martin Neumann, Jimmy Schulz,
+Dr. Hermann Otto Solms, Dr. Marie-Agnes Strack-Zimmermann,
+Dr. Andrew Ullmann, Gerald Ullrich, Nicole Westig und der Fraktion der FDP
+Fortschritte bei der Einf&#252;hrung der elektronischen Gesundheitskarte und
+Telematikinfrastruktur
+Zum 30. Juni endete die Frist f&#252;r alle verpflichteten Praxen, die
+Telematikinfrastruktur (TI) f&#252;r die elektronische Gesundheitskarte (eGK) einzuf&#252;hren (vgl. 
+Bundestagsdrucksache 19/11314). Als erste Stufe ist bereits seit Einf&#252;hrung der 
+eGK das Versichertenstammdatenmanagement (VSDM) nutzbar, welches
+allgemeine Patientendaten wie Name oder Versichertennummer bereitstellt. Nach 
+Angaben des GKV-Spitzenverbands (GKV = gesetzliche
+Krankenversicherung) sollen weitere Funktionen bereits ab der &#8222;zweiten Jahresh&#228;lfte 2019&#8220;
+getestet werden (www.gkv-spitzenverband.de/krankenversicherung/telema
+tik_und_datenaustausch/egk/egk.jsp). Darunter fallen das
+Notfalldatenmanagement (NFDM) und der elektronische Medikationsplan (eMP) als erste Stufe der 
+Arzneimitteltherapiesicherheit (AMTS). Weiter soll ebenfalls am Modul KOM-
+LE gearbeitet werden, das einen sicheren Datenaustausch von etwa Arztbriefen 
+oder Abrechnungen sorgen soll.
+Der GKV-Spitzenverband f&#252;hrt weiter aus, dass auch die elektronische
+Patientenakte (ePA) in der Vorbereitung sei. Ab Ende 2019 soll es auf neu
+ausgegebenen eGK ein zus&#228;tzliches NFC-Modul (NFC = Nahfeldkommunikation) zum 
+Datenaustausch via Funktechnologie geben, welches zudem eine App-Nutzung 
+erm&#246;glichen w&#252;rde (www.aerzteblatt.de/nachrichten/97911/Elektronische-
+Gesundheitskarte-soll-NFC-Technologie-erhalten).
+Aus Sicht der Fragesteller ist es begr&#252;&#223;enswert, dass sich im Bereich der
+Digitalisierung des Gesundheitssystems etwas tut, ein digitaler Datenaustausch
+sowie neue digitale Funktionen der eGK k&#246;nnen einen erheblichen Beitrag dazu 
+leisten, das Gesundheitssystem moderner und leistungsf&#228;higer zu machen. 
+Hierzu bedarf es, nach Auffassung der Fragesteller, der Anstrengung aller
+Beteiligten, eine moderne digitale Infrastruktur fl&#228;chendeckend einzuf&#252;hren und 
+sicher nutzbar zu machen.
+Deutscher Bundestag Drucksache 19/13320
+19. Wahlperiode 19.09.2019
+Wir fragen die Bundesregierung:
+&#8199;1. Wann sollen welche neuen Funktionen wie NFDM, eMP, KOM-LE oder 
+andere in den Testbetrieb gehen?
+a) Welche Anzahl an Praxen, Krankenh&#228;usern und anderen Einrichtungen 
+wird an diesen Tests teilnehmen?
+b) Wann soll der jeweilige Testbetrieb abgeschlossen sein?
+c) Wann sollen die neuen Funktionen jeweils in Produktivbetrieb gehen?
+&#8199;2. Wie, und wo sollen die Daten von NFDM, eMP, KOM-LE und anderen 
+neuen Funktionen gespeichert werden?
+a) Welche Verschl&#252;sselungsstandards werden verwendet bzw. sollen
+verwendet werden?
+b) Wer soll wie Zugriff auf die Daten der einzelnen neuen Module und 
+Funktionen bekommen?
+c) Wenn die Daten nur auf dem Chip der eGK gespeichert werden, wie 
+werden diese Daten gesichert, um sie etwa beim Verlust oder bei einer 
+Besch&#228;digung einer eGK wiederherstellen zu k&#246;nnen?
+&#8199;3. Ab wann sollen eGKs mit NFC-Chips verf&#252;gbar sein?
+&#8199;4. Bis wann sollen alle eGKs mit NFC-Chips ausgestattet sein?
+&#8199;5. Wird bereits eine App entwickelt, mit der Patienten auf ihre
+Gesundheitsdaten zugreifen k&#246;nnen?
+a) Welche Funktionen soll bzw. wird eine solche App haben?
+b) F&#252;r welche Betriebssysteme wird eine solche App verf&#252;gbar sein?
+c) Wird es auch eine Web-Version geben, die &#252;ber einen herk&#246;mmlichen 
+Browser genutzt werden kann?
+d) Wer entwickelt die App?
+e) Wann soll die App in den ersten Testbetrieb gehen?
+f) Wann soll die App im Regelbetrieb verf&#252;gbar sein?
+g) Soll als Erg&#228;nzung der Zugriff auf alle TI- und eGK-Funktionen in
+Zukunft auch &#252;ber eine rein softwarebasierte L&#246;sung etwa via APP oder 
+Browser m&#246;glich sein?
+&#8199;6. Welche Anzahl an Praxen nutzt den optionalen Secure-Internet-Service, 
+und welche Kosten fallen hierf&#252;r in welchem Zeitraum f&#252;r welches
+Datenvolumen an?
+&#8199;7. Welche Anzahl an Konnektoren wurde bisher in Praxen installiert, und 
+welche Anzahl wird in Rechenzentren gehostet?
+&#8199;8. Wie wird garantiert, dass bei Konnektoren, die in einem Rechenzentrum 
+gehostet werden, die Daten&#252;bertragung zwischen der Praxis und dem
+Konnektor einwandfrei funktioniert und verschl&#252;sselt ist?
+&#8199;9. Wer &#252;berwacht wie den Datenschutz und die Datensicherheit der Daten 
+und der Daten&#252;bertragung der Daten in der TI?
+10. Wie wird mit kompromittierten Zertifikaten umgegangen, etwa bei einem 
+Diebstahl eines Konnektors?
+a) Welche Ma&#223;nahmen m&#252;ssen ergriffen werden, wenn auf einem
+Konnektor das Zertifikat kompromittiert wird?
+b) Verf&#252;gen alle Konnektoren &#252;ber unterschiedliche Zertifikate?
+c) Wie lange sind die Zertifikate der TI-Ger&#228;te jeweils g&#252;ltig?
+d) Welche Ma&#223;nahmen m&#252;ssen ergriffen werden, wenn die Zertifikate
+ung&#252;ltig werden, und mit welchen Kosten sind diese Ma&#223;nahmen
+verbunden?
+Berlin, den 28. August 2019
+Christian Lindner und Fraktion
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>Fortschritte bei der Einf&#252;hrung der elektronischen Gesundheitskarte und Telematikinfrastruktur</titel>
+    <datum>2019-09-19</datum>
+  </document>
+  

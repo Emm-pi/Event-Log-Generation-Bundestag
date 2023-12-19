@@ -1,0 +1,165 @@
+<document>
+    <id>254259</id>
+    <drucksachetyp>Antrag</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>7</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/29783</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>4c2ca6ac6c2e70cb3fbe0dc692b70509</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:15+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>278198</id>
+      <titel>Anreizprogramme f&#252;r IT-Sicherheit bei der Bundeswehr ausbauen</titel>
+      <vorgangstyp>Antrag</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>AfD</bezeichnung>
+      <titel>Fraktion der AfD</titel>
+    </urheber>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/297/1929783.pdf</pdf_url>
+      <id>254259</id>
+      <dokumentnummer>19/29783</dokumentnummer>
+      <datum>2021-05-19</datum>
+      <verteildatum>2021-05-19</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antrag</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Fraktion der AfD</urheber>
+    </fundstelle>
+    <autoren_anzeige>
+      <id>7625</id>
+      <titel>Joana Cotar, MdB, AfD</titel>
+      <autor_titel>Joana Cotar</autor_titel>
+    </autoren_anzeige>
+    <autoren_anzeige>
+      <id>2123</id>
+      <titel>Uwe Schulz, MdB, AfD</titel>
+      <autor_titel>Uwe Schulz</autor_titel>
+    </autoren_anzeige>
+    <text>[Deutscher Bundestag Drucksache 19/29783
+19. Wahlperiode 19.05.2021
+Antrag
+der Abgeordneten Joana Cotar, Uwe Schulz, Dr. Michael Espendiller, Peter
+Felser, J&#246;rn K&#246;nig, Ulrich Oehme, Dr. Dirk Spaniel und der Fraktion der AfD
+Anreizprogramme f&#252;r IT-Sicherheit bei der Bundeswehr ausbauen
+Der Bundestag wolle beschlie&#223;en:
+I. Der Deutsche Bundestag stellt fest:
+Die immer weiter voranschreitende Digitalisierung der Bundeswehr betrifft die
+gesamten Organisationsstrukturen &#252;ber alle Einheiten hinweg, wobei sich die Relevanz der
+Digitalisierung f&#252;r die Bundeswehr vor allem in dem 2017 gegr&#252;ndeten
+Organisationsbereich Cyber- und Informationsraum (CIR) und der Abteilung Cyber/
+Informationstechnik im BMVg widerspiegelt. Diese Einheiten verstehen sich als &#8222;Treiber der 
+Digitalisierung&#8220;, in dem die &#8222;digitale Transformation angesto&#223;en wird&#8220;
+(www.bmvg.de/resource/blob/143248/7add8013a0617d0c6a8f4ff969dc0184/20190925-
+download-erster-bericht-digitale-transformation-data.pdf). F&#252;r die Streitkr&#228;fte ist die
+Digitalisierung der Schl&#252;ssel zur Informations-, F&#252;hrungs- und Wirkungs&#252;berlegenheit, 
+wie auch zur Verbesserung der Durchsetzungs- und Reaktionsf&#228;higkeit
+(www.bmvg.de/resource/blob/143248/7add8013a0617d0c6a8f4ff969dc0184/20190925-
+download-erster-bericht-digitale-transformation-data.pdf, S. 3, Punkt 2). Wie bei anderen
+Streitkr&#228;ften und Organisationen stellt die Komplexit&#228;t der IT-Infrastruktur
+hinsichtlich eines sicheren Betriebs der zum Einsatz kommenden Technologien auch die
+Bundeswehr vor besondere Herausforderungen. Als Streitkraft einer der gr&#246;&#223;ten
+Industrienationen mit weltweitem Einsatzgebiet ist die Bundesehr nicht vor Hacker-Angriffen
+gefeit (www.faz.net/aktuell/wirtschaft/digitec/solarwinds-hack-massiver-cyberangriff-ge-
+faehrdet-deutsche-behoerden-17134477.html ). Die Hintergr&#252;nde und Zwecke solcher
+Angriffe k&#246;nnen nicht immer genau rekonstruiert werden, dienen aber der h&#228;ufig der
+Spionage, Verschleierung oder der Sabotage (The Modern Ninja, Thomas Wilhelm, 
+Jason Andress, in Ninja Hacking, 2011).
+Um diesen Bedrohungen entgegenzuwirken, betreibt die Bundeswehr seit Oktober
+2020 ein Bug-Bounty-Programm namens Vulnerability Disclosure Policy (VDPBw);
+www.bundeswehr.de/de/security-policy) (VDPBw). Hierbei &#252;berpr&#252;fen sogenannte
+White Hat Hacker die IT-Infrastruktur auf sicherheitsrelevante Schwachstellen
+(www.wiwo.de/technologie/digitale-welt/cybersecurity-die-bundeswehr-bittet-hacker-um
+-hilfe-und-speist-sie-mit-einem-fleisskaertchen-ab/26591646.html). White Hat Hacker
+sind IT-Sicherheitsexperten, welche im Rahmen eines Vertrages
+Sicherheitsevaluierungen (Ethics and Hacking, Thomas Wilhelm, in Professional Penetration Testing
+(Second Edition), 2013) durchf&#252;hren. Im Falle der Bundeswehr ist ein White Hat
+Hacker an das Bug-Bounty-Programm VDPBw der Bundeswehr gebunden (www.bun-
+deswehr.de/de/security-policy). Das VDPBw steht prinzipiell jedem White Hat Hacker
+offen, der sich an die darin genannten Vorgaben h&#228;lt und entsprechend mit der
+Bundeswehr in Kontakt tritt. 
+Die Angriffe auf die Infrastruktur der Bundeswehr sind enorm. Laut Staatssekret&#228;r 
+Peter Tauber sind bis November 2020 im Rahmen des Bug-Bounty Programms der
+Bundeswehr VDPBw 40 sicherheitsrelevante Meldungen zu Systemen der
+Bundeswehr oder zu von Dritten f&#252;r die Bundeswehr betriebenen Systemen eingegangen&#8220;
+(Bundestagsdrucksache 19/24511, S. 49, Antwort auf die Schriftliche Frage 66.).
+Bereits 2017 hat die damalige Verteidigungsstaatssekret&#228;rin Katrin Suder &#8222;etwa 3500
+substanzielle Angriffe auf Rechner, Netze und die Infrastruktur der deutschen
+Streitkr&#228;fte&#8220; feststellen m&#252;ssen (www.stuttgarter-nachrichten.de/inhalt.deutschland-
+bautcyber-armee-auf-taeglich-3500-angriffe-auf-die-bundeswehr.9e64d548-97f2-45d3-
+9f54-89851c5e338f.html). Insgesamt gab es nach Angaben der Bundeswehr 2017
+etwa zwei Millionen unautorisierte Zugriffsversuche auf ihre Systeme, darunter 8000
+hochrangige, bei denen das Eindringen in die IT-Systeme der Armee nur nicht gelang,
+weil Abwehrma&#223;nahmen wie Firewalls funktionierten (www.dw.com/de/
+bundeswehrgut-ger%C3%BCstet-f%C3%BCr-den-cyberkrieg/a-44984233). Der Direktor des
+technischen Forschungsinstituts Code an der Universit&#228;t der Bundeswehr, Professor Udo
+Helmbrecht, konstatiert, &#8222;dass alles das, was an Technologien im Computerzeitalter
+zur Verf&#252;gung steht, weiterentwickelt wird, nat&#252;rlich auch von Kriminellen oder von
+Staaten und Institutionen f&#252;r Spionage beispielsweise missbraucht wird&#8220;
+(www.deutschlandfunk.de/fehlende-it-sicherheitsstrategie-cyberangriffe-auf-da-
+ten.684.de.html?dram:article_id=489628). Auf Basis dieser Angaben gehen die
+Antragsteller davon aus, dass die Methoden und Umfang der Bedrohungen in Zukunft
+noch weiter steigen werden.
+L&#228;nder wie die Vereinigten Staaten von Amerika haben mit White Hat Hackern bereits
+sehr gute Erfahrungen gemacht und die Zusammenarbeit professionalisiert
+(https://news.clearancejobs.com/2020/04/19/how-white-hat-hackers-keep-military-
+systems-safe/). Beispielsweise wurde bei der vierten &#8222;Hack the Air Force Challenge&#8220;
+in 2019, durchgef&#252;hrt von einer Organisation von White Hat Hackern und dem
+Department of Defence, das United States Air Force Virtual Data Center (virtuelle
+Datencenter) gehackt, ohne dass ein tats&#228;chlicher Schaden entstanden ist (ebd.). &#220;ber die
+Erkenntnis, welche Systeme f&#252;r Hacker anf&#228;llig sind, bietet die Zusammenarbeit mit
+White Hat Hackern dar&#252;ber hinaus die M&#246;glichkeit der Dokumentation und des
+Wissenstransfers. Auf Grund der Tatsache, dass White Hat Hackers in der Regel bei einer
+auf BugBounty Programme spezialisierten Organisation angestellt sind, stehen ihnen
+dort Trainingsbudgets und die neusten Hacker-Technologien zur Erprobung zur
+Verf&#252;gung (Ethics and Hacking, Thomas Wilhelm, in Professional Penetration Testing 
+(Second Edition), 2013). Nach der Durchf&#252;hrung eines solchen Bug-Bounty-
+Programms k&#246;nnen die gewonnenen Erkenntnisse der White Hat Hacker genutzt werden
+um diese bundewehrintern weiterzugeben und die Sicherheit der IT-Infrastruktur
+insgesamt zu verbessern.
+Momentan ist das Bug-Bounty Programm der Bundewehr leider f&#252;r White Hat Hacker
+weitestgehend unattraktiv. W&#228;hrend Unternehmen wie Apple und Google bereit sind, 
+teils Millionenbetr&#228;ge f&#252;r gefundene IT-Schwachstellen an White Hat Hacker zu
+zahlen und das US-Verteidigungsministerium zwar keine absoluten Budgetzahlen nennt, 
+aber im Herbst 2018 75.000 US-Dollar an die schnellsten Finder ausgezahlt hat, bietet
+die Bundeswehr lediglich eine Danksagung auf ihrer Webseite an
+(www.wiwo.de/technologie/digitale-welt/cybersecurity-die-bundeswehr-bittet-hacker
+-um-hilfe-und-speist-sie-mit-einem-fleisskaertchen-ab/26591646.html; www.bundes-
+wehr.de/de/security-policy/danksagung). Hier besteht nach Ansicht der Antragsteller
+deutlicher Anpassungsbedarf auf Seiten der Bundeswehr.
+II. Der Deutsche Bundestag fordert die Bundesregierung daher auf,
+1. unter Federf&#252;hrung des Organisationsbereichs Cyber- und Informationsraum
+(CIR) und der Abteilung Cyber/Informationstechnik im BMVg eine Auswahl an
+international agierenden Bug-Bounty-Organisationen als m&#246;gliche
+Kooperationspartner der Bundeswehr zusammenzustellen, 
+2. die Anwendung des Bug-Bounty-Programms auf zuvor festgelegte
+Themengebiete zu priorisieren und sp&#228;ter auf alle Bereiche auszuweiten. Besonderer Fokus
+ist auf Netzwerke, Internet-of-Things, K&#252;nstliche Intelligenz und Verwaltung zu
+legen,
+3. die Verg&#252;tungen und Anreize zu einer Teilnahme an dem Bug-Bounty-Programm
+internationalen Standards anzugleichen,
+4. einen systematischen und nachhaltigen Erkenntnis-Transfer der Bug-Bounty-
+Operationen in s&#228;mtliche relevanten Organisationseinheiten zu gew&#228;hrleisten,
+5. Bug-Bounty-Programme mindestens alle ein bis zwei Jahre durchzuf&#252;hren und
+diese somit zu einem institutionalisierten Bestandteil der digitalen Verteidigung
+werden zu lassen.
+Berlin, den 7. Mai 2021
+Dr. Alice Weidel, Dr. Alexander Gauland und Fraktion
+Begr&#252;ndung
+Die Bundeswehr ist im Begriff, sich digital neu aufzustellen und neue Herausforderungen anzugehen. Um die
+Sicherheit der Soldaten und der IT-Infrastruktur bestm&#246;glich zu gew&#228;hrleisten, m&#252;ssen neue Wege in den
+unterst&#252;tzenden Ma&#223;nahmen gegangen werden. L&#228;nder wie die Vereinigten Staaten von Amerika sind hier bereits in 
+der Vorreiterrolle und setzen unter anderem auf Bug Bounty-Programme, um m&#246;gliche digitale Angriffspunkte
+fr&#252;hzeitig zu erkennen und zu beheben.
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de 
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de 
+ISSN 0722-8333]</text>
+    <titel>Anreizprogramme f&#252;r IT-Sicherheit bei der Bundeswehr ausbauen</titel>
+    <datum>2021-05-19</datum>
+  </document>
+  

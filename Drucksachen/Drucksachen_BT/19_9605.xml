@@ -1,0 +1,289 @@
+<document>
+    <id>228533</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/9605</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>066c08679e2fbe055e9f5a18b9a0c60e</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>245874</id>
+      <titel>Starke Ende-zu-Ende-Verschl&#252;sselung - ohne Nachschl&#252;ssel</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium des Innern, f&#252;r Bau und Heimat</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/096/1909605.pdf</pdf_url>
+      <id>228533</id>
+      <dokumentnummer>19/9605</dokumentnummer>
+      <datum>2019-04-23</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums des Innern, f&#252;r Bau und Heimat 
+vom 17. April 2019 &#252;bermittelt.  
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext. 
+Deutscher Bundestag  Drucksache 19/9605 
+19. Wahlperiode 23.04.2019 
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Joana Cotar, Uwe Schulz,  
+Dr. Michael Espendiller, weiterer Abgeordneter und der Fraktion der AfD 
+&#8211; Drucksache 19/9112 &#8211; 
+Starke Ende-zu-Ende-Verschl&#252;sselung &#8211; ohne Nachschl&#252;ssel 
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r  
+Verschl&#252;sselungstechnologien leisten nach Ansicht der Fragesteller einen 
+grundlegenden Beitrag zur IT-Sicherheit. W&#228;hrend die Digitalisierung immer 
+tiefer und breiter in pers&#246;nliche sowie gesellschaftliche Bereiche Einzug h&#228;lt, 
+wird immer deutlicher, dass IT-Sicherheit oberste Priorit&#228;t haben muss, sowohl 
+bei den Markttteilnehmern als auch f&#252;r die Legislative. Neben Webdiensten und 
+E-Mail-Kommunikation ist davon auszugehen, dass die weltweite Anzahl von 
+Internet-of-Things-Ger&#228;ten (IoT) von sch&#228;tzungsweise 21 Milliarden im 
+Jahre 2018 auf &#252;ber 50 Milliarden Ger&#228;te im Jahre 2022 ansteigen wird (www. 
+juniperresearch.com/press/press-releases/iot-connections-to-grow-140-to-hit- 
+50-billion). Alleine Siemens besch&#228;ftigt 1 275 Mitarbeiter im Bereich der IT-
+Sicherheit und ist zirka 1 000 Angriffen pro Tag ausgesetzt. Bitkom e. V. sieht 
+Deutschland aufgrund seiner weltmarkf&#252;hrenden Industrie im besonderen
+Fokus krimineller Akteure (www.faz.net/aktuell/wirtschaft/diginomics/43- 
+milliarden-euro-schaden-durch-hackerangriffe-15786660.html). Dar&#252;ber
+hinaus ist die deutsche Wirtschaft durch das Ausspionieren ausl&#228;ndischer
+Geheimdienste gef&#228;hrdet (www.welt.de/wirtschaft/article162217929/So-spionieren- 
+Geheimdienste-deutsche-Firmen-aus.html). Die Bedeutung guter
+Verschl&#252;sselungsstandards ist f&#252;r Deutschland besonders relevant, da sich der weltweit 
+gr&#246;&#223;te Internet-Knotenpunkt, DeCiX, in Frankfurt am Main befindet. Daher hat 
+der britische Geheimdienst General Communications Headquarters (GCHQ) 
+k&#252;rzlich &#252;ber seinen Ausleger National Cyber Security Center (NCSC) seinen 
+Einfluss auf das Europ&#228;-ische Institut f&#252;r Telekommunikationsnormen (ETSI) 
+wahrgenommen und versucht (www.sueddeutsche.de/digital/tls-verschluesselung- 
+1.4317326), statt des abh&#246;rsicheren Verschl&#252;sselungsstandards TLS 1.3 das mit 
+Nachschl&#252;ssel versehene Protokoll &#8222;Enterprise Transport Security&#8220; (ETS,
+vormals eTLS &#8222;Enterprise TLS&#8220;) zumindest f&#252;r interne Netzwerkkommunikation 
+zu etablieren. Datenschutzexperten warnen strengstens davor, eine
+Verschl&#252;sselungstechnologie einzusetzen, welche Nachschl&#252;ssel oder &#228;hnliche
+Abh&#246;rma&#223;nahmen erm&#246;glicht, unabh&#228;ngig davon, ob Kommunikationsdaten &#252;ber das 
+Internet oder interne Netzwerke transportiert werden sollen (www.security- 
+insider.de/etls-hebelt-forward-secrecy-von-tls-13-wieder-aus-a-782663/). Ein 
+wichtiger Schritt zu mehr IT-Sicherheit ist die &#220;berarbeitung des
+Produktsicherheitsrechts (https://beck-online.beck.de/Dokument?vpath=bibdata%2Fzeits%2Fn
+jw%2F2019%2Fcont%2Fnjw.2019.625.1.htm&amp;pos=5). Dies hat die
+Bundesregierung richtiger Weise erkannt und auch im Koalitionsvertrag zwischen 
+CDU, CSU und SPD festgeschrieben (Zeilen 6371 &#8211; 4375: &#8222;Wir werden das 
+Produktsicherheitsrecht novellieren, um die IT-Sicherheit in verbrauchernahen 
+Produkten zu erh&#246;hen. Dazu werden wir u. a. das Produkthaftungsrecht
+anpassen, Mindeststandards vorschreiben und die Einf&#252;hrung einer
+gew&#228;hrleistungs&#228;hnlichen Herstellerhaftung pr&#252;fen. Dar&#252;ber hinaus werden wir ein europaweit 
+g&#252;ltiges IT-Sicherheits-G&#252;tesiegel etablieren.&#8220;), allerdings wurde von dem
+Vorhaben noch nichts umgesetzt. Auch die Verbraucherschutzzentralen &#228;u&#223;ern
+Unzufriedenheit bez&#252;glich der bisher nicht erfolgten Einf&#252;hrung einer
+gew&#228;hrleistungs&#228;hnlichen Herstellerhaftung sowie der &#220;berarbeitung der europ&#228;ischen 
+Produkthaftungsrichtlinie (www.vzbv.de/content-wrapper/produkthaftung-
+derdigitalen-welt-staerken). Erste Erfahrungswerte hat das Bundesamt f&#252;r
+Sicherheit in der Informationstechnik (BSI) durch die Migration von TLS 1.0 auf TLS 
+1.2 in den Bundesbeh&#246;rden sammeln k&#246;nnen (www.bsi.bund.de/DE/Presse/ 
+Pressemitteilungen/Presse2013/BSI_veroeffentlicht_Mindeststandard_fuer_ 
+verschluesselte_Internetverbindungen_08102013.html), die bei der Migration 
+auf den n&#228;chsten Standard dienlich sein sollten. Ob Nachschl&#252;ssel bzw.
+Hintert&#252;ren in internen Netzwerken als sinnvoll erachtet werden, scheint innerhalb des 
+BSI noch strittig zu sein (www.sueddeutsche.de/digital/tls-verschluesselung-
+1.4317326). Die Landesbeauftragte f&#252;r Datenschutz in Schleswig-Holstein,
+Marit Hansen, warnt: &#8222;Jeder, der versucht, da [gemeint ist der TLS-1.3-PFS-
+Standard] nun wieder Hintert&#252;ren einzubauen oder Schw&#228;chen f&#252;r diese Sicherheit, 
+der hat gerade nicht verstanden, dass es uns um eine starke Absicherung geht, 
+der sabotiert die Infrastruktur, auf die wir unsere Informationsgesellschaft
+aufgebaut haben und ich halte diejenigen auch f&#252;r Hasardeure&#8220; (www.sueddeutsche. 
+de/digital/tls-verschluesselung-1.4317326). Auch Mark Zuckerberg hat die  
+Relevanz von durchgehender Kommunikationssicherheit erkannt und wird bei  
+Facebook Ende-zu-Ende-Verschl&#252;sselung vorantreiben (www.facebook.com/ 
+notes/mark-zuckerberg/a-privacy-focused-vision-for-social-networking/10156 
+700570096634/). In Deutschland ist die IT-Sicherheit mit 9 Prozent Wachstum 
+ein wesentlicher Treiber der IT-Branche (www.bitkom.org/Presse/Presse 
+information/Markt-fuer-IT-Sicherheit-erstmals-ueber-4-Milliarden-Euro.html). 
+H&#246;chste Datensicherheit, vor allem bei der Internetkommunikation, steht also 
+nicht im Widerspruch zu Innovationsf&#228;higkeit und Wirtschaftswachstum. 
+1. Teilt die Bundesregierung die Einsch&#228;tzung der europ&#228;ischen ETSI, dass 
+durch die geplante Migration zur Transportverschl&#252;sselung gem&#228;&#223; TLS 1.3 
+&#8222;Chaos&#8220; und &#8222;enormer Schaden&#8220; entstehen kann (www.heise.de/newsticker/ 
+meldung/Europaeische-Standards-Organisation-warnt-USA-vor-TLS-1-3-4 
+324155.html)? 
+Die Bundesregierung begr&#252;&#223;t die Einf&#252;hrung von TLS 1.3 und sieht eine
+Umsetzung in der Bundesverwaltung als sinnvoll an. TLS 1.3 stellt aus
+kryptographischer Sicht eine Verbesserung gegen&#252;ber niedrigeren TLS-Versionen dar. Die 
+Nutzung dieser Protokollversion (mit geeigneten Cipher-Suiten) ist daher zu 
+empfehlen (vgl. Antwort zu Frage 8). 
+2. Teilt die Bundesregierung die Ansicht der Fragesteller, dass Nachschl&#252;ssel 
+jeglicher Art ein Sicherheitsrisiko, sowohl f&#252;r Endanwender als auch IT-
+Betreiber, darstellen? 
+Die Bundesregierung hat ihre grunds&#228;tzliche Haltung zum Thema
+Verschl&#252;sselung in den Eckpunkten der deutschen Kryptopolitik (Kabinettbeschluss vom 
+2. Juni 1999) festgelegt. Danach h&#228;lt die Bundesregierung an den als &#8222;Sicherheit 
+durch Verschl&#252;sselung und Sicherheit trotz Verschl&#252;sselung&#8220; bekannten S&#228;ulen 
+der deutschen Kryptopolitik fest. Sie entsprechen der Cybersicherheitsstrategie
+der Bundesregierung 2016 und den Vorhaben des Koalitionsvertrags, neben der 
+St&#228;rkung und F&#246;rderung der Ende-zu Ende-Verschl&#252;sselung zugleich sicher zu 
+stellen, dass die Sicherheitsbeh&#246;rden ihre bestehenden Befugnisse auch in der
+digitalen Welt anwenden und durchsetzen k&#246;nnen. Der Einsatz von Nachschl&#252;sseln 
+schw&#228;cht die Cybersicherheit und steht damit im Widerspruch zur deutschen 
+Kryptopolitik. 
+3. Welche Empfehlungen hat die Bundesregierung gegen&#252;ber ETSI
+hinsichtlich der Entwicklung des eTLS ausgesprochen, sei es direkt oder durch
+beauftragte Experten (www.heise.de/newsticker/meldung/Europaeische-Standards- 
+Organisation-warnt-USA-vor-TLS-1-3-4324155.html)? 
+Die Bundesnetzagentur hat im Auftrag der Bundesregierung bei ETSI
+hinsichtlich der Entwicklung des eTLS keine Empfehlungen ausgesprochen. 
+4. Hat die Bundesregierung Kenntnisse &#252;ber die Empfehlungen von weiteren 
+EU-Mitgliedstaaten an die europ&#228;ische ETSI bez&#252;glich Nachschl&#252;ssel? 
+a) Wenn ja, welche? 
+b) Wenn nein, warum nicht? 
+Die Fragen 4 bis 4b werden gemeinsam beantwortet. 
+Der Bundesregierung liegen keine Kenntnisse vor. 
+Die Spezifizierung von ETS (ehemals eTLS) wurde, wie in der Standardisierung 
+&#252;blich, von der Wirtschaft vorangetrieben. Vertreter britischer Beh&#246;rden haben 
+sich beteiligt. Andere Mitgliedsstaaten haben sich im Standardisierungsgremium 
+nicht positioniert. 
+5. W&#228;re f&#252;r die Bundesregierung eine Verschl&#252;sselungstechnologie mit
+eingebauter Nachschl&#252;ssel- bzw. Abh&#246;rtechnologie vor dem Hintergrund, dass die 
+Regierungsparteien im Koalitionsvertrag zwischen CDU, CSU und SPD 
+festgelegt haben, dass sie &#8222;die Verbreitung sicherer Produkte und das
+Entwicklungsprinzip &#8222;Security by Design&#8220; f&#246;rdern&#8220; (Zeilen: 1986 bis 1987) 
+wollen, mit einem solchen &#8222;Security by Design&#8220;-Prinzip vereinbar? 
+Es wird auf die Antwort zu Frage 2 verwiesen. 
+6. Wird das G&#252;tesiegel f&#252;r IT-Sicherheit, wie im Koalitionsvertrag zwischen 
+CDU, CSU und SPD vereinbart (Zeilen 1988 &#8211; 1990: &#8222;Die Einhaltung dieser 
+&#252;ber die gesetzlichen Mindeststandards hinausgehenden IT-
+Sicherheitsstandards werden wir Verbraucherinnen und Verbrauchern mit einem G&#252;tesiegel 
+f&#252;r IT-Sicherheit transparent machen&#8220;), die Verschl&#252;sselung mit
+Nachschl&#252;sseln oder &#228;hnliche Abh&#246;rmechanismen akzeptieren? 
+Es wird auf die Antwort zu Frage 2 verwiesen.
+7. Welche Vor- und welche Nachteile sieht die Bundesregierung in
+Verschl&#252;sselungstechnologien, bei denen Nachschl&#252;ssel oder &#228;hnliche
+Entschl&#252;sselungs- bzw. Eingriffstechnologien m&#246;glich sind (bitte die Vor- und Nachteile 
+gegen&#252;berstellen), und &#252;berwiegen f&#252;r die Bundesregierung die Vor- oder 
+die Nachteile? 
+Ein schwerwiegender Nachteil ist der nicht absch&#228;tzbare Schaden im Falle eines 
+unautorisierten Einsatzes der Nachschl&#252;ssel. Zur sicheren Speicherung von
+Nachschl&#252;sseln ist deshalb eine umfangreiche und hochsichere Infrastruktur
+notwendig, die ihrerseits aufgrund der Brisanz der gespeicherten Daten einem sehr hohen 
+Angriffsrisiko ausgesetzt ist. Dar&#252;ber hinaus w&#228;re eine solche Infrastruktur mit 
+einem hohen Verwaltungsaufwand und enormen Kosten verbunden.  
+Vorteile im Sinne der Anfrage sind keine ersichtlich.  
+Zudem wird auf die Antwort zu Frage 2 verwiesen. 
+8. Wird sich die Bundesregierung &#252;ber den IT-Planungsrat und das
+Bundesministerium des Innern, f&#252;r Bau und Heimat f&#252;r den Einsatz von TLS 1.3 mit 
+Perfect Forwarding Secrecy (PFS) in Bundesbeh&#246;rden einsetzen, und
+welcher Zeitrahmen ist gegebenenfalls f&#252;r die Implementierung angedacht? 
+Der &#8222;Umsetzungsplan Bund 2017&#8220; (s. u.) sieht vor, dass die Bundesbeh&#246;rden 
+Mindeststandards, welche vom BSI auf Basis &#167; 8 Absatz 1 BSIG ver&#246;ffentlicht 
+werden, beachten m&#252;ssen. F&#252;r den Bereich der TLS-Verschl&#252;sselung von
+Verbindungen existiert der &#8222;Mindeststandard des BSI zur Verwendung von Transport 
+Layer Security (TLS)&#8220; in Version 2.0 vom 05. April 2019. Darin wird f&#252;r die 
+Bundesverwaltung der ausschlie&#223;liche Einsatz von TLS 1.2 mit Perfect
+Forwarding Secrecy sowie TLS 1.3 mit Perfect Forwarding Secrecy als erlaubte
+Verfahren festgelegt.  
+Dar&#252;ber hinaus besteht mit der &#8222;Technischen Richtlinie TR-02102-2
+(Kryptographische Verfahren: Empfehlungen und Schl&#252;ssell&#228;ngen &#8211; Teil 2 &#8211; Verwendung 
+von Transport Layer Security (TLS))&#8220; (s. u.) eine allgemeine Empfehlung f&#252;r die 
+sichere Verwendung von TLS-Versionen sowie Cipher-Suiten. Dabei werden
+sowohl Cipher-Suiten mit Perfect Forward Secrecy (PFS) als auch ohne PFS
+empfohlen, wobei Cipher-Suiten mit PFS grunds&#228;tzlich bevorzugt werden sollen. 
+In dieser technischen Richtlinie werden ausschlie&#223;lich TLS 1.2 sowie TLS 1.3 als 
+sichere Verfahren f&#252;r die Transportverschl&#252;sselung genannt. Trotz der
+Verbesserungen, die TLS 1.3 mit sich bringt, ist TLS 1.2 bei geeigneter Konfiguration
+derzeit immer noch als sicher zu erachten. Daher gibt es gegenw&#228;rtig keine Pl&#228;ne, 
+die Empfehlung von TLS 1.2 in der &#8222;Technischen Richtlinie TR-02102-2&#8220;
+auslaufen zu lassen. 
+Der Mindeststandard des BSI zur Verwendung von TLS (Version 2.0) macht 
+TLS 1.2 mit PFS oder TLS 1.3 mit PFS f&#252;r die Bundesverwaltung verpflichtend. 
+F&#252;r Neubeschaffungen wird im Mindeststandard empfohlen, auf Kompatibilit&#228;t 
+mit TLS 1.3 zu achten. Die Dokumente sind hier online einsehbar: www.bmi. 
+bund.de/SharedDocs/downloads/DE/publikationen/themen/itdigitalpolitik/up-bund- 
+2017.pdf; www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/ 
+TechnischeRichtlinien/TR02102/BSI-TR-02102-2.pdf.
+9. Auf welche Erkenntnisse kann die Bundesregierung in Bezug auf die
+Migration von TLS 1.0 zu TLS 1.2 hinsichtlich 
+a) der finanziellen Migrationskosten (bitte nach Bundesministerien und 
+Kostenkategorie aufschl&#252;sseln) und  
+Der Bundesregierung liegen keine Informationen bez&#252;glich finanzieller
+Migrationskosten vor. 
+b) den zeitlichen und organisatorischen Migrationsablauf zur&#252;ckgreifen 
+(www.bsi.bund.de/DE/Presse/Pressemitteilungen/Presse2013/BSI_ 
+veroeffentlicht_Mindeststandard_fuer_verschluesselte_Internetverbindungen_ 
+08102013.html)? 
+Eine vollst&#228;ndige Migration ist Stand heute noch nicht abgeschlossen. Einige 
+Webseiten setzen weiterhin auf Server-Konfigurationen, welche den Einsatz von 
+TLS 1.2 entweder nicht anbieten oder nicht ausschlie&#223;lich erzwingen. 
+10. Sieht die Bundesregierung die im Koalitionsvertrag zwischen CDU, CSU 
+und SPD vereinbarte Novellierung des Produktsicherheitsrechts (Zeilen 
+6371 &#8211; 6375: &#8222;Wir werden das Produktsicherheitsrecht novellieren, um die 
+IT-Sicherheit in verbrauchernahen Produkten zu erh&#246;hen. Dazu werden wir 
+u. a. das Produkthaftungsrecht anpassen, Mindeststandards vorschreiben und 
+die Einf&#252;hrung einer gew&#228;hrleistungs&#228;hnlichen Herstellerhaftung pr&#252;fen.&#8220;) 
+auch im Falle unzureichender Verschl&#252;sselungsstandards bzw.
+Nachschl&#252;ssel beim Produkthersteller als ausreichend an, und wenn ja, aus welchen 
+Gr&#252;nden? 
+11. Bis wann beabsichtigt die Bundesregierung die im Koalitionsvertrag
+zwischen CDU, CSU und SPD vereinbarte Novellierung des
+Produktsicherheitsrechts umzusetzen? 
+Die Fragen 10 und 11 werden zusammen beantwortet. 
+Zun&#228;chst ist darauf hinzuweisen, dass schon das bestehende Recht der
+Produktsicherheit heute M&#246;glichkeiten bietet, bei einer Gefahr f&#252;r Sicherheit und
+Gesundheit von Personen aufgrund unsicherer Produkte Ma&#223;nahmen zu ergreifen. 
+Die Bundesregierung &#252;berpr&#252;ft derzeit, ob die Regelungen des
+Produktsicherheitsrechts ausreichen, das bestehende Sicherheitsniveau auch im Falle von
+Cyberangriffen zu erhalten. Da es sich im Produktsicherheitsrecht ganz &#252;berwiegend 
+um vollst&#228;ndig harmonisiertes Binnenmarktrecht handelt, werden erforderliche 
+Nachbesserungen auf europ&#228;ischer Ebene in die entsprechenden
+Produktsicherheitsgremien eingebracht. 
+Auch beim Produkthaftungsrecht handelt es sich ganz &#252;berwiegend um
+vollst&#228;ndig harmonisiertes Binnenmarktrecht. Die Europ&#228;ische Kommission f&#252;hrt derzeit 
+Konsultationen durch, um zu &#252;berpr&#252;fen, ob die Produkthaftungsrichtlinie im 
+Hinblick auf technologische Neuerungen &#220;berarbeitungen bedarf. Die
+Bundesregierung begleitet diese Konsultationen. 
+Im &#220;brigen wird auf die Antwort zu Frage 2 verwiesen.
+12. In welchem Umfang wird die Bundesregierung bei Sch&#228;den oder Datenleaks, 
+welche auf unzureichende Verschl&#252;sselungstechnologien oder den
+Missbrauch von Nachschl&#252;sseln zur&#252;ckzuf&#252;hren sind, die Herstellerhaftung
+versch&#228;rfen? 
+Da es sich bei dem Produkthaftungsrecht ganz &#252;berwiegend um vollst&#228;ndig
+harmonisiertes Binnenmarktrecht handelt, begleitet die Bundesregierung die
+Konsultationen der Europ&#228;ischen Kommission, die &#252;berpr&#252;ft, ob die
+Produkthaftungsrichtlinie im Hinblick auf technologische Neuerungen &#220;berarbeitungen
+bedarf. 
+13. Welche konkreten Projekte unterst&#252;tzt die Bundesregierung innerhalb der 
+neugegr&#252;ndeten Agentur f&#252;r Cybersicherheit (ausgestattet mit einem
+(Forschungs-)Budget von 200 Mio. Euro; www.heuking.de/de/news-events/ 
+fachbeitraege/der-cybersecurity-act-wohin-steuert-europa-in-fragen- 
+der-cybersicherheit.html) hinsichtlich Verschl&#252;sselungstechnologien, und 
+welche finanziellen und personellen Ressourcen werden dem Thema
+Endezu-Ende-Verschl&#252;sselungstechnologien zugewiesen? 
+Die Agentur f&#252;r Innovation in der Cybersicherheit wurde noch nicht gegr&#252;ndet. 
+Konkrete Aussagen zu den Projekten sind zu diesem Zeitpunkt deswegen noch 
+nicht m&#246;glich.
+ 
+ 
+ 
+ 
+ 
+Satz: Satzweiss.com Print, Web, Software GmbH, Mainzer Stra&#223;e 116, 66121 Saarbr&#252;cken, www.satzweiss.com 
+Druck: Printsystem GmbH, Schafw&#228;sche 1-3, 71296 Heimsheim, www.printsystem.de 
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de 
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/9112 -
+Starke Ende-zu-Ende-Verschl&#252;sselung - ohne Nachschl&#252;ssel</titel>
+    <datum>2019-04-23</datum>
+  </document>
+  

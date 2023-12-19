@@ -1,0 +1,279 @@
+<document>
+    <id>254046</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/29612</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>54a82683c040ed8bc32686775125ee5e</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>277187</id>
+      <titel>Probleme bei der Vereinheitlichung der Finanzbuchhaltungs-Schnittstelle zum Export von Steuerdaten</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium der Finanzen</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/296/1929612.pdf</pdf_url>
+      <id>254046</id>
+      <dokumentnummer>19/29612</dokumentnummer>
+      <datum>2021-05-12</datum>
+      <verteildatum>2021-05-21</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Antwort
+der Bundesregierung
+auf die Kleine Anfrage der Abgeordneten Katja Hessel, Christian D&#252;rr,
+Dr. Florian Toncar, weiterer Abgeordneter und der Fraktion der FDP
+&#8211; Drucksache 19/29058 &#8211;
+Probleme bei der Vereinheitlichung der Finanzbuchhaltungsschnittstelle zum
+Export von Steuerdaten
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Die Vereinheitlichung von Schnittstellen f&#252;r den Export von Steuerdaten wird 
+von immer mehr europ&#228;ischen L&#228;ndern vorangetrieben (vgl. auch einheitliche 
+Datenformate f&#252;r die Extraktion durch die Empfehlungen der OECD zum
+internationalen Standard SAF-T sowie die Ver&#246;ffentlichung der EU-
+Kommission zur Beschreibung und SAF-T-Programmierung).
+In Deutschland ist f&#252;r die Anlieferung der Finanzbuchhaltung an die
+Finanzbeh&#246;rden bisher keine elektronische Bereitstellung nach n&#228;her definiertem
+Datensatz vorgeschrieben. In ihrer Antwort auf die Kleine Anfrage der Fraktion 
+der FDP auf Bundestagsdrucksache 19/21296 teilte die Bundesregierung mit, 
+dass &#8222;eine gesetzliche Regelung zur Vereinheitlichung der standardisierten 
+Schnittstelle, der Datensatzbeschreibungen und der Datenspeicherung gepr&#252;ft&#8220; 
+werde.
+Im Referentenentwurf zum Jahressteuergesetz 2020 (JStG 2020-RefE, S. 184) 
+war eine Verordnungserm&#228;chtigung zur Vereinheitlichung von Schnittstellen 
+und der Datenspeicherung geplant, die jedoch im Jahressteuergesetz 2020 
+nicht mehr enthalten war.
+&#8199;1. Welche Erw&#228;gungen der Bundesregierung haben zur Aufnahme der
+Verordnungserm&#228;chtigung zur Vereinheitlichung von Schnittstellen und der 
+Datenspeicherung in den Referentenentwurf zum Jahressteuergesetz 
+2020 (JStG 2020-RefE, S. 184) gef&#252;hrt?
+Mit der gesetzlichen Regelung sollten die Standardisierung einer digitalen 
+Schnittstelle und die Mindestanforderungen an steuererhebliche Daten
+festgeschrieben werden. Hierdurch sollte Rechtssicherheit f&#252;r die Wirtschaft
+geschaffen werden. Es h&#228;tten langwierige Anpassungen von Datenstrukturen oder
+aufwendige Exportrechenl&#228;ufe z. B. zur Vorbereitung oder w&#228;hrend einer
+Au&#223;enpr&#252;fung vermieden werden k&#246;nnen. Bisherige Standardisierungen zeigen, dass 
+Standardisierungen dieser Art effektiv sowie zeitsparend sind.
+Deutscher Bundestag Drucksache 19/29612
+19. Wahlperiode 12.05.2021
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums der Finanzen vom 11. Mai 2021 
+&#252;bermittelt.
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext.
+&#8199;2. An welchen L&#228;ndern und Anwendungsbeispielen hat sich die
+Bundesregierung bei den Regelungen im Referentenentwurf zum
+Jahressteuergesetz 2020 orientiert?
+Zur Erarbeitung der Regelung im Referentenentwurf zum Jahressteuergesetz 
+2020 hat sich die Bundesregierung nicht an Regelungen anderer L&#228;nder
+orientiert. Vielmehr hat die Bundesregierung die Erfahrungen der Digitalen
+Lohnschnittstelle (DLS) und vergleichbaren Schnittstellen zugrunde gelegt. Es
+sollten die Mindestanforderungen f&#252;r eine Datenstruktur f&#252;r den Export im
+Rahmen einer Au&#223;enpr&#252;fung oder Nachschau festgeschrieben werden.
+&#8199;3. Aus welchen Gr&#252;nden wurde die beabsichtigte Gesetzes&#228;nderung
+letztlich im Jahressteuergesetz 2020 aufgegeben?
+In ihren Stellungnahmen sahen Verb&#228;nde die Regelung kritisch, da vermutet 
+wurde, die Bundesregierung wolle verbindliche Datenspeicherungs- und
+Archivierungsprogramme vorschreiben. Dies war jedoch nicht durch die
+Bundesregierung beabsichtigt. Der kritisierte Begriff &#8222;Datenspeicherung&#8220; wurde
+lediglich aus technischen Gr&#252;nden verwendet, damit Vorgaben an Dateiformate
+h&#228;tten aufgestellt werden k&#246;nnen. Kurzfristig konnte kein Einvernehmen zur
+Aufnahme der Regelung erreicht werden. Zur Beschleunigung des
+Gesetzgebungsverfahrens des Jahressteuergesetzes 2020 wurde daher die Norm aus dem
+Referentenentwurf herausgenommen.
+&#8199;4. Welche Stellungnahmen von Verb&#228;nden, Software-Anbietern und
+Steuerpflichtigen liegen der Bundesregierung vor, die Kritik an der
+Verordnungserm&#228;chtigung aus dem Referentenentwurf zum Jahressteuergesetz 
+2020 enthalten?
+Bei der Erarbeitung des Entwurfs eines Jahressteuergesetzes 2020 wurden die 
+betroffenen Fachkreise und Verb&#228;nde beteiligt (&#167; 47 Absatz 3 der
+Gemeinsamen Gesch&#228;ftsordnung (GGO)). Die aufgrund dieser Beteiligung
+eingegangenen Stellungnahmen sowie der Referentenentwurf des Bundesministeriums der 
+Finanzen werden auf der Internetseite des Bundesministeriums der Finanzen 
+ver&#246;ffentlicht (https://www.bundes-finanzministerium.de/Content/DE/Gesetzes
+texte/Gesetze_Gesetzesvorhaben/Abteilungen/Abteilung_IV/19_Legislaturperi
+ode/Gesetze_Verordnungen/2020-12-28-JStG-2020/0-Gesetz.html).
+Aufgrund dieser nachvollziehbaren Transparenz sieht die Bundesregierung
+davon ab, die frei verf&#252;gbaren Informationen zusammenzutragen und anschaulich 
+aufzubereiten, da dies nicht Bestandteil der parlamentarischen Kontrollfunktion 
+ist.
+&#8199;5. Welche Informationen zu h&#246;heren Steuerberatungs- und IT-Kosten, zu 
+Investitionserfordernissen, zu Adaptions- und Umstellungsproblemen
+sowie zu einer grunds&#228;tzlich schwierigen Umsetzbarkeit liegen der
+Bundesregierung vor?
+Der Bundesregierung liegen hierzu keine eigenen Erkenntnisse vor.
+&#8199;6. Falls der Bundesregierung kritische Stellungnahmen vorliegen, wie l&#228;sst 
+sich dies mit der Auffassung der OECD (vgl. OECD (2020), Tax
+Administration 3.0: The Digital Transformation of Tax Administration, OECD, 
+Paris.) in Verbindung bringen, wonach sich aufgrund der
+Vereinheitlichung von Schnittstellen f&#252;r den Export von Steuerdaten eine Senkung 
+der Transaktionskosten sowohl f&#252;r die Finanzverwaltung als auch f&#252;r den 
+Steuerpflichtigen ergibt?
+Der Bundesregierung liegen folgende Stellungnahmen vor, die jedoch von
+einem anderen Verst&#228;ndnis der im Referentenentwurf zum Jahressteuergesetz 
+2020 vorgesehenen Norm ausgehen als die Bundesregierung:
+Verband Ausf&#252;hrung in der Stellungnahme
+Acht Spitzenverb&#228;nde der Deutschen 
+Wirtschaft
+&#8222;So existieren in vielen Unternehmen 
+verschiedenste, zum Teil selbst
+entwickelte IT-Systeme, sei es 
+Buchhaltungs-, Archiv- und ERP-
+Systeme, aber auch vielf&#228;ltigste
+Vorsysteme, welche steuerlich relevante Daten 
+beinhalten. Diese Systeme sind speziell 
+auf die unternehmensspezifischen
+Bed&#252;rfnisse und Betriebsabl&#228;ufe
+zugeschnitten und k&#246;nnen nicht durch ein
+finanzamtliches System ersetzt werden. 
+Eine Umstellung dieser Systeme
+hinsichtlich einer von der
+Finanzverwaltung vorgegebenen Speicherung w&#252;rde 
+zudem &#8211; wenn denn &#252;berhaupt
+technisch umsetzbar &#8211; massive IT-Kosten in 
+Milliarden-Euro-H&#246;he verursachen
+(bezogen auf die gesamte deutsche
+Wirtschaft).&#8220;
+Bundesverband
+Informationswirtschaft, Telekommunikation und
+neue Medien e. V. (Bitkom)
+&#8222;Eine Vereinheitlichung, die immense 
+Kosten und Unsicherheiten bei den 
+Steuerpflichtigen verursacht und bereits 
+durch zahlreiche neue Berichts- und 
+Umstellungserfordernisse (E-Bilanz, 
+Kassensicherung, E-Invoicing, DAC6 
+etc.) zumal zu COVID-19-Zeiten
+zus&#228;tzlich belastetes Personal abermals in 
+erheblichem Umfang binden will,&#8220;
+Verband Ausf&#252;hrung in der Stellungnahme
+Deutsche Kreditwirtschaft &#8222;Unabh&#228;ngig davon, wie die Daten in 
+den einzelnen Buchungssystemen der 
+Steuerpflichtigen anfallen, kann dies zu 
+einem immensen technischen Aufwand 
+f&#252;r die einzelnen Unternehmen f&#252;hren, 
+der aus unserer Sicht unn&#246;tig ist.&#8220;
+&#8222;Auch ist dringend der bislang nicht 
+detailliert in den Blick genommene
+Erf&#252;llungsaufwand bei den &#220;berlegungen 
+heranzuziehen. Da in der Wirtschaft 
+vielf&#228;ltige Implementierungen von teils 
+individuell entwickelten, auf die 
+unternehmens-spezifischen Bed&#252;rfnisse 
+und Betriebsabl&#228;ufe zugeschnittenen 
+Systeme einschlie&#223;lich der Vorsysteme 
+in Anwendung sind, bedeutet eine
+Umstellung entsprechend den Vorgaben der 
+Finanzverwaltung ein enormes Risiko 
+und Belastung f&#252;r die Unternehmen.&#8220;
+Diese Stellungnahmen lassen sich nicht mit der Auffassung der OECD in
+Verbindung bringen, wonach sich aufgrund der Vereinheitlichung von
+Schnittstellen f&#252;r den Export von Steuerdaten eine Senkung der Transaktionskosten
+sowohl f&#252;r die Finanzverwaltung als auch f&#252;r den Steuerpflichtigen ergibt, da die 
+Stellungnahmen von einem anderen Verst&#228;ndnis der im Referentenentwurf zum 
+Jahressteuergesetz 2020 vorgesehenen Norm ausgehen.
+&#8199;7. Inwieweit hat sich das Bundesministerium der Finanzen zwischenzeitlich 
+mit den verschiedenen Stakeholdern ins Benehmen gesetzt?
+Bereits seit der Erarbeitung der Grunds&#228;tze zur ordnungsm&#228;&#223;igen F&#252;hrung und 
+Aufbewahrung von B&#252;chern, Aufzeichnungen und Unterlagen in elektronischer 
+Form sowie zum Datenzugriff (GoBD) im Jahr 2013 wird seitens der Verb&#228;nde 
+und Wirtschaftsbeteiligten immer wieder die Schaffung digitaler Schnittstellen 
+und die Standardisierung von steuererheblichen Daten gefordert. Mit der
+Einf&#252;hrung des &#167; 147b Abgabenordnung (AO)-neu sollte dieser Forderung der 
+Wirtschaft entsprochen werden. Weitere erforderliche Pr&#252;fungen sowie
+Gespr&#228;che konnten u. a. aufgrund der pandemischen Lage noch nicht gef&#252;hrt werden 
+konnten.
+&#8199;8. Welche Potenziale ergeben sich aus Sicht der Bundesregierung f&#252;r die 
+Finanzverwaltungen und die Steuerpflichtigen durch die Einf&#252;hrung
+einer einheitlichen Schnittstelle f&#252;r den Export von
+Finanzbuchhaltungsdaten?
+Auf die Antwort zu den Fragen 1 und 2 wird verwiesen.
+&#8199;9. Warum kann die Bundesrepublik Deutschland aus Sicht der
+Bundesregierung nicht die Rolle eines Innovationstreibers f&#252;r sich beanspruchen, und 
+wie will die Bundesregierung der Bundesrepublik Deutschland an dieser 
+Stelle zu einer besseren Position verhelfen?
+Die Bundesregierung hat mit dem Entwurf des &#167; 147b AO-neu versucht, einen 
+ersten Impuls zu setzen. Aufgrund der schon vorhandenen Schnittstellen der
+Finanzverwaltung und der daraus resultierenden guten Erfahrungen wird die 
+Bundesregierung die Thematik weiterhin verfolgen. Zudem gab es auf
+Arbeitsebene erste Interessenbekundungen eines anderen europ&#228;ischen Staates an den 
+Erfahrungen und zuk&#252;nftig vorgesehenen Regelungen der Bundesrepublik 
+Deutschland.
+10. Welche Erkenntnisse (positiv und negativ) liegen der Bundesregierung 
+aus den Steuerverwaltungen von benachbarten L&#228;ndern vor, die bereits 
+die Vereinheitlichung der Schnittstelle f&#252;r den Export der
+Finanzbuchhaltungsdaten umgesetzt haben?
+Der Bundesregierung liegen hierzu keine Erkenntnisse vor.
+11. Welche H&#252;rden bestehen aus Sicht der Bundesregierung noch f&#252;r die 
+Vereinheitlichung der Schnittstelle f&#252;r den Export der
+Finanzbuchhaltungsdaten, obwohl durch die GDPdU/GoBD bereits eine
+vereinheitlichte Exportfunktion (zum Einlesen in das Analyseprogramm IDEA)
+vorliegt?
+Das BMF-Schreiben vom 16. Juli 2001, BStBl I S. 415 (Grunds&#228;tze zum
+Datenzugriff und zur Pr&#252;fbarkeit digitaler Unterlagen &#8211; GDPdU), ist mit BMF-
+Schreiben vom 14. November 2014, BStBl I S. 1450, aufgehoben worden.
+Das BMF-Schreiben vom 28. November 2019, BStBl I S. 1269 (Grunds&#228;tze 
+zur ordnungsm&#228;&#223;igen F&#252;hrung und Aufbewahrung von B&#252;chern,
+Aufzeichnungen und Unterlagen in elektronischer Form sowie zum Datenzugriff &#8211; GoBD), 
+legt in Auslegung der &#167;&#167; 146 und 147 AO unter anderem fest, welche
+formellen Anforderungen an die Speicherung der Daten und sonstigen Unterlagen
+erf&#252;llt werden m&#252;ssen. Hierzu geh&#246;rt jedoch nicht die Festlegung einer
+bestimmten Dateistruktur. Dadurch kann es vorkommen, dass die ordnungsgem&#228;&#223;
+gespeicherten Daten nicht ohne Konvertierung von der Finanzverwaltung
+eingelesen und verarbeitet werden k&#246;nnen.
+12. Plant die Bundesregierung eine Pilotierungsphase (wie bei der
+Einf&#252;hrung der DLS), und wenn ja, weshalb wurde diese nicht vor der
+geplanten Gesetzes&#228;nderung (JStG 2020-RefE, S. 184) kommuniziert bzw.
+begonnen?
+Die Bundesregierung pr&#252;ft bei zuk&#252;nftigen Gesetzes&#228;nderungen hinsichtlich
+digitaler Schnittstellen und der Standardisierung von steuererheblichen Daten
+sowie beim Erlass von Verordnungen, ob eine Pilotierungsphase erforderlich sein 
+kann.
+13. Wie plant die Bundesregierung konkret, das Standard-Audit-File-
+Konzept von OECD und EU-Kommission f&#252;r die deutsche Steuerverwaltung 
+umzusetzen und nutzbar zu machen?
+Im Zusammenhang mit der Neuregelung des &#167; 147b AO-neu wird gepr&#252;ft, ob 
+die Umsetzung des Standard Audit File Konzepts im Rahmen dessen erfolgen 
+kann.
+14. Warum wurde SAF-MOSS aus dem Jahr 2014 nicht umgesetzt?
+Bei Formaten des SAF handelt es sich zumeist um standardisierte Pr&#252;fdateien, 
+die neben formalen auch inhaltliche Vorgaben enthalten. In diesen wird
+festgelegt, welche Buchhaltungsdaten vom Steuerpflichtigen an die
+Finanzverwaltung zu &#252;bermitteln sind. Mindestinhalt k&#246;nnen u. a. sein: Hauptbuch
+(Journale), Forderungen (Kundenstammdaten, Rechnungen, Zahlungen),
+Verbindlichkeiten (Lieferantenstammdaten, Rechnungen, Zahlungen), Best&#228;nde des
+Anlageverm&#246;gens (Anlagenstamm, Abschreibungen und Neubewertungen) sowie 
+Best&#228;nde des Umlaufverm&#246;gens (Artikelstamm, Materialbewegungen). Dies 
+bedeutet, dass Mindestinhalte, d. h. die steuerrelevanten Daten, definiert
+werden m&#252;ssten. Eine Definition oder Auflistung steuerrelevanter Daten ist jedoch 
+nicht m&#246;glich, da diese vom steuerlichen Einzelfall abh&#228;ngig sind.
+15. Bis wann und in welchen Etappen will die Bundesregierung die
+elektronische &#220;bermittlung inklusive der Angaben zu Datengruppen,
+Feldeigenschaften in der Datensatzbeschreibung, zur verwendeten
+Schl&#252;sselsystematik und der Verwendung von Prim&#228;rschl&#252;sseln f&#252;r den Bereich der
+Finanzbuchhaltung nach n&#228;her definiertem Datensatz festgelegt haben?
+Die Bundesregierung hat noch keine diesbez&#252;glichen Zeitpl&#228;ne. Insbesondere 
+sind das Gesetz- und Verordnungsgebungsverfahren abzuwarten.
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/29058 -
+Probleme bei der Vereinheitlichung der Finanzbuchhaltungs-Schnittstelle zum Export von Steuerdaten</titel>
+    <datum>2021-05-12</datum>
+  </document>
+  

@@ -1,0 +1,2326 @@
+<document>
+    <id>216565</id>
+    <drucksachetyp>Unterrichtung</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/60</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>fa1e5e53abba1b24b506bbb3dc3ca5a4</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:15+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>230133</id>
+      <titel>Bericht nach &#167; 99 der Bundeshaushaltsordnung &#252;ber die angestrebte Einf&#252;hrung harmonisierter Rechnungsf&#252;hrungsgrunds&#228;tze f&#252;r den &#246;ffentlichen Sektor (EPSAS) in den Mitgliedstaaten  der Europ&#228;ischen Union</titel>
+      <vorgangstyp>Bericht, Gutachten, Programm</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRH</bezeichnung>
+      <titel>Bundesrechnungshof</titel>
+    </urheber>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/000/1900060.pdf</pdf_url>
+      <id>216565</id>
+      <dokumentnummer>19/60</dokumentnummer>
+      <datum>2017-11-15</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Unterrichtung</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesrechnungshof</urheber>
+    </fundstelle>
+    <text>[0 Zusammenfassung . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .1
+1 Vorbemerkungen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .4
+2 Ausgangslage  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .5
+3 Ziele von EPSAS  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .6
+4 Prozess der Einf&#252;hrung von EPSAS  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .7
+ 4.1 Rechtsgrundlage f&#252;r die Einf&#252;hrung von EPSAS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .7
+ 4.2 Ausgangssituation in der Europ&#228;ischen Union  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .7
+ 4.3 Zeitplan f&#252;r die Entwicklung und Einf&#252;hrung von EPSAS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .8
+ 4.4 Entwicklung von EPSAS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .8
+ 4.5 Handlungsalternativen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .9
+5 Stabilit&#228;t der Wirtschafts- und W&#228;hrungsunion  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .10
+ 5.1 Europ&#228;ische Fiskalregeln . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .10
+ 5.2 Pr&#228;ventiver Arm des Stabilit&#228;ts- und Wachstumspakts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+ 5.3 Korrektiver Arm des Stabilit&#228;ts- und Wachstumspakts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+ 5.4 Gesamtschau  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .12
+I n h a l t s v e r z e i c h n i s
+  Seite
+Deutscher Bundestag Drucksache 19/60
+19. Wahlperiode
+Zugeleitet mit Schreiben des Bundesrechnungshofes vom 15. November 2017 gem&#228;&#223; &#167; 99 der Bundeshaushaltsordnung.
+15.11.2017
+Unterrichtung
+durch den Bundesrechnungshof
+Bericht nach &#167; 99 der Bundeshaushaltsordnung
+&#252;ber die angestrebte Einf&#252;hrung harmonisierter
+Rechnungsf&#252;hrungsgrunds&#228;tze f&#252;r den &#246;ffentlichen
+Sektor (EPSAS) in den Mitgliedstaaten der 
+Europ&#228;ischen Union
+6 Zwecke der Rechnungslegung  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .13
+ 6.1 IPSAS als Bezugsrahmen f&#252;r EPSAS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .13
+ 6.2 &#214;ffentliche Rechnungslegung . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .14
+ 6.3 Kapitalmarktorientierte Rechnungslegung  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .14
+7 Transparenz und Vergleichbarkeit  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .15
+ 7.1 Voraussetzungen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .15
+ 7.2 Themenfeld Steuern . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .15
+ 7.2.1 Methoden f&#252;r die Ber&#252;cksichtigung von Steuereinnahmen  . . . . . . . . . . . . . . . . . . . . . . . . . 15
+ 7.2.2 M&#246;gliche Konsequenzen. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+ 7.3 Themenfeld Pensionsverpfl ichtungen  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .17
+ 7.3.1 Ausgangssituation in den Mitgliedstaaten . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+ 7.3.2 Wahl des Abzinsungssatzes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+ 7.3.3 Beispiele Hessen und Hamburg . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+8 Konsequenzen f&#252;r Deutschland . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .19
+ 8.1 Ausgangssituation  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .19
+ 8.2 Parallelsystem oder Doppik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .19
+ 8.3 Steuerungswirkung  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .21
+ 8.4 Kosten  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .21
+9 Fazit  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .22
+10 Stellungnahme des Bundesministeriums der Finanzen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .25
+  
+  Seite 0 Zusammenfassung
+Die Europ&#228;ische Kommission (Kommission) strebt harmonisierte
+Rechnungsf&#252;hrungsgrunds&#228;tze f&#252;r den &#246;ffentlichen Sektor (EPSAS) in den Mitgliedstaaten der 
+Europ&#228;ischen Union an. Damit will sie zuverl&#228;ssigere und vergleichbarere Daten 
+zu den &#246;ffentlichen Haushalten erhalten. Dies soll eine verbesserte
+haushaltspolitische &#220;berwachung (Haushalts&#252;berwachung) auf EU-Ebene erm&#246;glichen und so 
+dazu beitragen, dass Staatsschuldenkrisen k&#252;nftig vermieden werden. 
+Die EPSAS sollen auf der doppelten Buchf&#252;hrung mit Periodenabgrenzung
+(Doppik) basieren und f&#252;r alle staatlichen Ebenen verbindlich gelten. Nicht
+belastbaren Sch&#228;tzungen der Kommission zufolge soll die Einf&#252;hrung von EPSAS allein in 
+Deutschland insgesamt bis zu 3,1 Mrd. Euro kosten. Die tats&#228;chlichen fi nanziellen 
+Belastungen d&#252;rften aus Sicht des Bundesrechnungshofes h&#246;her ausfallen.
+0.1 
+F&#252;r das Projekt hat die Kommission kein Gesamtkonzept vorgelegt. Sie hat
+zudem nicht dargelegt, inwieweit die von ihr angestrebten Ziele durch die
+verbindliche Einf&#252;hrung von EPSAS tats&#228;chlich erreicht werden k&#246;nnen.
+Handlungsalternativen hat sie nicht untersucht. (Tzn. 4.1 und 4.5)
+0.2 
+Die Kommission f&#246;rdert seit dem Jahr 2015 die freiwillige Umstellung auf
+doppische Systeme in den Mitgliedstaaten, auch indem sie hierf&#252;r EU-Mittel bereitstellt. 
+Dadurch nimmt sie eine Entscheidung praktisch vorweg. (Tz. 4.3)
+0.3 
+In die Entscheidungsprozesse bindet die Kommission
+Wirtschaftspr&#252;fungsgesellschaften intensiv ein. Sie sind ma&#223;gebliche Akteure und nehmen erheblichen
+Einfl uss auf die Entwicklung von EPSAS. Dies h&#228;lt der Bundesrechnungshof f&#252;r
+bedenklich, weil mit der verbindlichen Einf&#252;hrung von EPSAS auch ein bedeutendes 
+Aufgabenfeld f&#252;r externe Beratungs- und insbesondere
+Wirtschaftspr&#252;fungsgesellschaften geschaffen w&#252;rde. (Tz. 4.4)
+0.4 
+Mit der Einf&#252;hrung von EPSAS will die Kommission das Vertrauen in die
+Finanzstabilit&#228;t der Europ&#228;ischen Union st&#228;rken und durch eine verbesserte
+Haushalts&#252;berwachung zur Vermeidung k&#252;nftiger Staatsschuldenkrisen beitragen. 
+Drucksache 19/60 Deutscher Bundestag &#8211; 19. Wahlperiode&#8211; II &#8211;
+6 Zwecke der Rechnungslegung  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .13
+ 6.1 IPSAS als Bezugsrahmen f&#252;r EPSAS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .13
+ 6.2 &#214;ffentliche Rechnungslegung . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .14
+ 6.3 Kapitalmarktorientierte Rechnungslegung  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .14
+7 Transparenz und Vergleichbarkeit  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .15
+ 7.1 Voraussetzungen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .15
+ 7.2 Themenfeld Steuern . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .15
+ 7.2.1 Methoden f&#252;r die Ber&#252;cksichtigung von Steuereinnahmen  . . . . . . . . . . . . . . . . . . . . . . . . . 15
+ 7.2.2 M&#246;gliche Konsequenzen. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+ 7.3 Themenfeld Pensionsverpfl ichtungen  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .17
+ 7.3.1 Ausgangssituation in den Mitgliedstaaten . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+ 7.3.2 Wahl des Abzinsungssatzes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+ 7.3.3 Beispiele Hessen und Hamburg . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+8 Konsequenzen f&#252;r Deutschland . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .19
+ 8.1 Ausgangssituation  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .19
+ 8.2 Parallelsystem oder Doppik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .19
+ 8.3 Steuerungswirkung  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .21
+ 8.4 Kosten  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .21
+9 Fazit  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .22
+10 Stellungnahme des Bundesministeriums der Finanzen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .25
+  
+  Seite 0 Zusammenfassung
+Die Europ&#228;ische Kommission (Kommission) strebt harmonisierte
+Rechnungsf&#252;hrungsgrunds&#228;tze f&#252;r den &#246;ffentlichen Sektor (EPSAS) in den Mitgliedstaaten der 
+Europ&#228;ischen Union an. Damit will sie zuverl&#228;ssigere und vergleichbarere Daten 
+zu den &#246;ffentlichen Haushalten erhalten. Dies soll eine verbesserte
+haushaltspolitische &#220;berwachung (Haushalts&#252;berwachung) auf EU-Ebene erm&#246;glichen und so 
+dazu beitragen, dass Staatsschuldenkrisen k&#252;nftig vermieden werden. 
+Die EPSAS sollen auf der doppelten Buchf&#252;hrung mit Periodenabgrenzung
+(Doppik) basieren und f&#252;r alle staatlichen Ebenen verbindlich gelten. Nicht
+belastbaren Sch&#228;tzungen der Kommission zufolge soll die Einf&#252;hrung von EPSAS allein in 
+Deutschland insgesamt bis zu 3,1 Mrd. Euro kosten. Die tats&#228;chlichen fi nanziellen 
+Belastungen d&#252;rften aus Sicht des Bundesrechnungshofes h&#246;her ausfallen.
+0.1 
+F&#252;r das Projekt hat die Kommission kein Gesamtkonzept vorgelegt. Sie hat
+zudem nicht dargelegt, inwieweit die von ihr angestrebten Ziele durch die
+verbindliche Einf&#252;hrung von EPSAS tats&#228;chlich erreicht werden k&#246;nnen.
+Handlungsalternativen hat sie nicht untersucht. (Tzn. 4.1 und 4.5)
+0.2 
+Die Kommission f&#246;rdert seit dem Jahr 2015 die freiwillige Umstellung auf
+doppische Systeme in den Mitgliedstaaten, auch indem sie hierf&#252;r EU-Mittel bereitstellt. 
+Dadurch nimmt sie eine Entscheidung praktisch vorweg. (Tz. 4.3)
+0.3 
+In die Entscheidungsprozesse bindet die Kommission
+Wirtschaftspr&#252;fungsgesellschaften intensiv ein. Sie sind ma&#223;gebliche Akteure und nehmen erheblichen
+Einfl uss auf die Entwicklung von EPSAS. Dies h&#228;lt der Bundesrechnungshof f&#252;r
+bedenklich, weil mit der verbindlichen Einf&#252;hrung von EPSAS auch ein bedeutendes 
+Aufgabenfeld f&#252;r externe Beratungs- und insbesondere
+Wirtschaftspr&#252;fungsgesellschaften geschaffen w&#252;rde. (Tz. 4.4)
+0.4 
+Mit der Einf&#252;hrung von EPSAS will die Kommission das Vertrauen in die
+Finanzstabilit&#228;t der Europ&#228;ischen Union st&#228;rken und durch eine verbesserte
+Haushalts&#252;berwachung zur Vermeidung k&#252;nftiger Staatsschuldenkrisen beitragen.
+In der Europ&#228;ischen Union besteht hier jedoch kein Erkenntnis-, sondern ein 
+Umsetzungsproblem. Die Vergangenheit hat gezeigt, dass trotz erkannter
+eklatanter Verletzungen der europ&#228;ischen Fiskalregeln keine fi nanziellen Sanktionen 
+verh&#228;ngt wurden. Im Zweifel mangelt es also nicht an qualitativ hochwertigen 
+Finanzdaten, sondern an einer soliden Haushaltspolitik und einer konsequenten 
+Durchsetzung der europ&#228;ischen Fiskalregeln. Beides l&#228;sst sich nicht durch ein wie 
+auch immer geartetes Rechnungslegungssystem erzwingen. (Tz. 5)
+0.5 
+Nach dem Ansatz der Kommission sollen die Mitgliedstaaten ihre
+Rechnungslegung durch EPSAS auf zuverl&#228;ssigere Daten st&#252;tzen und dadurch besser
+Rechenschaft &#252;ber die Verwendung der &#246;ffentlichen Mittel ablegen k&#246;nnen. Zudem will 
+die Kommission mit der Einf&#252;hrung von EPSAS die Transparenz und die
+Vergleichbarkeit der &#246;ffentlichen Haushalte erh&#246;hen.
+Die EPSAS sollen sich an anglo-amerikanische kapitalmarktorientierte Standards 
+anlehnen. Sie w&#228;ren damit st&#228;rker auf die Zukunft ausgerichtet, da sie auch
+darauf abzielten, Investoren mit entscheidungsn&#252;tzlichen Informationen zu
+versorgen. Der Staat muss jedoch in erster Linie Rechenschaft &#252;ber die Verwendung 
+der &#246;ffentlichen Mittel ablegen. Die &#246;ffentliche Rechnungslegung dient damit &#8211; 
+weitaus st&#228;rker als die Rechnungslegung in einem privatwirtschaftlichen
+Unternehmen &#8211; der vergangenheitsorientierten Kontrolle. (Tz. 6)
+Die Einf&#252;hrung von EPSAS w&#252;rde zudem nur scheinbar zuverl&#228;ssigere und
+vergleichbarere Daten zu den &#246;ffentlichen Haushalten liefern. Um diese tats&#228;chlich 
+zu erreichen, m&#252;ssten der Einfl uss von subjektiven Faktoren eingeschr&#228;nkt und 
+manipulative Eingriffe wirksam verhindert werden. Dies ist jedoch nicht
+sichergestellt. Im Gegenteil: Die Diskussionen in den Gremien auf EU-Ebene lassen 
+erkennen, dass die Einf&#252;hrung von EPSAS den Mitgliedstaaten zus&#228;tzliche 
+Wahl- und Gestaltungsm&#246;glichkeiten sowie Ermessensspielr&#228;ume er&#246;ffnen w&#252;rde. 
+(Tz. 7)
+0.6 
+Die EPSAS sollen zus&#228;tzliche Informationen zur fi nanziellen Lage der
+Mitgliedstaaten liefern und damit Entscheidungen aus Sicht der Kommission k&#252;nftig auf 
+eine bessere Grundlage stellen. 
+Die derzeitige parlamentarische Beschlusslage l&#228;sst darauf schlie&#223;en, dass der 
+deutsche Haushaltsgesetzgeber sein verfassungsrechtliches Budgetrecht auch 
+k&#252;nftig anhand der kameralen Haushaltsinformationen aus&#252;ben will. Die EPSAS 
+w&#252;rden damit keine verbesserte parlamentarische Steuerungswirkung entfalten.
+Der Bundesrechnungshof geht davon aus, dass im Falle einer verbindlichen
+Einf&#252;hrung von EPSAS auf Bundesebene das kamerale System beibehalten und
+daneben ein doppisches System eingef&#252;hrt werden m&#252;sste (Parallelsystem). F&#252;r 
+Deutschland bedeutet dies im Ergebnis hohe Einf&#252;hrungskosten, denen faktisch 
+kein Nutzen gegen&#252;bersteht. Hinzu k&#228;men dauerhaft zus&#228;tzliche
+Haushaltsbelastungen f&#252;r den Betrieb eines Parallelsystems. (Tz. 8) 
+0.7 
+Die Bundesregierung sollte auf europ&#228;ischer Ebene ihr politisches Gewicht
+einbringen und die verbindliche Einf&#252;hrung von EPSAS in Deutschland verhindern. 
+Zudem sollte sie darauf hinwirken, dass die Kommission Alternativen pr&#252;ft, 
+mit denen &#8211; soweit erforderlich &#8211; die Transparenz und die Vergleichbarkeit der 
+Finanzberichterstattung der Mitgliedstaaten verbessert werden k&#246;nnen. Dabei 
+sind die Unterschiede in den Verwaltungs- und Kontrollstrukturen der
+Mitgliedstaaten zu ber&#252;cksichtigen. (Tz. 9)
+0.8 
+Das Bundesministerium der Finanzen hat erkl&#228;rt, dass es die Darstellung des 
+Bundesrechnungshofes zu den wesentlichen Kritikpunkten ausdr&#252;cklich teile. Es 
+hat zudem versichert, dass die Bundesregierung den Prozess der Einf&#252;hrung von 
+EPSAS auch weiterhin &#8211; in Abstimmung mit den L&#228;ndern &#8211; intensiv begleiten 
+werde. Dabei werde sie sich daf&#252;r einsetzen, dass deutsche Interessen
+ber&#252;cksichtigt w&#252;rden. (Tz. 10)
+Drucksache 19/60 Deutscher Bundestag &#8211; 19. Wahlperiode&#8211; 2 &#8211;
+In der Europ&#228;ischen Union besteht hier jedoch kein Erkenntnis-, sondern ein 
+Umsetzungsproblem. Die Vergangenheit hat gezeigt, dass trotz erkannter
+eklatanter Verletzungen der europ&#228;ischen Fiskalregeln keine fi nanziellen Sanktionen 
+verh&#228;ngt wurden. Im Zweifel mangelt es also nicht an qualitativ hochwertigen 
+Finanzdaten, sondern an einer soliden Haushaltspolitik und einer konsequenten 
+Durchsetzung der europ&#228;ischen Fiskalregeln. Beides l&#228;sst sich nicht durch ein wie 
+auch immer geartetes Rechnungslegungssystem erzwingen. (Tz. 5)
+0.5 
+Nach dem Ansatz der Kommission sollen die Mitgliedstaaten ihre
+Rechnungslegung durch EPSAS auf zuverl&#228;ssigere Daten st&#252;tzen und dadurch besser
+Rechenschaft &#252;ber die Verwendung der &#246;ffentlichen Mittel ablegen k&#246;nnen. Zudem will 
+die Kommission mit der Einf&#252;hrung von EPSAS die Transparenz und die
+Vergleichbarkeit der &#246;ffentlichen Haushalte erh&#246;hen.
+Die EPSAS sollen sich an anglo-amerikanische kapitalmarktorientierte Standards 
+anlehnen. Sie w&#228;ren damit st&#228;rker auf die Zukunft ausgerichtet, da sie auch
+darauf abzielten, Investoren mit entscheidungsn&#252;tzlichen Informationen zu
+versorgen. Der Staat muss jedoch in erster Linie Rechenschaft &#252;ber die Verwendung 
+der &#246;ffentlichen Mittel ablegen. Die &#246;ffentliche Rechnungslegung dient damit &#8211; 
+weitaus st&#228;rker als die Rechnungslegung in einem privatwirtschaftlichen
+Unternehmen &#8211; der vergangenheitsorientierten Kontrolle. (Tz. 6)
+Die Einf&#252;hrung von EPSAS w&#252;rde zudem nur scheinbar zuverl&#228;ssigere und
+vergleichbarere Daten zu den &#246;ffentlichen Haushalten liefern. Um diese tats&#228;chlich 
+zu erreichen, m&#252;ssten der Einfl uss von subjektiven Faktoren eingeschr&#228;nkt und 
+manipulative Eingriffe wirksam verhindert werden. Dies ist jedoch nicht
+sichergestellt. Im Gegenteil: Die Diskussionen in den Gremien auf EU-Ebene lassen 
+erkennen, dass die Einf&#252;hrung von EPSAS den Mitgliedstaaten zus&#228;tzliche 
+Wahl- und Gestaltungsm&#246;glichkeiten sowie Ermessensspielr&#228;ume er&#246;ffnen w&#252;rde. 
+(Tz. 7)
+0.6 
+Die EPSAS sollen zus&#228;tzliche Informationen zur fi nanziellen Lage der
+Mitgliedstaaten liefern und damit Entscheidungen aus Sicht der Kommission k&#252;nftig auf 
+eine bessere Grundlage stellen. 
+Die derzeitige parlamentarische Beschlusslage l&#228;sst darauf schlie&#223;en, dass der 
+deutsche Haushaltsgesetzgeber sein verfassungsrechtliches Budgetrecht auch 
+k&#252;nftig anhand der kameralen Haushaltsinformationen aus&#252;ben will. Die EPSAS 
+w&#252;rden damit keine verbesserte parlamentarische Steuerungswirkung entfalten.
+Der Bundesrechnungshof geht davon aus, dass im Falle einer verbindlichen
+Einf&#252;hrung von EPSAS auf Bundesebene das kamerale System beibehalten und
+daneben ein doppisches System eingef&#252;hrt werden m&#252;sste (Parallelsystem). F&#252;r 
+Deutschland bedeutet dies im Ergebnis hohe Einf&#252;hrungskosten, denen faktisch 
+kein Nutzen gegen&#252;bersteht. Hinzu k&#228;men dauerhaft zus&#228;tzliche
+Haushaltsbelastungen f&#252;r den Betrieb eines Parallelsystems. (Tz. 8) 
+0.7 
+Die Bundesregierung sollte auf europ&#228;ischer Ebene ihr politisches Gewicht
+einbringen und die verbindliche Einf&#252;hrung von EPSAS in Deutschland verhindern. 
+Zudem sollte sie darauf hinwirken, dass die Kommission Alternativen pr&#252;ft, 
+mit denen &#8211; soweit erforderlich &#8211; die Transparenz und die Vergleichbarkeit der 
+Finanzberichterstattung der Mitgliedstaaten verbessert werden k&#246;nnen. Dabei 
+sind die Unterschiede in den Verwaltungs- und Kontrollstrukturen der
+Mitgliedstaaten zu ber&#252;cksichtigen. (Tz. 9)
+0.8 
+Das Bundesministerium der Finanzen hat erkl&#228;rt, dass es die Darstellung des 
+Bundesrechnungshofes zu den wesentlichen Kritikpunkten ausdr&#252;cklich teile. Es 
+hat zudem versichert, dass die Bundesregierung den Prozess der Einf&#252;hrung von 
+EPSAS auch weiterhin &#8211; in Abstimmung mit den L&#228;ndern &#8211; intensiv begleiten 
+werde. Dabei werde sie sich daf&#252;r einsetzen, dass deutsche Interessen
+ber&#252;cksichtigt w&#252;rden. (Tz. 10)
+1 Vorbemerkungen
+Als eine Konsequenz aus der Staatsschuldenkrise wurden die
+haushaltspolitischen Anforderungen der Europ&#228;ischen Union an die Mitgliedstaaten erh&#246;ht. 
+Kern der Ma&#223;nahmen ist ein Ende 2011 beschlossenes Legislativpaket (sog. 
+&#8222;Sechserpaket&#8220;), das aus f&#252;nf Verordnungen und einer Richtlinie1 besteht. 
+W&#228;hrend die Verordnungen sich prim&#228;r auf den Stabilit&#228;ts- und Wachstumspakt 
+(SWP) beziehen, soll die Richtlinie ein Mindestma&#223; an Qualit&#228;t der
+haushaltspolitischen Rahmen2 sicherstellen. Das Augenmerk der Europ&#228;ischen Kommission 
+(Kommission) richtet sich dabei verst&#228;rkt auf die von den Mitgliedstaaten f&#252;r 
+den &#246;ffentlichen Sektor zu meldenden Finanzdaten. Sie sind die Basis f&#252;r die 
+europ&#228;ischen Statistiken der Staatsfi nanzen, die gem&#228;&#223; dem Europ&#228;ischen 
+System Volkswirtschaftlicher Gesamtrechnungen (ESVG)3 erstellt werden. 
+Das ESVG basiert auf dem Prinzip der Periodenabgrenzung. Die Finanzdaten der 
+Mitgliedstaaten stammen dabei grunds&#228;tzlich aus dem &#246;ffentlichen
+Rechnungswesen. Werden Daten ben&#246;tigt, die darin nicht enthalten sind, k&#246;nnen sie aus 
+anderen Quellen abgeleitet werden. Liegen lediglich Daten auf Kassenbasis vor, 
+so sind diese in periodengerechte Daten &#252;berzuleiten.
+Der SWP verpfl ichtet die Mitgliedstaaten zur Einhaltung der Haushaltsdisziplin. 
+Danach sollen sie &#252;berm&#228;&#223;ige &#246;ffentliche Defi zite vermeiden. Die Kommission 
+&#252;berwacht die nationalen Haushalte (Haushalts&#252;berwachung) und nutzt hierf&#252;r 
+die Daten des ESVG. Dabei bewertet sie regelm&#228;&#223;ig auch die Qualit&#228;t der von 
+den Mitgliedstaaten gemeldeten Daten. 
+Anfang 2010 wies die Kommission auf eine unangemessene
+Finanzberichterstattung Griechenlands hin.4 Sie erkl&#228;rte, dass unzureichende Daten aus den
+Mitgliedstaaten die Gesamtqualit&#228;t der europ&#228;ischen Statistiken der Staatsfi nanzen 
+beeintr&#228;chtigen k&#246;nnten und leitete eine Verbesserung des
+Qualit&#228;tsmanagements ein.5
+1 Richtlinie 2011/85/EU des Rates vom 8. November 2011.
+2  Der nationale haushaltspolitische Rahmen ist die Gesamtheit der Regelungen, Verfahren und 
+Institutionen, die die Grundlage f&#252;r die Durchf&#252;hrung der Haushaltspolitik des Staates bilden. 
+Hierzu z&#228;hlen insbesondere die Bereiche &#246;ffentliches Rechnungswesen, statistische 
+Berichterstattung sowie Haushaltsplanung, -ergebnis und -verfahren. 
+3  Das ESVG legt detailliert und rechtsverbindlich fest, wie die Mitgliedstaaten die Volkswirtschaftlichen 
+Gesamtrechnungen aufstellen m&#252;ssen.
+4 Vgl. Bericht der Kommission vom 8. Januar 2010, KOM(2010) 1 endg&#252;ltig.
+5 Vgl. Mitteilung der Kommission vom 15. April 2011, KOM(2011) 211 endg&#252;ltig.
+2 Ausgangslage
+Ziel der Richtlinie ist es, die einheitliche Einhaltung der Haushaltsdisziplin
+sicherzustellen. Die Richtlinie sieht hierzu vor, dass jeder Mitgliedstaat &#252;ber ein
+nationales System des &#246;ffentlichen Rechnungswesens6 verf&#252;gen soll, das s&#228;mtliche 
+Teilsektoren7 des Staates umfassend und koh&#228;rent abdeckt. Das
+Rechnungswesen soll zudem die f&#252;r die Vorbereitung von Daten nach dem ESVG-Standard 
+erforderlichen Informationen liefern. 
+Daneben sieht die Richtlinie vor, dass die Kommission pr&#252;fen soll, ob die
+internationalen Rechnungsf&#252;hrungsgrunds&#228;tze f&#252;r den &#246;ffentlichen Sektor
+(International Public Sector Accounting Standards &#8211; IPSAS) f&#252;r die Mitgliedstaaten geeignet 
+sind. Die IPSAS basieren auf der doppelten Buchf&#252;hrung mit Periodenabgrenzung 
+(Doppik). Die Richtlinie verpfl ichtet die Mitgliedstaaten jedoch nicht, ihr
+&#246;ffentliches Rechnungswesen auf die Doppik umzustellen oder die IPSAS anzuwenden.
+In ihrem Abschlussbericht zu dem Pr&#252;fauftrag stellt die Kommission fest, dass 
+sich die IPSAS in ihrer derzeitigen Form zwar nicht unmittelbar f&#252;r eine
+Einf&#252;hrung in den Mitgliedstaaten eignen. Allerdings k&#246;nnten sie einen Bezugsrahmen 
+f&#252;r noch zu entwickelnde europ&#228;ische Rechnungsf&#252;hrungsgrunds&#228;tze f&#252;r den 
+&#246;ffentlichen Sektor (EPSAS) darstellen.8 
+Vor diesem Hintergrund strebt die Kommission die verbindliche Einf&#252;hrung von 
+EPSAS f&#252;r alle staatlichen Ebenen in den Mitgliedstaaten an.9 Mit der Umsetzung 
+hat sie das statistische Amt der Europ&#228;ischen Union (Eurostat)10 beauftragt.
+Der Deutsche Bundestag (Bundestag) und der Bundesrat stehen dem Vorhaben 
+kritisch gegen&#252;ber.11 Der Bundestag hat zuletzt im Jahr 2015 erkl&#228;rt, dass
+ &#61607; er das Anliegen der Kommission &#8222;f&#252;r realistisch nicht erreichbar&#8220; und
+angesichts der unterschiedlichen Verwaltungsstrukturen in den Mitgliedstaaten 
+auch f&#252;r &#8222;kaum umsetzbar&#8220; halte,
+ &#61607; er Zweifel daran habe, ob Nutzen und Kosten von EPSAS in einem
+verantwortbaren Verh&#228;ltnis zueinander st&#252;nden und 
+ &#61607; Parallelsysteme angesichts knapper fi nanzieller und personeller Ressourcen 
+vermieden werden m&#252;ssten.
+6  Im Sinne einer lesbaren Darstellung wird in diesem Bericht nachfolgend nur noch der Begriff 
+&#246;ffent liches Rechnungswesen verwendet.
+7  Der Sektor Staat gliedert sich in die vier Teilsektoren Bund (Zentralstaat), L&#228;nder, Gemeinden 
+und Sozialversicherungen.
+8 Vgl. Bericht der Kommission vom 6. M&#228;rz 2013, KOM(2013) 114 endg&#252;ltig.
+9 Die wesentlichen Meilensteine des EPSAS-Prozesses sind in Anlage 1 abgebildet.
+10  Eurostat ist eine Generaldirektion der Kommission. Die Begriffe Eurostat und Kommission werden 
+in diesem Bericht im Sinne einer lesbaren Darstellung synonym verwendet.
+11  Vgl. Bundestagsdrucksache 17/14148 vom 26. Juni 2013, Bundesratsdrucksache 811/13 vom 
+14. Februar 2014 und Bundestagsdrucksache 18/4182 vom 3. M&#228;rz 2015.
+Drucksache 19/60 Deutscher Bundestag &#8211; 19. Wahlperiode&#8211; 4 &#8211;
+1 Vorbemerkungen
+Als eine Konsequenz aus der Staatsschuldenkrise wurden die
+haushaltspolitischen Anforderungen der Europ&#228;ischen Union an die Mitgliedstaaten erh&#246;ht. 
+Kern der Ma&#223;nahmen ist ein Ende 2011 beschlossenes Legislativpaket (sog. 
+&#8222;Sechserpaket&#8220;), das aus f&#252;nf Verordnungen und einer Richtlinie1 besteht. 
+W&#228;hrend die Verordnungen sich prim&#228;r auf den Stabilit&#228;ts- und Wachstumspakt 
+(SWP) beziehen, soll die Richtlinie ein Mindestma&#223; an Qualit&#228;t der
+haushaltspolitischen Rahmen2 sicherstellen. Das Augenmerk der Europ&#228;ischen Kommission 
+(Kommission) richtet sich dabei verst&#228;rkt auf die von den Mitgliedstaaten f&#252;r 
+den &#246;ffentlichen Sektor zu meldenden Finanzdaten. Sie sind die Basis f&#252;r die 
+europ&#228;ischen Statistiken der Staatsfi nanzen, die gem&#228;&#223; dem Europ&#228;ischen 
+System Volkswirtschaftlicher Gesamtrechnungen (ESVG)3 erstellt werden. 
+Das ESVG basiert auf dem Prinzip der Periodenabgrenzung. Die Finanzdaten der 
+Mitgliedstaaten stammen dabei grunds&#228;tzlich aus dem &#246;ffentlichen
+Rechnungswesen. Werden Daten ben&#246;tigt, die darin nicht enthalten sind, k&#246;nnen sie aus 
+anderen Quellen abgeleitet werden. Liegen lediglich Daten auf Kassenbasis vor, 
+so sind diese in periodengerechte Daten &#252;berzuleiten.
+Der SWP verpfl ichtet die Mitgliedstaaten zur Einhaltung der Haushaltsdisziplin. 
+Danach sollen sie &#252;berm&#228;&#223;ige &#246;ffentliche Defi zite vermeiden. Die Kommission 
+&#252;berwacht die nationalen Haushalte (Haushalts&#252;berwachung) und nutzt hierf&#252;r 
+die Daten des ESVG. Dabei bewertet sie regelm&#228;&#223;ig auch die Qualit&#228;t der von 
+den Mitgliedstaaten gemeldeten Daten. 
+Anfang 2010 wies die Kommission auf eine unangemessene
+Finanzberichterstattung Griechenlands hin.4 Sie erkl&#228;rte, dass unzureichende Daten aus den
+Mitgliedstaaten die Gesamtqualit&#228;t der europ&#228;ischen Statistiken der Staatsfi nanzen 
+beeintr&#228;chtigen k&#246;nnten und leitete eine Verbesserung des
+Qualit&#228;tsmanagements ein.5
+1 Richtlinie 2011/85/EU des Rates vom 8. November 2011.
+2  Der nationale haushaltspolitische Rahmen ist die Gesamtheit der Regelungen, Verfahren und 
+Institutionen, die die Grundlage f&#252;r die Durchf&#252;hrung der Haushaltspolitik des Staates bilden. 
+Hierzu z&#228;hlen insbesondere die Bereiche &#246;ffentliches Rechnungswesen, statistische 
+Berichterstattung sowie Haushaltsplanung, -ergebnis und -verfahren. 
+3  Das ESVG legt detailliert und rechtsverbindlich fest, wie die Mitgliedstaaten die Volkswirtschaftlichen 
+Gesamtrechnungen aufstellen m&#252;ssen.
+4 Vgl. Bericht der Kommission vom 8. Januar 2010, KOM(2010) 1 endg&#252;ltig.
+5 Vgl. Mitteilung der Kommission vom 15. April 2011, KOM(2011) 211 endg&#252;ltig.
+2 Ausgangslage
+Ziel der Richtlinie ist es, die einheitliche Einhaltung der Haushaltsdisziplin
+sicherzustellen. Die Richtlinie sieht hierzu vor, dass jeder Mitgliedstaat &#252;ber ein
+nationales System des &#246;ffentlichen Rechnungswesens6 verf&#252;gen soll, das s&#228;mtliche 
+Teilsektoren7 des Staates umfassend und koh&#228;rent abdeckt. Das
+Rechnungswesen soll zudem die f&#252;r die Vorbereitung von Daten nach dem ESVG-Standard 
+erforderlichen Informationen liefern. 
+Daneben sieht die Richtlinie vor, dass die Kommission pr&#252;fen soll, ob die
+internationalen Rechnungsf&#252;hrungsgrunds&#228;tze f&#252;r den &#246;ffentlichen Sektor
+(International Public Sector Accounting Standards &#8211; IPSAS) f&#252;r die Mitgliedstaaten geeignet 
+sind. Die IPSAS basieren auf der doppelten Buchf&#252;hrung mit Periodenabgrenzung 
+(Doppik). Die Richtlinie verpfl ichtet die Mitgliedstaaten jedoch nicht, ihr
+&#246;ffentliches Rechnungswesen auf die Doppik umzustellen oder die IPSAS anzuwenden.
+In ihrem Abschlussbericht zu dem Pr&#252;fauftrag stellt die Kommission fest, dass 
+sich die IPSAS in ihrer derzeitigen Form zwar nicht unmittelbar f&#252;r eine
+Einf&#252;hrung in den Mitgliedstaaten eignen. Allerdings k&#246;nnten sie einen Bezugsrahmen 
+f&#252;r noch zu entwickelnde europ&#228;ische Rechnungsf&#252;hrungsgrunds&#228;tze f&#252;r den 
+&#246;ffentlichen Sektor (EPSAS) darstellen.8 
+Vor diesem Hintergrund strebt die Kommission die verbindliche Einf&#252;hrung von 
+EPSAS f&#252;r alle staatlichen Ebenen in den Mitgliedstaaten an.9 Mit der Umsetzung 
+hat sie das statistische Amt der Europ&#228;ischen Union (Eurostat)10 beauftragt.
+Der Deutsche Bundestag (Bundestag) und der Bundesrat stehen dem Vorhaben 
+kritisch gegen&#252;ber.11 Der Bundestag hat zuletzt im Jahr 2015 erkl&#228;rt, dass
+ &#61607; er das Anliegen der Kommission &#8222;f&#252;r realistisch nicht erreichbar&#8220; und
+angesichts der unterschiedlichen Verwaltungsstrukturen in den Mitgliedstaaten 
+auch f&#252;r &#8222;kaum umsetzbar&#8220; halte,
+ &#61607; er Zweifel daran habe, ob Nutzen und Kosten von EPSAS in einem
+verantwortbaren Verh&#228;ltnis zueinander st&#252;nden und 
+ &#61607; Parallelsysteme angesichts knapper fi nanzieller und personeller Ressourcen 
+vermieden werden m&#252;ssten.
+6  Im Sinne einer lesbaren Darstellung wird in diesem Bericht nachfolgend nur noch der Begriff 
+&#246;ffent liches Rechnungswesen verwendet.
+7  Der Sektor Staat gliedert sich in die vier Teilsektoren Bund (Zentralstaat), L&#228;nder, Gemeinden 
+und Sozialversicherungen.
+8 Vgl. Bericht der Kommission vom 6. M&#228;rz 2013, KOM(2013) 114 endg&#252;ltig.
+9 Die wesentlichen Meilensteine des EPSAS-Prozesses sind in Anlage 1 abgebildet.
+10  Eurostat ist eine Generaldirektion der Kommission. Die Begriffe Eurostat und Kommission werden 
+in diesem Bericht im Sinne einer lesbaren Darstellung synonym verwendet.
+11  Vgl. Bundestagsdrucksache 17/14148 vom 26. Juni 2013, Bundesratsdrucksache 811/13 vom 
+14. Februar 2014 und Bundestagsdrucksache 18/4182 vom 3. M&#228;rz 2015.
+Er hat die Bundesregierung aufgefordert,
+ &#61607; daf&#252;r Sorge zu tragen, dass die in Deutschland bestehende
+Entscheidungsfreiheit zwischen doppischen und kameralen Systemen erhalten bleibt und 
+EPSAS allenfalls auf freiwilliger Basis eingef&#252;hrt werden,
+ &#61607; die demokratische Legitimation der EPSAS sicherzustellen, indem sie zentral 
+von den Stellen entwickelt werden, die in den Mitgliedstaaten f&#252;r die Setzung 
+der nationalen Standards f&#252;r die &#246;ffentliche Rechnungslegung verantwortlich 
+sind und
+ &#61607; durch aktive Mitgestaltung darauf hinzuwirken, dass die in Deutschland 
+relevanten Bilanzierungsgrunds&#228;tze12 ber&#252;cksichtigt werden. Wahlrechte 
+und Ermessensspielr&#228;ume m&#252;ssten weitgehend ausgeschlossen werden.
+Das Bundesministerium der Finanzen (BMF) nimmt diese Aufgabe f&#252;r die 
+Bundesregierung wahr. Es informiert den Haushaltsausschuss des Deutschen 
+Bundestages regelm&#228;&#223;ig &#252;ber den Sachstand zur Einf&#252;hrung von EPSAS, zuletzt 
+mit einem Bericht vom 1. Juni 2017. Darin erkl&#228;rte es, dass Eurostat nicht bereit 
+sei, den zentralen deutschen Forderungen hinsichtlich der
+Bilanzierungsgrunds&#228;tze zu folgen. Eurostat begr&#252;nde dies auch damit, dass Deutschland die
+Einf&#252;hrung von EPSAS grunds&#228;tzlich ablehne und dem Gesetzentwurf ohnehin nicht 
+zustimmen werde. Das BMF wies darauf hin, dass es damit die Forderungen des 
+Bundestages &#8211; wenn &#252;berhaupt &#8211; nur in einzelnen Punkten werde durchsetzen 
+k&#246;nnen.
+Der Bundesrechnungshof hat dies zum Anlass genommen, das Parlament, die 
+Bundesregierung und die &#214;ffentlichkeit mit diesem Bericht &#252;ber die sich
+abzeichnenden Risiken der angestrebten Einf&#252;hrung von EPSAS zu informieren.
+3 Ziele von EPSAS 
+Mit der Einf&#252;hrung von EPSAS will die Kommission13 
+ &#61607; das Vertrauen in die Stabilit&#228;t der Wirtschafts- und W&#228;hrungsunion st&#228;rken,
+ &#61607; eine verbesserte Haushalts&#252;berwachung auf EU-Ebene zur Vermeidung 
+k&#252;nftiger Staatsschuldenkrisen erm&#246;glichen, 
+ &#61607; vollst&#228;ndige und zuverl&#228;ssige periodengerechte Daten erhalten und so die 
+Gesamtqualit&#228;t der europ&#228;ischen Statistiken der Staatsfi nanzen verbessern, 
+ &#61607; die Rechnungslegung der Mitgliedstaaten vereinheitlichen und dadurch 
+Rechenschaft, Transparenz und Vergleichbarkeit erh&#246;hen, 
+ &#61607; manipulative Eingriffe (&#8222;Sch&#246;nf&#228;rbereien&#8220;) verhindern,
+ &#61607; verl&#228;sslichere Informationen f&#252;r politische Entscheidungen erhalten sowie 
+ &#61607; &#252;ber die Darstellung des Ressourcenverbrauchs die Effektivit&#228;t und Effi zienz 
+der Verwaltung erh&#246;hen und das Streben nach Generationengerechtigkeit 
+erm&#246;glichen.
+12 Rechenschaft, Objektivierung, Ordnungsm&#228;&#223;igkeit und Kontrolle.
+13  Vgl. hierzu insbesondere: Richtlinie 2011/85/EU des Rates vom 8. November 2011 und Bericht der 
+Kommission vom 6. M&#228;rz 2013, KOM(2013) 114 endg&#252;ltig.
+Inzwischen hat die Kommission erkl&#228;rt, dass sie zun&#228;chst die Transparenz
+verbessern m&#246;chte und hierzu die Umstellung auf doppische Systeme in den
+Mitgliedstaaten unterst&#252;tzt. In einem zweiten Schritt will sie &#252;ber die Einf&#252;hrung 
+von EPSAS die Vergleichbarkeit der Daten erreichen.
+4 Prozess der Einf&#252;hrung von EPSAS
+4.1  Rechtsgrundlage f&#252;r die Einf&#252;hrung 
+von EPSAS
+Nach dem Prinzip der begrenzten Einzelerm&#228;chtigung (Artikel 5 Absatz 1 
+Satz 1 und Absatz 2 des Vertrags &#252;ber die Europ&#228;ische Union &#8211; EUV) kann die 
+Europ&#228;ische Union nur innerhalb der Grenzen ihrer Zust&#228;ndigkeiten t&#228;tig werden. 
+Eine Gesetzesinitiative muss sie auf eine konkrete Rechtsgrundlage st&#252;tzen. 
+Diese richtet sich dabei nach den inhaltlichen Schwerpunkten des geplanten 
+Rechtsaktes. 
+Bislang hat sich die Kommission weder zur Rechtsgrundlage noch zum Verfahren 
+f&#252;r die Einf&#252;hrung von EPSAS abschlie&#223;end ge&#228;u&#223;ert. Zwei Rechtsgutachten14 
+aus Deutschland sehen hohe H&#252;rden f&#252;r ein T&#228;tigwerden der Kommission oder 
+allenfalls eine eingeschr&#228;nkte Regelungsbefugnis.
+Die Kommission will die EPSAS als f&#252;r die Mitgliedstaaten verbindliche Standards 
+einf&#252;hren. Daher k&#228;me als eine Handlungsform die Verordnung in einem
+ordentlichen Gesetzgebungsverfahren in Betracht. Dabei legt die Kommission einen Vor -
+schlag f&#252;r einen Rechtsakt vor, &#252;ber den das Europ&#228;ische Parlament und der Rat 
+entscheiden. Die Abstimmung im Rat erfolgt mit qualifi zierter Mehrheit (Artikel 
+16 Absatz 4 EUV). Allein kann Deutschland einen solchen Rechtsakt daher nicht 
+verhindern. Es m&#252;sste mit anderen Mitgliedstaaten eine Sperrminorit&#228;t bilden. 
+4.2  Ausgangssituation in der Europ&#228;ischen Union
+Die meisten Mitgliedstaaten haben die Doppik auf den verschiedenen staatlichen 
+Ebenen bereits eingef&#252;hrt oder sind dabei, dies zu tun.15 Sie orientieren sich 
+&#252;berwiegend an den IPSAS. Lediglich Deutschland, Irland, die Niederlande und 
+Zypern legen auf zentralstaatlicher Ebene noch kameral Rechnung.16 
+14  Gr&#246;pl, Christoph: Auf der Suche nach einer Unionskompetenz zur Einf&#252;hrung von EPSAS in das 
+Haushaltsrecht der Mitgliedstaaten; in: Entwicklung der &#246;ffentlichen Rechnungslegung in Europa, 
+Kommunal- und Schulverlag, Wiesbaden, 2014 sowie Ohler, Christoph: Die europarechtliche 
+Zul&#228;ssigkeit der Einf&#252;hrung von EPSAS, Sachverst&#228;ndigengutachten vom 2. April 2014 im Auftrag 
+von Bertelsmann Stiftung, Deutscher Landkreistag, Deutscher St&#228;dtetag, Deutscher St&#228;dte- und 
+Gemeindebund. 
+15  Vgl. Ernst &amp; Young: Overview and comparison of public accounting and auditing practices in the 
+27 EU Member States vom 19. Dezember 2012.
+16 Malta, Portugal und Zypern haben Reformprojekte zu doppischen Systemen angesto&#223;en.
+Drucksache 19/60 Deutscher Bundestag &#8211; 19. Wahlperiode&#8211; 6 &#8211;
+Er hat die Bundesregierung aufgefordert,
+ &#61607; daf&#252;r Sorge zu tragen, dass die in Deutschland bestehende
+Entscheidungsfreiheit zwischen doppischen und kameralen Systemen erhalten bleibt und 
+EPSAS allenfalls auf freiwilliger Basis eingef&#252;hrt werden,
+ &#61607; die demokratische Legitimation der EPSAS sicherzustellen, indem sie zentral 
+von den Stellen entwickelt werden, die in den Mitgliedstaaten f&#252;r die Setzung 
+der nationalen Standards f&#252;r die &#246;ffentliche Rechnungslegung verantwortlich 
+sind und
+ &#61607; durch aktive Mitgestaltung darauf hinzuwirken, dass die in Deutschland 
+relevanten Bilanzierungsgrunds&#228;tze12 ber&#252;cksichtigt werden. Wahlrechte 
+und Ermessensspielr&#228;ume m&#252;ssten weitgehend ausgeschlossen werden.
+Das Bundesministerium der Finanzen (BMF) nimmt diese Aufgabe f&#252;r die 
+Bundesregierung wahr. Es informiert den Haushaltsausschuss des Deutschen 
+Bundestages regelm&#228;&#223;ig &#252;ber den Sachstand zur Einf&#252;hrung von EPSAS, zuletzt 
+mit einem Bericht vom 1. Juni 2017. Darin erkl&#228;rte es, dass Eurostat nicht bereit 
+sei, den zentralen deutschen Forderungen hinsichtlich der
+Bilanzierungsgrunds&#228;tze zu folgen. Eurostat begr&#252;nde dies auch damit, dass Deutschland die
+Einf&#252;hrung von EPSAS grunds&#228;tzlich ablehne und dem Gesetzentwurf ohnehin nicht 
+zustimmen werde. Das BMF wies darauf hin, dass es damit die Forderungen des 
+Bundestages &#8211; wenn &#252;berhaupt &#8211; nur in einzelnen Punkten werde durchsetzen 
+k&#246;nnen.
+Der Bundesrechnungshof hat dies zum Anlass genommen, das Parlament, die 
+Bundesregierung und die &#214;ffentlichkeit mit diesem Bericht &#252;ber die sich
+abzeichnenden Risiken der angestrebten Einf&#252;hrung von EPSAS zu informieren.
+3 Ziele von EPSAS 
+Mit der Einf&#252;hrung von EPSAS will die Kommission13 
+ &#61607; das Vertrauen in die Stabilit&#228;t der Wirtschafts- und W&#228;hrungsunion st&#228;rken,
+ &#61607; eine verbesserte Haushalts&#252;berwachung auf EU-Ebene zur Vermeidung 
+k&#252;nftiger Staatsschuldenkrisen erm&#246;glichen, 
+ &#61607; vollst&#228;ndige und zuverl&#228;ssige periodengerechte Daten erhalten und so die 
+Gesamtqualit&#228;t der europ&#228;ischen Statistiken der Staatsfi nanzen verbessern, 
+ &#61607; die Rechnungslegung der Mitgliedstaaten vereinheitlichen und dadurch 
+Rechenschaft, Transparenz und Vergleichbarkeit erh&#246;hen, 
+ &#61607; manipulative Eingriffe (&#8222;Sch&#246;nf&#228;rbereien&#8220;) verhindern,
+ &#61607; verl&#228;sslichere Informationen f&#252;r politische Entscheidungen erhalten sowie 
+ &#61607; &#252;ber die Darstellung des Ressourcenverbrauchs die Effektivit&#228;t und Effi zienz 
+der Verwaltung erh&#246;hen und das Streben nach Generationengerechtigkeit 
+erm&#246;glichen.
+12 Rechenschaft, Objektivierung, Ordnungsm&#228;&#223;igkeit und Kontrolle.
+13  Vgl. hierzu insbesondere: Richtlinie 2011/85/EU des Rates vom 8. November 2011 und Bericht der 
+Kommission vom 6. M&#228;rz 2013, KOM(2013) 114 endg&#252;ltig.
+Inzwischen hat die Kommission erkl&#228;rt, dass sie zun&#228;chst die Transparenz
+verbessern m&#246;chte und hierzu die Umstellung auf doppische Systeme in den
+Mitgliedstaaten unterst&#252;tzt. In einem zweiten Schritt will sie &#252;ber die Einf&#252;hrung 
+von EPSAS die Vergleichbarkeit der Daten erreichen.
+4 Prozess der Einf&#252;hrung von EPSAS
+4.1  Rechtsgrundlage f&#252;r die Einf&#252;hrung 
+von EPSAS
+Nach dem Prinzip der begrenzten Einzelerm&#228;chtigung (Artikel 5 Absatz 1 
+Satz 1 und Absatz 2 des Vertrags &#252;ber die Europ&#228;ische Union &#8211; EUV) kann die 
+Europ&#228;ische Union nur innerhalb der Grenzen ihrer Zust&#228;ndigkeiten t&#228;tig werden. 
+Eine Gesetzesinitiative muss sie auf eine konkrete Rechtsgrundlage st&#252;tzen. 
+Diese richtet sich dabei nach den inhaltlichen Schwerpunkten des geplanten 
+Rechtsaktes. 
+Bislang hat sich die Kommission weder zur Rechtsgrundlage noch zum Verfahren 
+f&#252;r die Einf&#252;hrung von EPSAS abschlie&#223;end ge&#228;u&#223;ert. Zwei Rechtsgutachten14 
+aus Deutschland sehen hohe H&#252;rden f&#252;r ein T&#228;tigwerden der Kommission oder 
+allenfalls eine eingeschr&#228;nkte Regelungsbefugnis.
+Die Kommission will die EPSAS als f&#252;r die Mitgliedstaaten verbindliche Standards 
+einf&#252;hren. Daher k&#228;me als eine Handlungsform die Verordnung in einem
+ordentlichen Gesetzgebungsverfahren in Betracht. Dabei legt die Kommission einen Vor -
+schlag f&#252;r einen Rechtsakt vor, &#252;ber den das Europ&#228;ische Parlament und der Rat 
+entscheiden. Die Abstimmung im Rat erfolgt mit qualifi zierter Mehrheit (Artikel 
+16 Absatz 4 EUV). Allein kann Deutschland einen solchen Rechtsakt daher nicht 
+verhindern. Es m&#252;sste mit anderen Mitgliedstaaten eine Sperrminorit&#228;t bilden. 
+4.2  Ausgangssituation in der Europ&#228;ischen Union
+Die meisten Mitgliedstaaten haben die Doppik auf den verschiedenen staatlichen 
+Ebenen bereits eingef&#252;hrt oder sind dabei, dies zu tun.15 Sie orientieren sich 
+&#252;berwiegend an den IPSAS. Lediglich Deutschland, Irland, die Niederlande und 
+Zypern legen auf zentralstaatlicher Ebene noch kameral Rechnung.16 
+14  Gr&#246;pl, Christoph: Auf der Suche nach einer Unionskompetenz zur Einf&#252;hrung von EPSAS in das 
+Haushaltsrecht der Mitgliedstaaten; in: Entwicklung der &#246;ffentlichen Rechnungslegung in Europa, 
+Kommunal- und Schulverlag, Wiesbaden, 2014 sowie Ohler, Christoph: Die europarechtliche 
+Zul&#228;ssigkeit der Einf&#252;hrung von EPSAS, Sachverst&#228;ndigengutachten vom 2. April 2014 im Auftrag 
+von Bertelsmann Stiftung, Deutscher Landkreistag, Deutscher St&#228;dtetag, Deutscher St&#228;dte- und 
+Gemeindebund. 
+15  Vgl. Ernst &amp; Young: Overview and comparison of public accounting and auditing practices in the 
+27 EU Member States vom 19. Dezember 2012.
+16 Malta, Portugal und Zypern haben Reformprojekte zu doppischen Systemen angesto&#223;en.
+Eurostat hat erkl&#228;rt, dass die Einf&#252;hrung von EPSAS die nationale
+Haushaltsplanung, -f&#252;hrung und -rechnung nicht ber&#252;hre. Mitgliedstaaten mit kameralen 
+Systemen k&#246;nnten diese neben den doppischen Systemen weiter betreiben. 
+4.3  Zeitplan f&#252;r die Entwicklung und 
+Einf&#252;hrung von EPSAS
+Eurostat hat einen Zeitplan17 f&#252;r die Entwicklung und Einf&#252;hrung von EPSAS 
+vorgestellt. Dieser ist &#8211; beginnend ab dem Jahr 2015 &#8211; auf zehn Jahre angelegt 
+und umfasst zwei Stufen. In der ersten Stufe sollen eine Rahmenverordnung
+verabschiedet sowie das EPSAS-Rahmenwerk und die Standards erarbeitet werden. 
+Dies soll f&#252;nf Jahre dauern, also bis zum Jahr 2020. Die Kommission ermutigt die 
+Mitgliedstaaten, in dieser Zeit schon die Doppik einzuf&#252;hren und unterst&#252;tzt dies 
+auch fi nanziell.18 In der zweiten Stufe sollen die EPSAS f&#252;r alle &#246;ffentlichen
+Einheiten in den Mitgliedstaaten verbindlich eingef&#252;hrt werden. Hierf&#252;r sind weitere 
+f&#252;nf Jahre vorgesehen, also bis zum Jahr 2025.
+Ende 2015 empfahl Eurostat den Mitgliedstaaten, in den kommenden Jahren bis 
+zur Fertigstellung der EPSAS zun&#228;chst auf freiwilliger Basis die IPSAS
+einzuf&#252;hren. Die Kommission stellte insgesamt 140 Mio. Euro f&#252;r Strukturreformen bereit. 
+Aus diesen EU-Mitteln k&#246;nnen die Mitgliedstaaten auch Reformprojekte im
+Zusammenhang mit EPSAS anteilig mitfi nanzieren.
+4.4 Entwicklung von EPSAS
+Ab dem Jahr 2013 richtete die Kommission verschiedene Gremien und Foren ein, 
+um darin Grundlagenarbeit zu leisten und die Einf&#252;hrung von EPSAS
+vorzubereiten. Im September 2015 setzte sie eine Arbeitsgruppe19 ein, die sich dauerhaft 
+mit der Entwicklung, Einf&#252;hrung und Umsetzung von EPSAS befassen soll.20 Die 
+Arbeitsgruppe soll die Kommission unterst&#252;tzen und mit Informationen
+versorgen. In der Arbeitsgruppe werden keine Beschl&#252;sse gefasst. 
+Eurostat sitzt der Arbeitsgruppe vor. Mitglieder sind Vertreter der Mitgliedstaaten. 
+An den Sitzungen nehmen dar&#252;ber hinaus Wirtschafts- und Interessenvertreter 
+teil, u. a. der europ&#228;ische Wirtschaftspr&#252;ferverband21 und das Gremium, das f&#252;r 
+die Erarbeitung der IPSAS verantwortlich ist (IPSAS-Board22). Obwohl diese 
+17 Siehe Anlage 2.
+18 Vgl. Eurostat: EPSAS Priorities 2015-2016, EPSAS WG 15/03 vom 4. September 2015.
+19 Working Group EPSAS.
+20 Daneben gibt es weitere Unterarbeitsgruppen (sog. Cells) zu verschiedenen Themen.
+21  Accountancy Europe. Bis zum Jahr 2016 f&#252;hrte der Verband die Bezeichnung F&#233;d&#233;ration des 
+Experts Comptables Europ&#233;ens (FEE).
+22  Das IPSAS-Board ist ein privatrechtliches, demokratisch nicht legitimiertes Gremium. 
+Die Mitglieder sind in der Regel Wirtschaftspr&#252;ferinnen und -pr&#252;fer und werden von einer 
+internationalen berufsst&#228;ndischen Vereinigung ernannt (siehe auch Ziffer 6.1).
+formal nur Beobachterstatus haben, werden sie &#8211; so das BMF &#8211; wie Mitglieder 
+behandelt und nehmen eine dominante Rolle in den Sitzungen der Arbeitsgruppe 
+und bei deren Vorbereitung ein. 
+Eurostat hat die Wirtschaftspr&#252;fungsgesellschaften Ernst &amp; Young (E&amp;Y) und 
+PricewaterhouseCoopers (PwC) beauftragt, die Arbeitsgruppe zu beraten und 
+hierf&#252;r jeweils zehn Themenpapiere zu ausgew&#228;hlten Fragen des &#246;ffentlichen 
+Rechnungswesens zu erstellen. Die Themenpapiere sollen die Diskussionen in der 
+Arbeitsgruppe ansto&#223;en und ordnen. Auf dieser Grundlage geben die Berater
+zudem regelm&#228;&#223;ig Empfehlungen f&#252;r die Formulierung der Standards und
+strukturieren die weitere Diskussion. Eurostat hat darauf hingewiesen, dass die
+Themenpapiere nicht zwingend eine abgestimmte Position wiedergeben.23 Ob und 
+inwieweit Eurostat abweichende Meinungen, kritische Hinweise oder Bedenken 
+der Mitglieder der Arbeitsgruppe zu den Themenpapieren im weiteren Verfahren 
+ber&#252;cksichtigt, ist nicht bekannt.
+Das BMF nimmt an den Sitzungen der Arbeitsgruppe teil. Dabei vertritt es die 
+Interessen Deutschlands auf der Basis eines zwischen Bund und L&#228;ndern
+abgestimmten Grundsatzpapiers. Das Papier stellt die Notwendigkeit, das Nutzen-
+Kosten-Verh&#228;ltnis und die Verh&#228;ltnism&#228;&#223;igkeit des Projekts sowie die
+Rechtsgrundlage f&#252;r ein T&#228;tigwerden der Kommission in Frage. Das BMF versteht seine 
+Teilnahme an den Sitzungen als kritische Begleitung des Prozesses, ohne dass 
+dadurch eine Entscheidung f&#252;r oder gegen das Projekt pr&#228;judiziert werde. Daher 
+formuliert es &#8211; in Abstimmung mit den L&#228;ndern &#8211; auch Anforderungen an die
+inhaltliche Ausgestaltung der EPSAS f&#252;r den Fall, dass diese tats&#228;chlich eingef&#252;hrt 
+werden. Das BMF legt hierbei eigenen Angaben zufolge einen Schwerpunkt auf 
+die Vertretung der Interessen der doppisch Rechnung legenden L&#228;nder Hamburg 
+und Hessen.
+4.5 Handlungsalternativen
+Bislang hat die Kommission nicht dargelegt, ob gegen&#252;ber der verbindlichen
+Einf&#252;hrung von EPSAS Handlungsalternativen bestehen, mit denen die Europ&#228;ische 
+Union den Schwachstellen oder M&#228;ngeln mit milderen Mitteln begegnen k&#246;nnte. 
+Zudem hat sie nicht nachgewiesen, dass Transparenz und Vergleichbarkeit der 
+Finanzdaten nicht auch im bestehenden System erh&#246;ht werden k&#246;nnen, z. B. 
+durch die bereits eingeleitete Verbesserung des Qualit&#228;tsmanagements. Die 
+Kommission hat auch nicht konkret dargelegt, wie eine Harmonisierung die von 
+ihr angesprochenen Datenqualit&#228;tsprobleme l&#246;sen kann. Einsch&#228;tzungen, ob die 
+EPSAS einen wesentlich verbesserten Schutz gegen manipulative Eingriffe bieten, 
+gibt es derzeit nicht. Aussagen, inwieweit das voraussichtlich komplexe
+Regelwerk in der Anwendung fehleranf&#228;llig ist, hat die Kommission bislang nicht
+getroffen. Sie hat auch noch nicht dargelegt, ob der vorliegende L&#246;sungsansatz 
+den Problemen angemessen begegnet oder dar&#252;ber hinausgeht. Zudem hat die
+23 Vgl. Eurostat: EPSAS Priorities 2015&#8211;2016, EPSAS WG 15/03 vom 4. September 2015.
+Drucksache 19/60 Deutscher Bundestag &#8211; 19. Wahlperiode&#8211; 8 &#8211;
+Eurostat hat erkl&#228;rt, dass die Einf&#252;hrung von EPSAS die nationale
+Haushaltsplanung, -f&#252;hrung und -rechnung nicht ber&#252;hre. Mitgliedstaaten mit kameralen 
+Systemen k&#246;nnten diese neben den doppischen Systemen weiter betreiben. 
+4.3  Zeitplan f&#252;r die Entwicklung und 
+Einf&#252;hrung von EPSAS
+Eurostat hat einen Zeitplan17 f&#252;r die Entwicklung und Einf&#252;hrung von EPSAS 
+vorgestellt. Dieser ist &#8211; beginnend ab dem Jahr 2015 &#8211; auf zehn Jahre angelegt 
+und umfasst zwei Stufen. In der ersten Stufe sollen eine Rahmenverordnung
+verabschiedet sowie das EPSAS-Rahmenwerk und die Standards erarbeitet werden. 
+Dies soll f&#252;nf Jahre dauern, also bis zum Jahr 2020. Die Kommission ermutigt die 
+Mitgliedstaaten, in dieser Zeit schon die Doppik einzuf&#252;hren und unterst&#252;tzt dies 
+auch fi nanziell.18 In der zweiten Stufe sollen die EPSAS f&#252;r alle &#246;ffentlichen
+Einheiten in den Mitgliedstaaten verbindlich eingef&#252;hrt werden. Hierf&#252;r sind weitere 
+f&#252;nf Jahre vorgesehen, also bis zum Jahr 2025.
+Ende 2015 empfahl Eurostat den Mitgliedstaaten, in den kommenden Jahren bis 
+zur Fertigstellung der EPSAS zun&#228;chst auf freiwilliger Basis die IPSAS
+einzuf&#252;hren. Die Kommission stellte insgesamt 140 Mio. Euro f&#252;r Strukturreformen bereit. 
+Aus diesen EU-Mitteln k&#246;nnen die Mitgliedstaaten auch Reformprojekte im
+Zusammenhang mit EPSAS anteilig mitfi nanzieren.
+4.4 Entwicklung von EPSAS
+Ab dem Jahr 2013 richtete die Kommission verschiedene Gremien und Foren ein, 
+um darin Grundlagenarbeit zu leisten und die Einf&#252;hrung von EPSAS
+vorzubereiten. Im September 2015 setzte sie eine Arbeitsgruppe19 ein, die sich dauerhaft 
+mit der Entwicklung, Einf&#252;hrung und Umsetzung von EPSAS befassen soll.20 Die 
+Arbeitsgruppe soll die Kommission unterst&#252;tzen und mit Informationen
+versorgen. In der Arbeitsgruppe werden keine Beschl&#252;sse gefasst. 
+Eurostat sitzt der Arbeitsgruppe vor. Mitglieder sind Vertreter der Mitgliedstaaten. 
+An den Sitzungen nehmen dar&#252;ber hinaus Wirtschafts- und Interessenvertreter 
+teil, u. a. der europ&#228;ische Wirtschaftspr&#252;ferverband21 und das Gremium, das f&#252;r 
+die Erarbeitung der IPSAS verantwortlich ist (IPSAS-Board22). Obwohl diese 
+17 Siehe Anlage 2.
+18 Vgl. Eurostat: EPSAS Priorities 2015-2016, EPSAS WG 15/03 vom 4. September 2015.
+19 Working Group EPSAS.
+20 Daneben gibt es weitere Unterarbeitsgruppen (sog. Cells) zu verschiedenen Themen.
+21  Accountancy Europe. Bis zum Jahr 2016 f&#252;hrte der Verband die Bezeichnung F&#233;d&#233;ration des 
+Experts Comptables Europ&#233;ens (FEE).
+22  Das IPSAS-Board ist ein privatrechtliches, demokratisch nicht legitimiertes Gremium. 
+Die Mitglieder sind in der Regel Wirtschaftspr&#252;ferinnen und -pr&#252;fer und werden von einer 
+internationalen berufsst&#228;ndischen Vereinigung ernannt (siehe auch Ziffer 6.1).
+formal nur Beobachterstatus haben, werden sie &#8211; so das BMF &#8211; wie Mitglieder 
+behandelt und nehmen eine dominante Rolle in den Sitzungen der Arbeitsgruppe 
+und bei deren Vorbereitung ein. 
+Eurostat hat die Wirtschaftspr&#252;fungsgesellschaften Ernst &amp; Young (E&amp;Y) und 
+PricewaterhouseCoopers (PwC) beauftragt, die Arbeitsgruppe zu beraten und 
+hierf&#252;r jeweils zehn Themenpapiere zu ausgew&#228;hlten Fragen des &#246;ffentlichen 
+Rechnungswesens zu erstellen. Die Themenpapiere sollen die Diskussionen in der 
+Arbeitsgruppe ansto&#223;en und ordnen. Auf dieser Grundlage geben die Berater
+zudem regelm&#228;&#223;ig Empfehlungen f&#252;r die Formulierung der Standards und
+strukturieren die weitere Diskussion. Eurostat hat darauf hingewiesen, dass die
+Themenpapiere nicht zwingend eine abgestimmte Position wiedergeben.23 Ob und 
+inwieweit Eurostat abweichende Meinungen, kritische Hinweise oder Bedenken 
+der Mitglieder der Arbeitsgruppe zu den Themenpapieren im weiteren Verfahren 
+ber&#252;cksichtigt, ist nicht bekannt.
+Das BMF nimmt an den Sitzungen der Arbeitsgruppe teil. Dabei vertritt es die 
+Interessen Deutschlands auf der Basis eines zwischen Bund und L&#228;ndern
+abgestimmten Grundsatzpapiers. Das Papier stellt die Notwendigkeit, das Nutzen-
+Kosten-Verh&#228;ltnis und die Verh&#228;ltnism&#228;&#223;igkeit des Projekts sowie die
+Rechtsgrundlage f&#252;r ein T&#228;tigwerden der Kommission in Frage. Das BMF versteht seine 
+Teilnahme an den Sitzungen als kritische Begleitung des Prozesses, ohne dass 
+dadurch eine Entscheidung f&#252;r oder gegen das Projekt pr&#228;judiziert werde. Daher 
+formuliert es &#8211; in Abstimmung mit den L&#228;ndern &#8211; auch Anforderungen an die
+inhaltliche Ausgestaltung der EPSAS f&#252;r den Fall, dass diese tats&#228;chlich eingef&#252;hrt 
+werden. Das BMF legt hierbei eigenen Angaben zufolge einen Schwerpunkt auf 
+die Vertretung der Interessen der doppisch Rechnung legenden L&#228;nder Hamburg 
+und Hessen.
+4.5 Handlungsalternativen
+Bislang hat die Kommission nicht dargelegt, ob gegen&#252;ber der verbindlichen
+Einf&#252;hrung von EPSAS Handlungsalternativen bestehen, mit denen die Europ&#228;ische 
+Union den Schwachstellen oder M&#228;ngeln mit milderen Mitteln begegnen k&#246;nnte. 
+Zudem hat sie nicht nachgewiesen, dass Transparenz und Vergleichbarkeit der 
+Finanzdaten nicht auch im bestehenden System erh&#246;ht werden k&#246;nnen, z. B. 
+durch die bereits eingeleitete Verbesserung des Qualit&#228;tsmanagements. Die 
+Kommission hat auch nicht konkret dargelegt, wie eine Harmonisierung die von 
+ihr angesprochenen Datenqualit&#228;tsprobleme l&#246;sen kann. Einsch&#228;tzungen, ob die 
+EPSAS einen wesentlich verbesserten Schutz gegen manipulative Eingriffe bieten, 
+gibt es derzeit nicht. Aussagen, inwieweit das voraussichtlich komplexe
+Regelwerk in der Anwendung fehleranf&#228;llig ist, hat die Kommission bislang nicht
+getroffen. Sie hat auch noch nicht dargelegt, ob der vorliegende L&#246;sungsansatz 
+den Problemen angemessen begegnet oder dar&#252;ber hinausgeht. Zudem hat die
+23 Vgl. Eurostat: EPSAS Priorities 2015&#8211;2016, EPSAS WG 15/03 vom 4. September 2015.
+Kommission nicht erkennbar untersucht, inwieweit sie die Situation in denjenigen 
+Mitgliedstaaten verbessern k&#246;nnte, bei denen sie die Datenqualit&#228;t als nicht
+ausreichend bewertet.
+5  Stabilit&#228;t der Wirtschafts- und 
+W&#228;hrungsunion
+5.1 Europ&#228;ische Fiskalregeln
+Mit den Vereinbarungen zur Wirtschafts- und W&#228;hrungsunion wurden die
+europ&#228;ischen Fiskalregeln in der Europ&#228;ischen Union etabliert. Sie sollen solide
+&#246;ffentliche Finanzen in den Mitgliedstaaten absichern. Im Jahr 1992 f&#252;hrte der Vertrag 
+von Maastricht24 von den Mitgliedstaaten einzuhaltende Referenzwerte f&#252;r das 
+&#246;ffentliche Defi zit und die &#246;ffentliche Schuldenstandsquote25 (sog. Maastricht-
+Kriterien) ein. Der im Jahr 1997 geschlossene SWP enth&#228;lt weitere Vorgaben und 
+bestimmt die Haushalts&#252;berwachung n&#228;her. Er wurde im Zeitverlauf wiederholt 
+ver&#228;ndert und erg&#228;nzt. Der am 1. Januar 2013 in Kraft getretene Vertrag &#252;ber 
+Stabilit&#228;t, Koordinierung und Steuerung in der Wirtschafts- und W&#228;hrungsunion 
+(Fiskalvertrag) kn&#252;pft an den SWP an.
+Im Kern bestehen die europ&#228;ischen Fiskalregeln heute aus zwei Teilen, dem
+pr&#228;ventiven und dem korrektiven Arm des SWP. Sie gelten grunds&#228;tzlich f&#252;r alle
+Mitgliedstaaten, also auch f&#252;r die Staaten, die den Euro nicht eingef&#252;hrt haben.26 F&#252;r 
+die Euro-Staaten enth&#228;lt der SWP jedoch zum Teil weitergehende Regelungen.
+Die Deutsche Bundesbank (Bundesbank) analysierte in ihrem Monatsbericht f&#252;r 
+Juni 2017 die Ausgestaltung und Umsetzung der europ&#228;ischen Fiskalregeln und 
+kam zu dem nachfolgend dargestellten Ergebnis.27 Der Bundesrechnungshof teilt 
+die kritische Einsch&#228;tzung der Bundesbank uneingeschr&#228;nkt.28
+24  Der Vertrag &#252;ber die Europ&#228;ische Union (EUV) wurde am 7. Februar 1992 in Maastricht unterzeichnet 
+und trat am 1. November 1993 in Kraft.
+25  In diesem Bericht wird nachfolgend die Kurzbezeichnung Schuldenquote verwendet.
+26  Die Anpassungserfordernisse f&#252;r Mitgliedstaaten mit einem Hilfsprogramm sind nicht im SWP geregelt.
+27  Vgl. hierzu Bundesbank: Zur Ausgestaltung und Umsetzung der europ&#228;ischen Fiskalregeln; in: 
+Monatsbericht Juni 2017, S. 29 ff.
+28  Vgl. hierzu auch: Bericht nach &#167; 99 Bundeshaushaltsordnung (BHO) &#252;ber die Feststellungen zur 
+fi nanzwirtschaftlichen Entwicklung des Bundes &#8211; Herausforderungen und Handlungsoptionen f&#252;r 
+die 19. Wahlperiode, Tz. 10.1.4 vom 25. Oktober 2017.
+5.2  Pr&#228;ventiver Arm des Stabilit&#228;ts- und 
+Wachstumspakts
+Im Zentrum des pr&#228;ventiven Arms steht das mittelfristige Haushaltsziel, also ein 
+strukturell nahezu ausgeglichener gesamtstaatlicher Haushalt. Das strukturelle 
+Defi zit darf demnach grunds&#228;tzlich h&#246;chstens 0,5 % des Bruttoinlandsprodukts 
+(BIP) betragen.29 Jeder Mitgliedstaat soll das mittelfristige Haushaltsziel
+einhalten. Erreicht er dies nicht, so muss er die strukturelle Defi zitquote schrittweise 
+zur&#252;ckf&#252;hren. Von diesem Anpassungspfad kann er jedoch abweichen, z. B. wenn 
+Strukturreformen oder Investitionen dies entschuldigen. Die Ausnahmen wurden 
+im Zeitverlauf jedoch immer zahlreicher. So k&#246;nnen Abweichungen vom
+Anpassungspfad inzwischen z. B. auch mit Ausgaben f&#252;r Fl&#252;chtlinge oder f&#252;r die
+Terrorbek&#228;mpfung begr&#252;ndet werden.
+Das mittelfristige Haushaltsziel wurde von den Mitgliedstaaten selten erreicht. 
+Dies h&#228;ngt auch damit zusammen, dass die Gew&#228;hrung von Ausnahmen mit
+erheblichen Ermessensspielr&#228;umen verbunden ist. So erachteten Kommission und 
+Rat30 z. B. den Anpassungspfad f&#252;r Italien im Jahr 2016 trotz einer
+Verschlechterung der strukturellen Defi zitquote als &#8222;weitgehend eingehalten&#8220;, weil Italien 
+gleichzeitig Strukturreformen sowie Ausgaben f&#252;r Investitionen, f&#252;r Fl&#252;chtlinge 
+und zur Terrorabwehr geltend machte. 
+Im Ergebnis wurde bislang stets darauf verzichtet, f&#252;r einen Euro-Staat31 eine 
+erhebliche Abweichung vom Anpassungspfad festzustellen &#8211; selbst dann, wenn 
+sich die strukturelle Defi zitquote erh&#246;ht hatte. 
+5.3  Korrektiver Arm des Stabilit&#228;ts- und 
+Wachstumspakts
+Der korrektive Arm bezieht sich auf die Maastricht-Kriterien. Danach soll die
+&#246;ffentliche Defi zitquote 3 % und die &#246;ffentliche Schuldenquote 60 % des BIP nicht 
+&#252;berschreiten. H&#228;lt ein Mitgliedstaat diese Referenzwerte nicht ein und wird dies 
+als nicht nur au&#223;ergew&#246;hnliche oder vor&#252;bergehende &#220;berschreitung betrachtet, 
+kann das &#8222;Verfahren bei einem &#252;berm&#228;&#223;igen Defi zit&#8220; (Defi zitverfahren)
+eingeleitet werden. Die Kommission gibt dann eine Stellungnahme ab und der Rat
+beschlie&#223;t auf Vorschlag der Kommission, ob ein &#252;berm&#228;&#223;iges Defi zit vorliegt. Ist 
+dies der Fall, &#252;bermittelt er dem betreffenden Mitgliedstaat Empfehlungen und 
+29  Ist die Schuldenquote erheblich geringer als 60 %, darf das strukturelle Defi zit auch bis zu 1 % des 
+BIP betragen.
+30  Rat &#8222;Wirtschaft und Finanzen&#8220;. An den Sitzungen zur Haushalts&#252;berwachung der Euro-Staaten nehmen 
+nur die Ministerinnen und Minister der Mitglieder der Euro-Gruppe teil.
+31  Bislang stellte die Kommission lediglich im Fall von Rum&#228;nien (kein Euro-Staat) f&#252;r das Jahr 2016 eine 
+signifi kante Abweichung vom Anpassungspfad an das mittelfristige Haushaltsziel fest und sprach am 
+22. Mai 2017 eine Verwarnung gem&#228;&#223; Artikel 121 Absatz 4 des Vertrags &#252;ber die Arbeitsweise der 
+Europ&#228;ischen Union (AEUV) aus.
+Drucksache 19/60 Deutscher Bundestag &#8211; 19. Wahlperiode&#8211; 10 &#8211;
+Kommission nicht erkennbar untersucht, inwieweit sie die Situation in denjenigen 
+Mitgliedstaaten verbessern k&#246;nnte, bei denen sie die Datenqualit&#228;t als nicht
+ausreichend bewertet.
+5  Stabilit&#228;t der Wirtschafts- und 
+W&#228;hrungsunion
+5.1 Europ&#228;ische Fiskalregeln
+Mit den Vereinbarungen zur Wirtschafts- und W&#228;hrungsunion wurden die
+europ&#228;ischen Fiskalregeln in der Europ&#228;ischen Union etabliert. Sie sollen solide
+&#246;ffentliche Finanzen in den Mitgliedstaaten absichern. Im Jahr 1992 f&#252;hrte der Vertrag 
+von Maastricht24 von den Mitgliedstaaten einzuhaltende Referenzwerte f&#252;r das 
+&#246;ffentliche Defi zit und die &#246;ffentliche Schuldenstandsquote25 (sog. Maastricht-
+Kriterien) ein. Der im Jahr 1997 geschlossene SWP enth&#228;lt weitere Vorgaben und 
+bestimmt die Haushalts&#252;berwachung n&#228;her. Er wurde im Zeitverlauf wiederholt 
+ver&#228;ndert und erg&#228;nzt. Der am 1. Januar 2013 in Kraft getretene Vertrag &#252;ber 
+Stabilit&#228;t, Koordinierung und Steuerung in der Wirtschafts- und W&#228;hrungsunion 
+(Fiskalvertrag) kn&#252;pft an den SWP an.
+Im Kern bestehen die europ&#228;ischen Fiskalregeln heute aus zwei Teilen, dem
+pr&#228;ventiven und dem korrektiven Arm des SWP. Sie gelten grunds&#228;tzlich f&#252;r alle
+Mitgliedstaaten, also auch f&#252;r die Staaten, die den Euro nicht eingef&#252;hrt haben.26 F&#252;r 
+die Euro-Staaten enth&#228;lt der SWP jedoch zum Teil weitergehende Regelungen.
+Die Deutsche Bundesbank (Bundesbank) analysierte in ihrem Monatsbericht f&#252;r 
+Juni 2017 die Ausgestaltung und Umsetzung der europ&#228;ischen Fiskalregeln und 
+kam zu dem nachfolgend dargestellten Ergebnis.27 Der Bundesrechnungshof teilt 
+die kritische Einsch&#228;tzung der Bundesbank uneingeschr&#228;nkt.28
+24  Der Vertrag &#252;ber die Europ&#228;ische Union (EUV) wurde am 7. Februar 1992 in Maastricht unterzeichnet 
+und trat am 1. November 1993 in Kraft.
+25  In diesem Bericht wird nachfolgend die Kurzbezeichnung Schuldenquote verwendet.
+26  Die Anpassungserfordernisse f&#252;r Mitgliedstaaten mit einem Hilfsprogramm sind nicht im SWP geregelt.
+27  Vgl. hierzu Bundesbank: Zur Ausgestaltung und Umsetzung der europ&#228;ischen Fiskalregeln; in: 
+Monatsbericht Juni 2017, S. 29 ff.
+28  Vgl. hierzu auch: Bericht nach &#167; 99 Bundeshaushaltsordnung (BHO) &#252;ber die Feststellungen zur 
+fi nanzwirtschaftlichen Entwicklung des Bundes &#8211; Herausforderungen und Handlungsoptionen f&#252;r 
+die 19. Wahlperiode, Tz. 10.1.4 vom 25. Oktober 2017.
+5.2  Pr&#228;ventiver Arm des Stabilit&#228;ts- und 
+Wachstumspakts
+Im Zentrum des pr&#228;ventiven Arms steht das mittelfristige Haushaltsziel, also ein 
+strukturell nahezu ausgeglichener gesamtstaatlicher Haushalt. Das strukturelle 
+Defi zit darf demnach grunds&#228;tzlich h&#246;chstens 0,5 % des Bruttoinlandsprodukts 
+(BIP) betragen.29 Jeder Mitgliedstaat soll das mittelfristige Haushaltsziel
+einhalten. Erreicht er dies nicht, so muss er die strukturelle Defi zitquote schrittweise 
+zur&#252;ckf&#252;hren. Von diesem Anpassungspfad kann er jedoch abweichen, z. B. wenn 
+Strukturreformen oder Investitionen dies entschuldigen. Die Ausnahmen wurden 
+im Zeitverlauf jedoch immer zahlreicher. So k&#246;nnen Abweichungen vom
+Anpassungspfad inzwischen z. B. auch mit Ausgaben f&#252;r Fl&#252;chtlinge oder f&#252;r die
+Terrorbek&#228;mpfung begr&#252;ndet werden.
+Das mittelfristige Haushaltsziel wurde von den Mitgliedstaaten selten erreicht. 
+Dies h&#228;ngt auch damit zusammen, dass die Gew&#228;hrung von Ausnahmen mit
+erheblichen Ermessensspielr&#228;umen verbunden ist. So erachteten Kommission und 
+Rat30 z. B. den Anpassungspfad f&#252;r Italien im Jahr 2016 trotz einer
+Verschlechterung der strukturellen Defi zitquote als &#8222;weitgehend eingehalten&#8220;, weil Italien 
+gleichzeitig Strukturreformen sowie Ausgaben f&#252;r Investitionen, f&#252;r Fl&#252;chtlinge 
+und zur Terrorabwehr geltend machte. 
+Im Ergebnis wurde bislang stets darauf verzichtet, f&#252;r einen Euro-Staat31 eine 
+erhebliche Abweichung vom Anpassungspfad festzustellen &#8211; selbst dann, wenn 
+sich die strukturelle Defi zitquote erh&#246;ht hatte. 
+5.3  Korrektiver Arm des Stabilit&#228;ts- und 
+Wachstumspakts
+Der korrektive Arm bezieht sich auf die Maastricht-Kriterien. Danach soll die
+&#246;ffentliche Defi zitquote 3 % und die &#246;ffentliche Schuldenquote 60 % des BIP nicht 
+&#252;berschreiten. H&#228;lt ein Mitgliedstaat diese Referenzwerte nicht ein und wird dies 
+als nicht nur au&#223;ergew&#246;hnliche oder vor&#252;bergehende &#220;berschreitung betrachtet, 
+kann das &#8222;Verfahren bei einem &#252;berm&#228;&#223;igen Defi zit&#8220; (Defi zitverfahren)
+eingeleitet werden. Die Kommission gibt dann eine Stellungnahme ab und der Rat
+beschlie&#223;t auf Vorschlag der Kommission, ob ein &#252;berm&#228;&#223;iges Defi zit vorliegt. Ist 
+dies der Fall, &#252;bermittelt er dem betreffenden Mitgliedstaat Empfehlungen und 
+29  Ist die Schuldenquote erheblich geringer als 60 %, darf das strukturelle Defi zit auch bis zu 1 % des 
+BIP betragen.
+30  Rat &#8222;Wirtschaft und Finanzen&#8220;. An den Sitzungen zur Haushalts&#252;berwachung der Euro-Staaten nehmen 
+nur die Ministerinnen und Minister der Mitglieder der Euro-Gruppe teil.
+31  Bislang stellte die Kommission lediglich im Fall von Rum&#228;nien (kein Euro-Staat) f&#252;r das Jahr 2016 eine 
+signifi kante Abweichung vom Anpassungspfad an das mittelfristige Haushaltsziel fest und sprach am 
+22. Mai 2017 eine Verwarnung gem&#228;&#223; Artikel 121 Absatz 4 des Vertrags &#252;ber die Arbeitsweise der 
+Europ&#228;ischen Union (AEUV) aus.
+einen Zeitplan f&#252;r Korrekturma&#223;nahmen. Falls der Mitgliedstaat keine wirksamen 
+Ma&#223;nahmen ergreift, ist das Defi zitverfahren zu versch&#228;rfen. Dann sind bei Euro-
+Staaten auch fi nanzielle Sanktionen m&#246;glich.
+Die Euro-Staaten haben die Maastricht-Kriterien seit der Einf&#252;hrung des Euros im 
+Jahr 1999 letztlich vielfach verfehlt,
+ &#61607; bei der Defi zitquote in 109 F&#228;llen (40 %), davon in 13 F&#228;llen &#252;ber drei oder 
+mehr Jahre in Folge und
+ &#61607; bei der Schuldenquote in weit mehr als der H&#228;lfte der F&#228;lle (59 %).32
+Derzeit liegt die Schuldenquote in allen Mitgliedstaaten mit Ausnahme von
+Estland, Lettland, Litauen, Luxemburg, Malta und der Slowakei oberhalb des
+Referenzwertes. Die im SWP und im Fiskalvertrag enthaltene Vorgabe,
+Referenzwert&#252;berschreitungen bei den Schuldenquoten j&#228;hrlich grunds&#228;tzlich im Durchschnitt 
+um ein Zwanzigstel zur&#252;ckzuf&#252;hren (&#8222;1/20-Regel&#8220;), wird oftmals nicht umgesetzt. 
+Trotzdem wurden bislang de facto keine fi nanziellen Sanktionen verh&#228;ngt. Zwar 
+stellte die Kommission im Jahr 2013 fest, dass Belgien keine wirksamen
+Ma&#223;nahmen ergriffen hatte und versch&#228;rfte das Defi zitverfahren daraufhin. Eine fi
+nanzielle Sanktion schlug sie jedoch nicht vor. Mitte 2016 wurde festgestellt, dass 
+Spanien und Portugal keine wirksamen Ma&#223;nahmen ergriffen hatten. Das Defi
+zitverfahren wurde daraufhin versch&#228;rft. Die von der Kommission vorgeschlagene 
+und vom Rat beschlossene Sanktion betrug jedoch &#8222;null Euro&#8220;.
+Hinsichtlich der Schuldenquote ist die Feststellung eines &#252;berm&#228;&#223;igen Defi zits 
+unwahrscheinlich und auch bis heute in keinem Fall erfolgt. Im Fall von Italien 
+hatte die Kommission z. B. im Mai 2016 die Schuldenquote f&#252;r das Vorjahr
+gepr&#252;ft und eine erneute Pr&#252;fung f&#252;r Herbst 2016 angek&#252;ndigt. Der Bericht hierzu 
+wurde jedoch erst im Februar 2017 erstellt, nach dem Verfassungsreferendum 
+in Italien. Die Kommission hielt zu diesem Zeitpunkt keine weiteren
+Verfahrensschritte f&#252;r erforderlich. Die Schuldenquote Italiens weist weiterhin eine
+steigende Tendenz auf und liegt deutlich &#252;ber dem Referenzwert. F&#252;r das Jahr 2017 
+erwartet die Kommission eine Quote von 133,1 %.
+5.4 Gesamtschau
+Die mit der Verabschiedung des SWP gestiegene Bedeutung der Kommission 
+f&#252;hrte &#8211; so die Bundesbank &#8211; nicht zu einer konsequenteren Umsetzung der 
+euro p&#228;ischen Fiskalregeln. Stattdessen setzte die Kommission im Einvernehmen 
+mit dem Rat zunehmend auf eine Flexibilisierung der Regeln. Die Ziele und
+Vorgaben wurden h&#228;ufi g verfehlt. 
+32  F&#252;r den Zeitraum 1999 bis 2015 untersuchte das ifo Institut &#8211; Leibniz-Institut f&#252;r Wirtschaftsforschung 
+an der Universit&#228;t M&#252;nchen e. V. die Einhaltung der Defi zitquote f&#252;r alle Mitgliedstaaten. Es stellte fest, 
+dass der Referenzwert in 114 F&#228;llen unerlaubt &#252;berschritten wurde, am h&#228;ufi gsten von Frankreich (in 
+10 F&#228;llen).
+Der Bundesrechnungshof teilt die Einsch&#228;tzung der Bundesbank, dass die
+Wirksamkeit des pr&#228;ventiven Arms insgesamt als gering zu bewerten ist. Beim
+korrektiven Arm f&#252;hrten zudem Ausnahmen und Ermessensspielr&#228;ume dazu, dass 
+anhaltend &#252;ber den Referenzwerten liegende Defi zite oder steigende bzw. 
+deutlich &#252;ber dem Referenzwert verharrende Schuldenquoten als regelkonform 
+bewertet werden konnten. Die Defi zitquoten33 sind &#8211; vor allem wegen der im 
+EU-Raum insgesamt verbesserten wirtschaftlichen Rahmenbedingungen und 
+des niedrigen Zinsniveaus &#8211; zwar gesunken, die Schuldenquoten34 sind in vielen 
+Mitgliedstaaten jedoch weiterhin zu hoch.
+Aus Sicht der Bundesbank k&#246;nnen die Fiskalregeln allein, ohne einen
+Grundkonsens zu deren Einhaltung, tragf&#228;hige Staatsfi nanzen nicht sicherstellen. Dar&#252;ber 
+hinaus schl&#228;gt die Bundesbank Reformen vor, um die Wirtschafts- und
+W&#228;hrungsunion widerstandsf&#228;higer zu machen. So sollten z. B. die Privilegien f&#252;r 
+Staatsanleihen35 schrittweise abgeschafft und ein geordnetes Verfahren f&#252;r
+deren Restrukturierung bei einem staatlichen Zahlungsausfall vereinbart werden, 
+um Finanz- und Wirtschaftskrisen vermeiden oder besser bew&#228;ltigen zu k&#246;nnen. 
+Die Einf&#252;hrung harmonisierter Rechnungsf&#252;hrungsgrunds&#228;tze f&#252;r den
+&#246;ffentlichen Sektor nennt die Bundesbank in diesem Zusammenhang nicht.
+6 Zwecke der Rechnungslegung
+6.1 IPSAS als Bezugsrahmen f&#252;r EPSAS
+Die Kommission hat erkl&#228;rt, dass unn&#246;tige Abweichungen zwischen den EPSAS 
+und den IPSAS unbedingt vermieden werden sollen. Gleiches gelte f&#252;r das 
+Verh&#228;ltnis zwischen den EPSAS und den internationalen
+Rechnungslegungsvorschriften f&#252;r b&#246;rsennotierte Unternehmen (International Financial Reporting 
+Standards &#8211; IFRS).36 Eurostat m&#246;chte auch die Philosophie der IPSAS m&#246;glichst 
+vollst&#228;ndig &#252;bernehmen.
+Die IPSAS werden durch das IPSAS-Board37 erstellt. Konzeptionell lehnen sie sich 
+an die IFRS an, die stark anglo-amerikanisch gepr&#228;gt sind. Die IFRS werden vom 
+International Accounting Standards Board (IAS-Board)38 erarbeitet. Zwischen 
+33 Siehe Anlage 3.
+34 Siehe Anlage 4.
+35 Staatsanleihen sind derzeit u. a. von Kapitalunterlegungsvorschriften befreit.
+36 Vgl. Bericht der Kommission vom 6. M&#228;rz 2013, KOM(2013) 114 endg&#252;ltig.
+37  Das IPSAS-Board ist ein Gremium von 18 Mitgliedern, die von der International Federation of
+Accountants (IFAC) ernannt werden. Gesch&#228;ftssitz der IFAC ist New York; statutarischer Sitz ist Genf. In der 
+IFAC sind derzeit mehr als 175 Wirtschaftspr&#252;fungsgesellschaften und internationale
+Pr&#252;fungsorganisationen aus mehr als 130 Staaten vertreten. Sie repr&#228;sentieren zusammen fast 3 Millionen
+Wirtschaftspr&#252;ferinnen und -pr&#252;fer. 
+38  Das IAS-Board ist ein Gremium von 14 Mitgliedern, die von Treuh&#228;ndern der International Accounting 
+Standards Committee Foundation (IASCF) ernannt werden. Die IASCF ist eine internationale Stiftung 
+mit Sitz in Delaware.
+Drucksache 19/60 Deutscher Bundestag &#8211; 19. Wahlperiode&#8211; 12 &#8211;
+einen Zeitplan f&#252;r Korrekturma&#223;nahmen. Falls der Mitgliedstaat keine wirksamen 
+Ma&#223;nahmen ergreift, ist das Defi zitverfahren zu versch&#228;rfen. Dann sind bei Euro-
+Staaten auch fi nanzielle Sanktionen m&#246;glich.
+Die Euro-Staaten haben die Maastricht-Kriterien seit der Einf&#252;hrung des Euros im 
+Jahr 1999 letztlich vielfach verfehlt,
+ &#61607; bei der Defi zitquote in 109 F&#228;llen (40 %), davon in 13 F&#228;llen &#252;ber drei oder 
+mehr Jahre in Folge und
+ &#61607; bei der Schuldenquote in weit mehr als der H&#228;lfte der F&#228;lle (59 %).32
+Derzeit liegt die Schuldenquote in allen Mitgliedstaaten mit Ausnahme von
+Estland, Lettland, Litauen, Luxemburg, Malta und der Slowakei oberhalb des
+Referenzwertes. Die im SWP und im Fiskalvertrag enthaltene Vorgabe,
+Referenzwert&#252;berschreitungen bei den Schuldenquoten j&#228;hrlich grunds&#228;tzlich im Durchschnitt 
+um ein Zwanzigstel zur&#252;ckzuf&#252;hren (&#8222;1/20-Regel&#8220;), wird oftmals nicht umgesetzt. 
+Trotzdem wurden bislang de facto keine fi nanziellen Sanktionen verh&#228;ngt. Zwar 
+stellte die Kommission im Jahr 2013 fest, dass Belgien keine wirksamen
+Ma&#223;nahmen ergriffen hatte und versch&#228;rfte das Defi zitverfahren daraufhin. Eine fi
+nanzielle Sanktion schlug sie jedoch nicht vor. Mitte 2016 wurde festgestellt, dass 
+Spanien und Portugal keine wirksamen Ma&#223;nahmen ergriffen hatten. Das Defi
+zitverfahren wurde daraufhin versch&#228;rft. Die von der Kommission vorgeschlagene 
+und vom Rat beschlossene Sanktion betrug jedoch &#8222;null Euro&#8220;.
+Hinsichtlich der Schuldenquote ist die Feststellung eines &#252;berm&#228;&#223;igen Defi zits 
+unwahrscheinlich und auch bis heute in keinem Fall erfolgt. Im Fall von Italien 
+hatte die Kommission z. B. im Mai 2016 die Schuldenquote f&#252;r das Vorjahr
+gepr&#252;ft und eine erneute Pr&#252;fung f&#252;r Herbst 2016 angek&#252;ndigt. Der Bericht hierzu 
+wurde jedoch erst im Februar 2017 erstellt, nach dem Verfassungsreferendum 
+in Italien. Die Kommission hielt zu diesem Zeitpunkt keine weiteren
+Verfahrensschritte f&#252;r erforderlich. Die Schuldenquote Italiens weist weiterhin eine
+steigende Tendenz auf und liegt deutlich &#252;ber dem Referenzwert. F&#252;r das Jahr 2017 
+erwartet die Kommission eine Quote von 133,1 %.
+5.4 Gesamtschau
+Die mit der Verabschiedung des SWP gestiegene Bedeutung der Kommission 
+f&#252;hrte &#8211; so die Bundesbank &#8211; nicht zu einer konsequenteren Umsetzung der 
+euro p&#228;ischen Fiskalregeln. Stattdessen setzte die Kommission im Einvernehmen 
+mit dem Rat zunehmend auf eine Flexibilisierung der Regeln. Die Ziele und
+Vorgaben wurden h&#228;ufi g verfehlt. 
+32  F&#252;r den Zeitraum 1999 bis 2015 untersuchte das ifo Institut &#8211; Leibniz-Institut f&#252;r Wirtschaftsforschung 
+an der Universit&#228;t M&#252;nchen e. V. die Einhaltung der Defi zitquote f&#252;r alle Mitgliedstaaten. Es stellte fest, 
+dass der Referenzwert in 114 F&#228;llen unerlaubt &#252;berschritten wurde, am h&#228;ufi gsten von Frankreich (in 
+10 F&#228;llen).
+Der Bundesrechnungshof teilt die Einsch&#228;tzung der Bundesbank, dass die
+Wirksamkeit des pr&#228;ventiven Arms insgesamt als gering zu bewerten ist. Beim
+korrektiven Arm f&#252;hrten zudem Ausnahmen und Ermessensspielr&#228;ume dazu, dass 
+anhaltend &#252;ber den Referenzwerten liegende Defi zite oder steigende bzw. 
+deutlich &#252;ber dem Referenzwert verharrende Schuldenquoten als regelkonform 
+bewertet werden konnten. Die Defi zitquoten33 sind &#8211; vor allem wegen der im 
+EU-Raum insgesamt verbesserten wirtschaftlichen Rahmenbedingungen und 
+des niedrigen Zinsniveaus &#8211; zwar gesunken, die Schuldenquoten34 sind in vielen 
+Mitgliedstaaten jedoch weiterhin zu hoch.
+Aus Sicht der Bundesbank k&#246;nnen die Fiskalregeln allein, ohne einen
+Grundkonsens zu deren Einhaltung, tragf&#228;hige Staatsfi nanzen nicht sicherstellen. Dar&#252;ber 
+hinaus schl&#228;gt die Bundesbank Reformen vor, um die Wirtschafts- und
+W&#228;hrungsunion widerstandsf&#228;higer zu machen. So sollten z. B. die Privilegien f&#252;r 
+Staatsanleihen35 schrittweise abgeschafft und ein geordnetes Verfahren f&#252;r
+deren Restrukturierung bei einem staatlichen Zahlungsausfall vereinbart werden, 
+um Finanz- und Wirtschaftskrisen vermeiden oder besser bew&#228;ltigen zu k&#246;nnen. 
+Die Einf&#252;hrung harmonisierter Rechnungsf&#252;hrungsgrunds&#228;tze f&#252;r den
+&#246;ffentlichen Sektor nennt die Bundesbank in diesem Zusammenhang nicht.
+6 Zwecke der Rechnungslegung
+6.1 IPSAS als Bezugsrahmen f&#252;r EPSAS
+Die Kommission hat erkl&#228;rt, dass unn&#246;tige Abweichungen zwischen den EPSAS 
+und den IPSAS unbedingt vermieden werden sollen. Gleiches gelte f&#252;r das 
+Verh&#228;ltnis zwischen den EPSAS und den internationalen
+Rechnungslegungsvorschriften f&#252;r b&#246;rsennotierte Unternehmen (International Financial Reporting 
+Standards &#8211; IFRS).36 Eurostat m&#246;chte auch die Philosophie der IPSAS m&#246;glichst 
+vollst&#228;ndig &#252;bernehmen.
+Die IPSAS werden durch das IPSAS-Board37 erstellt. Konzeptionell lehnen sie sich 
+an die IFRS an, die stark anglo-amerikanisch gepr&#228;gt sind. Die IFRS werden vom 
+International Accounting Standards Board (IAS-Board)38 erarbeitet. Zwischen 
+33 Siehe Anlage 3.
+34 Siehe Anlage 4.
+35 Staatsanleihen sind derzeit u. a. von Kapitalunterlegungsvorschriften befreit.
+36 Vgl. Bericht der Kommission vom 6. M&#228;rz 2013, KOM(2013) 114 endg&#252;ltig.
+37  Das IPSAS-Board ist ein Gremium von 18 Mitgliedern, die von der International Federation of
+Accountants (IFAC) ernannt werden. Gesch&#228;ftssitz der IFAC ist New York; statutarischer Sitz ist Genf. In der 
+IFAC sind derzeit mehr als 175 Wirtschaftspr&#252;fungsgesellschaften und internationale
+Pr&#252;fungsorganisationen aus mehr als 130 Staaten vertreten. Sie repr&#228;sentieren zusammen fast 3 Millionen
+Wirtschaftspr&#252;ferinnen und -pr&#252;fer. 
+38  Das IAS-Board ist ein Gremium von 14 Mitgliedern, die von Treuh&#228;ndern der International Accounting 
+Standards Committee Foundation (IASCF) ernannt werden. Die IASCF ist eine internationale Stiftung 
+mit Sitz in Delaware.
+den beiden Gremien besteht eine Grundsatzvereinbarung, die deren
+Zusammenarbeit st&#228;rken soll. Weder das IPSAS-Board noch das IAS-Board ist demokratisch 
+legitimiert.
+Das strukturelle Problem der Zusammenarbeit dieser beiden Gremien ist, dass 
+die &#246;ffentliche Rechnungslegung traditionell andere Erkenntnisziele als die eines 
+privatwirtschaftlichen Unternehmens hat.39
+6.2 &#214;ffentliche Rechnungslegung
+Das &#246;ffentliche Rechnungswesen des Bundes orientiert sich an den Prinzipien der 
+parlamentarischen Haushaltshoheit (Artikel 110 Absatz 2 Grundgesetz) und der 
+Kompetenz der Verwaltung f&#252;r den Haushaltsvollzug. Verkn&#252;pft werden diese 
+beiden Bereiche durch den Haushaltsplan (Artikel 110 Absatz 1 Grundgesetz) 
+der die Verwendung der von den B&#252;rgerinnen und B&#252;rgern treuh&#228;nderisch zur 
+Verf&#252;gung gestellten Mittel festlegt.
+Nach Abschluss eines Haushaltsjahres hat der Bundesminister der Finanzen dem 
+Parlament &#252;ber alle Einnahmen und Ausgaben sowie &#252;ber das Verm&#246;gen und die 
+Schulden Rechnung zu legen. Die Rechnungslegung dient der Entlastung der 
+Bundesregierung durch das Parlament (Artikel 114 Absatz 1 Grundgesetz). 
+Der Bundesrechnungshof pr&#252;ft die Rechnung sowie die Haushalts- und
+Wirtschaftsf&#252;hrung des Bundes. Pr&#252;fungsma&#223;st&#228;be sind dabei die
+Ordnungsm&#228;&#223;igkeit und die Wirtschaftlichkeit des Verwaltungshandelns (Artikel 114 Absatz 2 
+Grundgesetz).
+Das &#246;ffentliche Haushaltswesen ist also durchdrungen von den Prinzipien der 
+Finanzierung der Ausgaben durch Einnahmen und deren demokratischer
+Legitimation. Die Rechenschaft stellt den prim&#228;ren Zweck der &#246;ffentlichen
+Rechnungslegung dar. Sie zielt auf die vergangenheitsorientierte Kontrolle der Verwendung 
+der &#246;ffentlichen Mittel ab. Weitere Zwecke sind fi nanzielle Stabilit&#228;t,
+Generationengerechtigkeit sowie Vergleichbarkeit. Um dies alles zu erf&#252;llen, muss das 
+&#246;ffentliche Rechnungswesen den Grunds&#228;tzen der Verl&#228;sslichkeit und der
+Objektivierung40 sowie dem Vorsichtsprinzip folgen. 
+6.3 Kapitalmarktorientierte Rechnungslegung
+Demgegen&#252;ber verfolgen die IFRS und damit auch die IPSAS grundlegend
+andere Erkenntnisziele. Ihr kapitalmarktorientierter Ansatz zielt darauf ab, die
+tats&#228;chliche Verm&#246;gens-, Finanz- und Ertragslage eines Unternehmens abzubilden 
+(&#8222;true and fair view&#8220;), um Investoren mit entscheidungsn&#252;tzlichen Informationen 
+39 Vgl. Gr&#246;pl, Christoph, a.a.O., S. 259 ff.
+40  Aus dem Grundsatz der Objektivierung folgt, dass Wahlrechte auf Ausnahmef&#228;lle zu beschr&#228;nken und 
+Ermessensspielr&#228;ume weitestgehend zu begrenzen sind.
+zu versorgen (&#8222;decision usefulness&#8220;). Die Betrachtung ist damit st&#228;rker auf die 
+Gegenwart und Zukunft ausgerichtet. Demokratische Legitimation spielt
+naturgem&#228;&#223; keine Rolle.
+Das IPSAS-Rahmenwerk nennt als Rechnungslegungszwecke die Rechenschaft 
+und die Entscheidungsn&#252;tzlichkeit nebeneinander. Auch wegen dieses
+Zielkonfl ikts haben das Vorsichtsprinzip und der Grundsatz der Objektivierung hier eine 
+geringere Bedeutung. Dies kommt auch in einer Reihe von Wahlrechten und
+Ermessensspielr&#228;umen zum Ausdruck.
+In der Arbeitsgruppe bestand das BMF darauf, f&#252;r die EPSAS eine
+Hierarchisierung der Bilanzierungsgrunds&#228;tze vorzunehmen, um die besondere Bedeutung 
+der Grunds&#228;tze Verl&#228;sslichkeit, Objektivierung und Vorsicht herauszustellen. 
+Eurostat und die Interessenvertreter der Wirtschaftspr&#252;fungsgesellschaften in 
+der Arbeitsgruppe haben sich im Sinne einer m&#246;glichst starken Anlehnung an das 
+IPSAS-Rahmenwerk gegen diese Forderung ausgesprochen.
+7 Transparenz und Vergleichbarkeit
+7.1 Voraussetzungen
+Voraussetzung f&#252;r qualitativ hochwertige, verl&#228;ssliche und vergleichbare
+Haushaltsdaten ist ein &#246;ffentliches Rechnungswesen, das m&#246;glichst keine Wahl- und 
+Gestaltungsm&#246;glichkeiten oder Ermessensspielr&#228;ume einr&#228;umt. Die
+nachfolgenden Ausf&#252;hrungen zu den Themenfeldern Steuern und Pensionsverpfl ichtungen 
+beleuchten beispielhaft die m&#246;glichen Konsequenzen einer Einf&#252;hrung von 
+EPSAS.
+7.2 Themenfeld Steuern
+7.2.1  Methoden f&#252;r die Ber&#252;cksichtigung von 
+Steuereinnahmen
+F&#252;r die Sitzung der Arbeitsgruppe im Juli 2016 bereitete E&amp;Y ein Themenpapier41 
+zur Bilanzierung von Steuern vor, insbesondere der Einkommensteuer und der 
+Umsatzsteuer. Etwa die H&#228;lfte aller Steuereinnahmen in der Europ&#228;ischen Union 
+entfallen auf diese beiden Steuerarten. Das Themenpapier erl&#228;utert, wie
+Einnahmen aus diesen Steuerarten nach dem ESVG und den IPSAS zu erfassen sind. 
+Das ESVG gestattet den Mitgliedstaaten, Einnahmen aus den beiden Steuerarten 
+anhand von zwei Methoden zu ber&#252;cksichtigen. Diese beziehen sich auf zwei
+unterschiedliche Zeitpunkte:
+41 E&amp;Y: EPSAS issue paper on the accounting treatment of taxes, EPSAS WG 16/07 vom 30. Juni 2016.
+Drucksache 19/60 Deutscher Bundestag &#8211; 19. Wahlperiode&#8211; 14 &#8211;
+den beiden Gremien besteht eine Grundsatzvereinbarung, die deren
+Zusammenarbeit st&#228;rken soll. Weder das IPSAS-Board noch das IAS-Board ist demokratisch 
+legitimiert.
+Das strukturelle Problem der Zusammenarbeit dieser beiden Gremien ist, dass 
+die &#246;ffentliche Rechnungslegung traditionell andere Erkenntnisziele als die eines 
+privatwirtschaftlichen Unternehmens hat.39
+6.2 &#214;ffentliche Rechnungslegung
+Das &#246;ffentliche Rechnungswesen des Bundes orientiert sich an den Prinzipien der 
+parlamentarischen Haushaltshoheit (Artikel 110 Absatz 2 Grundgesetz) und der 
+Kompetenz der Verwaltung f&#252;r den Haushaltsvollzug. Verkn&#252;pft werden diese 
+beiden Bereiche durch den Haushaltsplan (Artikel 110 Absatz 1 Grundgesetz) 
+der die Verwendung der von den B&#252;rgerinnen und B&#252;rgern treuh&#228;nderisch zur 
+Verf&#252;gung gestellten Mittel festlegt.
+Nach Abschluss eines Haushaltsjahres hat der Bundesminister der Finanzen dem 
+Parlament &#252;ber alle Einnahmen und Ausgaben sowie &#252;ber das Verm&#246;gen und die 
+Schulden Rechnung zu legen. Die Rechnungslegung dient der Entlastung der 
+Bundesregierung durch das Parlament (Artikel 114 Absatz 1 Grundgesetz). 
+Der Bundesrechnungshof pr&#252;ft die Rechnung sowie die Haushalts- und
+Wirtschaftsf&#252;hrung des Bundes. Pr&#252;fungsma&#223;st&#228;be sind dabei die
+Ordnungsm&#228;&#223;igkeit und die Wirtschaftlichkeit des Verwaltungshandelns (Artikel 114 Absatz 2 
+Grundgesetz).
+Das &#246;ffentliche Haushaltswesen ist also durchdrungen von den Prinzipien der 
+Finanzierung der Ausgaben durch Einnahmen und deren demokratischer
+Legitimation. Die Rechenschaft stellt den prim&#228;ren Zweck der &#246;ffentlichen
+Rechnungslegung dar. Sie zielt auf die vergangenheitsorientierte Kontrolle der Verwendung 
+der &#246;ffentlichen Mittel ab. Weitere Zwecke sind fi nanzielle Stabilit&#228;t,
+Generationengerechtigkeit sowie Vergleichbarkeit. Um dies alles zu erf&#252;llen, muss das 
+&#246;ffentliche Rechnungswesen den Grunds&#228;tzen der Verl&#228;sslichkeit und der
+Objektivierung40 sowie dem Vorsichtsprinzip folgen. 
+6.3 Kapitalmarktorientierte Rechnungslegung
+Demgegen&#252;ber verfolgen die IFRS und damit auch die IPSAS grundlegend
+andere Erkenntnisziele. Ihr kapitalmarktorientierter Ansatz zielt darauf ab, die
+tats&#228;chliche Verm&#246;gens-, Finanz- und Ertragslage eines Unternehmens abzubilden 
+(&#8222;true and fair view&#8220;), um Investoren mit entscheidungsn&#252;tzlichen Informationen 
+39 Vgl. Gr&#246;pl, Christoph, a.a.O., S. 259 ff.
+40  Aus dem Grundsatz der Objektivierung folgt, dass Wahlrechte auf Ausnahmef&#228;lle zu beschr&#228;nken und 
+Ermessensspielr&#228;ume weitestgehend zu begrenzen sind.
+zu versorgen (&#8222;decision usefulness&#8220;). Die Betrachtung ist damit st&#228;rker auf die 
+Gegenwart und Zukunft ausgerichtet. Demokratische Legitimation spielt
+naturgem&#228;&#223; keine Rolle.
+Das IPSAS-Rahmenwerk nennt als Rechnungslegungszwecke die Rechenschaft 
+und die Entscheidungsn&#252;tzlichkeit nebeneinander. Auch wegen dieses
+Zielkonfl ikts haben das Vorsichtsprinzip und der Grundsatz der Objektivierung hier eine 
+geringere Bedeutung. Dies kommt auch in einer Reihe von Wahlrechten und
+Ermessensspielr&#228;umen zum Ausdruck.
+In der Arbeitsgruppe bestand das BMF darauf, f&#252;r die EPSAS eine
+Hierarchisierung der Bilanzierungsgrunds&#228;tze vorzunehmen, um die besondere Bedeutung 
+der Grunds&#228;tze Verl&#228;sslichkeit, Objektivierung und Vorsicht herauszustellen. 
+Eurostat und die Interessenvertreter der Wirtschaftspr&#252;fungsgesellschaften in 
+der Arbeitsgruppe haben sich im Sinne einer m&#246;glichst starken Anlehnung an das 
+IPSAS-Rahmenwerk gegen diese Forderung ausgesprochen.
+7 Transparenz und Vergleichbarkeit
+7.1 Voraussetzungen
+Voraussetzung f&#252;r qualitativ hochwertige, verl&#228;ssliche und vergleichbare
+Haushaltsdaten ist ein &#246;ffentliches Rechnungswesen, das m&#246;glichst keine Wahl- und 
+Gestaltungsm&#246;glichkeiten oder Ermessensspielr&#228;ume einr&#228;umt. Die
+nachfolgenden Ausf&#252;hrungen zu den Themenfeldern Steuern und Pensionsverpfl ichtungen 
+beleuchten beispielhaft die m&#246;glichen Konsequenzen einer Einf&#252;hrung von 
+EPSAS.
+7.2 Themenfeld Steuern
+7.2.1  Methoden f&#252;r die Ber&#252;cksichtigung von 
+Steuereinnahmen
+F&#252;r die Sitzung der Arbeitsgruppe im Juli 2016 bereitete E&amp;Y ein Themenpapier41 
+zur Bilanzierung von Steuern vor, insbesondere der Einkommensteuer und der 
+Umsatzsteuer. Etwa die H&#228;lfte aller Steuereinnahmen in der Europ&#228;ischen Union 
+entfallen auf diese beiden Steuerarten. Das Themenpapier erl&#228;utert, wie
+Einnahmen aus diesen Steuerarten nach dem ESVG und den IPSAS zu erfassen sind. 
+Das ESVG gestattet den Mitgliedstaaten, Einnahmen aus den beiden Steuerarten 
+anhand von zwei Methoden zu ber&#252;cksichtigen. Diese beziehen sich auf zwei
+unterschiedliche Zeitpunkte:
+41 E&amp;Y: EPSAS issue paper on the accounting treatment of taxes, EPSAS WG 16/07 vom 30. Juni 2016.
+ &#61607; Methode 1
+Die Steuereinnahmen werden auf der Grundlage der Steuererkl&#228;rung (&#8222;tax 
+declaration approach&#8220;) oder des Steuerbescheids (&#8222;tax assessment approach&#8220;) 
+ber&#252;cksichtigt. Hierbei sind jedoch Abschl&#228;ge vorzunehmen, da nicht davon 
+auszugehen ist, dass die erkl&#228;rten bzw. festgesetzten Steuern vollst&#228;ndig 
+eingenommen werden k&#246;nnen.
+ &#61607; Methode 2
+Die Steuereinnahmen werden beim Zahlungseingang (&#8222;time-adjusted cash 
+method&#8220;) ber&#252;cksichtigt. Hier sind gegebenenfalls Anpassungen vorzunehmen, 
+wenn Zahlungseing&#228;nge wirtschaftlich einer anderen Periode zuzuordnen sind.
+Die IPSAS sehen vor, dass eine (Steuer-)Forderung bereits dann ber&#252;cksichtigt 
+werden soll, wenn der k&#252;nftige Zahlungseingang wahrscheinlich und verl&#228;sslich 
+abzusch&#228;tzen ist. Dieser Ansatz l&#228;sst die Methoden 1 und 2 damit zwar zu, er 
+zielt jedoch vielmehr auf einen fr&#252;heren Zeitpunkt ab, n&#228;mlich den Eintritt42 des 
+zu besteuernden Ereignisses. Er w&#252;rde den Mitgliedstaaten damit eine
+zus&#228;tzliche, dritte Methode f&#252;r die Ber&#252;cksichtigung von Steuereinnahmen er&#246;ffnen:
+ &#61607; Methode 3
+Die Steuereinnahmen werden mit dem Eintritt des zu besteuernden Ereignisses 
+ber&#252;cksichtigt. Weil zu diesem Zeitpunkt weder eine Steuererkl&#228;rung noch ein 
+Steuerbescheid vorliegt und die Zahlung nicht eingegangen ist, sind die
+Steuereinnahmen zu sch&#228;tzen, z. B. mithilfe eines statistischen Modells (&#8222;statistical 
+model approach&#8220;). Abweichungen zwischen dem gesch&#228;tzten und dem
+tats&#228;chlich erzielten Steueraufkommen sind in Folgeperioden als Verlust oder Ertrag 
+zu realisieren.
+7.2.2 M&#246;gliche Konsequenzen
+Wenn die EPSAS in Anlehnung an die IPSAS eingef&#252;hrt werden, ergeben sich f&#252;r 
+die Mitgliedstaaten bei der Ber&#252;cksichtigung von Steuereinnahmen im Ergebnis 
+zus&#228;tzliche Wahlrechte. Dar&#252;ber hinaus er&#246;ffnen sich auch Ermessensspielr&#228;ume, 
+weil Sch&#228;tzverfahren regelm&#228;&#223;ig auf Annahmen beruhen und die Mitgliedstaaten 
+einzelne Parameter ihrer Sch&#228;tzung bei entsprechender Begr&#252;ndung selbst
+festlegen k&#246;nnen.
+Aus Sicht von E&amp;Y regeln die IPSAS dieses Themenfeld nicht detailliert genug. Es 
+sei daher zu pr&#252;fen, inwieweit handhabbare Anwendungsvorschriften entwickelt 
+werden k&#246;nnen, oder ob lediglich allgemeine Grunds&#228;tze f&#252;r die Ber&#252;cksichtigung 
+von Steuereinnahmen vorgegeben werden sollten. E&amp;Y wies zudem darauf hin, 
+dass sich die Methoden und die statistischen Modelle angesichts der
+unterschiedlichen Steuersysteme in der Europ&#228;ischen Union m&#246;glicherweise je nach
+Mitgliedstaat unterscheiden m&#252;ssten. 
+42 Gemeint ist hier der Zeitpunkt der Einkommens- bzw. Umsatzerzielung.
+Daneben erkl&#228;rte E&amp;Y auch den Zusammenhang zwischen Zeitpunkt der
+Ber&#252;cksichtigung von Steuereinnahmen und Verl&#228;sslichkeit der Sch&#228;tzung. Danach
+gelte: Je fr&#252;her die Steuereinnahmen ber&#252;cksichtigt werden, desto gr&#246;&#223;er die
+Unsicherheit. Die anhand der Methode 3 ermittelten Daten unterliegen damit im 
+Vergleich zu den anderen beiden Methoden der h&#246;chsten Unsicherheit.43
+Das BMF wies darauf hin, dass Methode 3 zus&#228;tzlich Gestaltungsm&#246;glichkeiten 
+(&#8222;window dressing&#8220;) er&#246;ffne. Bereits jetzt sei zudem erkennbar, dass die
+Einf&#252;hrung von EPSAS mit einem erheblichen personellen und fi nanziellen Aufwand 
+verbunden sei. So m&#252;ssten umfangreiche Anwendungsvorschriften erarbeitet 
+werden, um ein einheitliches und ordnungsgem&#228;&#223;es Vorgehen in den
+Mitgliedstaaten sicherzustellen. Das Themenpapier behandle lediglich zwei Steuerarten. 
+Allein in Deutschland gebe es etwa 40 unterschiedliche Steuerarten.
+7.3 Themenfeld Pensionsverpfl ichtungen
+7.3.1 Ausgangssituation in den Mitgliedstaaten 
+Die Ber&#252;cksichtigung von Pensionsverpfl ichtungen war Gegenstand eines
+weiteren Themenpapiers44 von E&amp;Y und wurde in der Sitzung der Arbeitsgruppe im
+November 2016 behandelt. In dem Themenpapier verweist E&amp;Y auf eine Studie von 
+PwC aus dem Jahr 2014, nach der die Mitgliedstaaten Pensionsverpfl ichtungen 
+regelm&#228;&#223;ig nicht in ihrer Jahresrechnung oder Bilanz ausweisen. Die Mehrzahl 
+der Mitgliedstaaten ber&#252;cksichtige Sozialleistungen generell erst bei der Zahlung.
+Deutschland weist Pensionsverpfl ichtungen auf Bundesebene in der
+Verm&#246;gensrechnung aus. Sie werden auf der Grundlage eines
+versicherungsmathematischen Verfahrens berechnet. Demgegen&#252;ber werden Pensionsverpfl ichtungen 
+z. B. in Finnland oder in Frankreich auf zentralstaatlicher Ebene lediglich im
+Anhang erfasst. In den Sitzungen der Arbeitsgruppe haben Vertreter Frankreichs 
+wiederholt daf&#252;r pl&#228;diert, den Mitgliedstaaten auch in dieser Frage Wahlrechte 
+einzur&#228;umen.
+E&amp;Y h&#228;lt es f&#252;r unwahrscheinlich, dass unter IPSAS nur ein Verfahren auf alle 
+in den Mitgliedstaaten vorhandenen Sozialleistungen angewendet werden kann. 
+In der Sitzung der Arbeitsgruppe hat E&amp;Y daher hervorgehoben, wie wichtig es 
+sei, dass die Mitgliedstaaten die Pensionsverpfl ichtungen jeweils f&#252;r sich mithilfe 
+einer konsistenten Bewertungsmethode ermitteln und aussagekr&#228;ftige
+Informationen zu den dabei getroffenen Annahmen in den Anhang aufnehmen, z. B. auch 
+zu dem verwendeten Abzinsungssatz.
+43 Siehe Anlage 5.
+44  E&amp;Y: EPSAS issue paper on the accounting treatment of social benefi ts, EPSAS WG 16/14 vom 
+8. November 2016.
+Drucksache 19/60 Deutscher Bundestag &#8211; 19. Wahlperiode&#8211; 16 &#8211;
+ &#61607; Methode 1
+Die Steuereinnahmen werden auf der Grundlage der Steuererkl&#228;rung (&#8222;tax 
+declaration approach&#8220;) oder des Steuerbescheids (&#8222;tax assessment approach&#8220;) 
+ber&#252;cksichtigt. Hierbei sind jedoch Abschl&#228;ge vorzunehmen, da nicht davon 
+auszugehen ist, dass die erkl&#228;rten bzw. festgesetzten Steuern vollst&#228;ndig 
+eingenommen werden k&#246;nnen.
+ &#61607; Methode 2
+Die Steuereinnahmen werden beim Zahlungseingang (&#8222;time-adjusted cash 
+method&#8220;) ber&#252;cksichtigt. Hier sind gegebenenfalls Anpassungen vorzunehmen, 
+wenn Zahlungseing&#228;nge wirtschaftlich einer anderen Periode zuzuordnen sind.
+Die IPSAS sehen vor, dass eine (Steuer-)Forderung bereits dann ber&#252;cksichtigt 
+werden soll, wenn der k&#252;nftige Zahlungseingang wahrscheinlich und verl&#228;sslich 
+abzusch&#228;tzen ist. Dieser Ansatz l&#228;sst die Methoden 1 und 2 damit zwar zu, er 
+zielt jedoch vielmehr auf einen fr&#252;heren Zeitpunkt ab, n&#228;mlich den Eintritt42 des 
+zu besteuernden Ereignisses. Er w&#252;rde den Mitgliedstaaten damit eine
+zus&#228;tzliche, dritte Methode f&#252;r die Ber&#252;cksichtigung von Steuereinnahmen er&#246;ffnen:
+ &#61607; Methode 3
+Die Steuereinnahmen werden mit dem Eintritt des zu besteuernden Ereignisses 
+ber&#252;cksichtigt. Weil zu diesem Zeitpunkt weder eine Steuererkl&#228;rung noch ein 
+Steuerbescheid vorliegt und die Zahlung nicht eingegangen ist, sind die
+Steuereinnahmen zu sch&#228;tzen, z. B. mithilfe eines statistischen Modells (&#8222;statistical 
+model approach&#8220;). Abweichungen zwischen dem gesch&#228;tzten und dem
+tats&#228;chlich erzielten Steueraufkommen sind in Folgeperioden als Verlust oder Ertrag 
+zu realisieren.
+7.2.2 M&#246;gliche Konsequenzen
+Wenn die EPSAS in Anlehnung an die IPSAS eingef&#252;hrt werden, ergeben sich f&#252;r 
+die Mitgliedstaaten bei der Ber&#252;cksichtigung von Steuereinnahmen im Ergebnis 
+zus&#228;tzliche Wahlrechte. Dar&#252;ber hinaus er&#246;ffnen sich auch Ermessensspielr&#228;ume, 
+weil Sch&#228;tzverfahren regelm&#228;&#223;ig auf Annahmen beruhen und die Mitgliedstaaten 
+einzelne Parameter ihrer Sch&#228;tzung bei entsprechender Begr&#252;ndung selbst
+festlegen k&#246;nnen.
+Aus Sicht von E&amp;Y regeln die IPSAS dieses Themenfeld nicht detailliert genug. Es 
+sei daher zu pr&#252;fen, inwieweit handhabbare Anwendungsvorschriften entwickelt 
+werden k&#246;nnen, oder ob lediglich allgemeine Grunds&#228;tze f&#252;r die Ber&#252;cksichtigung 
+von Steuereinnahmen vorgegeben werden sollten. E&amp;Y wies zudem darauf hin, 
+dass sich die Methoden und die statistischen Modelle angesichts der
+unterschiedlichen Steuersysteme in der Europ&#228;ischen Union m&#246;glicherweise je nach
+Mitgliedstaat unterscheiden m&#252;ssten. 
+42 Gemeint ist hier der Zeitpunkt der Einkommens- bzw. Umsatzerzielung.
+Daneben erkl&#228;rte E&amp;Y auch den Zusammenhang zwischen Zeitpunkt der
+Ber&#252;cksichtigung von Steuereinnahmen und Verl&#228;sslichkeit der Sch&#228;tzung. Danach
+gelte: Je fr&#252;her die Steuereinnahmen ber&#252;cksichtigt werden, desto gr&#246;&#223;er die
+Unsicherheit. Die anhand der Methode 3 ermittelten Daten unterliegen damit im 
+Vergleich zu den anderen beiden Methoden der h&#246;chsten Unsicherheit.43
+Das BMF wies darauf hin, dass Methode 3 zus&#228;tzlich Gestaltungsm&#246;glichkeiten 
+(&#8222;window dressing&#8220;) er&#246;ffne. Bereits jetzt sei zudem erkennbar, dass die
+Einf&#252;hrung von EPSAS mit einem erheblichen personellen und fi nanziellen Aufwand 
+verbunden sei. So m&#252;ssten umfangreiche Anwendungsvorschriften erarbeitet 
+werden, um ein einheitliches und ordnungsgem&#228;&#223;es Vorgehen in den
+Mitgliedstaaten sicherzustellen. Das Themenpapier behandle lediglich zwei Steuerarten. 
+Allein in Deutschland gebe es etwa 40 unterschiedliche Steuerarten.
+7.3 Themenfeld Pensionsverpfl ichtungen
+7.3.1 Ausgangssituation in den Mitgliedstaaten 
+Die Ber&#252;cksichtigung von Pensionsverpfl ichtungen war Gegenstand eines
+weiteren Themenpapiers44 von E&amp;Y und wurde in der Sitzung der Arbeitsgruppe im
+November 2016 behandelt. In dem Themenpapier verweist E&amp;Y auf eine Studie von 
+PwC aus dem Jahr 2014, nach der die Mitgliedstaaten Pensionsverpfl ichtungen 
+regelm&#228;&#223;ig nicht in ihrer Jahresrechnung oder Bilanz ausweisen. Die Mehrzahl 
+der Mitgliedstaaten ber&#252;cksichtige Sozialleistungen generell erst bei der Zahlung.
+Deutschland weist Pensionsverpfl ichtungen auf Bundesebene in der
+Verm&#246;gensrechnung aus. Sie werden auf der Grundlage eines
+versicherungsmathematischen Verfahrens berechnet. Demgegen&#252;ber werden Pensionsverpfl ichtungen 
+z. B. in Finnland oder in Frankreich auf zentralstaatlicher Ebene lediglich im
+Anhang erfasst. In den Sitzungen der Arbeitsgruppe haben Vertreter Frankreichs 
+wiederholt daf&#252;r pl&#228;diert, den Mitgliedstaaten auch in dieser Frage Wahlrechte 
+einzur&#228;umen.
+E&amp;Y h&#228;lt es f&#252;r unwahrscheinlich, dass unter IPSAS nur ein Verfahren auf alle 
+in den Mitgliedstaaten vorhandenen Sozialleistungen angewendet werden kann. 
+In der Sitzung der Arbeitsgruppe hat E&amp;Y daher hervorgehoben, wie wichtig es 
+sei, dass die Mitgliedstaaten die Pensionsverpfl ichtungen jeweils f&#252;r sich mithilfe 
+einer konsistenten Bewertungsmethode ermitteln und aussagekr&#228;ftige
+Informationen zu den dabei getroffenen Annahmen in den Anhang aufnehmen, z. B. auch 
+zu dem verwendeten Abzinsungssatz.
+43 Siehe Anlage 5.
+44  E&amp;Y: EPSAS issue paper on the accounting treatment of social benefi ts, EPSAS WG 16/14 vom 
+8. November 2016.
+7.3.2 Wahl des Abzinsungssatzes
+In Deutschland m&#252;ssen &#246;ffentliche Einheiten, die nach doppischen Grunds&#228;tzen 
+Rechnung legen, Pensionsverpfl ichtungen als R&#252;ckstellungen in der Bilanz
+ausweisen. Pensionsverpfl ichtungen l&#246;sen regelm&#228;&#223;ig in der Zukunft liegende
+Zahlungen aus. Diese fl ie&#223;en mit ihrem Gegenwartswert (Barwert) als Schuldposten 
+in die staatliche Bilanz ein. Hierzu werden die k&#252;nftig wahrscheinlich zu
+leistenden Zahlungen auf den Bilanzstichtag abgezinst und addiert. 
+Dabei gilt: Je h&#246;her der Abzinsungssatz ist, desto niedriger ist der
+Gegenwartswert der Pensionsverpfl ichtungen, und umgekehrt. Die Standards staatlicher 
+Doppik (SsD) und das Handelsgesetzbuch (HGB) sehen vor, dass der
+Abzinsungssatz anhand eines durchschnittlichen Marktzinssatzes &#252;ber einen
+Betrachtungszeitraum von sieben bzw. mindestens zehn Jahren ermittelt wird.
+Weil Pensionsverpfl ichtungen in der Regel einen erheblichen Schuldposten in der 
+Bilanz ausmachen, k&#246;nnen bereits geringe &#196;nderungen des Abzinsungssatzes 
+enorme Auswirkungen auf die Darstellung der Verm&#246;gens- und Ertragslage
+haben. Die sich daraus ergebenden Ergebniseffekte k&#246;nnen politische
+Entscheidungen in so eklatanter Weise &#252;berlagern, dass aus ihnen das Risiko einer
+Fehlsteuerung erw&#228;chst.
+Wird der Abzinsungssatz &#8211; wie nach den IPSAS vorgesehen45 &#8211; anhand eines 
+marktnahen (variablen) Zinssatzes bestimmt, so kann dies dazu f&#252;hren, dass der 
+Staat prozyklisch agieren muss. Dies w&#228;re z. B. dann der Fall, wenn der
+Marktzins in einer Phase des konjunkturellen Abschwungs sinkt. Dann w&#252;rde der
+Barwert der Pensionsverpfl ichtungen steigen und der Staat m&#252;sste zus&#228;tzliche 
+R&#252;ckstellungen bilden. Politische Entscheidungstr&#228;ger k&#246;nnten dadurch
+gezwungen sein, in den Abschwung hinein Steuereinnahmen zu erh&#246;hen oder Ausgaben 
+zu k&#252;rzen. Beide Ma&#223;nahmen w&#252;rden die Konjunktur zus&#228;tzlich belasten. 
+Vor diesem Hintergrund empfehlen die Rechnungsh&#246;fe des Bundes und der
+L&#228;nder, f&#252;r die Bewertung von Pensionsverpfl ichtungen einen festen Abzinsungssatz 
+heranzuziehen, der einheitlich vorzugeben ist.46 
+7.3.3 Beispiele Hessen und Hamburg
+Das Land Hessen hat sein &#246;ffentliches Rechnungswesen zum Jahresbeginn 2009 
+auf die Doppik umgestellt und legt seitdem nach den Grunds&#228;tzen
+ordnungsgem&#228;&#223;er Buchf&#252;hrung (GoB) in sinngem&#228;&#223;er Anwendung der Vorschriften des 
+HGB Rechnung. Zum 31. Dezember 2015 weist die Bilanz Hessens
+R&#252;ckstellungen f&#252;r Pensionsverpfl ichtungen (Pensionsr&#252;ckstellungen) von 76,1 Mrd. Euro47 
+45  Vgl. E&amp;Y: Vergleich der IPSAS mit den Standards staatlicher Doppik, Forschungsvorhaben im 
+Auftrag des BMF vom 31. M&#228;rz 2016.
+46  Vgl. Positionspapier der Rechnungsh&#246;fe des Bundes und der L&#228;nder zur Abzinsung der R&#252;ckstellungen 
+f&#252;r Pensions- und Beihilfeverpfl ichtungen in der staatlichen Haushaltswirtschaft vom 22. Juni 2017.
+47 Hier einschlie&#223;lich der R&#252;ckstellungen f&#252;r Beihilfen.
+aus. F&#252;r die Bewertung der Pensionsverpfl ichtungen hat Hessen einen
+Abzinsungssatz von 2,65 % angewendet. Nach den SsD l&#228;ge der Zinssatz bei etwa 
+2,2 %, nach dem HGB bei etwa 2,9 %. Hessen weist darauf hin, dass es bei einer 
+Anwendung des niedrigeren Zinssatzes weitere R&#252;ckstellungen von 4,4 Mrd. Euro 
+bilden m&#252;sste, bei einer Anwendung des h&#246;heren Zinssatzes hingegen
+R&#252;ckstellungen von 2,2 Mrd. Euro aufl &#246;sen k&#246;nnte.48
+Die Freie und Hansestadt Hamburg hat ihr &#246;ffentliches Rechnungswesen auf die 
+Doppik umgestellt und f&#252;r das Jahr 2015 erstmalig einen Jahresabschluss aus dem 
+doppischen System heraus aufgestellt. Zum 31. Dezember 2015 weist die Bilanz 
+f&#252;r die Kernverwaltung Hamburgs Pensionsr&#252;ckstellungen von 23,1 Mrd. Euro aus. 
+Hamburg hat sich dabei entschieden, die Pensionsverpfl ichtungen mit einem
+Zinssatz von 6 % abzuzinsen. Damit habe man &#8211; so Hamburg &#8211; bewusst auf die
+Anwendung des nach den SsD vorgegebenen Abzinsungssatzes verzichtet. Hamburg 
+erkl&#228;rt, dass es die Pensionsr&#252;ckstellungen bei einem Abzinsungssatz von 3 % um 
+etwa die H&#228;lfte &#8211; also um 11,7 Mrd. Euro &#8211; auf 34,8 Mrd. Euro erh&#246;hen m&#252;sste.49
+8 Konsequenzen f&#252;r Deutschland
+8.1 Ausgangssituation
+Bund, L&#228;nder, Gemeinden und Sozialversicherungen50 in Deutschland nutzen
+sowohl kamerale als auch doppische Systeme und legen unterschiedlich Rechnung. 
+W&#228;hrend der Bund und die meisten L&#228;nder51 kameral buchen und Rechnung
+legen, haben die Gemeinden mehrheitlich auf die Doppik umgestellt. Bei den
+Sozialversicherungen ist das Bild heterogen. Die Gebietsk&#246;rperschaften mit doppischer 
+Rechnungslegung orientieren sich am HGB, den GoB oder den SsD. W&#252;rden die 
+EPSAS verbindlich eingef&#252;hrt, so w&#228;ren hiervon in Deutschland auf allen
+staatlichen Ebenen insgesamt 19 000 &#246;ffentliche Einheiten betroffen. 
+8.2 Parallelsystem oder Doppik 
+Die Bundesregierung soll gem&#228;&#223; der Aufforderung von Bundestag und Bundesrat 
+sicherstellen, dass sich die Gebietsk&#246;rperschaften der Mitgliedstaaten weiterhin 
+frei zwischen doppischen und kameralen Systemen entscheiden k&#246;nnen. Der 
+Bundestag hat zudem signalisiert, dass die Einf&#252;hrung von EPSAS die Aufstellung, 
+den Inhalt und die Ausf&#252;hrung der Haushaltspl&#228;ne in den Mitgliedstaaten nicht 
+ber&#252;hren soll.52 
+48 Vgl. Gesch&#228;ftsbericht des Landes Hessen f&#252;r das Jahr 2015, S. 65 ff.
+49 Vgl. Gesch&#228;ftsbericht der Freien und Hansestadt Hamburg f&#252;r das Jahr 2015, S. 47 f.
+50  Das Sozialversicherungssystem umfasst die gesetzliche Rentenversicherung, Unfallversicherung, 
+Krankenversicherung, Pfl egeversicherung und Arbeitslosenversicherung.
+51  Hamburg und Hessen haben vollst&#228;ndig auf Doppik umgestellt. Bremen und Nordrhein&#8211;Westfalen 
+befi nden sich in einem Reformprozess hin zur Doppik.
+52 Vgl. Bundestagsdrucksache 17/14148 vom 26. Juni 2013.
+Drucksache 19/60 Deutscher Bundestag &#8211; 19. Wahlperiode&#8211; 18 &#8211;
+7.3.2 Wahl des Abzinsungssatzes
+In Deutschland m&#252;ssen &#246;ffentliche Einheiten, die nach doppischen Grunds&#228;tzen 
+Rechnung legen, Pensionsverpfl ichtungen als R&#252;ckstellungen in der Bilanz
+ausweisen. Pensionsverpfl ichtungen l&#246;sen regelm&#228;&#223;ig in der Zukunft liegende
+Zahlungen aus. Diese fl ie&#223;en mit ihrem Gegenwartswert (Barwert) als Schuldposten 
+in die staatliche Bilanz ein. Hierzu werden die k&#252;nftig wahrscheinlich zu
+leistenden Zahlungen auf den Bilanzstichtag abgezinst und addiert. 
+Dabei gilt: Je h&#246;her der Abzinsungssatz ist, desto niedriger ist der
+Gegenwartswert der Pensionsverpfl ichtungen, und umgekehrt. Die Standards staatlicher 
+Doppik (SsD) und das Handelsgesetzbuch (HGB) sehen vor, dass der
+Abzinsungssatz anhand eines durchschnittlichen Marktzinssatzes &#252;ber einen
+Betrachtungszeitraum von sieben bzw. mindestens zehn Jahren ermittelt wird.
+Weil Pensionsverpfl ichtungen in der Regel einen erheblichen Schuldposten in der 
+Bilanz ausmachen, k&#246;nnen bereits geringe &#196;nderungen des Abzinsungssatzes 
+enorme Auswirkungen auf die Darstellung der Verm&#246;gens- und Ertragslage
+haben. Die sich daraus ergebenden Ergebniseffekte k&#246;nnen politische
+Entscheidungen in so eklatanter Weise &#252;berlagern, dass aus ihnen das Risiko einer
+Fehlsteuerung erw&#228;chst.
+Wird der Abzinsungssatz &#8211; wie nach den IPSAS vorgesehen45 &#8211; anhand eines 
+marktnahen (variablen) Zinssatzes bestimmt, so kann dies dazu f&#252;hren, dass der 
+Staat prozyklisch agieren muss. Dies w&#228;re z. B. dann der Fall, wenn der
+Marktzins in einer Phase des konjunkturellen Abschwungs sinkt. Dann w&#252;rde der
+Barwert der Pensionsverpfl ichtungen steigen und der Staat m&#252;sste zus&#228;tzliche 
+R&#252;ckstellungen bilden. Politische Entscheidungstr&#228;ger k&#246;nnten dadurch
+gezwungen sein, in den Abschwung hinein Steuereinnahmen zu erh&#246;hen oder Ausgaben 
+zu k&#252;rzen. Beide Ma&#223;nahmen w&#252;rden die Konjunktur zus&#228;tzlich belasten. 
+Vor diesem Hintergrund empfehlen die Rechnungsh&#246;fe des Bundes und der
+L&#228;nder, f&#252;r die Bewertung von Pensionsverpfl ichtungen einen festen Abzinsungssatz 
+heranzuziehen, der einheitlich vorzugeben ist.46 
+7.3.3 Beispiele Hessen und Hamburg
+Das Land Hessen hat sein &#246;ffentliches Rechnungswesen zum Jahresbeginn 2009 
+auf die Doppik umgestellt und legt seitdem nach den Grunds&#228;tzen
+ordnungsgem&#228;&#223;er Buchf&#252;hrung (GoB) in sinngem&#228;&#223;er Anwendung der Vorschriften des 
+HGB Rechnung. Zum 31. Dezember 2015 weist die Bilanz Hessens
+R&#252;ckstellungen f&#252;r Pensionsverpfl ichtungen (Pensionsr&#252;ckstellungen) von 76,1 Mrd. Euro47 
+45  Vgl. E&amp;Y: Vergleich der IPSAS mit den Standards staatlicher Doppik, Forschungsvorhaben im 
+Auftrag des BMF vom 31. M&#228;rz 2016.
+46  Vgl. Positionspapier der Rechnungsh&#246;fe des Bundes und der L&#228;nder zur Abzinsung der R&#252;ckstellungen 
+f&#252;r Pensions- und Beihilfeverpfl ichtungen in der staatlichen Haushaltswirtschaft vom 22. Juni 2017.
+47 Hier einschlie&#223;lich der R&#252;ckstellungen f&#252;r Beihilfen.
+aus. F&#252;r die Bewertung der Pensionsverpfl ichtungen hat Hessen einen
+Abzinsungssatz von 2,65 % angewendet. Nach den SsD l&#228;ge der Zinssatz bei etwa 
+2,2 %, nach dem HGB bei etwa 2,9 %. Hessen weist darauf hin, dass es bei einer 
+Anwendung des niedrigeren Zinssatzes weitere R&#252;ckstellungen von 4,4 Mrd. Euro 
+bilden m&#252;sste, bei einer Anwendung des h&#246;heren Zinssatzes hingegen
+R&#252;ckstellungen von 2,2 Mrd. Euro aufl &#246;sen k&#246;nnte.48
+Die Freie und Hansestadt Hamburg hat ihr &#246;ffentliches Rechnungswesen auf die 
+Doppik umgestellt und f&#252;r das Jahr 2015 erstmalig einen Jahresabschluss aus dem 
+doppischen System heraus aufgestellt. Zum 31. Dezember 2015 weist die Bilanz 
+f&#252;r die Kernverwaltung Hamburgs Pensionsr&#252;ckstellungen von 23,1 Mrd. Euro aus. 
+Hamburg hat sich dabei entschieden, die Pensionsverpfl ichtungen mit einem
+Zinssatz von 6 % abzuzinsen. Damit habe man &#8211; so Hamburg &#8211; bewusst auf die
+Anwendung des nach den SsD vorgegebenen Abzinsungssatzes verzichtet. Hamburg 
+erkl&#228;rt, dass es die Pensionsr&#252;ckstellungen bei einem Abzinsungssatz von 3 % um 
+etwa die H&#228;lfte &#8211; also um 11,7 Mrd. Euro &#8211; auf 34,8 Mrd. Euro erh&#246;hen m&#252;sste.49
+8 Konsequenzen f&#252;r Deutschland
+8.1 Ausgangssituation
+Bund, L&#228;nder, Gemeinden und Sozialversicherungen50 in Deutschland nutzen
+sowohl kamerale als auch doppische Systeme und legen unterschiedlich Rechnung. 
+W&#228;hrend der Bund und die meisten L&#228;nder51 kameral buchen und Rechnung
+legen, haben die Gemeinden mehrheitlich auf die Doppik umgestellt. Bei den
+Sozialversicherungen ist das Bild heterogen. Die Gebietsk&#246;rperschaften mit doppischer 
+Rechnungslegung orientieren sich am HGB, den GoB oder den SsD. W&#252;rden die 
+EPSAS verbindlich eingef&#252;hrt, so w&#228;ren hiervon in Deutschland auf allen
+staatlichen Ebenen insgesamt 19 000 &#246;ffentliche Einheiten betroffen. 
+8.2 Parallelsystem oder Doppik 
+Die Bundesregierung soll gem&#228;&#223; der Aufforderung von Bundestag und Bundesrat 
+sicherstellen, dass sich die Gebietsk&#246;rperschaften der Mitgliedstaaten weiterhin 
+frei zwischen doppischen und kameralen Systemen entscheiden k&#246;nnen. Der 
+Bundestag hat zudem signalisiert, dass die Einf&#252;hrung von EPSAS die Aufstellung, 
+den Inhalt und die Ausf&#252;hrung der Haushaltspl&#228;ne in den Mitgliedstaaten nicht 
+ber&#252;hren soll.52 
+48 Vgl. Gesch&#228;ftsbericht des Landes Hessen f&#252;r das Jahr 2015, S. 65 ff.
+49 Vgl. Gesch&#228;ftsbericht der Freien und Hansestadt Hamburg f&#252;r das Jahr 2015, S. 47 f.
+50  Das Sozialversicherungssystem umfasst die gesetzliche Rentenversicherung, Unfallversicherung, 
+Krankenversicherung, Pfl egeversicherung und Arbeitslosenversicherung.
+51  Hamburg und Hessen haben vollst&#228;ndig auf Doppik umgestellt. Bremen und Nordrhein&#8211;Westfalen 
+befi nden sich in einem Reformprozess hin zur Doppik.
+52 Vgl. Bundestagsdrucksache 17/14148 vom 26. Juni 2013.
+Eurostat hat bereits erkl&#228;rt, dass die Mitgliedstaaten ihre nationalen Systeme der 
+Haushaltsplanung, -f&#252;hrung und -rechnung weiter betreiben und EPSAS parallel 
+hierzu einf&#252;hren k&#246;nnen. Damit ist davon auszugehen, dass der Bundeshaushalt 
+auch bei einer verbindlichen Einf&#252;hrung von EPSAS weiterhin auf kameraler Basis 
+aufgestellt und ausgef&#252;hrt w&#252;rde. Wird EPSAS in den Mitgliedstaaten verbindlich 
+eingef&#252;hrt, h&#228;lt der Bundesrechnungshof daher f&#252;r den Bund eines der beiden 
+folgenden Szenarien f&#252;r wahrscheinlich:
+ &#61607; Szenario 1
+Ein EPSAS-konformer Jahresabschluss f&#252;r den Bund kann nicht auf der
+Grundlage des bestehenden kameralen Systems erstellt werden. Der Bund f&#252;hrt
+daher zus&#228;tzlich ein doppisches System ein und betreibt es dauerhaft neben dem 
+kameralen System (Parallelsystem). Dabei bleibt das kamerale System
+&#8222;f&#252;hrend&#8220;. Die unterj&#228;hrigen Gesch&#228;ftsvorf&#228;lle werden kameral gebucht und fl ie&#223;en 
+am Jahresende in eine kamerale Haushaltsrechnung ein. Um die Grundlage f&#252;r 
+eine Rechnungslegung nach EPSAS zu schaffen, werden alle Gesch&#228;ftsvorf&#228;lle 
+zus&#228;tzlich nach doppischen Grunds&#228;tzen gebucht. 
+Der Bund k&#246;nnte hierf&#252;r ein IT-System einf&#252;hren. Derzeit ist jedoch am Markt 
+kein &#8222;fertiges Produkt&#8220; verf&#252;gbar, das alle f&#252;r einen Parallelbetrieb
+erforderlichen Funktionalit&#228;ten in sich abbildet. Zumindest f&#252;r eine &#220;bergangszeit, in 
+der ein &#8222;verbundenes&#8220; IT-System zu entwickeln und einzuf&#252;hren w&#228;re,
+m&#252;ssten die f&#252;r die Rechnungslegung nach EPSAS erforderlichen Daten manuell 
+&#252;bergeleitet werden. Dies d&#252;rfte fehleranf&#228;llig und aufwendig sein. Hinzu
+k&#228;men die allgemeinen Risiken der Entwicklung und Einf&#252;hrung eines
+wahrscheinlich hochkomplexen IT-Systems. 
+Wird das &#8222;verbundene&#8220; IT-System nicht realisiert, so m&#252;sste der Bund
+dauerhaft zwei verschiedene Systeme mit einem hohen personellen und fi nanziellen 
+Aufwand nebeneinander betreiben.
+ &#61607; Szenario 2
+Der Bund stellt auf die Doppik als &#8222;f&#252;hrendes System&#8220; um und erzeugt die vom 
+Bundestag geforderten kameralen Haushaltsinformationen aus diesem System 
+heraus. Auch hierf&#252;r gibt es derzeit am Markt kein &#8222;fertiges&#8220; IT-System, das 
+beide Funktionalit&#228;ten in sich vereint. 
+Das Land Hessen erstellt z. B. neben dem doppischen Wirtschaftsplan
+erg&#228;nzend einen &#8222;rudiment&#228;ren kameralen Haushalt&#8220;. Die Daten hierf&#252;r werden aus 
+dem IT-System manuell &#252;bertragen.53
+Der Bundesrechnungshof geht davon aus, dass beim Bund das kamerale System 
+&#8222;f&#252;hrend&#8220; bleibt und die verbindliche Einf&#252;hrung von EPSAS den dauerhaften
+Betrieb eines Parallelsystems erfordern wird.
+53  Vgl. Hessisches Ministerium der Finanzen: Studie zur Umstellung eines doppischen Rechnungswesens 
+auf einheitliche europ&#228;ische Rechnungslegungsstandards, vorgestellt in der Sitzung der Arbeitsgruppe 
+am 26./27. April 2017, S. 12.
+8.3 Steuerungswirkung
+Die Forderung des Bundestages, die kamerale Haushaltsplanung, -f&#252;hrung und 
+-rechnung beizubehalten, l&#228;sst darauf schlie&#223;en, dass der Haushaltsgesetzgeber 
+sein verfassungsrechtliches Budgetrecht auch k&#252;nftig anhand der kameralen 
+Haushaltsinformationen aus&#252;ben will. Dies deckt sich auch mit den Erfahrungen 
+aus dem Land Hessen. Danach ist &#8211; mehr als acht Jahre nach der Umstellung auf 
+die Doppik &#8211; die sich in der Handhabung einfacher gestaltende und noch immer 
+gelebte kamerale Denkweise auf politischer Ebene vorherrschend.54
+Die aus der Doppik z. B. zum Ressourcenverbrauch gewonnenen Informationen 
+fl ie&#223;en damit nicht in die Planungsentscheidungen des Haushaltsgesetzgebers 
+ein. Eine verbindliche Einf&#252;hrung von EPSAS h&#228;tte f&#252;r den Bund daher keinen 
+unmittelbaren Nutzen f&#252;r seine Haushaltsentscheidungen. 
+8.4 Kosten
+Die verbindliche Einf&#252;hrung von EPSAS w&#252;rde einen erheblichen
+Anpassungsbedarf nach sich ziehen, insbesondere f&#252;r &#246;ffentliche Einheiten, die bisher kameral 
+Rechnung legen. Die Umstellung d&#252;rfte in den meisten F&#228;llen externe Beratungs- 
+und Unterst&#252;tzungsleistungen erfordern. Personal m&#252;sste geschult, IT-Systeme 
+m&#252;ssten angepasst oder erneuert werden. 
+PwC hat im Auftrag der Kommission die zu erwartenden Kosten einer Einf&#252;hrung 
+von EPSAS in den Mitgliedstaaten ermittelt. Danach sollen die Einf&#252;hrungskosten 
+f&#252;r Deutschland insgesamt bis zu 2,4 Mrd. Euro betragen. In der Studie weist 
+PwC jedoch darauf hin, dass nur in begrenztem Umfang Vergleichsdaten zu
+&#228;hnlichen Reformprojekten aus den Mitgliedstaaten zur Verf&#252;gung standen. Die Daten 
+waren zudem vielfach nicht konsistent. Es sei nicht m&#246;glich gewesen, ein
+detailliertes Kostenmodell zu entwickeln. PwC habe die Kostensch&#228;tzungen daher auf 
+eine eingeschr&#228;nkte Datengrundlage und stark vereinfachende Annahmen
+st&#252;tzen m&#252;ssen. Vor diesem Hintergrund weist PwC auch darauf hin, dass die
+tats&#228;chlichen Kosten in den Mitgliedstaaten &#8211; abh&#228;ngig von den nationalen
+Besonderheiten und Erfordernissen &#8211; deutlich von den Sch&#228;tzungen abweichen 
+k&#246;nnen,55 nach Einsch&#228;tzung des Bundesrechnungshofes nur nach oben. 
+Die Kommission hat zudem erkl&#228;rt, dass weitere Kostensch&#228;tzungen f&#252;r die 
+Einf&#252;hrung von EPSAS vorl&#228;gen. Diese lie&#223;en darauf schlie&#223;en, dass die
+Einf&#252;hrungskosten &#8211; je nach Staatsaufbau und Ausgangssituation des &#246;ffentlichen 
+Rechnungswesens &#8211; bei bis zu 0,1 % des BIP liegen k&#246;nnten. Dies entspr&#228;che f&#252;r 
+54 Vgl. Hessisches Ministerium der Finanzen, a.a.O., S. 31.
+55  Vgl. PwC: Collection of information related to the potential impact, including costs, of implementing 
+accrual accounting in the public sector and technical analysis of the suitability of individual IPSAS 
+standards vom 1. August 2014, S. 10 f.
+Drucksache 19/60 Deutscher Bundestag &#8211; 19. Wahlperiode&#8211; 20 &#8211;
+Eurostat hat bereits erkl&#228;rt, dass die Mitgliedstaaten ihre nationalen Systeme der 
+Haushaltsplanung, -f&#252;hrung und -rechnung weiter betreiben und EPSAS parallel 
+hierzu einf&#252;hren k&#246;nnen. Damit ist davon auszugehen, dass der Bundeshaushalt 
+auch bei einer verbindlichen Einf&#252;hrung von EPSAS weiterhin auf kameraler Basis 
+aufgestellt und ausgef&#252;hrt w&#252;rde. Wird EPSAS in den Mitgliedstaaten verbindlich 
+eingef&#252;hrt, h&#228;lt der Bundesrechnungshof daher f&#252;r den Bund eines der beiden 
+folgenden Szenarien f&#252;r wahrscheinlich:
+ &#61607; Szenario 1
+Ein EPSAS-konformer Jahresabschluss f&#252;r den Bund kann nicht auf der
+Grundlage des bestehenden kameralen Systems erstellt werden. Der Bund f&#252;hrt
+daher zus&#228;tzlich ein doppisches System ein und betreibt es dauerhaft neben dem 
+kameralen System (Parallelsystem). Dabei bleibt das kamerale System
+&#8222;f&#252;hrend&#8220;. Die unterj&#228;hrigen Gesch&#228;ftsvorf&#228;lle werden kameral gebucht und fl ie&#223;en 
+am Jahresende in eine kamerale Haushaltsrechnung ein. Um die Grundlage f&#252;r 
+eine Rechnungslegung nach EPSAS zu schaffen, werden alle Gesch&#228;ftsvorf&#228;lle 
+zus&#228;tzlich nach doppischen Grunds&#228;tzen gebucht. 
+Der Bund k&#246;nnte hierf&#252;r ein IT-System einf&#252;hren. Derzeit ist jedoch am Markt 
+kein &#8222;fertiges Produkt&#8220; verf&#252;gbar, das alle f&#252;r einen Parallelbetrieb
+erforderlichen Funktionalit&#228;ten in sich abbildet. Zumindest f&#252;r eine &#220;bergangszeit, in 
+der ein &#8222;verbundenes&#8220; IT-System zu entwickeln und einzuf&#252;hren w&#228;re,
+m&#252;ssten die f&#252;r die Rechnungslegung nach EPSAS erforderlichen Daten manuell 
+&#252;bergeleitet werden. Dies d&#252;rfte fehleranf&#228;llig und aufwendig sein. Hinzu
+k&#228;men die allgemeinen Risiken der Entwicklung und Einf&#252;hrung eines
+wahrscheinlich hochkomplexen IT-Systems. 
+Wird das &#8222;verbundene&#8220; IT-System nicht realisiert, so m&#252;sste der Bund
+dauerhaft zwei verschiedene Systeme mit einem hohen personellen und fi nanziellen 
+Aufwand nebeneinander betreiben.
+ &#61607; Szenario 2
+Der Bund stellt auf die Doppik als &#8222;f&#252;hrendes System&#8220; um und erzeugt die vom 
+Bundestag geforderten kameralen Haushaltsinformationen aus diesem System 
+heraus. Auch hierf&#252;r gibt es derzeit am Markt kein &#8222;fertiges&#8220; IT-System, das 
+beide Funktionalit&#228;ten in sich vereint. 
+Das Land Hessen erstellt z. B. neben dem doppischen Wirtschaftsplan
+erg&#228;nzend einen &#8222;rudiment&#228;ren kameralen Haushalt&#8220;. Die Daten hierf&#252;r werden aus 
+dem IT-System manuell &#252;bertragen.53
+Der Bundesrechnungshof geht davon aus, dass beim Bund das kamerale System 
+&#8222;f&#252;hrend&#8220; bleibt und die verbindliche Einf&#252;hrung von EPSAS den dauerhaften
+Betrieb eines Parallelsystems erfordern wird.
+53  Vgl. Hessisches Ministerium der Finanzen: Studie zur Umstellung eines doppischen Rechnungswesens 
+auf einheitliche europ&#228;ische Rechnungslegungsstandards, vorgestellt in der Sitzung der Arbeitsgruppe 
+am 26./27. April 2017, S. 12.
+8.3 Steuerungswirkung
+Die Forderung des Bundestages, die kamerale Haushaltsplanung, -f&#252;hrung und 
+-rechnung beizubehalten, l&#228;sst darauf schlie&#223;en, dass der Haushaltsgesetzgeber 
+sein verfassungsrechtliches Budgetrecht auch k&#252;nftig anhand der kameralen 
+Haushaltsinformationen aus&#252;ben will. Dies deckt sich auch mit den Erfahrungen 
+aus dem Land Hessen. Danach ist &#8211; mehr als acht Jahre nach der Umstellung auf 
+die Doppik &#8211; die sich in der Handhabung einfacher gestaltende und noch immer 
+gelebte kamerale Denkweise auf politischer Ebene vorherrschend.54
+Die aus der Doppik z. B. zum Ressourcenverbrauch gewonnenen Informationen 
+fl ie&#223;en damit nicht in die Planungsentscheidungen des Haushaltsgesetzgebers 
+ein. Eine verbindliche Einf&#252;hrung von EPSAS h&#228;tte f&#252;r den Bund daher keinen 
+unmittelbaren Nutzen f&#252;r seine Haushaltsentscheidungen. 
+8.4 Kosten
+Die verbindliche Einf&#252;hrung von EPSAS w&#252;rde einen erheblichen
+Anpassungsbedarf nach sich ziehen, insbesondere f&#252;r &#246;ffentliche Einheiten, die bisher kameral 
+Rechnung legen. Die Umstellung d&#252;rfte in den meisten F&#228;llen externe Beratungs- 
+und Unterst&#252;tzungsleistungen erfordern. Personal m&#252;sste geschult, IT-Systeme 
+m&#252;ssten angepasst oder erneuert werden. 
+PwC hat im Auftrag der Kommission die zu erwartenden Kosten einer Einf&#252;hrung 
+von EPSAS in den Mitgliedstaaten ermittelt. Danach sollen die Einf&#252;hrungskosten 
+f&#252;r Deutschland insgesamt bis zu 2,4 Mrd. Euro betragen. In der Studie weist 
+PwC jedoch darauf hin, dass nur in begrenztem Umfang Vergleichsdaten zu
+&#228;hnlichen Reformprojekten aus den Mitgliedstaaten zur Verf&#252;gung standen. Die Daten 
+waren zudem vielfach nicht konsistent. Es sei nicht m&#246;glich gewesen, ein
+detailliertes Kostenmodell zu entwickeln. PwC habe die Kostensch&#228;tzungen daher auf 
+eine eingeschr&#228;nkte Datengrundlage und stark vereinfachende Annahmen
+st&#252;tzen m&#252;ssen. Vor diesem Hintergrund weist PwC auch darauf hin, dass die
+tats&#228;chlichen Kosten in den Mitgliedstaaten &#8211; abh&#228;ngig von den nationalen
+Besonderheiten und Erfordernissen &#8211; deutlich von den Sch&#228;tzungen abweichen 
+k&#246;nnen,55 nach Einsch&#228;tzung des Bundesrechnungshofes nur nach oben. 
+Die Kommission hat zudem erkl&#228;rt, dass weitere Kostensch&#228;tzungen f&#252;r die 
+Einf&#252;hrung von EPSAS vorl&#228;gen. Diese lie&#223;en darauf schlie&#223;en, dass die
+Einf&#252;hrungskosten &#8211; je nach Staatsaufbau und Ausgangssituation des &#246;ffentlichen 
+Rechnungswesens &#8211; bei bis zu 0,1 % des BIP liegen k&#246;nnten. Dies entspr&#228;che f&#252;r 
+54 Vgl. Hessisches Ministerium der Finanzen, a.a.O., S. 31.
+55  Vgl. PwC: Collection of information related to the potential impact, including costs, of implementing 
+accrual accounting in the public sector and technical analysis of the suitability of individual IPSAS 
+standards vom 1. August 2014, S. 10 f.
+Deutschland derzeit einem Betrag von etwa 3,1 Mrd. Euro. Dabei ber&#252;cksichtigen 
+die Sch&#228;tzungen der Kommission jedoch nicht die Investitionen in
+&#8222;F&#252;hrungspersonal, Fachwissen und Ressourcen&#8220;, die in den Mitgliedstaaten anfallen w&#252;rden.56
+Beide Kostensch&#228;tzungen sind aus den genannten Gr&#252;nden nicht belastbar. Der 
+Bundesrechnungshof geht davon aus, dass die tats&#228;chlichen Kosten der
+Einf&#252;hrung von EPSAS die genannten Sch&#228;tzungen erheblich &#252;bersteigen w&#252;rden.
+Hinzu kommt, dass die Sch&#228;tzungen die dauerhaften zus&#228;tzlichen
+Haushaltsbelastungen f&#252;r den Betrieb von Parallelsystemen nicht ber&#252;cksichtigen. 
+9 Fazit
+Nach Abw&#228;gung aller Argumente ist der Bundesrechnungshof der Auffassung, 
+dass die von der Kommission angestrebte verbindliche Einf&#252;hrung von EPSAS 
+kein geeignetes Mittel ist, die beabsichtigten Verbesserungen zu erreichen. Dies 
+betrifft insbesondere die Durchsetzung eines soliden und regelkonformen
+Haushaltsgebarens der Mitgliedstaaten mit dem Ziel, k&#252;nftige europ&#228;ische
+Staatsschuldenkrisen zu vermeiden. Die Diskussionen in der Arbeitsgruppe lassen
+zudem erkennen, dass die EPSAS den Mitgliedstaaten wegen ihrer engen 
+Anlehnung an die IPSAS zus&#228;tzliche Wahl- und Gestaltungsm&#246;glichkeiten sowie 
+Ermessensspielr&#228;ume er&#246;ffnen w&#252;rden. Das Ergebnis w&#228;re unter EPSAS damit 
+weniger Transparenz und geringere Vergleichbarkeit der &#246;ffentlichen Haushalte.
+Die Kommission hat f&#252;r das Projekt weder ein Gesamtkonzept vorgelegt noch 
+erkl&#228;rt, welche Rechtsgrundlage ihr T&#228;tigwerden st&#252;tzen soll. Sie hat zudem 
+nicht konkret dargelegt, inwieweit die von ihr angestrebten Ziele durch die 
+verbindliche Einf&#252;hrung von EPSAS tats&#228;chlich erreicht werden k&#246;nnen.
+Handlungsalternativen, mit denen die Qualit&#228;t der europ&#228;ischen Statistiken der 
+Staatsfi nanzen verbessert und damit Transparenz und Vergleichbarkeit in der 
+Finanzberichterstattung hergestellt werden k&#246;nnten, hat sie nicht untersucht. 
+Angesichts der m&#246;glichen Konsequenzen einer verbindlichen Einf&#252;hrung von 
+EPSAS und der damit verbundenen Kosten f&#252;r die Mitgliedstaaten h&#228;tte der 
+Bundesrechnungshof erwartet, dass die Kommission fr&#252;hzeitig ein
+Gesamtkonzept vorlegt und so f&#252;r Transparenz in dem Projekt sorgt.
+Die Kommission f&#246;rdert seit dem Jahr 2015 die freiwillige Umstellung auf
+doppische Systeme und die Anwendung der IPSAS, auch indem sie hierf&#252;r EU-Mittel 
+bereitstellt. Dadurch schafft sie Fakten und nimmt eine Entscheidung der
+Mitgliedstaaten praktisch vorweg. 
+In die Entscheidungsprozesse bindet Eurostat Wirtschaftspr&#252;fungsgesellschaften 
+und deren Interessenvertretungen intensiv ein. Sie sind ma&#223;gebliche Akteure 
+und nehmen erheblichen Einfl uss auf die Entwicklung von EPSAS. Dies h&#228;lt der 
+Bundesrechnungshof f&#252;r bedenklich, weil mit der Einf&#252;hrung von EPSAS auch 
+56 Vgl. Bericht der Kommission vom 6. M&#228;rz 2013, KOM(2013) 114 endg&#252;ltig.
+ein bedeutendes Aufgabenfeld f&#252;r externe Beratungs- und insbesondere f&#252;r
+Wirtschaftspr&#252;fungsgesellschaften geschaffen w&#252;rde. Zudem entsteht dadurch eine 
+zu gro&#223;e Abh&#228;ngigkeit von privaten Dritten.
+Dar&#252;ber hinaus h&#228;lt der Bundesrechnungshof die von der Kommission mit der 
+verbindlichen Einf&#252;hrung von EPSAS verfolgten Ziele f&#252;r realistisch nicht
+erreichbar und das Projekt angesichts der unterschiedlichen Verwaltungs- und
+Kontrollstrukturen in den Mitgliedstaaten auch f&#252;r nicht umsetzbar. Im Einzelnen:
+ &#61607; Mit der Einf&#252;hrung von EPSAS will die Kommission durch eine verbesserte 
+Haushalts&#252;berwachung zur Vermeidung k&#252;nftiger Staatsschuldenkrisen
+beitragen und so das Vertrauen in die Finanzstabilit&#228;t st&#228;rken. 
+Die Vergangenheit hat jedoch gezeigt, dass in der Europ&#228;ischen Union
+hinsichtlich der Haushalts&#252;berwachung kein Erkenntnisproblem besteht. Das 
+ESVG liefert die hierf&#252;r erforderlichen Informationen. Es mangelt vielmehr an 
+einer konsequenten Durchsetzung der europ&#228;ischen Fiskalregeln. Diese
+wurden wiederholt aus politischen Gr&#252;nden durch die Einf&#252;hrung bzw. Erweiterung 
+von Ermessensspielr&#228;umen aufgeweicht. Eine vermeintlich bessere
+Finanzberichterstattung wird dies nicht &#228;ndern. 
+F&#252;r die Vermeidung von Staatsschuldenkrisen ist eine solide Haushaltspolitik 
+entscheidend. Diese h&#228;ngt in erster Linie nicht davon ab, ob ein Mitgliedstaat 
+ein doppisches &#246;ffentliches Rechnungswesen unterh&#228;lt oder die EPSAS
+anwendet, sondern von den fi nanzpolitisch relevanten Entscheidungen. Die
+Einhaltung der europ&#228;ischen Fiskalregeln l&#228;sst sich nicht durch ein wie auch immer 
+geartetes Rechnungslegungssystem erzwingen. 
+Die Kommission sollte daher die Einhaltung der Haushaltsdisziplin konsequent 
+einfordern und darauf hinwirken, dass die Mitgliedstaaten ausgeglichene 
+Staatshaushalte sowie eine R&#252;ckf&#252;hrung ihrer Schuldenquoten nachhaltig
+anstreben.
+ &#61607; Nach dem Ansatz der Kommission sollen die Mitgliedstaaten ihre
+Rechnungslegung durch EPSAS auf zuverl&#228;ssigere Daten st&#252;tzen und dadurch besser
+Rechenschaft &#252;ber die Verwendung der &#246;ffentlichen Mittel ablegen k&#246;nnen.
+Zudem will die Kommission mit der Einf&#252;hrung von EPSAS die Transparenz und 
+die Vergleichbarkeit der &#246;ffentlichen Haushalte erh&#246;hen. 
+Die EPSAS zielen wegen ihrer starken Anlehnung an kapitalmarktorientierte 
+Standards auch darauf ab, Investoren mit entscheidungsn&#252;tzlichen
+Informationen zu versorgen. Sie sind damit st&#228;rker auf die Zukunft ausgerichtet. Der 
+Staat muss jedoch vergangenheitsorientiert Rechenschaft &#252;ber die
+Verwendung der &#246;ffentlichen Mittel ablegen.57 
+Die verbindliche Einf&#252;hrung von EPSAS wird nur scheinbar zuverl&#228;ssigere und 
+vergleichbarere Daten zu den &#246;ffentlichen Haushalten liefern. Um diese
+tats&#228;chlich zu erreichen, m&#252;ssten der Einfl uss von subjektiven Faktoren einge-
+57  Einige Stimmen vertreten sogar die Auffassung, dass es kein Rechnungslegungssystem geben kann, 
+das die Ziele &#246;ffentlicher und kapitalmarktorientierter Rechnungslegung zugleich erf&#252;llt. Vor diesem 
+Hintergrund lehnen sie die Einf&#252;hrung von EPSAS ab. Vgl. hierzu z. B. Gerhards, Ralf: &#214;ffentliche 
+Finanzkontrolle vor neuen Erwartungsl&#252;cken? In: Verwaltung &amp; Management, 23. Jg. (2017), Heft 1, 
+S. 41&#8211;45. 
+Drucksache 19/60 Deutscher Bundestag &#8211; 19. Wahlperiode&#8211; 22 &#8211;
+Deutschland derzeit einem Betrag von etwa 3,1 Mrd. Euro. Dabei ber&#252;cksichtigen 
+die Sch&#228;tzungen der Kommission jedoch nicht die Investitionen in
+&#8222;F&#252;hrungspersonal, Fachwissen und Ressourcen&#8220;, die in den Mitgliedstaaten anfallen w&#252;rden.56
+Beide Kostensch&#228;tzungen sind aus den genannten Gr&#252;nden nicht belastbar. Der 
+Bundesrechnungshof geht davon aus, dass die tats&#228;chlichen Kosten der
+Einf&#252;hrung von EPSAS die genannten Sch&#228;tzungen erheblich &#252;bersteigen w&#252;rden.
+Hinzu kommt, dass die Sch&#228;tzungen die dauerhaften zus&#228;tzlichen
+Haushaltsbelastungen f&#252;r den Betrieb von Parallelsystemen nicht ber&#252;cksichtigen. 
+9 Fazit
+Nach Abw&#228;gung aller Argumente ist der Bundesrechnungshof der Auffassung, 
+dass die von der Kommission angestrebte verbindliche Einf&#252;hrung von EPSAS 
+kein geeignetes Mittel ist, die beabsichtigten Verbesserungen zu erreichen. Dies 
+betrifft insbesondere die Durchsetzung eines soliden und regelkonformen
+Haushaltsgebarens der Mitgliedstaaten mit dem Ziel, k&#252;nftige europ&#228;ische
+Staatsschuldenkrisen zu vermeiden. Die Diskussionen in der Arbeitsgruppe lassen
+zudem erkennen, dass die EPSAS den Mitgliedstaaten wegen ihrer engen 
+Anlehnung an die IPSAS zus&#228;tzliche Wahl- und Gestaltungsm&#246;glichkeiten sowie 
+Ermessensspielr&#228;ume er&#246;ffnen w&#252;rden. Das Ergebnis w&#228;re unter EPSAS damit 
+weniger Transparenz und geringere Vergleichbarkeit der &#246;ffentlichen Haushalte.
+Die Kommission hat f&#252;r das Projekt weder ein Gesamtkonzept vorgelegt noch 
+erkl&#228;rt, welche Rechtsgrundlage ihr T&#228;tigwerden st&#252;tzen soll. Sie hat zudem 
+nicht konkret dargelegt, inwieweit die von ihr angestrebten Ziele durch die 
+verbindliche Einf&#252;hrung von EPSAS tats&#228;chlich erreicht werden k&#246;nnen.
+Handlungsalternativen, mit denen die Qualit&#228;t der europ&#228;ischen Statistiken der 
+Staatsfi nanzen verbessert und damit Transparenz und Vergleichbarkeit in der 
+Finanzberichterstattung hergestellt werden k&#246;nnten, hat sie nicht untersucht. 
+Angesichts der m&#246;glichen Konsequenzen einer verbindlichen Einf&#252;hrung von 
+EPSAS und der damit verbundenen Kosten f&#252;r die Mitgliedstaaten h&#228;tte der 
+Bundesrechnungshof erwartet, dass die Kommission fr&#252;hzeitig ein
+Gesamtkonzept vorlegt und so f&#252;r Transparenz in dem Projekt sorgt.
+Die Kommission f&#246;rdert seit dem Jahr 2015 die freiwillige Umstellung auf
+doppische Systeme und die Anwendung der IPSAS, auch indem sie hierf&#252;r EU-Mittel 
+bereitstellt. Dadurch schafft sie Fakten und nimmt eine Entscheidung der
+Mitgliedstaaten praktisch vorweg. 
+In die Entscheidungsprozesse bindet Eurostat Wirtschaftspr&#252;fungsgesellschaften 
+und deren Interessenvertretungen intensiv ein. Sie sind ma&#223;gebliche Akteure 
+und nehmen erheblichen Einfl uss auf die Entwicklung von EPSAS. Dies h&#228;lt der 
+Bundesrechnungshof f&#252;r bedenklich, weil mit der Einf&#252;hrung von EPSAS auch 
+56 Vgl. Bericht der Kommission vom 6. M&#228;rz 2013, KOM(2013) 114 endg&#252;ltig.
+ein bedeutendes Aufgabenfeld f&#252;r externe Beratungs- und insbesondere f&#252;r
+Wirtschaftspr&#252;fungsgesellschaften geschaffen w&#252;rde. Zudem entsteht dadurch eine 
+zu gro&#223;e Abh&#228;ngigkeit von privaten Dritten.
+Dar&#252;ber hinaus h&#228;lt der Bundesrechnungshof die von der Kommission mit der 
+verbindlichen Einf&#252;hrung von EPSAS verfolgten Ziele f&#252;r realistisch nicht
+erreichbar und das Projekt angesichts der unterschiedlichen Verwaltungs- und
+Kontrollstrukturen in den Mitgliedstaaten auch f&#252;r nicht umsetzbar. Im Einzelnen:
+ &#61607; Mit der Einf&#252;hrung von EPSAS will die Kommission durch eine verbesserte 
+Haushalts&#252;berwachung zur Vermeidung k&#252;nftiger Staatsschuldenkrisen
+beitragen und so das Vertrauen in die Finanzstabilit&#228;t st&#228;rken. 
+Die Vergangenheit hat jedoch gezeigt, dass in der Europ&#228;ischen Union
+hinsichtlich der Haushalts&#252;berwachung kein Erkenntnisproblem besteht. Das 
+ESVG liefert die hierf&#252;r erforderlichen Informationen. Es mangelt vielmehr an 
+einer konsequenten Durchsetzung der europ&#228;ischen Fiskalregeln. Diese
+wurden wiederholt aus politischen Gr&#252;nden durch die Einf&#252;hrung bzw. Erweiterung 
+von Ermessensspielr&#228;umen aufgeweicht. Eine vermeintlich bessere
+Finanzberichterstattung wird dies nicht &#228;ndern. 
+F&#252;r die Vermeidung von Staatsschuldenkrisen ist eine solide Haushaltspolitik 
+entscheidend. Diese h&#228;ngt in erster Linie nicht davon ab, ob ein Mitgliedstaat 
+ein doppisches &#246;ffentliches Rechnungswesen unterh&#228;lt oder die EPSAS
+anwendet, sondern von den fi nanzpolitisch relevanten Entscheidungen. Die
+Einhaltung der europ&#228;ischen Fiskalregeln l&#228;sst sich nicht durch ein wie auch immer 
+geartetes Rechnungslegungssystem erzwingen. 
+Die Kommission sollte daher die Einhaltung der Haushaltsdisziplin konsequent 
+einfordern und darauf hinwirken, dass die Mitgliedstaaten ausgeglichene 
+Staatshaushalte sowie eine R&#252;ckf&#252;hrung ihrer Schuldenquoten nachhaltig
+anstreben.
+ &#61607; Nach dem Ansatz der Kommission sollen die Mitgliedstaaten ihre
+Rechnungslegung durch EPSAS auf zuverl&#228;ssigere Daten st&#252;tzen und dadurch besser
+Rechenschaft &#252;ber die Verwendung der &#246;ffentlichen Mittel ablegen k&#246;nnen.
+Zudem will die Kommission mit der Einf&#252;hrung von EPSAS die Transparenz und 
+die Vergleichbarkeit der &#246;ffentlichen Haushalte erh&#246;hen. 
+Die EPSAS zielen wegen ihrer starken Anlehnung an kapitalmarktorientierte 
+Standards auch darauf ab, Investoren mit entscheidungsn&#252;tzlichen
+Informationen zu versorgen. Sie sind damit st&#228;rker auf die Zukunft ausgerichtet. Der 
+Staat muss jedoch vergangenheitsorientiert Rechenschaft &#252;ber die
+Verwendung der &#246;ffentlichen Mittel ablegen.57 
+Die verbindliche Einf&#252;hrung von EPSAS wird nur scheinbar zuverl&#228;ssigere und 
+vergleichbarere Daten zu den &#246;ffentlichen Haushalten liefern. Um diese
+tats&#228;chlich zu erreichen, m&#252;ssten der Einfl uss von subjektiven Faktoren einge-
+57  Einige Stimmen vertreten sogar die Auffassung, dass es kein Rechnungslegungssystem geben kann, 
+das die Ziele &#246;ffentlicher und kapitalmarktorientierter Rechnungslegung zugleich erf&#252;llt. Vor diesem 
+Hintergrund lehnen sie die Einf&#252;hrung von EPSAS ab. Vgl. hierzu z. B. Gerhards, Ralf: &#214;ffentliche 
+Finanzkontrolle vor neuen Erwartungsl&#252;cken? In: Verwaltung &amp; Management, 23. Jg. (2017), Heft 1, 
+S. 41&#8211;45.
+schr&#228;nkt und manipulative Eingriffe wirksam verhindert werden. Dies ist
+jedoch nicht sichergestellt. Im Gegenteil: Die in der Arbeitsgruppe behandelten 
+Themenpapiere zur Bilanzierung von Steuern und Pensionsverpfl ichtungen
+zeigen beispielhaft, dass die Einf&#252;hrung von EPSAS den Mitgliedstaaten
+zus&#228;tzliche Wahl- und Gestaltungsm&#246;glichkeiten sowie Ermessensspielr&#228;ume er&#246;ffnen 
+w&#252;rde. 
+Im &#220;brigen h&#228;lt der Bundesrechnungshof es f&#252;r nicht vertretbar, s&#228;mtlichen 
+staatlichen Ebenen die EPSAS &#252;berzust&#252;lpen, um vermeintlich etwas mehr 
+Transparenz und Vergleichbarkeit in der Finanzberichterstattung der
+Mitgliedstaaten zu erreichen. Zumal es angesichts der Dimension des Projekts nicht 
+realistisch erscheint, dass dies gelingt.
+ &#61607; Die EPSAS sollen zus&#228;tzliche Informationen zur fi nanziellen Lage der
+Mitgliedstaaten liefern und damit Entscheidungen aus Sicht der Kommission k&#252;nftig auf 
+eine bessere Grundlage stellen. 
+Die derzeitige parlamentarische Beschlusslage l&#228;sst darauf schlie&#223;en, dass der 
+deutsche Haushaltsgesetzgeber sein verfassungsrechtliches Budgetrecht auch 
+k&#252;nftig anhand der kameralen Haushaltsinformationen aus&#252;ben will. Die
+mithilfe von EPSAS m&#246;glicherweise zus&#228;tzlich vorliegenden Informationen
+entfalten damit keine verbesserte parlamentarische Steuerungswirkung. Zumindest 
+auf Bundesebene m&#252;sste im Falle einer verbindlichen Einf&#252;hrung von EPSAS 
+das kamerale System beibehalten und daneben ein doppisches System
+eingef&#252;hrt werden. F&#252;r Deutschland bedeutet die verbindliche Einf&#252;hrung von EPSAS 
+daher hohe Kosten, denen faktisch kein Nutzen gegen&#252;bersteht. Die
+m&#246;glicherweise erforderliche Einf&#252;hrung eines noch zu entwickelnden IT-Systems 
+k&#246;nnte zudem erhebliche Risiken bergen. 
+Mit Blick auf das in Deutschland bestehende f&#246;derale Haushaltssystem sowie 
+die verfassungsrechtlich garantierte Selbstst&#228;ndigkeit und Unabh&#228;ngigkeit der 
+Haushaltswirtschaft der Gebietsk&#246;rperschaften rechnet der
+Bundesrechnungshof damit, dass die Einf&#252;hrungskosten insgesamt bei mehr als 3 Mrd. Euro
+liegen werden. Hinzu kommen dauerhaft zus&#228;tzliche Haushaltsbelastungen f&#252;r 
+den Betrieb von Parallelsystemen.
+Die Bundesregierung sollte auf europ&#228;ischer Ebene ihr politisches Gewicht
+einbringen und die verbindliche Einf&#252;hrung von EPSAS in Deutschland verhindern. 
+Zudem sollte sie darauf hinwirken, dass die Kommission Alternativen pr&#252;ft, mit 
+denen &#8211; soweit erforderlich &#8211; die Transparenz und die Vergleichbarkeit der 
+Finanzberichterstattung verbessert werden k&#246;nnen. Dabei sind jedoch die
+Unterschiede in den Verwaltungs- und Kontrollstrukturen der Mitgliedstaaten zu
+ber&#252;cksichtigen. 
+10  Stellungnahme des Bundesministeriums 
+der Finanzen 
+Das BMF hat zu dem vorliegenden Bericht Stellung genommen. Es hat erkl&#228;rt, 
+dass es die Darstellung des Bundesrechnungshofes zu den wesentlichen
+Kritikpunkten ausdr&#252;cklich teile. Zudem hat es versichert, dass die Bundesregierung 
+den Prozess der Einf&#252;hrung von EPSAS auch weiterhin &#8211; in Abstimmung mit den 
+L&#228;ndern &#8211; intensiv begleiten werde. Dabei werde sie sich daf&#252;r einsetzen, dass 
+deutsche Interessen ber&#252;cksichtigt w&#252;rden. 
+Dar&#252;ber hinaus hat das BMF zugesichert, dass es den Bundestag und den
+ Bundesrechnungshof weiterhin umfassend &#252;ber seine Aktivit&#228;ten im Zusammenhang mit 
+der geplanten Einf&#252;hrung von EPSAS informieren werde.
+Der Gro&#223;e Senat des Bundesrechnungshofes hat diesen Bericht am 
+10. Oktober 2017 beschlossen.
+Bonn, den 15. November 2017
+Kay Scheller
+Pr&#228;sident
+Drucksache 19/60 Deutscher Bundestag &#8211; 19. Wahlperiode&#8211; 24 &#8211;
+schr&#228;nkt und manipulative Eingriffe wirksam verhindert werden. Dies ist
+jedoch nicht sichergestellt. Im Gegenteil: Die in der Arbeitsgruppe behandelten 
+Themenpapiere zur Bilanzierung von Steuern und Pensionsverpfl ichtungen
+zeigen beispielhaft, dass die Einf&#252;hrung von EPSAS den Mitgliedstaaten
+zus&#228;tzliche Wahl- und Gestaltungsm&#246;glichkeiten sowie Ermessensspielr&#228;ume er&#246;ffnen 
+w&#252;rde. 
+Im &#220;brigen h&#228;lt der Bundesrechnungshof es f&#252;r nicht vertretbar, s&#228;mtlichen 
+staatlichen Ebenen die EPSAS &#252;berzust&#252;lpen, um vermeintlich etwas mehr 
+Transparenz und Vergleichbarkeit in der Finanzberichterstattung der
+Mitgliedstaaten zu erreichen. Zumal es angesichts der Dimension des Projekts nicht 
+realistisch erscheint, dass dies gelingt.
+ &#61607; Die EPSAS sollen zus&#228;tzliche Informationen zur fi nanziellen Lage der
+Mitgliedstaaten liefern und damit Entscheidungen aus Sicht der Kommission k&#252;nftig auf 
+eine bessere Grundlage stellen. 
+Die derzeitige parlamentarische Beschlusslage l&#228;sst darauf schlie&#223;en, dass der 
+deutsche Haushaltsgesetzgeber sein verfassungsrechtliches Budgetrecht auch 
+k&#252;nftig anhand der kameralen Haushaltsinformationen aus&#252;ben will. Die
+mithilfe von EPSAS m&#246;glicherweise zus&#228;tzlich vorliegenden Informationen
+entfalten damit keine verbesserte parlamentarische Steuerungswirkung. Zumindest 
+auf Bundesebene m&#252;sste im Falle einer verbindlichen Einf&#252;hrung von EPSAS 
+das kamerale System beibehalten und daneben ein doppisches System
+eingef&#252;hrt werden. F&#252;r Deutschland bedeutet die verbindliche Einf&#252;hrung von EPSAS 
+daher hohe Kosten, denen faktisch kein Nutzen gegen&#252;bersteht. Die
+m&#246;glicherweise erforderliche Einf&#252;hrung eines noch zu entwickelnden IT-Systems 
+k&#246;nnte zudem erhebliche Risiken bergen. 
+Mit Blick auf das in Deutschland bestehende f&#246;derale Haushaltssystem sowie 
+die verfassungsrechtlich garantierte Selbstst&#228;ndigkeit und Unabh&#228;ngigkeit der 
+Haushaltswirtschaft der Gebietsk&#246;rperschaften rechnet der
+Bundesrechnungshof damit, dass die Einf&#252;hrungskosten insgesamt bei mehr als 3 Mrd. Euro
+liegen werden. Hinzu kommen dauerhaft zus&#228;tzliche Haushaltsbelastungen f&#252;r 
+den Betrieb von Parallelsystemen.
+Die Bundesregierung sollte auf europ&#228;ischer Ebene ihr politisches Gewicht
+einbringen und die verbindliche Einf&#252;hrung von EPSAS in Deutschland verhindern. 
+Zudem sollte sie darauf hinwirken, dass die Kommission Alternativen pr&#252;ft, mit 
+denen &#8211; soweit erforderlich &#8211; die Transparenz und die Vergleichbarkeit der 
+Finanzberichterstattung verbessert werden k&#246;nnen. Dabei sind jedoch die
+Unterschiede in den Verwaltungs- und Kontrollstrukturen der Mitgliedstaaten zu
+ber&#252;cksichtigen. 
+10  Stellungnahme des Bundesministeriums 
+der Finanzen 
+Das BMF hat zu dem vorliegenden Bericht Stellung genommen. Es hat erkl&#228;rt, 
+dass es die Darstellung des Bundesrechnungshofes zu den wesentlichen
+Kritikpunkten ausdr&#252;cklich teile. Zudem hat es versichert, dass die Bundesregierung 
+den Prozess der Einf&#252;hrung von EPSAS auch weiterhin &#8211; in Abstimmung mit den 
+L&#228;ndern &#8211; intensiv begleiten werde. Dabei werde sie sich daf&#252;r einsetzen, dass 
+deutsche Interessen ber&#252;cksichtigt w&#252;rden. 
+Dar&#252;ber hinaus hat das BMF zugesichert, dass es den Bundestag und den
+ Bundesrechnungshof weiterhin umfassend &#252;ber seine Aktivit&#228;ten im Zusammenhang mit 
+der geplanten Einf&#252;hrung von EPSAS informieren werde.
+Der Gro&#223;e Senat des Bundesrechnungshofes hat diesen Bericht am 
+10. Oktober 2017 beschlossen.
+Bonn, den 15. November 2017
+Kay Scheller
+Pr&#228;sident
+Quelle: Eigene Darstellung in Anlehnung an Hessisches Ministerium der Finanzen. 
+Anlage 1Meilensteine des EPSAS-Prozesses
+Richtlinie 2011/85/EU
+Konsultationsprozess zu den IPSAS
+Eurostat Task Force &#8222;IPSAS&#8220;
+Studie &#214;ffentliches Rechnungswesen in 
+der EU von E&amp;Y
+Abschlussbericht KOM(2013) 114 endg&#252;ltig
+Konferenz der Europ&#228;ischen Kommission 
+in Br&#252;ssel
+Beschluss des Deutschen Bundestages
+Task Force &#8222;EPSAS Governance&#8220;
+Task Force EPSAS des Kontaktausschusses der
+Obersten Rechnungskontrollbeh&#246;rden der
+Europ&#228;ischen Union
+Konsultationsbericht zur EPSAS Governance
+Bericht des BMF an den Haushaltsausschuss
+Task Force &#8222;EPSAS Standards&#8220;
+1. Bericht des Bundesrechnungshofes
+Beschluss des Bundesrates
+Staatssekret&#228;rsrunde EPSAS,
+vorgeschaltet: Bund-L&#228;nder-Arbeitskreis
+EPSAS (BLAK)
+Positionspapier der Pr&#228;sidentinnen und
+Pr&#228;sidenten der Rechnungsh&#246;fe des Bundes
+und der L&#228;nder
+Kosten- und Nutzenstudie von PwC
+Beschluss des Deutschen Bundestages
+Verabschiedung des vom BLAK
+entwickelten Grundsatzpapiers durch 
+die Staatssekret&#228;rsrunde EPSAS
+Erste EPSAS &#8222;Cell&#8220; zur Er&#246;ffnungsbilanz
+1. Sitzung der Working Group EPSAS
+EPSAS-Workshop des
+Haushaltskontrollausschusses des Europ&#228;ischen Parlaments
+Beratungsvertrag zwischen Eurostat und
+E&amp;Y wird geschlossen
+Zweite EPSAS &#8222;Cell&#8220; zu den
+Governance-Prinzipien
+Mitteilung der Eurostat Unit &#8222;Task Force EPSAS&#8220;,
+sog. Alternativer Ansatz: zun&#228;chst freiwillige
+IPSAS-Einf&#252;hrung (binnen 5 Jahren)
+2. Bericht des Bundesrechnungshofes
+Dritte EPSAS &#8222;Cell&#8220; zu den Standards-Prinzipien
+Vorstellung Forschungsvorhaben fe 2/15 des
+BMF &#8222;Vergleich der IPSAS mit den Standards 
+staatlicher Doppik&#8220;
+2. Sitzung der Working Group EPSAS
+Beschluss der Pr&#228;sidentinnen und Pr&#228;sidenten 
+der Rechnungsh&#246;fe des Bundes und der L&#228;nder
+Beratungsvertrag zwischen Eurostat und PwC 
+wird geschlossen
+3. Sitzung der Working Group EPSAS
+4. Sitzung der Working Group EPSAS
+08.11.2011
+15.02.2012 &#8211; 11.05.2012
+27.02.2012 &#8211; 07.11.2012
+19.12.2012
+06.03.2013
+29.05.2013 &#8211; 30.05.2013
+27.06.2013
+02.10.2013 &#8211; 18.03.2015
+seit 11.10.2013
+25.11.2013 &#8211; 17.02.2014
+04.02.2014
+seit 12.02.2014
+13.02.2014
+14.02.2014
+seit 15.04.2014
+14.05.2014
+01.08.2014
+05.03.2015
+03.06.2015
+seit 06.2015
+15.09.2015 &#8211; 16.09.2015
+01.10.2015
+10.12.2015
+seit 16.12.2015
+21.12.2015
+18.02.2016
+seit 18.03.2016
+04.05.2016
+07.07.2016 &#8211; 08.07.2016
+15.07.2016
+15.11.2016
+22.11.2016 &#8211; 23.11.2016
+26.04.2017 &#8211; 27.04.2017
+Anlage 2Zeitplan f&#252;r die Entwicklung und Einf&#252;hrung von EPSAS
+Erarbeitung des EPSAS-Rahmenkonzepts
+Entwicklung der Standards
+Konsolidierung/gesamter Staatshaushalt
+Standardsetzung
+Freiwillige Umstellung auf Doppik 
+und Anwendung der IPSAS
+Implementierung
+Erh&#246;hung der Transparenz und St&#228;rkung der Vergleichbarkeit
+Stufenweise Umsetzung
+&#220;b
+er
+na
+hm
+e 
+de
+s
+Ra
+hm
+en
+ko
+nz
+ep
+ts
+un
+d 
+de
+r 
+St
+an
+da
+rd
+s
+Jahr 1 2 3 4 5 6 7 8 9 10
+Quelle: Eurostat (eigene Darstellung).
+Anlage 3Defi zitquote in ausgew&#228;hlten Mitgliedstaaten
+2
+0
+&#8211;2
+&#8211;4
+&#8211;6
+&#8211;8
+&#8211;10
+&#8211;12
+&#8211;14
+De
+fi z
+it
+/&#220;
+be
+rs
+ch
+us
+s 
+in
+ P
+ro
+ze
+nt
+ d
+es
+ B
+IP
+Quelle: Eurostat (eigene Darstellung).
+2012 2013 2014 2015 2016
+ Deutschland  Frankreich  Griechenland  Italien  Portugal  Spanien
+2011
+Drucksache 19/60 Deutscher Bundestag &#8211; 19. Wahlperiode&#8211; 26 &#8211;
+Quelle: Eigene Darstellung in Anlehnung an Hessisches Ministerium der Finanzen. 
+Anlage 1Meilensteine des EPSAS-Prozesses
+Richtlinie 2011/85/EU
+Konsultationsprozess zu den IPSAS
+Eurostat Task Force &#8222;IPSAS&#8220;
+Studie &#214;ffentliches Rechnungswesen in 
+der EU von E&amp;Y
+Abschlussbericht KOM(2013) 114 endg&#252;ltig
+Konferenz der Europ&#228;ischen Kommission 
+in Br&#252;ssel
+Beschluss des Deutschen Bundestages
+Task Force &#8222;EPSAS Governance&#8220;
+Task Force EPSAS des Kontaktausschusses der
+Obersten Rechnungskontrollbeh&#246;rden der
+Europ&#228;ischen Union
+Konsultationsbericht zur EPSAS Governance
+Bericht des BMF an den Haushaltsausschuss
+Task Force &#8222;EPSAS Standards&#8220;
+1. Bericht des Bundesrechnungshofes
+Beschluss des Bundesrates
+Staatssekret&#228;rsrunde EPSAS,
+vorgeschaltet: Bund-L&#228;nder-Arbeitskreis
+EPSAS (BLAK)
+Positionspapier der Pr&#228;sidentinnen und
+Pr&#228;sidenten der Rechnungsh&#246;fe des Bundes
+und der L&#228;nder
+Kosten- und Nutzenstudie von PwC
+Beschluss des Deutschen Bundestages
+Verabschiedung des vom BLAK
+entwickelten Grundsatzpapiers durch 
+die Staatssekret&#228;rsrunde EPSAS
+Erste EPSAS &#8222;Cell&#8220; zur Er&#246;ffnungsbilanz
+1. Sitzung der Working Group EPSAS
+EPSAS-Workshop des
+Haushaltskontrollausschusses des Europ&#228;ischen Parlaments
+Beratungsvertrag zwischen Eurostat und
+E&amp;Y wird geschlossen
+Zweite EPSAS &#8222;Cell&#8220; zu den
+Governance-Prinzipien
+Mitteilung der Eurostat Unit &#8222;Task Force EPSAS&#8220;,
+sog. Alternativer Ansatz: zun&#228;chst freiwillige
+IPSAS-Einf&#252;hrung (binnen 5 Jahren)
+2. Bericht des Bundesrechnungshofes
+Dritte EPSAS &#8222;Cell&#8220; zu den Standards-Prinzipien
+Vorstellung Forschungsvorhaben fe 2/15 des
+BMF &#8222;Vergleich der IPSAS mit den Standards 
+staatlicher Doppik&#8220;
+2. Sitzung der Working Group EPSAS
+Beschluss der Pr&#228;sidentinnen und Pr&#228;sidenten 
+der Rechnungsh&#246;fe des Bundes und der L&#228;nder
+Beratungsvertrag zwischen Eurostat und PwC 
+wird geschlossen
+3. Sitzung der Working Group EPSAS
+4. Sitzung der Working Group EPSAS
+08.11.2011
+15.02.2012 &#8211; 11.05.2012
+27.02.2012 &#8211; 07.11.2012
+19.12.2012
+06.03.2013
+29.05.2013 &#8211; 30.05.2013
+27.06.2013
+02.10.2013 &#8211; 18.03.2015
+seit 11.10.2013
+25.11.2013 &#8211; 17.02.2014
+04.02.2014
+seit 12.02.2014
+13.02.2014
+14.02.2014
+seit 15.04.2014
+14.05.2014
+01.08.2014
+05.03.2015
+03.06.2015
+seit 06.2015
+15.09.2015 &#8211; 16.09.2015
+01.10.2015
+10.12.2015
+seit 16.12.2015
+21.12.2015
+18.02.2016
+seit 18.03.2016
+04.05.2016
+07.07.2016 &#8211; 08.07.2016
+15.07.2016
+15.11.2016
+22.11.2016 &#8211; 23.11.2016
+26.04.2017 &#8211; 27.04.2017
+Anlage 2Zeitplan f&#252;r die Entwicklung und Einf&#252;hrung von EPSAS
+Erarbeitung des EPSAS-Rahmenkonzepts
+Entwicklung der Standards
+Konsolidierung/gesamter Staatshaushalt
+Standardsetzung
+Freiwillige Umstellung auf Doppik 
+und Anwendung der IPSAS
+Implementierung
+Erh&#246;hung der Transparenz und St&#228;rkung der Vergleichbarkeit
+Stufenweise Umsetzung
+&#220;b
+er
+na
+hm
+e 
+de
+s
+Ra
+hm
+en
+ko
+nz
+ep
+ts
+un
+d 
+de
+r 
+St
+an
+da
+rd
+s
+Jahr 1 2 3 4 5 6 7 8 9 10
+Quelle: Eurostat (eigene Darstellung).
+Anlage 3Defi zitquote in ausgew&#228;hlten Mitgliedstaaten
+2
+0
+&#8211;2
+&#8211;4
+&#8211;6
+&#8211;8
+&#8211;10
+&#8211;12
+&#8211;14
+De
+fi z
+it
+/&#220;
+be
+rs
+ch
+us
+s 
+in
+ P
+ro
+ze
+nt
+ d
+es
+ B
+IP
+Quelle: Eurostat (eigene Darstellung).
+2012 2013 2014 2015 2016
+ Deutschland  Frankreich  Griechenland  Italien  Portugal  Spanien
+2011
+Anlage 4Schuldenquote in ausgew&#228;hlten Mitgliedstaaten
+200
+180
+160
+140
+120
+100
+80
+60
+Sc
+hu
+ld
+en
+st
+an
+d 
+in
+ P
+ro
+ze
+nt
+ d
+es
+ B
+IP
+2012 2013 2014 2015 2016
+ Deutschland  Frankreich  Griechenland  Italien  Portugal  Spanien
+2011
+Quelle: Eurostat (eigene Darstellung).
+Anlage 5Recognition and measurement of taxes
+Erl&#228;uterungen: 
+Timing (t) and certainty (c) of revenue recognition 
+Quelle:  E&amp;Y: Accounting treatment of taxes, Issues paper presented at the EPSAS WG Meeting, Rome, 
+22&#8211;23 November 2016.
+Statistical
+model
+approach
+tax
+declaration
+approach
+tax
+assessment
+approach
+time-adjusted
+cash method
+timing of
+revenue
+recognition
+uncertainty of
+revenue
+recognition
+C
+t
+Drucksache 19/60 Deutscher Bundestag &#8211; 19. Wahlperiode&#8211; 28 &#8211;
+Satz: Satzweiss.com Print, Web, Software GmbH, Mainzer Stra&#223;e 116, 66121 Saarbr&#252;cken, www.satzweiss.com
+Druck: Printsystem GmbH, Schafw&#228;sche 1-3, 71296 Heimsheim, www.printsystem.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de 
+ISSN 0722-8333]</text>
+    <titel>Bericht nach &#167; 99 der Bundeshaushaltsordnung &#252;ber die angestrebte Einf&#252;hrung harmonisierter Rechnungsf&#252;hrungsgrunds&#228;tze f&#252;r den &#246;ffentlichen Sektor (EPSAS) in den Mitgliedstaaten  der Europ&#228;ischen Union</titel>
+    <datum>2017-11-15</datum>
+  </document>
+  

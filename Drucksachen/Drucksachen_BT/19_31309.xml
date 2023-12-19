@@ -1,0 +1,307 @@
+<document>
+    <id>256378</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/31309</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>f3b75c822e64fba2915fe0785a419fa7</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>279227</id>
+      <titel>Energieverbrauch von Krypto-Mining</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium der Finanzen</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/313/1931309.pdf</pdf_url>
+      <id>256378</id>
+      <dokumentnummer>19/31309</dokumentnummer>
+      <datum>2021-07-02</datum>
+      <verteildatum>2021-07-08</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Antwort
+der Bundesregierung
+auf die Kleine Anfrage der Abgeordneten Reinhard Houben, Michael Theurer, 
+Dr. Marcel Klinge, weiterer Abgeordneter und der Fraktion der FDP
+&#8211; Drucksache 19/30784 &#8211;
+Energieverbrauch von Krypto-Mining
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Krypto-W&#228;hrungen wie Bitcoin oder Ether z&#228;hlen zu den innovativsten
+Finanzprodukten der letzten Jahre (https://www.manager-magazin.de/finanzen/g
+eldanlage/bitcoin-verstaendlich-erklaert-was-sie-ueber-die-kryptowaehrung-w
+issen-muessen-a-f02777b0-5dce-4711-b090-259b3190ce23). Dabei handelt es 
+sich um digitale Zahlungsmittel, die ohne die Mitwirkung von Banken oder 
+staatlichen Institutionen gehandelt werden k&#246;nnen (https://www.bsi.bund.de/D
+E/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlun
+gen/Technologien_sicher_gestalten/Blockchain-Kryptowaehrung/blockchain-
+kryptowaehrung_node.html). Aufgrund der M&#246;glichkeit eines unabh&#228;ngigen 
+Zahlungsverkehrs werden sie zunehmend popul&#228;r, was sich auch in den
+Wechselkursen der Krypto-W&#228;hrungen niederschl&#228;gt. So legte zuletzt
+beispielsweise der Bitcoin binnen eines halben Jahres um zwischenzeitlich mehr als 
+500 Prozent zu. Der enorme Kursgewinn zieht wiederum weitere Anleger an 
+und das Handelsvolumen steigt.
+Die wichtigsten Krypto-W&#228;hrungen basieren auf der Blockchain-Technologie. 
+Eine Blockchain ist eine kontinuierlich erweiterbare Liste von Datens&#228;tzen, 
+auch &#8222;Bl&#246;cke&#8220; genannt, die mittels kryptographischer Verfahren miteinander 
+verkettet sind. Durch einen &#8222;Mining-Prozess&#8220; werden Krypto-W&#228;hrungen,
+wie Bitcoin, gesch&#252;rft. Daf&#252;r bedarf es einer Vielzahl von Servern mit hoher 
+Rechenleistung.
+Das &#8222;Centre of Alternative Finance&#8220; der University of Cambridge geht davon 
+aus, dass das Sch&#252;rfen von Bitcoins weltweit 115 Terawattstunden im Jahr 
+verbraucht (https://cbeci.org/; Stand: Mai 2021), was knapp einem Viertel des 
+j&#228;hrlichen Stromverbrauchs in Deutschland entspricht (520 Terawattstunden).
+Von der weltweiten Rechnerleistung, die f&#252;r das Bitcoin-Mining aufgewendet 
+wird, gehen laut den Forschenden in Cambridge 0,56 Prozent auf Deutschland 
+zur&#252;ck (https://cbeci.org/mining_map). Im Vergleich dazu ist der Anteil am 
+weltweiten Bitcoin-Mining von L&#228;ndern mit niedrigeren Stromkosten
+erheblich gr&#246;&#223;er. So tr&#228;gt Malaysia 4,33 Prozent der weltweiten Rechnerleistung f&#252;r 
+Bitcoin-Mining, Russland 6,90 Prozent, die USA 7,24 Prozent und China 
+65,08 Prozent. Der hohe Energieaufwand beim Mining von Krypto-
+W&#228;hrungen basiert vor allem auf dem &#8222;Proof-of-Work&#8220;-Mechanismus, der
+beispielsweise bei Bitcoin Anwendung findet. Dabei werden durch Mining-Pools, die 
+Deutscher Bundestag Drucksache 19/31309
+19. Wahlperiode 02.07.2021
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums der Finanzen vom 1. Juli 2021 
+&#252;bermittelt.
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext.
+einzelne Rechner koordinieren, neue Bl&#246;cke an die Blockchain angef&#252;gt. Zur 
+Validierung dieser Transaktion wird der &#8222;Proof-of-Work&#8220;-Mechanismus
+eingesetzt: Um zu best&#228;tigen, dass es sich um eine rechtm&#228;&#223;ige Transaktion
+handelt, m&#252;ssen die Mining-Pools Rechenleistung f&#252;r eine kryptographische
+Aufgabe aufbringen (&#8222;work&#8220;). Durch die damit verbundenen Kosten f&#252;r Hardware 
+und Energie, sinkt der Anreiz, bei Bitcoin-Transaktionen zu betr&#252;gen aufgrund 
+des eigenen notwendigen hohen Mitteleinsatzes. Zwar kann durch diesen 
+Schritt ein Intermedi&#228;r, wie eine Bank oder eine Clearing-Stelle, umgangen 
+werden, doch ben&#246;tigt dieser Prozess eine enorme Rechenleistung der Server, 
+die wiederum zu einem hohen Stromverbrauch f&#252;hrt (https://www.handelsblat
+t.com/finanzen/maerkte/devisen-rohstoffe/nachhaltigkeit-hoeherer-energiever
+brauch-als-die-niederlande-warum-der-bitcoin-angreifbar-ist/27197940.html#:
+~:text=Forscher%20gehen%20davon%20aus%2C%20dass,l%C3%A4sst%20s
+ich%20das%20schwer%20vereinbaren.&amp;text=F%C3%BCr%20das%20sogena
+nnte%20%E2%80%9ESch%C3%BCrfen%E2%80%9C%2C,gro%C3%9Fe%
+20Mengen%20an%20Energie%20n%C3%B6tig).
+&#8199;1. Wie viele Server bzw. kommerzielle Mining-Pools betreiben nach
+Kenntnis der Bundesregierung das Mining von Krypto-W&#228;hrungen in
+Deutschland?
+&#8199;2. Wie hat sich die Anzahl der Server bzw. die Anzahl kommerzieller 
+Mining-Pools, die Mining von Krypto-W&#228;hrungen in Deutschland
+betreiben, nach Kenntnis der Bundesregierung seit 2015 entwickelt (bitte 
+nach Jahr aufschl&#252;sseln)?
+&#8199;3. Wie hoch ist nach Kenntnis der Bundesregierung der
+Jahresenergieverbrauch der Krypto-W&#228;hrung Bitcoin weltweit, in der EU und in
+Deutschland?
+&#8199;4. Wie hoch ist nach Kenntnis der Bundesregierung der
+Jahresenergieverbrauch aller Krypto-W&#228;hrungen weltweit, in der EU und in Deutschland?
+&#8199;5. Wie hoch ist nach Kenntnis der Bundesregierung der
+Jahresenergieverbrauch von Blockchain-Servern weltweit, in der EU und in Deutschland?
+Die Fragen 1 bis 5 werden zusammen beantwortet.
+Der Bundesregierung stehen keine offiziellen nationalen oder internationalen 
+Quellen, z. B. vom Statistischen Bundesamt, vom Statistischen Amt der
+Europ&#228;ischen Union (Eurostat) oder von der Internationalen Energieagentur (IEA) 
+zu den angefragten Angaben zur Verf&#252;gung.
+Zur Herstellung von Bitcoins muss der rechenintensive &#8222;proof of work&#8220;-
+Validierungsmechanismus durchlaufen werden. Diese Validierung erfolgt durch 
+L&#246;sung einer &#228;u&#223;erst komplexen mathematischen Aufgabe. Hierbei steigen die 
+Rechenanforderungen mit der Anzahl der an der Validierung teilnehmenden 
+Akteure. Die Erzeugung neuer Bitcoins ist daher mit dem Einsatz erheblicher 
+Rechnerkapazit&#228;ten verbunden. Nach Kenntnis der Bundesregierung sind die 
+meisten Erzeuger (Sch&#252;rfer) in L&#228;ndern mit niedrigen Strompreisen (z. B. 
+Island oder China) angesiedelt. Die Bundesregierung geht nicht von einer
+nennenswerten Erzeugung in Deutschland aus. Neben dem Sch&#252;rfen von Bitcoins 
+wird die Blockchain-Technologie f&#252;r eine Vielzahl anderweitiger
+Anwendungen in unterschiedlichen Sektoren eingesetzt. Angesichts der erheblichen
+Energieverbr&#228;uche, die mit der Verwendung des &#8222;proof-of-work&#8220;-
+Validierungsmechanismus verbunden sind, kommen hier alternative Mechanismen, wie 
+z. B. &#8222;proof-of-stake&#8220; oder &#8222;proof-of-authority&#8220; zum Einsatz. Der Einsatz
+dieser Validierungsmechanismen f&#252;hrt zu deutlich geringeren Energieverbr&#228;uchen.
+Im &#220;brigen wird in diesem Zusammenhang auf die Antworten der
+Bundesregierung auf die Kleinen Anfragen der Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN 
+auf Bundestagsdrucksache 19/1055, der Fraktion DIE LINKE. auf
+Bundestagsdrucksache 19/2452 sowie der Fraktion der AfD auf Bundestagsdrucksache 
+19/454 zum selben Thema verwiesen.
+&#8199;6. Sollten der Bundesregierung betreffend die Fragen 3 bis 5 keine
+konkreten Zahlen vorliegen, versucht die Bundesregierung hierzu zuk&#252;nftig 
+konkrete Daten zu erheben?
+a) Wenn ja, wie plant die Bundesregierung, dieses Daten zu erheben, 
+und bis wann sollen diese Daten vorliegen?
+b) Wenn nein, warum nicht?
+Die Fragen 6 bis 6b werden gemeinsam beantwortet.
+Da der Strompreis der entscheidende Standortfaktor f&#252;r das Erzeugen von 
+Kryptow&#228;hrungen ist, geht die Bundesregierung nicht von einer nennenswerten 
+Erzeugung in Deutschland aus. Zudem sind Datenerhebungen immer mit
+Aufwand f&#252;r die Befragten und die Verwaltung verbunden. Vor dem Hintergrund 
+dieser Kosten-Nutzen-Abw&#228;gungen plant die Bundesregierung derzeit nicht, 
+die angesprochenen Daten zu erheben.
+&#8199;7. Wie wird sich nach Kenntnis der Bundesregierung der Energieverbrauch 
+in Deutschland, der EU und weltweit in den n&#228;chsten Jahren angesichts 
+der absehbaren weiteren Verwendung von Krypto-W&#228;hrungen
+(insbesondere W&#228;hrungen, die den &#8222;Proof-of-Work&#8220;-Mechanismus nutzen, wie 
+Bitcoin) entwickeln?
+Auf die Antwort zu den Fragen 1 bis 5 wird verwiesen.
+&#8199;8. Welche Projekte und Initiativen zur Erforschung von etwaigen negativen 
+Effekten von Blockchains bez&#252;glich Energieverbrauch sowie Klima-
+und Ressourcenschutz (vgl. Blockchain-Strategie der Bundesregierung 
+S. 8 f.), werden von der Bundesregierung derzeit unterst&#252;tzt?
+a) Bis wann sollen die genannten Programme abgeschlossen sein?
+b) Welche Erkenntnisse konnte die Bundesregierung zum jetzigen Stand 
+aus den Programmen generieren?
+&#8199;9. Betreibt die Bundesregierung derzeit Programme zur Erforschung und 
+Erschlie&#223;ung von alternativen Konsensfindungsmechanismen zu
+&#8222;Proofof-Work&#8220;, wie beispielsweise &#8222;Proof-of-Stake&#8220; oder &#8222;Proof-of-
+Authority&#8220;?
+a) Wenn ja, um welche Projekte handelt es sich, und wie viele Mittel 
+werden f&#252;r diese Projekte bereitgestellt?
+b) Wenn nein, warum nicht?
+Die Fragen 8 bis 9b werden zusammen beantwortet.
+Im Rahmen der im Dezember 2019 abgeschlossenen ersten Phase des
+Kopernikus-Projekts ENSURE wurde das Hintergrundpapier &#8222;Chancen und Risiken f&#252;r 
+die Energiewende&#8220; verfasst und im M&#228;rz 2018 ver&#246;ffentlicht. Das Papier
+erl&#228;utert u. a. im Allgemeinen die Funktionsweise sowie Anwendungsbereiche der 
+Blockchain-Technologie im Energiesystem und bewertet verbundene Chancen 
+und Risiken. Als ein wesentliches Risiko wurde hierbei der mit dem Einsatz der
+Blockchain-Technologie einhergehende steigende Energieverbrauch
+identifiziert.
+Zudem hat das Bundesministerium f&#252;r Umwelt, Naturschutz und nukleare 
+Sicherheit eine Studie beim Wuppertal Institut beauftragt, um die beachtlichen 
+Chancen von Blockchain-Anwendungen f&#252;r Umwelt- und Klimaschutz zu
+nutzen und zugleich der Herausforderung einer hohen Energie- und
+Ressourcenintensit&#228;t zu adressieren. Die Studie wird in K&#252;rze ver&#246;ffentlicht. Sie stellt 
+aktuelle umweltrelevante Entwicklungsans&#228;tze anhand eines systematischen 
+Screenings dar und zeigt, dass Blockchain umweltfreundlich gestaltet werden 
+kann. Denn in den letzten Jahren wurden leistungsf&#228;hige alternative
+Blockchain-Methoden entwickelt, die in den meisten Anwendungsf&#228;llen die extrem 
+energie- und ressourcenaufwendigen &#8222;proof-of-work&#8220;-Verfahren der 1.
+Generation (wie sie z. B. f&#252;r Bitcoin genutzt werden) abl&#246;sen k&#246;nnen. Diese neueren, 
+alternativen Ans&#228;tze versprechen einen deutlich reduzierten Ressourcen- und 
+Energieaufwand. Beispiele f&#252;r energieeffizientere Verfahren sind neben den 
+genannten &#8222;(delegated)-proof-of-stake&#8220; und &#8222;proof-of-authority&#8220; auch
+&#8222;proofof-space&#8220; und &#8222;proof-of-elapsed-time&#8220;. Die Mittel f&#252;r die Erstellung der
+Blockchain-Studie lassen sich nicht genau beziffern, weil die Studie gemeinsam mit 
+anderen Leistungen vergeben wurde. N&#228;herungsweise lie&#223;en sich Mittel in 
+H&#246;he von 10.000 bis 15.000 Euro f&#252;r die Erstellung der Studie veranschlagen.
+10. Wie bewertet die Bundesregierung den Energieverbrauch von
+Blockchain-Servern im Kontext von Krypto-W&#228;hrungen weltweit und in 
+Deutschland?
+Der weltweite Energieverbrauch durch Krypto-W&#228;hrungen ist zu hoch,
+zumindest dann, wenn sie mit dem klassischen &#8222;proof-of-work&#8220;-Verfahren betrieben 
+werden. Die vom Bundesministerium f&#252;r Umwelt, Naturschutz und nukleare 
+Sicherheit beauftrage Studie liefert einen ganzheitlichen Ansatz, der zeigt, dass 
+nachhaltige Blockchain-L&#246;sungen m&#246;glich sind. Diese nachhaltigeren
+Verfahren m&#252;ssen nun auch verst&#228;rkt genutzt und klimasch&#228;dliche Blockchain-
+Technologien &#8211; trotz bestehender Pfadabh&#228;ngigkeiten &#8211; entsprechend darauf
+umgestellt werden. Das Design neuer Blockchain-Technologien muss von Anfang an 
+energiesparsam und ressourcenschonend ausgerichtet sein. Das hei&#223;t auch, dass 
+die Hardware f&#252;r eine Blockchain l&#228;nger nutzbar sein muss.
+Was den Energieverbrauch von Kryptow&#228;hrungen in Deutschland betrifft, so 
+wird auf die Antwort zu den Fragen 1 bis 5 verwiesen.
+11. Wie bewertet die Bundesregierung den geringen Anteil der Bitcoin-
+Sch&#252;rfungen in Deutschland, und worauf l&#228;sst sich dieser nach Ansicht 
+der Bundesregierung zur&#252;ckf&#252;hren?
+Auf die Antwort zu den Fragen 1 bis 5 wird verwiesen.
+12. Wie bewertet die Bundesregierung die Wettbewerbsf&#228;higkeit
+Deutschlands im energieintensiven Blockchain-Sektor im Hinblick auf den
+deutschen Strompreis?
+Auf die Antwort zu den Fragen 1 bis 5 wird verwiesen.
+Deutschland weist im EU-Vergleich hohe Strompreise f&#252;r typische nicht-
+privilegierte Stromendkunden auf. Urs&#228;chlich sind vor allem die staatlichen
+induzierten Stromkostenbestandteile wie beispielsweise die EEG-Umlage. In 
+diesem Zusammenhang wird auf die Antwort der Bundesregierung auf die
+Kleine Anfrage der Fraktion der FDP auf Bundestagsdrucksache 19/9875
+verwiesen. Diese Kleine Anfrage besch&#228;ftigt sich explizit mit Fragen der
+Bezahlbarkeit von Elektrizit&#228;t sowie Ma&#223;nahmen, die die Bundesregierung ergriffen 
+hat, um B&#252;rgerinnen und B&#252;rgern und Wirtschaft von hohen Stromkosten zu 
+entlasten.
+13. Welche sind die expliziten &#8222;deutlichen&#8220; Kostennachteile Deutschlands 
+bei der Bitcoin-Generierung gegen&#252;ber anderen Regionen, die die 
+Bundesregierung in ihrer Antwort zu Frage 7 der Kleinen Anfrage der 
+Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN auf Bundestagsdrucksache 
+19/1055 anspricht?
+a) Was hat die Bundesregierung seit der Beantwortung der Kleinen
+Anfrage im M&#228;rz 2018 unternommen, um die Kostennachteile
+Deutschlands zu verringern?
+Die Fragen 13 bis 13a werden gemeinsam beantwortet.
+Auf die Antwort zu den Fragen 1 bis 5 sowie 12, insbesondere zu Entlastungen 
+bei den Stromkosten, wird verwiesen.
+14. Welche Rolle spielte der in den letzten Jahren gestiegene
+Energieverbrauch durch Blockchain-Server im Kontext des Minings von Krypto-
+W&#228;hrungen bei der ersten Novellierung des Bundes-Klimaschutzgesetzes 
+im Mai 2021?
+Der gestiegene Energie-Verbrauch durch Blockchain-Server spielt bei der 
+Klimaschutzgesetz-Novelle (KSG-Novelle) keine Rolle. Die KSG-Novelle
+enth&#228;lt Klimaziele (65 Prozent bis 2030, 88 Prozent bis 2040 und
+Treibhausgasneutralit&#228;t bis 2045), Minderungsziele f&#252;r die Zeit zwischen 2030 und 2040 
+und Jahresemissionsmengen f&#252;r die einzelnen Sektoren f&#252;r die Zeit bis 2030. 
+Das KSG enth&#228;lt allerdings keine konkreten Ma&#223;nahmen zur Umsetzung dieser 
+Ziele. Es ist vielmehr darauf ausgerichtet, die Einhaltung der oben genannten 
+Ziele und Jahresemissionsmengen zu steuern. Kommt es daher z. B. in einem 
+der Sektoren zu einer &#220;berschreitung der Jahresemissionsmengen, so muss das 
+zust&#228;ndige Ministerium der Bundesregierung ein Sofortprogramm mit
+konkreten Ma&#223;nahmen vorlegen, um den Sektor wieder auf Kurs zu bringen. In einem 
+solchen Sofortprogramm k&#246;nnten dann z. B. konkrete Ma&#223;nahmen zur
+Unterst&#252;tzung des weiteren Ausbaus der erneuerbaren Energien oder auch
+ordnungsrechtliche Ma&#223;nahmen wie z. B. Effizienzkriterien f&#252;r Blockchain-Mining
+enthalten sein. Beides w&#252;rde zu einer Dekarbonisierung des Blockchain-Marktes 
+f&#252;hren.
+15. Beabsichtigt die Bundesregierung, Krypto-Mining bei der UN-
+Klimakonferenz 2021 (COP 26) zu thematisieren?
+Gibt es bereits konkrete Initiativen?
+Sektorale Einzelph&#228;nomene eignen sich aufgrund ihrer Vielfalt nicht als
+gesonderte Verhandlungsgegenst&#228;nde der Konferenzen der Vertragsstaaten der VN-
+Klimarahmenkonvention. Digitalisierung allgemein und dezentrale
+Datenbankanwendungen im Besonderen werfen Fragen nach damit verbundenen Chancen 
+und Risiken auf. Themen wie beispielsweise die Energieeffizienz solcher
+Anwendungen und damit gegebenenfalls verbundene Emissionserh&#246;hungen und 
+Emissionsverlagerungen k&#246;nnen auf Veranstaltungen im Rahmen des
+Begleitprogramms der Klimakonferenzen (&#8222;side events&#8220;) grunds&#228;tzlich thematisiert 
+werden. Die Bundesregierung plant derzeit kein side event zu Krypto-Mining.
+16. Besitzt die Bundesrepublik Deutschland nach Kenntnis der
+Bundesregierung Anlagen in Bitcoin oder anderen Krypto-W&#228;hrungen?
+Wenn ja, in welcher W&#228;hrung, und in welcher H&#246;he?
+Die Bundesrepublik Deutschland besitzt im Zust&#228;ndigkeitsbereich der
+Bundesregierung keine Anlagen in Bitcoin oder anderen Krypto-W&#228;hrungen.
+17. Besitzt die Europ&#228;ische Zentralbank bzw. besitzen andere EU-Staaten 
+nach Kenntnis der Bundesregierung Anlagen in Bitcoin oder anderen 
+Krypto-W&#228;hrungen?
+Wenn ja, in welcher W&#228;hrung, und in welcher H&#246;he?
+In der Deutschen Bundesbank werden keine Best&#228;nde an Bitcoin oder anderen 
+Krypto-W&#228;hrungen gehalten. Der Bundesregierung liegen keine Erkenntnisse 
+zu Anlagen der Europ&#228;ischen Zentralbank bzw. anderer EU-Staaten in Bitcoin 
+oder anderen Krypto-W&#228;hrungen vor.
+18. Hat die Bundesregierung eine Bewertung vorgenommen, was die
+M&#246;glichkeit betrifft, Anlagen in Bitcoin oder anderen Krypto-W&#228;hrungen zu 
+t&#228;tigen?
+Nein, es wurden bislang keine Bewertungen f&#252;r eine m&#246;gliche Anlage in 
+Krypto-W&#228;hrungen vorgenommen.
+19. Beabsichtigt die Bundesrepublik Deutschland nach Kenntnis der
+Bundesregierung, Anlagen in Bitcoin oder anderen Krypto-W&#228;hrungen zu
+t&#228;tigen?
+a) Wenn ja, wann, in welcher W&#228;hrung, und in welcher H&#246;he?
+b) Wenn nein, warum nicht?
+Die Fragen 19 bis 19b werden gemeinsam beantwortet.
+Derzeit ist von Seiten der Bundesregierung keine Anlage in Krypto-W&#228;hrungen 
+geplant.
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/30784 -
+Energieverbrauch von Krypto-Mining</titel>
+    <datum>2021-07-02</datum>
+  </document>
+  

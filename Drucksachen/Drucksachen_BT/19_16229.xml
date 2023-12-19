@@ -1,0 +1,729 @@
+<document>
+    <id>237539</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/16229</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>7a70ebd725f7d1b9d79559d645d57f2c</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>255809</id>
+      <titel>Risiken und Chancen der Digitalisierung in der Landwirtschaft f&#252;r Gesellschaft und Gemeinwohl</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium f&#252;r Ern&#228;hrung und Landwirtschaft</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/162/1916229.pdf</pdf_url>
+      <id>237539</id>
+      <dokumentnummer>19/16229</dokumentnummer>
+      <datum>2019-12-23</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Antwort
+der Bundesregierung
+auf die Kleine Anfrage der Abgeordneten Dr. Kirsten Tackmann, Anke Domscheit-
+Berg, Dr. Petra Sitte, weiterer Abgeordneter und der Fraktion DIE LINKE.
+&#8211; Drucksache 19/15367 &#8211;
+Risiken und Chancen der Digitalisierung in der Landwirtschaft f&#252;r Gesellschaft
+und Gemeinwohl
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+60 Mio. Euro waren im letzten Haushaltsplan der Bundesregierung im Bereich 
+Ern&#228;hrung und Landwirtschaft bis zum Jahr 2022 f&#252;r Forschung zu digitaler 
+Technik inklusive eigener Digitalisierungsabteilung geplant, zus&#228;tzlich 
+29 Mio. Euro f&#252;r Big-Data-Forschung (vgl. Pressemitteilung des
+Bundesministeriums f&#252;r Ern&#228;hrung und Landwirtschaft &#8211; BMEL &#8211;, &#8222;Die Digitalisierung 
+kann L&#246;sungen entwickeln, die Landwirtschaft weltweit produktiver und 
+nachhaltiger zu machen&#8220;, Januar 2019). Die Bundesministerin f&#252;r Ern&#228;hrung 
+und Landwirtschaft Julia Kl&#246;ckner k&#252;ndigte zum aktuellen Haushaltsentwurf 
+an, man w&#252;rde mehr Geld &#8222;f&#252;r digitale L&#246;sungen bereit[stellen], explizit auch 
+f&#252;r Projekte im Bereich der k&#252;nstlichen Intelligenz&#8220; (BMEL-Pressemitteilung 
+Nummer 139 vom 26. Juni 2019). Ein Fachgespr&#228;ch im Ausschuss f&#252;r
+Ern&#228;hrung und Landwirtschaft (AfEL) am 11. Februar 2019 sowie die vermehrte 
+Schwerpunktsetzung auf den Bereich der Digitalisierung durch das
+Bundesministerium f&#252;r Ern&#228;hrung und Landwirtschaft (BMEL) gehen vor allem von 
+vielen Hoffnungen f&#252;r den Bereich Landwirtschaft aus, z. B. um bislang aus 
+Sicht der Fragesteller str&#228;flich vernachl&#228;ssigte Probleme beim Schutz von
+Boden, Arten, Wasser, Umwelt, Tieren und Insekten sowie Arbeitnehmerinnen 
+und Arbeitnehmern durch technische L&#246;sungen zu beheben oder verringern. 
+Nachweisbare Effekte dieser Hoffnungen sind nach Auffassung der
+Fragesteller bislang allerdings nur partiell vorhanden. Unterbelichtete Risiken unter
+anderem in den Bereichen Datenhoheit, Monopolisierung und Strukturwandel 
+m&#252;ssen st&#228;rker in den Fokus ger&#252;ckt werden.
+Zusammen mit Fusionen und &#220;bernahmen wird die Konsolidierung und
+Monopolbildung im Bereich der Landwirtschaft vorangetrieben. Der
+Maschinenhersteller AGCO erwartet bei Farmmanagement-Systemen die Herausbildung 
+von nur zwei Konsortien (vgl. www.zeit.de, &#8222;Wenn der Bauer das will &#8230;&#8220;, 
+Grefe, Februar 2016). Die Initiative &#8222;Konzernmacht beschr&#228;nken&#8220; hat ebenso 
+bei der Fusion von Bayer und Monsanto vor der Entstehung eines digitalen 
+Oligopols gewarnt (vgl. Pressemitteilung Forum Umwelt und Entwicklung, 
+&#8222;Zivilgesellschaft warnt: Bayer-Monsanto-Fusion k&#246;nnte zum digitalem
+Oligopol f&#252;hren&#8220;, Wiggerthale, M&#228;rz 2018). Diese Entwicklung birgt nach
+Ansicht der Fragesteller ebenfalls das Potenzial, die Form der Arbeit in der Land-
+Deutscher Bundestag Drucksache 19/16229
+19. Wahlperiode 23.12.2019
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums f&#252;r Ern&#228;hrung und Landwirtschaft 
+vom 19. Dezember 2019 &#252;bermittelt.
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext.
+wirtschaft als wichtiges Element des l&#228;ndlichen Raums dahin gehend zu
+ver&#228;ndern, dass eine zus&#228;tzliche Entfremdung durch weitere Anonymisierung und 
+Vertechnisierung mit reduziertem Personal stattfindet. Auch das Risiko der 
+m&#246;glichen Datenvielfalt zur &#220;berwachung der Arbeitspl&#228;tze ist nach Ansicht 
+der Fragesteller eine Stellschraube f&#252;r ver&#228;nderte Arbeitsbedingungen, vor
+denen Politik pr&#228;ventiv sch&#252;tzen muss.
+In der Strategie zu K&#252;nstlicher Intelligenz (KI) der Bundesregierung wird
+ausgef&#252;hrt, dass digitale Technologien dazu beitragen k&#246;nnen, Umwelt-, 
+Ressourcen- und Klimaschutz voranzubringen, die Artenvielfalt zu erhalten 
+sowie Luft, B&#246;den und Wasser sauberer zu machen. Dem Sektor
+Landwirtschaft kommt diesbez&#252;glich eine wichtige Rolle zu. Ohne eine gesetzliche
+Regelung haben die Unternehmen einen uneingeschr&#228;nkten Zugriff auf die Daten 
+der Landwirtinnen und Landwirte (www.deutschlandfunk.de/digitalisierung-
+der-landwirtschaft-daten-saeen-daten-ernten.740.de.html?dram:article_id=46
+2957; www.schaumann-stiftung.de/cps/schaumann-stiftung/ds_doc/27_
+huelsenberger_gespraeche_broschuere.pdf). Es ist f&#252;r Landwirtinnen und 
+Landwirte als Nutzerinnen und Nutzer sowie Betroffene oft weder
+nachvollziehbar noch transparent, wie technologische Systeme zu Entscheidungen oder 
+Ergebnissen kommen; dies gilt f&#252;r auf Algorithmen basierende Systeme zur 
+Entscheidungsvorbereitung und erst recht f&#252;r autonom arbeitende und
+entscheidende Systeme. Durch die Digitalisierung w&#228;chst der Umfang der Daten, 
+die landwirtschaftliche Betriebe an die Unternehmen bereitstellen sollen.
+Dabei geht es nicht nur um personenbezogene, sondern auch betriebsbezogene 
+Daten. Welche Daten im Bereich der Landwirtschaft als personenbezogene 
+Daten gelten und ob betriebsbezogene Daten als Gesch&#228;ftsgeheimnis gelten, 
+ist bislang ungekl&#228;rt (www.heise.de/newsticker/meldung/Finger-weg-
+vondeinem-eigenen-Traktor-John-Deere-wehrt-sich-gegen-Traktor-Modding-261
+6920.html). F&#252;r Landwirtinnen und Landwirte ist es essenziell, ihre
+Landmaschinen selbst reparieren zu k&#246;nnen, um Probleme z&#252;gig selbst beheben zu 
+k&#246;nnen. Dieses &#8222;Recht auf Reparieren&#8220; ist in den USA mittlerweile in
+mehreren Bundesstaaten gesetzlich verankert. Es verpflichtet
+Elektronikherstellerinnen und Elektronikhersteller einschlie&#223;lich Landmaschinenherstellerinnen und 
+Landmaschinenhersteller Reparaturguides anzufertigen und Reparaturteile 
+verf&#252;gbar zu machen (vgl. www.hardware.slashdot.org, &#8222;California Becomes 
+18th State To Consider Right To Repair Legislation&#8220;, M&#228;rz 2018).
+Die Digitalisierung ist ein Transformationsprozess, dessen Wirkkraft in den 
+Vorhersagen kaum Superlative ausl&#228;sst, weshalb auch die Verantwortung sehr 
+hoch ist f&#252;r die gesetzliche Rahmensetzung, die mit Weitsicht f&#252;r die
+Folgenschwere kommender Entwicklungen und entsprechenden Vorsorgen erfolgen 
+muss. Die Landtechnik erm&#246;glicht die Digitalisierung und damit die n&#228;chste 
+Welle der Industrialisierung und Automatisierung der Landwirtschaft mit 
+weltweiten Folgen f&#252;r die Arbeit der Landwirtinnen und Landwirte,
+Lohnunternehmerinnen und Lohnunternehmer sowie Landarbeiterinnen und
+Landarbeiter (vgl. &#8222;Digitalisierung im Maschinenbau&#8220;, Working Paper
+Forschungsf&#246;rderung Nummer 094, Dispan und Schwarz-Kocher, September 2018). Um 
+einen sozial&#246;kologischen Fortschritt f&#252;r die Bereiche Landwirtschaft, Forst 
+und Gartenbau zu erzielen, werden nach Ansicht der Fragesteller politische 
+Zielvorgaben gebraucht, anhand derer ihre Erf&#252;llung gepr&#252;ft werden kann
+hinsichtlich einer weiteren Beschleunigung der aktuellen Tendenzen in den
+Problembereichen Klimaschutz, Bodenbesitz, Bodendegradierung,
+Marktmachtmonopolisierung, Einfluss landwirtschaftsfremder Investorinnen und Investoren, 
+Grundwasserqualit&#228;t, Artenvielfalt, Insektenschutz et cetera. Mit den
+vielf&#228;ltigen Chancen der KI-basierten Technologien sind gleichzeitig Risiken, wie 
+zum Beispiel Reboundeffekte, durch den wachsenden Energieverbrauch oder 
+Einsatz seltener Rohstoffe verbunden.
+1. Wie hoch sch&#228;tzt die Bundesregierung die Einsparpotenziale bei der
+Anwendung von synthetischen D&#252;ngemitteln und Pestiziden durch
+sogenannte Pr&#228;zisionslandwirtschaft ein (bitte Angabe in Prozenten unter Hinweis 
+auf die zugrundeliegende wissenschaftliche Untersuchung)?
+Welche Projekte und Anwendungen unterst&#252;tzt die Bundesregierung in 
+diesem Bereich (seit 2015, bitte H&#246;he und Empf&#228;ngerinnen und
+Empf&#228;nger benennen)?
+Die Einsparpotenziale von D&#252;ngemitteln bei der Nutzung von Techniken der 
+Pr&#228;zisionslandwirtschaft h&#228;ngen sehr stark von den lokalen Gegebenheiten ab. 
+Auf Standorten mit einer hohen Variabilit&#228;t sind h&#246;here Einsparpotenziale zu 
+erwarten als auf homogenen Fl&#228;chen, dies zeigt sich auch in den teilweise
+erheblichen Unterschieden zu Einsparpotentialen in den wissenschaftlichen
+Ver&#246;ffentlichungen. In einem Review Artikel zum Thema Pr&#228;zisionsmanagement 
+von Stickstoff in Winterweizen (Diacono et al. 2013) wurden Stickstoff-
+Einsparungspotenziale von 10 bis 80 Prozent in weltweiten Untersuchungen 
+aufgezeigt. Unter den deutschen Verh&#228;ltnissen sind nach aktuellem
+Kenntnisstand aber eher 10 Prozent als realistisch zu betrachten (Schnug &amp; Haneklaus, 
+2014; Ehlert et al., 2004).
+Die Einsparungsraten von Pflanzenschutzmitteln k&#246;nnen in den derzeit
+praktizierten konventionellen Anbausystemen nach gegenw&#228;rtigem Kenntnisstand je 
+nach spezifischem Schaderregervorkommen bei etwa 30 bis 70 Prozent
+gegen&#252;ber einer Ganzfl&#228;chenapplikation liegen. Dabei ist zu beachten, dass dies
+immer von der Kultur und der entsprechenden Kulturpflanze auf der Fl&#228;che
+abh&#228;ngt, also sehr vom jeweiligen Einzelfall abh&#228;ngig ist. R&#246;sch und Dusseldorp 
+(2007) ermittelten bei der Unkrautbek&#228;mpfung mit Offlineverfahren eine
+Reduktion der applizierten Herbizidmenge um durchschnittlich rund 50 Prozent. 
+Nach einer Studie konnten Bef&#252;rchtungen, dass eine Reduktion der
+Aufwandmenge von Herbiziden durch eine teilfl&#228;chenspezifische Applikation zu
+erh&#246;htem Unkrautdruck mit daraus resultierenden erh&#246;hten Pflanzenschutzmittel-
+Aufwendungen in den Folgejahren f&#252;hrt, bisher nicht best&#228;tigt werden
+(Nordmeyer et al., 2003). Lettner et al. (2001) haben durch die teilfl&#228;chenspezifische 
+Unkrautbek&#228;mpfung eine Herbizid-Reduktion um 30 bis 70 Prozent gegen&#252;ber 
+einer Ganzfl&#228;chenapplikation z. B. im Getreideanbau erzielt.
+Gerhards (1997) hat eine Reduktion des Herbizideinsatzes von 40 bis 50
+Prozent ermittelt, Timmermann et al. (2003) erzielten Einsparungen von
+Herbiziden zwischen 50 bis 70 Prozent. Barroso et al. (2003) kamen zu dem Ergebnis, 
+dass eine teilfl&#228;chenspezifische Behandlung nur sinnvoll war, wenn mehr als 
+ein Drittel des Schlages nicht behandelt wurde.
+Ver&#246;ffentlichungen zur D&#252;ngung:
+&#8226; Ehlert D; Schmerler J; Voelker U (2004) Variable rate nitrogen fertilisation 
+of winter wheat based on a crop density sensor. Precis Agric 5:263-273.
+&#8226; Diacono, M; Rubino, P; Montemurro F (2013) Precision nitrogen
+management of wheat. A review. Agron. Sustain. Dev. (2013) 33: 219-241.
+&#8226; Schnug, E; Haneklaus S (2014) Tomorrow's challenges for fertilizers and 
+fertilization. &#8211; 16th World fertilizer Congress of CIEC &#8211; Technological
+innovation for a sustainable tropical agri-culture.- Rio de Janeiro, Brazil (20. 
+bis 24.10.2014).
+Ver&#246;ffentlichungen zum Pflanzenschutz:
+&#8226; Barroso, J., C. Fernandez-Quintanilla, B. Maxwell, L. REW, 2003: Using 
+site specific weed management for control of wild oats in Spain: An
+economic evaluation. Precision Agriculture 4, 47-52.
+&#8226; Gerhards, R., Christensen, S., 2002: Real-time weed detection, decision
+making and patch spraying in maize, sugarbeet, winter wheat and winter
+barley. Weed Research 2003 43, 385&#8211;392.
+&#8226; Lettner, J., K. Hank, P. Wagnerr, 2001: &#214;konomische Potenziale der
+teilschlagspezifischen Unkrautbek&#228;mpfung. Berichte &#252;ber Landwirtschaft 79, 
+107-139.
+&#8226; Nordmeyer, H., A. Zuk, A. H&#228;usler, 2003: Experiences of site specific weed 
+control in winter cereals. Precision Agriculture 4, 457-462.
+&#8226; Nordmeyer, H., 2006: Reduktionsprogramm chemischer
+Pflanzenschutz &#8211; Beitrag der teilfl&#228;chenspezifischen Unkrautbek&#228;mpfung.
+Nachrichtenbl. Deut. Pflanzenschutzd., 58 (12), S. 317&#8211;322.
+&#8226; Nordmeyer, H., Gerhards, R., 1997: Das System schl&#228;gt gezielt zur&#252;ck. In: 
+DLZ-agrarmagazin, Sonderheft 10, 35-37.
+&#8226; R&#246;sch, C., M. Dusseldorp, 2007: Precision Agriculture: was innovative 
+Technik zur nachhaltigeren Landwirtschaft beitragen kann. GAIA 16 (4), 
+272-279.
+&#8226; Timmermann, C., R. Gerhards, W. K&#252;hbauch, 2003: The economic impact 
+of site-specific weed control. Precision Agriculture 4, 249-260.
+Die von der Bundesregierung unterst&#252;tzen Projekte sind in der Anlage
+tabellarisch aufgef&#252;hrt.*
+2. Ist der Bundesregierung die umfassende Untersuchung der
+Wissenschaftlichen Dienste des Europaparlaments zur Pr&#228;zisionslandwirtschaft
+(Wissenschaftliche Vorausschau der Wissenschaftlichen Dienste des Europ&#228;ischen 
+Parlaments, &#8222;Pr&#228;zisionslandwirtschaft und die Zukunft der Landwirtschaft 
+in Europa&#8220;, Schrijver, Dezember 2016) bekannt, die zu dem Schluss
+kommen, dass der gesellschaftliche Nutzen, wie zum Beispiel der
+Klimaschutz, die Ern&#228;hrungssicherung, die h&#246;here Nachhaltigkeit und der
+geringere &#246;kologische Fu&#223;abdruck, vielfach in Dokumenten nicht durch
+wissenschaftliche Studien qualitativ belegt ist, sondern nur als Narrativ
+erw&#228;hnt wird?
+Teilt die Bundesregierung diese Einsch&#228;tzung (bitte begr&#252;nden)?
+Inwieweit das Ergebnis der in der Frage genannten Untersuchung des
+Europaparlamentes, z. B. wie in der Antwort zu Frage 1 genannten Studien,
+angewandt und wissenschaftlich korrekt zitiert oder nur als narrativ verwendet
+werden, h&#228;ngt von den jeweiligen Urhebern ab. Die Bundesregierung f&#246;rdert
+aktuell 14 digitale Experimentierfelder, auf denen unter anderem untersucht werden 
+soll, wie digitale Techniken optimal zum Schutz der Umwelt, zur Steigerung 
+des Tierwohls und der Biodiversit&#228;t sowie zur Arbeitserleichterung eingesetzt 
+werden k&#246;nnen. Dabei wird auch ermittelt, welche Vorteile bei der Anwendung 
+digitaler Techniken erzielt werden.
+* Von einer Drucklegung der Anlage wird abgesehen. Diese ist auf Bundestagsdrucksache 19/16229 auf der Internetseite 
+des Deutschen Bundestages abrufbar.
+3. Wie hoch sch&#228;tzt die Bundesregierung die direkten oder indirekten
+Arbeitsplatzverluste in der Landwirtschaft sowie der Agrar- und
+Ern&#228;hrungswirtschaft infolge der Digitalisierung ein (bitte getrennt angeben f&#252;r 
+Deutschland und Entwicklungsl&#228;nder angeben)?
+Mit welchen Ma&#223;nahmen gedenkt die Bundesregierung, den potenziellen 
+negativen Besch&#228;ftigungseffekten in den l&#228;ndlichen R&#228;umen
+entgegenzuwirken?
+Aufgrund der Digitalisierung sind viele neue Technologien inzwischen
+marktreif geworden oder werden es in absehbarer Zeit werden, dies gilt auch f&#252;r die 
+Agrar- und Ern&#228;hrungswirtschaft. So sind zum Beispiel Melkroboter, 
+Satelliten-assistierte Traktorlenksysteme und M&#228;hdrescher mit
+teilfl&#228;chenspezifischer Ernteerfassung schon seit l&#228;ngerem im Einsatz (King A (2017): The
+future of agriculture. Nature 544, 21-23).
+Die Automatisierung von Arbeit und damit einhergehende Arbeitsplatzverluste 
+stehen deshalb wieder im Fokus der Diskussion. Digitalisierung ist allerdings 
+nur ein Aspekt des Wandels. Zu den tiefgreifenden Transformationsprozessen 
+von Arbeitsmarkt und Arbeitswelt geh&#246;ren auch ein globaler Wettbewerb und 
+ein zunehmend sp&#252;rbarer demografischer Wandel. Inwiefern technische
+M&#246;glichkeiten &#252;berhaupt ausgesch&#246;pft werden, h&#228;ngt au&#223;erdem von vielen weiteren 
+Faktoren ab. Wenn T&#228;tigkeiten tats&#228;chlich ersetzt werden, bedeutet dies nicht 
+zwangsl&#228;ufig, dass ein ganzer Beruf verschwindet.
+Es ist daher empirisch nicht m&#246;glich von den Substituierbarkeitspotenzialen
+innerhalb eines Berufes auf die konkrete Besch&#228;ftigungsentwicklung oder auf
+einen Minderbedarf an Fachkr&#228;ften durch Digitalisierung in der Zukunft zu 
+schlie&#223;en.
+Die Bundesregierung teilt die Auffassung des Fragestellers nicht, dass es
+Arbeitsplatzverluste in den l&#228;ndlichen R&#228;umen geben wird. Aus Sicht der
+Bundesregierung wird das Gegenteil erwartet. Eine bessere digitale Infrastruktur
+unterst&#252;tzt vor allem kleine und mittlere Unternehmen, die momentan noch unter 
+schlechter Erreichbarkeit oder geringen Datenflussmengen leiden. Bessere
+digitale Anbindung kann auch die Ansiedlung weiterer Unternehmen zur Folge
+haben. Gewerbegebiete werden attraktiver. Die Menschen in den l&#228;ndlichen
+R&#228;umen erhalten auch die M&#246;glichkeit, beispielsweise Besch&#228;ftigungsformen wie 
+Telearbeit nachzugehen. Durch neue Technologien k&#246;nnen f&#252;r bestehende
+landwirtschaftliche Betriebe neue Bet&#228;tigungsfelder entstehen.
+Zu Arbeitsplatzverlusten als Folge der Digitalisierung in der Agrar- und
+Ern&#228;hrungswirtschaft in Entwicklungsl&#228;ndern liegen der Bundesregierung keine
+detaillierten Informationen vor.
+4. In welchen Bereichen innerhalb der Landwirtschaft kann nach
+Einsch&#228;tzung der Bundesregierung KI einen Beitrag zum Gemeinwohl leisten, und 
+wie sieht dieser konkret aus?
+Welche Kriterien des Gemeinwohls stehen dahinter, und welche
+gesetzlichen Rahmensetzungen sind aus Sicht der Bundesregierung daf&#252;r
+notwendig?
+Auch in der Landwirtschaft kann k&#252;nstliche Intelligenz (KI) genutzt werden, 
+um Ressourcen effizienter einzusetzen, tiergerechter zu wirtschaften, die
+Biodiversit&#228;t zu sch&#252;tzen, hochwertige Lebensmittel nachhaltig zu produzieren und 
+Arbeitsprozesse zu erleichtern. KI kann den Entscheidungsprozess des
+Landwirts bei der Bewirtschaftung des Betriebs erleichtern und die
+Wirtschaftlichkeit erh&#246;hen. Es ist davon auszugehen, dass der Einsatz von KI einen Beitrag
+zu mehr Nachhaltigkeit und der Bewahrung der Artenvielfalt leisten kann. Dies 
+wird unabh&#228;ngig von neuen gesetzlichen Rahmenbedingungen erwartet.
+5. Wie will die Bundesregierung sicherstellen, dass die Ausgestaltung der
+zugrunde liegenden KI-Rechenvorschriften in einer Weise erfolgt, dass
+dieser gemeinwohlorientierte Beitrag erreicht wird?
+Zu diesem Zweck wurde u. a. eine Expertengruppe von der Europ&#228;ischen
+Kommission eingesetzt, die aus 52 unabh&#228;ngigen Vertretern aus Wissenschaft,
+Industrie und Zivilgesellschaft besteht und &#8222;Ethik-Leitlinien f&#252;r eine
+vertrauensw&#252;rdige KI&#8220; erarbeitet. Diese Leitlinien werden auch von der Bundesregierung 
+unterst&#252;tzt. In diesen wird ausgef&#252;hrt, dass eine vertrauensw&#252;rdige KI alle
+geltenden Gesetze und Vorschriften einhalten muss und eine Reihe von
+Anforderungen zu erf&#252;llen habe. So legen die Leitlinien sieben Kernanforderungen f&#252;r 
+eine vertrauensw&#252;rdige KI zu Grunde. Spezifische Bewertungslisten
+(&#8222;Checklisten&#8220;) sollen dazu beitragen, die Erf&#252;llung der einzelnen Kernanforderungen 
+zu &#252;berpr&#252;fen.
+6. Welche Risiken sieht die Bundesregierung bei der Anwendung von KI im 
+Allgemeinen sowie autonom entscheidender und auf Algorithmen
+basierender Systeme im Speziellen in der Landwirtschaft, und welche
+rechtlichen Anforderungen ergeben sich aus Sicht der Bundesregierung daraus?
+Die KI-Strategie der Bundesregierung f&#246;rdert die sogenannte schwache KI. Die 
+schwache KI ist im Gegensatz zur starken KI wenig dimensioniert und birgt
+damit &#252;berschaubare Risiken. Nichtsdestotrotz ist der Bundesregierung bewusst, 
+dass KI neue Herausforderungen in Bezug auf die Mensch-Maschine-
+Interaktion stellt. Dabei sind die Risiken im Bereich der Landwirtschaft
+vergleichbar mit denen in anderen Bereichen.
+Die Regierungsparteien haben in ihrem Koalitionsvertrag angek&#252;ndigt, dass 
+Verbraucherinnen und Verbraucher bei Entscheidungen, Dienstleistungen und 
+Produkten, die auf Algorithmen und k&#252;nstlicher Intelligenz basieren, einen
+besonderen Schutz bekommen sollen.
+Die im April 2018 ver&#246;ffentlichte Europ&#228;ische KI-Strategie verfolgt &#8211; im
+Einklang mit der nationalen KI-Strategie der Bundesregierung &#8211; eine
+menschenzentrierte KI. Diese sieht unter anderem den Ansatz der Gew&#228;hrleistung eines 
+geeigneten ethischen und rechtlichen Rahmens vor.
+Hinsichtlich der landwirtschaftlichen Anwendung von KI, bzw. autonom
+entscheidenden und auf Algorithmen basierenden Systemen, sind keine
+spezifischen oder speziellen, &#252;ber die allgemein mit diesen Technologien verbundenen 
+rechtliche Fragestellungen hinausgehenden Anforderungen erkennbar.
+7. Welche Kenntnisse hat die Bundesregierung &#252;ber die Ma&#223;nahmen anderer 
+EU-Mitgliedstaaten im Bereich KI in der Landwirtschaft?
+Bei mehreren Forschungsvorhaben arbeiten eine Reihe von EU-Mitgliedstaaten 
+an Fragen zu K&#252;nstlicher Intelligenz in der Landwirtschaft. Kompetenzzentren 
+gibt es beispielsweise in England, D&#228;nemark, Frankreich, Griechenland. Zum 
+Teil arbeiten die Mitgliedstaaten auch anhand l&#228;nder&#252;bergreifender
+Kooperationen gemeinsam. So befasst sich u. a. das European Research Area- Network 
+(ERA-NET) zu Information and Communication Technologies in Agriculture 
+and Food (ICT-AGRI-FOOD) mit Fragen der Digitalisierung in der
+Landwirtschaft und dem Ern&#228;hrungssektor. Dies ist ein europ&#228;isches
+Forschungsnetzwerk zur F&#246;rderung digital unterst&#252;tzter, nachhaltiger Ern&#228;hrungssysteme. In 
+dem Netzwerk arbeiten 29 F&#246;rderorganisationen aus 22 Mitgliedstaaten und 
+drei europ&#228;ischen Regionen gemeinsam daran, den Forschungsbedarf f&#252;r
+Digitalisierung im Agri-Food Sektor zu identifizieren und zu koordinieren. Das 
+Netzwerk wird von deutscher Seite koordiniert. In der European Federation for 
+Information, Technology in Agriculture, Food and the Environment (EFITA) 
+haben sich die nationalen Netzwerke aus dem Bereich der Agrarinformatik
+zusammengeschlossen. Die deutsche Gesellschaft f&#252;r Informatik in der Land-, 
+Forst- und Ern&#228;hrungswirtschaft (GIL) ist mit 200 Mitgliedern die gr&#246;&#223;te
+Mitgliedsorganisation.
+Im Rahmen der europ&#228;ischen Ratspr&#228;sidentschaft ist zudem ein Austausch zu 
+diesem Thema auf politischer Ebene geplant.
+8. Wie wird die Bundesregierung sicherstellen, dass die Ziele, Umwelt-, 
+Ressourcen- und Klimaschutz voranzubringen, die Artenvielfalt zu
+erhalten sowie Luft, B&#246;den und Wasser sauberer zu machen, in KI-Systeme
+integriert und der &#246;kologische Netto-Effekt in der Landwirtschaft positiv 
+sein wird?
+Wie soll das dokumentiert und kontrolliert werden?
+Die Bundesregierung misst KI als Schl&#252;sseltechnologie f&#252;r die Bearbeitung 
+und L&#246;sung &#246;kologischer Herausforderungen eine grundlegende Bedeutung 
+und ein hohes Potenzial bei.
+Es ist davon auszugehen, dass durch den Einsatz von KI-Systemen, viele
+positive Effekte hinsichtlich der Ziele Umwelt-, Ressourcen- und Klimaschutz
+erreicht werden k&#246;nnen. Als konkretes Umsetzungsinstrument hat z. B. das 
+Bundesministerium f&#252;r Umwelt, Naturschutz und nukleare Sicherheit am 
+21. August 2019 die F&#246;rderinformation &#8222;KI-Leuchtt&#252;rme f&#252;r Umwelt, Klima, 
+Natur und Ressourcen&#8220; ver&#246;ffentlicht. Gesucht wurden Projekte, die mittels 
+K&#252;nstlicher Intelligenz einen Beitrag zur L&#246;sung &#246;kologischer
+Herausforderungen leisten &#8211; dazu z&#228;hlen mitunter Projekte, die mittels KI zu einer
+umweltgerechten Landwirtschaft beitragen. Durch verschiedene Forschungsprojekte &#8211; 
+unter anderem die digitalen Experimentierfelder &#8211; f&#246;rdert die Bundesregierung 
+die weitere Entwicklung in diesem Bereich. Im Rahmen der dort
+durchgef&#252;hrten Arbeiten werden auch die Auswirkungen dokumentiert und quantifiziert.
+9. Welche Studien sind der Bundesregierung zu Reboundeffekten der
+Digitalen Landwirtschaft bekannt (www.santarius.de/wp-content/uploads/2017/
+04/Die-dunkle-Seite-von-smart-everything-Agora-2017.pdf)?
+Grunds&#228;tzlich wird angenommen, dass eine Effizienzsteigerung in der
+Produktion zu einem geringeren Ressourcenverbrauch f&#252;hrt und damit die Umwelt 
+entlastet. Paulsen et al. (2019) haben einen Literaturreview (33
+wissenschaftliche Artikel) zum Rebound-Effekt in der Landwirtschaft durchgef&#252;hrt. Darin 
+kommen sie zu folgenden Kernaussagen:
+&#8226; Insgesamt sei die Diskussion um Rebound-Effekte in der Landwirtschaft ein 
+relativ neues Forschungsfeld, dies zeige sich auch daran, dass 30 Prozent 
+der ber&#252;cksichtigten Artikel im Jahr 2019 und 84 Prozent der Artikel in den 
+letzten f&#252;nf Jahren ver&#246;ffentlicht wurden.
+&#8226; Auch in der Landwirtschaft erg&#228;ben sich relevante Rebound-Effekte, da die 
+Effizienzsteigerungen h&#228;ufig zu einer geringeren Ressourceneinsparung
+gef&#252;hrt haben, als zun&#228;chst erwartet wurde. Besonders relevant und
+nachweisbar seien die Rebound-Effekte im Bereich der Fl&#228;chenproduktivit&#228;t und
+Bew&#228;sserungseffizienz. Hinsichtlich der Effizienz von D&#252;ngung,
+Pflanzenschutz und Energiebedarf fehlten bisher empirische Nachweise zum 
+Rebound-Effekt.
+Es sei sehr schwierig, die Rebound-Effekte zu quantifizieren. In bisherigen
+Arbeiten zum Rebound-Effekt im Bereich Effizienz der Energieversorgung 
+schwanken die Werte zur St&#228;rke der Rebound-Effekte von 5 bis 40 Prozent 
+(Gillingham et al. 2016).
+Literatur:
+&#8226; Gillingham K; Rapson D; Wagner G (2016): The rebound effect and energy 
+efficiency policy. Rev. Evironn. Econ. Pol. 10, 68-88.
+&#8226; Schiefer J; Dillon C (2015): The economic and environmental impacts of 
+precision agriculture and interactions with agro-environmental policy. In: 
+Precision Agriculture 16 (1), S. 46-61.
+&#8226; Weller von Ahlefeld P J (2019): Rebound Effekte in der
+Pr&#228;zisionslandwirtschaft &#8211; Ein Kommentar; Berichte &#252;ber die Landwirtschaft, Zeitschrift f&#252;r 
+Agrarpolitik und Landwirtschaft Bd. 97, Ausgabe 3.
+&#8226; Paul C; Techen A-K; Robinson J S; Helming K (2019): Rebound effects in 
+agricultural land and soil management: Review and analytical framework. 
+In: Journal of Cleaner Production 229 (2019) 1054-1067.
+10. Welche Schlussfolgerungen zieht die Bundesregierung aus dem Ergebnis 
+einer Studie des Th&#252;nen-Instituts, dass in einem Vergleich von Szenarien 
+von autonomer Gro&#223;- und Kleintechnik (&#8222;Mit autonomen
+Landmaschinen zu neuen Pflanzenbausystemen&#8220; (2017)) die Vorteile f&#252;r eine
+autonome Gro&#223;technik vergleichsweise gering sind, beispielsweise aus Gr&#252;nden 
+der geringf&#252;gig niedrigeren Gesamtkosten und des h&#246;heren
+Haftungsrisikos?
+11. Welche Schlussfolgerungen zieht die Bundesregierung aus dem im
+Ergebnis derselben Studie benannten Potenzial der Nutzung von
+Kleintechnik, und mit welchen konkreten Ma&#223;nahmen wird dies unterst&#252;tzt?
+Die Fragen 10 und 11 werden aufgrund des Sachzusammenhangs zusammen 
+beantwortet.
+Ziel der genannten Studie war es, grunds&#228;tzliche Entwicklungslinien f&#252;r
+autonome Gro&#223;- und Kleinmaschinen durch eine Forschungseinrichtung
+vorzudenken und &#246;kologische und &#246;konomische Potenziale abzusch&#228;tzen. Viele der
+ersten Einsch&#228;tzungen basieren auf Annahmen, die naturgem&#228;&#223; mit
+Unsicherheiten behaftet sind. Vor diesem Hintergrund wird hier weiterhin
+Forschungsbedarf gesehen, bevor konkrete Schlussfolgerungen gezogen werden k&#246;nnen. Das 
+Bundesministerium f&#252;r Ern&#228;hrung und Landwirtschaft (BMEL) f&#246;rdert deshalb 
+Forschungsprojekte, die sich unter anderem mit entsprechenden
+Fragenstellungen befassen.
+12. Wie sch&#228;tzt die Bundesregierung die M&#246;glichkeit ein, dass digitale
+Technologien in der Landwirtschaft mehrgliedrige Fruchtfolgen,
+Mischkultursysteme, Agroforstsysteme, Futter- und K&#246;rnerleguminosen sowie den 
+Anbau tiefwurzelnder, humusmehrender Zwischenfr&#252;chte m&#246;glich
+machen bzw. f&#246;rdern?
+Durch digitale Techniken ergeben sich neue M&#246;glichkeiten &#8211; auch in den
+genannten Bereichen. Unter anderem vor diesem Hintergrund f&#246;rdert die
+Bundesregierung entsprechende Forschungsvorhaben. Insbesondere durch die
+F&#246;rderung der bundesweit verteilten digitalen Experimentierfelder werden neue 
+Kenntnisse zu diesen M&#246;glichkeiten erwartet.
+13. Welche Anforderungen ergeben sich nach Kenntnis der Bundesregierung 
+f&#252;r die autonome Kleintechnik, um eine bestm&#246;gliche Auslastung der 
+Maschinen bei Anwendung vielf&#228;ltiger Kulturkombinationen zu
+erm&#246;glichen?
+Auf die Antwort der Bundesregierung zu Frage 10 wird verwiesen. Insofern 
+sind zum jetzigen Zeitpunkt daher bislang keine Vorgaben durch die
+Bundesregierung geplant.
+14. Welche kartellrechtlichen Reformvorschl&#228;ge h&#228;lt die Bundesregierung 
+f&#252;r geeignet, um einer Monopolbildung in digitalen Sektoren
+entgegenzuwirken?
+Ein Schwerpunkt der anstehenden &#196;nderung des Gesetzes gegen
+Wettbewerbsbeschr&#228;nkungen (GWB) wird es sein, das Kartellrecht in Bezug auf die
+Digitalisierung und Globalisierung der Wirtschaftswelt zu modernisieren und f&#252;r
+digitale Gesch&#228;ftsmodelle zu erg&#228;nzen. Dabei soll der Bedeutung von Daten als 
+Wertsch&#246;pfungs- und Wettbewerbsfaktor und der Wichtigkeit des Zugangs zu 
+Daten Rechnung getragen werden. Der Referentenentwurf des BMWi befindet 
+sich derzeit in der Ressortabstimmung.
+15. Wie gedenkt die Bundesregierung, negativen Effekten wie einer
+eingeschr&#228;nkten Wahlfreiheit f&#252;r Landwirtinnen und Landwirte und einem
+erschwerten Wechsel der Anbieterin bzw. des Anbieters bei
+fortschreitender Oligopolisierung und Monopolisierung im Sektor entgegenzuwirken 
+( w w w . l a n d - c o n f l i c t s . f u - b e r l i n . d e / p u b l i k a t i o n e n / p o l i c y -
+papers/policy-paper_blocking-the-chain/index.html; www.kritischer-
+agrarbericht.de/fileadmin/Daten-KAB/KAB-2018/KAB_2018_112_118_
+Tanzmann_Voss.pdf)?
+Die &#196;nderungen des Gesetzes gegen Wettbewerbsbeschr&#228;nkungen dient unter 
+anderem dazu, negative Effekte bei digitalen Gesch&#228;ftsmodellen zu vermeiden. 
+Ob zuk&#252;nftig weiterer Handlungsbedarf besteht, wird die Bundesregierung
+intensiv beobachten.
+16. Sieht die Bundesregierung juristische Regelungsl&#252;cken, zum Beispiel bei 
+der nach Ansicht der Fragesteller bisher ungekl&#228;rten Haftungsfrage unter 
+anderem beim Verlust von Daten, f&#252;r die eine Dokumentationspflicht
+besteht, oder andere Sch&#228;den durch Technikversagen?
+Das deutsche Zivilrecht mit seinem ausgepr&#228;gten Abstraktionsniveau war
+bisher sehr gut in der Lage, sich aus sich heraus ver&#228;nderten wirtschaftlichen und 
+sozialen Gegebenheiten anzupassen. Insofern bleibt die sich entwickelnde
+Judikatur zu den aufgeworfenen Fragen abzuwarten, um etwaige Regelungsl&#252;cken 
+zu identifizieren und im vorhandenen Rechtsschutzsystem sinnvoll einbetten 
+und schlie&#223;en zu k&#246;nnen.
+17. Welche rechtlichen Ver&#228;nderungen w&#228;ren nach Einsch&#228;tzung der 
+Bundesregierung notwendig, damit die Herstellerinnen und Hersteller 
+und Dritt-technologie-Anbieterinnen und Dritttechnologie-Anbieter in 
+Haftung f&#252;r ihre eigenen digitalen Angebote genommen werden k&#246;nnen?
+Auf die Antwort zu Frage 16 wird verwiesen. Erg&#228;nzend hierzu ist
+anzumerken, dass f&#252;r die Hersteller von Dienstleistungen und Produkten bereits ein
+umfassendes Haftungssystem existent ist, das auch f&#252;r digitale Angebote gilt, so 
+dass sich hier die Frage nach etwaigen Regelungsl&#252;cken erkennbar weniger 
+dringlich stellt.
+18. Welche Ma&#223;nahmen sind aus Sicht der Bundesregierung notwendig und 
+geeignet, um die Daten der Landwirtinnen und Landwirte zu sch&#252;tzen, 
+welche Ma&#223;nahmen plant sie diesbez&#252;glich, und welche Konsequenzen 
+drohen aktuell bei Missbrauch der Datenhoheit der Landwirtin bzw. des 
+Landwirts durch ein Unternehmen?
+19. Welche M&#246;glichkeiten bestehen aus Sicht der Bundesregierung zur
+Kontrolle der Datenhoheit, und wie werden diese aktuell genutzt, und was 
+h&#228;lt die Bundesregierung zuk&#252;nftig f&#252;r notwendig?
+Die Fragen 18 und 19 werden aufgrund des Sachzusammenhangs zusammen 
+beantwortet.
+Das Bewusstsein der Verbraucherinnen und Verbraucher, sowie der Landwirte 
+bzgl. ihrer Hoheit &#252;ber die eigenen Daten sollte gesch&#228;rft werden. Die
+Bundesregierung pr&#252;ft intensiv, ob weitere Ma&#223;nahmen als notwendig erachtet
+werden. Die Bundesregierung hat eine Machbarkeitsstudie unter anderem zu
+diesem Thema in Auftrag gegeben. Auch auf Basis dieser Ergebnisse wird zu
+pr&#252;fen sein, ob weiterer Handlungsbedarf gesehen wird.
+Der Schutz von personenbezogenen Daten ist umfassend auf europ&#228;ischer
+Ebene durch die Datenschutz-Grundverordnung (DSGVO) gew&#228;hrleistet. Diese gilt 
+selbstverst&#228;ndlich auch f&#252;r Landwirtinnen und Landwirte. Der Schutz nicht 
+personenbezogener Daten regelt sich &#252;ber die zivilrechtlichen Rechtsinstitute. 
+Hier kristallisiert sich in der Rechtsprechung ein Schutz der Datenhoheit &#252;ber 
+das Institut des virtuellen Hausrechts heraus, aus dem heraus den
+Landwirtinnen und Landwirten die bekannten zivilrechtlichen Abwehrmechanismen
+zustehen.
+20. Welche aktuellen Vorgaben gelten nach Kenntnis der Bundesregierung 
+zur Einordnung von &#8222;personenbezogenen&#8220; und &#8222;betriebsbezogenen&#8220;
+Daten im Bereich der Landwirtschaft, und welche Daten sind als
+&#8222;Betriebsgeheimnisse&#8220; definiert?
+H&#228;lt die Bundesregierung diese Definitionen f&#252;r geeignet, oder sieht sie 
+Handlungsbedarf?
+Wenn ja, welchen, und warum?
+Der Begriff des personenbezogenen Datums ergibt sich bindend aus Artikel 4 
+Absatz 1 der Europ&#228;ischen Datenschutz-Grundverordnung (DSGVO). Das
+Gesch&#228;ftsgeheimnis ist in &#167; 2 des am 26. April 2019 in Umsetzung der Richtlinie 
+(EU) 2016/943 des Europ&#228;ischen Parlaments und des Rates vom 8. Juni 2016 
+&#252;ber den Schutz vertraulichen Know-hows und vertraulicher
+Gesch&#228;ftsinformationen (Gesch&#228;ftsgeheimnisse) vor rechtswidrigem Erwerb sowie
+rechtswidriger Nutzung und Offenlegung in Kraft getretenen Gesch&#228;ftsgeheimnisgesetz 
+(GeschGehG) legal definiert und hat &#167; 17 des Gesetzes gegen den unlauteren
+Wettbewerb (UWG) insoweit abgel&#246;st. Die Bundesregierung erachtet diese
+gesetzlichen Definitionen f&#252;r geeignet.
+21. Plant die Bundesregierung sicherzustellen, dass Herstellerinnen und
+Hersteller sowie H&#228;ndlerinnen und H&#228;ndler von Elektronikger&#228;ten und 
+Landtechnik einen kostenfreien Zugang zu Reparaturcodes bzw.
+Reparaturm&#246;glichkeiten f&#252;r Nutzerinnen und Nutzer sowie Landwirtinnen und 
+Landwirte bereitstellen, wie es in den USA mittlerweile in mehreren 
+Bundesstaaten gesetzliche Pflicht ist?
+Wenn ja, wie?
+Wenn nein, warum nicht?
+Aktuell gibt es keine konkreten Planungen, die Bundesregierung beobachtet
+jedoch die weitere Marktentwicklung.
+22. Wie wird aus Sicht der Bundesregierung daf&#252;r Sorge getragen, dass der 
+fl&#228;chendeckende Ausbau der 5G-kompatiblen Infrastruktur in den
+l&#228;ndlichen R&#228;umen in gleichem Ma&#223;e und in gleicher Geschwindigkeit
+vorangetrieben wird wie in den Ballungszentren?
+Das Bundeskabinett hat am 18. November 2019 die Mobilfunkstrategie der 
+Bundesregierung verabschiedet. Ziel der Mobilfunkstrategie ist es, eine
+fl&#228;chendeckende Versorgung mit mobilen Sprach- und Datendiensten (LTE/4G) 
+zu gew&#228;hrleisten, und so die Grundlagen f&#252;r den 5G-Ausbau zu legen. In der 
+Mobilfunkstrategie werden die l&#228;ndlichen R&#228;ume in den Fokus ger&#252;ckt. Die 
+Mobilfunkstrategie enth&#228;lt ein B&#252;ndel an Ma&#223;nahmen, mit dem f&#252;r die
+Gleichwertigkeit der Lebensverh&#228;ltnisse Sorge getragen wird. Zur Schlie&#223;ung wei&#223;er 
+Flecken soll beispielsweise ein F&#246;rderprogramm aufgelegt werden. Zudem 
+sieht die Mobilfunkstrategie Ma&#223;nahmen vor, welche die
+Genehmigungsverfahren f&#252;r die Errichtung neuer Mobilfunkmasten beschleunigen und die
+Akzeptanz f&#252;r den Mobilfunkausbau vor Ort st&#228;rken. Im l&#228;ndlichen Raum wird 
+ein erg&#228;nzendes F&#246;rderprogramm in H&#246;he von 60 Mio. Euro aufgelegt, um 
+wei&#223;e Flecken im Bereich land- und forstwirtschaftlicher Fl&#228;chen zu schlie&#223;en. 
+Dazu werden leistungsstarke Frequenzen f&#252;r eigene, lokale Netze bereitgestellt.
+23. Hat die Bundesregierung eine Haltung zum Zugang zur
+Kommunikationsinfrastruktur zur &#246;ffentlichen Daseinsvorsorge, sollte dieser aus Sicht 
+der Bundesregierung gesetzlich gesichert sein, und w&#228;re daf&#252;r eine
+&#246;ffentliche Infrastruktur besser geeignet?
+Wenn nein, warum nicht?
+Nach Artikel 87f Absatz 1 des Grundgesetzes (GG) gew&#228;hrleistet der Bund im 
+Bereich der Telekommunikation fl&#228;chendeckend angemessene und
+ausreichende Dienstleistungen. Diese Dienstleistungen werden nach Artikel 87f Absatz 2 
+GG als privatwirtschaftliche T&#228;tigkeiten durch private Anbieter erbracht.
+Wegen der grundlegenden Bedeutung der Versorgung mit
+Telekommunikationsdienstleistungen erwartet die Bev&#246;lkerung zu Recht vom Staat, dass er dort
+t&#228;tig wird, wo sich der Aufbau von Breitband- und Mobilfunkinfrastrukturen f&#252;r 
+die Unternehmen nicht rechnet und daher unzureichend erfolgt oder ganz
+unterbleibt.
+24. Bis wann wird aus Sicht der Bundesregierung der fl&#228;chendeckende
+Ausbau abgeschlossen sein, und wie hoch sch&#228;tzt die Bundesregierung den 
+Bedarf an nat&#252;rlichen Ressourcen wie Kupfer, Stahl, Seltene Erden und 
+den Fl&#228;chenverbrauch in Deutschland ein f&#252;r den fl&#228;chendeckenden
+Ausbau?
+Sowohl im Festnetzbereich als auch im Bereich des Mobilfunks unterst&#252;tzt die 
+Bundesregierung den Auf- und Ausbau von digitalen Infrastrukturen. In den 
+Gebieten, in denen der privatwirtschaftliche Ausbau nicht &#8211; oder nicht schnell 
+genug &#8211; erfolgt, kommen F&#246;rderinstrumente zum Einsatz. Der wettbewerbliche 
+Ausbau hat gerade bei Entwicklung und Aufbau der Mobilfunknetze eine
+erhebliche Dynamik entfaltet und eine Vielzahl von Innovationen erm&#246;glicht, die 
+man mit einer &#246;ffentlich errichteten Infrastruktur nicht erreicht h&#228;tte. Bis Ende 
+2021 m&#252;ssen 99 Prozent der Haushalte in jedem Bundesland mit Mobilfunk 
+versorgt sein. Zus&#228;tzlich enthalten die Versorgungsauflagen der
+Bundesnetzagentur aus der j&#252;ngsten Frequenzversteigerung zeitlich gestufte,
+weitergehende Versorgungsziele.
+Der fl&#228;chendeckende Ausbau mit Gigabitnetzen soll im Jahr 2025 erreicht
+werden. Zu dem Bedarf an nat&#252;rlichen Ressourcen wie Kupfer, Stahl, seltenen
+Erden und zu dem Fl&#228;chenverbrauch in Deutschland liegen der Bundesregierung 
+keine Informationen vor.
+25. In welchen gesetzgeberischen Bereich der Digitalisierung sieht die
+Bundesregierung den Bedarf einheitlicher Regelungen branchen&#252;bergreifend 
+zu initiieren?
+Wie ist hierbei der aktuelle Stand der Zusammenarbeit mit anderen
+Bereichen und der Landwirtschaft, und was ist diesbez&#252;glich geplant?
+26. Welche rechtlichen Rahmenbedingungen m&#252;ssten laut Einsch&#228;tzung der 
+Bundesregierung f&#252;r eine genossenschaftlich organisierte Datenplattform 
+f&#252;r den Bereich der Agrarwirtschaft, wie sie unter anderem vom Leibniz-
+Zentrum f&#252;r Agrarlandschaftsforschung (ZALF) im Rahmen des
+Fachgespr&#228;chs vorgeschlagen wurde, geschaffen werden, und h&#228;lt die
+Bundesregierung diesen Vorschlag f&#252;r geeignet (www.bundestag.de/dokumente/
+textarchiv/2019/kw07-pa-landwirtschaft-digitalisierung-589806; https://d
+ip21.bundestag.de/dip21/btd/19/101/1910147.pdf)?
+Wenn nein, warum nicht, und welche anderen Pl&#228;ne verfolgt sie, um das 
+damit verfolgte Ziel zu erreichen?
+Die Fragen 25 und 26 werden aufgrund des Sachzusammenhangs zusammen 
+beantwortet.
+Die Bundesregierung hat eine Machbarkeitsstudie beauftragt, in der mehrere 
+Fragen gepr&#252;ft werden sollen. Zun&#228;chst, welche Daten in welcher Form von 
+wem (Staat oder Privatwirtschaft) zur Verf&#252;gung gestellt werden sollen. Auch 
+die Vor- und Nachteile unterschiedlicher Datenplattformen und
+Organisationsformen werden untersucht. Weiter, ob in der Landwirtschaft der Bedarf nach 
+einheitlichen Regelungen vorhanden ist. Erste Ergebnisse werden
+voraussichtlich Ende 2020 vorliegen.
+27. Sieht die Bundesregierung Gefahren durch die Intervention der Digitalen 
+Big Player wie Google und Amazon in den Bereich der
+Lebensmittelproduktion (beispielsweise AmazonFresh), und wie wird sie den Schutz 
+wertvoller Daten &#252;ber das Nahrungsverhalten von B&#252;rgerinnen und
+B&#252;rgern, sowie Marktpreise von Agrarprodukten und daraus resultierende 
+R&#252;ckschl&#252;sse sichern?
+Wenn ja, welche?
+Mit der anstehenden 10. Novelle des Gesetzes gegen
+Wettbewerbsbeschr&#228;nkungen (GWB-Digitalisierungsgesetz) soll das nationale Kartellrecht in Bezug auf 
+die Digital&#246;konomie gesch&#228;rft werden. Auf die Antwort der Bundesregierung 
+zu Frage 14 wird verwiesen.
+Der Online-Handel mit Lebensmitteln ist ein Absatzmarkt mit
+Wachstumspotential, dennoch konnte sich der Online-Handel aufgrund der Gegebenheiten 
+des deutschen Lebensmittelmarktes (hohe Verkaufsstellendichte, harter
+Preiswettbewerb im Lebensmittelsektor) noch nicht in gleicher Weise etablieren wie 
+in anderen L&#228;ndern.
+28. Sieht die Bundesregierung M&#246;glichkeiten, um technologische
+Entwicklungen mit Hintert&#252;r einzubauen, damit im Falle einer St&#246;rung, eines 
+Hacks oder eines Stromausfalls der normale Betriebsablauf gesichert 
+wird?
+Die Bundesregierung kann die Frage nicht beantworten, da diese nicht
+eindeutig formuliert ist.
+29. Sollen nach Einsch&#228;tzung der Bundesregierung weitere zentrale
+Datenportale mit GovData vereint werden?
+Wenn nein, mit welcher Begr&#252;ndung?
+Wenn ja, in welcher Form?
+Das Datenportal GovData ist das nationale Metadatenportal in Deutschland und 
+bildet den Zugangspunkt f&#252;r offene Verwaltungsdaten von Bund, L&#228;ndern und 
+Kommunen. Neben den Landesportalen, an denen die jeweiligen kommunalen 
+Open-Data-Portale angebunden sind, sind einige Fachportale direkt an Gov
+Data angebunden. Im Rahmen der Ma&#223;nahme Open-Data-Plattform des IT-
+Rahmenkonzepts des Bundes wird derzeit an der Umsetzung einer IT-
+Ma&#223;nahme zur einheitlichen &#220;bergabe der Metadaten der Beh&#246;rden der
+unmittelbaren Bundesverwaltung an GovData gearbeitet. Die Anbindung weiterer 
+Portale ist nicht geplant.
+30. In welcher H&#246;he wurden Bundesmittel in den letzten f&#252;nf Jahren in das 
+Datenportal GovData investiert, und welche Mittel sind daf&#252;r zuk&#252;nftig 
+notwendig und vorgesehen?
+Grundlage f&#252;r die Finanzierung ist die Verwaltungsvereinbarung GovData.
+Danach finanzieren die Vereinbarungspartner &#8211; Bund und L&#228;nder &#8211; den
+Regelbetrieb von GovData gemeinsam auf der Grundlage des Beschlusses des IT-
+Planungsrats. Gegenw&#228;rtig sind noch nicht alle L&#228;nder der
+Verwaltungsvereinbarung beigetreten. Der Bund beteiligt sich j&#228;hrlich mit einem
+Finanzierungsanteil in H&#246;he von 17,79 Prozent an GovData. Dies entspricht 106.740 Euro 
+pro Jahr.
+31. Welche Kenntnisse hat die Bundesregierung &#252;ber die
+ministerien&#252;bergreifende Koordination der Plattform GovData?
+Wie plant die Bundesregierung, die &#8222;Richtlinie des Europ&#228;ischen
+Parlaments und Rates &#252;ber die Weiterverwendung von Informationen des
+&#246;ffentlichen Sektors (Neufassung)&#8220; (COM(2018) 234 final) in deutsches 
+Recht umzusetzen, und welche &#252;ber die Mindestanforderung
+hinausgehende Regelungen h&#228;lt die Bundesregierung f&#252;r erforderlich, um auch 
+den Sektor Landwirtschaft hinsichtlich OpenData verbessern zu k&#246;nnen?
+Gem&#228;&#223; &#167; 3 der Verwaltungsvereinbarung GovData ist f&#252;r den
+gemeinschaftlichen Betrieb, die Pflege und Weiterentwicklung von GovData die Fachgruppe 
+GovData eingerichtet worden. Der Bund ist durch das Bundesministerium des 
+Innern, f&#252;r Bau und Heimat (BMI) in der Fachgruppe GovData vertreten. Nach 
+&#167; 12 a EGovG sind die Beh&#246;rden der unmittelbaren Bundesverwaltung
+verpflichtet, offene Daten bereit zu stellen. Die Richtlinie &#252;ber offene Daten und 
+die Weiterverwendung von Informationen des &#246;ffentlichen Sektors wurde am 
+20. Juni 2019 verabschiedet. Die Bundesregierung pr&#252;ft derzeit den
+Umsetzungsbedarf.
+32. Plant die Bundesregierung, das Deutsche Wetterdienstgesetz (DWD-
+Gesetz) von der Pflicht zur Gewinnerzielung zu entheben (&#167; 6
+Verg&#252;tungen DWD-Gesetz) und so anzupassen, dass Wetterdaten f&#252;r OpenData-
+Anwendungen und Entwicklung grunds&#228;tzlich kostenlos genutzt werden 
+k&#246;nnen?
+Wenn ja, bis wann, und wenn nein, warum nicht?
+Eine Pflicht zur Gewinnerzielung ist in &#167; 6 des DWD-Gesetzes nicht gegeben. 
+Die &#196;nderung des DWD-Gesetzes vom 25. Juli 2017 realisierte die entgeltfreie 
+Bereitstellung der Geodaten und der Geodatendienste des DWD.
+33. Mit welchen Herausforderungsbereichen wird sich das
+Kompetenznetzwerk &#8222;Digitalisierung in der Landwirtschaft&#8220; nach Einsch&#228;tzung der 
+Bundesregierung besch&#228;ftigen, und wie wird sie diesen Prozess begleiten 
+und mit dem Ausschuss teilen?
+Das Kompetenznetzwerk &#8222;Digitalisierung in der Landwirtschaft&#8220; hat die
+Aufgabe, die Aktivit&#228;ten der vom BMEL gef&#246;rderten &#8222;Experimentierfelder zur
+Digitalisierung in der Landwirtschaft&#8220; &#252;bergeordnet zu unterst&#252;tzen, zu vernetzen 
+und wissenschaftlich zu begleiten. Das Kompetenznetzwerk soll die Nutzung 
+von Synergien zwischen den Projekten st&#228;rken und das Fachwissen aus den 
+einzelnen Experimentierfeldern b&#252;ndeln. Dazu sollen Ergebnisse
+zusammengefasst, bewertet und Ma&#223;nahmenvorschl&#228;ge f&#252;r die strategische
+Weiterentwicklung von F&#246;rderma&#223;nahmen erarbeitet werden. Aktuelle Entwicklungen und 
+Herausforderungen aus allen Bereichen der Digitalisierung in der
+Landwirtschaft sollen analysiert und L&#246;sungsvorschl&#228;ge erarbeitet werden. Neben der 
+Bereitstellung eines aktuellen Wissensstandes zur Digitalisierung in der
+Landwirtschaft f&#252;r die Bereiche Forschung, Wirtschaft, landwirtschaftliche Praxis 
+und Gesellschaft soll das Kompetenznetzwerk dazu dienen, weiteren
+Handlungsbedarf zu identifizieren.
+Die Begleitung des Kompetenznetzwerkes durch das BMEL wird
+sichergestellt, indem die regelm&#228;&#223;igen Sitzungen des Kompetenznetzwerkes durch die 
+Digitalisierungsbeauftragte des BMEL geleitet werden. Au&#223;erdem ist zur
+Unterst&#252;tzung des Kompetenznetzwerkes eine Gesch&#228;ftsstelle in der
+Bundesanstalt f&#252;r Landwirtschaft und Ern&#228;hrung (BLE) eingerichtet worden. Die
+Forschungsergebnisse der Experimentierfelder werden ver&#246;ffentlicht und sind
+somit allgemein zug&#228;nglich. Die Informationsweitergabe und Demonstration der 
+Ergebnisse ist ein wesentlicher Bestandteil der F&#246;rderung auf den
+Experimentierfelder. Diese stehen deshalb der interessierten &#214;ffentlichkeit unentgeltlich 
+zur Verf&#252;gung. Veranstaltung auf den Experimentierfeldern f&#252;r die
+&#214;ffentlichkeit sind vorgesehen. Sollte in einem Bundestagsausschuss weiterer
+Informationsbedarf bestehen, ist das BMEL jederzeit bereit, &#252;ber erzielte Ergebnisse 
+oder Aktivit&#228;ten zu informieren.
+Drucksache 19/16229 &#8211; 16 &#8211; Deutscher Bundestag &#8211; 19. Wahlperiode
+Drucksache 19/16229 &#8211; 18 &#8211; Deutscher Bundestag &#8211; 19. Wahlperiode
+Drucksache 19/16229 &#8211; 20 &#8211; Deutscher Bundestag &#8211; 19. Wahlperiode
+Drucksache 19/16229 &#8211; 22 &#8211; Deutscher Bundestag &#8211; 19. Wahlperiode
+Drucksache 19/16229 &#8211; 24 &#8211; Deutscher Bundestag &#8211; 19. Wahlperiode
+Drucksache 19/16229 &#8211; 26 &#8211; Deutscher Bundestag &#8211; 19. Wahlperiode
+Drucksache 19/16229 &#8211; 28 &#8211; Deutscher Bundestag &#8211; 19. Wahlperiode
+Drucksache 19/16229 &#8211; 30 &#8211; Deutscher Bundestag &#8211; 19. Wahlperiode
+Drucksache 19/16229 &#8211; 32 &#8211; Deutscher Bundestag &#8211; 19. Wahlperiode
+Drucksache 19/16229 &#8211; 34 &#8211; Deutscher Bundestag &#8211; 19. Wahlperiode
+Drucksache 19/16229 &#8211; 36 &#8211; Deutscher Bundestag &#8211; 19. Wahlperiode
+Drucksache 19/16229 &#8211; 38 &#8211; Deutscher Bundestag &#8211; 19. Wahlperiode
+Drucksache 19/16229 &#8211; 40 &#8211; Deutscher Bundestag &#8211; 19. Wahlperiode
+Drucksache 19/16229 &#8211; 42 &#8211; Deutscher Bundestag &#8211; 19. Wahlperiode
+Drucksache 19/16229 &#8211; 44 &#8211; Deutscher Bundestag &#8211; 19. Wahlperiode
+Drucksache 19/16229 &#8211; 46 &#8211; Deutscher Bundestag &#8211; 19. Wahlperiode
+Drucksache 19/16229 &#8211; 48 &#8211; Deutscher Bundestag &#8211; 19. Wahlperiode
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/15367 -
+Risiken und Chancen der Digitalisierung in der Landwirtschaft f&#252;r Gesellschaft und Gemeinwohl
+</titel>
+    <datum>2019-12-23</datum>
+  </document>
+  

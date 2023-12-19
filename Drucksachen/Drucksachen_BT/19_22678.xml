@@ -1,0 +1,489 @@
+<document>
+    <id>245403</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/22678</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>7aa10651a1db617ff881ce5bd7a6831c</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>266343</id>
+      <titel>Spionage in Deutschland</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium des Innern, f&#252;r Bau und Heimat</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/226/1922678.pdf</pdf_url>
+      <id>245403</id>
+      <dokumentnummer>19/22678</dokumentnummer>
+      <datum>2020-09-17</datum>
+      <verteildatum>2020-09-25</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Antwort
+der Bundesregierung
+auf die Kleine Anfrage der Abgeordneten Benjamin Strasser, Stephan Thomae, 
+Jens Beeck, weiterer Abgeordneter und der Fraktion der FDP
+&#8211; Drucksache 19/21948 &#8211;
+Spionage in Deutschland
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Die Bundesrepublik Deutschland steht im Fokus des Interesses ausl&#228;ndischer 
+Regierungen und ihrer Nachrichtendienste. Die verdeckte
+Informationsbeschaffung &#252;ber politische und strategische Vorg&#228;nge ist dabei ebenso g&#228;ngig 
+wie Spionageaktivit&#228;ten in Wirtschaft und Wissenschaft oder auch die
+Sabotage kritischer Infrastrukturen. Das Bundesamt f&#252;r Verfassungsschutz (BfV) 
+warnt im Verfassungsschutzbericht 2019: &#8222;Die negativen Folgen von
+Spionage sind vielf&#228;ltig. Dazu z&#228;hlen unter anderem beeinflusste demokratische 
+Willensbildungsprozesse, vorab bekannt gewordene vertrauliche
+diplomatische Verhandlungspositionen und Verst&#246;&#223;e gegen Recht und Gesetz. Die
+Ausforschung und Unterwanderung oppositioneller Gruppen aus Drittstaaten 
+durch ausl&#228;ndische Dienste in Deutschland stellt eine weitere
+Beeintr&#228;chtigung der nationalen Souver&#228;nit&#228;t dar. Aber auch der Know-how-Verlust sowie 
+die betriebs- und volkswirtschaftlichen Sch&#228;den sind immens&#8220; (s. Bundesamt 
+f&#252;r Verfassungsschutz: Verfassungsschutzbericht 2019, S. 282).
+In den vergangenen Jahren wurden auch gewaltt&#228;tige Aktivit&#228;ten
+ausl&#228;ndischer Nachrichtendienste in Deutschland bekannt. Im Jahr 2017 wurde laut 
+Presseberichten ein vietnamesischer Staatsb&#252;rger durch den Geheimdienst des 
+Landes aus Berlin nach Hanoi verschleppt (vgl. https://www.spiegel.de/politi
+k/deutschland/berlin-entfuehrung-von-thrin-xuan-thanh-mitten-in-berlin-versc
+hleppt-a-1161188.html). Am 18. Juli 2019 wurde der georgische
+Staatsangeh&#246;rige tschetschenischer Abstammung Tornike K. im Kleinen Tiergarten in 
+Berlin-Moabit erschossen. Der Generalbundesanwalt (GBA) hat am 18. Juni 
+2020 Anklage wegen Mordes gegen den russischen Staatsb&#252;rger Vadim K. 
+alias Vadim S. erhoben. Er soll laut Presseberichten den Auftrag f&#252;r den
+sogenannten Tiergarten-Mord durch staatliche Stellen der Zentralregierung der 
+Russischen F&#246;deration erhalten haben (vgl. https://www.generalbundesanwal
+t.de/SharedDocs/Pressemitteilungen/DE/aktuelle/Pressemitteilung-vom-18-0
+6-2020.html).
+Derweil machen Cyberspionage und Cybersabotage einen wesentlichen Teil 
+ausl&#228;ndischer, nachrichtendienstlicher Aktivit&#228;ten zum Nachteil der
+Bundesrepublik Deutschland aus. Im Verfassungsschutzbericht f&#252;r das Jahr 2019 
+warnt das BfV angesichts &#8222;der weiterhin voranschreitenden Entwicklung zur 
+Digitalisierung und Vernetzung unserer Gesellschaft&#8220; vor einer vergr&#246;&#223;erten 
+Deutscher Bundestag Drucksache 19/22678
+19. Wahlperiode 17.09.2020
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums des Innern, f&#252;r Bau und Heimat 
+vom 17. September 2020 &#252;bermittelt.
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext.
+&#8222;Bedrohungslage durch Cyberspionage und Cybersabotage&#8220; (s. Bundesamt f&#252;r 
+Verfassungsschutz: Verfassungsschutzbericht 2019, S. 283). Viele Aktivit&#228;ten 
+im Bereich der Cyberspionage gegen deutsche Stellen gehen demnach von 
+den Nachrichtendiensten der Russischen F&#246;deration und der Volksrepublik 
+China aus (vgl. ebd.). Der Ursprung eines schwerwiegenden Hackerangriffs 
+auf den Deutschen Bundestag im Jahr 2015 geht mutma&#223;lich auf die
+Kampagne &#8222;APT28&#8220; bzw. &#8222;Fancy Bear&#8220; zur&#252;ck, die dem russischen
+Milit&#228;rgeheimdienst GRU zugerechnet wird. Der Generalbundesanwalt erlie&#223; in der 
+Sache im Mai 2020 einen Haftbefehl gegen einen russischen
+Staatsangeh&#246;rigen (vgl. https://www.tagesschau.de/investigativ/ndr-wdr/hacker-177.html). 
+Erst k&#252;rzlich wurde ein Cyberangriff auf die BwFuhrpark Service GmbH, ein 
+Tochterunternehmen der Bundeswehr, das auch den Fahrdienst des Deutschen 
+Bundestages betreibt, bekannt (vgl. https://www.sueddeutsche.de/politik/cyber
+kriminalitaet-hackerangriff-auf-fahrdienstleister-des-bundestages-1.5000359).
+&#8199;1. Wie sch&#228;tzt die Bundesregierung die aktuelle Bedrohungslage durch 
+Spionage sowie die Schwerpunkte ausl&#228;ndischer Spionageaktivit&#228;ten in 
+Deutschland ein?
+Die Bedrohungslage f&#252;r Deutschland durch Spionage, staatliche Einflussnahme 
+und andere nachrichtendienstliche Aktivit&#228;ten versch&#228;rft sich in den
+vergangenen Jahren kontinuierlich. Geopolitisch relevante Konflikte aus verschiedenen 
+Teilen der Welt werden in Deutschland und Europa ausgetragen.
+Dementsprechend sind Nachrichtendienste vieler Staaten hierzulande verst&#228;rkt aktiv und 
+unterst&#252;tzen mit vielf&#228;ltigen Mitteln die Interessen ihrer Herkunftsl&#228;nder.
+&#8199;2. Wie haben sich in den vergangenen f&#252;nf Jahren ausl&#228;ndische
+Spionageaktivit&#228;ten in Deutschland mit der Zielsetzung
+a) der Informationsbeschaffung &#252;ber politische und administrative
+Vorg&#228;nge und Erkenntnisse,
+b) der Informationsbeschaffung und der Einflussnahme auf staatliche 
+Entscheidungstr&#228;ger,
+c) der Wirtschaftsspionage,
+d) der Wissenschaftsspionage,
+e) der Sabotage beispielsweise im Bereich von kritischer Infrastruktur 
+sowie
+f) der Proliferation entwickelt?
+Die Fragen 2 bis 2f werden im Sachzusammenhang beantwortet.
+Die Aktivit&#228;ten fremder Nachrichtendienste in der Bundesrepublik Deutschland 
+haben in den vergangenen f&#252;nf Jahren zugenommen. Besonders hervorzuheben 
+sind hierbei die Zunahme sicherheitsgef&#228;hrdender Einflussnahme-Aktivit&#228;ten 
+anderer Staaten und das Vorgehen gegen Oppositionelle anderer Staaten, die 
+sich in Deutschland befinden. Diese sind regelm&#228;&#223;ig Ziel von Aussp&#228;hungen 
+und zum Teil Opfer weitergehender Aktionen &#8211; bis hin zu Ma&#223;nahmen gegen 
+Leib und Leben. Im Rahmen von Einflussnahme-Aktivit&#228;ten sind viele Staaten 
+bestrebt, auf die politische und &#246;ffentliche Meinung in Deutschland im Sinne 
+ihrer langfristigen Ziele einzuwirken.
+Daneben stellt die Proliferationsabwehr ein dynamisches Aufgabenfeld dar, 
+welches von politischen, wirtschaftlichen und technischen Entwicklungen
+gepr&#228;gt ist. Als High-Tech-Standort ist Deutschland ein bevorzugtes Ziel
+proliferationsrelevanter Beschaffungsbem&#252;hungen.
+&#8199;3. Erkennt die Bundesregierung einen Zuwachs an nachrichtendienstlicher 
+T&#228;tigkeit ausl&#228;ndischer Staaten in Deutschland, und wenn ja, um welche 
+Staaten handelt es sich?
+Auf die Antwort zu Frage 2 wird verwiesen.
+Die im Fokus der Spionageabwehr stehenden Hauptakteure sind dem j&#228;hrlichen 
+Verfassungsschutzbericht zu entnehmen. In den letzten Jahren handelt es sich 
+hierbei regelm&#228;&#223;ig um die Nachrichtendienste der Russischen F&#246;deration, der 
+Volksrepublik China, der Islamischen Republik Iran und der Republik T&#252;rkei.
+&#8199;4. Wie bewertet die Bundesregierung die Zusammenarbeit von Bund und 
+L&#228;ndern im Gemeinsamen Extremismus- und
+Terrorismusabwehrzentrum zu &#8222;Spionage einschlie&#223;lich proliferationsrelevanter Aspekte&#8220; 
+(GETZ S/P)?
+Welche Rolle spielt das GETZ S/P aus Sicht der Bundesregierung f&#252;r die 
+bundesweite Spionageabwehr?
+Die beh&#246;rden&#252;bergreifende Zusammenarbeit bzw. der gegenseitige
+Informationsaustausch der Bundes- und Landesbeh&#246;rden innerhalb des GETZ S/P,
+sowohl im polizeilichen als auch nachrichtendienstlichen Bereich, stellt aus Sicht 
+der Bundesregierung einen wesentlichen Baustein bei der Bek&#228;mpfung von 
+Spionageaktivit&#228;ten dar.
+Das Format des GETZ S/P wird seit 2014 halbj&#228;hrlich als Austauschforum
+genutzt.
+Der fortlaufende Informationsaustausch in Angelegenheiten der
+Spionageabwehr erfolgt dar&#252;ber hinaus au&#223;erhalb formaler Gremien. Sowohl die Bund-
+L&#228;nder-Zusammenarbeit als auch die zwischen Nachrichtendiensten und
+Polizei/Strafverfolgungsbeh&#246;rden folgt dabei fest etablierten und bew&#228;hrten
+Informationsstr&#228;ngen.
+a) Welche Arbeitsgruppen bestehen innerhalb des GETZ S/P, welche
+Beh&#246;rde ist jeweils f&#252;r deren Gesch&#228;ftsf&#252;hrung verantwortlich, und in 
+welchem Turnus treten die Gruppen zusammen?
+Folgende Arbeitsgruppen bestehen innerhalb des GETZ S/P:
+&#8226; AG Lagebesprechung (Gesch&#228;ftsf&#252;hrung Bundesamt f&#252;r Verfassungsschutz 
+(BfV) und Bundeskriminalamt (BKA), Tagungsrhythmus: halbj&#228;hrlich
+&#8226; AG Gef&#228;hrdungsbewertung (Gesch&#228;ftsf&#252;hrung BKA), Tagungsrhythmus: 
+anlassbezogen
+&#8226; AG Operativer Informationsaustausch (Gesch&#228;ftsf&#252;hrung BfV und BKA), 
+Tagungsrhythmus: anlassbezogen
+&#8226; AG Fallanalyse (Gesch&#228;ftsf&#252;hrung BKA), Tagungsrhythmus: anlassbezogen
+&#8226; AG Analyse (Gesch&#228;ftsf&#252;hrung BfV), Tagungsrhythmus: anlassbezogen
+&#8226; AG Personenpotenzial (Gesch&#228;ftsf&#252;hrung BfV und BKA),
+Tagungsrhythmus: anlassbezogen
+b) Wieso wurde der Sitzungsrhythmus betreffend der AG
+Lagebesprechung des GETZ S/P von viertelj&#228;hrlich auf halbj&#228;hrlich ge&#228;ndert 
+(vgl. die Antwort der Bundesregierung auf die Kleine Anfrage auf 
+Bundestagsdrucksache 19/18932, S. 3)?
+Welche R&#252;ckschl&#252;sse sind daraus hinsichtlich der Bedrohungslage 
+durch Spionage in Deutschland zu ziehen?
+Es wird auf den zweiten Teil der Antwort zu Frage 4 verwiesen. Neben den 
+halbj&#228;hrlich anberaumten Sitzungen der AG Lagebesprechung finden weitere 
+einzelsachverhaltsbezogene Besprechungen, Arbeitstreffen etc. in
+Zusammenhang mit bestimmten Ermittlungskomplexen statt, um den dort erforderlichen 
+Informationsaustausch betroffener Beh&#246;rden, auch mit Blick auf das
+zugrundeliegende Geheimhaltungsbed&#252;rfnis, zu gew&#228;hrleisten.
+Anhand des Sitzungsrhythmus der AG Lagebesprechung l&#228;sst sich keinerlei 
+R&#252;ckschluss auf die Bedrohungslage durch Spionage in Deutschland ziehen.
+c) Wie oft kamen die einzelnen Arbeitsgruppen des GETZ S/P in den 
+vergangenen f&#252;nf Jahren zusammen (bitte nach Jahren und
+Arbeitsgruppen aufschl&#252;sseln)?
+Die Arbeitsgruppen traten in den vergangenen f&#252;nf Jahren wie folgt zusammen:
+2015 2016 2017 2018 2019 2020
+AG Lagebesprechung 2 1 3 2 2 1
+AG Operativer
+Informationsaustausch 2 5 7 1 1 16
+AG Gef&#228;hrdungsbewertung 0 1 0 0 0 0
+d) Welche Staaten standen jeweils im Zusammenhang mit
+sachverhaltsbezogenen Arbeitsgruppensitzungen des GETZ S/P (bitte nach 
+Arbeitsgruppen und Staaten aufschl&#252;sseln)?
+Im Zusammenhang mit den sachverhaltsbezogenen Arbeitsgruppensitzungen 
+werden die Staaten thematisiert, die im Fokus der Spionageabwehr und der 
+Bearbeitung entsprechender Operativf&#228;lle stehen. Die Schwerpunkte beim 
+Erkenntnisaustausch zu Sachverhalten lagen sowohl bei den Sitzungen der
+AG Lagebesprechung (allgemeiner Informationsaustausch) als auch bei der
+AG Operativer Informationsaustausch (einzelsachverhaltsbezogen)
+insbesondere bei den L&#228;ndern Iran, Russland, T&#252;rkei sowie VR China.
+&#8199;5. Wie viele Cyberangriffe wurden in den vergangenen f&#252;nf Jahren durch 
+deutsche Beh&#246;rden festgestellt (bitte nach Jahren aufschl&#252;sseln)?
+a) Wie gro&#223; ist unter den festgestellten Angriffen jeweils der Anteil von 
+Cyberspionage und Cybersabotage?
+b) In wie vielen F&#228;llen konnte der Ursprung der Cyberangriffe ermittelt 
+werden?
+In wie vielen F&#228;llen waren ausl&#228;ndische, staatliche Stellen f&#252;r die 
+Angriffe verantwortlich, und welche Staaten waren in diesen F&#228;llen 
+verantwortlich (bitte entsprechend der Fragestellung aufschl&#252;sseln)?
+Die Fragen 5 bis 5b werden im Sachzusammenhang beantwortet.
+Cyberangriffe bzw. Sicherheitsvorf&#228;lle bei Bundesbeh&#246;rden werden in der 
+Meldestelle des Bundes nach &#167; 4 des Gesetzes &#252;ber das Bundesamt f&#252;r
+Sicherheit in der Informationstechnik (BSIG) beim Bundesamt f&#252;r Sicherheit in der 
+Informationstechnik (BSI) erfasst.
+Meldungen &#252;ber Cyberangriffe oder sonstige sicherheitsrelevante Aktivit&#228;ten 
+bei Betreibern Kritischer Infrastrukturen im Sinne des BSI-Gesetzes werden 
+durch die Meldestelle gem&#228;&#223; &#167; 8b BSIG beim BSI erhoben. Daneben betreibt 
+das BSI innerhalb der Allianz f&#252;r Cyber-Sicherheit eine freiwillige Meldestelle 
+f&#252;r Sicherheitsvorf&#228;lle f&#252;r Unternehmen, die nicht unter die vorgenannte
+Meldepflicht fallen.
+Auswertungen k&#246;nnen den j&#228;hrlichen Lageberichten entnommen werden, die 
+unter der folgenden Adresse &#246;ffentlich zug&#228;nglich sind: https://www.bsi.bun
+d.de/DE/Publikationen/Lageberichte/lageberichte_node.html. Die erfassten 
+Meldungen lassen keine Trennung danach zu, ob die Angreifer staatliche
+Nachrichtendienste sind, da sich die Meldepflicht nicht auf diesen Aspekt bezieht.
+Sowohl die Unterscheidung in Cybersabotage und -spionage als auch die
+Zurechnung von Cyberangriffen zu staatlichen Akteuren ist nur in seltenen F&#228;llen 
+eindeutig. Eine belastbare Beantwortung der Frage ist vor diesem Hintergrund 
+nicht m&#246;glich.
+&#8199;6. Hat die Bundesregierung im Zusammenhang mit der Covid-19-Pandemie 
+eine H&#228;ufung von Cyberangriffen erkannt?
+Wenn ja, wie gro&#223; ist unter den festgestellten Angriffen jeweils der 
+Anteil von Cyberspionage und Cybersabotage?
+Die Bundesregierung hat im Zusammenhang mit der Covid-19-Pandemie keine 
+H&#228;ufung von Cyberangriffen festgestellt. Dabei legt sie die Definition des
+Begriffs &#8222;Cyberangriff&#8220; aus der Cybersicherheitsstrategie f&#252;r Deutschland 2016 
+zugrunde.
+Festzustellen war jedoch eine H&#228;ufung von versuchten und vollendeten
+Betrugsdelikten, die elektronische Tatmittel nutzten. Hierzu geh&#246;rt insbesondere 
+die Zunahme von Phishing-Mails, die das Thema Covid-19 in Bezug nahmen 
+und die Nutzung sogenannter Fake-Domains, um F&#246;rdermittel oder Daten von 
+Bezugsberechtigten im Zusammenhang mit den Auswirkungen von Covid-19 
+unrechtm&#228;&#223;ig zu erlangen.
+Schadsoftwarekampagnen, wie z. B. Ransomware, hielten auch in der
+Pandemie an. Unter den Betroffenen finden sich auch in der Pandemie wichtige
+Einrichtungen wie Krankenh&#228;user, Hersteller von Medizinprodukten oder
+Schutzausr&#252;stungen. Ein unmittelbarer Bezug dieser Cyberangriffe, um die
+Pandemiebek&#228;mpfung zu beeintr&#228;chtigen, konnte bisher nicht nachgewiesen werden.
+&#8199;7. Welche Rolle nimmt das Nationale Cyber-Abwehrzentrum (Cyber-AZ) 
+bei der Abstimmung von Ma&#223;nahmen gegen nachrichtendienstliche 
+Cyberangriffe (beispielsweise zur Cyberspionage und Cybersabotage) 
+ein?
+Wie erfolgt an dieser Stelle die Abgrenzung zur Arbeit des GETZ S/P?
+Das Nationale Cyber-Abwehrzentrum (Cyber-AZ) dient als Informations- und 
+Koordinierungsplattform der derzeit daran beteiligten Beh&#246;rden (vgl. Antwort 
+der Bundesregierung zu Frage 11 der Kleinen Anfrage der Fraktion der FDP 
+auf Bundestagsdrucksache 19/21675). Diese Rolle nimmt es unabh&#228;ngig von 
+der Urheberschaft des jeweils in Rede stehenden Cyberangriffs wahr.
+Das GETZ S/P besitzt einen anderen Teilnehmerkreis und ist in Abgrenzung 
+zum Cyber-AZ f&#252;r die realweltliche Spionageabwehr einschlie&#223;lich
+proliferationsrelevanter Aspekte zust&#228;ndig.
+&#8199;8. Welche weiteren Institutionen sind in Ma&#223;nahmen gegen
+nachrichtendienstliche Cyberangriffe (beispielsweise zur Cyberspionage und
+Cybersabotage) eingebunden?
+Welche Beh&#246;rden sind darin ggf. eingebunden (bitte aufschl&#252;sseln)?
+Die Zusammenarbeit mit anderen Beh&#246;rden erfolgt je nach
+Einzelfallgestaltung, sofern die rechtlichen Voraussetzungen hierf&#252;r vorliegen, und kann daher 
+nicht abschlie&#223;end und aufgeschl&#252;sselt beantwortet werden. Im &#220;brigen wird 
+auf die Antwort zu Frage 14, 1. Teilfrage verwiesen.
+&#8199;9. Konnte die Bundesregierung die Zielsetzung &#8222;einer verst&#228;rkten
+Einbindung der L&#228;nder&#8220; in das Cyber-AZ erreichen (s. die Antwort der
+Bundesregierung auf die Kleine Anfrage auf Bundestagsdrucksache 19/7607, 
+S. 5)?
+Welche Ma&#223;nahmen hat die Bundesregierung getroffen, um eine
+verst&#228;rkte Einbindung der L&#228;nder zu erreichen?
+Welche Landesbeh&#246;rden sind inzwischen im Cyber-AZ konkret
+vertreten?
+Die Bundesregierung verfolgt nach wie vor das Ziel einer geeigneten
+Einbindung der L&#228;nder in das Cyber-AZ. Die zur konkreten Ausgestaltung im ersten 
+Halbjahr 2020 angedachten Workshops konnten aufgrund der COVID-19-
+Pandemie noch nicht durchgef&#252;hrt werden.
+Allerdings partizipieren die L&#228;nder auch heute schon an der Arbeit des Cyber-
+AZ. &#220;ber die Zentralstellenfunktionen des BKA und BfV sowie den
+Verwaltungs-CERT-Verbund, dem das BSI angeh&#246;rt, werden bei Bedarf Informationen 
+zwischen Cyber-AZ und den L&#228;ndern ausgetauscht.
+10. Auf welchen konkreten rechtlichen Grundlagen basieren die
+Zusammenarbeit und der Informationsaustausch im Cyber-AZ hinsichtlich der
+beteiligten Bundesbeh&#246;rden?
+Auf welchen konkreten rechtlichen Grundlagen basieren sie nach
+Kenntnis der Bundesregierung hinsichtlich der beteiligten L&#228;nderbeh&#246;rden 
+(bitte aufschl&#252;sseln)?
+Die Zusammenarbeit und der Informationsaustausch basieren auf den
+einschl&#228;gigen Rechtsgrundlagen der teilnehmenden Beh&#246;rden. Dabei handelt es sich 
+insbesondere um das Bundesverfassungsschutzgesetz (BVerfSchG),
+Bundeskriminalamtgesetz (BKAG), Gesetz &#252;ber den Bundesnachrichtendienst (BNDG), 
+Bundespolizeigesetz (BPolG) und BSIG. Infrage kommen sowohl
+Aufgabennormen wie beispielsweise &#167; 3 Absatz 1 Nummer 12 bis 15 BSIG als auch
+spezifische &#220;bermittlungsvorschriften in den jeweiligen Gesetzen. Auf welche 
+Rechtsvorschrift sich die Zusammenarbeit im jeweiligen Einzelfall st&#252;tzt, ist 
+von den konkreten Gegebenheiten abh&#228;ngig und kann nicht pauschal
+beantwortet werden.
+11. Welche Erkenntnisse liegen der Bundesregierung gegenw&#228;rtig zum 
+Cyberangriff auf die BwFuhrpark Service GmbH vor?
+Die IT-Systeme der BwFuhrparkService GmbH wurden mit der Schadsoftware 
+Emotet (Erpressungstrojaner) infiziert.
+Umfang und das Muster des Hacker-Angriffs lassen darauf schlie&#223;en, dass es 
+sich hierbei um die Vorbereitung einer Erpressung gegen die BwFuhrpark
+Service GmbH handelt.
+Am 13. August 2020 hat die Gesellschaft nach einer detaillierten Erstanalyse 
+vorsorglich ihre IT-Systeme vollst&#228;ndig vom Internet getrennt, um eine weitere 
+Ausbreitung auf andere IT-Systeme sowie weitere Institutionen zu vermeiden. 
+Weder sind Daten auf den IT-Systemen der BwFuhrparkService GmbH
+verschl&#252;sselt worden, noch sind derzeit erpresserische Handlungen zu Lasten der 
+BwFuhrparkService GmbH bekannt.
+a) Wann, wie, und durch welche Stelle wurde der Cyberangriff
+aufgedeckt?
+Der Zugriff auf das IT-System der BwFuhrparkService GmbH wurde am 
+13. August 2020 durch den IT Security Manager der BwFuhrparkService 
+GmbH festgestellt. Dem vorausgegangen waren diverse Virenmeldungen
+einschlie&#223;lich deren &#220;berpr&#252;fung und daraus resultierender Gegenma&#223;nahmen.
+b) Welche staatlichen Stellen sind in die Aufkl&#228;rung des Cyberangriffs 
+eingebunden?
+Derzeit ist das Cyber Response Emergency Team des Cyber Security
+Operations Centre der Bundeswehr, das BKA sowie das BSI in die Aufkl&#228;rung
+eingebunden.
+In der Informations- und Koordinierungsplattform Cyber-AZ erfolgt im
+Rahmen der gesetzlichen Grundlagen der teilnehmenden Beh&#246;rden ein
+regelm&#228;&#223;iger Informationsaustausch. Die Staatsanwaltschaft K&#246;ln hat ebenfalls
+Ermittlungen aufgenommen. Der Bundesbeauftragte f&#252;r den Datenschutz und die 
+Informationsfreiheit wurde in Kenntnis gesetzt.
+c) Konnte der Ursprung des Angriffs ermittelt bzw. auf einen konkreten 
+Urheber zur&#252;ckgef&#252;hrt werden?
+Trotz intensiver und umfangreicher forensischer Arbeiten konnten Ursprung 
+oder Urheber des Angriffs bislang nicht ermittelt werden. Die Untersuchungen 
+dauern an.
+d) In welchem Umfang sind Daten abgeflossen?
+Welche Art von Daten sind abgeflossen?
+Es gibt bislang keine Erkenntnisse dar&#252;ber, dass Daten abgeflossen sind.
+e) Welche Stellen bzw. Arbeitsebenen waren im Vorfeld des
+Cyberangriffs f&#252;r die Systeminfrastruktur der BwFuhrpark Service GmbH 
+bzw. deren Schutz verantwortlich?
+Die Verantwortung f&#252;r die Systeminfrastruktur und deren Schutz obliegt der 
+BwFuhrparkService GmbH.
+f) War das Zentrum f&#252;r Cybersicherheit der Bundeswehr im Vorfeld des 
+Cyberangriffs in den Schutz der Systeminfrastruktur der BwFuhrpark 
+Service GmbH eingebunden?
+Wenn ja, in welcher Form?
+Wenn nein, wieso nicht?
+Nein, da die BwFuhrparkService GmbH nicht in den Zust&#228;ndigkeitsbereich des 
+Zentrums f&#252;r Cyber-Sicherheit der Bundeswehr f&#228;llt.
+g) War das Bundesamt f&#252;r Sicherheit in der Informationstechnik (BSI) im 
+Vorfeld des Cyberangriffs in den Schutz der Systeminfrastruktur der 
+BwFuhrpark Service GmbH eingebunden?
+Wenn ja, in welcher Form?
+Wenn nein, wieso nicht?
+Das BSI hat das Sicherheitskonzept DSWfahr der BwFuhrparkService GmbH 
+gepr&#252;ft. Nicht Bestandteil der Pr&#252;fung waren: die Backend-Anwendungen von 
+DSW einschlie&#223;lich des Webservers, die Backend-Systeme von DSW, die
+Lokationen der Backend-Systeme von DSW, die Schnittstelle zu DSW/DSW-FD 
+und der AuthService. Im &#220;brigen war das BSI im Vorfeld nicht eingebunden, 
+da das IT-System der BwFuhrparkService GmbH in seiner Gesamtheit nicht in 
+dessen Zust&#228;ndigkeitsbereich f&#228;llt.
+12. Wie viele Ermittlungsverfahren zum Bereich von Landesverrat und 
+Gef&#228;hrdung der &#228;u&#223;eren Sicherheit (&#167;&#167; 93&#8211;101a des Strafgesetzbuchs 
+(StGB)) hat der Generalbundesanwalt (GBA) in den vergangenen f&#252;nf 
+Jahren gef&#252;hrt?
+In wie vielen der Verfahren kam es zu einer Verurteilung (bitte
+aufschl&#252;sseln)?
+Der Generalbundesanwalt beim Bundesgerichtshof hat in den Jahren 2015 bis 
+2020 bislang insgesamt 98 Ermittlungsverfahren wegen des Verdachts von 
+Straftaten des zweiten Abschnitts des Strafgesetzbuchs (StGB &#8211; Landesverrat 
+und Gef&#228;hrdung der &#228;u&#223;eren Sicherheit) eingeleitet. In neun Verfahren kam es 
+gegen zw&#246;lf Angeklagte zu rechtskr&#228;ftigen Verurteilungen. Sieben Angeklagte 
+wurden wegen geheimdienstlicher Agentent&#228;tigkeit nach &#167; 99 StGB und ein 
+Angeklagter wegen Beihilfe zur geheimdienstlichen Agentent&#228;tigkeit verurteilt, 
+gegen zwei Angeklagte wurden Urteile wegen Offenbarens von
+Staatsgeheimnissen nach &#167; 95 StGB verh&#228;ngt und in einem weiteren gegen zwei Angeklagte 
+gerichteten Verfahren kam es zu einer Verurteilung wegen Landesverrats sowie 
+wegen Beihilfe zum Landesverrat.
+13. Wie viele der Verfahren hatten einen Zusammenhang mit einer
+nachrichtendienstlichen T&#228;tigkeit der Russischen F&#246;deration, der Volksrepublik 
+China, der Republik T&#252;rkei, der Arabischen Republik &#196;gypten sowie der 
+Sozialistischen Republik Vietnam?
+Ausk&#252;nfte zu den in der Frage genannten Staaten k&#246;nnen nicht erteilt werden. 
+Trotz der grunds&#228;tzlichen verfassungsrechtlichen Pflicht der Bundesregierung, 
+Informationsanspr&#252;che des Deutschen Bundestages zu erf&#252;llen, tritt hier nach 
+Abw&#228;gung der betroffenen Belange das Informationsinteresse des Parlaments 
+hinter den berechtigten Geheimhaltungsinteressen zur&#252;ck, da diese
+Informationen R&#252;ckschl&#252;sse auf zum Teil noch verdeckt gef&#252;hrte Ermittlungsverfahren 
+zulie&#223;en und damit Ermittlungen beeintr&#228;chtigen k&#246;nnten. Das
+verfassungsrechtlich verb&#252;rgte Frage- und Informationsrecht des Deutschen Bundestages 
+gegen&#252;ber der Bundesregierung wird insoweit durch das gleichfalls
+Verfassungsrang genie&#223;ende schutzw&#252;rdige Interesse an der Gew&#228;hrleistung einer 
+funktionst&#252;chtigen Strafrechtspflege begrenzt.
+14. Welche Ma&#223;nahmen ergreift die Bundesregierung, um ausl&#228;ndische 
+Spionageaktivit&#228;ten in Deutschland wirkungsvoll zu unterbinden?
+Welche gesetzgeberischen Ma&#223;nahmen hat sie bereits ergriffen, und
+welche zuk&#252;nftigen Ma&#223;nahmen plant sie?
+Die wesentlichen Bausteine bei der Bek&#228;mpfung ausl&#228;ndischer (Cyber-)
+Spionageaktivit&#228;ten stellen der gegenseitige Informationsaustausch der jeweils
+zust&#228;ndigen Bundes- und Landesbeh&#246;rden sowohl im polizeilichen als auch
+nachrichtendienstlichen Bereich sowie eine konsequente Strafverfolgung dar. Sofern 
+erforderlich werden internationale Partner in die Zusammenarbeit einbezogen. 
+Ein weiterer wesentlicher Baustein ist die Pr&#228;ventionsarbeit durch Vortr&#228;ge, 
+Ver&#246;ffentlichungen und Gespr&#228;che, insbesondere mit denjenigen Personen aus 
+den Bereichen Wissenschaft, Wirtschaft, Politik und Verwaltung, die im
+besonderen Fokus fremder Nachrichtendienste stehen, um ausl&#228;ndische
+Spionageaktivit&#228;ten in Deutschland zu unterbinden. Dar&#252;ber hinaus werden sowohl
+anlassunabh&#228;ngige als auch generelle Sensibilisierungsma&#223;nahmen f&#252;r Beh&#246;rden, 
+Wirtschaft und Forschung im Bereich Cybersicherheit im Rahmen des
+Pr&#228;ventionsauftrags durchgef&#252;hrt. Dabei werden typische Angriffsmethoden und
+m&#246;gliche Abwehrma&#223;nahmen erl&#228;utert. Im &#220;brigen wird auf die Antwort zu 
+Frage 16 verwiesen.
+Die Bundesregierung betrachtet die Bek&#228;mpfung der ausl&#228;ndischen
+Spionageaktivit&#228;ten als wichtiges Handlungsfeld.
+Bei der Gew&#228;hrleistung der Sicherheit der Bundesrepublik Deutschland
+verfolgt die Bundesregierung jedoch einen ganzheitlichen Ansatz mit der Folge, 
+dass gesetzgeberische Ma&#223;nahmen nicht nur verengt auf den Bereich der
+Spionageabwehr durchgef&#252;hrt werden, sondern vielmehr einen umfassenden Schutz 
+sicherstellen sollen.
+Ein hoher Standard im Bereich der Cyber-und Informationssicherheit stellt 
+einen besonders wirksamen Schutz vor staatlich gesteuerten Cyber-Angriffen 
+dar. Die von der Bundesregierung getroffenen Ma&#223;nahmen in diesem Bereich 
+sind vielf&#228;ltig. Hervorzuheben w&#228;ren u. a. die Einf&#252;hrung von
+Mindeststandards f&#252;r die IT-Sicherheit und Meldepflichten f&#252;r Betreiber kritischer
+Infrastrukturen, der Ausbau der Cyber-F&#228;higkeiten bei den
+Bundessicherheitsbeh&#246;rden und des BSI und das IT-Sicherheitsgesetz von 2015, das derzeit unter dem 
+Namen IT-Sicherheitsgesetz 2.0 novelliert wird.
+15. Wie viele ausl&#228;ndische Staatsb&#252;rger wurden nach Kenntnis der
+Bundesregierung in den vergangenen f&#252;nf Jahren aufgrund
+nachrichtendienstlicher T&#228;tigkeit aus Deutschland ausgewiesen (bitte nach Jahren und 
+Nationalit&#228;t aufschl&#252;sseln)?
+Aufenthaltsbeendende Ma&#223;nahmen gegen&#252;ber in Deutschland lebenden
+Ausl&#228;ndern, wie etwa Ausweisungen gem&#228;&#223; den &#167;&#167; 53, 54 des Aufenthaltsgesetzes, 
+unterliegen nicht der Zust&#228;ndigkeit des Bundes; sie sind L&#228;ndersache. Eine 
+Statistik zu Ausweisungsgr&#252;nden wird im Bund nicht gef&#252;hrt. Vor diesem 
+Hintergrund kann eine Auskunft speziell zu etwaigen aufenthaltsbeendenden 
+Ma&#223;nahmen gegen Ausl&#228;nder wegen des Verdachts der geheimdienstlichen 
+Agentent&#228;tigkeit nicht getroffen werden.
+Aufenthaltsbeendende Ma&#223;nahmen nach dem Aufenthaltsgesetz sind gegen in 
+Deutschland akkreditierte Diplomaten nicht m&#246;glich. Gegen diesen
+Personenkreis kommen nur Notifizierungen als &#8222;persona non grata&#8220; nach Artikel 9 des 
+Wiener &#220;bereinkommens &#252;ber die Diplomatischen Beziehungen (W&#220;D) bzw. 
+Artikel 23 des Wiener &#220;bereinkommens &#252;ber die konsularischen Beziehungen 
+(W&#220;K) in Betracht.
+In den letzten f&#252;nf Jahren hat das Ausw&#228;rtige Amt insgesamt sechs Angeh&#246;rige 
+der Botschaft der Russischen F&#246;deration und zwei Angeh&#246;rige der Botschaft 
+der Sozialistischen Republik Vietnam zu &#8222;personae non gratae&#8220; erkl&#228;rt sowie 
+zur Ausreise aufgefordert.
+16. Zu welchen Themen wurden in den vergangenen f&#252;nf Jahren sog.
+Sicherheitshinweise durch das Bundesamt f&#252;r Verfassungsschutz
+herausgegeben (bitte nach Jahren, Themen und ggf. Anzahl aufschl&#252;sseln)?
+Das BfV hat Sicherheitshinweise zu den folgenden Themen herausgegeben:
+1. Am 20.05.2020 informierte das BfV dar&#252;ber, dass neben Gefahren von 
+Cyberattacken auch verst&#228;rkte Aktivit&#228;ten fremder Nachrichtendienste im 
+Bereich solcher Unternehmen und wissenschaftlicher Einrichtungen zu
+bef&#252;rchten sind, die an Impfstoffen, Medikamenten, Antik&#246;rpertests und
+weiteren Innovationen forschen, welche im unmittelbaren Bezug zur Pandemie 
+stehen.
+2. Mit Schreiben vom 10. Juni 2020 richtete das BfV einen Sicherheitshinweis 
+an Unternehmen der maritimen Wirtschaft, in welchem es um
+Vulnerabilit&#228;ten moderner Navigationssysteme durch m&#246;gliche nachrichtendienstliche 
+Beeintr&#228;chtigungen, insbesondere im Zusammenhang mit der Kombination 
+von GPS-Navigation, Radar, AIS (Automatisches Identifikationssystem), 
+elektronische Seekarten etc. in einem einzigen sog. ECDIS (electronic chart 
+display and information system) geht.
+3. Im August 2020 hat das BfV gemeinsam mit dem BKA einen
+Sicherheitshinweis zu Cyberspionage mittels der Schadsoftware GOLDENSPY
+herausgegeben.
+Daneben wird seit Oktober 2015 mehrfach j&#228;hrlich der &#8222;BfV Cyber-Brief&#8220; mit 
+Hinweisen und Informationen zu aktuellen Angriffskampagnen ver&#246;ffentlicht. 
+Die Themen und Inhalte des Cyber-Briefs und anderer Sicherheitshinweise sind 
+auf der Internetseite des BfV &#246;ffentlich einsehbar und nach Monat und Jahr 
+sortiert.
+Weiterhin informierte und sensibilisierte das BfV in den letzten Jahren im
+Rahmen verschiedener Formate die &#214;ffentlichkeit &#252;ber hier vorliegende
+Erkenntnisse zu Aktivit&#228;ten fremder Nachrichtendienste in Deutschland.
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/21948 -
+Spionage in Deutschland</titel>
+    <datum>2020-09-17</datum>
+  </document>
+  

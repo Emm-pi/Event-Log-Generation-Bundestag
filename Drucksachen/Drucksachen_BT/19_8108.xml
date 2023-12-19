@@ -1,0 +1,282 @@
+<document>
+    <id>226829</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/8108</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>f6a478297784a7ecd17905b255a0b784</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>244279</id>
+      <titel>Kundendaten insolventer Clouddienst-Anbieter</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium der Justiz und f&#252;r Verbraucherschutz</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/081/1908108.pdf</pdf_url>
+      <id>226829</id>
+      <dokumentnummer>19/8108</dokumentnummer>
+      <datum>2019-03-04</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums der Justiz und f&#252;r
+Verbraucherschutz vom 1. M&#228;rz 2019 &#252;bermittelt.  
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext. 
+Deutscher Bundestag  Drucksache 19/8108 
+19. Wahlperiode 04.03.2019 
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Stephan Thomae, Grigorios Aggelidis, 
+Renata Alt, weiterer Abgeordneter und der Fraktion der FDP 
+&#8211; Drucksache 19/7808 &#8211; 
+Kundendaten insolventer Clouddienst-Anbieter 
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r  
+Das Auslagern des Soft- oder Hardwarebetriebs im Rahmen von
+Gesch&#228;ftsmodellen des Cloud-Computing gewinnt immer mehr an Marktrelevanz. Dies
+beinhaltet, dass zahlreiche Kunden solcher Clouddienst-Anbieter auch ihre Daten 
+auf externen Servern ablegen. Kunden k&#246;nnen Privatpersonen sein, die dort
+pers&#246;nliche Daten abspeichern. Aber auch Unternehmen nutzen die M&#246;glichkeit 
+der Auslagerung von IT-Infrastrukturen f&#252;r ihren gesch&#228;ftlichen Betrieb und das 
+Ablegen gro&#223;er Datenmengen, die oftmals von erheblicher wirtschaftlicher
+Bedeutung f&#252;r den Kunden sind. 
+F&#252;r den Kunden ist daher die M&#246;glichkeit, auf seine Daten zuzugreifen, von 
+gro&#223;er Relevanz. W&#228;hrend das bei laufenden Vertragsverh&#228;ltnissen kaum zu 
+praktischen Problemen f&#252;hrt, ist die Lage f&#252;r den Insolvenzfall auf Seiten des 
+Clouddienst-Anbieters unklar. Nach &#167; 103 Absatz 1 der Insolvenzordnung 
+(InsO) steht dem Insolvenzverwalter ein Wahlrecht zu, ob er das
+Schuldverh&#228;ltnis anstelle des Anbieters mit dem Kunden fortf&#252;hren m&#246;chte. Wird das
+Schuldverh&#228;ltnis nicht fortgef&#252;hrt, stehen dem Insolvenzgl&#228;ubiger in der Regel nur 
+Zahlungsanspr&#252;che zu, so dass die Zugriffsm&#246;glichkeiten auf seine Daten 
+grunds&#228;tzlich verloren gehen. Insbesondere in den Vereinigten Staaten haben 
+sich deshalb vertragliche &#8222;Dateneigentumsklauseln&#8220; etabliert, die eine
+rechtliche Zuordnung der Daten zum Clouddienst-Anbieter ausschlie&#223;en, um im
+Insolvenzfall eine Zugeh&#246;rigkeit der Daten zur Insolvenzmasse zu verhindern.
+1. Wie beurteilt die Bundesregierung die Zugeh&#246;rigkeit von Kundendaten zur 
+Insolvenzmasse eines Clouddienst-Anbieters als Verm&#246;genswert i. S. d. 
+&#167; 35 Absatz 1 InsO? 
+3. Steht dem Kunden nach Auffassung der Bundesregierung ein
+Aussonderungsanspruch an den Daten zu, die er auf dem Server des Cloudanbieters 
+gespeichert hat? 
+4. Wie beurteilt die Bundesregierung die Bestimmbarkeit einzelner Datens&#228;tze 
+als notwendiges Kriterium hinsichtlich eines Aussonderungsanspruchs nach 
+&#167; 47 InsO im Rahmen der Speicherung 
+a) auf einer Private Cloud bzw. 
+b) auf einer Public Cloud? 
+5. Sieht die Bundesregierung diesbez&#252;glich Handlungsbedarf? 
+6. Welchen Handlungsbedarf sieht die Bundesregierung, um die rechtliche
+Zuordnung von Daten unabh&#228;ngig von der Eigentumsposition des Datentr&#228;gers 
+vorzunehmen? 
+Die Fragen 1 und 3 bis 6 werden gemeinsam beantwortet. 
+Im Unterschied zu den Datentr&#228;gern, auf denen Daten gespeichert sind, lassen 
+sich Daten als solche nicht ohne weiteres unter die sachen- und
+verm&#246;gensrechtlichen Begriffe fassen, an denen die insolvenzrechtliche Unterscheidung
+zwischen massezugeh&#246;rigen und massefremden Gegenst&#228;nden ankn&#252;pft. Der
+Bundesgerichtshof hat zwar in einem schadensrechtlichen Zusammenhang von Daten 
+als einem &#8222;selbst&#228;ndigen verm&#246;genswerten Gut&#8220; gesprochen (BGHZ 133, 155). 
+Auch hat das OLG D&#252;sseldorf (Urteil vom 27. September 2012, Az. 6 U 241/11) 
+in der Insolvenz einer Werbeagentur einen Anspruch des Auftraggebers auf
+Herausgabe der f&#252;r die Versendung von Newslettern &#252;berlassenen Kundendaten auf 
+&#167; 667 erste Alternative, &#167; 675 BGB gest&#252;tzt und ein entsprechendes
+Aussonderungsrecht nach &#167; 47 der Insolvenzordnung (InsO) bejaht. Die vertragliche,
+technische und organisatorische Ausgestaltung von Cloud- und anderen
+Datendiensten kann aber im Einzelnen sehr unterschiedlich ausfallen. Vor diesem
+Hintergrund lassen sich die Fragen der Massezugeh&#246;rigkeit und der
+Aussonderungsf&#228;higkeit von Daten sowie die weiteren, sich daraus ergebenden Folgefragen
+bislang nicht abschlie&#223;end und allgemein beantworten. Die genannten
+Entscheidungen und die hieran ankn&#252;pfende rechtswissenschaftliche Diskussion geben aber 
+auch keinen Anlass zu der Bef&#252;rchtung, dass die sich stellenden Fragen auf der 
+Grundlage des geltenden Rechts von der Rechtsprechung nicht in angemessener 
+Weise bew&#228;ltigt werden k&#246;nnten. 
+2. Nach welchen Kriterien beurteilt die Bundesregierung die Bezifferbarkeit 
+a) des materiellen und immateriellen Schadens f&#252;r den Kunden im Falle des 
+Datenverlustes bzw. 
+b) eines Zahlungsanspruchs des Insolvenzgl&#228;ubigers hinsichtlich seiner 
+Kundendaten? 
+Die Bezifferbarkeit von Sch&#228;den richtet sich auch bei Datenverlusten nach dem 
+allgemeinen Schadensrecht (&#167; 249 ff. BGB; vgl. auch dazu BGHZ 133, 155) bzw. 
+nach den insolvenzrechtlichen Vorschriften, auf denen die Bezifferung beruht 
+(&#167;&#167; 45, 103 Absatz 2 InsO).
+7. Welche Ma&#223;nahmen plant die Bundesregierung bei der Frage der rechtlichen 
+Zuordnung von Daten hinsichtlich des Cloud-Computings zur Erh&#246;hung von 
+Rechtssicherheit f&#252;r Anbieter und Kunden? 
+Es wird auf die Antwort zu Frage 1 verwiesen. 
+Dar&#252;ber hinaus weist die Bundesregierung auf das Ergebnis der gerade
+abgeschlossenen Trilogverhandlungen &#252;ber die Richtlinie digitale Inhalte hin. Danach 
+soll ein Verbraucher gegen&#252;ber dem Anbieter von Cloud-Computing-Diensten 
+nach Vertragsbeendigung unter bestimmten Bedingungen einen Anspruch auf 
+Herausgabe der nicht personenbezogenen Daten haben. Mit dem Inkrafttreten der 
+Richtlinie ist f&#252;r den Sommer 2019 zu rechnen. 
+8. H&#228;lt die Bundesregierung die vertragliche Ausgestaltung durch sogenannte 
+Dateneigentumsklauseln f&#252;r die Zuordnung f&#252;r ausreichend? 
+Es wird auf die Antwort zu Frage 1 verwiesen. 
+9. Welche Verwertungsrechte stehen dem Insolvenzverwalter nach Ansicht der 
+Bundesregierung hinsichtlich der Kundendaten zu? 
+10. Wie sind nach Ansicht der Bundesregierung die rechtlichen Konfliktlinien 
+aufzul&#246;sen, die zwischen Verwertungsrechten des Insolvenzverwalters und 
+a) der Datenschutz-Grundverordnung, 
+b) des Schutzes des Datenbankherstellers nach dem Urheberrechtsgesetz 
+bzw. 
+c) des geplanten Gesetzes zur Umsetzung der Richtlinie (EU) 2016/943 zum 
+Schutz von Gesch&#228;ftsgeheimnissen vor rechtswidrigem Erwerb sowie 
+rechtswidriger Nutzung und Offenlegung (Bundestagsdrucksache 19/4724) 
+entstehen? 
+Die Fragen 9 und 10 werden wegen des inhaltlichen Zusammenhangs gemeinsam 
+beantwortet. 
+Ein Verwertungsrecht des Insolvenzverwalters besteht nur an dem zur
+Insolvenzmasse geh&#246;renden Verm&#246;gen des Schuldners (&#167; 159 InsO). Ist der Kunde gem&#228;&#223; 
+&#167; 47 InsO zur Aussonderung seiner Daten berechtigt, sind diese nicht Teil der 
+Insolvenzmasse; an ihnen besteht mithin auch kein Verwertungsrecht. Fallen die 
+Daten hingegen in die Insolvenzmasse, kann der Verwalter sie auch verwerten. 
+Die Frage 10a zielt auf die tats&#228;chliche Anwendung und Umsetzung der
+Verordnung (EU) 2016/679 (im Folgenden: Datenschutz-Grundverordnung bzw. 
+DSGVO), die seit 25. Mai 2018 gilt und den Umgang mit personenbezogenen 
+Daten in der EU regelt, bei der Insolvenzverwaltung ab. Die &#220;berwachung und 
+Durchsetzung der Einhaltung der Datenschutz-Grundverordnung bei
+Insolvenzverwaltern obliegt jedoch alleine den unabh&#228;ngigen Aufsichtsbeh&#246;rden gem&#228;&#223; 
+Artikel 57 Absatz 1 Buchstabe a DSGVO. Dies hat die Bundesregierung bereits 
+in mehreren Kleinen Anfrage (z. B. &#8222;Auswirkungen der EU-Datenschutz-
+Grundverordnung&#8220; der Fraktion DIE LINKE., Bundestagsdrucksache 19/3341, S. 2) 
+eindeutig klargestellt. Die Bundesregierung achtet diese in der DSGVO
+ausdr&#252;cklich festgeschriebene Unabh&#228;ngigkeit der Datenschutzaufsichtsbeh&#246;rden. Eine 
+rechtliche Aussage kann daher mit Blick auf diese Unabh&#228;ngigkeit der
+Datenschutzaufsichtsbeh&#246;rden seitens der Bundesregierung nicht getroffen werden. 
+Im &#220;brigen wird auf die Antwort zu Frage 1 verwiesen.
+11. Wie beurteilt die Bundesregierung die datenschutzrechtliche Stellung des
+Insolvenzverwalters, wenn der Clouddienst-Anbieter Auftragnehmer einer 
+Auftragsdatenverarbeitung war? 
+Die Bundesregierung verweist auf die Antwort zu Frage 10a. Die dort genannten 
+Erw&#228;gungen zur Anwendung und Umsetzung der DSGVO gelten entsprechend. 
+12. Wie beurteilt die Bundesregierung die Einordnung von Daten als dingliche 
+Rechtsposition? 
+Besteht aus Sicht der Bundesregierung zur Kl&#228;rung gesetzgeberischer
+Handlungsbedarf? 
+Es wird auf die Antwort zu Frage 1 verwiesen. 
+13. Welche Ma&#223;nahmen plant die Bundesregierung, um dem Kunden die
+Herausgabe seiner Kundendaten vom Insolvenzverwalter zu erm&#246;glichen? 
+Die Bundesregierung verfolgt die Entwicklung. Sie wird t&#228;tig werden, wenn sich 
+erweisen sollte, dass die Rechtsprechung im geltenden Recht an Grenzen st&#246;&#223;t, 
+die ihr die Entwicklung sachangemessener L&#246;sungen nicht erlauben. Dass dies 
+gegenw&#228;rtig nicht der Fall ist, best&#228;tigt im &#220;brigen auch der Abschlussbericht der 
+Arbeitsgruppe &#8222;Digitaler Neustart&#8220; der Konferenz der Justizministerinnen und 
+Justizminister der L&#228;nder vom 15. Mai 2017, in dem es auf S. 68
+zusammenfassend hei&#223;t: &#8222;Hinsichtlich des Schutzes von Daten in der Insolvenz des
+Cloudbetreibers bzw. bei der Einzelzwangsvollstreckung in das jeweilige
+Speichermedium besteht kein Regelungsbedarf. Aus heutiger Sicht sind keine Defizite
+feststellbar, die ein Eingreifen des Gesetzgebers erfordern.&#8220; 
+14. Wie beurteilt die Bundesregierung diesbez&#252;glich das luxemburgische
+Modell (Artikel 567 Absatz 2 des Code de Commerce)? 
+Die Regelung gew&#228;hrt dem Kunden in der Insolvenz des Anbieters einen
+Herausgabeanspruch bez&#252;glich seiner Daten, vorausgesetzt er ist deren Eigent&#252;mer oder 
+hat sie dem Anbieter anvertraut und die Daten k&#246;nnen von allen &#252;brigen Daten 
+getrennt werden. Die Regelung geht damit aus Sicht der Bundesregierung nicht 
+&#252;ber den Schutz hinaus, der dem Kunden im Falle eines Aussonderungsrechts 
+nach &#167; 47 InsO gew&#228;hrt w&#252;rde. Zudem k&#246;nnte die Regelung jedenfalls insoweit, 
+als sie ein verselbstst&#228;ndigtes Eigentum an Daten voraussetzt, nicht ohne weiteres 
+in das geltende deutsche Recht &#252;berf&#252;hrt werden. 
+15. F&#252;r wie weitgehend h&#228;lt die Bundesregierung einen auf Herausgabe von
+Daten gerichteten Anspruch des Insolvenzgl&#228;ubigers hinsichtlich 
+a) der Zugangsverschaffung durch den Insolvenzverwalter bzw. 
+b) der L&#246;schung des Datensatzes beim Insolvenzverwalter? 
+Es wird zun&#228;chst auf die Antwort zu Frage 1 verwiesen. 
+F&#252;r einen Anspruch auf Herausgabe von Daten gem&#228;&#223; den &#167;&#167; 667, 675 BGB 
+hat der Bundesgerichtshof (Urteil vom 17. April 1996, Az. VIII ZR 5/95)
+entschieden, diese sei dadurch zu bewirken, dass der Auftraggeber eine Kopie 
+seiner Daten zur&#252;ckerh&#228;lt und der Auftragnehmer gleichzeitig die Daten im 
+eigenen Bestand l&#246;scht.
+16. Hat nach Ansicht der Bundesregierung der Insolvenzgl&#228;ubiger einen
+Anspruch auf die Daten&#252;bermittlung in einem f&#252;r ihn nutzbaren Format? 
+Wenn ja, woran bemisst sich die Feststellung der Nutzbarkeit? 
+Es wird auf die Antwort zu Frage 1 verwiesen. 
+17. Welche Ma&#223;nahmen plant die Bundesregierung f&#252;r die Schaffung von
+Auskunftsrechten des Clouddienst-Kunden f&#252;r nichtpersonenbezogene Daten? 
+Es wird auf die Antwort zu den Fragen 1 und 13 verwiesen. 
+18. Wie beurteilt die Bundesregierung die M&#246;glichkeit der Zur&#252;ckbehaltung von 
+Daten seitens des Insolvenzverwalters hinsichtlich etwaiger 
+a) pers&#246;nlichkeitsrechtlicher Aspekte der betreffenden Daten, 
+b) drohender wirtschaftlicher Nachteile durch eine Vorenthaltung f&#252;r den 
+Kunden als Insolvenzgl&#228;ubiger bzw. 
+c) datenschutzrechtlicher Pflichten des Kunden als Verantwortlichen im 
+Falle der Auftragsdatenverarbeitung? 
+Der Insolvenzverwalter kann einem Aussonderungsverlangen nach &#167; 47 InsO 
+grunds&#228;tzlich alle Einwendungen und Einreden entgegenhalten, die dem
+Schuldner gegen den mit der Aussonderung geltend gemachten Anspruch zustehen
+w&#252;rden oder die dem Verwalter aufgrund eigenen Rechts dagegen zustehen. 
+Im &#220;brigen wird auf die Antwort zu Frage 1 verwiesen. 
+19. Welches Recht ist nach Auffassung der Bundesregierung auf die Herausgabe 
+von Daten bei einem Clouddienst-Anbieter anzuwenden? 
+Welchen Einfluss hat hierbei der Sitz des Clouddienst-Anbieters, das
+Vorhandensein einer Niederlassung in Deutschland oder des Speicherortes? 
+Ein etwaiger vertraglicher Herausgabeanspruch unterliegt dem Recht, das auf den 
+Vertrag zwischen dem (insolventen) Kunden und dem Clouddienst-Anbieter
+anwendbar ist. Die Parteien k&#246;nnen das auf den Vertrag anwendbare Recht in den 
+Grenzen von Artikel 3 und gegebenenfalls von Artikel 6 der Verordnung (EG) 
+Nr. 593/2008 &#252;ber das auf vertragliche Schuldverh&#228;ltnisse anzuwendende Recht 
+(Rom-I-Verordnung) w&#228;hlen. In Ermangelung einer Rechtswahl d&#252;rfte der
+Vertrag im Regelfall dem Recht des Staates unterliegen, in dem der Clouddienst-
+Anbieter seine Hauptverwaltung hat (vgl. Artikel 4 Absatz 1 Buchstabe b und
+Artikel 19 Absatz 1 Satz 1 Rom-I-Verordnung), oder &#8211; unter den Voraussetzungen 
+des Artikels 6 Rom-I-Verordnung &#8211; dem Recht des Staates, in dem der
+Verbraucher seinen gew&#246;hnlichen Aufenthalt hat. Dies gilt unabh&#228;ngig vom Speicherort 
+und (vorbehaltlich des Artikels 19 Absatz 2 Rom-I-Verordnung) auch
+unabh&#228;ngig davon, ob der Clouddienst-Anbieter eine Niederlassung in Deutschland hat. 
+Die &#8211; davon zu trennende &#8211; Frage, wie der Herausgabeanspruch im
+Insolvenzverfahren durchzusetzen ist, unterliegt nach Artikel 7 der Verordnung (EU) 2015/848 
+des Europ&#228;ischen Parlaments und des Rates vom 20. Mai 2015 &#252;ber
+Insolvenzverfahren (EuInsVO) und, sofern die EuInsVO nicht anwendbar ist, nach &#167; 335 
+InsO grunds&#228;tzlich dem Recht des Staates, in dem das Insolvenzverfahren
+durchgef&#252;hrt wird. Ungekl&#228;rt ist, ob Artikel 8 EuInsVO und &#167; 351 InsO mit der Folge 
+anwendbar sind, dass dingliche Rechte an au&#223;erhalb des Er&#246;ffnungsstaats
+belegenen Daten von den Wirkungen des Verfahrens nicht ber&#252;hrt werden.
+20. H&#228;lt die Bundesregierung es f&#252;r erforderlich, die Transparenz &#252;ber das
+anwendbare Insolvenzrecht aus Sicht der Kunden zu erh&#246;hen? 
+Wenn nein, warum nicht? 
+Wenn ja, welche Ma&#223;nahmen h&#228;lt die Bundesregierung f&#252;r erforderlich oder 
+plant sie? 
+Die Bundesregierung sieht keine Notwendigkeit, die Transparenz &#252;ber das
+anwendbare Insolvenzrecht aus Sicht der Kunden zu erh&#246;hen. Der Bundesregierung 
+sind keine F&#228;lle bekannt, in denen den Kunden eines insolventen Anbieters von 
+Clouddiensten Nachteile dadurch entstanden sind, dass sie in Unkenntnis des
+anwendbaren Insolvenzrechts den entsprechenden Vertrag abgeschlossen haben. 
+21. Welche Kenntnisse hat die Bundesregierung &#252;ber den jeweiligen Marktanteil 
+von Clouddienst-Anbietern in Deutschland, die den Mittelpunkt ihrer
+Interessen in 
+a) Deutschland, 
+b) einem anderen Mitgliedstaat der Europ&#228;ischen Union bzw. 
+c) au&#223;erhalb der Europ&#228;ischen Union haben? 
+Der Bundesregierung liegen keine entsprechenden Erkenntnisse vor. 
+22. Welche Kenntnisse hat die Bundesregierung bez&#252;glich des Anteils der &#252;ber 
+Clouddienste ausgelagerten Datenspeicherung, bei dem der physische
+Speicherort 
+a) teilweise im Ausland bzw. 
+b) vollst&#228;ndig im Ausland ist? 
+Der Bundesregierung liegen keine entsprechenden Erkenntnisse vor.
+ 
+ 
+ 
+ 
+ 
+Satz: Satzweiss.com Print, Web, Software GmbH, Mainzer Stra&#223;e 116, 66121 Saarbr&#252;cken, www.satzweiss.com 
+Druck: Printsystem GmbH, Schafw&#228;sche 1-3, 71296 Heimsheim, www.printsystem.de 
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de 
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/7808 -
+Kundendaten insolventer Clouddienst-Anbieter</titel>
+    <datum>2019-03-04</datum>
+  </document>
+  

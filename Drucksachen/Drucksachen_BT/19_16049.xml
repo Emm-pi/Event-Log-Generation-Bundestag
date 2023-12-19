@@ -1,0 +1,429 @@
+<document>
+    <id>237322</id>
+    <drucksachetyp>Antrag</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>28</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/16049</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>23051a9c15030eb116762acb1c9e0650</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:15+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>256979</id>
+      <titel>Ma&#223;nahmen zur Gew&#228;hrleistung der Integrit&#228;t digitaler Infrastrukturen, Ger&#228;te und Komponenten - F&#252;r eine gr&#246;&#223;ere digitale Souver&#228;nit&#228;t Deutschlands und Europas</titel>
+      <vorgangstyp>Antrag</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>B90/GR</bezeichnung>
+      <titel>Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN</titel>
+    </urheber>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/160/1916049.pdf</pdf_url>
+      <id>237322</id>
+      <dokumentnummer>19/16049</dokumentnummer>
+      <datum>2019-12-17</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antrag</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN</urheber>
+    </fundstelle>
+    <autoren_anzeige>
+      <id>1191</id>
+      <titel>Dr. Konstantin von Notz, MdB, B&#220;NDNIS 90/DIE GR&#220;NEN</titel>
+      <autor_titel>Konstantin von Notz</autor_titel>
+    </autoren_anzeige>
+    <autoren_anzeige>
+      <id>232</id>
+      <titel>Katrin G&#246;ring-Eckardt, MdB, B&#220;NDNIS 90/DIE GR&#220;NEN</titel>
+      <autor_titel>Katrin G&#246;ring-Eckardt</autor_titel>
+    </autoren_anzeige>
+    <text>[Deutscher Bundestag Drucksache 19/16049
+19. Wahlperiode 17.12.2019
+Antrag
+der Abgeordneten Dr. Konstantin von Notz, Katrin G&#246;ring-Eckardt, Britta
+Ha&#223;elmann, Katharina Dr&#246;ge, Tabea R&#246;&#223;ner, Dieter Janecek, Agnieszka 
+Brugger, J&#252;rgen Trittin, Dr. Franziska Brantner, Margit Stumpp, Margarete
+Bause, Gerhard Zickenheiner, Luise Amtsberg, Canan Bayram, Matthias 
+Gastel, Anja Hajduk, Kai Gehring, Katja Keul, Stephan K&#252;hn (Dresden), 
+Christian K&#252;hn (T&#252;bingen), Monika Lazar, Dr. Tobias Lindner, Dr. Irene
+Mihalic, Filiz Polat, Dr. Manuela Rottmann, Manuel Sarrazin, Stefan Schmidt, 
+Markus Tressel und der Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN
+Ma&#223;nahmen zur Gew&#228;hrleistung der Integrit&#228;t digitaler Infrastrukturen, Ger&#228;te 
+und Komponenten &#8211; F&#252;r eine gr&#246;&#223;ere digitale Souver&#228;nit&#228;t Deutschlands und 
+Europas
+Der Bundestag wolle beschlie&#223;en:
+I. Der Deutsche Bundestag stellt fest:
+Der Schutz und die Sicherstellung der Integrit&#228;t digitaler Infrastrukturen sowie der
+Privatheit der Kommunikation von B&#252;rgerinnen und B&#252;rgern, Unternehmen und
+Beh&#246;rden sind zentrale, nationalstaatliche wie gesamteurop&#228;ische Aufgaben.
+Ihre Bedeutung w&#228;chst angesichts weltweit zunehmender Konflikte um digitale
+Infrastrukturen und Zugriffe auf Informationen. Die weiter wachsende technische
+Komplexit&#228;t und Vielfalt der zum Einsatz kommenden kommerziellen, weltweit produzierten 
+IT-Systeme und der verwendeten, meist nicht auf IT-Sicherheit angelegten Hard- und 
+Software erschwert die Durchsetzung hoher Schutzanforderungen, wo es diese heute
+schon gibt. Trotz jahrelanger, intensiver Diskussionen und zahlreicher Vorschl&#228;ge von
+Sachverst&#228;ndigen, Zivilgesellschaft, Wissenschaft, Unternehmen und Opposition wird
+die Bundesregierung ihrer sich aus diesen Risiken erwachsenden, direkt auch aus dem
+Grundgesetz abzuleitenden Schutzverantwortung bis heute noch immer nicht gerecht. 
+Wie eklatant ihre Vers&#228;umnisse sind, zeigt vor allem die seit Monaten anhaltende
+Diskussion um den Ausbau des 5G-Netzes und die Rolle einzelner Unternehmen als
+Zulieferer zentraler Komponenten, genauso aber die Diskussionen um extrem unsichere
+vernetzte Ger&#228;te des sogenannten &#8222;Internet of Things&#8220; (IoT) sowie um die
+Rechtswidrigkeit der Speicherung teils hochsensibler Daten in Drittstaaten.
+Bis heute gibt es kein funktionierendes System, das die &#220;berpr&#252;fbarkeit der Integrit&#228;t
+eingesetzter Hard- und Software von unabh&#228;ngiger Seite gew&#228;hrleistet, kaum
+Mindeststandards f&#252;r den Einsatz von Ger&#228;ten des &#8222;Internet of Things&#8220; (IoT), kein
+ausreichendes Haftungsregime, keine &#8211; mit angemessenen Sanktionsmechanismen ausgestatteten
+&#8211; unabh&#228;ngigen Aufsichtsstrukturen, keine positiven Anreize wie gute Auditierungs-
+und Zertifizierungsverfahren, jedoch etliche ungekl&#228;rte Rechtsfragen und
+Unsicherheiten f&#252;r Anbieter und Endkunden. 
+Die jahrelange Unt&#228;tigkeit der Bundesregierung und die bewusste Nichtregulierung
+des digitalen Wandels sind verheerend. Die Folge sind weiterhin extrem unsichere
+digitale Infrastrukturen und Ger&#228;te, erhebliche Abh&#228;ngigkeiten von einigen wenigen
+Anbietern sowie fehlende Rechtssicherheit f&#252;r Verbraucher wie Unternehmen. Vertrauen
+in die Privatheit von Kommunikation sowie in die Integrit&#228;t digitaler Infrastrukturen,
+Ger&#228;te und Anwendungen kann so nicht entstehen. 
+Dies ist nicht nur f&#252;r die IT-Sicherheit von Nachteil. Auch werden gro&#223;e Chancen f&#252;r
+den Wirtschaftsstandort vergeben, beispielsweise f&#252;r die dringend notwendige
+St&#228;rkung der digitalen Souver&#228;nit&#228;t Deutschlands und Europas. 
+W&#228;hrend parlamentarische Initiativen zur Erh&#246;hung der IT-Sicherheit und
+Verringerung digitaler Abh&#228;ngigkeiten im Deutschen Bundestag seit langem vorliegen (vgl. 
+u. a. Antrag der Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN vom 21.03.18 &#8222;IT-Sicherheit
+st&#228;rken, Freiheit erhalten, Frieden sichern&#8220; auf BT-Drs. 19/1328), hat die
+Bundesregierung beinahe jedwede Regulierung vernachl&#228;ssigt. Das von ihr vor Jahren in
+Aussicht gestellte IT-Sicherheitsgesetz 2.0 liegt bis heute nicht vor. Gleiches gilt f&#252;r die
+angek&#252;ndigte &#196;nderung des Telekommunikationsgesetzes (TKG). Die Anregungen,
+die w&#228;hrend umfassender Anh&#246;rungen zur IT-Sicherheit sowohl des Innenausschusses
+als auch des Ausschusses &#8222;Digitale Agenda&#8220; des Bundestags auch in dieser
+Wahlperiode unterbreitet wurden, hat man nicht aufgenommen. 
+Dringend notwendig bleiben u. a. klare Kriterien f&#252;r den Einsatz von Komponenten
+und Ger&#228;ten in digitalen Infrastrukturen, gerade hinsichtlich des Schutzes besonders
+kritischer Netz-Bereiche, und unabh&#228;ngige Aufsichtsstrukturen. 
+Um Gefahrenlagen konkret bewerten zu k&#246;nnen, m&#252;ssen neben technischen, auch 
+rechtliche und weitere sicherheitsrelevante Aspekte f&#252;r den Schutz von Grund- und 
+Menschenrechten, Demokratie und Rechtsstaatlichkeit in die Pr&#252;fung einbezogen
+werden. So sollten beispielsweise auch die Rechtsstaatlichkeit der Herkunftsstaaten,
+staatliche Durchgriffsrechte, Produktionsprozesse sowie Verbindungen zwischen
+beteiligten Unternehmen und Regierungen sowie geostrategische Aspekte bei der Bewertung
+&#252;ber die Zulassung eines Anbieters eine Rolle spielen. 
+Um eine solche Pr&#252;fung geordnet durchzuf&#252;hren, sollte der Pr&#252;fvorbehalt in der
+Investitionspr&#252;fung im Rahmen der Au&#223;enwirtschaftsverordnung (AWV) so
+ausgeweitet werden, dass davon nicht nur &#220;bernahmen kritischer Infrastrukturen, sondern auch
+die Beteiligung eines Investors bzw. die Kooperation mit einem Unternehmen aus
+einem Drittstaat im Zusammenhang mit dem Aufbau kritischer Infrastruktur erfasst
+wird. Auch auf die Notwendigkeit, auch hier gesetzgeberisch t&#228;tig zu werden, um auf
+diesem Weg der Gefahr neuer Abh&#228;ngigkeiten entschlossen zu begegnen, wurde
+wiederholt hingewiesen.
+Wer Schl&#252;sselkomponenten f&#252;r digitale Infrastrukturen wie das 5G-Netz liefert, erh&#228;lt 
+damit weitreichende potentielle Zug&#228;nge zu unseren Energienetzen, der Finanzwelt, 
+zu Krankenh&#228;usern, Unternehmen und privaten Wohnungen. Die mit 5G-Netzen
+realisierbaren Digitalisierungsprojekte der Zukunft schaffen nochmals ungleich h&#246;here
+Risiken f&#252;r Angriffe auf IT-Sicherheit und die Privatheit von Kommunikation als dies
+bislang ohnehin bereits der Fall war. Gerade im Zuge des weiteren Ausbaus digitaler
+Infrastruktur wird eine Vielzahl von neuen Telekommunikations- und
+Diensteanbietern neben den klassischen Mobilfunkunternehmen entstehen, die nur Teile der oder
+Dienste auf der Netzinfrastruktur betreiben und auf kosteng&#252;nstige Infrastruktur-
+Anbieter angewiesen sind.
+Angesichts einer zunehmend un&#252;bersichtlichen Weltlage und der Abschottung
+einzelner autorit&#228;r gef&#252;hrter Staaten, besteht die ernstzunehmende Gefahr, dass diese Staaten
+Zug&#228;nge f&#252;r Spionage und Sabotage nutzen und bei etwaigen Auseinandersetzungen
+nicht davor zur&#252;ckschrecken, auch zivile digitale Infrastrukturen anzugreifen oder
+lahmzulegen. Allein auf Vertrauen basierende &#8222;No Spy&#8220;-Abkommen ohne
+tats&#228;chliche Sanktionsmechanismen bei Zuwiderhandlungen werden der Problematik nicht
+gerecht. Auf neue Gefahrenlagen mit potentiell weitreichenden Folgen muss vielmehr
+sehr viel st&#228;rker als bislang von der Bundesregierung reagiert und durch den
+Gesetzgeber geantwortet werden. 
+Um IT-Sicherheit zu erh&#246;hen, die digitale Souver&#228;nit&#228;t Deutschlands und Europas zu 
+st&#228;rken und auf Gefahren eines weiter zunehmenden staatlichen Protektionismus zu 
+reagieren, ist eine auf vielf&#228;ltige digitale &#214;kosysteme angelegte Strategie zu verfolgen,
+bei der die Resilienz und Redundanz digitaler Infrastrukturen im Mittelpunkt steht und
+der verst&#228;rkte Einsatz von Eigenentwicklungen und freier und offener Software als
+Ziel verfolgt werden (vgl. Antrag der Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN vom
+08.02.19 &#8222;Offen f&#252;r die Zukunft: Offene Standards f&#252;r eine gerechte und
+gemeinwohlorientierte Gestaltung der Digitalisierung&#8220; auf BT-Drs. 19/7589). 
+Werden heute die Weichen im Bereich der IT-Sicherheit richtig gestellt, wird dies
+mittel- und langfristig auch zu einem Wettbewerbsvorteil f&#252;r deutsche und europ&#228;ische
+Anbieter und einer St&#228;rkung des Wirtschaftsstandorts f&#252;hren. 
+II. Der Deutsche Bundestag fordert die Bundesregierung auf, 
+Ma&#223;nahmen auf nationaler Ebene:
+&#8226; die Empfehlungen der EU-Kommission zur Sicherheit von 5G-Netzwerken vom
+26. M&#228;rz 2019 (C(2019) 2335 final) umzusetzen und das von der EU-Kommission
+und der EU Agentur f&#252;r Cybersicherheit f&#252;r 5G erstellte Risk Assessment vom
+9. Oktober 2019 zu ber&#252;cksichtigen;
+&#8226; schnellstm&#246;glich eine &#196;nderung des Telekommunikationsgesetzes (TKG)
+vorzulegen, um zuk&#252;nftig klar zu definieren, welche Ger&#228;te und Komponenten in
+welchen Bereichen digitaler Infrastrukturen unter welchen konkreten technischen,
+rechtlichen und sonstigen Voraussetzungen eingesetzt werden d&#252;rfen;
+&#8226; bei der Pr&#252;fung potentieller Gefahren f&#252;r die Integrit&#228;t digitaler Infrastrukturen
+und Ger&#228;te, gerade in besonders kritischen Bereichen, und in den zeitnah
+vorzulegenden Kriterien- und Sicherheitskatalog neben technischen, zwingend auch
+rechtliche und weitere sicherheitsrelevante Aspekte f&#252;r den Schutz von
+Demokratie, Menschenrechten und Rechtsstaatlichkeit einzubeziehen und hierbei u. a. auch
+Produktionsprozesse, rechtlichen Rahmenbedingungen in den jeweiligen L&#228;ndern 
+sowie die Vertrauensw&#252;rdigkeit ber&#252;hrende Verbindungen von Unternehmen zu
+Regierungen zu ber&#252;cksichtigen;
+&#8226; zu garantieren, dass der Kriterien- und Sicherheitskatalog zuk&#252;nftig von einer
+noch zu schaffenden, unabh&#228;ngigen Stelle fortlaufend dynamisch an Bed&#252;rfnisse
+neuer Technologien und Gefahrenlagen angepasst wird, um eine gr&#246;&#223;tm&#246;gliche
+Transparenz und Nachvollziehbarkeit der Kriterien, die f&#252;r alle Anbieter und
+Betreiber gleicherma&#223;en gelten m&#252;ssen, die Integrit&#228;t digitaler Infrastrukturen
+garantieren und Rechtssicherheit f&#252;r Unternehmen und Verbraucher schaffen;
+&#8226; den Pr&#252;fvorbehalt in der Investitionspr&#252;fung so auszuweiten, dass davon auch die
+Beteiligung eines Investors bzw. die Kooperation mit einem Unternehmen aus
+einem Drittstaat im Zusammenhang mit dem Aufbau kritischer Infrastruktur erfasst
+wird;
+&#8226; schnellstm&#246;glich ein IT-Sicherheitsgesetzes 2.0 vorzulegen, das unter anderem
+verpflichtende Mindeststandards f&#252;r alle vernetzten Ger&#228;te des &#8222;Internet of
+Things&#8220;, andere IT-Ger&#228;te sowie Komponenten, nicht nur f&#252;r kritische
+Infrastrukturen, definiert, beispielsweise hinsichtlich Mindestvorgaben f&#252;r die
+Bereitstellung von Sicherheitsupdates, Regelungen zur Einf&#252;hrung verpflichtender
+G&#252;tesiegel sowie neue Haftungsregelungen und das insgesamt statt wie bisher, rein
+reaktiv anzusetzen, einen proaktiven Ansatz verfolgt und Investitionen in gute und
+sichere IT-Sicherheit belohnt statt Opfer von IT-Angriffen nachtr&#228;glich zus&#228;tzlich
+bestraft (vgl. Entschlie&#223;ungsantrag der Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN
+zum ersten IT-Sicherheitsgesetz vom 10.06.2015 auf BT-Drs. 18/5127);
+&#8226; die Verantwortung f&#252;r die IT-Sicherheit aus dem Bundesministerium des Innern, 
+f&#252;r Bau und Heimat herauszul&#246;sen, um den effektiven Grundrechtsschutz zu
+st&#228;rken. Dar&#252;ber hinaus ist f&#252;r die Benennung klarer Zust&#228;ndigkeiten innerhalb der
+Bundesregierung im Bereich der IT-Sicherheitspolitik zu sorgen, um den
+Dauerzustand eines Gegeneinanders verschiedener Ministerien zu verhindern und
+&#252;berf&#228;llige Grundsatzentscheidungen, beispielsweise zum Thema Verschl&#252;sselung,
+treffen zu k&#246;nnen;
+&#8226; die Unabh&#228;ngigstellung zumindest von Teilen des Bundesamts f&#252;r Sicherheit in
+der Informationstechnik (BSI) aus dem Verantwortungsbereich des
+Bundesministeriums des Innern, f&#252;r Bau und Heimat zu vollziehen, um eine tats&#228;chlich
+unabh&#228;ngige Beratung von B&#252;rgerinnen und B&#252;rgern wie Unternehmen
+sicherzustellen. Dar&#252;ber hinaus muss die weitere St&#228;rkung unabh&#228;ngiger Aufsichtsstrukturen
+wie des Bundesbeauftragten f&#252;r den Datenschutz und die Informationsfreiheit
+kontinuierlich fortgesetzt werden. Kleine und mittlere Unternehmen m&#252;ssen bei
+sicherheitstechnischen Herausforderungen durch ein dezentrales und
+unabh&#228;ngiges IT-Beratungsnetzwerk unterst&#252;tzt und Haftungsanreize f&#252;r alle in der IT-
+Wertsch&#246;pfungskette verantwortlichen Stellen gest&#228;rkt werden;
+&#8226; eine eindeutige ministeriell-koordinierenden Zust&#228;ndigkeit f&#252;r &#8222;hybride
+Bedrohungen&#8220; (hybrid threats) zur systematischen Beobachtung potentieller
+Bedrohungen und Angriffe zu schaffen, insbesondere auf zivile und f&#252;r das staatliche Wohl
+relevante digitale Infrastrukturen und zur Erstellung eines an realen
+Gegebenheiten orientierten Lagebilds. Zur Bewertung einer etwaigen Zurechenbarkeit von
+Angriffen (Attribution) bedarf es zudem einer eigenst&#228;ndigen, fachlich
+unabh&#228;ngigen Organisationseinheit, die nach klaren rechtlichen Vorgaben und
+Definitionen arbeitet;
+&#8226; bestehende Haftungsregelungen zu &#252;berpr&#252;fen und neue gesetzliche Regelungen
+vorzulegen, um Besonderheiten und Risiken vernetzter IT-Systeme st&#228;rker
+ber&#252;cksichtigen zu k&#246;nnen. Regelungsbedarf besteht beispielsweise bei der Haftung
+im Falle von Sicherheitsverletzungen wie fahrl&#228;ssig implementierter oder nicht
+beseitigter Sicherheitsl&#252;cken von Herstellern (Produktsicherheitsgesetze,
+Produkthaftung, Produzentenhaftung, Schutzgesetze), der Verk&#228;ufer-Haftung bei
+Hard- und Software (Gew&#228;hrleistung, Fehlerbegriff, zugesicherte Eigenschaft,
+berechtigte Erwartung des K&#228;ufers) sowie von Dienstleistern (Sicherheitspflichten
+und berechtigte Sicherheitserwartungen der Nutzer). Zu verhindern ist, dass
+h&#228;ufig komplex gelagerte Streitf&#228;lle von geteilter und oftmals nicht konkret
+feststellbarer Verantwortung von Herstellern und Diensteanbietern einseitig zu Lasten der
+Nutzerinnen und -nutzer ausgehen;
+&#8226; insgesamt eine auf vielf&#228;ltige digitale &#214;kosysteme, Resilienz und Redundanzen
+angelegte IT-Strategie zur Verringerung riskanter, einseitiger Abh&#228;ngigkeiten und
+zur St&#228;rkung der IT-Sicherheit zu verfolgen, in dem u. a. offene und &#252;berpr&#252;fbare
+Standards gest&#228;rkt werden. Durch die &#220;berpr&#252;fbarkeit der verwendeten Systeme 
+ist freie, quelloffene Software als zentraler Baustein f&#252;r eine sichere und
+zukunftsf&#228;hige IT-Landschaft, beispielsweise bei der weiteren IT-Konsolidierung, sehr
+viel st&#228;rker zu unterst&#252;tzen. So sind u. a. Vorgaben bei &#246;ffentlichen IT-
+Beschaffungen anzupassen und eine st&#228;rkere Kooperation zwischen Bund und L&#228;ndern,
+beispielsweise &#252;ber den IT-Planungsrat sicherzustellen. Um die Qualit&#228;t freier und
+offener Software zu verbessern, ist ein Fonds f&#252;r die Pr&#228;mierung der
+Identifizierung, Bekanntmachung und Behebung von Fehlern in offener Software zu
+schaffen und die Forschungsf&#246;rderung zu st&#228;rken;
+&#8226; schnellstm&#246;glich eine Cloud-L&#246;sung zu schaffen, auf der Daten unter Beachtung
+h&#246;chster Sicherheitsstandards durchgehend Ende-zu-Ende-verschl&#252;sselt
+rechtssicher gespeichert werden k&#246;nnen, auch, um Alternativen zur rechtswidrigen
+Speicherung teils hochsensibler Daten auf Servern in Drittstaaten ohne ausreichende
+Schutzmechanismen zu schaffen;
+&#8226; in Kooperation mit den L&#228;ndern Ma&#223;nahmen zu ergreifen, die B&#252;rgerinnen und
+B&#252;rger in geeigneter Form &#252;ber bestehende IT-Sicherheitsrisiken aufkl&#228;ren und 
+darauf abzielen, sie zu bef&#228;higen, Risiken einzusch&#228;tzen, sie bei der Suche nach
+sicheren Alternativen zu unterst&#252;tzen und Sicherheitstechniken selbstbestimmt 
+anwenden zu k&#246;nnen;
+Ma&#223;nahmen auf europ&#228;ischer Ebene:
+&#8226; die deutsche Ratspr&#228;sidentschaft nutzen, um eine an den Werten und
+Grundrechten der Europ&#228;ischen Union ausgerichtete, gut koordinierte europ&#228;ischen
+Digitalpolitik zu forcieren, die die technologische Souver&#228;nit&#228;t Europas st&#228;rkt, Freiheit,
+Demokratie, Rechtsstaatlichkeit, Offenheit, &#220;berpr&#252;fbarkeit, Beteiligung und
+Innovationsf&#228;higkeit ins Zentrum stellt und sich auch international klar gegen
+Protektionismus und f&#252;r eine gemeinwohlorientierte Gestaltung des digitalen
+Wandels einsetzt;
+&#8226; Ma&#223;nahmen zum Schutz digitaler Infrastrukturen und zur St&#228;rkung von
+Rechtsstaatlichkeit und Grundrechten zu st&#228;rken (vgl. auch Forderungen des Antrags der 
+Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN &#8222;F&#252;r wehrhafte Demokratien in Europa &#8211;
+Rechtsstaatlichkeit und Grundrechte in den Mitgliedsl&#228;ndern der EU st&#228;rken&#8220; vom
+30.01.2019 auf BT-Drs. 19/7436) sowie Erkenntnisse &#252;ber die
+Vertrauensw&#252;rdigkeit von Herstellern, Diensteanbietern und Produkten auf EU-Ebene
+zusammenzuf&#252;hren, zu bewerten und entsprechende Handlungsempfehlungen und
+Beschl&#252;sse abzustimmen;
+&#8226; hierf&#252;r bestehende Kooperationsformen wie die durch Richtlinie (EU) 2016/1148)
+eingerichtete der NIS Cooperation Group, deren Aufgabe darin besteht, ein hohes
+gemeinsames Sicherheit- und Schutzniveau f&#252;r Netz- und Informationssysteme in
+der Europ&#228;ischen Union zu erreichen und die strategische Zusammenarbeit und 
+Kooperation der Mitgliedstaaten zu unterst&#252;tzen, sehr viel st&#228;rker als bislang zu
+nutzen, um ambitionierte Risikomanagementma&#223;nahmen abzustimmen;
+&#8226; sich auf EU-Ebene im Rahmen der Verordnung zur Reform von ENISA
+(Europ&#228;ische Agentur f&#252;r Netz- und Informationssicherheit) und der Entwicklung eines
+Zertifizierungsrahmens der Sicherheit von Informations- und
+Kommunikationstechnik f&#252;r klare und verbindliche IT-Mindeststandards und die schnellstm&#246;gliche
+Umsetzung der mit dieser Verordnung bereitgestellten Instrumente etwa der
+Festlegung von Sicherheitsstufen f&#252;r bestimmte Produkte und Dienste und die f&#252;r eine
+Zertifizierung notwendigen Checklisten einzusetzen;
+&#8226; auch auf europ&#228;ischer Ebene schnellstm&#246;glich die Voraussetzungen daf&#252;r zu
+schaffen, dass unabh&#228;ngige staatliche Stellen durch angemessen intensive Pr&#252;fung 
+und Zertifizierung zumindest von Kernbereichen digitaler Technologien und
+Infrastrukturen wie etwa Cloud-Diensten und Netzwerktechnik eine eigene
+Beurteilungs- und Steuerungsf&#228;higkeit bei der IT-Sicherheitsentwicklung erlangen;
+&#8226; schnellstm&#246;gliche eine europ&#228;ische Cloud-L&#246;sung zu schaffen, auf der Akteure
+aus allen gesellschaftlichen Bereichen Daten unter Beachtung h&#246;chster (IT-)
+Sicherheitsstandards durchgehend Ende-zu-Ende-verschl&#252;sselt rechtssicher
+speichern k&#246;nnen;
+&#8226; die Entwicklung eines europ&#228;ischen 5G-Konsortiums zu erm&#246;glichen und zu
+unterst&#252;tzen, das sowohl die gro&#223;en, auf dem Markt etablierten Akteure als auch
+kleinere Hardware- und Softwarefirmen zusammenbringt und Anreize und
+F&#246;rderungsm&#246;glichkeiten f&#252;r den Aufbau eines gemeinsamen &#214;kosystems f&#252;r
+Innovation schafft;
+&#8226; das gro&#223;e Know-how im Bereich der IT-Sicherheit in Deutschland und Europa
+durch eine gezielte Forschungsf&#246;rderung zu nutzen und st&#228;rken. &#214;ffentliche
+Forschungsaktivit&#228;ten m&#252;ssen in Zusammenarbeit mit der EU-Kommission und
+anderen Mitgliedsl&#228;ndern verstetigt und intensiviert werden, um im internationalen
+Wettbewerb um die besten IT-Sicherheitskonzepte Expertinnen und Experten in
+Deutschland und Europa mitzuhalten. Bestehende, diesen Zielen widersprechende
+rechtliche Regelungen, die zu einer gro&#223;en Unsicherheit in der praktischen IT-
+Sicherheitsforschung f&#252;hren, m&#252;ssen evaluiert, ggf. ge&#228;ndert und
+zur&#252;ckgenommen werden. Zuk&#252;nftige Leuchtturmprojekte m&#252;ssen dauerhaft zu wichtigen
+S&#228;ulen einer koh&#228;renten Gesamtstrategie f&#252;r eine anwendungsorientierte IT-
+Sicherheits-Forschung in Deutschland und Europa gemacht werden;
+&#8226; die Fachkr&#228;ftesicherung vorzuanbringen, um gut ausgebildete Fachkr&#228;fte, sei es
+zur Verhinderung von IT-Angriffen, sei es f&#252;r die Forschung und Entwicklung
+von Sicherheitssystemen und -strategien zur Verf&#252;gung zu haben. Gerade
+angesichts eines Wettbewerbs um die besten Fachkr&#228;fte mit der freien Wirtschaft muss
+die Attraktivit&#228;t der &#246;ffentlichen Hand als Arbeitgeber st&#228;ndig weiterentwickelt
+werden. Um dies zu gew&#228;hrleisten, ist der Ausbau geeigneter Aus- und
+Weiterbildungsstrukturen erforderlich. Insgesamt m&#252;ssen Ausbildungssysteme im Bereich 
+der Informations- und Kommunikationstechnologie m&#246;glichst praxisnah sein und
+IT-Sicherheitsaspekte angesichts gestiegener, sich stetig wandelnder
+Herausforderungen verst&#228;rkt beachtet werden. Bei der Fachkr&#228;fteausbildung muss der
+bestehende Gender Gap im Bereich der Informations- und
+Kommunikationstechnologien entschlossen angegangen werden;
+Ma&#223;nahmen auf internationaler Ebene:
+&#8226; ihr Engagement auf internationaler Ebene zum Schutz digitaler Infrastrukturen 
+und Kommunikation massiv zu verst&#228;rken und sich an den wichtigen
+Diskussionen in den einschl&#228;gigen Standardisierungsgremien angemessen zu beteiligen, 
+Protektionismus, eine sehr weitreichende &#220;berwachung und Kompromittierung
+digitaler Infrastrukturen sowie eine zunehmende Militarisierung ziviler
+Netzinfrastruktur zu verhindern;
+&#8226; anzuerkennen, dass aufgrund der Besonderheiten digitaler &#214;kosysteme, der
+Interdependenz von Netzwerkstrukturen sowie gro&#223;er Zuordnungs- und
+Abgrenzungsprobleme von IT-Angriffen (&#8222;Attribution&#8220;) eine Politik der Abschreckung und
+&#8222;Hackbacks&#8220; mit zahlreichen potentiell gravierenden negativen Folgen bis hin zur
+milit&#228;rischen Konfrontation und unkalkulierbaren Risiken f&#252;r die
+Zivilgesellschaft behaftet und daher zum Scheitern verurteilt ist. Die Bundesregierung muss
+sich stattdessen sehr viel st&#228;rker als bisher auf internationaler Ebene f&#252;r einen
+Verhaltenskodex einsetzen, der einen klaren Rechtsrahmen setzt und eine Gef&#228;hrdung
+ziviler (Netz-)Infrastrukturen durch digitale Angriffe ausschlie&#223;t;
+&#8226; sich daf&#252;r einzusetzen, dass in einem Multi-Stakeholder-Prozess neue,
+konkretisierende Regelungen und Vereinbarungen zum Schutz digitaler Infrastrukturen
+und privater Kommunikation erarbeitet werden. Hierzu hat sich die
+Bundesregierung bereits vielfach verpflichtet, beispielsweise im Rahmen ihres Engagements
+in der Freedom Online Coalition. Hierzu geh&#246;rt beispielsweise, die Regulierung
+des Exports von Zensur- und &#220;berwachungstechnik weiter zu verbessern, den 
+staatlichen Ankauf, das Offenhalten und die Nutzung von bislang nicht &#246;ffentlich
+bekannten Sicherheitsl&#252;cken (&#8222;Zero-Day-Exploits&#8220;) international zu &#228;chten und
+sich gegen das verfassungsrechtlich bedenkliche Instrument digitaler
+Gegenangriffe (&#8222;Hackback&#8220;) auszusprechen, da ein nicht zu gewinnender
+R&#252;stungswettlauf und die weitere Militarisierung des Internets die Folge w&#228;re.
+Berlin, den 17. Dezember 2019
+Katrin G&#246;ring-Eckardt, Dr. Anton Hofreiter und Fraktion
+Begr&#252;ndung
+Angesichts jahrelanger Diskussionen um die IT-Sicherheit, des anstehenden Ausbaus des 5G-Netzes, des
+Einsatzes von Millionen Ger&#228;ten des &#8222;Internet of Things&#8220; (IoT) in Privathaushalten und Unternehmen, aber auch
+weitreichender Datenskandale und IT-Angriffe in den letzten Jahren, u. a. auf das Regierungsnetz und den Deutschen
+Bundestag, m&#252;sste eine gute IT-Sicherheitspolitik politisch l&#228;ngst h&#246;chste Priorit&#228;t genie&#223;en und einen
+Schwerpunkt der Innen-, Au&#223;en-, Sicherheits-, Industrie- und Wirtschaftspolitik der Bundesregierung bilden. 
+Vor dem Hintergrund jahrelanger Diskussionen &#252;ber die Integrit&#228;t digitaler Infrastrukturen und eingesetzter
+Komponenten sowie der Notwendigkeit staatlicher Regulierung sind die Vers&#228;umnisse der Bundesregierung nur
+durch ein weitgehendes Desinteresse und eine falsche politische Priorit&#228;tensetzung zu erkl&#228;ren. 
+Statt ihrer Schutzpflicht f&#252;r die Vertraulichkeit und Integrit&#228;t informationstechnischer Systeme und dem
+Grundrecht auf Privatheit von Kommunikation gerecht zu werden, stellt die Bundesregierung selbst eine Gefahr f&#252;r die
+IT-Sicherheit dar.
+Notwendig ist eine Kehrtwende der Bundesregierung hinsichtlich ihrer IT-Sicherheitspolitik: Digitale
+Infrastrukturen m&#252;ssen effektiv gesch&#252;tzt, Mindeststandards f&#252;r den Einsatz von Ger&#228;ten anbieterunabh&#228;ngig definiert,
+offene Rechtsfragen gekl&#228;rt, ein neues Haftungsregime etabliert und unabh&#228;ngige Aufsichtsstrukturen gest&#228;rkt
+werden. Dar&#252;ber hinaus muss die Bundesregierung von die IT-Sicherheit gef&#228;hrdenden Ma&#223;nahmen wie
+&#8222;Hackbacks&#8220;, anlassloser Massen&#252;berwachung, dem Handel mit Sicherheitsl&#252;cken und &#8222;Zero Day Exploits&#8220;, der
+Ausweitung von Quellen-Telekommunikations&#252;berwachung und Online-Durchsuchung sowie der Zusammenarbeit
+mit dubiosen IT-Sicherheitsfirmen Abstand nehmen.
+Insgesamt sind Abh&#228;ngigkeiten von einzelnen Anbietern auch heute schon hoch. 
+Neben der technischen &#220;berpr&#252;fbarkeit eingesetzter Hard- und Software durch unabh&#228;ngige Aufsichtsstrukturen
+und die Offenlegung von Quellcode, sind auch rechtliche Rahmenbedingungen in den jeweiligen L&#228;ndern und
+Verbindungen von Unternehmen zu Regierungen zwingend st&#228;rker zu ber&#252;cksichtigen. 
+Im Zweifelsfall ist der Sicherheit von Infrastrukturen, privater Kommunikation und der Integrit&#228;t eingesetzter
+Ger&#228;te und Komponenten Vorrang einzur&#228;umen. Bisherige, regulative Vers&#228;umnisse und sich daraus ergebende
+etwaige Verz&#246;gerungen und Kostensteigerungen d&#252;rfen nicht ausschlaggebendes Kriterium sein. 
+Vielmehr m&#252;ssen nachvollziehbare Kriterien aufgestellt werden, die f&#252;r alle Anbieter und Betreiber
+gleicherma&#223;en gelten, die Integrit&#228;t digitaler Infrastrukturen garantieren und Rechtssicherheit f&#252;r Unternehmen und
+Verbraucher schaffen.
+Auch der Umstand, dass schon in heutigen Netzen teilweise sehr relevante Abh&#228;ngigkeiten bestehen und
+Komponenten einzelner Anbieter mit erheblichen Anteilen verbaut sind, darf nicht automatisch dazu f&#252;hren, dass
+andere Kriterien angelegt werden. Vielmehr m&#252;ssen derart gro&#223;e Abh&#228;ngigkeiten auch in bestehenden Netzen
+schrittweise reduziert und Alternativen gest&#228;rkt werden.
+Wo F&#252;hrung und die &#252;berf&#228;llige Kl&#228;rung zentralen Zukunftsfragen der digitalen Gesellschaft durch die
+Bundesregierung gefordert w&#228;ren, sind bislang ein hochnotpeinliches, monatelanges Hin und Her, anhaltende
+Grabenk&#228;mpfe zwischen verschiedenen Ministerien und Sicherheitsbeh&#246;rden sowie eine Politik, die noch immer nicht
+die Bedeutung der IT-Sicherheit in unserer vernetzten Gesellschaft verstanden hat, zu beobachten. Hierdurch
+wird der Blick auf echte L&#246;sungen und eine gr&#246;&#223;ere digitale Souver&#228;nit&#228;t Deutschlands und Europas verstellt.
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333
+EU-Kommissionspr&#228;sidentin Ursula von der Leyen hat Recht, wenn sie mit Blick auf Regulierung im Digitalen
+an Folgendes erinnert: &#8222;Es ist unsere Pflicht, an einem besseren System zu arbeiten, das auf unseren Werten von
+Freiheit, Demokratie und Rechtsstaatlichkeit basiert.&#8220; Dieser Verpflichtung muss auch die Bundesregierung im
+Jahr 2019 endlich gerecht werden. Neben notwendigen Schritten zur Erh&#246;hung der (IT-)Sicherheit auf nationaler
+Ebene, brauchen wir ein entschlossenes, gemeinsames Handeln auf europ&#228;ischer und internationaler Ebene. 
+Die weiteren Herausforderungen, um die IT-Sicherheit neben den in den Forderungen skizzierten Punkten zu
+erh&#246;hen, sind vielf&#228;ltig: 
+Mit einer Verschl&#252;sselungsoffensive m&#252;ssen durchgehende Ende-zu-Ende-Verschl&#252;sselung zum absoluten
+Standard bei allen staatlichen E-Government-Projekten gemacht werden. Die Forschung f&#252;r ebenso sichere wie
+nutzerfreundliche Angebote ist st&#228;rker zu unterst&#252;tzen. Bei allen E-Government-Angeboten sind beste IT-
+Sicherheitsl&#246;sungen auf dem neuesten Stand der Technik wie durchgehende Ende-zu-Ende-Verschl&#252;sselungen zu
+implementieren.
+Datenschutz und IT-Sicherheit m&#252;ssen zuk&#252;nftig zusammen gedacht und &#252;berf&#228;llige gesetzgeberische
+Handlungen im Bereich des Datenschutzes, auch und gerade gegen&#252;ber marktm&#228;chtigen Plattformen, angegangen
+werden. Dazu z&#228;hlt u. a. die aktive politische Begleitung der E-Privacy-Verordnung. Auch hinsichtlich der
+Umsetzung der EU-DSGVO bedarf es weiterer gesetzlicher Regelungen, u. a. zum Schutz von Besch&#228;ftigten. Genauso
+muss der h&#246;heren Schutzbed&#252;rftigkeit von Kindern und Jugendlichen Rechnung getragen werden. Innovative
+Datenschutzmodelle (by design/by default) sind als wichtiger Bestandteil einer guten digitalen IT-Sicherheits-
+und Standortpolitik st&#228;rker zu unterst&#252;tzen. Gleiches gilt f&#252;r proaktive Anreize f&#252;r innovativen Datenschutz durch
+Auditierungs- und Zertifizierungsverfahren. Entsprechende Zertifizierungen und h&#246;chste IT-
+Sicherheitsstandards m&#252;ssen Voraussetzung &#246;ffentlicher F&#246;rderung und Beschaffung sein. Zudem ist der Verzicht auf
+Grundrechte gef&#228;hrdende, staatliche Ma&#223;nahmen wie den &#8222;Hackback&#8220; und anlasslose Massen&#252;berwachungen
+unabdingbar. Die Quellen-Telekommunikations&#252;berwachung und Online-Durchsuchung d&#252;rfen zumindest so lange
+nicht angewandt werden, bis die Verfassungskonformit&#228;t einwandfrei nachgewiesen ist. Eine Ausweitung auf
+den nachrichtendienstlichen Bereich ist klar abzulehnen. Das Sinnieren &#252;ber die Schaffung genereller Hintert&#252;ren
+in Messenger-Diensten und allen Ger&#228;ten des &#8222;Internet of Things&#8220; muss aufh&#246;ren. 
+Zudem braucht es einer klaren Absage an den staatlichen Handel mit bislang nicht &#246;ffentlich bekannten
+Sicherheitsl&#252;cken (&#8222;Zero-Day-Exploits&#8220;), die Einf&#252;hrung einer generellen Meldepflicht f&#252;r Sicherheitsl&#252;cken sowie
+die Implementierung von Verfahren zur schnellstm&#246;glichen Schlie&#223;ung von Sicherheitsl&#252;cken im
+Zusammenspiel von Beh&#246;rden, Unternehmen und Zivilgesellschaft (inkl. sog. &#8222;Bug Bounty&#8220;-Programme). Die
+Zusammenarbeit mit dubiosen, weitgehend unkontrollierbaren IT-Sicherheitsfirmen muss eingestellt und das
+Kontrollregimen f&#252;r Exporte weiter versch&#228;rft werden. Auch braucht es rechtliche Klarstellungen bez&#252;glich der
+Zusammenarbeit im sogenannten &#8222;Cyberabwehrzentrum&#8220; und hinsichtlich der genauen Aufgaben der Zentralen Stelle f&#252;r
+Informationstechnik im Sicherheitsbereich (ZITiS). Statt das im Telemediengesetz (TMG) verankerte Recht der
+Nutzerinnen und Nutzer auf eine anonyme und pseudonyme Nutzung von Telemedienangeboten zu hinterfragen,
+m&#252;ssen Ma&#223;nahmen ergriffen werden, die den Schutz der Nutzerinnen und Nutzer gew&#228;hrleisten und ausbauen. 
+Obwohl die Geltung des V&#246;lkerrechts im Kontext von digitalen Infrastrukturen und pers&#246;nlicher Kommunikation
+auf allen internationalen Regelungsebenen anerkannt wird, l&#228;uft die seit den 1980er Jahren auf UN-Ebene
+erhobene Forderung, milit&#228;rische und geheimdienstliche Aktivit&#228;ten in der zivilgesellschaftlichen digitalen
+Infrastruktur zu &#228;chten, derzeit weitgehend ins Leere. Hier muss sich die Bundesregierung in einem Multi-
+Stakeholder-Prozess f&#252;r neue, konkretisierende Regelungen und Vereinbarungen zum Schutz digitaler Infrastrukturen und
+privater Kommunikation einsetzen. Hierzu hat sie sich vielfach, beispielsweise im Rahmen ihres Engagements
+in der Freedom Online Coalition verpflichtet.]</text>
+    <titel>Ma&#223;nahmen zur Gew&#228;hrleistung der Integrit&#228;t digitaler Infrastrukturen, Ger&#228;te und Komponenten - F&#252;r eine gr&#246;&#223;ere digitale Souver&#228;nit&#228;t Deutschlands und Europas</titel>
+    <datum>2019-12-17</datum>
+  </document>
+  

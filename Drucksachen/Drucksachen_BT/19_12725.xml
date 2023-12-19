@@ -1,0 +1,727 @@
+<document>
+    <id>233765</id>
+    <drucksachetyp>Unterrichtung</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/12725</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>c9e2a86a021af9b8d59c434567c1e4b6</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>252907</id>
+      <titel>Bericht &#252;ber die im Jahr 2018 ergriffenen Ma&#223;nahmen zum Zweck der L&#246;schung von Telemedienangeboten mit kinderpornografischem Inhalt im Sinne des &#167; 184b des Strafgesetzbuchs</titel>
+      <vorgangstyp>Bericht, Gutachten, Programm</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium der Justiz und f&#252;r Verbraucherschutz</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/127/1912725.pdf</pdf_url>
+      <id>233765</id>
+      <dokumentnummer>19/12725</dokumentnummer>
+      <datum>2019-09-05</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Unterrichtung</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Deutscher Bundestag Drucksache 19/12725
+19. Wahlperiode 05.09.2019
+Unterrichtung
+durch die Bundesregierung 
+Bericht &#252;ber die im Jahr 2018 ergriffenen Ma&#223;nahmen zum Zweck der L&#246;schung 
+von Telemedienangeboten mit kinderpornografischem Inhalt 
+im Sinne des &#167; 184b des Strafgesetzbuchs
+Inhaltsverzeichnis 
+Seite
+I. Vorbemerkung ................................................................................... 3
+II. Erl&#228;uterungen zum Bericht und zur Statistik................................. 3
+1. Gegenstand des Berichts...................................................................... 3
+2. Zusammenarbeit zwischen dem BKA und den Beschwerdestellen..... 4
+3. Kooperation der Beschwerdestellen .................................................... 5
+4. F&#246;rderung der Beschwerdestellen-Arbeit durch die Europ&#228;ische
+Kommission und das Bundesministerium f&#252;r Familie, Senioren,
+Frauen und Jugend (BMFSFJ) ............................................................. 5
+5. Funktion des INHOPE-Netzwerkes ..................................................... 6
+6. Datenbasis der Statistik ....................................................................... 6
+III. Statistische Auswertung der L&#246;schbem&#252;hungen im Jahr 2018..... 7
+1. Gesamtzahl der eingegangenen und weitergeleiteten Hinweise .......... 7
+2. Inl&#228;ndische Inhalte (URLs).................................................................. 8
+a) Verf&#252;gbarkeitszeitraum inl&#228;ndischer URLs ........................................ 8
+b) Durchschnittliche Bearbeitungszeit f&#252;r inl&#228;ndische Inhalte (URLs) ... 10
+3. Verf&#252;gbarkeitszeitraum ausl&#228;ndischer Inhalte (URLs) ....................... 12
+4. Kategorien der bearbeiteten und weitergeleiteten Inhalte (URLs) ...... 13
+5. Hinweisquellen .................................................................................... 14
+a) Hinweisquellen des BKA .................................................................... 14
+b) Hinweisquellen der Beschwerdestellen ............................................... 15
+Zugeleitet mit Schreiben des Bundesministeriums der Justiz und f&#252;r Verbraucherschutz und des
+Bundesministeriums des Innern, f&#252;r Bau und Heimat vom 4. September 2019 gem&#228;&#223; Beschluss vom 1. Dezember 2011
+(Bundestagsdrucksache 17/8001).
+Seite
+6. Verteilung der ausl&#228;ndischen URLs nach L&#228;ndern ............................. 15 
+7. Bewertung ............................................................................................ 16 
+a) Gesamtanzahl der bearbeiteten und weitergeleiteten URLs ................ 16 
+b) Quelle des Ersthinweises ..................................................................... 16 
+c) Ursachen f&#252;r l&#228;ngere Verf&#252;gbarkeitszeiten ......................................... 16 
+IV. Weitere Aspekte zum Schutz von Kindern und Jugendlichen 
+vor sexueller Ausbeutung im Internet ............................................. 17
+1. &#220;bermittlung von Hinweisen durch das US-amerikanische 
+&#8222;National Center for missing and exploited Children&#8221; (NCMEC) ...... 18 
+2. &#8222;Netzwerk gegen Missbrauch und sexuelle Ausbeutung
+von Kindern &#8211; Keine Grauzonen im Internet&#8220;..................................... 18 
+3. Einf&#252;hrung einer Versuchsstrafbarkeit f&#252;r den Straftatbestand des 
+Cybergroomings .................................................................................. 19 
+4. Projekt &#8222;Arachnid&#8221; des &#8222;Canadian Center for Child Protection&#8221; ........ 19
+I. Vorbemerkung 
+Kinderpornografie ist die Darstellung des sexuellen Missbrauchs von Kindern und die Dokumentation schwerer
+Straftaten. Verbreitung, Erwerb und Besitz kinderpornografischer Schriften sind deshalb nach &#167; 184b des
+Strafgesetzbuchs (StGB) mit Strafe bedroht. 
+Kinderpornografisch ist eine Schrift (&#167; 11 Absatz 3 StGB) dann, wenn sie
+&#61623; sexuelle Handlungen von, an oder vor einer Person unter vierzehn Jahren (Kind), 
+&#61623; die Wiedergabe eines ganz oder teilweise unbekleideten Kindes in unnat&#252;rlicher, geschlechtsbetonter
+K&#246;rperhaltung oder 
+&#61623; die sexuelle aufreizende Wiedergabe der unbekleideten Genitalien oder des unbekleideten Ges&#228;&#223;es eines 
+Kindes
+zum Gegenstand hat (Legaldefinition gem&#228;&#223; &#167; 184b StGB). 
+Das World Wide Web (WWW) spielt bei der Verbreitung solcher Missbrauchsdarstellungen eine besondere
+Rolle, weil die dar&#252;ber angebotenen Inhalte weltweit f&#252;r eine unbestimmte Vielzahl von Nutzern einfach
+zug&#228;nglich sind. Jeder Klick, der den Internetnutzer auf eine Missbrauchsdarstellung f&#252;hrt, verletzt erneut die
+Rechte des oder der vom Missbrauch Betroffenen.
+Aus diesem Grund setzt die Bundesregierung in &#220;bereinstimmung mit der Entschlie&#223;ung des Deutschen
+Bundestages vom 1. Dezember 2011 im Zusammenhang mit der Aufhebung des Zugangserschwerungsgesetzes
+(Bundestagsdrucksache 17/8001) neben der konsequenten Strafverfolgung bei der Bek&#228;mpfung von
+Kinderpornografie im und &#252;ber das Internet auf das L&#246;schen dieser Inhalte im WWW. 
+Eine enge Zusammenarbeit von staatlichen und nichtstaatlichen Akteuren ist eine wesentliche Voraussetzung 
+f&#252;r den Erfolg. Es besteht daher eine enge Kooperation zwischen dem Bundeskriminalamt (BKA), der
+l&#228;nder&#252;bergreifenden Stelle jugendschutz.net, der Hotline des eco-Verbandes der Internetwirtschaft e. V. (eco e. V.),
+der Hotline der Freiwilligen Selbstkontrolle Multimedia Diensteanbieter e. V. (FSM e. V.), im Weiteren als
+&#8222;Beschwerdestellen&#8220; bezeichnet, und der Bundespr&#252;fstelle f&#252;r jugendgef&#228;hrdende Medien (BPjM). Die
+Beschwerdestellen sind Mitglieder der International Association of Internet Hotlines (INHOPE), dem
+Dachverband von Internet-Beschwerdestellen, die weltweit operieren, Beschwerden &#252;ber illegale Inhalte im Internet
+entgegennehmen und sich f&#252;r eine schnellstm&#246;gliche L&#246;schung dieser Inhalte einsetzen.
+In der Entschlie&#223;ung des Deutschen Bundestages vom 1. Dezember 2011 wird die Bundesregierung
+aufgefordert, dem Deutschen Bundestag j&#228;hrlich f&#252;r das Vorjahr die Ergebnisse der L&#246;schbem&#252;hungen zu &#252;bermitteln.
+Dieser Bitte kommt die Bundesregierung hiermit nach.
+Wie in den Vorjahren treffen die Statistiken dieses Berichts keine Aussagen dazu, wie viele der strafbaren
+Darstellungen nicht gemeldet werden und weiterhin online verf&#252;gbar bleiben. Missbrauchsdarstellungen weisen 
+einen so klaren und absoluten Unrechtsgehalt auf, das kontinuierlich gepr&#252;ft wird, wie der Anfertigung und
+Verf&#252;gbarkeit von kinderpornografischem Material wirksam begegnet werden kann. Einige diesbez&#252;gliche
+Ma&#223;nahmen sollen im 4. Kapitel &#8222;Weitere Aspekte zum Schutz von Kindern und Jugendlichen vor sexueller 
+Ausbeutung im Internet&#8220; vorgestellt werden.
+II. Erl&#228;uterungen zum Bericht und zur Statistik 
+1. Gegenstand des Berichts
+Wesentlicher Gegenstand dieses Berichts ist die Evaluation von Ma&#223;nahmen, die auf die L&#246;schung von
+Telemedienangeboten mit kinderpornografischem Inhalt im Sinne des &#167;184b StGB abzielen. Dar&#252;ber hinaus werden 
+weitere Bem&#252;hungen und Projekte skizziert, die ebenfalls auf eine Reduzierung der Verf&#252;gbarkeit
+entsprechender Dateien abzielen.
+Dabei sollte allerdings auch immer bedacht werden, dass es neben den gemeldeten Inhalten beziehungsweise
+Internetseiten keine seri&#246;se Sch&#228;tzung &#252;ber die gesamte Anzahl von Missbrauchsdarstellungen im WWW gibt.
+2. Zusammenarbeit zwischen dem BKA und den Beschwerdestellen
+Die Zusammenarbeit zwischen dem BKA, den Beschwerdestellen und der BPjM beruht auf einer im Jahr 2007 
+geschlossenen und in den Jahren 2011 sowie 2017 aktualisierten Kooperationsvereinbarung.
+In der Regel werden Hinweise auf Telemedienangebote mit kinderpornografischem Inhalt von Dritten an
+Polizeidienststellen oder an die Beschwerdestellen gemeldet. Zus&#228;tzliche Hinweise auf derartige Inhalte ergeben 
+sich aus der Ermittlungsarbeit der Polizei.
+Die Beschwerdestellen geben die bei ihnen eingegangenen Meldungen zu im Inland gehosteten URLs
+unverz&#252;glich an das BKA weiter &#8211; ebenso wenn eine URL tangiert ist, die einem Staat zugeordnet werden kann, in
+dem es keine INHOPE-Partner-Beschwerdestelle gibt. 
+Sofern es sich um Inhalte handelt, die in der Bundesrepublik Deutschland gehostet werden, leitet das BKA die
+zur Strafverfolgung in der Bundesrepublik Deutschland erforderlichen Schritte ein. Um die L&#246;schung der
+Inhalte zu erreichen, muss in der Regel der Provider informiert werden, bei dem die Daten physikalisch
+gespeichert sind.
+Die Kooperationsvereinbarung sieht vor, dass diese Information zus&#228;tzlich zum polizeilichen Weg auch &#252;ber
+die Beschwerdestellen erfolgen kann. Um die erforderlichen Strafverfolgungsma&#223;nahmen (insbesondere die
+Sicherung von Beweisen) und gegebenenfalls laufende Ermittlungsverfahren nicht zu gef&#228;hrden, leiten die
+Beschwerdestellen die notwendigen Schritte zur L&#246;schung der betreffenden Inhalte erst nach Unterrichtung des 
+BKA beziehungsweise in Abstimmung mit dem BKA ein.
+Abbildung 1 
+Prozedere bei in der Bundesrepublik Deutschland gehosteten Inhalten 
+Soweit es sich um im Ausland gehostete Inhalte handelt, leiten die Beschwerdestellen die erhaltenen Hinweise 
+auf kinderpornografische Inhalte an die zust&#228;ndige INHOPE-Partner-Beschwerdestelle weiter. In den F&#228;llen, in 
+denen es keine INHOPE Partner-Beschwerde-stelle gibt, wird der Hinweis durch das BKA an den jeweiligen 
+Staat weitergeleitet. Wenn trotz Unterrichtung der im Ausland zust&#228;ndigen Stelle die gemeldeten
+kinderpornografischen Inhalte weiterhin verf&#252;gbar sind, k&#246;nnen die (deutschen) Beschwerdestellen den ausl&#228;ndischen
+Provider auch direkt kontaktieren, um eine L&#246;schung der Inhalte zu erwirken.
+Abbildung 2 
+Prozedere bei im Ausland gehosteten Inhalten 
+Im Ausland gehostete Inhalte, die nach vier Wochen noch aufrufbar sind, werden seitens des BKA zwecks 
+Durchf&#252;hrung eines Indizierungsverfahrens (= Aufnahme in die Liste der jugendgef&#228;hrdenden Medien) der 
+BPjM benannt. Nach erfolgter Indizierung werden die betreffenden Internetadressen (URLs) in das sogenannte 
+BPjM-Modul eingearbeitet.
+Das BPjM-Modul ist eine von der BPjM aufbereitete Datei zur Filterung der im Ausland gehosteten und als
+jugendgef&#228;hrdend eingestuften Telemedienangebote, die sich als Filtermodul (Blacklist) in geeignete
+Filterprogramme integrieren l&#228;sst. &#220;berall dort, wo ein Filterprogramm mit integriertem BPjM-Modul verwendet wird,
+sind die betreffenden Inhalte nicht mehr abrufbar. Dar&#252;ber hinaus haben sich die dem FSM e. V. angeh&#246;renden 
+Suchmaschinenanbieter verpflichtet, die im BPjM-Modul aufgelisteten URLs im deutschen Suchdienst nicht
+anzuzeigen.
+3. Kooperation der Beschwerdestellen 
+Wie in den Abbildungen 1 und 2 ersichtlich, treffen die Beschwerdestellen in Abh&#228;ngigkeit vom
+Hostingstandort (In- oder Ausland) gem&#228;&#223; der Kooperationsvereinbarung mit dem BKA unterschiedliche Ma&#223;nahmen, wenn 
+sie Hinweise auf kinderpornografische Inhalte erhalten. Durchgef&#252;hrt wird diese Arbeit von entsprechend
+rechtlich und technisch geschulten Mitarbeiterinnen und Mitarbeitern, welche durch das Engagement der
+Beschwerdestellen im INHOPE-Netzwerk auch von dem dortigen Erfahrungs- und Expertise-Austausch profitieren
+k&#246;nnen.
+Zus&#228;tzlich wird auf nationaler Ebene ein regelm&#228;&#223;iger Austausch gepflegt, wobei insbesondere die
+unterschiedlichen Hintergr&#252;nde und Schwerpunkte von jugendschutz.net (als Kompetenzzentrum f&#252;r Jugendschutz im
+Internet) und den Beschwerdestellen von FSM e. V. und eco e. V. (als Engagement der Internet-Branche im
+Rahmen der Selbstkontrolle) eine Vielfalt von Perspektiven bieten. Das so geschaffene Zusammenwirken von
+Jugendschutz, Selbstregulierung und Strafverfolgung erm&#246;glicht eine wirksame Bek&#228;mpfung
+kinderpornografischer Inhalte im Internet.
+4. F&#246;rderung der Beschwerdestellen-Arbeit durch die Europ&#228;ische Kommission und das 
+Bundesministerium f&#252;r Familie, Senioren, Frauen und Jugend (BMFSFJ) 
+Die Europ&#228;ische Kommission f&#246;rdert im Rahmen des Programms &#8222;Connecting Europe Facility&#8220; unter anderem
+sogenannte Safer Internet Center. Als Teil des deutschen Safer Internet Centers profitieren auch die
+Meldestellen von eco e. V., FSM e. V. und jugendschutz.net von dieser F&#246;rderung. Die Arbeit der Meldestellen zur
+Bek&#228;mpfung von Darstellungen der sexuellen Ausbeutung von Kindern wird zudem vom BMFSFJ finanziell
+unterst&#252;tzt.
+5. Funktion des INHOPE-Netzwerkes 
+INHOPE ist der 1999 gegr&#252;ndete internationale Dachverband der Beschwerdestellen, die sich mit der
+Bek&#228;mpfung von Kinderpornografie im Internet befassen. Die Beschwerdestellen von eco e. V., FSM e. V. und jugend-
+schutz.net sind drei der insgesamt acht Gr&#252;ndungsmitglieder des INHOPE-Netzwerkes, welchem heute &#252;ber
+48 Beschwerdestellen in &#252;ber 40 Staaten angeh&#246;ren. INHOPE unterst&#252;tzt und f&#246;rdert die Arbeit der
+Beschwerdestellen im internationalen Kampf gegen die Verbreitung kinderpornografischer Inhalte im Internet durch
+folgende T&#228;tigkeitsschwerpunkte:
+&#61623; Etablierung von Standards f&#252;r die Beschwerdestellen,
+&#61623; F&#246;rderung des internationalen Austausches zur Festigung der Zusammenarbeit und 
+&#61623; Gew&#228;hrleistung eines schnellen und effektiven Austausches von Meldungen &#252;ber kinderpornografische
+Inhalte im WWW zwischen den Beschwerdestellen durch die Bereitstellung sicherer und effektiver
+Mechanismen und Werkzeuge.
+Dazu betreibt INHOPE eine beim Generalsekretariat von Interpol in Lyon gehostete Datenbank (IC-CAM1), 
+&#252;ber welche die teilnehmenden Beschwerdestellen ihre Meldungen &#252;ber kinderpornografische Inhalte
+austauschen. Die Analysten bewerten, welche Inhalte zweifelsfrei allgemeing&#252;ltig als Kinderpornografie einzustufen
+sind (sogenannte &#8222;Baseline&#8220;-Inhalte) und &#252;bermitteln alle als kinderpornografisch zu klassifizierenden Inhalte
+zur weiteren Ma&#223;nahmenergreifung an die Beschwerdestelle des jeweiligen Staates, in dem das Material seinen
+Hosting-Ursprung hat. Parallel dazu gehen die &#8222;Baseline&#8220;-Inhalte &#252;ber IC-CAM an das Generalsekretariat von 
+Interpol und k&#246;nnen dort zur Identifizierung von T&#228;tern und Opfern des sexuellen Missbrauchs von Kindern
+genutzt werden. Weitere Schwerpunkte der Arbeit von INHOPE sind: 
+&#61623; Erweiterung des internationalen Netzwerkes sowie die Unterst&#252;tzung neuer Mitglieder durch Beratung und 
+Training,
+&#61623; Schaffung eines besseren Verst&#228;ndnisses f&#252;r die Arbeit der Beschwerdestellen auf internationaler Ebene
+bei Ermittlungsbeh&#246;rden, Regierungen und anderen relevanten Organisationen mit dem Ziel einer besseren 
+Kooperation und
+&#61623; F&#246;rderung der weltweiten Bekanntheit von INHOPE und den Beschwerdestellen bei Unterst&#252;tzern, aber
+auch in der Bev&#246;lkerung.
+Dar&#252;ber hinaus bietet INHOPE diverse Trainingskurse, Workshops und Webinare an, unter anderem zu
+Recherchetechniken, Verbreitungswegen, aber auch zu F&#252;rsorgema&#223;nahmen f&#252;r das eingesetzte Personal.
+6. Datenbasis der Statistik
+Die Basis der statistischen Erhebungen bildet die Anzahl der j&#228;hrlich beim BKA sowie den Beschwerdestellen
+eingegangenen Hinweise auf kinderpornografische Inhalte. Daraus abgeleitete Messzahlen sind:
+&#61623; das Bearbeitungsaufkommen pro Monat,
+&#61623; das Aufkommen unterteilt nach Serverstandorten im In- und Ausland, 
+&#61623; die Anzahl der kinderpornografischen Inhalte, die nach einer Woche beziehungsweise nach vier Wochen
+gel&#246;scht werden konnten und
+&#61623; die Herkunft des Ersthinweises. 
+Die Kooperationspartner haben sich entsprechend der Entschlie&#223;ung des Deutschen Bundestags auf eine
+einheitliche Erfassungssystematik der eingehenden Hinweise und Methoden f&#252;r die Zusammenf&#252;hrung der
+erforderlichen Daten beim BKA verst&#228;ndigt. Deren wesentliche Bestandteile stellen sich wie folgt dar:
+&#61623; Die statistische Erfassung bezieht sich ausschlie&#223;lich auf Hinweise kinderpornografischer Natur im Sinne 
+des &#167; 184b StGB. Im Kreis der Kooperationspartner trifft das BKA im Zweifelsfall die Entscheidung
+dar&#252;ber, ob ein Hinweis als &#8222;kinderpornografisch&#8220; einzuordnen und in den Datenbestand aufzunehmen ist. 
+1 IC-CAM: &#8222;I see Child Abuse Material&#8220;
+&#61623; Die Z&#228;hleinheiten der Statistik sind Adressen im WWW (URLs) in der gr&#246;&#223;tm&#246;glichen Einheit (Container-
+Prinzip). Das Container-Prinzip besagt, dass bei Webseiten, die zum Beispiel verschiedene
+kinderpornografische Bilder aufweisen, grunds&#228;tzlich nur die URL der Container-Seite und nicht die URL jedes
+einzelnen damit verlinkten Bildes gez&#228;hlt wird; die Bild-URLs werden nur dann zus&#228;tzlich erfasst, wenn diese 
+an anderer Stelle gehostet werden als die Container-URL (zum Beispiel in einem anderen Staat).
+&#61623; F&#252;r die Entscheidung, ob es sich um eine im In- oder Ausland gehostete URL handelt, ist der Standort des
+Servers ma&#223;gebend, auf dem die missbrauchsdarstellenden Inhalte physikalisch abgelegt sind. Der Bezug
+zur Bundesrepublik Deutschland kann aber auch hergestellt sein, wenn zum Beispiel der Content-Provider, 
+der Host-Provider oder der IP-Block-Anbieter in der Bundesrepublik Deutschland ans&#228;ssig und damit eine 
+Kontaktaufnahme in der Bundesrepublik Deutschland m&#246;glich ist.
+III. Statistische Auswertung der L&#246;schbem&#252;hungen im Jahr 2018 
+1. Gesamtzahl der eingegangenen und weitergeleiteten Hinweise 
+Im Jahr 2018 wurden insgesamt 5 951 (2017: 5977) Hinweise zu kinderpornografischen Inhalten im WWW 
+(In- und Ausland) durch das BKA und die Beschwerdestellen statistisch erfasst.  
+Bezogen auf die Gesamtzahl konnten insgesamt 83 Hinweise aus den folgenden Gr&#252;nden nicht mit einer
+L&#246;schaufforderung weitergeleitet werden:
+&#61623; In 81 F&#228;llen handelte es sich um eine URL im TOR-Netzwerk2, wodurch der jeweilige Serverstandort
+verborgen war. Die Unterrichtung eines ausl&#228;ndischen Kooperationspartners beziehungsweise eines
+inl&#228;ndischen Service-Providers konnte nicht erfolgen, da zu diesen URLs eine Ermittlung des physikalischen
+Serverstandortes nicht m&#246;glich war.
+&#61623; In zwei F&#228;llen von im Ausland gehosteten URLs konnten diese aus rechtlichen Gr&#252;nden nicht an einen 
+ausl&#228;ndischen Kooperationspartner weitergeleitet werden.3
+Den weiteren statistischen Auswertungen liegen somit 5 868 (2017: 5 938) weitergeleitete Hinweise zu
+kinderpornografischen Inhalten zugrunde. Von dieser Zahl wurden die Inhalte in 1035 F&#228;llen (rund 18 Prozent) im
+Inland und in 4 833 F&#228;llen (rund 82 Prozent) im Ausland gehostet (2017: 967 F&#228;lle beziehungsweise 16 Prozent 
+im Inland; 4 971 F&#228;lle beziehungsweise 84 Prozent im Ausland).
+2 TOR ist ein Netzwerk unter anderem zur Anonymisierung von Verbindungsdaten. Mit TOR kommunizieren die beiden
+Kommunikationspartner nicht unmittelbar miteinander. Stattdessen erfolgt deren Kommunikation &#252;ber mindestens drei Zwischenstationen, wovon 
+jede Station nur Kenntnis &#252;ber den unmittelbaren Vorg&#228;nger und Nachfolger in der Kommunikationskette hat. Mit dieser Technik
+werden die zur Identifikation der Kommunikationspartner ben&#246;tigten Daten (insbesondere IP-Adressen) wirksam verborgen. 
+3 Staaten mit Kooperationsbeschr&#228;nkungen sind Staaten, mit denen der polizeiliche Informationsaustausch aufgrund bestimmter
+rechtlicher Besonderheiten nur eingeschr&#228;nkt erfolgt.
+Abbildung 3 
+Verh&#228;ltnis der weitergeleiteten in- und ausl&#228;ndischen URLs im Jahr 2018 im Monatsvergleich 
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+185
+71
+168
+45
+303
+128
+233
+62
+361
+60
+391
+86
+569
+64
+404
+71
+738
+26
+843
+286
+434
+170
+285
+57
+ausl&#228;ndische
+URL
+inl&#228;ndische
+URL
+Jan
+18
+Feb
+18
+Mrz
+18
+Apr
+18
+Mai Jun Jul 18
+18 18
+Aug
+18
+Sep
+18
+Okt
+18
+Nov
+18
+Dez
+18
+2. Inl&#228;ndische Inhalte (URLs) 
+a) Verf&#252;gbarkeitszeitraum inl&#228;ndischer URLs 
+Die L&#246;schung der im Inland gehosteten kinderpornografischen Inhalte gelingt in der Regel schneller als die
+L&#246;schung der im Ausland gehosteten Inhalte, da die Anzahl der Verfahrensschritte geringer ist. So wurden
+78 Prozent (809) aller Inhalte in der Bundesrepublik Deutschland sp&#228;testens nach zwei Tagen gel&#246;scht. Nach
+einer Woche waren 94 Prozent (974) aller Inhalte gel&#246;scht. Dabei lag der durchschnittliche
+Verf&#252;gbarkeitszeitraum bei 4,22 Tagen (siehe unter b). Die im Vergleich zum Vorjahr gestiegene Wartezeit ist durch die enorm
+lange Reaktionszeit der Provider in den Monaten April und November begr&#252;ndet. Urs&#228;chlich f&#252;r die nach einer
+Woche noch verbliebenen Inhalte (6 Prozent) waren auch im Jahr 2018 der tempor&#228;re Verzicht auf L&#246;schungen
+aus ermittlungstaktischen Gr&#252;nden sowie technische und / oder organisatorische Probleme einzelner Provider
+bei der Umsetzung der L&#246;schungsersuchen. BKA und Beschwerdestellen sind bestrebt, bei allen deutschen 
+Providern die Dauer der Verf&#252;gbarkeit illegaler Inhalte zu verringern. Um k&#252;nftig Umsetzungsprobleme bei
+einzelnen deutschen Providern zu verhindern, suchen zun&#228;chst insbesondere die Beschwerdestellen im Rahmen 
+der Selbstregulierung das Gespr&#228;ch mit diesen. Sollten dann weiterhin Verf&#252;gbarkeitszeiten von &#252;ber einer 
+Woche festgestellt werden, werden sowohl gefahrenabwehrrechtliche als auch strafprozessuale Ma&#223;nahmen 
+gepr&#252;ft.
+Abbildung 4 
+Verh&#228;ltnis von gel&#246;schten zu noch verf&#252;gbaren inl&#228;ndischen Inhalten (URLs) im Jahr 2018 
+zwei Tage nach Eingang des Hinweises im BKA im Monatsvergleich 
+Abbildung 5 
+Verh&#228;ltnis von gel&#246;schten zu noch verf&#252;gbaren inl&#228;ndischen Inhalten (URLs) im Jahr 2018 
+eine Woche nach Eingang des Hinweises im BKA im Monatsvergleich
+b) Durchschnittliche Bearbeitungszeit f&#252;r inl&#228;ndische Inhalte (URLs)
+Die durchschnittliche Bearbeitungszeit f&#252;r inl&#228;ndische Inhalte (URLs) ab Eingang des Hinweises beim BKA
+bis zur L&#246;schung durch den Provider betrug im Jahr 2018 ca. 4,22 Tage (2017: 2,01 Tage). Davon entfallen f&#252;r 
+die Pr&#252;fung, Bewertung und Weiterleitung ca. 0,41 Tage auf das BKA (2017: 0,19 Tage) und auf die Provider 
+und deren Arbeitsschritte 3,81 Tage (2017: 1,82 Tage). 
+Bei den Beschwerdestellen konnte im Jahr 2018 eine geringf&#252;gig l&#228;ngere Weiterleitungszeit an das BKA als in
+den Vorjahren festgestellt werden. Im Jahr 2016 betrug die durchschnittliche Bearbeitungszeit inl&#228;ndischer 
+URLs bis zur Weiterleitung an das BKA 13,3 Stunden (0,56 Tage), im Jahr 2017 0,6 Tage. Im Jahr 2018 betrug
+die Weiterleitungszeit durchschnittlich 16,8 Stunden (0,7 Tage). 
+Abbildung 6 
+Anteil der seitens des BKA ben&#246;tigten durchschnittlichen Zeit bis zur Weiterleitung  
+von im Inland gehosteten kinderpornografischen Inhalten an die Provider
+Abbildung 6a 
+Anteile der seitens der Provider ben&#246;tigten durchschnittlichen Zeit bis zur L&#246;schung  
+von im Inland gehosteten kinderpornografischen Inhalten 
+Abbildung 7 
+Durchschnittliche Bearbeitungszeit der Beschwerdestellen von im Inland gehosteten 
+kinderpornografischen Inhalten ab Eingang bei den Beschwerdestellen 
+bis zur Weiterleitung an das BKA im Jahrestrend 
+Ta
+ge
+1,60
+1,40
+1,20
+1,00
+0,80
+0,60
+0,40
+0,20
+0,00
+1,40
+1,09
+0,90
+0,74 0,64
+0,52 0,51
+0,43
+0,26
+0,64 0,67
+0,56
+Jan 18 Feb 18 Mrz 18 Apr 18 Mai 18 Jun 18 Jul 18 Aug 18Sep 18 Okt 18 Nov 18Dez 18
+3. Verf&#252;gbarkeitszeitraum ausl&#228;ndischer Inhalte (URLs) 
+Die L&#246;schung der im Ausland gehosteten Inhalte ben&#246;tigt aufgrund des komplexeren Verfahrensablaufs und
+der gr&#246;&#223;eren Anzahl beteiligter Stellen mehr Zeit als die L&#246;schung der im Inland gehosteten Inhalte. Hier waren
+54 Prozent (2637 URLs) (2017: 60 Prozent; 2 672 URLs) aller Inhalte nach einer Woche gel&#246;scht. Nach vier 
+Wochen lag der Anteil gel&#246;schter Inhalte bei 90 Prozent (4413 URLs) (2017: 87 Prozent; 3905 URLs). Nicht
+gel&#246;schte beziehungsweise l&#246;schbare Inhalte werden in der Regel der BPjM zwecks Durchf&#252;hrung des
+Indizierungsverfahrens zugeleitet.
+Abbildung 8 
+Verh&#228;ltnis von gel&#246;schten zu noch verf&#252;gbaren ausl&#228;ndischen Inhalten (URLs) im Jahr 2018  
+eine Woche nach Eingang des Hinweises im Monatsvergleich 
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+Jan Feb Mrz Apr Mai Jun Jul 18 Aug Sep Okt Nov Dez
+18 18 18 18 18 18 18 18 18 18 18
+125
+60
+109
+59
+194
+109
+118
+115
+120
+241
+137
+254
+117
+452
+215
+189
+284
+454
+471
+372
+203
+231
+184
+101
+verf&#252;gbar
+gel&#246;scht
+Abbildung 9 
+Verh&#228;ltnis von gel&#246;schten zu noch verf&#252;gbaren ausl&#228;ndischen Inhalten im Jahr 2018
+vier Wochen nach Eingang des Hinweises im Monatsvergleich
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+51
+134
+28
+140
+34
+269
+30
+203
+25
+336
+43
+348
+31
+538
+49
+355
+39
+699
+58
+785
+55
+379
+58
+227
+verf&#252;gbar
+gel&#246;scht
+Jan Feb Mrz Apr Mai Jun Jul 18 Aug Sep Okt Nov Dez
+18 18 18 18 18 18 18 18 18 18 18
+4. Kategorien der bearbeiteten und weitergeleiteten Inhalte (URLs) 
+Im WWW ist eine Reihe von Funktionalit&#228;ten nutzbar, mittels derer Inhalte beziehungsweise Dateien zur
+Verf&#252;gung gestellt werden. Die eingehenden Meldungen zu kinderpornografischen Inhalten enthalten jeweils
+URLs, durch die die Inhalte erreicht werden k&#246;nnen. Die gemeldeten URLs lassen sich dabei wie folgt
+kategorisieren:
+&#61623; Download: Ein Internetinhalt, auf dessen URL lediglich ein Dateiname sichtbar ist. Die betreffende 
+Datei muss zur Betrachtung zun&#228;chst gespeichert werden.
+&#61623; Forum: Ein Portal, auf dem man Beitr&#228;ge, Bilder oder Links einstellen kann.
+&#61623; Image: Ein Bild mit kinderpornografischem Inhalt (auch: Einzelbild).
+&#61623; Linkliste: Links, die zu URLs mit kinderpornografischen Bildern oder Videos weiterleiten.
+&#61623; Profil: Ein Profil in einem sozialen Netzwerk.
+&#61623; Video: Ein Video mit kinderpornografischem Inhalt.
+&#61623; Website: Internetangebot, welches unterhalb der genannten URL noch mehrere bis hin zu einer
+Vielzahl an Unterinhalten bereitstellt.
+&#61623; Webpage: Internetangebot, welches einen konkreten Unterinhalt einer Website darstellt.
+&#61623; Weiterleiter: Ein Angebot, das auf rechtswidrige Angebote auf anderen Domains weiterleitet.
+Abbildung 10 
+Anteil der Funktionalit&#228;ten des WWW, &#252;ber die kinderpornografische Inhalte zur Verf&#252;gung gestellt 
+werden, bezogen auf die bearbeiteten und erfassten Hinweise 
+24372
+4% 2371% 4%
+152
+2%
+Download
+Forum
+Image
+Linkliste
+Profil
+Video
+Website
+Weiterleiter
+173
+3%
+2936
+49%
+177
+3%
+2050
+34%
+5. Hinweisquellen 
+a) Hinweisquellen des BKA 
+Im Jahr 2018 erhielt das BKA 96 Prozent aller Informationen zu kinderpornografischen URLs aus der
+Bundesrepublik Deutschland von den inl&#228;ndischen Beschwerdestellen (2017: 88 Prozent). Diese wichtige
+Br&#252;ckenfunktion der Beschwerdestellen zwischen der Bev&#246;lkerung und der Polizei hat sich auch im aktuellen
+Betrachtungsjahr bew&#228;hrt. So erhielt das BKA im Jahr 2018 keine der Hinweise direkt von Privatpersonen
+beziehungsweise aus der &#214;ffentlichkeit (2017: 1 Prozent).
+Abbildung 11 
+Quellen, aus denen Informationen zu kinderpornografischen Inhalten dem BKA &#252;bermittelt wurden
+b) Hinweisquellen der Beschwerdestellen 
+Die Beschwerdestellen erhalten Hinweise zu kinderpornografischen URLs &#252;berwiegend aus der &#214;ffentlichkeit
+(Kategorie &#8222;Andere&#8220; &#8211; 81 Prozent). Die Beschwerdestellen erm&#246;glichen eine niedrigschwellige und einfach
+zug&#228;ngliche M&#246;glichkeit f&#252;r die Bev&#246;lkerung, Inhalte zu melden. Eine Meldung kann auch anonym erfolgen.
+Das BKA &#252;bermittelt zudem ausl&#228;ndische F&#228;lle an jugendschutz.net, damit sie von dort an INHOPE-Partner
+und Diensteanbieter im Ausland weitergeleitet werden.
+Abbildung 12 
+Quellen, aus denen Hinweise zu kinderpornografischen Inhalten den drei Beschwerdestellen 
+&#252;bermittelt wurden 
+59
+1%
+1086
+18%
+4937
+81%
+INHOPE
+Andere
+BKA
+6. Verteilung der ausl&#228;ndischen URLs nach L&#228;ndern 
+Aus der folgenden &#220;bersicht geht hervor, in welche L&#228;nder Hinweise zu dort gehosteten Inhalten weitergeleitet 
+wurden (haupts&#228;chlich &#252;ber das INHOPE-Netzwerk). Zudem wird dargestellt, wie hoch der prozentuale Anteil
+der jeweiligen Staaten an der Gesamtanzahl der Hinweise ist. Hierbei sind nur diejenigen L&#228;nder abgebildet, 
+bei denen der Anteil an der Gesamtanzahl bei &#252;ber einem Prozentpunkt lag.
+Abbildung 13 
+Weiterleitung von Hinweisen zu im Ausland gehosteten Quellen
+Land URL-Anzahl Anteil an der Gesamtanzahl in Prozent 
+Niederlande 1 548 31,5
+USA 1 251 25,5
+Russland 1 223 24,9
+Frankreich 299 6,1
+Ukraine 76 1,5
+Tschechische Republik 55 1,1
+Gro&#223;britannien 55 1,1
+Rum&#228;nien 50 1,0
+Die Angaben zu den Hosting-Staaten sind unter Ber&#252;cksichtigung der im jeweiligen Staat vorhandenen
+technischen Infrastruktur, beispielsweise Speicherkapazit&#228;ten, zu betrachten und sind nicht zwingend Indikator f&#252;r 
+eine m&#246;gliche Inaktivit&#228;t bei der Bek&#228;mpfung kinderpornografischer Angebote. 
+7. Bewertung 
+a) Gesamtanzahl der bearbeiteten und weitergeleiteten URLs 
+Die Zahl der weitergeleiteten Hinweise auf im Ausland gehostete kinderpornografische URL im Jahr 2018
+(4 914) &#228;hnelt der aus dem Jahr 2017 (4971). 
+Die Anzahl der dem BKA gemeldeten im Inland physikalisch abgelegten kinderpornografischen Inhalte ist mit
+dem Wert des Vorjahres vergleichbar. W&#228;hrend der Anteil inl&#228;ndischer URLs im Jahr 2017 bei 16 Prozent (967 
+URLs) lag, waren im Berichtsjahr 1035 URLs (21 Prozent) im Inland gehostet. J&#228;hrliche Schwankungen waren 
+bereits in den vergangenen Jahren zu verzeichnen.
+b) Quelle des Ersthinweises 
+Wie sich aus der vergleichenden Betrachtung zu den Hinweisquellen (Abbildungen 11 und 12) ergibt, stammten
+96 Prozent (im Jahr 2017: 88 Prozent) der durch die Kooperationspartner im Jahr 2018 weitergeleiteten
+Hinweise von den Beschwerdestellen.
+Wiederum 81 Prozent (2017: 79 Prozent) der bei den Beschwerdestellen im Vergleichszeitraum erfassten
+Hinweise auf kinderpornografische Inhalte stammten von &#8222;Anderen&#8220;. Unter dieser Kategorie werden haupts&#228;chlich
+Privatpersonen erfasst. Dies weist darauf hin, dass die Arbeit der Beschwerdestellen eine hohe gesellschaftliche
+Akzeptanz erf&#228;hrt.
+Wegen der wachsenden Bedeutung der &#252;ber die Beschwerdestellen eingehenden Meldungen sind auch in
+Zukunft hinreichende personelle und s&#228;chliche Ressourcen sowohl auf Seiten der Strafverfolgung als auch bei den
+Beschwerdestellen erforderlich, damit Hinweisen z&#252;gig nachgegangen, L&#246;schungen von kinderpornografischen 
+URLs an der Quelle erwirkt und gegebenenfalls Strafverfolgungsma&#223;nahmen eingeleitet werden k&#246;nnen.
+c) Ursachen f&#252;r l&#228;ngere Verf&#252;gbarkeitszeiten 
+Lange Verf&#252;gbarkeitszeiten und erfolglose L&#246;schbem&#252;hungen haben unterschiedliche Gr&#252;nde, beispielsweise
+unterschiedliche Rechtslagen, laufende polizeiliche Ermittlungen oder Schwierigkeiten bei der
+Kontaktaufnahme zu den Providern. Zudem bestehen h&#228;ufig technische Herausforderungen, beispielsweise bei der
+Sichtung von Angeboten oder der Ermittlung von verantwortlichen Personen.
+Aufgrund der unterschiedlichen internationalen Rechtslagen f&#252;hren Weiterleitungen an Ermittlungsbeh&#246;rden
+und Partner-Beschwerdestellen im Ausland h&#228;ufig nicht zum Erfolg. Dennoch konnte oftmals &#252;ber die direkte 
+Kontaktaufnahme mit Diensteanbietern wie Hostern, Plattformbetreibern, IP-Block-Inhabern oder Registraren
+eine L&#246;schung erzielt werden.
+Fiktive kinderpornografische Darstellungen und Texte sind in der Bundesrepublik Deutschland beispielsweise 
+strafrechtlich relevant. Neben realit&#228;tsnahen Zeichnungen z&#228;hlen hierzu auch abgewandelte Darstellungen von 
+Comic-Formaten, Mangas und Hentais, wenn kindliche Figuren abgebildet sind. In vielen L&#228;ndern sind virtuelle 
+Darstellungen entweder gar nicht vom Gesetz erfasst oder die Regelungen beschr&#228;nken sich auf realit&#228;tsnahe
+F&#228;lle.
+Darstellungen, die Kinder ganz oder teilweise unbekleidet in unnat&#252;rlich geschlechtsbetonter K&#246;rperhaltung
+zeigen oder die unbekleideten Genitalien beziehungsweise das unbekleidete Ges&#228;&#223; sexuell aufreizend
+wiedergeben, sind in der Bundesrepublik Deutschland strafrechtlich relevant. Auch hier weicht die Rechtslage in
+einigen anderen Staaten von der deutschen ab. Teilweise sind derartige Darstellungen strafrechtlich &#252;berhaupt
+nicht erfasst, teilweise erst ab einem gewissen Grad (zum Beispiel, wenn bei einer unnat&#252;rlich
+geschlechtsbetonten K&#246;rperhaltung der Genitalbereich fokussiert dargestellt wird). 
+Auch das Zug&#228;nglichmachen kinderpornografischer Inhalte mittels Verlinkungen ist nicht einheitlich geregelt.
+W&#228;hrend in der Bundesrepublik Deutschland Links auf einem Webangebot, die zu kinderpornografischen
+Inhalten auf einem anderen Angebot f&#252;hren, strafrechtlich relevant sind, ist dies in anderen Staaten gesetzlich 
+nicht immer erfasst. 
+Eine technische Herausforderung stellt die Sichtung von Webangeboten dar, wenn diese nur &#252;ber einen
+bestimmten Referrer abrufbar sind. Als Referrer wird in diesem Zusammenhang die Internetadresse der Webseite
+bezeichnet, von der ein User durch Anklicken eines Links auf ein bestimmtes Webangebot weitergeleitet wird.
+Der Inhalt der Seite, die der User &#252;ber den Referrer erreicht, unterscheidet sich vom Inhalt der gleichen Seite,
+wenn diese direkt &#252;ber den Browser aufgerufen wird. F&#252;r die &#220;berpr&#252;fung eines solchen gemeldeten Hinweises
+bedeutet dies, dass die Simulation eines bestimmten digitalen Pfades vorgenommen werden muss. 
+Die Pr&#252;fung solcher F&#228;lle nimmt daher l&#228;ngere Zeit in Anspruch und erh&#246;ht den Kommunikationsaufwand von
+Ermittlungsbeh&#246;rden, Beschwerdestellen und Diensteanbietern.
+Sonstige technische Besonderheiten resultieren aus der Verwendung von Fast-Flux-Technology4 und Content
+Delivery Networks5, die einen zus&#228;tzlichen Aufwand bei der Ermittlung verantwortlicher Ansprechpartner
+verursachen k&#246;nnen:
+&#61623; Durch die Nutzung von Fast-Flux-Netzwerken werden die Standorte von Webservern verschleiert. So
+wurden beispielsweise f&#252;r eine h&#228;ufig genutzte Downloadplattform Serverstandorte in unterschiedlichen
+L&#228;ndern und auch unterschiedliche IP-Adressen ermittelt. Die Beschwerdestellen und das BKA stimmen sich 
+derzeit noch ab, wie zuk&#252;nftig mit Hinweisen im Zusammenhang mit Fast-Flux umgegangen werden soll.
+&#61623; Wenn f&#252;r die Verbreitung kinderpornografischer Darstellungen Content Delivery Networks genutzt
+werden, weisen die Daten einer Whois-Abfrage nicht den Hoster, sondern Name und IP-Adresse des Content
+Delivery Networks aus. Um derartige Inhalte zu lokalisieren, war teilweise ein erh&#246;hter
+Abstimmungsbedarf erforderlich. 
+IV. Weitere Aspekte zum Schutz von Kindern und Jugendlichen vor sexueller Ausbeutung 
+im Internet 
+Eine Verbesserung des Schutzes von Kindern und Jugendlichen vor sexueller Ausbeutung im Internet erfordert
+neben den L&#246;schbem&#252;hungen auch eine verst&#228;rkte pr&#228;ventive T&#228;tigkeit sowie eine stetige Optimierung im
+t&#228;glichen Umgang mit den eingehenden Datenmassen. Dar&#252;ber hinaus hat die Bundesregierung einen
+Gesetzentwurf zur Einf&#252;hrung einer Versuchsstrafbarkeit f&#252;r den Straftatbestand des Cybergroomings beschlossen.
+4 Fast Flux ist eine unter anderem auch von Botnetzen genutzte DNS-Technik, mit welcher der Standort von Webservern verschleiert 
+werden kann.
+5 Content Delivery Network (CDN) ist ein Netz regional verteilter und &#252;ber das Internet verbundener Server, mit dem Inhalte &#8211;
+insbesondere gro&#223;e Mediendateien &#8211; schnell und stabil ausgeliefert werden.
+1. &#220;bermittlung von Hinweisen durch das US-amerikanische &#8222;National Center for missing 
+and exploited Children&#8221; (NCMEC) 
+Neben der hier dargelegten Bearbeitung von Hinweisen auf m&#246;glicherweise strafrechtsrelevante Inhalte im Netz
+nimmt das BKA als kriminalpolizeiliche Zentralstelle in erster Linie Hinweise aus dem Ausland auf Personen
+in der Bundesrepublik Deutschland entgegen, die im Verdacht stehen, kinderpornografische Dateien zu besitzen
+oder &#252;ber das Internet zu verbreiten. Im Jahr 2018 wurden vom US-amerikanischen NCMEC etwa 70000
+Hinweise auf solche, m&#246;glicherweise strafrechtlich relevante Sachverhalte &#252;bermittelt.
+Die wesentliche Aufgabe des NCMEC besteht in der Entgegennahme und Weiterleitung von Hinweisen und
+Informationen zu vermissten Kindern und Kindesmissbrauch an die Strafverfolgungsbeh&#246;rden sowie &#8211; im Falle
+der Kinderpornografie im Internet &#8211; von und an die Internet Service Provider (ISP). 
+Im Unterschied zur Bundesrepublik Deutschland sind die US-amerikanischen ISP aufgrund eines US-
+Bundesgesetzes verpflichtet, dort bekannt gewordene, strafrechtlich relevante Sachverhalte aktiv der halbstaatlichen 
+Organisation NCMEC mitzuteilen. ISP suchen zudem im Rahmen der Selbstverpflichtung auch aktiv mit Hilfe
+von Hashwerten und Photo-DNA nach inkriminiertem Material. 
+In der Funktion als hinweisentgegennehmende Stelle f&#252;r US-Provider werden die Sachverhalte durch das
+NCMEC hinsichtlich eines m&#246;glichen Tatortes &#252;berpr&#252;ft und anschlie&#223;end inklusive der durch die Provider zur
+Verf&#252;gung gestellten Beweismittel (IP-Adresse und Zeitstempel zum Verbreitungsvorgang, gegebenenfalls E-
+Mail-Adresse oder Benutzername, strafrechtlich relevante Dateien, etc.) an den entsprechenden (Tatort-)Staat 
+weitergeleitet.
+F&#252;r die Bundesrepublik Deutschland bedeutet dies, dass alle Hinweise aus den USA, auf Besitzer und Verbreiter 
+kinderpornografischer Dateien in oder aus Deutschland heraus &#252;ber das NCMEC an das BKA als nationale
+Zentralstelle f&#252;r diesen Deliktsbereich weitergegeben werden.
+W&#228;hrend bis zum Jahr 2013 die j&#228;hrlichen Eingangszahlen im Bereich von ca. 5 000 bis 6 000 Hinweisen lagen,
+stiegen die Hinweise des NCMEC im Jahr 2014 bereits auf ca. 8000 an. Im Jahr 2015 verdoppelten sich die 
+Hinweise des NCMEC auf ca. 16 500 Hinweise pro Jahr. Ein weiterer signifikanter Anstieg der Eingangszahlen 
+im BKA war im Jahr 2016 mit einer erneuten Verdoppelung gegen&#252;ber dem Vorjahr auf ca. 33000 Hinweise 
+zu verzeichnen. Sind die Eingangszahlen im Jahr 2017 nur geringf&#252;gig auf etwa 35000 Hinweise gestiegen, so
+hat sich die Anzahl im Jahr 2018 auf Grund der immer besseren Detektionstechnologien sowie des Engagements
+weiterer ISP auf etwa 70000 Hinweise verdoppelt.
+Von den im Jahr 2018 eingegangenen etwa 70 000 Hinweisen konnten nach inhaltlicher beziehungsweise
+strafrechtlicher Pr&#252;fung 38633 Ermittlungsvorg&#228;nge im BKA generiert werden.
+2. &#8222;Netzwerk gegen Missbrauch und sexuelle Ausbeutung von Kindern &#8211; Keine Grauzonen
+im Internet&#8220; 
+Zum Schutz von Minderj&#228;hrigen im Netz hat das BMFSFJ im Jahr 2014 das Netzwerk &#8222;Keine Grauzonen im
+Internet&#8220; initiiert, um alle Formen der sexuellen Ausbeutung von Kindern zu bek&#228;mpfen und die internationale 
+&#196;chtung von Darstellungen der Grauzone zu forcieren.
+Zu der Grauzone z&#228;hlen dabei Darstellungen von Minderj&#228;hrigen, die nicht in jedem Staat die Grenze zum
+strafrechtlich relevanten Bereich &#252;berschreiten, jedoch Pers&#246;nlichkeitsrechte von Kindern verletzen. Hierunter
+fallen auch Darstellungen, die in der Bundesrepublik Deutschland seit der Gesetzes&#228;nderung im Januar 2015
+nach &#167; 184b Absatz 1 Nummer 1 Buchstabe b und c StGB (Kinderpornografie) und &#167; 184c Absatz 1 Nummer 1 
+Buchstabe b StGB (Jugendpornografie) bereits strafrechtlich erfasst sind, sowie solche, die aus
+jugendmedienschutzrechtlichen Gr&#252;nden als unzul&#228;ssig gelten. Im Netzwerk unterst&#252;tzen sich die Beschwerdestellen 
+(FSM e. V., jugendschutz.net), Unternehmen der Internetwirtschaft (Google) und das Netzwerk &#8222;Kein T&#228;ter 
+werden&#8220; gegenseitig. jugendschutz.net generiert systematisch Wissen, entwickelt Gegenstrategien und
+unterst&#252;tzt Unternehmen bei der Bek&#228;mpfung solcher Darstellungen.
+Arbeitsschwerpunkt war im Jahr 2018 die Analyse struktureller und inhaltlicher Risiken jugendaffiner Dienste
+wie beispielsweise TikTok, instagram &amp; tumblr, die neben der Vernetzung sexuell an Kindern interessierter 
+Personen und der Verbreitung von Missbrauchsdarstellungen auch M&#246;glichkeiten f&#252;r die Kommentierung von
+Alltagsdarstellungen und der Kontaktaufnahme zu Minderj&#228;hrigen erm&#246;glichen.
+Die deutschen Beschwerdestellen eco e. V., FSM e. V. und jugendschutz.net nahmen zudem Hinweise zu
+Darstellungen der &#8222;Grauzone&#8220; entgegen, leiteten straf- und jugendmedienschutzrechtlich relevante Inhalte an
+Ermittlungsbeh&#246;rden sowie Partnerhotlines im Ausland weiter und kontaktierten Diensteanbieter, um eine
+L&#246;schung zu erwirken. So konnten beispielsweise &#252;ber 90 Prozent der knapp 2500 Angebote, die Darstellungen 
+von Minderj&#228;hrigen in sexualisierten Posen zeigten, entfernt werden. 
+Der Netzwerkpartner Google hat mit einer Content Safety API (Application Programming Interface) ein
+Machine-Learning-System zur Identifizierung von Darstellungen des sexuellen Kindesmissbrauchs entwickelt. Der 
+Einsatz k&#252;nstlicher Intelligenz k&#246;nnte auch den Sichtungsprozess von Darstellungen beschleunigen und
+vereinfachen. Google k&#252;ndigte an, die Content Safety API Nichtregierungsorganisationen und Partner-Unternehmen
+kostenfrei zur Verf&#252;gung zu stellen. jugendschutz.net hat sich f&#252;r die Nutzung akkreditieren lassen, um das 
+Potenzial f&#252;r die eigene Arbeit zu &#252;berpr&#252;fen. 
+Initiiert vom Institut f&#252;r Sexualwissenschaft und Sexualmedizin der Charit&#233; in Berlin ging die internetbasierte
+Selbsthilfe-Plattform &#8222;TROUBLED DESIRE&#8220; online. Sie richtet sich weltweit an Personen mit einer sexuellen
+Pr&#228;ferenz f&#252;r Kinder, die Hilfe im Umgang mit ihrer Neigung suchen.
+3. Einf&#252;hrung einer Versuchsstrafbarkeit f&#252;r den Straftatbestand des Cybergroomings 
+Wer im Internet gezielt Kontakt zu Kindern aufnimmt, um sie zu sexuellen Handlungen zu bringen
+(Cybergrooming), kann schon heute nach &#167; 176 Absatz 4 Nummer 3 StGB mit Freiheitsstrafe von drei Monaten bis zu
+f&#252;nf Jahren bestraft werden. An einer Strafbarkeit fehlt es aber, wenn der T&#228;ter lediglich glaubt, auf ein Kind
+einzuwirken, tats&#228;chlich aber mit einem Erwachsenen Kontakt hat, zum Beispiel mit einem Polizeibeamten oder 
+einem Elternteil. Diese Rechtslage ist unbefriedigend. Denn die Strafbarkeit des T&#228;ters darf nicht davon
+abh&#228;ngen, ob die kontaktierte Person seinen Vorstellungen entsprechend tats&#228;chlich ein Kind ist oder nicht. Deshalb
+sieht der Gesetzentwurf der Bundesregierung f&#252;r eine &#196;nderung des Strafgesetzbuchs &#8211; Versuchsstrafbarkeit
+des Cybergroomings vor, eine Versuchsstrafbarkeit einzuf&#252;hren, um auch diese F&#228;lle strafrechtlich zu erfassen
+(Bundesratsdrucksache 365/19).
+Mit dem Vorhaben sollen Kinder vor den besonderen Gefahren des Internets besser gesch&#252;tzt werden. Zugleich 
+k&#246;nnen T&#228;ter effektiver verfolgt werden, die im Internet unterwegs sind, um Kontakt zu Kindern anzubahnen
+mit dem Ziel, diese sexuell zu missbrauchen oder Kinderpornografie herzustellen. 
+4. Projekt &#8222;Arachnid&#8221; des &#8222;Canadian Center for Child Protection&#8221; 
+Im letztj&#228;hrigen Bericht wurde als ein Beispiel f&#252;r den Einsatz technischer Mechanismen im Kampf gegen
+sexualisierte Gewalt gegen&#252;ber Kindern das zivilgesellschaftliche Projekt &#8222;Arachnid" des &#8222;Canadian Center for
+Child Protection&#8220; skizziert (Bundestagsdrucksache 19/4175, S. 19). Arachnid wird auf EU-Ebene von den
+entsprechenden INHOPE Partner-Hotlines in Schweden und Finnland eingesetzt. Arachnid war Gegenstand einer
+Anh&#246;rung in der Kinderkommission des Deutschen Bundestages am 28. November 2018 und eines Austauschs
+im Ausschuss f&#252;r Familie, Senioren, Frauen und Jugend am 13. M&#228;rz 2019. Ob und inwieweit eine Anwendung 
+von &#8222;Arachnid&#8220; durch die Beschwerdestellen auch in der Bundesrepublik Deutschland effizienzsteigernd
+m&#246;glich w&#228;re, wird derzeit von jugendschutz.net gepr&#252;ft. Hiermit wird auch eine entsprechende Aufforderung der
+Kinderkommission in ihrer Stellungnahme zum Thema &#8222;Kindeswohl und digitalisierte Gesellschaft: Chancen 
+wahrnehmen &#8211; Risiken bannen&#8220; vom 26. Juni 2019 aufgegriffen.
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>Bericht &#252;ber die im Jahr 2018 ergriffenen Ma&#223;nahmen zum Zweck der L&#246;schung von Telemedienangeboten mit kinderpornografischem Inhalt im Sinne des &#167; 184b des Strafgesetzbuchs</titel>
+    <datum>2019-09-05</datum>
+  </document>
+  

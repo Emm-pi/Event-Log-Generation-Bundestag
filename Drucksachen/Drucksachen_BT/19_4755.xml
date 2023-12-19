@@ -1,0 +1,495 @@
+<document>
+    <id>222666</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/4755</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>80d80bb9637de933f24aa67d51024c20</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>239287</id>
+      <titel>Umsetzung der EU-Richtlinie zur Vorratsdatenspeicherung von Fluggastdaten</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium des Innern, f&#252;r Bau und Heimat</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/047/1904755.pdf</pdf_url>
+      <id>222666</id>
+      <dokumentnummer>19/4755</dokumentnummer>
+      <datum>2018-10-04</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums des Innern, f&#252;r Bau und Heimat 
+vom 1. Oktober 2018 &#252;bermittelt.  
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext. 
+Deutscher Bundestag  Drucksache 19/4755 
+19. Wahlperiode 04.10.2018 
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Andrej Hunko, Martina Renner,  
+Heike H&#228;nsel, weiterer Abgeordneter und der Fraktion DIE LINKE. 
+&#8211; Drucksache 19/4377 &#8211; 
+Umsetzung der EU-Richtlinie zur Vorratsdatenspeicherung von Fluggastdaten 
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r  
+Ende September will das Bundesministerium des Innern, f&#252;r Bau und Heimat 
+(BMI) mit der Verarbeitung von Fluggastdaten beginnen (http://gleft.de/2qf). 
+Alle Airlines, Reiseb&#252;ros und sonstigen Reiseanbieter m&#252;ssen ein
+umfangreiches Datenpaket &#252;ber ihre Kunden an die zust&#228;ndigen Beh&#246;rden &#252;bermitteln. 
+Dort werden sie gem&#228;&#223; der Richtlinie 2016/681 des Europ&#228;ischen Parlaments 
+und des Rates vom 27. April 2016 &#252;ber die Verwendung von
+Fluggastdatens&#228;tzen (PNR-Daten) zur Verh&#252;tung, Aufdeckung, Ermittlung und Verfolgung von 
+terroristischen Straftaten und schwerer Kriminalit&#228;t, die alle EU-
+Mitgliedstaaten bis Mai dieses Jahres umsetzen sollten, f&#252;nf Jahre lang gespeichert. Kleine 
+Fluggesellschaften, darunter auch solche, die Gesch&#228;ftsreisen durchf&#252;hren, sind 
+gem&#228;&#223; dem Durchf&#252;hrungsbeschluss (EU) 2017/759 der Kommission vom 28. 
+April 2017 von der Verpflichtung ausgenommen. Die bis zu 60 Datens&#228;tze
+umfassenden PNR-Daten m&#252;ssen bis 24 Stunden vor der planm&#228;&#223;igen Abflugzeit 
+&#252;bermittelt werden, au&#223;erdem ein zweites Mal, wenn sich die T&#252;ren des
+startenden Flugzeuges endg&#252;ltig geschlossen haben.  
+Derzeit haben erst zwei Drittel aller Mitgliedstaaten die Umsetzung der EU-
+Richtlinie wie erforderlich angezeigt (http://gleft.de/2qg). Entgegen vielen
+anderen Mitgliedstaaten hat die Bundesregierung die Fluggastdatenzentralstelle 
+auch noch nicht offiziell mitgeteilt (http://gleft.de/2qh). Die Einrichtung des 
+deutschen Fluggastdatensystems kostete mindestens 30 Mio. Euro
+(Bundestagsdrucksachen 18/12516 und 18/13326), hinzu kommen Personalkosten sowie die 
+Ausgaben f&#252;r Lizenzen. Die PNR-Vorratsdatenspeicherung liegt physisch beim 
+Bundesverwaltungsamt (BVA), das auch f&#252;r die Implementierung der
+Datenformate und Protokolle verantwortlich ist. Die Beh&#246;rde ist daf&#252;r Mitglied einer 
+vom Dachverband der Fluggesellschaften, der International Air Transport 
+Association (IATA), eingerichteten Arbeitsgruppe &#8222;PNRGOV&#8220;. Zu den
+Aufgaben der Arbeitsgruppe geh&#246;rte die Erstellung einer Liste aller verf&#252;gbaren,
+nutzbaren Formate f&#252;r die &#220;bermittlung von Fluggastdatens&#228;tzen (http://gleft.de/ 
+2qi). Die Fluggesellschaften m&#252;ssen daraus Protokolle und Datenformat
+ausw&#228;hlen, das sie zu verwenden gedenken, und den Mitgliedstaaten mitteilen. Die 
+Verwendung offener Standarddatenformate und -&#252;bertragungsprotokolle soll
+dabei gef&#246;rdert werden. Die meisten Fluggesellschaften verwenden jedoch das 
+&#220;bertragungsprotokoll &#8222;IBM MQ&#8220;, das von der IBM Corporation vermarktet 
+wird.  
+Schon vor dem offiziellen Beginn der Verarbeitung von Fluggastdaten hat das 
+BMI mit der &#8222;stufenweise(n) Aufnahme des Wirkbetriebes&#8220; begonnen
+(Bundestagsdrucksache 18/13326). Dabei hat das Bundeskriminalamt (BKA) &#8222;nach und 
+nach&#8220; die in Deutschland operierenden Luftfahrtunternehmen an das
+Fluggastdaten-Informationssystem angebunden. Dabei werden &#8222;Passagierdaten einiger 
+Flugverbindungen&#8220; f&#252;r den Testbetrieb gesammelt (Bundestagsdrucksache 
+19/1556, Frage 31). Laut dem Fluggastdatengesetz wird jeder einzelne Treffer 
+von der Fluggastdatenzentralstelle &#252;berpr&#252;ft und bewertet. Vermutlich kommt 
+dabei auch Technik der K&#252;nstlichen Intelligenz zum Einsatz. Erst k&#252;rzlich hatte 
+das BMI mitgeteilt, dass das BKA entsprechende Verfahren zur &#8222;Verarbeitung 
+von Massendaten&#8220; nutzt (Bundestagsdrucksache 19/3714, Frage 28). Diesen 
+Abgleich aller Reisenden (und damit zum allergr&#246;&#223;ten Teil unverd&#228;chtiger
+Personen) im neuen Fluggastdatensystem nennt Prof. Dr. Clemens Arzt von der 
+Hochschule f&#252;r Wirtschaft und Recht Berlin in seiner schriftlichen
+Stellungnahme an den Innenausschuss des Deutschen Bundestages einen
+&#8222;Verd&#228;chtigengewinnungseingriff&#8220;, der &#8222;faktisch eine Rasterfahndung&#8220; darstellt (http:// 
+gleft.de/2qk). Auch der Bundesdatenschutzbeauftragte kritisiert die
+Auswertung der Fluggastdaten als &#8222;permanente Rasterfahndung&#8220; (http://gleft.de/2ql). 
+1. Wann genau will die Fluggastdatenzentralstelle beim BKA gem&#228;&#223; der
+Richtlinie 2016/681 des Europ&#228;ischen Parlaments und des Rates vom 27. April 
+2016 &#252;ber die Verwendung von Fluggastdatens&#228;tzen (PNR-Daten) zur
+Verh&#252;tung, Aufdeckung, Ermittlung und Verfolgung von terroristischen
+Straftaten und schwerer Kriminalit&#228;t mit der Verarbeitung von Fluggastdaten
+beginnen, und welche Aktivit&#228;ten (etwa eine Pressekonferenz) sind zur
+Aufnahme des Wirkbetriebs geplant? 
+Die Fluggastdatenzentralstelle (Passenger Information Unit &#8211; PIU) verarbeitet 
+seit dem 29. August 2018 Fluggastdaten zur Verh&#252;tung und Verfolgung von
+terroristischen Straftaten und schwerer Kriminalit&#228;t. Die Inbetriebnahme wurde auf 
+der Homepage des Bundeskriminalamts (BKA) bekanntgegeben. 
+2. Welche Airlines oder sonstigen Reiseanbieter sind bereits an die
+Fluggastdatenzentralstelle angeschlossen und welche nicht? 
+Zum Zeitpunkt der Beantwortung sind drei gro&#223;e Luftfahrtunternehmen (LFU) 
+an das Fluggastdaten-Informationssystem angeschlossen. Die Anbindung
+weiterer LFU erfolgt sukzessive.  
+Die Frage, welche LFU das im Einzelnen sind, ber&#252;hrt das Staatswohl und ist 
+daher in einer zur Ver&#246;ffentlichung vorgesehenen Fassung nicht zu behandeln. 
+Das verfassungsrechtlich verb&#252;rgte Frage- und Informationsrecht des Deutschen 
+Bundestages gegen&#252;ber der Bundesregierung wird durch gleichfalls
+Verfassungsrecht genie&#223;ende schutzw&#252;rdige Interessen wie das Staatswohl begrenzt.  
+Mit einer detaillierten Beantwortung dieser Frage w&#252;rde das aufw&#228;ndig
+geschaffene Instrument des Fluggastdaten-Informationssystems &#8211; zumindest
+vor&#252;bergehend bis zum fl&#228;chendeckenden Ausrollen &#8211; in seiner Wirkung erheblich
+beeintr&#228;chtigt. 
+Bei Bekanntwerden dieser Information w&#252;rden die zur Fahndung
+ausgeschriebenen Personen ihr Reiseverhalten entsprechend anpassen und auf andere als die 
+genannten LFU ausweichen.
+Das Fluggastdatengesetz (FlugDaG) wurde insbesondere zur Verhinderung von 
+Straftaten durch terroristisch motivierte Straft&#228;ter geschaffen. Diese k&#246;nnten bei 
+Bekanntwerden dieser Information die Verarbeitung ihrer Fluggastdaten
+unterlaufen, wodurch das Staatswohl gef&#228;hrdet w&#228;re. 
+Eine VS-Einstufung und Hinterlegung der angefragten Informationen in der
+Geheimschutzstelle des Deutschen Bundestages w&#252;rde ihrer erheblichen Bedeutung 
+f&#252;r die Aufkl&#228;rung des Reiseverhaltens des genannten Personenkreises nicht
+ausreichend Rechnung tragen. 
+Die angefragten Inhalte beschreiben die Vorgehensweise der
+Fluggastdatenzentralstelle beim Aufbau des Fluggastdaten-Informationssystems so detailliert, dass 
+eine Bekanntgabe auch gegen&#252;ber einem begrenzten Kreis von Empf&#228;ngern
+ihrem Schutzbed&#252;rfnis nicht Rechnung tragen kann.  
+Aus dem Vorgesagten ergibt sich, dass die erbetenen Informationen derart
+schutzbed&#252;rftige Geheimhaltungsinteressen ber&#252;hren, dass eine auch nur geringf&#252;gige 
+Gefahr ihres Bekanntwerdens unter keinen Umst&#228;nden hingenommen werden 
+kann, weshalb nach konkreter Abw&#228;gung des parlamentarischen
+Informationsrechts mit dem Staatswohl hier ausnahmsweise Letzteres &#252;berwiegt. 
+Neben den LFU werden keine &#8222;sonstige Reiseanbieter&#8220; an das Fluggastdaten-
+Informationssystem angebunden. 
+Sofern neben LFU andere Unternehmen, die an der Reservierung oder Buchung 
+von Fl&#252;gen oder an der Ausstellung von Flugscheinen beteiligt sind, im Rahmen 
+ihrer Gesch&#228;ftst&#228;tigkeit Fluggastdaten an LFU &#252;bermitteln, sind diese LFU
+gem&#228;&#223; &#167; 3 FlugDaG verpflichtet, die Daten an die Fluggastdatenzentralstelle
+weiterzuleiten. 
+3. Welche dieser Teilnehmer haben bereits vor der offiziellen Inbetriebnahme 
+der Fluggastdatenzentralstelle Daten dorthin &#252;bermittelt? 
+Alle drei angebundenen LFU (vgl. Antwort zu Frage 2) haben vor dem in der 
+Antwort zu Frage 1 genannten Termin Daten an das Fluggastdaten-
+Informationssystem &#252;bermittelt. Diese Daten wurden randomisiert zu Erprobungszwecken
+genutzt und anschlie&#223;end dauerhaft gel&#246;scht (vgl. Antwort der Bundesregierung auf 
+die Schriftliche Frage 31 der Abgeordneten Martina Renner auf
+Bundestagsdrucksache 19/1556). 
+4. Welche und wie viele Fluggastdaten zu wie vielen Passagieren und welchen 
+Flugverbindungen hat die Fluggastdatenzentralstelle mit der &#8222;stufenweise[n] 
+Aufnahme des Wirkbetriebes&#8220; bereits gesammelt (Bundestagsdrucksache 
+18/13326)? 
+Angaben zu Fluggastdaten und Passagieren k&#246;nnen statistisch nicht exakt erfasst 
+werden, da in der Regel zu einer Buchung die Fluggastdaten mehrfach &#252;bertragen 
+werden. Bez&#252;glich der Art der &#252;bermittelten Fluggastdaten wird auf &#167; 2 Absatz 2 
+Nummer 1 bis 20 FlugDaG verwiesen, wobei seitens der Luftfahrtunternehmen 
+nicht alle der im Fluggastdatengesetz aufgef&#252;hrten Daten erhoben werden.
+5. Welche Haltung vertritt die Bundesregierung zu dem
+Durchf&#252;hrungsbeschluss (EU) 2017/759 der Kommission vom 28. April 2017, wonach nur 
+kleine Fluggesellschaften, darunter auch solche, die Gesch&#228;ftsreisen
+durchf&#252;hren, von der Verpflichtung zur &#220;bermittlung von PNR-Daten
+ausgenommen sind, und welches Sicherheitsrisiko ergibt sich dadurch? 
+Der Durchf&#252;hrungsbeschluss (EU) 2017/759 der Kommission vom 28. April 
+2017 regelt die gemeinsamen Protokolle und unterst&#252;tzte Datenformate, die von 
+den LFU f&#252;r die &#220;bermittlung von Fluggastdatens&#228;tzen (PNR-Daten) an die
+Fluggastdatenzentralstellen der EU-Mitgliedstaaten zu verwenden sind. Eine
+Ausnahmeregelung von der Verpflichtung zur &#220;bermittlung von PNR-Daten f&#252;r kleinere 
+Fluggesellschaften besteht gem&#228;&#223; dem o. g. Durchf&#252;hrungsbeschluss nicht. Der 
+Durchf&#252;hrungsbeschluss (EU) 2017/759 erm&#246;glicht Fluggesellschaften, die keine 
+Drittstaatsfl&#252;ge und EU-Fl&#252;ge nach einem bestimmten &#246;ffentlichen Flugplan 
+durchf&#252;hren und nicht &#252;ber die notwendige Infrastruktur verf&#252;gen, PNR-Daten in 
+elektronischen Formaten, die die technische Sicherheit hinreichend gew&#228;hrleisten 
+und bilateral zwischen der Fluggesellschaft und dem betreffenden Mitgliedstaat 
+zu vereinbaren sind, an die Fluggastdatenzentralstelle zu &#252;bermitteln.  
+Gem&#228;&#223; &#167; 2 Absatz 3 FlugDaG sind durch die LFU Fluggastdaten f&#252;r alle Fl&#252;ge 
+des Linien-, Charter- und Taxiverkehrs zu &#252;bermitteln, die nicht milit&#228;rischen 
+Zwecken dienen und die von der Bundesrepublik Deutschland aus starten und in 
+einem anderen Staat landen oder von einem anderen Staat aus starten und in der 
+Bundesrepublik Deutschland landen oder zwischenlanden. 
+6. Aus welchen Gr&#252;nden hat die Bundesregierung die Funktion des BKA als 
+Fluggastdatenzentralstelle noch nicht offiziell mitgeteilt (http://gleft.de/2qh, 
+abgerufen am 27. August 2018)?  
+Die Mitteilung ist mit Schreiben des Bundesministeriums des Innern, f&#252;r Bau und 
+Heimat (BMI) an die Europ&#228;ische Kommission vom 11. September 2018 erfolgt. 
+7. In welchen L&#228;ndern haben sich das BKA bzw. das Bundesinnenministerium 
+vor Einrichtung des Fluggastdatensystems bei dortigen
+Fluggastdatenzentralstellen informiert? 
+Welche Technik bzw. Verfahren sind dem BKA hier&#252;ber bekannt geworden? 
+Besch&#228;ftigte des BMI und seiner Gesch&#228;ftsbereichsbeh&#246;rden haben sich zum 
+Wissensaustausch und anl&#228;sslich internationaler Konferenzen mit der Funktions- 
+und Arbeitsweise der PNR-Systeme der Niederlande, Frankreichs, Rum&#228;niens, 
+des Vereinigten K&#246;nigreichs, Ungarns, der Vereinigten Staaten von Amerika, 
+Australiens und Neuseelands befasst. Einzelheiten zu technischen Verfahren
+waren nicht Gegenstand dieser Treffen. 
+Im &#220;brigen wird auf Antwort der Bundesregierung zu Frage 12 der Kleinen
+Anfrage der Fraktion DIE LINKE. auf Bundestagsdrucksache 18/12516 verwiesen.
+8. Welches System welcher Hersteller nutzt das BKA f&#252;r die Speicherung und 
+Verarbeitung der PNR-Daten in der Fluggastdatenzentralstelle? 
+a) Auf welche Weise werden zur Verarbeitung der PNR-Datens&#228;tze ein
+vorhandenes Vorgangsbearbeitungssystem (VBS) und ein Abgleichsystem 
+(ABS) genutzt? 
+b) Um welche Anlagen welcher Hersteller handelt es sich dabei und wie 
+wurden diese &#8222;weiterentwickelt&#8220; (Bundestagsdrucksache 18/13326, 
+Frage 4)? 
+Die Fragen 8, 8a und 8b werden gemeinsam beantwortet. 
+Das Fluggastdaten-Informationssystem wurde und wird als IT-Eigenentwicklung 
+umgesetzt. Zur Anbindung des Fluggastdaten-Informationssystems an die IT-
+Architektur des BKA wurde im BKA teilweise auf eigenentwickelte
+Bestandssysteme (Vorgangsbearbeitungssystem/VBS, Abgleichsystem/ABS)
+zur&#252;ckgegriffen, die zu diesem Zweck weiterentwickelt wurden.  
+Dar&#252;ber hinaus finden nachfolgende Produkte Verwendung: 
+Hersteller Einsatzzweck 
+DataStax Datenbank u.a. zur Speicherung der Rohdaten 
+JFrog Repository Management 
+Oracle Relationale Datenbank u.a. zur Speicherung von Konfigurationen  
+Red Hat Zugrundeliegendes Betriebssystem aller Anwendungen 
+Docker Inc. Containerisierung der Anwendungssysteme 
+Hitachi Vantara Darstellung verschiedener Dashboards 
+IBM Unterst&#252;tzung von IBM MQ zwecks Entgegennahme der Fluggastdaten 
+Empolis Indizierung und Suchen im Registerbestand 
+Microsoft Pflege von Katalogwerten 
+Splunk Indizierung und Suche von Log- und Metrikdaten 
+c) Welches Verfahren und welche Produkte werden f&#252;r die Anonymisierung 
+der Daten genutzt? 
+Die in &#167; 5 Absatz 1 Nummer 1 bis 6 FlugDaG genannten Fluggastdaten werden 
+gem&#228;&#223; &#167; 5 Absatz 1 FlugDaG nach Ablauf von sechs Monaten ab &#220;bermittlung 
+durch Unkenntlichmachung ausgew&#228;hlter Datenelemente, mit denen die Identit&#228;t 
+einer Person nach &#167; 2 Absatz 1 FlugDaG festgestellt werden k&#246;nnte,
+depersonalisiert.  
+Die Depersonalisierung wird &#252;ber berechtigungsabh&#228;ngige Einschr&#228;nkungen des 
+m&#246;glichen Suchraumes abgebildet. Eine Recherche im dar&#252;ber hinaus gehenden 
+Datenbestand, also die Aufhebung der Depersonalisierung von Fluggastdaten, ist 
+nur unter den Voraussetzungen des &#167; 5 Absatz 2 FlugDaG tempor&#228;r m&#246;glich. 
+9. Mit welchem Datenaufkommen zu wie vielen Passagieren rechnet die
+Fluggastdatenzentralstelle, bzw. f&#252;r welche Mengen ist das dort installierte
+System ausgelegt? 
+Es wird mit einem Datenaufkommen von ca. 180 Millionen Passagieren pro Jahr 
+gerechnet. F&#252;r dieses Volumen ist das Fluggastdaten-Informationssystem derzeit 
+noch nicht ausgelegt, es erfolgt vielmehr ein sukzessiver Ausbau.
+10. Welche propriet&#228;ren und offenen Datenformate und &#220;bertragungsprotokolle 
+werden durch die Fluggastdatenzentralstelle angeboten, und welche dieser 
+Datenformate und &#220;bertragungsprotokolle werden haupts&#228;chlich genutzt? 
+Bei der Entgegennahme der Fluggastdaten werden die folgenden
+Nachrichtenformate unterst&#252;tzt: 
+&#61623; UN/EDIFACT PNRGOV Version 11.1 
+&#61623; UN/EDIFACT PNRGOV Version 13.1 
+&#61623; UN/EDIFACT PNRGOV Version 16.1 
+&#61623; UN/EDIFACT PAXLST D02B 
+&#61623; UN/EDIFACT PAXLST D05B 
+&#61623; UN/EDIFACT PAXLST D12B 
+Bei der &#220;bertragung der Daten werden aktuell die beiden folgenden Protokolle 
+unterst&#252;tzt: 
+&#61623; CES-AS4 (ehemals e-SENS) 
+&#61623; IBM Websphere MQ (TCP/IP) 
+a) Welche Lizenzgeb&#252;hren muss die Fluggastdatenzentralstelle hierf&#252;r an 
+welche Hersteller entrichten? 
+F&#252;r den Erwerb der Standard-Lizenz f&#252;r den IBM MQ Server wurden an den
+Hersteller IBM 117 684 Euro gezahlt. 
+b) Auf welche Weise setzt sich die Fluggastdatenzentralstelle daf&#252;r ein,
+offene Standarddatenformate und -&#252;bertragungsprotokolle zu f&#246;rdern? 
+Deutschland setzt sich f&#252;r die Nutzung von offenen &#220;bertragungsprotokollen ein. 
+Hierzu wurde bei der PNRGOV Working Group eine Arbeitsgruppe namens 
+&#8222;Protocols&#8220; eingerichtet, bei der Deutschland den Vorsitz zusammen mit United 
+Airlines hat. Zun&#228;chst wurden Anforderungen an ein &#220;bertragungsprotokoll
+aufgenommen und mit den Teilnehmern der Arbeitsgruppe abgestimmt.
+Anschlie&#223;end wurden verschiedene &#220;bertragungsprotokolle mit den Anforderungen
+abgeglichen mit dem Resultat, dass CES-AS4 als zu nutzendes offenes
+&#220;bertragungsprotokoll empfohlen werden kann. CES-AS4 ist ebenfalls in dem
+Durchf&#252;hrungsbeschluss (EU) 2017/759 der Kommission vom 28. April 2017 als zu nutzendes 
+offenes &#220;bertragungsprotokoll aufgef&#252;hrt. Teilnehmer der Arbeitsgruppe sind 
+Luftfahrtunternehmen, Datenprovider und Vertreter verschiedener Staaten. Die 
+Datenformate PNRGOV und PAXLST sind offene Standards, hier ist aus Sicht 
+der Fluggastdatenzentralstelle keine F&#246;rderung notwendig. 
+11. Welche deutschen Beh&#246;rden nehmen bzw. nahmen auf EU-Ebene an der
+&#8222;Informal Working Group PNR&#8220; (IWG-PNR) teil? 
+a) Worin bestand der Schwerpunkt des BKA, das die Leitung der
+Arbeitsgruppe bis zum 1. September 2018 &#252;bernahm? 
+Die Fragen 11 und 11a werden gemeinsam beantwortet. 
+F&#252;r Deutschland nehmen Vertreter des BKA und des Bundesverwaltungsamts 
+(BVA) an der &#8222;Informal Working Group PNR&#8220; (IWG-PNR) auf EU-Ebene teil. 
+Bei der IWG-PNR handelt es sich um ein Gremium auf Arbeitsebene, das in 2016
+auf Initiative der Niederlande eingerichtet wurde mit dem Ziel, sowohl einen
+anwendungsorientierten Erfahrungsaustausch als auch Absprachen im Hinblick auf 
+die k&#252;nftige operative Zusammenarbeit der Fluggastdatenzentralstellen zu
+erm&#246;glichen. 
+Deutschland hat im Rahmen des IWG-Vorsitzes folgende Schwerpunkte gesetzt: 
+&#61485; Gew&#228;hrleistung einer transparenten Kommunikation  
+&#61485; Etablierung einer Unterarbeitsgruppe zum Austausch &#252;ber im
+Umsetzungsprozess identifizierte rechtliche Fragestellungen 
+&#61485; Verbesserung des fachlichen und strategischen Informationsaustausches
+zwischen den IWG-Mitgliedern auf Arbeitsebene 
+b) Welcher Standard&#252;bermittlungskanal wurde dabei f&#252;r den Austausch von 
+PNR-Daten zwischen den Fluggastdatenzentralstellen der EU-
+Mitgliedstaaten bestimmt? 
+Im Rahmen der IWG haben sich die EU-Mitgliedstaaten darauf verst&#228;ndigt, f&#252;r 
+den Austausch von Fluggastdaten zwischen den Fluggastdatenzentralstellen das 
+etablierte Europol-Kommunikationssystem SIENA zu nutzen. 
+c) Welche Erkenntnisse hat das BKA hierzu aus dem EU-Projekt &#8222;Passenger 
+Name Record Data Exchange Pilot&#8220; (PNRDEP) gewonnen
+(Bundestagsdrucksache 18/13684, Frage 12)? 
+PNRDEP war ein Projekt unter Leitung des ungarischen Innenministeriums 
+(Laufzeit 1. Januar 2016 bis 30. Juni 2017). Ziel des Projektes war es unter
+anderem, einen bereits existierenden Kanal zu identifizieren, mit dessen Hilfe ein
+Datenaustausch im Kontext PNR zwischen den einzelnen
+Fluggastdatenzentralstellen m&#246;glich ist. In diesem Zusammenhang wurde keine Entscheidung &#252;ber einen 
+zu nutzenden Kanal getroffen, sondern lediglich die Funktionen der Kan&#228;le SI-
+ENA und SIRENE vertieft analysiert. Die weitere Entscheidungsfindung wurde 
+in die IWG PNR unter deutschem Vorsitz weitergetragen (siehe Frage 11b). 
+d) Welche Haltung vertritt die Bundesregierung zur Frage, inwiefern PNR-
+Daten auf einem zentralen PNR-Router gespeichert werden sollten? 
+Hier wird auf die Bundestagsdrucksache 18/13684, Antwort zu Frage 12b,
+verwiesen.  
+Nach Kenntnis der Bundesregierung ist Gegenstand des Konzepts eines &#8222;PNR-
+Routers&#8220; lediglich die Entgegennahme und unmittelbare Weiterleitung von
+Fluggastdaten an die zust&#228;ndige(n) Passagierdatenzentralstelle(n) durch eine zentrale 
+Komponente, jedoch keine zentrale Speicherung (insoweit wurde die
+Begrifflichkeit &#8222;Router&#8220; gew&#228;hlt). 
+e) Wo genau liegt die deutsche PNR-Vorratsdatenspeicherung derzeit
+physisch? 
+Gem&#228;&#223; &#167; 1 Absatz 3 FlugDaG verarbeitet das BVA die Fluggastdaten im Auftrag 
+und nach Weisung der Fluggastdatenzentralstelle. Der IT-Betrieb des
+Fluggastdaten-Informationssystems (auf Seiten des BVA) wird dabei durch das
+Informationstechnikzentrum Bund (ITZBund) in einem Unterauftragsverh&#228;ltnis
+wahrgenommen. Die Systemplattform wird in Rechenzentren des ITZBund betrieben.
+12. Mit welchen anderen polizeilichen Datenbanken werden die PNR-Daten in 
+der Fluggastdatenzentralstelle im Regelfall und im Einzelfall abgeglichen? 
+Die Fluggastdaten werden gem&#228;&#223; &#167; 4 Absatz 2 Nummer 1 FlugDaG automatisiert 
+mit dem zentralen Fahndungsbestand im Informationssystem der Polizei  
+(INPOL) und dem Schengener Informationssystem (SIS) abgeglichen. 
+13. Nach welchem Verfahren und mit welchen Algorithmen wird der Abgleich 
+von PNR-Daten vorgenommen, und mithilfe welcher Technik wird jeder
+einzelne Treffer von der Fluggastdatenzentralstelle &#252;berpr&#252;ft und bewertet? 
+Das Fluggastdaten-Informationssystem initialisiert lediglich den Abgleich mit 
+den in der Antwort zu Frage 12 genannten Datenbest&#228;nden. Sofern das
+Abgleichbearbeitungssystem (ABS) des BKA bei dem automatisierten Abgleich mit den 
+o. g. Fahndungsdatenbanken eine technische Fundstelle in den dort gespeicherten 
+Datens&#228;tzen erzielt, werden diese an das Fluggastdaten-Informationssystem
+&#252;bergeben und mittels des komplexen Suchverfahrens des Fluggastdaten-
+Informationssystems einer zus&#228;tzlichen, ausschlie&#223;lich technischen Nachbewertung
+unterzogen. 
+Anschlie&#223;end werden die identifizierten relevanten technischen Treffer mit dem 
+PNR-Datensatz elektronisch an das Vorgangsbearbeitungssystem (VBS) des 
+BKA zur polizeilichen &#220;berpr&#252;fung durch die Fluggastdatenzentralstelle
+&#252;bermittelt. Jeder &#252;bermittelte Treffer wird anschlie&#223;end gem&#228;&#223; &#167; 4 Absatz 2 Flug-
+DaG in der Fluggastdatenzentralstelle individuell fachlich und rechtlich
+(Vorliegen einer Katalogstraftat gem&#228;&#223; &#167; 4 Absatz 1 FlugDaG) &#252;berpr&#252;ft. 
+14. Inwiefern basiert die Auswertung der Massendaten auch auf k&#252;nstlicher
+Intelligenz, wie es Dr. Dieter Romann, der Pr&#228;sident der Bundespolizei, als 
+Bedarf f&#252;r die Auswertung von Fluggastdaten benannt hat (http://gleft.de/ 
+2qm)? 
+&#8222;K&#252;nstliche Intelligenz&#8220; wird derzeit nicht angewandt. 
+15. Wie werden die Risikoprofile erstellt, mit denen die PNR-Daten abgeglichen 
+werden, und inwiefern werden diese mit technischer Unterst&#252;tzung
+generiert? 
+Derzeit wird noch nicht an der Erstellung von konkreten Mustern gem&#228;&#223; &#167; 4
+Absatz 2 Nummer 2 FlugDaG gearbeitet. Die technischen Funktionalit&#228;ten f&#252;r den 
+Abgleich von Mustern werden erst in einer sp&#228;teren Ausbaustufe des
+Fluggastdaten-Informationssystems zur Verf&#252;gung stehen. 
+16. Was ist der Bundespolizei aus dem von ihr begutachteten EU-Projekt
+&#8222;Optimising time-to-fly and enhancing airport security&#8220; (FLYSEC) dar&#252;ber
+bekannt, inwiefern dort zum &#8222;Profiling&#8220; der Passagiere PNR-Daten einflie&#223;en 
+(Bundestagsdrucksache 19/600, Frage 8)? 
+Nach Kenntnis der Bundespolizei erfolgte im Rahmen des bereits
+abgeschlossenen EU-Projektes FLYSEC kein Profiling von Passagieren durch die Nutzung der 
+PNR-Daten.
+17. Da laut dem BMI zu 0,07 Prozent der Passagierdatens&#228;tze Folgema&#223;nahmen 
+&#8222;erwogen werden&#8220; (Bundestagsdrucksache 18/12516, Frage), wie viele
+Personen d&#252;rfte dies nach dem gegenw&#228;rtigen Passagieraufkommen betreffen? 
+Bisherige Sch&#228;tzungen auf Grundlage der Erfahrungswerte anderer Staaten lassen 
+annehmen, dass in einer Gr&#246;&#223;enordnung von ca. 0,07 Prozent der Anzahl
+Passagierdatens&#228;tze Folgema&#223;nahmen zu treffen sein werden.  
+Auf Basis des prognostizierten Passagieraufkommens pro Jahr (siehe Antwort zu 
+Frage 9) w&#252;rde dies unter Annahme des Prozentsatzes von 0,07 pro Jahr
+rechnerisch ca. 100 000 Folgema&#223;nahmen ergeben. 
+18. &#220;ber welche Anschlussma&#223;nahmen werden die Betroffenen nach welcher 
+Ma&#223;gabe informiert? 
+Die Umsetzung von Anschlussma&#223;nahmen aufgrund von Fahndungstreffern, die 
+im Rahmen des Abgleichs der Fluggastdaten mit den Fahndungsdatenbanken
+erzielt werden, erfolgt in der Regel durch die Bundespolizei in eigener
+Zust&#228;ndigkeit. Die Information der Betroffenen richtet sich nach der im Einzelfall
+getroffenen Ma&#223;nahme. Eine gezielte Information der Betroffenen durch die
+Fluggastdatenzentralstelle erfolgt nicht. 
+19. Welche Bundes- und Landesbeh&#246;rden sind auf welche Weise an die
+Fluggastdatenzentralstelle angebunden bzw. auf welchem Wege k&#246;nnen diese 
+dort Anfragen stellen oder Ergebnisse erhalten? 
+Die &#220;bermittlung von Fluggastdaten und die Ergebnisse der Verarbeitung dieser 
+Daten durch die Fluggastdatenzentralstelle an die zust&#228;ndigen Beh&#246;rden im
+Inland richtet sich nach den Bestimmungen des &#167; 6 FlugDaG. Die dort genannten 
+Beh&#246;rden sind nicht an das Fluggastdaten-Informationssystem angebunden und 
+k&#246;nnen daher keine eigenst&#228;ndigen Abfragen im Datenbestand vornehmen. F&#252;r 
+eine Recherche im Fluggastdaten-Informationssystem kann im Einzelfall ein
+begr&#252;ndetes Ersuchen gem&#228;&#223; &#167; 4 Absatz 5 FlugDaG an die
+Fluggastdatenzentralstelle gerichtet werden. 
+20. Welche Bundes- und Landesbeh&#246;rden haben welches Personal in die
+Fluggastdatenzentralstelle beim BKA abgeordnet bzw. was ist hierzu geplant? 
+Zum Zeitpunkt der Beantwortung sind zwei Kr&#228;fte der Bundespolizei und f&#252;nf 
+Kr&#228;fte des Zollkriminalamtes zur Fluggastdatenzentralstelle abgeordnet. Dar&#252;ber 
+hinaus hat die Bundespolizei einen Verbindungsbeamten in die
+Fluggastdatenzentralstelle entsandt.  
+Die Entsendung weiterer Kr&#228;fte erfolgt in Abh&#228;ngigkeit der sukzessiven
+Anbindung der Luftfahrtunternehmen und des damit einhergehenden steigenden
+Aufgabenvolumens. 
+21. Welche Gesamtkosten sind f&#252;r die Einrichtung des deutschen
+Fluggastdatensystems entstanden? 
+Welche j&#228;hrlichen Kosten fallen f&#252;r das deutsche Fluggastdatensystem an 
+(bitte nach R&#228;umlichkeiten, Personal, Sachkosten und Lizenzgeb&#252;hren
+aufschl&#252;sseln)? 
+F&#252;r die Einrichtung des deutschen Fluggastdaten-Informationssystems sind im 
+BKA bisher Gesamtkosten von rund 13,75 Mio. Euro (Stand September 2018) 
+entstanden.
+Da die Fluggastdatenzentralstelle im BKA die finale Ausbaustufe noch nicht
+erreicht hat, k&#246;nnen lediglich die j&#228;hrlich anfallenden Kosten anhand der bisherigen 
+Planung nachfolgend widergegeben werden.  
+ 2019 2020 2021 
+Personalkosten 10.575.352 &#8364; 14.692.883 &#8364; 15.080.371 &#8364; 
+Sachkosten 6.200.000 &#8364; 4.000.000 &#8364; 5.700.000 &#8364; 
+Die in den Sachkosten enthaltenen Ausgaben f&#252;r Softwareprodukte und Lizenzen 
+werden mit anderen Verfahren im BKA geteilt, sodass eine genaue
+Aufschl&#252;sselung f&#252;r PNR nicht m&#246;glich ist. Es wird zudem auf die Antwort zu Frage 10a 
+verwiesen. 
+Raumbedarf wurde bislang nicht geltend gemacht, da die Unterbringung aufgrund 
+von Umstrukturierungs- und Verdichtungsma&#223;namen erfolgte und sich mehrere 
+Mitarbeiterinnen und Mitarbeiter im Schichtdienst Arbeitspl&#228;tze teilen (&#8222;Desk 
+Sharing&#8220;). 
+F&#252;r Dienstleistungen (insbesondere Konzeption und Softwareentwicklung) hat 
+das BVA bisher 32,35 Mio. Euro verausgabt. F&#252;r den Erwerb von Lizenzen
+wurden 8,2 Mio. Euro investiert. Die j&#228;hrlichen Sachkosten des BVA belaufen sich 
+ab 2019 auf 5 834 000 Euro.  
+Insgesamt 1 Mio. Euro des Projektbudgets &#8222;Grenzkontrolle der Zukunft&#8220; werden 
+zur Einrichtung der Leitstelle f&#252;r PNR-Folgema&#223;nahmen in der Bundespolizei 
+bereitgestellt. Weitere Sachkosten fallen seitens der Bundespolizei f&#252;r das PNR-
+System nicht an. 
+F&#252;r die Umsetzung des PNR-Systems beim BVA eingeplanten Stellen wurden 
+bislang 104 Stellen von 230 bewilligten Stellen besetzt (Besetzungsstand: 45,02
+Prozent). Es entstehen fortlaufend Personalkosten in H&#246;he von 6 942 281 Euro.  
+F&#252;r die Bundespolizei entstehen j&#228;hrliche Personalkosten in H&#246;he von 
+13 424 086,00 Euro (Stand Haushalt 2018). 
+F&#252;r die Aufgabenwahrnehmung sind f&#252;r die Zollverwaltung 41 Planstellen f&#252;r 
+den Personalhaushalt 2018 beantragt. Bis zur haushaltsrechtlichen Bewilligung 
+der Planstellen wurden bereits 24 Stellen mit kw-Vermerken eingerichtet. Von 
+diesen 24 Stellen sind derzeit zwei Dienstposten besetzt. Weitere vier wurden 
+zum 1. August 2018 besetzt. F&#252;r das Jahr 2018 fallen f&#252;r die sechs besetzten 
+Dienstposten Personalkosten in H&#246;he von 236 339,00 Euro an. F&#252;r die Jahre 2019 
+bis 2021 k&#246;nnen bei der Zollverwaltung &#8211; abh&#228;ngig davon, ob alle beantragten 
+Planstellen im Haushalt 2018 genehmigt und auch besetzt werden k&#246;nnen &#8211;
+Personalkosten in H&#246;he von 1 904 004,00 Euro anfallen. 
+22. Aus welchen Staaten bzw. Abflugh&#228;fen au&#223;erhalb der Europ&#228;ischen Union 
+verlangt die Bundespolizei auch ohne ein Abkommen zum Austausch von 
+Passagierdaten vor dem Abflug entsprechende Informationen?  
+Das verfassungsrechtlich verb&#252;rgte Frage- und Informationsrecht des Parlaments 
+ist zwar auf Beantwortung gestellter Fragen in der &#214;ffentlichkeit hin angelegt. 
+Wenn das Informationsinteresse des Parlaments aber auf Ausk&#252;nfte zielt, die zur 
+Wahrung berechtigter Geheimhaltungsinteressen nicht &#246;ffentlich kundgegeben 
+werden k&#246;nnen, sind nach der Rechtsprechung des Bundesverfassungsgerichts 
+Formen der Informationsvermittlung zu suchen, die beiden Interessen Rechnung
+tragen (vgl. BVerfGE 124, 161 [193]). Die Einstufung der Benennung der
+konkreten Staaten als Verschlusssache ist im vorliegenden Fall insbesondere im
+Hinblick auf die notwendige Wahrung einer effektiven grenzpolizeilichen
+Aufgabenwahrnehmung der Bundespolizei notwendig. Eine Ver&#246;ffentlichung kann die 
+grenzpolizeiliche Aufgabenwahrnehmung und/oder die internationale
+Zusammenarbeit mit den betreffenden Staaten zuk&#252;nftig nachhaltig negativ
+beeinflussen. 
+Um gleichwohl dem parlamentarischen Informationsanspruch nachzukommen, 
+wird eine Einstufung der Antworten mit dem Geheimhaltungsgrad &#8222;VS &#8211; Nur f&#252;r 
+den Dienstgebrauch&#8220; gem&#228;&#223; &#167; 3 Nummer 4 der Allgemeinen
+Verwaltungsvorschrift des Bundesministeriums des Innern (BMI) zum materiellen und
+organisatorischen Schutz von Verschlusssachen vorgenommen und als Anlage
+&#252;bermittelt, die nicht zur Ver&#246;ffentlichung bestimmt ist.*
+                                                     
+* Das Bundesministerium des Innern, f&#252;r Bau und Heimat hat die Antwort als &#8222;VS &#8211; Nur f&#252;r den Dienstgebrauch&#8220; eingestuft. 
+Die Antwort ist im Parlamentssekretariat des Deutschen Bundestages hinterlegt und kann dort von Berechtigten eingesehen werden. 
+ 
+ 
+ 
+Satz: Satzweiss.com Print, Web, Software GmbH, Mainzer Stra&#223;e 116, 66121 Saarbr&#252;cken, www.satzweiss.com 
+Druck: Printsystem GmbH, Schafw&#228;sche 1-3, 71296 Heimsheim, www.printsystem.de 
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de 
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/4377 -
+Umsetzung der EU-Richtlinie zur Vorratsdatenspeicherung von Fluggastdaten</titel>
+    <datum>2018-10-04</datum>
+  </document>

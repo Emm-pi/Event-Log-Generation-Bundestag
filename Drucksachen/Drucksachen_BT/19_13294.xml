@@ -1,0 +1,179 @@
+<document>
+    <id>233882</id>
+    <drucksachetyp>Kleine Anfrage</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>5</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/13294</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>300dfd91ec9060633cb2b8b7baa39376</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:15+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>253094</id>
+      <titel>Pilotprojekt zur Vernetzung europ&#228;ischer Polizeiakten (ADEP-EPRIS)</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>LINKE</bezeichnung>
+      <titel>Fraktion DIE LINKE</titel>
+    </urheber>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/132/1913294.pdf</pdf_url>
+      <id>233882</id>
+      <dokumentnummer>19/13294</dokumentnummer>
+      <datum>2019-09-18</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Kleine Anfrage</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Fraktion DIE LINKE</urheber>
+    </fundstelle>
+    <autoren_anzeige>
+      <id>1066</id>
+      <titel>Andrej Hunko, MdB, DIE LINKE</titel>
+      <autor_titel>Andrej Hunko</autor_titel>
+    </autoren_anzeige>
+    <autoren_anzeige>
+      <id>2043</id>
+      <titel>Tobias Pfl&#252;ger, MdB, DIE LINKE</titel>
+      <autor_titel>Tobias Pfl&#252;ger</autor_titel>
+    </autoren_anzeige>
+    <text>[Kleine Anfrage
+der Abgeordneten Andrej Hunko, Tobias Pfl&#252;ger, Niema Movassat,
+Thomas Nord, Alexander Ulrich und der Fraktion DIE LINKE.
+Pilotprojekt zur Vernetzung europ&#228;ischer Polizeiakten (ADEP-EPRIS)
+Im Rahmen des EU-Projekts &#8222;Automatisierung der Datenaustauschprozesse 
+(ADEP) testet das Bundeskriminalamt (BKA) die Abfrage von Informationen 
+der Strafverfolgungsbeh&#246;rden in s&#228;mtlichen EU-Mitgliedstaaten ( h t t p : / /
+gleft.de/35F). Das Pilotprojekt wird durch die Europ&#228;ische Kommission
+finanziert und durch Europol unterst&#252;tzt. Die entwickelte Softwarel&#246;sung soll f&#252;r 
+verschiedene Anwendungsf&#228;lle des polizeilichen Informationsaustauschs
+angepasst werden k&#246;nnen, unabh&#228;ngig davon, ob diese zentral oder dezentral
+gespeichert sind. Hierzu wird die bereits existierende Infrastruktur von Europol 
+genutzt, insbesondere das EON (Europol Operations Network) und der SIENA-
+Kanal (SIENA = Secure Information Exchange Network Application).
+In ADEP wird untersucht, inwiefern die Software f&#252;r die Vernetzung von
+polizeilichen Ermittlungsakten (European Police Record Index System &#8211; EPRIS) 
+geeignet ist (Quelle hier und im Folgenden: Bundestagsdrucksache 19/10725). 
+ADEP-EPRIS wird vom Bundesministerium des Innern, f&#252;r Bau und Heimat 
+(BMI) und dem BKA geleitet. Das BMI &#252;bernahm die Aufgabe &#8222;Application 
+and Test Platform Improvement&#8220; und beauftragte die PD - Berater der
+&#246;ffentlichen Hand GmbH sowie das Fraunhofer FOKUS &#8222;zur Unterst&#252;tzung der
+T&#228;tigkeiten&#8220;.
+In ADEP-EPRIS nutzten die Beteiligten eine von FOKUS entwickelte
+&#8222;mehrkomponentige, auf Microservices basierende Softwarel&#246;sung&#8220;. Die
+Bundesregierung beschreibt deren F&#228;higkeiten mit &#8222;Query Service, Search Service, 
+Management Service&#8220;, die Bedienung erfolgt &#252;ber eine grafische
+Benutzeroberfl&#228;che. Das BKA hat die zur Verf&#252;gung gestellte Software in die BKA-
+Infrastruktur und in das EON bei Europol integriert. Der Betrieb im
+Pilotprojekt wurde im Nachgang zu bereits im Rahmen des allgemeinen polizeilichen 
+Dienstverkehrs &#252;ber SIENA ausgetauschten &#8222;echten&#8220; Informationen mit den 
+Datenfeldern Familienname, Vorname, Aliasnamen, Geburtsdatum und
+Geschlecht getestet.
+Das BMI hat bei der Europ&#228;ischen Kommission Gelder f&#252;r die Finanzierung
+eines Folgeprojekts ADEP 2 beantragt und plant die n&#228;chsten Schritte. Deutsche 
+Beh&#246;rden haben abermals die Leitung &#252;bernommen. Die Software soll dabei 
+weiter verbessert werden, &#8222;technisches Optimierungspotential&#8220; beschreibt das 
+BMI bez&#252;glich der Schnelligkeit von Suchabfragen. Das Projekt ADEP 2 soll 
+au&#223;erdem die Integrationsf&#228;higkeit der Software &#8222;in die bestehende
+Anwendungslandschaft verbessern&#8220;.
+Deutscher Bundestag Drucksache 19/13294
+19. Wahlperiode 18.09.2019
+Wir fragen die Bundesregierung:
+&#8199;1. Was kann die Bundesregierung aus ihrer Teilnahme an dem EU-
+Pilotprojekt ADEP-EPRIS zu bereits vorliegenden Ergebnissen mitteilen, 
+die zeigen sollen, dass die entwickelte Technik &#8222;h&#246;chstwahrscheinlich auf 
+EU-Ebene technisch umsetzbar&#8220; ist (Ratsdokument 10581/19)?
+&#8199;2. Welche Bedenken haben einige Mitgliedstaaten nach Kenntnis der
+Bundesregierung hierzu &#252;ber die Leistungsf&#228;higkeit eines ADEP-EPRIS
+vorgetragen?
+&#8199;3. Interpretiert die Bundesregierung den EU- Rahmenbeschluss &#8222;Schwedische 
+Initiative&#8220; dahin gehend, dass dieser eine ausreichende rechtliche
+Grundlage f&#252;r einen automatisierten Treffer/ Kein Treffer-Austausch unter allen 
+EU-Mitgliedstaaten bildet?
+&#8199;4. Trifft es zu, dass einige EU-Mitgliedstaaten im Rahmen von ADEP-EPRIS 
+mitgeteilt haben, dass dort keine Gesetzgebung f&#252;r einen automatisierten 
+Treffer/ Kein Treffer-Austausch existiert?
+&#8199;5. Welche rechtlichen Anpassungen w&#228;ren aus Sicht der Bundesregierung
+erforderlich, um einen entsprechenden Rechtsrahmen auf EU-Ebene zu
+etablieren?
+&#8199;6. Wie definiert die Bundesregierung die Begriffe &#8222;Informationslandschaft&#8220;, 
+&#8222;Informationsaustausch&#8220;, &#8222;Informationsmanagement&#8220; im Rahmen von 
+ADEP-EPRIS?
+&#8199;7. Wann liegt der Abschlussbericht des Pilotprojekts ADEP-EPRIS vor?
+&#8199;8. Sollte ADEP-EPRIS aus Sicht der Bundesregierung genutzt werden, um 
+unter den EU-Mitgliedstaaten Personendaten aus Polizei- oder
+Kriminalakten auszutauschen bzw. abzufragen (bitte begr&#252;nden)?
+Was hat sie hierzu auf das Ratsdokument 10581/19 geantwortet?
+&#8199;9. Sieht die Bundesregierung eine Notwendigkeit, neben Feuerwaffen,
+F&#252;hrerscheindaten oder Gesichtsbildern weitere neue Datenkategorien im
+Rahmen des Vertrags von Pr&#252;m oder &#228;hnlichen Verfahren auszutauschen bzw. 
+abzufragen, und um welche handelt es sich dabei (bitte begr&#252;nden)?
+10. Welchen Bedarf sieht die Bundesregierung zur Entwicklung und
+Bereitstellung weiterer F&#228;higkeiten auf EU-Ebene, um einen solchen Austausch
+unter den EU-Mitgliedstaaten zu unterst&#252;tzen?
+11. Ist der Bundesregierung bekannt, von welchen EU-Mitgliedstaaten die von 
+den Niederlanden entwickelte und interessierten Regierungen gratis
+&#252;berlassene Software &#8222;goTravel&#8220; zur Analyse von Reisebewegungen
+(Fluggastdatensatz &#8211; PNR &#8211; und Anwendungsprogrammierschnittstelle &#8211; API &#8211;
+sowie Abgleich mit &#8222;Watchlists&#8220;) zur Umsetzung der EU-PNR-Richtlinie
+genutzt wird (Bundestagsdrucksache 19/10725, Antwort zu Frage 21)?
+12. Hat die Antwort zu Frage 22 auf Bundestagsdrucksache 19/9536 weiterhin 
+Bestand, wonach die Bundesregierung zur Ausdehnung des
+Passagierdatensystems (API oder PNR) auf andere Transportmittel (auch im Rahmen 
+multilateraler Abkommen) noch zu keinem abschlie&#223;enden Ergebnis
+gekommen ist (vgl. &#8222;EU may expand collection of air passenger data to rail 
+and road users&#8220;, www.theguardian.com/ vom 7. August 2019)?
+a) Erw&#228;gt bzw. sondiert die Bundesregierung eine entsprechende
+Ausdehnung, und welche Verkehrsmittel k&#228;men aus ihrer Sicht hierf&#252;r infrage?
+b) Wann ist die Bundesregierung von anderen EU-Mitgliedstaaten
+(insbesondere den Regierungen Gro&#223;britanniens, Belgiens und Niederlande) 
+zuletzt in dieser Hinsicht kontaktiert worden?
+13. Inwiefern haben andere Projektbeteiligte nach Kenntnis der
+Bundesregierung in ADEP-EPRIS neben Familienname, Vorname, Aliasnamen,
+Geburtsdatum und Geschlecht weitere Datenfelder genutzt, bzw. inwiefern ist 
+eine solche Erweiterung in ADEP 2 geplant?
+14. Ist das Folgeprojekt ADEP 2 unter Leitung der Bundesregierung
+inzwischen bewilligt, und welche Gelder stellen die Europ&#228;ische Kommission 
+und die Beteiligten hierf&#252;r bereit?
+a) Wird in ADEP 2 ebenfalls die Funktionalit&#228;t zur Abfrage von
+polizeilichen Ermittlungsakten getestet?
+b) Welche Soft- und Hardware wird in ADEP 2 genutzt?
+c) Welche Beh&#246;rden, Firmen und Institute nehmen an dem Projekt teil, und 
+welche Leistungen erbringen diese im Einzelnen?
+15. Aus welchem Grund war die Geschwindigkeit des Suchalgorithmus in 
+ADEP nicht zufriedenstellend (Bundestagsdrucksache 19/10725, Antwort 
+zu Frage 9), und welche Verz&#246;gerungen bzw. Latenzzeiten sind dem BMI 
+hierzu bekannt geworden?
+16. Trifft es zu, dass die von FOKUS entwickelte &#8222;mehrkomponentige, auf 
+Microservices basierende Softwarel&#246;sung&#8220; und deren &#8222;Query Service, 
+Search Service&#8220; (vgl. Bundestagsdrucksache 19/10725, Antwort zu Frage 
+5) defizit&#228;r ist?
+17. Wie kann die Integrationsf&#228;higkeit der FOKUS-Software aus Sicht der 
+Bundesregierung &#8222;in die bestehende Anwendungslandschaft&#8220; verbessert 
+werden, und welche Tests sind hierzu geplant?
+18. Was ist der Bundesregierung &#252;ber die technische Plattform &#8222;CIRCABC&#8220; 
+bekannt (https://circabc.europa.eu), die offensichtlich von eu-LISA
+betrieben wird und von SIS/SIRENE-Kontaktstellen genutzt wird, und damit
+wom&#246;glich hinsichtlich des SIS II oder Eurodac zur Verf&#252;gung steht, und
+inwiefern nimmt auch Europol daran teil?
+a) Welcher Funktionsumfang ist der Bundesregierung bekannt?
+b) Wie viele Teilnehmende bzw. Nutzende hat das System?
+19. Was ist der Bundesregierung dar&#252;ber bekannt, welche Forschungen zum 
+Einsatz von L&#252;gendetektoren oder biometriebasierten
+&#8222;T&#228;uschungserkennungstechnologien&#8220; f&#252;r die Grenzsicherheit von der EU-Kommission bzw. 
+der Grenzagentur Frontex durchgef&#252;hrt oder finanziell unterst&#252;tzt werden 
+(&#8222;University of Arizona Licenses Deception Detecting Avatar to Startup&#8220;, 
+https://techlaunch.arizona.edu vom 21. August 2018; &#8222;EU testet
+L&#252;gendetektor an den Grenzen&#8220;, www.sueddeutsche.de/ vom 5. November 2018)?
+Berlin, den 21. August 2019
+Dr. Sahra Wagenknecht, Dr. Dietmar Bartsch und Fraktion
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>Pilotprojekt zur Vernetzung europ&#228;ischer Polizeiakten (ADEP-EPRIS)</titel>
+    <datum>2019-09-18</datum>
+  </document>
+  

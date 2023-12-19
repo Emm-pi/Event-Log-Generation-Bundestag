@@ -1,0 +1,336 @@
+<document>
+    <id>242564</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/20288</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>10c4dd23bbac3174198783e590fb3784</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>263216</id>
+      <titel>Wahrung des Datenschutzes bei der Registermodernisierung</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium des Innern, f&#252;r Bau und Heimat</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/202/1920288.pdf</pdf_url>
+      <id>242564</id>
+      <dokumentnummer>19/20288</dokumentnummer>
+      <datum>2020-06-22</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Antwort
+der Bundesregierung
+auf die Kleine Anfrage der Abgeordneten Dr. Konstantin von Notz, Luise 
+Amtsberg, Canan Bayram, weiterer Abgeordneter und der Fraktion B&#220;NDNIS 
+90/DIE GR&#220;NEN
+&#8211; Drucksache 19/19784 &#8211;
+Wahrung des Datenschutzes bei der Registermodernisierung
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Im Koalitionsvertrag von 2018 verspricht die Gro&#223;e Koalition, die
+&#246;ffentlichen Register zu modernisieren (vgl. Koalitionsvertrag zwischen CDU, CSU 
+und SPD f&#252;r die 19. Legislaturperiode, abrufbar unter https://www.bundesregi
+erung.de/resource/blob/975226/847984/5b8bc23590d4cb2892b31c987ad672b
+7/2018-03-14-koalitionsvertrag-data.pdf?download=1, S. 46).
+Durch die Registermodernisierung soll es den Beh&#246;rden erm&#246;glicht werden, 
+Daten &#252;ber gemeinsame Register und eindeutige, register&#252;bergreifende
+Identifikatoren zuk&#252;nftig zu verkn&#252;pfen. Ziel ist die verbesserte Interoperabilit&#228;t der 
+zumeist auf v&#246;llig unterschiedlichen technischen und rechtlichen Grundlagen 
+errichteten &#246;ffentlichen Register sowie ein &#8222;register&#252;bergreifendes
+Identit&#228;tsmanagement&#8220; (vgl. dazu &#8222;Register&#252;bergreifendes Identit&#228;tsmanagement als 
+Teil der Registermodernisierung&#8220;, Zwischenbericht f&#252;r die
+Innenministerkonferenz 4. bis 6. Dezember 2019, https://www.innenministerkonferenz.de/IMK/
+DE/termine/to-beschluesse/2019-12-04_06/anlage-zu-top-32.pdf?__blob=publ
+icationFile&amp;v=2, S. 3). So seien insbesondere in einer gesonderten
+Expertengruppe (EG 2) Fragen eines verfassungsrechtlich und datenschutzkonformen 
+&#8222;Identifiers&#8220; zu behandeln (vgl. a. a. O., S. 4).
+Der Nationale Normenkontrollrat hatte bereits 2017 Forderungen nach einer 
+Modernisierung der Registerlandschaft erhoben und ein Gutachten vorgelegt 
+(vgl. &#8222;Mehr Leistung f&#252;r B&#252;rger und Unternehmen: Verwaltung digitalisieren. 
+Register modernisieren.&#8220; https://www.normenkontrollrat.bund.de/resource/blo
+b/72494/476004/12c91fffb877685f4771f34b9a5e08fd/2017-10-06-download-
+nkr-gutachten-2017-data.pdf).
+Das Projekt der Registermodernisierung, das seit M&#228;rz 2019 auch als
+Koordinierungsprojekt beim IT-Planungsrat gef&#252;hrt wird, ist in Umfang, Inhalt und 
+hinsichtlich seines konkreten Umsetzungsstandes weitgehend intransparent. 
+W&#228;hrend das Projekt hinsichtlich seiner generellen Zielsetzung insbesondere 
+hinsichtlich der Interoperabilit&#228;t wegen des wichtigen Gemeinwohlbezuges 
+grunds&#228;tzlich zu begr&#252;&#223;en ist, werfen der bisherige Ablauf sowie
+insbesondere die Planungen f&#252;r ein m&#246;gliches &#252;bergreifendes Personenkennzeichen
+gravierende datenschutzrechtliche Fragen auf. Besondere grundrechtliche Beden-
+Deutscher Bundestag Drucksache 19/20288
+19. Wahlperiode 22.06.2020
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums des Innern, f&#252;r Bau und Heimat 
+vom 22. Juni 2020 &#252;bermittelt.
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext.
+ken bestehen vor dem Hintergrund der f&#252;r die bundesdeutsche administrative 
+und kulturelle Tradition ma&#223;gebenden Rechtsprechung des
+Bundesverfassungsgerichts (BVerfG), denn:
+In mehreren Entscheidungen erkl&#228;rte das BVerfG eine sektor&#252;bergreifend
+verwendete Personenkennziffer f&#252;r mit der Menschenw&#252;rde nicht vereinbar und 
+daher f&#252;r verfassungswidrig (BVerfGE 27, 1, 6; 65, 1, 53, 57). Die besonderen 
+Risiken liegen, je nach Realisierungskonzept, in der eindeutigen
+Zuordenbarkeit innerhalb einer Gruppe, der Verkn&#252;pfbarkeit aller zu einer Person in den 
+unterschiedlichsten Datenbest&#228;nden zu den unterschiedlichsten Zwecken
+vorhandenen Informationen und Daten zu einem umfassenden
+Pers&#246;nlichkeitsprofil. Diese Profile sind in ihrer Reichweite kaum &#252;berschaubar und
+weitgehend intransparent. Zudem erh&#246;hen sich die Risiken der Bildung
+aussagekr&#228;ftiger Pers&#246;nlichkeitsprofile, Gefahren von struktureller Diskriminierung und 
+Missbrauchsm&#246;glichkeiten wie Identit&#228;tsvort&#228;uschungen und
+Identit&#228;tsdiebstahl.
+Jede Regelung muss neben den verfassungsrechtlichen Voraussetzungen die 
+Vorgaben aus Artikel 87 der EU-Datenschutz-Grundverordnung (DSGVO)
+beachten. Danach erscheint die Schaffung von Personenkennziffern allerdings 
+nicht schlechterdings ausgeschlossen. Und selbst moderne &#8222;Big Data&#8220;-
+Verfahren erlauben technisch besehen ohne den R&#252;ckgriff auf allgemeine
+Personenkennziffern eine vergleichbar risikobehaftete Zusammenf&#252;hrung von 
+pers&#246;nlichen Daten. Die von der Innenministerkonferenz offenbar gew&#252;nschte 
+allgemeine Zusammenf&#252;hrung der Informationen und Daten zu B&#252;rgerinnen 
+und B&#252;rgern aus allen unterschiedlichen &#246;ffentlichen Registern unter der 
+Steuer-Identifikationsnummer &#8211; Steuer-ID &#8211; (vgl. dazu die Vorgaben aus BFH 
+ZD 2012, 380) wirft hingegen mit Blick auf den Missbrauch von allgemeinen 
+Personenkennziffern in der j&#252;ngeren und j&#252;ngsten deutschen Geschichte gegen 
+die Bev&#246;lkerung sowie angesichts der Risiken f&#252;r den verfassungsrechtlichen 
+Privatheitsschutz weitreichende Fragen auf (vgl. dazu u. a. das Gutachten von 
+Martini, https://www.normenkontrollrat.bund.de/resource/blob/72494/476034/
+eebab686008cfec0a7919ca03e51abe3/2017-10-06-download-nkr-gutachten-2
+017-anlage-untersuchung-datenschutz-data.pdf?download=1). Dabei bestehen 
+sichere und datenschutzfreundliche Alternativen wie etwa das im Nachbarland 
+&#214;sterreich realisierte Konzept bereichsspezifischer Nummern (vgl. ebd. S. 62 
+m. w. N.).
+V o r b e m e r k u n g  d e r  B u n d e s r e g i e r u n g
+Um die intensiven Digitalisierungsanstrengungen der Verwaltung zum Erfolg 
+zu f&#252;hren, muss gew&#228;hrleistet werden, dass Personenverwechslungen auch in 
+der digitalen Kommunikation ausgeschlossen sind und die zu einer bestimmten 
+Person &#252;bermittelten Daten eineindeutig zugeordnet werden k&#246;nnen.
+Dies kann durch ein register&#252;bergreifendes Identit&#228;tsmanagement als Teil der 
+Registermodernisierung wahrgenommen werden.
+Im Rahmen des Vorhabens zum register&#252;bergreifenden Identit&#228;tsmanagement &#8211; 
+anfangs auch als &#8222;verfahrens&#252;bergreifendes&#8220; Identit&#228;tsmanagement bezeichnet 
+&#8211; wurde eine Bund-L&#228;nder-Arbeitsgruppe Register&#252;bergreifendes
+Identit&#228;tsmanagement unter der Federf&#252;hrung des Bundesministeriums des Innern, f&#252;r Bau 
+und Heimat (BMI) eingerichtet und Arbeitsgruppenmitglieder u. a. aus dem 
+Meldewesen, Personenstandswesen, Ausl&#228;nderwesen,
+Staatsangeh&#246;rigkeitswesen, Pass- und Personalausweiswesen und der Statistik eingebunden. Ebenso 
+wurden in die Expertengruppen auch das Bundeskanzleramt, das
+Bundesministerium der Justiz und f&#252;r Verbraucherschutz (BMJV), der Bundesbeauftragte 
+f&#252;r den Datenschutz und die Informationsfreiheit, Vertreter der
+Datenschutzkonferenz (DSK), das Bundesministerium der Finanzen (BMF) sowie als f&#252;r 
+die Digitalisierung verantwortliche Stellen die Koordinierungsstelle f&#252;r IT-
+Standards (KoSIT) in Bremen, die F&#246;derale IT-Kooperation (FITKO) in
+Frankfurt am Main sowie Vertreterinnen und Vertreter der Wissenschaft mit
+einbezogen.
+Die in der Vorbemerkung der Fragesteller u. a. angedeutete Intransparenz trifft 
+daher sachlich nicht zu. Das BMI hat der Innenministerkonferenz (IMK)
+Berichte vorgelegt, die &#252;ber die Webseite der IMK freigegeben sind; dies betrifft 
+den Vorschlag zur Verbesserung des Identit&#228;tsmanagements f&#252;r die Sitzung der 
+IMK vom 12. bis 14. Juni 2019 sowie den Zwischenbericht f&#252;r die Sitzung der 
+IMK vom 4. bis 6. Dezember 2019. Vorbehaltlich der Zustimmung der IMK 
+soll auch der Abschlussbericht des BMI zur Sondierung eines
+register&#252;bergreifenden Identit&#228;tsmanagements mit Einbezug der Erfahrungen mit der
+steuerlichen Identifikationsnummer f&#252;r die IMK am 17. bis 19. Juni 2020
+ver&#246;ffentlicht werden.
+Das Vorhaben des register&#252;bergreifenden Identit&#228;tsmanagements unterst&#252;tzt die 
+Erhaltung der dezentralen Registerlandschaft in Deutschland. Die einzelnen 
+Fachdaten zu einer Person werden nicht zusammengef&#252;hrt oder anders als
+bislang gespeichert. Im Falle eines gesetzlich geregelten Datenaustausches von 
+Daten einer bestimmten Person zwischen zwei Beh&#246;rden soll zuk&#252;nftig die 
+steuerliche Identifikationsnummer genutzt werden.
+Die Registermodernisierung soll auch die Transparenz f&#252;r die B&#252;rgerinnen und 
+B&#252;rger erh&#246;hen und sehr viel besser sichtbar machen, welche &#246;ffentliche Stelle 
+welcher anderen Stelle wann und zu welchem Zweck Daten zu einer Person 
+&#252;bermittelt hat. Diese Funktion kann von einem zuk&#252;nftigen Datencockpit 
+wahrgenommen werden.
+1. Wann wird die Bundesregierung der &#214;ffentlichkeit einen Gesetzentwurf 
+zur Regelung der von ihr bef&#252;rworteten Registermodernisierung vorlegen?
+Auf Basis des Beschlusses zu Punkt 40 des Koalitionsausschusses vom 3. Juni 
+2020 bereitet das BMI gegenw&#228;rtig einen Gesetzentwurf mit dem Ziel vor, dass 
+dieser noch diesen Sommer vom Bundeskabinett beschlossen werden soll.
+2. Welche Schritte im Hinblick auf das Ziel verbesserter Interoperabilit&#228;t
+einzelner oder gleich mehrerer &#246;ffentlicher Register auf Bundesebene wurden 
+bereits getroffen, und mit welchem Ergebnis?
+Die St&#228;rkung der Interoperabilit&#228;t von Registern wird auf Bundesebene in einer 
+Vielzahl von Verwaltungsbereichen verfolgt. So ist beispielsweise im Bereich 
+der Innenverwaltung im Jahr 2007 ein System technischer Standards
+eingerichtet worden, dem inzwischen alle Beh&#246;rden des Ausl&#228;nder-, Melde- und
+Personenstandswesens folgen. Es basiert auf offenen Standards. Alle &#220;bermittlungen 
+von Meldedaten an Bundesbeh&#246;rden und zwischen den L&#228;ndern sind auf diese 
+Standards umgestellt worden.
+Zur weiteren Verbesserung der Interoperabilit&#228;t hat der IT-Planungsrat ein
+Koordinierungsprojekt Registermodernisierung eingerichtet. Ziel ist die
+Entwicklung einer register&#252;bergreifenden Gesamtarchitektur unter Einbeziehung
+technischer, rechtlicher und organisatorischer Ma&#223;nahmen.
+a) Inwieweit und mit welchem Ergebnis wurden hierbei auch Konzepte 
+dezentraler Registerf&#252;hrung in Erw&#228;gung gezogen und gepr&#252;ft?
+Die &#246;ffentliche Verwaltung speichert Daten in elektronisch gef&#252;hrten Registern, 
+die in der Regel nach dem Prinzip der beh&#246;rdlichen Zust&#228;ndigkeit organisiert 
+sind. Die derzeitige dezentrale Registerstruktur wird daher beibehalten werden.
+Bei s&#228;mtlichen Vorhaben zur St&#228;rkung der Interoperabilit&#228;t von Registern wird 
+dies ber&#252;cksichtigt, so tragen register&#252;bergreifende technische Standards dazu 
+bei, dass Datenbest&#228;nde weiter dezentral gef&#252;hrt werden. Eine Voraussetzung 
+hierf&#252;r ist die organisierte Interoperabilit&#228;t, die vom Bund und den L&#228;ndern 
+durch offene Standards, z. B. des X&#214;V Rahmenwerks, sichergestellt wird.
+b) Inwiefern wurde bislang bei der Konzepterstellung auf das Prinzip
+offener Standards und Nachhaltigkeit bei der Dateninfrastruktur
+geachtet?
+Die Sicherstellung einer breiten Anschlussf&#228;higkeit durch offene Standards ist 
+ein wesentliches Ziel bei den Konzepterstellungen im Kontext der
+Registermodernisierung. So basiert der Austausch von Daten zwischen Beh&#246;rden u. a. auf 
+dem sog. &#8222;X&#214;V Rahmenwerk&#8220;, welches im Auftrag des IT-Planungsrats von 
+der Koordinierungsstelle f&#252;r IT-Standards f&#252;r den Bund und die L&#228;nder
+entwickelt und betrieben wird. Es dient der z&#252;gigen Entwicklung qualitativ
+hochwertiger IT-Standards f&#252;r Verwaltungsbereiche wie der Innenverwaltung, dem 
+elektronischen Rechtsverkehr oder der Verwaltungsleistungen f&#252;r Wirtschaft 
+und Unternehmen. Alle X&#214;V Standards m&#252;ssen offene Standards mit einem 
+transparenten und offenen Partizipationsprinzip sein, was im Rahmen einer 
+Zertifizierung best&#228;tigt wird.
+Zum Rahmenwerk geh&#246;ren auch die Standards OSCI und XTA des IT-
+Planungsrats, die die Sicherheit der Daten&#252;bermittlung zwischen Beh&#246;rden
+gew&#228;hrleisten.
+3. Trifft es zu, dass &#8211; wie die Fragestellerinnen und Fragesteller erfahren
+haben &#8211; Vertreterinnen und Vertreter der Bundesregierung bzw. des
+federf&#252;hrenden Bundesministeriums des Innern, f&#252;r Bau und Heimat sowie 
+weiterer beteiligter Bundesministerien sich gemeinsam in &#214;sterreich das 
+dortige Identit&#228;tsmanagementkonzept als alternative
+datenschutzfreundliche Variante haben erl&#228;utern und vorf&#252;hren lassen, und wenn ja, wann 
+konkret, und mit welchem Ergebnis?
+Vertreterinnen und Vertreter des BMI, des BMF, des BMJV sowie des
+Bundesbeauftragten f&#252;r den Datenschutz und die Informationsfreiheit haben am 
+27./28. August 2019 das &#246;sterreichische Bundesministerium f&#252;r Digitalisierung 
+und Wirtschaftsstandort mit dem Ziel eines Austauschs besucht, um das dortige 
+Identit&#228;tsmanagement mit zentralen Kernregistern und bereichsspezifischen 
+Personenkennziffern vorgestellt zu bekommen. Einigkeit bestand bei der
+deutschen Delegation, dass das &#246;sterreichische Modell nicht 1:1 auf Deutschland 
+&#252;bertragen werden kann.
+4. Trifft es zu, dass &#8211; wie die Fragestellerinnen und Fragesteller erfahren
+haben &#8211; sich die Bundesregierung gegen das in &#214;sterreich verfolgte Konzept 
+entschieden hat, und wenn dem so ist, unter welcher Abw&#228;gung und aus 
+welchen konkreten Gr&#252;nden ist diese Entscheidung getroffen worden?
+5. Trifft es zu, dass &#8211; wie die Fragestellerinnen und Fragesteller erfahren
+haben &#8211; sich zumindest das Bundesinnenministerium hinsichtlich des
+&#252;bergreifenden Registermanagements bereits f&#252;r die Steuer-ID entschieden 
+und diese konzeptionell zur Grundlage eines ersten zur
+Ressortabstimmung verschickten Gesetzentwurfs zur Registermodernisierung gemacht 
+hat, und wenn ja, warum setzt es sich damit &#252;ber diverse wissenschaftliche 
+Gutachten sowie rechtliche und politische Bedenken zahlreicher anderer 
+beteiligter Stellen so eindeutig hinweg?
+Die Fragen 4 und 5 werden gemeinsam beantwortet.
+Die Bundesregierung hat sich mit allen vorgetragenen Positionen sorgf&#228;ltig 
+auseinandergesetzt. Im Ergebnis soll die Umsetzung des register&#252;bergreifenden 
+Identit&#228;tsmanagements mithilfe der steuerlichen Identifikationsnummer
+erfolgen. F&#252;r gegebenenfalls erforderliche zus&#228;tzliche Sicherungen gegen rechtlich 
+unzul&#228;ssige Datenzusammenf&#252;hrungen soll dabei auf das sogenannte &#8222;4-
+Corner-Modell&#8220; zur&#252;ckgegriffen werden (siehe auch Antwort zu Frage 10).
+Einer der wesentlichen Ausgangspunkte des register&#252;bergreifenden
+Identit&#228;tsmanagements ist es, m&#246;glichst die Vorteile etablierter Strukturen zu nutzen, um 
+eine z&#252;gige, praxisnahe und wirtschaftliche Realisierung zu erm&#246;glichen,
+wobei alle verfassungsrechtlichen Anforderungen und hohe Datenschutzstandards 
+einzuhalten sind. Die Bundesregierung wird dazu ein Modell vorlegen.
+So stehen mit der steuerlichen Identifikationsnummer, der
+Identifikationsnummer-Datenbank, einer mit Public-Key-Infrastruktur und zentralem
+Verzeichnisdienst ausgestatteten IT-Kommunikationsinfrastruktur eine Reihe nachweislich 
+geeigneter Bausteine f&#252;r ein funktionierendes register&#252;bergreifendes
+Identit&#228;tsmanagement zur Verf&#252;gung.
+In einem ersten Schritt soll der Bereich der Register mit Relevanz f&#252;r die
+Umsetzung des Online-Zugangs-Gesetzes mit der steuerlichen
+Identifikationsnummer als verwaltungs&#252;bergreifender ID-Nummer erschlossen werden. Dabei soll 
+der Datenaustausch nicht direkt zwischen zwei Beh&#246;rden, sondern als
+zus&#228;tzliche Sicherung immer &#252;ber eine dritte Stelle erfolgen. Auf der Grundlage dieser 
+Erfahrungen soll entschieden werden, ob f&#252;r andere Bereiche weitere,
+bereichsspezifische Identifier eingef&#252;hrt werden oder ein einheitlicher Identifier f&#252;r alle 
+Register umgesetzt wird.
+6. Trifft es zu, dass &#8211; wie die Fragestellerinnen und Fragesteller erfahren
+haben &#8211; nach dem Gesetzeskonzept des Bundesinnenministeriums nicht
+allein die &#246;ffentlichen Register des Bundes, sondern zugleich auch die 
+Grundlagen f&#252;r ein &#252;bergreifendes Identit&#228;tsmanagement auf der
+Grundlage der Steuer-ID auch gleich f&#252;r L&#228;nder und Kommunen mitgeregelt
+werden sollen, und womit wird diese enorme Ausweitung des
+Regelungsansatzes angesichts der auf der Hand liegenden Gegeneinw&#228;nde und
+erh&#246;hten Risiken f&#252;r die davon betroffenen B&#252;rgerinnen und B&#252;rger
+gerechtfertigt?
+Ja. Die Digitalisierung der &#246;ffentlichen Verwaltung erstreckt sich sowohl auf 
+die &#246;ffentlichen Register des Bundes als auch auf Register der L&#228;nder und 
+Kommunen.
+7. Trifft es zu, dass &#8211; wie die Fragestellerinnen und Fragesteller erfahren
+haben &#8211; sich das Bundesministerium des Innern, f&#252;r Bau und Heimat
+aufgrund der massiven Einw&#228;nde und Bedenken gleich mehrerer
+Bundesministerien sowie auch des offenbar einbezogenen Bundesbeauftragten f&#252;r 
+den Datenschutz und die Informationsfreiheit (BfDI) k&#252;rzlich veranlasst 
+sah, eine bereits vorgesehene Ressortbesprechung wieder abzusagen, und 
+wenn ja, was waren die konkret ge&#228;u&#223;erten Einw&#228;nde, und wie bewertet 
+die Bundesregierung diese?
+Da die Ressortabstimmung zu dem Gesetzentwurf noch nicht abgeschlossen ist, 
+betrifft die Frage den Kernbereich der exekutiven Eigenverantwortung.
+8. Welche &#8222;Standardisierungsanstrengungen&#8220; hat sich die Bundesregierung 
+inzwischen einfallen lassen, um der weiteren Fragmentierung im Hinblick 
+auf Dienste und Daten auf europ&#228;ischer Ebene entgegenzuwirken (vgl. 
+IMK-Beschluss, Anlage zu TOP 32, S. 19)?
+Im Rahmen des Koordinierungsprojektes Registermodernisierung werden die 
+Anforderungen des Europ&#228;ischen Interoperabilit&#228;tsrahmenwerkes
+ber&#252;cksichtigt. Gleichzeitig bringt sich die Bundesregierung auf europ&#228;ischer Ebene in 
+den Prozess zur Umsetzung des Artikel 14 der Verordnung (EU) 2018/1724 
+(sog. SDG-Verordnung) ein.
+9. Erkennt die Bundesregierung in ihrem derzeitig verfolgten Konzept
+Gefahren hinsichtlich einer ann&#228;hernd unbeschr&#228;nkten Verkn&#252;pfung
+erhobener Daten mit Datenbest&#228;nden bei Verwaltungsbeh&#246;rden und/oder einer 
+Erschlie&#223;ung eines Datenverbundes durch eine einheitliche
+Personenkennziffer oder ein einheitliches Ordnungsmerkmal, und wenn ja, wie sch&#228;tzt 
+sie diese rechtlich ein?
+Die Bundesregierung hat sich eingehend mit verfassungsrechtlichen
+Argumenten, insbesondere den Schlussfolgerungen aus dem Volksz&#228;hlungsurteil des 
+Bundesverfassungsgerichts (BVerfG) auseinandergesetzt. Nach dem Beschluss 
+des Koalitionsausschusses soll nun in einem ersten Schritt zun&#228;chst der Bereich 
+der Register mit Relevanz f&#252;r die Umsetzung des Online-Zugangs-Gesetzes mit 
+der steuerlichen Identifikationsnummer als verwaltungs&#252;bergreifender ID-
+Nummer erschlossen werden. Dabei soll der Datenaustausch nicht direkt
+zwischen zwei Beh&#246;rden, sondern als zus&#228;tzliche Sicherung immer &#252;ber eine dritte 
+Stelle erfolgen. Derzeit wird gepr&#252;ft, wie diese Festlegung umgesetzt werden 
+kann.
+10. Welche organisatorischen, technischen und rechtlichen Ma&#223;nahmen h&#228;lt 
+die Bundesregierung f&#252;r zwingend geboten, damit &#8222;keine unbeschr&#228;nkte 
+Verkn&#252;pfung erhobener Daten mit den bei den Verwaltungsbeh&#246;rden
+vorhandenen, zum Teil sehr sensiblen Datenbest&#228;nden oder gar die
+Erschlie&#223;ung eines derartigen Datenverbundes durch eine einheitliche
+Personenkennziffer oder ein einheitliches Ordnungsmerkmal m&#246;glich w&#228;re&#8220; 
+(BVerfGE 65, 1, 53)?
+Die steuerliche Identifikationsnummer sorgt daf&#252;r, dass Daten in den Registern 
+der &#246;ffentlichen Verwaltung eindeutig einer Person zugeordnet werden k&#246;nnen. 
+Die bestehenden rechtlichen Regelungen, wann eine Beh&#246;rde zu welchem 
+Zweck Zugriff auf welche Daten erhalten darf, werden nicht erweitert. Die in 
+den dezentralen Registern gespeicherten Informationen werden gerade nicht an 
+einer zentralen Stelle zusammengef&#252;hrt, vielmehr bleibt die dezentrale
+Registerf&#252;hrung erhalten.
+Der Datenaustausch wird nicht direkt zwischen zwei Beh&#246;rden, sondern als
+zus&#228;tzliche Sicherung immer &#252;ber eine dritte Stelle erfolgen. Als
+Sicherungsma&#223;nahme ist damit das sogenannte &#8222;4-Corner-Modell&#8220; vorgesehen. Dieses hat sich 
+seit Jahren in der Innen- und Justizverwaltung bew&#228;hrt und liegt
+Architekturmodellen f&#252;r den Datenaustausch auf EU-Ebene zugrunde. Im 4-Corner-Modell 
+erfolgt eine &#220;bermittlung von Daten nicht direkt zwischen zwei beteiligten
+Beh&#246;rden, sondern &#252;ber eine dritte Stelle, die rechtlich und technisch kontrolliert, 
+ob die &#220;bermittlung erfolgen darf und eine entsprechende Protokollierung 
+vornimmt. Es kann auf andere Bereiche der Verwaltung angewendet werden, 
+um auch dort die erforderliche Kontrollfunktion einsetzen zu k&#246;nnen.
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/19784 -
+Wahrung des Datenschutzes bei der Registermodernisierung</titel>
+    <datum>2020-06-22</datum>
+  </document>
+  

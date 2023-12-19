@@ -1,0 +1,422 @@
+<document>
+    <id>228037</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/9160</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>1b8d748acb709c43f7bc214d055ff931</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>245199</id>
+      <titel>Offene und standardisierte technische Schnittstellen bei aktiven Implantaten</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium f&#252;r Gesundheit</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/091/1909160.pdf</pdf_url>
+      <id>228037</id>
+      <dokumentnummer>19/9160</dokumentnummer>
+      <datum>2019-04-04</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums f&#252;r Gesundheit vom 2. April 2019 
+&#252;bermittelt.  
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext. 
+Deutscher Bundestag  Drucksache 19/9160 
+19. Wahlperiode 04.04.2019 
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Kordula Schulz-Asche,  
+Maria Klein-Schmeink, Dr. Kirsten Kappert-Gonther, weiterer Abgeordneter und 
+der Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN 
+&#8211; Drucksache 19/8529 &#8211; 
+Offene und standardisierte technische Schnittstellen bei aktiven Implantaten 
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r  
+Aktive Implantate sind beispielsweise Retina-Implantate, Herzschrittmacher, 
+implantierbare Infusionspumpen oder H&#246;rger&#228;te sowie Cochlea-Implantate.
+Einige dieser medizinischen Ger&#228;te bestehen aus einem im K&#246;rper implantierten 
+Teil und einem externen Teil. &#220;ber drahtlose oder drahtgebundene
+Schnittstellen kommunizieren diese beiden Teile miteinander. Viele dieser Ger&#228;te nutzen 
+jedoch keine offengelegten oder standardisierten, sondern propriet&#228;re, also
+herstellerspezifische Schnittstellen. Damit werden die betroffenen Patientinnen 
+und Patienten abh&#228;ngig von den jeweiligen Herstellern der Implantate. Durch 
+diese mangelnde Interoperabilit&#228;t k&#246;nnen Patientinnen und Patienten von
+Produktinnovationen anderer Hersteller, wie etwa besseren Audioprozessoren bei 
+Cochlea-Implantaten, nicht profitieren. Sollte der externe Teil ihres Ger&#228;tes 
+vollst&#228;ndig ausgetauscht werden m&#252;ssen, ohne dass der jeweilige Hersteller
+Ersatz leisten kann, wird sogar ein Austausch des implantierten Teils erforderlich. 
+Vor diesem Hintergrund sind offene oder standardisierte Schnittstellen nach 
+Ansicht der Fragesteller ein geeigneter Weg, um den Patientinnen und Patienten 
+Wahlfreiheit zu erm&#246;glichen, unn&#246;tige medizinische Eingriffe zu vermeiden 
+und Innovationen, wie etwa gr&#246;&#223;erer Nutzen, st&#228;rkere Miniaturisierung, gr&#246;&#223;ere 
+Zuverl&#228;ssigkeit oder eine bessere Energieversorgung dieser Ger&#228;te, breiter
+verf&#252;gbar zu machen. 
+V o r b e me r k u n g  d e r  B u n d e s r e g i e r u n g  
+Aktive Implantate sind Medizinprodukte nach dem Medizinproduktegesetz 
+(MPG), in Umsetzung u. a. der Richtlinie (EU) 90/385/EWG &#252;ber aktive
+implantierbare Medizinprodukte vom 20. Juni 1990 (AIMD), die zuletzt durch Artikel 1 
+der Richtlinie (EU) 2007/47/EG vom 21. September 2007 ge&#228;ndert wurde. Da 
+diese Produkte zu den risikoreichsten und technisch aufwendigsten
+Medizinprodukten geh&#246;ren, haben aktive Implantate besonders hohe Anforderungen an die 
+klinische Sicherheit und Leistung zu erf&#252;llen. Im Wesentlichen bilden aktive
+Implantate und ggf. die dazugeh&#246;rigen externen Ger&#228;te einen Systemverbund, den
+der Hersteller entsprechend der beabsichtigten medizinischen Zweckbestimmung 
+entwickelt. Bei einer Daten&#252;bertragung zwischen einem aktiven Implantat und 
+einem externen Ger&#228;t sind sicherzustellen: 
+1. ein gr&#246;&#223;tm&#246;gliches Sicherheitsniveau an die Datensicherheit,  
+2. der Schutz gegen den Verlust oder die Manipulation der Daten sowie  
+3. der Schutz vor einem unberechtigten Zugriff auf zentrale Funktionen des
+Medizinproduktes.  
+Nach Absch&#228;tzung von Risiken kann dies dazu f&#252;hren, dass ein Hersteller offene 
+Schnittstellenstandards nicht verwendet. Bei Cochlea-Implantaten z. B. werden 
+die Informationen vom Sprachprozessor (externes Ger&#228;t) mittels hochfrequenter 
+Wellen im Radiofrequenzbereich von 5 Ghz an den sogenannten Receiver/
+Stimulator (das Implantat) &#252;bertragen. Die &#220;bertragung erfolgt nach Kenntnis des
+Bundesinstituts f&#252;r Arzneimittel und Medizinprodukte (BfArM) herstellerabh&#228;ngig 
+codiert und ist aus Sicherheitsgr&#252;nden personengebunden. 
+Bei der Versorgung mit aktiven Implantaten sind, neben der Diagnostik und
+Operation, eine postoperative Basistherapie und ggf. Folgetherapie(n) notwendig. Bei 
+der Basistherapie wird u. a. die Software von aktiven Implantaten entsprechend 
+der notwendigen Therapie vom Arzt eingerichtet. Bei einem Wechsel wichtiger 
+Funktionskomponenten w&#228;re dies eine wesentliche &#196;nderung an dem
+Systemverbund bzw. an dem Medizinprodukt sowie der Therapie. Ein solcher Wechsel ist 
+daher unbedingt mit dem behandelnden Arzt oder der behandelnden &#196;rztin
+abzustimmen und die gewechselte Funktionskomponente ist ggf. neu auf das
+Therapieziel vom Arzt oder der &#196;rztin einzurichten. 
+1. Wie viele Patientinnen und Patienten in Deutschland trugen 2009 und tragen 
+aktuell nach Kenntnis der Bundesregierung ein aktives Implantat, das mehr 
+als 30 Tage im K&#246;rper verbleibt, und wie gro&#223; war bzw. ist aktuell der Anteil 
+der Cochlea-Implantate? 
+In Deutschland gibt es derzeit noch kein bundesweites Register f&#252;r aktive
+Implantate, in dem u. a. Implantationen, Aggregatwechsel und Explantationen von
+aktiven Implantaten sowie der Vitalstatus eines Patienten erfasst werden. Daher ist 
+eine genaue Angabe zu der Zahl von Tr&#228;gern aktiver Implantate in Deutschland 
+nicht m&#246;glich.  
+Nach der sogenannten Fallpauschalenbezogenen Krankenhausstatistik (DRG-
+Statistik) wurden 2009  2 352 Cochlea-Implantate und 2017  4 254 Cochlea-
+Implantate in Krankenh&#228;user eingesetzt (Summe aus Implantationen und
+Aggregatwechseln von Cochlea-Implantate, siehe Anlage). 
+2. a) Wie gro&#223; war 2009 und ist aktuell nach Kenntnis der Bundesregierung der 
+Gesamtmarkt f&#252;r aktive Implantate in Deutschland? 
+Im Medizinprodukte-Informationssystem (MPI) des Deutschen Instituts f&#252;r
+Medizinische Dokumentation und Information waren 2009  27 und aktuell 71 aktiv 
+implantierbare Medizinprodukte bundesweit registriert. In der Europ&#228;ischen
+Datenbank f&#252;r Medizinprodukte (EUDAMED) sind aktuell 486 g&#252;ltige Zertifikate 
+f&#252;r aktive Implantate enthalten, einschlie&#223;lich der Zertifikate von deutschen
+Herstellern.
+b) Wie viele Anbieter bzw. unterschiedliche Hersteller solcher Implantate 
+gibt es nach Kenntnis der Bundesregierung derzeit auf dem Markt? 
+Derzeit sind im MPI neun Hersteller und zw&#246;lf Bevollm&#228;chtigte f&#252;r aktiv
+implantierbare Medizinprodukte bundesweit registriert. In EUDAMED konnten &#252;ber die 
+europ&#228;ischen Zertifikate derzeit insgesamt 146 Hersteller festgestellt werden, 
+einschlie&#223;lich deutsche Hersteller. 
+3. Inwieweit sieht die Bundesregierung die Erfordernis von gesetzlichen
+Regelungen zu offengelegten Schnittstellen bzw. standardisierten Schnittstellen 
+f&#252;r aktive Implantate, die externe Schnittstellen au&#223;erhalb des K&#246;rpers zur 
+Verf&#252;gung stellen? 
+5. Wie bewertet die Bundesregierung ein durch propriet&#228;re Schnittstellen bei 
+Implantaten ggf. entstehendes Sicherheitsrisiko? 
+Die Fragen 3 und 5 werden wegen des inhaltlichen Zusammenhangs gemeinsam 
+beantwortet. 
+Standardisierte und damit offengelegte (Kommunikations-)Schnittstellen bieten 
+die M&#246;glichkeit, ein angemessenes, insbesondere einheitliches Sicherheitsniveau 
+f&#252;r die Kommunikation zu realisieren. Da w&#228;hrend der (internationalen)
+Normungsarbeit bereits eine gro&#223;e Anzahl von Experten m&#246;gliche
+Sicherheitsprobleme in den zu spezifizierenden Funktionen aufdecken k&#246;nnen, kann die
+Standardisierung in besonderem Ma&#223;e eine funktional einwandfreie und korrekte
+Beschreibung einer entsprechenden Schnittstelle erreichen. Da die Funktionsweise 
+einer standardisierten Schnittstelle offengelegt ist, besteht jedoch bei
+standardisierten Schnittstellen eine potentielle Schwachstelle, die ein Angreifer ausnutzen 
+k&#246;nnte. Dar&#252;ber hinaus besteht das Restrisiko, dass Hersteller im Rahmen der 
+Produktentwicklung mangelhafte technische Implementierungen einer
+Schnittstelle erzeugen. 
+Propriet&#228;re Schnittstellen haben den Vorteil, dass ein eingeschr&#228;nkter
+Entwicklerkreis Kenntnis &#252;ber die Funktionsweise der Schnittstellen hat. Jedoch besteht 
+bei propriet&#228;ren Schnittstellen das Restrisiko, dass bereits bei deren Entwicklung 
+Designfehler gemacht werden k&#246;nnen, was zu einer h&#246;heren Angreifbarkeit im 
+Vergleich zu standardisierten Schnittstellen f&#252;hren kann.  
+Grunds&#228;tzlich ist der Einsatz offener Standards und damit offengelegter
+Schnittstellen aus Sicht der Informationssicherheit vorzuziehen. Die Diskussion und
+Pr&#252;fung einer gesetzlichen Regelung zur Verwendung offen gelegter Schnittstellen 
+ist noch nicht abgeschlossen. 
+4. a) Inwieweit haben Implantierte nach Ansicht der Bundesregierung ein 
+Recht auf Zugriff auf die &#252;bertragenen Informationen und die dazu
+verwendeten Schnittstellen?  
+b) Inwieweit m&#252;ssen nach Ansicht der Bundesregierung Hersteller diese 
+Schnittstellen den Tr&#228;gerinnen und Tr&#228;gern der Implantate gegen&#252;ber
+offenlegen? 
+Werden von aktiven Implantaten Daten erhoben und an den Hersteller oder den 
+Arzt &#252;bertragen und verarbeitet, haben Patientinnen und Patienten nach
+Artikel 15 der Verordnung (EU) 2016/679 zum Schutz nat&#252;rlicher Personen bei der 
+Verarbeitung personenbezogener Daten und zum freien Datenverkehr ein Recht 
+auf eine Kopie der personenbezogenen Daten die vom Verantwortlichen
+verarbeitet werden.
+Dar&#252;ber hinaus muss nach &#167; 7 MPG, entsprechend den Vorgaben der AIMD,
+jedem aktiven implantierbaren Medizinprodukt eine Gebrauchsanweisung
+beigef&#252;gt werden. Die Gebrauchsanweisung enth&#228;lt nach Anhang I Nr. 15 AIMD &#8222;die 
+erforderlichen Angaben, anhand derer der Arzt das geeignete Ger&#228;t sowie die
+entsprechende Software und die entsprechenden Zubeh&#246;rteile ausw&#228;hlen kann&#8220; und 
+&#8222;Angaben zur Anwendung, die es dem Arzt sowie ggf. dem Patienten
+erm&#246;glichen, das Ger&#228;t, seine Zubeh&#246;rteile und seine Software ordnungsgem&#228;&#223; zu
+verwenden&#8220;. Des Weiteren wird auf die Antwort zu den Fragen 11a, 11b und 14
+verwiesen. 
+6. Was unternimmt die Bundesregierung, um die Abh&#228;ngigkeit der
+Patientinnen und Patienten von einzelnen Herstellern w&#228;hrend des
+Implantationszeitraums durch offene bzw. standardisierte Schnittstellen zu vermeiden? 
+Es wird auf die Vorbemerkung der Bundesregierung verwiesen. 
+7. Inwieweit behindern nach Ansicht der Bundesregierung propriet&#228;re
+Schnittstellen bei aktiven Implantaten wie Cochlea Implantaten die breite
+Verf&#252;gbarkeit technischer Innovationen? 
+Die Verwendung standardisierter, offengelegter Schnittstellen erm&#246;glicht es 
+grunds&#228;tzlich auch anderen Anbietern, z. B. Zubeh&#246;rprodukte unter Verwendung 
+dieser Schnittstellen anzubieten. Dadurch k&#246;nnen Innovationen gef&#246;rdert werden, 
+die zus&#228;tzliche Optionen f&#252;r die Versorgung bereitstellen k&#246;nnen. 
+8. Trifft es nach Kenntnis der Bundesregierung zu, dass Patientinnen und
+Patienten mit aktiven Implantaten im Durchschnitt immer j&#252;nger werden und 
+aktive Implantate im Laufe des Lebens mehrfach ausgetauscht werden
+m&#252;ssen?  
+Falls ja, welche Schlussfolgerungen zieht die Bundesregierung daraus im 
+Hinblick auf die Notwendigkeit einer Standardisierung von Schnittstellen? 
+In Deutschland gibt es derzeit noch kein bundesweites Register f&#252;r aktive
+Implantate, in dem u. a. Implantationen, Aggregatwechsel und Explantationen von
+aktiven Implantaten sowie der Vitalstatus eines Patienten erfasst werden. Daher ist 
+keine genaue Aussage m&#246;glich, ob Patientinnen und Patienten mit aktiven
+Implantaten in Deutschland immer j&#252;nger werden. 
+Nach der DRG-Statistik f&#252;r Cochlea-Implantate kann jedoch im Vergleich
+zwischen den Jahren 2009 und 2017 folgende Aussagen gemacht werden: Insgesamt 
+hat die Anzahl an Implantationen und Aggregatwechseln von Cochlea-Implantate 
+quer durch alle Altersgruppen zugenommen. Jedoch ist der Anteil von
+Implantationen und Aggregatwechseln &#228;lterer Patientinnen und Patienten 2017 gegen&#252;ber 
+2009 gr&#246;&#223;er geworden.
+9. Wie beurteilt die Bundesregierung die infolge fehlender Standardisierung bei 
+einem Wechsel zu einem anderen Anbieter des Cochlea-Implantates (CI) 
+notwendige operative Entfernung des in den K&#246;rper implantierten Teils des 
+CI vor dem Hintergrund, dass entsprechende operative Eingriffe f&#252;r die
+betroffenen Patientinnen und Patienten mit medizinischen Risiken und
+Belastungen verbunden sind? 
+Da die Baugruppen der Cochlea-Implantate nicht standardisiert sind, muss bei 
+einem Wechsel auf ein Ger&#228;t eines anderen Herstellers der implantierte
+Systemteil auch immer explantiert werden. Dies kann jedoch auch mit einer
+technologischen Weiterentwicklung der implantierten Komponente und damit einer
+besseren Versorgung durch ein aktuelleres Implantat einhergehen. 
+Zu den in der Gebrauchsanweisung der Cochlea-Implantate aufgef&#252;hrten
+medizinischen Risiken z&#228;hlen: Verlust des Restgeh&#246;rs, Schwindel,
+Gleichgewichtsst&#246;rung, verz&#246;gerte Wundheilung, Beeintr&#228;chtigung des Geschmackssinns,
+Schluckbeschwerden, Taubheitsgef&#252;hl, verst&#228;rkter Tinnitus, Stimulation oder Verletzung 
+der Gesichtsnerven, vorr&#252;bergehende Schmerzen und unangenehme Ger&#228;usche 
+w&#228;hrend der Stimulation. 
+Aus der Vorkommnisbewertung des BfArM sind auch F&#228;lle des Auftretens von 
+Meningitis nach Cochlea-Implantation bekannt. In Internetforen werden zudem 
+Aussickern von Liquor cerebrospinalis und perilympherer Fl&#252;ssigkeit genannt. 
+10. a) Inwieweit existieren nach Kenntnis der Bundesregierung in Deutschland  
+oder der Europ&#228;ischen Union als Vorstufe zu verbindlichen
+Schnittstellenstandards bei aktiven implantierbaren Ger&#228;ten wie Cochlea-
+Implantaten oder vergleichbaren anderen Produkten Bestrebungen zur
+Offenlegung der Schnittstellen durch die jeweiligen Hersteller? 
+b) Inwieweit gibt es nach Kenntnis der Bundesregierung in internationalen 
+Standardisierungsorganisationen, insbesondere der Medizininformatik, 
+Vorschl&#228;ge oder zumindest Diskussionsprozesse f&#252;r
+Schnittstellenstandards f&#252;r die digitale Informations&#252;bertragung bei aktiven
+implantierbaren Ger&#228;ten wie Cochlea-Implantaten oder vergleichbaren anderen
+Produkten? 
+12. Gibt es nach Kenntnis der Bundesregierung bei anderen aktiven
+Medizinprodukten, wie zum Beispiel Herzschrittmachern, bereits offengelegte
+Schnittstellen? 
+Die Fragen 10 und 12 werden wegen des inhaltlichen Zusammenhangs
+gemeinsam beantwortet. 
+Nach Auskunft des Deutschen Instituts f&#252;r Normung (DIN) ist f&#252;r
+Normungsaktivit&#228;ten im Bereich Cochlea-Implantate auf Ebene der International Organization 
+for Standardization (ISO) die Fachgruppe f&#252;r aktive Implantate (ISO TC 
+150/SC6) zust&#228;ndig. Derzeit gibt es in dieser Fachgruppe keine Aktivit&#228;ten, eine 
+standardisierte Schnittstelle festzulegen. 
+Im Bereich implantierbarer kardiologischer Implantate gibt es folgende Standards 
+und Profile: 
+&#61623; ISO/IEEE 11073-10103 Health informatics &#8211; Point-of-care medical device 
+communication &#8211; Part 10103: Nomenclature &#8211; Implantable device, cardiac, 
+&#61623; IHE IDCO (Implantable Device Cardiac Observation) inside the profile Patient 
+Care Device (PCD) Technical Framework Volume 2 &#8211; Transactions,
+&#61623; IHE Cardiology Technical Framework Supplement Electrophysiology
+Implant/Explant Report Content (EPRC-IE) sowie 
+&#61623; IHE Cardiology Technical Framework Supplement Cardiac Procedure Note 
+(CPN). 
+Dem BfArM liegen keine weitergehenden Erkenntnisse &#252;ber eventuelle Pl&#228;ne 
+entsprechender Hersteller vor. 
+11. a) Soweit solche Standards bislang nicht existieren, wird sich die
+Bundesregierung daf&#252;r einsetzen, dass solche verbindlichen Standards entwickelt 
+werden? 
+b) Wird sich die Bundesregierung f&#252;r die Offenlegung von Schnittstellen 
+einsetzen? 
+14. Inwieweit besteht nach Ansicht der Bundesregierung k&#252;nftig die
+Notwendigkeit, nicht nur die technischen Schnittstellen zu standardisieren, sondern 
+auch die semantische Interoperabilit&#228;t der durch aktive Implantate
+erhobenen und &#252;bertragenen digitalen Informationen durch geeignete
+Regulierungen sicherzustellen? 
+Die Fragen 11 und 14 werden wegen des inhaltlichen Zusammenhangs
+gemeinsam beantwortet. 
+Die Bundesregierung ist im Allgemeinen daran interessiert, dass Schnittstellen 
+im Gesundheitswesen offen und frei verf&#252;gbar sind. Das Thema Interoperabilit&#228;t 
+wurde zuletzt gesetzgeberisch mit dem E-Health-Gesetz 2015 und dem Aufbau 
+eines Interoperabilit&#228;tsverzeichnisses adressiert. Seit dem 30. Juni 2017 steht das 
+von der gematik aufgebaute Interoperabilit&#228;tsverzeichnis &#8222;vesta&#8220; zur F&#246;rderung 
+der Interoperabilit&#228;t zwischen informationstechnischen Systemen im
+Gesundheitswesen unter www.vesta-gematik.de/ zur Verf&#252;gung. Darin werden gem&#228;&#223; 
+&#167; 291e Absatz 1 SGB V technische und semantische Standards, Profile, Leitf&#228;den 
+f&#252;r IT-Systeme der Gesundheitsbranche aufgef&#252;hrt. Somit bietet &#8222;vesta&#8220; der
+&#214;ffentlichkeit einen &#220;berblick &#252;ber eingesetzte bzw. einsetzbare Standards im
+Gesundheitswesen. 
+Des Weiteren k&#246;nnen sich interessierte Kreise an der Normungsarbeit des DIN 
+jederzeit beteiligen. Das DIN hat Grunds&#228;tze f&#252;r die Normungsarbeit aufgestellt 
+(www.din.de/de/ueber-normen-und-standards/din-norm/grundsaetze). 
+13. Inwieweit wird es nach Kenntnis der Bundesregierung in der n&#228;heren
+Zukunft weitere medizinisch genutzte aktive implantierbare Ger&#228;te geben, die 
+die Entwicklung und Durchsetzung entsprechender technischer
+Schnittstellenstandards erfordern? 
+Dazu liegen der Bundesregierung keine Kenntnisse vor. 
+15. Inwieweit h&#228;lt die Bundesregierung einen aktiven Dialog mit betroffenen 
+Patientinnen und Patienten sowie Herstellern f&#252;r geboten, um regulatorische 
+Notwendigkeiten in Richtung von Standardsetzungen auszuloten? 
+Im Bereich k&#252;nstlicher Intelligenz (KI) sollten ethische und rechtsstaatliche
+Anforderungen als integraler Bestandteil &#8211; und damit Markenzeichen einer &#8222;AI 
+made in Europe&#8220; &#8211; im gesamten Prozess der Entwicklung und Anwendung von 
+KI Beachtung finden. Dies umfasst die Forschung, Entwicklung und die
+Produktion von KI, aber auch den Einsatz, den Betrieb, die Kontrolle und die Governance
+KI-basierter Anwendungen. Die Entwicklung von Verfahren zur Kontrolle und 
+Nachvollziehbarkeit algorithmischer Entscheidungen sollte alle Akteure
+einbeziehen.
+Anlage
+Tabelle 1 - DRG Statistik von 2009 und 2017 f&#252;r Implantationen von Cochlea-Implantate1 
+2009 2017
+Insgesamt Anteil Insgesamt Anteil
+Summe 2 240 100% 4 073 100%
+D
+av
+o
+n
+ i
+m
+ A
+lt
+er
+ v
+o
+n
+ &#8230;
+ b
+is
+ u
+n
+te
+r 
+&#8230;
+ J
+ah
+re
+n
+ 
+unter 1 75 3% 113 3% 
+1-5 366 16% 383 9% 
+5-10 147 7% 185 5% 
+10-15 99 4% 96 2% 
+15-20 84 4% 108 3% 
+20-25 77 3% 87 2% 
+25-30 86 4% 124 3% 
+30-35 79 4% 124 3% 
+35-40 86 4% 158 4% 
+40-45 110 5% 174 4% 
+45-50 130 6% 276 7% 
+50-55 149 7% 344 8% 
+55-60 129 6% 358 9% 
+60-65 130 6% 340 8% 
+65-70 173 8% 328 8% 
+70-75 188 8% 333 8% 
+75-80 83 4% 352 9% 
+80-85 39 2% 155 4% 
+85-90 10 0% 33 1% 
+90-95 0 0% 2 0% 
+95 und &#228;lter 0 0% 0 0% 
+1DRG-Statistik von Destatis auf Anfrage f&#252;r den OPS-Code 5-209.2 (Andere Operationen am Mittel- und
+Innenohr: Einf&#252;hrung eines Kochleaimplantates) von allen Krankenh&#228;user, die nach dem DRG-
+Verg&#252;tungssystem abrechnen und dem Anwendungsbereich des &#167; 1 KHEntgG unterliegen.
+Tabelle 2 - DRG Statistik von 2009 und 2017 f&#252;r Aggregatwechsel von Cochlea-Implantate2 
+2009 2017
+Insgesamt Anteil Insgesamt Anteil
+Summe 112 100% 181 100%
+D
+av
+o
+n
+ i
+m
+ A
+lt
+er
+ v
+o
+n
+ &#8230;
+ b
+is
+ u
+n
+te
+r 
+&#8230;
+ J
+ah
+re
+n
+ 
+unter 1 0 0% 0 0% 
+1-5 9 8% 8 4% 
+5-10 12 11% 6 3% 
+10-15 28 25% 9 5% 
+15-20 14 13% 13 7% 
+20-25 8 7% 17 9% 
+25-30 3 3% 13 7% 
+30-35 1 1% 7 4% 
+35-40 3 3% 6 3% 
+40-45 4 4% 5 3% 
+45-50 6 5% 10 6% 
+50-55 3 3% 9 5% 
+55-60 3 3% 12 7% 
+60-65 1 1% 12 7% 
+65-70 5 4% 14 8% 
+70-75 8 7% 12 7% 
+75-80 2 2% 21 12%
+80-85 2 2% 4 2% 
+85-90 0 0% 3 2% 
+90-95 0 0% 0 0% 
+95 und &#228;lter 0 0% 0 0% 
+2DRG-Statistik von Destatis auf Anfrage f&#252;r den OPS-Code 5-209.7 (Andere Operationen am Mittel- und
+Innenohr: Wechsel eines Kochleaimplantates) von allen Krankenh&#228;user, die nach dem DRG-
+Verg&#252;tungssystem abrechnen und dem Anwendungsbereich des &#167; 1 KHEntgG unterliegen.
+
+
+ 
+ 
+ 
+Satz: Satzweiss.com Print, Web, Software GmbH, Mainzer Stra&#223;e 116, 66121 Saarbr&#252;cken, www.satzweiss.com 
+Druck: Printsystem GmbH, Schafw&#228;sche 1-3, 71296 Heimsheim, www.printsystem.de 
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de 
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/8529 -
+Offene und standardisierte technische Schnittstellen bei aktiven Implantaten</titel>
+    <datum>2019-04-04</datum>
+  </document>
+  

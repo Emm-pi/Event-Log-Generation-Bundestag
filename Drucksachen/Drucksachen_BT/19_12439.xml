@@ -1,0 +1,354 @@
+<document>
+    <id>232911</id>
+    <drucksachetyp>Kleine Anfrage</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>19</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/12439</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>9ee7c9705fc7d8da1ce18eb5f38b4ac4</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:15+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>251892</id>
+      <titel>Einsatz von automatisierten Entscheidungssystemen und K&#252;nstlicher Intelligenz in der Personalauswahl,  Personalverwaltung und Personalentwicklung</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>LINKE</bezeichnung>
+      <titel>Fraktion DIE LINKE</titel>
+    </urheber>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/124/1912439.pdf</pdf_url>
+      <id>232911</id>
+      <dokumentnummer>19/12439</dokumentnummer>
+      <datum>2019-08-16</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Kleine Anfrage</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Fraktion DIE LINKE</urheber>
+    </fundstelle>
+    <autoren_anzeige>
+      <id>2157</id>
+      <titel>Jessica Tatti, MdB, DIE LINKE</titel>
+      <autor_titel>Jessica Tatti</autor_titel>
+    </autoren_anzeige>
+    <autoren_anzeige>
+      <id>2160</id>
+      <titel>Susanne Ferschl, MdB, DIE LINKE</titel>
+      <autor_titel>Susanne Ferschl</autor_titel>
+    </autoren_anzeige>
+    <text>[Deutscher Bundestag  Drucksache 19/12439 
+19. Wahlperiode 16.08.2019 
+Kleine Anfrage 
+der Abgeordneten Jessica Tatti, Susanne Ferschl, Doris Achelwilm,  
+Simone Barrientos, Matthias W. Birkwald, Dr. Birke Bull-Bischoff,  
+Anke Domscheit-Berg, Klaus Ernst, Sylvia Gabelmann, Dr. Achim Kessler,  
+Katja Kipping, Jutta Krellmann, Pascal Meiser, Cornelia M&#246;hring, Dr. Petra Sitte, 
+Harald Weinberg, Katrin Werner, Pia Zimmermann,  
+Sabine Zimmermann (Zwickau) und der Fraktion DIE LINKE. 
+Einsatz von automatisierten Entscheidungssystemen und K&#252;nstlicher Intelligenz 
+in der Personalauswahl, Personalverwaltung und Personalentwicklung 
+In Personalauswahlprozessen wird vermehrt Software eingesetzt, die voll- oder 
+teilautomatisiert helfen soll, die &#8222;richtigen&#8220; Bewerberinnen und Bewerber zu 
+identifizieren (siehe z. B. Petry, Thorsten (2019): Robot Recruiting: Roboter 
+sucht Kollegen, in: Personalmagazin, Nr. 2/2019, S. 26-29). Die
+Anwendungsgebiete reichen dabei von Programmen, die Lebensl&#228;ufe und Zeugnisse auswerten, 
+&#252;ber Algorithmen, die automatisiert soziale Netzwerke auf passende
+Kandidatinnen und Kandidaten durchsuchen, bis hin zu Programmen mit K&#252;nstlicher
+Intelligenz, die auf Basis von Video- oder Telefoninterviews automatisiert
+psychologische Profile der Bewerberinnen und Bewerber erstellen sollen (f&#252;r Deutschland 
+z. B. Leister, Annika: Vorstand von Computers Gnaden, Frankfurter Rundschau 
+vom 26. Mai 2018). Auch bei Auswahlverfahren von Auszubildenden werden 
+Algorithmen zur Hilfe genommen. So entscheidet in einem Pilotprojekt bei
+Deloitte ein Algorithmus, wer einen Ausbildungsplatz bekommt (vgl. www.zdf.de/ 
+dokumentation/unheimliche-macht---wie-algorithmen-unser-leben-bestimmen- 
+102.html, ab Minute 12:27). 
+Einen hohen Bekanntheitsgrad hat beispielsweise in den USA das KI-Programm 
+&#8222;HireVue&#8220; (www.hirevue.com/), in Deutschland das KI-basierte &#8222;PRECIRE&#8220; 
+(http://precire.com). Das letztgenannte Programm erstellt aufgrund eines rund 
+f&#252;nfzehnmin&#252;tigen automatisierten Telefoninterviews eine
+Pers&#246;nlichkeitsanalyse mit einem Ranking zur Passung des Bewerbers (siehe Lorenz, Pia:
+Sprachanalyse erkennt Pers&#246;nlichkeit: Precire wei&#223;, was Du letzten Sommer getan hast, 
+Legal Tribune Online vom 27. November 2015). Teil der Interviews seien auch 
+Fragen privater Art und zum Freizeitverhalten, wie z. B. nach dem perfekten 
+Sonntag oder nach den Sorgen der letzten Wochen (z. B. Hummel, Katrin; Deine 
+Sprache verr&#228;t dich, Frankfurter Allgemeine Sonntagszeitung vom 20. Mai 2015).  
+Als Grund f&#252;r den Einsatz der Programme werden unter anderem
+Kostenersparnisse sowie eine erhoffte Steigerung von Objektivit&#228;t und Zuverl&#228;ssigkeit (M&#252;ller 
+2019) genannt. Andere weisen eher auf problematische Folgen hin und kritisieren 
+den Einsatz dieser Programme, so z. B. aus datenschutzrechtlicher sowie
+methodischer Sicht (f&#252;r viele: Lischka/Klingel 2017, S. 23; Grimm, Detlef; G&#246;bel, 
+Malte (2018): Das Arbeitnehmerdatenschutzrecht in der DSGVO und dem BDSG 
+neuer Fassung, in: jM 2018, S. 278-285). 
+Zuletzt hat der neu gegr&#252;ndete &#8222;Ethikbeirat HR-Tech&#8220; dem Einsatz von KI
+widersprochen, sofern Daten verwendet werden, die der willentlichen Steuerung der 
+Betroffenen entzogen sind, etwa Sprach-, Stimm- und Mimikanalysen (B&#246;s,  
+Nadine: Wenn Computer Bewerber ausw&#228;hlen, Frankfurter Allgemeine vom 
+2. Juli 2019, www.faz.net/aktuell/beruf-chance/beruf/neuer-ethikbeirat-wenn- 
+computer-bewerber-auswaehlen-16257834.html?printPagedArticle=true#void). 
+Umfragen zeigen zudem, dass potentielle Bewerberinnen und Bewerber dem 
+Thema sehr kritisch gegen&#252;berstehen: Lediglich 2 Prozent der befragten Personen 
+gab an, dass sie den Einsatz K&#252;nstlicher Intelligenz zur Pers&#246;nlichkeitsanalyse 
+akzeptabel f&#228;nden (Petry 2019). 
+Neben dem Einsatz in Personalauswahlverfahren werden teil- oder
+vollautomatisierte Entscheidungsprogramme sowie Big-Data-Analysen auch in der
+Personalverwaltung und -entwicklung in Unternehmen eingesetzt. Diese werden oft unter 
+dem Begriff &#8222;Personal Analytics&#8220; bzw. &#8222;People Analytics&#8220; zusammengefasst 
+(vgl. Kornwachs, Klaus (2018): Arbeit 4.0 &#8211; People Analytics &#8211;
+F&#252;hrungsinformationssysteme. Soziologische, psychologische,
+wissenschaftsphilosophischethische &#220;berlegungen zum Einsatz von Big Data in Personalmanagement und 
+Personalf&#252;hrung. M&#252;nster: ABIDA). Personal Analytics wertet Leistungsverl&#228;ufe 
+aus, soll Leistungsabf&#228;lle und individuelle Potentiale der Mitarbeiterinnen und 
+Mitarbeiter aufzeigen. Gemein ist allen Programmen, dass sie die gesamten
+Historien der Besch&#228;ftigten l&#252;ckenlos dokumentieren und verf&#252;gbar machen (ebd.). 
+Die personenbezogenen Daten werden mit anderen Daten verschiedenster
+Herkunft verkn&#252;pft, die die Mitarbeiterinnen bzw. Mitarbeiter und Maschinen
+w&#228;hrend der Arbeit erzeugen. Diese Daten k&#246;nnen zur &#220;berwachung, zur Kontrolle, 
+aber auch zur Beeinflussung des Verhaltens und zur Personalbewertung
+eingesetzt werden. L&#228;ngerfristig soll People Analytics Prognosen zur
+Mitarbeiterzufriedenheit und -gewinnung erm&#246;glichen und der Entwicklung von
+F&#252;hrungsstrategien dienen. Personalkapazit&#228;ten sollen noch flexibler und effizienter planbar 
+werden (Predictive und Prescriptive Analytics, a. a. O.: 100-143). 
+Aus den USA sind F&#228;lle von Unternehmen bekannt geworden, die diese Art von 
+Software nutzen, um mittels laufender &#220;berwachung der Arbeitsleistung
+&#8222;ineffiziente&#8220; Mitarbeiterinnen und Mitarbeiter zu identifizieren und zu entlassen (so 
+z. B. Lecher, Colin (2019): How Amazon automatically tracks and fires
+warehouse workers for &#8218;productivity&#8216;. Documents show how the company tracks 
+and terminates workers, in: The Verge, April 25, 2019). 
+Wir fragen die Bundesregierung: 
+1. Plant die Bundesregierung, die automatisierte Erstellung von
+Pers&#246;nlichkeitsprofilen, wie dies z. B. durch &#8222;Precire&#8220; erfolgt, als Profiling im Sinne 
+des Artikel 4 Nummer 4 der Datenschutz-Grundverordnung (DSGVO)
+detaillierter zu regeln? 
+Wenn ja, wie? 
+2. H&#228;lt die Bundesregierung die Erstellung von Pers&#246;nlichkeitsprofilen zum 
+Zweck der Bewerberauswahl durch voll- bzw. teilautomatisierte Programme 
+wie z. B. &#8222;Precire&#8220; f&#252;r zul&#228;ssig und von den datenschutzrechtlichen
+Vorschriften her legal?
+Falls ja, welche Rechtsgrundlage enth&#228;lt die Zul&#228;ssigkeit zur Erstellung von 
+Pers&#246;nlichkeitsprofilen, welche Einschr&#228;nkungen und Schranken sieht die 
+Bundesregierung, und plant die Bundesregierung hierzu eine &#196;nderung der 
+gesetzlichen Grundlagen, zum Beispiel im Rahmen eines speziellen
+Besch&#228;ftigtendatenschutzgesetzes? 
+Falls nein, plant die Bundesregierung hierzu eine &#196;nderung der gesetzlichen 
+Grundlagen, zum Beispiel im Rahmen eines speziellen
+Besch&#228;ftigtendatenschutzgesetzes? 
+3. Entsprechen nach Ansicht der Bundesregierung die
+Personalauswahlverfahren, die auf Erkenntnisse von KI-Programmen und Big-Data-Analysen
+zur&#252;ckgreifen, wie z. B. &#8222;Precire&#8220;, den grundlegenden Standards der
+Eignungsdiagnostik (vgl. etwa die Kritik von Kanning, Uwe (2018): Fachbuch im
+Fokus: Stulle, Klaus P. (Hrsg.): Psychische Diagnostik durch Sprachanalyse. 
+Verf&#252;gbar &#252;ber www.wirtschaftspsychologie-aktuell.de/fachbuch/ 
+20180425-klaus-stulle-psychologische-diagnostik-durch-sprachanalyse.html,  
+Zugriff am 18. April 2019)? 
+4. Kann eine Einwilligung einer Bewerberin bzw. eines Bewerbers nach
+Ansicht der Bundesregierung &#8222;freiwillig&#8220; im Sinne des &#167; 26 Absatz 2 Satz 2 des 
+Bundesdatenschutzgesetzes (BDSG) sein, falls das eingesetzte Programm 
+zum Pers&#246;nlichkeitsprofiling nicht den eignungsdiagnostischen
+Verfahrensstandards entspricht? 
+Kann eine Einwilligung einer Bewerberin bzw. eines Bewerbers nach
+Ansicht der Bundesregierung vor dem Hintergrund des &#8222;Kopplungsverbots&#8220; 
+(vgl. &#167; 26 BDSG Rn. 30) &#8222;freiwillig&#8220; im Sinne des &#167; 26 Absatz 2 Satz 2 
+BDSG sein? 
+5. Stimmt die Bundesregierung der Einsch&#228;tzung von Grimme/G&#246;bel (2018: 
+282) zu, dass der Einsatz von Software wie Precire bereits dann unzul&#228;ssig 
+ist, wenn Eigenschaften wie depressives Verhalten mitanalysiert werden, da 
+dies eine Diskriminierung wegen einer Behinderung darstelle (Verbot nach 
+&#167;&#167; 1, 7 des Allgemeinen Gleichbehandlungsgesetzes &#8211; AGG &#8211;, vgl. EuGH, 
+Urt. v. 11.04.2014 &#8211; C-335/11)? 
+Falls nein, warum h&#228;lt die Bundesregierung die Argumentation nicht f&#252;r
+richtig? 
+6. H&#228;lt die Bundesregierung die Mitbestimmungsrechte von Betriebsr&#228;ten bei 
+der Einf&#252;hrung bzw. Durchf&#252;hrung von Bewerberauswahlprozessen, die sich 
+voll oder teilweise auf 
+a) KI-Systeme bzw. 
+b) Big-Data-Analysen 
+st&#252;tzen, f&#252;r ausreichend, oder plant sie weitere Regelungen? 
+7. Hat die Bundesregierung Studien in Auftrag gegeben oder sind der
+Bundesregierung durchgef&#252;hrte Studien bekannt, die sich mit den m&#246;glichen
+gesundheitlichen und sozialen Folgen f&#252;r die Belegschaft durch den Einsatz 
+von KI-unterst&#252;tzten Softwares in der Personalverwaltung (&#8222;Personal  
+Analytics&#8220; und/oder &#8222;People Analytics&#8220;, vgl. Kornwachs 2018)
+auseinandersetzen? 
+Falls ja, welche Studien sind der Bundesregierung bekannt, und zu welchen 
+wesentlichen Erkenntnissen sind diese gekommen? 
+Falls nein, plant die Bundesregierung solche Studien in Auftrag zu geben, 
+und mit welchen wesentlichen Forschungsfragen?
+8. Hat nach Kenntnis der Bundesregierung der Betriebsrat ein generelles
+Initiativ- und Mitbestimmungsrecht bei der Nutzung personenbezogener Daten 
+im betrieblichen Kontext, z. B. wenn das Unternehmen eine KI-unterst&#252;tzte 
+oder Big-Data-getriebene Software in der Personalverwaltung (&#8222;Personal 
+Analytics&#8220; und/oder &#8222;People Analytics&#8220;, vgl. Kornwachs 2018) einf&#252;hrt oder 
+einsetzt? 
+Falls ja, nach welcher gesetzlichen Grundlage? 
+Falls nein, sieht die Bundesregierung diesbez&#252;glich einen politischen und 
+gesetzgeberischen Handlungsbedarf (Stichworte: &#8222;Gute Arbeit by design&#8220;, 
+Besch&#228;ftigtendatenschutzgesetz)? 
+9. Wo sieht die Bundesregierung &#8222;rote Linien&#8220;, die ein Unternehmen bez&#252;glich 
+der &#220;berwachung ihrer Belegschaft sowie der Aufzeichnung und
+Generierung personenbezogener Pers&#246;nlichkeitsdaten nicht &#252;berschreiten darf,
+beispielsweise bez&#252;glich der Erstellung von Pers&#246;nlichkeitsprofilen oder der 
+Messung, Speicherung und Verarbeitung von Daten zu den Emotionen der 
+Besch&#228;ftigten? 
+Welche konkreten Handlungen plant die Bundesregierung, um die
+&#220;berschreitung dieser &#8222;roten Linien&#8220; f&#252;r die Zukunft verhindern zu k&#246;nnen? 
+10. Hat die Bundesregierung Kenntnis, welche Unternehmen teil- oder
+vollautomatisierte Programme zur Rekrutierung von Auszubildenden (&#8222;Personal 
+Analytics&#8220; und/oder &#8222;People Analytics&#8220;, vgl. Kornwachs 2018) einsetzen  
+oder erproben, und falls ja,  
+a) welchen Umfang bzw. welche Funktionalit&#228;t hatte bzw. hat die
+eingesetzte Software, 
+b) wo wird bzw. wurde die Software eingesetzt,  
+c) von wem stammt bzw. stammte diese Software (Hersteller), 
+d) wurde der Einsatz zuvor durch eine Datenschutzstelle bewertet, und zu 
+welchem Ergebnis kam diese Stelle, 
+e) wurde dem Einsatz zuvor durch den Personal- bzw. Betriebsrat
+zugestimmt, sowie 
+f) wurde die Einf&#252;hrung intern oder extern evaluiert, und zu welchem
+Ergebnis bzw. zu welchen Folgerungen kam die Evaluation 
+(bitte f&#252;r jedes Programm bzw. f&#252;r jede Funktionalit&#228;t getrennt darstellen)? 
+11. Setzt die Bundesregierung oder eine ihrer nachgelagerten Bundesbeh&#246;rden 
+in Bewerberauswahlprozessen teil- oder vollautomatisierte
+Vorauswahlverfahren (z. B. automatisierte Auswertung von Lebensl&#228;ufen) und/oder Text- 
+und Sprachanalysesoftware (wie z. B. &#8222;Precire&#8220; oder &#196;hnliche) ein oder
+erprobt den Einsatz oder hat den Einsatz erprobt, und falls ja, 
+a) welchen Umfang bzw. welche Funktionalit&#228;t hatte bzw. hat die
+eingesetzte Software, 
+b) in welcher bzw. welchen Beh&#246;rden oder Bundesministerien wird bzw. 
+wurde die Software eingesetzt, 
+c) von wem stammt bzw. stammte diese Software (Hersteller), 
+d) wurde der Einsatz zuvor durch eine Datenschutzstelle bewertet, und zu 
+welchem Ergebnis kam diese Stelle, 
+e) wurde dem Einsatz zuvor durch den Personal- bzw. Betriebsrat
+zugestimmt, sowie
+f) wurde die Einf&#252;hrung intern oder extern evaluiert, und zu welchem
+Ergebnis bzw. zu welchen Folgerungen kam die Evaluation 
+(bitte f&#252;r jedes Programm bzw. f&#252;r jede Funktionalit&#228;t getrennt darstellen)? 
+Falls nein, warum hat sich die Bundesregierung bzw. warum haben sich nach 
+Kenntnis der Bundesregierung die nachgelagerten Bundesbeh&#246;rden gegen 
+eine Erprobung bzw. einen Einsatz derartiger Programme entschieden? 
+12. Setzt die Bundesregierung oder eine ihrer nachgelagerten Bundesbeh&#246;rden 
+in teil- oder vollautomatisierte Programme in der Personalverwaltung und 
+Personalentwicklung (&#8222;Personal Analytics&#8220; und/oder &#8222;People Analytics&#8220;, 
+vgl. Kornwachs 2018) ein oder erprobt den Einsatz oder hat den Einsatz
+erprobt, und falls ja, 
+a) welchen Umfang bzw. welche Funktionalit&#228;t hatte bzw. hat die
+eingesetzte Software, 
+b) in welcher bzw. welchen Beh&#246;rden oder Bundesministerien wird bzw. 
+wurde die Software eingesetzt, 
+c) von wem stammt bzw. stammte diese Software (Hersteller),  
+d) wurde der Einsatz zuvor durch eine Datenschutzstelle bewertet, und zu 
+welchem Ergebnis kam diese Stelle, 
+e) wurde dem Einsatz zuvor durch den Personal- bzw. Betriebsrat
+zugestimmt, sowie 
+f) wurde die Einf&#252;hrung intern oder extern evaluiert, und zu welchem
+Ergebnis bzw. zu welchen Folgerungen kam die Evaluation 
+(bitte f&#252;r jedes Programm bzw. f&#252;r jede Funktionalit&#228;t getrennt darstellen)? 
+Falls nein, warum hat sich die Bundesregierung bzw. warum haben sich nach 
+Kenntnis der Bundesregierung die nachgelagerten Bundesbeh&#246;rden gegen 
+eine Erprobung bzw. einen Einsatz derartiger Programme entschieden? 
+13. Setzt nach Kenntnis der Bundesregierung die Bundesagentur f&#252;r Arbeit bzw. 
+setzen die Jobcenter (gemeinsame Einrichtungen) f&#252;r die eigenen
+Personalauswahlprozesse teil- oder vollautomatisierte Vorauswahlverfahren (z. B. 
+automatisierte Auswertung von Lebensl&#228;ufen) und/oder Text- und
+Sprachanalysesoftware (wie z. B. &#8222;Precire&#8220; oder &#228;hnliche) ein, oder wird oder wurde 
+der Einsatz erprobt, und falls ja, 
+a) welchen Umfang bzw. welche Funktionalit&#228;t hatte bzw. hat die
+eingesetzte Software, 
+b) wo wird bzw. wurde die Software eingesetzt, 
+c) von wem stammt bzw. stammte diese Software (Hersteller), 
+d) wurde der Einsatz zuvor durch eine Datenschutzstelle bewertet, und zu 
+welchem Ergebnis kam diese Stelle, 
+e) wurde dem Einsatz zuvor durch den Personal- bzw. Betriebsrat
+zugestimmt, sowie 
+f) wurde die Einf&#252;hrung intern oder extern evaluiert, und zu welchem
+Ergebnis bzw. zu welchen Folgerungen kam die Evaluation 
+(bitte f&#252;r jedes Programm bzw. f&#252;r jede Funktionalit&#228;t getrennt darstellen)? 
+Falls nein, warum hat sich nach Kenntnis der Bundesregierung die
+Bundesagentur f&#252;r Arbeit gegen eine Erprobung bzw. einen Einsatz derartiger
+Programme entschieden?
+14. Setzt nach Kenntnis der Bundesregierung die Bundesagentur f&#252;r Arbeit bzw. 
+setzen die Jobcenter (gemeinsame Einrichtungen) teil- oder
+vollautomatisierte Programme in der Personalverwaltung und Personalentwicklung 
+(&#8222;Personal Analytics&#8220; und/oder &#8222;People Analytics&#8220;, vgl. Kornwachs 2018) 
+ein, oder wird oder wurde der Einsatz erprobt, und falls ja, 
+a) welchen Umfang bzw. welche Funktionalit&#228;t hatte bzw. hat die
+eingesetzte Software, 
+b) wo wird bzw. wurde die Software eingesetzt, 
+c) von wem stammt bzw. stammte diese Software (Hersteller), 
+d) wurde der Einsatz zuvor durch eine Datenschutzstelle bewertet, und zu 
+welchem Ergebnis kam diese Stelle, 
+e) wurde dem Einsatz zuvor durch den Personal- bzw. Betriebsrat
+zugestimmt, sowie 
+f) wurde die Einf&#252;hrung intern oder extern evaluiert, und zu welchem
+Ergebnis bzw. zu welchen Folgerungen kam die Evaluation 
+(bitte f&#252;r jedes Programm bzw. f&#252;r jede Funktionalit&#228;t getrennt darstellen)? 
+Falls nein, warum hat sich nach Kenntnis der Bundesregierung die
+Bundesagentur f&#252;r Arbeit gegen eine Erprobung bzw. einen Einsatz derartiger
+Programme entschieden? 
+15. Setzt nach Kenntnis der Bundesregierung die Bundesagentur f&#252;r Arbeit
+teiloder vollautomatisierte Programme, z. B. zur automatisierten Auswertung 
+von Lebensl&#228;ufen, und/oder Text- und Sprachanalysesoftware, wie z. B. 
+&#8222;Precire&#8220; oder &#228;hnliche, gegen&#252;ber ihren Kundinnen und Kunden nach dem 
+Dritten Buch Sozialgesetzbuch (SGB III) ein, oder wird oder wurde der
+Einsatz erprobt, und falls ja, 
+a) welchen Umfang bzw. welche Funktionalit&#228;t hatte bzw. hat die
+eingesetzte Software, 
+b) wo wird bzw. wurde die Software eingesetzt, 
+c) von wem stammt bzw. stammte diese Software (Hersteller), 
+d) wurde der Einsatz zuvor durch eine Datenschutzstelle bewertet, und zu 
+welchem Ergebnis kam diese Stelle, 
+e) ist der Einsatz den davon betroffenen Kundinnen und Kunden vorab
+bekannt, 
+f) ist der Einsatz f&#252;r die davon betroffenen Kundinnen und Kunden
+freiwillig, 
+g) welchen Zweck verfolgt der Einsatz jeweils, sowie 
+h) wurde die Einf&#252;hrung intern oder extern evaluiert, und zu welchem
+Ergebnis bzw. zu welchen Folgerungen kam die Evaluation 
+(bitte f&#252;r jedes Programm bzw. f&#252;r jede Funktionalit&#228;t getrennt darstellen)? 
+Falls nein, warum hat sich nach Kenntnis der Bundesregierung die
+Bundesagentur f&#252;r Arbeit gegen eine Erprobung bzw. einen Einsatz derartiger
+Programme entschieden? 
+Sind Erprobungen in der Zukunft geplant oder werden diese erwogen?
+16. Setzen nach Kenntnis der Bundesregierung die Jobcenter teil- oder
+vollautomatisierte Programme, z. B. zur automatisierten Auswertung von
+Lebensl&#228;ufen, und/oder Text- und Sprachanalysesoftware, wie z. B. &#8222;Precire&#8220; oder 
+&#228;hnliche, gegen&#252;ber ihren Kundinnen und Kunden nach dem Zweiten Buch 
+Sozialgesetzbuch (SGB II) ein, oder wird oder wurde der Einsatz erprobt 
+(bitte f&#252;r Jobcenter &#8211; gemeinsame Einrichtungen &#8211; und Jobcentern in
+kommunaler Tr&#228;gerschaft getrennt darstellen)? 
+Falls ja, 
+a) welchen Umfang bzw. welche Funktionalit&#228;t hatte bzw. hat die
+eingesetzte Software, 
+b) wo wird bzw. wurde die Software eingesetzt, 
+c) von wem stammt bzw. stammte diese Software (Hersteller),  
+d) wurde der Einsatz zuvor durch eine Datenschutzstelle bewertet, und zu 
+welchem Ergebnis kam diese Stelle, 
+e) ist der Einsatz den davon betroffenen Kundinnen und Kunden vorab
+bekannt, 
+f) ist der Einsatz f&#252;r die davon betroffenen Kundinnen und Kunden
+freiwillig,  
+g) welchen Zweck verfolgt der Einsatz jeweils, sowie 
+h) wurde die Einf&#252;hrung intern oder extern evaluiert, und zu welchem
+Ergebnis bzw. zu welchen Folgerungen kam die Evaluation 
+(bitte f&#252;r jedes Programm bzw. f&#252;r jede Funktionalit&#228;t getrennt darstellen)? 
+Falls nein, warum haben sich nach Kenntnis der Bundesregierung die
+Jobcenter gegen eine Erprobung bzw. einen Einsatz derartiger Programme
+entschieden? 
+Sind Erprobungen in der Zukunft geplant oder werden diese erwogen? 
+Berlin, den 29. Juli 2019  
+Dr. Sahra Wagenknecht, Dr. Dietmar Bartsch und Fraktion
+ 
+ 
+ 
+Satz: Satzweiss.com Print, Web, Software GmbH, Mainzer Stra&#223;e 116, 66121 Saarbr&#252;cken, www.satzweiss.com 
+Druck: Printsystem GmbH, Schafw&#228;sche 1-3, 71296 Heimsheim, www.printsystem.de 
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de 
+ISSN 0722-8333]</text>
+    <titel>Einsatz von automatisierten Entscheidungssystemen und K&#252;nstlicher Intelligenz
+in der Personalauswahl, Personalverwaltung und Personalentwicklung</titel>
+    <datum>2019-08-16</datum>
+  </document>

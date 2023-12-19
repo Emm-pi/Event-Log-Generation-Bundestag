@@ -1,0 +1,2734 @@
+<?xml version="1.0" ?>
+<log xes.version="1.0" xes.features="nested-attributes">
+  <extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext"/>
+  <extension name="Organizational" prefix="org" uri="http://www.xes-standard.org/org.xesext"/>
+  <extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext"/>
+  <global scope="trace">
+    <string key="concept:name" value=""/>
+  </global>
+  <global scope="event">
+    <string key="concept:name" value=""/>
+    <date key="time:timestamp" value="1970-01-01T00:00:00.000+00:00"/>
+  </global>
+  <classifier name="drucksachetyp" keys="concept:name"/>
+  <trace>
+    <string key="concept:name" value="272692"/>
+    <event>
+      <string key="concept:name" value="Verordnung"/>
+      <string key="vorgangsbezug" value="272692"/>
+      <date key="time:timestamp" value="2021-01-19T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/26009"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="249446"/>
+      <string key="titel" value="Verordnung über die Aufstellung von Wahlbewerbern und die Wahl der Vertreter für die Vertreterversammlungen für die Wahl zum 20. Deutschen Bundestag unter den Bedingungen der COVID-19-Pandemie (COVID-19-Wahlbewerberaufstellungsverordnung)"/>
+      <string key="org:resource" value="Bundesministerium des Innern, für Bau und Heimat"/>
+      <string key="org:role" value="Sonstiges">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Bundesministerium des Innern, für Bau und Heimat"/>
+      </string>
+      <string key="vorgangsbezug" value="Verordnung über die Aufstellung von Wahlbewerbern und die Wahl der Vertreter für die Vertreterversammlungen für die Wahl zum 20. Deutschen Bundestag unter den Bedingungen der COVID-19-Pandemie (COVID-19-Wahlbewerberaufstellungsverordnung)">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="272692"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/260/1926009.pdf">
+        <date key="verteildatum" value="2021-01-20"/>
+        <string key="pdf_hash" value="6700048450be432c3aaa8e6d5bdd1b14"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="272692"/>
+      <date key="time:timestamp" value="2021-01-27T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/26244"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="249714"/>
+      <string key="titel" value="zu der Verordnung des Bundesministeriums des Innern, für Bau und Heimat
+- Drucksache 19/26009 -
+Verordnung über die Aufstellung von Wahlbewerbern und die Wahl der Vertreter für die Vertreterversammlungen für die Wahl zum 20. Deutschen Bundestag unter den Bedingungen der COVID-19-Pandemie (COVID-19-Wahlbewerberaufstellungsverordnung)"/>
+      <string key="org:resource" value="Ausschuss für Inneres und Heimat"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Inneres und Heimat"/>
+      </string>
+      <string key="vorgangsbezug" value="Verordnung über die Aufstellung von Wahlbewerbern und die Wahl der Vertreter für die Vertreterversammlungen für die Wahl zum 20. Deutschen Bundestag unter den Bedingungen der COVID-19-Pandemie (COVID-19-Wahlbewerberaufstellungsverordnung)">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="272692"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Britta Haßelmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 118"/>
+        <string key="autor" value="Jochen Haug, MdB, AfD, 2208"/>
+        <string key="autor" value="Ansgar Heveling, MdB, CDU/CSU, 1061"/>
+        <string key="autor" value="Konstantin Kuhle, MdB, FDP, 2264"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/262/1926244.pdf">
+        <date key="verteildatum" value="2021-01-27"/>
+        <string key="pdf_hash" value="03f630074a6e1e28e7c3a545e4c15a3a"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="264070"/>
+    <event>
+      <string key="concept:name" value="Verordnung"/>
+      <string key="vorgangsbezug" value="264070"/>
+      <date key="time:timestamp" value="2020-06-24T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/20350"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="242607"/>
+      <string key="titel" value="Dritte Verordnung zur Änderung der Altfahrzeug-Verordnung"/>
+      <string key="org:resource" value="Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Dritte Verordnung zur Änderung der Altfahrzeug-Verordnung">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="264070"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/203/1920350.pdf">
+        <string key="pdf_hash" value="377375835a386b484c32b8c1e453b151"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="264070"/>
+      <date key="time:timestamp" value="2020-09-16T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/22576"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="245175"/>
+      <string key="titel" value="zu der Verordnung der Bundesregierung
+- Drucksachen 19/20350, 19/20806 Nr.2.2 -
+Dritte Verordnung zur Änderung der Altfahrzeug-Verordnung"/>
+      <string key="org:resource" value="Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"/>
+      </string>
+      <string key="vorgangsbezug" value="Dritte Verordnung zur Änderung der Altfahrzeug-Verordnung">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="264070"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Marc Bernhard, MdB, AfD, 2066"/>
+        <string key="autor" value="Dr. Bettina Hoffmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 7550"/>
+        <string key="autor" value="Ralph Lenkert, MdB, DIE LINKE, 1162"/>
+        <string key="autor" value="Björn Simon, MdB, CDU/CSU, 2135"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/225/1922576.pdf">
+        <date key="verteildatum" value="2020-09-16"/>
+        <string key="pdf_hash" value="19a5483d1d71326b8d088ea8bc63dd75"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="259328"/>
+    <event>
+      <string key="concept:name" value="Verordnung"/>
+      <string key="vorgangsbezug" value="259328"/>
+      <date key="time:timestamp" value="2020-02-24T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/17344"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="238906"/>
+      <string key="titel" value="Verordnung über die Vermeidung und die Kompensation von Eingriffen in Natur und Landschaft im Zuständigkeitsbereich der Bundesverwaltung 
+(Bundeskompensationsverordnung – BKompV)"/>
+      <string key="org:resource" value="Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit"/>
+      <string key="org:role" value="Sonstiges">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit"/>
+      </string>
+      <string key="vorgangsbezug" value="Verordnung über die Vermeidung und die Kompensation von Eingriffen in Natur und Landschaft im Zuständigkeitsbereich der Bundesverwaltung 
+(Bundeskompensationsverordnung - BKompV)">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="259328"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/173/1917344.pdf">
+        <string key="pdf_hash" value="ef09e315b28793cf3242f47538155c2c"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Unterrichtung"/>
+      <string key="vorgangsbezug" value="259328"/>
+      <date key="time:timestamp" value="2020-03-06T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/17663"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="239244"/>
+      <string key="titel" value="über die gemäß § 80 Absatz 3 und § 92 der Geschäftsordnung an die Ausschüsse überwiesenen Vorlagen
+(Eingangszeitraum: 13. bis 24. Februar 2020)"/>
+      <string key="org:resource" value="Bundestag"/>
+      <string key="org:role" value="Sonstiges">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Bundestag"/>
+      </string>
+      <string key="vorgangsbezug" value="Verordnung über die Vermeidung und die Kompensation von Eingriffen in Natur und Landschaft im Zuständigkeitsbereich der Bundesverwaltung 
+(Bundeskompensationsverordnung - BKompV)">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="259328"/>
+        <int key="vorgangsbezug_anzahl" value="4"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/176/1917663.pdf">
+        <string key="pdf_hash" value="abc93af8f2068416b121946bfcc4ed1b"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="270853"/>
+    <event>
+      <string key="concept:name" value="Verordnung"/>
+      <string key="vorgangsbezug" value="270853"/>
+      <date key="time:timestamp" value="2020-12-02T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/24906"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="248113"/>
+      <string key="titel" value="Verordnung zur Neufassung der Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen und zur Änderung der Verordnung über die Verbrennung und die Mitverbrennung von Abfällen"/>
+      <string key="org:resource" value="Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Verordnung zur Neufassung der Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen und zur Änderung der Verordnung über die Verbrennung und die Mitverbrennung von Abfällen">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="270853"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/249/1924906.pdf">
+        <date key="verteildatum" value="2020-12-02"/>
+        <string key="pdf_hash" value="c9bd75b3e26ee8efa65bf2e3f9f44c7f"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Entschließungsantrag"/>
+      <string key="vorgangsbezug" value="270853"/>
+      <date key="time:timestamp" value="2021-01-27T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/26246"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="249716"/>
+      <string key="titel" value="zu der Beratung der Verordnung der Bundesregierung
+- Drucksachen 19/24906, 19/25170 Nr. 2, 19/26212 -
+Verordnung zur Neufassung der Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen und zur Änderung der Verordnung über die Verbrennung und die Mitverbrennung von Abfällen"/>
+      <string key="org:resource" value="Fraktion BÜNDNIS 90/DIE GRÜNEN">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion BÜNDNIS 90/DIE GRÜNEN"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Verordnung zur Neufassung der Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen und zur Änderung der Verordnung über die Verbrennung und die Mitverbrennung von Abfällen">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="270853"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Dr. Bettina Hoffmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 7550"/>
+        <string key="autor" value="Annalena Baerbock, MdB, BÜNDNIS 90/DIE GRÜNEN, 7510"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/262/1926246.pdf">
+        <date key="verteildatum" value="2021-01-27"/>
+        <string key="pdf_hash" value="fa394c2a974c7c57df544c0500942150"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="270853"/>
+      <date key="time:timestamp" value="2021-01-27T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/26212"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="249706"/>
+      <string key="titel" value="zu der Verordnung der Bundesregierung
+- Drucksachen 19/24906, 19/25170 Nr. 2 -
+Verordnung zur Neufassung der Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen und zur Änderung der Verordnung über die Verbrennung und die Mitverbrennung von Abfällen"/>
+      <string key="org:resource" value="Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"/>
+      </string>
+      <string key="vorgangsbezug" value="Verordnung zur Neufassung der Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen und zur Änderung der Verordnung über die Verbrennung und die Mitverbrennung von Abfällen">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="270853"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Dr. Bettina Hoffmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 7550"/>
+        <string key="autor" value="Dr. Rainer Kraft, MdB, AfD, 2260"/>
+        <string key="autor" value="Thomas Lutze, MdB, DIE LINKE, 7674"/>
+        <string key="autor" value="Karsten Möring, MdB, CDU/CSU, 1523"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/262/1926212.pdf">
+        <date key="verteildatum" value="2021-01-27"/>
+        <string key="pdf_hash" value="d1ef74e456a1c25c586bfbaf8ee9353a"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Verordnung"/>
+      <string key="vorgangsbezug" value="270853"/>
+      <date key="time:timestamp" value="2021-05-12T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/29628"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="254010"/>
+      <string key="titel" value="Verordnung zur Neufassung der Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen und zur Änderung der Verordnung über die Verbrennung und die Mitverbrennung von Abfällen"/>
+      <string key="org:resource" value="Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Verordnung zur Neufassung der Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen und zur Änderung der Verordnung über die Verbrennung und die Mitverbrennung von Abfällen">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="270853"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/296/1929628.pdf">
+        <date key="verteildatum" value="2021-05-12"/>
+        <string key="pdf_hash" value="f46d27a08fc1cdb005090bbee3455f10"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Unterrichtung"/>
+      <string key="vorgangsbezug" value="270853"/>
+      <date key="time:timestamp" value="2021-05-21T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/29997"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="254437"/>
+      <string key="titel" value="über die gemäß § 80 Absatz 3 und § 92 der Geschäftsordnung an die Ausschüsse überwiesenen Vorlagen
+(Eingangszeitraum: 22. April bis 19. Mai 2021)"/>
+      <string key="org:resource" value="Bundestag"/>
+      <string key="org:role" value="Sonstiges">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Bundestag"/>
+      </string>
+      <string key="vorgangsbezug" value="Verordnung zur Neufassung der Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen und zur Änderung der Verordnung über die Verbrennung und die Mitverbrennung von Abfällen">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="270853"/>
+        <int key="vorgangsbezug_anzahl" value="20"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/299/1929997.pdf">
+        <date key="verteildatum" value="2021-05-21"/>
+        <string key="pdf_hash" value="ecde95eb620397dffd0f786d4f460fce"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="270853"/>
+      <date key="time:timestamp" value="2021-06-09T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/30494"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="255220"/>
+      <string key="titel" value="zu der Verordnung der Bundesregierung
+- Drucksachen 19/29628, 19/29997 Nr. 2.2 -
+Verordnung zur Neufassung der Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen und zur Änderung der Verordnung über die Verbrennung und die Mitverbrennung von Abfällen"/>
+      <string key="org:resource" value="Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"/>
+      </string>
+      <string key="vorgangsbezug" value="Verordnung zur Neufassung der Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen und zur Änderung der Verordnung über die Verbrennung und die Mitverbrennung von Abfällen">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="270853"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Dr. Bettina Hoffmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 7550"/>
+        <string key="autor" value="Dr. Rainer Kraft, MdB, AfD, 2260"/>
+        <string key="autor" value="Ralph Lenkert, MdB, DIE LINKE, 1162"/>
+        <string key="autor" value="Karsten Möring, MdB, CDU/CSU, 1523"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/304/1930494.pdf">
+        <date key="verteildatum" value="2021-06-09"/>
+        <string key="pdf_hash" value="a0117fe60db1257e02eb84aee71f1898"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="277450"/>
+    <event>
+      <string key="concept:name" value="Verordnung"/>
+      <string key="vorgangsbezug" value="277450"/>
+      <date key="time:timestamp" value="2021-05-04T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/29257"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="253481"/>
+      <string key="titel" value="Verordnung zur Regelung von Erleichterungen und Ausnahmen von Schutzmaßnahmen zur Verhinderung der Verbreitung von COVID-19
+(COVID-19-Schutzmaßnahmen-Ausnahmenverordnung - SchAusnahmV)"/>
+      <string key="org:resource" value="Bundesministerium der Justiz und für Verbraucherschutz">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Verordnung zur Regelung von Erleichterungen und Ausnahmen von Schutzmaßnahmen zur Verhinderung der Verbreitung von COVID-19
+(COVID-19-Schutzmaßnahmen-Ausnahmenverordnung - SchAusnahmV)">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="277450"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/292/1929257.pdf">
+        <date key="verteildatum" value="2021-05-07"/>
+        <string key="pdf_hash" value="391a68446fd4dee81815fe4b67b396ae"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Entschließungsantrag"/>
+      <string key="vorgangsbezug" value="277450"/>
+      <date key="time:timestamp" value="2021-05-05T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/29405"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="253636"/>
+      <string key="titel" value="zu der Beratung der Verordnung der Bundesregierung
+- Drucksachen 19/29257, 19/29397 -
+Verordnung zur Regelung von Erleichterungen und Ausnahmen von Schutzmaßnahmen zur Verhinderung der Verbreitung von COVID-19
+(COVID-19-Schutzmaßnahmen-Ausnahmenverordnung - SchAusnahmV)
+"/>
+      <string key="org:resource" value="Fraktion der FDP">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion der FDP"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Verordnung zur Regelung von Erleichterungen und Ausnahmen von Schutzmaßnahmen zur Verhinderung der Verbreitung von COVID-19
+(COVID-19-Schutzmaßnahmen-Ausnahmenverordnung - SchAusnahmV)">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="277450"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Stephan Thomae, MdB, FDP, 1152"/>
+        <string key="autor" value="Michael Theurer, MdB, FDP, 7549"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/294/1929405.pdf">
+        <date key="verteildatum" value="2021-05-05"/>
+        <string key="pdf_hash" value="5939d04721401f10c6245e4b7d9895fe"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="277450"/>
+      <date key="time:timestamp" value="2021-05-05T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/29397"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="253622"/>
+      <string key="titel" value="zu der Verordnung der Bundesregierung
+- Drucksache 19/29257-
+Verordnung zur Regelung von Erleichterungen und Ausnahmen von Schutzmaßnahmen zur Verhinderung der Verbreitung von COVID-19
+(COVID-19-Schutzmaßnahmen-Ausnahmenverordnung - SchAusnahmV)
+"/>
+      <string key="org:resource" value="Ausschuss für Recht und Verbraucherschutz"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Recht und Verbraucherschutz"/>
+      </string>
+      <string key="vorgangsbezug" value="Verordnung zur Regelung von Erleichterungen und Ausnahmen von Schutzmaßnahmen zur Verhinderung der Verbreitung von COVID-19
+(COVID-19-Schutzmaßnahmen-Ausnahmenverordnung - SchAusnahmV)">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="277450"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Dr.  Johannes Fechner, MdB, SPD, 1550"/>
+        <string key="autor" value="Katrin Helling-Plahr, MdB, FDP, 2211"/>
+        <string key="autor" value="Jens Maier, MdB, AfD, 1987"/>
+        <string key="autor" value="Niema Movassat, MdB, DIE LINKE, 1201"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/293/1929397.pdf">
+        <date key="verteildatum" value="2021-05-05"/>
+        <string key="pdf_hash" value="94b7f97a871797bd24633254e87d2aff"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="273671"/>
+    <event>
+      <string key="concept:name" value="Verordnung"/>
+      <string key="vorgangsbezug" value="273671"/>
+      <date key="time:timestamp" value="2021-02-10T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/26554"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="250159"/>
+      <string key="titel" value="Verordnung über die Beschaffenheit und Kennzeichnung von bestimmten Einwegkunststoffprodukten (Einwegkunststoffkennzeichnungsverordnung - EWKKennzV)"/>
+      <string key="org:resource" value="Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Verordnung über die Beschaffenheit und Kennzeichnung von bestimmten Einwegkunststoffprodukten (Einwegkunststoffkennzeichnungsverordnung - EWKKennzV)">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="273671"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/265/1926554.pdf">
+        <date key="verteildatum" value="2021-02-10"/>
+        <string key="pdf_hash" value="8c7c767710023f275539f45de8fe2ed2"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Entschließungsantrag"/>
+      <string key="vorgangsbezug" value="273671"/>
+      <date key="time:timestamp" value="2021-03-24T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/27942"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="251929"/>
+      <string key="titel" value="zu Beratung der Verordnung der Bundesregierung
+- Drucksachen 19/26554, 19/27035 Nr. 2.1, 19/27904 -
+Verordnung über die Beschaffenheit und Kennzeichnung von bestimmten Einwegkunststoffprodukten
+(Einwegkunststoffkennzeichnungsverordnung - EWKKennzV)
+"/>
+      <string key="org:resource" value="Fraktion der FDP">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion der FDP"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Verordnung über die Beschaffenheit und Kennzeichnung von bestimmten Einwegkunststoffprodukten (Einwegkunststoffkennzeichnungsverordnung - EWKKennzV)">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="273671"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Judith Skudelny, MdB, FDP, 1118"/>
+        <string key="autor" value="Frank Sitta, MdB, FDP, 2136"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/279/1927942.pdf">
+        <date key="verteildatum" value="2021-03-24"/>
+        <string key="pdf_hash" value="6a979c2e565b59759ffca00d106ca79c"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="273671"/>
+      <date key="time:timestamp" value="2021-03-24T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/27904"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="251891"/>
+      <string key="titel" value="zu der Verordnung der Bundesregierung
+- Drucksachen 19/26554, 19/27035 Nr. 2.1 -
+Verordnung über die Beschaffenheit und Kennzeichnung von bestimmten Einwegkunststoffprodukten
+(Einwegkunststoffkennzeichnungsverordnung - EWKKennzV)"/>
+      <string key="org:resource" value="Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"/>
+      </string>
+      <string key="vorgangsbezug" value="Verordnung über die Beschaffenheit und Kennzeichnung von bestimmten Einwegkunststoffprodukten (Einwegkunststoffkennzeichnungsverordnung - EWKKennzV)">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="273671"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Andreas Bleck, MdB, AfD, 2071"/>
+        <string key="autor" value="Dr. Bettina Hoffmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 7550"/>
+        <string key="autor" value="Ralph Lenkert, MdB, DIE LINKE, 1162"/>
+        <string key="autor" value="Björn Simon, MdB, CDU/CSU, 2135"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/279/1927904.pdf">
+        <date key="verteildatum" value="2021-03-24"/>
+        <string key="pdf_hash" value="a76f8d07519f592b71a19bf155c11644"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Verordnung"/>
+      <string key="vorgangsbezug" value="273671"/>
+      <date key="time:timestamp" value="2021-05-12T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/29627"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="254009"/>
+      <string key="titel" value="Verordnung über die Beschaffenheit und Kennzeichnung von bestimmten Einwegkunststoffprodukten
+(Einwegkunststoffkennzeichnungsverordnung - EWKKennzV)"/>
+      <string key="org:resource" value="Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Verordnung über die Beschaffenheit und Kennzeichnung von bestimmten Einwegkunststoffprodukten (Einwegkunststoffkennzeichnungsverordnung - EWKKennzV)">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="273671"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/296/1929627.pdf">
+        <date key="verteildatum" value="2021-05-12"/>
+        <string key="pdf_hash" value="c7f3aadc0507ba93a0e2f78226d6f1c7"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Unterrichtung"/>
+      <string key="vorgangsbezug" value="273671"/>
+      <date key="time:timestamp" value="2021-05-21T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/29997"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="254437"/>
+      <string key="titel" value="über die gemäß § 80 Absatz 3 und § 92 der Geschäftsordnung an die Ausschüsse überwiesenen Vorlagen
+(Eingangszeitraum: 22. April bis 19. Mai 2021)"/>
+      <string key="org:resource" value="Bundestag"/>
+      <string key="org:role" value="Sonstiges">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Bundestag"/>
+      </string>
+      <string key="vorgangsbezug" value="Verordnung über die Beschaffenheit und Kennzeichnung von bestimmten Einwegkunststoffprodukten (Einwegkunststoffkennzeichnungsverordnung - EWKKennzV)">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="273671"/>
+        <int key="vorgangsbezug_anzahl" value="20"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/299/1929997.pdf">
+        <date key="verteildatum" value="2021-05-21"/>
+        <string key="pdf_hash" value="ecde95eb620397dffd0f786d4f460fce"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="273671"/>
+      <date key="time:timestamp" value="2021-06-09T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/30499"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="255225"/>
+      <string key="titel" value="zu der Verordnung der Bundesregierung
+- Drucksache 19/29627-
+Verordnung über die Beschaffenheit und Kennzeichnung von bestimmten Einwegkunststoffprodukten
+(Einwegkunststoffkennzeichnungsverordnung - EWKKennzV)
+"/>
+      <string key="org:resource" value="Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"/>
+      </string>
+      <string key="vorgangsbezug" value="Verordnung über die Beschaffenheit und Kennzeichnung von bestimmten Einwegkunststoffprodukten (Einwegkunststoffkennzeichnungsverordnung - EWKKennzV)">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="273671"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Andreas Bleck, MdB, AfD, 2071"/>
+        <string key="autor" value="Dr. Bettina Hoffmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 7550"/>
+        <string key="autor" value="Ralph Lenkert, MdB, DIE LINKE, 1162"/>
+        <string key="autor" value="Björn Simon, MdB, CDU/CSU, 2135"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/304/1930499.pdf">
+        <date key="verteildatum" value="2021-06-09"/>
+        <string key="pdf_hash" value="7021223df5faad99772fd7e73ba8715b"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="261005"/>
+    <event>
+      <string key="concept:name" value="Verordnung"/>
+      <string key="vorgangsbezug" value="261005"/>
+      <date key="time:timestamp" value="2020-04-08T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/18471"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="240230"/>
+      <string key="titel" value="Zweite Verordnung zur Änderung der Sechzehnten Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verkehrslärmschutzverordnung - 16. BImSchV)"/>
+      <string key="org:resource" value="Bundesministerium für Verkehr und digitale Infrastruktur">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Zweite Verordnung zur Änderung der Sechzehnten Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verkehrslärmschutzverordnung - 16. BImSchV)">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="261005"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/184/1918471.pdf">
+        <string key="pdf_hash" value="10eaf9d43cb70f9036d3fb2de4e08e64"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Entschließungsantrag"/>
+      <string key="vorgangsbezug" value="261005"/>
+      <date key="time:timestamp" value="2020-05-13T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/19205"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="241079"/>
+      <string key="titel" value="zu der Beratung der Verordnung der Bundesregierung
+- Drucksachen 19/18471, 19/18779 Nr. 2, 19/19197 -
+Zweite Verordnung zur Änderung der Sechzehnten Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verkehrslärmschutzverordnung - 16. BImSchV)"/>
+      <string key="org:resource" value="Fraktion BÜNDNIS 90/DIE GRÜNEN">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion BÜNDNIS 90/DIE GRÜNEN"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Zweite Verordnung zur Änderung der Sechzehnten Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verkehrslärmschutzverordnung - 16. BImSchV)">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="261005"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Daniela Wagner, MdB, BÜNDNIS 90/DIE GRÜNEN, 1139"/>
+        <string key="autor" value="Dr. Bettina Hoffmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 7550"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/192/1919205.pdf">
+        <string key="pdf_hash" value="33059c2dfd026010b3411bfe3c523852"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="261005"/>
+      <date key="time:timestamp" value="2020-05-13T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/19197"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="241073"/>
+      <string key="titel" value="zu der Verordnung der Bundesregierung
+- Drucksachen 19/18471, 19/18779 Nr. 2 -
+Zweite Verordnung zur Änderung der Sechzehnten Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verkehrslärmschutzverordnung - 16. BImSchV)"/>
+      <string key="org:resource" value="Ausschuss für Verkehr und digitale Infrastruktur"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Verkehr und digitale Infrastruktur"/>
+      </string>
+      <string key="vorgangsbezug" value="Zweite Verordnung zur Änderung der Sechzehnten Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verkehrslärmschutzverordnung - 16. BImSchV)">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="261005"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Daniela Kluckert, MdB, FDP, 7547"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/191/1919197.pdf">
+        <string key="pdf_hash" value="c8e7d1bf8540e623c11cf6e6c44375ab"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Verordnung"/>
+      <string key="vorgangsbezug" value="261005"/>
+      <date key="time:timestamp" value="2020-08-19T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/21751"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="244333"/>
+      <string key="titel" value="Zweite Verordnung zur Änderung der Sechzehnten Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verkehrslärmschutzverordnung - 16. BImSchV)"/>
+      <string key="org:resource" value="Bundesministerium für Verkehr und digitale Infrastruktur">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Zweite Verordnung zur Änderung der Sechzehnten Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verkehrslärmschutzverordnung - 16. BImSchV)">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="261005"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/217/1921751.pdf">
+        <string key="pdf_hash" value="1d074d38dbfa880e8a047826ccbc57df"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Unterrichtung"/>
+      <string key="vorgangsbezug" value="261005"/>
+      <date key="time:timestamp" value="2020-09-11T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/22346"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="244905"/>
+      <string key="titel" value="über die gemäß § 80 Absatz 3 und § 92 der Geschäftsordnung 
+an die Ausschüsse überwiesenen Vorlagen
+(Eingangszeitraum: 15. Juni bis 2. September 2020)"/>
+      <string key="org:resource" value="Bundestag"/>
+      <string key="org:role" value="Sonstiges">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Bundestag"/>
+      </string>
+      <string key="vorgangsbezug" value="Zweite Verordnung zur Änderung der Sechzehnten Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verkehrslärmschutzverordnung - 16. BImSchV)">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="261005"/>
+        <int key="vorgangsbezug_anzahl" value="23"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/223/1922346.pdf">
+        <date key="verteildatum" value="2020-10-07"/>
+        <string key="pdf_hash" value="a53db49a4125d6707fd8bf646c3f81ee"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="261005"/>
+      <date key="time:timestamp" value="2020-10-07T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/23174"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="245984"/>
+      <string key="titel" value="zu dem Verordnung der Bundesregierung
+- Drucksachen 19/21751, 19/22346 Nr. 2 -
+Zweite Verordnung zur Änderung der Sechzehnten Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verkehrslärmschutzverordnung - 16. BImSchV)"/>
+      <string key="org:resource" value="Ausschuss für Verkehr und digitale Infrastruktur"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Verkehr und digitale Infrastruktur"/>
+      </string>
+      <string key="vorgangsbezug" value="Zweite Verordnung zur Änderung der Sechzehnten Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verkehrslärmschutzverordnung - 16. BImSchV)">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="261005"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Daniela Wagner, MdB, BÜNDNIS 90/DIE GRÜNEN, 1139"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/231/1923174.pdf">
+        <date key="verteildatum" value="2020-10-07"/>
+        <string key="pdf_hash" value="2da6e75c5343eb53c68b5c1fa0c516ca"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="247954"/>
+    <event>
+      <string key="concept:name" value="Verordnung"/>
+      <string key="vorgangsbezug" value="247954"/>
+      <date key="time:timestamp" value="2019-05-13T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/10082"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="229085"/>
+      <string key="titel" value="Verordnung zur Durchführung der Betäubung mit Isofluran bei der Ferkelkastration durch sachkundige Personen
+(Ferkelbetäubungssachkundeverordnung - FerkBetSachkV)"/>
+      <string key="org:resource" value="Bundesministerium für Ernährung und Landwirtschaft"/>
+      <string key="org:role" value="Sonstiges">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Bundesministerium für Ernährung und Landwirtschaft"/>
+      </string>
+      <string key="vorgangsbezug" value="Verordnung zur Durchführung der Betäubung mit Isofluran bei der Ferkelkastration durch sachkundige Personen
+(Ferkelbetäubungssachkundeverordnung - FerkBetSachkV)">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="247954"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/100/1910082.pdf">
+        <date key="verteildatum" value="2019-06-03"/>
+        <string key="pdf_hash" value="f905d1ded4f587225c755304f0010bb7"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Unterrichtung"/>
+      <string key="vorgangsbezug" value="247954"/>
+      <date key="time:timestamp" value="2019-05-17T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/10315"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="229327"/>
+      <string key="titel" value="über die gemäß § 80 Absatz 3 und § 92 der Geschäftsordnung an die Ausschüsse überwiesenen Vorlagen
+(Eingangszeitraum: 6. bis 13. Mai 2019)"/>
+      <string key="org:resource" value="Bundestag"/>
+      <string key="org:role" value="Sonstiges">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Bundestag"/>
+      </string>
+      <string key="vorgangsbezug" value="Verordnung zur Durchführung der Betäubung mit Isofluran bei der Ferkelkastration durch sachkundige Personen
+(Ferkelbetäubungssachkundeverordnung - FerkBetSachkV)">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="247954"/>
+        <int key="vorgangsbezug_anzahl" value="2"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/103/1910315.pdf">
+        <date key="verteildatum" value="2019-07-23"/>
+        <string key="pdf_hash" value="54a9d155fcf12a37f4c065b27ddc904d"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="247954"/>
+      <date key="time:timestamp" value="2019-06-07T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/10776"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="229955"/>
+      <string key="titel" value="zu der Verordnung des Bundesministeriums für  Ernährung und Landwirtschaft
+- Drucksachen 19/10082, 19/10315 Nr. 2 -
+Verordnung zur Durchführung der Betäubung mit Isofluran bei der Ferkelkastration durch sachkundige Personen
+(Ferkelbetäubungssachkundeverordnung - FerkBetSachkV)"/>
+      <string key="org:resource" value="Ausschuss für Ernährung und Landwirtschaft"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Ernährung und Landwirtschaft"/>
+      </string>
+      <string key="vorgangsbezug" value="Verordnung zur Durchführung der Betäubung mit Isofluran bei der Ferkelkastration durch sachkundige Personen
+(Ferkelbetäubungssachkundeverordnung - FerkBetSachkV)">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="247954"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Silvia Breher, MdB, CDU/CSU, 2079"/>
+        <string key="autor" value="Carina Konrad, MdB, FDP, 2257"/>
+        <string key="autor" value="Susanne Mittag, MdB, SPD, 1522"/>
+        <string key="autor" value="Friedrich Ostendorff, MdB, BÜNDNIS 90/DIE GRÜNEN, 1190"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/107/1910776.pdf">
+        <date key="verteildatum" value="2019-08-27"/>
+        <string key="pdf_hash" value="842b6aaf58c69abab2deeb64affd58d4"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Entschließungsantrag"/>
+      <string key="vorgangsbezug" value="247954"/>
+      <date key="time:timestamp" value="2019-06-25T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/11176"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="231487"/>
+      <string key="titel" value="zu der Beratung der Verordnung des Bundesministeriums für Ernährung und Landwirtschaft
+- Drucksachen 19/10082, 19/10315 Nr. 2, 19/10776 -
+Verordnung zur Durchführung der Betäubung mit Isofluran bei der Ferkelkastration durch sachkundige Personen
+(Ferkelbetäubungssachkundeverordnung - FerkBetSachkV)"/>
+      <string key="org:resource" value="Fraktion DIE LINKE">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion DIE LINKE"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Verordnung zur Durchführung der Betäubung mit Isofluran bei der Ferkelkastration durch sachkundige Personen
+(Ferkelbetäubungssachkundeverordnung - FerkBetSachkV)">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="247954"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Dr. Kirsten Tackmann, MdB, DIE LINKE, 189"/>
+        <string key="autor" value="Dr. Gesine Lötzsch, MdB, DIE LINKE, 121"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/111/1911176.pdf">
+        <string key="pdf_hash" value="9130229b31db1f45dad5867ce408e9e8"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="264068"/>
+    <event>
+      <string key="concept:name" value="Verordnung"/>
+      <string key="vorgangsbezug" value="264068"/>
+      <date key="time:timestamp" value="2020-06-24T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/20349"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="242606"/>
+      <string key="titel" value="Verordnung über das Verbot des Inverkehrbringens von bestimmten Einwegkunststoffprodukten und von Produkten aus oxo-abbaubarem Kunststoff
+(Einwegkunststoffverbotsverordnung - EWKVerbotsV)
+"/>
+      <string key="org:resource" value="Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Verordnung über das Verbot des Inverkehrbringens von bestimmten Einwegkunststoffprodukten und von Produkten aus oxo-abbaubarem Kunststoff
+(Einwegkunststoffverbotsverordnung - EWKVerbotsV)">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="264068"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/203/1920349.pdf">
+        <string key="pdf_hash" value="28590baa2a97adee47451c136efa1f11"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="264068"/>
+      <date key="time:timestamp" value="2020-09-16T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/22577"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="245176"/>
+      <string key="titel" value="zu der Verordnung der Bundesregierung
+- Drucksachen 19/20349, 19/20806 Nr. 2.1 -
+Verordnung über das Verbot des Inverkehrbringens von bestimmten Einwegkunststoffprodukten und von Produkten aus oxo-abbaubarem Kunststoff
+(Einwegkunststoffverbotsverordnung - EWKVerbotsV)
+"/>
+      <string key="org:resource" value="Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"/>
+      </string>
+      <string key="vorgangsbezug" value="Verordnung über das Verbot des Inverkehrbringens von bestimmten Einwegkunststoffprodukten und von Produkten aus oxo-abbaubarem Kunststoff
+(Einwegkunststoffverbotsverordnung - EWKVerbotsV)">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="264068"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Dr. Bettina Hoffmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 7550"/>
+        <string key="autor" value="Dr. Rainer Kraft, MdB, AfD, 2260"/>
+        <string key="autor" value="Ralph Lenkert, MdB, DIE LINKE, 1162"/>
+        <string key="autor" value="Björn Simon, MdB, CDU/CSU, 2135"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/225/1922577.pdf">
+        <date key="verteildatum" value="2020-09-16"/>
+        <string key="pdf_hash" value="67f682639c93f85a50d0f4524230352e"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Verordnung"/>
+      <string key="vorgangsbezug" value="264068"/>
+      <date key="time:timestamp" value="2020-11-18T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/24440"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="247556"/>
+      <string key="titel" value="Verordnung über das Verbot des Inverkehrbringens von bestimmten Einwegkunststoffprodukten und von Produkten aus oxo-abbaubarem Kunststoff
+(Einwegkunststoffverbotsverordnung - EWKVerbotsV)"/>
+      <string key="org:resource" value="Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Verordnung über das Verbot des Inverkehrbringens von bestimmten Einwegkunststoffprodukten und von Produkten aus oxo-abbaubarem Kunststoff
+(Einwegkunststoffverbotsverordnung - EWKVerbotsV)">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="264068"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/244/1924440.pdf">
+        <date key="verteildatum" value="2020-11-18"/>
+        <string key="pdf_hash" value="541d384b44d2f2f06f0696bbfb7d342e"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Unterrichtung"/>
+      <string key="vorgangsbezug" value="264068"/>
+      <date key="time:timestamp" value="2020-11-27T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/24795"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="247927"/>
+      <string key="titel" value="über die gemäß § 80 Absatz 3 und § 92 der Geschäftsordnung 
+an die Ausschüsse überwiesenen Vorlagen
+(Eingangszeitraum: 9. bis 18. November 2020)
+"/>
+      <string key="org:resource" value="Bundestag"/>
+      <string key="org:role" value="Sonstiges">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Bundestag"/>
+      </string>
+      <string key="vorgangsbezug" value="Verordnung über das Verbot des Inverkehrbringens von bestimmten Einwegkunststoffprodukten und von Produkten aus oxo-abbaubarem Kunststoff
+(Einwegkunststoffverbotsverordnung - EWKVerbotsV)">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="264068"/>
+        <int key="vorgangsbezug_anzahl" value="3"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/247/1924795.pdf">
+        <date key="verteildatum" value="2020-11-27"/>
+        <string key="pdf_hash" value="0a44d2641e20498eaca6d76abf39e93a"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="264068"/>
+      <date key="time:timestamp" value="2020-12-16T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/25324"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="248666"/>
+      <string key="titel" value="zu der Verordnung der Bundesregierung
+- Drucksachen 19/24440, 19/24795 Nr. 2 -
+Verordnung über das Verbot des Inverkehrbringens von bestimmten Einwegkunststoffprodukten und von Produkten aus oxo-abbaubarem Kunststoff
+(Einwegkunststoffverbotsverordnung - EWKVerbotsV)
+"/>
+      <string key="org:resource" value="Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"/>
+      </string>
+      <string key="vorgangsbezug" value="Verordnung über das Verbot des Inverkehrbringens von bestimmten Einwegkunststoffprodukten und von Produkten aus oxo-abbaubarem Kunststoff
+(Einwegkunststoffverbotsverordnung - EWKVerbotsV)">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="264068"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Andreas Bleck, MdB, AfD, 2071"/>
+        <string key="autor" value="Dr. Bettina Hoffmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 7550"/>
+        <string key="autor" value="Ralph Lenkert, MdB, DIE LINKE, 1162"/>
+        <string key="autor" value="Björn Simon, MdB, CDU/CSU, 2135"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/253/1925324.pdf">
+        <date key="verteildatum" value="2020-12-16"/>
+        <string key="pdf_hash" value="6aeba885fd0d744a2a8965814f1432a8"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="255601"/>
+    <event>
+      <string key="concept:name" value="Verordnung"/>
+      <string key="vorgangsbezug" value="255601"/>
+      <date key="time:timestamp" value="2019-11-20T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/15312"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="236365"/>
+      <string key="titel" value="Verordnung zur Bestimmung von Mindestanforderungen für energetische Maßnahmen bei zu eigenen Wohnzwecken genutzten Gebäuden nach § 35c des Einkommensteuergesetzes (Energetische Sanierungsmaßnahmen-Verordnung - ESanMV)"/>
+      <string key="org:resource" value="Bundesministerium der Finanzen">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Verordnung zur Bestimmung von Mindestanforderungen für energetische Maßnahmen bei zu eigenen Wohnzwecken genutzten Gebäuden nach § 35c des Einkommensteuergesetzes (Energetische Sanierungsmaßnahmen-Verordnung - ESanMV)">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="255601"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/153/1915312.pdf">
+        <string key="pdf_hash" value="98f358eadd0a2aa85392bb2e0ef30b6f"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="255601"/>
+      <date key="time:timestamp" value="2019-12-18T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/16141"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="237366"/>
+      <string key="titel" value="zu der Verordnung der Bundesregierung
+- Drucksachen 19/15312, 19/15584 Nr. 2 -
+Verordnung zur Bestimmung von Mindestanforderungen für energetische Maßnahmen bei zu eigenen Wohnzwecken genutzten Gebäuden nach § 35c des Einkommensteuergesetzes
+(Energetische Sanierungsmaßnahmen-Verordnung-ESanMV)"/>
+      <string key="org:resource" value="Finanzausschuss"/>
+      <string key="org:role" value="Sonstiges">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Finanzausschuss"/>
+      </string>
+      <string key="vorgangsbezug" value="Verordnung zur Bestimmung von Mindestanforderungen für energetische Maßnahmen bei zu eigenen Wohnzwecken genutzten Gebäuden nach § 35c des Einkommensteuergesetzes (Energetische Sanierungsmaßnahmen-Verordnung - ESanMV)">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="255601"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Bernhard Daldrup, MdB, SPD, 1538"/>
+        <string key="autor" value="Markus Herbrand, MdB, FDP, 2215"/>
+        <string key="autor" value="Johannes Steiniger, MdB, CDU/CSU, 1624"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/161/1916141.pdf">
+        <string key="pdf_hash" value="2598bfa704e161b7e7a7f634a53bf01a"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="234370"/>
+    <event>
+      <string key="concept:name" value="Verordnung"/>
+      <string key="vorgangsbezug" value="234370"/>
+      <date key="time:timestamp" value="2018-04-11T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/1598"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="218602"/>
+      <string key="titel" value="Verordnung zum Erlass der Verordnung über nationale Verpflichtungen zur Reduktion der Emissionen bestimmter Luftschadstoffe"/>
+      <string key="org:resource" value="Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Verordnung zum Erlass der Verordnung über nationale Verpflichtungen zur Reduktion der Emissionen bestimmter Luftschadstoffe">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="234370"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/015/1901598.pdf">
+        <string key="pdf_hash" value="51f9796a137555d5de1e581cf0568ef1"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Unterrichtung"/>
+      <string key="vorgangsbezug" value="234370"/>
+      <date key="time:timestamp" value="2018-04-20T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/1768"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="218799"/>
+      <string key="titel" value="über die gemäß § 80 Absatz 3 und § 92 der Geschäftsordnung an die Ausschüsse überwiesenen Vorlagen
+(Eingangszeitraum: 23. März bis 16. April 2018)
+"/>
+      <string key="org:resource" value="Bundestag"/>
+      <string key="org:role" value="Sonstiges">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Bundestag"/>
+      </string>
+      <string key="vorgangsbezug" value="Verordnung zum Erlass der Verordnung über nationale Verpflichtungen zur Reduktion der Emissionen bestimmter Luftschadstoffe">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="234370"/>
+        <int key="vorgangsbezug_anzahl" value="3"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/017/1901768.pdf">
+        <string key="pdf_hash" value="6895f90cead66c9c0da7f7fbd9a947fc"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="234370"/>
+      <date key="time:timestamp" value="2018-04-27T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/1931"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="219032"/>
+      <string key="titel" value="zu der Verordnung der Bundesregierung
+- Drucksachen 19/1598, 19/1768 Nr. 2 -
+Verordnung zum Erlass der Verordnung über nationale Verpflichtungen zur Reduktion der Emissionen bestimmter Luftschadstoffe"/>
+      <string key="org:resource" value="Ausschuss für Umwelt, Naturschutz, Bau und Reaktorsicherheit"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Umwelt, Naturschutz, Bau und Reaktorsicherheit"/>
+      </string>
+      <string key="vorgangsbezug" value="Verordnung zum Erlass der Verordnung über nationale Verpflichtungen zur Reduktion der Emissionen bestimmter Luftschadstoffe">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="234370"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Dr. Bettina Hoffmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 7550"/>
+        <string key="autor" value="Dr. Rainer Kraft, MdB, AfD, 2260"/>
+        <string key="autor" value="Ralph Lenkert, MdB, DIE LINKE, 1162"/>
+        <string key="autor" value="Karsten Möring, MdB, CDU/CSU, 1523"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/019/1901931.pdf">
+        <string key="pdf_hash" value="bc08d172fdf26eca6c403f8b6b50a809"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="238889"/>
+    <event>
+      <string key="concept:name" value="Verordnung"/>
+      <string key="vorgangsbezug" value="238889"/>
+      <date key="time:timestamp" value="2018-08-30T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/4080"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="221752"/>
+      <string key="titel" value="Verordnung zur Einführung der Verordnung über mittelgroße Feuerungs-, Gasturbinen- und Verbrennungsmotoranlagen sowie zur Änderung der Verordnung über kleine und mittlere Feuerungsanlagen"/>
+      <string key="org:resource" value="Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Verordnung zur Einführung der Verordnung über mittelgroße Feuerungs-, Gasturbinen- und Verbrennungsmotoranlagen sowie zur Änderung der Verordnung über kleine und mittlere Feuerungsanlagen">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="238889"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/040/1904080.pdf">
+        <string key="pdf_hash" value="3e30752442a6ca85d26723f6a18e2c0f"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="238889"/>
+      <date key="time:timestamp" value="2018-10-17T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/5107"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="223128"/>
+      <string key="titel" value="zu der Verordnung der Bundesregierung
+- Drucksachen 19/4080, 19/4325 Nr. 2 -
+Verordnung zur Einführung der Verordnung über mittelgroße Feuerungs-, Gasturbinen- und Verbrennungsmotoranlagen sowie zur Änderung der Verordnung über kleine und mittlere Feuerungsanlagen
+"/>
+      <string key="org:resource" value="Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"/>
+      </string>
+      <string key="vorgangsbezug" value="Verordnung zur Einführung der Verordnung über mittelgroße Feuerungs-, Gasturbinen- und Verbrennungsmotoranlagen sowie zur Änderung der Verordnung über kleine und mittlere Feuerungsanlagen">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="238889"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Marc Bernhard, MdB, AfD, 2066"/>
+        <string key="autor" value="Dr. Bettina Hoffmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 7550"/>
+        <string key="autor" value="Ralph Lenkert, MdB, DIE LINKE, 1162"/>
+        <string key="autor" value="Karsten Möring, MdB, CDU/CSU, 1523"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/051/1905107.pdf">
+        <string key="pdf_hash" value="0fc5812aa57501a6bc36183f2258cfc6"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Verordnung"/>
+      <string key="vorgangsbezug" value="238889"/>
+      <date key="time:timestamp" value="2019-03-18T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/8459"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="227279"/>
+      <string key="titel" value="Verordnung zur Einführung der Verordnung über mittelgroße Feuerungs-, Gasturbinen- und Verbrennungsmotoranlagen sowie zur Änderung der Verordnung über kleine und mittlere Feuerungsanlagen"/>
+      <string key="org:resource" value="Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Verordnung zur Einführung der Verordnung über mittelgroße Feuerungs-, Gasturbinen- und Verbrennungsmotoranlagen sowie zur Änderung der Verordnung über kleine und mittlere Feuerungsanlagen">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="238889"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/084/1908459.pdf">
+        <string key="pdf_hash" value="a7313b987cdfcd4b6efb62f959bec98a"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Unterrichtung"/>
+      <string key="vorgangsbezug" value="238889"/>
+      <date key="time:timestamp" value="2019-03-22T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/8646"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="227455"/>
+      <string key="titel" value="über die gemäß § 80 Absatz 3 und § 92 der Geschäftsordnung an die Ausschüsse überwiesenen Vorlagen
+(Eingangszeitraum: 28. Februar bis 18. März 2019)
+"/>
+      <string key="org:resource" value="Bundestag"/>
+      <string key="org:role" value="Sonstiges">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Bundestag"/>
+      </string>
+      <string key="vorgangsbezug" value="Verordnung zur Einführung der Verordnung über mittelgroße Feuerungs-, Gasturbinen- und Verbrennungsmotoranlagen sowie zur Änderung der Verordnung über kleine und mittlere Feuerungsanlagen">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="238889"/>
+        <int key="vorgangsbezug_anzahl" value="2"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/086/1908646.pdf">
+        <string key="pdf_hash" value="d48fbca40a1521557fd0be282cbe3292"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="238889"/>
+      <date key="time:timestamp" value="2019-04-10T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/9268"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="228140"/>
+      <string key="titel" value="zu der Verordnung der Bundesregierung
+- Drucksachen 19/8459, 19/8646 Nr. 2 -
+Verordnung zur Einführung der Verordnung über mittelgroße Feuerungs-, Gasturbinen- und Verbrennungsmotoranlagen sowie zur Änderung der Verordnung über kleine und mittlere Feuerungsanlagen"/>
+      <string key="org:resource" value="Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"/>
+      </string>
+      <string key="vorgangsbezug" value="Verordnung zur Einführung der Verordnung über mittelgroße Feuerungs-, Gasturbinen- und Verbrennungsmotoranlagen sowie zur Änderung der Verordnung über kleine und mittlere Feuerungsanlagen">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="238889"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Dr. Bettina Hoffmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 7550"/>
+        <string key="autor" value="Dr. Rainer Kraft, MdB, AfD, 2260"/>
+        <string key="autor" value="Ralph Lenkert, MdB, DIE LINKE, 1162"/>
+        <string key="autor" value="Karsten Möring, MdB, CDU/CSU, 1523"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/092/1909268.pdf">
+        <string key="pdf_hash" value="3e2a6c44cc2a885a9fde0c0710b2dda7"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="236515"/>
+    <event>
+      <string key="concept:name" value="Verordnung"/>
+      <string key="vorgangsbezug" value="236515"/>
+      <date key="time:timestamp" value="2018-06-13T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/2707"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="220036"/>
+      <string key="titel" value="Ausbildungs- und Prüfungsverordnung für die Pflegeberufe
+(Pflegeberufe-Ausbildungs- und -Prüfungsverordnung - PflAPrV)"/>
+      <string key="org:resource" value="Bundesministerium für Familie, Senioren, Frauen und Jugend, Bundesministerium für Gesundheit"/>
+      <string key="org:role" value="Sonstiges">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Bundesministerium für Familie, Senioren, Frauen und Jugend"/>
+        <string key="urheber" value="Bundesministerium für Gesundheit"/>
+      </string>
+      <string key="vorgangsbezug" value="Ausbildungs- und Prüfungsverordnung für die Pflegeberufe
+(Pflegeberufe-Ausbildungs- und -Prüfungsverordnung - PflAPrV)">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="236515"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/027/1902707.pdf">
+        <string key="pdf_hash" value="337c070113115ff53958e97c186cb1f5"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Entschließungsantrag"/>
+      <string key="vorgangsbezug" value="236515"/>
+      <date key="time:timestamp" value="2018-06-27T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/3046"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="220481"/>
+      <string key="titel" value="zu der Beratung der Verordnung des Bundesministeriums für Familie, Senioren, Frauen und Jugend und des Bundesministeriums für Gesundheit
+- Drucksachen 19/2707, 19/2768 Nr. 2, 19/3045 -
+Ausbildungs- und Prüfungsverordnung für die Pflegeberufe
+(Pflegeberufe-Ausbildungs- und -Prüfungsverordnung - PflAPrV)
+"/>
+      <string key="org:resource" value="Fraktion DIE LINKE">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion DIE LINKE"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Ausbildungs- und Prüfungsverordnung für die Pflegeberufe
+(Pflegeberufe-Ausbildungs- und -Prüfungsverordnung - PflAPrV)">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="236515"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Pia Zimmermann, MdB, DIE LINKE, 1662"/>
+        <string key="autor" value="Susanne Ferschl, MdB, DIE LINKE, 2160"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/030/1903046.pdf">
+        <string key="pdf_hash" value="9cfce4e918cef1582733fffa11a9df39"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="236515"/>
+      <date key="time:timestamp" value="2018-06-27T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/3045"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="220489"/>
+      <string key="titel" value="zu der Verordnung des Bundesministeriums für Familie, Senioren, Frauen und Jugend und des Bundesministeriums für Gesundheit
+- Drucksachen 19/2707, 19/2768 Nr. 2 -
+Ausbildungs- und Prüfungsverordnung für die Pflegeberufe
+(Pflegeberufe-Ausbildungs- und -Prüfungsverordnung - PflAPrV)"/>
+      <string key="org:resource" value="Ausschuss für Gesundheit"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Gesundheit"/>
+      </string>
+      <string key="vorgangsbezug" value="Ausbildungs- und Prüfungsverordnung für die Pflegeberufe
+(Pflegeberufe-Ausbildungs- und -Prüfungsverordnung - PflAPrV)">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="236515"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Prof. Dr. Axel Gehrke, MdB, AfD, 2181"/>
+        <string key="autor" value="Dr. Roy Kühne, MdB, CDU/CSU, 1714"/>
+        <string key="autor" value="Bettina Müller, MdB, SPD, 1525"/>
+        <string key="autor" value="Kordula Schulz-Asche, MdB, BÜNDNIS 90/DIE GRÜNEN, 1611"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/030/1903045.pdf">
+        <string key="pdf_hash" value="0e9a2de7236b964e4ff476b043e94926"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="277348"/>
+    <event>
+      <string key="concept:name" value="Verordnung"/>
+      <string key="vorgangsbezug" value="277348"/>
+      <date key="time:timestamp" value="2021-04-28T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/29085"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="253331"/>
+      <string key="titel" value="Verordnung zur Änderung der Kassensicherungsverordnung"/>
+      <string key="org:resource" value="Bundesministerium der Finanzen"/>
+      <string key="org:role" value="Sonstiges">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Bundesministerium der Finanzen"/>
+      </string>
+      <string key="vorgangsbezug" value="Verordnung zur Änderung der Kassensicherungsverordnung">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="277348"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/290/1929085.pdf">
+        <date key="verteildatum" value="2021-04-28"/>
+        <string key="pdf_hash" value="8e514fa66f15ccda3c14aa71e34d2da9"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="277348"/>
+      <date key="time:timestamp" value="2021-05-19T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/29841"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="254339"/>
+      <string key="titel" value="zu der Verordnung der Bundesregierung
+- Drucksachen 19/29085, 19/29474 Nr. 2.1 -
+Verordnung zur Änderung der Kassensicherungsverordnung"/>
+      <string key="org:resource" value="Finanzausschuss"/>
+      <string key="org:role" value="Sonstiges">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Finanzausschuss"/>
+      </string>
+      <string key="vorgangsbezug" value="Verordnung zur Änderung der Kassensicherungsverordnung">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="277348"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Ingrid Arndt-Brauer, MdB, SPD, 533"/>
+        <string key="autor" value="Sebastian Brehm, MdB, CDU/CSU, 2080"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/298/1929841.pdf">
+        <date key="verteildatum" value="2021-05-19"/>
+        <string key="pdf_hash" value="1780b17c6c4ce5813f49cdce20cadfd1"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="277932"/>
+    <event>
+      <string key="concept:name" value="Verordnung"/>
+      <string key="vorgangsbezug" value="277932"/>
+      <date key="time:timestamp" value="2021-05-12T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/29636"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="254011"/>
+      <string key="titel" value="Verordnung zur Einführung einer Ersatzbaustoffverordnung, zur Neufassung der Bundes-Bodenschutz- und Altlastenverordnung und zur Änderung der Deponieverordnung und der Gewerbeabfallverordnung"/>
+      <string key="org:resource" value="Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Verordnung zur Einführung einer Ersatzbaustoffverordnung, zur Neufassung der Bundes-Bodenschutz- und Altlastenverordnung und zur Änderung der Deponieverordnung und der Gewerbeabfallverordnung">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="277932"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/296/1929636.pdf">
+        <date key="verteildatum" value="2021-05-12"/>
+        <string key="pdf_hash" value="2ade6e7c50be652c0685f46f74f790b1"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="277932"/>
+      <date key="time:timestamp" value="2021-06-09T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/30478"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="255204"/>
+      <string key="titel" value="zu der Verordnung der Bundesregierung
+- Drucksachen 19/29636, 19/29997 Nr. 2.3 -
+Verordnung zur Einführung einer Ersatzbaustoffverordnung, zur Neufassung der Bundes-Bodenschutz- und Altlastenverordnung und zur Änderung der Deponieverordnung und der Gewerbeabfallverordnung"/>
+      <string key="org:resource" value="Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"/>
+      </string>
+      <string key="vorgangsbezug" value="Verordnung zur Einführung einer Ersatzbaustoffverordnung, zur Neufassung der Bundes-Bodenschutz- und Altlastenverordnung und zur Änderung der Deponieverordnung und der Gewerbeabfallverordnung">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="277932"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Andreas Bleck, MdB, AfD, 2071"/>
+        <string key="autor" value="Dr. Bettina Hoffmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 7550"/>
+        <string key="autor" value="Michael Kießling, MdB, CDU/CSU, 2248"/>
+        <string key="autor" value="Ralph Lenkert, MdB, DIE LINKE, 1162"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/304/1930478.pdf">
+        <date key="verteildatum" value="2021-06-09"/>
+        <string key="pdf_hash" value="5d39a628ff704650302c1ad182b32154"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Entschließungsantrag"/>
+      <string key="vorgangsbezug" value="277932"/>
+      <date key="time:timestamp" value="2021-06-09T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/30559"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="255298"/>
+      <string key="titel" value="zu der Beratung der Verordnung der Bundesregierung
+- Drucksachen 19/29636, 19/29997 Nr. 2.3, 19/30478 -
+Verordnung zur Einführung einer Ersatzbaustoffverordnung, zur Neufassung der Bundes-Bodenschutz- und Altlastenverordnung und zur Änderung der Deponieverordnung und der Gewerbeabfallverordnung"/>
+      <string key="org:resource" value="Fraktion der FDP">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion der FDP"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Verordnung zur Einführung einer Ersatzbaustoffverordnung, zur Neufassung der Bundes-Bodenschutz- und Altlastenverordnung und zur Änderung der Deponieverordnung und der Gewerbeabfallverordnung">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="277932"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Judith Skudelny, MdB, FDP, 1118"/>
+        <string key="autor" value="Frank Sitta, MdB, FDP, 2136"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/305/1930559.pdf">
+        <date key="verteildatum" value="2021-06-10"/>
+        <string key="pdf_hash" value="9b370ec7b97fa7f27a7e2d3b1fba5e86"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="273673"/>
+    <event>
+      <string key="concept:name" value="Verordnung"/>
+      <string key="vorgangsbezug" value="273673"/>
+      <date key="time:timestamp" value="2021-02-10T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/26559"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="250162"/>
+      <string key="titel" value="Verordnung zur Änderung der Energetische Sanierungsmaßnahmen-Verordnung"/>
+      <string key="org:resource" value="Bundesministerium der Finanzen">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Verordnung zur Änderung der Energetische Sanierungsmaßnahmen-Verordnung">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="273673"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/265/1926559.pdf">
+        <date key="verteildatum" value="2021-02-10"/>
+        <string key="pdf_hash" value="d96b4efe575e0f0dc3c8b3ad8cbbca05"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="273673"/>
+      <date key="time:timestamp" value="2021-03-24T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/27892"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="251879"/>
+      <string key="titel" value="zu der Verordnung der Bundesregierung
+- Drucksachen 19/26559, 19/27035 Nr. 2.2 -
+Verordnung zur Änderung der Energetische Sanierungsmaßnahmen-Verordnung"/>
+      <string key="org:resource" value="Finanzausschuss"/>
+      <string key="org:role" value="Sonstiges">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Finanzausschuss"/>
+      </string>
+      <string key="vorgangsbezug" value="Verordnung zur Änderung der Energetische Sanierungsmaßnahmen-Verordnung">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="273673"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Lothar Binding (Heidelberg), MdB, SPD, 511"/>
+        <string key="autor" value="Olav Gutting, MdB, CDU/CSU, 536"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/278/1927892.pdf">
+        <date key="verteildatum" value="2021-03-24"/>
+        <string key="pdf_hash" value="5458e9d84d76b8ec7d5f11df65e11e45"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Entschließungsantrag"/>
+      <string key="vorgangsbezug" value="273673"/>
+      <date key="time:timestamp" value="2021-03-24T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/27898"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="251885"/>
+      <string key="titel" value="zu der Beratung der Verordnung der Bundesregierung
+- Drucksachen 19/26559, 19/27035 Nr. 2.2, 19/27892 -
+Verordnung zur Änderung der Energetische Sanierungsmaßnahmen-Verordnung"/>
+      <string key="org:resource" value="Fraktion BÜNDNIS 90/DIE GRÜNEN">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion BÜNDNIS 90/DIE GRÜNEN"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Verordnung zur Änderung der Energetische Sanierungsmaßnahmen-Verordnung">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="273673"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Lisa Paus, MdB, BÜNDNIS 90/DIE GRÜNEN, 7584"/>
+        <string key="autor" value="Dr. Julia Verlinden, MdB, BÜNDNIS 90/DIE GRÜNEN, 1769"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/278/1927898.pdf">
+        <date key="verteildatum" value="2021-03-24"/>
+        <string key="pdf_hash" value="cce5ba70b4c6c83bd387fa839b8f208b"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="257275"/>
+    <event>
+      <string key="concept:name" value="Verordnung"/>
+      <string key="vorgangsbezug" value="257275"/>
+      <date key="time:timestamp" value="2020-01-08T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/16398"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="237751"/>
+      <string key="titel" value="Zweite Verordnung zur Änderung abfallrechtlicher Bestimmungen zur Altölentsorgung"/>
+      <string key="org:resource" value="Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Zweite Verordnung zur Änderung abfallrechtlicher Bestimmungen zur Altölentsorgung">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="257275"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/163/1916398.pdf">
+        <string key="pdf_hash" value="9a84b301842a2909991528368edd9ec5"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="257275"/>
+      <date key="time:timestamp" value="2020-02-12T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/17121"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="238602"/>
+      <string key="titel" value="zu der Verordnung der Bundesregierung
+- Drucksachen 19/16398, 19/16578 Nr. 2 -
+Zweite Verordnung zur Änderung abfallrechtlicher Bestimmungen zur Altölentsorgung"/>
+      <string key="org:resource" value="Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"/>
+      </string>
+      <string key="vorgangsbezug" value="Zweite Verordnung zur Änderung abfallrechtlicher Bestimmungen zur Altölentsorgung">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="257275"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Andreas Bleck, MdB, AfD, 2071"/>
+        <string key="autor" value="Marie-Luise Dött, MdB, CDU/CSU, 82"/>
+        <string key="autor" value="Dr. Bettina Hoffmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 7550"/>
+        <string key="autor" value="Ralph Lenkert, MdB, DIE LINKE, 1162"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/171/1917121.pdf">
+        <string key="pdf_hash" value="8c8c880da9f96b516a8fd538bbe4bf8c"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Verordnung"/>
+      <string key="vorgangsbezug" value="257275"/>
+      <date key="time:timestamp" value="2020-05-20T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/19372"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="241388"/>
+      <string key="titel" value="Zweite Verordnung zur Änderung abfallrechtlicher Bestimmungen zur Altölentsorgung"/>
+      <string key="org:resource" value="Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Zweite Verordnung zur Änderung abfallrechtlicher Bestimmungen zur Altölentsorgung">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="257275"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/193/1919372.pdf">
+        <string key="pdf_hash" value="a903cef8111341833bdda63fe2470c3b"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Unterrichtung"/>
+      <string key="vorgangsbezug" value="257275"/>
+      <date key="time:timestamp" value="2020-05-29T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/19655"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="241710"/>
+      <string key="titel" value="über die gemäß § 80 Absatz 3 und § 92 der Geschäftsordnung 
+an die Ausschüsse überwiesenen Vorlagen
+(Eingangszeitraum: 30. April bis 28. Mai 2020)"/>
+      <string key="org:resource" value="Bundestag"/>
+      <string key="org:role" value="Sonstiges">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Bundestag"/>
+      </string>
+      <string key="vorgangsbezug" value="Zweite Verordnung zur Änderung abfallrechtlicher Bestimmungen zur Altölentsorgung">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="257275"/>
+        <int key="vorgangsbezug_anzahl" value="10"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/196/1919655.pdf">
+        <string key="pdf_hash" value="b15a91a76e740a98f1838769f0b9ddfa"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="257275"/>
+      <date key="time:timestamp" value="2020-07-01T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/20657"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="242986"/>
+      <string key="titel" value="zu der Verordnung der Bundesregierung
+- Drucksachen 19/19372, 19/19655 Nr. 2.2 -
+Zweite Verordnung zur Änderung abfallrechtlicher Bestimmungen zur Altölentsorgung"/>
+      <string key="org:resource" value="Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"/>
+      </string>
+      <string key="vorgangsbezug" value="Zweite Verordnung zur Änderung abfallrechtlicher Bestimmungen zur Altölentsorgung">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="257275"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Andreas Bleck, MdB, AfD, 2071"/>
+        <string key="autor" value="Marie-Luise Dött, MdB, CDU/CSU, 82"/>
+        <string key="autor" value="Dr. Bettina Hoffmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 7550"/>
+        <string key="autor" value="Ralph Lenkert, MdB, DIE LINKE, 1162"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/206/1920657.pdf">
+        <string key="pdf_hash" value="472949b1b528df02270912bc70c0d375"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="232247"/>
+    <event>
+      <string key="concept:name" value="Verordnung"/>
+      <string key="vorgangsbezug" value="232247"/>
+      <date key="time:timestamp" value="2018-02-26T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/900"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="217750"/>
+      <string key="titel" value="Verordnung zur Änderung der Elektro- und Elektronikgeräte-Stoff-Verordnung und der Anzeige- und Erlaubnisverordnung"/>
+      <string key="org:resource" value="Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Verordnung zur Änderung der Elektro- und Elektronikgeräte-Stoff-Verordnung und der Anzeige- und Erlaubnisverordnung">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="232247"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/009/1900900.pdf">
+        <string key="pdf_hash" value="0f4802e1b892023e2cd0da10ce9e29ab"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Unterrichtung"/>
+      <string key="vorgangsbezug" value="232247"/>
+      <date key="time:timestamp" value="2018-03-02T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/1040"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="217882"/>
+      <string key="titel" value="über die gemäß § 92 der Geschäftsordnung an die Ausschüsse überwiesenen Vorlagen
+(Eingangszeitraum: 20. bis 26. Februar 2018)"/>
+      <string key="org:resource" value="Bundestag"/>
+      <string key="org:role" value="Sonstiges">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Bundestag"/>
+      </string>
+      <string key="vorgangsbezug" value="Verordnung zur Änderung der Elektro- und Elektronikgeräte-Stoff-Verordnung und der Anzeige- und Erlaubnisverordnung">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="232247"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/010/1901040.pdf">
+        <date key="verteildatum" value="2018-03-15"/>
+        <string key="pdf_hash" value="8ecf6cafe19ae65b2429a110c2255688"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="232247"/>
+      <date key="time:timestamp" value="2018-03-21T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/1333"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="218303"/>
+      <string key="titel" value="zu der Verordnung der Bundesregierung
+- Drucksachen 19/900, 19/1040 -
+Verordnung zur Änderung der Elektro- und Elektronikgeräte-Stoff-Verordnung und der Anzeige- und Erlaubnisverordnung"/>
+      <string key="org:resource" value="Ausschuss für Umwelt, Naturschutz, Bau und Reaktorsicherheit"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Umwelt, Naturschutz, Bau und Reaktorsicherheit"/>
+      </string>
+      <string key="vorgangsbezug" value="Verordnung zur Änderung der Elektro- und Elektronikgeräte-Stoff-Verordnung und der Anzeige- und Erlaubnisverordnung">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="232247"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Marie-Luise Dött, MdB, CDU/CSU, 82"/>
+        <string key="autor" value="Dr. Bettina Hoffmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 7550"/>
+        <string key="autor" value="Dr. Rainer Kraft, MdB, AfD, 2260"/>
+        <string key="autor" value="Ralph Lenkert, MdB, DIE LINKE, 1162"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/013/1901333.pdf">
+        <string key="pdf_hash" value="081093cba799b7583b055d7b136491c2"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="278183"/>
+    <event>
+      <string key="concept:name" value="Verordnung"/>
+      <string key="vorgangsbezug" value="278183"/>
+      <date key="time:timestamp" value="2021-05-19T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/29793"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="254269"/>
+      <string key="titel" value="Verordnung zur Umsetzung des Erneuerbare-Energien-Gesetzes 2021 und zur Änderung weiterer energierechtlicher Vorschriften"/>
+      <string key="org:resource" value="Bundesministerium für Wirtschaft und Energie">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Verordnung zur Umsetzung des Erneuerbare-Energien-Gesetzes 2021 und zur Änderung weiterer energierechtlicher Vorschriften">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="278183"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/297/1929793.pdf">
+        <date key="verteildatum" value="2021-05-19"/>
+        <string key="pdf_hash" value="cb844115321d9dfc8acb3dc60964ffa7"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung"/>
+      <string key="vorgangsbezug" value="278183"/>
+      <date key="time:timestamp" value="2021-06-22T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/30902"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="255774"/>
+      <string key="titel" value="zu der Verordnung der Bundesregierung
+- Drucksachen 19/29793, 19/29997 Nr. 2.4 -
+Verordnung zur Umsetzung des Erneuerbare-Energien-Gesetzes 2021 und zur Änderung weiterer energierechtlicher Vorschriften"/>
+      <string key="org:resource" value="Ausschuss für Wirtschaft und Energie"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Wirtschaft und Energie"/>
+      </string>
+      <string key="vorgangsbezug" value="Verordnung zur Umsetzung des Erneuerbare-Energien-Gesetzes 2021 und zur Änderung weiterer energierechtlicher Vorschriften">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="278183"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/309/1930902.pdf">
+        <date key="verteildatum" value="2021-06-22"/>
+        <string key="pdf_hash" value="875a689d19e1cc689a8589ca22a2bf8c"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Bericht"/>
+      <string key="vorgangsbezug" value="278183"/>
+      <date key="time:timestamp" value="2021-06-23T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/31012"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="255891"/>
+      <string key="titel" value="zu der Verordnung der Bundesregierung
+- Drucksachen 19/29793, 19/29997 Nr. 2.4 -
+Verordnung zur Umsetzung des Erneuerbare-Energien-Gesetzes 2021 und zur Änderung weiterer energierechtlicher Vorschriften"/>
+      <string key="org:resource" value="Ausschuss für Wirtschaft und Energie"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Wirtschaft und Energie"/>
+      </string>
+      <string key="vorgangsbezug" value="Verordnung zur Umsetzung des Erneuerbare-Energien-Gesetzes 2021 und zur Änderung weiterer energierechtlicher Vorschriften">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="278183"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Mark Helfrich, MdB, CDU/CSU, 1678"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/310/1931012.pdf">
+        <date key="verteildatum" value="2021-06-23"/>
+        <string key="pdf_hash" value="8f1f07e3a19f897a9ccb5998f43177b5"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="237180"/>
+    <event>
+      <string key="concept:name" value="Verordnung"/>
+      <string key="vorgangsbezug" value="237180"/>
+      <date key="time:timestamp" value="2018-07-02T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/3109"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="220574"/>
+      <string key="titel" value="Verordnung zur Umsetzung der Richtlinie (EU) 2016/97 des Europäischen Parlaments und des Rates vom 20. Januar 2016 über Versicherungsvertrieb"/>
+      <string key="org:resource" value="Bundesministerium für Wirtschaft und Energie">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Verordnung zur Umsetzung der Richtlinie (EU) 2016/97 des Europäischen Parlaments und des Rates vom 20. Januar 2016 über Versicherungsvertrieb">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="237180"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/031/1903109.pdf">
+        <string key="pdf_hash" value="2ace59c4bbe7acb299559f22786667a0"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="237180"/>
+      <date key="time:timestamp" value="2018-09-26T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/4585"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="222513"/>
+      <string key="titel" value="zu der Verordnung des Bundesministeriums für Wirtschaft und Energie
+- Drucksachen 19/3109, 19/3287 Nr. 2 -
+Verordnung zur Umsetzung der Richtlinie (EU) 2016/97 des Europäischen 
+Parlaments und des Rates vom 20. Januar 2016 über Versicherungsvertrieb"/>
+      <string key="org:resource" value="Ausschuss für Wirtschaft und Energie"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Wirtschaft und Energie"/>
+      </string>
+      <string key="vorgangsbezug" value="Verordnung zur Umsetzung der Richtlinie (EU) 2016/97 des Europäischen Parlaments und des Rates vom 20. Januar 2016 über Versicherungsvertrieb">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="237180"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Manfred Todtenhausen, MdB, FDP, 1411"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/045/1904585.pdf">
+        <string key="pdf_hash" value="4c137d87f26fced021519e210fe49bbb"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="262540"/>
+    <event>
+      <string key="concept:name" value="Verordnung"/>
+      <string key="vorgangsbezug" value="262540"/>
+      <date key="time:timestamp" value="2020-05-20T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/19381"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="241375"/>
+      <string key="titel" value="Verordnung zur Änderung der Erneuerbare-Energien-Verordnung"/>
+      <string key="org:resource" value="Bundesministerium für Wirtschaft und Energie">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Verordnung zur Änderung der Erneuerbare-Energien-Verordnung">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="262540"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/193/1919381.pdf">
+        <string key="pdf_hash" value="dcc579145d53b8c0fcd8198242f77a3b"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="262540"/>
+      <date key="time:timestamp" value="2020-07-01T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/20653"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="242951"/>
+      <string key="titel" value="zu der Verordnung der Bundesregierung
+- Drucksachen 19/19381, 19/19655 Nr. 2.3 -
+Verordnung zur Änderung der Erneuerbare-Energien-Verordnung"/>
+      <string key="org:resource" value="Ausschuss für Wirtschaft und Energie"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Wirtschaft und Energie"/>
+      </string>
+      <string key="vorgangsbezug" value="Verordnung zur Änderung der Erneuerbare-Energien-Verordnung">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="262540"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Jens Koeppen, MdB, CDU/CSU, 330"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/206/1920653.pdf">
+        <string key="pdf_hash" value="c3c5898856479969d0be71f96dab64e5"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="247042"/>
+    <event>
+      <string key="concept:name" value="Verordnung"/>
+      <string key="vorgangsbezug" value="247042"/>
+      <date key="time:timestamp" value="2019-04-17T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/9477"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="228456"/>
+      <string key="titel" value="Verordnung zur Änderung der Vergabeverordnung und der Vergabeverordnung Verteidigung und Sicherheit"/>
+      <string key="org:resource" value="Bundesministerium für Wirtschaft und Energie">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Verordnung zur Änderung der Vergabeverordnung und der Vergabeverordnung Verteidigung und Sicherheit">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="247042"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/094/1909477.pdf">
+        <string key="pdf_hash" value="011be35a4008970ae571e941c06c520e"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="247042"/>
+      <date key="time:timestamp" value="2019-05-15T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/10238"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="229233"/>
+      <string key="titel" value="zu der Verordnung der Bundesregierung
+- Drucksachen 19/9477, 19/10066 Nr. 2 -
+Verordnung zur Änderung der Vergabeverordnung und der Vergabeverordnung Verteidigung und Sicherheit"/>
+      <string key="org:resource" value="Ausschuss für Wirtschaft und Energie"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Wirtschaft und Energie"/>
+      </string>
+      <string key="vorgangsbezug" value="Verordnung zur Änderung der Vergabeverordnung und der Vergabeverordnung Verteidigung und Sicherheit">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="247042"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Pascal Meiser, MdB, DIE LINKE, 2001"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/102/1910238.pdf">
+        <date key="verteildatum" value="2019-08-27"/>
+        <string key="pdf_hash" value="2f8febaaa1019bef2d32b9037c094bc9"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="275974"/>
+    <event>
+      <string key="concept:name" value="Verordnung"/>
+      <string key="vorgangsbezug" value="275974"/>
+      <date key="time:timestamp" value="2021-03-31T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/28163"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="252227"/>
+      <string key="titel" value="Verordnung über Maßnahmen zur Vermeidung von Carbon-Leakage durch den nationalen Brennstoffemissionshandel (BEHG-Carbon-Leakage-Verordnung - BECV)"/>
+      <string key="org:resource" value="Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Verordnung über Maßnahmen zur Vermeidung von Carbon-Leakage durch den nationalen Brennstoffemissionshandel (BEHG-Carbon-Leakage-Verordnung - BECV)">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="275974"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/281/1928163.pdf">
+        <date key="verteildatum" value="2021-03-31"/>
+        <string key="pdf_hash" value="cad4f5f3b3b1610dc7149891350779fe"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="275974"/>
+      <date key="time:timestamp" value="2021-06-22T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/30955"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="255812"/>
+      <string key="titel" value="a) zu der Verordnung der Bundesregierung
+- Drucksachen 19/28163, 19/28605 Nr. 2 -
+Verordnung Ã¼ber MaÃŸnahmen zur Vermeidung von Carbon-Leakage durch den nationalen Brennstoffemissionshandel 
+(BEHG-Carbon-Leakage-Verordnung - BECV)
+b) zu dem Antrag der Abgeordneten Lisa Badum, Dr. Ingrid Nestle, Dieter Janecek, weiterer Abgeordneter und der Fraktion BÃœNDNIS 90/DIE GRÃœNEN
+- Drucksache 19/29295 -
+Wirksame Anreize nutzen, um die Wirtschaft auf dem Weg in die KlimaneutralitÃ¤t zu unterstÃ¼tzen - Die Carbon-Leakage-Verordnung im Rahmen des Brennstoffemissionshandelsgesetzes gerecht und planungssicher ausgestalten"/>
+      <string key="org:resource" value="Ausschuss fÃ¼r Umwelt, Naturschutz und nukleare Sicherheit"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss fÃ¼r Umwelt, Naturschutz und nukleare Sicherheit"/>
+      </string>
+      <string key="vorgangsbezug" value="Verordnung Ã¼ber MaÃŸnahmen zur Vermeidung von Carbon-Leakage durch den nationalen Brennstoffemissionshandel (BEHG-Carbon-Leakage-Verordnung - BECV)">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="275974"/>
+        <int key="vorgangsbezug_anzahl" value="2"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Lisa Badum, MdB, BÃœNDNIS 90/DIE GRÃœNEN, 1983"/>
+        <string key="autor" value="Marc Bernhard, MdB, AfD, 2066"/>
+        <string key="autor" value="Lorenz GÃ¶sta Beutin, MdB, DIE LINKE, 2069"/>
+        <string key="autor" value="Dr.  Lukas KÃ¶hler, MdB, FDP, 2254"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/309/1930955.pdf">
+        <date key="verteildatum" value="2021-06-23"/>
+        <string key="pdf_hash" value="3f4ee9ac4a383f0e2c6248d33575b43b"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Entschließungsantrag"/>
+      <string key="vorgangsbezug" value="275974"/>
+      <date key="time:timestamp" value="2021-06-22T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/30990"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="255833"/>
+      <string key="titel" value="zu der Beratung der Verordnung der Bundesregierung
+- Drucksache 19/28163, 19/28605 Nr. 2 -
+Verordnung über Maßnahmen zur Vermeidung von Carbon-Leakage durch den nationalen Brennstoffemissionshandel 
+(BEHG-Carbon-Leakage-Verordnung - BECV)"/>
+      <string key="org:resource" value="Fraktion der FDP">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion der FDP"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Verordnung über Maßnahmen zur Vermeidung von Carbon-Leakage durch den nationalen Brennstoffemissionshandel (BEHG-Carbon-Leakage-Verordnung - BECV)">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="275974"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Dr.  Lukas Köhler, MdB, FDP, 2254"/>
+        <string key="autor" value="Frank Sitta, MdB, FDP, 2136"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/309/1930990.pdf">
+        <date key="verteildatum" value="2021-06-23"/>
+        <string key="pdf_hash" value="6be6140f5c9070af140a06a3bf71289a"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="254098"/>
+    <event>
+      <string key="concept:name" value="Verordnung"/>
+      <string key="vorgangsbezug" value="254098"/>
+      <date key="time:timestamp" value="2019-10-16T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/14065"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="234823"/>
+      <string key="titel" value="Verordnung zu den Innovationsausschreibungen und zur Änderung weiterer energiewirtschaftlicher Verordnungen"/>
+      <string key="org:resource" value="Bundesministerium für Wirtschaft und Energie">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Verordnung zu den Innovationsausschreibungen und zur Änderung weiterer energiewirtschaftlicher Verordnungen">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="254098"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/140/1914065.pdf">
+        <string key="pdf_hash" value="80dccf79a1edabd9bee47dbb16330688"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="254098"/>
+      <date key="time:timestamp" value="2019-12-11T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/15874"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="237086"/>
+      <string key="titel" value="zu der Verordnung der Bundesregierung
+- Drucksachen 19/14065, 19/14223 Nr. 2 - 
+Verordnung zu den Innovationsausschreibungen und zur Änderung weiterer energiewirtschaftlicher Verordnungen"/>
+      <string key="org:resource" value="Ausschuss für Wirtschaft und Energie"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Wirtschaft und Energie"/>
+      </string>
+      <string key="vorgangsbezug" value="Verordnung zu den Innovationsausschreibungen und zur Änderung weiterer energiewirtschaftlicher Verordnungen">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="254098"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Peter Bleser, MdB, CDU/CSU, 183"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/158/1915874.pdf">
+        <string key="pdf_hash" value="0df8558f15989adc0605cd4bb8803a24"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="262459"/>
+    <event>
+      <string key="concept:name" value="Verordnung"/>
+      <string key="vorgangsbezug" value="262459"/>
+      <date key="time:timestamp" value="2020-05-18T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/19291"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="241308"/>
+      <string key="titel" value="Verordnung über Sicherheitsanforderungen und vorläufige Sicherheitsuntersuchungen für die Endlagerung hochradioaktiver Abfälle"/>
+      <string key="org:resource" value="Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit"/>
+      <string key="org:role" value="Sonstiges">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit"/>
+      </string>
+      <string key="vorgangsbezug" value="Verordnung über Sicherheitsanforderungen und vorläufige Sicherheitsuntersuchungen für die Endlagerung hochradioaktiver Abfälle">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="262459"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/192/1919291.pdf">
+        <string key="pdf_hash" value="0cd99d14565cb30b92b23267afb1ec2b"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="262459"/>
+      <date key="time:timestamp" value="2020-09-09T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/22239"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="244790"/>
+      <string key="titel" value="zu der Verordnung des Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit
+- Drucksache 19/19291, 19/19655 Nr. 2.1 -
+Verordnung über Sicherheitsanforderungen und vorläufige Sicherheitsuntersuchungen für die Endlagerung hochradioaktiver Abfälle"/>
+      <string key="org:resource" value="Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"/>
+      </string>
+      <string key="vorgangsbezug" value="Verordnung über Sicherheitsanforderungen und vorläufige Sicherheitsuntersuchungen für die Endlagerung hochradioaktiver Abfälle">
+        <string key="vorgangsbezug_typ" value="Rechtsverordnung"/>
+        <int key="vorgangsbezug_id" value="262459"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Sylvia Kotting-Uhl, MdB, BÜNDNIS 90/DIE GRÜNEN, 86"/>
+        <string key="autor" value="Dr. Rainer Kraft, MdB, AfD, 2260"/>
+        <string key="autor" value="Karsten Möring, MdB, CDU/CSU, 1523"/>
+        <string key="autor" value="Dr. Nina Scheer, MdB, SPD, 1601"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/222/1922239.pdf">
+        <date key="verteildatum" value="2020-09-09"/>
+        <string key="pdf_hash" value="026dcf01b7d6ced6d05e0cc0de5c4245"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+</log>

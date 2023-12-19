@@ -1,0 +1,2419 @@
+<?xml version="1.0" ?>
+<log xes.version="1.0" xes.features="nested-attributes">
+  <extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext"/>
+  <extension name="Organizational" prefix="org" uri="http://www.xes-standard.org/org.xesext"/>
+  <extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext"/>
+  <global scope="trace">
+    <string key="concept:name" value=""/>
+  </global>
+  <global scope="event">
+    <string key="concept:name" value=""/>
+    <date key="time:timestamp" value="1970-01-01T00:00:00.000+00:00"/>
+  </global>
+  <classifier name="drucksachetyp" keys="concept:name"/>
+  <trace>
+    <string key="concept:name" value="268242"/>
+    <event>
+      <string key="concept:name" value="Große Anfrage"/>
+      <string key="vorgangsbezug" value="268242"/>
+      <date key="time:timestamp" value="2020-10-09T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/23248"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="246094"/>
+      <string key="titel" value="Migrationsmindernde Entwicklungspolitik der Bundesregierung im Lichte der Studie des Entwicklungsprogramms der Vereinten Nationen The Scaling Fences: Voices of Irregular African Migrants to Europe"/>
+      <string key="org:resource" value="Fraktion der AfD">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion der AfD"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Migrationsmindernde Entwicklungspolitik der Bundesregierung im Lichte der Studie des Entwicklungsprogramms der Vereinten Nationen The Scaling Fences: Voices of Irregular African Migrants to Europe">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="268242"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Markus Frohnmaier, MdB, AfD, 2176"/>
+        <string key="autor" value="Dietmar Friedhoff, MdB, AfD, 2171"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/232/1923248.pdf">
+        <date key="verteildatum" value="2020-10-22"/>
+        <string key="pdf_hash" value="01ca56171568d11a6f066cc45cdab12b"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Antwort"/>
+      <string key="vorgangsbezug" value="268242"/>
+      <date key="time:timestamp" value="2021-02-25T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/26994"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="250840"/>
+      <string key="titel" value="auf die Große Anfrage
+- Drucksache 19/23248 -
+Migrationsmindernde Entwicklungspolitik der Bundesregierung im Lichte der Studie des Entwicklungsprogramms der Vereinten Nationen &quot;The Scaling Fences: Voices of Irregular African Migrants to Europe&quot;"/>
+      <string key="org:resource" value="Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Migrationsmindernde Entwicklungspolitik der Bundesregierung im Lichte der Studie des Entwicklungsprogramms der Vereinten Nationen The Scaling Fences: Voices of Irregular African Migrants to Europe">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="268242"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/269/1926994.pdf">
+        <date key="verteildatum" value="2021-03-05"/>
+        <string key="pdf_hash" value="1b3dd2ad5201d134beee8b39aa7c009e"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="265017"/>
+    <event>
+      <string key="concept:name" value="Große Anfrage"/>
+      <string key="vorgangsbezug" value="265017"/>
+      <date key="time:timestamp" value="2020-07-16T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/21107"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="243509"/>
+      <string key="titel" value="Auswirkungen des Sanktions-Urteils des Bundesverfassungsgerichts auf das Asylbewerberleistungsgesetz und auf die Leistungsausschlüsse für nichtdeutsche Staatsangehörige im SGB II und SGB XII"/>
+      <string key="org:resource" value="Fraktion DIE LINKE">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion DIE LINKE"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Auswirkungen des Sanktions-Urteils des Bundesverfassungsgerichts auf das Asylbewerberleistungsgesetz und auf die Leistungsausschlüsse für nichtdeutsche Staatsangehörige im SGB II und SGB XII">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="265017"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Ulla Jelpke, MdB, DIE LINKE, 16"/>
+        <string key="autor" value="Dr. André Hahn, MdB, DIE LINKE, 1665"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/211/1921107.pdf">
+        <string key="pdf_hash" value="425ffcdefce7769bda8a5dd1cff03a38"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Antwort"/>
+      <string key="vorgangsbezug" value="265017"/>
+      <date key="time:timestamp" value="2021-01-20T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/26032"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="249470"/>
+      <string key="titel" value="auf die Große Anfrage
+- Drucksache 19/21107 -
+Auswirkungen des Sanktions-Urteils des Bundesverfassungsgerichts auf das Asylbewerberleistungsgesetz und auf die Leistungsausschlüsse für nichtdeutsche Staatsangehörige im SGB II und SGB XII"/>
+      <string key="org:resource" value="Bundesministerium für Arbeit und Soziales">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Auswirkungen des Sanktions-Urteils des Bundesverfassungsgerichts auf das Asylbewerberleistungsgesetz und auf die Leistungsausschlüsse für nichtdeutsche Staatsangehörige im SGB II und SGB XII">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="265017"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/260/1926032.pdf">
+        <date key="verteildatum" value="2021-01-26"/>
+        <string key="pdf_hash" value="7f823bfc6257242730fade328aba7638"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="235080"/>
+    <event>
+      <string key="concept:name" value="Große Anfrage"/>
+      <string key="vorgangsbezug" value="235080"/>
+      <date key="time:timestamp" value="2018-04-23T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/1955"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="219076"/>
+      <string key="titel" value="Rücküberweisungen aus Deutschland"/>
+      <string key="org:resource" value="Fraktion der AfD">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion der AfD"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Rücküberweisungen aus Deutschland">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="235080"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Markus Frohnmaier, MdB, AfD, 2176"/>
+        <string key="autor" value="Dietmar Friedhoff, MdB, AfD, 2171"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/019/1901955.pdf">
+        <string key="pdf_hash" value="a10ba899dab7f9967749529122a1dd60"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Antwort"/>
+      <string key="vorgangsbezug" value="235080"/>
+      <date key="time:timestamp" value="2018-07-10T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/3186"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="220670"/>
+      <string key="titel" value="auf die Große Anfrage
+- Drucksache 19/1955 -
+Rücküberweisungen aus Deutschland"/>
+      <string key="org:resource" value="Bundesministerium des Innern, für Bau und Heimat">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Rücküberweisungen aus Deutschland">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="235080"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/031/1903186.pdf">
+        <string key="pdf_hash" value="646e413a6bf7abe415b7323a00033578"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="252040"/>
+    <event>
+      <string key="concept:name" value="Große Anfrage"/>
+      <string key="vorgangsbezug" value="252040"/>
+      <date key="time:timestamp" value="2019-08-20T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/12525"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="232995"/>
+      <string key="titel" value="Externe Qualitätskontrolle der Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH"/>
+      <string key="org:resource" value="Fraktion der AfD">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion der AfD"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Externe Qualitätskontrolle der Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="252040"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Markus Frohnmaier, MdB, AfD, 2176"/>
+        <string key="autor" value="Dietmar Friedhoff, MdB, AfD, 2171"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/125/1912525.pdf">
+        <string key="pdf_hash" value="5e2ceee0090f01db517d2b766b3be9d1"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Antwort"/>
+      <string key="vorgangsbezug" value="252040"/>
+      <date key="time:timestamp" value="2020-02-21T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/17370"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="238935"/>
+      <string key="titel" value="auf die Große Anfrage
+- Drucksache 19/12525 -
+Externe Qualitätskontrolle der Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH"/>
+      <string key="org:resource" value="Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Externe Qualitätskontrolle der Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="252040"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/173/1917370.pdf">
+        <string key="pdf_hash" value="67bc14bb293f2a49d2d85d415a7f6e6c"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="259843"/>
+    <event>
+      <string key="concept:name" value="Große Anfrage"/>
+      <string key="vorgangsbezug" value="259843"/>
+      <date key="time:timestamp" value="2020-03-09T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/17687"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="239293"/>
+      <string key="titel" value="Weg zu einer gemeinsamen wertebasierten und realistischen China-Politik der EU"/>
+      <string key="org:resource" value="Fraktion BÜNDNIS 90/DIE GRÜNEN">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion BÜNDNIS 90/DIE GRÜNEN"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Weg zu einer gemeinsamen wertebasierten und realistischen China-Politik der EU">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="259843"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Jürgen Trittin, MdB, BÜNDNIS 90/DIE GRÜNEN, 41"/>
+        <string key="autor" value="Katharina Dröge, MdB, BÜNDNIS 90/DIE GRÜNEN, 1543"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/176/1917687.pdf">
+        <string key="pdf_hash" value="fb66c05880a758da32b8eb899dabf1de"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Antwort"/>
+      <string key="vorgangsbezug" value="259843"/>
+      <date key="time:timestamp" value="2020-06-24T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/20346"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="242597"/>
+      <string key="titel" value="auf die Große Anfrage
+- Drucksache 19/17687 -
+Weg zu einer gemeinsamen wertebasierten und realistischen China-Politik der EU"/>
+      <string key="org:resource" value="Auswärtiges Amt">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Weg zu einer gemeinsamen wertebasierten und realistischen China-Politik der EU">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="259843"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/203/1920346.pdf">
+        <string key="pdf_hash" value="f45439cd09626d633379f65b8d5f1bb8"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="258372"/>
+    <event>
+      <string key="concept:name" value="Große Anfrage"/>
+      <string key="vorgangsbezug" value="258372"/>
+      <date key="time:timestamp" value="2020-01-28T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/16810"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="238192"/>
+      <string key="titel" value="Finanzielle Situation der Kommunen in Deutschland"/>
+      <string key="org:resource" value="Fraktion BÜNDNIS 90/DIE GRÜNEN">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion BÜNDNIS 90/DIE GRÜNEN"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Finanzielle Situation der Kommunen in Deutschland">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="258372"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Stefan Schmidt, MdB, BÜNDNIS 90/DIE GRÜNEN, 2114"/>
+        <string key="autor" value="Britta Haßelmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 118"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/168/1916810.pdf">
+        <string key="pdf_hash" value="bf741eee63ad8cae2aa830857a24747f"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Antwort"/>
+      <string key="vorgangsbezug" value="258372"/>
+      <date key="time:timestamp" value="2020-07-31T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/21407"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="243922"/>
+      <string key="titel" value="auf die Große Anfrage 
+- Drucksache 19/16810 -
+Finanzielle Situation der Kommunen in Deutschland"/>
+      <string key="org:resource" value="Bundesministerium der Finanzen">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Finanzielle Situation der Kommunen in Deutschland">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="258372"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/214/1921407.pdf">
+        <string key="pdf_hash" value="62a835c09faefe6392dcac279411be2c"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="248607"/>
+    <event>
+      <string key="concept:name" value="Große Anfrage"/>
+      <string key="vorgangsbezug" value="248607"/>
+      <date key="time:timestamp" value="2019-05-28T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/10492"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="229596"/>
+      <string key="titel" value="Ergebnisse der deutschen Aufbau- und Entwicklungszusammenarbeit in Afghanistan 2002 bis 2018"/>
+      <string key="org:resource" value="Fraktion der AfD">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion der AfD"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Ergebnisse der deutschen Aufbau- und Entwicklungszusammenarbeit in Afghanistan 2002 bis 2018">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="248607"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Armin-Paulus Hampel, MdB, AfD, 2204"/>
+        <string key="autor" value="Dr. Roland Hartwig, MdB, AfD, 2207"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/104/1910492.pdf">
+        <date key="verteildatum" value="2019-06-13"/>
+        <string key="pdf_hash" value="caccdda04254a86bf576421bb58ba026"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Antwort"/>
+      <string key="vorgangsbezug" value="248607"/>
+      <date key="time:timestamp" value="2019-12-30T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/16274"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="237592"/>
+      <string key="titel" value="auf die Große Anfrage
+- Drucksache 19/10492 -
+Ergebnisse der deutschen Aufbau- und Entwicklungszusammenarbeit in Afghanistan 2002 bis 2018"/>
+      <string key="org:resource" value="Auswärtiges Amt">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Ergebnisse der deutschen Aufbau- und Entwicklungszusammenarbeit in Afghanistan 2002 bis 2018">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="248607"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/162/1916274.pdf">
+        <string key="pdf_hash" value="9d7f6719cdfa1cf891890d68913af6bc"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="251029"/>
+    <event>
+      <string key="concept:name" value="Große Anfrage"/>
+      <string key="vorgangsbezug" value="251029"/>
+      <date key="time:timestamp" value="2019-07-17T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/11733"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="232132"/>
+      <string key="titel" value="Die fiskalischen Lasten der Zuwanderung"/>
+      <string key="org:resource" value="Fraktion der AfD">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion der AfD"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Die fiskalischen Lasten der Zuwanderung">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="251029"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Kay Gottschalk, MdB, AfD, 2191"/>
+        <string key="autor" value="Albrecht Glaser, MdB, AfD, 2185"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/117/1911733.pdf">
+        <string key="pdf_hash" value="101b99aaabec8a9b7568e46561c0c29f"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Antwort"/>
+      <string key="vorgangsbezug" value="251029"/>
+      <date key="time:timestamp" value="2020-03-19T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/18352"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="240092"/>
+      <string key="titel" value="auf die Große Anfrage
+- Drucksache 19/11733 -
+Die fiskalischen Lasten der Zuwanderung"/>
+      <string key="org:resource" value="Bundesministerium des Innern, für Bau und Heimat">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Die fiskalischen Lasten der Zuwanderung">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="251029"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/183/1918352.pdf">
+        <string key="pdf_hash" value="a5b6bc4c4dea2c2ef1cca86e0e087f80"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="271004"/>
+    <event>
+      <string key="concept:name" value="Große Anfrage"/>
+      <string key="vorgangsbezug" value="271004"/>
+      <date key="time:timestamp" value="2020-12-08T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/24998"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="248240"/>
+      <string key="titel" value="Unterstützungsmaßnahmen für die deutsche Musikindustrie im Zusammenhang mit der Corona-Pandemie"/>
+      <string key="org:resource" value="Fraktion der AfD">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion der AfD"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Unterstützungsmaßnahmen für die deutsche Musikindustrie im Zusammenhang mit der Corona-Pandemie">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="271004"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Dr. Marc Jongen, MdB, AfD, 2232"/>
+        <string key="autor" value="Martin Erwin Renner, MdB, AfD, 2056"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/249/1924998.pdf">
+        <date key="verteildatum" value="2020-12-14"/>
+        <string key="pdf_hash" value="6f428ff1424ea78bbd81368254b62515"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Antwort"/>
+      <string key="vorgangsbezug" value="271004"/>
+      <date key="time:timestamp" value="2021-06-09T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/30435"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="255141"/>
+      <string key="titel" value="auf die Große Anfrage
+- Drucksache 19/24998 -
+Unterstützungsmaßnahmen für die deutsche Musikindustrie im Zusammenhang mit der Corona-Pandemie"/>
+      <string key="org:resource" value="Beauftr. der Bundesregierung für Kultur und Medien">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Unterstützungsmaßnahmen für die deutsche Musikindustrie im Zusammenhang mit der Corona-Pandemie">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="271004"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/304/1930435.pdf">
+        <date key="verteildatum" value="2021-06-14"/>
+        <string key="pdf_hash" value="ae00c5df8d3b3ad2e2a9dc136555afee"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="252898"/>
+    <event>
+      <string key="concept:name" value="Große Anfrage"/>
+      <string key="vorgangsbezug" value="252898"/>
+      <date key="time:timestamp" value="2019-09-12T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/13171"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="233749"/>
+      <string key="titel" value="Teilweise Erhaltung des Solidaritätszuschlages"/>
+      <string key="org:resource" value="Fraktion der AfD">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion der AfD"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Teilweise Erhaltung des Solidaritätszuschlages">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="252898"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Stefan Keuter, MdB, AfD, 2247"/>
+        <string key="autor" value="Albrecht Glaser, MdB, AfD, 2185"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/131/1913171.pdf">
+        <string key="pdf_hash" value="b087019c6d49dab4bf1450314be77f4d"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Antwort"/>
+      <string key="vorgangsbezug" value="252898"/>
+      <date key="time:timestamp" value="2020-03-13T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/17962"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="239635"/>
+      <string key="titel" value="auf die Große Anfrage
+- Drucksache 19/13171 -
+Teilweise Erhaltung des Solidaritätszuschlages"/>
+      <string key="org:resource" value="Bundesministerium der Finanzen">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Teilweise Erhaltung des Solidaritätszuschlages">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="252898"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/179/1917962.pdf">
+        <string key="pdf_hash" value="a7c7254e34d23b9c25678070bdbb5fcc"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="266244"/>
+    <event>
+      <string key="concept:name" value="Große Anfrage"/>
+      <string key="vorgangsbezug" value="266244"/>
+      <date key="time:timestamp" value="2020-08-26T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/21882"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="244367"/>
+      <string key="titel" value="Schutz vor multiresistenten und nosokomialen Keimen"/>
+      <string key="org:resource" value="Fraktion der AfD">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion der AfD"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Schutz vor multiresistenten und nosokomialen Keimen">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="266244"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Prof. Dr. Axel Gehrke, MdB, AfD, 2181"/>
+        <string key="autor" value="Detlev Spangenberg, MdB, AfD, 2139"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/218/1921882.pdf">
+        <string key="pdf_hash" value="f0497157dafaacfd41ee385acd41a65b"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Antwort"/>
+      <string key="vorgangsbezug" value="266244"/>
+      <date key="time:timestamp" value="2021-03-29T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/28076"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="252208"/>
+      <string key="titel" value="auf die Große Anfrage
+- Drucksache 19/21882 -
+Schutz vor multiresistenten und nosokomialen Keimen"/>
+      <string key="org:resource" value="Bundesministerium für Gesundheit">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Schutz vor multiresistenten und nosokomialen Keimen">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="266244"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/280/1928076.pdf">
+        <date key="verteildatum" value="2021-04-07"/>
+        <string key="pdf_hash" value="8dcf6b30777a7eca2efe4dd7a64587e5"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="239170"/>
+    <event>
+      <string key="concept:name" value="Große Anfrage"/>
+      <string key="vorgangsbezug" value="239170"/>
+      <date key="time:timestamp" value="2018-09-13T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/4313"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="222083"/>
+      <string key="titel" value="Vermeintliche &quot;Hetzjagden&quot; in Chemnitz am 26. August 2018"/>
+      <string key="org:resource" value="Fraktion der AfD">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion der AfD"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Vermeintliche &quot;Hetzjagden&quot; in Chemnitz am 26. August 2018">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="239170"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Martin Erwin Renner, MdB, AfD, 2056"/>
+        <string key="autor" value="Andreas Bleck, MdB, AfD, 2071"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/043/1904313.pdf">
+        <string key="pdf_hash" value="579cb11bedc0e54d1ec4eb531913f186"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Antwort"/>
+      <string key="vorgangsbezug" value="239170"/>
+      <date key="time:timestamp" value="2019-03-20T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/8570"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="227347"/>
+      <string key="titel" value="auf die Große Anfrage
+- Drucksache 19/4313 -
+Vermeintliche &quot;Hetzjagden&quot; in Chemnitz am 26. August 2018"/>
+      <string key="org:resource" value="Presse- und Informationsamt der Bundesregierung">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Vermeintliche &quot;Hetzjagden&quot; in Chemnitz am 26. August 2018">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="239170"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/085/1908570.pdf">
+        <string key="pdf_hash" value="b050ee124b81d72451e5a10b08444c0c"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="237140"/>
+    <event>
+      <string key="concept:name" value="Große Anfrage"/>
+      <string key="vorgangsbezug" value="237140"/>
+      <date key="time:timestamp" value="2018-06-28T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/3061"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="220507"/>
+      <string key="titel" value="Internationale Lage der Menschenrechte von Lesben, Schwulen, Bisexuellen, Transsexuellen, Transgendern und Intersexuellen"/>
+      <string key="org:resource" value="Fraktion BÜNDNIS 90/DIE GRÜNEN">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion BÜNDNIS 90/DIE GRÜNEN"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Internationale Lage der Menschenrechte von Lesben, Schwulen, Bisexuellen, Transsexuellen, Transgendern und Intersexuellen">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="237140"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Kai Gehring, MdB, BÜNDNIS 90/DIE GRÜNEN, 546"/>
+        <string key="autor" value="Sven Lehmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 2269"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/030/1903061.pdf">
+        <string key="pdf_hash" value="51d8cef4c612a32c906e4932891826f3"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Antwort"/>
+      <string key="vorgangsbezug" value="237140"/>
+      <date key="time:timestamp" value="2019-03-29T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/9077"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="227920"/>
+      <string key="titel" value="auf die Große Anfrage
+- Drucksache 19/3061 -
+Internationale Lage der Menschenrechte von Lesben, Schwulen, Bisexuellen, Transsexuellen, Transgendern und Intersexuellen"/>
+      <string key="org:resource" value="Auswärtiges Amt">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Internationale Lage der Menschenrechte von Lesben, Schwulen, Bisexuellen, Transsexuellen, Transgendern und Intersexuellen">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="237140"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/090/1909077.pdf">
+        <string key="pdf_hash" value="1dafe2cf9454c5b432419a334861c184"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Entschließungsantrag"/>
+      <string key="vorgangsbezug" value="237140"/>
+      <date key="time:timestamp" value="2019-06-26T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/11177"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="231488"/>
+      <string key="titel" value="zu der Beratung der Antwort der Bundesregierung auf die Große Anfrage
+- Drucksachen 19/3061, 19/9077 -
+Internationale Lage der Menschenrechte von Lesben, Schwulen, Bisexuellen, Transsexuellen, Transgendern und Intersexuellen"/>
+      <string key="org:resource" value="Fraktion BÜNDNIS 90/DIE GRÜNEN">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion BÜNDNIS 90/DIE GRÜNEN"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Internationale Lage der Menschenrechte von Lesben, Schwulen, Bisexuellen, Transsexuellen, Transgendern und Intersexuellen">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="237140"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Kai Gehring, MdB, BÜNDNIS 90/DIE GRÜNEN, 546"/>
+        <string key="autor" value="Sven Lehmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 2269"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/111/1911177.pdf">
+        <string key="pdf_hash" value="14f3615bc4a14e2f96cc207952b6093c"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="244659"/>
+    <event>
+      <string key="concept:name" value="Große Anfrage"/>
+      <string key="vorgangsbezug" value="244659"/>
+      <date key="time:timestamp" value="2019-03-05T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/8124"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="226848"/>
+      <string key="titel" value="De-facto-Besteuerung und -Entwertung von Bargeld"/>
+      <string key="org:resource" value="Fraktion der AfD">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion der AfD"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="De-facto-Besteuerung und -Entwertung von Bargeld">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="244659"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Stefan Keuter, MdB, AfD, 2247"/>
+        <string key="autor" value="Kay Gottschalk, MdB, AfD, 2191"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/081/1908124.pdf">
+        <string key="pdf_hash" value="2e4131f247d94d517ba122e81b6e1747"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Antwort"/>
+      <string key="vorgangsbezug" value="244659"/>
+      <date key="time:timestamp" value="2019-05-13T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/10144"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="229223"/>
+      <string key="titel" value="auf die Große Anfrage
+- Drucksache 19/8124 -
+De facto-Besteuerung und Entwertung von Bargeld"/>
+      <string key="org:resource" value="Bundesministerium der Finanzen">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="De-facto-Besteuerung und -Entwertung von Bargeld">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="244659"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/101/1910144.pdf">
+        <date key="verteildatum" value="2019-05-28"/>
+        <string key="pdf_hash" value="995bcb36de53a7ef9183378fed84f912"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="234064"/>
+    <event>
+      <string key="concept:name" value="Große Anfrage"/>
+      <string key="vorgangsbezug" value="234064"/>
+      <date key="time:timestamp" value="2018-03-28T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/1524"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="218521"/>
+      <string key="titel" value="Maßnahmen der Bundesregierung zur Verhinderung drohender Fahrverbote für Diesel-Kraftfahrzeuge in deutschen Städten"/>
+      <string key="org:resource" value="Fraktion der FDP">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion der FDP"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Maßnahmen der Bundesregierung zur Verhinderung drohender Fahrverbote für Diesel-Kraftfahrzeuge in deutschen Städten">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="234064"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Oliver Luksic, MdB, FDP, 7548"/>
+        <string key="autor" value="Torsten Herbst, MdB, FDP, 2216"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/015/1901524.pdf">
+        <string key="pdf_hash" value="d165213a3952ca17c25eb4afc37451ad"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Antwort"/>
+      <string key="vorgangsbezug" value="234064"/>
+      <date key="time:timestamp" value="2018-10-23T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/5237"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="223319"/>
+      <string key="titel" value="auf die Kleine Anfrage
+- Drucksache 19/1524 -
+Maßnahmen der Bundesregierung zur Verhinderung drohender Fahrverbote für Diesel-Kraftfahrzeuge in deutschen Städten
+"/>
+      <string key="org:resource" value="Bundesministerium für Verkehr und digitale Infrastruktur">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Maßnahmen der Bundesregierung zur Verhinderung drohender Fahrverbote für Diesel-Kraftfahrzeuge in deutschen Städten">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="234064"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/052/1905237.pdf">
+        <string key="pdf_hash" value="55cd3a668930d731487c05d95b9d12bc"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="237417"/>
+    <event>
+      <string key="concept:name" value="Große Anfrage"/>
+      <string key="vorgangsbezug" value="237417"/>
+      <date key="time:timestamp" value="2018-07-05T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/3264"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="220775"/>
+      <string key="titel" value="Aufarbeitung der Provenienzen von Kulturgut aus kolonialem Erbe in Museen und Sammlungen"/>
+      <string key="org:resource" value="Fraktion der AfD">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion der AfD"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Aufarbeitung der Provenienzen von Kulturgut aus kolonialem Erbe in Museen und Sammlungen">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="237417"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Dr. Marc Jongen, MdB, AfD, 2232"/>
+        <string key="autor" value="Petr Bystron, MdB, AfD, 2093"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/032/1903264.pdf">
+        <string key="pdf_hash" value="e7a25769833d4e2c2a68899cc081ad80"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Antwort"/>
+      <string key="vorgangsbezug" value="237417"/>
+      <date key="time:timestamp" value="2018-12-13T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/6539"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="224957"/>
+      <string key="titel" value="auf die Große Anfrage
+- Drucksache 19/3264 -
+Aufarbeitung der Provenienzen von Kulturgut aus kolonialem Erbe in Museen und Sammlungen"/>
+      <string key="org:resource" value="Beauftr. der Bundesregierung für Kultur und Medien">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Aufarbeitung der Provenienzen von Kulturgut aus kolonialem Erbe in Museen und Sammlungen">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="237417"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/065/1906539.pdf">
+        <string key="pdf_hash" value="eb37e26c4b72f071279a2c442d87d218"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="244621"/>
+    <event>
+      <string key="concept:name" value="Große Anfrage"/>
+      <string key="vorgangsbezug" value="244621"/>
+      <date key="time:timestamp" value="2019-02-28T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/8058"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="226747"/>
+      <string key="titel" value="Vernetztes Handeln in der Außen-, Sicherheits- und Entwicklungspolitik stärken"/>
+      <string key="org:resource" value="Fraktion der FDP">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion der FDP"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Vernetztes Handeln in der Außen-, Sicherheits- und Entwicklungspolitik stärken">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="244621"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Alexander Graf Lambsdorff, MdB, FDP, 2266"/>
+        <string key="autor" value="Grigorios Aggelidis, MdB, FDP, 1970"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/080/1908058.pdf">
+        <string key="pdf_hash" value="b54c888d4b3bf2f44dea7adb83888ce6"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Antwort"/>
+      <string key="vorgangsbezug" value="244621"/>
+      <date key="time:timestamp" value="2019-09-04T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/13251"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="233854"/>
+      <string key="titel" value="auf die Große Anfrage
+- Drucksache 19/8058 -
+Vernetztes Handeln in der Außen-, Sicherheits- und Entwicklungspolitik stärken"/>
+      <string key="org:resource" value="Auswärtiges Amt">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Vernetztes Handeln in der Außen-, Sicherheits- und Entwicklungspolitik stärken">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="244621"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/132/1913251.pdf">
+        <string key="pdf_hash" value="2442ad0b2bddaca0f4caa51831406991"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="269455"/>
+    <event>
+      <string key="concept:name" value="Große Anfrage"/>
+      <string key="vorgangsbezug" value="269455"/>
+      <date key="time:timestamp" value="2020-11-04T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/23985"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="246962"/>
+      <string key="titel" value="Anschlag auf Kunstwerke und Antiken in Museen der Stiftung Preußischer Kulturbesitz"/>
+      <string key="org:resource" value="Fraktion der AfD">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion der AfD"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Anschlag auf Kunstwerke und Antiken in Museen der Stiftung Preußischer Kulturbesitz">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="269455"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Dr. Marc Jongen, MdB, AfD, 2232"/>
+        <string key="autor" value="Martin Erwin Renner, MdB, AfD, 2056"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/239/1923985.pdf">
+        <date key="verteildatum" value="2020-11-10"/>
+        <string key="pdf_hash" value="d6d38797c2462e50ba233f58f21dddbf"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Antwort"/>
+      <string key="vorgangsbezug" value="269455"/>
+      <date key="time:timestamp" value="2021-03-10T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/27473"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="251358"/>
+      <string key="titel" value="auf die Große Anfrage
+- Drucksache 19/23985 -
+Anschlag auf Kunstwerke und Antiken in Museen der Stiftung Preußischer Kulturbesitz"/>
+      <string key="org:resource" value="Beauftr. der Bundesregierung für Kultur und Medien">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Anschlag auf Kunstwerke und Antiken in Museen der Stiftung Preußischer Kulturbesitz">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="269455"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/274/1927473.pdf">
+        <date key="verteildatum" value="2021-03-15"/>
+        <string key="pdf_hash" value="7173c292b7d8535605cad90dfc8566cc"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="241307"/>
+    <event>
+      <string key="concept:name" value="Große Anfrage"/>
+      <string key="vorgangsbezug" value="241307"/>
+      <date key="time:timestamp" value="2018-11-08T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/5630"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="223763"/>
+      <string key="titel" value="Der &quot;Masterplan&quot; des Bundesinnenministers Seehofer und die Maßnahmen zur Abwehr illegaler Einwanderung nach dem Kompromisspapier zwischen Bundeskanzlerin Merkel und Bundesinnenminister Seehofer vom 1. Juli 2018"/>
+      <string key="org:resource" value="Fraktion der AfD">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion der AfD"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Der &quot;Masterplan&quot; des Bundesinnenministers Seehofer und die Maßnahmen zur Abwehr illegaler Einwanderung nach dem Kompromisspapier zwischen Bundeskanzlerin Merkel und Bundesinnenminister Seehofer vom 1. Juli 2018">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="241307"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Dr. Gottfried Curio, MdB, AfD, 2106"/>
+        <string key="autor" value="Martin Hess, MdB, AfD, 2212"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/056/1905630.pdf">
+        <string key="pdf_hash" value="ad5d82038e05a61d5dd445fbbfb608a5"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Antwort"/>
+      <string key="vorgangsbezug" value="241307"/>
+      <date key="time:timestamp" value="2019-02-07T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/7568"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="226143"/>
+      <string key="titel" value="auf die Große Anfrage
+- Drucksache 19/5630 -
+Der &quot;Masterplan&quot; des Bundesinnenministers Horst Seehofer und die Maßnahmen zur Abwehr illegaler Einwanderung nach dem Kompromisspapier zwischen Bundeskanzlerin Dr. Angela Merkel und Bundesinnenminister Horst Seehofer vom 1. Juli 2018"/>
+      <string key="org:resource" value="Bundesministerium des Innern, für Bau und Heimat">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Der &quot;Masterplan&quot; des Bundesinnenministers Seehofer und die Maßnahmen zur Abwehr illegaler Einwanderung nach dem Kompromisspapier zwischen Bundeskanzlerin Merkel und Bundesinnenminister Seehofer vom 1. Juli 2018">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="241307"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/075/1907568.pdf">
+        <string key="pdf_hash" value="7ef68f562f2014c6f6aac5db9578ae3f"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="258718"/>
+    <event>
+      <string key="concept:name" value="Große Anfrage"/>
+      <string key="vorgangsbezug" value="258718"/>
+      <date key="time:timestamp" value="2020-02-04T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/16992"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="238427"/>
+      <string key="titel" value="Soziale und gesundheitliche Situation von Lesben, Schwulen, Bisexuellen, trans- und intergeschlechtlichen Menschen (LSBTI) in Deutschland"/>
+      <string key="org:resource" value="Fraktion BÜNDNIS 90/DIE GRÜNEN">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion BÜNDNIS 90/DIE GRÜNEN"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Soziale und gesundheitliche Situation von Lesben, Schwulen, Bisexuellen, trans- und intergeschlechtlichen Menschen (LSBTI) in Deutschland">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="258718"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Sven Lehmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 2269"/>
+        <string key="autor" value="Ulle Schauws, MdB, BÜNDNIS 90/DIE GRÜNEN, 1600"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/169/1916992.pdf">
+        <string key="pdf_hash" value="04c26c96c151942d04e9ae6b1426d090"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Antwort"/>
+      <string key="vorgangsbezug" value="258718"/>
+      <date key="time:timestamp" value="2021-04-01T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/28233"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="252312"/>
+      <string key="titel" value="auf die Große Anfrage
+- Drucksache 19/16992 -
+Soziale und gesundheitliche Situation von Lesben, Schwulen, Bisexuellen, trans- und intergeschlechtlichen Menschen (LSBTI) in Deutschland"/>
+      <string key="org:resource" value="Bundesministerium für Familie, Senioren, Frauen und Jugend">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Soziale und gesundheitliche Situation von Lesben, Schwulen, Bisexuellen, trans- und intergeschlechtlichen Menschen (LSBTI) in Deutschland">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="258718"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/282/1928233.pdf">
+        <date key="verteildatum" value="2021-04-09"/>
+        <string key="pdf_hash" value="315e7062b75dbb1f5ba573c90074fc1e"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="273367"/>
+    <event>
+      <string key="concept:name" value="Große Anfrage"/>
+      <string key="vorgangsbezug" value="273367"/>
+      <date key="time:timestamp" value="2021-01-29T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/26362"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="249905"/>
+      <string key="titel" value="Deutsche Einschätzungen und Perspektiven zu China"/>
+      <string key="org:resource" value="Fraktion der AfD">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion der AfD"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Deutsche Einschätzungen und Perspektiven zu China">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="273367"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Armin-Paulus Hampel, MdB, AfD, 2204"/>
+        <string key="autor" value="Dr. Roland Hartwig, MdB, AfD, 2207"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/263/1926362.pdf">
+        <date key="verteildatum" value="2021-02-05"/>
+        <string key="pdf_hash" value="73a826f0288bd62469983311d6bf1a57"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Antwort"/>
+      <string key="vorgangsbezug" value="273367"/>
+      <date key="time:timestamp" value="2021-06-11T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/30643"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="255354"/>
+      <string key="titel" value="auf die Große Anfrage
+- Drucksache 19/26362 -
+Deutsche Einschätzungen und Perspektiven zu China"/>
+      <string key="org:resource" value="Auswärtiges Amt">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Deutsche Einschätzungen und Perspektiven zu China">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="273367"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/306/1930643.pdf">
+        <date key="verteildatum" value="2021-06-15"/>
+        <string key="pdf_hash" value="32ddbcffa40dd3760da13a38fb2fa917"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="233862"/>
+    <event>
+      <string key="concept:name" value="Große Anfrage"/>
+      <string key="vorgangsbezug" value="233862"/>
+      <date key="time:timestamp" value="2018-03-22T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/1488"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="218490"/>
+      <string key="titel" value="Praxis der Abschiebungshaft seit 2015"/>
+      <string key="org:resource" value="Fraktion DIE LINKE">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion DIE LINKE"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Praxis der Abschiebungshaft seit 2015">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="233862"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Ulla Jelpke, MdB, DIE LINKE, 16"/>
+        <string key="autor" value="Dr. André Hahn, MdB, DIE LINKE, 1665"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/014/1901488.pdf">
+        <string key="pdf_hash" value="c337174f397579f63300dbec9f049a19"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Antwort"/>
+      <string key="vorgangsbezug" value="233862"/>
+      <date key="time:timestamp" value="2018-11-16T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/5817"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="224002"/>
+      <string key="titel" value="auf die Große Anfrage
+- Drucksache 19/1488 -
+Praxis der Abschiebungshaft seit 2015"/>
+      <string key="org:resource" value="Bundesministerium des Innern, für Bau und Heimat">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Praxis der Abschiebungshaft seit 2015">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="233862"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/058/1905817.pdf">
+        <string key="pdf_hash" value="d7e541d8209b6df7b40e034b68effa46"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="273628"/>
+    <event>
+      <string key="concept:name" value="Große Anfrage"/>
+      <string key="vorgangsbezug" value="273628"/>
+      <date key="time:timestamp" value="2021-02-10T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/26561"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="250150"/>
+      <string key="titel" value="Die außenpolitischen Beziehungen zwischen Deutschland und Russland"/>
+      <string key="org:resource" value="Fraktion der AfD">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion der AfD"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Die außenpolitischen Beziehungen zwischen Deutschland und Russland">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="273628"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Dr. Anton Friesen, MdB, AfD, 2173"/>
+        <string key="autor" value="Armin-Paulus Hampel, MdB, AfD, 2204"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/265/1926561.pdf">
+        <date key="verteildatum" value="2021-02-16"/>
+        <string key="pdf_hash" value="308e5b6d612204d4302f6504389be02f"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Antwort"/>
+      <string key="vorgangsbezug" value="273628"/>
+      <date key="time:timestamp" value="2021-06-02T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/30228"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="254904"/>
+      <string key="titel" value="auf die Große Anfrage
+- Drucksache 19/26561 -
+Die außenpolitischen Beziehungen zwischen Deutschland und Russland"/>
+      <string key="org:resource" value="Auswärtiges Amt">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Die außenpolitischen Beziehungen zwischen Deutschland und Russland">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="273628"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/302/1930228.pdf">
+        <date key="verteildatum" value="2021-06-04"/>
+        <string key="pdf_hash" value="b258e000073e4246c5b3a121f7339c78"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="267449"/>
+    <event>
+      <string key="concept:name" value="Große Anfrage"/>
+      <string key="vorgangsbezug" value="267449"/>
+      <date key="time:timestamp" value="2020-09-21T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/22707"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="245424"/>
+      <string key="titel" value="Das Arbeitsprogramm des Forschungsinstituts für Gesellschaftlicher Zusammenhalt"/>
+      <string key="org:resource" value="Fraktion der AfD">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion der AfD"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Das Arbeitsprogramm des Forschungsinstituts für Gesellschaftlicher Zusammenhalt">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="267449"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Dr. Marc Jongen, MdB, AfD, 2232"/>
+        <string key="autor" value="Dr. Götz Frömming, MdB, AfD, 2177"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/227/1922707.pdf">
+        <date key="verteildatum" value="2020-10-08"/>
+        <string key="pdf_hash" value="868ad2b717f140e6620279cc432385be"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Antwort"/>
+      <string key="vorgangsbezug" value="267449"/>
+      <date key="time:timestamp" value="2021-01-27T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/26211"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="249701"/>
+      <string key="titel" value="auf die Große Anfrage
+- Drucksache 19/22707 -
+Das Arbeitsprogramm des Forschungsinstituts Gesellschaftlicher Zusammenhalt"/>
+      <string key="org:resource" value="Bundesministerium für Bildung und Forschung">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Das Arbeitsprogramm des Forschungsinstituts für Gesellschaftlicher Zusammenhalt">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="267449"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/262/1926211.pdf">
+        <date key="verteildatum" value="2021-02-04"/>
+        <string key="pdf_hash" value="68147f394a30cdd2ed61898f018f62c1"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="237256"/>
+    <event>
+      <string key="concept:name" value="Große Anfrage"/>
+      <string key="vorgangsbezug" value="237256"/>
+      <date key="time:timestamp" value="2018-07-03T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/3166"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="220652"/>
+      <string key="titel" value="Ökologische, soziale und menschenrechtliche Kriterien in der öffentlichen Beschaffung als Beitrag für eine nachhaltige Entwicklung weltweit"/>
+      <string key="org:resource" value="Fraktion BÜNDNIS 90/DIE GRÜNEN">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion BÜNDNIS 90/DIE GRÜNEN"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Ökologische, soziale und menschenrechtliche Kriterien in der öffentlichen Beschaffung als Beitrag für eine nachhaltige Entwicklung weltweit">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="237256"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Uwe Kekeritz, MdB, BÜNDNIS 90/DIE GRÜNEN, 1086"/>
+        <string key="autor" value="Katharina Dröge, MdB, BÜNDNIS 90/DIE GRÜNEN, 1543"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/031/1903166.pdf">
+        <string key="pdf_hash" value="bc1ab2bea39c8c4fed375d22e525e9e4"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Antwort"/>
+      <string key="vorgangsbezug" value="237256"/>
+      <date key="time:timestamp" value="2019-02-07T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/7567"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="226142"/>
+      <string key="titel" value="auf die Große Anfrage
+- Drucksache 19/3166 -
+Ökologische, soziale und menschenrechtliche Kriterien in der öffentlichen Beschaffung als Beitrag für eine nachhaltige Entwicklung weltweit"/>
+      <string key="org:resource" value="Bundesministerium des Innern, für Bau und Heimat">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Ökologische, soziale und menschenrechtliche Kriterien in der öffentlichen Beschaffung als Beitrag für eine nachhaltige Entwicklung weltweit">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="237256"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/075/1907567.pdf">
+        <string key="pdf_hash" value="2ec8e1ff61e3537f182df2e4d8f32726"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="250244"/>
+    <event>
+      <string key="concept:name" value="Große Anfrage"/>
+      <string key="vorgangsbezug" value="250244"/>
+      <date key="time:timestamp" value="2019-06-28T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/11250"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="231572"/>
+      <string key="titel" value="Rückwirkende Einbeziehung der DDR-Altübersiedlerinnen und DDR-Altübersiedler in die Gesetzgebung zur Rentenüberleitung"/>
+      <string key="org:resource" value="Fraktion DIE LINKE">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion DIE LINKE"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Rückwirkende Einbeziehung der DDR-Altübersiedlerinnen und DDR-Altübersiedler in die Gesetzgebung zur Rentenüberleitung">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="250244"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Matthias W. Birkwald, MdB, DIE LINKE, 1014"/>
+        <string key="autor" value="Matthias Höhn, MdB, DIE LINKE, 2228"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/112/1911250.pdf">
+        <string key="pdf_hash" value="e4c28c94f60b144034aef2dd43ecc5d2"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Antwort"/>
+      <string key="vorgangsbezug" value="250244"/>
+      <date key="time:timestamp" value="2020-01-30T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/16953"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="238345"/>
+      <string key="titel" value="auf die Große Anfrage 
+- Drucksache 19/11250 - 
+Rückwirkende Einbeziehung der DDR-Altübersiedlerinnen und DDR-Altübersiedler in die Gesetzgebung zur Rentenüberleitung"/>
+      <string key="org:resource" value="Bundesministerium für Arbeit und Soziales">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Rückwirkende Einbeziehung der DDR-Altübersiedlerinnen und DDR-Altübersiedler in die Gesetzgebung zur Rentenüberleitung">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="250244"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/169/1916953.pdf">
+        <string key="pdf_hash" value="c308ec7f313bd5836d9559fc5ead5935"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="274886"/>
+    <event>
+      <string key="concept:name" value="Große Anfrage"/>
+      <string key="vorgangsbezug" value="274886"/>
+      <date key="time:timestamp" value="2021-03-04T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/27324"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="251131"/>
+      <string key="titel" value="Praxis der Abschiebungshaft seit 2018"/>
+      <string key="org:resource" value="Fraktion DIE LINKE">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion DIE LINKE"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Praxis der Abschiebungshaft seit 2018">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="274886"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Ulla Jelpke, MdB, DIE LINKE, 16"/>
+        <string key="autor" value="Dr. André Hahn, MdB, DIE LINKE, 1665"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/273/1927324.pdf">
+        <date key="verteildatum" value="2021-03-09"/>
+        <string key="pdf_hash" value="65a043bf3283b02de60293a3ce944671"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Antwort"/>
+      <string key="vorgangsbezug" value="274886"/>
+      <date key="time:timestamp" value="2021-08-04T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/31669"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="257021"/>
+      <string key="titel" value="auf die Große Anfrage
+- Drucksache 19/27324 -
+Praxis der Abschiebungshaft seit 2018"/>
+      <string key="org:resource" value="Bundesministerium des Innern, für Bau und Heimat">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Praxis der Abschiebungshaft seit 2018">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="274886"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/316/1931669.pdf">
+        <date key="verteildatum" value="2021-08-11"/>
+        <string key="pdf_hash" value="48356061f5591e3e004e68061dadcef9"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="271507"/>
+    <event>
+      <string key="concept:name" value="Große Anfrage"/>
+      <string key="vorgangsbezug" value="271507"/>
+      <date key="time:timestamp" value="2020-12-17T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/25387"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="248707"/>
+      <string key="titel" value="Verlagerungspotenzial von Flügen auf die Bahn in Deutschland"/>
+      <string key="org:resource" value="Fraktion DIE LINKE">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion DIE LINKE"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Verlagerungspotenzial von Flügen auf die Bahn in Deutschland">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="271507"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Jörg Cezanne, MdB, DIE LINKE, 2095"/>
+        <string key="autor" value="Sabine Leidig, MdB, DIE LINKE, 1160"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/253/1925387.pdf">
+        <date key="verteildatum" value="2020-12-28"/>
+        <string key="pdf_hash" value="a8fa478c76646453414d496f859789e3"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Antwort"/>
+      <string key="vorgangsbezug" value="271507"/>
+      <date key="time:timestamp" value="2021-06-14T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/30670"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="255448"/>
+      <string key="titel" value="auf die Große Anfrage
+- Drucksache 19/25387 -
+Verlagerungspotenzial von Flügen auf die Bahn in Deutschland"/>
+      <string key="org:resource" value="Bundesministerium für Verkehr und digitale Infrastruktur">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Verlagerungspotenzial von Flügen auf die Bahn in Deutschland">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="271507"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/306/1930670.pdf">
+        <date key="verteildatum" value="2021-06-17"/>
+        <string key="pdf_hash" value="f1b03eb2e8a050d2361dddd01bd5ca11"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="244596"/>
+    <event>
+      <string key="concept:name" value="Große Anfrage"/>
+      <string key="vorgangsbezug" value="244596"/>
+      <date key="time:timestamp" value="2019-02-27T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/8041"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="226724"/>
+      <string key="titel" value="Stand der Umsetzung der Agenda 2030 und der globalen Nachhaltigkeitsziele in, durch und mit Deutschland"/>
+      <string key="org:resource" value="Fraktion BÜNDNIS 90/DIE GRÜNEN">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion BÜNDNIS 90/DIE GRÜNEN"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Stand der Umsetzung der Agenda 2030 und der globalen Nachhaltigkeitsziele in, durch und mit Deutschland">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="244596"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Uwe Kekeritz, MdB, BÜNDNIS 90/DIE GRÜNEN, 1086"/>
+        <string key="autor" value="Dr. Bettina Hoffmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 7550"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/080/1908041.pdf">
+        <string key="pdf_hash" value="75d6dc5f409c8f957e9d322bcfba3c96"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Antwort"/>
+      <string key="vorgangsbezug" value="244596"/>
+      <date key="time:timestamp" value="2019-09-19T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/13352"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="233969"/>
+      <string key="titel" value="auf die Große Anfrage
+- Drucksache 19/8041 -
+Stand der Umsetzung der Agenda 2030 und der globalen Nachhaltigkeitsziele in, durch und mit Deutschland
+"/>
+      <string key="org:resource" value="Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Stand der Umsetzung der Agenda 2030 und der globalen Nachhaltigkeitsziele in, durch und mit Deutschland">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="244596"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/133/1913352.pdf">
+        <string key="pdf_hash" value="85d321175e4426191f53ced2b5da9fd5"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="261672"/>
+    <event>
+      <string key="concept:name" value="Große Anfrage"/>
+      <string key="vorgangsbezug" value="261672"/>
+      <date key="time:timestamp" value="2020-04-28T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/18852"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="240648"/>
+      <string key="titel" value="Tierversuche in Deutschland"/>
+      <string key="org:resource" value="Fraktion der AfD">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion der AfD"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Tierversuche in Deutschland">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="261672"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Stephan Protschka, MdB, AfD, 2049"/>
+        <string key="autor" value="Peter Felser, MdB, AfD, 2158"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/188/1918852.pdf">
+        <string key="pdf_hash" value="09e816d2bca274e8c3983c4a99b89d01"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Antwort"/>
+      <string key="vorgangsbezug" value="261672"/>
+      <date key="time:timestamp" value="2020-05-27T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/19540"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="241540"/>
+      <string key="titel" value="auf die Große Anfrage
+- Drucksache 19/18852 -
+Tierversuche in Deutschland"/>
+      <string key="org:resource" value="Bundesministerium für Ernährung und Landwirtschaft">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Tierversuche in Deutschland">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="261672"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/195/1919540.pdf">
+        <string key="pdf_hash" value="e2d79a0f40f3dc5dca708744c23bcc86"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="250226"/>
+    <event>
+      <string key="concept:name" value="Große Anfrage"/>
+      <string key="vorgangsbezug" value="250226"/>
+      <date key="time:timestamp" value="2019-06-27T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/11240"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="231539"/>
+      <string key="titel" value="Antimuslimischer Rassismus und Diskriminierung von Muslimen in Deutschland"/>
+      <string key="org:resource" value="Fraktion DIE LINKE">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion DIE LINKE"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Antimuslimischer Rassismus und Diskriminierung von Muslimen in Deutschland">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="250226"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Christine Buchholz, MdB, DIE LINKE, 1025"/>
+        <string key="autor" value="Dr. André Hahn, MdB, DIE LINKE, 1665"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/112/1911240.pdf">
+        <string key="pdf_hash" value="a4a6f3cb29d0bc76254aa1457efcb557"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Antwort"/>
+      <string key="vorgangsbezug" value="250226"/>
+      <date key="time:timestamp" value="2020-02-06T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/17069"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="238530"/>
+      <string key="titel" value="auf die Große Anfrage
+- Drucksache 19/11240 -
+Antimuslimischer Rassismus und Diskriminierung von Muslimen in Deutschland"/>
+      <string key="org:resource" value="Bundesministerium des Innern, für Bau und Heimat">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Antimuslimischer Rassismus und Diskriminierung von Muslimen in Deutschland">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="250226"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/170/1917069.pdf">
+        <string key="pdf_hash" value="d7087431df32cb69df1c1482cd67e10c"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Entschließungsantrag"/>
+      <string key="vorgangsbezug" value="250226"/>
+      <date key="time:timestamp" value="2021-01-12T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/25778"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="249180"/>
+      <string key="titel" value="zu der Antwort der Bundesregierung auf die Große Anfrage der Abgeordneten Christine Buchholz, Dr. André Hahn, Gökay Akbulut, weiterer Abgeordneter und der Fraktion DIE LINKE.
+- Drucksachen 19/11240, 19/17069 -
+Antimuslimischer Rassismus und Diskriminierung von Muslimen in Deutschland"/>
+      <string key="org:resource" value="Fraktion DIE LINKE">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion DIE LINKE"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Antimuslimischer Rassismus und Diskriminierung von Muslimen in Deutschland">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="250226"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Christine Buchholz, MdB, DIE LINKE, 1025"/>
+        <string key="autor" value="Gökay Akbulut, MdB, DIE LINKE, 1971"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/257/1925778.pdf">
+        <date key="verteildatum" value="2021-01-12"/>
+        <string key="pdf_hash" value="e727ed984813251b085c06a3aedf2d4b"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="234967"/>
+    <event>
+      <string key="concept:name" value="Große Anfrage"/>
+      <string key="vorgangsbezug" value="234967"/>
+      <date key="time:timestamp" value="2018-04-27T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/1932"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="219026"/>
+      <string key="titel" value="Folgen des Brexit für Deutschland und Europa"/>
+      <string key="org:resource" value="Fraktion der FDP">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion der FDP"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Folgen des Brexit für Deutschland und Europa">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="234967"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Grigorios Aggelidis, MdB, FDP, 1970"/>
+        <string key="autor" value="Renata Alt, MdB, FDP, 1979"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/019/1901932.pdf">
+        <string key="pdf_hash" value="4dd884fa97857bf79c1aa44e0c49c462"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Antwort"/>
+      <string key="vorgangsbezug" value="234967"/>
+      <date key="time:timestamp" value="2018-11-20T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/5892"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="224115"/>
+      <string key="titel" value="auf die Große Anfrage
+- Drucksache 19/1932 -
+Folgen des Brexit für Deutschland und Europa"/>
+      <string key="org:resource" value="Auswärtiges Amt">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Folgen des Brexit für Deutschland und Europa">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="234967"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/058/1905892.pdf">
+        <string key="pdf_hash" value="691516b7961b8ca95c30d6783312ac3a"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="252207"/>
+    <event>
+      <string key="concept:name" value="Große Anfrage"/>
+      <string key="vorgangsbezug" value="252207"/>
+      <date key="time:timestamp" value="2019-08-22T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/12560"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="233058"/>
+      <string key="titel" value="Umsetzungsstand der elektronischen Gesundheitskarte (eGK) und weitere Digitalisierung im Gesundheitsbereich"/>
+      <string key="org:resource" value="Fraktion der AfD">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion der AfD"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Umsetzungsstand der elektronischen Gesundheitskarte (eGK) und weitere Digitalisierung im Gesundheitsbereich">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="252207"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Detlev Spangenberg, MdB, AfD, 2139"/>
+        <string key="autor" value="Prof. Dr. Axel Gehrke, MdB, AfD, 2181"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/125/1912560.pdf">
+        <string key="pdf_hash" value="22a3b47f00b8e89d99a6e8f77108e3b4"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Antwort"/>
+      <string key="vorgangsbezug" value="252207"/>
+      <date key="time:timestamp" value="2020-10-20T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/23526"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="246403"/>
+      <string key="titel" value="auf die Große Anfrage
+- Drucksache 19/12560 -
+Umsetzungsstand der elektronischen Gesundheitskarte (eGK) und weitere Digitalisierung im Gesundheitsbereich"/>
+      <string key="org:resource" value="Bundesministerium für Gesundheit">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Umsetzungsstand der elektronischen Gesundheitskarte (eGK) und weitere Digitalisierung im Gesundheitsbereich">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="252207"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/235/1923526.pdf">
+        <date key="verteildatum" value="2020-10-23"/>
+        <string key="pdf_hash" value="9ea8917f867cf0813ff319ca3adbc585"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="244957"/>
+    <event>
+      <string key="concept:name" value="Große Anfrage"/>
+      <string key="vorgangsbezug" value="244957"/>
+      <date key="time:timestamp" value="2019-03-14T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/8355"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="227095"/>
+      <string key="titel" value="Umsetzung der Bundestagsresolution zum Völkermord an den Armeniern"/>
+      <string key="org:resource" value="Fraktion der AfD">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion der AfD"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Umsetzung der Bundestagsresolution zum Völkermord an den Armeniern">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="244957"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Beatrix von Storch, MdB, AfD, 2151"/>
+        <string key="autor" value="Jürgen Braun, MdB, AfD, 2078"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/083/1908355.pdf">
+        <date key="verteildatum" value="2019-03-20"/>
+        <string key="pdf_hash" value="4e6f8646d4b20cefd47f2ab02140ed40"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Antwort"/>
+      <string key="vorgangsbezug" value="244957"/>
+      <date key="time:timestamp" value="2019-07-23T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/11959"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="232368"/>
+      <string key="titel" value="auf die Große Anfrage
+- Drucksache 19/8355 -
+Umsetzung der Bundestagsresolution zum Völkermord an den Armeniern"/>
+      <string key="org:resource" value="Auswärtiges Amt">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Umsetzung der Bundestagsresolution zum Völkermord an den Armeniern">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="244957"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/119/1911959.pdf">
+        <date key="verteildatum" value="2019-08-01"/>
+        <string key="pdf_hash" value="fd493befc8f89af2d052744c3a31b4cd"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="251938"/>
+    <event>
+      <string key="concept:name" value="Große Anfrage"/>
+      <string key="vorgangsbezug" value="251938"/>
+      <date key="time:timestamp" value="2019-08-19T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/12500"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="232976"/>
+      <string key="titel" value="Fiskalische Nachhaltigkeit der Rentenversicherung"/>
+      <string key="org:resource" value="Fraktion der FDP">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion der FDP"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Fiskalische Nachhaltigkeit der Rentenversicherung">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="251938"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Otto Fricke, MdB, FDP, 55"/>
+        <string key="autor" value="Johannes Vogel (Olpe), MdB, FDP, 2175"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/125/1912500.pdf">
+        <string key="pdf_hash" value="3dac39ffe0c3fe30ab75ce73ae21e3fa"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Antwort"/>
+      <string key="vorgangsbezug" value="251938"/>
+      <date key="time:timestamp" value="2020-01-30T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/16954"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="238346"/>
+      <string key="titel" value="auf die Große Anfrage 
+- Drucksache 19/12500 - 
+Fiskalische Nachhaltigkeit der Rentenversicherung"/>
+      <string key="org:resource" value="Bundesministerium für Arbeit und Soziales">
+        <string key="federfuehrend" value="true"/>
+        <string key="typ" value="Ressort"/>
+        <string key="urheber" value="Bundesregierung"/>
+      </string>
+      <string key="org:role" value="Ressort"/>
+      <string key="vorgangsbezug" value="Fiskalische Nachhaltigkeit der Rentenversicherung">
+        <string key="vorgangsbezug_typ" value="Große Anfrage"/>
+        <int key="vorgangsbezug_id" value="251938"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/169/1916954.pdf">
+        <string key="pdf_hash" value="e6bcf59b4a9f0bfb037254a96ad191b9"/>
+      </string>
+      <string key="org:group" value="Bundesregierung"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:18+02:00"/>
+    </event>
+  </trace>
+</log>

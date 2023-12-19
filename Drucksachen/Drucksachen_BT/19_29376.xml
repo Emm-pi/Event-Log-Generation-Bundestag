@@ -1,0 +1,666 @@
+<document>
+    <id>253609</id>
+    <drucksachetyp>Beschlussempfehlung und Bericht</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>7</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>2</vorgangsbezug_anzahl>
+    <dokumentnummer>19/29376</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>1056896f9ffe2f9a1cf9b86d59a38620</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:15+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>273934</id>
+      <titel>Gesetz zur Erprobung von Verfahren eines Registerzensus und zur &#196;nderung statistikrechtlicher Vorschriften</titel>
+      <vorgangstyp>Gesetzgebung</vorgangstyp>
+    </vorgangsbezug>
+    <vorgangsbezug>
+      <id>254131</id>
+      <titel>Smart Germany - Register modernisieren und &#246;ffentliches Datenmanagement einf&#252;hren</titel>
+      <vorgangstyp>Antrag</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>InnenA</bezeichnung>
+      <titel>Ausschuss f&#252;r Inneres und Heimat</titel>
+    </urheber>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/293/1929376.pdf</pdf_url>
+      <id>253609</id>
+      <dokumentnummer>19/29376</dokumentnummer>
+      <datum>2021-05-05</datum>
+      <verteildatum>2021-05-05</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Beschlussempfehlung und Bericht</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Ausschuss f&#252;r Inneres und Heimat</urheber>
+    </fundstelle>
+    <autoren_anzeige>
+      <id>1665</id>
+      <titel>Dr. Andr&#233; Hahn, MdB, DIE LINKE</titel>
+      <autor_titel>Andr&#233; Hahn, Berichterstattung</autor_titel>
+    </autoren_anzeige>
+    <autoren_anzeige>
+      <id>7542</id>
+      <titel>Thomas Hitschler, MdB, SPD</titel>
+      <autor_titel>Thomas Hitschler, Berichterstattung</autor_titel>
+    </autoren_anzeige>
+    <autoren_anzeige>
+      <id>1062</id>
+      <titel>Manuel H&#246;ferlin, MdB, FDP</titel>
+      <autor_titel>Manuel H&#246;ferlin, Berichterstattung</autor_titel>
+    </autoren_anzeige>
+    <autoren_anzeige>
+      <id>16</id>
+      <titel>Ulla Jelpke, MdB, DIE LINKE</titel>
+      <autor_titel>Ulla Jelpke, Berichterstattung</autor_titel>
+    </autoren_anzeige>
+    <text>[Deutscher Bundestag Drucksache 19/29376 
+19. Wahlperiode 05.05.2021 
+Beschlussempfehlung und Bericht
+des Ausschusses f&#252;r Inneres und Heimat (4. Ausschuss)
+a) Gesetzentwurf der Bundesregierung
+&#8211; Drucksachen 19/27425, 19/28168, 19/28605 1.9 &#8211;
+Entwurf eines Gesetzes zur Erprobung von Verfahren eines
+Registerzensus und zur &#196;nderung statistikrechtlicher Vorschriften 
+b) Antrag der Abgeordneten Manuel H&#246;ferlin, Stephan Thomae, Grigorios
+Aggelidis, weiterer Abgeordneter und der Fraktion der FDP
+&#8211; Drucksache 19/14053 &#8211;
+Smart Germany &#8211; Register modernisieren und &#246;ffentliches
+Datenmanagement einf&#252;hren 
+A. Problem
+Zu Buchstabe a
+Bund, L&#228;nder und Kommunen ben&#246;tigen f&#252;r politische, wirtschaftliche und
+gesellschaftliche Entscheidungen und Planungen verl&#228;ssliche Daten zur
+Bev&#246;lkerung, zur Arbeitsmarktbeteiligung und zur Wohnsituation. Zudem ist Deutschland
+nach der Verordnung (EG) Nr. 763/2008 des Europ&#228;ischen Parlaments und des
+Rates vom 9. Juli 2008 &#252;ber Volks- und Wohnungsz&#228;hlungen (ABI. L 218 vom
+13.8.2008, S. 14) verpflichtet, diese grundlegenden Daten an die Europ&#228;ische
+Kommission zu &#252;bermitteln. Die Daten werden bisher mittels einer
+registergest&#252;tzten Methode erhoben. K&#252;nftig zu erwartende &#196;nderungen der
+Anforderungen an die Ermittlung der Bev&#246;lkerungszahlen auf europ&#228;ischer Ebene und der
+Auftrag aus dem Urteil des Bundesverfassungsgerichtes (BVerfG) vom 19.
+September 2018 (2 BvF 1/15, 2 BvF 2/15 &#8211; BVerfGE 150, 1), dass zur Gewinnung
+realit&#228;tsgerechter Einwohnerzahlen stets der aktuelle Stand der wissenschaftlich 
+anerkannten Methoden angewendet werden muss, machen es erforderlich, die
+Erprobung eines registerbasierten Verfahrens der Datenermittlung rechtlich zu
+regeln. Ziel ist die Erprobung von Verfahren f&#252;r eine registerbasierte Gewinnung
+der Zensusdaten aus bereits in der Verwaltung vorhandenen Daten ohne
+prim&#228;rstatistische Befragungen.
+Aufgrund k&#252;nftig zu erwartender &#196;nderungen der Anforderungen an die
+Ermittlung der Bev&#246;lkerungszahlen auf europ&#228;ischer Ebene ist davon auszugehen, dass
+ab dem Jahr 2024 nicht nur alle zehn Jahre, sondern in k&#252;rzeren zeitlichen
+Abst&#228;nden Teile der Zensusmerkmale an die EU geliefert werden m&#252;ssen. Der
+Umfang der hierzu durchzuf&#252;hrenden Tests f&#252;hrt dazu, dass Einwohnerzahlen nach
+dem registerbasierten Verfahren voraussichtlich noch nicht zum Berichtsjahr
+2024 zur Verf&#252;gung stehen werden. Neben der Erprobung von Verfahren f&#252;r
+einen registerbasierten Zensus m&#252;ssen daher zugleich die Voraussetzungen daf&#252;r
+geschaffen werden, hilfs- und &#252;bergangsweise ab dem Jahr 2024 geokodierte
+Bev&#246;lkerungszahlen aus einer Kombination der Bev&#246;lkerungsfortschreibung mit
+j&#228;hrlichen Melderegisterausz&#252;gen zu sch&#228;tzen.
+Dar&#252;ber hinaus besteht im Bereich des Bev&#246;lkerungsstatistikgesetzes (BevStatG)
+fachlich notwendiger Gesetzgebungsbedarf. Dieser betrifft eine Verbesserung der
+M&#246;glichkeiten der statistischen Landes&#228;mter, die Wanderungsdaten im
+Zusammenhang mit der Wanderungsstatistik auf ihre Richtigkeit zu pr&#252;fen.
+Zu Buchstabe b
+Moderne, harmonisierte Register und eine damit einhergehende, durchgehende
+Modernisierung &#246;ffentlich verwalteter Datenbest&#228;nde seien nach Auffassung der
+Fraktion der FDP der Grundstein f&#252;r den digitalen Wandel der Verwaltung und
+die Grundlage f&#252;r einen grundrechtsschonenden, ausschlie&#223;lich registerbasierten 
+Zensus und eine moderne, datensparsame Verwaltungsleistung. Gem&#228;&#223; des
+Onlinezugangsgesetzes (OZG) seien der Bund, die L&#228;nder und die Kommunen bis
+zum Jahr 2020 dazu verpflichtet, alle Verwaltungsleistungen und
+Verwaltungsportale in Deutschland &#252;ber den bereits eingerichteten Portalverbund Bund zu
+verkn&#252;pfen und digital verf&#252;gbar zu machen. Die Sicherstellung eines
+standardisierten digitalen Zugriffs, die eindeutige Zuordnung und Verkn&#252;pfung von
+Registerdaten sowie die Verbesserung der Datenqualit&#228;t bed&#252;rfe einer konkreten
+Modernisierung. 
+Die Fraktion der FDP fordert die Bundesregierung daher insbesondere auf, den
+Koalitionsvertrag dahingehend umzusetzen, dass konkrete Ma&#223;nahmen in Bezug
+auf die Modernisierung &#246;ffentlicher Register eingeleitet und ein Zielbild f&#252;r eine
+moderne, dezentrale Registerlandschaft in Deutschland entwickelt werden.
+Zudem sollen rechtliche Rahmenbedingungen f&#252;r eine umfassende
+Registermodernisierung und die Einf&#252;hrung eines &#246;ffentlichen Datenmanagements festgelegt
+werden. Sie fordert die Bundesregierung dazu auf, im Sinne des Urteils des
+Bundesverfassungsgerichts vom 19. September 2018 die Methodik zur Durchf&#252;hrung
+des Zensus derart weiterzuentwickeln, dass der Zensus im Jahr 2031 als
+ausschlie&#223;lich registerbasierter Zensus durchgef&#252;hrt werden kann.
+B. L&#246;sung
+Zu Buchstabe a
+Der vorliegende Gesetzentwurf schafft die rechtlichen Voraussetzungen f&#252;r die
+Erprobung von Verfahren f&#252;r die k&#252;nftige registerbasierte Ermittlung der
+Bev&#246;lkerungszahlen. Die Daten des Zensus 2022 werden genutzt, um den Test der
+Methodik insbesondere in den Bereichen der Qualit&#228;tssicherung und der
+zuverl&#228;ssigen Zuordnung von Daten aus unterschiedlichen Datenbest&#228;nden wirtschaftlich
+und m&#246;glichst belastungsarm durchf&#252;hren zu k&#246;nnen. Die Nutzung dieser Daten
+erm&#246;glicht es, zus&#228;tzliche Belastungen f&#252;r die B&#252;rgerinnen und B&#252;rger durch
+zus&#228;tzliche Befragungen zu vermeiden und senkt zugleich die f&#252;r die
+Vorbereitungen ben&#246;tigten Aufw&#228;nde. Zudem regelt der Gesetzentwurf die Nutzung von
+Daten des Zensus 2022 f&#252;r den Aufbau eines statistischen Einrichtungsregisters, zur
+Erf&#252;llung k&#252;nftiger Lieferverpflichtungen, Untersuchungen zur Nutzung von
+Fernerkundungsdaten zur Ermittlung von Geb&#228;ude- und Wohnungsmerkmalen sowie 
+die Weiterentwicklung des Anschriftenregisters. 
+Neben der Erprobung von Verfahren f&#252;r einen registerbasierten Zensus schafft
+der Gesetzentwurf zugleich die Voraussetzungen daf&#252;r, hilfs- und
+&#252;bergangsweise ab dem Jahr 2024 geokodierte Bev&#246;lkerungszahlen aus einer Kombination
+der Bev&#246;lkerungsfortschreibung mit j&#228;hrlichen Melderegisterausz&#252;gen zu
+sch&#228;tzen. Hierzu werden j&#228;hrlich Bestandsdatenabz&#252;ge der Melderegister an die
+Statistik &#252;bermittelt, die auf Mehrfachf&#228;lle und Unstimmigkeiten gepr&#252;ft und
+anschlie&#223;end unter Nutzung von Sch&#228;tz- und Rundungsverfahren an Eckwerte der
+auf Basis des Zensus 2022 fortgeschriebenen Bev&#246;lkerungszahlen angepasst
+werden. Dieser Ansatz macht es &#252;bergangsweise m&#246;glich, die georeferenzierte
+Bev&#246;lkerungsz&#228;hlung &#8211; wie voraussichtlich ab 2024 von der Europ&#228;ischen Union
+gefordert &#8211; k&#252;nftig j&#228;hrlich statt bislang zehnj&#228;hrlich durchzuf&#252;hren, ohne hierzu
+einen vollst&#228;ndigen Zensus durchzuf&#252;hren.
+Die Erprobung von Methodentests zur Qualit&#228;tssicherung mittels
+Lebenszeichenansatz dient der zuk&#252;nftigen registerbasierten Ermittlung von realit&#228;tsgerechten
+Bev&#246;lkerungszahlen. Die Erkenntnisse aus den Methodentests liefern zugleich
+wichtige Grundlagen f&#252;r die Ausgestaltung der Qualit&#228;tssicherung im Rahmen
+der allgemeinen Registermodernisierung.
+Dar&#252;ber hinaus werden Anpassungen im BevStatG vorgenommen, um die
+M&#246;glichkeiten der statistischen Landes&#228;mter, die Wanderungsdaten im
+Zusammenhang mit der Wanderungsstatistik auf ihre Richtigkeit zu pr&#252;fen, zu verbessern
+und Fehler in der Lieferung und Verarbeitung der An- und Abmeldungen zu
+vermeiden. 
+Der Ausschuss f&#252;r Inneres und Heimat hat beschlossen, den Gesetzentwurf im
+Wesentlichen um folgende Ma&#223;nahmen abzu&#228;ndern und zu erg&#228;nzen:
+Umsetzung von &#196;nderungen, die sich aus der Gegen&#228;u&#223;erung der
+Bundesregierung zur Stellungnahme des Bundesrates vom 26. M&#228;rz 2021 ergeben:
+-   zur Qualit&#228;tssicherung (Ziffern 7, 9 und 10),
+-   zur Datenhaltung (Ziffern 6 und 8) sowie
+-   zu Daten&#252;bermittlungsanspr&#252;chen der L&#228;nder (Ziffern 3, 4, 5, 6).
+Die Daten&#252;bermittlungen der Meldebeh&#246;rden zum Zwecke der hilfs- und
+&#252;bergangsweisen Erstellung von erg&#228;nzenden Bev&#246;lkerungsstatistiken werden auf
+sechs Jahre und damit auf den Zeitraum bis zum 31. Dezember 2028 (d. h. 6
+Daten&#252;bermittlungen) befristet (Ziffer 2) &#8211; Umsetzung von in der Anh&#246;rung am 3.
+Mai 2021 gewonnenen Erkenntnissen. 
+Im &#220;brigen enth&#228;lt der &#196;nderungsantrag redaktionelle Bereinigungen und
+Fristanpassungen (insbesondere Ziffer 2). 
+Annahme des Gesetzentwurfs auf Drucksachen 19/27425, 19/28168 in
+ge&#228;nderter Fassung mit den Stimmen der Fraktionen der CDU/CSU und SPD
+gegen die Stimmen der Fraktionen AfD und DIE LINKE. bei Stimmenthaltung
+der Fraktionen FDP und B&#220;NDNIS 90/DIE GR&#220;NEN.
+Zu Buchstabe b
+Ablehnung des Antrags auf Drucksache 19/14053 mit den Stimmen der
+Fraktionen der CDU/CSU, SPD und AfD gegen die Stimmen der Fraktion der 
+FDP bei Stimmenthaltung der Fraktionen DIE LINKE. und B&#220;NDNIS
+90/DIE GR&#220;NEN.
+C. Alternativen
+Zu Buchstabe a
+Durchf&#252;hrung des Zensus wie bisher als registergest&#252;tzter Zensus, was jedoch mit
+einem erheblichen Aufwand und hohen Kosten verbunden w&#228;re. K&#252;nftig zu
+erwartende EU-Forderungen zur j&#228;hrlichen &#220;bermittlung von Bev&#246;lkerungsdaten
+ab 2024 k&#246;nnten damit voraussichtlich nicht erf&#252;llt werden.
+Zur zuk&#252;nftigen Durchf&#252;hrung eines Registerzensus ist eine rechtzeitige und
+umfangreiche methodische, organisatorische und technische Erprobung erforderlich.
+Ohne den vorliegenden Gesetzentwurf kann diese Erprobung nicht erfolgen.
+J&#228;hrliche Daten&#252;bermittlungen durch die Meldebeh&#246;rden unter ersatzlosem
+Verzicht auf erg&#228;nzende Datenerhebungen bei den Betroffenen k&#246;nnen nur genutzt
+werden, wenn &#8211; wie im Gesetzentwurf vorgesehen &#8211; hilfs- und &#252;bergangsweise
+zur Qualit&#228;tsbereinigung eine Anpassung an die auf dem letzten Zensus
+aufsetzenden Bev&#246;lkerungsfortschreibung vorgenommen wird.
+Zu Buchstabe b
+Annahme des Antrags.
+D. Haushaltsausgaben ohne Erf&#252;llungsaufwand
+Zu Buchstabe a
+Nach Kostenkalkulationen des Statistischen Bundesamtes und des
+Informationstechnikzentrum Bund (ITZBund) entstehen beim Bund f&#252;r das
+Registerzensuserprobungsgesetz Gesamtkosten in H&#246;he von rund 204 Millionen Euro (bis 2024).
+Davon entfallen auf das Statistische Bundesamt j&#228;hrliche Mehrkosten in H&#246;he
+von 7,9 Millionen Euro und auf das ITZBund entfallen f&#252;r die Jahre 2021-2024
+Mehrkosten in H&#246;he von insgesamt 37,873 Millionen Euro; f&#252;r 2021: 0,716
+Millionen Euro, f&#252;r 2022: 7,194 Millionen Euro, f&#252;r 2023: 13,059 Millionen Euro, ab
+2024: 16,904 Millionen Euro f&#252;r den laufenden Aufwand.
+Der einmalige Umstellungsaufwand f&#252;r das Statistische Bundesamt betr&#228;gt 98,7
+Millionen Euro und f&#252;r das ITZBund rund 35,798 Millionen Euro.
+Der Mehraufwand des Statistischen Bundesamtes und des ITZBund soll finanziell
+und stellenm&#228;&#223;ig im jeweiligen Einzelplan ausgeglichen werden.
+Nach Sch&#228;tzung des Statistischen Bundesamtes entfallen auf die Statistischen
+&#196;mter der L&#228;nder j&#228;hrliche Mehrkosten in H&#246;he von rund 23,4 Millionen Euro
+und einmalige Umstellungskosten in H&#246;he von rund 2,5 Millionen Euro.
+Zu Buchstabe b
+Wurden nicht er&#246;rtert.
+E. Erf&#252;llungsaufwand
+E.1 Erf&#252;llungsaufwand f&#252;r B&#252;rgerinnen und B&#252;rger
+Keiner.
+E.2 Erf&#252;llungsaufwand f&#252;r die Wirtschaft
+Keiner.
+Davon B&#252;rokratiekosten aus Informationspflichten
+Keine.
+E.3 Erf&#252;llungsaufwand der Verwaltung
+Zu Buchstabe a
+F&#252;r die Verwaltung erh&#246;ht sich der j&#228;hrliche Erf&#252;llungsaufwand um rund 48,4
+Millionen Euro. Davon entfallen rund 23,6 Millionen Euro auf Landesebene und
+rund 24,8 Millionen Euro auf Bundesebene. Der einmalige Erf&#252;llungsaufwand
+betr&#228;gt rund 213,7 Millionen Euro. Davon entfallen rund 134,9 Millionen Euro
+auf Bundesebene und rund 2,7 Millionen Euro auf Landesebene.
+Die Kosten der Statistischen &#196;mter der L&#228;nder beruhen auf einer vorl&#228;ufigen 
+Sch&#228;tzung und werden in Absprache mit dem Nationalen Normenkontrollrat bis
+zum 26. Februar 2021 aktualisiert, sobald die Kostenkalkulation vorliegt.
+Der Mehraufwand an Sach- und Personalmitteln soll finanziell und stellenm&#228;&#223;ig
+in den jeweiligen Einzelpl&#228;nen ausgeglichen werden.
+Zu Buchstabe b
+Wurde nicht er&#246;rtert.
+F. Weitere Kosten
+Zu Buchstabe a
+Die Regelungen haben keine Auswirkungen f&#252;r Verbraucher.
+Gleichstellungspolitische oder demografische Auswirkungen sind nicht zu erwarten. Der
+Gesetzentwurf ist gleichstellungspolitisch neutral.
+Zu Buchstabe b
+Wurden nicht er&#246;rtert.
+Beschlussempfehlung
+Der Bundestag wolle beschlie&#223;en,
+a) den Gesetzentwurf auf Drucksachen 19/27425, 19/28168 mit folgenden
+Ma&#223;gaben, im &#220;brigen unver&#228;ndert anzunehmen:
+Artikel 1 wird wie folgt ge&#228;ndert:
+1. &#167; 2 wird wie folgt gefasst:
+&#8222;&#167; 2
+Aufgaben des Statistischen Bundesamtes und der statistischen &#196;mter
+der L&#228;nder
+(1) Das Statistische Bundesamt bereitet im Benehmen mit den
+statistischen &#196;mtern der L&#228;nder die Erprobung des Registerzensus
+methodisch vor. 
+(2) Das Statistische Bundesamt ist f&#252;r die Entwicklung der f&#252;r
+die Erprobung des Registerzensus und die Verarbeitung der Daten der
+Meldebeh&#246;rden nach &#167; 4 ben&#246;tigten zentralen technischen
+Anwendungen verantwortlich. Die besonderen Erfahrungen der statistischen
+&#196;mter der L&#228;nder in der Verbundprogrammierung sollen dabei genutzt
+werden. Das Statistische Bundesamt h&#228;lt in Zusammenarbeit mit dem
+Informationstechnikzentrum Bund die f&#252;r die Aufbereitung und
+Datenhaltung notwendige IT-Infrastruktur vor. Die Verantwortlichkeit der
+statistischen &#196;mter der L&#228;nder f&#252;r die zur Erf&#252;llung der Aufgaben nach
+&#167; 9 notwendige IT-Infrastruktur bleibt davon unber&#252;hrt.&#8220;
+2. &#167; 4 wird wie folgt ge&#228;ndert:
+a) Absatz 1 Satz 1 wird wie folgt ge&#228;ndert:
+aa) Nach der Angabe &#8222;2023&#8220; werden die W&#246;rter &#8222;bis zum
+31. Dezember 2028&#8220; eingef&#252;gt.
+bb) Nach den W&#246;rtern &#8222;jede zum Stichtag&#8220; werden die W&#246;rter
+&#8222;mit alleiniger Wohnung oder Hauptwohnung&#8220; eingef&#252;gt. 
+cc) Nummer 11 wird aufgehoben. 
+dd) Die Nummern 12 bis 22 werden die Nummern 11 bis 21.
+b) Absatz 2 wird wie folgt ge&#228;ndert:
+aa) Satz 1 wird wie folgt gefasst:
+&#8222;Von den nach Absatz 1 &#252;bermittelten Daten werden die
+Daten zu den Merkmalen nach Absatz 1 Satz 1 Nummer 4, 6 bis
+12 und 16 bis 20 als Erhebungsmerkmale und die Daten nach
+Absatz 1 Satz 1 Nummer 1 bis 3, 13 bis 15 und 21 als
+Hilfsmerkmale erfasst.&#8220;
+bb) In Satz 2 wird nach der Angabe &#8222;Absatz 1&#8220; die Angabe
+&#8222;Satz 1&#8220; eingef&#252;gt.
+c) Absatz 3 wird wie folgt ge&#228;ndert: 
+aa) Nach Satz 1 wird folgender Satz eingef&#252;gt: 
+&#8222;Die Daten zu den Hilfsmerkmalen nach Absatz 1 Satz 1
+Nummer 2 und 21 sowie vom Geburtsdatum nach Absatz 1
+Satz 1 Nummer 5, die Angabe des Tages sind nach Abschluss
+der Mehrfachfallpr&#252;fung nach &#167; 5 Absatz 1 zu l&#246;schen,
+jedoch sp&#228;testens drei Jahre nach dem Stichtag.&#8220; 
+bb) Der neue Satz 3 wird wie folgt gefasst:
+&#8222;Die Daten zu den Hilfsmerkmalen nach Absatz 1 Satz 1
+Nummer 1 und 3 sowie 13 bis 15 sind nach Abschluss der
+Aufbereitung zu l&#246;schen, jedoch sp&#228;testens vier Jahre nach
+dem Stichtag.&#8220; 
+d) In Absatz 4 wird das Wort &#8222;acht&#8220; durch die Angabe &#8222;16&#8220; ersetzt. 
+e) In Absatz 5 werden die W&#246;rter &#8222;vier Wochen nach der
+&#220;berpr&#252;fung gem&#228;&#223; Absatz 4&#8220; durch die W&#246;rter &#8222;20 Wochen nach dem 
+jeweiligen Stichtag&#8220; ersetzt. 
+3. &#167; 5 Absatz 1 wird wie folgt ge&#228;ndert: 
+a) In Satz 1 werden die W&#246;rter &#8222;oder nur f&#252;r Nebenwohnungen&#8220;
+gestrichen. 
+b) Satz 3 wird wie folgt gefasst: 
+&#8222;Das Statistische Bundesamt &#252;bermittelt die daf&#252;r erforderlichen 
+Daten zu diesem Zweck an die statistischen &#196;mter der L&#228;nder.&#8220; 
+4. &#167; 6 Satz 1 wird wie folgt ge&#228;ndert: 
+a) In Nummer 2 wird nach der Angabe &#8222;2022&#8220; das Wort &#8222;und&#8220; durch 
+ein Komma ersetzt. 
+b) Der Nummer 3 wird das Wort &#8222;und&#8220; angef&#252;gt. 
+c) Nach Nummer 3 wird folgende Nummer 4 wird eingef&#252;gt: 
+&#8222;4. &#167; 16 Absatz 1 Nummer 1 bis 4 des Zensusgesetzes 2022&#8220;. 
+5. &#167; 7 wird wie folgt ge&#228;ndert: 
+a) In Absatz 1 Satz 2 werden nach dem Wort &#8222;Monaten&#8220; die W&#246;rter 
+&#8222;um bis zu zw&#246;lf Monate&#8220; eingef&#252;gt. 
+b) Absatz 7 wird wie folgt ge&#228;ndert: 
+aa) In Satz 2 wird das Wort &#8222;Abgleiche&#8220; durch das Wort
+&#8222;Pr&#252;fungen&#8220; ersetzt. 
+bb) Satz 3 wird wie folgt gefasst: 
+&#8222;Das Statistische Bundesamt &#252;bermittelt die daf&#252;r
+erforderlichen Daten zu diesem Zweck an die statistischen &#196;mter der
+L&#228;nder.&#8220; 
+6. &#167; 8 wird wie folgt ge&#228;ndert: 
+a) Absatz 2 Satz 3 wird wie folgt gefasst: 
+&#8222;Das Statistische Bundesamt &#252;bermittelt die daf&#252;r erforderlichen 
+Daten zu diesem Zweck an die statistischen &#196;mter der L&#228;nder.&#8220;
+b) In Absatz 3 werden die W&#246;rter &#8222;eines Registerzensus&#8220; durch die 
+W&#246;rter &#8222;der erg&#228;nzenden Bev&#246;lkerungsstatistiken&#8220; ersetzt. 
+c) Folgender Absatz 4 wird angef&#252;gt: 
+&#8222;(4) Nach Abschluss aller einmaligen und j&#228;hrlichen
+Aufbereitungsschritte erhalten die statistischen &#196;mter der L&#228;nder auf 
+Anforderung f&#252;r ihren jeweiligen Zust&#228;ndigkeitsbereich zur
+Evaluation der entwickelten Methoden eine Kopie der Daten nach &#167; 8 
+ohne die Hilfsmerkmale.&#8220; 
+7. Nach &#167; 8 wird folgender &#167; 8a eingef&#252;gt: 
+&#8222;&#167; 8a
+Kl&#228;rung von Unstimmigkeiten 
+(1) Soweit bei der Zusammenf&#252;hrung von Daten nach &#167; 8
+Absatz 2 Unstimmigkeiten in Bezug auf die Anschrift festgestellt werden,
+d&#252;rfen die statistischen &#196;mter der L&#228;nder bei bis zu 100 000 Personen
+zur Kl&#228;rung der Unstimmigkeiten elektronisch oder schriftlich
+erfragen, ob sie zum Zensusstichtag an einer bestimmten Anschrift wohnhaft
+gewesen sind und welche weiteren Wohnsitze gegebenenfalls in
+Deutschland bestanden. Personen, die in der Haushaltebefragung des
+Zensus 2022 befragt wurden, d&#252;rfen nicht erneut befragt werden. Es
+besteht Auskunftspflicht. 
+(2) Auskunftspflichtig sind alle Vollj&#228;hrigen und alle
+Minderj&#228;hrigen, die ohne Erziehungsberechtigten an einer Anschrift wohnhaft
+sind. Sie sind jeweils auch auskunftspflichtig f&#252;r minderj&#228;hrige
+Personen, die in der gleichen Wohnung wohnen.
+(3) F&#252;r vollj&#228;hrige Personen, die insbesondere wegen einer 
+Krankheit oder Behinderung nicht selbst Auskunft geben k&#246;nnen, ist
+jede andere in der Wohnung wohnende auskunftspflichtige Person
+auskunftspflichtig. Gibt es keine andere auskunftspflichtige Person in der
+Wohnung und ist f&#252;r die nicht auskunftsf&#228;hige Person ein Betreuer oder
+eine Betreuerin bestellt, so ist dieser oder diese auskunftspflichtig,
+soweit die Auskunft in seinen oder ihren Aufgabenbereich f&#228;llt.
+(4) Benennt eine wegen einer Krankheit oder Behinderung nicht 
+auskunftsf&#228;hige Person eine Vertrauensperson und erteilt diese die
+erforderliche Auskunft f&#252;r die nicht auskunftsf&#228;hige Person, so erlischt
+die Auskunftspflicht nach den Abs&#228;tzen 2 und 3.&#8220;
+8. &#167; 9 wird wie folgt ge&#228;ndert: 
+a) In Absatz 1 werden die W&#246;rter &#8222;speichert das Statistische
+Bundesamt&#8220; durch die W&#246;rter &#8222;speichern die statistischen &#196;mter der
+L&#228;nder jeweils f&#252;r ihren Zust&#228;ndigkeitsbereich&#8220; und die W&#246;rter &#8222;&#167; 11 
+Absatz 1 Satz 1&#8220; durch die W&#246;rter &#8222;&#167; 11 Absatz 1 Satz 2
+Nummer 2&#8220; ersetzt. 
+b) Absatz 3 wird wie folgt ge&#228;ndert: 
+aa) In Satz 1 werden die W&#246;rter &#8222;&#252;bermitteln die statistischen 
+&#196;mter der L&#228;nder dem Statistischen Bundesamt j&#228;hrlich auf
+Anforderung zum Abschluss der Aufbereitung&#8220; durch die
+W&#246;rter &#8222;speichern die statistischen &#196;mter der L&#228;nder jeweils
+f&#252;r ihren Zust&#228;ndigkeitsbereich nach Abschluss der
+Aufbereitung des jeweiligen Mikrozensus&#8220; ersetzt und wird das
+Wort &#8222;Doppelbuchstaben&#8220; durch die Angabe
+&#8222;Doppelbuchstabe aa,&#8220; ersetzt.
+bb) In Satz 2 werden die W&#246;rter &#8222;ihrer &#220;bermittlung nach
+Satz 1&#8220; durch die W&#246;rter &#8222;Abschluss der Aufbereitung des
+jeweiligen Mikrozensus&#8220; ersetzt. 
+9. &#167; 10 Absatz 1 wird wie folgt ge&#228;ndert: 
+a) In Satz 2 wird das Wort &#8222;Bundesstatistiken&#8220; durch die W&#246;rter 
+&#8222;Bundes- und Landesstatistiken sowie aus allgemein zug&#228;nglichen 
+Quellen&#8220; ersetzt. 
+b) Folgender Satz wird angef&#252;gt: 
+&#8222;Die statistischen &#196;mter der L&#228;nder wirken bei der Pflege des
+Einrichtungsregisters mit und d&#252;rfen es nutzen, soweit es zur
+Erf&#252;llung der Zwecke nach Satz 1 erforderlich ist.&#8220; 
+10. Nach &#167; 11 Satz 1 wird folgender Satz eingef&#252;gt: 
+&#8222;Die statistischen &#196;mter der L&#228;nder d&#252;rfen diese Daten zur
+Durchf&#252;hrung von Untersuchungen zur Erf&#252;llung des Zwecks nach Satz 1
+nutzen, soweit diese Daten sich auf Fl&#228;chen des jeweiligen Landes
+beziehen, die in der Stichprobe von 3 Prozent enthalten sind.&#8220;; 
+b) den Antrag auf Drucksache 19/14053 abzulehnen. 
+Berlin, den 5. Mai 2021
+Der Ausschuss f&#252;r Inneres und Heimat
+Andrea Lindholz 
+Vorsitzende
+Petra Nicolaisen Thomas Hitschler Dr. Christian Wirth
+Berichterstatterin Berichterstatter Berichterstatter
+Manuel H&#246;ferlin Dr. Andr&#233; Hahn Ulla Jelpke 
+Berichterstatter Berichterstatter Berichterstatterin 
+Dr. Konstantin von Notz
+Berichterstatter
+Bericht der Abgeordneten Petra Nicolaisen, Thomas Hitschler, Dr. Christian Wirth,
+Manuel H&#246;ferlin, Dr. Andr&#233; Hahn, Ulla Jelpke und Dr. Konstantin von Notz
+I. &#220;berweisung
+Zu Buchstabe a
+Der Gesetzentwurf auf Drucksache 19/27425 wurde in der 218. Sitzung des Deutschen Bundestages am 25. M&#228;rz
+2021 an den Ausschuss f&#252;r Inneres und Heimat federf&#252;hrend sowie an den Ausschuss f&#252;r Recht und
+Verbraucherschutz, den Haushaltsausschuss und den Ausschuss Digitale Agenda zur Mitberatung &#252;berwiesen. Die
+Unterrichtung durch die Bundesregierung zur Stellungnahme des Bundesrates und Gegen&#228;u&#223;erung der Bundesregierung
+auf Drucksache 19/28168 wurde am 16. April 2021 gem&#228;&#223; &#167; 80 Absatz 3 der Gesch&#228;ftsordnung auf Nummer 1.9
+der Drucksache 19/28605 an die beteiligten Aussch&#252;sse &#252;berwiesen. Der Parlamentarische Beirat f&#252;r nachhaltige
+Entwicklung beteiligte sich gutachtlich (Ausschussdrucksache 19(4)764).
+Zu Buchstabe b
+Der Antrag auf Drucksache 19/14053 wurde in der 119. Sitzung des Deutschen Bundestages am 18. Oktober
+2019 an den Ausschuss f&#252;r Inneres und Heimat federf&#252;hrend sowie an den Ausschuss f&#252;r Recht und
+Verbraucherschutz und den Ausschuss Digitale Agenda zur Mitberatung &#252;berwiesen.
+II. Stellungnahmen der mitberatenden Aussch&#252;sse
+Zu Buchstabe a
+Der Ausschuss f&#252;r Recht und Verbraucherschutz hat in seiner 148. Sitzung am 5. Mai 2021 mit den Stimmen 
+der Fraktionen der CDU/CSU und SPD gegen die Stimmen der Fraktionen AfD und DIE LINKE. bei
+Stimmenthaltung der Fraktionen FDP und B&#220;NDNIS 90/DIE GR&#220;NEN die Annahme des Gesetzentwurfs auf
+Drucksachen 19/27425, 19/28168 empfohlen.
+Der Haushaltsausschuss hat in seiner 97. Sitzung am 5. Mai 2021 mit den Stimmen der Fraktionen der CDU/CSU
+und SPD gegen die Stimmen der Fraktionen AfD und DIE LINKE. bei Stimmenthaltung der Fraktionen FDP und
+B&#220;NDNIS 90/DIE GR&#220;NEN die Annahme des Gesetzentwurfs auf Drucksachen 19/27425, 19/28168
+empfohlen. Seinen Bericht nach &#167; 96 der Gesch&#228;ftsordnung wird er gesondert abgeben.
+Der Ausschuss Digitale Agenda hat in seiner 80. Sitzung am 5. Mai 2021 mit den Stimmen der Fraktionen der
+CDU/CSU und SPD gegen die Stimmen der Fraktion der AfD bei Stimmenthaltung der Fraktionen FDP, DIE
+LINKE. und B&#220;NDNIS 90/DIE GR&#220;NEN die Annahme des Gesetzentwurfs auf Drucksachen 19/27425,
+19/28168 empfohlen. 
+Zu Buchstabe b
+Der Ausschuss f&#252;r Recht und Verbraucherschutz hat in seiner 148. Sitzung am 5. Mai 2021 mit den Stimmen 
+der Fraktionen der CDU/CSU, SPD und AfD gegen die Stimmen der Fraktion der FDP bei Stimmenthaltung der
+Fraktionen DIE LINKE. und B&#220;NDNIS 90/DIE GR&#220;NEN die Ablehnung des Antrags auf Drucksache 19/14053
+empfohlen. 
+Der Ausschuss Digitale Agenda hat in seiner 80. Sitzung am 5. Mai 2021 mit den Stimmen der Fraktionen der
+CDU/CSU, SPD und AfD gegen die Stimmen der Fraktion der FDP bei Stimmenthaltung der Fraktionen DIE
+LINKE. und B&#220;NDNIS 90/DIE GR&#220;NEN die Ablehnung des Antrags auf Drucksache 19/14053 empfohlen.
+III. Beratungsverlauf und Beratungsergebnisse im federf&#252;hrenden Ausschuss
+Der Ausschuss f&#252;r Inneres und Heimat hat in seiner 132. Sitzung am 14. April 2021 mit den Stimmen der
+Fraktionen CDU/CSU, SPD, FDP, DIE LINKE. und B&#220;NDNIS 90/DIE GR&#220;NEN gegen die Stimmen der Fraktion der
+AfD beschlossen, zu den Vorlagen eine &#246;ffentliche Anh&#246;rung durchzuf&#252;hren. Die &#246;ffentliche Anh&#246;rung, an der
+sich sechs Sachverst&#228;ndige beteiligt haben, hat der Ausschuss f&#252;r Inneres und Heimat in seiner 136. Sitzung am
+3. Mai 2021 durchgef&#252;hrt. Hinsichtlich des Ergebnisses der Anh&#246;rung wird auf das Protokoll der 136. Sitzung
+verwiesen (19/136). Die Stellungnahme der kommunalen Spitzenverb&#228;nde lag dem Ausschuss f&#252;r Inneres und
+Heimat bei seiner abschlie&#223;enden Beratung auf Ausschussdrucksache 19(4)786 vor. 
+Zu Buchstabe a
+Der Ausschuss f&#252;r Inneres und Heimat hat den Gesetzentwurf auf Drucksachen 19/27245, 19/28168 in seiner
+138. Sitzung am 5. Mai 2021 abschlie&#223;end beraten und empfiehlt die Annahme des Gesetzentwurfs in der aus der
+Beschlussempfehlung ersichtlichen Fassung mit den Stimmen der Fraktionen der CDU/CSU und SPD gegen die
+Stimmen der Fraktionen AfD und DIE LINKE. bei Stimmenthaltung der Fraktionen FDP und B&#220;NDNIS 90/DIE
+GR&#220;NEN.
+Die &#196;nderungen entsprechen dem &#196;nderungsantrag der Koalitionsfraktionen auf Ausschussdrucksache
+19(4)821neu, der zuvor mit den Stimmen der Fraktionen der CDU/CSU und SPD gegen die Stimmen der Fraktion 
+der AfD bei Stimmenthaltung der Fraktionen FDP, DIE LINKE. und B&#220;NDNIS 90/DIE GR&#220;NEN angenommen 
+wurde. 
+Zu Buchstabe b
+Der Ausschuss f&#252;r Inneres und Heimat hat den Antrag auf Drucksache 19/14053 in seiner 138. Sitzung am 5.
+Mai 2021 abschlie&#223;end beraten und empfiehlt die Ablehnung des Antrags mit den Stimmen der Fraktionen der
+CDU/CSU, SPD und AfD gegen die Stimmen der Fraktion der FDP bei Stimmenthaltung der Fraktionen DIE
+LINKE. und B&#220;NDNIS 90/DIE GR&#220;NEN.
+IV. Begr&#252;ndung
+1. Zur Begr&#252;ndung allgemein wird auf Drucksache 19/27425 verwiesen. Die vom Ausschuss f&#252;r Inneres und
+Heimat auf Grundlage des &#196;nderungsantrags der Koalitionsfraktionen auf Ausschussdrucksache 19(4)821neu
+vorgenommenen &#196;nderungen begr&#252;nden sich wie folgt:
+Zu Nummer 1
+Mit der Neufassung erfolgt eine explizite Regelung, welche die gemeinsame Verantwortung von Bund und
+L&#228;ndern betont. Absatz 1 ist dabei angelehnt an &#167; 3 Absatz 1 Nummer 1 des Gesetzes &#252;ber die Statistik f&#252;r
+Bundeszwecke (BStatG).
+Aus dem vorgeschlagenen Absatz 2 folgt die Verantwortlichkeit der statistischen &#196;mter der L&#228;nder f&#252;r die
+notwendige dezentrale IT-Infrastruktur zur Erf&#252;llung der Aufgaben nach &#167; 8a RegZensErpG-E (vergleiche
+Nummer 7) und &#167; 9 RegZensErpG-E (vergleiche Nummer 8).
+Dar&#252;ber hinaus wird in Absatz 2 klargestellt, dass bei der Entwicklung der zentralen technischen Anwendungen
+durch das Statistische Bundesamt die Erfahrungen der statistischen &#196;mter der L&#228;nder genutzt werden sollen.
+Zu Nummer 2
+Zu Buchstabe a)
+Zu Doppelbuchstabe aa)
+Das Verfahren nach &#167; 4 RegZensErpG-E wird bis zum 31. Dezember 2028 befristet, da es nur hilfs- und
+&#252;bergangsweise zur Ermittlung realit&#228;tsgerechter Bev&#246;lkerungszahlen dienen soll.
+Zu Doppelbuchstabe bb)
+F&#252;r die Durchf&#252;hrung erg&#228;nzender Bev&#246;lkerungsstatistiken ist eine &#220;bermittlung von Angaben zu Personen, die
+in einer Gemeinde nur einen Nebenwohnsitz haben, nicht notwendig. Die Einf&#252;gung konkretisiert, dass nur
+Datens&#228;tze zu Personen mit Haupt- oder alleinigem Wohnsitz an die statistischen &#196;mter der L&#228;nder zu &#252;bermitteln 
+sind.
+Zu Doppelbuchstabe cc)
+Da nur noch Daten zu Personen mit alleiniger Wohnung oder Hauptwohnung angefordert werden, muss das
+Merkmal &#8222;Wohnungsstatus&#8220; (&#167; 4 Absatz 1 Satz 1 Nummer 11 RegZensErpG-E) nicht mehr erhoben werden.
+Zu Doppelbuchstabe dd)
+Es handelt sich um wegen Nummer 2 Buchstabe a) Doppelbuchstabe cc) notwendig werdende Folge&#228;nderungen.
+Zu Buchstabe b)
+Zu Doppelbuchstabe aa)
+Es handelt sich um wegen Nummer 2 Buchstabe a) Doppelbuchstabe cc) notwendig werdende Folge&#228;nderungen.
+Zu Doppelbuchstabe bb)
+Es handelt sich um die Bereinigung eines Redaktionsversehens.
+Zu Buchstabe c)
+Zum Schutz von Personen, f&#252;r die eine melderechtliche Auskunftssperre besteht, wird f&#252;r die besonders sensiblen
+Merkmale Name, Tag der Geburt und Steuer-ID (&#167; 4 Absatz 1 Satz 1 Nummer 2, 5 und 21 RegZensErpG-E) eine
+verk&#252;rzte L&#246;schfrist vorgesehen (L&#246;schung nach Ende der Mehrfachfallpr&#252;fung). Da den statistischen &#196;mtern
+die Angabe &#8222;Auskunftssperre&#8220; nicht vorliegt, gilt die verk&#252;rzte L&#246;schfrist f&#252;r alle Personen und nicht nur f&#252;r
+solche, bei denen im Melderegister tats&#228;chlich eine Auskunftssperre eingetragen ist.
+Zu Buchstabe d)
+Nach diesem Gesetz kommen zum Anfang eines jeden Jahres durch die Pflegearbeiten im Anschriftenregister
+nach &#167; 13 Absatz 2 BStatG in Verbindung mit der durch den RegZensErpG-E veranlassten &#196;nderung dieses
+Paragraphen zus&#228;tzliche Arbeiten auf die statistischen &#196;mter der L&#228;nder zu. Die dadurch entstehenden
+Arbeitsspitzen in den statistischen &#196;mtern der L&#228;nder bedingen organisatorisch und wirtschaftlich einen
+Bearbeitungszeitraum von 16 Wochen.
+Zu Buchstabe e)
+Durch die &#196;nderung wird klargestellt, dass bei der Bestimmung der Dauer der Aufbewahrungspflicht der
+Meldebeh&#246;rden an den jeweiligen Stichtag anzukn&#252;pfen ist. 
+Zu Nummer 3
+Zu Buchstabe a)
+Entsprechend der &#196;nderung nach Ziffer 2 Buchstabe a) (Konkretisierung, dass nur Datens&#228;tze zu Personen mit
+Haupt- oder alleinigem Wohnsitz an die statistischen &#196;mter der L&#228;nder zu &#252;bermitteln sind) kann im Anschluss
+an die &#220;bermittlung keine Mehrfachfallpr&#252;fung nur auf Nebenwohnungen durchgef&#252;hrt werden. 
+Zu Buchstabe b)
+Es wird klargestellt, dass zur Durchf&#252;hrung von manuellen Abgleichen die erforderlichen Daten an die
+statistischen &#196;mter der L&#228;nder &#252;bermittelt werden. 
+Zu Nummer 4
+Damit auch eine Erprobung der Methodik des Registerzensus an Sonderbereichen m&#246;glich ist, bedarf es auch der
+Hilfsmerkmale. Da keine Identifikationsnummern in den Daten des Zensus vorliegen, muss bei den
+Zusammenf&#252;hrungen nach &#167; 8 Absatz 2 RegZensErpG-E auf personenidentifizierende Merkmale zur&#252;ckgegriffen werden.
+Diese liegen jedoch in den Datenbest&#228;nden des Zensus &#252;berwiegend als Hilfsmerkmale vor. F&#252;r einen
+vollst&#228;ndigen Test der Methodik des Lebenszeichenansatzes sind insbesondere die Daten zu Personen aus Wohnheimen 
+notwendig, da diese sich durch hohe Mobilit&#228;t auszeichnen. Im Zensus 2011 und 2022 wurde deshalb auch
+entschieden, an diesen Anschriften eine Vollerhebung durchzuf&#252;hren. Die Aufnahme dieser Daten ist notwendig, um
+beurteilen zu k&#246;nnen, ob die Methodik des Registerzensus auch dazu geeignet ist, die Wohnheimbev&#246;lkerung in 
+ausreichender Qualit&#228;t zu ermitteln.
+Zu Nummer 5
+Zu Buchstabe a)
+Es wird klargestellt, dass der in &#167; 7 Absatz 1 Satz 2 RegZensErpG-E genannte Zeitraum von 24 Monaten seitens
+des Statistischen Bundesamtes nicht unter zw&#246;lf Monate verk&#252;rzt werden kann.
+Zu Buchstabe b)
+Zu Doppelbuchstabe aa)
+Es wird der Begriff &#8222;Pr&#252;fungen&#8220; verwendet, da die personenbezogenen Angaben der Vergleichsregister lediglich
+zur eindeutigen Zuordnung ben&#246;tigt werden und der Satz sich auf die manuelle &#220;berpr&#252;fung der maschinellen 
+Zuordnung bezieht.
+Zu Doppelbuchstabe bb)
+Es wird klargestellt, dass zur Durchf&#252;hrung von manuellen Abgleichen die erforderlichen Daten an die
+statistischen &#196;mter der L&#228;nder &#252;bermittelt werden. 
+Zu Nummer 6
+Zu Buchstabe a)
+Es wird klargestellt, dass zur Durchf&#252;hrung von manuellen Abgleichen die erforderlichen Daten an die
+statistischen &#196;mter der L&#228;nder &#252;bermittelt werden. 
+Zu Buchstabe b)
+Es handelt sich um eine redaktionelle Klarstellung.
+Zu Buchstabe c)
+Die L&#228;nder erhalten zur Evaluation der entwickelten Methoden die aufbereiteten Datens&#228;tze f&#252;r die erg&#228;nzenden
+Bev&#246;lkerungsstatistiken sowie die Methodentests vom Statistischen Bundesamt &#8211; aus datenschutzrechtlichen
+Gr&#252;nden allerdings keine Hilfsmerkmale einschlie&#223;lich der besonders gesicherten Merkmale nach &#167; 7 Absatz 3
+Satz 2 RegZensErpG-E.
+Zu Nummer 7
+Den L&#228;ndern wird die M&#246;glichkeit er&#246;ffnet, im Rahmen der Erprobung der Wohnsitzanalyse in einem begrenzten
+Umfang die vorliegenden Daten bei Unstimmigkeiten durch Befragung der Betroffenen zu &#252;berpr&#252;fen. Dazu wird
+eine Auskunftspflicht eingef&#252;hrt, die sich an vergleichbaren Vorschriften zum Beispiel im Zensusgesetz 2022
+orientiert. Um die Belastung der Auskunftspflichtigen zu begrenzen, wird eine H&#246;chstzahl der zu befragenden
+Personen von 100 000 festgelegt, au&#223;erdem d&#252;rfen Personen aus der Haushaltebefragung des Zensus 2022 nicht
+erneut befragt werden. Die &#220;bermittlung der Einzelangaben an das Statistische Bundesamt ist nach &#167; 3
+Absatz 2 BStatG zur methodischen Weiterentwicklung von Statistiken zul&#228;ssig.
+Zu Nummer 8
+Die Regelung des &#167; 9 RegZensErpG-E bezweckt die Sicherung der bildungsbezogenen Daten aus dem
+Zensus 2022 und dem Mikrozensus zur Erf&#252;llung europ&#228;ischer Lieferpflichten. Die Daten werden dezentral
+gespeichert. 
+Au&#223;erdem werden zwei redaktionelle Versehen bereinigt.
+Zu Nummer 9
+Zu Buchstabe a)
+Zum Aufbau und zur Pflege des Einrichtungsregisters d&#252;rfen auch Angaben aus Landesstatistiken sowie
+allgemein zug&#228;nglichen Quellen verwendet werden. 
+Zu Buchstabe b)
+Die Aufgabenteilung zwischen dem Statistischen Bundesamt und den statistischen &#196;mtern der L&#228;nder wird durch 
+die &#196;nderung deutlich gemacht. 
+Zu Nummer 10
+Zu Buchstabe a)
+Es wird sichergestellt, dass die L&#228;nder eigene Untersuchungen zur Eignung von Fernerkundungsdaten f&#252;r die
+Gewinnung und Qualit&#228;tssicherung von Daten zu Geb&#228;uden und Wohnungen im Registerzensus durchf&#252;hren
+k&#246;nnen.
+Zu Buchstabe b)
+Es handelt sich um eine wegen Nummer 10 Buchstabe a) notwendig werdende Folge&#228;nderung.
+2. Die Fraktion der CDU/CSU hebt hervor, der Gesetzentwurf schaffe die rechtlichen Voraussetzungen f&#252;r die
+Erprobung von Verfahren f&#252;r eine zuk&#252;nftige registerbasierte Zensusermittlung. Der Zensus 2022 erfolge noch
+registergest&#252;tzt. Es sei davon auszugehen, dass zuk&#252;nftig die Bev&#246;lkerungszahlen h&#228;ufiger als alle zehn Jahre
+erhoben werden sollten. Der Gesetzentwurf enthalte Regelungen f&#252;r Daten des Zensus 2022 f&#252;r den Aufbau eines
+statistischen Einrichtungsregisters, zur Erf&#252;llung k&#252;nftiger Lieferverpflichtungen und weiterer notwendiger
+Daten. Methodentests und deren Erprobung mittels Lebenszeichenansatz erh&#246;hten die Qualit&#228;t der Daten und sorgten
+so f&#252;r realit&#228;tsn&#228;here Zahlen. Zudem enthalte der Gesetzentwurf Verbesserungen der M&#246;glichkeit der
+Statistischen Landes&#228;mter, die Wanderungsdaten im Zusammenhang mit der Statistik auf Richtigkeit zu &#252;berpr&#252;fen. Im
+&#196;nderungsantrag der Koalitionsfraktionen greife man die vom Bundesrat und die in der Gegen&#228;u&#223;erung der
+Bundesregierung angeregten &#196;nderungen auf. Hierdurch halte das Statistische Bundesamt zusammen mit dem ITZ-
+Bund die f&#252;r die Aufbereitung und Datenhaltung notwendige IT-Infrastruktur vor. Der &#167; 8a werde eingef&#252;hrt, um
+die Kl&#228;rung von Unstimmigkeiten zu vereinfachen. In &#167; 4 nehme man eine Befristungsregelung bis zum 31.
+Dezember 2028 auf.
+Die Fraktion der SPD verweist auf das Ergebnis der durchgef&#252;hrten &#246;ffentlichen Anh&#246;rung. Diese habe deutlich 
+gemacht, dass der Gesetzentwurf auf gro&#223;e Zustimmung bei den Praktikern gesto&#223;en sei. Die vorgeschlagenen
+Regelungen erleichterten vieles, was in der Vergangenheit nur mit gro&#223;em Personalaufwand zu schaffen gewesen
+sei. Auch viele Bundesl&#228;nder warteten auf die Umsetzung der gesetzlichen Regelungen, da hieran wichtige
+Fragen, etwa des L&#228;nderfinanzausgleichs oder der Einwohnerstatistik, gekn&#252;pft seien. Die &#196;nderungen machten den
+Gesetzentwurf nochmal besser, sodass man die Annahme des Gesetzentwurfs empfehle. 
+Die Fraktion der AfD erkl&#228;rt, den Gesetzentwurf abzulehnen. Grunds&#228;tzlich halte man es f&#252;r w&#252;nschenswert,
+dass eine Modernisierung des Registerzensus erfolge. Jedoch sei eine Modernisierung bislang nicht
+vorangetrieben worden. Lediglich durch die Vorgabe der EU, nunmehr jedes statt bislang alle zehn Jahre Daten zu liefern,
+werde dies auf den Weg gebracht. Dies sei bedenklich. Diskussionsw&#252;rdig sei zudem, weshalb
+Fernerkennungsdaten zur Ermittlung von Geb&#228;uden und Wohnungsmerkmalen erforderlich seien. Der Mehrwert hieraus
+erschlie&#223;e sich nicht. Der Antrag der FDP dr&#228;nge allen EU-Staaten einen Registerzensus auf, was man als Eingriff
+in die nationale Souver&#228;nit&#228;t ablehne. 
+Die Fraktion der FDP stellt voran, bereits vor eineinhalb Jahren habe man einen vollst&#228;ndig registerbasierten 
+Zensus gefordert. Dies sei sowohl zeitgem&#228;&#223; als auch eine finanzielle Frage. Im Vergleich zu &#214;sterreich sei der
+Zensus in Deutschland deutlich teurer. Man brauche daher eine moderne, dezentrale Registerlandschaft in
+Deutschland. Zu diesem Ziel fehle noch einiges und Voraussetzungen seien noch nicht geschaffen. Es sei gut
+gewesen, die &#246;ffentliche Anh&#246;rung durchzuf&#252;hren. Hierdurch seien gute Vorschl&#228;ge der Landesstatistik&#228;mter
+aufgegriffen worden, etwa indem man gemeinsame Verantwortlichkeiten der L&#228;nder und des Bundes festgelegt
+habe. Dennoch sei zu kritisieren, dass einige grunds&#228;tzliche Fragen noch offen geblieben seien. Unklar sei,
+weshalb im Probelauf Echtdaten statt synthetische Daten verwendet w&#252;rden. Zudem w&#252;rden Hilfsmittelmerkmale wie
+die Religionsgemeinschaft oder die Steuer-ID miterfasst, ohne hierf&#252;r ausreichende Gr&#252;nde zu nennen. Insgesamt
+werde man sich daher f&#252;r diesen Testlauf enthalten. 
+Die Fraktion DIE LINKE. betont, die Tatsache, dass der Gesetzentwurf von Statistikern gelobt werde, bedeute
+noch nicht, dass das Gesetz auch gut sei. Den Lobesreden der Koalition widerspreche man. Die &#246;ffentliche
+Anh&#246;rung habe deutliche Kritik und erheblichen Nachbesserungsbedarf aufgezeigt. Durch den &#196;nderungsantrag der
+Koalitionsfraktionen seien Vorschl&#228;ge des Bundesrates aufgegriffen worden. Einw&#228;nde aus der Anh&#246;rung seien
+hingegen nicht ber&#252;cksichtigt worden. Inhaltliche Kritik &#252;be man am Punkt der Identifikationsnummer. Hier
+werde eine dauerhaft f&#252;r alle Menschen in Deutschland existierende Identifikationsnummer eingef&#252;hrt, die man 
+als klar verfassungswidrig ablehne. Diese erm&#246;gliche eine Erfassung von personenbezogenen Daten &#252;ber alle
+Register hinweg, was inakzeptabel sei. Zudem kritisiere man, dass durch dieses Gesetz keine Transparenz
+geschaffen werde. Es sei unklar, was mit den erhobenen Daten geschehe. Auch sei die Frage der L&#246;schung nicht
+klar geregelt. Hier w&#252;rden Dinge zusammengef&#252;hrt, die nicht zusammen geh&#246;rten und zudem nicht erforderlich
+seien. Die Verwendung von Echtdaten beim Probelauf sei nicht notwendig. Etwa in Finnland setze man
+vollst&#228;ndig auf pseudonymisierte Daten. Dort sei eine statistische Auswertung auch ohne personenbezogene Daten
+m&#246;glich gewesen.
+Die Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN schlie&#223;t sich der ge&#228;u&#223;erten Kritik am Gesetzentwurf an. Es sei
+wichtig und richtig gewesen, hierzu eine &#246;ffentliche Anh&#246;rung durchzuf&#252;hren. Die Verwendung von Echtdaten
+sei zurecht kritisiert worden. Der &#196;nderungsantrag der Koalitionsfraktionen greife nur sehr bedingt die Kritik der
+Sachverst&#228;ndigen auf. Das Gesetzgebungsverfahren sei grunds&#228;tzlich zu kritisieren. Es sei unverst&#228;ndlich, dass
+die Abgeordneten der Koalition sich einen derartigen Umgang der Regierung mit dem Parlament gefallen lie&#223;en. 
+Es gebe klare Regeln zum Verfahren. Sachverst&#228;ndigenanh&#246;rungen dienten dazu, Expertise einzuholen und
+&#196;nderungen umzusetzen. Nur zwei Tage nach einer Anh&#246;rung den Gesetzentwurf im Ausschuss abzustimmen, f&#252;hre 
+dazu, dass die &#196;nderungsanregungen aus der Anh&#246;rung selten aufgegriffen w&#252;rden. Dies f&#252;hre zu schlechter
+Gesetzgebung.
+Berlin, den 5. Mai 2021
+Petra Nicolaisen Thomas Hitschler Dr. Christian Wirth
+Berichterstatterin Berichterstatter Berichterstatter
+Manuel H&#246;ferlin
+Berichterstatter
+Dr. Andr&#233; Hahn
+Berichterstatter
+Ulla Jelpke 
+Berichterstatterin 
+Dr. Konstantin von Notz
+Berichterstatter
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de 
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de 
+ISSN 0722-8333]</text>
+    <titel>a) zu dem Gesetzentwurf der Bundesregierung
+- Drucksachen 19/27425, 19/28168, 19/28605 Nr. 1.9 -
+Entwurf eines Gesetzes zur Erprobung von Verfahren eines Registerzensus und zur &#196;nderung statistikrechtlicher Vorschriften
+b) zu dem Antrag der Abgeordneten Manuel H&#246;ferlin, Stephan Thomae, Grigorios Aggelidis, weiterer Abgeordneter und der Fraktion der FDP
+- Drucksache 19/14053 -
+Smart Germany - Register modernisieren und &#246;ffentliches Datenmanagement einf&#252;hren</titel>
+    <datum>2021-05-05</datum>
+  </document>
+  

@@ -1,0 +1,783 @@
+<document>
+    <id>216635</id>
+    <drucksachetyp>Unterrichtung</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/100</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>a20f7745b899ca2bc6434c021b7c17bc</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>230290</id>
+      <titel>Lagebericht der Bundesregierung &#252;ber die Alterssicherung der Landwirte 2017</titel>
+      <vorgangstyp>Bericht, Gutachten, Programm</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium f&#252;r Arbeit und Soziales</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/001/1900100.pdf</pdf_url>
+      <id>216635</id>
+      <dokumentnummer>19/100</dokumentnummer>
+      <datum>2017-11-23</datum>
+      <verteildatum>2017-11-29</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Unterrichtung</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Zugeleitet mit Schreiben des Bundesministeriums f&#252;r Arbeit und Soziales vom 22. November 2017 gem&#228;&#223; &#167; 67 
+Absatz 2 des Gesetzes &#252;ber die Alterssicherung der Landwirte. 
+Deutscher Bundestag Drucksache 19/100
+19. Wahlperiode 23.11.2017
+Unterrichtung 
+durch die Bundesregierung 
+Lagebericht der Bundesregierung &#252;ber die Alterssicherung der Landwirte 2017 
+Inhaltsverzeichnis 
+Seite
+1. Einleitende Bemerkungen ..............................................................  3
+2. Die Alterssicherung der Landwirte seit 2013 ...............................  3
+2.1 Grundlagen und versicherter Personenkreis ......................................  3 
+2.2 Leistungen an Unternehmer, Ehegatten und Familienangeh&#246;rige ....  4 
+2.2.1 Renten ...............................................................................................  4 
+2.2.2 Rentenh&#246;he .......................................................................................  5 
+2.2.3 Beitrag und Beitragszuschuss ...........................................................  8 
+2.2.4 Sonstige Leistungen ..........................................................................  8 
+2.3 Finanzierung .....................................................................................  8 
+2.3.1 Einnahmen ........................................................................................  8 
+2.3.2 Ausgaben ..........................................................................................  9 
+3. Vorausberechnung der Einnahmen und Ausgaben .....................  10 
+3.1 Rechtsstand .......................................................................................  10 
+3.2 Ergebnisse der Modellrechnungen ....................................................  11 
+3.3 Annahmen der Modellrechnungen ....................................................  13 
+3.3.1 Rechengr&#246;&#223;en des Rentenversicherungsberichts 2017 .....................  13 
+3.3.2 Versicherte, Beitragseinnahmen und Bundeszuschuss .....................  14 
+3.3.3 Rentenbestand und Rentenh&#246;he ........................................................  15 
+3.3.4 Weitere Ausgabenpositionen ............................................................  16 
+4. Zusammenfassung ...........................................................................  17
+Tabellenverzeichnis 
+Tabelle 1: Versicherte und von der Versicherungspflicht befreite Unternehmer,  
+Ehegatten und Familienangeh&#246;rige  
+Tabelle 2: Altersstruktur des versicherten Personenkreises im Jahr 2016  
+Tabelle 3: Rentenbestand und Rentenh&#246;he nach Rentenarten 
+Tabelle 4: Versichertenrenten (Bestand und H&#246;he) nach Rentenarten an Unternehmer,  
+Ehegatten und Familienangeh&#246;rige  
+Tabelle 5: Einnahmen und Ausgaben in der Alterssicherung der Landwirte von 2012 bis 2016 
+Tabelle 6: Finanzielle Entwicklung in der Alterssicherung der Landwirte 2017 bis 2027 
+Mittlere Variante und 5-Jahresrechnung bis 2022 
+Tabelle 7: Finanzielle Entwicklung in der Alterssicherung der Landwirte 2017 bis 2027 
+Untere Variante und 5-Jahresrechnung bis 2022 
+Tabelle 8: Finanzielle Entwicklung in der Alterssicherung der Landwirte 2017 bis 2027 
+Obere Variante und 5-Jahresrechnung bis 2022 
+Tabelle 9: Zentrale Rechengr&#246;&#223;en des Rentenversicherungsberichts 2017 
+Tabelle 10: Annahmen &#252;ber die Anzahl der Versicherten in der mittleren Variante 
+Tabelle 11: Annahmen &#252;ber die Anzahl der Renten im Jahresdurchschnitt
+1. Einleitende Bemerkungen 
+Nach &#167; 67 des Gesetzes &#252;ber die Alterssicherung der Landwirte (ALG) hat die Bundesregierung seit 1997 alle 
+vier Jahre zum 31. Dezember einen Lagebericht &#252;ber die Alterssicherung der Landwirte (AdL) zu erstellen und 
+den gesetzgebenden K&#246;rperschaften vorzulegen.  
+Der Bericht informiert zun&#228;chst &#252;ber die Entwicklung der Zahl der Versicherten sowie die H&#246;he der Leistungen 
+und ihre Finanzierung in den vergangenen f&#252;nf Jahren. Es folgt die Vorausberechnung der Einnahmen und 
+Ausgaben, denen ein &#220;berblick &#252;ber die in den letzten vier Jahren eingetretenen &#196;nderungen im Recht der AdL 
+vorangestellt ist. Zu ber&#252;cksichtigen sind auch Ver&#228;nderungen in der gesetzlichen Rentenversicherung, soweit 
+diese die k&#252;nftige Finanzentwicklung der AdL beeinflussen. Anschlie&#223;end werden gem&#228;&#223; &#167; 67 Absatz 1 ALG 
+die Ergebnisse von drei Modellrechnungen zur Finanzentwicklung in den k&#252;nftigen zehn Kalenderjahren
+vorgestellt. Die Modelle unterscheiden sich dabei in den Annahmen &#252;ber  
+&#61623; die Entwicklung der Anzahl der Versicherten, 
+&#61623; die Entwicklung der Einkommen der Versicherten und 
+&#61623; die Entwicklung von drei Rechengr&#246;&#223;en aus dem Bereich der gesetzlichen Rentenversicherung, die f&#252;r die 
+Berechnung von Beitr&#228;gen und Rentenwerten in der AdL von Bedeutung sind (Entgeltwachstum,
+Beitragssatz und aktueller Rentenwert). 
+Neben den Modellrechnungen &#252;ber den 10-Jahreszeitraum fordert das ALG auch eine &#220;bersicht &#252;ber die
+voraussichtliche finanzielle Entwicklung in den k&#252;nftigen f&#252;nf Kalenderjahren. Diese Vorgabe wird durch die
+mittlere Variante der Modellrechnungen mit abgedeckt.  
+Die den Modellrechnungen zugrundeliegenden Annahmen &#252;ber die Entwicklung der Entgelte der abh&#228;ngig
+Besch&#228;ftigten in Deutschland sowie die Annahmen &#252;ber die Entwicklung des Beitragssatzes und des aktuellen 
+Rentenwerts werden aus dem aktuellen Rentenversicherungsbericht &#252;bernommen. Die unterschiedlichen
+Varianten der Annahmen entsprechen ebenfalls denen des Rentenversicherungsberichts. 
+2. Die Alterssicherung der Landwirte seit 2013 
+2.1 Grundlagen und versicherter Personenkreis 
+Die AdL ist ein eigenst&#228;ndiges Sondersystem der Alterssicherung f&#252;r landwirtschaftliche Unternehmer, ihre 
+Ehegatten und mitarbeitenden Familienangeh&#246;rigen. Die gesetzliche Grundlage bildet das Gesetz &#252;ber die
+Alterssicherung der Landwirte. Dieses Alterssicherungssystem wurde im Jahr 1957 eingef&#252;hrt und ist als
+Teilsicherung konzipiert, da davon ausgegangen wird, dass die Versicherten ihre Altersversorgung individuell durch 
+Altenteilanspr&#252;che und/oder eine zus&#228;tzliche freiwillige Vorsorge erg&#228;nzen. Daneben tr&#228;gt die AdL auch zur 
+Umsetzung agrarpolitischer Ziele bei, indem beispielsweise die Gew&#228;hrung von Rentenleistungen die Abgabe 
+des landwirtschaftlichen Unternehmens voraussetzt.  
+Aus Tabelle 1 geht hervor, dass allein im Zeitraum von 2013 bis 2017 der Bestand der Versicherten um 15,5 % 
+auf zuletzt rd. 200.300 Versicherte zum Stichtag 30. Juni 2017 zur&#252;ckgegangen ist. Dies ist auf die anhaltenden 
+strukturellen Ver&#228;nderungen in der Landwirtschaft zur&#252;ckzuf&#252;hren. Gleichzeitig wird in der AdL weiterhin 
+h&#228;ufig vom Recht auf Befreiung von der Versicherungspflicht Gebrauch gemacht. Zum Stichtag 30. Juni 2017 
+waren rd. 235.500 Personen von der Versicherungspflicht befreit. Damit gab es in diesem System weiterhin 
+weniger Beitrags- als Nichtbeitragszahler. Hierin zeigt sich, dass nach wie vor h&#228;ufig der landwirtschaftlichen 
+T&#228;tigkeit im Nebenerwerb nachgegangen wird, da der h&#228;ufigste Befreiungsgrund der Bezug eines
+au&#223;erlandwirtschaftlichen Arbeitsentgelts oder -einkommens ist.
+Ein Blick auf die Altersstruktur zeigt, dass der versicherte Personenkreis zu einem Gro&#223;teil 45 Jahre und &#228;lter 
+ist (fast 74 %) &#8211; siehe Tabelle 2. Allein die Gruppe der 55-J&#228;hrigen und &#196;lteren stellt mehr als ein Drittel aller 
+Versicherten dar. Zugleich sind lediglich rd. 10 % aller Versicherten unter 35 Jahre alt. Der Personenkreis der 
+65-j&#228;hrigen und &#228;lteren hat sich stark erweitert (Jahresende 2016: insgesamt 1.690, Jahresende 2012: insgesamt 
+335). Ursache f&#252;r diesen Anstieg ist die schrittweise Anhebung der Altersgrenze f&#252;r die Regelaltersrente von 
+65 auf 67 Jahre seit dem Jahr 2012. 
+ 
+2.2 Leistungen an Unternehmer, Ehegatten und Familienangeh&#246;rige 
+2.2.1 Renten 
+Die Rentenleistungen der AdL sind hinsichtlich des Katalogs der Leistungsarten und der
+Anspruchsvoraussetzungen an die Regelungen der gesetzlichen Rentenversicherung angelehnt. Es werden Renten an Versicherte, 
+d. h. Altersrenten und Renten wegen Erwerbsminderung sowie Renten an Hinterbliebene geleistet. 
+Seit Bestehen der AdL war bis zum Jahr 2007 stets ein kontinuierlicher Anstieg der Anzahl der
+Rentenempf&#228;ngerinnen und -empf&#228;nger zu verzeichnen. Im Jahr 2008 war der Rentenbestand erstmals r&#252;ckl&#228;ufig und ist
+seitdem kontinuierlich gesunken. Wie Tabelle 3 ausweist, wurden zum 30. Juni 2017 im gesamten Bundesgebiet 
+rd. 590.000 Renten ausgezahlt. Dies entspricht einer Verringerung gegen&#252;ber dem Bestand am 30. Juni 2013 
+um rd. 2,6 %.  
+Zum 30. Juni 2017 wurden rd. 380.000 Altersrenten gezahlt, davon 199.000 an M&#228;nner und 181.000 an Frauen. 
+Weitere rd. 38.000 Zahlf&#228;lle entfielen auf Renten wegen Erwerbsminderung. Die Zahl der Versichertenrenten 
+war damit ca. 0,8 % geringer als am 30. Juni 2013. Der Anteil der von Frauen bezogenen Versichertenrenten 
+insgesamt Unternehmer Ehegatten
+Familienangeh&#246;rige
+2013 236.991 158.319 68.140 9.941 44.417 238.202
+2014 228.408 154.091 64.085 9.749 36.162 228.552
+2015 219.360 149.780 59.943 9.256 30.368 229.976
+2016 209.630 145.673 55.512 8.130 27.478 233.333
+2017 200.305 140.834 51.453 7.751 27.539 235.504
+Quelle: BMAS aus Daten der Sozialversicherung f&#252;r Landwirtschaft, Forsten und Gartenbau
+Tabelle 1: Versicherte und von der Versicherungspflicht befreite
+Unternehmer, Ehegatten und Familenangeh&#246;rige (Stichtag 30.06.)
+Jahr
+Beitragszuschussempf&#228;nger
+von der
+Versicherungspflicht Befreite
+Versicherte
+Altersgruppen
+von &#8230; bis &#8230; Jahre
+Unternehmer Ehegatten
+mitarbeitende
+Familienangeh&#246;rige
+insgesamt
+Anteil
+in %
+unter 25 1.352 26 1.855 3.233 1,6
+25 - 29 4.646 285 2.189 7.120 3,5
+30 - 34 7.065 1.071 1.290 9.426 4,6
+35 - 39 9.998 3.337 667 14.002 6,9
+40 - 44 13.509 6.331 306 20.146 9,9
+45 - 49 22.396 11.110 236 33.742 16,5
+50 - 54 30.144 13.202 313 43.659 21,4
+55 - 59 28.986 11.836 406 41.228 20,2
+60 - 64 23.542 5.900 492 29.934 14,7
+65 und &#228;lter 1.468 189 33 1.690 0,8
+Tabelle 2: Altersstruktur des versicherten Personenkreises zum 31.12.2016
+Quelle: BMAS aus Daten der Sozialversicherung f&#252;r Landwirtschaft, Forsten und Gartenbau
+hat sich zum 30. Juni 2017 gegen&#252;ber dem 30. Juni 2013 deutlich um 12,5 % erh&#246;ht. Dies ist auf die Einf&#252;hrung 
+der eigenst&#228;ndigen Sicherung der Ehegatten von landwirtschaftlichen Unternehmern zum 1. Januar 1995
+zur&#252;ckzuf&#252;hren, die nun zunehmend zur Zahlung von Versichertenrenten an Frauen f&#252;hrt. An Witwen oder
+Witwer wurden zum 30. Juni 2017 rd. 169.000 Renten geleistet, was gegen&#252;ber 2013 einem R&#252;ckgang um rd. 6,4 % 
+entspricht. Dar&#252;ber hinaus wurden zum 30. Juni 2017 in rd. 3.400 F&#228;llen Renten an Waisen gezahlt. 
+Mit der Agrarsozialreform im Jahr 1995 wurde die vorzeitige Altersrente in die AdL eingef&#252;hrt. Die
+Notwendigkeit dazu ergab sich mit dem Wegfall der fr&#252;heren Ehegattenzuschl&#228;ge im Zuge der Einf&#252;hrung der
+eigenst&#228;ndigen Sicherung der Ehegatten. Da es diese Rentenart erst seit 1995 gibt, &#252;bersteigen die Zug&#228;nge nach wie 
+vor die Wegf&#228;lle in erheblichem Umfang. Der Bestand an vorzeitigen Altersrenten steigt, da eine bewilligte 
+vorzeitige Altersrente nicht in eine Regelaltersrente umgewandelt wird, wenn die Regelaltersgrenze erreicht 
+wird. Die vorzeitigen Altersrenten der AdL sind aufgrund der an sie gekn&#252;pften Voraussetzungen (&#167; 12 ALG) 
+nur teilweise mit den vorzeitigen Altersrenten in der gesetzlichen Rentenversicherung vergleichbar.1 
+2.2.2 Rentenh&#246;he 
+Die durchschnittliche H&#246;he der monatlichen Regelaltersrenten betrug zum 30. Juni 2017 f&#252;r Unternehmer 
+476 Euro und f&#252;r Ehegatten 270 Euro. F&#252;r mitarbeitende Familienangeh&#246;rige, welche grunds&#228;tzlich die H&#228;lfte 
+der Rente eines landwirtschaftlichen Unternehmers erhalten, betrug die durchschnittliche H&#246;he der
+Regelaltersrenten 184 Euro (bei im Mittel geringeren Beitragszeiten). Der durchschnittliche monatliche Zahlbetrag f&#252;r 
+Renten wegen Erwerbsminderung lag 2017 bei 422 Euro und der f&#252;r vorzeitige Altersrenten bei 343 Euro.
+Witwen erhielten durchschnittlich 334 Euro und Witwer 97 Euro (vgl. Tabellen 3 und 4). 
+F&#252;r die einzelnen Rentenleistungen der AdL ergeben sich niedrigere Rentenh&#246;hen als in der gesetzlichen
+Rentenversicherung. Diese Unterschiede sind dadurch bedingt, dass die AdL aufgrund der besonderen Belange 
+landwirtschaftlicher Unternehmer nur den Charakter einer Teilsicherung hat, was sich sowohl auf der
+Beitragsals auch auf der Leistungsseite niederschl&#228;gt.  
+                                                            
+1  Der Anspruch auf eine vorzeitige Altersrente ist insbesondere von der Abgabe des Unternehmens abh&#228;ngig.
+Regelaltersrenten
+Vorzeitige
+Altersrenten
+Renten
+ wegen
+Erwerbsminderung
+insgesamt
+Witwen-/
+Witwerrenten
+Waisenrenten
+2013 605.417 311.482 58.206 50.984 184.745 180.616 4.129
+2014 602.804 306.756 65.746 47.920 182.382 178.450 3.932
+2015 601.023 301.386 75.300 44.548 179.789 176.144 3.645
+2016 596.003 294.451 84.458 41.110 175.984 172.495 3.489
+2017 589.850 287.406 92.243 37.719 172.482 169.125 3.357
+2013 361 396 286 405 315 320 71
+2014 357 390 294 401 311 316 70
+2015 358 391 309 404 312 317 71
+2016 361 393 324 409 313 318 73
+2017 371 404 343 422 320 325 76
+2013 257.252 206.347 6.619 37.524 6.762 4.719 2.043
+2014 251.173 199.736 9.302 35.087 5.087 5.087 1.961
+2015 246.188 193.019 13.504 32.431 7.234 5.457 1.777
+2016 240.285 185.491 17.410 29.702 7.682 5.996 1.686
+2017 233.974 178.045 20.701 27.092 8.136 6.523 1.613
+2013 451 466 400 442 97 108 70
+2014 446 461 405 437 94 103 70
+2015 447 463 416 441 91 98 71
+2016 450 467 428 446 92 97 73
+2017 462 481 448 461 93 97 76
+2013 348.165 105.135 51.587 13.460 177.983 175.897 2.086
+2014 351.631 107.020 56.444 12.833 175.334 173.363 1.971
+2015 354.835 108.367 61.796 12.117 172.555 170.687 1.868
+2016 355.718 108.960 67.048 11.408 168.302 166.499 1.803
+2017 355.876 109.361 71.542 10.627 164.346 162.602 1.744
+2013 294 257 272 302 322 325 71
+2014 293 257 276 302 320 322 71
+2015 296 261 286 307 321 324 72
+2016 301 267 296 312 323 326 74
+2017 311 278 313 322 331 334 77
+Anzahl der Renten
+M&#228;nner
+Rentenh&#246;he in Euro/Monat
+M&#228;nner und Frauen
+Rentenh&#246;he in Euro/Monat
+M&#228;nner
+Anzahl der Renten
+Frauen
+Rentenh&#246;he in Euro/Monat
+Frauen
+Anzahl der Renten
+M&#228;nner und Frauen
+Quelle: BMAS aus Daten der Sozialversicherung f&#252;r Landwirtschaft, Forsten und Gartenbau
+Tabelle 3: Rentenbestand und durchschnittliche monatliche Rentenh&#246;he
+nach Rentenarten und Geschlecht
+ (Stichtag 30.06.)
+Jahr
+Renten
+insgesamt
+Versichertenrenten Renten wegen Todes
+Unternehmer
+Ehegatten
+Familienangeh&#246;rige
+Unternehmer
+Ehegatten
+Familienangeh&#246;rige
+Unternehmer
+Ehegatten
+Familienangeh&#246;rige
+2013  217 045   92 202   2 235   7 301   50 880    25   40 718   8 294   1 972  
+2014  210 149   94 457   2 150   10 097   55 589    60   38 073   8 014   1 833  
+2015  203 324   95 988   2 074   14 563   60 649    88   35 236   7 625   1 687  
+2016  195 604   96 857   1 990   18 785   65 551    122   32 280   7 294   1 536  
+2017  188 090   97 403   1 913   22 350   69 754    139   29 492   6 835   1 392  
+2013   462    245    179    393    271    219    436    306    171  
+2014   457    246    178    399    275    223    432    307    170  
+2015   459    251    180    411    285    206    436    311    171  
+2016   462    258    180    422    296    198    441    317    172  
+2017   476    270    184    442    312    200    455    326    177  
+2013  203 761   1 719    867   6 367    234    18   36 588    226    710  
+2014  197 102   1 767    867   8 953    310    39   34 174    236    677  
+2015  190 401   1 767    851   13 039    407    58   31 557    230    644  
+2016  182 863   1 800    828   16 839    498    73   28 878    228    596  
+2017  175 438   1 810    797   20 043    581    77   26 328    209    555  
+2013   469    255    221    403    313    269    448    290    170  
+2014   464    256    222    409    320    272    444    290    167  
+2015   466    261    225    419    328    254    448    294    167  
+2016   470    268    226    431    338    251    453    301    168  
+2017   484    278    233    451    360    254    468    311    174  
+2013  13 284   90 483   1 368    934   50 646    7   4 130   8 068   1 262  
+2014  13 047   92 690   1 283   1 144   55 279    21   3 899   7 778   1 156  
+2015  12 923   94 221   1 223   1 524   60 242    30   3 679   7 395   1 043  
+2016  12 741   95 057   1 162   1 946   65 053    49   3 402   7 066    940  
+2017  12 652   95 593   1 116   2 307   69 173    62   3 164   6 626    837  
+2013   349    245    153    322    271    90    332    307    172  
+2014   346    246    149    326    275    98    330    307    171  
+2015   348    251    148    336    285    116    334    312    173  
+2016   350    257    147    349    295    118    339    317    174  
+2017   361    269    148    370    311    134    350    326    180  
+Tabelle 4: Versichertenrenten (Bestand und durchschnittliche H&#246;he) 
+nach Rentenarten und Geschlecht an Unternehmer, Ehegatten und Familienangeh&#246;rige
+(Stichtag 30.06.)
+Jahr
+Versichertenrenten
+Regelaltersrenten an Renten wegen Erwerbsminderung anVorzeitige Altersrenten an
+Quelle: BMAS aus Daten der Sozialversicherung f&#252;r Landwirtschaft, Forsten und Gartenbau
+Anzahl der Renten
+M&#228;nner und Frauen
+Rentenh&#246;he in Euro/Monat
+M&#228;nner und Frauen
+Anzahl der Renten
+M&#228;nner
+Rentenh&#246;he in Euro/Monat
+M&#228;nner
+Anzahl der Renten
+Frauen
+Rentenh&#246;he in Euro/Monat
+Frauen
+2.2.3 Beitrag und Beitragszuschuss  
+&#167; 68 ALG sieht einen Einheitsbeitrag vor, der entsprechend dem Beitrags-/Leistungsverh&#228;ltnis in der
+gesetzlichen Rentenversicherung festgesetzt wird. Den unterschiedlichen Leistungsstrukturen in beiden Systemen wird 
+durch einen Abschlag im Vergleich zur gesetzlichen Rentenversicherung Rechnung getragen. Der Beitrag in 
+der AdL betr&#228;gt f&#252;r das Kalenderjahr 2017 in den alten L&#228;ndern monatlich 241 Euro und in den neuen L&#228;ndern 
+216 Euro. 
+Einkommensschw&#228;chere landwirtschaftliche Unternehmer werden durch Beitragszusch&#252;sse entlastet, um eine 
+sozial gerechte Beitragsbelastung zu gew&#228;hrleisten. Ausgehend von einer Mindestbelastung in H&#246;he von 40 % 
+des Einheitsbetrages sind die Beitragszusch&#252;sse nach der H&#246;he des Einkommens gestaffelt. Die
+Einkommensobergrenze betr&#228;gt f&#252;r alleinstehende Versicherte 15.500 Euro, bei Verheirateten 31.000 Euro. Zum Stichtag 
+30. Juni 2017 erhielten rd. 28.000 Personen und somit rd. 13,7 % der Versicherten einen Beitragszuschuss
+(Tabelle 1). Die Zahl der Empf&#228;nger eines Beitragszuschusses ist absolut und relativ weiterhin stark r&#252;ckl&#228;ufig; im 
+Jahr 2013 haben noch 18,7 % aller Versicherten einen Beitragszuschuss erhalten. 
+2.2.4 Sonstige Leistungen 
+Neben den Rentenleistungen haben Versicherte &#8211; wie in der gesetzlichen Rentenversicherung &#8211; Anspruch auf 
+Leistungen zur medizinischen Rehabilitation und Pr&#228;ventionsleistungen. Im Zeitraum 1. Juli 2016 bis 
+30. Juni 2017 wurden in rd. 5.600 F&#228;llen entsprechende Leistungen bewilligt. Daneben kann &#8211; bei
+Arbeitsunf&#228;higkeit, Rehabilitationsleistungen, Schwangerschaft oder Tod des Versicherten &#8211; f&#252;r eine befristete Dauer 
+eine Betriebs- und Haushaltshilfe in Form der Bereitstellung einer Ersatzkraft oder der Kostenerstattung f&#252;r 
+eine selbst beschaffte Ersatzkraft gew&#228;hrt werden, um die Weiterf&#252;hrung des Betriebs bzw. des Haushalts
+sicherzustellen. Im Zeitraum 1. Juli 2016 bis 30. Juni 2017 wurde in rd. 4.100 F&#228;llen Betriebs- und Haushaltshilfe 
+gew&#228;hrt. 
+2.3 Finanzierung 
+2.3.1 Einnahmen  
+Die Beitragseinnahmen sind aufgrund des R&#252;ckgangs der Zahl der beitragspflichtigen Versicherten in den
+letzten Jahren gesunken und betrugen im Rechnungsjahr 2016 rd. 575 Mio. Euro. Seit Einf&#252;hrung der
+Defizitdekkung des Bundes (&#167; 78 ALG) im Jahr 1995, die den Fehlbetrag zwischen Einnahmen und Ausgaben ausgleicht, 
+tr&#228;gt der Bund die finanziellen Folgen des Strukturwandels in der Landwirtschaft. Der Bundeszuschuss betrug 
+im Jahr 2016 rd. 2,2 Mrd. Euro, womit etwa 79 % der Ausgaben durch Steuermittel finanziert wurden (vgl.
+Tabelle 5).
+2.3.2 Ausgaben 
+Die Gesamtausgaben betrugen im Jahr 2016 rd. 2,8 Mrd. Euro. Gegen&#252;ber dem Jahr 2012 sind sie damit um 
+rd. 2 % gesunken. Den gr&#246;&#223;ten Ausgabenposten stellen die Rentenausgaben dar (2016 rd. 95 %). Die
+Leistungen f&#252;r Regelaltersrenten sind im Zeitraum 2012 bis 2016 um 6,3 % gesunken. Die Rentenausgaben f&#252;r
+vorzeitige Altersrenten haben sich im selben Zeitraum mehr als verdoppelt (Steigerung um rd. 101,2 %). Dies ist 
+insbesondere auf die M&#246;glichkeit des abschlagsfreien vorzeitigen Altersrentenbezugs ab 63 Jahren
+zur&#252;ckzuf&#252;hren, die parallel zur Rente f&#252;r besonders langj&#228;hrig Versicherte in der gesetzlichen Rentenversicherung
+eingef&#252;hrt wurde. Die Ausgaben f&#252;r Renten wegen Erwerbsminderung waren weiterhin stark r&#252;ckl&#228;ufig (R&#252;ckgang 
+um rd. 22,7 %). Die Ausgaben f&#252;r Hinterbliebenenrenten sind um rd. 5 % gesunken.  
+Die Ausgaben im Bereich der Leistungen zur Teilhabe mit rd. 12,7 Mio. Euro sind gegen&#252;ber dem Jahr 2012 
+deutlich gesunken, die Ausgaben f&#252;r Betriebs- und Haushaltshilfe dagegen sind mit rd. 11,4 Mio. Euro in 2016 
+&#252;ber die Jahre relativ konstant. F&#252;r Beitragszusch&#252;sse wurden im Jahr 2016 rd. 33,9 Mio. Euro aufgewendet. 
+Dies entspricht einem R&#252;ckgang gegen&#252;ber 2012 um rd. 43 % (vgl. Tabelle 5). Urs&#228;chlich hierf&#252;r war die
+Abnahme des Anteils der Beitragszuschussberechtigten an den Versicherten. Dies beruht vor allem darauf, dass 
+ein Beitragszuschuss nur f&#252;r einkommensschw&#228;chere Betriebe gew&#228;hrt wird und die Einkommensgrenze f&#252;r 
+den Beitragszuschuss seit 1995 bzw. 2000 (Festlegung eines niedrigeren Betrages) nicht ge&#228;ndert wurde. 
+Die Verwaltungs- und Verfahrenskosten sind in den Jahren 2013 und 2014 gestiegen, in 2015 und 2016
+hingegen jeweils gegen&#252;ber dem Vorjahr gesunken. Ihr Anteil an den Gesamtausgaben betrug 2014 (dem Jahr mit 
+dem h&#246;chsten Anteil) 3,1 %, im Jahr 2016 2,8 %. 
+Einnahmen   -   Ausgaben 2012 2013 2014 2015 2016
+Gesamteinnahmen (in Mio. Euro) 2.882,8 2.810,7 2.776,8 2.767,0 2.798,4
+davon:
+Beitr&#228;ge 640,5 606,4 600,4 590,2 574,5
+Bundesmittel nach &#167; 78 ALG 2.194,2 2.195,9 2.174,5 2.168,5 2.221,3
+sonstige Einnahmen 19,6 2,0 1,9 1,8 2,6
+jahres&#252;bergreifender Ausgleich 1,4 7,8 0,0 6,5 0,0
+Gesamtausgaben (in Mio. Euro) 2.855,7 2.810,7 2.776,8 2.767,0 2.798,4
+davon:
+Regelaltersrenten 1.516,4 1.484,9 1.450,0 1.427,0 1.421,0
+vorzeitige Altersrenten 173,4 205,0 242,1 292,8 349,0
+Renten wegen Erwerbsminderung 265,3 249,1 232,2 217,1 205,2
+Renten an Witwen und Witwer 718,4 707,7 692,7 684,6 683,1
+Waisenrenten 3,8 3,7 3,4 3,4 3,3
+&#220;berbr&#252;ckungsgeld, &#220;bergangshilfe 0,0 0,0 0,0 0,0 0,0
+Leistungen zur Teilhabe 14,7 14,6 13,3 13,6 12,7
+Betriebs- und Haushaltshilfe 11,8 12,1 11,3 11,9 11,4
+Beitragszusch&#252;sse, -&#252;bernahmen 59,4 47,4 39,7 35,2 33,9
+Verwaltungs- und Verfahrenskosten 74,9 85,0 86,2 80,6 77,9
+sonstige Ausgaben 17,5 1,2 5,9 0,8 0,9
+Quelle: BMAS aus Daten der Sozialversicherung f&#252;r Landwirtschaft, Forsten und Gartenbau
+Tabelle 5: Einnahmen und Ausgaben in der Alterssicherung der Landwirte 
+von 2012 bis 2016
+3. Vorausberechnung der Einnahmen und Ausgaben 
+3.1 Rechtsstand 
+In der Alterssicherung der Landwirte wurde in den letzten Jahren eine Vielzahl von gesetzlichen &#196;nderungen 
+vorgenommen.  
+Die mit dem Gesetz &#252;ber Leistungsverbesserungen in der gesetzlichen Rentenversicherung (RV-
+Leistungsverbesserungsgesetz vom 23. Juni 2014, BGBl. I S. 787) eingef&#252;hrte M&#246;glichkeit einer abschlagsfreien Altersrente 
+ab 63 Jahren f&#252;r besonders langj&#228;hrig Versicherte mit 45 Beitragsjahren in der gesetzlichen Rentenversicherung 
+wurde im Grundsatz wirkungsgleich auf die AdL &#252;bertragen. Anspruchsvoraussetzungen f&#252;r eine vorzeitige 
+Altersrente an langj&#228;hrig Versicherte sind hier die Hofabgabe und die Erf&#252;llung einer 35-j&#228;hrigen Wartezeit. 
+Ferner m&#252;ssen insgesamt mindestens 45 Jahre mit anrechenbaren Zeiten vorliegen. Zu diesen Zeiten z&#228;hlen 
+neben den Versicherungszeiten in der AdL auch Versicherungszeiten in der gesetzlichen Rentenversicherung 
+und in anderen Systemen (z. B. in einer berufsst&#228;ndischen Versorgung oder in der Beamtenversorgung). Der 
+Personenkreis f&#252;r diesen abschlagsfreien Renteneintritt mit 63 Jahren ist beschr&#228;nkt, da das Renteneintrittsalter 
+seit Einf&#252;hrung der Regelungen wie in der gesetzlichen Rentenversicherung schrittweise von 63 auf 65 Jahre 
+angehoben wird. Mit dem RV-Leistungsverbesserungsgesetz wurde auch die Anrechnung von
+Kindererziehungszeiten in der gesetzlichen Rentenversicherung f&#252;r vor 1992 geborene Kinder um zw&#246;lf Kalendermonate 
+verl&#228;ngert. Da die Erziehungsleistung von M&#252;ttern, die in der AdL versicherungspflichtig sind, rentenrechtlich 
+durch die Anrechnung in der gesetzlichen Rentenversicherung honoriert wird, war hierf&#252;r in der AdL keine 
+&#196;nderung notwendig. Analog zum Sozialgesetzbuch (SGB) Sechstes Buch &#8211; Gesetzliche Rentenversicherung 
+wurde au&#223;erdem auch die Zurechnungszeit f&#252;r Renten wegen Erwerbsminderung bis zum vollendeten 62.
+Lebensjahr verl&#228;ngert. 
+Im Rahmen der im F&#252;nften Gesetz zur &#196;nderung des Vierten Buches Sozialgesetzbuch und anderer Gesetze 
+(5. SGB IV-&#196;ndG vom 15. April 2015, BGBl. I S. 583) vorgenommenen Optimierung der Meldeverfahren in 
+der sozialen Sicherung wurde die Abschaffung der Einkommensanrechnung bei Waisenrenten der gesetzlichen 
+Rentenversicherung in der AdL nachvollzogen.  
+Um die sozialpolitische Sicherungsfunktion und die agrarpolitische Steuerungsfunktion der AdL besser in
+Einklang zu bringen und den Ver&#228;nderungen in der Landwirtschaft Rechnung zu tragen, wurden mit dem Gesetz 
+zur &#196;nderung des Zw&#246;lften Buches Sozialgesetzbuch und weiterer Vorschriften vom 21. Dezember 2015 
+(BGBl. I S. 2557) folgende &#196;nderungen bei der Hofabgabeverpflichtung als Voraussetzung f&#252;r den Bezug einer 
+Rente vorgenommen:  
+&#61623; Die Hinzuverdienstm&#246;glichkeiten f&#252;r Rentnerinnen und Rentner wurden verbessert, indem der
+rentenunsch&#228;dliche R&#252;ckbehalt landwirtschaftlich genutzter Fl&#228;chen auf maximal 99 % der Mindestgr&#246;&#223;e deutlich 
+erh&#246;ht wurde. 
+&#61623; Die Abgabem&#246;glichkeiten zwischen Ehegatten wurden weiter erleichtert. Nunmehr bleibt bei einer
+Hof&#252;bergabe an den Ehegatten der Rentenanspruch auch erhalten, wenn der &#252;bernehmende Ehegatte die
+Regelaltersgrenze erreicht, den Hof aber noch nicht abgegeben hat. 
+&#61623; Die Einbringung eines landwirtschaftlichen Unternehmens in eine Gesellschaft wird seither als neuer
+Abgabetatbestand anerkannt, wenn sich der Landwirt keine leitende, zur Unternehmereigenschaft f&#252;hrende 
+Stellung einr&#228;umen l&#228;sst.  
+&#61623; Mit der wirkungsgleichen &#220;bernahme einer Regelung aus der gesetzlichen Rentenversicherung wird auch 
+in der AdL eine sp&#228;tere Inanspruchnahme der Altersrente honoriert. Derjenige, der seine Rente sp&#228;ter  
+beantragt, erh&#228;lt f&#252;r jeden Monat, f&#252;r den er keine Rente in Anspruch nimmt, einen Zuschlag in H&#246;he 
+von 0,5 %. 
+Weitere Klarstellungen zu den &#196;nderungen zur Hofabgabeverpflichtung wurden mit dem Sechsten Gesetz zur 
+&#196;nderung des Vierten Buches Sozialgesetzbuch und anderer Gesetze (6. SGB IV-&#196;ndG vom 11. November 
+2016, BGBl. I S. 2500) vorgenommen. 
+Die mit dem Gesetz zur Flexibilisierung des &#220;bergangs vom Erwerbsleben in den Ruhestand und zur St&#228;rkung 
+von Pr&#228;vention und Rehabilitation im Erwerbsleben (Flexirentengesetz vom 8. Dezember 2016, BGBl. I 
+S. 2838) in der gesetzlichen Rentenversicherung vorgenommenen &#196;nderungen der rehabilitationsrechtlichen 
+Vorschriften wurden auch in der AdL eingef&#252;hrt. Zuk&#252;nftig k&#246;nnen zudem Pr&#228;ventionsleistungen in der AdL 
+f&#252;r landwirtschaftliche Unternehmerinnen und Unternehmer, ihre Ehegatten bzw. Lebenspartner und
+mitarbeitende Familienangeh&#246;rige erbracht werden. Die mit dem Flexirentengesetz in der gesetzlichen
+Rentenversicherung eingef&#252;hrten neuen Hinzuverdienstregelungen wurden nicht in der AdL &#252;bernommen. Sie h&#228;tten wegen 
+der Ausgestaltung der AdL als Teilsicherungssystem nur f&#252;r Erwerbsminderungsrenten gegolten und sich f&#252;r 
+diesen Versichertenkreis weit &#252;berwiegend ung&#252;nstig ausgewirkt.  
+Mit dem Gesetz zur Verbesserung der Leistungen bei Renten wegen verminderter Erwerbsf&#228;higkeit und zur 
+&#196;nderung anderer Gesetze (EM-Leistungsverbesserungsgesetz vom 17. Juli 2017, BGBl. I S. 2509) wurde auch 
+in der AdL die Zurechnungszeit f&#252;r Renten wegen Erwerbsminderung bis zum vollendeten 65. Lebensjahr
+verl&#228;ngert. Mit dem Gesetz &#252;ber den Abschluss der Renten&#252;berleitung (Renten&#252;berleitungs-Abschlussgesetz vom 
+17. Juli 2017, BGBl. I S. 2575) wurde die schrittweise Vereinheitlichung der Rentenwerte und der
+Beitragsbemessungsgrenzen in den alten und neuen Bundesl&#228;ndern bis zum Jahr 2025 nachvollzogen.  
+Vorgesehen ist, mit der Verordnung zur Bildung von Altersr&#252;ckstellungen durch die Sozialversicherung f&#252;r 
+Landwirtschaft, Forsten und Gartenbau (SVLFG-AltR&#252;ckV) die Rechtsgrundlage f&#252;r die Einf&#252;hrung von 
+zweckgebundenen Altersr&#252;ckstellungen f&#252;r die bei der Sozialversicherung f&#252;r Landwirtschaft, Forsten und
+Gartenbau Besch&#228;ftigten zu bilden, denen eine Anwartschaft auf Versorgung nach beamtenrechtlichen Vorschriften 
+oder Grunds&#228;tzen gew&#228;hrleistet wird. 
+3.2 Ergebnisse der Modellrechnungen 
+Der Lagebericht enth&#228;lt gem&#228;&#223; der gesetzlichen Vorgabe drei Modellrechnungen mit einem Projektionshorizont 
+von zehn Jahren. Die gesetzlich vorgeschriebene f&#252;nfj&#228;hrige Vorausberechnung ist Teil der mittleren Variante. 
+In diesen Modellrechnungen werden die aktuellen Einnahmen und Ausgaben der AdL unter Verwendung
+zentraler Annahmen (siehe Abschnitt 3.3) fortgeschrieben.  
+Nach der mittleren Variante der Modellrechnungen (Tabelle 6) ist ein R&#252;ckgang der Zahl der Versicherten im 
+Zeitraum 2017 bis 2027 um rd. 63.000 Personen bzw. um 3,7 % pro Jahr zu erwarten.  
+ 
+Im selben Zeitraum steigen die Beitragseinnahmen um durchschnittlich j&#228;hrlich rd. 0,1 %. Bei der Betrachtung 
+der Einzeljahre zeigt sich zun&#228;chst bis 2022 ein R&#252;ckgang der Beitragseinnahmen. Urs&#228;chlich f&#252;r den sich ab 
+2024 anschlie&#223;enden Anstieg der Beitragseinnahmen ist der Beitragssatzanstieg in der gesetzlichen
+Rentenversicherung, der eine Zunahme des Einheitsbeitrags zur Folge hat. In den neuen L&#228;ndern wirkt sich zudem das 
+Renten&#252;berleitungs-Abschlussgesetz bis 2025 positiv auf den Einheitsbeitrag aus (vgl. Abschnitt 3.2.2).  
+Im Vorausberechnungszeitraum wird sich der in der Vergangenheit beobachtete R&#252;ckgang des Rentenbestands 
+weiter fortsetzen. Bis 2027 wird ein R&#252;ckgang um rd. 57.000 auf rd. 536.000 Renten bzw. j&#228;hrlich um rd. 1,0 % 
+erwartet. Trotz des r&#252;ckl&#228;ufigen Rentenbestands steigen die Rentenausgaben bis 2027 j&#228;hrlich durchschnittlich 
+um 0,5 %. Diese unterschiedliche Entwicklung ist auf die k&#252;nftigen Rentenanpassungen zur&#252;ckzuf&#252;hren, die 
+20171) 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027
+Versicherte (im Jahresdurchschnitt, in Tausend) 200 191 183 176 169 163 157 151 146 141 137
+Rentenbestand (im Jahresdurchschnitt, in Tausend) 593 589 584 578 571 565 559 553 547 541 536
+Beitrag alte L&#228;nder (in Euro pro Monat) 241 246 253 260 267 275 285 311 325 336 353
+Beitrag neue L&#228;nder (in Euro pro Monat) 216 219 234 243 253 264 278 307 325 336 353
+Einnahmen (in Mio. Euro)
+Beitr&#228;ge 560 546 540 533 526 522 522 550 555 556 565
+Erforderlicher Bundeszuschuss 2.270 2.309 2.341 2.368 2.394 2.417 2.435 2.420 2.407 2.398 2.398
+Sonstige Einnahmen 4 4 4 4 4 4 4 4 4 4 4
+Einnahmen insgesamt 2.834 2.859 2.885 2.905 2.924 2.943 2.961 2.973 2.967 2.958 2.967
+Ausgaben (in Mio. Euro)
+Renten an Versicherte 2.012 2.038 2.071 2.099 2.128 2.157 2.185 2.210 2.222 2.232 2.257
+Renten an Hinterbliebenene 684 676 671 664 657 648 639 627 610 592 577
+Beitragszusch&#252;sse 32 32 31 31 31 31 31 32 32 32 33
+Zusch&#252;sse zur Krankenversicherung 3 3 3 3 3 3 3 3 3 3 3
+Teilhabeleistungen, Betriebs- und Haushaltshilfe 25 25 25 25 24 24 24 24 23 23 23
+Verwaltungs- und Verfahrenskosten 78 85 83 82 80 79 79 77 76 75 74
+Sonstige Ausgaben 1 1 1 1 1 1 1 1 1 1 1
+Ausgaben insgesamt 2.834 2.859 2.885 2.905 2.924 2.943 2.961 2.973 2.967 2.958 2.967
+1) Sch&#228;tzung auf Basis der unterj&#228;hrigen Ergebnisse f&#252;r das 1. Halbjahr 2017
+Mittlere Variante und 5-Jahresrechnung bis 2021
+Tabelle 6: Finanzielle Entwicklung in der Alterssicherung der Landwirte 2017 bis 2027
+ihrerseits insbesondere von der Lohnentwicklung und der Entwicklung des Beitragssatzes in der gesetzlichen 
+Rentenversicherung abh&#228;ngig sind.  
+Die Gesamtausgaben steigen im Vorausberechnungszeitraum im Jahresdurchschnitt um j&#228;hrlich rd. 0,5 %. 
+Haupttreiber des Anstiegs sind die Rentenausgaben, weitere eher kleine Ausgabenpositionen wie die Ausgaben 
+f&#252;r &#220;berbr&#252;ckungsgeld und &#220;bergangshilfe, f&#252;r Teilhabeleistungen und f&#252;r Betriebs- und Haushaltshilfen oder 
+auch die Zusch&#252;sse zu dem vom Rentenbezieher zu leistenden Beitrag zu einer privaten oder freiwilligen
+gesetzlichen Krankenversicherung werden sich im Vorausberechnungszeitraum nur gering ver&#228;ndern. Diese
+Tendenz gilt ebenfalls f&#252;r die Beitragszusch&#252;sse an einkommensschw&#228;chere Betriebe, f&#252;r die gut 30 Mio. Euro 
+aufgewandt werden. 
+Einen wichtigen Ausgabenposten stellen die Verwaltungs- und Verfahrenskosten dar. Der zuletzt zu
+beobachtende R&#252;ckgang dieser Ausgaben wird ab 2018 durch zwei besondere Effekte beeinflusst. Die
+Sozialversicherung f&#252;r Landwirtschaft, Forsten und Gartenbau muss nach &#167; 7 Absatz 1 des Gesetzes zur Errichtung der
+Sozialversicherung f&#252;r Landwirtschaft, Forsten und Gartenbau (SVLFGG) ab dem 1. Januar 2018 f&#252;r die bei ihr 
+Besch&#228;ftigten, denen eine Anwartschaft auf Versorgung nach beamtenrechtlichen Vorschriften oder
+Grunds&#228;tzen gew&#228;hrleistet wird, zweckgebundene Altersr&#252;ckstellungen bilden. Dies f&#252;hrt im Bereich Landwirtschaft im 
+Vorausberechnungszeitraum zu j&#228;hrlichen Mehrbelastungen zwischen 3,2 und 3,7 Mio. Euro. In 2017 und 2018 
+schlagen zudem die Kosten der erstmals bei diesem SV-Tr&#228;ger durchgef&#252;hrten Sozialwahl zu Buche. Hier ist 
+auch k&#252;nftig alle sechs Jahre mit zus&#228;tzlichen Belastungen zu rechnen. 
+Gem&#228;&#223; &#167; 78 ALG tr&#228;gt der Bund den Unterschiedsbetrag zwischen den Einnahmen und den Ausgaben der AdL. 
+Entsprechend der Entwicklung bei den Beitragseinnahmen und den (Renten-)Ausgaben wird der
+Bundeszuschuss bereits mittelfristig von 2017 bis 2021 voraussichtlich um rd. 124 Mio. Euro auf rd. 2,4 Mrd. Euro
+steigen. In den Jahren danach stabilisiert sich der Bundeszuschuss auf diesem Niveau, ab 2024 geht der
+Bundeszuschuss aufgrund der Beitragssatzver&#228;nderungen in der gesetzlichen Rentenversicherung mit Folgen auf der
+Einnahmen- und Ausgabenseite leicht zur&#252;ck. 
+In der unteren (ung&#252;nstigeren) Variante f&#228;llt der j&#228;hrliche R&#252;ckgang der Versichertenzahl bis 2027 mit
+durchschnittlich 4,7 % st&#228;rker aus als in der mittleren Variante (Tabelle 7). Dies f&#252;hrt zusammen mit den unterstellten 
+niedrigeren L&#246;hnen zu r&#252;ckl&#228;ufigen Beitragseinnahmen, die unter diesen Annahmen voraussichtlich um 
+rd. 1,6 % im Jahresdurchschnitt sinken werden. Aufgrund der niedrigen Lohnzuw&#228;chse ist jedoch auch ein 
+R&#252;ckgang der Rentenausgaben um durchschnittlich rd. 0,3 % pro Jahr zu erwarten. Der erforderliche
+Bundeszuschuss wird in dieser Variante mittelfristig um 91 Mio. Euro steigen, bis 2027 jedoch in etwa wieder auf den 
+Wert von 2017 sinken.  
+ 
+  
+20171) 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027
+Versicherte (im Jahresdurchschnitt, in Tausend) 200 190 180 171 163 155 148 141 135 129 124
+Rentenbestand (im Jahresdurchschnitt, in Tausend) 593 589 584 578 571 565 559 553 547 541 536
+Beitrag alte L&#228;nder (in Euro pro Monat) 241 246 248 252 257 268 286 294 303 316 328
+Beitrag neue L&#228;nder (in Euro pro Monat) 216 219 229 236 244 258 279 290 303 316 328
+Einnahmen (in Mio. Euro)
+Beitr&#228;ge 560 544 521 503 488 485 494 485 479 478 476
+Erforderlicher Bundeszuschuss 2.270 2.312 2.344 2.350 2.361 2.363 2.342 2.320 2.299 2.285 2.272
+Sonstige Einnahmen 4 4 4 4 4 4 4 4 4 4 4
+Einnahmen insgesamt 2.834 2.860 2.869 2.857 2.853 2.853 2.840 2.809 2.782 2.768 2.752
+Ausgaben (in Mio. Euro)
+Renten an Versicherte 2.012 2.038 2.059 2.064 2.076 2.090 2.094 2.087 2.083 2.088 2.093
+Renten an Hinterbliebenene 684 676 667 651 638 624 607 585 563 545 525
+Beitragszusch&#252;sse 32 32 32 31 31 32 34 34 34 35 35
+Zusch&#252;sse zur Krankenversicherung 3 3 3 3 3 3 3 3 3 3 3
+Teilhabeleistungen, Betriebs- und Haushaltshilfe 25 25 25 25 24 24 24 24 23 23 23
+Verwaltungs- und Verfahrenskosten 78 85 83 81 80 78 79 76 75 73 72
+Sonstige Ausgaben 1 1 1 1 1 1 1 1 1 1 1
+Ausgaben insgesamt 2.834 2.860 2.869 2.857 2.853 2.853 2.840 2.809 2.782 2.768 2.752
+1) Sch&#228;tzung auf Basis der unterj&#228;hrigen Ergebnisse f&#252;r das 1. Halbjahr 2017
+Untere Variante und 5-Jahresrechnung bis 2021
+Tabelle 7: Finanzielle Entwicklung in der Alterssicherung der Landwirte 2017 bis 2027
+Die im Vergleich zur mittleren Variante niedrigere Versichertenzahl d&#228;mpft im Trend die Verwaltungs- und 
+Verfahrenskosten. Durch die geringeren L&#246;hne steigen dagegen die Beitragszusch&#252;sse. 
+In der oberen (g&#252;nstigeren) Variante sinkt die Zahl der Versicherten j&#228;hrlich im Durchschnitt nur um 2,8 % 
+(Tabelle 8). Hohe L&#246;hne sorgen in diesem Szenario f&#252;r im Durchschnitt j&#228;hrlich um 1,9 % steigende
+Beitragseinnahmen. Dem stehen allerdings auch hohe Rentenausgaben gegen&#252;ber: Diese steigen im Durchschnitt
+j&#228;hrlich um 1,3 %. Zwar f&#252;hren die im Vergleich mit den anderen Varianten h&#246;heren L&#246;hne zu geringeren
+Beitragszusch&#252;ssen, im Saldo steigt jedoch der erforderliche Bundeszuschuss stetig bis 2027 um 258 Mio. Euro auf 
+2,5 Mrd. Euro.  
+ 
+Es zeigt sich somit, dass der erforderliche Bundeszuschuss bei g&#252;nstiger Wirtschaftsentwicklung h&#246;her ist als 
+bei einer weniger g&#252;nstigen Entwicklung. Dies h&#228;ngt damit zusammen, dass die Lohndynamik auf das
+Rentenvolumen relativ st&#228;rker wirkt als auf das vergleichsweise geringe Beitragsvolumen. Im Ergebnis ist die absolute 
+Differenz zwischen Beitr&#228;gen und Renten bei h&#246;herer Lohndynamik gr&#246;&#223;er als bei niedriger Lohndynamik (vgl. 
+Tabellen 6 bis 8).  
+3.3 Annahmen der Modellrechnungen 
+3.3.1 Rechengr&#246;&#223;en des Rentenversicherungsberichts 2017 
+Die f&#252;r die drei Modellrechnungen bedeutsamen Rechengr&#246;&#223;en aus der gesetzlichen Rentenversicherung sind 
+der Tabelle 9 zu entnehmen. F&#252;r die Einnahmenseite der AdL sind die Beitragssatzentwicklung in der
+gesetzlichen Rentenversicherung und die Annahmen zur Entwicklung der Bruttol&#246;hne und -geh&#228;lter von Bedeutung. 
+F&#252;r die Entwicklung der Rentenausgaben ist die Ver&#228;nderung des aktuellen Rentenwerts in der gesetzlichen 
+Rentenversicherung wesentlich, der wiederum u. a. von der Beitragssatzentwicklung im jeweiligen Vorjahr
+abh&#228;ngig ist. 
+Die Rechengr&#246;&#223;en basieren im mittelfristigen Zeitraum auf den gesamtwirtschaftlichen Eckwerten der
+Bundesregierung vom 11. Oktober 2017. Die ausgewiesenen Werte entsprechen denen des
+Rentenversicherungsberichts 2017. Die Annahmen f&#252;r die untere bzw. obere Variante ergeben sich aus der jeweils ung&#252;nstigsten bzw. 
+g&#252;nstigsten Kombination der dort getroffenen drei Entgelt- und Besch&#228;ftigungsannahmen. 
+20171) 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027
+Versicherte (im Jahresdurchschnitt, in Tausend) 200 192 186 181 175 170 166 162 158 154 151
+Rentenbestand (im Jahresdurchschnitt, in Tausend) 593 589 584 578 571 565 559 553 547 541 536
+Beitrag alte L&#228;nder (in Euro pro Monat) 241 246 252 262 272 283 305 326 340 361 381
+Beitrag neue L&#228;nder (in Euro pro Monat) 216 219 233 245 258 272 297 322 340 361 381
+Einnahmen (in Mio. Euro)
+Beitr&#228;ge 560 549 546 551 556 562 591 616 628 652 673
+Erforderlicher Bundeszuschuss 2.270 2.305 2.350 2.404 2.448 2.482 2.500 2.503 2.510 2.517 2.528
+Sonstige Einnahmen 4 4 4 4 4 4 4 4 4 4 4
+Einnahmen insgesamt 2.834 2.859 2.900 2.959 3.008 3.049 3.095 3.123 3.142 3.172 3.205
+Ausgaben (in Mio. Euro)
+Renten an Versicherte 2.012 2.038 2.083 2.139 2.190 2.235 2.283 2.322 2.353 2.394 2.438
+Renten an Hinterbliebenene 684 676 675 679 680 676 673 665 654 645 635
+Beitragszusch&#252;sse 32 31 30 30 30 29 30 30 30 30 30
+Zusch&#252;sse zur Krankenversicherung 3 3 3 3 3 3 3 3 3 3 3
+Teilhabeleistungen, Betriebs- und Haushaltshilfe 25 25 25 25 24 24 24 24 23 23 23
+Verwaltungs- und Verfahrenskosten 78 85 83 82 81 80 80 78 77 76 75
+Sonstige Ausgaben 1 1 1 1 1 1 1 1 1 1 1
+Ausgaben insgesamt 2.834 2.859 2.900 2.959 3.008 3.049 3.095 3.123 3.142 3.172 3.205
+1) Sch&#228;tzung auf Basis der unterj&#228;hrigen Ergebnisse f&#252;r das 1. Halbjahr 2017
+Obere Variante und 5-Jahresrechnung bis 2021
+Tabelle 8: Finanzielle Entwicklung in der Alterssicherung der Landwirte 2017 bis 2027
+3.3.2 Versicherte, Beitragseinnahmen und Bundeszuschuss 
+Die Fortschreibung der Versichertenzahlen beruht auf der Einzelbetrachtung der versicherten Unternehmer, 
+Ehegatten, mitarbeitenden Familienangeh&#246;rigen und sonstigen Versicherten getrennt nach alten und neuen
+L&#228;ndern. Im Ergebnis wird in Form einer Trendfortschreibung angenommen, dass sich die Anzahl der versicherten 
+Unternehmer aufgrund des weiter anhaltenden Strukturwandels in der Landwirtschaft bis 2027 in der mittleren 
+Variante im Durchschnitt um j&#228;hrlich rd. 2,7 % vermindern wird (Tabelle 10). Entsprechend der Entwicklung 
+in der Vergangenheit wurde dabei unterstellt, dass der R&#252;ckgang in den alten L&#228;ndern st&#228;rker als in den neuen 
+L&#228;ndern verl&#228;uft. Ged&#228;mpft wird diese Entwicklung durch die Folgen des Anhebens der Altersgrenze auf 
+67 Jahre. Seit 2012 steigt die Zahl der Versicherten im Alter von 65 Jahren und &#228;lter. 
+ 
+Die Zahl der versicherten Ehegatten sinkt schneller als die der versicherten Unternehmer. Dies h&#228;ngt damit 
+zusammen, dass immer mehr Ehegatten von Landwirten ihr Einkommen in einem nichtlandwirtschaftlichen 
+Beruf erzielen und sich von der Versicherungspflicht in der AdL befreien lassen. Dieser Trend wird sich auch 
+in der Zukunft fortsetzen. Dabei wird entsprechend der Entwicklung in der Vergangenheit angenommen, dass 
+die Zahl der versicherten Ehegatten langfristig im Durchschnitt um j&#228;hrlich rd. 6,7 % zur&#252;ckgeht.  
+2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027
+Beitragssatz zur allgemeinen Rentenversicherung
+   - untere Variante 18,7% 18,6% 18,6% 18,6% 18,6% 19,0% 19,9% 20,1% 20,3% 20,7% 21,1%
+   - mittlere Variante 18,7% 18,6% 18,6% 18,6% 18,6% 18,6% 18,7% 19,8% 20,1% 20,2% 20,6%
+   - obere Variante 18,7% 18,6% 18,2% 18,2% 18,2% 18,2% 18,9% 19,4% 19,5% 19,9% 20,2%
+Wachstum der Bruttolohn- und gehaltssumme je durchschnittlich besch&#228;ftigten Arbeitnehmer in den alten L&#228;ndern1)
+   - untere Variante 2,6% 1,6% 1,8% 1,9% 1,9% 1,9% 2,0% 2,0% 2,0% 2,0% 2,0%
+   - mittlere Variante 2,6% 2,6% 2,8% 2,9% 2,9% 2,9% 3,0% 3,0% 3,0% 3,0% 3,0%
+   - obere Variante 2,6% 3,6% 3,8% 3,9% 3,9% 3,9% 4,0% 4,0% 4,0% 4,0% 4,0%
+Aktueller Rentenwert in den alten L&#228;ndern ab dem 1.7. des Jahres in Euro
+   - untere Variante 31,03 31,99 32,51 32,97 33,70 34,22 34,54 34,57 34,93 35,27 35,53
+   - mittlere Variante 31,03 31,99 32,94 33,85 34,81 35,73 36,64 37,46 37,80 38,51 39,35
+   - obere Variante 31,03 31,99 33,37 34,92 36,12 37,47 38,84 39,81 40,92 42,23 43,42
+1) Wachstumsraten nach Herausrechnung der 1-&#8364;-Jobs
+Die Annahmen der 5-Jahresrechnung (2017 bis 2021) entsprechen denen der mittleren Variante f&#252;r diesen Zeitraum.
+Tabelle 9: Zentrale Rechengr&#246;&#223;en des Rentenversicherungsberichts 2017
+2017 1) 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027
+Unternehmer 140,8 136,2 132,0 128,1 124,4 120,9 117,6 114,6 111,7 109,1 106,6
+-3,2% -3,1% -3,0% -2,9% -2,8% -2,7% -2,6% -2,5% -2,4% -2,3%
+Ehegatten 51,3 47,6 44,2 41,1 38,3 35,7 33,3 31,1 29,1 27,2 25,5
+-7,2% -7,1% -7,0% -6,9% -6,8% -6,7% -6,6% -6,5% -6,4% -6,3%
+Weiterentrichter 0,2 0,2 0,2 0,1 0,1 0,1 0,1 0,1 0,1 0,1 0,1
+-16,0% -15,3% -14,8% -14,3% -13,8% -13,3% -12,8% -12,3% -11,8% -11,3%
+Mitarbeitende Familienangeh&#246;rige, frei- 7,6 7,2 6,9 6,6 6,3 6,0 5,7 5,4 5,2 4,9 4,7
+willig Versicherte und Weiterversicherte -4,8% -4,7% -4,7% -4,7% -4,7% -4,7% -4,7% -4,7% -4,7% -4,7%
+Vollbeitragszahler insgesamt 2) 196,1 187,7 179,9 172,6 165,9 159,7 153,9 148,5 143,5 138,8 134,5
+-4,3% -4,2% -4,0% -3,9% -3,8% -3,6% -3,5% -3,4% -3,2% -3,1%
+Beitragszahler insgesamt 199,9 191,3 183,3 175,9 169,0 162,6 156,7 151,2 146,0 141,2 136,8
+1) Sch&#228;tzung auf Basis der unterj&#228;hrigen Ergebnisse f&#252;r das 1. Halbjahr 2017
+2) Bei der Berechnung der Vollbeitragszahler werden die Mithelfenden Familienangeh&#246;rigen nur zur H&#228;lfte gez&#228;hlt.
+Tabelle 10: Annahmen &#252;ber die Anzahl der Versicherten im Jahresdurchschnitt in der mittleren Variante
+Angaben in Tsd. und Ver&#228;nderung zum Vorjahr in Prozent
+Das Verh&#228;ltnis von versicherten Ehegatten zu versicherten Unternehmern bleibt auch in den kommenden Jahren 
+in den neuen L&#228;ndern niedriger als in den alten L&#228;ndern. Dies liegt daran, dass die Ehegatten in den neuen 
+L&#228;ndern weiterhin h&#228;ufiger die Befreiungskriterien erf&#252;llen als die Ehegatten der landwirtschaftlichen
+Unternehmer in den alten L&#228;ndern. 
+F&#252;r die Gruppe der Weiterentrichter2 wird entsprechend der Entwicklung in der Vergangenheit von einem
+starken R&#252;ckgang ausgegangen. Aber auch die Zahl der versicherten mitarbeitenden Familienangeh&#246;rigen wird 
+sich langfristig entsprechend dem bisher beobachteten Verlauf vermindern. Hier wurde unterstellt, dass die Zahl 
+der versicherten Familienangeh&#246;rigen in den neuen L&#228;ndern langfristig stagniert.  
+Bei der Modellierung der unteren Variante wird hinsichtlich der Versichertenzahl in den alten L&#228;ndern ab 2018 
+ein um j&#228;hrlich 1,0 Prozentpunkte st&#228;rker ausgepr&#228;gter R&#252;ckgang als in der mittleren Variante unterstellt. In der 
+oberen Variante wird entsprechend angenommen, dass das Absinken der Zahl der Versicherten ab 2018 j&#228;hrlich 
+um 1,0 Prozentpunkte schw&#228;cher ausfallen wird. Die Varianten in den neuen L&#228;ndern unterscheiden sich
+bez&#252;glich der Annahmen zur Entwicklung der Versichertenzahl nicht. 
+Die Beitragseinnahmen ergeben sich aus der Versichertenzahl und dem Einheitsbeitrag getrennt f&#252;r alte und 
+neue L&#228;nder. Der Einheitsbeitrag, der von den landwirtschaftlichen Unternehmern alleine zu tragen ist, wird 
+gem&#228;&#223; &#167; 68 ALG durch Beitragssatz und vorausgesch&#228;tztes Durchschnittsentgelt in der gesetzlichen
+Rentenversicherung bestimmt. Dazu werden Beitragssatz, vorausgesch&#228;tztes Durchschnittsentgelt und der Faktor 
+0,0346 miteinander multipliziert. Mit dem Faktor wird das Leistungsverh&#228;ltnis zwischen AdL und gesetzlicher 
+Rentenversicherung auf die Beitr&#228;ge &#252;bertragen. Der Beitrag in den neuen L&#228;ndern ergibt sich gem&#228;&#223; &#167; 114 
+Absatz 2 ALG, indem der Beitrag f&#252;r die alten L&#228;nder durch den Umrechnungswert nach Anlage 10 des SGB VI 
+geteilt wird. Mit dem Gesetz &#252;ber den Abschluss der Renten&#252;berleitung wurde der Umrechnungswert so
+festgelegt, dass sich der Einheitsbeitrag in den neuen L&#228;ndern ab 2019 schrittweise an den Einheitsbeitrag in den alten 
+L&#228;ndern anpasst. Ab 2025 sind die beiden Werte identisch. Die H&#246;he des Einheitsbeitrags ergibt sich somit 
+sowohl in den alten wie in den neuen L&#228;ndern direkt aus den Rechengr&#246;&#223;en der gesetzlichen
+Rentenversicherung und ist unabh&#228;ngig vom Einkommen der Versicherten der AdL. 
+Der Bund tr&#228;gt gem&#228;&#223; &#167; 78 ALG den Unterschiedsbetrag zwischen den Ausgaben der landwirtschaftlichen
+Alterskassen einerseits und den Beitragseinnahmen und sonstigen Einnahmen andererseits (Defizitdeckung). Der 
+Bund garantiert auf diesem Weg die finanzielle Stabilit&#228;t der Alterssicherung der Landwirte ungeachtet
+struktureller Ver&#228;nderungen in diesem Wirtschaftszweig. 
+3.3.3 Rentenbestand und Rentenh&#246;he 
+Die Fortschreibung der Zahl der Renten basiert auf der getrennten Betrachtung von Unternehmern, Ehegatten 
+und mitarbeitenden Familienangeh&#246;rigen jeweils untergliedert nach Rentenarten (Regelaltersrenten, vorzeitigen 
+Altersrenten, Erwerbsminderungsrenten und Renten an Hinterbliebene) in der Vergangenheit.  
+Bei den Regelaltersrenten (Tabelle 11) wird ein gleichm&#228;&#223;iger j&#228;hrlicher R&#252;ckgang um 1,9 % erwartet, der sich 
+allerdings aus unterschiedlichen Entwicklungen bei den Renten an Unternehmern und Renten an Ehegatten 
+zusammensetzt. Der Rentenbestand an landwirtschaftliche Unternehmer geht seit 2006 immer st&#228;rker zur&#252;ck. 
+Erwartet wird, dass sich diese Entwicklung bis 2027 weiter fortsetzt. Der Bestand bei den Renten an Ehegatten 
+w&#228;chst dagegen auch langfristig weiterhin, die Zuwachsraten bewegen sich allerdings auf einem sehr geringen 
+Niveau.  
+Die vorzeitigen Altersrenten sowohl an Unternehmer als auch an Ehegatten werden langfristig j&#228;hrlich um 
+durchschnittlich 4,6 % zunehmen. Durch das schrittweise Anheben der Altersgrenze stieg der Rentenbestand 
+insbesondere bei den vorzeitigen Altersrenten an Unternehmer ab 2012 stark an, mittlerweile normalisiert sich 
+das Zugangsverhalten wieder. Bei den Rentenbest&#228;nden der Erwerbsminderungs- und Hinterbliebenenrenten 
+setzt sich der r&#252;ckl&#228;ufige Trend aus der Vergangenheit langfristig weiter fort. 
+                                                            
+2 Dies sind Beitragspflichtige, die durch Aufgabe der landwirtschaftlichen T&#228;tigkeit beitragsfrei wurden und nach dem bis Ende 1994 
+geltenden Recht eine Weiterentrichtung der Beitr&#228;ge beantragt hatten.
+Die Entwicklung der durchschnittlichen Rentenh&#246;hen in den n&#228;chsten zehn Jahren h&#228;ngt im Wesentlichen von 
+der Entwicklung des allgemeinen Rentenwerts und von der Entwicklung der durchschnittlichen Beitragszeiten 
+ab.  
+Der allgemeine Rentenwert und der allgemeine Rentenwert (Ost) in der AdL wurden zum 1. Januar 1995 gem&#228;&#223; 
+&#167; 23 Absatz 4 und &#167; 102 ALG mittels des f&#252;r diesen Zeitpunkt ermittelten Altersgeldes f&#252;r einen unverheirateten 
+Versicherten mit 40 Beitragsjahren festgelegt. Sie werden jeweils zum 1. Juli eines Jahres mit dem Wert
+angepasst, mit dem auch der aktuelle Rentenwert in der gesetzlichen Rentenversicherung angepasst wird. Die H&#246;he 
+der beiden Rentenwerte in der AdL ergibt sich somit direkt aus den Werten, die f&#252;r den Bereich der
+Rentenversicherung gelten. Die Unterschiede bei Vorgaben zwischen der unteren, der mittleren und der oberen Variante 
+der 10-Jahresrechnungen (vgl. Tabelle 9) f&#252;hren dazu, dass sich auch die Entwicklung der H&#246;he der
+Rentenausgaben zwischen diesen drei Varianten unterscheidet.  
+F&#252;r die Fortschreibung der Rentenh&#246;he wird in den Modellrechnungen die in der Vergangenheit beobachtete 
+Ver&#228;nderung der Durchschnittsrente rechnerisch in eine dynamische und eine strukturelle Komponente zerlegt. 
+Die dynamische Komponente entspricht der Ver&#228;nderung des aktuellen Rentenwertes. Die strukturelle
+Komponente spiegelt die individuellen Anwartschaften wider. Die strukturelle Komponente wurde f&#252;r Altersrenten 
+(einschlie&#223;lich der vorzeitigen Altersrenten) und Erwerbsminderungsrenten jeweils f&#252;r Unternehmer, Ehegatten 
+und mitarbeitende Familienangeh&#246;rige sowie f&#252;r Witwen- bzw. Witwerrenten und Waisenrenten getrennt
+ermittelt.  
+3.3.4 Weitere Ausgabenpositionen 
+F&#252;r Personen mit einem Jahreseinkommen von bis zu 15.500 Euro werden Beitragszusch&#252;sse gezahlt. Bis zu 
+einem j&#228;hrlichen Einkommen von 8.220 Euro betr&#228;gt der Zuschuss 60 % des Einheitsbeitrags. F&#252;r je 520 Euro, 
+um die das j&#228;hrliche Einkommen 8.220 Euro &#252;bersteigt, wird der Zuschuss um jeweils 4 Prozentpunkte
+gemindert. Die Einkommensobergrenze f&#252;r Zuschussberechtigte ist seit 2002 unver&#228;ndert geblieben. In der Folge ist 
+der Anteil der Zuschussempf&#228;nger an allen Versicherten in der Vergangenheit zwar stark gesunken, dieser 
+R&#252;ckgang nahm am aktuellen Rand jedoch deutlich ab. F&#252;r 2017 erwartet die Sozialversicherung
+Landwirtschaft, Forsten und Gartenbau eine leichte Zunahme der Zahl der Zuschussempf&#228;nger und unterstellt deshalb in 
+seinem Haushalt entsprechend eine Zunahme der Beitragszusch&#252;sse an landwirtschaftliche Unternehmer. F&#252;r 
+die Jahre ab 2018 wird wieder ein moderater R&#252;ckgang erwartet. Diese Einsch&#228;tzung wurde f&#252;r den Lagebericht 
+&#252;bernommen.  
+Abgesehen von den im Abschnitt 3.2 beschriebenen Sondereffekten wird bei der Sch&#228;tzung der Entwicklung 
+der Verwaltungs- und Verfahrenskosten die Entwicklung der Versicherten- und der Rentnerzahlen
+ber&#252;cksichtigt. Gem&#228;&#223; &#167; 80 ALG werden die Ausgaben f&#252;r Teilhabe, Betriebs- und Haushaltshilfen mit der unterstellten 
+Entwicklung der Durchschnittsl&#246;hne einerseits und der Entwicklung der Versicherten (Beitragszahler)
+andererseits fortgeschrieben. 
+2017 1) 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027
+Regelaltersrenten 289,5 284,0 278,6 273,3 268,1 262,9 257,9 253,0 248,2 243,4 238,8
+-1,9% -1,9% -1,9% -1,9% -1,9% -1,9% -1,9% -1,9% -1,9% -1,9%
+vorzeitige Altersrenten 93,2 101,0 107,3 112,7 117,9 122,9 127,7 132,3 136,9 141,5 146,1
+8,3% 6,3% 5,1% 4,6% 4,2% 3,9% 3,6% 3,4% 3,3% 3,2%
+Erwerbsminderungsrenten 38,0 35,1 32,4 29,9 27,5 25,3 23,3 21,4 19,7 18,1 16,6
+-7,6% -7,7% -7,8% -7,8% -7,9% -8,0% -8,0% -8,1% -8,1% -8,2%
+Hinterbliebenenrenten 172,9 169,4 165,7 162,0 158,2 154,3 150,4 146,4 142,4 138,3 134,3
+-2,1% -2,2% -2,3% -2,4% -2,5% -2,5% -2,6% -2,7% -2,8% -2,9%
+Rentenbestand insgesamt 593,6 589,4 584,0 577,8 571,6 565,5 559,3 553,1 547,1 541,3 535,7
+1) Sch&#228;tzung auf Basis der unterj&#228;hrigen Ergebnisse f&#252;r das 1. Halbjahr 2017
+Tabelle 11: Annahmen &#252;ber die Anzahl der Renten im Jahresdurchschnitt
+Angaben in Tsd. und Ver&#228;nderung zum Vorjahr in Prozent
+4. Zusammenfassung 
+Der Lagebericht der Bundesregierung verdeutlicht die enge Anbindung der Alterssicherung der Landwirte an 
+die gesetzliche Rentenversicherung. Eine Vielzahl von Ma&#223;nahmen, die in der gesetzlichen Rentenversicherung 
+in der 18. Legislaturperiode eingef&#252;hrt wurden, finden sich auch in der Alterssicherung der Landwirte &#8211; unter 
+Ber&#252;cksichtigung der Besonderheiten in diesem Sicherungszweig &#8211; wieder. Somit k&#246;nnen auch dort Versicherte 
+sowie Rentnerinnen und Rentner unter anderem von h&#246;heren Leistungen bei Kindererziehung, der M&#246;glichkeit 
+des abschlagsfreien Rentenbezugs ab 63, einer verbesserten Absicherung bei Erwerbsminderung und der
+Rentenangleichung Ost an West profitieren.  
+Die Alterssicherung der Landwirte wurde ebenfalls weiter modernisiert. Insbesondere bei der
+Hofabgabeverpflichtung als Voraussetzung f&#252;r den Bezug einer Rente gab es eine Reihe von Verbesserungen, mit denen auf 
+Ver&#228;nderungen in der Landwirtschaft reagiert wurde. So wurden Abgabem&#246;glichkeiten zwischen Ehegatten 
+erleichtert, die Einbringung eines landwirtschaftlichen Unternehmens in eine Gesellschaft als neuer
+Abgabetatbestand eingef&#252;hrt und Hinzuverdienstm&#246;glichkeiten verbessert. 
+Zentraler Berichtsgegenstand des Lageberichts ist die k&#252;nftige Finanzentwicklung. Die wichtigsten Ergebnisse 
+der Modellrechnungen sind: 
+&#61623; In der AdL setzt sich der R&#252;ckgang der Beitragszahler in den n&#228;chsten zehn Jahren mit 3,7 % pro Jahr 
+weiter fort. Gleichwohl ist in diesem Zeitraum noch mit leicht steigenden Beitragseinnahmen in H&#246;he von 
+jahresdurchschnittlich 0,1 % zu rechnen. 
+&#61623; Der seit fast zehn Jahren r&#252;ckl&#228;ufige Rentenbestand wird weiter abnehmen. In den kommenden zehn
+Jahren wird ein R&#252;ckgang um 1,0 % pro Jahr erwartet. Trotzdem steigen die Rentenausgaben bis 2027 j&#228;hrlich 
+durchschnittlich um 0,5 %. Diese unterschiedliche Entwicklung ist auf die k&#252;nftigen Rentenanpassungen 
+zur&#252;ckzuf&#252;hren, deren H&#246;he aus der gesetzlichen Rentenversicherung &#252;bernommen wird.  
+&#61623; Im Ergebnis f&#228;llt der Anstieg der Rentenausgaben st&#228;rker aus als der Anstieg der Beitragseinnahmen.
+Gem&#228;&#223; &#167; 78 ALG tr&#228;gt der Bund den Unterschiedsbetrag zwischen den Einnahmen und den Ausgaben der 
+AdL. Mittelfristig wird der Bundeszuschuss von 2017 bis 2021 daher voraussichtlich um rd. 124 Mio. Euro 
+auf dann rd. 2,4 Mrd. Euro steigen. In den Jahren danach stabilisiert er sich auf diesem Niveau. 
+Wie der Lagebericht zeigt, ist im Bereich der Landwirtschaft auch in den n&#228;chsten zehn Jahren als Folge des 
+nach wie vor anhaltenden Strukturwandels mit einem deutlichen R&#252;ckgang der Beitragszahler zu rechnen. 
+Durch die Defizitdeckung des Bundes wird jedoch verhindert, dass die finanziellen Folgen des Strukturwandels 
+die Beitragszahler &#252;berfordern, w&#228;hrend gleichzeitig sichergestellt ist, dass die Rentnerinnen und Rentner in 
+der AdL nicht von der Entwicklung in der gesetzlichen Rentenversicherung abgekoppelt werden. 
+
+
+Satz: Satzweiss.com Print, Web, Software GmbH, Mainzer Stra&#223;e 116, 66121 Saarbr&#252;cken, www.satzweiss.com
+Druck: Printsystem GmbH, Schafw&#228;sche 1-3, 71296 Heimsheim, www.printsystem.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de 
+ISSN 0722-8333]</text>
+    <titel>Lagebericht der Bundesregierung &#252;ber die Alterssicherung der Landwirte 2017</titel>
+    <datum>2017-11-23</datum>
+  </document>
+  

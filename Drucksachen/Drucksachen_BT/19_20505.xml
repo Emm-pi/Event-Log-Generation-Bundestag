@@ -1,0 +1,211 @@
+<document>
+    <id>242785</id>
+    <drucksachetyp>Kleine Anfrage</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>3</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/20505</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>339b753b849d17b0003b81231fab822e</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:15+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>264370</id>
+      <titel>Corona digital bek&#228;mpfen - Entwicklung einer Tracking- und Tracing-App</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>AfD</bezeichnung>
+      <titel>Fraktion der AfD</titel>
+    </urheber>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/205/1920505.pdf</pdf_url>
+      <id>242785</id>
+      <dokumentnummer>19/20505</dokumentnummer>
+      <datum>2020-06-30</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Kleine Anfrage</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Fraktion der AfD</urheber>
+    </fundstelle>
+    <autoren_anzeige>
+      <id>7625</id>
+      <titel>Joana Cotar, MdB, AfD</titel>
+      <autor_titel>Joana Cotar</autor_titel>
+    </autoren_anzeige>
+    <autoren_anzeige>
+      <id>2123</id>
+      <titel>Uwe Schulz, MdB, AfD</titel>
+      <autor_titel>Uwe Schulz</autor_titel>
+    </autoren_anzeige>
+    <text>[Kleine Anfrage
+der Abgeordneten Joana Cotar, Uwe Schulz, Dr. Michael Espendiller und der 
+Fraktion der AfD
+Corona digital bek&#228;mpfen &#8211; Entwicklung einer Tracking- und Tracing-App
+Die Bundesrepublik Deutschland steht angesichts der SARS-CoV-2-Pandemie 
+vor der gr&#246;&#223;ten Herausforderung seit der Fl&#252;chtlingskrise.
+Am 22. M&#228;rz 2020 beschloss Bundeskanzlerin Dr. Angela Merkel mit den
+Regierungschefs der L&#228;nder ein umfangreiches Kontaktverbot, &#8222;um einen
+unkontrollierten Anstieg der Fallzahlen zu verhindern&#8220; (https://www.bmi.bund.de/Sh
+aredDocs/downloads/DE/veroeffentlichungen/2020/hinweis-einschraenkung-so
+ziale-kontakte.pdf?__blob=publicationFile&amp;v=2).
+Insbesondere den Angeh&#246;rigen der Gesundheits- und Pflegeberufe, ebenso wie 
+den Supermarktkassierern, den LKW-Fahrerinnen und den vielen anderen, die 
+unser aller t&#228;glich Leben weiter aufrechterhalten, ist die Vermeidung solcher 
+Kontakte berufsbedingt unm&#246;glich. Sie sind nach Ansicht der Fragesteller die 
+Helden unseres Alltags. Sie zu sch&#252;tzen und zu unterst&#252;tzen muss nach Ansicht 
+der Fragesteller gerade zum jetzigen Zeitpunkt ein wesentliches Ziel staatlicher 
+F&#252;rsorge und gesellschaftlicher Solidarit&#228;t sein.
+Digitale Technologien k&#246;nnen helfen, die Erhebung, Dokumentation und
+R&#252;ckverfolgung und damit letztlich die Vermeidung von Kontakten sowie die
+Unterbrechung von Infektionsketten wirksam, effizient und dynamisch
+auszugestalten. Die Bundesregierung setzt daher auch auf die intelligente Kontakterhebung 
+und R&#252;ckverfolgung (tracking und tracing) durch digitale Technologie in Form 
+einer mobilen Anwendung (App). Die Umsetzung birgt jedoch nach Ansicht 
+der Fragesteller viele Probleme und viele Fragen sind ungekl&#228;rt.
+In der 53. Sitzung des Ausschusses Digitale Agenda des Deutschen
+Bundestages (https://www.bundestag.de/resource/blob/693176/69ed6cf8a9d844211444e
+19aa509bb50/19WP-53-data.pdf) wurde von Seiten des Bundeskanzleramtes 
+auf die Frage: &#8222;Sind von Mittwoch, 22. April 2020, bis heute, 29. April 2020, 
+von Seiten der Bundesregierung Gespr&#228;che mit Apple zum Contact-Tracing
+gef&#252;hrt worden?&#8220; geantwortet: &#8222;Die Bundesregierung hat im genannten Zeitraum 
+kein solches Gespr&#228;ch auf Leitungsebene mit Apple gef&#252;hrt.&#8220;
+Dagegen wurde in der 52. Sitzung des Ausschusses Digitale Agenda des
+Deutschen Bundestages (https://www.bundestag.de/resource/blob/692176/b8fe08bf
+badaef43d55eb6ee839267a2/19WP-52-1-Aenderungs-Ergaenzungsmitteilung-
+data.pdf) von Seiten des Bundesministeriums f&#252;r Gesundheit die Aussage
+getroffen, dass die bisherigen Gespr&#228;che mit Apple und Google durch das
+Bundeskanzleramt gef&#252;hrt worden sind.
+Am 15. April 2020 fassten die Bundeskanzlerin und die Regierungschefs der 
+L&#228;nder den Beschluss, das Architekturkonzept des &#8222;Pan-European Privacy-
+Deutscher Bundestag Drucksache 19/20505
+19. Wahlperiode 30.06.2020
+Preserving Proximity Tracing&#8220; zu unterst&#252;tzen, unter anderem weil es einen
+gesamteurop&#228;ischen Ansatz verfolgt (https://www.bundeskanzlerin.de/bkin-de/su
+che/telefonschaltkonferenz-der-bundeskanzlerin-mit-den-
+regierungschefinnenund-regierungschefs-der-laender-am-15-april-2020-1744228). Am 26. April 
+2020 lie&#223; sie diesen Ansatz jedoch fallen (https://www.bundesregierung.de/bre
+g-de/suche/regierungspressekonferenz-vom-27-april-2020-1747774) und setzt 
+nun auf die dezentrale Datenspeicherung. Dieses Hin und Her sorgt nach
+Ansicht der Fragesteller f&#252;r Unverst&#228;ndnis und verspielt vor allem Vertrauen.
+Am 28. April 2020 k&#252;ndigte die Bundesregierung an, dass die Corona-App
+federf&#252;hrend von den Unternehmen SAP und Deutsche Telekom durchgef&#252;hrt 
+werden soll (https://www.bundesregierung.de/breg-de/aktuelles/pressemitteilun
+g-des-bundesministeriums-fuer-gesundheit-des-bundesministeriums-des-inner
+n-fuer-bau-und-heimat-und-des-bundeskanzleramts-zum-projekt-corona-app-de
+r-bundesregierung-1747916).
+Seit dem 16. Juni 2020 steht die Corona-App zum Download bereit.
+Wir fragen die Bundesregierung:
+&#8199;1. Gibt es einen Zeitplan und eine Strategie f&#252;r den Exit aus der Corona-
+Warn-App?
+&#8199;2. Aus welchen Gr&#252;nden lehnt die Bundesregierung ein Gesetz zur Corona-
+App ab, das Nicht-App-Nutzer vor sozialer Diskriminierung und
+Ausgrenzung sch&#252;tzt (https://www.faz.net/aktuell/politik/inland/regierung-verteidi
+gt-corona-app-gegen-kritik-16817359.html), und w&#228;re ein solches Gesetz 
+nicht auch aus datenschutzrechtlichen Gr&#252;nden ein Muss?
+&#8199;3. Wann gab es Gespr&#228;che von Leitungsebene und von Beamten des
+Bundeskanzleramtes mit Vertretern von Google und Apple (vgl. Vorbemerkung 
+der Fragesteller)?
+a) Um welche Vertreter von Google und Apple handelte es sich?
+b) Welche Sachverhalte hatten die Gespr&#228;che zum Inhalt?
+c) Welche Ergebnisse wurden in welchen Gespr&#228;chen vereinbart (bitte
+tabellarisch auflisten)?
+d) Welche Ma&#223;nahmen wurden in welchen Gespr&#228;chen vereinbart, und 
+welche davon wurden bislang umgesetzt oder zumindest angegangen 
+(bitte tabellarisch auflisten)?
+&#8199;4. Wurden die Bundesl&#228;nder, die f&#252;r Gefahrenabwehr zust&#228;ndig sind und
+deren kommunale Gesundheits&#228;mter am Betrieb der App beteiligt sind, an 
+diesen Gespr&#228;chen beteiligt, und wenn ja, in welcher Form?
+&#8199;5. Wurden die Ministerpr&#228;sidenten der Bundesl&#228;nder &#252;ber diese Gespr&#228;che 
+informiert, und wenn ja, wann, und durch wen?
+a) Welche Inhalte wurden den Ministerpr&#228;sidenten aus diesen Gespr&#228;chen 
+mitgeteilt?
+b) Hat die Bundesregierung Einzelgespr&#228;che mit dem s&#228;chsischen
+Ministerpr&#228;sidenten Michael Kretschmer (CDU) dazu gef&#252;hrt, der im 
+&#246;ffentlich-rechtlichen Fernsehen am 23. April 2020 die Forderung
+aufstellte, die Bundesregierung d&#252;rfe &#8222;sich nicht von Google und Apple 
+erpressen lassen&#8220; (https://www.youtube.com/watch?v=elD5lYuwhWg, 
+Minute 26:55)?
+c) Teilt die Bundesregierung die Einsch&#228;tzung von Ministerpr&#228;sident 
+Michael Kretschmer (ebd., Minute 26:18), wenn die Hersteller der 
+Handy-Betriebssysteme (Anm.: angesprochen waren Google und
+Apple) die aufgenommenen Gesundheitsdaten erhielten, &#8222;geht die App 
+morgen los&#8220;?
+d) Auf welche Gespr&#228;che bezieht sich nach Kenntnis der
+Bundesregierung Ministerpr&#228;sident Michael Kretschmer (ebd., Minute 26:21) mit 
+seiner Aussage in Bezug auf die Verhandlungen mit Google und Apple 
+&#8222;das ist der Konflikt, der gerade l&#228;uft&#8220;?
+e) Teilt die Bundesregierung die Einsch&#228;tzung von Ministerpr&#228;sident 
+Michael Kretschmer (ebd., Minute 26:32), weil wir Deutschen und
+Europ&#228;er nicht bereit seien, diese sensiblen Gesundheitsdaten an Google 
+und Apple zu geben, &#8222;h&#228;ngt das Ganze&#8220; (Anm.: gemeint ist die
+Entwicklung der App)?
+f) Teilt die Bundesregierung die Einsch&#228;tzung von Ministerpr&#228;sident 
+Michael Kretschmer (ebd., Minute 26:41), man m&#252;sse &#8222;diese Konzerne 
+weiter unter Druck setzen&#8220;, und wenn ja, wie setzt die
+Bundesregierung diese Einsch&#228;tzung um?
+g) Teilt die Bundesregierung die Einsch&#228;tzung von Ministerpr&#228;sident 
+Michael Kretschmer (ebd., Minute 26:46), man m&#252;sse
+&#8222;m&#246;glicherweise eine Alternative entwickeln&#8220;?
+&#8199;6. Wie hoch sieht die Bundesregierung die Gefahr eines sp&#228;teren
+Datenabflusses von den Handys an Apple und Google, die eigene
+Gesundheitsl&#246;sungen entwickeln (&#8222;Apple Health App&#8220;, &#8222;Google Fit&#8220;) und f&#252;r die, nach 
+Auffassung der Fragesteller, diese Tracking-Daten daf&#252;r vermutlich von 
+hoher Bedeutung w&#228;ren?
+a) Wie bewertet der Bundesdatenschutzbeauftragte die Gefahr eines
+Datenabflusses an Google und Apple?
+b) Wie bewerten nach Kenntnis der Bundesregierung andere europ&#228;ische 
+L&#228;nder die Gefahr eines Datenabflusses an Google und Apple?
+c) Wie will die Bundesregierung sicherstellen, dass bei einer dezentralen 
+L&#246;sung die auf den Handys gespeicherten Daten nicht sp&#228;ter &#252;ber die 
+Betriebssysteme durch Apple und Google abgegriffen werden?
+&#8199;7. Teilt die Bundesregierung das Unverst&#228;ndnis des Bundesministers f&#252;r
+Gesundheit Jens Spahn vom 25. April 2020 hinsichtlich der Argumentation, 
+dass &#8222;Daten, die bei Apple und Google aufgehoben sind, bei
+amerikanischen Gro&#223;konzernen, besser gesch&#252;tzt sind als Daten, die in Deutschland 
+auf Servern auch staatlich kontrolliert liegen&#8220; (https://www.tagesschau.de/
+inland/corona-app-spahn-103.html)?
+&#8199;8. Welche konkreten Ma&#223;nahmen ergeben sich aus der gemeinsamen
+Erkl&#228;rung des Bundeskanzleramtes und des Bundesministeriums f&#252;r Gesundheit 
+und des Bundesministeriums des Innern, f&#252;r Bau und Heimat vom 28.
+April 2020, &#8222;auf die Interoperabilit&#228;t mit anderen europ&#228;ischen L&#246;sungen soll 
+geachtet werden&#8220;, und welche dieser Ma&#223;nahmen wurden bereits
+angegangen oder umgesetzt (https://www.bundeskanzlerin.de/bkin-de/suche/presse
+mitteilung-des-bundesministeriums-fuer-gesundheit-des-bundesministeriu
+ms-des-innern-fuer-bau-und-heimat-und-des-bundeskanzleramts-zum-proj
+ekt-corona-app-der-bundesregierung-1747916)?
+Wie erfolgt derzeit eine Abstimmung der nationalen App-Entwicklungen 
+auf europ&#228;ischer Ebene?
+&#8199;9. Wie hoch muss die Verbreitung der App in der Bev&#246;lkerung sein (Angabe 
+in Millionen Downloads), um aus epidemiologischer Sicht ein wirksames 
+Steuerungsinstrument sein zu k&#246;nnen und der Forderung der
+Bundeskanzlerin gerecht zu werden, es werde &#8222;darauf ankommen, dass breite Teile der 
+Bev&#246;lkerung diese M&#246;glichkeit nutzen&#8220; (https://www.bundeskanzlerin.de/
+bkin-de/suche/telefonschaltkonferenz-der-bundeskanzlerin-mit-den-regier
+ungschefinnen-und-regierungschefs-der-laender-am-06-mai-2020-175
+0988)?
+10. Treffen Presseberichte zu, nach denen das Bundespresseamt seine
+Hausagentur &#8222;Zum Goldenen Hirschen&#8220; mit einer Kampagne beauftragt hat, die 
+Corona-App f&#252;r B&#252;rger attraktiv zu machen (https://www.spiegel.de/netzw
+elt/apps/corona-bekaempfung-agentur-soll-warn-app-populaer-machen-a-7
+1d7b78d-b8f5-498b-8b36-ee29efbf62cd)?
+a) Welche Haushaltsmittel in welcher H&#246;he sind f&#252;r die
+Konzepterstellung und die Umsetzung der Aufrufe vorgesehen?
+b) Welche Planungen liegen bereits f&#252;r die Gestaltung der Aufrufe vor?
+c) Ist die Agentur auch an der Gestaltung einer Exit-Strategie beteiligt?
+11. Wird f&#252;r die Corona-Warn-App sp&#228;ter noch ein Update zur Datenspende 
+entwickelt werden?
+a) Wenn ja, wann soll die Ver&#246;ffentlichung dieses Updates erfolgen?
+b) Welche Daten sollen dann als Datenspende &#252;bermittelt werden?
+c) An wen werden diese Daten &#252;bermittelt?
+d) Wie wird der Datenschutz bei der Datenspende sichergestellt?
+Berlin, den 17. Juni 2020
+Dr. Alice Weidel, Dr. Alexander Gauland und Fraktion
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>Corona digital bek&#228;mpfen - Entwicklung einer Tracking- und Tracing-App</titel>
+    <datum>2020-06-30</datum>
+  </document>

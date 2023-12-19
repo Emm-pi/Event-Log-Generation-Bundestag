@@ -1,0 +1,429 @@
+<document>
+    <id>234768</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/13978</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>4c82c8faf26553599424701f748134eb</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>252905</id>
+      <titel>Technische und rechtliche &#196;nderungen zur &#220;berwachung von 5G-Telefonie</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium des Innern, f&#252;r Bau und Heimat</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/139/1913978.pdf</pdf_url>
+      <id>234768</id>
+      <dokumentnummer>19/13978</dokumentnummer>
+      <datum>2019-10-14</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Antwort
+der Bundesregierung
+auf die Kleine Anfrage der Abgeordneten Andrej Hunko, Martina Renner,
+Dr. Diether Dehm, weiterer Abgeordneter und der Fraktion DIE LINKE.
+&#8211; Drucksache 19/13192 &#8211;
+Technische und rechtliche &#196;nderungen zur &#220;berwachung von 5G-Telefonie
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Die f&#252;nfte Mobilfunkgeneration (5G) zerlegt und verschl&#252;sselt
+Telefongespr&#228;che in einzelne Etappen (Quelle hier und im Folgenden:
+Bundestagsdrucksache 19/12117). Die 5G-Telefonie nutzt das sogenannte Multi-Access Edge 
+Computing (MEC), womit Kommunikationsdaten &#252;ber ausl&#228;ndische
+Netzknoten des Anbieters &#252;bertragen werden k&#246;nnen. &#220;ber MEC geroutete Verkehre 
+k&#246;nnen derzeit nicht an Polizeien oder Geheimdienste ausgeleitet werden. Das 
+Bundesministerium des Innern, f&#252;r Bau und Heimat verweist allerdings auf 
+die Vorschriften des Telekommunikationsgesetzes und der
+Telekommunikations-&#220;berwachungsverordnung, wonach die in der Bundesrepublik
+Deutschland t&#228;tigen Firmen wie O2, Vodafone und Telekom als Betreiber von
+Telekommunikationsanlagen, mit denen &#246;ffentlich zug&#228;ngliche
+Telekommunikationsdienste erbracht werden, entsprechende &#220;berwachungstechnik vorhalten 
+m&#252;ssen. Um auch 5G-Telefonie hierunter zu fassen, k&#252;ndigt die
+Bundesregierung Gesetzes&#228;nderungen an. Damit sollen auch die &#252;ber ausl&#228;ndische
+Netzknoten gerouteten Verkehre aus der Bundesrepublik Deutschland &#252;berwacht 
+werden. &#8222;M&#246;gliche technische Anforderungen zur Sicherstellung einer
+vollst&#228;ndigen Erfassung und Ausleitung der zu &#252;berwachenden
+Telekommunikation&#8220; k&#246;nnten &#8222;erforderlichenfalls&#8220; auch in der Technischen Richtlinie zur
+Umsetzung gesetzlicher Ma&#223;nahmen zur &#220;berwachung der Telekommunikation 
+(TR TK&#220;V) festgelegt werden.
+Ein finaler Standard zur &#220;berwachung von 5G (Release 16) wird im
+Dezember dieses Jahres in der Arbeitsgruppe TC LI (Technical Committee Lawful 
+Interception) vom Europ&#228;ischen Institut f&#252;r Telekommunikationsnormen 
+(ETSI) definiert. Als weltweite Kooperation von Standardisierungsgremien 
+(darunter auch dem ETSI) ist jedoch das 3rd Generation Partnership Project 
+(3GPP) f&#252;r die Standardisierung im Mobilfunk zust&#228;ndig. Das 3GPP geh&#246;rt 
+zur Internationalen Telekommunikationsunion (ITU) der Vereinten Nationen, 
+womit der dort bestimmte Standard auch f&#252;r die beteiligten Organisationen 
+g&#252;ltig ist. Die beh&#246;rdliche &#220;berwachung wird dort in der Arbeitsgruppe 3GPP 
+SA3 LI (Lawful Interception) behandelt.
+Auch das Bundeskriminalamt, das Bundesamt f&#252;r Verfassungsschutz und die 
+Bundesnetzagentur nehmen an den Abh&#246;r-Arbeitsgruppen des ETSI und der 
+3GPP teil. Seit Juli 2019 ist au&#223;erdem die Zentrale Stelle f&#252;r Informations-
+Deutscher Bundestag Drucksache 19/13978
+19. Wahlperiode 14.10.2019
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums des Innern, f&#252;r Bau und Heimat 
+vom 11. Oktober 2019 &#252;bermittelt.
+Die Drucksache enth&#228;lt &#8211; in kleinerer Schrifttype &#8211; den Fragetext.
+technik im Sicherheitsbereich Teil der Gruppen, am ETSI TC LI beteiligen 
+sich au&#223;erdem das Bayerische Landeskriminalamt und das Landeskriminalamt 
+Niedersachsen. Der EU-Terrorismus-Koordinator dr&#228;ngt zudem auf Initiativen 
+der Europ&#228;ischen Union an der Standardisierung zugunsten der Polizeien und 
+Geheimdienste (Ratsdokument 8983/19), auch die EU-Polizeiagentur Europol 
+soll sich deshalb mit der &#220;berwachung von 5G-Telefonie befassen.
+V o r b e m e r k u n g  d e r  B u n d e s r e g i e r u n g
+Die Bundesregierung geht davon aus, dass die Fragesteller mit der
+Bezeichnung &#8222;Geheimdienste&#8220; die Nachrichtendienste des Bundes adressieren.
+&#8199;1. Welche &#196;nderungen des Telekommunikationsgesetzes, der
+Telekommunikations-&#220;berwachungsverordnung oder der Technischen Richtlinie zur 
+Umsetzung gesetzlicher Ma&#223;nahmen zur &#220;berwachung der
+Telekommunikation (TR TK&#220;V) pr&#252;ft die Bundesregierung hinsichtlich der
+vollst&#228;ndigen Erfassung und Ausleitung der zu &#252;berwachenden
+Telekommunikation unter 5G?
+Ob und gegebenenfalls welche &#196;nderungen des Telekommunikationsgesetzes 
+(TKG), der Telekommunikations-&#220;berwachungsverordnung (TK&#220;V) oder der 
+Technischen Richtlinie zur Umsetzung gesetzlicher Ma&#223;nahmen zur
+&#220;berwachung der Telekommunikation (TR TK&#220;V) im Hinblick auf die Sicherstellung 
+der vollst&#228;ndigen Erfassung und Ausleitung der zu &#252;berwachenden
+Telekommunikation in 5G-Netzen erforderlich werden, kann derzeit noch nicht
+abschlie&#223;end beurteilt werden, weil die Standardisierungsarbeiten noch nicht
+abgeschlossen sind.
+a) Welche deutschen Beh&#246;rden ermitteln nach Kenntnis der
+Bundesregierung in welchen Vorhaben oder Ma&#223;nahmen, welche weiteren 
+technischen und rechtlichen Anpassungen erforderlich sind, damit
+Polizeien, der Zoll und Geheimdienste auch die 5G-Telefonie abh&#246;ren 
+k&#246;nnen?
+Die gesetzliche Verankerung der &#220;berwachung der Telekommunikation zu 
+Zwecken der Gefahrenabwehr und Strafverfolgung ist grunds&#228;tzlich
+technikneutral formuliert. Damit soll die Notwendigkeit rechtlicher Anpassungen bei 
+technologischen Ver&#228;nderungen reduziert werden, jedoch gehen mit der
+laufenden Standardisierung und Einf&#252;hrung des Mobilfunknetzes der f&#252;nften
+Generation deutliche technische Ver&#228;nderungen einher, hinsichtlich derer ein
+m&#246;glicher gesetzgeberischer Handlungsbedarf noch zu pr&#252;fen ist.
+Das Bundesamt f&#252;r Verfassungsschutz (BfV), das Bundeskriminalamt (BKA) 
+und die Zentrale Stelle f&#252;r die Informationstechnik im Sicherheitsbereich 
+(ZITiS) nehmen aus dem Gesch&#228;ftsbereich des Bundesministeriums des Innern, 
+f&#252;r Bau und Heimat (BMI) an den Gremien ETSI TC LI und 3GPP SA3 LI teil.
+Die Bundesnetzagentur (BNetzA) aus dem Gesch&#228;ftsbereich des
+Bundesministeriums f&#252;r Wirtschaft und Energie (BMWi) nimmt ebenfalls an beiden
+Gremien ETSI TC LI und 3GPP SA3 LI teil. Sie erarbeitet auf der Grundlage der 
+Standardisierung die Technischen Richtlinie (TR TK&#220;V) nach &#167; 110 Absatz 3 
+TKG und informiert das BMWi &#252;ber die Entwicklungen.
+Alle Sicherheitsbeh&#246;rden und die Nachrichtendienste des Bundes waren mit der 
+jeweiligen ministeriellen Fachaufsicht an den Arbeiten einer gemeinsamen
+Arbeitsgruppe zu den Herausforderungen und L&#246;sungsm&#246;glichkeiten f&#252;r die
+Telekommunikations&#252;berwachung durch 5G-Mobilfunkdienste unter Federf&#252;hrung 
+des BMI beteiligt.
+b) Wer ist hierzu mit einzelnen Studien oder Ausarbeitungen beauftragt, 
+und wann sollen diese vorliegen?
+Die Sicherheitsbeh&#246;rden des Bundes haben keine Studien oder Ausarbeitungen 
+bei Dritten beauftragt. Innerhalb der Arbeitsgruppe &#8222;Lawful Interception&#8220;
+werden die zur Umsetzung der gesetzlichen Anforderungen erforderlichen
+technischen Bedarfe diskutiert.
+ZITiS ist vom BMI mit der Informationsgewinnung und -verbreitung bzgl. der 
+technischen &#196;nderungen in den Technologie- und Fachgremien beauftragt und 
+f&#252;hrt diese T&#228;tigkeit als Daueraufgabe gem&#228;&#223; Errichtungserlass f&#252;r die
+Beh&#246;rden des Bundes mit Sicherheitsaufgaben aus.
+c) Wann sollen etwaige andauernde Pr&#252;fungen zu technischen und
+rechtlichen Anpassungen beendet sein, sodass Abgeordnete und
+B&#252;rgerrechtsgruppen hierzu rechtzeitig aktiv werden k&#246;nnen?
+Es wird auf die Antwort zu Frage 1 verwiesen. Da die
+Standardisierungsarbeiten noch andauern, kann ein Zeitpunkt f&#252;r die Beendigung etwaig andauernder 
+Pr&#252;fungen zu technischen und rechtlichen Anpassungen noch nicht benannt 
+werden.
+&#8199;2. Mit welchen ausl&#228;ndischen Beh&#246;rden stimmen sich Bundesbeh&#246;rden zu 
+den geplanten technischen und rechtlichen Anpassungen zur
+&#220;berwachung der 5G-Telefonie ab?
+Im Rahmen der Gremienarbeit 3GPP SA3 LI sowie ETSI TC LI tauschen sich 
+die vertretenen Beh&#246;rden des Bundes u. a. mit Beh&#246;rden aus Gro&#223;britannien, 
+den Niederlanden, Frankreich und den Vereinigten Staaten zu den geplanten 
+technischen und rechtlichen Anpassungen zur &#220;berwachung der
+Telekommunikation in 5G-Netzen aus. ZITiS steht diesbez&#252;glich auch mit Europol in
+Kontakt.
+Hinsichtlich des Bundesnachrichtendienstes (BND) ist eine Beantwortung der 
+Frage nicht m&#246;glich. Gegenstand des Informations- bzw. Auskunftsersuchens 
+sind solche Informationen, die in besonders hohem Ma&#223;e Erw&#228;gungen des 
+Staatswohls ber&#252;hren und daher selbst in eingestufter Form nicht beantwortet 
+werden k&#246;nnen. Das verfassungsm&#228;&#223;ig verb&#252;rgte Frage- und Informationsrecht 
+des Deutschen Bundestages gegen&#252;ber der Bundesregierung wird durch
+schutzw&#252;rdige Interessen von Verfassungsrang begrenzt, wozu auch und insbesondere 
+Staatswohlerw&#228;gungen z&#228;hlen. Eine Offenlegung der angeforderten
+Informationen und Ausk&#252;nfte birgt die konkrete Gefahr, dass Einzelheiten bekannt
+w&#252;rden, die unter dem Aspekt des Schutzes der nachrichtendienstlichen
+Zusammenarbeit mit ausl&#228;ndischen Partnern besonders schutzbed&#252;rftig sind. Eine
+&#246;ffentliche Bekanntgabe von Informationen zum Kenntnisstand, zur
+Leistungsf&#228;higkeit, zur Ausrichtung und zu technischen F&#228;higkeiten von ausl&#228;ndischen 
+Partnerdiensten und die damit einhergehende Kenntnisnahme durch Unbefugte 
+w&#252;rde erhebliche nachteilige Auswirkungen auf die vertrauensvolle
+Zusammenarbeit des BND mit ausl&#228;ndischen Nachrichtendiensten haben. W&#252;rden in 
+der Konsequenz eines Vertrauensverlustes Informationen von ausl&#228;ndischen 
+Stellen entfallen oder wesentlich zur&#252;ckgehen, entst&#252;nden signifikante
+Informationsl&#252;cken mit negativen Folgewirkungen f&#252;r die Genauigkeit der
+Abbildung der Sicherheitslage in der Bundesrepublik Deutschland sowie im Hinblick 
+auf den Schutz deutscher Interessen im Ausland. Dies w&#252;rde folgenschwere 
+Einschr&#228;nkungen der Informationsgewinnung bedeuten, womit letztlich der
+gesetzliche Auftrag des Bundesnachrichtendienstes &#8211; die Sammlung und
+Auswertung von Informationen &#252;ber das Ausland, die von au&#223;en- und
+sicherheitspolitischer Bedeutung f&#252;r die Bundesrepublik Deutschland sind (&#167; 1 Absatz 2 
+BNDG) &#8211; nicht mehr sachgerecht erf&#252;llt werden k&#246;nnte. Die Gewinnung von 
+auslandsbezogenen Informationen ist f&#252;r die Sicherheit und Au&#223;enpolitik der 
+Bundesrepublik Deutschland sowie f&#252;r die Aufgabenerf&#252;llung des
+Bundesnachrichtendienstes jedoch unerl&#228;sslich. Eine VS-Einstufung und Hinterlegung der 
+angefragten Informationen in der Geheimschutzstelle des Deutschen
+Bundestages w&#252;rde ihrer erheblichen Brisanz im Hinblick auf die Bedeutung f&#252;r die 
+Aufgabenerf&#252;llung des Bundesnachrichtendienstes nicht ausreichend Rechnung 
+tragen. Die angefragten Inhalte beschreiben die F&#228;higkeiten und Arbeitsweisen 
+des Bundesnachrichtendienstes so detailliert, sodass daraus unmittelbar oder 
+mittelbar R&#252;ckschl&#252;sse auf die Zusammenarbeit mit ausl&#228;ndischen
+Nachrichtendiensten geschlossen werden k&#246;nnen. Eine Bekanntgabe dieser
+Informationen, auch gegen&#252;ber einem begrenzten Kreis von Empf&#228;ngern, kann dem 
+Schutzbed&#252;rfnis somit nicht Rechnung tragen, da bei einem Bekanntwerden der 
+schutzbed&#252;rftigen Information kein Ersatz durch andere Instrumente der
+Informationsgewinnung m&#246;glich w&#228;re. Aus dem Vorgesagten ergibt sich, dass die 
+erbetenen Informationen derart schutzbed&#252;rftige Geheimhaltungsinteressen
+ber&#252;hren, sodass das Staatswohl gegen&#252;ber dem parlamentarischen
+Informationsrecht wesentlich &#252;berwiegt. Insofern muss ausnahmsweise das Fragerecht der 
+Abgeordneten gegen&#252;ber dem Geheimhaltungsinteresse der Bundesregierung 
+zur&#252;ckstehen.
+&#8199;3. Mit welchen Bestimmungen erw&#228;gt die Bundesregierung, die Betreiber 
+von Telekommunikationsanlagen gesetzlich zur Installation weiterer 
+&#220;berwachungstechnik zu zwingen (bitte hinsichtlich der
+Bundestagsdrucksache 19/12117, Antworten zu Frage 2f konkreter erl&#228;utern)?
+&#8199;4. Wie sollen diese Anlagen nach derzeitigem Stand finanziert werden, und 
+welche finanziellen Mittel k&#246;nnen Betreiber von
+Telekommunikationsanlagen hierzu bei der Bundesregierung abrufen?
+Die Fragen 3 und 4 werden gemeinsam beantwortet.
+Das Telekommunikationsgesetz in der bereits geltenden Fassung verpflichtet 
+mit &#167; 110 TKG die Betreiber von Telekommunikationsanlagen, mit denen
+&#246;ffentlich zug&#228;ngliche Telekommunikationsdienste erbracht werden, ab dem
+Zeitpunkt der Betriebsaufnahme auf eigene Kosten technische Einrichtungen zur 
+Umsetzung gesetzlich vorgesehener Ma&#223;nahmen zur &#220;berwachung der
+Telekommunikation vorzuhalten. Diese gesetzliche Regelung und somit auch die 
+Verpflichtung ist technikneutral und gilt auch f&#252;r die &#220;berwachungstechnik in 
+5G-Netzen.
+&#8199;5. Fordert die Bundesregierung von Betreibern von
+Telekommunikationsanlagen, unter 5G jeden Standortwechsel eines Mobiltelefons zu erfassen 
+und damit jede genutzte Funkzelle zu speichern?
+F&#252;r die Gestaltung der &#220;berwachungseinrichtungen der Betreiber von
+Telekommunikationsanlagen hinsichtlich der Erfassung und &#220;bermittlung von 
+Standortdaten eines Mobilfunkendger&#228;tes im Rahmen von
+Telekommunikations&#252;berwachungsma&#223;nahmen gelten Anforderungen, die sich aus der bereits 
+bestehenden Regelung des &#167; 7 Absatz 1 Satz 1 Nummer 7 TK&#220;V ergeben. Da 
+diese Regelung technikneutral ist, gilt sie auch f&#252;r die &#220;berwachungstechnik in 
+5G-Netzen.
+&#8199;6. Welche Konsequenzen zieht die Bundesregierung aus dem Vorschlag des 
+schwedischen Milit&#228;rgeheimdienstes, wonach Mobilfunkunternehmen 
+verpflichtet werden m&#252;ssten, kryptografische Schl&#252;ssel, die &#252;ber die 
+SIM-Card eines Kunden generiert wurden, beim Roaming routinem&#228;&#223;ig 
+mit zu &#252;bermitteln, auch wenn noch keine &#220;berwachungsanordnung
+vorliegt (&#8222;Das Match um die 5G-&#220;berwachung beginnt zu eskalieren&#8220;, 
+https://fm4.orf.at vom 4. August 2019)?
+Die Bundesregierung verfolgt die Entwicklung. Derzeit sind keine
+weitergehenden gesetzlichen Regelungen geplant.
+&#8199;7. Aus welchen Gr&#252;nden rechnet die Bundesregierung unter 5G &#8222;mit einer 
+wesentlich h&#246;heren Datenrate an den Dateneingangsschnittstellen&#8220;
+(Bundestagsdrucksache 19/12117, Antworten zu Frage 7)?
+Die Standardisierung von 5G sieht Datenraten pro Nutzer von bis zu 10 GBit/s 
+vor, was einer Verzehnfachung der Datenrate heutiger LTE-Advanced Netze 
+entspricht. Es ist daher mit einer wesentlich h&#246;heren Datenrate an den
+Dateneingangsschnittstellen zu rechnen, weil dem Nutzer bei 5G wesentlich h&#246;here 
+Datenraten zur Verf&#252;gung gestellt werden und die zu &#252;berwachende
+Telekommunikation vollst&#228;ndig zu erfassen und an die berechtigte Stelle zu &#252;bermitteln 
+ist.
+a) Welche Technik w&#228;re aus Sicht der Bundesregierung geeignet, auch 
+das unter 5G &#252;bliche Multi-Access Edge Computing (MEC) zu
+&#252;berwachen, und welche Hersteller sind ihr hierzu bereits bekannt?
+Auf die Antwort zu Frage 1c wird verwiesen. Grunds&#228;tzlich sind die
+Funktionalit&#228;ten zur Telekommunikations&#252;berwachung auch bei MEC zu
+ber&#252;cksichtigen, bei vorliegender Verpflichtung nach &#167; 110 TKG i. V. m. &#167; 3 TK&#220;V sind 
+durch den Verpflichteten entsprechende Vorkehrungen zu treffen.
+b) Mit welcher Technik k&#246;nnten die Schnittstellen hardware- und
+softwaretechnisch angepasst werden, und welche Hersteller sind ihr hierzu 
+bereits bekannt, und welche Planungen existieren zur Umsetzung?
+Die Anpassung der Eingangsschnittstellen bei den berechtigten Stellen kann 
+nach aktueller Einsch&#228;tzung mit handels&#252;blicher Technologie erfolgen, wie sie 
+auch in Rechenzentren verwendet wird. Hardwarekomponenten sind hier
+Router und Switche, im Bereich der Software werden u. a. offene
+Technologiestacks der Apache Foundation verwendet. Diese sind an das jeweils verwendete 
+TK&#220;-System anzupassen.
+&#8199;8. Inwiefern und aus welchen Gr&#252;nden werden unter 5G auch
+Funkzellenabfragen erschwert oder verunm&#246;glicht, und wie will die Bundesregierung 
+darauf reagieren?
+Funkzellenabfragen werden technisch durch die Verpflichteten durchgef&#252;hrt. 
+Inwiefern Funkzellenabfragen in Mobilfunknetzen der f&#252;nften Generation f&#252;r 
+die Netzbetreiber erschwert werden, liegen der Bundesregierung keine
+Erkenntnisse vor.
+&#8199;9. Welche Vorschl&#228;ge werden nach Kenntnis der Bundesregierung in den 
+Arbeitsgruppen 3GPP SA3 LI und ETSI TC LI hinsichtlich der Standards 
+zu 5G zur m&#246;glichen Aufteilung in eine Vielzahl virtueller Netze
+(&#8222;Network Slicing&#8220;) diskutiert, und wie positioniert sich die Bundesregierung 
+hierzu (Antwort der Bundesregierung auf die Schriftliche Frage 18 des 
+Abgeordneten Dr. Diether Dehm auf Bundestagsdrucksache 19/10535)?
+10. Sofern die Bundesregierung in den Arbeitsgruppen 3GPP SA3 LI und 
+ETSI TC LI auf Ermittlungsl&#252;cken hinsichtlich der in 5G m&#246;glichen
+Aufteilung in eine Vielzahl virtueller Netze verwies, wodurch kommen diese 
+aus ihrer Sicht zustande?
+Die Fragen 9 und 10 werden zusammen beantwortet.
+Nach Kenntnis der Bundesregierung fand eine Diskussion zur Aufteilung in
+eine Vielzahl virtueller Netze (&#8222;Network Slicing&#8220;) bei 3GPP SA3 LI und bei 
+ETSI TC LI bisher nicht statt. Im &#220;brigen wird auf die Antwort der
+Bundesregierung zu Frage 2c der Kleinen Anfrage der Fraktion DIE LINKE. auf
+Bundestagsdrucksache 19/12117 verwiesen.
+11. Trifft es nach Kenntnis der Bundesregierung zu, dass die &#8222;Repr&#228;sentanz 
+der USA&#8220; in 5G-Standardisierungsorganisationen gest&#228;rkt worden ist, um 
+m&#246;glichst viel Mitsprache bei den Diskussionen um neue
+&#220;berwachungsstandards zu 5G zu erhalten (&#8222;FBI greift massiv in 5G-
+&#220;berwachungsstandards ein&#8220;, https://fm4.orf.at vom 11. August 2019)?
+Nach Einsch&#228;tzung der Bundesregierung ist die Zahl der US-amerikanischen 
+Teilnehmer in den TK&#220;-Arbeitsgruppen seit Jahren konstant.
+a) Trifft es zu, dass in der Arbeitsgruppe SA3 LI eine Rekordzahl von 
+28 &#196;nderungsantr&#228;gen vorgelegt worden ist, um die &#220;berwachung 
+von 5G m&#246;glichst zugunsten der Polizeien und Geheimdienste
+auszuweiten?
+Die Bearbeitung von &#196;nderungsantr&#228;gen zu bestehenden Standards ist die
+g&#228;ngige Vorgehensweise der Standardisierungsgruppe SA3 LI. Dabei wird
+regelm&#228;&#223;ig eine hohe Anzahl von &#196;nderungsantr&#228;gen vorgelegt.
+b) Trifft es zu, dass wegen der hohen Zahl an &#196;nderungsantr&#228;gen eine 
+zweite au&#223;erordentliche Sitzung in diesem Jahr einberufen werden 
+musste?
+Etwaige zus&#228;tzliche Sitzungen entsprechen dem Zeitplan zur Einf&#252;hrung von 
+5G und orientieren sich an dem Rhythmus der Sitzungen anderer mit der
+Standardisierung von 5G befassten Arbeitsgruppen.
+12. Trifft es zu, dass das Bundeskriminalamt (BKA), das Bundesamt f&#252;r
+Verfassungsschutz (BfV), die Bundesnetzagentur und die Zentrale Stelle f&#252;r 
+Informationstechnik im Sicherheitsbereich (ZITiS) an den beiden
+Arbeitsgruppen ETSI TC LI und 3GPP SA3 LI teilnehmen?
+a) Aus welchen Gr&#252;nden ist die ZITiS mittlerweile Teil der
+Arbeitsgruppen ETSI TC LI und/oder 3GPP SA3 LI?
+Inwiefern ist diese Mitarbeit auf Dauer angelegt, und inwiefern wird 
+die Teilnahme des BKA oder des BfV dadurch &#252;berfl&#252;ssig (bitte
+erl&#228;utern)?
+Die Fragen 12 und 12a werden gemeinsam beantwortet.
+Es wird auf die Antwort zu Frage 1a verwiesen.
+b) Plant oder w&#252;nscht die EU-Polizeiagentur Europol nach Kenntnis der 
+Bundesregierung die Teilnahme an der Arbeitsgruppe ETSI TC LI 
+und/oder 3GPP SA3 LI?
+Zu einem solchen Plan/Wunsch von Europol ist der Bundesregierung nichts
+bekannt.
+13. Welche &#8222;Informationen zu m&#246;glichen Auswirkungen von 5G auf die
+Aufgabenwahrnehmung der Sicherheitsbeh&#246;rden&#8220; hat das BKA dem EU-
+Koordinator f&#252;r Terrorismusbek&#228;mpfung zur Verf&#252;gung gestellt bzw. ist 
+die Antwort zu Frage 14 auf Bundestagsdrucksache 19/12117 so zu
+verstehen, dass das Ratsdokument 8983/19 auf Grundlage von BKA-
+Zulieferungen entstand?
+Auf die Antwort der Bundesregierung zu den Fragen 14a und 14b der Kleinen 
+Anfrage der Fraktion DIE LINKE. auf Bundestagsdrucksache 19/12117 wird 
+verwiesen. Inwieweit diese Informationen Grundlage des Ratsdokuments 
+8983/19 waren, ist der Bundesregierung nicht bekannt.
+a) Welche der beschriebenen Informationen stammten nicht vom BKA, 
+sondern von &#8222;europ&#228;ischen Partnerdienststellen&#8220;?
+In welchem Umfang weitere Quellen verwendet wurden, ist der
+Bundesregierung nicht bekannt.
+b) Welche weiteren &#8222;Expertensitzungen&#8220; der f&#252;r
+Telekommunikations&#252;berwachung (TK&#220;) zust&#228;ndigen Organisationseinheiten sind nach 
+Kenntnis der Bundesregierung bei Europol zur &#8222;Einf&#252;hrung des
+Mobilfunkstandards 5G und m&#246;glicher Auswirkungen auf die TK&#220;-
+F&#228;higkeiten&#8220; geplant?
+Nach Kenntnis der Bundesregierung ist eine weitere Expertensitzung bei
+Europol zur &#8222;Einf&#252;hrung des Mobilfunkstandards 5G und m&#246;glicher Auswirkungen 
+auf die TK&#220;-F&#228;higkeit&#8220; Ende 2019 in Den Haag geplant.
+14. Welche der in der Antwort auf zu Frage 9 Bundestagsdrucksache 
+19/12117, genannten Sitzungen der ETSI TC LI und 3GPP SA3 LI
+wurden nach Kenntnis der Bundesregierung von welchen deutschen
+&#8222;Chairmen&#8220; geleitet?
+Keine der Sitzungen wurde von einem deutschen &#8222;Chairmen&#8220; geleitet.
+a) Auf welche Weise arbeiten die Bundesbeh&#246;rden in den
+Arbeitsgruppen ETSI TC LI und 3GPP SA3 LI hinsichtlich der &#220;berwachung von 
+5G mit dem bayerischen und dem nieders&#228;chsischen
+Landeskriminalamt zusammen?
+Das BKA nimmt gemeinsam mit den Landeskriminal&#228;mtern (LK&#196;) Bayern 
+und Niedersachsen an den ETSI TC LI-Sitzungen teil. Von Seiten ZITiS findet 
+aktuell ein allgemeiner Austausch w&#228;hrend der Arbeitsgruppensitzungen mit 
+den genannten LK&#196; statt. An den Sitzungen von 3GPP SA3 LI nimmt das
+Bayerische Landeskriminalamt nicht teil.
+b) Welche Studien oder Ausarbeitungen haben die beiden
+Landeskriminal&#228;mter hierzu erstellt, und inwiefern wurden diese vom
+Bundesministerium des Innern, f&#252;r Bau und Heimat gepr&#252;ft oder genutzt?
+Der Bundesregierung sind keine Studien oder Ausarbeitungen der
+Landeskriminal&#228;mter zu dieser Thematik bekannt.
+15. Welche F&#228;lle sind der Bundesregierung bekannt, in denen das 3GPP das 
+ETSI zur Modifizierung von Standards hinsichtlich der Einf&#252;hrung und/
+oder &#220;berwachung der f&#252;nften Mobilfunkgeneration aufgefordert hat 
+(Bundestagsdrucksache 19/12117, Antwort zu Frage 12)?
+Mit den f&#252;r das Mobilfunksystem der f&#252;nften Generation bei 3GPP SA3 LI 
+grundlegend &#252;berarbeiteten TK&#220;-Standards sollen zur &#220;bertragung der zu 
+&#252;berwachenden Telekommunikation in den Netzen und Systemen der TK-
+Netzbetreiber keine herstellerspezifischen (propriet&#228;ren) Schnittstellen mehr, 
+sondern die bereits bei ETSI TC LI standardisierten Interfaces genutzt werden. 
+F&#252;r die Netzbetreiber reduzieren sich auf der einen Seite die Kosten f&#252;r eine 
+propriet&#228;re Lizensierung und auf der anderen Seite erh&#246;ht sich die Flexibilit&#228;t 
+bei der Auswahl von Systemanbietern. Da 5G-spezifische Parameter in den 
+ETSI-Standards nicht enthalten waren, wurden diese auf Bitte von 3GPP SA3 
+LI aufgenommen
+16. Wie wird die Standardisierung von 5G im Rahmen von ILETS weiter
+behandelt?
+Innerhalb ILETS wird zu den aktuellen Sachst&#228;nden der Standardisierung von 
+5G berichtet.
+a) Wer nahm an den in Bundestagsdrucksache 19/12117, Antwort zu
+Frage 10 genannten ILETS-Sitzungen teil?
+Im Zeitraum von Januar 2018 bis Juli 2019 fanden vier ILETS-Sitzungen statt. 
+Teilnehmer an diesen Sitzungen waren Vertreter des BKA, des BfV und der 
+BNetzA.
+b) Welche Themen standen auf der Tagesordnung?
+Es wird auf die Antwort zu Frage 16 verwiesen.
+17. Welche Diskussionen werden derzeit im Rahmen der &#220;berarbeitung der 
+Spezifikation 3GPP TS 33.128 (Release 15 und 16) in der 3GPP gef&#252;hrt, 
+und wie beteiligt sich die Bundesregierung daran?
+Die Spezifikation 3GPP TS 33.128 beschreibt die Schnittstelle zur &#220;bertragung 
+der &#220;berwachungskopie aus Mobilfunknetzen zu den berechtigten Stellen und 
+bezieht sich auf verschiedene Mobilfunkgenerationen. Die Diskussionen
+betreffen grunds&#228;tzlich alle Bereiche.
+18. Welche Auftragsvergaben im Bereich der Forschung und Entwicklung 
+von IMSI-Catchern gab es durch den Bund seit 2014 an deutsche
+Bundesbeh&#246;rden, Firmen oder Institute (bitte auch Projekte angeben, die wie 
+&#8222;Catch&#8220; lediglich die &#8222;im Rahmen von Eins&#228;tzen festgestellten Defizite 
+bei der Nutzung von IMSI-Catchern&#8220; untersuchen sollen; vgl. Schriftliche 
+Frage 18 des Abgeordneten Dr. Diether Dehm auf Bundestagsdrucksache 
+19/12234), und welche Gelder wurden hierf&#252;r bewilligt?
+BfV, BKA, BND, Bundespolizei (BPOL), Bundesamt f&#252;r den Milit&#228;rischen 
+Abschirmdienst (BAMAD), Zollkriminalamt (ZKA) und ZITiS haben seit 2014 
+keine Auftragsvergaben im Bereich der Forschung und Entwicklung von IMSI-
+Catchern erteilt. In dem Projekt &#8222;Catch&#8220; werden keine im Einsatz festgestellten 
+Defizite bei der Nutzung von IMSI-Catchern untersucht.
+Den Strafverfolgungsbeh&#246;rden obliegt der Einsatz dieses Einsatzmittels zum 
+Zwecke der Strafverfolgung bzw. Gefahrenabwehr im Rahmen der jeweils
+geltenden Gesetze. Im Rahmen dieser Zust&#228;ndigkeit erfolgt die Beschaffung
+derartiger Einsatztechnik. Werden bei den erworbenen Ger&#228;ten Defizite festgestellt, 
+dann werden diese an den jeweiligen Hersteller zwecks Behebung
+kommuniziert.
+a) Welche IMSI-Catcher welcher Firmen sind Gegenstand des Projekts 
+&#8222;Catch&#8220;, und welche dieser Firmen arbeiten dort mit?
+Im Rahmen des Projektes &#8222;Catch&#8220; wurde ein IMSI-Catcher des Herstellers 
+CellXion (GB) im Wege eines Beschaffungsvorgangs durch das BKA
+erworben. Eine Mitarbeit von Firmen in dem Projekt findet nicht statt.
+b) Welche (Zwischen-)Ergebnisse oder sonstige gefundene Defizite
+wurden im Rahmen des Projekts an welche Firmen &#252;bermittelt?
+Es wird auf die Antwort zu Frage 18 verwiesen.
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/13192 -
+Technische und rechtliche &#196;nderungen zur &#220;berwachung von 5G-Telefonie</titel>
+    <datum>2019-10-14</datum>
+  </document>
+  

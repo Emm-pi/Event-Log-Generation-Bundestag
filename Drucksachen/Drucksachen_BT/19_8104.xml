@@ -1,0 +1,382 @@
+<document>
+    <id>226825</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/8104</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>09d1cd75f2edd3d7d8ce82abccc598e3</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>244271</id>
+      <titel>Finanzaufsicht &#252;ber Big Techs</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium der Finanzen</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/081/1908104.pdf</pdf_url>
+      <id>226825</id>
+      <dokumentnummer>19/8104</dokumentnummer>
+      <datum>2019-03-04</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums der Finanzen vom  
+28. Februar 2019 &#252;bermittelt.  
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext. 
+Deutscher Bundestag  Drucksache 19/8104 
+19. Wahlperiode 04.03.2019 
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Dr. Florian Toncar, Christian D&#252;rr, 
+Bettina Stark-Watzinger, weiterer Abgeordneter und der Fraktion der FDP 
+&#8211; Drucksache 19/7794 &#8211; 
+Finanzaufsicht &#252;ber Big Techs 
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r  
+Gro&#223;e digitale Plattformen wie unter anderem die US-amerikanischen GAFAs 
+(Google, Amazon, Facebook, Apple) sowie die chinesischen BATs (Baidu,
+Alibaba, Tencent), dringen zunehmend in den Bereich der Finanzgesch&#228;fte vor. 
+Der &#8222;B&#246;rsen-Zeitung&#8220; vom 16. Januar 2019 zufolge soll die Bundesanstalt f&#252;r 
+Finanzdienstleistungsaufsicht (BaFin) nach der Kontrolle &#252;ber
+Technologieunternehmen wie Google und Amazon greifen, wenn diese Finanzdienste
+anbieten. &#8222;Ein Aspekt, der uns aufsichtlich besonders umtreibt, ist der Umgang mit 
+Unternehmen, die keine klassischen Banken und Versicherer sind, die aber
+zunehmend ins Finanzgesch&#228;ft vordringen und dabei teilweise T&#228;tigkeiten
+aus&#252;ben, die derzeit f&#252;r sich betrachtet nicht erlaubnispflichtig sind&#8220;, so zitiert die 
+Zeitung den BaFin-Pr&#228;sidenten Felix Hufeld unter Verweis auf den
+Neujahrspresseempfang der Beh&#246;rde am 15. Januar 2019 in Frankfurt. Diese
+sogenannten Big Techs k&#246;nnten ma&#223;geblichen Einfluss auf den Finanzm&#228;rkten aus&#252;ben. 
+Die BaFin wolle laut Hufeld diese &#8222;spezifischen Verhaltensweisen&#8220; der Big 
+Techs und deren Auswirkungen auf das Marktgeschehen in den Blick nehmen. 
+Zus&#228;tzlich zur Aussage der BaFin zu diesen &#8222;spezifischen Verhaltensweisen&#8220; 
+der Big Techs anl&#228;sslich der Vornahme von Finanzgesch&#228;ften wird zunehmend 
+davon berichtet, dass gro&#223;e digitale Plattformen ihre Infrastruktur gegen&#252;ber 
+Marktteilnehmern abschotten w&#252;rden, die &#252;ber diese Infrastruktur
+Finanzdienstleistungen erbringen wollen. So berichtet etwa &#8222;DER TAGESSPIEGEL&#8220; in
+einem Onlineartikel vom 2. August 2018 (www.tagesspiegel.de/wirtschaft/
+applepay-kritik-an-apples-blockadestrategie/22870528.html): &#8222;Apple l&#228;sst seine 
+Kunden einzig den eigenen Bezahldienst nutzen, anderen Anbietern verweigert 
+der Konzern den Zugang zur entscheidenden [Anm.: NFC-]Schnittstelle im
+Ger&#228;t.&#8220; Weiter hei&#223;t es in dem Artikel, &#8222;[d]er Konzern hat f&#252;r das mobile Bezahlen 
+mit dem iPhone ein Monopol und will davon nicht abr&#252;cken. Seine Macht 
+scheint der Konzern dabei knallhart zu nutzen.&#8220; 
+&#196;hnliches l&#228;sst sich bei Amazon in Bezug auf den Zugang zu seinem Alexa 
+Skill-Store beobachten. &#8222;Skills&#8220; sind Anwendungen, die, wie Apps f&#252;r
+Smartphones, auch von Drittanbietern zur Bedienung von Sprachassistenten der Firma 
+Amazon hergestellt und &#8211; nach Freigabe von Amazon &#8211; in dem mit App-Stores 
+vergleichbaren Skill-Store von Nutzern installiert werden k&#246;nnen. Hier soll, wie
+es beispielsweise in dem Artikel &#8222;Amazon sperrt Alexa f&#252;r Banken ab&#8220; der
+Onlineausgabe des &#8222;manager magazin&#8220; vom 20. November 2017 (www.manager- 
+magazin.de/unternehmen/banken/amazon-sperrt-alexa-fuer-banken-ab-a- 
+1179378.html) beschrieben wird, den von der Kreditwirtschaft entwickelten 
+Skills f&#252;r Banking-Funktionen der Zugang verwehrt werden. Bankkunden sei es 
+dadurch nicht m&#246;glich, ihr Bankkonto &#252;ber Alexa zu steuern. M&#246;glicher
+Hintergrund k&#246;nnte &#8211; wie Presseberichte nahelegen &#8211; sein, dass Amazon eigene 
+Bankdienstleistungen an den Markt bringen will. 
+1. Kann der Schritt hin zur Beaufsichtigung von sogenannten Big Techs bzw. 
+von Unternehmensteilen sogenannter Big Techs nach Ansicht der
+Bundesregierung als konsequente Anwendung des Grundsatzes &#8222;same business, same 
+risks, same rules&#8220; verstanden werden, sofern diese zumindest auch
+Finanzdienstleistungen anbieten? 
+2. Teilt die Bundesregierung die Ansicht der Fragesteller, dass insoweit ein 
+&#8222;Level Playing Field&#8220; zu wahren ist, das neutral sowohl gegen&#252;ber tradierten 
+als auch modernen Finanzinstituten wirkt? 
+Die Fragen 1 und 2 werden zusammen beantwortet.  
+Der Ansatz der Finanzmarktregulierung folgt einem technologieneutralen Ansatz. 
+Unternehmen, die erlaubnispflichtige Gesch&#228;fte betreiben, stehen unter Aufsicht 
+der Bundesanstalt f&#252;r Finanzdienstleistungsaufsicht (BaFin); unabh&#228;ngig davon 
+ob es sich um tradierte oder moderne Finanzinstitute handelt. Wesentlich f&#252;r die 
+aufsichtsrechtliche Klassifizierung eines Unternehmens sowie f&#252;r die Intensit&#228;t 
+der Aufsicht (gem&#228;&#223; dem Proportionalit&#228;tsprinzip) ist, welche Produkte bzw. 
+Dienstleistungen von dem Unternehmen angeboten werden und welche Risiken 
+damit einhergehen. 
+3. Welche Akteure ordnet die Bundesregierung dem vom BaFin-Pr&#228;sidenten 
+gew&#228;hlten Begriff &#8222;Big Tech&#8220; zu? 
+Die BaFin versteht unter dem Begriff &#8222;Big Tech&#8220; gem&#228;&#223; ihrer Studie &#8222;Big Data 
+trifft auf K&#252;nstliche Intelligenz: Herausforderungen und Implikationen f&#252;r
+Aufsicht und Regulierung von Finanzdienstleistungen&#8220; gro&#223;e, global agierende
+Technologieunternehmen, die sich vorwiegend auf Online-Dienstleistungen, (IT-) 
+Plattformen oder die Bereitstellung digitaler Infrastrukturen fokussieren, &#252;ber die 
+sie und andere Anbieter Produkte und Dienstleistungen zur Verf&#252;gung stellen 
+k&#246;nnen. Dieses Begriffsverst&#228;ndnis basiert auf der Definition der Bank for
+International Settlements (BIS). Das Financial Stability Board (FSB) verwendet eine 
+&#228;hnlich lautende Definition des Big-Tech-Begriffs. Eine Legaldefinition des
+Begriffs &#8222;Big Tech&#8220; existiert nicht. 
+Beispielhaft und nicht abschlie&#223;end sind daf&#252;r die von Felix Hufeld im Rahmen 
+des Neujahrpresseempfangs 2019 der BaFin genannten Unternehmen Google 
+(Alphabet) und Amazon zu nennen. Hinzu kommen ebenfalls beispielhaft und 
+nicht abschlie&#223;end, die auch in oben genannter BaFin-Studie aufgef&#252;hrten
+Unternehmen Alibaba Group, Apple, Facebook, Microsoft oder Tencent Holdings. 
+Diese werden in den Medien stellvertretend f&#252;r Big Techs unter den Begriffen 
+GAFA (Google, Apple, Facebook, Amazon) sowie BAT (Baidu, Alibaba,
+Tencent) subsumiert. Diese Unternehmen treten im Finanzdienstleistungsbereich 
+weltweit in unterschiedlichen Funktionen auf, beispielsweise indem sie als
+technischer Dienstleister f&#252;r Zahlungsdienste agieren, eigene Zahlungsdienste und 
+Cloud-Dienstleistungen anbieten, Kapitalanlagegesellschaften betreiben sowie 
+Darlehen ausgeben.
+a) An welchen Parametern bemisst die Bundesregierung bzw. die BaFin, ab 
+wann ein sogenanntes Big Tech f&#252;r die Aufsicht relevant wird? 
+Auf die Antwort zu Frage 3c wird verwiesen. 
+b) Welche Verhaltensweisen sind unter dem Begriff &#8222;spezifische
+Verhaltensweisen&#8220; (vgl. Vorbemerkung der Fragesteller) zu verstehen? 
+Die BaFin versteht darunter Aktivit&#228;ten oder Verhaltensweisen von
+Unternehmen, die derzeit f&#252;r sich betrachtet nicht der Finanzmarktaufsicht unterfallen. 
+Dies kann beispielsweise in Form der Besetzung der Kundenschnittstelle durch 
+Unternehmen au&#223;erhalb des Finanzsektors geschehen, wodurch Unternehmen der 
+Finanzdienstleistungsbranche den direkten Kundenkontakt verlieren und zu
+Infrastrukturanbietern im Hintergrund werden k&#246;nnten. Au&#223;erdem ist es denkbar, 
+dass Unternehmen au&#223;erhalb des Finanzsektors, Instituten oder
+Versicherungsunternehmen Daten oder Infrastrukturen zur Verf&#252;gung stellen und so mittelbar 
+systemrelevant werden k&#246;nnten. 
+c) Welche Tatbestandsmerkmale aufsichtsrechtlicher Vorschriften erf&#252;llen 
+diese &#8222;spezifischen Verhaltensweisen&#8220; und welche Tatbestandsmerkmale 
+wiederum nicht? 
+Inwieweit die &#8222;spezifischen Verhaltensweisen&#8220; unter die bestehende
+Finanzmarktregulierung und damit unter die Aufsicht der BaFin fallen, h&#228;ngt von den 
+Umst&#228;nden des Einzelfalls ab und kann nicht pauschal beantwortet werden.  
+Nach der bestehenden Rechtslage k&#246;nnen &#8222;spezifische Verhaltensweisen&#8220; im 
+Einzelfall auch heute schon der Finanzmarktregulierung unterfallen. Dar&#252;ber
+hinaus k&#246;nnen &#8222;spezifische Verhaltensweisen&#8220; aufsichtsrechtliche relevante
+Auslagerungen darstellen. 
+d) Welche aufsichtsrechtlichen Ausnahmetatbest&#228;nde k&#246;nnen die Akteure 
+der &#8222;spezifischen Verhaltensweisen&#8220; nach Ansicht der Bundesregierung 
+ggf. f&#252;r sich in Anspruch nehmen? 
+Inwieweit die &#8222;spezifischen Verhaltensweisen&#8220; aufsichtsrechtliche
+Ausnahmetatbest&#228;nde erf&#252;llen k&#246;nnen, h&#228;ngt vom Einzelfall ab und kann nicht pauschal
+beantwortet werden. Ausnahmetatbest&#228;nde k&#246;nnen sich z. B. aus &#167; 2 des
+Zahlungsdiensteaufsichtsgesetzes (ZAG) ergeben. 
+e) Welchen Handlungsbedarf erkennen die BaFin und die Bundesregierung 
+in Bezug auf die (Nicht-)Erf&#252;llung von Tatbestandsmerkmalen
+aufsichtsrechtlicher Vorschriften und die Nutzung der aufsichtsrechtlichen
+Ausnahmetatbest&#228;nde im Rahmen der &#8222;spezifischen Verhaltensweisen&#8220;? 
+Inwieweit Handlungsbedarf besteht, wird derzeit gepr&#252;ft. 
+4. Aus welchen Gr&#252;nden werden die &#8222;spezifischen Verhaltensweisen&#8220; f&#252;r
+beaufsichtigungsw&#252;rdig gehalten? 
+Auf die Antwort zu Frage 3 wird verwiesen. 
+5. Welche dieser oder sonstigen Gr&#252;nde nimmt die Bundesregierung und/oder 
+die BaFin zum Anlass, um t&#228;tig zu werden? 
+Auf die Antwort zu Frage 3 wird verwiesen.
+6. Was spricht aus der Sicht der Bundesregierung daf&#252;r oder dagegen, die
+Verhaltensweisen von Akteuren, die im allgemeinen Sprachgebrauch nicht unter 
+den Begriff &#8222;Big Tech&#8220; eingeordnet werden (bspw. Paypal oder Revolut 
+u. a.), auch f&#252;r &#8222;spezifische Verhaltensweisen&#8220; zu halten? 
+Auf die Antworten zu den Fragen 1 bis 3 wird verwiesen. 
+7. Aus welchen Gr&#252;nden werden die Verhaltensweisen der in Frage 3
+umschriebenen Akteure f&#252;r beaufsichtigungsw&#252;rdig oder nicht
+beaufsichtigungsw&#252;rdig gehalten? 
+Auf die Antwort zu Frage 3 wird verwiesen. 
+8. Wie viele sogenannte Big Techs bzw. Unternehmenseinheiten sogenannter 
+Big Techs sollten oder k&#246;nnten nach Ansicht bzw. Einsch&#228;tzung der BaFin 
+k&#252;nftig ihrer Aufsicht unterliegen?  
+Auf welche Aspekte wird sich die BaFin dabei voraussichtlich fokussieren? 
+Nach Einsch&#228;tzung der BaFin kann keine abschlie&#223;ende Antwort gegeben
+werden, da dies u. a. abh&#228;ngig davon ist, welche Big Techs zuk&#252;nftig regulierte
+Produkte auf dem Finanzmarkt anbieten.  
+Im &#220;brigen wird auf die Antworten zu den Fragen 1 und 3 verwiesen. 
+9. Welche sogenannten Big Techs bzw. Unternehmen sogenannter Big Techs 
+sollten oder k&#246;nnten nach Ansicht bzw. Einsch&#228;tzung der BaFin k&#252;nftig ihrer 
+Aufsicht unterliegen (bitte namentlich auflisten)? 
+Aus in der Antwort zu Frage 8 benannten Gr&#252;nden kann eine namentliche
+Auflistung nicht erfolgen. 
+Im &#220;brigen wird auf die Antwort zu Frage 8 wird verwiesen. 
+10. Welche regulatorischen Vorschriften k&#246;nnte nach Ansicht der BaFin
+beispielsweise Apple Pay und/oder Google Pay tangieren? 
+Diese beiden Anbieter k&#246;nnten beispielsweise mittelbar von &#167; 55 Absatz 1
+Nummer 2 ZAG betroffen sein. Danach m&#252;ssen Zahlungsdienstleister bei der
+Ausl&#246;sung einer elektronischen Zahlung eine sog. starke Kundenauthentifizierung 
+durchf&#252;hren. Nach den Erkenntnissen der BaFin handelt es sich bei Apple und 
+Google zwar nicht um Zahlungsdienstleister im Sinne des ZAG, da sich bei ihrem 
+derzeitigen Gesch&#228;ftsmodell keine Anhaltspunkte f&#252;r eine Erlaubnis- oder
+Registrierungspflicht ergeben. Insbesondere geben Apple und Google selber keine 
+Zahlungskarten aus und greifen auch nicht auf Zahlungskonten zu. Die starke 
+Kundenauthentifizierung ist aber von den am Zahlungsvorgang beteiligten
+Zahlungsdienstleistern zu erf&#252;llen; im Fall von Apple Pay und Google Pay also
+insbesondere von dem Zahlungsdienstleister, der die im Smartphone hinterlegte 
+Zahlungskarte ausgegeben hat. Dieser darf seinen Kunden Apple Pay oder 
+Google Pay nur dann erm&#246;glichen, wenn die starke Kundenauthentifizierung
+gem&#228;&#223; den gesetzlichen Vorgaben durchgef&#252;hrt wird. Google Pay und Apple Pay 
+w&#228;ren somit zumindest mittelbar von den Anforderungen an die starke
+Kundenauthentifizierung nach ZAG tangiert. 
+Sollten Apple und Google ihr aktuelles Gesch&#228;ftsmodell &#228;ndern, w&#228;re eine
+Neubewertung des Sachverhalts erforderlich.
+11. Welche sogenannten Big Techs bzw. Unternehmenseinheiten sogenannter 
+Big Techs verf&#252;gen bereits heute &#252;ber eine Zulassung nach &#167;&#167; 32, 33 des 
+Kreditwesengesetzes in Verbindung mit Artikel 4 Absatz 1 der SSM-
+Verordnung? 
+Eine Legaldefinition des Begriffs &#8222;Big Tech&#8220; gibt es nicht. In Deutschland
+verf&#252;gen nach Auskunft der BaFin keine der oben genannten Big Techs &#252;ber eine 
+Erlaubnis gem&#228;&#223; den &#167;&#167; 32, 33 KWG. Allerdings verf&#252;gen einige der oben
+genannten Big Techs &#252;ber eine E-Geld-Erlaubnis bzw. Erlaubnis als
+Zahlungsinstitut im europ&#228;ischen Ausland, mit der sie im Wege des europ&#228;ischen Pass in 
+Deutschland ihre Dienstleistungen anbieten k&#246;nnen. 
+12. Welche sogenannten Big Techs bzw. Unternehmenseinheiten sogenannter 
+Big Techs verf&#252;gen bereits heute &#252;ber eine Zulassung nach &#167; 8 des
+Versicherungsaufsichtsgesetzes? 
+Nach Auskunft der BaFin verf&#252;gen keine der oben genannten Big Techs &#252;ber eine 
+Erlaubnis der BaFin zum Betrieb des Versicherungsgesch&#228;fts gem&#228;&#223; &#167; 8 VAG. 
+13. Erkennt die Bundesregierung dar&#252;ber hinaus einen Regulierungsbedarf
+hinsichtlich der &#8222;spezifischen Verhaltensweisen&#8220;? 
+Auf die Antworten zu den Fragen 3 und 27 wird verwiesen. 
+14. Erf&#252;llen die &#8222;spezifischen Verhaltensweisen&#8220; aus Sicht der Bundesregierung 
+zivilrechtliche Verbraucherschutztatbest&#228;nde?  
+Wenn ja, welche? 
+15. Welche zivilrechtlichen Ausnahmetatbest&#228;nde nutzen die Akteure der
+&#8222;spezifischen Verhaltensweisen&#8220; nach Kenntnis der Bundesregierung? 
+Die Fragen 14 und 15 werden gemeinsam beantwortet. 
+Ob &#8222;spezifische Verhaltensweisen&#8220; zivilrechtliche Verbraucherschutztatbest&#228;nde 
+erf&#252;llen, h&#228;ngt von den Umst&#228;nden des Einzelfalls ab und kann nicht pauschal 
+beantwortet werden. Insoweit wird Bezug genommen auf die Antworten zu den 
+Fragen 3b bis d. 
+Sofern die genannten Unternehmen dem Verbraucher beispielsweise
+Zahlungsausl&#246;se- oder Kontoinformationsdienste unmittelbar anbieten sollten, w&#228;ren die 
+f&#252;r diese Dienstleistungen geltenden zivilrechtlichen Vorschriften auf sie
+anwendbar. 
+16. Mittels welcher Instrumente plant die Bundesregierung (&#252;ber die BaFin oder 
+auf sonstige Weise), aufsichtsrechtlich t&#228;tig zu werden?  
+H&#228;lt die Bundesregierung hierzu eine Anpassung des Bankaufsichtsrechts 
+f&#252;r notwendig?  
+Wenn ja, wann ist welche Art von Anpassung geplant? 
+Auf die Antworten zu den Fragen 3 und 27 wird verwiesen. 
+17. Welche Regulierungsma&#223;nahmen h&#228;lt die Bundesregierung insoweit auf
+nationaler Ebene (beispielsweise im Zivilrecht) und/oder europ&#228;ischer Ebene 
+(bspw. im Zahlungsverkehrsrecht) f&#252;r angezeigt? 
+Es wird auf die Antworten zu den Fragen 3 und 27 verwiesen.
+18. Welche dieser Ma&#223;nahmen befinden sich bereits in der Umsetzung?  
+Wann gedenkt die Bundesregierung die (&#252;brigen) Ma&#223;nahmen umzusetzen? 
+Es wird auf die Antworten zu den Fragen 3 und 27 verwiesen. 
+19. Wie viele Finanzinstitute unterstehen der Aufsicht der BaFin, die sich als 
+Teil einer realwirtschaftlichen Unternehmensgruppe zuordnen lie&#223;en (Bsp. 
+Volkswagen Bank)? 
+F&#252;r den Gesch&#228;ftsbereich Bankenaufsicht hat eine Abfrage in den
+bankaufsichtlichen Datenbanken nach Instituten, die Tochterunternehmen eines
+Wirtschaftsbzw. sonstigen Unternehmens sind, 183 Unternehmen ergeben. 
+Der Aufsicht durch die Wertpapieraufsicht unterstehen dar&#252;ber hinaus insgesamt 
+sechs Finanzinstitute, die sich als Teil einer realwirtschaftlichen
+Unternehmensgruppe zuordnen lie&#223;en. 
+Die Versicherungsaufsicht der BaFin beaufsichtigt 13
+Versicherungsunternehmen, die sich einer realwirtschaftlichen Unternehmensgruppe zuordnen lassen. 
+20. Welche Finanzinstitute gem&#228;&#223; Frage 19 unterstehen der Aufsicht der BaFin 
+(bitte namentlich nennen)? 
+Um welche Finanzinstitute es sich dabei handelt, ist den &#246;ffentlich zug&#228;nglichen 
+Datenbanken der BaFin zu entnehmen (www.bafin.de/DE/PublikationenDaten/ 
+Datenbanken/Datenbanken_node.html). 
+21. Welche Finanzinstitute sind nach Kenntnis der Bundesregierung gerade
+dabei, im Zuge des Brexit ihre Pr&#228;senz im Bundesgebiet zu etablieren oder
+signifikant zu st&#228;rken?  
+Gibt es hierzu eine fortlaufende Liste bei der BaFin, die dies registriert (bitte 
+namentlich auflisten)? 
+Bedingt durch den Brexit hat sich eine Reihe von Instituten dazu entschlossen, 
+ihre Pr&#228;senz und Gesch&#228;ftsaktivit&#228;ten in der Bunderepublik Deutschland zu
+st&#228;rken. Der Umfang dieser Ver&#228;nderungen ist stark einzelfallabh&#228;ngig und reicht 
+von nur &#252;berschaubarem Wachstum bis zu signifikanten Zuw&#228;chsen.
+Entsprechende nicht&#246;ffentliche Aufsichtsinformationen betreffen laufende Vorg&#228;nge und 
+grundrechtlich gesch&#252;tzte Gesch&#228;ftsgeheimnisse. 
+22. Wie viele von diesen Finanzinstituten etablieren oder st&#228;rken ihre Pr&#228;senz 
+nach Kenntnis der Bundesregierung bzw. der BaFin zumindest auch in Paris? 
+23. Wie viele von diesen Finanzinstituten etablieren oder st&#228;rken ihre Pr&#228;senz 
+nach Kenntnis der Bundesregierung bzw. der BaFin zumindest auch in
+weiteren europ&#228;ischen Finanzzentren? 
+Die Fragen 22 und 23 werden zusammen beantwortet. 
+Die BaFin geht davon aus, dass sich eine Reihe von Instituten dazu entschlossen 
+hat, ihre Pr&#228;senz und Gesch&#228;ftsaktivit&#228;ten in Frankreich und auch in weiteren
+europ&#228;ischen Finanzzentren zu st&#228;rken. Da die Zahlen hierzu stark schwanken,
+k&#246;nnen keine konkreten Angaben gemacht werden.
+24. Teilt die Bundesregierung und/oder das Bundeskartellamt die in der Presse 
+zum Ausdruck kommende Einsch&#228;tzung einer Ausnutzung einer
+marktbeherrschenden Stellung der Anbieter Apple bzw. Amazon (vgl.
+Vorbemerkung der Fragesteller)?  
+Wenn nein, warum nicht? 
+Ob in den angesprochenen Konstellationen die wettbewerbswidrige Ausnutzung 
+einer marktbeherrschende Stellung von Apple oder Amazon vorliegt, w&#228;re in
+einem kartellrechtlichen Verfahren zu ermitteln. Soweit die besonderen
+Verhaltensregeln der kartellrechtlichen Missbrauchsaufsicht Anwendung finden, w&#228;re 
+insbesondere zu pr&#252;fen, inwieweit ein beanstandetes Verhalten etwa wegen der 
+Behinderung von Wettbewerbern als missbr&#228;uchlich zu werten ist oder ob es 
+durch sachliche Gr&#252;nde gerechtfertigt werden kann. Dies erfordert eine
+gr&#252;ndliche Pr&#252;fung aller tats&#228;chlichen und rechtlichen Umst&#228;nde. 
+Bislang liegen dem Bundeskartellamt keine Beschwerden wegen
+missbr&#228;uchlichen Verhaltens von Apple oder Amazon im Bereich der
+Zahlungsdienstleistungen vor. Das Bundeskartellamt steht hierzu aber im regelm&#228;&#223;igen Austausch mit 
+der deutschen Kreditwirtschaft. 
+25. Sieht die Bundesregierung und/oder das Bundeskartellamt prinzipiell
+Handlungsbedarf zum Einschreiten gegen die in der Presse angef&#252;hrten
+Abschottungsma&#223;nahmen?  
+Wenn nein, warum nicht? 
+Bei wettbewerbswidrigen Abschottungsma&#223;nahmen kann prinzipiell
+beh&#246;rdlicher Handlungsbedarf bestehen. Die Entscheidung, ein kartellrechtliches
+Missbrauchsverfahren zu er&#246;ffnen, liegt dabei im Ermessen des Bundeskartellamts. 
+Bei Aus&#252;bung dieses Aufgreifermessens wird u. a. ber&#252;cksichtigt, inwieweit sich 
+Markteilnehmer beschweren, die sich durch eine Verhaltensweise eines
+Wettbewerbers behindert f&#252;hlen, und ob eine anderweitige L&#246;sung, etwa im
+Verhandlungswege oder in einem Zivilrechtsstreit, m&#246;glich erscheint. 
+26. Hat sich die Missbrauchsaufsicht des Bundeskartellamts der Thematik
+bereits angenommen?  
+Wenn nein, ist dies geplant? 
+Das Bundeskartellamt hat die Thematik im Blick. Es hat aber bisher von der
+Einleitung eines f&#246;rmlichen Missbrauchsverfahrens abgesehen.  
+Im &#220;brigen wird auf die Antworten zu den Fragen 24 und 25 verwiesen. 
+27. H&#228;lt die Bundesregierung eine Anpassung der Missbrauchsaufsicht f&#252;r
+notwendig, um diesen und vergleichbaren Verhaltensweisen zu begegnen? 
+Die Fragen 13, 17, 18, 27 bis 32 werden gemeinsam beantwortet. 
+Die Bundesregierung ist sich der regulatorischen und
+verbraucherschutzpolitischen Herausforderungen durch Online-Plattformen und global agierende
+Digitalunternehmen mit neuen (digitalen) Gesch&#228;ftsmodellen sehr bewusst. Der
+Koalitionsvertrag zwischen CDU, CSU und SPD sieht insofern vor, das Kartellrecht 
+in Bezug auf die Digitalisierung und Globalisierung der Wirtschaftswelt zu
+modernisieren und das Wettbewerbsrecht f&#252;r digitale Gesch&#228;ftsmodelle zu erg&#228;nzen.
+Zudem soll die wettbewerbsbeh&#246;rdliche Aufsicht weiterentwickelt werden,
+insbesondere im Hinblick auf missbr&#228;uchliches Verhalten von
+Plattformunternehmen.  
+Um diese Ziele zu erreichen, wurde die &#8222;Kommission Wettbewerbsrecht 4.0&#8220;
+eingesetzt und mit den Arbeiten an der 10. Novelle des Gesetzes gegen
+Wettbewerbsbeschr&#228;nkungen begonnen. Die &#8222;Kommission Wettbewerbsrecht 4.0&#8220; dient 
+dabei als rechtspolitische Plattform f&#252;r eine Debatte zur Weiterentwicklung
+insbesondere auch des europ&#228;ischen Wettbewerbsrechts. Sie befasst sich mit den 
+wettbewerbspolitischen Fragestellungen, die sich durch die fortschreitende
+Entwicklung der Daten&#246;konomie, die Verbreitung von Plattformm&#228;rkten und durch 
+die &#8222;Industrie 4.0&#8220; ergeben und wird bis Herbst 2019 konkrete
+Handlungsempfehlungen zum europ&#228;ischen Wettbewerbsrecht erarbeiten. Die konstituierende 
+Sitzung fand am 20. September 2018 statt. Parallel dazu hat die Bundesregierung 
+mit der Vorbereitung f&#252;r die 10. GWB-Novelle und damit einer Reform des
+nationalen Wettbewerbsrechts begonnen, wobei es neben der Umsetzung der EU-
+Richtlinie zur St&#228;rkung der nationalen Wettbewerbsbeh&#246;rden (ECN+) vor allem 
+um die Modernisierung der Missbrauchsaufsicht geht. Dabei pr&#252;ft die
+Bundesregierung auch, ob und wie m&#246;gliche wettbewerbsbehindernde
+Abschottungsma&#223;nahmen hinreichend erfasst werden k&#246;nnen. 
+28. Plant die Bundesregierung, in der f&#252;r dieses Jahr angek&#252;ndigten zehnten
+Novelle des Gesetzes gegen Wettbewerbsbeschr&#228;nkungen das Thema
+Abschottungsma&#223;nahmen digitaler Plattformen aufzugreifen? 
+29. Erkennt die Bundesregierung dar&#252;ber hinaus einen Regulierungsbedarf
+hinsichtlich von Abschottungsma&#223;nahmen digitaler Plattformen? 
+30. Welche Regulierungsma&#223;nahmen h&#228;lt die Bundesregierung auf nationaler 
+Ebene (beispielsweise im Bankaufsichtsrecht, im Zivilrecht und
+Kartellrecht) und/oder auf europ&#228;ischer Ebene f&#252;r angezeigt? 
+31. Welche dieser Ma&#223;nahmen befinden sich bereits in der Umsetzung?  
+Wann gedenkt die Bundesregierung, die &#252;brigen Ma&#223;nahmen umzusetzen? 
+32. Wird sich die Kommission Wettbewerbsrecht 4.0 des Bundesministeriums 
+f&#252;r Wirtschaft und Energie der Thematik annehmen? 
+Die Fragen 28 bis 32 werden zusammenfassend beantwortet. 
+Auf die Antwort zu Frage 27 wird verwiesen. 
+Satz: Satzweiss.com Print, Web, Software GmbH, Mainzer Stra&#223;e 116, 66121 Saarbr&#252;cken, www.satzweiss.com 
+Druck: Printsystem GmbH, Schafw&#228;sche 1-3, 71296 Heimsheim, www.printsystem.de 
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de 
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/7794 -
+Finanzaufsicht &#252;ber Big Techs</titel>
+    <datum>2019-03-04</datum>
+  </document>
+  

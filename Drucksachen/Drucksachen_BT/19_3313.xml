@@ -1,0 +1,309 @@
+<document>
+    <id>220887</id>
+    <drucksachetyp>Kleine Anfrage</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>42</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/3313</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>d41f3b25f0cc51e3647b5bcd52ed5cd7</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:15+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>237469</id>
+      <titel>Distributed Ledger Technologie - Nutzung der Blockchain-Technologie f&#252;r die Vereinfachung von Verwaltungsakten</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>FDP</bezeichnung>
+      <titel>Fraktion der FDP</titel>
+    </urheber>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/033/1903313.pdf</pdf_url>
+      <id>220887</id>
+      <dokumentnummer>19/3313</dokumentnummer>
+      <datum>2018-07-11</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Kleine Anfrage</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Fraktion der FDP</urheber>
+    </fundstelle>
+    <autoren_anzeige>
+      <id>7596</id>
+      <titel>Mario Brandenburg, MdB, FDP</titel>
+      <autor_titel>Mario Brandenburg</autor_titel>
+    </autoren_anzeige>
+    <autoren_anzeige>
+      <id>7519</id>
+      <titel>Bettina Stark-Watzinger, MdB, FDP</titel>
+      <autor_titel>Bettina Stark-Watzinger</autor_titel>
+    </autoren_anzeige>
+    <text>[Deutscher Bundestag  Drucksache 19/3313 
+19. Wahlperiode 11.07.2018 
+Kleine Anfrage 
+der Abgeordneten Mario Brandenburg, Bettina Stark-Watzinger, Katja Suding,  
+Grigorios Aggelidis, Renata Alt, Christine Aschenberg-Dugnus, Nicole Bauer,  
+Jens Beeck, Nicola Beer, Dr. Jens Brandenburg (Rhein-Neckar),  
+Britta Katharina Dassler, Dr. Marcus Faber, Daniel F&#246;st, Otto Fricke,  
+Thomas Hacker, Katrin Helling-Plahr, Katja Hessel, Manuel H&#246;ferlin,  
+Reinhard Houben, Ulla Ihnen, Olaf in der Beek, Dr. Christian Jung,  
+Thomas L. Kemmerich, Dr. Marcel Klinge, Daniela Kluckert, Pascal Kober,  
+Carina Konrad, Konstantin Kuhle, Alexander Kulitz, Alexander Graf Lambsdorff,  
+Oliver Luksic, Christoph Meyer, Alexander M&#252;ller, Roman M&#252;ller-B&#246;hm,  
+Christian Sauter, Frank Sch&#228;ffler, Matthias Seestern-Pauly, Frank Sitta,  
+Judith Skudelny, Benjamin Strasser, Dr. Florian Toncar, Gerald Ullrich und  
+der Fraktion der FDP 
+Distributed Ledger Technologie &#8211; Nutzung der Blockchain-Technologie f&#252;r die 
+Vereinfachung von Verwaltungsakten 
+Distributed Ledger Technologien (DLT) er&#246;ffnen neue M&#246;glichkeiten in
+gesellschaftlichen, politischen und wirtschaftlichen Bereichen. Was das Internet f&#252;r
+Informationen war, k&#246;nnen nach Ansicht der Fragesteller DLT f&#252;r Transaktionen 
+werden. Mit DLT k&#246;nnen Transaktionen schneller, kosteng&#252;nstiger und sicherer 
+durchgef&#252;hrt werden. DLT erm&#246;glichen vereinfacht gesprochen die sichere und 
+eindeutige Datenhaltung in einem verteilten Register. Es ist eine Technologie, die 
+auf mathematischen und spieltheoretischen Konzepten beruht und dazu dient,
+Daten zu verifizieren und zu sichern, um Eineindeutigkeit sicherzustellen. Die
+bislang bekannteste Art von DLT ist die Blockchain-Technologie, die durch das 
+Whitepaper von Satoshi Nakamoto im Jahre 2008 und der Einf&#252;hrung der
+Kryptow&#228;hrung Bitcoin bekannt wurde. DLT haben mehr Potenziale als
+Kryptow&#228;hrungen, weshalb heute h&#228;ufig in &#8222;crypto&#8220; f&#252;r Kryptow&#228;hrungen und &#8222;blockchain&#8220; 
+f&#252;r alle anderen DLT-Anwendungen unterschieden wird. DLT erm&#246;glicht den 
+Transfer von digitalen Rechten jedweder Art, wovon Kryptow&#228;hrungen lediglich 
+eine von vielen denkbaren Anwendungen darstellen. 
+Bislang laufen die meisten Transaktionen zwischen zwei oder mehr Parteien in 
+der Regel &#252;ber Intermedi&#228;re wie zum Beispiel Banken oder Notare. Mit DLT 
+kommt solchen Intermedi&#228;ren eine abnehmende Bedeutung zu, da &#252;ber DLT die 
+Echtheit und Unver&#228;nderlichkeit der Informationen zweifelsfrei &#252;berpr&#252;ft und
+sichergestellt werden kann. Informationen werden nicht zentral, sondern dezentral 
+und verteilt gespeichert. Durch verschiedene Verschl&#252;sselungsverfahren sind die 
+Daten, die in einer Blockchain gespeichert werden, transparent, authentisch und 
+sicher. DLT erm&#246;glichen &#252;ber sogenannte Smart Contracts die automatische
+Durchf&#252;hrung von Transaktionen jedweder Art. Bei Smart Contracts handelt es 
+sich um Software, also um Protokolle bzw. Algorithmen, die automatisch und 
+selbstst&#228;ndig unter Wenn-dann-Bedingungen und den hinterlegten Konditionen 
+Transaktionen durchf&#252;hren. 
+Die DLT-Branche ist schnell wachsend und dynamisch. Weltweit entstehen 
+Blockchain-Studieng&#228;nge und Forschungszentren an renommierten
+Universit&#228;ten. Experten sehen eine Anwendung von DLT vor allem in der Energie-,
+Telemedien-, Finanz-, Versicherungs-, Verkehrs-, Gesundheitsbranche, dem Internet 
+der Dinge, der Logistik sowie der Registerf&#252;hrung in der &#246;ffentlichen
+Verwaltung. Die &#246;ffentliche Verwaltung regelt das gesellschaftliche Zusammenleben 
+und fungiert als Vermittler zwischen B&#252;rger und Staat. Dabei stellt die
+Verwaltung beispielsweise Register zur Verf&#252;gung, denen ein &#246;ffentlicher Glaube
+zukommt und ist f&#252;r die Beglaubigung der Echtheit von Unterschriften unter
+Dokumenten verantwortlich. F&#252;r viele Dienstleistungen muss der B&#252;rger physisch vor 
+Ort sein, um sich auszuweisen und seine Daten der zust&#228;ndigen Beh&#246;rde
+mitzuteilen, die diese dann zentral verwaltet. Viele dieser Transaktionen und
+Verwaltungsdienstleistungen folgen allerdings vorformulierten Bedingungen, sodass der 
+Einsatz von Smart Contracts technisch m&#246;glich w&#228;re. 
+Die oben genannten Anwendungsm&#246;glichkeiten von DLT m&#252;ssen zuk&#252;nftig
+erforscht werden. Eine &#8222;Leuchtturm-Anwendung&#8220;, die der DLT zum Durchbruch 
+hilft, steht derzeit noch aus. Dies sollte allerdings kein Hindernis sein, sondern 
+als Chance begriffen werden, neuartige Konzepte in Pilotprojekten auszutesten. 
+Insbesondere sollte erprobt werden, wie DLT-Systeme in akzeptierten rechtlichen 
+und regulatorischen Rahmen und unter Datenschutzaspekten (z. B. das Recht auf 
+Vergessen) in bestehende Systeme integriert werden k&#246;nnen. Aus Sicht der
+Fragesteller sollten die Chancen vor den Risiken gesehen werden. Zudem sollten 
+staatliche Institutionen praktisch ausprobieren, &#246;ffentliche Verwaltungsg&#228;nge 
+testweise &#252;ber eine DLT abzuwickeln. Dadurch kann der Staat Know-how
+aufbauen und als innovativer Vorreiter auf diesem Gebiet auftreten. 
+Wir fragen die Bundesregierung: 
+1. Welche Chancen sieht die Bundesregierung beim Einsatz von Distributed 
+Ledger Technogien (DLT)? 
+2. Teilt die Bundesregierung die Meinung der Fragesteller, dass es sich bei DLT 
+um eine besonders disruptive Technologie handelt, die Sprunginnovationen 
+erm&#246;glicht? 
+3. Mit welchem gesellschaftlichen Nutzen, aber auch mit welchen
+Herausforderungen rechnet die Bundesregierung, sollten sich DLT-Anwendungen 
+durchsetzen und potenziell einige Intermedi&#228;re &#252;berfl&#252;ssig machen? 
+4. Ist nach Meinung der Bundesregierung die Gesellschaft bereit, einer
+dezentral ausgerichteten Technologie eher zu vertrauen als etablierten
+Institutionen?  
+Was tut die Bundesregierung, um das Vertrauen in die Technologie zu
+f&#246;rdern? 
+5. Welche Bundesministerien und welche nachgelagerten Beh&#246;rden befassen 
+sich mit DLT-Anwendungen? 
+6. Wie viele Mitarbeiter in den Bundesministerien und nachgelagerten
+Beh&#246;rden besch&#228;ftigen sich ausschlie&#223;lich oder haupts&#228;chlich mit DLT (bitte nach 
+Beh&#246;rde und Projekt aufschl&#252;sseln)? 
+7. Wie hat sich die Zahl der Mitarbeiter, die sich in den Bundesministerien und 
+nachgelagerten Beh&#246;rden mit DLT auseinandersetzen, in den letzten 24
+Monaten ge&#228;ndert?
+8. F&#228;llt es der Bundesregierung leicht, geeignetes Personal zu finden, das sich 
+mit DLT auskennt?  
+Sofern nein, worin bestehen die Gr&#252;nde, und was tut die Bundesregierung, 
+um das Problem zu l&#246;sen? 
+9. Gibt es eine Art Task-Force oder Arbeitsgruppe innerhalb der
+Bundesregierung, die sich mit dem Einsatz von DLT auseinandersetzt?  
+Wie setzt sich diese Gruppe zusammen?  
+Wer leitet diese Gruppe?  
+Wie oft trifft sich diese Gruppe formell oder informell? 
+10. Sieht die Bundesregierung Einsparungspotenziale bei der Anwendung von 
+Blockchain-Technologien in der &#246;ffentlichen Verwaltung?  
+Wenn ja, wo konkret? 
+11. Wie sieht die Blockchain-Strategie konkret aus, die die Bundesregierung
+tragenden Fraktionen der CDU, CSU und SPD in ihrem Koalitionsvertrag 
+(Zeile 1931) vereinbart haben?  
+Welche Zeitpl&#228;ne verfolgt die Bundesregierung (bitte nach Art und Projekt 
+detailliert aufschl&#252;sseln)? 
+12. Welche finanziellen Mittel stellt die Bundesregierung in dieser
+Legislaturperiode f&#252;r DLT bereit (oder plant bereitzustellen) (bitte nach Jahr und Projekt 
+genau aufschl&#252;sseln)? 
+13. Gibt es Verwaltungsvorg&#228;nge, bei denen sich gezeigt hat, dass sie sich mit 
+DLT effizienter umsetzen lassen?  
+Wenn ja, welche, und wann ist der regul&#228;re Einsatz von DLT-basierten
+Anwendungen geplant? 
+14. Gibt es dar&#252;ber hinaus schon Verwaltungsvorg&#228;nge, die die
+Bundesregierung mittels DLT umsetzt?  
+Welche Erfahrungen hat die Bundesregierung hier gemacht? 
+15. Hat die Bundesregierung Projekte durchgef&#252;hrt, bei denen sich gezeigt hat, 
+dass DLT keine Verbesserung bringt?  
+Wenn ja, welche, und was sind die jeweiligen Gr&#252;nde? 
+16. In welchen Gebieten des &#246;ffentlichen Sektors kann sich die Bundesregierung 
+eine sinnvolle Anwendung von DLT vorstellen, und wie w&#252;rden diese
+konkret aussehen 
+a) bei &#246;ffentlichen Registern (insbesondere Grundbuch- und
+Handelsregister), 
+b) beim Notardienst, 
+c) bei Steuern, Abgaben oder Geb&#252;hren, 
+d) bei Wahlen und Abstimmungen, 
+e) bei der Kranken- bzw. Patientenakte, 
+f) beim Personalausweis bei der digitalen Identit&#228;t, 
+g) bei staatlichen Finanzhilfen und 
+h) bei der Migrationspolitik?
+17. Wann rechnet die Bundesregierung damit, dass sich DLT-Anwendungen 
+durchsetzen werden?  
+In welchen Branchen rechnet die Bundesregierung damit, dass sich DLT am 
+ehesten durchsetzt?  
+In welcher Branche wird nach Ansicht der Bundesregierung der disruptive 
+Charakter der Technologie am gr&#246;&#223;ten ausfallen? 
+18. Wie viele drittmittelfinanzierte Forschungsvorhaben zum Thema DLT
+werden nach Kenntnis der Bundesregierung derzeit an deutschen
+Fachhochschulen und Universit&#228;ten durchgef&#252;hrt (bitte nach &#246;ffentlicher und privater
+F&#246;rderung aufschl&#252;sseln)? 
+19. Welchen Chancen oder Risiken sieht die Bundesregierung in der DLT-
+Anwendung insbesondere durch die f&#246;derale Struktur Deutschlands? 
+20. Hat die Bundesregierung Kenntnis, ob auf L&#228;nderebene oder in Kommunen 
+DLT thematisiert oder erprobt wird?  
+Wenn ja, um welche Projekte handelt es sich?  
+Wie fallen die Erfahrungen aus? 
+21. Wie geht die Bundesregierung damit um, dass die Verschiebung von einer 
+analogen zur digitalen Verwaltung und dem potenziellen Einsatz von DLT-
+Technologien diesbez&#252;glich zur Folge haben kann, dass klassische
+Intermedi&#228;re (z. B. &#196;mter, staatliche Zulassungsstellen und Beh&#246;rden) zuk&#252;nftig
+weniger Bedeutung haben k&#246;nnten? 
+22. Wie bewertet die Bundesregierung Smart Contracts?  
+Welche &#246;konomischen Chancen sieht die Bundesregierung im Einsatz von 
+Smart Contracts?  
+Was sind nach Meinung der Bundesregierung die gegenw&#228;rtigen
+Herausforderungen bei der Implementierung von Smart Contracts?  
+Welche Potenziale bzw. welche Problemfelder sieht die Bundesregierung bei 
+der Anwendung von Smart Contracts im privatrechtlichen Bereich? 
+23. Wie beurteilt die Bundesregierung die technologische Entwicklung von DLT 
+seit dem in der Vorbemerkung der Fragesteller erw&#228;hnten Whitepaper von 
+Satoshi Nakamoto?  
+Welche technologische Entwicklung h&#228;lt die Bundesregierung derzeit am
+erfolgsversprechendsten, um den breiten Einsatz von DLT zu erm&#246;glichen? 
+24. Welche konkreten DLT-Anwendungen hat die Bundesregierung schon
+erprobt und umgesetzt? 
+a) Was sind die jeweiligen Erfahrungen?  
+Wo liegen aus Sicht der Bundesregierung jeweils die Vor- und Nachteile 
+der jeweiligen Technologie? 
+b) Welche Konsensverfahren sind der Bundesregierung &#252;ber die bekannten 
+&#8222;Proof-of-Work&#8220; und &#8222;Proof-of-Stake&#8220; hinaus bekannt, um
+Transaktionen zu verifizieren?  
+Welche Vor- und Nachteile sieht die Bundesregierung in den jeweiligen 
+Verfahren? 
+25. Wie sieht die Bundesregierung die Tatsache, dass DLT in bestehende
+rechtliche Systeme integriert werden m&#252;ssen?  
+Spielt es nach Ansicht der Bundesregierung eine Rolle, ob es sich dabei um 
+unbeschr&#228;nkt &#246;ffentliche (permissionless public) oder beschr&#228;nkt private 
+(permissioned private) DLT handelt?
+26. Steht die Bundesregierung bez&#252;glich DLT im Austausch mit anderen EU-
+Mitgliedsl&#228;ndern oder anderen OECD-Staaten?  
+Wenn ja, was ist Inhalt der Gespr&#228;che? 
+27. Welche L&#228;nder h&#228;lt die Bundesregierung im Bereich DLT f&#252;r f&#252;hrend?  
+Weshalb sind diese L&#228;nder nach Meinung der Bundesregierung f&#252;hrend?  
+Was unternimmt die Bundesregierung, um ggf. den Abstand aufzuholen? 
+28. Wie sehen die konkreten Ma&#223;nahmen aus, die die Bundesregierung nach
+Unterzeichnung der Vereinbarung unter 22 europ&#228;ischen Staaten in Br&#252;ssel am 
+10. April 2018 zur Errichtung einer gemeinsamen, europ&#228;ischen Blockchain-
+Infrastruktur ergreift? 
+a) Welche Bundesministerien sind daran beteiligt, und wie viele Mitarbeiter 
+besch&#228;ftigen sich damit? 
+b) Welche Arbeitskreise wurden etabliert und Ma&#223;nahmen ergriffen, um
+einen Beitrag zu leisten? 
+c) Wie sieht die Strategie und Vision der Bundesregierung f&#252;r eine
+europ&#228;ische Blockchain-Infrastruktur aus? 
+29. Was muss aus Sicht der Bundesregierung getan werden, um DLT-
+Anwendungen aus Sicht der Normung und Standardisierung weiterzuentwickeln?  
+Welche Position hat die Bundesregierung bez&#252;glich internationaler DLT-
+Standardisierungsans&#228;tze bei der ISO (Internationale Organization for
+Standardization), ITU (International Telecommunication Union), CENELEC 
+(European Committee for Electrotechnical Standardization) usw.?  
+Wie sch&#228;tzt die Bundesregierung die Gefahren der Einflussnahme anderer 
+L&#228;nder auf die Blockchain-Standardisierung f&#252;r die deutsche
+Wettbewerbsf&#228;higkeit ein? 
+30. Wie bewertet die Bundesregierung die Energieeffizienz von DLT-
+Anwendungen? 
+31. Hat die Bundesregierung Kenntnis dar&#252;ber, wie viele Unternehmen sich
+intensiv mit dem Thema DLT in Deutschland besch&#228;ftigen?  
+Wie viele Start-ups gibt es im DLT-Bereich?  
+Gibt es in Deutschland einen DLT-Hub?  
+Was tut die Bundesregierung, um die Vernetzung der Experten zu f&#246;rdern? 
+32. Kommen Unternehmen im DLT- Bereich auf die Bundesregierung zu?  
+Wenn ja, was sind die Anliegen dieser Unternehmen?  
+Was tut die Bundesregierung, um Unternehmen zu f&#246;rdern, die im Bereich 
+DLT agieren? 
+33. Welche Probleme hat die Bundesregierung in Bezug auf den Datenschutz 
+identifiziert?  
+Welche technologischen Ausgestaltungen einer DLT-Anwendung sind der 
+Bundesregierung bekannt, die Probleme zu l&#246;sen? 
+34. Sieht die Bundesregierung auch Chancen im Bereich Datenschutz bzw.
+Datenautonomie, indem DLT Zentralisierungstendenzen entgegenwirken
+k&#246;nnten und dem einzelnen B&#252;rger wieder die Hoheit &#252;ber seine Daten
+erm&#246;glichen?  
+Wenn ja, wie konkret, und wie kann die Bundesregierung unterst&#252;tzend 
+wirksam werden ?
+35. Welche regulatorischen Rahmenbedingungen m&#252;ssen sich nach Ansicht der 
+Bundesregierung &#228;ndern, um jeweils den Einsatz von DLT zu erm&#246;glichen? 
+a) Welche Gesetzesinhalte und Verordnungen hat die Bundesregierung 
+schon ganz konkret identifiziert, die einem Einsatz von DLT
+entgegenstehen? 
+b) Kamen Unternehmen, Verb&#228;nde und andere Organisationen auf die
+Bundesregierung zu (formell oder informell) und baten, Gesetze zu &#228;ndern, 
+die dem Einsatz von DLT-Anwendungen im Wege stehen?  
+Wenn ja, welche konkreten Gesetzes&#228;nderungen wurden gew&#252;nscht?  
+Wie ist jeweils die Antwort der Bundesregierung ausgefallen, ob eine
+Gesetzes&#228;nderung m&#246;glich und angedacht ist? 
+c) Was gedenkt die Bundesregierung diesbez&#252;glich zu unternehmen?  
+Sind beispielsweise schon Gesetzes&#228;nderungen in Planung?  
+Wenn ja, wie sieht der Zeitplan aus? 
+d) Werden solche identifizierten Gesetzesinhalte zentral koordiniert?  
+Wenn ja, wer &#252;bernimmt die Koordination?  
+Oder arbeitet jedes Bundesministerium f&#252;r sich?  
+Besch&#228;ftigt sich mit dieser Fragestellung eine Arbeitsgruppe?  
+Wenn nein, ist der Einsatz einer solchen Arbeitsgruppe geplant? 
+e) Welche &#196;nderungen m&#252;ssen im europ&#228;ischen Recht vorgenommen
+werden, um jeweils den Einsatz von DLT zu erm&#246;glichen?  
+Ist die Bundesregierung hierzu mit europ&#228;ischen Institutionen und
+anderen EU-Mitgliedstaaten im Gespr&#228;ch?  
+Wenn ja, wie sieht der Sachstand aus, und welche Zeitpl&#228;ne gibt es ggf. 
+schon konkret, europ&#228;isches Recht f&#252;r den Einsatz von DLT anzupassen? 
+Berlin, den 10. Juli 2018 
+Christian Lindner und Fraktion
+ 
+ 
+ 
+ 
+ 
+Satz: Satzweiss.com Print, Web, Software GmbH, Mainzer Stra&#223;e 116, 66121 Saarbr&#252;cken, www.satzweiss.com 
+Druck: Printsystem GmbH, Schafw&#228;sche 1-3, 71296 Heimsheim, www.printsystem.de 
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de 
+ISSN 0722-8333]</text>
+    <titel>Distributed Ledger Technologie - Nutzung der Blockchain-Technologie f&#252;r die Vereinfachung von Verwaltungsakten</titel>
+    <datum>2018-07-11</datum>
+  </document>
+  

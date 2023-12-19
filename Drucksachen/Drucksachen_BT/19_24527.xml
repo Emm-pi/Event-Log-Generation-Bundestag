@@ -1,0 +1,582 @@
+<document>
+    <id>247652</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/24527</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>daf9522eaf65d2acb3d40e0eab067edf</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>269539</id>
+      <titel>Technische Voraussetzungen f&#252;r einen hohen Nutzwert der elektronischen Patientenakte von Anfang an</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium f&#252;r Gesundheit</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/245/1924527.pdf</pdf_url>
+      <id>247652</id>
+      <dokumentnummer>19/24527</dokumentnummer>
+      <datum>2020-11-20</datum>
+      <verteildatum>2020-11-26</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Antwort
+der Bundesregierung
+auf die Kleine Anfrage der Abgeordneten Maria Klein-Schmeink,
+Dr. Konstantin von Notz, Dr. Kirsten Kappert-Gonther, weiterer Abgeordneter und 
+der Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN
+&#8211; Drucksache 19/24103 &#8211;
+Technische Voraussetzungen f&#252;r einen hohen Nutzwert der elektronischen 
+Patientenakte von Anfang an
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Die elektronische Patientenakte (ePA) wird, auch vor dem Hintergrund eines 
+weitgehenden jahrelangen Stillstands bei der Digitalisierung des
+Gesundheitswesens, f&#252;r viele Menschen der erste unmittelbare Ber&#252;hrungspunkt mit 
+einem sich digitalisierenden Gesundheitswesen werden. Aus Sicht der
+fragestellenden Fraktion kann die ePA ein zentraler Baustein werden, um die
+Versorgung der von Patientinnen und Patienten zu verbessern und ihnen die 
+Hoheit &#252;ber die eigenen Daten zu geben. Aus diesem Grund ist es sehr zu
+begr&#252;&#223;en, dass es nunmehr einen gesetzlich zugesicherten Anspruch auf die ePA 
+und ihre Bef&#252;llung durch die Leistungserbringerinnen und Leistungserbringer 
+gibt. Die Wahrung der notwendigen Grundvoraussetzungen von Transparenz, 
+Datenschutz und IT-Sicherheit sind hierf&#252;r ebenso notwendig und
+sicherzustellen, wie eine folgende schrittweise Erweiterung des Funktionsumfangs der 
+ePA und eine Steigerung ihres Nutzwertes f&#252;r alle relevanten Akteurinnen und 
+Akteure. Allerdings steht zu bef&#252;rchten, dass ein allzu abgespeckter
+Funktionsumfang in Kombination mit unzureichenden Rahmenvoraussetzungen
+dazu f&#252;hrt, dass viele Versicherte keinen pers&#246;nlichen Nutzen in der ePA
+erkennen bzw. wahrnehmen k&#246;nnen. So ist unter anderem die fl&#228;chendeckende
+Ausstattung von Praxen und Krankenh&#228;usern mit PTV-4-Konnektoren, die f&#252;r die 
+Bef&#252;llung der ePA notwendig sind, noch immer nicht gesichert (https://www.h
+andelsblatt.com/politik/deutschland/digitale-medizin-spahns-fristen-fuer-das-g
+esundheitsdatennetz-sind-bedroht/25858398.html). Dar&#252;ber hinaus ist unklar, 
+ob und inwieweit die Softwaresysteme in den Arztpraxen (PVS) zum 1.
+Januar 2021 &#252;berhaupt bereit f&#252;r die Implementierung der ePA sind (https://backgr
+ound.tagesspiegel.de/gesundheit/epa-zum-start-kaum-anschlussfaehig). Fehlen 
+diese Voraussetzungen, haben die Patientinnen und Patienten zwar zum 1.
+Januar 2021 rechtlich einen Anspruch auf eine ePA, der ihnen dann jedoch 
+faktisch verwehrt bleibt, wenn die Leistungserbringerinnen und
+Leistungserbringer dort keinerlei Daten einstellen und einsehen k&#246;nnen. Das w&#252;rde die 
+ePA auf die Funktion einer pers&#246;nlichen Cloud der Versicherten reduzieren 
+und die n&#246;tige Akzeptanz der Nutzerinnen und Nutzer von vornherein massiv 
+gef&#228;hrden.
+Deutscher Bundestag Drucksache 19/24527
+19. Wahlperiode 20.11.2020
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums f&#252;r Gesundheit vom 19. November 
+2020 &#252;bermittelt.
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext.
+V o r b e m e r k u n g  d e r  B u n d e s r e g i e r u n g
+Die elektronische Patientenakte (ePA) als Kernelement der digitalen
+medizinischen Anwendungen bietet mit Blick auf die aktuellen und zuk&#252;nftigen
+Herausforderungen im Gesundheitswesen gro&#223;e Chancen zur Gew&#228;hrleistung einer 
+effizienten und qualitativ hochwertigen Gesundheitsversorgung der
+Versicherten.
+Die ePA ist eine eigene Akte f&#252;r Versicherte, die sie selbst verwalten k&#246;nnen. 
+Sie schafft Transparenz in der Gesundheitsversorgung und erm&#246;glicht den
+Austausch von Informationen, insbesondere zu Befunden, Diagnosen,
+Therapiema&#223;nahmen und Behandlungsberichten, zwischen Versicherten, ihren
+&#196;rztinnen und &#196;rzten, Apothekerinnen und Apothekern sowie weiteren
+Leistungserbringern. Welche Dokumente in der ePA gespeichert werden und wer welche 
+Informationen einsehen darf, entscheiden allein die Versicherten.
+Die in der ePA gespeicherten Informationen bieten eine wichtige Grundlage
+daf&#252;r, dass &#196;rztinnen und &#196;rzte, Apothekerinnen und Apotheker sowie weitere 
+Leistungserbringer einen besseren &#220;berblick &#252;ber Gesundheitszustand und 
+Krankengeschichte der Versicherten erhalten.
+Durch die bessere Verf&#252;gbarkeit der medizinischen Daten kann die ePA f&#252;r die 
+Therapieentscheidung der Leistungserbringer einen wesentlichen Mehrwert 
+leisten. Zeitaufwendige, medizinisch belastende und kostenintensive
+Mehrfachuntersuchungen k&#246;nnen vermieden und mehr Zeit f&#252;r die individuelle
+Betreuung der Versicherten gewonnen werden. Auch die Versicherten selbst werden 
+besser &#252;ber ihre Gesundheitsdaten informiert, indem vielf&#228;ltig eingehende
+Informationen aus unterschiedlichen Quellen des Gesundheitswesens einfach und 
+transparent zug&#228;nglich sowie an einem zentralen Ort geb&#252;ndelt werden.
+Als bislang gr&#246;&#223;tes medizinisches IT-Infrastrukturprojekt im deutschen
+Gesundheitswesen mit der Vernetzung von ca. 200.000 Leistungserbringern sowie 
+potentiell 73 Millionen Versicherten stellt die Einf&#252;hrung der ePA einen
+herausfordernden Gesamtprozess f&#252;r alle Beteiligten dar. In diesem Kontext erfolgt 
+die Einf&#252;hrung in einem Stufenprozess (siehe die Antwort der Bundesregierung 
+auf die Fragen 1 bis 3). Hierbei ist es wichtig, im Rahmen einer Testphase das 
+Zusammenspiel der Komponenten planm&#228;&#223;ig zu testen und anschlie&#223;end
+kontrolliert mit dem Rollout zu beginnen, sodass bis zum 30. Juni 2021 die an der 
+vertrags&#228;rztlichen Versorgung teilnehmenden Leistungserbringer an die ePA 
+angeschlossen sind.
+&#8199;1. Werden nach Kenntnis der Bundesregierung bis zum 1. Januar 2021 die 
+Hersteller von Praxisverwaltungssystemen (PVS) fl&#228;chendeckende
+Updates f&#252;r die PVS bereitstellen k&#246;nnen, sodass die elektronische
+Patientenakte von allen &#196;rztinnen und &#196;rzten mit Daten bef&#252;llt werden kann?
+&#8199;2. Welche Ma&#223;nahmen plant die Bundesregierung f&#252;r den Fall, dass
+fl&#228;chendeckende Updates f&#252;r PVS nicht zum 1. Januar 2021 zur Verf&#252;gung 
+stehen werden (bitte konkrete Schritte mit genauen zeitlichen Angaben 
+versehen)?
+&#8199;3. Wie will die Bundesregierung die Erf&#252;llung des gesetzlichen Anspruchs 
+der Versicherten nach &#167; 349 Absatz 1 des F&#252;nften Buches
+Sozialgesetzbuch (SGB V) gew&#228;hrleisten, sollten bis zum 1. Januar 2021 nicht
+ausreichend zugelassene PTV-4-Konnektoren oder entsprechende Updates 
+der PVS zur Verf&#252;gung stehen?
+Die Fragen 1 bis 3 werden aufgrund des Sachzusammenhangs gemeinsam
+beantwortet.
+Die Einf&#252;hrung der ePA wird planm&#228;&#223;ig zum 1. Januar 2021 gem&#228;&#223; einem 
+Stufenkonzept starten. Die ePA der Krankenkassen wird als erste Stufe zum 
+1. Januar 2021 f&#252;r Versicherte zum Download zur Verf&#252;gung stehen. Dies 
+bietet die Grundlage daf&#252;r, dass Versicherte ihre pers&#246;nlichen
+Gesundheitsinformationen in die ePA einstellen und dort verwalten k&#246;nnen.
+Zugleich beginnt mit der zweiten Stufe ab 1. Januar 2021 eine umfangreiche 
+Test- und Einf&#252;hrungsphase mit ausgew&#228;hlten Arztpraxen und
+Krankenh&#228;usern. Die Grundlage f&#252;r diese Testphase ist, dass die ePA der Krankenkassen im 
+Live-Betrieb sind. Dies erm&#246;glicht erst die finale Testung im Gesamtsystem 
+des deutschen Gesundheitswesens und ist bei einem Infrastrukturprojekt dieser 
+Gr&#246;&#223;enordnung unverzichtbar. Die Konnektorhersteller werden sich planm&#228;&#223;ig 
+an dieser Testphase beteiligen. Ziel ist es, den Teilnehmerkreis bereits w&#228;hrend 
+der Testphase auf der Leistungserbringerseite kontinuierlich zu erweitern.
+Nach erfolgter Testphase und finaler Zulassung beginnt dann die dritte Stufe in 
+Form der fl&#228;chendeckenden Vernetzung der ePA. Entsprechend der
+bestehenden gesetzlichen Vorgaben m&#252;ssen &#196;rztinnen und &#196;rzte sowie Zahn&#228;rztinnen 
+und Zahn&#228;rzte bis zum 1. Juli 2021 &#252;ber die f&#252;r den Zugriff auf die ePA
+erforderlichen Komponenten und Dienste verf&#252;gen.
+Die Updates der Praxisverwaltungssysteme der &#196;rztinnen und &#196;rzte,
+Zahn&#228;rztinnen und Zahn&#228;rzte sowie Psychotherapeutinnen und Psychotherapeuten
+sowie der Konnektoren werden gem&#228;&#223; dem Stufenkonzept zur Verf&#252;gung stehen. 
+Die Erf&#252;llung des gesetzlichen Anspruchs der Versicherten nach &#167; 349
+Absatz 1 des F&#252;nften Buches Sozialgesetzbuch (SGB V) folgt ebenfalls dem 
+Stufenmodell.
+&#8199;4. Wie viele Stammzertifikate in den Konnektoren laufen in den
+kommenden f&#252;nf Jahren nach Kenntnis der Bundesregierung aus (bitte pro Jahr 
+angeben)?
+Die genaue Anzahl ist der Bundesregierung nicht bekannt. Nach einer
+Sch&#228;tzung der Gesellschaft f&#252;r Telematik verteilen sich die Ablaufdaten der
+Zertifikate der gSMC-Ks der Konnektoren wie folgt:
+Jahr Prozentualer Anteil der gSMC-K-
+Zertifikate, die in dem aufgef&#252;hrten 
+Jahr ablaufen
+2021 0
+2022 (ab September) 8 %
+2023 31 %
+2024 29 %
+2025 32 %
+&#8199;5. Welche technische L&#246;sung gibt es nach Kenntnis der Bundesregierung 
+f&#252;r die Aktualisierung der Stammzertifikate in den Konnektoren (bitte 
+konkret darstellen)?
+Die Gesellschaft f&#252;r Telematik analysiert derzeit verschiedene technische
+L&#246;sungen, mit denen ein Konnektoraustausch mit Ablauf der Zertifikate
+vermieden werden kann. In die Analyse wird das Bundesamt f&#252;r Sicherheit in der 
+Informationstechnik eng eingebunden.
+&#8199;6. Wann werden die PTV-4-Konnektoren nach Kenntnis der
+Bundesregierung ihre endg&#252;ltige Zulassung erhalten?
+Nach dem aktuellen Planungsstand der Industrie werden PTV-4-Konnektoren 
+sp&#228;testens zum 1. Januar 2021 f&#252;r die Test- und Einf&#252;hrungsphase auf Basis 
+einer Feldtestzulassung zur Verf&#252;gung stehen. Final zugelassene Konnektoren 
+werden entsprechend dem Verlauf des Feldtests und der Zertifizierung erwartet.
+&#8199;7. Wie viele Hersteller werden nach Kenntnis der Bundesregierung zum 
+1. Januar 2021 zugelassene PTV-4-Konnektoren anbieten k&#246;nnen?
+Auf Basis der Planungen der Industrie ist davon auszugehen, dass zum 
+1. Januar 2021 mindestens zwei Konnektorhersteller einen PTV-4 Konnektor 
+auf Basis einer Feldtestzulassung zur Verf&#252;gung stellen werden.
+&#8199;8. In welchem Entwicklungsstadium befinden sich nach Kenntnis der
+Bunderegierung alternative Zugangsm&#246;glichkeiten f&#252;r
+Leistungserbringerinnen und Leistungserbringer zur Telematikinfrastruktur (TI), und wann 
+rechnet die Bundesregierung mit der Marktreife entsprechender
+Anwendungen?
+Die M&#246;glichkeit f&#252;r Leistungserbringer, Zugang zur den Anwendungen der 
+Telematikinfrastruktur (TI) mit einem Zukunftskonnektor oder
+Zukunftskonnektordienst zu erhalten, befindet sich derzeit in der Konzeption. Dazu
+geh&#246;rt u. a. eine umfassende Pr&#252;fung, mit welchen Mechanismen die notwendige 
+Sicherheit, kurze Entwicklungszyklen f&#252;r Innovationen sowie eine
+fr&#252;hestm&#246;gliche sowie stabile Bereitstellung der Zug&#228;nge erreicht werden kann. Das 
+Bundesministerium f&#252;r Gesundheit hat im Referentenentwurf des Digitale 
+Versorgung- und Pflege-Modernisierungs-Gesetzes (DVPMG) vorgesehen, 
+dass der Zukunftskonnektor oder Zukunftskonnektordienst durch die
+Gesellschaft f&#252;r Telematik zum 30. Juni 2022 spezifiziert und ab dem 1. Januar 2023 
+verf&#252;gbar sein muss.
+&#8199;9. Wie sollen nach Ansicht der Bundesregierung alternative
+Zugangsm&#246;glichkeiten f&#252;r Leistungserbringerinnen und Leistungserbringer,
+beispielsweise Software- oder Cloud-basierte L&#246;sungen, zur TI technisch konkret 
+umgesetzt werden?
+Die technische Ausgestaltung alternativer Zugangsm&#246;glichkeiten f&#252;r
+Leistungserbringer zu den Anwendungen der TI obliegt der Gesellschaft f&#252;r
+Telematik, welche zurzeit verschiedene Alternativen evaluiert. Im &#220;brigen wird auf 
+die Antwort zu Frage 8 verwiesen.
+10. Mit welchen Pr&#252;f- und Zertifizierungsverfahren soll nach Kenntnis der 
+Bundesregierung sichergestellt werden, dass die alternativen
+Zugangsm&#246;glichkeiten den geltenden Anforderungen des Datenschutzes und der 
+IT-Sicherheit gen&#252;gen?
+Die Ausgestaltung der Pr&#252;f- und Zertifizierungsverfahren wird abh&#228;ngig von 
+der Ziell&#246;sung sein.
+Alle Pr&#252;f- und Zertifizierungsverfahren werden im Einvernehmen mit dem 
+Bundesamt f&#252;r Sicherheit in der Informationstechnik festgelegt.
+11. Setzt die Gematik nach Kenntnis der Bundesregierung f&#252;r alternative
+Zugangsm&#246;glichkeiten f&#252;r Leistungserbringerinnen und Leistungserbringer 
+zur TI auf ein Marktmodell?
+Da sich die alternativen Zugangsm&#246;glichkeiten f&#252;r Leistungserbringer derzeit 
+in der Konzeptionsphase bei der Gesellschaft f&#252;r Telematik befindet, kann dazu 
+noch keine Aussage getroffen werden.
+12. Anhand welcher Kriterien wurde die Priorisierung k&#252;nftiger Funktionen 
+der ePA in &#167; 342 SGB V vorgenommen?
+13. Stand die Bundesregierung zur Entwicklung dieser Kriterien im
+Austausch mit Vertreterinnen und Vertretern von Patientenverb&#228;nden, und 
+wenn ja mit welchen, in welchem Zeitraum, und mit welchem Ergebnis?
+14. Anhand welcher Kriterien bestimmt die Bundesregierung zuk&#252;nftige 
+Funktionalit&#228;ten f&#252;r die ePA?
+15. Bezieht sich die Bundesregierung bei der Bestimmung zuk&#252;nftiger
+Funktionalit&#228;ten f&#252;r die ePA auf externen Sachverstand?
+Wenn ja, wer ber&#228;t die Bundesregierung zu diesem Zweck?
+16. Folgt die Bestimmung zuk&#252;nftiger Funktionalit&#228;ten f&#252;r die ePA einem 
+strukturierten Prozess?
+Wenn ja, welche Schritte enth&#228;lt dieser Prozess?
+Die Fragen 12 bis 16 werden aufgrund des Sachzusammenhangs gemeinsam 
+beantwortet.
+Der Gesetzgeber hat Rahmenbedingungen vorgegeben, welche bei der
+Definition und Weiterentwicklung von Fachanwendungen wie der ePA zu
+ber&#252;cksichtigen sind. Die gesetzlichen Rahmenbedingungen f&#252;r die ePA in &#167; 342 SGB V 
+wurden im Wesentlichen durch das Patientendaten-Schutzgesetz (PDSG)
+festgelegt. Im Rahmen des Gesetzgebungsverfahrens wurden auch die betroffenen 
+Verb&#228;nde angeh&#246;rt.
+Die konkrete fachliche und technische Konzeption einer Fachanwendung wie 
+der ePA obliegt der Gesellschaft f&#252;r Telematik. Zur Erf&#252;llung dieser Aufgabe 
+bindet die Gesellschaft f&#252;r Telematik die Selbstverwaltungsorganisationen des 
+Gesundheitswesens, den Beirat der Gesellschaft f&#252;r Telematik sowie den
+Bundesbeauftragten f&#252;r den Datenschutz und die Informationsfreiheit (BfDI) und 
+das BSI eng ein. Im Beirat der Gesellschaft f&#252;r Telematik sind die
+wesentlichen, von der Einf&#252;hrung der Telematikinfrastruktur betroffenen,
+gesellschaftlichen Gruppierungen vertreten. Zudem steht die Gesellschaft f&#252;r Telematik 
+fortlaufend im engen Austausch mit Patientenvertreterorganisationen,
+Leistungserbringerorganisationen, Forschungseinrichtungen, Industrieverb&#228;nden 
+und gegebenenfalls weiteren f&#252;r die Erf&#252;llung der jeweiligen Aufgaben
+notwendigen Organisationen. Verst&#228;rkt werden au&#223;erdem Fokusgruppen genutzt.
+Die Umsetzung der Anwendung ePA &#252;bernehmen die Krankenkassen bzw.
+deren Dienstleister, die wiederum auch im engen Austausch mit ihren
+Versicherten stehen.
+17. Plant die Bundesregierung die Einf&#252;hrung eines Versichertenfrontends 
+f&#252;r PC-Endger&#228;te als Erg&#228;nzung zu den bestehenden Zug&#228;ngen zur ePA?
+a) Wenn ja, f&#252;r wann ist ein solcher Zugang vorgesehen?
+b) Wenn nein, wieso nicht?
+18. Plant die Bundesregierung, die ePA perspektivisch um
+Kommunikationsfunktionen zu erweitern, die z. B. die Vereinbarung von Terminen oder 
+eine behandlungsbezogene Kommunikation zwischen Patientinnen und 
+Patienten und den Leistungserbringerinnen und Leistungserbringern
+erm&#246;glichen?
+Die Fragen 17 und 18 werden aufgrund des Sachzusammenhangs gemeinsam 
+beantwortet.
+Das Bundesministerium f&#252;r Gesundheit hat im Referentenentwurf des DVPMG 
+vorgesehen, dass die Krankenkassen bis zum 1. Januar 2022 zugelassene
+Softwarekomponenten f&#252;r station&#228;re Endger&#228;te der Versicherten wie PCs zum
+Auslesen der Daten aus der ePA und das Erteilen von Zugriffsberechtigungen f&#252;r 
+die ePA zur Verf&#252;gung stellen m&#252;ssen.
+Im DVPMG ist dar&#252;ber hinaus vorgesehen, dass die ePA ab dem 1. Januar 2023 
+um einen Sofortnachrichtendienst (Messenger) zur Kommunikation zwischen 
+Leistungserbringern und Versicherten erweitert wird. Die Nutzung dieses 
+Sofortnachrichtendienstes muss aber auch unabh&#228;ngig der Nutzung der ePA
+erm&#246;glicht werden.
+19. Plant die Bundesregierung, die ePA perspektivisch um Funktionalit&#228;ten 
+zu erweitern, die &#8211; bei entsprechender Einwilligung der Patientinnen und 
+Patienten &#8211; eine Kommunikation zwischen Angeh&#246;rigen von Pflege- und 
+Gesundheitsberufen unter Bezugnahme auf die Inhalte der ePA
+erm&#246;glichen?
+a) Falls ja, welche Pl&#228;ne existieren hierzu seitens der Bundesregierung?
+b) Falls nein, warum nicht?
+Die Fragen 19 bis 19b werden gemeinsam beantwortet.
+Eine Kommunikation zwischen Angeh&#246;rigen der Pflege- und anderen
+Gesundheitsberufen ist bereits mittels der Anwendung Kommunikation im
+Medizinwesen (KIM) m&#246;glich. Mit dem PDSG wurden die Zugriffsrechte f&#252;r die ePA 
+dahingehend erweitert, dass u. a. auch Pflegeberufe Zugriff auf die ePA und 
+andere Anwendungen der TI erhalten k&#246;nnen (vgl. &#167;&#167; 352 Nummer 9 bis 12, 
+359 SGB V).
+Durch die ePA wird &#8211; u. a. durch die M&#246;glichkeit der Vergabe von zeitlich
+befristeten Zugriffsberechtigungen ohne direkte Anwesenheit der Versicherten &#8211; 
+ein Berechtigungskonzept unterst&#252;tzt, dass auch eine Kommunikation zwischen 
+Angeh&#246;rigen der Pflege- und anderen Gesundheitsberufen in Bezug auf Inhalte 
+der ePA erm&#246;glicht.
+20. Plant die Bundesregierung, dass Versicherte perspektivisch auch
+Mitarbeiterinnen und Mitarbeitern einer f&#252;r den &#214;ffentlichen
+Gesundheitsdienst zust&#228;ndigen Beh&#246;rde Zugriffsrechte auf ihre ePA einr&#228;umen
+k&#246;nnen?
+a) Falls ja, welche Pl&#228;ne existieren hierzu seitens der Bundesregierung?
+b) Falls nein, warum nicht?
+Die Fragen 20 bis 20b werden gemeinsam beantwortet.
+Um mit der ePA den gr&#246;&#223;tm&#246;glichen medizinischen Nutzen f&#252;r die
+Versicherten zu erzielen, k&#246;nnen mit Einwilligung der Versicherten auch &#196;rztinnen und 
+&#196;rzte, die bei einer f&#252;r den &#214;ffentlichen Gesundheitsdienst zust&#228;ndigen
+Beh&#246;rde t&#228;tig sind, auf die ePA zugreifen, soweit der Zugriff f&#252;r die Erf&#252;llung der 
+dem &#214;ffentlichen Gesundheitsdienst zugewiesenen Aufgaben erforderlich ist. 
+Nur auf dieser Grundlage und unter der Voraussetzung, dass der Zugriff unter 
+Aufsicht einer &#196;rztin oder eines Arztes erfolgt, k&#246;nnen auch weitere
+Mitarbeiterinnen und Mitarbeiter einer f&#252;r den &#214;ffentlichen Gesundheitsdienst
+zust&#228;ndigen Beh&#246;rde auf die ePA zugreifen. Die entsprechenden Zugriffsrechte und 
+-voraussetzungen wurden mit dem PDSG geregelt (&#167; 352 Nummer 16 und 17 
+SGB V).
+21. Plant die Bundesregierung perspektivisch eine Verkn&#252;pfung der ePA 
+bzw. des Versichertenfrontends mit dem nationalen Gesundheitsportal 
+gesund.bund.de?
+Wenn ja, in welcher Form, und ab wann soll die Verkn&#252;pfung zur
+Verf&#252;gung stehen?
+Mit dem digitalen Portal gesund.bund.de informiert das Bundesministerium f&#252;r 
+Gesundheit zu relevanten Gesundheitsthemen. Hier sind fachlich gepr&#252;fte
+Informationen zu Krankheiten und zu Vorsorge- und Pflegethemen aufrufbar. Das 
+Portal wird nachhaltig das Wissen um Gesundheit steigern sowie die
+Gesundheitskompetenz der Menschen und die Patientensouver&#228;nit&#228;t st&#228;rken.
+Zurzeit wird gepr&#252;ft, ob Versicherte zuk&#252;nftig die M&#246;glichkeit erhalten k&#246;nnen, 
+aus der ePA heraus wissenschaftlich fundierte und neutrale Informationen 
+direkt aus dem Nationalen Gesundheitsportal aufzurufen.
+22. Welche Ma&#223;nahmen plant die Bundesregierung, um den Start der ePA 
+am 1. Januar 2021 medial zu begleiten und f&#252;r Vertrauen und Akzeptanz 
+in das digitale Angebot bei Versicherten sowie Angeh&#246;rigen von Pflege- 
+und Gesundheitsberufen zu sorgen?
+23. Welche Ma&#223;nahmen plant die Bundesregierung, um die Versicherten 
+leicht verst&#228;ndlich &#252;ber die Funktionalit&#228;ten sowie
+Datenschutzvoraussetzungen der ePA zu informieren?
+Wie viele Personen sollen im Bundesinstitut f&#252;r Arzneimittel und
+Medizinprodukte (BfArM) im nationalen Kompetenzzentrum f&#252;r
+medizinische Terminologien eingesetzt werden (bitte in Vollzeit&#228;quivalenten
+angeben)?
+Die Fragen 22 und 23 werden aufgrund des Sachzusammenhangs gemeinsam 
+beantwortet.
+Die Aufgabe der Kommunikation zur Einf&#252;hrung der ePA wird in erster Linie 
+durch die Institutionen der Selbstverwaltung wahrgenommen. Insbesondere die
+gesetzlichen Krankenkassen werden die Einf&#252;hrung der ePA im Rahmen ihrer 
+allgemeinen Informationst&#228;tigkeit kommunikativ begleiten.
+In &#167; 343 SGB V ist bereits ausdr&#252;cklich geregelt, dass die Krankenkassen den 
+Versicherten umfassendes, geeignetes Informationsmaterial &#252;ber die ePA in 
+pr&#228;ziser, transparenter, verst&#228;ndlicher und leicht zug&#228;nglicher Form in einer 
+klaren und einfachen Sprache und barrierefrei zur Verf&#252;gung stellen m&#252;ssen, 
+bevor sie ihnen eine ePA anbieten. Dazu geh&#246;ren z. B. Informationen &#252;ber die 
+Funktionsweise der ePA, die Freiwilligkeit der Einrichtung, alle Umst&#228;nde der 
+Datenverarbeitung sowie das Zugriffsmanagement der ePA. Das
+Informationsmaterial ist vom Spitzenverband Bund der Krankenkassen im Einvernehmen 
+mit dem BfDI zu erstellen. Die Gesellschaft f&#252;r Telematik unterst&#252;tzt die
+Kommunikationsma&#223;nahmen der Selbstverwaltung.
+Im Bundesinstitut f&#252;r Arzneimittel und Medizinprodukte (BfArM) stehen f&#252;r 
+die Bereitstellung von Klassifikationen und Terminologien bisher 11,7
+Vollzeit&#228;quivalente plus der Teamleitung zur Verf&#252;gung. Basierend auf einer rationalen 
+Personalbedarfssch&#228;tzung f&#252;r den Ausbau zum nationalen Kompetenzzentrum 
+wurden weitere 10,5 Vollzeit&#228;quivalente beantragt.
+24. Wie viele Personen sind im BfArM mit Aufgaben im Rahmen des
+Verzeichnisses nach &#167; 139e SGB V befasst?
+Wie viele Personen sind davon f&#252;r die Pr&#252;fung der Antr&#228;ge auf
+Aufnahme in das Verzeichnis zust&#228;ndig (bitte beides in Vollzeit&#228;quivalenten 
+angeben)?
+Im BfArM erfolgt die prim&#228;re Bearbeitung und Koordination der Aufgaben im 
+Zusammenhang mit dem Verzeichnis nach &#167; 139e SGB V im Fachgebiet 96 
+(DiGA-Fast-Track), in dem derzeit f&#252;nf Personen (f&#252;nf Vollzeit&#228;quivalente) 
+eingesetzt sind. Das Fachgebiet 96 wird bei der Aufgabenwahrnehmung von 
+Mitarbeiterinnen und Mitarbeitern anderer Abteilungen, wie der Abteilung 
+Medizinprodukte, den Zulassungsabteilungen, den Bereichen Fachrecht und 
+Datenschutz, der Biostatistik oder dem Innovationsb&#252;ro unterst&#252;tzt, die jeweils 
+bedarfsorientiert eingebunden werden.
+25. Wie viele Antr&#228;ge liegen dem BfArM aktuell f&#252;r die Aufnahme digitaler 
+Gesundheitsanwendungen in das Verzeichnis nach &#167; 139e SGB V vor?
+Wie gro&#223; ist der Anteil an Antr&#228;gen auf eine vorl&#228;ufige Aufnahme nach 
+&#167; 139e Absatz 4 SGB V?
+Dem BfArM liegen derzeit 21 Antr&#228;ge von Herstellern digitaler
+Gesundheitsanwendungen zur Bearbeitung vor (Stand: 6. November 2020). Davon sind 
+acht Antr&#228;ge auf eine dauerhafte Aufnahme und 13 Antr&#228;ge auf eine Aufnahme 
+in das Verzeichnis f&#252;r digitale Gesundheitshandanwendungen zur Erprobung 
+gerichtet.
+26. Welche konkreten Schritte enth&#228;lt die Pr&#252;fung auf Aufnahme in das
+Verzeichnis nach &#167; 139e SGB V durch das BfArM?
+Das Verfahren zur Aufnahme in das Verzeichnis f&#252;r digitale
+Gesundheitsanwendungen ist durch die Regelungen des &#167; 139e SGB V sowie der Digitale-
+Gesundheitsanwendungen-Verordnung (DiGAV) vorgegeben.
+Das BfArM entscheidet nach &#167; 139e Absatz 3 und 4 SGB V &#252;ber den Antrag 
+eines Herstellers innerhalb von drei Monaten nach Eingang der vollst&#228;ndigen
+Antragsunterlagen durch Bescheid. Nach Eingang des Antrages pr&#252;ft das 
+BfArM nach &#167; 16 DiGAV innerhalb von 14 Tagen zun&#228;chst, ob die
+Antragsunterlagen formal vollst&#228;ndig sind. Im Fall von unvollst&#228;ndigen
+Antragsunterlagen fordert das BfArM den Hersteller unter Nennung der fehlenden
+Unterlagen und Angaben auf, den Antrag innerhalb einer Frist von bis zu drei
+Monaten zu erg&#228;nzen. Liegen nach Ablauf der Frist keine vollst&#228;ndigen
+Antragsunterlagen vor, hat das BfArM den Antrag durch Bescheid abzulehnen.
+Der Antrag des Herstellers muss dabei die nach &#167; 139e Absatz 2 SGB V und 
+&#167; 2 DiGAV vorgesehenen Angaben und Inhalte enthalten. Unabh&#228;ngig von der 
+Frage einer Aufnahme zur Erprobung oder einer unmittelbaren dauerhaften 
+Aufnahme ist der Nachweis der Erf&#252;llung der Anforderungen an Datenschutz, 
+Datensicherheit, Sicherheit, Funktionstauglichkeit und Qualit&#228;t zu f&#252;hren.
+Nach &#167; 3 Absatz 1 DiGAV gilt der Nachweis der Sicherheit und
+Funktionstauglichkeit, vorbehaltlich des Absatzes 2, durch die CE-
+Konformit&#228;tskennzeichnung des Medizinproduktes grunds&#228;tzlich als erbracht. Aus begr&#252;ndetem
+Anlass darf das BfArM nach Absatz 2 zus&#228;tzliche Pr&#252;fungen vornehmen. Hierzu 
+kann es von dem Hersteller der digitalen Gesundheitsanwendung die Vorlage 
+der erforderlichen Unterlagen, insbesondere die f&#252;r das
+Konformit&#228;tsbewertungsverfahren notwendigen Erkl&#228;rungen und Bescheinigungen, verlangen. Bei 
+der Antragsbewertung pr&#252;ft das BfArM im Rahmen seines gesetzlichen
+Auftrags und nach den Vorgaben der Datenschutz-Grundverordnung sowie &#167;&#167; 4 bis 
+6 DiGAV u. a. die Angaben des Herstellers zur Erf&#252;llung der Anforderungen an 
+Sicherheit, Funktionstauglichkeit, Qualit&#228;t, Datenschutz und
+Informationssicherheit. Eine eigene technische &#220;berpr&#252;fung der Umsetzung der Angaben 
+durch das BfArM ist in der DiGAV derzeit nicht vorgesehen.
+Ist der Antrag auf unmittelbare dauerhafte Aufnahme in das Verzeichnis f&#252;r 
+digitale Gesundheitsanwendungen gerichtet, bewertet das BfArM nach &#167; 13 
+DiGAV im Rahmen einer Abw&#228;gungsentscheidung, ob positive
+Versorgungseffekte hinreichend nachgewiesen sind. Zum Nachweis hat der Hersteller nach 
+&#167; 10 DiGAV mindestens eine retrospektive vergleichende Studie vorzulegen. 
+Ist eine (methodische) Vergleichbarkeit im Wege einer retrospektiven
+Betrachtung nicht herstellbar, so muss der positive Versorgungseffekt mittels einer 
+prospektiven Vergleichsstudie dargelegt werden. Die Abw&#228;gungsentscheidung 
+ber&#252;cksichtigt die zu erwartenden positiven wie negativen Effekte auf
+Grundlage der vorliegenden Erkenntnisse insbesondere unter Ber&#252;cksichtigung der 
+Besonderheiten der Indikation, des Risikos der digitalen
+Gesundheitsanwendung und der vorhandenen oder nicht vorhandenen Versorgungsalternativen. 
+Insbesondere bei vulnerablen Patientengruppen oder Anwendungen, die ein
+inh&#228;rent hohes Risiko durch den eigentlichen Therapieansatz bergen k&#246;nnen, 
+m&#252;ssen die Studiendaten im besonderen Ma&#223;e methodisch belastbar sein.
+Ist der Antrag des Herstellers demgegen&#252;ber zun&#228;chst auf Aufnahme zur
+Erprobung gerichtet, hat der Hersteller dem Antrag neben den Nachweisen nach 
+&#167; 139e Absatz 2 Satz 2 Nummer 1 und 2 SGB V eine plausible Begr&#252;ndung des 
+Beitrags der digitalen Gesundheitsanwendung zur Verbesserung der
+Versorgung, auf Basis einer systematischen Datenauswertung erster Daten zur
+Anwendung der digitalen Gesundheitsanwendung, und ein von einer
+herstellerunabh&#228;ngigen Institution erstelltes wissenschaftliches Evaluationskonzept zum 
+Nachweis positiver Versorgungseffekte beizuf&#252;gen. Diese Unterlagen und 
+Nachweise werden vom BfArM bewertet. Das BfArM pr&#252;ft nach &#167; 17 DiGAV, 
+ob die mit dem Antrag eingereichte Begr&#252;ndung nach &#167; 14 DiGAV plausibel 
+sowie das Evaluationskonzept nach &#167; 15 DiGAV f&#252;r eine vorl&#228;ufige Aufnahme 
+ausreichend sind. Sofern hierzu noch Unterlagen und Angaben fehlen, kann das 
+BfArM diese unter Setzung einer Frist vom Hersteller nachfordern. Im
+Bescheid nach &#167; 139e Absatz 3 Satz 1 und Absatz 4 SGB V verpflichtet das
+BfArM den Hersteller zum Nachweis der positiven Versorgungseffekte und 
+regelt das N&#228;here zu den entsprechenden erforderlichen Nachweisen.
+Nach abgeschlossener Bewertung erstellt das BfArM einen entsprechenden 
+Bescheid, der u. a. auch Informationen zu den erforderlichen &#228;rztlichen oder 
+psychotherapeutischen Leistungen enth&#228;lt, die mit der Anwendung der
+digitalen Gesundheitsanwendung verbunden sind. Die digitale
+Gesundheitsanwendung wird bei positiver Bescheidung im Verzeichnis nach &#167; 139e SGB V mit 
+umfangreichen Informationen zu den Produkteigenschaften ver&#246;ffentlicht.
+27. Erh&#228;lt das BfArM im Rahmen seiner Pr&#252;fung Testversionen von
+digitalen Gesundheitsanwendungen, die einen Antrag auf Aufnahme in das 
+Verzeichnis nach &#167; 139e SGB V gestellt haben?
+28. Erh&#228;lt das BfArM im Rahmen seiner Pr&#252;fung Zugang zum vollst&#228;ndigen 
+Funktionsumfang von digitalen Gesundheitsanwendungen, die einen 
+Antrag auf Aufnahme in das Verzeichnis nach &#167; 139e SGB V gestellt 
+haben?
+Die Fragen 27 und 28 werden aufgrund des Sachzusammenhangs gemeinsam 
+beantwortet.
+Der Hersteller der digitalen Gesundheitsanwendung ist nach &#167; 2 Absatz 4 
+DiGAV verpflichtet, dem BfArM den Zugang zu einer Testversion mit
+vollst&#228;ndigem Funktionsumfang zu erm&#246;glichen. Die zur Testzwecken &#252;berlassene
+Anwendung muss identisch mit der Anwendung sein, die in das Verzeichnis f&#252;r 
+digitale Gesundheitsanwendungen aufgenommen werden soll.
+29. Aus welchen Gr&#252;nden wurde die von der Bundesregierung gef&#246;rderte 
+Studie &#8222;Zugang mobiler Gesundheitstechnologien zur Gesetzlichen 
+Krankenversicherung (ZuTech.GKV)&#8220; der Universit&#228;t Bielefeld bislang 
+nicht ver&#246;ffentlicht, obwohl die Abschlusstagung bereits am 15. Februar 
+2019 stattgefunden hat (vgl. https://www.uni-bielefeld.de/gesundhw/ag5/
+aktuelles/Presseeinladung-ZuTech.GKV_online.pdf)?
+Ein Abschlussbericht zum Projekt &#8222;Zugang mobiler Gesundheitstechnologien 
+zur gesetzlichen Krankenversicherung (ZuTech.GKV)&#8220; ist bislang aus
+Kapazit&#228;tsgr&#252;nden im Kontext umfangreicher Gesetzgebungsarbeiten sowie der
+Pandemiebek&#228;mpfungsma&#223;nahmen nicht ver&#246;ffentlicht worden. Dies wird in
+Abstimmung mit dem Zuwendungsempf&#228;nger zeitnah nachgeholt.
+30. Welche Geb&#252;hren fallen nach Kenntnis der Bundesregierung f&#252;r die 
+&#220;bertragung von digitalen Gesundheitsanwendungen (DiGAs) &#252;ber die 
+App-Stores von Apple und Google an?
+31. Hat die Bundesregierung Gespr&#228;che mit Apple und/oder Google &#252;ber die 
+Kosten der &#220;bertragung von DiGAs in den jeweiligen App-Stores
+gef&#252;hrt?
+a) Wenn ja, mit welchem Ergebnis?
+b) Wenn nein, wieso nicht, und sind entsprechende Gespr&#228;che (ggf. in 
+welchem Zeitrahmen) noch geplant?
+Die Fragen 30 und 31 werden aufgrund des Sachzusammenhangs gemeinsam 
+beantwortet.
+Digitale Gesundheitsanwendungen werden an die Versicherten im Wege der 
+Sachleistung abgegeben. Es besteht kein Zahlungsverkehr zwischen dem
+Hersteller einer digitalen Gesundheitsanwendung und den Versicherten. Vielmehr 
+erfolgt die Nutzung aufgrund einer von den Krankenkassen als Kostentr&#228;ger 
+bereitgestellten Freischaltcodes. Nach Kenntnis des Bundesministeriums f&#252;r 
+Gesundheit fallen f&#252;r die Nutzung der Vertriebsplattformen der Betreiber der 
+Betriebssysteme f&#252;r die Hersteller im Kontext der Leistungsgew&#228;hrung im 
+Wege des Sachleistungsprinzips bisher keine Geb&#252;hren an.
+32. Wie will die Bundesregierung den Konflikt zwischen den
+datenschutzrechtlichen Anforderungen des Bundesbeauftragten f&#252;r den Datenschutz 
+und die Informationsfreiheit (BfDI, vgl. https://www.bfdi.bund.de/DE/In
+fothek/Pressemitteilungen/2020/20_BfDI-zu-PDSG.html) und den 
+gesetzlichen Anforderungen nach &#167; 342 Absatz 1 Satz 1 SGB V
+ausr&#228;umen, sodass die Krankenkassen zum 1. Januar 2021 ihren
+Versicherten eine ePA zur Verf&#252;gung stellen k&#246;nnen?
+33. Steht die Bundesregierung aktuell im Austausch mit dem
+Bundesbeauftragten f&#252;r den Datenschutz und die Informationsfreiheit (BfDI) und/oder 
+den Landesbeauftragten f&#252;r den Datenschutz und die Informationsfreiheit 
+(LfDI) zu den Bedenken des BfDI (s. o.)?
+34. Aus welchen Gr&#252;nden hat sich die Bundesregierung nicht bereits im 
+April 2018, als sie erstmals Kenntnis &#252;ber die konkrete Ausgestaltung 
+der Zugriffsrechte erhielt (vgl. Schriftliche Frage 96 auf
+Bundestagsdrucksache 19/12849), f&#252;r ein differenzierteres
+Berechtigungsmanagement in der ePA schon zum Start eingesetzt?
+Die Fragen 32 bis 34 werden aufgrund des Sachzusammenhangs gemeinsam 
+beantwortet.
+Die Bundesregierung teilt die Bedenken des BfDI nicht. Datenschutz und 
+Datensicherheit haben neben dem Patientenwohl bei der Ausgestaltung der ePA 
+im PDSG von Beginn an eine herausragende Rolle gespielt. Der
+Regierungsentwurf des PDSG wurde von den Verfassungsressorts (Bundesministerium der 
+Justiz und f&#252;r Verbraucherschutz sowie Bundesministerium des Innern, f&#252;r Bau 
+und Heimat) rechtlich umfassend, insbesondere auch auf dessen Vereinbarkeit 
+mit &#252;bergeordnetem Recht, gepr&#252;ft. Auch der BfDI war fortlaufend in die
+fachlichen Diskussionen eingebunden und hat ma&#223;geblich an der Erarbeitung der 
+Regelungen im Gesetzentwurf zum PDSG mitgewirkt. Dies betrifft zum
+Beispiel auch die technischen Vorgaben (Spezifikationen) der ePA durch die
+Gesellschaft f&#252;r Telematik.
+Die Regelungen zur ePA sind gemessen an den Anforderungen der
+Datenschutz-Grundverordnung (DSGVO) bereits mit ihrem Start ab dem 1. Januar 
+2021 auch ohne ein differenziertes sog. feingranulares Rollen- und
+Rechtemanagement datenschutzkonform ausgestaltet. Ein wichtiges Kriterium hierf&#252;r ist 
+die Ausgestaltung der ePA als freiwillige Anwendung, &#252;ber deren
+Funktionsweise die Krankenkassen umfassend informieren m&#252;ssen. Das ausdr&#252;cklich 
+normierte Diskriminierungsverbot in &#167; 335 SGB V in der Fassung des PDSG 
+gew&#228;hrleistet zudem eine echte Wahlfreiheit. Die Behandlung durch die
+Leistungserbringer darf nicht etwa vom Vorhandensein einer ePA bzw. von einer 
+Zugriffserteilung auf die ePA abh&#228;ngig gemacht werden.
+Die Einf&#252;hrung der ePA erfolgt stufenweise. Ab dem 1. Januar 2021 wird in der 
+ersten Umsetzungsstufe f&#252;r die Versicherten die M&#246;glichkeit geschaffen,
+umfassende medizinische Informationen im Rahmen ihrer pers&#246;nlichen
+medizinischen Behandlung bereitzustellen und durch eine bessere Verf&#252;gbarkeit dieser 
+Daten die Therapieentscheidung der sie mit- und weiterbehandelnden
+&#196;rztinnen und &#196;rzte zu unterst&#252;tzen. Das technisch aufw&#228;ndigere feingranulare
+Berechtigungskonzept folgt zum 1. Januar 2022. Somit steht die ePA bereits 2021 
+all den Versicherten zur Verf&#252;gung, die diese auch ohne die M&#246;glichkeit der
+Erteilung feingranularer Zugriffsrechte schon nutzen m&#246;chten.
+Das Bundesministerium f&#252;r Gesundheit befindet sich in einem kontinuierlichen 
+fachlichen Austausch mit dem BfDI, der seinerseits im Austausch mit den
+Landesbeauftragten f&#252;r den Datenschutz steht. Dar&#252;ber hinaus ist das
+Bundesministerium f&#252;r Gesundheit hierzu auch mit dem Spitzenverband Bund der 
+Krankenkassen und den Aufsichtsbeh&#246;rden der Krankenkassen in Bund und 
+L&#228;ndern in Gespr&#228;chen. Diesen ist insbesondere nach &#167; 16 Absatz 1 des
+Bundesdatenschutzgesetzes (BDSG) Gelegenheit zur Stellungnahme vor
+datenschutzrechtlichen Ma&#223;nahmen zu geben.
+Die Ank&#252;ndigungen des BfDI stehen dem Starttermin der ePA nicht entgegen, 
+weil den gesetzlichen Krankenkassen ein Zeitraum bis zum 31. Dezember 2021 
+f&#252;r die Umsetzung des sog. feingranularen Zugriffsmanagements einger&#228;umt 
+wird. Dieses ist ohnehin zum 1. Januar 2022 im PDSG verpflichtend f&#252;r die 
+Krankenkassen vorgesehen. Die Krankenkassen k&#246;nnten gegen etwaige
+aufsichtsrechtliche Ma&#223;nahmen eigene Rechtsmittel mit aufschiebender Wirkung 
+einlegen.
+35. Plant die Bundesregierung, eine Strategie f&#252;r die Digitalisierung des
+Gesundheitswesens vorzulegen, und wenn ja, wann?
+Das Bundesministerium f&#252;r Gesundheit hat mit dem Innovationsforum
+&#8222;Digitale Gesundheit 2025&#8220; mit allen Akteuren des Gesundheitswesens Chancen, 
+Potenziale und Ziele der Digitalisierung in einem diskursiven Format er&#246;rtert 
+sowie in einem Ergebnisbericht ver&#246;ffentlicht (https://www.bundesgesundheits
+ministerium.de/service/publikationen/gesundheit/details.html?bmg%5Bpubid%
+5D=3386). Dabei ist es das Ziel der Bundesregierung, die Versorgung der
+Versicherten durch Digitalisierung im Versorgungsalltag durch konkrete
+Ma&#223;nahmen zu verbessern.
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/24103 -
+Technische Voraussetzungen f&#252;r einen hohen Nutzwert der elektronischen Patientenakte von Anfang an</titel>
+    <datum>2020-11-20</datum>
+  </document>
+  

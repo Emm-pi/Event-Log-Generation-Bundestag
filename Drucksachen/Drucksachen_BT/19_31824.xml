@@ -1,0 +1,638 @@
+<document>
+    <id>256943</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/31824</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>c6a8c21187a4003e3caaf1584baa6a91</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>279198</id>
+      <titel>Digitale Schiene - Stand und Probleme beim European Rail Traffic Management System und der digitalen automatischen Kupplung</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium f&#252;r Verkehr und digitale Infrastruktur</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/318/1931824.pdf</pdf_url>
+      <id>256943</id>
+      <dokumentnummer>19/31824</dokumentnummer>
+      <datum>2021-07-29</datum>
+      <verteildatum>2021-08-05</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Antwort
+der Bundesregierung
+auf die Kleine Anfrage der Abgeordneten Victor Perli, Sabine Leidig,
+Dr. Gesine L&#246;tzsch, weiterer Abgeordneter und der Fraktion DIE LINKE.
+&#8211; Drucksache 19/30742 &#8211;
+Digitale Schiene &#8211; Stand und Probleme beim European Rail Traffic Management
+System und der digitalen automatischen Kupplung
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+&#220;ber das neue digitale Zugleitsystem European Rail Traffic Management
+System (ERTMS) mit dem European Train Control System (ETCS) und digitalen 
+Stellwerken will die Deutsche Bahn AG (DB AG) &#8222;bis zu 35 Prozent mehr 
+Kapazit&#228;t im deutschen Netz, h&#246;here Qualit&#228;t und P&#252;nktlichkeit, weniger 
+Kosten in der Instandhaltung und im Betrieb&#8220; erreichen (&#8222;Deutsche Bahn 
+gr&#252;ndet Gesellschaft zur Digitalisierung des Schienennetzes&#8220;, 23. September 
+2019, https://www.deutschebahn.com).
+Eine Machbarkeitsstudie von McKinsey f&#252;r das Bundesministerium f&#252;r
+Verkehr und digitale Infrastruktur (BMVI) empfahl 2018 eine komplette
+Digitalisierung bis 2040, inzwischen wird von der DB 2035 angestrebt (&#8222;Bahn
+will Stellwerke bis 2035 digitalisieren&#8220;, Wirtschaftswoche 2. September
+2020, https://www.wiwo.de). Aktuell werden einige &#8211; vor allem
+grenz&#252;berschreitende &#8211; Bahnstrecken und Bahnh&#246;fe &#8211; vor allem der Knoten Stuttgart &#8211; 
+digitalisiert, gef&#246;rdert durch ein &#8222;Starterpaket&#8220; und ein
+&#8222;Schnelll&#228;uferprogramm&#8220;.
+Allerdings ist nach Auffassung der Fragestellenden zweifelhaft, ob ERTMS 
+die versprochene Wirkung hat. Die Schweizer Bundesbahnen (SBB), die 
+schon deutlich weiter mit der ETCS-Ausr&#252;stung sind als die DB, &#228;u&#223;erten 
+2016: &#8222;Der 2011 erwartete Nutzen von ETCS Level 2 bez&#252;glich Kapazit&#228;t,
+Sicherheit und Kosten kann heute nicht best&#228;tigt werden.&#8220; (&#8222;ETCS und ATO&#8220;, 
+LocoFolio 2019/1, S. 11, https://www.vslf.com). Zudem hat es in der Schweiz 
+mindestens eine gravierende Fehlfunktion gegeben (&#8222;SBB entdeckt Fehler bei 
+der Zugsicherung und ergreift Sofortma&#223;nahmen&#8220;, 19. Juli 2019, https://news.
+sbb.ch). Schlie&#223;lich scheint die EU-weite Interoperabilit&#228;t bisher nicht
+gegeben (&#8222;Wie weiter mit ETCS und ATO?&#8220;, LocoFolio 1/2020, S. 42, https://ww
+w.vslf.com).
+Die digitale automatische Kupplung ist ein zweites wichtiges Feld der
+Digitalisierung. Sie soll die Kapazit&#228;t des G&#252;terverkehrs laut einer Studie f&#252;r das 
+Bundesverkehrsministerium um bis zu 40 Prozent steigern und f&#252;r
+Deutschland einen j&#228;hrlichen Nutzen von 205 Mio. bis 295 Mio. Euro generieren 
+(&#8222;Schlussbericht: &#8222;Erstellung eines Konzeptes f&#252;r die EU-weite Migration ei-
+Deutscher Bundestag Drucksache 19/31824
+19. Wahlperiode 29.07.2021
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums f&#252;r Verkehr und digitale
+Infrastruktur vom 29. Juli 2021 &#252;bermittelt.
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext.
+nes Digitalen Automatischen Kupplungssystems (DAK) f&#252;r den
+Schieneng&#252;terverkehr&#8220;, 19. Juni 2020, https://www.bmvi .de). Da eine automatische 
+Kupplung aber schon einmal in den 70er-Jahren eingef&#252;hrt werden sollte 
+(http://www.automatische-mittelpufferkupplung.de), stellt sich die Frage, ob 
+diesmal die Einf&#252;hrung gelingt.
+V o r b e m e r k u n g  d e r  B u n d e s r e g i e r u n g
+Mit der Einf&#252;hrung des European Train Control System (ETCS) hat
+Deutschland ab dem Jahr 2015 begonnen. Grundstein ist die Ausr&#252;stung des
+transeurop&#228;ischen Korridors Rhein-Alpen (Rhine-Alpine) sowie von sieben
+Grenz&#252;berg&#228;ngen mit ETCS.
+Vor einer Entscheidung der Bundesregierung &#252;ber die weitere Ausr&#252;stung des 
+bundeseigenen Schienennetzes hat das Bundesministerium f&#252;r Verkehr und
+digitale Infrastruktur (BMVI) im Jahr 2018 in einer Machbarkeitsstudie die
+technischen und wirtschaftlichen Vorteile einer Umstellung der gesamten Leit- und 
+Sicherungstechnik des bundeseigenen Schienennetzes auf digitale Stellwerke 
+(DSTW) und ETCS bis 2040 pr&#252;fen lassen. Danach entsteht ein wirtschaftlich 
+positiver Gesamtnutzen auch gegen&#252;ber Alternativen. Daher empfahl der
+Gutachter die fl&#228;chendeckende Ausr&#252;stung mit ETCS und DSTW.
+Zum Einstieg in die fl&#228;chendeckende Ausr&#252;stung mit ETCS und DSTW wurde 
+ein Starterpaket beschlossen, welches die Infrastrukturausr&#252;stung auf dem 
+transeurop&#228;ischen Korridor &#8222;Skandinavien-Mittelmeer&#8220;, auf der
+Schnellfahrstrecke K&#246;ln-Rhein/Main und im Digitalen Knoten Stuttgart (Metropolregion, 
+S-Bahn-Stammstrecke und Umland) sowie Beschleunigungsma&#223;nahmen
+umfasst. Die Ma&#223;nahmen des Starterpakets sollen bis zum Jahr 2030 umgesetzt 
+werden, Stuttgart bis Ende 2025. Au&#223;erdem wird die Fahrzeugausr&#252;stung mit 
+ETCS im Rahmen eines Modellvorhabens f&#252;r den Digitalen Knoten Stuttgart 
+gef&#246;rdert.
+Dieses Starterpaket wird in den kommenden Jahren durch eine
+netzbezirksweise Ausr&#252;stung des &#252;brigen Netzes mit ETCS und DSTW erg&#228;nzt. Die
+Ausr&#252;stung der Netzbezirke wird unter Ber&#252;cksichtigung unterschiedlicher Kriterien, 
+z. B. Lage der Transeurop&#228;ischen Korridore, verkehrliche Bedeutung der
+Strecken, Alter der Stellwerke und weiteren Kriterien stattfinden.
+Eine Mehrfachausr&#252;stung mit alter und neuer Technik soll dabei auf den
+geringst m&#246;glichen zeitlichen, r&#228;umlichen und wirtschaftlichen Umfang
+beschr&#228;nkt werden.
+ETCS und DSTW schaffen die Grundlage f&#252;r weitere Ma&#223;nahmen zur
+Digitalisierung des Bahnbetriebs.
+Die digitale automatische Kupplung (DAK) ist eine Schl&#252;sseltechnologie und 
+z&#228;hlt zu den strategischen Ma&#223;nahmen, um den Schieneng&#252;terverkehr (SGV) 
+zu digitalisieren, effizienter und wettbewerbsf&#228;higer zu machen. Mit der
+Einf&#252;hrung der DAK werden erstmals die
+Voraussetzungen f&#252;r eine durchgehende Energieversorgung und sichere
+Datenkommunikation entlang des gesamten G&#252;terzugs geschaffen. Sie ist damit
+Basisinnovation f&#252;r neue Telematikanwendungen und andere Innovationen im
+Bereich der Digitalisierung und Automatisierung im SGV.
+Die DAK war auch ein zentrales Thema im Rahmen der deutschen EU-
+Ratspr&#228;sidentschaft. Ihre EU-weite Migration mit dem Ziel einer
+weitreichenden Um- und Ausr&#252;stung von G&#252;terwagen wird bis zum Jahr 2030 angestrebt, 
+da die Einf&#252;hrung der DAK die Unterst&#252;tzung aller EU-Mitgliedstaaten
+ben&#246;tigt.
+&#8199;1. Welche Strecken im deutschen Schienennetz wurden nach Kenntnis der 
+Bundesregierung aktuell mit welcher Version von ETCS ausger&#252;stet oder 
+befinden sich in Ausr&#252;stung (bitte tabellarische Auflistung der
+Streckenabschnitte mit L&#228;nge, Level und Baseline sowie Jahr der Fertigstellung 
+oder aktuellen Planungs- bzw. Ausr&#252;stungsstand angeben)?
+&#8199;2. Wie viele Kilometer Schiene im deutschen Schienennetz waren nach 
+Kenntnis der Bundesregierung jeweils zum Jahresende in den letzten 
+zehn Jahren mit ETCS ausger&#252;stet, und wie viele sind es aktuell?
+Die Fragen 1 und 2 werden aufgrund ihres Sachzusammenhangs gemeinsam 
+beantwortet.
+Nach Auskunft der Deutschen Bahn AG (DB AG) wurden bislang 340
+Streckenkilometer mit ETCS ausger&#252;stet. Die nachfolgende Tabelle zeigt die
+ausger&#252;steten Strecken:
+Strecke ETCSLevel
+Inbetriebnahme/
+Fertigstellung L&#228;nge in km
+VDE 8.2 
+(Erfurt-Halle/
+Leipzig)
+L2 12/2015 126
+VDE 8.1 
+(N&#252;rnberg-
+Erfurt)
+L2 12/2017 113
+Knoten Erfurt
+(u. a.
+Einbindung VDE 8.1 / 
+8.2)
+L2 05/2016 und 11/2018 14
+ABS Erfurt-
+Eisenach L2 12/2018 67
+Schweizer
+Grenzbetriebsstrecken
+(Anteil
+deutsches
+Streckennetz)
+L1 LS 08/2019 21
+Dar&#252;ber hinaus werden im Rahmen des Bedarfsplans (Neu- und
+Ausbauprojekte) bei gesicherter Finanzierung im Zeitraum von 2021 bis 2025 folgende 
+ETCS-Projekte geplant und realisiert. Alle hier aufgef&#252;hrten Strecken sind bzw. 
+werden mit der ETCS Baseline 3 ausger&#252;stet:
+Neben der dem Bedarfsplan zugeordneten ETCS-Ausr&#252;stung wurde im Jahr 
+2015 anl&#228;sslich des Umsetzungsbeginns der 1. Stufe des European Deployment 
+Plans (EDP) eine Finanzierungsvereinbarung zwischen dem Bund und der DB 
+AG &#252;ber die ETCS-Ausr&#252;stung weiterer Streckenabschnitte abgeschlossen. 
+Diese Finanzierungsvereinbarung sieht derzeit die nachfolgend genannten 
+Grenz&#252;berg&#228;nge, Grenzanschlussstrecken und L&#252;ckenschl&#252;sse sowie den
+deutschen Anteil des TEN-Korridors Rhein-Alpen f&#252;r eine Realisierung einer 
+ETCS-Ausr&#252;stung vor:
+Zus&#228;tzlich zu den f&#252;r eine Realisierung einer ETCS-Ausr&#252;stung vorgesehenen 
+Abschnitten sind in dieser Finanzierungsvereinbarung folgende weitere
+Abschnitte zur Planung einer ETCS-Ausr&#252;stung enthalten:
+Die DB AG erarbeitet die weitere Umr&#252;stplanung, auf deren Grundlage die
+Bereitstellung entsprechender Bundesmittel gepr&#252;ft wird. Im Digitalen Knoten 
+Stuttgart sollen 125 km Strecke bis zum Jahr 2025 mit ETCS ausger&#252;stet
+werden.
+&#8199;3. Liegt nach Kenntnis der Bundesregierung die im &#8222;European Deployment 
+Plan&#8220; (https:// e c .eu r o p a .eu) bzw. im &#8222;Nationalen Umsetzungsplan 
+ETCS&#8220; vom 11. Dezember 2017 (https://www.eba.bund.de) f&#252;r
+Deutschland geplante Umr&#252;stung von TEN-Korridoren und Grenz&#252;berg&#228;ngen im 
+Plan, und wird es bis 2023 gelingen, alles wie vereinbart umzur&#252;sten 
+bzw. zu planen?
+Wenn nein, wo kam oder kommt es zu welchen Verz&#246;gerungen?
+Die im EDP bzw. &#8222;Nationalen Umsetzungsplan ETCS&#8220; geplanten Umr&#252;stungen 
+von Strecken auf ETCS k&#246;nnen nach Auskunft der DB AG voraussichtlich 
+nicht alle bis 2023 abgeschlossen werden. Hierf&#252;r nennt die DB AG u. a.
+folgende Gr&#252;nde:
+&#8226; technische Probleme bei der Umr&#252;stung vorhandener Stellwerke (teilweise 
+nicht umr&#252;stbar, technischer Zustand),
+&#8226; Planungs&#228;nderungen durch nachtr&#228;gliche &#196;nderungen des Levels oder der 
+Baseline,
+&#8226; Abh&#228;ngigkeiten von der Umsetzung benachbarter Projekte,
+&#8226; &#196;nderungen in den Technischen Spezifikationen f&#252;r die Interoperabilit&#228;t 
+(TSI ZZS),
+&#8226; bei Grenz&#252;berg&#228;ngen Planungs&#228;nderungen in den Nachbarstaaten,
+&#8226; Bauzeitbeschr&#228;nkungen durch Naturschutzbeh&#246;rden.
+Die Bundesregierung steht bez&#252;glich der Notifizierung und Priorisierung in 
+Verhandlungen mit der EU.
+&#8199;4. Konnten nach Kenntnis der Bundesregierung die von der DB AG f&#252;r 
+2020 vorgesehenen Strecken (&#8222;ETCS-Ausr&#252;stung in Deutschland im Jahr 
+2020&#8220;, https://fahrweg.dbnetze.com) alle wie geplant mit ETCS
+ausger&#252;stet werden?
+Es wird auf den Infrastrukturzustands- und -entwicklungsbericht f&#252;r das Jahr 
+2020 (IZB 2020) verwiesen (abrufbar unter: https://www.eba.bund.de/DE/The
+men/Finanzierung/LuFV/IZB/izb_node.html) und die Webseite der DB Netz 
+AG verwiesen (abrufbar unter: https://fahrweg.dbnetze.com/fahrweg-de/kunde
+n/nutzungsbedingungen/etcs/etcs_programm-migration/Operative-Umsetzung-
+2836196). Nach Auskunft der DB AG wurde das Projekt &#8222;ABS Berlin-Dresden 
+1.Baustufe&#8220; im Jahr 2020 in Betrieb genommen.
+&#8199;5. Haben nach Kenntnis der Bundesregierung die Planungen f&#252;r den Trans-
+EuropExpress 2.0 Folgen f&#252;r die Umsetzung der ETCS-Ausr&#252;stung, zum 
+Beispiel dadurch, dass bestimmte Strecken vorgezogen werden (bitte die 
+Ver&#228;nderungen genau auflisten)?
+Nach Auskunft der DB AG haben die Planungen f&#252;r den TransEuropExpress 
+2.0 keine Auswirkungen auf die Umsetzung der laufenden ETCS-Projekte.
+&#8199;6. Welche digitalen Stellwerke gibt es nach Kenntnis der Bundesregierung 
+bisher in Deutschland (bitte einzeln mit Zeitpunkt der Fertigstellung und 
+Operationsbereich auflisten)?
+Nach Auskunft der DB AG sind bislang drei digitale Stellwerke mit voller
+Sicherheitsverantwortung in Betrieb:
+&#8226; DSTW Annaberg-Buchholz, Hersteller Siemens, Inbetriebnahme Januar 
+2018, Stellbereich Betriebsstelle Annaberg-Buchholz S&#252;d,
+&#8226; DSTW Warnem&#252;nde, Hersteller Siemens, Inbetriebnahme September 2019 
+und Mai 2020, Stellbereich Betriebsstelle Warnem&#252;nde,
+&#8226; DSTW Donauw&#246;rth, Hersteller Thales, Inbetriebnahme November 2021, 
+Stellbereich Betriebsstelle Meitingen und Betriebsstelle Mertingen.
+&#8199;7. Liegt nach Kenntnis der Bundesregierung das digitale Stellwerk im
+Knoten Stuttgart im Zeitplan, und wenn nein, welche Verz&#246;gerungen gibt es?
+Bis wann soll das Stellwerk voll funktionsf&#228;hig sein?
+Nach Auskunft der DB AG liegt die Errichtung des Stellwerks im Zeitplan. Die 
+Inbetriebnahme erfolgt in Stufen und wird f&#252;r die Bausteine 1 und 2 des
+Digitalen Knotens Stuttgart zeitgerecht bis Dezember 2025 abgeschlossen.
+&#8199;8. Wie stellt sich nach Kenntnis der Bundesregierung der Umsetzungsstand 
+zu ERTMS in den &#252;brigen teilnehmenden Staaten jeweils konkret dar, 
+und wie sehen nach Kenntnis der Bundesregierung die jeweiligen
+Zeitpl&#228;ne aus?
+Der ERTMS-Koordinator der EU-Kommission hat zum Stand der Umsetzung 
+in den einzelnen L&#228;ndern im Mai 2020 einen Umsetzungsplan ver&#246;ffentlicht 
+(abrufbar unter: https://ec.europa.eu/transport/sites/default/files/work_plan_ert
+ms_2020.pdf).
+&#8199;9. Wie viel Geld ist nach Kenntnis der Bundesregierung dieses Jahr bisher 
+aus dem Titel 891 06-742 &#8222;Ausr&#252;stung der deutschen Infrastruktur und 
+von rollendem Material mit dem Europ&#228;ischen Zugsicherungssystem 
+ERTMS (European Rail Traffic Management System)&#8220; verwendet
+worden (bitte nach einzelnen Unterprojekten aufschl&#252;sseln)?
+Von 1. Januar 2021 bis zum 31. M&#228;rz 2021 (Buchungsschluss Mai 2021)
+wurden nach Auskunft der DB AG Bundesmittel in H&#246;he von 36,84 Mio. Euro aus 
+dem ERTMS-Haushaltstitel abgerufen. Die Kosten entstanden im Wesentlichen 
+bei den Projekten im Bau auf dem Korridor Rhein-Alpen f&#252;r ETCS L1 LS, 
+ETCS L2, ESTW und GSM-R und f&#252;r die ETCS-Ausr&#252;stung Flensburg-
+Maschen, ETCS L2 Dresden Hbf(a)-Sch&#246;na-Grenze D/CZ, ETCS-Ausr&#252;stung
+Grenze Passau, ETCS Erkner-Seddin, ETCS Grenze Polen &#8211; Frankfurt/Oder &#8211; 
+Erkner.
+Ferner wurden die Planungen f&#252;r nachstehend genannte Vorhaben mit
+Bundesmitteln vorfinanziert:
+ESTW Krefeld 3. BS u. ETCS Venlo-Viersen, ESTW Stolberg, ETCS Aachen 
+Hbf.-K&#246;ln-Ehrenfeld L2, ETCS L2 Rommerskirchen-Ehrenfeld, ETCS Grenze-
+Aachen West und Grenze, ESTW M&#246;nchengladbach, ETCS L&#252;ckenschluss 
+VDE 8/9 Leipzig-Riesa, ETCS Schirnding &#8211; Grenze (1. BS EDP), ETCS-
+Ausr&#252;stung Grenze Passau (mit CEF), ETCS Knoten N&#252;rnberg, ETCS Passau 
+Hbf &#8211; Feucht Bf (ausschl.), ETCS Schirnding-Marktredwitz (2. BS EDP), 
+ETCS Knoten Ingolstadt, ETCS L&#252;ckenschluss Berliner Ring und ETCS-
+Ausr&#252;stung &amp; STW-Erneuerung Frankfurt/Oder.
+10. Wird die Bundesregierung &#252;ber den Knoten Stuttgart hinaus die
+Ausr&#252;stung von Fahrzeugen aus dem Titel 891 06-742 f&#246;rdern (bitte
+begr&#252;nden)?
+Die Bundesregierung f&#246;rdert die ETCS-Umr&#252;stung von Fahrzeugen als
+Modellvorhaben im Zusammenhang mit dem Starterpaketprojekt &#8222;Digitaler
+Knoten Stuttgart&#8220;. Dar&#252;ber hinaus ist keine F&#246;rderung der ETCS-Umr&#252;stung von 
+Fahrzeugen geplant.
+11. Ist nach Kenntnis der Bundesregierung rechtlich abschlie&#223;end gekl&#228;rt, ob 
+die F&#246;rderung der ETCS-Ausr&#252;stung von Fahrzeugen mit dem
+Bundesschienenwegeausbaugesetz vereinbar ist?
+Aus welchem Grund ist diese Vereinbarkeit gegeben bzw. nicht gegeben?
+Nach dem Bundesschienenwegeausbaugesetz finanziert der Bund Investitionen 
+in die Schienenwege der Eisenbahnen des Bundes. Die Investitionen umfassen 
+Bau, Ausbau sowie Ersatzinvestitionen der Schienenwege der Eisenbahnen des 
+Bundes.
+12. Wie begegnet die Bundesregierung dem Problem, dass nach
+Informationen der Fragesteller Nahverkehrsbesteller aktuell nicht wissen, wann
+genau eine Ausr&#252;stung mit ETCS sinnvollerweise in Ausschreibungen
+verlangt werden muss und wer sie finanziert?
+Ist die Bundesregierung bereit, vor allem in der &#220;bergangsphase mit
+wenigen ETCS-Strecken die fahrzeugseitige Ausr&#252;stung komplett zu
+finanzieren?
+Die Planung zur Ausr&#252;stung des bundeseigenen Schienennetzes mit ETCS und 
+DSTW wird nach Auskunft der DB AG erarbeitet. Nach Auskunft der DB AG 
+soll die Umr&#252;stplanung im Herbst 2021 den Eisenbahnverkehrsunternehmen 
+und Aufgabentr&#228;gern des Sektors vorliegen. Das Vorgehen und der Zeitpunkt 
+sind mit den Beteiligten abgestimmt.
+13. Ist aus Sicht der Bundesregierung eine doppelte Ausr&#252;stung der
+Fahrzeuge mit ETCS und herk&#246;mmlicher Signaltechnik (punktf&#246;rmige bzw. 
+linienf&#246;rmige Zugbeeinflussung) einer doppelten Ausr&#252;stung der Gleise 
+klar vorzuziehen, und wenn ja, worin kommt dies beim Roll-out zum 
+Ausdruck?
+Im Rahmen einer vom BMVI beauftragten Machbarkeitsstudie wurde ermittelt, 
+dass eine Doppelausr&#252;stung der Schieneninfrastruktur wirtschaftlich nicht
+sinnvoll ist. Dies wird im Rahmen der Umr&#252;stplanung ber&#252;cksichtigt.
+14. Warum nutzt die Bundesregierung keine Mittel aus dem EU-Programm 
+&#8222;Next Generation EU&#8220;, um &#252;ber den Deutschen Aufbau- und
+Resilienzplan (DARP) zus&#228;tzliche Mittel f&#252;r ETCS bereitzustellen?
+Die Bundesregierung hat im Rahmen des Deutschen Aufbau- und
+Resilienzplans Mittel in H&#246;he von 500 Mio. Euro f&#252;r das Schnelll&#228;uferprogramm zur 
+Beschleunigung des Rollouts der Digitalen Schiene Deutschland vorgesehen.
+15. Ist die Kostensch&#228;tzung von 31,7 Mrd. Euro von McKinsey f&#252;r das 
+Bundesministerium f&#252;r Verkehr und digitale Infrastruktur (BMVI; 
+&#8222;Machbarkeitsstudie zum Rollout von ETCS/DSTW&#8220;, Dezember 2018, 
+https://www.bmvi.de) nach Auffassung der Bundesregierung noch
+aktuell?
+Wenn nein, wie lautet eine aktuellere Kostensch&#228;tzung (bitte ggf.
+Ver&#228;nderungen der Einzelposten gegen&#252;ber der McKinsey-Studie
+spezifizieren)?
+Der Bundesregierung liegen hierzu keine weiteren eigenen Informationen vor.
+16. Ist aus Sicht der Bundesregierung das Ziel einer kompletten Umstellung 
+bis 2035 noch realistisch, obwohl beim &#8222;Schnelll&#228;uferprogramm&#8220; laut 
+Bericht des BMVI vom 14. April 2021 (Haushaltsausschussdrucksache 
+19/8544) mit den geplanten Mitteln nur sieben der urspr&#252;nglich
+geplanten 13 Projekte finanziert werden konnten?
+Ist mit dieser Erfahrung nach Auffassung der Bundesregierung zu
+erwarten, dass die gesamte Umsetzung ungef&#228;hr doppelt so teuer wird wie in 
+der Machbarkeitsstudie von McKinsey 2018 berechnet, oder von
+welchen abweichenden Gesamtkosten geht die Bundesregierung aus (bitte 
+ausf&#252;hrlich begr&#252;nden)?
+Nach der Machbarkeitsstudie des BMVI ist der Abschluss der Ausr&#252;stung des 
+bundeseigenen Schienennetzes mit ETCS und DSTW bis zum Jahr 2040
+vorgesehen. An diesem Ausbauziel h&#228;lt die Bundesregierung fest.
+Die DB AG stellt zusammen mit der Bahnindustrie vor dem Hintergrund einer 
+Absichtserkl&#228;rung vom September 2020 &#220;berlegungen f&#252;r eine
+Beschleunigung der Ausr&#252;stung bis zum Jahr 2035 an.
+17. Teilt die Bundesregierung die Einsch&#228;tzung des Verbands der
+Bahnindustrie, dass, anders als von McKinsey in der Machbarkeitsstudie gesch&#228;tzt, 
+nicht 10 000 Loks und Waggons umger&#252;stet werden m&#252;ssen, sondern 12 
+750 (&#8222;Die Zukunft der Schiene soll rasch beginnen. Umfassender
+Konzeptvorschlag: Aus- und Umr&#252;stung von Schienenfahrzeugen mit ETCS-
+Bordger&#228;ten&#8220;, S. 8, https://bahnindustrie.info) und dass 111
+Fahrzeugbaureihen eine signifikant h&#246;here Variantenzahl aufweisen (S. 54)?
+Wenn ja, geht die Bundesregierung entsprechend von mindestens 
+27,5 Prozent h&#246;heren Kosten f&#252;r die Fahrzeugumr&#252;stung gegen&#252;ber der 
+Sch&#228;tzung von McKinsey von 4 Mrd. Euro aus?
+Wenn nein, warum nicht?
+Die Machbarkeitsstudie stammt aus dem Jahr 2018. Die DB AG evaluiert diese 
+gegenw&#228;rtig.
+18. Um wie viel Prozent wurde nach Kenntnis der Bundesregierung auf den 
+bisher mit ETCS ausger&#252;steten Strecken in Deutschland die Kapazit&#228;t 
+gegen&#252;ber der herk&#246;mmlichen Signaltechnik erh&#246;ht bzw. gesenkt (bitte 
+die Strecken mit den beobachteten Effekten tabellarisch aufstellen)?
+Nach Auskunft der DB AG sind die bisherigen ETCS-Ausr&#252;stungen
+&#252;berwiegend Bestandteil des Neu- und Ausbauprojektes VDE 8 (u. a. Strecken Leipzig/
+Halle &#8211; Erfurt, Erfurt &#8211; Ebensfeld) und wurden im Rahmen von Neu-/
+Ausbauma&#223;nahmen umgesetzt. Dabei wurden die Strecken gr&#246;&#223;tenteils inklusive 
+ETCS Level 2 neu errichtet bzw. haben sich entscheidende verkehrliche
+Parameter (z. B. H&#246;chstgeschwindigkeit) und die verkehrliche Nutzung der
+Strecken deutlich ver&#228;ndert (z. B. neue Sprinterverbindung Berlin &#8211; M&#252;nchen). Ein 
+Vergleich mit herk&#246;mmlicher bzw. bisheriger Signaltechnik ist daher nicht 
+sinnvoll m&#246;glich. Gleiches gilt f&#252;r die bisher ausger&#252;steten Grenzstrecken.
+19. Stimmt die Bundesregierung der Aussage der Technikgruppe des
+Verbands Schweizer Lokomotivf&#252;hrer und Anw&#228;rter (VSLF) zu, dass ETCS 
+Level 2 die Streckenkapazit&#228;t gegen&#252;ber der herk&#246;mmlichen
+Signaltechnik um 10 Prozent verringert (&#8222;Politische Streckenkapazit&#228;t&#8220;, LocoFolio 
+2019/1, S. 10, https://www.vslf.com)?
+Wenn nein, mit welcher &#196;nderung rechnet die Bundesregierung, und
+worauf basiert diese Einsch&#228;tzung?
+21. Stimmt die Bundesregierung der Aussage der Technikgruppe des VSLF 
+zu, dass eine Erh&#246;hung der Kapazit&#228;t gegen&#252;ber der herk&#246;mmlichen 
+Signaltechnik nur mit ETCS Level 3 m&#246;glich ist und sich die
+Streckenkapazit&#228;t maximal um 20 Prozent erh&#246;hen k&#246;nnte (&#8222;Politische
+Streckenkapazit&#228;t&#8220;, LocoFolio 2019/1, S. 10, https://www.vslf.com)?
+Wenn nein, mit welcher &#196;nderung rechnet die Bundesregierung, und
+worauf basiert diese Einsch&#228;tzung?
+22. Wie positioniert sich die Bundesregierung zu der Aussage der
+Technikgruppe der VSLF zu ETCS, dass die &#8222;gro&#223;en Kosten f&#252;r die
+Beherrschung des hochkomplexen Systems&#8220; nur &#8222;ein Segen f&#252;r die Industrie&#8220;, 
+aber &#8222; Kunden und Steuerzahler&#8220; die &#8222;Geprellten&#8220; seien (&#8222;ETCS schafft 
+immer neue Probleme&#8220;, LocoFolio 2019/2, S. 45, https://www.vslf.com; 
+bitte die Einsch&#228;tzung begr&#252;nden)?
+24. Ist der Bundesregierung ein Bericht der Schweizer Bundesbahnen (SBB) 
+von 2016 bekannt, demzufolge &#8222;der 2011 erwartete Nutzen von ETCS 
+Level 2 bez&#252;glich Kapazit&#228;t, Sicherheit und Kosten [&#8230;] heute nicht
+best&#228;tigt werden&#8220; k&#246;nne (&#8222;ETCS und ATO&#8220;, LocoFolio 2019/1, S. 11, 
+https://www.vslf.com)?
+Warum erwartet die Bundesregierung vor diesem Hintergrund, dass 
+ETCS Level 2 in Deutschland mehr Nutzen bringen wird als in der 
+Schweiz?
+25. Ist der Bundesregierung die &#8222;Mitteilung des Schweizer Bundesamts f&#252;r 
+Verkehr BAV Abteilung Infrastruktur an die Unternehmen und
+Verb&#228;nde&#8220; vom 14. Februar 2019 bekannt, der zufolge die Umstellung auf 
+ETCS Level 2 langsamer als urspr&#252;nglich geplant umgesetzt wird 
+(&#8222;ETCS/GSM-R Standortbestimmung&#8220;, LocoFolio 2019/1, S. 10, https://
+www.vslf.com), und welche Konsequenzen zieht die Bundesregierung 
+daraus f&#252;r die Umstellung in Deutschland?
+26. Hat die Bundesregierung die umfangreichen Erfahrungen der Schweiz 
+mit ETCS systematisch f&#252;r die Einf&#252;hrung in Deutschland evaluiert?
+Falls ja, an welcher Stelle (bitte Ver&#246;ffentlichung angeben)?
+Falls nein, wie ist dies begr&#252;ndet?
+Die Fragen 19, 21, 22 und 24 bis 26 werden aufgrund ihres
+Sachzusammenhangs gemeinsam beantwortet.
+Mit der Einf&#252;hrung von ETCS wird die Leistungsf&#228;higkeit des Schienennetzes 
+erh&#246;ht. Im Rahmen der ETCS-Ausr&#252;stungsplanungen f&#252;hrt die DB Netz AG 
+sogenannte Eisenbahnbetriebswissenschaftliche Untersuchungen f&#252;r die
+auszur&#252;stenden Strecken durch. Dabei werden die Leistungsf&#228;higkeit der Strecken 
+vor und nach ETCS-Einf&#252;hrung bewertet und entsprechende
+Rahmenbedingungen f&#252;r die ETCS-Migration abgeleitet.
+Nach Auskunft der DB AG ist die Ausgangssituation in Deutschland anders als 
+die in der Schweiz und damit der Technikgruppe des Verbands Schweizer
+Lokomotivf&#252;hrer und Anw&#228;rter (VSLF). Nach Auskunft der DB AG unterscheidet 
+sich die Ausgangssituation insbesondere dadurch, dass die Bestandstechnik in 
+der Schweiz im Schnitt j&#252;nger und moderner ist, sodass das
+Obsoleszenzproblem geringer ist. Die Trassenkapazit&#228;t der Bestandstechnik ist h&#246;her, sodass 
+die Gewinne durch ETCS Level 2 i. V. m. Blockverdichtung geringer, bis hin 
+zu Null ausfallen. Au&#223;erdem ist die Schweiz bereits fl&#228;chendeckend mit ETCS 
+Level 1 Limited Supervision ausger&#252;stet, sodass die technische Interoperabilit&#228;t 
+nach der entsprechenden TSI bereits besteht. Externer Ausr&#252;stungsdruck durch 
+den EDP besteht nicht.
+Die Einsch&#228;tzung des VSLF zu Kosten und Nutzen wird weder von der
+Bundesregierung noch von der DB AG geteilt.
+Nach Auskunft der DB AG werden die Erfahrungen der Schweiz bez&#252;glich 
+ETCS Level 1 LS analysiert. Bez&#252;glich ETCS Level 2 sind die
+Ausgangsbedingungen der Schweiz andere als hierzulande.
+20. W&#228;re nach Auffassung der Bundesregierung eine Umr&#252;stung auf ETCS 
+Level 2 mit dem Deutschlandtakt vereinbar, sofern dadurch die
+Streckenkapazit&#228;ten tats&#228;chlich sinken w&#252;rden?
+An welchen Stellen k&#228;me es nach Einsch&#228;tzung der Bundesregierung 
+m&#246;glicherweise zu Schwierigkeiten?
+Nach Auskunft der DB AG ist die Umr&#252;stung auf ETCS mit dem
+Deutschlandtakt vereinbar. Auf einzelnen Strecken (z. B. POS Nord) ist der Fahrzeitgewinn 
+durch die ETCS-Ausr&#252;stung auch Voraussetzung f&#252;r den Deutschlandtakt. 
+Konflikte zwischen Deutschlandtakt und DSD bestehen nicht.
+23. In welchem Ausma&#223; wurden nach Kenntnis der Bundesregierung auf den 
+bisher mit ETCS ausger&#252;steten Strecken in Deutschland die Kosten
+jeweils f&#252;r den Betrieb und die Instandhaltung gegen&#252;ber der
+herk&#246;mmlichen Signaltechnik erh&#246;ht bzw. gesenkt (bitte die Strecken mit den
+beobachteten Effekten und die Angabe der Ver&#228;nderung in Euro pro Jahr 
+und in Prozent im Verh&#228;ltnis zur herk&#246;mmlichen Signaltechnik
+tabellarisch aufstellen)?
+Nach Auskunft der DB AG sind Strecken seit zu kurzer Zeit mit ETCS
+ausger&#252;stet. Es liegen noch nicht gen&#252;gend Daten f&#252;r einen Vergleich vor.
+27. Welche gravierenden und insbesondere sicherheitsrelevanten technischen 
+Probleme traten nach Kenntnis der Bundesregierung bisher auf
+deutschen oder ausl&#228;ndischen Strecken mit ETCS Level 2 auf (bitte Vorf&#228;lle 
+einzeln mit Angabe des Zeitpunkts, des Ortes, des Problems und der
+L&#246;sung f&#252;r das Problem auflisten)?
+Nach Auskunft der DB AG traten keine auf.
+28. Wertet die Bundesregierung die technischen Probleme mit ETCS aus, die 
+in anderen L&#228;ndern wie der Schweiz auftreten (siehe zum Beispiel 
+&#8222;Odometrie-Probleme ETCS&#8220;, LocoFolio 2020/2, S. 15, https://www.vsl
+f.com)?
+F&#252;r die Auswertung technischer Probleme ist die Eisenbahn-Agentur der
+Europ&#228;ischen Union zust&#228;ndig.
+29. Wann wird nach Einsch&#228;tzung der Bundesregierung ETCS Level 3
+verf&#252;gbar sein?
+Bis wann soll die Ausr&#252;stung des deutschen Bahnnetzes und der in 
+Deutschland verkehrenden Fahrzeuge damit abgeschlossen sein?
+De erforderliche Spezifikation seitens der EU liegt noch nicht vor.
+30. Trifft nach Kenntnis der Bundesregierung nach wie vor die Aussage des 
+damaligen CEO der SBB Cargo von 2019 zu, dass die Interoperabilit&#228;t 
+&#8222;momentan noch nicht gegeben&#8220; sei, weil &#8222;nach wie vor jedes Land
+eigene Regeln&#8220; habe (LocoFolio 2019/1, S. 23, https://www.vslf.com)?
+Falls nein, auf welcher Basis gelangt die Bundesregierung zu dieser
+Einsch&#228;tzung?
+Falls ja, welche Schritte &#252;bernimmt die Bundesregierung zur
+Ver&#228;nderung dieser Tatsache?
+Nach Auskunft der DB AG ist die Interoperabilit&#228;t im Rahmen der Technischen 
+Spezifikationen f&#252;r die Interoperabilit&#228;t (TSI) vorgesehenen Regeln gegeben. 
+Einige nationale Regeln k&#246;nnen noch zu technischen oder betrieblichen
+Anforderungen an die Fahrzeuge f&#252;hren. Im Rahmen der Weiterentwicklung der
+Spezifikation nimmt die European Union Agency f&#252;r Railways relevante Regeln in 
+die Spezifikation auf.
+31. Wie bewertet die Bundesregierung die aktuelle EU-weite
+Interoperabilit&#228;t von ETCS?
+Sind die bisher in Deutschland umgestellten Strecken sowohl
+untereinander als auch mit allen anderen europ&#228;ischen Strecken interoperabel, oder 
+mit welchen Strecken sind sie es nicht (bitte ggf. einzeln auflisten)?
+Eine Bewertung der Interoperabilit&#228;t in anderen Mitgliedstaaten der EU auf
+Basis der aktuellen TSI ist aufgrund des unterschiedlichen Umfangs der
+erg&#228;nzenden notifizierten nationalen technischen Vorschriften in den einzelnen
+Mitgliedstaaten nicht m&#246;glich.
+Nach Auskunft der DB AG sind bis auf die erg&#228;nzenden notifizierten
+nationalen technischen Vorschriften (notified national technical rules, NNTR) die
+Strecken der DB AG technisch interoperabel. Fahrzeuge mit der h&#246;chsten aktuellen 
+Systemversion k&#246;nnen diese Strecken befahren.
+32. Ist der heutige europ&#228;ische Bahn-Kommunikationsstandard Global
+System for Mobile Communications (GSM-R) nach Kenntnis der
+Bundesregierung im ganzen Netz der Deutschen Bahn ausreichend gut, um 
+ETCS Level 2 einsetzen zu k&#246;nnen?
+Wenn nein, wo m&#252;sste nachger&#252;stet werden, und wann soll dies
+geschehen (bitte genau Abschnitte mit L&#228;nge angeben)?
+Nach Auskunft der DB AG ist der GSM-R-Standard ausreichend f&#252;r die
+Nutzung durch ETCS Level 2. Zur Erweiterung der Kapazit&#228;t im Funknetz mit
+begrenzten Funkkan&#228;len wurde in den vergangenen Jahren der Standard f&#252;r eine 
+paketorientierte &#220;bertragung f&#252;r ETCS Level 2 weiterentwickelt. Erste
+Systeme werden in den n&#228;chsten Jahren bei Nachbarl&#228;ndern pilotiert. Auch auf
+Strecken in Deutschland ist die Einf&#252;hrung in Vorbereitung, um hinreichende
+Kanalkapazit&#228;t f&#252;r das gem&#228;&#223; Bundesverkehrswegeplan erwartete
+Verkehrsaufkommen bew&#228;ltigen zu k&#246;nnen. Nachr&#252;stbedarf f&#252;r Streckenabschnitte steht 
+erst nach den Pr&#252;fungen fest.
+33. Wie wichtig ist nach Kenntnis der Bundesregierung der neue
+Kommunikationsstandard Future Railway Mobile Communication System 
+(FRMCS) f&#252;r das Funktionieren von ETCS (bitte ggf. getrennt f&#252;r
+verschiedene Level und Baselines angeben)?
+Nach Auskunft der DB AG ist der Kommunikationsstandard FRMCS nicht von 
+grundlegender Bedeutung f&#252;r ETCS. ETCS funktioniert mit dem bisherigen 
+Kommunikationsstandard GSM-R. ETCS Level 1 ben&#246;tigt keine
+Funkdaten&#252;bertragung.
+34. Bis wann rechnet die Bundesregierung mit einer kompletten Umstellung 
+auf FRMCS in Deutschland?
+Nach Auskunft der DB AG kann GSM-R gem&#228;&#223; aktuellen Best&#228;tigungen der 
+Industrie noch bis 2035 betrieben werden. Dies schlie&#223;t die
+Ersatzteilversorgung, den Support f&#252;r Softwarepflege usw. ein. Das angestrebte Ziel auf
+europ&#228;ischer Ebene f&#252;r den Abschluss der Abl&#246;sung von GSM-R durch FRMCS ist 
+das Jahr 2035.
+35. Nutzt nach Kenntnis der Bundesregierung die DB AG f&#252;r den Betrieb 
+der digitalen Stellwerke und von ETCS eigene Server oder werden diese 
+&#252;ber die Cloud von Amazon und Microsoft gesteuert, welche die DB AG 
+seit 2020 grunds&#228;tzlich statt eigener Server nutzt (&#8222;Deutsche Bahn ist in 
+der Cloud&#8220;, 28. Oktober 2020, https://www.tagesschau.de)?
+Nach Auskunft der DB AG handelt es sich bei den in dem zitierten Artikel
+genannten Anwendungen, die in die Cloud verlagert wurden, um Anwendungen 
+der klassischen IT. Diese steuert keine sicherheitsrelevanten Anlagen der
+Infrastruktur. Nach Auskunft der DB AG greifen die Systeme der operativen
+Technologie, z. B. Stellwerke oder ETCS, nicht auf &#246;ffentliche Cloudanwendungen 
+zur&#252;ck, sondern werden auf DB-eigener Infrastruktur f&#252;r Daten&#252;bertragung und 
+-verarbeitung betrieben. Diese ist strikt getrennt vom &#246;ffentlichen Netz.
+36. Z&#228;hlen digitale Stellwerke respektive die ETCS-Ausr&#252;stung aus Sicht 
+der Bundesregierung zu den kritischen Infrastrukturen, und was hat das 
+ggf. f&#252;r Folgen?
+Stimmen sich Bundesregierung oder DB mit dem Bundesamt f&#252;r
+Sicherheit in der Informationstechnik (BSI), dem Bundesbeauftragten f&#252;r den 
+Datenschutz und die Informationsfreiheit sowie dem Bundesministerium 
+des Innern, f&#252;r Bau und Heimat bzw. dort vor allem mit dem Zentrum 
+Digitale Souver&#228;nit&#228;t (ZenDis) ab?
+Wenn nein, warum nicht (bitte je Amt einzeln begr&#252;nden)?
+Nach der KRITIS-Verordnung z&#228;hlen die Bauarten der ETCS-Ausr&#252;stung zur 
+kritischen Infrastruktur und werden nach &#167; 8a des Gesetzes &#252;ber das
+Bundesamt f&#252;r Sicherheit in der Informationstechnik (BSIG) behandelt.
+Nach Auskunft der DB AG sind die Bauarten der digitalen Stellwerkstechnik in 
+der Entwicklung, d. h. die Stellwerke sind noch nicht auf dem TEN-V Kernnetz 
+in Betrieb und fallen daher noch nicht unter die Definition der kritischen
+Infrastruktur im Sinne der KRITIS-Verordnung. Da die Bauarten der digitalen
+Stellwerkstechnik mittelfristig auf dem TEN-V Kernnetz eingesetzt werden, werden 
+die Aspekte des&#167; 8a BSIG ber&#252;cksichtigt.
+Die DB AG und der Bundesbeauftragte f&#252;r den Datenschutz und die
+Informationsfreiheit stimmen sich regelm&#228;&#223;ig ab.
+37. Welche Software soll nach Kenntnis der Bundesregierung in digitalen 
+Stellwerken genutzt werden?
+a) Handelt es sich um Open Source bzw. offenen Quellcode?
+b) Ist sie intern oder extern programmiert?
+Welche Firmen programmieren ggf. extern?
+Die Fragen 37 bis 37b werden gemeinsam beantwortet.
+Nach Auskunft der DB AG handelt es sich bei der in digitalen Stellwerken
+genutzten Software weder um Open Source noch um offenen Quellcode. Die
+Entwicklung der Software obliegt den hiermit beauftragten Herstellern der
+Signaltechnik.
+38. Mit welchem maximal m&#246;glichen Grad der Automatisierung (Grade of 
+Automation) des Bahnverkehrs rechnet die Bundesregierung durch 
+ERTMS (bitte ggf. f&#252;r verschiedene Level und Baselines getrennt
+angeben)?
+Nach Auskunft der DB AG ist es auf Basis der Ausr&#252;stung mit ETCS und 
+DSTW m&#246;glich, weitere neue Technologien einzuf&#252;hren und so das ganze
+Potential der Digitalisierung zur Steigerung der Leistungsf&#228;higkeit des
+Bahnsystems auszusch&#246;pfen. Im Rahmen der Digitalen Schiene Deutschland wird u. a. 
+an der Realisierung eines Zielbilds gearbeitet, in dem Z&#252;ge automatisiert in
+minimalen Abst&#228;nden fahren und durch ein intelligentes Verkehrsmanagement
+optimal gesteuert werden k&#246;nnen. Im Zusammenhang mit dem Digitalen Knoten 
+Stuttgart ist vorgesehen, einen hochautomatisierten Betrieb zu implementieren 
+(GoA-Level 2).
+39. Kann die Bundesregierung die Aussage der DB-Cargo-
+Vorstandsvorsitzenden best&#228;tigen, dass die digitale automatische Kupplung ab 2023 
+reif f&#252;r die Fl&#228;che sein wird (Wirtschaftswoche 38, 11. September 2020, 
+S. 50 f.)?
+Der Gutachter des BMVI geht in seinem Schlussbericht &#8222;Erstellung eines
+Konzeptes f&#252;r die EU-weite Migration eines Digitalen Automatischen
+Kupplungssystems (DAK) f&#252;r den Schieneng&#252;terverkehr&#8220; vom 29. Juni 2020 davon aus, 
+dass die EU-weite Migration einer DAK bis 2030 abgeschlossen werden kann, 
+wenn bis 2023 ein DAK-Typ ausgew&#228;hlt und deren technische und betriebliche 
+Funktionalit&#228;t nachgewiesen ist. Das Auftragsforschungsprojekt &#8222;DAK-
+Demonstrator&#8220; l&#228;uft noch bis 31. Dezember 2022. Bisher hat sich nach
+Durchf&#252;hrung eines gro&#223;en Teils des Testprogramms innerhalb dieses BMVI-Projekts 
+gezeigt, dass bei s&#228;mtlichen DAK-Prototypen Nachbesserungsbedarf bestand 
+und teilweise immer noch besteht.
+40. Treffen nach Einsch&#228;tzung der Bundesregierung Berechnungen der
+Fragestellenden zu, dass sich aus der Studie f&#252;r das BMVI (&#8222;Schlussbericht: 
+&#8222;Erstellung eines Konzeptes f&#252;r die EU-weite Migration eines Digitalen 
+Automatischen Kupplungssystems (DAK) f&#252;r den
+Schieneng&#252;terverkehr&#8220;, 19. Juni 2020, https://www.bmvi.de) f&#252;r die Umstellung auf die 
+digitale automatische Kupplung in Deutschland Kosten von 1,9 Mrd. bis 
+2,2 Mrd. Euro ergeben?
+Wenn nein, mit welchen Kosten rechnet aktuell die Bundesregierung f&#252;r 
+Deutschland, und auf welcher Basis?
+Auf der Grundlage des erw&#228;hnten Schlussberichts geht die Bundesregierung 
+zurzeit von Gesamtkosten f&#252;r die europaweite Migration einer DAK von 6,4 
+bis 8,6 Mrd. Euro aus, da aufgrund der EU-weiten Vernetzung des
+Schieneng&#252;terverkehrs eine Umr&#252;stung nur im gesamteurop&#228;ischen Kontext sinnvoll und 
+realisierbar ist.
+41. Gibt es nach Kenntnis der Bundesregierung &#252;ber die Studie des BMVI 
+vom 29. Juni 2020 hinaus einen europ&#228;ischen oder deutschen
+Umsetzungszeitplan f&#252;r die digitale automatische Kupplung, und wann wird es 
+ihn ggf. geben?
+Die in die Frage der Migration involvierten staatlichen Institutionen, Verb&#228;nde 
+und Unternehmen aus den verschiedenen EU-Mitgliedstaaten (z. B. im
+European DAC Delivery Programme, in der Plattform Shift2Rail) befinden sich zu 
+einem Umsetzungsplan in der Diskussion.
+42. Welche &#246;ffentlichen F&#246;rderungen f&#252;r die digitale automatische Kupplung 
+gibt es nach Kenntnis der Bundesregierung momentan, und welche plant 
+die Bundesregierung dar&#252;ber hinaus?
+Die Bundesregierung finanziert derzeit das Auftragsforschungsprojekt &#8222;DAK-
+Demonstrator&#8220; mit einer Laufzeit von zweieinhalb Jahren bis 31. Dezember 
+2022 und einem Mittelansatz von 13 Mio. Euro.
+43. Wie weit sind nach Kenntnis der Bundesregierung die Verhandlungen 
+&#252;ber ein europ&#228;isches F&#246;rderprogramm f&#252;r die digitale automatische 
+Kupplung gediehen, und wann rechnet die Bundesregierung mit einem 
+Abschluss?
+Mit der &#8222;Berliner Erkl&#228;rung&#8220; vom 21. September 2020 bekennen sich die 
+Bundesregierung und ihre europ&#228;ischen Partner innerhalb der Europ&#228;ischen 
+Union zum Schieneng&#252;terverkehr und auch zur Einf&#252;hrung einer DAK. Die
+darauf aufbauenden Diskussionen und Verhandlungen zur Migration auf EU-
+Ebene haben begonnen. Innerhalb dieses laufenden Prozesses wirbt die
+Bundesregierung f&#252;r ein EU-F&#246;rderprogramm zur finanziellen Unterst&#252;tzung der 
+Einf&#252;hrung der DAK in der EU.
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/30742 -
+Digitale Schiene - Stand und Probleme beim European Rail Traffic Management System und der digitalen automatischen Kupplung</titel>
+    <datum>2021-07-29</datum>
+  </document>
+  

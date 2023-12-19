@@ -1,0 +1,396 @@
+<document>
+    <id>244163</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/21675</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>473c96b5d4346caa618524f507996b37</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>265505</id>
+      <titel>Cyber-Sicherheit im deutschen Mittelstand</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium des Innern, f&#252;r Bau und Heimat</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/216/1921675.pdf</pdf_url>
+      <id>244163</id>
+      <dokumentnummer>19/21675</dokumentnummer>
+      <datum>2020-08-17</datum>
+      <verteildatum>2020-10-12</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Antwort
+der Bundesregierung
+auf die Kleine Anfrage der Abgeordneten Reinhard Houben, Michael Theurer, 
+Dr. Marcel Klinge, weiterer Abgeordneter und der Fraktion der FDP
+&#8211; Drucksache 19/21476 &#8211;
+Cybersicherheit im deutschen Mittelstand
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Deutsche Unternehmen, auch KMUs (kleine und mittlere Unternehmen),
+sehen sich zunehmend mit Cyberangriffen und Datendiebstahl konfrontiert. Laut 
+einer Studie (&#8222;Wirtschaftsschutz in der digitalen Welt&#8220;) des Digitalverbands 
+Bitkom wurden 2019 drei von vier Unternehmen Opfer von Sabotage,
+Datendiebstahl oder Spionage. Durch die Angriffe (analog und digital) entsteht der 
+deutschen Wirtschaft j&#228;hrlich ein Schaden von 102,9 Mrd. Euro. Damit hat 
+sich der Schaden seit 2016 nahezu verdoppelt (2016/2017: 55 Mrd. Euro p. 
+a.). So haben digitale Angriffe in den vergangenen beiden Jahren bei 70
+Prozent der Unternehmen einen Schaden verursacht, im Jahr 2017 waren es erst 
+43 Prozent.
+So gaben 21 Prozent der Unternehmen an, dass sensible digitale Daten
+abgeflossen sind, bei 17 Prozent wurden Informationssysteme und
+Produktionssysteme oder Betriebsabl&#228;ufe digital sabotiert, und bei 13 Prozent wurde die
+digitale Kommunikation ausgesp&#228;ht. Dennoch spielen analoge Angriffe nach wie 
+vor eine gro&#223;e Rolle. Bei 32 Prozent wurden IT-Ger&#228;te oder
+Telekommunikationsger&#228;te gestohlen, sensible Dokumente, Maschinen oder Bauteile wurden 
+bei jedem sechsten entwendet. Ein wachsendes Problem ist demnach &#8222;Social 
+Engineering&#8220;. Hierbei werden Mitarbeiter dazu gebracht, sensible
+Informationen preiszugeben, mit denen man beispielsweise Schadsoftware auf
+Firmenrechner installieren konnte. 22 Prozent der befragten Unternehmen waren
+davon analog betroffen, 15 Prozent digital.
+Lediglich bei 13 Prozent der Unternehmen gab es Hinweise auf Delikte durch 
+externe Strafverfolgungsbeh&#246;rden oder Aufsichtsbeh&#246;rden. Eine dramatische 
+Mehrheit der Unternehmen (96 Prozent) fordern deswegen eine engere
+Zusammenarbeit mit Staat und Beh&#246;rden. Au&#223;erdem fordern sie mehr
+Unterst&#252;tzung durch die Beh&#246;rden bei Fragen der IT-Sicherheit. 91 Prozent der
+Unternehmen sehen die Notwendigkeit von Verbesserung beim
+Informationsaustausch zwischen staatlichen Stellen. Die breite Mehrheit der Unternehmen 
+(82 Prozent) sieht in Zukunft eine Versch&#228;rfung der Sicherheitslage und gehen 
+von einer Zunahme der Cyberangriffen auf die Unternehmen aus (https://ww
+w.bitkom.org/sites/default/files/2019-11/bitkom_wirtschaftsschutz_2019_
+0.pdf).
+Deutscher Bundestag Drucksache 19/21675
+19. Wahlperiode 17.08.2020
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums des Innern, f&#252;r Bau und Heimat 
+vom 17. August 2020 &#252;bermittelt.
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext.
+Im Jahr 2015 wurde das &#8222;Gesetz zur Erh&#246;hung der Sicherheit
+informationstechnischer Systeme&#8220; verabschiedet. An einem Nachfolger, dem IT-
+Sicherheitsgesetz 2.0, wird seit zwei Jahren gearbeitet. Bereits 2018
+verk&#252;ndete der Bundesminister des Innern, f&#252;r Bau und Heimat, Horst Seehofer, die 
+Einf&#252;hrung des Gesetzes. Der Cybersicherheitsrat wurde mit der
+Cybersicherheitsstrategie 2011 errichtet und mit der Cybersicherheitsstrategie 2016
+reformiert, bleibt aber bis heute, laut Medienberichten, eine &#8222;leere H&#252;lle&#8220;. Das
+Nationale Cyber-Abwehrzentrum sollte urspr&#252;nglich alle operativen Akteure der 
+Cybersicherheit in Deutschland (Bundesamt f&#252;r Sicherheit in der
+Informationstechnik (BSI), Bundeskriminalamt und Bundeswehr) zusammenbringen. 
+&#8222;Bis heute wurde vers&#228;umt, die Plattform auf eine vern&#252;nftige rechtliche 
+Grundlage zu stellen. Diese sollte unter anderem regeln, welche Informationen 
+ausgetauscht werden k&#246;nnen, d&#252;rfen und m&#252;ssen. Seit Jahren werden
+Reformen angestrebt, die getrost als gescheitert angesehen werden k&#246;nnen&#8220;, 
+schreibt netzpolitik.org (https://netzpolitik.org/2020/eine-vertane-chance-fuer-
+die-it-sicherheit-in-deutschland/#spendenleiste). Auf diese Defizite machte die 
+Fraktion der FDP bereits im Februar 2019 aufmerksam (vgl.
+Bundestagsdrucksache 19/7698).
+Unter dem Titel &#8222;Mehr Sicherheit f&#252;r die digitale Transformation&#8220;
+ver&#246;ffentlichte der &#8222;Weisenrat f&#252;r Cybersicherheit&#8220; am 6. Juni 2020 seinen ersten
+Jahresbericht. Im Bericht spricht der Weisenrat acht Handlungsempfehlungen f&#252;r 
+Politik und Wirtschaft aus, die als Entscheidungshilfe zur Gestaltung
+gesetzlicher Rahmenbedingungen verstanden werden k&#246;nnen. Das Cyber Security 
+Cluster Bonn hat den unabh&#228;ngigen Weisenrat f&#252;r Cybersicherheit 2019 ins 
+Leben gerufen, um einen weiteren Beitrag zur Immunisierung der Gesellschaft 
+gegen Cyberattacken zu leisten (https://cyber-security-cluster.eu/_Resources/P
+ersistent/a/1/d/9/a1d95dca3a8642822f22eb1372cd2b66e271d4fe/Mehr%20Sic
+herheit%20f%C3%BCr%20die%20digitale%20Transformation%20-%20Jahre
+sbericht%20des%20Weiserats%20f%C3%BCr%20Cyber-Sicherheit.pdf).
+&#8199;1. Welcher besonderen Gefahr sieht die Bundesregierung mittelst&#228;ndische 
+Unternehmen durch Cyberangriffe ausgesetzt?
+Die Landschaft der mittelst&#228;ndischen Unternehmen ist heterogen ausgepr&#228;gt. 
+Insoweit variiert auch das jeweils etablierte IT-Sicherheitsniveau. Die bei den 
+mittelst&#228;ndischen Unternehmen zur Verf&#252;gung stehenden Ressourcen im IT-
+Bereich dienen in erster Linie der Aufrechterhaltung der Office- und
+Produktionssysteme. Das Thema IT-Sicherheit hat im Tagesgesch&#228;ft eines
+mittelst&#228;ndischen Unternehmens oftmals eine nachgeordnete Bedeutung. Um hier das
+Bewusstsein f&#252;r Cybersicherheit zu verbessern, m&#252;ssten Mitarbeiter entsprechend 
+regelm&#228;&#223;ig geschult werden. Diese Anforderungen k&#246;nnen aber aus
+Budgetgr&#252;nden und Personalmangel in den meisten F&#228;llen nicht erf&#252;llt werden, so 
+dass Cyberangriffe auf kleine und mittelst&#228;ndische Unternehmen &#246;fter
+erfolgreich sind als bei gr&#246;&#223;eren Unternehmen.
+Gro&#223;er Risikofaktor f&#252;r Cyberangriffe ist die Digitalisierung. Die damit
+einhergehenden technischen M&#246;glichkeiten bieten f&#252;r die T&#228;ter eine gr&#246;&#223;ere
+Angriffsfl&#228;che, wodurch die Angriffe spezifizierter werden. Organisatorische 
+Ma&#223;nahmen werden in kleinen Unternehmen seltener eingesetzt als in gr&#246;&#223;eren 
+Unternehmen. In kleinen Unternehmen sind schriftlich fixierte Richtlinien zur 
+Informations- bzw. IT-Sicherheit sowie zum Notfallmanagement deutlich
+seltener vorhanden als in den gro&#223;en Unternehmen (Forschungsbericht
+Cyberangriffe gehen Unternehmen in Deutschland, Kriminologisches Forschungsinstitut 
+Niedersachsen (KFN) 2020). Kleine und mittlere Unternehmen (KMU) setzen 
+organisatorische Ma&#223;nahmen deutlich seltener um als technische Ma&#223;nahmen. 
+Nur jedes f&#252;nfte KMU in Deutschland hat bereits einmal eine IT-
+Sicherheitsanalyse durchgef&#252;hrt, bei gr&#246;&#223;eren Unternehmen ist es immerhin die
+H&#228;lfte (Aktuelle Lage der IT-Sicherheit in KMU, Wissenschaftliches Institut f&#252;r
+Infrastruktur und Kommunikationsdienste GmbH (WIK) 2017).
+&#8199;2. Welche Erkenntnisse liegen der Bundesregierung &#252;ber den
+volkswirtschaftlichen Schaden durch Hackerangriffe in Deutschland vor?
+Cyber-Angriffe auf Unternehmen in Deutschland verursachen nach einer
+Untersuchung des Digitalverbands Bitkom aus dem Jahr 2019 Sch&#228;den in
+Milliardenh&#246;he. Durch Sabotage, Spionage oder Datendiebstahl entsteht der deutschen 
+Wirtschaft j&#228;hrlich ein Gesamtschaden in H&#246;he von 100 Mrd. Euro. Damit ist 
+der Verlust durch analoge und digitale Angriffe fast doppelt so hoch wie vor 
+zwei Jahren, als der IT-Branchenverband noch von 55 Mrd. Euro im Jahr
+ausging.
+F&#252;r die Erstellung der Studie wurden mehr als 1.000 Gesch&#228;ftsf&#252;hrer und
+Sicherheitsverantwortliche quer durch alle Branchen befragt.
+&#8199;3. Inwiefern sind deutsche KMU im Vergleich zu gro&#223;en Unternehmen in 
+Deutschland nach Kenntnis der Bundesregierung gegen Cyberangriffe 
+gewappnet?
+Welchen Handlungsbedarf sieht die Bundesregierung hier vonseiten des 
+Staates?
+Die Bedrohungslage f&#252;r die Cybersicherheit bei Unternehmen ist unabh&#228;ngig 
+von ihrer Gr&#246;&#223;e heterogen. Das Bundesamt f&#252;r Sicherheit in der
+Informationstechnik (BSI) beobachtet nahezu t&#228;glich Cyber-Angriffe auf Unternehmen aller 
+Gr&#246;&#223;en und Branchen, demnach sind deutsche KMU ebenso Ziel von Cyber-
+Angriffen wie Gro&#223;konzerne. Gem&#228;&#223; der Cyber-Sicherheits-Umfrage, die das 
+BSI im Rahmen der Allianz f&#252;r Cybersicherheit im Betrachtungszeitraum 2018 
+durchgef&#252;hrt hat, setzen KMU im Vergleich zu gro&#223;en Unternehmen
+durchschnittlich weniger Pr&#228;ventionsma&#223;nahmen um. Dies betrifft zum Beispiel den 
+Einsatz von Managementsystemen. (https://www.allianz-fuer-cybersicherhei
+t.de/SharedDocs/Downloads/ACS/cyber-sicherheits-umfrage_2018.pdf?__blo
+b=publicationFile&amp;v=9)
+&#8199;4. Welche M&#246;glichkeiten hat die Bundesregierung, mittelst&#228;ndische
+Unternehmen bei dem Schutz vor Cyberangriffen zu unterst&#252;tzen?
+Welche Verbesserungsm&#246;glichkeiten sieht die Bundesregierung?
+Das BSI hat in der j&#252;ngeren Vergangenheit vielf&#228;ltige Angebote f&#252;r KMU und 
+andere Unternehmen geschaffen. Hierzu z&#228;hlt zum Beispiel die Einrichtung 
+von regionalen Verbindungsstellen durch das Nationale Verbindungswesen. So 
+wird, unter anderem f&#252;r Unternehmen, eine schnelle und direkte
+Kontaktaufnahme zu festen Ansprechpartnern erm&#246;glicht. Au&#223;erdem wurden in
+Kooperation mit Verb&#228;nden branchenspezifische IT-Grundschutz-Profile realisiert, die 
+insbesondere Unternehmen dabei unterst&#252;tzen, den bew&#228;hrten BSI IT-
+Grundschutz in der eigenen Organisation umzusetzen und somit das
+Cybersicherheitsniveau nachhaltig zu erh&#246;hen.
+Mit dem IT-Grundschutz des BSI kann eine Institution ein Managementsystem 
+f&#252;r Informationssicherheit (ISMS) aufbauen. Die in einem eigenen Leitfaden 
+beschriebene Basis-Absicherung liefert hier einen effektiven und effizienten 
+Einstieg f&#252;r KMU. Plattform f&#252;r vielf&#228;ltige Aktivit&#228;ten ist h&#228;ufig die Allianz 
+f&#252;r Cybersicherheit, &#252;ber die das BSI der deutschen Wirtschaft aktuelle,
+kostenlose Informationen zum Thema Cybersicherheit zur Verf&#252;gung stellt. Hierzu
+z&#228;hlen einerseits verschiedene Ver&#246;ffentlichungen zu Best Practices und
+aktuellen Bedrohungen, andererseits werden vielz&#228;hlige Formate zum Austausch mit 
+bzw. unter den deutschen Unternehmen geschaffen.
+Au&#223;erdem bietet das Bundesministerium f&#252;r Wirtschaft und Energie (BMWi) 
+mit der Initiative &#8222;IT-Sicherheit in der Wirtschaft&#8220; f&#252;r kleine und
+mittelst&#228;ndische Unternehmen verschiedene Unterst&#252;tzungsm&#246;glichkeiten an, um den 
+Schutz vor Cyber-Angriffen zu verbessern. Neben der Transferstelle &#8222;IT-
+Sicherheit im Mittelstand&#8220; (TISiM, siehe Frage 10) werden zahlreiche Projekte 
+gef&#246;rdert, die das Ziel haben, KMU f&#252;r die Gefahren und Herausforderungen 
+der IT-Sicherheit zu sensibilisieren und sie dazu bef&#228;higen, ihr IT-
+Sicherheitsniveau realistisch einzusch&#228;tzen. Darunter sind Projekte, die sich an
+bestimmte Branchen richten, wie bspw. das Handwerk sowie Projekte, die mit 
+neuen Ans&#228;tzen, wie bspw. Gamification KMU, die systematische Suche nach 
+Risiken vermitteln. Zusammen mit den F&#246;rderma&#223;nahmen Digital Jetzt, Go-
+Digital, Mittelstand-Digital inkl. der 26 Mittelstand 4.0 Kompetenzzentren 
+existiert ein breitgef&#228;chertes Angebot, um insbesondere KMU zu
+sensibilisieren und zu bef&#228;higen, sich besser vor Cyberangriffen zu sch&#252;tzen.
+&#8199;5. Welche politischen Ma&#223;nahmen plant die Bundesregierung in naher
+Zukunft zur Eind&#228;mmung von Cyberangriffen auf deutsche Unternehmen, 
+insbesondere KMU?
+Um die IT-Sicherheit in Deutschland zu st&#228;rken, erarbeitet die Bundesregierung 
+derzeit den Entwurf des IT-Sicherheitsgesetz 2.0, st&#228;rkt die
+Sicherheitsbeh&#246;rden, um die Abwehr von Cyberangriffen zu verbessern, und baut fortlaufend 
+ihre Beratungsangebote aus (s. a. Antwort zu Frage 4). Zum 1. August 2020 ist 
+zudem ein auf die Belange der KMU zugeschnittenes Referat im BSI
+eingerichtet worden. Hiermit soll die Durchdringung von Cybersicherheitsma&#223;nahmen 
+in KMU besonders erh&#246;ht werden.
+Auf Ebene der Europ&#228;ischen Union (EU) begleitet die Bundesregierung derzeit 
+die Evaluierung der europ&#228;ischen Richtlinie zur Gew&#228;hrleistung einer hohen 
+Netzwerk- und Informationssicherheit(NIS)-Richtlinie.
+Im Anschluss an diese Evaluierung wird eine Fortschreibung der NIS-
+Richtlinie erfolgen, in der nach Vorstellung der Bundesregierung der Schutz 
+von Unternehmen einen besonderen Stellenwert einnehmen wird. Auch setzte 
+sich die Bundesregierung weiter f&#252;r die Etablierung von
+Mindestsicherheitsanforderungen an die IT-Sicherheit f&#252;r vernetze Ger&#228;te ein, um das Niveau der IT-
+Sicherheit insgesamt zu erh&#246;hen.
+Durch die angef&#252;hrten Ma&#223;nahmen wird der Schutz von Unternehmen vor
+Cyberangriffen verbessert. Da sich Methoden und Techniken von Cyberangriffen 
+stetig weiterentwickeln, ist die Fortschreibung von politischen Ma&#223;nahmen zur 
+Erh&#246;hung der Cybersicherheit ein stetiger Prozess in der Bundesregierung.
+&#8199;6. Welche Schlussfolgerungen zieht die Bundesregierung aus der Arbeit des 
+&#8222;Weisenrats f&#252;r Cybersicherheit&#8220;?
+Inwiefern gibt es Pl&#228;ne f&#252;r ein &#246;ffentliches Mandat des Weisenrats oder 
+eines &#228;hnlichen Sachverst&#228;ndigenrats f&#252;r Cybersicherheit?
+&#8199;7. Welche Schlussfolgerungen zieht die Bundesregierung aus den acht 
+Handlungsempfehlungen des &#8222;Weisenrats f&#252;r Cybersicherheit&#8220;?
+Die Fragen 6 und 7 werden gemeinsam beantwortet.
+Die Bundesregierung hat den Bericht des &#8222;Weisenrats f&#252;r Cybersicherheit&#8220; zur 
+Kenntnis genommen. Es gibt derzeit keine Pl&#228;ne f&#252;r ein &#246;ffentliches Mandat 
+f&#252;r einen Sachverst&#228;ndigenrat.
+&#8199;8. Welche Schlussfolgerungen zog die Bundesregierung aus der Studie 
+&#8222;Wirtschaftsschutz in der digitalen Welt&#8220; des Digitalverbands Bitkom?
+Welche Ma&#223;nahmen wurden aufgrund der Studie in Angriff genommen?
+Die vorbenannte Studie des Digitalverbandes Bitkom deckt sich in der Tendenz 
+mit den Einsch&#228;tzungen der Bundesregierung aufgrund eigener Erkenntnisse.
+Deshalb wurden aus der Studie weder weitergehende, allgemeine
+Schlussfolgerungen gezogen noch &#252;ber die bisherigen Sensibilisierungs- und
+Pr&#228;ventionsma&#223;nahmen hinausgehende Einzelma&#223;nahmen veranlasst. Beispielsweise setzt 
+das BSI bereits die Forderung nach mehr konkreter Information und
+Hilfestellung f&#252;r die Wirtschaft bereits durch diverse Treffen verschiedener
+Cybersicherheits-Initiativen mit dem Ziel, Synergieeffekte zu erzeugen und eine
+bessere &#220;bersichtlichkeit der Angebote zu realisieren, um.
+&#8199;9. Welche eigenen Nachforschungen unternimmt die Bundesregierung, um 
+das Ausma&#223; von Cyberangriffen auf deutsche Unternehmen zu
+bestimmen?
+Welche Schlussfolgerungen wurden daraus gezogen?
+Die Bundesregierung verfolgt einen kooperativen Ansatz im Bereich der
+Cybersicherheit, d. h. die jeweiligen Partner tragen insbesondere mit
+Informationen und Wissen bei. Die Bundesregierung st&#252;tzt sich bei den Erkenntnissen zu 
+Angriffen und Auswirkungen auf Unternehmen im Wesentlichen auf Umfragen 
+und Studien, die seitens der Wirtschaftsverb&#228;nde durchgef&#252;hrt werden.
+Zus&#228;tzlich f&#252;hrt die Allianz f&#252;r Cybersicherheit regelm&#228;&#223;ig eine Umfrage zur
+Betroffenheit der deutschen Wirtschaft durch Cyber-Angriffe durch. Befragt werden 
+insbesondere Teilnehmer der Allianz f&#252;r Cybersicherheit. Inhaltlich wurden 
+Angriffsvektoren, die Folgen und auch die Sicherheitsma&#223;nahmen abgefragt. In 
+diesem Jahr wird eine abweichend gestaltete Umfrage durchgef&#252;hrt, die im 
+Kern die Pandemie und ihre Auswirkungen auf die Cybersicherheit fokussiert.
+Dar&#252;ber hinaus betreibt das BSI das Nationale IT-Lagezentrum mit dem
+Auftrag, jederzeit &#252;ber ein verl&#228;ssliches Bild der aktuellen IT-Sicherheitslage in 
+Deutschland zu verf&#252;gen sowie den Handlungsbedarf und die
+Handlungsoptionen bei IT-Sicherheitsvorf&#228;llen sowohl auf staatlicher Ebene als auch in der 
+Wirtschaft schnell und kompetent einsch&#228;tzen zu k&#246;nnen. Hier gehen
+Meldungen der Betroffenen von Sicherheitsvorf&#228;llen zentral ein.
+Aus der Zunahme der Angriffe und der Sch&#228;den ist zu folgern, dass die Zahl 
+der Angreifer w&#228;chst und dass zus&#228;tzliche Anstrengungen unternommen
+werden m&#252;ssen, um die Cybersicherheit in den Unternehmen zu erh&#246;hen.
+10. Welche Schlussfolgerungen zieht die Bundesregierung aus der Arbeit der 
+von Bundesministerium f&#252;r Wirtschaft und Energie gef&#246;rderten
+Transferstelle IT-Sicherheit im Mittelstand (TISiM)?
+Welche Verbesserungsm&#246;glichkeiten sieht die Bundesregierung?
+Die TISiM hat am 1. Januar 2020 ihre Arbeit aufgenommen. Im Laufe des
+Jahres werden die Angebote und Inhalte weiterentwickelt und ausgebaut. Die 
+Transferstelle hat das Ziel, wirksame Bef&#228;higungsstrukturen zur messbaren
+Erh&#246;hung der Umsetzungsbereitschaft von Ma&#223;nahmen der IT-Sicherheit in 
+KMU zu schaffen. Mit Hilfe der Transferstelle erhalten KMU Zugang zu einem 
+breiten Spektrum an bestehenden Initiativen und Angeboten zur Verbesserung 
+der IT-Sicherheit und dem Schutz von Daten, das anhand ihrer Schutzbedarfe 
+passgenau aufbereitet sowie niedrigschwellig und nachhaltig zur Verf&#252;gung
+gestellt wird. Mit einem von der TISiM derzeit entwickelten auf K&#252;nstlicher
+Intelligenz basierten Werkzeug (&#8222;SecOmat&#8220;) k&#246;nnen sich KMU passgenaue IT-
+Sicherheitsl&#246;sungen vorschlagen lassen. Die Nutzung wird via Internet, App 
+und in den regionalen Anlaufstellen (Schaufenstern) m&#246;glich sein. Hinzu 
+kommt zuk&#252;nftig die M&#246;glichkeit, KMU vor Ort mit einem sogenannten
+Tourenbus zu erreichen, um auch in den Regionen das Angebot der TISiM zur
+Verf&#252;gung zu stellen. Im Rahmen der Allianz f&#252;r Cyber-Sicherheit des BSI besteht 
+Austausch zu den Projekttr&#228;gern der Transferstelle, sodass Schnittstellen zu 
+vorhandenen und geplanten Angeboten identifiziert, geschaffen und genutzt 
+werden.
+11. Wie bewertet die Bundesregierung die Arbeit des Nationalen Cyber-
+Abwehrzentrums?
+Das Nationale Cyber-Abwehrzentrum (Cyber-Az) ist eine Informations- und 
+Koordinierungsplattform zu dessen teilnehmenden Kernbeh&#246;rden derzeit das 
+Bundesamt f&#252;r Bev&#246;lkerungsschutz und Katastrophenhilfe (BBK), das
+Bundesamt f&#252;r Verfassungsschutz (BfV), das Bundeskriminalamt (BKA), der
+Bundesnachrichtendienst (BND), der Milit&#228;rische Abschirmdienst (BAMAD), die 
+Bundespolizei (BPOL), das Bundesamt f&#252;r Sicherheit in der
+Informationstechnik (BSI) und das Kommando Cyber- und Informationsraum der Bundeswehr 
+(KdoCIR) z&#228;hlen.
+Zielsetzung des Cyber-Az ist der Informationsaustausch zu Cyber-Vorf&#228;llen im 
+Rahmen der den teilnehmenden Beh&#246;rden gesetzlich einger&#228;umten Befugnisse 
+sowie die Abstimmung von Ma&#223;nahmen der Beh&#246;rden bei Cyber-Vorf&#228;llen. 
+Das Cyber-Az sorgt so f&#252;r den Informationsfluss zwischen den Beh&#246;rden und 
+verbessert die Koordination und Abstimmung von Ma&#223;nahmen der
+teilnehmenden Beh&#246;rden bei Cyber-Vorf&#228;llen im Rahmen der bestehenden
+Zust&#228;ndigkeiten und Befugnisse. Die Bundesregierung bewertet die Arbeit des Cyber-Az als 
+zielf&#252;hrend und positiv.
+12. Welche Bedeutung hat das Nationale Cyber-Abwehrzentrum beim 
+Schutz der deutschen Wirtschaft, insbesondere von mittelst&#228;ndischen 
+Unternehmen?
+Die Cybersicherheitsarchitektur in Deutschland beruht auf verschiedenen
+Pfeilern. Zun&#228;chst sind Unternehmen f&#252;r die Gew&#228;hrleistung der Sicherheit der von 
+ihnen genutzten IT selbst verantwortlich. Unterst&#252;tzt wird diese
+Eigenverantwortung durch das BSI, das technische Richtlinien und weiteres Wissen zur 
+Gew&#228;hrleistung von Cybersicherheit allen Bereichen in Deutschland zur
+Verf&#252;gung stellt. Den Polizeien kommt im Rahmen der ihnen gesetzlich
+einger&#228;umten Befugnisse &#8211; neben eigenen Sensibilisierungs- und
+Unterst&#252;tzungsangeboten f&#252;r die Wirtschaft &#8211; die Aufgabe der Gefahrenabwehr und der
+Unterst&#252;tzung der Justiz bei der Strafverfolgung zu. Durch den engen Austausch der am 
+Cyber-Az beteiligten Beh&#246;rden, wird der Informationsfluss verbessert, was in 
+Folge dazu f&#252;hrt, die gesetzlich zugewiesene Aufgabenwahrnehmung jeder
+einzelnen Beh&#246;rde zu verbessern und somit mittelbar auch der Wirtschaft und
+ihren Unternehmen bei Cyber-Vorf&#228;llen hilft.
+13. Welche Schlussfolgerungen zieht die Bundesregierung aus der negativen 
+Einsch&#228;tzung des Nationalen Cyber-Abwehrzentrums durch netzpoliti
+k.org?
+Die Bundesregierung geht davon aus, dass sich die Frage auf den Gastbeitrag 
+von Sven Herpig vom 20. Juni 2020 bezieht.
+Die Einsch&#228;tzung wird seitens der Bundesregierung nicht geteilt. Das Cyber-
+Abwehrzentrum ist bewusst eine flexible Zusammenarbeitsplattform, die die 
+zust&#228;ndigen Akteure zusammenf&#252;hrt und nicht &#8211; durch Verselbst&#228;ndigung &#8211; 
+neue Zust&#228;ndigkeiten schafft.
+Der dortige Informationsaustausch erfolgt im Rahmen des bestehenden Rechts 
+auf der Grundlage der &#220;bermittlungsvorschriften in den einschl&#228;gigen
+Fachgesetzen.
+14. Welche Pl&#228;ne gibt es vonseiten der Bundesregierung, das Nationale 
+Cyber-Abwehrzentrum zu reformieren?
+Wie in der Antwort zu Frage 11 angef&#252;hrt, wurde die Zusammenarbeit im 
+Cyber-Az in 2019 deutlich intensiviert. Dennoch pr&#252;ft die Bundesregierung 
+fortlaufend die Notwendigkeit einer Fortentwicklung.
+15. Wie sieht die Bundesregierung staatliche Stellen in der Abwehr von
+Cyberangriffen auf mittelst&#228;ndische Unternehmen aufgestellt?
+Zun&#228;chst liegt die Verantwortung f&#252;r die Sicherheit der von Unternehmen
+genutzten IT-Systemen bei den Unternehmen selbst. Staatliche Stellen
+unterst&#252;tzen die Unternehmen hierbei durch Beratungsangebote, um sich erfolgreich vor 
+Cyber-Angriffen sch&#252;tzen zu k&#246;nnen. Im &#220;brigen wird auf die Antwort zu
+Frage 12 verwiesen.
+16. Inwiefern sind staatliche Beh&#246;rden nach Auffassung der
+Bundesregierung ausreichend vorbereitet und ausgestattet, um Unternehmen bei
+Fragen der IT-Sicherheit zu unterst&#252;tzen?
+Welche Verbesserungsm&#246;glichkeiten sieht die Bundesregierung?
+Nach Einsch&#228;tzung der Bundesregierung sind die staatlichen Beh&#246;rden f&#252;r die 
+Unterst&#252;tzung in Fragen IT-Sicherheit bei Unternehmen gut aufgestellt.
+Beispielsweise wurde das BSI in den vergangenen Jahren personell deutlich
+gest&#228;rkt. Das Bundeskriminalamt und das Bundesamt f&#252;r Verfassungsschutz
+haben in den vergangenen Jahren Abteilungen und Organisationseinheiten
+aufgestellt, die sich mit Cybercrime und staatlich gesteuerten Cyber-Angriffen im
+jeweiligen Zust&#228;ndigkeitsbereich besch&#228;ftigen.
+Aufgrund des technischen Wandels und Ver&#228;nderungen in den Tatmodalit&#228;ten 
+pr&#252;ft die Bundesregierung fortlaufend Anpassungsbedarf, um Unternehmen in 
+Fragen IT-Sicherheit noch besser zu unterst&#252;tzen und setzt die identifizierten 
+Bedarfe zeitnah um.
+17. Welche F&#246;rderungen der Mitarbeiterschulungen durch Bundesmittel im 
+Bereich der Cybersicherheit existieren f&#252;r kleine und mittlere
+Unternehmen?
+Mitarbeiterschulungen bzw. Qualifizierungsma&#223;nahmen im Bereich IT-
+Sicherheit werden insbesondere durch das Projekt KMU Aware (awareness-im-
+mittelstand.de) sowie die F&#246;rderprogramme &#8222;go-digital&#8220; und &#8222;Digital Jetzt&#8220;
+angeboten bzw. gef&#246;rdert. Zudem werden auch von dem Mittelstand 4.0-
+Kompetenzzentren.Mitarbeiterschulungen sowie auch andere
+Sensibilisierungsma&#223;nahmen im Bereich Cybersicherheit angeboten.
+18. Wann plant die Bundesregierung, einen Entwurf f&#252;r das IT-
+Sicherheitsgesetz 2.0 vorzulegen?
+Welche zentralen Ma&#223;nahmen sind im Rahmen des Gesetzes aus Sicht 
+der Bundesregierung von zentraler Bedeutung?
+Der Entwurf f&#252;r das IT-Sicherheitsgesetz 2.0 befindet sich in der
+Ressortabstimmung. Die Bundesregierung &#228;u&#223;ert sich nicht zu in der Ressortabstimmung 
+befindlichen Gesetzentw&#252;rfen.
+19. Inwiefern k&#246;nnte das geplante IT-Sicherheitsgesetz 2.0 zur Sicherheit 
+von mittelst&#228;ndischen Unternehmen beitragen?
+Unter Bezugnahme auf die Antwort zu Frage 18, &#228;u&#223;ert sich die
+Bundesregierung grunds&#228;tzlich nicht zu in der Ressortabstimmung befindlichen
+Gesetzentw&#252;rfen.
+Es kann aber davon ausgegangen werden, dass die vorgesehenen Ma&#223;nahmen 
+auch einen Beitrag zur Sicherheit von mittelst&#228;ndischen Unternehmen leisten 
+k&#246;nnen.
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/21476 -
+Cybersicherheit im deutschen Mittelstand</titel>
+    <datum>2020-08-17</datum>
+  </document>
+  

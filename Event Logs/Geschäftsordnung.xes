@@ -1,0 +1,2239 @@
+<?xml version="1.0" ?>
+<log xes.version="1.0" xes.features="nested-attributes">
+  <extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext"/>
+  <extension name="Organizational" prefix="org" uri="http://www.xes-standard.org/org.xesext"/>
+  <extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext"/>
+  <global scope="trace">
+    <string key="concept:name" value=""/>
+  </global>
+  <global scope="event">
+    <string key="concept:name" value=""/>
+    <date key="time:timestamp" value="1970-01-01T00:00:00.000+00:00"/>
+  </global>
+  <classifier name="drucksachetyp" keys="concept:name"/>
+  <trace>
+    <string key="concept:name" value="271153"/>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="271153"/>
+      <date key="time:timestamp" value="2020-12-11T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/25177"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="248469"/>
+      <string key="titel" value="Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Verlängerung der Geltungsdauer der Regelung zur besonderen Anwendung der Geschäftsordnung aufgrund der allgemeinen Beeinträchtigung durch COVID-19, § 126a GO-BT"/>
+      <string key="org:resource" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      </string>
+      <string key="vorgangsbezug" value="Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Verlängerung der Geltungsdauer der Regelung zur besonderen Anwendung der Geschäftsordnung aufgrund der allgemeinen Beeinträchtigung durch COVID-19, § 126a GO-BT">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="271153"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Dr. Marco Buschmann, MdB, FDP, 7511"/>
+        <string key="autor" value="Britta Haßelmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 118"/>
+        <string key="autor" value="Jens Maier, MdB, AfD, 1987"/>
+        <string key="autor" value="Patrick Schnieder, MdB, CDU/CSU, 1100"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/251/1925177.pdf">
+        <date key="verteildatum" value="2020-12-11"/>
+        <string key="pdf_hash" value="65df4714043d05051294f699d230668a"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="266873"/>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="266873"/>
+      <date key="time:timestamp" value="2020-09-14T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/22397"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="244998"/>
+      <string key="titel" value="Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Verlängerung der Geltungsdauer der Regelung zur besonderen Anwendung der Geschäftsordnung aufgrund der allgemeinen Beeinträchtigung durch COVID-19, § 126a GO-BT"/>
+      <string key="org:resource" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      </string>
+      <string key="vorgangsbezug" value="Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Verlängerung der Geltungsdauer der Regelung zur besonderen Anwendung der Geschäftsordnung aufgrund der allgemeinen Beeinträchtigung durch COVID-19, § 126a GO-BT">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="266873"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Dr. Matthias Bartke, MdB, SPD, 1509"/>
+        <string key="autor" value="Britta Haßelmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 118"/>
+        <string key="autor" value="Jan Korte, MdB, DIE LINKE, 18"/>
+        <string key="autor" value="Patrick Schnieder, MdB, CDU/CSU, 1100"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/223/1922397.pdf">
+        <string key="pdf_hash" value="b7db6f5084943fc71d522670d4912c85"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="232609"/>
+    <event>
+      <string key="concept:name" value="Antrag"/>
+      <string key="vorgangsbezug" value="232609"/>
+      <date key="time:timestamp" value="2018-02-27T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/965"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="217832"/>
+      <string key="titel" value="Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Ausschussöffentlichkeit"/>
+      <string key="org:resource" value="Fraktion BÜNDNIS 90/DIE GRÜNEN">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion BÜNDNIS 90/DIE GRÜNEN"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Ausschussöffentlichkeit">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="232609"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Britta Haßelmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 118"/>
+        <string key="autor" value="Luise Amtsberg, MdB, BÜNDNIS 90/DIE GRÜNEN, 1496"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/009/1900965.pdf">
+        <string key="pdf_hash" value="35e82e4b46eeab6de691e11de2ca4497"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="232609"/>
+      <date key="time:timestamp" value="2018-11-06T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/5496"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="223631"/>
+      <string key="titel" value="a) zu dem Antrag der Fraktion DIE LINKE.
+- Drucksache 19/10 -
+Änderung der Geschäftsordnung des Deutschen Bundestages  
+hier: Ausschussöffentlichkeit
+b) zu dem Antrag der Abgeordneten Britta Haßelmann, Luise Amtsberg, Canan Bayram, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN
+- Drucksache 19/965 -
+Änderung der Geschäftsordnung des Deutschen Bundestages  
+hier:  Ausschussöffentlichkeit"/>
+      <string key="org:resource" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      </string>
+      <string key="vorgangsbezug" value="Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Ausschussöffentlichkeit">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="232609"/>
+        <int key="vorgangsbezug_anzahl" value="2"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Dr. Matthias Bartke, MdB, SPD, 1509"/>
+        <string key="autor" value="Britta Haßelmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 118"/>
+        <string key="autor" value="Patrick Schnieder, MdB, CDU/CSU, 1100"/>
+        <string key="autor" value="Thomas Seitz, MdB, AfD, 2133"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/054/1905496.pdf">
+        <string key="pdf_hash" value="607d44927f4e0e2b736ef2e2c0f7d5e7"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="84415"/>
+    <event>
+      <string key="concept:name" value="Antrag"/>
+      <string key="vorgangsbezug" value="84415"/>
+      <date key="time:timestamp" value="2017-10-24T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/10"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="68862"/>
+      <string key="titel" value="Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Ausschussöffentlichkeit"/>
+      <string key="org:resource" value="Fraktion DIE LINKE">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion DIE LINKE"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Ausschussöffentlichkeit">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="84415"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/000/1900010.pdf">
+        <date key="verteildatum" value="2017-11-08"/>
+        <string key="pdf_hash" value="1fff4ecf24870ff8945aba7c68050988"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="84415"/>
+      <date key="time:timestamp" value="2018-11-06T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/5496"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="223631"/>
+      <string key="titel" value="a) zu dem Antrag der Fraktion DIE LINKE.
+- Drucksache 19/10 -
+Änderung der Geschäftsordnung des Deutschen Bundestages  
+hier: Ausschussöffentlichkeit
+b) zu dem Antrag der Abgeordneten Britta Haßelmann, Luise Amtsberg, Canan Bayram, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN
+- Drucksache 19/965 -
+Änderung der Geschäftsordnung des Deutschen Bundestages  
+hier:  Ausschussöffentlichkeit"/>
+      <string key="org:resource" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      </string>
+      <string key="vorgangsbezug" value="Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Ausschussöffentlichkeit">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="84415"/>
+        <int key="vorgangsbezug_anzahl" value="2"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Dr. Matthias Bartke, MdB, SPD, 1509"/>
+        <string key="autor" value="Britta Haßelmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 118"/>
+        <string key="autor" value="Patrick Schnieder, MdB, CDU/CSU, 1100"/>
+        <string key="autor" value="Thomas Seitz, MdB, AfD, 2133"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/054/1905496.pdf">
+        <string key="pdf_hash" value="607d44927f4e0e2b736ef2e2c0f7d5e7"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="244422"/>
+    <event>
+      <string key="concept:name" value="Antrag"/>
+      <string key="vorgangsbezug" value="244422"/>
+      <date key="time:timestamp" value="2019-02-18T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/7861"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="226542"/>
+      <string key="titel" value="Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Stärkung der Regierungsbefragung"/>
+      <string key="org:resource" value="Fraktion der FDP">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion der FDP"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Stärkung der Regierungsbefragung">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="244422"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Dr. Marco Buschmann, MdB, FDP, 7511"/>
+        <string key="autor" value="Stephan Thomae, MdB, FDP, 1152"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/078/1907861.pdf">
+        <string key="pdf_hash" value="f2a67525aad591e0e4dd59c721c37b47"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="244420"/>
+    <event>
+      <string key="concept:name" value="Antrag"/>
+      <string key="vorgangsbezug" value="244420"/>
+      <date key="time:timestamp" value="2019-02-18T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/7860"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="226541"/>
+      <string key="titel" value="Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Abschaffung der Fragestunde"/>
+      <string key="org:resource" value="Fraktion der FDP">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion der FDP"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Abschaffung der Fragestunde">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="244420"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Dr. Marco Buschmann, MdB, FDP, 7511"/>
+        <string key="autor" value="Stephan Thomae, MdB, FDP, 1152"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/078/1907860.pdf">
+        <string key="pdf_hash" value="0faa1244c08988fa0b859542f396ce2b"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="271615"/>
+    <event>
+      <string key="concept:name" value="Antrag"/>
+      <string key="vorgangsbezug" value="271615"/>
+      <date key="time:timestamp" value="2020-12-17T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/25348"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="248730"/>
+      <string key="titel" value="Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Änderung der Verhaltensregeln für Mitglieder des Deutschen Bundestages
+(Anlage 1 der Geschäftsordnung) zur Veröffentlichung von Aktienoptionen und für mehr Transparenz "/>
+      <string key="org:resource" value="Fraktion DIE LINKE">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion DIE LINKE"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Änderung der Verhaltensregeln für Mitglieder des Deutschen Bundestages (Anlage 1 der Geschäftsordnung) zur Veröffentlichung von Aktienoptionen und für mehr Transparenz ">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="271615"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/253/1925348.pdf">
+        <date key="verteildatum" value="2020-12-18"/>
+        <string key="pdf_hash" value="9a9f4d73f137b971a9698c41c2f46376"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="271615"/>
+      <date key="time:timestamp" value="2021-06-09T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/30492"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="255218"/>
+      <string key="titel" value="a) zu dem Gesetzentwurf der Fraktionen CDU/CSU, SPD, DIE LINKE. und
+BÜNDNIS 90/DIE GRÜNEN
+- Drucksache 19/28784 -
+Entwurf eines ... Gesetzes zur Änderung des Abgeordnetengesetzes - Verbesserung der Transparenzregeln für die Mitglieder des Deutschen Bundestages
+b) zu dem Gesetzentwurf der Fraktion der AfD
+- Drucksache 19/27850 -
+Entwurf eines ... Gesetzes zur Änderung des Gesetzes über die Rechtsverhältnisse der Mitglieder des Deutschen Bundestages (Abgeordnetengesetz) - Verbot von entgeltlicher Lobbytätigkeit durch
+Abgeordnete, Verbot von Optionen als Entgelt für Nebentätigkeiten von Abgeordneten und
+Reform der Transparenzregeln des Bundestages
+c) zu dem Gesetzentwurf der Fraktion DIE LINKE.
+- Drucksache 19/25354 -
+Entwurf eines ... Gesetzes zur Änderung des Abgeordnetengesetzes
+Transparenz von Aktienoptionen und Unternehmensbeteiligungen, Verbot der Tätigkeit als bezahlte Interessenvertreter und der Spendenannahme
+d) zu dem Antrag der Abgeordneten Thomas Seitz, Ulrike Schielke-Ziesing,
+Jens Maier, weiterer Abgeordneter und der Fraktion der AfD
+- Drucksache 19/27857 -
+Änderung der Geschäftsordnung des Deutschen Bundestages, Anlage 1 Verhaltensregeln für Mitglieder des Deutschen Bundestages
+hier: Anzeigeplicht von Optionen
+e) zu dem Antrag der Fraktion DIE LINKE.
+- Drucksache 19/25348 -
+Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Änderung der Verhaltensregeln für Mitglieder des Deutschen Bundestages (Anlage 1 der Geschäftsordnung) zur Veröffentlichung von Aktienoptionen und für mehr Transparenz
+f) zu dem Antrag der Abgeordneten Britta Haßelmann, Katja Keul,
+Dr. Manuela Rottmann, weiterer Abgeordneter und der Fraktion BÜNDNIS
+90/DIE GRÜNEN
+- Drucksache 19/27872 -
+Transparenz, Nachvollziehbarkeit und Offenlegung - Für eine transparente saubere Politik"/>
+      <string key="org:resource" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      </string>
+      <string key="vorgangsbezug" value="Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Änderung der Verhaltensregeln für Mitglieder des Deutschen Bundestages (Anlage 1 der Geschäftsordnung) zur Veröffentlichung von Aktienoptionen und für mehr Transparenz ">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="271615"/>
+        <int key="vorgangsbezug_anzahl" value="6"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Dr. Marco Buschmann, MdB, FDP, 7511"/>
+        <string key="autor" value="Britta Haßelmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 118"/>
+        <string key="autor" value="Patrick Schnieder, MdB, CDU/CSU, 1100"/>
+        <string key="autor" value="Thomas Seitz, MdB, AfD, 2133"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/304/1930492.pdf">
+        <date key="verteildatum" value="2021-06-09"/>
+        <string key="pdf_hash" value="1984b84d941cad4c1895e9cb6d735d69"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="255343"/>
+    <event>
+      <string key="concept:name" value="Bericht"/>
+      <string key="vorgangsbezug" value="255343"/>
+      <date key="time:timestamp" value="2019-11-13T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/15076"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="236071"/>
+      <string key="titel" value="zur Auslegung der Geschäftsordnung
+hier: Amtsende eines Ausschussvorsitzenden"/>
+      <string key="org:resource" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      </string>
+      <string key="vorgangsbezug" value="Auslegung der Geschäftsordnung
+hier: Amtsende eines Ausschussvorsitzenden">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="255343"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Prof. Dr. Patrick Sensburg, MdB, CDU/CSU, 1110"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/150/1915076.pdf">
+        <string key="pdf_hash" value="0687f4a281349df8ab4213f5dcae6d6b"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="268117"/>
+    <event>
+      <string key="concept:name" value="Antrag"/>
+      <string key="vorgangsbezug" value="268117"/>
+      <date key="time:timestamp" value="2020-10-06T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/23115"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="245923"/>
+      <string key="titel" value="Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Frist für die Durchführung von öffentlichen Anhörungen"/>
+      <string key="org:resource" value="Fraktion DIE LINKE">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion DIE LINKE"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Frist für die Durchführung von öffentlichen Anhörungen">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="268117"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/231/1923115.pdf">
+        <date key="verteildatum" value="2020-10-22"/>
+        <string key="pdf_hash" value="f40354d8b28856f2d6b10e1314006e15"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="268117"/>
+      <date key="time:timestamp" value="2021-01-21T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/26082"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="249515"/>
+      <string key="titel" value="zu dem Antrag der Fraktion DIE LINKE.
+- Drucksache 19/23115 -
+Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Frist für die Durchführung von öffentlichen Anhörungen"/>
+      <string key="org:resource" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      </string>
+      <string key="vorgangsbezug" value="Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Frist für die Durchführung von öffentlichen Anhörungen">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="268117"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Dr. Matthias Bartke, MdB, SPD, 1509"/>
+        <string key="autor" value="Stephan Brandner, MdB, AfD, 2075"/>
+        <string key="autor" value="Dr. Marco Buschmann, MdB, FDP, 7511"/>
+        <string key="autor" value="Britta Haßelmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 118"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/260/1926082.pdf">
+        <date key="verteildatum" value="2021-01-22"/>
+        <string key="pdf_hash" value="cf713334d21993cee9ec4c9c41c0647e"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="279535"/>
+    <event>
+      <string key="concept:name" value="Antrag"/>
+      <string key="vorgangsbezug" value="279535"/>
+      <date key="time:timestamp" value="2021-06-22T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/30965"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="255847"/>
+      <string key="titel" value="Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Bessere Lesbarkeit von Drucksachen durch Verzicht auf Gendersprache"/>
+      <string key="org:resource" value="Fraktion der AfD">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion der AfD"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Änderung der Geschäftsordnung des Deutschen Bundestages hier: Bessere Lesbarkeit von Drucksachen durch Verzicht auf Gendersprache">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="279535"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Stephan Brandner, MdB, AfD, 2075"/>
+        <string key="autor" value="Thomas Seitz, MdB, AfD, 2133"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/309/1930965.pdf">
+        <date key="verteildatum" value="2021-06-23"/>
+        <string key="pdf_hash" value="b5a1b4387fc1f9e13448e8cd9e3ab977"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="278891"/>
+    <event>
+      <string key="concept:name" value="Antrag"/>
+      <string key="vorgangsbezug" value="278891"/>
+      <date key="time:timestamp" value="2021-06-08T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/30384"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="255096"/>
+      <string key="titel" value="Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Bürgerplenarverfahren"/>
+      <string key="org:resource" value="Fraktion der FDP">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion der FDP"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Bürgerplenarverfahren">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="278891"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Dr. Marco Buschmann, MdB, FDP, 7511"/>
+        <string key="autor" value="Stephan Thomae, MdB, FDP, 1152"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/303/1930384.pdf">
+        <date key="verteildatum" value="2021-06-08"/>
+        <string key="pdf_hash" value="f9a62ee2552e34763b7002e2a57ac372"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="245218"/>
+    <event>
+      <string key="concept:name" value="Antrag"/>
+      <string key="vorgangsbezug" value="245218"/>
+      <date key="time:timestamp" value="2019-03-20T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/8558"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="227404"/>
+      <string key="titel" value="Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Regelung des bankenunionalen Fragerechts "/>
+      <string key="org:resource" value="Fraktion der AfD">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion der AfD"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Regelung des bankenunionalen Fragerechts">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="245218"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Thomas Seitz, MdB, AfD, 2133"/>
+        <string key="autor" value="Andreas Bleck, MdB, AfD, 2071"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/085/1908558.pdf">
+        <string key="pdf_hash" value="f4e9f1b498de3019fc531d1dcd14b1e6"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="84418"/>
+    <event>
+      <string key="concept:name" value="Antrag"/>
+      <string key="vorgangsbezug" value="84418"/>
+      <date key="time:timestamp" value="2017-10-24T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/12"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="68864"/>
+      <string key="titel" value="Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Änderung der Verhaltensregeln für Mitglieder des Deutschen Bundestages
+(Anlage 1 der Geschäftsordnung)"/>
+      <string key="org:resource" value="Fraktion DIE LINKE">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion DIE LINKE"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Änderung der Verhaltensregeln für Mitglieder des Deutschen Bundestages (Anlage 1 der Geschäftsordnung)">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="84418"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/000/1900012.pdf">
+        <string key="pdf_hash" value="d60c731b239ba1a683ff481d00653513"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="84418"/>
+      <date key="time:timestamp" value="2020-09-23T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/22782"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="245518"/>
+      <string key="titel" value="zu dem Antrag der Fraktion DIE LINKE.
+- Drucksache 19/12 -
+Änderung der Geschäftsordnung des Deutschen Bundestages 
+hier: Änderung der Verhaltensregeln für Mitglieder des Deutschen Bundestages 
+(Anlage 1 der Geschäftsordnung)"/>
+      <string key="org:resource" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      </string>
+      <string key="vorgangsbezug" value="Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Änderung der Verhaltensregeln für Mitglieder des Deutschen Bundestages (Anlage 1 der Geschäftsordnung)">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="84418"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Dr. Matthias Bartke, MdB, SPD, 1509"/>
+        <string key="autor" value="Britta Haßelmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 118"/>
+        <string key="autor" value="Jan Korte, MdB, DIE LINKE, 18"/>
+        <string key="autor" value="Patrick Schnieder, MdB, CDU/CSU, 1100"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/227/1922782.pdf">
+        <string key="pdf_hash" value="d472d43b58e816a54c696f62e688fd6f"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="247835"/>
+    <event>
+      <string key="concept:name" value="Antrag"/>
+      <string key="vorgangsbezug" value="247835"/>
+      <date key="time:timestamp" value="2019-05-08T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/9966"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="228968"/>
+      <string key="titel" value="Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Umsetzung des Gesetzes zur Verbesserung der Strafverfolgung von Mitgliedern des Deutschen Bundestages"/>
+      <string key="org:resource" value="Fraktion der AfD">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion der AfD"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Umsetzung des Gesetzes zur Verbesserung der Strafverfolgung von Mitgliedern des Deutschen Bundestages">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="247835"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Roman Johannes Reusch, MdB, AfD, 2082"/>
+        <string key="autor" value="Stephan Brandner, MdB, AfD, 2075"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/099/1909966.pdf">
+        <string key="pdf_hash" value="0369a175b4dce96038f0b0bbbdb918fd"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="247835"/>
+      <date key="time:timestamp" value="2019-10-18T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/14231"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="235035"/>
+      <string key="titel" value="a) zu dem Gesetzentwurf der Abgeordneten Roman Johannes Reusch, Stephan Brandner, Tino Chrupalla, weiterer Abgeordneter und der Fraktion der AfD
+- Drucksache 19/9967 -
+Entwurf eines Gesetzes zur Verbesserung der Strafverfolgung von Mitgliedern des Deutschen Bundestages
+b) zu dem Antrag der Abgeordneten Roman Johannes Reusch, Stephan Brandner, Tino Chrupalla, weiterer Abgeordneter und der Fraktion der AfD
+- Drucksache 19/9966 -
+Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Umsetzung des Gesetzes zur Verbesserung der Strafverfolgung 
+von Mitgliedern des Deutschen Bundestages
+"/>
+      <string key="org:resource" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      </string>
+      <string key="vorgangsbezug" value="Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Umsetzung des Gesetzes zur Verbesserung der Strafverfolgung von Mitgliedern des Deutschen Bundestages">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="247835"/>
+        <int key="vorgangsbezug_anzahl" value="2"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Dr. Matthias Bartke, MdB, SPD, 1509"/>
+        <string key="autor" value="Dr. Marco Buschmann, MdB, FDP, 7511"/>
+        <string key="autor" value="Britta Haßelmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 118"/>
+        <string key="autor" value="Patrick Schnieder, MdB, CDU/CSU, 1100"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/142/1914231.pdf">
+        <string key="pdf_hash" value="c87242b91630101599a82273c5d53d94"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="244336"/>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="244336"/>
+      <date key="time:timestamp" value="2019-02-18T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/7859"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="226529"/>
+      <string key="titel" value="a) Änderung der Geschäftsordnung des Deutschen Bundestages
+hier:	Anlagen 4 und 7 zur GO-BT (Fragestunde und Regierungsbefragung)
+b) zu dem Änderungsantrag der Fraktion DIE LINKE.
+- Drucksache 19/7 -
+zu dem Antrag der Fraktion der CDU/CSU 
+- Drucksache 19/1 -
+Weitergeltung von Geschäftsordnungsrecht
+c) zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN
+- Drucksache 19/240 -
+Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Regierungsbefragung"/>
+      <string key="org:resource" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      </string>
+      <string key="vorgangsbezug" value="Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Anlagen 4 und 7 zur GO-BT (Fragestunde und Regierungsbefragung)">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="244336"/>
+        <int key="vorgangsbezug_anzahl" value="3"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Dr. Matthias Bartke, MdB, SPD, 1509"/>
+        <string key="autor" value="Dr. Marco Buschmann, MdB, FDP, 7511"/>
+        <string key="autor" value="Britta Haßelmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 118"/>
+        <string key="autor" value="Jan Korte, MdB, DIE LINKE, 18"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/078/1907859.pdf">
+        <string key="pdf_hash" value="056c9abca3ead97e9ac1e5872bf18cda"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="230540"/>
+    <event>
+      <string key="concept:name" value="Antrag"/>
+      <string key="vorgangsbezug" value="230540"/>
+      <date key="time:timestamp" value="2017-12-11T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/240"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="216847"/>
+      <string key="titel" value="Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Regierungsbefragung"/>
+      <string key="org:resource" value="Fraktion BÜNDNIS 90/DIE GRÜNEN">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion BÜNDNIS 90/DIE GRÜNEN"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Regierungsbefragung">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="230540"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/002/1900240.pdf">
+        <string key="pdf_hash" value="a5419ce8e23017d588add8b3db30cb54"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="230540"/>
+      <date key="time:timestamp" value="2019-02-18T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/7859"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="226529"/>
+      <string key="titel" value="a) Änderung der Geschäftsordnung des Deutschen Bundestages
+hier:	Anlagen 4 und 7 zur GO-BT (Fragestunde und Regierungsbefragung)
+b) zu dem Änderungsantrag der Fraktion DIE LINKE.
+- Drucksache 19/7 -
+zu dem Antrag der Fraktion der CDU/CSU 
+- Drucksache 19/1 -
+Weitergeltung von Geschäftsordnungsrecht
+c) zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN
+- Drucksache 19/240 -
+Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Regierungsbefragung"/>
+      <string key="org:resource" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      </string>
+      <string key="vorgangsbezug" value="Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Regierungsbefragung">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="230540"/>
+        <int key="vorgangsbezug_anzahl" value="3"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Dr. Matthias Bartke, MdB, SPD, 1509"/>
+        <string key="autor" value="Dr. Marco Buschmann, MdB, FDP, 7511"/>
+        <string key="autor" value="Britta Haßelmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 118"/>
+        <string key="autor" value="Jan Korte, MdB, DIE LINKE, 18"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/078/1907859.pdf">
+        <string key="pdf_hash" value="056c9abca3ead97e9ac1e5872bf18cda"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="84343"/>
+    <event>
+      <string key="concept:name" value="Änderungsantrag"/>
+      <string key="vorgangsbezug" value="84343"/>
+      <date key="time:timestamp" value="2017-10-24T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/8"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="68860"/>
+      <string key="titel" value="zu dem Antrag der Fraktion der CDU/CSU
+- Drucksache 19/1 -
+Weitergeltung von Geschäftsordnungsrecht"/>
+      <string key="org:resource" value="Fraktion der SPD">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion der SPD"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Weitergeltung von Geschäftsordnungsrecht">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="84343"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/000/1900008.pdf">
+        <string key="pdf_hash" value="392923ee60734a822e4d18dc63d8b63a"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Änderungsantrag"/>
+      <string key="vorgangsbezug" value="84343"/>
+      <date key="time:timestamp" value="2017-10-24T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/5"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="68857"/>
+      <string key="titel" value="zu dem Antrag der Fraktion der CDU/CSU
+- Drucksache 19/1 -
+Weitergeltung von Geschäftsordnungsrecht
+(hier: Abschnitt XII, Abweichungen und Auslegungen dieser Geschäftsordnung, Minderheitsrechte)"/>
+      <string key="org:resource" value="Fraktion der AfD">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion der AfD"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Weitergeltung von Geschäftsordnungsrecht">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="84343"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/000/1900005.pdf">
+        <string key="pdf_hash" value="db1ff228913f924911e129b8a29f26c8"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Änderungsantrag"/>
+      <string key="vorgangsbezug" value="84343"/>
+      <date key="time:timestamp" value="2017-10-24T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/4"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="68856"/>
+      <string key="titel" value="zu dem Antrag der Fraktion der CDU/CSU
+- Drucksache 19/1 -
+Weitergeltung von Geschäftsordnungsrecht
+(hier: § 1 Abs. 2 GO-BT, Alterspräsident)"/>
+      <string key="org:resource" value="Fraktion der AfD">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion der AfD"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Weitergeltung von Geschäftsordnungsrecht">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="84343"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/000/1900004.pdf">
+        <string key="pdf_hash" value="b446254c52a9e1229f7c3af6b52ac6c3"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Änderungsantrag"/>
+      <string key="vorgangsbezug" value="84343"/>
+      <date key="time:timestamp" value="2017-10-24T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/6"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="68858"/>
+      <string key="titel" value="zu dem Antrag der Fraktion der CDU/CSU
+- Drucksache 19/1 -
+Weitergeltung von Geschäftsordnungsrecht"/>
+      <string key="org:resource" value="Fraktion DIE LINKE">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion DIE LINKE"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Weitergeltung von Geschäftsordnungsrecht">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="84343"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/000/1900006.pdf">
+        <string key="pdf_hash" value="e4803add7abb1a99447233c5566a1caa"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Änderungsantrag"/>
+      <string key="vorgangsbezug" value="84343"/>
+      <date key="time:timestamp" value="2017-10-24T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/7"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="68859"/>
+      <string key="titel" value="zu dem Antrag der Fraktion der CDU/CSU
+- Drucksache 19/1 -
+Weitergeltung von Geschäftsordnungsrecht"/>
+      <string key="org:resource" value="Fraktion DIE LINKE">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion DIE LINKE"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Weitergeltung von Geschäftsordnungsrecht">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="84343"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/000/1900007.pdf">
+        <string key="pdf_hash" value="dc28d040b09d1811af38f2ecacecb964"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Antrag"/>
+      <string key="vorgangsbezug" value="84343"/>
+      <date key="time:timestamp" value="2017-10-24T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/1"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="68852"/>
+      <string key="titel" value="Weitergeltung von Geschäftsordnungsrecht"/>
+      <string key="org:resource" value="Fraktion der CDU/CSU">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion der CDU/CSU"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Weitergeltung von Geschäftsordnungsrecht">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="84343"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/000/1900001.pdf">
+        <string key="pdf_hash" value="4152b7065c23338ed12c5e75c22179c1"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="84343"/>
+      <date key="time:timestamp" value="2018-11-22T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/5985"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="224205"/>
+      <string key="titel" value="zu dem Änderungsantrag der Fraktion DIE LINKE.
+- Drucksache 19/6 -
+zu dem Antrag der Fraktion der CDU/CSU 
+- Drucksache 19/1 - 
+Weitergeltung von Geschäftsordnungsrecht"/>
+      <string key="org:resource" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      </string>
+      <string key="vorgangsbezug" value="Weitergeltung von Geschäftsordnungsrecht">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="84343"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Dr. Matthias Bartke, MdB, SPD, 1509"/>
+        <string key="autor" value="Andreas Bleck, MdB, AfD, 2071"/>
+        <string key="autor" value="Dr. Marco Buschmann, MdB, FDP, 7511"/>
+        <string key="autor" value="Britta Haßelmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 118"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/059/1905985.pdf">
+        <string key="pdf_hash" value="abfd4af3168c50cce0c536d3a88f8450"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="84343"/>
+      <date key="time:timestamp" value="2019-02-18T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/7859"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="226529"/>
+      <string key="titel" value="a) Änderung der Geschäftsordnung des Deutschen Bundestages
+hier:	Anlagen 4 und 7 zur GO-BT (Fragestunde und Regierungsbefragung)
+b) zu dem Änderungsantrag der Fraktion DIE LINKE.
+- Drucksache 19/7 -
+zu dem Antrag der Fraktion der CDU/CSU 
+- Drucksache 19/1 -
+Weitergeltung von Geschäftsordnungsrecht
+c) zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN
+- Drucksache 19/240 -
+Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Regierungsbefragung"/>
+      <string key="org:resource" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      </string>
+      <string key="vorgangsbezug" value="Weitergeltung von Geschäftsordnungsrecht">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="84343"/>
+        <int key="vorgangsbezug_anzahl" value="3"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Dr. Matthias Bartke, MdB, SPD, 1509"/>
+        <string key="autor" value="Dr. Marco Buschmann, MdB, FDP, 7511"/>
+        <string key="autor" value="Britta Haßelmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 118"/>
+        <string key="autor" value="Jan Korte, MdB, DIE LINKE, 18"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/078/1907859.pdf">
+        <string key="pdf_hash" value="056c9abca3ead97e9ac1e5872bf18cda"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="84343"/>
+      <date key="time:timestamp" value="2019-03-27T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/8754"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="227586"/>
+      <string key="titel" value="zu dem Änderungsantrag der Fraktion der AfD
+- Drucksache 19/4 -
+zu dem Antrag der Fraktion der CDU/CSU 
+- 19/1 - 
+Weitergeltung von Geschäftsordnungsrecht 
+(hier: § 1 Absatz 2 GO-BT, Alterspräsident)"/>
+      <string key="org:resource" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      </string>
+      <string key="vorgangsbezug" value="Weitergeltung von Geschäftsordnungsrecht">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="84343"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Dr. Matthias Bartke, MdB, SPD, 1509"/>
+        <string key="autor" value="Andreas Bleck, MdB, AfD, 2071"/>
+        <string key="autor" value="Dr. Marco Buschmann, MdB, FDP, 7511"/>
+        <string key="autor" value="Britta Haßelmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 118"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/087/1908754.pdf">
+        <string key="pdf_hash" value="b553830e1c7d59528cfaa062773707d4"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="244475"/>
+    <event>
+      <string key="concept:name" value="Antrag"/>
+      <string key="vorgangsbezug" value="244475"/>
+      <date key="time:timestamp" value="2019-02-20T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/7939"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="226630"/>
+      <string key="titel" value="Änderung der Geschäftsordnung des Deutschen Bundestages 
+hier: Reform von Regierungsbefragung und Fragestunde"/>
+      <string key="org:resource" value="Fraktion der AfD">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion der AfD"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Reform von Regierungsbefragung und Fragestunde">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="244475"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Thomas Seitz, MdB, AfD, 2133"/>
+        <string key="autor" value="Andreas Bleck, MdB, AfD, 2071"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/079/1907939.pdf">
+        <string key="pdf_hash" value="46f0b3c6f8845f6170d1d4ac292ea650"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="275268"/>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="275268"/>
+      <date key="time:timestamp" value="2021-03-16T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/27529"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="251534"/>
+      <string key="titel" value="Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Verlängerung der Geltungsdauer der Regelung zur besonderen Anwendung der Geschäftsordnung aufgrund der allgemeinen Beeinträchtigung durch COVID-19, § 126a GO-BT"/>
+      <string key="org:resource" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      </string>
+      <string key="vorgangsbezug" value="Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Verlängerung der Geltungsdauer der Regelung zur besonderen Anwendung der Geschäftsordnung aufgrund der allgemeinen Beeinträchtigung durch COVID-19, § 126a GO-BT">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="275268"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Dr. Marco Buschmann, MdB, FDP, 7511"/>
+        <string key="autor" value="Britta Haßelmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 118"/>
+        <string key="autor" value="Jan Korte, MdB, DIE LINKE, 18"/>
+        <string key="autor" value="Jens Maier, MdB, AfD, 1987"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/275/1927529.pdf">
+        <date key="verteildatum" value="2021-03-16"/>
+        <string key="pdf_hash" value="504c36acf9be2cc280b2523878e1caa4"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="276844"/>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung"/>
+      <string key="vorgangsbezug" value="276844"/>
+      <date key="time:timestamp" value="2021-04-20T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/28745"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="252889"/>
+      <string key="titel" value="Zeitplan des Deutschen Bundestages für das Jahr 2022"/>
+      <string key="org:resource" value="Ältestenrat"/>
+      <string key="org:role" value="Sonstiges">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ältestenrat"/>
+      </string>
+      <string key="vorgangsbezug" value="Zeitplan des Deutschen Bundestages für das Jahr 2022">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="276844"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/287/1928745.pdf">
+        <date key="verteildatum" value="2021-04-20"/>
+        <string key="pdf_hash" value="7b9bacf660b019026add92357dd569d9"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="264617"/>
+    <event>
+      <string key="concept:name" value="Antrag"/>
+      <string key="vorgangsbezug" value="264617"/>
+      <date key="time:timestamp" value="2020-07-01T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/20655"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="242953"/>
+      <string key="titel" value="Reform des Bundestages - Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Sachverständige vor Hass schützen"/>
+      <string key="org:resource" value="Fraktion der AfD">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion der AfD"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Reform des Bundestages - Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Sachverständige vor Hass schützen">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="264617"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Thomas Seitz, MdB, AfD, 2133"/>
+        <string key="autor" value="Dr. Marc Jongen, MdB, AfD, 2232"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/206/1920655.pdf">
+        <string key="pdf_hash" value="56f040da7d30706735ab7b6ec3ae2c2d"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="262804"/>
+    <event>
+      <string key="concept:name" value="Antrag"/>
+      <string key="vorgangsbezug" value="262804"/>
+      <date key="time:timestamp" value="2020-05-27T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/19523"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="241584"/>
+      <string key="titel" value="Änderung der Geschäftsordnung des Deutschen Bundestages 
+hier: Besondere Lage beenden - § 126 a GO-BT aufheben"/>
+      <string key="org:resource" value="Fraktion der AfD">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion der AfD"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Änderung der Geschäftsordnung des Deutschen Bundestages 
+hier: Besondere Lage beenden - § 126 a GO-BT aufheben">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="262804"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Thomas Seitz, MdB, AfD, 2133"/>
+        <string key="autor" value="Jens Maier, MdB, AfD, 1987"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/195/1919523.pdf">
+        <string key="pdf_hash" value="e2d09265dc5a5600f36cbceb12754158"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="262804"/>
+      <date key="time:timestamp" value="2020-07-01T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/20654"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="242952"/>
+      <string key="titel" value="zu dem Antrag der Abgeordneten Thomas Seitz, Jens Maier, Andreas Bleck, weiterer Abgeordneter und der Fraktion der AfD
+- Drucksache 19/19523 -
+Änderung der Geschäftsordnung des Deutschen Bundestages 
+hier: besondere Lage beenden - § 126 a GO-BT aufheben
+"/>
+      <string key="org:resource" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      </string>
+      <string key="vorgangsbezug" value="Änderung der Geschäftsordnung des Deutschen Bundestages 
+hier: Besondere Lage beenden - § 126 a GO-BT aufheben">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="262804"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Dr. Matthias Bartke, MdB, SPD, 1509"/>
+        <string key="autor" value="Dr. Marco Buschmann, MdB, FDP, 7511"/>
+        <string key="autor" value="Britta Haßelmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 118"/>
+        <string key="autor" value="Ansgar Heveling, MdB, CDU/CSU, 1061"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/206/1920654.pdf">
+        <string key="pdf_hash" value="2af3e0f17e1582079c98c0db0f02c70d"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="279106"/>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="279106"/>
+      <date key="time:timestamp" value="2021-06-11T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/30669"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="255427"/>
+      <string key="titel" value="Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Verlängerung der Geltungsdauer der Regelung zur besonderen Anwendung der Geschäftsordnung aufgrund der allgemeinen Beeinträchtigung durch COVID-19 (§ 126a GO-BT) und Änderung weiterer Regelungen (§ 122a und Anlage 4 GO-BT)"/>
+      <string key="org:resource" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      </string>
+      <string key="vorgangsbezug" value="Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Verlängerung der Geltungsdauer der Regelung zur besonderen Anwendung der Geschäftsordnung aufgrund der allgemeinen Beeinträchtigung durch COVID-19 (§ 126a GO-BT) und Änderung weiterer Regelungen (§ 122a und Anlage 4 GO-BT)">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="279106"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Dr. Marco Buschmann, MdB, FDP, 7511"/>
+        <string key="autor" value="Britta Haßelmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 118"/>
+        <string key="autor" value="Marianne Schieder, MdB, SPD, 1866"/>
+        <string key="autor" value="Patrick Schnieder, MdB, CDU/CSU, 1100"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/306/1930669.pdf">
+        <date key="verteildatum" value="2021-06-11"/>
+        <string key="pdf_hash" value="e7b8f4695fad5ed35929791998d843f0"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="260609"/>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="260609"/>
+      <date key="time:timestamp" value="2020-03-25T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/18126"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="239830"/>
+      <string key="titel" value="Änderung der Geschäftsordnung des Deutschen Bundestages 
+hier: Regelung zur besonderen Anwendung der Geschäftsordnung aufgrund der allgemeinen Beeinträchtigung durch COVID-19 sowie Änderung der Anlage 6 GO-BT"/>
+      <string key="org:resource" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      </string>
+      <string key="vorgangsbezug" value="Änderung der Geschäftsordnung des Deutschen Bundestages 
+hier: Regelung zur besonderen Anwendung der Geschäftsordnung aufgrund der allgemeinen Beeinträchtigung durch COVID-19 sowie Änderung der Anlage 6 GO-BT">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="260609"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Dr. Matthias Bartke, MdB, SPD, 1509"/>
+        <string key="autor" value="Britta Haßelmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 118"/>
+        <string key="autor" value="Patrick Schnieder, MdB, CDU/CSU, 1100"/>
+        <string key="autor" value="Thomas Seitz, MdB, AfD, 2133"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/181/1918126.pdf">
+        <string key="pdf_hash" value="41b74887712da41ad809a359fddf4f6e"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="275619"/>
+    <event>
+      <string key="concept:name" value="Antrag"/>
+      <string key="vorgangsbezug" value="275619"/>
+      <date key="time:timestamp" value="2021-03-24T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/27857"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="251860"/>
+      <string key="titel" value="Änderung der Geschäftsordnung des Deutschen Bundestages, Anlage 1 Verhaltensregeln für Mitglieder des Deutschen Bundestages
+hier: Anzeigepflicht von Optionen"/>
+      <string key="org:resource" value="Fraktion der AfD">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion der AfD"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Änderung der Geschäftsordnung des Deutschen Bundestages, Anlage 1 Verhaltensregeln für Mitglieder des Deutschen Bundestages
+hier: Anzeigepflicht von Optionen">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="275619"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Thomas Seitz, MdB, AfD, 2133"/>
+        <string key="autor" value="Ulrike Schielke-Ziesing, MdB, AfD, 2101"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/278/1927857.pdf">
+        <date key="verteildatum" value="2021-03-24"/>
+        <string key="pdf_hash" value="eb07687ba6ad1a80ba7f35ef05355a3e"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="278193"/>
+    <event>
+      <string key="concept:name" value="Antrag"/>
+      <string key="vorgangsbezug" value="278193"/>
+      <date key="time:timestamp" value="2021-05-19T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/29781"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="254257"/>
+      <string key="titel" value="Einfach frei leben - Mehr Demokratie wagen und eine Bürgerstunde im Bundestag einführen - Änderung der Geschäftsordnung des Bundestages"/>
+      <string key="org:resource" value="Fraktion der AfD">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion der AfD"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Einfach frei leben - Mehr Demokratie wagen und eine Bürgerstunde im Bundestag einführen - Änderung der Geschäftsordnung des Bundestages">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="278193"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Johannes Huber, MdB, AfD, 7560"/>
+        <string key="autor" value="Thomas Seitz, MdB, AfD, 2133"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/297/1929781.pdf">
+        <date key="verteildatum" value="2021-05-19"/>
+        <string key="pdf_hash" value="1bb2e8c681545435e7335c30231c1118"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="278193"/>
+      <date key="time:timestamp" value="2021-06-09T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/30482"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="255208"/>
+      <string key="titel" value="zu dem Antrag der Abgeordneten Johannes Huber, Thomas Seitz, Jens Maier, weiterer Abgeordneter und der Fraktion der AfD
+- Drucksache 19/29781 -
+Einfach frei leben - Mehr Demokratie wagen und eine Bürgerstunde im Bundestag einführen - Änderung der Geschäftsordnung des Deutschen Bundestages"/>
+      <string key="org:resource" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      </string>
+      <string key="vorgangsbezug" value="Einfach frei leben - Mehr Demokratie wagen und eine Bürgerstunde im Bundestag einführen - Änderung der Geschäftsordnung des Bundestages">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="278193"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Dr. Marco Buschmann, MdB, FDP, 7511"/>
+        <string key="autor" value="Michael Frieser, MdB, CDU/CSU, 1039"/>
+        <string key="autor" value="Britta Haßelmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 118"/>
+        <string key="autor" value="Thomas Seitz, MdB, AfD, 2133"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/304/1930482.pdf">
+        <date key="verteildatum" value="2021-06-09"/>
+        <string key="pdf_hash" value="0618ed172fb7ae01e52e8e4d3a7ee39d"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="254998"/>
+    <event>
+      <string key="concept:name" value="Antrag"/>
+      <string key="vorgangsbezug" value="254998"/>
+      <date key="time:timestamp" value="2019-11-06T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/14762"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="235708"/>
+      <string key="titel" value="Bürgereingaben ernst nehmen - Änderung der Geschäftsordnung des Deutschen Bundestages - Verbindliche Regelungen für öffentliche Petitionen"/>
+      <string key="org:resource" value="Fraktion der AfD">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion der AfD"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Bürgereingaben ernst nehmen - Änderung der Geschäftsordnung des Deutschen Bundestages - Verbindliche Regelungen für öffentliche Petitionen">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="254998"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Thomas Seitz, MdB, AfD, 2133"/>
+        <string key="autor" value="Johannes Huber, MdB, AfD, 7560"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/147/1914762.pdf">
+        <string key="pdf_hash" value="a11afa1b0070bfbf589e988bfac3f756"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="254998"/>
+      <date key="time:timestamp" value="2021-06-23T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/31005"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="255874"/>
+      <string key="titel" value="zu dem Antrag der Abgeordneten Thomas Seitz, Johannes Huber, Andreas Bleck, weiterer Abgeordneter und der Fraktion der AfD
+- Drucksache 19/14762 -
+Bürgereingaben ernst nehmen - Änderung der Geschäftsordnung des Deutschen Bundestages - Verbindliche Regelungen für öffentliche Petitionen"/>
+      <string key="org:resource" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      </string>
+      <string key="vorgangsbezug" value="Bürgereingaben ernst nehmen - Änderung der Geschäftsordnung des Deutschen Bundestages - Verbindliche Regelungen für öffentliche Petitionen">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="254998"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Britta Haßelmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 118"/>
+        <string key="autor" value="Patrick Schnieder, MdB, CDU/CSU, 1100"/>
+        <string key="autor" value="Thomas Seitz, MdB, AfD, 2133"/>
+        <string key="autor" value="Sonja Amalie Steffen, MdB, SPD, 1125"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/310/1931005.pdf">
+        <date key="verteildatum" value="2021-06-23"/>
+        <string key="pdf_hash" value="835ff97f3a68253fb703fcfca953fb9a"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="234865"/>
+    <event>
+      <string key="concept:name" value="Antrag"/>
+      <string key="vorgangsbezug" value="234865"/>
+      <date key="time:timestamp" value="2018-04-24T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/1843"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="218905"/>
+      <string key="titel" value="Änderung der Geschäftsordnung des Deutschen Bundestages zur Vermeidung von Überschneidungen von Sitzungen des Bundestages mit Sitzungen der Ausschüsse und Gremien"/>
+      <string key="org:resource" value="Fraktion der AfD">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion der AfD"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Änderung der Geschäftsordnung des Deutschen Bundestages zur Vermeidung von Überschneidungen von Sitzungen des Bundestages mit Sitzungen der Ausschüsse und Gremien">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="234865"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Stephan Brandner, MdB, AfD, 2075"/>
+        <string key="autor" value="Thomas Seitz, MdB, AfD, 2133"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/018/1901843.pdf">
+        <string key="pdf_hash" value="84df1a46a0455444961f29c555ba9dba"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="234865"/>
+      <date key="time:timestamp" value="2019-02-15T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/7819"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="226414"/>
+      <string key="titel" value="zu dem Antrag der Abgeordneten Stephan Brandner, Thomas Seitz, Corinna Miazga, Andreas Bleck und der Fraktion der AfD
+- Drucksache 19/1843 -
+Änderung der Geschäftsordnung des Deutschen Bundestages zur Vermeidung von Überschneidungen von Sitzungen des Bundestages mit Sitzungen der Ausschüsse und Gremien"/>
+      <string key="org:resource" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      </string>
+      <string key="vorgangsbezug" value="Änderung der Geschäftsordnung des Deutschen Bundestages zur Vermeidung von Überschneidungen von Sitzungen des Bundestages mit Sitzungen der Ausschüsse und Gremien">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="234865"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Dr. Matthias Bartke, MdB, SPD, 1509"/>
+        <string key="autor" value="Dr. Marco Buschmann, MdB, FDP, 7511"/>
+        <string key="autor" value="Britta Haßelmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 118"/>
+        <string key="autor" value="Patrick Schnieder, MdB, CDU/CSU, 1100"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/078/1907819.pdf">
+        <string key="pdf_hash" value="9bcb9ceca54b7671a594cd0be2e60231"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="268186"/>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="268186"/>
+      <date key="time:timestamp" value="2020-10-01T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/23037"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="245983"/>
+      <string key="titel" value="a) zu dem Gesetzentwurf der Fraktionen der CDU/CSU und SPD
+- Drucksache 19/13507 -
+Entwurf eines …. Gesetzes zur Änderung des Abgeordnetengesetzes
+b) Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Änderung der Verhaltensregeln für Mitglieder des Deutschen Bundestages (Anlage 1 GO-BT)"/>
+      <string key="org:resource" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      </string>
+      <string key="vorgangsbezug" value="Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Änderung der Verhaltensregeln für Mitglieder des Deutschen Bundestages (Anlage 1 GO-BT)">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="268186"/>
+        <int key="vorgangsbezug_anzahl" value="2"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Dr. Matthias Bartke, MdB, SPD, 1509"/>
+        <string key="autor" value="Britta Haßelmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 118"/>
+        <string key="autor" value="Jan Korte, MdB, DIE LINKE, 18"/>
+        <string key="autor" value="Patrick Schnieder, MdB, CDU/CSU, 1100"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/230/1923037.pdf">
+        <date key="verteildatum" value="2020-10-05"/>
+        <string key="pdf_hash" value="17629a8942f7cbfd03779bc6ea5c07e4"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="84417"/>
+    <event>
+      <string key="concept:name" value="Antrag"/>
+      <string key="vorgangsbezug" value="84417"/>
+      <date key="time:timestamp" value="2017-10-24T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/11"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="68863"/>
+      <string key="titel" value="Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Beratungsfrist"/>
+      <string key="org:resource" value="Fraktion DIE LINKE">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion DIE LINKE"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Beratungsfrist">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="84417"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/000/1900011.pdf">
+        <string key="pdf_hash" value="977748dc49ba893b7bc2fd2e10b611cd"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="84417"/>
+      <date key="time:timestamp" value="2018-11-22T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/5986"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="224206"/>
+      <string key="titel" value="zu dem Antrag der Fraktion DIE LINKE.
+- Drucksache 19/11 -
+Änderung der Geschäftsordnung des Deutschen Bundestages 
+hier: Beratungsfrist"/>
+      <string key="org:resource" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      </string>
+      <string key="vorgangsbezug" value="Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: Beratungsfrist">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="84417"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Dr. Matthias Bartke, MdB, SPD, 1509"/>
+        <string key="autor" value="Andreas Bleck, MdB, AfD, 2071"/>
+        <string key="autor" value="Dr. Marco Buschmann, MdB, FDP, 7511"/>
+        <string key="autor" value="Britta Haßelmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 118"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/059/1905986.pdf">
+        <string key="pdf_hash" value="2e2bc6783c457adf568d5cca5d856381"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="273003"/>
+    <event>
+      <string key="concept:name" value="Antrag"/>
+      <string key="vorgangsbezug" value="273003"/>
+      <date key="time:timestamp" value="2021-01-27T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/26228"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="249683"/>
+      <string key="titel" value="Auslegung von § 2 Absatz 1 Satz 2 und § 126 der Geschäftsordnung des Deutschen Bundestages"/>
+      <string key="org:resource" value="Fraktion der AfD">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion der AfD"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Auslegung von § 2 Absatz 1 Satz 2 und § 126 der Geschäftsordnung des Deutschen Bundestages">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="273003"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Stephan Brandner, MdB, AfD, 2075"/>
+        <string key="autor" value="Jürgen Braun, MdB, AfD, 2078"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/262/1926228.pdf">
+        <date key="verteildatum" value="2021-01-27"/>
+        <string key="pdf_hash" value="f42782c45dea24bb855aca4b43d42187"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="273003"/>
+      <date key="time:timestamp" value="2021-04-19T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/28675"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="252778"/>
+      <string key="titel" value="zu dem Antrag der Abgeordneten Stephan Brandner, Jürgen Braun, Marcus Bühl, weiterer Abgeordneter und der Fraktion der AfD
+- Drucksache 19/26228 -
+Auslegung von § 2 Absatz 1 Satz 2 und § 126 der Geschäftsordnung des Deutschen Bundestages"/>
+      <string key="org:resource" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      </string>
+      <string key="vorgangsbezug" value="Auslegung von § 2 Absatz 1 Satz 2 und § 126 der Geschäftsordnung des Deutschen Bundestages">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="273003"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Dr. Matthias Bartke, MdB, SPD, 1509"/>
+        <string key="autor" value="Stephan Brandner, MdB, AfD, 2075"/>
+        <string key="autor" value="Britta Haßelmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 118"/>
+        <string key="autor" value="Patrick Schnieder, MdB, CDU/CSU, 1100"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/286/1928675.pdf">
+        <date key="verteildatum" value="2021-04-19"/>
+        <string key="pdf_hash" value="504a75060320a6ddf6ae37dc0e2b1ab4"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="279335"/>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="279335"/>
+      <date key="time:timestamp" value="2021-06-21T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/30885"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="255743"/>
+      <string key="titel" value="Änderung der Geschäftsordnung des Deutschen Bundestages 
+hier:	Einführung einer Anlage 2a (Verhaltenskodex)"/>
+      <string key="org:resource" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      </string>
+      <string key="vorgangsbezug" value="Änderung der Geschäftsordnung des Deutschen Bundestages
+hier:	Einführung einer Anlage 2a (Verhaltenskodex)">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="279335"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Britta Haßelmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 118"/>
+        <string key="autor" value="Patrick Schnieder, MdB, CDU/CSU, 1100"/>
+        <string key="autor" value="Thomas Seitz, MdB, AfD, 2133"/>
+        <string key="autor" value="Sonja Amalie Steffen, MdB, SPD, 1125"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/308/1930885.pdf">
+        <date key="verteildatum" value="2021-06-21"/>
+        <string key="pdf_hash" value="379388e8735b886dd34dcbcd6e15a6ed"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="84352"/>
+    <event>
+      <string key="concept:name" value="Antrag"/>
+      <string key="vorgangsbezug" value="84352"/>
+      <date key="time:timestamp" value="2017-10-24T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/2"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="68853"/>
+      <string key="titel" value="Grundsatz der Diskontinuität in der konstituierenden Sitzung des 19. Deutschen Bundestages"/>
+      <string key="org:resource" value="Fraktion der AfD">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion der AfD"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Grundsatz der Diskontinuität in der konstituierenden Sitzung des 19. Deutschen Bundestages">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="84352"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/000/1900002.pdf">
+        <string key="pdf_hash" value="f346cf3e9d30642900af18bda1fb0180"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="244474"/>
+    <event>
+      <string key="concept:name" value="Antrag"/>
+      <string key="vorgangsbezug" value="244474"/>
+      <date key="time:timestamp" value="2019-02-20T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/7930"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="226636"/>
+      <string key="titel" value="Änderung der Geschäftsordnung des Deutschen Bundestages 
+hier: Umsetzung des Gesetzes über die unabhängige Polizeibeauftragte oder den unabhängigen Polizeibeauftragten des Bundes (Bundespolizeibeauftragtengesetz - BPolBeauftrG)"/>
+      <string key="org:resource" value="Fraktion BÜNDNIS 90/DIE GRÜNEN">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion BÜNDNIS 90/DIE GRÜNEN"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Änderung der Geschäftsordnung des Deutschen Bundestages 
+hier: Umsetzung des Gesetzes über die unabhängige Polizeibeauftragte oder den unabhängigen Polizeibeauftragten des Bundes (Bundespolizeibeauftragtengesetz - BPolBeauftrG)">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="244474"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Dr. Irene Mihalic, MdB, BÜNDNIS 90/DIE GRÜNEN, 7050"/>
+        <string key="autor" value="Dr. Konstantin von Notz, MdB, BÜNDNIS 90/DIE GRÜNEN, 1191"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/079/1907930.pdf">
+        <string key="pdf_hash" value="eb4375f70bb9777e55f2c6c264547734"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="244474"/>
+      <date key="time:timestamp" value="2020-06-17T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/20129"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="242317"/>
+      <string key="titel" value="zu dem Antrag der Abgeordneten Dr. Irene Mihalic, Dr. Konstantin von Notz, Luise Amtsberg, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN
+- Drucksache 19/7930 -
+Änderung der Geschäftsordnung des Deutschen Bundestages 
+hier: Umsetzung des Gesetzes über die unabhängige Polizeibeauftragte oder den unabhängigen Polizeibeauftragten des Bundes 
+(Bundespolizeibeauftragtengesetz - BPolBeauftrG)"/>
+      <string key="org:resource" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      </string>
+      <string key="vorgangsbezug" value="Änderung der Geschäftsordnung des Deutschen Bundestages 
+hier: Umsetzung des Gesetzes über die unabhängige Polizeibeauftragte oder den unabhängigen Polizeibeauftragten des Bundes (Bundespolizeibeauftragtengesetz - BPolBeauftrG)">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="244474"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Dr. Matthias Bartke, MdB, SPD, 1509"/>
+        <string key="autor" value="Dr. Marco Buschmann, MdB, FDP, 7511"/>
+        <string key="autor" value="Britta Haßelmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 118"/>
+        <string key="autor" value="Patrick Schnieder, MdB, CDU/CSU, 1100"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/201/1920129.pdf">
+        <string key="pdf_hash" value="02abe07e7e48cb3bb2c8e18c6b6ae982"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="260027"/>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung"/>
+      <string key="vorgangsbezug" value="260027"/>
+      <date key="time:timestamp" value="2020-03-10T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/17734"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="239331"/>
+      <string key="titel" value="Zeitplan des Deutschen Bundestages für das Jahr 2021 - 1. Halbjahr"/>
+      <string key="org:resource" value="Ältestenrat"/>
+      <string key="org:role" value="Sonstiges">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ältestenrat"/>
+      </string>
+      <string key="vorgangsbezug" value="Zeitplan des Deutschen Bundestages für das Jahr 2021 - 1. Halbjahr">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="260027"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren"/>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/177/1917734.pdf">
+        <string key="pdf_hash" value="ef2e57e129f84ceca062947f59f90afd"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="262310"/>
+    <event>
+      <string key="concept:name" value="Antrag"/>
+      <string key="vorgangsbezug" value="262310"/>
+      <date key="time:timestamp" value="2020-05-15T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/19243"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="241159"/>
+      <string key="titel" value="Reform des Bundestages - Änderung der Geschäftsordnung des Deutschen Bundestages - Digitale Abstimmungsgeräte nutzen"/>
+      <string key="org:resource" value="Fraktion der AfD">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion der AfD"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Reform des Bundestages - Änderung der Geschäftsordnung des Deutschen Bundestages - Digitale Abstimmungsgeräte nutzen">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="262310"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Joana Cotar, MdB, AfD, 7625"/>
+        <string key="autor" value="Jens Maier, MdB, AfD, 1987"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/192/1919243.pdf">
+        <string key="pdf_hash" value="319a1307f5d65b971fcd11d44b8622b7"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Beschlussempfehlung und Bericht"/>
+      <string key="vorgangsbezug" value="262310"/>
+      <date key="time:timestamp" value="2021-01-12T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/25779"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="249197"/>
+      <string key="titel" value="zu dem Antrag der Abgeordneten Joana Cotar, Jens Maier, Uwe Schulz, weiterer Abgeordneter und der Fraktion der AfD
+- Drucksache 19/19243 -
+Reform des Bundestages - Änderung der Geschäftsordnung des Deutschen Bundestages - Digitale Abstimmungsgeräte nutzen"/>
+      <string key="org:resource" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      <string key="org:role" value="Ausschuss">
+        <string key="typ" value="Urheber"/>
+        <string key="urheber" value="Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"/>
+      </string>
+      <string key="vorgangsbezug" value="Reform des Bundestages - Änderung der Geschäftsordnung des Deutschen Bundestages - Digitale Abstimmungsgeräte nutzen">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="262310"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Britta Haßelmann, MdB, BÜNDNIS 90/DIE GRÜNEN, 118"/>
+        <string key="autor" value="Jens Maier, MdB, AfD, 1987"/>
+        <string key="autor" value="Patrick Schnieder, MdB, CDU/CSU, 1100"/>
+        <string key="autor" value="Sonja Amalie Steffen, MdB, SPD, 1125"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/257/1925779.pdf">
+        <date key="verteildatum" value="2021-01-12"/>
+        <string key="pdf_hash" value="2b855a9c4ae2a904e70f615b3968d585"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="273095"/>
+    <event>
+      <string key="concept:name" value="Antrag"/>
+      <string key="vorgangsbezug" value="273095"/>
+      <date key="time:timestamp" value="2021-01-29T00:00:00.000000Z"/>
+      <int key="wahlperiode" value="19"/>
+      <string key="dokumentnummer" value="19/26315"/>
+      <string key="typ" value="Dokument"/>
+      <string key="dokumentart" value="Drucksache"/>
+      <string key="herausgeber" value="BT"/>
+      <int key="id" value="249805"/>
+      <string key="titel" value="Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: bessere Lesbarkeit von Gesetzentwürfen"/>
+      <string key="org:resource" value="Fraktion DIE LINKE">
+        <string key="einbringer" value="false"/>
+        <string key="typ" value="Fraktion"/>
+        <string key="urheber" value="Fraktion DIE LINKE"/>
+      </string>
+      <string key="org:role" value="Fraction"/>
+      <string key="vorgangsbezug" value="Änderung der Geschäftsordnung des Deutschen Bundestages
+hier: bessere Lesbarkeit von Gesetzentwürfen">
+        <string key="vorgangsbezug_typ" value="Geschäftsordnung"/>
+        <int key="vorgangsbezug_id" value="273095"/>
+        <int key="vorgangsbezug_anzahl" value="1"/>
+      </string>
+      <list key="autoren">
+        <string key="autor" value="Jan Korte, MdB, DIE LINKE, 18"/>
+        <string key="autor" value="Friedrich Straetmanns, MdB, DIE LINKE, 2153"/>
+      </list>
+      <string key="fundstelle" value="https://dserver.bundestag.de/btd/19/263/1926315.pdf">
+        <date key="verteildatum" value="2021-01-29"/>
+        <string key="pdf_hash" value="53c1f3eabef9606cadfe2b23cca4e94a"/>
+      </string>
+      <string key="org:group" value="Bundestag"/>
+      <string key="aktualisiert" value="2022-07-26T19:57:15+02:00"/>
+    </event>
+  </trace>
+</log>

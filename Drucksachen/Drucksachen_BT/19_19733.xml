@@ -1,0 +1,464 @@
+<document>
+    <id>241825</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/19733</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>6f2bd0c09462efaa0068944a262fc692</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>262424</id>
+      <titel>Sachstand zur Digitalisierung der Steuerverwaltung</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium der Finanzen</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/197/1919733.pdf</pdf_url>
+      <id>241825</id>
+      <dokumentnummer>19/19733</dokumentnummer>
+      <datum>2020-06-03</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Antwort
+der Bundesregierung
+auf die Kleine Anfrage der Abgeordneten Katja Hessel, Christian D&#252;rr,
+Grigorios Aggelidis, weiterer Abgeordneter und der Fraktion der FDP
+&#8211; Drucksache 19/19303 &#8211;
+Sachstand zur Digitalisierung der Steuerverwaltung
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Eine Digitalisierung der Prozesse innerhalb der Steuerverwaltung ist nach
+Ansicht der Fragesteller die Voraussetzung f&#252;r die Vereinfachung des
+Besteuerungsverfahrens. Die B&#252;rger und Unternehmen profitieren schon jetzt von 
+einem zunehmenden, aber nach Ansicht der Fragesteller im europ&#228;ischen 
+Kontext noch vergleichsweise unterdurchschnittlichen Digitalisierungsgrad in 
+der Steuerverwaltung (https://www.accenture.com/de-de/insight-deutsche-steu
+erverwaltung-digitalisierung-schlusslicht abgerufen am 7. Mai 2020), z. B. 
+durch effizientere Prozesse, k&#252;rzere Bearbeitungszeiten f&#252;r Steuererkl&#228;rungen, 
+eine aktenlose Bearbeitung, papierlose Kommunikation.
+&#8222;Die Regelungen in der Abgabenordnung und der StDAV er&#246;ffnen die
+M&#246;glichkeit einer umfassenden elektronischen Kommunikation zwischen B&#252;rgern, 
+Unternehmern und Finanzverwaltungen.&#8220; (http://www.esteuer.de/ abgerufen 
+am 1. April 2020)
+Bund und L&#228;nder wirken nach Artikel 108 Absatz 4a des Grundgesetzes (GG) 
+beim einheitlichen Einsatz von IT-Verfahren und Software sowie ihrer
+einheitlichen Entwicklung zusammen, um die von den L&#228;ndern im Auftrag des 
+Bundes verwalteten Steuern gleichm&#228;&#223;ig zu vollziehen (&#167; 1, &#167; 2 Nummer 1 
+KONSENS-Gesetz)
+Um den aktuellen Digitalisierungsgrad bewerten und auf weitere
+Verbesserungen im Bereich der Steuerverwaltung hinwirken zu k&#246;nnen, soll durch die 
+folgenden Fragen der Sachstand in diversen Bereichen festgestellt werden.
+Deutscher Bundestag Drucksache 19/19733
+19. Wahlperiode 03.06.2020
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums der Finanzen vom 2. Juni 2020 
+&#252;bermittelt.
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext.
+1. Welchen Einfluss hat die Bundesregierung auf die (Voll-)Digitalisierung 
+der Landesfinanzverwaltungen &#252;ber das mit den L&#228;ndern abgeschlossene 
+Verwaltungsabkommen KONSENS (Koordinierte neue
+Softwareentwicklung der Steuerverwaltung) bzw. das KONSENS-Gesetz?
+a) Kann die Bundesregierung als Auftraggeber neben den 16
+Landesfinanzbeh&#246;rden ihre Interessen in Bezug auf den Vorhabensplan, das 
+Budget und die Organisation ausreichend durchsetzen?
+b) Welche &#252;bergeordneten Ziele in Bezug auf eine Digitalisierung der 
+Steuerverwaltung konnte die Bundesregierung bei der Festlegung der 
+Architektur und der IT-Standards &#252;ber die Gesamtleitung der
+operativen Steuerung durchsetzen?
+c) Plant die Bundesregierung, in der Bund-L&#228;nder-Steuerungsgruppe 
+ge&#228;nderte Priorit&#228;ten zu setzen, die eine (Voll-)Digitalisierung der 
+Steuerverwaltung noch st&#228;rker vorantreiben?
+Die Fragen 1 bis 1c werden gemeinsam beantwortet.
+Die Zusammenarbeit im Vorhaben KONSENS ist nach &#167; 1 KONSENS-G
+darauf ausgerichtet, dass Bund und L&#228;nder zur erheblichen Verbesserung oder 
+Erleichterung des gleichm&#228;&#223;igen Vollzugs der von den L&#228;ndern im Auftrag des 
+Bundes verwalteten Steuern beim einheitlichen Einsatz von IT-Verfahren und 
+Software sowie ihrer einheitlichen Entwicklung zusammenwirken. Damit ist 
+ein zwischen dem Bund und den L&#228;ndern bestehendes einvernehmliches und 
+gemeinsames Ziel zum weiteren Vorantreiben der Digitalisierung vorgegeben.
+Entsprechend dieser gemeinschaftlichen Zielsetzung arbeiten Bund und L&#228;nder 
+innerhalb der Gremien zusammen. Der Bund ist im Auftraggeber-Gremium, 
+dem je ein Vertreter des Bundes sowie der L&#228;nder angeh&#246;ren, angemessen an 
+der Verwirklichung der weiteren Digitalisierung beteiligt. Dies gilt auch f&#252;r die 
+Steuerungsgruppe Informationstechnik, die u. a. die Strategie und die
+Architektur im Gesamtvorhaben KONSENS festlegt und steuert und der je ein Vertreter 
+des Bundes sowie der L&#228;nder Baden-W&#252;rttemberg, Bayern, Hessen,
+Niedersachsen und Nordrhein-Westfalen angeh&#246;ren. Dar&#252;ber hinaus stellt der Bund 
+den Gesamtleiter &#8211; zust&#228;ndig f&#252;r die operative Steuerung des Gesamtvorhabens 
+KONSENS. Auf der Grundlage der von der Stgr-IT festgelegten Ziele erfolgt 
+das entschlossene Vorantreiben der Digitalisierung der steuerlich relevanten 
+Prozesse. &#220;ber das etablierte und anerkannte ELSTER-Portal werden B&#252;rgern 
+und Unternehmen auch k&#252;nftig weitere IT-Dienstleistungen angeboten.
+Neben den Ma&#223;nahmen zur weiteren Digitalisierung in der Steuerverwaltung 
+ist das Vorhaben KONSENS prim&#228;r mit der Umsetzung gesetzlicher Auftr&#228;ge 
+besch&#228;ftigt. Die Corona-bedingten Ma&#223;nahmen der Bundesregierung werden 
+auch durch Anpassungen in den IT-Verfahren des Vorhabens KONSENS
+unterst&#252;tzt. Wie es das KONSENS-G vorgibt, liegen wesentliche Schwerpunkte im 
+Bereich der Softwareentwicklung bei den Arbeiten zur Vereinheitlichung und 
+technische Modernisierung der Kernverfahren Grundinformationsdienst 
+(GINSTER), Festsetzung (ELFE) und Erhebung (BIENE). Die entsprechende 
+Priorit&#228;tensetzung wird derzeit aus Bundessicht als zutreffend angesehen.
+d) Wie lange dauert die Umsetzung von KONSENS-Verfahren
+durchschnittlich ab Anmeldung bis Umsetzung in den L&#228;ndern (bitte die
+geringste und die l&#228;ngste Dauer bisheriger Umsetzungen mitteilen)?
+Die Verfahren im Vorhaben KONSENS sind als sog. Lieferanten technischer 
+Komponenten eingerichtet. Sie erstellen die Software initial und pflegen diese 
+fort. Insofern ist die Angabe einer Zeitdauer f&#252;r KONSENS-Verfahren nicht 
+m&#246;glich. Soweit es sich um die Angabe von Zeitr&#228;ume von der Anmeldung 
+einer Aufgabe zum Einsatz der erstellten technischen L&#246;sung in allen L&#228;ndern
+handelt, wird diese im Vorhaben KONSENS von verschiedenen Faktoren
+beeinflusst. Ein wesentlicher Faktor f&#252;r die technische Bereitstellung der
+Software ist die j&#228;hrliche Priorisierung der anstehenden Aufgaben durch das
+Auftraggebergremium. Auch ist der zur Erstellung der fachlichen Anforderungen 
+im Lastenheft zu beschreibende Umfang der Funktionen nicht dem Vorhaben 
+KONSENS zuzurechnen. F&#252;r die Einsatzplanungen in den einsetzenden
+L&#228;ndern sind die L&#228;nder eigenst&#228;ndig zust&#228;ndig.
+Es existieren Aufgaben aus dem Jahr 2007 (Abschluss des
+Verwaltungsabkommens KONSENS), die bis heute nicht umgesetzt sind. Bei politisch priorit&#228;ren 
+Aufgaben, die sich aus dem OZG ergeben haben, hat die Umsetzungszeit
+zwischen 15 Tagen und 9 Monaten gelegen.
+2. Geht die Bundesregierung davon aus, dass die Steuerverwaltungen des 
+Bundes und der L&#228;nder die Anforderungen des Onlinezugangsgesetzes 
+(OZG) bis Ende 2022 vollumf&#228;nglich erf&#252;llen werden?
+a) Welche zu digitalisierende Leistungen wurden f&#252;r die
+Steuerverwaltungen vom IT-Planungsrat konkret identifiziert?
+b) Welche der identifizierten Leistungen sind im Rahmen von KON-
+SENS bereits umgesetzt worden?
+Die Fragen 2 bis 2b werden gemeinsam beantwortet.
+Zur Umsetzung des Onlinezugangsgesetzes (OZG) wurden vom IT-Planungsrat 
+zu digitalisierende Leistungen identifiziert und anhand von Lebens- und
+Gesch&#228;ftslagen in einem Katalog zusammengefasst. Die darin enthaltenen
+Leistungen der Lebenslage Steuerkl&#228;rung und der Gesch&#228;ftslage &#8222;Steuern und
+Abgaben&#8220; betreffen auch das Vorhaben KONSENS. Der &#252;berwiegende Teil dieser 
+Leistungen ist in KONSENS bereits umgesetzt bzw. in Planung. In erster Linie 
+werden die Leistungen, die eine Kontaktaufnahme des Steuerpflichtigen mit 
+den Finanz&#228;mtern erfordern, ben&#246;tigt. Diese werden weitgehend
+bundeseinheitlich &#252;ber das ELSTER-Portal bereits angeboten. Bereits in der Planung befindet 
+sich noch die Umsetzung von Leistungen die insbesondere Einzelsteuern
+betreffen; u. a. die elektronische Bereitstellung von Verwaltungsleistungen f&#252;r die 
+Erbschaft- und Schenkungsteuer.
+Es werden im Vorhaben KONSENS nach den derzeitigen Planungen
+voraussichtlich nicht alle Anforderungen des OZG bis Ende 2022 vollumf&#228;nglich
+erf&#252;llt werden k&#246;nnen.
+3. Welche tats&#228;chlichen finanziellen Mittel (Beitr&#228;ge zum Gesamtbudget und 
+sonstige Zahlungen) hat die Bundesregierung zur F&#246;rderung der
+Volldigitalisierung der Steuerverwaltung seit der Ver&#246;ffentlichung des KON-
+SENS-Gesetzes aufgewendet (bitte pro Jahr auflisten)?
+Die Bundesregierung hat seit der Ver&#246;ffentlichung des KONSENSG im
+Bundesgesetzblatt vom 17. August 2017 folgende tats&#228;chliche finanzielle Mittel f&#252;r 
+das Vorhaben KONSENS aufgewendet:
+Jahr Ausgaben KONSENS
+2017 &#8194;7.874.347,78 &#8364;
+2018 26.914.288,90 &#8364;
+2019 28.280.494,19 &#8364;
+2020 12.321.157,19 &#8364;
+4. Wie steht die Bundesregierung zu einer verbindlichen Erh&#246;hung ihrer
+Beitr&#228;ge (&#252;ber den Beschluss der Finanzministerkonferenz hinaus) zur 
+KONSENS-Finanzplanung zur Schaffung einer echten digitalen
+Steuerverwaltung?
+Die Digitalisierung der Steuerverwaltung wird bereits seit Jahren
+vorangetrieben und wird auch in Zukunft entsprechend fortgef&#252;hrt. Dabei stellen das 
+ELSTER-Portal und die seit Jahren weitgehend automatisierten
+Verwaltungsprozesse in den L&#228;ndern eine sehr gute Basis dar.
+Die vereinbarte Finanzierungsweise des Gesamtvorhabens KONSENS ist im 
+gemeinschaftlichen Interesse von Bund und L&#228;ndern und erfolgt &#252;ber einen 
+transparenten, immer identischen prozentualen Beitrag. Dieses Verfahren und 
+die festgelegten Finanzierungsanteile haben sich bew&#228;hrt und sollen
+beibehalten werden. Der dar&#252;ber hinaus gezahlte erfolgsabh&#228;ngige Bundeszuschuss 
+wurde zudem zum 1. Januar 2017 von 3 Mio. Euro deutlich auf 10 Mio. Euro 
+erh&#246;ht.
+5. &#220;ber welche Schnittstellen werden aktuell Daten von B&#252;rgern,
+Unternehmen und Beh&#246;rden zur Finanzverwaltung &#252;bertragen?
+a) L&#228;sst sich die Schnittstelle so gestalten, dass private Anbieter Daten 
+gezielt an die Finanzverwaltung &#252;bertragen k&#246;nnen, die unter einer 
+bestimmten Steueridentifikationsnummer auf dem Datenspeicher der 
+Finanzverwaltung abgelegt werden?
+b) Kann die Schnittstelle durch private Anbieter frei genutzt werden, 
+oder bestehen Vorbehalte?
+Die Fragen 5 bis 5b werden gemeinsam beantwortet.
+Die einheitliche Schnittstelle zur Finanzverwaltung stellt das ELSTER-
+Angebot bereit. Die Schnittstelle ist so ausgelegt, dass die &#220;bertragung der Daten an 
+die Finanzverwaltung &#252;ber die Steueridentifikationsnummer oder
+Steuernummer adressiert werden kann.
+Es wird davon ausgegangen, dass mit &#8222;private Anbieter&#8220; Softwarehersteller von 
+Steuersoftware (Anwendungen, App's und Portale) gemeint sind. Die
+Schnittstelle kann mittels der ELSTER-Softwarebibliothek ERiC durch private
+Anbieter frei genutzt werden.
+6. Welche &#220;bertragungswege werden eingesetzt?
+a) Gibt es Regelungen zur Verwendung eines einheitlichen
+&#220;bertragungsprotokolls?
+b) Welche &#220;bertragungsprotokolle werden verwendet, und wie sicher 
+werden die aktuell verwendeten &#220;bertragungsprotokolle von der 
+Bundesregierung in Bezug auf m&#246;gliche Fremdzugriffe eingesch&#228;tzt?
+Die Fragen 6 bis 6b werden gemeinsam beantwortet.
+Die Finanzverwaltung l&#228;sst &#8211; im Wesentlichen aus Gr&#252;nden der IT-Sicherheit 
+und des Datenschutzes &#8211; nur definierte Datenwege zu. Als Schnittstelle wird 
+die f&#252;r alle Platt-formen verf&#252;gbare, kostenfreie ELSTER Softwarebibliothek 
+ERiC verwendet. Dar&#252;ber hinaus besteht die M&#246;glichkeit das kostenlose 
+ELSTER-Portal zu verwenden.
+Als &#220;bertragungsprotokoll wird S verwendet. Dabei wird f&#252;r die
+Verschl&#252;sselung immer auf die aktuellen Empfehlungen des BSI abgestellt. Dies wird zum
+einen durch unabh&#228;ngige Audits im Rahmen der BSI-ISO27001-Zertifizierung, 
+als auch von unabh&#228;ngigen Penetrations- bzw. DDoS-Tests sichergestellt.
+7. Welche Verschl&#252;sselungstechnik wird verwendet?
+Die Kommunikation innerhalb der Steuerverwaltung der L&#228;nder, insbesondere 
+die Kommunikation der Finanz&#228;mter mit den Landesrechenzentren ist mit 
+Hardware Kryptoboxen verschl&#252;sselt. Die eingesetzten Technologien sind
+landesspezifisch.
+Die Kommunikation zwischen den Steuerverwaltungen der L&#228;nder erfolgt &#252;ber 
+die zentrale Produktionsstelle (ZPS) ELSTER Kommunikation.
+Die ZPS ELSTER-Kommunikation betreibt das VPN-Overlay-Netz
+Finanzverwaltungsverbindungsnetz (FV-VN). Das FV-VN ist aufgespannt zwischen der 
+ZPS Elster-Kommunikation und den Landes-Rechenzentren, der ZPS Elster-
+Kommunikation und den Landeskopfstellen (LKSen), der ZPS Zentrale
+Fachdienste und den Landeskopfstellen (LKSen), etc. Die ZPS ELSTER-
+Kommunikation wechselt gerade technologisch von der Technologie SSH-VPN 
+auf IPSEC und damit einhergehend auch die Hardware.
+Die L&#228;nder&#252;bergreifende Kommunikation der Steuerverwaltungen der L&#228;nder 
+ist in jedem Land &#252;ber einheitliche Kommunikationskomponenten und mit
+jeweils aktuellen ELSTER Zertifikaten mit PKI Infrastruktur abgesichert. Die 
+ELSTER-Zertifikate haben eine Schl&#252;ssell&#228;nge von 2048 Bit. Aktuell erfolgt 
+der Ausbau auf Zertifikate mit 8192 Bit Schl&#252;ssell&#228;nge.
+a) Ist eine Ende-zu-Ende-Verschl&#252;sselung der Daten technisch
+umsetzbar?
+Eine Ende-zu-Ende-Verschl&#252;sselung der Daten ist zwischen den Nutzern und 
+der ZPS ELSTER Kommunikation bereits umgesetzt. Die &#220;bertragung von den 
+Landes-Rechenzentren zu ELSTER ist ebenfalls Ende zu Ende verschl&#252;sselt.
+b) Werden die Daten auf dem Stand der Technik verschl&#252;sselt
+gespeichert?
+Die Daten werden in der ZPS ELSTER Kommunikation nur tempor&#228;r
+gespeichert, welche diese dann in Folge in die zust&#228;ndigen Rechenzentren der 
+Bundesl&#228;nder weiterverteilt. Die ZPS ELSTER Kommunikation ist ein IT-
+Verbund, der seit 2007 eine g&#252;ltige BSI-ISO27001-Zertifizierung auf der Basis von 
+IT-Grundschutz besitzt. Im Rahmen der j&#228;hrlichen Vor-Ort Audits durch einen 
+externen Auditor wird unter anderem &#252;berpr&#252;ft, dass
+Verschl&#252;sselungstechniken auf dem Stand der Technik verwendet werden.
+8. Wie bewertet die Bundesregierung die Sicherheit der Zertifizierung gem&#228;&#223; 
+ISO 27001 auf der Basis von IT-Grundschutz?
+Es handelt sich bei der Zertifizierung gem&#228;&#223; ISO 27001 um einen vom BSI 
+vorgesehenen Standard zur IT-Sicherheit. Die Bundesregierung bef&#252;rwortet die 
+Einhaltung dieses BSI-Standards. Das Vorhaben KONSENS orientiert sich bei 
+der Erstellung der Software an diesen Vorgaben, um einen sicheren Einsatz in 
+den L&#228;ndern zu erm&#246;glichen.
+9. Wie werden die Steuerdaten der B&#252;rgerinnen und B&#252;rger derzeit bei einer 
+elektronischen &#220;bermittlung an die Finanzverwaltungen der L&#228;nder
+gespeichert?
+Es wird davon ausgegangen, dass sich die Frage auf die tempor&#228;re
+Zwischenspeicherung w&#228;hrend der &#220;bertragung von der B&#252;rgerin bzw. dem B&#252;rger an 
+die Finanzverwaltung der L&#228;nder bezieht. Es wird auf die Antwort zu Frage 7b 
+verwiesen. F&#252;r die Speicherung der Daten in den L&#228;ndern sind die L&#228;nder
+zust&#228;ndig.
+a) An welchen konkreten Orten befinden sich die Speichermedien?
+Die Speichermedien befinden sich beim Bayerischen Landesamt f&#252;r Steuern, 
+ZPS ELSTER-Kommunikation. Nach &#220;bermittlung der Daten an die L&#228;nder 
+obliegt die Wahl des Ortes der Datenspeicherung aufgrund der Datenhoheit der 
+L&#228;nder dem jeweiligen Land: in der Regel sind dies die Finanzrechenzentren 
+der L&#228;nder.
+b) Welche Beh&#246;rden sind bei der Speicherung der Steuerdaten involviert?
+Es wird auf die Antwort zu Frage 9a verwiesen.
+c) &#220;ber welche Speicherkapazit&#228;ten verf&#252;gen die entsprechenden
+Stellen?
+Die Speicherkapazit&#228;ten liegen im Terabyte-Bereich. Die Speicherkapazit&#228;ten 
+sind jedoch grunds&#228;tzlich abh&#228;ngig von der Gr&#246;&#223;e des Bundeslandes. Die
+notwendigen Speicherkapazit&#228;ten werden st&#228;ndig &#252;berwacht und werden den
+Notwendigkeiten entsprechend angepasst.
+d) Welche Schutzvorrichtungen bestehen, um die Datensicherheit zu
+gew&#228;hrleisten?
+Die ZPS ELSTER-Kommunikation hat seit dem Jahr 2007 eine g&#252;ltige BSI-
+ISO27001-Zertifizierung auf der Basis von IT-Grundschutz. Folglich sind die 
+entsprechenden BSI-Ma&#223;nahmen bzgl. der Schutzziele Vertraulichkeit,
+Integrit&#228;t und Verf&#252;gbarkeit umgesetzt.
+Die Daten sind ausschlie&#223;lich im Netz der jeweiligen Finanzverwaltungen der 
+L&#228;nder verf&#252;gbar. Auf dieses Netz haben nur autorisierte Nutzer und
+ausschlie&#223;lich Angeh&#246;rige der Finanzverwaltung Zugriff. Der tats&#228;chliche Zugriff 
+auf jeden einzelnen Steuerfall ist dar&#252;ber hinaus durch genau definierte
+aufgabenabh&#228;ngige Berechtigungen geregelt und wird aufgezeichnet. Die
+Einhaltung des Datenschutzes obliegt den Finanzverwaltungen der L&#228;nder und wird 
+durch Aufzeichnungen der jeweiligen Datenschutzbeauftragten der
+einsetzenden L&#228;nder kontrolliert.
+e) Wird bei der Speicherung der Daten aktuell sichergestellt, dass die
+eingereichten Daten revisionssicher, wieder auffindbar, nachvollziehbar, 
+unver&#228;nderbar und verf&#228;lschungssicher archiviert werden?
+Die Daten werden in der ZPS ELSTER-Kommunikation aus
+Datenschutzgr&#252;nden nur tempor&#228;r, aber nicht revisionssicher mit Aufbewahrungsfristen von 
+sechs bis zehn Jahren gespeichert. Die revisionssichere Speicherung der Daten 
+erfolgt bei der Finanzverwaltung der L&#228;nder.
+Jeder Eingang und jede Bearbeitung des Falles, wird in den
+Finanzverwaltungen der L&#228;nder revisionssicher dokumentiert. Die gesicherten Daten
+unterliegen den obengenannten Zugangsbeschr&#228;nkungen.
+f) Kann bei der Speicherung von Steuerdaten durch den Anwender 
+selbstbestimmt entschieden werden, welche Daten zur Nutzung durch 
+die Finanzverwaltung freigegeben sind, oder sind die Finanzbeh&#246;rden 
+grunds&#228;tzlich berechtigt, auf s&#228;mtliche gespeicherte Daten
+zuzugreifen?
+Mit der &#220;bermittlung der Daten durch den Anwender an ELSTER entscheidet 
+dieser selbstbestimmt, welche Daten die Finanzverwaltung erh&#228;lt. Beim 
+ELSTER-Portal sind die Daten einer Steuererkl&#228;rung erst dann f&#252;r die
+Steuerverwaltung einsehbar, wenn der Nutzer seine Steuererkl&#228;rung willentlich bei 
+der Steuerverwaltung einreicht (absendet). Bis dahin werden
+Steuererkl&#228;rungen, die sich noch in einem Bearbeitungszustand durch den Nutzer befinden 
+und beim ELSTER-Portal als sogenannter Entwurf zwischengespeichert
+werden, in verschl&#252;sselter Form im Benutzerkonto des Nutzers gespeichert. Ein 
+Zugriff auf einen solchen Entwurf durch die Steuerverwaltung der L&#228;nder ist 
+technisch nicht m&#246;glich. Daten, die der Finanzverwaltung vom
+Steuerpflichtigen &#252;berlassen werden, sind dem obengenannten Personenkreis im Rahmen des 
+Berechtigungskonzepts zug&#228;nglich. Der &#220;berlassung der Daten hat der
+Steuerpflichtige durch entsprechende und dokumentierte Willens&#228;u&#223;erungen
+zugestimmt. Sofern die Daten nur &#252;bermittelt, aber nicht authentisiert werden, sind 
+sie den Bearbeitern nicht zug&#228;nglich und werden nach Ablauf einer
+Einlassungsfrist gel&#246;scht.
+10. Welche Zugriffsm&#246;glichkeiten auf die gespeicherten Daten bestehen?
+a) Ist das derzeitige Zugriffsmanagement transparent ausgestaltet bzw. 
+l&#228;sst es sich zuk&#252;nftig transparent ausgestalten?
+Die ZPS ELSTER-Kommunikation hat seit dem Jahr 2007 eine g&#252;ltige BSI-
+ISO27001-Zertifizierung auf der Basis von IT-Grundschutz. Folglich sind auch 
+die erforderlichen Ma&#223;nahmen bzgl. Zugriffskontrolle transparent ausgestaltet. 
+Das KONSENS-Rechte- und Rollen-/Berechtigungskonzept erm&#246;glicht f&#252;r
+jeden Zeitpunkt die Ermittlung der zust&#228;ndigen und zugriffsberechtigten
+Personen und wird stetig an die Erfordernisse des Steuergeheimnisses, des
+Datenschutzes und der Steuerdatenabrufverordnung angepasst.
+b) Kann sichergestellt werden, dass auf einen internen Bereich
+ausschlie&#223;lich der Nutzer (Steuerpflichtiger) zugreifen kann?
+Beim ELSTER-Portal gibt es einen privaten Bereich der &#252;ber den Login des 
+Nutzers gesch&#252;tzt ist. In diesem Bereich befinden sich Entw&#252;rfe von
+Steuererkl&#228;rungen, die der Nutzer erstellt hat, Nachrichten der Steuerverwaltung f&#252;r 
+den Nutzer sowie die Angaben des Nutzers zu seinem Benutzerkonto, wie die 
+E-Mail-Adresse, seine Postanschrift, etc. Steuererkl&#228;rungen, die sich noch in 
+einem Bearbeitungszustand durch den Nutzer im privaten Bereich von &#8222;Mein 
+ELSTER&#8220; befinden und noch nicht eingereicht (abgesendet) wurden, werden 
+als sogenannter Entwurf zwischengespeichert und in verschl&#252;sselter Form im 
+Benutzerkonto gespeichert. Der Zugriff auf einen solchen Entwurf durch die 
+Steuerverwaltung der L&#228;nder ist technisch nicht m&#246;glich. Nur der Nutzer selbst 
+kann den Entwurf unter Verwendung seines Logins &#246;ffnen (technisch
+entschl&#252;sseln). Auf die Daten innerhalb der Finanzverwaltung hat der
+Steuerpflichtige keine Zugriffsm&#246;glichkeit.
+c) L&#228;sst sich f&#252;r alle nichtinternen Bereiche der Zugriff so &#252;berwachen, 
+dass nachvollzogen werden kann, wer wann, und wie oft auf die
+gespeicherten Daten zugriffen hat?
+Datenzugriffe werden nach den Erfordernissen der Steuerdatenabrufverordnung 
+dokumentiert. Die erstellten Protokollierungen werden durch die
+Datenschutzbeauftragten der Beh&#246;rden kontrolliert.
+11. Welche Pl&#228;ne bestehen im Hinblick auf die Umsetzung des am 17. Juni 
+2016 verabschiedeten Gesetzes zur Modernisierung des
+Besteuerungsverfahrens zur &#220;bermittlung von elektronischen Belegen an die
+Finanzverwaltung?
+a) Sollen eigene Speicherr&#228;ume f&#252;r Belege eingerichtet werden?
+Ja, im privaten Bereich von &#8222;Mein ELSTER&#8220;.
+b) In welchen Datenformaten m&#252;ssen die Belege angeliefert werden?
+Die Belege m&#252;ssen im PDF-Format geliefert werden.
+c) Welche Schnittstellen und &#220;bertragungsprotokolle stehen zur
+Verf&#252;gung?
+Es steht die ELSTER-Softwarebibliothek ERiC zur Verf&#252;gung.
+d) K&#246;nnen diese elektronischen Belege aus Anwendungen von privaten 
+Anbietern, z. B. Apps, an die Finanzverwaltung &#252;bertragen werden?
+Ja, &#252;ber die ELSTER Softwarebibliothek ERiC.
+e) Sind &#252;bermittelte Belege f&#252;r den Steuerb&#252;rger nach einer
+&#220;bermittlung l&#246;schbar bzw. &#228;nderbar?
+Nein, sobald die Belege willentlich an die Finanzverwaltung abgesendet
+wurden (Hinweis auf Antwort zu Frage 9f).
+12. Beabsichtigt die Bundesregierung eine weitergehende Lockerung der 
+Belegnachforderungen nach eingereichter Steuererkl&#228;rung (z. B. durch 
+Planungen zur elektronischen &#220;bermittlung von Daten), um das
+Festsetzungsverfahren noch weiter zu vereinfachen/beschleunigen bzw. um auf 
+die Belegvorhalteverpflichtung f&#252;r B&#252;rger/Unternehmen verzichten zu 
+k&#246;nnen?
+Mit der Einkommensteuererkl&#228;rung m&#252;ssen grunds&#228;tzlich keine Belege mehr 
+beim Finanzamt eingereicht werden. Belege sind jedoch in bestimmten F&#228;llen 
+vom Steuerpflichtigen vorzuhalten. Die Bundesregierung setzt sich daf&#252;r ein, 
+die Belegvorhaltung und Belegvorlage m&#246;glichst medienbruchfrei und f&#252;r alle 
+am Besteuerungsverfahren Beteiligten optimal zu gestalten. Eine
+&#8222;Referenzierung Auf BElege (RABE)&#8220; innerhalb der elektronischen Steuererkl&#228;rung soll 
+k&#252;nftig einen gezielten und unmittelbaren Abruf in externen Datenhaltungen 
+gespeicherter Belege durch das Finanzamt ohne Zeitverlust erm&#246;glichen. 
+RABE wird das Festsetzungsverfahren noch weiter beschleunigen und
+vereinfachen. Auf die Belegvorhalteverpflichtung kann nicht verzichtet werden.
+13. Mit welchen Mitteln beabsichtigt die Bundesregierung, die
+Inanspruchnahme der digitalen Bereitstellung von rechtsverbindlichen
+Einkommensteuerbescheiden (DIVA) bzw. die Nutzung der &#8222;Mein Elster&#8220;-
+Oberfl&#228;che in den n&#228;chsten f&#252;nf Jahren finanziell und organisatorisch zu
+f&#246;rdern?
+Das ELSTER-Angebot fasst s&#228;mtliche digitale Dienste der deutschen
+Steuerverwaltung plattformunabh&#228;ngig, personalisiert und barrierefrei zusammen. Die 
+Bundesregierung unterst&#252;tzt das Vorhaben KONSENS und damit auch 
+ELSTER neben dem vereinbarten, immer identischen prozentualen Beitrag am 
+von den L&#228;ndern und dem Bund zu tragenden Finanzierungsanteil mit einem 
+erfolgsabh&#228;ngigen Zuschuss. F&#252;r das Jahr 2019 betrug dieser Zuschuss 10 Mio. 
+Euro. Die rechtverbindliche Bereitstellung digitaler
+Einkommensteuerbescheide erfolgt erstmals f&#252;r den Veranlagungszeitraum 2019. In einer Ausbaustufe 
+sollen alle Steuerbescheide/Verwaltungsakte und sonstigen Schreiben der
+Steuerverwaltung digital bereitgestellt werden k&#246;nnen. Der Ausbau von DIVA ist 
+eines der aktuellen Entwicklungsvorhaben in KONSENS.
+14. Hat die Bundesregierung &#252;ber die bundeseinheitliche Statistik oder die 
+Bund-L&#228;nder-Besprechungen eine Erkenntnis dar&#252;ber, wie hoch die
+relative und absolute Menge an sogenannten Automatikf&#228;llen seit dem
+Veranlagungsjahr 2016 bei der Bearbeitung von Steuerf&#228;llen ist?
+Die sog. Automatikf&#228;lle, hier als &#8222;Autof&#228;lle&#8220; bezeichnet, haben sich seit 2016 
+f&#252;r die Einkommensteuerveranlagung im Bundesgebiet wie folgt absolut und 
+relativ entwickelt (alle Werte aus technischen Gr&#252;nden ohne Nordrhein-
+Westfalen):
+Jahr Autof&#228;lle Autofallquote
+2016 742.796 &#8194;3,5 Prozent
+2017 1.492.840 &#8194;7,1 Prozent
+2018 1.815.987 &#8194;8,5 Prozent
+2019 2.236.002 10,0 Prozent
+15. Beabsichtigt die Bundesregierung die Einf&#252;hrung einer Pflicht zur
+Ausstellung von elektronischen Rechnungen und den Aufbau einer
+Clearingstelle (Beispiel: Italien &#8211; Sisteme di Interscambio)?
+Die Bundesregierung beabsichtigt nicht, eine Pflicht zur Ausstellung von
+elektronischen Rechnungen und den Aufbau einer Clearingstelle einzuf&#252;hren. Nach 
+Artikel 108 des Grundgesetzes sind die L&#228;nder f&#252;r die Erhebung und Kontrolle 
+der Umsatzsteuer zust&#228;ndig. Bund und L&#228;nder pr&#252;fen fortlaufend gemeinsam, 
+wie der Kampf gegen Steuerbetrug und damit die Sicherung von
+Haushaltseinnahmen weiter verbessert werden kann. Dabei werden auch Erfahrungen und 
+Initiativen aus anderen Mitgliedstaaten der EU ber&#252;cksichtigt. Dies trifft auch 
+auf das in Italien eingef&#252;hrte Sistema di Interscambio zu. F&#252;r die Einf&#252;hrung 
+des Systems wurde Italien vom Rat erm&#228;chtigt, von den allgemeinen
+Regelungen der Mehrwertsteuersystem-Richtlinie abzuweichen. In der zust&#228;ndigen 
+Ratsarbeitsgruppe &#8222;Steuerfragen&#8220; hat Italien dargelegt, dass man von der
+Ma&#223;nahme eine bessere Einhaltung der Steuervorschriften sowie fr&#252;hzeitigere und 
+wirksamere Kontrollen zur Bek&#228;mpfung von Steuerbetrug und -hinterziehung 
+erwarte. Ob sich die gesetzten Ziele tats&#228;chlich erf&#252;llen werden, bleibt zun&#228;chst 
+abzuwarten. Erfahrungen mit diesem System wurden von Italien bisher nicht 
+mitgeteilt, was in der K&#252;rze der Zeit seit Einf&#252;hrung auch nicht m&#246;glich ist. 
+Die Bundesregierung erwartet die Berichte von Italien zu den dort gemachten
+Erfahrungen und erreichten Ergebnissen mit Interesse und wird diese dann zum 
+gegebenen Zeitpunkt auswerten.
+16. Gibt es Erfahrungen bzw. Vorhaben zu maschinenlesbaren
+Steuergesetzen, die aufgrund der Formulierung und Syntaxvorgaben eine
+Software&#252;berpr&#252;fung von gesetzlichen Vorschriften zulassen?
+Im Rahmen eines Vorhabens zur Gesetzesfolgenabsch&#228;tzung (&#167; 21 Absatz 6 
+FVG) sollen unter anderem automatisierte Methoden zur Textanalyse eingesetzt 
+werden. Hierbei zielt die Softwarepr&#252;fung der gesetzlichen Vorschriften
+zun&#228;chst darauf, wie sich m&#246;gliche &#196;nderungen der Rechtsnormen auf das
+Steueraufkommen sowie dessen Verteilung aus-wirken. Mittelfristig soll mit dem 
+Einsatz K&#252;nstlicher Intelligenz (KI) erm&#246;glicht werden, dass das System
+Steuergesetze maschinenlesbar aufbereitet und ein nat&#252;rlich-sprachliches
+Verst&#228;ndnis entwickeln kann. Je nach Fragestellung soll dann das System automatisiert 
+Gesetzesfolgen aufzeigen k&#246;nnen. Nach derzeitigem Stand der Technik ist 
+diese Vorstellung aber nur schrittweise und auf der Zeitschiene zu realisieren. 
+Modelle f&#252;r das textliche Verst&#228;ndnis sind in Ans&#228;tzen bereits vorhanden und 
+werden in unterschiedlichen Bereichen zunehmend zum Einsatz kommen. Im 
+Vorhaben zur Gesetzesfolgenabsch&#228;tzung (&#167; 21 Absatz 6 FVG) wird auch mit 
+der Wissenschaft kooperiert.
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/19303 -
+Sachstand zur Digitalisierung der Steuerverwaltung</titel>
+    <datum>2020-06-03</datum>
+  </document>
+  

@@ -1,0 +1,790 @@
+<document>
+    <id>254543</id>
+    <drucksachetyp>Gesetzentwurf</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/30005</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>de2e92e29b9467d56c76e2986f3a835e</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>277325</id>
+      <titel>Gesetz zur Errichtung und F&#252;hrung eines Registers &#252;ber Unternehmensbasisdaten und zur Einf&#252;hrung einer bundeseinheitlichen Wirtschaftsnummer f&#252;r Unternehmen und zur &#196;nderung weiterer Gesetze</titel>
+      <vorgangstyp>Gesetzgebung</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium f&#252;r Wirtschaft und Energie</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/300/1930005.pdf</pdf_url>
+      <id>254543</id>
+      <dokumentnummer>19/30005</dokumentnummer>
+      <datum>2021-05-21</datum>
+      <verteildatum>2021-05-21</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Gesetzentwurf</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Deutscher Bundestag Drucksache 19/30005 
+19. Wahlperiode 21.05.2021 
+Gesetzentwurf
+der Bundesregierung
+Entwurf eines Gesetzes zur Errichtung und F&#252;hrung eines Registers &#252;ber
+Unternehmensbasisdaten und zur Einf&#252;hrung einer bundeseinheitlichen 
+Wirtschaftsnummer f&#252;r Unternehmen und zur &#196;nderung weiterer Gesetze
+A. Problem und Ziel
+Die deutsche Registerlandschaft umfasst rund 120 einzelne Register mit
+Unternehmensbezug, die alle zweckgebunden und weitgehend unabh&#228;ngig voneinander
+agieren. Viele Unternehmen werden in mehreren dieser Register der
+unterschiedlichen Verwaltungen mit sich teilweise &#252;berschneidenden Daten gef&#252;hrt. Ein
+Austausch von Informationen zwischen den Registern erfolgt derzeit &#252;blicherweise
+nicht. Zudem f&#252;hren die jeweiligen Register f&#252;r Unternehmen zu einem gro&#223;en 
+Teil eigene Identifikationsnummern. Es ist bisweilen zeit- und
+ressourcenaufw&#228;ndig und zudem fehleranf&#228;llig, dasselbe Unternehmen in verschiedenen Registern
+zu identifizieren, um Daten zu aktualisieren oder im Rahmen der jeweiligen
+gesetzlichen Vorgaben auszutauschen. Aktuelle Daten sind f&#252;r die Erf&#252;llung der
+jeweiligen &#246;ffentlichen Aufgaben erforderlich. Dies betrifft etwa F&#228;lle, in denen
+Unternehmensdaten in unterschiedlichen Registern nicht konsistent gef&#252;hrt
+werden, und f&#252;hrt sowohl auf Seiten der Verwaltung als auch auf Seiten der
+Unternehmen zu vermeidbarem Aufwand.
+Kern einer modernen Registerlandschaft ist die zentrale Speicherung aktueller
+und konsistenter Stammdaten zu Unternehmen einschlie&#223;lich der von den
+verschiedenen Registern vergebenen Identifikatoren. Die eindeutige Identifizierung
+aller Unternehmen kann nur &#252;ber eine bundeseinheitliche Wirtschaftsnummer f&#252;r
+Unternehmen als register&#252;bergreifender Identifikator erfolgen. 
+Das Register &#252;ber Unternehmensbasisdaten (Basisregister) in Verbindung mit
+einer bundeseinheitlichen Wirtschaftsnummer f&#252;r Unternehmen soll auf den
+bestehenden Verwaltungsstrukturen, insbesondere den etablierten f&#246;deralen
+Zust&#228;ndigkeiten, aufsetzen, diese st&#228;rker miteinander verzahnen und die Entwicklung
+integrierter L&#246;sungen dort unterst&#252;tzen, wo heute Insell&#246;sungen vorherrschen.
+Damit ist es infrastrukturelle Voraussetzung f&#252;r eine umfassende Digitalisierung
+der Verwaltungsleistungen und ein wichtiges Element zur Umsetzung des
+sogenannten &#8222;Once-Only&#8220;-Prinzips.
+B. L&#246;sung, Nutzen
+Beim Statistischen Bundesamt (Registerbeh&#246;rde) wird ein Register &#252;ber
+Unternehmensbasisdaten errichtet und betrieben. Das Basisregister bildet die
+wirtschaftlich aktiven Einheiten in Deutschland als Unternehmen ab. Hierzu geh&#246;ren
+nat&#252;rliche Personen, die wirtschaftlich t&#228;tig sind, juristische Personen und
+Personenvereinigungen. Grundlage f&#252;r die Aufnahme eines Unternehmens in das
+Basisregister ist die F&#252;hrung in mindestens einem Verwaltungsregister, welches die
+erforderlichen Informationen f&#252;r Aufbau und Pflege des Basisregisters liefert. Im
+Basisregister werden solche Merkmale zentral gespeichert, die eine Identifikation 
+von Unternehmen in und von den verschiedenen Registern erlauben, welche in
+mehreren Registern ben&#246;tigt werden. Dies erm&#246;glicht es, langfristig
+Mehrfachmeldungen identischer Stammdaten und Identifikatoren an sowie eine redundante
+Datenhaltung in mehreren Registern zu vermeiden.
+Zur eindeutigen Identifikation wird einem Unternehmen mit Aufnahme in das
+Basisregister eine bundeseinheitliche Wirtschaftsnummer zugeordnet. Diese setzt
+auf die Wirtschafts-Identifikationsnummer gem&#228;&#223; &#167; 139c der Abgabenordnung
+auf. Datenaustausche zwischen den verschiedenen registerf&#252;hrenden
+Verwaltungsbeh&#246;rden erfolgen mit Hilfe der bundeseinheitlichen Wirtschaftsnummer f&#252;r
+Unternehmen &#252;ber das Basisregister. 
+Es wird eine Schnittstelle vom Basisregister zu dem Organisationskonto des
+Portalverbundes, wie es nach dem Onlinezugangsgesetz verpflichtend ist, geschaffen.
+Die zentrale Stammdatenhaltung gew&#228;hrleistet auch hierf&#252;r aktuelle und
+konsistente Basisinformationen zu Unternehmen und ist somit infrastrukturelle
+Voraussetzung zur Realisierung des sogenannten &#8222;Once-Only&#8220;-Prinzips.
+Das Register &#252;ber Unternehmensbasisdaten in Verbindung mit einer
+bundeseinheitlichen Wirtschaftsnummer f&#252;r Unternehmen sorgt damit f&#252;r Effizienz- und
+Qualit&#228;tssteigerungen von Verwaltungsregistern und in der Statistik und
+erm&#246;glicht eine Entlastung der Unternehmen von B&#252;rokratie, etwa durch Reduzierung
+von Meldepflichten. 
+Insgesamt und unter Beachtung weiterer Ausbaustufen besteht f&#252;r die Wirtschaft
+ein j&#228;hrliches Entlastungspotenzial im dreistelligen Millionenbereich.
+C. Alternativen
+Die aktuell bestehenden Datensilos zu Unternehmensdaten stellen keine sinnvolle
+Alternative zu einer modernen und &#252;ber eine bundeseinheitliche
+Wirtschaftsnummer f&#252;r Unternehmen verkn&#252;pften Registerlandschaft dar.
+Im Rahmen ausf&#252;hrlicher konzeptioneller Vorbetrachtungen sowie einer durch
+das Bundesministerium f&#252;r Wirtschaft und Energie beauftragten Untersuchung
+der Wirtschaftlichkeit von Basisregister und bundeseinheitlicher
+Wirtschaftsnummer wurden verschiedene Umsetzungsm&#246;glichkeiten gepr&#252;ft. Im Ergebnis wurde
+festgestellt, dass die Nachnutzung der Wirtschafts-Identifikationsnummer gem&#228;&#223;
+&#167; 139c der Abgabenordnung &#8211; rechtzeitige Verf&#252;gbarkeit vorausgesetzt &#8211; eine
+geeignete L&#246;sungsvariante darstellt. Verworfen wurden daher die m&#246;glichen
+Alternativen der Einrichtung einer g&#228;nzlich neuen Wirtschaftsnummer, der
+Nachnutzung der ebenfalls als geeignet bewerteten Unternehmernummer gem&#228;&#223; &#167; 136a
+des Siebten Buches Sozialgesetzbuch sowie der Nachnutzung anderer
+bestehender unternehmensbezogener Identifikatoren (Legal Entity Identifier, Meta-
+Unternehmens-ID des Bundesanzeiger Verlags).
+D. Haushaltsausgaben ohne Erf&#252;llungsaufwand
+Die einmaligen Mehrkosten belaufen sich insgesamt auf 53,3 Millionen Euro. Der
+laufende Aufwand bel&#228;uft sich im Jahr 2022 auf 1,8 Millionen Euro, im Jahr 2023
+auf 8,3 Millionen Euro, im Jahr 2024 auf 10,4 Millionen Euro und im Jahr 2025
+auf 12,9 Millionen Euro. Im Einzelnen stellen sich die Mehrkosten wie folgt dar:
+Mehrbedarf f&#252;r das Statistische Bundesamt (Kapitel 0614)
+Durch die Regelungen entsteht beim Statistischen Bundesamt ein einmaliger
+Umstellungsaufwand in H&#246;he von rund 37,9 Millionen Euro f&#252;r die Konzeption und
+Umsetzung von Softwarekomponenten sowie f&#252;r die sichere Anbindung der
+registerf&#252;hrenden Stellen und anderer berechtigter &#246;ffentlicher Stellen. F&#252;r die Pr&#252;f-
+und Authentifizierungsverfahren, f&#252;r die Protokollierung der
+Daten&#252;bermittlungen sowie f&#252;r Unterst&#252;tzungsleistungen beim Anschluss der berechtigten Stellen
+und &#252;bergreifende Steuerungsaufgaben entstehen in den Jahren 2023 und 2024
+j&#228;hrliche Mehrkosten in H&#246;he von 3 176 438 Euro und ab dem Jahr 2025 j&#228;hrliche
+Mehrkosten in H&#246;he von 5 863 938 Euro. Bei den statistischen &#196;mtern der L&#228;nder
+entstehen j&#228;hrliche Mehrkosten in H&#246;he von 472 825 Euro, denen bei den
+statistischen &#196;mtern der L&#228;nder j&#228;hrliche Minderausgaben in H&#246;he von 1 081 639 Euro
+gegen&#252;berstehen.
+F&#252;r die Wahrnehmung der Aufgaben der Basisregisterbeh&#246;rde beim Statistischen
+Bundesamt ergibt sich zudem ein Bedarf von insgesamt 50 Plan-/Stellen. Der
+Mehraufwand des Statistischen Bundesamtes in den Jahren 2021 und 2022 wird
+finanziell im Einzelplan 06 ausgeglichen werden. Der Mehrbedarf des
+Statistischen Bundesamtes ab dem Jahr 2023 soll im Einzelplan 09 ausgeglichen werden.
+Mehrbedarf f&#252;r das Bundeszentralamt f&#252;r Steuern (Kapitel 0815)
+Durch die Regelungen entsteht f&#252;r das Bundeszentralamt f&#252;r Steuern (BZSt) ein
+einmaliger Umstellungsaufwand in H&#246;he von rund 3 Millionen Euro f&#252;r die
+Entgegennahme, Speicherung und Weitergabe noch festzulegender Attribute in der
+W-IdNr.-Datenbank und die technische Anbindung des Basisregisters im
+Statistischen Bundesamt. F&#252;r die weitere Betreuung durch das BZSt f&#228;llt im BZSt im
+Jahr 2023 ein laufender Aufwand von j&#228;hrlich rund 1,4 Millionen Euro an sowie
+ab dem Jahr 2024 f&#252;r sieben Planstellen und f&#252;r IT-Kosten ein laufender Aufwand
+von j&#228;hrlich rund 1,7 Millionen Euro.
+Mehrbedarf f&#252;r das Informationstechnikzentrum Bund (Kapitel 0816)
+Durch die Regelungen entsteht f&#252;r das Informationstechnikzentrum Bund (ITZ-
+Bund) als IT-Dienstleister des Bundeszentralamts f&#252;r Steuern und des
+Statistischen Bundesamts ein einmaliger Umstellungsaufwand in H&#246;he von rund 12,3
+Millionen Euro f&#252;r den Aufbau der Infrastruktur zum Austausch zwischen den
+Registern. F&#252;r deren dauerhaften Betrieb f&#228;llt ab dem Jahr 2022 ein laufender
+Aufwand von rund 1,8 Millionen Euro an, der auf rund 5,3 Millionen Euro im
+Jahr 2025 anw&#228;chst. F&#252;r den Betrieb ist ein begrenzter Bedarf von zus&#228;tzlichen
+sechs Personalstellen gegeben, im &#220;brigen wird der Betrieb durch das vorhandene
+interne Betriebspersonal des ITZBund gesichert.
+Der Mehrbedarf an Sachmitteln des Bundeszentralamts f&#252;r Steuern und des ITZ-
+Bund soll finanziell im Jahr 2022 durch den Einzelplan 06 ausgeglichen werden.
+S&#228;mtlicher sonstiger Mehrbedarf an Sach- und Personalmitteln soll finanziell und
+stellenm&#228;&#223;ig im Einzelplan 08 ausgeglichen werden.
+Mehrbedarf f&#252;r das Bundesamt f&#252;r Justiz (Kapitel 0718) 
+Der einmalige Umstellungsaufwand f&#252;r das Bundesamt f&#252;r Justiz betr&#228;gt
+voraussichtlich etwa 135 000 Euro an IT-Sachkosten im Haushaltsjahr 2023. Der
+Mehrbedarf an Sachmitteln des Bundesamts f&#252;r Justiz soll finanziell im Einzelplan 07
+ausgeglichen werden.
+E. Erf&#252;llungsaufwand
+E.1 Erf&#252;llungsaufwand f&#252;r B&#252;rgerinnen und B&#252;rger
+F&#252;r B&#252;rgerinnen und B&#252;rger entsteht kein Erf&#252;llungsaufwand.
+E.2 Erf&#252;llungsaufwand f&#252;r die Wirtschaft
+F&#252;r die Wirtschaft ergibt sich in der ersten Stufe des Basisregisters in Verbindung
+mit einer bundeseinheitlichen Wirtschaftsnummer eine Reduktion des j&#228;hrlichen
+Erf&#252;llungsaufwands um bis zu 112 000 Euro durch das Entfallen von
+Registerumfragen zur Bereinigung des Statistikregisters. Zus&#228;tzliches
+Entlastungspotenzial liegt im Bereich der statistischen Erhebungen auf dem Gebiet des Bank- und
+Geldwesens. Jenes ist jedoch nicht absch&#228;tzbar. Die Entlastungen gehen
+ausschlie&#223;lich auf B&#252;rokratiekosten aus Informationspflichten zur&#252;ck. Es k&#246;nnen
+sich zus&#228;tzliche Kosten dadurch ergeben, dass Unternehmen das Recht auf
+Auskunft &#252;ber die sie betreffenden Protokolldaten der Registerbeh&#246;rde haben. Hier
+entsteht zus&#228;tzlicher j&#228;hrlicher Erf&#252;llungsaufwand in H&#246;he von 23 000 Euro. Der
+in der Summe reduzierte Erf&#252;llungsaufwand f&#252;r die Wirtschaft wird im Sinne der
+&#8222;One in, one-out&#8220;-Regel angerechnet. Einmaliger Erf&#252;llungsaufwand f&#252;r die
+Wirtschaft entsteht nicht. Langfristig werden durch das Basisregister in
+Verbindung mit einer bundeseinheitlichen Wirtschaftsnummer weitere Entlastungen
+erm&#246;glicht.
+E.3 Erf&#252;llungsaufwand der Verwaltung
+Der Verwaltung entsteht einmaliger Erf&#252;llungsaufwand f&#252;r die Errichtung des
+Basisregisters in Verbindung mit einer bundeseinheitlichen Wirtschaftsnummer und
+dem damit verbundenen Anpassungsbedarf in den angebundenen Registern in
+H&#246;he von 49,635 Millionen Euro auf Bundesebene und von 22,154 Millionen
+Euro auf Landesebene. Auf der Ebene der Sozialversicherung entsteht einmaliger
+Erf&#252;llungsaufwand in H&#246;he von 960 000 Euro. Der j&#228;hrliche Erf&#252;llungsaufwand
+wird auf 15,551 Millionen Euro gesch&#228;tzt, davon entfallen 13,019 Millionen Euro
+auf Bundesebene, 2,359 Millionen Euro auf Landesebene und 173 000 Euro auf
+Ebene der Sozialversicherung. Darunter fallen auch Entlastungen, die auf
+Landesebene durch die Anbindung des Statistikregisters entstehen. Weitere Entlastungen
+in Zusammenhang mit dem Basisregister sind abh&#228;ngig von der konkreten
+Umsetzung dieses Rumpfgesetzes und sind im Einzelfall auf Ebene der
+Rechtsverordnung nach &#167; 10 des Unternehmensbasisdatenregistergesetzes (UBRegG) zu
+bestimmen.
+Ver&#228;nderung des j&#228;hrlichen Erf&#252;llungsaufwands
+(in Tsd. EUR):
+15.551 
+davon auf Bundesebene (in Tsd. EUR): 13.019 
+davon auf Landesebene (in Tsd. EUR): 2.359 
+davon auf Ebene der Sozialversicherung (in Tsd. EUR): 173 
+Einmaliger Erf&#252;llungsaufwand (in Tsd. EUR): 72.749 
+davon auf Bundesebene (in Tsd. EUR): 49.635 
+davon auf Landesebene (in Tsd. EUR): 22.154 
+davon auf Ebene der Sozialversicherung (in Tsd. EUR): 960 
+F. Weitere Kosten 
+Keine. Kosten f&#252;r soziale Sicherungssysteme sowie Auswirkungen auf
+Einzelpreise und das Preisniveau, insbesondere auf das Verbraucherpreisniveau, sind
+nicht zu erwarten.
+BUNDESREPUBLIK DEUTSCHLAND Berlin, 21. Mai 2021
+DIE BUNDESKANZLERIN 
+An den
+Pr&#228;sidenten des
+Deutschen Bundestages
+Herrn Dr. Wolfgang Sch&#228;uble 
+Platz der Republik 1
+11011 Berlin 
+Sehr geehrter Herr Pr&#228;sident,
+hiermit &#252;bersende ich den von der Bundesregierung beschlossenen
+Entwurf eines Gesetzes zur Errichtung und F&#252;hrung eines Registers &#252;ber
+Unternehmensbasisdaten und zur Einf&#252;hrung einer bundeseinheitlichen
+Wirtschaftsnummer f&#252;r Unternehmen und zur &#196;nderung weiterer Gesetze
+mit Begr&#252;ndung und Vorblatt (Anlage 1).
+Ich bitte, die Beschlussfassung des Deutschen Bundestages herbeizuf&#252;hren.
+Federf&#252;hrend ist das Bundesministerium f&#252;r Wirtschaft und Energie.
+Die Stellungnahme des Nationalen Normenkontrollrates gem&#228;&#223; &#167; 6 Absatz 1 NKRG ist
+als Anlage 2 beigef&#252;gt.
+Der Gesetzentwurf ist dem Bundesrat am 29. April 2021 als besonders eilbed&#252;rftig
+zugeleitet worden.
+Die Stellungnahme des Bundesrates zu dem Gesetzentwurf sowie die Auffassung der
+Bundesregierung zu der Stellungnahme des Bundesrates werden unverz&#252;glich
+nachgereicht.
+Mit freundlichen Gr&#252;&#223;en
+Dr. Angela Merkel
+Anlage 1
+Entwurf eines Gesetzes zur Errichtung und F&#252;hrung eines Registers &#252;ber
+Unternehmensbasisdaten und zur Einf&#252;hrung einer bundeseinheitlichen 
+Wirtschaftsnummer f&#252;r Unternehmen und zur &#196;nderung weiterer Gesetze
+Der Text des Gesetzentwurfs und der Begr&#252;ndung ist
+gleich lautend mit der Bundestagsdrucksache 19/29763.
+Anlage 2
+Stellungnahme des Nationalen Normenkontrollrates gem. &#167; 6 Absatz 1 NKRG
+Entwurf eines Gesetzes zur Errichtung und F&#252;hrung eines Registers &#252;ber
+Unternehmensbasisdaten und zur Einf&#252;hrung einer bundeseinheitlichen
+Wirtschaftsnummer f&#252;r Unternehmen und zur &#196;nderung weiterer Gesetze
+(NKR-Nr. 5790, BMWi)
+Der Nationale Normenkontrollrat hat den Entwurf des oben genannten Regelungsvorhabens
+gepr&#252;ft.
+I. Zusammenfassung
+B&#252;rgerinnen und B&#252;rger Keine Auswirkungen 
+Wirtschaft
+J&#228;hrlicher Erf&#252;llungsaufwand: 
+Einmaliger Erf&#252;llungsaufwand: 
+-0,1 Mio. Euro 
+Keine Auswirkungen 
+Verwaltung
+Bund
+J&#228;hrlicher Erf&#252;llungsaufwand: 13,2 Mio. Euro
+Einmaliger Erf&#252;llungsaufwand: 
+L&#228;nder
+50,6 Mio. Euro 
+J&#228;hrlicher Erf&#252;llungsaufwand: 2,4 Mio. Euro
+Einmaliger Erf&#252;llungsaufwand: 22,2 Mio. Euro 
+&#8216;One in one out&#8217;-Regel Im Sinne der &#8218;One in one out&#8216;-Regel der
+Bundesregierung stellt der j&#228;hrliche Erf&#252;llungsaufwand der
+Wirtschaft in diesem Regelungsvorhaben ein &#8222;Out&#8220; von
+0,1 Mio. Euro dar.
+Evaluierung 
+Ziele: 
+Kriterien/Indikatoren:
+Das Regelungsvorhaben soll sp&#228;testens f&#252;nf Jahre
+nach Inkrafttreten evaluiert werden.
+Es soll &#252;berpr&#252;ft werden, inwiefern die Datenqualit&#228;t
+in den Registern gesteigert und der
+Erf&#252;llungsaufwand f&#252;r Wirtschaft und Verwaltung durch
+Verwirklichung des Once Only-Prinzips reduziert werden
+konnte. 
+Indikatoren f&#252;r die Datenqualit&#228;t sind:
+&#61623; Ver&#228;nderung der Anzahl an Clearing-F&#228;llen im
+Basisregister
+&#61623; Anzahl der durch das Basisregister angesto&#223;enen
+und in den Quellregistern umgesetzten
+Clearingf&#228;llen
+Datengrundlage:
+&#61623; Verh&#228;ltnis der durch das Basisregister
+angesto&#223;enen und in den Quellregistern umgesetzten
+Clearingf&#228;lle zur Gesamtzahl der Clearingf&#228;lle
+Indikatoren f&#252;r die Reduzierung des
+Erf&#252;llungsaufwandes sind:
+&#61623; Ver&#228;nderung der Anzahl an direkten
+Verwaltungskontakten von Unternehmen im Vergleich vor und
+nach Errichtung des Basisregisters
+&#61623; Menge an Daten von oder &#252;ber Unternehmen, die 
+bei Verwaltungskontakten gespeichert werden
+Die notwendigen Daten sind vom Basisregister, den
+Quellregistern und den abrufberechtigten Stellen zu
+erfassen bzw. werden aus Bestandsdaten
+erschlossen oder in Zusammenarbeit mit den Stellen
+gesch&#228;tzt. Zus&#228;tzlich sind Befragungen vorgesehen. 
+Nutzen Das Ressort hat den Nutzen des
+Regelungsvorhabens qualitativ beschrieben und diesen &#8211; bezogen auf
+zuk&#252;nftige Ausbaustufen &#8211; durch Sch&#228;tzung
+quantifiziert:
+&#61623; Das Unternehmensbasisregister sorgt in
+Verbindung mit der bundeseinheitlichen
+Wirtschaftsnummer f&#252;r Qualit&#228;tssteigerungen in den
+Datenbest&#228;nden und gr&#246;&#223;ere Effizienz in
+Verwaltungsverfahren; es erm&#246;glicht in der Folge Entlastungen
+f&#252;r Unternehmen und Verwaltungen. 
+&#61623; Das Potenzial f&#252;r direkte Entlastungen der
+Unternehmen durch einen zuk&#252;nftigen Ausbau der
+Nutzungsm&#246;glichkeiten wird auf 216 Mio. Euro
+j&#228;hrlich gesch&#228;tzt. Die indirekte Entlastung wird auf 
+0,8 bis 1,0 Mrd. Euro j&#228;hrlich gesch&#228;tzt. 
+&#61623; Das Potential zur Entlastung der Verwaltung wird 
+auf 2 Mrd. Euro gesch&#228;tzt.
+Das Bundesministerium f&#252;r Wirtschaft und Energie (BMWi) hat die Auswirkungen dieses
+Regelungsvorhabens auf den Erf&#252;llungsaufwand &#252;berwiegend nachvollziehbar dargestellt. Die 
+unmittelbaren Entlastungseffekte wurden qualitativ dargestellt, aber nur teilweise quantifiziert.
+Der Nationale Normenkontrollrat (NKR) erhebt im Rahmen seines gesetzlichen Auftrags
+keine Einw&#228;nde gegen die Darstellung der Gesetzesfolgen im Regelungsentwurf. 
+Der vorliegende Gesetzentwurf war lange &#252;berf&#228;llig. Er ist Grundlage eines modernen
+&#246;ffentlichen Datenmanagements und beabsichtigt f&#252;r den Bereich der Unternehmen das zu leisten,
+was bereits das Registermodernisierungsgesetz in Bezug auf nat&#252;rliche Personen geleistet
+hat.
+Der NKR weist allerdings darauf hin, dass der Gesetzentwurf &#8211; so sehr er zu begr&#252;&#223;en ist &#8211;
+eine ausreichende Verbindlichkeit vermissen l&#228;sst und wesentliche offene Punkte aufweist,
+die erst in einer unbestimmten Zukunft geregelt werden sollen und die aus heutiger Sicht den
+Erfolg des gesamten Vorhabens mit einem gro&#223;en Fragezeichen versehen. Aus Sicht des
+NKR bedarf es f&#252;r den Erfolg der ersten Ausbaustufe sowie zur Realisierung der erheblichen
+Effizienzpotentiale dringend folgender weiterer Festlegungen:
+&#61623; verbindlicher Mechanismus zur Gew&#228;hrleistung der Konsistenz von
+Unternehmensstammdaten in Basisregister und Quellregistern 
+&#61623; Anschluss weiterer Register, wie dem Transparenzregister
+&#61623; Erm&#246;glichung, dass neben Stammdaten auch weitere Fachdaten mit Hilfe der
+einheitlichen Wirtschafts-Identifikationsnummer ausgetauscht werden k&#246;nnen 
+&#61623; Gesetzliche Festlegung eines verbindlichen Zeitplans f&#252;r die Umsetzung des
+Gesetzentwurfs im Ganzen sowie einer klaren Umsetzungsfrist f&#252;r die Betriebsbereitschaft der
+steuerlichen Wirtschafts-Identifikationsnummer
+Dass die steuerliche Wirtschafts-Identifikationsnummer bis auf weiteres noch nicht
+betriebsbereit ist, ist aus Sicht des NKR das gr&#246;&#223;te Umsetzungsrisiko f&#252;r den Gesetzentwurf. Diesem
+muss seitens BMF und Bundesregierung mit einer entsprechenden Priorisierung von
+Ressourcen und politischer Aufmerksamkeit begegnet werden. Das Fehlen eines gesetzlich
+vorgegebenen Umsetzungszeitplans sieht der NKR besonders kritisch.
+Der NKR betont, das erhebliche Einsparpotential in Milliardenh&#246;he, dass sich durch weitere
+Ausbaustufen des Unternehmensbasisregisters bzw. durch die Anbindung weiterer
+Fachregister und Verwaltungsverfahren ergeben kann. Allein das Entlastungspotential in dieser
+Gr&#246;&#223;enordnung zeigt die erhebliche Bedeutung dieses Gesetzentwurfs f&#252;r
+Verwaltungsdigitalisierung und B&#252;rokratieabbau. Aber auch die aktuelle Krisensituation verdeutlicht den dringen
+Bedarf f&#252;r Unternehmensbasisregister und einheitliche Wirtschaftsidentifikationsnummer.
+St&#252;nde das geplante System bereits zur Verf&#252;gung, h&#228;tten Corona-Hilfen deutlich schneller
+und unb&#252;rokratischer beantragt und ausgezahlt werden k&#246;nnen. 
+II. Im Einzelnen
+Die deutsche Registerlandschaft umfasst rund 120 einzelne Register mit
+Unternehmensbezug. Gef&#252;hrt werden die Register von unterschiedlichsten Beh&#246;rden und Registergerichten.
+Viele Unternehmen sind in mehreren dieser Register erfasst, wobei sich Daten teilweise
+&#252;berschneiden. Ein Austausch von Informationen zwischen den Registern erfolgt &#252;blicherweise 
+nicht. Er ist aufgrund unterschiedlicher bzw. uneinheitlich erfasster und gepflegter
+Stammdaten zu einzelnen Unternehmen auch nicht ohne weiteres m&#246;glich. Eine einheitliche
+Identifikationsnummer existiert nicht. Daher ist es zeitaufw&#228;ndig und zudem fehleranf&#228;llig, dasselbe
+Unternehmen in verschiedenen Registern zu identifizieren, um Daten zu aktualisieren oder
+im Rahmen der jeweiligen gesetzlichen Vorgaben auszutauschen. Auch die immer wieder
+erforderliche Pflege und mehrfache Abfrage von Daten f&#252;hrt sowohl auf Seiten der
+Verwaltung, als auch auf Seiten der Unternehmen zu vermeidbarem Aufwand.
+Ziel des Regelungsvorhabens ist es, ein zentrales Register zu Unternehmensbasisdaten
+(Basisregister) zu errichten, das alle wirtschaftlich t&#228;tigen Einheiten in Deutschland mit ihren 
+Stammdaten und einer bundeseinheitlichen Wirtschaftsnummer erfasst. Die
+Unternehmensbasisdaten bzw. Stammdaten sollen aus angeschlossenen Verwaltungsregister
+(Quellregistern) gespeist werden. Aktualisierungen der Stammdaten aus einem Register sollen so auch
+anderen Registern und dort angeschlossenen Verwaltungsverfahren zur Verf&#252;gung stehen 
+und zu einer h&#246;heren Konsistenz und Aktualit&#228;t der Registerdaten beitragen. Die
+Quellregister sind jedoch nicht zur Anpassung ihrer Datens&#228;tze verpflichtet, sollten sich Inkonsistenzen
+zeigen.
+Das Basisregister wird beim Statistischen Bundesamt (Registerbeh&#246;rde) errichtet und
+betrieben. Als bundeseinheitliche Wirtschaftsnummer wird die Wirtschafts-Identifikationsnummer
+gem&#228;&#223; &#167; 139c der Abgabenordnung genutzt (Wirtschafts-Steuer-ID). Das Basisregister bildet
+die wirtschaftlich aktiven Einheiten in Deutschland als Unternehmen ab. Hierzu geh&#246;ren
+neben juristische Personen und Personenvereinigungen auch nat&#252;rliche Personen, die
+wirtschaftlich t&#228;tig sind. Grundlage f&#252;r die Aufnahme eines Unternehmens in das Basisregister
+ist die F&#252;hrung in mindestens einem Quellregister, welches die erforderlichen Informationen 
+f&#252;r Aufbau und Pflege des Basisregisters liefert.
+Zu den Quellregistern bzw. Daten gebenden Stellen geh&#246;ren:
+&#61623; Handels-, Partnerschafts-, Genossenschafts- und Vereinsregister (via elektronisches
+Informations- und Kommunikationssystem gem&#228;&#223; Handelsgesetzbuch)
+&#61623; Deutsche Gesetzliche Unfallversicherung e.V. 
+&#61623; Bundeszentralamt f&#252;r Steuern 
+&#61623; Global Legal Entity Identifier Foundation 
+Das Basisregister soll auf den bestehenden Verwaltungsstrukturen und f&#246;deralen
+Zust&#228;ndigkeiten aufsetzen, diese aber st&#228;rker miteinander verzahnen und die Entwicklung integrierter
+L&#246;sungen dort unterst&#252;tzen, wo heute Insell&#246;sungen bestehen. Damit ist das Basisregister
+die infrastrukturelle Voraussetzung f&#252;r die umfassende Digitalisierung von
+Verwaltungsleistungen und als Datendrehscheibe zugleich ein wichtiges Element zur Umsetzung des
+sogenannten &#8222;Once-Only&#8220;-Prinzips. Vorgesehen ist eine Schnittstelle vom Basisregister zum
+bundeseinheitlichen Unternehmenskonto, das im Zuge der Umsetzung des
+Onlinezugangsgesetzes als Zugriffskomponente f&#252;r unternehmensbezogene Onlineleistungen des Staates
+eingef&#252;hrt wird.  
+Zu den abrufberechtigen Stellen geh&#246;ren: 
+&#61623; Registergerichte und Landesjustizverwaltungen zur Pflege der Daten des Handels-,
+Genossenschafts-, Partnerschafts- und Vereinsregisters,
+&#61623; die das Unternehmensregister im Sinne des Handelsgesetzbuchs f&#252;hrende Stelle
+(derzeit Bundesanzeiger Verlag),
+&#61623; die f&#252;r Ermittlungs- und Durchsetzungsma&#223;nahmen gegen Unternehmen nach dem EU-
+Verbraucherschutzdurchf&#252;hrungsgesetz zust&#228;ndigen Landesbeh&#246;rden und die zentrale 
+Verbindungsstelle,
+&#61623; das Bundesamt f&#252;r Justiz, 
+&#61623; die Deutsche Gesetzliche Unfallversicherung e.V., 
+&#61623; das Bundeszentralamt f&#252;r Steuern,
+&#61623; die Deutsche Bundesbank,
+&#61623; die Bundesagentur f&#252;r Arbeit, 
+&#61623; die vom Bundesministerium des Innern, f&#252;r Bau und Heimat mit Zustimmung des
+Bundesrates bestimmte &#246;ffentliche Stelle als Betreiberin des auf der Elster-Infrastruktur der
+Steuerverwaltung beruhenden Unternehmenskontos (sofern der Unternehmer der
+Datenverarbeitung im Unternehmenskonto zustimmt).
+Die abrufberechtigten Stellen, insbesondere die Quellregister, sind jedoch nicht verpflichtet,
+die Stammdaten aus dem Basisregister zu verwenden. Im Falle inkonsistenter Stammdaten
+k&#246;nnen die Quellregister mit den abweichenden eigenen Stammdaten weiterarbeiten. 
+Insgesamt beinhaltet der Gesetzentwurf die Regelungen f&#252;r die erste Ausbaustufe, d. h. zum
+Aufbau des Basisregisters, dessen initialer Bef&#252;llung durch die Quellregister sowie den
+freiwilligen Stammdatenaustausch mit den benannten Stellen. Die Verbindung zu weiteren
+Registern sowie die Nutzung der einheitlichen Wirtschaftsidentifikationsnummer zum fachlichen
+Datenaustausch zwischen weiteren Beh&#246;rden &#252;ber die Stammdaten hinaus ist erst in
+zuk&#252;nftigen Ausbaustufen vorgesehen und erfordert weitere gesetzliche Anpassungen. Der
+Gesetzentwurf legt kein Zieldatum f&#252;r eine Fertigstellung der ersten Stufe fest. Entsprechend ist auch 
+der Zeitplan der Weiterentwicklung offen.
+II.1 Erf&#252;llungsaufwand
+Das Ressort hat die Auswirkungen auf den Erf&#252;llungsaufwand mit Hilfe des Statistischen
+Bundesamtes ermittelt. Die ausf&#252;hrliche Darstellung im Gesetzentwurf ist nachvollziehbar. Sie 
+wird im Folgenden komprimiert wiedergegeben. Unsicherheit besteht bei der Darstellung
+m&#246;glicher Entlastungseffekte. Diese sind nur teilweise dargestellt. Insofern ergibt sich ein Bild,
+bei dem vornehmlich die Verwaltungen von Bund und L&#228;ndern belastet werden, wohingegen 
+Entlastungseffekte nur marginal vorkommen bzw. dargestellt werden. Deutlich wird auch,
+dass sich die eigentlichen, ausweislich der Nutzendarstellung erheblichen, Entlastungeffekte
+erst durch weitere Ausbaustufen bzw. gesetzliche &#196;nderungen realisieren lassen.
+B&#252;rgerinnen und B&#252;rgern 
+F&#252;r B&#252;rgerinnen und B&#252;rger ergeben sich keine Auswirkungen. 
+Nat&#252;rliche Personen, die unternehmerisch t&#228;tig sind, werden mit dieser T&#228;tigkeit im
+Basisregister erfasst und daher dem Adressatenbereich Wirtschaft zugeordnet.
+Wirtschaft
+Insgesamt reduziert der Regelungsentwurf den j&#228;hrlichen Erf&#252;llungsaufwand der Wirtschaft 
+geringf&#252;gig. Das Ressort geht davon aus, dass im Zuge der Umsetzung des Gesetzes weitere 
+Entlastungen entstehen k&#246;nnen, die sich aus dem Wegfall von
+Qualit&#228;tssicherungsaufw&#228;nden in den Fachregistern und angeschlossenen Verwaltungs- und Statistikverfahren ergeben.
+Die Entlastung betrifft die F&#252;hrung des statistischen Unternehmensregisters. Sind die darin
+enthaltenen Angaben nicht eindeutig, k&#246;nnen die statistischen &#196;mter der L&#228;nder sowie das
+Statistische Bundesamt bisher Angaben zu Namen, Anschrift, Rechtsform sowie zu den
+jeweils erforderlichen Kennzeichen bei den betroffenen Unternehmen anfordern. Laut Angaben 
+aus der Online-Datenbank Erf&#252;llungsaufwand des Statistischen Bundesamts entstehen der
+Wirtschaft aufgrund dieser Informationspflicht rund 112.000 Euro an B&#252;rokratiekosten
+j&#228;hrlich. Dieser Aufwand entf&#228;llt zuk&#252;nftig, da das Basisregister diese Qualit&#228;tssicherung
+gew&#228;hrleistet.
+Weitere Entlastungen w&#228;ren im Bereich der Statistiken auf dem Gebiet des Bank- und
+Geldwesens m&#246;glich (verantwortet durch die Bundesbank). Laut der Online-Datenbank
+Erf&#252;llungsaufwand des Statistischen Bundesamts entstehen durch solche statistischen Erhebungen bei
+Kreditinstituten j&#228;hrliche B&#252;rokratiekosten f&#252;r die Wirtschaft in H&#246;he von 313 Millionen Euro.
+Durch Nutzung der einheitlichen Wirtschaftsnummer in Zusammenhang mit dem
+Basisregister k&#246;nnte dieser Aufwand reduziert werden, wenn der Merkmalskranz weiter gefasst w&#252;rde
+als im Gesetzentwurf vorgesehen. Die Bundesbank hatte das Entlastungspotential auf
+Grundlage des urspr&#252;nglichen Umsetzungskonzeptes auf 10 bis 20 Mio. Euro pro Jahr gesch&#228;tzt.
+J&#228;hrliche Belastungen f&#252;r Unternehmen entstehen in den F&#228;llen, in denen sie Protokolldaten 
+bei der Registerbeh&#246;rde einsehen wollen. Der mit dieser Antragstellung f&#252;r die Wirtschaft
+verbundene Erf&#252;llungsaufwand wurde anhand einer &#228;hnlichen Vorgabe aus der Online-
+Datenbank Erf&#252;llungsaufwand des Statistischen Bundesamts gesch&#228;tzt
+(Zentralregisterauskunft). Er betr&#228;gt bei angenommenen 1.000 F&#228;llen pro Jahr 23.000 Euro (23 Minuten/Fall, 
+Lohnsatz 56,40 Euro, Sachkosten 1 Euro).
+Durch Zuteilung der Wirtschafts-Identifikationsnummer kann den Unternehmen geringf&#252;giger
+Verarbeitungsaufwand entstehen. Da die Einf&#252;hrung der Wirtschafts-Identifikationsnummer
+bereits an anderer Stelle normiert ist und sie im Kontext des vorliegenden Gesetzentwurfs
+lediglich nachgenutzt wird, ist dieser Aufwand an dieser Stelle nicht zu bilanzieren.
+Verwaltung
+Das Ressort hat sich bei der Darstellung der Gesetzesfolgen vor allem auf den
+Zusatzaufwand f&#252;r Bundes- und Landesverwaltungen konzentriert. 
+Neben Belastungen, die vor allem durch die Schaffung und der Wartung notwendiger IT-
+Infrastrukturen f&#252;r den Datenaustausch entstehen, ist bei den angebundenen Beh&#246;rden mit
+Entlastungen zu rechnen. Einige Entlastungen, die sich z. B. bei den Statistischen &#196;mtern der
+L&#228;nder ergeben, wurden dargestellt. Weitere Entlastungen konnten zun&#228;chst nicht
+quantifiziert werden, da befragte Stellen dazu keine Ausk&#252;nfte gemacht haben. Generelles
+Entlastungspotenzial, das in Abfragen gegen&#252;ber dem Statistischen Bundesamt genannt wurde,
+ergibt sich durch die h&#246;here Datenqualit&#228;t und den erwarteten Wegfall von
+R&#252;cksprachebedarfen zwischen Beh&#246;rden. Der Gesetzentwurf legt nach Aussage des Ressorts den
+Grundstein f&#252;r weitere Nutzungsszenarien. Bei zunehmender Verzahnung der Registerlandschaft 
+ist auch auf Verwaltungsseite mit weitreichenderen Entlastungen zu rechen.
+Vorgabe 1: Errichtung und Betrieb eines Registers &#252;ber Unternehmensbasisdaten
+F&#252;r Errichtung und Betrieb des Basisregisters fallen beim Statistischen Bundesamt Personal-
+und Sachkosten an. Die ben&#246;tigen Stellen (5 hD, 2 gD, 16 mD) werden nach der
+Inbetriebnahme des Registers auch den laufenden Betrieb steuern und weitere Aufgaben wie das
+manuelle Clearing, Protokollierung, die fortlaufende Mitteilung der bundeseinheitlichen
+Wirtschaftsnummer und die Betreuung der Softwarelieferanten &#252;bernehmen. Es entsteht
+j&#228;hrlicher Aufwand von 22 Personenjahren bzw. 1,5 Mio. Euro. Hinzu kommen Sachkosten f&#252;r
+Wartung und Pflege des Basisregisters von 2,2 Mio. Euro. Beim Informationstechnikzentrum
+Bund (ITZBund) als IT-Dienstleister des StBA und des BZSt entstehen f&#252;r den fortlaufenden 
+Betrieb der Infrastruktur zum Austausch zwischen den Registern j&#228;hrliche Kosten von 5,3
+Millionen Euro. Hierin enthalten sind auch j&#228;hrliche Personalkosten f&#252;r sechs Vollzeitstellen. 
+F&#252;r die Errichtung des Basisregisters fallen einmalige Sachkosten u.a. f&#252;r
+Softwareentwicklung, Qualit&#228;tssicherung, IT-Sicherheitsma&#223;nahmen und Anwenderschulungen von 
+27,6 Mio. Euro an. F&#252;r das ITZBund entsteht f&#252;r den Infrastrukturaufbau ein einmaliger
+Aufwand von 12,3 Mio. Euro.
+Vorgabe 2: Zuordnung einer bundeseinheitlichen Wirtschaftsnummer
+Die mit der Zuordnung einer bundeseinheitlichen Wirtschaftsnummer beim Statistischen
+Bundesamt anfallenden Kosten sind Teil der Datenzusammenf&#252;hrung des
+Ausgangsdatenbestandes bzw. des Betriebs des Basisregisters und somit bereits im Erf&#252;llungsaufwand von
+Vorgabe 1 und Vorgabe 9 ber&#252;cksichtigt.
+Vorgabe 3: Mitteilung einer bundeseinheitlichen Wirtschaftsnummer
+Die adressierten Unternehmen sind &#252;ber die Vergabe/Zuordnung der bundeseinheitlichen
+Wirtschaftsnummer zu informieren, um sich hiermit perspektivisch bei Verwaltungskontakten 
+identifizieren zu k&#246;nnen. Dies ist sowohl nach erstmaliger Zuordnung als auch im laufenden 
+Betrieb f&#252;r neu hinzukommende Einheiten des Basisregisters der Fall. Die einmaligen
+Sachkosten des Bundes f&#252;r die Mitteilung der bundeseinheitlichen Wirtschaftsnummer belaufen
+sich auf rund 5 Millionen Euro durch Portokosten f&#252;r den Versand der Nummernschreiben 
+(13,5 Millionen Einheiten, 0,37 Euro Portokosten pro Fall ergeben). Die einmaligen
+Personalkosten, die durch die erstmalige Mitteilung der bundeseinheitlichen Wirtschaftsnummer
+entstehen, sind bereits im Erf&#252;llungsaufwand der Vorgabe 1 enthalten.
+Mitteilungskosten fallen auch im laufenden Betrieb z. B. bei Neugr&#252;ndungen von
+Unternehmen an (ca. 700.000 pro Jahr). StBA-Sch&#228;tzungen zufolge werden hierf&#252;r neun
+Personenjahre (1 gD, 8 mD) bzw. 0,5 Mio. Euro veranschlagt. Hinzu kommen Portokosten von
+0,7 Mio. Euro pro Jahr.
+Vorgabe 4: Daten&#252;bermittlung an die Registerbeh&#246;rde 
+Zum Aufbau des Basisregisters &#252;bermitteln auf Bundesebene das Bundeszentralamt f&#252;r
+Steuern (BZSt), auf Landesebene die Landesjustizverwaltungen und aus dem Bereich der
+Sozialversicherung die Deutsche Gesetzliche Unfallversicherung der Registerbeh&#246;rde die
+notwendigen Daten. Sowohl f&#252;r die &#220;bermittlungen aus dem Basisregister, als auch dorthin werden
+eine Schnittstelle f&#252;r den Datenaustausch sowie Anpassungen in Fachverfahren ben&#246;tigt. 
+Hier f&#228;llt einmaliger und laufender Erf&#252;llungsaufwand an.
+Der einmalige Erf&#252;llungsaufwand, der durch die Einrichtung der Schnittstelle bei BZSt und 
+DGUV anf&#228;llt, wird auf Basis der Vorabpr&#252;fungen im Grobkonzept und der durchgef&#252;hrten
+Wirtschaftlichkeitsuntersuchung auf. 4,0 Mio. Euro gesch&#228;tzt.
+Zum Aufbau des Basisregisters &#252;bermitteln auch die Landesjustizverwaltungen Daten (ca.
+2,5 Mio. Einheiten aus Handelsregister, Genossenschaftsregister, Partnerschaftsregister,
+Vereinsregister). Ausgehend von den Sch&#228;tzungen in der Wirtschaftlichkeitsuntersuchung 
+werden Kosten in H&#246;he von 1 Mio. Euro angenommen.
+Nach Programmierung der Schnittstelle wird mit einem j&#228;hrlichen Aufwand f&#252;r die Wartung
+und Pflege der Schnittstellen sowie f&#252;r Anpassungen der Fachverfahren gerechnet. Unter
+Zuhilfenahme der Erf&#252;llungsaufwandssch&#228;tzung des Registermodernisierungsgesetzes
+werden die j&#228;hrlichen Kosten auf 18 % der einmaligen Kosten gesch&#228;tzt. Auf Bundesebene fallen
+somit ca. 1,6 Mio. Euro an j&#228;hrlichen Personal- und Sachkosten und auf Landesebene ca.
+0,2 Mio. Euro an j&#228;hrlichen Sachkosten an. 
+Vorgabe 5: &#220;bermittlungen aus dem Basisregister
+Zur &#220;bermittlung von Daten aus dem Basisregister entsteht Erf&#252;llungsaufwand f&#252;r die
+Einrichtung von Schnittstellen bei den nutzungsberechtigten Stellen des Bundes und der L&#228;nder
+sowie f&#252;r die Anpassung von Fachverfahren. Der Erf&#252;llungsaufwand, der bei den
+nutzungsberechtigten Stellen anf&#228;llt, die gleichzeitig Quellregister sind, ist bereits in Vorgabe 5
+ber&#252;cksichtigt. F&#252;r die restlichen Stellen (10 auf Bundesebene, 65 auf Landesebene) wurde der
+einmalige Anpassungs- und laufende Pflegeaufwand auf Grundlage der
+Wirtschaftlichkeitsuntersuchung gesch&#228;tzt. Der einmalige Sachaufwand des Bundes betr&#228;gt 1,7 Mio. Euro und der
+laufende Aufwand 0,3 Mio. Euro. Auf Landesebene entsteht Einmalaufwand von 7,9 Mio. Euro 
+(Anpassung der drei IT-Verfahren AuRegis, RegisSTAR und Aureg) und laufender Aufwand 
+von 2,7 Mio. Euro.
+Von den 65 Landesstellen sind 63 f&#252;r das EU-Verbraucherschutzdurchf&#252;hrungsgesetz
+zust&#228;ndig. Da keine konkreten Einzelinformationen vorliegen, werden analog zu der Sch&#228;tzung 
+auf Bundesebene einmalige Sachkosten in H&#246;he von 200.000 Euro f&#252;r die Implementierung
+einer Schnittstelle und Anpassung von Fachverfahren herangezogen. In Summe ergeben sich
+so weitere Einmalkosten in H&#246;he von ca. 13 Mio. Euro. Dabei handelt es sich um eine
+Maximalsch&#228;tzung, da die j&#228;hrlichen Fallzahlen gering sind und so ein automatisierter
+Datenaustausch &#252;ber Schnittstellen ggf. entbehrlich sein k&#246;nnte. Es wird konservativ von dem teureren
+Maximalszenario ausgegangen.
+Vorgabe 6: Anlassbezogene &#220;berpr&#252;fung der Zul&#228;ssigkeit der Datenabrufe durch geeignete 
+Stichprobenverfahren
+Die Registerbeh&#246;rde &#252;berpr&#252;ft die Zul&#228;ssigkeit der Abrufe durch geeignete
+Stichprobenverfahren. Die durch diese Vorgabe entstehenden j&#228;hrlichen Kosten sind bereits in dem
+Erf&#252;llungsaufwand in Vorgabe 1 enthalten.
+Vorgabe 7: Protokollierung
+Alle Daten&#252;bermittlungen m&#252;ssen bei der Registerbeh&#246;rde protokolliert werden. Die
+Protokollierung sowie weitere damit verbundene Aufgaben erfolgen gr&#246;&#223;tenteils maschinell durch
+das System. Der j&#228;hrliche Personalaufwand sowie der einmalige Erf&#252;llungsaufwand f&#252;r die
+Programmierung des Systems, der durch diese Vorgabe beim Statistischen Bundesamt
+entsteht, ist bereits in dem Erf&#252;llungsaufwand zum Aufbau und Betrieb des Basisregisters
+ber&#252;cksichtigt (Vorgabe 1). F&#252;r die gesch&#228;tzten 1.000 Antr&#228;ge der Wirtschaft auf Ausk&#252;nfte aus
+den Protokolldaten entstehen auf Verwaltungsseite zus&#228;tzliche j&#228;hrliche Sachkosten in H&#246;he
+von 1.000 Euro.
+Vorgabe 8: Einrichtung und Betrieb einer Clearingstelle
+F&#252;r die Qualit&#228;tssicherung der Unternehmensdaten ist die Registerbeh&#246;rde verantwortlich. In
+F&#228;llen, bei denen ein automatisiertes Verfahren die Richtigkeit der Daten nicht gew&#228;hrleisten 
+kann, wird eine manuelle Pr&#252;fung durchgef&#252;hrt. Es wird gesch&#228;tzt, dass dies f&#252;r 1% der
+j&#228;hrlichen &#196;nderungsf&#228;lle (1,35 Mio.) n&#246;tig ist; das sind 135.000 F&#228;lle pro Jahr. StBA-
+Sch&#228;tzungen zufolge ist mit j&#228;hrlichem Aufwand in H&#246;he von 18 Personenjahren (2 gD, 16 mD) bzw.
+ca. 1 Mio. Euro zu rechnen.
+Vorgabe 9: Technische und organisatorische Ma&#223;nahmen der Datensicherheit
+Bei der Registerbeh&#246;rde sind geeignete technische und organisatorische Ma&#223;nahmen der
+Datensicherheit bez&#252;glich des Betriebs des Registers, der Daten&#252;bermittlungen und der
+Protokollierungen zu treffen. Die dadurch entstehenden Kosten sind bereits bei den einmaligen
+und laufenden Sachkosten in Vorgabe 1 enthalten.
+Vorgabe 10: Anbindung der Statistischen &#196;mter der L&#228;nder und des Statistischen
+Bundesamts
+Analog zu den bereits erfassten Nutzungsberechtigungen wird auch das beim Statistischen
+Bundesamt gef&#252;hrte Statistikregister an das Basisregister angebunden. Auf Seiten des
+Statistischen Bundesamtes entsteht j&#228;hrlicher Aufwand in H&#246;he von 2 Personenjahren (1 hD, 1 
+gD) bzw. 0,2 Mio. Euro.
+In gleicher Weise sind auch die statistisches Landes&#228;mter belastet. Dort entsteht einmaliger
+Aufwand in H&#246;he von 9 Personenjahren (8,1 mD, 0,8 gD, 0,1 hD) bzw. 0,5 Mio. Euro. Auch 
+im laufenden Betrieb entsteht den L&#228;ndern Aufwand in H&#246;he von 8 Personenjahren (7,4 mD,
+0,6 hD) bzw. 0,4 Mio. Euro pro Jahr. Auf der anderen Seite ergeben sich Einsparungen in 
+H&#246;he von 0,9 Mio. Euro pro Jahr, sodass sich im Saldo eine j&#228;hrliche Entlastung der L&#228;nder
+von 0,5 Mio. Euro ergibt. Entlastend wirkt, dass aufw&#228;ndige Arbeiten zur Verkn&#252;pfung von 
+Daten der Finanzverwaltung, der Sozialversicherung sowie den Handels- und
+Genossenschaftsregistern auf das Basisregister ausgelagert werden. Zudem m&#252;ssen aufgrund der
+h&#246;heren Aktualit&#228;t des Basisregisters deutlich weniger zus&#228;tzliche Korrekturerhebungen
+durchgef&#252;hrt werden. 
+II.2 &#8218;One in one out&#8216;-Regel
+Im Sinne der &#8218;One in one out&#8216;-Regel der Bundesregierung stellt der j&#228;hrliche
+Erf&#252;llungsaufwand der Wirtschaft in diesem Regelungsvorhaben ein &#8222;Out&#8220; von 0,1 Mio. Euro dar.
+II.3 Nutzen
+Das Ressort hat den Nutzen dargestellt. 
+Das Basisregister sorgt in Verbindung mit einer bundeseinheitlichen Wirtschaftsnummer f&#252;r
+Effizienz- und Qualit&#228;tssteigerungen von Verwaltungs- und Statistikregistern und
+angeschlossenen Verwaltungsverfahren und erm&#246;glicht in der Folge eine Entlastung der Unternehmen
+und Beh&#246;rden von B&#252;rokratiekosten. Die automatisierte Daten&#252;bernahme und Verkn&#252;pfung
+der eigenen mit den Daten anderer Stellen verbessert die Verf&#252;gbarkeit von aktuellen Daten 
+und macht separate Datenerhebungen und zus&#228;tzliche Pr&#252;fverfahren in den Beh&#246;rden
+entbehrlich. F&#252;r den Verwaltungskontakt mit Unternehmen erlaubt der Abgleich mit dem
+Basisregister eine beschleunigte und vollst&#228;ndige Bearbeitung von Neuanmeldungen,
+Ummeldungen und Abmeldungen von Unternehmen. Dadurch werden R&#252;ckfragen bei Unternehmen
+teilweise entbehrlich.
+Das Regelungsvorhaben legt die Grundlage f&#252;r weitere Nutzungsszenarien des
+Basisregisters sowie der bundeseinheitlichen Wirtschaftsnummer. Das Potenzial f&#252;r direkte
+Entlastungen der Unternehmen durch einen zuk&#252;nftigen Ausbau der Nutzungsm&#246;glichkeiten wird auf
+Basis der NKR-Gutachtens zur Registermodernisierung auf rund 216 Millionen Euro j&#228;hrlich
+gesch&#228;tzt1. Hinzu kommt eine indirekte Entlastung von gesch&#228;tzt 818 Millionen Euro j&#228;hrlich
+durch weitere Ausbaustufen des Basisregisters f&#252;r Unternehmen, deren H&#246;he durch eine
+Wirtschaftlichkeitsuntersuchung ermittelt wurde2. Im NKR-Gutachten zur
+Registermodernisierung wird sogar mit einem entsprechenden Potential von 1 Mrd. gerechnet. &#196;hnlich hohes
+Entlastungspotential ergibt sich auch f&#252;r die Verwaltung selbst, das im NKR-Gutachten auf
+2 Mrd. Euro pro Jahr gesch&#228;tzt wird. Zur Erschlie&#223;ung dieses Entlastungspotentials bedarf
+es weiterer gesetzlicher Regelungen.
+II.4 Alternativendarstellung und Erw&#228;gungen zur Rechts- und Verwaltungsvereinfachung
+Das Regelungsvorhaben zeichnet sich dadurch aus, dass im Vorfeld eine l&#228;ngere fachliche
+Konzeptionsphase stattfand, in die Vertreter unterschiedlicher Ressorts und
+Verwaltungsebenen eingebunden waren. Ergebnis dieser Konzeptionsphase waren sowohl ein Grob- als auch
+ein Fachkonzept, die als Grundlage des vorliegenden Gesetzentwurfs dienten. Im Zuge der
+Konzeptionsphase wurden unterschiedliche Umsetzungsszenarien und L&#246;sungsalternativen 
+gepr&#252;ft und im Zuge einer externen Wirtschaftlichkeitsuntersuchung validiert. Dieses
+Vorgehen entspricht im Grundsatz dem im NKR-Gutachten &#8222;Erst der Inhalt, dann die Paragrafen&#8220;3 
+empfohlenen Vorgehensmodell und wird vom NKR positiv bewertet. Zu bedauern ist jedoch,
+dass die konzeptionellen Vorarbeiten entscheidende fachliche Fragen nicht im Konsens l&#246;sen
+konnten. Der Gesetzentwurf stellt insofern den kleinsten gemeinsamen Nenner der beteiligten
+Ressorts dar.
+Untersucht wurde im Vorfeld insbesondere die Frage der Einrichtung einer g&#228;nzlich neuen 
+Wirtschaftsnummer sowie die Nachnutzung anderer bestehender unternehmensbezogener
+Identifikatoren (Wirtschafts-Identifikationsnummer der Steuerverwaltung,
+Unternehmernummer der Deutschen Gesetzlichen Unfallversicherung., Legal Entity Identifier, Meta-
+Unternehmens-ID des Bundesanzeiger Verlags). Ausweislich des Gesetzentwurfs wurde die
+Nachnutzung der steuerlichen Wirtschafts-Identifikationsnummer durch das Ressort als beste L&#246;sung
+identifiziert.
+1 NKR (2017): &#8222;Mehr Leistung f&#252;r B&#252;rger und Unternehmen: Verwaltung digitalisieren. Register
+modernisieren&#8220;
+2 BMWi (2020): &#8222;Basisregister Unternehmensstammdaten und bundeseinheitliche Wirtschaftsnummer:
+Ergebnisse der Wirtschaftlichkeitsuntersuchung&#8220;
+3 NKR (2019): &#8222;Erst der Inhalt, dann die Paragrafen. Gesetze wirksam und praxistauglich gestalten&#8220;
+Das Ressort hat die erwogenen Alternativen im Gesetzentwurf benannt, hat sie im Einzelnen 
+aber nicht weiter dargestellt. Es ist daher f&#252;r Dritte nicht nachvollziehbar, welche
+ma&#223;geblichen Erw&#228;gungen zur letztlich gew&#228;hlten Alternative gef&#252;hrt haben. Dies ist insbesondere vor
+dem Hintergrund bedeutsam, dass im ersten Referentenentwurf noch eine andere
+L&#246;sungsalternative favorisiert worden war. So war urspr&#252;nglich die Unternehmernummer der
+Deutschen Gesetzlichen Unfallversicherung als einheitliche Wirtschafts-Identifikationsnummer
+vorgesehen. Ma&#223;geblicher Erw&#228;gungsgrund f&#252;r die urspr&#252;ngliche L&#246;sungsauswahl war die 
+Unsicherheit bez&#252;glich der rechtzeitigen Verf&#252;gbarkeit bzw. Betriebsf&#228;higkeit der steuerlichen
+Wirtschafts-Identifikationsnummer. Denn im Gegensatz zur Unternehmernummer existiert 
+diese zwar in der Theorie, aber noch nicht in der Praxis und sollte nach den urspr&#252;nglichen
+Planungen des BMF erst 2024 zur Verf&#252;gung stehen.
+F&#252;r die erfolgreiche und zeitnahe Umsetzung des Gesetzes ist es aus Sicht des NKR
+zwingend erforderlich, die mit der nun getroffenen Wahl verbundenen Implementierungsrisiken zu
+adressieren und einen verl&#228;sslichen L&#246;sungspfad zu entwickeln. BMF und Bundesregierung
+m&#252;ssen das bereits seit &#252;ber 10 Jahren laufende Projekt zur Einf&#252;hrung der steuerlichen
+Wirtschafts-Identifikationsnummer beschleunigen und durch klare Priorit&#228;tensetzung
+sicherstellen, dass die steuerlichen Wirtschafts-Identifikationsnummer baldm&#246;glichst zur
+Nachnutzung f&#252;r das Basisregister zur Verf&#252;gung steht. Aus Sicht des NKR w&#228;re zu empfehlen
+gewesen, im Gesetzentwurf einen verbindlichen Zeitplan f&#252;r die Umsetzung festzulegen. In
+jedem Fall bedarf es f&#252;r die zeitnahe Umsetzung des Gesamtvorhabens der besonderen
+regierungsseitigen Disziplin und fortw&#228;hrenden politischen Aufmerksamkeit.
+Bez&#252;glich der Rechts- und Verwaltungsvereinfachung kommt dem Gesetzentwurf eine
+&#228;hnlich grunds&#228;tzliche Bedeutung zu, wie dem Registermodernisierungsgesetz, das einen
+vergleichbaren Ansatz f&#252;r den Bereich nat&#252;rlicher Personen formuliert hat. &#196;hnlich wie bei
+Personen, m&#252;ssen auch Unternehmen in den Datenbest&#228;nden der &#246;ffentlichen Hand eindeutig
+identifiziert werden k&#246;nnen, um digitale Verwaltungsverfahren zu erm&#246;glichen und
+statistische Erhebungen zu vereinfachen. Nach Einsch&#228;tzung des NKR h&#228;tte jedoch bereits Stufe
+1, d. h. der vorliegende Gesetzentwurf, die Verpflichtung enthalten m&#252;ssen, dass sich Basis-
+und Quellregister auf konsistente Stammdaten einigen bzw. dass die Angaben im
+Basisregister von allen Registern zu &#252;bernehmen sind. Die Entfaltung des vollen
+Vereinfachungspotentials h&#228;ngt zudem entscheidend davon ab, dass weitere Ausbaustufen folgen. Die vollen
+Entlastungseffekte treten erst dann zu Tage, wenn nicht nur eindeutige Stammdaten zwischen
+Basis- und Quellregistern, sondern mittels einheitlicher Wirtschafts-Identifikationsnummer
+auch Fachdaten zwischen Verwaltungen ausgetauscht werden k&#246;nnen. Erst dann werden
+analoge Nachweise entbehrlich und das Once-Only-Prinzip kann voll zum Tragen kommen. 
+Wie wichtig der jetzt in Angriff genommene unternehmensbezogene Teil der
+Registermodernisierung ist, zeigt sich nicht zuletzt auch anhand der Herausforderungen bei der Auszahlung 
+der Corona-Hilfsgelder. Aufgrund der bisher fehlenden Konsolidierung des &#246;ffentlichen
+Datenmanagements waren und sind (teil-)automatisierte Datenzusammenstellungen und
+Plausibilit&#228;tspr&#252;fungen zu antragstellenden Unternehmen nicht oder nur unzureichend m&#246;glich.
+Entsprechend betrugsanf&#228;llig oder aber verh&#228;ltnism&#228;&#223;ig b&#252;rokratisch und langwierig sind die
+bisher umgesetzten Antragsverfahren.
+Gleiches gilt f&#252;r die j&#252;ngst von Deutschland unterst&#252;tze Initiative der EU,
+Unternehmensgr&#252;ndungen innerhalb von 24 Stunden zu erm&#246;glichen. Trotz regierungsinterner Vorbehalte
+seitens BMJV hat sich BMWi f&#252;r die Selbstverpflichtung Deutschlands ausgesprochen, zuk&#252;nftig
+eine 24-Stunden-Gr&#252;ndung zu erm&#246;glichen. Voraussetzung auch hier ist es, dass
+Unternehmensdaten z&#252;gig an unterschiedliche Beh&#246;rden verteilt und gepr&#252;ft werden k&#246;nnen.
+Schlie&#223;lich zeigt auch die j&#252;ngst erfolgte Anpassung des Transparenzregistergesetzes den 
+Bedarf nach einer besseren Vernetzung unternehmensbezogener Datenbest&#228;nde. Aufgrund 
+der fehlenden Vernetzung mit dem Transparenzregister sind Unternehmen bzw.
+wirtschaftliche Einheiten neuerdings verpflichtet, ihre Daten &#8211; auch wenn diese bereits in anderen
+Registern enthalten sind &#8211; ein weiteres Mal zu melden. Dem NKR ist nicht verst&#228;ndlich, warum
+das Transparenzregister nicht bereits in der jetzigen Ausbaustufe des Basisregisters
+ber&#252;cksichtigt wird. 
+II.5 Evaluierung
+Das Regelungsvorhaben soll sp&#228;testens f&#252;nf Jahre nach Inkrafttreten evaluiert werden.  
+Es wird &#252;berpr&#252;ft werden, ob die mit dem Basisregister in Verbindung mit einer
+bundeseinheitlichen Wirtschaftsnummer intendierten Ziele erreicht und in welchem Umfang die
+M&#246;glichkeiten der Entlastung der Unternehmen von B&#252;rokratie ausgesch&#246;pft worden sind, d. h.
+inwiefern die Datenqualit&#228;t in den Registern gesteigert und der Erf&#252;llungsaufwand f&#252;r Wirtschaft
+und Verwaltung durch Verwirklichung des Once Only-Prinzips reduziert werden konnte. 
+Die Verbesserung der Datenqualit&#228;t soll u.a. durch folgende Indikatoren gemessen werden:
+&#61623; Ver&#228;nderung der Anzahl an Clearing-F&#228;llen im Basisregister im laufenden Betrieb &#252;ber
+relevante Vergleichsperioden, 
+&#61623; Anzahl der durch das Basisregister angesto&#223;enen und in den Quellregistern
+umgesetzten Clearingf&#228;llen &#252;ber relevante Vergleichsperioden, kategorisiert nach Konsistenz,
+Aktualit&#228;t, Qualit&#228;t und Vollst&#228;ndigkeit der Daten, 
+&#61623; Verh&#228;ltnis der durch das Basisregister angesto&#223;enen und in den Quellregistern
+umgesetzten Clearingf&#228;lle zur Gesamtzahl der Clearingf&#228;lle, kategorisiert nach Konsistenz,
+Aktualit&#228;t, Qualit&#228;t und Vollst&#228;ndigkeit der Daten. 
+Die Reduzierung des Erf&#252;llungsaufwandes soll u.a. in den abrufberechtigten Stellen und
+diesen nachgelagerten Stellen mit direktem Verwaltungskontakt durch folgende Indikatoren
+gemessen werden:
+&#61623; Ver&#228;nderung der Anzahl an direkten Verwaltungskontakten &#252;ber relevante
+Vergleichsperioden von Unternehmen im Vergleich vor und nach Errichtung des Basisregisters,
+&#61623; Menge an Daten zu Unternehmen, die bei Verwaltungskontakten gespeichert werden,
+im Vergleich zu entsprechenden Zeitperioden vor Errichtung des Basisregisters.
+Die notwendigen Daten sind vom Basisregister, den Quellregistern und den abrufberechtigten
+Stellen zu erfassen. Daten, die sich auf die Zeit vor Errichtung des Basisregisters beziehen,
+werden aus Bestandsdaten erschlossen oder in Zusammenarbeit mit den Stellen gesch&#228;tzt.
+Weitere Daten sollen durch qualitative Analysen ermittelt werden, etwa durch Befragungen 
+sowie Auswertung von regelm&#228;&#223;igen oder anlassbezogenen Rechenschafts-, Qualit&#228;ts- und
+sonstigen Berichten der abrufberechtigten Stellen.
+Der Evaluierungsbericht wird ebenfalls darstellen, ob &#8211; sofern noch nicht geschehen &#8211;
+sektorspezifische Identifikatoren durch die bundeseinheitliche Wirtschaftsnummer abgel&#246;st
+werden k&#246;nnen und ob eine ausschlie&#223;lich zentrale Speicherung von Unternehmensbasisdaten 
+beim Basisregister umgesetzt werden kann.
+III. Ergebnis
+Das Bundesministerium f&#252;r Wirtschaft und Energie (BMWi) hat die Auswirkungen dieses
+Regelungsvorhabens auf den Erf&#252;llungsaufwand &#252;berwiegend nachvollziehbar dargestellt. Die
+unmittelbaren Entlastungseffekte wurden qualitativ dargestellt, aber nur teilweise quantifiziert. 
+Der Nationale Normenkontrollrat (NKR) erhebt im Rahmen seines gesetzlichen Auftrags keine 
+Einw&#228;nde gegen die Darstellung der Gesetzesfolgen im Regelungsentwurf.
+Der vorliegende Gesetzentwurf war lange &#252;berf&#228;llig. Er ist Grundlage eines modernen
+&#246;ffentlichen Datenmanagements und beabsichtigt f&#252;r den Bereich der Unternehmen das zu leisten,
+was bereits das Registermodernisierungsgesetz in Bezug auf nat&#252;rliche Personen geleistet
+hat. 
+Der NKR weist allerdings darauf hin, dass der Gesetzentwurf &#8211; so sehr er zu begr&#252;&#223;en ist &#8211;
+eine ausreichende Verbindlichkeit vermissen l&#228;sst und wesentliche offene Punkte aufweist, 
+die erst in einer unbestimmten Zukunft geregelt werden sollen und die aus heutiger Sicht den
+Erfolg des gesamten Vorhabens mit einem gro&#223;en Fragezeichen versehen. Aus Sicht des
+NKR bedarf es f&#252;r den Erfolg der ersten Ausbaustufe sowie zur Realisierung der erheblichen
+Effizienzpotentiale dringend folgender weiterer Festlegungen:
+&#61623; verbindlicher Mechanismus zur Gew&#228;hrleistung der Konsistenz von
+Unternehmensstammdaten in Basisregister und Quellregistern
+&#61623; Anschluss weiterer Register, wie dem Transparenzregister
+&#61623; Erm&#246;glichung, dass neben Stammdaten auch weitere Fachdaten mit Hilfe der
+einheitlichen Wirtschafts-Identifikationsnummer ausgetauscht werden k&#246;nnen
+&#61623; Gesetzliche Festlegung eines verbindlichen Zeitplans f&#252;r die Umsetzung des
+Gesetzentwurfs im Ganzen sowie einer klaren Umsetzungsfrist f&#252;r die Betriebsbereitschaft der
+steuerlichen Wirtschafts-Identifikationsnummer
+Dass die steuerliche Wirtschafts-Identifikationsnummer bis auf weiteres noch nicht
+betriebsbereit ist, ist aus Sicht des NKR das gr&#246;&#223;te Umsetzungsrisiko f&#252;r den Gesetzentwurf. Diesem
+muss seitens BMF und Bundesregierung mit einer entsprechenden Priorisierung von
+Ressourcen und politischer Aufmerksamkeit begegnet werden. Das Fehlen eines gesetzlich
+vorgegebenen Umsetzungszeitplans sieht der NKR besonders kritisch.
+Der NKR betont, das erhebliche Einsparpotential in Milliardenh&#246;he, dass sich durch weitere 
+Ausbaustufen des Unternehmensbasisregisters bzw. durch die Anbindung weiterer
+Fachregister und Verwaltungsverfahren ergeben kann. Allein das Entlastungspotential in dieser
+Gr&#246;&#223;enordnung zeigt die erhebliche Bedeutung dieses Gesetzentwurfs f&#252;r
+Verwaltungsdigitalisierung und B&#252;rokratieabbau. Aber auch die aktuelle Krisensituation verdeutlicht den dringen
+Bedarf f&#252;r Unternehmensbasisregister und einheitliche Wirtschaftsidentifikationsnummer. 
+St&#252;nde das geplante System bereits zur Verf&#252;gung, h&#228;tten Corona-Hilfen deutlich schneller
+und unb&#252;rokratischer beantragt und ausgezahlt werden k&#246;nnen.
+Dr. Johannes Ludewig Prof. Dr. Conny Mayer-Bonde 
+Vorsitzender Berichterstatterin
+
+
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>Entwurf eines Gesetzes zur Errichtung und F&#252;hrung eines Registers &#252;ber Unternehmensbasisdaten und zur Einf&#252;hrung einer bundeseinheitlichen Wirtschaftsnummer f&#252;r Unternehmen und zur &#196;nderung weiterer Gesetze</titel>
+    <datum>2021-05-21</datum>
+  </document>
+  

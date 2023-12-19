@@ -1,0 +1,367 @@
+<document>
+    <id>256260</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/31212</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>01b5e5f177a92e70fa8ec25cd679cd2b</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>279074</id>
+      <titel>Anbindung von Impfzentren und Haus&#228;rzten an ein digitales Covid19-Impfnachweissystem</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium f&#252;r Gesundheit</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/312/1931212.pdf</pdf_url>
+      <id>256260</id>
+      <dokumentnummer>19/31212</dokumentnummer>
+      <datum>2021-06-28</datum>
+      <verteildatum>2021-07-07</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Antwort
+der Bundesregierung
+auf die Kleine Anfrage der Abgeordneten Mario Brandenburg (S&#252;dpfalz),
+Frank Sitta, Manuel H&#246;ferlin, weiterer Abgeordneter und der Fraktion der FDP
+&#8211; Drucksache 19/30644 &#8211;
+Anbindung von Impfzentren und Haus&#228;rzten an ein digitales
+COVID-19&#8722;Impfnachweissystem
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Ab Mitte M&#228;rz 2021 bis sp&#228;testens Ende Juni 2021 solle der digitale
+Impfnachweis, der Corona-Impfungen nachweisen soll, in Deutschland starten, 
+verlautete es am 14. April 2021 aus dem Bundesministerium f&#252;r Gesundheit, 
+das sich auf den Beschluss des Europ&#228;ischen Rates vom 21. Januar 2021
+bezog. Hierbei handelt es sich aber nur um ein Provisorium, denn der endg&#252;ltige 
+digitale Impfpass soll ab dem 1. Januar 2022 eingef&#252;hrt werden (https://taz.de/
+Sommerferien-doch-nicht-auf-Balkonien/!5766510/).
+Nationales Vorbild ist dabei eine digitale Corona-Impfkarte von UBIRCH, die 
+in Alt&#246;tting und im Zollernalbkreis im Einsatz ist. Au&#223;er UBIRCH hat das 
+Bundesministerium f&#252;r Gesundheit IBM, govdigital und Bechtle mit der
+Entwicklung einer Impfpass-App beauftragt. Der Datensatz solle dann &#252;ber ein 
+zus&#228;tzliches Modul in der Corona-Warn-App und in anderen Anwendungen 
+als &#8222;Digitales Gr&#252;nes Zertifikat&#8220; angezeigt werden (https://www.deutschlandf
+unk.de/zertifikat-fuer-geimpfte-und-genesene-wie-der-digitale.684.de.html?dr
+am:article_id=496237). Das Konsortium der Firmen hat rund 3 Mio. Euro f&#252;r 
+die Umsetzung erhalten (https://www.bundestag.de/presse/hib/834456-83
+4456).
+Im Unterschied zu D&#228;nemark und Israel, die das Impfzertifikat ausschlie&#223;lich 
+durch offizielle Portale (The National Danish e-Health Portal, https://www.the
+local.dk/20210528/denmark-launches-new-corona-passport-heres-what-you-n
+eed-to-know-about-coronapas-app/; https://www.sundhed.dk/borger/min-side/
+corona/vaccinationspas/; Ministry of Health Israel, https://corona.health.gov.i
+l/en/directives/green-pass-info/) zur Verf&#252;gung stellen, solle der Impfnachweis 
+in Deutschland vor Ort in der Arztpraxis oder im Impfzentrum erstellt werden.
+Daher m&#252;ssten Impfzentren und Arztpraxen eine Software zur Verf&#252;gung
+gestellt bekommen, in die sie die Daten der Impfung eintragen. Aus den
+erfassten Daten solle ein anonymer Fingerabdruck generiert werden. Daraus w&#252;rde 
+die Software dann einen QR-Code (sog. Impfbescheinigungstoken) erstellen, 
+den die Nutzerinnen und Nutzer scannen oder beispielsweise elektronisch als 
+PDF oder als Scheckkarte vor Ort bekommen k&#246;nnen (https://www.bundesges
+undheitsministerium.de/coronavirus/faq-covid-19-impfung/faq-digitaler-impfn
+Deutscher Bundestag Drucksache 19/31212
+19. Wahlperiode 28.06.2021
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums f&#252;r Gesundheit vom 25. Juni 2021 
+&#252;bermittelt.
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext.
+achweis.html?fbclid=IwAR2SpYKjCtLSWa5anShmVaG3RxXZNsdoFWoMj
+FiF18O3WxGaABbcDQCwtiQ und https://ubirch.de/digitaler-impfnachwe
+is-1). In jedem Fall muss dies in den 410 Impfzentren und den Arztpraxen
+integriert werden.
+Hierf&#252;r m&#252;ssen nach Ansicht der Fragesteller unverz&#252;glich die notwendigen 
+technischen Rahmenbedingungen geschaffen werden. Allerdings hat sich die 
+Bundesregierung noch immer nicht eindeutig zu der Frage ge&#228;u&#223;ert, wie sie 
+diese Infrastruktur am Ort in der Impfzentren und Arztpraxis ausgestalten
+werden, obwohl umfassende Integration und die Einbindung der Arztpraxen und 
+Impfzentren wesentlich f&#252;r das Gelingen des digitalen Impfpasses sind.
+Ein fl&#228;chendeckendes und effizientes Nachweissystem kann nur sichergestellt 
+werden, wenn alle relevanten Akteure wie Verantwortlichen der &#246;ffentlichen 
+Verwaltung und Hilfsorganisationen, Expertinnen und Experten der
+Gesundheits-IT in die Impforganisation mit eingebunden werden. Fehlendes
+Fachwissen der Gesundheits-IT hat vor allem bei der Terminvergabe in den
+vergangenen Monaten zu Komplikationen und Parallelstrukturen gef&#252;hrt (https://www.
+bitkom.org/sites/default/files/2021-03/empfehlungen-digitales-covid-19.pdf).
+Au&#223;erdem m&#252;ssen die Bundesregierung und die beauftragten Firmen in der 
+Entwicklung die Sicherheit der Daten und der Anwendung gleicherma&#223;en
+gew&#228;hrleisten, damit das Vertrauen in das Gesamtsystem &#8222;digitaler
+Impfnachweis&#8220; nicht ersch&#252;ttert wird. Mit dem israelischen &#8222;Green Pass&#8220; hatte es
+zuletzt gro&#223;e Probleme mit F&#228;lschungen gegeben, was berechtigte Bedenken 
+ausl&#246;st. Experten kritisierten demnach, dass der QR-Code nicht ausreichend 
+verschl&#252;sselt sei und Unbefugte leicht auf die dahinterliegenden
+Informationen zugreifen k&#246;nnen, darunter auch Namen und Geburtsdatum der Geimpften 
+(https://www.timesofisrael.com/thousands-reportedly-attempt-to-obtain-easil
+y-forged-vaccinated-certificate/).
+Schon bei der Entwicklung der Corona-Warn-App, der digitalen Anbindung 
+der Labore sowie der digitalen Aufr&#252;stung der Gesundheits&#228;mter hat nach
+Ansicht der Fragesteller die Bundesregierung zu langsam gehandelt. Vor allem 
+fehlende Einbeziehungen der Fachexpertisen der Gesundheits-IT haben dazu 
+gef&#252;hrt, dass ein Gro&#223;teil der Bundesl&#228;nder unabh&#228;ngige
+Terminvergabesysteme einsetzen, die z. T. &#252;berlastet sind oder die spezifischen Anforderungen im 
+Gesundheitswesen nicht erf&#252;llen. Das darf sich bei der Entwicklung und
+Nutzung des digitalen Impfnachweises und sp&#228;ter des digitalen Impfausweises 
+nicht wiederholen.
+V o r b e m e r k u n g  d e r  B u n d e s r e g i e r u n g
+Der digitale Impfnachweis ist eine zus&#228;tzliche M&#246;glichkeit, um Corona-
+Impfungen zu dokumentieren. Geimpfte k&#246;nnen damit Informationen wie 
+Impfzeitpunkt und Impfstoff auf ihren Smartphones &#8211; entweder in der CovPass-
+App oder in der Corona-Warn-App &#8211; digital speichern. Der digitale 
+COVID-19-Impfnachweis wird im Einklang mit dem digitalen COVID-
+Zertifikat der Europ&#228;ischen Union in Deutschland seit dem 14. Juni 2021 in 
+Impfzentren, Arztpraxen und Apotheken ausgestellt. Deutschland geh&#246;rt damit 
+zu den ersten Staaten der Europ&#228;ischen Union, die die digitalen COVID-
+Zertifikate umsetzen. In der Zwischenzeit wurden bereits &#252;ber 30 Millionen 
+Impfzertifikate ausgestellt. Test- und Genesenenzertifikate folgen in K&#252;rze.
+Der digitale Impfnachweis ist ein Projekt im Auftrag des Bundesministeriums 
+f&#252;r Gesundheit (BMG). Die Anwendung wurde von den Unternehmen 
+UBIRCH, IBM Deutschland, govdigital und Bechtle entwickelt. Das Robert 
+Koch-Institut ist als Herausgeber verantwortlich f&#252;r die Ausgestaltung der
+Anwendung sowie f&#252;r die sorgf&#228;ltige Pr&#252;fung der Anforderungen an Datenschutz 
+und Datensicherheit. Daf&#252;r findet eine enge Abstimmung mit dem Bundesamt 
+f&#252;r Sicherheit in der Informationstechnik und dem Bundesbeauftragten f&#252;r den 
+Datenschutz und die Informationsfreiheit statt.
+&#8199;1. Plant die Bundesregierung ein einheitliches Konzept f&#252;r die Anbindung 
+von Impfzentren und Haus&#228;rzten an ein digitales COVID-19-
+Impfnachweissystem?
+a) Wenn ja, welche Ver&#228;nderungen und Anpassungen sieht es vor?
+b) Wenn nein, wie will die Bundesregierung die Kompatibilit&#228;t sowie 
+Interoperabilit&#228;t der verschiedenen Konzepte gew&#228;hrleisten?
+c) Wer wurde mit der Anbindung von Impfzentren und Haus&#228;rzten an 
+ein digitales COVID-19-Impfnachweissystem beauftragt?
+d) Wann wird die Anbindung nach Meinung der Bundesregierung
+abgeschlossen?
+Die Fragen 1 bis 1d werden gemeinsam beantwortet.
+Die Impfzentren der L&#228;nder wurden ab dem 14. Juni 2021 sukzessive
+angeschlossen. Niedergelassene &#196;rztinnen und &#196;rzte k&#246;nnen ein Internetportal oder 
+eine Integrationsl&#246;sung in das Praxisverwaltungssystem nutzen. Die
+Anbindung der Impfzentren erfolgt &#252;ber die L&#228;nder. Die Integration der
+Praxisverwaltungssysteme wird vom BMG unterst&#252;tzt. Den &#196;rztinnen und &#196;rzten
+werden f&#252;r eine Mehrheit der von ihnen verwendeten Praxisverwaltungssysteme 
+vom BMG kostenlos Updates zur Verf&#252;gung gestellt. Die Integration in die 
+Praxisverwaltungssysteme wird von den Herstellern sukzessive umgesetzt.
+Unabh&#228;ngigkeit davon k&#246;nnen die &#196;rztinnen und &#196;rzte jederzeit das Internetportal 
+nutzen.
+Alle notwendigen Voraussetzungen f&#252;r den Anschluss der Impfzentren und
+niedergelassenen &#196;rztinnen und &#196;rzte liegen somit mittlerweile vor und es wurden 
+bereits mehr als 30 Millionen Impfzertifikate ausgestellt.
+&#8199;2. Liegt der Ausgestaltung der Nachweissysteminfrastruktur eine
+l&#228;ngerfristige Strategie bez&#252;glich der digitalen Transformation im
+Gesundheitswesen im Hinblick auf den digitale Impfpass zugrunde?
+Die Nachweisinfrastruktur wurde in erster Linie durch die europ&#228;ischen
+Vorgaben f&#252;r die Impf-, Test- und Genesenenzertifikate definiert. Gleichwohl liefert 
+die sehr schnelle Umsetzung der digitalen Nachweise wichtige Impulse und
+Erkenntnisse f&#252;r die weitere Digitalisierung im Gesundheitswesen. Der digitale 
+Impfpass wird zum 1. Januar 2022 als Teil der elektronischen Patientenakte
+innerhalb der Telematikinfrastruktur eingef&#252;hrt und stellt ebenso wie die
+elektronische Patientenakte eine freiwillige Anwendung f&#252;r die Versicherten dar. Die 
+gematik begleitet beide Prozesse, um eine strategische Abstimmung
+sicherzustellen.
+&#8199;3. Wie weit ist der Stand der Ausgestaltung der Infrastruktur nach Kenntnis 
+der Bundesregierung in den Impfzentren und Arztpraxen, und wann
+werden die gegebenenfalls n&#246;tigen Ver&#228;nderungen der Infrastruktur in Gang 
+gesetzt?
+Es wird auf die Antwort zu den Fragen 1 bis 1d verwiesen.
+&#8199;4. Wird die Bundesregierung die Anbindung an ein digitales COVID-19-
+Impfnachweissystem Impfzentren, aber vor allem Arztpraxen gesetzlich 
+vorschreiben oder auf Freiwilligkeit setzen?
+Die B&#252;rgerinnen und B&#252;rger haben nach &#167; 22 Absatz 5 des
+Infektionsschutzgesetzes (IfSG) und den ab dem 1. Juli 2021 geltenden europarechtlichen
+Bestimmungen einen Anspruch auf Ausstellung eines COVID-19-Impfzertifikates. 
+Dementsprechend sieht &#167; 22 Absatz 5 IfSG vor, dass die &#196;rztinnen und &#196;rzte 
+berechtigt sind, das COVID-19-Impfzertifikat auszustellen und diesen Auftrag 
+in Umsetzung der europarechtlichen Verpflichtungen wahrzunehmen.
+&#8199;5. Welche technischen Vorgaben sind nach Wissen der Bundesregierung f&#252;r 
+Arztpraxen und Impfzentren vorgesehen?
+a) Ist die Telematikinfrastruktur (TI) oder KV-Safenet (eine
+Anbindungsm&#246;glichkeit an das sichere Netz der Kassen&#228;rztlichen
+Vereinigungen) n&#246;tig, um mit der Impfnachweissoftware zu arbeiten?
+b) Ist ein elektronischer Arztausweis daf&#252;r n&#246;tig?
+c) Werden nach Kenntnis der Bundesregierung f&#252;r die Pflege von Daten 
+auf den provisorischen digitalen Impfpass spezifische Ger&#228;te
+(Smartphone, Tablet oder Terminal) ben&#246;tigt?
+d) Wenn ja, wie will die Bundesregierung sicherstellen, dass jeder Arzt 
+und jedes Impfzentrum die technischen Vorgaben erf&#252;llen kann?
+e) Wie viele Arztpraxen und Impfzentren verf&#252;gen nach Kenntnis der 
+Bundesregierung bereits &#252;ber die n&#246;tigen technischen
+Voraussetzungen und wie viele nicht?
+f) Wer wird die technische Ausstattung finanzieren, und plant die 
+Bundesregierung eine einmalige Strukturpauschale f&#252;r Arztpraxen 
+bei erstmaliger Anlage eines funktionsf&#228;higen Impfnachweises?
+Die Fragen 5 bis 5f werden gemeinsam beantwortet.
+F&#252;r die Arztpraxen ist die Anbindung an die Telematikinfrastruktur und f&#252;r die 
+Nutzung des Internetportals weiterhin die Anbindung an das sichere Netz der 
+Kassen&#228;rztlichen Vereinigungen notwendig. F&#252;r die Impfzentren werden
+alternative Sicherungsmechanismen verwendet. Ein elektronischer Arztausweis und 
+spezifische Ger&#228;te sind nicht notwendig.
+Da die Anbindung an die Telematikinfrastruktur f&#252;r die niedergelassenen
+&#196;rztinnen und &#196;rzte in der vertrags&#228;rztlichen Versorgung bereits gesetzlich
+gefordert ist, bestehen insoweit auch keine technischen H&#252;rden. Spezielle technische 
+Erfordernisse f&#252;r Impfzentren bestehen nicht. Soweit Ger&#228;te (sog.
+Hardwaretoken) f&#252;r die Authentifizierung notwendig sind, so werden diese vom
+Auftragnehmer des BMG zur Verf&#252;gung gestellt. In Bezug auf die Finanzierung einer 
+Anpassung der Praxisverwaltungssysteme wird auf die Antwort zu den Fragen 
+1 bis 1d verwiesen.
+&#8199;6. Mit welchen Kosten f&#252;r die Bundesregierung rechnet die
+Bundesregierung bei der Anbindung von Impfzentren und Haus&#228;rzten an ein digitales 
+Nachweissystem?
+F&#252;r die Bereitstellung der technischen Verfahren zur Ausstellung des
+COVID-19-Impfzertifikates fallen nach initialer Sch&#228;tzung Kosten in H&#246;he von 
+2 700 000 Euro an. Insbesondere zus&#228;tzliche europ&#228;ische Anforderungen
+k&#246;nnen den Kostenrahmen noch ver&#228;ndern. Die initialen Entwicklungskosten
+umfassen auch Verfahren zur Erm&#246;glichung der Ausstellung des COVID-19-
+Zertifikates in den Impfzentren, d. h. insbesondere ein Internetportal und 
+Schnittstellen f&#252;r die Integration in Software der Impfzentren. F&#252;r die
+Erm&#246;glichung der Ausstellung des COVID-19-Impfzertifikates wurde im Rahmen der 
+parlamentarischen Beratungen zum Zweiten Gesetz zur &#196;nderung des
+Infektionsschutzgesetzes und weiterer Gesetze vom 28. Mai 2021 (BGBl. I S. 1174) 
+ein Wert von 20 000 000 Euro veranschlagt.
+&#8199;7. Welche Software wird nach Kenntnis der Bundesregierung den
+Arztpraxen und Impfzentren zur Verf&#252;gung gestellt?
+F&#252;r die Anbindung wird neben einem Internetportal auch eine Integration in
+bestehende Softwaresysteme angeboten.
+&#8199;8. Bei welchen Unternehmen wurde die Entwicklung der
+Softwarekomponenten in Auftrag gegeben f&#252;r
+a) Impfnachweis &#8211; Applikation f&#252;r die B&#252;rger,
+b) Pr&#252;f-App zur Pr&#252;fung des Impfstatus,
+c) Gateway/API, gegen das ein Impfzertifikat digital gepr&#252;ft werden 
+kann,
+d) Applikation zur Erstellung von Impfzertifikaten in Impfzentren,
+e) Applikation zur Erstellung von Impfzertifikaten in Arztpraxen?
+Alle Komponenten wurden von einem Unternehmenskonsortium von 
+UBIRCH, IBM Deutschland, govdigital und Bechtle zur Verf&#252;gung gestellt, 
+wobei in Impfzentren und Arztpraxen nur das Internetportal und Schnittstellen 
+zur Integration beauftragt wurde. Das Gateway, von welchem die &#246;ffentlichen 
+Schl&#252;ssel in die Pr&#252;f-Apps heruntergeladen werden, wird von der Europ&#228;ischen 
+Union zur Verf&#252;gung gestellt.
+&#8199;9. Fehlen in der Liste der Softwarekomponenten in Frage 8 noch
+Komponenten, die den Fragestellern nicht bekannt sind, und wenn ja, welche 
+sind dies?
+Nein.
+10. Wie ist nach Kenntnis der Bundesregierung der Entwicklungsstand der 
+jeweils einzelnen Komponenten, wie angegeben in den Unterpunkten in 
+Frage 8 und in der Antwort zu Frage 9, und bis wann werden diese
+Komponenten einsatzbereit sein (bitte getrennt auff&#252;hren)?
+Alle Komponenten werden bereits genutzt und mehr als 30 Millionen
+Impfzertifikate wurden bereits ausgestellt.
+11. Welche Softwarekomponenten, wie aufgelistet in den Unterpunkten in 
+Frage 8 und in der Antwort zu Frage 9, werden in den anderen
+europ&#228;ischen Mitgliedstaaten verwendet werden k&#246;nnen?
+Aufgrund der unterschiedlichen gesetzlichen Rahmenbedingungen und IT-
+Infrastrukturen ist eine &#220;bernahme von Komponenten in anderen Europ&#228;ischen 
+Mitgliedstaaten unwahrscheinlich.
+12. Welche Softwarekomponenten, wie aufgelistet in den Unterpunkten in 
+Frage 8 und in der Antwort zu Frage 9, werden in anderen europ&#228;ischen 
+Mitgliedstaaten entwickelt und werden voraussichtlich auch in
+Deutschland eingesetzt werden?
+Es wird auf die Antwort zu Frage 11 verwiesen.
+13. Wird diese Software nur der Erstellung eines digitalen Zertifikats f&#252;r den 
+Impfnachweis dienen, oder beinhaltet sie andere Anwendungen?
+Bis Ende Juni 2021 wird die Software f&#252;r die Erstellung und Verwaltung von 
+Test- und Genesenenzertifikaten erweitert.
+14. Wird die Software lizenzkostenfrei und ohne Pflegegeb&#252;hr zur
+Verf&#252;gung gestellt, und wenn nicht, welche Kosten werden zu welchem
+Anwendungsdatum anfallen?
+Ja, die vom BMG beauftragte Software wird kostenfrei zur Verf&#252;gung gestellt.
+15. Ist die Kompatibilit&#228;t mit allen Betriebssystemen sichergestellt, und 
+wenn nein, warum nicht?
+Die Anwendung unterst&#252;tzt die mobilen Plattformen von Google (Android), 
+Apple (iOS) und Huawei. Auch die Internetportale sind unabh&#228;ngig von einem 
+Betriebssystem nutzbar. Die Schnittstellen werden von mindestens zwei
+Betriebssystemen genutzt.
+16. Welchen Zeitraum wird die Ersteinrichtung der Software vor Ort nach 
+Sch&#228;tzung der Bundesregierung dauern, und wer wird diese Einrichtung 
+ausf&#252;hren?
+Es wird auf die Antwort zu den Fragen 1 bis 1d verwiesen.
+17. Wer wird als technischer und fachlicher Ansprechpartner f&#252;r die digitale 
+Infrastruktur inklusive Software f&#252;r Arztpraxen und Impfzentren dienen?
+Wird die Bundesregierung eine Hotline f&#252;r Fragen rund um diese
+Infrastruktur anbieten, und wenn ja, wird die landes- oder bundesweit
+eingef&#252;hrt?
+Wie viel Personal mit welchem beruflichen Hintergrund w&#252;rde daf&#252;r
+ben&#246;tigt?
+Eine Telefonhotline mit derzeit 25 Personen mit den notwendigen
+Hintergrundkenntnissen steht bereits zur Verf&#252;gung. Zudem besteht die M&#246;glichkeit, bei 
+hohem Anrufaufkommen die zur Verf&#252;gung stehenden Personalkapazit&#228;ten um 
+bis zu 100 Personen bedarfsgerecht zu erh&#246;hen.
+18. Werden Mitarbeiter und Mitarbeiterinnen von Arztpraxen und
+Impfzentren Schulungen (zum Beispiel interaktive Tutorials) angeboten werden, 
+und wenn ja, wie sind diese ausgestaltet, welche Tr&#228;ger bieten diese an?
+F&#252;r Mitarbeiterinnen und Mitarbeiter steht umfangreiches Schulungsmaterial 
+einschlie&#223;lich Schulungsvideos zur Verf&#252;gung.
+19. Plant die Bundesregierung, das digitale COVID-19-Impfnachweissystem 
+in schon existierenden Softwaresystemen wie z. B. von ImpfDocNE, 
+Salesforce, SAP, Microsoft, Arvato und sum.cumo auch zu integrieren?
+Um den &#196;rztinnen und &#196;rzten eine einfache Ausstellung des COVID-19-
+Impfzertifikates zu erm&#246;glichen, stellt das BMG den &#196;rztinnen und &#196;rzten ein 
+Update f&#252;r die Mehrheit der von diesen genutzten Praxisverwaltungssystemen 
+kostenlos zur Verf&#252;gung.
+20. Wie bewertet die Bundesregierung die Effizienz der Prozesse (z. B.
+Wartemanagement, Aufnahme, Aufkl&#228;rungsgespr&#228;ch) in Bezug auf
+Impfnachweisausstattung, und wird der digitalen COVID-19-Impfnachweis 
+vor Ort den Impfprozess deutlich verl&#228;ngern?
+Nach Erkenntnissen der Bundesregierung stehen mittlerweile
+Softwarewerkzeuge zur Verf&#252;gung, um effiziente Prozesse zu gew&#228;hrleisten.
+21. Wie wird die Sicherheit der pers&#246;nlichen Daten im digitalen Corona-
+Impfnachweis und im digitalen Impfausweis gew&#228;hrleistet?
+Wie soll sichergestellt werden, dass beim provisorischen Impfpass nur 
+berechtigte Personen auf die Daten zugreifen k&#246;nnen?
+Sollen als Hardware-Token in Arztpraxen und Impfzentren Secure
+Elements auf Smartphones, FIDO2-Tokens oder Konnektoren, Leseger&#228;te, 
+Karten der Telematikinfrastruktur benutzt werden?
+Es wird auf die Antwort zu Frage 5 verwiesen. Im &#220;brigen wurden vor der 
+Freigabe und werden fortlaufend umfangreiche Tests durch das Bundesamt f&#252;r 
+Sicherheit in der Informationstechnik durchgef&#252;hrt.
+22. Wie bewertet die Bundesregierung die Diskussion der gematik GmbH 
+mit dem Bundesamt f&#252;r Sicherheit in der Informationstechnik in Bezug 
+auf die Hardware und die Sicherheitsarchitektur angesichts der
+Anbindung von Arztpraxen an digitale Nachweissysteme oder an ein (in
+diesem Fall) Corona-Impfung-Nachweissystem (https://e-health-com.de/the
+ma-der-woche/wir-fragen-die-oeffentlichkeit-ist-das-der-richtige-weg/)?
+Die gematik und das Bundesamt f&#252;r Sicherheit in der Informationstechnik
+befinden sich in einem konstruktiven Austausch zur Umsetzung der
+Telematikinfrastruktur 2.0. Die Telematikinfrastruktur dient im Kontext der digitalen 
+Nachweise als Sicherheitsanker und vermeidet somit die Bereitstellung einer 
+ressourcenaufw&#228;ndigen technischen Authentifizierung von sch&#228;tzungsweise 
+70 000 Arztpraxen. Auch diese L&#246;sung wurde zusammen mit dem Bundesamt 
+f&#252;r Sicherheit in der Informationstechnik und der gematik entwickelt und
+gepr&#252;ft. Im Rahmen der Telematikinfrastruktur 2.0 soll dieser Servicegedanke der 
+Telematikinfrastruktur weiter ausgebaut werden.
+23. Wurden die Erfahrungen des Kooperationsprojektes der AOK Plus 
+&#8222;meinImpfpass&#8220; in Sachsen und Th&#252;ringen bei der Planung
+ber&#252;cksichtigt (https://www.aok.de/pk/plus/inhalt/thueringen-elektronischer-impfpa
+ss-der-aok-plus/#:~:text=Die%20AOK%20PLUS%20und%20die,gemein
+samen%20digitalen%20Plattform%20zu%20verwalten)?
+Es wurden die Erfahrungen aus verschiedenen Projekten ber&#252;cksichtigt, soweit 
+dies im Rahmen der europ&#228;ischen Vorgaben m&#246;glich war.
+24. Sieht die Bundesregierung zum jetzigen Zeitpunkt Entwicklungen zur 
+Impfnachweisdokumentation in anderen europ&#228;ischen Staaten, die einer 
+interoperablen L&#246;sung zuwiderlaufen, und wenn ja, welche sind dies?
+Deutschland hat sich erfolgreich an europ&#228;ischen Interoperabilit&#228;tstests
+beteiligt. Bislang liegen keine Erkenntnisse &#252;ber inkompatible Implementierungen 
+in anderen europ&#228;ischen Mitgliedstaaten vor.
+25. Wird jeder B&#252;rger berechtigt sein, eine Pr&#252;f-App zur Pr&#252;fung des
+Impfzertifikats zu installieren, und wenn nein, wer wird berechtigt sein?
+Ja, es bestehen keine Einschr&#228;nkungen in Bezug die Installation der Pr&#252;f-Apps.
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/30644 -
+Anbindung von Impfzentren und Haus&#228;rzten an ein digitales COVID-19-Impfnachweissystem</titel>
+    <datum>2021-06-28</datum>
+  </document>
+  

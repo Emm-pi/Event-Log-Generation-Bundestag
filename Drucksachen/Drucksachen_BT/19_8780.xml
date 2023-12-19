@@ -1,0 +1,160 @@
+<document>
+    <id>227626</id>
+    <drucksachetyp>Kleine Anfrage</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>11</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/8780</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>cefab7c4cffd896ca38d66727445c37d</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:15+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>245439</id>
+      <titel>Vorgaben zur Ausgestaltung und zur Interoperabilit&#228;t des elektronischen Rezeptes</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>B90/GR</bezeichnung>
+      <titel>Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN</titel>
+    </urheber>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/087/1908780.pdf</pdf_url>
+      <id>227626</id>
+      <dokumentnummer>19/8780</dokumentnummer>
+      <datum>2019-03-28</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Kleine Anfrage</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN</urheber>
+    </fundstelle>
+    <autoren_anzeige>
+      <id>1611</id>
+      <titel>Kordula Schulz-Asche, MdB, B&#220;NDNIS 90/DIE GR&#220;NEN</titel>
+      <autor_titel>Kordula Schulz-Asche</autor_titel>
+    </autoren_anzeige>
+    <autoren_anzeige>
+      <id>1093</id>
+      <titel>Maria Klein-Schmeink, MdB, B&#220;NDNIS 90/DIE GR&#220;NEN</titel>
+      <autor_titel>Maria Klein-Schmeink</autor_titel>
+    </autoren_anzeige>
+    <text>[Deutscher Bundestag  Drucksache 19/8780 
+19. Wahlperiode 28.03.2019 
+Kleine Anfrage 
+der Abgeordneten Kordula Schulz-Asche, Maria Klein-Schmeink,  
+Dr. Kirsten Kappert-Gonther, Dr. Bettina Hoffmann, Katja D&#246;rner,  
+Dr. Anna Christmann, Kai Gehring, Erhard Grundl, Ulle Schauws, Margit Stumpp, 
+Beate Walter-Rosenheimer und der Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN  
+Vorgaben zur Ausgestaltung und zur Interoperabilit&#228;t des elektronischen Rezeptes 
+Mit dem Entwurf des Gesetzes f&#252;r mehr Sicherheit in der Arzneimittelversorgung 
+(GSAV) beabsichtigt die Bundesregierung auch die Einf&#252;hrung des
+elektronischen Rezeptes. Jedoch unterl&#228;sst die Bundesregierung aus Sicht der Fragesteller 
+im Gesetzentwurf jegliche Vorgaben zur Ausgestaltung und zur Interoperabilit&#228;t 
+des elektronischen Rezeptes. Auch der bestehende &#167; 291e Absatz 10 des
+F&#252;nften Buches Sozialgesetzbuch (SGB V) stellt nach Einsch&#228;tzung der Fragesteller 
+nicht sicher, dass von der gesetzlichen Krankenversicherung finanzierte
+Anwendungen auf international gebr&#228;uchlichen semantischen Standards der
+Medizininformatik beruhen m&#252;ssen, sondern bestimmt lediglich, dass diese
+Anwendungen den Festlegungen und Empfehlungen der Gesellschaft f&#252;r
+Telematikanwendungen der Gesundheitskarte mbH (gematik) entsprechen m&#252;ssen. Somit
+bestehen nach Ansicht der Fragesteller auch keinerlei gesetzliche Vorgaben zur
+semantischen Interoperabilit&#228;t des elektronischen Rezeptes unter Verwendung
+international gebr&#228;uchlicher Terminologien. Damit besteht die Gefahr, dass
+nationale Insell&#246;sungen f&#252;r das elektronische Rezept wie auch den elektronischen
+Medikationsplan entstehen.  
+Wir fragen die Bundesregierung: 
+1. Aus welchem Grunde verzichtet die Bundesregierung im Entwurf des GSAV 
+darauf, verbindliche konzeptionelle Vorgaben f&#252;r die Realisierung des
+elektronischen Rezeptes zu machen? 
+2. Wie soll nach Vorstellung der Bundesregierung das elektronische Rezept 
+von den Verschreibenden &#252;ber die Patientinnen und Patienten zu den
+Apotheken gelangen? 
+3. Wie soll nach Ansicht der Bundesregierung der &#220;bergang zwischen der
+Papierform und der elektronischen Form des Rezeptes konkret gestaltet
+werden?  
+F&#252;r welchen Zeitraum soll nach Ansicht der Bundesregierung ggf. ein
+Parallelbetrieb geleistet werden? 
+4. In welcher Umsetzungsstufe der elektronischen Patientenakte (ePA) und 
+wann sollen die Daten des elektronischen Rezeptes nach Kenntnis der
+Bundesregierung in die ePA integriert werden?
+5. Welche gesetzlichen Regelungen gew&#228;hrleisten aus Sicht der
+Bundesregierung, dass die von der gematik definierten Inhalte-Standards f&#252;r das
+elektronische Rezept auf international gebr&#228;uchlichen semantischen Standards 
+wie HL7 CDA, FHIR etc. basieren und eine semantische Interoperabilit&#228;t des 
+elektronischen Rezeptes sicherstellen? 
+Wenn bislang keine gesetzlichen Vorgaben zur Gew&#228;hrleistung der
+Interoperabilit&#228;t der auf Grundlage international gebr&#228;uchlicher Terminologien
+existieren, warum hat die Bundesregierung solche Vorgaben bislang unterlassen, 
+und wann wird die Bundesregierung solche Standardisierungsvorgaben
+machen bzw. auf solche Vorgaben hinwirken? 
+6. Trifft es zu, dass die bislang von der gematik vorgesehenen Inhalte-
+Standards zur Strukturierung der Inhalte des elektronischen Medikationsplans 
+nicht auf internationalen Standards sondern lediglich auf einer propriet&#228;ren 
+XML-Technologie basieren sollen, und wenn ja, aus welchem Grund setzt 
+die gematik nach Kenntnis der Bundesregierung auf nationale Standards? 
+7. Warum orientiert sich die gematik nach Kenntnis der Bundesregierung nicht 
+an den im Rahmen des Projektes &#8222;Medikationsplan Plus&#8220; entstandenen
+Vorarbeiten f&#252;r einheitliche auf internationalen semantischen Standards
+basierende Terminologien? 
+8. Teilt die Bundesregierung die Ansicht der fragestellenden Fraktion, dass 
+nicht auf international gebr&#228;uchlichen Terminologien beruhende Standards 
+zu nationalen Insell&#246;sungen f&#252;hren und beispielsweise den Bem&#252;hungen der 
+Europ&#228;ischen Kommission f&#252;r mehr Interoperabilit&#228;t von Patientendaten und 
+ein europ&#228;isches Austauschformat f&#252;r elektronische Patientenakten
+zuwiderlaufen?  
+Wenn nein, warum nicht? 
+9. Trifft es zu, dass der elektronische Medikationsplan Teil der ersten
+Umsetzungsstufe der elektronischen Patientenakte werden soll, und wenn ja,
+inwieweit besteht dann ein Widerspruch zwischen der f&#252;r das so genannte
+Terminservicegesetz geplanten Regelung, wonach bei der Festlegung der Inhalte f&#252;r 
+die elektronische Patientenakte internationale Standards einzubeziehen 
+seien, und dem Verzicht auf solche internationalen Standards beim
+elektronischen Medikationsplan? 
+10. In welcher Weise begleitet die Bundesregierung den in der gematik
+laufenden Standardisierungsprozess f&#252;r den elektronischen Medikationsplan, bzw. 
+in welcher Weise wird sie den Standardisierungsprozess f&#252;r das
+elektronische Rezept begleiten? 
+11. Auf welche Weise stellt die Bundesregierung sicher, dass beim
+Standardisierungsprozess f&#252;r das elektronische Rezept die
+Standardisierungsorganisationen (SDO) sowie die wissenschaftlichen Fachgesellschaften verbindlich
+einbezogen werden? 
+12. Wie stellt die Bundesregierung sicher, dass durch die Einf&#252;hrung des
+elektronischen Rezepts bestehende Versorgungsmodelle wie etwa die
+Arzneimittelinitiative ARMIN nicht negativ beeinflusst werden? 
+13. Trifft es zu, dass die bei der Arzneimittelinitiative Sachsen-Th&#252;ringen  
+ARMIN genutzte Schnittstelle S3C nicht auf international &#252;blichen
+Terminologien beruht? 
+Wenn ja, auf welche Weise unterst&#252;tzt die Bundesregierung, dass hier
+k&#252;nftig international gebr&#228;uchliche semantische Standards eingesetzt werden? 
+Mit welchem Anpassungsaufwand und welcher Anpassungsdauer rechnet 
+die Bundesregierung bei ARMIN und vergleichbaren F&#228;llen?
+14. Bef&#252;rwortet die Bundesregierung die Schaffung einer staatlichen
+Koordinierungsstelle f&#252;r die Standardisierungsprozesse im Gesundheitswesen bzw. die 
+Ansiedlung einer solchen Stelle beim Deutschen Institut f&#252;r Medizinische 
+Dokumentation und Information DIMDI, und wenn nein, warum nicht? 
+15. Wann wird die Bundesrepublik Deutschland eine Mitgliedschaft bei  
+SNOMED International beantragen und auf diese Weise einen kostenfreien 
+Zugang zu SNOMED CT erm&#246;glichen?  
+16. a) Wie will die Bundesregierung sicherstellen, dass das in der Begr&#252;ndung 
+zum Entwurf des Gesetzes f&#252;r mehr Sicherheit in der
+Arzneimittelversorgung (GSAV) genannte Ziel, die im Vorfeld der fl&#228;chendeckenden
+Einf&#252;hrung des elektronischen Rezeptes laufenden Projekte sollen wichtige 
+Impulse f&#252;r die von der gematik zu treffenden Festlegungen liefern,
+eintreten kann? 
+b) Welche Verfahren sieht die Bundesregierung vor, um sicherzustellen, 
+dass Erfahrungen aus Modellprojekten in den von der gematik zu
+treffenden Festlegungen ber&#252;cksichtigt werden? 
+Berlin, den 12. M&#228;rz 2019  
+Katrin G&#246;ring-Eckardt, Dr. Anton Hofreiter und Fraktion
+ 
+ 
+ 
+Satz: Satzweiss.com Print, Web, Software GmbH, Mainzer Stra&#223;e 116, 66121 Saarbr&#252;cken, www.satzweiss.com 
+Druck: Printsystem GmbH, Schafw&#228;sche 1-3, 71296 Heimsheim, www.printsystem.de 
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de 
+ISSN 0722-8333]</text>
+    <titel>Vorgaben zur Ausgestaltung und zur Interoperabilit&#228;t des elektronischen Rezeptes</titel>
+    <datum>2019-03-28</datum>
+  </document>

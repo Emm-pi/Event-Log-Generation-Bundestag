@@ -1,0 +1,494 @@
+<document>
+    <id>225496</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/7036</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>10db61c3861759f72ca081b077af16be</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>242608</id>
+      <titel>Hochleistungsrechnen in Deutschland</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium f&#252;r Bildung und Forschung</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/070/1907036.pdf</pdf_url>
+      <id>225496</id>
+      <dokumentnummer>19/7036</dokumentnummer>
+      <datum>2019-01-14</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums f&#252;r Bildung und Forschung vom 
+11. Januar 2019 &#252;bermittelt.  
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext. 
+Deutscher Bundestag  Drucksache 19/7036 
+19. Wahlperiode 14.01.2019 
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Mario Brandenburg (S&#252;dpfalz),  
+Katja Suding, Nicola Beer, weiterer Abgeordneter und der Fraktion der FDP 
+&#8211; Drucksache 19/6527 &#8211; 
+Hochleistungsrechnen in Deutschland 
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r  
+Hochleistungsrechnen (hiernach HPC; High Performance Computing) ist eine 
+unverzichtbare Schl&#252;sseltechnologie und besonders wichtig f&#252;r Wirtschaft, 
+Wissenschaft und Forschung. In der Medizin, beim Wetterdienst, beim
+Umweltschutz und bei der Cybersicherheit werden Hochleistungsrechner bereits
+eingesetzt. HPC und K&#252;nstliche Intelligenz greifen zunehmend ineinander und sind 
+unabdingbar, wenn die deutsche Wissenschaft und Forschung mit neuen
+Computing-, Speicher- und Kommunikationstechnologien sowie mit
+Quantencomputing-Chips in eine Exascale-Zukunft geht (www.hpcwire.com/2018/01/25/ 
+hpc-ai-two-communities-future/). So wird derzeit in dem Projekt &#8222;Providentia&#8220; auf 
+der A9 am Abschnitt M&#252;nchen-Garching mit modernem Hochleistungsrechnen als 
+grundlegende Basis in Echtzeit autonomes Fahren getestet (www.innovations- 
+report.de/html/berichte/informationstechnologie/besserer-verkehrsfluss-
+sicheresvernetztes-fahren-auf-der-digital-unterstuetzten-autobahn.html). HPC
+erm&#246;glicht unter anderem eine Vernetzung und Auswertung von KI-Technologien und 
+weiteren Daten. Verkehrsteilnehmer sollen durch dieses Projekt von weniger 
+Stau und Unf&#228;llen profitieren. 
+Hochleistungsrechner sind die schnellsten ihrer Zeit und zeichnen sich durch 
+eine hohe Anzahl an Prozessoren und/oder Speicherkapazit&#228;t aus. Ein Merkmal 
+ist die parallele Verarbeitung gro&#223;er Datenmengen, die lokal aber auch verteilt 
+organisiert werden kann. Es werden drei verschiedene Typen von
+Hochleistungsrechnern unterschieden. Tier 0-1 sind die schnellsten und mit der h&#246;chsten 
+Rechenkapazit&#228;t. Tier 2 sind regionale oder auch bundesweit eingesetzte
+Hochleistungsrechner, die eine mittlere Rechenleistung aufweisen. Tier 3 sind lokale 
+oder regional eingesetzte Hochleistungsrechner, die eine schw&#228;chere
+Rechenleistung besitzen.
+In Deutschland gibt es insgesamt 21 Hochleistungsrechner (Stand: November 
+2018), die unter dem Dach der Gau&#223;-Allianz (GCS) organisiert sind, das
+Mitglied im europ&#228;ischen Partnership for Advanced Computing in Europe 
+(PRACE) ist. Die Gau&#223;-Allianz f&#246;rdert die wissenschaftliche Zusammenarbeit 
+von allen Supercomputing Ressourcen in Deutschland. Die drei gr&#246;&#223;ten
+Hochleistungsrechner sind das H&#246;chstleistungsrechenzentrum Stuttgart (HLRS), das 
+Leibniz Rechenzentrum der Bayerischen Akademie der Wissenschaften in
+Garching bei M&#252;nchen (LRZ) und das J&#252;licher Supercomputing Centre (JCS) mit 
+dem derzeit schnellsten HPC Europas JUQUEEN mit einer maximalen
+Rechenleistung von 5,9 Petaflop/s. 
+Ein Gro&#223;teil der schnellsten Rechner weltweit befindet sich in China und den 
+Vereinigten Staaten von Amerika (https://de.statista.com/statistik/daten/studie/ 
+193104/umfrage/rechenleistung-der-leistungsstaerksten-supercomputer-weltweit/). 
+Um im internationalen Wettbewerb mithalten zu k&#246;nnen, wird auf europ&#228;ischer 
+Ebene ein Gemeinschaftsunternehmen Euro-HPC (23 Unternehmen und
+Forschungsunternehmen geh&#246;ren dazu) gegr&#252;ndet. So soll bis 2022 ein
+europ&#228;ischer Supercomputer der Exaflops-Klasse gebaut werden. Rund 1 Mrd. Euro 
+stehen f&#252;r den Supercomputer bereit. Die EU beteiligt sich mit 486 Mio. Euro, 
+der Rest wird von den beteiligten Mitgliedstaaten aufgebracht (https://ec. 
+europa.eu/digital-single-market/en/eurohpc-joint-undertaking). 
+Aus Sicht der Fragesteller sollte die Bundesregierung die Chancen der
+Technologie nutzen. Das Euro-HPC-Projekt ist ein erster Schritt beim Aufbau eines 
+europ&#228;ischen HPC-Zentrums. Bez&#252;glich der Standortvergabe der
+Hochleistungsrechner sollte Deutschland ber&#252;cksichtigt werden. Unabh&#228;ngig von der
+europ&#228;ischen Entwicklung sollte die Bundesregierung den Technologiestandort 
+Deutschland unterst&#252;tzen und eine langfristige Perspektive und strategische 
+Richtung f&#252;r das Hochleistungsrechnen &#8222;Based in Germany&#8220; bieten. In diesem 
+Sinne sollte der Zukauf von Rechenzeiten vermieden werden, damit Expertise 
+in Deutschland aufgebaut werden kann. Hochleistungsrechnen ist eine wichtige 
+Basis f&#252;r unsere zuk&#252;nftige Wirtschaft, die auch auf intelligenter Verkn&#252;pfung 
+von Daten mittels KI-Systemen basieren wird. Der Aufbau einer starken
+deutschen HPC-Infrastruktur ist unmittelbar mit dem Wohlstand der Gesellschaft 
+verkn&#252;pft und aus diesem Grund elementar. 
+1. Sieht die Bundesregierung HPC in Deutschland als eine
+Schl&#252;sseltechnologie an?  
+Wenn ja, wie begr&#252;ndet sie das?  
+Wenn nein, warum nicht? 
+2. Welche Chancen in welchen Bereichen sieht die Bundesregierung beim
+Einsatz von Hochleistungsrechnern? 
+Die Fragen 1 und 2 werden im Zusammenhang beantwortet. 
+Die Bundesregierung h&#228;lt den Zugang und die Nutzung von Hoch- und
+H&#246;chstleistungsinfrastrukturen (High Performance Computing, HPC) f&#252;r den Erhalt der 
+Wettbewerbsf&#228;higkeit von Wissenschaft und Wirtschaft f&#252;r unerl&#228;sslich. Ohne 
+Simulationsverfahren auf Hoch- und H&#246;chstleistungsrechnern ist
+Grundlagenforschung wie z. B. in der Energieforschung, den Material- und
+Lebenswissenschaften oder auch der Klimaforschung undenkbar. HPC ist auch Grundlage f&#252;r
+zahlreiche innovative Produkte in den Schl&#252;sselbereichen der deutschen Wirtschaft. 
+Elektronische Ger&#228;te, Autos, Flugzeuge oder neuartige Medikamente basieren 
+heute auf Ergebnissen von Simulationen auf Hoch- und H&#246;chstleistungsrechnern. 
+Neben den etablierten Anwendungsfeldern erlangt HPC auch in anderen
+Bereichen zunehmende Bedeutung. HPC ist zum Beispiel auch der Treiber f&#252;r die
+anwendungsorientierte Forschung in den Bereichen k&#252;nstliche Intelligenz (KI) und
+Big Data, die auf entsprechende Infrastrukturen angewiesen sind. Zu nennen sind 
+hier aber auch die Verwendung agentenbasierter Modelle zur Simulation
+komplexer sozialer Ph&#228;nomene in den Sozialwissenschaften oder komplexe
+Simulationen im Bereich der Logistik. 
+3. Ist die Bundesregierung der Auffassung, dass Deutschland die Chance hat, 
+in diesem Bereich eine f&#252;hrende Rolle zu &#252;bernehmen?  
+Wenn ja, durch welche Ma&#223;nahmen?  
+Wenn nein, warum nicht? 
+Innerhalb Europas ist Deutschland gemeinsam mit Frankreich f&#252;hrend, was die 
+zur Verf&#252;gung stehende Rechenleistung betrifft. Als einziges europ&#228;isches Land 
+neben der Schweiz verf&#252;gt Deutschland mit dem &#8222;SuperMUC&#8220; (M&#252;nchen-
+Garching) &#252;ber einen der zehn schnellsten Rechner weltweit. 
+Das Hoch- und H&#246;chstleistungsrechnen setzt Kompetenzen im Bereich
+Rechnerarchitekturen sowie in der Konstruktion und Produktion von Rechner-
+Hardware voraus. Der Betrieb von Hoch- und H&#246;chstleistungsrechnern erfordert 
+ebenso Kompetenzen in spezifischen Feldern der Betriebssoftware, bei
+Programmiersprachen, Compilern und Laufzeitumgebungen insbesondere zur
+Parallelisierung von Software/Anwendungssoftware sowie f&#252;r die Entwicklung von 
+Werkzeugen und Produktionsumgebungen zur Anpassung an leistungsf&#228;hige 
+Rechnerumgebungen. Deutschland hat in den genannten Bereichen eine sehr 
+hohe Methodenkompetenz und nimmt im Bereich der Anwendungsentwicklung 
+und HPC-Software bereits jetzt eine f&#252;hrende Rolle ein. 
+Die TU M&#252;nchen geh&#246;rt f&#252;r den Zeitraum seit 2008 zu den zehn bei HPC
+weltweit am h&#246;chsten bewerteten Hochschulen, in Europa stammen f&#252;nf der 20 bei 
+HPC am h&#246;chsten bewerteten Hochschulen aus Deutschland (Quelle: Computer 
+Science Rankings).  
+In Deutschland sind alle neun HPC-Rechner, die laut dem Ranking von 
+TOP500.org derzeit unter den 100 leistungsst&#228;rksten Computern der Welt
+rangieren, in wissenschaftlichen Einrichtungen angesiedelt. Die dort erarbeiteten
+Ergebnisse und die vorhandenen F&#228;higkeiten sind &#8211; mit Ausnahme
+exportkontrollrechtlich unzul&#228;ssiger Kooperationen &#8211; offen nutzbar f&#252;r den weltweiten Austausch 
+der akademischen Fachgemeinschaften. Durch den Personalwechsel von
+Spezialisten aus Forschungseinrichtungen in die Wirtschaft wird auch die
+wirtschaftliche Nutzung dieser Expertise gef&#246;rdert. 
+4. Wie viele deutsche Professorinnen und Professoren bzw. Leiterinnen und 
+Leiter von au&#223;eruniversit&#228;ren Forschungseinrichtungen gibt es nach
+Kenntnis der Bundesregierung derzeit, die sich haupts&#228;chlich mit der Forschung 
+und Entwicklung an Hochleistungsrechnern besch&#228;ftigen (bitte Name,
+Lehrstuhl und Forschungseinrichtung angeben)? 
+Zu der genauen Anzahl von Professorinnen und Professoren mit einem
+Forschungsschwerpunkt auf HPC-Technologien liegen der Bundesregierung keine 
+Informationen vor. Entsprechende Hochschulstatistiken gibt es hierzu nicht.
+5. Auf welchem Level bewegen sich deutsche Forschungsinstitutionen im
+Bereich des Hochleistungsrechnens mit anderen L&#228;ndern verglichen
+(beispielsweise wie den Vereinigten Staaten von Amerika oder der Volksrepublik 
+China) nach Kenntnis der Bundesregierung?  
+Gibt es andere L&#228;nder, die Deutschland voraus sind?  
+Wenn ja, warum? 
+Repr&#228;sentative Vergleichsdaten von unabh&#228;ngiger Seite sind nicht verf&#252;gbar. Die 
+Kooperation der deutschen Forschungseinrichtungen, die spezifische HPC-
+Schwerpunkte verfolgen, mit europ&#228;ischen und internationalen Partnern, der
+internationale Austausch von wissenschaftlichem Personal an den Einrichtungen 
+und das Interesse weiterer Staaten an einem Erfahrungsaustausch mit diesen
+dokumentiert nachdr&#252;cklich die hohe Leistungsf&#228;higkeit der Arbeit deutscher
+Forschungsinstitutionen zu HPC.  
+Hier macht sich insbesondere bemerkbar, dass die Arbeit mit Hoch- und
+H&#246;chstleistungsrechnern in Deutschland rein ziviler Natur ist und keine besonderen
+Hindernisse f&#252;r den wissenschaftlichen Austausch bestehen. 
+6. Wie viele Mitarbeiterinnen und Mitarbeiter besch&#228;ftigt die Bundesregierung 
+mit der Erforschung von Chancen von HPC (bitte nach Ressort
+aufschl&#252;sseln)? 
+Zu den Aufgaben des Bundesministeriums f&#252;r Bildung und Forschung geh&#246;ren 
+u. a. die fachliche und politische Bewertung der Technologieentwicklung sowie 
+die Forschungsf&#246;rderung im Bereich H&#246;chst- und Hochleistungsrechnen, nicht 
+jedoch die Erforschung der damit verbundenen Chancen. 
+7. Gibt es eine Art Task-Force oder Arbeitsgruppe innerhalb der
+Bundesregierung, die sich mit dem Einsatz von HPC auseinandersetzt?  
+Wenn ja, wie setzt sich diese Gruppe zusammen?  
+Wer leitet diese Gruppe?  
+Wie oft trifft sich diese Gruppe formell oder informell?  
+Was will die Gruppe gegebenenfalls erreichen, und bis zu welchem
+Zeitpunkt? 
+Nein, das Thema wird im Rahmen der regul&#228;ren Organisationsstrukturen der 
+Bundesregierung bearbeitet. 
+8. Beabsichtigt die Bundesregierung, eine eigene deutsche HPC-Strategie,
+angelehnt an das Gau&#223;-Allianz Strategiepapier &#8222;Strategische Aufgaben der 
+Gau&#223;-Allianz in einem nationalen HPC-Konzept&#8220; zu beschlie&#223;en? 
+Die Bundesregierung setzt beim H&#246;chstleistungsrechnen weiterhin auf das
+Zusammenwirken der drei st&#228;rksten HPC-Betreiber im Rahmen des Gauss Center 
+f&#252;r Supercomputing e. V. In diesem Kontext wird auch &#252;ber die strategische
+Weiterentwicklung hin zu Exascale-H&#246;chstleistungsrechnern beraten. Ein
+zus&#228;tzlicher Bedarf nach einer von der Bundesregierung formulierten Strategie f&#252;r das 
+H&#246;chstleistungsrechnen ist derzeit nicht erkennbar.
+9. Wie ist der Stand der Strategie f&#252;r Nationales Hochleistungsrechnen, wie sie 
+im Koalitionsvertrag zwischen CDU, CSU und SPD angek&#252;ndigt wurde 
+(siehe 2018, Zeile 1390)?  
+Wann wird die Strategie beschlossen? 
+Die Gemeinsame Wissenschaftskonferenz (GWK) von Bund und L&#228;ndern hat im 
+November 2018 die Bund-L&#228;nder-Vereinbarung Forschungsbauten, Gro&#223;ger&#228;te 
+und Nationales Hochleistungsrechnen (AV FGH) beschlossen.  
+Auf dieser Grundlage wird mit dem Nationalen Hochleistungsrechnen (NHR) ein 
+zukunftsf&#228;higes Netzwerk von Hochleistungsrechnern der Ebene zwei errichtet, 
+mit dessen Rechenkapazit&#228;ten die deutschen Hochschulen gest&#228;rkt werden. Daf&#252;r 
+stellen Bund und L&#228;nder gemeinsam insgesamt bis zu 62,5 Mio. Euro j&#228;hrlich 
+bereit. 
+Die Aufnahme erfolgt im Rahmen eines wettbewerblichen und
+wissenschaftsgeleiteten Auswahlverfahrens. Die Zentren werden grunds&#228;tzlich jeweils &#252;ber einen 
+Zeitraum von zehn Jahren gef&#246;rdert, eine Weiterf&#246;rderung ist m&#246;glich. Nach
+jeweils vier und acht Jahren werden die Zentren evaluiert. Das NHR insgesamt wird 
+ab dem siebten Jahr der F&#246;rderung evaluiert. 
+10. Welche HPC-Projekte werden derzeit von der Bundesregierung mit welcher 
+Summe gef&#246;rdert (bitte nach Projekt, Laufzeit und F&#246;rdersumme
+aufschl&#252;sseln)? 
+Es wird auf die im Anhang beigef&#252;gte Projektliste sowie auf die Antwort zu 
+Frage 9 verwiesen. 
+11. Welchen Beitrag leistet die Bundesregierung, damit die
+Technologiesouver&#228;nit&#228;t im Bereich des Hochleistungsrechnens in Deutschland gew&#228;hrleistet 
+ist? 
+Besonders hohe Bedeutung misst die Bundesregierung der Projektf&#246;rderung in 
+den Bereichen Rechnerarchitekturen, der Softwareentwicklung und dem Betrieb 
+zu, da mit diesen Feldern F&#228;higkeiten abgedeckt sind, die f&#252;r Konfiguration,
+Aufbau und Optimierung sowie Betrieb und Nutzung von Hoch- und
+H&#246;chstleistungsrechnern notwendig sind. Die Bundesregierung f&#246;rdert diese Themenfelder 
+kontinuierlich auf dem Wege der Projektf&#246;rderung (siehe Antwort zu Frage 10), 
+auf Basis des Verwaltungsabkommens zwischen dem Bund und den L&#228;ndern
+Baden-W&#252;rttemberg, Bayern und Nordrhein-Westfalen sowie anteilig auch an
+au&#223;eruniversit&#228;ren Forschungseinrichtungen. Dar&#252;ber hinaus wird beispielsweise 
+durch die F&#246;rderung der Mikroelektronik, insbesondere im Spitzencluster Cool 
+Silicon, zur Entwicklung energieeffizienter Prozessorarchitekturen beigetragen, 
+die essentiell f&#252;r Leistungssteigerungen beim H&#246;chstleistungsrechnen sind. Im 
+&#220;brigen wird auf die Antwort zu Frage 3 verwiesen. 
+12. Hat die Bundesregierung konkrete Erkenntnisse dar&#252;ber, inwieweit 
+a) Deutschland und 
+b) die Europ&#228;ische Union 
+bei der Entwicklung und dem Betrieb von HPC bei kritischen Technologien 
+und Systemen von Nicht-EU-Lieferanten abh&#228;ngt? 
+Die Liste der 500 leistungsf&#228;higsten Hoch- und H&#246;chstleistungsrechner 
+(TOP500.org aus November 2018) f&#252;hrt 35 Hersteller bzw. Herstellerkonsortien 
+f&#252;r Hoch- und H&#246;chstleistungsrechner auf. Mit wenigen Ausnahmen stammen die
+Hersteller der Prozessoren der in der Liste aufgef&#252;hrten ca. 500 HPC-Systeme 
+aus den USA. Insbesondere was die Prozessoren f&#252;r HPC-Systeme betrifft,
+existiert derzeit in Europa und damit auch in Deutschland eine Abh&#228;ngigkeit von 
+Nicht-EU-Lieferanten. Um dieser Situation entgegenzuwirken, f&#246;rdert die
+Europ&#228;ische Kommission die European Processor Initiative (EPI), die das Ziel hat, 
+einen in Europa entwickelten und hergestellten Prozessor f&#252;r HPC-Anwendungen 
+zu entwickeln. 
+Die von der Bundesregierung gef&#246;rderten H&#246;chstleistungsrechner werden in aller 
+Regel f&#252;r den spezifischen Einsatzzweck in Zusammenarbeit der jeweiligen
+Forschungseinrichtung mit den Herstellern konfiguriert, gebaut und gemeinsam
+installiert. Die in den letzten Jahren gewachsene Zahl der Hersteller von HPC-
+Systemen dokumentiert, dass es im Bereich Entwicklung und Betrieb sowohl in
+Europa als auch weltweit prinzipiell eine ausreichende Vielfalt von Anbietern von 
+HPC-Systemen gibt und eine Abh&#228;ngigkeit wie im Bereich der Prozessoren nicht 
+vorliegt. 
+13. Teilt die Bundesregierung die Auffassung der Fragesteller, dass derzeit keine 
+klare HPC-F&#246;rderstruktur gegeben ist und dass das Hochleistungsrechnen in 
+Deutschland mehr gef&#246;rdert werden muss?  
+Wenn ja, warum?  
+Wenn nein, warum nicht? 
+Die Bundesregierung teilt die Auffassung der Fragesteller nicht. Die
+Bundesregierung hat mit der Unterst&#252;tzung des Gauss Center f&#252;r Supercomputing e. V. 
+sowie der Gau&#223;-Allianz die Voraussetzungen daf&#252;r geschaffen, dass die
+F&#246;rderung des H&#246;chst- und Hochleistungsrechnens in Deutschland in einem
+gemeinsam mit der Fach- und Nutzercommunity und den F&#246;rderinstitutionen getriebenen 
+Prozess erfolgt. Hierdurch wird sichergestellt, dass sowohl die Bedarfe der Nutzer 
+aus der Wissenschaft als auch der Nutzer aus der Wirtschaft gedeckt werden
+k&#246;nnen. Durch eine zyklische und mit den Akteuren abgestimmte
+Beschaffungsplanung ist sichergestellt, dass Nutzer aus Deutschland jederzeit auf die aktuellste 
+Technologie zur&#252;ckgreifen k&#246;nnen. 
+14. Wie bewertet die Bundesregierung das Euro-HPC-Projekt?  
+Welche Konsequenzen zieht die Bundesregierung f&#252;r die eigene Strategie 
+(siehe Frage 9)? 
+Die Bundesregierung bewertet EuroHPC und die damit verbundenen Ziele
+positiv. Deutschland hat bereits im M&#228;rz 2017 gemeinsam mit sieben anderen
+Mitgliedstaaten ein Memorandum of Understanding zu einer verst&#228;rkten
+europ&#228;ischen Zusammenarbeit im Bereich HPC unterzeichnet und ist als
+Gr&#252;ndungsmitglied von EuroHPC an dessen Etablierung und Ausgestaltung in den kommenden 
+Jahren beteiligt.  
+Eine Beteiligung von Wissenschaftlern und Wirtschaftsvertretern aus
+Deutschland am Arbeitsprogramm von EuroHPC wird aktiv unterst&#252;tzt und durch eine 
+Ko-Finanzierung f&#252;r erfolgreiche Antragsteller aus Deutschland im
+wettbewerblichen Verfahren sichergestellt. Eine unmittelbare Beziehung zu den in der
+Antwort zu Frage 9 dargestellten nationalen Aktivit&#228;ten besteht nicht, da EuroHPC 
+auf die Schaffung eines gesamteurop&#228;ischen HPC-&#214;kosystems abzielt und damit 
+eine andere Perspektive einnimmt.
+15. Welche Vorbereitungen unternimmt die Bundesregierung um
+sicherzustellen, dass einer (oder der) Exascale-Rechner des Euro-HPC-Projektes an
+einem deutschen Standort errichtet wird? 
+Das derzeitige Ziel des gemeinsamen Unternehmens EuroHPC ist nicht die
+Beschaffung von einem oder mehreren Exascale-Rechnern, sondern die
+Beschaffung von zwei Pre-Exascale-Rechnern und mehrerer Petascale-Rechner. &#220;ber 
+eine Beschaffung von Exascale-Rechnern kann erst nach der Verabschiedung des 
+EU-Haushaltes f&#252;r die Jahre von 2020 bis 2027 entschieden werden. 
+Sollte es in diesem Zeitraum zu einer Ausschreibung f&#252;r die Beschaffung und den 
+Betrieb von Exascale-Systemen durch das in EuroHPC vorgesehene
+wettbewerbliche Verfahren kommen, sieht die Bundesregierung den Standort Deutschland 
+aufgrund seiner vielf&#228;ltigen und langj&#228;hrigen Expertise im Bereich der
+Entwicklung und des Betriebs von HPC-Systemen gut aufgestellt. Die Bundesregierung 
+setzt aber nicht allein auf die europ&#228;ische Initiative, sondern auch auf die national 
+gef&#246;rderte Weiterentwicklung des Gauss Center for Supercomputing e. V. und 
+dessen Kooperationen in Europa. 
+16. Teilt die Bundesregierung die Auffassung der Fragesteller bez&#252;glich des 
+Euro-HPC-Projektes, dass bereits der Betrieb eines eigenen Supercomputers 
+einen Vorteil an Expertise bringt, im Vergleich zum reinen Zukauf von
+Rechenzeiten? 
+Die Bundesregierung teilt die Auffassung der Fragesteller, dass der Betrieb eines 
+eigenen Supercomputers im Vergleich zum reinen Zukauf von Rechenzeiten an 
+extern betriebenen Rechnern einen Vorteil an Expertise darstellt. Im &#220;brigen wird 
+auf die Antwort der Bundesregierung auf die Schriftliche Frage 164 des
+Abgeordneten Mario Brandenburg auf Bundestagsdrucksache 19/5282 verwiesen. 
+17. Welchen deutschen Standort h&#228;lt die Bundesregierung f&#252;r den Exascale-
+Rechner am geeignetsten (bitte begr&#252;nden)? 
+Derzeit gibt es noch keine Exascale-Rechner, die auf dem Markt zu beschaffen 
+w&#228;ren, daher stellt sich die Frage nach einem oder mehreren Standorten in 
+Deutschland aktuell nicht. Wie bei den Systemen der derzeit leistungsst&#228;rksten 
+Rechnergeneration wird es in Abh&#228;ngigkeit von deren Betrieb und Nutzung nicht 
+nur eine &#8222;Art&#8220; von Exascale-Rechner geben, sondern &#8211; in Abh&#228;ngigkeit von der 
+nutzerspezifischen Konfiguration &#8211; unterschiedliche Systeme, die
+unterschiedliche Anforderungen an den Standort stellen. 
+18. Hat die Bundesregierung Kenntnis dar&#252;ber, welche Rolle die Firma ATOS 
+(https://atos.net/en/products/high-performance-computing-hpc) bei dem 
+Euro-HPC-Projekt einnimmt? 
+Die Firma ATOS ist weder Partner noch Mitglied des Gemeinsamen
+Unternehmens EuroHPC. Sie ist jedoch Konsortialf&#252;hrer im Projekt EPI, das wegen der 
+dort vorgesehenen Prozessorentwicklung starke Querbez&#252;ge zu EuroHPC hat. 
+Daher werden die Arbeitsprogramme dieser beiden Initiativen in einigen
+Bereichen aufeinander abgestimmt werden.
+19. Wie hoch sind die finanziellen Mittel, die die Bundesregierung in das Euro-
+HPC-Projekt gibt?
+Welcher Output wird bei welchem Input erwartet?
+Gibt es definierte Key-Performance-Indikatoren (KPIs)?
+Die finanziellen Mittel, die die Bundesregierung f&#252;r das Gemeinsame
+Unternehmen EuroHPC bereitstellt, sind abh&#228;ngig vom Erfolg der Antragsteller aus 
+Deutschland in den Ausschreibungen von EuroHPC. Dabei handelt es sich um 
+ein wettbewerbliches Verfahren auf Basis einer Ko-Finanzierung durch die EU. 
+Zu unterscheiden ist hier zwischen der Beschaffung und dem Betrieb von HPC-
+Systemen und der Beteiligung an den Forschungs- und Entwicklungst&#228;tigkeiten 
+im Rahmen der Arbeitsprogramme von EuroHPC.  
+In der derzeitigen Phase von EuroHPC wird sich die Bundesregierung nicht an 
+der Beschaffung von den in der Antwort zu Frage 15 genannten Systemen
+beteiligen, sondern sieht eine Beteiligung von Institutionen aus Deutschland bei den 
+Forschungs- und Entwicklungst&#228;tigkeiten als priorit&#228;r an. Hier ist der h&#246;chste 
+Mehrwert hinsichtlich der Entwicklung von Exascale-Systemen f&#252;r den Standort 
+Deutschland zu erwarten.
+Anlage 
+Projekt Laufzeit F&#246;rdersumme
+Eigenwert-L&#246;ser f&#252;r PetaFlop-Anwendungen:
+Algorithmische Erweiterungen und Optimierungen
+(ELPA-AEO)
+01.02.2016 -
+31.01.2019
+1,2 Mio. Euro
+Parallele Algorithmische Differentiation in Open Modelica
+f&#252;r energietechnische Simulationen und Optimierungen
+(PARADOM)
+01.05.2016 -
+30.04.2019
+1,2 Mio. Euro
+Ultra-Skalierbare Multiphysiksimulationen f&#252;r
+Erstarrungsprozesse in Metallen (SKAMPY)
+01.02.2016 -
+31.07.2019
+1 Mio. Euro
+Eine portable HPC-Toolbox zur Simulation und Inversion
+von Wellenfeldern (WAVE)
+01.02.2016 -
+31.07.2019
+1,5 Mio. Euro
+Raum-Zeit-parallele adaptive Simulation von
+Phasenfeldmodellen auf H&#246;chstleistungsrechnern
+(ParaPhase)
+01.05.2016 -
+30.04.2019
+1,3 Mio. Euro
+Hochparallele Software-Verifikation nebenl&#228;ufiger
+Anwendungen in der Automobilindustrie (HPSV)
+01.02.2016 -
+31.05.2019
+1,5 Mio. Euro
+Hardware- und Leistungsorientierte Codegenerierung f&#252;r
+Informatik und Ingenieurwesen (HPC2SE)
+01.01.2017 -
+31.12.2019
+1,4 Mio. Euro
+Eine taskbasierte Programmierumgebung zur
+Entwicklung reaktiver HPC Anwendungen (Chameleon)
+01.04.2017 -
+31.03.2020
+0,9 Mio. Euro
+Dom&#228;nenspezifische Programmierung und 
+zielplattformbewusste Compiler-Infrastruktur f&#252;r 
+Algorithmen auf unstrukturierten Gittern
+(HighPerMeshes)
+01.04.2017 -
+31.03.2020
+1,6 Mio. Euro
+Metaprogrammierung f&#252;r heterogene verteilte Systeme
+(MEPHISTO)
+01.02.2017 -
+31.01.2020
+0,9 Mio. Euro
+Automatisierte Partitionierung f&#252;r heterogene Systeme
+durch Code-Analyse und &#8211;Transformation (Mekong)
+01.01.2017 -
+31.12.2019
+0,6 Mio. Euro
+Task-basierte Lastverteilung und Auto-Tuning in der
+Partikelsimulation (TaLPas)
+01.01.2017 -
+31.12.2019
+1,7 Mio. Euro
+Metaprogrammierung f&#252;r Beschleunigerarchitekturen
+(Metacca) 
+01.01.2017 -
+31.12.2019
+1,7 Mio. Euro
+Effizienz und Zuverl&#228;ssigkeit - Selbstorganisation in HPC-
+Systemen (ENVELOPE)
+01.01.2017 -
+31.12.2019
+1,2 Mio. Euro
+Entwicklung eines task-basierten Programmiermodells mit
+entsprechender Ausf&#252;hrungsumgebung (ProThOS)
+01.01.2017 -
+31.12.2019
+1,1 Mio. Euro
+Selbstadaption f&#252;r zeitschrittbasierte Simulationstechniken
+auf heterogenen HPC-Systemen (SeASiTe)
+01.01.2017 -
+31.12.2019
+1,5 Mio. Euro
+High Performance Deep Learning Framework (HP-DLF) 01.11.2017 -
+31.10.2020
+2,0 Mio. Euro
+OpenMP f&#252;r rekonfigurierbare heterogene Architekturen
+(ORKA-HPC)
+01.11.2017 -
+31.10.2020
+2,2 Mio. Euro
+Beschaffung und Betrieb von Supercomputern f&#252;r das
+GCS als Beitrag zum Nationalen Versorgungskonzept f&#252;r
+Tier 0/1 im Rahmen eines europ&#228;ischen HPC-&#214;kosystems
+(PetaGCS)
+01.11.2008 &#8211;
+31-12-2019 
+200 Mio. Euro
+Koordination und Sicherstellung der weiteren
+Verf&#252;gbarkeit der Supercomputing-Ressourcen des GCS
+01.01.2017 -
+31.12.2025
+226,3 Mio.
+Euro
+ 
+ 
+   
+ 
+  
+ 
+ 
+ 
+ 
+ 
+im Rahmen der nationalen H&#246;chstleistungsrechner
+Infrastruktur (SiVeGCS)
+Integration der nationalen H&#246;chstleistungsrechenzentren
+Deutschlands (InHPC-DE)
+01.10.2017 -
+31.12.2021
+14,9 Mio. Euro
+Satz: Satzweiss.com Print, Web, Software GmbH, Mainzer Stra&#223;e 116, 66121 Saarbr&#252;cken, www.satzweiss.com
+Druck: Printsystem GmbH, Schafw&#228;sche 1-3, 71296 Heimsheim, www.printsystem.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de 
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/6527 -
+Hochleistungsrechnen in Deutschland</titel>
+    <datum>2019-01-14</datum>
+  </document>
+  

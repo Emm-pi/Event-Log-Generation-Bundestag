@@ -1,0 +1,418 @@
+<document>
+    <id>226227</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/7649</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>c336109eeef60e5118d724516874f316</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>243233</id>
+      <titel>Belastung der elektromagnetischen Umgebung durch elektrische Ger&#228;te</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium f&#252;r Wirtschaft und Energie</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/076/1907649.pdf</pdf_url>
+      <id>226227</id>
+      <dokumentnummer>19/7649</dokumentnummer>
+      <datum>2019-02-08</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums f&#252;r Wirtschaft und Energie  
+vom 31. Januar 2019 &#252;bermittelt.  
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext. 
+Deutscher Bundestag  Drucksache 19/7649 
+19. Wahlperiode 08.02.2019 
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Ralph Lenkert, Dr. Gesine L&#246;tzsch, 
+Lorenz G&#246;sta Beutin, weiterer Abgeordneter und der Fraktion DIE LINKE. 
+&#8211; Drucksache 19/7136 &#8211; 
+Belastung der elektromagnetischen Umgebung durch elektrische Ger&#228;te 
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r  
+In der Antwort der Bundesregierung auf die Kleine Anfrage &#8222;Schutz der
+Ressource elektromagnetische Umgebung&#8220; auf Bundestagsdrucksache 19/3837 
+f&#252;hrt die Bundesregierung aus, dass das gleichm&#228;&#223;ige (&#8222;wei&#223;e&#8220;) Rauschen des 
+Man-Made-Noise (also das vom Menschen durch elektronische Ger&#228;te
+verursachte Rauschen elektromagnetischer St&#246;rungen) &#8222;heute tendenziell eher
+unterhalb der Werte der ITU-R Empfehlung P.372&#8220; liege. Sie beruft sich dabei auf 
+Messungen, die teilweise vor &#252;ber zehn Jahren im Zeitraum von 2007 bis 2010 
+durch die Bundesnetzagentur (= BNetzA) bzw. in deren Auftrag durchgef&#252;hrt 
+worden sind. 
+Die elektromagnetische Umgebung wird seit Jahren zunehmend durch
+elektronische Schaltnetzteile zum Betrieb vielseitigster Betriebsmittel in Haushalt und 
+Industrie denaturiert. Das elektromagnetisch st&#246;rende Spektrum wird &#252;ber das 
+weit verteilte Stromversorgungsnetz als hoch effektive Sendeantennenanlage 
+abgestrahlt, und nun zunehmend auch noch durch Vorschaltger&#228;te von LED-
+Beleuchtungsanlagen angereichert, so dass die funktechnische Nutzbarkeit
+immer h&#228;ufiger in Frage gestellt ist (vgl. Bericht des Bayrischen Rundfunks vom 
+6. April 2017, www.br.de/unternehmen/inhalt/technik/emv-normung-led- 
+leuchtmittel-100.html). 
+Demnach wurde die Problematik der St&#246;rungen durch LED-Lampen, von denen 
+in Fachkreisen teilweise davon ausgegangen wird, dass aus Profitgr&#252;nden
+notwendige Entst&#246;rungsmittel weggelassen werden (vgl. www.funkamateur.de/ 
+nachrichtendetails/items/EMVU1709.html), auch international best&#228;tigt. Durch 
+die zunehmende Verbreitung von LED-Technologie in den vergangenen Jahren 
+ist davon auszugehen, dass allein hierdurch eine Ver&#228;nderung von
+Messergebnissen zum Man-Made-Noise insbesondere in st&#228;dtischen Bereichen zu
+erwarten ist, die im Zeitraum von 2007 bis 2010 noch nicht detektiert werden konnten. 
+Ein weiterer technologischer Aspekt, der nach der in Rede stehenden
+Messkampagne durch die Bundesnetzagentur an Relevanz gewonnen haben kann, sind 
+St&#246;rungen durch netzfrequenzsynchrone elektronische Schaltwandler bei
+Photovoltaikanlagen, von denen, wenn aus Kostengr&#252;nden nicht ausreichend Wert 
+auf Funkentst&#246;rung gelegt wurde, ein erhebliches elektromagnetisches
+St&#246;rpotential ausgeht.
+Zugenommen hat auch die Anzahl der in den Haushalten betriebenen
+Powerline-Kommunikationsger&#228;te (PLC), mit deren Hilfe hochfrequente Datenpakete 
+&#252;ber das Stromnetz gesendet werden. Andere Telekommunikationsger&#228;te
+verwenden ordnungsgem&#228;&#223;e und genormte &#220;bertragungswege, z. B. sehr gut
+geschirmte Ethernet-(CAT-)Kabel &#8211; innenarchitektonisch kaum auff&#228;llige
+Glasfaser- oder Polymerfaserleitungen, oder sie &#252;bertragen die Daten drahtlos auf
+daf&#252;r vorgesehene WLAN-Frequenzen. Da bei der Nutzung von PLC teilweise 
+ungeschirmte Hausstromleitungen zum Einsatz kommen, ist hier ebenfalls mit 
+erh&#246;hten St&#246;rpotentialen zu rechnen, die sich vor allem in urbanen Gebieten 
+manifestieren w&#252;rden. Sogenannte Stichleitungen stellen h&#228;ufig perfekt
+abgestimmte Sendeantennen f&#252;r eine Reihe von Frequenzen im KW- und im VHF-
+Bereich dar. PLC-Ger&#228;te erzeugen breitbandige St&#246;rungen ggf. bis in den BOS-
+Frequenzbereich unterhalb des UKW-Bandes hinein (vgl. www.teltarif.de/ 
+powerline-devolo-kurzwelle-test/news/59169.html). Diese elektromagnetischen 
+Emissionen k&#246;nnen weit &#252;ber die Grenzen der Geb&#228;ude und Grundst&#252;cke hinaus 
+st&#246;rend wirken. Die j&#252;ngste PLC-Generation nutzt zus&#228;tzlich den geerdeten 
+Schutzleiter der h&#228;uslichen Elektroinstallation (vgl. https://avm.de/ratgeber/ 
+highspeed-und-reichweite/avm-erklaert-powerline/) und kann damit potentiell 
+elektromagnetische St&#246;rungen &#252;ber alle damit verbundenen metallischen
+Geb&#228;udeinstallationen einschlie&#223;lich Treppengel&#228;nder, Blitzschutzanlagen und 
+Dachrinnenkonstruktionen verbreiten. 
+Zur Gew&#228;hrleistung der freien Verf&#252;gbarkeit von Informationen durch den sich 
+ebenfalls verbreitenden digitalen Rundfunk-Standard DAB+, zur Sicherstellung 
+der Funktionsf&#228;higkeit des weiterhin analogen BOS-Funks der Feuerwehren 
+und Rettungsdienste und zur Sicherstellung des bestimmungsgem&#228;&#223;en Betriebs 
+des Amateurfunkdienstes sowie zur Sicherstellung der Funktion jeglichen
+weiteren &#8211; also auch des digitalen &#8211; Beh&#246;rdenfunks, ist die regelm&#228;&#223;ige Erhebung 
+allgemeinen St&#246;rrauschens bzw. spezifischer St&#246;rpegel durch bestimmte
+Technologien im Zuge der Verbreitung neuer Technologien auch ohne spezifische 
+Hinweise und Meldungen von Funkst&#246;rungen gem&#228;&#223; des Gesetzes zur
+elektromagnetischen Vertr&#228;glichkeit von Betriebsmitteln (EMVG) nach Auffassung 
+der Fragestellerinnen und Fragesteller angezeigt. 
+1. Welche Normen legt die Bundesregierung zur Bewertung von St&#246;rpegeln im 
+elektromagnetischen Umfeld und f&#252;r Entscheidungen der
+Verh&#228;ltnism&#228;&#223;igkeit gem&#228;&#223; &#167; 27 Absatz (3) EMVG als verbindlich zugrunde (bitte auflisten, 
+welche ITU- bzw. EU- bzw. nationalen Normen zur Anwendung kommen 
+und inwieweit diese rechtlich bindend sind)? 
+Hinsichtlich der Ma&#223;nahmen zur St&#246;rungsbeseitigung nach &#167; 27 Absatz 3 des 
+Elektromagnetische-Vertr&#228;glichkeit-Gesetzes (EMVG) ist darauf hinzuweisen, 
+dass diese Form der St&#246;rungsbeseitigung erst dann greift, wenn die St&#246;rung nicht 
+nach &#167; 27 Absatz 2 Nummer 4 EMVG auf eine Nichterf&#252;llung der grundlegenden 
+Anforderungen durch ein Betriebsmittel zur&#252;ckzuf&#252;hren ist, wobei dann auch die 
+Einhaltung der Norm &#252;berpr&#252;ft wird, auf die hin die Konformit&#228;tserkl&#228;rung des 
+Betriebsmittels erfolgte. Ein R&#252;ckgriff auf Normen ist darum f&#252;r die
+St&#246;rungsbearbeitung allein nicht mehr ausreichend. 
+Als zust&#228;ndige Beh&#246;rde legt die Bundesnetzagentur bei der St&#246;rungsbearbeitung 
+und -beseitigung die allgemein anerkannten Regeln der Technik zu Grunde und 
+kann insbesondere die geltenden technischen Normen heranziehen. Der
+Gesetzgeber hat klargestellt, dass gerade im St&#246;rungsfall die aktuell geltenden
+Grenzwerte aus Normen herangezogen werden k&#246;nnen. Auch k&#246;nnen aktuelle
+Installationsvorschriften f&#252;r den St&#246;rfall relevant sein. Alle Erkenntnisse, die vor Ort bei 
+der Aufkl&#228;rung der elektromagnetischen Unvertr&#228;glichkeit gewonnen werden, 
+werden im Rahmen einer Gesamtschau bewertet, bei der die herangezogene Norm
+ein Teilaspekt unter vielen anderen ist. Es geht im Rahmen der
+St&#246;rungsbearbeitung nicht um eine Zweierbeziehung zwischen Beh&#246;rde und St&#246;rungsmeldenden, 
+sondern um eine Dreiecksbeziehung zwischen Beh&#246;rde, dem Betreiber der
+St&#246;rquelle und dem Betreiber der St&#246;rsenke. Jede Anordnung zu Gunsten eines
+Betriebsmittels bedeutet einen Eingriff in den Betrieb eines anderen Betriebsmittels. 
+Die Ma&#223;nahme muss verh&#228;ltnism&#228;&#223;ig sein. Es kommt immer auf den konkreten 
+Einzelfall an, den die Beh&#246;rde zu bewerten hat. 
+2. Inwieweit bed&#252;rfen die zur Bewertung von St&#246;rpegeln zugrunde gelegten 
+Normen nach Auffassung der Bundesregierung einer &#220;berarbeitung? 
+Die Pr&#252;fwerte in Harmonisierten Europ&#228;ischen Normen basieren auf
+vordefinierten Schutzabst&#228;nden (Abstand zwischen Quelle und Senke) in bestimmten 
+St&#246;rszenarien, die Wahrscheinlichkeiten f&#252;r das Zusammentreffen beinhalten. 
+Mithin k&#246;nnen sich in Einzelf&#228;llen tats&#228;chlich St&#246;rszenarien ergeben, die von
+Betriebsmitteln ausgehen, welche grunds&#228;tzlich die grundlegenden Anforderungen 
+des EMVG &#252;ber die Vermutungswirkung erf&#252;llen. Ziel von Harmonisierten
+Europ&#228;ischen Normen ist es aber nicht, alle m&#246;glichen Einzelf&#228;lle abzufangen. Die 
+elektromagnetische Umgebung hat sich in den vergangenen Jahren dahingehend 
+ver&#228;ndert, dass Ger&#228;te in ihrer Verbreitungsdichte zugenommen haben und auch 
+ihre typischen Gebrauchsabst&#228;nde gesunken sind. Deshalb arbeitet die
+Bundesnetzagentur gem&#228;&#223; ihrem gesetzlichen Auftrag aus &#167; 22 Absatz 2 Nummer 7 
+EMVG an einer Anpassung der Harmonisierten Europ&#228;ischen Normen an
+aktuelle St&#246;rszenarien, kann aber nur im Rahmen der konsensbasierten Gremienarbeit 
+agieren. 
+3. Ist die Bundesregierung gegebenenfalls bereit, eventuell notwendige
+&#220;berarbeitungen der Normen durch das Einbringen von NWIP, also Vorschl&#228;gen 
+f&#252;r neue Normenvorhaben und aktive Mitarbeit in den nationalen und
+internationalen Normenorganisationen, mitzugestalten (bitte begr&#252;nden)? 
+Die Bundesregierung hat die Bundesnetzagentur beauftragt, aktiv an den
+relevanten Normungsvorhaben zur &#220;berarbeitung der Harmonisierten Europ&#228;ischen 
+Normen mitzuarbeiten und setzt sich f&#252;r die in der Antwort zu Frage 2
+beschriebenen Verbesserungen ein. Dazu ist die Verwendung von NWIP in der Regel 
+nicht erforderlich, da die Anpassung bestehender Normen in
+&#220;berarbeitungszyklen erfolgt. 
+4. Ist die Bundesregierung der Auffassung, dass die durch die ITU-Vertr&#228;ge 
+vorgegebenen Rauschpegel durch Man-Made-Noise mit R&#252;cksicht auf die 
+funktechnische Nutzbarkeit der elektromagnetischen Umgebung durchweg 
+eingehalten werden sollen?  
+Wenn nein, warum nicht?  
+Die Empfehlung der Internationalen Fernmeldeunion (ITU) &#8222;ITU-R P.372-13 
+Radio noise&#8220; gibt keine einzuhaltenden Rauschpegel vor, sondern beschreibt
+lediglich auf Grundlage von Daten des Jahres 1970 &#252;blicherweise in verschiedenen 
+elektromagnetischen Umgebungen anzutreffendes Rauschen, welches von der 
+Summe an Betriebsmitteln in der Umgebung erzeugt wird. Grunds&#228;tzlich werden 
+diese Empfehlungen bei der Normungsarbeit dahingehend ber&#252;cksichtigt, dass 
+sie zur Orientierung f&#252;r das Festlegen von Grenzwerten verwendet werden. Im 
+Einzelfall kann jedoch nicht sichergestellt werden, dass an jedem Ort der zu
+erwartende Rauschpegel auch tats&#228;chlich eingehalten oder unterschritten wird. Dies
+liegt insbesondere an der in der Antwort zu Frage 2 beschriebenen
+Wahrscheinlichkeitsbetrachtung bei Festlegung von Grenzwerten f&#252;r Harmonisierte
+Europ&#228;ische Normen. Aus technischer Sicht k&#246;nnen zur Beurteilung von St&#246;rf&#228;llen nach 
+&#167; 27 Absatz 3 EMVG Rauschwerte aus der ITU-Empfehlung im Einzelfall zur 
+Orientierung herangezogen werden. Ebenso werden sie von Funknetzplanern bei 
+der Dimensionierung ihrer Funknetze ber&#252;cksichtigt. Als konkrete Vorgabe sind 
+die in den einschl&#228;gigen DIN/EN-Normen festgelegten Grenzwerte f&#252;r die
+St&#246;rstrahlung und St&#246;rspannung eines einzelnen Ger&#228;tes zu betrachten. 
+Von der Bundesnetzagentur in den Jahren 2007 bis 2010 durchgef&#252;hrte
+Messungen haben gezeigt, dass zum damaligen Zeitpunkt die Man-Made-Noise-(MMN)-
+Pegel oberhalb von ca. 200 MHz bis 300 MHz tendenziell geringer waren als die 
+in den 1970er Jahren ermittelten und in der ITU-Empfehlung genannten Pegel. 
+Dar&#252;ber hinaus ist das MMN in diesen Frequenzbereichen kein Faktor, der die 
+funktechnische Nutzbarkeit beschr&#228;nkt, da hier der MMN-Pegel in der Regel
+unterhalb des Eigenrauschens eines Funkempf&#228;ngers liegt. 
+Im Frequenzbereich unterhalb von 30 MHz begrenzt das Grundrauschen jedoch 
+ganz wesentlich die funktechnische Nutzbarkeit. In diesem Frequenzbereich
+k&#246;nnen sich die potentiellen &#8222;St&#246;rquellen&#8220; aufgrund der Raumwellenausbreitung
+&#246;rtlich sehr weit vom jeweils betrachteten Ort entfernt befinden, z. B. auch in
+anderen L&#228;ndern, auf deren St&#246;rsituation die Bundesrepublik Deutschland keinen
+Einfluss hat. Der MMN-Pegel unterhalb von 30 MHz ist also technisch bedingt
+lediglich durch weltweite Ma&#223;nahmen beeinflussbar. Derzeit werden typische
+Ger&#228;te mit potentiellen St&#246;raussendungen in diesem Frequenzbereich (Netzteile, 
+Haushaltsger&#228;te, IT und Unterhaltungselektronik) bereits durch &#8211; vornehmlich 
+leitungsgebundene &#8211; Grenzwertempfehlungen in weltweit harmonisierten
+Normen erfasst. Im Rahmen der an der konsensbasierten Normung beteiligten
+interessierten Kreise finden neben technischen jedoch auch &#246;konomische Aspekte 
+Ber&#252;cksichtigung. 
+5. Sind der Bundesregierung Statistiken oder Gutachten &#252;ber die Verbreitung 
+von LED-, PV- und PLC-Technologien und deren Auswirkungen auf die 
+elektromagnetische Umgebung seit 2008 bis heute in Deutschland bekannt? 
+a) Wenn ja, welche? 
+b) Welche Schlussfolgerungen f&#252;r notwendige Befugnisse und ein
+T&#228;tigwerden der BNetzA zieht die Bundesregierung daraus? 
+Zur Verbreitung einzelner Produkte im Markt liegen der Bundesregierung f&#252;r die 
+genannten Kategorien keine Informationen vor. 
+6. Ist die Bundesregierung der Auffassung, dass die von der BNetzA in den 
+Jahren 2007 bis 2010 erhobenen Messdaten zur Feststellung des Man-Made-
+Noise auch heute noch repr&#228;sentativ sind (bitte begr&#252;nden)? 
+Unter Ber&#252;cksichtigung der in den letzten Jahren stark gestiegenen Anzahl an 
+potentiellen &#8222;St&#246;rquellen&#8220;, insbesondere Powerline-Ger&#228;ten, LED-
+Beleuchtungen, DSL-/VDSL-Installationen und Solaranlagen, kann vermutet werden, dass 
+die Man-Made-Noise-(MMN)-Pegel in Deutschland heute m&#246;glicherweise h&#246;her 
+sind als vor zehn Jahren gemessen. 
+Von wenigen Ausnahmen abgesehen nimmt der Pegel aller potentiellen zum 
+MMN beitragenden St&#246;rquellen mit steigender Frequenz ab. Die oben erw&#228;hnten 
+Ger&#228;tearten und Installationen, deren Zahl in den letzten Jahren stark
+zugenommen hat, strahlen haupts&#228;chlich oder sogar ausschlie&#223;lich in Frequenzbereichen 
+unterhalb von 30 MHz ab, so dass eine relevante Zunahme des MMN-Pegels
+vornehmlich in diesen Frequenzbereichen zu erwarten w&#228;re. 
+7. Aus welchen Gr&#252;nden wurde nach dem Jahr 2010 keine weitere Erhebung 
+&#252;ber die Ausma&#223;e von Man-Made-Noise durchgef&#252;hrt? 
+Die Erhebung des MMN-Pegels wurde durchgef&#252;hrt, um die ITU-Empfehlung 
+P.372 zu aktualisieren, wenn sich herausstellen sollte, dass die MMN-Pegel
+erheblich h&#246;her sind als die Werte, die aus den 1970er Jahren stammen. Das
+Messprogramm der Bundesnetzagentur war daher auf die einmalige Feststellung der 
+Funkumgebung zu diesem Zeitpunkt ausgerichtet. 
+Es wird bisher allgemein und insbesondere bei der ITU davon ausgegangen, dass 
+sich das MMN nicht kurzfristig wesentlich &#228;ndert. Die Messungen der
+Bundesnetzagentur und auch anderer L&#228;nder im etwa gleichen Zeitraum haben keinen 
+Anlass zu der Annahme eines erheblich gestiegenen MMN-Pegels oder dessen 
+kurzfristiger &#196;nderung bis 2010 gegeben. 
+Messungen des MMN-Pegels, die statistisch relevante Aussagekraft haben, sind 
+zeit- und kostenaufw&#228;ndig (siehe auch die Antworten zu den Fragen 15 und 16). 
+Daher wurde auch aus Kostengr&#252;nden auf eine Langzeiterhebung des MMN
+verzichtet. Die Kosten solcher Messungen werden allgemein in Form von
+Frequenznutzungsbeitr&#228;gen auf die Frequenznutzer umgelegt. 
+8. Plant die Bundesregierung Ma&#223;nahmen, die zur zuk&#252;nftigen Einhaltung der 
+bereits im Messzeitraum von 2007 bis 2010 festgestellten &#220;berschreitungen 
+der ITU-Empfehlungen zum Man-Made-Noise insbesondere im Rural-
+Bereich beitragen k&#246;nnen?  
+Wenn ja, welche?  
+Wenn nein, warum nicht? 
+Zurzeit sind keine solche Ma&#223;nahmen geplant. Bez&#252;glich der Vorschriften f&#252;r 
+(elektrische) Ger&#228;te darf die Bundesregierung keine Sonderregelungen zur
+Erweiterung oder Einschr&#228;nkung der einschl&#228;gigen europ&#228;ischen Richtlinien erlassen, 
+da dies von der Europ&#228;ischen Kommission als Handelshemmnis f&#252;r den
+Europ&#228;ischen Binnenmarkt gewertet w&#252;rde. 
+9. Ist die Bundesregierung der Auffassung, dass eine Durchsetzung des
+Elektronikmarktes mit neuen Technologien ein regelm&#228;&#223;iges Monitoring der 
+elektromagnetischen Umgebung zur Sicherstellung der ITU-Empfehlungen 
+einerseits und der generellen Einhaltung des EMVG andererseits erfordert 
+(bitte begr&#252;nden)? 
+Da der B&#252;rger elektromagnetische Unvertr&#228;glichkeiten an die zust&#228;ndige
+Bundesnetzagentur melden kann, ist bereits ein kontinuierliches Monitoring
+vorhanden. Die Beh&#246;rde geht jeder St&#246;rungsmeldung im Einzelfall nach. 
+Im &#220;brigen ist die Gesamtzahl der St&#246;rungsmeldungen seit 2010 nicht gestiegen. 
+Dies gilt auch f&#252;r den Frequenzbereich unterhalb von 30 MHz.
+10. In welchen Intervallen und in welchem Ausma&#223; sollten nach Auffassung der 
+Bundesregierung Messungen zur Feststellung des Man-Made-Noise zur
+Sicherstellung der Einhaltung der ITU-Empfehlungen bzw. des EMVG
+wiederholt werden? 
+Auf die Antwort zu Frage 9 wird verwiesen. 
+11. Teilt die Bundesregierung die Auffassung, dass in den in der Antwort auf die  
+Kleine Anfrage &#8222;Schutz der Ressource elektromagnetische Umgebung&#8220; auf 
+Bundestagsdrucksache 19/3837 von der Bundesregierung vorgelegten Daten 
+zur Messung von Man-Made-Noise bedeutungsvolle L&#252;cken festzustellen 
+sind, insbesondere unter dem Aspekt, dass sowohl bez&#252;glich der Auswahl 
+und Anzahl der Standorte der Messstellen, der geringen Bandbreite
+beobachteter Frequenzen und der unbekannten Messzeiten im Tagesverlauf, keine 
+verwendbare Aussage &#252;ber den tats&#228;chlichen Zustand der
+elektromagnetischen Umgebungen m&#246;glich ist (bitte begr&#252;nden)? 
+Die MMN-Messungen von 2007 bis 2010 hatten zum Ziel, eine statistisch
+relevante Aussage &#252;ber die durchschnittlichen MMN-Pegel an Orten mit typischer 
+Bebauung und Infrastruktur (Gebietskategorien City, Residential, Rural) zu
+erhalten. Es war nicht das Ziel, eine Gebietskarte zu bekommen, in der die MMN-
+Pegel an bestimmten Orten dargestellt werden k&#246;nnen. 
+Um die statistische Relevanz der Messergebnisse sicherzustellen, wurden an
+insgesamt 512 Orten Langzeitmessungen und an 101 Orten Kurzzeitmessungen 
+durchgef&#252;hrt. Die folgende Tabelle enth&#228;lt eine &#220;bersicht der durchgef&#252;hrten 
+Messungen. 
+Frequenzbereich 9 &#8211; 300  
+kHz 
+3 &#8211; 30  
+MHz 
+30 &#8211; 300  
+MHz 
+300 &#8211; 1000  
+MHz 
+City 9 106 18 8 
+Residential 75 236 19 10 
+Rural 17 92 15 8 
+Messfrequenzen 2 3 3 x 5 3 
+Messzeit jeweils 16 Min. 24 Std. 10 Std.  
+(tags&#252;ber) 
+10 Std.  
+(tags&#252;ber) 
+Es wurden bei jeder Messung sowohl das sog. wei&#223;e Rauschen als auch das
+Impulsrauschen gemessen. International genormte Methoden zur vergleichbaren 
+Angabe der Rauschpegel gibt es derzeit jedoch nur f&#252;r das wei&#223;e Rauschen,
+weswegen in der ITU-Empfehlung P.372 auch nur diese Werte dargestellt sind. Die 
+Charakterisierung des Impulsrauschens ist wesentlich komplexer und bedarf auch 
+einer individuellen Analyse, wenn man dessen Einfluss auf die Nutzbarkeit des 
+Spektrums beurteilen m&#246;chte. 
+Grunds&#228;tzlich gibt es im spektralen Verlauf des MMN keine &#8222;Spr&#252;nge&#8220;, weshalb 
+es ausreichend ist, an einigen St&#252;tzstellen zu messen und dazwischen zu
+interpolieren. Auch die tats&#228;chlich verwendete Messbandbreite ist unerheblich, da das 
+wei&#223;e Rauschen innerhalb der Messbandbreite gleichf&#246;rmig verteilt ist und das 
+Ergebnis in einer Einheit angegeben wird, die unabh&#228;ngig von der Bandbreite ist 
+(dB &#252;ber dem thermischen Rauschen). Insofern erlauben die Messungen eine
+statistisch relevante Aussage &#252;ber den tats&#228;chlichen Zustand der
+elektromagnetischen Umgebung.
+Zus&#228;tzlich zu der Ergebniszusammenfassung im Rahmen der Antwort der
+Bundesregierung auf die Kleine Anfrage der Fraktion DIE LINKE. betreffend den 
+Schutz der Ressource elektromagnetische Umgebung auf Bundestagsdrucksache 
+19/3837 hat die Bundesnetzagentur einen ausf&#252;hrlichen Bericht erstellt, der auch 
+alle internationalen Eingangsdokumente in die ITU-Arbeitsgruppen enth&#228;lt und 
+der auf Anfrage zur Verf&#252;gung gestellt werden kann. Alle gemessenen
+Einzelwerte sind dauerhaft gespeichert, so dass auch nachtr&#228;gliche Auswertungen des 
+MMN m&#246;glich sind, inklusive des Impulsrauschens und der ortsspezifischen
+Situationen. 
+12. Teilt die Bundesregierung die Auffassung, dass f&#252;r die BNetzA der Einsatz 
+automatischer Messtechnik zum permanenten Monitoring von Man-Made-
+Noise in ausgew&#228;hlten Regionen grunds&#228;tzlich sinnvoll w&#228;re (bitte
+begr&#252;nden)? 
+Ein permanentes Monitoring zu MMN mit automatischer Messtechnik w&#228;re
+sicherlich geeignet, die Informationen &#252;ber das Niveau von MMN weiter zu
+verbessern, aber auch mit erheblichen Kosten verbunden. Aus den bereits in der
+Antwort zu Frage 7 genannten Gr&#252;nden besteht hierzu gegenw&#228;rtig kein Anlass, weil 
+der gegenw&#228;rtige Kenntnisstand als weiterhin ausreichend anzusehen ist. 
+13. Plant die Bundesregierung eine neue Erhebung des Man-Made-Noise?  
+Wenn ja, wann?  
+Wenn nein, warum nicht? 
+Auf die Antworten zu den Fragen 7, 12 und 14 wird verwiesen. 
+14. Plant die Bundesregierung Ma&#223;nahmen gegen Funkst&#246;rungen, mit denen 
+auch zuk&#252;nftig ein funktionierender, st&#246;rungsfreier BOS-Funk sichergestellt 
+wird?  
+Wenn ja welche?  
+Wenn nein, warum nicht? 
+Aus den in der Antwort zu Frage 7 genannten Gr&#252;nden wurde es bisher nicht als 
+erforderlich angesehen, kontinuierlich wiederholende Rauschmessungen
+durchzuf&#252;hren. Eine Ausnahme k&#246;nnte der Frequenzbereich unterhalb von 30 MHz 
+sein, in dem es eine weite Verbreitung von potentiellen St&#246;rquellen gibt. 
+Zus&#228;tzlich zu den in der Antwort zu Frage 11 erw&#228;hnten Langzeitmessungen
+wurden im Juli 2014 Messungen des wei&#223;en Rauschens im Bereich bis 30 MHz auf 
+einem Forschungsschiff in der Nordsee, weit ab vom Land, durchgef&#252;hrt. Diese 
+haben ein gegen&#252;ber der ITU-Empfehlung P.372 erh&#246;hten Rauschpegel gezeigt. 
+Es muss daher davon ausgegangen werden, dass die MMN-Pegel in unbebauten 
+Gebieten durch Raumwellenausbreitung h&#246;her sind als in der genannten ITU-
+Empfehlung.  
+Es ist geplant, derartige Messungen im Fr&#252;hjahr 2019 zu wiederholen.
+Insbesondere soll hierbei festgestellt werden, durch welche Anwendungen das erh&#246;hte 
+Rauschen verursacht wird. Auch diese Ergebnisse werden internationalen
+Gremien zur Verf&#252;gung gestellt.
+15. Wie hoch waren nach Kenntnis der Bundesregierung die Kosten f&#252;r die von 
+2007 bis 2010 durchgef&#252;hrten Messreihen der BNetzA zur Feststellung des 
+Man-Made-Noise? 
+Die Kosten f&#252;r die Messreihen der in den Jahren 2005 bis 2010 durchgef&#252;hrten 
+Messungen belaufen sich auf insgesamt ca. 2 Mio. Euro. Bei den nachfolgenden 
+Fragen zum Aufwand der Messreihen wird immer der Zeitraum 2005 bis 2010 zu 
+Grunde gelegt, um den kompletten Aufwand darstellen zu k&#246;nnen. 
+16. Wie hoch war der Personalaufwand und welche Technikeinsatzzeiten
+wurden f&#252;r die Messkampagne 2007 bis 2010 ben&#246;tigt (bitte in Stunden
+Personaleinsatz und Einsatzstunden je Messanlage unter Angabe der Messtechnik 
+angeben)? 
+Die Messtechnik bestand aus einer f&#252;r den jeweiligen Frequenzbereich
+geeigneten Rundstrahlantenne, einem Realtime-Analysator, einem speziell angefertigten 
+HF-Filter (f&#252;r Messungen bis 30 MHz), einer Relais-Schaltmatrix und einem
+Laptop. Die Ger&#228;te waren in der Regel in Messkraftwagen untergebracht, die einen 
+Teleskopmast mit 10 Metern L&#228;nge hatten und teilweise speziell f&#252;r die Messung 
+mit ausreichend Batteriekapazit&#228;t ausger&#252;stet wurden.  
+Die Messung wurde manuell vor Ort eingerichtet und lief dann softwaregesteuert 
+automatisch ab. Die Auswertung der Ergebnisse erfolgte anschlie&#223;end
+weitgehend manuell. Der Personalaufwand betrug 18 154 Stunden und die
+Messger&#228;tezeiten betrugen 11 567 Stunden. Der Messwagen legte 50 657 km zur&#252;ck. 
+17. Steht der BNetzA heute ausreichend Technik f&#252;r eine erneute Kampagne zur 
+Verf&#252;gung, bzw. welche ist vorhanden, und welche m&#252;sste bereitgestellt 
+werden? 
+Die f&#252;r eine erneute Messung des MMN erforderliche Messtechnik steht der
+Bundesnetzagentur auch heute noch zur Verf&#252;gung. 
+18. Wie hoch w&#228;ren die kalkulierten Kosten f&#252;r eine neue Messkampagne zur 
+Ermittlung des Man-Made-Noise? 
+Aus den in den Antworten zu den Fragen 7 und 11 genannten Gr&#252;nden w&#228;re eine 
+erneute Messung des MMN nur im Frequenzbereich unterhalb von 30 MHz
+sinnvoll. Der gesch&#228;tzte Zeitaufwand f&#252;r eine &#228;hnlich umfangreiche Messkampagne 
+wie 2007 bis 2010 liegt bei ca. 8 000 Stunden. Hieraus ergeben sich gesch&#228;tzte 
+Kosten von ca. 450 000 Euro. Zu beachten ist, dass diese Kosten in
+Frequenznutzungsbeitr&#228;ge einflie&#223;en. 
+19. Welches zus&#228;tzliche Personal br&#228;uchte die BNetzA f&#252;r eine neue
+Messkampagne und deren Auswertung? 
+F&#252;r eine einmalige Messkampagne ist kein weiteres Personal erforderlich, soweit 
+diese Aufgabe priorisiert und andere Messaufgaben zur&#252;ckgestellt werden
+k&#246;nnen. 
+20. Wie lange w&#228;re die Vorplanungszeit bis zum Start der Messreihen, und wie 
+lang w&#228;re der Zeitraum, bis Ergebnisse vorliegen? 
+Die Vorlaufzeit f&#252;r eine erneute Messung des MMN im Frequenzbereich
+unterhalb von 30 MHz liegt bei ca. sechs Monaten. Ergebnisse k&#246;nnten ca. ein Jahr 
+danach erwartet werden. 
+Satz: Satzweiss.com Print, Web, Software GmbH, Mainzer Stra&#223;e 116, 66121 Saarbr&#252;cken, www.satzweiss.com 
+Druck: Printsystem GmbH, Schafw&#228;sche 1-3, 71296 Heimsheim, www.printsystem.de 
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de 
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/7136 -
+Belastung der elektromagnetischen Umgebung durch elektrische Ger&#228;te</titel>
+    <datum>2019-02-08</datum>
+  </document>
+  

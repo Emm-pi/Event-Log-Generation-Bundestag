@@ -1,0 +1,717 @@
+<document>
+    <id>251382</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/27503</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>6688490fb3376b56ea1f536072629bbd</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>273638</id>
+      <titel>Digitale Anwendungen zur Kontaktnachverfolgung in der Corona-Pandemie und zur Entlastung des Personals im &#246;ffentlichen Gesundheitsdienst</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium f&#252;r Gesundheit</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/275/1927503.pdf</pdf_url>
+      <id>251382</id>
+      <dokumentnummer>19/27503</dokumentnummer>
+      <datum>2021-03-11</datum>
+      <verteildatum>2021-03-19</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Antwort
+der Bundesregierung
+auf die Kleine Anfrage der Abgeordneten Maria Klein-Schmeink, Dr. Konstantin 
+von Notz, Dr. Kirsten Kappert-Gonther, weiterer Abgeordneter und der
+Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN
+&#8211; Drucksache 19/26570 &#8211;
+Digitale Anwendungen zur Kontaktnachverfolgung in der Corona-Pandemie
+und zur Entlastung des Personals im &#246;ffentlichen Gesundheitsdienst
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Die Mitarbeiterinnen und Mitarbeiter in den Gesundheits&#228;mtern leisten mit
+ihrer Arbeit einen bedeutenden Beitrag zur Bew&#228;ltigung der Corona-Pandemie. 
+Ihr Einsatz ist umso beachtlicher vor dem Hintergrund eines erheblichen 
+Personal- und Ressourcenmangels, den der &#246;ffentliche Gesundheitsdienst 
+(&#214;GD) aus Sicht der fragestellenden Fraktion aufgrund von zahlreichen
+Sparpl&#228;nen und einer jahrelangen falschen Priorit&#228;tensetzung durch die
+Bundesregierung zu verzeichnen hat. Insbesondere die extrem arbeitsintensive
+Identifizierung und Verfolgung von Kontaktketten ist f&#252;r die Eind&#228;mmung der
+Pandemie zwar unerl&#228;sslich, sie stellt das Personal in den Gesundheits&#228;mtern bei 
+hohen Inzidenzen angesichts der immensen Zahl von nachzuverfolgenden 
+Kontaktketten aber auch vor eine kaum zu bew&#228;ltigende Aufgabe. Wiederholt 
+haben Vertreterinnen und Vertreter von Gesundheits&#228;mtern in verschiedenen 
+Bundesl&#228;ndern darauf hingewiesen, dass sie angesichts des seit vielen Wochen 
+hohen Infektionsgeschehens mit der individuellen Kontaktverfolgung nicht 
+mehr nachkommen und teilweise, trotz der Vermittlung sogenannter
+&#8222;Containment-Scouts&#8220; durch das Robert Koch-Institut (RKI) und Unterst&#252;tzung durch 
+Angeh&#246;rige der Bundeswehr an der Belastungsgrenze oder dar&#252;ber hinaus
+angekommen sind (vgl. &#8222;&#220;berlastete Gesundheits&#228;mter: Kontrollverlust mit
+Ansage&#8220;, tagesschau.de vom 19. Oktober 2020, abrufbar unter https://www.tages
+schau.de/gesundheitsaemter-kontaktnachverfolgung-101.html).
+Aus Sicht der fragestellenden Fraktion bergen digitale Anwendungen ein
+hohes Potenzial, einen erheblichen Beitrag zur weiteren Unterst&#252;tzung des
+Personals in den Gesundheits&#228;mtern zu leisten, denn noch immer m&#252;ssen viele 
+T&#228;tigkeiten bei der Verfolgung von Kontakten h&#228;ndisch ausgef&#252;hrt werden. 
+Die manuelle Meldung von Infektionszahlen oder die Kontaktnachverfolgung 
+&#252;ber Kreis- und Stadtgrenzen hinaus ist nicht nur langsam, sondern auch
+fehleranf&#228;llig.
+Vor diesem Hintergrund und seit nunmehr mehreren Monaten anhaltenden 
+Diskussionen &#252;ber die lange nicht gegebene Anbindung eines relevanten Teils 
+der Gesundheits&#228;mter und Labore an digitale Strukturen und &#220;bermittlungs-
+Deutscher Bundestag Drucksache 19/27503
+19. Wahlperiode 11.03.2021
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums f&#252;r Gesundheit vom 10. M&#228;rz 2021 
+&#252;bermittelt.
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext.
+systeme ist es nach Ansicht der fragestellenden Fraktion ein zentrales
+Vers&#228;umnis, dass diese Probleme nicht abgestellt und den Gesundheits&#228;mtern 
+nicht schon viel fr&#252;her entsprechende digitale Anwendungen im
+Zusammenspiel von L&#228;nder- und Bundesebene zur Verf&#252;gung gestellt wurden. Erst am 
+16. November 2020 beschlossen Bund und L&#228;nder, den fl&#228;chendeckenden 
+Einsatz bestimmter Software-Tools zur Eind&#228;mmung der Corona-Pandemie 
+voranzutreiben.
+Das Deutsche Elektronische Melde- und Informationssystem f&#252;r den
+Infektionsschutz (DEMIS) muss erst seit dem 1. Januar 2021 verpflichtend genutzt 
+werden. Das Surveillance Outbreak Response Management and Analysis
+System eXchange (SORMAS-X), das &#8211; im Gegensatz zu bislang eingesetzten 
+Systemen, wie z. B. SORMAS Local (SORMAS-L) &#8211; eine
+landkreis&#252;bergreifende Nachverfolgung von Kontaktketten erm&#246;glicht, befindet sich noch
+immer in der Testphase. Neben der nach Ansicht der fragestellenden Fraktion 
+viel zu sp&#228;ten Bereitstellung dieser Systeme stellt sich zudem die Frage,
+warum nicht bereits im Sommer 2020, als die Infektionszahlen deutlich geringer 
+waren, alle Gesundheits&#228;mter mit den entsprechenden Anwendungen
+ausgestattet wurden. Die Installation der Anwendungen w&#228;re den
+Gesundheits&#228;mtern in einer Zeit mit geringeren Infektionszahlen deutlich einfacher gefallen 
+als in der jetzigen Phase der &#220;berlastung.
+Auch die Corona-Warn-App (CWA) als weiteres Instrument der
+Infektionskettenunterbrechung kann ihr Potenzial nach Ansicht der fragestellenden
+Fraktion noch immer nicht aussch&#246;pfen. Dies liegt nicht zuletzt daran, dass die App 
+nur sehr sporadisch weiterentwickelt wird und die Evaluierung der CWA
+intransparent erfolgt. Dar&#252;ber hinaus erfolgt die Umsetzung neuer Funktionen 
+unsystematisch und nicht schnell genug. Von Expertinnen und Experten
+wiederholt geforderte und technisch leicht zu implementierende
+Kontakttageb&#252;cher und zus&#228;tzliche Informationen &#252;ber bestehende Regeln wurden nur mit 
+monatelanger Versp&#228;tung umgesetzt.
+Statt konkrete Vorschl&#228;ge zur Weiterentwicklung aufzugreifen, hat es die 
+Bundesregierung verpasst, die App entschlossen weiterzuentwickeln. Durch 
+ihre fehlende Attraktivit&#228;t konnten die Nutzerzahlen in den vergangenen
+Monaten nicht signifikant gesteigert werden. Schlecht kommunizierte
+Umstellungen des Warnsystems der App f&#252;hrten dazu, dass das Vertrauen in die
+Funktionalit&#228;t der App sank. Zudem vers&#228;umt es die Bundesregierung nach Ansicht 
+der Fragestellenden kontinuierlich, deutlich zu machen, dass der Datenschutz 
+im Rahmen einer verbesserten Kontaktnachverfolgung kein Hindernis
+darstellt.
+Obwohl eine App-Erweiterung zur Erfassung von Zusammenk&#252;nften mehrerer 
+Personen (&#8222;Cluster&#8220;), die ebenfalls seit vielen Monaten von zahlreichen
+Expertinnen und Experten gefordert wird, datenschutzrechtlich einwandfrei und 
+technisch leicht umzusetzen w&#228;re und entsprechende Konzepte l&#228;ngst
+vorliegen (beispielsweise https://github.com/CrowdNotifier/documents, https://ww
+w.zeit.de/digital/2020-08/corona-warn-app-coronavirus-eindaemmung-karl-la
+uterbach-henning-tillmann, https://luca-app.de), gibt es eine solche Funktion 
+bis heute nicht. Erst durch erheblichen Druck auch der L&#228;nder ist es gelungen, 
+die Bundesregierung dazu zu bewegen, sich mit der Einf&#252;hrung dieser
+Neuerung zu besch&#228;ftigen. Derzeit &#8222;pr&#252;ft&#8220; sie die Implementierung. Ein
+Strategiewechsel weg von der Einzelfallnachverfolgung hin zur Clustererkennung 
+bleibt nach Ansicht der fragestellenden Fraktion dringend n&#246;tig.
+V o r b e m e r k u n g  d e r  B u n d e s r e g i e r u n g
+Die Verantwortung f&#252;r die Ausstattung der Gesundheits&#228;mter und damit die 
+Entscheidung &#252;ber den Einsatz digitaler Hilfsmittel obliegt den L&#228;ndern und 
+den Gesundheits&#228;mtern selbst. Die Bundesregierung kann in diesem
+Zusammenhang nur unterst&#252;tzend agieren.
+Die Bundesregierung hat bereits fr&#252;hzeitig prozesserleichternde Anwendungen 
+entwickelt und den Gesundheits&#228;mtern zur Nutzung zur Verf&#252;gung gestellt.
+Der Bund hat den L&#228;ndern im Jahr 2020 zudem insgesamt 50 Mio. Euro zur 
+Verf&#252;gung gestellt, um die Digitalisierung der Gesundheits&#228;mter kurzfristig zu 
+st&#228;rken. Diese Mittel dienen beispielweise der Anschaffung bzw.
+Aktualisierung von Software, Neuanschaffung von Video- und Kommunikationsger&#228;ten 
+oder dem Aufbau und der Verbesserung weiterer technischer Ausstattung sowie 
+der digitalen Vernetzung der Gesundheits&#228;mter.
+Das Deutsche Elektronische Melde- und Informationssystem f&#252;r den
+Infektionsschutz (DEMIS) wurde Mitte Juni 2020 in Betrieb genommen. Zun&#228;chst 
+wurden die Gesundheits&#228;mter angebunden. Nachdem ausreichend
+Gesundheits&#228;mter empfangsbereit waren, wurde die Anbindung der Labore vorangebracht.
+Die Corona-Warn-App (CWA) wird stetig und unter Ber&#252;cksichtigung der
+Vorschl&#228;ge aus Politik, Wissenschaft und Open-Source-Community
+weiterentwickelt. Bei der Umsetzung ber&#252;cksichtigen wir den epidemiologischen Nutzen 
+und stellen sicher, dass die Corona-Warn-App auch zuk&#252;nftig dem Vertrauen 
+der B&#252;rgerinnen und B&#252;rger gerecht wird.
+&#8199;1. Wie viele verschiedene und welche digitalen Systeme werden nach 
+Kenntnis der Bundesregierung von den Gesundheits&#228;mtern aktuell zur 
+Kontaktnachverfolgung eingesetzt?
+Es sind verschiedene Anwendungen bekannt, die zum Zweck der
+Kontaktnachverfolgung eingesetzt werden. Hierzu wird auf die Antwort des
+Parlamentarischen Staatssekret&#228;rs Dr. Thomas Gebhart auf die Schriftliche Frage 157 des 
+Abgeordneten Manuel H&#246;ferlin auf Bundestagsdrucksache 19/25435
+verwiesen. Zum Umfang des Einsatzes entsprechender Software-Anwendungen zum 
+o. g. Zweck liegen keine Erkenntnisse vor. Das Robert Koch-Institut (RKI) 
+stellt mit SurvNet@RKI eine L&#246;sung f&#252;r die Erfassung von Meldungen gem&#228;&#223; 
+dem Infektionsschutzgesetz (IfSG) in den Gesundheits&#228;mtern zur Verf&#252;gung, 
+mit der grunds&#228;tzlich auch die Kontaktpersonennachverfolgung m&#246;glich ist. 
+Des Weiteren finanziert der Bund im Rahmen des Projekts SORMAS@DEMIS 
+bis Ende 2022 eine spezifisch f&#252;r die COVID-19-Pandemie und die
+Gesundheits&#228;mter weiterentwickelte Version des Surveillance Outbreak Response
+Management and Analysis System (SORMAS).
+Wenn mehrere Softwareprodukte eingesetzt werden, sind Schnittstellen
+zwischen den verschiedenen Softwarel&#246;sungen sinnvoll, damit
+Mehrfacherfassungen vermieden werden. Das Projekt SORMAS@DEMIS beispielsweise
+beinhaltet die Entwicklung von Schnittstellen zu den Systemen DEMIS, Surv-
+Net@RKI sowie weiteren Softwareanwendungen.
+&#8199;2. Wie viele der in Frage 1 erfragten Anwendungen sind untereinander
+interoperabel, beispielsweise f&#252;r den Austausch von Kontaktpersonendaten 
+&#252;ber Kreis- oder Stadtgrenzen hinaus?
+Nach Kenntnis der Bundesregierung besteht zwischen den in der Antwort zu 
+Frage 1 beschriebenen Anwendungen bislang nicht die M&#246;glichkeit des
+interoperablen Austausches von Kontaktpersonendaten &#252;ber Kreis- oder
+Stadtgrenzen hinweg. Denkbar ist hier lediglich die Nutzung von Import/Export-
+Funktionalit&#228;ten, z. B. mittels sogenanntem CSV-Export. Eine solche
+Funktionalit&#228;t wird mit SORMAS X geschaffen.
+&#8199;3. Gibt es nach Kenntnis der Bundesregierung Gesundheits&#228;mter, die bei 
+der Kontaktnachverfolgung nach wie vor ohne spezialisierte Software 
+(also beispielsweise mit Microsoft-Excel) oder h&#228;ndisch arbeiten, und 
+wenn ja, wie viele?
+Gem&#228;&#223; einer gemeinsamen Umfrage des Deutschen St&#228;dtetags und des
+Deutschen Landkreistags vom Sommer 2020 (https://www.landkreistag.de/images/st
+ories/themen/egovernment/2009_DLT_Umfrage_digitale_Ausstattung_Gesund
+heits%C3%A4mter.pdf) nutzte zu diesem Zeitpunkt ein erheblicher Anteil der 
+Gesundheits&#228;mter zum Kontaktpersonenmanagement Microsoft Excel.
+Aktuelle Erhebungen liegen der Bundesregierung nicht vor.
+&#8199;4. Wie viele Gesundheits&#228;mter sind nach Kenntnis der Bundesregierung
+aktuell an SORMAS-L angeschlossen?
+&#8199;5. Wie viele Gesundheits&#228;mter sind nach Kenntnis der Bundesregierung
+aktuell an SORMAS-X angeschlossen?
+&#8199;7. Wie viele Gesundheits&#228;mter wurden nach Kenntnis der Bundesregierung 
+2020 an SORMAS-X angeschlossen (bitte jeweils pro Kalenderwoche 
+angeben)?
+Die Fragen 4, 5 und 7 werden aufgrund des Sachzusammenhangs gemeinsam 
+beantwortet.
+Zum Stand 31. Dezember 2020 war SORMAS-L in 109 Gesundheits&#228;mtern
+betriebsbereit bzw. in Betrieb. Nach Angaben des Helmholtz-Zentrum f&#252;r
+Infektionsforschung (HZI) wird SORMAS-X mit den Schnittstellen zu SurvNet und 
+DEMIS im Echtbetrieb im ersten Gesundheitsamt seit 8. Februar 2021 genutzt. 
+Ein weiteres Gesundheitsamt folgte am 20. Februar 2021. Bei SORMAS-X 
+handelt es sich rein technisch um SORMAS-L zuz&#252;glich freigeschalteter 
+Schnittstellen. Zum Stand 5. M&#228;rz 2021 war SORMAS in 290
+Gesundheits&#228;mtern betriebsbereit bzw. in Betrieb.
+&#8199;6. Wie viele Gesundheits&#228;mter wurden nach Kenntnis der Bundesregierung 
+2020 an SORMAS-L angeschlossen (bitte jeweils pro Kalenderwoche 
+angeben)?
+Die Informationen k&#246;nnen folgender Tabelle entnommen werden:
+Quelle: Helmholtz-Zentrum f&#252;r Infektionsforschung (HZI)
+&#8199;8. Wie viele Gesundheits&#228;mter wurden nach Kenntnis der Bundesregierung 
+2020 an DEMIS angeschlossen (bitte jeweils pro Kalenderwoche
+angeben)?
+&#8199;9. Wie viele Labore wurden nach Kenntnis der Bundesregierung 2020 an 
+DEMIS angeschlossen (bitte jeweils pro Kalenderwoche angeben)?
+Die Fragen 8 und 9 werden aufgrund des Sachzusammenhangs gemeinsam
+beantwortet.
+Im Jahr 2020 wurden sukzessive alle Gesundheits&#228;mter (375) an DEMIS
+angebunden. Bis Ende 2020 haben 210 Labore DEMIS aktiv f&#252;r das Absetzen von 
+SARS-CoV-2-Meldungen genutzt. Zudem wird auf die Vorbemerkung der
+Bundesregierung verweisen.
+Die Nutzung von DEMIS f&#252;r das Absetzen bzw. Empfangen von SARS-CoV-2-
+Meldungen ist seit dem 1. Januar 2021 verpflichtend f&#252;r alle Labore und
+Gesundheits&#228;mter.
+Datum Anzahl angebundeneGesundheits&#228;mter
+Anzahl aktiv
+meldende Labore
+25.06.2020 8
+01.07.2020 39 1
+08.07.2020 56 2
+15.07.2020 116 2
+22.07.2020 117 2
+29.07.2020 149 10
+05.08.2020 187 12
+12.08.2020 202 13
+19.08.2020 211 14
+26.08.2020 220 14
+02.09.2020 248 16
+09.09.2020 273 18
+16.09.2020 291 19
+23.09.2020 299 31
+30.09.2020 306 36
+07.10.2020 313 39
+14.10.2020 334 41
+21.10.2020 337 49
+28.10.2020 337 53
+04.11.2020 341 57
+11.11.2020 347 65
+18.11.2020 354 78
+25.11.2020 358 87
+02.12.2020 362 98
+09.12.2020 363 114
+16.12.2020 372 135
+23.12.2020 374 175
+30.12.2020 375 210
+Quelle: Bundesministerium f&#252;r Gesundheit
+10. Welche Ma&#223;nahmen wird die Bundesregierung treffen, damit SORMAS-
+X, wie bei der Ministerpr&#228;sidentenkonferenz am 19. Januar 2021
+beschlossen, m&#246;glichst fl&#228;chendeckend in den Gesundheits&#228;mtern
+eingesetzt wird?
+Die Verantwortung f&#252;r die Ausstattung der Gesundheits&#228;mter und damit die 
+Entscheidung &#252;ber die Auswahl und Verwendung digitaler Hilfsmittel obliegt 
+den L&#228;ndern und den Gesundheits&#228;mtern selbst. Die Bundesregierung kann in 
+diesem Zusammenhang nur unterst&#252;tzend agieren.
+Die Einf&#252;hrung neuer Softwareanwendungen wie SORMAS in das bestehende 
+Meldewesen ist komplex, da etwa neben der Einrichtung der entsprechenden 
+Nutzerinnen und Nutzer, auch Schulungen und prozessuale Anpassungen vor 
+Ort durchgef&#252;hrt werden m&#252;ssen. Dies gilt umso mehr im Bereich des
+Infektionsschutzes, da eine durchgehend hohe Qualit&#228;t &#252;ber die gesamte Meldekette 
+hinweg sicherzustellen ist. Um den Umstieg in der aktuellen Situation zu
+erleichtern, erhalten die Gesundheits&#228;mter im Rahmen des durch die
+Bundesregierung gef&#246;rderten Vorhabens SORMAS@DEMIS umfangreiche
+Informationsmaterialien (Handb&#252;cher, Online-Videos, Podcasts) sowie die M&#246;glichkeit 
+zur Durchf&#252;hrung individueller Schulungen der Mitarbeiterinnen und
+Mitarbeiter. Dar&#252;ber hinaus wurden Hotlines f&#252;r den technischen Betrieb und Support 
+sowie zur Schulung und Nutzung von SORMAS eingerichtet. Der bundesweite 
+Rollout wird hierbei federf&#252;hrend durch das Helmholtz-Zentrum f&#252;r
+Infektionsforschung und die Akademie f&#252;r &#214;ffentliches Gesundheitswesen sowie deren 
+Partner sichergestellt.
+11. Wann, und aus welchen Erw&#228;gungen traf die Bundesregierung die
+Entscheidung, SORMAS f&#252;r die Kontaktnachverfolgung in der Corona-
+Pandemie zu empfehlen?
+Wann traf die Bundesregierung die Entscheidung, die Weiterentwicklung 
+der Software entsprechend zu f&#246;rdern?
+Die Entwicklung von SORMAS wird von der Bundesregierung bereits seit dem 
+1. November 2014 unterst&#252;tzt. Ein vollst&#228;ndiges, vernetztes und gleichzeitig
+effizientes digitales Pandemiemanagement in allen Gesundheits&#228;mtern
+Deutschlands und den damit einhergehenden Datenaustausch zu erm&#246;glichen, ist
+weiterhin das zugrundliegende Ziel. Nach Einsch&#228;tzung der Bundesregierung
+erf&#252;llt SORMAS die hierzu notwendigen Anforderungen, hat sich im
+Management von Epidemien als effizientes und erweiterbares Werkzeug bew&#228;hrt und 
+wird zudem kontinuierlich weiterentwickelt. Die Entscheidung f&#252;r eine
+fl&#228;chendeckende Bereitstellung von SORMAS wurde im Rahmen der
+Videoschaltkonferenz der Bundeskanzlerin mit den Regierungschefinnen und
+Regierungschefs der L&#228;nder am 16. November 2020 von Bund und L&#228;ndern
+gemeinsam getroffen.
+12. Hat die Bundesregierung zur Entwicklung oder zum Roll-out von SOR-
+MAS externe Beratung in Anspruch genommen?
+Wenn ja, durch wen, mit welchem Ziel, und welche Kosten sind dabei 
+ggf. angefallen?
+Die Bundesregierung unterst&#252;tzt das Vorhaben im Rahmen einer Zuwendung. 
+Entwicklung und Rollout liegen in der Verantwortung des Helmholtz-Zentrums 
+f&#252;r Infektionsforschung (HZI).
+13. Wann hat die Bundesregierung zum ersten Mal von der M&#246;glichkeit
+erfahren, dass SORMAS f&#252;r einen Einsatz in der Corona-Pandemie in 
+Deutschland weiterentwickelt werden k&#246;nnte?
+Das Bundesministerium f&#252;r Gesundheit hat im M&#228;rz 2020 damit begonnen, die 
+Nutzungsm&#246;glichkeiten von SORMAS zu pr&#252;fen und die Integration in die
+bestehenden und funktionierenden Meldesysteme bzw. in die existierende
+Softwarelandschaft der Gesundheits&#228;mter zu planen. Hieraus wurde das
+Forschungsvorhaben SORMAS@DEMIS entwickelt, dessen offizieller Start am 
+1. Juli 2020 erfolgte.
+14. Auf welche SORMAS-Version bezieht sich der
+Ministerpr&#228;sidentenkonferenz-Beschluss vom 16. November 2020, dass bis Ende 2020 ca. 
+90 Prozent der Gesundheits&#228;mter an SORMAS angeschlossen sein
+sollen?
+Der in der Videoschaltkonferenz der Bundeskanzlerin mit den
+Regierungschefinnen und Regierungschefs der L&#228;nder am 16. November 2020 gefasste
+Beschluss weist keinen konkreten Versionsbezug auf.
+15. Welcher Starttermin f&#252;r SORMAS-X war der Bundesregierung am 
+16. November 2020 bekannt?
+Zum dem genannten Zeitpunkt ging die Bundesregierung davon aus, dass 
+SORMAS-X im Dezember 2020 in Pilotgesundheits&#228;mtern getestet wird.
+16. Welche Vorteile bietet SORMAS-L aus Sicht der Bundesregierung
+gegen&#252;ber der bislang in Gesundheits&#228;mtern eingesetzten Software zur 
+Kontaktnachverfolgung?
+SORMAS-L weist nach Ansicht der Bundesregierung verschiedene Vorteile 
+auf: So bietet SORMAS-L umfassende Funktionalit&#228;ten und ein damit
+einhergehendes Prozessmanagement zur Kontaktpersonennachverfolgung. Es
+beinhaltet einen differenzierten Labordiagnostik-Prozess, der es erleichtert f&#252;r einen 
+Fall unterschiedliche Labornachweise zu erfassen und separat zu
+dokumentieren. In SORMAS-L k&#246;nnen nicht nur Ausbr&#252;che und H&#228;ufungen sondern auch 
+personenspezifische Infektionsketten und Infektionsnetzwerke erhoben und
+visualisiert werden.
+Das integrierte Aufgabenmanagement erlaubt, Mitarbeiterinnen und Mitarbeiter 
+sich untereinander Aufgaben zuzuweisen oder sich eigene Aufgaben anzulegen, 
+inklusive Fristen und Dokumentation der Aufgabenerf&#252;llung.
+SORMAS-L erm&#246;glicht einen Zugriff von &#252;berall, etwa auch aus dem Home-
+Office, und kann dar&#252;ber hinaus als mobile App verwendet werden, wenn
+beispielsweise ein Ausbruch direkt vor Ort untersucht und im System
+dokumentiert werden soll. Die Dashboards f&#252;r F&#228;lle und Kontakte bieten eine grafische 
+Auswertung der jeweils eingestellten Zeitr&#228;ume und werden in Echtzeit
+aktualisiert. Mit Hilfe des Statistik-Men&#252;s in SORMAS k&#246;nnen individuelle
+differenzierte Analysen &#252;ber das Dashboard hinaus vorgenommen werden. In SOR-
+MAS-L k&#246;nnen auch Geschehen (Ereignisse) &#252;ber F&#228;lle, Kontakte und
+Ausbr&#252;che hinaus umfassend dargestellt werden. Es erlaubt die Erfassung,
+Bearbeitung und Auswertung von Screenings.
+SORMAS ist zudem eine quelloffene Software, steht ohne Lizenzgeb&#252;hren zur 
+Verf&#252;gung und kann modular weiterentwickelt werden.
+17. Warum wurde bei der Entwicklung von SORMAS nicht auf das in 
+SORMAS-X integrierte Symptomtagebuch gesetzt, sondern eine externe 
+Anwendung der Climedo Health GmbH in das Programm integriert?
+Das digitale Symptom-Tagebuch der Climedo Health GmbH stand als in
+Gesundheits&#228;mtern erprobte und bew&#228;hrte Standalone-Software bereits fr&#252;hzeitig 
+zur Verf&#252;gung. Entsprechende Erfahrungen liegen f&#252;r das integrierte Symptom-
+Tagebuch nicht vor. Zudem verf&#252;gt das Climedo Symptom-Tagebuch &#252;ber die 
+M&#246;glichkeit der Ansprache mittels SMS, welche von den Gesundheits&#228;mtern 
+sehr stark genutzt wird und die das native Symptom-Tagebuch nicht bietet.
+18. Wann wurde der Bundesbeauftragte f&#252;r den Datenschutz und die
+Informationsfreiheit (BfDI) in die Entwicklung von SORMAS-X einbezogen?
+19. Aus welchen Gr&#252;nden verz&#246;gert sich die datenschutzrechtliche Freigabe 
+von SORMAS-X, wie im Gesundheitsministerkonferenz-
+Umsetzungsbericht vom 15. Januar 2021 mehrfach bem&#228;ngelt wird?
+20. Wann wurde der Bundesregierung bekannt, dass sich die
+datenschutzrechtliche Freigabe von SORMAS-X verz&#246;gert, und welche Ma&#223;nahmen 
+hat die Bundesregierung getroffen, um diesen Prozess zu beschleunigen?
+Die Fragen 18 bis 20 werden aufgrund des Sachzusammenhangs gemeinsam 
+beantwortet.
+Das SORMAS@DEMIS Konsortium steht seit Mitte August 2020 mit dem 
+Bundesbeauftragten f&#252;r den Datenschutz und die Informationsfreiheit (BfDI) 
+im kontinuierlichen Austausch. Im Rahmen der Projektlaufzeit wurden die
+entsprechenden Datenschutzdokumente gemeinsam mit der technischen
+Konzeption weiterentwickelt. Aufgrund der Komplexit&#228;t der heterogenen
+Softwarelandschaft waren hier jedoch Anpassungen notwendig. Mit Schreiben vom 15.
+Dezember 2020 regte der BfDI die Behebung einzelner M&#228;ngel in der
+Datenschutzdokumentation als Voraussetzung f&#252;r eine datenschutzrechtliche
+Einsch&#228;tzung an. Auf Basis dieser R&#252;ckmeldung erfolgte am 24. Dezember 2020 
+eine &#220;berarbeitung und erneute Einreichung, auf dessen Grundlage der BfDI 
+und die Datenschutzaufsichtsbeh&#246;rden verschiedener L&#228;nder nach Pr&#252;fung des 
+vorgelegten Datenschutzkonzepts einem vorl&#228;ufigen Betrieb zugestimmt
+haben. Im Hinblick auf den Datenschutz steht einer Inbetriebnahme von 
+SORMAS-X in den Gesundheits&#228;mtern demnach nichts entgegen.
+21. Plant die Bundesregierung, Gesundheits&#228;mter angesichts der bereits jetzt 
+hohen Arbeitsbelastung bei der Installation von SORMAS-X zu
+unterst&#252;tzen, und wenn ja, in welcher Form, und wenn nein, wieso nicht?
+Es wird auf die Antwort zu Frage 10 verwiesen.
+22. Was hat die Entwicklung von SORMAS-L und SORMAS-X jeweils
+bislang nach Kenntnis der Bundesregierung gekostet?
+23. Hat sich die Bundesregierung an den Entwicklungskosten von SOR-
+MAS-L und SORMAS-X beteiligt, und wenn ja, zu welchem Anteil, und 
+wenn nein, wieso nicht?
+Die Fragen 22 und 23 werden aufgrund des Sachzusammenhangs gemeinsam 
+beantwortet.
+Die Bundesregierung beteiligt sich im Rahmen des F&#246;rdervorhabens SOR-
+MAS@DEMIS an der Weiterentwicklung von SORMAS. Das Konzept zu 
+SORMAS X wurde im Kontext dieses Vorhabens entwickelt. Bis zum 9.
+Februar 2021 wurden rund 3 Mio. Euro an F&#246;rdermitteln hierf&#252;r abgerufen.
+24. Wie lange hat die Weiterentwicklung der urspr&#252;nglichen, 2014 f&#252;r die 
+Ebola-Epidemie entwickelten, Version von SORMAS zu SORMAS-L 
+und SORMAS-X gedauert?
+25. Welche Projektschritte lagen der Weiterentwicklung von der
+urspr&#252;nglichen SORMAS-Version zu SORMAS-X zugrunde, und wann wurden 
+diese jeweils abgeschlossen?
+Die Fragen 24 und 25 werden aufgrund des Sachzusammenhangs gemeinsam 
+beantwortet.
+Bereits seit M&#228;rz 2020 ist eine deutsche Version von SORMAS-L f&#252;r CO-
+VID-19 in einer zunehmenden Anzahl der Gesundheits&#228;mter produktiv im
+Einsatz.
+SORMAS ist seit dem Jahr 2016 als Open-Source-Software in st&#228;ndiger
+Weiterentwicklung und neue Funktionen werden laufend erg&#228;nzt. Seit Februar 2020 
+konzentrieren sich Weiterentwicklungen auf COVID-19-spezifische
+Anforderungen sowie auf Anforderungen, wie sie in Deutschland, Frankreich und der 
+Schweiz durch die speziellen f&#246;deralen und anderen industrielandspezifischen 
+Rahmenbedingungen vorliegen. Um einen Datenaustausch zwischen SORMAS 
+und den bestehenden IfSG-Anwendungen der Gesundheits&#228;mter zu
+gew&#228;hrleisten und um perspektivisch einen Datenaustausch zwischen Gesundheits&#228;mtern 
+zu vereinfachen, hat das Helmholtz-Zentrum f&#252;r Infektionsforschung (HZI) das 
+Konzept von SORMAS-X entwickelt. SORMAS-X erm&#246;glicht die Vorteile
+einer zentralen Version unter vollst&#228;ndiger Beibehaltung der kommunalen
+Autonomie und der f&#246;deral-subsidi&#228;ren Strukturen, sowie dem IfSG und der
+Datenschutz-Grundverordnung (DSGVO).
+SORMAS wird im Rahmen agiler Softwareentwicklung mit dreiw&#246;chigen
+Entwicklungszyklen (sog. Sprints) entwickelt. Die Schnittstellen zu den
+Anwendungen SurvNet und Climedo wurden vom Entwicklungsteam am 12. Oktober 
+2020 im Rahmen einer Pr&#228;sentation im sogenannten Nutzer:innen-Komitee 
+vorgestellt. Die Schnittstelle zu DEMIS wurden vom Entwicklungsteam am 
+8. Dezember 2020 im Rahmen einer Pr&#228;sentation im Nutzer:innen-Komitee 
+vorgestellt.
+F&#252;r die Pilotierung von SORMAS mit den Schnittstellen zu SurvNet und DE-
+MIS wurden f&#252;nf Gesundheits&#228;mter ausgew&#228;hlt. Die Pilotierung startete mit
+einem ersten Pilotierungsmeeting am 16. November 2020.
+Die Produktivsetzung des ersten Pilotgesundheitsamtes mit den Schnittstellen 
+zu DEMIS und SurvNet erfolgte am 8. Februar 2021. Weitere wesentliche
+Meilensteine im Projekt sind die Verf&#252;gbarkeit der Hotline sowie das Angebot von 
+Schulungen seit Projektbeginn am 1. Juli 2020.
+26. Aus welchen Mitteln wird sich die Weiterentwicklung und
+Instandhaltung von SORMAS-L und SORMAS-X tragen, wenn die F&#246;rderung 
+durch die Bundesregierung Ende 2022 ausl&#228;uft?
+Die Verantwortung f&#252;r die Ausstattung der Gesundheits&#228;mter obliegt den
+L&#228;ndern und Gesundheits&#228;mtern. Im Rahmen des Paktes f&#252;r den &#214;ffentlichen
+Gesundheitsdienst (&#214;GD), der die verbesserte Resilienz des &#214;GD anstrebt,
+werden vom Bund insgesamt 800 Mio. Euro f&#252;r Digitalisierungsma&#223;nahmen in
+Gesundheits&#228;mtern bis zum Jahr 2026 zur Verf&#252;gung gestellt, sodass die
+Weiterentwicklung und Instandhaltung grunds&#228;tzlich abgesichert ist.
+27. Steht oder stand die Bundesregierung im Austausch mit anderen
+L&#228;ndern, um m&#246;gliche Best-Practices bei der beh&#246;rdlichen digitalen
+Kontaktnachverfolgung zu evaluieren?
+Wenn ja, mit welchen L&#228;ndern stand die Bundesregierung in Kontakt, 
+und was ist das Ergebnis dieses Austauschs?
+Wenn nein, wieso nicht?
+Im Rahmen diverser etablierter Netzwerke stehen die Bundesregierung und die 
+nachgeordneten Beh&#246;rden im engen Austausch mit anderen Staaten. Dazu
+z&#228;hlen insbesondere die europ&#228;ischen Netzwerke, die von der europ&#228;ischen
+Seuchenkontrollbeh&#246;rde (European Centre for Disease Prevention and Control &#8211; 
+ECDC) koordiniert werden. Hierbei werden auch Erfahrungen und Wissen zur 
+analogen und digitalen Kontaktnachverfolgung ausgetauscht. In den
+verschiedenen L&#228;ndern sind die zust&#228;ndigen Beh&#246;rden unterschiedlich aufgestellt und 
+die Surveillancesysteme unterschiedlich organisiert. Insoweit k&#246;nnen die
+Erfahrungen anderer L&#228;ndern nicht ohne Weiteres &#252;bertragen werden.
+Hinsichtlich der anf&#228;nglichen Ausgestaltung und sp&#228;ter der kontinuierlichen 
+Weiterentwicklung und Verbesserung der CWA stand und steht das
+epidemiologische Team des RKI in langfristigem bilateralen Austausch mit der Schweiz, 
+den Niederlanden, Belgien, Irland, dem UK und den USA. Dabei ging es
+insbesondere um gegenseitige Beratung und Arbeitsteilung bei BLE-basierten
+Entfernungsmessungen, ihrer Auswertung und Interpretation (CH, NL), um
+Abstimmung bei der Festlegung der Konfigurationsparameter und des
+Risikoberechnungsverfahrens (UK, US), um ein besseres Verst&#228;ndnis des Google/Apple 
+Exposure Notification Frameworks (GAENF), insbesondere bei der Migration 
+zur weiterentwickelten Version 2 (IE, BE), um die Definition von Kennzahlen 
+(Key Performance Indicator &#8211; KPIs) f&#252;r Reporting, Monitoring und die
+Evaluation (CH, UK), um Konzepte einer datenschutzkonformen Ereignisregistration 
+und Clustererkennung (&#8222;CrowdNotifier&#8220;, CH), um datenschutzkonforme
+dezentrale Metadatenauswertung der Endger&#228;te (Privacy Preserving Analytics, 
+US) und um den Umgang mit Kommunikationsherausforderungen. Au&#223;erdem 
+gab es regelm&#228;&#223;ige Treffen im Kreis mehrerer europ&#228;ischer L&#228;nder, auch unter 
+Einbeziehung von ECDC- und WHO-Vertretern, zu epidemiologischen
+Fragestellungen des digitalen Proximity-Tracings und, unter Einbeziehung von EU-
+Vertretern, zur Interoperabilit&#228;t der nationalen Apps, wozu unter anderem der 
+European Federal Gateway Server (EFSG) konzipiert und sp&#228;ter verwirklicht 
+wurde. Daneben gab es eine Reihe internationaler Workshops und Online-
+Ver&#246;ffentlichungen.
+28. Wie viele Bundeswehrsoldatinnen und Bundeswehrsoldaten sind nach 
+Kenntnis der Bundesregierung
+Mit Stand 5. M&#228;rz 2021 sind
+a) insgesamt und
+16 493 Soldatinnen und Soldaten insgesamt und
+b) f&#252;r die Kontaktnachverfolgung in Gesundheits&#228;mtern
+derzeit eingesetzt?
+3 580 Soldatinnen und Soldaten zur Kontaktnachverfolgung in den
+Gesundheits&#228;mtern eingesetzt.
+29. In welchem Stadium befindet sich der Roll-out des KI-gest&#252;tzten
+Telefonassistenten CovBot (https://iph.charite.de/metas/meldung/artikel/detai
+l/studie_ueber_ki_gestuetzten_coronavirus_hotline_assistenten_fuer_ges
+undheitsaemter_vorgestellt/)?
+30. Wann soll der CovBot zum fl&#228;chendeckenden Einsatz bereitstehen?
+Die Fragen 29 und 30 werden aufgrund des Sachzusammenhangs gemeinsam 
+beantwortet.
+Das Projekt CovBot wurde bis Ende 2021 verl&#228;ngert. In diesem Rahmen
+erfolgt die Erprobung des Ansatzes in weiteren interessierten Gesundheits&#228;mtern 
+sowie die Weiterentwicklung der Anwendung insbesondere hinsichtlich
+M&#246;glichkeiten zur Standardisierung der Bereitstellung und der Prozessintegration in 
+Gesundheits&#228;mtern sowie der Untersuchung von Wirksamkeit und Akzeptanz.
+Bei Interesse kann die Software auch unabh&#228;ngig von Forschungsvorhaben, die 
+das Bundesministerium f&#252;r Gesundheit finanziert, in der aktuellen Version &#252;ber 
+den Hersteller bezogen werden.
+31. Wird die Nutzung der Corona-Warn-App und der
+Weiterentwicklungsbedarf ihrer Funktionen durch Begleitforschung evaluiert?
+Wenn ja, in welcher zeitlichen Abfolge, und wie flie&#223;en die Ergebnisse 
+in die Weiterentwicklung der CWA ein?
+Wenn nein, wieso nicht?
+Die CWA wird laufend evaluiert und dementsprechend weiterentwickelt. Durch 
+das RKI ist eine Evaluation der Wirksamkeit der CWA vorgesehen. Zur
+Festlegung des Wirksamkeitsnachweises befindet sich das RKI derzeit in der
+Abstimmung mit epidemiologischen Fachgesellschaften, um darauf aufbauend ein
+Gesamtkonzept fertigzustellen. Mit dem aktuellen Release 1.13.2 wurde ein Link 
+zu einer Nutzerbefragung sowie die M&#246;glichkeit einer Datenspende in die App 
+integriert, um auf Basis dieser zus&#228;tzlichen Informationen weitere Erkenntnisse 
+zur Evaluation und Weiterentwicklung der CWA zu gewinnen.
+32. Welches Gremium entscheidet &#252;ber die Weiterentwicklung der Corona-
+Warn-App?
+Das RKI als Herausgeber und das Bundesministerium f&#252;r Gesundheit pr&#252;fen 
+gemeinsam mit der Deutschen Telekom und SAP fortlaufend m&#246;gliche
+Weiterentwicklungsvorschl&#228;ge. Beteiligt sind au&#223;erdem das Bundeskanzleramt und 
+das Bundesministerium des Innern, f&#252;r Bau und Heimat.
+33. Welche Updates sind als n&#228;chstes f&#252;r die CWA geplant?
+Mit zuk&#252;nftigen Updates im Fr&#252;hling 2021 sollen weitere Funktionalit&#228;ten
+umgesetzt werden, vor allem:
+&#8226; die freiwillige Datenspende,
+&#8226; die Weiterentwicklung des Kontakttagebuches,
+&#8226; weitere Pr&#228;zisierungen der Risikoberechnung,
+&#8226; die Anbindung der Schweizer Tracing-App (SwissCovid) und
+&#8226; eine Event-Registrierung (Erfassung von Infektionsclustern).
+34. Wie viele Mitarbeiterinnen und Mitarbeiter besch&#228;ftigen sich im Robert 
+Koch-Institut mit der Corona-Warn-App (bitte in Vollzeit&#228;quivalenten 
+angeben)?
+35. Wie viele Mitarbeiterinnen und Mitarbeiter besch&#228;ftigen sich in der 
+Bundesregierung mit der Corona-Warn-App (bitte in
+Vollzeit&#228;quivalenten angeben)?
+Die Fragen 34 und 35 werden aufgrund des Sachzusammenhangs gemeinsam 
+beantwortet.
+In der Bundesregierung sind verschiedene Ressorts, insbesondere das
+Bundeskanzleramt, das Bundesministeriums des Innern, f&#252;r Bau und Heimat, das 
+Bundesministerium f&#252;r Gesundheit sowie das Bundesministerium der Justiz 
+und f&#252;r Verbraucherschutz, und deren nachgeordnete Beh&#246;rden an der
+Ausgestaltung der Corona-Warn-App beteiligt. Die Anzahl der beteiligten
+Mitarbeiterinnen und Mitarbeiter ist variabel und abh&#228;ngig von dem Verlauf der
+Entwicklungsphasen.
+36. Welche Gr&#252;nde sprechen aus Sicht der Bundesregierung dagegen,
+bestehende Konzepte der Cluster-Erkennung (beispielsweise https:// g i t hu
+b.com/CrowdNotifier/documents, https://www.zeit.de/digital/2020-08/co
+rona-warn-app-coronavirus-eindaemmung-karl-lauterbach-henning-till
+mann, https://luca-app.de/) in die Corona-Warn-App zu implementieren?
+37. Wie wird die Implementierung einer manuellen Erfassung von
+Zusammenk&#252;nften mehrerer Personen und einer Cluster-Erkennung durch die 
+Corona-Warn-App von der Bundesregierung konkret gepr&#252;ft, und bis 
+wann soll ein Ergebnis dieser Pr&#252;fung vorliegen?
+38. Wann wird die Bundesregierung entscheiden, ob eine Funktion zur 
+Cluster-Erkennung in die App integriert wird, und wie lange wird die
+Implementierung voraussichtlich in etwa dauern?
+39. Ist es zutreffend, dass Telekom und SAP der Bundesregierung die
+Implementierung einer Funktion zur Cluster-Erkennung fr&#252;hzeitig angeboten 
+haben, und falls ja, wann zum ersten Mal?
+Die Fragen 36 bis 39 werden aufgrund des Sachzusammenhangs gemeinsam 
+beantwortet.
+Das bessere Erfassen von Infektionsclustern wird durch die zus&#228;tzliche
+Funktionalit&#228;t der Eventregistrierung f&#252;r die CWA bereits entwickelt. Vorbehaltlich 
+des Ergebnisses der Pr&#252;fung des BfDI ist der Release in den kommenden
+Wochen geplant.
+40. Welche digitalen Anwendungen zur Cluster-Erkennung bzw. Cluster-
+Nachverfolgung sind der Bundesregierung bekannt, und hat die
+Bundesregierung gepr&#252;ft, inwieweit diese in die App integrierbar w&#228;ren?
+Grunds&#228;tzlich kann die Erkennung von Infektionsclustern auf verschiedenen 
+methodischen und technologischen Ans&#228;tzen basieren. Damit verbunden
+werden h&#228;ufig sogenannte Self-Check-Dienste f&#252;r gastronomische Betriebe und 
+Veranstaltungen (z. B. eGuest, Luca, Darfichrein), die der
+Kontaktdatenerfassung durch Veranstalter und der Unterst&#252;tzung der Arbeit der Gesundheits&#228;mter 
+dienen. Eine vollst&#228;ndige Markt&#252;bersicht zu solchen L&#246;sungen gibt es nicht. 
+Das Bundesministerium f&#252;r Gesundheit steht im Austausch mit verschiedenen 
+Herstellern digitaler L&#246;sungen f&#252;r die Kontaktdatenerfassung. Diese haben in 
+der Regel allerdings andere Zielstellungen und Funktionsweisen als die CWA, 
+weshalb sie sich auch hinsichtlich des Umgangs mit personenbezogenen Daten 
+von der CWA grunds&#228;tzlich unterscheiden.
+41. Ist von Seiten der Bundesregierung vorgesehen, die CWA oder andere 
+Apps (z. B. NINA) um Funktionen zu erweitern, die den Nutzerinnen 
+und Nutzern erm&#246;glichen,
+a) freiwillig via App bei Bedarf eine Bitte um R&#252;ckruf an das &#246;rtliche 
+Gesundheitsamt zu senden, und wenn ja, wann, und wenn nein,
+warum nicht?
+b) freiwillig im Falle eines durch die Corona-Warn-App angezeigten
+Risikokontakts einen Termin f&#252;r einen Schnell- oder PCR-Test beim 
+&#246;rtlichen Gesundheitsamt bzw. einer Teststelle via App zu
+vereinbaren, und wenn ja, wann, und wenn nein, warum nicht?
+Die Fragen 41a und 41b werden gemeinsam beantwortet.
+F&#252;r die CWA sowie die Warn-App NINA des Bundesamtes f&#252;r
+Bev&#246;lkerungsschutz und Katastrophenhilfe (BBK) ist eine Erweiterung im Sinne der
+Fragestellung aktuell nicht geplant. Angelegenheiten, die &#246;rtliche
+Gesundheitsbeh&#246;rden betreffen, fallen in die Zust&#228;ndigkeit der L&#228;nder.
+42. Plant die Bundesregierung eine Erweiterung der CWA oder einer anderen 
+App (z. B. NINA), um Funktionen, die es Nutzerinnen und Nutzern
+erlauben w&#252;rden, freiwillig Termine f&#252;r die Impfung gegen COVID-19 per 
+App zu vereinbaren und/oder sich mit der App dar&#252;ber zu informieren, 
+ob kurzfristig Impftermine in einem Impfzentrum verf&#252;gbar geworden 
+sind?
+Die Warn-App NINA des BBK enth&#228;lt bereits im Corona-Bereich f&#252;r die
+jeweilig von den B&#252;rgerinnen und B&#252;rgern gew&#228;hlten Orte in der Rubrik &#8222;Impf-
+Informationen&#8220; Angaben zur jeweiligen B&#252;rger-Hotline sowie eine Verlinkung 
+zu den Impf-Informations-Webseiten des jeweiligen Landes. Eine Erweiterung 
+im Sinne der Fragestellung ist aktuell nicht geplant.
+Die Vergabe von Impfterminen erfolgt durch die L&#228;nder.
+43. Bereut es die Bundesregierung aus heutiger Perspektive, sich nicht fr&#252;her 
+mit der Frage der Implementierung digitaler Anwendungen zur Cluster-
+Erkennung bzw. Cluster-Nachverfolgung besch&#228;ftigt zu haben?
+Es wird auf die Antworten zu den Fragen 36 bis 39 verwiesen.
+44. Ist die Bundesregierung der Ansicht, dass die CWA mit ihren derzeitigen 
+Nutzungszahlen ihre M&#246;glichkeiten aussch&#246;pft und einen wichtigen
+Baustein f&#252;r die Bek&#228;mpfung des Coronavirus darstellt, oder ist die
+Bundesregierung ggf. anderer Ansicht, und falls ja, welcher?
+Die CWA ist aus Sicht der Bundesregierung ein gro&#223;er Erfolg, was auch durch 
+die Zahlen zur CWA verdeutlicht wird: So wurde die CWA bereits knapp 
+26 Millionen Mal heruntergeladen, es wurden &#252;ber die CWA bereits mehr als 
+9,6 Millionen (negative und positive) Testergebnisse an die Nutzenden
+&#252;bermittelt, und mehr als 267 000 Nutzende haben ihr positives Testergebnis geteilt 
+und damit ihre Kontaktpersonen &#252;ber die CWA warnen k&#246;nnen (Stand 3. M&#228;rz 
+2021). Zudem beschleunigt die CWA die Bereitstellung der Testergebnisse: fast 
+65 Prozent der Nutzenden erhalten ihr Testergebnis innerhalb von 24 Stunden, 
+fast 100 Prozent nach 48 Stunden. Diese Zahlen verdeutlichen die auch im
+internationalen Vergleich hohe Akzeptanz der CWA und deren voranschreitende 
+Integration in Versorgung und Testgeschehen.
+Die Bundesregierung wirbt bei den B&#252;rgerinnen und B&#252;rgern aktuell auch
+angesichts der neuen Gefahr durch die Verbreitung der Mutationen weiterhin f&#252;r 
+die Nutzung der CWA.
+Die Bundesregierung hat in diesem Zusammenhang neueste Preprints zur
+epidemiologischen Auswirkung von COVID-19-Tracing-Apps (hier am Beispiel 
+der britischen NHS-COVID-19-App) zur Kenntnis genommen, wonach jede 
+einprozentige Zunahme der Nutzer &#8211; sofern die Tracing App eine Nutzerbasis 
+von mindestens 15 Prozent der Bev&#246;lkerung hat (CWA: mehr als 31 Prozent) &#8211; 
+die Anzahl der Infektionen um 0,8 bis 2,3 Prozent verringern k&#246;nnte und die 
+Apps die Zeit zu verk&#252;rzen scheinen, die ben&#246;tigt wird, um Personen zu
+identifizieren, die unter Quarant&#228;ne gestellt werden m&#252;ssen, insbesondere f&#252;r
+Kontakte, die nicht zusammenleben.
+45. Wie m&#246;chte die Bundesregierung die Nutzungszahlen und die
+Meldequote der CWA signifikant erh&#246;hen?
+Mit vergangenen Updates wurde der Warnprozess vereinfacht, um den
+Nutzenden beim Ausl&#246;sen einer Warnung H&#252;rden zu nehmen. Dadurch hat sich die 
+Teilungsquote von positiven Testergebnissen von ca. 35 bis 40 Prozent bereits 
+deutlich erh&#246;ht. Derzeit liegt die Teilungsquote durchschnittlich bei 59 Prozent. 
+Dennoch strebt die Bundesregierung eine h&#246;here Teilungsquote der CWA-
+Nutzenden an. Die Bundesregierung evaluierte verschiedene L&#246;sungsans&#228;tze 
+zur Steigerung des Teilungsverhaltens. Die Freiwilligkeit der CWA-Nutzung 
+bleibt dabei jedoch zentrale Leitlinie.
+46. Teilt die Bundesregierung die Ansicht der fragestellenden Fraktion, dass 
+Vertrauen in die grundrechtskonforme Ausgestaltung der App zentral ist 
+und &#220;berlegungen wie die Implementierung einer GPS-Ortung zur
+Kontrolle des 15-km-Radius in Hotspots in h&#246;chstem Ma&#223;e kontraproduktiv 
+sind, und was unternimmt die Bundesregierung, um derartigen,
+unausgereiften Gedankenspielen zuk&#252;nftig fr&#252;hzeitig zu begegnen?
+Der auf Datensparsamkeit, dezentraler pseudonymisierter Datenspeicherung 
+und Bluetooth LE-Tracing beruhende kryptologische Ansatz bildet die
+technologische Grundlage der App und steht einem Geo-Tracking per GPS entgegen.
+47. Teilt die Bundesregierung die Ansicht der fragestellenden Fraktion, dass 
+es f&#252;r die Akzeptanz der App und deren Funktionalit&#228;t zentral ist,
+weitreichende &#196;nderungen bei der Warnung von Nutzerinnen und Nutzern 
+fr&#252;hzeitig zu kommunizieren, und sieht die Bundesregierung hier
+Verbesserungsbedarf, und wenn ja, welchen?
+Mit der Version 1.12 vom 10. Februar 2021 wurde ein Infoscreen in der CWA 
+eingef&#252;hrt, der neue App-Funktionalit&#228;ten in der App selbst bekanntgibt.
+Dar&#252;ber hinaus werden auf der Internetseite www.coronawarn.app Informationen zu 
+&#196;nderungen in der App bereitgestellt. Dort wird auch erl&#228;utert, falls
+&#196;nderungen einen Einfluss auf die Anzeige von Warnungen in der App haben k&#246;nnen.
+48. Wie viele aktive Nutzerinnen und Nutzer hat die App SafeVac 2.0 des 
+Paul-Ehrlich-Instituts (PEI)?
+Mit Stand 12. Februar 2021 nutzen 47 702 Personen die SafeVac-App.
+49. Wie werden Nutzerinnen und Nutzer auf die M&#246;glichkeit zur Teilnahme 
+an der Beobachtungsstudie des PEI zur Erhebung der Vertr&#228;glichkeit von 
+COVID-19-Impfstoffen aufmerksam gemacht?
+In Impfzentren wurden Flyer verteilt, die auf die SafeVac-2.0-App aufmerksam 
+machen. Ferner werden den Impfzentren in K&#252;rze Poster zur Verf&#252;gung
+gestellt. Die Internetseite des Paul-Ehrlich-Instituts und das Bulletin zur
+Pharmakovigilanz geben ebenfalls Informationen und Hinweise zur SafeVac-2.0-App. 
+Au&#223;erdem weist das Bundesministerium f&#252;r Gesundheit auf seinen Social 
+Media-Kan&#228;len auf die SafeVac-2.0-App hin und verweist auf die M&#246;glichkeit 
+f&#252;r B&#252;rgerinnen und B&#252;rger, hier die Vertr&#228;glichkeit von Impfungen zu
+dokumentieren. Auch auf der Seite zusammengegencorona.de wird mehrfach auf die 
+SafeVac-2.0-App hingewiesen.
+50. Welche Weiterentwicklungen der SafeVac-2.0-App sind derzeit geplant?
+Ein Versionsupdate 2.0.2 ist seit dem 10. Februar 2021 verf&#252;gbar, das zu einer 
+verbesserten Nutzerfreundlichkeit f&#252;hrt. Au&#223;erdem wurde eine Erhebung zu 
+Startproblemen bei &#228;lteren Android-Versionen implementiert, um m&#246;gliche 
+Probleme in diesem gezielt l&#246;sen zu k&#246;nnen.
+51. Wie hoch waren die Entwicklungskosten f&#252;r die SafeVac-2.0-App?
+Die Kosten f&#252;r die Implementierung der App betragen 215 000 Euro. Die
+Kosten f&#252;r die Weiterentwicklung liegen bei 206 000 Euro, was insbesondere die 
+fortlaufende Optimierung der Sicherheitsmechanismen, die Optimierung der 
+Usability und Nutzeranalyse, Wartung der Applikation, Hinzunahme weiterer 
+Impfstoffe mit unterschiedlichen Meldeschemata, Qualit&#228;tssicherung und die 
+Umsetzung weitest gehender Barrierefreiheit umfasst.
+Die Kosten sind noch nicht komplett abgerechnet, da die Arbeiten noch nicht 
+alle abgeschlossen sind.
+52. Wie hoch sind die laufenden Kosten f&#252;r den Betrieb der SafeVac-2.0-
+App?
+Die sogenannten Pflegekosten, also die Kosten f&#252;r Anpassungen durch
+Versionsupdates von Google und Apple sowie weitere Anpassungen, betragen 
+60 000 Euro pro Jahr.
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/26570 -
+Digitale Anwendungen zur Kontaktnachverfolgung in der Corona-Pandemie und zur Entlastung des Personals im &#246;ffentlichen Gesundheitsdienst</titel>
+    <datum>2021-03-11</datum>
+  </document>
+  

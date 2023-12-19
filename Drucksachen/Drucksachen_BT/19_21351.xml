@@ -1,0 +1,432 @@
+<document>
+    <id>243840</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/21351</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>e16177c520d59500ddef5dd88cb9bf20</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>263993</id>
+      <titel>Technische Umsetzung der Kassensicherungsverordnung</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium der Finanzen</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/213/1921351.pdf</pdf_url>
+      <id>243840</id>
+      <dokumentnummer>19/21351</dokumentnummer>
+      <datum>2020-07-29</datum>
+      <verteildatum>2020-10-07</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Antwort
+der Bundesregierung
+auf die Kleine Anfrage der Abgeordneten Katja Hessel, Christian D&#252;rr,
+Dr. Florian Toncar, weiterer Abgeordneter und der Fraktion der FDP
+&#8211; Drucksache 19/20314 &#8211;
+Technische Umsetzung der Kassensicherungsverordnung
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Um Manipulationen an elektronischen oder computergest&#252;tzten
+Kassensystemen sowie Registrierkassen und damit die Hinterziehung von Umsatzsteuern 
+zu verhindern, hat das Bundesfinanzministerium mit der
+Kassensicherungsverordnung vom 26. September 2017 (BGBl. 2017 Teil I Nr. 66; im Folgenden: 
+KassenSichV) die steuerrechtlichen Mitwirkungspflichten bei
+aufzeichnungspflichtigen Gesch&#228;ftsvorf&#228;llen i. S. d. &#167; 146a der Abgabenordnung (AO)
+pr&#228;zisiert.
+Die Rechtsverordnung legt unter anderem fest, welche elektronischen
+Aufzeichnungssysteme von der Vorschrift erfasst sind sowie die technischen
+Anforderungen an die Umsetzung der Anforderungen des &#167; 146a AO. Sie legt 
+ebenfalls die Anforderungen an den Beleg fest, der seit dem 1. Januar 2020 
+gem&#228;&#223; &#167; 146a Absatz 2 AO auszugeben ist.
+Nach &#167; 146a Absatz 1 Satz 1 AO i. V. m. &#167; 1 Satz 1 KassenSichV sind die 
+elektronischen Aufzeichnungssysteme und die digitalen Grundaufzeichnungen 
+ab dem 1. Januar 2020 durch eine zertifizierte technische
+Sicherheitseinrichtung (TSE) zu sch&#252;tzen. Zwar sind die notwendigen technischen Umr&#252;stungen 
+unverz&#252;glich vorzunehmen, das Bundesministerium der Finanzen (BMF) hat 
+aber eine Nichtbeanstandungsregelung bis zum 30. September 2020 erlassen 
+(BMF, 6. November 2019; Dokumentnummer 2019/0891800), da keine
+fl&#228;chendeckende Umr&#252;stung innerhalb der gesetzlichen Frist wegen versp&#228;teter 
+Verf&#252;gbarkeit von TSEs am Markt in der Praxis erfolgen konnte.
+Der Gesetzgeber hat in Artikel 97, &#167; 30 Absatz 3 des Einf&#252;hrungsgesetzes zur 
+Abgabenordnung (EGAO) vorgesehen, dass f&#252;r bestimmte Registrierkassen 
+ein &#220;bergangszeitraum bis zum 31. Dezember 2022 gelten soll. Unter diese 
+Regelung fallen solche Registrierkassen, die nach dem 25. November 2010 
+und vor dem 1. Januar 2020 angeschafft worden sind, den Anforderungen des 
+BMF-Schreibens vom 26. November 2010 (BStBl I 2010, 1342) gen&#252;gen, 
+aber bauartbedingt nicht aufr&#252;stbar sind.
+Hierbei herrscht bei den Unternehmern aktuell gro&#223;e Verunsicherung, die sich 
+in Zeiten von Corona und strengen Hygienevorschriften noch verst&#228;rkt haben 
+(https://www.rnd.de/politik/bonpflicht-in-corona-zeiten-fdp-spricht-von-wahn
+sinn-A7EDRJRZYZDODDAG7NTWYXKJIM.html; vom 6. Mai 2020, abge-
+Deutscher Bundestag Drucksache 19/21351
+19. Wahlperiode 29.07.2020
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums der Finanzen vom 28. Juli 2020 
+&#252;bermittelt.
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext.
+rufen am: 14. Mai 2020), da viele Unternehmen nun mit Liquidit&#228;tsproblemen 
+k&#228;mpfen und Investitionen in neue Kassensysteme nicht aufbringen k&#246;nnen.
+Die technischen Details der gesetzlichen Rahmenbedingungen werden vom 
+Bundesamt f&#252;r Sicherheit in der Informationstechnik ausgestaltet (Quelle: 
+https://www.bsi.bund.de/DE/Themen/DigitaleGesellschaft/Grundaufzeichnun
+gen/InformationenZertifizierung/InformationenZertifizierung_node.html).
+Die Bundesdruckerei bietet zwei Formen der TSE an: ein Hardware-Modul 
+und eine Cloud-Variante. Das Hardware-Modul besteht aus einer microSD-
+Karte, die mithilfe eines Adapters auch f&#252;r USB-Anschl&#252;sse oder SD-
+Anschl&#252;sse genutzt werden kann. Die cloudbasierte L&#246;sung wird in
+Zusammenarbeit mit der DF Deutsche Fiskal GmbH angeboten (Quelle: https://www.bun
+desdruckerei.de/de/Service-Support/Support/FAQ-Haeufig-gestellte-Fragen/Fi
+skalisierung). Die Zertifizierung dieser cloudbasierten L&#246;sung ist derzeit noch 
+nicht abgeschlossen (ebd.).
+Durch das Gesetz zum Schutz vor Manipulationen an digitalen
+Grundaufzeichnungen wurde ferner eine Mitteilungspflicht f&#252;r die eingesetzten
+elektronischen Aufzeichnungssysteme und TSEs an das zust&#228;ndige Finanzamt
+eingef&#252;hrt, um das Entdeckungsrisiko f&#252;r Steuerbetrug und Steuervermeidung 
+deutlich zu erh&#246;hen (siehe Bundestagsdrucksache 18/10667). Da durch die
+Finanzverwaltung bis zum Zeitpunkt der Mitteilungsverpflichtung am 1. Januar 
+2020 keine elektronische &#220;bermittlungsm&#246;glichkeit implementiert werden 
+konnte, ist ausweislich der Nichtbeanstandungsregelung vom 6. November 
+2019 von der Mitteilung nach &#167; 146a Absatz 4 AO bis zum Einsatz einer 
+elektronischen &#220;bermittlungsm&#246;glichkeit abzusehen. Der Zeitpunkt des
+Einsatzes der elektronischen &#220;bermittlungsm&#246;glichkeit soll im Bundessteuerblatt 
+Teil I gesondert bekannt gegeben werden. Aktuell ist eine elektronische
+&#220;bermittlung weiterhin nicht m&#246;glich. Ein Abgleich von &#252;bermittelten
+elektronischen Aufzeichnungssystemen mit tats&#228;chlich im Betrieb eingesetzten
+Systemen ist daher durch die Finanzverwaltung aktuell nicht m&#246;glich.
+Gem&#228;&#223; &#167; 2 Satz 2 Nummer 8 KassenSichV ist durch die TSE entweder die
+Seriennummer der TSE oder die Seriennummer des elektronischen
+Aufzeichnungssystems in einer Log-Datei zu protokollieren und auf dem Beleg
+festzuhalten (&#167; 6 Nummer 6 KassenSichV). Entscheidet sich der Steuerpflichtige f&#252;r 
+die Seriennummer der TSE, besteht f&#252;r die Finanzverwaltung wegen der
+fehlenden Seriennummer des elektronischen Aufzeichnungssystems &#8211; diese ist 
+gem&#228;&#223; &#167; 146a Absatz 4 Nummer 6 AO an das zust&#228;ndige Finanzamt zu
+melden &#8211; nur eine erschwerte M&#246;glichkeit, die Verwendung einer z. B. nicht
+gemeldeten &#8222;Zweit-Kasse&#8220; festzustellen. Verst&#228;rkt wird diese Problematik
+dadurch, dass das Mitteilungsverfahren keine Pflicht zur Meldung der &#8211; u. a. 
+durch den Kassenfachhandel &#8211; insgesamt an die Unternehmen ausgegebenen 
+hardwarebasierten TSEs bzw. der implementierten Cloud-TSEs umfasst.
+Dadurch kann nicht gepr&#252;ft werden, ob die Unternehmen eine vollst&#228;ndige
+Mitteilung aller erworbenen TSEs an das zust&#228;ndige Finanzamt eingereicht haben.
+&#167; 5 KassenSichV legt fest, dass das Bundesamt f&#252;r Sicherheit in der
+Informationstechnik (BSI) in Technischen Richtlinien und Schutzprofilen u. a. die
+technischen Anforderungen an die einheitliche digitale Schnittstelle festlegt. Die 
+Digitale Schnittstelle der Finanzverwaltung f&#252;r Kassensysteme (DSFinV-K) 
+enth&#228;lt Festlegungen zu Art und Umfang der im elektronischen
+Aufzeichnungssystem aufzuzeichnenden Gesch&#228;ftsvorf&#228;lle und anderen Vorg&#228;nge
+sowie eine Strukturierung der zugrundeliegenden steuerfachlichen Daten eines 
+Vorgangs. Gem&#228;&#223; AEAO zu &#167; 146a, Tz. 4.3 soll die Verwendung der DSFinV-
+K verpflichtend sein. Im Rahmen der Nichtbeanstandungsregelung vom 
+6. November 2019 wird festgelegt, dass die DSFinV-K bis zur
+Implementierung der TSE, l&#228;ngstens f&#252;r den Zeitraum der Nichtbeanstandung (30.
+September 2020), keine Anwendung findet.
+Ausweislich der Protokollerkl&#228;rung des BMF im Zuge des
+Verordnungsgebungsverfahrens (vgl. Beschlussempfehlung und Bericht des
+Finanzausschusses vom 31. Mai 2017 auf Bundestagsdrucksache 18/12581, S. 6) soll die
+Kassensicherungsverordnung &#252;berarbeitet werden. Urspr&#252;nglich war der
+Abschluss der Arbeiten f&#252;r das erste Halbjahr 2018 in Aussicht gestellt worden.
+&#8199;1. Sind der Bundesregierung Anhaltspunkte bekannt, wonach die
+notwendigen Zertifizierungen der cloudbasierten TSE der Deutschen Fiskal 
+GmbH bis zum 30. September 2020 nicht erteilt werden k&#246;nnen?
+Zu einzelnen sich in der Zertifizierung befindlichen cloud-basierten
+technischen Sicherheitseinrichtungen (cloud-basierte TSE) kann die Bundesregierung 
+keine Angaben machen. Cloud-basierte TSE bed&#252;rfen einer Zertifizierung nach 
+den vorhandenen Schutzprofilen (BSI-CC-PP-0105 (SMAERS), BSI-CC-
+PP-0104 (CSP) bzw. BSI-CC-PP-0111 (CSP-Light)) sowie der Technischen 
+Richtlinie BSI TR-03153. Liegen diese erforderlichen Zertifizierungen vor, 
+wird die Zertifizierung erteilt. Durch die Zertifizierung best&#228;tigt das Bundesamt 
+f&#252;r Sicherheit in der Informationstechnik (BSI), dass eine zertifizierte
+technische Sicherheitseinrichtung (TSE) zum Zeitpunkt der Zertifizierung den
+Vorgaben des BSI entsprochen hat.
+Mehrere Hersteller, die gr&#246;&#223;ten Teils erst einen Antrag auf Zertifizierung von 
+cloud-basierten TSE im vierten Quartal 2019 eingereicht haben, teilten mit, 
+dass die von Ihnen gestellten Zertifizierungsantr&#228;ge nicht bis zum 30.
+September 2020 abgeschlossen sein werden und daher voraussichtlich keine
+cloudbasierte TSE am Markt verf&#252;gbar sein werde.
+Zu den Zertifizierungsverfahren ist anzumerken, dass weder die
+Bundesregierung noch das BSI gro&#223;en Einfluss auf die Verfahrensdauer haben. Die Dauer 
+der Zertifizierung eines Produktes nach festgelegten Sicherheitsvorgaben ist 
+von vielen Faktoren abh&#228;ngig, die im Wesentlichen durch den Hersteller und 
+die von diesem beauftragte Pr&#252;fstelle beeinflusst sind. Die Laufzeit eines
+solchen Zertifizierungsverfahrens bis zu dessen Abschluss ist vor allem abh&#228;ngig 
+davon, wie lange der Antragsteller f&#252;r die Durchf&#252;hrung der
+Konformit&#228;tspr&#252;fung bei der Pr&#252;fstelle ben&#246;tigt. Nach Eingang des finalen Pr&#252;fberichts im BSI 
+erfolgt ein Verfahrensabschluss in der Regel innerhalb von drei Wochen.
+&#8199;2. Mit wie vielen Antr&#228;gen auf Bewilligung einer Erleichterung nach &#167; 148 
+AO rechnet die Bundesregierung im Falle einer nicht erfolgten
+Zertifizierung von cloudbasierter TSE-L&#246;sungen bis zum 30. September 2020?
+Sch&#228;tzungen, wie viele Antr&#228;ge auf Bewilligung einer Erleichterung nach 
+&#167; 148 AO bei den zust&#228;ndigen Finanzbeh&#246;rden eingereicht werden, sind der 
+Bundesregierung nicht m&#246;glich.
+Antr&#228;ge auf Bewilligung einer Erleichterung nach &#167; 148 AO sind bei den
+zust&#228;ndigen Finanzbeh&#246;rden zu stellen. Die Gr&#252;nde f&#252;r die fehlende Aufr&#252;stung 
+der elektronischen Aufzeichnungssysteme und das Vorliegen einer H&#228;rte im 
+Sinne des &#167; 148 AO und das Fehlen einer Beeintr&#228;chtigung der Besteuerung 
+sind vom Steuerpflichtigen aufgrund der bestehenden Regularien darzulegen 
+und durch entsprechende Nachweise zu belegen.
+&#8199;3. Plant die Bundesregierung grunds&#228;tzlich Ma&#223;nahmen (Gesetzentwurf, 
+BMF-Schreiben), um der Finanzverwaltung ein Instrumentarium zur 
+Einsch&#228;tzung und Ermessensaus&#252;bung an die Hand zu geben, wann vom 
+Vorliegen einer &#8222;unbilligen H&#228;rte&#8220; auszugehen ist?
+a) Wenn ja, welches?
+b) Wenn nein, warum nicht?
+Die Fragen 3 bis 3b werden gemeinsam beantwortet.
+Die Bundesregierung plant derzeit keine Vorgaben f&#252;r die Finanzbeh&#246;rden zur 
+Einsch&#228;tzung und Ermessensaus&#252;bung hinsichtlich des Vorliegens einer
+pers&#246;nlichen oder sachlichen H&#228;rte. Die Bewilligung einer Erleichterung nach 
+&#167; 148 AO setzt eine Einzelfallpr&#252;fung voraus. Die Gr&#252;nde f&#252;r die fehlende 
+Aufr&#252;stung der elektronischen Aufzeichnungssysteme und das Vorliegen einer 
+H&#228;rte im Sinne des &#167; 148 AO sind vom Steuerpflichtigen darzulegen und durch 
+entsprechende Nachweise zu belegen.
+&#8199;4. Plant die Bundesregierung, den &#220;bergangszeitraum gem&#228;&#223; Artikel 97, 
+&#167; 30 Absatz 3 EGAO &#252;ber den 31. Dezember 2022 hinaus angesichts der 
+Corona-Krise zu verl&#228;ngern?
+a) Wenn ja, bis wann?
+b) Wenn nein, warum nicht?
+Die Fragen 4 bis 4b werden gemeinsam beantwortet.
+Eine Verl&#228;ngerung des &#220;bergangszeitraums gem&#228;&#223; Artikel 97 &#167; 30 Absatz 3 
+EGAO ist derzeit nicht beabsichtigt. Artikel 97 &#167; 30 Absatz 3 EGAO wurde f&#252;r 
+die Unternehmer eingef&#252;hrt, die sich im Hinblick auf das BMF-Schreiben vom 
+26. November 2010, IV A 4 &#8211; S 0316/08/10004-07, eine Registrierkasse nach 
+dem 25. November 2010 und vor dem 1. Januar 2020 angeschafft haben und 
+diese nicht mit einer TSE aufr&#252;stbar ist. Hierbei handelt es sich um eine zeitlich 
+begrenzte Ausnahme f&#252;r nicht aufr&#252;stbare Registrierkassen, unter Beachtung 
+der Abschreibungsdauer f&#252;r Registrierkassen.
+Das Gesetz zum Schutz vor Manipulationen an digitalen Grundaufzeichnungen 
+vom 22. Dezember 2016 (BGBl. S. 3152), mit dem &#167; 146a AO eingef&#252;hrt und 
+die zeitlich begrenzte &#220;bergangsregelung nach Artikel 97 &#167; 30 Absatz 3 EGAO 
+geschaffen wurde, ist ein wichtiger Schritt, um Ver&#228;nderungen oder
+L&#246;schungen von digitalen Grundaufzeichnungen zu verhindern und damit die
+Gleichm&#228;&#223;igkeit der Besteuerung zu sichern.
+&#8199;5. Plant die Bundesregierung vor dem Hintergrund, dass es vielen
+Unternehmen coronabedingt an Finanzkraft fehlt, den laufenden Betrieb
+aufrechtzuerhalten, finanzielle Hilfe in Form von Subventionen bei der
+Umsetzung des Gesetzes und der Anschaffung der ben&#246;tigten technischen 
+Ger&#228;te sowie bei den erheblichen Kosten der Zertifizierung einer eigenen 
+TSE zu leisten?
+Wenn nein, warum nicht?
+Die Bundesregierung hat zahlreiche Ma&#223;nahmen zur Liquidit&#228;tssicherung in 
+den Unternehmen sowie kurzfristig wirkende konjunkturelle Ma&#223;nahmen f&#252;r 
+eine rasche Erholung der Wirtschaft ergriffen. Im steuerlichen Bereich wurden 
+die Ma&#223;nahmen mit dem Ersten und Zweiten Corona-Steuerhilfegesetz vom 
+19. Juni 2020(BGBl. I S. 1385) und dem Zweiten Corona-Steuerhilfegesetz 
+vom 29. Juni 2020 (BGBl. I S. 1512) umgesetzt.
+Um die Kosten und den Aufwand f&#252;r Um- und Nachr&#252;stung aller Beteiligten 
+gering zu halten, wurden Erleichterungen bei der Umsetzung der Regelung
+geschaffen. Beispielsweise k&#246;nnen mehrere Kassen an eine TSE angebunden oder 
+bereits benutzte TSEs k&#246;nnen an andere Anwender weitergeben bzw. verkauft 
+werden. Finanzielle Hilfen der Um- oder Nachr&#252;stung sind nicht vorgesehen.
+Die derzeitigen Kosten f&#252;r eine TSE spiegeln die gerade abgeschlossenen
+Zertifizierungsverfahren und damit die Kosten der erstmaligen Markteinf&#252;hrung
+wider. Die Bundesregierung kann keinen Einfluss auf die Preisentwicklung der 
+Kassenumr&#252;stung in der Wirtschaft nehmen, ist jedoch zuversichtlich, dass die 
+Kosten mit weiteren abgeschlossenen Verfahren sinken werden. Nach
+Mitteilung von TSE-Anbietern hat es aufgrund des BMF-Scheibens einer
+Nichtbeanstandungsregelung vom 6. November 2019 (BStBl. I S. 1010) und der
+entsprechenden Bevorratung der TSE-Anbieter zum Jahresanfang zwischenzeitlich
+eine Preissenkung gegeben.
+Um eine m&#246;glichst effiziente Sicherheitszertifizierung zu erm&#246;glichen und
+damit mittelbar die Aufw&#228;nde f&#252;r die Erstellung und Produktion einer TSE gering 
+zu halten, hat das BSI im Juli 2018 die Ausschreibung des Projektes ZERSI-
+KA* angesto&#223;en. Die Kosten f&#252;r dieses Projekt hat das BSI getragen. Weitere 
+Kostentragungen sind nicht vorgesehen.
+&#8199;6. Hat die Bundesregierung Kenntnisse, ob die Secure Module Application 
+for Electronic Record-keeping Systems-Komponente (SMAERS-
+Komponente) der TSE im Rechenzentrum des Cloud-Kassenherstellers
+betrieben werden?
+Wenn ja, sind daf&#252;r weitere Auflagen f&#252;r den Kassenhersteller bzw. das 
+Rechenzentrum verbunden?
+Elektronische Erfassungsger&#228;te sind dahingehend zu unterscheiden, ob sie 
+selbst ein (Teil eines) Aufzeichnungssystem(s) oder als Eingabeger&#228;t zu
+qualifizieren sind.
+Bei Eingabeger&#228;ten, bei denen die Funktionen des Ger&#228;ts nicht &#252;ber die
+Funktionen z. B. einer Tastatur hinausgehen und die erfassten Daten unmittelbar nach 
+Erfassung an ein mit einer TSE verbundenes Aufzeichnungssystem &#252;bergeben 
+werden, muss sich die SMAERS-Komponente in der Einsatzumgebung des 
+Aufzeichnungssystems befinden, auf dem die kassenspezifische Software l&#228;uft. 
+Bei der Einsatzumgebung kann es sich um das Rechenzentrum des Cloud-
+Kassenanbieters handeln.
+Bei Ger&#228;ten, die offline ohne Anbindung an eine andere zentrale, die
+Aufzeichnungen f&#252;hrende Kasse betrieben werden k&#246;nnen, handelt es sich um
+selbstst&#228;ndige Aufzeichnungssysteme. In diesen F&#228;llen muss sich bei einer
+fernverbundenen TSE aufgrund der Vorgaben des BSI ein Teil des Sicherheitsmoduls 
+(die Sicherheitsmodulanwendung SMAERS) sich vor Ort in der
+Einsatzumgebung des elektronischen Aufzeichnungssystems befinden.
+Die Sicherheitsanforderungen f&#252;r die SMAERS-Komponente sind unabh&#228;ngig 
+von der konkreten Ausgestaltung der TSE in den Schutzprofilen des BSI
+definiert.
+* ZERSIKA = Zertifizierung eines Sicherheitsmoduls f&#252;r Registrierkassen und weitere Aufzeichnungssysteme
+&#8199;7. Hat die Bundesregierung Kenntnisse &#252;ber den Stand der Anpassung der 
+Kassensysteme in ihren eigenen Institutionen?
+a) Inwieweit ist der Abdeckungsgrad bereits erf&#252;llt?
+b) Ist die komplette Abdeckung bis zum 30. September 2020 bzw. 
+31. Dezember 2022 realistisch?
+c) Hat die Bundesregierung Kenntnisse &#252;ber die bereits erfolgten
+Anpassungen der Kassensysteme in den Ministerien und Liegenschaften 
+der Bundesregierung?
+Die Fragen 7 bis 7c werden gemeinsam beantwortet.
+Die Bundesregierung hat keine Erkenntnis dar&#252;ber, inwieweit Kassensysteme, 
+die in den Bundesministerien von Dritten betrieben werden, mit TSE
+ausgestattet sind. Lediglich im Falle einzelner Kantinen ist bekannt, dass eine
+Umstellung bereits erfolgt ist.
+Die Bundesanstalt f&#252;r Immobilienaufgaben (BIMA), als Vermieter der
+jeweiligen Kantinenp&#228;chter, wurde vom Bundesministerium der Finanzen gebeten, die 
+Kantinenp&#228;chter auf die neuen gesetzlichen Verpflichtungen hinzuweisen.
+8. Hat die Bundesregierung angesichts der mit der geplanten
+Mehrwertsteuersenkung notwendigen Kassenumr&#252;stung Sch&#228;tzungen dar&#252;ber, wie hoch 
+der Erf&#252;llungsaufwand f&#252;r diese Umr&#252;stung ist?
+a) Wie hoch sind die Kosten f&#252;r die Unternehmen?
+Der Bundesregierung liegen hierzu keine Erkenntnisse vor.
+b) Wie bewertet die Bundesregierung die M&#246;glichkeit, den Umsatz in der 
+Gastronomie an der Kasse allgemein als &#8222;Au&#223;er-Haus&#8220;-Leistung zu 
+registrieren?
+Ein Au&#223;erhausverkauf f&#252;hrt &#8211; mit Ausnahme des Zeitraums 1. Juli 2020 bis 
+30. Juni 2021 &#8211; zu einem anderen Steuersatz als eine
+Gastronomiedienstleistung. Umsatzsteuerrechtlich ist entscheidend, dass in der Rechnung der
+zutreffende Steuersatz ausgewiesen wird. Die technischen Vorg&#228;nge, aus denen die 
+korrekte Rechnung resultiert, sind hingegen unerheblich.
+9. Wann ist damit zu rechnen, dass die Arbeiten der L&#228;nder im KONSENS-
+Verfahren (inkl. der Erstellung einer elektronischen
+&#220;bermittlungsm&#246;glichkeit) abgeschlossen werden und damit eine elektronische
+&#220;bermittlungsm&#246;glichkeit zur Verf&#252;gung steht (vgl. Bundestagsdrucksache 
+19/14530)?
+Die Erhebung der fachlichen Anforderungen bez&#252;glich der Mitteilungspflicht 
+nach &#167; 146a AO wurde l&#228;nder&#252;bergreifend abgestimmt und liegt seit Ende
+Oktober 2019 vor. Nach den derzeitigen Planungen soll die Entwicklung bis Ende 
+Oktober 2020 abgeschlossen sein. Vor der Bereitstellung zum Einsatz in den 
+&#252;bernehmenden L&#228;ndern ist eine Testphase erforderlich. F&#252;r die &#220;bernahme in 
+den L&#228;ndern sind die jeweiligen L&#228;nder zust&#228;ndig. Nach dem KONSENS-
+Gesetz hat die &#220;bernahme aber innerhalb eines Jahres zu erfolgen.
+10. Welche Gr&#252;nde sprechen aus Sicht der Bundesregierung gegen eine
+Verl&#228;ngerung der Nichtbeanstandungsregelung zumindest bis zur
+Zurverf&#252;gungstellung der elektronischen &#220;bermittlungsm&#246;glichkeit der
+eingesetzten elektronischen Aufzeichnungssysteme gem&#228;&#223; &#167; 146a Abs. 4 AO?
+Die Nichtbeanstandungsregelung war notwendig, da die ersten vorl&#228;ufigen
+Zertifizierungen zum 19. Dezember 2019 erfolgt sind und es damit zum 1. Januar 
+2020 faktisch unm&#246;glich war, fl&#228;chendeckend die elektronischen
+Aufzeichnungssysteme mit zertifizierten technischen Sicherheitseinrichtungen
+auszustatten. Erfreulicherweise bieten mittlerweile bereits vier TSE-Hersteller
+zertifizierte TSE auf dem Markt an, f&#252;r welche nach Informationen der
+Bundesregierung keine Lieferschwierigkeiten aufgrund der Auswirkungen der Corona-
+Krise bestehen. Die ausreichend vorgehaltene Ware ist ab Lager in Deutschland 
+sofort lieferbar.
+Eine Verl&#228;ngerung der Nichtbeanstandungsregelung &#252;ber den 30. September 
+2020 hinaus ist daher nach derzeitiger Lage nicht beabsichtigt. Denn ein
+ordnungsm&#228;&#223;iger Gesch&#228;ftsbetrieb erfordert seit dem 1. Januar 2020 auch, dass
+jedes eingesetzte elektronische Aufzeichnungssystem im Sinne des &#167; 146a
+Absatz 1 Satz 1 AO i. V. m. &#167; 1 Satz 1 KassenSichV sowie die damit zu f&#252;hrenden 
+digitalen Aufzeichnungen durch eine TSE zu sch&#252;tzen sind. Mit der
+bestehenden Nichtbeanstandungsregelung bis 30. September 2020 (BMF-Schreiben 
+vom 6. November 2019) wurde die Frist f&#252;r die Anbindung von
+Kassensystemen an eine TSE lediglich verl&#228;ngert, bis eine fl&#228;chendeckende Aufr&#252;stung der 
+elektronischen Aufzeichnungssysteme m&#246;glich ist. In dem BMF-Schreiben 
+wurde im Hinblick darauf schon hingewiesen, dass die technisch notwendigen 
+Anpassungen und Aufr&#252;stungen umgehend durchzuf&#252;hren und die rechtlichen 
+Voraussetzungen unverz&#252;glich zu erf&#252;llen sind.
+Der Einsatz einer zertifizierten technischen Sicherheitseinrichtung ist zudem 
+unabh&#228;ngig von der Zurverf&#252;gungstellung der elektronischen
+&#220;bermittlungsm&#246;glichkeit nach &#167; 146a Absatz 4 AO.
+11. Ist das Ziel des Gesetzes zum Schutz vor Manipulationen an digitalen 
+Grundaufzeichnungen, die Erh&#246;hung des Entdeckungsrisikos f&#252;r
+Steuerbetrug und Steuervermeidung, bei der derzeitigen Ausgestaltung der
+Mitteilungspflicht im Hinblick auf die zu meldende Seriennummer (&#167; 146a 
+Absatz 4 Nummer 6 AO sieht die Mitteilung lediglich des elektronischen 
+Aufzeichnungssystems vor) sowie einer fehlenden
+Mitteilungsverpflichtung, welche eine Zuordnung der insgesamt ausgegebenen
+hardwarebasierten TSEs bzw. installierten Cloud-TSEs zu den jeweiligen
+Unternehmen erm&#246;glicht, aus Sicht der Bundesregierung zuk&#252;nftig erreichbar?
+Durch den verpflichtenden Einsatz der TSE sowie der M&#246;glichkeit von Kassen-
+Nachschauen und Testk&#228;ufen ist das Entdeckungsrisiko schon zum derzeitigen 
+Zeitpunkt signifikant erh&#246;ht worden.
+Im Mitteilungsverfahren nach &#167; 146a Absatz 4 Nummer 3 AO ist auch die Art 
+der zertifizierten technischen Sicherheitseinrichtung mitzuteilen. Die Art der 
+zertifizierten technischen Sicherheitseinrichtung setzt sich aus der
+Zertifizierungs-ID sowie der Seriennummer der TSE zusammen.
+Durch die zuk&#252;nftige M&#246;glichkeit der Verkn&#252;pfung elektronischer
+Aufzeichnungssysteme und TSE mit einem Steuerpflichtigen kann dadurch eine bessere 
+Risikofilterung erfolgen und damit das Entdeckungsrisiko noch weiter erh&#246;ht 
+werden.
+12. Auf welcher gesetzlichen Grundlage wird durch die Finanzverwaltung 
+das Vorhandensein der Digitalen Schnittstelle der Finanzverwaltung f&#252;r 
+Kassensysteme in den elektronischen Aufzeichnungssystemen i. S. d. 
+&#167; 146a Absatz 1 Satz 1 AO i. V. m. &#167; 1 Satz 1 KassenSichV gefordert?
+Ist z. B. eine ausdr&#252;ckliche Regelung im Rahmen der Neufassung der 
+KassenSichV vor dem 30. September 2020 geplant?
+Die gesetzliche Grundlage der einheitlichen digitalen Schnittstelle ist in &#167; 4 
+KassenSichV geregelt. Die einheitliche digitale Schnittstelle ist eine
+Datensatzbeschreibung f&#252;r den standardisierten Datenexport aus dem Speichermedium 
+nach &#167; 3 Absatz 1 KassenSichV und dem elektronischen
+Aufbewahrungssystem zur &#220;bergabe an den mit der Kassen-Nachschau oder Au&#223;enpr&#252;fung
+betrauten Amtstr&#228;ger der Finanzbeh&#246;rde. Eine &#196;nderung des &#167; 4 KassenSichV ist 
+nicht geplant.
+13. Plant die Bundesregierung Ma&#223;nahmen (Gesetzentwurf, BMF-
+Schreiben), um sicherzustellen, dass die Vorgaben der Datenschutz-
+Grundverordnung mit der elektronischen Entgegennahme von Kassenbelegen (vgl. 
+&#196;nderung des Anwendungserlasses zu &#167; 146a vom 28. Mai 2020, Tz. 6.6 
+des AEAO zu &#167; 146a) nicht verletzt werden?
+a) Wenn ja, welche?
+Wie genau sind die Bestimmungen ausgestaltet, die den Datenschutz 
+hier gew&#228;hrleisten sollen?
+b) Wenn nein, warum nicht?
+Die Fragen 13 bis 13b werden gemeinsam beantwortet.
+Der Anwendungserlass zu &#167; 146a erm&#246;glicht, dass ein elektronischer Beleg zur 
+Verf&#252;gung gestellt werden kann. Der Steuerpflichtige, der nach Abschluss des 
+Rechtsgesch&#228;fts den Beleg erstellt, ist verpflichtet, die Voraussetzungen der 
+DSGVO einzuhalten. Da die Vorgaben der DSGVO ma&#223;geblich sind, sind
+keine Ma&#223;nahmen der Bundesregierung geplant.
+In den Pflichtangaben des &#167; 6 KassenSichV sind keine pers&#246;nlichen Angaben 
+des Kunden enthalten, die die Vorgaben der DSGVO verletzen k&#246;nnen. Enth&#228;lt 
+der Beleg weitere Angaben, die &#252;ber die Anforderungen des &#167; 6 KassenSichV 
+hinausgehen, ist der Steuerpflichtige selbst daf&#252;r verantwortlich, die Vorgaben 
+der DSGVO zu beachten und einzuhalten.
+Dar&#252;ber hinaus bieten mehrere Entwickler von digitalen Verfahren f&#252;r die
+Belegausgabe auch Varianten zur &#220;bermittlung des elektronischen Belegs an, die 
+nach deren Angaben vollkommen anonym funktionieren k&#246;nnen, wenn der 
+Kunde das w&#252;nscht. In diesen F&#228;llen kann eine Konformit&#228;t mit der DSGVO 
+durch den Steuerpflichtigen ohne Probleme sichergestellt werden.
+14. Hat die Bundesregierung Sch&#228;tzungen dar&#252;ber, in welcher H&#246;he Steuern 
+bei offenen Ladenkassen hinterzogen werden?
+Wenn ja, welche?
+15. Verf&#252;gt die Bundesregierung &#252;ber Sch&#228;tzungen, in welchem Umfang 
+nach der Einf&#252;hrung der Belegausgabepflicht ab dem 1. Januar 2020 
+Steuerhinterziehung verhindert werden kann?
+a) Wenn ja, welche zus&#228;tzliche Steuereinnahmen erwartet die
+Bundesregierung?
+b) Wenn nein, welche Daten werden herangezogen, um die Wirksamkeit 
+des Gesetzes zu evaluieren?
+Die Fragen 14 und 15 werden gemeinsam beantwortet.
+Der Bundesregierung sind Sch&#228;tzungen etwaiger Steuerverluste durch
+Steuerhinterziehung insbesondere wegen des nicht &#252;berblickbaren Dunkelfelds nicht 
+m&#246;glich. Die Bundesregierung verf&#252;gt daher auch nicht &#252;ber Sch&#228;tzungen, in 
+welcher H&#246;he Steuern bei offenen Ladenkassen hinterzogen werden und in 
+welchem Umfang die ab dem 1. Januar 2020 geltende Belegausgabepflicht 
+Steuerhinterziehung verhindert hat. Im Rahmen des Gesetzgebungsverfahrens 
+wurde jedoch seitens der L&#228;nder immer wieder vorgetragen, dass j&#228;hrliche 
+Steuerausf&#228;lle von rund 10 Mrd. Euro durch Manipulationen an digitalen 
+Grundaufzeichnungen bestehen w&#252;rden.
+Die Evaluierung des Gesetzes wird anhand von Daten erfolgen, die die L&#228;nder 
+im Bereich der Kassen-Nachschau erheben. Zudem soll eine Abfrage zu
+verschiedenen Aspekten bei den Wirtschaftsbeteiligten durchgef&#252;hrt werden.
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/20314 -
+Technische Umsetzung der Kassensicherungsverordnung</titel>
+    <datum>2020-07-29</datum>
+  </document>
+  

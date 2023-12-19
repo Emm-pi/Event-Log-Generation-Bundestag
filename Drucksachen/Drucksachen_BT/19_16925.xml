@@ -1,0 +1,2331 @@
+<document>
+    <id>238309</id>
+    <drucksachetyp>Unterrichtung</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>2</vorgangsbezug_anzahl>
+    <dokumentnummer>19/16925</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>2611f1fa67b9c42b437bc9eb3531c548</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>258519</id>
+      <titel>Zweiter Bericht der Bundesregierung &#252;ber die Erfahrungen mit der Pr&#228;implantationsdiagnostik</titel>
+      <vorgangstyp>Bericht, Gutachten, Programm</vorgangstyp>
+    </vorgangsbezug>
+    <vorgangsbezug>
+      <id>285908</id>
+      <titel>Zweiter Bericht der Bundesregierung &#252;ber die Erfahrungen mit der Pr&#228;implantationsdiagnostik</titel>
+      <vorgangstyp>Bericht, Gutachten, Programm</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium f&#252;r Gesundheit</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/169/1916925.pdf</pdf_url>
+      <id>238309</id>
+      <dokumentnummer>19/16925</dokumentnummer>
+      <datum>2020-01-24</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Unterrichtung</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Deutscher Bundestag Drucksache 19/16925
+19. Wahlperiode 24.01.2020
+Unterrichtung 
+durch die Bundesregierung
+Zweiter Bericht der Bundesregierung &#252;ber die Erfahrungen mit 
+der Pr&#228;implantationsdiagnostik
+Inhaltsverzeichnis 
+Seite
+Vorwort ......................................................................................................... 3
+I. Gesetzliche Grundlagen und Berichtsauftrag .............................. 4
+II. Umsetzungsstand in den L&#228;ndern ................................................. 5
+2.1. Ethikkommissionen f&#252;r PID .............................................................. 5
+2.1.1. Bewertung......................................................................................... 6
+2.2. Zulassung von PID-Zentren .............................................................. 6
+2.2.1. PID-Zentren im Jahr 2015................................................................. 7
+2.2.2. PID-Zentren im Jahr 2016................................................................. 9
+2.2.3. PID-Zentren im Jahr 2017................................................................. 11 
+2.2.4. PID-Zentren im Jahr 2018................................................................. 13 
+2.2.5. PID-Zentren im Jahr 2019 (bis einschlie&#223;lich September) ............... 14 
+2.2.6. Bewertung......................................................................................... 14 
+III. Dokumentation der im Rahmen einer PID durchgef&#252;hrten
+Ma&#223;nahmen..................................................................................... 15 
+3.1. Meldebogen ...................................................................................... 15 
+3.2. Daten zur PID f&#252;r das Kalenderjahr 2015 ......................................... 16 
+3.2.1. Durchgef&#252;hrte PID-Diagnostiken im Jahr 2015................................ 17 
+3.2.2. Abgelehnte PID-Diagnostik im Jahr 2015 ........................................ 19 
+3.3. Daten zur PID f&#252;r das f&#252;r das Kalenderjahr 2016 ............................. 19 
+3.3.1. Durchgef&#252;hrte PID-Diagnostiken im Jahr 2016................................ 20 
+Zugeleitet mit Schreiben des Bundesministeriums f&#252;r Gesundheit vom 23. Januar 2020 gem&#228;&#223; &#167; 3a Absatz 6 
+Satz 1 des Embryonenschutzgesetzes.
+Seite
+3.3.2. Abgelehnte PID-Diagnostik im Jahr 2016 ........................................ 21 
+3.4. Daten zur PID f&#252;r das Kalenderjahr 2017 ......................................... 23 
+3.4.1. Durchgef&#252;hrte PID-Diagnostiken im Jahr 2017................................ 23 
+3.4.2. Abgelehnte PID-Diagnostik im Jahr 2017 ........................................ 26 
+3.5. Von den PID-Zentren gemeldete Daten f&#252;r das 
+Kalenderjahr 2018 ............................................................................. 27 
+3.5.1. Durchgef&#252;hrte PID-Diagnostiken im Jahr 2018................................ 29 
+3.5.2. Abgelehnte PID-Diagnostik im Jahr 2018 ........................................ 30 
+3.5.3. Bewertung......................................................................................... 31 
+IV. Gesetzliche &#196;nderungen, Rechtsprechung und Literatur ........... 33
+4.1. Gesetzliche &#196;nderungen ................................................................... 33 
+4.2. Rechtsprechung ................................................................................. 33 
+4.3. Literatur ............................................................................................ 34 
+V. Auswertung...................................................................................... 36
+Vorwort
+In &#167; 3a Absatz 6 Satz 1 des Embryonenschutzgesetzes (ESchG) ist vorgesehen, dass die Bundesregierung alle
+vier Jahre einen Bericht &#252;ber die Erfahrungen mit der Pr&#228;implantationsdiagnostik (PID) erstellt. Der
+Erfahrungsbericht der Bundesregierung enth&#228;lt auf der Grundlage der zentralen Dokumentation und anonymisierter
+Daten die Zahl der j&#228;hrlich durchgef&#252;hrten Ma&#223;nahmen sowie eine wissenschaftliche Auswertung. Die Daten
+werden aus den f&#252;r die Durchf&#252;hrung der PID zugelassenen Zentren (PID-Zentren) an das Paul-Ehrlich-Institut
+(PEI), Bundesinstitut f&#252;r Impfstoffe und biomedizinische Arzneimittel, gemeldet. Die Meldepflicht der PID-
+Zentren erfasst keine einzelnen Diagnosen, die Anlass f&#252;r den Antrag f&#252;r die Durchf&#252;hrung einer PID waren,
+sondern die beiden Indikationsbereiche, wie sie in &#167; 3a Absatz 2 ESchG festgelegt und in &#167; 8 Absatz 2 Nummer 
+4 Pr&#228;implantationsdiagnostikverordnung (PIDV) spezifiziert wurden. Das PEI hat gem&#228;&#223; &#167; 9 Absatz 3 PIDV 
+dem Bundesministerium f&#252;r Gesundheit (BMG) die von den zulassenden Beh&#246;rden bzw. von den PID-Zentren 
+gemeldeten Daten &#252;bermittelt. Im Erfahrungsbericht werden ausschlie&#223;lich die vom PEI &#252;bermittelten Daten 
+zur PID nach Jahren aufgelistet. Die Anzahl der PID-Zentren und der Kooperationen sind sowohl in
+tabellarischer als auch in graphischer Form nach Jahren und Standorten &#252;bersichtlich aufgef&#252;hrt.
+Erg&#228;nzend hat der Deutsche Bundestag das B&#252;ro f&#252;r Technikfolgen-Absch&#228;tzung beim Deutschen Bundestag 
+(TAB) damit beauftragt, in einem Monitoringprojekt einen konzentrierten &#220;berblick &#252;ber den Stand der
+zugrundeliegenden wissenschaftlich-technischen Entwicklungen, die Anwendung, die sozialwissenschaftliche
+und gesellschaftliche Debatte sowie wichtige Zukunftsfragen der Pr&#228;nataldiagnostik und PID zu erarbeiten.
+Der TAB-Arbeitsbericht Nummer 182 &#8222;Aktueller Stand und Entwicklungen der Pr&#228;implantationsdiagnostik&#8220; 
+ist auf der Homepage des TAB ver&#246;ffentlicht (https://www.tab-beim-bundestag.de/de/pdf/publikationen/
+berichte/TAB-Arbeitsbericht-ab182.pdf) und liegt auch als Bundestagsdrucksache 19/15000 vor 
+(http://dip21.bundestag.de/dip21/btd/19/150/1915000.pdf). Der TAB-Arbeitsbericht Nummer 182 beruht auf
+einem Gutachten und ist literatur- und interviewbasiert erarbeitet. An geeigneten Stellen wird im hier
+vorliegenden Erfahrungsbericht auf den TAB-Arbeitsbericht Nummer 182 verwiesen.
+I. Gesetzliche Grundlagen und Berichtsauftrag 
+Durch das am 8. Dezember 2011 in Kraft getretene Pr&#228;implantationsdiagnostikgesetz (Pr&#228;impG) vom 21.
+November 2011 (BGBl. I S. 2228) wurde das ESchG ge&#228;ndert und u. a. mit  &#167; 3a Absatz 1 ESchG ein
+grunds&#228;tzliches Verbot der Pr&#228;implantationsdiagnostik (PID) eingef&#252;gt. Eine PID wird in &#167; 3a Absatz 1 ESchG als
+genetische Untersuchung von Zellen eines Embryos in vitro vor seinem intrauterinen Transfer definiert. 
+In &#167; 3a Absatz 2 ESchG sind zwei Ausnahmen vom grunds&#228;tzlichen Verbot der PID geregelt. Besteht auf Grund
+der genetischen Disposition der Frau, von der die Eizelle stammt, oder des Mannes, von dem die Samenzelle
+stammt, oder von beiden f&#252;r deren Nachkommen das hohe Risiko einer schwerwiegenden Erbkrankheit, handelt
+nicht rechtswidrig, wer zur Herbeif&#252;hrung einer Schwangerschaft mit schriftlicher Einwilligung der Frau, von
+der die Eizelle stammt, nach dem allgemein anerkannten Stand der medizinischen Wissenschaft und Technik 
+Zellen des Embryos in vitro vor dem intrauterinen Transfer auf die Gefahr dieser Krankheit genetisch untersucht
+(&#167; 3a Absatz 2 Satz 1 ESchG). Nicht rechtswidrig handelt auch, wer eine PID mit schriftlicher Einwilligung der
+Frau, von der die Eizelle stammt, zur Feststellung einer schwerwiegenden Sch&#228;digung des Embryos vornimmt, 
+die mit hoher Wahrscheinlichkeit zu einer Tot- oder Fehlgeburt f&#252;hren wird (&#167; 3a Absatz 2 Satz 2 ESchG). 
+Weitere gesetzliche Voraussetzungen f&#252;r die Vornahme einer PID sind die Aufkl&#228;rung und Beratung der Frau
+vor Einholung ihrer notwendigen schriftlichen Einwilligung zu einer PID, die zustimmende Bewertung einer
+interdisziplin&#228;r zusammengesetzten Ethikkommission f&#252;r PID sowie die Durchf&#252;hrung durch einen hierf&#252;r
+qualifizierten Arzt in einem PID&#8211;Zentrum (&#167; 3a Absatz 3 Satz 1 ESchG). 
+Auf der Grundlage der Verordnungserm&#228;chtigung in &#167; 3a Absatz 3 Satz 3 ESchG hat die Bundesregierung die
+PIDV erlassen, die am 1. Februar 2014 in Kraft getreten ist. In dieser Verordnung sind im Wesentlichen die
+Voraussetzungen f&#252;r die Zulassung von Zentren, in denen die PID durchgef&#252;hrt werden darf, f&#252;r die Einrichtung
+von Ethikkommissionen f&#252;r PID, zur Einrichtung und Ausgestaltung der Zentralstelle zur Dokumentation von
+im Rahmen einer PID durchgef&#252;hrten Ma&#223;nahmen beim Paul-Ehrlich-Institut (PEI) und zum Meldeverfahren 
+festgelegt. 
+&#167; 3a Absatz 6 Satz 1 ESchG sieht vor, dass die Bundesregierung alle vier Jahre einen Bericht &#252;ber die
+Erfahrungen mit der PID erstellt. Der Erfahrungsbericht der Bundesregierung enth&#228;lt auf der Grundlage der zentralen
+Dokumentation und anonymisierter Daten die Zahl der j&#228;hrlich durchgef&#252;hrten Ma&#223;nahmen sowie eine
+wissenschaftliche Auswertung (&#167; 3a Absatz 6 Satz 2 ESchG).
+Mit dem Erfahrungsbericht zur PID soll dem Gesetzgeber eine verl&#228;ssliche Grundlage f&#252;r eine &#220;berpr&#252;fung der 
+Praxis und f&#252;r eine verl&#228;ssliche Einsch&#228;tzung der Konsequenzen einer Anerkennung der PID zur Verf&#252;gung 
+gestellt werden (Bundestagsdrucksache 17/5451, S. 9).
+Der Erste Bericht der Bundesregierung &#252;ber die Erfahrungen mit der Pr&#228;implantationsdiagnostik
+(Bundestagsdrucksache 18/7020) wurde Ende 2015 &#252;bermittelt und am 21. M&#228;rz 2018 im federf&#252;hrenden Ausschuss f&#252;r 
+Gesundheit des Deutschen Bundestages beraten.
+II. Umsetzungsstand in den L&#228;ndern 
+2.1. Ethikkommissionen f&#252;r PID 
+Die L&#228;nder richten gem&#228;&#223; &#167; 4 Absatz 1 Satz 1 PIDV unabh&#228;ngige interdisziplin&#228;r zusammengesetzte
+Ethikkommissionen f&#252;r Pr&#228;implantationsdiagnostik (Ethikkommissionen) f&#252;r die PID-Zentren ein. Nach &#167; 4
+Absatz 1 Satz 2 PIDV k&#246;nnen die L&#228;nder auch gemeinsame Ethikkommissionen einrichten. Die notwendigen
+landesrechtlichen Regelungen zur PID wurden erlassen.  
+Mit Abkommen und jeweiligem Gesetz zum Abkommen (u. a. Hamburgisches Gesetz- und Verordnungsblatt
+2014, I, S. 29) der L&#228;nder Brandenburg, Bremen, Hamburg, Mecklenburg-Vorpommern, Niedersachsen und 
+Schleswig-Holstein wurde eine gemeinsame Ethikkommission &#8222;PID-Kommission Nord&#8220; bei der &#196;rztekammer 
+Hamburg eingerichtet (https://www.aerztekammer-hamburg.org/pid_kommission_nord.html). Das Abkommen
+ist am 1. Februar 2014 in Kraft getreten und wurde durch Satzung der &#196;rztekammer Hamburg konkretisiert.
+Die L&#228;nder Baden-W&#252;rttemberg, Hessen, Rheinland-Pfalz, das Saarland, Sachsen und Th&#252;ringen haben mit
+Staatsvertrag und jeweiligem Gesetz zum Staatsvertrag eine gemeinsame Ethikkommission f&#252;r PID
+(&#8222;Ethikkommission S&#252;d&#8220;) bei der Landes&#228;rztekammer Baden-W&#252;rttemberg errichtet (Gesetzblatt f&#252;r Baden-
+W&#252;rttemberg 2014, S. 823, ber. 2015 S. 110) (https://www.aerztekammer-bw.de/20buerger/50pid-kommission/in-
+dex.html). Der Staatsvertrag ist am 8. Juli 2015 in Kraft getreten und wurde durch Satzung der
+Landes&#228;rztekammer Baden-W&#252;rttemberg konkretisiert. 
+Bayern hat mit dem Gesetz zur Ausf&#252;hrung der Pr&#228;implantationsdiagnostikverordnung (BayAGPIDV) die
+Bayerische Ethikkommission f&#252;r Pr&#228;implantationsdiagnostik errichtet (Bayerisches Gesetz- und Verordnungsblatt
+2014, S. 542). Das Gesetz ist am 1. Januar 2015 in Kraft getreten und wurde durch die Gesch&#228;ftsordnung der 
+Bayerischen Ethikkommission f&#252;r PID konkretisiert. Die Gesch&#228;ftsstelle ist beim Bayerischen
+Staatsministerium f&#252;r Gesundheit und Pflege angesiedelt (https://www.stmgp.bayern.de/ministerium/behoerden-und-gre-
+mien/#Bayerische-Ethikkomission-fuer-Praeimplantationsdiagnostik).
+Berlin hat durch Artikel 3 des Gesetzes zur &#196;nderung des Allgemeinen Zust&#228;ndigkeitsgesetzes und anderer 
+Gesetze sowie &#252;ber die Verordnungserm&#228;chtigung zum Transplantationsgesetz das Ethik-Kommissionsgesetz
+Berlin ge&#228;ndert und der Ethik-Kommission des Landes Berlin beim Landesamt f&#252;r Gesundheit und Soziales
+(https://www.berlin.de/lageso/gesundheit/ethik-kommission/) die Zust&#228;ndigkeit f&#252;r die Pr&#252;fung und Bewertung
+von Antr&#228;gen auf Durchf&#252;hrung einer PID &#252;bertragen (Gesetz- und Verordnungsblatt f&#252;r Berlin 2014, S. 99).
+Das Gesetz ist am 30. April 2014 in Kraft getreten.
+Nordrhein-Westfalen hat mit dem Pr&#228;implantationsdiagnostikgesetz Nordrhein-Westfalen (Gesetz- und
+Verordnungsblatt des Landes Nordrhein-Westfalen 2014, S. 381) die Zulassung von Zentren zur Durchf&#252;hrung der
+PID der &#196;rztekammer Westfalen-Lippe &#252;bertragen. Die Pr&#228;implantationsdiagnostik-Kommission ist
+demgegen&#252;ber bei der &#196;rztekammer Nordrhein angesiedelt (https://www.aekno.de/patienten/pid-kommission). Das 
+Gesetz ist am 11. Januar 2015 in Kraft getreten. 
+Sachsen-Anhalt hat mit dem Gesetz zur &#196;nderung des Gesetzes &#252;ber die Kammern f&#252;r Heilberufe und anderer
+Gesetze (Gesetz- und Verordnungsblatt f&#252;r das Land Sachsen-Anhalt 2015, S. 28) eine &#196;nderung des
+Gesundheitsdienstgesetzes vorgenommen und das f&#252;r Gesundheit zust&#228;ndige Ministerium erm&#228;chtigt, f&#252;r die
+Ethikkommission im Sinne des &#167; 4 PIDV die Zusammensetzung, Berufung der Mitglieder, Berufungsdauer, interne
+Verfahrensregelungen und Finanzierung der Kommission durch Verordnung mit Geltung f&#252;r den Bereich
+au&#223;erhalb der Universit&#228;ten und Universit&#228;tskliniken zu bestimmen. Das Gesetz ist am 31. Januar 2015 in Kraft
+getreten. Sachsen-Anhalt hat mangels eines in Betracht kommenden PID-Zentrums bisher von der Einrichtung 
+einer Ethikkommission f&#252;r PID Abstand genommen. 
+Gem&#228;&#223; &#167; 4 Absatz 3 PIDV erfolgt die Finanzierung der Ethikkommissionen und ihrer gesetzlich vorgesehenen 
+T&#228;tigkeit durch die Erhebung von Geb&#252;hren und Auslagen. Die Geb&#252;hren variieren je nach Ethikkommission:
+Ethikkommission Berlin &#8211; Geb&#252;hr: 1.500 Euro; Ethikkommission S&#252;d &#8211; Rahmengeb&#252;hr: 1.500 Euro bis 4.000
+Euro; Ethikkommission Nordrhein-Westfalen &#8211; Rahmengeb&#252;hr: 1.300 Euro bis 3.000 Euro; Ethikkommission
+Nord &#8211; Rahmengeb&#252;hr: 1.500 Euro bis 3.000 Euro; Ethikkommission Bayern &#8211; Rahmengeb&#252;hr: 100 Euro bis
+5.000 Euro.
+Die jeweiligen Geb&#252;hren ergeben sich aus den entsprechenden landesrechtlichen Vorschriften. Beispielsweise
+erfolgt in Baden-W&#252;rttemberg die Finanzierung der T&#228;tigkeit der Ethikkommission gem&#228;&#223; &#167; 6 des
+Staatsvertrags &#252;ber die gemeinsame Errichtung einer Ethikkommission f&#252;r Pr&#228;implantationsdiagnostik bei der
+Landes&#228;rztekammer Baden-W&#252;rttemberg ausschlie&#223;lich &#252;ber Geb&#252;hren. Die Landes&#228;rztekammer Baden-W&#252;rttemberg
+erl&#228;sst die notwendigen geb&#252;hrenrechtlichen Bestimmungen f&#252;r eine kostendeckende Finanzierung.
+Demgegen&#252;ber werden in Bayern gem&#228;&#223; Artikel 2 Absatz 7 Satz 1 BayAGPIDV die Kosten der Ethikkommission f&#252;r 
+PID vom Land getragen.
+Seit April 2015 veranstaltet die Bundes&#228;rztekammer (B&#196;K) zur Unterst&#252;tzung eines bundeseinheitlichen
+Vorgehens in j&#228;hrlichem Abstand einen Erfahrungsaustausch der Ethikkommissionen f&#252;r PID. An diesem
+Erfahrungsaustausch nehmen neben Vertretern von Ethikkommissionen und deren Gesch&#228;ftsstellen auch die
+zust&#228;ndigen Landes&#228;rztekammern und Landesbeh&#246;rden teil. Der Erfahrungsaustausch ist nicht &#246;ffentlich und die
+Protokolle sind vertraulich.
+Die Bundesregierung steht mit den L&#228;ndern fortlaufend in einem engen Austausch.
+2.1.1. Bewertung 
+Bez&#252;glich der Ethikkommissionen und deren Zust&#228;ndigkeiten gab es keine &#196;nderungen gegen&#252;ber dem ersten
+Erfahrungsbericht. Ende September 2019 bestehen f&#252;nf Ethikkommissionen f&#252;r PID in Deutschland. Mit
+Ausnahme von Sachsen-Anhalt sind alle Bundesl&#228;nder, wenn auch nicht durchg&#228;ngig, mit einem PID-Zentrum oder 
+Kooperationspartner ausgestattet und an eine Ethikkommission angeschlossen. Bei der Einrichtung von
+Ethikkommissionen f&#252;r PID haben die L&#228;nder festzulegen, f&#252;r welches PID-Zentrum beziehungsweise welche PID-
+Zentren die Ethikkommission zust&#228;ndig ist. 
+2.2. Zulassung von PID-Zentren 
+Die PID darf gem&#228;&#223; &#167; 3a Absatz 3 Satz 1 Nummer 3 ESchG in Verbindung mit &#167; 3 Absatz 1 Satz 1 PIDV nur 
+in PID-Zentren durchgef&#252;hrt werden, die &#252;ber die nach dem jeweils gesicherten Stand der wissenschaftlichen
+Erkenntnisse notwendigen diagnostischen, medizinischen und technischen M&#246;glichkeiten verf&#252;gen. Dies gilt
+sowohl f&#252;r die reproduktionsmedizinische Ma&#223;nahme als auch f&#252;r die genetische Untersuchung der
+embryonalen Zellen. 
+Als PID-Zentren k&#246;nnen gem&#228;&#223; &#167; 3 Absatz 1 Satz 2 PIDV auch reproduktionsmedizinische und
+humangenetische Einrichtungen zugelassen werden, zwischen denen durch Kooperationsvertrag sichergestellt ist, dass die 
+in &#167; 3 Absatz 1 Satz 1 PIDV genannten Voraussetzungen erf&#252;llt sind.
+&#167; 3 Absatz 3 PIDV legt im Detail fest, welche Angaben und Unterlagen in dem schriftlich zu stellenden Antrag
+auf Zulassung eines Zentrums zur Durchf&#252;hrung der PID enthalten sein m&#252;ssen. In den F&#228;llen einer Kooperation
+zwischen einer reproduktionsmedizinischen und einer humangenetischen Einrichtung ist Antragsteller die
+Person, die die humangenetische Einrichtung leitet (&#167; 3 Absatz 3 Nummer 1 PIDV).
+Nach &#167; 3 Absatz 5 PIDV ist der Antragsteller verpflichtet, der zust&#228;ndigen Beh&#246;rde unverz&#252;glich anzuzeigen,
+wenn sich bez&#252;glich der Unterlagen und Angaben nach Absatz 3 &#196;nderungen ergeben.
+Die zust&#228;ndige Beh&#246;rde hat nach &#167; 3 Absatz 6 PIDV der Zentralstelle die Zulassung als Zentrum f&#252;r PID sowie
+deren Verl&#228;ngerung mitzuteilen; entsprechendes gilt auch f&#252;r den Fall der R&#252;cknahme oder des Widerrufs der 
+Zulassung. 
+Gem&#228;&#223; &#167; 8 Absatz 3 PIDV haben die PID-Zentren der Zentralstelle beim PEI j&#228;hrlich nach Ablauf eines
+Kalenderjahres, sp&#228;testens aber bis zum 1. M&#228;rz des folgenden Jahres die Angaben nach Absatz 2 zu melden.
+Nach Mitteilung der L&#228;nder und entsprechend den Meldungen, die der Zentralstelle zur Dokumentation von im
+Rahmen einer PID durchgef&#252;hrten Ma&#223;nahmen vorliegen, gab es am 30. September 2019 in Deutschland zehn 
+PID-Zentren. (siehe Tabellen 1 und 2). Die Tabellen geben einen &#220;berblick &#252;ber die Bundesl&#228;nder mit den 
+Standorten, an denen sich die humangenetische Einrichtung eines PID-Zentrums befindet.
+Tabelle  1 
+Gesamtanzahl PID-Zentren zum Stichtag 30. September 2019 
+Jahr PID-Zentren Bundesl&#228;nder Standorte
+2019 10 Baden-W&#252;rttemberg,
+Bayern, 
+Nordrhein-Westfalen,
+Rheinland-Pfalz, 
+Saarland,
+Schleswig-Holstein 
+Essen, 
+Freiburg, 
+Heidelberg,
+L&#252;beck, 
+Mainz,
+M&#252;nchen (2),
+Planegg-Martinried, 
+Regensburg,
+Saarbr&#252;cken 
+Tabelle  2 
+Zulassung der PID-Zentren im Verlauf der Jahre 2014 bis 2018
+Jahr PID-Zentren Bundesl&#228;nder Standorte
+2014 + 2 Hamburg,
+Schleswig-Holstein 
+Hamburg, 
+L&#252;beck 
+2015 + 9 Baden-W&#252;rttemberg,
+Bayern, 
+Nordrhein-Westfalen,
+Rheinland-Pfalz, 
+Saarland 
+Essen, 
+Freiburg, 
+Heidelberg,
+Mainz,
+M&#252;nchen (2),
+Planegg-Martinsried,
+Regensburg,
+Saarbr&#252;cken 
+2018 - 1 Hamburg Hamburg
+2.2.1. PID-Zentren im Jahr 2015 
+Das Ministerium f&#252;r Arbeit und Sozialordnung, Familie, Frauen und Senioren Baden-W&#252;rttemberg hat im Juli 
+2015 zwei PID-Zentren zugelassen: in Heidelberg das Institut f&#252;r Humangenetik des Universit&#228;tsklinikums 
+Heidelberg in Kooperation mit der Universit&#228;ts-Frauenklinik Heidelberg und in Freiburg eine humangenetische
+Praxis in Kooperation mit der Universit&#228;ts-Frauenklinik Freiburg sowie mit dem Centrum f&#252;r gyn&#228;kologische
+Endokrinologie und Reproduktionsmedizin Freiburg.
+Das Bayerische Staatsministerium f&#252;r Gesundheit und Pflege hat im Juli 2015 vier PID-Zentren zugelassen: in
+Regensburg das Zentrum f&#252;r Humangenetik am Universit&#228;tsklinikum und die Kinderwunschtherapie im
+Zentrum (KITZ); in M&#252;nchen das Medizinisch Genetisches Zentrum (MGZ) mit dem k&#239;z) -Kinderwunsch im
+Zentrum in M&#252;nchen, der Kinderwunschtherapie im Zentrum (KITZ) in Regensburg und dem Kinderwunsch
+Centrum M&#252;nchen (MVZ); das Synlab Medizinisches Versorgungszentrum (MVZ) mit Profertilita, dem Zentrum
+f&#252;r Fruchtbarkeitsmedizin in Regensburg und der Reproduktionsmedizin M&#252;nchen, MVZ sowie das Zentrum
+f&#252;r Humangenetik und Laboratoriumsdiagnostik (MVZ) in Planegg-Martinsried mit dem Kinderwunsch
+Centrum M&#252;nchen (MVZ) und der Gemeinschaftspraxis der Frauen&#228;rzte, Dres. Hamori, Behrens, Hammel in
+Erlangen.
+Das Ministerium f&#252;r Soziales, Gesundheit, Frauen und Familie des Saarlands hat im Oktober 2015 die
+Gemeinschaftspraxis f&#252;r Humangenetik Homburg/Saar- in Kooperation mit dem IVF-SAAR Saarbr&#252;cken-
+Kaiserslautern als neuntes PID-Zentrum in Deutschland zugelassen. 
+Das MVZ Institut f&#252;r Labormedizin und Klinische Genetik Rhein/Ruhr GmbH hat in Kooperation mit dem
+Kinderwunschzentrum Dortmund im Dezember 2015 die Zulassung als PID-Zentrum Nordrhein-Westfalen
+erhalten. In Nordrhein-Westfalen ist die f&#252;r die Zulassung des PID-Zentrums zust&#228;ndige Beh&#246;rde die
+&#196;rztekammer Westfalen-Lippe. Im Gegensatz dazu ist in den anderen Bundesl&#228;ndern, die ein PID-Zentrum zugelassen
+haben, die zust&#228;ndige Beh&#246;rde die jeweilige Landesbeh&#246;rde.
+Die Landesbeh&#246;rde Rheinland-Pfalz teilte mit, dass die Universit&#228;t Mainz die Inhaberin der Zulassung f&#252;r das
+PID-Zentrum sei. Sowohl die reproduktionsmedizinische Einrichtung als auch die humangenetische
+Einrichtung sind der Universit&#228;t Mainz zugeh&#246;rig.
+In der folgenden Tabelle sind die PID-Zentren, bestehend aus einer humangenetischen Einrichtung und einer 
+reproduktionsmedizinischen Einrichtung und PID-Zentren, bestehend aus einer humangenetischen Einrichtung
+und mehreren reproduktionsmedizinischen Einrichtungen dargestellt:
+Tabelle  3
+PID-Zentren im Jahr 2015 
+Bundesland Humangenetische Einrichtung Kinderwunschzentrum/Reproduktionsmedizinische Einrichtung 
+Schleswig-Holstein Universit&#228;tsklinikum Schleswig-Holstein 
+(UKSH), Institut f&#252;r Humangenetik L&#252;beck  
+UKSH L&#252;beck, Sektion f&#252;r 
+Reproduktionsmedizin/Klinik f&#252;r Frauenheilkunde 
+und Geburtshilfe/ Klinik f&#252;r Kinder- und 
+Jugendmedizin 
+Hamburg MVZ GenteQ GmbH Hamburg MVZ Fertility Center Hamburg
+Nordrhein-Westfalen MVZ Institut f&#252;r Labormedizin und Klinische
+Genetik Rhein/Ruhr GmbH, Essen
+MVZ &#196;rztepartnerschaft, Kinderwunschzentrum
+Dortmund 
+Rheinland-Pfalz Universit&#228;tsmedizin Mainz, Institut f&#252;r 
+Humangenetik 
+Universit&#228;tsmedizin Mainz, 
+Kinderwunschzentrum
+Saarland Gemeinschaftspraxis f&#252;r Humangenetik 
+Homburg/Saar, Homburg
+IVF SAAR, Saarbr&#252;cken
+Baden-W&#252;rttemberg Universit&#228;tsklinikum Heidelberg, Institut f&#252;r
+Humangenetik 
+Universit&#228;tsklinikum Heidelberg, Frauenklinik,
+Abteilung f&#252;r Gyn&#228;kologische Endokrinologie 
+und Fertilit&#228;tsst&#246;rungen
+Praxis f&#252;r Humangenetik, Freiburg im Breisgau Centrum f&#252;r gyn&#228;kologische Endokrinologie und 
+Reproduktionsmedizin Freiburg (CERF)
+Klinik f&#252;r Frauenheilkunde, Universit&#228;tsklinikum
+Freiburg 
+Bayern Zentrum f&#252;r Humangenetik, Regensburg Kinderwunschtherapie im Zentrum (KITZ),
+Regensburg
+Medizinisch Genetisches Zentrum (MGZ)
+M&#252;nchen 
+k&#239;z) -Kinderwunsch im Zentrum, M&#252;nchen
+Kinderwunschtherapie im Zentrum (KITZ), 
+Regensburg
+Kinderwunsch Centrum M&#252;nchen (MVZ) 
+Zentrum f&#252;r Humangenetik und Labordiagnostik,
+MVZ Planegg-Martinsried 
+Kinderwunsch Centrum M&#252;nchen (MVZ) 
+Labordiagnostik, MVZ Planegg-Martinsried Gemeinschaftspraxis der Frauen&#228;rzte,
+Dres. Hamori, Behrens, Hammel, Erlangen 
+Synlab MVZ Humane Genetik, M&#252;nchen Profertilita, Zentrum f&#252;r Fruchtbarkeitsmedizin,
+Regensburg
+Reproduktionsmedizin M&#252;nchen, MVZ
+In der folgenden &#220;bersicht sind die PID-Zentren und Ethikkommissionen in einer Deutschlandkarte f&#252;r das Jahr 
+2015 dargestellt:
+Abbildung 1 
+&#220;bersicht &#252;ber die PID-Zentren und Bundesl&#228;nder mit jeweils zugeh&#246;riger Ethikkommission
+im Jahr 2015
+Farblegende zu den Ethikkommissionen (EK): schwarz: EK Nord; gr&#252;n: EK S&#252;d, wei&#223;: eigene EK; Sachsen-Anhalt nicht aufgef&#252;hrt, da 
+kein Anschluss an eine EK besteht. 
+2.2.2. PID-Zentren im Jahr 2016 
+Im Jahr 2016 waren in Deutschland unver&#228;ndert elf PID-Zentren zugelassen. Anfang 2016 wurde jedoch im
+PID-Zentrum Hamburg die Durchf&#252;hrung von PID aufgrund unternehmerischer Ver&#228;nderungen und
+nachfolgenden langfristigen Akkreditierungsprozessen eingestellt, die Zulassung als PID-Zentrum bestand jedoch.
+Im Jahr 2016 wurden keine neuen PID-Zentren, allerdings insgesamt drei weitere Kooperationspartner und
+damit die Erweiterung von bereits bestehenden PID-Zentren zugelassen. Diese waren l&#228;nder&#252;bergreifend. So
+wurde f&#252;r das PID-Zentrum L&#252;beck (Schleswig- Holstein) als weiterer Kooperationspartner das
+Kinderwunschzentrum Potsdam in Brandenburg zugelassen. Als weiterer Kooperationspartner des PID-Zentrums MGZ &#8211;
+Medizinisch Genetisches Zentrum, M&#252;nchen &#8211; wurde die l&#228;nder&#252;bergreifende Kooperation mit dem
+Kinderwunschzentrum Gynaekologicum in Hamburg zugelassen. Eine weitere l&#228;nder&#252;bergreifende Kooperation
+besteht zwischen dem PID-Zentrum Synlab MVZ, M&#252;nchen, und dem Kinderwunschzentrum Praxis Dr. Andreas
+Ott in Ludwigsburg, Baden-W&#252;rttemberg. 
+In der folgenden Tabelle sind die PID-Zentren bestehend aus einer humangenetischen Einrichtung und einer
+reproduktionsmedizinischen Einrichtung und PID-Zentren bestehend aus einer humangenetischen Einrichtung
+und mehreren reproduktionsmedizinischen Einrichtungen dargestellt (Tabelle 4):
+Tabelle  4
+PID-Zentren im Jahr 2016 
+Bundesland Humangenetische Einrichtung Kinderwunschzentrum/Reproduktionsmedizinische Einrichtung 
+Schleswig- Holstein Universit&#228;tsklinikum Schleswig-Holstein 
+(UKSH), Institut f&#252;r Humangenetik L&#252;beck  
+UKSH L&#252;beck, Sektion f&#252;r 
+Reproduktionsmedizin/Klinik f&#252;r
+Frauenheilkunde und Geburtshilfe/Klinik f&#252;r
+Kinder- und Jugendmedizin 
+Kinderwunschzentrum Potsdam
+Hamburg MVZ GenteQ GmbH Hamburg MVZ Fertility Center Hamburg
+Nordrhein-Westfalen MVZ Institut f&#252;r Labormedizin und Klinische
+Genetik Rhein/Ruhr GmbH, Essen
+MVZ &#196;rztepartnerschaft,  
+Kinderwunschzentrum Dortmund 
+Rheinland-Pfalz Universit&#228;tsmedizin Mainz, 
+Institut f&#252;r Humangenetik 
+Universit&#228;tsmedizin Mainz, 
+Kinderwunschzentrum
+Saarland Gemeinschaftspraxis f&#252;r Humangenetik 
+Homburg/Saar, Homburg
+IVF SAAR Saarbr&#252;cken 
+Baden-W&#252;rttemberg Universit&#228;tsklinikum Heidelberg, 
+Institut f&#252;r Humangenetik 
+Universit&#228;tsklinikum Heidelberg Frauenklinik, 
+Abteilung f&#252;r Gyn&#228;kologische Endokrinologie 
+und Fertilit&#228;tsst&#246;rungen
+Praxis f&#252;r Humangenetik, 
+Freiburg im Breisgau 
+Centrum f&#252;r gyn&#228;kologische Endokrinologie und 
+Reproduktionsmedizin Freiburg (CERF)
+Klinik f&#252;r Frauenheilkunde,
+Universit&#228;tsklinikum Freiburg 
+Bayern Zentrum f&#252;r Humangenetik, Regensburg Kinderwunschtherapie im Zentrum (KITZ),
+Regensburg
+Medizinisch Genetisches Zentrum (MGZ),
+M&#252;nchen 
+Kinderwunschzentrum Gynaekologicum &#8211;
+Altonaer Stra&#223;e, Hamburg 
+k&#239;z)-Kinderwunsch im Zentrum, M&#252;nchen
+Kinderwunsch Centrum M&#252;nchen (MVZ) 
+Kinderwunschtherapie im Zentrum (KITZ), 
+Regensburg
+Zentrum f&#252;r Humangenetik und
+Labordiagnostik, MVZ Planegg-Martinsried 
+Gemeinschaftspraxis der Frauen&#228;rzte,
+Dres. Hamori, Behrens, Hammel, Erlangen 
+Kinderwunsch Centrum M&#252;nchen (MVZ) 
+Synlab MVZ Humane Genetik, M&#252;nchen Profertilita, Zentrum f&#252;r Fruchtbarkeitsmedizin,
+Regensburg
+Reproduktionsmedizin M&#252;nchen, MVZ 
+Kinderwunschzentrum, Praxis Ott, Ludwigsburg
+In der folgenden Abbildung sind die PID-Zentren und Ethikkommissionen in einer Deutschlandkarte f&#252;r das 
+Jahr 2016 dargestellt:
+Abbildung 2 
+&#220;bersicht &#252;ber PID-Zentren und den Bundesl&#228;ndern  
+mit zugeh&#246;riger Ethikkommission im Jahr 2016
+PID-Zentrum Hamburg: Mit Stand 12. Dezember 2016 wurde der Zentralstelle f&#252;r PID beim PEI mitgeteilt, 
+dass aufgrund eines Akkreditierungsprozesses bis auf weiteres keine PID im PID-Zentrum Hamburg
+durchgef&#252;hrt wird. Siehe Kapitel &#8222;PID-Zentren im Jahr 2016&#8220;. 
+Farblegende zu den Ethikkommissionen (EK): schwarz: EK Nord, gr&#252;n: EK S&#252;d, wei&#223;: eigene EK; Sachsen-
+Anhalt nicht aufgef&#252;hrt, da kein Anschluss an eine EK besteht.
+2.2.3. PID-Zentren im Jahr 2017 
+Im Jahr 2017 waren in Deutschland weiterhin elf PID-Zentren zugelassen. Unter Ber&#252;cksichtigung der
+besonderen Situation des PID-Zentrums Hamburg waren faktisch zehn PID-Zentren aktiv. Insgesamt wurden drei
+weitere Kooperationspartner zugelassen. Diese waren alle l&#228;nder&#252;bergreifend: Als weitere Kooperationspartner 
+im PID-Zentrums MGZ &#8211; Medizinisch Genetisches Zentrum M&#252;nchen &#8211; wurden das Kinderwunsch-Zentrum
+Ulm in Baden-W&#252;rttemberg und das MVZ PAN, Institut f&#252;r Endokrinologie und Reproduktionsmedizin K&#246;ln
+in Nordrhein-Westfalen, zugelassen. Das Kinderwunschzentrum an der Ged&#228;chtniskirche in Berlin wurde
+weiterer Kooperationspartner im PID-Zentrums Synlab MVZ, M&#252;nchen in Bayern.
+In der folgenden Tabelle sind die PID-Zentren bestehend aus einer humangenetischen Einrichtung und einer
+reproduktionsmedizinischen Einrichtung und PID-Zentren bestehend aus einer humangenetischen Einrichtung
+und mehreren reproduktionsmedizinischen Einrichtungen dargestellt (Tabelle 5).
+Tabelle  5
+PID-Zentren im Jahr 2017 
+Bundesland Humangenetische Einrichtung Kinderwunschzentrum/Reproduktionsmedizinische Einrichtung 
+Schleswig- Holstein Universit&#228;tsklinikum Schleswig-Holstein 
+(UKSH), Institut f&#252;r Humangenetik L&#252;beck  
+UKSH L&#252;beck, Sektion f&#252;r 
+Reproduktionsmedizin/Klinik f&#252;r
+Frauenheilkunde und Geburtshilfe/ Klinik f&#252;r
+Kinder- und Jugendmedizin 
+Kinderwunschzentrum Potsdam
+Hamburg MVZ GenteQ GmbH Hamburg MVZ Fertility Center Hamburg
+Nordrhein-Westfalen MVZ Institut f&#252;r Labormedizin und Klinische
+Genetik Rhein/Ruhr GmbH, Essen
+MVZ &#196;rztepartnerschaft, Kinderwunschzentrum
+Dortmund 
+Rheinland-Pfalz Universit&#228;tsmedizin Mainz, Institut f&#252;r 
+Humangenetik 
+Universit&#228;tsmedizin Mainz, 
+Kinderwunschzentrum
+Saarland Gemeinschaftspraxis f&#252;r Humangenetik 
+Homburg/Saar, Homburg
+IVF SAAR Saarbr&#252;cken 
+Baden-W&#252;rttemberg Universit&#228;tsklinikum Heidelberg, Institut f&#252;r 
+Humangenetik 
+Universit&#228;tsklinikum Heidelberg Frauenklinik, 
+Abteilung f&#252;r Gyn&#228;kologische Endokrinologie 
+und Fertilit&#228;tsst&#246;rungen
+Praxis f&#252;r Humangenetik, Freiburg im Breisgau Centrum f&#252;r gyn&#228;kologische Endokrinologie und 
+Reproduktionsmedizin Freiburg (CERF)
+Klinik f&#252;r Frauenheilkunde,
+Universit&#228;tsklinikum Freiburg 
+Bayern Medizinisch Genetisches Zentrum (MGZ),
+M&#252;nchen 
+Kinderwunsch-Zentrum Ulm
+MVZ PAN Institut K&#246;ln 
+Kinderwunschzentrum Gynaekologicum &#8211; 
+Altonaer Stra&#223;e, Hamburg 
+k&#239;z)-Kinderwunsch im Zentrum M&#252;nchen 
+Kinderwunschtherapie im Zentrum (KITZ), 
+Regensburg
+Kinderwunsch Centrum M&#252;nchen (MVZ) 
+Zentrum f&#252;r Humangenetik und
+Labordiagnostik, MVZ Planegg-Martinsried 
+Kinderwunsch Centrum M&#252;nchen (MVZ) 
+Gemeinschaftspraxis der Frauen&#228;rzte, Dres. 
+Hamori, Behrens, Hammel, Erlangen 
+Synlab MVZ Humane Genetik, M&#252;nchen Profertilita, Zentrum f&#252;r Fruchtbarkeitsmedizin,
+Regensburg
+Reproduktionsmedizin M&#252;nchen, MVZ 
+Kinderwunschzentrum, Praxis Ott, 
+Ludwigsburg
+Kinderwunschzentrum an der Ged&#228;chtniskirche,
+Berlin 
+Institut f&#252;r Humangenetik, Regensburg   Kinderwunschtherapie im Zentrum (KITZ),
+Regensburg
+Die Darstellung der PID-Zentren auf der Deutschlandkarte ist identisch mit der aus dem Jahr 2016 (siehe 
+Seite 11).
+2.2.4. PID-Zentren im Jahr 2018 
+Im Jahr 2018 waren in Deutschland zun&#228;chst weiterhin elf PID-Zentren zugelassen. Die oben aufgef&#252;hrte
+besondere Situation f&#252;r das PID-Zentrum in Hamburg war nach Information der Zentralstelle unver&#228;ndert. Ende 
+Januar 2018 verzichtete das PID-Zentrum Hamburg auf die Zulassung. Im Jahr 2018 entstanden drei weitere
+Kooperationen des MGZ-Medizinisch Genetischen Zentrums in M&#252;nchen. Zwei l&#228;nder&#252;bergreifende
+Kooperationen mit der MVZ VivaNeo Praxisklinik Sydow in Berlin und mit der IVF-SAAR in Saarbr&#252;cken. Bei IVF-
+SAAR handelt es sich um ein Kinderwunschzentrum, dem bereits im Oktober 2015 gemeinsam mit der
+Gemeinschaftspraxis f&#252;r Humangenetik Homburg/Saar die Zulassung als PID-Zentrum erteilt wurde. Eine weitere 
+Kooperation des MGZ-Medizinisch Genetischen Zentrums entstand mit der Gemeinschaftspraxis der
+Frauen&#228;rzte in Erlangen, die bereits eine Kooperation mit dem Zentrum f&#252;r Humangenetik und
+Laboratoriumsdiagnostik (MVZ) in Planegg-Martinsried eingegangen waren. 
+In den folgenden Tabellen werden die PID-Zentren mit einer humangenetischen Einrichtung und einer
+reproduktionsmedizinischen Einrichtung und PID-Zentren mit einer humangenetischen Einrichtung und mehreren
+reproduktionsmedizinischen Einrichtungen dargestellt (Tabelle 6):  
+Tabelle  6 
+PID-Zentren im Jahr 2018 
+Bundesland Humangenetische Einrichtung Kinderwunschzentrum/Reproduktionsmedizinische Einrichtung 
+Schleswig- Holstein Universit&#228;tsklinikum Schleswig-Holstein 
+(UKSH), Institut f&#252;r Humangenetik L&#252;beck  
+UKSH L&#252;beck, Sektion f&#252;r 
+Reproduktionsmedizin/Klinik f&#252;r
+Frauenheilkunde und Geburtshilfe/ Klinik f&#252;r
+Kinder- und Jugendmedizin 
+Kinderwunschzentrum Potsdam
+Hamburg (bis Ende Januar) MVZ GenteQ GmbH Hamburg MVZ Fertility Center Hamburg
+Nordrhein-Westfalen MVZ Institut f&#252;r Labormedizin und Klinische
+Genetik Rhein/Ruhr GmbH, Essen
+MVZ &#196;rztepartnerschaft, Kinderwunschzentrum
+Dortmund 
+Rheinland-Pfalz Universit&#228;tsmedizin Mainz, 
+Institut f&#252;r Humangenetik 
+Universit&#228;tsmedizin Mainz, 
+Kinderwunschzentrum
+Saarland Gemeinschaftspraxis f&#252;r Humangenetik 
+Homburg/Saar, Homburg
+IVF SAAR Saarbr&#252;cken 
+Baden-W&#252;rttemberg Universit&#228;tsklinikum Heidelberg, Institut f&#252;r
+Humangenetik 
+Universit&#228;tsklinikum Heidelberg Frauenklinik, 
+Abteilung f&#252;r Gyn&#228;kologische Endokrinologie 
+und Fertilit&#228;tsst&#246;rungen 
+Praxis f&#252;r Humangenetik, Freiburg im Breisgau Centrum f&#252;r gyn&#228;kologische Endokrinologie und 
+Reproduktionsmedizin Freiburg (CERF)
+Klinik f&#252;r Frauenheilkunde, Universit&#228;tsklinikum
+Freiburg 
+Bayern Medizinisch Genetisches Zentrum (MGZ),
+M&#252;nchen 
+Kinderwunschzentrum IVF-SAAR, Saarbr&#252;cken 
+Kinderwunsch-Zentrum Ulm
+MVZ PAN Institut K&#246;ln 
+Kinderwunschzentrum Gynaekologicum &#8211; 
+Altonaer Stra&#223;e, Hamburg 
+kiz)-Kinderwunsch im Zentrum, M&#252;nchen
+Kinderwunschtherapie im Zentrum (KITZ), 
+Regensburg
+VivaNeo Praxisklinik Sydow, Berlin
+Gemeinschaftspraxis der Frauen&#228;rzte,
+Dres. Hamori, Behrens, Hammel, Erlangen 
+Kinderwunsch Centrum M&#252;nchen (MVZ)
+Bundesland Humangenetische Einrichtung Kinderwunschzentrum/Reproduktionsmedizinische Einrichtung 
+Zentrum f&#252;r Humangenetik und Labordiagnostik,
+MVZ Planegg-Martinsried 
+Kinderwunsch Centrum M&#252;nchen (MVZ) 
+Gemeinschaftspraxis der Frauen&#228;rzte,
+Dres. Hamori, Behrens, Hammel, Erlangen 
+Synlab MVZ Humane Genetik, M&#252;nchen Profertilita, Zentrum f&#252;r Fruchtbarkeitsmedizin,
+Regensburg
+Reproduktionsmedizin M&#252;nchen, MVZ 
+Kinderwunschzentrum, Praxis Ott, Ludwigsburg
+Kinderwunschzentrum an der Ged&#228;chtniskirche,
+Berlin 
+Institut f&#252;r Humangenetik, Regensburg Kinderwunschtherapie im Zentrum (KITZ),
+Regensburg
+2.2.5. PID-Zentren im Jahr 2019 (bis einschlie&#223;lich September)
+Am 28. Februar 2019 lief die Kooperation mit dem Kinderwunschzentrum Potsdam mit dem regul&#228;ren Ende
+der ersten Zulassungsperiode des PID-Zentrums L&#252;beck aus. Sie wurde nicht erneut beantragt. Es wurden zwei
+weitere l&#228;nder&#252;bergreifende Kooperationen in Bayern zugelassen. Eine erfolgte mit dem MGZ-Medizinisch
+Genetisches Zentrum, M&#252;nchen, und der Praxisklinik am Anger, Kinderwunschzentrum Erfurt. Die zweite
+Kooperation erfolgte mit dem Synlab MVZ, M&#252;nchen, und dem Kinderwunsch- und Endometriosezentrum, Berlin.
+2.2.6. Bewertung 
+Nachdem zwischenzeitlich elf PID-Zentren zugelassen waren, sind es mit Stand von September 2019
+bundesweit zehn, die &#252;berwiegend aus Kooperationen zwischen einer humangenetischen Einrichtung und einer
+reproduktionsmedizinischen Einrichtung bestehen. Lediglich in L&#252;beck, in Heidelberg und in Mainz bestehen PID-
+Zentren &#8222;unter einem Dach&#8220;, d.h. in einer einzigen Einrichtung (Universit&#228;t). 
+Obwohl die Zahl der zugelassenen PID-Zentren in Deutschland im Jahr 2019 r&#252;ckl&#228;ufig ist (R&#252;ckgang von elf 
+auf zehn), ist durch die in Deutschland verbreiteten Kooperationen grunds&#228;tzlich eine gr&#246;&#223;ere Fl&#228;che f&#252;r die
+M&#246;glichkeit zur Durchf&#252;hrung einer PID abgedeckt. Nachdem im Jahr 2015 bereits alle PID-Zentren zugelassen
+waren, waren die darauffolgenden Jahre dadurch gepr&#228;gt, dass Kooperationen zwischen PID-Zentren und
+bereits bekannten oder mit neuen reproduktionsmedizinischen Einrichtungen eingegangen wurden.
+In den Jahren von 2015 bis 2017 blieb die Zahl der PID-Zentren unver&#228;ndert bei elf Einrichtungen.
+Demgegen&#252;ber stieg die Zahl der Kooperationspartner in den PID-Zentren kontinuierlich an und liegt derzeit (Stand
+September 2019) bei 21 reproduktionsmedizinischen Einrichtungen mit steigender Tendenz. Dabei kooperieren
+einzelne reproduktionsmedizinische Einrichtungen mit mehreren humangenetischen Einrichtungen. Von
+wenigen Ausnahmen abgesehen, kooperiert eine humangenetische Einrichtung mit mehreren
+reproduktionsmedizinischen Einrichtungen.
+Im Rahmen von j&#228;hrlich stattfindenden Bund-L&#228;nder-Gespr&#228;chen haben die L&#228;nder die Zul&#228;ssigkeit
+l&#228;nder&#252;bergreifender Kooperationen diskutiert. Es bestehen unterschiedliche Auffassungen &#252;ber die Zust&#228;ndigkeit f&#252;r
+die Zulassung l&#228;nder&#252;bergreifender Kooperationen im Sinne von &#167; 3 Absatz 1 Satz 2 PIDV. Die PIDV trifft
+hierzu keine eigenen Regelungen. Der Austausch mit den L&#228;ndern, mit dem Ziel, eine Einigung im Umgang
+mit der Zulassung von Erweiterungen von bereits bestehenden PID-Zentren zu erzielen, wird fortgesetzt.
+III. Dokumentation der im Rahmen einer PID durchgef&#252;hrten Ma&#223;nahmen 
+Auf der Grundlage von &#167; 9 Absatz 1 PIDV wurde beim PEI die Zentralstelle zur Dokumentation von im
+Rahmen einer PID durchgef&#252;hrten Ma&#223;nahmen eingerichtet.
+Die PID-Zentren sind nach &#167; 8 Absatz 2 und 3 PIDV verpflichtet, der Zentralstelle zur Dokumentation von im
+Rahmen einer PID durchgef&#252;hrten Ma&#223;nahmen beim PEI j&#228;hrlich bis zum 1. M&#228;rz des folgenden Jahres
+folgende Daten in anonymisierter Form zu &#252;bermitteln:
+1. die Anzahl der Antr&#228;ge auf zustimmende Bewertung zur Durchf&#252;hrung einer PID,
+2. die Anzahl der nach zustimmender Bewertung durchgef&#252;hrten PID, 
+3. die Anzahl der abgelehnten Antr&#228;ge auf zustimmende Bewertung zur Durchf&#252;hrung einer PID und
+4. die Anzahl des jeweiligen Begr&#252;ndungstyps der Indikationsstellung nach &#167; 3a Absatz 2 ESchG,
+untergliedert nach Chromosomenst&#246;rungen und autosomal-dominant, autosomal-rezessiv und geschlechtsgebunden 
+erblichen Krankheiten, einschlie&#223;lich der jeweiligen genetischen Untersuchungsmethoden, die bei
+Durchf&#252;hrung der PID angewendet wurden oder angewendet werden sollten.
+Die Daten sind nach &#167; 9 Absatz 2 PIDV von der Zentralstelle beim PEI zu dokumentieren und zehn Jahre
+aufzubewahren.
+Entsprechend dem Auftrag in &#167; 8 Absatz 4 PIDV hat die Zentralstelle beim PEI zu diesem Zweck ein Formblatt 
+(PID-Meldebogen) entwickelt, das den PID-Zentren auf der Internetseite des PEI zur Verf&#252;gung steht
+(https://www.pei.de/SharedDocs/Downloads/pu/meldebogen-8-abs-2-pidv.html?nn=4952410).
+3.1. Meldebogen 
+Alle nach Antragstellung der Frau und positivem Votum der Ethikkommission durchgef&#252;hrten genetischen
+Untersuchungen, die unter den Begriff &#8222;Pr&#228;implantationsdiagnostik&#8220; fallen und gem&#228;&#223; &#167; 3a Absatz 2 ESchG zur
+Indikation &#8222;hohes Risiko einer schwerwiegenden Erbkrankheit f&#252;r die Nachkommenschaft&#8220; und f&#252;r den
+Indikationsbereich &#8222;schwerwiegende Sch&#228;digung des Embryos mit hoher Wahrscheinlichkeit einer Tot- oder
+Fehlgeburt&#8220; geh&#246;ren, werden eingetragen. Ebenso werden Daten eingetragen, die nach Antragstellung zur
+Durchf&#252;hrung einer PID von der Ethikkommission negativ beschieden und somit abgelehnt wurden. In beiden
+Tabellen zu den Indikationsbereichen werden auch die jeweilig angewandten genetischen Untersuchungsmethoden
+erfasst, sowohl f&#252;r die nach positivem Votum durchgef&#252;hrten genetischen Untersuchungen, also auch f&#252;r die
+nach abgelehntem Antrag beabsichtigte genetische Untersuchung. Die Tabelle zur Erfassung des
+Indikationsbereichs &#8222;hohes Risiko einer schwerwiegenden Erbkrankheit f&#252;r die Nachkommenschaft&#8220; wird unterteilt in die
+vier Spalten &#8222;Autosomal-dominant erbliche Krankheit&#8220;, &#8222;Autosomal-rezessiv erbliche Krankheit&#8220;,
+&#8222;Geschlechtsgebunden erbliche Krankheit&#8220; und &#8222;Chromosomenst&#246;rung&#8220;. Diese vier Spalten werden nochmals
+unterteilt in &#8222;Anzahl der durchgef&#252;hrten PID&#8220; und in &#8222;Anzahl der wiederholten Pr&#228;implantationsdiagnostiken
+innerhalb eines PID-Zyklus&#8220;, wobei ein PID-Zyklus den Zeitraum nach positiv beschiedenem Antrag zur
+Durchf&#252;hrung einer PID bis zum Zeitpunkt der Geburt, inklusive weiteren Behandlungszyklen und den dabei
+wiederholten PID umfasst. Als Wiederholungs-PID wurde auch verstanden, wenn kein Embryotransfer m&#246;glich war 
+und eine erneute Hormonstimulation folgte. Mit jeder Hormonstimulation und Diagnostik stieg somit die
+Anzahl der wiederholten PID. 
+Die erfassten durchgef&#252;hrten PID sind somit nicht &#252;bereinstimmend mit der Zahl, die in &#8222;Anzahl der Antr&#228;ge 
+auf PID&#8220; eingef&#252;gt ist. Von den im Jahr 2019 bestehenden zehn PID-Zentren erfassen alle bis auf zwei Zentren
+(Mainz und Heidelberg) nach diesem System ihre Daten. Die PID-Zentren in Mainz und Heidelberg haben
+dagegen die Anzahl der wiederholten PID bei den durchgef&#252;hrten PID erfasst. 
+In den Jahren 2015 bis 2018 wurde in den PID-Meldeb&#246;gen die Anzahl der Antr&#228;ge auf zustimmende
+Bewertung zur Durchf&#252;hrung einer PID (nachfolgend abgek&#252;rzt als Anzahl der Antr&#228;ge), die Anzahl der nach
+zustimmender Bewertung durchgef&#252;hrten PID (nachfolgend abgek&#252;rzt als Anzahl der durchgef&#252;hrten PID) und die 
+Anzahl der abgelehnten Antr&#228;ge auf zustimmende Bewertung zur Durchf&#252;hrung einer PID (nachfolgend
+abgek&#252;rzt als Anzahl der abgelehnten PID) angegeben. Dabei ist zu ber&#252;cksichtigen, dass nach &#167; 5 PIDV die Antr&#228;ge
+auf PID bei den Ethikkommissionen meist direkt und ohne Beteiligung der PID-Zentren gestellt und nach &#167; 6
+PIDV dort entschieden werden. Eine rechtliche Verpflichtung der Ethikkommissionen oder der antragstellenden 
+Frau bzw. mit Einwilligung des Mannes, dem antragstellenden Paar, der humangenetischen Einrichtung bzw.
+dem PID-Zentrum die Anzahl der Antr&#228;ge oder die Anzahl der abgelehnten Antr&#228;ge mitzuteilen, besteht nicht.
+Sowohl die Antragstellerin, wie auch die Ethikkommissionen k&#246;nnen von den PID-Zentren lediglich darum
+gebeten werden, ihnen die Daten zukommen zu lassen, die sie nach &#167; 8 Absatz 2 PIDV an die PID-Zentralstelle
+zu &#252;bermitteln haben.
+3.2. Daten zur PID f&#252;r das Kalenderjahr 2015
+Der PID-Meldebogen f&#252;r das Kalenderjahr 2015 wurde gegen&#252;ber dem Vorjahr dahingehend ge&#228;ndert, dass
+Gesamtzahl und Wiederholungen getrennt erfasst werden. 
+Die Tabelle zur Erfassung des Indikationsbereichs &#8222;hohes Risiko einer schwerwiegenden Erbkrankheit f&#252;r die
+Nachkommenschaft&#8220; war gleicherma&#223;en unterteilt wie in den Meldeb&#246;gen f&#252;r die jeweiligen Kalenderjahre
+(Beschreibung siehe oben). Die vier Spalten waren nochmal unterteilt in &#8222;Gesamtzahl aller durchgef&#252;hrten PID&#8220; 
+und &#8222;Anzahl der wiederholten PID an der Gesamtzahl&#8220;. Die Untersuchungsmethoden wurden mit
+&#8222;Fluoreszenzin-situ-Hybridisierung (FISH)&#8220;, &#8222;Array comparative genomic hybridization (Array-CGH)&#8220;,
+Molekulargenetische Mutationsdiagnostik&#8220; und &#8222;Sonstige genetische Untersuchungsmethoden (bitte benennen)&#8220; vorgegeben.
+Der Indikationsbereich &#8222;schwerwiegende Sch&#228;digung des Embryos mit hoher Wahrscheinlichkeit einer
+Totoder Fehlgeburt&#8220; war ebenso unterteilt in &#8222;Autosomal-dominant erbliche Krankheit&#8220;, &#8222;Autosomal-rezessiv
+erbliche Krankheit&#8220;, &#8222;Geschlechtsgebunden erbliche Krankheit&#8220; und &#8222;Chromosomenst&#246;rung&#8220;. Diese vier Spalten
+waren nochmal unterteilt in &#8222;Gesamtzahl aller durchgef&#252;hrten PID&#8220; und &#8222;Anzahl der wiederholten PID an der 
+Gesamtzahl&#8220;. Die Untersuchungsmethoden wurden mit &#8222;Fluoreszenz-in-situ-Hybridisierung (FISH)&#8220;, &#8222;Array 
+comparative genomic hybridization (Array-CGH)&#8220;, Molekulargenetische Mutationsdiagnostik&#8220; und &#8222;Sonstige
+genetische Untersuchungsmethoden (bitte benennen)&#8220; vorgegeben.
+Im Jahr 2015 sind elf PID-Zentren zugelassen. Die Daten beruhen auf den Meldungen von sieben Zentren. In
+vier Zentren wurden keine Antr&#228;ge auf PID gestellt oder durchgef&#252;hrt. 
+Tabelle  7
+Antragstellung und Durchf&#252;hrung im Kalenderjahr 2015 
+PID-Zentrum Antrag auf PID gestellt PID durchgef&#252;hrt 
+Hamburg ja ja 
+L&#252;beck ja ja 
+Heidelberg &#8211; &#8211;
+Freiburg ja &#8211;
+Regensburg ja &#8211;
+MGZ M&#252;nchen ja ja 
+Synlab M&#252;nchen ja ja 
+Planegg-Martinsried ja &#8211;
+Homburg &#8211; &#8211; 
+Essen &#8211; &#8211; 
+Mainz &#8211; &#8211; 
+Nur knapp die H&#228;lfte der PID-Zentren, aus denen heraus ein Antrag auf PID gestellt wurde, konnte auch im
+selben Jahr die beantragte PID durchf&#252;hren. Dies lag vermutlich daran, dass noch nicht alle Voten der
+Ethikkommissionen vorlagen, da sich die Ethikkommissionen erst nach und nach konstituierten.
+F&#252;r das Jahr 2015 zum Stichtag 1. M&#228;rz 2016 wurden von den bis zu diesem Zeitpunkt zugelassenen PID-
+Zentren insgesamt 82 Antr&#228;ge zur Durchf&#252;hrung einer PID und ein Antrag auf Ruhendstellung gemeldet. Bei 
+insgesamt 33 Antr&#228;gen wurde nach zustimmender Bewertung eine PID in dem o. g. Zeitraum durchgef&#252;hrt,
+zwei Antr&#228;ge zur Durchf&#252;hrung einer PID wurden abgelehnt (siehe Tabelle 8):
+Tabelle  8 
+Anzahl der Antr&#228;ge mit zustimmender Bewertung, durchgef&#252;hrter PID und der Anzahl abgelehnter 
+Antr&#228;ge f&#252;r das Jahr 2015
+Kalenderjahr 2015
+Antr&#228;ge mit zustimmender Bewertung 82 (+ 1 Antrag auf Ruhendstellung)
+Anzahl der durchgef&#252;hrten PID 33
+Anzahl der abgelehnten Antr&#228;ge 2
+3.2.1. Durchgef&#252;hrte PID-Diagnostiken im Jahr 2015 
+Folgende Daten wurden der Zentralstelle im Jahr 2015 f&#252;r PID von den PID-Zentren gemeldet. Die
+Ethikkommission Berlin und NRW werden nicht mit aufgef&#252;hrt, da im PID-Zentrum in NRW kein Antrag auf PID gestellt 
+wurde und in Berlin kein PID-Zentrum zugelassen war:
+Tabelle  9 
+Anzahl der Antr&#228;ge der Ethikkommissionen mit zustimmender Bewertung, nach zustimmender 
+Bewertung durchgef&#252;hrter PID und der Anzahl abgelehnter Antr&#228;ge f&#252;r das Jahr 2015 
+(Zahlen wurden anhand der von den PID-Zentren gemeldet Daten errechnet) 
+Ethikkommission  
+Nord 
+Ethikkommission 
+Bayern 
+Ethikkommission  
+S&#252;d 
+Anzahl der Antr&#228;ge auf zustimmende Bewertung 38 + 1 auf Ruhendstellung 35 9 
+Anzahl der nach zustimmender Bewertung 
+durchgef&#252;hrten PID 27 6 0
+Anzahl der abgelehnten Antr&#228;ge 0 2 0
+Von den elf PID-Zentren haben vier PID-Zentren Daten gemeldet, in sieben PID-Zentren wurden zur Indikation
+&#8222;Hohes Risiko einer schwerwiegenden Erbkrankheit f&#252;r die Nachkommenschaft&#8220; keine PID durchgef&#252;hrt.
+Daten von wiederholten PID zu den Spalten autosomal-dominant, geschlechtsgebunden und
+Chromosomenst&#246;rungen wurden nicht angegeben. Lediglich zur Spalte autosomal-rezessiv wurden wiederholte PID angegeben.
+Tabelle  10
+Zur Indikation: Hohes Risiko einer schwerwiegenden Erbkrankheit f&#252;r die Nachkommenschaft 
+Untersuchungsmethode FISH Array-CGH
+Molekulargenetische
+Mutationsdiagnostik 
+gesamt
+autosomal-dominant
+Gesamtzahl 1 0 0 1
+Wiederholung 0 0 0 0 
+autosomal-rezessiv
+Gesamtzahl 5 0 4 9
+Wiederholung 4 0 4 8 
+geschlechtsgebunden
+Gesamtzahl 0 0 1 1
+Wiederholung 0 0 0 0 
+Chromosomenst&#246;rung
+Gesamtzahl 0 5 0 5
+Wiederholung 0 0 0 0 
+gesamt 10 5 9 24
+Gesamtzahl ohne Wiederholung 6 5 5 16
+Gesamtzahl der Wiederholungen 4 0 4 8 
+Von den elf PID-Zentren haben zwei PID-Zentren Daten gemeldet, in neun PID-Zentren wurden zur Indikation
+&#8222;Schwerwiegende Sch&#228;digung des Embryos mit hoher Wahrscheinlichkeit einer Tot- oder Fehlgeburt&#8220; keine
+PID durchgef&#252;hrt. Es wurden keine Daten zu autosomal-dominant-, autosomal-rezessiv und
+geschlechtsgebunden-bedingte schwerwiegende Sch&#228;digungen des Embryos gemeldet. Alle durchgef&#252;hrten und wiederholten
+PID bezogen sich auf eine schwerwiegende Sch&#228;digung des Embryos aufgrund einer Chromosomenst&#246;rung.
+Tabelle  11
+Zur Indikation: Schwerwiegende Sch&#228;digung des Embryos mit hoher Wahrscheinlichkeit 
+einer Tot- oder Fehlgeburt 
+Untersuchungsmethode FISH Array-CGH gesamt
+Chromosomenst&#246;rung
+Gesamtzahl 21 14 35
+Wiederholung 20 20 40
+gesamt 41 34 75
+3.2.2. Abgelehnte PID-Diagnostik im Jahr 2015 
+Von den elf PID-Zentren haben zwei PID-Zentren Daten gemeldet, in neun PID-Zentren wurden zur Indikation
+&#8222;hohes Risiko einer schwerwiegenden Erbkrankheit f&#252;r die Nachkommenschaft&#8220; keine PID abgelehnt. Die zwei
+PID-Zentren sind der Ethikkommission Bayern zugeh&#246;rig.
+Tabelle  12 
+Zur Indikation: Hohes Risiko einer schwerwiegenden Erbkrankheit f&#252;r die Nachkommenschaft 
+Untersuchungsmethode Molekulargenetische Mutationsdiagnostik
+autosomal-rezessiv Gesamtzahl 1
+geschlechtsgebunden Gesamtzahl 1
+gesamt 2
+Keines der elf PID-Zentren hat Daten zu abgelehnten PID bei schwerwiegender Erbkrankheit aufgrund
+autosomal-dominanten Erkrankungen und Chromosomenst&#246;rungen gemeldet (siehe Tabelle 12).
+Zur Indikation &#8222;Schwerwiegende Sch&#228;digung des Embryos mit hoher Wahrscheinlichkeit einer Tot- oder
+Fehlgeburt&#8220; wurden keine Daten gemeldet.
+3.3. Daten zur PID f&#252;r das f&#252;r das Kalenderjahr 2016 
+Im Jahr 2016 sind elf PID-Zentren an den Standorten Hamburg, L&#252;beck, Heidelberg, Freiburg, Regensburg,
+zwei in M&#252;nchen, Planegg-Martinsried, Saarbr&#252;cken, Essen und Mainz zugelassen. Von den elf PID-Zentren 
+haben neun PID-Zentren Daten gemeldet, in zwei PID-Zentren (Hamburg und Heidelberg) wurden keine PID
+durchgef&#252;hrt.
+Tabelle  13 
+Antragstellung und Durchf&#252;hrung im Kalenderjahr 2016 
+PID-Zentrum Antrag auf PID gestellt PID durchgef&#252;hrt 
+Hamburg &#8211; &#8211; 
+L&#252;beck ja ja 
+Heidelberg &#8211; &#8211;
+Freiburg ja ja 
+Regensburg ja ja 
+MGZ M&#252;nchen ja ja 
+Synlab M&#252;nchen ja ja 
+Planegg-Martinsried ja ja 
+Homburg ja ja 
+Essen ja ja 
+Mainz ja ja
+Tabelle  14
+Anzahl der Antr&#228;ge mit zustimmender Bewertung, durchgef&#252;hrter PID und der Anzahl abgelehnter 
+Antr&#228;ge f&#252;r das Jahr 2016
+Kalenderjahr 2016
+Antr&#228;ge mit zustimmender Bewertung 174 
+Anzahl der durchgef&#252;hrten PID 100
+Anzahl der abgelehnten Antr&#228;ge 27
+3.3.1. Durchgef&#252;hrte PID-Diagnostiken im Jahr 2016 
+Folgende Daten wurden im Jahr 2016 der Zentralstelle f&#252;r PID von den PID-Zentren gemeldet. Die
+Ethikkommission Berlin wird nicht mit aufgef&#252;hrt, da in Berlin kein PID-Zentrum zugelassen war:
+Tabelle  15
+Anzahl der Antr&#228;ge der Ethikkommissionen mit zustimmender Bewertung, nach zustimmender 
+Bewertung durchgef&#252;hrter PID und der Anzahl abgelehnter Antr&#228;ge f&#252;r das Jahr 2016 
+(Zahlen wurden anhand der von den PID-Zentren gemeldet Daten errechnet) 
+Ethikkommission  
+Nord 
+Ethikkommission  
+S&#252;d 
+Ethikkommission  
+NRW
+Ethikkommission  
+Bayern 
+Anzahl der Antr&#228;ge auf
+zustimmende Bewertung 20 21 5 128
+Anzahl der nach zustimmender
+Bewertung durchgef&#252;hrten PID 19 11 2 68
+Anzahl der abgelehnten Antr&#228;ge 1 0 0 26
+Von den elf PID-Zentren haben sieben PID-Zentren Daten gemeldet, in vier PID-Zentren wurden keine PID zu 
+der Indikation &#8222;Hohes Risiko einer schwerwiegenden Erbkrankheit f&#252;r die Nachkommenschaft&#8220; durchgef&#252;hrt.
+Einen &#220;berblick &#252;ber die Erkrankungen und &#252;ber die Untersuchungsmethoden zu durchgef&#252;hrten PID bei
+hohem Risiko einer schwerwiegenden Erbkrankheit f&#252;r die Nachkommenschaft liefert Tabelle 16.
+Tabelle 16 
+Zur Indikation: Hohes Risiko einer schwerwiegenden Erbkrankheit f&#252;r die Nachkommenschaft 
+Untersuchungsmethode FISH Array-CGH
+Molekulargenetische
+Mutationsdiagnostik
+gesamt
+autosomal-dominant
+Gesamtzahl 1 0 16 17
+Wiederholung 0 0 1 1 
+autosomal-rezessiv
+Gesamtzahl 0 0 20 20
+Wiederholung 0 0 3 3 
+geschlechtsgebunden
+Gesamtzahl 0 0 13 13
+Wiederholung 0 0 3 3 
+Chromosomenst&#246;rung
+Gesamtzahl 1 30 0 31
+Wiederholung 0 4 0 4 
+gesamt 2 34 56 92
+Gesamtzahl ohne Wiederholung 2 30 49 81
+Gesamtzahl der Wiederholungen 0 4 7 11
+Von den elf PID-Zentren haben sechs PID-Zentren Daten gemeldet, in f&#252;nf PID-Zentren wurde keine PID zur 
+Indikation &#8222;Schwerwiegende Sch&#228;digung des Embryos mit hoher Wahrscheinlichkeit einer Tot- oder
+Fehlgeburt&#8220; durchgef&#252;hrt. Es wurden keine Daten zu durchgef&#252;hrten PID bei schwerwiegender Sch&#228;digung des
+Embryos aufgrund autosomal-dominanter, autosomal-rezessiver und geschlechtsgebundener Erkrankung gemeldet.
+Eine &#220;bersicht der Untersuchungsmethoden bei Chromosomenst&#246;rung liefert Tabelle 17.
+Tabelle 17 
+Zur Indikation: Schwerwiegende Sch&#228;digung des Embryos mit hoher Wahrscheinlichkeit 
+einer Tot- oder Fehlgeburt 
+Untersuchungsmethode Array-CGH
+Molekulargenetische
+Mutationsdiagnostik
+Aneuploidiescreening 
+mit 
+Next Generation
+Sequencing
+gesamt
+Chromosomenst&#246;rung
+Gesamtzahl 8 14 3 25
+Wiederholung 1 2 0 3 
+Gesamt 9 16 3 28
+3.3.2. Abgelehnte PID-Diagnostik im Jahr 2016 
+Von den elf PID-Zentren haben vier PID-Zentren Daten zu abgelehnten PID gemeldet, in sieben PID-Zentren
+wurden zu der Indikation &#8222;Hohes Risiko einer schwerwiegenden Erbkrankheit f&#252;r die Nachkommenschaft&#8220;
+keine PID abgelehnt. Von den vier PID-Zentren sind drei der Ethikkommission Bayern und eines der
+Ethikkommission Nord zugeh&#246;rig. 
+Tabelle  18
+Zur Indikation: Hohes Risiko einer schwerwiegenden Erbkrankheit f&#252;r die Nachkommenschaft 
+Untersuchungsmethode MolekulargenetischeMutationsdiagnostik Array-CGH gesamt
+autosomal-dominant 15 0 15
+autosomal-rezessiv 5 0 5 
+geschlechtsgebunden 4 0 4 
+Chromosomenst&#246;rung 0 1 1 
+gesamt 24 1 25
+Von den elf PID-Zentren hat ein PID-Zentrum Daten gemeldet, in zehn PID-Zentren wurden zu der Indikation
+&#8222;Schwerwiegende Sch&#228;digung des Embryos mit hoher Wahrscheinlichkeit einer Tot- oder Fehlgeburt&#8220; keine
+PID abgelehnt. Das eine PID-Zentrum ist der Ethikkommission Bayern zugeh&#246;rig. Es wurden keine Daten zu
+abgelehnten PID bei schwerwiegender Sch&#228;digung des Embryos aufgrund autosomal-dominanter,
+autosomalrezessiver und geschlechtsgebundener Erkrankung gemeldet (siehe Tabelle 19). 
+Tabelle  19
+Zur Indikation: Schwerwiegende Sch&#228;digung des Embryos mit hoher Wahrscheinlichkeit 
+einer Tot- oder Fehlgeburt 
+Untersuchungsmethode MolekulargenetischeMutationsdiagnostik 
+Chromosomenst&#246;rung Gesamtzahl 2
+gesamt 2
+3.4. Daten zur PID f&#252;r das Kalenderjahr 2017
+Im Jahr 2017 sind elf PID-Zentren in den St&#228;dten in Hamburg, L&#252;beck, Heidelberg, Freiburg, Regensburg, zwei 
+in M&#252;nchen, Planegg-Martinsried, Saarbr&#252;cken, Essen und Mainz zugelassen. Von den elf PID-Zentren haben
+zehn PID-Zentren Daten gemeldet, in einem PID-Zentrum (Hamburg) wurden keine PID durchgef&#252;hrt. 
+Im Jahr 2017 wurde der Meldebogen nach Verbesserungsvorschl&#228;gen seitens der PID-Zentren in Abstimmung
+mit dem Bundesministerium f&#252;r Gesundheit ge&#228;ndert. Das Feld Untersuchungsmethoden gibt keine Methoden
+mehr vor, es ist jetzt ein freies Feld, in dem das gesamte Methodenspektrum abgebildet werden kann. Daraus
+ergibt sich eine umfangreichere Tabellenstruktur. Bei der durchgef&#252;hrten und abgelehnten PID mit der
+Indikation &#8222;schwerwiegende Sch&#228;digung des Embryos mit hoher Wahrscheinlichkeit einer Tot- oder Fehlgeburt&#8220;
+wurden die Spalten &#8222;Autosomal-dominant&#8220;, &#8222;Autosomal-rezessiv&#8220; und &#8222;geschlechtsgebunden erbliche Krankheit&#8220;
+gestrichen. Neu ist die Spalte &#8222;Nicht-chromosomale St&#246;rungen&#8220; und Aufteilung der Spalte
+&#8222;Chromosomenst&#246;rungen&#8220; in &#8222;Strukturelle Ver&#228;nderungen&#8220; und Numerische Ver&#228;nderungen&#8220;. 
+Tabelle  20 
+Anzahl der Antr&#228;ge mit zustimmender Bewertung, durchgef&#252;hrter PID und der Anzahl abgelehnter 
+Antr&#228;ge f&#252;r das Jahr 2017
+Kalenderjahr 2017
+Antr&#228;ge mit zustimmender Bewertung 286
+Anzahl der durchgef&#252;hrten PID 203
+Anzahl der abgelehnten Antr&#228;ge 18
+3.4.1. Durchgef&#252;hrte PID-Diagnostiken im Jahr 2017
+Im Kalenderjahr 2017 haben alle PID-Zentren bis auf Hamburg PID durchgef&#252;hrt.
+Tabelle  21 
+Antragstellung und Durchf&#252;hrung im Kalenderjahr 2017 
+PID-Zentrum Antrag auf PID gestellt PID durchgef&#252;hrt 
+Hamburg &#8211; &#8211; 
+L&#252;beck ja ja 
+Heidelberg ja ja 
+Freiburg ja ja 
+Regensburg ja ja 
+MGZ M&#252;nchen ja ja 
+Synlab M&#252;nchen ja ja 
+Planegg-Martinsried ja ja 
+Homburg ja ja 
+Essen ja ja 
+Mainz ja ja 
+Folgende Daten wurden der Zentralstelle f&#252;r das Jahr 2017 f&#252;r PID von den PID-Zentren gemeldet. Die
+Ethikkommission Berlin wird nicht mit aufgef&#252;hrt, da in Berlin kein PID-Zentrum zugelassen wurde.
+Tabelle  22
+Anzahl der Antr&#228;ge der Ethikkommissionen mit zustimmender Bewertung, nach zustimmender 
+Bewertung durchgef&#252;hrter PID und der Anzahl abgelehnter Antr&#228;ge f&#252;r das Jahr 2017 
+(Zahlen wurden anhand der von den PID-Zentren gemeldet Daten errechnet) 
+Ethikkommission 
+Nord 
+Ethikkommission  
+S&#252;d 
+Ethikkommission 
+NRW
+Ethikkommission 
+Bayern 
+Anzahl der Antr&#228;ge auf
+zustimmende Bewertung 18 49 20 199
+Anzahl der nach 
+zustimmender Bewertung 
+durchgef&#252;hrten PID 
+16 38 12 137
+Anzahl der abgelehnten 
+Antr&#228;ge 1 0 0 17
+Von den elf PID-Zentren haben sieben PID-Zentren Daten gemeldet, in vier PID-Zentren wurden keine PID zur
+Indikation &#8222;Hohes Risiko einer schwerwiegenden Erbkrankheit f&#252;r die Nachkommenschaft&#8220; durchgef&#252;hrt.
+Tabelle  23
+Zur Indikation: Hohes Risiko einer schwerwiegenden Erbkrankheit f&#252;r die Nachkommenschaft 
+Untersuchungsmethode
+K
+op
+pl
+un
+gs
+an
+al
+ys
+e
+m
+ol
+ek
+ul
+ar
+ge
+ne
+tis
+ch
+e 
+M
+ut
+at
+io
+ns
+di
+ag
+no
+sti
+k
+K
+ar
+yo
+m
+ap
+pi
+ng
+ 
+M
+ar
+ke
+ra
+na
+ly
+se
+ 
+A
+ne
+up
+lo
+id
+ie
+sc
+re
+en
+in
+g
+Sa
+ng
+er
+-b
+zw
+. P
+yr
+os
+eq
+ue
+nz
+ie
+ru
+ng
+ 
+ko
+m
+bi
+ni
+er
+t m
+it 
+ST
+R-
+M
+ar
+ke
+ra
+na
+ly
+se
+ 
+ge
+sa
+m
+t
+au
+to
+so
+m
+al
+-
+do
+m
+in
+an
+t Gesamtzahl 8 10 4 0 0 1 23
+Wiederholung 2 2 0 0 0 0 4 
+au
+to
+so
+m
+al
+-
+re
+ze
+ss
+iv
+ Gesamtzahl 0 13 7 0 0 2 22
+Wiederholung 0 4 1 0 0 0 5 
+ge
+sc
+hl
+ec
+ht
+sge
+bu
+nd
+en
+Gesamtzahl 4 11 1 1 0 0 17
+Wiederholung 1 0 0 0 0 0 1
+Untersuchungsmethode
+K
+op
+pl
+un
+gs
+an
+al
+ys
+e
+m
+ol
+ek
+ul
+ar
+ge
+ne
+tis
+ch
+e 
+M
+ut
+at
+io
+ns
+di
+ag
+no
+sti
+k
+K
+ar
+yo
+m
+ap
+pi
+ng
+ 
+M
+ar
+ke
+ra
+na
+ly
+se
+ 
+A
+ne
+up
+lo
+id
+ie
+sc
+re
+en
+in
+g
+Sa
+ng
+er
+-b
+zw
+. P
+yr
+os
+eq
+ue
+nz
+ie
+ru
+ng
+ 
+ko
+m
+bi
+ni
+er
+t m
+it 
+ST
+R-
+M
+ar
+ke
+ra
+na
+ly
+se
+ 
+ge
+sa
+m
+t
+C
+hr
+om
+os
+om
+en
+-
+st
+&#246;r
+un
+g-
+Gesamtzahl 0 0 25 0 2 0 27
+Wiederholung 0 0 1 0 0 0 1 
+gesamt 15 40 39 1 2 3 100
+Gesamtzahl ohne Wiederholung 12 34 37 1 2 3 89
+Gesamtzahl der Wiederholungen 3 6 2 0 0 0 11
+Von den elf PID-Zentren haben zehn PID-Zentren Daten gemeldet, in einem PID-Zentrum wurden keine PID
+zur Indikation &#8222;Schwerwiegende Sch&#228;digung des Embryos mit hoher Wahrscheinlichkeit einer Tot- oder
+Fehlgeburt&#8221; durchgef&#252;hrt. Es wurden keine Daten zu durchgef&#252;hrten PID bei schwerwiegender Sch&#228;digung des
+Embryos aufgrund nicht-chromosomaler St&#246;rungen gemeldet.
+Tabelle  24
+Zur Indikation: Schwerwiegende Sch&#228;digung des Embryos mit hoher Wahrscheinlichkeit 
+einer Tot- oder Fehlgeburt 
+Untersuchungsmethode
+A
+rra
+y-
+CG
+H
+N
+G
+S-
+ba
+sie
+rte
+K
+op
+ie
+nz
+ah
+la
+na
+ly
+se
+SN
+P-
+A
+rra
+y 
+Te
+stu
+ng
+ 
+A
+ne
+up
+lo
+id
+ie
+sc
+re
+en
+in
+g 
+al
+sZ
+us
+at
+z 
+zu
+r m
+on
+og
+en
+en
+ E
+rk
+ra
+nk
+un
+g 
+(in
+ T
+ab
+el
+le
+ 2
+0
+ni
+ch
+t e
+in
+be
+re
+ch
+ne
+t) 
+V
+er
+iS
+eq
+FI
+SH
+V
+er
+iS
+eq
+, N
+G
+S 
+ba
+sie
+rte
+sA
+ne
+up
+lo
+id
+ie
+sc
+re
+en
+in
+g 
+ge
+sa
+m
+t
+Ch
+ro
+m
+os
+om
+en
+st
+&#246;r
+un
+g strukturelle
+Ver&#228;nderungen 
+Gesamtzahl 70 1 5 0 0 1 1 78
+Wiederholung 17 0 0 0 0 0 0 17
+numerische
+Ver&#228;nderungen 
+Gesamtzahl 26 0 0 10 12 0 3 51
+Wiederholung 3 0 0 0 0 0 0 3 
+gesamt 116 1 5 10 12 1 4 149
+Gesamtzahl 
+ohne Wiederholung 96 1 5 10 12 1 4 129
+Gesamtzahl 
+der Wiederholungen 20 0 0 0 0 0 0 20
+3.4.2. Abgelehnte PID-Diagnostik im Jahr 2017 
+Von den elf PID-Zentren haben zwei PID-Zentren Daten gemeldet, in neun PID-Zentren wurden zur Indikation
+&#8222;Hohes Risiko einer schwerwiegenden Erbkrankheit f&#252;r die Nachkommenschaft f&#252;r das Jahr 2017&#8220; keine PID
+abgelehnt. Die zwei PID-Zentren sind der Ethikkommission Bayern zugeh&#246;rig. Es wurden keine Daten zu
+abgelehnten PID bei schwerwiegender Erbkrankheit aufgrund autosomal-rezessiver, geschlechtsgebundener
+Erkrankungen und struktureller Chromosomenst&#246;rungen gemeldet.
+Tabelle 25 
+Zur Indikation: Hohes Risiko einer schwerwiegenden Erbkrankheit f&#252;r die Nachkommenschaft 
+f&#252;r das Jahr 2017
+Untersuchungsmethode Karyo-mapping Veriseq
+Karyomapping 
+mit
+Mikrosatellitenanalyse
+NGS
+Molekulargenetische
+Mutationsdiagnostik 
+gesamt
+autosomal-dominant 1 0 6 0 3 10
+autosomal-rezessiv 0 0 0 0 1 1 
+gesamt 1 0 6 0 4 11
+Von den elf PID-Zentren haben zwei PID-Zentren Daten gemeldet, in neun PID-Zentren wurde zur Indikation
+&#8222;Schwerwiegende Sch&#228;digung des Embryos mit hoher Wahrscheinlichkeit einer Tot- oder Fehlgeburt&#8220; keine
+PID abgelehnt. Die zwei PID-Zentren sind der Ethikkommission Bayern zugeh&#246;rig.
+Tabelle  26 
+Zur Indikation: Schwerwiegende Sch&#228;digung des Embryos mit hoher Wahrscheinlichkeit 
+einer Tot- oder Fehlgeburt 
+Untersuchungsmethode Veriseq
+NGS 
+(Next Generation
+Sequencing)
+oder 
+Array-CGH 
+gesamt
+Chromosomenst&#246;rung 
+numerische Ver&#228;nderungen 1 6 7 
+Es wurden keine Daten zu abgelehnten PID bei schwerwiegender Sch&#228;digung des Embryos aufgrund
+struktureller Chromosomenst&#246;rungen und nicht-chromosomalen St&#246;rungen gemeldet.
+3.5. Von den PID-Zentren gemeldete Daten f&#252;r das Kalenderjahr 2018
+Im Jahr 2018 sind elf PID-Zentren in den St&#228;dten Hamburg, L&#252;beck, Heidelberg, Freiburg, Regensburg, zwei
+in M&#252;nchen, Planegg-Martinsried, Saarbr&#252;cken, Essen und Mainz zugelassen. Von den elf PID-Zentren haben
+zehn PID-Zentren Daten gemeldet, in einem PID-Zentrum wurde keine PID durchgef&#252;hrt.
+Tabelle  27
+Antragstellung und Durchf&#252;hrung im Kalenderjahr 2018 
+PID-Zentrum Antrag auf PID gestellt PID durchgef&#252;hrt 
+Hamburg &#8211; &#8211; 
+L&#252;beck ja ja 
+Heidelberg ja ja 
+Freiburg ja ja 
+Regensburg ja ja 
+MGZ M&#252;nchen ja ja 
+Synlab M&#252;nchen ja ja 
+Planegg-Martinsried ja ja 
+Homburg ja ja 
+Essen ja ja 
+Mainz ja ja 
+Folgende Daten wurden der Zentralstelle im Jahr 2018 f&#252;r PID von den PID-Zentren gemeldet. Die
+Ethikkommission Berlin wird nicht mit aufgef&#252;hrt, da in Berlin kein PID-Zentrum zugelassen wurde.
+Tabelle  28
+Anzahl der Antr&#228;ge der Ethikkommissionen mit zustimmender Bewertung, nach zustimmender 
+Bewertung durchgef&#252;hrter PID und der Anzahl abgelehnter Antr&#228;ge f&#252;r das Jahr 2018 
+(Zahlen wurden anhand der von den PID-Zentren gemeldeten Daten errechnet) 
+Ethikkommission 
+Nord 
+Ethikkommission 
+S&#252;d 
+Ethikkommission 
+NRW
+Ethikkommission 
+Bayern 
+Anzahl der Antr&#228;ge auf
+zustimmende Bewertung 12 48 21 238
+Anzahl der nach zustimmender
+Bewertung durchgef&#252;hrten PID 23 45 24 223
+Anzahl der abgelehnten Antr&#228;ge 0 0 0 23
+Tabelle  29
+Anzahl der Antr&#228;ge mit zustimmender Bewertung, durchgef&#252;hrter PID und der Anzahl abgelehnter 
+Antr&#228;ge f&#252;r das Jahr 2018.
+Kalenderjahr 2018
+Antr&#228;ge mit zustimmender Bewertung 319 
+Anzahl der durchgef&#252;hrten PID 315
+Anzahl der abgelehnten Antr&#228;ge 23
+3.5.1. Durchgef&#252;hrte PID-Diagnostiken im Jahr 2018
+Von den elf PID-Zentren haben zehn PID-Zentren Daten gemeldet, in einem PID-Zentrum wurden keine PID
+zur Indikation &#8222;Hohes Risiko einer schwerwiegenden Erbkrankheit f&#252;r die Nachkommenschaft&#8220; durchgef&#252;hrt.
+Tabelle  30 
+Zur Indikation: Hohes Risiko einer schwerwiegenden Erbkrankheit f&#252;r die Nachkommenschaft 
+Untersuchungsmethode
+K
+op
+pl
+un
+gs
+an
+aly
+se
+; M
+ut
+at
+io
+ns
+na
+ch
+w
+eis
+PC
+R-
+ba
+sie
+rte
+ in
+di
+re
+kt
+e (
+ge
+ko
+pp
+el
+te
+ M
+ik
+ro
+sa
+tel
+lit
+en
+) u
+nd
+ d
+ire
+kt
+e
+(S
+an
+ge
+r-
+Se
+qu
+en
+zie
+ru
+ng
+)A
+na
+ly
+se
+PC
+R-
+ba
+sie
+rte
+ in
+di
+re
+kt
+e (
+ge
+ko
+pp
+el
+te
+ M
+ik
+ro
+sa
+tel
+lit
+en
+) A
+na
+ly
+se
+ 
+K
+ar
+yo
+m
+ap
+pi
+ng
+/S
+TS
+-M
+ar
+ke
+r/ 
+gg
+f.
+di
+re
+kt
+er
+M
+ut
+at
+io
+ns
+na
+ch
+w
+ei
+s
+m
+ol
+ek
+ul
+ar
+ge
+ne
+tis
+ch
+e M
+ut
+ati
+on
+sd
+iag
+no
+sti
+k 
+A
+ne
+up
+lo
+id
+ies
+cr
+ee
+ni
+ng
+K
+ar
+yo
+m
+ap
+pi
+ng
+ST
+R-
+M
+ar
+ke
+ra
+na
+ly
+se
+ 
+N
+ex
+t-G
+en
+er
+ati
+on
+-S
+eq
+ue
+nc
+in
+g 
+(V
+er
+iS
+eq
+)
+PC
+R
+A
+rra
+y-
+CG
+H
+K
+ar
+yo
+m
+ap
+pi
+ng
+ an
+Tr
+op
+he
+kt
+od
+er
+m
+Sa
+ng
+er
+- b
+zw
+. P
+yr
+os
+eq
+ue
+nz
+ie
+ru
+ng
+ k
+om
+bi
+ni
+er
+t 
+m
+it
+ST
+R-
+M
+ar
+ke
+ra
+na
+ly
+se
+ 
+ge
+sa
+m
+t
+au
+to
+so
+m
+al
+-
+do
+m
+in
+an
+t Gesamtzahl 9 0 0 7 3 0 12 1 0 0 2 1 3 38
+Wiederholung 0 0 0 0 1 0 8 1 0 0 1 0 0 11
+au
+to
+so
+m
+al
+-
+re
+ze
+ss
+iv
+ Gesamtzahl 2 1 1 7 8 0 11 0 0 3 0 8 3 44
+Wiederholung 0 0 0 0 0 0 7 0 0 0 0 1 0 8
+ge
+sc
+hl
+ec
+ht
+sge
+bu
+nd
+en
+Gesamtzahl 5 0 0 3 12 0 3 0 0 0 0 3 1 27
+Wiederholung 1 0 0 0 2 0 2 0 0 0 0 1 0 6
+C
+hr
+om
+os
+om
+en
+-
+st
+&#246;r
+un
+g- Gesamtzahl 0 0 0 0 0 3 0 0 27 0 0 0 0 30
+Wiederholung 0 0 0 0 0 1 0 0 6 0 0 0 0 7 
+gesamt 17 1 1 17 26 4 43 2 33 3 3 14 7 171
+Gesamtzahl ohne
+Wiederholung 16 1 1 17 23 3 26 1 27 3 2 12 7 139
+Gesamtzahl der
+Wiederholungen 1 0 0 0 3 1 17 1 6 0 1 2 0 32
+Von den elf PID-Zentren haben neun PID-Zentren Daten gemeldet, in zwei PID-Zentren wurden keine PID zur 
+Indikation &#8222;Schwerwiegende Sch&#228;digung des Embryos mit hoher Wahrscheinlichkeit einer Tot- oder
+Fehlgeburt&#8220; durchgef&#252;hrt. Es wurden keine Daten zu durchgef&#252;hrten PID bei schwerwiegender Sch&#228;digung des
+Embryos aufgrund nicht-chromosomaler St&#246;rungen gemeldet.
+Tabelle  31
+Zur Indikation: Schwerwiegende Sch&#228;digung des Embryos mit hoher Wahrscheinlichkeit 
+einer Tot- oder Fehlgeburt 
+Untersuchungsmethode
+A
+rra
+y-
+CG
+H
+N
+G
+S-
+ba
+sie
+rte
+ K
+op
+ie
+nz
+ah
+la
+na
+ly
+se
+ 
+A
+ne
+up
+lo
+id
+ie
+-S
+cr
+ee
+ni
+ng
+ (S
+N
+P-
+A
+rra
+y 
+Te
+stu
+ng
+ o
+de
+rN
+G
+S)
+A
+ne
+up
+lo
+id
+ie
+sc
+re
+en
+in
+g
+A
+ne
+up
+lo
+id
+ie
+sc
+re
+en
+in
+g 
+al
+s Z
+us
+at
+z 
+zu
+r m
+on
+og
+en
+en
+ 
+Er
+kr
+an
+ku
+ng
+ 
+N
+ex
+t-G
+en
+er
+at
+io
+n-
+Se
+qu
+en
+ci
+ng
+ (V
+er
+iS
+eq
+)
+N
+ex
+t-G
+en
+er
+at
+io
+n-
+Se
+qu
+en
+ci
+ng
+FI
+SH
+V
+er
+iS
+eQ
+,N
+G
+S 
+ba
+si
+er
+te
+s A
+ne
+up
+lo
+id
+ie
+-s
+cr
+ee
+ni
+ng
+ge
+sa
+m
+t
+  C
+hr
+om
+os
+om
+en
+-
+st
+&#246;r
+un
+g
+strukturelle
+Ver&#228;nderungen 
+Gesamtzahl 14 8 6 0 0 0 45 0 2 75
+Wiederholung 1 3 0 0 0 0 20 1* 0 25
+numerische
+Ver&#228;nderungen 
+Gesamtzahl 1 0 1 2 10 29 21 0 5 69
+Wiederholung 0 0 0 0 0 0 9 0 0 9 
+gesamt 16 11 7 2 10 29 95 1 7 178
+Gesamtzahl 
+ohne Wiederholung 15 8 7 2 10 29 66 0 7 144
+Gesamtzahl 
+der Wiederholungen 1 3 0 0 0 0 29 1 0 34
+* Die PID wurde im Jahr 2017 durchgef&#252;hrt, die Wiederholung im Jahr 2018. 
+3.5.2. Abgelehnte PID-Diagnostik im Jahr 2018 
+Von den elf PID-Zentren haben drei PID-Zentren Daten gemeldet, in acht PID-Zentren wurde zur Indikation
+&#8222;Hohes Risiko einer schwerwiegenden Erbkrankheit f&#252;r die Nachkommenschaft&#8220; keine PID abgelehnt. Die drei 
+PID-Zentren sind der Ethikkommission Bayern zugeh&#246;rig. Es wurden keine Daten zu abgelehnten PID bei
+schwerwiegenden Erbkrankheiten aufgrund von strukturellen und numerischen Chromosomenver&#228;nderungen 
+gemeldet.
+Tabelle 32 
+Zur Indikation: Hohes Risiko einer schwerwiegenden Erbkrankheit f&#252;r die Nachkommenschaft 
+Karyomapping
+Karyomapping 
+oder
+Mikrosatellitenanalyse
+PCR Gesamt
+autosomal-dominant 6 1 0 7 
+autosomal-rezessiv 1 1 0 2 
+geschlechtsgebunden 2 0 1 3 
+gesamt 9 2 1 12
+Von den elf PID-Zentren haben drei PID-Zentren Daten gemeldet, in acht PID-Zentren wurde zur Indikation
+&#8222;Schwerwiegende Sch&#228;digung des Embryos mit hoher Wahrscheinlichkeit einer Tot- oder Fehlgeburt&#8220; keine
+PID abgelehnt. Die drei PID-Zentren sind der Ethikkommission Bayern zugeh&#246;rig. Es wurden keine Daten zu
+abgelehnten PID bei schwerwiegender Sch&#228;digung des Embryos aufgrund nicht-chromosomaler St&#246;rungen
+gemeldet. 
+Tabelle  33 
+Zur Indikation: Schwerwiegende Sch&#228;digung des Embryos mit hoher Wahrscheinlichkeit 
+einer Tot- oder Fehlgeburt 
+Untersuchungsmethode
+Next- 
+Generation- 
+Sequencing
+Next-
+Generation- 
+Sequencing 
+(Aneuploidie)
+gesamt
+Chromosomenst&#246;rung
+strukurelle 
+Ver&#228;ndeurngen Gesamtzahl 1 0 1
+numerische 
+Ver&#228;nderungen Gesamtzahl 7 3 10 
+gesamt 8 3 11
+3.5.3. Bewertung 
+In &#167; 3a Absatz 2 ESchG sind zwei Ausnahmen vom grunds&#228;tzlichen Verbot der PID geregelt. Besteht auf Grund
+der genetischen Disposition der Frau, von der die Eizelle stammt, oder des Mannes, von dem die Samenzelle
+stammt, oder von beiden f&#252;r deren Nachkommen das hohe Risiko einer schwerwiegenden Erbkrankheit, handelt
+nicht rechtswidrig, wer zur Herbeif&#252;hrung einer Schwangerschaft mit schriftlicher Einwilligung der Frau, von
+der die Eizelle stammt, nach dem allgemein anerkannten Stand der medizinischen Wissenschaft und Technik 
+Zellen des Embryos in vitro vor dem intrauterinen Transfer auf die Gefahr dieser Krankheit genetisch untersucht
+(&#167; 3a Absatz 2 Satz 1 ESchG). Nicht rechtswidrig handelt auch, wer eine PID mit schriftlicher Einwilligung der
+Frau, von der die Eizelle stammt, zur Feststellung einer schwerwiegenden Sch&#228;digung des Embryos vornimmt, 
+die mit hoher Wahrscheinlichkeit zu einer Tot- oder Fehlgeburt f&#252;hren wird (&#167; 3a Absatz 2 Satz 2 ESchG).  
+Der Gesetzgeber hat bewusst auf einen Katalog bestimmter Krankheiten bez&#252;glich der &#8222;schwerwiegenden
+Erbkrankheit&#8220; verzichtet. Die Feststellung, ob ausnahmsweise eine PID durchgef&#252;hrt werden kann, obliegt dem
+behandelnden Arzt nach medizinischer Indikation im jeweiligen Einzelfall und der Bewertung des Einzelfalls
+durch die Ethikkommission.
+Unter &#8222;Erbkrankheiten&#8220; sind laut der Gesetzesbegr&#252;ndung zu &#167; 3a ESchG entsprechend dem damaligen
+Kenntnisstand der Gendiagnostik monogen bedingte Erkrankungen und Chromosomenst&#246;rungen zu verstehen
+(Bundestagsdrucksache 17/5451, S. 8). Die in der Begr&#252;ndung zur PIDV erw&#228;hnte Methode der Fluoreszenz-in-situ-
+Hybridisierung (FISH) ist eine f&#252;r die Feststellung solcher Chromosomenst&#246;rungen geeignete Methode
+(Bundesratsdrucksache 717/12, S. 24). Die Datenerhebung in den Jahren 2015 und 2016 weist daher auch f&#252;r den
+Indikationsbereich der schwerwiegenden Erbkrankheiten diese Methode auf, was ein Hinweis darauf ist, dass 
+in diesen Jahren die Chromosomenst&#246;rung noch zu den Erbkrankheiten gez&#228;hlt wurde. Aufgrund der
+R&#252;ckmeldungen aus den PID-Zentren und der &#196;nderung des Meldebogens sind in den Jahren 2017 und 2018 die
+Chromosomenst&#246;rungen ausschlie&#223;lich im Indikationsbereich &#8222;Schwerwiegende Sch&#228;digung des Embryos mit hoher 
+Wahrscheinlichkeit einer Tot- oder Fehlgeburt&#8220; aufgenommen.  
+Translokationen oder Aneuploidien k&#246;nnen unter Umst&#228;nden schwerwiegende Sch&#228;digungen des Embryos
+bedingen und zu einer Tot- oder Fehlgeburt f&#252;hren. F&#252;r die Untersuchung auf diese Chromosomenver&#228;nderungen
+kommt das Verfahren der mikroarraybasierten komparativen genomischen Hybridisierung (Array-CGH) zum
+Einsatz, bei dem die gesamte embryonale DNA amplifiziert und automatisiert mit einer Kontroll-DNA
+verglichen wird. Die Fluoreszenz-in-situ-Hybridisierung (FISH) wurde kaum angewandt. Hierbei handelt es sich um
+eine molekularzytogenetische Untersuchung, mit der definierte Bereiche des Genoms dargestellt werden
+k&#246;nnen. Fluorochrom-markierte DNA-Sonden hybridisieren mit homologen chromosomalen Sequenzen. Der 
+Nachteil dieser Methode besteht laut TAB-Arbeitsbericht Nummer 182, S. 37 darin, dass nur eine begrenzte
+Anzahl von Chromosomen untersucht wird und fehlerhafte Ergebnisse aufgrund der nichtautomatisierten
+Handhabung des Verfahrens vergleichsweise h&#228;ufig sind.
+Die Vielfalt an Untersuchungsmethoden hat im Lauf der Jahre zugenommen. Diese Entwicklung wurde
+ber&#252;cksichtigt, indem der Meldebogen seit dem Jahr 2017 keine Methoden mehr vorgibt, so dass das gesamte
+Methodenspektrum abgebildet werden kann. Die Anzahl der durchgef&#252;hrten PID im Jahr 2018 ist f&#252;r beide in &#167; 3a
+Absatz 2 ESchG genannten Indikationen fast identisch.
+Auf die Untersuchungsmethoden wie beispielsweise das Karyomapping und Next-Generation-Sequencing wird 
+ausf&#252;hrlich im TAB-Arbeitsbericht Nummer 182 eingegangen. Zu einzelnen Methoden sind Erl&#228;uterungen im
+Glossar dieses Berichts zu finden (siehe Anhang).
+In den aufgef&#252;hrten Tabellen wird deutlich, dass die Anzahl der positiv bewerteten Antr&#228;ge zahlenm&#228;&#223;ig nicht
+mit der Anzahl der durchgef&#252;hrten PID &#252;bereinstimmt. Dieser Effekt kann unterschiedliche Gr&#252;nde haben: 
+&#61623; Die zustimmende Bewertung eines Antrags durch die Ethikkommission und die Durchf&#252;hrung der PID
+finden nicht im selben Kalenderjahr statt. Verlagert sich die genetische Untersuchung trotz positivem
+Votum in das darauffolgende Jahr, beispielsweise durch Verz&#246;gerungen im Rahmen der Hormonstimulation
+oder pers&#246;nliche Entscheidung der Frau, wird dies erst im folgenden Kalenderjahr erfasst. 
+&#61623; Die Verfahren der genetischen Untersuchung unterscheiden sich stark. Zum Beispiel wird f&#252;r die
+Untersuchung auf eine bestimmte monogene Erkrankung nach der Vervielf&#228;ltigung der relevanten Genabschnitte
+entweder ein direkter oder indirekter Nachweis der betreffenden Mutation durchgef&#252;hrt. Sind die
+Testsysteme noch nicht etabliert, ist das Verfahren zeitintensiv und kann durchaus einige Monate dauern. Auch
+hierbei kann es dazu kommen, dass die PID erst im folgenden Kalenderjahr durchgef&#252;hrt und erfasst wird.
+&#61623; Ein Paar, das bereits in der Vergangenheit mit einem positiv bewerteten PID-Antrag ein Kind bekommen 
+hat, hat einen weiteren Kinderwunsch. Der Antrag mit bereits zustimmender Bewertung wird somit nicht
+zwingend erneut erfasst.
+&#61623; Bei Paaren, f&#252;r die die PID in beiden Indikationsgruppen genehmigt wird, wird der Antrag mit
+zustimmender Bewertung nur einmal eingetragen, jedoch die Durchf&#252;hrung der PID in beiden Indikationstabellen
+aufgef&#252;hrt.
+IV. Gesetzliche &#196;nderungen, Rechtsprechung und Literatur 
+4.1. Gesetzliche &#196;nderungen 
+Der Gesetzgeber hatte die Frage der Kosten&#252;bernahme durch die gesetzlichen Krankenkassen im
+Gesetzgebungsverfahren zur Einf&#252;hrung des &#167; 3a ESchG unbeantwortet gelassen. Sie ist auch nicht im Zusammenhang 
+mit der Erarbeitung der PIDV im Jahr 2013 aufgegriffen worden. Eine Kostenerstattung kommt bislang nicht
+in Betracht, da die PID bislang nicht zum Leistungskatalog der gesetzlichen Krankenversicherung geh&#246;rt
+(vgl. BSG-Urteil vom 18.11.2014 &#8211; B 1 KR 19/13).
+Im Verfahren zum Terminservice- und Versorgungsgesetz (TSVG) hat der Bundesrat in seiner Stellungnahme
+den Vorschlag f&#252;r die Aufnahme der PID in den Leistungskatalog der GKV eingebracht [Bundesratsdrucksache
+504/18 (Beschluss). Die Bundesregierung hat hierzu in der Gegen&#228;u&#223;erung eine Pr&#252;fung zugesagt, die noch
+nicht abgeschlossen ist.
+4.2. Rechtsprechung 
+Im Ersten Bericht der Bundesregierung &#252;ber die Erfahrungen mit der PID war der Diskussionsstand zu der Frage 
+dargelegt worden, ob eine PID, die an mittels Trophektodermbiopsie entnommenen Zellen eines Embryos (sog.
+Trophoblastzellen) durchgef&#252;hrt wird, vom Anwendungsbereich des &#167; 3a ESchG erfasst werde und damit auch 
+den verfahrensm&#228;&#223;igen Regelungen der PIDV unterliege (siehe Seite 4 und 5).
+Im Berichtszeitraum hatte sich die bayerische Verwaltungsgerichtsbarkeit aus Anlass einer
+Untersagungsverf&#252;gung der Landeshauptstadt M&#252;nchen gegen eine Laborbetreiberin mit dieser Frage zu befassen. Die
+Laborbetreiberin wollte in ihrer M&#252;nchener Zweigniederlassung Untersuchungen an mittels Trophektodermbiopsie
+gewonnenen embryonalen Zellen ohne zustimmendes Votum der zust&#228;ndigen Ethikkommission f&#252;r PID
+durchf&#252;hren. Relevant in diesem Kontext war auch die Frage, ob eine Untersuchung mittels Trophektodermbiopsie
+gewonnener Zellen zum Zweck der Erkennung der Entwicklungsf&#228;higkeit des Embryos in den
+Anwendungsbereich des &#167; 3a Absatz 2 ESchG f&#228;llt. Die erstinstanzliche Klageabweisung durch das Verwaltungsgericht
+M&#252;nchen (Az. M 18 K 15.2602, Urteil vom 7. September 2016) wurde vom Bayerischen
+Verwaltungsgerichtshof (BayVGH) best&#228;tigt (Az. 20 B 18.290, Urteil vom 30. November 2018). Der BayVGH hat die Revision 
+zugelassen, um kl&#228;ren zu lassen, ob eine PID zu dem Zweck, die F&#228;higkeit eines Embryos zur Einnistung in die
+Geb&#228;rmutter aufgrund des ovariellen Alterns der Eizelle festzustellen, von &#167; 3a Absatz 1 ESchG erfasst ist. Das
+Revisionsverfahren vor dem Bundesverwaltungsgericht ist derzeit anh&#228;ngig (BVerwG 3 C 6.19). 
+Au&#223;erdem ist eine ablehnende Entscheidung der Bayerischen Ethikkommission f&#252;r PID im Hinblick auf einen
+Antrag auf zustimmende Bewertung zur Durchf&#252;hrung einer PID wegen eines etwaigen hohen Risikos einer
+schwerwiegenden Erbkrankheit nach &#167; 3a Absatz 2 Satz 1 ESchG Gegenstand eines verwaltungsgerichtlichen
+Verfahrens. 
+Der BayVGH hat mit Urteil vom 14. M&#228;rz 2019 in dem Berufungsverfahren (Az. 20 BV 17.1507) hierzu in den 
+Leits&#228;tzen festgestellt, dass eine schwerwiegende Erbkrankheit im Sinne des &#167; 3a Absatz 2 Satz 1 ESchG nur
+vorliege, wenn sie den Schweregrad der Erkrankung an der Muskeldystrophie Duchenne aufweise. F&#252;r die
+Auslegung des unbestimmten Rechtsbegriffs der schwerwiegenden Erbkrankheit hat das Gericht &#167; 3 Satz 2 ESchG 
+herangezogen, da dort die Muskeldystrophie Duchenne als schwerwiegende (geschlechtsgebundene)
+Erbkrankheit beispielhaft genannt werde. 
+Abzustellen sei f&#252;r die &#8222;Einstufung als schwerwiegend&#8220; immer auf den konkret zu erwartenden
+Auspr&#228;gungsgrad der Erbkrankheit und die damit verbundenen Auswirkungen auf die Eltern. In dem zu entscheidenden Fall 
+ging es bei der Bewertung des Merkmals &#8222;schwerwiegend&#8220; um eine beim potentiellen Kindesvater vorliegende
+Form der myotonen Dystrophie Typ 1. Das Gericht hat festgestellt, dass die Muskeldystrophie vom Typ
+Duchenne in &#167; 3 Satz 2 ESchG bereits als Ma&#223;stab f&#252;r den Schweregrad, der bei einer schwerwiegenden
+Erbkrankheit nach ESchG vorliegen muss, genannt ist und die Muskeldystrophie vom Typ Duchenne
+schwerwiegender ist, als die Form der myotonen Dystrophie Typ 1, die im konkreten Fall beim potentiellen Kindsvater
+vorliegt. Das Gericht hat zudem festgestellt, dass die Entscheidung der Bayerischen Ethikkommission &#252;ber das
+Vorliegen einer schwerwiegenden Erbkrankheit vollumf&#228;nglich gerichtlicher Kontrolle unterliege und keinen 
+Beurteilungsspielraum er&#246;ffne. Von einem hohen Risiko nach &#167; 3a Absatz 2 Satz 1 ESchG sei nach Feststellung 
+des Gerichts bei monogenen Erbkrankheiten auszugehen, wenn die Eintrittswahrscheinlichkeit f&#252;r eine
+schwerwiegende Erbkrankheit zwischen 25 und 50 Prozent liege.
+Der BayVGH hat die Revision zugelassen, da die Fragen, welcher Ma&#223;stab f&#252;r die Einstufung einer
+Erbkrankheit als schwerwiegend i. S. d. &#167; 3a Absatz 2 Satz 1 ESchG anzulegen sei und ob der Ethikkommission dabei 
+ein Beurteilungsspielraum zustehe, grunds&#228;tzliche Bedeutung haben. 
+Das Revisionsverfahren vor dem Bundesverwaltungsgericht ist derzeit anh&#228;ngig (BVerwG 3 C 12.19).
+4.3. Literatur
+Die PID ist Gegenstand zahlreicher Ver&#246;ffentlichungen aus verschiedenen Fachrichtungen. Dies verdeutlicht, 
+dass die Diskussionen um die PID auch nach dem Inkrafttreten der PIDV im Jahr 2014 und nach der
+Ver&#246;ffentlichung des Ersten Erfahrungsberichts der Bundesregierung Ende 2015 nicht beendet sind. Dabei werden
+sowohl einzelne Aspekte der PID als auch weiterhin die PID generell thematisiert. 
+Der TAB-Arbeitsbericht Nummer 182 macht auf Seite 124 deutlich, &#8222;dass eine schrittweise Ausweitung der 
+Indikationen in mehreren L&#228;ndern nach Einf&#252;hrung der PID beobachtet wird.&#8220; In Deutschland k&#246;nne dies durch
+Ver&#228;nderungen in der Entscheidungspraxis der PID-Ethikkommissionen erfolgen. Diskutiert werde
+gegenw&#228;rtig, inwiefern sp&#228;tmanifestierende Krankheiten wie Chorea Huntington oder genetische Varianten, die mit einer
+stark erh&#246;hten Wahrscheinlichkeit von Brustkrebs assoziiert sind, eine Indikation f&#252;r PID darstellen. Es sei zu
+erwarten, dass eine Ausweitung der Indikationen eine Steigerung der Zahl der Behandlungen nach sich ziehen
+w&#252;rde. 
+Zwischen den PID-Zentren kann die Beurteilung einer Krankheit als sp&#228;t-manifestierend und daher als nicht
+zur Indikation f&#252;r eine PID geeignet differieren. Am Freiburger Zentrum wurde eine Untersuchung auf Chorea
+Huntington abgelehnt1, dagegen &#8222;sei das PID-Zentrum in L&#252;beck prinzipiell dazu bereit.&#8220; In einer
+Ver&#246;ffentlichung von C. Z&#252;hlke et al., September 2016, 2 werden die Erfahrungen aus dem PID-Zentrum in L&#252;beck
+geschildert: &#8222;Im Zeitraum zwischen M&#228;rz 2014 und Juni 2016 haben sich 230 Paare an das PID-Zentrum L&#252;beck 
+gewandt, davon wurden 108 zur pers&#246;nlichen Vorstellung eingeladen. Von den Anfragen bezogen sich 
+ca. 30&#8201;Prozent auf chromosomale Ver&#228;nderungen und 70&#8201;Prozent auf monogen verursachte Erkrankungen.
+Mehrfach wurden Untersuchungen f&#252;r die Huntington-Krankheit, cystische Fibrose, spinale Muskelatrophie, 
+Muskeldystrophie Duchenne, &#946;-Thalass&#228;mie, myotone Dystrophie, das fragile X-Syndrom und die
+Neurofibromatosen gew&#252;nscht.&#8220; Laut Edith Coonen et al. (2016) 3 stehen diese Indikationen in &#220;bereinstimmung mit den
+europ&#228;ischen Daten nach der European Society of Human Reproduction and Embryology (ESHRE). Aus der
+Ver&#246;ffentlichung von C. Z&#252;hlke et al. (2016) ergibt sich ferner, dass sich im Jahr 2016 ein signifikanter Anteil
+der Paare gegen eine PID entschieden hat. Als Gr&#252;nde werden hier die hohen Kosten, die durch das Paar
+getragen werden m&#252;ssen, genannt, da die PID-Behandlung keine Regelleistung im Sinne der gesetzlichen
+Krankenversicherung darstelle. Weitere Gr&#252;nde seien die Belastungen durch die reproduktionsmedizinischen
+Ma&#223;nahmen und die niedrige Erfolgsquote der PID pro Behandlungszyklus. 
+In einer Ver&#246;ffentlichung von Weiske, Sauer, Bals-Pratsch aus dem Jahr 20174 wird auf eine inkonsistente
+Entscheidungspraxis der Ethikkommissionen hingewiesen. Um Inkonsistenzen in der PID-Praxis in
+Deutschland zu vermeiden, bed&#252;rfe es entsprechend konkreter Vorgaben f&#252;r eine gut begr&#252;ndete und ethisch fundierte 
+Entscheidungsfindung bei den Ethikkommissionen. Ebenso sei ein sachgerechtes Einspruchsrecht jenseits des
+unzumutbaren gerichtlichen Klageweges bei problematischen Entscheidungen notwendig. 
+Auch die Frage, ob ein Aneuploidie-Screenings von &#167; 3a ESchG erfasst ist, wird von den einzelnen PID-
+Ethikkommissionen unterschiedlich ausgelegt. Es wird dar&#252;ber diskutiert (W&#252;rfel, W., 2017)5, inwieweit beim
+Vorliegen einer Indikation f&#252;r eine monogene Erkrankung gleichzeitig eine Untersuchung auf Aneuploidien
+durchgef&#252;hrt werden soll, unabh&#228;ngig davon, ob daf&#252;r eine Indikation vorliegt oder nicht. Dieser Auffassung
+sind einzelne Ethikkommissionen gefolgt. Der hier vorgelegte Bericht best&#228;tigt diese Praxis. Laut Jahresbericht
+1 Wetzka, B.; Ochsner, A.; Kohlhase, J.; Bernard, C.; Frommel, M.; Hanjalic-Beck, A.; Frie-bel, S.; Geisth&#246;vel, F. (2016): PID bei
+monogenetischen Erkrankungen. Klinische Erfahrungen dargestellt in neun Kasuistiken. In: Der Frauenarzt 57(7), S. 676
+2 C. Z&#252;hlke et al., Pr&#228;implantationsdiagnostik, Erfahrungen aus dem PID-Zentrum L&#252;beck, medgen 2016; 28:304-309. 
+3 Edith Coonen et al.; medgen 2016, 28:326-331
+4 Weiske K, Sauer T., Bals-Pratsch, M., J. Reproduktionsmed. Endokrinol. 2017; 14(3), 107-112. 
+5 W&#252;rfel, W. (2017): Genetisches Pr&#228;implantationsscreening. In: Der Gyn&#228;kologe 50(6)
+(2018) des Wissenschaftlichen Beirats der Bundes&#228;rztekammer sei wissenschaftlich bewiesen, dass ein
+zunehmendes m&#252;tterliches Alter ein Risikofaktor f&#252;r eine erh&#246;hte Aneuploidie-Rate darstelle6. Der TAB
+Arbeitsbericht Nummer 182 beschreibt auf Seite 91, dass zumindest einer der vier PID-Ethikkommissionen zunehmend
+explizit Antr&#228;ge auf gleichzeitige Untersuchung einer monogenen Erkrankung und von Aneuploidien vorgelegt
+w&#252;rden. Laut TAB-Bericht k&#246;nnten diese Antr&#228;ge eine Folge der technischen Entwicklung seien, da neue
+Verfahren wie das Karyomapping die gleichzeitige Untersuchung erheblich erleichtern w&#252;rden.
+Mit der Untersuchung der Blastoz&#246;lfl&#252;ssigkeit werden inzwischen neue Verfahren erprobt. Die Untersuchung 
+von Fl&#252;ssigkeit aus der Blastozystenh&#246;hle hat ergeben, dass diese DNA-Material enth&#228;lt, das f&#252;r die Analyse 
+des Chromosomensatzes genutzt werden kann (Gianaroli et al. 2014)7. Noch unklar ist, inwiefern die Ergebnisse
+an die Genauigkeit anderer Methoden heranreichen (Sermon et al. 2016)8. 
+6 Jahresbericht 2018 des Wissenschaftlichen Beirats der Bundes&#228;rztekammer.
+7 Gianaroli, L.; Magli, M.; Pomante, A.; Crivello, A.; Cafueri, G.; Valerio, M.; Ferraretti, A. (2014): Blastocentesis: A source of DNA 
+for preimplantation genetic testing. Results from a pilot study. In: Fertility and Sterility 102(6) 
+8 Sermon, K.; Capalbo, A.; Cohen, J.; Coonen, E.; Rycke, M. De; Vos, A. de; Delhanty, J.; Fiorentino, F.; Gleicher, N.; Griesinger, G.; 
+Grifo, J. et al. (2016): The why, the how and the when of PGS 2.0: Current practices and expert opinions of fertility special-ists,
+molecular biologists, and embryologists. In: Molecular Human Reproduction 22(8)
+V. Auswertung
+Vor dem Hintergrund der Erfahrungen im europ&#228;ischen Ausland war im Verordnungsgebungsverfahren von 
+einer j&#228;hrlichen Anzahl von 200 bis 300 Antr&#228;gen auf Durchf&#252;hrung einer PID in Deutschland ausgegangen 
+worden9. Im Ersten Erfahrungsbericht der Bundesregierung ist auf der Grundlage der Berichtspflichten der PID-
+Zentren die Zahl von insgesamt 13 Antr&#228;gen auf Durchf&#252;hrung einer PID (f&#252;r das Jahr 2014) ausgewiesen10. 
+Die Anzahl der Antr&#228;ge auf Durchf&#252;hrung einer PID ist erwartungsgem&#228;&#223; angestiegen. Allerdings hat mit der 
+Zulassung der PID-Zentren nicht gleicherma&#223;en die Anzahl der durchgef&#252;hrten PID zugenommen. Die im
+Verordnungsgebungsverfahren zugrunde gelegte Anzahl von 300 Antr&#228;gen pro Jahr wurde erst im Jahr 2018,
+m&#246;glicherweise durch die Zulassung weiterer Kooperationspartner, leicht &#252;berschritten. 
+Im Vergleich zum Jahr 2015 ist die Anzahl der PID-Antr&#228;ge auf das 3,8-fache gestiegen (linearer Anstieg im
+Zeitraum 2015 bis 2018). Im Vergleich zum Jahr 2015 ist die Anzahl der durchgef&#252;hrten
+Pr&#228;implantationsdiagnostiken auf das 9,5-fache gestiegen (linearer Anstieg im Zeitraum 2015-2018). Die Zahl der Antr&#228;ge bleibt
+allerdings im Rahmen der in der Verordnung formulierten Erwartungen. Die meisten Antr&#228;ge wurden bewilligt,
+die Zahl der Ablehnungen entspricht im Mittel einer Quote von ca. 8 Prozent. Diese Quote sagt allerdings nichts
+&#252;ber den individuell zu pr&#252;fenden Einzelfall aus. Die Quoten zwischen den Ethikkommissionen sind sehr
+unterschiedlich. Die &#252;berwiegende Zahl der Ablehnungen erfolgt durch die Bayerische Ethikkommission. Eine 
+Spezialisierung eines PID-Zentrums auf die Durchf&#252;hrung von PID in nur einem Indikationsbereich ist nicht
+erkennbar. 
+Die Antr&#228;ge mit zustimmender Bewertung sind in den Jahren 2015 bis 2017 deutlich h&#246;her als die Anzahl
+durchgef&#252;hrter PID. Erst im Jahr 2018 stimmt die Anzahl ann&#228;hernd &#252;berein. Es ist wahrscheinlich, dass einige
+der durchgef&#252;hrten PID im Jahr 2018 sich auch auf Antr&#228;ge aus den Vorjahren beziehen. Ein weiterer Grund,
+dass weniger PID durchgef&#252;hrt als Antr&#228;ge gestellt werden, k&#246;nnten die hohen Kosten sein, die durch das Paar 
+getragen werden m&#252;ssen. 
+9 Bundesratsdrucksache 717/12 vom 14. 11.2012, S. 11. 
+10 Bundestagsdrucksache 18/7020 vom 10.12.2015, S. 4. Zur Begr&#252;ndung wird angef&#252;hrt, dass man sich in einer Anfangsphase nach
+Inkrafttreten der PIDV am 1. Februar 2014 befunden und allein f&#252;r das Jahr 2014 (bis zum 1. M&#228;rz 2015) eine
+Daten&#252;bermittlungspflicht f&#252;r die PID-Zentren bestanden habe.
+Abbildung 3 
+Anzahl der Antr&#228;ge mit zustimmender Bewertung und Anzahl der durchgef&#252;hrten 
+Pr&#228;implantationsdiagnostiken f&#252;r den Zeitraum 2015 bis 2018
+83
+174
+286
+319
+33
+100
+203
+315
+0
+50
+100
+150
+200
+250
+300
+350
+2015 2016 2017 2018
+An
+za
+hl
+Jahreszahl
+Antr&#228;ge mit zustimmender Bewertung
+Durchgef&#252;hrte Pr&#228;implantationsdiagnostiken
+Insgesamt ist festzuhalten, dass dieser Erfahrungsbericht zur PID Ans&#228;tze f&#252;r eine verl&#228;ssliche Einsch&#228;tzung
+der Konsequenzen einer Anerkennung der PID und eine wichtige Grundlage f&#252;r eine &#220;berpr&#252;fung der Praxis 
+der PID bieten kann. Das Pr&#228;implantationsdiagnostikgesetz ist am 8. Dezember 2011 und die PIDV am 1.
+Februar 2014 in Kraft getreten. Die Datenlage hat sich im Vergleich zum ersten PID-Bericht erh&#246;ht. Festhalten 
+l&#228;sst sich jedoch, dass die im Rahmen des Verordnungsverfahrens ge&#228;u&#223;erten Bef&#252;rchtungen sich bisher nicht
+bewahrheitet haben. So ist es weder zu einer ausufernden Anzahl von PID-Zentren noch zu einer Vielzahl von
+Ethikkommissionen f&#252;r PID gekommen. Letzteres insbesondere deshalb, weil sich viele L&#228;nder auf die
+Einrichtung einer gemeinsamen Ethikkommission f&#252;r PID geeinigt haben.
+Laut TAB-Arbeitsbericht Nummer 182 beurteilen die verschiedenen PID-Ethikkommissionen einzelne
+Indikationen zum Teil unterschiedlich, auch dieselbe Kommission k&#246;nne bei gleicher Indikation zu unterschiedlichen 
+Bewertungen kommen. Dies k&#246;nne als Hinweis darauf angesehen werden, dass tats&#228;chlich, wie vorgesehen, der
+jeweilige Einzelfall gepr&#252;ft werde. Insgesamt k&#246;nne es vielf&#228;ltige Gr&#252;nde f&#252;r Unterschiede in der
+Bewertungspraxis geben. Die Einrichtung gemeinsamer Ethikkommissionen f&#252;r PID sowie der regelm&#228;&#223;ige
+Erfahrungsaustausch der Ethikkommissionen f&#252;r PID zur Herbeif&#252;hrung m&#246;glichst einheitlicher Entscheidungen unter
+Ber&#252;cksichtigung des jeweiligen Einzelfalls &#252;ber Antr&#228;ge zur Durchf&#252;hrung einer PID w&#252;rden nach wie vor
+ausdr&#252;cklich begr&#252;&#223;t. Bei Ablehnung eines Antrags bleibe allerdings unklar, ob abgelehnte Entscheidungen bei
+anderen Ethikkommissionen neu beantragt w&#252;rden. Dies sei dadurch bedingt, dass zwar auf dem
+Antragsformular angegeben werden m&#252;sse, ob bereits bei einer anderen Ethikkommission f&#252;r PID ein Antrag gestellt 
+worden sei, es jedoch keinen regelhaften Austausch dieser Daten zwischen den Ethikkommissionen gebe.
+Die Entwicklung der Anwendung der PID in Deutschland wird durch verschiedene Faktoren, wie z. B. die noch 
+ausstehenden Gerichtsentscheidungen, den Austausch der PID-Ethikkommissionen und der PID-Zentren, die 
+zu pr&#252;fende &#196;nderung der Kostenerstattung gem&#228;&#223; Leistungskatalog der gesetzlichen Krankenkassen sowie die 
+Entwicklung neuer Technologien, weiterhin beeinflusst. Medienberichte und Gerichtsurteile tragen dazu bei,
+dass ein &#220;berblick &#252;ber Indikationen entsteht. Aus Sicht der Bundesregierung ist eine Liste mit Indikationen zu
+vermeiden. Jeder Antrag ist weiterhin individuell zu betrachten und zu bewerten.
+Soweit Unklarheiten &#252;ber die Zust&#228;ndigkeit f&#252;r die Zulassung von l&#228;nder&#252;bergreifenden Kooperationen
+bestehen, l&#228;sst sich konstatieren, dass ausweislich der Verordnungsbegr&#252;ndung die nach Landesrecht zust&#228;ndige
+Stelle zust&#228;ndige Beh&#246;rde f&#252;r die Zulassung eines Zentrums ist (Bundesratsdrucksache 717/12, S. 17).
+Beispielsweise ist gem&#228;&#223; &#167; 2 Absatz 1 Satz 1 Pr&#228;implantationsdiagnostikgesetz Nordrhein-Westfalen f&#252;r die
+Zulassung von Zentren zur Durchf&#252;hrung der Pr&#228;implantationsdiagnostik in Nordrhein-Westfalen die
+&#196;rztekammer Westfalen-Lippe zust&#228;ndig. Die Formvorschriften des &#167; 3 Absatz 3 PIDV enthalten keine eigene Regelung 
+der zust&#228;ndigen Beh&#246;rde. Die Ausgestaltung l&#228;nder&#252;bergreifender Verwaltungsverfahren, etwa durch
+Schaffung einer gemeinsamen zust&#228;ndigen Beh&#246;rde, obliegt den L&#228;ndern und ist Gegenstand des Bund-L&#228;nder-
+Austausches. Dar&#252;ber hinaus ist darauf zu achten, dass die Begriffe des Zentrums, der Einrichtung und der
+Kooperation einheitlich verwendet werden. Dies k&#246;nnte auch der Grund sein, warum im TAB-Arbeitsbericht Nummer 
+182 von zw&#246;lf PID-Zentren die Rede ist, und nicht, wie nach Mitteilung der L&#228;nder ans PEI, von zehn PID-
+Zentren. 
+Inzwischen werden vermehrt Next-Generation-Sequencing-Technologien (NGS-Technologien) im
+Indikationsbereich &#8222;schwerwiegende Sch&#228;digung des Embryos mit hoher Wahrscheinlichkeit einer Tot- oder Fehlgeburt&#8220;
+eingesetzt. Hierbei werden nicht nur Aneuploidien sichtbar, sondern es k&#246;nnen gleichzeitig monogene
+Erkrankungen und andere Abweichungen auf der Chromosomenebene erkannt werden. Ein weiteres Verfahren ist das
+Karyomapping. Dazu werden ererbte Einzelpunktvariationen der DNA des Embryos, die mit der eigentlich 
+interessierenden genetischen Ver&#228;nderung gekoppelt sind, mit Referenzmaterial von Eltern und betroffenen 
+Verwandten verglichen. Das Verfahren erm&#246;glicht die gleichzeitige Untersuchung auf vererbte monogene
+Erkrankungen und Chromosomenanomalien. Sowohl beim Karyomapping als auch beim Einsatz von NGS k&#246;nnen 
+sich Befunde ergeben, also Informationen &#252;ber genetische Variationen, nach denen nicht in erster Linie gesucht
+wurde. Das hei&#223;t auch, dass sich der Antrag auf PID auf eine der beiden im Gesetz genannten Indikationen
+bezieht, sich aber aus der PID mehr Ergebnisse ergeben k&#246;nnen, als von der im Antrag genannten Indikation
+erfasst sind.
+Anhang 
+Abbildungen
+Abb. 1: &#220;bersicht &#252;ber  die  PID-Zentren  und  Bundesl&#228;nder  mit  jeweils  zugeh&#246;riger Ethikkommission 
+im Jahr 2015.
+Abb. 2: &#220;bersicht &#252;ber PID-Zentren und den Bundesl&#228;ndern mit zugeh&#246;riger Ethikkommission im Jahr 
+2016 
+Abb. 3: Anzahl der Antr&#228;ge mit zustimmender Bewertung und Anzahl der durchgef&#252;hrten 
+Pr&#228;implantationsdiagnostiken f&#252;r den Zeitraum 2015 bis 2018.
+Tabellen 
+Tab. 1 Gesamtanzahl PID-Zentren zum Stichtag 30. September 2019
+Tab. 2: Zulassung der PID-Zentren bezogen auf die Jahre 2014 bis 2018
+Tab. 3 PID-Zentren im Jahr 2015
+Tab. 4: PID-Zentren im Jahr 2016
+Tab. 5: PID-Zentren im Jahr 2017
+Tab. 6: PID-Zentren im Jahr 2018
+Tab. 7 Antragstellung und Durchf&#252;hrung im Kalenderjahr 2015
+Tab. 8: Anzahl der Antr&#228;ge mit zustimmender Bewertung, durchgef&#252;hrter PID und der Anzahl abgelehnter 
+Antr&#228;ge f&#252;r das Jahr 2015 
+Tab. 9: Anzahl der Antr&#228;ge der Ethikkommissionen mit zustimmender Bewertung, nach zustimmender 
+Bewertung durchgef&#252;hrter PID und der Anzahl abgelehnter Antr&#228;ge f&#252;r das Jahr 2015 
+Tab. 10: Zur Indikation: Hohes Risiko einer schwerwiegenden Erbkrankheit f&#252;r die Nachkommenschaft
+(2015) 
+Tab. 11: Zur Indikation: Schwerwiegende Sch&#228;digung des Embryos mit hoher Wahrscheinlichkeit einer
+Totoder Fehlgeburt (2015)
+Tab. 12 Zur Indikation: Hohes Risiko einer schwerwiegenden Erbkrankheit f&#252;r die Nachkommenschaft 
+(2015) 
+Tab. 13 Antragstellung und Durchf&#252;hrung im Kalenderjahr 2016
+Tab. 14 Anzahl der Antr&#228;ge mit zustimmender Bewertung, durchgef&#252;hrter PID und der Anzahl abgelehnter 
+Antr&#228;ge f&#252;r das Jahr 2016 
+Tab. 15 Anzahl der Antr&#228;ge der Ethikkommissionen mit zustimmender Bewertung, nach zustimmender 
+Bewertung durchgef&#252;hrter PID und der Anzahl abgelehnter Antr&#228;ge f&#252;r das Jahr 2016 
+Tab. 16 Zur Indikation: Hohes Risiko einer schwerwiegenden Erbkrankheit f&#252;r die Nachkommenschaft 
+(2016)
+Tab. 17 Zur Indikation: Schwerwiegende Sch&#228;digung des Embryos mit hoher Wahrscheinlichkeit einer
+Totoder Fehlgeburt (2016)
+Tab. 18 Zur Indikation: Hohes Risiko einer schwerwiegenden Erbkrankheit f&#252;r die Nachkommenschaft 
+(2016) 
+Tab. 19 Zur Indikation: Schwerwiegende Sch&#228;digung des Embryos mit hoher Wahrscheinlichkeit einer
+Totoder Fehlgeburt (2016)
+Tab. 20 Anzahl der Antr&#228;ge mit zustimmender Bewertung, durchgef&#252;hrter PID und der Anzahl abgelehnter 
+Antr&#228;ge f&#252;r das Jahr 2017 
+Tab. 21 Antragstellung und Durchf&#252;hrung im Kalenderjahr 2017
+Tab. 22 Anzahl der Antr&#228;ge der Ethikkommissionen mit zustimmender Bewertung, nach zustimmender 
+Bewertung durchgef&#252;hrter PID und der Anzahl abgelehnter Antr&#228;ge f&#252;r das Jahr 2017 
+Tab. 23 Zur Indikation: Hohes Risiko einer schwerwiegenden Erbkrankheit f&#252;r die Nachkommenschaft 
+(2017) 
+Tab. 24 Zur Indikation: Schwerwiegende Sch&#228;digung des Embryos mit hoher Wahrscheinlichkeit einer
+Totoder Fehlgeburt (2017)
+Tab. 25 Zur Indikation: Hohes Risiko einer schwerwiegenden Erbkrankheit f&#252;r die Nachkommenschaft f&#252;r 
+das Jahr 2017
+Tab. 26 Zur Indikation: Schwerwiegende Sch&#228;digung des Embryos mit hoher Wahrscheinlichkeit einer
+Totoder Fehlgeburt (2017)
+Tab. 27 Antragstellung und Durchf&#252;hrung im Kalenderjahr 2018
+Tab. 28 Anzahl der Antr&#228;ge der Ethikkommissionen mit zustimmender Bewertung, nach zustimmender 
+Bewertung durchgef&#252;hrter PID und der Anzahl abgelehnter Antr&#228;ge f&#252;r das Jahr 2018 
+Tab. 29 Anzahl der Antr&#228;ge mit zustimmender Bewertung, durchgef&#252;hrter PID und der Anzahl abgelehnter 
+Antr&#228;ge f&#252;r das Jahr 2018 
+Tab. 30 Zur Indikation: Hohes Risiko einer schwerwiegenden Erbkrankheit f&#252;r die Nachkommenschaft f&#252;r 
+das Jahr 2018
+Tab. 31 Zur Indikation: Schwerwiegende Sch&#228;digung des Embryos mit hoher Wahrscheinlichkeit einer
+Totoder Fehlgeburt (2018)
+Tab. 32 Zur Indikation: Hohes Risiko einer schwerwiegenden Erbkrankheit f&#252;r die Nachkommenschaft 
+(2018) 
+Tab. 33 Zur Indikation: Schwerwiegende Sch&#228;digung des Embryos mit hoher Wahrscheinlichkeit einer
+Totoder Fehlgeburt (2018)
+Tab. 34 Anzahl der Antr&#228;ge mit zustimmender Bewertung und Anzahl der durchgef&#252;hrten 
+Pr&#228;implantationsdiagnostiken f&#252;r den Zeitraum 2015-2018.
+Abk&#252;rzungen 
+BGH
+BRCA 
+BSG 
+BVerfG 
+ESchG
+ESHRE 
+IVF
+NGS
+OLG 
+(q)PCR 
+PID 
+PIDV
+PKU
+Pr&#228;impG 
+SGB 
+StGB 
+VG 
+VGH
+Whole Genome 
+Amplification (WGA)
+Bundesgerichtshof 
+Breast-Cancer-Gene &#8211; zwei Gene (BRCA-1 und -2) 
+Bundessozialgericht 
+Bundesverfassungsgericht  
+Embryonenschutzgesetz
+European Society of Human Reproduction and Embryology
+In-vitro-Fertilisation &#8211; Verfahren der k&#252;nstlichen Befruchtung 
+Next-Generation-Sequencing &#8211; Verfahren der genetischen Analyse  
+Oberlandesgericht 
+(quantitative) Polymerase Chain Reaction &#8211; Verfahren der Vervielf&#228;ltigung 
+einzelner Sequenzen der DNA.  
+Pr&#228;implantationsdiagnostik
+Pr&#228;implantationsdiagnostikverordnung
+Phenylketonurie &#8211; eine genetisch bedingte Stoffwechselst&#246;rung 
+Pr&#228;implantationsdiagnostikgesetz 
+Sozialgesetzbuch 
+Strafgesetzbuch 
+Verwaltungsgericht
+Verwaltungsgerichtshof
+komplette Vervielf&#228;ltigung des gesamten Genoms
+Glossar 
+FISH (Fluoreszenz-in-situ-Hybridisierung):
+ist eine molekularzytogenetische Untersuchung mit deren Hilfe definierte Bereiche des Genoms dargestellt
+werden k&#246;nnen. Fluorochrom-markierte DNA-Sonden weisen bestimmte genomische Regionen nach, indem sie
+mit homologen chromosomalen Sequenzen hybridisieren (https://www.mgz-muenchen.de/molekularzytogene-
+tik-fish-diagnostik.html, zugegriffen am 12.12.2019).
+Karyomapping: 
+Ererbte Einzelpunktvariationen der DNA des Embryos, die mit der eigentlich interessierenden genetischen
+Ver&#228;nderung gekoppelt sind, werden mit Referenzmaterial von Eltern und betroffenen Verwandten verglichen. Das
+Verfahren erm&#246;glicht die gleichzeitige Untersuchung auf vererbte monogene Erkrankungen und
+Chromosomenanomalien (siehe TAB Arbeitsbericht Nummer 182).
+Kopplungsanalysen:
+Die Kopplungsanalysen f&#252;hrten sukzessive zur Beschreibung der Krankheitsgene auf DNA-Ebene und
+letztendlich zur Sequenzierung des humanen Genoms. Mit der Entwicklung der Kapillarsequenzierung und der
+Beschreibung von hoch informativen Mikrosatelliten und Single-Nucleotide-Polymorphisms (SNPs) wurde die 
+Kopplungsanalyse weitgehend automatisiert und als eine Hochdurchsatztechnologie etabliert, bei der auch die
+statistische, bioinformatische Auswertung durch entsprechende Computerprogramme erfolgt (J. Arnemann:
+Lexikon der Medizinischen Laboratoriumsdiagnostik, pp 1386-1386, zugegriffen am 12.12.2019).
+Molekulargenetische Untersuchungen:
+F&#252;r alle Einzelgenerkrankungen, bei denen Mutter oder Vater bzw. beide bei autosomal-rezessiver Vererbung, 
+Anlagetr&#228;ger einer Mutation in einem bestimmten Gen sind, kommen molekulargenetische
+Untersuchungsverfahren zum Einsatz. Dabei muss immer ein f&#252;r die Familie individuelles Untersuchungssystem etabliert werden.
+Dies besteht einerseits aus dem direkten Mutationsnachweis der bei den Eltern oder einem Elternteil bekannten
+Mutation, zum anderen aus einer Analyse von sogenannten Markern, d. h. charakteristischen, individuell
+unterschiedlichen Merkmalen in der Erbsubstanz in der Umgebung der bekannten Mutation(en) (https://www.medi-
+zinische-genetik.de/index.php?id=pid-praeimplantationsdiagnostik, zugegriffen am 12.12.2019).
+VeriSeq:
+beruht auf der Technik Next Generation Sequencing, die der Ger&#228;tehersteller &#8222;VeriSeq&#8220; genannt hat. Es wird 
+aber nicht zur Sequenzanalyse benutzt, sondern zum &#8222;Z&#228;hlen&#8220; von Chromosomenabschnitten (Auskunft des 
+PEI).
+
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>Zweiter Bericht der Bundesregierung &#252;ber die Erfahrungen mit der Pr&#228;implantationsdiagnostik</titel>
+    <datum>2020-01-24</datum>
+  </document>
+  

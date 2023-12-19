@@ -1,0 +1,259 @@
+<document>
+    <id>220987</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/3404</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>615426c8a7928c79e34e895e6ebad80e</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>237148</id>
+      <titel>Technische Aufr&#252;stung europ&#228;ischer Polizeidatenbanken</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium des Innern, f&#252;r Bau und Heimat</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/034/1903404.pdf</pdf_url>
+      <id>220987</id>
+      <dokumentnummer>19/3404</dokumentnummer>
+      <datum>2018-07-16</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums des Innern, f&#252;r Bau und Heimat 
+vom 12. Juli 2018 &#252;bermittelt.  
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext. 
+Deutscher Bundestag  Drucksache 19/3404 
+19. Wahlperiode 16.07.2018 
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Andrej Hunko, Heike H&#228;nsel,  
+Dr. Andr&#233; Hahn, weiterer Abgeordneter und der Fraktion DIE LINKE. 
+&#8211; Drucksache 19/3062 &#8211; 
+Technische Aufr&#252;stung europ&#228;ischer Polizeidatenbanken 
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r  
+Die Polizeiagentur Europol hat mit einigen Monaten Versp&#228;tung eine neue 
+Schnittstelle f&#252;r die Abfrage ihrer gr&#246;&#223;ten Datenbank in Betrieb genommen 
+(Bundestagsdrucksache 19/2610, Antwort auf die Schriftliche Frage 36 des
+Abgeordneten Alexander Ulrich). Unter dem Namen QUEST (Querying Europol 
+Systems) k&#246;nnen zun&#228;chst Beh&#246;rden aus Estland, Finnland, Griechenland,
+Polen und Spanien auf das Europol-Informationssystem (EIS) zugreifen. Die f&#252;nf 
+Staaten hatten sich an der ersten Stufe eines Pilotprojekts beteiligt. Die
+Schnittstellen m&#252;ssen jedoch in jedem Land noch implementiert werden, es ist deshalb 
+unklar, ob die Beh&#246;rden bereits mit dem Wirkbetrieb begonnen haben. In
+Spanien soll das System &#8222;in den n&#228;chsten Tagen im Echtbetrieb sein&#8220;, Estland will 
+Ende Juli nachziehen. 
+Unter dem Stichwort &#8222;Interoperabilit&#228;t&#8220; will die EU ihre polizeilichen
+Datenbanken miteinander verkn&#252;pfen (http://gleft.de/2j6). Als eines der Probleme 
+gelten die unterschiedlichen Datenformate in den Mitgliedstaaten. Europol hat 
+deshalb das Projekt UMF 3 (Universal Message Format) gestartet, das Anfragen 
+an nationale Polizeisysteme standardisieren soll. UMF ist ein
+systemunabh&#228;ngiger Standard zur &#220;bermittlung von Informationen, der bereits zwischen den 
+Agenturen Europol und Frontex genutzt wird. Auch im Rahmen des dezentralen 
+Pr&#252;m-Verfahrens zur Abfrage von Fingerabdr&#252;cken und DNA-Daten kann seit 
+2014 ein &#8222;UMF-konformes, mehrsprachiges, elektronisches Formular
+verwendet&#8220; werden (Bundestagsdrucksache 18/11661, Antwort zu Frage 2).  
+1. Wann soll nach Kenntnis der Bundesregierung die vom Bundeskriminalamt 
+und Europol entwickelte Schnittstelle QUEST, mit der UMF (Universal 
+Message Format)-konforme Anfragen an das Europol Informationssystem 
+gestellt werden k&#246;nnen, in den Wirkbetrieb &#252;bernommen werden? 
+QUEST ist ein Service, der von Europol entwickelt und nach diversen Tests 
+schlie&#223;lich am 10. Mai 2018 in den Echtbetrieb &#252;bernommen wurde.  
+Damit wird es erm&#246;glicht, dass &#252;ber QUEST standardisierte Anfragen an das EIS 
+gestellt werden k&#246;nnen. Die Antworten erfolgen UMF-konform.
+2. Welche Mitgliedstaaten haben bereits nationale Schnittstellen hierf&#252;r
+eingerichtet, und welche planen dies nach Kenntnis der Bundesregierung
+(Bundestagsdrucksache 19/159, Antwort zu Frage 15, bitte auch f&#252;r Deutschland 
+angeben)? 
+Die erforderlichen Schnittstellen zu QUEST sind von Estland, Finnland,
+Griechenland, Polen und Spanien (UMF3-Pilotl&#228;nder) entwickelt worden.
+Deutschland wird die QUEST-Schnittstelle voraussichtlich 2019 bis 2020 entwickeln, 
+wenn Europol die n&#228;chste Generation von QUEST einsetzen wird. 
+3. Sofern der Wirkbetrieb bereits begann, welche EU-Mitgliedstaaten,
+Agenturen, europ&#228;ischen Informationssysteme oder Datenbanken sind Teil von  
+QUEST, und welche davon arbeiten bereits mit dem Standard &#8222;Universal 
+Message Format&#8220; (UMF3)? 
+QUEST enth&#228;lt keine Datenbanken. QUEST ist eine standardisierte Schnittstelle 
+bei Europol f&#252;r die Abfrage des Europol Informationssystems (EIS), die das
+Abfrageergebnis UMF-konform zur&#252;ckliefert. Die Aufbereitung der Anfragedaten 
+und die allf&#228;llige Weiterverarbeitung der UMF konformen Auskunftsdaten liegt 
+in der Verantwortung des anfragenden Partners. 
+Derzeit unterst&#252;tzt QUEST Namensanfragen und Anfragen mit Waffendaten im 
+EIS. Diese Anfragen k&#246;nnen von allen EU Staaten durchgef&#252;hrt werden, sobald 
+sie bei sich die technischen Rahmenbedingungen geschaffen haben. Das ist im 
+Moment bei den UMF3-Pilotl&#228;ndern (siehe Antwort zu Frage 2) der Fall. 
+4. Welche Unternehmen sind an der Entwicklung des UMF3-Standards, die 
+von der Europ&#228;ischen Kommission im Rahmen des Internal Security Fund 
+finanziert und als Projekt beim Bundeskriminalamt gef&#252;hrt wird, involviert 
+(Bundestagsdrucksache 18/11661, Antwort zu Frage 2)? 
+Der UMF-Standard wird unter dem ISF-gef&#246;rdertem UMF3-Projekt unter der
+Federf&#252;hrung des Bundeskriminalamts (BKA) in Zusammenarbeit mit den EU-
+Mitgliedstaaten, der EU-Kommission und deren Agenturen sowie Interpol
+weiterentwickelt. Es sind keine privaten Unternehmen an der Entwicklung beteiligt. 
+5. Was war das Ergebnis des UMF3-Pilotprojekts von Europol und den f&#252;nf 
+EU-Mitgliedstaaten Estland, Finnland, Griechenland, Polen und Spanien
+bez&#252;glich der Implementierung des Dienstes &#8222;REST&#8220;, der bei Europol den
+Namen QUEST tr&#228;gt (Bundestagsdrucksache 18/11661, Antwort zu Frage 2)? 
+Das UMF3-Projekt wird erst mit Ende Juli 2018 abgeschlossen sein. Endg&#252;ltige 
+Ergebnisse werden daher fr&#252;hestens im Herbst 2018 vorliegen. REST ist kein 
+Projektteil unter UMF3, nur die verwendete Schnittstellentechnik. Sehr wohl ist 
+aber QUEST Bestandteil von UMF3 und bedeutet die Implementierung bei
+Europol und den entsprechenden Services bei den Pilotl&#228;ndern.
+6. Inwiefern erlaubt die j&#252;ngste Version der UMF-Technologie nach Kenntnis 
+der Bundesregierung den Austausch biometrischer Daten durch
+Strafverfolgungsbeh&#246;rden? 
+Die j&#252;ngste Version des UMF-Standards erlaubt prinzipiell den Austausch von 
+Lichtbildern und Fingerabdr&#252;cken. Nachdem die Anforderungen durch die
+j&#252;ngsten Entwicklungen st&#228;ndig steigen, ist auch eine Standardisierung der Anfragen 
+mit Biometriedaten erforderlich. Das ist erst f&#252;r die Jahre 2019 bis 2020 zu
+erwarten, wonach dann h&#246;chstwahrscheinlich auch der UMF-Standard optimiert 
+werden muss. 
+7. Von welchen Nicht-EU-Staaten, die bereits mit UMF3 arbeiten, hat die
+Bundesregierung Kenntnis? 
+UMF ist ein Datenaustauschstandard f&#252;r europ&#228;ische Strafverfolgungsbeh&#246;rden. 
+Daher ist die Nutzung des Standards auch auf Europa und im Moment auf die 
+Waffendatenbank bei Interpol begrenzt. Nach Kenntnis der Bundesregierung ist 
+nur Norwegen im Begriff, bei der Erneuerung seiner IT Systeme auf UMF-
+Konformit&#228;t zu achten. 
+8. Welchen Datenaustausch erm&#246;glicht der Vertraulichkeitsgrad &#8222;Basis
+Protection Level&#8220; in UMF3? 
+&#8222;Basic Protection Level (BPL)&#8220; ist eine Vertraulichkeitseinstufung bei Europol 
+und bezieht sich nicht pauschal auf eine bestimmte Datenkategorie. Mit BPL-
+konformer Infrastruktur k&#246;nnen also grunds&#228;tzlich alle Daten ausgetauscht
+werden, solange sie keinen h&#246;heren Vertraulichkeitsgrad als BPL haben. H&#246;here
+Vertraulichkeitsgrade als BPL sind &#8222;EU-restricted&#8220; und &#8222;EU-confidential&#8220;. Nach
+einer Analyse von Europol im Oktober 2017 haben nur 3 Prozent von
+Personendaten und keine der Waffendaten einen h&#246;heren Vertraulichkeitsgrad als BPL. 
+9. Welche deutschen Beh&#246;rden werden zusammen mit
+Strafverfolgungsbeh&#246;rden aus Belgien, Spanien, Finnland, Litauen, Luxemburg, den Niederlanden, 
+Schweden, Norwegen und m&#246;glicherweise &#214;sterreich an der nach
+derzeitigen Pl&#228;nen noch in diesem Halbjahr beginnenden ersten Phase der
+&#8222;European Tracking Solution&#8220; (ETS) von Europol teilnehmen, um
+Geopositionsdaten aus mobilen Peilsendern mit oder ohne SIM-Karten &#252;ber ein innerhalb 
+der ETS vereinbartes Protokoll im Standard &#8222;NMEA+&#8220; (GPS-Positions-, 
+Geschwindigkeits- und Zeitdatensatz mit &#8222;Pr&#228;fix&#8220;, um die
+Strafverfolgungsbeh&#246;rde, die die Trackingdaten besitzt, als auch die Quelle bzw. den Vorgang 
+bzw. das Ger&#228;t selbst zu bestimmen) weiterzugeben (Antwort der
+Europ&#228;ischen Kommission DE E-001596/2018 auf die Anfrage der
+Europaabgeordneten Cornelia Ernst vom 24. Mai 2018)? 
+Welche Art von Ortungsdaten werden die deutschen Beh&#246;rden gem&#228;&#223; dem 
+Standard &#8222;NMEA+&#8220; &#252;ber eine Web-Schnittstelle oder via Europol in die 
+ETS einspeisen? 
+Es ist vorgesehen, allen deutschen Polizeibeh&#246;rden, einschlie&#223;lich BKA und 
+Bundespolizei sowie dem Zoll, im Rahmen seiner gesetzlichen Befugnisse die 
+M&#246;glichkeit einzur&#228;umen, an ETS teilzunehmen. Die detaillierte Art und Weise 
+der Umsetzung hierzu ist noch innerhalb der zust&#228;ndigen Gremien abzustimmen.
+10. Was wei&#223; die Bundesregierung &#252;ber den Hintergrund eines
+&#8222;Kompetenzstreits&#8220; zwischen der italienischen Polizei, die dem Innenministerium
+untersteht, und den Carabinieri, die vom Verteidigungsministerium befehligt
+werden, der dazu f&#252;hrt dass italienische Beh&#246;rden nicht am Europol-
+Informationssystem SIENA teilnehmen (http://gleft.de/2jK)? 
+a) Welche Entscheidung wurde hierzu nach Kenntnis der Bundesregierung 
+auf EU-Ebene getroffen? 
+b) Welche EU-Mitgliedstaaten haben dem Milit&#228;r untergeordnete Beh&#246;rden 
+f&#252;r die Teilnahme an SIENA benannt? 
+Die Fragen 10 bis 10b werden gemeinsam beantwortet.  
+Bei SIENA (Secure Information Exchange Network Application) handelt sich 
+nicht um ein Informationssystem bzw. um eine Polizeidatenbank, sondern
+vielmehr um ein Nachrichtenaustauschsystem f&#252;r die Mitgliedstaaten, Drittstaaten/ 
+-stellen sowie Europol selbst. Italien ist an SIENA angeschlossen, es existiert f&#252;r 
+Italien u. a. ein Postfach, &#252;ber die Nutzungsmodalit&#228;ten liegen der
+Bundesregierung keine Informationen vor. 
+11. Was ist der Bundesregierung dar&#252;ber bekannt, inwiefern die Europol-
+Meldestelle f&#252;r Internetinhalte (EU IRU) wie angek&#252;ndigt ihre
+Aufgabenbereiche f&#252;r &#8222;andere relevante Kriminalit&#228;tsph&#228;nomene&#8220; ausweitet, wozu das 
+&#8222;Europol Programming Document&#8220; f&#252;r 2018 unter anderem den Handel mit 
+Feuerwaffen und Sprengstoffen z&#228;hlt (http://gleft.de/2jI)? 
+a) Auf welche Weise beteiligt sich die Bundesregierung am EU IRU bzw. 
+an der Ausweitung von deren Aufgabenbereichen, die zu Beginn lediglich 
+zu islamistischem Extremismus und Terrorismus sowie sp&#228;ter
+unerw&#252;nschter Migration arbeitete (http://gleft.de/2jJ)? 
+Die Fragen 11 und 11a werden gemeinsam beantwortet.  
+Der Bundesregierung liegen keine weiteren Informationen zur Ausweitung der 
+Aufgabenbereiche der EU IRU vor. Das BKA hat sich in der Vergangenheit an 
+&#8222;Joint Action Days&#8220; zur Reduzierung von terroristischer Internetpropaganda
+beteiligt (siehe Antwort der Bundesregierung zu Frage 15 der Kleinen Anfrage der 
+Fraktion DIE LINKE. auf Bundestagsdrucksache 19/1621). Dar&#252;ber hinaus
+erfolgt keine weitere Beteiligung der Bundesregierung an der EU IRU bzw. an einer 
+Ausweitung ihrer Aufgabenbereiche. 
+b) Inwiefern sind deutsche Beh&#246;rden auch an die bei der EU IRU gef&#252;hrte 
+&#8222;Internet Referral Management Application&#8220; (IRMA) angeschlossen bzw. 
+nutzen diese? 
+Deutsche Beh&#246;rden sind bislang nicht an die bei der EU IRU gef&#252;hrte &#8222;Internet 
+Referral Management Application&#8220; (IRMA) angeschlossen. 
+12. Welche Haltung vertritt die Bundesregierung zum Vorschlag der
+Europ&#228;ischen Kommission in einer neuen Eurodac-Verordnung, dass EU-
+Grenzbeh&#246;rden zuk&#252;nftig auch Kindern im Alter von sechs Jahren unter Zwang
+Fingerabdr&#252;cke und Gesichtsbilder abnehmen d&#252;rfen, und wie wird sie sich 
+hierzu im Trilog positionieren (Ratsdokument 9848/18)? 
+Eine abgestimmte Haltung der Bundesregierung zu dem Vorschlag liegt bisher 
+nicht vor. Die Pr&#252;fung dauert an.
+13. Inwiefern sollten aus Sicht der Bundesregierung auch im Visa-
+Informationssystem (VIS) die biometrischen Daten von Kindern ab sechs Jahren unter 
+Zwang abgenommen werden, und wie wird sie sich hierzu positionieren 
+(Ratsdokument 8853/18)? 
+a) Welche Haltung vertritt die Bundesregierung zur Frage, ob eine Abfrage 
+des VIS auch durch Reiseveranstalter oder andere private Firmen erlaubt 
+sein sollte? 
+b) Inwiefern sollten aus Sicht der Bundesregierung im VIS auch Personen 
+gespeichert werden, die von einem Mitgliedstaat ein auf das eigene
+Hoheitsgebiet beschr&#228;nktes Visum erhalten haben? 
+c) Welche Haltung vertritt die Bundesregierung zu dem Vorschlag, im VIS 
+&#8222;Risiko-Indikatoren&#8220; einzuf&#252;hren, die aus statistischen Daten
+&#8222;Bedrohungen&#8220; analysieren, die dann bei der Bewertung von Visaantr&#228;gen zur
+Ablehnung von Antr&#228;gen aus bestimmten L&#228;ndern f&#252;hren k&#246;nnten? 
+d) Inwiefern sollten die &#8222;Indikatoren&#8220; auch Risiken der &#246;ffentlichen
+Gesundheit ber&#252;cksichtigen, die dann bei der Bewertung von Visaantr&#228;gen
+ber&#252;cksichtigt ebenfalls zur Ablehnung von Antr&#228;gen aus bestimmten
+L&#228;ndern f&#252;hren k&#246;nnten? 
+Die Fragen 13 bis 13d werden gemeinsam beantwortet.  
+Die Pr&#252;fung des Ratsdokuments 8853/18 ist noch nicht abgeschlossen, so dass 
+noch keine abgestimmte Haltung der Bundesregierung vorliegt. 
+Zu Frage 13b wird darauf hingewiesen, dass nach der geltenden VIS-Verordnung 
+(Verordnung (EG) Nr. 767/2008, zuletzt ge&#228;ndert durch die Verordnung (EU) 
+Nr. 2017/2226) die Speicherung von Schengen-Visa mit r&#228;umlich beschr&#228;nkter 
+G&#252;ltigkeit im VIS bereits vorgesehen ist. 
+14. Was ist der Bundesregierung &#252;ber Pl&#228;ne der EU-Grenzagentur Frontex
+bekannt, im Rahmen der als sechsmonatiges Pilotprojekt konzipierten zivil-
+milit&#228;rischen &#8222;Kriminalit&#228;tsinformationszelle&#8220; aufgegriffene Gefl&#252;chtete zu 
+befragen (Bundestagsdrucksache 19/647)? 
+Welche Informationen sollen &#252;ber das bei Europol eingerichtete &#8222;Clearing 
+House&#8220; ausgetauscht werden (bitte so konkret wie m&#246;glich benennen)? 
+Nach Kenntnis der Bundesregierung sind im Rahmen des Pilotprojektes der
+&#8222;Kriminalit&#228;tsinformationszelle&#8220; auch Befragungen der aus Seenot geretteten
+Fl&#252;chtlinge und Migranten vorgesehen.  
+Grunds&#228;tzliches Ziel des &#8222;Clearing House&#8220; ist es, gesammelte Informationen &#252;ber 
+Schleusungskriminalit&#228;t, Menschenhandel, Terrorismus und andere Formen 
+grenz&#252;berschreitender Kriminalit&#228;t zuk&#252;nftig besser zwischen den EU-
+Strafverfolgungsbeh&#246;rden nutzbar zu machen. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Satz: Satzweiss.com Print, Web, Software GmbH, Mainzer Stra&#223;e 116, 66121 Saarbr&#252;cken, www.satzweiss.com 
+Druck: Printsystem GmbH, Schafw&#228;sche 1-3, 71296 Heimsheim, www.printsystem.de 
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de 
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/3062 -
+Technische Aufr&#252;stung europ&#228;ischer Polizeidatenbanken</titel>
+    <datum>2018-07-16</datum>
+  </document>
+  

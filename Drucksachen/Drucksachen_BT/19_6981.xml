@@ -1,0 +1,266 @@
+<document>
+    <id>225448</id>
+    <drucksachetyp>Kleine Anfrage</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>11</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/6981</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>acf23fa04277b84263724a8c1afec8d0</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:15+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>243077</id>
+      <titel>Software zur Erkennung von "Radikalisierung" und "Krisen"</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>LINKE</bezeichnung>
+      <titel>Fraktion DIE LINKE</titel>
+    </urheber>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/069/1906981.pdf</pdf_url>
+      <id>225448</id>
+      <dokumentnummer>19/6981</dokumentnummer>
+      <datum>2019-01-14</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Kleine Anfrage</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Fraktion DIE LINKE</urheber>
+    </fundstelle>
+    <autoren_anzeige>
+      <id>1066</id>
+      <titel>Andrej Hunko, MdB, DIE LINKE</titel>
+      <autor_titel>Andrej Hunko</autor_titel>
+    </autoren_anzeige>
+    <autoren_anzeige>
+      <id>395</id>
+      <titel>Heike H&#228;nsel, MdB, DIE LINKE</titel>
+      <autor_titel>Heike H&#228;nsel</autor_titel>
+    </autoren_anzeige>
+    <text>[Deutscher Bundestag  Drucksache 19/6981 
+19. Wahlperiode 14.01.2019 
+Kleine Anfrage 
+der Abgeordneten Andrej Hunko, Heike H&#228;nsel, Anke Domscheit-Berg,  
+Niema Movassat, Thomas Nord, Petra Pau, Tobias Pfl&#252;ger, Martina Renner,  
+Dr. Kirsten Tackmann, Alexander Ulrich, Kathrin Vogler und der Fraktion  
+DIE LINKE. 
+Software zur Erkennung von &#8222;Radikalisierung&#8220; und &#8222;Krisen&#8220; 
+Das Bundesministerium der Verteidigung (BMVg) testet die Software &#8222;IBM 
+Watson&#8220;, um durch semantische Analyse gro&#223;er Datenmengen die
+Lagedarstellung von krisenhaften Entwicklungen zu unterst&#252;tzen (Bundestagsdrucksache 
+19/3459). Die Tests erfolgen im Rahmen der Studie &#8222;IT-Unterst&#252;tzung
+Krisenfr&#252;herkennung&#8220;, in der das Bundesministerium nach einer Softwarel&#246;sung sucht, 
+die zuk&#252;nftig &#8222;bei der Vorhersage von Krisen helfen soll&#8220;. Die Software gibt
+dabei &#8222;pr&#228;diktive Hinweise&#8220;, als &#8222;Prognosehorizont&#8220; gibt das BMVg einen
+Zeitraum von sechs bis 18 Monaten an. &#8222;IBM Watson&#8220; verarbeitet sogenannte
+strukturierte und unstrukturierte Daten aus &#246;ffentlichen, offenen und als
+Verschlusssachen eingestufte Quellen. Neben Inhalten aus &#246;ffentlich und nicht &#246;ffentlich
+zug&#228;nglichen Internetforen werden auch sogenannte Ereignisdatenbanken mit
+Archiven zu politischen Vorkommnissen und Protesten angebunden. Das BMVg 
+nennt hierzu die Plattformen &#8222;Armed Conflict Location &amp; Event Data&#8220; (ACLED), 
+&#8222;Global Database of Events, Language, and Tone&#8220; (GDELT) und &#8222;Global
+Terrorism Database&#8220; (GTD). Sie sollen durch die Universit&#228;t der Bundeswehr
+M&#252;nchen im Hinblick auf ihre Zuverl&#228;ssigkeit evaluiert werden. Alle drei Monate tagt 
+eine Arbeitsgruppe &#8222;Krisenfr&#252;herkennung&#8220; der Bundesregierung, die ein
+zentrales Instrument der &#8222;ressort&#252;bergreifenden Krisenfr&#252;herkennung&#8220; ist (Antwort der 
+Bundesregierung auf die Schriftliche Frage 24 des Abgeordneten Ottmar von 
+Holtz auf Bundestagsdrucksache 19/5643). Einige der beteiligten Ressorts
+entwickeln bzw. nutzen computergest&#252;tzte &#8222;Instrumente, deren Ergebnisse in die
+genannte Ressortzusammenarbeit einflie&#223;en&#8220;. 
+Neben der &#8222;Krisenfr&#252;herkennung&#8220; werden Informationen aus Internetforen oder 
+Sozialen Medien auch zum Aufsp&#252;ren von &#8222;Radikalisierung&#8220; genutzt. Die
+Europ&#228;ische Union finanziert hierzu das Projekt &#8222;Novel Social Data Mining Platform 
+to Detect and Defeat Violent Online Radicalization&#8220;, das von der spanischen 
+Firma Insikt Intelligence durchgef&#252;hrt wird (http://gleft.de/2Ay). Das Erkennen 
+von &#8222;Cyberpropaganda&#8220; soll die Pr&#228;diktion von unerw&#252;nschten Ereignissen
+erm&#246;glichen. Die Software soll au&#223;erdem &#8222;radikale Inhalte&#8220;, &#8222;verd&#228;chtige
+Nachrichten&#8220; und &#8222;verdeckte &#8222;Radikalisierungsprozesse&#8220; erkennen. Vier europ&#228;ische 
+Strafverfolgungsbeh&#246;rden sollen bis 2019 ein zu entwickelndes Produkt testen. 
+Eine von der Firma online gestellte Beschreibung ihrer &#8222;Aufkl&#228;rungsplattform&#8220; 
+beschreibt ihre Wirkungsweise beim Aufsp&#252;ren von &#8222;jihadistischen Prozessen&#8220; 
+(http://gleft.de/2Ax). Die EU-Kommission finanziert au&#223;erdem das Projekt 
+&#8222;RED-Alert&#8220;, das ebenfalls Soziale Medien auswertet (http://gleft.de/2Aw). 
+Genannt werden auch &#8222;neue Kan&#228;le wie Telegram und Periscope&#8220;, die demnach in
+der &#8222;Terrorgemeinde&#8220; eine gr&#246;&#223;ere Bedeutung erlangen. Auch &#8222;Red-Alert&#8220; wird 
+von Strafverfolgungsbeh&#246;rden getestet (http://gleft.de/2Av). Die EU-
+Kommission hat jetzt weitere 5 Mio. Euro aus dem Fonds f&#252;r Innere Sicherheit (ISF) f&#252;r 
+Projekte gegen &#8222;Radikalisierung&#8220; aufgelegt (http://gleft.de/2At).  
+Wir fragen die Bundesregierung: 
+1. Welche Ressorts der Bundesregierung entwickeln bzw. nutzen
+computergest&#252;tzte Instrumente zur &#8222;Krisenfr&#252;herkennung&#8220;, deren Ergebnisse in die
+genannte Ressortzusammenarbeit einflie&#223;en (Antwort auf die Schriftliche 
+Frage 24 des Abgeordneten Ottmar von Holtz auf Bundestagsdrucksache 
+19/5643), und um welche Produkte welcher Hersteller handelt es sich dabei? 
+a) Wann endet der Studienvertrag &#8222;IT-Unterst&#252;tzung Krisenfr&#252;herkennung&#8220; 
+zum Test der Software &#8222;IBM Watson&#8220; f&#252;r die semantische Analyse von 
+Quellendaten und Lagedarstellung beim Bundesministerium der
+Verteidigung (Bundestagsdrucksache 19/3459, Antwort zu Frage 10)? 
+b) Welche strukturierten und unstrukturierten Daten aus &#246;ffentlichen,
+offenen und als Verschlusssachen eingestuften Quellen werden mit der
+Software &#8222;IBM Watson&#8220; verarbeitet? 
+c) Welche Erl&#228;uterungen kann die Bundesregierung zur Anbindung von 
+&#8222;IBM Watson&#8220; an die Ereignisdatenbanken &#8222;Armed Conflict Location &amp; 
+Event Data&#8220; (ACLED), &#8222;Global Database of Events, Language, and 
+Tone&#8220; (GDELT) und &#8222;Global Terrorism Database&#8220; (GTD) machen, und 
+in welchem Umfang werden dort vorgehaltene Informationen genutzt? 
+d) Wie zuverl&#228;ssig sind die Datenbanken nach gegenw&#228;rtigem Stand? 
+e) Welche Kosten entstanden f&#252;r die Forschungs- und Technologiestudie, 
+und wie werden diese &#252;bernommen? 
+2. Auf welcher gesetzlichen Grundlage nutzt die Bundeswehr eine Software zur 
+Krisenfr&#252;herkennung bzw. plant eine entsprechende Nutzung? 
+3. Worum handelt es sich nach Kenntnis der Bundesregierung bei
+&#8222;technischoperativen &#220;bungen&#8220; mit dem Titel &#8222;DEFNET&#8220; (Ratsdokument 14413/18), 
+die laut des aktualisierten EU-Politikrahmens f&#252;r die Cyberabwehr vom
+Europ&#228;ischen Ausw&#228;rtigen Dienst, der Verteidigungsagentur und
+Mitgliederstaaten durchgef&#252;hrt werden sollen, und welche Szenarien wurden und
+werden bei den &#220;bungen geprobt? 
+4. Was ist der Bundesregierung &#252;ber neue EU-Projekte der DG NEAR im
+Bereich Cybersicherheit f&#252;r die Staaten der &#246;stlichen Nachbarschaft bekannt, 
+und welche Gelder werden daf&#252;r an interessierte
+Durchf&#252;hrungsorganisationen vergeben? 
+a) Welche Ziele werden dabei verfolgt, und welche L&#228;nder sollen gef&#246;rdert 
+werden? 
+b) Sofern auch die Implementierung der Budapest Convention von den
+Projekten abgedeckt werden soll, welche Rolle wird dabei der Europarat 
+&#252;bernehmen? 
+c) Wann soll nach Kenntnis der Bundesregierung eine Ausschreibung f&#252;r die 
+Projekte erfolgen?  
+5. Welche Produkte wurden in der vom Fraunhofer-Institut f&#252;r
+Naturwissenschaftlich-Technische Trendanalysen (FhI INT) f&#252;r die f&#252;r die
+Bundesregierung durchgef&#252;hrte Studie &#8222;Einsatz kognitiver Systeme&#8220; zur theoretischen 
+und technischen Untersuchung der Anwendung Kognitiver Systeme in der 
+Trendanalyse (Bundestagsdrucksache 19/3459, Antwort zu Frage 2)
+betrachtet?
+6. Welche Schlussfolgerungen zieht die Bundesregierung aus der vom
+Fraunhofer-Institut FKIE durchgef&#252;hrten Studie &#8222;Information Retrieval &#8211; Fake 
+News&#8220; zur Untersuchung der automatisierten Erkennung von &#8222;Fake News&#8220; 
+(Bundestagsdrucksache 19/3459, Antwort zu Frage 2)? 
+7. Welche Schlussfolgerungen zieht die Bundesregierung aus der von der
+Bundeswehr-Universit&#228;t in M&#252;nchen durchgef&#252;hrten Studie &#8222;Automatisierte
+Beobachtung von Internetinhalten&#8220;, die am Beispiel Twitter einen Fokus auf die 
+&#8222;Vernetzung zwischen Ereignissen aus der realen Welt und ihrer Resonanz 
+im Internet&#8220; legt (Bundestagsdrucksache 19/3459, Antwort zu Frage 2)? 
+8. Welche Schlussfolgerungen zieht die Bundesregierung aus den 2017 von der 
+Beraterfirma IABG beendeten Studien &#8222;IT-Unterst&#252;tzung
+Krisenfr&#252;herkennung&#8220; und &#8222;Bearbeitung der Lage im Informationsumfeld&#8220;
+(Bundestagsdrucksache 19/3459, Antwort zu Frage 8)? 
+a) Welche technischen Verfahren oder Produkte wurden in den Studien
+untersucht? 
+b) Welche Handlungsempfehlungen geben die Studien?  
+9. Welche weiteren Firmen nehmen nach Kenntnis der Bundesregierung derzeit 
+am &#8222;EU Internet Forum&#8220; zur Erkennung und Entfernung von unerw&#252;nschten 
+Internetinhalten teil, wozu den Fragestellerinnen und Fragestellern derzeit 
+Facebook, Google/Youtube, Microsoft, Twitter, Internet Archive, Justpaste.it, 
+Wordpress, SNAP, Soundcloud, Yellow, Baaz, Dropbox, Mega, Userscloud 
+und Telegram bekannt sind, es sich laut der Bundesregierung aber um &#8222;etwa 
+20 Unternehmen&#8220; handeln soll (Bundestagsdrucksache 19/5731, Antwort zu 
+Frage 12)? 
+10. Was ist der Bundesregierung &#252;ber Vorschl&#228;ge f&#252;r eine erweiterte &#8222;EU-
+Meldeplattform&#8220; zur Verhinderung der Verbreitung terroristischer Onlineinhalte 
+bekannt, die nach Kenntnis der Fragestellerinnen und Fragesteller eine
+automatische Erkennung bereits hinterlegter Inhalte gew&#228;hrleisten und &#252;ber
+einen &#8222;privilegierten Kanal&#8220; zu den Internetanbietern verf&#252;gen soll? 
+a) Welche Haltung vertritt die Bundesregierung zur Notwendigkeit einer 
+solchen Meldeplattform? 
+b) Wie sollte die Plattform mit widerspr&#252;chlichen Entfernungsanordnungen 
+umgehen, etwa wenn Strafverfolgungsbeh&#246;rden oder Geheimdienste
+verlangen, dass eine Internetpr&#228;senz nicht gel&#246;scht wird, da diese beobachtet 
+wird? 
+c) Inwiefern sollte eine solche Plattform aus Sicht der Bundesregierung auch 
+automatisiert im Internet nach inkriminierten Inhalten suchen? 
+11. Was ist der Bundesregierung nach dem EU-US-Ministertreffen f&#252;r die
+Bereiche Inneres und Justiz am 8. und 9. November 2018 in Washington
+dar&#252;ber bekannt, inwiefern bzw. auf welche Weise die USA und die EU
+gemeinsam gegen die Beseitigung von Terrorpropaganda im Internet vorgehen
+wollen und welche US-Beh&#246;rden sich hierzu einbringen wollen?
+12. Wann soll die Europ&#228;ische Kommission nach Kenntnis der Bundesregierung 
+ein Mandat erhalten, um die Beratung und m&#246;gliche Verhandlung mit den 
+USA &#252;ber eine Regierungsvereinbarung nach dem sogenannten CLOUD-Act 
+(Clarifying Lawful Overseas Use of Data Act) zu beginnen und eine
+gegenseitige Anforderung von elektronischen Beweismitteln zu regeln, damit
+Herausgabeverlangen von Beh&#246;rden der EU-Mitgliedstaaten gegen&#252;ber Firmen 
+in den USA erleichtert werden? 
+a) Was ist der Bundesregierung dar&#252;ber bekannt, wann die EU-Kommission 
+die Mandatsentw&#252;rfe f&#252;r die Verhandlung eines Abkommens zwischen 
+der EU und den USA zur Vereinfachung des Zugangs zu elektronischen 
+Beweismitteln sowie zum zweiten Zusatzprotokoll zur Budapest
+Konvention des Europarats vorlegen will? 
+b) Sofern hierzu noch kein Zeitpunkt bekannt ist, aus welchen Gr&#252;nden
+verz&#246;gert sich dies nach Kenntnis der Bundesregierung? 
+13. Mit welchem Personal nahm die Bundesregierung an der Second High-level 
+Conference on Aviation Security der ICAO am 29. und 30. November 2018 
+in Montr&#233;al teil? 
+a) Wie wird die Bundesregierung die dort verabschiedeten Empfehlungen 
+umsetzen, einen gemeinsamen Standard f&#252;r den Austausch und die
+Verarbeitung von Passagierdaten zu entwickeln (http://gleft.de/2Bl)? 
+b) Welche Software nutzt das Bundeskriminalamt zur Auswertung bzw. zum 
+Profiling von Passagierdaten in der deutschen PNR-Zentralstelle, bzw. 
+welche Software soll hierzu beschafft werden? 
+14. In welchen Projekten des Sicherheitsforschungsprogramms der
+Europ&#228;ischen Union zur &#220;berwachung und Kontrolle an Flugh&#228;fen, an denen
+deutsche Beh&#246;rden, Firmen oder sonstigen Einrichtungen teilnehmen, wird nach 
+Kenntnis der Bundesregierung auch zum Einsatz von Anwendungen zu 
+K&#252;nstlicher Intelligenz bzw. maschinellem Lernen geforscht
+(Bundestagsdrucksache 18/11952, Antwort zu Frage 1)? 
+a) Welche der im Sicherheitsforschungsprogramm der Europ&#228;ischen Union 
+gef&#246;rderten Projekte, die Aspekte einer Risiko- bzw. Verhaltensanalyse 
+von Reisenden aufweisen, forschen auch zu K&#252;nstlicher Intelligenz bzw. 
+maschinellem Lernen? 
+b) Welche der im Rahmenprogramm der Bundesregierung &#8222;Forschung f&#252;r 
+die zivile Sicherheit&#8220; beforschten Anwendungen zur &#8222;St&#228;rkung bzw.
+Automatisierung der Luftsicherheitskontrollen&#8220; sollen Anwendungen zu 
+K&#252;nstlicher Intelligenz bzw. maschinellem Lernen beinhalten? 
+15. Inwiefern hat die Bundesregierung mittlerweile eine &#8222;generelle Position&#8220; zur 
+computergest&#252;tzten Auswertung von Sozialen Medien (darunter Twitter, 
+Facebook) erarbeitet (Bundestagsdrucksache 19/3459, Antwort zu Frage 19), 
+und worin besteht diese? 
+16. Was ist der Bundesregierung &#252;ber Forschungen der Europ&#228;ischen
+Kommission zur &#8222;Krisenfr&#252;herkennung&#8220; und zum Aufsp&#252;ren von &#8222;Radikalisierung&#8220; 
+bekannt (www.woz.ch/-86ae), und an welchen dieser Projekte sind deutsche 
+Einrichtungen beteiligt? 
+17. Welche Software nutzen Bundesbeh&#246;rden zum Aufsp&#252;ren &#8222;extremistischer 
+Ideologien&#8220; oder &#8222;Radikalisierungsprozesse&#8220; im Internet (auch sogenannte 
+Bottom-Up-Radikalisierung), und welche Tests oder Studien werden hierzu 
+durchgef&#252;hrt?
+18. Welche Zielsetzung verfolgt das Verbundprojekt &#8222;X-SONAR&#8220;, mit dem das 
+Bundesministerium f&#252;r Bildung und Forschung &#8222;extremistische Interaktions- 
+und Eskalationsdynamiken in sozialen Onlinenetzwerken&#8220; erkennen und 
+verstehen will (www.x-sonar.de)? 
+a) Welche &#8222;Radikalisierungsprozesse&#8220; welcher Str&#246;mungen bzw. welche 
+&#8222;Formierung neuer radikaler Gruppen&#8220; soll die Anwendung vorrangig
+erkennen? 
+b) Welche Angaben soll die in &#8222;X-SONAR&#8220; bzw. der dort beforschten
+Anwendung erstellte Gef&#228;hrdungsbewertung enthalten? 
+c) Auf welche Weise sollen entsprechende Inhalte im Internet von der
+Anwendung gefunden werden? 
+d) In welchen Bereichen wird zur Risikoeinsch&#228;tzung und Gewaltpr&#228;vention 
+in &#8222;X-SONAR&#8220; auch zum Einsatz von Anwendungen zu K&#252;nstlicher
+Intelligenz bzw. maschinellem Lernen geforscht? 
+e) Mit welchen &#8222;Endnutzern aus Sicherheitsbeh&#246;rden&#8220; wollen die
+Projektbeteiligten ihr &#8222;softwaregest&#252;tztes Instrument f&#252;r das
+Bedrohungsmanagement und [&#8230;] Gef&#228;hrdungsbewertung innerhalb virtueller Kontexte&#8220; 
+zusammen entwickeln bzw. testen (bitte etwaige beteiligte
+Landeskriminal&#228;mter auff&#252;hren)? 
+f) Welchen Beitrag erbringt die Deutsche Hochschule der Polizei in  
+&#8222;X-SONAR&#8220;? 
+g) Wann und wo sollen die Tests nach gegenw&#228;rtigem Stand erfolgen? 
+Berlin, den 13. Dezember 2018  
+Dr. Sahra Wagenknecht, Dr. Dietmar Bartsch und Fraktion
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Satz: Satzweiss.com Print, Web, Software GmbH, Mainzer Stra&#223;e 116, 66121 Saarbr&#252;cken, www.satzweiss.com 
+Druck: Printsystem GmbH, Schafw&#228;sche 1-3, 71296 Heimsheim, www.printsystem.de 
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de 
+ISSN 0722-8333]</text>
+    <titel>Software zur Erkennung von "Radikalisierung" und "Krisen"</titel>
+    <datum>2019-01-14</datum>
+  </document>
+  

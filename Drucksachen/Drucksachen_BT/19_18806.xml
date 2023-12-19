@@ -1,0 +1,326 @@
+<document>
+    <id>240596</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/18806</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>edef7666eb24422e4cb0c36230b7e32c</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>260190</id>
+      <titel>Stand von Car2X-Kommunikation in Deutschland</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium f&#252;r Verkehr und digitale Infrastruktur</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/188/1918806.pdf</pdf_url>
+      <id>240596</id>
+      <dokumentnummer>19/18806</dokumentnummer>
+      <datum>2020-04-23</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Antwort
+der Bundesregierung
+auf die Kleine Anfrage der Abgeordneten Oliver Luksic, Frank Sitta,
+Bernd Reuther, weiterer Abgeordneter und der Fraktion der FDP
+&#8211; Drucksache 19/17911 &#8211;
+Stand von Car2X-Kommunikation in Deutschland
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Car2X-Kommunikation beschreibt den Austausch von Daten in Echtzeit
+sowohl zwischen Fahrzeugen (Car2Car) als auch zwischen Fahrzeugen und
+Verkehrsinfrastruktur (Car2Infrastructure). F&#252;r Car2X-Kommunikation ben&#246;tigen 
+Verkehrsteilnehmer und Stra&#223;eninfrastruktur allerdings kompatible Sender 
+und Empf&#228;nger, klare Rahmenbedingungen f&#252;r die Nutzung der Technologie 
+bei der Einf&#252;hrung und der fl&#228;chendeckenden Nutzung sowie ein
+leistungsf&#228;higes Netz, um alle Daten in Echtzeit &#252;bertragen zu k&#246;nnen. Durch
+Investitionen in Forschungsprojekte sowie physische und digitale Infrastruktur kann 
+Car2X-Kommunikation realisiert werden, und dadurch weitreichende
+Potenziale beispielsweise bei Unfallvermeidung und der Beschleunigung des
+Verkehrs gehoben werden. Car2X-Anwendungen sind dabei auf allen
+Verkehrswegen, von der Innenstadt bis zur Autobahn, m&#246;glich und k&#246;nnen nach
+Ansicht der Fragesteller einen Beitrag hin zur vernetzten, digitalen Mobilit&#228;t der 
+Zukunft leisten und als erster Schritt hin zu einer intelligenten IT-gest&#252;tzten 
+Verkehrslenkung sein. Ihre Verbreitung sollte daher als Chance f&#252;r den
+Verkehrsstandort Deutschland begriffen werden, die nicht allein f&#252;r Autos,
+sondern auch f&#252;r G&#252;terkraftverkehr, Fahrradfahrer, Fu&#223;g&#228;nger und alle weiteren 
+Verkehrsteilnehmer zu einem besseren Miteinander f&#252;hren kann.
+Deutscher Bundestag Drucksache 19/18806
+19. Wahlperiode 23.04.2020
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums f&#252;r Verkehr und digitale
+Infrastruktur vom 22. April 2020 &#252;bermittelt.
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext.
+&#8199;1. Sind nach Kenntnis der Bundesregierung Basisstationen und
+Empfangsstationen f&#252;r Car2X-Kommunikation an Objekten der
+Verkehrsinfrastruktur notwendig, und wenn ja, mit wie vielen Stationen rechnet die 
+Bundesregierung bundesweit?
+&#8199;2. Welche Objekte der Verkehrsinfrastruktur w&#252;rde die Bundesregierung 
+priorit&#228;r mit Basisstationen und Empfangsstationen f&#252;r Car2X-
+Kommunikation ausstatten, und welche Verkehrswege w&#228;ren prim&#228;r betroffen?
+&#8199;3. Mit welchen Kosten rechnet die Bundesregierung f&#252;r Ausr&#252;stungen und 
+Umr&#252;stungen f&#252;r Basisstationen und Empfangsstationen f&#252;r Car2X-
+Kommunikation an Objekten der Verkehrsinfrastruktur?
+&#8199;5. Wie, und bis wann plant die Bundesregierung, die fl&#228;chendeckende
+Einf&#252;hrung von infrastrukturseitiger Car2X-Technologie sicherzustellen?
+23. Bis wann rechnet die Bundesregierung mit einem Stand des Netzausbaus 
+der den Betrieb von Car2X-Technologie fl&#228;chendeckend an den
+Bundesfernstra&#223;en erm&#246;glichen wird (bitte mit Jahr und Begr&#252;ndung)?
+24. Ist die Durchf&#252;hrbarkeit von Car2X-Kommunikation in systemkritischen 
+Situationen wie Staus, in denen ein sehr hohes Datenaufkommen zu
+erwarten ist, mit der aktuellen digitalen Infrastruktur und Technologie nach 
+Kenntnis der Bundesregierung m&#246;glich?
+Die Fragen 1, 2, 3, 5, 23 und 24 werden aufgrund ihres Sachzusammenhangs 
+gemeinsam beantwortet.
+Art und Umfang der erforderlichen Verkehrsinfrastruktur sind abh&#228;ngig von der 
+verwendeten Technik und dem zu Grunde liegenden Dienst f&#252;r intelligente
+Verkehrssysteme (IVS).
+&#8199;4. Plant die Bundesregierung die F&#246;rderung des Einbaus von Car2X-
+Technologie in Kraftfahrzeugen, und wenn ja, f&#252;r welche Fahrzeuge, und mit 
+welchen Mitteln (bitte nach Fahrzeugart und Fahrzeugtyp sowie
+F&#246;rdermenge insgesamt sowie je Art und Typ aufschl&#252;sseln)?
+Eine F&#246;rderung des Einbaus von Car2X Technologie in Kraftfahrzeugen ist 
+nicht geplant.
+&#8199;6. Plant die Bundesregierung, die Einf&#252;hrung und Nutzung von Car2X 
+grenz&#252;bergreifend, im Rahmen der Europ&#228;ischen Union oder anderweitig 
+bilateral und multilateral zu gestalten, und wenn ja, wo, und wie?
+&#8199;7. Gab es in dieser Hinsicht bereits Gespr&#228;che mit anderen L&#228;ndern oder 
+Organisationen?
+Die Fragen 6 und 7 werden aufgrund ihres Sachzusammenhangs gemeinsam 
+beantwortet.
+Im Rahmen der Einf&#252;hrung eines ersten IVS-Dienstes auf Bundesautobahnen 
+(Korridor Rotterdam-Frankfurt-Wien im Jahr 2013) erfolgt aktuell eine enge 
+Abstimmung mit den Niederlanden und &#214;sterreich. Auch auf dem
+grenz&#252;berschreitenden Testfeld Deutschland-Frankreich-Luxemburg k&#246;nnen
+Erprobungen technologieoffen durchgef&#252;hrt werden.
+&#8199;8. Gibt es nach Kenntnis der Bundesregierung Fahrzeuge im Besitz
+beziehungsweise in Benutzung durch den Bund oder seiner nachgeordneten 
+Beh&#246;rden die heute Car2X-kompatibel sind (bitte nach Fahrzeugmodell, 
+Anzahl und Ministerium bzw. Beh&#246;rde aufschl&#252;sseln)?
+BMVI: 12 Fahrzeuge (Mercedes Benz: Modell E 300 e = 9 Fahrzeuge, Modell 
+S 560 e = 1 Fahrzeug, Modell GLC F-Cell = 1 Fahrzeug, Modell B 250 e = 
+1 Fahrzeug).
+Nachgeordnete Beh&#246;rden des BMVI: 5 Fahrzeuge (Bundesamt f&#252;r
+G&#252;terverkehr = 2x Mercedes Benz Modell E 300 e, Eisenbahnbundesamt = 1x Mercedes 
+Benz Modell E 300 e, Bundesamt f&#252;r Verwaltungsdienstleistungen = 1x
+Mercedes Benz Modell E 300 e, Luftfahrtbundesamt = 1x Mercedes Benz Modell 
+E 300 e).
+BMEL: 4 Fahrzeuge (Mercedes Benz: Modell S 350 d = 1 Fahrzeug, Modell 
+E 300 e = 2 Fahrzeuge, Modell E 220 d = 1 Fahrzeug).
+Nachgeordnete Beh&#246;rde des BMEL: 1 Fahrzeug (Bundesamt f&#252;r
+Verbraucherschutz und Lebensmittelsicherheit, Mercedes Benz Modell E 300e).
+BMJV: keine.
+Nachgeordnete Beh&#246;rden des BMJV: 9 Fahrzeuge (Bundesfinanzhof = 2x
+Mercedes Benz Modell E 220d (1 Fahrzeug wird 2020 ver&#228;u&#223;ert),
+Bundesgerichtshof= 1x Mercedes Benz Modell E 220d, Generalbundesanwalt beim
+Bundesgerichtshof = 4x Mercedes Benz Modell E 220d, Bundesverwaltungsgericht = 
+1x Mercedes Benz Modell E 220 d T-Modell sowie 1x Mercedes Benz Modell 
+e 200 d Limousine).
+BMVg: 416 Fahrzeuge im Bestand der Bundeswehr (Mercedes Benz: Modell 
+314 KB = 22 Fahrzeuge, Modell A 180 D = 2 Fahrzeuge, Modell C 200 = 
+6 Fahrzeuge, Modell C 200 T = 178 Fahrzeuge, Modell C 220 D = 58
+Fahrzeuge, Modell C 220 D T = 40 Fahrzeuge, Modell C300 = 8 Fahrzeuge, Modell C 
+300 D = 3 Fahrzeuge, Modell E 200 D T = 1 Fahrzeug, Modell E 220 D = 82 
+Fahrzeuge, Modell E 220 D 4MATIC T = 1 Fahrzeug, Modell E 220 D T = 7 
+Fahrzeuge, Modell E 300 E = 1 Fahrzeug, Modell GLA 200 CDI/D 4M = 2 
+Fahrzeuge, Modell GLA 220 4M = 4 Fahrzeuge, Modell GLC 220 D 4MATIC 
+= 1 Fahrzeug).
+BMZ: 5 Fahrzeuge (Audi Modell A8 60 TFSIe quattro 330(449) kW(PS)
+tiptronic= 1 Fahrzeug, BMW Modell 530e IPerformance= 2 Fahrzeuge, Mercedes 
+Benz Modell EVito TourerPro 111= 2 Fahrzeuge).
+BMAS: 11 Fahrzeuge (Mercedes Benz: Modell S350d = 3 Fahrzeuge, Modell 
+E220d= 7 Fahrzeuge, Modell E300e = 1 Fahrzeug).
+BMU: 7 Fahrzeuge (BMW: Modell 530e iPerformance = 3 Fahrzeuge, Modell 
+745e iPerformance = 3 Fahrzeuge, Modell 740e iPerformance = 1 Fahrzeug).
+BMFSFJ: 11 Fahrzeuge (BMW: Modell 520d Touring = 1 Fahrzeug, Modell 
+730d xDrive = 1 Fahrzeug, Modell 730Ld xDrive = 1 Fahrzeug, Modell 530e 
+iPerformance Limousine = 5 Fahrzeuge, Modell 745e iPerformance Limousine 
+= 1 Fahrzeug, Audi Modell A8 50 TDI Quattro = 1 Fahrzeug, Mercedes Benz 
+Modell E300 DE = 1 Fahrzeug).
+BMG: 13 Fahrzeuge (BMW: Modell 740Ld xDrive = 1 Fahrzeug, Modell 745 
+iePerf. = 1 Fahrzeug, Audi Modell A8 50 TDI Quattro = 3 Fahrzeuge,
+Mercedes Benz: Modell S350d = 1 Fahrzeug, Modell E 300e = 5 Fahrzeuge, Modell 
+E 220d = 2 Fahrzeuge).
+&#8199;9. Plant die Bundesregierung die Nutzung von Car2X in Fahrzeugen des 
+Bundes oder seiner nachgeordneten Beh&#246;rden zu erm&#246;glichen, und wenn 
+ja, bis wann, in welchem Ausma&#223;e, und mit welchen Mitteln soll dies
+geschehen (bitte nach Fahrzeugmodell, Anzahl und Bundesministerium 
+bzw. Beh&#246;rde aufschl&#252;sseln)?
+Entsprechende Planungen liegen nicht vor.
+10. Welche Teile der Verkehrsinfrastruktur plant die Bundesregierung mit 
+Car2X-Stationen auszustatten?
+Die Einf&#252;hrung des &#8222;Baustellenwarners&#8220; als erstem IVS-Dienst auf
+Bundesautobahnen (Korridor Rotterdam-Frankfurt-Wien) ist geplant. Im &#220;brigen wird 
+auf die Antwort zu Frage 6 verwiesen.
+11. Erlaubt der aktuelle Rechtsrahmen nach Kenntnis der Bundesregierung 
+die Nutzung von Car2X in den verschiedenen m&#246;glichen
+Anwendungsf&#228;llen, und wenn nein, plant die Bundesregierung Anpassungen des
+gesetzlichen Rahmens, um dies zu &#228;ndern?
+F&#252;r Kooperative Verkehrssysteme wird ein europaeinheitlicher Rechtsrahmen 
+angestrebt. Die Europ&#228;ische Kommission hat angek&#252;ndigt, die seit 2010 g&#252;ltige 
+Richtlinie 2010/40/EU zur Einf&#252;hrung intelligenter Verkehrssysteme (IVS-RL) 
+zu &#252;berarbeiten. Damit besteht die M&#246;glichkeit, Car2X-Technologien als eine 
+weitere priorit&#228;re Ma&#223;nahme in die IVS-RL aufzunehmen.
+12. Inwiefern sind die Bundesl&#228;nder nach Kenntnis der Bundesregierung 
+beim Thema Car2X aktiv?
+13. Wie viele Car2X-Stationen sind nach Kenntnis der Bundesregierung 
+aktuell in Deutschland verbaut und aktiv (bitte nach Ort und Nutzung 
+auflisten)?
+14. Wie viele Car2X-Stationen sind nach Kenntnis der Bundesregierung 
+aktuell auf Bundesautobahnen verbaut und aktiv (bitte nach Ort und
+Nutzung auflisten)?
+Die Fragen 12, 13 und 14 werden aufgrund ihres Sachzusammenhangs
+gemeinsam beantwortet.
+Mehrere Bundesl&#228;nder (z. B. Hessen, Bayern, Niedersachsen) unterst&#252;tzen
+verschiedene Projekte zum Thema Car2X.
+Nach Kenntnis des BMVI sind aktuell 49 Stationen haupts&#228;chlich zu
+Forschungszwecken verbaut:
+&#8211; 14 Stationen auf der A9 (Digitales Testfeld Autobahn) zwischen Greding 
+und G&#246;ggelsbuch an Notrufs&#228;ulenstandorden im Rahmen des
+Forschungsprojekts ANIKA II,
+&#8211; 1 Station auf der A9 H&#246;he Tank und Rast F&#252;rholzen im Rahmen des
+Forschungsprojekts KoRA9,
+&#8211; 12 Stationen auf der A39 zwischen dem Autobahndreieck Braunschweig-
+S&#252;dwest bis Autobahnkreuz Wolfsburg/ K&#246;nigslutter im Rahmen des
+Testfeld Niedersachsen,
+&#8211; 3 Stationen auf der A2 zwischen dem Kreuz BS-Nord und BS-Watenb&#252;ttel 
+im Rahmen des Projekts C-ROADS Germany,
+&#8211; 15 Stationen auf der A5 zwischen dem Bad Homburger Kreuz und
+Friedberg im Rahmen des Projekts C-ROADS Germany,
+&#8211; 4 weitere Stationen am Frankfurter Kreuz (A3/A5) auch im Rahmen des 
+Projekts C-ROADS Germany.
+Die meisten Stationen werden am Ende der Forschungsaktivit&#228;ten wieder
+r&#252;ckgebaut.
+Der Bundesregierung liegen keine Informationen vor, welche Car2X-Stationen 
+auf Stra&#223;en vorliegen, die durch die L&#228;nder betrieben werden.
+15. Wie viele Mittel hat die Bundesregierung bisher jeweils in WLANp-
+Pilotprojekte und Mobilfunk-Pilotprojekte f&#252;r den Verkehr investiert 
+(bitte nach Projekt auflisten)?
+Die Bundesregierung hat keine derartigen Pilotprojekte gef&#246;rdert.
+16. Werden Car2X-Projekte im Rahmen des Sofortprogramms Saubere Luft 
+gef&#246;rdert (bitte nach Projekten und F&#246;rdersumme auflisten)?
+Im Rahmen des F&#246;rderprogramms &#8222;Digitalisierung kommunaler
+Verkehrssysteme&#8220; werden folgende Projekte mit &#8222;Car2X&#8220;-Bezug gef&#246;rdert:
+&#8211; Systemuntersuchungen und Erstellung von Lastenheften zur Anpassung der 
+verkehrstechnischen Infrastruktur in Frankfurt (45.000 Euro),
+&#8211; Teststrecke Automatisiertes und Vernetztes Fahren in Hamburg 
+(4.740.600 Euro),
+&#8211; V2X Datenerfassung zur Verkehrsflussoptimierung im Hamburger Hafen 
+(274.861 Euro),
+&#8211; Digitalisierung hochbelasteter innerst&#228;dtischer Korridore in Dresden unter 
+Nutzung von V2I-Anwendungen (220.000 Euro),
+&#8211; Ert&#252;chtigung der Lichtsignalanlagen f&#252;r die Anbindung von Road Side 
+Units (RSU) zur Vorbereitung der Car2X-Kommunikation in Stuttgart 
+(980.273 Euro),
+&#8211; Automatisiertes und Vernetztes Fahren V2X-Kommunikation in Hamburg 
+(5.902.467 Euro),
+&#8211; Beschaffung und Einsatz von Steuereinheiten f&#252;r die Beschleunigung von 
+Bussen und Einsatzfahrzeugen an Lichtsignalanlagen in Ludwigsburg 
+(321.300 Euro),
+&#8211; Schaffung eines kooperativen intelligenten Verkehrssystems durch
+Austausch von Statusmeldungen car2x in Wuppertal (544.255 Euro),
+&#8211; Roll out: Kooperative Systeme Hamburg (15.707.096 Euro),
+Verbesserung f&#252;r den &#214;PNV in Heilbronn mittels einer &#214;PNV
+Bevorrechtigung in Heilbronn (283.000 Euro),
+&#8211; Verbesserung f&#252;r den &#214;PNV in Heilbronn mittels einer &#214;PNV
+Bevorrechtigung (144.599 Euro),
+&#8211; V2X-System f&#252;r Einsatzfahrzeuge der Feuerwehr in Oberhausen 
+(495.399 Euro).
+17. Welche Erkenntnisse hat die Bundesregierung aus dem von ihr
+gef&#246;rderten Projekt &#8222;simTD&#8220; erlangt?
+Durch den Aufbau eines Testfeldes f&#252;r Car2X-Anwendungen im Rhein-Main-
+Gebiet und die dort durchgef&#252;hrten Tests konnte die Praxistauglichkeit und 
+grunds&#228;tzliche Marktreife der Technik demonstriert werden. Auf Basis der in 
+simTD gewonnenen Erkenntnisse kann der volkswirtschaftliche Nutzen der 
+Car2X Technologie als positiv bewertet werden.
+18. Welche konkreten Ma&#223;nahmen sind in Folge dieser Erkenntnisse
+umgesetzt worden?
+Im Jahr 2013 wurde die gemeinsam abgestimmte Einf&#252;hrung erster Car2X-
+Dienste auf dem Autobahnkorridor Rotterdam-Frankfurt-Wien mit den
+Niederlanden und &#214;sterreich vereinbart (https://c-its-korridor.de). Mittlerweile ist der 
+Roll-out dieser Dienste f&#252;r das gesamte deutsche Autobahnnetz angelaufen. 
+Weiterhin engagiert sich Deutschland federf&#252;hrend in der Amsterdam Group, 
+einer strategischen Allianz zur gemeinsamen Einf&#252;hrung von Car2X in Europa 
+(https://amsterdamgroup.mett.nl/) und der C-Roads Plattform, einer
+gemeinsame Initiative der europ&#228;ischen Mitgliedstaaten zur Erprobung und
+Implementierung von Car2X im Hinblick auf grenz&#252;berschreitende Harmonisierung und 
+Interoperabilit&#228;t (https://www.c-roads.eu).
+19. Welche Projekte zur IT-gest&#252;tzten intelligenten Verkehrslenkung gibt es 
+in Deutschland, werden diese von Seiten des Bundes gef&#246;rdert, und was 
+sind nach Kenntnis der Bundesregierung die bisherigen Ergebnisse (bitte 
+nach einzelnen Projekten und Mitteln aufschl&#252;sseln)?
+&#8211; ANIKA II (BMVI) &#8211; Aufr&#252;stung von Notrufs&#228;ulen zur V2I-
+Kommunikation an Autobahnen, Zuwendung: 1,4 Mio. Euro, Ergebnis: Das Projekt ist 
+noch nicht abgeschlossen.
+&#8211; 5G-NetMobil (BMBF) &#8211; 5G L&#246;sungen f&#252;r die vernetzte Mobilit&#228;t der
+Zukunft, Zuwendung: 8,9 Mio. Euro, Ergebnis: Ein Ergebnis des Projekts ist 
+beispielsweise die Entwicklung eines Kreuzungsassistenten, der Fu&#223;g&#228;nger 
+und Radfahrer an un&#252;bersichtlichen Kreuzungen sch&#252;tzt. Ein weiteres
+Ergebnis ist der Zusammenschluss von Nutzfahrzeuge in sogenannten
+Platoons, die in sehr geringem Abstand im Windschatten synchron zueinander 
+fahren und dadurch u. a. die Potenziale haben, die Verkehrssicherheit zu
+erh&#246;hen und Treibstoff zu sparen.
+&#8211; Health5G (BMBF) &#8211; E-Health-Innovationen &#8211; 5G-Technologien machen es 
+m&#246;glich, Zuwendung: 2,5 Mio. Euro, Ergebnis: Das Projekt ist noch nicht 
+abgeschlossen.
+&#8211; MOMENTUM (BMBF) &#8211; Mobile Medizintechnik f&#252;r die integrierte
+Notfallversorgung und Unfallmedizin, Zuwendung: 6,1 Mio. Euro, Ergebnis: 
+Das Projekt ist noch nicht abgeschlossen.
+&#8211; OTB-5G+ (BMBF) &#8211; Offenes Testfeld Berlin f&#252;r Technologien des
+Mobilfunks der 5. Generation und dar&#252;ber hinaus, Zuwendung: 5,1 Mio. Euro,
+Ergebnis: Das Projekt ist noch nicht abgeschlossen.
+Im &#220;brigen wird auf die Antwort der Bundesregierung zu den Fragen 2 und 3 
+der Kleinen Anfrage auf Bundestagsdrucksache 19/18541 verwiesen.
+20. Gibt es &#220;berlegungen der Bundesregierung, neue Testfelder f&#252;r die 
+Car2X-Kommunikation einzurichten?
+21. Wenn ja, wo soll das geschehen, wie gro&#223; soll das Testfeld werden, wie 
+hoch soll die F&#246;rderung des Bundes werden, wer soll an diesem Projekt 
+beteiligt werden und wer die Projektleitung &#252;bernehmen (bitte nach
+Projekt auflistent)?
+Die Fragen 20 und 21 werden aufgrund ihres Sachzusammenhangs gemeinsam 
+beantwortet.
+Auf den bereits eingerichteten Testfeldern auf dem &#8222;Digitalen Testfeld
+Autobahn A9&#8220;, dem k&#252;rzlich definierten Testfeld auf der A2 und A8 sowie dem 
+grenz&#252;berschreitenden Testfeld zwischen Deutschland, Frankreich und
+Luxemburg werden technologieneutral Erprobungen durchgef&#252;hrt. Hierzu k&#246;nnen 
+auch Erprobungen der Car2X Kommunikation z&#228;hlen. Dar&#252;ber hinaus sind 
+keine Car2X-spezifischen Testfelder geplant.
+22. Wie bewertet die Bundesregierung die fl&#228;chendeckende
+Durchf&#252;hrbarkeit von Car2X-Kommunikation in Deutschland in Anbetracht des
+aktuellen Stands des Netzausbaus in der digitalen Infrastruktur?
+F&#252;r Car2X-Kommunikation kommt prim&#228;r der allgemein zugeteilte
+Frequenzbereich f&#252;r ITS (Intelligent Transport Systems) bei 5,9 GHz in Betracht. F&#252;r
+erg&#228;nzende, fahrzeug&#252;bergreifende Kommunikation k&#246;nnen grunds&#228;tzlich auch 
+die &#246;ffentlichen Mobilfunknetze genutzt werden. Aufgrund der
+Versorgungsauflagen aus der Frequenzversteigerung 2019 m&#252;ssen bis Ende 2024 sukzessive 
+alle Bundes- und Landstra&#223;en und alle Schienenwege mit Mobilfunk versorgt 
+werden. Die Autobahnen sind bereits heute abzudecken. F&#252;r Autobahnen und 
+Bundesstra&#223;en ist eine Versorgung mit einer &#220;bertragungsrate von mindestens 
+100 Mbit/s im Downlink im Antennensektor zu erreichen sowie eine Latenz 
+von nicht mehr als 10 ms zwischen einem Endger&#228;t und der zugeh&#246;rigen
+Basisstation sicherzustellen. Dar&#252;ber hinaus haben die Netzbetreiber angek&#252;ndigt, 
+beim Netzausbau zu kooperieren, wodurch die Mobilfunkversorgung &#252;ber alle 
+Netzbetreiber verbessert werden kann.
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/17911 -
+Stand von Car2X-Kommunikation in Deutschland
+</titel>
+    <datum>2020-04-23</datum>
+  </document>
+  

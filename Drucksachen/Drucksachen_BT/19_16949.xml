@@ -1,0 +1,210 @@
+<document>
+    <id>238335</id>
+    <drucksachetyp>Kleine Anfrage</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>15</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/16949</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>e4503280410a9edf183125199d58cec4</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:15+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>258559</id>
+      <titel>Schwachstellen bei der Ausgabe von elektronischen Ausweisen und Komponenten der Telematikinfrastruktur im Gesundheitswesen</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>B90/GR</bezeichnung>
+      <titel>Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN</titel>
+    </urheber>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/169/1916949.pdf</pdf_url>
+      <id>238335</id>
+      <dokumentnummer>19/16949</dokumentnummer>
+      <datum>2020-01-30</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Kleine Anfrage</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN</urheber>
+    </fundstelle>
+    <autoren_anzeige>
+      <id>1093</id>
+      <titel>Maria Klein-Schmeink, MdB, B&#220;NDNIS 90/DIE GR&#220;NEN</titel>
+      <autor_titel>Maria Klein-Schmeink</autor_titel>
+    </autoren_anzeige>
+    <autoren_anzeige>
+      <id>1191</id>
+      <titel>Dr. Konstantin von Notz, MdB, B&#220;NDNIS 90/DIE GR&#220;NEN</titel>
+      <autor_titel>Konstantin von Notz</autor_titel>
+    </autoren_anzeige>
+    <text>[Kleine Anfrage
+der Abgeordneten Maria Klein-Schmeink, Dr. Konstantin von Notz, Dr. Bettina 
+Hoffmann, Dr. Kirsten Kappert-Gonther, Kordula Schulz-Asche, Katja D&#246;rner, 
+Dr. Anna Christmann, Kai Gehring, Erhard Grundl, Ulle Schauws, Charlotte 
+Schneidewind-Hartnagel, Margit Stumpp, Beate Walter-Rosenheimer, Tabea 
+R&#246;&#223;ner, Corinna R&#252;ffer und der Fraktion B&#220;NDNIS 90/DIE GR&#220;NEN
+Schwachstellen bei der Ausgabe von elektronischen Ausweisen und 
+Komponenten der Telematikinfrastruktur im Gesundheitswesen
+Mitglieder des Chaos Computer Clubs (CCC) haben am 27. Dezember 2019 
+beim 36. Chaos Communication Congress in Leipzig Schwachstellen und
+Sicherheitsl&#252;cken beim Ausgabeprozess f&#252;r verschiedene in der
+Telematikinfrastruktur (TI) genutzte Komponenten und Smartcards demonstriert. Sie konnten 
+zeigen, wie es f&#252;r Unbefugte problemlos m&#246;glich war, einzelne Smartcards und 
+Komponenten der TI durch die jeweiligen beteiligten Serviceprovider zu
+beziehen (https://e-health-com.de/details-news/ccc-hackt-bestellprozess-gematik-ni
+mmt-stellung/). Es gelang den CCC-Mitgliedern, sich u. a. unautorisiert einen 
+elektronischen Heilberufeausweis und einen Praxisausweis (SMC-B) zu
+bestellen. Auch ein Konnektor wurde den CCC-Mitgliedern unautorisiert
+ausgeh&#228;ndigt. Zus&#228;tzlich waren bei einem beauftragten Serviceprovider die
+Kartenantr&#228;ge von 168 &#196;rztinnen und &#196;rzten zeitweise online zug&#228;nglich.
+Au&#223;erdem war es den Mitgliedern des CCC gelungen, unautorisiert eine
+elektronische Gesundheitskarte der AOK Hessen zu bestellen (https://e-health-co
+m.de/details-news/ccc-hackt-bestellprozess-gematik-nimmt-stellung/). Vor dem 
+Hintergrund, dass bereits 2015 Recherchen des ZDF Schwachstellen bei der 
+Ausgabe der elektronischen Gesundheitskarte offengelegt haben (vgl. Deutsche 
+Apothekerzeitung vom 25. Juni 2015 &#8222;Massives Sicherheitsleck bei
+Gesundheitsdaten&#8220;, abrufbar unter https://www.deutsche-apotheker-zeitung.de/news/ar
+tikel/2015/06/25/unnamed-75), stellt sich die Frage, warum es noch immer zu 
+derartigen Problemen bei der Ausgabe von elektronischen Ausweisen und 
+Komponenten der Telematikinfrastruktur kommt, die auch im Stande sind, die 
+Akzeptanz der Digitalisierung des Gesundheitswesens zu gef&#228;hrden.
+Wir fragen die Bundesregierung:
+&#8199;1. Wie bewertet die Bundesregierung die durch Mitglieder des CCC
+offenbarten Schwachstellen und Sicherheitsl&#252;cken beim Ausgabeprozess f&#252;r
+verschiedene in der Telematikinfrastruktur genutzte Komponenten und
+Smartcards (vgl. https://www.ccc.de/en/updates/2019/neue-schwachstellen-gesu
+ndheitsnetzwerk), und teilt die Bundesregierung die Ansicht der
+Fragesteller, dass diese, sollten sie nicht schnellstm&#246;glich abgestellt werden, im 
+Deutscher Bundestag Drucksache 19/16949
+19. Wahlperiode 30.01.2020
+Stande sind, die Akzeptanz der Digitalisierung des Gesundheitswesens zu 
+gef&#228;hrden?
+&#8199;2. Welche konkreten Ma&#223;nahmen ergreift die Bundesregierung in
+Kooperation mit den jeweils zust&#228;ndigen Stellen vor dem Hintergrund der
+Recherchen von Mitgliedern des Chaos Computer Clubs im Hinblick
+a) auf den Prozess der Ausgabe der elektronischen Gesundheitskarte,
+b) auf den Prozess der Ausgabe von eHBA und SMC-B,
+c) auf den Prozess der Ausgabe von Komponenten wie Konnektoren und 
+Kartenterminals?
+&#8199;3. Wie h&#228;ufig ist es nach Kenntnis der Bundesregierung Unbefugten bislang 
+gelungen, unautorisiert an bestimmte Karten und Komponenten zu
+gelangen (bitte detailliert jeweils nach Herausgeber f&#252;r eGK, eHBA, SMC-B, 
+HSM-B, ggf. gSMC-KT, Kartenterminals und Konnektoren darstellen)?
+Wenn die Bundesregierung hierzu noch keine Kenntnisse hat, wann wird sie 
+dem Deutschen Bundestag hierzu einen detaillierten Bericht vorlegen?
+&#8199;4. Wie war zum Zeitpunkt der Recherchen des CCC nach Kenntnis der 
+Bundesregierung der konkrete Ablauf des Kartenherausgabeprozesses f&#252;r 
+die in der Telematik genutzten Smartcards (bitte detailliert jeweils f&#252;r 
+eGK, eHBA, SMC-B, HSM-B, ggf. gSMC-KT und getrennt nach den
+jeweiligen Herausgebern der Karten wie Kassen, Kammern, KVen und 
+KZVen darstellen)?
+&#8199;5. Wie war zum Zeitpunkt der Recherchen des CCC nach Kenntnis der 
+Bundesregierung der konkrete Ablauf des Herausgabeprozesses f&#252;r die in 
+der Telematik benutzten Komponenten Konnektor und Kartenterminal?
+&#8199;6. Wurden nach Kenntnis der Bundesregierung alle Herausgabeprozesse
+sowohl f&#252;r Smartcards als auch f&#252;r Komponenten im Hinblick auf die
+zuverl&#228;ssige und eindeutige Identifizierung der Empf&#228;nger von Karten und 
+Komponenten &#252;berpr&#252;ft?
+Wenn ja, wann, durch wen, und mit welchem Ergebnis?
+Wenn nein, warum nicht?
+&#8199;7. Wurde nach Kenntnis der Bundesregierung der Ausgabeprozess f&#252;r die
+jeweiligen Karten (eGK, eHBA, SMC-B, HSM-B, ggf. gSMC-KT)
+spezifiziert (bitte f&#252;r jede Karte darstellen)?
+Wenn ja, wann, und durch wen?
+Wenn nein, warum nicht, und beabsichtigt die Bundesregierung f&#252;r die
+Zukunft eine solche Spezifizierung vorzugeben?
+&#8199;8. Wurde der jeweilige Ausgabeprozess f&#252;r die jeweiligen Karten
+zugelassen?
+Wenn ja, wann, und durch wen?
+Wenn nein, warum nicht, und beabsichtigt die Bundesregierung f&#252;r die
+Zukunft eine solche Zulassung?
+&#8199;9. a) Welche Verfahren zur sicheren und eindeutigen Identifizierung der 
+Empf&#228;ngerinnen und Empf&#228;nger von Karten und Komponenten gibt es 
+nach Kenntnis der Bundesregierung, und warum wurden diese nicht 
+von vornherein verbindlich als einzig m&#246;gliche Verfahren vorgegeben?
+b) Trifft es zu, dass die Bundesnetzagentur unsichere Verfahren wie 
+&#8222;BankIdent&#8220; und &#8222;KammerIdent&#8220; inzwischen deaktiviert hat (https://e-
+health-com.de/details-news/ccc-hackt-bestellprozess-gematik-nimmt-st
+ellung/), und wenn ja, warum ist dies erst nach den Berichten &#252;ber die 
+Rechercheergebnisse des CCC geschehen?
+10. Wurden die bei der Ausgabe der Karten beteiligten Serviceprovider
+(Medisign, Bundesdruckerei, T-Systems) nach Kenntnis der Bundesregierung
+jeweils zugelassen bzw. in anderer Weise &#252;berpr&#252;ft?
+Wenn ja, wann, und durch wen?
+Wenn nein, warum nicht, und beabsichtigt die Bundesregierung f&#252;r die
+Zukunft eine solche Zulassung oder zumindest &#220;berpr&#252;fung vorzugeben?
+11. Ist in Bezug auf Frage 10 nach Kenntnis der Bundesregierung ein Entzug 
+der jeweiligen Zulassung der beteiligten Serviceprovider denkbar,
+beispielsweise f&#252;r den Fall, dass diese die bekannt gewordenen
+Schwachstellen und Sicherheitsl&#252;cken nicht schnellstm&#246;glich abstellen oder sich im 
+Zuge weiterer &#220;berpr&#252;fungen als nicht vertrauensw&#252;rdig erweisen?
+12. Warum ist es nach Kenntnis der Bundesregierung offenbar noch immer 
+m&#246;glich (vgl. https://e-health-com.de/details-news/ccc-hackt-bestellpro
+zess-gematik-nimmt-stellung/), bei einzelnen Krankenkassen durch
+Adress&#228;nderungen ohne eine sichere Identifizierung unbefugt an eine
+elektronische Gesundheitskarte zu gelangen, obwohl die diesbez&#252;glichen 
+Schwachstellen beim Ausgabeprozess seit langem bekannt sind?
+13. a) Welche Ma&#223;nahmen haben die Bundesregierung, der GKV-
+Spitzenverband und die Aufsichtsbeh&#246;rden der L&#228;nder seit 2015
+konkret ergriffen, um die Ausgabe von elektronischen Gesundheitskarten 
+an Unbefugte zu verhindern oder zumindest zu erschweren?
+b) Wurde die Umsetzung dieser Ma&#223;nahmen durch die Bundesregierung 
+bzw. die Aufsichtsbeh&#246;rden der L&#228;nder &#252;berpr&#252;ft, und wenn ja, 
+wann ,und wie konkret?
+Wenn nein, warum ist dies bislang unterblieben, und ist geplant, dieses 
+schwerwiegende Vers&#228;umnis nachzuholen?
+14. Kann nach Kenntnis der Bundesregierung mittels eines elektronischen 
+Heilberufeausweises (eHBA) aktuell eine qualifizierte elektronische
+Signatur (QES) erzeugt werden, und f&#252;r welche Zwecke kann diese QES
+derzeit genutzt werden?
+15. Welche Angriffsszenarien sind nach Auffassung der Bundesregierung 
+m&#246;glich, solange die Gefahr besteht, dass f&#252;r die Telematikinfrastruktur 
+notwendige Karten und Komponenten weiterhin an Unbefugte ausgegeben 
+werden?
+16. Welche konkreten datenschutzrechtlichen Bestimmungen sind nach
+Auffassung der Bundesregierung in den vom CCC durchgef&#252;hrten F&#228;llen des 
+unautorisierten Bezuges von Smart Cards und Komponenten der TI
+einschl&#228;gig, um die Verantwortlichkeit der ausgebenden Stellen zu &#252;berpr&#252;fen 
+und ggf. zu sanktionieren?
+17. Wird die Bundesregierung sich im Rahmen ihrer Beteiligungen daf&#252;r
+einsetzen, dass in der Aufarbeitung der vom CCC aufgedeckten
+Schwachstellen der Ausgabeverfahren die Einbeziehung der Expertise des
+Bundesbeauftragten f&#252;r den Datenschutz nachgesucht wird, und wenn nein,
+warum nicht?
+18. H&#228;lt die Bundesregierung den gesetzlichen Rahmen als auch die
+Informationen der verantwortlichen Stellen zur Sicherstellung ausschlie&#223;lich
+autorisierter Herausgaben von Smart Cards und TI-Komponenten f&#252;r
+ausreichend, und wenn nein, welche &#196;nderungen und Anst&#246;&#223;e plant sie zur
+Verbesserung der gegenw&#228;rtigen Situation?
+19. Sind Bundesregierung, Gematik, Kartenherausgeber und
+Komponentenherausgeber oder Serviceprovider nach Kenntnis der Bundesregierung
+bislang auf die beim 36. Chaos Communication Congress in Leipzig zur
+Thematik vortragenden oder andere Mitglieder des Chaos Computer Clubs mit 
+der Bitte um Austausch herangetreten?
+Wenn ja, wann, und mit welchem Ergebnis?
+Wenn nein, warum nicht?
+20. Plant die Bundesregierung angesichts der bekannt gewordenen
+Schwachstellen, die Vorgaben f&#252;r dynamische Sicherheitsstandards zu erh&#246;hen oder 
+zu konkretisieren?
+21. Plant die Bundesregierung regelm&#228;&#223;ige Pentests, Whitehacking-
+Programme, finanzierte Bugbounty-Programme oder vergleichbare
+Ma&#223;nahmen, um in Zukunft fr&#252;hzeitig auf Sicherheitsl&#252;cken der
+Telematikinfrastruktur aufmerksam zu werden?
+Wenn ja, welche &#220;berlegungen gibt es bereits hierzu auf Seiten der 
+Bundesregierung oder nach Kenntnis der Bundesregierung auf Seiten der 
+Gematik, Karten- und Komponentenherausgeber und Serviceprovider, wie 
+werden solche Programme konkret ausgestaltet sein, und wann werden 
+diese umgesetzt?
+Wenn nein, warum nicht?
+Berlin, den 14. Januar 2020
+Katrin G&#246;ring-Eckardt, Dr. Anton Hofreiter und Fraktion
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>Schwachstellen bei der Ausgabe von elektronischen Ausweisen und Komponenten der Telematikinfrastruktur im Gesundheitswesen</titel>
+    <datum>2020-01-30</datum>
+  </document>
+  

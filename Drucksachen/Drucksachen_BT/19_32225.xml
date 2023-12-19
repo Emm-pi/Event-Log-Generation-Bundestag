@@ -1,0 +1,259 @@
+<document>
+    <id>257413</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/32225</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>650ed3cf3f2027b7a0d3528562ebca0d</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>280640</id>
+      <titel>Blockchain im Verkehr</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium f&#252;r Verkehr und digitale Infrastruktur</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/322/1932225.pdf</pdf_url>
+      <id>257413</id>
+      <dokumentnummer>19/32225</dokumentnummer>
+      <datum>2021-08-27</datum>
+      <verteildatum>2021-09-10</verteildatum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Antwort
+der Bundesregierung
+auf die Kleine Anfrage der Abgeordneten Oliver Luksic, Frank Sitta,
+Bernd Reuther, weiterer Abgeordneter und der Fraktion der FDP
+&#8211; Drucksache 19/31792 &#8211;
+Blockchain im Verkehr
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Blockchain und die ihr zugrunde liegende Distributed-Ledger-Technologie 
+(DLT) sind sehr flexibel einsetzbare Systeme, denen durch ihren dezentralen 
+Aufbau und kryptografische Verfahren eine hohe F&#228;lschungssicherheit
+inh&#228;rent sind und die bei korrekter Implementierung eine hohe Transparenz,
+Automatisierung und Effizienz erm&#246;glichen. Diese Vorteile k&#246;nne bundesweit 
+durch eine auf diesen Systemen aufbauende Infrastruktur genutzt werden,
+wodurch bei Verwendung von &#246;ffentlich nutzbaren Schnittstellen auch Vorteile 
+f&#252;r die Privatwirtschaft entstehen. In der am 18. September 2019
+verabschiedeten Blockchain-Strategie der Bundesregierung (https://www.bmwi.de/Reda
+ktion/DE/Publikationen/Digitale-Welt/blockchain-strategie.pdf?__blob=public
+ationFile&amp;v=8) wurden diverse Ziele festgelegt, auf die die Bundesregierung 
+hinarbeiten will. Diese umfassen die Ressorts mehrerer Bundesministerien, 
+unter anderem die des Bundesministeriums f&#252;r Verkehr und digitale
+Infrastruktur.
+F&#252;r den Zust&#228;ndigkeitsbereich des Bundesministeriums f&#252;r Verkehr und
+digitale Infrastruktur wurde ein Grundgutachten in Zusammenarbeit mit dem 
+Fraunhofer-Institut f&#252;r Angewandte Informationstechnik erarbeitet, welches 
+am 15. Mai 2019 vorgestellt wurde (https://www.bmvi.de/SharedDocs/DE/Art
+ikel/DG/blockchain-grundgutachten.html). Der Verband Bitkom hat ein Jahr 
+nach Beschluss der Blockchain-Strategie eine Stellungnahme zu den
+bisherigen Umsetzungen verfasst, wobei bei einigen Punkten massiver
+Handlungsbedarf seitens der Bundesregierung offensichtlich wurde. Dieses Grundgutachten 
+betrachtete mehrere Bereiche, in welchen eine Blockchain-Infrastruktur
+sinnvoll einsetzbar w&#228;re. Die prim&#228;r betrachteten Bereiche waren Transport und 
+Logistik, Mobilit&#228;tsinfrastruktur, Mobilit&#228;tsplattformen und vollautonomes 
+Fahren.
+Im Bereich Transport und Logistik k&#246;nnten Unternehmen durch eine
+Digitalisierung von Frachtbriefen profitieren. Dadurch lie&#223;en sich signifikant Kosten 
+einsparen und die F&#228;lschungssicherheit w&#252;rde einen besseren
+Verbraucherschutz erm&#246;glichen. Eine deutschlandweite Blockchain-basierte Infrastruktur 
+mit passenden Schnittstellen w&#252;rde einen schnelleren und besseren
+Aufbeziehungsweise Ausbau der Ladeinfrastruktur f&#252;r E-Autos erm&#246;glichen. Sie 
+w&#252;rde es Privatpersonen vereinfachen, ihre Ladehubs &#246;ffentlich sicher zur 
+Deutscher Bundestag Drucksache 19/32225
+19. Wahlperiode 27.08.2021
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums f&#252;r Verkehr und digitale
+Infrastruktur vom 26. August 2021 &#252;bermittelt.
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext.
+Verf&#252;gung zu stellen. Zudem w&#228;re eine Vereinfachung intermodaler Mobilit&#228;t 
+durch Bildung eines einheitlichen Systems m&#246;glich. Hierdurch w&#252;rde
+Privatpersonen der Zugang zu Mobilit&#228;t vereinfacht, was in einer erh&#246;hten
+individuellen Freiheit resultierte. F&#252;r Unternehmen aus der Logistikbranche, die auf 
+Transport innerhalb des Stra&#223;enverkehrs setzen, w&#252;rde durch eine Blockchain-
+Infrastruktur unter anderem das Platooning erleichtert. Hierdurch w&#252;rde sich 
+ein kosteng&#252;nstigerer und umweltfreundlicher Transport ergeben.
+&#8199;1. Welche Forschungsprojekte bzw. konkreten Anwendungen auf DLT-
+Basis im Verkehrsbereich sind der Bundesregierung bekannt, und wie ist 
+der Stand dieser Projekte?
+&#8199;8. Welche weiteren konkreten Anwendungsf&#228;lle f&#252;r DLT im
+Verkehrsbereich sind der Bundesregierung bekannt bzw. werden von ihr verfolgt 
+(bitte aufschl&#252;sseln)?
+11. Ist eine Pilotphase f&#252;r die Erprobung und Anwendung von DLT-
+Anwendungen durch den Bund geplant?
+a) Falls ja, wann wird diese beginnen, und wer wird teilnehmen?
+b) Falls nein, wieso nicht?
+Die Fragen 1, 8 und 11 bis 11b werden aufgrund ihres Sachzusammenhangs
+gemeinsam beantwortet.
+F&#252;r eine Liste der der Bundesregierung bekannten Forschungsprojekte und 
+konkreten Anwendungen auf Distributed-Ledger-Technologien (DLT)-Basis im 
+Verkehrsbereich wird auf die Anlage verwiesen.
+&#8199;2. Welche Bundesministerien und nachgeordneten Beh&#246;rden sind in
+welcher Funktion mit dem Thema betraut, und wie viele Personen sind dort 
+jeweils mit welchen Aspekten des Themas betraut?
+DLT und deren Anwendungen haben in den vergangenen Jahren zunehmend an 
+Bedeutung gewonnen. Daher befassen sich Mitarbeiterinnen und Mitarbeiter in 
+verschiedenen Bundesministerien und in nachgeordneten Beh&#246;rden im Rahmen 
+ihrer Linient&#228;tigkeit in unterschiedlichen Zusammenh&#228;ngen mit DLT.
+&#8199;3. Welche Schritte bzw. Meilensteine sind f&#252;r die Planung und Umsetzung 
+von DLT-Anwendungen im Verkehrsbereich und ihrer Entwicklung
+erstellt worden?
+a) Wie ist der Zeitplan?
+b) Welche Mittel setzt die Bundesregierung diesbez&#252;glich ein?
+Die Fragen 3 bis 3b werden zusammen beantwortet.
+Im Rahmen der Umsetzung der Blockchain-Strategie der Bundesregierung wird 
+durch Vorbereitungsarbeiten gepr&#252;ft, ob die Blockchain-Technologie f&#252;r
+Anwendungen im Bereich der Fahrzeugzulassung Anwendung finden kann.
+Konkrete Anwendungen sind aktuell nicht vorgesehen. Im Zuge der weiteren 
+Arbeiten zur Fortentwicklung der internetbasierten Fahrzeugzulassung werden 
+konkrete gesetzgeberische Ma&#223;nahmen vorbereitet.
+&#8199;4. Welchen Nutzen sieht die Bundesregierung durch DLT bezogen auf die 
+Ladeinfrastruktur f&#252;r E-Autos?
+&#8199;5. Welche Ma&#223;nahmen plant sie diesbez&#252;glich oder hat sie bereits
+ergriffen?
+Die Fragen 4 und 5 werden aufgrund ihres Sachzusammenhangs gemeinsam 
+beantwortet.
+Das vom Bundesministerium f&#252;r Verkehr und digitale Infrastruktur (BMVI)
+beauftragte Grundgutachten &#8222;Chancen und Herausforderungen der Distributed-
+Ledger-Technologie (Blockchain-Technologie) in Mobilit&#228;t und Logistik&#8220; sieht 
+drei potenzielle Anwendungsbereiche der Technologie im Zusammenhang mit 
+dem Laden von Elektrofahrzeugen: Authentifizierungs- und
+Autorisierungsfunktionen &#252;ber DLT-basierte Identit&#228;tsl&#246;sungen; manipulationssichere
+Dokumentation und Nachhaltung der Ladevorg&#228;nge und Abrechnung und
+Werttransfer der Ladevorg&#228;nge. Die DLT-Technologie ist daher eine vielversprechende 
+Option zur Vereinfachung und Effizienzsteigerung von Ladevorg&#228;ngen.
+Mit Hilfe der Technologie kann der Gesamtprozess aus Energiebereitstellung, 
+Planung des Ladevorgangs, Kommunikation zwischen Fahrzeug und
+Ladeinfrastruktur, Abrechnung und Kundenerfahrung optimiert werden. Entsprechende 
+Anwendungen befinden sich derzeit in der Test- und Prototypenphase. Das 
+BMVI f&#246;rdert verschiedene Anwendungsbereiche der Lade-infrastruktur f&#252;r 
+Elektrofahrzeuge, um den Markthochlauf der Elektromobilit&#228;t zu begleiten. Im 
+Rahmen der &#8222;F&#246;rderrichtlinie Elektromobilit&#228;t&#8220; bestehen F&#246;rderm&#246;glichkeiten 
+u. a. auch f&#252;r Vorhaben zur Entwicklung, technischen Umsetzung und
+Bewertung von Systeml&#246;sungen und Dienstleistungen im Kontext der
+Elektromobilit&#228;t. Damit besteht die M&#246;glichkeit zur F&#246;rderung von Blockhain/DLT-basierten 
+L&#246;sungen in der Elektromobilit&#228;t und bei Ladeinfrastruktur, als Teil der
+Gesamtl&#246;sung. Im Zuge der bisher erfolgten F&#246;rderaufrufe wurden keine Antr&#228;ge 
+zur F&#246;rderung von auf Blockchain/DLT basierenden Vorhaben gestellt.
+&#8199;6. Welchen Nutzen sieht die Bundesregierung durch DLT bezogen auf eine 
+Digitalisierung der Frachtpapiere?
+&#8199;7. Welche Ma&#223;nahmen plant sie diesbez&#252;glich oder hat sie bereits
+ergriffen?
+Die Fragen 6 und 7 werden aufgrund ihres Sachzusammenhangs gemeinsam 
+beantwortet.
+Dem Einsatz von DLT ist im Bereich Logistik aufgrund der m&#246;glichen
+Steigerung von Effizienz-, Transparenz- und Sicherheit ein hohes Potential
+beizumessen, vorausgesetzt es kommen energieeffiziente Blockchains zum Einsatz. Die 
+DLT-Technologie bietet zudem konkret das Potential, die Verifizierung der 
+elektronischen Frachtpapiere zu vereinfachen. Solche Erleichterungen im
+Prozess k&#246;nnten wiederum zu signifikanten Kostenreduktionen f&#252;r Unternehmen 
+in der Logistikbranche f&#252;hren. Das vom Fraunhofer-Institut f&#252;r Angewandte 
+Informationstechnik FIT f&#252;r das BMVI erstellte Grundgutachten zu
+Herausforderungen und Chance der DLT-Technologie in Logistik und Mobilit&#228;t kam 
+zu der Erkenntnis, dass f&#252;r Deutschland im Bereich des internationalen
+Warentransports eine erhebliche Summe eingespart werden kann, wenn die
+Blockchain-Technologie f&#252;r die Digitalisierung von Frachtpapieren und
+Zolldokumenten zum Einsatz kommt.
+Auf Vorschlag der Bundesregierung wurden im Jahr 2013 Rechtsgrundlagen 
+f&#252;r elektronische Frachtbriefe, Konnossemente, Ladescheine und Lagerscheine
+geschaffen. Der Deutsche Bundestag hat zudem im Juni 2021 ein Gesetz
+beschlossen, das die innerstaatlichen Voraussetzungen daf&#252;r schafft, dass 
+Deutschland dem Zusatzprotokoll zur &#8222;Convention relative au contrat de
+transport international de marchandises par route&#8220; (CMR, zu deutsch: Internationale 
+Vereinbarung &#252;ber Bef&#246;rderungsvertr&#228;ge auf Stra&#223;en) betreffend den
+elektronischen Frachtbrief beitreten kann. Mit den genannten und weiteren Regelungen 
+bestehen f&#252;r alle Verkehrstr&#228;ger und Relationen (national/international)
+Rechtsgrundlagen f&#252;r den Einsatz elektronischer Frachtdokumente.
+Die Entwicklung und Implementierung der erforderlichen technischen
+Standards und Anwendungen, um diese rechtlichen M&#246;glichkeiten zu nutzen, ist 
+Aufgabe der Wirtschaft. Die Bundesregierung steht dazu mit den relevanten 
+Interessenvereinigungen im fachlichen Austausch. Neben der Schaffung
+geeigneter Rechtsgrundlagen f&#246;rdert die Bundesregierung in einigen F&#228;llen die
+Entwicklung von Projekten mit vielversprechendem Potential. Im Rahmen des 
+vom BMVI gef&#246;rderten Projekts Silicon Economy Logistics Ecosystem werden 
+Open-Source-Komponenten entwickelt und ver&#246;ffentlicht. Dabei wird auch die 
+Blockchain-Technologie genutzt und f&#252;r konkrete Anwendungen,
+beispielsweise zur Sicherstellung der Datenintegrit&#228;t und Authentizit&#228;t von
+elektronischen Frachtpapieren, eingesetzt.
+&#8199;9. Welche Anstrengung unternimmt die Bundesregierung, an der
+Entwicklung einer ISO-Norm f&#252;r DLT-Anwendungen mitzuwirken?
+F&#252;r die Spiegelung des ISO/TC 307 &#8222;Blockchain and distributed ledger
+technologies&#8220; ist in Deutschland der Normenausschuss (NA) 043-02-04 AA
+&#8222;Blockchain und Technologien f&#252;r verteilte elektronische Journale&#8220; des Deutschen 
+Instituts f&#252;r Normung (DIN) zust&#228;ndig, in dem die &#246;ffentliche Hand vertreten 
+ist (BMVI, Deutsche Bundesbank, Bundesamt f&#252;r Sicherheit in der
+Informationstechnik (BSI), Bundesanstalt f&#252;r Finanzdienstleistungsaufsicht, Deutsches 
+Zentrum f&#252;r Luft und Raumfahrt (autorisiert durch Bundesministerium f&#252;r 
+Wirtschaft und Energie)). Die abgeschlossenen DLT-Normen und in
+Entwicklung befindlichen Projekte sind auf der Webseite des ISO/TC 307 abrufbar
+unter: https://www.iso.org/committee/6266604/x/catalogue/p/1/u/0/w/0/d/0 sowie 
+unter https://www.iso.org/committee/6266604/x/catalogue/p/0/u/1/w/0/d/0.
+10. Mit welchen Kosten rechnet die Bundesregierung f&#252;r DLT-
+Anwendungen insgesamt sowie f&#252;r den Verkehrsbereich?
+Der Bundesregierung liegen hierzu keine eigenen Informationen vor.
+12. Welche Anstrengungen unternimmt die Bundesregierung, innerhalb der 
+geplanten DLT-Systeme den Schutz pers&#246;nlicher Daten sicherzustellen?
+F&#252;r den Einsatz von DLT-Systemen gelten die Vorgaben der
+Datenschutzgrundverordnung. Die Einhaltung datenschutzrechtlicher Vorgaben wird &#8211; bei
+Bundesbeh&#246;rden und anderen &#246;ffentlichen Stellen des Bundes &#8211; vom
+Bundesbeauftragten f&#252;r den Datenschutz und die Informationsfreiheit &#252;berwacht.
+Das BSI bringt seine Expertise zum Schutz pers&#246;nlicher Daten innerhalb der 
+geplanten DLT-Systeme ein, soweit es bei deren Konzeptionierung oder
+Umsetzung involviert ist. Das gilt insbesondere in der Frage der Sicherheit der
+verwendeten kryptografischen Algorithmen. Die kryptografischen
+Herausforderungen werden in der Publikation &#8222;Blockchain sicher gestalten. Konzepte. 
+Anforderungen. Bewertungen.&#8220; des BSI analysiert.
+13. Welche Fortschritte erwartet die Bundesregierung bis Ende der 
+19. Legislaturperiode durch DLT-Anwendungen f&#252;r den Verkehrsbereich 
+(bitte besonders bezogen auf die Bereiche Transport und Logistik,
+Mobilit&#228;tsinfrastruktur, Mobilit&#228;tsplattform und vollautonome Mobilit&#228;t)?
+Mit dem in der letzten Legislaturperiode verabschiedeten Gesetz zum
+automatisierten Fahren und in dieser Legislaturperiode beschlossenen Gesetz zum
+autonomen Fahren sind die rechtlichen Voraussetzungen f&#252;r den Einsatz von
+Kraftfahrzeugen mit automatisierten und/oder autonomen Fahrfunktionen geschaffen 
+worden: Es obliegt nun der Industrie, die technische Entwicklung &#8211;
+gegebenenfalls auch von Blockchain-Technologie &#8211; f&#252;r den Einsatz der entsprechenden 
+Fahrzeuge im Realverkehr voranzutreiben. Der Einsatz von DLT/Blockchain 
+im konzeptionellen Aufbau des Datenraums Mobilit&#228;t ist bis zum Ende der 
+19. Legislaturperiode nicht geplant, DLT-Anwendungen von teilnehmenden 
+Unternehmen sind aber denkbar.
+14. Hat die Bundesregierung eine Einsch&#228;tzung der finanziellen Belastung 
+f&#252;r Unternehmen, insbesondere im Bereich der Logistik, die durch 
+Schaffung einer Blockchain-Infrastruktur und dazugeh&#246;rige rechtliche 
+Rahmenbedingungen reduziert werden k&#246;nnten?
+Wenn ja, wie lautet diese?
+Der Bundesregierung liegen keine allgemeinen Einsch&#228;tzungen &#252;ber die
+m&#246;gliche Reduktion der finanziellen Belastung f&#252;r Unternehmen vor. Eine
+wesentliche Erkenntnis des Gutachtens zu &#8222;Chancen und Herausforderungen der 
+Distributed-Ledger-Technologie (Blockchain-Technologie) in Mobilit&#228;t und 
+Logistik&#8220; war, dass f&#252;r Deutschland im Bereich des internationalen
+Warentransports eine Summe im zweistelligen Milliarden-Bereich eingespart werden kann, 
+wenn die Blockchain-Technologie weltweit f&#252;r die Digitalisierung von
+Frachtpapieren und Zolldokumenten zum Einsatz kommt und traditionell noch h&#228;ufig 
+in Papierform genutzte Dokumente wie das Konnossement (Bill of Lading) 
+digitalisiert werden.
+Drucksache 19/32225 &#8211; 6 &#8211; Deutscher Bundestag &#8211; 19. Wahlperiode
+Drucksache 19/32225 &#8211; 8 &#8211; Deutscher Bundestag &#8211; 19. Wahlperiode
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/31792 -
+Blockchain im Verkehr</titel>
+    <datum>2021-08-27</datum>
+  </document>
+  

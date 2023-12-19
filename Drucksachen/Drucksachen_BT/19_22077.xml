@@ -1,0 +1,533 @@
+<document>
+    <id>244609</id>
+    <drucksachetyp>Antwort</drucksachetyp>
+    <dokumentart>Drucksache</dokumentart>
+    <autoren_anzahl>0</autoren_anzahl>
+    <typ>Dokument</typ>
+    <vorgangsbezug_anzahl>1</vorgangsbezug_anzahl>
+    <dokumentnummer>19/22077</dokumentnummer>
+    <wahlperiode>19</wahlperiode>
+    <herausgeber>BT</herausgeber>
+    <pdf_hash>8cfcd59ad2993d0bb37f23596463b3ab</pdf_hash>
+    <aktualisiert>2022-07-26T19:57:18+02:00</aktualisiert>
+    <vorgangsbezug>
+      <id>265962</id>
+      <titel>Datensicherheit beim automatischen Informationsaustausch &#252;ber Finanzkonten</titel>
+      <vorgangstyp>Kleine Anfrage</vorgangstyp>
+    </vorgangsbezug>
+    <urheber>
+      <einbringer>false</einbringer>
+      <bezeichnung>BRg</bezeichnung>
+      <titel>Bundesregierung</titel>
+    </urheber>
+    <ressort>
+      <federfuehrend>true</federfuehrend>
+      <titel>Bundesministerium der Finanzen</titel>
+    </ressort>
+    <fundstelle>
+      <pdf_url>https://dserver.bundestag.de/btd/19/220/1922077.pdf</pdf_url>
+      <id>244609</id>
+      <dokumentnummer>19/22077</dokumentnummer>
+      <datum>2020-09-03</datum>
+      <dokumentart>Drucksache</dokumentart>
+      <drucksachetyp>Antwort</drucksachetyp>
+      <herausgeber>BT</herausgeber>
+      <urheber>Bundesregierung</urheber>
+    </fundstelle>
+    <text>[Antwort
+der Bundesregierung
+auf die Kleine Anfrage der Abgeordneten Markus Herbrand, Christian D&#252;rr, 
+Grigorios Aggelidis, weiterer Abgeordneter und der Fraktion der FDP
+&#8211; Drucksache 19/21720 &#8211;
+Datensicherheit beim automatischen Informationsaustausch &#252;ber Finanzkonten
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Mit der Zielsetzung, die steuerrechtliche Transparenz zwischen Staaten zu
+erh&#246;hen und grenz&#252;berschreitenden Steuerbetrug und Steuerhinterziehung
+wirksamer zu bek&#228;mpfen, hat der Deutsche Bundestag bereits im Jahr 2015
+beschlossen, dass die Bundesrepublik Deutschland am automatischen Austausch 
+von Informationen &#252;ber Finanzkonten in Steuersachen (AIA) teilnimmt 
+(https://www.bundestag.de/dokumente/textarchiv/2015/kw46-de-finanzkonte
+n-395186). Diesem System, bei dem die teilnehmenden L&#228;ndern auf Basis von 
+der OECD erarbeiteten Standards untereinander steuerrelevante Informationen 
+austauschen, haben sich nach Angaben des Bundesministeriums der Finanzen 
+zurzeit mehr als 100 Staaten angeschlossen (vgl. https://www.bzst.de/SharedD
+ocs/Downloads/DE/CRS/crs_teilnehmende_staaten_aktuelle_Liste.pdf;jsessio
+nid=30A4B30886BEB453F659DBD08CFDBF04.live6811?__blob=publicati
+onFile&amp;v=9).
+Die Datenmenge sowie das Finanzvolumen, die Deutschland im Rahmen des 
+AIA von den Steuerverwaltungen der AIA-Partnerl&#228;nder erh&#228;lt, ist enorm. F&#252;r 
+die bisher erfassten Jahre 2016, 2017 und 2018 wurden knapp 1,2 Bill. Euro 
+Verm&#246;gen an den deutschen Fiskus gemeldet sowie 390 Mrd. Euro Ertr&#228;ge 
+(vgl. Nachreichung der Antwort zu Frage 1 der Kleinen Anfrage der Fraktion 
+der FDP auf Bundestagsdrucksache 19/19557). An die hochsensiblen
+Finanzdaten, die u. a. Angaben &#252;ber Name, Anschrift, Geburtsdatum,
+Steueridentifikations- und Kontonummern der betroffenen nat&#252;rlichen und juristischen
+Personen geben, m&#252;ssen nach Ansicht der Fragestellenden h&#246;chste
+datenschutzrechtliche Ma&#223;st&#228;be angelegt werden. Denn diese Daten beinhalten
+wesentliche Informationen &#252;ber strategische Vorhaben von Unternehmen sowie
+personenbezogene Daten &#252;ber die Finanzsituation von Steuerpflichtigen. Damit 
+stellt der Datenschutz die Wahrung wesentlicher Grundrechte wahr, weshalb 
+es nicht nur gilt, die Gefahr zu minimieren, dass bei der Daten&#252;bertragung
+etwa durch Cyberangriffe Informationen abgefischt werden, sondern auch zu 
+gew&#228;hrleisten, dass die Steuerdaten in Zielland und Ursprungsland sicher und 
+datenschutzrechtlich einwandfrei verwaltet werden.
+Vor diesem Hintergrund ist aus Sicht der Fragestellenden zu ber&#252;cksichtigen, 
+dass am AIA auch zahlreiche L&#228;nder teilnehmen, die rechtsstaatliche Defizite 
+aufweisen und zu den besonders korruptionsanf&#228;lligen L&#228;ndern der Welt z&#228;h-
+Deutscher Bundestag Drucksache 19/22077
+19. Wahlperiode 03.09.2020
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums der Finanzen vom 2. September 
+2020 &#252;bermittelt.
+Die Drucksache enth&#228;lt zus&#228;tzlich &#8211; in kleinerer Schrifttype &#8211; den Fragetext.
+len (vgl. https://www.transparency.de/cpi/cpi-2018/cpi-ranking-2018/). So 
+besteht die Bef&#252;rchtung, dass in AIA-Partnerl&#228;ndern zu denen u. a. L&#228;nder 
+wie Aserbaidschan, China, Kasachstan, Kolumbien, Nigeria oder Russland
+geh&#246;ren, die sensiblen AIA-Daten von Mitarbeitern der Finanzverwaltungen
+entgegen der geltenden Datenschutzbestimmungen herausgegeben werden
+k&#246;nnten. Des Weiteren sind Finanzverwaltungen stetig Cyberangriffen ausgesetzt. 
+So konnten unbekannte Hacker im Sommer 2019 im AIA-Partnerland
+Bulgarien beim Finanzamt gespeicherte Daten von Millionen Menschen sowie
+Firmen erbeuten (vgl. https://www.eurotopics.net/de/223616/gigantischer-hacker
+angriff-in-bulgarien). Im Fr&#252;hjahr 2020 wurde auch die nieders&#228;chsische
+Finanzverwaltung Ziel eines Cyberangriffs, welche Daten hiervon betroffen
+waren, ist der Bundesregierung unbekannt; laut Antwort gegen&#252;ber den
+Fragestellenden hat sie sich diesbez&#252;glich nicht an die zust&#228;ndigen Stellen in
+Niedersachsen gewandt oder Unterst&#252;tzung angeboten (vgl. Antwort der
+Bundesregierung auf die Kleine Anfrage auf Bundestagsdrucksache 19/17872).
+Der AIA, dem eine zentrale Rolle bei der Bek&#228;mpfung von
+grenz&#252;berschreitender Steuerhinterziehung zukommt, darf vor dem Hintergrund der Relevanz, 
+die die Daten im Hinblick auf die Bek&#228;mpfung von grenz&#252;berschreitender 
+Steuerhinterziehung besitzen, nach Ansicht der FDP-Fraktion im Deutschen 
+Bundestag in keinem Fall unter einer mangelhaften Einhaltung des
+Datenschutzes leiden oder gar Opfer von Industriespionage werden. Die
+Fragestellenden sind besorgt, dass es L&#252;cken bei der sicheren Handhabung der Daten 
+geben k&#246;nnte, und m&#246;chten sich deshalb bei der Bundesregierung n&#228;her nach 
+den Bestimmungen und der tats&#228;chlichen Einhaltung zur Datensicherheit des 
+AIA erkundigen.
+&#8199;1. Welche personenbezogenen Daten werden nach Kenntnis der
+Bundesregierung im Rahmen des automatischen Austauschs von Informationen 
+&#252;ber Finanzkonten in Steuersachen (AIA) ausgetauscht?
+Im Rahmen des automatischen Austauschs von Informationen &#252;ber
+Finanzkonten (Finanzkonteninformationsaustausch) werden die folgenden
+personenbezogenen Daten ausgetauscht:
+&#8211; Namensdaten,
+&#8211; Adressdaten inkl. steuerlicher Ans&#228;ssigkeit,
+&#8211; Geburtsdaten,
+&#8211; Steueridentifikationsnummer,
+&#8211; Finanzkonteninformationen,
+&#8211; Kontonummer/&#196;quivalent
+&#8211; Kontosaldo/Kontowert einschl. Barwert oder R&#252;ckkaufswert bei
+r&#252;ckkaufsf&#228;higen Versicherungs- oder Rentenversicherungsvertr&#228;gen zum Ende des 
+Meldezeitraumes, und bei Schlie&#223;ung des Kontos die Schlie&#223;ung,
+&#8211; Gesamtbruttobetrag der Zinsen/Dividende/Ver&#228;u&#223;erungserl&#246;se/sonstige
+Ertr&#228;ge, die im Laufe des Meldezeitraumes auf dem Finanzkonto eingezahlt 
+oder diesem gutgeschrieben wurden,
+&#8211; Verbindung zum Finanzinstitut bei dem die Finanzkonteninformationen
+vorliegen,
+&#8211; soweit nat&#252;rliche Personen als beherrschende Personen gemeldet werden, 
+die Rolle der beherrschenden Person in dem gemeldeten Unternehmen 
+(z. B. &#8222;Beherrschende Person einer juristischen Person &#8211; Anteilseigner&#8220;).
+&#8199;2. Welche unternehmensbezogenen Daten werden nach Kenntnis der 
+Bundesregierung im Rahmen des AIA ausgetauscht?
+Im Rahmen des Finanzkonteninformationsaustauschs werden die folgenden
+unternehmensbezogenen Daten ausgetauscht:
+&#8211; Namensdaten,
+&#8211; Adressdaten inkl. steuerlicher Ans&#228;ssigkeit,
+&#8211; Steueridentifikationsnummer,
+&#8211; Finanzkonteninformationen,
+&#8211; Kontonummer/&#196;quivalent,
+&#8211; Kontosaldo/Kontowert einschl. Barwert oder R&#252;ckkaufswert bei
+r&#252;ckkaufsf&#228;higen Versicherungs- oder Rentenversicherungsvertr&#228;gen zum Ende des 
+Meldezeitraumes, und bei Schlie&#223;ung des Kontos die Schlie&#223;ung,
+&#8211; Gesamtbruttobetrag der Zinsen/Dividende/Ver&#228;u&#223;erungserl&#246;se/sonstige
+Ertr&#228;ge, die im Laufe des Meldezeitraumes auf dem Finanzkonto eingezahlt 
+oder diesem gutgeschrieben wurden,
+&#8211; Verbindung zum Finanzinstitut bei dem die Finanzkonteninformationen
+vorliegen.
+Bezogen auf das meldende Finanzinstitut werden im Rahmen des
+Finanzkonteninformationsaustauschs die folgenden unternehmensbezogenen Daten
+ausgetauscht:
+&#8211; Namensdaten,
+&#8211; Adressdaten,
+&#8211; Identifikationsnummer,
+&#8211; Gegebenenfalls Ansprechperson und Kontaktdaten der Ansprechperson.
+&#8199;3. Was ist nach Kenntnis der Bundesregierung das Common Transmission 
+System (CTS), das im Zuge des Austauschs der AIA-Daten angewendet 
+wird?
+Wie ist es ausgestaltet, und wo wird es eingesetzt?
+Bei dem Common Transmission System (CTS) handelt es sich um die
+Infrastruktur, die dem weltweiten Finanzkonteninformationsaustausch zugrunde 
+liegt. Es erlaubt derzeit &#252;ber 100 Jurisdiktionen Informationen im Rahmen des 
+Finanzkonteninformationsaustauschs auszutauschen. Daneben wird das CTS 
+zum spontanen Austausch von Informationen zu steuerlichen Vorbescheiden 
+und zum automatischen Austausch von Informationen zu l&#228;nderbezogenen
+Berichten genutzt. Dabei k&#246;nnen die Steuerverwaltungen der teilnehmenden
+Jurisdiktionen entsprechende Informationen mittels SFTP (server-to-server link-up) 
+und HTTPS (hypertext transfer protocol secure) senden und empfangen.
+&#8199;4. Welche jeweiligen Anforderungen zu Vertraulichkeit sowie zur
+Datensicherheit und zum Datenschutz werden, untergliedert nach personen- und 
+unternehmensbezogenen Daten, nach Kenntnis der Bundesregierung an 
+das CTS, &#252;ber das der AIA-Datenaustausch stattfindet, angesetzt (bitte 
+einzeln aufschl&#252;sseln)?
+Das CTS wurde eigens mit dem Ziel entwickelt, eine den
+datenschutzrechtlichen Vorgaben entsprechende sichere Kommunikation zwischen den
+teilnehmenden Steuerverwaltungen zu erm&#246;glichen. Zu diesem Zweck besteht die
+Anforderung an das CTS, dass es jederzeit den h&#246;chsten Standards in Sachen
+Informationssicherheit entsprechen muss, unabh&#228;ngig von der Art der
+Informationen, die &#252;ber das CTS &#252;bermittelt werden.
+&#8199;5. Welche jeweiligen Anforderungen zu Vertraulichkeit sowie zur
+Datensicherheit und zum Datenschutz werden zus&#228;tzlich zu den Bestimmungen 
+des CTS &#8211; etwa aufgrund weiterer internationaler Vereinbarungen &#8211; an 
+das CTS angelegt (bitte nach den jeweiligen Anforderungen und den
+dazugeh&#246;rigen Vereinbarungen aufschl&#252;sseln)?
+Die innerstaatlich anwendbaren v&#246;lkerrechtlichen Vereinbarungen bzw.
+Rechtsakte der EU, die dem Informationsaustausch zugrunde liegen, enthalten
+Regelungen zur Geheimhaltung und Nutzung der durch den Informationsaustausch 
+erhaltenen Informationen in dem Empf&#228;ngerstaat, nicht jedoch in Bezug auf 
+das CTS selbst.
+Weitere Regelungen &#8211; neben denen sich aus den Antworten zu den Fragen 7a 
+bis 7c bzw. 8a ergebenden &#8211; existieren in Bezug auf die IT-Infrastruktur des 
+CTS nicht.
+&#8199;6. Welche Unternehmen waren und sind nach Kenntnis der
+Bundesregierung an der Konzeption, Verwaltung und technischen Aufrechterhaltung 
+des CTS beteiligt?
+a) Welche Unternehmen waren an der Entwicklung des CTS beteiligt, 
+und wo ist deren jeweiliger Unternehmenssitz?
+b) Welche Unternehmen sind mit welchen Aufgaben zur
+Aufrechterhaltung und Fortentwicklung des CTS betraut, und wo ist deren
+jeweiliger Unternehmenssitz?
+c) Von welchen Unternehmen werden die Server, &#252;ber die die AIA-
+Daten &#252;bermittelt werden, betrieben, in welchen L&#228;ndern befinden 
+sich diese Server, und wo ist deren jeweiliger Unternehmenssitz?
+Die Fragen 6 bis 6c werden zusammen beantwortet.
+Die Wahrung des Datenschutzes und der Informationssicherheit im Rahmen 
+des CTS wird auch dadurch gewahrt, dass Informationen, die das CTS
+betreffen, so wenig Verbreitung wie m&#246;glich finden; hierzu hat sich das BMF nicht 
+zuletzt gegen&#252;ber der OECD und den AIA-Partnerstaaten verpflichtet.
+Die Beantwortung der Fragen 6 bis 6b w&#252;rde sensible Informationen
+offenlegen, die das CTS vermeidbaren Gef&#228;hrdungen aussetzen k&#246;nnte. Aus diesem 
+Grund werden die Fragen 6 bis 6b zusammen in der Geheimschutzstelle
+beantwortet.* Bez&#252;glich der Frage 6c wird auf die Antwort zu den Fragen 7 bis 7c 
+verwiesen.
+* Das Bundesministerium der Finanzen hat die Antwort als &#8222;VS &#8211; Vertraulich&#8220;/ &#8222;VS &#8211; Geheim&#8220; eingestuft. Die Antwort 
+ist in der Geheimschutzstelle des Deutschen Bundestages hinterlegt und kann dort nach Ma&#223;gabe der
+Geheimschutzordnung eingesehen werden.
+&#8199;7. Ist es nach Kenntnis der Bundesregierung auf Basis der geltenden 
+Rechtslage der USA &#8211; etwa im Hinblick auf den USA Freedom Act
+(fr&#252;her USA Patriot Act) &#8211; m&#246;glich, dass US-amerikanische Beh&#246;rden auf 
+Daten zugreifen, die von amerikanischen Firmen und deren europ&#228;ischen 
+Tochterfirmen verarbeitet, &#252;bermittelt und verwaltet werden?
+a) Kann die Bundesregierung best&#228;tigen, dass, insofern US-
+amerikanische Firmen oder deren Tochterunternehmen bei der Verarbeitung, 
+&#220;bermittlung oder Verwaltung von AIA-Daten beteiligt sind oder 
+den Server betreiben, die US-amerikanischen Beh&#246;rden aufgrund der 
+geltenden Rechtslage in den USA potenziell auf die AIA-Daten oder 
+Teile dieser zugreifen k&#246;nnten?
+b) &#220;ber welche Mittel und Wege w&#252;rde die Bundesregierung und &#252;ber 
+welche Mittel und Wege w&#252;rde die OECD davon erfahren, dass die 
+US-Beh&#246;rden auf die AIA-Daten zugreifen bzw. zugegriffen haben?
+M&#252;sste die OECD oder die Bundesregierung auf Basis der
+Vereinbarungen mit den USA informiert werden?
+c) Gab es nach Kenntnis der Bundesregierung Hinweise oder Belege 
+daf&#252;r, dass die USA oder ein anderes Land, auf die Daten des AIA 
+(Deutsche oder anderer AIA-L&#228;nder) zugegriffen haben oder dies 
+zurzeit tun?
+Falls ja, um welche Belege handelt es sich hierbei?
+Die Fragen 7 bis 7c werden zusammen beantwortet.
+Die Bundesregierung hat bei der Entwicklung des CTS im Rahmen ihrer
+M&#246;glichkeiten darauf hingewirkt, das System so auszugestalten, dass ein
+unautorisierter Zugriff von Beh&#246;rden anderer Staaten nicht m&#246;glich ist. Entsprechende 
+Zugriffe oder Zugriffsversuche sind der Bundesregierung nicht bekannt.
+Die Wahrung des Datenschutzes und der Informationssicherheit im Rahmen 
+des CTS wird auch dadurch gewahrt, dass Informationen, die das CTS
+betreffen, so wenig Verbreitung wie m&#246;glich finden; hierzu hat sich das BMF nicht 
+zuletzt gegen&#252;ber der OECD und den AIA-Partnerstaaten verpflichtet.
+Die detaillierte Beantwortung der Fragen 7 bis 7c w&#252;rde sensible
+Informationen offenlegen, die das CTS vermeidbaren Gef&#228;hrdungen aussetzen k&#246;nnte. 
+Aus diesem Grund werden die Fragen 7 bis 7c zusammen in der
+Geheimschutzstelle beantwortet.*
+&#8199;8. Inwiefern werden nach Kenntnis der Bundesregierung die sensiblen 
+Steuer- und Finanzdaten, die unter den Mitgliedstaaten des AIA
+ausgetauscht werden, verschl&#252;sselt?
+a) Welchen jeweiligen Standards m&#252;ssen die
+Verschl&#252;sselungsmechanismen gen&#252;gen, und in welchem Turnus wird die Verschl&#252;sselung 
+erneuert?
+b) Von welcher Stelle werden in Deutschland die Steuerdaten vor ihrer 
+&#220;bermittlung verschl&#252;sselt?
+c) Von welcher Stelle werden in Deutschland die Steuerdaten bei ihrem 
+Eintreffen entschl&#252;sselt?
+Die Fragen 8 bis 8c werden zusammen beantwortet.
+Die Wahrung des Datenschutzes und der Informationssicherheit im Rahmen 
+des CTS wird auch dadurch gewahrt, dass Informationen, die das CTS betref-
+* Das Bundesministerium der Finanzen hat die Antwort als &#8222;VS &#8211; Vertraulich&#8220;/ &#8222;VS &#8211; Geheim&#8220; eingestuft. Die Antwort 
+ist in der Geheimschutzstelle des Deutschen Bundestages hinterlegt und kann dort nach Ma&#223;gabe der
+Geheimschutzordnung eingesehen werden.
+fen, so wenig Verbreitung wie m&#246;glich finden; hierzu hat sich das BMF nicht 
+zuletzt gegen&#252;ber der OECD und den AIA-Partnerstaaten verpflichtet.
+Die detaillierte Beantwortung der Fragen 8 bis 8c w&#252;rde sensible
+Informationen offenlegen, die das CTS vermeidbaren Gef&#228;hrdungen aussetzen k&#246;nnte. 
+Aus diesem Grund werden die Fragen 8 bis 8c zusammen in der
+Geheimschutzstelle beantwortet.*
+d) In welchen L&#228;ndern kommen zus&#228;tzlich zu den von der OECD
+vereinbarten Verschl&#252;sselungsmodalit&#228;ten noch weitere zus&#228;tzliche
+Verschl&#252;sselungsmechanismen zum Einsatz, und welche Kenntnisse hat 
+die Bundesregierung hier&#252;ber (ist dies z. B. in der Schweiz der Fall)?
+Nach allen der Bundesregierung vorliegenden Informationen kommen
+zus&#228;tzlich zu den vereinbarten Verschl&#252;sselungsmodalit&#228;ten in keinem AIA-
+Partnerstaat zus&#228;tzliche Verschl&#252;sselungsmechanismen zum Einsatz.
+e) Wie steht die Bundesregierung weiteren Verschl&#252;sselungsmodalit&#228;ten, 
+die zus&#228;tzlich zu den Bestimmungen der OECD eingesetzt werden,
+zuk&#252;nftig f&#252;r Deutschland gegen&#252;ber?
+Einseitige Verschl&#252;sselungsmechanismen sind im Hinblick auf die f&#252;r eine
+effiziente Durchf&#252;hrung des Finanzkonteninformationsaustauschs notwendige 
+Standardisierung nicht zielf&#252;hrend. Die im h&#246;chsten Ma&#223;e der Sicherheit
+dienenden und bereits existierenden Verschl&#252;sselungsmechanismen der OECD
+geben der Bundesregierung daneben auch keine Veranlassung, entsprechende 
+Ma&#223;nahmen zu verfolgen.
+&#8199;9. Woher wei&#223; die Bundesregierung, dass beim Cyberangriff auf die
+bulgarische Finanzverwaltung im Sommer 2019 keine von Deutschland
+&#252;bermittelten AIA-Daten abgefischt wurden, wie auf Anfrage der FDP von 
+Seiten der Bundesregierung mitgeteilt wurde (vgl. Antwort der
+Bundesregierung auf die Kleine Anfrage auf Bundestagsdrucksache 19/17872)?
+An welchem Datum hat sich die Bundesregierung gezielt bei den
+bulgarischen Beh&#246;rden danach erkundigt, ob von Deutschland &#252;bermittelte 
+Daten vom Datendiebstahl betroffen waren?
+An welchem Datum hat sich die Bundesregierung gezielt bei der OECD 
+danach erkundigt, ob von Deutschland &#252;bermittelte Daten vom
+Datendiebstahl betroffen waren?
+Abweichend von der Beantwortung der Kleinen Anfrage auf
+Bundestagsdrucksache 19/17872 lagen der Bundesregierung Erkenntnisse vor, denen zufolge 
+von dem Hackerangriff auf die Steuerverwaltung Bulgariens auch
+Informationen betroffen waren, die im Rahmen des Finanzkonteninformationsaustauschs 
+von Deutschland an Bulgarien &#252;bermittelt worden waren. Die seinerzeitige
+Beantwortung erfolgte aufgrund eines B&#252;roversehens innerhalb des BMF
+fehlerhaft.
+Die weitere Beantwortung der vorliegenden Fragen kann aufgrund
+entgegenstehender Geheimhaltungsbestimmungen in den der zwischenstaatlichen
+Zusammenarbeit zugrundeliegenden Vereinbarungen nur in der
+Geheimschutzstelle erfolgen.*
+* Das Bundesministerium der Finanzen hat die Antwort als &#8222;VS &#8211; Vertraulich&#8220;/ &#8222;VS &#8211; Geheim&#8220; eingestuft. Die Antwort 
+ist in der Geheimschutzstelle des Deutschen Bundestages hinterlegt und kann dort nach Ma&#223;gabe der
+Geheimschutzordnung eingesehen werden.
+10. Inwiefern wird nach Kenntnis der Bundesregierung der Schutz des
+Steuergeheimnisses im Rahmen des AIA sichergestellt?
+11. Inwiefern wird nach Kenntnis der Bundesregierung beim AIA
+sichergestellt, dass das Steuergeheimnis im Empf&#228;ngerland im gleichen Umfang 
+gewahrt wird wie in Deutschland?
+Die Fragen 10 und 11 werden zusammen beantwortet.
+Die Vertraulichkeit bildet einen fundamentalen Grundsatz der
+zwischenstaatlichen Informationsamtshilfe im Steuerbereich und folgt dem Prinzip der
+Gegenseitigkeit.
+S&#228;mtliche dem Informationsaustausch zugrundeliegenden Abkommen,
+&#220;bereinkommen und EU-Rechtsakte enthalten spezifische Bestimmungen, die dem 
+Schutz der Vertraulichkeit dienen. F&#252;r den Finanzkonteninformationsaustausch 
+sind dies im Einzelnen:
+&#8211; Artikel 16 der EU-Amtshilferichtlinie, umgesetzt in &#167; 19 des Gesetzes &#252;ber 
+die Durchf&#252;hrung der gegenseitigen Amtshilfe in Steuersachen zwischen 
+den Mitgliedstaaten der Europ&#228;ischen Union vom 26. Juni 2013 (EU-
+Amtshilfegesetz (BGBl. I S. 1809);
+&#8211; &#167; 5 Absatz 1 der Mehrseitigen Vereinbarung i. V. m. Artikel 22 Absatz 1 
+und 2 des &#220;bereinkommens, in innerstaatliches Recht umgesetzt mit dem 
+Gesetz zu der Mehrseitigen Vereinbarung vom 29. Oktober 2014 zwischen 
+den zust&#228;ndigen Beh&#246;rden &#252;ber den automatischen Austausch von
+Informationen &#252;ber Finanzkonten vom 21. Dezember 2015 (BGBl. II S. 1630) bzw. 
+dem Gesetz zu dem &#220;bereinkommen vom 25. Januar 1988 &#252;ber die
+gegenseitige Amtshilfe in Steuersachen und zu dem Protokoll vom 27. Mai 2010 
+zur &#196;nderung des &#220;bereinkommens &#252;ber die gegenseitige Amtshilfe in 
+Steuersachen vom 16. Juli 2015 (BGBl. II S. 966).
+Der Finanzkonteninformationsaustausch st&#252;tzt sich weltweit auf die o. g. 
+Rechtsakte bzw. v&#246;lkerrechtliche Vereinbarungen, die Grundlage f&#252;r den
+Austausch sind. Die am Finanzkonteninformationsaustausch teilnehmenden
+Jurisdiktionen binden sich durch die Umsetzung dieser Rechtsakte bzw.
+Vereinbarungen auch an die sich daraus ergebenden Vertraulichkeitsbestimmungen, die 
+dem Schutz der berechtigten Interessen der von dem Informationsaustausch 
+konkret betroffenen Personen (internationales Steuergeheimnis) und der
+Gew&#228;hrleistung der effektiven Arbeitsweise der beteiligten Steuerverwaltungen 
+dienen.
+In Bezug auf die &#220;berpr&#252;fung der Einhaltung dieser Bestimmungen in der
+Praxis wird auf die Antwort zu den Fragen 20 bis 20b verwiesen.
+12. Welche Erfahrungen hat die Bundesregierung hinsichtlich der Wahrung 
+von datenschutzrechtlichen Grunds&#228;tzen durch die chinesische
+Regierung, unabh&#228;ngig von den Erfahrungen, die den AIA betreffen, gemacht?
+Die Bundesregierung verf&#252;gt im Hinblick auf die Volksrepublik China
+diesbez&#252;glich &#252;ber keine konkreten Kenntnisse. Grunds&#228;tzlich geht die
+Bundesregierung jedoch von einer engen Verbindung zwischen der chinesischen Wirtschaft 
+und der Regierung der Volksrepublik China einschlie&#223;lich ihrer
+Sicherheitsbeh&#246;rden aus. Ein Beispiel ist das Cybersicherheitsgesetz von 2017, das
+chinesische Unternehmen zur Kooperation mit dem chinesischen Staat verpflichtet; 
+dies gilt grunds&#228;tzlich auch f&#252;r private Unternehmen.
+13. Welche Erfahrungen hat die Bundesregierung hinsichtlich der Wahrung 
+von datenschutzrechtlichen Grunds&#228;tzen durch die russische Regierung, 
+unabh&#228;ngig von den Erfahrungen, die den AIA betreffen, gemacht?
+14. Welche Erfahrungen hat die Bundesregierung hinsichtlich der Wahrung 
+von datenschutzrechtlichen Grunds&#228;tzen durch die Regierung von Saudi-
+Arabien, unabh&#228;ngig von den Erfahrungen, die den AIA betreffen,
+gemacht?
+15. Welche Erfahrungen hat die Bundesregierung hinsichtlich der Wahrung 
+von datenschutzrechtlichen Grunds&#228;tzen durch die Regierung von
+Aserbaidschan, unabh&#228;ngig von den Erfahrungen, die den AIA betreffen,
+gemacht?
+Die Fragen 13 bis 15 werden zusammen beantwortet.
+Die Bundesregierung verf&#252;gt im Hinblick auf die genannten Staaten
+diesbez&#252;glich &#252;ber keine konkreten Kenntnisse.
+16. Inwieweit haben die Betroffenen das Recht und die M&#246;glichkeit,
+Informationen &#252;ber sie betreffende AIA-Daten zu erhalten bzw. einzusehen?
+An welche Stelle k&#246;nnen die Betroffenen in Deutschland diesbez&#252;glich 
+herantreten?
+Von wie vielen Betroffenen wurde seit der Teilnahme Deutschlands am 
+AIA jeweils j&#228;hrlich an diese Stelle mit der Bitte um Einsichtnahme bzw. 
+Herausgabe der sie betreffenden AIA-Daten herangetreten?
+&#220;ber die Verarbeitung der Daten im Rahmen des
+Finanzkonteninformationsaustauschs sind die Betroffenen nicht zu informieren, da die Erteilung der
+Information die ordnungsgem&#228;&#223;e Erf&#252;llung der Aufgabe des BZSt gef&#228;hrden 
+w&#252;rde. Aufgabe des BZSt ist die Durchf&#252;hrung der Amtshilfe (vgl. &#167; 117 der 
+Abgabenordnung (AO)). Diese erfolgt vor dem Hintergrund des Grundsatzes 
+der Gegenseitigkeit insofern im Eigeninteresse, als der Erhalt von Daten im
+Inland die Gleichm&#228;&#223;igkeit und Gesetzm&#228;&#223;igkeit der Besteuerung absichert.
+Zus&#228;tzlich wird hierdurch die Aufgabenerledigung durch die empfangende
+ausl&#228;ndische Stelle gesichert. Die Informationspflicht der Finanzbeh&#246;rden gegen&#252;ber 
+dem Betroffenen, dessen Daten verarbeitet werden, entf&#228;llt gem&#228;&#223; &#167; 32b
+Absatz 1 Nummer 1 Buchstabe a AO, soweit die Erteilung der Information die 
+ordnungsgem&#228;&#223;e Erf&#252;llung der in der Zust&#228;ndigkeit der Finanzbeh&#246;rden
+liegenden Aufgaben gef&#228;hrden w&#252;rde.
+Bei der Offenlegung der gespeicherten Daten aus dem
+Finanzkonteninformationsaustausch besteht die Gefahr, dass der Betroffene Informationen &#252;ber die 
+der Verwaltung bekannten und im Umkehrschluss hierzu vor allem der nicht 
+bekannten steuerlich potentiell erheblichen Umst&#228;nde zur Gestaltung seiner 
+steuerlichen Angelegenheiten nutzt. Der Steuerpflichtige w&#228;re hierdurch in der 
+Lage, steuerlich bedeutsame Sachverhalte zu verschleiern, steuerlich
+bedeutsame Spuren zu verwischen sowie Art und Umfang der Erf&#252;llung steuerlicher 
+Mitwirkungspflichten auf den Kenntnisstand der Finanzbeh&#246;rden einzustellen, 
+wodurch letztlich die Aufdeckung steuerlich bedeutsamer Sachverhalte
+wesentlich erschwert w&#252;rde (vgl. &#167; 32a Absatz 2 AO). Im Ergebnis w&#252;rde dies dem 
+Sinn und Zweck des Finanzkonteninformationsaustauschs zuwiderlaufen und 
+letztendlich die ordnungsgem&#228;&#223;e Erf&#252;llung der in der Zust&#228;ndigkeit der
+Finanzbeh&#246;rden liegenden Aufgaben gef&#228;hrden. Vor diesem Hintergrund entf&#228;llt das 
+Recht auf Auskunft der betroffenen Person gegen&#252;ber der Finanzbeh&#246;rde 
+(BZSt) gem&#228;&#223; Artikel 15 DSGVO (vgl. &#167; 32c Absatz 1 Nummer 1 AO).
+Die Anzahl der beim BZSt eingegangenen Antr&#228;ge mit der Bitte um Auskunft 
+bzw. Einsichtnahme entsprechender Informationen konnte in der zur
+Beantwortung der parlamentarischen Anfrage einger&#228;umten Frist nicht ermittelt werden.
+17. Wie viele Antr&#228;ge nach &#167; 114 FGO wurden seit der Teilnahme
+Deutschlands am AIA jeweils j&#228;hrlich gestellt (bitte tabellarisch darstellen) und 
+welche Erfahrungen hat die Bundesregierung hinsichtlich des Einsatzes 
+von &#167; 114 der Finanzgerichtsordnung (FGO) im Hinblick auf den
+Datenschutz beim AIA gemacht?
+Der Bundesregierung sind keine Antr&#228;ge nach &#167; 114 FGO in Bezug auf den 
+Datenschutz in Verbindung mit dem Finanzkonteninformationsaustausch
+bekannt.
+18. Schlie&#223;t nach Kenntnis der Bundesregierung Artikel 14 der Datenschutz-
+Grundverordnung auch die Daten des AIA ein, und falls nein, aus
+welchen Gr&#252;nden fallen die AIA-Daten nicht unter dieses Regelwerk, und 
+wie steht die Bundesregierung diesem Sachverhalt gegen&#252;ber?
+Das den Betroffenen gem&#228;&#223; Artikel 14 DSGVO einger&#228;umte Recht auf
+Auskunft &#252;ber die Erhebung personenbezogener Daten, sofern diese nicht bei dem 
+Betroffenen selbst erhoben werden, findet auf den
+Finanzkonteninformationsaustausch grunds&#228;tzlich Anwendung, ist jedoch im Rahmen des
+Finanzkonteninformationsaustauschs durch Artikel 23 Absatz 1 Buchstabe e DSGVO 
+i. V. m. &#167; 32b Absatz 1 Nummer 1 Buchstabe a AO wegen der Gef&#228;hrdung der 
+ordnungsgem&#228;&#223;en Erf&#252;llung der Aufgaben des BZSt beschr&#228;nkt.
+19. Plant die Bundesregierung im Sinne eines effektiven Rechtsschutzes im 
+Sinne von Artikel 19 Absatz 4 des Grundgesetzes weitere
+Rechtsschutzm&#246;glichkeiten f&#252;r die betroffenen Steuerpflichtigen im Fall der
+&#220;bermittlung falscher Informationen an das Ausland im Rahmen des AIA?
+Die Bundesregierung setzt sich grunds&#228;tzlich stets in allen entscheidenden
+Gremien f&#252;r einen umfassenden Schutz von verfassungsrechtlich garantierten
+Individualrechten ein. Konkrete Planungen in Bezug auf den
+Finanzkonteninformationsaustausch bestehen aktuell nicht.
+20. Weshalb wird zurzeit von der OECD ein Assessment beim AIA
+durchgef&#252;hrt, um unter anderem Vertraulichkeitsstandards beim AIA zu
+untersuchen?
+a) Wie lautet der Arbeitstitel dieses Assessments, wann hat es
+begonnen, und wann soll es nach aktuellem Planungsstand abgeschlossen 
+werden?
+b) Inwiefern wirkt Deutschland bei diesem Assessment mit, und welche 
+Vorschl&#228;ge wurden von Deutschland im Rahmen des Assessments 
+eingebracht?
+Die Fragen 20 bis 20b werden zusammen beantwortet.
+F&#252;r die fl&#228;chendeckende Umsetzung und die erfolgreiche Durchf&#252;hrung des
+Finanzkonteninformationsaustauschs im Rahmen des gemeinsamen
+Meldestandards m&#252;ssen die Jurisdiktionen, die sich zum Informationsaustausch
+verpflichtet haben, jederzeit darauf vertrauen k&#246;nnen, dass der Datenschutz und die
+Informationssicherheit uneingeschr&#228;nkt gew&#228;hrleistet sind, um ihren
+Austauschpartnern j&#228;hrlich automatisch Finanzkonteninformationen zu &#252;bermitteln. Die 
+laufende &#220;berwachung der Einhaltung der Vertraulichkeitsvorschriften sowie 
+der Sanktionierung bei Verst&#246;&#223;en gegen diese Vorschriften ist f&#252;r die
+Gew&#228;hrleistung eines effizienten, zuverl&#228;ssigen und sicheren Austauschs der CRS-
+Informationen von &#252;berragender Bedeutung und wird seit jeher konzeptionell 
+verfolgt.
+Die Einhaltung der relevanten Vertraulichkeits- und Datenschutzbestimmungen 
+wird systematisch und umfassend sichergestellt. Hierzu findet im Rahmen des 
+Global Forum mit Bezug auf jede am Finanzkonteninformationsaustausch
+teilnehmende Jurisdiktion vor Aufnahme des Informationsaustausches eine
+Vorpr&#252;fung statt (Pre-Exchange Assessment) sowie ein Peer Review Prozess
+Anwendung, der die Einhaltung der Anforderungen laufend &#252;berwacht (AEOI 
+Peer Review).
+Das Global Forum verf&#252;gt &#252;ber einen zweigliedrigen Pr&#252;fmechanismus, mit 
+dem die Einhaltung aller Anforderungen an die vereinbarten Vertraulichkeits- 
+und Datenschutzstandards in allen teilnehmenden Jurisdiktionen sowohl vor als 
+auch nach Aufnahme des Informationsaustausches &#252;berpr&#252;ft wird. In beiden 
+F&#228;llen werden die rechtlichen Rahmenbedingungen, das
+Informationssicherheits-Management (Personalsicherheit, Zugriffskontrollen, Systemsicherheit, 
+Datensicherheit und operative Sicherheit des Systems) sowie ihre praktische 
+Anwendung &#252;berpr&#252;ft.
+Die Pr&#252;fprozesse werden durch das Sekretariat des Global Forum koordiniert. 
+Die eigentlichen &#220;berpr&#252;fungen werden durch sog. Assessment Teams
+durchgef&#252;hrt. Diese setzen sich aus Vertretern des Sekretariats und einer Gruppe 
+Sachverst&#228;ndiger zusammen, die von den am CRS teilnehmenden
+Jurisdiktionen gestellt werden. Die Feststellungen des Assessment Teams werden im 
+Kreis aller am CRS teilnehmenden Partnerstaaten kommuniziert und
+beschlossen.
+Deutschland ist durchg&#228;ngig in allen f&#252;r die Beurteilung der Vertraulichkeit 
+und Datensicherheit relevanten Gruppen und Gremien vertreten. Insbesondere 
+ist Deutschland Mitglied in der sog. APRG+-Group (Automatic Exchange of 
+Information Peer Review Group), die s&#228;mtliche Entscheidungen in Bezug auf 
+die &#220;berpr&#252;fung des CRS trifft, sowie der Steering Group des Global Forum, 
+die sowohl Lenkungsgremium als auch Eskalationsinstanz in Belangen der AE-
+OI Peer Review ist. Dar&#252;ber hinaus war Deutschland in der AEOI Group
+vertreten, die durch die APRG+-Group abgel&#246;st worden ist. Aus diesen Rollen
+heraus bringt sich Deutschland bereits seit jeher aktiv f&#252;r ein hohes
+Datenschutzniveau im Zusammenhang mit dem automatischen Austausch von
+Informationen &#252;ber Finanzkonten ein.
+Pre-Exchange Assessment
+Damit eine am Finanzkonteninformationsaustausch interessierte Jurisdiktion 
+den Austausch &#252;berhaupt aufnehmen kann, muss er zuvor im Rahmen eines 
+Pre-Exchange Assessment einer &#220;berpr&#252;fung unterzogen werden. Der
+Schwerpunkt dieser &#220;berpr&#252;fung liegt auf den Schutzvorkehrungen zur
+Gew&#228;hrleistung des Datenschutzes und der Informationssicherheit. Werden im Zuge dieser 
+Vorpr&#252;fungen Unregelm&#228;&#223;igkeiten identifiziert, m&#252;ssen diese ausger&#228;umt
+werden. Solange dies nicht nachweislich geschieht, ist die Jurisdiktion in der Liste 
+der Staaten ohne Gegenseitigkeit zu f&#252;hren, was zur Folge hat, dass andere am 
+Finanzkonteninformationsaustausch teilnehmenden Jurisdiktionen keine
+Finanzkonteninformationen an diese Jurisdiktion &#252;bermitteln (vgl. &#167; 2 Absatz 1 
+Unterabsatz 2 der Mehrseitigen Vereinbarung).
+AEOI Peer Review
+Das Global Forum hat ferner einen AEOI Peer Review Prozess entwickelt, mit 
+dem die effektive Umsetzung des gemeinsamen Meldestandards hinsichtlich
+aller seiner Bestandteile in den am Finanzkonteninformationsaustausch
+teilnehmenden Jurisdiktionen &#252;berpr&#252;ft wird. Eines von drei Kernelementen der AEOI 
+Peer Review betrifft dabei die Einhaltung der Vertraulichkeits- und
+Datenschutzbestimmungen (Core Requirement 3).
+&#220;ber einen Zeitraum von f&#252;nf Jahren wird ab diesem Jahr f&#252;r alle
+teilnehmenden Partnerstaaten die zweckgerechte Verwendung der &#252;bermittelten
+Finanzkonteninformationen einschlie&#223;lich der Einhaltung internationaler Standards 
+(ISO/IEC 27001) im Hinblick auf die technische und operative
+Informationssicherheit unter Ber&#252;cksichtigung der besonderen Situation des
+Informationsaustausches im Steuerbereich &#252;berpr&#252;ft.
+21. Inwiefern setzt sich die Bundesregierung f&#252;r st&#228;rkere
+Kontrollmechanismen hinsichtlich der Einhaltung der Anforderungen zu Vertraulichkeit 
+sowie zur Datensicherheit und zum Datenschutz beim AIA ein?
+Welche konkreten Ma&#223;nahmen strebt sie an?
+Die Bundesregierung hat an den in der Antwort zu den Fragen 20 bis 20b.
+ausgef&#252;hrten Pr&#252;fmechanismen wie dargestellt mitgewirkt und h&#228;lt sie f&#252;r
+belastbar. Dessen ungeachtet bringt sich die Bundesregierung aktiv in die laufende 
+Weiterentwicklung der Mechanismen auf zwischenstaatlicher Ebene ein.
+Gesamtherstellung: H. Heenemann GmbH &amp; Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#223;e 83&#8211;91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 K&#246;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de
+ISSN 0722-8333]</text>
+    <titel>auf die Kleine Anfrage
+- Drucksache 19/21720 -
+Datensicherheit beim automatischen Informationsaustausch &#252;ber Finanzkonten</titel>
+    <datum>2020-09-03</datum>
+  </document>
+  
