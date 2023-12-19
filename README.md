@@ -1,5 +1,5 @@
 # Event-Log-Generation-Bundestag
-Masterthesis at HUmboldt Universität zu Berlin
+Masterthesis at Humboldt-Universität zu Berlin
 
 All event logs were created in the context of a master thesis in 2023.
 
